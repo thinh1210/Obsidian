@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "350708a394e67f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "d960285325a9f8f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "135526f0f53298c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux_Bootlin/docs/11_Direct_Memory_Access_DMA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11_Direct_Memory_Access_DMA"
+            }
+          },
+          {
+            "id": "5987999d6767d402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/IELTS Note/08_05_26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08_05_26"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45baef9cf6c5dbca",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea067ad85bc466d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f40d51efc3b1d31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9f330247ea30f63a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MAP",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "038e9d2188cb3b2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.500732421875
+  },
+  "right": {
+    "id": "f2c2d5dae0d3709f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac489e9fc0ddd28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "373ae04d517d6c60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/IELTS Note/08_03_26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6de0d708d4d27d01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "edbff054277f5977",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c1bb583d3d7eee4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "830fea7413a11ef2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "3f40d51efc3b1d31",
+  "lastOpenFiles": [
+    "README.md",
+    "English/IELTS Note/08_03_26.md",
+    "Linux_Bootlin/docs/01_Linux_Kernel_Introduction.md",
+    "Linux_Bootlin/linux-kernel-slides.pdf",
+    "Linux_Bootlin/docs/02_Linux_Kernel_Sources.md",
+    "Linux_Bootlin/docs/12_Kernel_Debugging_Useful_APIs.md",
+    "Linux_Bootlin/docs/11_Direct_Memory_Access_DMA.md",
+    "English/IELTS Note/08_05_26.md",
+    "ESP32/ESP_IDF_Mastery/03_Peripherals/i2c/i2c_simple.md",
+    "ESP32/ESP_IDF_Mastery/03_Peripherals/gpio/generic_gpio.md",
+    "ESP32/ESP_IDF_Mastery/03_Peripherals/gpio/matrix_keyboard.md",
+    "ESP32/ESP_IDF_Mastery/02_FreeRTOS_And_System/01_Task_Management.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/_FOOD - DRINK_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/Nutritious.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "English/IELTS Note",
+    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/Palatable.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/Pungent.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/Quench.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/ACCESSORIES/_ACCESSORIES_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/A STYLISH PERSON/_A STYLISH PERSON_Index.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/_ADJECTIVES_Index.md",
+    "English/Vocabulary Topics/8. Arts, Culture & Society/POLITICS/Government.md.tmp.48245.2f9957b01315",
+    "English/Vocabulary Topics/8. Arts, Culture & Society/SUBJECTS/Journalism.md.tmp.48245.19d18fde5cd2",
+    "English/Vocabulary Topics/8. Arts, Culture & Society/POLITICS/Gerrymandering.md.tmp.48245.f0fd8bc4c140",
+    "English/Vocabulary Topics/8. Arts, Culture & Society/SUBJECTS/Humanities.md.tmp.48245.1efec705de86",
+    "English/Vocabulary Topics/8. Arts, Culture & Society/LAW/Arrest.md.tmp.48245.0fbc5249dcea",
+    "English/Vocabulary Topics/8. Arts, Culture & Society/POLITICS/Geopolitics.md.tmp.48245.389a9befac16",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/Bad.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/Tiny.md",
+    "Linux_Bootlin/docs/10_Processes_Scheduling_Interrupts_Concurrency.md",
+    "Linux_Bootlin/docs/09_Clock_Power_Misc_Subsystem.md",
+    "Linux_Bootlin/docs/08_Memory_Management_IO_Memory.md",
+    "Linux_Bootlin/docs/07_Kernel_Frameworks_Char_Drivers.md",
+    "Linux_Bootlin/docs/03_Linux_Kernel_Usage_Config_Build_Boot.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,126 @@
+# Project Context Log
+
+## 2026-07-21
+- **Task**: Added a Contextual Story to the vocabulary topic `MAJOR`.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/8. Arts, Culture & Society/MAJOR/_MAJOR_Index.md`
+- **Details**: Selected 13 key vocabulary words (A1-C2), created an English paragraph (105 words) with Obsidian links, and wrote a Vietnamese translation with bold highlighted terms.
+- **Status**: Completed successfully.
+
+- **Task**: Added a Contextual Story to the vocabulary topic `EDUCATION`.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/8. Arts, Culture & Society/EDUCATION/_EDUCATION_Index.md`
+- **Details**: Selected 13 vocabulary words (A1-C2), created an English paragraph (116 words) with Obsidian links, and wrote a Vietnamese translation with bold highlighted terms.
+- **Status**: Completed successfully.
+
+## 2026-07-21 (Session 2)
+- **Task**: Added a Contextual Story to the vocabulary topic `LINGUISTICS`.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/8. Arts, Culture & Society/LINGUISTICS/_LINGUISTICS_Index.md`
+- **Details**: Selected 15 key vocabulary words from A1-C2, created an English paragraph (98 words) with Obsidian links, and wrote a Vietnamese translation with bold highlighted terms.
+- **Status**: Completed successfully.
+
+- **Task**: Added a Contextual Story to the vocabulary topic `MUSIC`.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/8. Arts, Culture & Society/MUSIC/_MUSIC_Index.md`
+- **Details**: Selected 13 key vocabulary words from A1-C2, created an English paragraph (110 words) with Obsidian links, and wrote a Vietnamese translation with bold highlighted terms.
+- **Status**: Completed successfully.
+
+## 2026-07-21 (Session 3)
+- **Task**: Generated 50 vocabulary words for topic `HEALTH`.
+- **Target Directory**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/9. Others/HEALTH`
+- **Details**: Created exactly 50 `.md` files matching standard vocabulary format (15 A1-A2, 20 B1-B2, 15 C1-C2). Did not modify the `_Index.md` file per request.
+- **Status**: Completed successfully.
+
+
+- **Task**: Generated exactly 50 vocabulary words for topic `OTHERS`
+- **Target Directory**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/9. Others/OTHERS`
+- **Details**: Created 50 `.md` files (15 for A1-A2, 20 for B1-B2, 15 for C1-C2) matching the standard vocabulary workflow format using an automated python script. Did not update the index file as per instructions.
+- **Status**: Completed successfully.
+
+- **Task**: Generated exactly 50 vocabulary words for topic `EQUIPMENT - TOOLS`
+- **Target Directory**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/9. Others/EQUIPMENT - TOOLS`
+- **Details**: Created 50 `.md` files (15 for A1-A2, 20 for B1-B2, 15 for C1-C2) matching the standard vocabulary workflow format using an automated python script. Did not update the index file as per instructions.
+- **Status**: Completed successfully.
+
+- **Task**: Added a Contextual Story to the vocabulary topic `EQUIPMENT - TOOLS`.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/9. Others/EQUIPMENT - TOOLS/_EQUIPMENT - TOOLS_Index.md`
+- **Details**: Selected 13 key vocabulary words from A1-C2, created an English paragraph with Obsidian links, and wrote a Vietnamese translation with bold highlighted terms.
+- **Status**: Completed successfully.
+- **Task**: Added a Contextual Story to the vocabulary topic `MATERIALS`.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Vocabulary Topics/9. Others/MATERIALS/_MATERIALS_Index.md`
+- **Details**: Selected 15 key vocabulary words from A1-C2, created an English paragraph (117 words) with Obsidian links, and wrote a Vietnamese translation with bold highlighted terms.
+- **Status**: Completed successfully.
+
+## 2026-07-22
+- **Task**: Created Grammar & Cohesion learning system.
+- **Target Files**: 
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/_Grammar_Index.md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/1. Essential Grammar Tenses & Sentence Structures.md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/2. Prepositions (Giới từ).md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/3. Gerunds & Infinitives (Danh động từ & Động từ nguyên mẫu).md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/4. Connecting Clauses with Prepositions (Nối câu bằng giới từ).md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/5. Sentence Linkers & Cohesion (Từ nối & Liên kết câu trong đoạn).md`
+- **Details**: Created the main grammar index dashboard and 5 comprehensive topic files covering tenses, prepositions, gerunds, clause connecting, and paragraph cohesion.
+- **Status**: Completed successfully.
+
+- **Task**: Created grammar-cohesion-helper Agent Skill.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/.agent/SKILL/grammar-cohesion-helper/SKILL.md`
+- **Details**: Created a new Agent Skill defining behaviors for analyzing user writing, identifying grammar/preposition/gerund/cohesion errors, and generating customized practice exercises.
+- **Status**: Completed successfully.
+
+## 2026-07-23
+- **Task**: Detailed the Essential Grammar section into specific topic notes.
+- **Target Files**:
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/1. Essential Grammar Tenses & Sentence Structures.md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/1.1. Present Tenses (Các thì Hiện tại).md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/1.2. Past Tenses (Các thì Quá khứ).md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/1.3. Future Tenses (Các thì Tương lai).md`
+  - `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/1.4. Sentence Structures (Cấu trúc câu).md`
+- **Details**: Refactored the core grammar note into a navigation index and created 4 separate comprehensive notes for present, past, future tenses, and sentence structures with detailed rules, warnings, and pronunciation tips.
+- **Status**: Completed successfully.
+
+- **Task**: Reorganized Grammar directory into subfolders and created advanced grammar notes.
+- **Target Folders & Files**:
+  - `Grammar & Cohesion/1. Tenses & Core Grammar/` (Present, Past, Future Tenses)
+  - `Grammar & Cohesion/2. Sentence Structures & Writing/` (Sentence Elements & Types, Connecting Clauses with Prepositions, Sentence Linkers & Paragraph Cohesion)
+  - `Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/` (Prepositions, Gerunds & Infinitives)
+  - `Grammar & Cohesion/4. Advanced Grammar Topics/` (Passive Voice, Reported Speech, Exclamatory Sentences, Inversion, Conditionals & Wish, Subjunctive Mood, Cleft Sentences)
+  - `Grammar & Cohesion/_Grammar_Index.md`
+- **Details**: Cleaned up the root directory by deleting 9 obsolete files and migrating contents to 8 neat topic notes under 3 subfolders. Created 7 new advanced grammar notes with highly detailed explanations, rules, formulas, examples, and warnings. Updated the main dashboard to support the new structure.
+- **Status**: Completed successfully.
+
+- **Task**: Updated and formatted the Sentence Structures note.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/2. Sentence Structures & Writing/2.1. Sentence Elements & Types.md`
+- **Details**: Corrected content and formatting by renaming elements, adding the 7 basic sentence patterns (SV, SVO, SVC, SVA, SVOO, SVOC, SVOA) with examples, restructuring the 4 sentence types with clean callouts, and rewriting the common error sections with warning callouts.
+- **Status**: Completed successfully.
+
+- **Task**: Fixed header titles and numbering in Sentence Structures note.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/2. Sentence Structures & Writing/2.1. Sentence Elements & Types.md`
+- **Details**: Updated H1 title to match the filename ("Sentence Elements & Types"). Corrected the H2 numbering to be strictly sequential (1, 2, 3, 4) by renaming the third H2 to "Bốn kiểu cấu trúc câu chính" (to avoid consecutive numbers 3 and 4) and adding number 4 to "Các lỗi kinh điển".
+- **Status**: Completed successfully.
+
+- **Task**: Added Inversion of Passive Voice section to the Passive Voice note.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/Grammar & Cohesion/4. Advanced Grammar Topics/4.1. Passive Voice (Câu bị động).md`
+- **Details**: Fixed a syntax typo at the H1 header. Added a new section "2.E. Đảo ngữ của câu bị động" detailing adverbial-of-place passive inversion and past-participle passive inversion (e.g. Enclosed/Attached herewith is...) with formulas and examples.
+- **Status**: Completed successfully.
+
+## 2026-07-24
+- **Task**: Split Prepositions section into Basic and Advanced notes, added exercises and examples.
+- **Target Files**:
+  - `Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.1. Basic Prepositions (Giới từ cơ bản).md`
+  - `Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.3. Advanced Prepositions (Giới từ nâng cao).md`
+  - `Grammar & Cohesion/_Grammar_Index.md`
+- **Details**: Deleted the old general preposition note. Created 3.1 Basic Prepositions (covering In/On/At, direction, basic collocations, and an 8-question practice exercise with explanations). Created 3.3 Advanced Prepositions (covering agency/instrument prepositions, cause/motivation prepositions, complex prepositions, C1-C2 collocations, common confusions, and an 8-question practice exercise with explanations). Updated the index dashboard and Mermaid flowchart.
+- **Status**: Completed successfully.
+
+## 2026-08-04
+- **Task**: Standardized, enriched, and expanded IELTS Vocabulary Note `08_03_26.md`.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/IELTS Note/08_03_26.md`
+- **Details**: Fixed raw typos (roundabout, go past, go beyond, stationery vs stationary, particular, lecture theatre, phrasal verb, amused/amusing, beneficial, work out). Added IPA, word types, CEFR levels, English & Vietnamese definitions, IELTS use cases, and bilingual examples. Added 3 topic expansion sections for Map Labeling, Academic Communication, and Child Language Acquisition.
+- **Status**: Completed successfully.
+
+## 2026-08-08
+- **Task**: Standardized, enriched, and expanded IELTS Vocabulary Note `08_05_26.md`.
+- **Target File**: `/home/thinh/Documents/Obsidian Vault/English/IELTS Note/08_05_26.md`
+- **Details**: Added comprehensive vocabulary, IPA, CEFR levels, and bilingual examples across all sub-sections: Cooking verbs (steam, simmer, saute, blanch, marinate, chop, dice, slice, mince), Ingredients (spice, seasoning, condiment, garnish, dressing, marinade), Tastes (sour, bitter, salty, umami, astringent, tangy), Adjectives (stale, soggy, rich, zesty, aromatic, lip-smacking), Nutrition (mindful eating, binge eating, nutritional deficiency, dietary fiber, high-protein diet, artificial sweetener, food allergy), Food Idioms (sweet tooth, eat like a bird, eat heart out, grain of salt, bite off more than chew, food for thought), and 2 new Speaking Part 1 questions & model answers.
+- **Status**: Completed successfully.
+
+
+
