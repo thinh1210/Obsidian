@@ -45,8 +45,8 @@ Các file `.md` được tạo ra phải tuân thủ nghiêm ngặt định dạ
 - [Từ đồng nghĩa 1], [Từ đồng nghĩa 2]
 ```
 
-## 3. Quy chuẩn Bảng Mục lục (`_Index.md`)
-Sau khi sinh xong các file từ vựng, hệ thống (Master Agent hoặc Subagent) PHẢI cập nhật/tái cấu trúc file Index của thư mục đó bằng Python Script.
+## 3. Quy chuẩn Bảng Mục lục (`0_{Topic}_Index.md`)
+Sau khi sinh xong các file từ vựng, hệ thống (Master Agent hoặc Subagent) PHẢI cập nhật/tái cấu trúc file Index của thư mục đó bằng Python Script (tên file bắt đầu bằng `0_` để file Index luôn hiển thị ở trên cùng danh sách).
 - Cấu trúc bảng bắt buộc: `| Từ vựng | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |`
 - Việc sắp xếp bảng bắt buộc phải ưu tiên theo cột **Level (A1 -> C2)**, sau đó mới đến Alphabet.
 

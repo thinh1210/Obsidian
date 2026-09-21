@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Bootlin/docs/11_Direct_Memory_Access_DMA.md",
+                "file": "English/Vocabulary Topics/3. People & Relationships/CELEBRITIES' IMPACT ON THE SOCIETY/0_CELEBRITIES' IMPACT ON THE SOCIETY_Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11_Direct_Memory_Access_DMA"
-            }
-          },
-          {
-            "id": "5987999d6767d402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/IELTS Note/08_05_26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08_05_26"
+              "title": "0_CELEBRITIES' IMPACT ON THE SOCIETY_Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -82,6 +67,19 @@
             }
           },
           {
+            "id": "ef4958a31fc68f18",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 2.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 2"
+            }
+          },
+          {
             "id": "038e9d2188cb3b2f",
             "type": "leaf",
             "state": {
@@ -95,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.500732421875
+    "width": 433.875
   },
   "right": {
     "id": "f2c2d5dae0d3709f",
@@ -172,8 +170,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ]
@@ -195,44 +193,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3f40d51efc3b1d31",
+  "active": "135526f0f53298c5",
   "lastOpenFiles": [
-    "README.md",
-    "English/IELTS Note/08_03_26.md",
-    "Linux_Bootlin/docs/01_Linux_Kernel_Introduction.md",
-    "Linux_Bootlin/linux-kernel-slides.pdf",
-    "Linux_Bootlin/docs/02_Linux_Kernel_Sources.md",
-    "Linux_Bootlin/docs/12_Kernel_Debugging_Useful_APIs.md",
+    "English/Vocabulary Topics/3. People & Relationships/CHILDREN/Minor.md",
+    "English/Vocabulary Topics/3. People & Relationships/CELEBRITIES' IMPACT ON THE SOCIETY/0_CELEBRITIES' IMPACT ON THE SOCIETY_Index.md",
+    "English/Vocabulary Topics/3. People & Relationships/CELEBRITIES' IMPACT ON THE SOCIETY/46 - Polarizing.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/SHOPPING HABITS/0_SHOPPING HABITS_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/LIFESTYLE/0_LIFESTYLE_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/LIFESTYLE/Hygiene.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/LEISURE ACTIVITIES - LEISURE TIME/0_LEISURE ACTIVITIES - LEISURE TIME_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/JEWELRY/Bespoke.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/JEWELRY/0_JEWELRY_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/HOBBIES/0_HOBBIES_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/0_FOOD - DRINK_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/ACCESSORIES/0_ACCESSORIES_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/A STYLISH PERSON/0_A STYLISH PERSON_Index.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/SHAPES/0_SHAPES_Index.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/RATING - QUALITIES/0_RATING - QUALITIES_Index.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/DAY - WEEK - MONTH/0_DAY - WEEK - MONTH_Index.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/COLOR/0_COLOR_Index.md",
     "Linux_Bootlin/docs/11_Direct_Memory_Access_DMA.md",
+    "English/IELTS Note/Speaking/Home town.md",
+    "English/IELTS Note/Speaking/Protecting the environment.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/0_ADJECTIVES_Index.md",
+    "English/IELTS Note/Speaking/Money talks.md",
+    "English/IELTS Note/Speaking/Learning a foreign language.md",
+    "English/Vocabulary Topics/9. Others/OTHERS/0_OTHERS_Index.md",
     "English/IELTS Note/08_05_26.md",
-    "ESP32/ESP_IDF_Mastery/03_Peripherals/i2c/i2c_simple.md",
-    "ESP32/ESP_IDF_Mastery/03_Peripherals/gpio/generic_gpio.md",
-    "ESP32/ESP_IDF_Mastery/03_Peripherals/gpio/matrix_keyboard.md",
-    "ESP32/ESP_IDF_Mastery/02_FreeRTOS_And_System/01_Task_Management.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/_FOOD - DRINK_Index.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/Nutritious.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/_ADJECTIVES_Index.md",
+    "Pasted image 20260919151005.png",
+    "Untitled 2.base",
+    "English/IELTS Note/Writing",
+    "English/IELTS Note/Speaking",
+    "English/SW_Toeic",
+    "Linux_Bootlin/linux-kernel-slides.pdf",
     "Untitled 1.base",
     "Untitled.base",
     "English/IELTS Note",
-    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/Palatable.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/Pungent.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/FOOD - DRINK/Quench.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/ACCESSORIES/_ACCESSORIES_Index.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/A STYLISH PERSON/_A STYLISH PERSON_Index.md",
-    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/_ADJECTIVES_Index.md",
     "English/Vocabulary Topics/8. Arts, Culture & Society/POLITICS/Government.md.tmp.48245.2f9957b01315",
     "English/Vocabulary Topics/8. Arts, Culture & Society/SUBJECTS/Journalism.md.tmp.48245.19d18fde5cd2",
-    "English/Vocabulary Topics/8. Arts, Culture & Society/POLITICS/Gerrymandering.md.tmp.48245.f0fd8bc4c140",
-    "English/Vocabulary Topics/8. Arts, Culture & Society/SUBJECTS/Humanities.md.tmp.48245.1efec705de86",
-    "English/Vocabulary Topics/8. Arts, Culture & Society/LAW/Arrest.md.tmp.48245.0fbc5249dcea",
-    "English/Vocabulary Topics/8. Arts, Culture & Society/POLITICS/Geopolitics.md.tmp.48245.389a9befac16",
-    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/Bad.md",
-    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/Tiny.md",
-    "Linux_Bootlin/docs/10_Processes_Scheduling_Interrupts_Concurrency.md",
-    "Linux_Bootlin/docs/09_Clock_Power_Misc_Subsystem.md",
-    "Linux_Bootlin/docs/08_Memory_Management_IO_Memory.md",
-    "Linux_Bootlin/docs/07_Kernel_Frameworks_Char_Drivers.md",
-    "Linux_Bootlin/docs/03_Linux_Kernel_Usage_Config_Build_Boot.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
