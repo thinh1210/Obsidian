@@ -2,8 +2,10 @@
 *n.*
 > /ˈpleɪ.dʒər.ɪ.z(ə)m/
 
+![[plagiarism.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of taking someone else's work or ideas and presenting them as one's own.

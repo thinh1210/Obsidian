@@ -2,8 +2,10 @@
 *Verb*
 > /lend/
 
+![[lend.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something to someone for a period of time, expecting it to be returned.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lend money to`: cho ai vay tiền
 - `lend a helping hand`: giúp đỡ một tay
+- `peer-to-peer lending`: hình thức cho vay ngang hàng (P2P)
+- `lend money prudently`: cho vay một cách thận trọng cân nhắc
+- `lending terms`: các điều khoản quy định khi cho vay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I can lend you my umbrella if it's still raining.

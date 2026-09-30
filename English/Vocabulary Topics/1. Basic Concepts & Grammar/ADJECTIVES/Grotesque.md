@@ -2,8 +2,10 @@
 *adj.*
 > /ɡrəʊˈtesk/
 
+![[grotesque.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Comically or repulsively ugly or distorted
@@ -13,7 +15,10 @@
 💡 Gờ rô (grotesque) kỳ cục
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``grotesque distortion`: sự bóp méo kỳ cục`
+- `grotesque distortion`: sự bóp méo kỳ cục
+- `grotesque figure`: hình thù kỳ dị quái đản
+- `border on the grotesque`: gần như kỳ quặc / lố lăng
+- `grotesque inequality`: sự bất bình đẳng bất thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Grotesque face.

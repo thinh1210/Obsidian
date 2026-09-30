@@ -2,8 +2,10 @@
 *noun*
 > /əˈbɪs/
 
+![[abyss.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Literature | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C2 | **Ngữ cảnh:** Formal/Literature | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep or seemingly bottomless chasm.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stare into the abyss`: nhìn chằm chằm vào vực thẳm
+- `edge of the abyss`: bờ vực thẳm
+- `oceanic abyss`: vực sâu đại dương
+- `gaze into the abyss`: nhìn sâu vào vực thẳm
+- `yawning abyss`: vực sâu hoắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He felt like he was falling into an abyss.

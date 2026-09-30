@@ -2,8 +2,10 @@
 *Noun*
 > /ˈbɔːrdər/
 
+![[border.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line separating two political or geographical areas.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Cross the border`: Vượt biên giới
+- `border control`: kiểm soát biên giới
+- `seal the border`: đóng cửa phong tỏa biên giới
+- `cross-border trade`: thương mại xuyên biên giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We crossed the border into Canada.

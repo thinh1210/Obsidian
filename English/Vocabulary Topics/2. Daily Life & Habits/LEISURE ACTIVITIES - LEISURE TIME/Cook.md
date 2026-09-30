@@ -2,8 +2,10 @@
 *v*
 > /kʊk/
 
+![[cook.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Prepare food by heating it.
@@ -13,7 +15,11 @@
 💡 Cook - Cúc (tên) rất thích nấu ăn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `cook dinner`: nấu bữa tối\n- `learn to cook`: học nấu ăn
+- `cook dinner`: nấu bữa tối
+- `learn to cook`: học nấu ăn
+- `cook up a storm`: trổ tài nấu nướng thịnh soạn
+- `home-cooked meal`: bữa cơm gia đình tự nấu
+- `slow cook`: ninh / hầm chín từ từ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I cook for my family daily.

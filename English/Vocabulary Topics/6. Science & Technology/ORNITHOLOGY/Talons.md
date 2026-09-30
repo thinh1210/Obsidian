@@ -2,8 +2,10 @@
 *noun*
 > /ˈtæl.ənz/
 
+![[talons.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The claw of a bird of prey.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sharp talons`: móng vuốt sắc nhọn
 - `powerful talons`: móng vuốt mạnh mẽ
+- `clutch with talons`: quắp chặt con mồi bằng móng vuốt
+- `extend talons`: giương vuốt nhọn chuẩn bị vồ mồi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The hawk caught the rabbit with its sharp talons.

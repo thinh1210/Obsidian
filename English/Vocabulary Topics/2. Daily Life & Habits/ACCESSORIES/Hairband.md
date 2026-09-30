@@ -2,8 +2,10 @@
 *noun*
 > /ˈheəbænd/
 
+![[hairband.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of material or curved plastic worn in the hair to keep it away from the face.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `an elastic hairband`: một chiếc dây buộc tóc đàn hồi
+- `velvet hairband`: bờm tóc bằng nhung
+- `padded hairband`: băng đô độn phồng
+- `slip on a hairband`: cài bờm tóc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She uses a hairband when playing sports.

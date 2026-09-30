@@ -2,8 +2,10 @@
 *n.*
 > /ˈlændlɔːd/
 
+![[landlord.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person, especially a man, who rents land, a building, or an apartment to a tenant.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `landlord and tenant`: chủ nhà và người thuê nhà
 - `absentee landlord`: chủ nhà vắng mặt
+- `slum landlord`: chủ nhà trọ tồi tàn bóc lột
+- `dispute with the landlord`: tranh chấp quyền lợi với chủ nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our landlord is very friendly and fixed the plumbing immediately.

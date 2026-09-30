@@ -2,8 +2,10 @@
 *noun*
 > /ˈbeɪ.bi/
 
+![[baby.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A very young child.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have a baby`: sinh con
+- `baby shower`: tiệc mừng sắp sinh em bé
+- `sleep like a baby`: ngủ say như một đứa trẻ (idiom)
+- `baby steps`: những bước đi chập chững ban đầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The baby is sleeping.

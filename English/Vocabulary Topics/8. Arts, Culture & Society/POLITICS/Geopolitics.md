@@ -2,8 +2,10 @@
 *n*
 > /ˌdʒiː.əʊˈpɒl.ɪ.tɪks/
 
+![[geopolitics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of how geography, economics, and demographics influence politics and international relations.

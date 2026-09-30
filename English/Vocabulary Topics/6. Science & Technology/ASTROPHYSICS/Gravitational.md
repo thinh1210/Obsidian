@@ -2,8 +2,10 @@
 *adjective*
 > /ˌɡræv.ɪˈteɪ.ʃən.əl/
 
+![[gravitational.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to gravity or movement caused by gravity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gravitational wave`: sóng hấp dẫn
 - `gravitational lens`: thấu kính hấp dẫn
+- `gravitational pull`: lực hút hấp dẫn
+- `gravitational field`: trường hấp dẫn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The moon's gravitational pull causes ocean tides on Earth.

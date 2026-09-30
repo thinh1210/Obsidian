@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈɪnsələr/
 
+![[insular.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Insular community`: Cộng đồng cô lập
+- `insular mindset`: tư duy khép kín hẹp hòi
+- `insular geography`: địa lý hải đảo cô lập
+- `insular lifestyle`: lối sống biệt lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The village is very insular and dislikes strangers.

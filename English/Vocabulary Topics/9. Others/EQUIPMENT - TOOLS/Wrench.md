@@ -2,8 +2,10 @@
 *noun*
 > /rentʃ/
 
+![[wrench.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool used for gripping, turning, or twisting objects, usually metal nuts and bolts.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adjustable wrench`: mỏ lết điều chỉnh
 - `pipe wrench`: mỏ lết ống nước
+- `monkey wrench`: mỏ lết ống nước lớn
+- `wrench free`: giật mạnh để thoát ra (phrasal verb)
+- `emotional wrench`: nỗi giằng xé nội tâm sâu sắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need an adjustable wrench to loosen this bolt.

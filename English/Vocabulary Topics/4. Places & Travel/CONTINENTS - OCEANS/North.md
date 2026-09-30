@@ -2,8 +2,10 @@
 *noun*
 > /nɔːθ/
 
+![[north.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The direction that is to your left when you face the rising sun.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in the north`: ở hướng Bắc
+- `due north`: chính bắc
+- `True North`: phương bắc thực
+- `North Pole`: Bắc Cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wind is coming from the north.

@@ -2,8 +2,10 @@
 *n.*
 > /saʊnd/
 
+![[sound.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vibrations traveling through the air or another medium and that can be heard when they reach a person's or animal's ear.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strange sound`: âm thanh lạ
 - `sound quality`: chất lượng âm thanh
+- `sound effects`: hiệu ứng âm thanh
+- `sound barrier`: bức tường âm thanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I woke up because of a strange sound outside.

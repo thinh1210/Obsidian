@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɪl.ɪ.ɡriː/
 
+![[filigree.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ornamental work of fine wire formed into delicate tracery.
@@ -13,7 +15,10 @@
 💡 Phi (Fi) li (li) ghi (gree) chép hoa văn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `silver filigree: chạm trổ bạc`
+- `silver filigree`: chạm trổ bạc
+- `delicate filigree`: họa tiết kim hoàn uốn lượn tinh xảo
+- `filigree ring`: nhẫn chạm trổ hoa văn ren
+- `intricate silver filigree`: tác phẩm chạm bạc tinh vi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The earrings feature filigree.

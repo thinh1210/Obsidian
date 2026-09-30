@@ -2,8 +2,10 @@
 *n./v.*
 > /ˈɔːdɪt/
 
+![[audit.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official examination of the quality or standard of something, especially financial records

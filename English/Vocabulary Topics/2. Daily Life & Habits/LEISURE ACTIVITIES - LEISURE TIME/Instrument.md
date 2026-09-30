@@ -2,8 +2,10 @@
 *n*
 > /ˈɪnstrəmənt/
 
+![[instrument.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or device for producing musical sounds.
@@ -13,7 +15,11 @@
 💡 In (trong) + stru (trung) + ment -> trong trung tâm có nhạc cụ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `play an instrument`: chơi nhạc cụ\n- `musical instrument`: nhạc cụ
+- `play an instrument`: chơi nhạc cụ
+- `musical instrument`: nhạc cụ
+- `string instrument`: nhạc cụ dây
+- `acoustic instrument`: nhạc cụ mộc (không điện tử)
+- `learn to play an instrument`: học chơi một nhạc cụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to learn a new instrument.

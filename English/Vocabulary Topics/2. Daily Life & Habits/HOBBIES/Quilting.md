@@ -2,8 +2,10 @@
 *n.*
 > /ˈkwɪl.tɪŋ/
 
+![[quilting.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of making quilts (coverings for beds made of two layers of cloth with soft material inside).

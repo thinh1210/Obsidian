@@ -2,8 +2,10 @@
 *noun*
 > /beɪl/
 
+![[bail.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount of money that an accused person pays to be released from custody before trial

@@ -2,8 +2,10 @@
 *n.*
 > /ˈeɪtriəm/
 
+![[atrium.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A large open-roofed or glass-roofed hall at the center of a building
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `glass-roofed atrium`: giếng trời lợp kính
 - `central atrium`: sảnh trung tâm
+- `sunlit atrium`: giếng trời ngập tràn ánh nắng
+- `multi-story atrium`: sảnh thông tầng nhiều tầng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The hotel has a spectacular atrium filled with plants.

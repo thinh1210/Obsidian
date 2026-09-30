@@ -2,8 +2,10 @@
 *noun*
 > /ˈæmjələt/
 
+![[amulet.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object worn because it is believed to protect against evil, disease, or unhappiness.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wear an amulet`: đeo bùa hộ mệnh
+- `protective amulet`: bùa hộ mệnh bảo vệ
+- `magical amulet`: bùa hộ thân huyền bí
+- `amulet against bad luck`: bùa hộ mệnh trừ vận xui
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He always wears an amulet for good luck.

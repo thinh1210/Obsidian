@@ -2,8 +2,10 @@
 *n.*
 > /ˌmeɡ.əˈlɑː.pəl.ɪs/
 
+![[megalopolis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large, heavily populated city or urban complex.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sprawling megalopolis`: siêu đô thị trải rộng
+- `coastal megalopolis`: siêu đô thị vùng duyên hải
+- `thriving megalopolis`: siêu đô thị phồn thịnh tột bậc
+- `megalopolis transport system`: mạng lưới giao thông của siêu đô thị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tokyo is considered a megalopolis.

@@ -2,8 +2,10 @@
 *verb*
 > /ruːl/
 
+![[rule.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exercise ultimate power or authority over an area and its people.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rule the country`: cai trị đất nước
 - `rule with an iron fist`: cai trị bằng bàn tay sắt
+- `colonial rule`: ách thống trị của chủ nghĩa thực dân
+- `rule over an empire`: trị vì thâu tóm toàn bộ một đế chế rộng lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The parents rule the household, but they listen to their kids' opinions.

@@ -2,8 +2,10 @@
 *v.*
 > /iːt/
 
+![[eat.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Put food into the mouth and chew and swallow it.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `eat out`: ăn ngoài
+- `eat clean`: ăn uống lành mạnh
+- `eat on the run`: ăn vội ăn vàng trên đường
+- `mindful eating`: ăn trong chánh niệm, tập trung ăn uống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I eat breakfast at 7.

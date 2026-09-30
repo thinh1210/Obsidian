@@ -2,8 +2,10 @@
 *Noun*
 > /ˈmaʊntɪn/
 
+![[mountain.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large natural elevation of the earth's surface rising abruptly.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mountain range`: dãy núi
 - `climb a mountain`: leo núi
+- `mountain peak`: đỉnh núi
+- `make a mountain out of a molehill`: chuyện bé xé ra to / quan trọng hóa vấn đề
+- `mountain pass`: đèo núi hiểm trở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mount Everest is the highest mountain in the world.

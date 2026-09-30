@@ -2,8 +2,10 @@
 *n.*
 > /ˈsemɪnɑː(r)/
 
+![[seminar.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A conference or meeting for discussion or training on a specific topic
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `attend a seminar`: tham dự hội thảo
 - `conduct a seminar`: điều hành buổi hội thảo
+- `participate in a seminar`: tham gia hội thảo chuyên đề học thuật
+- `seminar presentation`: bài thuyết trình báo cáo trong buổi hội thảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We attended a seminar on artificial intelligence.

@@ -2,8 +2,10 @@
 *n*
 > /fəˈtiːɡ/
 
+![[fatigue.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extreme tiredness resulting from mental or physical exertion or illness.

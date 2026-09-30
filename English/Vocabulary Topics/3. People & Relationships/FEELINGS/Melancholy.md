@@ -2,8 +2,10 @@
 *Noun/Adj*
 > /ˈmel.əŋ.kɒl.i/
 
+![[melancholy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Literary | **Chủ đề:** FEELINGS
+**Level:** C2 | **Ngữ cảnh:** Literary | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sadness that lasts for a long period of time, often without any obvious reason.

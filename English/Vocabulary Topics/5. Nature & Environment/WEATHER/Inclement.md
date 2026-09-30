@@ -2,8 +2,10 @@
 *adj.*
 > /ɪnˈklemənt/
 
+![[inclement.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WEATHER
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of weather) unpleasant, cold, wet, or stormy
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `inclement weather`: thời tiết khắc nghiệt
+- `due to inclement weather`: do điều kiện thời tiết xấu khắc nghiệt
+- `inclement conditions`: điều kiện thời tiết mưa bão khắc nghiệt
+- `endure inclement weather`: chịu đựng thời tiết mưa gió thất thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The outdoor concert was cancelled because of inclement weather.

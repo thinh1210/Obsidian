@@ -2,8 +2,10 @@
 *n.*
 > /ˈpen.tə.ɡən/
 
+![[pentagon.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plane figure with five straight sides and five angles.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `The Pentagon`: Tòa nhà Lầu Năm Góc
 - `A regular pentagon`: Ngũ giác đều
+- `pentagon shape`: hình ngũ giác
+- `regular pentagon`: ngũ giác đều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The building is shaped like a pentagon.

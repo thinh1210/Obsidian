@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɡlæmərəs/
 
+![[glamorous.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Attractive in an exciting and special way.
@@ -13,7 +15,11 @@
 💡 Glamorous - glamour (vẻ quyến rũ) rực rỡ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `glamorous lifestyle`: lối sống hào nhoáng\n- `glamorous look`: vẻ ngoài lộng lẫy
+- `glamorous lifestyle`: lối sống hào nhoáng
+- `glamorous look`: vẻ ngoài lộng lẫy
+- `glamorous appearance`: diện mạo hào nhoáng, quyến rũ
+- `glamorous evening`: buổi tối xa hoa, lộng lẫy
+- `look utterly glamorous`: trông vô cùng kiêu sa, quyến rũ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She leads a very glamorous lifestyle.

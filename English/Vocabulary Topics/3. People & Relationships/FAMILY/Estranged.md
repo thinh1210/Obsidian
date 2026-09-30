@@ -2,8 +2,10 @@
 *adj*
 > /ɪˈstreɪndʒd/
 
+![[estranged.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** No longer friendly or in contact with someone.

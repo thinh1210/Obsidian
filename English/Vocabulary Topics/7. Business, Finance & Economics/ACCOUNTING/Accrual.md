@@ -2,8 +2,10 @@
 *n.*
 > /əˈkruːəl/
 
+![[accrual.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The accumulation of payments or benefits, or accounting method recognizing revenue when earned rather than received

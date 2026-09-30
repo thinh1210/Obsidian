@@ -2,8 +2,10 @@
 *verb/noun*
 > /ˈliːvərɪdʒ/
 
+![[leverage.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Use (something) to maximum advantage; the exertive force of a lever.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gain leverage`: giành lợi thế
 - `leverage technology`: tận dụng công nghệ
+- `mechanical leverage`: đòn bẩy cơ học
+- `leverage existing assets`: tận dụng tài sản hiện có
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We should leverage technology to automate our daily reports and save time.

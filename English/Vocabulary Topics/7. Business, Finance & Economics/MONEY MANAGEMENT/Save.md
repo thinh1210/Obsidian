@@ -2,8 +2,10 @@
 *Verb*
 > /seɪv/
 
+![[save.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep money instead of spending it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `save money`: tiết kiệm tiền
 - `save for a rainy day`: tiết kiệm phòng khi cơ nhỡ
+- `save automatically`: tự động trích tiền gửi tiết kiệm
+- `save for a down payment`: tích lũy tiền để đóng khoản trả trước mua nhà
+- `cost-saving tips`: các mẹo vặt giúp tiết kiệm chi tiêu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am saving money to buy a new laptop next month.

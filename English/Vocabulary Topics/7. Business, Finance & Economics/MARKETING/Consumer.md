@@ -2,8 +2,10 @@
 *noun*
 > /kənˈsuːmər/
 
+![[consumer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who purchases goods and services for personal use
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `consumer behavior`: hành vi người tiêu dùng
 - `consumer rights`: quyền lợi người tiêu dùng
+- `consumer sentiment`: chỉ số tâm lý và niềm tin của người tiêu dùng
+- `consumer touchpoint`: điểm tiếp xúc giữa thương hiệu và người tiêu dùng
+- `empower consumers`: trao thêm nhiều quyền lợi và sự lựa chọn cho khách hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Consumers are demanding healthier food options in supermarkets.

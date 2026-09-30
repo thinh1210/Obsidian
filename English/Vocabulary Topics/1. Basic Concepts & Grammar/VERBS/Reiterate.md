@@ -2,8 +2,10 @@
 *Verb*
 > /riˈɪt.ər.eɪt/
 
+![[reiterate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say something again, once or several times.
@@ -13,7 +15,10 @@
 💡 Ri (re) lặp lại để reiterte.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `reiterate a point`: nhắc lại một điểm\n- `reiterate a commitment`: khẳng định lại cam kết
+- `reiterate a point`: nhắc lại một điểm
+- `reiterate a commitment`: khẳng định lại cam kết
+- `reiterate support for`: khẳng định lại sự ủng hộ dành cho
+- `reiterate the importance of`: nhấn mạnh lại tầm quan trọng của
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let me reiterate.

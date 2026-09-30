@@ -2,8 +2,10 @@
 *n.*
 > /frend/
 
+![[friend.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whom one knows and with whom one has a bond of mutual affection.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A best friend`: Bạn thân nhất
+- `lifelong friend`: người bạn tri kỷ suốt đời
+- `firm friend`: người bạn thân thiết gắn bó
+- `a friend in need is a friend indeed`: gian nan mới hiểu bạn bè (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is my friend.

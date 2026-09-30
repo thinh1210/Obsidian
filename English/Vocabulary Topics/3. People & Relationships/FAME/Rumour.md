@@ -2,8 +2,10 @@
 *n.*
 > /ˈruːmər/
 
+![[rumour.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A currently circulating story or report of uncertain truth.
@@ -13,7 +15,10 @@
 💡 Ru (ru ngủ) bằng lời đồn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `spread a rumour: lan truyền tin đồn`
+- `spread a rumour`: lan truyền tin đồn
+- `dispel a rumour`: dập tắt tin đồn thất thiệt
+- `confirm a rumour`: xác nhận tính xác thực của tin đồn
+- `rumour has it`: nghe đồn rằng (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I heard a rumour about them.

@@ -2,8 +2,10 @@
 *noun / verb*
 > /ˈθrɒt.əl/
 
+![[throttle.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that controls the amount of fuel or power delivered to an aircraft engine; also the act of regulating engine power.

@@ -2,8 +2,10 @@
 *Noun*
 > /kriˈeɪ.tər/
 
+![[creator.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has made or invented something.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `content creator`: người sáng tạo nội dung
 - `the creator of...`: người tạo ra của...
+- `creator economy`: nền kinh tế của giới sáng tạo
+- `meet one's creator`: qua đời, tạ thế (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is the creator of this popular video game.

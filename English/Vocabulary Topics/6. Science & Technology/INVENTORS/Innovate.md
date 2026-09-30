@@ -2,8 +2,10 @@
 *v.*
 > /ˈɪn.ə.veɪt/
 
+![[innovate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To introduce changes and new ideas
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `innovate constantly`: đổi mới liên tục
 - `ability to innovate`: khả năng đổi mới
+- `innovate or die`: đổi mới hoặc lụi tàn (khẩu hiệu)
+- `constantly innovate`: liên tục đổi mới sáng tạo
+- `innovate across sectors`: đổi mới trên nhiều lĩnh vực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* To survive in business, you must innovate constantly.

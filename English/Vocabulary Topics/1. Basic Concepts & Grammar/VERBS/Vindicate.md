@@ -2,8 +2,10 @@
 *Verb*
 > /ˈvɪn.dɪ.keɪt/
 
+![[vindicate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prove that what someone said or did was right or true, after other people thought it was wrong.
@@ -13,7 +15,10 @@
 💡 Vịn đi kiện (vindicate) để minh oan.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `vindicate a claim`: chứng minh một luận điểm\n- `completely vindicated`: hoàn toàn được minh oan
+- `vindicate a claim`: chứng minh một luận điểm
+- `completely vindicated`: hoàn toàn được minh oan
+- `vindicate one's honor`: lấy lại danh dự cho ai đó
+- `vindicate a decision`: chứng minh quyết định là hoàn toàn đúng đắn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He felt vindicated.

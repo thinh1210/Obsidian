@@ -2,8 +2,10 @@
 *n*
 > /dɪˈziːz/
 
+![[disease.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms.

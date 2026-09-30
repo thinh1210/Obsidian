@@ -2,8 +2,10 @@
 *n.*
 > /ˌɪn.dɪˈvɪdʒ.u.əl/
 
+![[individual.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A single human being as distinct from a group.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A unique individual`: Một cá nhân độc đáo
+- `talented individual`: cá nhân tài năng xuất chúng
+- `respect the individual`: tôn trọng cá tính từng cá nhân
+- `individual freedom`: quyền tự do cá nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Every individual matters.

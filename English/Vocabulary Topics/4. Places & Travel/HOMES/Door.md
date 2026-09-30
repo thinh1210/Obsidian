@@ -2,8 +2,10 @@
 *noun*
 > /dɔːr/
 
+![[door.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `knock on the door`: gõ cửa
 - `front door`: cửa trước
+- `lock the door`: khóa cửa
+- `slam the door`: đóng sầm cửa
+- `open-door policy`: chính sách mở cửa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lock the door.

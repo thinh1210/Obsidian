@@ -2,8 +2,10 @@
 *n.*
 > /ˈkredɪt/
 
+![[credit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An entry recording a sum received, listed on the right-hand side of an account

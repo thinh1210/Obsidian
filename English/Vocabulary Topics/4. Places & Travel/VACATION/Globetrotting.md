@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɡloʊbˌtrɑtɪŋ/
 
+![[globetrotting.mp3]]
+
 ---
-**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of traveling widely around the world.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `frequent globetrotting`: thường xuyên du lịch thế giới
 - `years of globetrotting`: những năm tháng đi vòng quanh thế giới
+- `globetrotting adventures`: những cuộc phiêu lưu chu du khắp quả địa cầu
+- `glamorous globetrotting`: lối sống du lịch vòng quanh thế giới xa hoa
+- `tales of globetrotting`: những câu chuyện kể về hành trình chu du
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her job involves a lot of globetrotting.

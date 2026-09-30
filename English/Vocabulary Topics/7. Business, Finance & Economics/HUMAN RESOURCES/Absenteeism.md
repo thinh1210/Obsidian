@@ -2,8 +2,10 @@
 *n.*
 > /ˌæb.sənˈtiː.ɪ.zəm/
 
+![[absenteeism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The habitual practice of staying away from work without good reason
@@ -13,7 +15,11 @@
 💡 "Áp" (ab) lực "sân" (sen) bóng làm "ti" (tee) "y-dầm" (ism) trốn ở nhà
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``chronic absenteeism`: nạn vắng mặt mãn tính
+- `chronic absenteeism`: nạn vắng mặt mãn tính
+- `high rate of absenteeism`: tỷ lệ vắng mặt tại nơi làm việc cao
+- `workplace absenteeism`: tình trạng vắng mặt nơi công sở
+- `reduce absenteeism`: giảm thiểu tình trạng vắng mặt
+- `unauthorized absenteeism`: vắng mặt không có lý do chính đáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company introduced rewards to reduce employee absenteeism.

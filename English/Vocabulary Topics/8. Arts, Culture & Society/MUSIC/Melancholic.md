@@ -2,8 +2,10 @@
 *adj.*
 > /ˌmel.əŋˈkɒl.ɪk/
 
+![[melancholic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing pensive sadness.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `melancholic melody`: giai điệu u sầu
 - `melancholic tone`: giọng điệu buồn bã
+- `melancholic ballad`: bản ballad đượm nét sầu muộn
+- `melancholic mood`: tâm trạng man mác buồn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cellist played a melancholic tune that made many in the audience cry.

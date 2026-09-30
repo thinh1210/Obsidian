@@ -2,8 +2,10 @@
 *verb*
 > /peɪ/
 
+![[pay.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give money to someone for goods or services
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay the bill`: thanh toán hóa đơn
+- `pay off debt`: trả hết mọi khoản nợ nần
+- `pay through the nose`: phải trả một cái giá quá đắt
+- `pay one's way`: tự lực trang trải mọi chi phí của bản thân
+- `pay attention`: chú ý tập trung lắng nghe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I will pay for the dinner tonight.

@@ -2,8 +2,10 @@
 *adj*
 > /juːˈfɔːrɪk/
 
+![[euphoric.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by or feeling intense excitement and happiness.

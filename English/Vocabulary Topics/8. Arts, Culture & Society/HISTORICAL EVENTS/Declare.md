@@ -2,8 +2,10 @@
 *verb*
 > /dɪˈkleər/
 
+![[declare.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Say something in a solemn and emphatic manner; formally announce the beginning of a state or condition.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `declare war`: tuyên chiến
 - `declare independence`: tuyên bố độc lập
+- `declare a state of emergency`: ban bố tình trạng khẩn cấp trên toàn quốc
+- `declare a ceasefire`: đơn phương hoặc song phương tuyên bố lệnh ngừng bắn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I declare this meeting closed, so we can all go home now.

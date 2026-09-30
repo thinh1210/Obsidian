@@ -2,8 +2,10 @@
 *adjective.*
 > /hjuˈrɪs.tɪk/
 
+![[heuristic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A method of solving problems by finding practical ways of doing things, rather than by following strict rules or formulas
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `heuristic algorithm`: thuật toán heuristic
+- `heuristic method`: phương pháp tìm kiếm kinh nghiệm
+- `heuristic search`: tìm kiếm heuristic
+- `heuristic evaluation`: đánh giá theo kinh nghiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot uses a heuristic algorithm to quickly find a path out of the maze.

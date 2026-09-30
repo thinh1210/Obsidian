@@ -2,8 +2,10 @@
 *n.*
 > /ˌɜːbənaɪˈzeɪʃn/
 
+![[urbanization.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which more and more people leave the countryside to live in cities.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rapid urbanization`: đô thị hóa nhanh chóng
+- `rate of urbanization`: tốc độ đô thị hóa
+- `consequences of urbanization`: hệ quả của quá trình đô thị hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Urbanization brings both benefits and problems.

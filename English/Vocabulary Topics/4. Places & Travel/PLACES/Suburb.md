@@ -2,8 +2,10 @@
 *n.*
 > /ˈsʌb.ɜːrb/
 
+![[suburb.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An outlying district of a city, especially a residential one.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in the suburbs`: ở vùng ngoại ô
+- `leafy suburb`: vùng ngoại ô xanh mát rợp bóng cây
+- `affluent suburb`: khu ngoại ô giàu có thượng lưu
+- `suburban sprawl`: sự mở rộng các khu vực ngoại ô
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They bought a house in a quiet suburb.

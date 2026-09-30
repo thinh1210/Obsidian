@@ -2,8 +2,10 @@
 *n.*
 > /ˈstrʌktʃə(r)/
 
+![[structure.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building or other object constructed from several parts
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `steel structure`: cấu trúc thép
 - `historical structure`: công trình lịch sử
+- `load-bearing structure`: kết cấu chịu lực
+- `sound structure`: kết cấu vững chắc an toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Eiffel Tower is a famous metal structure.

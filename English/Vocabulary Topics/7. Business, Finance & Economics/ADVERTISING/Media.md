@@ -2,8 +2,10 @@
 *noun*
 > /ˈmiːdiə/
 
+![[media.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main means of mass communication (broadcasting, publishing, and the internet) regarded collectively.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `social media`: mạng xã hội
 - `mass media`: truyền thông đại chúng
+- `media coverage`: mức độ phủ sóng truyền thông
+- `mainstream media`: truyền thông đại chúng chính thống
+- `media blitz`: chiến dịch truyền thông ồ ạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The news was widely reported in the media.

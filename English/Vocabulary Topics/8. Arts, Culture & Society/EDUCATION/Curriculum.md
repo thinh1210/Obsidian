@@ -2,8 +2,10 @@
 *n.*
 > /kəˈrɪkjələm/
 
+![[curriculum.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The subjects comprising a course of study in a school or college
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `school curriculum`: chương trình học của trường
 - `national curriculum`: khung chương trình quốc gia
+- `extracurricular activities`: các hoạt động ngoại khóa mở rộng
+- `core curriculum`: khung chương trình giảng dạy cốt lõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Spanish is now part of the school curriculum.

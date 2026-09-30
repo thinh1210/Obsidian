@@ -2,8 +2,10 @@
 *noun*
 > /mæθ/
 
+![[math.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of numbers, shapes, and patterns.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `math class`: lớp học toán
+- `mental math`: tính nhẩm
+- `pure math`: toán học thuần túy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have math homework today.

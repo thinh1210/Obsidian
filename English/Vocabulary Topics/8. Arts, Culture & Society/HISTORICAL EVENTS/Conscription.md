@@ -2,8 +2,10 @@
 *noun*
 > /kənˈskrɪp.ʃən/
 
+![[conscription.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Compulsory enlistment for state service, typically into the armed forces.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `introduce conscription`: áp dụng nghĩa vụ quân sự bắt buộc
 - `military conscription`: chế độ tuyển quân bắt buộc
+- `draft conscription`: chế độ thi hành nghĩa vụ quân sự bắt buộc
+- `dodge conscription`: hành vi trốn tránh quân dịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He tried to find a medical reason to avoid conscription.

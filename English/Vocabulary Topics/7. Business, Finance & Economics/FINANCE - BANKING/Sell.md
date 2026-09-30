@@ -2,8 +2,10 @@
 *verb.*
 > /sel/
 
+![[sell.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give something to someone in exchange for money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sell out`: bán sạch
 - `sell at a discount`: bán giảm giá
+- `short selling`: nghiệp vụ bán khống
+- `panic selling`: làn sóng bán tháo trong hoảng loạn
+- `sell-off`: đợt bán tháo ồ ạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They decided to sell their old car to get some extra cash.

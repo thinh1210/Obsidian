@@ -2,8 +2,10 @@
 *adj*
 > /ˈvɪv.ɪd/
 
+![[vivid.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing very clear, powerful, and detailed images in the mind; brightly colored.

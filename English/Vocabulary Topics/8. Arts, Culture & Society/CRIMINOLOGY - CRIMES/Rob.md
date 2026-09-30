@@ -2,8 +2,10 @@
 *verb*
 > /rɒb/
 
+![[rob.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take money or property from a person or place illegally by using force or threats
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rob a bank`: cướp ngân hàng
 - `rob someone of`: cướp của ai cái gì
+- `rob at gunpoint`: chĩa súng uy hiếp để cướp bóc tài sản
+- `highway robbery`: vụ cướp giật giữa ban ngày
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The thieves planned to rob the local convenience store.

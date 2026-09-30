@@ -2,8 +2,10 @@
 *Noun*
 > /daɪˈæspərə/
 
+![[diaspora.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The dispersion of any people from their original homeland.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `African diaspora`: Cộng đồng người Phi di cư
+- `Vietnamese diaspora`: cộng đồng người Việt hải ngoại
+- `diaspora community`: cộng đồng người xa xứ
+- `members of the diaspora`: các thành viên cộng đồng di kiều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Vietnamese diaspora is large in the US.

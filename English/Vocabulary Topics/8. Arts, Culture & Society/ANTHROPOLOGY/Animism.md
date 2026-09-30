@@ -2,8 +2,10 @@
 *n.*
 > /ˈæn.ɪ.mɪ.zəm/
 
+![[animism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The attribution of a soul to plants, inanimate objects, and natural phenomena.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `practice animism`: thực hành thuyết vạn vật hữu linh
 - `animistic beliefs`: niềm tin hữu linh
+- `shamanistic animism`: thuyết vạn vật hữu linh của pháp sư
+- `roots of animism`: cội nguồn thuyết vạn vật hữu linh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Some indigenous religions are based on animism.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈtʊə.rɪst/
 
+![[tourist.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is traveling or visiting a place for pleasure

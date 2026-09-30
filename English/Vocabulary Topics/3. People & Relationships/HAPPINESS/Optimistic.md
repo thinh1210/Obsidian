@@ -2,8 +2,10 @@
 *adj.*
 > /ˌɒp.tɪˈmɪs.tɪk/
 
+![[optimistic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Hopeful and confident about the future.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `optimistic about`: lạc quan về
+- `cautiously optimistic`: lạc quan một cách thận trọng
+- `optimistic outlook`: cái nhìn lạc quan về tương lai
+- `remain optimistic`: vẫn giữ vững tinh thần lạc quan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is optimistic about her future.

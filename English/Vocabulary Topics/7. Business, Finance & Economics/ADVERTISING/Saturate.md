@@ -2,8 +2,10 @@
 *verb*
 > /ˈsætʃəreɪt/
 
+![[saturate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To flood a market with a product so that any further supply is unnecessary; cause to become thoroughly soaked.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `saturate the market`: làm bão hòa thị trường
 - `market saturation`: sự bão hòa thị trường
+- `saturated market`: thị trường đã bão hòa
+- `saturate the airwaves`: tràn ngập các làn sóng phát thanh truyền hình
+- `reach saturation point`: chạm ngưỡng bão hòa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Heavy rains will saturate the soil by tomorrow.

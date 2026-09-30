@@ -2,8 +2,10 @@
 *adj.*
 > /ˌek.strə.kəˈrɪk.jʊ.lər/
 
+![[extracurricular.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to activities done at school or university in addition to regular coursework.

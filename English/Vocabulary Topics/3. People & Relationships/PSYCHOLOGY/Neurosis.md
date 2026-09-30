@@ -2,8 +2,10 @@
 *noun*
 > /nʊˈroʊ.sɪs/
 
+![[neurosis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A relatively mild mental illness that is not caused by organic disease.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `obsessive neurosis`: loạn thần kinh ám ảnh
+- `anxiety neurosis`: loạn thần kinh lo âu
+- `symptoms of neurosis`: các triệu chứng của bệnh loạn thần kinh
+- `combat neurotic tendencies`: kiểm soát các xu hướng suy nghĩ tiêu cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He suffers from a mild neurosis.

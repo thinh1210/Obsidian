@@ -2,8 +2,10 @@
 *noun phrase*
 > /ˈæŋ.ɡəl əv əˈtæk/
 
+![[angle_of_attack.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The angle between the chord line of an aircraft's wing and the oncoming airflow, which determines the amount of lift generated.

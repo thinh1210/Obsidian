@@ -2,8 +2,10 @@
 *n.*
 > /ˌɜː.ɡəˈnɒm.ɪks/
 
+![[ergonomics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** HUMAN RESOURCES
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The study of efficiency and safety in the working environment
@@ -13,7 +15,11 @@
 💡 Thiết kế ghế "ơ-gô" (ergo) "nôm" (nom) "mít" (ics) chuẩn công thái học để ngồi lâu không mỏi
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``office ergonomics`: công thái học văn phòng
+- `office ergonomics`: công thái học văn phòng
+- `ergonomic chair`: ghế công thái học hỗ trợ tư thế ngồi
+- `ergonomic design`: thiết kế tối ưu theo chuẩn công thái học
+- `workplace ergonomics`: môi trường làm việc an toàn chuẩn công thái
+- `poor ergonomics`: môi trường thiếu chuẩn công thái học gây đau nhức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Good office ergonomics can prevent repetitive strain injuries.

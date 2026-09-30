@@ -2,8 +2,10 @@
 *n*
 > /ˈpɒl.ɪ.si/
 
+![[policy.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of plans or rules agreed by a government or organisation.

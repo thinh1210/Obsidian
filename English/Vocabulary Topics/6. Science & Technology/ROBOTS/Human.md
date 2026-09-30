@@ -2,8 +2,10 @@
 *noun.*
 > /ˈhjuː.mən/
 
+![[human.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A man, woman, or child of the species Homo sapiens
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human behavior`: hành vi con người
+- `human-robot interaction (HRI)`: tương tác giữa người và robot
+- `human error`: lỗi do con người
+- `mimic human movement`: mô phỏng chuyển động của con người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Robots are built to help human beings.

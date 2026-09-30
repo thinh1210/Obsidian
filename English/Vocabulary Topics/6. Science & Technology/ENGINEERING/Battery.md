@@ -2,8 +2,10 @@
 *noun*
 > /ˈbætri/
 
+![[battery.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rechargeable battery`: pin sạc
 - `car battery`: ắc quy ô tô
+- `lithium-ion battery`: pin lithium-ion
+- `battery lifespan`: tuổi thọ của pin
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My phone is dead; I need a charger because the battery is empty.

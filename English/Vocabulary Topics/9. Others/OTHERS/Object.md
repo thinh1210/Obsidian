@@ -1,13 +1,21 @@
 # Object
 
 *Noun*
+> /ˈɒb.dʒɪkt/
+
+![[object.mp3]]
 
 - **[EN]:** A physical thing that can be seen and touched.
 - **[VN]:** Vật thể, đối tượng.
 
-**Level:** A2
+**Level:** A2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Đồ vật hàng ngày, Vật dụng chứa & Đồ chơi
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `money is no object`: tiền bạc không thành vấn đề (idiom)
+- `object to`: phản đối kịch liệt điều gì (phrasal verb)
+- `unidentified flying object`: vật thể bay không xác định (UFO)
+
 ## Examples
 1. *The radar detected an unidentified object in the sky.*
    - Ra-đa đã phát hiện một vật thể lạ trên bầu trời.

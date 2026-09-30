@@ -2,8 +2,10 @@
 *noun*
 > /spaʊs/
 
+![[spouse.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A husband or wife, considered in relation to their partner.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A surviving spouse`: Người vợ/chồng còn sống
+- `supportive spouse`: người phối ngẫu luôn kề vai sát cánh
+- `devoted spouse`: người vợ/chồng tận tụy chu đáo
+- `spouse's consent`: sự đồng thuận của người bạn đời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Employees can bring their spouses.

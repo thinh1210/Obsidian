@@ -2,8 +2,10 @@
 *v.*
 > /ˈrenəveɪt/
 
+![[renovate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To repair and improve a building so that it is in good condition again
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `renovate a house`: cải tạo nhà
 - `renovated property`: bất động sản đã được cải tạo
+- `extensively renovate`: trùng tu cải tạo toàn diện
+- `renovation budget`: dự toán chi phí cải tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We spent the summer renovating our kitchen.

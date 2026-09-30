@@ -2,8 +2,10 @@
 *adj.*
 > /məˈtɪk.jə.ləs/
 
+![[meticulous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very careful and with great attention to every detail.

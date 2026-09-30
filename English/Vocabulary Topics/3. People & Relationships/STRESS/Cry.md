@@ -2,8 +2,10 @@
 *v.*
 > /kraɪ/
 
+![[cry.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shed tears, especially as an expression of distress or pain
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cry for help`: khóc kêu cứu
 - `cry over`: khóc vì (điều gì)
+- `cry one's eyes out`: khóc cạn nước mắt (idiom)
+- `cry over spilled milk`: tiếc rẻ việc đã rồi (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't cry, everything is fine.

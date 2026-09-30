@@ -2,8 +2,10 @@
 *Noun*
 > /ˈvɔɪ.ɪdʒ/
 
+![[voyage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM
+**Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long journey, especially by ship.
@@ -13,7 +15,11 @@
 💡 VOI ÍT (Voyage) con voi đi biển ít.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `maiden voyage`: chuyến đi đầu tiên\n- `long voyage`: chuyến đi biển dài
+- `maiden voyage`: chuyến đi đầu tiên
+- `long voyage`: chuyến đi biển dài
+- `voyage of discovery`: chuyến hải trình thám hiểm chân trời mới
+- `perilous sea voyage`: chuyến vượt biển đầy phong ba bão táp
+- `transatlantic voyage`: chuyến hải hành vượt Đại Tây Dương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Titanic sank on its maiden voyage.

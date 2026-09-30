@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɒl.vənt/
 
+![[solvent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance, ordinarily a liquid, in which other materials dissolve to form a solution.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `organic solvent`: dung môi hữu cơ
 - `universal solvent`: dung môi vạn năng
+- `polar solvent`: dung môi phân cực
+- `non-polar solvent`: dung môi không phân cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Water is often called the universal solvent because it dissolves many substances.

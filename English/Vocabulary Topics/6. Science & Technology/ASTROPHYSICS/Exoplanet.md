@@ -2,8 +2,10 @@
 *noun*
 > /ˈek.səʊˌplæn.ɪt/
 
+![[exoplanet.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A planet that orbits a star outside our solar system.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `habitable exoplanet`: ngoại hành tinh có thể sinh sống được
 - `exoplanet atmosphere`: khí quyển ngoại hành tinh
+- `discover an exoplanet`: phát hiện ngoại hành tinh
+- `Earth-like exoplanet`: ngoại hành tinh giống Trái Đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Astronomers are excited about finding an exoplanet that might have water.

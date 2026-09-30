@@ -2,8 +2,10 @@
 *adj*
 > /suːˈpɪə.ri.ər/
 
+![[superior.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Higher in rank, status, or quality.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `superior to`: vượt trội hơn so với
+- `superior numbers`: quân số áp đảo / vượt trội
+- `superior quality`: chất lượng vượt trội
+- `superior intellect`: trí tuệ siêu việt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This car is vastly superior to my old one.

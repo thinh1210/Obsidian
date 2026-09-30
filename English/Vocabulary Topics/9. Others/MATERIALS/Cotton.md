@@ -2,8 +2,10 @@
 *noun.*
 > /ˈkɒtn/
 
+![[cotton.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A soft, white, fibrous substance that surrounds the seeds of a tropical plant and is used as textile fiber and thread.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pure cotton`: cotton nguyên chất
 - `cotton clothing`: quần áo cotton
+- `100% cotton`: chất liệu sợi bông 100%
+- `cotton wool`: bông y tế thấm nước
+- `cotton on to`: bắt đầu hiểu ra vấn đề (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer cotton socks because they absorb sweat well.

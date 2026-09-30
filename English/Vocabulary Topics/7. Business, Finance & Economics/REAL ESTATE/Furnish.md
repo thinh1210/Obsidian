@@ -2,8 +2,10 @@
 *v.*
 > /ˈfɜːnɪʃ/
 
+![[furnish.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Provide (a house or room) with furniture and fittings.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fully furnished`: được trang bị đầy đủ nội thất
 - `unfurnished apartment`: căn hộ không có nội thất
+- `tastefully furnished`: được bài trí nội thất trang nhã và thẩm mỹ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is cheaper to rent an unfurnished apartment and buy your own furniture.

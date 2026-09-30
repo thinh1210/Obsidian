@@ -2,8 +2,10 @@
 *noun*
 > /ˈseɡmənt/
 
+![[segment.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Each of the parts into which something is or may be divided; a group of consumers with similar needs
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `market segment`: phân khúc thị trường
 - `customer segment`: phân khúc khách hàng
+- `target segment`: phân khúc thị trường được nhắm làm trọng tâm
+- `premium segment`: phân khúc phục vụ đối tượng khách hàng cao cấp
+- `segment the audience`: chia nhỏ nhóm công chúng để cá nhân hóa thông điệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I only watch the sports segment of the evening news.

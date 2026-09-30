@@ -2,8 +2,10 @@
 *Verb*
 > /ˌæs.əˈteɪn/
 
+![[ascertain.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To discover something.
@@ -13,7 +15,10 @@
 💡 Á sờ tên (ascertain) để xác minh danh tính.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `ascertain the facts`: xác minh sự thật\n- `difficult to ascertain`: khó xác minh
+- `ascertain the facts`: xác minh sự thật
+- `difficult to ascertain`: khó xác minh
+- `ascertain the truth`: tìm hiểu rõ sự thật
+- `ascertain the cause`: xác định rõ nguyên nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to ascertain the truth.

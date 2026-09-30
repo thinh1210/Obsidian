@@ -2,8 +2,10 @@
 *n.*
 > /ɡreɪn/
 
+![[grain.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The small hard seeds of food plants, especially grass crops like wheat and rice.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `whole grain`: ngũ cốc nguyên hạt
 - `grain elevator`: kho chứa ngũ cốc
+- `grain of truth`: chút sự thật le lói
+- `against the grain`: trái với tự nhiên / nghịch lẽ thường
+- `grain silo`: tháp/kho hình trụ chứa ngũ cốc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Oatmeal and brown rice are healthy whole grains.

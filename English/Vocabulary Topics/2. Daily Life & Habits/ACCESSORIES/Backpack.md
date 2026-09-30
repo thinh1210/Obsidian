@@ -2,8 +2,10 @@
 *noun*
 > /ˈbækpæk/
 
+![[backpack.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bag carried on the back, usually with two straps.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `carry a backpack`: đeo ba lô
+- `hiking backpack`: ba lô đi bộ đường dài, leo núi
+- `waterproof backpack`: ba lô chống nước
+- `strap on a backpack`: thắt dây đeo ba lô
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He packed his clothes into a large backpack.

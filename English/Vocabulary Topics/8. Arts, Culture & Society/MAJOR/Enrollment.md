@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈrəʊl.mənt/
 
+![[enrollment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of officially registering as a student at a school or university.

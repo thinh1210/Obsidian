@@ -2,8 +2,10 @@
 *n*
 > /dɪˈpləʊ.mə.si/
 
+![[diplomacy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The management of international relations through negotiation and dialogue.

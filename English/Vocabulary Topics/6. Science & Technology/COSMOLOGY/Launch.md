@@ -2,8 +2,10 @@
 *Verb*
 > /lɔːntʃ/
 
+![[launch.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Set (a spacecraft or rocket) in motion, especially by sending it into space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `launch pad`: bệ phóng
 - `rocket launch`: vụ phóng tên lửa
+- `orbital launch`: phóng lên quỹ đạo
+- `launch countdown`: đếm ngược giờ phóng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are waiting to launch the new website.

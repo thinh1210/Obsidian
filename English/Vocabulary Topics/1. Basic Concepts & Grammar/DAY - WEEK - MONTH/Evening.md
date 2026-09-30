@@ -2,8 +2,10 @@
 *noun*
 > /ˈiːvnɪŋ/
 
+![[evening.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latter part of the day and early part of the night.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `yesterday evening`: tối hôm qua
+- `early evening`: chập tối / đầu buổi tối
+- `evening commute`: chuyến đi về nhà buổi tối
+- `spend an evening`: dành một buổi tối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I watch TV in the evening.

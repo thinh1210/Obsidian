@@ -2,8 +2,10 @@
 *verb.*
 > /ˈɑː.pə.reɪt/
 
+![[operate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To work, control, or cause a machine or system to function
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `operate heavy machinery`: vận hành máy móc hạng nặng
+- `operate autonomously`: hoạt động tự chủ
+- `operate a robot`: vận hành robot
+- `remotely operated`: được vận hành từ xa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you know how to operate this robotic arm?

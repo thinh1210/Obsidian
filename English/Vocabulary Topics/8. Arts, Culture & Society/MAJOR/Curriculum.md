@@ -2,8 +2,10 @@
 *n.*
 > /kəˈrɪk.jʊ.ləm/
 
+![[curriculum.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The subjects comprising a course of study in a school or university.

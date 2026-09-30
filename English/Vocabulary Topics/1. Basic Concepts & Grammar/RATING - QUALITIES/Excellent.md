@@ -2,8 +2,10 @@
 *adj*
 > /ˈek.səl.ənt/
 
+![[excellent.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely good; outstanding.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `excellent service`: dịch vụ xuất sắc
+- `excellent opportunity`: cơ hội tuyệt vời
+- `par excellence`: xuất sắc vượt bậc / mẫu mực
+- `excellent reputation`: danh tiếng xuất sắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is an excellent cook.

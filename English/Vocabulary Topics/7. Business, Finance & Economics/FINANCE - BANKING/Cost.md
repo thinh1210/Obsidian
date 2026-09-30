@@ -2,8 +2,10 @@
 *noun.*
 > /kɒst/
 
+![[cost.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of money that you need to buy or do something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `living cost`: chi phí sinh hoạt
 - `production cost`: chi phí sản xuất
+- `borrowing cost`: chi phí đi vay vốn
+- `opportunity cost`: chi phí cơ hội
+- `cut operating costs`: cắt giảm chi phí hoạt động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cost of public transport in this city is very reasonable.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌɪt.əˈreɪ.ʃən/
 
+![[iteration.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Technical/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Technical/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of doing something again and again, usually to improve it.

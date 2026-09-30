@@ -2,8 +2,10 @@
 *noun phrase*
 > /ɡlaɪd ˈreɪ.ʃiˌəʊ/
 
+![[glide_ratio.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ratio of the horizontal distance travelled to the vertical distance lost by a gliding aircraft — a measure of aerodynamic efficiency.
@@ -15,7 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high glide ratio`: tỉ số lướt cao
 - `best glide ratio`: tỉ số lướt tốt nhất
-- `glide ratio of 20:1`: tỉ số lướt 20:1
+- `glide ratio of 20`: 1`: tỉ số lướt 20:1
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A glider with a 40:1 glide ratio can travel 40 metres forward for every metre it descends.

@@ -2,8 +2,10 @@
 *v*
 > /riːd/
 
+![[read.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at and understand the meaning of written or printed words or symbols.

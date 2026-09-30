@@ -2,8 +2,10 @@
 *v.*
 > /pleɪ/
 
+![[play.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Produce music on an instrument.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `play an instrument`: chơi một nhạc cụ
 - `play music`: phát nhạc/chơi nhạc
+- `play by ear`: chơi nhạc theo cảm âm mà không cần nhìn nốt
+- `play a chord`: đánh một hợp âm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you play any musical instruments?

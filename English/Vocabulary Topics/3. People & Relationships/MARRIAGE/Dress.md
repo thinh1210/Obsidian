@@ -2,8 +2,10 @@
 *noun*
 > /dres/
 
+![[dress.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women or girls that covers the top half of the body and hangs down over the legs.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A wedding dress`: Váy cưới
+- `bridal dress`: váy cô dâu lộng lẫy kiêu sa
+- `fitting of the dress`: buổi thử váy cưới
+- `flow of the dress`: độ thướt tha của chiếc váy cưới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought a white dress.

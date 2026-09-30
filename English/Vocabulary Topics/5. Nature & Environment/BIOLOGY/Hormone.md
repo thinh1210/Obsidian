@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɔː.məʊn/
 
+![[hormone.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regulatory substance produced in an organism and transported in tissue fluids such as blood to stimulate specific cells or tissues into action.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `growth hormone`: hóc-môn tăng trưởng
 - `hormone imbalance`: mất cân bằng hóc-môn
+- `hormone secretion`: sự tiết hóc-môn
+- `stress hormone`: hóc-môn gây căng thẳng (cortisol)
+- `regulate hormones`: điều hòa lượng hóc-môn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sleep helps regulate your body's hormones.

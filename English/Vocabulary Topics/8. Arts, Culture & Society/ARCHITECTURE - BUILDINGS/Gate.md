@@ -2,8 +2,10 @@
 *n.*
 > /ɡeɪt/
 
+![[gate.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A barrier like a door that is used to close an opening in a fence or wall
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `iron gate`: cổng sắt
 - `front gate`: cổng trước
+- `wrought-iron gate`: cổng sắt uốn nghệ thuật
+- `security gate`: cổng kiểm soát an ninh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please close the garden gate so the dog doesn't get out.

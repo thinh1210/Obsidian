@@ -2,8 +2,10 @@
 *adj.*
 > /səbˈdʒek.tɪv/
 
+![[subjective.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Based on or influenced by personal feelings, tastes, or opinions.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `subjective experience`: trải nghiệm chủ quan
 - `highly subjective`: mang tính chủ quan cao
+- `subjective interpretation`: sự diễn giải mang tính chủ quan
+- `subjective judgment`: sự phán đoán chủ quan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Beauty is subjective; everyone has different tastes.

@@ -2,8 +2,10 @@
 *noun*
 > /iˈlek.trɒn/
 
+![[electron.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stable subatomic particle with a charge of negative electricity, found in all atoms.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electron cloud`: đám mây electron
 - `valence electron`: electron hóa trị
+- `free electron`: electron tự do
+- `electron configuration`: cấu hình electron
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Electric current is the flow of electrons through a conductor.

@@ -2,8 +2,10 @@
 *verb*
 > /dɪɡ/
 
+![[dig.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a hole in the ground using your hands, a tool, or a machine
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dig a hole`: đào một cái hố
 - `dig for gold`: đào vàng
+- `excavation dig`: cuộc đào bới khai quật
+- `dig deep into the earth`: đào sâu vào lòng đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The children like to dig in the wet sand.

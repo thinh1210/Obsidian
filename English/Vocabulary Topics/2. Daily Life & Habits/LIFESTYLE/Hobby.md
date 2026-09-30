@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɒbi/
 
+![[hobby.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity done regularly in one's leisure time for pleasure.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have a hobby`: có sở thích
+- `pursue a hobby`: theo đuổi một sở thích
+- `relaxing hobby`: sở thích mang lại sự thư thái
+- `engaging hobby`: thú vui cuốn hút
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My hobby is swimming.

@@ -2,8 +2,10 @@
 *verb*
 > /kəˈmjuːt/
 
+![[commute.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travel some distance on a regular basis between one's home and place of work.

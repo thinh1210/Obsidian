@@ -2,8 +2,10 @@
 *n.*
 > /tʃaɪld/
 
+![[child.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A young human being below the age of puberty.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A well-behaved child`: Một đứa trẻ ngoan
+- `gifted child`: đứa trẻ có năng khiếu thiên bẩm
+- `child welfare`: phúc lợi trẻ em
+- `child at heart`: tâm hồn trẻ thơ vô tư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The child is playing.

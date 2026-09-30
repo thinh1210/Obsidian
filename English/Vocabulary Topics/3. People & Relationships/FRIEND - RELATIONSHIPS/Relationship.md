@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈleɪ.ʃən.ʃɪp/
 
+![[relationship.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The way in which two or more concepts, objects, or people are connected, or the state of being connected.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build a relationship`: xây dựng một mối quan hệ
+- `interpersonal relationship`: mối quan hệ bang giao giữa người với người
+- `nurture a relationship`: vun đắp chăm chút cho mối quan hệ bền vững
+- `rocky relationship`: mối quan hệ trắc trở bấp bênh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They have a strong relationship.

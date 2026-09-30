@@ -2,8 +2,10 @@
 *noun*
 > /kæmˈpeɪn/
 
+![[campaign.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized course of action to achieve a particular goal, especially a commercial or political one.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `advertising campaign`: chiến dịch quảng cáo
 - `launch a campaign`: phát động một chiến dịch
+- `run a campaign`: chạy / thực hiện một chiến dịch
+- `PR campaign`: chiến dịch truyền thông quan hệ công chúng
+- `awareness campaign`: chiến dịch nâng cao nhận thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They launched a campaign to promote healthy school meals.

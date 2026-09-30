@@ -2,8 +2,10 @@
 *noun*
 > /hoʊm/
 
+![[home.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where one lives permanently.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go home`: về nhà
 - `feel at home`: cảm thấy như ở nhà
+- `make oneself at home`: tự nhiên thoải mái như ở nhà
+- `home sweet home`: mái ấm thân thương
+- `broken home`: gia đình tan vỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am going home.

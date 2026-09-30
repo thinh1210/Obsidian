@@ -2,8 +2,10 @@
 *n.*
 > /striːt/
 
+![[street.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A public road in a city or town.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `main street`: đường chính
+- `high street`: phố thương mại mua sắm lớn
+- `side street`: ngõ nhỏ phố nhánh
+- `one-way street`: đoạn đường một chiều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I walk down this street every day.

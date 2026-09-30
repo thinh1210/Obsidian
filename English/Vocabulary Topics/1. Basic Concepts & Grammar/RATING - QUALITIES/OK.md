@@ -2,8 +2,10 @@
 *adj*
 > /ˌoʊˈkeɪ/
 
+![[ok.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Satisfactory but not especially good.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feel OK`: cảm thấy ổn
+- `give the OK`: bật đèn xanh / cho phép
+- `everything is OK`: mọi thứ đều ổn
+- `it is OK to`: hoàn toàn được phép làm gì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The food was just OK.

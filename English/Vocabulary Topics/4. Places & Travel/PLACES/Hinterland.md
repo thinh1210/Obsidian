@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɪn.t̬ɚ.lænd/
 
+![[hinterland.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The often uncharted areas beyond a coastal district or a river's banks; remote areas.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `vast hinterland`: vùng nội địa rộng lớn
+- `rural hinterland`: vùng nội địa thôn quê hẻo lánh
+- `economic hinterland`: vùng đệm kinh tế nội địa
+- `deep in the hinterland`: sâu trong nội địa xa xôi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They traveled deep into the hinterland.

@@ -2,8 +2,10 @@
 *noun/verb*
 > /ˈsen.təns/
 
+![[sentence.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The punishment assigned to a defendant found guilty by a court; declare the punishment of.

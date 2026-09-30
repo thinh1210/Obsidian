@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæt.əl.ɪst/
 
+![[catalyst.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chemical catalyst`: chất xúc tác hóa học
 - `act as a catalyst`: đóng vai trò là chất xúc tác
+- `enzymatic catalyst`: chất xúc tác enzyme
+- `catalyst poisoning`: hiện tượng nhiễm độc chất xúc tác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Enzymes act as biological catalysts in the human body.

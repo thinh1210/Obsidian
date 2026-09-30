@@ -2,8 +2,10 @@
 *noun.*
 > /ˈæl.ɡə.rɪ.ðəm/
 
+![[algorithm.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sorting algorithm`: thuật toán sắp xếp
+- `machine learning algorithm`: thuật toán học máy
+- `pathfinding algorithm`: thuật toán tìm đường
+- `genetic algorithm`: thuật toán di truyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot uses a complex navigation algorithm to map its path.

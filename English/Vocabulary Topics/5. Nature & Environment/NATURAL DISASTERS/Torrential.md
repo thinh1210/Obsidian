@@ -2,8 +2,10 @@
 *adjective*
 > /təˈren.ʃəl/
 
+![[torrential.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of rain) falling rapidly and in copious quantities.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `torrential rain`: mưa xối xả
 - `torrential downpour`: trận mưa như trút nước
+- `torrential stream`: dòng suối chảy cuồn cuộn dữ dội
+- `endure torrential rains`: oằn mình hứng chịu những trận mưa xối xả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The match was canceled due to torrential rain.

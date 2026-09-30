@@ -2,8 +2,10 @@
 *noun*
 > /ˌəʊ.dɒnˈtɒl.ə.dʒi/
 
+![[odontology.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of teeth; in forensics, used to identify individuals by dental records or bite marks.

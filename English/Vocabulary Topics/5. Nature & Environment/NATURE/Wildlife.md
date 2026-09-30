@@ -2,8 +2,10 @@
 *Noun*
 > /ˈwaɪldlaɪf/
 
+![[wildlife.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wild animals collectively; the native fauna of a region.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wildlife conservation`: bảo tồn động vật hoang dã
 - `local wildlife`: động vật hoang dã địa phương
+- `abundant wildlife`: thế giới động vật hoang dã trù phú
+- `wildlife reserve`: khu bảo tồn động vật hoang dã
+- `coexist with wildlife`: chung sống hòa bình với động vật hoang dã
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You can see a lot of wildlife in this national park.

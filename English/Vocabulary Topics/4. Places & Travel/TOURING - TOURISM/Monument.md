@@ -2,8 +2,10 @@
 *Noun*
 > /ˈmɑːn.jə.mənt/
 
+![[monument.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM
+**Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure or building that is built to honour a special person or event.
@@ -13,7 +15,11 @@
 💡 MO NIU MẦN (Monument) tượng đài kỉ niệm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `historical monument`: di tích lịch sử\n- `build a monument`: xây dựng tượng đài
+- `historical monument`: di tích lịch sử
+- `build a monument`: xây dựng tượng đài
+- `national monument`: tượng đài biểu tượng của quốc gia
+- `marble monument`: tượng đài tạc bằng đá hoa cương
+- `monumental architecture`: kiến trúc đồ sộ hoành tráng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They built a monument in the city center.

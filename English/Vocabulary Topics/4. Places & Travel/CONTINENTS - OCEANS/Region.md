@@ -2,8 +2,10 @@
 *noun*
 > /ˈriːdʒən/
 
+![[region.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area or division, especially part of a country or the world having definable characteristics but not always fixed boundaries.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a mountainous region`: một khu vực miền núi
+- `coastal region`: vùng duyên hải
+- `arid region`: vùng khô hạn
+- `tropical region`: vùng nhiệt đới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This region is famous for its wine.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈskriːnpleɪ/
 
+![[screenplay.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The script of a movie, including acting instructions and scene-by-scene directions
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adapted screenplay`: kịch bản chuyển thể
 - `original screenplay`: kịch bản gốc
+- `screenplay writer`: nhà biên kịch phim
+- `screenplay treatment`: bản đề cương tóm lược kịch bản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The screenplay was based on a best-selling novel.

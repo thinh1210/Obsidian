@@ -2,8 +2,10 @@
 *n.*
 > /ˈæktə(r)/
 
+![[actor.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person whose profession is acting on the stage, in movies, or on television.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lead actor`: nam diễn viên chính
 - `famous actor`: nam diễn viên nổi tiếng
+- `character actor`: diễn viên chuyên đóng vai tính cách
+- `method actor`: diễn viên theo trường phái nhập tâm hoàn toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a very talented actor.

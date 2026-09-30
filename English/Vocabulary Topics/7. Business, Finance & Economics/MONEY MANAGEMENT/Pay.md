@@ -2,8 +2,10 @@
 *Verb*
 > /peɪ/
 
+![[pay.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give someone money for work, goods, or services.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay in cash`: trả bằng tiền mặt
 - `pay credit card bill`: trả hóa đơn thẻ tín dụng
+- `pay off credit cards`: trả sạch nợ trên thẻ tín dụng
+- `pay yourself first`: ưu tiên trích tiền tiết kiệm trước khi chi tiêu
+- `pay in installments`: chia thành nhiều kỳ để trả góp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* How would you like to pay for your meal?

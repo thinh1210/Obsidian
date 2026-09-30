@@ -2,8 +2,10 @@
 *adj.*
 > /tɔːl/
 
+![[tall.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of great or more than average height
@@ -13,7 +15,10 @@
 💡 Tall là cao
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``tall building`: tòa nhà cao`
+- `tall building`: tòa nhà cao
+- `tall order`: nhiệm vụ khó khăn / đòi hỏi quá sức
+- `stand tall`: đứng thẳng hiên ngang / ngẩng cao đầu
+- `tall tale`: chuyện phóng đại / chuyện bịa đặt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is tall.

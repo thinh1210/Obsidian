@@ -2,8 +2,10 @@
 *n.*
 > /krɒs/
 
+![[cross.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mark, object, or figure formed by two short intersecting lines or pieces.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A red cross`: Chữ thập đỏ
 - `Put a cross`: Đặt một dấu chéo
+- `cross paths with`: tình cờ chạm trán / lướt qua đời ai
+- `cross examination`: thẩm vấn chéo tại tòa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Put a cross next to the wrong answer.

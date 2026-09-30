@@ -2,8 +2,10 @@
 *v.*
 > /raɪt/
 
+![[write.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make letters or words on paper or a screen using a pen or keyboard
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `write a letter`: viết một lá thư
+- `write legibly`: viết chữ rõ ràng dễ đọc
+- `write from memory`: viết lại dựa vào trí nhớ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I write in my journal every night.

@@ -2,8 +2,10 @@
 *adj*
 > /ˈspeɪʃəs/
 
+![[spacious.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having ample space.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spacious apartment`: căn hộ rộng rãi
 - `spacious room`: phòng rộng
+- `spacious interior`: không gian nội thất rộng rãi
+- `spacious layout`: bố cục thoáng đãng
+- `surprisingly spacious`: rộng rãi thoáng mát một cách bất ngờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new kitchen is very spacious.

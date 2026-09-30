@@ -2,8 +2,10 @@
 *adjective*
 > /ˈeɪ.kwi.əs/
 
+![[aqueous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of, like, or containing water; (of a solution) made in water.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `aqueous solution`: dung dịch nước
 - `aqueous phase`: pha nước
+- `aqueous medium`: môi trường nước
+- `aqueous extract`: dịch chiết nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sodium chloride dissolves to form an aqueous solution.

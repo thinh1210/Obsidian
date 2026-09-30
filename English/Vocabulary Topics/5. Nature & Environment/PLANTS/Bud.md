@@ -2,8 +2,10 @@
 *noun*
 > /bʌd/
 
+![[bud.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small growth on a plant that develops into a leaf, flower, or shoot.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flower bud`: nụ hoa
 - `nip in the bud`: dập tắt từ trứng nước
+- `taste buds`: các chồi vị giác ở lưỡi
+- `budding romance`: mối tình mới chớm nở
+- `trees coming into bud`: cây cối bắt đầu đâm chồi nảy lộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In early spring, the rose bushes start to produce buds.

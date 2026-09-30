@@ -2,8 +2,10 @@
 *verb*
 > /məˈnɪpjuleɪt/
 
+![[manipulate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To control or influence a person or situation cleverly, unfairly, or unscrupulously.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `manipulate customer behavior`: thao túng hành vi khách hàng
 - `manipulate market prices`: thao túng giá thị trường
+- `manipulate perceptions`: thao túng nhận thức
+- `manipulate data`: thao túng số liệu thống kê
+- `emotional manipulation`: thao túng cảm xúc người mua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was accused of manipulating the school election.

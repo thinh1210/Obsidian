@@ -2,8 +2,10 @@
 *noun*
 > /ˈlaɪt.jɪər/
 
+![[light_year.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The distance that light travels in one vacuum year (about 9.46 trillion km).
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `many light-years away`: cách xa nhiều năm ánh sáng
 - `light-year distance`: khoảng cách năm ánh sáng
+- `travel light-years`: du hành khoảng cách hàng năm ánh sáng
+- `billions of light-years`: hàng tỷ năm ánh sáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The nearest star system is about 4.2 light-years away from Earth.

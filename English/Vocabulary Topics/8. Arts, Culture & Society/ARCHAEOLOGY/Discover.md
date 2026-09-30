@@ -2,8 +2,10 @@
 *verb*
 > /dɪˈskʌvə(r)/
 
+![[discover.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To find information, a place, or an object, especially for the first time
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `discover a site`: phát hiện một địa điểm
 - `discover the truth`: khám phá ra sự thật
+- `discover ancient relics`: phát hiện các di tích cổ
+- `discover a burial site`: phát hiện một địa điểm chôn cất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Columbus did not actually discover America first.

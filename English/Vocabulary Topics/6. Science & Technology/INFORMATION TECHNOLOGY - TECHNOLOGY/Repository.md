@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈpɒz.ɪ.tər.i/
 
+![[repository.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where things are stored and can be found, especially software code.

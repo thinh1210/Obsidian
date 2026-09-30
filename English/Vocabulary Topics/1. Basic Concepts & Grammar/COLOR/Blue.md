@@ -2,8 +2,10 @@
 *adj, n*
 > /bluː/
 
+![[blue.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The color of the clear sky and the deep sea.

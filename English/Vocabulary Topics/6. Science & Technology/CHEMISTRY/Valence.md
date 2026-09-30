@@ -2,8 +2,10 @@
 *noun*
 > /ˈveɪ.ləns/
 
+![[valence.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The combining power of an element, especially as measured by the number of hydrogen atoms it can displace or combine with.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `valence electron`: electron hóa trị
 - `valence shell`: lớp vỏ hóa trị
+- `valence band`: dải hóa trị
+- `valence number`: số hóa trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Carbon has a valence of four, allowing it to form four covalent bonds.

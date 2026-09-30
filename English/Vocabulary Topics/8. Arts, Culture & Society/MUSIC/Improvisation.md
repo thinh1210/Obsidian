@@ -2,8 +2,10 @@
 *n.*
 > /ˌɪm.prə.vaɪˈzeɪ.ʃən/
 
+![[improvisation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of making or doing something not planned beforehand, especially in music or drama.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `jazz improvisation`: sự ứng tấu nhạc jazz
 - `brilliant improvisation`: sự ngẫu hứng xuất sắc
+- `spontaneous improvisation`: sự ứng tấu ngẫu hứng tức thì
+- `master of improvisation`: bậc thầy về ứng biến ngẫu hứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Jazz music is famous for its emphasis on live improvisation.

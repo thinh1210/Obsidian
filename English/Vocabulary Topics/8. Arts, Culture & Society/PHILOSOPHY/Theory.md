@@ -2,8 +2,10 @@
 *n.*
 > /ˈθɪə.ri/
 
+![[theory.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of ideas intended to explain something.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in theory`: trên lý thuyết
 - `scientific theory`: lý thuyết khoa học
+- `formulate a theory`: xây dựng nên một lý thuyết
+- `conspiracy theory`: thuyết âm mưu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In theory, the plan should work perfectly.

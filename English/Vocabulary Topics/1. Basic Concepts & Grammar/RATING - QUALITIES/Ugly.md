@@ -2,8 +2,10 @@
 *adj*
 > /ˈʌɡ.li/
 
+![[ugly.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unpleasant or repulsive, especially in appearance.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `an ugly truth`: một sự thật xấu xí
+- `rear its ugly head`: hiện rõ bản chất xấu xa / tái diễn phiền toái
+- `ugly rumor`: tin đồn độc địa
+- `ugly scene`: cảnh tượng xấu hổ / cãi vã khó coi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The building is very ugly.

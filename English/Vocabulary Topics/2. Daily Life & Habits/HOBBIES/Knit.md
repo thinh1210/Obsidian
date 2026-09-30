@@ -2,8 +2,10 @@
 *v*
 > /nɪt/
 
+![[knit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make clothes, etc. from wool or cotton thread using two long needles.

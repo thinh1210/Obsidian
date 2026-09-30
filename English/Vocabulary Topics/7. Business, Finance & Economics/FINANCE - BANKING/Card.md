@@ -2,8 +2,10 @@
 *noun.*
 > /kɑːd/
 
+![[card.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small plastic card used to make payments.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `credit card`: thẻ tín dụng
 - `debit card`: thẻ ghi nợ
+- `contactless card`: thẻ thanh toán không tiếp xúc
+- `swipe a card`: quẹt thẻ thanh toán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can I pay by card, or do you only accept cash?

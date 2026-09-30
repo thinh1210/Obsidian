@@ -2,8 +2,10 @@
 *n.*
 > /kruː/
 
+![[crew.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of people who work on and operate a ship, aircraft, public transport, or movie production
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `film crew`: đoàn làm phim
 - `crew member`: thành viên đoàn làm phim
+- `production crew`: đoàn làm phim / tổ sản xuất
+- `technical crew`: đội ngũ kỹ thuật viên máy quay và âm thanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The film crew arrived on set at dawn.

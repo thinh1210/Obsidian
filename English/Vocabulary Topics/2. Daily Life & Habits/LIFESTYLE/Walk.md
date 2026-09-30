@@ -2,8 +2,10 @@
 *v., n.*
 > /wɔːk/
 
+![[walk.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move at a regular pace by lifting and setting down each foot in turn.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take a walk`: đi dạo
+- `daily walk`: đi bộ thể dục hàng ngày
+- `take a brisk walk`: đi bộ nhanh giải tỏa đầu óc
+- `walk in the park`: đi dạo trong công viên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I walk to school.

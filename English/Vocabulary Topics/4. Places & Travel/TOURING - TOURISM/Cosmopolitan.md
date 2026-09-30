@@ -2,8 +2,10 @@
 *Adjective*
 > /ˌkɑːz.məˈpɑː.lɪ.t̬ən/
 
+![[cosmopolitan.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing or having experience of people and things from many different parts of the world.
@@ -13,7 +15,11 @@
 💡 CÓT MÔ PÔ LI TẦN (Cosmopolitan) đa quốc gia.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `cosmopolitan city`: thành phố đa quốc gia\n- `cosmopolitan atmosphere`: bầu không khí quốc tế
+- `cosmopolitan city`: thành phố đa quốc gia
+- `cosmopolitan atmosphere`: bầu không khí quốc tế
+- `cosmopolitan vibe`: phong cách đa văn hóa hiện đại
+- `vibrant cosmopolitan city`: thành phố quốc tế sôi động giao thoa
+- `cosmopolitan crowd`: đám đông du khách đến từ khắp năm châu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New York is a highly cosmopolitan city.

@@ -2,8 +2,10 @@
 *n.*
 > /feɪm/
 
+![[fame.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being known or talked about by many.
@@ -13,7 +15,10 @@
 💡 Fame sounds like 'fake' sometimes.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `achieve fame: đạt được sự nổi tiếng`
+- `achieve fame`: đạt được sự nổi tiếng
+- `claim to fame`: lý do nổi tiếng nhất (idiom)
+- `hall of fame`: đại sảnh danh vọng
+- `fleeting fame`: danh tiếng sớm nở tối tàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She found fame on the internet.

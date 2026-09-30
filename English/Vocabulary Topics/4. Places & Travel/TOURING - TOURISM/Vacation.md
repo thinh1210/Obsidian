@@ -2,8 +2,10 @@
 *Noun*
 > /veɪˈkeɪ.ʃən/
 
+![[vacation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A time when someone does not go to work or school but is free to do what they want, such as travel or relax.
@@ -13,7 +15,11 @@
 💡 VƠ KÂY SẦN (Vacation) đi kỳ nghỉ vơ lấy cái nón.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `on vacation`: đang đi nghỉ\n- `summer vacation`: kỳ nghỉ hè
+- `on vacation`: đang đi nghỉ
+- `summer vacation`: kỳ nghỉ hè
+- `all-inclusive vacation package`: kỳ nghỉ trọn gói từ dịch vụ đến ăn ở
+- `dream vacation come true`: kỳ nghỉ trong mơ đã trở thành hiện thực
+- `take a well-deserved vacation`: tận hưởng kỳ nghỉ xứng đáng sau ngày vất vả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are planning a vacation in Hawaii.

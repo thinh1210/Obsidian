@@ -2,8 +2,10 @@
 *noun*
 > /ˈæl.ɪ.baɪ/
 
+![[alibi.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Evidence that a person was elsewhere when a crime was committed.

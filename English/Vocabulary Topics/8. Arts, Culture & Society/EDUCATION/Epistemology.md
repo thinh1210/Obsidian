@@ -2,8 +2,10 @@
 *n.*
 > /ɪˌpɪstəˈmɒlədʒi/
 
+![[epistemology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The theory of knowledge, especially with regard to its methods and validity
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `study epistemology`: nghiên cứu nhận thức luận
 - `epistemological question`: câu hỏi nhận thức luận
+- `genetic epistemology`: nhận thức luận phát sinh của Piaget
+- `epistemological framework`: khung lý thuyết nhận thức luận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Epistemology is a core branch of philosophy in university courses.

@@ -2,8 +2,10 @@
 *noun*
 > /liːf/
 
+![[leaf.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flattened structure of a higher plant, typically green and blade-like, that is attached to a stem directly or via a stalk.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fallen leaf`: lá rụng
 - `green leaf`: lá xanh
+- `turn over a new leaf`: bước sang trang mới cuộc đời / sửa đổi tính nết
+- `take a leaf out of someone's book`: noi gương ai / học tập cách làm của ai
+- `leaf vein`: gân lá cây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In autumn, the leaves turn brown and fall.

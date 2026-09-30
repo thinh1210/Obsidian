@@ -2,8 +2,10 @@
 *Verb*
 > /ˈlɪs.ən/
 
+![[listen.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give attention to someone or something in order to hear them.
@@ -13,7 +15,10 @@
 💡 Lý sơn (listen) có tiếng sóng vỗ để nghe.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `listen to`: nghe cái gì\n- `listen out for`: chú ý nghe ngóng
+- `listen to`: nghe cái gì
+- `listen out for`: chú ý nghe ngóng
+- `listen attentively`: chú ý lắng nghe
+- `listen to reason`: biết lắng nghe lẽ phải
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I listen to music.

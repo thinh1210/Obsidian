@@ -2,8 +2,10 @@
 *Noun*
 > /flaɪt/
 
+![[flight.mp3]]
+
 ---
-**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey in an aircraft.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `book a flight`: đặt chuyến bay
 - `miss a flight`: lỡ chuyến bay
+- `long-haul flight`: chuyến bay xuyên lục địa đường dài
+- `direct flight`: chuyến bay thẳng không cần quá cảnh
+- `smooth flight`: chuyến bay êm ái không rung lắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My flight is delayed.

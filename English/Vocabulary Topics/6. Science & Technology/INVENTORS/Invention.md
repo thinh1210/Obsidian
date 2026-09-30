@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈven.ʃən/
 
+![[invention.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that has never been made before, or the process of creating it
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `greatest invention`: phát minh vĩ đại nhất
 - `useful invention`: phát minh hữu ích
+- `necessity is the mother of invention`: cái khó ló cái khôn (thành ngữ)
+- `patented invention`: phát minh đã được cấp bằng độc quyền
+- `marvelous invention`: phát minh kỳ diệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wheel is one of the most important inventions in history.

@@ -2,8 +2,10 @@
 *noun*
 > /ɡruːp/
 
+![[group.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A collection of users gathered together online around a common interest or topic
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `join a group`: tham gia một nhóm
+- `private group`: nhóm kín riêng tư
+- `admin of a group`: quản trị viên của nhóm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I joined a local hiking group on Facebook to meet new people.

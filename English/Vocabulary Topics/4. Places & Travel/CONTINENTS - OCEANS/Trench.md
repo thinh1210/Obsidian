@@ -2,8 +2,10 @@
 *noun*
 > /trentʃ/
 
+![[trench.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long, narrow, deep depression in the ocean floor.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the Mariana Trench`: Rãnh Mariana
 - `oceanic trench`: rãnh đại dương
+- `deep-sea trench`: rãnh biển sâu
+- `subduction trench`: rãnh hút chìm kiến tạo
+- `explore the trench`: thám hiểm rãnh đại dương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The submarine dove into the deep trench.

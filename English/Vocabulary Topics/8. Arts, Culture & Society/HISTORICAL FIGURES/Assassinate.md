@@ -2,8 +2,10 @@
 *v.*
 > /əˈsæsɪneɪt/
 
+![[assassinate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To murder (an important person) in a surprise attack for political or religious reasons
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `assassinate a leader`: ám sát một nhà lãnh đạo
 - `plot to assassinate`: âm mưu ám sát
+- `assassination attempt`: vụ mưu sát
+- `political assassination`: vụ ám sát chính trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* An attempt to assassinate the prime minister failed.

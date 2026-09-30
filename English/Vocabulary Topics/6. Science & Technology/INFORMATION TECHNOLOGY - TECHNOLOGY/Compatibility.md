@@ -2,8 +2,10 @@
 *noun*
 > /kəmˌpæt.əˈbɪl.ə.ti/
 
+![[compatibility.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** B2 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of machines, especially computers, or software to work successfully with other machines or software.

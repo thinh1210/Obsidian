@@ -2,8 +2,10 @@
 *noun*
 > /ˈhʌr.ɪ.kən/
 
+![[hurricane.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A violent wind that has a circular movement, especially in the West Atlantic Ocean.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `category 5 hurricane`: bão cấp 5 - cấp cực kỳ nguy hiểm
 - `hurricane season`: mùa bão
+- `hurricane-force winds`: những cơn gió mạnh bão cấp cuồng phong
+- `eye of the hurricane`: mắt bão cuồng phong
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The hurricane caused power outages in millions of homes.

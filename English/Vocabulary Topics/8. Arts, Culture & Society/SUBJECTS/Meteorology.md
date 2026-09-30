@@ -2,8 +2,10 @@
 *noun*
 > /ˌmiːtiəˈrɒlədʒi/
 
+![[meteorology.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with the processes and phenomena of the atmosphere, especially as a means of forecasting the weather.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `satellite meteorology`: khí tượng học vệ tinh
+- `synoptic meteorology`: khí tượng học tóm lược
+- `meteorological forecast`: dự báo khí tượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Meteorology helps us predict severe weather events.

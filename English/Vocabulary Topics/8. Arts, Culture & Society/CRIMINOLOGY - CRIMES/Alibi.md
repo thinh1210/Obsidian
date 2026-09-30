@@ -2,8 +2,10 @@
 *noun*
 > /ˈæləbaɪ/
 
+![[alibi.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A claim or piece of evidence that one was elsewhere when an act, typically a crime, is alleged to have taken place
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `solid alibi`: chứng cứ ngoại phạm vững chắc
 - `establish an alibi`: thiết lập chứng cứ ngoại phạm
+- `airtight alibi`: bằng chứng ngoại phạm vững chắc không thể bẻ gãy
+- `fake alibi`: bằng chứng ngoại phạm được ngụy tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He had a solid alibi; he was at work when the bank was robbed.

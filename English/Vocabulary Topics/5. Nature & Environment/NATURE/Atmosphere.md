@@ -2,8 +2,10 @@
 *Noun*
 > /ˈætməsfɪər/
 
+![[atmosphere.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The envelope of gases surrounding the earth or another planet.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `earth's atmosphere`: bầu khí quyển Trái Đất
 - `upper atmosphere`: tầng khí quyển trên
+- `tense atmosphere`: bầu không khí căng thẳng
+- `atmospheric pressure`: áp suất khí quyển
+- `pollute the atmosphere`: làm ô nhiễm bầu khí quyển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The air in the mountain has a clean atmosphere.

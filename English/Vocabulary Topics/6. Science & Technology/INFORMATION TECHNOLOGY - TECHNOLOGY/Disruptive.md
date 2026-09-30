@@ -2,8 +2,10 @@
 *adj*
 > /dɪsˈrʌp.tɪv/
 
+![[disruptive.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Business/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Business/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Changing the traditional way that an industry operates, especially in a new and effective way.

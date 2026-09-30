@@ -2,8 +2,10 @@
 *adj.*
 > /ˈerudaɪt/
 
+![[erudite.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing great knowledge or learning
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `erudite scholar`: học giả uyên bác
 - `erudite discussion`: cuộc thảo luận uyên bác
+- `erudite essay`: bài tiểu luận có hàm lượng tri thức uyên bác
+- `erudite audience`: đối tượng độc giả có trình độ học vấn cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The professor is known for his erudite lectures.

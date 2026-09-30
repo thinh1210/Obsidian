@@ -2,8 +2,10 @@
 *noun*
 > /ˈtaɪmteɪbəl/
 
+![[timetable.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chart showing the times at which trains, buses, or events will take place.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `check the timetable`: kiểm tra thời gian biểu
+- `stick to the timetable`: bám sát lịch trình
+- `revised timetable`: thời khóa biểu được sửa đổi
+- `train timetable`: lịch chạy tàu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Here is your class timetable for this semester.

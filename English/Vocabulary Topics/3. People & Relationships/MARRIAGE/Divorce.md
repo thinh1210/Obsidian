@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈvɔːs/
 
+![[divorce.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The legal dissolution of a marriage by a court or other competent body.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Get a divorce`: Ly hôn
+- `file for divorce`: nộp đơn xin ly hôn ra tòa
+- `messy divorce`: vụ ly hôn ồn ào phức tạp
+- `divorce settlement`: thỏa thuận giải quyết phân chia sau ly hôn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They got a divorce last year.

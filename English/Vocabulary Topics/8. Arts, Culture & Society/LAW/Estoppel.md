@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈstɒpl/
 
+![[estoppel.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A legal principle that prevents someone from arguing something contrary to a claim they previously made or agreed to

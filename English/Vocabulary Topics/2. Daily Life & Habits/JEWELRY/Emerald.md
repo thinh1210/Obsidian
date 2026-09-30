@@ -2,8 +2,10 @@
 *noun*
 > /ˈem.ə.rəld/
 
+![[emerald.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bright green precious stone.
@@ -13,7 +15,10 @@
 💡 Em mờ (Emer) rớt (rald) ngọc lục bảo.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `emerald green: xanh ngọc lục bảo`
+- `emerald green`: xanh ngọc lục bảo
+- `colombian emerald`: ngọc lục bảo Colombia
+- `emerald-cut diamond`: kim cương giác cắt ngọc lục bảo
+- `deep green emerald`: ngọc lục bảo xanh biếc thẫm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The crown featured a huge emerald.

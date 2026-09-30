@@ -2,8 +2,10 @@
 *adj.*
 > /tʃiːp/
 
+![[cheap.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Costing little money or less than is usual.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cheap flight`: chuyến bay giá rẻ
 - `dirt cheap`: rẻ như cho
+- `cheap money`: chính sách tiền tệ nới lỏng lãi suất rẻ
+- `cheap credit`: nguồn tín dụng giá rẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I found a cheap hotel near the train station.

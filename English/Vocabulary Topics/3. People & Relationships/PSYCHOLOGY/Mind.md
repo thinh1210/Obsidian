@@ -2,8 +2,10 @@
 *noun*
 > /maɪnd/
 
+![[mind.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The part of a person that thinks, feels, and remembers.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep in mind`: ghi nhớ
+- `peace of mind`: sự thanh thản trong tâm hồn (idiom)
+- `slip one's mind`: bất chợt quên khuấy đi (idiom)
+- `broaden one's mind`: mở rộng tầm nhìn trí tuệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Keep that in mind.

@@ -2,8 +2,10 @@
 *adj*
 > /məˈtɝː.nəl/
 
+![[maternal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or relating to a mother.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `maternal care`: sự chăm sóc của mẹ
+- `maternal grandmother`: bà ngoại
+- `maternal affection`: tình mẫu tử thiêng liêng
+- `maternal instinct`: bản năng làm mẹ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her maternal love is unconditional.

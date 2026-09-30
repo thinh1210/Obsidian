@@ -2,8 +2,10 @@
 *noun*
 > /ruːt/
 
+![[route.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A way or course taken in getting from a starting point to a destination.
@@ -16,6 +18,7 @@
 - `escape route`: lối thoát hiểm
 - `bus route`: tuyến xe buýt
 - `scenic route`: con đường phong cảnh đẹp
+- `alternative route`: tuyến đường tránh thay thế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Which route is the fastest to the airport?

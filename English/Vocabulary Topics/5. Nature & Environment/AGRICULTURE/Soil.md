@@ -2,8 +2,10 @@
 *n.*
 > /sɔɪl/
 
+![[soil.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The top layer of the earth in which plants grow.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fertile soil`: đất đai màu mỡ
 - `soil erosion`: xói mòn đất
+- `topsoil layer`: tầng đất mặt màu mỡ
+- `soil fertility`: độ phì nhiêu của đất
+- `enrich the soil`: bồi bổ, làm giàu cho đất trồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Healthy soil is the key to growing beautiful vegetables.

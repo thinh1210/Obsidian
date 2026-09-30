@@ -2,8 +2,10 @@
 *n*
 > /ˈbɪbliəfaɪl/
 
+![[bibliophile.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who collects or has a great love of books.
@@ -13,7 +15,11 @@
 💡 Biblio (sách) + phile (người yêu thích).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `avid bibliophile`: người đam mê sách\n- `bibliophile club`: câu lạc bộ người yêu sách
+- `avid bibliophile`: người đam mê sách
+- `bibliophile club`: câu lạc bộ người yêu sách
+- `passionate bibliophile`: người mê sách cuồng nhiệt
+- `bibliophile's paradise`: thiên đường cho người yêu sách
+- `bibliophile collection`: bộ sưu tập của người mê sách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* As a bibliophile, his room is filled with books.

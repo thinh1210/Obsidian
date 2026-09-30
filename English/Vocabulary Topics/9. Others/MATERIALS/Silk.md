@@ -2,8 +2,10 @@
 *noun.*
 > /sɪlk/
 
+![[silk.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fine, strong, soft lustrous fiber produced by silkworms in making cocoons and collected to make thread and fabric.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `raw silk`: lụa thô
 - `silk dress`: váy lụa
+- `smooth as silk`: mượt mà trơn tru như lụa (idiom)
+- `silk road`: con đường tơ lụa huyền thoại
+- `pure silk`: lụa tơ tằm nguyên chất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wore a beautiful silk scarf around her shoulders.

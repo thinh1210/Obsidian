@@ -2,8 +2,10 @@
 *noun*
 > /mjuˈziːəm/
 
+![[museum.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `history museum`: bảo tàng lịch sử
 - `national museum`: bảo tàng quốc gia
+- `curate a museum`: quản lý / phụ trách bảo tàng
+- `museum collection`: bộ sưu tập bảo tàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We spent the afternoon at the science museum.

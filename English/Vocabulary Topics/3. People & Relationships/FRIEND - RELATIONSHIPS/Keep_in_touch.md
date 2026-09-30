@@ -2,8 +2,10 @@
 *idiom*
 > /kiːp ɪn tʌtʃ/
 
+![[keep_in_touch.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To maintain contact with another person, especially at intervals so as to remain up to date with each other's lives.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep in touch with someone`: giữ liên lạc với ai đó
+- `struggle to keep in touch`: chật vật duy trì liên lạc vì bận rộn
+- `keep in touch regularly`: giữ liên lạc thường xuyên đều đặn
+- `stay in touch`: duy trì mối liên lạc kết nối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's keep in touch after graduation.

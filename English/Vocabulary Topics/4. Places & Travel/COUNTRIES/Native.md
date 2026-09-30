@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈneɪtɪv/
 
+![[native.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Associated with the place or circumstances of a person's birth.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Native speaker`: Người bản xứ
+- `native tongue`: tiếng mẹ đẻ
+- `native land`: quê cha đất tổ
+- `native to`: có nguồn gốc tự nhiên từ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Are you a native English speaker?

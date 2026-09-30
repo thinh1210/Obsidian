@@ -2,8 +2,10 @@
 *n.*
 > /ˈstjuː.dənt/
 
+![[student.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who is studying at a school or university
@@ -13,8 +15,11 @@
 💡 Sự tự đập (student) đầu học bài của sinh viên.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``college student`: sinh viên đại học`
-- ``exchange student`: sinh viên trao đổi`
+- `college student`: sinh viên đại học
+- `exchange student`: sinh viên trao đổi
+- `hardworking student`: học sinh sinh viên cần cù chăm chỉ
+- `international student`: du học sinh quốc tế
+- `student body`: toàn thể cộng đồng sinh viên trong trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The students are listening to the teacher.

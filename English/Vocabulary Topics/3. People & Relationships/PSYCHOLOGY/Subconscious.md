@@ -2,8 +2,10 @@
 *noun*
 > /ˌsʌbˈkɑːn.ʃəs/
 
+![[subconscious.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or concerning the part of the mind of which one is not fully aware.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `subconscious mind`: tâm trí tiềm thức
+- `subconscious desire`: khao khát tiềm ẩn trong vô thức
+- `subconscious cues`: những tín hiệu tiềm thức ngầm
+- `tap into the subconscious`: khai mở tiềm thức vô thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It was a subconscious reaction.

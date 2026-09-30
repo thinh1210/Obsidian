@@ -2,8 +2,10 @@
 *adj.*
 > /ˌævɒ̃ ˈɡɑːd/
 
+![[avant_garde.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Favoring or introducing experimental or unusual ideas, especially in the arts.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `avant-garde art`: nghệ thuật tiên phong
 - `avant-garde theatre`: nhà hát tiên phong
+- `avant-garde cinema`: điện ảnh tiên phong thử nghiệm
+- `avant-garde movement`: phong trào nghệ thuật tiền phong
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I don't really understand avant-garde fashion.

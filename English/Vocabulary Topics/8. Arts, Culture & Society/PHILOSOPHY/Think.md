@@ -2,8 +2,10 @@
 *v.*
 > /θɪŋk/
 
+![[think.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have a particular opinion, belief, or idea about something.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `think about`: nghĩ về
 - `think of`: nghĩ đến
+- `think outside the box`: tư duy đột phá sáng tạo
+- `think twice`: cân nhắc kỹ lưỡng trước khi hành động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I think we should go now before it rains.

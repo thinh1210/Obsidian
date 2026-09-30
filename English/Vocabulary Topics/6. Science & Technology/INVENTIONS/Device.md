@@ -2,8 +2,10 @@
 *Noun*
 > /dɪˈvaɪs/
 
+![[device.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or machine that has been invented for a particular purpose.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electronic device`: thiết bị điện tử
 - `mobile device`: thiết bị di động
+- `smart device`: thiết bị thông minh
+- `storage device`: thiết bị lưu trữ dữ liệu
+- `medical device`: thiết bị y tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please turn off all electronic devices during takeoff.

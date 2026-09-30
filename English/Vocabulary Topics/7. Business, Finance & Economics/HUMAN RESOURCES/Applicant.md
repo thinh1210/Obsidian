@@ -2,8 +2,10 @@
 *n.*
 > /ˈæp.lɪ.kənt/
 
+![[applicant.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who makes a formal application for a job
@@ -13,7 +15,11 @@
 💡 Ứng viên ("applicant") chuẩn bị "áp" lực "li" nước mát uống cho tỉnh
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``successful applicant`: ứng viên thành công
+- `successful applicant`: ứng viên thành công
+- `job applicant`: người nộp hồ sơ xin việc
+- `shortlist applicants`: sàng lọc danh sách ứng viên tiềm năng
+- `screen applicants`: sơ tuyển hồ sơ ứng viên
+- `qualified applicant`: ứng viên có đủ bằng cấp và kỹ năng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There were over fifty applicants for the job.

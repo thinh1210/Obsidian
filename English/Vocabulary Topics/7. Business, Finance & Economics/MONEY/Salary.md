@@ -2,8 +2,10 @@
 *noun*
 > /ˈsæl.ər.i/
 
+![[salary.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fixed regular payment, typically paid on a monthly basis
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `monthly salary`: lương tháng
+- `base salary`: mức lương cơ bản chưa tính thưởng
+- `salary increase`: đợt tăng lương định kỳ
+- `salary negotiation`: cuộc đàm phán về chế độ đãi ngộ lương
+- `competitive salary`: mức lương có tính cạnh tranh cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her salary is paid directly into her bank account.

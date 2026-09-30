@@ -2,8 +2,10 @@
 *noun*
 > /ˌlɪt.ɪˈɡeɪ.ʃən/
 
+![[litigation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of taking legal action.

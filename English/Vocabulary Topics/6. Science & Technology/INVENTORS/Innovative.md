@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɪn.ə.və.tɪv/
 
+![[innovative.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Using new methods or ideas; creative
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `innovative design`: thiết kế mang tính đổi mới
 - `innovative approach`: phương pháp tiếp cận sáng tạo
+- `innovative technology`: công nghệ sáng tạo đột phá
+- `highly innovative product`: sản phẩm có tính sáng tạo cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The young architect won an award for her innovative design.

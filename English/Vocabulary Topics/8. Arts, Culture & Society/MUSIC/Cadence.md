@@ -2,8 +2,10 @@
 *n.*
 > /ˈkeɪ.dəns/
 
+![[cadence.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A modulation or inflection of the voice; a sequence of notes or chords comprising the close of a musical phrase.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `melodic cadence`: đoạn kết giai điệu
 - `cadence of speech`: nhịp điệu của lời nói
+- `rhythmic cadence`: nhịp điệu nhịp nhàng uyển chuyển
+- `final cadence`: đoạn kết của một câu nhạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The song ends with a traditional plagal cadence.

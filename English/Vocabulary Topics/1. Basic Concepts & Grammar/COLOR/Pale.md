@@ -2,8 +2,10 @@
 *adj*
 > /peɪl/
 
+![[pale.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having less color than usual, or not bright.

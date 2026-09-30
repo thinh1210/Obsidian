@@ -2,8 +2,10 @@
 *verb*
 > /beɪk/
 
+![[bake.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cook food by dry heat without direct exposure to a flame, typically in an oven.

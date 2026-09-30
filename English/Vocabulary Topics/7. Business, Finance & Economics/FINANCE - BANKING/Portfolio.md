@@ -2,8 +2,10 @@
 *noun.*
 > /pɔːtˈfəʊliəʊ/
 
+![[portfolio.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A range of investments held by a person or organization.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `investment portfolio`: danh mục đầu tư
 - `diversify portfolio`: đa dạng hóa danh mục
+- `portfolio diversification`: đa dạng hóa danh mục đầu tư
+- `rebalance a portfolio`: tái cân bằng danh mục tài sản
+- `portfolio management`: quản lý danh mục đầu tư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A well-diversified portfolio should include stocks, bonds, and cash.

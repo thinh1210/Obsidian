@@ -2,8 +2,10 @@
 *verb*
 > /ˈmoʊ.t̬ə.veɪt/
 
+![[motivate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Provide someone with a motive for doing something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `highly motivated`: được tạo động lực cao
+- `extrinsic motivation`: động lực ngoại tại từ bên ngoài
+- `intrinsic motivation`: động lực nội tại từ bên trong
+- `motivate students`: truyền động lực cho học sinh phấn đấu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What motivates you?

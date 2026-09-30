@@ -2,8 +2,10 @@
 *noun*
 > /ˈdel.juːdʒ/
 
+![[deluge.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A severe flood or a very heavy fall of rain.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `suffer a deluge`: gánh chịu một trận lụt lớn
 - `deluge of water`: dòng nước lũ xối xả
+- `deluge of complaints`: cơn mưa lời phàn nàn đổ dồn về
+- `inundated by the deluge`: bị ngập chìm trong biển nước lũ
+- `deluge of information`: ngập tràn thông tin dồn dập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The town was submerged under a deluge of water after the dam broke.

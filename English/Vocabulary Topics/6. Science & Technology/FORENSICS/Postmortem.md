@@ -2,8 +2,10 @@
 *noun / adjective*
 > /ˌpəʊst ˈmɔː.təm/
 
+![[postmortem.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An examination of a body after death to determine cause; occurring or done after death.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɡɒθɪk/
 
+![[gothic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to a style of architecture characterized by pointed arches, rib vaults, and flying buttresses
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gothic architecture`: kiến trúc gothic
 - `gothic cathedral`: nhà thờ lớn gothic
+- `gothic arch`: vòm nhọn kiểu kiến trúc Gothic
+- `neo-Gothic style`: phong cách tân Gothic
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the gothic arches of the old town hall.

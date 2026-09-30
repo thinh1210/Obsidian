@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɒl.iːɡ/
 
+![[colleague.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person with whom one works.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A former colleague`: Một đồng nghiệp cũ
+- `trusted colleague`: người đồng nghiệp đáng tin cậy
+- `former colleague`: đồng nghiệp cũ
+- `work alongside colleagues`: làm việc sát cánh cùng đồng nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am having lunch with a colleague.

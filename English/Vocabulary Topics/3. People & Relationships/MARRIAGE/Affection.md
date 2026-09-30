@@ -2,8 +2,10 @@
 *noun*
 > /əˈfekʃn/
 
+![[affection.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A gentle feeling of fondness or liking.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Show affection`: Thể hiện tình cảm
+- `mutual affection`: tình cảm thắm thiết dành cho nhau
+- `win someone's affection`: chiếm trọn được tình cảm của ai
+- `deep affection`: tình cảm sâu đậm bền chặt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He showed great affection for his wife.

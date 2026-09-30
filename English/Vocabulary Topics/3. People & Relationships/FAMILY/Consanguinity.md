@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɒn.sæŋˈɡwɪn.ə.ti/
 
+![[consanguinity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition of being of the same blood or origin.

@@ -2,8 +2,10 @@
 *noun*
 > /plɑːnt/
 
+![[plant.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A living thing that grows in the earth and usually has a stem, leaves, and roots.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `indoor plants`: cây trong nhà
 - `water a plant`: tưới cây
+- `plant root system`: hệ thống rễ cây
+- `potted plant`: cây cảnh trồng trong chậu
+- `water the plants regularly`: tưới cây đều đặn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought a new houseplant yesterday.

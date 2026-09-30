@@ -2,8 +2,10 @@
 *noun.*
 > /ˈɪntrəst/
 
+![[interest.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money charged by a bank for borrowing, or paid to you for keeping money in an account.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `interest rate`: lãi suất
 - `compound interest`: lãi kép
+- `simple interest`: lãi suất đơn
+- `interest rate hike`: đợt tăng lãi suất điều hành
+- `accrued interest`: tiền lãi tích dồn phát sinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The savings account offers a high interest of five percent annually.

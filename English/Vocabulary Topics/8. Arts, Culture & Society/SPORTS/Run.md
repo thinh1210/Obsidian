@@ -2,8 +2,10 @@
 *v.*
 > /rʌn/
 
+![[run.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move at a speed faster than a walk, never having both feet on the ground at the same time.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `run fast`: chạy nhanh
 - `run a marathon`: chạy marathon
+- `run out of steam`: đuối sức, hết hơi
+- `hit the ground running`: bắt nhịp nhanh và phát huy hiệu quả ngay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to run in the park every morning.

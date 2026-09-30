@@ -2,8 +2,10 @@
 *noun*
 > /ˈbæt.əl/
 
+![[battle.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fight between large organized armed forces, typically in a war.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `win a battle`: thắng một trận chiến
 - `battlefield`: chiến trường
+- `fierce battle`: trận đánh giao tranh diễn ra vô cùng khốc liệt
+- `decisive battle`: trận chiến có ý nghĩa quyết định cục diện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The two siblings had a huge pillow battle in the living room.

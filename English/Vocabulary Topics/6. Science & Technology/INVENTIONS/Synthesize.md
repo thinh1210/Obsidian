@@ -2,8 +2,10 @@
 *Verb*
 > /ˈsɪn.θə.saɪz/
 
+![[synthesize.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To produce a substance by chemical synthesis; to combine different ideas or facts into a coherent whole.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `synthesize chemical compounds`: tổng hợp các hợp chất hóa học
 - `synthesize information`: tổng hợp thông tin
+- `synthesize chemicals`: tổng hợp các chất hóa học
+- `synthesize proteins`: tổng hợp chuỗi protein
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It takes time to synthesize all the information from different sources.

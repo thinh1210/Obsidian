@@ -2,8 +2,10 @@
 *noun*
 > /tɔːˈneɪ.dəʊ/
 
+![[tornado.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A violent storm with very strong winds which spin in a funnel shape.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tornado warning`: cảnh báo lốc xoáy
 - `tornado damage`: thiệt hại do lốc xoáy
+- `deadly tornado`: cơn lốc xoáy chết người
+- `tornado alley`: vành đai hay xảy ra lốc xoáy tại Mỹ
+- `tornado touch down`: vòi rồng lốc xoáy chạm mặt đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The tornado ripped the roofs off several houses in Ohio.

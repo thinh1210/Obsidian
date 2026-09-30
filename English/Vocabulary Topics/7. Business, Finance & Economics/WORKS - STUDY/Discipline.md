@@ -2,8 +2,10 @@
 *n.*
 > /ˈdɪs.ə.plɪn/
 
+![[discipline.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** WORKS - STUDY
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of training people to obey rules, or a branch of knowledge
@@ -13,8 +15,9 @@
 💡 Đi thi pin (discipline) cần sự kỷ luật nghiêm khắc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``self-discipline`: tự kỷ luật`
-- ``academic discipline`: ngành học thuật`
+- `self-discipline`: tự kỷ luật
+- `academic discipline`: ngành học thuật
+- `maintain discipline`: giữ vững nề nếp kỷ cương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It takes a lot of self-discipline to study every day.

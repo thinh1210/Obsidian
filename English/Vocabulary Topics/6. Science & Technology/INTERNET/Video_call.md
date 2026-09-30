@@ -2,8 +2,10 @@
 *noun*
 > /ˈvɪd.i.əʊ kɔːl/
 
+![[video_call.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A real-time visual communication over the Internet where participants can see and hear each other.

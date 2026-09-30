@@ -2,8 +2,10 @@
 *n.*
 > /ˈsiːnəri/
 
+![[scenery.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural features of a landscape considered in terms of their appearance.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `beautiful scenery`: phong cảnh đẹp
+- `spectacular scenery`: phong cảnh ngoạn mục hùng tráng
+- `change of scenery`: sự đổi gió thay đổi không khí sống
+- `stunning scenery`: cảnh sắc đẹp ngỡ ngàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The scenery here is amazing.

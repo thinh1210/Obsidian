@@ -2,8 +2,10 @@
 *noun*
 > /ˌeɪ.viˈɒn.ɪks/
 
+![[avionics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The electronic systems used on aircraft, including navigation, communication, and flight management systems.

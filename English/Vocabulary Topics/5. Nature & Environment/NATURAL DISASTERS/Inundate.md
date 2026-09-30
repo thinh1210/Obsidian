@@ -2,8 +2,10 @@
 *verb*
 > /ˈɪn.ʌn.deɪt/
 
+![[inundate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To flood an area with water; to overwhelm someone with things.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `be inundated with`: bị ngập lụt bởi/bị quá tải bởi
 - `inundate coastal areas`: làm ngập lụt các vùng ven biển
+- `inundated with requests`: ngập ngụa trong các yêu cầu gửi về
+- `floodwaters inundate the town`: nước lũ nhấn chìm cả thị trấn
+- `risk of being inundated`: nguy cơ bị ngập úng chìm trong biển nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Rising sea levels threaten to inundate low-lying coastal cities.

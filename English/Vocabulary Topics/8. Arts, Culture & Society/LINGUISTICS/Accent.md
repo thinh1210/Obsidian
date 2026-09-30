@@ -2,8 +2,10 @@
 *noun*
 > /ˈæk.sənt/
 
+![[accent.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a way of pronouncing words that shows what country or region a person comes from

@@ -2,8 +2,10 @@
 *adj*
 > /ɪkˈstɔː.ʃən.ət/
 
+![[extortionate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely expensive
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `extortionate price`: giá cắt cổ
+- `extortionate demands`: những đòi hỏi quá quắt, cắt cổ
+- `charge extortionate prices`: ép giá cắt cổ khách hàng
+- `extortionate interest rate`: mức lãi suất cắt cổ (cho vay nặng lãi)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cab fare was extortionate.

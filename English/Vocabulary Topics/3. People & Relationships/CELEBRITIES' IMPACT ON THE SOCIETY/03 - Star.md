@@ -2,8 +2,10 @@
 *n.*
 > /stɑːr/
 
+![[star.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very famous, successful person.
@@ -13,7 +15,10 @@
 💡 Ngôi sao trên trời (star).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Pop star: Ngôi sao nhạc pop`
+- `Pop star`: Ngôi sao nhạc pop
+- `movie star`: ngôi sao điện ảnh
+- `rising star`: ngôi sao đang lên
+- `star in a film`: đóng vai chính trong bộ phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a star.

@@ -2,8 +2,10 @@
 *noun*
 > /əˌkɑːməˈdeɪʃən/
 
+![[accommodation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room, group of rooms, or building in which someone may live or stay.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `find accommodation`: tìm chỗ ở
 - `temporary accommodation`: chỗ ở tạm thời
+- `holiday accommodation`: chỗ ở nghỉ mát
+- `rent accommodation`: thuê chỗ ở
+- `luxury accommodation`: chỗ ở sang trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The price includes flights and accommodation.

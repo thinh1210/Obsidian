@@ -2,8 +2,10 @@
 *adj*
 > /suːˈpɜːb/
 
+![[superb.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Excellent; of the highest quality.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `superb quality`: chất lượng tuyệt hảo
+- `superb craftsmanship`: tay nghề tuyệt hảo
+- `superb display`: màn trình diễn tuyệt mỹ
+- `superb hospitality`: lòng hiếu khách tuyệt vời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The actors gave a superb performance.

@@ -2,8 +2,10 @@
 *noun*
 > /biːtʃ/
 
+![[beach.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of sand or stones next to the sea

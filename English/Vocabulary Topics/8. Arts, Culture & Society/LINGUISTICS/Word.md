@@ -2,8 +2,10 @@
 *noun*
 > /wɜːd/
 
+![[word.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a single unit of language that has meaning and can be spoken or written

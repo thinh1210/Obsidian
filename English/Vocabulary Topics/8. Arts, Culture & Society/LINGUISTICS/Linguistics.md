@@ -2,8 +2,10 @@
 *noun*
 > /lɪŋˈɡwɪs.tɪks/
 
+![[linguistics.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the scientific study of language and its structure

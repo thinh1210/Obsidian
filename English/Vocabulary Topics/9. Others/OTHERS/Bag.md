@@ -1,13 +1,21 @@
 # Bag
 
 *Noun*
+> /bæɡ/
+
+![[bag.mp3]]
 
 - **[EN]:** A container made of paper, plastic, or leather, used for carrying things.
 - **[VN]:** Túi, giỏ xách.
 
-**Level:** A1
+**Level:** A1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Đồ vật hàng ngày, Vật dụng chứa & Đồ chơi
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `in the bag`: nắm chắc phần thắng trong tay (idiom)
+- `mixed bag`: tập hợp lẫn lộn cả điều tốt lẫn xấu (idiom)
+- `pack one's bags`: thu dọn hành lý sẵn sàng rời đi (phrasal verb)
+
 ## Examples
 1. *She carried a leather bag on her shoulder.*
    - Cô ấy đeo một chiếc túi da trên vai.

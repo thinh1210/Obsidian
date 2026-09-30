@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈmæliəbl/
 
+![[malleable.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to be hammered or pressed permanently out of shape without breaking or cracking; easily influenced.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `malleable metal`: kim loại dễ dát mỏng
 - `malleable mind`: đầu óc dễ bị uốn nắn/tác động
+- `malleable iron`: sắt rèn dẻo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Silver is extremely malleable, which allows jewelers to create intricate designs.

@@ -2,8 +2,10 @@
 *n.*
 > /plɒt/
 
+![[plot.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main events of a play, novel, movie, or similar work, devised and presented by the writer as a related sequence
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plot twist`: bước ngoặt cốt truyện
 - `sub-plot`: cốt truyện phụ
+- `intricate plot`: cốt truyện đan cài phức tạp tinh vi
+- `plot hole`: hạt sạn logic trong đường dây kịch bản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The plot of the movie was too predictable.

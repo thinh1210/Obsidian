@@ -2,8 +2,10 @@
 *verb*
 > /əˈkwɪt/
 
+![[acquit.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free (someone) from a criminal charge by a verdict of not guilty.

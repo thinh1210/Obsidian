@@ -2,8 +2,10 @@
 *n.*
 > /bʊk/
 
+![[book.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written or printed work consisting of pages bound together
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `read a book`: đọc sách
 - `textbook`: sách giáo khoa
+- `reference book`: sách tham khảo chuyên môn
+- `hit the books`: vùi đầu tập trung cao độ vào việc ôn bài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like reading books before sleep.

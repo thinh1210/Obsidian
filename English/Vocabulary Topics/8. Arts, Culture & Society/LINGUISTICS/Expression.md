@@ -2,8 +2,10 @@
 *noun*
 > /ɪkˈspreʃ.ən/
 
+![[expression.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a word or phrase, or the act of saying what you think or showing how you feel

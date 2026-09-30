@@ -2,8 +2,10 @@
 *noun*
 > /ˌvɪdʒɪˈlænti/
 
+![[vigilante.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A member of a self-appointed group of citizens who undertake law enforcement in their community without legal authority
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `vigilante justice`: công lý tự xử
 - `vigilante group`: nhóm tự quản tự xử
+- `vigilante violence`: hành vi bạo lực của các nhóm tự ý hành hiệp
+- `lone vigilante`: kẻ tự xử đơn độc ngoài vòng pháp luật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police warned citizens not to behave like vigilantes.

@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈvɪskəs/
 
+![[viscous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a thick, sticky consistency between solid and liquid; having a high viscosity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `viscous liquid`: chất lỏng nhớt, sệt
 - `viscous fluid`: lưu chất có độ nhớt cao
+- `viscous flow`: dòng chảy nhớt ma sát nội bộ
+- `highly viscous syrup`: si-rô sánh đặc chảy chậm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Syrup is a viscous liquid that flows much slower than water.

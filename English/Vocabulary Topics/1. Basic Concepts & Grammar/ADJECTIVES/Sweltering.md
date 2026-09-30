@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsweltərɪŋ/
 
+![[sweltering.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Uncomfortably hot
@@ -13,7 +15,10 @@
 💡 Sờ veo (sweltering) mồ hôi vì nóng
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``sweltering heat`: cái nóng ngột ngạt`
+- `sweltering heat`: cái nóng ngột ngạt
+- `sweltering afternoon`: buổi chiều nóng bức oi ả
+- `sweltering conditions`: điều kiện ngột ngạt nóng nực
+- `sweltering summer`: mùa hè oi ả ngột ngạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sweltering day.

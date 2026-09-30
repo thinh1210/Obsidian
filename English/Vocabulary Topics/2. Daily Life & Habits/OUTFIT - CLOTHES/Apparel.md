@@ -2,8 +2,10 @@
 *noun*
 > /əˈper.əl/
 
+![[apparel.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clothing, especially formal or elegant wear; a commercial term for clothes.
@@ -13,7 +15,10 @@
 💡 Apparel -> Áp ba rọi -> Dùng y phục áp thịt ba rọi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `sports apparel: đồ thể thao`
+- `sports apparel`: đồ thể thao
+- `casual apparel`: trang phục thường ngày
+- `apparel industry`: ngành công nghiệp may mặc
+- `athletic apparel`: quần áo trang phục thể thao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She works in the apparel industry.

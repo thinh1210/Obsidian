@@ -2,8 +2,10 @@
 *Noun*
 > /ˈæt.məs.fɪər/
 
+![[atmosphere.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The envelope of gases surrounding the earth or another planet.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Earth's atmosphere`: khí quyển Trái Đất
 - `dense atmosphere`: khí quyển dày đặc
+- `atmospheric pressure`: áp suất khí quyển
+- `planetary atmosphere`: khí quyển hành tinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The atmosphere tonight is very cozy.

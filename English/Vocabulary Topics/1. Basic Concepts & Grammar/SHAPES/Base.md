@@ -2,8 +2,10 @@
 *n.*
 > /beɪs/
 
+![[base.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The lowest part or edge of something, especially the part on which it rests or is supported.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `At the base`: Ở phần đáy
 - `A broad base`: Đáy rộng
+- `touch base with`: liên lạc / trao đổi ngắn với
+- `broad customer base`: tập khách hàng rộng lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The pyramid has a square base.

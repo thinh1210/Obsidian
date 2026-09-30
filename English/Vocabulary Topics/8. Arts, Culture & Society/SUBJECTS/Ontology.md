@@ -2,8 +2,10 @@
 *n.*
 > /ɒnˈtɒl.ə.dʒi/
 
+![[ontology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of metaphysics dealing with the nature of being, existence, or reality.

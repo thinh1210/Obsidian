@@ -2,8 +2,10 @@
 *Verb*
 > /wɔːk/
 
+![[walk.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move along by putting one foot in front of the other.
@@ -13,7 +15,10 @@
 💡 Quắc (walk) một vòng là đi bộ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `walk away`: bỏ đi\n- `walk into`: bước vào
+- `walk away`: bỏ đi
+- `walk into`: bước vào
+- `walk on eggshells`: hành xử hết sức thận trọng / nơm nớp lo sợ
+- `walk of life`: tầng lớp / hoàn cảnh xã hội khác nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I walk to school.

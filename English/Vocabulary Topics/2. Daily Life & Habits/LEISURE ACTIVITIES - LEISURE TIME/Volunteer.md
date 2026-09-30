@@ -2,8 +2,10 @@
 *v*
 > /ˌvɒlənˈtɪə(r)/
 
+![[volunteer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Freely offer to do something.
@@ -13,7 +15,11 @@
 💡 Vo (vô) + lun (luôn) + teer -> vô luôn làm tình nguyện.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `volunteer work`: công việc tình nguyện\n- `volunteer for a charity`: tình nguyện cho tổ chức từ thiện
+- `volunteer work`: công việc tình nguyện
+- `volunteer for a charity`: tình nguyện cho tổ chức từ thiện
+- `volunteer at a shelter`: làm tình nguyện tại trại bảo trợ
+- `volunteer one's time`: dành thời gian cống hiến tình nguyện
+- `community volunteer`: tình nguyện viên vì cộng đồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I volunteer at the local shelter.

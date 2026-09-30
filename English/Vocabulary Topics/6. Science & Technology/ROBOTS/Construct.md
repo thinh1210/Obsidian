@@ -2,8 +2,10 @@
 *verb.*
 > /kənˈstrʌkt/
 
+![[construct.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To build or erect something, typically a large structure or a complex system
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `construct a model`: chế tạo một mô hình
+- `construct a robot`: chế tạo robot
+- `construct an algorithm`: xây dựng thuật toán
+- `construct parts`: chế tạo các bộ phận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They plan to construct a new line of delivery robots.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈtʃɪli/
 
+![[chilly.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unpleasantly cold
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chilly autumn morning`: buổi sáng mùa thu se lạnh
+- `chilly reception`: sự đón tiếp lạnh nhạt
+- `feel chilly`: cảm thấy se lạnh run người
+- `chilly wind`: cơn gió buốt lạnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is a bit chilly today, so wear a light sweater.

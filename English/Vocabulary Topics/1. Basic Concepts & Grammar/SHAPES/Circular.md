@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsɜː.kjə.lər/
 
+![[circular.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having the form of a circle.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A circular motion`: Chuyển động tròn
 - `A circular table`: Bàn tròn
+- `circular reasoning`: lập luận vòng quanh luẩn quẩn
+- `circular economy`: nền kinh tế tuần hoàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Stir the soup in a circular motion.

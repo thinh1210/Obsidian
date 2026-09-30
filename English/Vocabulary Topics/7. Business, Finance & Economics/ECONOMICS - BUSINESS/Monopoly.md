@@ -2,8 +2,10 @@
 *noun*
 > /əˈnɑːpəli/
 
+![[monopoly.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** complete control of the market supply of a product or service by one person or organization.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hold a monopoly`: nắm giữ độc quyền
 - `monopoly power`: sức mạnh độc quyền
+- `natural monopoly`: độc quyền tự nhiên
+- `break up a monopoly`: xóa bỏ thế độc quyền
+- `state monopoly`: sự độc quyền của nhà nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government took action to stop the company from having a monopoly on internet services.

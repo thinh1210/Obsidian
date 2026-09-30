@@ -2,8 +2,10 @@
 *noun*
 > /ˌnjuː.klɪə ˈfæm.əl.i/
 
+![[nuclear_family.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A family consisting of two parents and their children.

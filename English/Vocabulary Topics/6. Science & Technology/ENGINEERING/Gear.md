@@ -2,8 +2,10 @@
 *noun*
 > /ɡɪə(r)/
 
+![[gear.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A toothed wheel that works with others as part of a mechanism to alter the relation between the speed of a driving mechanism and the speed of the driven parts.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shift gears`: chuyển số
 - `camping gear`: đồ cắm trại
+- `gear ratio`: tỷ số truyền bánh răng
+- `protective gear`: đồ bảo hộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I shifted the car into first gear and slowly climbed the steep hill.

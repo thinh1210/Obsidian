@@ -2,8 +2,10 @@
 *n.*
 > /ˈtʃæm.pi.ən.ʃɪp/
 
+![[championship.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A contest for the position of champion in a sport or game.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `national championship`: giải vô địch quốc gia
 - `win the championship`: giành chức vô địch
+- `championship title`: danh hiệu vô địch
+- `clinch the championship`: chắc chắn đoạt chức vô địch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our team has a good chance of winning the championship this year.

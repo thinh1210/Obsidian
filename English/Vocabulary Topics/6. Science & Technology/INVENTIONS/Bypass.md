@@ -2,8 +2,10 @@
 *Verb*
 > /ˈbaɪ.pɑːs/
 
+![[bypass.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To avoid something by going around it or finding another way.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bypass security`: vượt qua hệ thống an ninh
 - `bypass the system`: bỏ qua hệ thống/quy trình
+- `bypass surgery`: phẫu thuật bắc cầu
+- `bypass a problem`: tránh né một vấn đề khó
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We bypassed the traffic jam by taking back streets.

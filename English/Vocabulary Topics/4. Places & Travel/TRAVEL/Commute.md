@@ -2,8 +2,10 @@
 *verb*
 > /kəˈmjuːt/
 
+![[commute.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make the same journey regularly

@@ -2,8 +2,10 @@
 *n.*
 > /təˈreɪn/
 
+![[terrain.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stretch of land, especially with regard to its physical features.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rough terrain`: địa hình hiểm trở
+- `rugged terrain`: địa hình gồ ghề khúc khuỷu
+- `mountainous terrain`: địa hình vùng núi đồi hiểm trở
+- `difficult terrain`: địa hình gian nan khó vượt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The hikers navigated the rough terrain.

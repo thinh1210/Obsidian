@@ -2,8 +2,10 @@
 *n.*
 > /spekˈteɪ.tər/
 
+![[spectator.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who watches at a show, game, or other event.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spectator sport`: môn thể thao thu hút nhiều khán giả
 - `stadium spectators`: khán giả trên sân vận động
+- `spectator stands`: khán đài dành cho người xem
+- `spectator violence`: bạo lực sân cỏ từ phía khán giả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The game attracted over 50,000 spectators to the stadium.

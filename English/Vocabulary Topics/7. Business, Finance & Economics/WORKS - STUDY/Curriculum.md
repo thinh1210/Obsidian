@@ -2,8 +2,10 @@
 *n.*
 > /kəˈrɪk.jə.ləm/
 
+![[curriculum.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The subjects comprising a course of study in a school or college
@@ -13,8 +15,10 @@
 💡 Cơ rích (curriculum) quá, chương trình học này phức tạp ghê.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``school curriculum`: chương trình học của trường`
-- ``core curriculum`: chương trình học cốt lõi`
+- `school curriculum`: chương trình học của trường
+- `core curriculum`: chương trình học cốt lõi
+- `curriculum development`: công tác phát triển đổi mới giáo trình
+- `extracurricular activities`: các hoạt động ngoại khóa ngoài giờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The school is introducing a new science curriculum.

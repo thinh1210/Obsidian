@@ -2,8 +2,10 @@
 *n., adj.*
 > /səˈbæt.ɪ.kəl/
 
+![[sabbatical.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of paid leave granted to a professor for study or travel, typically every seven years.

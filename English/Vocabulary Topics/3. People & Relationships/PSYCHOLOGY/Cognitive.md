@@ -2,8 +2,10 @@
 *adj*
 > /ˈkɑːɡ.nə.t̬ɪv/
 
+![[cognitive.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Connected with thinking or conscious mental processes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cognitive development`: sự phát triển nhận thức
+- `cognitive impairment`: suy giảm chức năng nhận thức
+- `cognitive bias`: thiên kiến nhận thức
+- `cognitive dissonance`: sự bất hòa nhận thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Puzzles improve cognitive skills.

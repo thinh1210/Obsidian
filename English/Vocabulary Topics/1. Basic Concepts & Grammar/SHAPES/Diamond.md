@@ -2,8 +2,10 @@
 *n.*
 > /ˈdaɪə.mənd/
 
+![[diamond.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rhombus or lozenge shape.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A diamond ring`: Nhẫn kim cương
 - `Diamond shape`: Hình thoi
+- `rough diamond`: viên ngọc thô (người có tài nhưng chưa gọt giũa)
+- `diamond anniversary`: kỷ niệm ngày cưới kim cương (60 năm)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kite is a diamond shape.

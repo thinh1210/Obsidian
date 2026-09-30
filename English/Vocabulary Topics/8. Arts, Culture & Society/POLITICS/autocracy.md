@@ -2,8 +2,10 @@
 *noun*
 > /ɔːˈtɑːkrəsi/
 
+![[autocracy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government by one person with absolute power.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rise of autocracy`: sự trỗi dậy của chế độ chuyên chế
 - `slip into autocracy`: rơi vào chế độ độc tài chuyên chế
+- `autocratic rule`: sự cai trị độc đoán chuyên chế
+- `slide towards autocracy`: trượt dài vào chế độ chuyên chế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country transitioned from an autocracy to a democracy in the late 1990s.

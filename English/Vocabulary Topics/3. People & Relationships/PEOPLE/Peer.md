@@ -2,8 +2,10 @@
 *n.*
 > /pɪər/
 
+![[peer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person of the same age, status, or ability as another specified person.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Peer pressure`: Áp lực đồng trang lứa
+- `peer review`: đánh giá phản biện ngang hàng
+- `judge by one's peers`: được bạn bè đồng nghiệp đánh giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is respected by her peers.

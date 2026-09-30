@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɑːvɪst/
 
+![[harvest.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process or period of gathering in crops.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `harvest season`: mùa thu hoạch
 - `reap a harvest`: thu hoạch mùa màng
+- `bumper harvest`: vụ mùa gặt hái bội thu
+- `reap what you sow`: gieo nhân nào gặt quả nấy
+- `post-harvest losses`: tổn thất sau thu hoạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Farmers are working hard during the autumn harvest.

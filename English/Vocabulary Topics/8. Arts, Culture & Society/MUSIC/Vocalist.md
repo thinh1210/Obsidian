@@ -2,8 +2,10 @@
 *n.*
 > /ˈvəʊ.kəl.ɪst/
 
+![[vocalist.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A singer, typically in a band or jazz group.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lead vocalist`: ca sĩ hát chính
 - `female vocalist`: nữ ca sĩ
+- `backup vocalist`: ca sĩ hát bè hỗ trợ
+- `guest vocalist`: ca sĩ khách mời biểu diễn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The band is currently searching for a new lead vocalist.

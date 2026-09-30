@@ -2,8 +2,10 @@
 *noun*
 > /ˈbæŋ.ɡəl/
 
+![[bangle.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rigid bracelet or anklet.
@@ -13,7 +15,10 @@
 💡 Băng (Bangle) qua vòng tay.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `gold bangle: vòng tay vàng`
+- `gold bangle`: vòng tay vàng
+- `solid gold bangle`: vòng xuyến vàng đúc
+- `engraved bangle`: vòng tay chạm khắc họa tiết
+- `jade bangle`: vòng ngọc cẩm thạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wears many bangles.

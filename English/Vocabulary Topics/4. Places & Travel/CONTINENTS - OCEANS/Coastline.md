@@ -2,8 +2,10 @@
 *noun*
 > /ˈkəʊstlaɪn/
 
+![[coastline.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outline of a coast, especially with regard to its shape and appearance.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rugged coastline`: đường bờ biển gồ ghề
+- `extensive coastline`: đường bờ biển dài
+- `scenic coastline`: đường bờ biển tuyệt đẹp
+- `protect the coastline`: bảo vệ bờ biển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We drove along the beautiful coastline.

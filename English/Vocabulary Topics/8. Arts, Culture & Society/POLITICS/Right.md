@@ -2,8 +2,10 @@
 *n*
 > /raɪt/
 
+![[right.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A moral or legal entitlement to have or do something.

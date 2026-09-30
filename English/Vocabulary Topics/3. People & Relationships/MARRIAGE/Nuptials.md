@@ -2,8 +2,10 @@
 *noun*
 > /ˈnʌpʃlz/
 
+![[nuptials.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wedding or marriage ceremony.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Upcoming nuptials`: Lễ cưới sắp tới
+- `celebrate nuptials`: tổ chức hôn lễ đám cưới tưng bừng
+- `silver nuptials`: đám cưới bạc kỷ niệm 25 năm
+- `nuptial blessing`: lời chúc phúc ngày cưới trăm năm hạnh phúc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are preparing for their upcoming nuptials.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈɑːtɪst/
 
+![[artist.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who creates paintings or drawings as a profession or hobby; a person who practices any of the creative arts.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `makeup artist`: chuyên viên trang điểm
 - `local artist`: nghệ sĩ địa phương
+- `visual artist`: nghệ sĩ thị giác
+- `recording artist`: nghệ sĩ thu âm phát hành nhạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The young artist exhibited her paintings at a local cafe.

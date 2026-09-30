@@ -2,8 +2,10 @@
 *verb*
 > /kənˈstrʌkt/
 
+![[construct.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To build or erect something large or complex (such as a road, bridge, or building).
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `construct a building`: xây dựng tòa nhà
 - `newly constructed`: mới được xây dựng
+- `construct a prototype`: chế tạo một mẫu thử nghiệm
+- `constructive feedback`: phản hồi mang tính xây dựng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government plans to construct a high-speed railway connecting the two cities.

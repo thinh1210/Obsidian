@@ -2,8 +2,10 @@
 *Adjective*
 > /tʃiːp/
 
+![[cheap.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Charging low prices or costing little money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cheap price`: giá rẻ
 - `cheap travel`: du lịch giá rẻ
+- `cheap alternative`: giải pháp thay thế với chi phí rẻ hơn
+- `get off cheap`: thoát nạn chỉ với tổn thất nhẹ
+- `cheap rate`: mức giá cước ưu đãi thấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This restaurant offers good food at a cheap price.

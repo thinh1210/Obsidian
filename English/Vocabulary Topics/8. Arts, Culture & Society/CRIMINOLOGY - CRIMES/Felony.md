@@ -2,8 +2,10 @@
 *noun*
 > /ˈfeləni/
 
+![[felony.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A serious crime, typically one involving violence, regarded as more serious than a misdemeanor
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commit a felony`: phạm trọng tội
 - `felony charges`: các cáo buộc trọng tội
+- `felony conviction`: bị kết án phạm trọng tội
+- `reduce to a misdemeanor`: giảm tội danh từ trọng tội xuống tội nhẹ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Stealing cars is considered a felony in this country.

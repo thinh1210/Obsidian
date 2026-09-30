@@ -2,8 +2,10 @@
 *adj.*
 > /ɡʊd/
 
+![[good.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Morally excellent; virtuous; righteous.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `good deeds`: việc thiện, việc tốt
 - `for the good of`: vì lợi ích của
+- `greater good`: lợi ích to lớn hơn của cộng đồng
+- `for good`: mãi mãi, vĩnh viễn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Helping others is a good thing to do.

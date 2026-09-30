@@ -2,8 +2,10 @@
 *adj*
 > /mæɡˈnɪf.ɪ.sənt/
 
+![[magnificent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Impressively beautiful, elaborate, or extravagant; striking.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a magnificent view`: một khung cảnh tráng lệ
+- `magnificent architecture`: kiến trúc tráng lệ
+- `magnificent achievement`: thành tựu huy hoàng
+- `magnificent spectacle`: quang cảnh tráng lệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The palace looked magnificent.

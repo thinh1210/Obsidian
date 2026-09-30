@@ -2,8 +2,10 @@
 *n.*
 > /lɒs/
 
+![[loss.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The fact of no longer having something or having less of it than before.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `financial loss`: tổn thất tài chính
 - `total loss`: tổn thất toàn bộ
+- `actual loss`: mức thiệt hại tổn thất thực tế đo đếm được
+- `minimize loss`: hạn chế giảm thiểu mức tổn thất đến mức thấp nhất
+- `proof of loss`: hồ sơ tài liệu chứng minh thiệt hại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She suffered a great financial loss when her shop burned down.

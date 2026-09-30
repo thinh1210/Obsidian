@@ -2,8 +2,10 @@
 *Phrasal Verb*
 > /waɪnd daʊn/
 
+![[wind_down.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Informal | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Informal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To relax after a period of excitement or worry.

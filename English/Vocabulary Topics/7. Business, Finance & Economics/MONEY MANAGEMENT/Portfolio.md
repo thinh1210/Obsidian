@@ -2,8 +2,10 @@
 *Noun*
 > /pɔːtˈfəʊliəʊ/
 
+![[portfolio.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A range of investments held by a person or organization; a collection of work.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `investment portfolio`: danh mục đầu tư
 - `diversify portfolio`: đa dạng hóa danh mục đầu tư
+- `diversified portfolio`: danh mục đầu tư đa dạng hóa
+- `portfolio rebalancing`: tái cân bằng lại tỷ trọng danh mục tài sản
+- `portfolio yield`: tỷ suất sinh lời của toàn bộ danh mục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am trying to build a balanced portfolio with a mix of stocks and gold.

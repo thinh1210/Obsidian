@@ -2,8 +2,10 @@
 *n.*
 > /fæn/
 
+![[fan.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who admires someone.
@@ -13,7 +15,10 @@
 💡 Fan (quạt) thổi bùng sự cuồng nhiệt.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a big fan of: fan bự của`
+- `a big fan of`: fan bự của
+- `devoted fan`: người hâm mộ tận tụy thủy chung
+- `fanatic fan`: fan cuồng nhiệt thái quá
+- `fan mail`: thư từ người hâm mộ gửi tặng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am a fan of this band.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪti/
 
+![[city.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large and important town.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `capital city`: thủ đô
+- `inner city`: khu trung tâm nội thành
+- `smart city`: thành phố thông minh
+- `city slicker`: người thành thị tinh khôn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I live in a big city.

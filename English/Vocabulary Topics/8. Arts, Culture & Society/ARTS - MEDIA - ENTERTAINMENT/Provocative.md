@@ -2,8 +2,10 @@
 *adj.*
 > /prəˈvɒkətɪv/
 
+![[provocative.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Causing annoyance, anger, or another strong reaction, especially deliberately; arousing sexual desire or interest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `provocative question`: câu hỏi kích thích tư duy/khiêu khích
 - `provocative image`: hình ảnh khiêu gợi/kích động
+- `provocative statement`: phát ngôn gây tranh cãi mạnh mẽ
+- `thought-provoking`: kích thích tư duy sâu xa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His comments were deliberately provocative.

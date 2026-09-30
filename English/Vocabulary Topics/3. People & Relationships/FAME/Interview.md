@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪntəvjuː/
 
+![[interview.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A conversation where questions are asked and answered.
@@ -13,7 +15,10 @@
 💡 Inter (giữa) + view (nhìn) -> nhìn nhau hỏi chuyện.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `exclusive interview: phỏng vấn độc quyền`
+- `exclusive interview`: phỏng vấn độc quyền
+- `job interview`: buổi phỏng vấn xin việc
+- `conduct an interview`: tiến hành cuộc phỏng vấn
+- `grant an interview`: đồng ý nhận lời phỏng vấn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I read an interview with her.

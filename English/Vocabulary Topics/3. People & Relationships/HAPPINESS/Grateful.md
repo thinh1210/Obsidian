@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɡreɪt.fəl/
 
+![[grateful.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing an appreciation for something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grateful for`: biết ơn về
+- `deeply grateful`: vô cùng biết ơn sâu sắc
+- `grateful for support`: biết ơn sự giúp đỡ ủng hộ
+- `express gratitude`: bày tỏ lòng biết ơn chân thành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am grateful for your help.

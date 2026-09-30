@@ -2,8 +2,10 @@
 *noun*
 > /tuːl/
 
+![[tool.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a device or implement, especially one held in the hand, used to carry out a particular function.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hand tool`: công cụ cầm tay
 - `tool kit`: hộp dụng cụ
+- `handy tool`: công cụ tiện ích đắc lực
+- `tool of the trade`: đồ nghề chuyên môn của nghề (idiom)
+- `tool up`: trang bị vũ khí hoặc thiết bị (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A hammer is a basic tool that every household should have.

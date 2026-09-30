@@ -2,8 +2,10 @@
 *noun*
 > /məˈʃiːn/
 
+![[machine.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `washing machine`: máy giặt
 - `industrial machine`: máy móc công nghiệp
+- `machine learning`: học máy
+- `machine tool`: máy công cụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The washing machine is making a strange noise during the spin cycle.

@@ -2,8 +2,10 @@
 *v.*
 > /ˌpɜː.sɪˈvɪər/
 
+![[persevere.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To continue in a course of action even in the face of difficulty or with little or no prospect of success
@@ -13,8 +15,11 @@
 💡 Phơ xì vì (persevere) mệt nhưng vẫn kiên trì vượt qua.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``persevere in studies`: kiên trì trong học tập`
-- ``persevere with a task`: kiên trì với một nhiệm vụ`
+- `persevere in studies`: kiên trì trong học tập
+- `persevere with a task`: kiên trì với một nhiệm vụ
+- `persevere in one's studies`: kiên trì bền bỉ theo đuổi con đường học tập
+- `persevere through hardship`: vững vàng vượt qua mọi gian truân thử thách
+- `perseverance pays off`: lòng kiên trì nhẫn nại cuối cùng sẽ gặt hái thành quả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Despite the difficulties, she persevered with her project.

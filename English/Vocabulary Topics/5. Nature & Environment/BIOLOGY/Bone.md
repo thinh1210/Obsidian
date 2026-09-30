@@ -2,8 +2,10 @@
 *noun*
 > /bəʊn/
 
+![[bone.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any of the pieces of hard, whitish tissue making up the skeleton in humans and other vertebrates.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `broken bone`: xương bị gãy
 - `bone density`: mật độ xương
+- `bone marrow`: tủy xương
+- `bare bones`: những điều cốt yếu cơ bản nhất
+- `bone of contention`: nguyên nhân gây tranh cãi bất đồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dog buried a bone in the backyard.

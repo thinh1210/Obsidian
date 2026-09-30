@@ -2,8 +2,10 @@
 *verb*
 > /kəˈmɪt/
 
+![[commit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Perpetrate or carry out a mistake, crime, or immoral act.

@@ -2,8 +2,10 @@
 *n.*
 > /əˈnækrənɪzəm/
 
+![[anachronism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing belonging to a period other than that in which it exists
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical anachronism`: sai lầm lịch sử về thời gian
+- `glaring anachronism`: sự sai lầm thời gian rành rành
+- `cultural anachronism`: điều lỗi thời so với văn hóa hiện tại
+- `anachronism in literature`: sự nghịch niên trong văn học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sword is an anachronism in modern warfare.

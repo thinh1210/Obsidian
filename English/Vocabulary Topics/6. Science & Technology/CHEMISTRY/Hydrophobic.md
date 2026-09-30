@@ -2,8 +2,10 @@
 *adjective*
 > /ˌhaɪ.drəˈfəʊ.bɪk/
 
+![[hydrophobic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to repel or fail to mix with water.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hydrophobic coating`: lớp phủ kỵ nước
 - `hydrophobic molecule`: phân tử kỵ nước
+- `hydrophobic interaction`: tương tác kỵ nước
+- `hydrophobic tail`: đuôi kỵ nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lipids are hydrophobic substances that do not dissolve in water.

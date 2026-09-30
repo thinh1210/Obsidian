@@ -2,8 +2,10 @@
 *n.*
 > /ˈdrɒp.aʊt/
 
+![[dropout.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who leaves school or university before completing their studies.

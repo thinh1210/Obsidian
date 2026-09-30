@@ -2,8 +2,10 @@
 *n.*
 > /ˈfɒsl fjuːəl/
 
+![[fossil_fuel.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A natural fuel such as coal or gas, formed in the geological past from the remains of living organisms.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `burning fossil fuels`: đốt nhiên liệu hóa thạch
 - `dependency on fossil fuels`: sự phụ thuộc vào nhiên liệu hóa thạch
+- `phase out fossil fuels`: loại bỏ dần việc sử dụng nhiên liệu hóa thạch
+- `fossil fuel combustion`: sự đốt cháy nhiên liệu hóa thạch
+- `transition away from fossil fuels`: chuyển dịch khỏi nhiên liệu hóa thạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Coal, oil, and natural gas are fossil fuels.

@@ -2,8 +2,10 @@
 *noun.*
 > /jiːld/
 
+![[yield.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The income return on an investment, such as interest or dividends received from a security.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dividend yield`: tỷ suất cổ tức
 - `bond yield`: lợi suất trái phiếu
+- `yield curve`: đường cong lợi suất trái phiếu
+- `high-yield bond`: trái phiếu sinh lời cao
+- `inverted yield curve`: đường cong lợi suất đảo ngược
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Government bonds are currently paying a very low yield.

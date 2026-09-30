@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈbrɪtl/
 
+![[brittle.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Hard but liable to break or shatter easily.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brittle bones`: xương giòn
 - `brittle material`: vật liệu giòn
+- `brittle fracture`: vết nứt gãy giòn
+- `brittle bone`: xương xốp giòn dễ gãy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Old plastic becomes brittle and cracks under pressure.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.ə.səns/
 
+![[innocence.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Lack of guile or corruption; purity.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `childlike innocence`: sự ngây thơ như trẻ con
+- `lose one's innocence`: đánh mất sự hồn nhiên ngây thơ
+- `presume innocence`: nguyên tắc suy đoán vô tội
+- `childhood innocence`: sự trong sáng ngây thơ của tuổi thơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I miss the innocence of childhood.

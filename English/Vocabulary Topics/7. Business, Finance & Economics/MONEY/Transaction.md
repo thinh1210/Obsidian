@@ -2,8 +2,10 @@
 *noun*
 > /trænˈzæk.ʃən/
 
+![[transaction.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instance of buying or selling something; a business deal
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `financial transaction`: giao dịch tài chính
+- `cash transaction`: giao dịch thanh toán bằng tiền mặt
+- `fraudulent transaction`: giao dịch gian lận phi pháp
+- `conduct a transaction`: thực hiện một giao dịch
+- `transaction history`: lịch sử các giao dịch tài chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The online transaction was completed within seconds.

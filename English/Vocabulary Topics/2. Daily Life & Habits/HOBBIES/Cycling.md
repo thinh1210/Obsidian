@@ -2,8 +2,10 @@
 *noun*
 > /ˈsaɪ.klɪŋ/
 
+![[cycling.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or activity of riding a bicycle.

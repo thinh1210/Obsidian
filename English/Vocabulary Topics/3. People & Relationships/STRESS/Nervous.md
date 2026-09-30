@@ -2,8 +2,10 @@
 *adj.*
 > /ˈnɜːrvəs/
 
+![[nervous.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Easily agitated or alarmed; tending to be anxious
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feel nervous`: cảm thấy hồi hộp
 - `nervous system`: hệ thần kinh
+- `nervous wreck`: người bị kiệt quệ thần kinh vì căng thẳng (idiom)
+- `nervous breakdown`: suy nhược thần kinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I always get nervous before exams.

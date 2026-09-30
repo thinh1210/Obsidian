@@ -2,8 +2,10 @@
 *n.*
 > /ˈpes.tɪ.saɪd/
 
+![[pesticide.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical substance used for killing pests, especially insects.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spray pesticides`: phun thuốc trừ sâu
 - `pesticide residue`: dư lượng thuốc trừ sâu
+- `pesticide-free produce`: nông sản không dùng thuốc trừ sâu
+- `pesticide poisoning`: ngộ độc thuốc trừ sâu
+- `organic pesticide`: thuốc trừ sâu sinh học hữu cơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Wash the vegetables carefully to remove any pesticide residue.

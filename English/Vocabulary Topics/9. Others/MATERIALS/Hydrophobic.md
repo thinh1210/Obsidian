@@ -2,8 +2,10 @@
 *adjective.*
 > /ˌhaɪdrəˈfəʊbɪk/
 
+![[hydrophobic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to repel or fail to mix with water.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hydrophobic coating`: lớp phủ kỵ nước/chống nước
 - `hydrophobic surface`: bề mặt kỵ nước
+- `hydrophobic membrane`: màng chắn kỵ nước
+- `hydrophobic interaction`: tương tác kỵ nước giữa các phân tử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The leaves of the lotus flower are highly hydrophobic, making water bead and roll off.

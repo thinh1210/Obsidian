@@ -2,8 +2,10 @@
 *adj.*
 > /ˈeɪnʃənt/
 
+![[ancient.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Belonging to a period of history that is thousands of years in the past
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient civilization`: nền văn minh cổ đại
 - `ancient ruins`: tàn tích cổ xưa
+- `ancient settlement`: khu định cư cổ đại
+- `ancient artifacts`: các hiện vật cổ xưa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They visited an ancient temple in Rome.

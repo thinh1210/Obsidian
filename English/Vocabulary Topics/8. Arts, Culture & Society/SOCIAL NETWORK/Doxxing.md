@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɒksɪŋ/
 
+![[doxxing.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of searching for and publishing private information about an individual on the internet, typically with malicious intent
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `victim of doxxing`: nạn nhân bị tiết lộ thông tin cá nhân
+- `illegal doxxing`: hành vi bộc lộ danh tính cá nhân trái phép
+- `threaten with doxxing`: đe dọa tung thông tin cá nhân lên mạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* After the online argument, she was terrified of being a victim of doxxing.

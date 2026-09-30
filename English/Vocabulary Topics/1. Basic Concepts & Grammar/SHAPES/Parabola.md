@@ -2,8 +2,10 @@
 *n.*
 > /pəˈræb.əl.ə/
 
+![[parabola.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A symmetrical open plane curve formed by the intersection of a cone with a plane parallel to its side.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A parabolic curve`: Đường cong parabol
 - `Trajectory in a parabola`: Quỹ đạo parabol
+- `vertex of a parabola`: đỉnh của parabol
+- `parabola trajectory`: quỹ đạo hình parabol
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ball followed a parabola through the air.

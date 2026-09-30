@@ -2,8 +2,10 @@
 *noun*
 > /ˌdeɪkuːˈpɑːʒ/
 
+![[decoupage.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or craft of decorating objects with paper cut-outs.

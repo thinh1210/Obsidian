@@ -2,8 +2,10 @@
 *noun*
 > /ˈplæn.ɪt/
 
+![[planet.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large round object in space that moves around a star.

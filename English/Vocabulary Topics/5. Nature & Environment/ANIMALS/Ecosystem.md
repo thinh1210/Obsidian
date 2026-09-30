@@ -2,8 +2,10 @@
 *noun*
 > /ˈiː.kəʊˌsɪs.təm/
 
+![[ecosystem.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A biological community of interacting organisms and their physical environment.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `delicate ecosystem`: hệ sinh thái nhạy cảm
 - `marine ecosystem`: hệ sinh thái biển
+- `fragile ecosystem`: hệ sinh thái mỏng manh dễ tổn thương
+- `ecosystem balance`: sự cân bằng hệ sinh thái
+- `restore the ecosystem`: phục hồi hệ sinh thái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pollution can cause irreversible damage to a local river's ecosystem.

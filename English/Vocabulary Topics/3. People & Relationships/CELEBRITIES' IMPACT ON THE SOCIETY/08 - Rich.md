@@ -2,8 +2,10 @@
 *adj.*
 > /rɪtʃ/
 
+![[rich.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot of money.
@@ -13,7 +15,10 @@
 💡 Rich -> Nhiều tài sản
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Very rich: Rất giàu`
+- `Very rich`: Rất giàu
+- `filthy rich`: giàu nứt đố đổ vách (idiom)
+- `stinking rich`: giàu có tột bậc
+- `rich in culture`: giàu bản sắc văn hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are rich.

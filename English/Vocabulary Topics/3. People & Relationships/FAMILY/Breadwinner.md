@@ -2,8 +2,10 @@
 *Noun*
 > /ˈbredˌwɪn.ər/
 
+![[breadwinner.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The member of a family who earns the money that the family needs.

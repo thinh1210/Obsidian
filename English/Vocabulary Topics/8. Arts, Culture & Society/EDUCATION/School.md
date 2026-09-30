@@ -2,8 +2,10 @@
 *n.*
 > /skuːl/
 
+![[school.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An institution for educating children
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to school`: đi học
 - `school uniform`: đồng phục học sinh
+- `elementary school`: trường học bậc tiểu học
+- `boarding school`: mô hình trường phổ thông nội trú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She walks to school every morning.

@@ -2,8 +2,10 @@
 *n.*
 > /kjuːb/
 
+![[cube.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A symmetrical three-dimensional shape, either solid or hollow, contained by six equal squares.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Ice cube`: Viên đá lạnh
 - `A sugar cube`: Viên đường
+- `rubik's cube`: khối rubik
+- `cube root`: căn bậc ba
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need some ice cubes for my drink.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈændrəɡɒdʒi/
 
+![[andragogy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The method and practice of teaching adult learners; adult education.

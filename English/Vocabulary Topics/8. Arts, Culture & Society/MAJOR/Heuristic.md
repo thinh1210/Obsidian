@@ -2,8 +2,10 @@
 *adj., n.*
 > /hjʊəˈrɪs.tɪk/
 
+![[heuristic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A problem-solving approach that uses practical methods and experiential learning rather than guaranteed optimal methods.

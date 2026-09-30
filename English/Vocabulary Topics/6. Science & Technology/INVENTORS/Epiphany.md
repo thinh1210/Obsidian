@@ -2,8 +2,10 @@
 *n.*
 > /ɪˈpɪf.ən.i/
 
+![[epiphany.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden revelation or moment of deep understanding or realization
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sudden epiphany`: sự bừng tỉnh đột ngột
 - `have an epiphany`: trải qua một khoảnh khắc bừng sáng
+- `moment of epiphany`: khoảnh khắc bừng sáng nhận thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had an epiphany while walking in the park and solved the math problem.

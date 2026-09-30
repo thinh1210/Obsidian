@@ -2,8 +2,10 @@
 *adj.*
 > /ˌækəˈdemɪk/
 
+![[academic.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to education and scholarship, especially at a college or university
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `academic year`: năm học
 - `academic performance`: kết quả học tập
+- `academic achievement`: thành tích học tập xuất sắc
+- `academic credentials`: văn bằng chứng chỉ học thuật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The school focuses on academic excellence.

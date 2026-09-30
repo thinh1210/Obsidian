@@ -2,8 +2,10 @@
 *n.*
 > /ˈkʌs.təm/
 
+![[custom.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional and widely accepted way of behaving or doing something that is specific to a particular society, place, or time.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local custom`: phong tục địa phương
 - `ancient custom`: tập quán cổ xưa
+- `observe a custom`: tuân theo một phong tục tập quán
+- `social custom`: tập tục xã hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is the custom in Japan to bow when greeting people.

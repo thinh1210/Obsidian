@@ -2,8 +2,10 @@
 *Noun*
 > /siː/
 
+![[sea.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expanse of salt water that covers most of the earth's surface.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `deep sea`: biển sâu
 - `at sea`: ngoài khơi
+- `all at sea`: hoàn toàn bối rối không biết làm gì
+- `sea level rise`: mực nước biển dâng cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We swam in the sea every day during vacation.

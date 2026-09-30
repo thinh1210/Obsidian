@@ -2,8 +2,10 @@
 *n.*
 > /ˌdaʊnˈtaʊn/
 
+![[downtown.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The commercial center or main business area of a city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `downtown area`: khu trung tâm
+- `head downtown`: đi vào trung tâm thành phố
+- `downtown traffic`: giao thông khu trung tâm
+- `downtown shopping`: mua sắm ở khu phố trung tâm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went shopping downtown.

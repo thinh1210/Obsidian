@@ -2,8 +2,10 @@
 *v*
 > /wɔːk/
 
+![[walk.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move at a regular pace by lifting and setting down each foot in turn.
@@ -13,7 +15,11 @@
 💡 Walk - Quắc mắt nhìn ai đang đi bộ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `go for a walk`: đi dạo\n- `walk the dog`: dắt chó đi dạo
+- `go for a walk`: đi dạo
+- `walk the dog`: dắt chó đi dạo
+- `brisk walk`: đi bộ nhanh tập thể dục
+- `take a stroll or walk`: đi dạo tản bộ thảnh thơi
+- `walk off stress`: đi bộ để giải tỏa bớt căng thẳng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I walk in the park every morning.

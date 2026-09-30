@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡræv.ɪ.ti/
 
+![[gravity.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural force that pulls objects toward each other, especially the pull of the Earth.

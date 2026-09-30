@@ -2,8 +2,10 @@
 *noun*
 > /faɪn/
 
+![[fine.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An amount of money that has to be paid as a punishment for not obeying a rule or law
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay a fine`: nộp phạt
 - `heavy fine`: mức phạt nặng
+- `impose a fine`: áp dụng hình thức xử phạt tiền
+- `hefty fine`: khoản tiền phạt rất lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had to pay a traffic fine for speeding yesterday.

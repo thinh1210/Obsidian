@@ -2,8 +2,10 @@
 *n./adj.*
 > /ˈɪŋɡlɪʃ/
 
+![[english.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The language originally spoken in England, now spoken in many countries
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `English course`: khóa học tiếng Anh
+- `command of English`: trình độ làm chủ tiếng Anh
+- `spoken English`: tiếng Anh nói
+- `Standard English`: tiếng Anh chuẩn mực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to improve her English.

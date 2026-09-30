@@ -2,8 +2,10 @@
 *verb*
 > /ˈwɔːtər/
 
+![[water.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To pour water on plants to help them grow.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `water the garden`: tưới vườn
 - `water the flowers`: tưới hoa
+- `water under the bridge`: chuyện cũ đã qua / nước chảy qua cầu
+- `pour cold water on`: dội gáo nước lạnh vào nhiệt huyết của ai
+- `in hot water`: gặp rắc rối to
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't forget to water the flowers every morning.

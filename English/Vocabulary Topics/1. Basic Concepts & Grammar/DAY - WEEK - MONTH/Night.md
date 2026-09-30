@@ -2,8 +2,10 @@
 *noun*
 > /naɪt/
 
+![[night.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of darkness in each twenty-four hours.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `at night`: vào ban đêm
+- `night owl`: cú đêm / người hay thức khuya
+- `spend the night`: ngủ lại qua đêm
+- `overnight success`: thành công sau một đêm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is dark at night.

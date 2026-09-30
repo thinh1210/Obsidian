@@ -2,8 +2,10 @@
 *noun*
 > /ɪkˌsten.dɪd ˈfæm.əl.i/
 
+![[extended_family.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A family unit that includes grandmothers, grandfathers, aunts, and uncles, etc.

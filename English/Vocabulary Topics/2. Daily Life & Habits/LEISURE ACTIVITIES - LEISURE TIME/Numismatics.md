@@ -2,8 +2,10 @@
 *n*
 > /ˌnjuːmɪzˈmætɪks/
 
+![[numismatics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study or collection of coins, paper money, and medals.
@@ -13,7 +15,11 @@
 💡 Numis (số/tiền) -> học thuật về tiền xu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `expert in numismatics`: chuyên gia về sưu tập tiền xu\n- `numismatics club`: câu lạc bộ sưu tập tiền xu
+- `expert in numismatics`: chuyên gia về sưu tập tiền xu
+- `numismatics club`: câu lạc bộ sưu tập tiền xu
+- `passion for numismatics`: niềm đam mê sưu tầm tiền cổ
+- `numismatic value`: giá trị tiền cổ sưu tầm
+- `numismatic auction`: buổi đấu giá đồng xu cổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Numismatics is a fascinating hobby for history buffs.

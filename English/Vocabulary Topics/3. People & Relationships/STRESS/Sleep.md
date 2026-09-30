@@ -2,8 +2,10 @@
 *n.*
 > /sliːp/
 
+![[sleep.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural state of rest
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `get enough sleep`: ngủ đủ giấc
 - `go to sleep`: đi ngủ
+- `sound sleep`: giấc ngủ say sưa ngon giấc
+- `sleep like a log`: ngủ say như chết (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need more sleep.

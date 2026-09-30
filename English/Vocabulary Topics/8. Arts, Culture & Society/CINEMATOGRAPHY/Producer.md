@@ -2,8 +2,10 @@
 *n.*
 > /prəˈdjuːsə(r)/
 
+![[producer.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person responsible for the financial and administrative aspects of a stage, film, television, or radio program
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `executive producer`: nhà sản xuất điều hành
 - `film producer`: nhà sản xuất phim
+- `associate producer`: phó nhà sản xuất
+- `independent producer`: nhà sản xuất phim độc lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The producer secured funding for the new project.

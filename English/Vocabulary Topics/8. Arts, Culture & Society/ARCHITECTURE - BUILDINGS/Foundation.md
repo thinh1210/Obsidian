@@ -2,8 +2,10 @@
 *n.*
 > /faʊnˈdeɪʃn/
 
+![[foundation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The lowest load-bearing part of a building, typically below ground level
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lay the foundation`: đặt nền móng
 - `solid foundation`: nền móng vững chắc
+- `deep foundation`: móng sâu
+- `concrete foundation`: móng bê tông kiên cố
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Concrete was poured to create the foundation of the house.

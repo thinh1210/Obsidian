@@ -2,8 +2,10 @@
 *n.*
 > /praɪs/
 
+![[price.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of money expected, required, or given in payment for something.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `house prices`: giá nhà
 - `asking price`: giá yêu cầu
+- `market price of real estate`: giá thị trường của bất động sản
+- `price per square meter`: đơn giá tính trên mỗi mét vuông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The price of this apartment is too high for us.

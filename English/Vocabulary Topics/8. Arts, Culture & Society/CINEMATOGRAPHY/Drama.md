@@ -2,8 +2,10 @@
 *n.*
 > /ˈdrɑːmə/
 
+![[drama.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A play for theater, radio, or television, or a movie depicting realistic characters in emotional conflicts
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `courtroom drama`: phim chính kịch tòa án
 - `historical drama`: phim chính kịch lịch sử
+- `period drama`: phim tâm lý xã hội bối cảnh cổ trang / lịch sử
+- `intense drama`: bộ phim có kịch tính căng thẳng dồn dập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer heavy dramas to action films.

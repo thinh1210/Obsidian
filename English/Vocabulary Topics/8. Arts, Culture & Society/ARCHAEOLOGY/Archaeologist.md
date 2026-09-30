@@ -2,8 +2,10 @@
 *noun*
 > /ˌɑːkiˈɒlədʒɪst/
 
+![[archaeologist.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who studies human history and prehistory by digging up and analyzing ancient remains and objects
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `professional archaeologist`: nhà khảo cổ học chuyên nghiệp
 - `lead archaeologist`: nhà khảo cổ học trưởng
+- `field archaeologist`: nhà khảo cổ học thực địa
+- `underwater archaeologist`: nhà khảo cổ học dưới nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The archaeologist carefully brushed dirt off the ancient vase.

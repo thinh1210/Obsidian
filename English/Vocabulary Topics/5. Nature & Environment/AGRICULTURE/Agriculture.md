@@ -2,8 +2,10 @@
 *n.*
 > /ˈæɡ.rɪ.kʌl.tʃər/
 
+![[agriculture.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science or practice of farming, including cultivation of the soil and rearing of animals.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sustainable agriculture`: nông nghiệp bền vững
 - `modern agriculture`: nông nghiệp hiện đại
+- `intensive agriculture`: nông nghiệp thâm canh
+- `subsistence agriculture`: nông nghiệp tự cung tự cấp
+- `ministry of agriculture`: bộ nông nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many families in the province depend on agriculture for their livelihood.

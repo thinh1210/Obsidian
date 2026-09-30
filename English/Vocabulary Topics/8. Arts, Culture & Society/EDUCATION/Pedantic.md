@@ -2,8 +2,10 @@
 *adj.*
 > /pɪˈdæntɪk/
 
+![[pedantic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Excessively concerned with minor details and rules in academic displaying
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pedantic teacher`: giáo viên cứng nhắc
 - `pedantic corrections`: những sửa lỗi vụn vặt
+- `pedantic insistence`: thói khăng khăng bắt bẻ vụn vặt tiểu tiết
+- `overly pedantic`: quá mức giáo điều cứng nhắc về quy tắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I hate how pedantic he is about spelling.

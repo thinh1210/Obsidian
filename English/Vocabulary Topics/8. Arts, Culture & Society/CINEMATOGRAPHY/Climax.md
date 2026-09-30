@@ -2,8 +2,10 @@
 *n.*
 > /ˈklaɪmæks/
 
+![[climax.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The most intense, exciting, or important point of something; a culmination
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dramatic climax`: cao trào kịch tính
 - `reach a climax`: đạt đến cao trào
+- `anticlimax`: sự hẫng hụt đột ngột sau điểm nút kỳ vọng
+- `emotional climax`: cao trào thăng hoa của cảm xúc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The film builds up slowly to a dramatic climax.

@@ -2,8 +2,10 @@
 *n.*
 > /æθˈlet.ɪks/
 
+![[athletics.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical sports and games of any kind, formal training or competition, especially track and field events.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `track and field athletics`: môn điền kinh
 - `athletics championship`: giải vô địch điền kinh
+- `world athletics championships`: giải vô địch điền kinh thế giới
+- `collegiate athletics`: thể thao cấp đại học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Athletics is the main attraction at the Olympic Games.

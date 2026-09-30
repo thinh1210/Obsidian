@@ -2,8 +2,10 @@
 *n.*
 > /ˌpæl.i.əʊˌæn.θrəˈpɒl.ə.dʒi/
 
+![[paleoanthropology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of anthropology concerned with fossil hominids.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `paleoanthropology department`: khoa cổ nhân học
 - `field of paleoanthropology`: lĩnh vực cổ nhân học
+- `paleoanthropological discovery`: phát hiện về cổ nhân học
+- `paleoanthropological research`: nghiên cứu cổ nhân loại học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He decided to study paleoanthropology to learn about human origins.

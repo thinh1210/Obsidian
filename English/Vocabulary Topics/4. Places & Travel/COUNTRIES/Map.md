@@ -2,8 +2,10 @@
 *Noun*
 > /mæp/
 
+![[map.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A diagrammatic representation of an area of land or sea.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Read a map`: Xem bản đồ
+- `world map`: bản đồ thế giới
+- `map out a strategy`: vạch ra chiến lược
+- `street map`: bản đồ đường phố
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you show me on the map?

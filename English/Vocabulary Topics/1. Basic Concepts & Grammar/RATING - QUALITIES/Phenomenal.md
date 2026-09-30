@@ -2,8 +2,10 @@
 *adj*
 > /fəˈnɒm.ɪ.nəl/
 
+![[phenomenal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very remarkable; extraordinary.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `phenomenal success`: thành công phi thường
+- `phenomenal growth`: sự tăng trưởng phi thường
+- `phenomenal memory`: trí nhớ siêu phàm
+- `phenomenal achievement`: kỳ tích phi thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The product has been a phenomenal success.

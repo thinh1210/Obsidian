@@ -2,8 +2,10 @@
 *v*
 > /peɪnt/
 
+![[paint.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Apply paint to a surface as a hobby or art.
@@ -13,7 +15,11 @@
 💡 Paint - 'Bên' này đang vẽ tranh.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `paint a picture`: vẽ một bức tranh\n- `oil paint`: sơn dầu
+- `paint a picture`: vẽ một bức tranh
+- `oil paint`: sơn dầu
+- `watercolor paint`: màu nước vẽ tranh
+- `fresh coat of paint`: lớp sơn mới tinh
+- `paint the town red`: quẩy tưng bừng thâu đêm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She likes to paint landscapes.

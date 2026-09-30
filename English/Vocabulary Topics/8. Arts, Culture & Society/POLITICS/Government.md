@@ -2,8 +2,10 @@
 *n*
 > /ˈɡʌv.ən.mənt/
 
+![[government.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The group of people with authority to rule or govern a country.

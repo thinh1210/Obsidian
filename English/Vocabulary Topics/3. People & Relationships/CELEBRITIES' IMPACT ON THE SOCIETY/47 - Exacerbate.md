@@ -2,8 +2,10 @@
 *v.*
 > /ɪɡˈzæs.ə.beɪt/
 
+![[exacerbate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Hệ lụy tiêu cực & Sự tác động sâu sắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a problem, bad situation, or negative feeling worse.
@@ -13,7 +15,10 @@
 💡 Ex + acerbate -> Làm cho đắng cay hơn
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Exacerbate the situation: Làm tình hình tồi tệ hơn`
+- `Exacerbate the situation`: Làm tình hình tồi tệ hơn
+- `exacerbate tensions`: làm gia tăng căng thẳng
+- `exacerbate inequality`: làm trầm trọng thêm sự bất bình đẳng
+- `exacerbate problems`: khiến các vấn đề thêm tồi tệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Exacerbate tensions.

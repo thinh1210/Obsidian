@@ -2,8 +2,10 @@
 *noun.*
 > /ɡlɑːs/
 
+![[glass.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and other ingredients.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sheet of glass`: tấm kính
 - `broken glass`: kính vỡ, mảnh thủy tinh vỡ
+- `stained glass`: kính màu ghép nghệ thuật
+- `glass ceiling`: rào cản vô hình kìm hãm thăng tiến (idiom)
+- `shatter like glass`: vỡ tan tành như thủy tinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Be careful, there is broken glass on the floor.

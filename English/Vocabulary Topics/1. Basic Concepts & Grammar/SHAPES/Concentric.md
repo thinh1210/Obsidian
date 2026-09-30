@@ -2,8 +2,10 @@
 *adj.*
 > /kənˈsen.trɪk/
 
+![[concentric.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of or denoting circles, arcs, or other shapes which share the same center, the larger often completely surrounding the smaller.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Concentric circles`: Các vòng tròn đồng tâm
 - `Concentric layers`: Các lớp đồng tâm
+- `concentric rings`: các vòng tròn đồng tâm
+- `concentric zones`: các vành đai đồng tâm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A target consists of concentric circles.

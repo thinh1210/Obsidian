@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌflɪŋk/
 
+![[cufflink.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device for fastening together the sides of a shirt cuff, often worn on formal occasions.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of cufflinks`: một cặp khuy măng sét
+- `engraved cufflinks`: khuy măng sét khắc tên riêng
+- `fasten cufflinks`: cài khuy măng sét
+- `french cuffs with cufflinks`: cổ tay áo kiểu Pháp cài măng sét
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wore silver cufflinks to the gala.

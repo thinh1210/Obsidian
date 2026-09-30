@@ -2,8 +2,10 @@
 *n.*
 > /ˈrɒm.bəs/
 
+![[rhombus.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A parallelogram with opposite equal acute angles, opposite equal obtuse angles, and four equal sides.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A rhombus shape`: Hình thoi
 - `Area of a rhombus`: Diện tích hình thoi
+- `rhombus diagonal`: đường chéo hình thoi
+- `properties of a rhombus`: tính chất của hình thoi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A square is a special type of rhombus.

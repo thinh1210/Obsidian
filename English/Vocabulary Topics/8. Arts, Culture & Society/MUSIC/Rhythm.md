@@ -2,8 +2,10 @@
 *n.*
 > /ˈrɪð.əm/
 
+![[rhythm.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong, regular, repeated pattern of movement or sound.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep the rhythm`: giữ nhịp điệu
 - `catchy rhythm`: nhịp điệu bắt tai
+- `rhythm section`: bộ phận giữ nhịp trong dàn nhạc
+- `syncopated rhythm`: tiết tấu đảo phách linh hoạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is easy to dance when the music has a clear rhythm.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɑːd.weər/
 
+![[hardware.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** tools, machinery, and other durable equipment; also, the physical components of a computer.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hardware store`: cửa hàng ngũ kim
 - `computer hardware`: phần cứng máy tính
+- `military hardware`: khí tài quân sự
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought some nails and a hammer at the local hardware store.

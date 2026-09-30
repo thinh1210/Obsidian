@@ -2,8 +2,10 @@
 *adj.*
 > /ˌdaɪəˈdʒetɪk/
 
+![[diegetic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Happening within the world of the story, so that the characters can experience it (especially sound)
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `diegetic sound`: âm thanh trong phim
 - `diegetic music`: nhạc trong phim
+- `diegetic space`: không gian câu chuyện trong thế giới phim
+- `diegetic soundscape`: không gian âm thanh tự nhiên xuất hiện trong phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sound of the car engine is diegetic, as the driver hears it.

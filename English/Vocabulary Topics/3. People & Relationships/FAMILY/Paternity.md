@@ -2,8 +2,10 @@
 *noun*
 > /pəˈtɜː.nə.ti/
 
+![[paternity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being a father.

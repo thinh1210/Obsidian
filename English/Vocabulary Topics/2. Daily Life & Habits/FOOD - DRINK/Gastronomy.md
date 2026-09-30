@@ -2,8 +2,10 @@
 *n.*
 > /ɡæsˈtrɒn.ə.mi/
 
+![[gastronomy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FOOD - DRINK
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice or art of choosing, cooking, and eating good food.

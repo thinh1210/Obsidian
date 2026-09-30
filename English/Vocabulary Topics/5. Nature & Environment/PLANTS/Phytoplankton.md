@@ -2,8 +2,10 @@
 *noun*
 > /ˌfaɪtəʊˈplæŋktən/
 
+![[phytoplankton.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Plankton consisting of microscopic plants.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `phytoplankton bloom`: sự nở rộ thực vật phù du
 - `marine phytoplankton`: thực vật phù du biển
+- `phytoplankton productivity`: năng suất sơ cấp của thực vật phù du
+- `toxic phytoplankton bloom`: thủy triều đỏ / thực vật phù du nở hoa độc hại
+- `phytoplankton biomass`: sinh khối thực vật phù du
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Whales feed on tiny organisms, including phytoplankton.

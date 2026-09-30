@@ -2,8 +2,10 @@
 *noun*
 > /ˌɜːɡəˈnɒmɪks/
 
+![[ergonomics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of people's efficiency in their working environment, designed to maximize safety and efficiency.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `office ergonomics`: nhân trắc học văn phòng
 - `principles of ergonomics`: các nguyên lý nhân trắc học
+- `ergonomic design`: thiết kế công thái học
+- `workplace ergonomics`: công thái học nơi làm việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Modern office chairs are designed with ergonomics in mind to support the spine.

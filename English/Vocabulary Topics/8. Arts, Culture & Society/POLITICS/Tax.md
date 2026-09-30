@@ -2,8 +2,10 @@
 *n/v*
 > /tæks/
 
+![[tax.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money that people or businesses must pay to the government.

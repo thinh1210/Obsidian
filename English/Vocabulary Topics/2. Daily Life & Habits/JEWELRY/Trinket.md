@@ -2,8 +2,10 @@
 *noun*
 > /ˈtrɪŋ.kɪt/
 
+![[trinket.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small ornament of little value.
@@ -13,7 +15,10 @@
 💡 Trứng (Trin) kẹt (ket) trong đồ rẻ tiền.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `cheap trinket: đồ nữ trang rẻ`
+- `cheap trinket`: đồ nữ trang rẻ
+- `charming trinket`: món đồ trang sức nhỏ xinh
+- `souvenir trinket`: món đồ lưu niệm nho nhỏ
+- `trinket box`: hộp đựng phụ kiện, nữ trang nhỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought trinkets.

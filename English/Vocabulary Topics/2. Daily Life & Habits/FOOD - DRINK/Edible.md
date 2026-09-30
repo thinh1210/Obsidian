@@ -2,8 +2,10 @@
 *Adj*
 > /ˈed.ə.bəl/
 
+![[edible.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Safe or good enough to eat.

@@ -2,8 +2,10 @@
 *v.*
 > /ɪnˈdɔːs/
 
+![[endorse.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To declare one's public approval or support of.
@@ -13,7 +15,10 @@
 💡 Endorse -> Xác nhận
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Endorse a product: Quảng cáo một sản phẩm`
+- `Endorse a product`: Quảng cáo một sản phẩm
+- `celebrity endorser`: đại sứ thương hiệu người nổi tiếng
+- `endorse a policy`: tán thành một chính sách
+- `endorse candidates`: ủng hộ các ứng cử viên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He endorses shoes.

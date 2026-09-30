@@ -2,8 +2,10 @@
 *n.*
 > /fɑːm/
 
+![[farm.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land and its buildings used for growing crops and rearing animals.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `work on a farm`: làm việc ở trang trại
 - `organic farm`: trang trại hữu cơ
+- `factory farm`: trang trại chăn nuôi công nghiệp
+- `farm equipment`: thiết bị nông nghiệp
+- `family-run farm`: trang trại gia đình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We visited a fruit farm and picked fresh strawberries.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈtræn.skrɪpt/
 
+![[transcript.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official record of a student's courses and grades.

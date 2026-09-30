@@ -2,8 +2,10 @@
 *noun*
 > /bækˈtɪə.ri.ə/
 
+![[bacteria.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A member of a large group of unicellular microorganisms which have cell walls but lack an organized nucleus, including some which can cause disease.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `harmful bacteria`: vi khuẩn có hại
 - `bacteria growth`: sự phát triển của vi khuẩn
+- `antibiotic-resistant bacteria`: vi khuẩn kháng kháng sinh
+- `gut bacteria`: vi khuẩn đường ruột
+- `culture bacteria in a lab`: nuôi cấy vi khuẩn trong phòng thí nghiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Wash your hands to get rid of bacteria.

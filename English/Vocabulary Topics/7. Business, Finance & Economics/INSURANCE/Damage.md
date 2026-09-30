@@ -2,8 +2,10 @@
 *n.*
 > /ˈdæmɪdʒ/
 
+![[damage.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Physical harm caused to something in such a way as to impair its value, usefulness, or normal function.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cause damage`: gây ra thiệt hại
 - `property damage`: thiệt hại tài sản
+- `severe damage`: thiệt hại hư hao nghiêm trọng
+- `structural damage`: hư hại kết cấu công trình xây dựng
+- `compensate for damage`: đền bù bồi thường tổn thất đã gây ra
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The storm caused severe damage to the roof of our house.

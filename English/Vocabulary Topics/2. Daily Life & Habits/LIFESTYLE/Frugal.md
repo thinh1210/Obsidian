@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfruːɡl/
 
+![[frugal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sparing or economical with regard to money or food.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `frugal lifestyle`: lối sống tiết kiệm
+- `lead a frugal lifestyle`: sống một lối sống giản dị, cần kiệm
+- `frugal living tips`: mẹo chi tiêu tiết kiệm trong cuộc sống
+- `frugal habits`: những thói quen tằn tiện, tiết kiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He lives a frugal life to save money.

@@ -2,8 +2,10 @@
 *Noun*
 > /mæp/
 
+![[map.mp3]]
+
 ---
-**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A drawing of the earth's surface or part of that surface.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `look at a map`: nhìn bản đồ
 - `read a map`: xem bản đồ
+- `tourist guide map`: bản đồ cẩm nang chỉ dẫn du khách
+- `offline map`: bản đồ xem ngoại tuyến không cần mạng
+- `unfold the map`: mở tấm bản đồ ra xem
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need a map of the city.

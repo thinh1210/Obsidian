@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈɡriː.di.ənt/
 
+![[ingredient.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Any of the foods or substances that are combined to make a particular dish.

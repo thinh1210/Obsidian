@@ -2,8 +2,10 @@
 *noun*
 > /ˈbrʌð.ə.rɪn.lɔː/
 
+![[brother_in_law.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The brother of your husband or wife, or the husband of your sister.

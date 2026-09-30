@@ -2,8 +2,10 @@
 *adjective*
 > /ˈbæŋ.krʌpt/
 
+![[bankrupt.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Declared in law unable to pay outstanding debts
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go bankrupt`: bị phá sản
+- `morally bankrupt`: suy đồi tha hóa về đạo đức
+- `bankrupt an organization`: làm cho một tổ chức rơi vào phá sản
+- `declare bankrupt`: chính thức tuyên bố khánh kiệt / phá sản
+- `teeter on the brink of bankruptcy`: đứng trên bờ vực phá sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company went bankrupt after the stock market crash.

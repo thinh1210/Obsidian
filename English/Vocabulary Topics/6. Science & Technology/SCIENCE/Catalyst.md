@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæt.ə.lɪst/
 
+![[catalyst.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that increases the rate of a chemical reaction without being consumed; also used figuratively for something that causes change.

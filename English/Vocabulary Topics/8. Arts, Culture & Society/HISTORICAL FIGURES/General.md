@@ -2,8 +2,10 @@
 *n.*
 > /ˈdʒenrəl/
 
+![[general.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A commander of an army, or an army officer of very high rank
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `five-star general`: đại tướng năm sao
 - `military general`: vị tướng quân đội
+- `commanding general`: vị tướng chỉ huy
+- `decorated general`: vị tướng được trao nhiều huân chương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The general ordered the troops to retreat.

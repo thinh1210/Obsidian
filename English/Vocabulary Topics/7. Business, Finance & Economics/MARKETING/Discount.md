@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɪskaʊnt/
 
+![[discount.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deduction from the usual cost of something
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `special discount`: giảm giá đặc biệt
 - `volume discount`: giảm giá khi mua số lượng lớn
+- `deep discount`: mức giảm giá sâu kích thích mua sắm
+- `loyalty discount`: chính sách giảm giá tri ân khách hàng thân thiết
+- `seasonal discount`: khuyến mại giảm giá theo mùa vụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* If you sign up today, you will get a 10% discount on your first order.

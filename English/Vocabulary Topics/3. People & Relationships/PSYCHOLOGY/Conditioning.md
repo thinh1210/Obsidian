@@ -2,8 +2,10 @@
 *noun*
 > /kənˈdɪʃ.ən.ɪŋ/
 
+![[conditioning.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A behavioral process whereby a response becomes more frequent or more predictable.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `classical conditioning`: phản xạ có điều kiện cổ điển
+- `operant conditioning`: thuyết phản xạ tạo tác
+- `social conditioning`: sự uốn nắn theo chuẩn mực xã hội
+- `respond to conditioning`: phản ứng lại sự điều kiện hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Social conditioning affects our choices.

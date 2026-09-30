@@ -2,8 +2,10 @@
 *n*
 > /ɪkˈskɜːʃn/
 
+![[excursion.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short journey or trip, especially one engaged in as a leisure activity.
@@ -13,7 +15,11 @@
 💡 Ex (ra ngoài) + cursion -> đi ra ngoài dạo chơi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `go on an excursion`: đi du ngoạn\n- `weekend excursion`: chuyến du ngoạn cuối tuần
+- `go on an excursion`: đi du ngoạn
+- `weekend excursion`: chuyến du ngoạn cuối tuần
+- `day excursion`: chuyến dã ngoại trong ngày
+- `guided excursion`: chuyến du ngoạn có hướng dẫn viên
+- `boat excursion`: chuyến du ngoạn bằng thuyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went on an excursion to the mountains.

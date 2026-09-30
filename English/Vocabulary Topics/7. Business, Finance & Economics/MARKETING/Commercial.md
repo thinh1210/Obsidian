@@ -2,8 +2,10 @@
 *noun*
 > /kəˈmɜːrʃl/
 
+![[commercial.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A television or radio advertisement
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `TV commercial`: quảng cáo truyền hình
 - `radio commercial`: quảng cáo trên radio
+- `prime-time commercial`: quảng cáo truyền hình phát vào khung giờ vàng
+- `commercial shoot`: buổi ghi hình sản xuất video quảng cáo
+- `air a commercial`: phát sóng mẩu quảng cáo trên đài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The commercial was so funny that we all laughed out loud.

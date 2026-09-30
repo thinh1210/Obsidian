@@ -2,8 +2,10 @@
 *n.*
 > /ˌmjuː.zɪˈkɒl.ə.dʒi/
 
+![[musicology.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scholarly study of music as a branch of knowledge or field of study, as distinct from music theory or training in performance.

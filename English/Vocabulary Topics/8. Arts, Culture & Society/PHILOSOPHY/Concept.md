@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɒn.sept/
 
+![[concept.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An abstract idea; a general notion.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `basic concept`: khái niệm cơ bản
 - `abstract concept`: khái niệm trừu tượng
+- `grasp a concept`: nắm bắt thấu đáo một khái niệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I struggle to grasp the concept of time travel.

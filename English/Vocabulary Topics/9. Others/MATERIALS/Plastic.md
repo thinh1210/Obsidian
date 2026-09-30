@@ -2,8 +2,10 @@
 *noun.*
 > /ˈplæstɪk/
 
+![[plastic.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A synthetic material made from a wide range of organic polymers that can be molded into shape while soft.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plastic waste`: rác thải nhựa
 - `single-use plastic`: nhựa dùng một lần
+- `plastic surgery`: phẫu thuật thẩm mỹ tạo hình
+- `plastic deformation`: biến dạng vĩnh viễn không đàn hồi lại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Put the plastic bottles into the recycling bin.

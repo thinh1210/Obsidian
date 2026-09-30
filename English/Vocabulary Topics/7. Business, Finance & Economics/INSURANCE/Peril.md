@@ -2,8 +2,10 @@
 *n.*
 > /ˈperəl/
 
+![[peril.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Serious and immediate danger; in insurance, the specific cause of a loss, such as fire, windstorm, or theft.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insured peril`: hiểm họa được bảo hiểm
 - `imminent peril`: hiểm họa cận kề
+- `named perils`: danh sách các loại hiểm họa được ghi rõ tên trong hợp đồng
+- `all-perils policy`: hợp đồng bảo hiểm bao trọn mọi hiểm họa rủi ro
+- `at one's own peril`: tự gánh chịu mọi hậu quả hiểm nguy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Fire is one of the most common perils covered by property insurance.

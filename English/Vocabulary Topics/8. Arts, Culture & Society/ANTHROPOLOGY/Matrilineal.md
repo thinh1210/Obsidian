@@ -2,8 +2,10 @@
 *adj.*
 > /ˌmæt.rɪˈlɪn.i.əl/
 
+![[matrilineal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of or based on kinship with the mother or the female line.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `matrilineal society`: xã hội mẫu hệ
 - `matrilineal descent`: sự truyền thừa mẫu hệ
+- `matrilineal kinship`: quan hệ huyết thống họ mẹ
+- `matrilineal clan`: thị tộc mẫu hệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In their family, names are passed down through a matrilineal tradition.

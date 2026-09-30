@@ -2,8 +2,10 @@
 *n.*
 > /ˈækʃn/
 
+![[action.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The events or things that happen in a film; also the director's command to start filming
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `action movie`: phim hành động
 - `call to action`: lời kêu gọi hành động
+- `action sequence`: chuỗi phân cảnh hành động liên hoàn
+- `slow-motion action`: cảnh hành động quay chậm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the action scenes in Marvel movies.

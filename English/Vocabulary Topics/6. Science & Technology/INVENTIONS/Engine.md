@@ -2,8 +2,10 @@
 *Noun*
 > /ˈen.dʒɪn/
 
+![[engine.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine that uses the energy from fuel or steam to produce movement.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `car engine`: động cơ ô tô
 - `steam engine`: động cơ hơi nước
+- `jet engine`: động cơ phản lực
+- `engine of growth`: động lực thúc đẩy tăng trưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The car engine won't start in the cold.

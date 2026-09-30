@@ -2,8 +2,10 @@
 *Noun*
 > /ˈtʊə.rɪst ˌtræp/
 
+![[tourist_trap.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A crowded place that provides entertainment and things to buy for tourists, often at high prices.

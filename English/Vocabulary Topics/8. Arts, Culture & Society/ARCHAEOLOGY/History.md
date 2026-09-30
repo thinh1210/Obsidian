@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɪstəri/
 
+![[history.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient history`: lịch sử cổ đại
 - `written history`: lịch sử thành văn
+- `prehistoric history`: lịch sử thời tiền sử
+- `unrecorded history`: lịch sử chưa từng được ghi chép
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like reading books about medieval history.

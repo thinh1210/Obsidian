@@ -2,8 +2,10 @@
 *Noun*
 > /ˈsæt.əl.aɪt/
 
+![[satellite.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An artificial body placed in orbit round the earth or another planet in order to collect information or for communication.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `artificial satellite`: vệ tinh nhân tạo
 - `satellite communication`: truyền thông vệ tinh
+- `geostationary satellite`: vệ tinh địa tĩnh
+- `natural satellite`: vệ tinh tự nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We receive television signals via satellite.

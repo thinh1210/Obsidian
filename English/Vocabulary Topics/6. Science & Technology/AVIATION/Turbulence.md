@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɜː.bjʊ.ləns/
 
+![[turbulence.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Irregular and violent movement of air that causes an aircraft to shake.

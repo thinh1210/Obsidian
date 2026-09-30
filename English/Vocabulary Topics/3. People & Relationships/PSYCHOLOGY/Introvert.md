@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.trə.vɝːt/
 
+![[introvert.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A shy, reticent person.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `extreme introvert`: người cực kỳ hướng nội
+- `introverted nature`: bản chất hướng nội kín đáo
+- `social introvert`: người hướng nội vẫn giao tiếp tốt
+- `embrace being an introvert`: trân trọng và tự hào về bản tính hướng nội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am a natural introvert.

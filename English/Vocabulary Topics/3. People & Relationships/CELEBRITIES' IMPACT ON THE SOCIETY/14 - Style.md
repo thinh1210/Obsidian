@@ -2,8 +2,10 @@
 *n.*
 > /staɪl/
 
+![[style.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular way of doing, designing, or producing.
@@ -13,7 +15,10 @@
 💡 Style -> Phong thái
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Personal style: Phong cách cá nhân`
+- `Personal style`: Phong cách cá nhân
+- `sense of style`: gu thời trang thẩm mỹ
+- `in style`: hợp thời trang sành điệu
+- `lifestyle choice`: lựa chọn phong cách sống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like your style.

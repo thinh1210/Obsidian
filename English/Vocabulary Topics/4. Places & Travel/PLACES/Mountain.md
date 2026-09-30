@@ -2,8 +2,10 @@
 *n.*
 > /ˈmaʊn.tən/
 
+![[mountain.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large natural elevation of the earth's surface.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `climb a mountain`: leo núi
+- `mountain range`: dãy núi trùng điệp
+- `mountain peak`: đỉnh núi chót vót
+- `steep mountain`: vách núi dựng đứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The mountain is covered in snow.

@@ -2,8 +2,10 @@
 *n*
 > /əˈmjuːzmənt/
 
+![[amusement.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or experience of finding something funny or entertaining.
@@ -13,7 +15,11 @@
 💡 Amuse (làm vui) + ment -> sự làm vui.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `amusement park`: công viên giải trí\n- `to one's amusement`: làm ai đó vui vẻ
+- `amusement park`: công viên giải trí
+- `to one's amusement`: làm ai đó vui vẻ
+- `provide amusement`: mang lại tiếng cười, niềm vui giải trí
+- `indoor amusement center`: trung tâm giải trí trong nhà
+- `look on with amusement`: nhìn với vẻ thích thú, buồn cười
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went to the amusement park.

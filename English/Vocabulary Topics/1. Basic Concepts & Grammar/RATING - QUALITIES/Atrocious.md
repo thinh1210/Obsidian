@@ -2,8 +2,10 @@
 *adj*
 > /əˈtrəʊ.ʃəs/
 
+![[atrocious.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Horrifyingly wicked; of a very poor quality.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `atrocious weather`: thời tiết kinh khủng
+- `atrocious handwriting`: chữ viết xấu tệ hại
+- `atrocious crime`: tội ác tày trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His spelling is atrocious.

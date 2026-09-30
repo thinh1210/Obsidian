@@ -2,8 +2,10 @@
 *noun*
 > /ˈmel.ə.drɑː.mə/
 
+![[melodrama.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sensational dramatic piece with exaggerated characters and exciting events.

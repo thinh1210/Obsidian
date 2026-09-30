@@ -2,8 +2,10 @@
 *adj.*
 > /ˌænθrəpəˈdʒenɪk/
 
+![[anthropogenic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (chiefly of environmental pollution and pollutants) originating in human activity.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `anthropogenic climate change`: biến đổi khí hậu do con người gây ra
 - `anthropogenic sources`: các nguồn phát thải do con người gây ra
+- `anthropogenic activities`: các hoạt động do bàn tay con người gây ra
+- `anthropogenic impact`: tác động nhân sinh đối với tự nhiên
+- `anthropogenic pollutants`: các chất ô nhiễm nguồn gốc nhân sinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Most of the carbon dioxide emissions are anthropogenic.

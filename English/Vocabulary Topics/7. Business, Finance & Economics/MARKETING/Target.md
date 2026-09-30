@@ -2,8 +2,10 @@
 *verb*
 > /ˈtɑːrɡɪt/
 
+![[target.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To select a specific group of consumers or audience to direct advertising or products toward
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `target audience`: đối tượng mục tiêu
 - `specifically target`: nhắm mục tiêu cụ thể
+- `hit sales targets`: hoàn thành và cán đích chỉ tiêu doanh số
+- `target market segment`: nhắm mục tiêu vào phân khúc thị trường cụ thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This animated show is targeted at young children and parents.

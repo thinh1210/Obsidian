@@ -2,8 +2,10 @@
 *n.*
 > /ˈskaɪskreɪpə(r)/
 
+![[skyscraper.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A very tall modern building, usually in a city
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modern skyscraper`: tòa nhà chọc trời hiện đại
 - `skyscraper skyline`: đường chân trời với các tòa nhà chọc trời
+- `towering skyscraper`: tòa nhà chọc trời cao ngút
+- `skyscraper design`: thiết kế kết cấu nhà chọc trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New York is famous for its massive skyscrapers.

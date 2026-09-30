@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈven.tər/
 
+![[inventor.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has invented something, or whose job is to invent things
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `famous inventor`: nhà phát minh nổi tiếng
 - `independent inventor`: nhà phát minh độc lập
+- `master inventor`: nhà phát minh bậc thầy
+- `prolific inventor`: nhà sáng chế có vô số phát minh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Alexander Graham Bell is the inventor of the telephone.

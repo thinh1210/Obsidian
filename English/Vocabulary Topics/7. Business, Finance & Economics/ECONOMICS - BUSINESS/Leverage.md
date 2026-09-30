@@ -2,8 +2,10 @@
 *verb*
 > /ˈlevərɪdʒ/
 
+![[leverage.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Đòn bẩy tài chính & Nghĩa vụ nợ doanh nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to use something that you already have in order to achieve something new or better; the use of borrowed money to buy an asset.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `financial leverage`: đòn bẩy tài chính
 - `leverage technology`: tận dụng công nghệ
+- `high leverage`: mức đòn bẩy nợ cao
+- `deleveraging`: quá trình giảm nợ đòn bẩy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She managed to leverage her experience in sales to get a high-paying job.

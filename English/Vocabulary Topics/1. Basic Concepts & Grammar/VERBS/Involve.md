@@ -2,8 +2,10 @@
 *Verb*
 > /ɪnˈvɒlv/
 
+![[involve.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To include someone or something in an activity.
@@ -13,7 +15,10 @@
 💡 In vôn (involve) vô để liên quan.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `involve in`: tham gia vào\n- `highly involved`: tham gia nhiều
+- `involve in`: tham gia vào
+- `highly involved`: tham gia nhiều
+- `involve risks`: tiềm ẩn nhiều rủi ro
+- `actively involve`: tích cực tham gia vào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It involves risk.

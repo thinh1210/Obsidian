@@ -2,8 +2,10 @@
 *noun*
 > /vaʊ/
 
+![[vow.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solemn promise.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Wedding vows`: Lời thề trong đám cưới
+- `exchange wedding vows`: trao nhau lời thề nguyện ngày cưới
+- `solemn vows`: những lời thề ước trang nghiêm thiêng liêng
+- `renew one's vows`: làm mới lại lời thề hôn nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They wrote their own vows.

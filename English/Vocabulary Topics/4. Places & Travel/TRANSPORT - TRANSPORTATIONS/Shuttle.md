@@ -2,8 +2,10 @@
 *noun*
 > /ˈʃʌtl/
 
+![[shuttle.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of transport that travels regularly between two places.

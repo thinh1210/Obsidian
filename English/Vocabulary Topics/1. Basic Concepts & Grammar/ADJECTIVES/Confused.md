@@ -2,8 +2,10 @@
 *adj.*
 > /kənˈfjuːzd/
 
+![[confused.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Unable to think clearly
@@ -13,7 +15,10 @@
 💡 Còn phiu (confused) mờ ảo
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``confused expression`: biểu cảm bối rối`
+- `confused expression`: biểu cảm bối rối
+- `get confused`: bị bối rối / nhầm lẫn
+- `confused with`: nhầm lẫn với
+- `utterly confused`: hoàn toàn hoang mang
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am confused.

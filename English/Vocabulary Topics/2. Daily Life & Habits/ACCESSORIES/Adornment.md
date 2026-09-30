@@ -2,8 +2,10 @@
 *noun*
 > /əˈdɔːnmənt/
 
+![[adornment.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that is used to decorate a person or thing.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `personal adornment`: đồ trang sức cá nhân
+- `body adornment`: đồ trang sức tô điểm cơ thể
+- `decorative adornment`: vật trang trí làm đẹp
+- `without adornment`: mộc mạc, không cần tô điểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A simple necklace was her only adornment.

@@ -2,8 +2,10 @@
 *adj.*
 > /ɪˈdɪlɪk/
 
+![[idyllic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely happy, peaceful, or picturesque.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `idyllic setting`: khung cảnh thanh bình
+- `idyllic childhood`: tuổi thơ êm đềm như cổ tích
+- `idyllic village`: ngôi làng thanh bình thơ mộng
+- `idyllic retreat`: chốn tĩnh dưỡng thanh bình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We spent an idyllic childhood in the village.

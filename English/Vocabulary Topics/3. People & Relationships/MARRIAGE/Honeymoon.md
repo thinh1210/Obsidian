@@ -2,8 +2,10 @@
 *noun*
 > /ˈhʌnimuːn/
 
+![[honeymoon.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A holiday spent together by a newly married couple.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Go on a honeymoon`: Đi tuần trăng mật
+- `honeymoon period`: tuần trăng mật / giai đoạn êm đẹp ban đầu (idiom)
+- `honeymoon destination`: địa điểm du lịch tuần trăng mật lãng mạn
+- `spend a honeymoon`: tận hưởng kỳ nghỉ trăng mật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went to Paris for our honeymoon.

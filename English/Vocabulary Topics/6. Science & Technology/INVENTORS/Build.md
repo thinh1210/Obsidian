@@ -2,8 +2,10 @@
 *v.*
 > /bɪld/
 
+![[build.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something by putting parts or materials together
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build a house`: xây một ngôi nhà
 - `build a model`: chế tạo một mô hình
+- `build from scratch`: xây dựng sáng tạo từ hai bàn tay trắng
+- `build a reputation`: xây dựng uy tín danh tiếng vững chắc
+- `build consensus`: tạo dựng sự đồng thuận chung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They want to build a treehouse in the backyard.

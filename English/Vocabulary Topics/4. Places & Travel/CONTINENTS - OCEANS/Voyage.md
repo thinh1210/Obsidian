@@ -2,8 +2,10 @@
 *noun*
 > /ˈvɔɪɪdʒ/
 
+![[voyage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long journey involving travel by sea or in space.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `maiden voyage`: chuyến đi đầu tiên
+- `voyage of discovery`: chuyến hải trình khám phá
+- `embark on a voyage`: bắt đầu chuyến hải trình
+- `perilous voyage`: chuyến vượt biển đầy nguy hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ship sank on its maiden voyage.

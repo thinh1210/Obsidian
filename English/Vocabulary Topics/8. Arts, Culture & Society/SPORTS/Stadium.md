@@ -2,8 +2,10 @@
 *n.*
 > /ˈsteɪ.di.əm/
 
+![[stadium.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sports arena with tiers of seats for spectators.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `crowded stadium`: sân vận động đông đúc
 - `stadium capacity`: sức chứa của sân vận động
+- `pack the stadium`: lấp kín khán đài sân vận động
+- `stadium announcer`: phát thanh viên sân vận động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Thousands of fans filled the stadium.

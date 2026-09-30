@@ -2,8 +2,10 @@
 *n.*
 > /ˌmet.əˈfɪz.ɪks/
 
+![[metaphysics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of philosophy dealing with abstract concepts like being, knowing, cause, identity, time, and space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `classical metaphysics`: siêu hình học cổ điển
 - `study of metaphysics`: nghiên cứu siêu hình học
+- `metaphysical inquiry`: sự tra vấn siêu hình học
+- `metaphysical realm`: cõi siêu hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Discussions about life after death often cross into metaphysics.

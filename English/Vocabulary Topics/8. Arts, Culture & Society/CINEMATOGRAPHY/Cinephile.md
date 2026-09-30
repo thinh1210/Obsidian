@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪnɪfaɪl/
 
+![[cinephile.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is fond of motion pictures; a movie enthusiast
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `devoted cinephile`: người yêu điện ảnh tận tụy
 - `cinephile community`: cộng đồng người yêu điện ảnh
+- `hardcore cinephile`: tín đồ cuồng nhiệt của bộ môn nghệ thuật thứ bảy
+- `cinephile culture`: văn hóa của giới sành phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* As a cinephile, he watches at least three movies a week.

@@ -2,8 +2,10 @@
 *verb*
 > /pəʊtʃ/
 
+![[poach.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Illegally hunt or catch (game or fish) on land that is not one's own or in protected areas.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `poach rhinos for ivory`: săn trộm tê giác lấy ngà/sừng
 - `anti-poaching patrol`: tuần tra chống săn trộm
+- `poach wildlife`: săn trộm động vật hoang dã
+- `illegal poaching`: hoạt động săn bắt trộm bất hợp pháp
+- `crack down on poaching`: mạnh tay trấn áp nạn săn trộm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Elephants are still being poached for their valuable ivory tusks.

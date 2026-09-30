@@ -2,8 +2,10 @@
 *noun*
 > /ˈɒf.sprɪŋ/
 
+![[offspring.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal's young; children or young of a person, animal, or plant.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `produce offspring`: sinh con non
 - `care for offspring`: chăm sóc con non
+- `viable offspring`: con non có khả năng sống sót
+- `rear offspring`: nuôi nấng con non
+- `genetic traits passed to offspring`: đặc điểm di truyền truyền sang thế hệ con
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Female bears are extremely protective of their offspring.

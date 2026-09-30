@@ -2,8 +2,10 @@
 *n.*
 > /ˈeθ.ɪks/
 
+![[ethics.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Moral principles that govern a person's behavior or the conducting of an activity.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `professional ethics`: đạo đức nghề nghiệp
 - `code of ethics`: bộ quy tắc đạo đức
+- `ethical dilemma`: song đề nan giải về mặt đạo đức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He always follows his personal ethics when making choices.

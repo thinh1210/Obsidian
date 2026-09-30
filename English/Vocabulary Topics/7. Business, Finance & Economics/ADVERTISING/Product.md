@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɒdʌkt/
 
+![[product.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An article or substance that is manufactured or refined for sale.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `product placement`: quảng cáo chèn sản phẩm
 - `new product`: sản phẩm mới
+- `product life cycle`: vòng đời của sản phẩm
+- `flagship product`: sản phẩm chủ lực
+- `product differentiation`: sự tạo khác biệt cho sản phẩm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This product is made from natural ingredients.

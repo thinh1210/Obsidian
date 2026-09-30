@@ -2,8 +2,10 @@
 *Noun*
 > /ˌpaɪəˈnɪər/
 
+![[pioneer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is among the first to research and develop a new area of knowledge or technology.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pioneer in the field`: người tiên phong trong lĩnh vực
 - `a pioneer of flight`: người tiên phong trong ngành hàng không
+- `pioneer a method`: tiên phong khởi xướng một phương pháp
+- `early pioneers`: những người tiên phong thuở đầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was a pioneer of modern dance in her country.

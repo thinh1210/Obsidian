@@ -2,8 +2,10 @@
 *v.*
 > /ˌʌndəˈstænd/
 
+![[understand.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To perceive the intended meaning of words or a speaker
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clearly understand`: hiểu rõ ràng
+- `fail to understand`: không hiểu nổi
+- `make oneself understood`: diễn đạt cho người khác hiểu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you understand what I mean?

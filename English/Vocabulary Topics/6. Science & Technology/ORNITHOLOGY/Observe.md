@@ -2,8 +2,10 @@
 *verb*
 > /əbˈzɜːv/
 
+![[observe.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** ORNITHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To watch carefully the way something happens or the way someone does something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `observe birds`: quan sát chim
 - `closely observe`: quan sát kỹ lưỡng
+- `observe wildlife`: quan sát thế giới động vật hoang dã
+- `observe bird behavior`: theo dõi tập tính các loài chim
+- `keenly observe`: quan sát một cách sắc sảo tinh tường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to sit on the balcony and observe the birds building nests.

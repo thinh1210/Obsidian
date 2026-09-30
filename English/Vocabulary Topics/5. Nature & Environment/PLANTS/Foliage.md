@@ -2,8 +2,10 @@
 *noun*
 > /ˈfəʊliɪdʒ/
 
+![[foliage.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** PLANTS
+**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Plant leaves collectively.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dense foliage`: tán lá rậm rạp
 - `autumn foliage`: tán lá mùa thu
+- `lush foliage`: tán lá xanh tươi tốt sum sê
+- `evergreen foliage`: tán lá xanh quanh năm
+- `foliage plant`: cây trồng lấy lá trang trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dense foliage of the trees blocked the sunlight.

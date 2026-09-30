@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɪn.tæks/
 
+![[syntax.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the grammatical arrangement of words in a sentence

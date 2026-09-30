@@ -2,8 +2,10 @@
 *n.*
 > /ˌhaɪ.drəˈpɒn.ɪks/
 
+![[hydroponics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of growing plants in water or sand, without using soil.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hydroponic system`: hệ thống thủy canh
 - `hydroponic farm`: trang trại thủy canh
+- `hydroponic cultivation`: canh tác thủy canh
+- `grow with hydroponics`: trồng cây bằng phương pháp thủy canh
+- `nutrient solution for hydroponics`: dung dịch dinh dưỡng dùng trong thủy canh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Hydroponics is ideal for growing vegetables in urban apartments.

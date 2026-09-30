@@ -2,8 +2,10 @@
 *noun*
 > /ˈspiː.ʃiːz/
 
+![[species.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of living organisms consisting of similar individuals capable of exchanging genes.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endangered species`: loài có nguy cơ tuyệt chủng
 - `bird species`: loài chim
+- `invasive species`: loài sinh vật ngoại lai xâm hại
+- `threatened species`: loài sinh vật đang bị đe dọa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There are thousands of bird species in the world.

@@ -2,8 +2,10 @@
 *adj*
 > /ˈæŋɡri/
 
+![[angry.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing strong annoyance.

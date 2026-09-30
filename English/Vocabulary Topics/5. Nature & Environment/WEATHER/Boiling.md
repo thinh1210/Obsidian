@@ -2,8 +2,10 @@
 *adj.*
 > /ˈbɔɪlɪŋ/
 
+![[boiling.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very hot (informal)
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `boiling hot`: nóng như thiêu như đốt
+- `boiling hot day`: ngày nóng bức như thiêu như đốt
+- `reach boiling point`: đạt tới đỉnh điểm sôi sục / giận sôi máu
+- `keep the pot boiling`: duy trì sự hứng khởi / kiếm đủ tiền sinh sống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Open the window; it's boiling in here.

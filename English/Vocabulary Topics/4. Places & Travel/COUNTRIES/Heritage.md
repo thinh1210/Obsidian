@@ -2,8 +2,10 @@
 *Noun*
 > /ˈherɪtɪdʒ/
 
+![[heritage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Property that is or may be inherited; an inheritance.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Cultural heritage`: Di sản văn hóa
+- `world heritage site`: di sản thế giới
+- `historical heritage`: di sản lịch sử
+- `rich heritage`: di sản phong phú dồi dào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We must protect our national heritage.

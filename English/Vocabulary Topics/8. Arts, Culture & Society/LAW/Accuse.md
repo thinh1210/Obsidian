@@ -2,8 +2,10 @@
 *verb*
 > /əˈkjuːz/
 
+![[accuse.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Charge someone with an offense or crime.

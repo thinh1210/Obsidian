@@ -2,8 +2,10 @@
 *n.*
 > /ˈmɒn.əʊˌkʌl.tʃər/
 
+![[monoculture.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The cultivation of a single crop in a given area.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `monoculture farming`: canh tác độc canh
 - `agricultural monoculture`: độc canh nông nghiệp
+- `intensive monoculture`: độc canh thâm canh
+- `risks of monoculture`: rủi ro của việc độc canh
+- `pine monoculture`: rừng trồng độc canh cây thông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Monoculture makes the farm highly vulnerable to pest invasions.

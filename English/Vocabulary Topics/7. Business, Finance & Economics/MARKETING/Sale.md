@@ -2,8 +2,10 @@
 *noun*
 > /seɪl/
 
+![[sale.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The exchange of a commodity for money; the action of selling something
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `annual sale`: đợt giảm giá hàng năm
 - `sales target`: mục tiêu doanh số
+- `sales pipeline`: chu trình các giai đoạn trong phễu bán hàng
+- `sales volume`: tổng sản lượng doanh số hàng bán ra
+- `flash sale`: chương trình đại hạ giá chớp nhoáng thu hút đám đông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Everything in the store is on sale for 20% off this weekend.

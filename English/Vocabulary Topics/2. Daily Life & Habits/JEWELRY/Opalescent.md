@@ -2,8 +2,10 @@
 *adjective*
 > /ˌəʊ.pəlˈes.ənt/
 
+![[opalescent.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing varying colors as an opal does.
@@ -13,7 +15,10 @@
 💡 Ô (O) pha (pal) màu óng ánh.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `opalescent glow: ánh sáng óng ánh`
+- `opalescent glow`: ánh sáng óng ánh
+- `opalescent sheen`: ánh xà cừ lung linh, ngũ sắc
+- `opalescent gemstone`: đá quý đổi màu óng ánh
+- `opalescent shades`: những sắc màu huyền ảo như ngọc mắt mèo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The gem is opalescent.

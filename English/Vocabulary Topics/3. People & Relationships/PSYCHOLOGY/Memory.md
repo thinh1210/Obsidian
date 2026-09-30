@@ -2,8 +2,10 @@
 *noun*
 > /ˈmem.ə.ri/
 
+![[memory.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The faculty by which the mind stores and remembers information.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `good memory`: trí nhớ tốt
+- `short-term memory`: trí nhớ ngắn hạn
+- `repressed memory`: ký ức bị dồn nén quên lãng
+- `cherished memory`: kỷ niệm được trân quý nâng niu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a bad memory.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌɑːkɪˈpeləɡəʊ/
 
+![[archipelago.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of islands.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the Indonesian archipelago`: quần đảo Indonesia
+- `volcanic archipelago`: quần đảo núi lửa
+- `scattered archipelago`: quần đảo nằm rải rác
+- `archipelago nation`: quốc gia quần đảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They sailed through the archipelago.

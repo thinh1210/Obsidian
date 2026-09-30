@@ -2,8 +2,10 @@
 *n.*
 > /ˈkʌl.tʃər.əl ˈrel.ə.tɪ.vɪ.zəm/
 
+![[cultural_relativism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The idea that a person's beliefs and activities should be understood based on that person's own culture, rather than judged against the criteria of another.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `principles of cultural relativism`: nguyên lý thuyết tương đối văn hóa
 - `apply cultural relativism`: áp dụng thuyết tương đối văn hóa
+- `concept of cultural relativism`: khái niệm thuyết tương đối văn hóa
+- `embrace cultural relativism`: chấp nhận thuyết tương đối văn hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Practicing cultural relativism helps us be more open-minded.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌdʒiː.əʊˈpɒl.ɪ.tɪks/
 
+![[geopolitics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Politics, especially international relations, as influenced by geographical factors.

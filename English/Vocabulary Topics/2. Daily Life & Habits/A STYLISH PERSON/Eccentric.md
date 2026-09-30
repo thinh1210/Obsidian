@@ -2,8 +2,10 @@
 *adj.*
 > /ɪkˈsentrɪk/
 
+![[eccentric.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Strange or unusual, sometimes in a humorous way.
@@ -13,7 +15,11 @@
 💡 Eccentric - ếch (ec) chèn (cen) vào trục kỳ dị.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `eccentric behavior`: hành vi lập dị\n- `eccentric clothes`: quần áo kỳ quái
+- `eccentric behavior`: hành vi lập dị
+- `eccentric clothes`: quần áo kỳ quái
+- `eccentric fashion sense`: gu thời trang lập dị, độc lạ
+- `eccentric style`: phong cách khác người, lập dị
+- `delightfully eccentric`: lập dị một cách thú vị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has an eccentric style of dressing.

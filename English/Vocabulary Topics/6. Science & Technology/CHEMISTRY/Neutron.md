@@ -2,8 +2,10 @@
 *noun*
 > /ˈnjuː.trɒn/
 
+![[neutron.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A subatomic particle of about the same mass as a proton but without an electric charge, present in all atomic nuclei except hydrogen.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `neutron star`: sao nơ-tron
 - `neutron emission`: sự phát xạ nơ-tron
+- `thermal neutron`: neutron nhiệt
+- `neutron capture`: sự bắt giữ neutron
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Isotopes of an element have different numbers of neutrons.

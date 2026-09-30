@@ -2,8 +2,10 @@
 *noun*
 > /ˈraɪ.tər/
 
+![[writer.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who writes books, stories, or articles as a job or regular activity.

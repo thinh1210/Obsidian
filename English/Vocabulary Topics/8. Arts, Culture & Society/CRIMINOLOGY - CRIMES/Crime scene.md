@@ -2,8 +2,10 @@
 *noun*
 > /kraɪm siːn/
 
+![[crime_scene.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where a crime has been committed
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `secure the crime scene`: bảo vệ hiện trường vụ án
 - `investigate a crime scene`: điều tra hiện trường
+- `crime scene tape`: băng keo phong tỏa bảo vệ hiện trường
+- `forensic analysis of the crime scene`: phân tích giám định pháp y hiện trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police blocked the street to protect the crime scene.

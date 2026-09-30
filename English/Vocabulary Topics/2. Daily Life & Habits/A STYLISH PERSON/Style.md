@@ -2,8 +2,10 @@
 *n.*
 > /staɪl/
 
+![[style.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular way of designing or wearing clothes.
@@ -13,7 +15,11 @@
 💡 Style - sờ tai (style) thể hiện phong cách.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `have good style`: có phong cách tốt\n- `in style`: hợp thời trang
+- `have good style`: có phong cách tốt
+- `in style`: hợp thời trang
+- `personal style`: phong cách cá nhân
+- `sense of style`: khiếu thẩm mỹ, cảm thụ thời trang
+- `go out of style`: lỗi mốt, không còn hợp thời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like your style of dressing.

@@ -2,8 +2,10 @@
 *verb*
 > /θɪŋk/
 
+![[think.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To have a particular opinion, belief, or idea.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `think about`: nghĩ về
+- `think outside the box`: tư duy đột phá sáng tạo (idiom)
+- `think on one's feet`: tư duy ứng biến nhanh nhạy (idiom)
+- `think twice`: cân nhắc kỹ lưỡng trước khi quyết định (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let me think.

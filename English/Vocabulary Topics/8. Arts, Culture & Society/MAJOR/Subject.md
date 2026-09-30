@@ -2,8 +2,10 @@
 *n.*
 > /ˈsʌb.dʒɪkt/
 
+![[subject.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A branch of knowledge studied in school or university.

@@ -2,8 +2,10 @@
 *n./v.*
 > /ˈfaɪnæns/
 
+![[finance.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of managing money, especially in a company or organization

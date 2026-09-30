@@ -2,8 +2,10 @@
 *noun*
 > /ˈliː.vər/
 
+![[lever.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a rigid bar resting on a pivot, used to help move a heavy or firmly fixed load.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pull the lever`: gạt cần
 - `economic lever`: đòn bẩy kinh tế
+- `pull a lever`: gạt cần điều khiển
+- `lever for change`: đòn bẩy tạo ra sự chuyển biến (idiom)
+- `fulcrum and lever`: điểm tựa và đòn bẩy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pull this lever to open the emergency exit.

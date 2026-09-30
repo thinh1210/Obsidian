@@ -2,8 +2,10 @@
 *Noun*
 > /bʌlb/
 
+![[bulb.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rounded glass container with a thin thread of metal inside that shines when an electric current goes through it.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `light bulb`: bóng đèn
 - `replace a bulb`: thay bóng đèn
+- `energy-saving bulb`: bóng đèn tiết kiệm điện
+- `bulb filament`: dây tóc bóng đèn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The light bulb in the kitchen has burnt out.

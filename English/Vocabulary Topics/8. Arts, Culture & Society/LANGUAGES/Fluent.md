@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfluːənt/
 
+![[fluent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to express oneself easily and articulately in a foreign language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fluent speaker`: người nói trôi chảy
+- `speak fluent English`: nói tiếng Anh lưu loát
+- `become fluent in`: trở nên thông thạo một ngôn ngữ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is fluent in French.

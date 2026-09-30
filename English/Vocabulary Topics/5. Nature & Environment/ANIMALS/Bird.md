@@ -2,8 +2,10 @@
 *noun*
 > /bɜːd/
 
+![[bird.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A creature with feathers and wings, usually able to fly.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `migratory bird`: chim di cư
 - `early bird`: người dậy sớm
+- `bird of prey`: chim săn mồi
+- `bird watching`: thú vui ngắm chim
+- `kill two birds with one stone`: nhất cử lưỡng tiện / một mũi tên trúng hai đích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A small bird is singing outside my window.

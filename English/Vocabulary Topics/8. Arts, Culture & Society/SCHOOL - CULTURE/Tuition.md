@@ -2,8 +2,10 @@
 *noun*
 > /tjuˈɪʃn/
 
+![[tuition.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sum of money charged for teaching or instruction by a school, college, or university.

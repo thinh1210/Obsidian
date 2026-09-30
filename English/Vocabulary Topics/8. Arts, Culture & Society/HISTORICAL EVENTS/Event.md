@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈvent/
 
+![[event.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that happens, especially one of importance.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical event`: sự kiện lịch sử
 - `current events`: sự kiện thời sự
+- `momentous event`: sự kiện mang ý nghĩa trọng đại bước ngoặt
+- `turn of events`: bước ngoặt diễn biến bất ngờ của tình hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The opening of the new library was a major local event.

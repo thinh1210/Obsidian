@@ -2,8 +2,10 @@
 *verb*
 > /əˈkɜːr/
 
+![[occur.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To happen; take place (especially regarding time).
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `occur frequently`: xảy ra thường xuyên
+- `occur to someone`: chợt nảy ra trong đầu ai
+- `rarely occur`: hiếm khi xảy ra
+- `natural occurrence`: hiện tượng tự nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The meteor shower occurs every August.

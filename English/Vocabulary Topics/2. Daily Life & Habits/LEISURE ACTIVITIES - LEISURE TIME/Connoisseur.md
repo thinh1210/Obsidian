@@ -2,8 +2,10 @@
 *n*
 > /ˌkɒnəˈsɜː(r)/
 
+![[connoisseur.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expert judge in matters of taste.
@@ -13,7 +15,11 @@
 💡 Connoisseur - Cổ (con) nói (noi) sờ sờ, chứng tỏ chuyên gia sành sỏi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wine connoisseur`: người sành rượu\n- `art connoisseur`: người sành nghệ thuật
+- `wine connoisseur`: người sành rượu
+- `art connoisseur`: người sành nghệ thuật
+- `culinary connoisseur`: chuyên gia ẩm thực sành điệu
+- `connoisseur of fine arts`: người sành sỏi về mỹ thuật
+- `coffee connoisseur`: người sành cà phê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a connoisseur of Italian food.

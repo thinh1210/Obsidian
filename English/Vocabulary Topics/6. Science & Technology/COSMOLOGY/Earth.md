@@ -2,8 +2,10 @@
 *Noun*
 > /ɜːθ/
 
+![[earth.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The planet on which we live; the world.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `planet Earth`: hành tinh Trái Đất
 - `Earth's orbit`: quỹ đạo của Trái Đất
+- `orbiting the Earth`: quay quanh Trái Đất
+- `Earth's magnetic shield`: lá chắn từ trường của Trái Đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to protect the Earth.

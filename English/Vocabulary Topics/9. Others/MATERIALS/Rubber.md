@@ -2,8 +2,10 @@
 *noun.*
 > /ˈrʌbə(r)/
 
+![[rubber.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tough elastic polymeric substance made from the latex of a tropical plant or synthetically.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural rubber`: cao su tự nhiên
 - `rubber band`: dây chun, dây cao su
+- `where the rubber meets the road`: nơi lý thuyết đối mặt với thực tế kiểm nghiệm (idiom)
+- `rubber stamp`: phê chuẩn tự động mù quáng không cân nhắc (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He held the stack of papers together with a rubber band.

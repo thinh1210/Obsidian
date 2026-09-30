@@ -2,8 +2,10 @@
 *adj., n.*
 > /ˌæk.əˈdem.ɪk/
 
+![[academic.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to education and scholarship; a person who teaches or does research at a university.

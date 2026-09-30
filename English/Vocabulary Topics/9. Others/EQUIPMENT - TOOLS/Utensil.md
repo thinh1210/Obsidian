@@ -2,8 +2,10 @@
 *noun*
 > /juːˈten.sɪl/
 
+![[utensil.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool, container, or other article, especially for household use.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cooking utensil`: dụng cụ nấu ăn
 - `kitchen utensil`: dụng cụ nhà bếp
+- `cooking utensils`: dụng cụ nấu nướng nhà bếp
+- `eating utensils`: dao nĩa muỗng ăn
+- `kitchen utensils`: đồ làm bếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Chopsticks are the primary eating utensils in many Asian countries.

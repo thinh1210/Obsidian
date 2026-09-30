@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈskʌv.ər/
 
+![[discover.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To find information, a place, or an object, especially for the first time
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `discover a cure`: phát hiện ra phương thuốc chữa bệnh
 - `discover a planet`: phát hiện ra một hành tinh
+- `discover secrets`: khám phá những bí mật chưa biết
+- `discover untapped potential`: phát hiện tiềm năng chưa được khai phá
+- `discover oil`: thăm dò phát hiện mỏ dầu mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Scientists hope to discover new species in the rainforest.

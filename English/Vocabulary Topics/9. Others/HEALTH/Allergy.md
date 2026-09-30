@@ -2,8 +2,10 @@
 *n*
 > /ˈælədʒi/
 
+![[allergy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A damaging immune response by the body to a substance, especially pollen, fur, a particular food, or dust.

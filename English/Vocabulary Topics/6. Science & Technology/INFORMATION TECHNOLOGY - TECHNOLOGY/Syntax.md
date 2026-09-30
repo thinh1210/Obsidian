@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɪn.tæks/
 
+![[syntax.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The rules that state how words and phrases must be used in a computer language.

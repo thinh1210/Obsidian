@@ -2,8 +2,10 @@
 *noun*
 > /hæt/
 
+![[hat.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A covering for the head that is not part of a piece of clothing.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `put on a hat`: đội mũ lên
+- `straw hat`: mũ cói
+- `fedora hat`: mũ phớt fedora
+- `wear many hats`: đảm đương nhiều trọng trách/vai trò khác nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't forget your sun hat.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈnep.ə.tɪ.zəm/
 
+![[nepotism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of using your power to get good jobs for your family members.

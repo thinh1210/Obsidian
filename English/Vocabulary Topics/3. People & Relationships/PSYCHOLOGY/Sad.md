@@ -2,8 +2,10 @@
 *adj*
 > /sæd/
 
+![[sad.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feeling or showing sorrow; unhappy.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sad news`: tin buồn
+- `sad state of affairs`: tình trạng đáng buồn thất vọng (idiom)
+- `deeply sad`: vô cùng buồn bã đau xót
+- `sad excuse`: lời bào chữa vụng về đáng thất vọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Why are you sad?

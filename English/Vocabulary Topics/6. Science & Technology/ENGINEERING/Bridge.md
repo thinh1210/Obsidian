@@ -2,8 +2,10 @@
 *noun*
 > /brɪdʒ/
 
+![[bridge.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `suspension bridge`: cầu treo
 - `build a bridge`: xây cầu
+- `cross a bridge`: đi qua cầu
+- `cable-stayed bridge`: cầu dây văng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We walked across the wooden bridge to reach the small island.

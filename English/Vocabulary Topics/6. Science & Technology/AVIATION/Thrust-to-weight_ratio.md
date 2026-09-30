@@ -2,8 +2,10 @@
 *noun phrase*
 > /θrʌst tə weɪt ˈreɪ.ʃiˌəʊ/
 
+![[thrust_to_weight_ratio.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dimensionless ratio of the thrust of an aircraft's engines to its total weight, indicating its ability to accelerate and climb.

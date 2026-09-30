@@ -2,8 +2,10 @@
 *noun*
 > /reɪn/
 
+![[reign.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period during which a sovereign rules.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `during the reign`: trong suốt triều đại
 - `reign supreme`: ngự trị tối cao
+- `prosperous reign`: triều đại trị vì thái bình thịnh trị
+- `ascend to reign`: bước lên ngai vàng bắt đầu thời kỳ trị vì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Under the reign of the new manager, company productivity has improved.

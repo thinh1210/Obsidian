@@ -2,8 +2,10 @@
 *noun*
 > /ˈcɒntent/
 
+![[content.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The information and experiences (writing, images, video) published on social media
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `create content`: tạo nội dung
+- `user-generated content`: nội dung do người dùng sáng tạo
+- `content moderation`: sự kiểm duyệt nội dung mạng
+- `viral content`: nội dung lan truyền nhanh chóng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Creators need to post high-quality content regularly to keep their audience interested.

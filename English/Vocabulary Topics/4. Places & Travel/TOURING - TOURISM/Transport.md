@@ -2,8 +2,10 @@
 *Noun*
 > /ˈtræn.spɔːrt/
 
+![[transport.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The movement of people or goods from one place to another.
@@ -13,7 +15,11 @@
 💡 TRAN PÓT (Transport) trạm giao thông.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `public transport`: giao thông công cộng\n- `transport system`: hệ thống giao thông
+- `public transport`: giao thông công cộng
+- `transport system`: hệ thống giao thông
+- `convenient local transport`: phương tiện giao thông địa phương tiện lợi
+- `seamless transport connection`: sự kết nối giao thông thông suốt dễ dàng
+- `transport hub`: đầu mối giao thông trung chuyển lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I usually take public transport to save money.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌsʌbˈkɒntɪnənt/
 
+![[subcontinent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, distinguishable part of a continent, such as North America or southern Africa.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the Indian subcontinent`: tiểu lục địa Ấn Độ
+- `vast subcontinent`: tiểu lục địa bao la
+- `climate of the subcontinent`: khí hậu của tiểu lục địa
+- `across the subcontinent`: trên khắp tiểu lục địa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Indian subcontinent has a rich history.

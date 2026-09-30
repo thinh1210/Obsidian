@@ -2,8 +2,10 @@
 *adj.*
 > /ˈdæpər/
 
+![[dapper.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Neat and trim in dress, appearance, or bearing (usually used for men).
@@ -13,7 +15,10 @@
 💡 Dapper - đắp (dap) chăn vẫn bảnh bao.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `dapper gentleman`: quý ông bảnh bao\n- `look dapper`: trông bảnh bao
+- `dapper gentleman`: quý ông bảnh bao
+- `look dapper`: trông bảnh bao
+- `dapper look`: vẻ ngoài bảnh bao, lịch lãm
+- `look remarkably dapper`: trông vô cùng bảnh bao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He looked very dapper in his dark suit.

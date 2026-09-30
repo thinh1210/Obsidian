@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪm.bəl/
 
+![[symbol.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that represents or stands for something else, especially a material object representing something abstract.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `status symbol`: biểu tượng địa vị
 - `religious symbol`: biểu tượng tôn giáo
+- `cultural symbol`: biểu tượng văn hóa
+- `symbolic meaning`: ý nghĩa mang tính biểu tượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dove is a symbol of peace.

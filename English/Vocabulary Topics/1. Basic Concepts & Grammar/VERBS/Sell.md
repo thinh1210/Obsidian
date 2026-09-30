@@ -2,8 +2,10 @@
 *Verb*
 > /sel/
 
+![[sell.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something to someone else in return for money.
@@ -13,7 +15,10 @@
 💡 Seo (sell) phì sau khi bán hàng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `sell out`: bán sạch\n- `sell off`: bán phá giá
+- `sell out`: bán sạch
+- `sell off`: bán phá giá
+- `sell like hot cakes`: bán đắt như tôm tươi
+- `sell short`: đánh giá thấp / coi thường giá trị của ai/cái gì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I sell books.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɛmɪsɪz/
 
+![[premises.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A house or building, together with its land and outbuildings, occupied by a business or considered in an official context.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on the premises`: trong khuôn viên
 - `vacate the premises`: rời khỏi cơ sở
+- `business premises`: mặt bằng cơ sở kinh doanh
+- `leave the premises`: rời khỏi khu đất cơ sở
+- `licensed premises`: địa điểm được cấp phép kinh doanh rượu bia
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* No smoking on the premises.

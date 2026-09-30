@@ -2,8 +2,10 @@
 *noun*
 > /kwiːn/
 
+![[queen.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The female ruler of an independent state, or the wife of a king.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reigning queen`: nữ hoàng đang trị vì
 - `queen consort`: hoàng hậu (vợ vua)
+- `coronation of the queen`: lễ đăng quang của nữ hoàng
+- `queen dowager`: thái hậu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The queen waved to the crowd from her balcony.

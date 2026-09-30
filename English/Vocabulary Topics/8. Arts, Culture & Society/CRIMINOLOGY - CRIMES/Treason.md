@@ -2,8 +2,10 @@
 *noun*
 > /ˈtriːzn/
 
+![[treason.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The crime of betraying one's country, especially by attempting to overthrow the government
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high treason`: tội đại phản quốc
 - `accuse of treason`: cáo buộc phản quốc
+- `act of treason`: hành vi phản bội lại tổ quốc
+- `treasonous plot`: âm mưu nổi loạn phản quốc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was executed for committing treason against the king.

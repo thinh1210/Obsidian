@@ -2,8 +2,10 @@
 *noun*
 > /ˌpærəfəˈneɪliə/
 
+![[paraphernalia.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Miscellaneous articles, especially the equipment needed for a particular activity.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `skiing paraphernalia`: đồ nghề trượt tuyết
+- `fashion paraphernalia`: phụ kiện đồ nghề thời trang lỉnh kỉnh
+- `travel paraphernalia`: các đồ dùng lặt vặt mang theo du lịch
+- `all the paraphernalia`: tất cả các đồ nghề phụ kiện đi kèm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He arrived with a bag full of photographic paraphernalia.

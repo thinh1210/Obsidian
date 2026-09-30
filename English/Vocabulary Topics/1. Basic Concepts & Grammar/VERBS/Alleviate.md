@@ -2,8 +2,10 @@
 *Verb*
 > /əˈliː.vi.eɪt/
 
+![[alleviate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something bad such as pain or problems less severe.
@@ -13,7 +15,10 @@
 💡 À li vì ế (alleviate) nên giảm giá.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `alleviate pain`: giảm đau\n- `alleviate poverty`: giảm nghèo
+- `alleviate pain`: giảm đau
+- `alleviate poverty`: giảm nghèo
+- `alleviate symptoms`: làm thuyên giảm triệu chứng bệnh
+- `alleviate stress`: giải tỏa căng thẳng áp lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This pill alleviates pain.

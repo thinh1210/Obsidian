@@ -2,8 +2,10 @@
 *adjective.*
 > /əʊˈpeɪk/
 
+![[opaque.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not able to be seen through; not transparent; hard or impossible to understand.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `opaque glass`: kính mờ, thủy tinh mờ đục
 - `opaque liquid`: chất lỏng đục
+- `opaque jargon`: thuật ngữ tối nghĩa mơ hồ khó hiểu
+- `opaque process`: quy trình thiếu minh bạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We installed opaque curtains to block the streetlights.

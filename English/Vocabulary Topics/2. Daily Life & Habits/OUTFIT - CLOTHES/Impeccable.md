@@ -2,8 +2,10 @@
 *adj*
 > /ɪmˈpek.ə.bəl/
 
+![[impeccable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In accordance with the highest standards; faultless.
@@ -13,7 +15,10 @@
 💡 Impeccable -> Im péc cờ bô -> Im lặng và hoàn hảo như bức tranh.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `impeccable taste: gu thẩm mỹ hoàn hảo`
+- `impeccable taste`: gu thẩm mỹ hoàn hảo
+- `impeccable tailoring`: đường cắt may đo hoàn hảo không lỗi
+- `impeccably dressed`: ăn diện chỉn chu, không chê vào đâu được
+- `impeccable style`: phong cách thời trang hoàn mỹ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has impeccable taste in clothes.

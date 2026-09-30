@@ -2,8 +2,10 @@
 *noun*
 > /ˈlæŋɡwɪdʒ/
 
+![[language.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.

@@ -2,8 +2,10 @@
 *adjective.*
 > /ˌbaɪ.oʊ.mɪˈmet̬.ɪk/
 
+![[biomimetic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the emulation of the models, systems, and elements of nature for the purpose of solving complex human problems
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `biomimetic robot`: robot mô phỏng sinh học
+- `biomimetic design`: thiết kế mô phỏng sinh học
+- `biomimetic materials`: vật liệu mô phỏng sinh học
+- `biomimetic movement`: chuyển động mô phỏng sinh học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Scientists built a biomimetic robot that swims exactly like a real tuna.

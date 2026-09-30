@@ -2,8 +2,10 @@
 *n.*
 > /təˈpɑː.ɡrə.fi/
 
+![[topography.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of the natural and artificial physical features of an area.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `map the topography`: lập bản đồ địa hình
+- `varied topography`: địa hình đa dạng phong phú
+- `coastal topography`: đặc điểm địa hình dải ven biển
+- `rugged topography`: địa hình gồ ghề nhiều dốc đá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We studied the topography of the island.

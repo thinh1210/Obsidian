@@ -2,8 +2,10 @@
 *n.*
 > /skriːn/
 
+![[screen.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The flat surface on which movies are projected or show images
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `silver screen`: màn bạc (điện ảnh)
 - `on screen`: trên màn ảnh
+- `widescreen format`: định dạng tỷ lệ khung hình màn ảnh rộng
+- `split screen`: kỹ thuật chia nhỏ khung hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The actors appeared on screen for the first time.

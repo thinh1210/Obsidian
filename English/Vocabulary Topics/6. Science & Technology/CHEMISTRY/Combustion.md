@@ -2,8 +2,10 @@
 *noun*
 > /kəmˈbʌs.tʃən/
 
+![[combustion.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of burning something, involving a chemical reaction with oxygen.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `internal combustion`: đốt trong
 - `spontaneous combustion`: sự tự cháy
+- `complete combustion`: sự đốt cháy hoàn toàn
+- `combustion chamber`: buồng đốt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Oxygen is necessary for the combustion of wood.

@@ -2,8 +2,10 @@
 *n.*
 > /prəˈpəʊ.nənt/
 
+![[proponent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who advocates a theory, proposal, or project.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A strong proponent`: Một người ủng hộ mạnh mẽ
+- `leading proponent`: người ủng hộ tiên phong hàng đầu
+- `staunch proponent`: người ủng hộ nhiệt thành kiên định
+- `proponent of free speech`: người ủng hộ quyền tự do ngôn luận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a proponent of free speech.

@@ -2,8 +2,10 @@
 *Noun*
 > /ɪˈvent həˈraɪ.zən/
 
+![[event_horizon.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A boundary around a black hole beyond which no light or radiation can escape.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross the event horizon`: vượt qua chân trời sự kiện
 - `event horizon radius`: bán kính chân trời sự kiện
+- `black hole event horizon`: chân trời sự kiện hố đen
+- `beyond the event horizon`: vượt ra ngoài chân trời sự kiện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Once you pass the event horizon, there is no turning back.

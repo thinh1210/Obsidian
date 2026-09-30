@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪnvɔɪs/
 
+![[invoice.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A list of things provided or work done together with their cost, for payment at a later time

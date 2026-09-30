@@ -2,8 +2,10 @@
 *verb*
 > /læf/
 
+![[laugh.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `laugh out loud`: cười to
+- `laugh one's head off`: cười vỡ bụng (idiom)
+- `burst out laughing`: bật cười phá lên
+- `have the last laugh`: cười hả hê sau cùng (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kids laugh a lot.

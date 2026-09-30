@@ -2,8 +2,10 @@
 *Noun*
 > /ˈlænd.mɑːrk/
 
+![[landmark.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** TOURING - TOURISM
+**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or place that is easily recognized, especially one that you can use to judge where you are.
@@ -13,7 +15,11 @@
 💡 LEN MÁC (Landmark) làm mốc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `famous landmark`: danh thắng nổi tiếng\n- `historic landmark`: di tích lịch sử
+- `famous landmark`: danh thắng nổi tiếng
+- `historic landmark`: di tích lịch sử
+- `iconic landmark`: công trình danh lam mang tính biểu tượng
+- `architectural landmark`: tuyệt tác kiến trúc tiêu biểu
+- `visit famous landmarks`: chiêm ngưỡng những danh thắng lừng lẫy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Eiffel Tower is a famous landmark in Paris.

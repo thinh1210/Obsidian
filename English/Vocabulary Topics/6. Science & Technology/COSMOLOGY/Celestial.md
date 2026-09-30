@@ -2,8 +2,10 @@
 *Adjective*
 > /sɪˈles.ti.əl/
 
+![[celestial.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Positioned in or relating to the sky, or outer space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `celestial body`: thiên thể
 - `celestial mechanics`: cơ học thiên thể
+- `celestial navigation`: định vị thiên văn
+- `celestial sphere`: thiên cầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Stars and planets are celestial bodies.

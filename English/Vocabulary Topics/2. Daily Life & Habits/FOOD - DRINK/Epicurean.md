@@ -2,8 +2,10 @@
 *adj.*
 > /ˌep.ɪ.kjʊəˈriː.ən/
 
+![[epicurean.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Devoted to sensual enjoyment, especially that derived from fine food and drink.

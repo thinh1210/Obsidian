@@ -2,8 +2,10 @@
 *noun*
 > /ˈsen.sər/
 
+![[sensor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a device which detects or measures a physical property and records, indicates, or otherwise responds to it.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `motion sensor`: cảm biến chuyển động
 - `temperature sensor`: cảm biến nhiệt độ
+- `trigger the sensor`: kích hoạt cảm biến báo động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The lights turn on automatically thanks to a motion sensor.

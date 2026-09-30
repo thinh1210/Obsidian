@@ -2,8 +2,10 @@
 *noun.*
 > /ləʊn/
 
+![[loan.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount of money that is borrowed, often from a bank, and has to be paid back with interest.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bank loan`: khoản vay ngân hàng
 - `student loan`: khoản vay sinh viên
+- `take out a loan`: vay một khoản tiền
+- `loan default`: tình trạng vỡ nợ khoản vay
+- `unsecured loan`: khoản vay tín chấp không bảo đảm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She applied for a student loan to pay for her college tuition.

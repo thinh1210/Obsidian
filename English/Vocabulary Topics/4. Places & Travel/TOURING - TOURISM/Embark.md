@@ -2,8 +2,10 @@
 *Verb*
 > /ɪmˈbɑːrk/
 
+![[embark.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To go onto a ship, or to start a new journey or enterprise.
@@ -13,7 +15,11 @@
 💡 IM BÁC (Embark) im lặng bắt đầu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `embark on a journey`: bắt đầu một hành trình\n- `embark on a project`: bắt đầu một dự án
+- `embark on a journey`: bắt đầu một hành trình
+- `embark on a project`: bắt đầu một dự án
+- `embark on an adventure`: bước vào một chuyến phiêu lưu mới
+- `embark on a cruise`: lên tàu bắt đầu chuyến hải trình du lịch
+- `embark passengers`: đón hành khách lên tàu xe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We embark on our new adventure tomorrow.

@@ -2,8 +2,10 @@
 *Verb*
 > /kənˈsɪd.ər/
 
+![[consider.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend time thinking about a possibility.
@@ -13,7 +15,10 @@
 💡 Còn xi đơ (consider) thì phải xem xét lại.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `consider options`: xem xét lựa chọn\n- `take into consideration`: đưa vào xem xét
+- `consider options`: xem xét lựa chọn
+- `take into consideration`: đưa vào xem xét
+- `consider carefully`: cân nhắc kỹ lưỡng
+- `consider someone for a position`: xem xét đề bạt ai vào vị trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I will consider it.

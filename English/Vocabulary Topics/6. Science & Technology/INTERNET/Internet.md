@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.tə.net/
 
+![[internet.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A global system of interconnected computer networks that allows people to share information and communicate.

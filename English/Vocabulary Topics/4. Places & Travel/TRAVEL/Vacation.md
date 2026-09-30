@@ -2,8 +2,10 @@
 *noun*
 > /veɪˈkeɪ.ʃən/
 
+![[vacation.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A time when someone does not go to work or school

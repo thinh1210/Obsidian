@@ -2,8 +2,10 @@
 *noun/verb*
 > /səˈpiː.nə/
 
+![[subpoena.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A writ ordering a person to attend a court; summon (someone) with a subpoena.

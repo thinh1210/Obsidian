@@ -2,8 +2,10 @@
 *Noun*
 > /ˈviːzə/
 
+![[visa.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An endorsement on a passport indicating that the holder is allowed to enter.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Apply for a visa`: Xin thị thực
+- `visa requirement`: yêu cầu thị thực
+- `issue a visa`: cấp thị thực nhập cảnh
+- `visa on arrival`: thị thực cấp tại cửa khẩu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need a visa to visit the US.

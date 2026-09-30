@@ -2,8 +2,10 @@
 *adj, adv*
 > /ˈwiːkli/
 
+![[weekly.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done, produced, or occurring once a week.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `weekly magazine`: tạp chí hằng tuần
+- `weekly basis`: trên cơ sở hằng tuần
+- `weekly allowance`: tiền tiêu vặt hằng tuần
+- `weekly schedule`: lịch biểu hằng tuần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I buy a weekly magazine.

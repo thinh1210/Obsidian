@@ -2,8 +2,10 @@
 *noun*
 > /nəˈkrɒpəlɪs/
 
+![[necropolis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cemetery, especially a large one belonging to an ancient city
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient necropolis`: nghĩa địa cổ đại
 - `royal necropolis`: nghĩa địa cổ hoàng gia
+- `underground necropolis`: nghĩa địa cổ dưới lòng đất
+- `necropolis excavation`: cuộc khai quật nghĩa địa cổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Giza Necropolis contains the Great Pyramid.

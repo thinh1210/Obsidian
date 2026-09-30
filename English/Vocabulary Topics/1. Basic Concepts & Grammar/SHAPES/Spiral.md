@@ -2,8 +2,10 @@
 *n.*
 > /ˈspaɪə.rəl/
 
+![[spiral.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape like a coiled spring.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A spiral staircase`: Cầu thang xoắn ốc
 - `A downward spiral`: Vòng xoáy đi xuống
+- `spiral out of control`: mất kiểm soát liên tục / ngày càng tồi tệ
+- `inflationary spiral`: vòng xoáy lạm phát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The notebook has a spiral binding.

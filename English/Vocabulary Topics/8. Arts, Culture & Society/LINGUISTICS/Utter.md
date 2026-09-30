@@ -2,8 +2,10 @@
 *verb*
 > /ˈʌt.ər/
 
+![[utter.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to say something or to make a sound with your voice

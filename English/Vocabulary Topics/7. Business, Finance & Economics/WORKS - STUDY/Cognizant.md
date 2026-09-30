@@ -2,8 +2,10 @@
 *adj.*
 > /ˈkɒɡ.nɪ.zənt/
 
+![[cognizant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having knowledge or being aware of something
@@ -13,8 +15,11 @@
 💡 Cộc nỉ giận (cognizant) vì nhận thức rõ sai lầm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``cognizant of the facts`: hiểu rõ các sự thật`
-- ``fully cognizant`: hoàn toàn nhận thức được`
+- `cognizant of the facts`: hiểu rõ các sự thật
+- `fully cognizant`: hoàn toàn nhận thức được
+- `remain cognizant`: luôn luôn ý thức sâu sắc về
+- `cognizant of risks`: nhận thức rõ ràng các nguy cơ rủi ro
+- `make cognizant decisions`: đưa ra những quyết định dựa trên sự hiểu biết thấu đáo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We must be cognizant of the potential risks.

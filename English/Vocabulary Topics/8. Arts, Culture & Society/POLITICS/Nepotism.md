@@ -2,8 +2,10 @@
 *n*
 > /ˈnep.ə.tɪz.əm/
 
+![[nepotism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of giving unfair advantages to relatives or friends in positions of power.

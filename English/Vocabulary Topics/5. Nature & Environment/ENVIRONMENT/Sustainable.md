@@ -2,8 +2,10 @@
 *adj.*
 > /səˈsteɪnəbl/
 
+![[sustainable.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Able to be maintained at a certain rate or level; conserving an ecological balance by avoiding depletion of natural resources.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sustainable development`: phát triển bền vững
 - `sustainable agriculture`: nông nghiệp bền vững
+- `sustainable lifestyle`: lối sống bền vững thân thiện môi trường
+- `sustainable management`: quản lý bền vững
+- `economically sustainable`: bền vững về mặt kinh tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to find sustainable ways to produce food.

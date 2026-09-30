@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkæmrə/
 
+![[camera.mp3]]
+
 ---
-**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device for taking photographs.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digital camera`: máy ảnh kỹ thuật số
 - `take a camera`: mang theo máy ảnh
+- `camera lens`: ống kính máy ảnh du lịch
+- `point-and-shoot camera`: máy ảnh chụp lấy liền nhỏ gọn
+- `capture on camera`: ghi lại khoảnh khắc đẹp qua ống kính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought a new camera for the trip.

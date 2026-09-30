@@ -2,8 +2,10 @@
 *n.*
 > /ɡɪˈtɑːr/
 
+![[guitar.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stringed musical instrument, with six or twelve strings, played by plucking or strumming.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `acoustic guitar`: đàn ghi-ta thùng
 - `play the guitar`: chơi đàn ghi-ta
+- `electric guitar`: đàn ghi-ta điện
+- `strum the guitar`: quạt chả/gảy đàn ghi-ta
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He brought his guitar to the campfire and played some songs.

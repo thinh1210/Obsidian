@@ -2,8 +2,10 @@
 *adj.*
 > /səkˈsesfl/
 
+![[successful.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Accomplishing an aim or purpose.
@@ -13,7 +15,10 @@
 💡 Success (thành công) + ful.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `highly successful: cực kỳ thành công`
+- `highly successful`: cực kỳ thành công
+- `highly successful career`: sự nghiệp vô cùng thành công vang dội
+- `crowned with success`: được đền đáp bằng thành công mỹ mãn
+- `successful outcome`: kết quả thành công rực rỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a successful actor.

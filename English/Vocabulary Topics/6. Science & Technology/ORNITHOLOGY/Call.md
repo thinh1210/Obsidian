@@ -2,8 +2,10 @@
 *noun*
 > /kɔːl/
 
+![[call.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cry or sound made by a bird or other animal, typically to communicate.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bird call`: tiếng kêu của chim
 - `mating call`: tiếng kêu gọi bạn tình
+- `distress call`: tiếng kêu cứu báo động khẩn cấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I recognized the bird by its unique call.

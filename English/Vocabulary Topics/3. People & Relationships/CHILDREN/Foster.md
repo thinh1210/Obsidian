@@ -2,8 +2,10 @@
 *verb*
 > /ˈfɑː.stɚ/
 
+![[foster.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bring up a child that is not one's own by birth.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `foster parent`: cha mẹ nuôi
+- `foster home`: mái ấm nhận nuôi tạm thời
+- `foster care`: chế độ chăm sóc con nuôi
+- `foster a loving bond`: nuôi dưỡng gắn kết yêu thương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They foster children in need.

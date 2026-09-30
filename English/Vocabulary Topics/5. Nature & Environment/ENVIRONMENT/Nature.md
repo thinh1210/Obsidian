@@ -2,8 +2,10 @@
 *n.*
 > /ˈneɪtʃə(r)/
 
+![[nature.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The physical world and everything in it (such as plants, animals, mountains, oceans, stars, etc.) that is not made by people.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `protect nature`: bảo vệ thiên nhiên
 - `human nature`: bản chất con người
+- `back to nature`: quay về lối sống hòa nhập cùng thiên nhiên
+- `it is in the nature of things`: đó là quy luật tất yếu của tự nhiên
+- `commune with nature`: giao hòa cùng thiên nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love spending time in nature.

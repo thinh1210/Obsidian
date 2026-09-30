@@ -2,8 +2,10 @@
 *n.*
 > /ˈwɔːtə(r)/
 
+![[water.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `drinking water`: nước uống
 - `water pollution`: ô nhiễm nước
+- `in deep water`: gặp rắc rối lớn / sa lầy trong khó khăn
+- `keep one's head above water`: cố gắng xoay sở thoát khỏi cảnh nợ nần
+- `water conservation`: bảo tồn và tiết kiệm nguồn nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Remember to drink enough water every day.

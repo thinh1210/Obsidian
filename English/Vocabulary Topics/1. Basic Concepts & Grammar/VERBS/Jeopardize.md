@@ -2,8 +2,10 @@
 *Verb*
 > /ˈdʒep.ə.daɪz/
 
+![[jeopardize.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put something such as a plan or system in danger of being harmed or destroyed.
@@ -13,7 +15,10 @@
 💡 Dép phơi ngoài (jeopardize) đường gây nguy hiểm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `jeopardize a career`: gây nguy hiểm cho sự nghiệp\n- `seriously jeopardize`: đe dọa nghiêm trọng
+- `jeopardize a career`: gây nguy hiểm cho sự nghiệp
+- `seriously jeopardize`: đe dọa nghiêm trọng
+- `jeopardize national security`: gây nguy hại đến an ninh quốc gia
+- `jeopardize chances of success`: làm tổn hại đến cơ hội thành công
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't jeopardize our friendship.

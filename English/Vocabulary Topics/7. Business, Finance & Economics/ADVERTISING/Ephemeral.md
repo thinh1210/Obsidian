@@ -2,8 +2,10 @@
 *adjective*
 > /ɪˈfemərəl/
 
+![[ephemeral.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for a very short time.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ephemeral content`: nội dung ngắn hạn
 - `ephemeral nature`: bản chất chóng tàn
+- `ephemeral trend`: xu hướng ngắn ngủi / sớm nở tối tàn
+- `ephemeral media`: phương tiện truyền thông tạm thời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The morning dew is beautiful but ephemeral.

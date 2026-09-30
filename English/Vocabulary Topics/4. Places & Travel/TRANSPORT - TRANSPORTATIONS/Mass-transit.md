@@ -2,8 +2,10 @@
 *noun*
 > /ˌmæs ˈtrænzɪt/
 
+![[mass_transit.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Public transportation, especially in an urban area.

@@ -2,8 +2,10 @@
 *n*
 > /ˈsɪt.ɪ.zən/
 
+![[citizen.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is a legal member of a country.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈspæn.ər/
 
+![[spanner.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool with a shaped opening or jaw for gripping and turning a nut or bolt.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `throw a spanner in the works`: phá hỏng kế hoạch
 - `box spanner`: cờ lê ống
+- `adjustable spanner`: mỏ lết có thể điều chỉnh
+- `spanner socket`: đầu khẩu cờ-lê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He used a spanner to tighten the nuts on the bicycle wheel.

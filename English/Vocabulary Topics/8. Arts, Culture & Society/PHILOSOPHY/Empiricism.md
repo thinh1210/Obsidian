@@ -2,8 +2,10 @@
 *n.*
 > /ɪmˈpɪr.ɪ.sɪ.zəm/
 
+![[empiricism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The theory that all knowledge is derived from sense-experience.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `classical empiricism`: chủ nghĩa duy nghiệm cổ điển
 - `logical empiricism`: chủ nghĩa duy nghiệm logic
+- `empirical evidence`: bằng chứng thực nghiệm
+- `foundations of empiricism`: nền tảng của chủ nghĩa kinh nghiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Cooking is an art based on empiricism rather than reading recipes.

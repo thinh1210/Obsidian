@@ -2,8 +2,10 @@
 *v.*
 > /ˈwɔː.tər/
 
+![[water.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To pour water on to plants or the soil to keep them healthy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `water the garden`: tưới vườn
 - `water daily`: tưới nước hàng ngày
+- `water down`: làm loãng / làm giảm bớt hiệu lực
+- `make someone's mouth water`: khiến ai thèm nhỏ dãi
+- `hold water`: hợp lý, đứng vững (lý lẽ, luận điểm)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't forget to water the flowers before you leave.

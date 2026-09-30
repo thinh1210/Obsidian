@@ -2,8 +2,10 @@
 *noun*
 > /saʊθ/
 
+![[south.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The direction that is to your right when you face the rising sun.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `down south`: xuống miền Nam
+- `due south`: chính nam
+- `South Pole`: Nam Cực
+- `deep south`: miền viễn nam
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Birds fly south in the winter.

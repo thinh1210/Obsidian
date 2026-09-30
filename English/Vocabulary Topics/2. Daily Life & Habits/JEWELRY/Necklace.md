@@ -2,8 +2,10 @@
 *noun*
 > /ˈnek.ləs/
 
+![[necklace.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewelry worn around the neck.
@@ -13,7 +15,10 @@
 💡 Neck (cổ) + lace (dây) = dây chuyền.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wear a necklace: đeo dây chuyền`
+- `wear a necklace`: đeo dây chuyền
+- `choker necklace`: dây chuyền ôm sát cổ
+- `statement necklace`: vòng cổ tạo điểm nhấn nổi bật
+- `string of pearls necklace`: chuỗi vòng cổ ngọc trai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He gave her a necklace.

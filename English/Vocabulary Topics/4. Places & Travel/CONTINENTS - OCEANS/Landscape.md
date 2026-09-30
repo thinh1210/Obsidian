@@ -2,8 +2,10 @@
 *noun*
 > /ˈlændskeɪp/
 
+![[landscape.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `beautiful landscape`: cảnh quan tươi đẹp
+- `rugged landscape`: cảnh quan gồ ghề hiểm trở
+- `dramatic landscape`: phong cảnh hùng vĩ ấn tượng
+- `natural landscape`: cảnh quan thiên nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I painted the mountain landscape.

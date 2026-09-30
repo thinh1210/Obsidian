@@ -2,8 +2,10 @@
 *noun*
 > /əˈfens/
 
+![[offence.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An illegal act; a crime
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `minor offence`: vi phạm nhỏ
 - `criminal offence`: tội hình sự
+- `first-time offence`: hành vi vi phạm pháp luật lần đầu
+- `punishable offence`: hành vi phạm tội có thể bị pháp luật trừng phạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Shoplifting is a minor offence but can still lead to a arrest.

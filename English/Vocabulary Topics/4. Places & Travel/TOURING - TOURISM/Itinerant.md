@@ -2,8 +2,10 @@
 *Adjective/Noun*
 > /aɪˈtɪn.ə.rənt/
 
+![[itinerant.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM
+**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travelling from one place to another, usually to work for a short period.
@@ -13,7 +15,9 @@
 💡 AI TÍN NỞ RANH (Itinerant) người lưu động.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `itinerant worker`: công nhân lưu động\n- `itinerant lifestyle`: lối sống lưu động
+- `itinerant worker`: công nhân lưu động
+- `itinerant lifestyle`: lối sống lưu động
+- `itinerant performer`: nghệ sĩ biểu diễn du mục rày đây mai đó
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He lives an itinerant lifestyle, moving from town to town.

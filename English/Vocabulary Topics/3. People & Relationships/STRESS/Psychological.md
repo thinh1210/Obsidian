@@ -2,8 +2,10 @@
 *adj.*
 > /ˌsaɪkəˈlɒdʒɪkl/
 
+![[psychological.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of, affecting, or arising in the mind; related to the mental and emotional state of a person
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `psychological effect`: ảnh hưởng tâm lý
 - `psychological trauma`: chấn thương tâm lý
+- `psychological warfare`: chiến tranh tâm lý
+- `psychological resilience`: sức bền và sự hồi phục tâm lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The psychological impact of the war is huge.

@@ -2,8 +2,10 @@
 *verb*
 > /əˈdɑːpt/
 
+![[adopt.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Legally take another's child and bring it up as one's own.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adopt a child`: nhận nuôi một đứa trẻ
+- `adopt a healthy lifestyle`: áp dụng lối sống lành mạnh
+- `adoptive parents`: cha mẹ nuôi
+- `put up for adoption`: cho đi làm con nuôi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They decided to adopt a baby.

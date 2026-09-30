@@ -2,8 +2,10 @@
 *noun*
 > /ˈsuːt.keɪs/
 
+![[suitcase.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, rectangular container to carry clothes

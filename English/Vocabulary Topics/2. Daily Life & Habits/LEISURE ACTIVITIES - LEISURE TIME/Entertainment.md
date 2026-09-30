@@ -2,8 +2,10 @@
 *n*
 > /ˌentəˈteɪnmənt/
 
+![[entertainment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of providing or being provided with amusement or enjoyment.
@@ -13,7 +15,11 @@
 💡 Entertain (giải trí) + ment (sự) -> sự giải trí.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `live entertainment`: giải trí trực tiếp\n- `entertainment industry`: ngành công nghiệp giải trí
+- `live entertainment`: giải trí trực tiếp
+- `entertainment industry`: ngành công nghiệp giải trí
+- `source of entertainment`: nguồn giải trí
+- `home entertainment system`: dàn thiết bị giải trí tại gia
+- `family entertainment`: trò chơi giải trí dành cho gia đình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* TV is our main source of entertainment.

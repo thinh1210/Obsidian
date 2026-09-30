@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈpɑːt.mənt/
 
+![[department.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A division of a large organization or business
@@ -13,7 +15,10 @@
 💡 Đi "đáp" (dep) "án" (part) của "mình" (ment) vào đúng phòng ban
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``HR department`: bộ phận nhân sự
+- `HR department`: bộ phận nhân sự
+- `head of department`: trưởng bộ phận phòng ban
+- `inter-departmental meeting`: cuộc họp giao ban liên phòng ban
+- `finance department`: phòng ban phụ trách tài chính kế toán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He works in the sales department.

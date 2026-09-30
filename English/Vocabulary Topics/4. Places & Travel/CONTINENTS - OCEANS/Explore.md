@@ -2,8 +2,10 @@
 *verb*
 > /ɪkˈsplɔː(r)/
 
+![[explore.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `explore the world`: khám phá thế giới
+- `explore uncharted waters`: thám hiểm vùng biển hoang sơ
+- `explore new territories`: khám phá những vùng đất mới
+- `eager to explore`: háo hức khám phá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We decided to explore the island.

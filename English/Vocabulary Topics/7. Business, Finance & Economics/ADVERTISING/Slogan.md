@@ -2,8 +2,10 @@
 *noun*
 > /ˈsləʊɡən/
 
+![[slogan.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short and striking or memorable phrase used in advertising.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `catchy slogan`: khẩu hiệu dễ nhớ
 - `advertising slogan`: khẩu hiệu quảng cáo
+- `memorable slogan`: khẩu hiệu ấn tượng, khó quên
+- `corporate slogan`: khẩu hiệu của tập đoàn
+- `coin a slogan`: nghĩ ra / tạo khẩu hiệu độc đáo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company's slogan is simple and memorable.

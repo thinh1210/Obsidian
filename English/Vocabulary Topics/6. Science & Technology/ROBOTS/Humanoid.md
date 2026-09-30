@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈhjuː.mə.nɔɪd/
 
+![[humanoid.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ROBOTS
+**Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an appearance or character resembling that of a human
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `humanoid robot`: robot dáng người
+- `bipedal humanoid`: robot dáng người hai chân
+- `humanoid torso`: thân robot hình người
+- `humanoid companion`: bạn đồng hành robot dáng người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Honda's ASIMO was one of the most famous humanoid robots in the world.

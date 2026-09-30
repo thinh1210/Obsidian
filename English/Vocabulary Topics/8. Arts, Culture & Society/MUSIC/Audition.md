@@ -2,8 +2,10 @@
 *n.*
 > /ɔːˈdɪʃ.ən/
 
+![[audition.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An interview for a role or job as a singer, actor, dancer, or musician, consisting of a practical demonstration of their candidate's suitability.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pass the audition`: vượt qua buổi thử giọng
 - `hold auditions`: tổ chức các buổi thử giọng
+- `audition for a role`: thử giọng/thử vai cho một nhân vật
+- `blind audition`: vòng thử giọng giấu mặt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was nervous before her audition for the music academy.

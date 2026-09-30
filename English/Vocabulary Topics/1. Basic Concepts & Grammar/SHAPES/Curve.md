@@ -2,8 +2,10 @@
 *n.*
 > /kɜːv/
 
+![[curve.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line or outline which gradually deviates from being straight for some or all of its length.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A gentle curve`: Đường cong nhẹ
 - `A sharp curve`: Khúc cua gắt
+- `ahead of the curve`: đi trước thời đại / dẫn đầu xu thế
+- `learning curve`: đường cong học tập / quá trình tích lũy kinh nghiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The road has a sharp curve ahead.

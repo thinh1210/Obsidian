@@ -2,8 +2,10 @@
 *noun*
 > /ˈfiːdbæk/
 
+![[feedback.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Information about reactions to a product, a person's performance of a task, etc., used as a basis for improvement
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `constructive feedback`: phản hồi mang tính xây dựng
 - `receive feedback`: nhận phản hồi
+- `gather feedback`: thu thập ý kiến đóng góp từ người dùng
+- `negative feedback`: những lời phàn nàn chê trách từ khách hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We asked the guests for their feedback on the dinner party.

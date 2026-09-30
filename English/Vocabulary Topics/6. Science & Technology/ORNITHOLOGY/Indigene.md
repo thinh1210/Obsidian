@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.dɪ.dʒiːn/
 
+![[indigene.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An indigenous person, animal, or plant.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `native indigene`: sinh vật bản địa gốc
 - `indigene species`: loài bản địa
+- `indigenous species`: loài bản địa của hệ sinh thái
+- `indigenous knowledge`: tri thức dân gian bản địa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This beautiful parrot is an indigene of the tropical rainforest.

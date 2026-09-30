@@ -2,8 +2,10 @@
 *noun*
 > /ˌstræŋ.ɡjʊˈleɪ.ʃən/
 
+![[strangulation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of killing or injuring by compressing the throat, cutting off air or blood supply.

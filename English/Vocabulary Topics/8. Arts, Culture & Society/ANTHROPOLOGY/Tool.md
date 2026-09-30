@@ -2,8 +2,10 @@
 *n.*
 > /tuːl/
 
+![[tool.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device or implement, especially one held in the hand, used to carry out a particular function.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stone tool`: công cụ bằng đá
 - `essential tool`: công cụ thiết yếu
+- `primitive tool`: công cụ thô sơ / nguyên thủy
+- `flint tool`: công cụ đá lửa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A hammer is a useful tool.

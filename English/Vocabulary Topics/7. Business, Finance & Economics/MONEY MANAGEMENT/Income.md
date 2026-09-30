@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɪnkʌm/
 
+![[income.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money received, especially on a regular basis, for work or through investments.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `steady income`: thu nhập ổn định
 - `disposable income`: thu nhập khả dụng
+- `multiple streams of income`: nhiều nguồn thu nhập đa dạng
+- `passive income`: dòng thu nhập thụ động bền vững
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her monthly income is enough to cover rent and food comfortably.

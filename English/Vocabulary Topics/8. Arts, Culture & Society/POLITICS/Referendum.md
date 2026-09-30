@@ -2,8 +2,10 @@
 *n*
 > /ˌref.əˈren.dəm/
 
+![[referendum.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A direct vote in which citizens decide on a specific political question.

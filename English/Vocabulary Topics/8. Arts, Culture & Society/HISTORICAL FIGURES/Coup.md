@@ -2,8 +2,10 @@
 *n.*
 > /kuː/
 
+![[coup.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden, violent, and illegal seizure of power from a government
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `military coup`: đảo chính quân sự
 - `stage a coup`: tiến hành đảo chính
+- `bloodless coup`: cuộc đảo chính không đổ máu
+- `coup attempt`: âm mưu đảo chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The president was overthrown in a military coup.

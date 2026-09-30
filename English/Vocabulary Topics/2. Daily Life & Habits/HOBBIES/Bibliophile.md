@@ -2,8 +2,10 @@
 *noun*
 > /ˈbɪbliəfaɪl/
 
+![[bibliophile.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who collects or has a great love of books.

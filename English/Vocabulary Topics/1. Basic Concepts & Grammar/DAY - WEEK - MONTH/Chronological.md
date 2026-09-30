@@ -2,8 +2,10 @@
 *adj*
 > /ˌkrɒnəˈlɒdʒɪkəl/
 
+![[chronological.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Starting with the earliest and following the order in which they occurred.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in chronological order`: theo trình tự thời gian
+- `chronological sequence`: trình tự theo thời gian
+- `reverse chronological order`: thứ tự thời gian đảo ngược
+- `chronological age`: tuổi theo thời gian (tuổi thực)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Put the events in chronological order.

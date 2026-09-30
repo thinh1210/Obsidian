@@ -2,8 +2,10 @@
 *n.*
 > /kəˈmjuː.nə.ti/
 
+![[community.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of people living in the same place or having a particular characteristic in common.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A local community`: Một cộng đồng địa phương
+- `close-knit community`: cộng đồng gắn kết keo sơn
+- `sense of community`: ý thức cộng đồng sâu sắc
+- `community service`: lao động công ích phục vụ cộng đồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We support our community.

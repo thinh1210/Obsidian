@@ -2,8 +2,10 @@
 *noun*
 > /ˌpær.ə.fəˈneɪ.li.ə/
 
+![[paraphernalia.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** miscellaneous articles, especially the equipment needed for a particular activity.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sports paraphernalia`: đồ dùng thể thao linh tinh
 - `office paraphernalia`: đồ dùng văn phòng lặt vặt
+- `drug paraphernalia`: dụng cụ phục vụ ma túy
+- `fishing paraphernalia`: đồ nghề câu cá lỉnh kỉnh
+- `kitchen paraphernalia`: đủ loại dụng cụ làm bếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The room was cluttered with books and writing paraphernalia.

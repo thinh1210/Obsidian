@@ -2,8 +2,10 @@
 *n.*
 > /ˈspɔːts.mən.ʃɪp/
 
+![[sportsmanship.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fair and generous behavior or treatment of others, especially in a sports contest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `poor sportsmanship`: tinh thần thể thao kém
 - `display outstanding sportsmanship`: thể hiện tinh thần thượng võ xuất sắc
+- `spirit of sportsmanship`: tinh thần thể thao cao thượng
+- `act of sportsmanship`: nghĩa cử đẹp của tinh thần thượng võ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Shaking hands with your opponent is a basic rule of good sportsmanship.

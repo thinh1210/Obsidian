@@ -2,8 +2,10 @@
 *noun.*
 > /ˈbɒmpəzɪt/
 
+![[composite.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A material made from two or more constituent materials with significantly different physical or chemical properties.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `composite material`: vật liệu composite
 - `fiber composite`: composite sợi
+- `carbon fiber composite`: composite sợi carbon
+- `composite index`: chỉ số tổng hợp đa yếu tố
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The deck was constructed using a wood-plastic composite that requires no painting.

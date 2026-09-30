@@ -2,8 +2,10 @@
 *adj.*
 > /ˈkɒn.veks/
 
+![[convex.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an outline or surface curved like the exterior of a circle or sphere.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A convex lens`: Thấu kính lồi
 - `A convex mirror`: Gương cầu lồi
+- `convex hull`: bao lồi (hình học tính toán)
+- `convex surface`: bề mặt lồi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A convex lens magnifies objects.

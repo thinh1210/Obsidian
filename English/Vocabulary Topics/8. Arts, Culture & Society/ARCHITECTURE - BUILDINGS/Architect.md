@@ -2,8 +2,10 @@
 *n.*
 > /ˈɑːkɪtekt/
 
+![[architect.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who designs buildings and in many cases also supervises their construction
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `landscape architect`: kiến trúc sư cảnh quan
 - `famous architect`: kiến trúc sư nổi tiếng
+- `chief architect`: kiến trúc sư trưởng
+- `award-winning architect`: kiến trúc sư từng đoạt giải thưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to become an architect when she grows up.

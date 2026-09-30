@@ -2,8 +2,10 @@
 *noun*
 > /ˈsʌb.stəns/
 
+![[substance.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular kind of matter with uniform properties.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chemical substance`: chất hóa học
 - `hazardous substance`: chất nguy hiểm
+- `pure substance`: chất tinh khiết
+- `toxic substance`: chất độc hại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police found a mysterious white substance in the car.

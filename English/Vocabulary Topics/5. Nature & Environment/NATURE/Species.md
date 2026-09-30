@@ -2,8 +2,10 @@
 *Noun*
 > /ˈspiːʃiːz/
 
+![[species.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of living organisms consisting of similar individuals.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endangered species`: loài có nguy cơ tuyệt chủng
 - `native species`: loài bản địa
+- `rare species`: loài quý hiếm
+- `endangered species list`: danh sách các loài gặp nguy hiểm
+- `protect wild species`: bảo vệ các loài động thực vật hoang dã
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There are thousands of butterfly species in this area.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌænɪˈmeɪʃn/
 
+![[animation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The technique of photographing successive drawings or positions of puppets to create an illusion of movement
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `computer animation`: hoạt hình máy tính
 - `traditional animation`: hoạt hình truyền thống
+- `stop-motion animation`: hoạt hình tĩnh vật từng khung hình
+- `hand-drawn animation`: hoạt hình vẽ tay truyền thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pixar is famous for its computer animation.

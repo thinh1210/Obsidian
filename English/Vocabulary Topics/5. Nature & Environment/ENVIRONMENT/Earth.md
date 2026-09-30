@@ -2,8 +2,10 @@
 *n.*
 > /ɜːθ/
 
+![[earth.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The planet on which we live; the world.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `planet Earth`: hành tinh Trái Đất
 - `save the Earth`: cứu lấy Trái Đất
+- `down to earth`: thực tế, khiêm tốn, gần gũi
+- `cost the earth`: cực kỳ đắt đỏ, tốn kém cả gia tài
+- `move heaven and earth`: xoay trời chuyển đất / làm mọi cách để đạt mục đích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Earth rotates on its axis.

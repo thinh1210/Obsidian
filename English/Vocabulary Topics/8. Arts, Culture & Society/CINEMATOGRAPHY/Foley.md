@@ -2,8 +2,10 @@
 *n.*
 > /ˈfoʊli/
 
+![[foley.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting images of sound effects created manually and added in post-production
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `foley artist`: nghệ sĩ tạo tiếng động foley
 - `foley studio`: phòng thu âm tiếng động foley
+- `foley effects`: hiệu ứng tiếng động mô phỏng thực tế
+- `foley stage`: phòng thu tiếng động hậu kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The foley artist used celery to simulate the sound of breaking bones.

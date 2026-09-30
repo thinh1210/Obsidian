@@ -2,8 +2,10 @@
 *n*
 > /ˈhaɪdʒiːn/
 
+![[hygiene.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.

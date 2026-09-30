@@ -2,8 +2,10 @@
 *adj*
 > /ˌsʌbtəˈreɪniən/
 
+![[subterranean.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Literature | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C1 | **Ngữ cảnh:** Academic/Literature | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing, occurring, or done under the earth's surface.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `subterranean cave`: hang động ngầm
+- `subterranean river`: dòng sông ngầm dưới lòng đất
+- `subterranean passage`: lối đi ngầm
+- `subterranean waters`: mạch nước ngầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They found a subterranean river.

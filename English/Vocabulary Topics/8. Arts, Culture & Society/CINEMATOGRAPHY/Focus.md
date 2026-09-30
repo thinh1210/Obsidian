@@ -2,8 +2,10 @@
 *v.*
 > /ˈfəʊkəs/
 
+![[focus.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To adjust the lens of a camera to make an image clear and sharp
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `out of focus`: bị nhòe, không rõ nét
 - `soft focus`: nét mềm (mờ nghệ thuật)
+- `deep focus`: độ sâu trường ảnh sâu nét toàn bộ
+- `rack focus`: kỹ thuật đảo tiêu điểm ống kính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You need to focus the camera before taking the shot.

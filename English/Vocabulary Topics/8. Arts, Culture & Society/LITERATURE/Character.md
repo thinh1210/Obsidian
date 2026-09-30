@@ -2,8 +2,10 @@
 *noun*
 > /ˈkær.ək.tər/
 
+![[character.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE
+**Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person in a novel, play, or movie.

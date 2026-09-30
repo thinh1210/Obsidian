@@ -2,8 +2,10 @@
 *adj.*
 > /friː/
 
+![[free.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to act or be done as one wishes; not under the control of another.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `free will`: tự do ý chí
 - `free spirit`: tinh thần tự do
+- `set someone free`: trả tự do cho ai
+- `free rein`: toàn quyền tự quyết hành động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You are free to choose whatever you want to eat.

@@ -2,8 +2,10 @@
 *n*
 > /ˈwɒl.ɪt/
 
+![[wallet.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small case for money
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `leather wallet`: ví da
+- `open one's wallet`: mở hầu bao, chi tiền
+- `wallet-friendly`: thân thiện với túi tiền, giá cả vừa phải
+- `bulging wallet`: ví tiền dày cộm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I lost my wallet.

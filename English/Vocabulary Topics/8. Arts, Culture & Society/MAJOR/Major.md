@@ -2,8 +2,10 @@
 *adj., n.*
 > /ˈmeɪ.dʒər/
 
+![[major.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Large, important, or serious; a university subject chosen as the main area of study.

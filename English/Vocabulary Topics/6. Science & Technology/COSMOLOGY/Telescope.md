@@ -2,8 +2,10 @@
 *Noun*
 > /ˈtel.ɪ.skəʊp/
 
+![[telescope.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An optical instrument designed to make distant objects appear nearer.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `space telescope`: kính viễn vọng không gian
 - `look through a telescope`: nhìn qua kính viễn vọng
+- `James Webb Space Telescope`: Kính viễn vọng không gian James Webb
+- `astronomical telescope`: kính viễn vọng thiên văn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You can see the rings of Saturn through this telescope.

@@ -2,8 +2,10 @@
 *verb*
 > /sɔːr/
 
+![[soar.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To fly high in the sky, especially without moving the wings.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `soar high`: lượn cao
 - `soar into the sky`: bay vút lên bầu trời
+- `soaring temperatures`: nhiệt độ tăng cao vọt đột biến
+- `spirits soar`: tinh thần phấn chấn thăng hoa (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched the eagles soar above the mountains.

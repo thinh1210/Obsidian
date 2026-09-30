@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈvaɪs/
 
+![[device.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mobile device`: thiết bị di động
 - `tracking device`: thiết bị định vị
+- `leave someone to their own devices`: để mặc ai tự xoay xở (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please turn off all electronic devices during the flight.

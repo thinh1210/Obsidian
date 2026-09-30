@@ -2,8 +2,10 @@
 *Noun*
 > /hoʊˈtɛl/
 
+![[hotel.mp3]]
+
 ---
-**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where you pay to stay when you are on holiday.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `book a hotel`: đặt khách sạn
 - `stay in a hotel`: ở khách sạn
+- `boutique hotel`: khách sạn boutique nhỏ xinh độc đáo
+- `hotel amenities`: các tiện ích dịch vụ chu đáo của khách sạn
+- `luxury hotel suite`: phòng tổng thống sang trọng tại khách sạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stayed at a nice hotel.

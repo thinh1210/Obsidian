@@ -2,8 +2,10 @@
 *noun*
 > /ˌɪn.dɪˈpen.dəns/
 
+![[independence.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or state of being independent, self-governing, and free from outside control.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gain independence`: giành độc lập
 - `declaration of independence`: tuyên ngôn độc lập
+- `proclaim independence`: tuyên bố độc lập
+- `war of independence`: chiến tranh giành độc lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country gained its independence after years of struggle.

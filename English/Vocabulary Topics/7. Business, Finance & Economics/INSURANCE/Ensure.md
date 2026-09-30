@@ -2,8 +2,10 @@
 *v.*
 > /ɪnˈʃʊər/
 
+![[ensure.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To make certain that something will occur or be the case.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ensure safety`: đảm bảo an toàn
 - `ensure compliance`: đảm bảo sự tuân thủ
+- `ensure accountability`: bảo đảm tính minh bạch và trách nhiệm
+- `ensure fairness`: bảo đảm tính công bằng trong chi trả
+- `take steps to ensure`: thực hiện mọi giải pháp để đảm bảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Having health insurance ensures you get medical care when needed.

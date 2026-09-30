@@ -2,8 +2,10 @@
 *adj.*
 > /ɡlæd/
 
+![[glad.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleased, delighted.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `glad to hear`: rất vui khi nghe
+- `glad rags`: bộ quần áo dạ hội đẹp nhất (idiom)
+- `glad tidings`: những tin vui tốt lành
+- `more than glad`: rất sẵn lòng và hạnh phúc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am glad to see you.

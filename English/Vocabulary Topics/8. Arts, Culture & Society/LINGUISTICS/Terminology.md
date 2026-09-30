@@ -2,8 +2,10 @@
 *noun*
 > /ˌtɜː.mɪˈnɒl.ə.dʒi/
 
+![[terminology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** special words or expressions used in relation to a particular subject or activity

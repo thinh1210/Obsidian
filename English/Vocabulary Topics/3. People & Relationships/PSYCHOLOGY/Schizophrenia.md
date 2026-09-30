@@ -2,8 +2,10 @@
 *noun*
 > /ˌskɪt.səˈfriː.ni.ə/
 
+![[schizophrenia.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A severe psychiatric disorder with symptoms of emotional instability, detachment from reality.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `diagnosed with schizophrenia`: được chẩn đoán mắc tâm thần phân liệt
+- `paranoid schizophrenia`: tâm thần phân liệt thể hoang tưởng
+- `onset of schizophrenia`: sự khởi phát của bệnh tâm thần phân liệt
+- `schizophrenic episode`: đợt bộc phát của bệnh tâm thần phân liệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was diagnosed with schizophrenia.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈrɪvər/
 
+![[river.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large natural stream of water flowing in a channel to the sea.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `river bank`: bờ sông
 - `flow downstream`: chảy về hạ nguồn
+- `up the river`: ngược dòng sông / phải ngồi tù (tiếng lóng)
+- `cross the river`: vượt qua dòng sông
+- `river current`: dòng chảy xiết của con sông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We sat on the river bank and fished.

@@ -2,8 +2,10 @@
 *adj.*
 > /fəˈrensɪk/
 
+![[forensic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the use of scientific methods and techniques to investigate crime

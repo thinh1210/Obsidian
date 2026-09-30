@@ -2,8 +2,10 @@
 *Verb*
 > /kəmˈpeər/
 
+![[compare.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To examine or look for the difference between two or more things.
@@ -13,7 +15,10 @@
 💡 Cơm phở (compare) thì phải so sánh.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `compare with/to`: so sánh với\n- `compare prices`: so sánh giá cả
+- `compare with/to`: so sánh với
+- `compare prices`: so sánh giá cả
+- `compare favorably with`: nổi trội / tốt đẹp hơn khi so sánh với
+- `beyond compare`: không gì sánh bằng / vô song
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't compare us.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌɑːkiˈɒlədʒi/
 
+![[archaeology.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of human history and prehistory through the excavation of sites and the analysis of artifacts
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `field of archaeology`: lĩnh vực khảo cổ học
 - `modern archaeology`: khảo cổ học hiện đại
+- `underwater archaeology`: khảo cổ học dưới nước
+- `experimental archaeology`: khảo cổ học thực nghiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to study archaeology at university.

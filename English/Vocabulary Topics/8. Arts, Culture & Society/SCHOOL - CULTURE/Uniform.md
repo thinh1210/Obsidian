@@ -2,8 +2,10 @@
 *noun*
 > /ˈjuːnɪfɔːm/
 
+![[uniform.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The distinctive clothing worn by members of the same organization or school.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈesθiːt/
 
+![[aesthete.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** A STYLISH PERSON
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who understands and enjoys beauty.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `true aesthete`: người yêu cái đẹp đích thực
+- `refined aesthete`: người có gu thẩm mỹ tao nhã
+- `artistic aesthete`: người say mê nghệ thuật
+- `self-proclaimed aesthete`: người tự nhận là sành nghệ thuật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* As an aesthete, he spends hours in art galleries.

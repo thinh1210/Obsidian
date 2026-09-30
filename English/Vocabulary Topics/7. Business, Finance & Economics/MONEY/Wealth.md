@@ -2,8 +2,10 @@
 *noun*
 > /welθ/
 
+![[wealth.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MONEY
+**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An abundance of valuable possessions or money
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wealth distribution`: sự phân bổ của cải
+- `accumulate wealth`: tích tụ của cải tài sản
+- `wealth of experience`: một kho tàng kinh nghiệm phong phú
+- `distribution of wealth`: sự phân chia của cải trong xã hội
+- `generational wealth`: khối tài sản truyền qua nhiều thế hệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He used his wealth to build libraries in poor communities.

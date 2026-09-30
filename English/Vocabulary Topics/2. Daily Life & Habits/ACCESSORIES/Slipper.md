@@ -2,8 +2,10 @@
 *noun*
 > /ˈslɪpə(r)/
 
+![[slipper.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A comfortable slip-on shoe that is worn indoors.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of slippers`: một đôi dép
+- `fluffy slippers`: dép bông đi trong nhà êm ái
+- `bedroom slippers`: dép đi trong phòng ngủ
+- `slip into slippers`: xỏ chân vào đôi dép lê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I put on my slippers when I get home.

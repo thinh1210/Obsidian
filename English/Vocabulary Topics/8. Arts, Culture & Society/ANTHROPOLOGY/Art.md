@@ -2,8 +2,10 @@
 *n.*
 > /ɑːt/
 
+![[art.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expression or application of human creative skill and imagination.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prehistoric art`: nghệ thuật tiền sử
 - `performing arts`: nghệ thuật biểu diễn
+- `rock art`: nghệ thuật tranh khắc trên đá
+- `indigenous art`: nghệ thuật bản địa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I enjoy visiting art galleries.

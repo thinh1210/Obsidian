@@ -2,8 +2,10 @@
 *n.*
 > /taʊn/
 
+![[town.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place with many houses, smaller than a city.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `small town`: thị trấn nhỏ
+- `hometown`: quê nhà
+- `talk of the town`: chủ đề bàn tán sôi nổi của cả thị trấn (idiom)
+- `on the town`: đi chơi giải trí ban đêm trong thị trấn
+- `ghost town`: thị trấn hoang tàn, không người ở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He lives in a small town.

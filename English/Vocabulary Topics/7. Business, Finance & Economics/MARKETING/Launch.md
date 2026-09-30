@@ -2,8 +2,10 @@
 *verb*
 > /lɔːntʃ/
 
+![[launch.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To start or introduce a new product, service, or campaign to the public
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `launch a product`: ra mắt một sản phẩm
 - `soft launch`: ra mắt thử nghiệm
+- `global launch`: chiến dịch ra mắt trên phạm vi toàn cầu
+- `launch event`: sự kiện họp báo ra mắt sản phẩm mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The author is going to launch her new sci-fi novel this Friday.

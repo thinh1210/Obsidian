@@ -2,8 +2,10 @@
 *n.*
 > /ˈdɪskɔːs/
 
+![[discourse.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Written or spoken communication or debate
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `academic discourse`: văn phong học thuật
+- `public discourse`: diễn ngôn công chúng
+- `political discourse`: diễn ngôn chính trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The level of political discourse has deteriorated.

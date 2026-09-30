@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˌdɒktrɪˈneɪʃn/
 
+![[indoctrination.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process of teaching a person or group to accept a set of beliefs uncritically.

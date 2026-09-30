@@ -2,8 +2,10 @@
 *n.*
 > /ˈvɜː.tʃuː/
 
+![[virtue.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Behavior showing high moral standards.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `by virtue of`: nhờ vào, bởi vì
 - `cardinal virtues`: các đức tính cốt lõi
+- `virtue ethics`: đạo đức học đức hạnh
+- `make a virtue of necessity`: biến hoàn cảnh bắt buộc thành cơ hội tốt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Patience is a virtue that few people possess.

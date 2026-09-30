@@ -2,8 +2,10 @@
 *v*
 > /ˈɡɑːdn/
 
+![[garden.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cultivate or work in a garden.
@@ -13,7 +15,11 @@
 💡 Garden - Gà đến phá vườn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `do the gardening`: làm vườn\n- `flower garden`: vườn hoa
+- `do the gardening`: làm vườn
+- `flower garden`: vườn hoa
+- `botanical garden`: vườn bách thảo
+- `tending the garden`: chăm sóc cây cối trong vườn
+- `kitchen garden`: vườn rau gia đình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My mom gardens every Sunday.

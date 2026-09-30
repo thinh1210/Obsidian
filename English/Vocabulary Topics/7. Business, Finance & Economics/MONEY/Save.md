@@ -2,8 +2,10 @@
 *verb*
 > /seɪv/
 
+![[save.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep money instead of spending it
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `save money`: tiết kiệm tiền
+- `save for a rainy day`: tích lũy tiền của phòng khi sa cơ
+- `save time and money`: tiết kiệm thời gian lẫn tiền của
+- `save someone's skin`: cứu nguy cho ai khỏi tai ương
+- `savings account`: tài khoản gửi tiền tiết kiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am trying to save money for a new laptop.

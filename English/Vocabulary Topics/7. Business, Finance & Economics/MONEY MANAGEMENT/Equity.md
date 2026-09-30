@@ -2,8 +2,10 @@
 *Noun*
 > /ˈekwəti/
 
+![[equity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The value of the shares issued by a company; the value of a homeowner's interest in their home.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brand equity`: giá trị thương hiệu
 - `home equity loan`: khoản vay thế chấp bằng giá trị căn nhà
+- `equity portfolio`: danh mục đầu tư vào cổ phiếu
+- `build home equity`: tích lũy giá trị tài sản ròng của căn nhà
+- `return on equity (ROE)`: tỷ suất sinh lời trên vốn chủ sở hữu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* After ten years of paying the mortgage, we have built up significant equity in our home.

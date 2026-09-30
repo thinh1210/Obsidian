@@ -2,8 +2,10 @@
 *Verb*
 > /dɪˈskʌv.ər/
 
+![[discover.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To find information, a place, or an object.
@@ -13,7 +15,10 @@
 💡 Đi qua vớ (discover) được kho báu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `discover a cure`: tìm ra phương pháp chữa trị\n- `discover by chance`: tình cờ phát hiện
+- `discover a cure`: tìm ra phương pháp chữa trị
+- `discover by chance`: tình cờ phát hiện
+- `discover a passion`: khám phá ra niềm đam mê
+- `discover the truth`: tìm ra chân tướng sự việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I discovered a new cafe.

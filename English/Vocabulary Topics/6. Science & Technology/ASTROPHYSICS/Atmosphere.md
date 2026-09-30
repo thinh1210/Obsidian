@@ -2,8 +2,10 @@
 *noun*
 > /ˈæt.məs.fɪər/
 
+![[atmosphere.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The envelope of gases surrounding the earth or another planet.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Earth's atmosphere`: khí quyển Trái Đất
 - `thin atmosphere`: khí quyển mỏng
+- `upper atmosphere`: tầng thượng lưu khí quyển
+- `enter the atmosphere`: đi vào bầu khí quyển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The air in the mountain is thin, but still within our atmosphere.

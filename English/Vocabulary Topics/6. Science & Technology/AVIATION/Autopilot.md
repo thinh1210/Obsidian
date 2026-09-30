@@ -2,8 +2,10 @@
 *noun*
 > /ˈɔː.tə.paɪ.lət/
 
+![[autopilot.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system that automatically controls the flight of an aircraft without continuous manual operation by a human pilot.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈmek.ə.nɪz.əm/
 
+![[mechanism.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of a machine or a set of parts that does a particular job
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `locking mechanism`: cơ chế khóa
+- `transmission mechanism`: cơ cấu truyền động
+- `steering mechanism`: cơ cấu lái
+- `gripping mechanism`: cơ cấu kẹp gắp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot's steering mechanism is broken.

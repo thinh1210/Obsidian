@@ -2,8 +2,10 @@
 *noun.*
 > /ɪˈfɪʃ.ən.si/
 
+![[efficiency.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or quality of being efficient; avoiding waste of time or energy
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `energy efficiency`: hiệu quả năng lượng
+- `computational efficiency`: hiệu quả tính toán
+- `maximize efficiency`: tối đa hóa hiệu suất
+- `production efficiency`: hiệu quả sản xuất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Robots are introduced to improve factory efficiency.

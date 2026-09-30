@@ -2,8 +2,10 @@
 *Verb*
 > /baɪ/
 
+![[buy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To obtain something by paying money for it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buy a house`: mua nhà
 - `buy groceries`: mua thực phẩm/tạp hóa
+- `buy on installment`: mua hàng theo hình thức trả góp
+- `buy into a fund`: mua chứng chỉ quỹ đầu tư
+- `impulse buying`: thói quen mua sắm tùy hứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to buy some fresh vegetables for dinner.

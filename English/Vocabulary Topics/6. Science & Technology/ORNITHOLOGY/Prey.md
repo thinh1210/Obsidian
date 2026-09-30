@@ -2,8 +2,10 @@
 *noun*
 > /preɪ/
 
+![[prey.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that is hunted and killed by another for food.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bird of prey`: chim săn mồi
 - `easy prey`: con mồi dễ dàng
+- `prey on`: săn lùng làm mồi; lợi dụng ai (phrasal verb)
+- `fall prey to`: trở thành nạn nhân con mồi của (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mice are the primary prey for barn owls.

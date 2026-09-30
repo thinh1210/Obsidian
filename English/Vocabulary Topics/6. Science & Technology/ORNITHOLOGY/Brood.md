@@ -2,8 +2,10 @@
 *noun*
 > /bruːd/
 
+![[brood.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A family of young animals, especially birds, produced at one hatching.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `raise a brood`: nuôi một lứa con
 - `second brood`: lứa con thứ hai
+- `brood of chicks`: ổ gà con / đàn chim non mới nở
+- `brood over`: trăn trở suy nghĩ ủ dột về (phrasal verb)
+- `brood eggs`: ấp trứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The duck led her brood of ducklings to the pond.

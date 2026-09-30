@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɔː.tər/
 
+![[daughter.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Your female child.

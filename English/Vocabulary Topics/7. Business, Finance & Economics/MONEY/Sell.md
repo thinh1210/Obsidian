@@ -2,8 +2,10 @@
 *verb*
 > /sel/
 
+![[sell.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something to someone in exchange for money
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sell a product`: bán một sản phẩm
+- `sell like hotcakes`: bán chạy như tôm tươi
+- `sell someone short`: đánh giá ai đó quá thấp
+- `sell out`: bán sạch toàn bộ số vé / hàng hóa
+- `sell off assets`: bán tháo tống khứ tài sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to sell her old bicycle.

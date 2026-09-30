@@ -2,8 +2,10 @@
 *n.*
 > /ˈbaɪˌstæn.dər/
 
+![[bystander.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is present at an event or incident but does not take part.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An innocent bystander`: Một người ngoài cuộc vô tội
+- `innocent bystander`: người qua đường vô tội
+- `bystander effect`: hiệu ứng người ngoài cuộc bàng quan
+- `curious bystander`: người đi đường hiếu kỳ đứng xem
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was just an innocent bystander.

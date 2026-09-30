@@ -2,8 +2,10 @@
 *verb*
 > /pɔː(r)/
 
+![[pour.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To rain heavily and continuously
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pour with rain`: mưa như trút nước
+- `it never rains but it pours`: họa vô đơn chí / cái rủi kéo theo cái xui
+- `pour one's heart out`: dốc hết nỗi lòng bầu bạn
+- `pour cold water on the idea`: dội gáo nước lạnh vào một ý tưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It started to pour just as we stepped out of the office.

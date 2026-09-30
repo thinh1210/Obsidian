@@ -2,8 +2,10 @@
 *verb*
 > /ˈkɒŋ.kər/
 
+![[conquer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take control of a country or city and its people by force.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conquer territory`: chinh phục lãnh thổ
 - `conquer an army`: đánh bại một đội quân
+- `conquer new lands`: chinh phục những vùng đất mới
+- `conquering army`: đoàn quân chinh phạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Spanish conquistadors set out to conquer the Americas.

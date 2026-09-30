@@ -2,8 +2,10 @@
 *verb*
 > /baɪ/
 
+![[buy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To obtain in exchange for payment.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buy online`: mua trực tuyến
 - `buy in bulk`: mua số lượng lớn
+- `impulse buy`: mua sắm ngẫu hứng
+- `buy into`: tin tưởng / nghe theo một ý niệm
+- `buy on credit`: mua trả góp / mua chịu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to buy some milk from the grocery store.

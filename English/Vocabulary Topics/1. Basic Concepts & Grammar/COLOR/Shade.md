@@ -2,8 +2,10 @@
 *n*
 > /ʃeɪd/
 
+![[shade.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A degree of darkness of a color (mixed with black).

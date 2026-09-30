@@ -2,8 +2,10 @@
 *noun*
 > /trænsˈpɒn.dər/
 
+![[transponder.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electronic device in an aircraft that automatically responds to radar signals and transmits the aircraft's identification and altitude.

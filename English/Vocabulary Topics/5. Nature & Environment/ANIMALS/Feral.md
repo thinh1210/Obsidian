@@ -2,8 +2,10 @@
 *adjective*
 > /ˈfer.əl/
 
+![[feral.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In a wild state, especially after escape from captivity or domestication.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feral cat`: mèo hoang dã hóa
 - `feral population`: quần thể hoang dã hóa
+- `feral dog`: chó hoang
+- `feral swine`: lợn rừng hoang dã hóa
+- `turn feral`: trở nên hoang dại trở lại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The island is overrun by feral goats that eat native plants.

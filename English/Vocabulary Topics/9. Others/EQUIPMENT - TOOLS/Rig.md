@@ -2,8 +2,10 @@
 *noun*
 > /rɪg/
 
+![[rig.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an apparatus, device, or framework, especially for a specific purpose (like oil drilling, sailing, or camera support).
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `oil rig`: giàn khoan dầu
 - `camera rig`: giá đỡ máy quay
+- `rig up`: lắp ráp dựng tạm bợ (phrasal verb)
+- `rig the election`: gian lận dàn xếp kết quả bầu cử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The filmmakers set up a complex camera rig for the action scene.

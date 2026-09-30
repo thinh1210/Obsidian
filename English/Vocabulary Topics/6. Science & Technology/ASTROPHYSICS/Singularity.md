@@ -2,8 +2,10 @@
 *noun*
 > /ˌsɪŋ.ɡjəˈlær.ə.ti/
 
+![[singularity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point of infinite density and gravity at the center of a black hole where space and time become distorted.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gravitational singularity`: điểm kỳ dị hấp dẫn
 - `spacetime singularity`: điểm kỳ dị không-thời gian
+- `naked singularity`: điểm kỳ dị trần trụi
+- `center of singularity`: tâm điểm kỳ dị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The idea of a singularity with infinite density is hard to imagine.

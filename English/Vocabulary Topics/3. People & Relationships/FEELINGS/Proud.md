@@ -2,8 +2,10 @@
 *adj*
 > /praʊd/
 
+![[proud.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling deep pleasure or satisfaction as a result of one's own achievements.

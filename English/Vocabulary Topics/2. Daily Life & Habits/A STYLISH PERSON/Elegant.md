@@ -2,8 +2,10 @@
 *adj.*
 > /ˈelɪɡənt/
 
+![[elegant.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Graceful and attractive in appearance or behaviour.
@@ -13,7 +15,11 @@
 💡 Elegant - e lệ gần (elegant) gũi nên rất thanh lịch.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `elegant dress`: chiếc váy thanh lịch\n- `elegant design`: thiết kế tao nhã
+- `elegant dress`: chiếc váy thanh lịch
+- `elegant design`: thiết kế tao nhã
+- `understated and elegant`: tao nhã và thanh lịch kín đáo
+- `elegant silhouette`: phom dáng thanh lịch
+- `exude elegance`: toát lên vẻ thanh lịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She looked truly elegant in her evening gown.

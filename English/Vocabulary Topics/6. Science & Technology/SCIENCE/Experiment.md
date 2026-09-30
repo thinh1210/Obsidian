@@ -2,8 +2,10 @@
 *noun / verb*
 > /ɪkˈsper.ɪ.mənt/
 
+![[experiment.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A scientific test done to discover or prove something.

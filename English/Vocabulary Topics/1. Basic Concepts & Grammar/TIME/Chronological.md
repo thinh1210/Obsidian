@@ -2,8 +2,10 @@
 *adj.*
 > /ˌkrɒnəˈlɒdʒɪkl/
 
+![[chronological.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the establishment of dates and time sequences
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chronological order`: theo trình tự thời gian
+- `reverse chronological order`: thứ tự ngược dòng thời gian
+- `chronological sequence`: trình tự tuần tự theo thời gian
+- `chronological timeline`: dòng thời gian theo niên biểu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* List your jobs in chronological order.

@@ -2,8 +2,10 @@
 *adj.*
 > /əˈtræktɪv/
 
+![[attractive.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasing to the eye or mind.
@@ -13,7 +15,11 @@
 💡 Attractive - attract (thu hút) ánh nhìn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `highly attractive`: rất hấp dẫn\n- `attractive appearance`: vẻ ngoài lôi cuốn
+- `highly attractive`: rất hấp dẫn
+- `attractive appearance`: vẻ ngoài lôi cuốn
+- `physically attractive`: có ngoại hình cuốn hút
+- `attractive outfit`: trang phục bắt mắt, thu hút
+- `look remarkably attractive`: trông vô cùng quyến rũ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a very attractive young man.

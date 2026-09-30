@@ -2,8 +2,10 @@
 *noun*
 > /ˈdrɪzl/
 
+![[drizzle.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Light rain falling in very fine drops
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fine drizzle`: mưa phùn hạt nhỏ
+- `intermittent drizzle`: mưa phùn lất phất từng đợt
+- `drizzle of rain`: cơn mưa phùn lâm thâm
+- `drizzle olive oil over salad`: rưới một chút dầu ô liu lên món xà lách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The walk was ruined by a persistent drizzle.

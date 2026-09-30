@@ -2,8 +2,10 @@
 *noun*
 > /ˈhelmɪt/
 
+![[helmet.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong, hard hat that covers and protects the head.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wear a helmet`: đội mũ bảo hiểm
+- `safety helmet`: mũ bảo hiểm an toàn lao động
+- `motorcycle helmet`: mũ bảo hiểm đi xe máy
+- `strap on a helmet`: cài quai mũ bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Always wear a helmet when riding a bike.

@@ -2,8 +2,10 @@
 *noun*
 > /triː/
 
+![[tree.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tall plant with a wooden trunk and branches.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `climb a tree`: trèo cây
 - `fruit tree`: cây ăn quả
+- `family tree`: cây phả hệ / gia phả dòng họ
+- `climb up the corporate tree`: leo lên các nấc thang danh vọng công ty
+- `top of the tree`: đỉnh cao của sự nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We sat in the shade of a large oak tree.

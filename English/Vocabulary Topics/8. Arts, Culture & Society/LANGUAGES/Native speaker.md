@@ -2,8 +2,10 @@
 *n.*
 > /ˌneɪtɪv ˈspiːkə(r)/
 
+![[native_speaker.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has spoken the language in question from earliest childhood
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `native speaker pronunciation`: phát âm kiểu người bản xứ
+- `sound like a native speaker`: nói tự nhiên như người bản xứ
+- `native speaker intuition`: trực giác ngôn ngữ của người bản xứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's good to practice English with a native speaker.

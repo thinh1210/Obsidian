@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɒs.əl/
 
+![[fossil.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The preserved remains or traces of an ancient organism found in rock.

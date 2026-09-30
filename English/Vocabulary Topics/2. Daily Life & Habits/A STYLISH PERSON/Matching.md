@@ -2,8 +2,10 @@
 *adj.*
 > /ˈmætʃɪŋ/
 
+![[matching.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having the same color, pattern, or style.
@@ -13,7 +15,11 @@
 💡 Matching - match (khớp) với nhau.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `matching clothes`: quần áo đồng bộ\n- `matching pair`: cặp đồng bộ
+- `matching clothes`: quần áo đồng bộ
+- `matching pair`: cặp đồng bộ
+- `matching accessories`: phụ kiện ton-sur-ton, hợp tông
+- `mix and match`: phối đồ linh hoạt
+- `matching colors`: màu sắc hài hòa, ăn khớp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They wore matching T-shirts on their trip.

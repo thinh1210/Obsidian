@@ -2,8 +2,10 @@
 *noun*
 > /waɪər/
 
+![[wire.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** metal drawn out into the form of a thin flexible thread or rod.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `copper wire`: dây đồng
 - `barbed wire`: dây kẽm gai
+- `down to the wire`: kịch tính đến tận phút chót (idiom)
+- `wire money`: chuyển tiền điện tử qua ngân hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Make sure the wire is unplugged before you touch it.

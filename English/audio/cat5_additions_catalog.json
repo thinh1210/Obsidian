@@ -1,0 +1,912 @@
+{
+  "WEATHER": [
+    {
+      "word": "Sunshine",
+      "ipa": "/ˈsʌnʃaɪn/ [[sunshine.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Ánh nắng mặt trời",
+      "wf": "sun (n), sunny (adj)",
+      "link": "[[Sunshine]]"
+    },
+    {
+      "word": "Bright",
+      "ipa": "/braɪt/ [[bright.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "adj.",
+      "meaning": "Tươi sáng, rực rỡ nắng",
+      "wf": "brightly (adv), brightness (n), brighten (v)",
+      "link": "[[Bright]]"
+    },
+    {
+      "word": "Clear",
+      "ipa": "/klɪər/ [[clear.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "adj.",
+      "meaning": "Trời trong xanh, quang đãng",
+      "wf": "clearly (adv), clearness (n), clarify (v)",
+      "link": "[[Clear]]"
+    },
+    {
+      "word": "Heat",
+      "ipa": "/hiːt/ [[heat.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Hơi nóng, cái nóng gay gắt",
+      "wf": "hot (adj), heated (adj), heatedly (adv)",
+      "link": "[[Heat]]"
+    },
+    {
+      "word": "Shade",
+      "ipa": "/ʃeɪd/ [[shade.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Bóng râm, bóng mát",
+      "wf": "shady (adj), shadow (n)",
+      "link": "[[Shade]]"
+    },
+    {
+      "word": "Puddle",
+      "ipa": "/ˈpʌdl/ [[puddle.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Vũng nước mưa trên đường",
+      "wf": "puddly (adj)",
+      "link": "[[Puddle]]"
+    },
+    {
+      "word": "Dew",
+      "ipa": "/djuː/ [[dew.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Giọt sương sớm đọng trên lá",
+      "wf": "dewy (adj)",
+      "link": "[[Dew]]"
+    },
+    {
+      "word": "Wet",
+      "ipa": "/wet/ [[wet.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "adj.",
+      "meaning": "Ẩm ướt, đẫm nước mưa",
+      "wf": "wetness (n), wetting (n)",
+      "link": "[[Wet]]"
+    },
+    {
+      "word": "Damp",
+      "ipa": "/dæmp/ [[damp.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "adj.",
+      "meaning": "Ẩm thấp, nhớp nháp hơi ẩm",
+      "wf": "dampness (n), dampen (v)",
+      "link": "[[Damp]]"
+    },
+    {
+      "word": "Splash",
+      "ipa": "/splæʃ/ [[splash.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "v.",
+      "meaning": "Bắn tóe nước, té nước",
+      "wf": "splashy (adj), splashing (n)",
+      "link": "[[Splash]]"
+    },
+    {
+      "word": "Ice",
+      "ipa": "/aɪs/ [[ice.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Băng đá, tảng băng",
+      "wf": "icy (adj), iciness (n), icicle (n)",
+      "link": "[[Ice]]"
+    },
+    {
+      "word": "Frost",
+      "ipa": "/frɒst/ [[frost.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Sương giá, lớp băng mỏng",
+      "wf": "frosty (adj), frostbite (n), frosted (adj)",
+      "link": "[[Frost]]"
+    },
+    {
+      "word": "Freeze",
+      "ipa": "/friːz/ [[freeze.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "v.",
+      "meaning": "Đóng băng, rét cóng",
+      "wf": "freezer (n), frozen (adj), freezing (adj)",
+      "link": "[[Freeze]]"
+    },
+    {
+      "word": "Chill",
+      "ipa": "/tʃɪl/ [[chill.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Cơn ớn lạnh, khí lạnh buốt",
+      "wf": "chilly (adj), chilled (adj), chilliness (n)",
+      "link": "[[Chill]]"
+    },
+    {
+      "word": "Sleet",
+      "ipa": "/sliːt/ [[sleet.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Mưa tuyết, mưa đá nhỏ hỗn hợp",
+      "wf": "sleety (adj)",
+      "link": "[[Sleet]]"
+    },
+    {
+      "word": "Melt",
+      "ipa": "/melt/ [[melt.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "v.",
+      "meaning": "Tan chảy (băng tuyết)",
+      "wf": "melted (adj), molten (adj), melting (n)",
+      "link": "[[Melt]]"
+    },
+    {
+      "word": "Thunderstorm",
+      "ipa": "/ˈθʌndəstɔːm/ [[thunderstorm.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Cơn dông, bão có sấm sét",
+      "wf": "thunder (n/v), thundery (adj), storm (n)",
+      "link": "[[Thunderstorm]]"
+    },
+    {
+      "word": "Hurricane",
+      "ipa": "/ˈhʌrɪkən/ [[hurricane.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Bão cuồng phong biển nhiệt đới",
+      "wf": "hurricane-force (adj)",
+      "link": "[[Hurricane]]"
+    },
+    {
+      "word": "Tornado",
+      "ipa": "/tɔːˈneɪdəʊ/ [[tornado.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Lốc xoáy cực mạnh, vòi rồng",
+      "wf": "tornado-prone (adj)",
+      "link": "[[Tornado]]"
+    },
+    {
+      "word": "Cyclone",
+      "ipa": "/ˈsaɪkləʊn/ [[cyclone.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Bão xoáy thuận nhiệt đới",
+      "wf": "cyclonic (adj), anticyclone (n)",
+      "link": "[[Cyclone]]"
+    }
+  ],
+  "ANIMALS": [
+    {
+      "word": "Pig",
+      "ipa": "/pɪɡ/ [[pig.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Con lợn, con heo",
+      "wf": "piglet (n), piggish (adj), piggery (n)",
+      "link": "[[Pig]]"
+    },
+    {
+      "word": "Chicken",
+      "ipa": "/ˈtʃɪkɪn/ [[chicken.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Con gà (gia cầm)",
+      "wf": "chick (n), rooster (n), hen (n)",
+      "link": "[[Chicken]]"
+    },
+    {
+      "word": "Goat",
+      "ipa": "/ɡəʊt/ [[goat.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Con dê",
+      "wf": "kid (n - dê con), goatee (n - chòm râu dê)",
+      "link": "[[Goat]]"
+    },
+    {
+      "word": "Mouse",
+      "ipa": "/maʊs/ [[mouse.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Con chuột nhỏ",
+      "wf": "mice (plural n), mousetrap (n), mousy (adj)",
+      "link": "[[Mouse]]"
+    },
+    {
+      "word": "Puppy",
+      "ipa": "/ˈpʌpi/ [[puppy.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Chó con, cún con",
+      "wf": "pup (n), puppyhood (n)",
+      "link": "[[Puppy]]"
+    },
+    {
+      "word": "Wolf",
+      "ipa": "/wʊlf/ [[wolf.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Chó sói hoang dã",
+      "wf": "wolves (plural n), wolfish (adj)",
+      "link": "[[Wolf]]"
+    },
+    {
+      "word": "Fox",
+      "ipa": "/fɒks/ [[fox.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Con cáo tinh khôn",
+      "wf": "foxy (adj), vixen (n - cáo cái)",
+      "link": "[[Fox]]"
+    },
+    {
+      "word": "Deer",
+      "ipa": "/dɪər/ [[deer.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Con hươu, con nai",
+      "wf": "fawn (n - nai con), stag (n - hươu đực), doe (n - hươu cái)",
+      "link": "[[Deer]]"
+    },
+    {
+      "word": "Giraffe",
+      "ipa": "/dʒəˈrɑːf/ [[giraffe.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Hươu cao cổ",
+      "wf": "giraffine (adj)",
+      "link": "[[Giraffe]]"
+    },
+    {
+      "word": "Zebra",
+      "ipa": "/ˈzebrə/ [[zebra.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Ngựa vằn thảo nguyên",
+      "wf": "zebrine (adj)",
+      "link": "[[Zebra]]"
+    },
+    {
+      "word": "Snake",
+      "ipa": "/sneɪk/ [[snake.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Con rắn (bò sát không chân)",
+      "wf": "snaky (adj), snakelike (adj)",
+      "link": "[[Snake]]"
+    },
+    {
+      "word": "Insect",
+      "ipa": "/ˈɪnsekt/ [[insect.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Côn trùng, sâu bọ",
+      "wf": "insecticide (n), insectivorous (adj)",
+      "link": "[[Insect]]"
+    },
+    {
+      "word": "Tail",
+      "ipa": "/teɪl/ [[tail.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Cái đuôi của động vật",
+      "wf": "tailless (adj), fishtail (v)",
+      "link": "[[Tail]]"
+    },
+    {
+      "word": "Fur",
+      "ipa": "/fɜːr/ [[fur.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Lông thú, bộ lông mao dày",
+      "wf": "furry (adj), furrier (n)",
+      "link": "[[Fur]]"
+    },
+    {
+      "word": "Feather",
+      "ipa": "/ˈfeðər/ [[feather.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Lông vũ, lông chim",
+      "wf": "feathery (adj), feathered (adj)",
+      "link": "[[Feather]]"
+    },
+    {
+      "word": "Wing",
+      "ipa": "/wɪŋ/ [[wing.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Đôi cánh (chim, bướm, dơi)",
+      "wf": "winged (adj), wingless (adj)",
+      "link": "[[Wing]]"
+    },
+    {
+      "word": "Conservation",
+      "ipa": "/ˌkɒnsəˈveɪʃn/ [[conservation.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Sự bảo tồn động vật hoang dã",
+      "wf": "conserve (v), conservationist (n), conservative (adj)",
+      "link": "[[Conservation]]"
+    },
+    {
+      "word": "Sanctuary",
+      "ipa": "/ˈsæŋktʃuəri/ [[sanctuary.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Khu bảo tồn, nơi trú ẩn an toàn",
+      "wf": "sanctimonious (adj), sanctify (v)",
+      "link": "[[Sanctuary]]"
+    },
+    {
+      "word": "Instinct",
+      "ipa": "/ˈɪnstɪŋkt/ [[instinct.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Bản năng tự nhiên của giống loài",
+      "wf": "instinctive (adj), instinctively (adv)",
+      "link": "[[Instinct]]"
+    },
+    {
+      "word": "Survive",
+      "ipa": "/səˈvaɪv/ [[survive.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "v.",
+      "meaning": "Sinh tồn, sống sót trước nghịch cảnh",
+      "wf": "survival (n), survivor (n), survivable (adj)",
+      "link": "[[Survive]]"
+    }
+  ],
+  "PLANTS": [
+    {
+      "word": "Trunk",
+      "ipa": "/trʌŋk/ [[trunk.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Thân cây gỗ to, thân chính",
+      "wf": "trunkline (n)",
+      "link": "[[Trunk]]"
+    },
+    {
+      "word": "Twig",
+      "ipa": "/twɪɡ/ [[twig.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Cành con, nhánh cây nhỏ",
+      "wf": "twiggy (adj)",
+      "link": "[[Twig]]"
+    },
+    {
+      "word": "Needle",
+      "ipa": "/ˈniːdl/ [[needle.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Lá kim (lá thông sắc nhọn)",
+      "wf": "needlelike (adj)",
+      "link": "[[Needle]]"
+    },
+    {
+      "word": "Bulb",
+      "ipa": "/bʌlb/ [[bulb.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Củ ngầm (hoa tulip, củ hành)",
+      "wf": "bulbous (adj)",
+      "link": "[[Bulb]]"
+    },
+    {
+      "word": "Nut",
+      "ipa": "/nʌt/ [[nut.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Quả hạch, hạt có vỏ cứng",
+      "wf": "nutty (adj), nutshell (n)",
+      "link": "[[Nut]]"
+    },
+    {
+      "word": "Rose",
+      "ipa": "/rəʊz/ [[rose.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Hoa hồng kiêu sa",
+      "wf": "rosy (adj)",
+      "link": "[[Rose]]"
+    },
+    {
+      "word": "Berry",
+      "ipa": "/ˈberi/ [[berry.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Quả mọng (dâu, việt quất)",
+      "wf": "strawberry (n), blueberry (n), raspberry (n)",
+      "link": "[[Berry]]"
+    },
+    {
+      "word": "Daisy",
+      "ipa": "/ˈdeɪzi/ [[daisy.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Hoa cúc họa mi, cúc dại trắng",
+      "wf": "daisied (adj)",
+      "link": "[[Daisy]]"
+    },
+    {
+      "word": "Sunflower",
+      "ipa": "/ˈsʌnflaʊər/ [[sunflower.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Hoa hướng dương hướng về mặt trời",
+      "wf": "sunflower-seed (n)",
+      "link": "[[Sunflower]]"
+    },
+    {
+      "word": "Ripen",
+      "ipa": "/ˈraɪpən/ [[ripen.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "v.",
+      "meaning": "Chín mọng, làm chín hoa quả",
+      "wf": "ripe (adj), ripeness (n), ripening (n)",
+      "link": "[[Ripen]]"
+    },
+    {
+      "word": "Scent",
+      "ipa": "/sent/ [[scent.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Hương thơm ngào ngạt của hoa",
+      "wf": "scented (adj), scentless (adj)",
+      "link": "[[Scent]]"
+    },
+    {
+      "word": "Bush",
+      "ipa": "/bʊʃ/ [[bush.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Bụi cây thấp, lùm cây",
+      "wf": "bushy (adj)",
+      "link": "[[Bush]]"
+    },
+    {
+      "word": "Shrub",
+      "ipa": "/ʃrʌb/ [[shrub.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Cây bụi thân gỗ nhỏ",
+      "wf": "shrubbery (n), shrubby (adj)",
+      "link": "[[Shrub]]"
+    },
+    {
+      "word": "Oak",
+      "ipa": "/əʊk/ [[oak.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Cây sồi cổ thụ",
+      "wf": "oaken (adj)",
+      "link": "[[Oak]]"
+    },
+    {
+      "word": "Pine",
+      "ipa": "/paɪn/ [[pine.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Cây thông lá kim",
+      "wf": "piney (adj), pinewood (n)",
+      "link": "[[Pine]]"
+    },
+    {
+      "word": "Palm",
+      "ipa": "/pɑːm/ [[palm.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Cây cọ, cây dừa nhiệt đới",
+      "wf": "palmy (adj), palmaceous (adj)",
+      "link": "[[Palm]]"
+    },
+    {
+      "word": "Bamboo",
+      "ipa": "/ˌbæmˈbuː/ [[bamboo.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Cây tre, cây trúc thân rỗng",
+      "wf": "bamboo-shoot (n)",
+      "link": "[[Bamboo]]"
+    },
+    {
+      "word": "Wilt",
+      "ipa": "/wɪlt/ [[wilt.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "v.",
+      "meaning": "Héo rũ, héo úa do thiếu nước",
+      "wf": "wilted (adj), wilting (n)",
+      "link": "[[Wilt]]"
+    },
+    {
+      "word": "Pesticide",
+      "ipa": "/ˈpestɪsaɪd/ [[pesticide.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Thuốc trừ sâu bệnh cho cây",
+      "wf": "pest (n), insecticidal (adj)",
+      "link": "[[Pesticide]]"
+    },
+    {
+      "word": "Greenhouse",
+      "ipa": "/ˈɡriːnhaʊs/ [[greenhouse.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Nhà kính trồng rau và hoa",
+      "wf": "greenhouse-grown (adj)",
+      "link": "[[Greenhouse]]"
+    }
+  ],
+  "NATURE": [
+    {
+      "word": "Hill",
+      "ipa": "/hɪl/ [[hill.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Ngọn đồi thoai thoải",
+      "wf": "hilly (adj), hillside (n), hilltop (n)",
+      "link": "[[Hill]]"
+    },
+    {
+      "word": "Cave",
+      "ipa": "/keɪv/ [[cave.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Hang động tự nhiên",
+      "wf": "cavern (n), cavernous (adj), caveman (n)",
+      "link": "[[Cave]]"
+    },
+    {
+      "word": "Cliff",
+      "ipa": "/klɪf/ [[cliff.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Vách đá dựng đứng",
+      "wf": "cliffhanger (n), cliffside (n)",
+      "link": "[[Cliff]]"
+    },
+    {
+      "word": "Canyon",
+      "ipa": "/ˈkænjən/ [[canyon.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Hẻm núi sâu thăm thẳm",
+      "wf": "canyoneering (n)",
+      "link": "[[Canyon]]"
+    },
+    {
+      "word": "Meadow",
+      "ipa": "/ˈmedəʊ/ [[meadow.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Đồng cỏ hoa tự nhiên",
+      "wf": "meadowy (adj), meadowland (n)",
+      "link": "[[Meadow]]"
+    },
+    {
+      "word": "Jungle",
+      "ipa": "/ˈdʒʌŋɡl/ [[jungle.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Rừng rậm nhiệt đới hoang sơ",
+      "wf": "jungly (adj)",
+      "link": "[[Jungle]]"
+    },
+    {
+      "word": "Pond",
+      "ipa": "/pɒnd/ [[pond.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Ao nước phẳng lặng",
+      "wf": "pondweed (n)",
+      "link": "[[Pond]]"
+    },
+    {
+      "word": "Stream",
+      "ipa": "/striːm/ [[stream.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Con suối nhỏ róc rách",
+      "wf": "streamlet (n), mainstream (adj/n), streaming (adj)",
+      "link": "[[Stream]]"
+    },
+    {
+      "word": "Shore",
+      "ipa": "/ʃɔːr/ [[shore.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Bờ biển, bờ hồ rộng",
+      "wf": "shoreline (n), seashore (n), offshore (adj)",
+      "link": "[[Shore]]"
+    },
+    {
+      "word": "Coast",
+      "ipa": "/kəʊst/ [[coast.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Đường bờ biển, miền duyên hải",
+      "wf": "coastal (adj), coastline (n)",
+      "link": "[[Coast]]"
+    },
+    {
+      "word": "Wave",
+      "ipa": "/weɪv/ [[wave.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Làn sóng biển dập dềnh",
+      "wf": "wavy (adj), waveform (n)",
+      "link": "[[Wave]]"
+    },
+    {
+      "word": "Tide",
+      "ipa": "/taɪd/ [[tide.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Thủy triều lên xuống",
+      "wf": "tidal (adj), tidemark (n)",
+      "link": "[[Tide]]"
+    },
+    {
+      "word": "Sunrise",
+      "ipa": "/ˈsʌnraɪz/ [[sunrise.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Bình minh, mặt trời mọc",
+      "wf": "sunrisen (adj)",
+      "link": "[[Sunrise]]"
+    },
+    {
+      "word": "Sunset",
+      "ipa": "/ˈsʌnset/ [[sunset.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Hoàng hôn, mặt trời lặn",
+      "wf": "sunsetted (adj)",
+      "link": "[[Sunset]]"
+    },
+    {
+      "word": "Rainbow",
+      "ipa": "/ˈreɪnbəʊ/ [[rainbow.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Cầu vồng rực rỡ sau mưa",
+      "wf": "rainbow-colored (adj)",
+      "link": "[[Rainbow]]"
+    },
+    {
+      "word": "Breeze",
+      "ipa": "/briːz/ [[breeze.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Làn gió thoảng mát rượi",
+      "wf": "breezy (adj), breezily (adv)",
+      "link": "[[Breeze]]"
+    },
+    {
+      "word": "Dawn",
+      "ipa": "/dɔːn/ [[dawn.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Rạng đông, lúc hửng sáng",
+      "wf": "dawning (n)",
+      "link": "[[Dawn]]"
+    },
+    {
+      "word": "Scenery",
+      "ipa": "/ˈsiːnəri/ [[scenery.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Phong cảnh thiên nhiên tuyệt mỹ",
+      "wf": "scenic (adj), scenically (adv)",
+      "link": "[[Scenery]]"
+    },
+    {
+      "word": "National park",
+      "ipa": "/ˌnæʃnəl ˈpɑːk/ [[national_park.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Vườn quốc gia bảo tồn thiên nhiên",
+      "wf": "parkland (n)",
+      "link": "[[National park]]"
+    },
+    {
+      "word": "Outdoor",
+      "ipa": "/ˈaʊtdɔːr/ [[outdoor.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "adj.",
+      "meaning": "Ngoài trời, thuộc về tự nhiên",
+      "wf": "outdoors (adv/n), outdoorsy (adj)",
+      "link": "[[Outdoor]]"
+    }
+  ],
+  "ENVIRONMENT": [
+    {
+      "word": "Soil",
+      "ipa": "/sɔɪl/ [[soil.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Đất đai, thổ nhưỡng màu mỡ",
+      "wf": "soilless (adj)",
+      "link": "[[Soil]]"
+    },
+    {
+      "word": "Organism",
+      "ipa": "/ˈɔːɡənɪzəm/ [[organism.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Sinh vật sống, cơ thể sống",
+      "wf": "organic (adj), organize (v), organization (n)",
+      "link": "[[Organism]]"
+    },
+    {
+      "word": "Atmosphere",
+      "ipa": "/ˈætməsfɪər/ [[atmosphere.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Khí quyển Trái Đất, bầu không khí",
+      "wf": "atmospheric (adj), atmospherically (adv)",
+      "link": "[[Atmosphere]]"
+    },
+    {
+      "word": "Surroundings",
+      "ipa": "/səˈraʊndɪŋz/ [[surroundings.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Môi trường xung quanh, cảnh vật phụ cận",
+      "wf": "surround (v), surrounded (adj)",
+      "link": "[[Surroundings]]"
+    },
+    {
+      "word": "Smog",
+      "ipa": "/smɒɡ/ [[smog.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Khói mù quang hóa, sương khói ô nhiễm",
+      "wf": "smoggy (adj)",
+      "link": "[[Smog]]"
+    },
+    {
+      "word": "Acid rain",
+      "ipa": "/ˌæsɪd ˈreɪn/ [[acid_rain.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Mưa axit độc hại do khí thải",
+      "wf": "acidic (adj), acidity (n)",
+      "link": "[[Acid rain]]"
+    },
+    {
+      "word": "Drought",
+      "ipa": "/draʊt/ [[drought.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Hạn hán kéo dài, khô cằn kiệt quệ",
+      "wf": "drought-stricken (adj)",
+      "link": "[[Drought]]"
+    },
+    {
+      "word": "Flood",
+      "ipa": "/flʌd/ [[flood.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Lũ lụt, triều cường ngập úng",
+      "wf": "flooding (n), flooded (adj), floodwater (n)",
+      "link": "[[Flood]]"
+    },
+    {
+      "word": "Waste",
+      "ipa": "/weɪst/ [[waste.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Rác thải, chất thải",
+      "wf": "wasteful (adj), wastefully (adv), wastage (n)",
+      "link": "[[Waste]]"
+    },
+    {
+      "word": "Toxic",
+      "ipa": "/ˈtɒksɪk/ [[toxic.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "adj.",
+      "meaning": "Độc hại, chứa chất độc nguy hiểm",
+      "wf": "toxicity (n), toxin (n), toxicology (n)",
+      "link": "[[Toxic]]"
+    },
+    {
+      "word": "Reuse",
+      "ipa": "/ˌriːˈjuːz/ [[reuse.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "v.",
+      "meaning": "Tái sử dụng đồ dùng",
+      "wf": "reusable (adj), reusability (n)",
+      "link": "[[Reuse]]"
+    },
+    {
+      "word": "Compost",
+      "ipa": "/ˈkɒmpɒst/ [[compost.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Phân hữu cơ ủ từ rác thải sinh hoạt",
+      "wf": "composting (n), compostable (adj)",
+      "link": "[[Compost]]"
+    },
+    {
+      "word": "Solar power",
+      "ipa": "/ˌsəʊlə ˈpaʊər/ [[solar_power.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Năng lượng mặt trời sạch",
+      "wf": "solar-powered (adj), solar (adj)",
+      "link": "[[Solar power]]"
+    },
+    {
+      "word": "Wind energy",
+      "ipa": "/wɪnd ˈenədʒi/ [[wind_energy.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Năng lượng gió tái tạo",
+      "wf": "wind-powered (adj)",
+      "link": "[[Wind energy]]"
+    },
+    {
+      "word": "Landfill",
+      "ipa": "/ˈlændfɪl/ [[landfill.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Bãi chôn lấp rác thải tập trung",
+      "wf": "landfilling (n)",
+      "link": "[[Landfill]]"
+    },
+    {
+      "word": "Litter",
+      "ipa": "/ˈlɪtər/ [[litter.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Rác xả bừa bãi nơi công cộng",
+      "wf": "littering (n), litterbug (n)",
+      "link": "[[Litter]]"
+    },
+    {
+      "word": "Emission",
+      "ipa": "/ɪˈmɪʃn/ [[emission.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Khí thải phát tán ra môi trường",
+      "wf": "emit (v), emitter (n)",
+      "link": "[[Emission]]"
+    },
+    {
+      "word": "Carbon",
+      "ipa": "/ˈkɑːbən/ [[carbon.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Khí thải cacbon / nguyên tố carbon",
+      "wf": "carbonic (adj), carbonaceous (adj)",
+      "link": "[[Carbon]]"
+    },
+    {
+      "word": "Green",
+      "ipa": "/ɡriːn/ [[green.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "adj.",
+      "meaning": "Sống xanh, thân thiện với môi trường",
+      "wf": "greenery (n), greenness (n)",
+      "link": "[[Green]]"
+    },
+    {
+      "word": "Reforestation",
+      "ipa": "/ˌriːˌfɒrɪˈsteɪʃn/ [[reforestation.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Hoạt động trồng rừng phục hồi",
+      "wf": "reforest (v), deforestation (antonym n)",
+      "link": "[[Reforestation]]"
+    }
+  ]
+}

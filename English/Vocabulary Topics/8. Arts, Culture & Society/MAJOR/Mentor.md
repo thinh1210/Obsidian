@@ -2,8 +2,10 @@
 *n., v.*
 > /ˈmen.tɔːr/
 
+![[mentor.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An experienced and trusted adviser who helps and guides a less experienced person.

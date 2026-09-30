@@ -2,8 +2,10 @@
 *n.*
 > /rɪˈzɔːrt/
 
+![[resort.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place that is a popular destination for vacations or recreation.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `beach resort`: khu nghỉ dưỡng trên bãi biển
+- `ski resort`: khu nghỉ dưỡng trượt tuyết mùa đông
+- `seaside resort`: khu nghỉ mát bãi biển
+- `luxury resort`: khu nghỉ dưỡng cao cấp sang trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stayed at a luxury resort.

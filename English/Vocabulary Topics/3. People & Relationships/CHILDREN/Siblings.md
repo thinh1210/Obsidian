@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɪb.lɪŋz/
 
+![[siblings.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Brothers and sisters.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `older sibling`: anh/chị lớn
+- `sibling rivalry`: sự ganh đua giữa anh chị em
+- `close-knit siblings`: anh chị em gắn kết yêu thương
+- `younger siblings`: các em nhỏ trong nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have two siblings.

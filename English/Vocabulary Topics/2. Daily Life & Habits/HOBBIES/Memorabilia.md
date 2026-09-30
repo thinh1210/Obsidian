@@ -2,8 +2,10 @@
 *noun*
 > /ˌmemərəˈbɪliə/
 
+![[memorabilia.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Objects kept or collected because of their historical interest, especially those associated with memorable people or events.

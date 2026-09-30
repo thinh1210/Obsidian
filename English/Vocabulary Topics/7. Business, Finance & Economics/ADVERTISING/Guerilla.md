@@ -2,8 +2,10 @@
 *adjective*
 > /ɡəˈrɪlə/
 
+![[guerilla.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Referring to actions or campaigns carried out in an unconventional, creative, and low-cost way to surprise the audience.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `guerilla marketing`: tiếp thị du kích
 - `guerilla tactics`: chiến thuật du kích
+- `guerilla campaign`: chiến dịch tiếp thị du kích
+- `guerilla advertising`: quảng cáo du kích táo bạo
+- `guerilla stunt`: chiêu trò tiếp thị du kích bất ngờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The band used guerilla marketing by painting their logo on streets.

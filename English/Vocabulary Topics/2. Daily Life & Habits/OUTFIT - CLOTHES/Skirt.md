@@ -2,8 +2,10 @@
 *noun*
 > /skɜːrt/
 
+![[skirt.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women and girls that hangs from the waist.
@@ -13,7 +15,10 @@
 💡 Skirt -> Sờ cợt -> Mặc váy dễ bị sờ cợt.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `long skirt: váy dài`
+- `long skirt`: váy dài
+- `maxi skirt`: chân váy dài maxi
+- `mini skirt`: chân váy ngắn mini
+- `wrap skirt`: chân váy vạt quấn nữ tính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She likes wearing skirts in summer.

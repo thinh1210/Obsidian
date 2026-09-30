@@ -2,8 +2,10 @@
 *v.*
 > /bɔɪl/
 
+![[boil.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Reach or cause to reach the temperature at which it bubbles and turns to vapor.

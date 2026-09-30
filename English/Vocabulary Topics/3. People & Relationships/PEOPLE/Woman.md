@@ -2,8 +2,10 @@
 *n.*
 > /ˈwʊm.ən/
 
+![[woman.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An adult female human being.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A strong woman`: Một phụ nữ mạnh mẽ
+- `career woman`: người phụ nữ thành đạt của sự nghiệp
+- `woman of means`: người phụ nữ giàu có sung túc
+- `wonder woman`: người phụ nữ phi thường (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is an amazing woman.

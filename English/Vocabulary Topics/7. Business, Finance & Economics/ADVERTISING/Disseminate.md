@@ -2,8 +2,10 @@
 *verb*
 > /dɪˈsemɪneɪt/
 
+![[disseminate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spread or disperse something (especially information, ideas, or news) widely.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `disseminate information`: phổ biến thông tin
 - `disseminate brand messages`: lan truyền thông điệp thương hiệu
+- `disseminate widely`: phổ biến rộng rãi
+- `disseminate content`: lan tỏa nội dung
+- `means of dissemination`: phương tiện truyền bá thông tin
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The organization aims to disseminate health facts to rural areas.

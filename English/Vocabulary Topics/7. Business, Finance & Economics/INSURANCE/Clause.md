@@ -2,8 +2,10 @@
 *n.*
 > /klɔːz/
 
+![[clause.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A particular and separate article, stipulation, or proviso in a treaty, bill, or contract.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `exclusion clause`: điều khoản loại trừ
 - `penalty clause`: điều khoản phạt
+- `escape clause`: điều khoản cho phép thoái thác trách nhiệm
+- `incontestability clause`: điều khoản thời hiệu không thể tranh chấp
+- `insert a clause`: bổ sung thêm điều khoản vào hợp đồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pay close attention to the exclusion clause in your contract.

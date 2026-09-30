@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈmɒɡrəfi/
 
+![[demography.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of statistics which illustrate the changing structure of human populations.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `social demography`: nhân khẩu học xã hội
+- `historical demography`: nhân khẩu học lịch sử
+- `demographic trends`: các xu hướng biến động nhân khẩu học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Demography shows that the country’s population is aging.

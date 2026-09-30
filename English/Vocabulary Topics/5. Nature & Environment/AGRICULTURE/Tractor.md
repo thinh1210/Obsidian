@@ -2,8 +2,10 @@
 *n.*
 > /ˈtræk.tər/
 
+![[tractor.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A powerful farm vehicle used for pulling heavy machinery or plows.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `drive a tractor`: lái máy kéo
 - `tractor parts`: phụ tùng máy kéo
+- `farm tractor`: xe máy cày trong trang trại
+- `tractor trailer`: xe đầu kéo rơ-moóc
+- `tractor-drawn implement`: nông cụ gắn kèm máy kéo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The farmer drove his tractor across the field.

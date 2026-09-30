@@ -2,8 +2,10 @@
 *adj*
 > /ˈbenθɪk/
 
+![[benthic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the bottom of a sea or lake or to the organisms that live there.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `benthic species`: loài sinh vật đáy
+- `benthic organism`: sinh vật tầng đáy
+- `benthic zone`: vùng đáy biển
+- `benthic community`: quần xã sinh vật đáy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Crabs are benthic creatures.

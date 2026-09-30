@@ -2,8 +2,10 @@
 *n.*
 > /əˈdres/
 
+![[address.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The particulars of the place where someone lives or an organization is situated.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `home address`: địa chỉ nhà
 - `change of address`: thay đổi địa chỉ
+- `residential address`: địa chỉ cư trú hiện tại
+- `prime address`: địa chỉ đắc địa, sang trọng
+- `permanent address`: địa chỉ thường trú cố định
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please write your home address on the application form.

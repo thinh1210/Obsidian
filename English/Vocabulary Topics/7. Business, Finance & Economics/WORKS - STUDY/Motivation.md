@@ -2,8 +2,10 @@
 *n.*
 > /ˌməʊ.tɪˈveɪ.ʃən/
 
+![[motivation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The reason or reasons one has for acting or behaving in a particular way
@@ -13,8 +15,10 @@
 💡 Mơ ti ve (motivation) tạo động lực học tiếng Anh.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``lack of motivation`: thiếu động lực`
-- ``strong motivation`: động lực mạnh mẽ`
+- `lack of motivation`: thiếu động lực
+- `strong motivation`: động lực mạnh mẽ
+- `intrinsic motivation`: động lực xuất phát từ bên trong nội tâm
+- `boost motivation`: thúc đẩy truyền cảm hứng gia tăng động lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What is your motivation for learning English?

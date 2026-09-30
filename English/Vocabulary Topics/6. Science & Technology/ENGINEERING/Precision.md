@@ -2,8 +2,10 @@
 *noun*
 > /prɪˈsɪʒn/
 
+![[precision.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality, condition, or fact of being exact and accurate.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `precision engineering`: kỹ thuật chính xác
 - `high precision`: độ chính xác cao
+- `precision instrument`: dụng cụ chính xác
+- `precision manufacturing`: sản xuất cơ khí chính xác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Watchmaking is a craft that requires extreme precision and concentration.

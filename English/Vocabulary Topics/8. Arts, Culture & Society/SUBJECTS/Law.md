@@ -2,8 +2,10 @@
 *n.*
 > /lɔː/
 
+![[law.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of rules which a particular country or community recognizes as regulating the actions of its members; also an academic discipline.

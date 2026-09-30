@@ -2,8 +2,10 @@
 *adj*
 > /rɪˈsplen.dənt/
 
+![[resplendent.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a very bright or beautiful appearance.

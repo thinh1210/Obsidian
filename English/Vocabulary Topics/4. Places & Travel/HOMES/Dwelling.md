@@ -2,8 +2,10 @@
 *noun*
 > /ˈdwɛlɪŋ/
 
+![[dwelling.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOMES
+**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A house, apartment, or other place of residence.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `private dwelling`: nơi ở riêng
 - `human dwelling`: nơi ở của con người
+- `single-family dwelling`: nhà ở cho một gia đình
+- `temporary dwelling`: nơi ở tạm thời
+- `dwell in peace`: sống trong cảnh bình yên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ancient dwelling was discovered.

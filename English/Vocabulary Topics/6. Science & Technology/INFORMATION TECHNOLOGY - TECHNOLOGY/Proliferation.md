@@ -2,8 +2,10 @@
 *n*
 > /prəˌlɪf.ərˈeɪ.ʃən/
 
+![[proliferation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact of something increasing a lot and suddenly in number or amount.

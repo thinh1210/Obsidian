@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfrɪdʒɪd/
 
+![[frigid.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Very cold in temperature
@@ -13,7 +15,10 @@
 💡 Free (lạnh) giọt (frigid)
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``frigid climate`: khí hậu lạnh giá`
+- `frigid climate`: khí hậu lạnh giá
+- `frigid temperature`: nhiệt độ băng giá
+- `frigid reception`: sự đón tiếp lạnh nhạt
+- `frigid zone`: khu vực hàn đới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Frigid air.

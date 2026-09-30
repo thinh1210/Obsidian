@@ -2,8 +2,10 @@
 *noun*
 > /pəˈnɪnsjələ/
 
+![[peninsula.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land almost surrounded by water or projecting out into a body of water.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the Korean Peninsula`: Bán đảo Triều Tiên
+- `Iberian Peninsula`: Bán đảo Iberia
+- `jutting peninsula`: bán đảo nhô ra biển
+- `narrow peninsula`: bán đảo hẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Italy is a large peninsula.

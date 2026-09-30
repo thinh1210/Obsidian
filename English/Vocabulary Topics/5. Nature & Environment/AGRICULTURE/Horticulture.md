@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɔː.tɪ.kʌl.tʃər/
 
+![[horticulture.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of garden cultivation and management.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `degree in horticulture`: bằng cấp về làm vườn học
 - `horticulture industry`: ngành công nghiệp làm vườn
+- `horticultural society`: hội làm vườn
+- `commercial horticulture`: nghề làm vườn thương phẩm
+- `horticultural research`: nghiên cứu trồng trọt hoa quả cảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He decided to study horticulture to open his own plant nursery.

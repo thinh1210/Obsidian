@@ -2,8 +2,10 @@
 *n.*
 > /ˈekwɪti/
 
+![[equity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The value of a business, or of the shares in it, after liabilities are subtracted

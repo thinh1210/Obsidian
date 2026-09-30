@@ -2,8 +2,10 @@
 *verb*
 > /ˈɪntɪɡreɪt/
 
+![[integrate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To combine one thing with another so that they become a whole.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `integrate software`: tích hợp phần mềm
 - `system integration`: tích hợp hệ thống
+- `seamlessly integrate`: tích hợp liền mạch
+- `integrate hardware`: tích hợp phần cứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is easy to integrate the new app with your existing calendar system.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈspɒn.sər/
 
+![[sponsor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or organization that provides funds.
@@ -13,7 +15,10 @@
 💡 Sponsor -> Hỗ trợ tiền
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Corporate sponsor: Nhà tài trợ doanh nghiệp`
+- `Corporate sponsor`: Nhà tài trợ doanh nghiệp
+- `title sponsor`: nhà tài trợ chính thức
+- `sponsor an event`: tài trợ cho một sự kiện
+- `financial sponsor`: nhà tài trợ về tài chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Find a sponsor.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈflaʊər/
 
+![[flower.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The seed-bearing part of a plant, consisting of reproductive organs.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wild flower`: hoa dại
 - `flower pot`: chậu hoa
+- `in full flower`: đang nở hoa rực rỡ trổ sắc
+- `flower arrangement`: nghệ thuật cắm hoa
+- `delicate flower`: bông hoa mỏng manh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She picked a beautiful flower from the garden.

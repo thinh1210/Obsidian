@@ -2,8 +2,10 @@
 *noun*
 > /piːs/
 
+![[peace.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Freedom from disturbance; quiet and tranquility; freedom from war.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make peace`: lập lại hòa bình
 - `peace treaty`: hiệp ước hòa bình
+- `peace accords`: các hiệp định hòa bình được ký kết
+- `maintain world peace`: gìn giữ bảo vệ nền hòa bình của toàn thế giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* After the loud music stopped, there was finally some peace.

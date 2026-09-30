@@ -2,8 +2,10 @@
 *n.*
 > /ˈrel.ə.tɪv/
 
+![[relative.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person connected by blood or marriage.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A close relative`: Một người họ hàng gần
+- `distant relative`: họ hàng xa ít qua lại
+- `blood relative`: họ hàng ruột thịt máu mủ
+- `close relative`: người thân thích ruột thịt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* All my relatives are here.

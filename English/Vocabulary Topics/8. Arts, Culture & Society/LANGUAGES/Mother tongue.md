@@ -2,8 +2,10 @@
 *n.*
 > /ˌmʌðə ˈtʌŋ/
 
+![[mother_tongue.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The language which a person has grown up speaking from early childhood
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `native mother tongue`: tiếng mẹ đẻ tự nhiên
+- `fluency in one's mother tongue`: sự lưu loát tiếng mẹ đẻ
+- `speak one's mother tongue`: nói tiếng mẹ đẻ của mình
+- `mother tongue interference`: sự ảnh hưởng của tiếng mẹ đẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Vietnamese is my mother tongue.

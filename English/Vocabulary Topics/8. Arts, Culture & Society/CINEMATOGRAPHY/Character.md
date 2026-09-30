@@ -2,8 +2,10 @@
 *n.*
 > /ˈkærəktə(r)/
 
+![[character.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person in a novel, play, or movie
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `main character`: nhân vật chính
 - `fictional character`: nhân vật hư cấu
+- `character arc`: quá trình biến chuyển tâm lý nhân vật
+- `complex character`: nhân vật có chiều sâu phức tạp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She plays the main character in the new show.

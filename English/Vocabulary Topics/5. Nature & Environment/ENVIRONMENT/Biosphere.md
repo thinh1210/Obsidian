@@ -2,8 +2,10 @@
 *n.*
 > /ˈbaɪəsfiə(r)/
 
+![[biosphere.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The regions of the surface, atmosphere, and hydrosphere of the earth (or analogous parts of other planets) occupied by living organisms.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `terrestrial biosphere`: sinh quyển trên cạn
 - `biosphere reserve`: khu dự trữ sinh quyển
+- `biosphere protection`: bảo vệ sinh quyển
+- `delicate biosphere`: sinh quyển mong manh dễ biến đổi
+- `atmosphere and biosphere`: khí quyển và sinh quyển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The biosphere includes all living organisms on Earth.

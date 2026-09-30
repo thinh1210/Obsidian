@@ -2,8 +2,10 @@
 *noun/verb*
 > /briːd/
 
+![[breed.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (n) A stock of animals within a species having a distinctive appearance; (v) produce offspring.
@@ -16,6 +18,8 @@
 - `rare breed`: giống hiếm
 - `breed of dog`: giống chó
 - `captive breeding`: nhân giống trong môi trường nuôi nhốt
+- `breed like rabbits`: sinh sôi nảy nở cực nhanh
+- `familiarity breeds contempt`: quen quá hóa khinh / gần gàng sinh nhờn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Golden Retrievers are a very popular breed of dog for families.

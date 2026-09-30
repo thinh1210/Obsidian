@@ -2,8 +2,10 @@
 *n.*
 > /ˈsem.ɪ.nɑːr/
 
+![[seminar.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small class at university in which a teacher and students discuss a topic.

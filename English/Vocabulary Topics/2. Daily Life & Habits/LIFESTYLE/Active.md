@@ -2,8 +2,10 @@
 *adj.*
 > /ˈæktɪv/
 
+![[active.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Engaging or ready to engage in physically energetic pursuits.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stay active`: duy trì năng động
+- `lead an active lifestyle`: sống một lối sống năng động
+- `stay physically active`: duy trì vận động thể chất
+- `take an active part in`: tham gia tích cực vào...
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to stay active.

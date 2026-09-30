@@ -2,8 +2,10 @@
 *noun*
 > /saɪˈkoʊ.sɪs/
 
+![[psychosis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A severe mental disorder in which thought and emotions are so impaired that contact is lost with external reality.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `acute psychosis`: loạn thần cấp tính
+- `induced psychosis`: chứng loạn thần do tác nhân kích thích
+- `episode of psychosis`: cơn bộc phát loạn thần
+- `treat psychosis`: điều trị chứng loạn thần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Drug abuse can lead to psychosis.

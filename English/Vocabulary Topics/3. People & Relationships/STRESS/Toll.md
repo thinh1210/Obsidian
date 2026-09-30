@@ -2,8 +2,10 @@
 *n.*
 > /təʊl/
 
+![[toll.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The adverse effect of something
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take a toll on`: gây tổn thất cho
 - `heavy toll`: tổn thất nặng nề
+- `take its toll`: để lại hậu quả tổn hại nghiêm trọng
+- `exact a heavy toll`: đòi hỏi cái giá quá đắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The stress took a toll on her health.

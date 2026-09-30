@@ -2,8 +2,10 @@
 *n.*
 > /rɪˈsiːvəblz/
 
+![[receivables.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Amounts owed to a business by its customers for goods or services delivered but not yet paid for

@@ -2,8 +2,10 @@
 *n*
 > /fluː/
 
+![[flu.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An infectious disease like a very bad cold, that causes fever, pains, and weakness.

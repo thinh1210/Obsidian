@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɜː.mɪ.nəl/
 
+![[terminal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The area where passengers wait for flights

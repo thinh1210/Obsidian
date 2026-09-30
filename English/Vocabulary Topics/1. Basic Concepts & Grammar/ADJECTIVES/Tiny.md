@@ -2,8 +2,10 @@
 *adj.*
 > /ˈtaɪni/
 
+![[tiny.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Very small
@@ -13,7 +15,10 @@
 💡 Tí nị là tiny
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``tiny detail`: chi tiết nhỏ`
+- `tiny detail`: chi tiết nhỏ
+- `tiny fraction`: phần rất nhỏ
+- `tiny minority`: thiểu số rất nhỏ
+- `tiny speck`: hạt bụi nhỏ xíu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tiny bug.

@@ -2,8 +2,10 @@
 *noun*
 > /priːˈkɜː.sər/
 
+![[precursor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing that comes before another of the same kind; a forerunner.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `immediate precursor`: tiền thân trực tiếp
 - `precursor of modern science`: tiền thân của khoa học hiện đại
+- `historical precursor`: nhân tố tiền thân lịch sử báo hiệu sự kiện sau đó
+- `ideological precursor`: tiền đề tư tưởng của một phong trào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Dark clouds are often a precursor to a heavy rainstorm.

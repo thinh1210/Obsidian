@@ -2,8 +2,10 @@
 *verb*
 > /ˈsel.ə.breɪt/
 
+![[celebrate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `celebrate a birthday`: tổ chức sinh nhật
+- `celebrate a milestone`: kỷ niệm cột mốc quan trọng
+- `celebrate together`: cùng nhau tụ tập ăn mừng
+- `cause for celebration`: lý do đáng để chúc mừng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We will celebrate our anniversary.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈʃel.tər/
 
+![[shelter.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place that provides protection from bad weather or danger.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `emergency shelter`: nơi trú ẩn khẩn cấp
 - `take shelter`: tìm nơi trú ẩn
+- `take shelter from the storm`: tìm chỗ trú ẩn tránh bão
+- `bomb shelter`: hầm trú ẩn bom đạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We took shelter from the storm under a large bridge.

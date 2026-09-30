@@ -2,8 +2,10 @@
 *adjective*
 > /ˈtræn.zi.ənt/
 
+![[transient.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRAVEL
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for only a short time

@@ -2,8 +2,10 @@
 *v.*
 > /ˌriːˈsaɪkl/
 
+![[recycle.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Convert (waste) into reusable material.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `recycle plastic`: tái chế nhựa
 - `recycle bin`: thùng rác tái chế
+- `recycle waste materials`: tái chế các loại phế liệu
+- `encourage recycling`: khuyến khích việc phân loại và tái chế rác
+- `recycled paper`: giấy tái chế bảo vệ môi trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We should recycle paper, glass, and plastic.

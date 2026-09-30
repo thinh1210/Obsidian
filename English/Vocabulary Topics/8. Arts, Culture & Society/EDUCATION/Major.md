@@ -2,8 +2,10 @@
 *v.*
 > /ˈmeɪdʒə(r)/
 
+![[major.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To specialize in a particular subject at college or university
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `major in English`: học chuyên ngành tiếng Anh
 - `double major`: học hai chuyên ngành
+- `declare a major`: chính thức đăng ký chuyên ngành chính
+- `major requirement`: học phần điều kiện bắt buộc của chuyên ngành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I plan to major in business administration.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈliʒər/
 
+![[leisure.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Time when one is not working or occupied; free time.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `leisure time`: thời gian rảnh rỗi
 - `leisure activities`: hoạt động giải trí
+- `at leisure`: lúc rảnh rỗi thảnh thơi
+- `leisure resort`: khu nghỉ dưỡng phục vụ giải trí thư giãn
+- `hours of pure leisure`: những giây phút thảnh thơi thong dong trọn vẹn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I read books at my leisure.

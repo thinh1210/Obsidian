@@ -2,8 +2,10 @@
 *n.*
 > /ˈmiːnɪŋ/
 
+![[meaning.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** What is meant by a word, text, concept, or action
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `literal meaning`: nghĩa đen
+- `convey deeper meaning`: truyền tải ý nghĩa sâu xa
+- `convey meaning`: truyền tải ý nghĩa
+- `double meaning`: nghĩa kép/nước đôi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What is the meaning of this word?

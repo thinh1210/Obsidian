@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈkrɪm.ɪ.neɪt/
 
+![[incriminate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make someone appear guilty of a crime or wrongdoing.

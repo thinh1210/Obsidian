@@ -2,8 +2,10 @@
 *n.*
 > /bɑːn/
 
+![[barn.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large farm building used for storing grain, hay, or housing livestock.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `barn yard`: sân trước kho thóc
 - `barn owl`: chim cú lợn
+- `red barn`: nhà kho/chuồng trại màu đỏ truyền thống
+- `store hay in the barn`: cất trữ cỏ khô trong kho thóc
+- `lock the barn door after the horse has bolted`: mất bò mới lo làm chuồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kids like playing in the hay in the barn.

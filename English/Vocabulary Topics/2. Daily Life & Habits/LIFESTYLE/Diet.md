@@ -2,8 +2,10 @@
 *n.*
 > /ˈdaɪət/
 
+![[diet.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The kinds of food that a person, animal, or community habitually eats.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `healthy diet`: chế độ ăn lành mạnh
+- `balanced diet`: chế độ ăn uống cân bằng
+- `go on a strict diet`: bắt đầu ăn kiêng nghiêm ngặt
+- `plant-based diet`: chế độ ăn thuần thực vật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am on a diet.

@@ -2,8 +2,10 @@
 *n*
 > /ɪˈlek.ʃən/
 
+![[election.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal and organised process of choosing a person for a political position.

@@ -2,8 +2,10 @@
 *noun*
 > /hjuːˈmænətiz/
 
+![[humanities.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Academic disciplines that study aspects of human society and culture (such as literature, history, and philosophy).

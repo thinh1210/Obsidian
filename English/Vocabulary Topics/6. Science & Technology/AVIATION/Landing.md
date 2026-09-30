@@ -2,8 +2,10 @@
 *noun*
 > /ˈlæn.dɪŋ/
 
+![[landing.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of coming down through the air and touching the ground.

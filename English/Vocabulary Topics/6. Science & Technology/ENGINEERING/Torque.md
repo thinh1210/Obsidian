@@ -2,8 +2,10 @@
 *noun*
 > /tɔːk/
 
+![[torque.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A twisting force that tends to cause rotation.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high torque`: mô-men xoắn cao
 - `torque wrench`: cờ lê lực
+- `maximum torque`: mô-men xoắn cực đại
+- `engine torque`: mô-men xoắn của động cơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Electric motors deliver high torque instantly from a complete stop.

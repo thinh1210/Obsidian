@@ -2,8 +2,10 @@
 *adj.*
 > /ˈmer.i/
 
+![[merry.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful and lively.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `merry Christmas`: Giáng sinh vui vẻ
+- `make merry`: vui chơi tiệc tùng thỏa thích
+- `the more the merrier`: càng đông càng vui (idiom)
+- `merry band of friends`: hội bạn vui vẻ tếu táo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We wish you a merry Christmas.

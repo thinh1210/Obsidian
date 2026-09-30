@@ -2,8 +2,10 @@
 *noun*
 > /ˈsoʊfə/
 
+![[sofa.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long upholstered seat with a back and arms, for two or more people.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sit on the sofa`: ngồi trên sô pha
 - `leather sofa`: sô pha da
+- `sofa bed`: ghế sô-pha kiêm giường nằm
+- `curl up on the sofa`: nằm cuộn mình lười biếng trên sô-pha
+- `comfy sofa`: chiếc ghế sô-pha êm ái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is sleeping on the sofa.

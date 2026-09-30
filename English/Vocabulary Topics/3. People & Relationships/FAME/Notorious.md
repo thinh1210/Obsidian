@@ -2,8 +2,10 @@
 *adj.*
 > /nəʊˈtɔːriəs/
 
+![[notorious.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME
+**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Famous or well known, typically for some bad quality or deed.
@@ -13,7 +15,10 @@
 💡 Note (chú ý) vào những điều tồi tệ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `notorious for: khét tiếng vì`
+- `notorious for`: khét tiếng vì
+- `notorious criminal`: tội phạm khét tiếng sừng sỏ
+- `notorious reputation`: thanh danh đầy tai tiếng
+- `notoriously difficult`: khét tiếng là cực kỳ khó khăn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a notorious criminal.

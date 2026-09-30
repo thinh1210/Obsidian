@@ -2,8 +2,10 @@
 *adj*
 > /ˌsɪmpəˈθetɪk/
 
+![[sympathetic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling, showing, or expressing sympathy.

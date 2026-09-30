@@ -2,8 +2,10 @@
 *adj.*
 > /əbˈdʒek.tɪv/
 
+![[objective.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not influenced by personal feelings or opinions in considering facts.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `objective analysis`: phân tích khách quan
 - `objective truth`: sự thật khách quan
+- `primary objective`: mục tiêu trọng tâm hàng đầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Try to be objective when judging their performance.

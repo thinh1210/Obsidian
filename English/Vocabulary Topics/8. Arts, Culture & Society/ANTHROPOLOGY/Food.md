@@ -2,8 +2,10 @@
 *n.*
 > /fuːd/
 
+![[food.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `organic food`: thực phẩm hữu cơ
 - `food security`: an ninh lương thực
+- `food taboos`: điều kiêng kị trong ăn uống theo phong tục
+- `staple food`: lương thực thiết yếu chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Vietnamese food is famous worldwide.

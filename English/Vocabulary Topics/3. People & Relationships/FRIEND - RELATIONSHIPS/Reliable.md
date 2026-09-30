@@ -2,8 +2,10 @@
 *adj*
 > /rɪˈlaɪ.ə.bəl/
 
+![[reliable.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Consistently good in quality or performance; able to be trusted.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a reliable friend`: một người bạn đáng tin cậy
+- `wholly reliable`: hoàn toàn đáng tin cậy
+- `reliable ally`: đồng minh đáng tin cậy vững chắc
+- `dependable and reliable`: vững vàng và vô cùng đáng tin cậy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a very reliable person.

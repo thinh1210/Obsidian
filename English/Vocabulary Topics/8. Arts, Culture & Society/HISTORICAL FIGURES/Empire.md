@@ -2,8 +2,10 @@
 *n.*
 > /ˈempaɪə(r)/
 
+![[empire.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extensive group of states or countries ruled over by a single monarch or sovereign state
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Roman Empire`: Đế chế La Mã
 - `fall of the empire`: sự sụp đổ của đế chế
+- `mighty empire`: đế quốc hùng mạnh
+- `expansion of the empire`: sự bành trướng của đế chế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Roman Empire stretched across Europe and North Africa.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈsteɪ.di.əm/
 
+![[stadium.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sports arena with tiers of seats for spectators.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `football stadium`: sân vận động bóng đá
+- `indoor stadium`: nhà thi đấu thể thao trong nhà
+- `fill the stadium`: lấp kín toàn bộ khán đài sân vận động
+- `stadium capacity`: sức chứa khán giả của sân vận động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The stadium is full of screaming fans.

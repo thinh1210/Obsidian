@@ -2,8 +2,10 @@
 *n.*
 > /ˈsəʊ.ləʊ/
 
+![[solo.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of music or section of a piece played or sung by a single performer.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `guitar solo`: phần độc tấu ghi-ta
 - `go solo`: hoạt động độc lập (tách nhóm)
+- `drum solo`: đoạn độc tấu trống
+- `solo debut`: sự ra mắt solo đầu tiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She performed a beautiful piano solo at the end of the concert.

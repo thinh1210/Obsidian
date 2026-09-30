@@ -2,8 +2,10 @@
 *n.*
 > /ˈmɑːn.jə.mənt/
 
+![[monument.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue, building, or other structure erected to commemorate a famous or notable person or event.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical monument`: di tích lịch sử
+- `national monument`: tượng đài tưởng niệm quốc gia
+- `ancient monument`: di tích bia đá cổ đại
+- `erect a monument`: dựng đài tưởng niệm công đức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They visited the national monument.

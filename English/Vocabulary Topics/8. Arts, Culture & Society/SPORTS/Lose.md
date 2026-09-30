@@ -2,8 +2,10 @@
 *v.*
 > /luːz/
 
+![[lose.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Be deprived of or cease to have or retain something; fail to win a game or contest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lose a game`: thua một trận đấu
 - `lose weight`: giảm cân
+- `lose ground`: mất dần lợi thế / tụt lại phía sau
+- `sore loser`: kẻ thua cuộc cay cú thiếu thượng võ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's hard to lose a game when you played so well.

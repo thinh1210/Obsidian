@@ -2,8 +2,10 @@
 *v*
 > /swɪm/
 
+![[swim.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move through water by moving your arms and legs.

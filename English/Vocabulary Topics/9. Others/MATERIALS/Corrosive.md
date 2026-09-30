@@ -2,8 +2,10 @@
 *adjective.*
 > /kəˈrəʊsɪv/
 
+![[corrosive.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to cause corrosion; destructive or harmful.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `corrosive substance`: chất ăn mòn
 - `corrosive effect`: tác động ăn mòn/phá hủy
+- `corrosive acid`: axit có tính ăn mòn mạnh
+- `corrosive environment`: môi trường dễ bị oxy hóa ăn mòn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Acid battery fluid is highly corrosive and will burn your skin.

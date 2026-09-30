@@ -2,8 +2,10 @@
 *noun*
 > /bɪˈtrəʊðl/
 
+![[betrothal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Formal state of engagement to be married.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A betrothal ceremony`: Nghi thức đính hôn
+- `betrothal gifts`: sính lễ ăn hỏi đính hôn
+- `seal the betrothal`: chính thức giao ước đính hôn
+- `betrothal ring`: nhẫn đính ước trăm năm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Their betrothal was arranged by their parents.

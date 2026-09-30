@@ -2,8 +2,10 @@
 *noun*
 > /æŋˈzaɪ.ə.t̬i/
 
+![[anxiety.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A feeling of worry, nervousness, or unease, typically about an imminent event.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `anxiety disorder`: rối loạn lo âu
+- `acute anxiety`: cơn lo âu cấp tính
+- `ease anxiety`: làm dịu đi nỗi lo âu
+- `separation anxiety`: nỗi lo âu khi phải chia cách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She suffers from social anxiety.

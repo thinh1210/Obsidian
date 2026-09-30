@@ -2,8 +2,10 @@
 *noun*
 > /ˌoʊt kuːˈtʊr/
 
+![[haute_couture.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Expensive, fashionable clothes produced by leading fashion houses.
@@ -13,7 +15,10 @@
 💡 Haute couture -> Hót cô thu -> Thời trang cao cấp hót cô thu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `haute couture collections: bộ sưu tập thời trang cao cấp`
+- `haute couture collections`: bộ sưu tập thời trang cao cấp
+- `haute couture gown`: váy đầm dạ hội may đo độc bản cao cấp
+- `haute couture designer`: nhà thiết kế thời trang cao cấp thế giới
+- `haute couture fashion week`: tuần lễ thời trang cao cấp Paris
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She only wears haute couture.

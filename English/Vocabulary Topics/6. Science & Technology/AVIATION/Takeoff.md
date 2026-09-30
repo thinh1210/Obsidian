@@ -2,8 +2,10 @@
 *noun*
 > /ˈteɪk.ɒf/
 
+![[takeoff.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The moment when an aircraft leaves the ground and begins to fly.

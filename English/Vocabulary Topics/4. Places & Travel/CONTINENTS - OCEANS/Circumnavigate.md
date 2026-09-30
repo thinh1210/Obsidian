@@ -2,8 +2,10 @@
 *verb*
 > /ˌsɜːkəmˈnævɪɡeɪt/
 
+![[circumnavigate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sail or travel all the way around (something, especially the world).
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `circumnavigate the globe`: đi vòng quanh địa cầu
+- `circumnavigate the earth`: đi vòng quanh trái đất
+- `attempt to circumnavigate`: nỗ lực đi vòng quanh thế giới
+- `circumnavigate by boat`: đi vòng quanh thế giới bằng thuyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Magellan's expedition was the first to circumnavigate the earth.

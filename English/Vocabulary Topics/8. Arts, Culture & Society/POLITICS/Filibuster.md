@@ -2,8 +2,10 @@
 *n/v*
 > /ˈfɪl.ɪ.bʌs.tər/
 
+![[filibuster.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extended speech used to delay or obstruct legislative proceedings.

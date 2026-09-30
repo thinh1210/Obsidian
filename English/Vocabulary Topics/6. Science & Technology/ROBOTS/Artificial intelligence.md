@@ -2,8 +2,10 @@
 *noun.*
 > /ˌɑːr.t̬əˈfɪʃ.əl ɪnˈtel.ə.dʒəns/
 
+![[artificial_intelligence.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study and development of computer systems that can perform tasks requiring human intelligence
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `generative artificial intelligence`: trí tuệ nhân tạo tạo sinh
+- `narrow artificial intelligence`: trí tuệ nhân tạo hẹp
+- `artificial intelligence ethics`: đạo đức trí tuệ nhân tạo
+- `apply artificial intelligence`: ứng dụng trí tuệ nhân tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Artificial intelligence has transformed the field of robotics.

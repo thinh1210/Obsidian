@@ -2,8 +2,10 @@
 *adj*
 > /ˈmɛsi/
 
+![[messy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Untidy or dirty.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `messy room`: phòng bừa bộn
 - `make a mess`: làm bừa bộn
+- `messy desk`: bàn làm việc bừa bộn
+- `messy divorce`: vụ ly hôn ồn ào phức tạp
+- `get messy`: trở nên lộn xộn bừa bãi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His bedroom is always messy.

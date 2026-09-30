@@ -2,8 +2,10 @@
 *adj.*
 > /pəˈreniəl/
 
+![[perennial.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting or existing for a long or apparently infinite time
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `perennial problem`: vấn đề muôn thuở
+- `perennial favorite`: thứ luôn được yêu chuộng mọi thời điểm
+- `perennial candidate`: ứng cử viên quen mặt muôn năm
+- `perennial plant`: cây trồng lâu năm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's a perennial favorite.

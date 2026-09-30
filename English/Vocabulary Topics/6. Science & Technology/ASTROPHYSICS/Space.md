@@ -2,8 +2,10 @@
 *noun*
 > /speɪs/
 
+![[space.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The empty area outside Earth's atmosphere.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `outer space`: vũ trụ bao la
 - `space travel`: du hành vũ trụ
+- `space exploration`: thám hiểm không gian
+- `deep space`: không gian sâu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Rockets fly into outer space to explore.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈneɪ.bər/
 
+![[neighbor.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person living next door or very near.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A good neighbor`: Một người hàng xóm tốt
+- `next-door neighbor`: người hàng xóm sát vách
+- `good neighbor policy`: chính sách láng giềng hòa hiếu
+- `friendly neighbor`: người láng giềng thân thiện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My neighbor is friendly.

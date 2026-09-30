@@ -1,13 +1,21 @@
 # Aspect
 
 *Noun*
+> /ˈæs.pekt/
+
+![[aspect.mp3]]
 
 - **[EN]:** A particular part or feature of something.
 - **[VN]:** Khía cạnh, diện mạo.
 
-**Level:** B1
+**Level:** B1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `key aspect`: khía cạnh trọng yếu cốt lõi
+- `from every aspect`: xét trên mọi khía cạnh phương diện
+- `aspect ratio`: tỷ lệ khung hình hiển thị
+
 ## Examples
 1. *We must consider every aspect of the problem.*
    - Chúng ta phải xem xét mọi khía cạnh của vấn đề.

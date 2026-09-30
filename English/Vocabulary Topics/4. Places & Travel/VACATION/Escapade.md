@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɛskəˌpeɪd/
 
+![[escapade.mp3]]
+
 ---
-**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act or incident involving excitement, daring, or adventure.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reckless escapade`: cuộc phiêu lưu liều lĩnh
 - `weekend escapade`: cuộc phiêu lưu cuối tuần
+- `tropical escapade`: chuyến trốn việc đi xả hơi ở xứ nhiệt đới
+- `romantic escapade`: chuyến phiêu lưu lãng mạn của đôi uyên ương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Their weekend escapade ended in disaster.

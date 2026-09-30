@@ -2,8 +2,10 @@
 *noun*
 > /ˈherɪtɪdʒ/
 
+![[heritage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHAEOLOGY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Valued objects and qualities such as historic buildings and cultural traditions that have been passed down from previous generations
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultural heritage`: di sản văn hóa
 - `world heritage`: di sản thế giới
+- `archaeological heritage`: di sản khảo cổ
+- `heritage conservation`: công tác bảo tồn di sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We must protect our national heritage.

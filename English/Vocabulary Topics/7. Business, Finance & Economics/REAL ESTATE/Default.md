@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈfɔːlt/
 
+![[default.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Fail to fulfill an obligation, especially to repay a loan.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `default on a loan`: vỡ nợ khoản vay
 - `default rate`: tỷ lệ nợ xấu, tỷ lệ vỡ nợ
+- `default on mortgage payments`: mất khả năng thanh toán nợ vay mua nhà
+- `notice of default`: thông báo chính thức về việc vi phạm nghĩa vụ trả nợ
+- `cure a default`: khắc phục tình trạng nợ quá hạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* If you default on your mortgage payments, the bank can repossess your home.

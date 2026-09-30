@@ -2,8 +2,10 @@
 *Noun*
 > /ˈtʊr.ɪ.zəm/
 
+![[tourism.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The business of providing services such as transport, places to stay, or entertainment for people who are on holiday.
@@ -13,7 +15,11 @@
 💡 TUA RÍ DẦM (Tourism) ngành du lịch phát triển.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `local tourism`: du lịch địa phương\n- `promote tourism`: thúc đẩy du lịch
+- `local tourism`: du lịch địa phương
+- `promote tourism`: thúc đẩy du lịch
+- `sustainable tourism industry`: ngành du lịch phát triển bền vững
+- `boost international tourism`: kích cầu thu hút khách du lịch quốc tế
+- `cultural tourism`: loại hình du lịch văn hóa truyền thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tourism is very important to the island's economy.

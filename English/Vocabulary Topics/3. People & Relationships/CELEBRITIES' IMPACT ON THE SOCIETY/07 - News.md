@@ -2,8 +2,10 @@
 *n.*
 > /njuːz/
 
+![[news.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Information about recent events.
@@ -13,7 +15,10 @@
 💡 News -> Chuyện mới (new)
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Good news: Tin tốt`
+- `Good news`: Tin tốt
+- `breaking news`: tin nóng sốt dẻo
+- `news coverage`: sự đưa tin của báo đài
+- `fake news`: tin tức giả mạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I read the news.

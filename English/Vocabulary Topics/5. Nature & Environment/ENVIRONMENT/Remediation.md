@@ -2,8 +2,10 @@
 *n.*
 > /rɪˌmiːdiˈeɪʃn/
 
+![[remediation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of remedying something, in particular of reversing or stopping environmental damage.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `environmental remediation`: xử lý ô nhiễm/khắc phục môi trường
 - `soil remediation`: xử lý đất ô nhiễm
+- `groundwater remediation`: xử lý làm sạch nguồn nước ngầm
+- `bioremediation technique`: kỹ thuật xử lý ô nhiễm bằng công nghệ sinh học
+- `costly remediation`: quá trình khắc phục ô nhiễm tốn kém
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company spent millions on the remediation of the contaminated site.

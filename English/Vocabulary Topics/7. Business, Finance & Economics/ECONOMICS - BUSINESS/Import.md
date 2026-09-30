@@ -2,8 +2,10 @@
 *verb*
 > /ˈɪmpɔːrt/
 
+![[import.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to bring products or materials into a country from another country for sale.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `import duty`: thuế nhập khẩu
 - `import goods`: hàng nhập khẩu
+- `import tariff`: thuế quan nhập khẩu hàng hóa
+- `import ban`: lệnh cấm nhập khẩu
+- `reliance on imports`: sự phụ thuộc vào nguồn hàng nhập khẩu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This shop sells high-quality imported chocolates.

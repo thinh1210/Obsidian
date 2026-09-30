@@ -2,8 +2,10 @@
 *noun*
 > /θeft/
 
+![[theft.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act or crime of stealing something
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `identity theft`: trộm cắp danh tính
 - `report a theft`: trình báo vụ trộm
+- `petty theft`: hành vi trộm cắp vặt giá trị nhỏ
+- `grand theft`: tội đại hình trộm cắp tài sản giá trị đặc biệt lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She went to the police station to report the theft of her bicycle.

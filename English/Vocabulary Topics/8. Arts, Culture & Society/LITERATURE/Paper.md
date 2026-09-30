@@ -2,8 +2,10 @@
 *noun*
 > /ˈpeɪ.pər/
 
+![[paper.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE
+**Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Material manufactured in thin sheets, used for writing, printing, or research essays.

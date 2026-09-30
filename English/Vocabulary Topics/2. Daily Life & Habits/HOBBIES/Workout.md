@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɜː.kaʊt/
 
+![[workout.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of physical exercise.

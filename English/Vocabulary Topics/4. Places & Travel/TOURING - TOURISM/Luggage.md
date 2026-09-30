@@ -2,8 +2,10 @@
 *Noun*
 > /ˈlʌɡ.ɪdʒ/
 
+![[luggage.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The bags, suitcases, etc. that contain your things and that you take with you when you are travelling.
@@ -13,7 +15,11 @@
 💡 LẮC ĐÍT (Luggage) xách hành lý nặng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `carry luggage`: mang hành lý\n- `lost luggage`: hành lý thất lạc
+- `carry luggage`: mang hành lý
+- `lost luggage`: hành lý thất lạc
+- `excess luggage fee`: phí phạt hành lý quá trọng lượng cước
+- `pack light luggage`: thu xếp hành lý gọn nhẹ dễ đi
+- `claim one's luggage`: nhận lại hành lý tại băng chuyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have too much luggage to carry alone.

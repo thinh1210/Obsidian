@@ -2,8 +2,10 @@
 *n*
 > /ˈtriːtmənt/
 
+![[treatment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Medical care given to a patient for an illness or injury.

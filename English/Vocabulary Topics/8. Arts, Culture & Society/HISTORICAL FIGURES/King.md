@@ -2,8 +2,10 @@
 *n.*
 > /kɪŋ/
 
+![[king.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A male ruler of a country, who holds this position by right of birth
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wise king`: vị vua thông thái
 - `crown a king`: krôn (lên ngôi) một vị vua
+- `fit for a king`: xa hoa lộng lẫy / xứng tầm đế vương
+- `king's decree`: chiếu chỉ của nhà vua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The king ruled his country for forty years.

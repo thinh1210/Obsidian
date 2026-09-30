@@ -2,8 +2,10 @@
 *verb.*
 > /kənˈtroʊl/
 
+![[control.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To order, limit, or rule something, or to make something behave in a particular way
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `remote control`: điều khiển từ xa
+- `motion control`: điều khiển chuyển động
+- `control system`: hệ thống điều khiển
+- `take control`: nắm quyền kiểm soát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You can control the robot using your voice.

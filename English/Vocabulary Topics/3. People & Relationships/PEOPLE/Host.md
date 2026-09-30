@@ -2,8 +2,10 @@
 *n.*
 > /həʊst/
 
+![[host.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who receives or entertains other people as guests.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A gracious host`: Một người chủ nhà duyên dáng
+- `gracious host`: chủ nhà lịch thiệp chu đáo
+- `play host to`: làm chủ nhà đăng cai tổ chức (idiom)
+- `host family`: gia đình bản xứ đón người nước ngoài ở trọ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Thank you to our host.

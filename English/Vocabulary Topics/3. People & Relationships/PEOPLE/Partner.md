@@ -2,8 +2,10 @@
 *n.*
 > /ˈpɑːt.nər/
 
+![[partner.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Either of a pair of people engaged together in the same activity.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A business partner`: Đối tác kinh doanh
+- `business partner`: đối tác làm ăn kinh doanh
+- `romantic partner`: bạn đời / người yêu thương gắn bó
+- `equal partner`: đối tác bình đẳng ngang quyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Meet my partner, Sarah.

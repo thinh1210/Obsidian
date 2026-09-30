@@ -2,8 +2,10 @@
 *v.*
 > /ɡrəʊ/
 
+![[grow.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To plant and look after plants or crops as they develop.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grow vegetables`: trồng rau
 - `grow quickly`: phát triển nhanh chóng
+- `grow rapidly`: tăng trưởng nhanh chóng
+- `grow on someone`: dần dần khiến ai yêu thích
+- `grow out of something`: từ bỏ thói quen cũ khi lớn lên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We grow tomatoes in our backyard garden.

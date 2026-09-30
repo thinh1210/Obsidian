@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɪdnaɪt/
 
+![[midnight.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Twelve o'clock at night.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `at midnight`: vào lúc nửa đêm
+- `burn the midnight oil`: thức khuya làm việc/học tập
+- `stroke of midnight`: đúng thời khắc nửa đêm
+- `midnight snack`: bữa ăn khuya
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I went to bed after midnight.

@@ -2,8 +2,10 @@
 *n.*
 > /brɪdʒ/
 
+![[bridge.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure built over a river or road.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross a bridge`: qua cầu
+- `suspension bridge`: cầu treo
+- `bridge the gap`: thu hẹp khoảng cách
+- `burn one's bridges`: cắt đứt mọi đường lui (idiom)
+- `build a bridge`: xây dựng cây cầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We drove over the bridge.

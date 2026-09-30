@@ -2,8 +2,10 @@
 *adjective*
 > /nɒkˈtɜː.nəl/
 
+![[nocturnal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Active, done, or happening at night.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `nocturnal bird`: chim hoạt động ban đêm
 - `nocturnal habit`: tập tính ban đêm
+- `nocturnal habits`: tập tính hoạt động về đêm
+- `strictly nocturnal`: chỉ thuần túy hoạt động ban đêm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Owls are nocturnal birds that hunt while we sleep.

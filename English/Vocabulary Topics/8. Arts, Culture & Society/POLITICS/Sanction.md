@@ -2,8 +2,10 @@
 *n/v*
 > /ˈsæŋk.ʃən/
 
+![[sanction.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A penalty or coercive measure imposed on a country to force compliance.

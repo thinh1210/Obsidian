@@ -2,8 +2,10 @@
 *noun*
 > /ˈem.paɪər/
 
+![[empire.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extensive group of states or countries under a single supreme authority.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Roman Empire`: Đế chế La Mã
 - `fall of the empire`: sự sụp đổ của đế chế
+- `collapse of the empire`: sự sụp đổ của đế chế
+- `vast empire`: đế quốc rộng lớn bao la
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Roman Empire once controlled most of Europe and North Africa.

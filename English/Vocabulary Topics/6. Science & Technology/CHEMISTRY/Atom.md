@@ -2,8 +2,10 @@
 *noun*
 > /ˈæt.əm/
 
+![[atom.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The smallest unit of any chemical element, consisting of a nucleus surrounded by electrons.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `atom model`: mô hình nguyên tử
 - `split an atom`: phân tách nguyên tử
+- `hydrogen atom`: nguyên tử hydro
+- `atomic nucleus`: hạt nhân nguyên tử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Water is made of hydrogen and oxygen atoms.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈviːəkl/
 
+![[vehicle.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing used for transporting people or goods, especially on land.
@@ -16,6 +18,7 @@
 - `motor vehicle`: phương tiện cơ giới
 - `emergency vehicle`: xe khẩn cấp (cứu thương, cứu hỏa)
 - `electric vehicle (EV)`: xe điện
+- `autonomous vehicle`: phương tiện xe tự hành thông minh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Are you allowed to park your vehicle here?

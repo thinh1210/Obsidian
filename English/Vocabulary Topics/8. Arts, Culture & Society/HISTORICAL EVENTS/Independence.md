@@ -2,8 +2,10 @@
 *noun*
 > /ˌɪn.dɪˈpen.dəns/
 
+![[independence.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or state of being independent; freedom from outside control.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gain independence`: giành độc lập
 - `declaration of independence`: bản tuyên ngôn độc lập
+- `struggle for independence`: cuộc trường kỳ kháng chiến giành nền độc lập
+- `proclaim independence`: trịnh trọng tuyên bố đất nước hoàn toàn độc lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Moving out of his parents' house gave him a sense of independence.

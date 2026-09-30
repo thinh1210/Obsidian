@@ -2,8 +2,10 @@
 *noun*
 > /sɔɪl/
 
+![[soil.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The top layer of the earth in which plants grow.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fertile soil`: đất màu mỡ
 - `soil erosion`: xói mòn đất
+- `soil contamination`: sự ô nhiễm đất đai
+- `fertile alluvial soil`: đất phù sa màu mỡ phì nhiêu
+- `soil structure and tilth`: kết cấu và độ tơi xốp của đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The soil in this area is very sandy.

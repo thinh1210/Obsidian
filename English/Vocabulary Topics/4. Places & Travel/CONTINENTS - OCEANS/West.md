@@ -2,8 +2,10 @@
 *noun*
 > /west/
 
+![[west.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The direction in which the sun sets.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `head west`: đi về hướng Tây
+- `due west`: chính tây
+- `Wild West`: miền Tây hoang dã
+- `go west`: đi về phía Tây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They travelled west to find gold.

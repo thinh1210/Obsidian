@@ -2,8 +2,10 @@
 *noun*
 > /ˈpriː.dɪˌses.ər/
 
+![[predecessor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who held a job or office before the current holder; a thing that has been followed or replaced by another.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `immediate predecessor`: người tiền nhiệm trực tiếp
 - `illustrious predecessor`: tiền bối lừng lẫy
+- `regal predecessor`: bậc tiền đế đời vua trước
+- `distinguished predecessor`: bậc tiền bối tiền nhiệm lỗi lạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new manager adapted to the job much faster than her predecessor.

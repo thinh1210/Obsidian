@@ -2,8 +2,10 @@
 *adj.*
 > /vɪˈveɪ.ʃəs/
 
+![[vivacious.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Attractively lively and animated (typically used of a woman).
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `vivacious personality`: tính cách sôi nổi
+- `vivacious charm`: nét duyên dáng hoạt bát
+- `vivacious young woman`: cô gái trẻ hoạt bát tràn đầy sức sống
+- `vivacious conversation`: cuộc trò chuyện sôi nổi rôm rả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a vivacious girl.

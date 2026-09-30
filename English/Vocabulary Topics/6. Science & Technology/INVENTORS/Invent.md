@@ -2,8 +2,10 @@
 *v.*
 > /ɪnˈvent/
 
+![[invent.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To design or create something that has never been made before
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `invent a machine`: phát minh một cỗ máy
 - `invent a story`: bịa ra một câu chuyện
+- `invent an excuse`: nghĩ ra một lý do thoái thác
+- `invent a new machine`: phát minh ra cỗ máy mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children like to invent new games.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈneɪbə/
 
+![[neighbor.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person living near or next door to the speaker.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `friendly neighbor`: hàng xóm thân thiện
+- `next-door neighbor`: người hàng xóm ngay sát vách
+- `good neighbor`: người láng giềng tốt bụng
+- `love thy neighbor`: thương yêu người láng giềng xung quanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My neighbor is very kind.

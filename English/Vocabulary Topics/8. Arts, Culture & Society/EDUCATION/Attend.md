@@ -2,8 +2,10 @@
 *v.*
 > /əˈtend/
 
+![[attend.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To be present at an event, meeting, or function, or to go regularly to a school
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `attend school`: đi học
 - `attend a class`: tham gia lớp học
+- `attend a lecture`: tham dự buổi nghe giảng chuyên đề
+- `regularly attend`: đi học chuyên cần đều đặn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Students must attend all classes to pass.

@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈfɔːrən/
 
+![[foreign.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of, from, in, or characteristic of a country or language other than one's own.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Foreign policy`: Chính sách đối ngoại
+- `foreign language`: ngoại ngữ
+- `foreign affairs`: ngoại giao đối ngoại
+- `foreign investment`: đầu tư nước ngoài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She speaks two foreign languages.

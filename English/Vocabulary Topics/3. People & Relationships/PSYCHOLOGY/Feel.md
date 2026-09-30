@@ -2,8 +2,10 @@
 *verb*
 > /fiːl/
 
+![[feel.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To experience a physical or emotional sensation.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feel good`: cảm thấy tốt
+- `feel down in the dumps`: cảm thấy buồn rầu chán nản (idiom)
+- `feel at home`: cảm thấy thoải mái tự nhiên như ở nhà (idiom)
+- `gut feeling`: linh cảm trực giác mách bảo (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I feel tired.

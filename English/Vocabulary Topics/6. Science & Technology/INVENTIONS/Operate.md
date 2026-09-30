@@ -2,8 +2,10 @@
 *Verb*
 > /ˈɒp.ər.eɪt/
 
+![[operate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To work, be in action, or direct the functioning of a machine.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `operate machinery`: vận hành máy móc
 - `operate efficiently`: hoạt động hiệu quả
+- `operate under pressure`: làm việc hiệu quả dưới áp lực
+- `operate on a patient`: tiến hành phẫu thuật cho bệnh nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you know how to operate this coffee maker?

@@ -2,8 +2,10 @@
 *Noun*
 > /det/
 
+![[debt.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An amount of money borrowed from another party that is owed.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `run into debt`: mắc nợ
 - `clear a debt`: xóa nợ, trả hết nợ
+- `debt snowball method`: phương pháp trả nợ quả cầu tuyết
+- `pay down debt`: từng bước thanh toán giảm bớt số nợ
+- `debt consolidation`: gom gộp các khoản nợ về một mối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It took him three years to pay off all his credit card debt.

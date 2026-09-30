@@ -2,8 +2,10 @@
 *noun*
 > /kæpˈtɪv.ə.ti/
 
+![[captivity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition of being imprisoned or confined.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep in captivity`: nuôi giữ trong môi trường nuôi nhốt
 - `breed in captivity`: nhân giống trong nuôi nhốt
+- `bred in captivity`: được nhân giống trong môi trường nuôi nhốt
+- `release from captivity`: phóng thích khỏi cảnh giam cầm
+- `held in captivity`: bị giam cầm nhốt giữ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Some birds do not sing when they are kept in captivity.

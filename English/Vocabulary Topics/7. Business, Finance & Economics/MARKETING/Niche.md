@@ -2,8 +2,10 @@
 *noun*
 > /niːʃ/
 
+![[niche.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A specialized segment of the market for a particular kind of product or service
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `niche market`: thị trường ngách
 - `carve out a niche`: tạo dựng vị thế/chỗ đứng
+- `niche marketing`: chiến lược tiếp thị vào thị trường ngách
+- `profitable niche`: phân khúc thị trường hẹp nhưng lợi nhuận dồi dào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He finally found his niche writing software for local bakery shops.

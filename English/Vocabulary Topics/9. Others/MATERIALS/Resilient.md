@@ -2,8 +2,10 @@
 *adjective.*
 > /rɪˈzɪliənt/
 
+![[resilient.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to recoil or spring back into shape after bending or compression; able to recover quickly from difficulties.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `resilient material`: vật liệu đàn hồi bền bỉ
 - `resilient economy`: nền kinh tế phục hồi nhanh
+- `psychologically resilient`: vững vàng tâm lý vượt qua nghịch cảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The flooring is made of resilient cork, which cushions steps and bounces back.

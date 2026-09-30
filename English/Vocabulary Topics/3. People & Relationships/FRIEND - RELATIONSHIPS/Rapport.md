@@ -2,8 +2,10 @@
 *noun*
 > /ræpˈɔːr/
 
+![[rapport.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build rapport`: xây dựng mối quan hệ tốt đẹp
+- `establish a rapport`: thiết lập mối quan hệ hòa hợp tốt đẹp
+- `good rapport with peers`: mối quan hệ ăn ý với bạn bè đồng trang lứa
+- `instant rapport`: sự hòa hợp đồng điệu ngay từ cái nhìn đầu tiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She built a good rapport with her clients.

@@ -2,8 +2,10 @@
 *n.*
 > /pəˈlɪf.ə.ni/
 
+![[polyphony.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The style of simultaneously combining a number of parts, each forming an individual melody and harmonizing with each other.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `choral polyphony`: nhạc đa âm hợp xướng
 - `complex polyphony`: nhạc đa âm phức tạp
+- `mastery of polyphony`: sự điêu luyện về nhạc phức điệu
+- `renaissance polyphony`: phong cách đa âm thời Phục hưng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Renaissance choral music is famous for its rich polyphony.

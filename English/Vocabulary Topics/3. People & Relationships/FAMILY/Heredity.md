@@ -2,8 +2,10 @@
 *noun*
 > /hɪˈred.ə.ti/
 
+![[heredity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which characteristics are given from a parent to their child through the genes.

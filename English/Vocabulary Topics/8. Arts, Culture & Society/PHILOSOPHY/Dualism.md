@@ -2,8 +2,10 @@
 *n.*
 > /ˈdʒuː.ə.lɪ.zəm/
 
+![[dualism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Thuyết tất định, Nhị nguyên luận & Mục đích luận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The division of something conceptually into two opposed aspects, like mind and matter.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mind-body dualism`: thuyết nhị nguyên thân-tâm
 - `cartesian dualism`: thuyết nhị nguyên Descartes
+- `substance dualism`: thuyết nhị nguyên thực thể
+- `philosophical dualism`: thuyết nhị nguyên triết học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dualism of good and evil is a common theme in childhood stories.

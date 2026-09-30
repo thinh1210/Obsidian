@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɑːtnə(r)/
 
+![[partner.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person with whom one is in a romantic relationship.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A life partner`: Người bạn đời
+- `equal partner`: người bạn đời bình đẳng sẻ chia
+- `supportive partner`: người bạn đời luôn thấu hiểu nâng đỡ
+- `choose a partner`: lựa chọn bạn đời đáng tin cậy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is my partner.

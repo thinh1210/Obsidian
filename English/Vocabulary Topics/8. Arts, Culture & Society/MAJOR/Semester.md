@@ -2,8 +2,10 @@
 *n.*
 > /sɪˈmes.tər/
 
+![[semester.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A half-year term in a school or university, typically lasting about 15–18 weeks.

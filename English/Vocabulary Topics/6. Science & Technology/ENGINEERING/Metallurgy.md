@@ -2,8 +2,10 @@
 *noun*
 > /məˈtælədʒi/
 
+![[metallurgy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science and technology concerned with the properties of metals and their production and purification.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `powder metallurgy`: luyện kim bột
 - `field of metallurgy`: lĩnh vực luyện kim
+- `extractive metallurgy`: luyện kim chiết xuất
+- `physical metallurgy`: luyện kim vật lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Advances in metallurgy allowed for the creation of lightweight and strong aircraft frames.

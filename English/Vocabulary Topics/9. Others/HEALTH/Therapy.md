@@ -2,8 +2,10 @@
 *n*
 > /ˈθerəpi/
 
+![[therapy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Treatment intended to relieve or heal a disorder.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈneɪ.tʃər/
 
+![[nature.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the animals, plants, rocks, etc. in the world and all the features and processes.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mother nature`: mẹ thiên nhiên
 - `protect nature`: bảo vệ tự nhiên
+- `call of nature`: tiếng gọi thiên nhiên; nhu cầu đi vệ sinh (idiom)
+- `second nature`: thói quen đã ngấm vào máu (idiom)
+- `by nature`: vốn dĩ theo bản tính tự nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I enjoy spending time in nature, listening to the birds chirp.

@@ -2,8 +2,10 @@
 *n.*
 > /ʃəʊ/
 
+![[show.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A spectacle or display, typically an exhibition of acting, music, or other entertainment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `talk show`: chương trình trò chuyện
 - `live show`: buổi biểu diễn trực tiếp
+- `game show`: trò chơi truyền hình có thưởng
+- `put on a show`: tổ chức biểu diễn một chương trình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What time does the show start?

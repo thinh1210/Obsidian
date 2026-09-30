@@ -2,8 +2,10 @@
 *noun*
 > /ˈtreʒə(r)/
 
+![[treasure.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A quantity of precious metals, gems, or other valuable objects
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buried treasure`: kho báu bị chôn giấu
 - `hidden treasure`: kho báu ẩn giấu
+- `treasure trove`: kho tàng phong phú hiện vật
+- `unearthed treasure`: kho báu vừa được khai quật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The pirates hid their treasure on a desert island.

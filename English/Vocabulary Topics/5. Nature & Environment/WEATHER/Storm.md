@@ -2,8 +2,10 @@
 *noun*
 > /stɔːm/
 
+![[storm.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extreme weather with heavy rain, strong winds, and often thunder
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `severe storm`: cơn bão dữ dội
+- `weather the storm`: kiên cường vượt qua cơn bão thử thách
+- `storm in a teacup`: chuyện bé xé ra to
+- `cook up a storm`: nấu nướng cực kỳ hăng say và ngon miệng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The storm damaged several trees in the park.

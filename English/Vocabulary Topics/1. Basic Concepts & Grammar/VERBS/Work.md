@@ -2,8 +2,10 @@
 *Verb*
 > /wɜːk/
 
+![[work.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To do a job, especially the job you do to earn money.
@@ -13,7 +15,10 @@
 💡 Quốc (work) đất là làm việc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `work out`: tập thể dục/giải quyết\n- `work on`: tập trung vào
+- `work out`: tập thể dục/giải quyết
+- `work on`: tập trung vào
+- `work against the clock`: chạy đua với thời gian
+- `work miracles`: tạo nên kỳ tích phi thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I work hard.

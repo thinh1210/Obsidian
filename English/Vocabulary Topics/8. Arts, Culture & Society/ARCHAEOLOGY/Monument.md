@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɒnjumənt/
 
+![[monument.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHAEOLOGY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue, building, or other structure erected to commemorate a famous person or event
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical monument`: di tích lịch sử
 - `ancient monument`: di tích cổ xưa
+- `commemorative monument`: đài kỷ niệm
+- `monumental architecture`: kiến trúc quy mô hoành tráng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Taj Mahal is a famous monument to love.

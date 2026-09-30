@@ -2,8 +2,10 @@
 *n.*
 > /ˈlɪr.ɪks/
 
+![[lyrics.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The words of a song.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `write lyrics`: viết lời bài hát
 - `meaningful lyrics`: lời bài hát ý nghĩa
+- `poetic lyrics`: lời bài hát giàu chất thơ
+- `lyric sheet`: bản in lời bài hát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like this song because the lyrics are very poetic and meaningful.

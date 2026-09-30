@@ -2,8 +2,10 @@
 *adjective*
 > /ˌek.səʊˈθɜː.mɪk/
 
+![[exothermic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a reaction or process) accompanied by the release of heat.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `exothermic reaction`: phản ứng tỏa nhiệt
 - `exothermic process`: quá trình tỏa nhiệt
+- `highly exothermic`: tỏa nhiệt cao
+- `exothermic combustion`: quá trình cháy tỏa nhiệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Combustion is a classic example of an exothermic reaction.

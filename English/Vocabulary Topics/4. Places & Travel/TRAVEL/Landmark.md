@@ -2,8 +2,10 @@
 *noun*
 > /ˈlænd.mɑːk/
 
+![[landmark.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or place that is easily recognized

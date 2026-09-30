@@ -2,8 +2,10 @@
 *noun*
 > /bɑːk/
 
+![[bark.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tough outer covering of a tree trunk.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tree bark`: vỏ cây
 - `rough bark`: vỏ cây xù xì
+- `cinnamon bark`: vỏ quế thơm
+- `strip the bark`: bóc vỏ cây
+- `bark peeling`: vỏ cây bị bong tróc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bark of the birch tree is white and papery.

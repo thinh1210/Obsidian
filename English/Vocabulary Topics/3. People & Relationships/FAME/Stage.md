@@ -2,8 +2,10 @@
 *n.*
 > /steɪdʒ/
 
+![[stage.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A raised floor or platform for performers.
@@ -13,7 +15,10 @@
 💡 Đứng trên stage để toả sáng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `on stage: trên sân khấu`
+- `on stage`: trên sân khấu
+- `center stage`: vị trí trung tâm sân khấu
+- `stage fright`: nỗi sợ khi đứng trước sân khấu
+- `set the stage for`: tạo tiền đề chuẩn bị cho (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She walked onto the stage.

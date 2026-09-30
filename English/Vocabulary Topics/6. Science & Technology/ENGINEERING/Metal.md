@@ -2,8 +2,10 @@
 *noun*
 > /ˈmetl/
 
+![[metal.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid material which is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `scrap metal`: kim loại phế liệu
 - `heavy metal`: kim loại nặng
+- `sheet metal`: kim loại tấm
+- `metal fatigue`: sự mỏi kim loại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Most kitchen knives are made of shiny, stainless metal.

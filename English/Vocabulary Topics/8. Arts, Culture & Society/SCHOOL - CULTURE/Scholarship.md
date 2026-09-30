@@ -2,8 +2,10 @@
 *noun*
 > /ˈskɒləʃɪp/
 
+![[scholarship.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A grant or payment made to support a student's education.

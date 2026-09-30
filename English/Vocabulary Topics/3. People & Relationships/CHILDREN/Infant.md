@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.fənt/
 
+![[infant.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A very young child or baby.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `newborn infant`: trẻ sơ sinh mới đẻ
+- `infant mortality rate`: tỷ lệ tử vong ở trẻ sơ sinh
+- `infant care`: chăm sóc trẻ sơ sinh
+- `infant formula`: sữa bột công thức cho trẻ nhỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The infant is asleep.

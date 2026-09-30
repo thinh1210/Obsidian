@@ -2,8 +2,10 @@
 *n.*
 > /test/
 
+![[test.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A procedure intended to establish the quality, performance, or reliability
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take a test`: làm bài kiểm tra
 - `pass a test`: qua bài kiểm tra
+- `put to the test`: đặt vào thử thách cam go
+- `stand the test of time`: trường tồn cùng thời gian (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a math test tomorrow.

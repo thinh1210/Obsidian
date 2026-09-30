@@ -2,8 +2,10 @@
 *n.*
 > /ˈvɪlɪdʒ/
 
+![[village.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of houses and associated buildings in a rural area.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fishing village`: làng chài
+- `global village`: ngôi làng toàn cầu thế giới phẳng
+- `remote village`: ngôi làng heo hút vùng xa xôi
+- `village elder`: già làng trưởng bản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He grew up in a small village.

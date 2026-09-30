@@ -2,8 +2,10 @@
 *adjective*
 > /hɜːˈbeɪʃəs/
 
+![[herbaceous.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or having the characteristics of an herb; non-woody.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `herbaceous plant`: cây thân thảo
 - `herbaceous border`: dải cây bụi thân thảo
+- `herbaceous perennial`: cây thân thảo sống lâu năm
+- `herbaceous stems`: thân thảo mềm mại
+- `herbaceous layer`: tầng thực vật thân thảo sát mặt đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mint is a fast-growing herbaceous plant that spreads quickly in gardens.

@@ -2,8 +2,10 @@
 *Noun*
 > /tʊər/
 
+![[tour.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey or route all the way around a particular place or area.
@@ -13,7 +15,11 @@
 💡 TUA (Tour) quanh thành phố.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `guided tour`: chuyến tham quan có hướng dẫn\n- `package tour`: chuyến du lịch trọn gói
+- `guided tour`: chuyến tham quan có hướng dẫn
+- `package tour`: chuyến du lịch trọn gói
+- `walking tour with a guide`: tour đi bộ tìm hiểu phố cổ có hướng dẫn viên
+- `luxury bus tour`: chuyến du lịch bằng xe buýt sang trọng
+- `round-the-world tour`: chuyến du lịch vòng quanh địa cầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We took a guided tour of the museum.

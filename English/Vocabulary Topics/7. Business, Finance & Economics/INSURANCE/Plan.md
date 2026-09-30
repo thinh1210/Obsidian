@@ -2,8 +2,10 @@
 *n.*
 > /plæn/
 
+![[plan.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of decisions about how to do something in the future; a specific insurance program.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insurance plan`: gói bảo hiểm
 - `health plan`: gói bảo hiểm sức khỏe
+- `comprehensive plan`: gói bảo hiểm đa năng bảo vệ toàn diện
+- `retirement plan`: kế hoạch bảo hiểm tích lũy dưỡng già
+- `choose a plan`: chọn lựa gói sản phẩm bảo hiểm phù hợp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Which insurance plan is best for a family of four?

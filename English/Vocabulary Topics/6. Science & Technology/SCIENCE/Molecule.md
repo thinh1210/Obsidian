@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɒl.ɪ.kjuːl/
 
+![[molecule.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The smallest unit of a substance that retains all the chemical properties of that substance.

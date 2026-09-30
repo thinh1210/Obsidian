@@ -2,8 +2,10 @@
 *noun*
 > /ænˈtæɡ.ən.ɪst/
 
+![[antagonist.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who actively opposes or is hostile to the protagonist; an adversary.

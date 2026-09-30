@@ -2,8 +2,10 @@
 *noun*
 > /ˌɑː.kiˈɒl.ə.dʒɪst/
 
+![[archaeologist.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who studies human history and prehistory through the excavation of sites and the analysis of artifacts.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `marine archaeologist`: nhà khảo cổ học hàng hải
 - `archaeologist team`: đội ngũ nhà khảo cổ
+- `excavate an archaeological site`: khai quật một di chỉ khảo cổ
+- `archaeologists unearth relics`: các nhà khảo cổ khai quật được di vật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* An archaeologist found an ancient tomb hidden deep in the jungle.

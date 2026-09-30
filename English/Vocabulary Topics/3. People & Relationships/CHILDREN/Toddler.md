@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɑːd.lɚ/
 
+![[toddler.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A young child, usually one between one and three years of age.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `toddler group`: nhóm trẻ chập chững
+- `toddler years`: những năm tháng tập đi chập chững
+- `hyperactive toddler`: đứa bé hiếu động nhanh nhẹn
+- `toddler development`: sự phát triển của trẻ tập đi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My toddler loves playing with blocks.

@@ -2,8 +2,10 @@
 *noun*
 > /ruːl/
 
+![[rule.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** One of a set of explicit or understood regulations or principles governing conduct.

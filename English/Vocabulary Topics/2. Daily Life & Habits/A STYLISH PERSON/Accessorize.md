@@ -2,8 +2,10 @@
 *v.*
 > /əkˈsesəraɪz/
 
+![[accessorize.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To add accessories to clothes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `accessorize an outfit`: thêm phụ kiện cho trang phục
+- `accessorize with`: phối thêm phụ kiện với...
+- `perfectly accessorized`: được phối phụ kiện một cách hoàn hảo
+- `over-accessorize`: lạm dụng quá nhiều phụ kiện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She knows how to accessorize a simple black dress.

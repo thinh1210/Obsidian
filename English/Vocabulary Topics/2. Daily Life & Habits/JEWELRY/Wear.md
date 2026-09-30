@@ -2,8 +2,10 @@
 *verb*
 > /weər/
 
+![[wear.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Have on one's body as clothing or decoration.
@@ -13,7 +15,10 @@
 💡 Que (Wear) này đeo được.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wear jewelry: đeo trang sức`
+- `wear jewelry`: đeo trang sức
+- `wear with pride`: tự hào đeo trên người
+- `wear matching jewelry`: đeo bộ trang sức ton-sur-ton
+- `wear casually`: đeo hàng ngày một cách giản dị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I wear a watch daily.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɪtʃɪn/
 
+![[kitchen.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room or area where food is prepared and cooked.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in the kitchen`: trong bếp
 - `kitchen appliances`: đồ gia dụng bếp
+- `modern kitchen`: nhà bếp hiện đại
+- `kitchen counter`: mặt quầy bàn bếp
+- `kitchen utensils`: dụng cụ làm bếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is cooking in the kitchen.

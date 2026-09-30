@@ -2,8 +2,10 @@
 *noun*
 > /wiːd/
 
+![[weed.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wild plant growing where it is not wanted and in competition with cultivated plants.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pull up weeds`: nhổ cỏ dại
 - `weed killer`: thuốc diệt cỏ
+- `weed out incompetent staff`: thanh lọc loại bỏ những nhân viên kém cỏi
+- `grow like a weed`: lớn nhanh như thổi
+- `choked with weeds`: bị cỏ dại xâm lấn bít kín
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The garden was overgrown with weeds.

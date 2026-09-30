@@ -2,8 +2,10 @@
 *noun*
 > /ˈstætʃuːt/
 
+![[statute.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A law that has been formally written down and passed by a parliament or similar body

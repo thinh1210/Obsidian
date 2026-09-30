@@ -2,8 +2,10 @@
 *n.*
 > /juːˌtɪl.ɪˈteə.ri.ə.nɪ.zəm/
 
+![[utilitarianism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The doctrine that actions are right if they benefit the majority.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `principle of utilitarianism`: nguyên tắc của thuyết vị lợi
 - `act utilitarianism`: thuyết vị lợi hành vi
+- `rule utilitarianism`: thuyết vị lợi quy tắc
+- `utilitarian approach`: phương pháp tiếp cận mang tính vị lợi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Choosing to sacrifice one vacation day so the whole family can go is a form of utilitarianism.

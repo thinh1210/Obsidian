@@ -2,8 +2,10 @@
 *n.*
 > /ˈθʌrəfeə(r)/
 
+![[thoroughfare.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A main road for public use or a passage through somewhere.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `busy thoroughfare`: con đường đông đúc
+- `major thoroughfare`: tuyến đường trục huyết mạch
+- `no thoroughfare`: đoạn đường cấm đi qua (biển báo)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The main thoroughfare is always jammed.

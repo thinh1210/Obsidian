@@ -2,8 +2,10 @@
 *noun*
 > /ˈeə.pleɪn/
 
+![[airplane.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A powered flying vehicle with fixed wings.

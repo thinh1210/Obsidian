@@ -2,8 +2,10 @@
 *n.*
 > /ˈfæʃn/
 
+![[fashion.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A popular trend, especially in styles of dress.
@@ -13,7 +15,11 @@
 💡 Fashion - thời trang.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `latest fashion`: thời trang mới nhất\n- `fashion industry`: ngành công nghiệp thời trang
+- `latest fashion`: thời trang mới nhất
+- `fashion industry`: ngành công nghiệp thời trang
+- `fashion victim`: nạn nhân thời trang (người chạy theo mốt mù quáng)
+- `go out of fashion`: trở nên lỗi thời, lỗi mốt
+- `make a fashion statement`: tạo dấu ấn thời trang riêng biệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is very interested in fashion.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈpɑːs.tʃər/
 
+![[pasture.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Land covered with grass suitable for grazing animals.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cattle pasture`: bãi chăn gia súc
 - `lush pasture`: đồng cỏ xanh tươi
+- `put out to pasture`: cho nghỉ hưu (người) / thả ra đồng cỏ (vật)
+- `graze in the pasture`: gặm cỏ trên bãi chăn
+- `green pastures`: đồng cỏ xanh tươi / chân trời mới tốt đẹp hơn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sheep were led out to the green pasture.

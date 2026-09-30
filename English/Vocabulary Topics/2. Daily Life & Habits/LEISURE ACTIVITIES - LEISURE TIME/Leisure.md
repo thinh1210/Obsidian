@@ -2,8 +2,10 @@
 *n*
 > /ˈleʒə(r)/
 
+![[leisure.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free time when one is not working.
@@ -13,7 +15,11 @@
 💡 Leisure - Lê la lúc rảnh rỗi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `leisure time`: thời gian rảnh\n- `leisure activities`: hoạt động giải trí
+- `leisure time`: thời gian rảnh
+- `leisure activities`: hoạt động giải trí
+- `at one's leisure`: vào lúc rảnh rỗi, thong thả
+- `leisure pursuit`: thú vui giải trí theo đuổi
+- `leisure facilities`: cơ sở vật chất phục vụ giải trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What do you do in your leisure time?

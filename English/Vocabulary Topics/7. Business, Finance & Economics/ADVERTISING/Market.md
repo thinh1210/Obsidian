@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɑːkɪt/
 
+![[market.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area or arena in which commercial dealings are conducted.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `target market`: thị trường mục tiêu
 - `market share`: thị phần
+- `niche market`: thị trường ngách
+- `emerging market`: thị trường mới nổi
+- `penetrate the market`: thâm nhập thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She buys fresh fruit at the local market.

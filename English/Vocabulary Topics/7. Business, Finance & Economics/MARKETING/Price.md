@@ -2,8 +2,10 @@
 *noun*
 > /praɪs/
 
+![[price.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money expected, required, or given in payment for something
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `competitive price`: giá cả cạnh tranh
 - `retail price`: giá bán lẻ
+- `premium price`: mức giá cao tương xứng với đẳng cấp sang trọng
+- `price skimming`: chiến lược định giá hớt váng sữa thu hồi vốn nhanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The price of gasoline has increased significantly this week.

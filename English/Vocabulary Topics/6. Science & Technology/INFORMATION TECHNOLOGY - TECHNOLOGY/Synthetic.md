@@ -2,8 +2,10 @@
 *adj*
 > /sɪnˈθet.ɪk/
 
+![[synthetic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Formal/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made from artificial substances, often copying a natural product; logically generated.

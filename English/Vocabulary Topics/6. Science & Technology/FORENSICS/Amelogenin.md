@@ -2,8 +2,10 @@
 *noun*
 > /ˌæm.ɪˈlɒdʒ.ɪ.nɪn/
 
+![[amelogenin.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A protein found in tooth enamel; the amelogenin gene on the X and Y chromosomes is used in forensic DNA testing to determine biological sex.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈcɑː.səl/
 
+![[castle.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large building, typically of the medieval period, fortified against attack.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `medieval castle`: lâu đài thời trung cổ
 - `castle walls`: bức tường thành lâu đài
+- `storm the castle`: tấn công đánh chiếm lâu đài
+- `castle moat`: hào sâu quanh lâu đài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We visited an old castle during our vacation in Scotland.

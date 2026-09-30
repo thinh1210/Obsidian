@@ -2,8 +2,10 @@
 *v./n.*
 > /kəˈmjuːt/
 
+![[commute.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** CITY
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To travel regularly between work and home.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `daily commute`: việc đi lại hàng ngày
+- `commute to work`: đi lại làm việc
+- `commute by train`: đi làm bằng tàu hỏa
+- `long commute`: quãng đường đi làm xa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My commute takes an hour.

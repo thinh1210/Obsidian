@@ -2,8 +2,10 @@
 *noun*
 > /ˌdiːp ˈpæk.ɪt ɪnˈspek.ʃən/
 
+![[deep_packet_inspection.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of computer network packet filtering that examines the data part (payload) of a packet as it passes through an inspection point.

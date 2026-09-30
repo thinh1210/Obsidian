@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪnfrəstrʌktʃə/
 
+![[infrastructure.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic physical and organizational structures and facilities needed for the operation of a society.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modern infrastructure`: cơ sở hạ tầng hiện đại
+- `transport infrastructure`: cơ sở hạ tầng giao thông
+- `upgrade infrastructure`: nâng cấp cơ sở hạ tầng
+- `critical infrastructure`: hạ tầng cơ sở huyết mạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The city's infrastructure is completely updated.

@@ -2,8 +2,10 @@
 *noun/adj*
 > /ˈklæs.ɪk/
 
+![[classic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** LITERATURE
+**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A work of art or literature of recognized and established value.

@@ -1,13 +1,21 @@
 # Superfluous
 
 *Adjective*
+> /suːˈpɜː.flu.əs/
+
+![[superfluous.mp3]]
 
 - **[EN]:** Unnecessary, especially through being more than enough.
 - **[VN]:** Thừa thãi, không cần thiết.
 
-**Level:** C1
+**Level:** C1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `superfluous details`: những chi tiết rườm rà thừa thãi không cần thiết
+- `render superfluous`: khiến cái gì trở nên lỗi thời thừa thãi
+- `cut out superfluous spending`: cắt bỏ các khoản chi tiêu hoang phí vô bổ
+
 ## Examples
 1. *Avoid writing superfluous details in your essay.*
    - Tránh viết những chi tiết thừa thãi trong bài luận của bạn.

@@ -2,8 +2,10 @@
 *verb*
 > /trend/
 
+![[trend.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become very popular and widely discussed on social networks
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `trending topic`: chủ đề đang thịnh hành
+- `set a new trend`: tạo nên trào lưu/xu thế mới
+- `follow the trend`: chạy theo trào lưu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new dance challenge is trending all over TikTok right now.

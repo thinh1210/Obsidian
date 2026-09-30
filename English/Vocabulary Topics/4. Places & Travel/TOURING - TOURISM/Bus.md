@@ -2,8 +2,10 @@
 *Noun*
 > /bʌs/
 
+![[bus.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large vehicle in which people are driven from one place to another.
@@ -13,7 +15,11 @@
 💡 BỚT (Bus) đi xe buýt cho bớt kẹt xe.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `catch a bus`: bắt xe buýt\n- `bus stop`: trạm xe buýt
+- `catch a bus`: bắt xe buýt
+- `bus stop`: trạm xe buýt
+- `hop-on hop-off bus`: xe buýt ngắm cảnh lên xuống tùy thích
+- `tourist bus`: xe khách du lịch chuyên tuyến
+- `catch a charter bus`: bắt xe buýt hợp đồng du lịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I take the bus to work every day.

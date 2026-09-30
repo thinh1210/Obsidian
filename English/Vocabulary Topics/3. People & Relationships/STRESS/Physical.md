@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfɪzɪkl/
 
+![[physical.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the body as opposed to the mind
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `physical health`: sức khỏe thể chất
 - `physical activity`: hoạt động thể chất
+- `physical exhaustion`: sự kiệt sức về mặt thể chất
+- `physical endurance`: sức bền chịu đựng của cơ thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I do physical exercises daily.

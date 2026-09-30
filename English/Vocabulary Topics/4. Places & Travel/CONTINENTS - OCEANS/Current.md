@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌrənt/
 
+![[current.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of water or air moving in a definite direction.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ocean current`: dòng hải lưu đại dương
 - `strong current`: dòng chảy mạnh
+- `counter the current`: bơi ngược dòng nước
+- `rip current`: dòng xoáy rút xa bờ
+- `underlying current`: dòng hải lưu ngầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The swimmer was caught in a strong current.

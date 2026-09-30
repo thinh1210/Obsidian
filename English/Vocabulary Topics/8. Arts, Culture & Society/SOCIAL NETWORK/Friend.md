@@ -2,8 +2,10 @@
 *verb*
 > /frend/
 
+![[friend.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To add someone to a list of contacts on a social network
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `friend someone on Facebook`: kết bạn với ai đó trên Facebook
+- `send a friend request`: gửi lời mời kết bạn
+- `unfriend someone`: hủy kết bạn với ai đó
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He friended me on Facebook yesterday but we haven't spoken yet.

@@ -2,8 +2,10 @@
 *adj*
 > /ˌmiː.diˈəʊ.kər/
 
+![[mediocre.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of only ordinary or moderate quality; not very good.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mediocre performance`: màn trình diễn tầm thường
+- `mediocre talent`: tài năng tầm thường
+- `settle for mediocre`: chấp nhận sự tầm thường
+- `mediocre results`: kết quả xoàng xĩnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The food was pretty mediocre.

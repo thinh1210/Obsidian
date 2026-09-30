@@ -2,8 +2,10 @@
 *adj*
 > /əˈwer/
 
+![[aware.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having knowledge or perception of a situation or fact.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fully aware`: nhận thức rõ ràng
+- `environmentally aware`: có ý thức sâu sắc về môi trường
+- `raise awareness`: nâng cao nhận thức cộng đồng
+- `keenly aware`: nhận thức hết sức rõ ràng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am aware of the problem.

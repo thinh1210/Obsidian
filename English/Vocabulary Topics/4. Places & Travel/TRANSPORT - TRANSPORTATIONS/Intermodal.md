@@ -2,8 +2,10 @@
 *adjective*
 > /ˌɪntərˈmoʊdl/
 
+![[intermodal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Involving two or more different modes of transportation in conveying goods or passengers.

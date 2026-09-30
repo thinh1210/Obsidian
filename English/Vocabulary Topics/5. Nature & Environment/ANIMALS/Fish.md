@@ -2,8 +2,10 @@
 *noun*
 > /fɪʃ/
 
+![[fish.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A limbless cold-blooded vertebrate animal with gills and fins living wholly in water.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `freshwater fish`: cá nước ngọt
 - `school of fish`: đàn cá
+- `fish out of water`: người lúng túng lạc lõng trong môi trường lạ
+- `drink like a fish`: uống rượu như hũ chìm
+- `other fish in the sea`: nhiều cơ hội/người khác để lựa chọn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We bought some gold fish for the aquarium yesterday.

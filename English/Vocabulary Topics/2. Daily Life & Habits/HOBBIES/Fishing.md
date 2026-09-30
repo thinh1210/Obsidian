@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɪʃ.ɪŋ/
 
+![[fishing.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or job of catching fish.

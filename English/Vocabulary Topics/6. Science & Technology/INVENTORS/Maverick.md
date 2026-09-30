@@ -2,8 +2,10 @@
 *n.*
 > /ˈmæv.ər.ɪk/
 
+![[maverick.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An unorthodox or independent-minded person who does not follow the rules
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political maverick`: chính trị gia độc lập không theo đảng phái
 - `maverick designer`: nhà thiết kế độc lập phá cách
+- `maverick scientist`: nhà khoa học độc đáo lập dị
+- `maverick spirit`: tinh thần ngang tàng dám nghĩ dám làm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a maverick who refuses to conform to corporate culture.

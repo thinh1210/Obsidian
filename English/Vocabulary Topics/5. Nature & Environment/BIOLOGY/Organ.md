@@ -2,8 +2,10 @@
 *noun*
 > /ˈɔː.ɡən/
 
+![[organ.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of an organism that is typically self-contained and has a specific vital function, such as the heart or liver in humans.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `internal organ`: cơ quan nội tạng
 - `organ transplant`: ghép tạng
+- `vital organ`: cơ quan trọng yếu duy trì sự sống
+- `organ failure`: suy tạng
+- `organ donation`: hiến tặng nội tạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The stomach is an important organ.

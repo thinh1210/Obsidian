@@ -2,8 +2,10 @@
 *adj.*
 > /rɪˈnjuːəbl/
 
+![[renewable.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (of a natural resource or source of energy) not depleted when used.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `renewable energy`: năng lượng tái tạo
 - `renewable resources`: tài nguyên có thể tái tạo
+- `renewable energy sources`: các nguồn năng lượng tái tạo
+- `transition to renewables`: chuyển đổi sang sử dụng năng lượng tái tạo
+- `renewable resource management`: quản lý các nguồn tài nguyên tái tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Solar power is a clean, renewable energy source.

@@ -2,8 +2,10 @@
 *noun*
 > /ɪkˈspresweɪ/
 
+![[expressway.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A highway designed for fast traffic, with controlled admission and no crossroads.

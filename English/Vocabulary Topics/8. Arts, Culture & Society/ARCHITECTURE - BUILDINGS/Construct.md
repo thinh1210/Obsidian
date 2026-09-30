@@ -2,8 +2,10 @@
 *v.*
 > /kənˈstrʌkt/
 
+![[construct.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To build or erect something large (such as a road, bridge, or building)
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `construct a building`: xây dựng tòa nhà
 - `newly constructed`: mới được xây dựng
+- `construct from steel and glass`: xây dựng bằng thép và kính
+- `constructive design`: thiết kế mang tính kiến tạo vững chắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They plan to construct a new sports center here.

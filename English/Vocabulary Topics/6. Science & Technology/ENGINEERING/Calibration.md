@@ -2,8 +2,10 @@
 *noun*
 > /ˌkəlɪˈbreɪʃn/
 
+![[calibration.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of adjusting an instrument so that its readings can be correlated with those of a standard.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `instrument calibration`: hiệu chuẩn thiết bị
 - `calibration process`: quy trình hiệu chuẩn
+- `recalibration`: việc hiệu chuẩn lại
+- `calibration standard`: tiêu chuẩn hiệu chuẩn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The scale needs calibration because it is showing incorrect weight measurements.

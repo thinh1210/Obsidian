@@ -2,8 +2,10 @@
 *verb*
 > /ˈɑː.bɪ.treɪt/
 
+![[arbitrate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Act as an arbitrator or referee to settle a dispute.

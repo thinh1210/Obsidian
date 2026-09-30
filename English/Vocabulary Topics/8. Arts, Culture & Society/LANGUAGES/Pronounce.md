@@ -2,8 +2,10 @@
 *v.*
 > /prəˈnaʊns/
 
+![[pronounce.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make the sound of a word or letter in a particular way
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pronounce correctly`: phát âm đúng
+- `mispronounce a word`: phát âm sai một từ
+- `pronounce distinctly`: phát âm rành mạch rõ ràng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* How do you pronounce this word?

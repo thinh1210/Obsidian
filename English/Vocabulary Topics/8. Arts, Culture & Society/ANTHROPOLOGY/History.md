@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɪs.tər.i/
 
+![[history.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient history`: lịch sử cổ đại
 - `recorded history`: lịch sử được ghi chép lại
+- `oral history`: lịch sử truyền khẩu
+- `evolutionary history`: lịch sử tiến hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She loves reading history books.

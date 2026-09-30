@@ -2,8 +2,10 @@
 *n.*
 > /hɑːt/
 
+![[heart.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape that represents love or romance.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A heart shape`: Hình trái tim
 - `Draw a heart`: Vẽ hình trái tim
+- `learn by heart`: học thuộc lòng
+- `from the bottom of my heart`: từ tận đáy lòng tôi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She drew a heart on the card.

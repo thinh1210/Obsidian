@@ -2,8 +2,10 @@
 *n.*
 > /ˈʒɒ̃rə/
 
+![[genre.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter
@@ -13,8 +15,10 @@
 💡 Dân chơi sành điệu biết đủ thể loại (genre) phim.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `film genre`:  thể loại phim
+- `film genre`: thể loại phim
 - `sci-fi genre`: thể loại khoa học viễn tưởng
+- `genre hybrid`: sự pha trộn các thể loại phim
+- `subvert genre conventions`: phá vỡ những quy ước thể loại quen thuộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Horror is my least favorite movie genre.

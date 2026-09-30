@@ -2,8 +2,10 @@
 *adj*
 > /ˈpɪə.ləs/
 
+![[peerless.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unequalled; unrivaled.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `peerless beauty`: vẻ đẹp vô song
+- `peerless craftsmanship`: tay nghề vô song không ai bì kịp
+- `peerless reputation`: danh tiếng vô đối
+- `peerless skill`: kỹ năng siêu việt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a singer of peerless talent.

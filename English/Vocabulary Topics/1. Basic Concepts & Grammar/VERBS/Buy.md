@@ -2,8 +2,10 @@
 *Verb*
 > /baɪ/
 
+![[buy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To get something by paying money for it.
@@ -13,7 +15,10 @@
 💡 Bay (buy) đi mua đồ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `buy into`: tin vào\n- `buy out`: mua đứt
+- `buy into`: tin vào
+- `buy out`: mua đứt
+- `buy time`: câu giờ / mua thêm thời gian
+- `buy into an idea`: tin theo / ủng hộ một ý tưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I buy milk.

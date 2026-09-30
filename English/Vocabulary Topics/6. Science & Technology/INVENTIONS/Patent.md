@@ -2,8 +2,10 @@
 *Noun*
 > /ˈpeɪ.tənt/
 
+![[patent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official legal right to make or sell an invention for a set number of years.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `file a patent`: nộp đơn xin bằng sáng chế
 - `patent infringement`: vi phạm bằng sáng chế
+- `apply for a patent`: nộp đơn xin cấp bằng sáng chế
+- `grant a patent`: chính thức cấp bằng sáng chế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He filed a patent for his new clip design.

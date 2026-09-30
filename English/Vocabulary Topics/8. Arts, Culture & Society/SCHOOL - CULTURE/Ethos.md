@@ -2,8 +2,10 @@
 *noun*
 > /ˈiːθɒs/
 
+![[ethos.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The characteristic spirit of a culture, era, or community as manifested in its beliefs and aspirations.

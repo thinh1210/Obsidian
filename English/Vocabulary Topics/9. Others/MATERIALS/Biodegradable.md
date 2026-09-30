@@ -2,8 +2,10 @@
 *adjective.*
 > /ˌbaɪəʊdɪˈɡreɪdəbl/
 
+![[biodegradable.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Capable of being decomposed by bacteria or other living organisms.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `biodegradable plastic`: nhựa phân hủy sinh học
 - `biodegradable waste`: rác thải phân hủy sinh học
+- `100% biodegradable`: hoàn toàn có thể phân hủy tự nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We use biodegradable bags for compostable kitchen waste.

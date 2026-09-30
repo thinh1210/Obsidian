@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈher.ɪ.təns/
 
+![[inheritance.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money or property that you receive from someone who has died
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `claim inheritance`: nhận tài sản thừa kế
+- `squander an inheritance`: phung phí tài sản thừa kế
+- `inheritance tax`: thuế đánh trên di sản thừa kế
+- `receive an inheritance`: nhận được một khoản gia tài
+- `cultural inheritance`: di sản thừa hưởng về văn hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She spent her inheritance on starting a non-profit organization.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈmæn.ɪ.fəʊld/
 
+![[manifold.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pipe or chamber with several openings that distributes airflow or fuel in an aircraft engine.

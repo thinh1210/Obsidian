@@ -2,8 +2,10 @@
 *n.*
 > /ɪkˈskluːʒn/
 
+![[exclusion.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An item or condition that is not covered by an insurance policy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `policy exclusion`: điểm loại trừ của hợp đồng
 - `subject to exclusion`: thuộc diện loại trừ
+- `war exclusion`: điều khoản loại trừ tổn thất do chiến sự
+- `standard exclusions`: các trường hợp loại trừ theo quy chuẩn thông lệ
+- `exclusion of coverage`: sự loại trừ hoàn toàn khỏi phạm vi bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* War is a standard exclusion in almost all life insurance policies.

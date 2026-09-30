@@ -2,8 +2,10 @@
 *adj*
 > /jʌŋ/
 
+![[young.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having lived or existed for only a short time.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `young people`: người trẻ
+- `young at heart`: tâm hồn luôn trẻ trung tươi mới (idiom)
+- `young generation`: thế hệ trẻ đầy nhiệt huyết
+- `young and naive`: trẻ người non dạ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is very young.

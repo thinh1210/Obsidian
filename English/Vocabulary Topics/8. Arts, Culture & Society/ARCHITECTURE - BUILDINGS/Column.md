@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɒləm/
 
+![[column.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A tall vertical cylindrical post used to support a bridge or roof
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `support column`: cột đỡ
 - `marble column`: cột đá cẩm thạch
+- `fluted column`: cột trụ có rãnh khía
+- `Doric column`: cột phong cách Doric cổ điển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The temple roof was supported by marble columns.

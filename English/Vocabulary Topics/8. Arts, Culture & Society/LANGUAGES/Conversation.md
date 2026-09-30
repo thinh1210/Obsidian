@@ -2,8 +2,10 @@
 *n.*
 > /ˌkɒnvəˈseɪʃn/
 
+![[conversation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A talk, especially an informal one, between two or more people
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have a conversation`: trò chuyện
+- `strike up a conversation`: bắt chuyện với ai
+- `casual conversation`: cuộc trò chuyện thân mật
+- `keep the conversation going`: duy trì cuộc trò chuyện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had a long conversation with my friend.

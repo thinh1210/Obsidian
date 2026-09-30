@@ -2,8 +2,10 @@
 *adj*
 > /ˌdɪsəˈpɔɪntɪd/
 
+![[disappointed.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sad or displeased because someone or something has failed to fulfil one's hopes.

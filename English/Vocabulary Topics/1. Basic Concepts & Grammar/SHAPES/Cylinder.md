@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪl.ɪn.dər/
 
+![[cylinder.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid geometric figure with straight parallel sides and a circular or oval cross section.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A gas cylinder`: Bình gas
 - `A hollow cylinder`: Hình trụ rỗng
+- `firing on all cylinders`: hoạt động hết công suất / vận hành trơn tru
+- `cylinder block`: khối xi-lanh động cơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A soda can is a cylinder.

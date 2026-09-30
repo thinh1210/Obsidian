@@ -1,62 +1,106 @@
 # Tổng hợp từ vựng: ACCESSORIES
 
 Đây là file tổng hợp các từ vựng thuộc chủ đề **ACCESSORIES**.
-Danh sách dưới đây đã được **sắp xếp theo cấp độ (Level) từ thấp đến cao (A1 -> C2)**. Bạn nên ưu tiên học các từ cơ bản ở trên cùng trước.
+Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực quan** và **sắp xếp theo cấp độ từ A1 đến C2** giúp bạn dễ dàng liên kết từ vựng theo tư duy ngữ cảnh và sơ đồ tư duy thực tế.
 
-## Danh sách từ vựng
+## 🗺️ Sơ đồ liên kết chủ đề (Semantic Map)
+- **👜 1. Túi xách, Balo & Đồ đựng cá nhân** (Bags, Backpacks & Wallets): [[Bag]], [[Backpack]], [[Briefcase]], [[Handbag]], [[Pouch]], [[Purse]], [[Rucksack]], [[Wallet]]
+- **💍 2. Trang sức & Phụ kiện đeo cổ, tay** (Jewelry, Rings & Neckwear): [[Bangle]], [[Bracelet]], [[Brooch]], [[Choker]], [[Cufflink]], [[Earring]], [[Locket]], [[Necklace]], [[Pendant]], [[Ring]], [[Watch]], [[Amulet]], [[Trinket]], [[Adornment]]
+- **👒 3. Mũ nón, Kính mắt & Phụ kiện đầu** (Headwear, Eyewear & Hair Accessories): [[Barrette]], [[Cap]], [[Diadem]], [[Fascinator]], [[Glasses]], [[Hairband]], [[Hairpin]], [[Hat]], [[Headband]], [[Helmet]], [[Ribbon]], [[Sunglasses]], [[Tiara]]
+- **🧣 4. Thắt lưng, Khăn quàng & Phụ kiện thường nhật** (Belts, Scarves & Everyday Gear): [[Belt]], [[Corsage]], [[Glove]], [[Mitten]], [[Parasol]], [[Scarf]], [[Shoe]], [[Shoelace]], [[Slipper]], [[Sneaker]], [[Sock]], [[Suspender]], [[Tie]], [[Umbrella]], [[Paraphernalia]]
 
-| Từ vựng | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- |
-| Bag | A1 | noun | Túi xách, bao | baggage (n) | [[Bag]] |
-| Belt | A1 | noun | Thắt lưng | belted (adj) | [[Belt]] |
-| Cap | A1 | noun | Mũ lưỡi trai | capped (adj) | [[Cap]] |
-| Glasses | A1 | noun | Kính mắt | glass (n) | [[Glasses]] |
-| Hat | A1 | noun | Cái mũ, nón | hatted (adj), hatless (adj) | [[Hat]] |
-| Ring | A1 | noun | Cái nhẫn | ringed (adj) | [[Ring]] |
-| Shoe | A1 | noun | Chiếc giày | shoeless (adj) | [[Shoe]] |
-| Sock | A1 | noun | Chiếc tất | socks (n) | [[Sock]] |
-| Watch | A1 | noun | Đồng hồ đeo tay | watchmaker (n) | [[Watch]] |
-| Earring | A2 | noun | Bông tai, khuyên tai | earrings (n) | [[Earring]] |
-| Glove | A2 | noun | Găng tay | gloved (adj) | [[Glove]] |
-| Necklace | A2 | noun | Dây chuyền, vòng cổ | - | [[Necklace]] |
-| Scarf | A2 | noun | Khăn quàng cổ | scarves (n - plural) | [[Scarf]] |
-| Tie | A2 | noun | Cà vạt | tieless (adj) | [[Tie]] |
-| Umbrella | A2 | noun | Cái ô, dù | - | [[Umbrella]] |
-| Backpack | B1 | noun | Ba lô | backpacker (n) | [[Backpack]] |
-| Bracelet | B1 | noun | Vòng đeo tay | - | [[Bracelet]] |
-| Hairband | B1 | noun | Băng đô, bờm tóc | - | [[Hairband]] |
-| Handbag | B1 | noun | Túi xách nữ | - | [[Handbag]] |
-| Headband | B1 | noun | Băng đô (thể thao) | - | [[Headband]] |
-| Helmet | B1 | noun | Mũ bảo hiểm | helmeted (adj) | [[Helmet]] |
-| Purse | B1 | noun | Ví nữ, túi xách nhỏ | purser (n) | [[Purse]] |
-| Ribbon | B1 | noun | Dây ruy băng | - | [[Ribbon]] |
-| Shoelace | B1 | noun | Dây giày | - | [[Shoelace]] |
-| Slipper | B1 | noun | Dép đi trong nhà | slippered (adj) | [[Slipper]] |
-| Sneaker | B1 | noun | Giày thể thao | sneakers (n) | [[Sneaker]] |
-| Sunglasses | B1 | noun | Kính râm | - | [[Sunglasses]] |
-| Wallet | B1 | noun | Ví tiền (nam) | - | [[Wallet]] |
-| Briefcase | B2 | noun | Cặp tài liệu | - | [[Briefcase]] |
-| Brooch | B2 | noun | Trâm cài áo | - | [[Brooch]] |
-| Hairpin | B2 | noun | Kẹp tăm, trâm cài tóc | - | [[Hairpin]] |
-| Mitten | B2 | noun | Găng tay hở ngón, găng tay bao liền | - | [[Mitten]] |
-| Pendant | B2 | noun | Mặt dây chuyền | - | [[Pendant]] |
-| Pouch | B2 | noun | Túi nhỏ, túi bao tử | pouched (adj) | [[Pouch]] |
-| Rucksack | B2 | noun | Ba lô (đi phượt, leo núi) | - | [[Rucksack]] |
-| Adornment | C1 | noun | Đồ trang điểm, đồ trang trí | adorn (v) | [[Adornment]] |
-| Amulet | C1 | noun | Bùa hộ mệnh | - | [[Amulet]] |
-| Bangle | C1 | noun | Vòng tay không khóa, xuyến | - | [[Bangle]] |
-| Barrette | C1 | noun | Kẹp tóc lớn | - | [[Barrette]] |
-| Choker | C1 | noun | Vòng cổ bó sát | - | [[Choker]] |
-| Corsage | C1 | noun | Hoa cài áo/cổ tay | - | [[Corsage]] |
-| Cufflink | C1 | noun | Khuy măng sét | - | [[Cufflink]] |
-| Locket | C1 | noun | Mặt dây chuyền có nắp | - | [[Locket]] |
-| Parasol | C1 | noun | Cái dù che nắng | - | [[Parasol]] |
-| Suspender | C1 | noun | Dây đeo quần | suspend (v) | [[Suspender]] |
-| Tiara | C1 | noun | Vương miện phụ nữ, vòng nguyệt quế | - | [[Tiara]] |
-| Diadem | C2 | noun | Vương miện (nhỏ) | - | [[Diadem]] |
-| Fascinator | C2 | noun | Phụ kiện cài tóc dự tiệc, băng đô trang trí | - | [[Fascinator]] |
-| Paraphernalia | C2 | noun | Đồ lỉnh kỉnh, phụ tùng | - | [[Paraphernalia]] |
-| Trinket | C2 | noun | Đồ trang sức rẻ tiền, nữ trang rẻ tiền | - | [[Trinket]] |
+## Danh sách từ vựng theo nhóm ngữ nghĩa
+
+### 👜 1. Túi xách, Balo & Đồ đựng cá nhân (Bags, Backpacks & Wallets)
+*Các loại túi xách, balo, cặp tài liệu và ví đựng tiền cá nhân.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bag | /bæɡ/ [[bag.mp3\|🔊]] | A1 | noun | Túi xách, bao | baggage (n) | [[Bag]] |
+| Backpack | /ˈbækpæk/ [[backpack.mp3\|🔊]] | B1 | noun | Ba lô | backpacker (n) | [[Backpack]] |
+| Handbag | /ˈhændbæɡ/ [[handbag.mp3\|🔊]] | B1 | noun | Túi xách nữ | - | [[Handbag]] |
+| Purse | /pɜːs/ [[purse.mp3\|🔊]] | B1 | noun | Ví nữ, túi xách nhỏ | purser (n) | [[Purse]] |
+| Wallet | /ˈwɒlɪt/ [[wallet.mp3\|🔊]] | B1 | noun | Ví tiền (nam) | - | [[Wallet]] |
+| Briefcase | /ˈbriːfkeɪs/ [[briefcase.mp3\|🔊]] | B2 | noun | Cặp tài liệu | - | [[Briefcase]] |
+| Pouch | /paʊtʃ/ [[pouch.mp3\|🔊]] | B2 | noun | Túi nhỏ, túi bao tử | pouched (adj) | [[Pouch]] |
+| Rucksack | /ˈrʌksæk/ [[rucksack.mp3\|🔊]] | B2 | noun | Ba lô (đi phượt, leo núi) | - | [[Rucksack]] |
+
+### 💍 2. Trang sức & Phụ kiện đeo cổ, tay (Jewelry, Rings & Neckwear)
+*Vòng tay, nhẫn, vòng cổ, khuyên tai, đồng hồ và bùa hộ mệnh may mắn.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ring | /rɪŋ/ [[ring.mp3\|🔊]] | A1 | noun | Cái nhẫn | ringed (adj) | [[Ring]] |
+| Watch | /wɒtʃ/ [[watch.mp3\|🔊]] | A1 | noun | Đồng hồ đeo tay | watchmaker (n) | [[Watch]] |
+| Earring | /ˈɪərɪŋ/ [[earring.mp3\|🔊]] | A2 | noun | Bông tai, khuyên tai | earrings (n) | [[Earring]] |
+| Necklace | /ˈnekləs/ [[necklace.mp3\|🔊]] | A2 | noun | Dây chuyền, vòng cổ | - | [[Necklace]] |
+| Bracelet | /ˈbreɪslət/ [[bracelet.mp3\|🔊]] | B1 | noun | Vòng đeo tay | - | [[Bracelet]] |
+| Brooch | /brəʊtʃ/ [[brooch.mp3\|🔊]] | B2 | noun | Trâm cài áo | - | [[Brooch]] |
+| Pendant | /ˈpendənt/ [[pendant.mp3\|🔊]] | B2 | noun | Mặt dây chuyền | - | [[Pendant]] |
+| Adornment | /əˈdɔːnmənt/ [[adornment.mp3\|🔊]] | C1 | noun | Đồ trang điểm, đồ trang trí | adorn (v) | [[Adornment]] |
+| Amulet | /ˈæmjələt/ [[amulet.mp3\|🔊]] | C1 | noun | Bùa hộ mệnh | - | [[Amulet]] |
+| Bangle | /ˈbæŋɡl/ [[bangle.mp3\|🔊]] | C1 | noun | Vòng tay không khóa, xuyến | - | [[Bangle]] |
+| Choker | /ˈtʃəʊkə(r)/ [[choker.mp3\|🔊]] | C1 | noun | Vòng cổ bó sát | - | [[Choker]] |
+| Cufflink | /ˈkʌflɪŋk/ [[cufflink.mp3\|🔊]] | C1 | noun | Khuy măng sét | - | [[Cufflink]] |
+| Locket | /ˈlɒkɪt/ [[locket.mp3\|🔊]] | C1 | noun | Mặt dây chuyền có nắp | - | [[Locket]] |
+| Trinket | /ˈtrɪŋkɪt/ [[trinket.mp3\|🔊]] | C2 | noun | Đồ trang sức rẻ tiền, nữ trang rẻ tiền | - | [[Trinket]] |
+
+### 👒 3. Mũ nón, Kính mắt & Phụ kiện đầu (Headwear, Eyewear & Hair Accessories)
+*Mũ, kính râm, vương miện, nơ buộc tóc và kẹp tóc trang trí.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cap | /kæp/ [[cap.mp3\|🔊]] | A1 | noun | Mũ lưỡi trai | capped (adj) | [[Cap]] |
+| Glasses | /ˈɡlɑːsɪz/ [[glasses.mp3\|🔊]] | A1 | noun | Kính mắt | glass (n) | [[Glasses]] |
+| Hat | /hæt/ [[hat.mp3\|🔊]] | A1 | noun | Cái mũ, nón | hatted (adj), hatless (adj) | [[Hat]] |
+| Hairband | /ˈheəbænd/ [[hairband.mp3\|🔊]] | B1 | noun | Băng đô, bờm tóc | - | [[Hairband]] |
+| Headband | /ˈhedbænd/ [[headband.mp3\|🔊]] | B1 | noun | Băng đô (thể thao) | - | [[Headband]] |
+| Helmet | /ˈhelmɪt/ [[helmet.mp3\|🔊]] | B1 | noun | Mũ bảo hiểm | helmeted (adj) | [[Helmet]] |
+| Ribbon | /ˈrɪbən/ [[ribbon.mp3\|🔊]] | B1 | noun | Dây ruy băng | - | [[Ribbon]] |
+| Sunglasses | /ˈsʌnɡlɑːsɪz/ [[sunglasses.mp3\|🔊]] | B1 | noun | Kính râm | - | [[Sunglasses]] |
+| Hairpin | /ˈheəpɪn/ [[hairpin.mp3\|🔊]] | B2 | noun | Kẹp tăm, trâm cài tóc | - | [[Hairpin]] |
+| Barrette | /bəˈret/ [[barrette.mp3\|🔊]] | C1 | noun | Kẹp tóc lớn | - | [[Barrette]] |
+| Tiara | /tiˈɑːrə/ [[tiara.mp3\|🔊]] | C1 | noun | Vương miện phụ nữ, vòng nguyệt quế | - | [[Tiara]] |
+| Diadem | /ˈdaɪədem/ [[diadem.mp3\|🔊]] | C2 | noun | Vương miện (nhỏ) | - | [[Diadem]] |
+| Fascinator | /ˈfæsɪneɪtə(r)/ [[fascinator.mp3\|🔊]] | C2 | noun | Phụ kiện cài tóc dự tiệc, băng đô trang trí | - | [[Fascinator]] |
+
+### 🧣 4. Thắt lưng, Khăn quàng & Phụ kiện thường nhật (Belts, Scarves & Everyday Gear)
+*Thắt lưng, cà vạt, khăn quàng, găng tay, ô dù che nắng và các đồ dùng đi kèm.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Belt | /belt/ [[belt.mp3\|🔊]] | A1 | noun | Thắt lưng | belted (adj) | [[Belt]] |
+| Shoe | /ʃuː/ [[shoe.mp3\|🔊]] | A1 | noun | Chiếc giày | shoeless (adj) | [[Shoe]] |
+| Sock | /sɒk/ [[sock.mp3\|🔊]] | A1 | noun | Chiếc tất | socks (n) | [[Sock]] |
+| Glove | /ɡlʌv/ [[glove.mp3\|🔊]] | A2 | noun | Găng tay | gloved (adj) | [[Glove]] |
+| Scarf | /skɑːf/ [[scarf.mp3\|🔊]] | A2 | noun | Khăn quàng cổ | scarves (n - plural) | [[Scarf]] |
+| Tie | /taɪ/ [[tie.mp3\|🔊]] | A2 | noun | Cà vạt | tieless (adj) | [[Tie]] |
+| Umbrella | /ʌmˈbrelə/ [[umbrella.mp3\|🔊]] | A2 | noun | Cái ô, dù | - | [[Umbrella]] |
+| Shoelace | /ˈʃuːleɪs/ [[shoelace.mp3\|🔊]] | B1 | noun | Dây giày | - | [[Shoelace]] |
+| Slipper | /ˈslɪpə(r)/ [[slipper.mp3\|🔊]] | B1 | noun | Dép đi trong nhà | slippered (adj) | [[Slipper]] |
+| Sneaker | /ˈsniːkə(r)/ [[sneaker.mp3\|🔊]] | B1 | noun | Giày thể thao | sneakers (n) | [[Sneaker]] |
+| Mitten | /ˈmɪtn/ [[mitten.mp3\|🔊]] | B2 | noun | Găng tay hở ngón, găng tay bao liền | - | [[Mitten]] |
+| Corsage | /kɔːˈsɑːʒ/ [[corsage.mp3\|🔊]] | C1 | noun | Hoa cài áo/cổ tay | - | [[Corsage]] |
+| Parasol | /ˈpærəsɒl/ [[parasol.mp3\|🔊]] | C1 | noun | Cái dù che nắng | - | [[Parasol]] |
+| Suspender | /səˈspendə(r)/ [[suspender.mp3\|🔊]] | C1 | noun | Dây đeo quần | suspend (v) | [[Suspender]] |
+| Paraphernalia | /ˌpærəfəˈneɪliə/ [[paraphernalia.mp3\|🔊]] | C2 | noun | Đồ lỉnh kỉnh, phụ tùng | - | [[Paraphernalia]] |
+
+## 🔗 Cụm từ, Collocations & Phrasal Verbs phổ biến theo chủ đề (Key Phrases & Expressions)
+*Các cụm từ cố định, phrasal verbs và thành ngữ thông dụng nhất giúp bạn nói và viết tự nhiên về chủ đề **ACCESSORIES**.*
+
+| Cụm từ / Phrasal Verb | Loại | Cấp độ | Ý nghĩa | Ví dụ áp dụng |
+| --- | --- | --- | --- | --- |
+| **match an outfit** | Collocation | B1 | phối đồ ăn ý với phụ kiện | *A sleek leather belt helps match an outfit seamlessly.* |
+| **statement piece** | Collocation | B2 | món phụ kiện điểm nhấn nổi bật | *A chunky silver necklace serves as the perfect statement piece for a simple black dress.* |
+| **put on / take off** | Phrasal Verb | A1 | đeo vào / tháo ra (kính mắt, đồng hồ, khăn) | *Remember to put on your polarized sunglasses before going out into bright sunlight.* |
+| **try on** | Phrasal Verb | A2 | thử phụ kiện xem có vừa vặn không | *She tried on three different wool scarves before making her selection.* |
+| **finishing touch** | Idiom | B2 | nét chấm phá hoàn thiện cuối cùng | *Spritzing a subtle perfume added the finishing touch to her evening look.* |
+| **leather handbag** | Collocation | A2 | túi xách da cao cấp | *She invested in a handcrafted leather handbag that will last for decades.* |
+| **fashion accessory** | Collocation | A2 | phụ kiện thời trang | *Scarves and beanies are functional winter fashion accessories.* |
+| **buckle up** | Phrasal Verb | A2 | cài khóa thắt lưng / thắt dây an toàn | *Always buckle up your seatbelt as soon as you enter the vehicle.* |
+| **clutch bag** | Collocation | B2 | ví cầm tay dự tiệc | *She slipped her phone and lipstick into a sequined clutch bag.* |
+| **wear and tear** | Idiom | B2 | sự hao mòn tự nhiên qua thời gian sử dụng | *Genuine leather wallets withstand years of daily wear and tear.* |
+
 ## 📖 Đoạn văn thực tế (Contextual Story)
 
 ### English Paragraph

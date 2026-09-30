@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɜːrvɪs/
 
+![[service.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the action of helping or doing work for someone, or a business that provides this.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `customer service`: dịch vụ khách hàng
 - `provide a service`: cung cấp dịch vụ
+- `financial services`: các dịch vụ tài chính
+- `service sector`: khu vực kinh tế dịch vụ
+- `render services`: cung cấp các dịch vụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The restaurant is famous for its delicious food and excellent service.

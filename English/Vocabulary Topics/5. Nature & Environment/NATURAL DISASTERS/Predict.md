@@ -2,8 +2,10 @@
 *verb*
 > /prɪˈdɪkt/
 
+![[predict.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say that an event will happen in the future.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `predict the future`: dự đoán tương lai
 - `hard to predict`: khó dự đoán
+- `predict accurately`: dự đoán một cách chuẩn xác
+- `predict the path of a hurricane`: dự báo đường đi của bão
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is difficult to predict when the next earthquake will strike.

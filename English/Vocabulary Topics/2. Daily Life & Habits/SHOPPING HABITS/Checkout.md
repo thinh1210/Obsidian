@@ -2,8 +2,10 @@
 *n*
 > /ˈtʃek.aʊt/
 
+![[checkout.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place you pay in a store
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `checkout desk`: quầy thanh toán
+- `self-checkout`: quầy tự thanh toán
+- `express checkout`: quầy thanh toán nhanh (cho ít món đồ)
+- `proceed to checkout`: tiến hành bước thanh toán giỏ hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Go to the checkout.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˌpɪə.riˈɒd.ɪk/
 
+![[periodic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Appearing or occurring at intervals.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `periodic table`: bảng tuần hoàn
 - `periodic law`: định luật tuần hoàn
+- `periodic trend`: xu hướng tuần hoàn
+- `periodic properties`: các tính chất biến đổi tuần hoàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The elements are arranged in the periodic table according to their properties.

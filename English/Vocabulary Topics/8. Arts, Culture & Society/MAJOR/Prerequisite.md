@@ -2,8 +2,10 @@
 *n., adj.*
 > /ˌpriː.ˈrek.wɪ.zɪt/
 
+![[prerequisite.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A course or requirement that must be completed before another course can be taken.

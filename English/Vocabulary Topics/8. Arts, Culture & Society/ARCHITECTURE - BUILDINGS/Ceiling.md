@@ -2,8 +2,10 @@
 *n.*
 > /ˈsiːlɪŋ/
 
+![[ceiling.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The upper interior surface of a room
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high ceiling`: trần nhà cao
 - `ceiling fan`: quạt trần
+- `coffered ceiling`: trần nhà ô lõm trang trí
+- `false ceiling`: trần giả / trần thạch cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bedroom ceiling was painted light blue.

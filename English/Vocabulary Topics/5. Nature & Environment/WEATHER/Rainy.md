@@ -2,8 +2,10 @@
 *adj.*
 > /ˈreɪni/
 
+![[rainy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot of rain
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rainy season`: mùa mưa
+- `rainy day fund`: quỹ tiền dự phòng rủi ro cấp bách
+- `rainy season begins`: mùa mưa bắt đầu
+- `dull rainy afternoon`: buổi chiều mưa ảm đạm buồn tẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like staying at home on rainy days.

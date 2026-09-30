@@ -2,8 +2,10 @@
 *noun*
 > /ˌstɔɪ.kiˈɒm.ə.tri/
 
+![[stoichiometry.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The relationship between the relative quantities of substances taking part in a reaction or forming a compound, typically a ratio of whole integers.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stoichiometry calculation`: tính toán tỷ lệ hợp phần
 - `reaction stoichiometry`: định lượng phản ứng
+- `stoichiometric coefficient`: hệ số tỷ lượng
+- `stoichiometric ratio`: tỷ lệ lượng hóa học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Understanding stoichiometry is key to predicting product yields.

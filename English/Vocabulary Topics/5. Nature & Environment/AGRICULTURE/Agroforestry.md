@@ -2,8 +2,10 @@
 *n.*
 > /ˌæɡ.rəʊˈfɒr.ɪ.stri/
 
+![[agroforestry.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Agriculture incorporating the cultivation and conservation of trees alongside crops.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `agroforestry system`: hệ thống nông lâm kết hợp
 - `agroforestry practices`: thực hành nông lâm kết hợp
+- `agroforestry model`: mô hình nông lâm kết hợp
+- `adopt agroforestry`: áp dụng phương pháp nông lâm kết hợp
+- `benefits of agroforestry`: lợi ích của nông lâm kết hợp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Agroforestry can significantly reduce greenhouse gases by trapping carbon.

@@ -2,8 +2,10 @@
 *verb*
 > /ɪˈvɪkt/
 
+![[evict.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Expel (someone) from a property, especially with the support of the law.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `evict a tenant`: đuổi người thuê nhà
 - `face eviction`: đối mặt với việc bị đuổi
+- `eviction notice`: thông báo trục xuất đuổi nhà
+- `unlawfully evict`: đuổi người thuê trái luật
+- `risk eviction`: đối mặt nguy cơ bị đuổi khỏi nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The landlord decided to evict them.

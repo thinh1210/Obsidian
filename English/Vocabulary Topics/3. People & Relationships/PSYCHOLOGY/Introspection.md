@@ -2,8 +2,10 @@
 *noun*
 > /ˌɪn.trəˈspek.ʃən/
 
+![[introspection.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The examination or observation of one's own mental and emotional processes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `deep introspection`: sự tự kiểm điểm sâu sắc
+- `period of introspection`: khoảng thời gian tự nhìn nhận nội tâm
+- `quiet introspection`: sự tự chiêm nghiệm trầm lắng
+- `prone to introspection`: có xu hướng thích đào sâu suy ngẫm nội tâm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I spent the weekend in quiet introspection.

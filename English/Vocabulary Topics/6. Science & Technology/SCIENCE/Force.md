@@ -2,8 +2,10 @@
 *noun / verb*
 > /fɔːs/
 
+![[force.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A push or pull that can change the motion or shape of an object.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌnəʊtɪfɪˈkeɪʃn/
 
+![[notification.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An alert or message informing a user of activity on their social media account
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `turn off notifications`: tắt thông báo
+- `push notification`: thông báo đẩy trên thiết bị
+- `mute notifications`: tắt âm báo các thông báo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I turned off notifications because they were distracting me from studying.

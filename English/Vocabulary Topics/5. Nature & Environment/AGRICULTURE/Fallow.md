@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfæl.əʊ/
 
+![[fallow.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Left unsown for a period to restore fertility as part of a crop rotation.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lie fallow`: để hoang đất
 - `fallow period`: thời gian để hoang đất
+- `leave the field fallow`: để hoang đất ruộng cho đất hồi phục
+- `fallow land`: đất bỏ ải, đất nghỉ vụ
+- `fallow year`: năm nghỉ ngơi / năm gián đoạn công việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The fields are left to lie fallow every third year.

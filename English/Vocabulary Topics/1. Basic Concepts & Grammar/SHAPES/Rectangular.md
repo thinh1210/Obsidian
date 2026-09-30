@@ -2,8 +2,10 @@
 *adj.*
 > /rekˈtæŋ.ɡjə.lər/
 
+![[rectangular.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shaped like a rectangle.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A rectangular box`: Hộp hình chữ nhật
 - `A rectangular shape`: Hình dạng chữ nhật
+- `rectangular coordinate system`: hệ tọa độ vuông góc Descartes
+- `rectangular prism`: hình lăng trụ chữ nhật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The swimming pool is rectangular.

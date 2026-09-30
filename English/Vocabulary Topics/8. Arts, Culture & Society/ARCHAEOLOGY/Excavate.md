@@ -2,8 +2,10 @@
 *verb*
 > /ˈekskəveɪt/
 
+![[excavate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a hole or channel by digging, especially to find ancient remains
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `excavate a site`: khai quật một địa điểm
 - `carefully excavate`: khai quật cẩn thận
+- `excavate a tomb`: khai quật một lăng mộ
+- `excavation trench`: hào khai quật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They plan to excavate the ancient burial mound next summer.

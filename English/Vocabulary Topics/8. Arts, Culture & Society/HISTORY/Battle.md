@@ -2,8 +2,10 @@
 *noun*
 > /ˈbæt.əl/
 
+![[battle.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sustained fight between large organized armed forces.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `win a battle`: thắng một trận chiến
 - `lose a battle`: thua một trận chiến
+- `pitched battle`: trận đánh giáp lá cà quyết liệt
+- `battlefield casualties`: thương vong trên chiến trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The soldiers prepared themselves for the upcoming battle.

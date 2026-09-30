@@ -2,8 +2,10 @@
 *noun*
 > /snəʊ/
 
+![[snow.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Soft white pieces of frozen water that fall from the sky
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `heavy snow`: tuyết rơi dày
+- `snowed under with work`: ngập đầu ngập cổ trong công việc bận rộn
+- `pure as the driven snow`: trong trắng thuần khiết không tì vết
+- `snowball effect`: hiệu ứng hòn tuyết lăn (lan nhanh và lớn dần)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Look at the snow falling outside!

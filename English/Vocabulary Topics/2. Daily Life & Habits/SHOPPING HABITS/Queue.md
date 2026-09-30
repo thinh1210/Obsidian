@@ -2,8 +2,10 @@
 *n/v*
 > /kjuː/
 
+![[queue.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line of people waiting
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `jump the queue`: chen ngang hàng
+- `join the queue`: đứng vào hàng ngũ đợi lượt
+- `stand in a queue`: đứng xếp hàng chờ đợi
+- `queue up for`: xếp hàng dài để chờ mua...
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Stand in the queue.

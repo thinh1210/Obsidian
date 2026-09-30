@@ -2,8 +2,10 @@
 *n.*
 > /jɑːd/
 
+![[yard.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An area of land immediately adjacent to a building or a group of buildings, often enclosed.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `back yard`: sân sau
 - `front yard`: sân trước
+- `spacious backyard`: khoảng sân vườn sau rộng rãi
+- `fenced-in yard`: khuôn viên sân có hàng rào bao quanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kids love playing football in the back yard.

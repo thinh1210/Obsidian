@@ -2,8 +2,10 @@
 *n.*
 > /prəˈpraɪətə(r)/
 
+![[proprietor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The owner of a business, or a holder of property.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sole proprietor`: chủ sở hữu duy nhất
 - `proprietor of the estate`: chủ điền trang
+- `hotel proprietor`: chủ khách sạn lưu trú
+- `proprietor of the premises`: chủ sở hữu của mặt bằng khu nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The proprietor of the boarding house welcomed us warmly.

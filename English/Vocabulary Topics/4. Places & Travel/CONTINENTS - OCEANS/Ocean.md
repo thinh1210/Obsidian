@@ -2,8 +2,10 @@
 *noun*
 > /ˈəʊʃn/
 
+![[ocean.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large expanse of sea.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `swim in the ocean`: bơi ngoài đại dương
+- `Pacific Ocean`: Thái Bình Dương
+- `vast ocean`: đại dương bao la
+- `ocean depths`: độ sâu của đại dương
+- `cross the ocean`: vượt đại dương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love looking at the ocean.

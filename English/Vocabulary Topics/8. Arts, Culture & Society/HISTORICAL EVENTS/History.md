@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɪs.tər.i/
 
+![[history.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient history`: lịch sử cổ đại
 - `make history`: làm nên lịch sử
+- `turning point in history`: bước ngoặt chuyển mình vĩ đại của lịch sử
+- `throughout recorded history`: xuyên suốt chiều dài lịch sử thành văn của nhân loại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* History was my favorite subject when I was at school.

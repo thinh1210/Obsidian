@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɪs.kaʊnt/
 
+![[discount.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deduction from the usual cost of something
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `offered a discount`: được giảm giá
+- `give a discount`: dành cho mức chiết khấu giảm giá
+- `discount rate`: tỷ lệ chiết khấu
+- `student discount`: giảm giá ưu đãi dành cho học sinh sinh viên
+- `discount the rumors`: gạt phăng không bận tâm những tin đồn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They offer a 10% discount for students.

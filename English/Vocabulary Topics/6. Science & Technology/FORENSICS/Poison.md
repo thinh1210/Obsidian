@@ -2,8 +2,10 @@
 *noun / verb*
 > /ˈpɔɪ.zən/
 
+![[poison.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that causes illness or death when introduced into a living organism.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌpɜːpəˈtjuːəti/
 
+![[perpetuity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or quality of lasting forever
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in perpetuity`: vĩnh viễn
+- `grant in perpetuity`: cấp quyền vĩnh viễn không thời hạn
+- `perpetuity clause`: điều khoản duy trì vĩnh viễn
+- `endow in perpetuity`: thành lập quỹ duy trì vĩnh viễn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The land was granted to them in perpetuity.

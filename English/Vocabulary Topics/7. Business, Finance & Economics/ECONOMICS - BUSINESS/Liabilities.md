@@ -2,8 +2,10 @@
 *noun*
 > /ˌlaɪəˈbɪlətiz/
 
+![[liabilities.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Đòn bẩy tài chính & Nghĩa vụ nợ doanh nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the amount of money that a person or company owes to others.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `current liabilities`: nợ ngắn hạn
 - `assets and liabilities`: tài sản và nợ phải trả
+- `long-term liabilities`: khoản nợ phải trả dài hạn
+- `contingent liabilities`: khoản nợ tiềm ẩn
+- `discharge liabilities`: hoàn thành nghĩa vụ trả nợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Before buying a business, you must assess all its potential liabilities.

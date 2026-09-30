@@ -2,8 +2,10 @@
 *v.*
 > /ˈsəʊʃəlaɪz/
 
+![[socialize.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Participate in social activities; mix socially with others.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `socialize with friends`: giao lưu với bạn bè
+- `socialize regularly`: gặp gỡ giao lưu bạn bè thường xuyên
+- `socialize outside work`: giao lưu ngoài giờ làm việc
+- `need to socialize`: nhu cầu kết nối xã hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to socialize on weekends.

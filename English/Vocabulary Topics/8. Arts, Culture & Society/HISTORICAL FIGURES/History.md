@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɪstri/
 
+![[history.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make history`: làm nên lịch sử
 - `ancient history`: lịch sử cổ đại
+- `throughout history`: trong suốt chiều dài lịch sử
+- `go down in history`: lưu danh vào sử sách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We should learn from history to avoid repeating mistakes.

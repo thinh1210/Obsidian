@@ -2,8 +2,10 @@
 *n*
 > /ˌdɪləˈtænti/
 
+![[dilettante.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who cultivates an area of interest, such as the arts, without real commitment or knowledge.
@@ -13,7 +15,11 @@
 💡 Dile (đi lang thang) + tante -> lang thang chơi bời không chuyên.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wealthy dilettante`: người tài tử giàu có\n- `act like a dilettante`: hành động như dân nghiệp dư
+- `wealthy dilettante`: người tài tử giàu có
+- `act like a dilettante`: hành động như dân nghiệp dư
+- `mere dilettante`: kẻ chỉ cưỡi ngựa xem hoa, học tài tử
+- `dilettante approach`: cách tiếp cận nửa vời, không chuyên sâu
+- `literary dilettante`: người yêu văn chương nghiệp dư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He's just a dilettante when it comes to painting.

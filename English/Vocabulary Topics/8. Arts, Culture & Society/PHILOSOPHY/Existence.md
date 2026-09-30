@@ -2,8 +2,10 @@
 *n.*
 > /ɪɡˈzɪs.təns/
 
+![[existence.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or state of living or having objective reality.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `come into existence`: xuất hiện, bắt đầu tồn tại
 - `struggle for existence`: cuộc đấu tranh sinh tồn
+- `meaning of existence`: ý nghĩa của sự hiện sinh
+- `precarious existence`: cuộc sống bấp bênh tạm bợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Scientists are trying to prove the existence of alien life.

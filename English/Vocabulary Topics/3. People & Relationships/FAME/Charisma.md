@@ -2,8 +2,10 @@
 *n.*
 > /kəˈrɪzmə/
 
+![[charisma.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Compelling attractiveness or charm that can inspire devotion in others.
@@ -13,7 +15,10 @@
 💡 Charis (ân sủng).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `natural charisma: sức hút tự nhiên`
+- `natural charisma`: sức hút tự nhiên
+- `exude charisma`: toát lên sức hút lôi cuốn
+- `lack charisma`: thiếu sức hút cá nhân
+- `leadership charisma`: sức hút của nhà lãnh đạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The leader has great charisma.

@@ -2,8 +2,10 @@
 *n*
 > /ˈpɑː.lə.mənt/
 
+![[parliament.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The group of elected representatives who make the laws of a country.

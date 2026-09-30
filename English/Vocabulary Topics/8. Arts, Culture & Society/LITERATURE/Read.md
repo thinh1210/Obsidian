@@ -2,8 +2,10 @@
 *verb*
 > /riːd/
 
+![[read.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Look at and comprehend the meaning of written or printed matter.

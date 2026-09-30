@@ -2,8 +2,10 @@
 *adj.*
 > /ˈbɪt.ər/
 
+![[bitter.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a sharp, pungent taste or smell; not sweet.

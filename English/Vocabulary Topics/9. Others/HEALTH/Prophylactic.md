@@ -2,8 +2,10 @@
 *adj, n*
 > /ˌprɒfəˈlæktɪk/
 
+![[prophylactic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intended to prevent disease. / A medicine or course of action used to prevent disease.

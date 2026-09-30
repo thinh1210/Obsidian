@@ -2,8 +2,10 @@
 *n*
 > /pluːˈtɒk.rə.si/
 
+![[plutocracy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Government by the wealthy; a society governed by the rich.

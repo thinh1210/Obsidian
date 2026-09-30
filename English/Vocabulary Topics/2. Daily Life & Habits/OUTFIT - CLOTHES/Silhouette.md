@@ -2,8 +2,10 @@
 *noun*
 > /ˌsɪl.uˈet/
 
+![[silhouette.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The dark shape and outline of someone or something visible against a lighter background, especially in dim light; the overall shape of a garment.
@@ -13,7 +15,10 @@
 💡 Silhouette -> Xinh lu ét -> Phom dáng cái áo xinh lu ét.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a sleek silhouette: một phom dáng thon gọn`
+- `a sleek silhouette`: một phom dáng thon gọn
+- `flattering silhouette`: phom dáng trang phục tôn vóc dáng
+- `classic silhouette`: phom dáng kinh điển trường tồn với thời gian
+- `oversized silhouette`: phom dáng rộng phóng khoáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dress gives her a beautiful silhouette.

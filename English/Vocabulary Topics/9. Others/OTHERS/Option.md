@@ -1,13 +1,21 @@
 # Option
 
 *Noun*
+> /ˈɒp.ʃən/
+
+![[option.mp3]]
 
 - **[EN]:** A thing that is or may be chosen.
 - **[VN]:** Lựa chọn, tùy chọn.
 
-**Level:** B1
+**Level:** B1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `keep one's options open`: giữ nhiều ngỏ lựa chọn không chốt vội (idiom)
+- `soft option`: lựa chọn an toàn dễ dãi nhất
+- `explore every option`: khảo sát mọi phương án có thể
+
 ## Examples
 1. *We have no option but to wait and see.*
    - Chúng tôi không có lựa chọn nào khác ngoài việc chờ đợi xem sao.

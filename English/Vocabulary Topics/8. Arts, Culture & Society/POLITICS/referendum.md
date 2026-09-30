@@ -2,8 +2,10 @@
 *noun*
 > /ˌrefəˈrendəm/
 
+![[referendum.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A general vote by the electorate on a single political question which has been referred to them for a direct decision.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hold a referendum`: tổ chức trưng cầu dân ý
 - `national referendum`: trưng cầu dân ý toàn quốc
+- `binding referendum`: cuộc trưng cầu dân ý có giá trị ràng buộc
+- `call for a referendum`: kêu gọi tổ chức một cuộc trưng cầu ý dân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government decided to hold a referendum on the new constitution.

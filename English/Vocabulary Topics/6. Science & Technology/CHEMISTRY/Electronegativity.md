@@ -2,8 +2,10 @@
 *noun*
 > /iˌlek.trəʊˌneɡ.əˈtɪv.ə.ti/
 
+![[electronegativity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical property that describes the tendency of an atom to attract a shared pair of electrons towards itself.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high electronegativity`: độ âm điện cao
 - `electronegativity difference`: hiệu độ âm điện
+- `Pauling electronegativity scale`: thang độ âm điện Pauling
+- `trend in electronegativity`: xu hướng biến đổi độ âm điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Fluorine has the highest electronegativity of all elements on the Pauling scale.

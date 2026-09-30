@@ -2,8 +2,10 @@
 *n.*
 > /ˈpænɪk/
 
+![[panic.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden overwhelming fear
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in a panic`: trong trạng thái hoảng loạn
 - `panic attack`: cơn hoảng loạn
+- `panic-stricken`: hoảng loạn tột độ khiếp sợ
+- `don't panic`: đừng hoảng sợ hãy giữ bình tĩnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He left in a panic.

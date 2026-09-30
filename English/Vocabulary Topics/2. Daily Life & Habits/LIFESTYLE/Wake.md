@@ -2,8 +2,10 @@
 *v.*
 > /weɪk/
 
+![[wake.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Emerge or cause to emerge from sleep.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wake up`: thức dậy
+- `wake up early`: dậy sớm đón bình minh
+- `wake-up call`: hồi chuông cảnh tỉnh
+- `wide awake`: tỉnh như sáo, hoàn toàn tỉnh táo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I wake up early.

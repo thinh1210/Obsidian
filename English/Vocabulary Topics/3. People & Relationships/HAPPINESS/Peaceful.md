@@ -2,8 +2,10 @@
 *adj.*
 > /ˈpiːs.fəl/
 
+![[peaceful.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from disturbance; tranquil.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `peaceful environment`: môi trường yên bình
+- `peaceful coexistence`: cùng chung sống hòa bình
+- `peaceful soul`: tâm hồn thanh thản an nhiên
+- `peaceful setting`: khung cảnh thanh bình êm ả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is so peaceful here.

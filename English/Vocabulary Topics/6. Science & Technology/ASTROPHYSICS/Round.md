@@ -2,8 +2,10 @@
 *adjective*
 > /raʊnd/
 
+![[round.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shaped like a circle or sphere.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `round shape`: hình tròn
 - `round orbit`: quỹ đạo tròn
+- `round trip`: chuyến đi khứ hồi
+- `round celestial body`: thiên thể hình tròn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wheel of the bicycle is completely round.

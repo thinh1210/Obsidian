@@ -2,8 +2,10 @@
 *adjective*
 > /ˌprɒb.ə.bɪˈlɪs.tɪk/
 
+![[probabilistic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Based on or involving probability; describing events whose outcomes are governed by chance rather than certainty.

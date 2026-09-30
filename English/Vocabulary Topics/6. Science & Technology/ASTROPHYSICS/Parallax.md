@@ -2,8 +2,10 @@
 *noun*
 > /ˈpær.ə.læks/
 
+![[parallax.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The apparent shift in position of a nearby object when viewed from different positions.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stellar parallax`: thị sai của sao
 - `parallax method`: phương pháp thị sai
+- `parallax angle`: góc thị sai
+- `measure parallax`: đo thị sai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Close one eye and hold up a finger; you can see the parallax effect.

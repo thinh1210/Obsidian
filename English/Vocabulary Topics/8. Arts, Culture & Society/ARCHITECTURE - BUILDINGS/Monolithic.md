@@ -2,8 +2,10 @@
 *adj.*
 > /ˌmɒnəˈlɪθɪk/
 
+![[monolithic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Formed of a single large block of stone, or very large and solid
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `monolithic structure`: cấu trúc nguyên khối
 - `monolithic concrete`: bê tông nguyên khối
+- `monolithic facade`: mặt dựng nguyên khối liền mạch
+- `monolithic block`: khối đá / bê tông nguyên khối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The monument was carved from a monolithic block of granite.

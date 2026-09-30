@@ -2,8 +2,10 @@
 *Verb*
 > /sel/
 
+![[sell.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something to someone in exchange for money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sell goods`: bán hàng hóa
 - `sell online`: bán hàng trực tuyến
+- `sell at a profit`: bán ra kiếm được một khoản lời
+- `sell high`: bán ra ở thời điểm giá đang trên đỉnh
+- `sell off underperforming assets`: thanh lý các tài sản sinh lời kém
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They want to sell their old car to buy a new one.

@@ -2,8 +2,10 @@
 *Noun*
 > /tekˈnɒl.ə.dʒi/
 
+![[technology.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The application of scientific knowledge for practical purposes.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cutting-edge technology`: 공 nghệ tiên tiến
 - `information technology`: công nghệ thông tin
+- `adopt new technology`: ứng dụng công nghệ mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Modern technology makes communication much easier.

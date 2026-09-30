@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈplɔɪmənt/
 
+![[deployment.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of bringing resources into effective action; installing or rolling out software/hardware.

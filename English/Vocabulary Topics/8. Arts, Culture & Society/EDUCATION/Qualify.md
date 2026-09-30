@@ -2,8 +2,10 @@
 *v.*
 > /ˈkwɒlɪfaɪ/
 
+![[qualify.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To meet the necessary conditions to be entitled to a particular benefit
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `qualify for a scholarship`: đủ tiêu chuẩn nhận học bổng
 - `highly qualified`: có trình độ cao
+- `qualify as a teacher`: đủ chuẩn nghiệp vụ để trở thành giáo viên
+- `teaching qualification`: chứng chỉ bồi dưỡng nghiệp vụ sư phạm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you qualify for student discounts?

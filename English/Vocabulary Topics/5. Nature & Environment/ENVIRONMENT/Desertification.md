@@ -2,8 +2,10 @@
 *n.*
 > /dɪˌzɜːtɪfɪˈkeɪʃn/
 
+![[desertification.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `combat desertification`: chống sa mạc hóa
 - `process of desertification`: quá trình sa mạc hóa
+- `reversing desertification`: đảo ngược tình trạng sa mạc hóa
+- `threat of desertification`: nguy cơ sa mạc hóa
+- `arid zone desertification`: sa mạc hóa ở các vùng đất khô hạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Desertification is threatening agricultural land in parts of Africa.

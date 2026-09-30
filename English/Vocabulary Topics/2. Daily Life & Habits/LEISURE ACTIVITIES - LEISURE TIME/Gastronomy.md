@@ -2,8 +2,10 @@
 *n*
 > /ɡæˈstrɒnəmi/
 
+![[gastronomy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or art of choosing, cooking, and eating good food.
@@ -13,7 +15,11 @@
 💡 Gastro (dạ dày) + nomy (học thuật) -> nghệ thuật ăn uống.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `molecular gastronomy`: ẩm thực phân tử\n- `fine gastronomy`: nghệ thuật ẩm thực tinh tế
+- `molecular gastronomy`: ẩm thực phân tử
+- `fine gastronomy`: nghệ thuật ẩm thực tinh tế
+- `local gastronomy`: nền ẩm thực bản địa
+- `gastronomic delight`: món ngon làm mê đắm vị giác
+- `gastronomy capital`: kinh đô ẩm thực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He studies French gastronomy.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɪstəm/
 
+![[system.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of things working together as parts of a mechanism or an interconnecting network.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `operating system`: hệ điều hành
 - `cooling system`: hệ thống làm mát
+- `control system`: hệ thống điều khiển
+- `complex system`: hệ thống phức tạp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The plumbing system in this old house needs to be completely replaced.

@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈkruːt/
 
+![[recruit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To enlist someone in an organization or workforce
@@ -13,7 +15,10 @@
 💡 "Rì" rầm kể chuyện "ruút" hết tiền để đi "recruit" người giỏi
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``recruit talent`: tuyển dụng tài năng
+- `recruit talent`: tuyển dụng tài năng
+- `fresh recruit`: nhân sự tân binh mới được tuyển mộ
+- `recruitment drive`: chiến dịch mở đợt tuyển quân rầm rộ
+- `campus recruiting`: ngày hội tuyển dụng trực tiếp tại các trường đại học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to recruit more sales staff.

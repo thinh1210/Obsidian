@@ -2,8 +2,10 @@
 *noun*
 > /teɪp/
 
+![[tape.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a narrow strip of material, typically plastic or paper, coated with adhesive on one or both sides.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adhesive tape`: băng keo
 - `measuring tape`: thước dây
+- `duct tape`: băng dính dán ống chịu lực
+- `tape over`: dán đè băng keo lên (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I used some tape to fix the torn page.

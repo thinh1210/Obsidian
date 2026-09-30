@@ -2,8 +2,10 @@
 *Noun*
 > /ˈdɪskaʊnt/
 
+![[discount.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deduction from the usual cost of something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `offer a discount`: đưa ra mức giảm giá
 - `massive discount`: giảm giá cực lớn
+- `volume discount`: chiết khấu khi mua số lượng lớn
+- `discount coupon`: phiếu giảm giá mua hàng
+- `early payment discount`: chiết khấu ưu đãi khi thanh toán sớm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Students can get a 10% discount on books at this store.

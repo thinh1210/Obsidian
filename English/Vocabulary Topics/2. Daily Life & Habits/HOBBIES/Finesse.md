@@ -2,8 +2,10 @@
 *n.*
 > /fɪˈnes/
 
+![[finesse.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great skill or style.

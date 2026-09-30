@@ -2,8 +2,10 @@
 *noun*
 > /diːˌsen.trə.laɪˈzeɪ.ʃən/
 
+![[decentralization.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The distribution of control across a network rather than being governed by a single central authority.

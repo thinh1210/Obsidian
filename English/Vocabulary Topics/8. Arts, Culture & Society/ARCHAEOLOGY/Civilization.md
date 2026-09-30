@@ -2,8 +2,10 @@
 *noun*
 > /ˌsɪvəlaɪˈzeɪʃn/
 
+![[civilization.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The stage of human social development and organization that is considered most advanced
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient civilization`: nền văn minh cổ đại
 - `lost civilization`: nền văn minh bị mất tích
+- `rise and fall of a civilization`: sự hưng thịnh và suy tàn của nền văn minh
+- `cradle of civilization`: cái nôi của nền văn minh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Nile Valley was the cradle of Egyptian civilization.

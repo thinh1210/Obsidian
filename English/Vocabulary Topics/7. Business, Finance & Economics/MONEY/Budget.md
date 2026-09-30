@@ -2,8 +2,10 @@
 *noun*
 > /ˈbʌdʒ.ɪt/
 
+![[budget.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An estimate of income and expenditure for a set period of time
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on a tight budget`: với ngân sách eo hẹp
+- `stick to a budget`: tuân thủ nghiêm ngặt ngân sách đã định
+- `budget constraints`: những giới hạn ràng buộc về ngân sách
+- `shoestring budget`: ngân sách eo hẹp, ít ỏi
+- `over budget`: chi tiêu vượt quá mức dự toán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to plan our household budget carefully.

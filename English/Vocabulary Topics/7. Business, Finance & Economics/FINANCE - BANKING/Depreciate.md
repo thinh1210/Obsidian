@@ -2,8 +2,10 @@
 *verb.*
 > /dɪˈpriːʃieɪt/
 
+![[depreciate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To diminish in value over time, especially due to wear and tear or market changes.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `depreciate in value`: giảm giá trị
 - `depreciate assets`: khấu hao tài sản
+- `accumulated depreciation`: khấu hao lũy kế
+- `depreciate rapidly`: mất giá nhanh chóng
+- `straight-line depreciation`: khấu hao theo phương pháp đường thẳng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New cars depreciate in value as soon as they are driven off the dealership lot.

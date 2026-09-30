@@ -2,8 +2,10 @@
 *noun*
 > /ˈsʌnset/
 
+![[sunset.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time in the evening when the sun disappears or daylight fades.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `at sunset`: lúc hoàng hôn
+- `watch the sunset`: ngắm hoàng hôn
+- `sunset clause`: điều khoản hoàng hôn (hết hiệu lực sau thời gian nhất định)
+- `golden hour before sunset`: giờ vàng trước khi mặt trời lặn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sunset over the ocean is beautiful.

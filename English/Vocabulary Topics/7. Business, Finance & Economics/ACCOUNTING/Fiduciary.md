@@ -2,8 +2,10 @@
 *adj./n.*
 > /fɪˈdjuːʃi.ə.ri/
 
+![[fiduciary.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Involving trust, especially with regard to the relationship between a trustee and a beneficiary

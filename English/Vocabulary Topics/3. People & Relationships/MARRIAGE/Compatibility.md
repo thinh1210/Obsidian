@@ -2,8 +2,10 @@
 *noun*
 > /kəmˌpætəˈbɪləti/
 
+![[compatibility.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state in which two things are able to exist or occur together without problems or conflict.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Marital compatibility`: Sự tương thích trong hôn nhân
+- `intellectual compatibility`: sự tương thích về mặt trí tuệ
+- `emotional compatibility`: sự thấu cảm hòa hợp về cảm xúc
+- `test compatibility`: kiểm tra độ hòa hợp tương thích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Compatibility is crucial for a lasting marriage.

@@ -2,8 +2,10 @@
 *verb*
 > /raɪt/
 
+![[write.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Mark letters, words, or other symbols on a surface, typically paper.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈmʌð.ə.rɪn.lɔː/
 
+![[mother_in_law.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The mother of your husband or wife.

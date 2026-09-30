@@ -2,8 +2,10 @@
 *n/v*
 > /ˈbɑː.ɡɪn/
 
+![[bargain.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something bought cheaply, or to negotiate
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `drive a hard bargain`: mặc cả gắt gao
+- `strike a bargain`: đạt được thỏa thuận mua bán tốt
+- `bargain hunter`: người chuyên săn lùng hàng khuyến mãi giá rẻ
+- `into the bargain`: hơn nữa, thêm vào đó nữa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This is a bargain.

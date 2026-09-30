@@ -2,8 +2,10 @@
 *n*
 > /ˈhedeɪk/
 
+![[headache.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A continuous pain in the head.

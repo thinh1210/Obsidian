@@ -2,8 +2,10 @@
 *v.*
 > /haɪər/
 
+![[hire.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To employ someone for wages or a job
@@ -13,7 +15,11 @@
 💡 "Hai" người sếp đang tranh nhau "hire" ứng viên giỏi
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``hire new employees`: thuê nhân viên mới
+- `hire new employees`: thuê nhân viên mới
+- `new hire`: nhân sự mới được tuyển dụng
+- `hiring freeze`: chính sách tạm ngừng tiếp nhận nhân sự mới
+- `hiring manager`: nhà tuyển dụng trực tiếp phụ trách chuyên môn
+- `hire on probation`: tuyển dụng trong giai đoạn thử việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They want to hire a tutor for their kids.

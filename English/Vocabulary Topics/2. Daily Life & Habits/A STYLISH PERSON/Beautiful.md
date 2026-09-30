@@ -2,8 +2,10 @@
 *adj.*
 > /ˈbjuːtɪfl/
 
+![[beautiful.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasing the senses or mind aesthetically.
@@ -13,7 +15,11 @@
 💡 Beautiful - vẻ đẹp (beauty) làm người ta bối rối.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `beautiful face`: khuôn mặt đẹp\n- `beautiful clothes`: quần áo đẹp
+- `beautiful face`: khuôn mặt đẹp
+- `beautiful clothes`: quần áo đẹp
+- `breathtakingly beautiful`: đẹp đến nghẹt thở
+- `beautiful craftsmanship`: kỹ thuật may mặc/chế tác tuyệt đẹp
+- `beautifully dressed`: ăn mặc đẹp đẽ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She looked beautiful in her new dress.

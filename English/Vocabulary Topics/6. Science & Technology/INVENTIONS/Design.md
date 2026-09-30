@@ -2,8 +2,10 @@
 *Verb*
 > /dɪˈzaɪn/
 
+![[design.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make or draw plans for something, for example clothes or buildings.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `design a website`: thiết kế trang web
 - `ergonomic design`: thiết kế công thái học
+- `interior design`: thiết kế nội thất
+- `design flaw`: lỗi sai sót trong thiết kế
+- `by design`: có chủ đích từ trước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He designed the layout of the living room.

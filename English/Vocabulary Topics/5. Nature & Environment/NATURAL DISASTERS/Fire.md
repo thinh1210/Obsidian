@@ -2,8 +2,10 @@
 *noun*
 > /faɪər/
 
+![[fire.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of burning that produces heat, light, and smoke.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `catch fire`: bắt lửa, bốc cháy
 - `put out a fire`: dập tắt đám cháy
+- `fight fire with fire`: lấy độc trị độc / dùng đòn của đối thủ để chống trả
+- `play with fire`: đùa với lửa
+- `catch fire easily`: rất dễ bắt lửa bốc cháy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The campers sat around the fire to keep warm.

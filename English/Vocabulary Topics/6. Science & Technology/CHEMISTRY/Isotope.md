@@ -2,8 +2,10 @@
 *noun*
 > /ˈaɪ.sə.təʊp/
 
+![[isotope.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons in their nuclei.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `radioactive isotope`: đồng vị phóng xạ
 - `stable isotope`: đồng vị bền
+- `carbon isotope`: đồng vị cacbon
+- `isotope ratio`: tỷ lệ đồng vị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Carbon-14 is a radioactive isotope used in dating ancient organic materials.

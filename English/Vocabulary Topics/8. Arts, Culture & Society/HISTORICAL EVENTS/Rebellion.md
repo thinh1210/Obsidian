@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈbel.jən/
 
+![[rebellion.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of violent or open resistance to an established government or ruler.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rise in rebellion`: nổi dậy khởi nghĩa
 - `crush a rebellion`: dập tắt cuộc nổi loạn
+- `peasant rebellion`: cuộc khởi nghĩa nổi dậy của giai cấp nông dân
+- `instigate a rebellion`: kích động xúi giục cuộc khởi nghĩa phản loạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Teenagers often go through a phase of rebellion against their parents.

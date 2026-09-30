@@ -2,8 +2,10 @@
 *adjective*
 > /ˌep.ɪˈstem.ɪk/
 
+![[epistemic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to knowledge or the conditions required for knowledge; pertaining to epistemology.

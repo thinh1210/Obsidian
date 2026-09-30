@@ -2,8 +2,10 @@
 *adj*
 > /braɪt/
 
+![[bright.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Strong in color.

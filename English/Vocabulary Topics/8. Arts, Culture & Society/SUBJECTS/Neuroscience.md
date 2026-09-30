@@ -2,8 +2,10 @@
 *n.*
 > /ˈnjʊə.rəʊˌsaɪ.əns/
 
+![[neuroscience.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any or all of the sciences, such as neurochemistry and experimental psychology, which deal with the structure or function of the nervous system and brain.

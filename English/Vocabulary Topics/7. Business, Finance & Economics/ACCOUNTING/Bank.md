@@ -2,8 +2,10 @@
 *n.*
 > /bæŋk/
 
+![[bank.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organization where people and businesses can keep, invest, or borrow money

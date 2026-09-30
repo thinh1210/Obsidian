@@ -2,8 +2,10 @@
 *v*
 > /kʊk/
 
+![[cook.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prepare food and heat it so that it is ready to eat.

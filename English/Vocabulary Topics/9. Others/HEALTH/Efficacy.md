@@ -2,8 +2,10 @@
 *n*
 > /ˈefɪkəsi/
 
+![[efficacy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to produce a desired or intended result; effectiveness.

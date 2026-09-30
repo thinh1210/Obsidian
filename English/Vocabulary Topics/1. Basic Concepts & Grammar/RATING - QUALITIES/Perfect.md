@@ -2,8 +2,10 @@
 *adj*
 > /ˈpɜː.fekt/
 
+![[perfect.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a perfect match`: một sự kết hợp hoàn hảo
+- `practice makes perfect`: có công mài sắt có ngày nên kim
+- `perfect storm`: sự kết hợp tồi tệ của nhiều yếu tố nguy hiểm
+- `picture perfect`: đẹp như tranh vẽ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The weather was perfect.

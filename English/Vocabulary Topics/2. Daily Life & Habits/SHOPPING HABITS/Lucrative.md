@@ -2,8 +2,10 @@
 *adj*
 > /ˈluː.krə.tɪv/
 
+![[lucrative.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHOPPING HABITS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing a lot of money
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lucrative market`: thị trường sinh lời
+- `lucrative business`: việc kinh doanh siêu lợi nhuận
+- `lucrative deal`: thương vụ hái ra tiền
+- `prove lucrative`: chứng tỏ là một cơ hội sinh lời lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's a lucrative business.

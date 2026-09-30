@@ -2,8 +2,10 @@
 *noun/verb*
 > /jiːld/
 
+![[yield.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money or profit produced by an investment (n); to produce or provide a natural product or financial return (v)
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high dividend yield`: lợi suất cổ tức cao
+- `high yield`: mức sinh lời cao
+- `yield results`: đem lại kết quả cụ thể
+- `bond yield`: lợi suất từ trái phiếu
+- `yield to pressure`: nhượng bộ quy phục trước áp lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The investment has a projected annual yield of 8%.

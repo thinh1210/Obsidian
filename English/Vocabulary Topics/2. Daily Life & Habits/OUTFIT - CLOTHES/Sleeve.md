@@ -2,8 +2,10 @@
 *noun*
 > /sliːv/
 
+![[sleeve.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of a piece of clothing that covers some or all of the arm.
@@ -13,7 +15,9 @@
 💡 Sleeve -> Sợ líp -> Sợ kẹt líp xe nên xắn tay áo lên.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `long sleeves: tay áo dài`
+- `long sleeves`: tay áo dài
+- `roll up one's sleeves`: xắn tay áo lên chuẩn bị làm việc hăng say
+- `have an ace up one's sleeve`: có con át chủ bài giữ kín
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Roll up your sleeves.

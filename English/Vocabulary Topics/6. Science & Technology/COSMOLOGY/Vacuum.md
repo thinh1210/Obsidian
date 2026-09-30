@@ -2,8 +2,10 @@
 *Noun*
 > /ˈvæk.juːm/
 
+![[vacuum.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A space entirely devoid of matter.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `space vacuum`: chân không vũ trụ
 - `vacuum of space`: khoảng chân không của vũ trụ
+- `vacuum fluctuation`: dao động chân không
+- `perfect vacuum`: chân không hoàn hảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sound cannot travel through a vacuum.

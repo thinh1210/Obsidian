@@ -2,8 +2,10 @@
 *Noun*
 > /tekˈniːk/
 
+![[technique.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A way of doing an activity which needs skill.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modern technique`: kỹ thuật hiện đại
 - `apply a technique`: áp dụng một phương pháp kỹ thuật
+- `proper technique`: kỹ thuật chuẩn xác đúng điệu
+- `advanced technique`: kỹ thuật tiên tiến hiện đại
+- `master a technique`: làm chủ thuần thục một kỹ thuật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She learned a new technique for making pottery.

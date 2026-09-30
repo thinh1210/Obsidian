@@ -2,8 +2,10 @@
 *n*
 > /ɔːˌθɒr.ɪˈteər.i.ə.nɪz.əm/
 
+![[authoritarianism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A political system that concentrates power in a leader or elite who demands strict obedience.

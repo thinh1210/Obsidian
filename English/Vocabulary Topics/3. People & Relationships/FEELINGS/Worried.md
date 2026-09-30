@@ -2,8 +2,10 @@
 *adj*
 > /ˈwɜːrid/
 
+![[worried.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Anxious or troubled about actual or potential problems.

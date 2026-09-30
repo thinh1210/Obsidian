@@ -2,8 +2,10 @@
 *adj*
 > /ˌsɒpəˈrɪfɪk/
 
+![[soporific.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to induce drowsiness or sleep.

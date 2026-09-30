@@ -2,8 +2,10 @@
 *v.*
 > /prəˈtekt/
 
+![[protect.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To keep someone or something safe from injury, damage, or loss.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `protect against`: bảo vệ chống lại
 - `protect assets`: bảo vệ tài sản
+- `protect investments`: bảo toàn cho các nguồn vốn đầu tư
+- `protect family against hardship`: che chở bảo vệ gia đình trước sóng gió tài chính
+- `protective measure`: biện pháp phòng vệ giảm thiểu rủi ro
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Insurance helps protect your family if something bad happens.

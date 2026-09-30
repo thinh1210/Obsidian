@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈveɪd/
 
+![[invade.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Enter a country or region so as to subjugate or occupy it.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `invade a country`: xâm lược một đất nước
 - `invading army`: quân đội xâm lược
+- `cross the border and invade`: vượt qua biên giới mở màn cuộc xâm lăng
+- `repel invaders`: đánh đuổi lực lượng quân xâm lược ra khỏi bờ cõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do not invade my personal space when I am working.

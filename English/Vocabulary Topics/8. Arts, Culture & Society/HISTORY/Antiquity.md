@@ -2,8 +2,10 @@
 *noun*
 > /ænˈtɪk.wə.ti/
 
+![[antiquity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ancient past, especially the period before the Middle Ages.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `classical antiquity`: thời kỳ cổ đại cổ điển
 - `relics of antiquity`: những di tích thời cổ đại
+- `dating back to antiquity`: có từ thời cổ đại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum displays many beautiful statues from classical antiquity.

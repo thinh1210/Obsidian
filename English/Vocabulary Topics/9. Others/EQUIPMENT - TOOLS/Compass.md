@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌm.pəs/
 
+![[compass.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an instrument containing a magnetized pointer which shows the direction of magnetic north.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `magnetic compass`: la bàn từ tính
 - `moral compass`: kim chỉ nam đạo đức
+- `drawing compass`: com-pa vẽ hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A map and a compass are essential for hiking in the mountains.

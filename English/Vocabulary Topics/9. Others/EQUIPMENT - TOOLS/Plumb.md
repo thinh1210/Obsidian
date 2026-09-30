@@ -2,8 +2,10 @@
 *noun*
 > /plʌm/
 
+![[plumb.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a lead weight attached to a line, used to determine verticality; also, to measure the depth of water.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plumb line`: dây dọi
 - `out of plumb`: lệch khỏi phương thẳng đứng
+- `plumb the depths of`: thấu hiểu tận cùng nỗi đau/bí mật (idiom)
+- `plumb bob`: quả dọi thợ hồ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The builder used a plumb line to ensure the wall was perfectly straight.

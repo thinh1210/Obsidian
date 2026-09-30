@@ -2,8 +2,10 @@
 *verb*
 > /rɪˈkjuːz/
 
+![[recuse.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To disqualify or remove a judge, juror, or official from a case because of a possible conflict of interest

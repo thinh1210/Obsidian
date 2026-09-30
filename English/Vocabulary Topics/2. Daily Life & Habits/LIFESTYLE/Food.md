@@ -2,8 +2,10 @@
 *n.*
 > /fuːd/
 
+![[food.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any nutritious substance that people or animals eat or drink.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fast food`: thức ăn nhanh
+- `organic food`: thực phẩm hữu cơ sạch
+- `comfort food`: món ăn an ủi tâm trạng
+- `junk food`: đồ ăn vặt không lành mạnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love spicy food.

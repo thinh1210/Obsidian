@@ -2,8 +2,10 @@
 *verb*
 > /ˈkʌltɪveɪt/
 
+![[cultivate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prepare and use land for growing crops or plants.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultivate crops`: canh tác cây trồng
 - `cultivate land`: cày cấy đất đai
+- `cultivate a positive mindset`: rèn luyện nuôi dưỡng tư duy tích cực
+- `cultivate good habits`: rèn luyện các thói quen tốt
+- `cultivated varieties`: các giống cây trồng đã được thuần hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He cultivates a small vegetable patch in his backyard.

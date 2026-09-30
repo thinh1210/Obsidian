@@ -2,8 +2,10 @@
 *n*
 > /ˌeksɪˈbɪʃn/
 
+![[exhibition.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A public display of works of art or items of interest.
@@ -13,7 +15,11 @@
 💡 Exhibit (trưng bày) + ion -> triển lãm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `art exhibition`: triển lãm nghệ thuật\n- `hold an exhibition`: tổ chức triển lãm
+- `art exhibition`: triển lãm nghệ thuật
+- `hold an exhibition`: tổ chức triển lãm
+- `temporary exhibition`: triển lãm chuyên đề ngắn ngày
+- `visit an exhibition`: ghé thăm một buổi triển lãm
+- `solo exhibition`: triển lãm cá nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We visited an art exhibition.

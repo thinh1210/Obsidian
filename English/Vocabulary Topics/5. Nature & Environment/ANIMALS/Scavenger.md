@@ -2,8 +2,10 @@
 *noun*
 > /ˈskæv.ɪn.dʒər/
 
+![[scavenger.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that feeds on carrion, dead plant material, or refuse.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural scavenger`: sinh vật ăn xác thối tự nhiên
 - `scavenger bird`: chim ăn xác thối
+- `scavenger hunt`: trò chơi truy tìm đồ vật theo manh mối
+- `scavenger species`: loài sinh vật ăn xác thối
+- `vulture as a scavenger`: kền kền với vai trò là loài ăn xác thối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Vultures are scavengers that clean up the environment by eating dead animals.

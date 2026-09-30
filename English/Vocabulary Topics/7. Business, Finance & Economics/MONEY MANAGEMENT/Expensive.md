@@ -2,8 +2,10 @@
 *Adjective*
 > /ɪkˈspensɪv/
 
+![[expensive.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Costing a lot of money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `expensive taste`: gu đắt tiền/xa xỉ
 - `highly expensive`: cực kỳ đắt đỏ
+- `prohibitively expensive`: đắt đỏ vượt quá khả năng chi trả
+- `expensive habit`: thói quen tiêu tốn nhiều tiền của
+- `less expensive alternative`: lựa chọn thay thế đỡ tốn kém hơn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Dining at that five-star hotel is extremely expensive.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈɡɑːɡɔɪl/
 
+![[gargoyle.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A grotesque carved human or animal face projecting from the gutter of a building, acting as a spout to carry water clear of a wall
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stone gargoyle`: tượng đầu thú bằng đá
 - `gothic gargoyle`: tượng máng xối phong cách gothic
+- `carved gargoyle`: tượng đầu thú chạm khắc trên tường đá
+- `gargoyle spout`: máng xối hình đầu thú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ancient cathedral was decorated with scary gargoyles.

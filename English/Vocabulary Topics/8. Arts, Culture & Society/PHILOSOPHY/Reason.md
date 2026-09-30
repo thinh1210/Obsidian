@@ -2,8 +2,10 @@
 *n.*
 > /ˈriː.zən/
 
+![[reason.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cause, explanation, or justification for an action or event.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `for this reason`: vì lý do này
 - `reason for`: lý do cho
+- `stand to reason`: hợp lý, là điều dĩ nhiên
+- `lose one's reason`: mất trí khôn, mất lý trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What was the reason for your absence yesterday?

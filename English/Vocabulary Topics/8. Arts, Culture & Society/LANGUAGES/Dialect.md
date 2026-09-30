@@ -2,8 +2,10 @@
 *n.*
 > /ˈdaɪəlekt/
 
+![[dialect.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular form of a language which is peculiar to a specific region or social group
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local dialect`: tiếng địa phương
+- `speak a dialect`: nói tiếng địa phương
+- `regional dialect`: phương ngữ khu vực
+- `dialect continuum`: chuỗi phương ngữ liên tục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They speak a dialect I cannot understand.

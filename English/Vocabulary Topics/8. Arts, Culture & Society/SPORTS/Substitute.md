@@ -2,8 +2,10 @@
 *n.*
 > /ˈsʌb.stɪ.tʃuːt/
 
+![[substitute.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing acting or serving in place of another.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `substitute player`: cầu thủ dự bị
 - `act as a substitute`: đóng vai trò thay thế
+- `tactical substitute`: thay người vì lý do chiến thuật
+- `come on as a substitute`: vào sân từ băng ghế dự bị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The coach sent on a substitute in the second half.

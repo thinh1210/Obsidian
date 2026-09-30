@@ -2,8 +2,10 @@
 *noun.*
 > /ˈɑːbɪtrɑːʒ/
 
+![[arbitrage.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The simultaneous buying and selling of assets in different markets to profit from differing prices.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `arbitrage opportunity`: cơ hội chênh lệch giá
 - `arbitrage trading`: giao dịch chênh lệch giá
+- `risk arbitrage`: kinh doanh chênh lệch giá có rủi ro
+- `regulatory arbitrage`: kinh doanh chênh lệch khung chính sách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* High-frequency trading algorithms are designed to exploit tiny arbitrage opportunities within milliseconds.

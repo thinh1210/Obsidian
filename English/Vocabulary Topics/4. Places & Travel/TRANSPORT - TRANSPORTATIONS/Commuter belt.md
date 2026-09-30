@@ -2,8 +2,10 @@
 *noun*
 > /kəˈmjuːtər belt/
 
+![[commuter_belt.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area surrounding a large city where many people who work in that city live.
@@ -16,6 +18,7 @@
 - `live in the commuter belt`: sống ở vành đai cư dân đi làm
 - `expand the commuter belt`: mở rộng vành đai cư dân đi làm
 - `commuter belt town`: thị trấn thuộc vành đai cư dân đi làm
+- `suburban commuter belt`: vành đai ngoại ô của người đi làm xa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* House prices are rising rapidly in the London commuter belt.

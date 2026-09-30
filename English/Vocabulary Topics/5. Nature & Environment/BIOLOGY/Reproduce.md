@@ -2,8 +2,10 @@
 *verb*
 > /ˌriː.prəˈdʒuːs/
 
+![[reproduce.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of an organism) produce offspring by a sexual or asexual process.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reproduce sexually`: sinh sản hữu tính
 - `reproduce asexually`: sinh sản vô tính
+- `reproduce offspring`: sinh sản ra thế hệ con non
+- `reproduce results accurately`: tái tạo lại kết quả một cách chuẩn xác
+- `ability to reproduce`: khả năng sinh sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Single-celled organisms reproduce by dividing.

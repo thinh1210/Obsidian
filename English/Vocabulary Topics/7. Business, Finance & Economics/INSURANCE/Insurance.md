@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈʃʊərəns/
 
+![[insurance.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An agreement in which you pay a company money and they pay your costs if you have an accident, injury, etc.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `health insurance`: bảo hiểm y tế
 - `car insurance`: bảo hiểm xe hơi
+- `liability insurance`: bảo hiểm trách nhiệm pháp lý dân sự
+- `insurance fraud`: hành vi gian dối trục lợi tiền bảo hiểm
+- `take out insurance`: ký hợp đồng mua một gói bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to buy health insurance before my trip.

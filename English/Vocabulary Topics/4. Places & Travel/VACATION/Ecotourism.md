@@ -2,8 +2,10 @@
 *Noun*
 > /ˈikoʊˌtʊrɪzəm/
 
+![[ecotourism.mp3]]
+
 ---
-**Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION
+**Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tourism directed toward exotic, often threatened, natural environments, intended to support conservation efforts.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `promote ecotourism`: thúc đẩy du lịch sinh thái
 - `sustainable ecotourism`: du lịch sinh thái bền vững
+- `ecotourism adventures`: các cuộc phiêu lưu du lịch sinh thái
+- `support ecotourism`: ủng hộ phát triển du lịch sinh thái xanh
+- `ecotourism lodge`: nhà nghỉ sinh thái hòa vào thiên nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Costa Rica is famous for its ecotourism.

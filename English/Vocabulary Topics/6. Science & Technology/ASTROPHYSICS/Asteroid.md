@@ -2,8 +2,10 @@
 *noun*
 > /ˈæs.tə.rɔɪd/
 
+![[asteroid.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small rocky body orbiting the sun.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `asteroid belt`: vành đai tiểu hành tinh
 - `asteroid impact`: vụ va chạm tiểu hành tinh
+- `near-Earth asteroid`: tiểu hành tinh gần Trái Đất
+- `deflect an asteroid`: làm chệch hướng tiểu hành tinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Astronomers are tracking a large asteroid near Earth.

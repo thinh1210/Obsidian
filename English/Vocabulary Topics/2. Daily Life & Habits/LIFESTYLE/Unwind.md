@@ -2,8 +2,10 @@
 *v.*
 > /ʌnˈwaɪnd/
 
+![[unwind.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relax after a period of work or tension.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unwind after work`: thư giãn sau giờ làm
+- `unwind after a long day`: xả hơi thư giãn sau ngày dài làm việc
+- `unwind with music`: thư giãn cùng âm nhạc
+- `help someone unwind`: giúp ai đó cảm thấy thư thái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Music helps me unwind.

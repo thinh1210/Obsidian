@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈliːv/
 
+![[relieve.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cause (pain, distress, or difficulty) to become less severe or serious
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `relieve stress`: giải tỏa căng thẳng
 - `relieve pain`: giảm đau
+- `relieve tension`: xua tan bầu không khí căng thẳng
+- `sigh of relief`: tiếng thở phào nhẹ nhõm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Yoga helps relieve stress.

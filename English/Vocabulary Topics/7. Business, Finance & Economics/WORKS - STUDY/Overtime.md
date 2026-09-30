@@ -2,8 +2,10 @@
 *n./adv.*
 > /ˈəʊ.və.taɪm/
 
+![[overtime.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Time worked in addition to one's normal working hours
@@ -13,8 +15,10 @@
 💡 Âu vơ (over) vượt quá thời gian (time) quy định là làm thêm giờ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``work overtime`: làm thêm giờ`
-- ``overtime pay`: lương làm thêm giờ`
+- `work overtime`: làm thêm giờ
+- `overtime pay`: lương làm thêm giờ
+- `clock overtime`: chấm công ghi nhận thời gian tăng ca
+- `limit overtime`: hạn chế bớt thời gian làm thêm giờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I worked ten hours of overtime last week.

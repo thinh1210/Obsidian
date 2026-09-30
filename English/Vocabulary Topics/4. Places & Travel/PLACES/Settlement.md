@@ -2,8 +2,10 @@
 *n.*
 > /ˈset̬.əl.mənt/
 
+![[settlement.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place, typically one that has hitherto been uninhabited, where people establish a community.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human settlement`: khu định cư của con người
+- `ancient settlement`: khu định cư thời tiền sử cổ xưa
+- `informal settlement`: khu định cư tạm bợ tự phát
+- `permanent settlement`: nơi định cư lâu dài bền vững
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They found an ancient settlement in the jungle.

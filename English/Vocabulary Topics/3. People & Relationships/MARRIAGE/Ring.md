@@ -2,8 +2,10 @@
 *noun*
 > /rɪŋ/
 
+![[ring.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circular piece of jewellery worn on the finger.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A wedding ring`: Nhẫn cưới
+- `exchange rings`: trao nhẫn cưới cho nhau trước lễ đường
+- `diamond ring`: nhẫn kim cương lấp lánh
+- `ring bearer`: em bé bưng khay nhẫn cưới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Look at my beautiful ring.

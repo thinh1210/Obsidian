@@ -2,8 +2,10 @@
 *adj.*
 > /kəʊld/
 
+![[cold.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or at a low temperature
@@ -13,7 +15,10 @@
 💡 Cold là lạnh
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``cold weather`: thời tiết lạnh`
+- `cold weather`: thời tiết lạnh
+- `catch a cold`: bị cảm lạnh
+- `cold shoulder`: thái độ lạnh nhạt / ngó lơ
+- `in cold blood`: một cách máu lạnh / nhẫn tâm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am cold.

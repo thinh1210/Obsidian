@@ -2,8 +2,10 @@
 *v.*
 > /sel/
 
+![[sell.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To hand over something in exchange for money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sell a house`: bán nhà
 - `sell at a profit`: bán kiếm lời
+- `put a house up for sale`: rao bán một ngôi nhà
+- `seller's market`: thị trường người bán chiếm ưu thế
+- `sell above market value`: bán được với mức giá cao hơn định giá thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He decided to sell his old apartment and move to the countryside.

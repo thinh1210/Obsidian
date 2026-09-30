@@ -2,8 +2,10 @@
 *n.*
 > /siːd/
 
+![[seed.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small, round, or oval object produced by a plant from which a new plant can grow.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sow seeds`: gieo hạt giống
 - `sunflower seed`: hat hướng dương
+- `plant the seed of`: gieo mầm cho (ý tưởng, nghi ngờ)
+- `heirloom seeds`: giống hạt giống thuần cổ truyền
+- `seed capital`: vốn hạt giống / vốn ban đầu khởi nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Put the seeds in the soil and water them daily.

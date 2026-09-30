@@ -2,8 +2,10 @@
 *noun*
 > /ˈsen.təns/
 
+![[sentence.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a group of words, usually containing a subject and a verb, that expresses a complete thought

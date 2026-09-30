@@ -2,8 +2,10 @@
 *noun*
 > /bʊk/
 
+![[book.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written or printed work consisting of pages glued or sewn together along one side and bound in covers.

@@ -2,8 +2,10 @@
 *n.*
 > /haʊs/
 
+![[house.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building for human habitation, especially one that is lived in by a family or small group of people.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `traditional house`: ngôi nhà truyền thống
 - `household items`: đồ dùng gia đình
+- `ancestral house`: nhà thờ tổ / từ đường
+- `communal house`: nhà rông / đình làng cộng đồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They bought a new house last year.

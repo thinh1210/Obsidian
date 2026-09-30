@@ -2,8 +2,10 @@
 *verb*
 > /ˈdʒerimændər/
 
+![[gerrymander.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To manipulate the boundaries of an electoral constituency so as to favor one party or class.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gerrymander districts`: chia lại khu vực bầu cử gian lận
 - `political gerrymandering`: việc chia lại khu vực bầu cử mang tính phe phái
+- `gerrymandered voting map`: bản đồ phân chia khu vực bầu cử bị thao túng
+- `partisan gerrymandering`: việc phân chia địa hạt bầu cử vì lợi ích bè phái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ruling party was accused of trying to gerrymander the state to stay in power.

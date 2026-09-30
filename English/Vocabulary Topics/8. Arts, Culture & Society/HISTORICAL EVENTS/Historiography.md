@@ -2,8 +2,10 @@
 *noun*
 > /hɪˌstɒr.iˈɒɡ.rə.fi/
 
+![[historiography.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of historical writing or how history is written.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modern historiography`: sử học hiện đại
 - `Marxist historiography`: phép chép sử Marxist
+- `historiographical debate`: cuộc tranh biện học thuật về phương pháp chép sử
+- `critical historiography`: nền sử học theo phương pháp khảo cứu phản biện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In college, we studied historiography to understand why different textbooks tell different versions of the past.

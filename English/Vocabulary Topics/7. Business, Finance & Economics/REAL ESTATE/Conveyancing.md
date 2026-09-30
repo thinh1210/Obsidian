@@ -2,8 +2,10 @@
 *n.*
 > /kənˈveɪənsɪŋ/
 
+![[conveyancing.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Thủ tục pháp lý, Chuyển quyền & Khế ước đất đai
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The branch of law concerned with the preparation of documents for the transfer of property.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conveyancing lawyer`: luật sư chuyển nhượng bất động sản
 - `conveyancing process`: quy trình pháp lý chuyển nhượng nhà đất
+- `conveyancing fees`: phí dịch vụ công chứng chuyển nhượng quyền sử dụng đất
+- `licensed conveyancer`: chuyên viên pháp lý làm thủ tục chuyển quyền sở hữu
+- `complete conveyancing`: hoàn tất thủ tục sang tên đổi chủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We hired a solicitor to handle the conveyancing when we bought our house.

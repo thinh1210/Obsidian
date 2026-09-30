@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈzaɪn/
 
+![[design.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To decide how something will look, work, etc., by drawing plans or making models
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `design concept`: ý tưởng thiết kế
 - `interior design`: thiết kế nội thất
+- `structural design`: thiết kế kết cấu công trình
+- `innovative design`: thiết kế đổi mới sáng tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was hired to design the interior of the new office.

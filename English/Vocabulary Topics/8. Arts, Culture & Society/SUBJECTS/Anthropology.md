@@ -2,8 +2,10 @@
 *noun*
 > /ˌænθrəˈpɒlədži/
 
+![[anthropology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of human societies and cultures and their development.

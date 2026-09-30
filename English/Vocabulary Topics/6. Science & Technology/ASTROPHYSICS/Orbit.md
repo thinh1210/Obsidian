@@ -2,8 +2,10 @@
 *noun/verb*
 > /ˈɔː.bɪt/
 
+![[orbit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The curved path of a spacecraft or object around a star, planet, or moon.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Earth orbit`: quỹ đạo Trái Đất
 - `orbit the sun`: quay quanh mặt trời
+- `low Earth orbit`: quỹ đạo tầm thấp của Trái Đất
+- `geostationary orbit`: quỹ đạo địa tĩnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The satellite went into orbit around the Earth.

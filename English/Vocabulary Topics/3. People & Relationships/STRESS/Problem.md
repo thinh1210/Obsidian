@@ -2,8 +2,10 @@
 *n.*
 > /ˈprɒbləm/
 
+![[problem.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A matter or situation regarded as unwelcome or harmful
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `solve a problem`: giải quyết vấn đề
 - `no problem`: không vấn đề gì
+- `pose a problem`: đặt ra một vấn đề nan giải
+- `root of the problem`: nguồn gốc căn nguyên của vấn đề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We have a big problem.

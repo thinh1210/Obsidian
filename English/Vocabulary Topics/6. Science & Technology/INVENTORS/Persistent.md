@@ -2,8 +2,10 @@
 *adj.*
 > /pəˈsɪs.tənt/
 
+![[persistent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Continuing to do something even though it is difficult or other people oppose it
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `persistent effort`: nỗ lực kiên trì
 - `persistent rain`: mưa dầm dề dai dẳng
+- `persistent cough`: cơn ho dai dẳng kéo dài
+- `persistent belief`: niềm tin son sắt bền lòng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was persistent and finally got the job.

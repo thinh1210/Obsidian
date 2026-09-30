@@ -2,8 +2,10 @@
 *n.*
 > /kleɪm/
 
+![[claim.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A formal request to an insurance company asking for a payment based on the terms of the insurance policy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `file a claim`: nộp đơn yêu cầu bồi thường
 - `settle a claim`: giải quyết yêu cầu bồi thường
+- `fraudulent claim`: hồ sơ yêu cầu bồi thường gian lận
+- `reject a claim`: từ chối chi trả bồi thường
+- `claim adjuster`: chuyên viên giám định bồi thường bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She filed a claim for the water damage.

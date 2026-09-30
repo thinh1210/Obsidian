@@ -2,8 +2,10 @@
 *Noun*
 > /ˈneb.jə.lə/
 
+![[nebula.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cloud of gas and dust in outer space, visible as a bright patch or silhouette.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stellar nebula`: tinh vân tạo sao
 - `Eagle Nebula`: Tinh vân Đại Bàng
+- `crab nebula`: tinh vân Con Cua
+- `orion nebula`: tinh vân Lạp Hộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Orion Nebula can be seen with a simple pair of binoculars.

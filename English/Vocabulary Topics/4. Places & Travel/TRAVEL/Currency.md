@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌr.ən.si/
 
+![[currency.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The money that is used in a particular country

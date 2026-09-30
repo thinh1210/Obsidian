@@ -2,8 +2,10 @@
 *noun*
 > /krɑːft/
 
+![[craft.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving skill in making things by hand.

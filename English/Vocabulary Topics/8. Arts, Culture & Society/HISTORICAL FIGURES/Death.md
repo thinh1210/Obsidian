@@ -2,8 +2,10 @@
 *n.*
 > /deθ/
 
+![[death.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or fact of dying or being killed; the end of the life of a person or organism
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sentence to death`: kết án tử hình
 - `sudden death`: cái chết đột ngột
+- `cheat death`: thoát chết trong gang tấc
+- `grieve someone's death`: thương tiếc cái chết của ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The news of his death shocked everyone.

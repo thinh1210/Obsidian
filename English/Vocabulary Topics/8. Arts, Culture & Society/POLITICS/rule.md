@@ -2,8 +2,10 @@
 *noun*
 > /ruːl/
 
+![[rule.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rule of law`: thượng tôn pháp luật
 - `under the rule of`: dưới sự cai trị của
+- `majority rule`: nguyên tắc thiểu số phục tùng đa số
+- `direct rule`: sự cai trị trực tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You must follow the school rules.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈtraɪ.æŋ.ɡəl/
 
+![[triangle.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape with three straight sides and three angles.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An equilateral triangle`: Tam giác đều
 - `A right triangle`: Tam giác vuông
+- `love triangle`: mối tình tay ba
+- `Bermuda Triangle`: Tam giác quỷ Bermuda
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A pizza slice looks like a triangle.

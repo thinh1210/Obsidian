@@ -2,8 +2,10 @@
 *adj*
 > /ɪˈkwestriən/
 
+![[equestrian.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to horse riding.

@@ -2,8 +2,10 @@
 *noun/adjective*
 > /ˈpæs.ər.aɪn/
 
+![[passerine.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting birds of a large order distinguished by having feet adapted for perching.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `passerine birds`: các loài chim dạng sẻ
 - `migratory passerines`: chim bộ Sẻ di cư
+- `passerine species`: loài chim dạng sẻ biết hót
+- `passerine bird`: chim biết hót có chân đậu cành
+- `passerine song`: tiếng hót véo von của chim sẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sparrows and finches are common passerine birds.

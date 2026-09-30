@@ -2,8 +2,10 @@
 *adj*
 > /ˈtaɪdi/
 
+![[tidy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Arranged neatly and in order.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep it tidy`: giữ gọn gàng
 - `tidy up`: dọn dẹp
+- `neat and tidy`: ngăn nắp và gọn gàng
+- `tidy sum`: khoản tiền kha khá lớn
+- `keep things tidy`: giữ mọi thứ luôn ngăn nắp sạch sẽ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please keep your room tidy.

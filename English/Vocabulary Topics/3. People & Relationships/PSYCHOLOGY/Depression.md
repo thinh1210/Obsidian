@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈpreʃ.ən/
 
+![[depression.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feelings of severe despondency and dejection.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `suffer from depression`: bị trầm cảm
+- `postpartum depression`: trầm cảm sau sinh
+- `combat depression`: chống chọi vượt qua bệnh trầm cảm
+- `deep depression`: trầm cảm nặng nề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He fought depression for years.

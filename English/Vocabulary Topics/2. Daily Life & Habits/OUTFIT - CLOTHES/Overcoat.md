@@ -2,8 +2,10 @@
 *noun*
 > /ˈoʊ.vɚ.koʊt/
 
+![[overcoat.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A heavy coat worn over clothes in winter.
@@ -13,7 +15,10 @@
 💡 Overcoat -> Ô vơ cốt -> Ôm vơ hết cốt lỗi bằng cái áo khoác ngoài.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wear an overcoat: mặc áo măng tô`
+- `wear an overcoat`: mặc áo măng tô
+- `heavy overcoat`: áo choàng măng tô đại hàn dày dặn
+- `cashmere overcoat`: áo măng tô len cashmere cao cấp
+- `belted overcoat`: áo măng tô có đai thắt lưng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wore a thick overcoat.

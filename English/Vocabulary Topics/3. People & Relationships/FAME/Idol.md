@@ -2,8 +2,10 @@
 *n.*
 > /ˈaɪdəl/
 
+![[idol.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who is greatly admired or loved.
@@ -13,7 +15,10 @@
 💡 Idol Kpop.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `teen idol: thần tượng tuổi teen`
+- `teen idol`: thần tượng tuổi teen
+- `fallen idol`: thần tượng sa ngã thất sủng
+- `idol of the masses`: thần tượng của đông đảo quần chúng
+- `matinee idol`: thần tượng của giới trẻ hâm mộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a teen idol.

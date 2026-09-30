@@ -2,8 +2,10 @@
 *noun*
 > /pɑːst/
 
+![[past.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time that has gone by before the present time
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `learn from the past`: học hỏi từ quá khứ
 - `in the past`: trong quá khứ
+- `glimpse into the past`: cái nhìn thoáng qua về quá khứ
+- `distant past`: quá khứ xa xăm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We cannot change what happened in the past.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈes.eɪ/
 
+![[essay.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short piece of writing on a particular subject, typically analytical.

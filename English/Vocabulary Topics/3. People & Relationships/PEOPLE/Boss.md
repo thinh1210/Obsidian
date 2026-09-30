@@ -2,8 +2,10 @@
 *n.*
 > /bɒs/
 
+![[boss.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person in charge of a worker or organization.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A demanding boss`: Một người sếp khó tính
+- `demanding boss`: người sếp khó tính đòi hỏi cao
+- `boss someone around`: chỉ tay năm ngón hách dịch (phrasal verb)
+- `report to the boss`: báo cáo trực tiếp cho cấp trên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My boss is very strict.

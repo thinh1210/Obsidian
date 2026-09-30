@@ -2,8 +2,10 @@
 *Verb*
 > /ˈskwɒndə(r)/
 
+![[squander.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To waste money or time in a reckless and foolish manner.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `squander money on`: phung phí tiền vào việc gì
 - `squander an opportunity`: bỏ lỡ một cơ hội
+- `squander hard-earned cash`: phung phí tiền mồ hôi nước mắt
+- `squander an inheritance`: phá tán tiêu sạch cả gia tài thừa kế
+- `squander financial resources`: làm thất thoát lãng phí nguồn tài lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She squandered her entire inheritance on luxury vacations within months.

@@ -2,8 +2,10 @@
 *v.*
 > /ədˈmaɪər/
 
+![[admire.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Regard with respect or warm approval.
@@ -13,7 +15,10 @@
 💡 Ad (thêm) mire (mê) -> mê mẩn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `admire someone for: ngưỡng mộ ai đó vì`
+- `admire someone for`: ngưỡng mộ ai đó vì
+- `greatly admire`: vô cùng khâm phục ngưỡng mộ
+- `admire from afar`: ngưỡng mộ dõi theo từ xa
+- `mutual admiration`: sự ngưỡng mộ lẫn nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I admire her work.

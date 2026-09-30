@@ -2,8 +2,10 @@
 *noun*
 > /helθ/
 
+![[health.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of physical and mental well-being, or the state of being free from illness or injury.

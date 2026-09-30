@@ -2,8 +2,10 @@
 *noun*
 > /ˌmaʊntɪˈnɪərɪŋ/
 
+![[mountaineering.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The sport or activity of climbing mountains.

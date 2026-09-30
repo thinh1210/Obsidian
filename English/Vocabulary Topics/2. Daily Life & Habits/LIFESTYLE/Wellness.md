@@ -2,8 +2,10 @@
 *n.*
 > /ˈwɛlnəs/
 
+![[wellness.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being in good health, especially as an actively pursued goal.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wellness retreat`: kỳ nghỉ chăm sóc sức khỏe
+- `overall wellness`: sức khỏe toàn diện cả thể chất lẫn tinh thần
+- `promote workplace wellness`: thúc đẩy sức khỏe tinh thần nơi làm việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Yoga promotes wellness.

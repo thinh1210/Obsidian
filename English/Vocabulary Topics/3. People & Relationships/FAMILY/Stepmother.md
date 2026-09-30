@@ -2,8 +2,10 @@
 *noun*
 > /ˈstepˌmʌð.ər/
 
+![[stepmother.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The woman married to your father but not your real mother.

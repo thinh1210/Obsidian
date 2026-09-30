@@ -2,8 +2,10 @@
 *adj*
 > /əˈbɪz.məl/
 
+![[abysmal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely bad; appalling.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `abysmal working conditions`: điều kiện làm việc cực kỳ tồi tệ
+- `abysmal failure`: thất bại thảm hại
+- `abysmal record`: kỷ lục / thành tích cực kỳ tệ hại
+- `abysmal performance`: màn trình diễn tồi tệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The food at that restaurant was abysmal.

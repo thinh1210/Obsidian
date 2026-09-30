@@ -2,8 +2,10 @@
 *Verb*
 > /ˈtrævl/
 
+![[travel.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a journey, typically of some length.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Travel abroad`: Du lịch nước ngoài
+- `travel budget`: ngân sách du lịch
+- `business travel`: chuyến đi công tác
+- `travel agency`: công ty đại lý du lịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to travel the world.

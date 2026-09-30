@@ -2,8 +2,10 @@
 *noun*
 > /ˈtæk.si.weɪ/
 
+![[taxiway.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A path on an airport that aircraft use to move between the runway and the terminal or hangar.

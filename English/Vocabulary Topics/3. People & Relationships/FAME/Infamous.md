@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɪnfəməs/
 
+![[infamous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME
+**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Well known for some bad quality or deed.
@@ -13,7 +15,10 @@
 💡 In (không) + famous (nổi tiếng) -> nổi tiếng kiểu tiêu cực.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `infamous for: tai tiếng vì`
+- `infamous for`: tai tiếng vì
+- `infamous crime`: tội ác ghê rợn khét tiếng
+- `infamous reputation`: danh tiếng đầy tai ương
+- `gain an infamous name`: mang một cái tên đầy tai tiếng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The infamous dictator was overthrown.

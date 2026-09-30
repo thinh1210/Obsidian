@@ -2,8 +2,10 @@
 *noun*
 > /faɪn/
 
+![[fine.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money exacted as a penalty by a court of law or other authority.

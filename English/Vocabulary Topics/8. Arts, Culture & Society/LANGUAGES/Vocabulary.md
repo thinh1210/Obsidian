@@ -2,6 +2,8 @@
 *n.*
 > /vəˈkæbjələri/
 
+![[vocabulary.mp3]]
+
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
 
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `expand vocabulary`: mở rộng từ vựng
+- `build a strong vocabulary`: xây dựng vốn từ vựng phong phú
+- `passive vocabulary`: vốn từ vựng thụ động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Reading helps you build your vocabulary.

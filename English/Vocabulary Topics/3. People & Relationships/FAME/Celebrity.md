@@ -2,8 +2,10 @@
 *n.*
 > /səˈlebrəti/
 
+![[celebrity.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME
+**Level:** B1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A famous person, especially in entertainment or sport.
@@ -13,7 +15,10 @@
 💡 Celebrate (ăn mừng) -> được tung hô.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `celebrity status: địa vị người nổi tiếng`
+- `celebrity status`: địa vị người nổi tiếng
+- `minor celebrity`: người nổi tiếng hạng vừa
+- `celebrity culture`: văn hóa thần tượng người nổi tiếng
+- `celebrity endorsement`: sự quảng bá của người nổi tiếng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a major celebrity.

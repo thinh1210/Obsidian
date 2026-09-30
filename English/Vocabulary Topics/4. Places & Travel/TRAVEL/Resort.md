@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈzɔːt/
 
+![[resort.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where many people go for rest or sport

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈbʌdʒɪt/
 
+![[budget.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan to show how much money a person or organization will earn and spend.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `monthly budget`: ngân sách hàng tháng
 - `tight budget`: ngân sách eo hẹp
+- `balanced budget`: ngân sách cân đối thu chi
+- `budget overrun`: chi tiêu vượt quá mức dự toán
+- `household budget`: ngân sách tài chính của hộ gia đình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are on a tight budget, so we can't go on a vacation this summer.

@@ -2,8 +2,10 @@
 *n.*
 > /əˈsaɪn.mənt/
 
+![[assignment.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A task or piece of work given to a student to be done as part of a course.

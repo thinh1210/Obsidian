@@ -2,8 +2,10 @@
 *noun*
 > /siːd/
 
+![[seed.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The unit of reproduction of a flowering plant, capable of developing into another such plant.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plant seeds`: gieo hạt giống
 - `sunflower seeds`: hạt hướng dương
+- `sow the seeds of doubt`: gieo rắc mầm mống hoài nghi
+- `seed bank`: ngân hàng hạt giống
+- `germinating seed`: hạt giống đang nảy mầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We planted seeds in the garden last week.

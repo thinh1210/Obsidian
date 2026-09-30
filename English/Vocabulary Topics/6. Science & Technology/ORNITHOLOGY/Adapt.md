@@ -2,8 +2,10 @@
 *verb*
 > /əˈdæpt/
 
+![[adapt.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become adjusted to new conditions.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adapt to the environment`: thích nghi với môi trường
 - `quickly adapt`: thích nghi nhanh chóng
+- `adapt to climate`: thích nghi với điều kiện khí hậu
+- `rapidly adapt`: thích nghi một cách nhanh chóng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Birds have to adapt to the changing urban environment.

@@ -2,8 +2,10 @@
 *n.*
 > /lɒs/
 
+![[loss.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A situation in which a business spends more money than it earns

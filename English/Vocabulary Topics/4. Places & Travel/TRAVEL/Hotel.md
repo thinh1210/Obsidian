@@ -2,8 +2,10 @@
 *noun*
 > /həʊˈtel/
 
+![[hotel.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building where you pay to have a room to sleep in

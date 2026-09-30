@@ -2,8 +2,10 @@
 *adjective.*
 > /ˌɑː.t̬əˈmæt̬.ɪk/
 
+![[automatic.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Operating by itself without human control
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `automatic door`: cửa tự động
+- `automatic transmission`: hộp số tự động
+- `automatic shutdown`: tự động tắt máy
+- `automatic control`: điều khiển tự động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The building has automatic doors at the entrance.

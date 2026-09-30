@@ -2,8 +2,10 @@
 *noun*
 > /ˌfəʊ.tə.ˈsɪn.θə.sɪs/
 
+![[photosynthesis.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which green plants use sunlight, water, and CO₂ to produce glucose and oxygen.

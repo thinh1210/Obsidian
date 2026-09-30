@@ -2,8 +2,10 @@
 *Noun*
 > /ˈtrɪbjutəri/
 
+![[tributary.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A river or stream flowing into a larger river or lake.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `major tributary`: phụ lưu lớn
 - `tributary stream`: dòng sông phụ lưu
+- `major tributary stream`: dòng suối phụ lưu quan trọng
+- `flow into a tributary`: chảy đổ dồn vào một con sông phụ lưu
+- `tributary waters`: vùng nước thuộc các nhánh phụ lưu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Missouri River is the longest tributary of the Mississippi.

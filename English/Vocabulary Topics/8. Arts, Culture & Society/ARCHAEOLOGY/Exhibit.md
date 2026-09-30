@@ -2,8 +2,10 @@
 *noun*
 > /ɪɡˈzɪbɪt/
 
+![[exhibit.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHAEOLOGY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or a collection of objects on show in a museum, gallery, or exhibition
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `museum exhibit`: hiện vật trưng bày ở bảo tàng
 - `special exhibit`: vật trưng bày đặc biệt
+- `permanent exhibit`: triển lãm trưng bày thường trực
+- `archaeological exhibit`: khu trưng bày hiện vật khảo cổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum has a new exhibit on ancient Egypt.

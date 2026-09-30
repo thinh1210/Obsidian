@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkɒm.ɪt/
 
+![[comet.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A celestial object consisting of ice and dust that leaves a tail of gas and dust when near the sun.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Halley's Comet`: Sao chổi Halley
 - `comet tail`: đuôi sao chổi
+- `comet nucleus`: nhân sao chổi
+- `orbit of a comet`: quỹ đạo của sao chổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Halley's Comet is visible from Earth every 75-76 years.

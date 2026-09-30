@@ -2,8 +2,10 @@
 *adj.*
 > /prɪˈtenʃəs/
 
+![[pretentious.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Attempting to impress by affecting greater importance, talent, culture, etc., than is actually possessed.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pretentious art`: nghệ thuật làm màu/tự phụ
 - `pretentious person`: người tự phụ/kiêu căng
+- `pretentious jargon`: thuật ngữ kiểu cách làm bộ làm tịch
+- `pretentious manner`: thái độ tự phụ ra vẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I found the movie's dialogue to be pretentious and unrealistic.

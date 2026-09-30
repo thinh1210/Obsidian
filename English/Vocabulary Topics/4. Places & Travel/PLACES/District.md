@@ -2,8 +2,10 @@
 *n.*
 > /ˈdɪs.trɪkt/
 
+![[district.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of a country or city, especially one regarded as a distinct unit because of a particular characteristic.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shopping district`: khu mua sắm
+- `commercial district`: khu thương mại sầm uất
+- `residential district`: khu dân cư yên tĩnh
+- `historic district`: khu phố cổ lịch sử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I live in the financial district.

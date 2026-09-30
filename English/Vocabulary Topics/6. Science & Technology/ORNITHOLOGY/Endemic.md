@@ -2,8 +2,10 @@
 *adjective*
 > /enˈdem.ɪk/
 
+![[endemic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a plant or animal) native and restricted to a certain place.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endemic species`: loài đặc hữu
 - `endemic to the island`: đặc hữu của hòn đảo
+- `endemic disease`: bệnh dịch lưu hành địa phương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kiwi bird is endemic to New Zealand.

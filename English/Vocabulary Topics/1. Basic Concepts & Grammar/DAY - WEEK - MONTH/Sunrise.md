@@ -2,8 +2,10 @@
 *noun*
 > /ˈsʌnraɪz/
 
+![[sunrise.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time in the morning when the sun appears or full daylight arrives.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `at sunrise`: lúc bình minh
+- `before sunrise`: trước khi mặt trời mọc
+- `watch the sunrise`: ngắm bình minh
+- `sunrise industry`: ngành công nghiệp mới nổi đầy triển vọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We woke up early to watch the sunrise.

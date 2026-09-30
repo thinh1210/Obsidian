@@ -2,8 +2,10 @@
 *v.*
 > /prəˈpel/
 
+![[propel.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To push or drive someone or something forward or in a particular direction
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `propel forward`: đẩy lên phía trước
 - `propel to fame`: đẩy ai đó đến sự nổi tiếng
+- `propel into fame`: đưa ai vụt sáng thành người nổi tiếng
+- `rocket propelled`: được đẩy bằng động cơ tên lửa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The success of the product propelled the company to the top of the market.

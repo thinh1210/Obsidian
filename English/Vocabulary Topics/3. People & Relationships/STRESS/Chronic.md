@@ -2,8 +2,10 @@
 *adj.*
 > /ˈkrɒnɪk/
 
+![[chronic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Persisting for a long time or constantly recurring
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chronic stress`: căng thẳng mãn tính
 - `chronic pain`: đau mãn tính
+- `chronic condition`: tình trạng bệnh mãn tính
+- `chronic fatigue`: hội chứng mệt mỏi mãn tính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He suffers from chronic pain.

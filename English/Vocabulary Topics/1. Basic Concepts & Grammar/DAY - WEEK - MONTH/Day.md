@@ -2,8 +2,10 @@
 *noun*
 > /deɪ/
 
+![[day.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 24 hours.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `all day long`: suốt cả ngày
+- `call it a day`: dừng làm việc / kết thúc ngày làm
+- `day in and day out`: ngày này qua ngày khác
+- `save for a rainy day`: tiết kiệm phòng khi khó khăn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I work every day.

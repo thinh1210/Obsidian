@@ -2,8 +2,10 @@
 *n.*
 > /pəˈdestriən/
 
+![[pedestrian.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person walking in the street and not traveling in a vehicle.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pedestrian crossing`: vạch qua đường cho người đi bộ
+- `pedestrian zone`: khu phố đi bộ
+- `pedestrian safety`: an toàn cho người đi bộ
+- `pedestrian style`: phong cách tẻ nhạt, bình thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Cars must stop for pedestrians.

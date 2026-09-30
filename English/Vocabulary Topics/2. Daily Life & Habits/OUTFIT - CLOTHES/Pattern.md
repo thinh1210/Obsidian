@@ -2,8 +2,10 @@
 *noun*
 > /ˈpæt̬.ɚn/
 
+![[pattern.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A repeated decorative design.
@@ -13,7 +15,10 @@
 💡 Pattern -> Bát trân -> Hoa văn bát trân.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a floral pattern: họa tiết hoa`
+- `a floral pattern`: họa tiết hoa
+- `floral pattern`: họa tiết hoa nhí xinh xắn
+- `plaid pattern`: họa tiết kẻ ca-rô
+- `geometric pattern`: họa tiết hình học cá tính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the pattern on your dress.

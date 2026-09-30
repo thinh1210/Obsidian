@@ -2,8 +2,10 @@
 *phrasal verb*
 > /hæŋ aʊt/
 
+![[hang_out.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Spend a lot of time in a place or with someone.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hang out with friends`: đi chơi với bạn bè
+- `hang out spot`: địa điểm tụ tập quen thuộc
+- `hang out together`: đi chơi la cà cùng nhau thư giãn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We usually hang out at the mall.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈtaʊə(r)/
 
+![[tower.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A tall, narrow building or part of a building
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clock tower`: tháp đồng hồ
 - `control tower`: tháp kiểm soát không lưu
+- `bell tower`: tháp chuông
+- `residential tower`: tòa tháp chung cư cư dân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We climbed to the top of the tower to see the view.

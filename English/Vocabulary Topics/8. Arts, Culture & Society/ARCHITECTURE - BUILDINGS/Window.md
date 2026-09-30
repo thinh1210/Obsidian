@@ -2,8 +2,10 @@
 *n.*
 > /ˈwɪndəʊ/
 
+![[window.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An opening in the wall of a building or vehicle to let in light or air
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `open the window`: mở cửa sổ
 - `window glass`: kính cửa sổ
+- `stained-glass window`: cửa sổ kính màu nghệ thuật
+- `floor-to-ceiling window`: cửa sổ kính suốt từ sàn đến trần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She looked out of the window at the rain.

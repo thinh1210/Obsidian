@@ -2,8 +2,10 @@
 *adj.*
 > /bæd/
 
+![[bad.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not good, unpleasant
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bad day`: một ngày tồi tệ
 - `feel bad`: cảm thấy tồi tệ
+- `bad habit`: thói quen xấu
+- `from bad to worse`: ngày càng tồi tệ hơn (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had a bad day.

@@ -2,8 +2,10 @@
 *verb*
 > /kjʊəˈreɪt/
 
+![[curate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To select, organize, and look after the items in a collection or exhibition.

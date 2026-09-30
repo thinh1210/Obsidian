@@ -2,8 +2,10 @@
 *adj.*
 > /ˈmʌɡi/
 
+![[muggy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of weather) unpleasantly warm and damp; humid
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `muggy afternoon`: buổi chiều oi bức ẩm ướt
+- `muggy weather`: thời tiết oi bức ngột ngạt
+- `hot and muggy conditions`: điều kiện khí hậu vừa nóng vừa oi ẩm
+- `muggy heat`: cái nóng oi ả khó chịu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I hate this muggy weather; it makes me feel sticky.

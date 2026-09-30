@@ -2,8 +2,10 @@
 *adj.*
 > /əˌnækrəˈnɪstɪk/
 
+![[anachronistic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Belonging or appropriate to a period other than that in which it exists
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `anachronistic design`: thiết kế sai thời đại
 - `seem anachronistic`: có vẻ lỗi thời
+- `anachronistic feature`: chi tiết kiến trúc không hợp thời đại
+- `anachronistic appearance`: vẻ ngoài lạc hậu so với bối cảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The modern furniture looks anachronistic in this medieval castle.

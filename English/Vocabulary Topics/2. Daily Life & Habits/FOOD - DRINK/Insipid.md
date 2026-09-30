@@ -2,8 +2,10 @@
 *adj.*
 > /ɪnˈsɪp.ɪd/
 
+![[insipid.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Lacking flavor.

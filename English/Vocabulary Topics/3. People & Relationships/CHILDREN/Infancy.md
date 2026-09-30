@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.fən.si/
 
+![[infancy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state or period of early childhood or babyhood.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in its infancy`: ở thời kỳ sơ khai
+- `from infancy`: từ thuở lọt lòng
+- `infancy stage`: giai đoạn sơ khai ban đầu
+- `in early infancy`: trong thời kỳ đầu sơ sinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He survived a disease in his infancy.

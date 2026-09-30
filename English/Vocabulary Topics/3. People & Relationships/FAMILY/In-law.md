@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.lɔː/
 
+![[in_law.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A relative by marriage.

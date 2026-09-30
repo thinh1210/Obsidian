@@ -2,8 +2,10 @@
 *adjective.*
 > /ˌæn.θrə.pəˈmɔːr.fɪk/
 
+![[anthropomorphic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having human characteristics, behavior, or form
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `anthropomorphic robot`: robot có hình dạng giống người
+- `anthropomorphic features`: đặc điểm giống người
+- `anthropomorphic design`: thiết kế dáng người
+- `anthropomorphic form`: hình dạng giống con người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Disney robots often have anthropomorphic movements to appear friendly.

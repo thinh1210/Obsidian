@@ -1,13 +1,21 @@
 # Stuff
 
 *Noun*
+> /stʌf/
+
+![[stuff.mp3]]
 
 - **[EN]:** A substance, materials, or articles of a specified or unspecified kind.
 - **[VN]:** Đồ đạc, thứ, chất liệu.
 
-**Level:** A2
+**Level:** A2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Đồ vật hàng ngày, Vật dụng chứa & Đồ chơi
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `know one's stuff`: rất am hiểu tường tận nghề nghiệp của mình (idiom)
+- `stuff oneself`: ăn no căng bụng ngốn ngấu (phrasal verb)
+- `and all that stuff`: và vân vân những thứ đại loại thế
+
 ## Examples
 1. *We need to clear all this stuff off the table.*
    - Chúng ta cần dọn sạch đống đồ này khỏi bàn.

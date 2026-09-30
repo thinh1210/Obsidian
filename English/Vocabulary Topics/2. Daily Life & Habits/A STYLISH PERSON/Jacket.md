@@ -2,8 +2,10 @@
 *n.*
 > /ˈdʒækɪt/
 
+![[jacket.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short coat.
@@ -13,7 +15,11 @@
 💡 Jacket - rách (jack) rồi phải mua áo khoác mới.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `leather jacket`: áo khoác da\n- `suit jacket`: áo vest
+- `leather jacket`: áo khoác da
+- `suit jacket`: áo vest
+- `bomber jacket`: áo khoác phi công
+- `denim jacket`: áo khoác bò, áo khoác jeans
+- `slip on a jacket`: khoác nhanh chiếc áo khoác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I forgot my jacket at the restaurant.

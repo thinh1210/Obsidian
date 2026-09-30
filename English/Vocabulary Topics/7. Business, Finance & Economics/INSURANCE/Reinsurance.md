@@ -2,8 +2,10 @@
 *n.*
 > /ˌriːɪnˈʃʊərəns/
 
+![[reinsurance.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Insurance training where insurance companies transfer portions of their risk portfolios to other parties to reduce their own liability.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reinsurance market`: thị trường tái bảo hiểm
 - `treaty reinsurance`: tái bảo hiểm theo hợp đồng nguyên tắc
+- `reinsurance treaty`: hiệp ước tái bảo hiểm theo nhóm rủi ro
+- `facultative reinsurance`: nghiệp vụ tái bảo hiểm tùy chọn từng vụ việc
+- `cede to reinsurance`: nhượng lại phần rủi ro cho công ty tái bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Reinsurance protects insurance companies from massive losses after natural disasters.

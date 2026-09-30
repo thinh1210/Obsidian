@@ -2,8 +2,10 @@
 *noun*
 > /ˌpɒləˈneɪʃn/
 
+![[pollination.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The transfer of pollen to a stigma, ovule, or flower to allow fertilization.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross-pollination`: sự thụ phấn chéo
 - `insect pollination`: sự thụ phấn nhờ côn trùng
+- `pollination by bees`: sự thụ phấn nhờ loài ong
+- `self-pollination`: sự tự thụ phấn
+- `pollination process`: tiến trình thụ phấn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pollination by bees is essential for our backyard apple tree to yield fruit.

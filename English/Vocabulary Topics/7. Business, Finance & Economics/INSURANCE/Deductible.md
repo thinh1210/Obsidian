@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈdʌktəbl/
 
+![[deductible.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A specified amount of money that the insured must pay before an insurance company will pay any claim.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high deductible`: mức khấu trừ cao
 - `meet the deductible`: tích lũy đủ mức khấu trừ
+- `annual deductible`: mức khấu trừ tích lũy hàng năm
+- `zero deductible`: gói bảo hiểm không áp dụng mức khấu trừ
+- `pay the deductible`: thanh toán phần trách nhiệm mức khấu trừ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Choosing a higher deductible can lower your monthly premium.

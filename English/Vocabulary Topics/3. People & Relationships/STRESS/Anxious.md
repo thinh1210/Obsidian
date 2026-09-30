@@ -2,8 +2,10 @@
 *adj.*
 > /ˈæŋkʃəs/
 
+![[anxious.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Experiencing worry, unease, or nervousness
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `anxious about`: lo âu về
 - `feel anxious`: cảm thấy lo âu
+- `anxious moments`: những khoảnh khắc thấp thỏm lo âu
+- `anxious anticipation`: sự sốt ruột chờ đợi đầy lo lắng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is anxious about the exam.

@@ -2,8 +2,10 @@
 *n.*
 > /prəˈdjuːsə(r)/
 
+![[producer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person responsible for the financial and managerial aspects of making a movie or broadcast, or for staging a play.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `executive producer`: nhà sản xuất điều hành
 - `record producer`: nhà sản xuất âm nhạc
+- `co-producer`: nhà đồng sản xuất
+- `line producer`: quản lý sản xuất hiện trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He works as a television producer.

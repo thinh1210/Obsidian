@@ -2,8 +2,10 @@
 *v*
 > /haɪk/
 
+![[hike.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Walk for a long distance, especially across country.
@@ -13,7 +15,11 @@
 💡 Hike - Hái hoa khi đi bộ đường dài.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `go hiking`: đi bộ đường dài\n- `hiking trail`: đường mòn đi bộ
+- `go hiking`: đi bộ đường dài
+- `hiking trail`: đường mòn đi bộ
+- `hike up a mountain`: leo bộ lên đỉnh núi
+- `scenic hike`: chuyến đi bộ ngắm cảnh tuyệt đẹp
+- `strenuous hike`: chuyến đi bộ đường dài đầy thử thách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We hiked up the hill.

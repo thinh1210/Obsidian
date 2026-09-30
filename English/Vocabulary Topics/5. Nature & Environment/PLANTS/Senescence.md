@@ -2,8 +2,10 @@
 *noun*
 > /sɪˈnesns/
 
+![[senescence.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition or process of deterioration with age; (in plants) the final stage of leaf development.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `leaf senescence`: sự già hóa của lá
 - `cellular senescence`: sự lão hóa tế bào
+- `delay plant senescence`: làm chậm quá trình già cỗi của cây
+- `senescence markers`: các dấu hiệu chỉ thị sự già hóa tế bào
+- `leaf senescence in deciduous trees`: quá trình úa vàng rụng lá ở cây theo mùa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The yellowing of leaves in autumn is a visible sign of plant senescence.

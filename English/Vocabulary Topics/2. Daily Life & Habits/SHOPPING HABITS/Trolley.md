@@ -2,8 +2,10 @@
 *n*
 > /ˈtrɒl.i/
 
+![[trolley.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large basket on wheels
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shopping trolley`: xe đẩy mua sắm
+- `push a trolley`: đẩy chiếc xe hàng siêu thị
+- `abandoned trolley`: chiếc xe đẩy bị bỏ lại
+- `load up the trolley`: chất đầy đồ lên xe đẩy hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Get a trolley.

@@ -2,8 +2,10 @@
 *n./adj.*
 > /fʌn/
 
+![[fun.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Enjoyment, amusement, or lighthearted pleasure.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have fun`: vui vẻ
+- `have good fun`: chơi đùa rất vui thỏa thích
+- `fun-filled afternoon`: buổi chiều tràn ngập niềm vui
+- `make fun of`: trêu chọc chế giễu ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a lot of fun.

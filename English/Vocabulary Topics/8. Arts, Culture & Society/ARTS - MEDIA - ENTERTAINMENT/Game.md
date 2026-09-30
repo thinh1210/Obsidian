@@ -2,8 +2,10 @@
 *n.*
 > /ɡeɪm/
 
+![[game.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An activity or sport, especially a competitive one, played according to rules and decided by skill, strength, or luck.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `play a game`: chơi một trò chơi
 - `video game`: trò chơi điện tử
+- `board game`: trò chơi cờ bàn
+- `game changer`: yếu tố làm xoay chuyển cục diện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's play a board game this weekend.

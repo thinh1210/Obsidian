@@ -2,8 +2,10 @@
 *noun*
 > /ˌmerɪˈtɒkrəsi/
 
+![[meritocracy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A social system in which advancement is based on individual ability or achievement.

@@ -2,8 +2,10 @@
 *verb.*
 > /wɪðˈdrɔː/
 
+![[withdraw.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To take money out of a bank account.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `withdraw cash`: rút tiền mặt
 - `withdraw money`: rút tiền
+- `withdrawal limit`: hạn mức rút tiền tối đa
+- `early withdrawal penalty`: tiền phạt khi rút tiền trước kỳ hạn
+- `withdraw capital`: rút nguồn vốn đầu tư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I went to the ATM to withdraw some money for my trip.

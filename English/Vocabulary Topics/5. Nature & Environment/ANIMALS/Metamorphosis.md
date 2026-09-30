@@ -2,8 +2,10 @@
 *noun*
 > /ˌmet.əˈmɔː.fə.sɪs/
 
+![[metamorphosis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of transformation from an immature form to an adult form in two or more distinct stages.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `undergo metamorphosis`: trải qua quá trình biến thái
 - `complete metamorphosis`: biến thái hoàn toàn
+- `radical metamorphosis`: sự chuyển hóa diện mạo triệt để
+- `undergo a metamorphosis`: trải qua một sự lột xác ngoạn mục
+- `caterpillar metamorphosis`: sự biến thái của sâu bướm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A caterpillar undergoes metamorphosis to transform into a beautiful butterfly.

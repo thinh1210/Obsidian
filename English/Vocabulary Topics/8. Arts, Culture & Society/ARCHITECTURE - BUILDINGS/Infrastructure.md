@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪnfrəstrʌktʃə(r)/
 
+![[infrastructure.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The basic physical structures and facilities needed for the operation of a society
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `urban infrastructure`: cơ sở hạ tầng đô thị
 - `improve infrastructure`: cải thiện cơ sở hạ tầng
+- `critical infrastructure`: cơ sở hạ tầng trọng yếu
+- `transport infrastructure`: hạ tầng giao thông vận tải
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country needs to invest more in its transport infrastructure.

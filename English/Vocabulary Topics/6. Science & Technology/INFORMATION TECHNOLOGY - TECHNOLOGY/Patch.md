@@ -2,8 +2,10 @@
 *noun*
 > /pætʃ/
 
+![[patch.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Technical/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** B2 | **Ngữ cảnh:** Technical/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small piece of software used to correct a problem, usually a bug or security flaw.

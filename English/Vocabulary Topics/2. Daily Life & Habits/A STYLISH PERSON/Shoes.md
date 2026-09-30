@@ -2,8 +2,10 @@
 *n.*
 > /ʃuːz/
 
+![[shoes.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coverings for the feet.
@@ -13,7 +15,11 @@
 💡 Shoes - Su (shoe) thích đi giày.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `running shoes`: giày chạy bộ\n- `leather shoes`: giày da
+- `running shoes`: giày chạy bộ
+- `leather shoes`: giày da
+- `high-heeled shoes`: giày cao gót
+- `polish one's shoes`: đánh bóng giày
+- `in someone's shoes`: đặt mình vào hoàn cảnh của người khác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Take off your shoes before entering.

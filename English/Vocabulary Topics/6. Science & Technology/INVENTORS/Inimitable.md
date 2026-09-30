@@ -2,8 +2,10 @@
 *adj.*
 > /ɪˈnɪm.ɪ.tə.bəl/
 
+![[inimitable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INVENTORS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** So good or unusual as to be impossible to copy; unique
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `inimitable style`: phong cách độc nhất vô nhị
 - `inimitable performance`: màn trình diễn không thể bắt chước được
+- `in his inimitable way`: theo cách độc đáo riêng của ông ấy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He performed the song in his own inimitable style.

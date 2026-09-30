@@ -2,8 +2,10 @@
 *v.*
 > /ɪɡˈzæmɪn/
 
+![[examine.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To inspect someone or something thoroughly in order to determine their condition
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `examine a patient`: kiểm tra bệnh nhân
 - `examine evidence`: xem xét bằng chứng
+- `examine closely`: kiểm tra soi xét kỹ lưỡng từng chi tiết
+- `examine the thesis`: thẩm định đánh giá luận văn tốt nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should examine the document carefully before signing.

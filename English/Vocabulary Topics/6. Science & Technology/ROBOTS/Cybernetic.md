@@ -2,8 +2,10 @@
 *adjective.*
 > /ˌsaɪ.bɚˈnet̬.ɪk/
 
+![[cybernetic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to cybernetics (the science of communications and automatic control systems in both machines and living things)
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cybernetic organism`: sinh vật điều khiển học (cyborg)
+- `cybernetic system`: hệ thống điều khiển học
+- `cybernetic enhancement`: nâng cấp điều khiển học
+- `cybernetic implant`: cấy ghép điều khiển học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Scientists are studying cybernetic implants to restore missing human motor skills.

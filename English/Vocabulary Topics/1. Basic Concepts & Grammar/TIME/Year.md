@@ -2,8 +2,10 @@
 *n.*
 > /jɪər/
 
+![[year.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 365 or 366 days
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `leap year`: năm nhuận
+- `year round`: suốt cả năm
+- `year in, year out`: hết năm này sang năm khác
+- `financial year`: năm tài khóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Happy New Year!

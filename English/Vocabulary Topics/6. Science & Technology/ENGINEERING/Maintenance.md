@@ -2,8 +2,10 @@
 *noun*
 > /ˈmeɪntənəns/
 
+![[maintenance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The work of keeping something in proper condition; upkeep.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `routine maintenance`: bảo trì định kỳ
 - `maintenance cost`: chi phí bảo trì
+- `preventive maintenance`: bảo trì phòng ngừa
+- `perform maintenance`: thực hiện bảo trì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Regular maintenance of your car can prevent expensive breakdowns later.

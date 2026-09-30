@@ -2,8 +2,10 @@
 *noun*
 > /ˈfiːtʃə(r)/
 
+![[feature.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A distinctive attribute or aspect of something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `key feature`: tính năng chính
 - `unique feature`: đặc tính độc đáo
+- `prominent feature`: tính năng / nét nổi bật
+- `standout feature`: đặc tính vượt trội
+- `feature prominently`: được giới thiệu ở vị trí trang trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This new camera has several advanced features.

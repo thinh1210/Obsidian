@@ -2,8 +2,10 @@
 *noun*
 > /ˈduːmskrəʊlɪŋ/
 
+![[doomscrolling.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of obsessively scrolling through social media feeds reading negative or depressing news
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stop doomscrolling`: dừng việc đọc tin tức tiêu cực liên tục
+- `trap of doomscrolling`: cái bẫy nghiện đọc tin tức tiêu cực
+- `doomscrolling late at night`: lướt đọc tin buồn lúc nửa đêm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to delete my news apps because I spend all night doomscrolling.

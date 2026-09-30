@@ -2,8 +2,10 @@
 *Noun*
 > /ˌmæl.njuːˈtrɪʃ.ən/
 
+![[malnutrition.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Medical | **Chủ đề:** FOOD - DRINK
+**Level:** C1 | **Ngữ cảnh:** Academic/Medical | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical weakness and bad health caused by having too little food.

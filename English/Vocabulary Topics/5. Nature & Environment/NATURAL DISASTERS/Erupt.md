@@ -2,8 +2,10 @@
 *verb*
 > /ɪˈrʌpt/
 
+![[erupt.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a volcano) to explode and throw out fire, lava, and ash.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `volcano erupts`: núi lửa phun trào
 - `erupt violently`: phun trào dữ dội
+- `erupt in anger`: bùng lên cơn thịnh nộ
+- `violence erupted`: bạo lực bất ngờ bùng phát
+- `volcano ready to erupt`: ngọn núi lửa chực chờ phun trào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The volcano is expected to erupt at any moment.

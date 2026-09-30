@@ -2,8 +2,10 @@
 *noun*
 > /weɪv/
 
+![[wave.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A raised line of water that moves across the surface of an area of water, especially the sea.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `huge wave`: con sóng khổng lồ
 - `heat wave`: đợt nắng nóng
+- `make waves`: gây xôn xao dư luận / tạo nên sóng gió
+- `tidal wave`: sóng triều dâng / làn sóng khổng lồ ùa tới
+- `on the same wavelength`: cùng tần số suy nghĩ / hiểu ý nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The surfers were excited about the big waves today.

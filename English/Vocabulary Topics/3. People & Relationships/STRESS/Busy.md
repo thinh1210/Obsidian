@@ -2,8 +2,10 @@
 *adj.*
 > /ˈbɪzi/
 
+![[busy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot to do
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `too busy`: quá bận
 - `busy schedule`: lịch trình bận rộn
+- `busy bee`: người luôn bận rộn như ong chăm chỉ (idiom)
+- `busy as a bee`: bận tối mắt tối mũi (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am very busy right now.

@@ -2,8 +2,10 @@
 *verb*
 > /səˈlɪd.ə.faɪ/
 
+![[solidify.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make or become hard or solid; make stronger.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `solidify a friendship`: củng cố một tình bạn
+- `solidify a relationship`: củng cố làm vững chắc mối quan hệ
+- `solidify bonds`: thắt chặt những sợi dây gắn kết thân tình
+- `solidify mutual trust`: củng cố niềm tin tưởng lẫn nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The trip helped solidify their friendship.

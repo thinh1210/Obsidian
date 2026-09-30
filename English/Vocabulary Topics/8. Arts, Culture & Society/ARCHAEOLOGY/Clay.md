@@ -2,8 +2,10 @@
 *noun*
 > /kleɪ/
 
+![[clay.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of heavy, wet soil that becomes hard when it is baked in a kiln or dried
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clay pot`: bình đất sét
 - `clay tablet`: tấm đất sét
+- `clay figurine`: tượng nhỏ bằng đất sét
+- `baked clay`: đất sét nung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children love playing with clay and making animals.

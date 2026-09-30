@@ -2,8 +2,10 @@
 *verb*
 > /ˈnævɪɡeɪt/
 
+![[navigate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Plan and direct the route or course of a ship, aircraft, or other form of transportation, especially by using instruments or maps.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `navigate the ocean`: định vị trên đại dương
+- `navigate rough waters`: vượt qua vùng biển động
+- `navigate by the stars`: định hướng bằng các vì sao
+- `skillfully navigate`: điều hướng khéo léo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I use my phone to navigate the city.

@@ -2,8 +2,10 @@
 *Adjective*
 > /ˌdʒʊrɪsˈdɪkʃənl/
 
+![[jurisdictional.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the official power to make legal decisions and judgments.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Jurisdictional dispute`: Tranh chấp thẩm quyền
+- `jurisdictional boundary`: ranh giới thẩm quyền pháp lý
+- `jurisdictional authority`: thẩm quyền tài phán
+- `jurisdictional issue`: vấn đề thuộc thẩm quyền pháp lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The two states had a jurisdictional dispute over the river.

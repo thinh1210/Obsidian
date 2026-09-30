@@ -2,8 +2,10 @@
 *noun*
 > /ˈrep.taɪl/
 
+![[reptile.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cold-blooded vertebrate animal of a class that includes snakes, lizards, crocodiles, turtles, and tortoises.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reptile house`: nhà nuôi bò sát ở sở thú
 - `cold-blooded reptile`: loài bò sát máu lạnh
+- `scale-covered reptile`: loài bò sát da phủ vảy
+- `reptile sanctuary`: khu bảo tồn các loài bò sát
+- `evolution of reptiles`: sự tiến hóa của lớp bò sát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Crocodiles are ancient reptiles that have changed very little since the dinosaur era.

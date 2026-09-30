@@ -2,8 +2,10 @@
 *noun*
 > /lɪŋk/
 
+![[link.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A connection from one web page to another, often shared on social media
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `click on a link`: nhấn vào một đường dẫn
+- `broken link`: liên kết bị đứt đoạn/hỏng
+- `link in bio`: đường dẫn ở phần giới thiệu cá nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you send me the link to that article?

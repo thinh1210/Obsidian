@@ -2,8 +2,10 @@
 *v.*
 > /kənˈsep.tʃu.ə.laɪz/
 
+![[conceptualize.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To form an idea or concept in your mind
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conceptualize a project`: hình thành ý tưởng cho dự án
 - `difficult to conceptualize`: khó hình thành khái niệm
+- `ability to conceptualize`: năng lực khái niệm hóa vấn đề
+- `conceptualize new approaches`: hình thành những cách tiếp cận mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is difficult to conceptualize how large the universe is.

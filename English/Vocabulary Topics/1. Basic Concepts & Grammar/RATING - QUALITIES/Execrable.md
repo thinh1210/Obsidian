@@ -2,8 +2,10 @@
 *adj*
 > /ˈek.sɪ.krə.bəl/
 
+![[execrable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely bad or unpleasant.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `execrable taste`: gu thẩm mỹ tệ hại
+- `execrable performance`: màn trình diễn tệ hại thảm thương
+- `execrable quality`: chất lượng tồi tệ hạ đẳng
+- `execrable behavior`: hành vi đáng kinh tởm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The service was simply execrable.

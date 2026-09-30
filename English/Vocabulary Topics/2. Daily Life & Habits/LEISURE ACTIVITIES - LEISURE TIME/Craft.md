@@ -2,8 +2,10 @@
 *n*
 > /krɑːft/
 
+![[craft.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving skill in making things by hand.
@@ -13,7 +15,11 @@
 💡 Craft - ráp các thứ lại thành đồ thủ công.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `arts and crafts`: nghệ thuật và thủ công\n- `craft fair`: hội chợ thủ công
+- `arts and crafts`: nghệ thuật và thủ công
+- `craft fair`: hội chợ thủ công
+- `hand-crafted goods`: sản phẩm thủ công tinh xảo
+- `hone one's craft`: rèn giũa kỹ năng, tay nghề
+- `traditional craft`: làng nghề / nghề thủ công truyền thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She makes beautiful paper crafts.

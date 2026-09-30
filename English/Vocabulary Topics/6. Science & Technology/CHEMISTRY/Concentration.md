@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɒn.sənˈtreɪ.ʃən/
 
+![[concentration.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The abundance of a constituent divided by the total volume of a mixture.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high concentration`: nồng độ cao
 - `molar concentration`: nồng độ mol
+- `dilute concentration`: nồng độ loãng
+- `increase the concentration`: tăng nồng độ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The concentration of salt in the Dead Sea is extremely high.

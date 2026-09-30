@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪnfluənsə(r)/
 
+![[influencer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has the power to affect the purchasing decisions or opinions of others on social media
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `social media influencer`: người có sức ảnh hưởng trên mạng xã hội
+- `micro-influencer`: người có tầm ảnh hưởng ngách
+- `influencer marketing`: tiếp thị thông qua người có sức ảnh hưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many teenagers want to become influencers when they grow up.

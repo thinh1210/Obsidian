@@ -2,8 +2,10 @@
 *noun*
 > /stem/
 
+![[stem.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main long thin part of a plant above the ground, from which leaves or flowers grow.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flower stem`: cuống hoa
 - `cut the stem`: cắt cuống/thân
+- `stem from`: bắt nguồn từ / xuất phát từ
+- `stem the tide`: ngăn chặn làn sóng / kiềm chế xu hướng xấu
+- `woody stem`: thân gỗ cứng cáp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Cut the flower stems at an angle before putting them in water.

@@ -2,8 +2,10 @@
 *noun*
 > /toʊl/
 
+![[toll.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A charge payable for permission to use a particular bridge or road.

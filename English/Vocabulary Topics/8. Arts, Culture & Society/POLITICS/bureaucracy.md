@@ -2,8 +2,10 @@
 *noun*
 > /bjʊˈrɑːkrəsi/
 
+![[bureaucracy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government in which most of the important decisions are made by state officials rather than by elected representatives.

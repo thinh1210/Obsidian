@@ -2,8 +2,10 @@
 *adj*
 > /naɪs/
 
+![[nice.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasant, enjoyable, or attractive.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have a nice day`: chúc một ngày tốt lành
+- `nice try`: cố gắng tốt đấy / cũng khéo đấy
+- `nice touch`: chi tiết tinh tế
+- `make nice with`: làm hòa / tỏ ra thân thiện với
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You look nice today.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈsʌbdʒɪkt/
 
+![[subject.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A branch of knowledge studied or taught in a school, college, or university
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `favorite subject`: môn học yêu thích
 - `core subject`: môn học cốt lõi
+- `compulsory subject`: môn học có tính chất bắt buộc
+- `master a subject`: làm chủ hiểu thấu đáo một môn học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Math is my favorite subject.

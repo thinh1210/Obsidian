@@ -2,8 +2,10 @@
 *n.*
 > /ˈcɒtɪdʒ/
 
+![[cottage.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small simple house, typically one near the lake or in the countryside
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `country cottage`: nhà tranh ở nông thôn
 - `holiday cottage`: nhà nghỉ dưỡng nhỏ
+- `thatched cottage`: ngôi nhà tranh thôn dã
+- `cozy cottage`: ngôi nhà nhỏ ấm cúng miền quê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They rented a cozy cottage in the mountains for the weekend.

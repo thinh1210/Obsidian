@@ -2,8 +2,10 @@
 *adj.*
 > /naɪs/
 
+![[nice.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasant, attractive.
@@ -13,7 +15,11 @@
 💡 Nice - nai (nice) đẹp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `look nice`: trông đẹp\n- `nice outfit`: trang phục đẹp
+- `look nice`: trông đẹp
+- `nice outfit`: trang phục đẹp
+- `nice sense of fashion`: gu thời trang đẹp, bắt mắt
+- `nice combination`: sự kết hợp trang phục hài hòa
+- `dress nicely`: ăn mặc đẹp đẽ, chỉnh tề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* That's a nice shirt you're wearing.

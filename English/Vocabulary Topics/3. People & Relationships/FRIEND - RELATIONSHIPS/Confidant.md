@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɑːn.fə.dænt/
 
+![[confidant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person with whom one shares a secret or private matter, trusting them not to repeat it to others.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a close confidant`: một người bạn tâm giao thân thiết
+- `trusted confidant`: người bạn tâm giao đáng tin cậy
+- `close confidant`: người bạn tâm sự gần gũi nhất
+- `act as a confidant`: đóng vai trò là người để giãi bày tâm sự
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has been my closest confidant for years.

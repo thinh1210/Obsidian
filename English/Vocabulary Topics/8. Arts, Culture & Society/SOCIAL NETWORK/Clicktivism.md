@@ -2,8 +2,10 @@
 *noun*
 > /ˈklɪktɪvɪzəm/
 
+![[clicktivism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of supporting a political or social cause via social media, involving minimal effort (such as liking or sharing)
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `danger of clicktivism`: nguy cơ từ chủ nghĩa hoạt động bằng cú nhấp chuột
+- `armchair clicktivism`: hoạt động bàn phím hời hợt
+- `ineffective clicktivism`: phong trào đấu tranh ảo thiếu hiệu quả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Signing an online petition is a form of clicktivism; it rarely leads to real-world change.

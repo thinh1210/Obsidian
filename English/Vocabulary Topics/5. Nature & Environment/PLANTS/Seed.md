@@ -2,8 +2,10 @@
 *noun*
 > /siːd/
 
+![[seed.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The small hard part of a plant from which a new plant can grow.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plant seeds`: gieo hạt
 - `sunflower seed`: hạt hướng dương
+- `sow the seeds of success`: gieo những mầm mống cho sự thành công
+- `seed dormancy`: trạng thái ngủ nghỉ của hạt giống
+- `germinate seeds indoors`: ươm hạt nảy mầm trong nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought some tomato seeds for my garden.

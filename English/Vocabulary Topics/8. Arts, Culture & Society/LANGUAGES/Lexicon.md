@@ -2,8 +2,10 @@
 *n.*
 > /ˈleksɪkən/
 
+![[lexicon.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The vocabulary of a person, language, or branch of knowledge
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mental lexicon`: vốn từ vựng trong tâm trí
+- `expand the lexicon`: mở rộng vốn từ vựng
+- `specialized lexicon`: hệ từ vựng chuyên ngành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Computer terms have entered the everyday lexicon.

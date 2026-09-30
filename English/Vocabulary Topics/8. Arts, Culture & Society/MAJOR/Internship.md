@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪn.tɜːn.ʃɪp/
 
+![[internship.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of work experience offered by an organization to students or graduates.

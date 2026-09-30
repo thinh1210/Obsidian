@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑːf.tə.ʃɒk/
 
+![[aftershock.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A smaller earthquake following the main shock of a large earthquake.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `experience aftershocks`: trải qua các dư chấn
 - `violent aftershock`: dư chấn mạnh
+- `powerful aftershock`: dư chấn dữ dội
+- `series of aftershocks`: chuỗi các đợt dư chấn
+- `brace for aftershocks`: chuẩn bị ứng phó với các cơn dư chấn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Residents were warned to stay outside due to the danger of aftershocks.

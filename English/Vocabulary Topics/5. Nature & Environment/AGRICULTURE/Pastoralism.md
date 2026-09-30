@@ -2,8 +2,10 @@
 *n.*
 > /ˈpɑː.stə.rə.lɪ.zəm/
 
+![[pastoralism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of agriculture concerned with the raising of livestock, especially in nomadic herds.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `nomadic pastoralism`: chăn thả gia súc du mục
 - `traditional pastoralism`: chăn nuôi du mục truyền thống
+- `pastoralist community`: cộng đồng chăn thả gia súc du mục
+- `transhumance pastoralism`: chăn nuôi du canh chuyển vùng theo mùa
+- `sustainable pastoralism`: chăn thả gia súc bền vững
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Nomadic pastoralism is still practiced in parts of Mongolia and East Africa.

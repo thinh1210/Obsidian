@@ -2,8 +2,10 @@
 *noun*
 > /rɪŋ/
 
+![[ring.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circular band worn on a finger.
@@ -13,7 +15,10 @@
 💡 Rinh (Ring) chiếc nhẫn về.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `gold ring: nhẫn vàng`
+- `gold ring`: nhẫn vàng
+- `wedding ring`: nhẫn cưới
+- `promise ring`: nhẫn hẹn ước
+- `eternity ring`: nhẫn vĩnh cửu đính đá vòng quanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wears a ring.

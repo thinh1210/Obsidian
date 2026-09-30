@@ -2,8 +2,10 @@
 *n.*
 > /suːˈprem.ə.si/
 
+![[supremacy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or condition of being superior to all others in authority, power, or status.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `establish supremacy`: thiết lập thế thượng phong
 - `military supremacy`: ưu thế quân sự tối cao
+- `aerial supremacy`: ưu thế áp đảo trên không
+- `battle for supremacy`: cuộc chiến cạnh tranh ngôi vương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The team established their supremacy by winning five consecutive titles.

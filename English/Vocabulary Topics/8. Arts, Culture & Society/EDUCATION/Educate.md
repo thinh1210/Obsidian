@@ -2,8 +2,10 @@
 *v.*
 > /ˈedʒukeɪt/
 
+![[educate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give intellectual, moral, and social instruction to someone
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `educate the public`: giáo dục công chúng
 - `well-educated`: được giáo dục tốt
+- `educate oneself`: tự học tự trau dồi tri thức cá nhân
+- `educate children`: giáo dục rèn luyện nhân cách cho trẻ em
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Parents should educate their kids about money.

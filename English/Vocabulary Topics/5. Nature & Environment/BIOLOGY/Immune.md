@@ -2,8 +2,10 @@
 *adj.*
 > /ɪˈmjuːn/
 
+![[immune.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Resistant to a particular infection or toxin owing to the presence of specific antibodies or sensitized white blood cells.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `immune system`: hệ miễn dịch
 - `immune response`: phản ứng miễn dịch
+- `immune to criticism`: miễn nhiễm với những lời chỉ trích
+- `compromised immune system`: hệ miễn dịch bị suy giảm
+- `develop immunity`: phát triển khả năng miễn dịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Garlic can help boost your immune system.

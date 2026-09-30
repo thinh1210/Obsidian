@@ -2,8 +2,10 @@
 *v.*
 > /əˈkwaɪə(r)/
 
+![[acquire.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To learn or develop a skill, habit, or quality
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `acquire language skills`: tiếp thu kỹ năng ngôn ngữ
+- `naturally acquire`: tiếp thu một cách tự nhiên
+- `acquire knowledge`: tiếp thu tri thức
+- `acquire a foreign accent`: bị nhiễm chất giọng nước ngoài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She acquired a taste for olives.

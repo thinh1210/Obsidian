@@ -2,8 +2,10 @@
 *n.*
 > /ˌentəˈteɪnmənt/
 
+![[entertainment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME
+**Level:** B1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of providing or being provided with amusement or enjoyment.
@@ -13,7 +15,10 @@
 💡 Entertain (giải trí) + ment.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `entertainment industry: ngành công nghiệp giải trí`
+- `entertainment industry`: ngành công nghiệp giải trí
+- `pure entertainment`: thuần túy mang tính giải trí
+- `home entertainment`: hệ thống giải trí tại gia
+- `entertainment value`: giá trị giải trí thư giãn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watch TV for entertainment.

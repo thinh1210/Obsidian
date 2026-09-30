@@ -2,8 +2,10 @@
 *Noun*
 > /ˈklaɪmət/
 
+![[climate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The weather conditions prevailing in an area in general or over a long period.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `climate change`: biến đổi khí hậu
 - `tropical climate`: khí hậu nhiệt đới
+- `climate change summit`: hội nghị thượng đỉnh về biến đổi khí hậu
+- `harsh continental climate`: khí hậu lục địa khắc nghiệt
+- `favorable business climate`: môi trường kinh doanh thuận lợi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The island has a warm, tropical climate.

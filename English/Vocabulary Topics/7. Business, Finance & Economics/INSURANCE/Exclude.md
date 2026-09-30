@@ -2,8 +2,10 @@
 *v.*
 > /ɪkˈskluːd/
 
+![[exclude.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To deny someone or something access to or bar them from a place, group, or privilege.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `exclude from coverage`: loại trừ khỏi phạm vi bảo hiểm
 - `specifically exclude`: loại trừ cụ thể
+- `exclude pre-existing conditions`: loại trừ bệnh có sẵn trước khi mua bảo hiểm
+- `strictly excluded`: nằm trong diện bị loại trừ nghiêm ngặt
+- `exclude from liability`: loại trừ khỏi phạm vi chịu trách nhiệm pháp lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pre-existing conditions are excluded from this health policy.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈhjuː.mən/
 
+![[human.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A human being.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Human rights`: Nhân quyền
+- `human nature`: bản chất con người
+- `human error`: lỗi do con người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* To err is human.

@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈspəʊz/
 
+![[dispose.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Get rid of by throwing away or giving or selling to someone else.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dispose of waste`: thải bỏ/xử lý chất thải
 - `properly dispose`: xử lý đúng cách
+- `dispose of hazardous chemicals`: tiêu hủy các hóa chất độc hại
+- `proper disposal method`: phương pháp tiêu hủy chất thải đúng quy chuẩn
+- `man proposes, God disposes`: mưu sự tại nhân, thành sự tại thiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please dispose of your trash in the bins provided.

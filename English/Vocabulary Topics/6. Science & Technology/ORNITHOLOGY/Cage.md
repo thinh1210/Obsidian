@@ -2,8 +2,10 @@
 *noun*
 > /keɪdʒ/
 
+![[cage.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A space surrounded by bars or wire, in which birds or animals are kept.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bird cage`: lồng chim
 - `escape from a cage`: trốn thoát khỏi lồng
+- `golden cage`: lồng son giam cầm tự do (idiom)
+- `rattle someone's cage`: chọc giận làm ai bực tức (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The pet parrot was kept in a spacious cage in the living room.

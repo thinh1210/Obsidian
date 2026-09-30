@@ -2,8 +2,10 @@
 *noun*
 > /ˈmʌs.əl/
 
+![[muscle.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A band or bundle of fibrous tissue in a human or animal body that has the ability to contract, producing movement in or maintaining the position of parts of the body.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `muscle pain`: đau cơ
 - `build muscle`: xây dựng cơ bắp
+- `muscle contraction`: sự co cơ
+- `flex one's muscles`: thị uy sức mạnh / phô trương quyền uy
+- `muscle memory`: trí nhớ cơ bắp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He goes to the gym to build muscle.

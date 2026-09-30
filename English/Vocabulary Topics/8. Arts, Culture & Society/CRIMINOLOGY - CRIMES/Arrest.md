@@ -2,8 +2,10 @@
 *verb*
 > /əˈrest/
 
+![[arrest.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** If the police arrest someone, they take them away to ask them about a crime
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make an arrest`: thực hiện vụ bắt giữ
 - `under arrest`: bị bắt giữ
+- `resist arrest`: chống cự người thi hành công vụ khi bị bắt
+- `warrant for arrest`: lệnh bắt giữ chính thức của tòa / viện kiểm sát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police arrived quickly to arrest the shoplifter.

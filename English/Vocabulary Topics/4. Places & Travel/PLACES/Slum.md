@@ -2,8 +2,10 @@
 *n.*
 > /slʌm/
 
+![[slum.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A squalid and overcrowded urban street or district inhabited by very poor people.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `urban slum`: khu ổ chuột đô thị
+- `slum area`: khu ổ chuột lụp xụp
+- `slum clearance`: công tác giải tỏa khu nhà ổ chuột
+- `slum dwellers`: người dân lao động nghèo sống ở khu ổ chuột
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many people in the city still live in slums.

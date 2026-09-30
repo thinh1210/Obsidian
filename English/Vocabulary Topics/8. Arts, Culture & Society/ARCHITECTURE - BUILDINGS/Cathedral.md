@@ -2,8 +2,10 @@
 *n.*
 > /kəˈθiːdrəl/
 
+![[cathedral.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The main church of a district, containing the bishop's official throne
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gothic cathedral`: nhà thờ lớn phong cách gothic
 - `cathedral dome`: mái vòm nhà thờ lớn
+- `majestic cathedral`: nhà thờ chính tòa uy nghiêm
+- `cathedral spire`: chóp tháp nhọn nhà thờ chính tòa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Notre-Dame is a world-famous cathedral in Paris.

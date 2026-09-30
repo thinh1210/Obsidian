@@ -2,8 +2,10 @@
 *noun*
 > /kæpˈtɪv.ə.ti/
 
+![[captivity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being kept imprisoned or confined.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `breed in captivity`: sinh sản trong môi trường nuôi nhốt
 - `escape from captivity`: trốn thoát khỏi cảnh nuôi nhốt
+- `born in captivity`: sinh ra trong môi trường nuôi nhốt
+- `keep animals in captivity`: nhốt động vật trong chuồng trại
+- `release from captivity`: phóng thích khỏi cảnh giam cầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Animals born in captivity often lack the skills to survive in the wild.

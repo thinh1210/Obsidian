@@ -2,8 +2,10 @@
 *noun*
 > /ˈmæm.əl/
 
+![[mammal.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A warm-blooded vertebrate animal of a class that is distinguished by the possession of hair or fur, females that secrete milk, and (typically) the birth of live young.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `marine mammal`: động vật có vú dưới nước
 - `land mammal`: động vật có vú trên cạn
+- `warm-blooded mammal`: động vật có vú máu nóng
+- `terrestrial mammal`: động vật có vú sống trên cạn
+- `placental mammal`: động vật có vú có nhau thai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Whales and dolphins are actually mammals, not fish.

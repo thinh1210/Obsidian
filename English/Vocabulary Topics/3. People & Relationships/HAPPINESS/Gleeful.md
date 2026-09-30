@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɡliː.fəl/
 
+![[gleeful.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exuberantly or triumphantly joyful.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gleeful shout`: tiếng hét vui sướng
+- `gleeful chuckle`: tiếng cười khúc khích sung sướng
+- `gleeful anticipation`: sự háo hức chờ đợi đầy hân hoan
+- `rub hands in gleeful delight`: xoa tay đầy khoái chí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He gave a gleeful laugh.

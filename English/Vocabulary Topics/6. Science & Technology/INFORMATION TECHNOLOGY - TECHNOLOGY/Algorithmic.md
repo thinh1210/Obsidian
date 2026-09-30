@@ -2,8 +2,10 @@
 *adj*
 > /ˌæl.ɡəˈrɪð.mɪk/
 
+![[algorithmic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or using an algorithm (a set of mathematical instructions or rules).

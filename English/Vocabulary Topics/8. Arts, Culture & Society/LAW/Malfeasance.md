@@ -2,8 +2,10 @@
 *noun*
 > /mælˈfiːzns/
 
+![[malfeasance.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Wrongdoing or misconduct, especially by a public official

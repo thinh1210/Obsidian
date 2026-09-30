@@ -2,8 +2,10 @@
 *noun*
 > /ˈper.ənt/
 
+![[parent.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A father or mother.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `single parent`: bố mẹ đơn thân
+- `doting parent`: bố mẹ hết mực cưng chiều con
+- `parental guidance`: sự định hướng dạy dỗ của cha mẹ
+- `helicopter parent`: bố mẹ kiểm soát con quá mức (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My parent is here.

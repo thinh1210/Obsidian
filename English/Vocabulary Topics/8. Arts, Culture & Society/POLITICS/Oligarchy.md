@@ -2,8 +2,10 @@
 *n*
 > /ˈɒl.ɪ.ɡɑː.ki/
 
+![[oligarchy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of government in which power is held by a small group of people.

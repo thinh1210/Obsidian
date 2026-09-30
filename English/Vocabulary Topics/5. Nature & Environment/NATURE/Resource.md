@@ -2,8 +2,10 @@
 *Noun*
 > /rɪˈsɔːs/
 
+![[resource.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** NATURE
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stock or supply of materials, energy, or other assets that can be drawn on.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural resource`: tài nguyên thiên nhiên
 - `resource allocation`: sự phân bổ tài nguyên
+- `depletion of resources`: sự cạn kiệt tài nguyên thiên nhiên
+- `renewable resource`: tài nguyên có khả năng tái tạo
+- `resourceful person`: người tháo vát giàu mưu mẹo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Water is a precious natural resource.

@@ -2,8 +2,10 @@
 *n, adj*
 > /ˈɪn.dɪ.ɡoʊ/
 
+![[indigo.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dark purplish-blue color.

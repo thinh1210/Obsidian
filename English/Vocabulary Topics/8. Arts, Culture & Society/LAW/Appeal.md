@@ -2,8 +2,10 @@
 *verb/noun*
 > /əˈpiːl/
 
+![[appeal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Apply to a higher court for a reversal of the decision of a lower court; an application to a higher court for a decision to be reversed.

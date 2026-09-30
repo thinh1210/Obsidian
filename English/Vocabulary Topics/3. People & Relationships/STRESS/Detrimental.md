@@ -2,8 +2,10 @@
 *adj.*
 > /ˌdetrɪˈmentl/
 
+![[detrimental.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to cause harm
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `detrimental effect`: tác động có hại
 - `detrimental to health`: có hại cho sức khỏe
+- `detrimental impact`: tác động tiêu cực có hại
+- `highly detrimental`: vô cùng tai hại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Smoking is detrimental to your health.

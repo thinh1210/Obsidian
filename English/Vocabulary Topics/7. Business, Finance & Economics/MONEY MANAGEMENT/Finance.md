@@ -2,8 +2,10 @@
 *Noun/Verb*
 > /ˈfaɪnæns/
 
+![[finance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (n) The management of large amounts of money; (v) to provide funding for a person or enterprise.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `personal finance`: tài chính cá nhân
 - `finance a project`: cấp vốn cho một dự án
+- `finance a purchase`: vay vốn để tài trợ cho việc mua sắm
+- `financial literacy`: kiến thức hiểu biết về quản lý tài chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Understanding personal finance is essential for achieving early retirement.

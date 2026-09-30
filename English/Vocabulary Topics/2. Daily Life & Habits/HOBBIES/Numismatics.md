@@ -2,8 +2,10 @@
 *noun*
 > /ˌnjuːmɪzˈmætɪks/
 
+![[numismatics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study or collection of coins, paper money, and medals.

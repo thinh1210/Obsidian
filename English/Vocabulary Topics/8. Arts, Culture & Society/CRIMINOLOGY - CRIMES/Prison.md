@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɪzn/
 
+![[prison.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building where criminals are kept as a punishment
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to prison`: đi tù
 - `send someone to prison`: tống ai vào tù
+- `maximum-security prison`: nhà tù được áp dụng an ninh cấp độ tối đa
+- `prison overcrowding`: tình trạng các trại giam bị quá tải phạm nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bank robber was sent to prison for ten years.

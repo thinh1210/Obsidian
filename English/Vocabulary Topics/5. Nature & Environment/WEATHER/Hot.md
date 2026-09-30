@@ -2,8 +2,10 @@
 *adj.*
 > /hɒt/
 
+![[hot.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a high temperature
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hot weather`: thời tiết nóng bức
+- `piping hot`: nóng hổi vừa thổi vừa ăn
+- `hot topic`: chủ đề nóng hổi / đề tài thời sự được quan tâm
+- `hot on the heels of`: bám sát nút gót chân ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is too hot to play outside today.

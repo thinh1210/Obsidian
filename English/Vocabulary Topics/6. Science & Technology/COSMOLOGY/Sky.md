@@ -2,8 +2,10 @@
 *Noun*
 > /skaɪ/
 
+![[sky.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The region of the atmosphere and outer space seen from the earth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clear sky`: bầu trời trong xanh
 - `night sky`: bầu trời đêm
+- `dark night sky`: bầu trời đêm tối
+- `northern sky`: bầu trời phương bắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sky is blue today.

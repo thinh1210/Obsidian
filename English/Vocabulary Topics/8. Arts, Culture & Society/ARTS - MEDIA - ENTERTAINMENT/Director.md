@@ -2,8 +2,10 @@
 *n.*
 > /daɪˈrektə(r)/
 
+![[director.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who supervises the actors, camera crew, and other staff for a movie, play, television program, or opera.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `film director`: đạo diễn phim
 - `artistic director`: giám đốc nghệ thuật
+- `stage director`: đạo diễn sân khấu kịch
+- `assistant director`: trợ lý đạo diễn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to become a film director.

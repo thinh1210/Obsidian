@@ -2,8 +2,10 @@
 *adj*
 > /ˈkwɒn.təm/
 
+![[quantum.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Science/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C2 | **Ngữ cảnh:** Science/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to quantum mechanics (very small particles) or representing a huge leap.

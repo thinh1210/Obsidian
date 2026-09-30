@@ -2,8 +2,10 @@
 *n.*
 > /ˈpeɪ.tənt/ or /ˈpæt.ənt/
 
+![[patent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official right to be the only person to make, use, or sell a new invention
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `file a patent`: nộp đơn đăng ký bằng sáng chế
 - `patent infringement`: sự vi phạm bằng sáng chế
+- `patent application`: hồ sơ xin cấp bằng độc quyền
+- `patent pending`: đang chờ xét duyệt cấp bằng sáng chế
+- `patent holder`: người nắm giữ bằng sáng chế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He holds the patent for the safety lock.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈpedəɡɒdʒi/
 
+![[pedagogy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The method and practice of teaching, especially as an academic subject
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modern pedagogy`: phương pháp sư phạm hiện đại
 - `pedagogy theories`: các lý thuyết sư phạm
+- `critical pedagogy`: phương pháp sư phạm mang tính chất phản biện
+- `innovative pedagogy`: phương pháp dạy học đổi mới sáng tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Teachers must keep up with changes in modern pedagogy.

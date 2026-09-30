@@ -2,8 +2,10 @@
 *noun*
 > /ˌælɡərɪðəmaɪˈzeɪʃn/
 
+![[algorithmization.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of reducing human behavior and social interactions into algorithmic patterns
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `algorithmization of society`: sự thuật toán hóa xã hội
+- `algorithmization of daily life`: sự thuật toán hóa đời sống hàng ngày
+- `rapid algorithmization`: sự thuật toán hóa diễn ra nhanh chóng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The algorithmization of our social feeds means we only see what robots think we want.

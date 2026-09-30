@@ -2,8 +2,10 @@
 *adjective*
 > /dɑːk/
 
+![[dark.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** With little or no light.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dark sky`: bầu trời tối
 - `dark matter`: vật chất tối
+- `dark energy`: năng lượng tối
+- `dark nebulae`: tinh vân tối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It gets dark very early during the winter.

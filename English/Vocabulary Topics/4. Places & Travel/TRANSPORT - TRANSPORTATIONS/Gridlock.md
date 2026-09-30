@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡrɪdlɑːk/
 
+![[gridlock.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traffic jam affecting a whole network of intersecting streets.
@@ -16,6 +18,7 @@
 - `complete gridlock`: tình trạng tắc nghẽn hoàn toàn
 - `cause gridlock`: gây ra sự kẹt cứng giao thông
 - `break the gridlock`: giải tỏa kẹt xe
+- `total gridlock`: tình trạng tê liệt giao thông hoàn toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The accident on the bridge caused a complete gridlock during rush hour.

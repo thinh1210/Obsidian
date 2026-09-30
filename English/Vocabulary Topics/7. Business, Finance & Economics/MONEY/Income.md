@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.kʌm/
 
+![[income.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money received, especially on a regular basis, for work or through investments
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `annual income`: thu nhập hàng năm
+- `disposable income`: thu nhập thực tế còn lại sau thuế
+- `supplement one's income`: kiếm thêm thu nhập phụ
+- `low-income household`: hộ gia đình có thu nhập thấp
+- `generate income`: tạo ra nguồn thu nhập đều đặn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many families struggle because of low household income.

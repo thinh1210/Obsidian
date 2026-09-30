@@ -2,8 +2,10 @@
 *v.*
 > /ɪˈvæljueɪt/
 
+![[evaluate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To assess the value, quality, or significance of someone or something
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `evaluate performance`: đánh giá hiệu suất
 - `evaluate effectiveness`: đánh giá tính hiệu quả
+- `evaluate student progress`: đánh giá tiến bộ năng lực học sinh
+- `critically evaluate`: đánh giá nhận xét dưới góc nhìn phản biện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The teacher will evaluate your presentation.

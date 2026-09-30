@@ -2,8 +2,10 @@
 *verb*
 > /bɪld/
 
+![[build.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To construct something by putting parts or materials together.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build a house`: xây nhà
 - `build a career`: xây dựng sự nghiệp
+- `build infrastructure`: xây dựng cơ sở hạ tầng
+- `build from scratch`: xây dựng từ con số không
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children love to build sandcastles on the beach during summer.

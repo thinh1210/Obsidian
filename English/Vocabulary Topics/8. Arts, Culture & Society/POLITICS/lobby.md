@@ -2,8 +2,10 @@
 *verb*
 > /ˈlɑːbi/
 
+![[lobby.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To seek to influence a politician or public official on an issue.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lobby for a bill`: vận động hành lang cho một dự luật
 - `lobby group`: nhóm vận động hành lang
+- `lobby against regulations`: vận động hành lang chống lại các quy định
+- `powerful lobby`: nhóm vận động hành lang đầy thế lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Environmental groups are lobbying the government to pass cleaner energy laws.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈbaʊndri/
 
+![[boundary.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line that marks the limits of an area; a dividing line.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Push the boundaries`: Vượt qua giới hạn
+- `national boundary`: ranh giới quốc gia
+- `mark the boundary`: đánh dấu ranh giới
+- `disputed boundary`: ranh giới tranh chấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The river forms a natural boundary.

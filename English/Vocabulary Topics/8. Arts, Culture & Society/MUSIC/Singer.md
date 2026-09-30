@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪŋ.ər/
 
+![[singer.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sings, especially professionally.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lead singer`: ca sĩ chính
 - `professional singer`: ca sĩ chuyên nghiệp
+- `singer-songwriter`: ca sĩ kiêm nhạc sĩ
+- `opera singer`: ca sĩ nhạc thính phòng / opera
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to be a famous singer one day.

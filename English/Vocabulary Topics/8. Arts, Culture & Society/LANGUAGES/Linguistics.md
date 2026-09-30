@@ -2,8 +2,10 @@
 *n.*
 > /lɪŋˈɡwɪstɪks/
 
+![[linguistics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of language and its structure
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `applied linguistics`: ngôn ngữ học ứng dụng
+- `computational linguistics`: ngôn ngữ học tính toán
+- `historical linguistics`: ngôn ngữ học lịch sử
+- `study of linguistics`: việc nghiên cứu ngôn ngữ học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a degree in linguistics.

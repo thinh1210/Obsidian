@@ -2,8 +2,10 @@
 *n.*
 > /ˈkʌvənənt/
 
+![[covenant.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Thủ tục pháp lý, Chuyển quyền & Khế ước đất đai
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An agreement, contract, or written promise between two or more parties, especially for the performance of some action.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `restrictive covenant`: điều khoản ràng buộc hạn chế
 - `breach a covenant`: vi phạm cam kết pháp lý
+- `covenant of quiet enjoyment`: cam kết đảm bảo quyền hưởng dụng yên tĩnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The neighborhood has a restrictive covenant that prevents homeowners from painting their houses in neon colors.

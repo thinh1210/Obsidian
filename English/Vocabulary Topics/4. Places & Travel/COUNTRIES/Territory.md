@@ -2,8 +2,10 @@
 *Noun*
 > /ˈterətɔːri/
 
+![[territory.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land under the jurisdiction of a ruler or state.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Overseas territory`: Lãnh thổ hải ngoại
+- `disputed territory`: vùng lãnh thổ tranh chấp
+- `sovereign territory`: lãnh thổ thuộc chủ quyền
+- `invade the territory`: xâm chiếm lãnh thổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They defended their territory bravely.

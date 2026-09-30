@@ -2,8 +2,10 @@
 *adjective*
 > /məˈlɪʃ.əs/
 
+![[malicious.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** B2 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intended to harm or upset other people or computer systems.

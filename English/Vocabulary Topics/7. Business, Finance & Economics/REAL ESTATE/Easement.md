@@ -2,8 +2,10 @@
 *n.*
 > /ˈiːzmənt/
 
+![[easement.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Thủ tục pháp lý, Chuyển quyền & Khế ước đất đai
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A right to cross or otherwise use someone else's land for a specified purpose.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grant an easement`: cấp quyền sử dụng hạn chế đất liền kề
 - `utility easement`: quyền sử dụng đất cho công trình công cộng
+- `right of way easement`: quyền ưu tiên lối đi qua đất liền kề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The neighbor has an easement allowing them to use our driveway to reach their garage.

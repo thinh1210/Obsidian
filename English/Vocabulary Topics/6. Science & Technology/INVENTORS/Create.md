@@ -2,8 +2,10 @@
 *v.*
 > /kriˈeɪt/
 
+![[create.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something new, or to cause something to exist
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `create an account`: tạo một tài khoản
 - `create a design`: tạo ra một thiết kế
+- `create opportunities`: tạo ra các cơ hội phát triển
+- `create wealth`: kiến tạo của cải vật chất
+- `create an impression`: gây dựng ấn tượng sâu đậm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Musicians create beautiful melodies.

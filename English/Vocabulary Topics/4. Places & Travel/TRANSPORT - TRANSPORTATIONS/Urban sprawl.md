@@ -2,8 +2,10 @@
 *noun*
 > /ˈɜːrbən sprɔːl/
 
+![[urban_sprawl.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The uncontrolled expansion of urban areas.

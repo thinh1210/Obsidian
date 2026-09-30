@@ -2,8 +2,10 @@
 *v.*
 > /ˈstʌd.i/
 
+![[study.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To spend time learning about a subject
@@ -13,8 +15,10 @@
 💡 Sợ ta đi (study) học muộn nên mẹ gọi dậy sớm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``study abroad`: du học`
-- ``study for an exam`: ôn thi`
+- `study abroad`: du học
+- `study for an exam`: ôn thi
+- `intensive study`: chương trình học tập chuyên sâu tăng cường
+- `study habits`: những thói quen tốt trong học tập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to study for my history test.

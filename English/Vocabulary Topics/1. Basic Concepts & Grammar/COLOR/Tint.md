@@ -2,8 +2,10 @@
 *n, v*
 > /tɪnt/
 
+![[tint.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small amount of color, or to add color to something.

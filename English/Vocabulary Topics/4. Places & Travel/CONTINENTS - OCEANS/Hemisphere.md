@@ -2,8 +2,10 @@
 *noun*
 > /ˈhemɪsfɪə(r)/
 
+![[hemisphere.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A half of the earth, usually as divided into northern and southern halves by the equator.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the Northern Hemisphere`: Bắc bán cầu
+- `Southern Hemisphere`: Nam bán cầu
+- `Western Hemisphere`: Tây bán cầu
+- `across both hemispheres`: trên cả hai bán cầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Australia is in the Southern Hemisphere.

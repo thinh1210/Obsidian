@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑː.kaɪv/
 
+![[archive.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A collection of historical documents or records providing information about a place, institution, or group of people.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical archives`: kho lưu trữ lịch sử
 - `search the archives`: tìm kiếm trong kho lưu trữ
+- `national archives`: kho lưu trữ quốc gia
+- `digital archive`: kho lưu trữ số hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I found these old family photos in the dusty family archive.

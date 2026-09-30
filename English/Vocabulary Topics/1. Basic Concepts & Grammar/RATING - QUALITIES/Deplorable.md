@@ -2,8 +2,10 @@
 *adj*
 > /dɪˈplɔː.rə.bəl/
 
+![[deplorable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Deserving strong condemnation; shockingly bad in quality.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `deplorable conditions`: điều kiện tồi tệ
+- `deplorable conduct`: hành vi đáng lên án
+- `deplorable state of affairs`: tình thế tồi tệ đáng buồn
+- `deplorable lack of`: sự thiếu hụt đáng trách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are living in deplorable conditions.

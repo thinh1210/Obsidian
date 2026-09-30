@@ -2,8 +2,10 @@
 *n.*
 > /liːv/
 
+![[leave.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Time allowed away from work for personal reasons or holiday
@@ -13,7 +15,11 @@
 💡 Xin sếp cho "leave" (nghỉ) để đi mua cái "líp" xe đạp mới
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``sick leave`: nghỉ ốm
+- `sick leave`: nghỉ ốm
+- `maternity leave`: thời gian nghỉ sinh con hưởng chế độ
+- `paid leave`: những ngày nghỉ phép được hưởng nguyên lương
+- `unpaid leave`: xin nghỉ việc tạm thời không nhận lương
+- `compassionate leave`: nghỉ phép vì việc tang ma hoặc gia cảnh đột xuất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is currently on maternity leave.

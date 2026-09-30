@@ -2,8 +2,10 @@
 *noun*
 > /ˈprəʊ.faɪl/
 
+![[profile.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A personal page on a website or app that contains information about a user.

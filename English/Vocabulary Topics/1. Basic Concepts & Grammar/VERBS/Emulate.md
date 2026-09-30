@@ -2,8 +2,10 @@
 *Verb*
 > /ˈem.jə.leɪt/
 
+![[emulate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To copy something achieved by someone else and try to do it as well as they have.
@@ -13,7 +15,10 @@
 💡 Em mua lều (emulate) để bắt chước đi cắm trại.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `emulate success`: noi gương thành công\n- `try to emulate`: cố gắng noi theo
+- `emulate success`: noi gương thành công
+- `try to emulate`: cố gắng noi theo
+- `emulate one's peers`: học hỏi noi gương bạn đồng trang lứa
+- `emulate best practices`: áp dụng học hỏi các thông lệ tốt nhất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I try to emulate him.

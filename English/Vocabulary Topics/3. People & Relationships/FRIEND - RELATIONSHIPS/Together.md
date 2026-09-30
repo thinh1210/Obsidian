@@ -2,8 +2,10 @@
 *adv*
 > /təˈɡeð.ɚ/
 
+![[together.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** With or in proximity to another person or people.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `work together`: làm việc cùng nhau
+- `stick together through thick and thin`: luôn kề vai sát cánh qua mọi khó khăn hoạn nạn
+- `bring people together`: gắn kết mọi người lại gần nhau hơn
+- `spend quality time together`: dành trọn thời gian ý nghĩa bên nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We go to school together.

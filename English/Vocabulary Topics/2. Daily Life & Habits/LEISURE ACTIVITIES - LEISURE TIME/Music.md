@@ -2,8 +2,10 @@
 *n*
 > /ˈmjuːzɪk/
 
+![[music.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony.
@@ -13,7 +15,11 @@
 💡 Music - Miu (mèo) thích nghe nhạc (sic).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `listen to music`: nghe nhạc\n- `pop music`: nhạc pop
+- `listen to music`: nghe nhạc
+- `pop music`: nhạc pop
+- `live music`: biểu diễn âm nhạc sống
+- `background music`: nhạc nền êm dịu
+- `face the music`: can đảm chấp nhận hình phạt / đối mặt hậu quả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love listening to music.

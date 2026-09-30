@@ -2,8 +2,10 @@
 *n*
 > /ˈmedsn/
 
+![[medicine.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance used in treating or preventing disease, or the science of preventing and curing disease.

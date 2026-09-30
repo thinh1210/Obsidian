@@ -2,8 +2,10 @@
 *n.*
 > /ˌæd.əpˈteɪ.ʃən/
 
+![[adaptation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of change by which an organism or species becomes better suited to its environment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `evolutionary adaptation`: sự thích nghi tiến hóa
 - `cultural adaptation`: sự thích nghi văn hóa
+- `adaptive strategy`: chiến lược thích nghi
+- `adaptation to the environment`: sự thích nghi với môi trường sống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The adaptation of the business to the online market was successful.

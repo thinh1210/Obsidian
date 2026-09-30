@@ -2,8 +2,10 @@
 *v*
 > /sɪŋ/
 
+![[sing.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make musical sounds with the voice.
@@ -13,7 +15,11 @@
 💡 Sing - Sinh ra đã thích hát.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `sing a song`: hát một bài\n- `sing karaoke`: hát karaoke
+- `sing a song`: hát một bài
+- `sing karaoke`: hát karaoke
+- `sing in tune`: hát đúng tông, đúng nhạc
+- `sing one's praises`: ca ngợi ai đó hết lời
+- `sing along to`: hát hòa theo điệu nhạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He sings beautifully.

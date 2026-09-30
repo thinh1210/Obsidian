@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈzaɪn/
 
+![[design.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To draw plans which show how something will be made
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `design a website`: thiết kế một trang web
 - `design a product`: thiết kế một sản phẩm
+- `user-centered design`: thiết kế lấy người dùng làm trung tâm
+- `graphic design`: thiết kế đồ họa mỹ thuật
+- `design thinking`: tư duy thiết kế sáng tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She designed her own wedding dress.

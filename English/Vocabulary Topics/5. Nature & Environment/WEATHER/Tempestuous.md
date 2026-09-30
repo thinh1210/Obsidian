@@ -2,8 +2,10 @@
 *adj.*
 > /temˈpestʃuəs/
 
+![[tempestuous.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by strong, turbulent, or stormy weather
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tempestuous seas`: vùng biển đầy giông bão
+- `tempestuous relationship`: mối quan hệ đầy sóng gió và cãi vã
+- `tempestuous debate`: cuộc tranh luận nảy lửa và gay gắt
+- `tempestuous weather`: thời tiết giông tố cuồng phong
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sailors struggled to keep the boat steady in tempestuous waters.

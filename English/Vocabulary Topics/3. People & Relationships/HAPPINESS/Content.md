@@ -2,8 +2,10 @@
 *adj.*
 > /kənˈtent/
 
+![[content.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In a state of peaceful happiness.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `content with`: bằng lòng với
+- `content with one's lot`: bằng lòng với số phận hiện tại
+- `peaceful and content`: bình yên và mãn nguyện
+- `content heart`: tâm hồn thanh thản thảnh thơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is content with his life.

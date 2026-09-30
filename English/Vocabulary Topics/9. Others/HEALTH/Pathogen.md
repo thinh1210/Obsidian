@@ -2,8 +2,10 @@
 *n*
 > /ˈpæθədʒən/
 
+![[pathogen.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bacterium, virus, or other microorganism that can cause disease.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɑː.kɪt/
 
+![[pocket.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small bag sewn into or on clothing for carrying small items.
@@ -13,7 +15,10 @@
 💡 Pocket -> Bóc kịt -> Bóc kịt tiền trong túi áo.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `empty your pockets: dốc sạch túi`
+- `empty your pockets`: dốc sạch túi
+- `deep pockets`: túi áo/quần sâu (hoặc nguồn tài chính dồi dào)
+- `out of pocket`: tự bỏ tiền túi chi trả
+- `inside pocket`: túi áo ngực bên trong
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He kept his hands in his pockets.

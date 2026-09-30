@@ -2,8 +2,10 @@
 *Noun*
 > /ˈmɪʃ.ən/
 
+![[mission.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** COSMOLOGY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An important assignment, typically involving travel into space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `space mission`: nhiệm vụ vũ trụ
 - `manned mission`: sứ mệnh có người lái
+- `Apollo mission`: sứ mệnh Apollo
+- `reconnaissance mission`: nhiệm vụ thám sát / trinh sát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My mission today is to clean the whole house.

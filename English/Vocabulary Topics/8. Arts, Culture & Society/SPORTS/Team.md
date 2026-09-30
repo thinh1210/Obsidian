@@ -2,8 +2,10 @@
 *n.*
 > /tiːm/
 
+![[team.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of players forming one side in a competitive game or sport.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `team player`: người làm việc nhóm tốt
 - `join a team`: gia nhập một đội
+- `team spirit`: tinh thần đồng đội
+- `home team`: đội bóng chủ nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Which football team do you support?

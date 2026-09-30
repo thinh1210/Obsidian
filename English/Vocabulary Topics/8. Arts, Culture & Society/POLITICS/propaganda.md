@@ -2,8 +2,10 @@
 *noun*
 > /ˌprɑːpəˈɡændə/
 
+![[propaganda.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political propaganda`: tuyên truyền chính trị
 - `government propaganda`: tuyên truyền của chính phủ
+- `spread false propaganda`: lan truyền luận điệu tuyên truyền giả mạo
+- `propaganda machine`: cỗ máy tuyên truyền bộ máy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* During the election, both sides spread propaganda on social media.

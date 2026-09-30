@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈsɔːr.dɚ/
 
+![[disorder.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An illness that disrupts normal physical or mental functions.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mental disorder`: rối loạn tâm thần
+- `bipolar disorder`: rối loạn lưỡng cực
+- `personality disorder`: rối loạn nhân cách
+- `eating disorder`: rối loạn ăn uống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has a sleeping disorder.

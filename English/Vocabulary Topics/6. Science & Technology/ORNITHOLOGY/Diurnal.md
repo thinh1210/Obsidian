@@ -2,8 +2,10 @@
 *adjective*
 > /daɪˈɜː.nəl/
 
+![[diurnal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Active, done, or happening during the day.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `diurnal bird`: chim hoạt động ban ngày
 - `diurnal activity`: hoạt động ban ngày
+- `diurnal rhythm`: nhịp sinh học ngày đêm
+- `diurnal raptors`: chim săn mồi ban ngày (như đại bàng)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Most birds are diurnal, sleeping through the night.

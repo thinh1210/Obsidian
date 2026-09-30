@@ -2,8 +2,10 @@
 *noun / verb*
 > /ˈsʌs.pekt/ (n), /səˈspekt/ (v)
 
+![[suspect.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person thought to be guilty of a crime; to believe something is likely.

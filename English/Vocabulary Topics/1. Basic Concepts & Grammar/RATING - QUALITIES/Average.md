@@ -2,8 +2,10 @@
 *adj*
 > /ˈæv.ər.ɪdʒ/
 
+![[average.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of the usual or ordinary standard, level, or quantity.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `average height`: chiều cao trung bình
+- `above average`: trên mức trung bình
+- `below average`: dưới mức trung bình
+- `on average`: trung bình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is of average height.

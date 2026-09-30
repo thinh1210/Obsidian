@@ -2,8 +2,10 @@
 *v.*
 > /ˈlɪsn/
 
+![[listen.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give one's attention to sound or action
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `listen to music`: nghe nhạc
+- `listen attentively`: chăm chú lắng nghe
+- `listen closely`: lắng nghe kỹ lưỡng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She loves to listen to the radio.

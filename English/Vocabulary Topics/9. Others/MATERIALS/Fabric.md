@@ -2,8 +2,10 @@
 *noun.*
 > /ˈfæbrɪk/
 
+![[fabric.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cloth or other material produced by weaving together cotton, nylon, wool, silk, or other threads.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cotton fabric`: vải cotton
 - `social fabric`: cấu trúc xã hội
+- `fabric of society`: kết cấu nền tảng của xã hội (idiom)
+- `waterproof fabric`: vải dệt chống thấm nước
+- `synthetic fabric`: vải sợi tổng hợp nhân tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She chose a soft cotton fabric for the baby's blanket.

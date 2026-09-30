@@ -2,8 +2,10 @@
 *n.*
 > /fəˈsɪləti/
 
+![[facility.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place, amenity, or piece of equipment provided for a particular purpose.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `public facilities`: cơ sở vật chất công cộng
+- `sports facility`: cơ sở tập luyện thể thao
+- `healthcare facility`: cơ sở dịch vụ y tế
+- `state-of-the-art facility`: cơ sở vật chất hiện đại tối tân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The town has great sports facilities.

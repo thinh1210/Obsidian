@@ -2,8 +2,10 @@
 *n./adv.*
 > /təˈmɒrəʊ/
 
+![[tomorrow.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The day after today
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `see you tomorrow`: hẹn gặp ngày mai
+- `better tomorrow`: tương lai ngày mai tươi sáng hơn
+- `tomorrow never comes`: ngày mai sẽ chẳng bao giờ đến nếu cứ trì hoãn
+- `tomorrow morning`: sáng ngày mai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I will go tomorrow.

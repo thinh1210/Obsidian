@@ -2,8 +2,10 @@
 *noun*
 > /ˈkriː.tʃər/
 
+![[creature.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ANIMALS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal, as distinct from a human being; a living thing.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `living creature`: sinh vật sống
 - `mythical creature`: sinh vật huyền thoại
+- `creature of habit`: người sống theo thói quen cố định
+- `sea creature`: sinh vật biển
+- `fascinating creature`: sinh vật kỳ thú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Deep sea exploration has revealed strange creatures that live in total darkness.

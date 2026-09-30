@@ -2,8 +2,10 @@
 *noun*
 > /ˈrevənuː/
 
+![[revenue.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the total amount of money received by a company or organization from its activities, especially sales.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `generate revenue`: tạo ra doanh thu
 - `annual revenue`: doanh thu hàng năm
+- `gross revenue`: tổng doanh thu gộp
+- `revenue stream`: dòng tiền thu về / nguồn thu
+- `boost revenue`: gia tăng doanh số và doanh thu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The school's charity run generated $5,000 in revenue.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɔː.nɪŋ/
 
+![[warning.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that makes you understand there is a danger or problem.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `storm warning`: cảnh báo bão
 - `without warning`: không có cảnh báo trước
+- `heed a warning`: lắng nghe và chú ý đến lời cảnh báo
+- `early warning system`: hệ thống cảnh báo sớm
+- `issue an evacuation warning`: phát lệnh cảnh báo sơ tán người dân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government issued a tsunami warning after the earthquake.

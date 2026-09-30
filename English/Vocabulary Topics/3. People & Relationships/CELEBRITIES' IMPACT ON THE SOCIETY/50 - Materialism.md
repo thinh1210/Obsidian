@@ -2,8 +2,10 @@
 *n.*
 > /məˈtɪə.ri.ə.lɪ.zəm/
 
+![[materialism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tendency to consider material possessions and physical comfort as more important than spiritual values.
@@ -13,7 +15,10 @@
 💡 Material + ism
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Promote materialism: Khuyến khích lối sống vật chất`
+- `Promote materialism`: Khuyến khích lối sống vật chất
+- `consumer materialism`: chủ nghĩa tiêu dùng vật chất
+- `obsessed with materialism`: ám ảnh bởi lối sống thực dụng
+- `rise of materialism`: sự gia tăng của chủ nghĩa vật chất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Culture of materialism.

@@ -2,8 +2,10 @@
 *noun*
 > /trʌst/
 
+![[trust.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Firm belief in the reliability, truth, ability, or strength of someone or something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `consumer trust`: lòng tin của người tiêu dùng
 - `gain trust`: giành được lòng tin
+- `build trust`: xây đắp niềm tin
+- `betray trust`: phụ lại lòng tin
+- `trustworthy brand`: thương hiệu đáng tin cậy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A relationship is built on mutual trust.

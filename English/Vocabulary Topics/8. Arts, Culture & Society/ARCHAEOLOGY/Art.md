@@ -2,8 +2,10 @@
 *noun*
 > /ɑːt/
 
+![[art.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expression or application of human creative skill and imagination, typically in a visual form
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient art`: ngệ thuật cổ đại
 - `cave art`: nghệ thuật hang động
+- `rock art`: nghệ thuật chạm khắc đá
+- `figurative art`: nghệ thuật tạo hình / tượng hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is studying art and design at college.

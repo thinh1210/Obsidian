@@ -2,8 +2,10 @@
 *adj.*
 > /ɪˈrætɪk/
 
+![[erratic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not even or regular in pattern or movement; unpredictable.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `erratic behavior`: hành vi thất thường
+- `erratic schedule`: lịch sinh hoạt thất thường, không cố định
+- `erratic sleep patterns`: giấc ngủ chập chờn, thất thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His sleep schedule is very erratic.

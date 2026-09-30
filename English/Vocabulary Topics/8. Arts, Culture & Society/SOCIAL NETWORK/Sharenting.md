@@ -2,8 +2,10 @@
 *noun*
 > /ˈʃeərəntɪŋ/
 
+![[sharenting.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of parents sharing detailed information and photos of their children on social media
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `danger of sharenting`: mối nguy hiểm từ việc cha mẹ chia sẻ ảnh con cái lên mạng
+- `dangers of sharenting`: những hiểm họa khôn lường khi cha mẹ khoe con trên mạng
+- `curb sharenting`: hạn chế đăng tải hình ảnh đời tư con cái lên mạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sharenting might seem harmless, but it can compromise a child's future privacy.

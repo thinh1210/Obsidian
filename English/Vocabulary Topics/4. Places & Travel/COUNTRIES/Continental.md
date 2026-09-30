@@ -2,8 +2,10 @@
 *Adjective*
 > /ˌkɑːntɪˈnentl/
 
+![[continental.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Forming or belonging to a continent.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Continental breakfast`: Bữa sáng kiểu lục địa
+- `continental shelf`: thềm lục địa
+- `continental divide`: đường phân chia lục địa
+- `continental drift`: sự trôi dạt lục địa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They served a continental breakfast at the hotel.

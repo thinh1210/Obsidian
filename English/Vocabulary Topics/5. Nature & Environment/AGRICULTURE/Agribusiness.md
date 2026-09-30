@@ -2,8 +2,10 @@
 *n.*
 > /ˈæɡ.rɪˌbɪz.nɪs/
 
+![[agribusiness.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** AGRICULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Agriculture conducted on commercial principles, especially using advanced technology.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `global agribusiness`: kinh doanh nông nghiệp toàn cầu
 - `agribusiness giants`: các tập đoàn nông nghiệp lớn
+- `agribusiness sector`: lĩnh vực kinh doanh nông nghiệp
+- `agribusiness conglomerate`: tập đoàn nông nghiệp tổng hợp
+- `commercial agribusiness`: nông nghiệp thương mại quy mô lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She pursued a career in agribusiness after studying agricultural science.

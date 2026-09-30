@@ -2,8 +2,10 @@
 *noun*
 > /ˈfæsɪneɪtə(r)/
 
+![[fascinator.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A decorative headpiece attached to a hair clip, comb, or headband, typically worn at formal events.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wear a fascinator`: đội phụ kiện trang trí tóc
+- `feathered fascinator`: mũ đính lông vũ dự tiệc quý tộc
+- `elaborate fascinator`: phụ kiện cài tóc cầu kỳ
+- `royal wedding fascinator`: mũ tiệc cưới hoàng gia Anh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She chose a feathered fascinator for the wedding.

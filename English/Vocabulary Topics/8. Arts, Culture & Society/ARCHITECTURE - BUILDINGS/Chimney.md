@@ -2,8 +2,10 @@
 *n.*
 > /ˈtʃɪmni/
 
+![[chimney.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A vertical pipe that conducts smoke and combustion gases up from a fire
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brick chimney`: ống khói gạch
 - `smoke chimney`: ống khói xả khói
+- `chimney stack`: cụm ống khói
+- `sweep the chimney`: quét dọn vệ sinh ống khói
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Smoke rose from the chimney of the cottage.

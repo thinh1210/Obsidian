@@ -2,8 +2,10 @@
 *noun*
 > /ˌrɛnəˈveɪʃən/
 
+![[renovation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of restoring a building to a good state of repair.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `undergo renovation`: đang được cải tạo
 - `extensive renovation`: cải tạo quy mô lớn
+- `home renovation`: sửa sang tu bổ nhà cửa
+- `complete a renovation`: hoàn tất đợt sửa chữa cải tạo
+- `renovation project`: dự án trùng tu cải tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum is closed for renovation.

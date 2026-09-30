@@ -2,8 +2,10 @@
 *n.*
 > /ˌmʌltiˈlɪŋɡwəlɪzəm/
 
+![[multilingualism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The use of more than one language, either by an individual speaker or by a community
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `promote multilingualism`: thúc đẩy sự đa ngôn ngữ
+- `foster multilingualism`: khuyến khích môi trường đa ngữ
+- `benefits of multilingualism`: lợi ích của việc biết nhiều thứ tiếng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Growing up in Switzerland, she experienced multilingualism firsthand.

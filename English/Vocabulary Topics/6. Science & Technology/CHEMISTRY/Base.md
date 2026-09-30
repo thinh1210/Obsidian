@@ -2,8 +2,10 @@
 *noun*
 > /beɪs/
 
+![[base.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that can accept hydrogen ions or donate a pair of valence electrons, having a pH greater than 7.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strong base`: bazơ mạnh
 - `acid-base reaction`: phản ứng axit-bazơ
+- `weak base`: bazơ yếu
+- `conjugate base`: bazơ liên hợp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Soap is a mild base, which is why it feels slippery.

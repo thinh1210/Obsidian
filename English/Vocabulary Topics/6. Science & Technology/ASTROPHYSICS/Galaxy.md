@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡæl.ək.si/
 
+![[galaxy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large system of stars, gas, and dust held together by gravity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Milky Way galaxy`: thiên hà Ngân Hà
 - `spiral galaxy`: thiên hà xoắn ốc
+- `elliptical galaxy`: thiên hà hình elip
+- `galaxy cluster`: cụm thiên hà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We can see the Milky Way galaxy on a clear night.

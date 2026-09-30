@@ -2,8 +2,10 @@
 *v.*
 > /peɪ/
 
+![[pay.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give money to someone for something you can buy or for work they have done

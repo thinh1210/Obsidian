@@ -2,8 +2,10 @@
 *n.*
 > /ˌbenɪˈfɪʃieri/
 
+![[beneficiary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who derives advantage from something, especially a trust, will, or insurance policy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `designated beneficiary`: người thụ hưởng được chỉ định
 - `sole beneficiary`: người thụ hưởng duy nhất
+- `contingent beneficiary`: người thụ hưởng kế tiếp dự phòng
+- `primary beneficiary`: người thụ hưởng ưu tiên thứ nhất
+- `name a beneficiary`: chỉ định đích danh người thụ hưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He named his wife as the primary beneficiary of his life insurance.

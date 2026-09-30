@@ -2,8 +2,10 @@
 *n*
 > /bjʊəˈrɒk.rə.si/
 
+![[bureaucracy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of complex official rules and processes run by many departments.

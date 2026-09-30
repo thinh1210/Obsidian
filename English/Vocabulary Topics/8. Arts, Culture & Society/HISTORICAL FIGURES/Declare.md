@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈkleə(r)/
 
+![[declare.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say something in a solemn and emphatic manner
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `declare independence`: tuyên ngôn độc lập
 - `declare war`: tuyên chiến
+- `declare bankruptcy`: tuyên bố phá sản
+- `declare a state of emergency`: tuyên bố tình trạng khẩn cấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The couple declared their love for each other.

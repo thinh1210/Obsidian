@@ -2,8 +2,10 @@
 *n.*
 > /ˌɪn.təˈsek.ʃən/
 
+![[intersection.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point or line common to lines or surfaces that intersect.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A busy intersection`: Ngã tư đông đúc
 - `At the intersection`: Tại ngã tư/giao điểm
+- `intersection of technology and art`: sự giao thoa giữa công nghệ và nghệ thuật
+- `controlled intersection`: ngã tư có đèn tín hiệu điều khiển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Turn left at the next intersection.

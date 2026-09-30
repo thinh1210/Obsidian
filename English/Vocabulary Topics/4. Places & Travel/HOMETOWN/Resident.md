@@ -2,8 +2,10 @@
 *n.*
 > /ˈrezɪdənt/
 
+![[resident.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who lives somewhere permanently or on a long-term basis.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local resident`: cư dân địa phương
+- `permanent resident`: thường trú nhân
+- `local residents`: người dân bản địa địa phương
+- `foreign resident`: cư dân người nước ngoài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The residents are very friendly.

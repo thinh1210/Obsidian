@@ -2,8 +2,10 @@
 *n., adj.*
 > /ɪˈlek.tɪv/
 
+![[elective.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A course that students can choose to study but are not required to take.

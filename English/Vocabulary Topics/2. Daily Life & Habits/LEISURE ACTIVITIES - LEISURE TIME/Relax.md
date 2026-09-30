@@ -2,8 +2,10 @@
 *v*
 > /rɪˈlæks/
 
+![[relax.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Rest and feel less tense or anxious.
@@ -13,7 +15,11 @@
 💡 Re (lại) + lax (lắc) -> lắc lư để thư giãn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `relax at home`: thư giãn ở nhà\n- `relax your mind`: thư giãn tâm trí
+- `relax at home`: thư giãn ở nhà
+- `relax your mind`: thư giãn tâm trí
+- `relax and unwind`: thư giãn và xả hơi hoàn toàn
+- `relaxed atmosphere`: bầu không khí thư thái, dễ chịu
+- `kick back and relax`: ngả lưng nghỉ ngơi thư giãn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I just want to relax this weekend.

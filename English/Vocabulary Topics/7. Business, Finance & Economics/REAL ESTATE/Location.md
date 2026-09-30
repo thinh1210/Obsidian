@@ -2,8 +2,10 @@
 *n.*
 > /ləʊˈkeɪʃn/
 
+![[location.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A particular place or position.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prime location`: vị trí đắc địa
 - `convenient location`: vị trí thuận tiện
+- `strategic location`: vị trí mang tính chiến lược
+- `desirable location`: địa điểm lý tưởng được nhiều người săn đón
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The apartment is in a convenient location near public transport.

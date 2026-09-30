@@ -2,8 +2,10 @@
 *verb*
 > /ɪˈlekt/
 
+![[elect.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To choose someone for a position or office by voting.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `elect a leader`: bầu chọn một nhà lãnh đạo
 - `democratically elected`: được bầu chọn một cách dân chủ
+- `elect to office`: bầu vào vị trí công quyền
+- `re-elected for another term`: tái đắc cử thêm một nhiệm kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The committee will elect a new chairperson tomorrow.

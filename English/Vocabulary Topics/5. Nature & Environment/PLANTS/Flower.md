@@ -2,8 +2,10 @@
 *noun*
 > /ˈflaʊər/
 
+![[flower.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The colored part of a plant from which the seed or fruit develops.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fresh flowers`: hoa tươi
 - `a bunch of flowers`: một bó hoa
+- `flower arrangement`: nghệ thuật cắm hoa
+- `in the flower of youth`: ở độ tuổi thanh xuân rực rỡ nhất
+- `cut flowers`: hoa cắt cành cắm lọ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She put a fresh flower in her hair.

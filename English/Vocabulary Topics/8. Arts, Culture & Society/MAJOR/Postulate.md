@@ -2,8 +2,10 @@
 *v., n.*
 > /ˈpɒs.tʃʊ.leɪt/
 
+![[postulate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To suggest or assume a theory as a basis for reasoning; a fundamental assumption accepted without proof.

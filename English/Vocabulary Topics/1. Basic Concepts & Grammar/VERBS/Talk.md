@@ -2,8 +2,10 @@
 *Verb*
 > /tɔːk/
 
+![[talk.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say things to someone.
@@ -13,7 +15,10 @@
 💡 Tóc (talk) bay khi nói chuyện.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `talk about`: nói về\n- `talk over`: thảo luận
+- `talk about`: nói về
+- `talk over`: thảo luận
+- `talk business`: bàn chuyện làm ăn
+- `talk someone into doing`: thuyết phục ai làm điều gì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We talk a lot.

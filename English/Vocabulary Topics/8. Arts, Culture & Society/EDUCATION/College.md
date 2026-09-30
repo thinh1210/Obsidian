@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɒlɪdʒ/
 
+![[college.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An educational institution providing higher education or specialized training
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `attend college`: học đại học
 - `college degree`: bằng đại học
+- `community college`: trường cao đẳng cộng đồng
+- `drop out of college`: bỏ dở con đường đại học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to go to college after high school.

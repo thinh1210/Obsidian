@@ -2,8 +2,10 @@
 *v, n*
 > /ˈeksəsaɪz/
 
+![[exercise.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Activity requiring physical effort, carried out to sustain or improve health and fitness.

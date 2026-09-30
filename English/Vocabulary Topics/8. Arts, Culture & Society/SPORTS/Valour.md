@@ -2,8 +2,10 @@
 *n.*
 > /ˈvæl.ər/
 
+![[valour.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great courage in the face of danger, especially in battle.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `show valour`: thể hiện lòng dũng cảm
 - `medal of valour`: huy chương quả cảm
+- `act of valour`: hành vi quả cảm
+- `display exceptional valour`: thể hiện lòng dũng cảm kiệt xuất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The injured athlete showed true valour by finishing the race despite the pain.

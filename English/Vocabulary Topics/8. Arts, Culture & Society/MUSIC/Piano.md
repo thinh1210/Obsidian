@@ -2,8 +2,10 @@
 *n.*
 > /piˈæn.əʊ/
 
+![[piano.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large keyboard musical instrument with wooden hammers that strike metal strings.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `play the piano`: chơi đàn piano
 - `piano lessons`: các buổi học piano
+- `grand piano`: đại dương cầm
+- `piano accompaniment`: phần đệm đàn piano
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My sister practices playing the piano every evening.

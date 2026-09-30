@@ -2,8 +2,10 @@
 *noun/verb*
 > /dɪˈzaɪn/
 
+![[design.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To decide upon the look and functioning of a building, garment, or other object.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `graphic design`: thiết kế đồ họa
 - `system design`: thiết kế hệ thống
+- `computer-aided design (CAD)`: thiết kế có máy tính hỗ trợ
+- `design specifications`: các thông số kỹ thuật thiết kế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She went to school to study fashion design and hopes to launch her own brand.

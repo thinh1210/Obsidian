@@ -2,8 +2,10 @@
 *noun*
 > /ænˈtiːk/
 
+![[antique.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A collectible object that has a high value.
@@ -13,7 +15,10 @@
 💡 Ăn (An) tiệc (tique) bằng đồ cổ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `antique jewelry: trang sức cổ`
+- `antique jewelry`: trang sức cổ
+- `antique brooch`: trâm cài cổ xưa
+- `antique market`: chợ đồ cổ
+- `genuine antique`: món đồ cổ chính hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She collects antiques.

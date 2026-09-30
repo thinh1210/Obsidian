@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfriːzɪŋ/
 
+![[freezing.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Below 0°C; very cold
@@ -13,7 +15,10 @@
 💡 Free (tủ lạnh) zing (run) -> lạnh cóng
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``freezing cold`: lạnh buốt`
+- `freezing cold`: lạnh buốt
+- `freezing point`: điểm đóng băng
+- `absolutely freezing`: lạnh buốt xương
+- `freeze in one's tracks`: đứng chết trân / khựng lại ngay lập tức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am freezing.

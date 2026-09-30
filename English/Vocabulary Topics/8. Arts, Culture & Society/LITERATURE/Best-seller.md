@@ -2,8 +2,10 @@
 *noun*
 > /ˌbestˈsel.ər/
 
+![[best_seller.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE
+**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A book or other product that sells in very large numbers.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈsketʃ.ɪŋ/
 
+![[sketching.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of making a simple, quickly-made drawing that does not have many details.

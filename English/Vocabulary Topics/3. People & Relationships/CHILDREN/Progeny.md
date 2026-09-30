@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɑː.dʒə.ni/
 
+![[progeny.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A descendant or the descendants of a person, animal, or plant.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `produce progeny`: sinh con
+- `leave progeny`: để lại hậu duệ nối dõi
+- `protect one's progeny`: bảo vệ đàn con hậu duệ
+- `numerous progeny`: đông đúc con cháu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was proud of his progeny.

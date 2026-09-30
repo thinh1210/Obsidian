@@ -2,8 +2,10 @@
 *verb*
 > /pleɪ/
 
+![[play.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Engage in activity for enjoyment and recreation rather than a serious or practical purpose.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `play together`: chơi cùng nhau
+- `play games together`: chơi trò chơi cùng nhau
+- `fair play`: tinh thần công bằng thượng võ
+- `play a supportive role`: đóng vai trò chỗ dựa vững chắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We play football.

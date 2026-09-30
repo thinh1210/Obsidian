@@ -2,8 +2,10 @@
 *v.*
 > /sɪŋ/
 
+![[sing.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make musical sounds with the voice, especially words with a set tune.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sing in a choir`: hát trong dàn đồng ca
 - `sing along`: hát theo
+- `sing out of tune`: hát lạc nhịp sai tông giọng
+- `sing passionately`: hát đầy đam mê nhiệt huyết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He likes to sing in the shower.

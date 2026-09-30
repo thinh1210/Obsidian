@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsʌni/
 
+![[sunny.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Bright with light from the sun
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sunny day`: ngày nắng
+- `sunny disposition`: tính cách vui tươi yêu đời rạng rỡ
+- `sunny side of the street`: góc phố ngập tràn ánh nắng / khía cạnh lạc quan
+- `warm and sunny spells`: những đợt nắng ấm áp chan hòa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is a sunny day today.

@@ -2,8 +2,10 @@
 *n., adj.*
 > /ˌdaɪ.əˈlek.tɪk/
 
+![[dialectic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of investigating or discussing the truth of opinions through logical argument and debate.

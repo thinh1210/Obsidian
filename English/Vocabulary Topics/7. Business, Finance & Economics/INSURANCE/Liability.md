@@ -2,8 +2,10 @@
 *n.*
 > /ˌlaɪəˈbɪləti/
 
+![[liability.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being responsible for something, especially by law.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `liability insurance`: bảo hiểm trách nhiệm pháp lý
 - `admit liability`: thừa nhận trách nhiệm pháp lý
+- `third-party liability`: trách nhiệm bồi thường đối với bên thứ ba
+- `product liability`: trách nhiệm bồi thường thiệt hại do sản phẩm lỗi
+- `limit of liability`: hạn mức tối đa mà bảo hiểm chịu trách nhiệm bồi thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You need liability insurance in case someone gets hurt on your property.

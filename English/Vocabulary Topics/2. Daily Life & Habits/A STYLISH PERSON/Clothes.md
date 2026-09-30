@@ -2,8 +2,10 @@
 *n.*
 > /kloʊðz/
 
+![[clothes.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Items worn to cover the body.
@@ -13,7 +15,11 @@
 💡 Clothes (quần áo) dùng để che (close) cơ thể.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wear clothes`: mặc quần áo\n- `casual clothes`: quần áo thường ngày
+- `wear clothes`: mặc quần áo
+- `casual clothes`: quần áo thường ngày
+- `designer clothes`: quần áo thiết kế hàng hiệu
+- `try on clothes`: thử quần áo
+- `flattering clothes`: quần áo tôn dáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to buy some new clothes.

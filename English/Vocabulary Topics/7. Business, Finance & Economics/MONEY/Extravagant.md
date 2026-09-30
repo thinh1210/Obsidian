@@ -2,8 +2,10 @@
 *adjective*
 > /ɪkˈstræv.ə.ɡənt/
 
+![[extravagant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lacking restraint in spending money or using resources
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `extravagant lifestyle`: lối sống xa hoa
+- `extravagant claims`: những lời tuyên bố phét lác phóng đại
+- `extravagant gift`: món quà xa hoa đắt đỏ
+- `extravagant habits`: thói quen tiêu hoang phí tiền
+- `extravagant praise`: những lời khen ngợi quá mức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was criticized for her extravagant spending habits.

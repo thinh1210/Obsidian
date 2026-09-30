@@ -2,8 +2,10 @@
 *n.*
 > /hʌb/
 
+![[hub.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The central and most important part of a particular place or activity.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commercial hub`: trung tâm thương mại
+- `transport hub`: đầu mối giao thông
+- `tech hub`: trung tâm công nghệ
+- `hub of activity`: trung tâm của mọi hoạt động sôi nổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* London is a financial hub.

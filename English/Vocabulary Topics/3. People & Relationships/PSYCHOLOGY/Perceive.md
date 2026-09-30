@@ -2,8 +2,10 @@
 *verb*
 > /pɚˈsiːv/
 
+![[perceive.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Become aware or conscious of something; come to realize or understand.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `perceive as`: được nhìn nhận như là
+- `perceive danger`: nhận thức được mối hiểm nguy
+- `sensory perception`: tri giác qua các giác quan
+- `perceived threat`: mối đe dọa được cảm nhận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I perceived a change in his tone.

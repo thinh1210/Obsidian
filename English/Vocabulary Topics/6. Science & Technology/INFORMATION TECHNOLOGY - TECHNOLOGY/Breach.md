@@ -2,8 +2,10 @@
 *noun*
 > /briːtʃ/
 
+![[breach.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/News | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Formal/News | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of breaking a rule, law, custom, or agreement, or a failure in a security system.

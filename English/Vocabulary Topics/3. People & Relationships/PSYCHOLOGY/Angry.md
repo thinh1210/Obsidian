@@ -2,8 +2,10 @@
 *adj*
 > /ˈæŋ.ɡri/
 
+![[angry.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a strong feeling of or showing annoyance, displeasure, or hostility.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `get angry`: trở nên tức giận
+- `angry outburst`: cơn bùng nổ giận dữ
+- `spark angry reactions`: làm bùng lên những phản ứng tức giận
+- `make someone angry`: khiến ai đó nổi trận lôi đình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was very angry.

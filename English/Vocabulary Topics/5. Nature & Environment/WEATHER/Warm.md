@@ -2,8 +2,10 @@
 *adj.*
 > /wɔːm/
 
+![[warm.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a pleasantly high temperature
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `warm sunshine`: ánh nắng ấm áp
+- `warm welcome`: sự chào đón nồng hậu ấm áp
+- `warm up to an idea`: dần có cảm tình và chấp nhận một ý tưởng
+- `warm regards`: lời chào thân ái và ấm áp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The spring weather is nice and warm.

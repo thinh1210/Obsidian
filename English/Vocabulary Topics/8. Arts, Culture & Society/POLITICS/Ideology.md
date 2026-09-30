@@ -2,8 +2,10 @@
 *n*
 > /ˌaɪ.diˈɒl.ə.dʒi/
 
+![[ideology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of ideas and ideals forming the basis of a political or economic theory.

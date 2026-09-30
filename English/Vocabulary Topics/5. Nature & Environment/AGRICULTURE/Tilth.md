@@ -2,8 +2,10 @@
 *n.*
 > /tɪlθ/
 
+![[tilth.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The physical condition of soil, especially in relation to its suitability for planting.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `good tilth`: độ tơi xốp tốt
 - `improve soil tilth`: cải thiện độ tơi xốp đất
+- `fine tilth`: lớp đất gieo hạt mịn màng
+- `loose tilth`: độ tơi xốp của luống đất
+- `ideal tilth for germination`: độ ẩm và tơi lý tưởng cho hạt nảy mầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Adding organic compost is the best way to improve soil tilth.

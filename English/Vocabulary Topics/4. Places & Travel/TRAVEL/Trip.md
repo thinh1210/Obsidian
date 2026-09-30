@@ -2,8 +2,10 @@
 *noun*
 > /trɪp/
 
+![[trip.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey in which you go somewhere, usually for a short time

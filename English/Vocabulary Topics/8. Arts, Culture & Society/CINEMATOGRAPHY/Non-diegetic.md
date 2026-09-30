@@ -2,8 +2,10 @@
 *adj.*
 > /nɒnˌdaɪəˈdʒetɪk/
 
+![[non_diegetic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sound whose source is neither visible on the screen nor has been implied to be present in the action (such as background music or voiceover)
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `non-diegetic music`: nhạc nền ngoài phim
 - `non-diegetic narrator`: người dẫn chuyện ngoài phim
+- `non-diegetic sound`: âm thanh ngoài cảnh (nhạc nền, thuyết minh ngoài hình)
+- `non-diegetic insert`: cảnh chèn ngoài mạch truyện chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Orchestral soundtracks are usually non-diegetic, added later to heighten emotions.

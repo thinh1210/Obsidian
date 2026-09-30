@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɜːrveɪ/
 
+![[survey.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An investigation of the opinions or experience of a group of people, based on a series of questions
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conduct a survey`: tiến hành một cuộc khảo sát
 - `respond to a survey`: trả lời một cuộc khảo sát
+- `customer satisfaction survey`: bản khảo sát đánh giá độ hài lòng của khách hàng
+- `survey findings`: những đúc kết quan trọng từ số liệu khảo sát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I filled out a quick survey about my shopping habits yesterday.

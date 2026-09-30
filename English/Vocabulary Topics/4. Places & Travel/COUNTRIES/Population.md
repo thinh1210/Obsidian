@@ -2,8 +2,10 @@
 *Noun*
 > /ˌpɑːpjəˈleɪʃn/
 
+![[population.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the inhabitants of a particular town, area, or country.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Growing population`: Dân số đang tăng
+- `dense population`: dân số đông đúc
+- `population aging`: sự già hóa dân số
+- `population census`: cuộc điều tra dân số
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The population of this city is large.

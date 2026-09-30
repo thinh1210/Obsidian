@@ -2,8 +2,10 @@
 *noun*
 > /breɪn/
 
+![[brain.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The organ inside the head that controls thought and feeling.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brain damage`: tổn thương não
+- `brain scan`: chụp quét não bộ
+- `brainstorm ideas`: động não tìm ý tưởng
+- `pick someone's brain`: tham khảo ý kiến chuyên gia của ai (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Use your brain.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˌtel.i.ɑː.pəˈreɪ.ʃən/
 
+![[teleoperation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The operation of a system or machine from a distance, typically using wireless communications and cameras
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `robotic teleoperation`: vận hành robot từ xa
+- `teleoperation system`: hệ thống vận hành từ xa
+- `space teleoperation`: điều khiển từ xa ngoài không gian
+- `surgical teleoperation`: phẫu thuật điều khiển từ xa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Teleoperation allows doctors to operate on patients located thousands of miles away.

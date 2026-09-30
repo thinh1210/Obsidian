@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈfleksəbl/
 
+![[flexible.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Capable of bending easily without breaking; adaptable to change.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flexible hose`: ống mềm
 - `flexible schedule`: lịch trình linh hoạt
+- `flexible hours`: giờ làm việc linh hoạt
+- `highly flexible material`: vật liệu có độ uốn dẻo cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Use a flexible rubber hose to connect the water tank.

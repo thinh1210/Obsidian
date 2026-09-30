@@ -2,8 +2,10 @@
 *n.*
 > /ˌjuː.nɪˈvɜː.sɪ.ti/
 
+![[university.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An institution of higher education offering undergraduate and postgraduate degrees.

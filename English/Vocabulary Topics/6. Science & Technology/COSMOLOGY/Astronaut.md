@@ -2,8 +2,10 @@
 *Noun*
 > /ˈæs.trə.nɔːt/
 
+![[astronaut.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is trained to travel in a spacecraft.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `astronaut suit`: bộ đồ phi hành gia
 - `NASA astronaut`: phi hành gia của NASA
+- `astronaut crew`: đoàn phi hành gia
+- `trainee astronaut`: phi hành gia thực tập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Neil Armstrong was the first astronaut on the moon.

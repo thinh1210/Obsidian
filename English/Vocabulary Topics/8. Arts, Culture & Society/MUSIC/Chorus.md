@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɔː.rəs/
 
+![[chorus.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of a song which is repeated after each verse.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sing the chorus`: hát đoạn điệp khúc
 - `catchy chorus`: điệp khúc bắt tai
+- `break into chorus`: bùng nổ vào đoạn điệp khúc
+- `join the chorus`: hòa giọng vào dàn hợp xướng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Everyone joined in to sing the chorus of the song.

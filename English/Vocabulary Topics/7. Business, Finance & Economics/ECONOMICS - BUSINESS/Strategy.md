@@ -2,8 +2,10 @@
 *noun*
 > /ˈstrætədʒi/
 
+![[strategy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a detailed plan for achieving success in situations such as war, politics, or business.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `business strategy`: chiến lược kinh doanh
 - `implement a strategy`: thực hiện chiến lược
+- `corporate strategy`: chiến lược cấp doanh nghiệp
+- `competitive strategy`: chiến lược gia tăng tính cạnh tranh
+- `exit strategy`: chiến lược thoái vốn / rút lui
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need a clear strategy to win the chess match.

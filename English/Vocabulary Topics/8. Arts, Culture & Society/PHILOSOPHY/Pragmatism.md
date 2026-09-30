@@ -2,8 +2,10 @@
 *n.*
 > /ˈpræɡ.mə.tɪ.zəm/
 
+![[pragmatism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An approach that evaluates theories in terms of their practical application.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political pragmatism`: sự thực dụng chính trị
 - `philosophical pragmatism`: chủ nghĩa thực dụng triết học
+- `pragmatic approach`: cách tiếp cận thực tế, thực dụng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She chose the car based on pragmatism rather than style.

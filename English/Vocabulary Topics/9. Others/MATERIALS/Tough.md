@@ -2,8 +2,10 @@
 *adjective.*
 > /tʌf/
 
+![[tough.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Strong enough to withstand adverse conditions or rough handling; difficult.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tough material`: vật liệu bền chắc
 - `tough decision`: quyết định khó khăn
+- `tough break`: điều không may rủi ro (idiom)
+- `tough as old boots`: cực kỳ bền bỉ dẻo dai khó gục ngã (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The boots are made of a tough leather that is perfect for hiking.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒiː.nəʊm/
 
+![[genome.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The complete set of genes or genetic material present in a cell or organism.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human genome`: bộ gen người
 - `genome sequencing`: giải trình tự bộ gen
+- `genome editing`: chỉnh sửa bộ gen
+- `entire genome`: toàn bộ hệ gen
+- `genome mapping`: lập bản đồ hệ gen
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Scientists mapped the entire human genome in 2003.

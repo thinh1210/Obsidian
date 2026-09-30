@@ -2,8 +2,10 @@
 *Noun*
 > /ˈpæspɔːrt/
 
+![[passport.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official document issued by a government, certifying the holder's identity and citizenship.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Valid passport`: Hộ chiếu còn hạn
+- `renew a passport`: gia hạn hộ chiếu
+- `passport control`: khu vực kiểm tra hộ chiếu
+- `diplomatic passport`: hộ chiếu ngoại giao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't forget your passport!

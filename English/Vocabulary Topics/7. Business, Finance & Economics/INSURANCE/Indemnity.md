@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈdemnəti/
 
+![[indemnity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Security or protection against a loss or other financial burden; compensation for damage or loss.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `indemnity insurance`: bảo hiểm bồi thường
 - `letter of indemnity`: thư cam kết bồi thường
+- `principle of indemnity`: nguyên tắc bồi thường đúng giá trị thiệt hại thực tế
+- `indemnity agreement`: thỏa thuận cam kết bồi hoàn trách nhiệm
+- `hold harmless and indemnify`: miễn trừ trách nhiệm và cam kết đền bù thỏa đáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The contract includes an indemnity clause to protect the agent.

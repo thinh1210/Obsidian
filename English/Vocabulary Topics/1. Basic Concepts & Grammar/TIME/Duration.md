@@ -2,8 +2,10 @@
 *n.*
 > /djuˈreɪʃn/
 
+![[duration.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time during which something continues
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `for the duration of`: trong suốt khoảng thời gian của
+- `short duration`: khoảng thời gian ngắn
+- `extended duration`: khoảng thời gian kéo dài
+- `course duration`: thời lượng khóa học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The duration of the movie is 2 hours.

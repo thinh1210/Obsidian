@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒɜːrni/
 
+![[journey.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of traveling from one place to another.
@@ -16,6 +18,7 @@
 - `safe journey`: chuyến đi an toàn
 - `tiring journey`: hành trình mệt mỏi
 - `spiritual journey`: hành trình tâm linh
+- `journey time`: thời gian di chuyển trên đường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We wish you a safe and pleasant journey.

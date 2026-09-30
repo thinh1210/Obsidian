@@ -2,8 +2,10 @@
 *v.*
 > /riːd/
 
+![[read.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at and understand the meaning of written or printed words
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `read a book`: đọc một cuốn sách
+- `read between the lines`: hiểu được ẩn ý sâu xa
+- `read extensively`: đọc sách báo rộng rãi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He likes to read before going to bed.

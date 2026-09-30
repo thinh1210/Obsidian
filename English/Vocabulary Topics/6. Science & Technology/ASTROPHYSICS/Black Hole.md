@@ -2,8 +2,10 @@
 *noun*
 > /blæk həʊl/
 
+![[black_hole.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A region of spacetime where gravity is so strong that nothing, not even light, can escape.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `supermassive black hole`: hố đen siêu khối lượng
 - `black hole merger`: sự sáp nhập hố đen
+- `stellar-mass black hole`: hố đen khối lượng sao
+- `fall into a black hole`: rơi vào hố đen
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many science fiction movies feature characters traveling through a black hole.

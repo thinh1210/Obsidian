@@ -2,8 +2,10 @@
 *noun*
 > /ˈpaɪ.lət/
 
+![[pilot.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who operates the flying controls of an aircraft.

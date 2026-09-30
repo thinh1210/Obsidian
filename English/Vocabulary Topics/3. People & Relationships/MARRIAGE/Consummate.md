@@ -2,8 +2,10 @@
 *verb*
 > /ˈkɒnsəmeɪt/
 
+![[consummate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a marriage or relationship complete by having sexual intercourse.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Consummate a marriage`: Động phòng (hoàn tất hôn nhân)
+- `consummation of vows`: sự hoàn tất lời thề hôn ước
+- `consummate love`: tình yêu viên mãn trọn vẹn
+- `legally consummate`: hoàn tất thủ tục hôn nhân hợp pháp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The marriage was never consummated.

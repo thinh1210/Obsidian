@@ -2,8 +2,10 @@
 *noun / verb*
 > /ˈiː.meɪl/
 
+![[email.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Messages sent and received electronically over the Internet; also the act of sending such messages.

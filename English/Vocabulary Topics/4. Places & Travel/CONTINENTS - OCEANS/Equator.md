@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈkweɪtə(r)/
 
+![[equator.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An imaginary line drawn around the earth equally distant from both poles.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `near the equator`: gần đường xích đạo
+- `cross the equator`: băng qua đường xích đạo
+- `parallel to the equator`: song song với xích đạo
+- `equator line`: vạch xích đạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Countries near the equator are usually very hot.

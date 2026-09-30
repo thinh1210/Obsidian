@@ -2,8 +2,10 @@
 *n.*
 > /dʒɔɪ/
 
+![[joy.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of great pleasure and happiness.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tears of joy`: giọt nước mắt hạnh phúc
+- `burst with joy`: vỡ òa trong niềm vui sướng
+- `bundle of joy`: em bé mới sinh đáng yêu (idiom)
+- `jump for joy`: nhảy cẫng lên vì vui sướng (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wept for joy.

@@ -2,8 +2,10 @@
 *n.*
 > /dʒɒb/
 
+![[job.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A regular activity performed in exchange for payment
@@ -13,7 +15,11 @@
 💡 Đi tìm "job" để có "chóp" bu công ty chú ý
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``find a job`: tìm kiếm một công việc
+- `find a job`: tìm kiếm một công việc
+- `job satisfaction`: mức độ thỏa mãn và yêu thích công việc
+- `job description`: bản mô tả chi tiết chức trách công việc (JD)
+- `job security`: sự bảo đảm lâu dài cho vị trí công tác
+- `land a dream job`: chạm tay vào công việc hằng mơ ước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to find a new job.

@@ -1,13 +1,21 @@
 # Facet
 
 *Noun*
+> /ˈfæs.ɪt/
+
+![[facet.mp3]]
 
 - **[EN]:** One side of something many-sided; a particular aspect or feature.
 - **[VN]:** Khía cạnh, mặt (của đá quý).
 
-**Level:** C1
+**Level:** C1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `multi-faceted problem`: vấn đề phức tạp muôn hình muôn vẻ
+- `examine every facet of`: xem xét kỹ từng khía cạnh góc cạnh
+- `diamond facet`: mặt cắt phản chiếu của viên kim cương
+
 ## Examples
 1. *We need to look at every facet of the problem before deciding.*
    - Chúng ta cần xem xét mọi khía cạnh của vấn đề trước khi quyết định.

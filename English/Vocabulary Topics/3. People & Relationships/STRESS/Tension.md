@@ -2,8 +2,10 @@
 *n.*
 > /ˈtenʃn/
 
+![[tension.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Mental or emotional strain
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reduce tension`: giảm căng thẳng
 - `tension in the air`: không khí căng thẳng
+- `ease the tension`: làm dịu đi bầu không khí căng thẳng
+- `muscle tension`: sự căng cơ bắp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I feel tension in my neck.

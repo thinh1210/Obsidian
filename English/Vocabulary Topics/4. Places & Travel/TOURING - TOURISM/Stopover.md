@@ -2,8 +2,10 @@
 *Noun*
 > /ˈstɑːpˌoʊ.vɚ/
 
+![[stopover.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short stay in a place that you make while you are on a longer journey.
@@ -13,7 +15,11 @@
 💡 TÓP Ô VỜ (Stopover) dừng chân nghỉ ngơi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `make a stopover`: dừng chân\n- `brief stopover`: điểm dừng chân ngắn
+- `make a stopover`: dừng chân
+- `brief stopover`: điểm dừng chân ngắn
+- `two-day stopover`: chặng dừng chân quá cảnh kéo dài 2 ngày
+- `stopover destination`: điểm dừng chân nghỉ ngơi giữa hành trình
+- `schedule a brief stopover`: thu xếp một điểm nghỉ chân ngắn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a brief stopover in Dubai on our way to Asia.

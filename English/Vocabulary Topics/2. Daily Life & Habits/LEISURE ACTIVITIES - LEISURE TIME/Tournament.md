@@ -2,8 +2,10 @@
 *n*
 > /ˈtʊənəmənt/
 
+![[tournament.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of contests between a number of competitors.
@@ -13,7 +15,11 @@
 💡 Tour (chuyến đi) + nament -> đi đấu giải.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `chess tournament`: giải đấu cờ vua\n- `win a tournament`: thắng giải đấu
+- `chess tournament`: giải đấu cờ vua
+- `win a tournament`: thắng giải đấu
+- `knockout tournament`: giải đấu loại trực tiếp
+- `invitational tournament`: giải đấu thể thao theo lời mời
+- `tournament champion`: nhà vô địch giải đấu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He won the local tennis tournament.

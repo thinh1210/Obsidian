@@ -2,8 +2,10 @@
 *v.*
 > /ˌriːˈfaɪnæns/
 
+![[refinance.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Finance (a business or a purchase) again, typically with a new loan at a lower rate of interest.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `refinance a mortgage`: tái cấp vốn khoản vay thế chấp
 - `decision to refinance`: quyết định tái cơ cấu khoản vay
+- `refinance a home loan`: tái cấp vốn cho khoản vay mua nhà để hưởng lãi suất thấp hơn
+- `cash-out refinance`: tái cấp vốn rút thêm tiền mặt chênh lệch
+- `benefits of refinancing`: những lợi ích mang lại từ việc tái cấp vốn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* With interest rates dropping, they decided to refinance their mortgage to lower their monthly payments.

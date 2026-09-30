@@ -2,8 +2,10 @@
 *n.*
 > /ˈriː.dʒən/
 
+![[region.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area or division, especially part of a country or the world having definable characteristics.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mountainous region`: vùng núi
+- `coastal region`: vùng duyên hải ven biển
+- `remote region`: vùng sâu vùng xa xôi hẻo lánh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This region is known for its wine.

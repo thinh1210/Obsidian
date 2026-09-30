@@ -2,8 +2,10 @@
 *n.*
 > /bʌs stɒp/
 
+![[bus_stop.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where a bus stops.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wait at the bus stop`: đợi ở bến xe buýt
+- `nearest bus stop`: điểm dừng xe buýt gần nhất
+- `pull up at the bus stop`: tấp vào điểm dừng xe buýt (phrasal verb)
+- `bus stop shelter`: nhà chờ xe buýt có mái che
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am waiting at the bus stop.

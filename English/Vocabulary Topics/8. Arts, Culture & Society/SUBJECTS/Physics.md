@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɪzɪks/
 
+![[physics.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with the nature and properties of matter and energy.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `physics laws`: định luật vật lý
+- `quantum physics`: vật lý lượng tử
+- `theoretical physics`: vật lý lý thuyết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to study for my physics test tomorrow.

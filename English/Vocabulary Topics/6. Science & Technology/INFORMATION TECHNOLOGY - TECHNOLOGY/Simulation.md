@@ -2,8 +2,10 @@
 *n*
 > /ˌsɪm.jəˈleɪ.ʃən/
 
+![[simulation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A model of a set of problems or events that can be used to teach someone how to do something, or the process of making such a model.

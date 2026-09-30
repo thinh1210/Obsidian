@@ -2,8 +2,10 @@
 *n.*
 > /ˈbreɪk.θruː/
 
+![[breakthrough.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An important discovery or development that helps to solve a problem
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `major breakthrough`: bước đột phá lớn
 - `scientific breakthrough`: đột phá khoa học
+- `make a breakthrough`: đạt được bước đột phá quan trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Scientists made a major breakthrough in cancer research.

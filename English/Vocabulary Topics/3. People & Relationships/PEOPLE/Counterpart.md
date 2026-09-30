@@ -2,8 +2,10 @@
 *n.*
 > /ˈkaʊn.tə.pɑːt/
 
+![[counterpart.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing holding a position or performing a function that corresponds to that of another person or thing.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A foreign counterpart`: Một đối tác nước ngoài
+- `foreign counterpart`: người đồng cấp nước ngoài
+- `counterpart in negotiations`: đối tác tương đương trong đàm phán
+- `female counterpart`: bản đối ứng nữ giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He met with his French counterpart.

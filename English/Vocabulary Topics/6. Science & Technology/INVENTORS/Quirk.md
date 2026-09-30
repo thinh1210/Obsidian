@@ -2,8 +2,10 @@
 *n.*
 > /kwɜːk/
 
+![[quirk.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A peculiar behavioral habit or an unexpected twist of fate/circumstance
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `quirk of fate`: sự trớ trêu của số phận
 - `personal quirk`: thói quen kỳ quặc cá nhân
+- `personality quirk`: nét tính cách lập dị kỳ lạ
+- `eccentric quirk`: thói quen kỳ quặc khác người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Everyone has their own little quirks.

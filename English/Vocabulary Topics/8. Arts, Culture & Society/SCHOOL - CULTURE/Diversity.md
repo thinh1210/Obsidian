@@ -2,8 +2,10 @@
 *noun*
 > /daɪˈvɜːsəti/
 
+![[diversity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being diverse; variety or inclusivity.

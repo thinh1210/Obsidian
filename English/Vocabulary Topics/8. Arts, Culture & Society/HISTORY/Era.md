@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪə.rə/
 
+![[era.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long and distinct period of history with a particular feature or characteristic.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Victorian era`: thời đại Nữ hoàng Victoria
 - `dawn of a new era`: bình minh của một kỷ nguyên mới
+- `golden era`: kỷ nguyên hoàng kim
+- `bygone era`: thời đại dĩ vãng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are living in the digital era where technology rules.

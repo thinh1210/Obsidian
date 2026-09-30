@@ -2,8 +2,10 @@
 *noun.*
 > /bɪl/
 
+![[bill.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A written list showing how much you have to pay for services or goods.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay the bill`: thanh toán hóa đơn
 - `utility bill`: hóa đơn tiện ích (điện, nước...)
+- `treasury bill (T-bill)`: tín phiếu kho bạc
+- `bill of exchange`: hối phiếu thương mại
+- `foot the bill`: chịu trách nhiệm thanh toán chi phí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The waiter brought us the bill after we finished our dinner.

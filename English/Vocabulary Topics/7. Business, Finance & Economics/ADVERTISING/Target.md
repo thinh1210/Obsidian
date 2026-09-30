@@ -2,8 +2,10 @@
 *verb*
 > /ˈtɑːɡɪt/
 
+![[target.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To aim something, especially an advertising campaign, at a particular audience.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `target young consumers`: nhắm mục tiêu vào người tiêu dùng trẻ
 - `specifically target`: nhắm mục tiêu cụ thể
+- `hit the target`: đạt đúng chỉ tiêu đề ra
+- `target demographic`: tệp nhân khẩu học mục tiêu
+- `easy target`: đối tượng dễ nhắm tới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The movie targets teenagers who love science fiction.

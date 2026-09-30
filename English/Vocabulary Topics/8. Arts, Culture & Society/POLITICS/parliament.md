@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɑːrləmənt/
 
+![[parliament.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The members of parliament for a particular period, especially between one dissolution and the next.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `member of parliament`: thành viên nghị viện
 - `act of parliament`: đạo luật của nghị viện
+- `dissolve parliament`: giải tán quốc hội
+- `pass through parliament`: được nghị viện biểu quyết thông qua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Prime Minister spoke to parliament today.

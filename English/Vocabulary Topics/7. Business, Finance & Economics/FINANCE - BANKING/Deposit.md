@@ -2,8 +2,10 @@
 *noun.*
 > /dɪˈpɒzɪt/
 
+![[deposit.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sum of money paid into a bank account or used as a first payment for something.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `security deposit`: tiền đặt cọc bảo đảm
 - `make a deposit`: gửi tiền (vào tài khoản)
+- `fixed-term deposit`: tiền gửi tiết kiệm có kỳ hạn
+- `direct deposit`: chuyển khoản trả lương trực tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* To rent this apartment, you must pay a deposit equal to two months' rent.

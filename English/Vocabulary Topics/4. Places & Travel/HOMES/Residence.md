@@ -2,8 +2,10 @@
 *noun*
 > /ˈrɛzɪdəns/
 
+![[residence.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person's home; the place where someone lives.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take up residence`: đến ở (nơi nào)
 - `official residence`: dinh thự chính thức
+- `place of residence`: nơi thường trú
+- `permanent residence`: thường trú dài hạn
+- `private residence`: nhà ở tư nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This is his primary residence.

@@ -2,8 +2,10 @@
 *v*
 > /dɑːns/
 
+![[dance.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move rhythmically to music.
@@ -13,7 +15,11 @@
 💡 Dance - Đan (tên người) thích nhảy.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `dance gracefully`: nhảy duyên dáng\n- `dance to the music`: nhảy theo nhạc
+- `dance gracefully`: nhảy duyên dáng
+- `dance to the music`: nhảy theo nhạc
+- `ballroom dancing`: khiêu vũ cổ điển
+- `contemporary dance`: múa đương đại
+- `dance floor`: sàn khiêu vũ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They danced all night.

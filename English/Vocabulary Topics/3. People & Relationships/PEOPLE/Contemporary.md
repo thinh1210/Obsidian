@@ -2,8 +2,10 @@
 *n.*
 > /kənˈtem.pər.ər.i/
 
+![[contemporary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing living or existing at the same time as another.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A younger contemporary`: Một người trẻ cùng thời
+- `contemporary art`: nghệ thuật đương đại
+- `admired by contemporaries`: được các bạn bè cùng trang lứa ngưỡng mộ
+- `contemporary society`: xã hội đương thời hiện đại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Shakespeare and his contemporaries.

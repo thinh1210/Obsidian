@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈves.tɪ.ɡeɪt/
 
+![[investigate.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To carry out a systematic inquiry or examination to find out the truth.

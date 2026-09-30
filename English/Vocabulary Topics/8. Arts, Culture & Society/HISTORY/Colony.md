@@ -2,8 +2,10 @@
 *noun*
 > /ˈcɒl.ə.ni/
 
+![[colony.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A country or area under the full or partial political control of another country and occupied by settlers from that country.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `former colony`: thuộc địa cũ
 - `establish a colony`: thành lập thuộc địa
+- `penal colony`: thuộc địa lưu đày
+- `former British colony`: cựu thuộc địa Anh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Vietnam was once a French colony in Southeast Asia.

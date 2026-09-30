@@ -2,8 +2,10 @@
 *adjective*
 > /njuː/
 
+![[new.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Recently created or having recently come into existence.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `new product`: sản phẩm mới
 - `new campaign`: chiến dịch mới
+- `brand new`: mới toanh / mới xuất xưởng
+- `new release`: ấn phẩm / sản phẩm mới phát hành
+- `new entrant`: tân binh mới gia nhập thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought a new pair of shoes yesterday.

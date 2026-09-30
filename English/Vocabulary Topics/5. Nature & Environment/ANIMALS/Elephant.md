@@ -2,8 +2,10 @@
 *noun*
 > /ˈel.ɪ.fənt/
 
+![[elephant.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large plant-eating mammal with a trunk, long tusks, and floppy ears.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `herd of elephants`: đàn voi
 - `ivory tusks of elephants`: ngà voi
+- `white elephant`: vật đắt đỏ nhưng vô dụng
+- `elephant in the room`: vấn đề lớn hiển nhiên nhưng ai cũng né tránh
+- `African elephant`: voi châu Phi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The elephant used its trunk to spray water over its back.

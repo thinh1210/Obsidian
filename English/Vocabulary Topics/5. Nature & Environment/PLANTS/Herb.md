@@ -2,8 +2,10 @@
 *noun*
 > /hɜːb/
 
+![[herb.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plant whose leaves, seeds, or flowers are used for medicine, flavor, or scent.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fresh herbs`: thảo mộc tươi
 - `medicinal herbs`: thảo dược trị bệnh
+- `culinary herbs`: các loại rau thơm dùng trong nấu ăn
+- `aromatic herbs`: thảo mộc có hương thơm ngào ngạt
+- `herb garden`: vườn trồng cây thảo mộc và rau gia vị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to add fresh herbs like basil and rosemary to my cooking.

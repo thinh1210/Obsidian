@@ -2,8 +2,10 @@
 *noun*
 > /ˌeərəʊdaɪˈnæmɪks/
 
+![[aerodynamics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Công nghệ cao & Vật lý kỹ thuật chuyên sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the properties of moving air, and especially of the interaction between the air and solid bodies moving through it.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `improve aerodynamics`: cải thiện khí động học
 - `aerodynamics engineer`: kỹ sư khí động học
+- `vehicle aerodynamics`: khí động học của xe
+- `principles of aerodynamics`: các nguyên lý khí động học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sleek shape of the sports car was designed to improve its aerodynamics.

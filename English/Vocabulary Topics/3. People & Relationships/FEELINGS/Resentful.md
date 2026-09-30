@@ -2,8 +2,10 @@
 *adj*
 > /rɪˈzentfl/
 
+![[resentful.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing bitterness or indignation at having been treated unfairly.

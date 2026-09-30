@@ -2,8 +2,10 @@
 *verb.*
 > /ˈbɒrəʊ/
 
+![[borrow.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To take and use something that belongs to someone else, with the intention of returning it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `borrow money`: vay tiền
 - `borrow from a friend`: mượn từ bạn bè
+- `borrow heavily`: vay mượn khoản tiền lớn
+- `borrowing capacity`: hạn mức / khả năng vay vốn
+- `borrow at low interest`: vay với mức lãi suất thấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can I borrow your credit card for a quick online purchase?

@@ -2,8 +2,10 @@
 *noun*
 > /ˈbaʊndri/
 
+![[boundary.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line that marks the limits of an area; a dividing line.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural boundary`: ranh giới tự nhiên
+- `geographical boundary`: ranh giới địa lý
+- `demarcate a boundary`: phân định ranh giới
+- `boundary dispute`: tranh chấp ranh giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The river acts as a boundary between the two towns.

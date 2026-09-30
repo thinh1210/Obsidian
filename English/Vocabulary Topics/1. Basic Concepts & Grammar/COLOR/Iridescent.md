@@ -2,8 +2,10 @@
 *adj*
 > /ˌɪr.əˈdes.ənt/
 
+![[iridescent.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing luminous colors that seem to change when seen from different angles.

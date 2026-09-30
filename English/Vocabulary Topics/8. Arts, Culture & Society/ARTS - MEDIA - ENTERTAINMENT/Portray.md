@@ -2,8 +2,10 @@
 *v.*
 > /pɔːˈtreɪ/
 
+![[portray.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Depict (someone or something) in a work of art or literature; represent in a movie, play, etc.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `portray a character`: khắc họa một nhân vật
 - `portray as a hero`: khắc họa như một người anh hùng
+- `vividly portray`: khắc họa nhân vật cực kỳ sống động
+- `accurately portray`: miêu tả chân thực chính xác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The painting portrays a quiet village in winter.

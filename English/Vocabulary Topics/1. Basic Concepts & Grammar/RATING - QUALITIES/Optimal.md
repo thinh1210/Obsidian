@@ -2,8 +2,10 @@
 *adj*
 > /ˈɒp.tɪ.məl/
 
+![[optimal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Best or most favorable; optimum.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `optimal conditions`: điều kiện tối ưu
+- `optimal solution`: giải pháp tối ưu
+- `optimal performance`: hiệu suất tối ưu
+- `optimal result`: kết quả tối ưu nhất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* These are the optimal conditions for plant growth.

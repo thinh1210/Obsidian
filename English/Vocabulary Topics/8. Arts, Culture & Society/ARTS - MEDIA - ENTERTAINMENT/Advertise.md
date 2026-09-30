@@ -2,8 +2,10 @@
 *v.*
 > /ˈædvətaɪz/
 
+![[advertise.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Describe or draw attention to (a product, service, or event) in a public medium in order to promote sales or attendance.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `advertise online`: quảng cáo trực tuyến
 - `advertise products`: quảng cáo sản phẩm
+- `advertise heavily`: quảng cáo rầm rộ với ngân sách lớn
+- `advertise a vacancy`: đăng tin tuyển dụng vị trí trống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Companies advertise their products on social media.

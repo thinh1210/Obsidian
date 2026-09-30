@@ -2,8 +2,10 @@
 *Noun*
 > /ˈlaɪt.jɪər/
 
+![[light_year.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The distance that light travels in one year (about 9.46 trillion km).
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `light-years away`: cách xa hàng năm ánh sáng
 - `calculate in light-years`: tính toán bằng năm ánh sáng
+- `millions of light-years`: hàng triệu năm ánh sáng
+- `one light-year`: một năm ánh sáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The project is light-years ahead of its time.

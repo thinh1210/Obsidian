@@ -2,8 +2,10 @@
 *adj.*
 > /ˌʌnɪnˈdjʊərəbl/
 
+![[unendurable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not able to be tolerated or endured
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unendurable pain`: nỗi đau không thể chịu đựng
 - `unendurable stress`: căng thẳng quá sức chịu đựng
+- `unendurable agony`: nỗi thống khổ đau đớn khôn cùng
+- `unendurable burden`: gánh nặng không thể kham nổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The heat was unendurable.

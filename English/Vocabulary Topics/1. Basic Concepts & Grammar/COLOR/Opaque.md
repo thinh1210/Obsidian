@@ -2,8 +2,10 @@
 *adj*
 > /oʊˈpeɪk/
 
+![[opaque.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not able to be seen through; not transparent.

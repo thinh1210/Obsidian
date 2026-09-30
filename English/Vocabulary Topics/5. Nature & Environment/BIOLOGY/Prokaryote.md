@@ -2,8 +2,10 @@
 *noun*
 > /prəʊˈkær.i.əʊt/
 
+![[prokaryote.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A microscopic single-celled organism which has neither a distinct nucleus with a membrane nor other specialized organelles, including the bacteria and cyanobacteria.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prokaryote cell`: tế bào nhân sơ
 - `evolution of prokaryotes`: sự tiến hóa của sinh vật nhân sơ
+- `prokaryotic organism`: sinh vật nhân sơ
+- `prokaryotic reproduction`: sự sinh sản của sinh vật nhân sơ
+- `distinguish prokaryotes from eukaryotes`: phân biệt sinh vật nhân sơ với nhân thực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bacteria are the most common examples of prokaryotes.

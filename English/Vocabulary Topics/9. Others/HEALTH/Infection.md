@@ -2,8 +2,10 @@
 *n*
 > /ɪnˈfekʃn/
 
+![[infection.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of infecting or the state of being infected with a disease-causing organism.

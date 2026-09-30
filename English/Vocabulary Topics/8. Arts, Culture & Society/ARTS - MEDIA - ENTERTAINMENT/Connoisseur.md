@@ -2,8 +2,10 @@
 *n.*
 > /ˌkɒnəˈsɜː(r)/
 
+![[connoisseur.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An expert judge in matters of taste, especially the fine arts, or food and drink.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `art connoisseur`: người sành nghệ thuật
 - `wine connoisseur`: người sành rượu
+- `musical connoisseur`: người sành sỏi về âm nhạc
+- `connoisseur of literature`: chuyên gia sành văn chương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My uncle is a connoisseur of classical jazz music.

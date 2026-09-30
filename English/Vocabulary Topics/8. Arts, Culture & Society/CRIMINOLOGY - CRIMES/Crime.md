@@ -2,8 +2,10 @@
 *noun*
 > /kraɪm/
 
+![[crime.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action or activity that is against the law
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commit a crime`: phạm tội
 - `fight crime`: chống tội phạm
+- `organized crime`: tội phạm có tổ chức mang tính quy mô
+- `crime prevention`: công tác phòng ngừa tội phạm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to stop crime in our neighborhood.

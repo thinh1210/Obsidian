@@ -2,8 +2,10 @@
 *noun*
 > /siː/
 
+![[sea.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expanse of salt water that covers most of the earth's surface.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `by the sea`: bên bờ biển
+- `open sea`: biển khơi
+- `rough sea`: biển động sóng lớn
+- `at sea`: ở ngoài biển khơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We spent our holiday by the sea.

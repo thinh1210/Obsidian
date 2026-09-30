@@ -2,8 +2,10 @@
 *adj.*
 > /ˈær.ə.bəl/
 
+![[arable.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of land) Suitable for growing crops.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `arable land`: đất canh tác được
 - `arable farming`: phương thức trồng trọt hoa màu
+- `fertile arable land`: đất canh tác màu mỡ
+- `loss of arable land`: mất đất canh tác
+- `convert into arable land`: chuyển đổi thành đất trồng trọt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Only a small percentage of the country's land is arable.

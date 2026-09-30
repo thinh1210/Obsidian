@@ -2,8 +2,10 @@
 *noun*
 > /ɔːˈθɒɡ.rə.fi/
 
+![[orthography.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the system of spelling in a language

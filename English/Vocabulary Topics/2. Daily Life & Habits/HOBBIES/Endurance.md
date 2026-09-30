@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈdjʊərəns/
 
+![[endurance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The ability to keep doing something difficult, unpleasant, or painful for a long time.

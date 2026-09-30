@@ -2,8 +2,10 @@
 *Noun*
 > /dɪˈpɑrtʃər/
 
+![[departure.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of leaving, typically to start a journey.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `departure time`: giờ khởi hành
 - `departure lounge`: phòng chờ khởi hành
+- `scheduled departure`: giờ khởi hành đã định theo lịch
+- `hasty departure`: sự rời đi vội vã
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The departure was delayed by an hour.

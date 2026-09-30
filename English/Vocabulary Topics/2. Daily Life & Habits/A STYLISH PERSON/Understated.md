@@ -2,8 +2,10 @@
 *adj.*
 > /ˌʌndərˈsteɪtɪd/
 
+![[understated.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Presented or expressed in a subtle and effective way.
@@ -13,7 +15,11 @@
 💡 Understated - state (nói) under (dưới) => khiêm tốn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `understated elegance`: vẻ đẹp thanh lịch kín đáo\n- `understated style`: phong cách không phô trương
+- `understated elegance`: vẻ đẹp thanh lịch kín đáo
+- `understated style`: phong cách không phô trương
+- `understated luxury`: vẻ xa xỉ kín đáo, khiêm nhường (quiet luxury)
+- `understated charm`: sức hút thầm lặng, kín đáo
+- `understated colors`: gam màu trang nhã, không lòe loẹt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her dress was of an understated elegance.

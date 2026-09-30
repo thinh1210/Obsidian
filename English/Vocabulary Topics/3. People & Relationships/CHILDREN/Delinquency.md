@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈlɪŋ.kwən.si/
 
+![[delinquency.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Minor crime, especially that committed by young people.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `juvenile delinquency`: tội phạm vị thành niên
+- `prevent delinquency`: ngăn ngừa hành vi phạm pháp tuổi trẻ
+- `rate of delinquency`: tỷ lệ tội phạm thanh thiếu niên
+- `youth delinquency`: hành vi lệch chuẩn của thanh niên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The city has a high rate of juvenile delinquency.

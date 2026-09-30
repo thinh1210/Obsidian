@@ -2,8 +2,10 @@
 *noun*
 > /ˈsteɪtkræft/
 
+![[statecraft.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The skillful management of state affairs; statesmanship.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `master of statecraft`: bậc thầy trị quốc
 - `diplomatic statecraft`: nghệ thuật trị quốc bằng ngoại giao
+- `principles of statecraft`: các nguyên tắc của nghệ thuật trị nước
+- `skilful statecraft`: nghệ thuật trị quốc điêu luyện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Prime Minister was praised for his statecraft during the international crisis.

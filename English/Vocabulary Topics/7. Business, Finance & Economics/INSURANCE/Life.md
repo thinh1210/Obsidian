@@ -2,8 +2,10 @@
 *n.*
 > /laɪf/
 
+![[life.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The period between birth and death; related to life insurance.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `life insurance`: bảo hiểm nhân thọ
 - `life expectancy`: tuổi thọ trung bình
+- `term life insurance`: bảo hiểm nhân thọ có thời hạn cố định
+- `whole life insurance`: bảo hiểm nhân thọ bảo vệ trọn đời
+- `loss of life`: sự mất mát về tính mạng con người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He bought life insurance to secure his children's future.

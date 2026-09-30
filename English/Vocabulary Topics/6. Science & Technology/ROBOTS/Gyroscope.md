@@ -2,8 +2,10 @@
 *noun.*
 > /ˈdʒaɪ.rə.skoʊp/
 
+![[gyroscope.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device consisting of a wheel or disc mounted so that it can spin rapidly about an axis which is free to alter in direction, used for stability and navigation
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stabilizing gyroscope`: con quay hồi chuyển cân bằng
+- `digital gyroscope`: con quay hồi chuyển kỹ thuật số
+- `gyroscope sensor`: cảm biến con quay hồi chuyển
+- `three-axis gyroscope`: con quay hồi chuyển ba trục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot dog uses an internal gyroscope to stay balanced on icy surfaces.

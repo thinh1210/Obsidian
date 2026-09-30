@@ -2,8 +2,10 @@
 *adj.*
 > /ˈtʃɪə.fəl/
 
+![[cheerful.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Noticeably happy and optimistic.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cheerful smile`: nụ cười tươi tắn
+- `cheerful disposition`: tính tình vui tươi hoạt bát
+- `cheerful greeting`: lời chào rạng rỡ nồng nhiệt
+- `keep cheerful`: giữ vững sự lạc quan vui tươi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is always cheerful.

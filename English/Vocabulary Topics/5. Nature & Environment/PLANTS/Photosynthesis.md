@@ -2,8 +2,10 @@
 *noun*
 > /ˌfəʊtəʊˈsɪnθəsɪs/
 
+![[photosynthesis.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which green plants use sunlight to synthesize nutrients from carbon dioxide and water.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rate of photosynthesis`: tốc độ quang hợp
 - `perform photosynthesis`: thực hiện quang hợp
+- `photosynthetic efficiency`: hiệu suất quang hợp
+- `byproducts of photosynthesis`: các sản phẩm phụ của quá trình quang hợp
+- `photosynthetic pigment`: sắc tố quang hợp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children learn about photosynthesis in elementary school science class.

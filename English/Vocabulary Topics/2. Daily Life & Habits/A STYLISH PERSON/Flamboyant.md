@@ -2,8 +2,10 @@
 *adj.*
 > /flæmˈbɔɪənt/
 
+![[flamboyant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very confident in behaviour, and liking to be noticed by other people.
@@ -13,7 +15,11 @@
 💡 Flamboyant - flame (lửa) rực rỡ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `flamboyant clothes`: quần áo sặc sỡ\n- `flamboyant personality`: tính cách phô trương
+- `flamboyant clothes`: quần áo sặc sỡ
+- `flamboyant personality`: tính cách phô trương
+- `flamboyant style`: phong cách rực rỡ, phô trương
+- `flamboyant colors`: màu sắc sặc sỡ, bắt mắt
+- `flamboyant gesture`: cử chỉ hào nhoáng, phô trương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is famous for his flamboyant style of dress.

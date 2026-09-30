@@ -2,8 +2,10 @@
 *n.*
 > /əˈpɪrəns/
 
+![[appearance.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way that someone or something looks.
@@ -13,7 +15,11 @@
 💡 Appearance - appear (xuất hiện) ra ngoài.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `physical appearance`: vẻ ngoài thể chất\n- `care about appearance`: quan tâm vẻ ngoài
+- `physical appearance`: vẻ ngoài thể chất
+- `care about appearance`: quan tâm vẻ ngoài
+- `neat appearance`: diện mạo gọn gàng, chỉn chu
+- `care about one's appearance`: quan tâm đến vẻ bề ngoài của mình
+- `make a stylish appearance`: xuất hiện với phong cách thời trang ấn tượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She cares a lot about her physical appearance.

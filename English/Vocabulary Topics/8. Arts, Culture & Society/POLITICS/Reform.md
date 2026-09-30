@@ -2,8 +2,10 @@
 *n/v*
 > /rɪˈfɔːm/
 
+![[reform.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To change something in order to improve it, especially a law or social system.

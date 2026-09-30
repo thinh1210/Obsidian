@@ -2,8 +2,10 @@
 *noun*
 > /ˌklaɪməˈtɒlədʒi/
 
+![[climatology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of climate
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `applied climatology`: khí hậu học ứng dụng
+- `field of climatology`: lĩnh vực khí hậu học
+- `satellite climatology`: khí hậu học quan trắc qua vệ tinh
+- `historical climatology`: khí hậu học lịch sử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She decided to pursue a degree in climatology at university.

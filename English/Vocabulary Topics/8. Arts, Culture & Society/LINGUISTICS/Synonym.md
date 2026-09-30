@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɪn.ə.nɪm/
 
+![[synonym.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a word or phrase that has the same or nearly the same meaning as another word or phrase

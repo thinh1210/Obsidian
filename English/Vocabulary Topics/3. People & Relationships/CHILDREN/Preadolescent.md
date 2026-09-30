@@ -2,8 +2,10 @@
 *noun*
 > /ˌpriː.æd.əˈles.ənt/
 
+![[preadolescent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A child just before the onset of puberty.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `preadolescent child`: trẻ sắp dậy thì
+- `preadolescent years`: những năm tháng tiền dậy thì
+- `preadolescent growth spurt`: sự phát triển thể chất vượt bậc trước tuổi dậy thì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Preadolescent boys are active.

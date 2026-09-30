@@ -2,8 +2,10 @@
 *n.*
 > /eθˈnɒɡ.rə.fi/
 
+![[ethnography.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific description of the customs of individual peoples and cultures.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conduct ethnography`: thực hiện nghiên cứu dân tộc học
 - `detailed ethnography`: bản mô tả dân tộc học chi tiết
+- `ethnographic fieldwork`: nghiên cứu thực địa dân tộc học
+- `ethnographic research`: nghiên cứu dân tộc học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wrote a fascinating ethnography about online gamer communities.

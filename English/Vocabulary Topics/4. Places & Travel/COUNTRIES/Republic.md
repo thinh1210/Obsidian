@@ -2,8 +2,10 @@
 *Noun*
 > /rɪˈpʌblɪk/
 
+![[republic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state in which supreme power is held by the people and their elected representatives.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Democratic republic`: Cộng hòa dân chủ
+- `proclaim a republic`: tuyên bố nền cộng hòa
+- `constitutional republic`: nền cộng hòa lập hiến
+- `banana republic`: quốc gia yếu kém bất ổn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Vietnam is a socialist republic.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈsʌbsədi/
 
+![[subsidy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** money given by a government or other organization to support an industry or keep prices low.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `government subsidy`: trợ cấp chính phủ
 - `agricultural subsidy`: trợ cấp nông nghiệp
+- `export subsidy`: trợ cấp xuất khẩu
+- `phase out subsidies`: từng bước cắt bỏ trợ cấp
+- `heavily subsidized`: được nhận mức trợ cấp lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government offers a subsidy for families who install solar panels on their roofs.

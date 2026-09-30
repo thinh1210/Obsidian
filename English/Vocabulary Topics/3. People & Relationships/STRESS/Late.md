@@ -2,8 +2,10 @@
 *adj.*
 > /leɪt/
 
+![[late.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Doing something or taking place after the expected, proper, or usual time
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `late for work`: đi làm muộn
 - `stay up late`: thức khuya
+- `better late than never`: thà muộn còn hơn không (idiom)
+- `late into the night`: tận đêm muộn khuya khoắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am late for school.

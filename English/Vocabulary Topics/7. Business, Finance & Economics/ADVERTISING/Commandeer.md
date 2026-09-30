@@ -2,8 +2,10 @@
 *verb*
 > /ˌkɒmənˈdɪə(r)/
 
+![[commandeer.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADVERTISING
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To officially take possession of something especially for military or commercial/public use; take control of.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commandeer public spaces`: chiếm dụng không gian công cộng
 - `commandeer attention`: chiếm lấy sự chú ý
+- `commandeer resources`: huy động / trưng dụng các nguồn lực
+- `commandeer screen time`: chiếm lĩnh thời lượng phát sóng
+- `commandeer prime spots`: chiếm lấy các vị trí vàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The soldiers commandeered the school for their camp.

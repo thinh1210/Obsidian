@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.strə.mənt/
 
+![[instrument.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool or implement, especially one for precision work or for playing music.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `musical instrument`: nhạc cụ
 - `scientific instrument`: dụng cụ khoa học
+- `precision instrument`: dụng cụ đo độ chính xác cao
+- `instrument of change`: công cụ thúc đẩy sự thay đổi (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He plays several musical instruments, including the piano and violin.

@@ -2,8 +2,10 @@
 *n.*
 > /lænd/
 
+![[land.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of ground, especially when used for farming or building.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `agricultural land`: đất nông nghiệp
 - `own land`: sở hữu đất đai
+- `land tenure`: chế độ sở hữu/sử dụng đất
+- `arable land`: đất canh tác
+- `live off the land`: sống tự cấp tự túc nhờ làm nông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They bought a piece of land to build a country house.

@@ -2,8 +2,10 @@
 *noun*
 > /kraɪm/
 
+![[crime.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action that is against the law and can be punished.

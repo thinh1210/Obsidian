@@ -2,8 +2,10 @@
 *adjective*
 > /səˈkrætɪk/
 
+![[socratic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to Socrates or his method of cooperative argumentative dialogue to stimulate critical thinking.

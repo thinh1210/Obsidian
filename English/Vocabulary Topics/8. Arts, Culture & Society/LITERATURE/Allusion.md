@@ -2,8 +2,10 @@
 *noun*
 > /əˈluː.ʒən/
 
+![[allusion.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expression designed to call something to mind without mentioning it explicitly; indirect reference.

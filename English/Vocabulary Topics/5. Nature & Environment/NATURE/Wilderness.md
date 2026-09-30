@@ -2,8 +2,10 @@
 *Noun*
 > /ˈwɪldənəs/
 
+![[wilderness.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An uncultivated, uninhabited, and inhospitable region.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `survive in the wilderness`: sinh tồn nơi hoang dã
 - `vast wilderness`: vùng hoang dã bao la
+- `untamed wilderness`: vùng hoang dã chưa bị con người khai phá
+- `wilderness survival skills`: kỹ năng sinh tồn nơi hoang dã
+- `voice in the wilderness`: tiếng kêu trong sa mạc / ý kiến không ai đoái hoài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They spent three days hiking in the wilderness.

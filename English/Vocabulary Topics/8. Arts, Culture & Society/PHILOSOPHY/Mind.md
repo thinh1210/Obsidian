@@ -2,8 +2,10 @@
 *n.*
 > /maɪnd/
 
+![[mind.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The element of a person that enables them to be aware of the world and their experiences.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep in mind`: ghi nhớ trong đầu
 - `change one's mind`: thay đổi ý định
+- `frame of mind`: tâm trạng, trạng thái tinh thần
+- `open-minded`: tư tưởng cởi mở khoáng đạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a very creative mind.

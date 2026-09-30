@@ -2,8 +2,10 @@
 *noun*
 > /ˈpæsɪndʒər/
 
+![[passenger.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traveler on a public or private conveyance other than the driver, pilot, or crew.
@@ -16,6 +18,7 @@
 - `passenger seat`: ghế hành khách
 - `passenger train`: tàu chở khách
 - `transit passenger`: hành khách quá cảnh
+- `airline passenger`: hành khách trên chuyến bay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The driver asked the passengers to fasten their seatbelts.

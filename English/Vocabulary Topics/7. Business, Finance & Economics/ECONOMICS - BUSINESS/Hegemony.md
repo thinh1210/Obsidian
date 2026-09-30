@@ -2,8 +2,10 @@
 *noun*
 > /hɪˈdʒeməni/
 
+![[hegemony.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** leadership or dominance, especially by one country or social group over others.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `economic hegemony`: bá quyền kinh tế
 - `global hegemony`: quyền bá chủ toàn cầu
+- `dollar hegemony`: sự thống trị của đồng đô la Mỹ
+- `market hegemony`: vị thế bá chủ thị trường
+- `challenge hegemony`: thách thức sự thống trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cultural hegemony of English makes it a necessary language for global travel.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈskelɪtn/
 
+![[skeleton.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An internal or external framework of bones, cartilage, or other rigid material supporting or containing the body of an animal or human
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human skeleton`: bộ xương người
 - `fossilized skeleton`: bộ xương hóa thạch
+- `intact skeleton`: bộ xương còn nguyên vẹn
+- `skeletal anatomy`: giải phẫu học bộ xương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The science classroom has a model of a human skeleton.

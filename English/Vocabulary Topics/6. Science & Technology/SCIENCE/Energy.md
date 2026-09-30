@@ -2,8 +2,10 @@
 *noun*
 > /ˈen.ə.dʒi/
 
+![[energy.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The power derived from physical or chemical resources to do work or produce heat or light.

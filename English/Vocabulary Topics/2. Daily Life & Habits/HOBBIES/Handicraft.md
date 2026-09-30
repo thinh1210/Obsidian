@@ -2,8 +2,10 @@
 *n.*
 > /ˈhæn.dɪ.krɑːft/
 
+![[handicraft.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A skilled activity in which something is made in a traditional way with the hands rather than being produced by machines.

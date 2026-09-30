@@ -2,8 +2,10 @@
 *noun*
 > /kəmˈpəʊnənt/
 
+![[component.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part or element of a larger whole, especially a part of a machine or vehicle.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electronic component`: linh kiện điện tử
 - `key component`: thành phần chủ chốt
+- `structural component`: bộ phận kết cấu
+- `modular component`: thành phần mô-đun
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* If one small electronic component fails, the entire computer might stop working.

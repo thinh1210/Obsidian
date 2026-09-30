@@ -2,8 +2,10 @@
 *n.*
 > /ˈruːtər/ or /ˈraʊtər/
 
+![[router.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that forwards data packets to the appropriate parts of a computer network.

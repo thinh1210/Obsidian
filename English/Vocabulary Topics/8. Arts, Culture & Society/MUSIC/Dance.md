@@ -2,8 +2,10 @@
 *v.*
 > /dɑːns/
 
+![[dance.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move rhythmically to music, typically following a set sequence of steps.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dance to the music`: nhảy theo nhạc
 - `dance floor`: sàn nhảy
+- `slow dance`: điệu khiêu vũ chậm
+- `lead the dance`: dẫn dắt điệu nhảy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They danced all night at the wedding party.

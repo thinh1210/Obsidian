@@ -2,8 +2,10 @@
 *noun*
 > /ˈʃɒplɪftɪŋ/
 
+![[shoplifting.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The illegal act of taking goods from a shop without paying for them
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `catch shoplifting`: bắt quả tang ăn cắp ở cửa hàng
 - `prevent shoplifting`: ngăn chặn ăn cắp cửa hàng
+- `convicted of shoplifting`: bị kết án về hành vi trộm cắp đồ trong siêu thị
+- `shoplifting spree`: hành vi liên tiếp trộm cắp ở nhiều cửa hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Security cameras are installed to prevent shoplifting.

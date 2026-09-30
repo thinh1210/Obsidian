@@ -2,8 +2,10 @@
 *noun*
 > /həˈraɪ.zən/
 
+![[horizon.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The line at which the earth's surface and the sky appear to meet.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `event horizon`: chân trời sự kiện
 - `above the horizon`: phía trên đường chân trời
+- `cosmic event horizon`: chân trời sự kiện vũ trụ
+- `dip below the horizon`: lặn xuống dưới đường chân trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched the ships disappear over the horizon.

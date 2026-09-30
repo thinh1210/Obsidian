@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈrəʊl/
 
+![[enroll.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Officially register as a member of an institution or a student on a course.

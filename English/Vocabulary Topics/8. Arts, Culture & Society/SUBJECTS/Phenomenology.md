@@ -2,8 +2,10 @@
 *n.*
 > /fɪˌnɒm.ɪˈnɒl.ə.dʒi/
 
+![[phenomenology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The philosophical study of structures of experience and consciousness, particularly as it appears to the first-person perspective.

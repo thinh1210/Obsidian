@@ -2,8 +2,10 @@
 *v.*
 > /ˈhed.hʌnt/
 
+![[headhunt.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To recruit top personnel who are currently employed elsewhere
@@ -13,7 +15,11 @@
 💡 Đi tìm cái "head" (đầu) để "hunt" (săn) về làm giám đốc
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``be headhunted for a job`: được săn đầu người cho một công việc
+- `be headhunted for a job`: được săn đầu người cho một công việc
+- `headhunting firm`: công ty chuyên dịch vụ săn nhân tài
+- `headhunt top talent`: săn đón các chuyên gia đầu ngành
+- `targeted by headhunters`: lọt vào mắt xanh của các chuyên viên săn đầu người
+- `executive headhunting`: dịch vụ tuyển dụng lãnh đạo cấp cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was headhunted by a rival company for the CEO position.

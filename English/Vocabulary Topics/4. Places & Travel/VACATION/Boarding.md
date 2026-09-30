@@ -2,8 +2,10 @@
 *Noun*
 > /ˈbɔrdɪŋ/
 
+![[boarding.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of passengers and crew getting aboard a ship or aircraft.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `boarding pass`: thẻ lên máy bay
 - `boarding time`: giờ lên máy bay
+- `boarding gate`: cổng kiểm soát lên máy bay
+- `priority boarding`: lên máy bay theo diện ưu tiên
+- `final boarding call`: thông báo lên máy bay lần cuối cùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Show your boarding pass.

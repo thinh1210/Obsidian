@@ -2,8 +2,10 @@
 *n.*
 > /ˈskruː.tɪ.ni/
 
+![[scrutiny.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Critical observation or examination.
@@ -13,7 +15,10 @@
 💡 Scrutiny -> Nhìn chằm chằm
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Under close scrutiny: Dưới sự kiểm tra kỹ lưỡng`
+- `Under close scrutiny`: Dưới sự kiểm tra kỹ lưỡng
+- `intense scrutiny`: sự săm soi giám sát gay gắt
+- `withstand public scrutiny`: chịu đựng được sự giám sát của dư luận
+- `escape scrutiny`: thoát khỏi sự kiểm tra soi xét
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Public scrutiny.

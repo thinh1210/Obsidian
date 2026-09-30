@@ -2,8 +2,10 @@
 *noun*
 > /ˌreprɪzenˈteɪʃn/
 
+![[representation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of speaking or acting on behalf of someone or the state of being so represented.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political representation`: sự đại diện chính trị
 - `proportional representation`: sự đại diện tỷ lệ
+- `lack of female representation`: sự thiếu vắng đại diện nữ giới
+- `equal representation`: sự đại diện bình đẳng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Taxpayers deserve fair representation in the local council.

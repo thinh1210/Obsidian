@@ -2,8 +2,10 @@
 *n.*
 > /ˌsɪŋ.kəˈpeɪ.ʃən/
 
+![[syncopation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A displacement of the beat or accents so that strong beats become weak and vice versa, typical in jazz and reggae.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rhythmic syncopation`: sự đảo phách nhịp điệu
 - `heavy syncopation`: sự đảo phách mạnh mẽ
+- `syncopated beat`: phách nhạc bị đảo nghịch
+- `jazz syncopation`: kỹ thuật đảo phách đặc trưng của jazz
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The energetic feel of the song is created by its complex syncopation.

@@ -2,8 +2,10 @@
 *adjective.*
 > /rɪˈmoʊt/
 
+![[remote.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Operating or controlled from a distance
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `remote control`: điều khiển từ xa
+- `remote operation`: vận hành từ xa
+- `remote access`: truy cập từ xa
+- `remote sensing`: viễn thám
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I use a remote controller to guide the toy robot.

@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈdʒuːvəneɪt/
 
+![[rejuvenate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (someone or something) look or feel younger, fresher, or more lively.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rejuvenate the body`: làm sảng khoái cơ thể
+- `rejuvenate mind and body`: tái tạo năng lượng cho tâm trí và cơ thể
+- `rejuvenating sleep`: giấc ngủ sâu giúp phục hồi thể lực
+- `rejuvenating weekend retreat`: chuyến nghỉ dưỡng cuối tuần nạp lại năng lượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Spa days rejuvenate me.

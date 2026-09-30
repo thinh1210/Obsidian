@@ -2,8 +2,10 @@
 *n*
 > /ˈdɒktər/
 
+![[doctor.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has been trained in science and medicine and is qualified to treat people who are ill.

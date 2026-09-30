@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪm.plɪ.mənt/
 
+![[implement.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool, utensil, or other piece of equipment, especially used for a particular purpose.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `agricultural implement`: dụng cụ nông nghiệp
 - `writing implement`: dụng cụ viết
+- `farming implement`: nông cụ canh tác
+- `implement a policy`: triển khai thực thi chính sách
+- `gardening implements`: dụng cụ làm vườn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Stone implements from the Bronze Age were found in the cave.

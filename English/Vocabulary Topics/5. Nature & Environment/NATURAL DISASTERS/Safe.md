@@ -2,8 +2,10 @@
 *adjective*
 > /seɪf/
 
+![[safe.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not in danger or likely to be harmed or lost.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep safe`: giữ an toàn
 - `safe place`: nơi an toàn
+- `safe and sound`: bình an vô sự
+- `safe haven`: nơi trú ẩn an toàn tuyệt đối
+- `play it safe`: chọn giải pháp an toàn chắc chắn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to find a safe place to stay during the storm.

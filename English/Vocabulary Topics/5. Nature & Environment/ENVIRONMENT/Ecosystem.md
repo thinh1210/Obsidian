@@ -2,8 +2,10 @@
 *n.*
 > /ˈiːkəʊsɪstəm/
 
+![[ecosystem.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A biological community of interacting organisms and their physical environment.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fragile ecosystem`: hệ sinh thái dễ bị tổn thương
 - `protect the ecosystem`: bảo vệ hệ sinh thái
+- `aquatic ecosystem`: hệ sinh thái dưới nước
+- `ecosystem services`: các dịch vụ mà hệ sinh thái cung cấp
+- `disrupt the ecosystem`: phá vỡ cân bằng hệ sinh thái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Rainforests host a highly diverse ecosystem.

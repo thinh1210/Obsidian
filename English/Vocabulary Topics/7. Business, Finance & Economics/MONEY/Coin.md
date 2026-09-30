@@ -2,8 +2,10 @@
 *noun*
 > /kɔɪn/
 
+![[coin.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flat, typically round piece of metal with an official stamp, used as money
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flip a coin`: tung đồng xu
+- `two sides of the same coin`: hai mặt của cùng một vấn đề
+- `coin money`: hái ra tiền / kiếm tiền như nước
+- `commemorative coin`: đồng xu kỷ niệm
+- `coin a phrase`: đúc kết sáng tạo ra một cụm từ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I found a gold coin on the beach.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈæm.ə.tər/
 
+![[amateur.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Engaging or engaged in an activity as a pastime rather than professionally.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `amateur athlete`: vận động viên nghiệp dư
 - `amateur tournament`: giải đấu nghiệp dư
+- `turn professional from amateur`: chuyển từ nghiệp dư lên chuyên nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is an amateur photographer who loves taking pictures of sports.

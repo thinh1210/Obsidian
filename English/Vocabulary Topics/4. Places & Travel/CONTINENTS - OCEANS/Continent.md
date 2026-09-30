@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒntɪnənt/
 
+![[continent.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the large landmasses of the earth.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `across the continent`: khắp châu lục
+- `vast continent`: châu lục rộng lớn
+- `drift across continents`: trôi dạt qua các lục địa
+- `the European continent`: lục địa châu Âu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Asia is the largest continent.

@@ -2,8 +2,10 @@
 *adj.*
 > /kənˈkʌrənt/
 
+![[concurrent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing, happening, or done at the same time
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `concurrent sentences`: các bản án thi hành cùng lúc
+- `concurrent events`: các sự kiện diễn ra đồng thời
+- `run concurrent with`: chạy đồng thời song song với
+- `concurrent execution`: sự thực thi đồng thời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There are concurrent festivals in town.

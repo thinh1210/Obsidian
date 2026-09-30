@@ -2,8 +2,10 @@
 *noun.*
 > /əˈkaʊnt/
 
+![[account.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An arrangement with a bank to keep money there and take it out.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bank account`: tài khoản ngân hàng
 - `savings account`: tài khoản tiết kiệm
+- `checking account`: tài khoản vãng lai
+- `open an account`: mở tài khoản ngân hàng
+- `overdrawn account`: tài khoản bị thấu chi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to open a bank account to receive my monthly salary.

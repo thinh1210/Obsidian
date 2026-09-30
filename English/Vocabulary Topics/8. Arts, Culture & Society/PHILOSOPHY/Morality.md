@@ -2,8 +2,10 @@
 *n.*
 > /məˈræl.ə.ti/
 
+![[morality.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Principles concerning the distinction between right and wrong or good and bad behavior.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `standards of morality`: tiêu chuẩn đạo đức
 - `traditional morality`: đạo đức truyền thống
+- `moral standard`: chuẩn mực đạo đức
+- `decline of public morality`: sự suy thoái đạo đức xã hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Society often imposes its own morality on individuals.

@@ -2,8 +2,10 @@
 *verb*
 > /ˌdiːˈplætfɔːm/
 
+![[deplatform.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To ban a user or group from a social media platform permanently, denying them a forum
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `deplatform an extremist group`: gỡ tài khoản vĩnh viễn của một nhóm cực đoan
+- `deplatform hate speech`: cấm vĩnh viễn nội dung thù hận trên nền tảng
+- `call to deplatform`: kêu gọi tẩy chay/cấm cửa khỏi nền tảng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The controversial speaker was deplatformed after violating the safety policies.

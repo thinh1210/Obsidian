@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪŋ.krə.tɪ.zəm/
 
+![[syncretism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amalgamation or attempted amalgamation of different religions, cultures, or schools of thought.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `religious syncretism`: sự dung hợp tôn giáo
 - `cultural syncretism`: sự dung hợp văn hóa
+- `form of syncretism`: hình thức hỗn dung tôn giáo / văn hóa
+- `linguistic syncretism`: sự hỗn dung ngôn ngữ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The local festival is a fascinating example of cultural syncretism.

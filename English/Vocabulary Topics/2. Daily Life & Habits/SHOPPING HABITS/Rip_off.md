@@ -2,8 +2,10 @@
 *n*
 > /ˈrɪp.ɒf/
 
+![[rip_off.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something unreasonably expensive
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `total rip-off`: hoàn toàn là chặt chém
+- `rip someone off`: chặt chém giá, lừa gạt tiền của ai
+- `cheap rip-off`: hàng nhái rẻ tiền, đồ đạo nhái
+- `avoid rip-offs`: tránh những nơi buôn bán chặt chém
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This meal is a rip-off.

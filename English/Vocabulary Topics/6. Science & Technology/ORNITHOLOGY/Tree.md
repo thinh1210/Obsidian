@@ -2,8 +2,10 @@
 *noun*
 > /triː/
 
+![[tree.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tall plant with a wooden trunk and branches that lives for many years.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `climb a tree`: leo cây
 - `nest in a tree`: làm tổ trên cây
+- `bark up the wrong tree`: hiểu lầm hoặc gõ nhầm cửa (thành ngữ)
+- `family tree`: cây gia phả dòng họ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bird flew from one tree to another.

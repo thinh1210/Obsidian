@@ -2,8 +2,10 @@
 *n.*
 > /məˈʃiːn/
 
+![[machine.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of equipment with moving parts that does work
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `washing machine`: máy giặt
 - `simple machine`: máy đơn giản
+- `computing machine`: máy tính toán cơ học
+- `machine part`: bộ phận phụ tùng máy móc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Keep your fingers away from the moving machine parts.

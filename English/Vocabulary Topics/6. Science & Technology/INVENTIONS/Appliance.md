@@ -2,8 +2,10 @@
 *Noun*
 > /əˈplaɪ.əns/
 
+![[appliance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device, machine, or piece of equipment, especially an electrical one that is used in the house.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `household appliance`: thiết bị gia dụng
 - `electrical appliance`: thiết bị điện
+- `energy-efficient appliance`: thiết bị tiết kiệm năng lượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kitchen is fully equipped with modern appliances.

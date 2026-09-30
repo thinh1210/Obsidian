@@ -2,8 +2,10 @@
 *noun*
 > /tɔːrt/
 
+![[tort.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A wrongful act or infringement of a right leading to civil legal liability

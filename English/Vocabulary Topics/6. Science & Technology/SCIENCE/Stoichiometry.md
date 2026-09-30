@@ -2,8 +2,10 @@
 *noun*
 > /ˌstɔɪ.kiˈɒm.ɪ.tri/
 
+![[stoichiometry.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The calculation of the quantities of reactants and products in chemical reactions.

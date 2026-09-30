@@ -2,8 +2,10 @@
 *Noun*
 > /aɪˈtɪnərɛri/
 
+![[itinerary.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A detailed plan or route of a journey.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `travel itinerary`: lịch trình du lịch
 - `plan an itinerary`: lên lịch trình
+- `flexible itinerary`: lịch trình du lịch linh hoạt dễ thay đổi
+- `action-packed itinerary`: lịch trình dạo chơi dày đặc trải nghiệm sôi động
+- `suggested itinerary`: lịch trình tham khảo được gợi ý sẵn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We have a packed itinerary for the trip.

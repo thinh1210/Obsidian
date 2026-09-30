@@ -2,8 +2,10 @@
 *adj.*
 > /ˈræʃ.ən.əl/
 
+![[rational.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Based on or in accordance with reason or logic.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rational decision`: quyết định lý tính
 - `rational argument`: lập luận hợp lý
+- `rational thinking`: tư duy duy lý
+- `rational actor`: chủ thể hành động hợp lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Try to remain rational and don't let your emotions take over.

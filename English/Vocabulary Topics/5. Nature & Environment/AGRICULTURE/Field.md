@@ -2,8 +2,10 @@
 *n.*
 > /fiːld/
 
+![[field.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land, used for growing crops or keeping animals.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rice field`: cánh đồng lúa
 - `work in the fields`: làm việc ngoài đồng
+- `corn field`: cánh đồng ngô
+- `field of study`: lĩnh vực nghiên cứu
+- `plough a field`: cày một thửa ruộng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cows are grazing peacefully in the grassy field.

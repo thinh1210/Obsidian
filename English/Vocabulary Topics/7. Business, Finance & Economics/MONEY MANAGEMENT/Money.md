@@ -2,8 +2,10 @@
 *Noun*
 > /ˈmʌni/
 
+![[money.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coins or banknotes used to buy things.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make money`: kiếm tiền
 - `pocket money`: tiền tiêu vặt
+- `manage money`: quản lý tài chính dòng tiền hiệu quả
+- `money-conscious`: có ý thức tiết kiệm và cân nhắc tiền bạc
+- `emergency fund`: quỹ tiền dự phòng ứng phó khẩn cấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you have enough money to buy dinner?

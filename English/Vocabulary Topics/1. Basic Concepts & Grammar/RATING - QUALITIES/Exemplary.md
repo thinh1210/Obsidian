@@ -2,8 +2,10 @@
 *adj*
 > /ɪɡˈzem.plər.i/
 
+![[exemplary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Serving as a desirable model; representing the best of its kind.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `exemplary behavior`: hành vi gương mẫu
+- `exemplary conduct`: hạnh kiểm mẫu mực
+- `exemplary punishment`: hình phạt để làm gương
+- `exemplary service`: sự phục vụ gương mẫu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her behavior was exemplary.

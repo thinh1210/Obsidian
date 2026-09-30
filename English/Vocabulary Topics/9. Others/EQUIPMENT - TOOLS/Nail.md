@@ -2,8 +2,10 @@
 *noun*
 > /neɪl/
 
+![[nail.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a small metal spike with a broadened flat head, driven into wood to join things together.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hammer a nail`: đóng một cái đinh
 - `rusty nail`: đinh gỉ
+- `hit the nail on the head`: nói trúng phóc vấn đề cốt lõi (idiom)
+- `drive a nail`: đóng một cây đinh
+- `nail down`: ấn định chốt hạ quyết định (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He hammered a nail into the wall to hang the clock.

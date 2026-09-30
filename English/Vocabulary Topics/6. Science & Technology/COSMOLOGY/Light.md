@@ -2,8 +2,10 @@
 *Noun*
 > /laɪt/
 
+![[light.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural agent that stimulates sight and makes things visible.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `speed of light`: tốc độ ánh sáng
 - `starlight`: ánh sáng từ các vì sao
+- `visible light spectrum`: quang phổ ánh sáng khả kiến
+- `beam of light`: chùm ánh sáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Turn on the light so we can see.

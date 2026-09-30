@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈlæks/
 
+![[relax.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To rest and become calm
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `just relax`: cứ thư giãn đi
 - `relax completely`: thư giãn hoàn toàn
+- `relax muscles`: thả lỏng các cơ bắp
+- `relaxed pace`: nhịp sống thư thái thong thả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to relax this weekend.

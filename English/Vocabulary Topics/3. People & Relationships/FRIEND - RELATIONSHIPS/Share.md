@@ -2,8 +2,10 @@
 *verb*
 > /ʃer/
 
+![[share.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Have a portion of something with another or others.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `share a secret`: chia sẻ bí mật
+- `share common interests`: có chung sở thích đam mê
+- `share the burden`: san sẻ gánh nặng cùng nhau
+- `share laughter and tears`: cùng chia sẻ nụ cười và giọt nước mắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Friends share their toys.

@@ -2,8 +2,10 @@
 *v.*
 > /diːˈtɒksɪfaɪ/
 
+![[detoxify.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Remove toxic substances or qualities from.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `detoxify the body`: giải độc cơ thể
+- `natural ways to detoxify`: phương pháp giải độc tự nhiên
+- `detoxify your mind`: thanh lọc tâm trí khỏi tiêu cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I drink lemon water to detoxify.

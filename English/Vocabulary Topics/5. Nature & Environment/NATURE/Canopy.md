@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkænəpi/
 
+![[canopy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The high, leafy shield of trees in a forest.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `forest canopy`: tán rừng
 - `under the canopy`: dưới vòm lá
+- `thick forest canopy`: tán rừng rậm rạp
+- `canopy walkway`: lối đi trên cao xuyên qua tán rừng
+- `canopy layer`: tầng tán rừng che phủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Monkeys move swiftly through the forest canopy.

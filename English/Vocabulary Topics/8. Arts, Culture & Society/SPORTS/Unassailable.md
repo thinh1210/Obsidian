@@ -2,8 +2,10 @@
 *adj.*
 > /ˌʌn.əˈseɪ.lə.bəl/
 
+![[unassailable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unable to be attacked, questioned, or defeated.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unassailable lead`: dẫn trước với khoảng cách không thể san lấp/không thể bị đánh bại
 - `unassailable position`: vị thế bất khả xâm phạm
+- `unassailable record`: kỷ lục bất khả chiến bại
+- `unassailable advantage`: lợi thế không thể bị san lấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The team built an unassailable lead in the first half of the match.

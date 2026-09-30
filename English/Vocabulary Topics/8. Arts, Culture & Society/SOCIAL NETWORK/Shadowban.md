@@ -2,8 +2,10 @@
 *verb*
 > /ˈʃædəʊbæn/
 
+![[shadowban.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To block a user's content from showing up in search results and feeds without the user's knowledge
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `get shadowbanned`: bị chặn ngầm
+- `shadowban penalty`: hình phạt bóp tương tác ngầm
+- `lift a shadowban`: gỡ bỏ lệnh cấm tương tác ngầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I think my account got shadowbanned because my posts suddenly got zero likes.

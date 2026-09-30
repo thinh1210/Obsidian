@@ -2,8 +2,10 @@
 *noun*
 > /ˈfəʊtəʊ/
 
+![[photo.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A picture taken with a camera and uploaded to social media
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `upload a photo`: tải lên một bức ảnh
+- `tagged in a photo`: được gắn thẻ trong bức ảnh
+- `edit a photo`: chỉnh sửa ảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I always edit my photos before putting them online.

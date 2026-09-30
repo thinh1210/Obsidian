@@ -2,8 +2,10 @@
 *n.*
 > /vɔɪs/
 
+![[voice.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sound produced in a person's larynx and uttered through the mouth, as speech or song.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `beautiful voice`: giọng hát/giọng nói đẹp
 - `raise one's voice`: nói to lên, cao giọng
+- `sing with one voice`: đồng thanh nhất trí cao
+- `find one's voice`: tìm được phong cách nghệ thuật riêng của mình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a sweet singing voice.

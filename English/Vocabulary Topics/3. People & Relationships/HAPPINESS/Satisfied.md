@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsæt.ɪs.faɪd/
 
+![[satisfied.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Contented, pleased with what has been experienced.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `satisfied with`: hài lòng với
+- `deeply satisfied`: vô cùng mãn nguyện hài lòng
+- `satisfied customer`: khách hàng hài lòng với dịch vụ
+- `satisfied smile`: nụ cười mãn nguyện trên môi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am satisfied with my score.

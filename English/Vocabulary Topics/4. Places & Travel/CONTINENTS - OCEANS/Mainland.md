@@ -2,8 +2,10 @@
 *noun*
 > /ˈmeɪnlænd/
 
+![[mainland.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large continuous extent of land that includes the greater part of a country or territory, as opposed to offshore islands and detached territories.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `travel to the mainland`: di chuyển vào đất liền
+- `mainland China`: Trung Quốc đại lục
+- `separate from the mainland`: tách biệt khỏi đất liền
+- `off the mainland`: ngoài khơi bờ biển đại lục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We took a ferry back to the mainland.

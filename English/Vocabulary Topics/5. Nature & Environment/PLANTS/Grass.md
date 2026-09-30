@@ -2,8 +2,10 @@
 *noun*
 > /ɡrɑːs/
 
+![[grass.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A common plant with thin green leaves that covers the ground.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cut the grass`: cắt cỏ
 - `green grass`: cỏ xanh
+- `grass roots movement`: phong trào bắt nguồn từ quần chúng nhân dân
+- `snake in the grass`: kẻ tiểu nhân nham hiểm ngấm ngầm
+- `the grass is always greener on the other side`: đứng núi này trông núi nọ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We laid a blanket on the green grass for a picnic.

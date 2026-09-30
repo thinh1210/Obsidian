@@ -2,8 +2,10 @@
 *verb*
 > /bluːm/
 
+![[bloom.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To produce flowers; to be in a state of beauty and vigor.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in full bloom`: nở rộ
 - `spring blooms`: hoa xuân nở
+- `late bloomer`: người thành công muộn màng
+- `bloom with health`: tràn trề sức khỏe hồng hào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cherry blossoms bloom every spring.

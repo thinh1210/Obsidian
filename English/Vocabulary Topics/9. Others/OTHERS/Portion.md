@@ -1,13 +1,21 @@
 # Portion
 
 *Noun*
+> /ˈpɔː.ʃən/
+
+![[portion.mp3]]
 
 - **[EN]:** A part of a whole; an amount, section, or piece of something.
 - **[VN]:** Phần, khẩu phần ăn.
 
-**Level:** B2
+**Level:** B2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `generous portion`: khẩu phần ăn đầy đặn hào phóng
+- `portion out`: chia nhỏ khẩu phần phân phát cho mọi người (phrasal verb)
+- `sizeable portion of the budget`: một phần đáng kể trong ngân sách
+
 ## Examples
 1. *A portion of the profits was donated to charity.*
    - Một phần lợi nhuận đã được quyên góp cho tổ chức từ thiện.

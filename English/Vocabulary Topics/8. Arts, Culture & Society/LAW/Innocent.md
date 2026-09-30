@@ -2,8 +2,10 @@
 *adjective*
 > /ˈɪn.ə.sənt/
 
+![[innocent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not guilty of a crime or offense.

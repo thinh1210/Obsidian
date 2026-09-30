@@ -2,8 +2,10 @@
 *n.*
 > /ˈpɪəriəd/
 
+![[period.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A length or portion of time
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a period of time`: một khoảng thời gian
+- `probationary period`: thời gian thử việc
+- `cooling-off period`: thời gian hạ nhiệt để cân nhắc lại
+- `transitional period`: giai đoạn chuyển tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It was a difficult period.

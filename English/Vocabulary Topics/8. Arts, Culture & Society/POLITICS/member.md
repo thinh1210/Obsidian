@@ -2,8 +2,10 @@
 *noun*
 > /ˈmembər/
 
+![[member.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person, animal, or plant that belongs to a group, team, or organization.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `member of parliament`: thành viên nghị viện
 - `active member`: thành viên tích cực
+- `founding member`: thành viên sáng lập
+- `cabinet member`: thành viên nội các
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a new member of our sports club.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈpær.ə.lel/
 
+![[parallel.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lines, planes, surfaces, or objects side by side and having the same distance continuously between them.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Parallel lines`: Đường song song
 - `Run parallel to`: Chạy song song với
+- `draw a parallel between`: vạch ra điểm tương đồng giữa
+- `without parallel`: không gì sánh bằng / vô song
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The train tracks are parallel.

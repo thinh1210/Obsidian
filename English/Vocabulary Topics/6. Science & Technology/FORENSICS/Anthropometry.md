@@ -2,8 +2,10 @@
 *noun*
 > /ˌæn.θrəˈpɒm.ɪ.tri/
 
+![[anthropometry.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The systematic measurement of the human body for identification; historically the Bertillon system used before fingerprinting.

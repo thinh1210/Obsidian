@@ -2,8 +2,10 @@
 *n.*
 > /ˈtrænspɔːt/
 
+![[transport.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system or means of conveying people or goods from place to place.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `public transport`: giao thông công cộng
+- `modes of transport`: các loại hình phương tiện giao thông
+- `public transport network`: mạng lưới giao thông công cộng
+- `goods transport`: sự vận tải hàng hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Public transport is very convenient here.

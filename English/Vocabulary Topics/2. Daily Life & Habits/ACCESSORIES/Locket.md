@@ -2,8 +2,10 @@
 *noun*
 > /ˈlɒkɪt/
 
+![[locket.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small piece of jewellery that opens to reveal a picture or lock of hair.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `open a locket`: mở nắp mặt dây chuyền
+- `heart-shaped locket`: mặt dây chuyền hình trái tim
+- `photo inside a locket`: bức ảnh lưu giữ bên trong mặt locket
+- `silver locket`: mặt dây chuyền bạc có nắp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She kept a picture of her grandmother in a gold locket.

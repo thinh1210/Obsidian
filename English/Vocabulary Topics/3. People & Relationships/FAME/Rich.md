@@ -2,8 +2,10 @@
 *adj.*
 > /rɪtʃ/
 
+![[rich.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a lot of money.
@@ -13,7 +15,10 @@
 💡 Rich kid.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `rich and famous: giàu có và nổi tiếng`
+- `rich and famous`: giàu có và nổi tiếng
+- `strike it rich`: phất lên giàu to bất ngờ (idiom)
+- `rich tapestry`: bức tranh văn hóa muôn màu đa dạng
+- `rich in resources`: dồi dào tài nguyên thiên nhiên phong phú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is very rich.

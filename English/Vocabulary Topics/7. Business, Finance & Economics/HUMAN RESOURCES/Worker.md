@@ -2,8 +2,10 @@
 *n.*
 > /ˈwɜː.kər/
 
+![[worker.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who does a specified type of work or job
@@ -13,7 +15,11 @@
 💡 "Worker" chăm chỉ "uớc" có ngày làm "cơ" to
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``factory worker`: công nhân nhà máy
+- `factory worker`: công nhân nhà máy
+- `skilled worker`: người thợ có tay nghề vững vàng
+- `blue-collar worker`: công nhân trực tiếp lao động chân tay
+- `white-collar worker`: nhân viên khối văn phòng bàn giấy
+- `gig worker`: người làm việc tự do trong nền kinh tế thời vụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Social workers help families in need.

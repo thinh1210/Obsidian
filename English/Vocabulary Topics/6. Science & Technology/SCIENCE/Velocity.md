@@ -2,8 +2,10 @@
 *noun*
 > /vəˈlɒs.ɪ.ti/
 
+![[velocity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The speed of something in a given direction; a vector quantity with both magnitude and direction.

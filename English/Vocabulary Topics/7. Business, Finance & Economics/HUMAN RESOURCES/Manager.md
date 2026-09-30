@@ -2,8 +2,10 @@
 *n.*
 > /ˈmæn.ɪ.dʒər/
 
+![[manager.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person responsible for controlling or administering an organization or staff
@@ -13,7 +15,11 @@
 💡 Người quản lý cần phải "men" (mạnh mẽ) để "dơ" đầu chịu báng
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``project manager`: quản lý dự án
+- `project manager`: quản lý dự án
+- `line manager`: cấp trên quản lý trực tiếp hàng ngày
+- `general manager`: tổng giám đốc quản trị điều hành
+- `middle manager`: cán bộ quản lý cấp trung gian
+- `micromanager`: người lãnh đạo soi mói kiểm soát thái quá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to speak with the store manager.

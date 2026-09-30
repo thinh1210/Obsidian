@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈsemɪneɪt/
 
+![[disseminate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Spread (something, especially information) widely.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `disseminate information`: phổ biến thông tin
 - `disseminate knowledge`: lan truyền kiến thức
+- `widely disseminate`: phổ biến rộng rãi đến công chúng
+- `disseminate ideas`: truyền bá các tư tưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Social media makes it easy to disseminate news.

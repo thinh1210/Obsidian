@@ -2,8 +2,10 @@
 *noun*
 > /ˈevɪdəns/
 
+![[evidence.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One or more reasons for believing that something is or is not true, especially in court
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gather evidence`: thu thập bằng chứng
 - `lack of evidence`: thiếu bằng chứng
+- `admissible evidence`: chứng cứ hợp pháp được tòa án chấp thuận
+- `tamper with evidence`: tiêu hủy làm sai lệch chứng cứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There is no clear evidence that he took the money.

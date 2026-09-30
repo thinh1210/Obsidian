@@ -2,8 +2,10 @@
 *n.*
 > /ˈʃæntitaʊn/
 
+![[shantytown.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area in or on the edge of a city where poor people live in small, very cheaply built houses.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sprawling shantytown`: khu ổ chuột rộng lớn
+- `shantytown dwellers`: những cư dân khu ổ chuột
+- `impoverished shantytown`: khu ổ chuột nghèo nàn cơ cực
+- `demolish a shantytown`: giải tỏa khu nhà ổ chuột
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many people live in shantytowns.

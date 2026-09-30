@@ -2,8 +2,10 @@
 *v.*
 > /plɑːnt/
 
+![[plant.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put a seed, bulb, or plant into the ground so that it will grow.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plant trees`: trồng cây
 - `plant seeds`: gieo hạt giống
+- `plant a thought in mind`: gieo vào tâm trí một ý nghĩ
+- `plant feet firmly`: đứng vững vàng, trụ chắc đôi chân
+- `power plant`: nhà máy phát điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We planted some roses in the garden yesterday.

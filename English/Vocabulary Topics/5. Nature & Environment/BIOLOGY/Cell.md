@@ -2,8 +2,10 @@
 *noun*
 > /sel/
 
+![[cell.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The smallest structural and functional unit of an organism, typically microscopic and containing cytoplasm and a nucleus in a membrane.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cell division`: sự phân chia tế bào
 - `stem cell`: tế bào gốc
+- `cell membrane`: màng tế bào
+- `red blood cell`: hồng cầu
+- `cellular respiration`: hô hấp tế bào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Plant cells have a rigid cell wall.

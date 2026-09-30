@@ -2,8 +2,10 @@
 *noun*
 > /ˈlɔɪəlti/
 
+![[loyalty.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being loyal to a brand, product, or company; faithfulness
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `customer loyalty`: lòng trung thành của khách hàng
 - `loyalty program`: chương trình khách hàng thân thiết
+- `foster loyalty`: nuôi dưỡng và củng cố sự gắn kết với thương hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She showed her loyalty to the bakery by buying cakes there every birthday.

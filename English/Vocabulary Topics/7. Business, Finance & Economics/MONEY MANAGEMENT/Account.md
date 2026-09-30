@@ -2,8 +2,10 @@
 *Noun*
 > /əˈkaʊnt/
 
+![[account.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement with a bank to keep your money and let you take it out when you need to.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bank account`: tài khoản ngân hàng
 - `savings account`: tài khoản tiết kiệm
+- `joint account`: tài khoản ngân hàng đứng tên chung
+- `account balance`: số dư hiện tại trong tài khoản
+- `settle an account`: thanh toán dứt điểm công nợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to open a bank account to receive my monthly salary.

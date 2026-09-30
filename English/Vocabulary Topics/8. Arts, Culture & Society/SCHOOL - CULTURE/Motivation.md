@@ -2,8 +2,10 @@
 *noun*
 > /ˌməʊtɪˈveɪʃn/
 
+![[motivation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The reason or reasons one has for acting or behaving in a particular way.

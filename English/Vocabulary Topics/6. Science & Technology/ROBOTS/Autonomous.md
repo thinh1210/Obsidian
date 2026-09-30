@@ -2,8 +2,10 @@
 *adjective.*
 > /ɑːˈtɑː.nə.məs/
 
+![[autonomous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a machine, vehicle, or system) having the power to operate independently and make its own decisions
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `autonomous vehicle`: phương tiện tự hành
+- `autonomous drone`: máy bay không người lái tự hành
+- `autonomous navigation`: điều hướng tự động
+- `fully autonomous`: hoàn toàn tự chủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Autonomous robots can navigate through warehouses without hitting obstacles.

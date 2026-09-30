@@ -2,8 +2,10 @@
 *n*
 > /wuːnd/
 
+![[wound.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An injury to living tissue, especially one in which the skin is cut or broken.

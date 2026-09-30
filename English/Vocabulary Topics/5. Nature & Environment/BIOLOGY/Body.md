@@ -2,8 +2,10 @@
 *noun*
 > /ˈbɒd.i/
 
+![[body.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The physical structure of a person or an animal, including the bones, flesh, and organs.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human body`: cơ thể người
 - `body temperature`: nhiệt độ cơ thể
+- `foreign body`: dị vật lọt vào cơ thể
+- `body metabolism`: quá trình trao đổi chất của cơ thể
+- `in a body`: đồng loạt / như một khối thống nhất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She exercises to keep her body healthy.

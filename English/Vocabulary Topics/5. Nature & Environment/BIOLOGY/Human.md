@@ -2,8 +2,10 @@
 *noun*
 > /ˈhjuː.mən/
 
+![[human.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A human being, especially a person as distinguished from a non-human animal.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human body`: cơ thể người
 - `human nature`: bản chất con người
+- `human anatomy`: giải phẫu học cơ thể người
+- `human genome project`: dự án bản đồ gen người
+- `to err is human`: nhân vô thập toàn / con người ai cũng có lỗi lầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are all human and make mistakes.

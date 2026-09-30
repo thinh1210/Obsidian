@@ -2,8 +2,10 @@
 *noun*
 > /səˈveɪ.ləns/
 
+![[surveillance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Close observation, especially of a suspected person or place, often using cameras or monitoring.

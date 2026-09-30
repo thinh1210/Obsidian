@@ -2,8 +2,10 @@
 *adjective*
 > /ɪnˈdeɪn.dʒəd/
 
+![[endangered.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a species) seriously at risk of extinction.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endangered species list`: danh sách các loài có nguy cơ tuyệt chủng
 - `critically endangered`: nguy cơ tuyệt chủng cực kỳ nghiêm trọng
+- `endangered habitat`: môi trường sống đang bị đe dọa
+- `threaten with endangerment`: đẩy vào nguy cơ tuyệt chủng
+- `endangered animal`: động vật có nguy cơ tuyệt chủng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The giant panda is one of the world's most famous endangered animals.

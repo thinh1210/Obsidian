@@ -2,8 +2,10 @@
 *noun.*
 > /kæʃ/
 
+![[cash.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money in the form of coins or notes, rather than checks or cards.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cash payment`: thanh toán tiền mặt
 - `cold hard cash`: tiền mặt trao tay
+- `cash reserves`: dự trữ tiền mặt
+- `cash flow statement`: báo cáo lưu chuyển tiền tệ
+- `cash cow`: mảng kinh doanh sinh lời dồi dào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I don't have any cash on me; can I pay via bank transfer?

@@ -2,8 +2,10 @@
 *verb*
 > /tæɡ/
 
+![[tag.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To attach a user's name link to a photo, post, or video
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tag a friend`: gắn thẻ một người bạn
+- `geo-tag a location`: gắn thẻ tọa độ địa lý
+- `tag someone in a comment`: gắn thẻ tên ai đó trong phần bình luận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please tag me in the photo you took at the party.

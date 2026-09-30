@@ -2,8 +2,10 @@
 *noun*
 > /ˌheɪbiəs ˈkɔːrpəs/
 
+![[habeas_corpus.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A legal principle requiring that a person held in custody must be brought before a judge to determine if the detention is lawful

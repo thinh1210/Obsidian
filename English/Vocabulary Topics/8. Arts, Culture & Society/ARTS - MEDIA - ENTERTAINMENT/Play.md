@@ -2,8 +2,10 @@
 *v.*
 > /pleɪ/
 
+![[play.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Take part in games for amusement; perform on a musical instrument; act a role in a play/movie.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `play an instrument`: chơi một nhạc cụ
 - `play a role`: đóng một vai trò/vai diễn
+- `stage a play`: dàn dựng công diễn một vở kịch
+- `Broadway play`: vở kịch danh tiếng sân khấu Broadway
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He plays the guitar very well.

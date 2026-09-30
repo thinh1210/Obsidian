@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈkrɪstəlaɪn/
 
+![[crystalline.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having the structure and form of a crystal; clear.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `crystalline structure`: cấu trúc tinh thể
 - `crystalline lens`: thủy tinh thể (mắt)
+- `crystalline purity`: độ tinh khiết pha lê trong suốt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Snowflakes exhibit beautiful and unique crystalline shapes under a microscope.

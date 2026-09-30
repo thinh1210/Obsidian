@@ -2,8 +2,10 @@
 *noun*
 > /ˈʃuːleɪs/
 
+![[shoelace.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thin string or strip of leather used to fasten shoes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tie a shoelace`: buộc dây giày
+- `untied shoelaces`: dây giày bị tuột
+- `lace up shoelaces`: buộc dây giày gọn gàng
+- `snap a shoelace`: làm đứt dây giày
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Your shoelace is untied.

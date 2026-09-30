@@ -2,8 +2,10 @@
 *adj*
 > /ˈæd.ə.kwət/
 
+![[adequate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Satisfactory or acceptable in quality or quantity.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adequate time`: đủ thời gian
+- `adequate resources`: đủ tài nguyên cần thiết
+- `adequate preparation`: sự chuẩn bị đầy đủ
+- `more than adequate`: thừa đủ đáp ứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We have adequate supplies for the trip.

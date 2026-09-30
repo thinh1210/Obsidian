@@ -2,8 +2,10 @@
 *adj.*
 > /ˈpæʃ.ən.ət/
 
+![[passionate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing or caused by strong feelings or a strong belief.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `passionate about`: đam mê về
+- `passionate advocate`: người ủng hộ đầy nhiệt huyết
+- `passionate about learning`: đam mê học hỏi không ngừng
+- `passionate speech`: bài diễn văn đầy nhiệt huyết truyền cảm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is passionate about music.

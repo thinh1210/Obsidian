@@ -2,8 +2,10 @@
 *noun*
 > /ˈgæs.kɪt/
 
+![[gasket.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a shaped piece of rubber, asbestos, or paper used to seal the junction between two surfaces.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `head gasket`: gioăng nắp máy
 - `blown gasket`: gioăng bị hỏng/vỡ
+- `blow a gasket`: nổi cơn thịnh nộ dữ dội (idiom)
+- `rubber gasket`: gioăng cao su làm kín
+- `cylinder head gasket`: gioăng nắp máy động cơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The mechanic replaced the head gasket to stop the engine oil leak.

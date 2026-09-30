@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈfjuː.ʒən/
 
+![[diffusion.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which particles spread from an area of high concentration to low concentration.

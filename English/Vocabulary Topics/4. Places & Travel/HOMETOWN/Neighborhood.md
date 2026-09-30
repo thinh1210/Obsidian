@@ -2,8 +2,10 @@
 *n.*
 > /ˈneɪbəhʊd/
 
+![[neighborhood.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A district, especially one forming a community within a town or city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `quiet neighborhood`: khu dân cư yên tĩnh
+- `peaceful neighborhood`: khu xóm yên tĩnh hiền hòa
+- `neighborhood watch`: đội tuần tra giữ gìn trật tự khu phố
+- `in the neighborhood of`: xấp xỉ khoảng chừng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's a very safe neighborhood.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈæl.tru.ɪ.zəm/
 
+![[altruism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Selfless concern for the well-being of others.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reciprocal altruism`: vị tha tương hỗ
 - `pure altruism`: lòng vị tha thuần túy
+- `foster altruism`: nuôi dưỡng tinh thần vị tha
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Giving anonymously to charity is an act of pure altruism.

@@ -2,8 +2,10 @@
 *n.*
 > /mɒnˈtɑːʒ/
 
+![[montage.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process or technique of selecting, editing, and piecing together separate sections of film to form a continuous whole, often indicating the passage of time
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `training montage`: phân cảnh tập luyện ghép nhanh
 - `opening montage`: chuỗi cảnh ghép mở đầu
+- `montage sequence`: chuỗi hình ảnh ghép nối biểu thị thời gian trôi
+- `Soviet montage`: nghệ thuật dựng phim theo trường phái Xô Viết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The movie features a classic training montage showing the hero getting stronger.

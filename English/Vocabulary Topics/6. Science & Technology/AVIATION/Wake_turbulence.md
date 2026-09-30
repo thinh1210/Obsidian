@@ -2,8 +2,10 @@
 *noun phrase*
 > /weɪk ˈtɜː.bjʊ.ləns/
 
+![[wake_turbulence.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A disturbance in the atmosphere that forms behind an aircraft as it passes through the air, caused by wingtip vortices.

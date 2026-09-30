@@ -2,8 +2,10 @@
 *noun*
 > /ˈkweɪ.zɑːr/
 
+![[quasar.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extremely active and luminous galactic nucleus powered by a supermassive black hole.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `distant quasar`: quasar ở xa xôi
 - `luminous quasar`: quasar phát sáng mạnh
+- `radio-loud quasar`: quasar phát sóng vô tuyến mạnh
+- `quasar spectrum`: quang phổ quasar
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I read an article about how quasars are the brightest objects in space.

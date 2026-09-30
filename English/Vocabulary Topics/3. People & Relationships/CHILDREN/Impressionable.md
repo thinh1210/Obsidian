@@ -2,8 +2,10 @@
 *adj*
 > /ɪmˈpreʃ.ən.ə.bəl/
 
+![[impressionable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Easily influenced because of a lack of critical ability.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `impressionable age`: độ tuổi dễ bị ảnh hưởng
+- `impressionable minds`: những tâm hồn non nớt dễ uốn nắn
+- `impressionable youth`: thanh thiếu niên dễ bị tác động lôi kéo
+- `highly impressionable`: rất dễ bị ảnh hưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children are at an impressionable age.

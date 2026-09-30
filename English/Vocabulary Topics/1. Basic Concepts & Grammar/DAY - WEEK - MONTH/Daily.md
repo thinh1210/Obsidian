@@ -2,8 +2,10 @@
 *adj, adv*
 > /ˈdeɪli/
 
+![[daily.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done, produced, or occurring every day or every weekday.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `daily routine`: thói quen hằng ngày
+- `daily intake`: lượng nạp vào hằng ngày
+- `on a daily basis`: trên cơ sở hằng ngày
+- `daily commute`: quãng đường đi làm hằng ngày
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Reading is my daily habit.

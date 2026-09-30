@@ -2,8 +2,10 @@
 *verb.*
 > /l/əˈsɪst/
 
+![[assist.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To help someone, typically by doing a share of the work
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `assist in research`: hỗ trợ trong nghiên cứu
+- `assist patients`: hỗ trợ bệnh nhân
+- `robotic assist`: sự hỗ trợ của robot
+- `assist with surgery`: hỗ trợ phẫu thuật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Robotic arms assist surgeons in performing delicate operations.

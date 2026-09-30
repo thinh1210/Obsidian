@@ -2,8 +2,10 @@
 *noun*
 > /ˈbæθruːm/
 
+![[bathroom.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room containing a toilet and sink and typically also a bathtub or shower.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to the bathroom`: đi vệ sinh
 - `en-suite bathroom`: phòng tắm khép kín
+- `master bathroom`: phòng tắm chính
+- `clean the bathroom`: dọn dẹp phòng tắm
+- `bathroom cabinet`: tủ gương phòng tắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to use the bathroom.

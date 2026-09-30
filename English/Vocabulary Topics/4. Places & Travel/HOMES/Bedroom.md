@@ -2,8 +2,10 @@
 *noun*
 > /ˈbɛdruːm/
 
+![[bedroom.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room for sleeping in.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `master bedroom`: phòng ngủ chính
 - `spare bedroom`: phòng ngủ cho khách
+- `guest bedroom`: phòng ngủ cho khách
+- `bedroom furniture`: đồ nội thất phòng ngủ
+- `retire to the bedroom`: về phòng ngủ nghỉ ngơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My bedroom is upstairs.

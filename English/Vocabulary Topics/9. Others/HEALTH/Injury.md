@@ -2,8 +2,10 @@
 *n*
 > /ˈɪndʒəri/
 
+![[injury.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical damage to the body caused by violence, accident, or fracture.

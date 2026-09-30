@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɪʃ.uː/
 
+![[tissue.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `muscle tissue`: mô cơ
 - `plant tissue`: mô thực vật
+- `tissue engineering`: công nghệ kỹ thuật tạo mô
+- `connective tissue`: mô liên kết
+- `tissue regeneration`: sự tái tạo mô
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The doctor took a sample of tissue for testing.

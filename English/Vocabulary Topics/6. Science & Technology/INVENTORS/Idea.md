@@ -2,8 +2,10 @@
 *n.*
 > /aɪˈdɪə/
 
+![[idea.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A suggestion or plan for doing something, or an opinion or belief
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `good idea`: ý tưởng hay
 - `have an idea`: có một ý tưởng
+- `bright idea`: ý tưởng sáng suốt tuyệt vời
+- `bounce ideas off someone`: trao đổi ý tưởng để lấy ý kiến phản hồi (idiom)
+- `not have the faintest idea`: hoàn toàn chẳng biết một chút gì (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a good idea for our weekend trip.

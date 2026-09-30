@@ -2,8 +2,10 @@
 *n*
 > /tekˈnɒk.rə.si/
 
+![[technocracy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government in which technically trained experts hold power, rather than elected politicians.

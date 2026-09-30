@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈdʌldʒəns/
 
+![[indulgence.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or fact of indulging.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a small indulgence`: một sự chiều chuộng nho nhỏ
+- `self-indulgence`: sự nuông chiều bản thân
+- `rare indulgence`: thú vui hiếm khi tự cho phép
+- `sweet indulgence`: món ngon ngọt ngào tự thưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Chocolate is my only indulgence.

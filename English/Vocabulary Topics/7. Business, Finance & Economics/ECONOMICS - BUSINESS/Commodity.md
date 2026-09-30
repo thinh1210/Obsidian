@@ -2,8 +2,10 @@
 *noun*
 > /kəˈmɑːdəti/
 
+![[commodity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a substance or product that can be traded, bought, or sold, especially an agricultural product or raw material.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `primary commodity`: hàng hóa sơ cấp
 - `commodity market`: thị trường hàng hóa
+- `commodity price`: giá cả các mặt hàng thô
+- `agricultural commodity`: hàng hóa nông sản
+- `trade commodities`: kinh doanh giao dịch hàng hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Coffee has become a valuable global commodity over the years.

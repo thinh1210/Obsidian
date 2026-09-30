@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɡet.ə.weɪ/
 
+![[getaway.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short holiday or a place where you can go for a short holiday.

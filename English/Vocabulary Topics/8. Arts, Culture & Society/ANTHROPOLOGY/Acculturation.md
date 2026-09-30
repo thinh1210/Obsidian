@@ -2,8 +2,10 @@
 *n.*
 > /əˌkʌl.tʃəˈreɪ.ʃən/
 
+![[acculturation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Assimilation to a different culture, typically the dominant one.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultural acculturation`: sự tiếp biến văn hóa
 - `process of acculturation`: quá trình tiếp biến văn hóa
+- `rapid acculturation`: sự tiếp biến văn hóa nhanh chóng
+- `acculturation stress`: căng thẳng do tiếp biến văn hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Immigrants often undergo a process of acculturation.

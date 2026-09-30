@@ -2,8 +2,10 @@
 *verb*
 > /ˈædvərtaɪz/
 
+![[advertise.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To describe or draw attention to a product, service, or event in a public medium to promote sales
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `advertise heavily`: quảng cáo rầm rộ
 - `advertise online`: quảng cáo trực tuyến
+- `advertise on social platforms`: quảng cáo trên các nền tảng mạng xã hội
+- `advertise discounts`: quảng bá các chương trình ưu đãi giảm giá
+- `heavily advertised`: được quảng cáo với tần suất dày đặc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Small businesses often advertise on social media because it is cheap.

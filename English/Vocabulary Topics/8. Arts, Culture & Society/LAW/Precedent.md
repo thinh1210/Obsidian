@@ -2,8 +2,10 @@
 *noun*
 > /ˈpres.ɪ.dənt/
 
+![[precedent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.

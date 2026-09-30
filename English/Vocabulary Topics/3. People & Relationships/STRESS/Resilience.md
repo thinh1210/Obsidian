@@ -2,8 +2,10 @@
 *n.*
 > /rɪˈzɪliəns/
 
+![[resilience.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The capacity to recover quickly from difficulties; toughness
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build resilience`: xây dựng sự kiên cường
 - `show resilience`: thể hiện sự kiên cường
+- `emotional resilience`: sự kiên cường về mặt cảm xúc
+- `bounce back with resilience`: hồi phục mạnh mẽ đầy kiên cường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She showed great resilience during the crisis.

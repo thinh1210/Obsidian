@@ -2,8 +2,10 @@
 *n.*
 > /ɪkˈsper.ɪ.mənt/
 
+![[experiment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A scientific test that is done in order to study what happens and to gain new knowledge
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conduct an experiment`: tiến hành một thí nghiệm
 - `scientific experiment`: thí nghiệm khoa học
+- `laboratory experiment`: thí nghiệm trong phòng lab
+- `experiment with new techniques`: thử nghiệm với các kỹ thuật mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We performed a chemistry experiment in school today.

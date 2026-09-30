@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɜːbaɪn/
 
+![[turbine.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine for producing continuous power in which a wheel or rotor is made to revolve by a fast-flowing flow of water, steam, gas, air, or other fluid.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wind turbine`: tua-bin gió
 - `steam turbine`: tua-bin hơi nước
+- `gas turbine`: tua-bin khí
+- `hydroelectric turbine`: tua-bin thủy điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wind turbine spun slowly in the gentle breeze on the hill.

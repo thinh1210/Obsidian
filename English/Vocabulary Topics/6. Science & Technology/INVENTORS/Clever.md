@@ -2,8 +2,10 @@
 *adj.*
 > /ˈklev.ər/
 
+![[clever.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Quick to learn and understand things; intelligent or creative
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clever idea`: ý tưởng thông minh
 - `clever solution`: giải pháp thông minh
+- `clever design`: thiết kế thông minh tài tình
+- `clever remark`: lời nhận xét sắc sảo tinh tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* That was a clever way to solve the puzzle.

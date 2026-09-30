@@ -2,8 +2,10 @@
 *n.*
 > /ˌetɪˈmɒlədʒi/
 
+![[etymology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the origin of words and the way in which their meanings have changed throughout history
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `word etymology`: nguồn gốc của từ
+- `trace the etymology`: truy nguồn gốc từ nguyên
+- `etymological origin`: nguồn gốc từ nguyên học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love researching the etymology of everyday phrases.

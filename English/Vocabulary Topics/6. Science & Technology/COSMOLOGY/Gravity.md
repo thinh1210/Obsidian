@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɡræv.ə.ti/
 
+![[gravity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The force that attracts a body toward the center of the earth, or toward any other physical body having mass.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gravitational pull`: lực hút hấp dẫn
 - `zero gravity`: không trọng lực
+- `microgravity environment`: môi trường vi trọng lực
+- `force of gravity`: lực hấp dẫn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gravity keeps us from floating away into space.

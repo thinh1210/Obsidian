@@ -2,8 +2,10 @@
 *n.*
 > /ˈhæbɪt/
 
+![[habit.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A settled or regular tendency or practice.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `daily habit`: thói quen hàng ngày
+- `form a healthy habit`: hình thành thói quen lành mạnh
+- `break a bad habit`: từ bỏ một thói quen xấu
+- `creature of habit`: người sống theo thói quen cố định
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Reading is a good habit.

@@ -2,8 +2,10 @@
 *adj.*
 > /ɪˈnɔːməs/
 
+![[enormous.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Very large in size, quantity, or extent
@@ -13,7 +15,10 @@
 💡 E nơ mút (nấm) to lớn
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``enormous impact`: tác động to lớn`
+- `enormous impact`: tác động to lớn
+- `enormous pressure`: áp lực to lớn
+- `enormous potential`: tiềm năng to lớn
+- `enormous amount of money`: số tiền khổng lồ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Enormous dog.

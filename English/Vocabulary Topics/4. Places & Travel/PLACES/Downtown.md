@@ -2,8 +2,10 @@
 *n./adv.*
 > /ˌdaʊnˈtaʊn/
 
+![[downtown.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The commercial or business center of a city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go downtown`: đi xuống trung tâm thành phố
+- `downtown skyline`: đường chân trời các tòa cao ốc trung tâm
+- `commute downtown`: đi làm vào khu trung tâm
+- `downtown restaurant`: nhà hàng ở trung tâm phố
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's go downtown for dinner.

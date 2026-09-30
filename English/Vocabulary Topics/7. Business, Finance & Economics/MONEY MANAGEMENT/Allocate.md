@@ -2,8 +2,10 @@
 *Verb*
 > /ˈæləkeɪt/
 
+![[allocate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To distribute resources or duties for a particular purpose.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `allocate budget`: phân bổ ngân sách
 - `allocate resources`: phân bổ nguồn lực
+- `allocate capital`: phân bổ nguồn vốn đầu tư
+- `allocate funds`: phân bổ kinh phí cho các hạng mục
+- `strategic asset allocation`: chiến lược phân bổ danh mục tài sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's wise to allocate a portion of your monthly income to emergency savings.

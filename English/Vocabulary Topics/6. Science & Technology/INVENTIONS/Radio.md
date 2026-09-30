@@ -2,8 +2,10 @@
 *Noun*
 > /ˈreɪ.di.əʊ/
 
+![[radio.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of electronic equipment used for listening to radio broadcasts.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `listen to the radio`: nghe đài
 - `radio station`: đài phát thanh
+- `tune in to the radio`: bật đài radio bắt sóng
+- `radio waves`: sóng vô tuyến truyền thanh
+- `car radio`: đài radio gắn trên xe hơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love listening to the radio while driving.

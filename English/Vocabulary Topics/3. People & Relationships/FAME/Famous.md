@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfeɪməs/
 
+![[famous.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Known about by many people.
@@ -13,7 +15,10 @@
 💡 Fa-mous = 'phê' + 'mờ' -> quá nổi tiếng đến mờ mắt.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `famous for: nổi tiếng vì`
+- `famous for`: nổi tiếng vì
+- `famous last words`: những lời nói quá tự tin trước khi thất bại (idiom)
+- `rich and famous`: giàu có và nổi tiếng khắp nơi
+- `make someone famous`: làm cho ai đó nổi như cồn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a famous singer.

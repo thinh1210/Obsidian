@@ -2,8 +2,10 @@
 *noun.*
 > /əˈluːmɪnəm/
 
+![[aluminum.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A light silvery-gray metal, chemical element of atomic number 13.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `aluminum foil`: giấy bạc (giấy nhôm)
 - `aluminum can`: lon nhôm
+- `recycled aluminum`: nhôm tái chế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please wrap the remaining roast chicken in aluminum foil.

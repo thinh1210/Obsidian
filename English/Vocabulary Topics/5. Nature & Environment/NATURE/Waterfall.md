@@ -2,8 +2,10 @@
 *Noun*
 > /ˈwɔːtəfɔːl/
 
+![[waterfall.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cascade of water falling from a height, formed when a stream flows over a precipice.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spectacular waterfall`: thác nước ngoạn mục
 - `rushing waterfall`: thác nước chảy xiết
+- `thundering waterfall`: thác nước gầm vang vang dội
+- `plunge pool beneath the waterfall`: hồ vực nước dưới chân thác
+- `cascade waterfall`: thác nước nhiều tầng nhiều bậc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We walked through the forest to see the waterfall.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈmʌŋ.ki/
 
+![[monkey.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small to medium-sized primate, typically having a long tail and living in trees.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `monkey business`: hành vi lừa đảo/tinh nghịch
 - `wild monkey`: khỉ hoang
+- `make a monkey out of someone`: biến ai thành trò hề / làm bẽ mặt ai
+- `monkey wrench in the works`: vật ngáng đường làm hỏng kế hoạch
+- `howler monkey`: khỉ rú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A mischievous monkey grabbed the tourist's sunglasses.

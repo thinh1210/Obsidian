@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɔː.tər/
 
+![[water.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A transparent, colourless liquid essential for all known life, composed of hydrogen and oxygen (H₂O).

@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɑːmpəˈtɪʃn/
 
+![[competition.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity or condition of striving to gain or win something by defeating or establishing superiority over others
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fierce competition`: sự cạnh tranh khốc liệt
 - `stiff competition`: sự cạnh tranh gay gắt
+- `cutthroat competition`: sự cạnh tranh khốc liệt một mất một còn
+- `competitor analysis`: phân tích điểm mạnh yếu của đối thủ cạnh tranh
+- `outperform the competition`: vượt mặt các đối thủ cạnh tranh trên thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The school swimming competition will start this Saturday morning.

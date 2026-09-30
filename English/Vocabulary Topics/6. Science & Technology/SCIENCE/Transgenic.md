@@ -2,8 +2,10 @@
 *adjective*
 > /trænsˈdʒen.ɪk/
 
+![[transgenic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing genetic material introduced from another species by genetic engineering.

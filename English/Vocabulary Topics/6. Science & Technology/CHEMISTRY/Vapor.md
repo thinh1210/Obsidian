@@ -2,8 +2,10 @@
 *noun*
 > /ˈveɪ.pər/
 
+![[vapor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance diffused or suspended in the air, especially one normally liquid or solid.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `water vapor`: hơi nước
 - `vapor pressure`: áp suất hơi
+- `saturated vapor`: hơi bão hòa
+- `mercury vapor`: hơi thủy ngân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kettle was releasing a cloud of hot steam and vapor.

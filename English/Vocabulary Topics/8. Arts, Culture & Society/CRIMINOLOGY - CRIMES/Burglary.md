@@ -2,8 +2,10 @@
 *noun*
 > /ˈbɜːɡləri/
 
+![[burglary.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The crime of illegally entering a building and stealing things from it
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commit burglary`: phạm tội đột nhập trộm cắp
 - `home burglary`: vụ trộm nhà riêng
+- `break and enter`: hành vi cạy cửa đột nhập trộm cắp
+- `burglary rate`: tỷ lệ các vụ đột nhập trộm cắp tài sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We installed a new alarm system after the burglary.

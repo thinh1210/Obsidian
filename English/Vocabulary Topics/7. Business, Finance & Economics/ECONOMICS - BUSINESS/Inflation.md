@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈfleɪʃn/
 
+![[inflation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a general, continuous increase in prices of goods and services, which reduces the purchasing power of money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `inflation rate`: tỷ lệ lạm phát
 - `combat inflation`: chống lạm phát
+- `hyperinflation`: hiện tượng siêu lạm phát
+- `galloping inflation`: lạm phát phi mã
+- `curb inflation`: kiềm chế và hạ nhiệt lạm phát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Because of inflation, the same amount of groceries costs much more than last year.

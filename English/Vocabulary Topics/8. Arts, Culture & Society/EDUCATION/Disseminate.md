@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈsemɪneɪt/
 
+![[disseminate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spread or disperse information or knowledge widely
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `disseminate information`: phổ biến thông tin
 - `disseminate knowledge`: lan tỏa tri thức
+- `disseminate research findings`: phổ biến rộng rãi các phát hiện nghiên cứu
+- `disseminate best practices`: nhân rộng các phương pháp thực hành ưu việt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The internet helps to disseminate scientific papers quickly.

@@ -2,8 +2,10 @@
 *n.*
 > /rəʊt/
 
+![[rote.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Mechanical or habitual repetition of something to be learned
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rote learning`: học vẹt
 - `learn by rote`: học thuộc lòng máy móc
+- `rote memorization`: phương pháp học vẹt ghi nhớ máy móc
+- `rely on rote`: dựa dẫm ỷ lại vào cách học vẹt không bản chất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many Asian school systems rely heavily on rote learning.

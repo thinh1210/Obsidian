@@ -2,8 +2,10 @@
 *n./adj.*
 > /ruːˈtiːn/
 
+![[routine.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of actions regularly followed; a fixed program
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `daily routine`: thói quen hàng ngày
+- `break the routine`: thay đổi thói quen thường nhật
+- `settle into a routine`: bắt đầu quen với nếp sinh hoạt cố định
+- `skincare routine`: quy trình dưỡng da thường lệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My morning routine includes coffee.

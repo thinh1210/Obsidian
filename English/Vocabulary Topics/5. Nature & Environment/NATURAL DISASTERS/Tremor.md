@@ -2,8 +2,10 @@
 *noun*
 > /ˈtrem.ər/
 
+![[tremor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A slight earthquake or shaking movement.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `earth tremor`: sự rung chấn trái đất
 - `minor tremor`: rung chấn nhỏ
+- `tremor of fear`: cơn run sợ thoáng qua
+- `subtle tremor`: rung chấn tinh vi le lói
+- `aftershock tremors`: các đợt rung chấn dư chấn kéo theo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We felt a slight earth tremor last night but there was no damage.

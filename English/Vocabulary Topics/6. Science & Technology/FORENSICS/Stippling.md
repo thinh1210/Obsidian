@@ -2,8 +2,10 @@
 *noun*
 > /ˈstɪp.lɪŋ/
 
+![[stippling.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small punctate abrasions or powder burns on the skin surrounding a gunshot entry wound, caused by hot gases and unburnt powder from a firearm discharged at close range.

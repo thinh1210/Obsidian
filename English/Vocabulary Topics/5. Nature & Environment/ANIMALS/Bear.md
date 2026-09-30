@@ -2,8 +2,10 @@
 *noun*
 > /beər/
 
+![[bear.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, heavy mammal with thick fur and a very short tail.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grizzly bear`: gấu xám
 - `polar bear`: gấu bắc cực
+- `bear in mind`: ghi nhớ trong đầu
+- `bear fruit`: đơm hoa kết quả / mang lại thành quả tốt
+- `brown bear`: gấu nâu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should keep food locked away so it doesn't attract a bear.

@@ -2,8 +2,10 @@
 *Noun*
 > /ɪnˈvaɪrənmənt/
 
+![[environment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The surroundings or conditions in which a person, animal, or plant lives.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `protect the environment`: bảo vệ môi trường
 - `natural environment`: mới trường tự nhiên
+- `hostile environment`: môi trường khắc nghiệt thù địch
+- `environment policy`: chính sách môi trường
+- `protect the living environment`: bảo vệ môi trường sống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to do more to protect the environment.

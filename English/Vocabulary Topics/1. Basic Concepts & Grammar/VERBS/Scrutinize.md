@@ -2,8 +2,10 @@
 *Verb*
 > /ˈskruː.tɪ.naɪz/
 
+![[scrutinize.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To examine something very carefully in order to discover information.
@@ -13,7 +15,10 @@
 💡 Sợ rớt (scrutinize) nên xem kỹ bài thi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `scrutinize a document`: xem xét tài liệu\n- `closely scrutinize`: kiểm tra chặt chẽ
+- `scrutinize a document`: xem xét tài liệu
+- `closely scrutinize`: kiểm tra chặt chẽ
+- `scrutinize details`: soi xét kỹ lưỡng từng chi tiết nhỏ
+- `subject to close scrutiny`: chịu sự giám sát kiểm tra gắt gao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I scrutinized the bill.

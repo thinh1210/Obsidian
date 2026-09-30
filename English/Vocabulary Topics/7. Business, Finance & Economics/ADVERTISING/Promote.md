@@ -2,8 +2,10 @@
 *verb*
 > /prəˈməʊt/
 
+![[promote.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To support or actively encourage (a cause, venture, etc.); further the progress of.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `promote a brand`: quảng bá thương hiệu
 - `promote sales`: thúc đẩy doanh số
+- `heavily promote`: quảng bá rầm rộ / dồn dập
+- `promote awareness`: thúc đẩy sự nhận thức
+- `cross-promote`: quảng bá chéo chéo nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are running ads to promote their new service.

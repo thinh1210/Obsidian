@@ -2,8 +2,10 @@
 *Noun*
 > /əˈfɪlieɪt/
 
+![[affiliate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or organization officially attached to a larger body.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `affiliate marketing`: tiếp thị liên kết
 - `business affiliate`: đối tác liên kết kinh doanh
+- `affiliate network`: mạng lưới các đối tác liên kết tiếp thị
+- `affiliate commission`: tiền hoa hồng trả cho đối tác liên kết
+- `affiliate program`: chương trình liên kết kinh doanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He earns a decent income from his blog using affiliate links.

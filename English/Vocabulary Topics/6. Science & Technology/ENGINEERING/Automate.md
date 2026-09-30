@@ -2,8 +2,10 @@
 *verb*
 > /ˈɔːtəmeɪt/
 
+![[automate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To convert a process or facility to be operated by automatic equipment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fully automated`: tự động hóa hoàn toàn
 - `automate processes`: tự động hóa các quy trình
+- `automate routine tasks`: tự động hóa các nhiệm vụ định kỳ
+- `automated assembly line`: dây chuyền lắp ráp tự động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company decided to automate the packaging process to save on labor costs.

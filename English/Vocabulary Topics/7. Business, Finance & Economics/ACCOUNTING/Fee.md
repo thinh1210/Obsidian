@@ -2,8 +2,10 @@
 *n.*
 > /fiː/
 
+![[fee.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An amount of money paid for a particular piece of work or for a particular right or service

@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈdjʊə.rəns/
 
+![[endurance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** SPORTS
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to endure an unpleasant or difficult process or situation without giving way.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endurance test`: bài kiểm tra sức chịu đựng
 - `cardiovascular endurance`: sức bền tim mạch
+- `build endurance`: xây dựng sức bền dẻo dai
+- `long-distance endurance`: sức chịu đựng đường trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The training focuses on strength and endurance.

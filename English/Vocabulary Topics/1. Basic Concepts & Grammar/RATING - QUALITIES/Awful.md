@@ -2,8 +2,10 @@
 *adj*
 > /ˈɔː.fəl/
 
+![[awful.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very bad or unpleasant.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `an awful lot`: rất nhiều (thường tiêu cực)
+- `feel awful`: cảm thấy vô cùng áy náy / tồi tệ
+- `make an awful mess`: bày ra một đống bừa bãi kinh khủng
+- `awful lot of time`: rất nhiều thời gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I feel awful about what happened.

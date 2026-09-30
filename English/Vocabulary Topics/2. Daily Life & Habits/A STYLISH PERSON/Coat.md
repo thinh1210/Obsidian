@@ -2,8 +2,10 @@
 *n.*
 > /koʊt/
 
+![[coat.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An outer piece of clothing with sleeves that is worn over other clothes.
@@ -13,7 +15,11 @@
 💡 Coat - khoác (coat) áo vào cho ấm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `winter coat`: áo khoác mùa đông\n- `put on a coat`: mặc áo khoác
+- `winter coat`: áo khoác mùa đông
+- `put on a coat`: mặc áo khoác
+- `trench coat`: áo măng tô
+- `tailored coat`: áo khoác được may đo vừa vặn
+- `button up a coat`: cài cúc áo khoác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's cold outside, put on your coat.

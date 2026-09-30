@@ -2,8 +2,10 @@
 *adj.*
 > /ɔːˈtɒn.ə.məs/
 
+![[autonomous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Acting independently or having the freedom to do so
@@ -13,8 +15,10 @@
 💡 O to nớ mớ (autonomous) tự chủ cuộc sống của mình.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``autonomous region`: vùng tự trị`
-- ``autonomous learning`: học tập tự chủ`
+- `autonomous region`: vùng tự trị
+- `autonomous learning`: học tập tự chủ
+- `autonomous worker`: nhân sự có khả năng làm việc độc lập tự chủ
+- `autonomous team`: đội ngũ làm việc tự quản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Teachers encourage students to be autonomous learners.

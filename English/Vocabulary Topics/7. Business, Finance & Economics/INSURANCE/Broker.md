@@ -2,8 +2,10 @@
 *n.*
 > /ˈbrəʊkər/
 
+![[broker.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who buys and sells insurance for others, helping clients find the best deal.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insurance broker`: nhà môi giới bảo hiểm
 - `mortgage broker`: môi giới thế chấp
+- `licensed broker`: nhà môi giới có giấy phép hoạt động
+- `independent broker`: nhà môi giới bảo hiểm độc lập
+- `act as a broker`: đóng vai trò trung gian môi giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We hired an insurance broker to find the cheapest business insurance.

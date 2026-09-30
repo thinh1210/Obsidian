@@ -2,8 +2,10 @@
 *n.*
 > /ˈkəʊ peɪmənt/
 
+![[co_payment.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A payment made by a beneficiary (especially for health services) in addition to that made by an insurer.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fixed co-payment`: khoản đồng chi trả cố định
 - `co-payment amount`: số tiền đồng chi trả
+- `require a co-payment`: yêu cầu người tham gia cùng đồng chi trả
+- `waive the co-payment`: miễn trừ khoản tiền đồng chi trả
+- `co-payment percentage`: tỷ lệ phần trăm đồng thanh toán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had to pay a $20 co-payment for my prescription medicine.

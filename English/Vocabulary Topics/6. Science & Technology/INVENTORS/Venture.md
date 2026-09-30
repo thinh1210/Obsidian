@@ -2,8 +2,10 @@
 *n.*
 > /ˈven.tʃər/
 
+![[venture.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A new activity, usually in business, that involves risk or uncertainty
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `business venture`: dự án kinh doanh mạo hiểm
 - `joint venture`: công ty liên doanh
+- `venture capital`: vốn đầu tư mạo hiểm
+- `venture into the unknown`: mạo hiểm dấn thân vào vùng đất mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His latest business venture was a huge success.

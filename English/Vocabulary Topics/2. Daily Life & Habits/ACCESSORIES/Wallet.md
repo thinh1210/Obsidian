@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɒlɪt/
 
+![[wallet.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small folding case for carrying paper money, credit cards and other flat objects.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a leather wallet`: một chiếc ví da
+- `bifold wallet`: ví da gấp đôi
+- `slim wallet`: ví tiền mỏng nhẹ
+- `fatten one's wallet`: làm dày ví, kiếm được bộn tiền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He took a credit card out of his wallet.

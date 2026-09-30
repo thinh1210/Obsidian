@@ -2,8 +2,10 @@
 *n.*
 > /rəʊd/
 
+![[road.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wide way leading from one place to another.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `main road`: đường chính
+- `on the road`: trên đường đi lưu diễn du lịch
+- `hit the road`: khởi hành lên đường
+- `fork in the road`: ngã rẽ bước ngoặt cuộc đời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We live down the road.

@@ -2,8 +2,10 @@
 *adj*
 > /ɔːˈtɒn.ə.məs/
 
+![[autonomous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Independent and having the power to make your own decisions; self-governing.

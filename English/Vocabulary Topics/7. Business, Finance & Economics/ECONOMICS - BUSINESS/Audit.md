@@ -2,8 +2,10 @@
 *verb*
 > /ˈɔːdɪt/
 
+![[audit.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to conduct an official financial inspection of an individual's or organization's accounts.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `internal audit`: kiểm toán nội bộ
 - `conduct an audit`: thực hiện kiểm toán
+- `financial audit`: kiểm toán tài chính
+- `tax audit`: thanh tra / kiểm tra thuế
+- `audit trail`: dấu vết / nhật ký kiểm toán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The school accounts undergo a voluntary audit every summer.

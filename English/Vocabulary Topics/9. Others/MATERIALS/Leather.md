@@ -2,8 +2,10 @@
 *noun.*
 > /ˈleðə(r)/
 
+![[leather.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A material made from the skin of an animal by tanning or a similar process.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `genuine leather`: da thật
 - `leather jacket`: áo khoác da
+- `hell for leather`: lao đi với tốc độ cực nhanh (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He polished his leather shoes before the wedding.

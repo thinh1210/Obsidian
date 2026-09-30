@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɛnənt/
 
+![[tenant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who occupies land or property rented from a landlord.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `new tenant`: người thuê nhà mới
 - `evict a tenant`: đuổi người thuê nhà
+- `prospective tenant`: người thuê nhà tiềm năng
+- `sitting tenant`: người thuê nhà hiện hữu
+- `tenant rights`: quyền lợi của người thuê nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The previous tenant left a mess.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈpen.ʃən/
 
+![[pension.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A regular payment made during a person's retirement
@@ -13,7 +15,11 @@
 💡 "Pen" (bút) viết "sân" (sion) khấu để nhận lương hưu
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``receive a pension`: nhận lương hưu
+- `receive a pension`: nhận lương hưu
+- `state pension`: khoản tiền lương hưu trí do bảo hiểm xã hội chi trả
+- `occupational pension`: chế độ hưu trí gắn liền theo đơn vị công tác
+- `contribute to a pension`: đóng góp kinh phí vào quỹ hưu trí
+- `pension scheme`: chương trình quỹ tích lũy hưu trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My grandfather lives on his state pension.

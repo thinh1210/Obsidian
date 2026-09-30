@@ -2,8 +2,10 @@
 *n*
 > /ˈvæksiːn/
 
+![[vaccine.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance used to stimulate the production of antibodies and provide immunity against one or several diseases.

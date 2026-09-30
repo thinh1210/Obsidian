@@ -2,8 +2,10 @@
 *noun phrase*
 > /blæk bɒks/
 
+![[black_box.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The colloquial name for the flight data recorder (FDR) and cockpit voice recorder (CVR) used to investigate aviation accidents.

@@ -2,8 +2,10 @@
 *noun*
 > /prɪˈkɑː.sə.t̬i/
 
+![[precocity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Exceptionally early in development or occurrence.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `intellectual precocity`: sự trưởng thành trí tuệ sớm
+- `show precocity`: bộc lộ sự thông minh sớm
+- `precocious talent`: tài năng phát lộ từ sớm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her precocity amazed her teachers.

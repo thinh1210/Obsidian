@@ -2,8 +2,10 @@
 *adj.*
 > /ˌkɒmprɪˈhensɪv/
 
+![[comprehensive.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Including or dealing with all or nearly all elements or aspects of something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `comprehensive insurance`: bảo hiểm toàn diện
 - `comprehensive cover`: phạm vi bảo vệ toàn diện
+- `comprehensive policy`: hợp đồng bảo hiểm bảo vệ toàn diện
+- `comprehensive assessment`: đánh giá tổn thất trên diện rộng
+- `comprehensive study`: nghiên cứu phân tích bao quát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We decided to buy comprehensive insurance for our new car.

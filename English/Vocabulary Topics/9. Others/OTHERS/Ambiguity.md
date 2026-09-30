@@ -1,13 +1,21 @@
 # Ambiguity
 
 *Noun*
+> /ˌæm.bɪˈɡjuː.ə.ti/
+
+![[ambiguity.mp3]]
 
 - **[EN]:** The quality of being open to more than one interpretation; inexactness.
 - **[VN]:** Sự mơ hồ, sự không rõ ràng, tối nghĩa.
 
-**Level:** C1
+**Level:** C1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `moral ambiguity`: sự nhập nhằng mơ hồ về đạo đức
+- `avoid ambiguity`: tránh lối diễn đạt đa nghĩa gây hiểu lầm
+- `inherent ambiguity`: sự mơ hồ cố hữu vốn có
+
 ## Examples
 1. *The contract was drafted with a lot of ambiguity.*
    - Hợp đồng được soạn thảo với rất nhiều điểm mơ hồ.

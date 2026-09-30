@@ -2,8 +2,10 @@
 *noun*
 > /ˈsiːlɪŋ/
 
+![[ceiling.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The upper interior surface of a room.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high ceiling`: trần nhà cao
 - `hit the ceiling`: tức giận (thành ngữ)
+- `glass ceiling`: rào cản vô hình trần kính
+- `vaulted ceiling`: trần nhà hình vòm
+- `ceiling fan`: quạt trần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ceiling is white.

@@ -1,13 +1,21 @@
 # Nuance
 
 *Noun*
+> /ˈnjuː.ɑːns/
+
+![[nuance.mp3]]
 
 - **[EN]:** A subtle difference in or shade of meaning, expression, or sound.
 - **[VN]:** Sắc thái tinh tế, khác biệt nhỏ nhặt.
 
-**Level:** C1
+**Level:** C1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `subtle nuance`: sắc thái tinh tế nhỏ nhặt khó nhận ra
+- `cultural nuances`: những nét tinh tế trong phong tục văn hóa
+- `capture every nuance`: nắm bắt trọn vẹn từng chuyển biến sắc thái
+
 ## Examples
 1. *The actor captured every nuance of the character's emotion.*
    - Diễn viên đã bắt trọn mọi sắc thái cảm xúc tinh tế của nhân vật.

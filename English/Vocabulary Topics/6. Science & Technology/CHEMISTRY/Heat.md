@@ -2,8 +2,10 @@
 *verb*
 > /hiːt/
 
+![[heat.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something hot or warm.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `heat up`: làm nóng lên
 - `heat evenly`: làm nóng đều
+- `specific heat capacity`: nhiệt dung riêng
+- `heat of vaporization`: nhiệt hóa hơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Heat the soup in the microwave for two minutes.

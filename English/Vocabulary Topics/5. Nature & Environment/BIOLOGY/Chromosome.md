@@ -2,8 +2,10 @@
 *noun*
 > /ˈkrəʊ.mə.səʊm/
 
+![[chromosome.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A threadlike structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chromosome abnormality`: bất thường nhiễm sắc thể
 - `sex chromosome`: nhiễm sắc thể giới tính
+- `chromosome pairing`: sự bắt cặp nhiễm sắc thể
+- `homologous chromosomes`: nhiễm sắc thể tương đồng
+- `chromosome mapping`: lập bản đồ nhiễm sắc thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Humans normally have 23 pairs of chromosomes.

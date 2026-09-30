@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsɛdntri/
 
+![[sedentary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to spend much time seated; somewhat inactive.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sedentary lifestyle`: lối sống ít vận động
+- `sedentary job`: công việc bàn giấy ngồi nhiều
+- `sedentary behavior`: thói quen lười vận động
+- `combat a sedentary lifestyle`: chống lại lối sống thụ động ngồi nhiều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A sedentary lifestyle causes obesity.

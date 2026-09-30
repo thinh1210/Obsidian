@@ -2,8 +2,10 @@
 *adj*
 > /ɡʊd/
 
+![[good.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of a favorable character or tendency.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a good idea`: một ý tưởng hay
+- `good cause`: mục đích cao đẹp
+- `in good hands`: được chăm sóc chu đáo / ở nơi đáng tin cậy
+- `good intentions`: ý định tốt đẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is a good day today.

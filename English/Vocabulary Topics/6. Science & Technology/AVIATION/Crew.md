@@ -2,8 +2,10 @@
 *noun*
 > /kruː/
 
+![[crew.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The team of people who work on an aircraft, including pilots and flight attendants.

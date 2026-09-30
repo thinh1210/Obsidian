@@ -2,8 +2,10 @@
 *n.*
 > /həˌbɪl.ɪˈteɪ.ʃən/
 
+![[habilitation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The highest academic qualification in many European countries, required to become a full professor.

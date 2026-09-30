@@ -2,8 +2,10 @@
 *noun*
 > /wiːk/
 
+![[week.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of seven days.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `next week`: tuần tới
+- `week in, week out`: hết tuần này qua tuần khác
+- `mid-week`: giữa tuần
+- `have a busy week`: có một tuần bận rộn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* See you next week.

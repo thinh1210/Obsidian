@@ -2,8 +2,10 @@
 *n, adj*
 > /brɑːnz/
 
+![[bronze.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dark reddish-brown color (like the metal).

@@ -2,8 +2,10 @@
 *verb*
 > /rʌn fɔːr/
 
+![[run_for.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To campaign for public office or a political position.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `run for president`: tranh cử tổng thống
 - `run for office`: tranh cử vào cơ quan công quyền
+- `run for re-election`: tái tranh cử nhiệm kỳ tiếp theo
+- `decide against running for`: quyết định không tham gia tranh cử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She decided to run for the local council seat this year.

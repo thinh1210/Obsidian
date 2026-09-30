@@ -2,8 +2,10 @@
 *noun*
 > /ɡreɪd/
 
+![[grade.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A mark indicating the quality of a student's work.

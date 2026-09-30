@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒɑː.ɡən/
 
+![[jargon.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** special words or expressions that are used by a particular profession or group and are difficult for others to understand

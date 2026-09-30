@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɒdʌkt/
 
+![[product.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** something that is made to be sold, usually something that is produced by an industrial process.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `consumer product`: sản phẩm tiêu dùng
 - `launch a product`: tung ra sản phẩm mới
+- `gross domestic product (GDP)`: tổng sản phẩm quốc nội
+- `product life cycle`: vòng đời của một sản phẩm
+- `product recall`: việc thu hồi sản phẩm lỗi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought this organic hair care product last week.

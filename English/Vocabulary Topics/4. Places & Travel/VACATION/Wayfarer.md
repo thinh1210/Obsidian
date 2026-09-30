@@ -2,8 +2,10 @@
 *Noun*
 > /ˈweɪˌfɛrər/
 
+![[wayfarer.mp3]]
+
 ---
-**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who travels on foot.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `weary wayfarer`: khách bộ hành mệt mỏi
 - `lone wayfarer`: khách bộ hành đơn độc
+- `lonely wayfarer`: người lữ khách cô đơn lẻ bóng
+- `weary wayfarer finds rest`: khách bộ hành mỏi gối tìm được chốn nghỉ chân
+- `welcoming wayfarers`: sự chào đón nồng hậu dành cho khách lữ hành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The inn provided shelter for weary wayfarers.

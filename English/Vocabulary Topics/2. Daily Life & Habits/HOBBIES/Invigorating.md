@@ -2,8 +2,10 @@
 *adj*
 > /ɪnˈvɪɡəreɪtɪŋ/
 
+![[invigorating.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Making one feel strong, healthy, and full of energy.

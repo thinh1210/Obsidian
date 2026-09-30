@@ -2,8 +2,10 @@
 *noun*
 > /hjuːˈmɪdəti/
 
+![[humidity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of water vapor in the air
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high humidity`: độ ẩm cao
+- `relative humidity`: độ ẩm tương đối
+- `oppressive humidity`: độ ẩm cao ngột ngạt khó thở
+- `high levels of humidity`: mức độ ẩm không khí rất cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The high humidity in the summer makes it feel much hotter.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈkʌrənsi/
 
+![[currency.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The system of money in general use in a particular country.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `foreign currency`: ngoại tệ
 - `domestic currency`: nội tệ
+- `currency depreciation`: sự mất giá của đồng nội tệ
+- `reserve currency`: đồng tiền dự trữ quốc tế
+- `currency peg`: neo tỷ giá hối đoái cố định
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Before traveling to Japan, you should exchange your money for local currency.

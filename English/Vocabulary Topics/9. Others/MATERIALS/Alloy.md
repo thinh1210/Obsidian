@@ -2,8 +2,10 @@
 *noun.*
 > /ˈælɔɪ/
 
+![[alloy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A metal made by combining two or more metallic elements, especially to give greater strength or resistance to corrosion.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `aluminum alloy`: hợp kim nhôm
 - `steel alloy`: hợp kim thép
+- `alloy wheel`: vành bánh xe hợp kim đúc
+- `memory shape alloy`: hợp kim ghi nhớ hình dáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bicycle frame is made of a lightweight aluminum alloy.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈrɪvə(r)/
 
+![[river.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A large natural stream of water flowing in a channel to the sea, a lake, or another river.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flow of a river`: dòng chảy của sông
 - `river bank`: bờ sông
+- `river basin`: lưu vực sông
+- `sell someone down the river`: bán đứng / phản bội ai đó
+- `cry me a river`: than khóc vô ích / đừng có vờ vịt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kids are swimming in the river.

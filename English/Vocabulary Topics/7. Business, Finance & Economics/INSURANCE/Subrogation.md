@@ -2,8 +2,10 @@
 *n.*
 > /ˌsʌbrəˈɡeɪʃn/
 
+![[subrogation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The substitution of one person or group by another in respect of a debt or insurance claim, accompanied by the transfer of any associated rights and duties.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `right of subrogation`: quyền thế quyền
 - `subrogation claim`: yêu cầu bồi thường thế quyền
+- `subrogation rights`: các quyền được thế chân để đòi bồi thường bên thứ ba
+- `waiver of subrogation`: cam kết từ bỏ quyền đòi bồi hoàn thế quyền
+- `pursue subrogation`: tiến hành các thủ tục thế quyền đòi lại tiền bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Through subrogation, the insurer recovered the payout from the negligent driver.

@@ -2,8 +2,10 @@
 *adj.*
 > /draɪ/
 
+![[dry.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from moisture or liquid; not wet
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dry season`: mùa khô
+- `dry humor`: khiếu hài hước thâm thúy / mặt lạnh như tiền khi đùa
+- `not a dry eye in the house`: ai nấy đều rưng rưng xúc động
+- `dry spell`: giai đoạn khô hạn kéo dài / thời kỳ trì trệ không may mắn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Hang the wet clothes outside to get dry.

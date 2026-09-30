@@ -2,8 +2,10 @@
 *n., v.*
 > /ˈtjuː.tər/
 
+![[tutor.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A private teacher who teaches one student or a small group.

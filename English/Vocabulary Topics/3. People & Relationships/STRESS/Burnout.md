@@ -2,8 +2,10 @@
 *n.*
 > /ˈbɜːrnaʊt/
 
+![[burnout.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical or mental collapse caused by overwork or stress
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `suffer from burnout`: bị kiệt sức
 - `prevent burnout`: ngăn ngừa kiệt sức
+- `emotional burnout`: kiệt quệ cạn kiệt cảm xúc
+- `edge of burnout`: bên bờ vực kiệt sức hoàn toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I took a break to avoid burnout.

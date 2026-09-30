@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈdaɪtmənt/
 
+![[indictment.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal charge or accusation of a serious crime
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hand down an indictment`: đưa ra bản cáo trạng
 - `face indictment`: đối mặt với sự buộc tội
+- `grand jury indictment`: bản cáo trạng do đại bồi thẩm đoàn thông qua
+- `sealed indictment`: cáo trạng niêm phong bảo mật chờ tống đạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The grand jury handed down an indictment against the suspect.

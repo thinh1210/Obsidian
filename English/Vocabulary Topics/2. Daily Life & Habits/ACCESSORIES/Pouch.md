@@ -2,8 +2,10 @@
 *noun*
 > /paʊtʃ/
 
+![[pouch.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small bag or soft container for holding small objects.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a leather pouch`: một túi nhỏ bằng da
+- `drawstring pouch`: túi rút nhỏ
+- `coin pouch`: túi nhỏ đựng tiền xu
+- `velvet pouch`: túi nhung bảo quản trang sức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He keeps his tobacco in a leather pouch.

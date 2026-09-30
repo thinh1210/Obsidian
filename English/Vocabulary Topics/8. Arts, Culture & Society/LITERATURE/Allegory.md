@@ -2,8 +2,10 @@
 *noun*
 > /ˈæl.ə.ɡər.i/
 
+![[allegory.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A story, poem, or picture that can be interpreted to reveal a hidden moral or political meaning.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɒr.ɪst/
 
+![[forest.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large area of land covered with trees and plants.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dense forest`: rừng rậm
 - `forest bird`: chim rừng
+- `cannot see the forest for the trees`: thấy cây mà chẳng thấy rừng (thành ngữ)
+- `tropical rainforest`: rừng mưa nhiệt đới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went hiking in the forest to watch different birds.

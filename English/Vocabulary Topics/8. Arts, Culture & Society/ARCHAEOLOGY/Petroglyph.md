@@ -2,8 +2,10 @@
 *noun*
 > /ˈpetrəɡlɪf/
 
+![[petroglyph.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rock carving, especially one made by prehistoric people
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient petroglyph`: hình khắc trên đá cổ xưa
 - `prehistoric petroglyph`: hình khắc trên đá tiền sử
+- `carved petroglyphs`: các hình chạm khắc trên đá
+- `petroglyph site`: địa điểm có tranh khắc đá cổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The canyon is famous for its Native American petroglyphs.

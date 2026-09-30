@@ -2,8 +2,10 @@
 *noun*
 > /ˈsaɪ.əns/
 
+![[science.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the natural world through observation and experiment.

@@ -2,8 +2,10 @@
 *n.*
 > /kəˌmenˈsæl.ə.ti/
 
+![[commensality.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of eating together, which reinforces social relations and community cohesion.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `social commensality`: tập tục ăn chung xã hội
 - `ritual commensality`: tập tục ăn chung nghi lễ
+- `table commensality`: tập tục cùng quây quần bên bàn ăn
+- `commensal bond`: mối liên kết qua việc cùng chia sẻ bữa ăn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sunday family dinners are a form of commensality.

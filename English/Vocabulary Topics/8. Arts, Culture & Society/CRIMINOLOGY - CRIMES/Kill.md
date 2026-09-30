@@ -2,8 +2,10 @@
 *verb*
 > /kɪl/
 
+![[kill.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cause the death of a person, animal, or plant
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `kill time`: giết thời gian
 - `kill a suspect`: tiêu diệt nghi phạm
+- `kill in self-defense`: tước đoạt mạng sống đối phương nhằm tự vệ
+- `intent to kill`: ý định và mục đích giết người rõ ràng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Extreme cold weather can kill delicate garden plants.

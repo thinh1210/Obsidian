@@ -2,8 +2,10 @@
 *verb*
 > /ˈkɑːrpuːl/
 
+![[carpool.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Share a ride in a private car with other people, especially for commuting.
@@ -16,6 +18,7 @@
 - `carpool lane`: làn đường dành riêng cho xe đi chung
 - `carpool with colleagues`: đi chung xe với đồng nghiệp
 - `encourage carpooling`: khuyến khích đi chung xe
+- `join a carpool`: tham gia nhóm đi chung xe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I carpool with my colleagues to save money on gasoline.

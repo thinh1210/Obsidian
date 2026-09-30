@@ -2,8 +2,10 @@
 *noun*
 > /ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/
 
+![[biodiversity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The variety of life on Earth, including different species, genes, and ecosystems.

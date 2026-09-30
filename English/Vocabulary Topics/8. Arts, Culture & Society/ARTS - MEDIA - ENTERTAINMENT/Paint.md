@@ -2,8 +2,10 @@
 *v.*
 > /peɪnt/
 
+![[paint.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Apply paint to (a surface), or depict (a picture or scene) using paint.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `paint a picture`: vẽ một bức tranh
 - `paint a wall`: sơn một bức tường
+- `paint with watercolors`: vẽ bằng màu nước
+- `paint a vivid picture`: khắc họa một bức tranh sống động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She likes to paint landscapes in her free time.

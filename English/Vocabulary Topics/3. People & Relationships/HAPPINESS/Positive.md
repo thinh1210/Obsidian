@@ -2,8 +2,10 @@
 *adj.*
 > /ˈpɒz.ə.tɪv/
 
+![[positive.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Constructive, optimistic, or confident.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `positive attitude`: thái độ tích cực
+- `positive vibe`: năng lượng tích cực lan tỏa
+- `accentuate the positive`: nhấn mạnh vào điểm tích cực (idiom)
+- `positive reinforcement`: sự khích lệ củng cố tích cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Keep a positive attitude.

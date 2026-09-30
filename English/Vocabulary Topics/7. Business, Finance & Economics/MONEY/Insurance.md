@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈʃɔː.rəns/
 
+![[insurance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY
+**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A practice or arrangement by which a company provides a guarantee of compensation for specified loss, damage, illness, or death
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `life insurance`: bảo hiểm nhân thọ
+- `insurance claim`: hồ sơ yêu cầu chi trả tiền bảo hiểm
+- `health insurance`: bảo hiểm bảo vệ sức khỏe y tế
+- `insurance premium`: khoản tiền phí đóng bảo hiểm
+- `take out insurance`: mua tham gia một hợp đồng bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you have health insurance through your employer?

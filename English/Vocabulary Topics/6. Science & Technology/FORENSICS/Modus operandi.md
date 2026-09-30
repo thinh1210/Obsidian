@@ -2,8 +2,10 @@
 *noun*
 > /ˌmoʊ.dəs ˌɒp.əˈræn.di/
 
+![[modus_operandi.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular way or method of doing something, especially a criminal's characteristic pattern.

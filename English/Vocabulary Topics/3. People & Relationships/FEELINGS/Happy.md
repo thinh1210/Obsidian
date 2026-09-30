@@ -2,8 +2,10 @@
 *adj*
 > /ˈhæpi/
 
+![[happy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing pleasure.

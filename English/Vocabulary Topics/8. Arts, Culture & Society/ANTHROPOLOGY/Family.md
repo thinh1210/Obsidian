@@ -2,8 +2,10 @@
 *n.*
 > /ˈfæm.əl.i/
 
+![[family.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of one or more parents and their children living together as a unit.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `extended family`: gia đình đa thế hệ
 - `nuclear family`: gia đình hạt nhân
+- `matriarchal family`: gia đình mẫu hệ
+- `family structure`: cấu trúc gia đình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I spend my weekends with my family.

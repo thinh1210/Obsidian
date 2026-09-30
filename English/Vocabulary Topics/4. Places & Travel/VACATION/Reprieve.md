@@ -2,8 +2,10 @@
 *Noun*
 > /rɪˈpriv/
 
+![[reprieve.mp3]]
+
 ---
-**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cancellation or postponement of a punishment; a temporary escape.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `temporary reprieve`: sự hoãn lại tạm thời
 - `grant a reprieve`: ban cho sự ân giảm
+- `welcome reprieve`: khoảng thời gian nghỉ ngơi xả hơi đáng mừng
+- `reprieve from the daily grind`: sự giải thoát tạm thời khỏi guồng quay công việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The rain provided a reprieve from the heat.

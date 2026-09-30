@@ -2,8 +2,10 @@
 *adj*
 > /ˈlɪtərəl/
 
+![[littoral.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or situated on the shore of the sea or a lake.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `littoral zone`: vùng ven bờ
+- `littoral states`: các quốc gia ven biển
+- `littoral drift`: sự bồi tích ven bờ
+- `littoral environment`: môi trường sinh thái ven bờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The littoral zone is rich in wildlife.

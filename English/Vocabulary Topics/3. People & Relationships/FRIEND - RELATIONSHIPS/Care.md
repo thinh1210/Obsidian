@@ -2,8 +2,10 @@
 *verb/noun*
 > /ker/
 
+![[care.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feel concern or interest; attach importance to something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `care about`: quan tâm về
+- `take good care of`: chăm sóc chu đáo hết lòng
+- `care deeply about`: quan tâm sâu sắc đến
+- `handle with care`: đối xử nâng niu trân trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I care about you.

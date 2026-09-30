@@ -2,8 +2,10 @@
 *n.*
 > /məʊˈzeɪ.ɪk/
 
+![[mosaic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pattern or picture made using many small pieces of coloured stone or glass.

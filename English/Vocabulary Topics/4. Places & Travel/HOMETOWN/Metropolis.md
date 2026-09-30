@@ -2,8 +2,10 @@
 *n.*
 > /məˈtrɒpəlɪs/
 
+![[metropolis.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large and densely populated industrial and commercial city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bustling metropolis`: đô thị sầm uất
+- `modern metropolis`: đô thị lớn hiện đại
+- `commercial metropolis`: trung tâm kinh tế đô thị lớn
+- `sprawling metropolis`: đại đô thị rộng lớn bao la
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New York is a true metropolis.

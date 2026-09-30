@@ -2,8 +2,10 @@
 *noun*
 > /ˈprəʊ.faɪ.lɪŋ/
 
+![[profiling.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The recording and analysis of a person's psychological and behavioural characteristics to assist criminal investigation.

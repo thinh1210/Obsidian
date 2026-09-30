@@ -2,8 +2,10 @@
 *n.*
 > /mjuˈziːəm/
 
+![[museum.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building where objects of historical, scientific, or artistic interest are kept and shown to the public
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `art museum`: bảo tàng nghệ thuật
 - `museum exhibit`: triển lãm bảo tàng
+- `curate a museum`: phụ trách quản lý bảo tàng
+- `open-air museum`: bảo tàng không gian mở ngoài trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We spent the afternoon at the history museum.

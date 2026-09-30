@@ -2,8 +2,10 @@
 *noun.*
 > /praɪs/
 
+![[price.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of money for which something is sold.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `price tag`: nhãn giá
 - `market price`: giá thị trường
+- `price fluctuation`: sự biến động giá cả thị trường
+- `strike price`: mức giá thực hiện quyền chọn
+- `price-to-earnings ratio`: hệ số giá trên thu nhập (P/E)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The price of petrol has gone up again this week.

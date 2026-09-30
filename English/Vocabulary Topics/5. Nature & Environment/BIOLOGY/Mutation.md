@@ -2,8 +2,10 @@
 *noun*
 > /mjuːˈteɪ.ʃən/
 
+![[mutation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The changing of the structure of a gene, resulting in a variant form that may be transmitted to subsequent generations.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `genetic mutation`: đột biến di truyền
 - `gene mutation`: đột biến gen
+- `spontaneous mutation`: đột biến ngẫu nhiên tự phát
+- `harmful mutation`: đột biến có hại
+- `mutation rate`: tỷ lệ đột biến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Some mutations can cause genetic diseases.

@@ -2,8 +2,10 @@
 *verb*
 > /ˈnɝː.tʃɚ/
 
+![[nurture.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Care for and encourage the growth or development of.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `nurture talent`: nuôi dưỡng tài năng
+- `nature versus nurture`: bản tính tự nhiên đối lập với giáo dưỡng
+- `nurture an environment`: tạo dựng môi trường nuôi dưỡng
+- `nurturing parent`: cha mẹ chu đáo ân cần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Parents must nurture their children's talents.

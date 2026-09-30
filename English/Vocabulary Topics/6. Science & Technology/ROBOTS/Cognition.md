@@ -2,8 +2,10 @@
 *noun.*
 > /kɑːɡˈnɪʃ.ən/
 
+![[cognition.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `machine cognition`: nhận thức của máy móc
+- `cognitive robotics`: robot nhận thức
+- `visual cognition`: nhận thức thị giác
+- `spatial cognition`: nhận thức không gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Machine cognition is the ultimate goal for artificial general intelligence researchers.

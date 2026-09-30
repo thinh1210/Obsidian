@@ -2,8 +2,10 @@
 *adj.*
 > /kuːl/
 
+![[cool.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fashionable and attractive.
@@ -13,7 +15,11 @@
 💡 Cool - cu (cool) ngầu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `look cool`: trông ngầu\n- `cool sunglasses`: kính râm ngầu
+- `look cool`: trông ngầu
+- `cool sunglasses`: kính râm ngầu
+- `look effortlessly cool`: trông cực kỳ ngầu và tự nhiên
+- `cool aesthetic`: phong cách thẩm mỹ cực chất
+- `stay cool and confident`: giữ phong thái tự tin và cực ngầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Those are really cool shoes.

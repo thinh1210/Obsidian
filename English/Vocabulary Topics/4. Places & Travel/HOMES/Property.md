@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɑːpərti/
 
+![[property.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOMES
+**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing or things belonging to someone; possessions collectively.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `property rights`: quyền tài sản
 - `buy property`: mua bất động sản
+- `private property`: tài sản bất động sản tư nhân
+- `property developer`: chủ đầu tư phát triển bất động sản
+- `invest in property`: đầu tư vào nhà đất bất động sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This house is private property.

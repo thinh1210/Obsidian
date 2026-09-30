@@ -2,8 +2,10 @@
 *noun*
 > /ˈæn.ses.tər/
 
+![[ancestor.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person, typically one more remote than a grandparent, from whom one is descended.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `common ancestor`: tổ tiên chung
 - `worship ancestors`: thờ cúng tổ tiên
+- `ancestral home`: quê cha đất tổ
+- `trace ancestors back to`: truy nguồn gốc tổ tiên về
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My ancestors came to America from Ireland in the 19th century.

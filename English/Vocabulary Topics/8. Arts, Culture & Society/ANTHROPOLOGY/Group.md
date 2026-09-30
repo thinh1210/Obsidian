@@ -2,8 +2,10 @@
 *n.*
 > /ɡruːp/
 
+![[group.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A number of people or things that are located close together or are considered or classed together.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `social group`: nhóm xã hội
 - `focus group`: nhóm tập trung
+- `ethnic group`: nhóm dân tộc
+- `kinship group`: nhóm thân tộc / thị tộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We worked together in a small group.

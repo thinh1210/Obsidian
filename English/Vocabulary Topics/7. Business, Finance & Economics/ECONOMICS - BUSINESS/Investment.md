@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈvestmənt/
 
+![[investment.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the act of putting money, effort, or time into something to make a profit or achieve a result.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `long-term investment`: đầu tư dài hạn
 - `return on investment (ROI)`: tỷ suất hoàn vốn
+- `foreign direct investment (FDI)`: vốn đầu tư trực tiếp nước ngoài
+- `portfolio investment`: đầu tư gián tiếp vào danh mục
+- `attract investment`: thu hút nguồn vốn đầu tư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Buying a house is often the largest financial investment a person makes.

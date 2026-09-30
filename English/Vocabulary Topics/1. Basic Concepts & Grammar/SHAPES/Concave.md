@@ -2,8 +2,10 @@
 *adj.*
 > /kɒnˈkeɪv/
 
+![[concave.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an outline or surface that curves inward like the interior of a circle or sphere.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A concave mirror`: Gương cầu lõm
 - `Concave lens`: Thấu kính lõm
+- `concave surface`: bề mặt lõm
+- `concave polygon`: đa giác lõm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A spoon has a concave surface.

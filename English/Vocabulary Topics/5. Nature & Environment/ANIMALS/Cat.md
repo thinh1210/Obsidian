@@ -2,8 +2,10 @@
 *noun*
 > /kæt/
 
+![[cat.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small domesticated carnivorous mammal with soft fur.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stray cat`: mèo hoang
 - `pet cat`: mèo cưng
+- `let the cat out of the bag`: vô tình để lộ bí mật
+- `curiosity killed the cat`: tò mò hại thân
+- `domestic cat`: mèo nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My cat loves to sleep on my laptop while I work.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌsæl.ɪ.naɪˈzeɪ.ʃən/
 
+![[salinization.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The accumulation of soluble salts in the soil, which degrades its quality.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `soil salinization`: sự nhiễm mặn đất
 - `prevent salinization`: ngăn ngừa sự nhiễm mặn
+- `secondary salinization`: sự nhiễm mặn thứ cấp do tưới tiêu
+- `groundwater salinization`: sự nhiễm mặn nguồn nước ngầm
+- `combat salinization`: ngăn chặn quá trình mặn hóa đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Seawater intrusion during dry seasons accelerates soil salinization.

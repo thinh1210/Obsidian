@@ -2,8 +2,10 @@
 *adjective.*
 > /lməˈkæn.ɪ.kəl/
 
+![[mechanical.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Related to machines or engines
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mechanical failure`: lỗi cơ khí
+- `mechanical arm`: cánh tay cơ học
+- `mechanical engineering`: ngành kỹ thuật cơ khí
+- `mechanical joint`: khớp nối cơ khí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The toy stopped working due to a mechanical problem.

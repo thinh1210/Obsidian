@@ -2,8 +2,10 @@
 *adj.*
 > /maɪld/
 
+![[mild.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of weather) not very cold or not very hot
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mild winter`: mùa đông ôn hòa (không quá lạnh)
+- `mild winter weather`: thời tiết mùa đông ấm áp dễ chịu
+- `mild symptom`: triệu chứng bệnh nhẹ
+- `mild manners`: tính tình điềm đạm nhã nhặn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We enjoyed a mild autumn this year.

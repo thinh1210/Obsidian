@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪnəmə/
 
+![[cinema.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A theater where movies are shown for public entertainment; the production of movies as an art or industry.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to the cinema`: đi xem phim ở rạp
 - `world cinema`: điện ảnh thế giới
+- `arthouse cinema`: điện ảnh hàn lâm / nghệ thuật
+- `commercial cinema`: điện ảnh thương mại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are going to the cinema this Friday.

@@ -2,8 +2,10 @@
 *verb.*
 > /peɪ/
 
+![[pay.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give money to someone for goods or services.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay in advance`: trả trước
 - `pay by installment`: trả góp
+- `pay off in full`: thanh toán dứt điểm toàn bộ
+- `pay dividends`: chi trả cổ tức định kỳ
+- `pay late fees`: nộp phạt phí trả chậm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let me pay for the coffee today; it's my treat.

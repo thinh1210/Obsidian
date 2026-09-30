@@ -2,8 +2,10 @@
 *verb*
 > /kənˈvɪkt/
 
+![[convict.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To decide officially in a court of law that someone is guilty of a crime
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `convict someone of a crime`: kết án ai tội gì
 - `escaped convict`: tù nhân vượt ngục
+- `wrongfully convict`: kết án oan sai cho người vô tội
+- `prior conviction`: tiền án tiền sự trong quá khứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There was enough evidence to convict him of the theft.

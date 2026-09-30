@@ -2,8 +2,10 @@
 *n*
 > /fəˈtɒɡrəfi/
 
+![[photography.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of taking and processing photographs.
@@ -13,7 +15,11 @@
 💡 Photo (ảnh) + graphy (ghi lại) -> nhiếp ảnh.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `digital photography`: nhiếp ảnh kỹ thuật số\n- `amateur photography`: nhiếp ảnh nghiệp dư
+- `digital photography`: nhiếp ảnh kỹ thuật số
+- `amateur photography`: nhiếp ảnh nghiệp dư
+- `landscape photography`: nhiếp ảnh phong cảnh
+- `portrait photography`: nhiếp ảnh chân dung
+- `drone photography`: chụp ảnh từ trên không bằng drone
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He took up photography as a hobby.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈroʊ.bɑːt/
 
+![[robot.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine controlled by a computer that can do work automatically
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `industrial robot`: rô-bốt công nghiệp
+- `service robot`: robot dịch vụ
+- `collaborative robot (cobot)`: robot cộng tác
+- `autonomous robot`: robot tự hành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought a smart robot vacuum cleaner yesterday.

@@ -2,8 +2,10 @@
 *verb*
 > /hætʃ/
 
+![[hatch.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To emerge from an egg.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hatch from an egg`: nở ra từ trứng
 - `hatch a plan`: ủ mưu - idiom
+- `down the hatch`: nâng ly uống cạn một hơi (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The little chicks hatched yesterday morning.

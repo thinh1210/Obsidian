@@ -2,8 +2,10 @@
 *noun*
 > /tiˈɑːrə/
 
+![[tiara.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A semi-circular jewelled headdress worn by women on formal occasions.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wear a diamond tiara`: đội vương miện kim cương
+- `sparkling tiara`: vương miện nhỏ lấp lánh
+- `pageant tiara`: vương miện cuộc thi sắc đẹp
+- `crown with a tiara`: trao vương miện nhỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bride wore a sparkling tiara with her veil.

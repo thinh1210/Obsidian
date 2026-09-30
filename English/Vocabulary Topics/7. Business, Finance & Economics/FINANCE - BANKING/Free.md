@@ -2,8 +2,10 @@
 *adj.*
 > /friː/
 
+![[free.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Costing nothing; provided without charge.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `free of charge`: miễn phí hoàn toàn
 - `free trial`: dùng thử miễn phí
+- `interest-free loan`: khoản vay không lãi suất
+- `free cash flow`: dòng tiền thuần tự do
+- `risk-free rate`: lãi suất phi rủi ro
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum offers free admission on the first Sunday of every month.

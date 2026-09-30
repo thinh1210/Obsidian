@@ -2,8 +2,10 @@
 *noun*
 > /ˌiː.kwɪˈlɪb.ri.əm/
 
+![[equilibrium.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of balance between opposing forces, reactions, or influences.

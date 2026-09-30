@@ -2,8 +2,10 @@
 *noun*
 > /tʃɔːrz/
 
+![[chores.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A routine task, especially a household one.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `household chores`: việc nhà
+- `do household chores`: làm việc nhà
+- `daily chores`: công việc vặt hằng ngày
+- `chore routine`: thói quen làm việc nhà định kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kids help with chores.

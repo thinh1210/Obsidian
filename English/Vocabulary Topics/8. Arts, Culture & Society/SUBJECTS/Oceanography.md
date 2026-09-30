@@ -2,8 +2,10 @@
 *noun*
 > /ˌəʊʃəˈnɒɡrəfi/
 
+![[oceanography.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science that deals with the physical and biological properties and phenomena of the sea.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `biological oceanography`: hải dương học sinh học
+- `physical oceanography`: hải dương học vật lý
+- `oceanographic expedition`: chuyến thám hiểm hải dương học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Oceanography reveals the mysteries of the deep sea floor.

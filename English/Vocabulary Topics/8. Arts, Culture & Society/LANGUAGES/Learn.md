@@ -2,8 +2,10 @@
 *v.*
 > /lɜːn/
 
+![[learn.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To gain knowledge or skill in a subject or activity
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `learn a language`: học một ngôn ngữ
+- `learn by heart`: học thuộc lòng
+- `quick to learn`: tiếp thu nhanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children learn very fast.

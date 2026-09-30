@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈtensaɪl/
 
+![[tensile.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to tension; capable of withstanding physical stress under tension.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tensile strength`: độ bền kéo, giới hạn bền kéo
 - `tensile stress`: ứng suất kéo
+- `tensile test`: thí nghiệm kiểm tra lực kéo đứt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The high tensile strength of carbon fibers allows us to build longer bridges.

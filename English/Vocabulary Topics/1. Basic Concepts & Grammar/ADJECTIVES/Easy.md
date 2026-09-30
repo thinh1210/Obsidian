@@ -2,8 +2,10 @@
 *adj.*
 > /ˈiːzi/
 
+![[easy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Achieved without great effort
@@ -13,7 +15,10 @@
 💡 Easy là dễ
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``easy way`: cách dễ`
+- `easy way`: cách dễ
+- `easy money`: tiền kiếm được dễ dàng
+- `take it easy`: thư giãn / từ từ thôi
+- `easier said than done`: nói dễ hơn làm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is easy.

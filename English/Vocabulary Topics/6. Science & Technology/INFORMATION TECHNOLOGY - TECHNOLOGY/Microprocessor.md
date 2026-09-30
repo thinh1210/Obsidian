@@ -2,8 +2,10 @@
 *n.*
 > /ˌmaɪkroʊˈprɑːsesər/
 
+![[microprocessor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An integrated circuit that contains all the functions of a central processing unit of a computer.

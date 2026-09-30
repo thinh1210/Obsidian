@@ -2,8 +2,10 @@
 *verb*
 > /ruːl/
 
+![[rule.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To exercise ultimate power or authority over an area and its people.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rule a country`: cai trị một đất nước
 - `rule with an iron fist`: cai trị bằng bàn tay sắt
+- `colonial rule`: sự cai trị của thực dân
+- `rule of law`: thượng tôn pháp luật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* King Louis XIV ruled France for over seventy years.

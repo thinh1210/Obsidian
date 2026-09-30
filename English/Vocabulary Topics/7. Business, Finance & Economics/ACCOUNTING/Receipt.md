@@ -2,8 +2,10 @@
 *n.*
 > /rɪˈsiːt/
 
+![[receipt.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of paper that proves that money, goods, or services have been received

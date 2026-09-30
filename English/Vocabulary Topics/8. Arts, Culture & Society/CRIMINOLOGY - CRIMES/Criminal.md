@@ -2,8 +2,10 @@
 *noun*
 > /ˈkrɪmɪnl/
 
+![[criminal.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has committed a crime
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `violent criminal`: tội phạm bạo lực
 - `catch a criminal`: bắt kẻ phạm tội
+- `habitual criminal`: kẻ phạm tội chuyên nghiệp / bất hảo tái phạm
+- `criminal record`: hồ sơ tiền án tiền sự cá nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police caught the criminal who stole the car.

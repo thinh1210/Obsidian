@@ -2,8 +2,10 @@
 *adjective*
 > /dɪˈsɪdʒuəs/
 
+![[deciduous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a tree or shrub) shedding its leaves annually.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `deciduous forest`: rừng rụng lá
 - `deciduous trees`: cây rụng lá hàng năm
+- `temperate deciduous forest`: rừng rụng lá theo mùa vùng ôn đới
+- `deciduous fruit trees`: cây ăn quả rụng lá mùa đông
+- `deciduous foliage`: tán lá rụng theo mùa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Maples and oaks are common examples of deciduous trees.

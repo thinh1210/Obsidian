@@ -2,8 +2,10 @@
 *n.*
 > /ˈhedeɪk/
 
+![[headache.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A continuous pain in the head
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have a headache`: bị đau đầu
 - `terrible headache`: đau đầu kinh khủng
+- `splitting headache`: đau đầu như búa bổ
+- `cause a major headache`: gây ra một rắc rối đau đầu (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a terrible headache.

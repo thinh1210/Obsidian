@@ -2,8 +2,10 @@
 *noun*
 > /saɪt/
 
+![[site.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where a settlement, action, or event is, was, or is code-designed to be located
@@ -13,8 +15,10 @@
 💡 Sai (si) + tớ (te) -> Đưa tớ đi sai địa điểm khảo cổ rồi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `archaeological site`:  địa điểm khảo cổ
+- `archaeological site`: địa điểm khảo cổ
 - `excavation site`: địa điểm khai quật
+- `heritage site`: khu di sản / di tích
+- `survey a site`: khảo sát địa bàn khai quật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This is the site of the new school.

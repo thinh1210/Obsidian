@@ -2,8 +2,10 @@
 *n.*
 > /ˈhəʊmwɜːk/
 
+![[homework.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Schoolwork that a student is given to do at home
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `do homework`: làm bài tập về nhà
 - `assign homework`: giao bài tập về nhà
+- `check homework`: kiểm tra đối chiếu bài tập về nhà
+- `hand in homework`: nộp bài tập về nhà đúng hạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't forget to do your homework before going to bed.

@@ -2,8 +2,10 @@
 *n.*
 > /spɔːt/
 
+![[sport.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `play sport`: chơi thể thao
 - `team sport`: môn thể thao đồng đội
+- `extreme sports`: các môn thể thao mạo hiểm
+- `good sport`: người biết chấp nhận thua cuộc vui vẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Badminton is my favorite sport.

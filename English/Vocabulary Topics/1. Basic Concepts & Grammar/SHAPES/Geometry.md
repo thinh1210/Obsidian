@@ -2,8 +2,10 @@
 *n.*
 > /dʒiˈɒm.ə.tri/
 
+![[geometry.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional analogs.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Euclidean geometry`: Hình học Euclid
 - `Study geometry`: Học hình học
+- `analytical geometry`: hình học giải tích
+- `spatial geometry`: hình học không gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Geometry is my favorite math subject.

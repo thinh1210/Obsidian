@@ -2,8 +2,10 @@
 *n.*
 > /ˈprɪv.ə.si/
 
+![[privacy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or condition of being free from being observed.
@@ -13,7 +15,10 @@
 💡 Privacy -> Việc cá nhân
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Invasion of privacy: Xâm phạm quyền riêng tư`
+- `Invasion of privacy`: Xâm phạm quyền riêng tư
+- `respect someone's privacy`: tôn trọng sự riêng tư của ai
+- `loss of privacy`: mất đi sự riêng tư
+- `privacy violation`: sự xâm phạm quyền riêng tư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Need privacy.

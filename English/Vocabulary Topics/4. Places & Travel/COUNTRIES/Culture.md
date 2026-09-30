@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkʌltʃər/
 
+![[culture.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arts and other manifestations of human intellectual achievement.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Local culture`: Văn hóa địa phương
+- `preserve local culture`: bảo tồn văn hóa địa phương
+- `culture shock`: cú sốc văn hóa
+- `pop culture`: văn hóa đại chúng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love learning about different cultures.

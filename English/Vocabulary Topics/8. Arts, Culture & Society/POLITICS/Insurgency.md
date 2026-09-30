@@ -2,8 +2,10 @@
 *n*
 > /ɪnˈsɜː.dʒən.si/
 
+![[insurgency.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An active revolt or uprising against an established authority, especially a government.

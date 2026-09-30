@@ -2,8 +2,10 @@
 *v.*
 > /spiːk/
 
+![[speak.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say words, to use the voice, or to be able to talk in a language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `speak clearly`: nói rõ ràng
+- `speak one's mind`: nói thẳng ra suy nghĩ của mình
+- `so to speak`: có thể nói là / ví như là
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you speak slowly?

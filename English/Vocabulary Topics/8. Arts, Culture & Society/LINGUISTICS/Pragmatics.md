@@ -2,8 +2,10 @@
 *noun*
 > /præɡˈmæt.ɪks/
 
+![[pragmatics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of how context contributes to meaning in language use

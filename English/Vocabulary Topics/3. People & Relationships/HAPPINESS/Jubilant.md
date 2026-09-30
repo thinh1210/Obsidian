@@ -2,8 +2,10 @@
 *adj.*
 > /ˈdʒuː.bəl.ənt/
 
+![[jubilant.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing great happiness and triumph.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `jubilant crowd`: đám đông hân hoan
+- `jubilant mood`: tâm trạng hân hoan tưng bừng
+- `jubilant celebrations`: những màn ăn mừng tưng bừng
+- `jubilant victory`: chiến thắng tưng bừng rực rỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The fans were jubilant.

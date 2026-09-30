@@ -2,8 +2,10 @@
 *Noun*
 > /ˈher.ɪ.t̬ɪdʒ/
 
+![[heritage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM
+**Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Features belonging to the culture of a particular society, such as traditions, languages, or buildings, that were created in the past and still have historical importance.
@@ -13,7 +15,10 @@
 💡 HE RỈ TỊT (Heritage) di sản bị rỉ sét.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `cultural heritage`: di sản văn hóa\n- `world heritage site`: di sản thế giới
+- `cultural heritage`: di sản văn hóa
+- `world heritage site`: di sản thế giới
+- `cultural heritage tourism`: du lịch di sản văn hóa
+- `preserve our heritage`: gìn giữ bảo tồn di sản tiền nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Hoi An is a famous world heritage site.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈlɛʒə/
 
+![[leisure.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free time.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `leisure time`: thời gian rảnh rỗi
+- `hours of leisure`: những giờ phút thảnh thơi
+- `leisurely pace of life`: nhịp sống thong dong, chậm rãi
+- `spend leisure time`: dành thời gian rảnh rỗi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I read books in my leisure time.

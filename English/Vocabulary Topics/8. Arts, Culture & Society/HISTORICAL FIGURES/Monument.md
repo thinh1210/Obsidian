@@ -2,8 +2,10 @@
 *n.*
 > /ˈmɒnjumənt/
 
+![[monument.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue, building, or other structure erected to commemorate a famous person or event
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical monument`: di tích lịch sử
 - `erect a monument`: dựng đài tưởng niệm
+- `national monument`: đài tưởng niệm cấp quốc gia
+- `monument to human courage`: tượng đài tưởng nhớ lòng quả cảm con người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tourists gather to take photos of the historical monument.

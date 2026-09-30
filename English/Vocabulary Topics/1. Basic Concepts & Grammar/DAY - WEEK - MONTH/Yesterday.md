@@ -2,8 +2,10 @@
 *adv, noun*
 > /ˈjestədeɪ/
 
+![[yesterday.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** On the day before today.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `yesterday morning`: sáng hôm qua
+- `yesterday evening`: tối hôm qua
+- `not born yesterday`: không phải trẻ con ngây thơ
+- `as if it were yesterday`: như thể mới chỉ hôm qua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I saw him yesterday.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈen.dʒɪn/
 
+![[engine.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a machine with moving parts that converts power into motion.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `car engine`: động cơ xe hơi
 - `search engine`: công cụ tìm kiếm
+- `internal combustion engine`: động cơ đốt trong
+- `rev up the engine`: nhấn ga rồ máy (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The car won't start because the engine is overheated.

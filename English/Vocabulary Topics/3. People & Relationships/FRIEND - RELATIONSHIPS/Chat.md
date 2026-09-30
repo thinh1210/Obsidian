@@ -2,8 +2,10 @@
 *verb/noun*
 > /tʃæt/
 
+![[chat.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Talk in a friendly and informal way.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have a chat`: có một cuộc trò chuyện
+- `have a friendly chat`: trò chuyện thân mật vui vẻ
+- `chat over coffee`: tán gẫu tâm sự bên ly cà phê
+- `chit-chat`: chuyện phiếm tán gẫu thường ngày
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a long chat.

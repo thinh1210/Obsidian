@@ -2,8 +2,10 @@
 *n.*
 > /ˌbaɪəʊdaɪˈvɜːsəti/
 
+![[biodiversity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The variety of plant and animal life in the world or in a particular habitat, a high level of which is usually considered to be important and desirable.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `preserve biodiversity`: bảo tồn sự đa dạng sinh học
 - `rich biodiversity`: sự đa dạng sinh học phong phú
+- `loss of biodiversity`: sự suy giảm đa dạng sinh học
+- `biodiversity conservation`: bảo tồn đa dạng sinh học
+- `global biodiversity hotspot`: điểm nóng đa dạng sinh học toàn cầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Amazon rainforest is famous for its rich biodiversity.

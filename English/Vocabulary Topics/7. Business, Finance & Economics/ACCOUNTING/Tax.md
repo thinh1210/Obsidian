@@ -2,8 +2,10 @@
 *n.*
 > /tæks/
 
+![[tax.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money paid to the government that is based on your income or the cost of goods or services

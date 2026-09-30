@@ -2,8 +2,10 @@
 *adj*
 > /ˈænjuəl/
 
+![[annual.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring once a year.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `annual income`: thu nhập hằng năm
+- `annual turnover`: doanh thu hằng năm
+- `annual general meeting`: đại hội cổ đông thường niên
+- `on an annual basis`: theo định kỳ hằng năm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This is our annual family gathering.

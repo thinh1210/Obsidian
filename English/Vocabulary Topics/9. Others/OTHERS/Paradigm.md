@@ -1,13 +1,21 @@
 # Paradigm
 
 *Noun*
+> /ˈpær.ə.daɪm/
+
+![[paradigm.mp3]]
 
 - **[EN]:** A typical example or pattern of something; a model.
 - **[VN]:** Hệ hình, mô hình mẫu, khuôn mẫu.
 
-**Level:** C1
+**Level:** C1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `paradigm shift`: sự chuyển dịch hệ tư tưởng căn bản (idiom)
+- `dominant paradigm`: mô thức tư duy thống trị hiện hành
+- `paradigm of excellence`: khuôn vàng thước ngọc về sự xuất sắc
+
 ## Examples
 1. *The shift in technology created a new paradigm for business.*
    - Sự chuyển dịch công nghệ đã tạo ra một mô hình mới cho kinh doanh.

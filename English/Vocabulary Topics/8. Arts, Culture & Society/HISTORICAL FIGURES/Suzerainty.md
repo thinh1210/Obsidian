@@ -2,8 +2,10 @@
 *n.*
 > /ˈsuːzəreɪnti/
 
+![[suzerainty.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The right of a country to rule over another country, which still has its own local government
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `assert suzerainty`: khẳng định quyền tông chủ
 - `feudal suzerainty`: quyền tông chủ phong kiến
+- `under the suzerainty of`: dưới quyền bảo hộ/tông chủ của
+- `exercise suzerainty`: thực thi quyền tông chủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The empire claimed suzerainty over the neighboring regions.

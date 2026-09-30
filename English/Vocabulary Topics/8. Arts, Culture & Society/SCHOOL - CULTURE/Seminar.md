@@ -2,8 +2,10 @@
 *noun*
 > /ˈsemɪnɑː(r)/
 
+![[seminar.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A meeting for discussion or training, especially in a university.

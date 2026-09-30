@@ -2,8 +2,10 @@
 *Noun*
 > /ˌsɪŋ.ɡjəˈlær.ə.ti/
 
+![[singularity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point in spacetime where gravitational forces cause matter to have infinite density.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gravitational singularity`: điểm kỳ dị hấp dẫn
 - `technological singularity`: điểm kỳ dị công nghệ
+- `Big Bang singularity`: điểm kỳ dị Vụ Nổ Lớn
+- `central singularity`: điểm kỳ dị trung tâm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She possesses a striking singularity of purpose.

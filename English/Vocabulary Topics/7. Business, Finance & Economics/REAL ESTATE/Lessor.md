@@ -2,8 +2,10 @@
 *n.*
 > /leˈsɔː(r)/
 
+![[lessor.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who leases or lets a property to another; a landlord.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `obligations of the lessor`: nghĩa vụ của bên cho thuê
 - `lessor consent`: sự đồng ý của bên cho thuê
+- `lessor's consent`: sự đồng ý chấp thuận bằng văn bản của bên cho thuê
+- `responsibilities of the lessor`: trách nhiệm của bên cho thuê nhà
+- `indemnify the lessor`: bồi thường thiệt hại cho chủ nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The lessor must ensure the property meets all safety and building regulations before handing it over.

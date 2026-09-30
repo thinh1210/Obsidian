@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkʌstəm/
 
+![[custom.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional and widely accepted way of behaving or doing something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Local custom`: Phong tục địa phương
+- `social custom`: tập quán xã hội
+- `ancient custom`: phong tục cổ xưa
+- `respect customs`: tôn trọng phong tục tập quán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's a local custom to bow when greeting.

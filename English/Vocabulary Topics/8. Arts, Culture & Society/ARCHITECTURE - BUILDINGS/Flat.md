@@ -2,8 +2,10 @@
 *n.*
 > /flæt/
 
+![[flat.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of rooms for living in, usually on one floor of a large building
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rent a flat`: thuê căn hộ
 - `studio flat`: căn hộ studio
+- `two-bedroom flat`: căn hộ hai phòng ngủ
+- `flat roof`: mái bằng phẳng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She lives in a small flat in the city center.

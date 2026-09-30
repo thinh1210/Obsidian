@@ -2,8 +2,10 @@
 *noun*
 > /ˈɒk.sɪ.dʒən/
 
+![[oxygen.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A colourless gas that humans and animals need to breathe in order to live.

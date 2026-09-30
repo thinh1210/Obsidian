@@ -2,8 +2,10 @@
 *verb.*
 > /baɪ/
 
+![[buy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To obtain something by paying money for it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buy on credit`: mua chịu
 - `buy in bulk`: mua số lượng lớn
+- `buy on margin`: mua ký quỹ chứng khoán
+- `leveraged buyout (LBO)`: mua lại doanh nghiệp bằng vốn vay
+- `buyer's remorse`: cảm giác hối tiếc sau khi mua sắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to buy a new laptop for my online classes.

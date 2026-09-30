@@ -2,8 +2,10 @@
 *adjective*
 > /ræpˈtɔː.ri.əl/
 
+![[raptorial.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or living by preying on other animals; predatory.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `raptorial birds`: chim săn mồi
 - `raptorial talons`: móng vuốt chim săn mồi
+- `raptorial bird`: chim săn mồi dũng mãnh
+- `raptorial claws`: móng vuốt quắp sắc nhọn của chim săn mồi
+- `raptorial adaptations`: sự thích nghi giải phẫu cho việc săn mồi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Hawks and eagles are raptorial birds with sharp eyesight.

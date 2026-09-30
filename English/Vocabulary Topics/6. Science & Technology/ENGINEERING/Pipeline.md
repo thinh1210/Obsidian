@@ -2,8 +2,10 @@
 *noun*
 > /ˈpaɪplaɪn/
 
+![[pipeline.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long pipe, typically underground, for conveying oil, gas, etc. over long distances; a channel of supply.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `oil pipeline`: đường ống dẫn dầu
 - `data pipeline`: đường ống dẫn dữ liệu (trong IT)
+- `natural gas pipeline`: đường ống dẫn khí đốt tự nhiên
+- `pipeline construction`: xây dựng đường ống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new gas pipeline stretches over three hundred miles across the country.

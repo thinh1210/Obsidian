@@ -2,8 +2,10 @@
 *verb*
 > /əbˈzɜːv/
 
+![[observe.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To watch something carefully in order to learn or understand it.

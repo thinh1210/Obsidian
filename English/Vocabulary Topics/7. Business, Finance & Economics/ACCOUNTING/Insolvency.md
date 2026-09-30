@@ -2,8 +2,10 @@
 *n.*
 > /in'solvənsi/ -> /ɪnˈsɒlvənsi/
 
+![[insolvency.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being unable to pay the money owed, by a person or company, on time

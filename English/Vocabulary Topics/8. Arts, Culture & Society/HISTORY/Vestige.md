@@ -2,8 +2,10 @@
 *noun*
 > /ˈves.tɪdʒ/
 
+![[vestige.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A trace of something that is disappearing or no longer exists.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `last vestiges of`: những dấu vết cuối cùng của
 - `vestige of hope`: dấu vết hy vọng mong manh
+- `vestiges of an ancient empire`: dấu tích của một đế chế cổ xưa
+- `vanish without a vestige`: biến mất không còn một dấu vết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ruins are the last vestige of a once-great empire.

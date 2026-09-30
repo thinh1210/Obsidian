@@ -2,8 +2,10 @@
 *noun*
 > /ˌpenəˈtreɪʃn/
 
+![[penetration.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The extent to which a product is recognized or bought by customers in a particular market
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `market penetration`: sự thâm nhập thị trường
 - `penetration rate`: tỷ lệ thâm nhập
+- `penetration pricing strategy`: chiến lược định giá thấp để thâm nhập thị trường
+- `deep penetration`: sự lan tỏa và thâm nhập sâu rộng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our new brand has low penetration in the suburban areas because of weak delivery networks.

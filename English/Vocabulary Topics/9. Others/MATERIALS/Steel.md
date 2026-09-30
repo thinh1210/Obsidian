@@ -2,8 +2,10 @@
 *noun.*
 > /stiːl/
 
+![[steel.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hard, strong gray alloy of iron with carbon, used extensively as a structural and fabricating material.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stainless steel`: thép không gỉ
 - `structural steel`: thép kết cấu
+- `nerves of steel`: tinh thần thép thép gan góc (idiom)
+- `steel oneself for`: chuẩn bị tinh thần đón nhận thử thách (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Most of our kitchen knives are made of stainless steel.

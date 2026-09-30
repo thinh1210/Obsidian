@@ -2,8 +2,10 @@
 *noun*
 > /ˌhaɪ.bəˈneɪ.ʃən/
 
+![[hibernation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of inactivity and metabolic depression in endotherms during winter.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `enter hibernation`: bắt đầu ngủ đông
 - `wake from hibernation`: thức tỉnh sau khi ngủ đông
+- `deep hibernation`: giấc ngủ đông sâu
+- `winter hibernation`: sự ngủ đông vào mùa rét
+- `hibernation mode`: chế độ ngủ đông của máy tính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bears go into deep hibernation during the coldest months of winter.

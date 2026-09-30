@@ -2,8 +2,10 @@
 *n*
 > /ˌkɒnvəˈlesns/
 
+![[convalescence.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Time spent recovering from an illness or medical treatment; recuperation.

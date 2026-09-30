@@ -2,8 +2,10 @@
 *adj*
 > /ɪkˈsep.ʃən.əl/
 
+![[exceptional.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unusually good; outstanding.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `exceptional talent`: tài năng xuất chúng
+- `exceptional circumstances`: hoàn cảnh đặc biệt ngoại lệ
+- `exceptional ability`: khả năng đặc biệt xuất chúng
+- `exceptional value`: giá trị vượt trội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has exceptional artistic ability.

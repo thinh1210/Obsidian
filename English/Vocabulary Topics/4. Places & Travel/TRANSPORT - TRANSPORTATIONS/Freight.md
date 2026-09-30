@@ -2,8 +2,10 @@
 *noun*
 > /freɪt/
 
+![[freight.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Goods transported by truck, train, ship, or aircraft.

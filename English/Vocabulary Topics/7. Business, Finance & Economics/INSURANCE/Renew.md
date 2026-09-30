@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈnjuː/
 
+![[renew.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To extend the period of validity of an insurance contract.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `renew a policy`: gia hạn hợp đồng
 - `automatically renew`: tự động gia hạn
+- `renew coverage`: gia hạn tiếp thời gian bảo vệ của bảo hiểm
+- `option to renew`: quyền được tùy chọn gia hạn hợp đồng
+- `non-renewal notice`: thư thông báo không tiếp tục tái tục bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to renew my car insurance before it expires next week.

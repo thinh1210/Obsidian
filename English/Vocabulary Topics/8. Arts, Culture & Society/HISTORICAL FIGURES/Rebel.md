@@ -2,8 +2,10 @@
 *n.*
 > /ˈrebl/
 
+![[rebel.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who rises in opposition or armed resistance against an established government or ruler
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rebel army`: quân nổi dậy
 - `rebel leader`: thủ lĩnh phe nổi dậy
+- `rebel against authority`: nổi dậy chống lại chính quyền
+- `crush a rebel force`: đè bẹp lực lượng nổi loạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The rebels hid in the mountains to plan their next attack.

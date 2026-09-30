@@ -2,8 +2,10 @@
 *adjective*
 > /nɒkˈtɜː.nəl/
 
+![[nocturnal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Active at night.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `nocturnal animal`: động vật hoạt động về đêm
 - `nocturnal habits`: thói quen hoạt động về đêm
+- `nocturnal predator`: kẻ săn mồi kiếm ăn ban đêm
+- `nocturnal bird`: loài chim kiếm ăn đêm
+- `strictly nocturnal`: hoàn toàn hoạt động về đêm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bats are nocturnal creatures that use echolocation to navigate in the dark.

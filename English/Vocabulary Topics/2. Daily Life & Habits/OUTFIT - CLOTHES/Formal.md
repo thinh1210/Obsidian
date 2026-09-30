@@ -2,8 +2,10 @@
 *adj*
 > /ˈfɔːr.məl/
 
+![[formal.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Suitable for official or important occasions.
@@ -13,7 +15,10 @@
 💡 Formal -> Pho mát -> Bữa tiệc pho mát rất trang trọng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `formal attire: trang phục trang trọng`
+- `formal attire`: trang phục trang trọng
+- `formal wear`: trang phục dạ tiệc trang trọng
+- `formal occasion`: dịp trang trọng, lễ nghi
+- `dressed in formal clothes`: ăn mặc trang phục lịch sự chỉnh tề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You need a formal dress for the gala.

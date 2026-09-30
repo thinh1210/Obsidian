@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪm.fə.ni/
 
+![[symphony.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An elaborate musical composition for full orchestra, typically in four movements.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `compose a symphony`: sáng tác một bản giao hưởng
 - `choral symphony`: bản giao hưởng hợp xướng
+- `unfinished symphony`: bản giao hưởng còn dang dở
+- `movement of a symphony`: chương nhạc trong bản giao hưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Beethoven's Ninth Symphony is widely considered a masterpiece of Western art.

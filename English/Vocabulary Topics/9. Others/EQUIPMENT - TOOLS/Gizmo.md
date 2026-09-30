@@ -2,8 +2,10 @@
 *noun*
 > /ˈgɪz.məʊ/
 
+![[gizmo.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a gadget, especially one whose name the speaker shares or does not know.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `latest gizmo`: thiết bị nhỏ mới nhất
 - `electronic gizmo`: thiết bị điện tử nhỏ
+- `high-tech gizmo`: món đồ công nghệ kỳ lạ
+- `mechanical gizmo`: vật dụng máy móc nhỏ
+- `electronic gizmos`: các thiết bị điện tử vặt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is always buying the latest electronic gizmos.

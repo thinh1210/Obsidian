@@ -2,8 +2,10 @@
 *n.*
 > /səˈsaɪ.ə.ti/
 
+![[society.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The aggregate of people living together in a more or less ordered community.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modern society`: xã hội hiện đại
 - `civil society`: xã hội dân sự
+- `primitive society`: xã hội nguyên thủy
+- `agrarian society`: xã hội nông nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Technology has changed our society completely.

@@ -2,8 +2,10 @@
 *noun*
 > /belt/
 
+![[belt.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strip of leather or material worn around the waist to support clothes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fasten a belt`: thắt dây lưng
+- `leather belt`: thắt lưng da
+- `tighten one's belt`: thắt lưng buộc bụng (tiết kiệm chi tiêu)
+- `buckle a belt`: cài khóa thắt lưng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wears a leather belt with his jeans.

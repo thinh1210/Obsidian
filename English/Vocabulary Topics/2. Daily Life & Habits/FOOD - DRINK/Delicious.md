@@ -2,8 +2,10 @@
 *adj.*
 > /dɪˈlɪʃ.əs/
 
+![[delicious.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Highly pleasant to the taste.

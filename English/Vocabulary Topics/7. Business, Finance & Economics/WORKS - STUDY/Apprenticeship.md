@@ -2,8 +2,10 @@
 *n.*
 > /əˈpren.tɪs.ʃɪp/
 
+![[apprenticeship.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A system of training a new generation of practitioners of a trade or profession with on-the-job training
@@ -13,8 +15,11 @@
 💡 Ơ ren tít (apprenticeship) mắt trong suốt thời gian học việc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``serve an apprenticeship`: phục vụ thời kỳ học việc`
-- ``modern apprenticeship`: học việc hiện đại`
+- `serve an apprenticeship`: phục vụ thời kỳ học việc
+- `modern apprenticeship`: học việc hiện đại
+- `complete an apprenticeship`: hoàn thành giai đoạn học nghề
+- `vocational apprenticeship`: chương trình học nghề thực hành
+- `paid apprenticeship`: chương trình học việc có hưởng thù lao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He served a five-year apprenticeship with a master carpenter.

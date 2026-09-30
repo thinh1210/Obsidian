@@ -2,8 +2,10 @@
 *n./adj.*
 > /ˌvedʒ.ɪˈteə.ri.ən/
 
+![[vegetarian.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who does not eat meat.

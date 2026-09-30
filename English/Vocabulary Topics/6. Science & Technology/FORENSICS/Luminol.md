@@ -2,8 +2,10 @@
 *noun*
 > /ˈluː.mɪ.nɒl/
 
+![[luminol.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical compound used to detect trace amounts of blood at crime scenes by producing a blue luminescence.

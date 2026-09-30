@@ -2,8 +2,10 @@
 *v.*
 > /ˈwɜːri/
 
+![[worry.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep thinking about unpleasant things that might happen
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `worry about`: lo lắng về
 - `don't worry`: đừng lo
+- `worry sick`: lo lắng đến phát ốm (idiom)
+- `cause for worry`: lý do đáng phải bận tâm lo lắng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't worry about me.

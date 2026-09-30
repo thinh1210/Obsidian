@@ -2,8 +2,10 @@
 *noun*
 > /læb/
 
+![[lab.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Short for laboratory; a room equipped for scientific experiments or analyses.

@@ -2,8 +2,10 @@
 *n.*
 > /sɒŋ/
 
+![[song.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A short poem or other set of words set to music or meant to be sung.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sing a song`: hát một bài hát
 - `hit song`: bài hát ăn khách
+- `theme song`: bài hát chủ đề của tác phẩm
+- `folk song`: bài hát dân ca cổ truyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This is my favorite song.

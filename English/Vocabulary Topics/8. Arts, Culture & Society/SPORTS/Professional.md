@@ -2,8 +2,10 @@
 *adj.*
 > /prəˈfeʃ.ən.əl/
 
+![[professional.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or belonging to a profession; engaged in a specified activity as one's main paid occupation rather than as a pastime.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `professional career`: sự nghiệp chuyên nghiệp
 - `professional standards`: các tiêu chuẩn chuyên nghiệp
+- `turn professional`: chuyển sang thi đấu chuyên nghiệp
+- `professional athlete`: vận động viên chuyên nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She became a professional tennis player at age 16.

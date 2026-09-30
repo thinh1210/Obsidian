@@ -2,8 +2,10 @@
 *adj*
 > /bɔːrd/
 
+![[bored.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling weary and restless through lack of interest.

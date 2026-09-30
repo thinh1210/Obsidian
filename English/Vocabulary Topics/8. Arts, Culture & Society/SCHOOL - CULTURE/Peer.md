@@ -2,8 +2,10 @@
 *noun*
 > /pɪə(r)/
 
+![[peer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person of the same age, status, or ability as another specified person.

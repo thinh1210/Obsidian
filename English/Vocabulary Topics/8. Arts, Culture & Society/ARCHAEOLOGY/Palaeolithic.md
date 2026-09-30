@@ -2,8 +2,10 @@
 *adj.*
 > /ˌpælɪəʊˈlɪθɪk/
 
+![[palaeolithic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting the early phase of the Stone Age, lasting about 2.5 million years, when primitive stone implements were used
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Palaeolithic tools`: công cụ thời kỳ Đồ đá cũ
 - `Palaeolithic period`: thời kỳ Đồ đá cũ
+- `Upper Palaeolithic`: thời kỳ Đồ đá cũ muộn
+- `Palaeolithic hunter-gatherers`: những người săn bắt hái lượm thời Đồ đá cũ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Palaeolithic humans were hunter-gatherers.

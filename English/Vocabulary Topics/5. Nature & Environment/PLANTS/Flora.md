@@ -2,8 +2,10 @@
 *noun*
 > /ˈflɔːrə/
 
+![[flora.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The plants of a particular region, habitat, or geological period.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `native flora`: hệ thực vật bản địa
 - `local flora`: hệ thực vật địa phương
+- `tropical flora`: hệ thực vật nhiệt đới
+- `flora and vegetation`: hệ thực vật và thảm thực vật
+- `rich alpine flora`: hệ thực vật vùng núi cao phong phú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went on a hike to study the local flora.

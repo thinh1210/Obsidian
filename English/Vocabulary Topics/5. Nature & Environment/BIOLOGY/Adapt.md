@@ -2,8 +2,10 @@
 *verb*
 > /əˈdæpt/
 
+![[adapt.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Become adjusted to new conditions.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adapt to change`: thích nghi với sự thay đổi
 - `adapt to environment`: thích nghi với môi trường
+- `adapt to new conditions`: thích nghi với những điều kiện mới
+- `evolutionary adaptation`: sự thích nghi tiến hóa
+- `adaptable behavior`: hành vi dễ thích ứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Animals must adapt to cold winters.

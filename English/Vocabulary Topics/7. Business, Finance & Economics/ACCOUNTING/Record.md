@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈkɔːd/
 
+![[record.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep a systematic written account of financial transactions

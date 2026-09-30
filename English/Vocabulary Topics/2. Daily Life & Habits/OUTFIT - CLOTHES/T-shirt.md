@@ -2,8 +2,10 @@
 *noun*
 > /ˈtiː.ʃɜːrt/
 
+![[t_shirt.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A simple piece of clothing with short sleeves and no collar.
@@ -13,7 +15,9 @@
 💡 T-shirt -> Ti sứt -> Áo thun hình chữ T.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `cotton T-shirt: áo thun cotton`
+- `cotton T-shirt`: áo thun cotton
+- `plain white T-shirt`: áo thun trắng trơn cơ bản
+- `vintage T-shirt`: áo thun phong cách cổ điển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He always wears a black T-shirt.

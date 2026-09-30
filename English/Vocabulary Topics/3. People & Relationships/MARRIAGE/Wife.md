@@ -2,8 +2,10 @@
 *noun*
 > /waɪf/
 
+![[wife.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The woman that a man is married to.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A good wife`: Một người vợ tốt
+- `devoted wife`: người vợ đảm đang tận tụy hết lòng
+- `wife-to-be`: người vợ tương lai sắp cưới
+- `loving wife`: người vợ hiền thục yêu thương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is my wife.

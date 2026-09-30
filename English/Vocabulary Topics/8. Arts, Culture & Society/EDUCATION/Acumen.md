@@ -2,8 +2,10 @@
 *n.*
 > /ˈækjʊmən/
 
+![[acumen.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to make good judgments and quick decisions in a particular domain
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `business acumen`: sự nhạy bén kinh doanh
 - `intellectual acumen`: sự nhạy bén trí tuệ
+- `pedagogical acumen`: sự nhạy bén sâu sắc trong nghiệp vụ sư phạm
+- `demonstrate acumen`: thể hiện năng lực nhận định sắc sảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her intellectual acumen made her a top student.

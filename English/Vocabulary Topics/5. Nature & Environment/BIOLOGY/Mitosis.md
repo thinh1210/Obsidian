@@ -2,8 +2,10 @@
 *noun*
 > /maɪˈtəʊ.sɪs/
 
+![[mitosis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stages of mitosis`: các giai đoạn của nguyên phân
 - `mitosis division`: sự phân chia nguyên phân
+- `mitotic spindle`: thoi vô sắc trong nguyên phân
+- `mitosis and cytokinesis`: nguyên phân và phân chia tế bào chất
+- `cell division by mitosis`: sự phân chia tế bào nhờ nguyên phân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mitosis is responsible for growth and tissue repair.

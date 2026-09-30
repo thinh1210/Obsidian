@@ -2,8 +2,10 @@
 *noun*
 > /ɡeɪdʒ/
 
+![[gauge.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an instrument that measures and gives a visual display of the amount, level, or contents of something.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pressure gauge`: đồng hồ đo áp suất
 - `fuel gauge`: đồng hồ đo nhiên liệu
+- `gauge the reaction`: đo lường phản ứng của ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* According to the fuel gauge, we are almost out of petrol.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌdeɡrəˈdeɪʃn/
 
+![[degradation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state or process of being degraded, especially the wearing down of land by erosive processes or the reduction of quality.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `environmental degradation`: sự suy thoái môi trường
 - `soil degradation`: sự thoái hóa đất
+- `land degradation`: sự thoái hóa đất đai
+- `prevent environmental degradation`: ngăn chặn sự suy thoái môi trường
+- `ecological degradation`: sự suy thoái hệ sinh thái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Soil degradation reduces agricultural productivity.

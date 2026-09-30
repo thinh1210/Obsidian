@@ -2,8 +2,10 @@
 *adj.*
 > /ɪɡˈzjuː.bər.ənt/
 
+![[exuberant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Filled with or characterized by a lively energy and excitement.
@@ -13,8 +15,10 @@
 💡 Exuberant (ếch dzu) - Con ếch trong vườn bách thú (zoo) tràn đầy năng lượng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `exuberant personality`: tính cách cởi mở
-- `vui vẻ`
+- `exuberant personality`: tính cách cởi mở, vui vẻ
+- `exuberant joy`: niềm vui trào dâng rộn rã
+- `exuberant welcome`: sự chào đón vô cùng nồng hậu
+- `exuberant imagination`: trí tưởng tượng phong phú bay bổng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has an exuberant personality.

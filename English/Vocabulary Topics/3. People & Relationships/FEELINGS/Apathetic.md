@@ -2,8 +2,10 @@
 *adj*
 > /ˌæpəˈθetɪk/
 
+![[apathetic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing or feeling no interest, enthusiasm, or concern.

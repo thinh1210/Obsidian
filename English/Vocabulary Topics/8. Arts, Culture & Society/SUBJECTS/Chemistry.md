@@ -2,8 +2,10 @@
 *noun*
 > /ˈkemɪstri/
 
+![[chemistry.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of the properties and behavior of matter.

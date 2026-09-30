@@ -2,8 +2,10 @@
 *adj.*
 > /ˈtrænziənt/
 
+![[transient.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting only for a short time; impermanent
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `transient nature`: bản chất nhất thời
+- `transient phenomenon`: hiện tượng nhất thời ngắn ngủi
+- `transient guest`: khách trọ vãng lai
+- `transient beauty`: vẻ đẹp chóng tàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The beauty of a rainbow is transient.

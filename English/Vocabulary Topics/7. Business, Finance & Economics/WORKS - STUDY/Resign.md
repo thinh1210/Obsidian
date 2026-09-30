@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈzaɪn/
 
+![[resign.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To officially announce that you are leaving a job or position
@@ -13,8 +15,11 @@
 💡 Rì sai (resign) nên phải từ chức thôi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``resign from a post`: từ chức khỏi một vị trí`
-- ``resign in protest`: từ chức để phản đối`
+- `resign from a post`: từ chức khỏi một vị trí
+- `resign in protest`: từ chức để phản đối
+- `resign with immediate effect`: đệ đơn xin thôi việc có hiệu lực tức thời
+- `tender resignation`: chính thức gửi văn bản xin từ chức
+- `decide to resign`: đưa ra quyết định xin nghỉ việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He resigned from his job yesterday.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈæv.ə.nuː/
 
+![[avenue.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A broad road in a town or city, typically having trees at regular intervals along its sides.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tree-lined avenue`: đại lộ rợp bóng cây
+- `Fifth Avenue`: Đại lộ số 5
+- `explore every avenue`: tìm mọi phương án xoay xở
+- `broad avenue`: đại lộ rộng thênh thang
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They strolled down the avenue.

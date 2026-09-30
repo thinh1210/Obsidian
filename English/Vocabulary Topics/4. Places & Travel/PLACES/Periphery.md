@@ -2,8 +2,10 @@
 *n.*
 > /pəˈrɪf.ɚ.i/
 
+![[periphery.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outer limits or edge of an area or object.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on the periphery`: ở ngoại vi
+- `city periphery`: vùng ven biên đô thị
+- `economic periphery`: vùng kinh tế ngoại biên phụ trợ
+- `outer periphery`: vành đai ngoài cùng của khu vực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live on the periphery of the city.

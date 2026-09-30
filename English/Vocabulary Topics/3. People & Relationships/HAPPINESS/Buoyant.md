@@ -2,8 +2,10 @@
 *adj.*
 > /ˈbɔɪ.ənt/
 
+![[buoyant.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful and optimistic; able to stay afloat.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buoyant economy`: nền kinh tế phát triển mạnh
+- `buoyant mood`: tâm trạng vui vẻ phơi phới
+- `buoyant spirit`: tinh thần lạc quan sôi nổi
+- `remain buoyant`: vẫn giữ vững được tinh thần vui tươi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The stock market is buoyant.

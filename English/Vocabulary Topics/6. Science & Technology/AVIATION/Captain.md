@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæp.tɪn/
 
+![[captain.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The pilot in command of an aircraft, responsible for its operation and safety.

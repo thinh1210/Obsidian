@@ -2,8 +2,10 @@
 *verb*
 > /əˈklaɪmətaɪz/
 
+![[acclimatize.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To adapt or become accustomed to a new climate or environment.

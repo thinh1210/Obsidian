@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɪdʒ.ɪ.təl ˈsɒv.rɪn.ti/
 
+![[digital_sovereignty.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The right of a state or individual to control their own digital infrastructure, data, and online presence independent of foreign powers.

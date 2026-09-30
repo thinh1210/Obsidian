@@ -2,8 +2,10 @@
 *adj*
 > /ˈdevəsteɪtɪd/
 
+![[devastated.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Severe and overwhelming shock or grief.

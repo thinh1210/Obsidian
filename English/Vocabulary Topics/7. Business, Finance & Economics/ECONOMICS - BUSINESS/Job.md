@@ -2,8 +2,10 @@
 *noun*
 > /dʒɑːb/
 
+![[job.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the regular work that a person does to earn money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `full-time job`: công việc toàn thời gian
 - `apply for a job`: nộp đơn xin việc
+- `job creation`: tạo công ăn việc làm mới
+- `job market`: thị trường tuyển dụng việc làm
+- `job security`: sự bảo đảm ổn định công việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He finally found a job after three months of searching.

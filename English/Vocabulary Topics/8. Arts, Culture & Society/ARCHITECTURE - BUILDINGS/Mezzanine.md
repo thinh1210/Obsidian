@@ -2,8 +2,10 @@
 *n.*
 > /ˈmetsəniːn/
 
+![[mezzanine.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A low story between two main stories of a building, projecting from a wall
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mezzanine floor`: tầng lửng
 - `office mezzanine`: gác lửng văn phòng
+- `mezzanine balcony`: ban công tầng lửng
+- `convert into a mezzanine`: cải tạo thành tầng lửng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cafe has a cozy seating area on the mezzanine.

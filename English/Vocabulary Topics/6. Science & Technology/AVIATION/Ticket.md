@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɪk.ɪt/
 
+![[ticket.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of paper or electronic document that shows you have paid to travel on an aircraft.

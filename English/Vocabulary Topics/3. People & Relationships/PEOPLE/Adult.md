@@ -2,8 +2,10 @@
 *n.*
 > /ˈæd.ʌlt/
 
+![[adult.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is fully grown or developed.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A responsible adult`: Một người lớn có trách nhiệm
+- `consenting adult`: người trưởng thành tự nguyện chịu trách nhiệm
+- `adult education`: giáo dục dành cho người lớn
+- `young adult`: người trẻ tuổi / thanh niên mới lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Only adults can enter.

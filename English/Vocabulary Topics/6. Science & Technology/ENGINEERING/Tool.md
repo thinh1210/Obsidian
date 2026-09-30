@@ -2,8 +2,10 @@
 *noun*
 > /tuːl/
 
+![[tool.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instrument, especially one held in the hand, used to carry out a particular function.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hand tool`: công cụ cầm tay
 - `power tool`: dụng cụ điện
+- `cutting tool`: dụng cụ cắt gọt
+- `diagnostic tool`: công cụ chẩn đoán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to buy some hand tools to fix the wooden chair in the garden.

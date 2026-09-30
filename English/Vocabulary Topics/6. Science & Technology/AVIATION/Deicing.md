@@ -2,8 +2,10 @@
 *noun*
 > /diːˈaɪ.sɪŋ/
 
+![[deicing.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of removing ice from an aircraft's surface to ensure safe flight.

@@ -2,8 +2,10 @@
 *adj*
 > /pəˈlædʒɪk/
 
+![[pelagic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the open sea.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pelagic zone`: vùng biển khơi
 - `pelagic fish`: cá biển khơi
+- `pelagic sediments`: trầm tích biển khơi
+- `pelagic seabirds`: chim biển khơi
+- `pelagic habitat`: môi trường sống ngoài khơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tuna is a pelagic fish.

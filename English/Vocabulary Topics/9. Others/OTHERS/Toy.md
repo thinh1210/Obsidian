@@ -1,13 +1,21 @@
 # Toy
 
 *Noun*
+> /tɔɪ/
+
+![[toy.mp3]]
 
 - **[EN]:** An object for children to play with.
 - **[VN]:** Đồ chơi.
 
-**Level:** A1
+**Level:** A1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Đồ vật hàng ngày, Vật dụng chứa & Đồ chơi
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `toy with the idea`: cân nhắc vu vơ một ý tưởng mới (idiom)
+- `cuddly toy`: thú nhồi bông đáng yêu cho trẻ nhỏ
+- `boy's toys`: những món đồ chơi công nghệ đắt tiền của phái mạnh
+
 ## Examples
 1. *The dog was playing with a squeaky toy.*
    - Con chó đang chơi với một món đồ chơi phát ra tiếng kêu.

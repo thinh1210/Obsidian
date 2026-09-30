@@ -2,8 +2,10 @@
 *adj*
 > /ʌpˈset/
 
+![[upset.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unhappy, disappointed, or worried.

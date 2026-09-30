@@ -2,8 +2,10 @@
 *n.*
 > /ˈstəʊ.ɪ.sɪ.zəm/
 
+![[stoicism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The endurance of pain or hardship without display of feelings and without complaint.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `practice stoicism`: thực hành chủ nghĩa khắc kỷ
 - `philosophical stoicism`: chủ nghĩa khắc kỷ triết học
+- `stoic endurance`: sức chịu đựng khắc kỷ kiên gan
+- `stoic attitude`: thái độ bình thản khắc kỷ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She showed great stoicism when she lost her job.

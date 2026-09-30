@@ -2,8 +2,10 @@
 *adj.*
 > /ɪˈniː.bri.eɪ.tɪd/
 
+![[inebriated.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Drunk, intoxicated.

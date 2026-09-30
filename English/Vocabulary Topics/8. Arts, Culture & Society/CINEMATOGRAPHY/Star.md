@@ -2,8 +2,10 @@
 *n.*
 > /stɑː(r)/
 
+![[star.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A famous or exceptionally talented performer in a movie
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `guest star`: ngôi sao khách mời
 - `movie star`: ngôi sao điện ảnh
+- `rising star`: ngôi sao trẻ đang lên
+- `all-star cast`: dàn diễn viên quy tụ toàn ngôi sao hạng A
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to be a movie star.

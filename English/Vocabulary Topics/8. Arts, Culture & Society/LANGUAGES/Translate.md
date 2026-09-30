@@ -2,8 +2,10 @@
 *v.*
 > /trænzˈleɪt/
 
+![[translate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To express the sense of words or text in another language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `translate into English`: dịch sang tiếng Anh
+- `translate literally`: dịch theo nghĩa đen từng chữ
+- `lost in translation`: bị thất thoát ý nghĩa qua chuyển ngữ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you translate this letter for me?

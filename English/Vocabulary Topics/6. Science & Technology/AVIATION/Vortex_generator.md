@@ -2,8 +2,10 @@
 *noun phrase*
 > /ˈvɔː.teks ˈdʒen.ər.eɪ.tər/
 
+![[vortex_generator.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small fins or blades mounted on aircraft surfaces that create small vortices to delay airflow separation and improve control at low speeds.

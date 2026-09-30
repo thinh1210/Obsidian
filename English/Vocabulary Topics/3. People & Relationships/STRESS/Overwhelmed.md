@@ -2,8 +2,10 @@
 *adj.*
 > /ˌəʊvərˈwelmd/
 
+![[overwhelmed.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having too much to deal with
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feel overwhelmed`: cảm thấy quá tải
 - `overwhelmed with work`: quá tải vì công việc
+- `overwhelmed with emotion`: ngập tràn cảm xúc dâng trào
+- `feel completely overwhelmed`: cảm thấy hoàn toàn quá tải ngộp thở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I feel overwhelmed with my chores.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɒn.səˈveɪ.ʃən/
 
+![[conservation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The protection of plants and animals, natural areas, and interesting and important structures.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bird conservation`: bảo tồn loài chim
 - `conservation effort`: nỗ lực bảo tồn
+- `wildlife conservation`: bảo tồn động vật hoang dã
+- `conservation efforts`: những nỗ lực bảo tồn sinh thái
+- `energy conservation`: sự tiết kiệm và bảo tồn năng lượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Local communities are participating in forest conservation.

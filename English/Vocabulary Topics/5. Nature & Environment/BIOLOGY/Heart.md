@@ -2,8 +2,10 @@
 *noun*
 > /hɑːt/
 
+![[heart.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `heart rate`: nhịp tim
 - `heart attack`: cơn đau tim
+- `by heart`: thuộc lòng
+- `heart of the matter`: trọng tâm của vấn đề
+- `heart muscle`: cơ tim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She placed her hand over her heart.

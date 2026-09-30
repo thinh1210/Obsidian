@@ -2,8 +2,10 @@
 *adj*
 > /ˈnɑː.t̬i/
 
+![[naughty.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Disobedient or badly behaved.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `naughty boy`: cậu bé hư
+- `naughty child`: đứa trẻ nghịch ngợm bướng bỉnh
+- `naughty corner`: góc phạt đứng tự kiểm điểm
+- `play naughty tricks`: bày trò nghịch ngợm trêu chọc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The naughty child broke the vase.

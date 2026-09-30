@@ -2,8 +2,10 @@
 *noun*
 > /səˈveɪ.ləns ˈkæp.ɪ.tə.lɪ.zəm/
 
+![[surveillance_capitalism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An economic system centered on the commodification of personal data collected through Internet surveillance for profit.

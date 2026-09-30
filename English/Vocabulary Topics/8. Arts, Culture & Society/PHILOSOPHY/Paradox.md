@@ -2,8 +2,10 @@
 *n.*
 > /ˈpær.ə.dɒks/
 
+![[paradox.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A seemingly absurd or self-contradictory statement that may prove to be true.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `apparent paradox`: nghịch lý rõ ràng
 - `time paradox`: nghịch lý thời gian
+- `paradox of choice`: nghịch lý của sự lựa chọn
+- `resolve a paradox`: hóa giải một nghịch lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is a paradox that the more you sleep, the more tired you feel.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈprɒdʒ.ekt/
 
+![[project.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A planned piece of work that is designed to find information or produce something new
@@ -13,8 +15,11 @@
 💡 Pơ rốt dép (project) đi làm dự án mới.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``manage a project`: quản lý một dự án`
-- ``school project`: dự án ở trường`
+- `manage a project`: quản lý một dự án
+- `school project`: dự án ở trường
+- `undertake a research project`: đảm nhận một đề tài dự án nghiên cứu
+- `collaborative project`: dự án làm việc nhóm phối hợp
+- `project milestone`: các mốc tiến độ quan trọng của dự án
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am working on a creative project.

@@ -2,8 +2,10 @@
 *n.*
 > /ɪˌkɒn.əˈmet.rɪks/
 
+![[econometrics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The application of statistical and mathematical methods to economic data to develop and test economic models.

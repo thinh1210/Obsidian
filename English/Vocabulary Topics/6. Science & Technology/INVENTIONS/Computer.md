@@ -2,8 +2,10 @@
 *Noun*
 > /kəmˈpjuː.tər/
 
+![[computer.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electronic machine that can store and find information, calculate amounts, and control other machines.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `personal computer`: máy tính cá nhân
 - `computer network`: mạng lưới máy tính
+- `quantum computer`: máy tính lượng tử
+- `computer literate`: có kỹ năng thành thạo máy tính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I use my computer to study English every day.

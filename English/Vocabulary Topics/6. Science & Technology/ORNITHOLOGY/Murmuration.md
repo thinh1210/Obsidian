@@ -2,8 +2,10 @@
 *noun*
 > /ˌmɜː.məˈreɪ.ʃən/
 
+![[murmuration.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flock of starlings (or similar birds) flying in a large, fluid, coordinated pattern.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spectacular murmuration`: sự uốn lượn tập thể ngoạn mục
 - `starling murmuration`: đàn sáo đá uốn lượn
+- `murmuration of starlings`: hiện tượng đàn chim sáo đá chao liệng khổng lồ
+- `aerial murmuration`: vũ điệu chao lượn trên không của đàn chim
+- `breathtaking murmuration`: vũ khúc bầy đàn kỳ ảo nghẹt thở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stood in awe watching the murmuration of starlings over the field.

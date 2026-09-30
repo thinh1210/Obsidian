@@ -2,8 +2,10 @@
 *noun phrase*
 > /ˈɪn.strʊ.mənt ˌmiː.ti.ər.əˈlɒdʒ.ɪ.kəl kənˈdɪʃ.ənz/
 
+![[instrument_meteorological_conditions.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Meteorological conditions that require pilots to rely on aircraft instruments for navigation rather than visual references. Abbreviated as IMC.

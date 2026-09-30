@@ -2,8 +2,10 @@
 *noun*
 > /ˈiː kɑːmɜːrs/
 
+![[e_commerce.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** business that is conducted electronically, especially over the internet.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `e-commerce platform`: sàn thương mại điện tử
 - `e-commerce transaction`: giao dịch thương mại điện tử
+- `e-commerce giant`: ông lớn trong ngành thương mại điện tử
+- `cross-border e-commerce`: thương mại điện tử xuyên biên giới
+- `e-commerce storefront`: gian hàng trực tuyến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* During the pandemic, many people shifted to e-commerce for their daily shopping.

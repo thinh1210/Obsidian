@@ -2,8 +2,10 @@
 *n.*
 > /ˌmɪtɪˈɡeɪʃn/
 
+![[mitigation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of reducing the severity, seriousness, or painfulness of something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mitigation strategies`: chiến lược giảm thiểu
 - `climate change mitigation`: giảm thiểu biến đổi khí hậu
+- `mitigation measures`: các biện pháp giảm nhẹ rủi ro
+- `disaster mitigation`: giảm nhẹ hậu quả thiên tai
+- `risk mitigation`: giảm thiểu rủi ro
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Climate change mitigation requires international cooperation.

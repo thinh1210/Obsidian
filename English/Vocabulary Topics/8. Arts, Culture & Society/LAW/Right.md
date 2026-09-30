@@ -2,8 +2,10 @@
 *noun*
 > /raɪt/
 
+![[right.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LAW
+**Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A moral or legal entitlement to have or obtain something or to act in a certain way.

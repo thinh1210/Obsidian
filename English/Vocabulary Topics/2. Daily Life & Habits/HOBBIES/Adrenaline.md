@@ -2,8 +2,10 @@
 *noun*
 > /əˈdrenəlɪn/
 
+![[adrenaline.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A hormone secreted by the adrenal glands, especially in conditions of stress, increasing rates of blood circulation, breathing, etc.

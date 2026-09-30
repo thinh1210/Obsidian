@@ -2,8 +2,10 @@
 *verb*
 > /ˈredʒɪstər/
 
+![[register.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put one's name on an official list, especially to be eligible to vote.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `register to vote`: đăng ký bỏ phiếu
 - `voter registration`: sự đăng ký cử tri
+- `registered voters`: các cử tri đã đăng ký hợp lệ
+- `voter registration deadline`: hạn chót đăng ký cử tri
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Have you registered to vote in the upcoming election yet?

@@ -2,8 +2,10 @@
 *n., v.*
 > /ˈʃɛdjuːl/
 
+![[schedule.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** LIFESTYLE
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan for carrying out a process or procedure.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tight schedule`: lịch trình dày đặc
+- `ahead of schedule`: trước thời hạn dự kiến
+- `manage one's schedule`: quản lý sắp xếp thời gian biểu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a tight schedule.

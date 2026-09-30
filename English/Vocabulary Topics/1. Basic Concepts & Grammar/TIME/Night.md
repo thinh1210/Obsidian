@@ -2,8 +2,10 @@
 *n.*
 > /naɪt/
 
+![[night.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of darkness between sunset and sunrise
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `at night`: vào ban đêm
+- `late at night`: đêm muộn
+- `spend the night`: ngủ lại qua đêm
+- `overnight sensation`: hiện tượng nổi tiếng sau một đêm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I sleep at night.

@@ -2,8 +2,10 @@
 *adj*
 > /ˌɒb.səlˈiːt/
 
+![[obsolete.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not in use any more, having been replaced by something newer and better or more fashionable.

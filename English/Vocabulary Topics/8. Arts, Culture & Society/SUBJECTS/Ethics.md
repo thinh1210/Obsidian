@@ -2,8 +2,10 @@
 *n.*
 > /ˈeθ.ɪks/
 
+![[ethics.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of knowledge that deals with moral principles and the study of right and wrong behaviour.

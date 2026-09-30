@@ -2,8 +2,10 @@
 *noun*
 > /ˌæntɪˈkweəriən/
 
+![[antiquarian.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who studies or collects antiques or antiquities.

@@ -2,8 +2,10 @@
 *n.*
 > /juːθ/
 
+![[youth.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period between childhood and adult age.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `The youth of today`: Thanh niên ngày nay
+- `disaffected youth`: giới trẻ bất mãn với xã hội
+- `youth employment`: việc làm cho thanh niên
+- `idealism of youth`: lý tưởng trong sáng của tuổi trẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Youth is the best time.

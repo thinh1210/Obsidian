@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪm.ɪ.dʒər.i/
 
+![[imagery.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Visually descriptive or figurative language, especially in a literary work.

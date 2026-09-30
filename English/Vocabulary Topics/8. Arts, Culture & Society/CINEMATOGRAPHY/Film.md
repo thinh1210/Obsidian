@@ -2,8 +2,10 @@
 *n.*
 > /fɪlm/
 
+![[film.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A story or event recorded by a camera as a set of moving images
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make a film`: làm phim
 - `documentary film`: phim tài liệu
+- `feature film`: phim truyện dài chiếu rạp
+- `film reel`: cuộn phim nhựa cổ điển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What is your favorite film?

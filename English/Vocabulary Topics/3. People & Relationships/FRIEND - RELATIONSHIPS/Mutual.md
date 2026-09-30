@@ -2,8 +2,10 @@
 *adj*
 > /ˈmjuː.tʃu.əl/
 
+![[mutual.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of a feeling or action) experienced or done by each of two or more parties toward the other or others.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mutual respect`: sự tôn trọng lẫn nhau
+- `mutual friend`: bạn chung của cả hai người
+- `mutual trust and respect`: niềm tin và sự tôn trọng qua lại
+- `mutual understanding`: sự thấu hiểu và cảm thông lẫn nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mutual respect is the foundation of their friendship.

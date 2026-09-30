@@ -2,8 +2,10 @@
 *verb*
 > /wɪðˈdrɔː/
 
+![[withdraw.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take money out of an account
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `withdraw cash from an ATM`: rút tiền mặt từ cây ATM
+- `withdraw money from an account`: rút tiền từ tài khoản
+- `withdraw an offer`: rút lại lời đề nghị
+- `withdrawal symptoms`: triệu chứng vật vã khi cai nghiện
+- `withdraw from a market`: rút lui hoàn toàn khỏi thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to withdraw some cash from the ATM.

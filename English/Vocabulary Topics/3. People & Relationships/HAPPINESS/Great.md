@@ -2,8 +2,10 @@
 *adj.*
 > /ɡreɪt/
 
+![[great.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of an extent, amount, or intensity considerably above the normal or average.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `look great`: trông tuyệt vời
+- `great pleasure`: niềm hân hạnh to lớn
+- `make great strides`: có những bước tiến vượt bậc
+- `feel great`: cảm thấy vô cùng tuyệt vời sảng khoái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You look great today.

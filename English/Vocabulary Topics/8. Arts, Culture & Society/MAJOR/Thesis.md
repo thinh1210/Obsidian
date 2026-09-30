@@ -2,8 +2,10 @@
 *n.*
 > /ˈθiː.sɪs/
 
+![[thesis.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long piece of academic writing based on original research, submitted for a graduate degree; also a central argument.

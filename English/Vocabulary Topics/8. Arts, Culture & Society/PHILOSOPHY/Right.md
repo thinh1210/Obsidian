@@ -2,8 +2,10 @@
 *adj.*
 > /raɪt/
 
+![[right.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Morally good, justified, or acceptable.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `right decision`: quyết định đúng đắn
 - `do the right thing`: làm điều đúng đắn
+- `right and wrong`: đúng và sai
+- `on the right track`: đi đúng hướng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I hope I made the right decision.

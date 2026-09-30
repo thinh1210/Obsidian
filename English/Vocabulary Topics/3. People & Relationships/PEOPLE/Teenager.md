@@ -2,8 +2,10 @@
 *n.*
 > /ˈtiːnˌeɪ.dʒər/
 
+![[teenager.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person aged between 13 and 19 years.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A rebellious teenager`: Một thanh thiếu niên nổi loạn
+- `rebellious teenager`: thanh thiếu niên ngỗ ngược nổi loạn
+- `average teenager`: thiếu niên bình thường
+- `teenager angst`: nỗi hoang mang lo lắng của tuổi dậy thì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Teenagers love pop music.

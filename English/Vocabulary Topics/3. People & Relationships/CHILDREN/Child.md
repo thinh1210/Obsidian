@@ -2,8 +2,10 @@
 *noun*
 > /tʃaɪld/
 
+![[child.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A young human being.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `only child`: con một
+- `child care`: việc chăm sóc nuôi nấng trẻ em
+- `child prodigy`: thần đồng thiếu nhi
+- `inner child`: đứa trẻ tâm hồn bên trong mỗi người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The child is playing.

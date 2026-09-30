@@ -2,8 +2,10 @@
 *noun*
 > /ˌæp.əˈreɪ.təs/
 
+![[apparatus.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the technical equipment or machinery needed for a particular activity or purpose.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `laboratory apparatus`: thiết bị phòng thí nghiệm
 - `state apparatus`: bộ máy nhà nước
+- `breathing apparatus`: bộ máy thở
+- `scientific apparatus`: thiết bị nghiên cứu khoa học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Firefighters wear breathing apparatus to enter smoke-filled buildings.

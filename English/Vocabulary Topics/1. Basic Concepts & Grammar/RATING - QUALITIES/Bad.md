@@ -2,8 +2,10 @@
 *adj*
 > /bæd/
 
+![[bad.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Failing to reach an acceptable standard.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bad weather`: thời tiết xấu
+- `bad temper`: tính khí nóng nảy / xấu
+- `bad debt`: nợ xấu
+- `in bad shape`: trong tình trạng tồi tệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had a bad dream.

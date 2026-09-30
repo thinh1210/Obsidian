@@ -2,8 +2,10 @@
 *noun*
 > /ˈen.zaɪm/
 
+![[enzyme.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance produced by a living organism which acts as a catalyst to bring about a specific biochemical reaction.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digestive enzyme`: enzyme tiêu hóa
 - `enzyme activity`: hoạt động của enzyme
+- `enzyme catalyst`: chất xúc tác enzyme
+- `digestive enzymes`: các loại men tiêu hóa
+- `denature an enzyme`: làm biến tính một enzyme
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Saliva contains digestive enzymes that start breaking down food.

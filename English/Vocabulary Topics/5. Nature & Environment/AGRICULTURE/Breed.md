@@ -2,8 +2,10 @@
 *v.*
 > /briːd/
 
+![[breed.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep and raise animals for the purpose of producing offspring.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `breed cows`: nhân giống bò
 - `selective breeding`: nhân giống chọn lọc
+- `breed in captivity`: sinh sản trong điều kiện nuôi nhốt
+- `pedigree breed`: giống vật nuôi thuần chủng
+- `rare breed`: giống loài quý hiếm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He decided to breed sheep on his new farm.

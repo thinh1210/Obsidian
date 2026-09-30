@@ -2,8 +2,10 @@
 *verb*
 > /əˈdʒuː.dɪ.keɪt/
 
+![[adjudicate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a formal judgment or decision about a problem or disputed matter.

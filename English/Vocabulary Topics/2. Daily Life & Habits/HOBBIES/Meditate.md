@@ -2,8 +2,10 @@
 *verb*
 > /ˈmed.ɪ.teɪt/
 
+![[meditate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To think calm thoughts in order to relax or as a religious activity.

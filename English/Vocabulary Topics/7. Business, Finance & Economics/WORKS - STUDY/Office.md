@@ -2,8 +2,10 @@
 *n.*
 > /ˈɒf.ɪs/
 
+![[office.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A room or building where people work at desks
@@ -13,8 +15,11 @@
 💡 Ót phích (office) nước để ở góc văn phòng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``office hours`: giờ làm việc`
-- ``post office`: bưu điện`
+- `office hours`: giờ làm việc
+- `post office`: bưu điện
+- `corporate office`: trụ sở văn phòng của tập đoàn
+- `office supplies`: văn phòng phẩm phục vụ công tác
+- `virtual office`: văn phòng làm việc ảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our office is on the third floor.

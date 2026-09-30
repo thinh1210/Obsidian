@@ -2,8 +2,10 @@
 *n.*
 > /ˈɡɒsɪp/
 
+![[gossip.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Casual conversation or reports about other people, typically involving details that are not confirmed as being true.
@@ -13,7 +15,10 @@
 💡 Gossip girl.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `juicy gossip: tin đồn thú vị`
+- `juicy gossip`: tin đồn thú vị
+- `gossip monger`: kẻ chuyên ngồi lê buôn chuyện
+- `political gossip`: tin đồn giới chính trường
+- `spread malicious gossip`: tung tin đồn nhảm ác ý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She loves listening to gossip.

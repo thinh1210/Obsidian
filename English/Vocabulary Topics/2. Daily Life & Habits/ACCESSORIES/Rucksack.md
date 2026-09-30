@@ -2,8 +2,10 @@
 *noun*
 > /ˈrʌksæk/
 
+![[rucksack.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large bag carried on the back and used especially by walkers and climbers.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pack a rucksack`: xếp đồ vào ba lô
+- `heavy rucksack`: chiếc ba lô leo núi nặng trĩu
+- `haul a rucksack`: vác ba lô phượt
+- `hiking rucksack`: ba lô đi phượt chuyên dụng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He hoisted the heavy rucksack onto his shoulders.

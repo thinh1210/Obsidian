@@ -2,8 +2,10 @@
 *n.*
 > /ˈtælənt/
 
+![[talent.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Natural ability or skill.
@@ -13,7 +15,10 @@
 💡 Talent show.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `have a talent for: có tài năng về`
+- `have a talent for`: có tài năng về
+- `scout for talent`: săn tìm tài năng mới
+- `raw talent`: tài năng thiên bẩm nguyên bản chưa mài giũa
+- `hidden talent`: tài năng tiềm ẩn giấu kín
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a talent for singing.

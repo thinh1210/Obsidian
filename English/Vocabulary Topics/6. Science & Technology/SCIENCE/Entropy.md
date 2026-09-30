@@ -2,8 +2,10 @@
 *noun*
 > /ˈen.trə.pi/
 
+![[entropy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thermodynamic measure of disorder or randomness in a system; the tendency of systems to move toward disorder.

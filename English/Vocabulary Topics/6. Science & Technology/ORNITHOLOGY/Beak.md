@@ -2,8 +2,10 @@
 *noun*
 > /biːk/
 
+![[beak.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The hard, pointed part of a bird's mouth.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sharp beak`: mỏ nhọn
 - `curved beak`: mỏ cong
+- `peck with a beak`: mổ bằng mỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The woodpecker tapped the tree with its strong beak.

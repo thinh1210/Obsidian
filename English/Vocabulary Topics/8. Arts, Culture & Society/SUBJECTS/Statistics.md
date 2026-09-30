@@ -2,8 +2,10 @@
 *noun*
 > /stəˈtɪstɪks/
 
+![[statistics.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or science of collecting and analyzing numerical data in large quantities.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `applied statistics`: thống kê học ứng dụng
+- `descriptive statistics`: thống kê mô tả
+- `inferential statistics`: thống kê suy luận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to take a statistics class for my degree.

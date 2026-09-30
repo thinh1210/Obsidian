@@ -2,8 +2,10 @@
 *n.*
 > /ˈlæŋ.ɡwɪdʒ/
 
+![[language.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of communication used by a particular community or country.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `native language`: ngôn ngữ mẹ đẻ
 - `body language`: ngôn ngữ cơ thể
+- `endangered language`: ngôn ngữ có nguy cơ mai một
+- `indigenous language`: ngôn ngữ bản địa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* English is a global language.

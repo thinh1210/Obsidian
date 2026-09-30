@@ -2,8 +2,10 @@
 *noun*
 > /ˈtʃəʊ.kər/
 
+![[choker.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A close-fitting necklace worn around the neck.
@@ -13,7 +15,10 @@
 💡 Chờ (Cho) cơ (ker) hội đeo vòng cổ ôm sát.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `velvet choker: vòng cổ bằng nhung`
+- `velvet choker`: vòng cổ bằng nhung
+- `pearl choker`: vòng cổ ngọc trai ôm sát
+- `diamond-encrusted choker`: vòng choker nạm kín kim cương
+- `velvet ribbon choker`: vòng cổ nhung đen ôm khít
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wore a choker.

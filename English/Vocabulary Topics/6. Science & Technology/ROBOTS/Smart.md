@@ -2,8 +2,10 @@
 *adjective.*
 > /smɑːrt/
 
+![[smart.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intelligent, or able to think and learn quickly (often used for devices connected to the internet)
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `smart device`: thiết bị thông minh
+- `smart factory`: nhà máy thông minh
+- `smart sensor`: cảm biến thông minh
+- `smart assistant`: trợ lý thông minh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are upgrading to a smart home system.

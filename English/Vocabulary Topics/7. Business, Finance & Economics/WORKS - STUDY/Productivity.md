@@ -2,8 +2,10 @@
 *n.*
 > /ˌprɒd.ʌkˈtɪv.ə.ti/
 
+![[productivity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The effectiveness of productive effort, especially in industry
@@ -13,8 +15,11 @@
 💡 Pơ rốt đắc tít (productivity) làm việc có năng suất cao.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``increase productivity`: tăng năng suất`
-- ``labor productivity`: năng suất lao động`
+- `increase productivity`: tăng năng suất
+- `labor productivity`: năng suất lao động
+- `boost workplace productivity`: thúc đẩy nâng cao năng suất nơi làm việc
+- `productivity tools`: các phần mềm công cụ hỗ trợ nâng cao hiệu suất
+- `measure productivity`: đo lường mức độ năng suất công việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Listening to music helps improve my productivity.

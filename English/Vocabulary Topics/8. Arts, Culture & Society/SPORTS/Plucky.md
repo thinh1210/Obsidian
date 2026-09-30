@@ -2,8 +2,10 @@
 *adj.*
 > /ˈplʌk.i/
 
+![[plucky.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing determined courage in the face of difficulties.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plucky underdog`: kẻ yếu thế gan dạ
 - `plucky performance`: màn trình diễn đầy kiên cường
+- `plucky fighter`: tay đấm kiên cường không nao núng
+- `plucky resistance`: sự phản kháng kiên cường quả cảm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The plucky team of teenagers defeated the veteran champions.

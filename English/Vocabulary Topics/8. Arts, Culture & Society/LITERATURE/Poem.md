@@ -2,8 +2,10 @@
 *noun*
 > /ˈpəʊ.ɪm/
 
+![[poem.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE
+**Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of writing that partakes of the nature of both speech and song, typically rhythmical.

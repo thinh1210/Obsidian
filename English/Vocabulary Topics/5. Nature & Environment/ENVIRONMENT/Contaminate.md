@@ -2,8 +2,10 @@
 *v.*
 > /kənˈtæmɪneɪt/
 
+![[contaminate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make (something) impure by exposure to or addition of a poisonous or polluting substance.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `contaminate groundwater`: làm ô nhiễm nước ngầm
 - `contaminate food`: làm nhiễm bẩn thực phẩm
+- `contaminate water supply`: làm ô nhiễm nguồn cung cấp nước
+- `heavily contaminated`: bị ô nhiễm hoặc nhiễm bẩn nặng nề
+- `cross-contaminate`: lây nhiễm chéo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Industrial waste can contaminate rivers.

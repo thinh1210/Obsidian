@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈdʌndənsi/
 
+![[redundancy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The inclusion of extra components which are not strictly necessary to functioning, in case of failure of other components.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `built-in redundancy`: cơ chế dự phòng tích hợp sẵn
 - `system redundancy`: sự dự phòng của hệ thống
+- `redundancy check`: kiểm tra dự phòng
+- `triple redundancy`: dự phòng ba cấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Spacecraft design always includes multiple levels of redundancy to ensure safety.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌsepəˈreɪʃn/
 
+![[separation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being separated, particularly a couple living apart.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A trial separation`: Một cuộc ly thân thử nghiệm
+- `legal separation`: ly thân hợp pháp về mặt luật pháp
+- `painful separation`: sự chia ly đau đớn xót xa
+- `period of separation`: khoảng thời gian ly thân thử thách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They decided on a trial separation.

@@ -2,8 +2,10 @@
 *n.*
 > /taʊn/
 
+![[town.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A built-up area with a name, defined boundaries, and local government.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hometown`: quê nhà
+- `market town`: thị trấn chợ giao thương
+- `small town`: thị trấn nhỏ bình yên
+- `historic town`: thị trấn cổ kính giàu lịch sử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our town is very quiet.

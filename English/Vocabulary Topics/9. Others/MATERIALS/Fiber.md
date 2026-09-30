@@ -2,8 +2,10 @@
 *noun.*
 > /ˈfaɪbə(r)/
 
+![[fiber.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thread or filament from which a vegetable tissue, mineral substance, or textile is formed.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `optical fiber`: sợi quang
 - `dietary fiber`: chất xơ thực phẩm
+- `fiber optic cable`: đường truyền cáp quang tốc độ cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Vegetables are rich in dietary fiber, which is good for digestion.

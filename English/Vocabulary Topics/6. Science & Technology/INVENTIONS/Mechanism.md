@@ -2,8 +2,10 @@
 *Noun*
 > /ˈmek.ə.nɪ.zəm/
 
+![[mechanism.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of a machine or a set of parts that does a particular job.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `defense mechanism`: cơ chế tự vệ
 - `locking mechanism`: cơ cấu khóa
+- `feedback mechanism`: cơ chế phản hồi thông tin
+- `control mechanism`: cơ chế kiểm soát giám sát
+- `operating mechanism`: cơ chế vận hành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The locking mechanism of the safe is broken.

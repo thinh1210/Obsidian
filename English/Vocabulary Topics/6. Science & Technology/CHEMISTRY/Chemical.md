@@ -2,8 +2,10 @@
 *noun*
 > /ˈkem.ɪ.kəl/
 
+![[chemical.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A distinct substance that has been purified or prepared, especially artificially.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chemical reaction`: phản ứng hóa học
 - `toxic chemical`: hóa chất độc hại
+- `chemical bond`: liên kết hóa học
+- `chemical properties`: tính chất hóa học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Keep chemicals out of the reach of children.

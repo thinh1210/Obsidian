@@ -2,8 +2,10 @@
 *noun.*
 > /ˈæk.tʃu.eɪ.t̬ɚ/
 
+![[actuator.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A component of a machine that is responsible for moving and controlling a mechanism or system (the "muscles" of a robot)
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hydraulic actuator`: cơ cấu chấp hành thủy lực
+- `linear actuator`: cơ cấu chấp hành tuyến tính
+- `robotic actuator`: cơ cấu chấp hành robot
+- `piezoelectric actuator`: bộ truyền động áp điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot's knee joint uses a powerful electric actuator to lift heavy weights.

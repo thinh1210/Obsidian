@@ -2,8 +2,10 @@
 *n*
 > /ˌævəˈkeɪʃn/
 
+![[avocation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hobby or minor occupation.
@@ -13,7 +15,11 @@
 💡 A (không) + vocation (nghề nghiệp chính) -> nghề phụ, thú vui.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `pursue an avocation`: theo đuổi thú vui\n- `avocation and vocation`: nghề phụ và nghề chính
+- `pursue an avocation`: theo đuổi thú vui
+- `avocation and vocation`: nghề phụ và nghề chính
+- `creative avocation`: thú vui sáng tạo
+- `avocation outside work`: nghề tay trái / thú vui ngoài giờ làm
+- `turn an avocation into a business`: biến thú vui thành sự nghiệp kinh doanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Photography is his avocation, not his job.

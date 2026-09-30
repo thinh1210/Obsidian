@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈkwɪp.mənt/
 
+![[equipment.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the necessary items for a particular purpose.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `office equipment`: thiết bị văn phòng
 - `sports equipment`: dụng cụ thể thao
+- `heavy equipment`: thiết bị máy móc hạng nặng
+- `protective equipment`: thiết bị bảo hộ cá nhân (PPE)
+- `kit out with equipment`: trang bị đầy đủ dụng cụ (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Camping equipment like tents and sleeping bags are expensive.

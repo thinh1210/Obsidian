@@ -2,8 +2,10 @@
 *n.*
 > /sfɪər/
 
+![[sphere.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A round solid figure, or its surface, with every point on its surface equidistant from its center.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A perfect sphere`: Khối cầu hoàn hảo
 - `The celestial sphere`: Thiên cầu
+- `sphere of influence`: phạm vi ảnh hưởng
+- `public sphere`: không gian công cộng / lĩnh vực xã hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A basketball is a sphere.

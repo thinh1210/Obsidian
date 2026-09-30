@@ -2,8 +2,10 @@
 *n.*
 > /ˌbaɪ.əʊˌɪn.fəˈmæt.ɪks/
 
+![[bioinformatics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An interdisciplinary field that develops methods and software tools for understanding biological data, especially when the data sets are large and complex.

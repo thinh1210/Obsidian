@@ -2,8 +2,10 @@
 *n.*
 > /həʊˈtel/
 
+![[hotel.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building where travelers can pay for lodging and meals
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `book a hotel`: đặt phòng khách sạn
 - `five-star hotel`: khách sạn 5 sao
+- `boutique hotel`: khách sạn quy mô nhỏ sang trọng độc đáo
+- `luxury hotel`: khách sạn xa hoa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stayed at a luxury hotel during our vacation.

@@ -2,8 +2,10 @@
 *n.*
 > /oʊˈtɜːr/
 
+![[auteur.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A filmmaker whose personal influence and artistic control over a movie are so great that the filmmaker is regarded as the author of the movie
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `auteur theory`: lý thuyết tác giả
 - `visionary auteur`: đạo diễn tác giả có tầm nhìn
+- `auteur cinema`: dòng phim tác giả mang đậm dấu ấn cá nhân
+- `acclaimed auteur`: đạo diễn tác giả lừng danh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Christopher Nolan is considered a modern Hollywood auteur.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈvæli/
 
+![[valley.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A low area of land between hills or mountains, typically with a river.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mountain valley`: thung lũng núi
 - `valley floor`: đáy thung lũng
+- `valley of the shadow of death`: thung lũng bóng tối của tử thần
+- `fertile river valley`: thung lũng sông màu mỡ phì nhiêu
+- `deep valley`: thung lũng sâu thẳm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The town lies in a green, peaceful valley.

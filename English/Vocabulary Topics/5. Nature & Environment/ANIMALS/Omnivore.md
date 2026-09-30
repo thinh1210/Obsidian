@@ -2,8 +2,10 @@
 *noun*
 > /ˈɒm.nɪ.vɔːr/
 
+![[omnivore.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal or person that eats food of both plant and animal origin.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `opportunistic omnivore`: loài ăn tạp cơ hội
 - `omnivore diet`: chế độ ăn tạp
+- `omnivore species`: loài ăn tạp
+- `evolution of omnivores`: sự tiến hóa của các loài ăn tạp
+- `human as an omnivore`: con người với tư cách là loài ăn tạp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bears are omnivores, eating berries, fish, and small mammals.

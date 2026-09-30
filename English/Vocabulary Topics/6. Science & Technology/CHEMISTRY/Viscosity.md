@@ -2,8 +2,10 @@
 *noun*
 > /vɪˈskɒs.ə.ti/
 
+![[viscosity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being thick, sticky, and semi-fluid in consistency, due to internal friction.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high viscosity`: độ nhớt cao
 - `kinematic viscosity`: độ nhớt động học
+- `low viscosity`: độ nhớt thấp
+- `dynamic viscosity`: độ nhớt động lực học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Honey has a much higher viscosity than water.

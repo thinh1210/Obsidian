@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈnɜː.ʃə/
 
+![[inertia.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tendency of an object to resist changes in its state of motion or rest.

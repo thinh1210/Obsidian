@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɒlətɪks/
 
+![[politics.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activities associated with the governance of a country or other area, especially the debate or conflict among individuals or parties having or hoping to achieve power.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `international politics`: chính trị quốc tế
+- `party politics`: chính trị đảng phái
+- `enter politics`: bước chân vào con đường chính trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He decided to study politics at university to enter public service.

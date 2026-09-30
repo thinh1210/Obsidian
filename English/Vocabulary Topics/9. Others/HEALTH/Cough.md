@@ -2,8 +2,10 @@
 *v, n*
 > /kɒf/
 
+![[cough.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To force air out of your lungs suddenly with a sharp sound.

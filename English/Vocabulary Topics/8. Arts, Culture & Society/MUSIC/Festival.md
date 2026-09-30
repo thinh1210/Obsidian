@@ -2,8 +2,10 @@
 *n.*
 > /ˈfes.tɪ.vəl/
 
+![[festival.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized series of concerts, plays, or movies, typically held annually in the same place.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `music festival`: lễ hội âm nhạc
 - `annual festival`: lễ hội thường niên
+- `festival lineup`: danh sách nghệ sĩ tại lễ hội
+- `headline a festival`: là nghệ sĩ biểu diễn chính tại lễ hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Thousands of people attended the outdoor music festival last summer.

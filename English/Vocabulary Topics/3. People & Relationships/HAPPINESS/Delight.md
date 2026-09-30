@@ -2,8 +2,10 @@
 *n./v.*
 > /dɪˈlaɪt/
 
+![[delight.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great pleasure.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take delight in`: thích thú về
+- `take great delight in`: vô cùng thích thú hào hứng với
+- `to someone's delight`: trước sự vui mừng khôn xiết của ai
+- `screams of delight`: những tiếng reo hò sung sướng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* To my delight, I passed.

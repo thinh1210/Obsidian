@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɒn.stɪˈtʃuː.ʃən/
 
+![[constitution.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `write a constitution`: soạn thảo hiến pháp
 - `constitutional amendment`: sửa đổi hiến pháp
+- `draft a constitution`: soạn thảo bản dự thảo hiến pháp mới
+- `uphold the constitution`: bảo vệ và tôn trọng các nguyên tắc hiến pháp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our club wrote a basic constitution to govern how we make decisions.

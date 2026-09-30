@@ -2,8 +2,10 @@
 *n.*
 > /ˈæksent/
 
+![[accent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A distinctive mode of pronunciation of a language, especially one associated with a country or locality
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `foreign accent`: giọng nước ngoài
+- `broad accent`: giọng địa phương nặng/đặc sệt
+- `slight accent`: giọng hơi lơ lớ
+- `put on an accent`: giả giọng vùng miền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He speaks with a strong British accent.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈdekeɪd/
 
+![[decade.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of ten years.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `for a decade`: trong một thập kỷ
+- `decade-long`: kéo dài suốt một thập kỷ
+- `past decade`: thập kỷ qua
+- `enter a new decade`: bước vào một thập kỷ mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He lived there for a decade.

@@ -2,8 +2,10 @@
 *noun*
 > /ədˈvɜːtɪsmənt/
 
+![[advertisement.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A picture, short film, song, etc. that tries to persuade people to buy a product or service.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `magazine advertisement`: quảng cáo trên tạp chí
 - `job advertisement`: quảng cáo tuyển dụng
+- `place an advertisement`: đăng mẩu quảng cáo
+- `newspaper advertisement`: quảng cáo trên báo giấy
+- `misleading advertisement`: quảng cáo sai lệch / gây hiểu lầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The advertisement on the website was very colorful.

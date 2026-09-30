@@ -2,8 +2,10 @@
 *noun*
 > /ɡɪər/
 
+![[gear.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** equipment, clothes, or tools used for a particular purpose; also, a toothed wheel in a machine.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `camping gear`: đồ cắm trại
 - `shift gears`: sang số, chuyển bánh răng
+- `gear up for`: chuẩn bị sẵn sàng cho điều gì (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't forget to pack your wet-weather gear.

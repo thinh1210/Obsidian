@@ -2,8 +2,10 @@
 *adj*
 > /ˌsaɪ.koʊ.səˈmæt̬.ɪk/
 
+![[psychosomatic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Caused or aggravated by a mental factor such as internal conflict or stress.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `psychosomatic illness`: bệnh tâm thể
+- `psychosomatic symptoms`: các triệu chứng bệnh tâm thể
+- `psychosomatic medicine`: y học tâm thể
+- `purely psychosomatic`: thuần túy xuất phát từ tâm lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her stomach pain was psychosomatic.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈbʌdʒɪt/
 
+![[budget.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan to show how much money a person or organization will earn and how they will spend it

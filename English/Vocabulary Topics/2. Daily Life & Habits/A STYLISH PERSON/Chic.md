@@ -2,8 +2,10 @@
 *adj.*
 > /ʃiːk/
 
+![[chic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Elegantly and stylishly fashionable.
@@ -13,7 +15,9 @@
 💡 Chic - chích (chic) choác tí cho sành điệu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `chic boutique`: cửa hàng sang trọng\n- `effortlessly chic`: sành điệu tự nhiên
+- `chic boutique`: cửa hàng sang trọng
+- `effortlessly chic`: sành điệu tự nhiên
+- `urban chic`: phong cách đô thị thời thượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a very chic way of dressing.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈmiː.ti.ɔːr/
 
+![[meteor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small body of matter from outer space that enters the earth's atmosphere, becoming incandescent.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `meteor shower`: mưa sao băng
 - `meteor strike`: vụ va chạm thiên thạch
+- `meteor fragment`: mảnh thiên thạch
+- `meteor trail`: vệt sáng sao băng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stayed up late to watch the Perseid meteor shower.

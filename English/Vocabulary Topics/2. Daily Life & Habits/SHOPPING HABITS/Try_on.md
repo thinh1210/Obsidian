@@ -2,8 +2,10 @@
 *phr v*
 > /traɪ ɒn/
 
+![[try_on.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put on a piece of clothing to see if it fits
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `try on shoes`: thử giày
+- `try on a pair of shoes`: ướm thử một đôi giày
+- `fitting room to try on clothes`: phòng thử đồ để ướm thử quần áo
+- `try it on for size`: mặc thử xem có vừa kích cỡ không
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can I try this on?

@@ -2,8 +2,10 @@
 *Noun*
 > /dɑːk ˈmæt.ər/
 
+![[dark_matter.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Non-luminous material postulated to exist in space, interacting only via gravity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dark matter halo`: hào quang vật chất tối
 - `detect dark matter`: phát hiện vật chất tối
+- `cold dark matter`: vật chất tối lạnh
+- `dark matter density`: mật độ vật chất tối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Dark matter remains one of the greatest mysteries of science.

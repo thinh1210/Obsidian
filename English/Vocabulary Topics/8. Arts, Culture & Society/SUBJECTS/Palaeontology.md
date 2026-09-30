@@ -2,8 +2,10 @@
 *n.*
 > /ˌpeɪ.li.ɒnˈtɒl.ə.dʒi/
 
+![[palaeontology.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with fossil animals and plants, used to understand the history of life on Earth.

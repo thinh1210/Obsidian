@@ -2,8 +2,10 @@
 *Noun*
 > /tæks/
 
+![[tax.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money that you have to pay to the government so that it can pay for public services.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `income tax`: thuế thu nhập
 - `tax evasion`: trốn thuế
+- `tax-deductible`: khoản chi phí được khấu trừ trước khi tính thuế
+- `tax planning`: hoạch định kế hoạch tối ưu hóa nghĩa vụ thuế
+- `tax bracket`: khung bậc thang tính thuế thu nhập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The price on the tag does not include sales tax.

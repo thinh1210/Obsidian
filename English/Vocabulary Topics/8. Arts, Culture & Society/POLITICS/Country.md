@@ -2,8 +2,10 @@
 *n*
 > /ˈkʌn.tri/
 
+![[country.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A nation with its own government occupying a particular territory.

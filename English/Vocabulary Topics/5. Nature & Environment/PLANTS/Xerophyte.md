@@ -2,8 +2,10 @@
 *noun*
 > /ˈzɪərəfaɪt/
 
+![[xerophyte.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plant adapted to living in dry conditions.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `xerophytic adaptation`: sự thích nghi của thực vật chịu hạn
 - `desert xerophyte`: thực vật chịu hạn sa mạc
+- `xerophytic succulent plants`: thực vật mọng nước chịu hạn (như xương rồng)
+- `xerophyte survival strategy`: chiến lược sinh tồn của thực vật chịu hạn sa mạc
+- `xerophytic features`: các đặc điểm thích nghi chịu khô hạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Cacti are the most famous xerophytes that you can grow at home.

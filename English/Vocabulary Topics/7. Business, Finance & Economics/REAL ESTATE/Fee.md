@@ -2,8 +2,10 @@
 *n.*
 > /fiː/
 
+![[fee.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A payment made to a professional person or of a professional organization in exchange for advice or services.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brokerage fee`: phí môi giới
 - `management fee`: phí quản lý
+- `title search fee`: phí tra cứu hồ sơ pháp lý sổ đỏ
+- `property management fee`: phí quản lý và vận hành tòa nhà
+- `closing fee`: phí hoàn tất thủ tục chuyển nhượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tenants have to pay a monthly management fee for security and cleaning.

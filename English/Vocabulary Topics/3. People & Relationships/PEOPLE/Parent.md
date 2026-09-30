@@ -2,8 +2,10 @@
 *n.*
 > /ˈpeə.rənt/
 
+![[parent.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A father or mother.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A single parent`: Ba/mẹ đơn thân
+- `working parent`: cha mẹ bận rộn đi làm
+- `foster parent`: cha mẹ nuôi chăm sóc
+- `proud parent`: bậc cha mẹ tự hào về con cái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My parents are doctors.

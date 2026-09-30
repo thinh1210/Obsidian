@@ -2,8 +2,10 @@
 *noun*
 > /boʊt/
 
+![[boat.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small vessel for traveling over water, propelled by oars, sails, or an engine.
@@ -16,6 +18,8 @@
 - `row a boat`: chèo thuyền
 - `fishing boat`: thuyền đánh cá
 - `by boat`: bằng thuyền
+- `motor boat`: thuyền gắn động cơ cao tốc
+- `board a boat`: bước lên thuyền khởi hành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We rented a small boat to go fishing on the lake.

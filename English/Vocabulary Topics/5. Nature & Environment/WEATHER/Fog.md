@@ -2,8 +2,10 @@
 *noun*
 > /fɒɡ/
 
+![[fog.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thick cloud of tiny water droplets close to land or water
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `thick fog`: sương mù dày đặc
+- `dense fog`: sương mù dày đặc
+- `in a fog`: trong trạng thái mơ hồ hoang mang
+- `fog rolls in`: lớp sương mù cuộn tràn về
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We couldn't see the road because of the thick fog.

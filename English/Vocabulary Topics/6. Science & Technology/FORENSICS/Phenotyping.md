@@ -2,8 +2,10 @@
 *noun*
 > /ˈfiː.nəʊ.taɪ.pɪŋ/
 
+![[phenotyping.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of predicting physical appearance from DNA data; in forensics used to identify unknown individuals.

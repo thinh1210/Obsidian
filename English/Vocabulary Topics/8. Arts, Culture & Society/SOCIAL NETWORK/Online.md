@@ -2,8 +2,10 @@
 *adjective*
 > /ˌɒnˈlaɪn/
 
+![[online.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Connected to the internet or available on a social network
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `online community`: cộng đồng trực tuyến
+- `online identity`: danh tính trên mạng
+- `online presence`: sự hiện diện trên không gian số
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Is she online right now? I want to chat with her.

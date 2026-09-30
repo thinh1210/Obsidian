@@ -2,8 +2,10 @@
 *n.*
 > /ˈkʌn.tri.saɪd/
 
+![[countryside.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The land and scenery of a rural area.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in the countryside`: ở vùng nông thôn
+- `peaceful countryside`: vùng nông thôn yên bình
+- `move to the countryside`: chuyển về sinh sống ở quê
+- `English countryside`: vùng đồng quê nước Anh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the fresh air in the countryside.

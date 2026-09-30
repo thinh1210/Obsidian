@@ -2,8 +2,10 @@
 *adj*
 > /dɪˈlæpɪˌdeɪtɪd/
 
+![[dilapidated.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOMES
+**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In a state of disrepair or ruin as a result of age or neglect.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dilapidated building`: tòa nhà tồi tàn
 - `dilapidated condition`: tình trạng đổ nát
+- `dilapidated house`: ngôi nhà xập xệ mục nát
+- `dilapidated estate`: khu nhà đất xuống cấp tồi tàn
+- `fall into a dilapidated state`: rơi vào tình trạng đổ nát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They bought a dilapidated house and restored it.

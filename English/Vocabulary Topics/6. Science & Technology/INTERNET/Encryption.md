@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈkrɪp.ʃən/
 
+![[encryption.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of converting data into a coded form to prevent unauthorized access.

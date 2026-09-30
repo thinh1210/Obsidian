@@ -2,8 +2,10 @@
 *n.*
 > /ˌmiːz ɒ̃ ˈsen/
 
+![[mise_en_scène.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of scenery and stage properties in a play or film (everything before the camera)
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `elaborate mise-en-scène`: sự dàn cảnh công phu
 - `analyze the mise-en-scène`: phân tích nghệ thuật dàn cảnh
+- `expressive mise-en-scène`: nghệ thuật dàn cảnh đầy tính biểu đạt
+- `visual mise-en-scène`: bố cục sắp đặt không gian khung hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Wes Anderson's films are celebrated for their symmetrical mise-en-scène.

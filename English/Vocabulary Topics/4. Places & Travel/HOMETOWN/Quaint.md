@@ -2,8 +2,10 @@
 *adj.*
 > /kweɪnt/
 
+![[quaint.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Attractively unusual or old-fashioned.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `quaint village`: ngôi làng cổ kính
+- `quaint charm`: nét duyên dáng cổ kính độc đáo
+- `quaint cottages`: những mái nhà tranh cổ kính đáng yêu
+- `quaint customs`: những tập tục cổ xưa thú vị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stayed in a quaint little cottage.

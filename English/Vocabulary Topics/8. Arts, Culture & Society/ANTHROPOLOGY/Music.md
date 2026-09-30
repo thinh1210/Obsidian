@@ -2,8 +2,10 @@
 *n.*
 > /ˈmjuː.zɪk/
 
+![[music.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `traditional music`: âm nhạc truyền thống
 - `folk music`: nhạc dân gian
+- `ritual music`: âm nhạc nghi lễ tế lễ
+- `folk tradition in music`: truyền thống dân ca
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She listens to music while cooking.

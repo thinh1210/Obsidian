@@ -2,8 +2,10 @@
 *Noun*
 > /ˈlæŋɡwɪdʒ/
 
+![[language.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The method of human communication, either spoken or written.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Foreign language`: Ngoại ngữ
+- `official language`: ngôn ngữ chính thức
+- `second language`: ngôn ngữ thứ hai
+- `body language`: ngôn ngữ cơ thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* English is a global language.

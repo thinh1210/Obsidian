@@ -2,8 +2,10 @@
 *noun*
 > /ˈtiːnˌeɪ.dʒɚ/
 
+![[teenager.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person aged between 13 and 19 years.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `moody teenager`: thanh thiếu niên hay hờn dỗi
+- `typical teenager`: thanh thiếu niên điển hình
+- `rebellious teenager`: thiếu niên bướng bỉnh nổi loạn
+- `teenager hormones`: sự thay đổi hormone tuổi mới lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The teenager is on his phone.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈmɒnjumənt/
 
+![[monument.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A statue or building that is built to honor a special person or event
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical monument`: di tích lịch sử
 - `erect a monument`: dựng đài tưởng niệm
+- `national monument`: tượng đài / di tích quốc gia
+- `monumental scale`: quy mô kỳ vĩ hoành tráng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* People gathered around the monument to remember the soldiers.

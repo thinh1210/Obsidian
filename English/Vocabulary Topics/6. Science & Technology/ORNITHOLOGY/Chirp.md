@@ -2,8 +2,10 @@
 *verb*
 > /tʃɜːp/
 
+![[chirp.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a small bird or insect) to make a short, sharp, high-pitched sound.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `birds chirp`: chim kêu chiêm chiếp
 - `chirp happily`: kêu chiêm chiếp vui vẻ
+- `chirp cheerfully`: tiếng chim hót líu lo vui tai
+- `cricket chirp`: tiếng dế kêu rả rích
+- `chirp in`: xen ngang bình luận vào câu chuyện (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love hearing the sparrows chirp in the morning.

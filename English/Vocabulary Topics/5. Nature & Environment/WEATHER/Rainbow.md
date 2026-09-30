@@ -2,8 +2,10 @@
 *noun*
 > /ˈreɪnbəʊ/
 
+![[rainbow.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arch of colors in the sky formed by the refraction of sun's light in rain
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `double rainbow`: cầu vồng đôi
+- `chasing rainbows`: theo đuổi những ảo mộng hão huyền
+- `at the end of the rainbow`: ở nơi có kho báu hão huyền
+- `rainbow coalition`: liên minh tập hợp nhiều thành phần đa sắc tộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children ran outside to look at the colorful rainbow.

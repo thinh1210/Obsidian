@@ -2,8 +2,10 @@
 *adj.*
 > /ɪɡˈzem.plər.i/
 
+![[exemplary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Serving as a desirable model; representing the best of its kind
@@ -13,8 +15,11 @@
 💡 Ích xem lại (exemplary) hành vi gương mẫu của người khác.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``exemplary behavior`: hành vi gương mẫu`
-- ``exemplary student`: học sinh mẫu mực`
+- `exemplary behavior`: hành vi gương mẫu
+- `exemplary student`: học sinh mẫu mực
+- `exemplary performance`: thành tích làm việc / học tập gương mẫu xuất sắc
+- `exemplary conduct`: tư cách đạo đức tác phong gương mẫu
+- `serve as an exemplary model`: xứng đáng là tấm gương điển hình để noi theo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His exemplary conduct won him the school's award.

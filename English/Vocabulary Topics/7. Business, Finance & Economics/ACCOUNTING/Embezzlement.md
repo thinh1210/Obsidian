@@ -2,8 +2,10 @@
 *n.*
 > /ɪmˈbezəlmənt/
 
+![[embezzlement.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Theft or misappropriation of funds placed in one's trust or belonging to one's employer

@@ -2,8 +2,10 @@
 *adj*
 > /ˈtrænziənt/
 
+![[transient.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting only for a short time; impermanent.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `transient nature`: bản chất thoáng qua
+- `transient population`: dân số biến động / dân vãng lai
+- `transient effect`: hiệu ứng ngắn hạn / tức thời
+- `transient phase`: giai đoạn chuyển tiếp ngắn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The city has a large transient population.

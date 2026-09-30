@@ -2,8 +2,10 @@
 *n.*
 > /ˌtiː.liˈɒl.ə.dʒi/
 
+![[teleology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Thuyết tất định, Nhị nguyên luận & Mục đích luận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The explanation of phenomena by the purpose they serve rather than by postulated causes.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cosmological teleology`: mục đích luận vũ trụ
 - `teleology in biology`: mục đích luận trong sinh học
+- `teleological argument`: lập luận mục đích luận
+- `teleological explanation`: lời giải thích theo quan điểm mục đích luận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Looking at how trees grow towards light makes one think of teleology.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈlændskeɪp/
 
+![[landscape.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of countryside or land.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Beautiful landscape`: Phong cảnh đẹp
+- `political landscape`: bối cảnh chính trị
+- `scenic landscape`: phong cảnh đẹp như tranh
+- `barren landscape`: cảnh quan cằn cỗi hoang tàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The countryside has a beautiful landscape.

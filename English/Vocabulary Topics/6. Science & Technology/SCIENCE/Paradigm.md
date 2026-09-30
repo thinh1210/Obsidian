@@ -2,8 +2,10 @@
 *noun*
 > /ˈpær.ə.daɪm/
 
+![[paradigm.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A typical example or pattern that serves as a model; in science, a set of assumptions and methods widely accepted by a scientific community.

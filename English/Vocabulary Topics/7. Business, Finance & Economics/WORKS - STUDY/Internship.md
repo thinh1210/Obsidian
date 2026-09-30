@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪn.tɜːn.ʃɪp/
 
+![[internship.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A period of time during which a student or new graduate works to get practical experience
@@ -13,8 +15,9 @@
 💡 In tơn (internship) tài liệu cho sếp trong kỳ thực tập.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``summer internship`: thực tập mùa hè`
-- ``paid internship`: thực tập có lương`
+- `summer internship`: thực tập mùa hè
+- `paid internship`: thực tập có lương
+- `land an internship`: giành được một suất thực tập danh giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She got a summer internship at a local bank.

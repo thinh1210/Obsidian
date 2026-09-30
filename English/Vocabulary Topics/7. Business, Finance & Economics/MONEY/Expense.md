@@ -2,8 +2,10 @@
 *noun*
 > /ɪkˈspens/
 
+![[expense.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY
+**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The cost required for something; the money spent on something
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `travel expenses`: chi phí đi lại
+- `at the expense of`: phải trả giá bằng / gây thiệt hại cho
+- `spare no expense`: không tiếc bất kỳ chi phí nào
+- `operating expenses`: chi phí hoạt động sản xuất kinh doanh
+- `out-of-pocket expenses`: các khoản chi phí tự bỏ tiền túi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to reduce our daily expenses.

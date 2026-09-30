@@ -2,8 +2,10 @@
 *adj.*
 > /əˈhɪd.ju.əs/
 
+![[assiduous.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Showing great care, attention, and effort; diligent
@@ -13,8 +15,11 @@
 💡 Anh xi (assiduous) đánh giày cần mẫn cả ngày.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``assiduous student`: học sinh chuyên cần`
-- ``assiduous research`: nghiên cứu chuyên sâu cần mẫn`
+- `assiduous student`: học sinh chuyên cần
+- `assiduous research`: nghiên cứu chuyên sâu cần mẫn
+- `assiduous efforts`: những nỗ lực bền bỉ và miệt mài
+- `assiduous worker`: người lao động cần cù siêng năng
+- `assiduous attention to detail`: sự cẩn trọng tỉ mỉ đến từng chi tiết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was assiduous in her prep for the exam.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈsaɪz.mɪk/
 
+![[seismic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to earthquakes or other vibrations of the earth and its crust.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `seismic activity`: hoạt động địa chấn
 - `seismic wave`: sóng địa chấn
+- `seismic shift in policy`: sự chuyển dịch chính sách chấn động mang tính bước ngoặt
+- `seismic activity monitor`: thiết bị giám sát hoạt động địa chấn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The research station detected increased seismic activity in the region.

@@ -2,8 +2,10 @@
 *noun*
 > /blaʊs/
 
+![[blouse.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shirt for a woman or girl.
@@ -13,7 +15,9 @@
 💡 Blouse -> Bờ lau -> Mặc áo kiểu nữ đi dọc bờ lau.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `silk blouse: áo kiểu bằng lụa`
+- `silk blouse`: áo kiểu bằng lụa
+- `sleeveless blouse`: áo kiểu sát nách
+- `tuck in a blouse`: sơ vin áo kiểu vào chân váy/quần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought a beautiful silk blouse.

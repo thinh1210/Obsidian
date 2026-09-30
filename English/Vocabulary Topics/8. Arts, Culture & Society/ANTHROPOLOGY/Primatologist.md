@@ -2,8 +2,10 @@
 *n.*
 > /ˌpraɪ.məˈtɒl.ə.dʒɪst/
 
+![[primatologist.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who studies primates (apes, monkeys, etc.).
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `renowned primatologist`: nhà linh trưởng học nổi tiếng
 - `field primatologist`: nhà linh trưởng học điền dã
+- `primate behavior observation`: quan sát tập tính linh trưởng
+- `primatological studies`: các nghiên cứu về linh trưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Jane Goodall is the world's most famous primatologist.

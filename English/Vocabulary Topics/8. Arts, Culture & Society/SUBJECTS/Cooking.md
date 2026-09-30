@@ -2,8 +2,10 @@
 *n.*
 > /ˈkʊk.ɪŋ/
 
+![[cooking.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or skill of preparing food; also a school subject teaching food preparation.

@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈvaɪs/
 
+![[device.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or machine that has been invented for a particular purpose
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electronic device`: thiết bị điện tử
 - `safety device`: thiết bị an toàn
+- `patented device`: thiết bị đã được cấp bằng sáng chế
+- `compact device`: thiết bị nhỏ gọn tiện lợi
+- `input device`: thiết bị nhập liệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Make sure to turn off all electronic devices before the flight.

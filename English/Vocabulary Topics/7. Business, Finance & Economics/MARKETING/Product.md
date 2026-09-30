@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɑːdʌkt/
 
+![[product.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An article or substance that is manufactured or refined for sale
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `new product`: sản phẩm mới
 - `product line`: dòng sản phẩm
+- `product lifecycle`: vòng đời tồn tại và phát triển của sản phẩm
+- `core product`: sản phẩm nòng cốt mang lại giá trị cốt lõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This new cleaning product is eco-friendly and safe for pets.

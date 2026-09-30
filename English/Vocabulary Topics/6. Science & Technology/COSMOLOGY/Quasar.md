@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkweɪ.zɑːr/
 
+![[quasar.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A massive and extremely remote celestial object emitting exceptionally large energy.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `distant quasar`: quasar xa xôi
 - `quasar emission`: sự phát xạ quasar
+- `supermassive quasar`: quasar siêu khối lượng
+- `quasar core`: lõi quasar
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Quasars are among the brightest objects in the universe.

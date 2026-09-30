@@ -2,8 +2,10 @@
 *noun*
 > /pɑːst/
 
+![[past.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time or a period of time before the moment of speaking or writing.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in the past`: trong quá khứ
 - `learn from the past`: học hỏi từ quá khứ
+- `remnants of the past`: tàn tích của quá khứ
+- `glories of the past`: ánh hào quang của quá khứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We cannot change the past, but we can shape the future.

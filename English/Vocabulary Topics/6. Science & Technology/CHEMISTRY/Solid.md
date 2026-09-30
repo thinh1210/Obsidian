@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɒl.ɪd/
 
+![[solid.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that has a fixed shape and volume, not liquid or fluid.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `solid object`: vật thể rắn
 - `solid state`: trạng thái rắn
+- `crystalline solid`: chất rắn kết tinh
+- `dissolved solid`: chất rắn hòa tan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ice is water in its solid state.

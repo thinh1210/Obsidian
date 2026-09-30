@@ -2,8 +2,10 @@
 *noun*
 > /kræŋk/
 
+![[crank.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a part of an axle or shaft bent at right angles, used to convert reciprocal motion into circular motion, or vice versa.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `crank handle`: tay quay
 - `crankshaft`: trục khuỷu
+- `crank up`: tăng âm lượng hoặc cường độ (phrasal verb)
+- `hand crank`: tay quay thủ công
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The old car had to be started using a hand crank.

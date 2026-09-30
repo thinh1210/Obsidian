@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒm.paʊnd/
 
+![[compound.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance formed when two or more chemical elements are chemically bonded together.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chemical compound`: hợp chất hóa học
 - `organic compound`: hợp chất hữu cơ
+- `inorganic compound`: hợp chất vô cơ
+- `synthesize a compound`: tổng hợp một hợp chất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Water is a compound containing hydrogen and oxygen.

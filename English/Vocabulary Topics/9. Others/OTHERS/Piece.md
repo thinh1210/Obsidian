@@ -1,13 +1,21 @@
 # Piece
 
 *Noun*
+> /piːs/
+
+![[piece.mp3]]
 
 - **[EN]:** A portion of an object or of material, produced by cutting, tearing, or breaking the whole.
 - **[VN]:** Mảnh, miếng, mẩu.
 
-**Level:** A2
+**Level:** A2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Đồ vật hàng ngày, Vật dụng chứa & Đồ chơi
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `piece together`: chắp vá xâu chuỗi thông tin (phrasal verb)
+- `give someone a piece of one's mind`: mắng mỏ ai một trận té tát (idiom)
+- `masterpiece`: kiệt tác nghệ thuật để đời
+
 ## Examples
 1. *Would you like a piece of cake?*
    - Bạn có muốn một miếng bánh không?

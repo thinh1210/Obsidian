@@ -2,8 +2,10 @@
 *adjective*
 > /ˌhaɪˈspiːd/
 
+![[high_speed.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Operating at or designed for high speed.

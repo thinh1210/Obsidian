@@ -2,8 +2,10 @@
 *adjective.*
 > /stɪf/
 
+![[stiff.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not easily bent or changed in shape; rigid; firm.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stiff brush`: bàn chải cứng
 - `stiff joint`: khớp bị cứng
+- `scared stiff`: sợ chết khiếp cứng cả người (idiom)
+- `stiff competition`: sự cạnh tranh vô cùng khốc liệt
+- `stiff penalty`: hình phạt nghiêm khắc nặng nề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new boots were very stiff and hurt my feet.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɪŋ.spæn/
 
+![[wingspan.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The distance measured from the tip of one wing to the tip of the other wing of an aircraft.

@@ -2,8 +2,10 @@
 *n*
 > /prɒɡˈnəʊsɪs/
 
+![[prognosis.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A forecast of the likely outcome of a situation, especially the course of a disease.

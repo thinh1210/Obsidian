@@ -2,8 +2,10 @@
 *noun*
 > /wɒtʃ/
 
+![[watch.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small clock that is worn on a strap around the wrist or, sometimes, carried in a pocket.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a wrist watch`: đồng hồ đeo tay
+- `luxury watch`: đồng hồ cao cấp xa xỉ
+- `smart watch`: đồng hồ thông minh
+- `keep watch over`: canh chừng, để mắt sát sao tới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My watch is five minutes fast.

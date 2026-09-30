@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈprɪs.tiːn/
 
+![[pristine.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** New or almost new, and in very good condition, or untouched.
@@ -13,7 +15,11 @@
 💡 P RÍT TIN (Pristine) tinh khôi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `pristine condition`: tình trạng nguyên sơ\n- `pristine beaches`: bãi biển hoang sơ
+- `pristine condition`: tình trạng nguyên sơ
+- `pristine beaches`: bãi biển hoang sơ
+- `pristine nature`: thiên nhiên nguyên sơ thuần khiết
+- `pristine coral reef`: rạn san hô nguyên vẹn chưa bị tàn phá
+- `pristine wilderness`: vùng đất hoang sơ không một dấu chân người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We discovered a pristine beach hidden behind the cliffs.

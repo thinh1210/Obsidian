@@ -2,8 +2,10 @@
 *noun*
 > /ˈtaɪ.ɡər/
 
+![[tiger.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large solitary wild cat with a yellow-brown coat striped with black.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Siberian tiger`: hổ Siberia
 - `tiger cub`: hổ con
+- `paper tiger`: hổ giấy (vẻ ngoài đáng sợ nhưng thực chất yếu ớt)
+- `catch a tiger by the tail`: nắm đằng chuôi hiểm nghèo khó rút
+- `Bengal tiger`: hổ Bengal
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The tiger moved silently through the tall grass.

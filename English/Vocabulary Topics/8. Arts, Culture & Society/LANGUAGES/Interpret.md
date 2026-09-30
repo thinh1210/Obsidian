@@ -2,8 +2,10 @@
 *v.*
 > /ɪnˈtɜːprət/
 
+![[interpret.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To translate orally the words of a person speaking a different language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `interpret a conversation`: phiên dịch một cuộc hội thoại
+- `simultaneous interpreter`: thông dịch viên cabin/song song
+- `interpret gestures`: diễn giải ngôn ngữ cử chỉ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you interpret what they are saying?

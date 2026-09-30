@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈkɒz.mɪk/
 
+![[cosmic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the universe or cosmos, especially as distinct from the earth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cosmic dust`: bụi vũ trụ
 - `cosmic radiation`: bức xạ vũ trụ
+- `cosmic microwave background`: bức xạ nền vi sóng vũ trụ
+- `cosmic scale`: quy mô vũ trụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Cosmic scale is mind-bogglingly huge.

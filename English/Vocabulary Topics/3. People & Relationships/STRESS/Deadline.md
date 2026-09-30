@@ -2,8 +2,10 @@
 *n.*
 > /ˈdedlaɪn/
 
+![[deadline.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latest time or date by which something should be completed
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `meet a deadline`: kịp hạn chót
 - `miss a deadline`: trễ hạn chót
+- `tight deadline`: hạn chót gấp gáp
+- `extend a deadline`: gia hạn thêm thời gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a strict deadline.

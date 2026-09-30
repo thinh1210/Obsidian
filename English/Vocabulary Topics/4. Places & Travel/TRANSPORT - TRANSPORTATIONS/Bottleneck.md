@@ -2,8 +2,10 @@
 *noun*
 > /ˈbɑːtlnek/
 
+![[bottleneck.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point of congestion or obstruction, especially in a road or a system.
@@ -16,6 +18,8 @@
 - `traffic bottleneck`: nút thắt cổ chai giao thông
 - `eliminate bottlenecks`: loại bỏ các điểm tắc nghẽn
 - `production bottleneck`: điểm tắc nghẽn trong sản xuất
+- `bottleneck effect`: hiệu ứng thắt nút cổ chai
+- `ease bottlenecks`: tháo gỡ các điểm nghẽn ùn ứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The narrow bridge is a major bottleneck for traffic entering the city.

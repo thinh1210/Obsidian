@@ -2,8 +2,10 @@
 *Noun*
 > /ˈreɪnfɒrɪst/
 
+![[rainforest.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A luxuriant, dense forest rich in biodiversity, found typically in tropical areas.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tropical rainforest`: rừng mưa nhiệt đới
 - `rainforest conservation`: bảo tồn rừng mưa
+- `Amazon rainforest`: rừng mưa nhiệt đới Amazon
+- `rainforest canopy`: tán rừng nhiệt đới rậm rạp
+- `protect the rainforest`: bảo vệ rừng nhiệt đới quý giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Amazon is the largest tropical rainforest.

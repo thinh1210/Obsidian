@@ -2,8 +2,10 @@
 *n.*
 > /ˈprɒdʒ.ekt/
 
+![[project.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A planned piece of work that is designed to find information or build something
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `research project`: dự án nghiên cứu
 - `school project`: dự án trường học
+- `pilot project`: dự án thí điểm ban đầu
+- `manage a project`: quản lý điều hành dự án
+- `project manager`: người quản lý dự án
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are working on a science project about green energy.

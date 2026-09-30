@@ -2,8 +2,10 @@
 *n.*
 > /ˈprɒpəti/
 
+![[property.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building or buildings and the land belonging to it.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commercial property`: bất động sản thương mại
 - `property market`: thị trường bất động sản
+- `residential property`: bất động sản dành cho mục đích để ở
+- `property valuation`: nghiệp vụ thẩm định giá trị bất động sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Prices of residential property in this suburb have doubled.

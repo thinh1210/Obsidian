@@ -2,8 +2,10 @@
 *n*
 > /ˌkəʊ.əˈlɪʃ.ən/
 
+![[coalition.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A temporary alliance of different political parties or groups to form a government.

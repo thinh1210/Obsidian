@@ -2,8 +2,10 @@
 *noun*
 > /ˈgædʒ.ɪt/
 
+![[gadget.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a small mechanical or electronic device or tool, especially an ingenious or novel one.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `kitchen gadget`: tiện ích nhà bếp
 - `electronic gadget`: thiết bị điện tử nhỏ
+- `handy gadget`: tiện ích nhỏ tiện dụng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He loves buying the latest electronic gadgets.

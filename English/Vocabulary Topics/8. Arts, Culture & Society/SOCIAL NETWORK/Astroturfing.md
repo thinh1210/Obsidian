@@ -2,8 +2,10 @@
 *noun*
 > /ˈæstrəʊtɜːfɪŋ/
 
+![[astroturfing.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The deceptive practice of masking the sponsors of a message to make it appear as though it originates from grassroots participants
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political astroturfing`: tạo dư luận giả tạo trong chính trị
+- `astroturfing campaign`: chiến dịch tạo dư luận giả mạo
+- `detect astroturfing`: phát hiện hành vi thao túng dư luận ảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many online reviews are actually astroturfing campaigns organized by the company itself.

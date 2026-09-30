@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɒb.səl.iːt/
 
+![[obsolete.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Tầm vóc thời đại & Chuyển giao thế hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** No longer produced or used; out of date
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `become obsolete`: trở nên lỗi thời
 - `obsolete technology`: công nghệ lỗi thời
+- `obsolete equipment`: thiết bị máy móc lỗi thời
+- `render obsolete`: làm cho cái gì trở nên lạc hậu
+- `virtually obsolete`: hầu như đã bị đào thải lỗi thời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* CD players have become obsolete because of digital streaming.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈkɒpə(r)/
 
+![[copper.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A red-brown metal, which is an excellent conductor of heat and electricity.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `copper wire`: dây đồng
 - `copper pipe`: ống đồng
+- `pure copper`: đồng nguyên chất đỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The electrician installed high-quality copper wires in the walls.

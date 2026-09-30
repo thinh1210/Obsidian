@@ -2,8 +2,10 @@
 *noun.*
 > /wʊd/
 
+![[wood.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `solid wood`: gỗ đặc, gỗ tự nhiên
 - `piece of wood`: một mảnh gỗ
+- `not out of the woods`: chưa thoát khỏi hiểm nguy rắc rối (idiom)
+- `hardwood flooring`: sàn gỗ cứng tự nhiên
+- `touch wood`: trộm vía cầu may mắn (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We gathered some dry wood to start a campfire.

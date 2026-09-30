@@ -2,8 +2,10 @@
 *verb*
 > /ˈkæptɪveɪt/
 
+![[captivate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Media | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Daily/Media | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To attract and hold the interest and attention of; charm
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `captivate the audience`: thu hút khán giả
 - `completely captivate`: hoàn toàn thu hút/làm mê đắm
+- `captivate prospects`: thu hút mạnh mẽ các khách hàng tiềm năng
+- `captivate the market`: chiếm trọn cảm tình của thị trường
+- `captivating visuals`: hình ảnh quảng cáo đầy mê hoặc và cuốn hút
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her beautiful singing voice captivated everyone in the hall.

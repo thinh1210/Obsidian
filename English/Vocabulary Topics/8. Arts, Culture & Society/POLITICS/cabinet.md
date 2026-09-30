@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæbɪnət/
 
+![[cabinet.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of advisers to a sovereign, president, or government, consisting of the most senior government ministers.

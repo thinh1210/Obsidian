@@ -2,8 +2,10 @@
 *noun*
 > /bəˈθɪmɪtri/
 
+![[bathymetry.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The measurement of depth of water in oceans, seas, or lakes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bathymetry mapping`: lập bản đồ độ sâu
+- `bathymetry data`: dữ liệu đo độ sâu đại dương
+- `bathymetry survey`: cuộc khảo sát đo sâu đáy biển
+- `seafloor bathymetry`: đo sâu địa hình đáy biển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bathymetry helps us map the ocean floor.

@@ -2,8 +2,10 @@
 *adj.*
 > /ɪnˈdeɪndʒəd/
 
+![[endangered.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (of a species) seriously at risk of extinction.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endangered species`: loài có nguy cơ tuyệt chủng
 - `critically endangered`: nguy cấp, cực kỳ nguy hiểm
+- `endangered habitats`: các sinh cảnh sống đang bị đe dọa
+- `save endangered animals`: giải cứu các loài động vật gặp nguy hiểm
+- `endangered plant species`: các loài thực vật có nguy cơ tuyệt chủng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The giant panda is no longer an endangered species, but still vulnerable.

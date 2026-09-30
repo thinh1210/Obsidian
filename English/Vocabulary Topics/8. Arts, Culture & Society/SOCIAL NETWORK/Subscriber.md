@@ -2,8 +2,10 @@
 *noun*
 > /səbˈskraɪbə(r)/
 
+![[subscriber.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who pays or registers to receive regular updates from a channel or page
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `loyal subscriber`: người đăng ký trung thành
+- `subscriber base`: lượng người đăng ký trung thành
+- `paid subscriber`: người đăng ký trả phí định kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The YouTuber thanked his subscribers for reaching the one million milestone.

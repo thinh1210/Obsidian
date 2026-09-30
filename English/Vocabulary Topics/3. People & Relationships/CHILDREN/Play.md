@@ -2,8 +2,10 @@
 *verb*
 > /pleɪ/
 
+![[play.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Engage in activity for enjoyment.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `play outside`: chơi ngoài trời
+- `play a vital role`: đóng vai trò thiết yếu quan trọng
+- `play by the rules`: tuân thủ đúng luật lệ (idiom)
+- `play truant`: trốn học đi chơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The children play in the park.

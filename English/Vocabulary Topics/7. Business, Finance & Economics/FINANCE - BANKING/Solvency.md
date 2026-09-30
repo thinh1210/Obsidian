@@ -2,8 +2,10 @@
 *noun.*
 > /ˈsɒlvənsi/
 
+![[solvency.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The possession of assets excess of liabilities; ability to pay one's long-term debts.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `solvency ratio`: hệ số khả năng thanh toán nợ
 - `solvency margin`: biên khả năng thanh toán
+- `maintain solvency`: duy trì năng lực thanh toán các khoản nợ
+- `threat to solvency`: mối nguy hại đối với khả năng chi trả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Regulators monitor the solvency of insurance companies to protect policyholders.

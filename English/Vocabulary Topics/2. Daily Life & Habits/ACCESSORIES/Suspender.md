@@ -2,8 +2,10 @@
 *noun*
 > /səˈspendə(r)/
 
+![[suspender.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pair of straps that pass over the shoulders and fasten to the top of trousers to hold them up.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of suspenders`: một cặp dây đeo quần
+- `button-on suspenders`: dây đeo quần cài cúc cổ điển
+- `leather suspenders`: dây đeo quần bằng da
+- `adjust suspenders`: điều chỉnh độ dài dây đeo quần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wore a bow tie and suspenders to the party.

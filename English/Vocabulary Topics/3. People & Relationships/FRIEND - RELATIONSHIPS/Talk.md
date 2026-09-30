@@ -2,8 +2,10 @@
 *verb*
 > /tɔːk/
 
+![[talk.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Speak in order to give information or express ideas or feelings.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `talk to someone`: nói chuyện với ai đó
+- `heart-to-heart talk`: cuộc trò chuyện tâm tình gan ruột (idiom)
+- `talk through problems`: nói chuyện giãi bày giải quyết khúc mắc
+- `talk someone into doing something`: thuyết phục ai làm điều gì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We talk every day.

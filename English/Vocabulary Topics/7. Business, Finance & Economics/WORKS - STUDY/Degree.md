@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈɡriː/
 
+![[degree.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A qualification given to a student by a junior college, college, or university
@@ -13,8 +15,10 @@
 💡 Đi ghi (degree) tên để nhận bằng tốt nghiệp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``university degree`: bằng đại học`
-- ``master's degree`: bằng thạc sĩ`
+- `university degree`: bằng đại học
+- `master's degree`: bằng thạc sĩ
+- `bachelor's degree`: bằng cử nhân đại học
+- `pursue a degree`: theo học để lấy bằng cấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has a degree in computer science.

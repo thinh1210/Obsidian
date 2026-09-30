@@ -2,8 +2,10 @@
 *verb*
 > /dəˈmes.tɪ.keɪt/
 
+![[domesticate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tame (an animal) and keep it as a pet or for farm produce.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `domesticated animal`: động vật đã được thuần hóa
 - `domesticate livestock`: thuần hóa gia súc
+- `domesticated crops`: cây trồng đã được thuần hóa
+- `process of domestication`: quá trình thuần hóa
+- `domesticate wild animals`: thuần hóa động vật hoang dã
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Humans began to domesticate wolves thousands of years ago, leading to modern dogs.

@@ -2,8 +2,10 @@
 *noun*
 > /kənˈsuːmər/
 
+![[consumer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a person who buys goods or services for their own use.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `consumer behavior`: hành vi người tiêu dùng
 - `consumer confidence`: niềm tin của người tiêu dùng
+- `consumer price index (CPI)`: chỉ số giá tiêu dùng
+- `consumer spending`: chi tiêu dùng của các hộ gia đình
+- `consumer protection`: bảo vệ quyền lợi người tiêu dùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Modern consumers are highly aware of environmental issues.

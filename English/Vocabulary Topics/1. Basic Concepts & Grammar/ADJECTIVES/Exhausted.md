@@ -2,8 +2,10 @@
 *adj.*
 > /ɪɡˈzɔːstɪd/
 
+![[exhausted.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Drained of one's physical or mental resources
@@ -13,7 +15,10 @@
 💡 Ích giọt (exhausted) cạn kiệt
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``exhausted from work`: kiệt sức vì công việc`
+- `exhausted from work`: kiệt sức vì công việc
+- `physically exhausted`: kiệt sức về thể chất
+- `exhausted all possibilities`: dùng hết mọi khả năng / biện pháp
+- `exhausted resources`: cạn kiệt tài nguyên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am exhausted.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈsəʊ.lər/
 
+![[solar.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or determined by the sun.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `solar system`: hệ mặt trời
 - `solar panel`: tấm pin mặt trời
+- `solar flare`: bùng phát mặt trời / lóa mặt trời
+- `solar wind`: gió mặt trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We installed solar panels on our roof to save money.

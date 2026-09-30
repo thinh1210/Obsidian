@@ -2,8 +2,10 @@
 *noun*
 > /ˈæl.ɡə.rɪ.ðəm/
 
+![[algorithm.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A step-by-step set of rules or instructions that a computer or Internet platform follows to perform a task or make decisions.

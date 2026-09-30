@@ -2,8 +2,10 @@
 *n.*
 > /prəˈməʊ.ʃən/
 
+![[promotion.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Advancement to a higher position or rank in a job
@@ -13,7 +15,11 @@
 💡 Nhờ "prô" (pro) nên được "mâu" (mo) thuẫn giải quyết và được "sân" (tion) thăng chức
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``get a promotion`: được thăng chức
+- `get a promotion`: được thăng chức
+- `earn a promotion`: nỗ lực xứng đáng nhận quyết định cất nhắc thăng chức
+- `passed over for promotion`: bị gạt tên trong danh sách xét duyệt nâng bậc chức
+- `seek promotion`: tích cực tìm kiếm cơ hội thăng tiến nghề nghiệp
+- `fast-track promotion`: con đường thăng tiến nhanh chóng nhờ thành tích vượt bậc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Congratulations on your promotion to sales director!

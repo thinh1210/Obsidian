@@ -2,8 +2,10 @@
 *verb*
 > /ˈsmʌɡl/
 
+![[smuggle.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To import or export goods secretly, in violation of the law
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `smuggle drugs`: buôn lậu ma túy
 - `smuggle goods`: buôn lậu hàng hóa
+- `smuggle across the border`: vận chuyển lậu hàng hóa qua đường biên giới
+- `contraband smuggling`: buôn lậu hàng cấm trái phép
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They tried to smuggle gold through the airport security check.

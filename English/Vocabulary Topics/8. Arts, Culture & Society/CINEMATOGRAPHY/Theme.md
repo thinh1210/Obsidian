@@ -2,8 +2,10 @@
 *n.*
 > /θiːm/
 
+![[theme.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An idea that recurs in or pervades a work of art or literature
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `central theme`: chủ đề trung tâm
 - `recurring theme`: chủ đề lặp lại
+- `underlying theme`: chủ đề ngầm sâu sắc xuyên suốt tác phẩm
+- `thematic depth`: chiều sâu tư tưởng chủ đề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The central theme of the movie is redemption.

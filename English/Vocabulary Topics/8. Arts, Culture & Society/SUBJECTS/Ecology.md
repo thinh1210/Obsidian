@@ -2,8 +2,10 @@
 *noun*
 > /iˈkɒlədži/
 
+![[ecology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.

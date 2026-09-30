@@ -2,8 +2,10 @@
 *noun*
 > /ˌɪn.tər.ˌɒp.ər.əˈbɪl.ɪ.ti/
 
+![[interoperability.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of different computer systems or software to exchange and make use of information with each other.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈdez.ɚt/
 
+![[desert.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A barren area of landscape where little precipitation occurs.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Sahara Desert`: sa mạc Sahara
+- `arid desert`: sa mạc khô cằn sỏi đá
+- `cross the desert`: băng qua sa mạc
+- `desert island`: hoang đảo không bóng người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Camels can survive in the desert.

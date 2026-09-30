@@ -2,8 +2,10 @@
 *noun*
 > /briːz/
 
+![[breeze.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A gentle, pleasant wind
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sea breeze`: gió biển
+- `shoot the breeze`: tán gẫu / chém gió chuyện phiếm
+- `gentle breeze`: cơn gió thoảng nhẹ nhàng
+- `it was a breeze`: dễ như ăn cháo / việc cực kỳ dễ dàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A cool breeze blew in from the ocean.

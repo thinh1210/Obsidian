@@ -2,8 +2,10 @@
 *adj*
 > /ˈfɪl.i.əl/
 
+![[filial.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of a son or daughter.

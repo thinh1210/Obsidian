@@ -2,8 +2,10 @@
 *noun*
 > /slæŋ/
 
+![[slang.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** very informal language that is used by a particular group of people, especially young people

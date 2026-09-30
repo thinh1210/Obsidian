@@ -2,8 +2,10 @@
 *verb*
 > /draɪv/
 
+![[drive.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Operate and control the direction and speed of a motor vehicle.
@@ -16,6 +18,7 @@
 - `drive carefully`: lái xe cẩn thận
 - `learn to drive`: học lái xe
 - `drive a car`: lái xe ô tô
+- `test drive`: lái thử xe trước khi mua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you drive me to the train station?

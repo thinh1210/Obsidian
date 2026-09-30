@@ -2,8 +2,10 @@
 *noun*
 > /həˈraɪzn/
 
+![[horizon.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The line at which the earth's surface and the sky appear to meet.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on the horizon`: trên đường chân trời
+- `disappear over the horizon`: biến mất nơi chân trời
+- `broaden one's horizons`: mở rộng tầm nhìn
+- `cloud on the horizon`: mối lo ngại tiềm ẩn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched the sun dip below the horizon.

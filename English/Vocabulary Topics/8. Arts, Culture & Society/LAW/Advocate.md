@@ -2,8 +2,10 @@
 *verb/noun*
 > /ˈæd.və.keɪt/ (v), /ˈæd.və.kət/ (n)
 
+![[advocate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Publicly recommend or support; a person who publicly supports or recommends a particular cause or policy.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈlɪɡ.ə.tʃər/
 
+![[ligature.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing used to bind or tie; in forensics, an object used to strangle or restrain a victim.

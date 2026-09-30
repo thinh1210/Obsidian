@@ -2,8 +2,10 @@
 *n.*
 > /ɑːt/
 
+![[art.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modern art`: nghệ thuật hiện đại
 - `work of art`: tác phẩm nghệ thuật
+- `fine arts`: mỹ thuật
+- `contemporary art`: nghệ thuật đương đại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is studying art at university.

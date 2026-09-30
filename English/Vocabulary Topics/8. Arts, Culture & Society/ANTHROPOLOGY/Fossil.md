@@ -2,8 +2,10 @@
 *n.*
 > /ˈfɒs.əl/
 
+![[fossil.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The remains or impression of a prehistoric organism preserved in petrified form or as a mold or cast in rock.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fossil fuel`: nhiên liệu hóa thạch
 - `fossil record`: ghi chép hóa thạch
+- `hominid fossil`: hóa thạch tông người
+- `fossil evidence`: bằng chứng hóa thạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The child found a fossil shell on the beach.

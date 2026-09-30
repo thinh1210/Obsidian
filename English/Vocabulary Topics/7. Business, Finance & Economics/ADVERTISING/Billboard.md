@@ -2,8 +2,10 @@
 *noun*
 > /ˈbɪlbɔːd/
 
+![[billboard.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large outdoor board for displaying advertisements.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `highway billboard`: biển quảng cáo trên cao tốc
 - `digital billboard`: biển quảng cáo kỹ thuật số
+- `billboard space`: vị trí đặt biển quảng cáo
+- `giant billboard`: biển quảng cáo khổng lồ
+- `outdoor billboard`: biển quảng cáo ngoài trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The road was lined with colorful billboards.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpʌblɪk/
 
+![[public.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** People in general thought of as a community or audience.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `general public`: công chúng nói chung
 - `public relations (PR)`: quan hệ công chúng
+- `public perception`: nhận thức trong mắt công chúng
+- `public outcry`: làn sóng phản đối kịch liệt từ dư luận
+- `go public`: phát hành cổ phiếu lần đầu ra công chúng (IPO)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The public was shocked by the corruption scandal.

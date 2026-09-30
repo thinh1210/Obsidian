@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪn.strə.mənt/
 
+![[instrument.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or device for producing musical sounds.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `musical instrument`: nhạc cụ
 - `play an instrument`: chơi một nhạc cụ
+- `stringed instrument`: nhạc cụ dây
+- `percussion instrument`: nhạc cụ gõ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The violin is a difficult instrument to master.

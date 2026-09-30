@@ -2,8 +2,10 @@
 *n.*
 > /striːt/
 
+![[street.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A public road in a city or town.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross the street`: băng qua đường
+- `across the street`: ở bên kia đường
+- `one-way street`: đường một chiều
+- `street smart`: khôn ngoan trường đời (idiom)
+- `on the streets`: vô gia cư, sống lang thang ngoài đường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Look before you cross the street.

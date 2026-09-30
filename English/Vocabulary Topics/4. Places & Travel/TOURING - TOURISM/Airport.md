@@ -2,8 +2,10 @@
 *Noun*
 > /ˈer.pɔːrt/
 
+![[airport.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where aircraft regularly take off and land.
@@ -13,7 +15,11 @@
 💡 E (Air) PÓT (Port) - cảng hàng không.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `international airport`: sân bay quốc tế\n- `go to the airport`: đi đến sân bay
+- `international airport`: sân bay quốc tế
+- `go to the airport`: đi đến sân bay
+- `arrive at the airport`: đáp máy bay xuống sân bay
+- `airport shuttle bus`: xe buýt đưa đón khách sân bay
+- `airport lounge`: phòng chờ hạng thương gia tại sân bay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We arrived at the airport early.

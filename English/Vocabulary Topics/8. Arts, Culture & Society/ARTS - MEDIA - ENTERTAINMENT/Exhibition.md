@@ -2,8 +2,10 @@
 *n.*
 > /ˌeksɪˈbɪʃn/
 
+![[exhibition.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A public display of works of art or items of interest, held in an art gallery or museum or at a trade fair.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `art exhibition`: triển lãm nghệ thuật
 - `hold an exhibition`: tổ chức triển lãm
+- `solo exhibition`: triển lãm tranh cá nhân
+- `curate an exhibition`: tuyển chọn và tổ chức triển lãm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went to see a photo exhibition yesterday.

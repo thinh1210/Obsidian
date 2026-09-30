@@ -2,8 +2,10 @@
 *n.*
 > /ˈhæbɪtæt/
 
+![[habitat.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The natural home or environment of an animal, plant, or other organism.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural habitat`: môi trường sống tự nhiên
 - `habitat destruction`: sự phá hủy môi trường sống
+- `habitat loss`: mất đi môi trường sống tự nhiên
+- `wildlife habitat`: môi trường sống của động vật hoang dã
+- `preserve natural habitats`: bảo tồn các môi trường sống tự nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The forest is the natural habitat of the tiger.

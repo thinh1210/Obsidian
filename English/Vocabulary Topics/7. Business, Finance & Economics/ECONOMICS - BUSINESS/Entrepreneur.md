@@ -2,8 +2,10 @@
 *noun*
 > /ˌɑːntrəprəˈnɜːr/
 
+![[entrepreneur.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a person who makes money by starting or running businesses, especially when this involves taking financial risks.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `budding entrepreneur`: doanh nhân trẻ triển vọng
 - `social entrepreneur`: doanh nhân xã hội
+- `serial entrepreneur`: doanh nhân khởi nghiệp liên tục
+- `tech entrepreneur`: doanh nhân khởi nghiệp công nghệ
+- `entrepreneurial spirit`: tinh thần dấn thân khởi nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The young entrepreneur opened a chain of eco-friendly coffee shops.

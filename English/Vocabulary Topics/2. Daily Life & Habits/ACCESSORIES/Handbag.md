@@ -2,8 +2,10 @@
 *noun*
 > /ˈhændbæɡ/
 
+![[handbag.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small bag for money, keys, make-up, etc., carried especially by women.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a designer handbag`: một chiếc túi xách hàng hiệu
+- `clutch handbag`: ví cầm tay dự tiệc
+- `leather handbag`: túi xách da
+- `rummage through a handbag`: lục tìm đồ trong túi xách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She left her handbag in the restaurant.

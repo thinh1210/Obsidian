@@ -2,8 +2,10 @@
 *n.*
 > /bænd/
 
+![[band.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small group of musicians and vocalists who play music together.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rock band`: ban nhạc rock
 - `join a band`: tham gia một ban nhạc
+- `marching band`: ban nhạc diễu hành
+- `garage band`: ban nhạc nghiệp dư tự phát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My brother plays the drums in a school band.

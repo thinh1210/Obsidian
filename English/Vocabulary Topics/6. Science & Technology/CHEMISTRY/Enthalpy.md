@@ -2,8 +2,10 @@
 *noun*
 > /enˈθæl.pi/
 
+![[enthalpy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thermodynamic quantity equivalent to the total heat content of a system.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `enthalpy change`: sự biến thiên enthalpy
 - `standard enthalpy of formation`: enthalpy tạo thành tiêu chuẩn
+- `enthalpy of reaction`: enthalpy phản ứng
+- `calculate enthalpy`: tính toán enthalpy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The enthalpy change of a reaction measures the heat absorbed or released at constant pressure.

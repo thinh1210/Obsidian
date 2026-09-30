@@ -2,8 +2,10 @@
 *adj.*
 > /ˈtaɪərd/
 
+![[tired.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In need of sleep or rest
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feel tired`: cảm thấy mệt mỏi
 - `tired of`: mệt mỏi với (điều gì)
+- `sick and tired of`: chán ngấy đến tận cổ (idiom)
+- `tired out`: mệt mỏi rã rời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am so tired today.

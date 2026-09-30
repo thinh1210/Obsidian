@@ -2,8 +2,10 @@
 *n.*
 > /ˈsəʊldʒə(r)/
 
+![[soldier.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who serves in an army
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brave soldier`: người lính dũng cảm
 - `unknown soldier`: chiến sĩ vô danh
+- `foot soldier`: lính bộ binh / nhân viên thừa hành
+- `fallen soldiers`: những chiến sĩ đã ngã xuống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The young soldier wrote a letter to his mother.

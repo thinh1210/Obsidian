@@ -2,8 +2,10 @@
 *Noun*
 > /rɪˈzɔrt/
 
+![[resort.mp3]]
+
 ---
-**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where many people go for rest, sport, or another stated purpose.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `beach resort`: khu nghỉ dưỡng bãi biển
 - `luxury resort`: khu nghỉ dưỡng sang trọng
+- `all-inclusive resort`: khu nghỉ mát trọn gói từ ăn ở đến vui chơi
+- `coastal seaside resort`: khu nghỉ dưỡng ven biển gió lộng
+- `five-star luxury resort`: khu nghỉ dưỡng đẳng cấp 5 sao xa hoa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stayed at a luxury resort.

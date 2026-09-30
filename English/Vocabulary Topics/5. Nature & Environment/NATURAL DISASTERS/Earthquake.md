@@ -2,8 +2,10 @@
 *noun*
 > /ˈɜːθ.kweɪk/
 
+![[earthquake.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden violent shaking of the earth's surface, sometimes causing great damage.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `survive an earthquake`: sống sót sau trận động đất
 - `earthquake zone`: vùng động đất
+- `earthquake magnitude`: cường độ trận động đất
+- `earthquake drill`: buổi diễn tập phòng chống động đất
+- `devastating earthquake`: trận động đất mang tính hủy diệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The earthquake shook the table and broke some plates.

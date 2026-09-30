@@ -2,8 +2,10 @@
 *n.*
 > /kəʊn/
 
+![[cone.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid or hollow object which tapers from a circular or roughly circular base to a point.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An ice cream cone`: Vỏ ốc quế kem
 - `Traffic cone`: Cọc tiêu giao thông
+- `pine cone`: quả thông
+- `cone of silence`: khu vực giữ kín tuyệt mật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He ate a large ice cream cone.

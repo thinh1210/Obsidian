@@ -2,8 +2,10 @@
 *adj*
 > /rɪˈbel.i.əs/
 
+![[rebellious.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Showing a desire to resist authority, control, or convention.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rebellious teenager`: thanh thiếu niên nổi loạn
+- `rebellious streak`: tính khí ngầm nổi loạn
+- `rebellious phase`: giai đoạn ẩm ương chống đối
+- `rebellious youth`: tuổi trẻ nổi loạn thách thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He went through a rebellious phase.

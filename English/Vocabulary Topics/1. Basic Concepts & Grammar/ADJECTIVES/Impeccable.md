@@ -2,8 +2,10 @@
 *adj.*
 > /ɪmˈpekəbl/
 
+![[impeccable.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** In accordance with the highest standards; faultless
@@ -13,7 +15,10 @@
 💡 Im (không) rách (peccable)
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``impeccable timing`: thời điểm hoàn hảo`
+- `impeccable timing`: thời điểm hoàn hảo
+- `impeccable manners`: cách cư xử mẫu mực / hoàn hảo
+- `impeccable credentials`: hồ sơ năng lực hoàn hảo
+- `impeccable integrity`: sự liêm chính không tì vết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Impeccable manners.

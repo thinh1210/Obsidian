@@ -2,8 +2,10 @@
 *n.*
 > /ˈhek.sə.ɡən/
 
+![[hexagon.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plane figure with six straight sides and angles.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A regular hexagon`: Lục giác đều
 - `Hexagon shape`: Hình lục giác
+- `honeycomb hexagon`: cấu trúc lục giác tổ ong
+- `hexagon grid`: lưới lục giác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Honeycomb cells are hexagons.

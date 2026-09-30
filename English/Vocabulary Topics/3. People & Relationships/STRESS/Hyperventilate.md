@@ -2,8 +2,10 @@
 *v.*
 > /ˌhaɪpərˈventɪleɪt/
 
+![[hyperventilate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Breathe at an abnormally rapid rate, usually due to stress/panic
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `start to hyperventilate`: bắt đầu thở gấp
 - `hyperventilate with panic`: thở gấp vì hoảng loạn
+- `gasp and hyperventilate`: thở hổn hển dồn dập
+- `prevent hyperventilation`: ngăn chặn tình trạng thở gấp loạn nhịp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She started to hyperventilate before the stage performance.

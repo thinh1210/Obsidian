@@ -2,8 +2,10 @@
 *n.*
 > /ˈbenɪfɪt/
 
+![[benefit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A payment made by an insurance company or public agency to someone who is entitled to receive it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `death benefit`: quyền lợi khi tử vong
 - `insurance benefit`: quyền lợi bảo hiểm
+- `cash benefit`: quyền lợi chi trả trực tiếp bằng tiền mặt
+- `maximize benefits`: tối ưu hóa các quyền lợi bảo hiểm
+- `benefit period`: thời gian được hưởng quyền lợi chi trả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The death benefit goes to the policyholder's children.

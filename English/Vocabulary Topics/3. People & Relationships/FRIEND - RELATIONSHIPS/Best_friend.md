@@ -2,8 +2,10 @@
 *noun*
 > /best frend/
 
+![[best_friend.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person's closest and dearest friend.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `my best friend`: bạn thân nhất của tôi
+- `childhood best friend`: bạn thân nhất thời thơ ấu
+- `confide in a best friend`: trút bầu tâm sự với bạn thân
+- `treat like a best friend`: đối xử như người bạn thân nhất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is my best friend.

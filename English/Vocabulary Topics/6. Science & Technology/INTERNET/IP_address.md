@@ -2,8 +2,10 @@
 *noun*
 > /ˌaɪ ˈpiː ˌæd.res/
 
+![[ip_address.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A unique numerical label assigned to each device connected to a network, used for identification and communication.

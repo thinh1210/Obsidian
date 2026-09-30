@@ -2,8 +2,10 @@
 *verb*
 > /trænzˈleɪt/
 
+![[translate.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS
+**Level:** A2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to change writing or speech from one language into another

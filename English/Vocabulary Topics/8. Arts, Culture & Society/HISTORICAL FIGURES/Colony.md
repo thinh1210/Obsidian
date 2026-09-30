@@ -2,8 +2,10 @@
 *n.*
 > /ˈɒləni/
 
+![[colony.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A country or area under the full or partial political control of another country
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `establish a colony`: thành lập thuộc địa
 - `former colony`: cựu thuộc địa
+- `penal colony`: thuộc địa lưu đày
+- `crown colony`: thuộc địa hoàng gia
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country was once a British colony.

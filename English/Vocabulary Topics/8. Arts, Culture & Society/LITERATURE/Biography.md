@@ -2,8 +2,10 @@
 *noun*
 > /baɪˈɒɡ.rə.fi/
 
+![[biography.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An account of someone's life written by someone else.

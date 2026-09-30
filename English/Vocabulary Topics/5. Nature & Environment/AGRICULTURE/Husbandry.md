@@ -2,8 +2,10 @@
 *n.*
 > /ˈhʌz.bən.dri/
 
+![[husbandry.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The care, cultivation, and breeding of crops and animals.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `animal husbandry`: chăn nuôi động vật
 - `good husbandry`: quản lý canh tác tốt
+- `crop husbandry`: kỹ thuật quản lý và canh tác cây trồng
+- `livestock husbandry`: ngành chăn nuôi gia súc
+- `poor husbandry`: sự quản lý đồng ruộng/vật nuôi yếu kém
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Successful farming requires knowledge of both crop and animal husbandry.

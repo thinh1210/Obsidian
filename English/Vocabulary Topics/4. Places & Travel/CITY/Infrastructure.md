@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪnfrəstrʌktʃə(r)/
 
+![[infrastructure.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic systems and services that are necessary for a country or an organization.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `improve infrastructure`: cải thiện cơ sở hạ tầng
+- `basic infrastructure`: cơ sở hạ tầng cơ bản
+- `transport infrastructure`: hạ tầng giao thông
+- `invest in infrastructure`: đầu tư vào cơ sở hạ tầng
+- `crumbling infrastructure`: cơ sở hạ tầng xuống cấp mục nát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The city has good infrastructure.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈsɪlvə(r)/
 
+![[silver.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious shiny grayish-white metal, the chemical element of atomic number 47.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sterling silver`: bạc chuẩn (bạc 925)
 - `silver coin`: đồng xu bạc
+- `silver lining`: tia hy vọng trong hoàn cảnh bi đát (idiom)
+- `born with a silver spoon`: sinh ra ngậm thìa vàng giàu sang (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dining table was decorated with silver candlesticks.

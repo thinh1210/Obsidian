@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɡæl.ək.si/
 
+![[galaxy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of millions or billions of stars, together with gas and dust, held by gravity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Milky Way galaxy`: thiên hà Ngân Hà
 - `spiral galaxy`: thiên hà xoắn ốc
+- `interacting galaxies`: các thiên hà tương tác
+- `active galaxy`: thiên hà hoạt động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our solar system is located in the Milky Way galaxy.

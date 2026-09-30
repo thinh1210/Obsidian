@@ -2,8 +2,10 @@
 *v.*
 > /kwentʃ/
 
+![[quench.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Satisfy (one's thirst) by drinking.

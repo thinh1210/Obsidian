@@ -2,8 +2,10 @@
 *noun/verb*
 > /briːtʃ/
 
+![[breach.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of breaking or failing to observe a law, agreement, or code of conduct.

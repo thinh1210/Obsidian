@@ -2,8 +2,10 @@
 *noun/verb*
 > /plæn/
 
+![[plan.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A detailed proposal for doing or achieving something, or a scale drawing of a structure.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `action plan`: kế hoạch hành động
 - `floor plan`: sơ đồ mặt bằng
+- `master plan`: quy hoạch tổng thể
+- `contingency plan`: kế hoạch dự phòng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We should make a clear plan before starting the renovation project.

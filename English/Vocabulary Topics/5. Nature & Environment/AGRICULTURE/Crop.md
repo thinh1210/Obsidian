@@ -2,8 +2,10 @@
 *n.*
 > /krɒp/
 
+![[crop.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plant such as a grain, fruit, or vegetable grown in large amounts on a farm.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cash crop`: cây trồng thương mại
 - `crop yield`: sản lượng cây trồng
+- `crop rotation`: luân canh cây trồng
+- `crop failure`: mất mùa, thất thu vụ mùa
+- `bumper crop`: vụ mùa bội thu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Rice is the main crop grown in this region.

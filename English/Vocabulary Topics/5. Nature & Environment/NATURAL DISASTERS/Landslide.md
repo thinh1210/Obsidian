@@ -2,8 +2,10 @@
 *noun*
 > /ˈlænd.slaɪd/
 
+![[landslide.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mass of earth or rock that slides down a steep slope.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `massive landslide`: vụ sạt lở đất quy mô lớn
 - `landslide risk`: nguy cơ sạt lở đất
+- `landslide victory`: chiến thắng áp đảo long trời lở đất
+- `trigger massive landslides`: kích hoạt những vụ sạt lở đất nghiêm trọng
+- `landslide warning`: cảnh báo sạt lở đất đồi núi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Heavy rains triggered a landslide that blocked the main highway.

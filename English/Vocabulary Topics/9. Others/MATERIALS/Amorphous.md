@@ -2,8 +2,10 @@
 *adjective.*
 > /əˈmɔːfəs/
 
+![[amorphous.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Without a clearly defined shape or form; non-crystalline structure.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `amorphous solid`: chất rắn vô định hình
 - `amorphous structure`: cấu trúc vô định hình
+- `amorphous shape`: hình dạng mơ hồ khó xác định
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Unlike table salt, glass is an amorphous solid with no repeating crystal lattice.

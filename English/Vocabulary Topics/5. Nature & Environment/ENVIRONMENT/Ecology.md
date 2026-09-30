@@ -2,8 +2,10 @@
 *n.*
 > /iˈkɒlədʒi/
 
+![[ecology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `marine ecology`: sinh thái học biển
 - `human ecology`: sinh thái học nhân văn
+- `deep ecology`: thuyết sinh thái học chiều sâu
+- `ecological footprint`: dấu chân sinh thái
+- `ecological restoration`: phục hồi sinh thái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Students are studying the ecology of the local wetlands.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌeɪ.piːˈaɪ/
 
+![[api.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Application Programming Interface; a set of protocols and tools that allows different software applications to communicate with each other.

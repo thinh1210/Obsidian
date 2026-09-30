@@ -2,8 +2,10 @@
 *adj.*
 > /ˌkɒzməˈpɒlɪtən/
 
+![[cosmopolitan.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Familiar with and at ease in many different countries and cultures.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cosmopolitan city`: thành phố đa văn hóa
+- `cosmopolitan atmosphere`: bầu không khí quốc tế đa văn hóa
+- `cosmopolitan mindset`: tư duy cởi mở toàn cầu
+- `cosmopolitan population`: dân cư đa quốc tịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* London is a highly cosmopolitan city.

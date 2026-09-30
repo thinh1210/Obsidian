@@ -2,8 +2,10 @@
 *adjective*
 > /ˌpæθ.ɒɡ.nəˈmɒn.ɪk/
 
+![[pathognomonic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characteristic of or specifically identifying a particular disease or condition; unmistakably diagnostic.

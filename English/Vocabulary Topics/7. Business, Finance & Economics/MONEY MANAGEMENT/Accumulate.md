@@ -2,8 +2,10 @@
 *Verb*
 > /əˈkjuːmjəleɪt/
 
+![[accumulate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To gather or acquire an increasing number or quantity of something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `accumulate wealth`: tích lũy của cải
 - `accumulate interest`: tích lũy lãi suất
+- `accumulate debt`: nợ nần chồng chất thêm theo thời gian
+- `accumulate savings`: tích lũy dần tiền tiết kiệm
+- `accumulate capital`: tích lũy nguồn vốn phát triển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Over the years, she managed to accumulate a large library of books.

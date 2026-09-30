@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɜːtəlaɪzər/
 
+![[fertilizer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical or natural substance added to soil to increase its fertility.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chemical fertilizer`: phân bón hóa học
 - `organic fertilizer`: phân bón hữu cơ
+- `nitrogen fertilizer`: phân đạm
+- `overuse of fertilizers`: sự lạm dụng phân bón hóa học
+- `natural fertilizer`: phân bón hữu cơ tự nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Adding fertilizer to the soil makes the tomato plants produce more fruit.

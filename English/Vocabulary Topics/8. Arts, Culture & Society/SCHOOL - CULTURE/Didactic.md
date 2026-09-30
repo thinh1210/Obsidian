@@ -2,8 +2,10 @@
 *adjective*
 > /daɪˈdæktɪk/
 
+![[didactic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Intended to teach, particularly in having moral instruction as an ulterior motive.

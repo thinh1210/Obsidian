@@ -2,8 +2,10 @@
 *Verb*
 > /dɪsˈbɜːs/
 
+![[disburse.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To pay out money from a fund, especially a public or official one.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `disburse funds`: giải ngân nguồn tiền
 - `disburse loans`: giải ngân các khoản vay
+- `disbursement schedule`: tiến độ biểu đồ giải ngân kinh phí
+- `delay disbursement`: trì hoãn việc giải ngân tiền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The college will disburse scholarship funds directly to the students' bank accounts next week.

@@ -2,8 +2,10 @@
 *noun*
 > /sɪˈver.ə.ti/
 
+![[severity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being extremely painful, difficult, or damaging.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `severity of the storm`: mức độ nghiêm trọng của cơn bão
 - `determine the severity`: xác định mức độ nghiêm trọng
+- `assess the severity`: đánh giá mức độ nghiêm trọng
+- `severity of injuries`: mức độ nặng nhẹ của chấn thương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The severity of the drought forced farmers to abandon their fields.

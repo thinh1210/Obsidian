@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈzɪliəns/
 
+![[resilience.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The capacity to recover quickly from difficulties; toughness; the ability of a substance or object to spring back into shape.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `structural resilience`: khả năng chịu đựng của kết cấu
 - `climate resilience`: khả năng thích ứng với khí hậu
+- `resilience to stress`: khả năng chịu ứng suất
+- `operational resilience`: khả năng phục hồi vận hành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Engineers test the resilience of new bridge designs against high winds and earthquakes.

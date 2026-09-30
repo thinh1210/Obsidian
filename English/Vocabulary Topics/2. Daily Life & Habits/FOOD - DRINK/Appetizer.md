@@ -2,8 +2,10 @@
 *n.*
 > /ˈæp.ə.taɪ.zər/
 
+![[appetizer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small dish of food or a drink taken before a meal.

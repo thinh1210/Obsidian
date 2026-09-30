@@ -2,8 +2,10 @@
 *adj.*
 > /ˈhjuː.mə.rəs/
 
+![[humorous.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing lighthearted laughter and amusement.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `humorous story`: câu chuyện hài hước
+- `humorous side`: mặt hài hước dí dỏm
+- `humorous remark`: lời nhận xét tếu táo dí dỏm
+- `dryly humorous`: hài hước thâm thúy sâu cay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is very humorous.

@@ -2,8 +2,10 @@
 *noun*
 > /məˈtæb.əl.ɪ.zəm/
 
+![[metabolism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The chemical processes that occur within a living organism in order to maintain life.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `metabolism rate`: tốc độ trao đổi chất
 - `fast metabolism`: trao đổi chất nhanh
+- `basal metabolism`: trao đổi chất cơ bản
+- `metabolic pathway`: con đường chuyển hóa / trao đổi chất
+- `slow metabolism`: sự trao đổi chất chậm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Running regularly can boost your metabolism.

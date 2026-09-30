@@ -2,8 +2,10 @@
 *noun*
 > /stɑːr/
 
+![[star.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large ball of burning gas in space that shines in the sky.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shooting star`: sao băng
 - `bright star`: ngôi sao sáng
+- `neutron star`: sao neutron
+- `binary star`: sao đôi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I saw a shooting star last night and made a wish.

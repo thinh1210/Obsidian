@@ -2,8 +2,10 @@
 *noun*
 > /æd/
 
+![[ad.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An advertisement; a public notice promoting a product, service, or event
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `place an ad`: đặt quảng cáo
 - `classified ad`: quảng cáo rao vặt
+- `targeted ad`: quảng cáo nhắm mục tiêu chính xác đối tượng
+- `native ad`: quảng cáo tự nhiên lồng ghép nội dung
+- `run an ad`: triển khai chạy một chiến dịch quảng cáo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I saw a funny ad for a new phone on TV.

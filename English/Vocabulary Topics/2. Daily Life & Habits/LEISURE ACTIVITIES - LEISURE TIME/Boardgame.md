@@ -2,8 +2,10 @@
 *n*
 > /ˈbɔːd ɡeɪm/
 
+![[boardgame.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game played on a board by people moving pieces.
@@ -13,7 +15,11 @@
 💡 Board (bảng) + game (trò chơi).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `play a boardgame`: chơi cờ bàn\n- `strategy boardgame`: cờ bàn chiến thuật
+- `play a boardgame`: chơi cờ bàn
+- `strategy boardgame`: cờ bàn chiến thuật
+- `host a boardgame night`: tổ chức đêm chơi cờ bàn với bạn bè
+- `cooperative boardgame`: trò chơi cờ bàn đồng đội / hợp tác
+- `tabletop boardgame`: trò chơi cờ bàn gia đình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Monopoly is my favorite boardgame.

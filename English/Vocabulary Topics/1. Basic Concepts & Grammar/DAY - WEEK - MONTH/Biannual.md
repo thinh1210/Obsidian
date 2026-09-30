@@ -2,8 +2,10 @@
 *adj*
 > /baɪˈænjuəl/
 
+![[biannual.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring twice a year.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `biannual review`: đánh giá hai lần một năm
+- `biannual publication`: ấn phẩm xuất bản định kỳ hai lần một năm
+- `biannual conference`: hội nghị nửa năm một lần
+- `biannual audit`: kiểm toán sáu tháng một lần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The committee holds a biannual meeting.

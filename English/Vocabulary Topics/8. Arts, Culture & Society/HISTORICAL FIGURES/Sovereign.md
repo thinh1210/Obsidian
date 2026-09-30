@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɒvrɪn/
 
+![[sovereign.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A supreme ruler, especially a monarch
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sovereign state`: quốc gia có chủ quyền
 - `supreme sovereign`: đấng trị vì tối cao
+- `sovereign nation`: quốc gia có chủ quyền
+- `sovereign immunity`: quyền miễn trừ chủ quyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sovereign demanded a tax from the citizens.

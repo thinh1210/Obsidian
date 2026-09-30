@@ -2,8 +2,10 @@
 *adj*
 > /pəˈtɝː.nəl/
 
+![[paternal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or appropriate to a father.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `paternal instinct`: bản năng làm cha
+- `paternal grandfather`: ông nội
+- `paternal love`: tình phụ tử bao la
+- `paternal authority`: quyền uy nghiêm của người cha
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has a strong paternal instinct.

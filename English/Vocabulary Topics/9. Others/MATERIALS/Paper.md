@@ -2,8 +2,10 @@
 *noun.*
 > /ˈpeɪpə(r)/
 
+![[paper.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sheet of paper`: tờ giấy
 - `recycled paper`: giấy tái chế
+- `on paper`: trên lý thuyết giấy tờ (idiom)
+- `paper over the cracks`: che đậy khuyết điểm tạm thời (idiom)
+- `white paper`: bạch thư báo cáo chính sách chuyên sâu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wrote his phone number on a small sheet of paper.

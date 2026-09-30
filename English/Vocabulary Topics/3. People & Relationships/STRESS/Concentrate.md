@@ -2,8 +2,10 @@
 *v.*
 > /ˈkɒnsntreɪt/
 
+![[concentrate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Focus all one's attention on a particular object or activity
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `concentrate on`: tập trung vào
 - `hard to concentrate`: khó tập trung
+- `concentrate the mind`: tập trung cao độ trí não
+- `fail to concentrate`: mất tập trung không chú ý được
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I can't concentrate with this noise.

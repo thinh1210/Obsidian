@@ -2,8 +2,10 @@
 *n.*
 > /ˈvaɪbrənsi/
 
+![[vibrancy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being full of energy and life.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultural vibrancy`: sự sôi động về văn hóa
+- `youthful vibrancy`: sức sống trẻ trung đầy nhiệt huyết
+- `vibrancy of city life`: nhịp sống tràn đầy năng lượng của thành phố
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the vibrancy of this city.

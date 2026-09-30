@@ -2,8 +2,10 @@
 *n.*
 > /rɪˈdʌn.dən.si/
 
+![[redundancy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being no longer useful or needed, especially leading to job loss
@@ -13,8 +15,10 @@
 💡 Rì đần đần (redundancy) nên bị sa thải do dư thừa nhân sự.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``voluntary redundancy`: tự nguyện thôi việc hưởng trợ cấp`
-- ``compulsory redundancy`: sa thải bắt buộc do dư thừa`
+- `voluntary redundancy`: tự nguyện thôi việc hưởng trợ cấp
+- `compulsory redundancy`: sa thải bắt buộc do dư thừa
+- `redundancy notice`: thông báo thôi việc vì tinh giản cơ cấu
+- `avoid redundancies`: tìm giải pháp tránh việc phải sa thải giảm biên chế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The factory closures resulted in thousands of redundancies.

@@ -2,8 +2,10 @@
 *noun*
 > /kraɪm/
 
+![[crime.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action or omission that constitutes an offense and is punishable by law.

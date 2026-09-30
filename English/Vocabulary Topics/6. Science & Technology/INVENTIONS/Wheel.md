@@ -2,8 +2,10 @@
 *Noun*
 > /wiːl/
 
+![[wheel.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circular object connected at the centre to a bar, used for making vehicles move.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `steering wheel`: vô lăng
 - `invent the wheel`: phát minh ra bánh xe (thứ căn bản)
+- `reinvent the wheel`: lãng phí công sức làm lại thứ đã có sẵn (idiom)
+- `behind the wheel`: ngồi sau tay lái lái xe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The front wheel of the bicycle is flat.

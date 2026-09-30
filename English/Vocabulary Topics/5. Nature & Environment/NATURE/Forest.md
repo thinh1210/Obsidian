@@ -2,8 +2,10 @@
 *Noun*
 > /ˈfɒrɪst/
 
+![[forest.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large area covered chiefly with trees and undergrowth.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dense forest`: rừng rậm
 - `forest fire`: cháy rừng
+- `primeval forest`: khu rừng nguyên thủy
+- `forest conservation`: bảo tồn rừng tự nhiên
+- `clearing in the forest`: khoảng đất trống quang đãng giữa rừng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went for a walk in the forest.

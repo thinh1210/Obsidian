@@ -2,8 +2,10 @@
 *noun*
 > /kaʊ/
 
+![[cow.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large female domestic animal kept on farms for its milk or beef.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dairy cow`: bò sữa
 - `milk a cow`: vắt sữa bò
+- `till the cows come home`: rất lâu / chờ đến muôn năm
+- `have a cow`: nổi giận đùng đùng / phát hoảng
+- `cow milk`: sữa bò
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The farmer wakes up early every morning to milk the cows.

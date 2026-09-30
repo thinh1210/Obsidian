@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪl.vɪ.kʌl.tʃər/
 
+![[silviculture.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The growing and cultivation of trees, especially for timber production.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `silviculture practices`: thực hành lâm nghiệp
 - `sustainable silviculture`: lâm nghiệp bền vững
+- `silvicultural regime`: chế độ nuôi dưỡng rừng trồng
+- `intensive silviculture`: lâm nghiệp thâm canh lấy gỗ
+- `forest silviculture`: kỹ thuật trồng và chăm sóc rừng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The logging company is required to follow strict silviculture guidelines.

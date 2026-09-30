@@ -2,8 +2,10 @@
 *Verb*
 > /rɪˈkwaɪər/
 
+![[require.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To need something or make something necessary.
@@ -13,7 +15,10 @@
 💡 Rì quai (require) lại để xem yêu cầu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `require assistance`: cần giúp đỡ\n- `strictly required`: yêu cầu nghiêm ngặt
+- `require assistance`: cần giúp đỡ
+- `strictly required`: yêu cầu nghiêm ngặt
+- `require immediate attention`: đòi hỏi sự chú ý / giải quyết ngay tức khắc
+- `require patience`: đòi hỏi sự kiên nhẫn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Plants require water.

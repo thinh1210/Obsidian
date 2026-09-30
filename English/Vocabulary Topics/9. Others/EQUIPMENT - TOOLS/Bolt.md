@@ -2,8 +2,10 @@
 *noun*
 > /bəʊlt/
 
+![[bolt.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a threaded pin or rod with a head at one end, designed to be secured with a nut.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `nut and bolt`: đai ốc và bu-lông
 - `bolt of lightning`: tia sét
+- `bolt down`: bắt vít chặt; ăn ngấu nghiến (phrasal verb)
+- `nuts and bolts`: những chi tiết cơ bản thực tế (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Check that all the nuts and bolts are tight before riding the bike.

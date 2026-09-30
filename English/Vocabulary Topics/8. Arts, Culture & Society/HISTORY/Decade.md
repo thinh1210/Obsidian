@@ -2,8 +2,10 @@
 *noun*
 > /ˈdek.eɪd/
 
+![[decade.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of ten years.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `over the last decade`: trong thập kỷ qua
 - `first decade of the century`: thập kỷ đầu tiên của thế kỷ
+- `over the past decade`: trong suốt thập kỷ qua
+- `decade-long conflict`: cuộc xung đột kéo dài cả thập kỷ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country has undergone massive economic growth in the last decade.

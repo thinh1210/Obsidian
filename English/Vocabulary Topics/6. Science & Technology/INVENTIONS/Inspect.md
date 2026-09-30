@@ -2,8 +2,10 @@
 *Verb*
 > /ɪnˈspekt/
 
+![[inspect.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at something carefully, usually to check that it is safe or correct.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `inspect the facility`: kiểm tra cơ sở vật chất
 - `closely inspect`: kiểm tra kỹ lưỡng
+- `inspect closely`: kiểm tra thanh tra kỹ lưỡng
+- `inspect facilities`: thanh sát các cơ sở vật chất
+- `visually inspect`: kiểm tra bằng mắt thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should inspect the car before buying it.

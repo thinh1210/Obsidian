@@ -2,8 +2,10 @@
 *noun*
 > /laɪk/
 
+![[like.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action showing approval or appreciation of a post on social media
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `get a like`: nhận được một lượt thích
+- `hit the like button`: nhấn nút bấm thích
+- `accumulate likes`: thu về lượng lớn lượt thích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her new photo got over a thousand likes in ten minutes.

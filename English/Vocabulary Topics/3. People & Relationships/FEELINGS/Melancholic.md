@@ -2,8 +2,10 @@
 *adj*
 > /ˌmelənˈkɑːlɪk/
 
+![[melancholic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing pensive sadness.

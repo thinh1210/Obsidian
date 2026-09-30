@@ -2,8 +2,10 @@
 *adj.*
 > /ˌɪn.dɪˈfæt.ɪ.ɡə.bəl/
 
+![[indefatigable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INVENTORS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Never showing signs of getting tired; tireless
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `indefatigable worker`: người làm việc không biết mệt mỏi
 - `indefatigable campaigner`: nhà vận động không biết mệt mỏi
+- `indefatigable spirit`: tinh thần bền bỉ kiên cường
+- `indefatigable efforts`: những nỗ lực không mệt mỏi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was an indefatigable campaigner for human rights.

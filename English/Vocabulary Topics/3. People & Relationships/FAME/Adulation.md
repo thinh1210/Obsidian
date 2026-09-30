@@ -2,8 +2,10 @@
 *n.*
 > /ˌædʒuˈleɪʃn/
 
+![[adulation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME
+**Level:** C2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Obsequious flattery; excessive admiration or praise.
@@ -13,7 +15,10 @@
 💡 Adulate (nịnh nọt).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `widespread adulation: sự tung hô rộng rãi`
+- `widespread adulation`: sự tung hô rộng rãi
+- `shower with adulation`: dành tặng vô vàn lời tung hô tán tụng
+- `crave adulation`: khao khát được tán dương ca tụng
+- `public adulation`: sự tung hô của đông đảo công chúng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He enjoyed the adulation of his fans.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfriːzɪŋ/
 
+![[freezing.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely cold; at the temperature where water turns to ice
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `freezing point`: điểm đóng băng
+- `freezing cold`: lạnh buốt xương / lạnh cóng
+- `freezing rain`: mưa tuyết đóng băng
+- `freezing temperatures`: nhiệt độ hạ xuống mức đóng băng dưới 0 độ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's freezing outside, so put on your gloves.

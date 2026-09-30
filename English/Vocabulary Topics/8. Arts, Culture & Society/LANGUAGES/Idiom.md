@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪdiəm/
 
+![[idiom.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of words established by usage as having a meaning not deducible from those of the individual words
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `common idiom`: thành ngữ phổ biến
+- `idiomatic usage`: cách dùng mang tính thành ngữ
+- `rich in idioms`: giàu thành ngữ biểu cảm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* 'Bite the bullet' is a common English idiom.

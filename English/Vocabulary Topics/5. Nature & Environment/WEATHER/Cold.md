@@ -2,8 +2,10 @@
 *adj.*
 > /kəʊld/
 
+![[cold.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a low temperature; not warm
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cold winter`: mùa đông lạnh giá
+- `give someone the cold shoulder`: đối xử lạnh nhạt hờ hững với ai
+- `in cold blood`: máu lạnh / dã man tàn nhẫn
+- `catch a cold`: bị cảm lạnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Make sure to wear a coat, it's very cold.

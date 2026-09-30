@@ -2,8 +2,10 @@
 *adj.*
 > /ˈprɒmɪnənt/
 
+![[prominent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Important; famous.
@@ -13,7 +15,10 @@
 💡 Pro (trước) + min (nhô ra).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `prominent figure: nhân vật xuất chúng`
+- `prominent figure`: nhân vật xuất chúng
+- `prominent place`: vị trí nổi bật dễ thấy
+- `play a prominent role`: đóng một vai trò nổi bật then chốt
+- `prominent politician`: chính khách lỗi lạc có tiếng tăm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a prominent politician.

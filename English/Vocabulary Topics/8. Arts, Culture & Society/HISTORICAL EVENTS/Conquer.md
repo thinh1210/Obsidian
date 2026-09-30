@@ -2,8 +2,10 @@
 *verb*
 > /ˈkɑːŋ.kər/
 
+![[conquer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Overcome and take control of a place or people by military force.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conquer the world`: chinh phục thế giới
 - `conquer fear`: vượt qua nỗi sợ hãi
+- `conquer territories`: xâm chiếm và bình định các vùng lãnh thổ mới
+- `divide and conquer`: chiến thuật chia để trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She managed to conquer her fear of heights by going skydiving.

@@ -2,8 +2,10 @@
 *noun*
 > /sɪˈmæn.tɪks/
 
+![[semantics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of meanings in a language

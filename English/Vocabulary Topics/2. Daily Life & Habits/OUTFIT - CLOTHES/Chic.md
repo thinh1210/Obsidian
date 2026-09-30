@@ -2,8 +2,10 @@
 *adj*
 > /ʃiːk/
 
+![[chic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Elegantly and stylishly fashionable.
@@ -13,7 +15,10 @@
 💡 Chic -> Xích -> Đeo xích vàng rất sang trọng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `effortlessly chic: sang trọng một cách tự nhiên`
+- `effortlessly chic`: sang trọng một cách tự nhiên
+- `tres chic`: vô cùng thanh lịch, đậm chất thời trang
+- `boho chic`: phong cách bohemian phóng khoáng và sành điệu
+- `chic ensemble`: bộ đồ phối hợp cực kỳ sang trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She looked very chic in her new outfit.

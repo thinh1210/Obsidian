@@ -2,8 +2,10 @@
 *adjective*
 > /hɒt/
 
+![[hot.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a high temperature.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hot weather`: thời tiết nóng bức
 - `hot sun`: mặt trời nắng gắt
+- `hot off the press`: vừa mới xuất xưởng / tin tức sốt dẻo
+- `in hot water`: rơi vào tình thế nước sôi lửa bỏng / gặp rắc rối
+- `hot-headed`: nóng nảy bốc đồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is too hot to play football outside today.

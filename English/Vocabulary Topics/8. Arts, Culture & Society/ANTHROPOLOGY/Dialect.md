@@ -2,8 +2,10 @@
 *n.*
 > /ˈdaɪ.ə.lekt/
 
+![[dialect.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular form of a language which is peculiar to a specific region or social group.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `regional dialect`: phương ngôn vùng miền
 - `local dialect`: tiếng địa phương
+- `dialect continuum`: dải liên tục phương ngữ
+- `speak in a dialect`: nói bằng phương ngữ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She speaks English with a strong Yorkshire dialect.

@@ -2,8 +2,10 @@
 *n.*
 > /əˈsaɪnmənt/
 
+![[assignment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A task or piece of work allocated to someone as part of a course of study
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `complete an assignment`: hoàn thành bài tập
 - `submit an assignment`: nộp bài tập
+- `written assignment`: bài tập luận viết
+- `deadline for an assignment`: thời hạn hoàn thành bài tập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have to finish my history assignment by tomorrow.

@@ -2,8 +2,10 @@
 *n.*
 > /əˈpreɪ.zəl/
 
+![[appraisal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An assessment of someone's performance, value, or quality
@@ -13,7 +15,11 @@
 💡 "Áp" (ap) lực để được "pờ-rây" (praise) khen ngợi trong kỳ đánh giá
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``performance appraisal`: đánh giá hiệu quả công việc
+- `performance appraisal`: đánh giá hiệu quả công việc
+- `annual appraisal`: kỳ đánh giá nhân sự định kỳ hàng năm
+- `appraisal interview`: buổi phỏng vấn đánh giá năng lực
+- `peer appraisal`: sự đánh giá chéo giữa các đồng nghiệp
+- `objective appraisal`: sự đánh giá công tâm và khách quan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are having our annual performance appraisals next week.

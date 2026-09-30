@@ -2,8 +2,10 @@
 *noun*
 > /ˌmenz ˈriːə/
 
+![[mens_rea.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The intention or knowledge of wrongdoing that constitutes a key element in proving criminal liability

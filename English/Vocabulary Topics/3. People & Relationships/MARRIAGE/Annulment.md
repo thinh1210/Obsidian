@@ -2,8 +2,10 @@
 *noun*
 > /əˈnʌlmənt/
 
+![[annulment.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legal procedure for declaring a marriage null and void.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Seek an annulment`: Tìm kiếm sự hủy hôn
+- `grant an annulment`: chấp thuận hủy bỏ hôn thú
+- `declare annulment`: tuyên bố hủy bỏ hiệu lực hôn nhân
+- `grounds for annulment`: căn cứ pháp lý để hủy bỏ hôn nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is seeking an annulment.

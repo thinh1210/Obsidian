@@ -2,8 +2,10 @@
 *noun*
 > /ˈden.sɪ.ti/
 
+![[density.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The degree of compactness of a substance, measured as mass per unit volume.

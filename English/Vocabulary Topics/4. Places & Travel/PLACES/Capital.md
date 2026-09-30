@@ -2,8 +2,10 @@
 *n.*
 > /ˈkæp.ə.t̬əl/
 
+![[capital.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The most important city or town of a country or region.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `capital city`: thủ đô
+- `commercial capital`: trung tâm tài chính thương mại
+- `cultural capital`: thủ đô văn hóa
+- `invest capital`: đầu tư nguồn vốn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Paris is the capital of France.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌsəʊsiˈɒlədʒi/
 
+![[sociology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the development, structure, and functioning of human society.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sociology major`: chuyên ngành xã hội học
+- `urban sociology`: xã hội học đô thị
+- `empirical sociology`: xã hội học thực nghiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Studying sociology helped me understand social patterns.

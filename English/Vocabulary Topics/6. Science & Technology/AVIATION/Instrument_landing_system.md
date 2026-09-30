@@ -2,8 +2,10 @@
 *noun phrase*
 > /ˈɪn.strʊ.mənt ˈlæn.dɪŋ ˈsɪs.təm/
 
+![[instrument_landing_system.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A ground-based navigation system that provides precision guidance to an aircraft approaching a runway in low visibility, using radio signals to guide both lateral and vertical alignment.

@@ -2,8 +2,10 @@
 *adjective*
 > /ɔːˈɡænɪk/
 
+![[organic.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Produced or involving production without the use of chemical fertilizers or pesticides.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `organic food`: thực phẩm hữu cơ
 - `organic farming`: canh tác hữu cơ
+- `organic fertilizer`: phân bón hữu cơ
+- `organic compound`: hợp chất hữu cơ
+- `certified organic vegetables`: rau củ được cấp chứng chỉ hữu cơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Organic vegetables are usually more expensive than regular ones.

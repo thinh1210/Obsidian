@@ -2,8 +2,10 @@
 *n.*
 > /ˈɔː.kɪ.strə/
 
+![[orchestra.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large group of musicians playing various instruments together, led by a conductor.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `symphony orchestra`: dàn nhạc giao hưởng
 - `conduct an orchestra`: chỉ huy một dàn nhạc
+- `philharmonic orchestra`: dàn nhạc giao hưởng bác học
+- `string orchestra`: dàn nhạc hòa tấu dây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Playing in a symphony orchestra requires high coordination.

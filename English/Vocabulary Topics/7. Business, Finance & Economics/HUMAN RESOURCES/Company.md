@@ -2,8 +2,10 @@
 *n.*
 > /ˈkʌm.pə.ni/
 
+![[company.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A commercial business or organization
@@ -13,7 +15,11 @@
 💡 Cả "cơm" và "phở" đều có trong tin nhắn của "company"
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``join a company`: gia nhập một công ty
+- `join a company`: gia nhập một công ty
+- `company culture`: văn hóa công ty đặc thù
+- `leave a company`: xin nghỉ việc và rời công ty
+- `company policy`: quy chế và nội quy nội bộ công ty
+- `join a reputable company`: gia nhập một công ty có tên tuổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He works for a multinational company.

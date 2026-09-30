@@ -2,8 +2,10 @@
 *noun*
 > /ˈtraʊəl/
 
+![[trowel.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small handheld tool with a flat, pointed blade, used for digging or spreading plaster
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pointing trowel`: chiếc bay chỉ mũi
 - `archaeologist's trowel`: cái bay của nhà khảo cổ
+- `mason's trowel`: bay của thợ xây
+- `scrape with a trowel`: cạo nhẹ lớp đất bằng bay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She used a trowel to plant the flowers.

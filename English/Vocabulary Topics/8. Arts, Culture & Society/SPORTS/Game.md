@@ -2,8 +2,10 @@
 *n.*
 > /ɡeɪm/
 
+![[game.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity or sport that is played according to rules and in which there is a winner and a loser.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `win a game`: thắng một trò chơi / trận đấu
 - `board game`: trò chơi cờ bàn
+- `raise one's game`: nâng tầm phong độ thi đấu
+- `fair game`: mục tiêu hợp pháp / trò chơi công bằng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We played a fun game at the party last night.

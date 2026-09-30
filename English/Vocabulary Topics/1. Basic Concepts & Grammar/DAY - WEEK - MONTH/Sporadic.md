@@ -2,8 +2,10 @@
 *adj*
 > /spəˈrædɪk/
 
+![[sporadic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring at irregular intervals or only in a few places; scattered or isolated.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sporadic outbreaks`: bùng phát rải rác
+- `sporadic bursts`: những đợt bộc phát gián đoạn
+- `sporadic violence`: bạo lực lẻ tẻ
+- `sporadic attendance`: sự tham dự thất thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There was sporadic gunfire throughout the night.

@@ -2,8 +2,10 @@
 *n*
 > /ɪˈred.ən.tɪz.əm/
 
+![[irredentism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A political movement to reclaim territories historically or culturally linked to a nation but under foreign control.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈveəriəɡeɪtɪd/
 
+![[variegated.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exhibiting different colors, especially as irregular patches or streaks.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `variegated leaves`: lá loang lổ sắc màu
 - `variegated foliage`: tán lá có đốm màu
+- `variegated ivy`: dây thường xuân lá loang viền trắng
+- `variegated coloring`: màu sắc loang lổ sặc sỡ
+- `variegated pattern`: họa tiết biến thiên hoa văn phong phú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Variegated plants with white and green leaves are very popular in home decor.

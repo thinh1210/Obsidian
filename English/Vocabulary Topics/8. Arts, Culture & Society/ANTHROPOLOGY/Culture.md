@@ -2,8 +2,10 @@
 *n.*
 > /ˈkʌl.tʃər/
 
+![[culture.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The customs, arts, social institutions, and achievements of a particular nation, people, or other social group.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `popular culture`: văn hóa đại chúng
 - `cultural heritage`: di sản văn hóa
+- `dominant culture`: nền văn hóa chủ đạo / chiếm ưu thế
+- `material culture`: văn hóa vật thể / vật chất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love learning about different cultures when I travel.

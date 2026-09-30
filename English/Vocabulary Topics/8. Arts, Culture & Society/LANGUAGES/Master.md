@@ -2,8 +2,10 @@
 *v.*
 > /ˈmɑːstə(r)/
 
+![[master.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To acquire complete knowledge or skill in something
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `master a language`: làm chủ một ngôn ngữ
+- `master the fundamentals`: nắm vững những kiến thức nền tảng
+- `master a second language`: thành thạo ngôn ngữ thứ hai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He mastered the guitar in two years.

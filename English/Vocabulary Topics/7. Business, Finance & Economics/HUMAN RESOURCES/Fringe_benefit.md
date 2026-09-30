@@ -2,8 +2,10 @@
 *n.*
 > /ˌfrɪndʒ ˈben.ɪ.fɪt/
 
+![[fringe_benefit.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An extra benefit supplementing an employee's money wage (e.g. company car)
@@ -13,7 +15,11 @@
 💡 Cắt "phờ" (fringe) râu để được nhận "ben-lỳ-phít" (benefit) phúc lợi phụ
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``offer fringe benefits`: cung cấp các phúc lợi phụ
+- `offer fringe benefits`: cung cấp các phúc lợi phụ
+- `attractive fringe benefits`: những phúc lợi bổ sung hấp dẫn
+- `enjoy fringe benefits`: thụ hưởng các khoản đãi ngộ ngoài lương
+- `taxable fringe benefits`: các phúc lợi thuộc diện tính thuế thu nhập
+- `comprehensive benefits package`: gói phúc lợi toàn diện cho nhân viên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A company car is a common fringe benefit for senior managers.

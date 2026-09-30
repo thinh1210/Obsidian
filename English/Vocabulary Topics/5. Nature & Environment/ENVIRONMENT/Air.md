@@ -2,8 +2,10 @@
 *n.*
 > /eə(r)/
 
+![[air.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fresh air`: không khí trong lành
 - `air pollution`: ô nhiễm không khí
+- `ambient air`: không khí xung quanh
+- `air quality index`: chỉ số chất lượng không khí (AQI)
+- `clear the air`: giải tỏa bầu không khí căng thẳng / xua tan nghi ngờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Open the window to let some fresh air in.

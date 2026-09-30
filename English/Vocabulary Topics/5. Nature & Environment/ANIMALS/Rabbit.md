@@ -2,8 +2,10 @@
 *noun*
 > /ˈræb.ɪt/
 
+![[rabbit.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small gregarious burrowing plant-eating mammal with long ears and a short tail.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rabbit hole`: hang thỏ / tình huống rắc rối
 - `pet rabbit`: thỏ cưng
+- `pull a rabbit out of a hat`: làm nên điều kỳ diệu bất ngờ
+- `rabbit breeding`: nuôi thỏ sinh sản
+- `quick as a rabbit`: nhanh như thỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The white rabbit hopped quickly across the garden.

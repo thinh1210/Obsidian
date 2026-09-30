@@ -2,8 +2,10 @@
 *n.*
 > /ˌɪn.dʒəˈnjuː.ə.ti/
 
+![[ingenuity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being clever, original, and inventive
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human ingenuity`: sự khéo léo của con người
 - `show ingenuity`: thể hiện sự khéo léo sáng tạo
+- `spark of ingenuity`: tia sáng của trí thông minh sáng tạo
+- `resourceful ingenuity`: sự tài trí tháo vát xoay xở
+- `sheer ingenuity`: hoàn toàn nhờ vào tài trí tuyệt vời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The problem was solved by the sheer ingenuity of the students.

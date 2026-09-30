@@ -2,8 +2,10 @@
 *n.*
 > /rɪˈdʌn.dən.si/
 
+![[redundancy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being no longer needed, leading to layout of workforce
@@ -13,7 +15,11 @@
 💡 "Rì" (re) "dân" (dan) "đần" (dan) "si" (cy) đi vì họ đã trở nên dư thừa
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``voluntary redundancy`: tự nguyện xin nghỉ việc dư thừa
+- `voluntary redundancy`: tự nguyện xin nghỉ việc dư thừa
+- `compulsory redundancy`: sa thải bắt buộc trong diện tinh giản cơ cấu
+- `make someone redundant`: cho ai nghỉ việc do cơ cấu dôi dư không cần tới
+- `redundancy payment`: khoản tiền chi trả đền bù mất việc do cắt giảm
+- `face redundancy`: đứng trước nguy cơ mất việc vì tinh giản biên chế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The merger led to many redundancies in administrative roles.

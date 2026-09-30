@@ -2,8 +2,10 @@
 *noun.*
 > /ˌlaɪəˈbɪləti/
 
+![[liability.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A company's financial debt or obligations that arise during its business operations.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `limited liability`: trách nhiệm hữu hạn
 - `assets and liabilities`: tài sản và nợ phải trả
+- `contingent liability`: khoản nợ tiềm ẩn
+- `current liabilities`: nợ ngắn hạn phải trả
+- `tax liability`: nghĩa vụ nộp thuế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The balance sheet shows the company's total assets and liabilities.

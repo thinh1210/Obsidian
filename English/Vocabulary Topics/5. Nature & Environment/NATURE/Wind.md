@@ -2,8 +2,10 @@
 *Noun*
 > /wɪnd/
 
+![[wind.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The perceptible natural movement of the air currents.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strong wind`: gió mạnh
 - `wind power`: năng lượng gió
+- `catch the wind`: đón gió / giương buồm đón gió
+- `howling wind`: tiếng gió hú gầm rít từng cơn
+- `wind farm`: trang trại phong điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wind blew my hat off.

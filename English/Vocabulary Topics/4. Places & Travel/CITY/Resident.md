@@ -2,8 +2,10 @@
 *n.*
 > /ˈrezɪdənt/
 
+![[resident.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who lives or has their home in a place.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local resident`: cư dân địa phương
+- `permanent resident`: thường trú nhân
+- `local residents`: người dân địa phương
+- `take up residence`: đến định cư, sinh sống (idiom)
+- `resident doctor`: bác sĩ nội trú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am a resident of this city.

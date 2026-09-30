@@ -2,8 +2,10 @@
 *noun*
 > /kənˈtræp.ʃən/
 
+![[contraption.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a machine or device that appears strange or unnecessarily complicated, and often badly made.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bizarre contraption`: cỗ máy kỳ dị
 - `ingenious contraption`: thiết bị kỳ quặc nhưng khéo léo
+- `strange contraption`: cỗ máy kỳ dị
+- `mechanical contraption`: cơ chế máy móc chắp vá
+- `elaborate contraption`: thiết bị phức tạp cầu kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My grandfather built a bizarre contraption to scare away birds.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈrez.ən.əns/
 
+![[resonance.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality in a sound of being deep, full, and reverberating; the power to evoke images, memories, and emotions.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `emotional resonance`: sự cộng hưởng cảm xúc
 - `resonance of the voice`: độ vang của giọng nói
+- `deep resonance`: độ vang sâu thẳm
+- `resonate with the audience`: tạo sự đồng cảm sâu sắc với khán giả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wooden walls of the concert hall give the music great resonance.

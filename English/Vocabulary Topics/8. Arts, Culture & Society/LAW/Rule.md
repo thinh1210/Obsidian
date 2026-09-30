@@ -2,8 +2,10 @@
 *noun*
 > /ruːl/
 
+![[rule.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere.

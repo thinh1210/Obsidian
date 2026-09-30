@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfræzld/
 
+![[frazzled.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing the effects of exhaustion or strain
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feel frazzled`: cảm thấy tả tơi
 - `look frazzled`: trông rã rời
+- `frazzled nerves`: thần kinh căng như dây đàn
+- `look frazzled after a long day`: trông bơ phờ tả tơi sau ngày dài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am completely frazzled after dealing with the kids.

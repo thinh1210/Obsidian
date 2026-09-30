@@ -2,8 +2,10 @@
 *adj*
 > /ɪnˈfɪə.ri.ər/
 
+![[inferior.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lower in rank, status, or quality.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `inferior quality`: chất lượng kém
+- `feel inferior to`: cảm thấy thua kém ai đó
+- `inferior goods`: hàng hóa thứ cấp / chất lượng thấp
+- `inferior complex`: mặc cảm tự ti
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This brand is inferior to that one.

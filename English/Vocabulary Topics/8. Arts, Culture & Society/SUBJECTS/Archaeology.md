@@ -2,8 +2,10 @@
 *noun*
 > /ˌɑːkiˈɒlədʒi/
 
+![[archaeology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.

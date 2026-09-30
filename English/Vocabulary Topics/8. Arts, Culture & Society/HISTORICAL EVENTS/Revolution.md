@@ -2,8 +2,10 @@
 *noun*
 > /ˌrev.əˈluː.ʃən/
 
+![[revolution.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A forcible overthrow of a government or social order, in favor of a new system.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `industrial revolution`: cách mạng công nghiệp
 - `start a revolution`: khởi xướng cuộc cách mạng
+- `cultural revolution`: cuộc cách mạng sâu rộng trong đời sống văn hóa
+- `spark a revolution`: châm ngòi thổi bùng lên ngọn lửa cách mạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The invention of smartphones created a revolution in daily communication.

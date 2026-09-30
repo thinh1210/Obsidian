@@ -2,8 +2,10 @@
 *noun*
 > /raɪt/
 
+![[right.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A moral or legal entitlement to have or obtain something or to act in a certain way.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human rights`: nhân quyền
 - `civil rights`: quyền công dân
+- `constitutional rights`: các quyền được hiến pháp bảo hộ
+- `infringe upon citizens' rights`: xâm phạm các quyền của công dân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Everyone has the right to free education.

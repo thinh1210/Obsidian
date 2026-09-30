@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfriːkwənt/
 
+![[frequent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring or done many times at short intervals
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `frequent visitor`: khách ghé thăm thường xuyên
+- `frequent flyer`: hành khách bay thường xuyên
+- `frequent occurrence`: hiện tượng xảy ra thường xuyên
+- `frequent breaks`: những đợt giải lao thường kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am a frequent traveler.

@@ -2,8 +2,10 @@
 *noun phrase*
 > /ˈpiː.tɒ tjuːb/
 
+![[pitot_tube.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pressure-measuring instrument used to determine an aircraft's airspeed by measuring the dynamic pressure of the air.

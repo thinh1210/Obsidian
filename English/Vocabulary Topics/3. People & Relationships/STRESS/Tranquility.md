@@ -2,8 +2,10 @@
 *n.*
 > /træŋˈkwɪləti/
 
+![[tranquility.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being tranquil; calm
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `peace and tranquility`: hòa bình và tĩnh lặng
 - `enjoy the tranquility`: tận hưởng sự tĩnh lặng
+- `inner tranquility`: sự tĩnh lặng an nhiên trong tâm hồn
+- `disturb the tranquility`: phá vỡ bầu không gian yên tĩnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the tranquility of the countryside.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈvɪdiəʊ/
 
+![[video.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recording of moving visual images.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `promotional video`: video quảng bá
 - `viral video`: video lan truyền nhanh
+- `explainer video`: video diễn giải sản phẩm
+- `short-form video`: video định dạng ngắn thu hút
+- `video marketing`: tiếp thị qua hình thức video
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She posted a short video of her dog on social media.

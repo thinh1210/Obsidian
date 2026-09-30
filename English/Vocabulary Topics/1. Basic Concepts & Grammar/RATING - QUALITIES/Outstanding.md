@@ -2,8 +2,10 @@
 *adj*
 > /ˌaʊtˈstæn.dɪŋ/
 
+![[outstanding.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exceptionally good.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `outstanding achievement`: thành tích xuất sắc
+- `outstanding debt`: khoản nợ chưa thanh toán
+- `outstanding performance`: màn trình diễn xuất chúng
+- `outstanding contribution`: đóng góp kiệt xuất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is an outstanding player.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈmiː.tɪŋ/
 
+![[meeting.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An assembly of people for discussion or planning
@@ -13,7 +15,11 @@
 💡 Đi họp ("meeting") mà cứ "mơ" màng "tin" nhắn của người yêu
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``attend a meeting`: tham gia một cuộc họp
+- `attend a meeting`: tham gia một cuộc họp
+- `schedule a meeting`: ấn định lịch họp làm việc
+- `call a meeting`: triệu tập toàn thể họp gấp
+- `adjourn a meeting`: tuyên bố hoãn hoặc bế mạc cuộc họp
+- `one-on-one meeting`: buổi gặp gỡ trao đổi trực tiếp riêng tư 1-1
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The next meeting will be held on Friday.

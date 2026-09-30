@@ -2,8 +2,10 @@
 *Noun*
 > /təˈpɒɡrəfi/
 
+![[topography.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of the natural and artificial physical features of an area.
@@ -13,8 +15,11 @@
 💡 Top (đỉnh cao) + graph (vẽ bản đồ) -> Đo đạc lập bản đồ địa hình từ đỉnh cao.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `rugged topography`:  địa hình hiểm trở
+- `rugged topography`: địa hình hiểm trở
 - `topography map`: bản đồ địa hình
+- `varied topography`: địa hình biến đổi đa dạng
+- `influence of topography`: ảnh hưởng của yếu tố địa hình
+- `mountainous topography`: địa hình đồi núi hiểm trở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The rugged topography of the area makes road construction difficult.

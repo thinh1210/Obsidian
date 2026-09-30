@@ -2,8 +2,10 @@
 *n.*
 > /ˈedɪtɪŋ/
 
+![[editing.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of selecting and preparing written, visual, audible, or photographic material to create a cohesive film
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `video editing`: dựng phim, biên tập video
 - `editing suite`: phòng dựng phim
+- `film editing`: kỹ thuật cắt ghép dựng phim
+- `continuity editing`: phương pháp dựng phim giữ mạch liên tục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The film's editing was criticized for being too choppy.

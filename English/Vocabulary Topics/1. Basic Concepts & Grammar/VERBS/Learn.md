@@ -2,8 +2,10 @@
 *Verb*
 > /lɜːn/
 
+![[learn.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To get knowledge or skill in a new subject or activity.
@@ -13,7 +15,10 @@
 💡 Lên (learn) lớp để học.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `learn about`: học về\n- `learn by heart`: học thuộc lòng
+- `learn about`: học về
+- `learn by heart`: học thuộc lòng
+- `learn a lesson`: rút ra bài học xương máu
+- `never too late to learn`: không bao giờ là quá muộn để học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I learn English.

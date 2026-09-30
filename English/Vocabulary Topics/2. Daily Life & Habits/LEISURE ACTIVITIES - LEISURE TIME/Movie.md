@@ -2,8 +2,10 @@
 *n*
 > /ˈmuːvi/
 
+![[movie.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A story or event recorded by a camera as a set of moving images.
@@ -13,7 +15,11 @@
 💡 Movie từ chữ move (chuyển động).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `watch a movie`: xem phim\n- `go to the movies`: đi xem phim
+- `watch a movie`: xem phim
+- `go to the movies`: đi xem phim
+- `blockbuster movie`: phim bom tấn
+- `movie buff`: người cuồng phim ảnh
+- `watch a movie trailer`: xem đoạn giới thiệu phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's watch a movie tonight.

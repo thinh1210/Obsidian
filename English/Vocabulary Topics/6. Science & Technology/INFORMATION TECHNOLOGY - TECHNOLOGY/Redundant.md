@@ -2,8 +2,10 @@
 *adjective*
 > /rɪˈdʌn.dənt/
 
+![[redundant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Especially of a word, phrase, etc. unnecessary because it is more than is needed (in tech: having backup systems).

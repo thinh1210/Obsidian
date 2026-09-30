@@ -2,8 +2,10 @@
 *n.*
 > /ˈtreɪlə(r)/
 
+![[trailer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of extracts from a movie or television program, used to advertise it in advance
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `official trailer`: trailer chính thức
 - `teaser trailer`: trailer nhá hàng
+- `trailer breakdown`: video phân tích mổ xẻ đoạn trailer
+- `release a trailer`: chính thức tung ra đoạn phim quảng bá ngắn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The teaser trailer generated a lot of hype online.

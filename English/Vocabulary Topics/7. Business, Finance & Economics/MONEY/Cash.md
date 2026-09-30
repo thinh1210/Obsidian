@@ -2,8 +2,10 @@
 *noun*
 > /kæʃ/
 
+![[cash.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money in the form of coins or notes rather than checks or credit cards
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay in cash`: thanh toán bằng tiền mặt
+- `cold hard cash`: tiền mặt trao tận tay
+- `cash flow`: dòng lưu chuyển tiền tệ
+- `cash on delivery (COD)`: trả tiền mặt ngay khi nhận hàng
+- `strapped for cash`: kẹt tiền / túng thiếu tiền mặt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you have any cash on you?

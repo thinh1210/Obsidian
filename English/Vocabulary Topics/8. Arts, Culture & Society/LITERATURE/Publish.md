@@ -2,8 +2,10 @@
 *verb*
 > /ˈpʌb.lɪʃ/
 
+![[publish.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Prepare and issue a book, journal, or other work for public sale.

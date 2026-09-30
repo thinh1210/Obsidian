@@ -2,8 +2,10 @@
 *verb*
 > /prəʊˈkræstɪneɪt/
 
+![[procrastinate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Delay or postpone action; put off doing something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tend to procrastinate`: có xu hướng trì hoãn
+- `procrastinate on`: trì hoãn làm việc gì
+- `chronic procrastinator`: người có thói quen trì hoãn kinh niên
+- `procrastinate over decisions`: chần chừ do dự đưa ra quyết định
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Stop procrastinating and get to work!

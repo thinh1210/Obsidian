@@ -2,8 +2,10 @@
 *adjective*
 > /ɪkˈstɪŋkt/
 
+![[extinct.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having no living members; no longer in existence.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go extinct`: trở nên tuyệt chủng
 - `functionally extinct`: tuyệt chủng về mặt chức năng
+- `become extinct`: trở nên tuyệt chủng
+- `on the brink of extinction`: trên bờ vực tuyệt chủng
+- `extinct volcano`: núi lửa đã tắt hoàn toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Dinosaurs became extinct millions of years ago.

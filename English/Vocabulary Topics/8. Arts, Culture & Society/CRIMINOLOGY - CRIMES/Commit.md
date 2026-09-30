@@ -2,8 +2,10 @@
 *verb*
 > /kəˈmɪt/
 
+![[commit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To do something illegal or something that is considered wrong
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commit a crime`: phạm tội
 - `commit suicide`: tự tử
+- `commit perjury`: phạm tội khai man trước tòa
+- `commit fraud`: thực hiện hành vi lừa đảo chiếm đoạt tài sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* People who commit crimes should be punished.

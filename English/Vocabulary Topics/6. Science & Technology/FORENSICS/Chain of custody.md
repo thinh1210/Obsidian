@@ -2,8 +2,10 @@
 *noun phrase*
 > /tʃeɪn əv ˈkʌs.tə.di/
 
+![[chain_of_custody.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The documented sequence of control, transfer, and analysis of evidence.

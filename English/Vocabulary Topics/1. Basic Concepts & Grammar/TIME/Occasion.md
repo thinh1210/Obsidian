@@ -2,8 +2,10 @@
 *n.*
 > /əˈkeɪʒn/
 
+![[occasion.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular time or instance of an event
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `special occasion`: dịp đặc biệt
+- `rise to the occasion`: vươn lên thể hiện tốt trong hoàn cảnh thử thách
+- `on rare occasions`: vào những dịp hiếm hoi
+- `mark the occasion`: kỷ niệm đánh dấu sự kiện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I wear this dress on special occasions.

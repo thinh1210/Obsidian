@@ -2,8 +2,10 @@
 *n.*
 > /ˈsev.ər.əns/
 
+![[severance.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The ending of an employment contract; compensation paid upon termination
@@ -13,7 +15,10 @@
 💡 "Sẽ" (se) "vơ" (ver) "rân" (rence) đống tiền trợ cấp thôi việc rồi về quê nuôi cá
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``severance pay`: khoản trợ cấp thôi việc
+- `severance pay`: khoản trợ cấp thôi việc
+- `receive severance`: lĩnh khoản tiền hỗ trợ thôi việc
+- `severance agreement`: văn bản thỏa thuận quyền lợi khi nghỉ việc
+- `generous severance package`: gói trợ cấp chấm dứt hợp đồng rất hậu hĩnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The laid-off workers were offered three months of severance pay.

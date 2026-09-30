@@ -2,8 +2,10 @@
 *n.*
 > /ˈmel.ə.di/
 
+![[melody.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of single notes that is musically satisfying; a tune.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `catchy melody`: giai điệu bắt tai
 - `sweet melody`: giai điệu ngọt ngào
+- `haunting melody`: giai điệu da diết khó quên
+- `carry the melody`: giữ giai điệu chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* That song has a very catchy melody that I can't get out of my head.

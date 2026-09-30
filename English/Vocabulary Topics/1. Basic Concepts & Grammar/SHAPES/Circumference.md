@@ -2,8 +2,10 @@
 *n.*
 > /səˈkʌm.fər.əns/
 
+![[circumference.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The enclosing boundary of a curved geometric figure, especially a circle.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Calculate the circumference`: Tính chu vi
 - `The circumference of the earth`: Chu vi trái đất
+- `outer circumference`: chu vi bên ngoài
+- `measure the circumference`: đo chu vi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The circumference of the tree is 2 meters.

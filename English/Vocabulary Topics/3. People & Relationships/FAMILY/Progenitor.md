@@ -2,8 +2,10 @@
 *noun*
 > /prəʊˈdʒen.ɪ.tər/
 
+![[progenitor.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who first thinks of something and causes it to happen, or an ancestor.

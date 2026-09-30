@@ -2,8 +2,10 @@
 *noun*
 > /ˈvæs.əl/
 
+![[vassal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A holder of land by feudal tenure on conditions of homage and allegiance; a person or country in a subordinate position to another.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `vassal state`: nước chư hầu
 - `vassal lord`: lãnh chúa chư hầu
+- `feudal vassal`: lãnh chúa chư hầu trong thời kỳ phong kiến
+- `pledge allegiance as a vassal`: tuyên thệ trung thành tuyệt đối với tư cách chư hầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In the playground, the bully treated the younger kids as his vassals.

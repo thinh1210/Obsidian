@@ -2,8 +2,10 @@
 *v.*
 > /kəʊp/
 
+![[cope.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To deal successfully with something difficult
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cope with`: đương đầu với
 - `learn to cope`: học cách đương đầu
+- `cope under pressure`: chịu đựng xoay xở tốt dưới áp lực
+- `coping strategy`: chiến lược thích nghi đối phó
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* How do you cope with stress?

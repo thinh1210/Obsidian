@@ -2,8 +2,10 @@
 *adjective*
 > /ˈɡɪlti/
 
+![[guilty.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Responsible for breaking a law or doing something wrong
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plead guilty`: nhận tội
 - `found guilty`: bị kết tội
+- `guilty verdict`: bản án tuyên bố bị cáo có tội
+- `presumed guilty`: bị xem mặc định là có tội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The jury found him guilty of the crime.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈdɪstrɪkt/
 
+![[district.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An area of a country or city, especially one characterized by a particular feature or activity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `business district`: khu tài chính, khu kinh doanh
 - `residential district`: khu dân cư
+- `central business district`: khu trung tâm tài chính thương mại (CBD)
+- `school district`: khu vực thuộc tuyến trường học tốt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The central business district is very crowded during rush hour.

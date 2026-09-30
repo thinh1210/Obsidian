@@ -2,8 +2,10 @@
 *adj.*
 > /ˈbʌslɪŋ/
 
+![[bustling.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Full of energetic and noisy activity.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bustling city`: thành phố nhộn nhịp
+- `bustling market`: khu chợ nhộn nhịp tấp nập
+- `bustling streets`: những con phố đông đúc xe cộ
+- `bustling with activity`: nhộn nhịp hối hả rộn ràng sinh khí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the bustling streets.

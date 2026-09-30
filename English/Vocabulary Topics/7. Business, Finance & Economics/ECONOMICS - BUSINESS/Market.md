@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɑːrkɪt/
 
+![[market.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a place where people go to buy and sell things; or the business of buying and selling a particular product.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `free market`: thị trường tự do
 - `target market`: thị trường mục tiêu
+- `bear market`: thị trường giá xuống (thị trường gấu)
+- `bull market`: thị trường giá lên (thị trường bò tót)
+- `market saturation`: sự bão hòa của thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I usually buy fresh vegetables at the local market on Sunday mornings.

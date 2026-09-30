@@ -2,8 +2,10 @@
 *verb*
 > /ˈlɪs.ən/
 
+![[listen.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Give one's attention to a sound.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `listen carefully`: nghe cẩn thận
+- `listen attentively`: chăm chú lắng nghe từng lời
+- `lend a sympathetic ear`: lắng nghe với sự thấu cảm chân thành (idiom)
+- `listen with an open mind`: lắng nghe với tâm thế cởi mở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Listen to me.

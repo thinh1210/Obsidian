@@ -2,8 +2,10 @@
 *Noun*
 > /ɡaɪd/
 
+![[guide.mp3]]
+
 ---
-**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose job is showing a place to visitors.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tour guide`: hướng dẫn viên du lịch
 - `travel guide`: sách/người hướng dẫn du lịch
+- `local guide`: hướng dẫn viên địa phương nhiệt tình am hiểu
+- `comprehensive travel guide`: sách hướng dẫn du lịch chi tiết toàn diện
+- `audio guide app`: ứng dụng thuyết minh du lịch tự động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our guide was very friendly.

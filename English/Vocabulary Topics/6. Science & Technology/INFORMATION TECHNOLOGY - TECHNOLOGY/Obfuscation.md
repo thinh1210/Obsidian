@@ -2,8 +2,10 @@
 *noun*
 > /ˌɒb.fʌsˈkeɪ.ʃən/
 
+![[obfuscation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C2 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of making something deliberately unclear, especially code to prevent reverse engineering.

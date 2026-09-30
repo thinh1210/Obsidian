@@ -2,8 +2,10 @@
 *v*
 > /baɪ/
 
+![[buy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To get something by paying money
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buy clothes`: mua quần áo
+- `buy in bulk`: mua số lượng lớn để được giá sỉ
+- `buy on impulse`: mua sắm ngẫu hứng theo cảm xúc
+- `buy into an idea`: tin vào / chấp nhận một quan điểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I buy food.

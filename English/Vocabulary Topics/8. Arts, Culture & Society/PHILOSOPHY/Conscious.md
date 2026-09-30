@@ -2,8 +2,10 @@
 *adj.*
 > /ˈkɒn.ʃəs/
 
+![[conscious.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Aware of and responding to one's surroundings; awake.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `become conscious`: trở nên tỉnh táo, nhận thức được
 - `self-conscious`: tự ý thức về bản thân (ngượng ngùng)
+- `stream of consciousness`: dòng ý thức
+- `unconscious mind`: tâm trí vô thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He became conscious of someone watching him.

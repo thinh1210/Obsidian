@@ -2,8 +2,10 @@
 *noun*
 > /ˈlæŋ.ɡwɪdʒ/
 
+![[language.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a system of communication consisting of sounds, words, and grammar

@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɑːsl/
 
+![[castle.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A large strong building, built in the past by a ruler or important person to protect the people inside from attack
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `medieval castle`: lâu đài trung cổ
 - `sand castle`: lâu đài cát
+- `fortified castle`: lâu đài kiên cố phòng thủ
+- `castle ramparts`: tường thành lũy của lâu đài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The children are building a sand castle on the beach.

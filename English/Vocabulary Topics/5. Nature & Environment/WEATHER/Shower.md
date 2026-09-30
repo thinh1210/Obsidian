@@ -2,8 +2,10 @@
 *noun*
 > /ˈʃaʊə(r)/
 
+![[shower.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A brief period of rain, sometimes heavy
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rain shower`: cơn mưa rào
+- `baby shower`: tiệc mừng sắp sinh em bé
+- `scattered showers`: mưa rào rải rác vài nơi
+- `shower with gifts and praise`: tắm mình trong quà tặng và lời ngợi khen
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We got caught in a sudden rain shower.

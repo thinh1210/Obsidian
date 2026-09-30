@@ -2,8 +2,10 @@
 *Noun*
 > /ˈspeɪs.krɑːft/
 
+![[spacecraft.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle used for traveling in space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unmanned spacecraft`: tàu vũ trụ không người lái
 - `spacecraft docking`: sự kết nối tàu vũ trụ
+- `crewed spacecraft`: tàu vũ trụ có người lái
+- `launch a spacecraft`: phóng tàu vũ trụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The spacecraft returned to Earth after a year in space.

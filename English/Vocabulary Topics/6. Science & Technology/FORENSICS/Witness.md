@@ -2,8 +2,10 @@
 *noun / verb*
 > /ˈwɪt.nəs/
 
+![[witness.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sees an event happen; to see something happen.

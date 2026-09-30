@@ -2,8 +2,10 @@
 *n.*
 > /ˈrek.tæŋ.ɡəl/
 
+![[rectangle.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape with four straight sides and four right angles, with unequal adjacent sides.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A long rectangle`: Một hình chữ nhật dài
 - `Rectangle shape`: Hình chữ nhật
+- `golden rectangle`: hình chữ nhật vàng (tỷ lệ vàng)
+- `perimeter of a rectangle`: chu vi hình chữ nhật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My phone is a rectangle.

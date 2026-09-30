@@ -2,8 +2,10 @@
 *noun*
 > /ˌkuː deɪˈtɑː/
 
+![[coup_détat.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden, violent, and unlawful seizure of power from a government.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stage a coup d'état`: tiến hành đảo chính
 - `military coup d'état`: cuộc đảo chính quân sự
+- `thwart a coup d'état`: ngăn chặn một cuộc đảo chính
+- `bloodless coup d'état`: cuộc đảo chính không đổ máu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The army staged a coup d'état and took control of the government.

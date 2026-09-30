@@ -2,8 +2,10 @@
 *noun*
 > /ˈriːteɪl/
 
+![[retail.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sale of goods to the public in relatively small quantities for use or consumption rather than for resale
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `retail price`: giá bán lẻ
 - `retail store`: cửa hàng bán lẻ
+- `retail outlet`: điểm cửa hàng bán lẻ trực tiếp
+- `retail chain`: chuỗi hệ thống các cửa hàng bán lẻ
+- `online retailing`: hoạt động bán lẻ qua mạng điện tử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The retail price of this jacket is sixty dollars.

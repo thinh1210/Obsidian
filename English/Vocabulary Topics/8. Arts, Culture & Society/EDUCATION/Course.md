@@ -2,8 +2,10 @@
 *n.*
 > /kɔːs/
 
+![[course.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of lectures or lessons in a particular subject
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take a course`: tham gia một khóa học
 - `online course`: khóa học trực tuyến
+- `crash course`: khóa học đào tạo cấp tốc
+- `enrol on a course`: đăng ký ghi danh một khóa học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He registered for a photography course.

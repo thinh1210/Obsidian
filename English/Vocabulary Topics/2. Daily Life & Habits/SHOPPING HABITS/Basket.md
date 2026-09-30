@@ -2,8 +2,10 @@
 *n*
 > /ˈbɑː.skɪt/
 
+![[basket.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A container for holding things
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shopping basket`: giỏ mua sắm
+- `add to basket`: thêm vào giỏ hàng (trực tuyến)
+- `put all one's eggs in one basket`: dồn hết tiền bạc/hy vọng vào một nơi
+- `fill a shopping basket`: lấp đầy giỏ đồ mua sắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My basket is full.

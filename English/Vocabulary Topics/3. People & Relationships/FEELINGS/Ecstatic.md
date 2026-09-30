@@ -2,8 +2,10 @@
 *adj*
 > /ɪkˈstætɪk/
 
+![[ecstatic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing overwhelming happiness.

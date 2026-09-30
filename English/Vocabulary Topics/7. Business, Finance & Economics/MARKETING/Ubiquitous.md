@@ -2,8 +2,10 @@
 *adjective*
 > /juːˈbɪkwɪtəs/
 
+![[ubiquitous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Media | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Academic/Media | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Present, appearing, or found everywhere
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ubiquitous brand`: thương hiệu có mặt khắp nơi
 - `ubiquitous technology`: cộng nghệ phổ biến khắp nơi
+- `ubiquitous marketing`: tiếp thị phủ sóng rộng khắp đa điểm chạm
+- `ubiquitous advertising`: quảng cáo xuất hiện nhan nhản ở khắp mọi nơi
+- `ubiquitous presence`: sự hiện diện phổ biến ở mọi phương diện đời sống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Plastic waste has become ubiquitous in our oceans and rivers.

@@ -2,8 +2,10 @@
 *noun*
 > /əˌkredɪˈteɪʃn/
 
+![[accreditation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action or process of officially recognizing someone or something as having a particular status or being qualified to perform a particular activity.

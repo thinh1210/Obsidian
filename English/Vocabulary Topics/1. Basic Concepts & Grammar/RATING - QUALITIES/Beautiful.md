@@ -2,8 +2,10 @@
 *adj*
 > /ˈbjuː.tɪ.fəl/
 
+![[beautiful.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasing the senses or mind aesthetically.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a beautiful scenery`: một phong cảnh đẹp
+- `breathtakingly beautiful`: đẹp đến nín thở
+- `beautiful smile`: nụ cười rạng rỡ xinh đẹp
+- `beautiful friendship`: tình bạn đẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a beautiful smile.

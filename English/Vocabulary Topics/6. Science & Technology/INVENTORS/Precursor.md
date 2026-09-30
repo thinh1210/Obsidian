@@ -2,8 +2,10 @@
 *n.*
 > /ˌpriːˈkɜː.sər/
 
+![[precursor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Tầm vóc thời đại & Chuyển giao thế hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing that comes before another of the same kind; a forerunner
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `immediate precursor`: tiền thân trực tiếp
 - `precursor to the modern`: tiền thân của cái hiện đại
+- `early precursor`: tiền thân xuất hiện từ sớm
+- `precursor condition`: điều kiện tiền đề tạo tiền đề
+- `direct precursor`: tiền thân trực tiếp của
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The typewriter was the precursor to the modern computer keyboard.

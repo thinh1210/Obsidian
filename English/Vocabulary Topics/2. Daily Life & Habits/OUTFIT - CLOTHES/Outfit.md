@@ -2,8 +2,10 @@
 *noun*
 > /ˈaʊt.fɪt/
 
+![[outfit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of clothes worn together.
@@ -13,7 +15,10 @@
 💡 Outfit -> Áo tịt -> Mặc bộ trang phục này áo tịt ngòi luôn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a stunning outfit: một bộ đồ lộng lẫy`
+- `a stunning outfit`: một bộ đồ lộng lẫy
+- `complete an outfit`: hoàn thiện set đồ với phụ kiện
+- `everyday outfit`: trang phục mặc hàng ngày
+- `stylish outfit`: bộ cánh phong cách, bắt mắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought a new outfit for the party.

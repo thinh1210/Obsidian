@@ -2,8 +2,10 @@
 *noun*
 > /ˈpedəɡɒdʒi/
 
+![[pedagogy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The method and practice of teaching, especially as an academic subject or theoretical concept.

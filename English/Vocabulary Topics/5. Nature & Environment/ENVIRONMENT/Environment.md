@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈvaɪrənmənt/
 
+![[environment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The surroundings or conditions in which a person, animal, or plant lives or operates.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `protect the environment`: bảo vệ môi trường
 - `natural environment`: môi trường tự nhiên
+- `harsh environment`: môi trường khắc nghiệt
+- `environmentally friendly`: thân thiện với môi trường
+- `working environment`: môi trường làm việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We must work together to protect the environment.

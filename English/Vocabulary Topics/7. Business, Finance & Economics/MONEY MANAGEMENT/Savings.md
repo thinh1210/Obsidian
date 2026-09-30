@@ -2,8 +2,10 @@
 *Noun*
 > /ˈseɪvɪŋz/
 
+![[savings.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money saved, especially through a bank or official scheme.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `life savings`: tiền tiết kiệm cả đời
 - `savings account`: tài khoản tiết kiệm
+- `high-yield savings account`: tài khoản tiết kiệm có mức lãi suất hấp dẫn
+- `dip into savings`: buộc phải rút tiền tiết kiệm ra tiêu
+- `deplete one's savings`: làm hao mòn khánh kiệt tiền tiết kiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She used her savings to travel around Europe after graduating.

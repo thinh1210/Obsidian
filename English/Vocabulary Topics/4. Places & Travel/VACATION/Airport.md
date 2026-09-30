@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɛrpɔrt/
 
+![[airport.mp3]]
+
 ---
-**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where airplanes take off and land.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to the airport`: đến sân bay
 - `international airport`: sân bay quốc tế
+- `airport shuttle`: xe đưa đón sân bay tận nơi
+- `airport duty-free shop`: cửa hàng miễn thuế trong sân bay
+- `airport lounge`: phòng chờ sang trọng tại phi trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We arrived at the airport early.

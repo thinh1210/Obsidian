@@ -2,8 +2,10 @@
 *noun*
 > /ˌsʌbrəˈɡeɪʃn/
 
+![[subrogation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The substitution of one party for another in a legal claim, especially allowing an insurer to pursue a third party after paying a claim

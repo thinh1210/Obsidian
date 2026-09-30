@@ -2,8 +2,10 @@
 *noun*
 > /ˈtaɪ.təl/
 
+![[title.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The name of a book, composition, or other artistic work.

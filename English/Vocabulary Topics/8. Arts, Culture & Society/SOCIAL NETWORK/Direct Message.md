@@ -2,8 +2,10 @@
 *noun*
 > /dəˈrekt ˈmesɪdʒ/
 
+![[direct_message.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A private message sent between users on a social media platform
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `send a direct message`: gửi tin nhắn trực tiếp
+- `slide into DMs`: nhắn tin riêng tiếp cận ai
+- `check one's DMs`: kiểm tra tin nhắn riêng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Just send me a DM on Instagram if you want to hang out.

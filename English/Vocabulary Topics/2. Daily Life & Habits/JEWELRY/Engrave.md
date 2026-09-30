@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈɡreɪv/
 
+![[engrave.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** JEWELRY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cut or carve a design on a hard surface.
@@ -13,7 +15,10 @@
 💡 In (En) gờ (grave) lên để chạm khắc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `engrave a name: khắc tên`
+- `engrave a name`: khắc tên
+- `engrave initials`: khắc chữ cái viết tắt tên
+- `engraved inside the ring`: được khắc bên trong lòng nhẫn
+- `laser engrave`: khắc chữ bằng tia laser
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They engraved their initials.

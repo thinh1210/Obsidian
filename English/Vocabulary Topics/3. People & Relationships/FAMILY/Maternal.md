@@ -2,8 +2,10 @@
 *Adj*
 > /məˈtɜː.nəl/
 
+![[maternal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Behaving or feeling in the way that a mother does towards her child; related to mother's side.

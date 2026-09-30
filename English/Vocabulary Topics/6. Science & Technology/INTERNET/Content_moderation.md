@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒn.tent ˌmɒd.əˈreɪ.ʃən/
 
+![[content_moderation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of monitoring and applying rules to user-generated content on online platforms to remove harmful, illegal, or inappropriate material.

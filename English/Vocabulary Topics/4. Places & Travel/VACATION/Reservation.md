@@ -2,8 +2,10 @@
 *Noun*
 > /ˌrɛzərˈveɪʃən/
 
+![[reservation.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement in which something such as a seat on an aircraft or a table at a restaurant is kept for you.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make a reservation`: đặt chỗ
 - `confirm a reservation`: xác nhận đặt chỗ
+- `hotel reservation`: phiếu đặt phòng khách sạn
+- `advance dinner reservation`: đặt bàn ăn tối từ trước
+- `cancel a reservation`: hủy lệnh đặt chỗ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I made a reservation at the restaurant.

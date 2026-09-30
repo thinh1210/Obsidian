@@ -2,8 +2,10 @@
 *Noun*
 > /stɑːr/
 
+![[star.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A luminous point in the night sky that is a large, remote incandescent body like the sun.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shooting star`: sao băng
 - `bright star`: ngôi sao sáng
+- `giant star`: ngôi sao khổng lồ
+- `white dwarf star`: sao lùn trắng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Look at that bright star in the sky!

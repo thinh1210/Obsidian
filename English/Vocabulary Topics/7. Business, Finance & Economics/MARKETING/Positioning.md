@@ -2,8 +2,10 @@
 *noun*
 > /pəˈzɪʃənɪŋ/
 
+![[positioning.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of creating an image or identity of a product or brand in the minds of the target audience
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brand positioning`: định vị thương hiệu
 - `market positioning`: định vị thị trường
+- `repositioning`: tái định vị lại sản phẩm để bắt kịp xu thế mới
+- `positioning statement`: bản tuyên ngôn định vị thương hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company's clever positioning made their basic watch look like a luxury item.

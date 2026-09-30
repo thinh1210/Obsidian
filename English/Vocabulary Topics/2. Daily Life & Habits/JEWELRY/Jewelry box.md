@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒuː.əl.ri bɒks/
 
+![[jewelry_box.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A box for storing jewelry.
@@ -13,7 +15,10 @@
 💡 Hộp (box) trang sức (jewelry).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wooden jewelry box: hộp trang sức gỗ`
+- `wooden jewelry box`: hộp trang sức gỗ
+- `music jewelry box`: hộp nhạc đựng trang sức
+- `velvet-lined jewelry box`: hộp nữ trang bọc nhung cao cấp
+- `antique jewelry box`: hộp đựng trang sức cổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She put rings in the box.

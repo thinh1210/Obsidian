@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɑːs.pɔːt/
 
+![[passport.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official document issued by the government that identifies you and allows you to travel abroad.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈtaɪrənt/
 
+![[tyrant.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cruel and oppressive ruler
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ruthless tyrant`: bạo chúa tàn nhẫn
 - `depose a tyrant`: lật đổ bạo chúa
+- `overthrow a tyrant`: lật đổ một tên bạo chúa
+- `tyrant's grip`: sự kìm kẹp của bạo chúa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The citizens suffered greatly under the rule of the tyrant.

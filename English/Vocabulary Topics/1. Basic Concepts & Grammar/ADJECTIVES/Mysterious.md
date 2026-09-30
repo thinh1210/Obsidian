@@ -2,8 +2,10 @@
 *adj.*
 > /mɪˈstɪəriəs/
 
+![[mysterious.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Difficult or impossible to understand, explain, or identify
@@ -13,7 +15,10 @@
 💡 Mít tơ (mysterious) bí ẩn
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``mysterious circumstances`: hoàn cảnh bí ẩn`
+- `mysterious circumstances`: hoàn cảnh bí ẩn
+- `mysterious disappearance`: sự biến mất bí ẩn
+- `mysterious stranger`: người lạ mặt bí hiểm
+- `remain mysterious`: vẫn còn là một bí ẩn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mysterious stranger.

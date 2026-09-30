@@ -2,8 +2,10 @@
 *n.*
 > /ˈraɪt.ɒf/
 
+![[write_off.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cancellation of an item from an account as a loss or debt that cannot be recovered

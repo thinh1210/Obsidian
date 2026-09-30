@@ -2,8 +2,10 @@
 *n.*
 > /ˌlaɪəˈbɪlɪti/
 
+![[liability.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being legally responsible for something, or an amount of money that a company owes

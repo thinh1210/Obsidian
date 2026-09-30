@@ -2,8 +2,10 @@
 *noun*
 > /ˈsʌnɡlɑːsɪz/
 
+![[sunglasses.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Glasses with dark lenses that you wear to protect your eyes from the sun.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of sunglasses`: một cặp kính râm
+- `polarized sunglasses`: kính râm phân cực chống chói
+- `aviator sunglasses`: kính râm phi công
+- `perch sunglasses on head`: cài kính râm lên đầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She put on her sunglasses as she stepped outside.

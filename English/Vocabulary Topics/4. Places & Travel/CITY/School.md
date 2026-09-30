@@ -2,8 +2,10 @@
 *n.*
 > /skuːl/
 
+![[school.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where children go to learn.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to school`: đi học
+- `elementary school`: trường tiểu học
+- `high school`: trường trung học phổ thông
+- `drop out of school`: bỏ học giữa chừng (phrasal verb)
+- `school of thought`: trường phái tư tưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children go to school.

@@ -2,8 +2,10 @@
 *adj*
 > /əˈmeɪ.zɪŋ/
 
+![[amazing.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing great surprise or wonder; astonishing.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `an amazing experience`: một trải nghiệm tuyệt vời
+- `amazing resilience`: khả năng hồi phục đáng kinh ngạc
+- `amazing transformation`: sự biến đổi kỳ diệu
+- `truly amazing`: thực sự tuyệt vời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The view from here is amazing.

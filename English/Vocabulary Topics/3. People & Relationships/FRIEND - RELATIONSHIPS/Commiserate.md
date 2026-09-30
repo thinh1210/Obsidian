@@ -2,8 +2,10 @@
 *verb*
 > /kəˈmɪz.ə.reɪt/
 
+![[commiserate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Express or feel sympathy or pity; sympathize.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commiserate with someone`: đồng cảm với ai đó
+- `commiserate with a friend`: chia buồn cảm thông với người bạn
+- `commiserate over failures`: cùng nhau than thở sẻ chia nỗi buồn
+- `offer commiseration`: bày tỏ niềm thương cảm sâu sắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We commiserated with her over the loss of her job.

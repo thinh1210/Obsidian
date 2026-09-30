@@ -2,8 +2,10 @@
 *verb*
 > /rəʊˈteɪt/
 
+![[rotate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spin on an axis.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rotate on an axis`: quay quanh một trục
 - `rotate counterclockwise`: quay ngược chiều kim đồng hồ
+- `rotate around a center`: quay quanh một tâm
+- `rotation period`: chu kỳ tự quay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The fan rotates to keep the room cool.

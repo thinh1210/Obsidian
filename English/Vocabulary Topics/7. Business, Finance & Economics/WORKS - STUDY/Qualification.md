@@ -2,8 +2,10 @@
 *n.*
 > /ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/
 
+![[qualification.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A quality, skill, or credential that fits a person for a position
@@ -13,8 +15,11 @@
 💡 Quá lì phi (qualification) bằng cấp năng lực mới chứng minh được.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``academic qualification`: bằng cấp học thuật`
-- ``job qualification`: tiêu chuẩn công việc`
+- `academic qualification`: bằng cấp học thuật
+- `job qualification`: tiêu chuẩn công việc
+- `academic qualifications`: các bằng cấp học vị học thuật
+- `gain professional qualifications`: đạt được các chứng chỉ năng lực chuyên môn
+- `meet the qualifications`: đáp ứng trọn vẹn các tiêu chuẩn tuyển chọn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has all the right qualifications for the job.

@@ -2,8 +2,10 @@
 *Adjective*
 > /ˌmʌltiˈkʌltʃərəl/
 
+![[multicultural.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or constituting several cultural or ethnic groups within a society.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Multicultural society`: Xã hội đa văn hóa
+- `multicultural environment`: môi trường đa văn hóa
+- `multicultural city`: thành phố đa văn hóa
+- `embrace a multicultural society`: đón nhận xã hội đa văn hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* London is a very multicultural city.

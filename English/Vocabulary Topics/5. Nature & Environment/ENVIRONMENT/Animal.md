@@ -2,8 +2,10 @@
 *n.*
 > /ˈænɪml/
 
+![[animal.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wild animal`: động vật hoang dã
 - `domestic animal`: động vật nuôi
+- `animal welfare`: phúc lợi động vật
+- `endangered animal`: loài động vật có nguy cơ tuyệt chủng
+- `animal sanctuary`: khu bảo tồn động vật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lions are wild animals.

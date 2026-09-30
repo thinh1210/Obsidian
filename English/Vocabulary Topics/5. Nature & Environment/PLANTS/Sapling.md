@@ -2,8 +2,10 @@
 *noun*
 > /ˈsæplɪŋ/
 
+![[sapling.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A young tree, especially one with a slender trunk.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plant a sapling`: trồng một cây non
 - `oak sapling`: cây sồi non
+- `young sapling`: cây thân gỗ còn non
+- `nourish saplings`: chăm bón các cây con
+- `sapling nursery`: vườn ươm cây thân gỗ non
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We planted several maple saplings in the garden.

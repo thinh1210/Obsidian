@@ -2,8 +2,10 @@
 *adj.*
 > /ˈpɜːmənənt/
 
+![[permanent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** TIME
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting or intended to last or remain unchanged indefinitely
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `permanent address`: địa chỉ thường trú
+- `permanent resident`: thường trú nhân
+- `permanent damage`: tổn hại vĩnh viễn không thể hồi phục
+- `permanent mark`: dấu ấn vĩnh viễn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am looking for a permanent job.

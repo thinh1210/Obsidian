@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈdɔːs.mənt/
 
+![[endorsement.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of giving one's public approval.
@@ -13,7 +15,10 @@
 💡 Endorse + ment
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Product endorsement: Quảng cáo sản phẩm`
+- `Product endorsement`: Quảng cáo sản phẩm
+- `celebrity endorsement`: sự quảng bá của người nổi tiếng
+- `endorsement deal`: hợp đồng quảng cáo đại sứ thương hiệu
+- `ringing endorsement`: lời tán thành ủng hộ nhiệt liệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Celebrity endorsement.

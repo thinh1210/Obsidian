@@ -2,8 +2,10 @@
 *noun*
 > /ˌɑːpəˈzɪʃn/
 
+![[opposition.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main political party or parties opposing the government.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `opposition party`: đảng đối lập
 - `leader of the opposition`: lãnh đạo phe đối lập
+- `fierce opposition`: sự chống đối dữ dội
+- `crush the opposition`: đè bẹp phe đối lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The opposition has called for the Prime Minister's resignation.

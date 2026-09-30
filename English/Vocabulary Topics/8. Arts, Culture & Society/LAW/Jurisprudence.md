@@ -2,8 +2,10 @@
 *noun*
 > /ˌdʒʊərɪsˈpruːdns/
 
+![[jurisprudence.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The theory, philosophy, and study of law and legal systems

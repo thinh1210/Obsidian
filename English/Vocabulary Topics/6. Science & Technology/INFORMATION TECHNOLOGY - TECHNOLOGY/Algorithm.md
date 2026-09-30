@@ -2,8 +2,10 @@
 *noun*
 > /ˈæl.ɡə.rɪ.ðəm/
 
+![[algorithm.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem.

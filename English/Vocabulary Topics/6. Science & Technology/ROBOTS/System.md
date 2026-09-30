@@ -2,8 +2,10 @@
 *noun.*
 > /ˈsɪs.təm/
 
+![[system.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of connected things or devices that operate together
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `operating system`: hệ điều hành
+- `robotic system`: hệ thống robot
+- `embedded system`: hệ thống nhúng
+- `navigation system`: hệ thống định vị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cooling system of the machine needs maintenance.

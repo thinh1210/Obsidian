@@ -2,8 +2,10 @@
 *noun*
 > /taɪˈtreɪ.ʃən/
 
+![[titration.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A technique where a solution of known concentration is used to determine the concentration of an unknown solution.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `acid-base titration`: chuẩn độ axit-bazơ
 - `endpoint of titration`: điểm cuối của chuẩn độ
+- `titration curve`: đường cong chuẩn độ
+- `perform a titration`: thực hiện phép chuẩn độ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* An indicator change marks the endpoint of the titration.

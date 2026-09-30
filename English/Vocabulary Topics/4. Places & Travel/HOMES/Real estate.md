@@ -2,8 +2,10 @@
 *noun*
 > /ˈriːəl ɪˌsteɪt/
 
+![[real_estate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HOMES
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Property consisting of land or buildings.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `real estate agent`: đại lý bất động sản
 - `real estate market`: thị trường bất động sản
+- `real estate agency`: công ty dịch vụ môi giới nhà đất
+- `real estate investment`: đầu tư địa ốc
+- `real estate boom`: sự bùng nổ của thị trường bất động sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He works in real estate.

@@ -2,8 +2,10 @@
 *noun*
 > /kɔːst/
 
+![[cost.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the amount of money needed to buy, do, or make something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `operating cost`: chi phí vận hành
 - `at all costs`: bằng mọi giá
+- `fixed cost`: chi phí cố định
+- `variable cost`: chi phí biến đổi
+- `cut costs`: cắt giảm chi phí vận hành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cost of living in big cities has gone up dramatically.

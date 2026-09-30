@@ -2,8 +2,10 @@
 *adjective*
 > /ˌpluː.mjʊˈleɪ.ʃəs/
 
+![[plumulaceous.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having downy feathers; downy.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plumulaceous feathers`: lông tơ
 - `plumulaceous structure`: cấu trúc lông tơ
+- `plumulaceous feather`: lông vũ dạng lông tơ mịn xốp
+- `plumulaceous barbules`: các râu lông tơ phân nhánh không móc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The baby penguin was covered in soft, plumulaceous down.

@@ -2,8 +2,10 @@
 *noun*
 > /stɛrz/
 
+![[stairs.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of steps leading from one floor of a building to another.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go up the stairs`: đi lên cầu thang
 - `flight of stairs`: bậc cầu thang
+- `walk down the stairs`: bước xuống cầu thang
+- `spiral stairs`: cầu thang xoắn ốc
+- `top of the stairs`: đỉnh đầu cầu thang
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She ran up the stairs.

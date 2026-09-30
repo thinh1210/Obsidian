@@ -2,8 +2,10 @@
 *n.*
 > /mætʃ/
 
+![[match.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A contest in which people or teams compete against each other in a particular sport.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `friendly match`: trận đấu giao hữu
 - `watch a match`: xem một trận đấu
+- `match point`: điểm số định đoạt trận đấu
+- `evenly matched`: ngang tài ngang sức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are going to watch a football match tonight.

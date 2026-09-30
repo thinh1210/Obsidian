@@ -2,8 +2,10 @@
 *n./v.*
 > /dɪˈleɪ/
 
+![[delay.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make someone or something late or slow
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `without delay`: không chậm trễ
+- `flight delay`: sự hoãn chuyến bay
+- `delay tactics`: chiến thuật trì hoãn / câu giờ
+- `cause serious delay`: gây ra sự chậm trễ nghiêm trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The train was delayed.

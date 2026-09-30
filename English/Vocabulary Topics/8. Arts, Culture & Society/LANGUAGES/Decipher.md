@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈsaɪfə(r)/
 
+![[decipher.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To convert a text written in code, or a difficult handwriting, into normal language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `decipher ancient writing`: giải mã chữ viết cổ
+- `decipher ancient script`: giải mã văn tự cổ
+- `hard to decipher`: khó giải mã / khó đọc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I cannot decipher his messy handwriting.

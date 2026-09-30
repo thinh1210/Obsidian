@@ -2,8 +2,10 @@
 *n.*
 > /ˈmjuːzɪk/
 
+![[music.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony, and expression of emotion
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `background music`: nhạc nền
 - `original music`: nhạc gốc
+- `incidental music`: nhạc đệm bổ trợ cho phân cảnh
+- `film score music`: nhạc nền được soạn riêng cho bộ phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The music in that scene made me cry.

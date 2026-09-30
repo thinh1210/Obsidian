@@ -2,8 +2,10 @@
 *n.*
 > /ˈpræk.sɪs/
 
+![[praxis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Tinh thần tự học, Tri thức luận & Thực tiễn học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which a theory or lesson is enacted or practiced; the application of theory to action.

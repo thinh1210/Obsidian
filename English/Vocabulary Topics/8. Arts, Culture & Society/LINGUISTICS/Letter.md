@@ -2,8 +2,10 @@
 *noun*
 > /ˈlet.ər/
 
+![[letter.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a written or printed symbol that represents a sound in an alphabet, or a written message sent to someone

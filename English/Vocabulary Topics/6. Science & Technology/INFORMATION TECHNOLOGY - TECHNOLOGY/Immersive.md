@@ -2,8 +2,10 @@
 *adj*
 > /ɪˈmɜː.sɪv/
 
+![[immersive.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Tech/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Tech/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Seeming to surround the audience, player, etc. so that they feel completely involved in something.

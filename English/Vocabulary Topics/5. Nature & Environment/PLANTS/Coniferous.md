@@ -2,8 +2,10 @@
 *adjective*
 > /kəˈnɪfərəs/
 
+![[coniferous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting trees or shrubs that bear cones and evergreen needlelike leaves.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `coniferous forest`: rừng lá kim
 - `coniferous species`: loài lá kim
+- `coniferous evergreen trees`: cây lá kim thường xanh
+- `coniferous plantation`: rừng trồng cây lá kim lấy gỗ
+- `boreal coniferous forest`: rừng lá kim phương bắc (taiga)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pine and fir trees are classic examples of coniferous plants.

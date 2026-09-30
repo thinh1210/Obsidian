@@ -2,8 +2,10 @@
 *adj*
 > /ˈdiː.sənt/
 
+![[decent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of an acceptable standard; satisfactory.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a decent job`: một công việc tử tế
+- `decent living wage`: mức lương đủ sống tử tế
+- `decent human being`: con người đàng hoàng tử tế
+- `fairly decent`: khá tươm tất / tốt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He earns a decent salary.

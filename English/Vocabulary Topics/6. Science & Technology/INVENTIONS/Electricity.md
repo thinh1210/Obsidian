@@ -2,8 +2,10 @@
 *Noun*
 > /ˌɪl.ekˈtrɪs.ə.ti/
 
+![[electricity.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of energy that can be produced in several ways and that provides power to devices.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `generate electricity`: phát điện
 - `electricity bill`: hóa đơn tiền điện
+- `conduct electricity`: dẫn truyền dòng điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The storm cut off our electricity for three hours.

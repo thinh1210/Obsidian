@@ -2,8 +2,10 @@
 *noun*
 > /ʃuːz/
 
+![[shoes.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coverings for the feet.
@@ -13,7 +15,10 @@
 💡 Shoes -> Su -> Đôi giày su.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `put on your shoes: mang giày vào`
+- `put on your shoes`: mang giày vào
+- `slip-on shoes`: giày lười xỏ chân nhanh
+- `comfort shoes`: giày êm bảo vệ chân
+- `break in new shoes`: đi thử giày mới cho mềm da
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need new shoes.

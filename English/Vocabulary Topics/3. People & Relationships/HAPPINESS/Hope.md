@@ -2,8 +2,10 @@
 *n./v.*
 > /həʊp/
 
+![[hope.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of expectation and desire for a certain thing to happen.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hope for the best`: hy vọng điều tốt nhất
+- `ray of hope`: tia hy vọng le lói
+- `high hopes`: những hy vọng tràn trề
+- `hope against hope`: vẫn hy vọng dù mong manh (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I hope it doesn't rain.

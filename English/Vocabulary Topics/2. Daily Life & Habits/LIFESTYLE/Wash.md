@@ -2,8 +2,10 @@
 *v.*
 > /wɒʃ/
 
+![[wash.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clean with water and, typically, soap or detergent.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wash hands`: rửa tay
+- `wash up before bed`: rửa mặt vệ sinh cá nhân trước khi ngủ
+- `wash away the stress`: gột rửa mọi ưu phiền căng thẳng
+- `hand washing routine`: thói quen rửa tay sạch sẽ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Wash your hands.

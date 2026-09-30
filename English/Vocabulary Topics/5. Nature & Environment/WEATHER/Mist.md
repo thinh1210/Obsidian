@@ -2,8 +2,10 @@
 *noun*
 > /mɪst/
 
+![[mist.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cloud of tiny water droplets in the atmosphere, thinner than fog
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `morning mist`: sương mù buổi sớm
+- `shrouded in mist`: bị bao phủ che khuất trong làn sương mù
+- `spray a fine mist`: phun một làn sương mịn
+- `mist over with tears`: đôi mắt ngấn lệ nhạt nhòa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The valley was covered in a beautiful morning mist.

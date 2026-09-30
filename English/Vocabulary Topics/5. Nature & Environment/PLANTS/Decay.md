@@ -2,8 +2,10 @@
 *verb*
 > /dɪˈkeɪ/
 
+![[decay.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To rot or decompose through the action of bacteria or fungi.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `organic decay`: phân hủy hữu cơ
 - `prevent decay`: ngăn ngừa mục nát
+- `tooth decay`: sâu răng
+- `fall into decay`: rơi vào tình trạng mục nát suy tàn
+- `radioactive decay`: sự phân rã phóng xạ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Fallen leaves decay on the forest floor, turning into rich compost.

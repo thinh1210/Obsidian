@@ -2,8 +2,10 @@
 *noun*
 > /aɪˈtɪn.ər.ər.i/
 
+![[itinerary.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A detailed plan or route of a journey

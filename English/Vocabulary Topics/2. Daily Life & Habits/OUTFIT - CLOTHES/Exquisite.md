@@ -2,8 +2,10 @@
 *adj*
 > /ɪkˈskwɪz.ɪt/
 
+![[exquisite.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely beautiful and, typically, delicate.
@@ -13,7 +15,10 @@
 💡 Exquisite -> Ếch quýt -> Con ếch ăn quả quýt tuyệt đẹp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `exquisite craftsmanship: kỹ thuật chế tác tinh xảo`
+- `exquisite craftsmanship`: kỹ thuật chế tác tinh xảo
+- `exquisite embroidery`: đường thêu tay tinh xảo
+- `exquisite fabric`: chất liệu vải cao cấp thượng hạng
+- `exquisite detail`: chi tiết trang phục tinh tế hoàn hảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her dress was exquisite.

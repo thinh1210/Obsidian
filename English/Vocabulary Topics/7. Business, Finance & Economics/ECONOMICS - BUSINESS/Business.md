@@ -2,8 +2,10 @@
 *noun*
 > /ˈbɪznəs/
 
+![[business.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the activity of making, buying, or selling goods or providing services in exchange for money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `run a business`: điều hành một doanh nghiệp
 - `go out of business`: phá sản, ngừng hoạt động
+- `core business`: lĩnh vực kinh doanh cốt lõi
+- `business plan`: bản kế hoạch kinh doanh
+- `business cycle`: chu kỳ kinh tế / chu kỳ kinh doanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My uncle decided to start his own business selling handmade toys.

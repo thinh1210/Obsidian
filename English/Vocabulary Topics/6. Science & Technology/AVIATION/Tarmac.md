@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɑː.mæk/
 
+![[tarmac.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The paved area at an airport where aircraft park, taxi, and are loaded or unloaded.

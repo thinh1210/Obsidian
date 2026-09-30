@@ -2,8 +2,10 @@
 *noun*
 > /brəʊtʃ/
 
+![[brooch.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An ornament fastened to clothing with a hinged pin.
@@ -13,7 +15,10 @@
 💡 Rút (Brooch) trâm cài áo ra.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `diamond brooch: trâm cài kim cương`
+- `diamond brooch`: trâm cài kim cương
+- `vintage cameo brooch`: trâm cài phù điêu cổ điển
+- `pin a brooch`: ghim trâm cài lên ngực áo
+- `antique emerald brooch`: trâm cài ngọc lục bảo cổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She pinned a brooch on her dress.

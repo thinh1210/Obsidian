@@ -2,8 +2,10 @@
 *verb*
 > /kɪs/
 
+![[kiss.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Touch with the lips as a sign of love or greeting.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Kiss someone`: Hôn ai đó
+- `kiss and make up`: làm lành sau khi cãi vã (idiom)
+- `seal with a kiss`: đóng dấu bằng một nụ hôn (idiom)
+- `passionate kiss`: nụ hôn nồng cháy sâu đậm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They kissed each other.

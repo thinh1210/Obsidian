@@ -2,8 +2,10 @@
 *adj.*
 > /fæˈstɪdiəs/
 
+![[fastidious.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very attentive to and concerned about accuracy and detail.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fastidious attention`: sự chú ý tỉ mỉ
+- `fastidious about cleanliness`: cực kỳ kỹ tính về chuyện vệ sinh
+- `fastidious attention to detail`: sự tỉ mỉ, kỹ lưỡng đến từng chi tiết
+- `fastidious taste`: gu thẩm mỹ khó tính, khắt khe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is fastidious about her clothes.

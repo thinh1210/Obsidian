@@ -2,8 +2,10 @@
 *adj*
 > /ˈstɪn.dʒi/
 
+![[stingy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unwilling to spend money
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stingy with money`: keo kiệt tiền bạc
+- `stingy with compliments`: ki bo keo kiệt lời khen
+- `stingy tipper`: người boa tiền tip rất keo kiệt
+- `notoriously stingy`: nổi tiếng là bủn xỉn, ki bo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is very stingy.

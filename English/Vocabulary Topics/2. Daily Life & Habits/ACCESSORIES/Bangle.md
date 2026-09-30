@@ -2,8 +2,10 @@
 *noun*
 > /ˈbæŋɡl/
 
+![[bangle.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A ring of stiff plastic, metal, etc. worn around the wrist or arm as jewellery.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a silver bangle`: một chiếc vòng xuyến bạc
+- `clinking bangles`: những chiếc vòng tay kêu leng keng
+- `stack of bangles`: bộ nhiều chiếc vòng tay xếp chồng
+- `wooden bangle`: vòng tay bằng gỗ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wore several bangles that clinked together.

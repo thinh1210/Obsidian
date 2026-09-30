@@ -2,8 +2,10 @@
 *Noun*
 > /ˈestʃuəri/
 
+![[estuary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tidal mouth of a large river, where the tide meets the stream.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `river estuary`: cửa sông
 - `estuary ecosystem`: hệ sinh thái cửa sông
+- `tidal estuary`: vùng cửa sông chịu ảnh hưởng thủy triều
+- `estuary wildlife`: động vật hoang dã vùng cửa sông
+- `mouth of the estuary`: vùng cửa biển tiếp giáp cửa sông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many species of fish spawn in the warm waters of the estuary.

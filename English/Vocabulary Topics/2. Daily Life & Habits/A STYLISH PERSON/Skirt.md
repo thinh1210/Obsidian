@@ -2,8 +2,10 @@
 *n.*
 > /skɜːrt/
 
+![[skirt.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women and girls that hangs from the waist.
@@ -13,7 +15,11 @@
 💡 Skirt - sờ cợt, sờ chân váy.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `short skirt`: váy ngắn\n- `pleated skirt`: váy xếp li
+- `short skirt`: váy ngắn
+- `pleated skirt`: váy xếp li
+- `pencil skirt`: chân váy bút chì
+- `A-line skirt`: chân váy chữ A
+- `flared skirt`: chân váy xòe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought a new denim skirt.

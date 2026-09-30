@@ -2,8 +2,10 @@
 *n*
 > /ˈsɪmptəm/
 
+![[symptom.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A physical or mental feature which is regarded as indicating a condition of disease.

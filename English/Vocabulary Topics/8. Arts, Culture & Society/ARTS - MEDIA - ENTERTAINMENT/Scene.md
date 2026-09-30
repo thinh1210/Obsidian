@@ -2,8 +2,10 @@
 *n.*
 > /siːn/
 
+![[scene.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sequence of continuous action in a play, movie, opera, or book.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `opening scene`: cảnh mở đầu
 - `behind the scenes`: phía sau hậu trường
+- `dramatic scene`: phân cảnh đầy kịch tính
+- `set the scene`: chuẩn bị bối cảnh và tâm trạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The opening scene of the movie is spectacular.

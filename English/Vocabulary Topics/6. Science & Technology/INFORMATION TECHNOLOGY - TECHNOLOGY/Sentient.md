@@ -2,8 +2,10 @@
 *adj*
 > /ˈsen.ti.ənt/
 
+![[sentient.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Sci-fi | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C2 | **Ngữ cảnh:** Formal/Sci-fi | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to experience feelings and sensations.

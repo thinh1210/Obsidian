@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡɑːrdn/
 
+![[garden.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land next to a house, used for growing flowers, vegetables, or fruit.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flower garden`: vườn hoa
 - `work in the garden`: làm vườn
+- `kitchen garden`: vườn rau củ gia đình
+- `landscape garden`: khu vườn được thiết kế cảnh quan
+- `everything in the garden is rosy`: mọi việc đều đang tiến triển rất êm đẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We grow organic tomatoes in our back garden.

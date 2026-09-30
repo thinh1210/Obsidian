@@ -2,8 +2,10 @@
 *adjective*
 > /ˈpɑːrtəzn/
 
+![[partisan.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Prejudiced in favor of a particular cause; strongly supporting one political party.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `partisan politics`: chính trị bè phái
 - `bipartisan support`: sự ủng hộ lưỡng đảng
+- `partisan divide`: hố sâu ngăn cách giữa các đảng phái
+- `fiercely partisan`: thiên vị đảng phái quyết liệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The news channel was criticized for its highly partisan coverage of the election.

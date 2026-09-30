@@ -2,8 +2,10 @@
 *adj.*
 > /ˌmiːtiərəˈlɒdʒɪkl/
 
+![[meteorological.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the atmosphere and weather phenomena
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `meteorological data`: dữ liệu khí tượng
+- `meteorological agency`: cơ quan khí tượng thủy văn
+- `meteorological station`: trạm quan trắc khí tượng
+- `meteorological conditions`: các điều kiện khí tượng thời tiết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The meteorological department predicted a dry winter.

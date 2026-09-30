@@ -2,8 +2,10 @@
 *noun*
 > /haɪˈpɜːbəli/
 
+![[hyperbole.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exaggerated statements or claims not meant to be taken literally.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `use hyperbole`: sử dụng phép nói quá
 - `rhetorical hyperbole`: phép phóng đại tu từ
+- `border on hyperbole`: gần như nói quá / phóng đại
+- `avoid hyperbole`: tránh lối nói thậm xưng
+- `marketing hyperbole`: lời tán tụng khoa trương trong tiếp thị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His description of the accident was full of hyperbole.

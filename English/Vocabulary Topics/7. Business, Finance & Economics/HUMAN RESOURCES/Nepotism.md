@@ -2,8 +2,10 @@
 *n.*
 > /ˈnep.ə.tɪ.zəm/
 
+![[nepotism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Favoritism shown to relatives or friends by those in power
@@ -13,7 +15,11 @@
 💡 "Nép" (nepo) vào góc mà "tím" (tism) mặt vì nạn con ông cháu cha chiếm hết chỗ tốt
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``accuse of nepotism`: cáo buộc thiên vị người nhà
+- `accuse of nepotism`: cáo buộc thiên vị người nhà
+- `practicing nepotism`: thực hiện thói nâng đỡ thiên vị người trong nhà
+- `anti-nepotism policy`: chính sách bài trừ thói thân quen gia đình
+- `corporate nepotism`: tệ nạn kéo bè cánh người nhà vào công ty
+- `free from nepotism`: môi trường minh bạch không có sự cục bộ dòng họ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The hiring of the CEO's son was criticized as blatant nepotism.

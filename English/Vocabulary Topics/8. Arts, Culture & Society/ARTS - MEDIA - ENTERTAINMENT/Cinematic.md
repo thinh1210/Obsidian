@@ -2,8 +2,10 @@
 *adj.*
 > /ˌsɪnəˈmætɪk/
 
+![[cinematic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to movies or motion pictures; having qualities characteristic of movies.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cinematic style`: phong cách điện ảnh
 - `cinematic universe`: vũ trụ điện ảnh
+- `cinematic masterpiece`: kiệt tác nghệ thuật điện ảnh
+- `cinematic release`: sự công chiếu tại các rạp chiếu phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The game features cinematic cutscenes that feel like a movie.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌdiː.enˈeɪ/
 
+![[dna.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Deoxyribonucleic acid – the molecule carrying genetic information used for identification.

@@ -2,8 +2,10 @@
 *n., adj.*
 > /ˈbrɔːdbænd/
 
+![[broadband.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A high-capacity transmission technique using a wide range of frequencies, enabling a large number of messages to be communicated simultaneously.

@@ -2,8 +2,10 @@
 *n*
 > /træŋˈkwɪləti/
 
+![[tranquility.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being tranquil; calm.
@@ -13,7 +15,11 @@
 💡 Tranquil (yên bình) + ity -> sự yên bình.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `peace and tranquility`: hòa bình và yên tĩnh\n- `sense of tranquility`: cảm giác thanh bình
+- `peace and tranquility`: hòa bình và yên tĩnh
+- `sense of tranquility`: cảm giác thanh bình
+- `serene tranquility`: sự thanh bình tĩnh lặng êm ả
+- `shatter the tranquility`: phá tan không gian yên tĩnh
+- `oasis of tranquility`: ốc đảo yên bình giữa chốn ồn ào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the tranquility of the countryside.

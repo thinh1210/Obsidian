@@ -2,8 +2,10 @@
 *Noun*
 > /ɔːˈtɑːnəmi/
 
+![[autonomy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The right or condition of self-government.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Local autonomy`: Tự trị địa phương
+- `grant autonomy`: trao quyền tự trị
+- `fight for autonomy`: đấu tranh giành quyền tự trị
+- `regional autonomy`: quyền tự trị khu vực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The region demanded greater autonomy.

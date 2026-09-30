@@ -2,8 +2,10 @@
 *noun*
 > /ˈrɪbən/
 
+![[ribbon.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long, narrow strip of material used to tie things together or as a decoration.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a silk ribbon`: ruy băng lụa
+- `satin ribbon`: ruy băng lụa bóng
+- `tie with a ribbon`: buộc lại bằng dải ruy băng
+- `cut the ribbon`: cắt băng khánh thành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She tied a ribbon around the gift box.

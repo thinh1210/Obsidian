@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪndʒəri/
 
+![[injury.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An instance of being injured; physical harm or damage to someone's body.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `personal injury`: thương tích cá nhân
 - `sustain an injury`: bị chấn thương
+- `catastrophic injury`: chấn thương nghiêm trọng gây tàn phế vĩnh viễn
+- `work-related injury`: tai nạn thương tích phát sinh trong lúc làm việc
+- `recover from injury`: hồi phục sau thương tổn tai nạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His health insurance covered the treatment of his leg injury.

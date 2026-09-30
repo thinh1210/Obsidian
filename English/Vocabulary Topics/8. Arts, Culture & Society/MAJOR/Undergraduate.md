@@ -2,8 +2,10 @@
 *n., adj.*
 > /ˌʌn.dəˈɡræd.ju.ɪt/
 
+![[undergraduate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A student who is studying for their first university degree.

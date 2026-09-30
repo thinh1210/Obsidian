@@ -2,8 +2,10 @@
 *n.*
 > /ˈrɪtʃ.u.əl/
 
+![[ritual.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `daily ritual`: nghi thức hàng ngày
 - `sacred ritual`: nghi lễ thiêng liêng
+- `burial ritual`: nghi thức chôn cất / mai táng
+- `rite of passage`: nghi lễ chuyển giao giai đoạn đời người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Having coffee in the morning is my daily ritual.

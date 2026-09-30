@@ -2,8 +2,10 @@
 *n*
 > /mɔːˈbɪdəti/
 
+![[morbidity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition of suffering from a disease or medical condition; the rate of disease in a population.

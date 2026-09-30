@@ -2,8 +2,10 @@
 *n.*
 > /sɔɪl ɪˈrəʊ.ʒən/
 
+![[soil_erosion.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The displacement of the upper layer of soil, caused by water, wind, or farming.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prevent soil erosion`: ngăn ngừa xói mòn đất
 - `severe soil erosion`: xói mòn đất nghiêm trọng
+- `cause soil erosion`: gây ra hiện tượng xói mòn đất
+- `control soil erosion`: kiểm soát hiện tượng xói mòn đất
+- `wind and water soil erosion`: xói mòn đất do gió và dòng nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Planting grass on the hill helps slow down soil erosion.

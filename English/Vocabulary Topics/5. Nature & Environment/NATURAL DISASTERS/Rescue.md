@@ -2,8 +2,10 @@
 *verb*
 > /ˈres.kjuː/
 
+![[rescue.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To save someone or something from a dangerous or unpleasant situation.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rescue mission`: sứ mệnh giải cứu
 - `rescue operation`: hoạt động cứu hộ
+- `come to someone's rescue`: kịp thời đến ứng cứu ai
+- `search and rescue team`: đội tìm kiếm và cứu nạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Firefighters worked hard to rescue a cat stuck in the tree.

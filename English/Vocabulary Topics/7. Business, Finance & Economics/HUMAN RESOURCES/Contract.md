@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɒn.trækt/
 
+![[contract.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A binding agreement, especially in employment or tenancy
@@ -13,7 +15,11 @@
 💡 "Con" "trai" (con-trac) ký tên vào hợp đồng lớn của gia đình
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``sign a contract`: ký hợp đồng
+- `sign a contract`: ký hợp đồng
+- `employment contract`: hợp đồng giao kết lao động
+- `permanent contract`: hợp đồng lao động không xác định thời hạn
+- `renew a contract`: gia hạn tiếp hợp đồng làm việc
+- `terminate an employment contract`: chấm dứt hợp đồng lao động trước hạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She signed a two-year employment contract.

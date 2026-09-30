@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɪs.tər.i/
 
+![[history.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modern history`: lịch sử hiện đại
 - `ancient history`: lịch sử cổ đại
+- `throughout history`: trong suốt chiều dài lịch sử
+- `rewrite history`: viết lại lịch sử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am reading a book about the history of Rome.

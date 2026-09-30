@@ -2,8 +2,10 @@
 *n.*
 > /ˌɪntəˈsekʃn/
 
+![[intersection.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where two or more roads cross.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `busy intersection`: giao lộ đông đúc
+- `controlled intersection`: ngã tư có đèn tín hiệu điều khiển
+- `at the intersection of`: tại điểm giao thoa giữa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Turn left at the intersection.

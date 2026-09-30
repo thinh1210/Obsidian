@@ -2,8 +2,10 @@
 *noun*
 > /ruːt/
 
+![[route.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A way or course taken in getting from a starting point to a destination.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `trade route`: tuyến đường thương mại
+- `shipping route`: tuyến đường vận tải biển
+- `scenic route`: cung đường ngắm cảnh đẹp
+- `direct route`: tuyến đường trực tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What is the fastest route to the beach?

@@ -2,8 +2,10 @@
 *verb*
 > /ˈædvərtaɪz/
 
+![[advertise.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to make something known generally or in public, especially in order to sell it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `advertise a product`: quảng cáo một sản phẩm
 - `advertise for a job`: đăng tuyển dụng việc làm
+- `advertise widely`: quảng cáo rộng rãi
+- `false advertising`: quảng cáo gian dối / sai sự thật
+- `advertise on prime time`: quảng cáo vào khung giờ vàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They advertise their home-baked cakes on social media.

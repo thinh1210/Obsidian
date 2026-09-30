@@ -2,8 +2,10 @@
 *v.*
 > /faɪt/
 
+![[fight.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take part in a violent struggle or battle
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fight for freedom`: đấu tranh vì tự do
 - `fight against injustice`: đấu tranh chống lại bất công
+- `fight tooth and nail`: chiến đấu quyết liệt đến cùng
+- `fight back`: phản kháng, chống trả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Soldiers fight to protect their homeland.

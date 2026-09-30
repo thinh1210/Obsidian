@@ -2,8 +2,10 @@
 *noun*
 > /mʌnθ/
 
+![[month.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of about four weeks.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a month ago`: một tháng trước
+- `month after month`: tháng này qua tháng khác
+- `end of the month`: cuối tháng
+- `within a month`: trong vòng một tháng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My birthday is next month.

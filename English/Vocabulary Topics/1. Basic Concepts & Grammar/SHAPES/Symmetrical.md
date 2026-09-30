@@ -2,8 +2,10 @@
 *adj.*
 > /sɪˈmet.rɪ.kəl/
 
+![[symmetrical.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made up of exactly similar parts facing each other or around an axis.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Perfectly symmetrical`: Đối xứng hoàn hảo
 - `A symmetrical design`: Thiết kế đối xứng
+- `bilateral symmetry`: đối xứng hai bên
+- `symmetrical pattern`: hoa văn đối xứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A butterfly's wings are symmetrical.

@@ -2,8 +2,10 @@
 *verb*
 > /rɪˈteɪn/
 
+![[retain.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To continue to have something; keep possession of.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `retain customers`: giữ chân khách hàng
 - `retain information`: ghi nhớ thông tin
+- `customer retention rate`: tỷ lệ giữ chân khách hàng
+- `retain market share`: giữ vững thị phần
+- `retain talent`: giữ chân nhân tài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The human brain can retain visual information better than text.

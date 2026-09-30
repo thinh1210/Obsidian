@@ -2,8 +2,10 @@
 *n*
 > /ˈpɑːstaɪm/
 
+![[pastime.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity that someone does regularly for enjoyment.
@@ -13,7 +15,11 @@
 💡 Pass (trôi qua) + time (thời gian) -> thú vui giết thời gian.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `favorite pastime`: thú vui yêu thích\n- `national pastime`: thú vui quốc gia
+- `favorite pastime`: thú vui yêu thích
+- `national pastime`: thú vui quốc gia
+- `agreeable pastime`: thú vui tiêu khiển dễ chịu
+- `popular pastime`: thú vui giải trí phổ biến
+- `idle pastime`: thú vui lúc nông nhàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Reading is my favorite pastime.

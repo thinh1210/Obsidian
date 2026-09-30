@@ -2,8 +2,10 @@
 *Verb*
 > /ˈɒb.fʌs.keɪt/
 
+![[obfuscate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something less clear and harder to understand, especially intentionally.
@@ -13,7 +15,10 @@
 💡 Ọp ẹp (obfuscate) làm thông tin mờ mịt.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `obfuscate the truth`: che đậy sự thật\n- `deliberately obfuscate`: cố tình làm khó hiểu
+- `obfuscate the truth`: che đậy sự thật
+- `deliberately obfuscate`: cố tình làm khó hiểu
+- `obfuscate issues`: làm rối rắm các vấn đề
+- `deliberately obfuscate facts`: cố tình làm lu mờ các dữ kiện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He tried to obfuscate the issue.

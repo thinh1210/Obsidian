@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪnəmə/
 
+![[cinema.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A theater where movies are shown, or the movie industry as a whole
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to the cinema`: đi xem phim ở rạp
 - `national cinema`: điện ảnh quốc gia
+- `modern cinema`: điện ảnh thời kỳ hiện đại
+- `open-air cinema`: rạp chiếu phim ngoài trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's go to the cinema tonight.

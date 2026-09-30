@@ -2,8 +2,10 @@
 *noun*
 > /ˈmaɪ.nɚ/
 
+![[minor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person under the age of full legal responsibility.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unaccompanied minor`: trẻ vị thành niên không có người lớn đi kèm
+- `minor offenses`: các vi phạm nhỏ
+- `minor injury`: thương tích nhẹ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is illegal to sell alcohol to minors.

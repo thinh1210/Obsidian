@@ -2,8 +2,10 @@
 *noun*
 > /ˈlɜːkə(r)/
 
+![[lurker.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A user who reads discussions on a social media board or forum but rarely or never posts
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `active lurker`: người tàu ngầm tích cực
+- `silent lurker`: người tàu ngầm âm thầm theo dõi
+- `remain a lurker`: chỉ đọc mà không bao giờ bình luận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am mostly a lurker on Reddit, I rarely post any comments.

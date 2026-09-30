@@ -2,8 +2,10 @@
 *adj.*
 > /ˈvɔːltɪd/
 
+![[vaulted.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Provided with an arched structure or structures, especially a roof or ceiling
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `vaulted ceiling`: trần nhà vòm
 - `vaulted cellar`: hầm rượu mái vòm
+- `barrel-vaulted`: có vòm hình bán trụ liên tục
+- `rib-vaulted`: có trần vòm khung sườn chịu lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The living room has a spectacular vaulted ceiling.

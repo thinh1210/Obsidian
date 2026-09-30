@@ -2,8 +2,10 @@
 *noun*
 > /ˈel.ɪ.mənt/
 
+![[element.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A basic substance that cannot be simplified or broken down into simpler substances by chemical means.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chemical element`: nguyên tố hóa học
 - `trace element`: nguyên tố vi lượng
+- `rare earth element`: nguyên tố đất hiếm
+- `radioactive element`: nguyên tố phóng xạ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Hydrogen is the most abundant element in the universe.

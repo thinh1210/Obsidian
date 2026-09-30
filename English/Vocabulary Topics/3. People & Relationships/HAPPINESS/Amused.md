@@ -2,8 +2,10 @@
 *adj.*
 > /əˈmjuːzd/
 
+![[amused.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Finding something funny or entertaining.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep someone amused`: làm ai đó vui vẻ
+- `highly amused`: vô cùng thích thú buồn cười
+- `amused expression`: vẻ mặt thích thú vui vẻ
+- `mildly amused`: hơi cảm thấy buồn cười
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I was amused by his jokes.

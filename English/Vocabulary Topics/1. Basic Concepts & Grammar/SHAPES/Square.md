@@ -2,8 +2,10 @@
 *n.*
 > /skweər/
 
+![[square.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape with four equal sides and four right angles.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A perfect square`: Một hình vuông hoàn hảo
 - `Town square`: Quảng trường thị trấn
+- `back to square one`: quay lại vạch xuất phát / làm lại từ đầu
+- `fair and square`: công bằng và sòng phẳng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The box is a square.

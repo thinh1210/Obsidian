@@ -2,8 +2,10 @@
 *Noun*
 > /ˈtʊr.ɪst/
 
+![[tourist.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who travels and visits places for fun and holiday.
@@ -13,7 +15,11 @@
 💡 TUA RÍT (Tourist) khách du lịch đi tour.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `tourist attraction`: điểm thu hút khách du lịch\n- `foreign tourist`: khách du lịch nước ngoài
+- `tourist attraction`: điểm thu hút khách du lịch
+- `foreign tourist`: khách du lịch nước ngoài
+- `tourist trap`: cái bẫy giá chém chặt du khách
+- `influx of tourists`: làn sóng du khách đổ xô về
+- `tourist-friendly city`: thành phố thân thiện mến khách du lịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many tourists visit this temple every year.

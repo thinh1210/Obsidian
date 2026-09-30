@@ -2,8 +2,10 @@
 *n.*
 > /ˈiːkəʊtʊərɪzəm/
 
+![[ecotourism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Tourism directed toward exotic, often threatened, natural environments, intended to support conservation efforts and observe wildlife.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sustainable ecotourism`: du lịch sinh thái bền vững
 - `promote ecotourism`: thúc đẩy du lịch sinh thái
+- `community-based ecotourism`: du lịch sinh thái dựa vào cộng đồng
+- `ecotourism destination`: điểm đến du lịch sinh thái
+- `boom in ecotourism`: sự bùng nổ của ngành du lịch sinh thái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ecotourism can provide income for local communities while preserving nature.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈloʊɡoʊ/
 
+![[logo.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A symbol or other small design adopted by an organization to identify its products
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `company logo`: logo công ty
 - `design a logo`: thiết kế logo
+- `distinctive logo`: hình ảnh logo độc đáo và dễ nhận biết
+- `logo redesign`: dự án làm mới diện mạo thiết kế logo
+- `brand logo`: logo biểu trưng chính thức của thương hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The athletic shoes have a famous swoosh logo on the side.

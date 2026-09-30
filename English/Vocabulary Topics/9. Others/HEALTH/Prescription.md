@@ -2,8 +2,10 @@
 *n*
 > /prɪˈskrɪpʃn/
 
+![[prescription.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instruction written by a medical practitioner that authorizes a patient to be provided with a medicine.

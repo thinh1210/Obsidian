@@ -2,8 +2,10 @@
 *Noun*
 > /ˈrəʊ.bɒt/
 
+![[robot.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine controlled by a computer that can move and do some of the work of a person.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `industrial robot`: rô-bốt công nghiệp
 - `humanoid robot`: rô-bốt mô phỏng người
+- `autonomous robot`: robot tự hành thông minh
+- `robot vacuum`: máy hút bụi robot tự động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought a vacuum robot to clean my house.

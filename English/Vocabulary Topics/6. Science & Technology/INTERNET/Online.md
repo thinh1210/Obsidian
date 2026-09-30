@@ -2,8 +2,10 @@
 *adjective / adverb*
 > /ˌɒnˈlaɪn/
 
+![[online.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Connected to the Internet; taking place or available on the Internet.

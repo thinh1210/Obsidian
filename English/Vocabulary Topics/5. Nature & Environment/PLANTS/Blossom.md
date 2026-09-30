@@ -2,8 +2,10 @@
 *noun*
 > /ˈblɒsəm/
 
+![[blossom.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flower or a mass of flowers, especially on fruit trees.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cherry blossom`: hoa anh đào
 - `apple blossom`: hoa táo
+- `blossom into a successful career`: phát triển nở rộ thành sự nghiệp thành công
+- `cherry blossom festival`: lễ hội ngắm hoa anh đào
+- `orange blossom`: hoa cam thơm ngát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The apple trees are covered in pink blossom.

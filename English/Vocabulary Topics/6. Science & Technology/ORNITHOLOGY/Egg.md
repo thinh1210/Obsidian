@@ -2,8 +2,10 @@
 *noun*
 > /eɡ/
 
+![[egg.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An oval object produced by a female bird, containing a baby bird.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lay eggs`: đẻ trứng
 - `hatch eggs`: ấp trứng/nở trứng
+- `lay an egg`: đẻ trứng; thất bại bẽ mặt (idiom)
+- `nest egg`: khoản tiền tiết kiệm dành dụm dưỡng già (idiom)
+- `walk on eggshells`: hết sức cẩn trọng từng li từng tí (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We found three small, blue eggs in the nest.

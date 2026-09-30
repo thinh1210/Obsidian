@@ -2,8 +2,10 @@
 *Noun*
 > /krəˈvæs/
 
+![[crevasse.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep open crack, especially one in a glacier.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `deep crevasse`: khe nứt sâu
 - `glacial crevasse`: khe nứt sông băng
+- `fall into a crevasse`: rơi xuống một khe nứt băng sâu hoắm
+- `treacherous crevasse`: khe nứt sông băng hiểm trở đầy cạm bẫy
+- `cross a deep crevasse`: băng qua khe nứt băng sâu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The climber fell into a deep glacial crevasse.

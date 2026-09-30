@@ -2,8 +2,10 @@
 *Noun*
 > /ˈjuː.nɪ.vɜːs/
 
+![[universe.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All existing matter and space considered as a whole; the cosmos.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `expanding universe`: vũ trụ đang giãn nở
 - `origin of the universe`: nguồn gốc của vũ trụ
+- `multiverse`: đa vũ trụ
+- `visible universe`: vũ trụ quan sát được
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The universe is too big for us to understand.

@@ -2,8 +2,10 @@
 *n.*
 > /wɜːrk/
 
+![[work.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Activity involving mental or physical effort done to achieve a purpose
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hard work`: công việc vất vả
 - `at work`: tại nơi làm việc
+- `work under pressure`: làm việc hiệu quả dưới áp lực
+- `work out a solution`: tìm ra giải pháp tháo gỡ vấn đề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a lot of work today.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈmet.ə.deɪ.tə/
 
+![[metadata.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Data that provides information about other data, such as the time, location, and author of a file.

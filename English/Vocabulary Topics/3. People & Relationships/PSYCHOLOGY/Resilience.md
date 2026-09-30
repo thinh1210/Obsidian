@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈzɪl.jəns/
 
+![[resilience.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Liệu pháp chữa lành, Thích ứng & Cơ chế phòng vệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The capacity to recover quickly from difficulties; toughness.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build resilience`: xây dựng sự kiên cường
+- `emotional resilience`: sức bền và sự kiên cường về mặt cảm xúc
+- `foster resilience`: rèn luyện tính kiên cường vượt khó
+- `remarkable resilience`: sự kiên cường phi thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children show remarkable resilience.

@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈdɪdʒ.ɪ.təl/
 
+![[digital.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Recording or storing information as numbers, especially zeros and ones.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digital age`: kỷ nguyên số
 - `digital marketing`: tiếp thị kỹ thuật số
+- `digital native`: thế hệ sinh ra trong thời đại số
+- `digital transformation`: chuyển đổi số toàn diện
+- `digital footprint`: dấu chân kỹ thuật số
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer digital books to printed ones.

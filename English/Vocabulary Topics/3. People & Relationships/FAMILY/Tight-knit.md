@@ -2,8 +2,10 @@
 *adj*
 > /ˌtaɪtˈnɪt/
 
+![[tight_knit.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Closely bound together.

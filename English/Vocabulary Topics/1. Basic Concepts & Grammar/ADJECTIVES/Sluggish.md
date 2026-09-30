@@ -2,8 +2,10 @@
 *adj.*
 > /ˈslʌɡɪʃ/
 
+![[sluggish.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Slow-moving or inactive
@@ -13,7 +15,10 @@
 💡 Sờ lờ mờ (sluggish) chậm
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``sluggish economy`: nền kinh tế trì trệ`
+- `sluggish economy`: nền kinh tế trì trệ
+- `sluggish growth`: tăng trưởng trì trệ
+- `sluggish demand`: nhu cầu ảm đạm
+- `sluggish reflex`: phản xạ chậm chạp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sluggish morning.

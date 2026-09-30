@@ -2,8 +2,10 @@
 *noun*
 > /ˈæv.əl.ɑːnʃ/
 
+![[avalanche.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large amount of snow, ice, and rocks falling quickly down the side of a mountain.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `avalanche danger`: nguy cơ tuyết lở
 - `trigger an avalanche`: kích hoạt trận tuyết lở
+- `deadly avalanche`: trận lở tuyết chết người
+- `avalanche warning`: cảnh báo lở tuyết
+- `avalanbe buried in an avalanche`: bị chôn vùi trong trận lở tuyết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Two skiers were rescued after being buried in an avalanche.

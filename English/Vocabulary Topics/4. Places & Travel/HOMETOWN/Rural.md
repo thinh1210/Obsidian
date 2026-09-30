@@ -2,8 +2,10 @@
 *adj.*
 > /ˈrʊərəl/
 
+![[rural.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In, relating to, or characteristic of the countryside rather than the town.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rural area`: khu vực nông thôn
+- `rural community`: cộng đồng xóm làng nông thôn
+- `rural development`: sự phát triển nông thôn
+- `rural retreat`: chốn tĩnh tâm lánh mình ở miền quê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He prefers rural life.

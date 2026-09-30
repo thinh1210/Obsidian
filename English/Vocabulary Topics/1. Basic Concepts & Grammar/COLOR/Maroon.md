@@ -2,8 +2,10 @@
 *n, adj*
 > /məˈruːn/
 
+![[maroon.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dark reddish-purple color.

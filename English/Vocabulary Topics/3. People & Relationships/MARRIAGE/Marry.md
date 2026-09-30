@@ -2,8 +2,10 @@
 *verb*
 > /ˈmæri/
 
+![[marry.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become the legally accepted husband or wife of someone.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Marry someone`: Kết hôn với ai đó
+- `marry for love`: kết hôn vì tình yêu chân chính
+- `marry young`: kết hôn khi còn trẻ
+- `just married`: cặp đôi mới cưới hạnh phúc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Will you marry me?

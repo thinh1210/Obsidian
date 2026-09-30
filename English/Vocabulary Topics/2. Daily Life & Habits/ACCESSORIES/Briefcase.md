@@ -2,8 +2,10 @@
 *noun*
 > /ˈbriːfkeɪs/
 
+![[briefcase.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** ACCESSORIES
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flat, rectangular case with a handle, used for carrying documents.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a leather briefcase`: cặp tài liệu bằng da
+- `attache briefcase`: cặp tài liệu mỏng phong cách công sở
+- `lock a briefcase`: khóa cặp tài liệu
+- `leather briefcase`: cặp công tác bằng da
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The lawyer left his briefcase on the train.

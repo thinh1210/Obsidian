@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɔːkɑːst/
 
+![[forecast.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statement saying what will happen in the future, especially about weather
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `weather forecast`: dự báo thời tiết
+- `economic forecast`: dự báo tình hình kinh tế
+- `accurate forecast`: dự báo thời tiết chính xác
+- `long-range weather forecast`: dự báo thời tiết dài hạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Did you check the weather forecast for tomorrow?

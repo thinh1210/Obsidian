@@ -2,8 +2,10 @@
 *noun*
 > /reɪn/
 
+![[rain.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Water that falls from the sky in drops
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `heavy rain`: mưa lớn
+- `take a rain check`: hẹn lần khác / khất lại dịp sau
+- `save for a rainy day`: dành dụm phòng khi túng thiếu
+- `right as rain`: hoàn toàn khỏe khoắn bình phục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The plants need some rain.

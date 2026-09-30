@@ -2,8 +2,10 @@
 *adjective*
 > /ɪˈliː.ɡəl/
 
+![[illegal.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Contrary to or forbidden by law, especially criminal law.

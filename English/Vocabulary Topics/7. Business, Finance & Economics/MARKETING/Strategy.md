@@ -2,8 +2,10 @@
 *noun*
 > /ˈstrætədʒi/
 
+![[strategy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan of action designed to achieve a long-term or overall aim
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `marketing strategy`: chiến lược tiếp thị
 - `develop a strategy`: phát triển chiến lược
+- `go-to-market strategy`: chiến lược tung sản phẩm mới ra thị trường
+- `omnichannel strategy`: chiến lược bán hàng đa kênh đồng bộ trải nghiệm
+- `pricing strategy`: chiến lược hoạch định giá bán tối ưu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a clever strategy to win the chess tournament.

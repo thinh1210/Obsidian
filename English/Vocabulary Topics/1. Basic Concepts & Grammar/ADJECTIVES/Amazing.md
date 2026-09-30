@@ -2,8 +2,10 @@
 *adj.*
 > /əˈmeɪzɪŋ/
 
+![[amazing.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Causing great surprise or wonder
@@ -13,7 +15,10 @@
 💡 Mê mẩn vì nó amazing
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``amazing experience`: trải nghiệm tuyệt vời`
+- `amazing experience`: trải nghiệm tuyệt vời
+- `truly amazing`: thực sự đáng kinh ngạc
+- `amazing feat`: kỳ tích đáng kinh ngạc
+- `amazing resilience`: sức bền bỉ đáng kinh ngạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You look amazing.

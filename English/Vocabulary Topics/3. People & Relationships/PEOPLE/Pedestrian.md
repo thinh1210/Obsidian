@@ -2,8 +2,10 @@
 *n.*
 > /pəˈdes.tri.ən/
 
+![[pedestrian.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person walking along a road or in a developed area.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A pedestrian crossing`: Lối qua đường cho người đi bộ
+- `pedestrian zone`: khu phố đi bộ
+- `pedestrian crossing`: vạch kẻ đường dành cho người đi bộ
+- `pedestrian safety`: an toàn của người đi bộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Drivers must yield to pedestrians.

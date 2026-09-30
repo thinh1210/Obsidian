@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪt.ɪ.zən/
 
+![[citizen.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legally recognized subject or national of a state.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A law-abiding citizen`: Một công dân tuân thủ pháp luật
+- `senior citizen`: người cao tuổi
+- `global citizen`: công dân toàn cầu
+- `model citizen`: công dân gương mẫu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a global citizen.

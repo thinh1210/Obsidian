@@ -2,8 +2,10 @@
 *n.*
 > /ˈtreɪtə(r)/
 
+![[traitor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who betrays a friend, country, or principle
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `branded a traitor`: bị gán mác kẻ phản bội
 - `expose a traitor`: vạch trần kẻ phản bội
+- `turn traitor`: trở thành kẻ phản bội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was regarded as a traitor to the cause.

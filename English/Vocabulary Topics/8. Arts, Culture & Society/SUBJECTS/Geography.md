@@ -2,8 +2,10 @@
 *noun*
 > /dʒiˈɒɡrəfi/
 
+![[geography.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the physical features of the earth and its atmosphere, and of human activity as it affects and is affected by these.

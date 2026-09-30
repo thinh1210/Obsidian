@@ -2,8 +2,10 @@
 *noun*
 > /ˈvɪdiəʊ/
 
+![[video.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recording of moving visual images, widely shared on social networks
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `watch a video`: xem một video
+- `short-form video`: video định dạng ngắn
+- `live stream video`: video phát sóng trực tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I spend too much time watching videos of cats online.

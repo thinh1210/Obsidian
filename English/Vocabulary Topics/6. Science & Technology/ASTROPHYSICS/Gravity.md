@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡræv.ə.ti/
 
+![[gravity.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The force that attracts a body toward the center of the earth or toward any other physical body having mass.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `force of gravity`: lực hấp dẫn
 - `zero gravity`: không trọng lực
+- `escape gravity`: thoát khỏi lực hấp dẫn
+- `defy gravity`: bất chấp trọng lực / chống lại trọng lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Without gravity, we would all float away into space.

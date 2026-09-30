@@ -2,8 +2,10 @@
 *noun*
 > /ˈhæm.ər/
 
+![[hammer.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool with a heavy metal head mounted at right angles at the end of a handle, used for hitting nails, shaping metal, etc.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `claw hammer`: búa nhổ đinh
 - `hit with a hammer`: gõ bằng búa
+- `hammer out`: thảo luận đạt thỏa thuận khó khăn (phrasal verb)
+- `hammer and nail`: búa và đinh
+- `come down like a hammer`: giáng đòn trừng phạt nghiêm khắc (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need a hammer to hang this picture on the wall.

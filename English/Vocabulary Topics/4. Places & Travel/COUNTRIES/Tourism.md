@@ -2,8 +2,10 @@
 *Noun*
 > /ˈtʊrɪzəm/
 
+![[tourism.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The commercial organization and operation of holidays and visits to places of interest.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Promote tourism`: Thúc đẩy du lịch
+- `mass tourism`: du lịch đại trà
+- `sustainable tourism`: du lịch bền vững
+- `boost tourism`: thúc đẩy ngành du lịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tourism is an important part of the economy.

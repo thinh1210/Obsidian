@@ -2,8 +2,10 @@
 *n*
 > /ɪˈkwestriənɪzəm/
 
+![[equestrianism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The skill or sport of horse riding.
@@ -13,7 +15,11 @@
 💡 Equus (ngựa trong tiếng Latin) -> equestrian (thuộc về ngựa).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `equestrianism events`: các sự kiện cưỡi ngựa\n- `master equestrianism`: thành thạo môn cưỡi ngựa
+- `equestrianism events`: các sự kiện cưỡi ngựa
+- `master equestrianism`: thành thạo môn cưỡi ngựa
+- `equestrianism training`: huấn luyện cưỡi ngựa
+- `equestrianism competition`: cuộc thi cưỡi ngựa biểu diễn
+- `passionate about equestrianism`: đam mê bộ môn cưỡi ngựa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a passion for equestrianism.

@@ -2,8 +2,10 @@
 *noun*
 > /kənˈsjuːmə(r)/
 
+![[consumer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who purchases goods and services for personal use.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `consumer behavior`: hành vi người tiêu dùng
 - `consumer rights`: quyền lợi người tiêu dùng
+- `consumer goods`: hàng tiêu dùng
+- `consumer spending`: mức chi tiêu của người tiêu dùng
+- `consumer protection`: bảo vệ quyền lợi người tiêu dùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Consumers are now more aware of environmental issues.

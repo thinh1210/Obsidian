@@ -2,8 +2,10 @@
 *verb*
 > /ˈdɛkəˌreɪt/
 
+![[decorate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (something) look more attractive by adding extra items or images to it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `decorate a room`: trang trí phòng
 - `interior decorating`: trang trí nội thất
+- `decorate for Christmas`: trang trí đón Giáng sinh
+- `tastefully decorated`: được trang trí tao nhã
+- `redecorate a room`: sơn sửa trang hoàng lại phòng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We decorated the house for Christmas.

@@ -2,8 +2,10 @@
 *noun*
 > /wɪnd/
 
+![[wind.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A current of air that moves quickly
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strong wind`: gió mạnh
+- `sail close to the wind`: làm việc mạo hiểm suýt vi phạm luật
+- `get wind of`: nghe ngóng được tin phong phanh
+- `take the wind out of someone's sails`: làm ai xìu đi / mất hết nhuệ khí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wind blew my hat off.

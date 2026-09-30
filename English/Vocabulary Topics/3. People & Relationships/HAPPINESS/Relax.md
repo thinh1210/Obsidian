@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈlæks/
 
+![[relax.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make or become less tense or anxious.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `relaxing music`: nhạc thư giãn
+- `relax and unwind`: thư giãn và xả hơi
+- `learn to relax`: học cách thả lỏng thư giãn
+- `relaxed atmosphere`: bầu không khí thư thái dễ chịu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to relax.

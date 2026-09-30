@@ -2,8 +2,10 @@
 *Noun*
 > /ˌɛkspɪˈdɪʃən/
 
+![[expedition.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey or voyage undertaken by a group of people with a particular purpose.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `scientific expedition`: cuộc thám hiểm khoa học
 - `go on an expedition`: đi thám hiểm
+- `wilderness expedition`: chuyến thám hiểm vùng đất hoang dã
+- `arctic expedition`: chuyến thám hiểm vùng băng giá bắc cực
+- `expedition equipment`: trang thiết bị chuyên dụng đi thám hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They went on an expedition to the Amazon.

@@ -2,8 +2,10 @@
 *n./v.*
 > /dʒəʊk/
 
+![[joke.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that someone says to cause amusement or laughter.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tell a joke`: kể chuyện cười
+- `crack a joke`: pha trò đùa dí dỏm
+- `take a joke`: biết đùa / không chấp lời trêu chọc (idiom)
+- `practical joke`: trò chơi khăm vô hại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He told a funny joke.

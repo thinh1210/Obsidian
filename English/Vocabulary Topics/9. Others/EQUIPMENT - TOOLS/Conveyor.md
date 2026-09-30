@@ -2,8 +2,10 @@
 *noun*
 > /kənˈveɪ.ər/
 
+![[conveyor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a person or thing that transports or communicates something; also, a continuous moving band used for transporting goods.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conveyor belt`: băng tải, băng chuyền
 - `conveyor system`: hệ thống băng tải
+- `baggage conveyor`: băng chuyền hành lý
+- `assembly conveyor`: dây chuyền lắp ráp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* At the airport, passengers waited by the baggage conveyor.

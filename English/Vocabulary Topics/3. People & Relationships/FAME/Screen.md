@@ -2,8 +2,10 @@
 *n.*
 > /skriːn/
 
+![[screen.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The flat surface on a TV or cinema where pictures are shown.
@@ -13,7 +15,10 @@
 💡 Xem phim trên screen.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `on screen: trên màn ảnh`
+- `on screen`: trên màn ảnh
+- `silver screen`: màn bạc / điện ảnh thế giới (idiom)
+- `screen presence`: sức hút thần thái trên màn ảnh
+- `behind the screen`: phía sau hậu trường màn ảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He looks good on screen.

@@ -2,8 +2,10 @@
 *noun*
 > /ɪɡˈzæm/
 
+![[exam.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A formal test of a person's knowledge or proficiency in a subject.

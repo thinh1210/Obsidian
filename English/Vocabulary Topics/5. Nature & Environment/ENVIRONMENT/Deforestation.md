@@ -2,8 +2,10 @@
 *n.*
 > /ˌdiːˌfɒrɪˈsteɪʃn/
 
+![[deforestation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of clearing a wide area of trees.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cause deforestation`: gây ra nạn phá rừng
 - `halt deforestation`: ngăn chặn nạn phá rừng
+- `illegal deforestation`: nạn phá rừng trái phép
+- `tropical deforestation`: phá rừng mưa nhiệt đới
+- `curb deforestation`: kiềm chế nạn chặt phá rừng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Deforestation has led to loss of habitat for many species.

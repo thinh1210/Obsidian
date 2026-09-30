@@ -2,8 +2,10 @@
 *noun*
 > /ˌsuː.pəˈnəʊ.və/
 
+![[supernova.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A powerful and luminous stellar explosion of a massive dying star.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `supernova explosion`: vụ nổ siêu tân tinh
 - `supernova remnant`: tàn tích siêu tân tinh
+- `type Ia supernova`: siêu tân tinh loại Ia
+- `core-collapse supernova`: siêu tân tinh sụp đổ lõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A supernova explosion can be seen with the naked eye if it is close enough.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌmaɪkəˈraɪzə/
 
+![[mycorrhiza.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A symbiotic association between a fungus and the roots of a vascular host plant.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mycorrhizal fungi`: nấm rễ cộng sinh
 - `arbuscular mycorrhiza`: nấm rễ túi-nhánh
+- `ectomycorrhiza association`: mối liên kết nấm rễ ngoài
+- `mycorrhizal network`: mạng lưới nấm rễ truyền dẫn dinh dưỡng
+- `role of mycorrhiza in soil health`: vai trò của nấm rễ đối với độ phì của đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gardeners sometimes add mycorrhiza to soil to help plants absorb nutrients better.

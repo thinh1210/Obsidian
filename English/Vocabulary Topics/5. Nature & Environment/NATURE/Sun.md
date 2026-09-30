@@ -2,8 +2,10 @@
 *Noun*
 > /sʌn/
 
+![[sun.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The star that provides light and heat to the earth.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `morning sun`: nắng sớm
 - `under the sun`: dưới ánh mặt trời / trên đời này
+- `touch of the sun`: bị say nắng nhẹ
+- `soak up the sun`: tắm mình dưới ánh nắng ấm áp
+- `make hay while the sun shines`: tận dụng cơ hội khi còn có thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sun is very hot today.

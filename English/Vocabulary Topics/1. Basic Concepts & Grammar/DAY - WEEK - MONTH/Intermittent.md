@@ -2,8 +2,10 @@
 *adj*
 > /ˌɪntəˈmɪtənt/
 
+![[intermittent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring at irregular intervals; not continuous or steady.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `intermittent rain`: mưa ngắt quãng
+- `intermittent fasting`: nhịn ăn gián đoạn
+- `intermittent showers`: những cơn mưa rào từng đợt
+- `intermittent signal`: tín hiệu chập chờn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had intermittent showers all day.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌɔː.tə.ˈdaɪ.dækt/
 
+![[autodidact.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Tinh thần tự học, Tri thức luận & Thực tiễn học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A self-taught person who has acquired knowledge without formal instruction.

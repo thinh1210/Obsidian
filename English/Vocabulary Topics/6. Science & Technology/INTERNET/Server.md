@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɜː.vər/
 
+![[server.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A computer or program that provides data, services, or resources to other computers (clients) over a network.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˌɪn.dɪˈspen.sə.bəl/
 
+![[indispensable.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Absolutely necessary, essential, or key
@@ -13,8 +15,11 @@
 💡 In đi bên sếp bự (indispensable) là trợ lý không thể thiếu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``indispensable tool`: công cụ không thể thiếu`
-- ``indispensable employee`: nhân viên thiết yếu`
+- `indispensable tool`: công cụ không thể thiếu
+- `indispensable employee`: nhân viên thiết yếu
+- `indispensable asset`: tài sản / nhân tố vô giá không thể thiếu
+- `indispensable role`: vai trò thiết yếu quan trọng hàng đầu
+- `prove indispensable`: chứng tỏ là nhân tố không thể thay thế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A good dictionary is indispensable for language learners.

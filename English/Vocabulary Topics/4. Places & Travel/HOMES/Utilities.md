@@ -2,8 +2,10 @@
 *noun*
 > /juːˈtɪlɪtiz/
 
+![[utilities.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Services such as water, gas, and electricity provided to the public.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay utilities`: trả tiền điện nước
 - `utilities included`: bao gồm tiện ích
+- `utility bill`: hóa đơn điện nước
+- `public utilities`: các tiện ích công cộng thiết yếu
+- `shut off utilities`: cắt dịch vụ điện nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Rent is $1000, plus utilities.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɒf.sprɪŋ/
 
+![[offspring.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The young of an animal, or a person's children.

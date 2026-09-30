@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɔː.tər/
 
+![[water.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical compound of hydrogen and oxygen (H2O) that is liquid at room temperature.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `distilled water`: nước cất
 - `tap water`: nước máy
+- `boiling water`: nước sôi
+- `mineral water`: nước khoáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Always drink plenty of water during hot weather.

@@ -2,8 +2,10 @@
 *noun*
 > /əˈpɑːrtmənt/
 
+![[apartment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A suite of rooms forming one residence, typically in a building containing a number of these.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rent an apartment`: thuê căn hộ
 - `apartment block`: chung cư
+- `two-bedroom apartment`: căn hộ hai phòng ngủ
+- `studio apartment`: căn hộ studio nhỏ gọn
+- `luxury apartment`: căn hộ cao cấp sang trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live in an apartment.

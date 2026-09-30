@@ -2,8 +2,10 @@
 *v.*
 > /kəmˈpleɪn/
 
+![[complain.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say that you are annoyed, unhappy, or not satisfied
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `complain about`: phàn nàn về
 - `complain to`: phàn nàn với (ai)
+- `complain bitterly`: than phiền một cách cay đắng
+- `nothing to complain about`: không có gì đáng để phàn nàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She complains about the noise.

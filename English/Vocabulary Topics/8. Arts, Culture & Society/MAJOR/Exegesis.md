@@ -2,8 +2,10 @@
 *n.*
 > /ˌek.sɪˈdʒiː.sɪs/
 
+![[exegesis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Tinh thần tự học, Tri thức luận & Thực tiễn học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Critical explanation or interpretation of a text, especially a religious or literary one.

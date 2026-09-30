@@ -2,8 +2,10 @@
 *noun*
 > /ˌpɝː.sənˈæl.ə.t̬i/
 
+![[personality.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The combination of characteristics or qualities that form an individual's distinctive character.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strong personality`: tính cách mạnh mẽ
+- `split personality`: đa nhân cách phân liệt
+- `magnetic personality`: nhân cách thu hút quyến rũ
+- `develop personality`: hoàn thiện phát triển nhân cách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a lovely personality.

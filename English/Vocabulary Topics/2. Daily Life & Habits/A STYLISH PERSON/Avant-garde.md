@@ -2,8 +2,10 @@
 *adj.*
 > /ˌævɑ̃ːˈɡɑːrd/
 
+![[avant_garde.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** A STYLISH PERSON
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** New and unusual or experimental ideas, especially in the arts.
@@ -13,7 +15,10 @@
 💡 Avant-garde - à vâng, gắt (garde) quá vì quá dị.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `avant-garde fashion`: thời trang phá cách\n- `avant-garde artist`: nghệ sĩ tiên phong
+- `avant-garde fashion`: thời trang phá cách
+- `avant-garde artist`: nghệ sĩ tiên phong
+- `avant-garde design`: thiết kế mang tính thể nghiệm, đột phá
+- `avant-garde style`: phong cách tiên phong
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She loves avant-garde fashion that shocks people.

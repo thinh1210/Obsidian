@@ -2,8 +2,10 @@
 *n.*
 > /hɒst/ -> /ɪkˈspens/
 
+![[expense.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The money that you spend on something or that you need in order to do something

@@ -2,8 +2,10 @@
 *v.*
 > /ˈɪr.ɪ.ɡeɪt/
 
+![[irrigate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To supply water to land or crops to help growth, typically by means of channels.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `irrigate crops`: tưới tiêu cây trồng
 - `irrigated land`: đất đai được tưới tiêu
+- `irrigate farmland`: tưới tiêu đất canh tác
+- `drip-irrigate`: tưới nhỏ giọt
+- `irrigate systematically`: tưới tiêu có hệ thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Farmers irrigate their dry fields during the hot summer months.

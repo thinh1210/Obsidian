@@ -2,8 +2,10 @@
 *adj*
 > /ˈfrʌstreɪtɪd/
 
+![[frustrated.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing distress and annoyance.

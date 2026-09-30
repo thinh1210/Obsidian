@@ -2,8 +2,10 @@
 *adj*
 > /ˈlɔɪ.əl/
 
+![[loyal.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Giving or showing firm and constant support or allegiance to a person or institution.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `loyal supporter`: người ủng hộ trung thành
+- `fiercely loyal`: trung thành tuyệt đối mãnh liệt
+- `loyal through thick and thin`: thủy chung vượt qua mọi sóng gió thăng trầm
+- `remain loyal to`: giữ trọn lòng trung thành gắn bó với
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a loyal friend.

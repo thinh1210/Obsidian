@@ -2,8 +2,10 @@
 *verb*
 > /fiːd/
 
+![[feed.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give food to a person, group, or animal.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feed the birds`: cho chim ăn
 - `bird feeder`: máng ăn cho chim
+- `feed on`: ăn thức ăn gì để sống (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children love to feed the pigeons in the park.

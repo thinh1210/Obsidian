@@ -2,8 +2,10 @@
 *Adjective*
 > /ˌɪmpɪˈkjuːniəs/
 
+![[impecunious.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having little or no money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `impecunious student`: sinh viên nghèo túng
 - `impecunious circumstances`: hoàn cảnh nghèo túng
+- `impecunious state`: tình trạng túng quẫn cháy túi
+- `impecunious family`: gia cảnh khó khăn thiếu thốn tiền bạc
+- `help impecunious individuals`: tương trợ giúp đỡ những người túng thiếu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* As an impecunious artist, he often had to choose between buying paints or buying food.

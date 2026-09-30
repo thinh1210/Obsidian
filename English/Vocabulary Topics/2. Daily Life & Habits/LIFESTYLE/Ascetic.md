@@ -2,8 +2,10 @@
 *adj., n.*
 > /əˈsɛtɪk/
 
+![[ascetic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by severe self-discipline and abstention from all forms of indulgence.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ascetic life`: cuộc sống khổ hạnh
+- `ascetic lifestyle`: lối sống khổ hạnh, thanh đạm
+- `lead an ascetic life`: sống một đời khổ tu, khắc kỷ
+- `ascetic practices`: những thực hành khổ hạnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He lives an ascetic life.

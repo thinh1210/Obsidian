@@ -2,8 +2,10 @@
 *Adjective*
 > /daɪˈvɜːrs/
 
+![[diverse.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing a great deal of variety; very different.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Culturally diverse`: Đa dạng văn hóa
+- `diverse background`: nền tảng đa dạng phong phú
+- `ethnically diverse`: đa dạng về sắc tộc
+- `diverse opinions`: nhiều ý kiến đa dạng khác nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New York has a very diverse population.

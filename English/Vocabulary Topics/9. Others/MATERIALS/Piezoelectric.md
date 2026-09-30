@@ -2,8 +2,10 @@
 *adjective.*
 > /paɪˌiːzəʊɪˈlektrɪk/
 
+![[piezoelectric.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to electric polarization in a substance (especially certain crystals) resulting from the application of mechanical stress.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `piezoelectric effect`: hiệu ứng áp điện
 - `piezoelectric sensor`: cảm biến áp điện
+- `piezoelectric crystal`: tinh thể áp điện thạch anh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The piezoelectric lighter generates a spark when you press down on the button.

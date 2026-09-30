@@ -2,8 +2,10 @@
 *adj*
 > /ˈdʒuː.və.nəl/
 
+![[juvenile.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of, for, or relating to young people.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `juvenile delinquency`: tội phạm vị thành niên
+- `juvenile court`: tòa án vị thành niên
+- `juvenile crime`: tội phạm ở độ tuổi vị thành niên
+- `juvenile behavior`: hành vi bốc đồng trẻ con
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His behavior was very juvenile.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɔː.ɡə.nɪ.z(ə)m/
 
+![[organism.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A living thing, such as a plant, animal, fungus, or bacterium.

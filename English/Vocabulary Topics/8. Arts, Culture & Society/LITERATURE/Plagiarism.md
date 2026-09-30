@@ -2,8 +2,10 @@
 *noun*
 > /ˈpleɪ.dʒər.ɪ.zəm/
 
+![[plagiarism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Dịch thuật văn học & Bản quyền tác phẩm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of taking someone else's work or ideas and passing them off as one's own.

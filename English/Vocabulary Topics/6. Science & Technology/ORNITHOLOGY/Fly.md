@@ -2,8 +2,10 @@
 *verb*
 > /flaɪ/
 
+![[fly.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move through the air using wings.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fly high`: bay cao
 - `fly south`: bay về phương nam
+- `fly under the radar`: hành động kín đáo không gây chú ý (idiom)
+- `on the fly`: làm một cách tức thời không chuẩn bị trước (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Most birds fly south for the winter.

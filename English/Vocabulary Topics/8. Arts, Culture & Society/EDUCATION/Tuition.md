@@ -2,8 +2,10 @@
 *n.*
 > /tjuˈɪʃn/
 
+![[tuition.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money charged for teaching by a school, college, or university
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tuition fees`: học phí
 - `pay tuition`: đóng học phí
+- `free tuition`: chính sách miễn toàn bộ học phí
+- `tuition waiver`: được xét miễn giảm đóng học phí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* College tuition fees have risen dramatically.

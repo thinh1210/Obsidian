@@ -2,8 +2,10 @@
 *n.*
 > /brænd/
 
+![[brand.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of product made by a particular company.
@@ -13,7 +15,10 @@
 💡 Brand - nhãn hiệu bánh rán (brand).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `famous brand`: thương hiệu nổi tiếng\n- `luxury brand`: thương hiệu xa xỉ
+- `famous brand`: thương hiệu nổi tiếng
+- `luxury brand`: thương hiệu xa xỉ
+- `brand conscious`: chuộng hàng hiệu, quan tâm đến thương hiệu
+- `designer brand`: thương hiệu thiết kế cao cấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She only buys clothes from famous brands.

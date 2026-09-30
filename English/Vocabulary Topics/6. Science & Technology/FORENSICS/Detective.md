@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈtek.tɪv/
 
+![[detective.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A police officer or private investigator who solves crimes.

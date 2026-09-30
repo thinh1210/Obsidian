@@ -2,8 +2,10 @@
 *n.*
 > /ˈbɔːr.dɚ/
 
+![[border.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line separating two political or geographical areas.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross the border`: vượt biên
+- `border checkpoint`: trạm kiểm soát biên giới
+- `national border`: đường biên giới quốc gia
+- `patrol the border`: tuần tra khu vực biên giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We have to show our passports at the border.

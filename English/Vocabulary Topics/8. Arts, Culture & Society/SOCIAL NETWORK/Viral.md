@@ -2,8 +2,10 @@
 *adjective*
 > /ˈvaɪrəl/
 
+![[viral.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Spreading rapidly and widely from one internet user to another
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go viral`: trở nên cực kỳ phổ biến trên mạng
+- `go viral overnight`: trở nên nổi tiếng bùng nổ chỉ sau một đêm
+- `viral marketing campaign`: chiến dịch tiếp thị lan truyền với tốc độ chóng mặt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The video of the cat playing piano went viral overnight.

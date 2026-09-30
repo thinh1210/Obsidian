@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsɒn.ər.əs/
 
+![[sonorous.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a person's voice or other sound) imposingly deep and full; capable of producing a deep or ringing sound.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sonorous voice`: giọng nói vang và trầm ấm
 - `sonorous music`: âm nhạc vang dội trầm hùng
+- `sonorous chime`: tiếng chuông ngân vang rền
+- `sonorous cadence`: ngữ điệu ngân vang trầm hùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cathedral bell has a sonorous tone that can be heard miles away.

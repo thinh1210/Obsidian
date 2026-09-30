@@ -2,8 +2,10 @@
 *noun*
 > /bɔɪ/
 
+![[boy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A male child.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `little boy`: cậu bé nhỏ
+- `schoolboy`: cậu học sinh nam
+- `golden boy`: chàng trai vàng / người đầy triển vọng
+- `boys will be boys`: bản tính con trai là hiếu động (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The boy is running.

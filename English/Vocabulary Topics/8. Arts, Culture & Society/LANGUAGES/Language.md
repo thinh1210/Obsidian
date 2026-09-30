@@ -2,8 +2,10 @@
 *n.*
 > /ˈlæŋɡwɪdʒ/
 
+![[language.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of communication used by a country or community
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `foreign language`: ngôn ngữ nước ngoài
+- `target language`: ngôn ngữ đích
+- `body language`: ngôn ngữ cơ thể
+- `figurative language`: ngôn ngữ giàu hình tượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She speaks two languages.

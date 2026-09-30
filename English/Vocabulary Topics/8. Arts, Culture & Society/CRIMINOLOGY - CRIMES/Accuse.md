@@ -2,8 +2,10 @@
 *verb*
 > /əˈkjuːz/
 
+![[accuse.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say that someone has done something morally wrong, illegal, or unkind
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `accuse someone of`: buộc tội ai về việc gì
 - `falsely accuse`: buộc tội oan
+- `stand accused of`: bị cáo buộc trước vành móng ngựa về tội
+- `vehemently accuse`: kịch liệt lên tiếng cáo buộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He did not want to accuse his friend of stealing the money.

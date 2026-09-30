@@ -2,8 +2,10 @@
 *Noun*
 > /ˌdʒiːoʊˈpɑːlətɪks/
 
+![[geopolitics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Politics, especially international relations, as influenced by geographical factors.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Global geopolitics`: Địa chính trị toàn cầu
+- `geopolitical tensions`: căng thẳng địa chính trị
+- `geopolitical landscape`: bối cảnh địa chính trị
+- `strategic geopolitics`: chiến lược địa chính trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Geopolitics play a big role in oil prices.

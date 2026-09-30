@@ -2,8 +2,10 @@
 *verb*
 > /dɪˈfiːt/
 
+![[defeat.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Win a victory over someone in a battle, game, or other contest; prevent from achieving an aim.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `suffer a defeat`: chịu thất bại
 - `utterly defeat`: đánh bại hoàn toàn
+- `crushing defeat`: thất bại nặng nề tan tác trên chiến trường
+- `concede defeat`: chấp nhận nhận phần thua cuộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our school chess team managed to defeat the reigning champions.

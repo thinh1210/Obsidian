@@ -2,8 +2,10 @@
 *noun*
 > /siːdʒ/
 
+![[siege.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling the surrender of those inside.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lay siege to`: vây hãm (thành phố)
 - `lift a siege`: giải vây
+- `under siege`: rơi vào thế bị bao vây phong tỏa tứ phía
+- `break the siege`: phá vỡ vòng vây phong tỏa của quân địch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The fans laid siege to the concert hall doors, waiting for the singer to exit.

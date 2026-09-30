@@ -2,8 +2,10 @@
 *noun*
 > /ˈθer.ə.pi/
 
+![[therapy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Liệu pháp chữa lành, Thích ứng & Cơ chế phòng vệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Treatment intended to relieve or heal a disorder.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `physical therapy`: vật lý trị liệu
+- `cognitive behavioral therapy (CBT)`: liệu pháp nhận thức hành vi
+- `group therapy`: trị liệu tâm lý theo nhóm
+- `undergo therapy`: trải qua quá trình trị liệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is going to therapy.

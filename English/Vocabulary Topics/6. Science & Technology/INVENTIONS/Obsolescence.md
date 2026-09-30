@@ -2,8 +2,10 @@
 *Noun*
 > /ˌɒb.səˈles.əns/
 
+![[obsolescence.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being no longer useful or needed because something newer and better has been invented.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `planned obsolescence`: sự lỗi thời được lên kế hoạch trước
 - `technological obsolescence`: sự lỗi thời về mặt công nghệ
+- `built-in obsolescence`: tính toán để mau lỗi thời
+- `rapid obsolescence`: sự lỗi thời nhanh chóng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many tech products are designed for rapid obsolescence.

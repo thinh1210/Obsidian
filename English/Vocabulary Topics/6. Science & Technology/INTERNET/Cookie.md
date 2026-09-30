@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʊk.i/
 
+![[cookie.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small piece of data stored on a user's computer by a web browser that records browsing activity or preferences.

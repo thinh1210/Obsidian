@@ -2,8 +2,10 @@
 *v.*
 > /tiːtʃ/
 
+![[teach.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give systematic information to a person or about a subject or skill
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `teach a class`: dạy một lớp học
 - `teach skills`: dạy các kỹ năng
+- `teach by example`: làm tấm gương mẫu mực để dạy dỗ
+- `team teach`: cùng phối hợp giảng dạy theo tổ nhóm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My father teaches me how to ride a bike.

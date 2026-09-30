@@ -2,8 +2,10 @@
 *n/v*
 > /ˈriː.fʌnd/
 
+![[refund.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money returned to you
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `full refund`: hoàn tiền toàn bộ
+- `claim a refund`: yêu cầu hoàn tiền lại
+- `non-refundable deposit`: tiền đặt cọc không được hoàn lại
+- `instant refund`: chính sách hoàn tiền ngay lập tức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want a refund.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌsɪv.əl.aɪˈzeɪ.ʃən/
 
+![[civilization.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The stage of human social and cultural development and organization that is considered most advanced.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient civilization`: nền văn minh cổ đại
 - `clash of civilizations`: sự xung đột của các nền văn minh
+- `cradle of civilization`: cái nôi của nền văn minh
+- `collapse of civilization`: sự sụp đổ của nền văn minh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Nile Valley was the birthplace of ancient Egyptian civilization.

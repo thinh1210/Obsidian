@@ -2,8 +2,10 @@
 *Verb*
 > /raɪt/
 
+![[write.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make letters or numbers on a surface.
@@ -13,7 +15,10 @@
 💡 Rai (write) rai rồi viết tiếp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `write down`: ghi lại\n- `write out`: viết ra
+- `write down`: ghi lại
+- `write out`: viết ra
+- `write off`: xóa bỏ / xem như mất trắng
+- `written in stone`: bất di bất dịch / không thể thay đổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I write letters.

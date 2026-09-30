@@ -2,8 +2,10 @@
 *verb*
 > /ɡrəʊ/
 
+![[grow.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To increase in size or develop over time.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grow plants`: trồng cây
 - `grow quickly`: lớn nhanh
+- `grow in popularity`: ngày càng trở nên thịnh hành phổ biến
+- `grow accustomed to`: dần quen thuộc với điều gì
+- `grow out of control`: vượt ra ngoài tầm kiểm soát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* These plants grow best in direct sunlight.

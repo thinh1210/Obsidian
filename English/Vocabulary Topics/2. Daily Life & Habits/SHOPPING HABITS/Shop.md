@@ -2,8 +2,10 @@
 *v/n*
 > /ʃɒp/
 
+![[shop.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To visit places to buy things
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go shopping`: đi mua sắm
+- `window shopping`: đi ngắm đồ qua tủ kính (không có ý định mua)
+- `shop around`: đi dạo khảo giá khắp các cửa hàng
+- `talk shop`: nói chuyện công việc trong lúc đi chơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I shop here.

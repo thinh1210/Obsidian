@@ -2,8 +2,10 @@
 *n.*
 > /fəˈnɒlədʒi/
 
+![[phonology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of relationships among the speech sounds that constitute the fundamental components of a language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `comparative phonology`: âm vị học so sánh
+- `phonological awareness`: nhận thức về ngữ âm học
+- `phonological rules`: các quy tắc ngữ âm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I found the phonology of Russian very difficult.

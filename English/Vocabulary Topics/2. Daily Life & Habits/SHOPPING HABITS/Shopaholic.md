@@ -2,8 +2,10 @@
 *n*
 > /ˌʃɒp.əˈhɒl.ɪk/
 
+![[shopaholic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who enjoys shopping very much
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `confessed shopaholic`: người tự nhận nghiện mua sắm
+- `reformed shopaholic`: người từng nghiện mua sắm nay đã cai được
+- `shopaholic tendencies`: xu hướng nghiện mua sắm không kiểm soát
+- `support group for shopaholics`: nhóm hỗ trợ người nghiện mua sắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I'm a shopaholic.

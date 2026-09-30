@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfæs.ɪ.neɪ.tɪd/
 
+![[fascinated.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Strongly attracted and interested.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fascinated by`: bị lôi cuốn bởi
+- `utterly fascinated`: hoàn toàn bị mê hoặc cuốn hút
+- `fascinated to learn`: vô cùng hào hứng khi được biết
+- `fascinated by nature`: say mê đắm đuối với thiên nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am fascinated by space.

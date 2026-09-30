@@ -2,8 +2,10 @@
 *n.*
 > /fɪˈziːk/
 
+![[physique.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The form, size, and development of a person's body.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `muscular physique`: thể hình vạm vỡ, nhiều cơ bắp
 - `athletic physique`: vóc dáng thể thao
+- `toned physique`: vóc dáng săn chắc cân đối
+- `sculpt a powerful physique`: tôi luyện một thể hình vạm vỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has a muscular physique from years of weightlifting.

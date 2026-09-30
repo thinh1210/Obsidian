@@ -2,8 +2,10 @@
 *n.*
 > /ˈwɔːrdroʊb/
 
+![[wardrobe.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person's entire collection of clothes.
@@ -13,7 +15,11 @@
 💡 Wardrobe - word (từ) robe (áo choàng), tủ chứa áo.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `winter wardrobe`: tủ đồ mùa đông\n- `update a wardrobe`: làm mới tủ đồ
+- `winter wardrobe`: tủ đồ mùa đông
+- `update a wardrobe`: làm mới tủ đồ
+- `capsule wardrobe`: tủ quần áo tối giản, đa năng
+- `wardrobe staple`: món đồ thiết yếu cơ bản trong tủ đồ
+- `wardrobe malfunction`: sự cố trang phục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to update my summer wardrobe.

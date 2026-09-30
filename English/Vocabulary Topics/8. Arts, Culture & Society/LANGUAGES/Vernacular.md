@@ -2,8 +2,10 @@
 *n./adj.*
 > /vəˈnækjələ(r)/
 
+![[vernacular.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The language or dialect spoken by the ordinary people in a country or region
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local vernacular`: tiếng bản địa địa phương
+- `write in the vernacular`: viết bằng ngôn ngữ thông tục bản xứ
+- `vernacular literature`: văn học bằng chữ Nôm/tiếng mẹ đẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wrote in the vernacular to connect with locals.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈdes.tɪ.tʃuːt/
 
+![[destitute.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Without money, food, and other things necessary for life
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `destitute families`: những gia đình khốn cùng
+- `rendered destitute`: bị rơi vào cảnh bần cùng khốn khó
+- `destitute of hope`: cạn kiệt niềm hy vọng
+- `care for the destitute`: cứu tế cưu mang người cùng khổ
+- `destitute condition`: hoàn cảnh cơ cực bần hàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The charity provides food and shelter for destitute people.

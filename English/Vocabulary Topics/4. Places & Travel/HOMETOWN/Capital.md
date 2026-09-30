@@ -2,8 +2,10 @@
 *n.*
 > /ˈkæpɪtl/
 
+![[capital.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The most important city or town of a country or region.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `capital city`: thủ đô
+- `capital investment`: nguồn vốn đầu tư
+- `human capital`: nguồn vốn con người / nhân lực
+- `venture capital`: vốn đầu tư mạo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Hanoi is the capital of Vietnam.

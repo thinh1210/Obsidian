@@ -2,8 +2,10 @@
 *adj.*
 > /əbˈskjʊə(r)/
 
+![[obscure.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Not discovered or known about; uncertain; not clearly expressed or easily understood.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `obscure origin`: nguồn gốc mơ hồ
 - `obscure artist`: nghệ sĩ ít người biết đến
+- `obscure figure`: nhân vật mờ nhạt ít người biết
+- `obscure the truth`: làm lu mờ che đậy sự thật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He plays in an obscure rock band from the 90s.

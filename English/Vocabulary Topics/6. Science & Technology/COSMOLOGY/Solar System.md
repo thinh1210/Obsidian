@@ -2,8 +2,10 @@
 *Noun*
 > /ˈsəʊ.lər ˌsɪs.təm/
 
+![[solar_system.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The collection of eight planets and their moons in orbit round the sun.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `outer solar system`: hệ Mặt Trời vòng ngoài
 - `explore the solar system`: khám phá hệ Mặt Trời
+- `inner solar system`: hệ Mặt Trời bên trong
+- `boundaries of the solar system`: ranh giới hệ Mặt Trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We learned about the solar system in elementary school.

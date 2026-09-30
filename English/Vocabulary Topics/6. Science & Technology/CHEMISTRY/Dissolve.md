@@ -2,8 +2,10 @@
 *verb*
 > /dɪˈzɒlv/
 
+![[dissolve.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become incorporated into a liquid so as to form a solution.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dissolve in water`: hòa tan trong nước
 - `dissolve completely`: hòa tan hoàn toàn
+- `slowly dissolve`: tan từ từ
+- `dissolve solute`: hòa tan chất tan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sugar will dissolve quickly in hot tea.

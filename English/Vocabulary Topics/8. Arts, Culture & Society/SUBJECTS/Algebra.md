@@ -2,8 +2,10 @@
 *noun*
 > /ˈældʒɪbrə/
 
+![[algebra.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of mathematics in which letters and symbols are used to represent quantities in equations.

@@ -2,8 +2,10 @@
 *n.*
 > /ɪkˈspreʃn/
 
+![[expression.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A word or phrase, especially an idiomatic one, used to convey an idea
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `common expression`: cụm từ thông dụng
+- `idiomatic expression`: cụm từ mang tính thành ngữ
+- `colloquial expression`: cách diễn đạt thông dụng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* 'Piece of cake' is a common expression.

@@ -2,8 +2,10 @@
 *noun*
 > /preɪ/
 
+![[prey.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that is hunted and killed by another for food.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fall prey to`: trở thành con mồi của
 - `easy prey`: con mồi dễ dàng
+- `prey population`: quần thể con mồi
+- `hunt for prey`: săn lùng con mồi
+- `prey on the weak`: bắt nạt hoặc lợi dụng kẻ yếu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The eagle spotted its prey from high in the sky.

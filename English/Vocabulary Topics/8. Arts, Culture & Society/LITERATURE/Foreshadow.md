@@ -2,8 +2,10 @@
 *verb*
 > /fɔːrˈʃæd.əʊ/
 
+![[foreshadow.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Be a warning or indication of a future event in a story.

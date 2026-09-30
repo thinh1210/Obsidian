@@ -2,8 +2,10 @@
 *verb*
 > /əˈdæpt/
 
+![[adapt.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (something) suitable for a new use or purpose; become adjusted to new conditions.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adapt to the environment`: thích nghi với môi trường
 - `well adapted`: thích nghi tốt
+- `adapt to changing circumstances`: thích nghi với hoàn cảnh thay đổi
+- `adapt readily`: thích ứng một cách nhanh chóng
+- `adaptability to climate`: khả năng thích ứng với khí hậu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Desert plants and animals have adapted to survive with very little water.

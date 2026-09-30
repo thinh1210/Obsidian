@@ -2,8 +2,10 @@
 *adj.*
 > /ɡɑːˈɡæntʃuən/
 
+![[gargantuan.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Enormous
@@ -13,7 +15,10 @@
 💡 Gà gáy to (gargantuan)
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``gargantuan appetite`: sự thèm ăn khổng lồ`
+- `gargantuan appetite`: sự thèm ăn khổng lồ
+- `gargantuan task`: nhiệm vụ khổng lồ
+- `gargantuan effort`: nỗ lực phi thường
+- `gargantuan scale`: quy mô đồ sộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gargantuan meal.

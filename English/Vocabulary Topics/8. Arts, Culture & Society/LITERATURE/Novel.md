@@ -2,8 +2,10 @@
 *noun*
 > /ˈnɒv.əl/
 
+![[novel.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE
+**Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fictitious prose narrative of book length, representing character and action.

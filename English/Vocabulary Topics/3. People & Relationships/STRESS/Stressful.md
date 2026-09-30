@@ -2,8 +2,10 @@
 *adj.*
 > /ˈstresfl/
 
+![[stressful.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing mental or emotional stress
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stressful job`: công việc áp lực
 - `stressful situation`: tình huống căng thẳng
+- `stressful lifestyle`: lối sống đầy áp lực căng thẳng
+- `stressful environment`: môi trường áp lực nặng nề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Moving to a new house is very stressful.

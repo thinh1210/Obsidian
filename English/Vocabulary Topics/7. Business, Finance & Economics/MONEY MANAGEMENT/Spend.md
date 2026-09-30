@@ -2,8 +2,10 @@
 *Verb*
 > /spend/
 
+![[spend.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To use money to pay for goods or services.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spend money on`: tiêu tiền vào việc gì
 - `spend wisely`: chi tiêu khôn ngoan
+- `spend within one's means`: chi tiêu chừng mực trong giới hạn thu nhập
+- `discretionary spending`: các khoản chi tiêu không bắt buộc
+- `mindful spending`: chi tiêu có ý thức và cân nhắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She spends too much money on clothes.

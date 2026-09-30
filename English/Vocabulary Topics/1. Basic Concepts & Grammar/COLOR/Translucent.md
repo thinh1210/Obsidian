@@ -2,8 +2,10 @@
 *adj*
 > /trænsˈluː.sənt/
 
+![[translucent.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Allowing some light to pass through, but not detailed shapes.

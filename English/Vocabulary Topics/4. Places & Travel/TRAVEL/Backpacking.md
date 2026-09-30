@@ -2,8 +2,10 @@
 *noun*
 > /ˈbækˌpæk.ɪŋ/
 
+![[backpacking.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travelling for pleasure with a backpack

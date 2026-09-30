@@ -2,8 +2,10 @@
 *Noun*
 > /ˌnæʃəˈnæləti/
 
+![[nationality.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The status of belonging to a particular nation.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Dual nationality`: Hai quốc tịch
+- `hold dual nationality`: mang hai quốc tịch
+- `declare nationality`: khai báo quốc tịch
+- `confirm nationality`: xác minh quốc tịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What is your nationality?

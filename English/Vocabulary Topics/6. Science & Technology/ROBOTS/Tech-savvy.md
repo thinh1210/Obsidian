@@ -2,8 +2,10 @@
 *adjective.*
 > /ˌtekˈsæv.i/
 
+![[tech_savvy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Knowing a lot about modern technology and how to use it
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tech-savvy generation`: thế hệ am hiểu công nghệ
+- `tech-savvy consumer`: người tiêu dùng am hiểu công nghệ
+- `become tech-savvy`: trở nên thành thạo công nghệ
+- `tech-savvy workforce`: lực lượng lao động am hiểu công nghệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Today's tech-savvy kids learn to code before they can write properly.

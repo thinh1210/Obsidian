@@ -2,8 +2,10 @@
 *n.*
 > /pəˈluːʃn/
 
+![[pollution.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `air pollution`: ô nhiễm không khí
 - `reduce pollution`: giảm thiểu ô nhiễm
+- `noise pollution`: ô nhiễm tiếng ồn
+- `water pollution`: ô nhiễm nguồn nước
+- `curb environmental pollution`: ngăn chặn và cắt giảm ô nhiễm môi trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* People suffer from health issues caused by air pollution.

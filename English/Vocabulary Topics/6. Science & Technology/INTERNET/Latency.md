@@ -2,8 +2,10 @@
 *noun*
 > /ˈleɪ.tən.si/
 
+![[latency.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The delay between a user's action and the response from the server, measured in milliseconds.

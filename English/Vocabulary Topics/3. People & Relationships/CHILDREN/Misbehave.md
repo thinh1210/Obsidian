@@ -2,8 +2,10 @@
 *verb*
 > /ˌmɪs.bɪˈheɪv/
 
+![[misbehave.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Fail to conduct oneself in a way that is acceptable to others.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `misbehave in class`: cư xử hư trong lớp
+- `frequently misbehave`: thường xuyên nghịch ngợm ngỗ ngược
+- `punish for misbehaving`: khiển trách vì hành vi hư
+- `misbehave in public`: cư xử thiếu lịch sự nơi công cộng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't misbehave at the party.

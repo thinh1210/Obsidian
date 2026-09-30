@@ -2,8 +2,10 @@
 *n.*
 > /ˈbʌdʒɪt/
 
+![[budget.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An estimate of income and expenditure for a set period of time.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tight budget`: ngân sách eo hẹp
 - `within budget`: trong phạm vi ngân sách
+- `renovation budget`: ngân sách dành cho việc cải tạo nhà
+- `allocated budget`: ngân sách đã được phê duyệt
+- `budget overrun`: chi phí vượt quá dự toán xây sửa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to set a budget before looking at apartments.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌlɪŋɡwə ˈfræŋkə/
 
+![[lingua_franca.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A language that is adopted as a common language between speakers whose native languages are different
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `global lingua franca`: ngôn ngữ chung toàn cầu
+- `act as a lingua franca`: đóng vai trò là ngôn ngữ chung
+- `adopt as a lingua franca`: chấp nhận dùng làm ngôn ngữ giao tiếp chung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In many tourist spots, English acts as the lingua franca.

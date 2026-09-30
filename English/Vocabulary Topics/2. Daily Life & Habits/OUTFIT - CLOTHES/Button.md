@@ -2,8 +2,10 @@
 *noun*
 > /ˈbʌt̬.ən/
 
+![[button.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small disk sewn on to a garment to fasten it.
@@ -13,7 +15,10 @@
 💡 Button -> Bất tận -> Số lượng cúc áo nhiều bất tận.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `fasten a button: cài cúc áo`
+- `fasten a button`: cài cúc áo
+- `button up a shirt`: cài cúc áo sơ mi
+- `unbutton a jacket`: cởi cúc áo khoác
+- `spare button`: khuy áo dự phòng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I lost a button on my shirt.

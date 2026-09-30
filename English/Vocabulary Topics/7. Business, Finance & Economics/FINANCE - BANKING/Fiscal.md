@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfɪskl/
 
+![[fiscal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to government revenue, especially taxes, and financial matters.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fiscal year`: năm tài chính / năm tài khóa
 - `fiscal policy`: chính sách tài khóa
+- `fiscal stimulus`: gói kích cầu tài khóa
+- `fiscal cliff`: nguy cơ vách đá tài khóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government has announced a tighter fiscal policy to curb inflation.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpendənt/
 
+![[pendant.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewellery worn around the neck, consisting of a long chain with an object hanging from it.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a diamond pendant`: mặt dây chuyền kim cương
+- `crystal pendant`: mặt dây chuyền pha lê
+- `pendant necklace`: dây chuyền có mặt đeo
+- `custom-made pendant`: mặt dây chuyền làm riêng theo yêu cầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wore a gold chain with a heart-shaped pendant.

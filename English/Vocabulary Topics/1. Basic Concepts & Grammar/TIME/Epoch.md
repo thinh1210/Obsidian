@@ -2,8 +2,10 @@
 *n.*
 > /ˈiːpɒk/
 
+![[epoch.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular period of time in history or a person's life
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `new epoch`: kỷ nguyên mới
+- `epoch-making event`: sự kiện mang tính bước ngoặt thời đại
+- `golden epoch`: kỷ nguyên hoàng kim
+- `dawn of an epoch`: bình minh của một kỷ nguyên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Victorian epoch.

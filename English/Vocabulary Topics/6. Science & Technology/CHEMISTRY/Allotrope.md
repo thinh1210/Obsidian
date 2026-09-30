@@ -2,8 +2,10 @@
 *noun*
 > /ˈæl.ə.trəʊp/
 
+![[allotrope.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Each of two or more different physical forms in which an element can exist (e.g. graphite and diamond as allotropes of carbon).
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `carbon allotrope`: dạng thù hình của carbon
 - `allotropic form`: dạng thù hình
+- `allotropes of phosphorus`: các dạng thù hình của phốt pho
+- `crystalline allotrope`: dạng thù hình tinh thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Diamond and graphite are well-known allotropes of carbon.

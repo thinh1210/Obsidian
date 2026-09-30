@@ -2,8 +2,10 @@
 *verb*
 > /ˈberi/
 
+![[bury.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put a dead body into the ground
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bury the treasure`: chôn giấu kho báu
 - `bury deep`: chôn sâu
+- `buried beneath`: bị chôn vùi bên dưới
+- `bury with honors`: an táng trọng thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dog buried its bone in the backyard.

@@ -2,8 +2,10 @@
 *n.*
 > /ɪˈluː.ʒən/
 
+![[illusion.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instance of a wrong or misinterpreted perception of a sensory experience.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `create an illusion`: tạo ra ảo giác
 - `optical illusion`: ảo ảnh thị giác
+- `shatter an illusion`: làm tan biến ảo tưởng
+- `labor under an illusion`: ôm ấp ảo tưởng sai lầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The mirrors on the wall create the illusion of a larger room.

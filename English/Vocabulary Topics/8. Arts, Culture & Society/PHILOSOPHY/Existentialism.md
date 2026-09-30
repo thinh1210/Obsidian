@@ -2,8 +2,10 @@
 *n.*
 > /ˌeɡ.zɪˈsten.ʃəl.ɪ.zəm/
 
+![[existentialism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A philosophy emphasizing individual existence, freedom, and choice.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `philosophy of existentialism`: triết học hiện sinh
 - `existentialist crisis`: khủng hoảng hiện sinh
+- `existential crisis`: khủng hoảng hiện sinh
+- `existential angst`: nỗi âu lo hiện sinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* After graduating, he had a mini-existentialist crisis about his future.

@@ -2,8 +2,10 @@
 *noun*
 > /ɪmˈbezlmənt/
 
+![[embezzlement.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Theft or misappropriation of funds placed in one's trust or belonging to one's employer
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `corporate embezzlement`: tham ô doanh nghiệp
 - `accuse of embezzlement`: cáo buộc biển thủ
+- `embezzlement of funds`: biển thủ công quỹ hoặc tiền quỹ chung
+- `embezzlement scheme`: âm mưu biển thủ tài sản tinh vi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was fired following accusations of embezzlement.

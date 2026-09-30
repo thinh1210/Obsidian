@@ -2,8 +2,10 @@
 *noun*
 > /mjuːˈziː.əm/
 
+![[museum.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `history museum`: bảo tàng lịch sử
 - `visit a museum`: đi thăm bảo tàng
+- `curator of a museum`: người giám tuyển bảo tàng
+- `museum exhibit`: hiện vật trưng bày bảo tàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children love going to the natural history museum to see dinosaur fossils.

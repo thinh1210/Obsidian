@@ -2,8 +2,10 @@
 *noun*
 > /ˈpʌb.lɪ.ʃər/
 
+![[publisher.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LITERATURE
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A company or person that prepares and issues books, journals, or music for sale.

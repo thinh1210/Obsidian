@@ -2,8 +2,10 @@
 *noun*
 > /ˈstɔː.ri/
 
+![[story.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An account of imaginary or real people and events told for entertainment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tell a story`: kể một câu chuyện
 - `true story`: câu chuyện có thật
+- `untold story`: câu chuyện chưa từng kể
+- `the story unfolds`: câu chuyện dần được hé lộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My grandfather told us a fascinating story about the war.

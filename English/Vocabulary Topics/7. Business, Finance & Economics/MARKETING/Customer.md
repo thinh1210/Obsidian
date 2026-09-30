@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌstəmər/
 
+![[customer.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or organization that buys goods or services from a store or business
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `customer satisfaction`: sự hài lòng của khách hàng
 - `customer service`: dịch vụ khách hàng
+- `customer churn rate`: tỷ lệ khách hàng rời bỏ dịch vụ
+- `customer lifetime value (CLV)`: giá trị vòng đời trọn vẹn của một khách hàng
+- `customer satisfaction score (CSAT)`: điểm số đo lường sự hài lòng của khách hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The waiter was very polite, making the customer feel welcome.

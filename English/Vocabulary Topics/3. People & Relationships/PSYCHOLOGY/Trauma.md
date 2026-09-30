@@ -2,8 +2,10 @@
 *noun*
 > /ˈtrɑː.mə/
 
+![[trauma.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A deeply distressing or disturbing experience.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `childhood trauma`: chấn thương tuổi thơ
+- `heal from trauma`: chữa lành tổn thương tâm lý
+- `blunt force trauma`: chấn thương vật lý do va đập mạnh
+- `past trauma`: vết thương lòng trong quá khứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He suffered a lot of trauma.

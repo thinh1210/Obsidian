@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɪŋkərɪŋ/
 
+![[tinkering.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Attempting to repair or improve something in a casual or desultory way.

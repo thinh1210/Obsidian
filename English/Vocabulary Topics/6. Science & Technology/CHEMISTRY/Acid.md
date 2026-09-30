@@ -2,8 +2,10 @@
 *noun*
 > /ˈæs.ɪd/
 
+![[acid.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical substance, usually a liquid, which contains hydrogen and has a pH of less than 7, often tasting sour and capable of neutralizing alkalis.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `acid rain`: mưa axit
 - `stomach acid`: axit dạ dày
+- `hydrochloric acid`: axit clohidric
+- `acidic solution`: dung dịch có tính axit
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lemons contain citric acid, which gives them a sour taste.

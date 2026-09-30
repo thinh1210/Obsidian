@@ -2,8 +2,10 @@
 *noun*
 > /ˈrelɪkwəri/
 
+![[reliquary.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A container for holy relics
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `golden reliquary`: hộp đựng thánh tích bằng vàng
 - `sacred reliquary`: hộp đựng thánh tích thiêng liêng
+- `medieval reliquary`: tráp thánh tích thời trung cổ
+- `enshrine in a reliquary`: cất giữ tôn kính trong tráp thánh tích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The medieval church houses a magnificent golden reliquary.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈbruːtəlɪst/
 
+![[brutalist.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to a style of architecture characterized by the use of raw, unfinished concrete and large, heavy forms
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brutalist architecture`: kiến trúc thô mộc
 - `brutalist concrete`: bê tông phong cách thô mộc
+- `brutalist monument`: công trình tượng đài phong cách thô mộc
+- `brutalist aesthetics`: thẩm mỹ kiến trúc thô mộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Some people hate the brutalist design of the new library.

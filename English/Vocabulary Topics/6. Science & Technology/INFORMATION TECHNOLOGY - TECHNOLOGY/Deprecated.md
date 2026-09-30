@@ -2,8 +2,10 @@
 *adjective*
 > /ˈdep.rə.keɪ.tɪd/
 
+![[deprecated.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Technical/Programming | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C2 | **Ngữ cảnh:** Technical/Programming | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Considered obsolete or no longer recommended, though it may still work.

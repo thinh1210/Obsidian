@@ -2,8 +2,10 @@
 *n.*
 > /vəˈsɪn.ə.t̬i/
 
+![[vicinity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The area near or surrounding a particular place.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in the vicinity`: ở vùng lân cận
+- `immediate vicinity`: khu vực phụ cận ngay sát bên
+- `in the close vicinity`: ở khoảng cách rất gần kề
+- `surrounding vicinity`: vùng đất lân cận bao quanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There is no hospital in the immediate vicinity.

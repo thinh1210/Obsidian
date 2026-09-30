@@ -2,8 +2,10 @@
 *n.*
 > /ˌcɒnsəˈveɪʃn/
 
+![[conservation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of conserving something, in particular preservation, protection, or restoration of the natural environment and of wildlife.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wildlife conservation`: bảo tồn động vật hoang dã
 - `nature conservation`: bảo tồn thiên nhiên
+- `soil conservation`: bảo tồn và chống xói mòn đất
+- `energy conservation`: bảo tồn và tiết kiệm năng lượng
+- `conservation area`: khu vực bảo tồn thiên nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Energy conservation is key to sustainable living.

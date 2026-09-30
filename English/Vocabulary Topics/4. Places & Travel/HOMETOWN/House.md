@@ -2,8 +2,10 @@
 *n.*
 > /haʊs/
 
+![[house.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building for human habitation.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buy a house`: mua nhà
+- `build a house`: xây dựng một ngôi nhà
+- `housewarming party`: tiệc tân gia mừng nhà mới
+- `keep house`: quán xuyến tươm tất việc nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My house is small but cozy.

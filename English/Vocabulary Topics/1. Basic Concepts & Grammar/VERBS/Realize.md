@@ -2,8 +2,10 @@
 *Verb*
 > /ˈrɪə.laɪz/
 
+![[realize.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To understand a situation, sometimes suddenly.
@@ -13,7 +15,10 @@
 💡 Ri lờ lại (realize) mới nhận ra sai lầm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `realize a dream`: hiện thực hóa giấc mơ\n- `suddenly realize`: chợt nhận ra
+- `realize a dream`: hiện thực hóa giấc mơ
+- `suddenly realize`: chợt nhận ra
+- `realize full potential`: phát huy tối đa tiềm năng
+- `come to realize`: dần nhận thức ra rằng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I realized I was late.

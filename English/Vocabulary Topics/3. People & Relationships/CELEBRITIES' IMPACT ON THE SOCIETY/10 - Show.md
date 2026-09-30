@@ -2,8 +2,10 @@
 *n.*
 > /ʃəʊ/
 
+![[show.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A performance for the public.
@@ -13,7 +15,10 @@
 💡 Show -> Trình diễn
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Talk show: Chương trình trò chuyện`
+- `Talk show`: Chương trình trò chuyện
+- `reality show`: chương trình truyền hình thực tế
+- `show business`: ngành giải trí (showbiz)
+- `put on a show`: tổ chức biểu diễn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I watch the show.

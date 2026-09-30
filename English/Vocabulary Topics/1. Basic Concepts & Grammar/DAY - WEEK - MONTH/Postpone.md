@@ -2,8 +2,10 @@
 *verb*
 > /pəʊstˈpəʊn/
 
+![[postpone.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B2 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cause or arrange for something to take place at a time later than that first scheduled.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `postpone a meeting`: hoãn cuộc họp
+- `postpone until`: hoãn lại cho đến khi
+- `indefinitely postpone`: hoãn vô thời hạn
+- `decision to postpone`: quyết định tạm hoãn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had to postpone our trip.

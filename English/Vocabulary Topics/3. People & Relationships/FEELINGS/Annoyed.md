@@ -2,8 +2,10 @@
 *adj*
 > /əˈnɔɪd/
 
+![[annoyed.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Slightly angry; irritated.

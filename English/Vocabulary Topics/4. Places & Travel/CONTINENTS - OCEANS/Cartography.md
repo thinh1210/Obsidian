@@ -2,8 +2,10 @@
 *noun*
 > /kɑːˈtɒɡrəfi/
 
+![[cartography.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science or practice of drawing maps.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digital cartography`: bản đồ học kỹ thuật số
+- `principles of cartography`: các nguyên lý bản đồ học
+- `modern cartography`: bản đồ học hiện đại
+- `cartography software`: phần mềm vẽ bản đồ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He studied cartography at university.

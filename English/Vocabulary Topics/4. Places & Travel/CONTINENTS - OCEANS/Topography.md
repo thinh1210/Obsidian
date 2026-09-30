@@ -2,8 +2,10 @@
 *noun*
 > /təˈpɒɡrəfi/
 
+![[topography.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of the natural and artificial physical features of an area.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rugged topography`: địa hình gồ ghề
+- `varied topography`: địa hình đa dạng
+- `mountainous topography`: địa hình đồi núi
+- `steep topography`: địa hình dốc đứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The topography of the region makes it hard to build roads.

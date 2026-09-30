@@ -2,8 +2,10 @@
 *v.*
 > /pəˈfɔːm/
 
+![[perform.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Present a form of entertainment to an audience.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `perform live`: biểu diễn trực tiếp
 - `perform on stage`: biểu diễn trên sân khấu
+- `perform an encore`: biểu diễn thêm tiết mục đáp lại sự tán thưởng
+- `perform flawlessly`: biểu diễn một cách hoàn hảo không tì vết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The band is going to perform their new album live next week.

@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈmoʊ.ʃən/
 
+![[emotion.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A natural instinctive state of mind deriving from one's circumstances, mood, or relationships.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `show emotion`: bộc lộ cảm xúc
+- `rollercoaster of emotions`: cảm xúc thăng trầm dữ dội (idiom)
+- `repress emotions`: kìm nén cảm xúc vào lòng
+- `emotional intelligence`: trí tuệ cảm xúc (EQ)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She couldn't hide her emotions.

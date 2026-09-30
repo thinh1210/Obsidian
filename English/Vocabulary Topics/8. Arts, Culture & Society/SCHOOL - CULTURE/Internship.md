@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪntɜːnʃɪp/
 
+![[internship.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The position of a student or trainee who works in an organization, sometimes without pay, to gain work experience.

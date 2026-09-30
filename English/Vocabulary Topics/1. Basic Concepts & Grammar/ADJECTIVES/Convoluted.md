@@ -2,8 +2,10 @@
 *adj.*
 > /ˈkɒnvəluːtɪd/
 
+![[convoluted.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely complex and difficult to follow
@@ -13,7 +15,10 @@
 💡 Còn vô (convoluted) lộn xộn
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``convoluted plot`: cốt truyện rắc rối`
+- `convoluted plot`: cốt truyện rắc rối
+- `convoluted argument`: lập luận quanh co phức tạp
+- `convoluted reasoning`: lý lẽ rườm rà rắc rối
+- `convoluted sentence`: câu văn trúc trắc khó hiểu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Convoluted excuse.

@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈmɒlɪʃ/
 
+![[demolish.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To pull down or destroy a building
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `completely demolish`: phá dỡ hoàn toàn
 - `demolish a building`: phá dỡ một tòa nhà
+- `demolish old structures`: phá dỡ các công trình cũ nát
+- `demolish with explosives`: giật sập phá hủy bằng thuốc nổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The old factory was demolished to make way for new apartments.

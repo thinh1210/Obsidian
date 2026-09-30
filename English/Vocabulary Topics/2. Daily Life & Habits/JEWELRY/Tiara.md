@@ -2,8 +2,10 @@
 *noun*
 > /tiˈɑː.rə/
 
+![[tiara.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A jewelled ornamental band worn on the front of a woman's hair.
@@ -13,7 +15,10 @@
 💡 Tia (Tia) sáng từ vương miện.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `diamond tiara: vương miện kim cương`
+- `diamond tiara`: vương miện kim cương
+- `royal tiara`: vương miện hoàng gia
+- `bridal tiara`: vương miện cô dâu
+- `bejeweled tiara`: vương miện nạm kín đá quý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bride wore a tiara.

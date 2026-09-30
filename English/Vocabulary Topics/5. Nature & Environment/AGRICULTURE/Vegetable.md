@@ -2,8 +2,10 @@
 *n.*
 > /ˈvedʒ.tə.bəl/
 
+![[vegetable.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plant or part of a plant used as food.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fresh vegetable`: rau tươi
 - `grow vegetables`: trồng rau củ
+- `leafy vegetable`: rau ăn lá
+- `organic vegetable`: rau hữu cơ sạch
+- `vegetable plot`: luống đất trồng rau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Green vegetables are good for your health.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈpɑːs.taɪm/
 
+![[pastime.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity that is done for enjoyment.

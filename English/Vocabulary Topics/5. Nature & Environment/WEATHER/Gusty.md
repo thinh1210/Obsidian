@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɡʌsti/
 
+![[gusty.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WEATHER
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by sudden, strong blows of wind
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gusty winds`: gió giật mạnh từng cơn
+- `gusty showers`: những cơn mưa rào kèm gió giật mạnh
+- `gusty conditions`: điều kiện thời tiết nhiều gió lốc từng cơn
+- `strong and gusty winds`: gió thổi rất mạnh và giật từng đợt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pilots had to deal with gusty winds during landing.

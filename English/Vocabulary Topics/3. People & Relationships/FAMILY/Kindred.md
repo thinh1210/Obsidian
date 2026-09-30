@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɪn.drəd/
 
+![[kindred.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Family and relations, or similar in kind.

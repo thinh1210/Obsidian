@@ -2,8 +2,10 @@
 *adj.*
 > /ˈkʌl.ɪ.nər.i/
 
+![[culinary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or for cooking.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɔː.tər/
 
+![[daughter.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A girl or woman in relation to her parents.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `only daughter`: con gái duy nhất
+- `doting daughter`: cô con gái hiếu thảo yêu thương
+- `daughter-in-law`: con dâu
+- `eldest daughter`: con gái cả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is my daughter.

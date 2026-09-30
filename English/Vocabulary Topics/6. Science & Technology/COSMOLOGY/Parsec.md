@@ -2,8 +2,10 @@
 *Noun*
 > /ˈpɑː.sek/
 
+![[parsec.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A unit of distance equal to about 3.26 light-years.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mega parsec`: triệu parsec
 - `distance in parsecs`: khoảng cách tính bằng parsec
+- `astronomical parsec`: đơn vị parsec thiên văn
+- `kilo parsec`: kiloparsec
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A parsec is a hard unit to wrap your head around.

@@ -2,8 +2,10 @@
 *n.*
 > /rɪˈzɪl.jəns/
 
+![[resilience.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The capacity to recover quickly from difficulties; toughness.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mental resilience`: sự kiên cường về mặt tinh thần
 - `show resilience`: thể hiện sự kiên cường
+- `bounce back with resilience`: hồi sinh mạnh mẽ đầy kiên cường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The athlete's resilience helped him recover from a career-threatening injury.

@@ -2,8 +2,10 @@
 *Verb*
 > /flaɪ/
 
+![[fly.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move through the air or space using wings or a spacecraft.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fly into space`: bay vào vũ trụ
 - `fly a rocket`: lái tên lửa
+- `flyby trajectory`: quỹ đạo bay ngang qua thăm dò
+- `fly into orbit`: bay vào quỹ đạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Birds fly in the sky.

@@ -2,8 +2,10 @@
 *adv.*
 > /ˈreəli/
 
+![[rarely.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not often; seldom
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rarely happen`: hiếm khi xảy ra
+- `rarely seen`: hiếm thấy
+- `rarely if ever`: hầu như không bao giờ
+- `rarely complain`: rất hiếm khi than phiền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I rarely eat fast food.

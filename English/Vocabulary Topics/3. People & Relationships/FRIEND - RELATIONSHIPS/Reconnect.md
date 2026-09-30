@@ -2,8 +2,10 @@
 *verb*
 > /ˌriː.kəˈnekt/
 
+![[reconnect.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Re-establish a bond of communication or emotion.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reconnect with an old friend`: kết nối lại với một người bạn cũ
+- `reconnect after years`: kết nối lại sau bao năm xa cách
+- `reconnect on social media`: tìm lại kết nối trên mạng xã hội
+- `deep desire to reconnect`: mong muốn tha thiết được gắn kết lại tình bạn cũ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I reconnected with my college roommate.

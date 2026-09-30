@@ -2,8 +2,10 @@
 *Verb*
 > /riːd/
 
+![[read.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at words and understand what they mean.
@@ -13,7 +15,10 @@
 💡 Rít (read) một hơi thuốc rồi đọc sách.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `read aloud`: đọc to\n- `read through`: đọc qua
+- `read aloud`: đọc to
+- `read through`: đọc qua
+- `read between the lines`: hiểu được ẩn ý
+- `read someone like a book`: đi guốc trong bụng ai đó
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I read books.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈɡædʒɪtri/
 
+![[gadgetry.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Media | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Daily/Media | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small mechanical or electronic devices or tools, especially ingenious or novel ones.

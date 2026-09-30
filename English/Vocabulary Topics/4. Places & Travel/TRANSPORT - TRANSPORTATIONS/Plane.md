@@ -2,8 +2,10 @@
 *noun*
 > /pleɪn/
 
+![[plane.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An airplane or aeroplane.
@@ -16,6 +18,7 @@
 - `board a plane`: lên máy bay
 - `plane ticket`: vé máy bay
 - `by plane`: bằng máy bay
+- `charter plane`: máy bay thuê bao riêng chuyến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am traveling to London by plane.

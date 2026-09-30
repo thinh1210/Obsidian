@@ -2,8 +2,10 @@
 *Noun*
 > /dʌst/
 
+![[dust.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fine, dry powder; in cosmology, small solid particles in space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `interstellar dust`: bụi liên sao
 - `dust cloud`: đám mây bụi
+- `cosmic dust grain`: hạt bụi vũ trụ
+- `stardust`: bụi sao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There is a lot of dust on the shelf.

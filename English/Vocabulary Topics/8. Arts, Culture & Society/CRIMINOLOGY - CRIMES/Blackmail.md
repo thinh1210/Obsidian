@@ -2,8 +2,10 @@
 *noun*
 > /ˈblækmeɪl/
 
+![[blackmail.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of demanding money from a person in return for not revealing compromising information about them
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `emotional blackmail`: tống tiền tình cảm
 - `succumb to blackmail`: đầu hàng trước sự tống tiền
+- `blackmail threat`: lời đe dọa tống tiền hoặc tống tình
+- `attempted blackmail`: hành vi mưu toan tống tiền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He refused to give in to her blackmail.

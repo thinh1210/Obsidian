@@ -2,8 +2,10 @@
 *noun*
 > /ˌrep.lɪˈkeɪ.ʃən/
 
+![[replication.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of repeating a scientific experiment to verify results; also the copying of DNA.

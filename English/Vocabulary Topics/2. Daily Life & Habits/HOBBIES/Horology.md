@@ -2,8 +2,10 @@
 *noun*
 > /hɒˈrɒlədʒi/
 
+![[horology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study and measurement of time, or the art of making clocks and watches.

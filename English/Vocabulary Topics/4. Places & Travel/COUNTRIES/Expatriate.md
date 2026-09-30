@@ -2,8 +2,10 @@
 *Noun*
 > /eksˈpeɪtriət/
 
+![[expatriate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who lives outside their native country.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Expatriate community`: Cộng đồng người nước ngoài
+- `expatriate worker`: chuyên gia lao động nước ngoài
+- `living as an expatriate`: sống như một người xa xứ
+- `expatriate life`: cuộc sống xa xứ của kiều bào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many expatriates live in this neighborhood.

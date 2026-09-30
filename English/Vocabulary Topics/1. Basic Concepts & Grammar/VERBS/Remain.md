@@ -2,8 +2,10 @@
 *Verb*
 > /rɪˈmeɪn/
 
+![[remain.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To stay in the same place or in the same condition.
@@ -13,7 +15,10 @@
 💡 Rì men (remain) vẫn duy trì nồng độ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `remain calm`: giữ bình tĩnh\n- `remain unchanged`: không thay đổi
+- `remain calm`: giữ bình tĩnh
+- `remain unchanged`: không thay đổi
+- `remain silent`: giữ im lặng
+- `remain in effect`: vẫn còn giữ nguyên hiệu lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please remain seated.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈhed.wɪnd/
 
+![[headwind.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wind blowing directly towards an aircraft, slowing its speed over the ground.

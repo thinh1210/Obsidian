@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɪvəsi/
 
+![[privacy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being free from public attention or unsanctioned data collection
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `privacy settings`: thiết lập quyền riêng tư
+- `privacy policy`: chính sách quyền riêng tư
+- `breach of privacy`: hành vi xâm phạm quyền riêng tư cá nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should check your privacy settings to control who sees your posts.

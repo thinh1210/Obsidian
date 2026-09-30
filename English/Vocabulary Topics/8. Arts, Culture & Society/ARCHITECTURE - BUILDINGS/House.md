@@ -2,8 +2,10 @@
 *n.*
 > /haʊs/
 
+![[house.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building for people to live in
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build a house`: xây nhà
 - `historic house`: ngôi nhà lịch sử
+- `detached house`: nhà biệt lập đơn lập
+- `residential house`: nhà ở khu dân cư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live in a beautiful house near the park.

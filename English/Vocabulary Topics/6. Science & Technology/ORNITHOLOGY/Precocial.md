@@ -2,8 +2,10 @@
 *adjective*
 > /prɪˈkəʊ.ʃəl/
 
+![[precocial.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a young bird or other animal) hatched or born in an advanced state and able to feed itself almost immediately.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `precocial chicks`: chim non tự lập sớm
 - `precocial species`: loài có con non tự lập sớm
+- `precocial birds`: các loài chim có con non tự lập sớm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ducks and chickens hatch precocial chicks that can walk and eat right away.

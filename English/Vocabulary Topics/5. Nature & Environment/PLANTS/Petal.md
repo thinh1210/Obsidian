@@ -2,8 +2,10 @@
 *noun*
 > /ˈpetl/
 
+![[petal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Each of the segments of the corolla of a flower, which are modified leaves and are typically colored.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rose petal`: cánh hoa hồng
 - `soft petals`: cánh hoa mềm mại
+- `delicate petals`: những cánh hoa mỏng manh
+- `scatter petals`: rải cánh hoa
+- `petal drop`: hiện tượng rụng cánh hoa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She dried the rose petals to make potpourri.

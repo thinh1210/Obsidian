@@ -2,8 +2,10 @@
 *adj*
 > /əˈʃeɪmd/
 
+![[ashamed.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Embarrassed or guilty because of one's actions.

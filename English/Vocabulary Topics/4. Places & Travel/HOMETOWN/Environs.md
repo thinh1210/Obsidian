@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈvaɪərənz/
 
+![[environs.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The surrounding area or district.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `city environs`: vùng lân cận thành phố
+- `rural environs`: vùng làng quê lân cận
+- `explore the environs`: khám phá vùng lân cận
+- `surrounding environs`: môi trường sinh thái phụ cận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live in the beautiful environs of Paris.

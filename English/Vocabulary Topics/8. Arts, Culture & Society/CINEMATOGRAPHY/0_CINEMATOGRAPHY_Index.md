@@ -1,62 +1,106 @@
 # Tổng hợp từ vựng: CINEMATOGRAPHY
 
 Đây là file tổng hợp các từ vựng thuộc chủ đề **CINEMATOGRAPHY**.
-Danh sách dưới đây đã được **sắp xếp theo cấp độ (Level) từ thấp đến cao (A1 -> C2)**. Bạn nên ưu tiên học các từ cơ bản ở trên cùng trước.
+Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực quan** và **sắp xếp theo cấp độ từ A1 đến C2** giúp bạn dễ dàng liên kết từ vựng theo tư duy ngữ cảnh và sơ đồ tư duy thực tế.
 
-## Danh sách từ vựng
+## 🗺️ Sơ đồ liên kết chủ đề (Semantic Map)
+- **🎥 1. Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất** (Camera Craft, Lighting, Studio & Production Crew): [[Camera]], [[Cinema]], [[Film]], [[Light]], [[Movie]], [[Director]], [[Producer]], [[Scene]], [[Screen]], [[Script]], [[Studio]], [[Crew]], [[Focus]], [[Lens]], [[Storyboard]]
+- **🎭 2. Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện** (Acting, Film Genres & Narrative Arcs): [[Theme]], [[Actor]], [[Star]], [[Action]], [[Animation]], [[Audience]], [[Background]], [[Character]], [[Comedy]], [[Drama]], [[Plot]], [[Role]], [[Trailer]], [[Climax]], [[Dialogue]], [[Genre]], [[Protagonist]], [[Screenplay]]
+- **🎵 3. Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh** (Soundtracks, Foley & Audio-Visual Design): [[Music]], [[Sound]], [[Soundtrack]], [[Editing]], [[Special effects]], [[Voiceover]], [[Diegetic]], [[Foley]], [[Leitmotif]], [[Non-diegetic]]
+- **🎞️ 4. Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh** (Auteur Theory, Montage & Mise-en-Scène): [[Cinematic]], [[Melodrama]], [[Montage]], [[Auteur]], [[Cineast]], [[Cinephile]], [[Mise-en-scène]]
 
-| Từ vựng | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- |
-| Actor | A1 | n. | Diễn viên | acting, actress | [[Actor]] |
-| Camera | A1 | n. | Máy quay phim, máy ảnh | cameraman, camerawork | [[Camera]] |
-| Cinema | A1 | n. | Điện ảnh, rạp chiếu phim | cinematic (adj), cinephile | [[Cinema]] |
-| Film | A1 | n. | Bộ phim, cuộn phim | filming, filmmaker (n) | [[Film]] |
-| Light | A1 | n. | Ánh sáng | lightness (n), lighten (v), lightly (adv) | [[Light]] |
-| Movie | A1 | n. | Phim điện ảnh | moviegoer (n) | [[Movie]] |
-| Music | A1 | n. | Âm nhạc | musical (adj), musician | [[Music]] |
-| Sound | A1 | n. | Âm thanh | soundproof, soundtrack | [[Sound]] |
-| Star | A1 | n. | Ngôi sao điện ảnh, diễn viên chính | star (v), starry (adj), stardom (n) | [[Star]] |
-| Director | A2 | n. | Đạo diễn | direct, direction (n), directory | [[Director]] |
-| Producer | A2 | n. | Nhà sản xuất | produce, production (n), productive (adj) | [[Producer]] |
-| Scene | A2 | n. | Cảnh phim, phân cảnh | scenery, scenic (adj) | [[Scene]] |
-| Screen | A2 | n. | Màn ảnh, màn hình | screening, screenplay | [[Screen]] |
-| Script | A2 | n. | Kịch bản | scriptwriter (n), scripture | [[Script]] |
-| Studio | A2 | n. | Phim trường, hãng phim, phòng thu | studious (adj) | [[Studio]] |
-| Action | B1 | n. | Cảnh hành động, diễn xuất | active (adj), actor (n), activate | [[Action]] |
-| Animation | B1 | n. | Phim hoạt hình, kỹ thuật làm hoạt hình | animate, animator (n), animated | [[Animation]] |
-| Audience | B1 | n. | Khán giả | auditory, audition (n) | [[Audience]] |
-| Background | B1 | n. | Hậu cảnh, nền | - | [[Background]] |
-| Character | B1 | n. | Nhân vật | characteristic (adj), characterize (v) | [[Character]] |
-| Comedy | B1 | n. | Phim hài, kịch hài | comedian, comedic (adj) | [[Comedy]] |
-| Crew | B1 | n. | Đoàn làm phim, đội ngũ nhân viên | - | [[Crew]] |
-| Drama | B1 | n. | Phim chính kịch, kịch tính | dramatic (adj), dramatist (n) | [[Drama]] |
-| Focus | B1 | v. | Lấy nét, tiêu điểm | focal (adj), focused | [[Focus]] |
-| Plot | B1 | n. | Cốt truyện, tình tiết | plotter (n) | [[Plot]] |
-| Role | B1 | n. | Vai diễn, vai trò | - | [[Role]] |
-| Soundtrack | B1 | n. | Nhạc phim, dải âm thanh trong phim | - | [[Soundtrack]] |
-| Trailer | B1 | n. | Đoạn giới thiệu phim, trailer | - | [[Trailer]] |
-| Climax | B2 | n. | Cao trào | climactic (adj) | [[Climax]] |
-| Dialogue | B2 | n. | Lời thoại, cuộc đối thoại | dialogic (adj) | [[Dialogue]] |
-| Editing | B2 | n. | Việc dựng phim, biên tập hình ảnh/âm thanh | edit, editor (n), editorial (adj) | [[Editing]] |
-| Genre | B2 | n. | Thể loại | generic (adj) | [[Genre]] |
-| Lens | B2 | n. | Ống kính máy quay | lensed | [[Lens]] |
-| Special effects | B2 | n. | Hiệu ứng đặc biệt, kỹ xảo điện ảnh | - | [[Special effects]] |
-| Theme | B2 | n. | Chủ đề, thông điệp chủ đạo | thematic (adj), thematically | [[Theme]] |
-| Cinematic | C1 | adj. | Mang tính điện ảnh, thuộc về điện ảnh | cinema, cinematography | [[Cinematic]] |
-| Melodrama | C1 | n. | Phim tâm lý tình cảm cường điệu, kịch sướt mướt | melodramatic (adj), melodramatically | [[Melodrama]] |
-| Montage | C1 | n. | Kỹ thuật dựng phim ghép cảnh, chuỗi phân cảnh cô đọng | - | [[Montage]] |
-| Protagonist | C1 | n. | Nhân vật chính diện, nhân vật chính | protagonism | [[Protagonist]] |
-| Screenplay | C1 | n. | Kịch bản điện ảnh, kịch bản phim | screenplayer (n), screenwriting | [[Screenplay]] |
-| Storyboard | C1 | n. | Bảng phân cảnh hình ảnh, kịch bản hình ảnh | storyboarding | [[Storyboard]] |
-| Voiceover | C1 | n. | Thuyết minh, giọng đọc ngoại hình | - | [[Voiceover]] |
-| Auteur | C2 | n. | Đạo diễn auteur, đạo diễn mang phong cách độc đáo | auteurist (n), auteurism | [[Auteur]] |
-| Cineast | C2 | n. | Nhà làm phim chuyên nghiệp, người say mê nghiên cứu điện ảnh | cineaste | [[Cineast]] |
-| Cinephile | C2 | n. | Người yêu điện ảnh cuồng nhiệt | cinephilia | [[Cinephile]] |
-| Diegetic | C2 | adj. | Thuộc về thế giới trong phim, nội tự sự | diegesis, intradiegetic (adj) | [[Diegetic]] |
-| Foley | C2 | n. | Kỹ thuật tạo tiếng động thực tế, âm thanh foley | - | [[Foley]] |
-| Leitmotif | C2 | n. | Giai điệu đặc trưng, mô-típ lặp lại | - | [[Leitmotif]] |
-| Mise-en-scène | C2 | n. | Sự dàn cảnh, nghệ thuật sắp xếp khung cảnh | - | [[Mise-en-scène]] |
-| Non-diegetic | C2 | adj. | Ngoài thế giới trong phim, ngoại tự sự | non-diegetically (adv), non-diegeticness (n) | [[Non-diegetic]] |
+## Danh sách từ vựng theo nhóm ngữ nghĩa
+
+### 🎥 1. Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất (Camera Craft, Lighting, Studio & Production Crew)
+*Máy quay điện ảnh, ống kính góc rộng, nguồn sáng trường quay, đạo diễn, nhà sản xuất và bảng phân cảnh.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Camera | /ˈkæmrə/ [[camera.mp3\|🔊]] | A1 | n. | Máy quay phim, máy ảnh | cameraman, camerawork | [[Camera]] |
+| Cinema | /ˈsɪnəmə/ [[cinema.mp3\|🔊]] | A1 | n. | Điện ảnh, rạp chiếu phim | cinematic (adj), cinephile | [[Cinema]] |
+| Film | /fɪlm/ [[film.mp3\|🔊]] | A1 | n. | Bộ phim, cuộn phim | filming, filmmaker (n) | [[Film]] |
+| Light | /laɪt/ [[light.mp3\|🔊]] | A1 | n. | Ánh sáng | lightness (n), lighten (v), lightly (adv) | [[Light]] |
+| Movie | /ˈmuːvi/ [[movie.mp3\|🔊]] | A1 | n. | Phim điện ảnh | moviegoer (n) | [[Movie]] |
+| Director | /daɪˈrektə(r)/ [[director.mp3\|🔊]] | A2 | n. | Đạo diễn | direct, direction (n), directory | [[Director]] |
+| Producer | /prəˈdjuːsə(r)/ [[producer.mp3\|🔊]] | A2 | n. | Nhà sản xuất | produce, production (n), productive (adj) | [[Producer]] |
+| Scene | /siːn/ [[scene.mp3\|🔊]] | A2 | n. | Cảnh phim, phân cảnh | scenery, scenic (adj) | [[Scene]] |
+| Screen | /skriːn/ [[screen.mp3\|🔊]] | A2 | n. | Màn ảnh, màn hình | screening, screenplay | [[Screen]] |
+| Script | /skrɪpt/ [[script.mp3\|🔊]] | A2 | n. | Kịch bản | scriptwriter (n), scripture | [[Script]] |
+| Studio | /ˈstjuːdiəʊ/ [[studio.mp3\|🔊]] | A2 | n. | Phim trường, hãng phim, phòng thu | studious (adj) | [[Studio]] |
+| Crew | /kruː/ [[crew.mp3\|🔊]] | B1 | n. | Đoàn làm phim, đội ngũ nhân viên | - | [[Crew]] |
+| Focus | /ˈfəʊkəs/ [[focus.mp3\|🔊]] | B1 | v. | Lấy nét, tiêu điểm | focal (adj), focused | [[Focus]] |
+| Lens | /lenz/ [[lens.mp3\|🔊]] | B2 | n. | Ống kính máy quay | lensed | [[Lens]] |
+| Storyboard | /ˈskɔːribɔːd/ [[storyboard.mp3\|🔊]] | C1 | n. | Bảng phân cảnh hình ảnh, kịch bản hình ảnh | storyboarding | [[Storyboard]] |
+
+### 🎭 2. Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện (Acting, Film Genres & Narrative Arcs)
+*Ngôi sao màn bạc, nhân vật chính diện, phim hành động kịch tính, phim hài, cao trào thắt nút và kịch bản phim.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Actor | /ˈæktə(r)/ [[actor.mp3\|🔊]] | A1 | n. | Diễn viên | acting, actress | [[Actor]] |
+| Star | /stɑː(r)/ [[star.mp3\|🔊]] | A1 | n. | Ngôi sao điện ảnh, diễn viên chính | star (v), starry (adj), stardom (n) | [[Star]] |
+| Action | /ˈækʃn/ [[action.mp3\|🔊]] | B1 | n. | Cảnh hành động, diễn xuất | active (adj), actor (n), activate | [[Action]] |
+| Animation | /ˌænɪˈmeɪʃn/ [[animation.mp3\|🔊]] | B1 | n. | Phim hoạt hình, kỹ thuật làm hoạt hình | animate, animator (n), animated | [[Animation]] |
+| Audience | /ˈɔːdiəns/ [[audience.mp3\|🔊]] | B1 | n. | Khán giả | auditory, audition (n) | [[Audience]] |
+| Background | /ˈbækɡraʊnd/ [[background.mp3\|🔊]] | B1 | n. | Hậu cảnh, nền | - | [[Background]] |
+| Character | /ˈkærəktə(r)/ [[character.mp3\|🔊]] | B1 | n. | Nhân vật | characteristic (adj), characterize (v) | [[Character]] |
+| Comedy | /ˈkɒmədi/ [[comedy.mp3\|🔊]] | B1 | n. | Phim hài, kịch hài | comedian, comedic (adj) | [[Comedy]] |
+| Drama | /ˈdrɑːmə/ [[drama.mp3\|🔊]] | B1 | n. | Phim chính kịch, kịch tính | dramatic (adj), dramatist (n) | [[Drama]] |
+| Plot | /plɒt/ [[plot.mp3\|🔊]] | B1 | n. | Cốt truyện, tình tiết | plotter (n) | [[Plot]] |
+| Role | /rəʊl/ [[role.mp3\|🔊]] | B1 | n. | Vai diễn, vai trò | - | [[Role]] |
+| Trailer | /ˈtreɪlə(r)/ [[trailer.mp3\|🔊]] | B1 | n. | Đoạn giới thiệu phim, trailer | - | [[Trailer]] |
+| Climax | /ˈklaɪmæks/ [[climax.mp3\|🔊]] | B2 | n. | Cao trào | climactic (adj) | [[Climax]] |
+| Dialogue | /ˈdaɪəlɒɡ/ [[dialogue.mp3\|🔊]] | B2 | n. | Lời thoại, cuộc đối thoại | dialogic (adj) | [[Dialogue]] |
+| Genre | /ˈʒɒ̃rə/ [[genre.mp3\|🔊]] | B2 | n. | Thể loại | generic (adj) | [[Genre]] |
+| Theme | /θiːm/ [[theme.mp3\|🔊]] | B2 | n. | Chủ đề, thông điệp chủ đạo | thematic (adj), thematically | [[Theme]] |
+| Protagonist | /prəˈtæɡənɪst/ [[protagonist.mp3\|🔊]] | C1 | n. | Nhân vật chính diện, nhân vật chính | protagonism | [[Protagonist]] |
+| Screenplay | /ˈskriːnpleɪ/ [[screenplay.mp3\|🔊]] | C1 | n. | Kịch bản điện ảnh, kịch bản phim | screenplayer (n), screenwriting | [[Screenplay]] |
+
+### 🎵 3. Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh (Soundtracks, Foley & Audio-Visual Design)
+*Bản nhạc phim nền, nghệ thuật tạo tiếng động foley, nhạc chủ đề leitmotif, âm thanh nội cảnh và ngoại cảnh.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Music | /ˈmjuːzɪk/ [[music.mp3\|🔊]] | A1 | n. | Âm nhạc | musical (adj), musician | [[Music]] |
+| Sound | /saʊnd/ [[sound.mp3\|🔊]] | A1 | n. | Âm thanh | soundproof, soundtrack | [[Sound]] |
+| Soundtrack | /ˈsaʊndtræk/ [[soundtrack.mp3\|🔊]] | B1 | n. | Nhạc phim, dải âm thanh trong phim | - | [[Soundtrack]] |
+| Editing | /ˈedɪtɪŋ/ [[editing.mp3\|🔊]] | B2 | n. | Việc dựng phim, biên tập hình ảnh/âm thanh | edit, editor (n), editorial (adj) | [[Editing]] |
+| Special effects | /ˌspeʃl ɪˈfekts/ [[special_effects.mp3\|🔊]] | B2 | n. | Hiệu ứng đặc biệt, kỹ xảo điện ảnh | - | [[Special effects]] |
+| Voiceover | /ˈvɔɪsəʊvə(r)/ [[voiceover.mp3\|🔊]] | C1 | n. | Thuyết minh, giọng đọc ngoại hình | - | [[Voiceover]] |
+| Diegetic | /ˌdaɪəˈdʒetɪk/ [[diegetic.mp3\|🔊]] | C2 | adj. | Thuộc về thế giới trong phim, nội tự sự | diegesis, intradiegetic (adj) | [[Diegetic]] |
+| Foley | /ˈfoʊli/ [[foley.mp3\|🔊]] | C2 | n. | Kỹ thuật tạo tiếng động thực tế, âm thanh foley | - | [[Foley]] |
+| Leitmotif | /ˈlaɪtməʊtiːf/ [[leitmotif.mp3\|🔊]] | C2 | n. | Giai điệu đặc trưng, mô-típ lặp lại | - | [[Leitmotif]] |
+| Non-diegetic | /nɒnˌdaɪəˈdʒetɪk/ [[non_diegetic.mp3\|🔊]] | C2 | adj. | Ngoài thế giới trong phim, ngoại tự sự | non-diegetically (adv), non-diegeticness (n) | [[Non-diegetic]] |
+
+### 🎞️ 4. Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh (Auteur Theory, Montage & Mise-en-Scène)
+*Dấu ấn phong cách auteur, nghệ thuật dàn cảnh mise-en-scène, kỹ thuật cắt dựng montage và góc nhìn người yêu điện ảnh.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cinematic | /ˌsɪnəˈmætɪk/ [[cinematic.mp3\|🔊]] | C1 | adj. | Mang tính điện ảnh, thuộc về điện ảnh | cinema, cinematography | [[Cinematic]] |
+| Melodrama | /ˈmelədrɑːmə/ [[melodrama.mp3\|🔊]] | C1 | n. | Phim tâm lý tình cảm cường điệu, kịch sướt mướt | melodramatic (adj), melodramatically | [[Melodrama]] |
+| Montage | /mɒnˈtɑːʒ/ [[montage.mp3\|🔊]] | C1 | n. | Kỹ thuật dựng phim ghép cảnh, chuỗi phân cảnh cô đọng | - | [[Montage]] |
+| Auteur | /oʊˈtɜːr/ [[auteur.mp3\|🔊]] | C2 | n. | Đạo diễn auteur, đạo diễn mang phong cách độc đáo | auteurist (n), auteurism | [[Auteur]] |
+| Cineast | /sɪˈniːæst/ [[cineast.mp3\|🔊]] | C2 | n. | Nhà làm phim chuyên nghiệp, người say mê nghiên cứu điện ảnh | cineaste | [[Cineast]] |
+| Cinephile | /ˈsɪnɪfaɪl/ [[cinephile.mp3\|🔊]] | C2 | n. | Người yêu điện ảnh cuồng nhiệt | cinephilia | [[Cinephile]] |
+| Mise-en-scène | /ˌmiːz ɒ̃ ˈsen/ [[mise_en_scène.mp3\|🔊]] | C2 | n. | Sự dàn cảnh, nghệ thuật sắp xếp khung cảnh | - | [[Mise-en-scène]] |
+
+## 🔗 Cụm từ, Collocations & Phrasal Verbs phổ biến theo chủ đề (Key Phrases & Expressions)
+*Các cụm từ cố định, phrasal verbs và thành ngữ thông dụng nhất giúp bạn nói và viết tự nhiên về chủ đề **CINEMATOGRAPHY**.*
+
+| Cụm từ / Phrasal Verb | Loại | Cấp độ | Ý nghĩa | Ví dụ áp dụng |
+| --- | --- | --- | --- | --- |
+| **silver screen** | Idiom | B2 | màn bạc điện ảnh | *Legendary Hollywood stars captivated generations of moviegoers on the silver screen.* |
+| **box office hit** | Collocation | B2 | bộ phim bom tấn đại thắng phòng vé | *The superhero sequel proved to be an unstoppable global box office hit.* |
+| **roll the cameras** | Collocation | B2 | bấm máy quay cảnh phim | *Silence descended on the outdoor set as the director ordered the crew to roll the cameras.* |
+| **behind the scenes** | Idiom | B1 | ở hậu trường, phía sau cánh gà | *A documentary crew filmed fascinating footage showing the magic behind the scenes.* |
+| **act out a scene** | Phrasal Verb | B1 | diễn xuất thực hiện một phân cảnh | *The young auditionees were asked to act out an emotionally intense dramatic scene.* |
+| **cinematic brilliance** | Collocation | C1 | tài năng nghệ thuật điện ảnh xuất chúng | *The long, continuous tracking shot through the trenches demonstrated true cinematic brilliance.* |
+| **steal the show** | Idiom | B2 | chiếm trọn sự chú ý của khán giả | *Despite minimal dialogue, the young child actor managed to steal the show completely.* |
+| **special visual effects** | Collocation | B1 | kỹ xảo điện ảnh đặc biệt (CGI) | *Pioneering special visual effects transported cinema audiences into outer space.* |
+| **fade out** | Phrasal Verb | B2 | mờ dần (hình ảnh hoặc âm thanh cuối phim) | *The poignant final scene slowly faded out as melancholy piano music resonated.* |
+| **auteur cinema** | Collocation | C2 | dòng phim mang đậm dấu ấn cá nhân đạo diễn | *Film scholars frequently analyze European auteur cinema for its idiosyncratic themes.* |
+
 ## 📖 Đoạn văn thực tế (Contextual Story)
 
 ### English Paragraph

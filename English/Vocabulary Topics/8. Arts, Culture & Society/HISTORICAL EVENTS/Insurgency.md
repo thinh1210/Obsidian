@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈsɜː.dʒən.si/
 
+![[insurgency.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An active revolt or uprising; an armed rebellion against an constituted authority.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `armed insurgency`: cuộc nổi dậy vũ trang
 - `counter-insurgency`: chống nổi dậy
+- `quell an insurgency`: trấn áp dẹp tan một cuộc nổi dậy có vũ trang
+- `guerilla insurgency`: phong trào khởi nghĩa đánh theo lối du kích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The rebel group began an insurgency against the dictator.

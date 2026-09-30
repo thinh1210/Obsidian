@@ -2,8 +2,10 @@
 *noun*
 > /ˈplæt.ɪ.nəm/
 
+![[platinum.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious silvery-white metal.
@@ -13,7 +15,10 @@
 💡 Pha la (Plati) num bạch kim.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `platinum ring: nhẫn bạch kim`
+- `platinum ring`: nhẫn bạch kim
+- `platinum band`: nhẫn trơn bằng bạch kim
+- `pure platinum`: bạch kim nguyên chất
+- `platinum jubilee`: đại lễ kỷ niệm 70 năm (bạch kim)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He proposed with a platinum ring.

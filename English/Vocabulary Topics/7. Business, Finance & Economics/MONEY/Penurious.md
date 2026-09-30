@@ -2,8 +2,10 @@
 *adjective*
 > /pəˈnjʊə.ri.əs/
 
+![[penurious.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY
+**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely poor; poverty-stricken; or parsimonious (stingy)
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `penurious life`: cuộc sống nghèo túng
+- `penurious circumstances`: hoàn cảnh gia đình túng quẫn bần hàn
+- `penurious habit`: thói ki bo bủn xỉn từng đồng
+- `penurious state`: tình trạng nghèo rớt mồng tơi
+- `escape penurious conditions`: thoát khỏi cảnh bần cùng cùng cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The family lived a penurious existence in a tiny room.

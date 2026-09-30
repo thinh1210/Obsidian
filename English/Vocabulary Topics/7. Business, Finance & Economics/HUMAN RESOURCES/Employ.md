@@ -2,8 +2,10 @@
 *v.*
 > /ɪmˈplɔɪ/
 
+![[employ.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give work to someone and pay them for it; to utilize
@@ -13,7 +15,11 @@
 💡 "Im" (im) lặng đi "ploi" (ploy) tìm người để thuê làm việc
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``employ staff`: thuê nhân viên
+- `employ staff`: thuê nhân viên
+- `gainfully employed`: có việc làm mang lại thu nhập ổn định
+- `self-employed`: làm nghề tự do / tự đứng ra làm chủ
+- `full-time employee`: nhân viên chính thức toàn thời gian
+- `employ tactics`: vận dụng các biện pháp nghiệp vụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company employs over 2,000 workers worldwide.

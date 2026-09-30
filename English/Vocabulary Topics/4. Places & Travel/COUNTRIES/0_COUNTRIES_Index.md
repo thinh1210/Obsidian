@@ -1,62 +1,105 @@
 # Tổng hợp từ vựng: COUNTRIES
 
 Đây là file tổng hợp các từ vựng thuộc chủ đề **COUNTRIES**.
-Danh sách dưới đây đã được **sắp xếp theo cấp độ (Level) từ thấp đến cao (A1 -> C2)**. Bạn nên ưu tiên học các từ cơ bản ở trên cùng trước.
+Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực quan** và **sắp xếp theo cấp độ từ A1 đến C2** giúp bạn dễ dàng liên kết từ vựng theo tư duy ngữ cảnh và sơ đồ tư duy thực tế.
 
-## Danh sách từ vựng
+## 🗺️ Sơ đồ liên kết chủ đề (Semantic Map)
+- **🏛️ 1. Thể chế, Nhà nước & Chủ quyền** (State, Sovereignty & Politics): [[Capital]], [[Country]], [[Government]], [[Republic]], [[Independence]], [[Sovereignty]], [[Autonomy]], [[Hegemony]], [[Jurisdictional]], [[Territory]], [[Boundary]], [[Border]]
+- **👥 2. Dân cư, Bản sắc & Đa văn hóa** (People, Identity & Demographics): [[Citizen]], [[Inhabitant]], [[Native]], [[Foreign]], [[Expatriate]], [[Indigenous]], [[Population]], [[Demographics]], [[Diaspora]], [[Multicultural]], [[Acculturation]], [[Xenophobia]], [[Diverse]], [[Nationality]]
+- **🎭 3. Văn hóa, Ngôn ngữ & Truyền thống** (Culture, Language & Heritage): [[Culture]], [[Language]], [[Tradition]], [[Custom]], [[Heritage]], [[Flag]], [[Insular]], [[Provincial]], [[Cosmopolitan]]
+- **✈️ 4. Xuất nhập cảnh, Đi lại & Địa lý quốc gia** (Immigration, Travel & National Geography): [[Passport]], [[Visa]], [[Currency]], [[Immigration]], [[Destination]], [[Tourism]], [[Travel]], [[City]], [[Continental]], [[Peninsula]], [[Region]], [[Landscape]], [[Topography]], [[Geopolitics]], [[Map]]
 
-| Từ vựng | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- |
-| City | A1 | Noun | Thành phố | citizen (v) | [[City]] |
-| Country | A1 | Noun | Quốc gia, đất nước | countless (adj) | [[Country]] |
-| Language | A1 | Noun | Ngôn ngữ | linguistics | [[Language]] |
-| Map | A1 | Noun | Bản đồ | mapping | [[Map]] |
-| Travel | A1 | Verb | Du lịch, di chuyển | traveler (n), travelable (adj) | [[Travel]] |
-| Border | A2 | Noun | Biên giới | borderline | [[Border]] |
-| Capital | A2 | Noun | Thủ đô | capitalism | [[Capital]] |
-| Citizen | A2 | Noun | Công dân | citizenship (n) | [[Citizen]] |
-| Culture | A2 | Noun | Văn hóa | cultural (adj), cultured | [[Culture]] |
-| Flag | A2 | Noun | Lá cờ | flagship (n) | [[Flag]] |
-| Foreign | A2 | Adjective | Nước ngoài | foreigner (n), foreignly (adv) | [[Foreign]] |
-| Native | A2 | Adjective | Bản xứ, bản địa | natively (adv), nativeness (n) | [[Native]] |
-| Passport | A2 | Noun | Hộ chiếu | - | [[Passport]] |
-| Population | A2 | Noun | Dân số | populate, populous (adj) | [[Population]] |
-| Visa | A2 | Noun | Thị thực | - | [[Visa]] |
-| Currency | B1 | Noun | Tiền tệ | current | [[Currency]] |
-| Custom | B1 | Noun | Phong tục, tập quán | customary, customer (n) | [[Custom]] |
-| Destination | B1 | Noun | Điểm đến | destined | [[Destination]] |
-| Government | B1 | Noun | Chính phủ | govern, governor (n) | [[Government]] |
-| Independence | B1 | Noun | Sự độc lập | independent | [[Independence]] |
-| Landscape | B1 | Noun | Phong cảnh | landscaped | [[Landscape]] |
-| Nationality | B1 | Noun | Quốc tịch | national (adj), nation (n) | [[Nationality]] |
-| Region | B1 | Noun | Khu vực, vùng | regional (adj) | [[Region]] |
-| Tourism | B1 | Noun | Ngành du lịch | tourist (n), tour | [[Tourism]] |
-| Tradition | B1 | Noun | Truyền thống | traditional (adj), traditionally | [[Tradition]] |
-| Boundary | B2 | Noun | Ranh giới | boundless (adj) | [[Boundary]] |
-| Continental | B2 | Adjective | Thuộc lục địa | continent, continentally (adv), continentalness (n) | [[Continental]] |
-| Diverse | B2 | Adjective | Đa dạng | diversity (n), diversify (v) | [[Diverse]] |
-| Heritage | B2 | Noun | Di sản | inherit | [[Heritage]] |
-| Immigration | B2 | Noun | Sự nhập cư | immigrate, immigrant | [[Immigration]] |
-| Inhabitant | B2 | Noun | Cư dân | inhabit, habitat | [[Inhabitant]] |
-| Multicultural | B2 | Adjective | Đa văn hóa | multiculturalism, multiculturally (adv), multiculturalness (n) | [[Multicultural]] |
-| Peninsula | B2 | Noun | Bán đảo | peninsular | [[Peninsula]] |
-| Republic | B2 | Noun | Cộng hòa | republican | [[Republic]] |
-| Territory | B2 | Noun | Lãnh thổ | territorial (adj) | [[Territory]] |
-| Autonomy | C1 | Noun | Quyền tự trị | autonomous (adj) | [[Autonomy]] |
-| Cosmopolitan | C1 | Adjective | Thuộc toàn thế giới, đa quốc gia | cosmopolitanism, cosmopolitanly (adv), cosmopolitanness (n) | [[Cosmopolitan]] |
-| Demographics | C1 | Noun | Nhân khẩu học | demographic (adj), demography | [[Demographics]] |
-| Expatriate | C1 | Noun | Người nước ngoài định cư, kiều bào | patriot, repatriate | [[Expatriate]] |
-| Geopolitics | C1 | Noun | Địa chính trị | geopolitical (adj) | [[Geopolitics]] |
-| Indigenous | C1 | Adjective | Bản địa | indigeneity (n), indigenously (adv) | [[Indigenous]] |
-| Sovereignty | C1 | Noun | Chủ quyền | sovereign | [[Sovereignty]] |
-| Topography | C1 | Noun | Địa hình | topographical (adj) | [[Topography]] |
-| Xenophobia | C1 | Noun | Chứng bài ngoại | xenophobic (adj) | [[Xenophobia]] |
-| Acculturation | C2 | Noun | Sự tiếp nhận văn hóa | acculturate | [[Acculturation]] |
-| Diaspora | C2 | Noun | Sự di cư tản mác, cộng đồng di cư | diasporic (adj) | [[Diaspora]] |
-| Hegemony | C2 | Noun | Quyền bá chủ | hegemonic (adj) | [[Hegemony]] |
-| Insular | C2 | Adjective | Thiển cận, cô lập | insularity (n), insularly (adv) | [[Insular]] |
-| Jurisdictional | C2 | Adjective | Thuộc thẩm quyền tài phán | jurisdiction (n), jurisdictionally (adv) | [[Jurisdictional]] |
-| Provincial | C2 | Adjective | Thuộc tỉnh lẻ; thiển cận | province, provincialism | [[Provincial]] |
+## Danh sách từ vựng theo nhóm ngữ nghĩa
+
+### 🏛️ 1. Thể chế, Nhà nước & Chủ quyền (State, Sovereignty & Politics)
+*Hệ thống chính quyền, thủ đô, đường biên giới và chủ quyền lãnh thổ.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Country | /ˈkʌntri/ [[country.mp3\|🔊]] | A1 | Noun | Quốc gia, đất nước | countless (adj) | [[Country]] |
+| Border | /ˈbɔːrdər/ [[border.mp3\|🔊]] | A2 | Noun | Biên giới | borderline | [[Border]] |
+| Capital | /ˈkæpɪtl/ [[capital.mp3\|🔊]] | A2 | Noun | Thủ đô | capitalism | [[Capital]] |
+| Government | /ˈɡʌvərnmənt/ [[government.mp3\|🔊]] | B1 | Noun | Chính phủ | govern, governor (n) | [[Government]] |
+| Independence | /ˌɪndɪˈpendəns/ [[independence.mp3\|🔊]] | B1 | Noun | Sự độc lập | independent | [[Independence]] |
+| Boundary | /ˈbaʊndri/ [[boundary.mp3\|🔊]] | B2 | Noun | Ranh giới | boundless (adj) | [[Boundary]] |
+| Republic | /rɪˈpʌblɪk/ [[republic.mp3\|🔊]] | B2 | Noun | Cộng hòa | republican | [[Republic]] |
+| Territory | /ˈterətɔːri/ [[territory.mp3\|🔊]] | B2 | Noun | Lãnh thổ | territorial (adj) | [[Territory]] |
+| Autonomy | /ɔːˈtɑːnəmi/ [[autonomy.mp3\|🔊]] | C1 | Noun | Quyền tự trị | autonomous (adj) | [[Autonomy]] |
+| Sovereignty | /ˈsɑːvrənti/ [[sovereignty.mp3\|🔊]] | C1 | Noun | Chủ quyền | sovereign | [[Sovereignty]] |
+| Hegemony | /hɪˈdʒeməni/ [[hegemony.mp3\|🔊]] | C2 | Noun | Quyền bá chủ | hegemonic (adj) | [[Hegemony]] |
+| Jurisdictional | /ˌdʒʊrɪsˈdɪkʃənl/ [[jurisdictional.mp3\|🔊]] | C2 | Adjective | Thuộc thẩm quyền tài phán | jurisdiction (n), jurisdictionally (adv) | [[Jurisdictional]] |
+
+### 👥 2. Dân cư, Bản sắc & Đa văn hóa (People, Identity & Demographics)
+*Công dân, dân số, các nhóm bản địa và hiện tượng di cư đa văn hóa.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Citizen | /ˈsɪtɪzn/ [[citizen.mp3\|🔊]] | A2 | Noun | Công dân | citizenship (n) | [[Citizen]] |
+| Foreign | /ˈfɔːrən/ [[foreign.mp3\|🔊]] | A2 | Adjective | Nước ngoài | foreigner (n), foreignly (adv) | [[Foreign]] |
+| Native | /ˈneɪtɪv/ [[native.mp3\|🔊]] | A2 | Adjective | Bản xứ, bản địa | natively (adv), nativeness (n) | [[Native]] |
+| Population | /ˌpɑːpjəˈleɪʃn/ [[population.mp3\|🔊]] | A2 | Noun | Dân số | populate, populous (adj) | [[Population]] |
+| Nationality | /ˌnæʃəˈnæləti/ [[nationality.mp3\|🔊]] | B1 | Noun | Quốc tịch | national (adj), nation (n) | [[Nationality]] |
+| Diverse | /daɪˈvɜːrs/ [[diverse.mp3\|🔊]] | B2 | Adjective | Đa dạng | diversity (n), diversify (v) | [[Diverse]] |
+| Inhabitant | /ɪnˈhæbɪtənt/ [[inhabitant.mp3\|🔊]] | B2 | Noun | Cư dân | inhabit, habitat | [[Inhabitant]] |
+| Multicultural | /ˌmʌltiˈkʌltʃərəl/ [[multicultural.mp3\|🔊]] | B2 | Adjective | Đa văn hóa | multiculturalism, multiculturally (adv), multiculturalness (n) | [[Multicultural]] |
+| Demographics | /ˌdeməˈɡræfɪks/ [[demographics.mp3\|🔊]] | C1 | Noun | Nhân khẩu học | demographic (adj), demography | [[Demographics]] |
+| Expatriate | /eksˈpeɪtriət/ [[expatriate.mp3\|🔊]] | C1 | Noun | Người nước ngoài định cư, kiều bào | patriot, repatriate | [[Expatriate]] |
+| Indigenous | /ɪnˈdɪdʒənəs/ [[indigenous.mp3\|🔊]] | C1 | Adjective | Bản địa | indigeneity (n), indigenously (adv) | [[Indigenous]] |
+| Xenophobia | /ˌzenəˈfoʊbiə/ [[xenophobia.mp3\|🔊]] | C1 | Noun | Chứng bài ngoại | xenophobic (adj) | [[Xenophobia]] |
+| Acculturation | /əˌkʌltʃəˈreɪʃn/ [[acculturation.mp3\|🔊]] | C2 | Noun | Sự tiếp nhận văn hóa | acculturate | [[Acculturation]] |
+| Diaspora | /daɪˈæspərə/ [[diaspora.mp3\|🔊]] | C2 | Noun | Sự di cư tản mác, cộng đồng di cư | diasporic (adj) | [[Diaspora]] |
+
+### 🎭 3. Văn hóa, Ngôn ngữ & Truyền thống (Culture, Language & Heritage)
+*Di sản văn hóa, ngôn ngữ quốc gia, phong tục tập quán và quốc kỳ.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Language | /ˈlæŋɡwɪdʒ/ [[language.mp3\|🔊]] | A1 | Noun | Ngôn ngữ | linguistics | [[Language]] |
+| Culture | /ˈkʌltʃər/ [[culture.mp3\|🔊]] | A2 | Noun | Văn hóa | cultural (adj), cultured | [[Culture]] |
+| Flag | /flæɡ/ [[flag.mp3\|🔊]] | A2 | Noun | Lá cờ | flagship (n) | [[Flag]] |
+| Custom | /ˈkʌstəm/ [[custom.mp3\|🔊]] | B1 | Noun | Phong tục, tập quán | customary, customer (n) | [[Custom]] |
+| Tradition | /trəˈdɪʃn/ [[tradition.mp3\|🔊]] | B1 | Noun | Truyền thống | traditional (adj), traditionally | [[Tradition]] |
+| Heritage | /ˈherɪtɪdʒ/ [[heritage.mp3\|🔊]] | B2 | Noun | Di sản | inherit | [[Heritage]] |
+| Cosmopolitan | /ˌkɑːzməˈpɑːlɪtən/ [[cosmopolitan.mp3\|🔊]] | C1 | Adjective | Thuộc toàn thế giới, đa quốc gia | cosmopolitanism, cosmopolitanly (adv), cosmopolitanness (n) | [[Cosmopolitan]] |
+| Insular | /ˈɪnsələr/ [[insular.mp3\|🔊]] | C2 | Adjective | Thiển cận, cô lập | insularity (n), insularly (adv) | [[Insular]] |
+| Provincial | /prəˈvɪnʃl/ [[provincial.mp3\|🔊]] | C2 | Adjective | Thuộc tỉnh lẻ; thiển cận | province, provincialism | [[Provincial]] |
+
+### ✈️ 4. Xuất nhập cảnh, Đi lại & Địa lý quốc gia (Immigration, Travel & National Geography)
+*Thủ tục hộ chiếu, tiền tệ, du lịch và cảnh quan địa lý đất nước.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| City | /ˈsɪti/ [[city.mp3\|🔊]] | A1 | Noun | Thành phố | citizen (v) | [[City]] |
+| Map | /mæp/ [[map.mp3\|🔊]] | A1 | Noun | Bản đồ | mapping | [[Map]] |
+| Travel | /ˈtrævl/ [[travel.mp3\|🔊]] | A1 | Verb | Du lịch, di chuyển | traveler (n), travelable (adj) | [[Travel]] |
+| Passport | /ˈpæspɔːrt/ [[passport.mp3\|🔊]] | A2 | Noun | Hộ chiếu | - | [[Passport]] |
+| Visa | /ˈviːzə/ [[visa.mp3\|🔊]] | A2 | Noun | Thị thực | - | [[Visa]] |
+| Currency | /ˈkɜːrənsi/ [[currency.mp3\|🔊]] | B1 | Noun | Tiền tệ | current | [[Currency]] |
+| Destination | /ˌdestɪˈneɪʃn/ [[destination.mp3\|🔊]] | B1 | Noun | Điểm đến | destined | [[Destination]] |
+| Landscape | /ˈlændskeɪp/ [[landscape.mp3\|🔊]] | B1 | Noun | Phong cảnh | landscaped | [[Landscape]] |
+| Region | /ˈriːdʒən/ [[region.mp3\|🔊]] | B1 | Noun | Khu vực, vùng | regional (adj) | [[Region]] |
+| Tourism | /ˈtʊrɪzəm/ [[tourism.mp3\|🔊]] | B1 | Noun | Ngành du lịch | tourist (n), tour | [[Tourism]] |
+| Continental | /ˌkɑːntɪˈnentl/ [[continental.mp3\|🔊]] | B2 | Adjective | Thuộc lục địa | continent, continentally (adv), continentalness (n) | [[Continental]] |
+| Immigration | /ˌɪmɪˈɡreɪʃn/ [[immigration.mp3\|🔊]] | B2 | Noun | Sự nhập cư | immigrate, immigrant | [[Immigration]] |
+| Peninsula | /pəˈnɪnsələ/ [[peninsula.mp3\|🔊]] | B2 | Noun | Bán đảo | peninsular | [[Peninsula]] |
+| Geopolitics | /ˌdʒiːoʊˈpɑːlətɪks/ [[geopolitics.mp3\|🔊]] | C1 | Noun | Địa chính trị | geopolitical (adj) | [[Geopolitics]] |
+| Topography | /təˈpɑːɡrəfi/ [[topography.mp3\|🔊]] | C1 | Noun | Địa hình | topographical (adj) | [[Topography]] |
+
+## 🔗 Cụm từ, Collocations & Phrasal Verbs phổ biến theo chủ đề (Key Phrases & Expressions)
+*Các cụm từ cố định, phrasal verbs và thành ngữ thông dụng nhất giúp bạn nói và viết tự nhiên về chủ đề **COUNTRIES**.*
+
+| Cụm từ / Phrasal Verb | Loại | Cấp độ | Ý nghĩa | Ví dụ áp dụng |
+| --- | --- | --- | --- | --- |
+| **diplomatic relations** | Collocation | B2 | quan hệ ngoại giao song phương | *The two nations agreed to establish formal diplomatic relations.* |
+| **sovereign state** | Collocation | C1 | quốc gia có chủ quyền độc lập | *Every sovereign state has the right to determine its domestic laws.* |
+| **developing country** | Collocation | B1 | quốc gia đang phát triển | *Foreign direct investment plays a pivotal role in developing countries.* |
+| **break out** | Phrasal Verb | B2 | bùng nổ (chiến tranh, xung đột biên giới) | *Border skirmishes threatened to break out into full-scale war.* |
+| **sign up for** | Phrasal Verb | B1 | ký kết tham gia hiệp ước, liên minh | *Over fifty countries signed up for the international climate accord.* |
+| **across the border** | Collocation | A2 | qua bên kia biên giới | *Many families have relatives living just across the border.* |
+| **put on the map** | Idiom | C1 | làm rạng danh, đưa tên tuổi lên bản đồ | *Hosting the international championship put the small country on the world map.* |
+| **rich cultural heritage** | Collocation | B2 | di sản văn hóa phong phú đậm đà | *The country is renowned globally for its rich cultural heritage.* |
+| **national pride** | Collocation | B2 | lòng tự tôn, tự hào dân tộc | *Winning the gold medal ignited immense national pride.* |
+| **close borders** | Collocation | B1 | đóng cửa biên giới quốc gia | *Authorities decided to close borders to prevent viral transmission.* |
 ## 📖 Đoạn văn thực tế (Contextual Story)
 
 ### English Paragraph

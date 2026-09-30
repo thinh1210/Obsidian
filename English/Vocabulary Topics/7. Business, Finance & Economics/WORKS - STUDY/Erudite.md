@@ -2,8 +2,10 @@
 *adj.*
 > /ˈer.ʊ.daɪt/
 
+![[erudite.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having or showing great knowledge or learning
@@ -13,8 +15,10 @@
 💡 E run đại (erudite) trước mặt giáo sư uyên bác.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``erudite scholar`: học giả uyên bác`
-- ``erudite presentation`: bài thuyết trình thông thái`
+- `erudite scholar`: học giả uyên bác
+- `erudite presentation`: bài thuyết trình thông thái
+- `erudite discussion`: cuộc tranh luận mang hàm lượng tri thức sâu sắc
+- `erudite writing style`: văn phong uyên bác khúc chiết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is known for his erudite commentary on literature.

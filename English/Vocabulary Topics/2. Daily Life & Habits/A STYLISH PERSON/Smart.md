@@ -2,8 +2,10 @@
 *adj.*
 > /smɑːrt/
 
+![[smart.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clean, tidy, and well dressed.
@@ -13,7 +15,11 @@
 💡 Smart - người thông minh (smart) ăn mặc cũng gọn gàng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `look smart`: trông lịch sự\n- `smart suit`: bộ đồ gọn gàng
+- `look smart`: trông lịch sự
+- `smart suit`: bộ đồ gọn gàng
+- `smart casual`: phong cách thanh lịch nhưng thoải mái
+- `look exceptionally smart`: trông đặc biệt sáng sủa, bảnh bao
+- `smart appearance`: diện mạo bảnh bao, tươm tất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You look very smart in that suit.

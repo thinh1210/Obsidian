@@ -2,8 +2,10 @@
 *verb*
 > /ɪˈvæk.ju.eɪt/
 
+![[evacuate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move people from a dangerous place to a safe place.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `evacuate residents`: sơ tán cư dân
 - `order to evacuate`: lệnh sơ tán
+- `evacuate casualties`: sơ tán những người bị thương
+- `mandatory evacuation`: lệnh sơ tán bắt buộc
+- `evacuate to safe ground`: sơ tán đến nơi cao ráo an toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Police helped to evacuate residents from the flooded area.

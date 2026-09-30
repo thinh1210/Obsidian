@@ -2,8 +2,10 @@
 *n.*
 > /ˌɑː.tɪˈzæn/
 
+![[artisan.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A worker in a skilled trade, especially one that involves making things by hand.

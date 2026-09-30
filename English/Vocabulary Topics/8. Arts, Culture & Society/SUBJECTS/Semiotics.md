@@ -2,8 +2,10 @@
 *noun*
 > /ˌsemiˈɒtɪks/
 
+![[semiotics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of signs and symbols and their use or interpretation.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `semiotic analysis`: phân tích ký hiệu học
+- `social semiotics`: ký hiệu học xã hội
+- `visual semiotics`: ký hiệu học thị giác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Semiotics explains how logos communicate brand values.

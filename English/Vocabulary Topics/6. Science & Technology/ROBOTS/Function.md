@@ -2,8 +2,10 @@
 *verb.*
 > /ˈfʌŋk.ʃən/
 
+![[function.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To work or operate in a proper or particular way
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `function properly`: hoạt động bình thường
+- `malfunction`: trục trặc chức năng
+- `vital functions`: các chức năng sống còn
+- `core function`: chức năng cốt lõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The machine cannot function without power.

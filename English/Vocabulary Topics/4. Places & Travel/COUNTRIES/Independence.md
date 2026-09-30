@@ -2,8 +2,10 @@
 *Noun*
 > /ˌɪndɪˈpendəns/
 
+![[independence.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or state of being independent.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Declare independence`: Tuyên bố độc lập
+- `gain independence`: giành độc lập
+- `Declaration of Independence`: Tuyên ngôn Độc lập
+- `national independence`: nền độc lập dân tộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country gained its independence in 1945.

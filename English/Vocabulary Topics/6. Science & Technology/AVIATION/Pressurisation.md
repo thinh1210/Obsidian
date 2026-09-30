@@ -2,8 +2,10 @@
 *noun*
 > /ˌpreʃ.ər.aɪˈzeɪ.ʃən/
 
+![[pressurisation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of maintaining a safe and comfortable atmospheric pressure inside an aircraft cabin at high altitude.

@@ -2,8 +2,10 @@
 *v.*
 > /ˌəʊvəˈθrəʊ/
 
+![[overthrow.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To remove from power by force
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `overthrow the government`: lật đổ chính phủ
 - `attempt to overthrow`: âm mưu lật đổ
+- `violently overthrow`: lật đổ bằng bạo lực
+- `overthrow a dictator`: lật đổ một kẻ độc tài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The people plotted to overthrow the dictator.

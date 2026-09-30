@@ -2,8 +2,10 @@
 *noun*
 > /drɪl/
 
+![[drill.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool or machine with a pointed end for making holes in hard substances.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electric drill`: khoan điện
 - `drill bit`: mũi khoan
+- `drill into`: khoan vào; khắc sâu vào tâm trí (phrasal verb)
+- `fire drill`: buổi diễn tập phòng cháy
+- `power drill`: máy khoan điện cầm tay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to borrow your drill to put up some shelves.

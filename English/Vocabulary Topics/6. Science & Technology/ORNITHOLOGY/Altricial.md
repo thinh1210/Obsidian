@@ -2,8 +2,10 @@
 *adjective*
 > /ælˈtrɪʃ.əl/
 
+![[altricial.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a young bird or other animal) hatched or born in an undeveloped state and requiring care and feeding by the parents.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `altricial species`: loài có con non yếu ớt khi sinh
 - `altricial nestling`: chim non yếu ớt trong tổ
+- `altricial young`: chim non mới nở yếu ớt cần nuôi nấng
+- `altricial development`: sự phát triển của chim non yếu ớt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Songbirds have altricial chicks that are blind and featherless when they hatch.

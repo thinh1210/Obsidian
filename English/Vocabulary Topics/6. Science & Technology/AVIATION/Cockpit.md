@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒk.pɪt/
 
+![[cockpit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The area at the front of an aircraft where the pilot sits and operates the controls.

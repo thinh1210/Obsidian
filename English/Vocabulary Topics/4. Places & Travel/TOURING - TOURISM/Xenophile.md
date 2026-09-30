@@ -2,8 +2,10 @@
 *Noun*
 > /ˈzen.ə.faɪl/
 
+![[xenophile.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM
+**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An individual who is attracted to foreign peoples, cultures, or customs.
@@ -13,7 +15,11 @@
 💡 DE NƠ PHAI (Xenophile) yêu thích văn hóa lạ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `be a xenophile`: là một người thích ngoại quốc\n- `xenophile tendencies`: xu hướng thích văn hóa ngoại
+- `be a xenophile`: là một người thích ngoại quốc
+- `xenophile tendencies`: xu hướng thích văn hóa ngoại
+- `passionate xenophile`: người có niềm đam mê đặc biệt với văn hóa ngoại quốc
+- `xenophile outlook`: góc nhìn trân trọng yêu thích cái mới lạ nước ngoài
+- `curious xenophile`: kẻ tò mò say mê những nét đẹp ngoại lai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* As a true xenophile, he spends all his money travelling to exotic places.

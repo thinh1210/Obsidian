@@ -2,8 +2,10 @@
 *n.*
 > /reɪs/
 
+![[race.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A competition between runners, horses, vehicles, etc. to see which is the fastest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `win a race`: thắng cuộc đua
 - `rat race`: vòng xoáy ganh đua cơm áo gạo tiền
+- `race against time`: cuộc chạy đua nghẹt thở với thời gian
+- `close race`: cuộc đua sít sao gang tấc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He won the 100-meter race easily.

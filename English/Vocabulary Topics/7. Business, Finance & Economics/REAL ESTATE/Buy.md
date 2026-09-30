@@ -2,8 +2,10 @@
 *v.*
 > /baɪ/
 
+![[buy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To obtain in exchange for payment.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buy a property`: mua bất động sản
 - `buy land`: mua đất
+- `buy off-plan`: mua nhà trên bản vẽ / dự án hình thành tương lai
+- `buy-to-let`: mua nhà đất nhằm mục đích cho thuê sinh lời
+- `closing costs when buying`: các chi phí hoàn tất thủ tục khi mua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They saved money for five years to buy their first home.

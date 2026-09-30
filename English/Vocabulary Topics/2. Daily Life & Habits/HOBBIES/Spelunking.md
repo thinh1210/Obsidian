@@ -2,8 +2,10 @@
 *noun*
 > /spɪˈlʌŋkɪŋ/
 
+![[spelunking.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The exploration of caves, especially as a hobby.

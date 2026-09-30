@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈdɔːrsmənt/
 
+![[endorsement.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of publicly declaring approval or support for a product or service, often by a celebrity or public figure
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `celebrity endorsement`: quảng cáo từ người nổi tiếng
 - `product endorsement`: sự chứng thực sản phẩm
+- `influencer endorsement`: sự bảo chứng từ người có sức ảnh hưởng
+- `paid endorsement`: hợp đồng quảng cáo trả thù lao chứng thực
+- `brand endorsement`: sự đồng hành bảo chứng cho thương hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The singer signed a deal for the endorsement of a new perfume.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈpreʃ.əs/
 
+![[precious.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of great value.
@@ -13,7 +15,9 @@
 💡 Rẻ (Pre) chớ (cious) không quý giá.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `precious metals: kim loại quý`
+- `precious metals`: kim loại quý
+- `precious stone`: đá quý
+- `precious memories`: những kỷ niệm vô giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gold is precious.

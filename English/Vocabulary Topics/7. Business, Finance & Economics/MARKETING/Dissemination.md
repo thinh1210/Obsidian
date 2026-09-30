@@ -2,8 +2,10 @@
 *noun*
 > /dɪˌsemɪˈneɪʃn/
 
+![[dissemination.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of spreading something, especially information, widely
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `information dissemination`: sự phổ biến thông tin
 - `dissemination of knowledge`: sự lan tỏa tri thức
+- `mass dissemination`: phổ biến thông điệp trên diện rộng
+- `facilitate dissemination`: tạo điều kiện cho việc phát tán thông tin dễ dàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The rapid dissemination of rumors on social media can ruin a person's reputation.

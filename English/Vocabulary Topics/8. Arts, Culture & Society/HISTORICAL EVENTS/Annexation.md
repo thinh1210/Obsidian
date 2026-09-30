@@ -2,8 +2,10 @@
 *noun*
 > /ˌæn.ekˈseɪ.ʃən/
 
+![[annexation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of annexing something, especially territory.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `illegal annexation`: sáp nhập bất hợp pháp
 - `annexation of territory`: sự sáp nhập lãnh thổ
+- `forcible annexation`: sự dùng vũ lực để sáp nhập lãnh thổ
+- `resist annexation`: đứng lên kiên quyết phản đối việc sáp nhập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The neighbors complained about the landowner's annexation of a public path.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɒn.də.lʌst/
 
+![[wanderlust.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong desire to travel

@@ -2,8 +2,10 @@
 *n*
 > /ˌpriːdɪspəˈzɪʃn/
 
+![[predisposition.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A liability or tendency to suffer from a particular condition or hold a particular attitude.

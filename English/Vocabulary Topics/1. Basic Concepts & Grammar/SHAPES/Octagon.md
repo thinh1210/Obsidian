@@ -2,8 +2,10 @@
 *n.*
 > /ˈɒk.tə.ɡən/
 
+![[octagon.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plane figure with eight straight sides and eight angles.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A stop sign is an octagon`: Biển báo dừng là hình bát giác
 - `An octagonal ring`: Sàn đấu bát giác
+- `octagon cage`: lồng thi đấu bát giác (MMA)
+- `regular octagon`: hình bát giác đều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A stop sign is usually an octagon.

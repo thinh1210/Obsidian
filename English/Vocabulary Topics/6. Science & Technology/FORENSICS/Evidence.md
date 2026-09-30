@@ -2,8 +2,10 @@
 *noun*
 > /ˈev.ɪ.dəns/
 
+![[evidence.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Facts, objects, or information that prove something is true or false.

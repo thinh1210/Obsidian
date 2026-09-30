@@ -2,8 +2,10 @@
 *adj.*
 > /rɪtʃ/
 
+![[rich.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a lot of money or valuable possessions.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rich family`: gia đình giàu có
 - `filthy rich`: giàu nứt đố đổ vách
+- `high-net-worth individual`: cá nhân có khối tài sản lớn
+- `strike it rich`: phát tài nhanh chóng
+- `asset-rich`: giàu có về mặt tài sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He dreams of becoming rich and traveling the world in a yacht.

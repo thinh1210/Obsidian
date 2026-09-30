@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfiː.zə.bəl/
 
+![[feasible.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Possible to do easily or conveniently; likely to work
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `economically feasible`: khả thi về mặt kinh tế
 - `feasible plan`: kế hoạch khả thi
+- `technically feasible`: khả thi về mặt kỹ thuật
+- `feasible solution`: giải pháp có tính khả thi cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is no longer feasible to complete the project on time.

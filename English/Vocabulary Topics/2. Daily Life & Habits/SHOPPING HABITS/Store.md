@@ -2,8 +2,10 @@
 *n*
 > /stɔːr/
 
+![[store.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where things are kept for sale
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grocery store`: cửa hàng tạp hóa
+- `department store`: trung tâm thương mại bách hóa tổng hợp
+- `convenience store`: cửa hàng tiện lợi mở cửa 24/7
+- `flagship store`: cửa hàng đại diện quy mô lớn nhất của một thương hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I go to the store.

@@ -2,8 +2,10 @@
 *adj*
 > /ˈsɜːdʒɪkl/
 
+![[surgical.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or used in surgery (medical operations).

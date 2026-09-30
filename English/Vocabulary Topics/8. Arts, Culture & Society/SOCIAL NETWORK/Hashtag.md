@@ -2,8 +2,10 @@
 *noun*
 > /ˈhæʃtæɡ/
 
+![[hashtag.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A word or phrase preceded by a hash sign (#) used on social media to identify a specific topic
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `use a hashtag`: sử dụng thẻ hashtag
+- `trending hashtag`: thẻ hashtag đang thịnh hành
+- `hashtag campaign`: chiến dịch truyền thông qua hashtag
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You can search for recipes by using the hashtag #HomeCooking.

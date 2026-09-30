@@ -2,8 +2,10 @@
 *adj.*
 > /ˌmaɪkrəˈskɒpɪk/
 
+![[microscopic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** So small as to be visible only with a microscope
@@ -13,7 +15,10 @@
 💡 Vi mô (micro) nhỏ
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``microscopic level`: cấp độ vi mô`
+- `microscopic level`: cấp độ vi mô
+- `microscopic organism`: sinh vật vi sinh
+- `microscopic examination`: sự kiểm tra dưới kính hiển vi
+- `microscopic particles`: các hạt siêu nhỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Microscopic dust.

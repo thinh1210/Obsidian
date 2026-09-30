@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑːr.mi/
 
+![[army.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized military force equipped for fighting on land.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `join the army`: gia nhập quân đội
 - `standing army`: quân đội thường trực
+- `mobilize an army`: tổng động viên lực lượng quân đội
+- `invading army`: đoàn quân xâm lược từ bên ngoài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His older brother joined the army right after graduating from high school.

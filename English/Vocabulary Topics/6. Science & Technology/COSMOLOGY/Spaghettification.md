@@ -2,8 +2,10 @@
 *Noun*
 > /spəˌɡet.ɪ.fɪˈkeɪ.ʃən/
 
+![[spaghettification.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The stretching of objects into long, thin shapes by extreme gravitational forces near a black hole.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `extreme spaghettification`: hiệu ứng mỳ ý cực độ
 - `spaghettification effect`: hiệu ứng mỳ ý
+- `tidal spaghettification`: hiện tượng mì ý hóa do thủy triều
+- `spaghettification near black hole`: hiệu ứng mì ý hóa gần hố đen
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* If you fell into a black hole, spaghettification would stretch you like a noodle.

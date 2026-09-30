@@ -2,8 +2,10 @@
 *noun*
 > /ˈsedɪmənt/
 
+![[sediment.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Matter that settles to the bottom of a liquid; dregs
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lake sediment`: trầm tích hồ
 - `river sediment`: trầm tích sông
+- `sediment layer`: lớp trầm tích
+- `accumulated sediment`: trầm tích tích tụ qua thời gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The river carries a lot of sediment.

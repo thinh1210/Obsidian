@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈpɔːrəs/
 
+![[porous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having minute spaces or holes through which liquid or air may pass; easy to penetrate.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `porous stone`: đá xốp, đá nhiều lỗ rỗng
 - `porous membrane`: màng xốp, màng lọc nhiều lỗ
+- `porous rock`: đá xốp có nhiều lỗ rỗng
+- `porous border`: đường biên giới lỏng lẻo dễ vượt qua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sponge has a porous structure that makes it highly absorbent.

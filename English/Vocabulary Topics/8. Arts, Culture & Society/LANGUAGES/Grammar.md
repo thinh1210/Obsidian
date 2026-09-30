@@ -2,8 +2,10 @@
 *n.*
 > /ˈɡræmə(r)/
 
+![[grammar.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The whole system and structure of a language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grammar rules`: quy tắc ngữ pháp
+- `grammatical error`: lỗi ngữ pháp
+- `prescriptive grammar`: ngữ pháp quy chuẩn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't worry too much about grammar when speaking.

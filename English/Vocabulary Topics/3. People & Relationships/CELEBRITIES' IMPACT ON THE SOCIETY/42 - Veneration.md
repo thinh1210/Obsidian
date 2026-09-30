@@ -2,8 +2,10 @@
 *n.*
 > /ˌven.əˈreɪ.ʃən/
 
+![[veneration.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great respect; reverence.
@@ -13,7 +15,10 @@
 💡 Venerate + tion
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Deep veneration: Sự tôn kính sâu sắc`
+- `Deep veneration`: Sự tôn kính sâu sắc
+- `hold in veneration`: tôn kính sùng bái ai hết lòng
+- `blind veneration`: sự tôn sùng thần tượng mù quáng
+- `veneration of icons`: sự sùng kính các biểu tượng văn hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Veneration of celebrities.

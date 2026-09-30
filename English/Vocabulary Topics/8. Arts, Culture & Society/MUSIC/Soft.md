@@ -2,8 +2,10 @@
 *adj.*
 > /sɒft/
 
+![[soft.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a sound) quiet and gentle; not loud.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `soft music`: nhạc nhẹ nhàng
 - `soft voice`: giọng nói nhẹ nhàng
+- `soft melody`: giai điệu nhẹ nhàng êm dịu
+- `soft tones`: những thanh âm dịu nhẹ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cafe plays soft jazz music in the background.

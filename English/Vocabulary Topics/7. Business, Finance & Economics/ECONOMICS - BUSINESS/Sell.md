@@ -2,8 +2,10 @@
 *verb*
 > /sel/
 
+![[sell.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to give something to someone in exchange for money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sell out`: bán sạch, hết hàng
 - `sell at a loss`: bán lỗ
+- `seller's market`: thị trường ưu thế thuộc về người bán
+- `sell short`: bán khống chứng khoán
+- `sell-off`: làn sóng bán tháo trên thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They decided to sell their old car to save money.

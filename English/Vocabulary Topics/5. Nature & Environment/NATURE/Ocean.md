@@ -2,8 +2,10 @@
 *Noun*
 > /ˈəʊʃn/
 
+![[ocean.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large expanse of sea, in particular, each of the main areas of salt water.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ocean current`: dòng hải lưu
 - `deep ocean`: đại dương sâu thẳm
+- `a drop in the ocean`: hạt muối bỏ biển / như muối bỏ bể
+- `ocean trenches`: các rãnh đại dương sâu thẳm
+- `vast ocean`: đại dương mênh mông bát ngát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ocean is home to many species of fish.

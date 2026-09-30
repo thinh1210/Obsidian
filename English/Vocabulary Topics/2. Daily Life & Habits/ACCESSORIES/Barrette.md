@@ -2,8 +2,10 @@
 *noun*
 > /bəˈret/
 
+![[barrette.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A decorative clip for holding a woman's hair in place.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clip a barrette`: cài kẹp tóc
+- `rhinestone barrette`: kẹp tóc đính đá lấp lánh
+- `hold hair with a barrette`: cố định tóc bằng kẹp tóc
+- `decorative barrette`: kẹp tóc trang trí điệu đà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She swept her hair back with a tortoiseshell barrette.

@@ -2,8 +2,10 @@
 *adj.*
 > /smɔːl/
 
+![[small.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of a size that is less than normal
@@ -13,7 +15,10 @@
 💡 Small là nhỏ
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``small talk`: chuyện phiếm`
+- `small talk`: chuyện phiếm
+- `small fortune`: khoản tiền rất lớn
+- `small wonder`: chẳng có gì đáng ngạc nhiên
+- `in the small hours`: vào đêm khuya / rạng sáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Small dog.

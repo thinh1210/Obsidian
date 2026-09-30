@@ -2,8 +2,10 @@
 *noun*
 > /brænd/
 
+![[brand.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a type of product made by a particular company, identified by a name, logo, or design.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brand loyalty`: lòng trung thành thương hiệu
 - `brand awareness`: nhận thức thương hiệu
+- `brand equity`: giá trị tài sản thương hiệu
+- `brand extension`: mở rộng dòng thương hiệu
+- `rebrand`: tái định vị thương hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer this brand of coffee because it is very aromatic.

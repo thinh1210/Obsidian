@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡræn.fɑː.ðər/
 
+![[grandfather.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The father of your father or mother.

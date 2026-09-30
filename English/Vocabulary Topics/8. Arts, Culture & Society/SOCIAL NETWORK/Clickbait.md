@@ -2,8 +2,10 @@
 *noun*
 > /ˈklɪkbeɪt/
 
+![[clickbait.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Web content designed to attract attention and encourage visitors to click on a link
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `avoid clickbait`: tránh tiêu đề giật gân
+- `clickbait headline`: tiêu đề giật gân câu view
+- `resort to clickbait`: dùng chiêu trò mồi nhử nhấp chuột
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I hate those clickbait articles that have sensational titles but no real information.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfeɪməs/
 
+![[famous.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Known about by many people
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `famous historical figures`: những nhân vật lịch sử nổi tiếng
 - `become famous`: trở nên nổi tiếng
+- `world-famous`: nổi tiếng khắp thế giới
+- `famous for`: nổi tiếng về
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to be a famous singer one day.

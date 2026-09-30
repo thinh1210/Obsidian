@@ -2,8 +2,10 @@
 *verb*
 > /faɪnd/
 
+![[find.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To discover something by chance or because you were looking for it
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `find a clue`: tìm thấy manh mối
 - `find relics`: tìm thấy di tích
+- `rare find`: phát hiện hiếm có
+- `archaeological find`: phát hiện khảo cổ học quan trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Did you find your lost keys yet?

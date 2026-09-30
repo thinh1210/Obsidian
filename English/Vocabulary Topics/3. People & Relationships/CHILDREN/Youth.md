@@ -2,8 +2,10 @@
 *noun*
 > /juːθ/
 
+![[youth.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The period between childhood and adult age.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `youth club`: câu lạc bộ thanh niên
+- `fountain of youth`: suối nguồn tươi trẻ bất tận (idiom)
+- `in my youth`: thời trai trẻ thanh xuân
+- `youth culture`: văn hóa giới trẻ năng động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In my youth, I played sports.

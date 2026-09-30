@@ -2,8 +2,10 @@
 *noun*
 > /ˈskræpˌbʊkɪŋ/
 
+![[scrapbooking.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The hobby of creating and decorating albums with photographs, clippings, and journals.

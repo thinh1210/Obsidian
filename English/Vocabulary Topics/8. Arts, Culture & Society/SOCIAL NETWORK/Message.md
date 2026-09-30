@@ -2,8 +2,10 @@
 *noun*
 > /ˈmesɪdʒ/
 
+![[message.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written, oral, or visual communication sent electronically
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `send a message`: gửi một tin nhắn
+- `instant message`: tin nhắn gửi tức thì
+- `encrypted messaging`: dịch vụ nhắn tin mã hóa bảo mật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Send me a message when you get home.

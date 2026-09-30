@@ -2,8 +2,10 @@
 *noun*
 > /ˌtrænspɪˈreɪʃn/
 
+![[transpiration.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The exhalation of water vapor through the stomata of a plant.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `transpiration rate`: tốc độ thoát hơi nước
 - `transpiration pull`: lực hút do thoát hơi nước
+- `reduce transpiration water loss`: giảm thiểu sự mất nước do thoát hơi nước
+- `evapotranspiration process`: quá trình bốc thoát hơi nước tổng thể
+- `transpiration stream`: dòng vận chuyển nước qua sự thoát hơi ở lá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* On hot days, plants lose a lot of water due to transpiration.

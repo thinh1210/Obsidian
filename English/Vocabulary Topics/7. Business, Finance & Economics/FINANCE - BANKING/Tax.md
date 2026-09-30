@@ -2,8 +2,10 @@
 *noun.*
 > /tæks/
 
+![[tax.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money paid to the government, which is based on your income or the cost of goods.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `income tax`: thuế thu nhập
 - `tax evasion`: trốn thuế
+- `capital gains tax`: thuế thu nhập từ thặng dư vốn
+- `tax haven`: thiên đường né thuế
+- `tax bracket`: bậc thuế lũy tiến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government plans to increase tax on luxury cars.

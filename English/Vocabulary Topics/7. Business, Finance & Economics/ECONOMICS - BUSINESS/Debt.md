@@ -2,8 +2,10 @@
 *noun*
 > /det/
 
+![[debt.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a sum of money that is owed or due to be paid.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in debt`: mắc nợ
 - `clear a debt`: xóa nợ, trả hết nợ
+- `national debt`: nợ công của quốc gia
+- `bad debt`: nợ khó đòi / nợ xấu
+- `debt restructuring`: tái cơ cấu các khoản nợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It took him five years to pay off his student debt.

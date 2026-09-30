@@ -2,8 +2,10 @@
 *noun.*
 > /ˈmoʊ.t̬ɚ/
 
+![[motor.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that changes electricity or fuel into movement and makes a machine work
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electric motor`: động cơ điện
+- `servo motor`: động cơ servo
+- `stepper motor`: động cơ bước
+- `brushless motor`: động cơ không chổi than
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot's wheel is driven by a small electric motor.

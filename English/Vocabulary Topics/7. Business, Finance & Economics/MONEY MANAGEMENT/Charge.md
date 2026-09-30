@@ -2,8 +2,10 @@
 *Verb*
 > /tʃɑːdʒ/
 
+![[charge.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To demand an amount of money as a price for a service or a purchase.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `charge a fee`: tính phí
 - `charge to a credit card`: tính vào thẻ tín dụng
+- `service charge`: khoản phí dịch vụ phát sinh
+- `charge interest`: tính lãi suất trên số dư nợ
+- `incur charges`: phát sinh thêm các chi phí phụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The hotel charges $20 per day for parking.

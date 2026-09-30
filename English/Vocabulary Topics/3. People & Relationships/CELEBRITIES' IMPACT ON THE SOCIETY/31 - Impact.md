@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪm.pækt/
 
+![[impact.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Hệ lụy tiêu cực & Sự tác động sâu sắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The effect or influence of one person, thing, or action.
@@ -13,7 +15,10 @@
 💡 Impact -> Va chạm, ảnh hưởng
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Have an impact on: Có tác động đến`
+- `Have an impact on`: Có tác động đến
+- `profound impact`: tác động sâu sắc
+- `cushion the impact`: giảm nhẹ tác động tiêu cực
+- `far-reaching impact`: tác động sâu rộng lâu dài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Big impact.

@@ -2,8 +2,10 @@
 *v.*
 > /peɪ/
 
+![[pay.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give money to someone for something you can buy or for services they provide.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay premium`: đóng phí bảo hiểm
 - `pay a claim`: chi trả tiền bồi thường
+- `pay indemnification`: chi trả các khoản tiền bồi thường thỏa đáng
+- `promptly pay`: thanh toán bồi thường nhanh chóng đúng hẹn
+- `pay out a claim`: tiến hành giải ngân tiền chi trả cho hồ sơ bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You have to pay the premium every month.

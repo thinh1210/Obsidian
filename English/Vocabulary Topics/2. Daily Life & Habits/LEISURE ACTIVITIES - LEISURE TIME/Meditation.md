@@ -2,8 +2,10 @@
 *n*
 > /ˌmedɪˈteɪʃn/
 
+![[meditation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of thinking deeply in silence for relaxation.
@@ -13,7 +15,11 @@
 💡 Meditate (thiền) + ion -> sự thiền.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `practice meditation`: tập thiền\n- `guided meditation`: thiền có hướng dẫn
+- `practice meditation`: tập thiền
+- `guided meditation`: thiền có hướng dẫn
+- `deep meditation`: thiền định sâu
+- `mindfulness meditation`: thiền chánh niệm
+- `meditation cushion`: đệm ngồi thiền (tọa cụ)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Meditation helps me clear my mind.

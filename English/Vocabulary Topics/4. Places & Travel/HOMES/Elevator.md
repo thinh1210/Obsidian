@@ -2,8 +2,10 @@
 *noun*
 > /ˈɛləveɪtər/
 
+![[elevator.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine that carries people or goods up and down to different levels in a building.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take the elevator`: đi thang máy
 - `elevator pitch`: bài thuyết trình ngắn (trong thang máy)
+- `call the elevator`: bấm gọi thang máy
+- `elevator shaft`: giếng thang máy
+- `stuck in an elevator`: bị mắc kẹt trong thang máy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The elevator is out of order.

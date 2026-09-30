@@ -2,8 +2,10 @@
 *noun*
 > /trend/
 
+![[trend.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A general direction in which something is developing or changing.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `market trend`: xu hướng thị trường
 - `follow a trend`: theo xu hướng
+- `set a trend`: tạo nên một trào lưu / xu hướng
+- `buck the trend`: lội ngược dòng / đi ngược xu thế
+- `emerging trend`: xu hướng đang nổi lên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There is a growing trend towards healthy living.

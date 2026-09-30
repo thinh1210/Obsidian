@@ -2,8 +2,10 @@
 *noun*
 > /ˈerpɔːrt/
 
+![[airport.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A complex of runways and buildings for the takeoff, landing, and maintenance of civil aircraft.
@@ -16,6 +18,8 @@
 - `international airport`: sân bay quốc tế
 - `airport security`: an ninh sân bay
 - `at the airport`: tại sân bay
+- `airport shuttle`: xe buýt đưa đón khách sân bay
+- `airport terminal`: nhà ga sân bay hàng không
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to arrive at the airport two hours before our flight.

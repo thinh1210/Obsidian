@@ -2,8 +2,10 @@
 *noun*
 > /ɡæs/
 
+![[gas.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance in a physical state in which it does not have a definite shape or volume, and expands to fill any container.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gas cylinder`: bình ga/bình khí
 - `greenhouse gas`: khí nhà kính
+- `noble gas`: khí hiếm
+- `ideal gas`: khí lý tưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Turn off the gas after cooking.

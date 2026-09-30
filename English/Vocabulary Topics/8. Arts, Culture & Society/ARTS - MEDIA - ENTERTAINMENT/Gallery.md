@@ -2,8 +2,10 @@
 *n.*
 > /ˈɡæləri/
 
+![[gallery.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A room or building for the display or sale of works of art.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `art gallery`: phòng triển lãm nghệ thuật
 - `national gallery`: phòng triển lãm quốc gia
+- `private gallery`: phòng tranh tư nhân
+- `gallery curator`: người giám tuyển triển lãm tranh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The local gallery is showing works by young artists.

@@ -2,8 +2,10 @@
 *noun*
 > /ɡəʊld/
 
+![[gold.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A yellow precious metal.
@@ -13,7 +15,10 @@
 💡 Gold là màu vàng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `pure gold: vàng nguyên chất`
+- `pure gold`: vàng nguyên chất
+- `white gold`: vàng trắng
+- `rose gold`: vàng hồng
+- `heart of gold`: tấm lòng nhân hậu, bao dung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ring is gold.

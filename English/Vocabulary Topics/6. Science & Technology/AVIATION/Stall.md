@@ -2,8 +2,10 @@
 *noun / verb*
 > /stɔːl/
 
+![[stall.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A condition in which an aircraft's wings lose lift due to an excessive angle of attack, causing the aircraft to drop.

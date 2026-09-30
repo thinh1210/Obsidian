@@ -2,8 +2,10 @@
 *n.*
 > /rɪsk/
 
+![[risk.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The possibility of something bad happening.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high risk`: rủi ro cao
 - `run a risk`: gặp rủi ro, liều mạng
+- `risk assessment`: hoạt động khảo sát thẩm định rủi ro
+- `risk management`: công tác quản trị kiểm soát rủi ro
+- `pool risks`: chia sẻ và gộp chung rủi ro giữa nhiều người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Driving without a seatbelt is a huge risk.

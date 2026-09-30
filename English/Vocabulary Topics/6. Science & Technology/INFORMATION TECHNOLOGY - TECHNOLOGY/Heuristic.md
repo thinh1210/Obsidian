@@ -2,8 +2,10 @@
 *adj*
 > /hjʊəˈrɪs.tɪk/
 
+![[heuristic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a method of teaching or problem solving) allowing students/AI to learn by discovering things themselves and learning from their own experiences.

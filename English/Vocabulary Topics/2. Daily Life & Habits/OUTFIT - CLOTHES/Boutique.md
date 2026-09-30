@@ -2,8 +2,10 @@
 *noun*
 > /buːˈtiːk/
 
+![[boutique.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small shop selling fashionable clothes or accessories.
@@ -13,7 +15,10 @@
 💡 Boutique -> Bù tiếc -> Mua đồ ở đây đắt bù tiếc đứt ruột.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a designer boutique: cửa hàng thiết kế`
+- `a designer boutique`: cửa hàng thiết kế
+- `fashion boutique`: cửa hàng thời trang phong cách riêng
+- `upscale boutique`: boutique thời trang sang trọng
+- `boutique hotel`: khách sạn phong cách boutique
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought this dress at a little boutique.

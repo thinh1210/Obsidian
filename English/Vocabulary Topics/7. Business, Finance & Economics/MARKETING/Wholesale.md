@@ -2,8 +2,10 @@
 *noun*
 > /ˈhoʊlseɪl/
 
+![[wholesale.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The selling of goods in large quantities to be retailed by others
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wholesale market`: thị trường bán sỉ
 - `wholesale price`: giá bán sỉ
+- `wholesale distributor`: nhà phân phối bán buôn trung gian
+- `buy wholesale`: mua hàng với số lượng lớn giá sỉ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We buy our restaurant supplies at the local wholesale market to save money.

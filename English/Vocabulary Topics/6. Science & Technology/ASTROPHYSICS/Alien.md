@@ -2,8 +2,10 @@
 *noun*
 > /ˈeɪ.li.ən/
 
+![[alien.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A creature from another planet.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `alien life`: sự sống ngoài hành tinh
 - `alien planet`: hành tinh xa lạ
+- `alien civilization`: nền văn minh ngoài Trái Đất
+- `search for alien intelligence`: tìm kiếm trí thông minh ngoài hành tinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I don't think aliens have ever visited Earth.

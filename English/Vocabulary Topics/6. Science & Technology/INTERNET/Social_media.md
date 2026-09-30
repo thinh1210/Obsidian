@@ -2,8 +2,10 @@
 *noun*
 > /ˌsəʊ.ʃəl ˈmiː.di.ə/
 
+![[social_media.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Websites and apps that allow users to create and share content or participate in social networking.

@@ -2,8 +2,10 @@
 *n.*
 > /kəˈlɪʒn/
 
+![[collision.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An instance of one moving object or person striking violently against another.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `collision coverage`: bảo hiểm va chạm
 - `head-on collision`: vụ đâm xe trực diện
+- `collision insurance`: bảo hiểm thiệt hại do va chạm vật chất xe
+- `near collision`: tình huống suýt xảy ra va chạm nguy hiểm
+- `avoid collision`: thực hiện né tránh va chạm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Collision coverage pays for damage to your car in an accident.

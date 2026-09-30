@@ -2,8 +2,10 @@
 *noun*
 > /brænd/
 
+![[brand.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of product manufactured by a particular company under a particular name.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brand loyalty`: sự trung thành với thương hiệu
 - `brand awareness`: nhận diện thương hiệu
+- `brand identity`: bộ nhận diện thương hiệu
+- `brand image`: hình ảnh thương hiệu
+- `build a brand`: xây dựng thương hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Which brand of shoes do you prefer?

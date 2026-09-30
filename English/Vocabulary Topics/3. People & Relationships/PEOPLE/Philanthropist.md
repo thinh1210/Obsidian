@@ -2,8 +2,10 @@
 *n.*
 > /fɪˈlæn.θrə.pɪst/
 
+![[philanthropist.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who seeks to promote the welfare of others, especially by the generous donation of money.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A wealthy philanthropist`: Một nhà từ thiện giàu có
+- `generous philanthropist`: nhà hảo tâm hào phóng hết lòng vì cộng đồng
+- `billionaire philanthropist`: tỷ phú làm việc thiện nguyện
+- `distinguished philanthropist`: nhà từ thiện lỗi lạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bill Gates is a famous philanthropist.

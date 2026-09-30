@@ -2,8 +2,10 @@
 *noun*
 > /ˈeɪdʒənsi/
 
+![[agency.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A business or organization established to provide a particular service, especially one that involves organizing transactions between other parties.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `advertising agency`: công ty quảng cáo
 - `creative agency`: công ty sáng tạo
+- `PR agency`: công ty quan hệ công chúng
+- `boutique agency`: công ty quảng cáo chuyên biệt
+- `hire an agency`: thuê công ty dịch vụ đại lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She works for a small advertising agency in New York.

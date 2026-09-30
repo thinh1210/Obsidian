@@ -2,8 +2,10 @@
 *noun*
 > /ˈteɪ.lɚ/
 
+![[tailor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose occupation is making fitted clothes such as suits, pants, and jackets to fit individual customers.
@@ -13,7 +15,10 @@
 💡 Tailor -> Tay lơ -> Thợ may rảnh tay lơ đãng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a custom tailor: thợ may đo theo yêu cầu`
+- `a custom tailor`: thợ may đo theo yêu cầu
+- `tailor-made clothes`: quần áo may đo vừa vặn như in
+- `visit a tailor`: ghé tiệm may đo
+- `tailor to one's needs`: điều chỉnh thiết kế theo nhu cầu riêng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had my suit made by a tailor.

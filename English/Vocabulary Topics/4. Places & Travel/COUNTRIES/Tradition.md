@@ -2,8 +2,10 @@
 *Noun*
 > /trəˈdɪʃn/
 
+![[tradition.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The transmission of customs or beliefs from generation to generation.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Long-standing tradition`: Truyền thống lâu đời
+- `break with tradition`: phá vỡ truyền thống
+- `cultural tradition`: truyền thống văn hóa
+- `family tradition`: truyền thống gia đình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is a tradition to eat turkey on Thanksgiving.

@@ -2,8 +2,10 @@
 *n.*
 > /ɡɜːl/
 
+![[girl.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A female child or young woman.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A pretty girl`: Một cô gái xinh đẹp
+- `career girl`: cô nàng đam mê sự nghiệp
+- `cover girl`: cô gái xuất hiện trên trang bìa tạp chí
+- `girl next door`: cô gái hàng xóm gần gũi giản dị (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a smart girl.

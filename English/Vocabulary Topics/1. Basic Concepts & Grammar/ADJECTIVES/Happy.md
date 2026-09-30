@@ -2,8 +2,10 @@
 *adj.*
 > /ˈhæpi/
 
+![[happy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feeling or showing pleasure
@@ -13,7 +15,10 @@
 💡 Happy là vui vẻ
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``happy ending`: kết thúc có hậu`
+- `happy ending`: kết thúc có hậu
+- `happy-go-lucky`: vô tư lự / lạc quan
+- `more than happy to`: rất sẵn lòng làm gì
+- `strike a happy medium`: tìm được điểm cân bằng thỏa đáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am happy.

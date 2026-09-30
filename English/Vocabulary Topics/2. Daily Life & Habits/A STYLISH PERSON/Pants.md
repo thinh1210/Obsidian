@@ -2,8 +2,10 @@
 *n.*
 > /pænts/
 
+![[pants.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing that covers the lower body and is divided into two parts.
@@ -13,7 +15,11 @@
 💡 Pants - quần dài bạn (pan) mặc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a pair of pants`: một chiếc quần\n- `sweatpants`: quần nỉ
+- `a pair of pants`: một chiếc quần
+- `sweatpants`: quần nỉ
+- `tailored pants`: quần âu may đo
+- `wide-leg pants`: quần ống rộng
+- `high-waisted pants`: quần cạp cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought a new pair of black pants.

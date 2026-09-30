@@ -2,8 +2,10 @@
 *n.*
 > /blɪs/
 
+![[bliss.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Perfect happiness; great joy.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pure bliss`: hạnh phúc thuần khiết
+- `wedded bliss`: hạnh phúc lứa đôi ngập tràn
+- `ignorance is bliss`: không biết thì không đau lòng (idiom)
+- `blissful ignorance`: sự vô tư không màng thế sự
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lying on the beach was pure bliss.

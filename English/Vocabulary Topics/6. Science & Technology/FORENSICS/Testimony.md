@@ -2,8 +2,10 @@
 *noun*
 > /ˈtes.tɪ.mə.ni/
 
+![[testimony.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal written or spoken statement given in a court of law as evidence.

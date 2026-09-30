@@ -2,8 +2,10 @@
 *v.*
 > /ɪɡˈzæspəreɪt/
 
+![[exasperate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Irritate and frustrate (someone) intensely
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `exasperate someone`: làm ai đó phát cáu
 - `become exasperated`: trở nên bực tức
+- `exasperated sigh`: tiếng thở dài ngao ngán bực bội
+- `drive someone to exasperation`: làm ai phát cáu đến phát điên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His endless questions exasperate me.

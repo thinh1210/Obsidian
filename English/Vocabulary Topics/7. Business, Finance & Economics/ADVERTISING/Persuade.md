@@ -2,8 +2,10 @@
 *verb*
 > /pəˈsweɪd/
 
+![[persuade.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To convince someone to do something through reasoning or argument.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `persuade someone to buy`: thuyết phục ai mua
 - `persuasive skills`: kỹ năng thuyết phục
+- `persuade consumers`: thuyết phục người tiêu dùng
+- `hard to persuade`: khó lòng thuyết phục
+- `persuasive argument`: lập luận đầy sức thuyết phục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I tried to persuade her to stay for dinner.

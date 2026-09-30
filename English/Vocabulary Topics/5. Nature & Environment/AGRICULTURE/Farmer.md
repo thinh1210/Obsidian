@@ -2,8 +2,10 @@
 *n.*
 > /ˈfɑː.mər/
 
+![[farmer.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who owns or manages a farm.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local farmer`: nông dân địa phương
 - `dairy farmer`: nông dân nuôi bò sữa
+- `peasant farmer`: nông dân canh tác nhỏ lẻ/nông dân nghèo
+- `tenant farmer`: tá điền, người thuê đất làm ruộng
+- `farmers' market`: chợ phiên nông sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The farmer wakes up early every morning to feed the chickens.

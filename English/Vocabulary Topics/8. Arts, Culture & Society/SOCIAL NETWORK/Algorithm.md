@@ -2,8 +2,10 @@
 *noun*
 > /ˈælɡərɪðəm/
 
+![[algorithm.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of rules followed by computers to determine what content is shown to users
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `social media algorithm`: thuật toán mạng xã hội
+- `algorithmic bias`: sự thiên lệch của thuật toán
+- `tweak the algorithm`: điều chỉnh tinh chỉnh thuật toán
+- `algorithm-driven content`: nội dung do thuật toán đề xuất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The TikTok algorithm seems to know exactly what kind of videos I like.

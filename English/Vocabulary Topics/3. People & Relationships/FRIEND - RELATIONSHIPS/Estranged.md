@@ -2,8 +2,10 @@
 *adj*
 > /ɪˈstreɪndʒd/
 
+![[estranged.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of a person) no longer close or affectionate to someone; alienated.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `an estranged friend`: một người bạn đã xa cách
+- `estranged from family`: cắt đứt liên lạc với gia đình
+- `estranged relatives`: họ hàng xa cách không còn qua lại
+- `become estranged`: trở nên xa lạ cách mặt nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is estranged from his family.

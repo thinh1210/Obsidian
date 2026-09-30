@@ -2,8 +2,10 @@
 *adjective*
 > /friː/
 
+![[free.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Given or available without charge or payment
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `free sample`: mẫu thử miễn phí
 - `free shipping`: giao hàng miễn phí
+- `free giveaway`: chương trình tặng quà miễn phí
+- `freemium model`: mô hình kinh doanh miễn phí tính năng căn bản
+- `free trial period`: thời gian sử dụng thử nghiệm miễn phí dịch vụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The event is open to the public and admission is completely free.

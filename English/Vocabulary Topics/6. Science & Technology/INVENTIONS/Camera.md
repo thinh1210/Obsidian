@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkæm.rə/
 
+![[camera.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device for taking photographs or making films.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digital camera`: máy ảnh kỹ thuật số
 - `security camera`: camera an ninh
+- `surveillance camera`: camera giám sát an ninh
+- `camera lens`: ống kính máy quay/chụp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought a new camera for our trip.

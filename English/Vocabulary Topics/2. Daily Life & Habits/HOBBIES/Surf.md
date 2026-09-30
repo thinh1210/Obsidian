@@ -2,8 +2,10 @@
 *v*
 > /sɜːrf/
 
+![[surf.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To ride on a wave towards the shore while standing or lying on a surfboard.

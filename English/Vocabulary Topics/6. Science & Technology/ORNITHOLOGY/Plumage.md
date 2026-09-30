@@ -2,8 +2,10 @@
 *noun*
 > /ˈpluː.mɪdʒ/
 
+![[plumage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bird's feathers collectively.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bright plumage`: bộ lông sặc sỡ
 - `winter plumage`: bộ lông mùa đông
+- `breeding plumage`: bộ lông rực rỡ trong mùa sinh sản
+- `dull plumage`: bộ lông màu xỉn để ngụy trang
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Male peacocks are famous for their colorful plumage.

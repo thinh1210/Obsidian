@@ -2,8 +2,10 @@
 *adj*
 > /dɪˈbɪlɪteɪtɪŋ/
 
+![[debilitating.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a disease or condition) making someone very weak and infirm.

@@ -2,8 +2,10 @@
 *adj, n*
 > /pɪŋk/
 
+![[pink.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pale red color.

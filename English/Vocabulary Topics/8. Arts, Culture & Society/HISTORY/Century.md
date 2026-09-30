@@ -2,8 +2,10 @@
 *noun*
 > /ˈsen.tʃər.i/
 
+![[century.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of one hundred years.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `turn of the century`: bước ngoặt của thế kỷ / đầu thế kỷ mới
 - `21st century`: thế kỷ 21
+- `half a century`: nửa thế kỷ
+- `across centuries`: qua nhiều thế kỷ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This church was built in the twelfth century.

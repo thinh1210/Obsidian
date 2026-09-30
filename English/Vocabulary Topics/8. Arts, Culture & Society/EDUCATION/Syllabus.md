@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪləbəs/
 
+![[syllabus.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An outline of the subjects in a course of study or teaching
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `course syllabus`: đề cương khóa học
 - `read the syllabus`: đọc đề cương môn học
+- `outline the syllabus`: phác thảo chi tiết đề cương môn học
+- `cover the syllabus`: giảng dạy hoàn thành toàn bộ khối lượng đề cương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please check the syllabus for the reading list.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈfɪɡ.jər.ə.tɪv/
 
+![[figurative.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** used not with their basic meaning but in a way that makes a picture or idea in the mind

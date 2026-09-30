@@ -2,8 +2,10 @@
 *verb*
 > /kəˈrɒb.ə.reɪt/
 
+![[corroborate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To confirm or give support to a statement, theory, or finding; to strengthen evidence.

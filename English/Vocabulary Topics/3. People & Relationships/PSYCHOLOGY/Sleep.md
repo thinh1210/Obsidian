@@ -2,8 +2,10 @@
 *verb*
 > /sliːp/
 
+![[sleep.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A condition of body and mind that typically recurs for several hours every night.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to sleep`: đi ngủ
+- `deep sleep`: giấc ngủ sâu ngon lành
+- `sleep deprivation`: sự thiếu ngủ trầm trọng
+- `lose sleep over`: mất ăn mất ngủ vì lo lắng (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to sleep.

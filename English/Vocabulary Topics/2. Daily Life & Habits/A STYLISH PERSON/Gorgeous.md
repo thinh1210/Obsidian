@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɡɔːrdʒəs/
 
+![[gorgeous.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very beautiful or attractive.
@@ -13,7 +15,11 @@
 💡 Gorgeous - gõ (gor) cửa vì thấy quá đẹp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `gorgeous dress`: chiếc váy tuyệt đẹp\n- `look gorgeous`: trông tuyệt đẹp
+- `gorgeous dress`: chiếc váy tuyệt đẹp
+- `look gorgeous`: trông tuyệt đẹp
+- `drop-dead gorgeous`: đẹp mê hồn, đẹp xuất sắc
+- `gorgeous ensemble`: bộ trang phục phối hợp tuyệt đẹp
+- `gorgeous complexion`: nước da tuyệt đẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You look absolutely gorgeous in that dress.

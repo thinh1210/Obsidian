@@ -2,8 +2,10 @@
 *n, adj*
 > /ˈvaɪə.lət/
 
+![[violet.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bluish-purple color.

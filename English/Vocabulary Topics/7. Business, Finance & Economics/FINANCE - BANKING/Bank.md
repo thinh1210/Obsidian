@@ -2,8 +2,10 @@
 *noun.*
 > /bæŋk/
 
+![[bank.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An organization where people can store and borrow money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bank account`: tài khoản ngân hàng
 - `piggy bank`: lợn đất tiết kiệm
+- `central bank`: ngân hàng trung ương
+- `commercial bank`: ngân hàng thương mại
+- `investment bank`: ngân hàng đầu tư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to go to the bank to deposit some cash.

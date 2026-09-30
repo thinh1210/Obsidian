@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒem.stəʊn/
 
+![[gemstone.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious or semiprecious stone used in jewelry.
@@ -13,7 +15,10 @@
 💡 Gem (ngọc) + stone (đá) = đá quý.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `cut gemstone: đá quý đã cắt`
+- `cut gemstone`: đá quý đã cắt
+- `precious gemstone`: đá quý thiên nhiên
+- `synthetic gemstone`: đá quý tổng hợp / nhân tạo
+- `uncut gemstone`: đá quý thô chưa qua cắt gọt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This gemstone is rare.

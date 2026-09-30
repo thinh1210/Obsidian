@@ -2,8 +2,10 @@
 *noun.*
 > /ɡəʊld/
 
+![[gold.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A yellow precious metal, valued especially for use in jewelry and decoration, and as a guarantee of value.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gold ring`: nhẫn vàng
 - `solid gold`: vàng ròng, vàng nguyên khối
+- `gold standard`: tiêu chuẩn vàng mực thước (idiom)
+- `heart of gold`: tấm lòng vàng nhân ái (idiom)
+- `gold medal`: huy chương vàng quán quân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wears a delicate gold chain around her neck.

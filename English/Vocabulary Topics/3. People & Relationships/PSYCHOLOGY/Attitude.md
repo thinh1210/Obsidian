@@ -2,8 +2,10 @@
 *noun*
 > /ˈæt̬.ə.tuːd/
 
+![[attitude.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A settled way of thinking or feeling about someone or something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `positive attitude`: thái độ tích cực
+- `cynical attitude`: thái độ hoài nghi cay độc
+- `attitude towards life`: thái độ đối với cuộc sống
+- `strike an attitude`: tỏ vẻ ra bộ điệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a positive attitude.

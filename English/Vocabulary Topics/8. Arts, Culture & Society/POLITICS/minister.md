@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɪnɪstər/
 
+![[minister.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A head of a government department.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prime minister`: thủ tướng
 - `foreign minister`: bộ trưởng bộ ngoại giao
+- `cabinet minister`: bộ trưởng nội các
+- `appoint a minister`: bổ nhiệm một vị bộ trưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The minister answered questions about the new education budget.

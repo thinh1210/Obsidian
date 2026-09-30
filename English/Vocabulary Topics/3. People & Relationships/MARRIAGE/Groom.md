@@ -2,8 +2,10 @@
 *noun*
 > /ɡruːm/
 
+![[groom.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A man who is about to get married or has just got married.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `The bride and groom`: Cô dâu và chú rể
+- `groom-to-be`: chú rể tương lai chuẩn bị cưới
+- `best man and groom`: phù rể và chú rể
+- `radiant groom`: chú rể rạng ngời hạnh phúc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The groom is waiting at the altar.

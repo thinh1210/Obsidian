@@ -2,8 +2,10 @@
 *Noun*
 > /ˈdʒɝː.ni/
 
+![[journey.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of travelling from one place to another, especially in a vehicle.
@@ -13,7 +15,10 @@
 💡 GIƠ NI (Journey) hành trình dang dở.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `long journey`: hành trình dài\n- `safe journey`: thượng lộ bình an
+- `long journey`: hành trình dài
+- `safe journey`: thượng lộ bình an
+- `epic journey`: chuyến hành trình sử thi vĩ đại
+- `journey of a lifetime`: chuyến đi để đời đáng nhớ nhất cuộc đời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It’s a two-hour train journey from here.

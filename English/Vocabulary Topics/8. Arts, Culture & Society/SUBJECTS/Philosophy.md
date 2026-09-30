@@ -2,8 +2,10 @@
 *noun*
 > /fəˈlɒsəfi/
 
+![[philosophy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the fundamental nature of knowledge, reality, and existence, especially when considered as an academic discipline.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient philosophy`: triết học cổ đại
+- `moral philosophy`: triết học đạo đức
+- `doctor of philosophy`: tiến sĩ triết học (PhD)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Philosophy classes teach you how to think critically.

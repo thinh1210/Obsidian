@@ -2,8 +2,10 @@
 *noun*
 > /bəʊn/
 
+![[bone.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any of the hard parts that form the skeleton of the body of a human or an animal
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bone fragment`: mảnh xương
 - `animal bone`: xương động vật
+- `fossilized bone`: xương hóa thạch
+- `skeletal remains`: di cốt xương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dog buried a bone in the garden.

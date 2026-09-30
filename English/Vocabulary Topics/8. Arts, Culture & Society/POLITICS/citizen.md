@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɪtɪzn/
 
+![[citizen.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legally recognized subject or national of a state or commonwealth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `global citizen`: công dân toàn cầu
 - `active citizen`: công dân tích cực
+- `law-abiding citizen`: công dân tuân thủ pháp luật
+- `senior citizen`: người cao tuổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Every citizen over eighteen has the right to vote.

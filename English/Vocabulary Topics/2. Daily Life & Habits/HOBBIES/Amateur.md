@@ -2,8 +2,10 @@
 *Noun/Adj*
 > /ˈæm.ə.tər/
 
+![[amateur.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Taking part in an activity for pleasure, not as a job.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈpriːmiəm/
 
+![[premium.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount to be paid for an insurance policy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `monthly premium`: phí bảo hiểm hàng tháng
 - `pay a premium`: đóng phí bảo hiểm
+- `annual premium`: phí bảo hiểm định kỳ thanh toán theo năm
+- `premium hike`: đợt tăng phí đóng bảo hiểm
+- `grace period for premium`: thời gian gia hạn ân hạn đóng phí bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My car insurance premium went up after the accident.

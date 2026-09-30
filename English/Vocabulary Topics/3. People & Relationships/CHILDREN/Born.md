@@ -2,8 +2,10 @@
 *adj*
 > /bɔːrn/
 
+![[born.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Existing as a result of birth.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `be born`: được sinh ra
+- `born and raised`: sinh ra và lớn lên tại
+- `born with a silver spoon`: ngậm thìa vàng từ khi sinh ra (idiom)
+- `first-born child`: con đầu lòng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The baby was born yesterday.

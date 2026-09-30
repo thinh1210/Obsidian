@@ -2,8 +2,10 @@
 *noun*
 > /ˈsentʃəri/
 
+![[century.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of one hundred years.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the 21st century`: thế kỷ 21
+- `turn of the century`: thời điểm chuyển giao thế kỷ
+- `half a century`: nửa thế kỷ
+- `across the centuries`: qua nhiều thế kỷ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We live in the 21st century.

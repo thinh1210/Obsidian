@@ -2,8 +2,10 @@
 *v.*
 > /ˈmænɪdʒ/
 
+![[manage.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To succeed in doing or dealing with something, especially something difficult
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `manage time`: quản lý thời gian
 - `manage stress`: kiểm soát căng thẳng
+- `manage stress effectively`: kiểm soát căng thẳng một cách hiệu quả
+- `manage to survive`: xoay xở để tồn tại vượt khó
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I can manage this problem.

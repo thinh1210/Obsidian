@@ -2,8 +2,10 @@
 *noun*
 > /ˈbev.əl/
 
+![[bevel.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a slope or slant on a line or surface, or an instrument used to draw or measure angles.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bevel gear`: bánh răng côn
 - `bevel edge`: cạnh vát
+- `bevel angle`: góc vát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The carpenter shaved the wood to create a smooth bevel edge.

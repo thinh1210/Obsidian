@@ -2,8 +2,10 @@
 *noun*
 > /ˈdaɪ.nə.məʊ/
 
+![[dynamo.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a machine for converting mechanical energy into electrical energy, typically by means of rotating coils in a magnetic field.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bicycle dynamo`: dynamo xe đạp
 - `human dynamo`: người tràn đầy năng lượng
+- `rotary dynamo`: máy phát điện xoay chiều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The headlight on my old bicycle was powered by a dynamo.

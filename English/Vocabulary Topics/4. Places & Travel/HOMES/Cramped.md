@@ -2,8 +2,10 @@
 *adj*
 > /kræmpt/
 
+![[cramped.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Uncomfortably small or restricted.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cramped conditions`: điều kiện chật chội
 - `cramped apartment`: căn hộ chật chội
+- `cramped space`: không gian chật chội
+- `feel cramped`: cảm thấy tù túng
+- `cramped living quarters`: khu nhà ở chật hẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Living in a cramped room is tough.

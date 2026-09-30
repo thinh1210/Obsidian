@@ -2,8 +2,10 @@
 *noun*
 > /kɪŋ/
 
+![[king.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A male ruler of a country, who holds this position by right of birth
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `king's crown`: vương miện của vua
 - `royal king`: đức vua hoàng gia
+- `tomb of the king`: lăng mộ nhà vua
+- `Valley of the Kings`: Thung lũng các vị vua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The king ruled his country for forty years.

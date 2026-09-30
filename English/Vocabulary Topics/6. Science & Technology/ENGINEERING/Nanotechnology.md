@@ -2,8 +2,10 @@
 *noun*
 > /ˌnænəʊtekˈnɒlədʒi/
 
+![[nanotechnology.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Công nghệ cao & Vật lý kỹ thuật chuyên sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of technology that deals with dimensions and tolerances of less than 100 nanometers, especially the manipulation of individual atoms and molecules.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `nanotechnology research`: nghiên cứu công nghệ nano
 - `applications of nanotechnology`: các ứng dụng của công nghệ nano
+- `nanotechnology manufacturing`: sản xuất công nghệ nano
+- `medical nanotechnology`: công nghệ nano y học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Nanotechnology is used to design stronger materials and more effective drugs.

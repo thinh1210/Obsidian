@@ -2,8 +2,10 @@
 *noun*
 > /ˈprɑː.də.dʒi/
 
+![[prodigy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person, especially a young one, endowed with exceptional qualities or abilities.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `child prodigy`: thần đồng nhí
+- `musical prodigy`: thần đồng âm nhạc
+- `mathematical prodigy`: thần đồng toán học
+- `infant prodigy`: thần đồng nhỏ tuổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mozart was a child prodigy.

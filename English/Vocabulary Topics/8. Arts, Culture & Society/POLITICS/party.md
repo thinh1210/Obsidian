@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɑːrti/
 
+![[party.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formally constituted political group that contests elections and attempts to form or take part in a government.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political party`: đảng phái chính trị
 - `ruling party`: đảng cầm quyền
+- `join a political party`: gia nhập một chính đảng
+- `third party`: đảng thứ ba độc lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Which political party do you support?

@@ -2,8 +2,10 @@
 *noun/verb*
 > /rɪˈvjuː/
 
+![[review.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A critical appraisal of a book, play, movie, or exhibition.

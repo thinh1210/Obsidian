@@ -2,8 +2,10 @@
 *v.*
 > /ˈʌndəraɪt/
 
+![[underwrite.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Accept liability under (an insurance policy), thus guaranteeing payment in case loss or damage occurs.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `underwrite a policy`: đánh giá và chấp nhận bảo hiểm cho một hợp đồng
 - `underwrite a risk`: đánh giá rủi ro
+- `underwriting guidelines`: bộ quy chuẩn hướng dẫn nghiệp vụ thẩm định bảo hiểm
+- `medical underwriting`: nghiệp vụ thẩm định bảo hiểm dựa trên hồ sơ tiền sử bệnh
+- `underwrite a bond issue`: đứng ra bảo lãnh phát hành một đợt trái phiếu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Financial firms underwrite various insurance plans for corporate clients.

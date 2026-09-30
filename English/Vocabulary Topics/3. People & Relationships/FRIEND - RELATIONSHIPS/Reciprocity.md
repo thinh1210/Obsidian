@@ -2,8 +2,10 @@
 *noun*
 > /ˌres.əˈprɑː.sə.t̬i/
 
+![[reciprocity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of exchanging things with others for mutual benefit.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the principle of reciprocity`: nguyên tắc có qua có lại
+- `norm of reciprocity`: chuẩn mực có qua có lại
+- `lack of reciprocity`: sự thiếu công bằng / đơn phương một chiều
+- `practice reciprocity`: thực hiện nguyên tắc hỗ trợ tương hỗ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Friendship is based on reciprocity.

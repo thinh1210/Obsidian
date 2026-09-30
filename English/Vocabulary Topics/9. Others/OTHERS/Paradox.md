@@ -1,13 +1,21 @@
 # Paradox
 
 *Noun*
+> /ˈpær.ə.dɒks/
+
+![[paradox.mp3]]
 
 - **[EN]:** A seemingly absurd or self-contradictory statement or proposition.
 - **[VN]:** Nghịch lý.
 
-**Level:** C1
+**Level:** C1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `apparent paradox`: nghịch lý tưởng chừng mâu thuẫn nhưng lại đúng
+- `time travel paradox`: nghịch lý thời gian xuyên không
+- `resolve a paradox`: hóa giải một mâu thuẫn nghịch lý
+
 ## Examples
 1. *It is a paradox that the more she eats, the thinner she gets.*
    - Thật là một nghịch lý khi cô ấy càng ăn nhiều thì càng gầy.

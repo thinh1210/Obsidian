@@ -2,8 +2,10 @@
 *noun*
 > /draʊt/
 
+![[drought.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long period when there is little or no rain.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `severe drought`: hạn hán nghiêm trọng
 - `drought relief`: cứu trợ hạn hán
+- `prolonged drought`: đợt hạn hán kéo dài
+- `drought-stricken area`: vùng bị hạn hán tàn phá nghiêm trọng
+- `endure severe drought`: chịu đựng nạn hạn hán khốc liệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The crop failed this year because of the drought.

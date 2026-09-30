@@ -2,8 +2,10 @@
 *n.*
 > /ˈtrendsetər/
 
+![[trendsetter.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or institution that starts a new fashion or trend.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fashion trendsetter`: người dẫn đầu xu hướng thời trang
+- `global trendsetter`: người định hình xu hướng toàn cầu
+- `act as a trendsetter`: đóng vai trò là người mở đầu xu hướng
+- `trendsetter in the industry`: người dẫn dắt xu hướng trong ngành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has always been a trendsetter among her friends.

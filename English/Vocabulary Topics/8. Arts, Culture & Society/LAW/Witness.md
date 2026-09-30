@@ -2,8 +2,10 @@
 *noun/verb*
 > /ˈwɪt.nəs/
 
+![[witness.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sees an event, typically a crime or accident, take place; see (an event) take place.

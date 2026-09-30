@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪn.sekt/
 
+![[insect.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small animal that has six legs and generally one or two pairs of wings.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insect bite`: vết côn trùng cắn
 - `insect species`: loài côn trùng
+- `insect repellent`: thuốc chống côn trùng
+- `insect pollinator`: côn trùng thụ phấn
+- `insect colony`: bầy đàn côn trùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* An ant is a common insect.

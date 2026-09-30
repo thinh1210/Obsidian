@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɪk.ɪt/
 
+![[ticket.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official notice of a traffic offense, ordering the offender to pay a fine or appear in court.

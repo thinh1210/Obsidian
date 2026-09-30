@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɑːrkɪt/
 
+![[market.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regular gathering of people for the purchase and sale of provisions, livestock, and other goods; or the demand for a commodity
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `target market`: thị trường mục tiêu
 - `market share`: thị phần
+- `market segmentation`: nghiệp vụ phân khúc thị trường
+- `penetrate the market`: xâm nhập và chiếm lĩnh thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We usually buy fresh vegetables at the local weekend market.

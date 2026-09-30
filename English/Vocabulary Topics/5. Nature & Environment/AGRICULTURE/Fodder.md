@@ -2,8 +2,10 @@
 *n.*
 > /ˈfɒd.ər/
 
+![[fodder.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Food, especially dried hay or straw, for cattle and other livestock.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `animal fodder`: thức ăn gia súc
 - `cannon fodder`: bia đỡ đạn (nghĩa bóng)
+- `fodder crop`: cây trồng làm thức ăn gia súc
+- `provide fodder for thought`: cung cấp tư liệu suy ngẫm
+- `winter fodder`: cỏ khô dự trữ mùa đông cho gia súc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The farmer stacked hay in the barn for winter fodder.

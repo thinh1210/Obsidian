@@ -2,8 +2,10 @@
 *n.*
 > /səkˈses.ər/
 
+![[successor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing that succeeds another.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A worthy successor`: Một người kế nhiệm xứng đáng
+- `worthy successor`: người kế vị xứng đáng
+- `designated successor`: người kế nhiệm được chỉ định
+- `groom a successor`: đào tạo bồi dưỡng người kế vị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is the chosen successor.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈstæm.ɪ.nə/
 
+![[stamina.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to sustain prolonged physical or mental effort.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build stamina`: xây dựng/rèn luyện sức bền
 - `physical stamina`: sức bền thể chất
+- `lack stamina`: thiếu thể lực dẻo dai
+- `test of stamina`: bài kiểm tra sức bền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Long-distance runners need a lot of stamina.

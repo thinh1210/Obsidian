@@ -2,8 +2,10 @@
 *adj.*
 > /pəˈveɪ.sɪv/
 
+![[pervasive.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Spreading widely throughout an area or a group.
@@ -13,7 +15,10 @@
 💡 Pervade + sive
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Pervasive influence: Ảnh hưởng lan tỏa`
+- `Pervasive influence`: Ảnh hưởng lan tỏa
+- `pervasive problem`: vấn đề nhức nhối tràn lan
+- `pervasive media culture`: văn hóa truyền thông thâm nhập sâu rộng
+- `pervasive smell`: mùi hương lan tỏa khắp nơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Pervasive media.

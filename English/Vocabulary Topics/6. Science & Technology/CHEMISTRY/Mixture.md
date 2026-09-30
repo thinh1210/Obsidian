@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɪks.tʃər/
 
+![[mixture.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance made by mixing other substances together, where the individual components retain their chemical identities.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `homogeneous mixture`: hỗn hợp đồng nhất
 - `heterogeneous mixture`: hỗn hợp không đồng nhất
+- `racemic mixture`: hỗn hợp racemic
+- `separate a mixture`: tách một hỗn hợp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Air is a mixture of gases, primarily nitrogen and oxygen.

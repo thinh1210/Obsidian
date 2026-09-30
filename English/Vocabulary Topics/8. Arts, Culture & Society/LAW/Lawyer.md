@@ -2,8 +2,10 @@
 *noun*
 > /ˈlɔɪ.ər/
 
+![[lawyer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who practices or studies law; an attorney or counselor.

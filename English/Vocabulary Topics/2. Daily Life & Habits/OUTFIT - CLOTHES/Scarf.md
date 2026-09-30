@@ -2,8 +2,10 @@
 *noun*
 > /skɑːrf/
 
+![[scarf.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A length or square of fabric worn around the neck.
@@ -13,7 +15,10 @@
 💡 Scarf -> Sợ cáp -> Sợ cáp quấn cổ nên dùng khăn quàng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `silk scarf: khăn lụa`
+- `silk scarf`: khăn lụa
+- `cashmere scarf`: khăn choàng len cashmere mềm mịn
+- `tie a scarf`: thắt khăn quàng cổ
+- `wrap a scarf around the neck`: quấn khăn ấm quanh cổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wrapped a scarf around her neck.

@@ -2,8 +2,10 @@
 *v., n.*
 > /ˈstʌd.i/
 
+![[study.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To learn about a subject by reading or going to school; the process of learning.

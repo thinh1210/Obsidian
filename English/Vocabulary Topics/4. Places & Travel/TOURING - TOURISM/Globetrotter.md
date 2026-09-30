@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɡloʊbˌtrɑː.t̬ɚ/
 
+![[globetrotter.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who travels a lot and visits many different countries.
@@ -13,7 +15,10 @@
 💡 G LỐP RÓT TỜ (Globetrotter) đi khắp thế giới.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `frequent globetrotter`: người đi du lịch thường xuyên\n- `avid globetrotter`: người đam mê du lịch khắp thế giới
+- `frequent globetrotter`: người đi du lịch thường xuyên
+- `avid globetrotter`: người đam mê du lịch khắp thế giới
+- `seasoned globetrotter`: người chu du khắp thế giới dày dạn kinh nghiệm
+- `lifestyle of a globetrotter`: lối sống nay đây mai đó vòng quanh thế giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My sister is a globetrotter; she has visited over 50 countries.

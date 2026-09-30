@@ -2,8 +2,10 @@
 *n.*
 > /ˌkɒn.əˈsɜːr/
 
+![[connoisseur.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An expert judge in matters of taste.

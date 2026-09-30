@@ -2,8 +2,10 @@
 *noun*
 > /kɑːr/
 
+![[car.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor.
@@ -16,6 +18,8 @@
 - `drive a car`: lái xe ô tô
 - `car park`: bãi đỗ xe ô tô
 - `rent a car`: thuê xe ô tô
+- `electric car`: xe ô tô điện thân thiện môi trường
+- `hire a car`: thuê một chiếc xe hơi tự lái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He bought a new car last week.

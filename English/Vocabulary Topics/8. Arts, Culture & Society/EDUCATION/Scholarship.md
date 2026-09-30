@@ -2,8 +2,10 @@
 *n.*
 > /ˈskɒləʃɪp/
 
+![[scholarship.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A grant or payment made to support a student's education
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `win a scholarship`: giành học bổng
 - `apply for a scholarship`: nộp đơn xin học bổng
+- `full scholarship`: suất học bổng toàn phần bao gồm sinh hoạt phí
+- `academic scholarship`: học bổng khuyến khích học tập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She won a scholarship to study in the UK.

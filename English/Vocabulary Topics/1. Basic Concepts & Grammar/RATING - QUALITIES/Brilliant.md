@@ -2,8 +2,10 @@
 *adj*
 > /ˈbrɪl.i.ənt/
 
+![[brilliant.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exceptionally clever or talented.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a brilliant idea`: một ý tưởng xuất sắc
+- `brilliant performance`: màn trình diễn xuất sắc
+- `brilliant mind`: bộ óc lỗi lạc
+- `brilliant sunshine`: ánh nắng rực rỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What a brilliant idea!

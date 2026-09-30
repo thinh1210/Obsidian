@@ -2,8 +2,10 @@
 *noun*
 > /ˈbɔːdə(r)/
 
+![[border.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line separating two political or geographical areas.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross the border`: vượt qua biên giới
+- `border control`: kiểm soát biên giới
+- `share a border with`: có chung đường biên giới với
+- `porous border`: đường biên giới lỏng lẻo
+- `cross-border cooperation`: hợp tác xuyên biên giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We crossed the border into Canada.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈmetl/
 
+![[metal.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sheet metal`: kim loại tấm
 - `heavy metal`: kim loại nặng
+- `precious metal`: kim loại quý giá như vàng bạc
+- `test one's mettle`: thử thách bản lĩnh ý chí (wordplay/idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The gate is made of heavy metal and is hard to open.

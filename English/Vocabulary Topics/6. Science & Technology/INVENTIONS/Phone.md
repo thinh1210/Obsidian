@@ -2,8 +2,10 @@
 *Noun*
 > /fəʊn/
 
+![[phone.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that uses radiation or electricity to send and receive sound or information.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mobile phone`: điện thoại di động
 - `phone call`: cuộc gọi điện thoại
+- `smart phone`: điện thoại thông minh
+- `answer the phone`: bốc máy trả lời điện thoại
+- `hold the phone`: giữ máy chờ chút; khoan đã (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please answer the phone.

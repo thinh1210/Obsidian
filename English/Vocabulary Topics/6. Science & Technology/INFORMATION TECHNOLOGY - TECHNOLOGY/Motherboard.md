@@ -2,8 +2,10 @@
 *n.*
 > /ˈmʌðərbɔːrd/
 
+![[motherboard.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A printed circuit board containing the principal components of a computer or other device.

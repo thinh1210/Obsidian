@@ -2,8 +2,10 @@
 *noun*
 > /ˈdedlaɪn/
 
+![[deadline.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latest time or date by which something should be completed.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `meet a deadline`: kịp hạn chót
+- `tight deadline`: hạn chót gấp rút
+- `miss a deadline`: trễ hạn chót
+- `extend a deadline`: gia hạn hạn chót
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have to finish my homework before the deadline.

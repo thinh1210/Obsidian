@@ -2,8 +2,10 @@
 *noun*
 > /ˈsʌbweɪ/
 
+![[subway.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An underground railway system in a city.

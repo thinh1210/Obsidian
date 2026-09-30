@@ -2,8 +2,10 @@
 *adjective*
 > /ˈvaɪ.rəl/
 
+![[viral.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Describing content that spreads rapidly across the Internet, reaching a very large audience in a short time.

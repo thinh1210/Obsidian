@@ -1,13 +1,21 @@
 # Epitome
 
 *Noun*
+> /ɪˈpɪt.ə.mi/
+
+![[epitome.mp3]]
 
 - **[EN]:** A person or thing that is a perfect example of a particular quality or type.
 - **[VN]:** Tấm gương hoàn hảo, hình mẫu thu nhỏ tiêu biểu.
 
-**Level:** C1
+**Level:** C1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `the epitome of elegance`: hiện thân đỉnh cao của vẻ thanh lịch
+- `be the epitome of`: là đại diện mẫu mực tiêu biểu nhất cho
+- `living epitome`: hình mẫu sống động đại diện cho phẩm chất
+
 ## Examples
 1. *She is the epitome of elegance and grace.*
    - Cô ấy là hình mẫu tiêu biểu của sự thanh lịch và duyên dáng.

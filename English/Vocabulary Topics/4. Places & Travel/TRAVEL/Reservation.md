@@ -2,8 +2,10 @@
 *noun*
 > /ˌrez.əˈveɪ.ʃən/
 
+![[reservation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement in which something is kept for you

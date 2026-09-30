@@ -1,62 +1,126 @@
 # Tổng hợp từ vựng: WEATHER
 
 Đây là file tổng hợp các từ vựng thuộc chủ đề **WEATHER**.
-Danh sách dưới đây đã được **sắp xếp theo cấp độ (Level) từ thấp đến cao (A1 -> C2)**. Bạn nên ưu tiên học các từ cơ bản ở trên cùng trước.
+Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực quan** và **sắp xếp theo cấp độ từ A1 đến C2** giúp bạn dễ dàng liên kết từ vựng theo tư duy ngữ cảnh và sơ đồ tư duy thực tế.
 
-## Danh sách từ vựng
+## 🗺️ Sơ đồ liên kết chủ đề (Semantic Map)
+- **☀️ 1. Thời tiết nắng ấm, Khô ráo & Bầu trời** (Sunny, Warm & Clear Conditions): [[Cloudy]], [[Cold]], [[Dry]], [[Hot]], [[Sky]], [[Sun]], [[Sunny]], [[Warm]], [[Bright]], [[Clear]], [[Heat]], [[Sunshine]], [[Boiling]], [[Climate]], [[Mild]], [[Shade]], [[Overcast]], [[Balmy]]
+- **🌧️ 2. Mưa, Độ ẩm, Sương mù & Cầu vồng** (Precipitation, Rain & Moisture): [[Rain]], [[Rainy]], [[Wet]], [[Fog]], [[Puddle]], [[Damp]], [[Dew]], [[Pour]], [[Rainbow]], [[Shower]], [[Splash]], [[Drizzle]], [[Humidity]], [[Mist]], [[Downpour]], [[Precipitation]], [[Muggy]]
+- **❄️ 3. Giá rét, Băng tuyết & Mùa đông** (Freezing, Snow & Winter Extremes): [[Ice]], [[Snow]], [[Melt]], [[Chill]], [[Chilly]], [[Freeze]], [[Freezing]], [[Frost]], [[Hail]], [[Sleet]], [[Blizzard]]
+- **⚡ 4. Gió bão, Hiện tượng cực đoan & Dự báo** (Wind, Storms & Forecasting): [[Wind]], [[Windy]], [[Storm]], [[Thunderstorm]], [[Breeze]], [[Forecast]], [[Hurricane]], [[Lightning]], [[Temperature]], [[Thunder]], [[Tornado]], [[Cyclone]], [[Drought]], [[Gale]], [[Gusty]], [[Inclement]], [[Meteorological]], [[Sweltering]], [[Torrential]], [[Climatology]], [[Deluge]], [[Microclimate]], [[Squall]], [[Tempestuous]]
 
-| Từ vựng | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- |
-| Cloudy | A1 | adj. | Nhiều mây, u ám | cloud (noun/verb), cloudiness (n) | [[Cloudy]] |
-| Cold | A1 | adj. | Lạnh, lạnh lẽo | cold (adj/n), coldness (n), coldly (adv) | [[Cold]] |
-| Dry | A1 | adj. | Khô, khô ráo | dry (v), dryness (n), dryly (adv) | [[Dry]] |
-| Hot | A1 | adj. | Nóng, nóng bức | heat (n/v), hot (adj), hotly (adv), heater (n) | [[Hot]] |
-| Rain | A1 | noun | Mưa, nước mưa | rain (v), rainy (adj), raindrop (n) | [[Rain]] |
-| Rainy | A1 | adj. | Có mưa, nhiều mưa | rain (noun/verb), raininess (n) | [[Rainy]] |
-| Sky | A1 | noun | Bầu trời | skylight (n) | [[Sky]] |
-| Snow | A1 | noun | Tuyết | snow (v), snowy (adj) | [[Snow]] |
-| Sun | A1 | noun | Mặt trời | sunny (adj), sunless (adj), sunshine (n) | [[Sun]] |
-| Sunny | A1 | adj. | Có nắng, nắng ấm | sun (n), sunniness (n) | [[Sunny]] |
-| Warm | A1 | adj. | Ấm, ấm áp | warmth (n), warmly (adv), warmness (n) | [[Warm]] |
-| Wind | A1 | noun | Gió | windy (adj), windiness (n) | [[Wind]] |
-| Windy | A1 | adj. | Nhiều gió, lộng gió | wind (noun/verb), windiness (n) | [[Windy]] |
-| Fog | A2 | noun | Sương mù | foggy (adj), fogginess (n) | [[Fog]] |
-| Storm | A2 | noun | Cơn bão, giông bão | stormy (adj), storm (v) | [[Storm]] |
-| Boiling | B1 | adj. | Nóng sôi, rất nóng | boil (v), boiler (n) | [[Boiling]] |
-| Breeze | B1 | noun | Gió nhẹ, gió hiu hiu | breezy (adj), breeziness (n) | [[Breeze]] |
-| Chilly | B1 | adj. | Se lạnh, lạnh run người | chill (noun/verb/adj), chilliness (n) | [[Chilly]] |
-| Climate | B1 | noun | Khí hậu | climatic (adj), climatology (n) | [[Climate]] |
-| Forecast | B1 | noun | Dự báo (thời tiết, tài chính) | forecast (v), forecaster (n) | [[Forecast]] |
-| Freezing | B1 | adj. | Lạnh giá, buốt, đóng băng | freeze (v), frozen (adj), freezer (n) | [[Freezing]] |
-| Lightning | B1 | noun | Tia chớp, sét | lighten (v) | [[Lightning]] |
-| Mild | B1 | adj. | Ôn hòa, ấm áp dễ chịu | mildness (n), mildly (adv) | [[Mild]] |
-| Pour | B1 | verb | Mưa như trút nước, đổ mưa | pouring (adj), downpour (n) | [[Pour]] |
-| Rainbow | B1 | noun | Cầu vồng | rainbow-colored (adj) | [[Rainbow]] |
-| Shower | B1 | noun | Cơn mưa rào | showery (adj), shower (v) | [[Shower]] |
-| Temperature | B1 | noun | Nhiệt độ | temper (noun/verb), temperate (adj) | [[Temperature]] |
-| Thunder | B1 | noun | Tiếng sấm, sấm sét | thunderous (adj), thundery (adj), thunder (v) | [[Thunder]] |
-| Drizzle | B2 | noun | Mưa phùn, mưa lâm thâm | drizzle (v), drizzly (adj) | [[Drizzle]] |
-| Drought | B2 | noun | Hạn hán | droughty (adj) | [[Drought]] |
-| Gale | B2 | noun | Gió bão, gió cực mạnh (cấp 7-10) | gale-force (adj) | [[Gale]] |
-| Hail | B2 | noun | Mưa đá | hail (v) | [[Hail]] |
-| Humidity | B2 | noun | Độ ẩm | humid (adj), humidify (v), humidifier (n) | [[Humidity]] |
-| Mist | B2 | noun | Sương mù nhẹ, sương giăng | misty (adj), mistiness (n), mist (v) | [[Mist]] |
-| Overcast | B2 | adj. | U ám, mây bao phủ hoàn toàn | overcast (verb/noun), overcastly (adv), overcastness (n) | [[Overcast]] |
-| Balmy | C1 | adj. | Ấm áp dễ chịu, dịu mát (gió, không khí) | balm (n), balmily (adv) | [[Balmy]] |
-| Blizzard | C1 | noun | Trận bão tuyết dữ dội | blizzardy (adj) | [[Blizzard]] |
-| Downpour | C1 | noun | Trận mưa rào đổ xuống, mưa như trút nước | pour (v) | [[Downpour]] |
-| Gusty | C1 | adj. | Có gió giật mạnh từng cơn | gust (noun/verb), gustiness (n) | [[Gusty]] |
-| Inclement | C1 | adj. | Khắc nghiệt, thời tiết xấu (lạnh, mưa bão) | inclemency (n), inclemently (adv) | [[Inclement]] |
-| Meteorological | C1 | adj. | Thuộc về khí tượng học | meteorology (n), meteorologist (n) | [[Meteorological]] |
-| Precipitation | C1 | noun | Lượng mưa, giáng thủy | precipitate (v), precipitous (adj) | [[Precipitation]] |
-| Sweltering | C1 | adj. | Nóng ngột ngạt, nóng đổ mồ hôi hột | swelter (v), swelteringly (adv) | [[Sweltering]] |
-| Torrential | C1 | adj. | (Mưa) như thác đổ, xối xả dữ dội | torrent (n), torrentially (adv) | [[Torrential]] |
-| Climatology | C2 | noun | Khí hậu học | climate (n), climatological (adj), climatologist (n) | [[Climatology]] |
-| Deluge | C2 | noun | Trận đại hồng thủy, cơn mưa lũ lớn | deluge (v) | [[Deluge]] |
-| Microclimate | C2 | noun | Khí hậu vi mô, tiểu khí hậu | climate (n), microclimatic (adj) | [[Microclimate]] |
-| Muggy | C2 | adj. | Oi bức, ẩm ướt khó chịu | mugginess (n), muggily (adv) | [[Muggy]] |
-| Squall | C2 | noun | Cơn gió lốc, cơn giông ngắn dữ dội | squally (adj) | [[Squall]] |
-| Tempestuous | C2 | adj. | Đầy giông bão, hỗn loạn dữ dội | tempest (n), tempestuously (adv) | [[Tempestuous]] |
+## Danh sách từ vựng theo nhóm ngữ nghĩa
+
+### ☀️ 1. Thời tiết nắng ấm, Khô ráo & Bầu trời (Sunny, Warm & Clear Conditions)
+*Nắng vàng, tiết trời ấm áp dễ chịu hoặc những đợt khô hạn nắng gắt oi ả.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cloudy | /ˈklaʊdi/ [[cloudy.mp3\|🔊]] | A1 | adj. | Nhiều mây, u ám | cloud (noun/verb), cloudiness (n) | [[Cloudy]] |
+| Cold | /kəʊld/ [[cold.mp3\|🔊]] | A1 | adj. | Lạnh, lạnh lẽo | cold (adj/n), coldness (n), coldly (adv) | [[Cold]] |
+| Dry | /draɪ/ [[dry.mp3\|🔊]] | A1 | adj. | Khô, khô ráo | dry (v), dryness (n), dryly (adv) | [[Dry]] |
+| Hot | /hɒt/ [[hot.mp3\|🔊]] | A1 | adj. | Nóng, nóng bức | heat (n/v), hot (adj), hotly (adv), heater (n) | [[Hot]] |
+| Sky | /skaɪ/ [[sky.mp3\|🔊]] | A1 | noun | Bầu trời | skylight (n) | [[Sky]] |
+| Sun | /sʌn/ [[sun.mp3\|🔊]] | A1 | noun | Mặt trời | sunny (adj), sunless (adj), sunshine (n) | [[Sun]] |
+| Sunny | /ˈsʌni/ [[sunny.mp3\|🔊]] | A1 | adj. | Có nắng, nắng ấm | sun (n), sunniness (n) | [[Sunny]] |
+| Warm | /wɔːm/ [[warm.mp3\|🔊]] | A1 | adj. | Ấm, ấm áp | warmth (n), warmly (adv), warmness (n) | [[Warm]] |
+| Bright | /braɪt/ [[bright.mp3\|🔊]] | A2 | adj. | Tươi sáng, rực rỡ nắng | brightly (adv), brightness (n), brighten (v) | [[Bright]] |
+| Clear | /klɪər/ [[clear.mp3\|🔊]] | A2 | adj. | Trời trong xanh, quang đãng | clearly (adv), clearness (n), clarify (v) | [[Clear]] |
+| Heat | /hiːt/ [[heat.mp3\|🔊]] | A2 | n. | Hơi nóng, cái nóng gay gắt | hot (adj), heated (adj), heatedly (adv) | [[Heat]] |
+| Sunshine | /ˈsʌnʃaɪn/ [[sunshine.mp3\|🔊]] | A2 | n. | Ánh nắng mặt trời | sun (n), sunny (adj) | [[Sunshine]] |
+| Boiling | /ˈbɔɪlɪŋ/ [[boiling.mp3\|🔊]] | B1 | adj. | Nóng sôi, rất nóng | boil (v), boiler (n) | [[Boiling]] |
+| Climate | /ˈclaɪmət/ [[climate.mp3\|🔊]] | B1 | noun | Khí hậu | climatic (adj), climatology (n) | [[Climate]] |
+| Mild | /maɪld/ [[mild.mp3\|🔊]] | B1 | adj. | Ôn hòa, ấm áp dễ chịu | mildness (n), mildly (adv) | [[Mild]] |
+| Shade | /ʃeɪd/ [[shade.mp3\|🔊]] | B1 | n. | Bóng râm, bóng mát | shady (adj), shadow (n) | [[Shade]] |
+| Overcast | /ˈəʊvəkɑːst/ [[overcast.mp3\|🔊]] | B2 | adj. | U ám, mây bao phủ hoàn toàn | overcast (verb/noun), overcastly (adv), overcastness (n) | [[Overcast]] |
+| Balmy | /ˈbɑːmi/ [[balmy.mp3\|🔊]] | C1 | adj. | Ấm áp dễ chịu, dịu mát (gió, không khí) | balm (n), balmily (adv) | [[Balmy]] |
+
+### 🌧️ 2. Mưa, Độ ẩm, Sương mù & Cầu vồng (Precipitation, Rain & Moisture)
+*Mưa rào, mưa phùn lất phất, sương mù dày đặc và cầu vồng sau cơn mưa.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Rain | /reɪn/ [[rain.mp3\|🔊]] | A1 | noun | Mưa, nước mưa | rain (v), rainy (adj), raindrop (n) | [[Rain]] |
+| Rainy | /ˈreɪni/ [[rainy.mp3\|🔊]] | A1 | adj. | Có mưa, nhiều mưa | rain (noun/verb), raininess (n) | [[Rainy]] |
+| Wet | /wet/ [[wet.mp3\|🔊]] | A1 | adj. | Ẩm ướt, đẫm nước mưa | wetness (n), wetting (n) | [[Wet]] |
+| Fog | /fɒɡ/ [[fog.mp3\|🔊]] | A2 | noun | Sương mù | foggy (adj), fogginess (n) | [[Fog]] |
+| Puddle | /ˈpʌdl/ [[puddle.mp3\|🔊]] | A2 | n. | Vũng nước mưa trên đường | puddly (adj) | [[Puddle]] |
+| Damp | /dæmp/ [[damp.mp3\|🔊]] | B1 | adj. | Ẩm thấp, nhớp nháp hơi ẩm | dampness (n), dampen (v) | [[Damp]] |
+| Dew | /djuː/ [[dew.mp3\|🔊]] | B1 | n. | Giọt sương sớm đọng trên lá | dewy (adj) | [[Dew]] |
+| Pour | /pɔː(r)/ [[pour.mp3\|🔊]] | B1 | verb | Mưa như trút nước, đổ mưa | pouring (adj), downpour (n) | [[Pour]] |
+| Rainbow | /ˈreɪnbəʊ/ [[rainbow.mp3\|🔊]] | B1 | noun | Cầu vồng | rainbow-colored (adj) | [[Rainbow]] |
+| Shower | /ˈʃaʊə(r)/ [[shower.mp3\|🔊]] | B1 | noun | Cơn mưa rào | showery (adj), shower (v) | [[Shower]] |
+| Splash | /splæʃ/ [[splash.mp3\|🔊]] | B1 | v. | Bắn tóe nước, té nước | splashy (adj), splashing (n) | [[Splash]] |
+| Drizzle | /ˈdrɪzl/ [[drizzle.mp3\|🔊]] | B2 | noun | Mưa phùn, mưa lâm thâm | drizzle (v), drizzly (adj) | [[Drizzle]] |
+| Humidity | /hjuːˈmɪdəti/ [[humidity.mp3\|🔊]] | B2 | noun | Độ ẩm | humid (adj), humidify (v), humidifier (n) | [[Humidity]] |
+| Mist | /mɪst/ [[mist.mp3\|🔊]] | B2 | noun | Sương mù nhẹ, sương giăng | misty (adj), mistiness (n), mist (v) | [[Mist]] |
+| Downpour | /ˈdaʊnpɔː(r)/ [[downpour.mp3\|🔊]] | C1 | noun | Trận mưa rào đổ xuống, mưa như trút nước | pour (v) | [[Downpour]] |
+| Precipitation | /prɪˌsɪpɪˈteɪʃn/ [[precipitation.mp3\|🔊]] | C1 | noun | Lượng mưa, giáng thủy | precipitate (v), precipitous (adj) | [[Precipitation]] |
+| Muggy | /ˈmʌɡi/ [[muggy.mp3\|🔊]] | C2 | adj. | Oi bức, ẩm ướt khó chịu | mugginess (n), muggily (adv) | [[Muggy]] |
+
+### ❄️ 3. Giá rét, Băng tuyết & Mùa đông (Freezing, Snow & Winter Extremes)
+*Gió lạnh cắt da cắt thịt, tuyết rơi trắng xóa, mưa đá và bão tuyết mù mịt.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ice | /aɪs/ [[ice.mp3\|🔊]] | A1 | n. | Băng đá, tảng băng | icy (adj), iciness (n), icicle (n) | [[Ice]] |
+| Snow | /snəʊ/ [[snow.mp3\|🔊]] | A1 | noun | Tuyết | snow (v), snowy (adj) | [[Snow]] |
+| Melt | /melt/ [[melt.mp3\|🔊]] | A2 | v. | Tan chảy (băng tuyết) | melted (adj), molten (adj), melting (n) | [[Melt]] |
+| Chill | /tʃɪl/ [[chill.mp3\|🔊]] | B1 | n. | Cơn ớn lạnh, khí lạnh buốt | chilly (adj), chilled (adj), chilliness (n) | [[Chill]] |
+| Chilly | /ˈtʃɪli/ [[chilly.mp3\|🔊]] | B1 | adj. | Se lạnh, lạnh run người | chill (noun/verb/adj), chilliness (n) | [[Chilly]] |
+| Freeze | /friːz/ [[freeze.mp3\|🔊]] | B1 | v. | Đóng băng, rét cóng | freezer (n), frozen (adj), freezing (adj) | [[Freeze]] |
+| Freezing | /ˈfriːzɪŋ/ [[freezing.mp3\|🔊]] | B1 | adj. | Lạnh giá, buốt, đóng băng | freeze (v), frozen (adj), freezer (n) | [[Freezing]] |
+| Frost | /frɒst/ [[frost.mp3\|🔊]] | B1 | n. | Sương giá, lớp băng mỏng | frosty (adj), frostbite (n), frosted (adj) | [[Frost]] |
+| Hail | /heɪl/ [[hail.mp3\|🔊]] | B2 | noun | Mưa đá | hail (v) | [[Hail]] |
+| Sleet | /sliːt/ [[sleet.mp3\|🔊]] | B2 | n. | Mưa tuyết, mưa đá nhỏ hỗn hợp | sleety (adj) | [[Sleet]] |
+| Blizzard | /ˈblɪzəd/ [[blizzard.mp3\|🔊]] | C1 | noun | Trận bão tuyết dữ dội | blizzardy (adj) | [[Blizzard]] |
+
+### ⚡ 4. Gió bão, Hiện tượng cực đoan & Dự báo (Wind, Storms & Forecasting)
+*Sấm chớp giông sét, gió giật dữ dội, áp thấp nhiệt đới và bản tin dự báo thời tiết.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wind | /wɪnd/ [[wind.mp3\|🔊]] | A1 | noun | Gió | windy (adj), windiness (n) | [[Wind]] |
+| Windy | /ˈwɪndi/ [[windy.mp3\|🔊]] | A1 | adj. | Nhiều gió, lộng gió | wind (noun/verb), windiness (n) | [[Windy]] |
+| Storm | /stɔːm/ [[storm.mp3\|🔊]] | A2 | noun | Cơn bão, giông bão | stormy (adj), storm (v) | [[Storm]] |
+| Thunderstorm | /ˈθʌndəstɔːm/ [[thunderstorm.mp3\|🔊]] | A2 | n. | Cơn dông, bão có sấm sét | thunder (n/v), thundery (adj), storm (n) | [[Thunderstorm]] |
+| Breeze | /briːz/ [[breeze.mp3\|🔊]] | B1 | noun | Gió nhẹ, gió hiu hiu | breezy (adj), breeziness (n) | [[Breeze]] |
+| Forecast | /ˈfɔːkɑːst/ [[forecast.mp3\|🔊]] | B1 | noun | Dự báo (thời tiết, tài chính) | forecast (v), forecaster (n) | [[Forecast]] |
+| Hurricane | /ˈhʌrɪkən/ [[hurricane.mp3\|🔊]] | B1 | n. | Bão cuồng phong biển nhiệt đới | hurricane-force (adj) | [[Hurricane]] |
+| Lightning | /ˈlaɪtnɪŋ/ [[lightning.mp3\|🔊]] | B1 | noun | Tia chớp, sét | lighten (v) | [[Lightning]] |
+| Temperature | /ˈtemprətʃə(r)/ [[temperature.mp3\|🔊]] | B1 | noun | Nhiệt độ | temper (noun/verb), temperate (adj) | [[Temperature]] |
+| Thunder | /ˈθʌndə(r)/ [[thunder.mp3\|🔊]] | B1 | noun | Tiếng sấm, sấm sét | thunderous (adj), thundery (adj), thunder (v) | [[Thunder]] |
+| Tornado | /tɔːˈneɪdəʊ/ [[tornado.mp3\|🔊]] | B1 | n. | Lốc xoáy cực mạnh, vòi rồng | tornado-prone (adj) | [[Tornado]] |
+| Cyclone | /ˈsaɪkləʊn/ [[cyclone.mp3\|🔊]] | B2 | n. | Bão xoáy thuận nhiệt đới | cyclonic (adj), anticyclone (n) | [[Cyclone]] |
+| Drought | /draʊt/ [[drought.mp3\|🔊]] | B2 | noun | Hạn hán | droughty (adj) | [[Drought]] |
+| Gale | /ɡeɪl/ [[gale.mp3\|🔊]] | B2 | noun | Gió bão, gió cực mạnh (cấp 7-10) | gale-force (adj) | [[Gale]] |
+| Gusty | /ˈɡʌsti/ [[gusty.mp3\|🔊]] | C1 | adj. | Có gió giật mạnh từng cơn | gust (noun/verb), gustiness (n) | [[Gusty]] |
+| Inclement | /ɪnˈklemənt/ [[inclement.mp3\|🔊]] | C1 | adj. | Khắc nghiệt, thời tiết xấu (lạnh, mưa bão) | inclemency (n), inclemently (adv) | [[Inclement]] |
+| Meteorological | /ˌmiːtiərəˈlɒdʒɪkl/ [[meteorological.mp3\|🔊]] | C1 | adj. | Thuộc về khí tượng học | meteorology (n), meteorologist (n) | [[Meteorological]] |
+| Sweltering | /ˈsweltərɪŋ/ [[sweltering.mp3\|🔊]] | C1 | adj. | Nóng ngột ngạt, nóng đổ mồ hôi hột | swelter (v), swelteringly (adv) | [[Sweltering]] |
+| Torrential | /təˈrenʃl/ [[torrential.mp3\|🔊]] | C1 | adj. | (Mưa) như thác đổ, xối xả dữ dội | torrent (n), torrentially (adv) | [[Torrential]] |
+| Climatology | /ˌklaɪməˈtɒlədʒi/ [[climatology.mp3\|🔊]] | C2 | noun | Khí hậu học | climate (n), climatological (adj), climatologist (n) | [[Climatology]] |
+| Deluge | /ˈdeljuːdʒ/ [[deluge.mp3\|🔊]] | C2 | noun | Trận đại hồng thủy, cơn mưa lũ lớn | deluge (v) | [[Deluge]] |
+| Microclimate | /ˈmaɪkrəʊklaɪmət/ [[microclimate.mp3\|🔊]] | C2 | noun | Khí hậu vi mô, tiểu khí hậu | climate (n), microclimatic (adj) | [[Microclimate]] |
+| Squall | /skwɔːl/ [[squall.mp3\|🔊]] | C2 | noun | Cơn gió lốc, cơn giông ngắn dữ dội | squally (adj) | [[Squall]] |
+| Tempestuous | /temˈpestʃuəs/ [[tempestuous.mp3\|🔊]] | C2 | adj. | Đầy giông bão, hỗn loạn dữ dội | tempest (n), tempestuously (adv) | [[Tempestuous]] |
+
+## 🔗 Cụm từ, Collocations & Phrasal Verbs phổ biến theo chủ đề (Key Phrases & Expressions)
+*Các cụm từ cố định, phrasal verbs và thành ngữ thông dụng nhất giúp bạn nói và viết tự nhiên về chủ đề **WEATHER**.*
+
+| Cụm từ / Phrasal Verb | Loại | Cấp độ | Ý nghĩa | Ví dụ áp dụng |
+| --- | --- | --- | --- | --- |
+| **under the weather** | Idiom | B1 | hơi mệt mỏi, khó ở trong người | *She stayed home from the office today because she felt a bit under the weather.* |
+| **come rain or shine** | Idiom | B2 | dù mưa hay nắng, dù chuyện gì xảy ra | *Come rain or shine, the postal service guarantees letter delivery every morning.* |
+| **torrential rain** | Collocation | B2 | mưa như trút nước, mưa xối xả | *Drivers pulled over to the shoulder as torrential rain obliterated windshield visibility.* |
+| **clear up** | Phrasal Verb | A2 | trời quang mây tạnh, hửng nắng trở lại | *The weather forecast promises the overcast sky will clear up by noon.* |
+| **pour down** | Phrasal Verb | A2 | mưa đổ ào ào xuống | *It began to pour down just as we stepped out of the subway station without umbrellas.* |
+| **break the ice** | Idiom | B2 | phá vỡ bầu không khí ngượng ngùng ban đầu | *A humorous anecdote about airport mishaps helped break the ice at the conference.* |
+| **scorching heat** | Collocation | B2 | cái nóng thiêu đốt, nóng như chảo lửa | *Construction laborers avoid outdoor shifts during the scorching heat of midday.* |
+| **gentle breeze** | Collocation | A2 | làn gió mát thoang thoảng | *A gentle breeze rustled the curtains and kept the veranda delightfully cool.* |
+| **foggy conditions** | Collocation | B1 | điều kiện sương mù dày đặc | *Flights were delayed due to dense foggy conditions over the runway.* |
+| **every cloud has a silver lining** | Idiom | B2 | trong cái rủi có cái may | *Missing that delayed train allowed me to meet an old friend; every cloud has a silver lining.* |
+
 ## 📖 Đoạn văn thực tế (Contextual Story)
 
 ### English Paragraph

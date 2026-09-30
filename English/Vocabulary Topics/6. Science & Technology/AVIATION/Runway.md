@@ -2,8 +2,10 @@
 *noun*
 > /ˈrʌn.weɪ/
 
+![[runway.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long strip of ground at an airport where planes take off and land.

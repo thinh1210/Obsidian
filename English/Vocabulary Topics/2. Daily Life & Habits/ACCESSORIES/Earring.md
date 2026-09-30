@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪərɪŋ/
 
+![[earring.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewellery that you fasten in or on your ear.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of earrings`: một đôi bông tai
+- `hoop earrings`: hoa tai vòng tròn
+- `stud earrings`: hoa tai nụ sát tai
+- `drop earrings`: hoa tai dáng dài buông rủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She lost one earring at the party.

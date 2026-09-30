@@ -2,8 +2,10 @@
 *n.*
 > /ˈjuː.fə.ni/
 
+![[euphony.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being pleasing to the ear, especially through a harmonious combination of words or sounds.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `musical euphony`: sự êm tai trong âm nhạc
 - `poetic euphony`: sự hài âm trong thơ ca
+- `vocal euphony`: sự êm dịu ngọt ngào của giọng hát
+- `rich euphony`: chất âm êm tai giàu giai điệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The composer achieved a perfect euphony by blending woodwinds with soft strings.

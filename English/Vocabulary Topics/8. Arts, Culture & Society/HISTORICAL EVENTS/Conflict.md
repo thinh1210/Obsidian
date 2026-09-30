@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒn.flɪkt/
 
+![[conflict.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A serious disagreement or argument, typically a protracted one.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `armed conflict`: xung đột vũ trang
 - `resolve a conflict`: giải quyết xung đột
+- `escalating conflict`: xung đột căng thẳng không ngừng leo thang
+- `prolonged conflict`: xung đột vũ trang giằng co kéo dài nhiều năm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Try to resolve the conflict with your co-worker through open communication.

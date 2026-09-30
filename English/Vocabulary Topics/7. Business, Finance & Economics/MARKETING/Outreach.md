@@ -2,8 +2,10 @@
 *noun*
 > /ˈaʊtriːtʃ/
 
+![[outreach.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organization's involvement with or influence in the community; or marketing activities aimed at a target group
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `community outreach`: tiếp cận cộng đồng
 - `outreach program`: chương trình tiếp cận
+- `digital outreach`: chiến dịch tiếp cận khách hàng qua kênh số
+- `expand outreach`: mở rộng tối đa phạm vi tiếp cận người dùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She volunteered for the library's outreach program for low-income families.

@@ -2,8 +2,10 @@
 *verb*
 > /ˈɪnfluəns/
 
+![[influence.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have an effect on the character, development, or behavior of someone or something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `influence buying decisions`: ảnh hưởng đến quyết định mua hàng
 - `heavily influence`: ảnh hưởng nặng nề
+- `social media influencer`: người có tầm ảnh hưởng trên mạng
+- `undue influence`: sức ảnh hưởng quá mức / chi phối
+- `exercise influence`: tác động / tạo ảnh hưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Friends can heavily influence your career choices.

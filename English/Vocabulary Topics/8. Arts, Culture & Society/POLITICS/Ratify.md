@@ -2,8 +2,10 @@
 *v*
 > /ˈræt.ɪ.faɪ/
 
+![[ratify.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To formally approve an agreement, treaty, or law, making it legally valid.

@@ -2,8 +2,10 @@
 *n.*
 > /bʊk/
 
+![[book.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A written or printed work consisting of pages glued or sewn together along one side and bound in covers.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `read a book`: đọc sách
 - `comic book`: truyện tranh
+- `bestselling book`: cuốn sách bán chạy nhất
+- `hardcover book`: sách bìa cứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is reading a very interesting book about art history.

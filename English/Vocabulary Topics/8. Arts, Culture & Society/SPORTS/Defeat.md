@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈfiːt/
 
+![[defeat.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Win a victory over (someone) in a battle, game, or other contest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `defeat the champion`: đánh bại nhà vô địch
 - `crushing defeat`: thất bại thảm hại (danh từ)
+- `suffer a defeat`: phải nếm mùi thất bại
+- `concede defeat`: thừa nhận thất bại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They managed to defeat the opposing team in the finals.

@@ -2,8 +2,10 @@
 *verb.*
 > /hedʒ/
 
+![[hedge.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To limit or reduce financial risk by making a counterbalancing investment.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hedge fund`: quỹ phòng hộ
 - `hedge against inflation`: phòng ngừa lạm phát
+- `hedging strategy`: chiến lược phòng hộ rủi ro
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Investors often buy gold to hedge against inflation and economic instability.

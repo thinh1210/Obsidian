@@ -2,8 +2,10 @@
 *Noun*
 > /ˌlaɪəˈbɪləti/
 
+![[liability.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being responsible for something, especially by law; debts or pecuniary obligations.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `financial liability`: nghĩa vụ tài chính
 - `limited liability`: trách nhiệm hữu hạn
+- `contingent liability`: khoản nợ tiềm tàng có thể phát sinh
+- `short-term liabilities`: các khoản nợ phải trả trong ngắn hạn
+- `reduce liabilities`: giảm bớt các gánh nặng công nợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Buying a sports car is a liability because of high maintenance costs.

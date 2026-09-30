@@ -2,8 +2,10 @@
 *n.*
 > /tʃuːn/
 
+![[tune.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A melody, especially one which characterizes a particular piece of music.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `catchy tune`: giai điệu dễ nhớ
 - `out of tune`: lệch tông/lệch nhạc
+- `stay in tune`: giữ đúng tông nhạc
+- `change one's tune`: thay đổi thái độ hoàn toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was humming a familiar tune as he walked down the street.

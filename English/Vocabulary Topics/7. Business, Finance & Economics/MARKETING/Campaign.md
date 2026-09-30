@@ -2,8 +2,10 @@
 *noun*
 > /kæmˈpeɪn/
 
+![[campaign.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized course of action to achieve a particular goal, especially in business or politics
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `marketing campaign`: chiến dịch tiếp thị
 - `launch a campaign`: phát động chiến dịch
+- `promotional campaign`: chiến dịch khuyến mãi kích cầu
+- `viral campaign`: chiến dịch truyền thông tạo hiệu ứng bùng nổ mạng xã hội
+- `campaign performance`: kết quả đo lường hiệu quả chiến dịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The school launched a campaign to encourage recycling among students.

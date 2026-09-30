@@ -2,8 +2,10 @@
 *n.*
 > /ˈdɪsəplɪn/
 
+![[discipline.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of training people to obey rules, using punishment to correct disobedience
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `school discipline`: kỷ luật học đường
 - `self-discipline`: tính tự kỷ luật
+- `academic discipline`: chuyên ngành / lĩnh vực môn học thuật
+- `maintain discipline`: duy trì nề nếp kỷ luật phòng học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Success in study requires self-discipline.

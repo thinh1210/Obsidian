@@ -2,8 +2,10 @@
 *n.*
 > /ˈkærəktə(r)/
 
+![[character.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person in a novel, play, or movie.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `main character`: nhân vật chính
 - `fictional character`: nhân vật hư cấu
+- `character development`: sự phát triển tính cách nhân vật
+- `minor character`: nhân vật phụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Who is your favorite character in the book?

@@ -2,8 +2,10 @@
 *noun*
 > /ˌkoʊəˈlɪʃn/
 
+![[coalition.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A temporary alliance of political parties forming a government or of states.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `coalition government`: chính phủ liên minh
 - `form a coalition`: thành lập một liên minh
+- `fragile coalition`: liên minh chính trị mong manh
+- `coalition collapses`: sự sụp đổ của liên minh cầm quyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The two small parties formed a coalition to govern the city.

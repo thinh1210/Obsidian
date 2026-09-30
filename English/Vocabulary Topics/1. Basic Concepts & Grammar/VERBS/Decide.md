@@ -2,8 +2,10 @@
 *Verb*
 > /dɪˈsaɪd/
 
+![[decide.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To choose something, especially after thinking carefully.
@@ -13,7 +15,10 @@
 💡 Đi sai (decide) đường nên phải quyết định lại.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `decide to do`: quyết định làm gì\n- `decide against`: quyết định không làm
+- `decide to do`: quyết định làm gì
+- `decide against`: quyết định không làm
+- `decide one's fate`: định đoạt số phận của ai
+- `decide once and for all`: quyết định dứt khoát một lần cho xong
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I decided to go.

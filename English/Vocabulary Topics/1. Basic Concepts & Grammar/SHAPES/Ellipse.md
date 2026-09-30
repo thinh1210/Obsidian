@@ -2,8 +2,10 @@
 *n.*
 > /iˈlɪps/
 
+![[ellipse.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regular oval shape, traced by a point moving in a plane so that the sum of its distances from two other points (the foci) is constant.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An elliptical orbit`: Quỹ đạo hình elip
 - `Draw an ellipse`: Vẽ hình elip
+- `foci of an ellipse`: các tiêu điểm của hình elip
+- `semi-major axis of an ellipse`: bán trục lớn của hình elip
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Earth's orbit is an ellipse.

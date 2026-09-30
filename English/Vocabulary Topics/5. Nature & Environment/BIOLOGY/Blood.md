@@ -2,8 +2,10 @@
 *noun*
 > /blʌd/
 
+![[blood.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The red liquid that circulates in the arteries and veins of humans and other vertebrate animals, carrying oxygen to and carbon dioxide from the tissues of the body.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `blood pressure`: huyết áp
 - `blood cell`: tế bào máu
+- `blood circulation`: sự tuần hoàn máu
+- `blood transfusion`: truyền máu
+- `flesh and blood`: máu thịt / người thân ruột thịt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He cut his finger and there was blood everywhere.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsɪn.ɪ.kəl/
 
+![[cynical.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Believing that people are motivated by self-interest; distrustful of sincerity.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cynical attitude`: thái độ yếm thế, hoài nghi
 - `grow cynical`: trở nên hoài nghi, bất cần đời
+- `cynical remark`: lời nhận xét hoài nghi cay độc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a cynical view of love after her painful breakups.

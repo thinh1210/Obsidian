@@ -2,8 +2,10 @@
 *noun*
 > /ˈspiː.ʃiːz/
 
+![[species.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endangered species`: loài có nguy cơ tuyệt chủng
 - `new species`: loài mới
+- `native species`: loài bản địa
+- `invasive alien species`: loài ngoại lai xâm lấn
+- `extinction of species`: sự tuyệt chủng của các loài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There are thousands of species of butterflies.

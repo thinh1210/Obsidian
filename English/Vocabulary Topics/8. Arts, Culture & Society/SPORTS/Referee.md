@@ -2,8 +2,10 @@
 *n.*
 > /ˌref.əˈriː/
 
+![[referee.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official who watches a game or match closely to ensure that the rules are adhered to.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `referee's decision`: quyết định của trọng tài
 - `assistant referee`: trợ lý trọng tài
+- `referee blows the whistle`: trọng tài cất tiếng còi
+- `dispute the referee's call`: phản đối quyết định của trọng tài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The referee blew his whistle to end the match.

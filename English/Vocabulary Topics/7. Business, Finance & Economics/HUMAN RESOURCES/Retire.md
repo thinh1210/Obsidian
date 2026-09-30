@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈtaɪər/
 
+![[retire.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To leave one's job and cease working, usually due to age
@@ -13,7 +15,11 @@
 💡 Nghỉ hưu thì phải "rì" (re) tai ("tai") người bạn già kể chuyện xưa
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``retire from work`: nghỉ làm việc
+- `retire from work`: nghỉ làm việc
+- `retire early`: nghỉ hưu sớm trước hạn tuổi quy định
+- `reach retirement age`: chạm mốc tuổi nghỉ chế độ hưu trí
+- `forced to retire`: bị bắt buộc phải thôi công tác về hưu
+- `comfortable retirement`: quãng đời hưu trí thảnh thơi an nhàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He plans to retire at the age of 65.

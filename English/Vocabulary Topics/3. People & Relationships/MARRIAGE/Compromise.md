@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒmprəmaɪz/
 
+![[compromise.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An agreement reached by each side making concessions.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Reach a compromise`: Đạt được một thỏa hiệp
+- `mutual compromise`: sự nhượng bộ thỏa hiệp từ cả hai phía
+- `unwilling to compromise`: không chịu nhún nhường thỏa hiệp
+- `settle by compromise`: dàn xếp ổn thỏa bằng cách thỏa hiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Marriage is all about compromise.

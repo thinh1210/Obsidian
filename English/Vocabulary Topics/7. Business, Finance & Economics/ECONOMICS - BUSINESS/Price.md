@@ -2,8 +2,10 @@
 *noun*
 > /praɪs/
 
+![[price.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the amount of money that you have to pay for something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reasonable price`: giá cả hợp lý
 - `rise in prices`: sự tăng giá
+- `price war`: cuộc chiến giảm giá bán
+- `price ceiling`: mức giá trần theo quy định
+- `price elasticity`: độ co giãn của cầu theo giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The price of oil has increased significantly this month.

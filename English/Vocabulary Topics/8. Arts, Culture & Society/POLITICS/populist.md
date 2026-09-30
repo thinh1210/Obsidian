@@ -2,8 +2,10 @@
 *adjective*
 > /ˈpɑːpjəlɪst/
 
+![[populist.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Representing or appealing to the concerns of ordinary people, often in opposition to the elite.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `populist movement`: phong trào dân túy
 - `populist rhetoric`: lời lẽ dân túy
+- `populist leader`: nhà lãnh đạo theo đường lối dân túy
+- `rise of populist politics`: sự trỗi dậy của làn sóng chính trị dân túy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The candidate ran a populist campaign focusing on the struggles of working-class families.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌkɒm.pəˈtɪʃ.ən/
 
+![[competition.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event or contest in which people compete.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fierce competition`: sự cạnh tranh khốc liệt
 - `enter a competition`: tham gia một cuộc thi
+- `stiff competition`: sự cạnh tranh thi đấu khốc liệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She won first prize in the swimming competition.

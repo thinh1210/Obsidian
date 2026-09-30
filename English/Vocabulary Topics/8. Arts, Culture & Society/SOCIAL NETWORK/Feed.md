@@ -2,8 +2,10 @@
 *noun*
 > /fiːd/
 
+![[feed.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A constantly updating list of new content and posts on a social media homepage
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `scroll through a feed`: cuộn xem bảng tin
+- `news feed`: bảng tin thời sự
+- `refresh the feed`: làm mới bảng tin
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I spend hours just scrolling through my news feed every morning.

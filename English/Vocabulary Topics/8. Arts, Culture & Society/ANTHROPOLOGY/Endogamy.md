@@ -2,8 +2,10 @@
 *n.*
 > /enˈdɒɡ.ə.mi/
 
+![[endogamy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The custom of marrying only within the limits of a local community, clan, or tribe.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strict endogamy`: luật nội hôn nghiêm ngặt
 - `practice endogamy`: thực hành hôn nhân nội tộc
+- `caste endogamy`: nội hôn theo đẳng cấp
+- `enforce endogamy`: áp đặt tục hôn nhân nội tộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The small community practiced endogamy to preserve their wealth.

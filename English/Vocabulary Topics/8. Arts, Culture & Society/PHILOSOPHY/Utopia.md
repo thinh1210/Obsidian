@@ -2,8 +2,10 @@
 *n.*
 > /juːˈtəʊ.pi.ə/
 
+![[utopia.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An imagined place or state of things in which everything is perfect.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `socialist utopia`: xã hội không tưởng xã hội chủ nghĩa
 - `create a utopia`: xây dựng một thế giới lý tưởng
+- `utopian vision`: tầm nhìn không tưởng lý tưởng hóa
+- `flawed utopia`: thế giới không tưởng có khiếm khuyết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He believes that technology will help us build a modern utopia.

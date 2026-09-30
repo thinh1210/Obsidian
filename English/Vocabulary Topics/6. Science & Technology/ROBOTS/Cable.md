@@ -2,8 +2,10 @@
 *noun.*
 > /keɪ.bəl/
 
+![[cable.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of wires, covered with plastic, used to carry electricity or signals
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `power cable`: cáp nguồn
+- `data cable`: cáp dữ liệu
+- `fiber optic cable`: cáp quang
+- `connect a cable`: kết nối dây cáp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Make sure the power cable is plugged in.

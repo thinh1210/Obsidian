@@ -2,8 +2,10 @@
 *noun*
 > /bɪˈheɪ.vjɚ/
 
+![[behavior.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The way in which one acts or conducts oneself.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `good behavior`: hành vi tốt
+- `aberrant behavior`: hành vi lệch chuẩn bất thường
+- `human behavior`: hành vi ứng xử của con người
+- `behavioral therapy`: liệu pháp hành vi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His behavior was unacceptable.

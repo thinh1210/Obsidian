@@ -2,8 +2,10 @@
 *n.*
 > /ˈsentəns/
 
+![[sentence.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of words that is complete in itself, typically containing a subject and predicate
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `complete sentence`: câu hoàn chỉnh
+- `sentence structure`: cấu trúc câu
+- `complex sentence`: câu phức hợp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Write a sentence using this word.

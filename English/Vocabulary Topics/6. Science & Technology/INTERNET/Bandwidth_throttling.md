@@ -2,8 +2,10 @@
 *noun*
 > /ˈbænd.wɪdθ ˈθrɒt.lɪŋ/
 
+![[bandwidth_throttling.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The intentional slowing down of Internet service by an ISP to regulate network traffic.

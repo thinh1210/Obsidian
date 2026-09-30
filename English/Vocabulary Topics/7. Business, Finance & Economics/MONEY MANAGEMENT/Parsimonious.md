@@ -2,8 +2,10 @@
 *Adjective*
 > /ˌpɑːsɪˈməʊniəs/
 
+![[parsimonious.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very unwilling to spend money or use resources.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `parsimonious nature`: bản tính keo kiệt
 - `parsimonious budget`: ngân sách cực kỳ hạn chế
+- `parsimonious spending`: sự chi tiêu dè sẻn đến mức bủn xỉn
+- `overly parsimonious`: quá mức ki bo tằn tiện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was so parsimonious that she refused to turn on the heating even in mid-winter.

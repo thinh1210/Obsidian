@@ -2,8 +2,10 @@
 *noun*
 > /sɪlˈteɪʃn/
 
+![[siltation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The accumulation of silt or mud on the bed of a river, lake, or harbor
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reservoir siltation`: sự sa bồi hồ chứa
 - `river siltation`: sự sa bồi dòng sông
+- `prevent siltation`: ngăn chặn sự sa bồi / bồi lấp phù sa
+- `heavy siltation`: tình trạng bồi lắng phù sa nghiêm trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Siltation is a major problem for local dams.

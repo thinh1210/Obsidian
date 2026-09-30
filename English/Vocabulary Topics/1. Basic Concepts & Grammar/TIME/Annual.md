@@ -2,8 +2,10 @@
 *adj.*
 > /ˈænjuəl/
 
+![[annual.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring once a year
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `annual report`: báo cáo thường niên
+- `annual turnover`: doanh thu hằng năm
+- `annual subscription`: gói đăng ký theo năm
+- `on an annual basis`: trên cơ sở định kỳ hằng năm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This is an annual event.

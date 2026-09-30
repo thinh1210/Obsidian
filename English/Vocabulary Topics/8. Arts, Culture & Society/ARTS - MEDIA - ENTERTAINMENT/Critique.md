@@ -2,8 +2,10 @@
 *n.*
 > /krɪˈtiːk/
 
+![[critique.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A detailed analysis and assessment of something, especially a literary, philosophical, or political theory.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `written critique`: bài phê bình bằng văn bản
 - `constructive critique`: bài phê bình mang tính xây dựng
+- `scathing critique`: bài phê bình gay gắt cay độc
+- `literary critique`: bình luận văn học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She gave me a critique of my screenplay.

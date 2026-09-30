@@ -2,8 +2,10 @@
 *noun*
 > /ˈfaɪər.wɔːl/
 
+![[firewall.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A network security system that monitors and controls incoming and outgoing network traffic based on security rules.

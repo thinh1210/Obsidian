@@ -2,8 +2,10 @@
 *noun*
 > /ˈmʌndeɪ/
 
+![[monday.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The day of the week after Sunday and before Tuesday.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on Monday`: vào thứ Hai
+- `Monday blues`: nỗi uể oải ngày thứ Hai
+- `first thing on Monday`: việc đầu tiên vào sáng thứ Hai
+- `by next Monday`: trước thứ Hai tuần tới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* School starts on Monday.

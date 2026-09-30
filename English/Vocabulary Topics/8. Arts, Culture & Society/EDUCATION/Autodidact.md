@@ -2,8 +2,10 @@
 *n.*
 > /ˌɔːtəʊˈdaɪdækt/
 
+![[autodidact.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A self-taught person
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brilliant autodidact`: người tự học xuất sắc
 - `become an autodidact`: trở thành người tự học
+- `true autodidact`: người có năng lực tự học và tự nghiên cứu bẩm sinh
+- `curious autodidact`: người tự mày mò nghiên cứu với lòng hiếu tri
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Abraham Lincoln was a famous autodidact.

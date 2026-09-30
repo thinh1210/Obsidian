@@ -2,8 +2,10 @@
 *noun*
 > /frend/
 
+![[friend.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person whom one knows and with whom one has a bond of mutual affection.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make friends`: kết bạn
+- `bosom friend`: bạn nối khố / bạn tri kỷ thân thiết (idiom)
+- `make lifelong friends`: kết giao bạn bè tri kỷ suốt đời
+- `circle of friends`: vòng bạn bè thân quen
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is my best friend.

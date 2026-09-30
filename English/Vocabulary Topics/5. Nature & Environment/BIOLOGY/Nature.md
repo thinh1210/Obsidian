@@ -2,8 +2,10 @@
 *noun*
 > /ˈneɪ.tʃər/
 
+![[nature.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mother nature`: mẹ thiên nhiên
 - `nature reserve`: khu bảo tồn thiên nhiên
+- `force of nature`: thế lực tự nhiên đầy mãnh liệt
+- `by nature`: theo bản tính / bản chất tự nhiên
+- `second nature`: tập quán thứ hai / thói quen ăn sâu như bản năng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We love spending weekends in nature.

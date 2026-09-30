@@ -2,8 +2,10 @@
 *noun*
 > /kɔːˈsɑːʒ/
 
+![[corsage.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small group of flowers worn on a woman's dress or pinned to her wrist.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pin a corsage`: cài hoa lên áo
+- `wrist corsage`: hoa cài cổ tay (trong lễ hội/dạ hội)
+- `orchid corsage`: hoa phong lan cài áo
+- `prom corsage`: hoa đeo cổ tay dạ hội tốt nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her date bought her a beautiful orchid corsage.

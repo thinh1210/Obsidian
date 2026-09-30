@@ -2,8 +2,10 @@
 *n.*
 > /ˈvæl.juː/
 
+![[value.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Principles or standards of behavior; one's judgment of what is important in life.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `core values`: giá trị cốt lõi
 - `moral values`: giá trị đạo đức
+- `value judgment`: sự đánh giá theo thang giá trị chủ quan
+- `add value`: gia tăng giá trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to teach children traditional moral values.

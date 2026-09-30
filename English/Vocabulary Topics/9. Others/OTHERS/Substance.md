@@ -1,13 +1,21 @@
 # Substance
 
 *Noun*
+> /ˈsʌb.stəns/
+
+![[substance.mp3]]
 
 - **[EN]:** A particular kind of matter with uniform properties; the real physical matter.
 - **[VN]:** Chất, thực chất, cốt lõi.
 
-**Level:** B2
+**Level:** B2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `matter of substance`: vấn đề có thực chất và trọng lượng quan trọng
+- `substance abuse`: sự lạm dụng chất gây nghiện
+- `illegal substance`: chất cấm phạm pháp
+
 ## Examples
 1. *The radioactive substance was handled with extreme care.*
    - Chất phóng xạ được xử lý vô cùng cẩn thiện.

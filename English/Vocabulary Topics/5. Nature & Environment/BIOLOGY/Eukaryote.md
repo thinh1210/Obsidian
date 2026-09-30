@@ -2,8 +2,10 @@
 *noun*
 > /juːˈkær.i.əʊt/
 
+![[eukaryote.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organism consisting of a cell or cells in which the genetic material is DNA in the form of chromosomes contained within a distinct nucleus.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `multicellular eukaryotes`: sinh vật nhân thực đa bào
 - `eukaryote cells`: tế bào nhân thực
+- `eukaryotic organism`: sinh vật nhân thực
+- `eukaryotic cell structure`: cấu trúc tế bào nhân thực
+- `origin of eukaryotes`: nguồn gốc của các sinh vật nhân thực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Humans, plants, and fungi are all eukaryotes.

@@ -2,8 +2,10 @@
 *noun*
 > /prəˈpensəti/
 
+![[propensity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARKETING
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An inclination or natural tendency to behave in a particular way
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `propensity to spend`: thiên hướng chi tiêu
 - `marginal propensity`: khuynh hướng biên
+- `propensity to buy`: xu hướng và thiên hướng sẵn lòng chi tiền mua hàng
+- `marginal propensity to consume`: khuynh hướng tiêu dùng cận biên
+- `high propensity`: khả năng rất cao sẽ thực hiện hành vi mua sắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has an annoying propensity to interrupt people while they are speaking.

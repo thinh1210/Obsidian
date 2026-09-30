@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɪs.kɔːs/
 
+![[discourse.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** spoken or written discussion, or a formal treatment of a subject

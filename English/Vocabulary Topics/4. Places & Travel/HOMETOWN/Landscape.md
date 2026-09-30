@@ -2,8 +2,10 @@
 *n.*
 > /ˈlændskeɪp/
 
+![[landscape.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of land, often considered in terms of their aesthetic appeal.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `beautiful landscape`: cảnh quan đẹp
+- `urban landscape`: cảnh quan đô thị hiện đại
+- `dramatic landscape`: phong cảnh hùng vĩ tráng lệ
+- `changing landscape`: bối cảnh luôn biến chuyển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The landscape here is breathtaking.

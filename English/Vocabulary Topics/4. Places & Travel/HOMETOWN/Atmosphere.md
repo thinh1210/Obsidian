@@ -2,8 +2,10 @@
 *n.*
 > /ˈætməsfɪə/
 
+![[atmosphere.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The pervading tone or mood of a place, situation, or work of art.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `friendly atmosphere`: bầu không khí thân thiện
+- `relaxed atmosphere`: bầu không khí thư thái
+- `pollute the atmosphere`: gây ô nhiễm bầu không khí
+- `soak up the atmosphere`: hòa mình thưởng thức bầu không khí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The town has a relaxed atmosphere.

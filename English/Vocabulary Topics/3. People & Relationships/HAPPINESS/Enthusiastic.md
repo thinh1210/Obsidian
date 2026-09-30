@@ -2,8 +2,10 @@
 *adj.*
 > /ɪnˌθjuː.ziˈæs.tɪk/
 
+![[enthusiastic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing intense and eager enjoyment.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `enthusiastic about`: nhiệt tình về
+- `wildly enthusiastic`: nhiệt tình hào hứng tột độ
+- `enthusiastic applause`: tràng pháo tay nhiệt liệt cổ vũ
+- `enthusiastic supporter`: người ủng hộ nhiệt thành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is enthusiastic about sports.

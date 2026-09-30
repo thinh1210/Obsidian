@@ -2,8 +2,10 @@
 *n.*
 > /stɑːr/
 
+![[star.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape with five or more points.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A five-pointed star`: Ngôi sao 5 cánh
 - `Draw a star`: Vẽ một ngôi sao
+- `shooting star`: sao băng
+- `reach for the stars`: mơ ước những điều vĩ đại / vươn tới các vì sao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I drew a star for my mom.

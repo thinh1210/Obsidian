@@ -2,8 +2,10 @@
 *n.*
 > /ˈsʌbtaɪtl/
 
+![[subtitle.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Captions displayed at the bottom of a cinema or television screen
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `English subtitles`: phụ đề tiếng Anh
+- `bilingual subtitles`: phụ đề song ngữ
+- `watch with subtitles`: xem có phụ đề đi kèm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I watch foreign movies with subtitles.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌiː.vəˈluː.ʃən/
 
+![[evolution.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human evolution`: sự tiến hóa của loài người
 - `theory of evolution`: thuyết tiến hóa
+- `biological evolution`: sự tiến hóa sinh học
+- `trace the evolution of`: lần theo dấu vết tiến hóa của
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The evolution of the smartphone has been rapid.

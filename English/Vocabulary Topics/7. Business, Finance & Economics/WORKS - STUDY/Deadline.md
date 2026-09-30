@@ -2,8 +2,10 @@
 *n.*
 > /ˈded.laɪn/
 
+![[deadline.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The latest time or date by which something should be completed
@@ -13,8 +15,10 @@
 💡 Đét lai (deadline) trễ hạn thì mông bị đét.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``meet a deadline`: kịp hạn chót`
-- ``miss a deadline`: trễ hạn chót`
+- `meet a deadline`: kịp hạn chót
+- `miss a deadline`: trễ hạn chót
+- `meet a tight deadline`: hoàn thành kịp một kỳ hạn ngặt nghèo
+- `extend the deadline`: gia hạn thêm thời gian nộp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have to work late to meet a deadline.

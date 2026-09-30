@@ -2,8 +2,10 @@
 *n.*
 > /helθ/
 
+![[health.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being free from illness or injury.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `health insurance`: bảo hiểm y tế
 - `health care`: chăm sóc sức khỏe
+- `health checkup`: kiểm tra khám sức khỏe định kỳ
+- `health status`: tình trạng thể trạng sức khỏe hiện tại
+- `mental health coverage`: quyền lợi chi trả điều trị tâm lý sức khỏe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Health insurance covers your doctor visits.

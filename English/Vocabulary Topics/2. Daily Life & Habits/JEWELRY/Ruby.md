@@ -2,8 +2,10 @@
 *noun*
 > /ˈruː.bi/
 
+![[ruby.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A red precious stone.
@@ -13,7 +15,10 @@
 💡 Ru bi (Ruby) khóc ra hồng ngọc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `blood-red ruby: hồng ngọc đỏ như máu`
+- `blood-red ruby`: hồng ngọc đỏ như máu
+- `pigeon blood ruby`: hồng ngọc huyết bồ câu (loại ruby quý nhất)
+- `uncut ruby`: viên hồng ngọc thô
+- `ruby red`: màu đỏ rực như hồng ngọc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wore a ruby necklace.

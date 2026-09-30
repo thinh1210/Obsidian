@@ -2,8 +2,10 @@
 *noun*
 > /ˈfæm.ɪn/
 
+![[famine.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extreme shortage of food in a region.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `widespread famine`: nạn đói trên diện rộng
 - `famine relief`: cứu trợ nạn đói
+- `threat of famine`: nguy cơ xảy ra nạn đói
+- `face severe famine`: đối mặt với nạn đói khủng khiếp
+- `famine-stricken country`: quốc gia bị nạn đói hoành hành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Drought and war resulted in a severe famine across the country.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈkæt.əl.ɪst/
 
+![[catalyst.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event or person that causes change or action to happen quickly
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `catalyst for change`: tác nhân thúc đẩy sự thay đổi
 - `act as a catalyst`: đóng vai trò là chất xúc tác
+- `catalyst of change`: nhân tố chất xúc tác cho sự biến đổi
+- `serve as a catalyst`: đóng vai trò như ngòi nổ chất xúc tác
+- `chemical catalyst`: chất xúc tác phản ứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The protest was the catalyst for the reform.

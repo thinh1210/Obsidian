@@ -2,8 +2,10 @@
 *n*
 > /ˌvɜː.tʃu.ə.laɪˈzeɪ.ʃən/
 
+![[virtualization.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Tech/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Tech/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms.

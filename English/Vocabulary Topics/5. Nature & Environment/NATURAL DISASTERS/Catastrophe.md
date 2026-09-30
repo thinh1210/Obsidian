@@ -2,8 +2,10 @@
 *noun*
 > /kəˈtæs.trə.fi/
 
+![[catastrophe.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden event that causes very great trouble or destruction.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ecological catastrophe`: thảm họa sinh thái
 - `prevent a catastrophe`: ngăn chặn một thảm họa
+- `humanitarian catastrophe`: thảm họa nhân đạo
+- `recipe for catastrophe`: mầm mống dẫn đến thảm họa
+- `economic catastrophe`: thảm họa kinh tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The collapse of the dam was an environmental catastrophe.

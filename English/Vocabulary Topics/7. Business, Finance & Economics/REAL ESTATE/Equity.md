@@ -2,8 +2,10 @@
 *n.*
 > /ˈekwəti/
 
+![[equity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The value of a mortgaged property after deduction of charges against it.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `home equity`: vốn chủ sở hữu nhà
 - `build equity`: tích lũy giá trị tài sản ròng
+- `home equity loan`: khoản vay thế chấp dựa trên vốn chủ sở hữu nhà
+- `negative equity`: tình trạng nợ mua nhà vượt quá giá trị thực tế của căn nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* By paying off their mortgage early, they built substantial equity in their home.

@@ -2,8 +2,10 @@
 *Noun*
 > /stɑːr/
 
+![[star.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A luminous point in the night sky which is a large, remote incandescent body.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shooting star`: sao băng
 - `starry night`: đêm đầy sao
+- `reach for the stars`: tham vọng vươn tới những đỉnh cao
+- `thank one's lucky stars`: cảm thấy may mắn đội ơn trời đất
+- `written in the stars`: do duyên số định đoạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to look at the stars at night.

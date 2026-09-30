@@ -2,8 +2,10 @@
 *n.*
 > /juːˈfɔː.ri.ə/
 
+![[euphoria.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling or state of intense excitement and happiness.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `state of euphoria`: trạng thái phấn khích tột độ
+- `induce euphoria`: gợi cảm giác hưng phấn ngây ngất
+- `initial euphoria`: cảm giác hưng phấn ban đầu
+- `post-victory euphoria`: niềm hân hoan tột đỉnh sau chiến thắng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They were in a state of euphoria.

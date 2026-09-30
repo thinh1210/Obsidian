@@ -2,8 +2,10 @@
 *adj.*
 > /ˌəʊ.vəˈdʒɔɪd/
 
+![[overjoyed.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely happy.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `overjoyed at/with`: vô cùng vui sướng với
+- `overjoyed to hear`: vô cùng sung sướng khi nghe tin
+- `absolutely overjoyed`: thực sự mừng vui khôn xiết
+- `overjoyed at the result`: vui mừng tột bậc trước kết quả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I was overjoyed to see her.

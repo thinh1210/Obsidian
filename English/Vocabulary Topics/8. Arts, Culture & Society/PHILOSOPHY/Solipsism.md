@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɒl.ɪp.sɪ.zəm/
 
+![[solipsism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The view that the self is all that can be known to exist.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `extreme solipsism`: chủ nghĩa duy ngã cực đoan
 - `epistemological solipsism`: chủ nghĩa duy ngã nhận thức luận
+- `solipsistic worldview`: thế giới quan duy ngã
+- `escape solipsism`: thoát khỏi sự cô lập duy ngã
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His self-centered behavior borders on pure solipsism.

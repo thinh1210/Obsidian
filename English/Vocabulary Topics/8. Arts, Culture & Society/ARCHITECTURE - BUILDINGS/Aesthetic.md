@@ -2,8 +2,10 @@
 *adj.*
 > /iːsˈθetɪk/
 
+![[aesthetic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Concerned with beauty or the appreciation of beauty, especially in art and design
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `aesthetic value`: giá trị thẩm mỹ
 - `architectural aesthetics`: tính thẩm mỹ trong kiến trúc
+- `aesthetic appeal`: sức hút / vẻ đẹp về mặt thẩm mỹ
+- `minimalist aesthetic`: tính thẩm mỹ tối giản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The building has a clean, minimalist aesthetic.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈflæʃ.laɪt/
 
+![[flashlight.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a small portable electric lamp powered by batteries (also called torch).
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shine a flashlight`: chiếu đèn pin
 - `pocket flashlight`: đèn pin bỏ túi
+- `tactical flashlight`: đèn pin quân thuật siêu sáng
+- `flashlight battery`: pin đèn dọi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I used my flashlight to find my keys under the sofa.

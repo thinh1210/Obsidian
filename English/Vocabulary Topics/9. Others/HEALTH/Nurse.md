@@ -2,8 +2,10 @@
 *n*
 > /nɜːs/
 
+![[nurse.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person trained to care for the sick or infirm, especially in a hospital.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˌdɛstɪˈneɪʃən/
 
+![[destination.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place to which someone or something is going.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `popular destination`: điểm đến phổ biến
 - `holiday destination`: điểm đến kỳ nghỉ
+- `dream destination`: điểm đến mơ ước trọn đời
+- `exotic destination`: điểm đến kỳ thú độc lạ
+- `ultimate travel destination`: điểm đến du lịch đỉnh cao nhất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Paris is a popular tourist destination.

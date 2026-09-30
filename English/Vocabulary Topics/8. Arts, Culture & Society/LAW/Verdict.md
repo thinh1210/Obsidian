@@ -2,8 +2,10 @@
 *noun*
 > /ˈvɜː.dɪkt/
 
+![[verdict.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A decision on a disputed issue in a civil or criminal case or an inquest.

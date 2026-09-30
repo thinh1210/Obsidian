@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɔː.mjə.lə/
 
+![[formula.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mathematical or chemical rule expressed in symbols.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chemical formula`: công thức hóa học
 - `empirical formula`: công thức thực nghiệm
+- `molecular formula`: công thức phân tử
+- `structural formula`: công thức cấu tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The chemical formula for carbon dioxide is CO2.

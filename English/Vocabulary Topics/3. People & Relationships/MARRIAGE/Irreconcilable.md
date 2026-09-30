@@ -2,8 +2,10 @@
 *adjective*
 > /ɪˈrekənsaɪləbl/
 
+![[irreconcilable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Representing findings or points of view that are so different from each other that they cannot be made compatible.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Irreconcilable differences`: Những khác biệt không thể hòa giải
+- `cite irreconcilable differences`: viện dẫn những bất đồng không thể hòa giải
+- `irreconcilable conflict`: xung đột không thể dung hòa
+- `irreconcilable views`: quan điểm hoàn toàn đối lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They cited irreconcilable differences in their divorce.

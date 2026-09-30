@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɜː.kəl/
 
+![[circle.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A round, two-dimensional shape with no corners or edges.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Draw a circle`: Vẽ một hình tròn
 - `A perfect circle`: Một hình tròn hoàn hảo
+- `vicious circle`: vòng luẩn quẩn bế tắc
+- `inner circle`: nhóm thân cận cốt lõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Draw a circle on the paper.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈɪnəsnt/
 
+![[innocent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not guilty of a particular crime
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `innocent victim`: nạn nhân vô tội
 - `prove innocent`: chứng minh vô tội
+- `presumption of innocence`: nguyên tắc pháp lý suy đoán vô tội
+- `plead innocent`: khai nhận trước tòa rằng mình vô tội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He maintains that he is completely innocent of the charges.

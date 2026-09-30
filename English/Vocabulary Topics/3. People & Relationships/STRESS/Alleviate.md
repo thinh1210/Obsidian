@@ -2,8 +2,10 @@
 *v.*
 > /əˈliːvieɪt/
 
+![[alleviate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (suffering, deficiency, or a problem) less severe
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `alleviate pain`: giảm đau
 - `alleviate stress`: giảm căng thẳng
+- `alleviate suffering`: làm vơi bớt nỗi thống khổ
+- `alleviate symptoms`: làm dịu đi các triệu chứng bệnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Meditation can alleviate anxiety.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˌɑː.t̬əˈmeɪ.ʃən/
 
+![[automation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The use of machines and computers to do work that was previously done by humans
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `factory automation`: tự động hóa nhà máy
+- `office automation`: tự động hóa văn phòng
+- `robotic process automation (RPA)`: tự động hóa quy trình bằng robot
+- `home automation`: tự động hóa ngôi nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Factory automation has increased production speed significantly.

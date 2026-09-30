@@ -2,8 +2,10 @@
 *noun*
 > /ˈbaɪsɪkl/
 
+![[bicycle.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals.
@@ -16,6 +18,8 @@
 - `ride a bicycle`: đạp xe đạp
 - `bicycle lane`: làn đường dành cho xe đạp
 - `electric bicycle`: xe đạp điện
+- `foldable bicycle`: xe đạp gấp nhỏ gọn
+- `lock one's bicycle`: khóa xe đạp cẩn thận
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He rides his bicycle to the park every afternoon.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˌɪn.tə.dɪˈsɪp.lɪ.ner.i/
 
+![[interdisciplinary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to more than one branch of knowledge or field of study.

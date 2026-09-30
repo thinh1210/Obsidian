@@ -2,8 +2,10 @@
 *noun*
 > /frɒɡ/
 
+![[frog.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tree frog`: ếch cây
 - `frog prince`: hoàng tử ếch
+- `have a frog in one's throat`: khản giọng / nghẹn họng khó nói
+- `poison dart frog`: loài ếch phi tiêu cực độc
+- `leapfrog over`: nhảy cóc vượt qua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I heard a frog croaking loudly in the garden after the rain.

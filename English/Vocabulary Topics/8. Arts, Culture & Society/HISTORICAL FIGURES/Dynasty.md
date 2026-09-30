@@ -2,8 +2,10 @@
 *n.*
 > /ˈdɪnəsti/
 
+![[dynasty.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line of hereditary rulers of a country
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ruling dynasty`: triều đại đang trị vì
 - `Ming dynasty`: triều đại nhà Minh
+- `found a dynasty`: sáng lập một vương triều
+- `dynasty crumbles`: triều đại sụp đổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dynasty lasted for nearly three hundred years.

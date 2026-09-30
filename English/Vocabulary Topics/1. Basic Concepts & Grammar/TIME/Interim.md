@@ -2,8 +2,10 @@
 *n./adj.*
 > /ˈɪntərɪm/
 
+![[interim.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The intervening time; provisional or temporary
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in the interim`: trong khoảng thời gian đó
+- `interim report`: báo cáo tạm thời / giữa kỳ
+- `interim government`: chính phủ lâm thời
+- `interim CEO`: giám đốc điều hành tạm quyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* An interim government was formed.

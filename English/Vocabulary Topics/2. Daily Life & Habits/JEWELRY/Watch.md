@@ -2,8 +2,10 @@
 *noun*
 > /wɒtʃ/
 
+![[watch.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small timepiece worn on the wrist.
@@ -13,7 +15,10 @@
 💡 Watch (nhìn) đồng hồ xem giờ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wrist watch: đồng hồ đeo tay`
+- `wrist watch`: đồng hồ đeo tay
+- `mechanical watch`: đồng hồ cơ khí
+- `automatic watch`: đồng hồ tự động (lên dây cót tự động)
+- `gold-plated watch`: đồng hồ mạ vàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I check my watch.

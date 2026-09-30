@@ -2,8 +2,10 @@
 *Noun*
 > /ˌzenəˈfoʊbiə/
 
+![[xenophobia.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Dislike of or prejudice against people from other countries.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Rise of xenophobia`: Sự gia tăng của chứng bài ngoại
+- `fuel xenophobia`: thổi bùng tâm lý bài ngoại
+- `combat xenophobia`: chống lại hội chứng bài ngoại
+- `xenophobic attacks`: những vụ tấn công bài ngoại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We must fight against racism and xenophobia.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈlɪt.ər.əl/
 
+![[literal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** having the most basic or usual meaning of a word, not figurative

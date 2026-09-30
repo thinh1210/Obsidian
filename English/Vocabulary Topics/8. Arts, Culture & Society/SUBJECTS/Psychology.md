@@ -2,8 +2,10 @@
 *noun*
 > /saɪˈkɒlədʒi/
 
+![[psychology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of the human mind and its functions, especially those affecting behavior in a given context.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `child psychology`: tâm lý học trẻ em
+- `clinical psychology`: tâm lý học lâm sàng
+- `cognitive psychology`: tâm lý học nhận thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to study psychology to become a therapist.

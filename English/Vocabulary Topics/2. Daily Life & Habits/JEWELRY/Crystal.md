@@ -2,8 +2,10 @@
 *noun*
 > /ˈkrɪs.təl/
 
+![[crystal.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A clear, transparent mineral or glass.
@@ -13,7 +15,10 @@
 💡 Rít (Crys) to (tal) vì thấy pha lê.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `crystal necklace: dây chuyền pha lê`
+- `crystal necklace`: dây chuyền pha lê
+- `Swarovski crystal`: pha lê Swarovski
+- `crystal clear`: trong suốt như pha lê
+- `healing crystal`: tinh thể đá chữa lành phong thủy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wore crystals.

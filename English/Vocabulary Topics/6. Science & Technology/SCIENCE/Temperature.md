@@ -2,8 +2,10 @@
 *noun*
 > /ˈtem.prɪ.tʃər/
 
+![[temperature.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The degree of heat or coldness of something, measured on a scale.

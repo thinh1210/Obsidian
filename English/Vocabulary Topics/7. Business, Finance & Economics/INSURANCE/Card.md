@@ -2,8 +2,10 @@
 *n.*
 > /kɑːd/
 
+![[card.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small, flat, stiff piece of plastic or paper with information on it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insurance card`: thẻ bảo hiểm
 - `member card`: thẻ thành viên
+- `health insurance card`: thẻ bảo hiểm chăm sóc sức khỏe
+- `present a card`: xuất trình thẻ bảo hiểm khi khám chữa bệnh
+- `electronic insurance card`: thẻ bảo hiểm điện tử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please show your insurance card at the front desk.

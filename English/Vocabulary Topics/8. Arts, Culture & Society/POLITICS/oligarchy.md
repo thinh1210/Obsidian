@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑːlɪɡɑːrki/
 
+![[oligarchy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small group of people having control of a country, organization, or institution.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ruling oligarchy`: tập đoàn thống trị đầu sỏ
 - `corporate oligarchy`: chế độ đầu sỏ doanh nghiệp
+- `plutocratic oligarchy`: chế độ đầu sỏ tài phiệt
+- `rule by an oligarchy`: sự thống trị của nhóm đầu sỏ quyền thế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many citizens feel that their democracy has turned into a corporate oligarchy.

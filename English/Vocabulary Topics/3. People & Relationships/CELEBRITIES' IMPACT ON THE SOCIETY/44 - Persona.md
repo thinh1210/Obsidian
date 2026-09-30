@@ -2,8 +2,10 @@
 *n.*
 > /pəˈsəʊ.nə/
 
+![[persona.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The aspect of someone's character that is presented to others.
@@ -13,7 +15,10 @@
 💡 Persona -> Nhân cách
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Public persona: Hình ảnh công chúng`
+- `Public persona`: Hình ảnh công chúng
+- `adopt a persona`: xây dựng một vỏ bọc hình tượng
+- `split persona`: nhân cách phân đôi
+- `stage persona`: hình tượng tỏa sáng trên sân khấu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Create a persona.

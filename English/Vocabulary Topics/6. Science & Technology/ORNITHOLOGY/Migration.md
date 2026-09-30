@@ -2,8 +2,10 @@
 *noun*
 > /maɪˈɡreɪ.ʃən/
 
+![[migration.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The seasonal movement of animals from one region to another.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `seasonal migration`: di cư theo mùa
 - `migration route`: tuyến đường di cư
+- `bird migration`: sự di cư theo mùa của loài chim
+- `mass migration`: cuộc di cư quy mô lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Autumn is the time for bird migration.

@@ -2,8 +2,10 @@
 *noun*
 > /əˈprəʊtʃ/
 
+![[approach.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The phase of flight in which an aircraft descends and aligns with the runway for landing.

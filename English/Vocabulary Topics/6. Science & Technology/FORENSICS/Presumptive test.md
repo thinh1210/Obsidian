@@ -2,8 +2,10 @@
 *noun phrase*
 > /prɪˈzʌmp.tɪv test/
 
+![[presumptive_test.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A preliminary test that indicates the possible presence of a substance but requires confirmation by more specific testing.

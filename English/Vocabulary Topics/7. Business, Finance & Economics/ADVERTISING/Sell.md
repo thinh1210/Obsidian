@@ -2,8 +2,10 @@
 *verb*
 > /sel/
 
+![[sell.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give or hand over something in exchange for money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sell out`: bán hết sạch
 - `sell online`: bán trực tuyến
+- `hard sell`: chiến thuật bán hàng ép buộc
+- `soft sell`: nghệ thuật bán hàng tinh tế / nhẹ nhàng
+- `sell like hotcakes`: bán chạy như tôm tươi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They sell handmade crafts on their website.

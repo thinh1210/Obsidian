@@ -2,8 +2,10 @@
 *adjective*
 > /draɪ/
 
+![[dry.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Used to describe weather or land where there is very little or no rain.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dry season`: mùa khô
 - `dry soil`: đất khô cằn
+- `dry run`: buổi diễn tập thử trước giờ G
+- `bleed someone dry`: vắt kiệt tiền của / bòn rút cạn kiệt ai
+- `high and dry`: bị bỏ rơi vào cảnh bơ vơ khó khăn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The soil is very dry because it hasn't rained for a month.

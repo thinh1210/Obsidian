@@ -2,8 +2,10 @@
 *noun*
 > /bʌs/
 
+![[bus.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large motor vehicle carrying passengers by road, especially one serving the public on a fixed route.
@@ -16,6 +18,8 @@
 - `catch a bus`: đón xe buýt
 - `bus station`: trạm xe buýt
 - `double-decker bus`: xe buýt hai tầng
+- `bus route`: tuyến lộ trình xe buýt
+- `miss the bus`: bị lỡ chuyến xe buýt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I usually catch a bus to go to the supermarket.

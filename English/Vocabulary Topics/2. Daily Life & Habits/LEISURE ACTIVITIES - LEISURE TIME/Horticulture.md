@@ -2,8 +2,10 @@
 *n*
 > /ˈhɔːtɪkʌltʃə(r)/
 
+![[horticulture.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of garden cultivation and management.
@@ -13,7 +15,11 @@
 💡 Horti (vườn) + culture (nuôi trồng) -> nghề trồng trọt, làm vườn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `study horticulture`: học nghề làm vườn\n- `horticulture exhibition`: triển lãm làm vườn
+- `study horticulture`: học nghề làm vườn
+- `horticulture exhibition`: triển lãm làm vườn
+- `urban horticulture`: nghề làm vườn nông nghiệp đô thị
+- `horticultural society`: hội những người làm vườn
+- `horticultural skills`: kỹ năng trồng trọt làm vườn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a degree in horticulture.

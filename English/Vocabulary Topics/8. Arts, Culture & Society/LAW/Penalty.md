@@ -2,8 +2,10 @@
 *noun*
 > /ˈpen.əl.ti/
 
+![[penalty.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A punishment imposed for a breaking of a law, rule, or contract.

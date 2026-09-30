@@ -2,8 +2,10 @@
 *n.*
 > /oʊˈeɪ.sɪs/
 
+![[oasis.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fertile spot in a desert, where water is found.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `desert oasis`: ốc đảo sa mạc
+- `green oasis`: ốc đảo xanh tươi mơn mởn
+- `an oasis of calm`: khoảng trời bình yên giữa phố xá
+- `hidden oasis`: ốc đảo ẩn mình hoang sơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The small park is an oasis of calm in the city.

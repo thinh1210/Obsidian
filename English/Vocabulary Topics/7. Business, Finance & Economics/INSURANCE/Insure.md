@@ -2,8 +2,10 @@
 *v.*
 > /ɪnˈʃʊər/
 
+![[insure.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Arrange for compensation in the event of damage to or loss of (property), or injury to or the death of (someone), in exchange for regular payments.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insure against`: bảo hiểm chống lại (rủi ro)
 - `fully insured`: được bảo hiểm đầy đủ
+- `insure one's life`: mua bảo hiểm sinh mạng cá nhân
+- `heavily insured`: được bảo hiểm với giá trị bảo vệ rất lớn
+- `under-insure`: tham gia bảo hiểm thấp hơn nhiều so với giá trị thực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should insure your house against fire and flood.

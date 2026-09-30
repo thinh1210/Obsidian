@@ -2,8 +2,10 @@
 *noun*
 > /ˌæs.trəʊˈfɪz.ɪks/
 
+![[astrophysics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of astronomy concerned with the physical relations and behavior of celestial bodies.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `professor of astrophysics`: giáo sư vật lý thiên văn
 - `observational astrophysics`: vật lý thiên văn quan sát
+- `theoretical astrophysics`: vật lý thiên văn lý thuyết
+- `advance in astrophysics`: tiến bộ trong vật lý thiên văn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am reading a popular book on astrophysics to learn about stars.

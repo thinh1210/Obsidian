@@ -2,8 +2,10 @@
 *noun*
 > /ˈvaɪə.rəs/
 
+![[virus.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `virus outbreak`: bùng phát vi-rút
 - `deadly virus`: vi-rút chết người
+- `viral load`: tải lượng vi-rút
+- `transmit a virus`: truyền nhiễm vi-rút
+- `go viral`: lan truyền nhanh chóng trên mạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is staying home because she has a virus.

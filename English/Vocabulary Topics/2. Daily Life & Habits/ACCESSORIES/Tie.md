@@ -2,8 +2,10 @@
 *noun*
 > /taɪ/
 
+![[tie.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long, thin piece of material that is worn under a shirt collar, especially by men.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wear a tie`: đeo cà vạt
+- `bow tie`: nơ bướm đeo cổ
+- `silk tie`: cà vạt lụa
+- `loosen one's tie`: nới lỏng cà vạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He rarely wears a tie to work.

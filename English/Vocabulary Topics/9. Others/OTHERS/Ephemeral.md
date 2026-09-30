@@ -1,13 +1,21 @@
 # Ephemeral
 
 *Adjective*
+> /ɪˈfem.ər.əl/
+
+![[ephemeral.mp3]]
 
 - **[EN]:** Lasting for a very short time.
 - **[VN]:** Phù du, chóng tàn, ngắn ngủi.
 
-**Level:** C1
+**Level:** C1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `ephemeral pleasure`: thú vui phù du thoáng qua chóng tàn
+- `ephemeral existence`: sự tồn tại ngắn ngủi mong manh
+- `ephemeral nature of fame`: bản chất sớm nở tối tàn của danh vọng
+
 ## Examples
 1. *Fame in the internet age is often ephemeral.*
    - Sự nổi tiếng trong thời đại internet thường rất chóng tàn.

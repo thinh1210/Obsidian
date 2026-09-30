@@ -2,8 +2,10 @@
 *adjective.*
 > /rʌf/
 
+![[rough.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an unequal or uneven surface; not smooth or level; approximate.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rough surface`: bề mặt nhám, thô ráp
 - `rough estimate`: ước tính sơ bộ
+- `in the rough`: ở dạng thô sơ chưa mài giũa (idiom)
+- `rough sea`: biển động sóng lớn gầm rú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The rough bark of the old oak tree scraped against my hand.

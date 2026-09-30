@@ -2,8 +2,10 @@
 *adj., n.*
 > /ˈhjuː.mən/
 
+![[human.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or characteristic of humankind.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human rights`: quyền con người
 - `human behavior`: hành vi của con người
+- `human evolution`: sự tiến hóa của loài người
+- `early humans`: người tiền sử / người cổ xưa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* To err is human, to forgive divine.

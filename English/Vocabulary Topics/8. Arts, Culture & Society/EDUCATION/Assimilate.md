@@ -2,8 +2,10 @@
 *v.*
 > /əˈsɪmɪleɪt/
 
+![[assimilate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take in information, ideas, or culture and understand fully
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `assimilate knowledge`: tiếp thu kiến thức
 - `assimilate into culture`: hòa nhập vào nền văn hóa
+- `assimilate new concepts`: tiếp thu và hiểu sâu các khái niệm mới
+- `assimilate information`: thẩm thấu và xử lý nguồn thông tin
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Students need time to assimilate new concepts before the exam.

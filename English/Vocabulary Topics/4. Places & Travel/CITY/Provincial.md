@@ -2,8 +2,10 @@
 *adj.*
 > /prəˈvɪnʃl/
 
+![[provincial.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Connected with one of the large areas that some countries are divided into; narrow-minded.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `provincial town`: thị trấn tỉnh lẻ
+- `provincial government`: chính quyền cấp tỉnh
+- `provincial mindset`: tư duy thiển cận, hạn hẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He comes from a small provincial town.

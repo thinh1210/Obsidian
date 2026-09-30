@@ -2,8 +2,10 @@
 *noun*
 > /ˈendʒɪn/
 
+![[engine.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine with moving parts that converts power into motion.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `steam engine`: động cơ hơi nước
 - `jet engine`: động cơ phản lực
+- `internal combustion engine`: động cơ đốt trong
+- `engine failure`: hỏng động cơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My car won't start because there is a problem with the engine.

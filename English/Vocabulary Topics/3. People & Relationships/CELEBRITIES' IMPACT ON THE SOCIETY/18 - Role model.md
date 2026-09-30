@@ -2,8 +2,10 @@
 *n.*
 > /ˈrəʊl ˌmɒd.əl/
 
+![[role_model.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person looked to by others as an example.
@@ -13,7 +15,10 @@
 💡 Role (vai trò) + model (mẫu) -> Hình mẫu
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `A positive role model: Tấm gương tốt`
+- `A positive role model`: Tấm gương tốt
+- `serve as a role model`: đóng vai trò là tấm gương sáng
+- `flawed role model`: hình mẫu còn tì vết
+- `emulate a role model`: noi gương theo hình mẫu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is my role model.

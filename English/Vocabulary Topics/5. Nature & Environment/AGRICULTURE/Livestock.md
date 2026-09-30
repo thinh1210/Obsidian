@@ -2,8 +2,10 @@
 *n.*
 > /laɪv.stɒk/
 
+![[livestock.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Farm animals (such as cows, pigs, or sheep) kept for use or profit.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `raise livestock`: nuôi gia súc
 - `livestock production`: sản xuất chăn nuôi gia súc
+- `livestock feed`: thức ăn chăn nuôi gia súc
+- `graze livestock`: chăn thả gia súc
+- `livestock breeding`: nhân giống gia súc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The farmer sold some livestock to pay for a new tractor.

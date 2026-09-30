@@ -2,8 +2,10 @@
 *n.*
 > /plɑːnt/
 
+![[plant.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A living thing that grows in the earth, in water, or on other plants, usually has a stem, leaves, roots, and flowers, and cannot move from place to place.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `house plant`: cây trồng trong nhà
 - `water the plants`: tưới cây
+- `plant a garden`: trồng một mảnh vườn
+- `native plant`: cây trồng bản địa
+- `fossil fuel power plant`: nhà máy nhiệt điện chạy nhiên liệu hóa thạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She waters the plants in her garden every morning.

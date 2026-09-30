@@ -2,8 +2,10 @@
 *noun*
 > /ɪmˈpɪə.ri.ə.lɪ.zəm/
 
+![[imperialism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A policy of extending a country's power and influence through diplomacy or military force.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `western imperialism`: chủ nghĩa đế quốc phương Tây
 - `rise of imperialism`: sự trỗi dậy của chủ nghĩa đế quốc
+- `colonial imperialism`: chủ nghĩa đế quốc thực dân
+- `struggle against imperialism`: cuộc đấu tranh chống chủ nghĩa đế quốc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country suffered greatly under the weight of 19th-century imperialism.

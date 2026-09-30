@@ -2,8 +2,10 @@
 *n.*
 > /daɪˈvɜː.sə.ti/
 
+![[diversity.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being diverse; variety.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultural diversity`: sự đa dạng văn hóa
 - `biodiversity`: sự đa dạng sinh học
+- `linguistic diversity`: sự đa dạng ngôn ngữ
+- `celebrate diversity`: tôn vinh sự đa dạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the diversity of food options in New York.

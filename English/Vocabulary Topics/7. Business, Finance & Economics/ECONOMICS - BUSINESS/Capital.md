@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæpɪtl/
 
+![[capital.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** wealth in the form of money or other assets owned by a person or organization for starting a company or investing.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `venture capital`: vốn đầu tư mạo hiểm
 - `raise capital`: huy động vốn
+- `working capital`: vốn lưu động
+- `capital expenditure (CapEx)`: chi phí đầu tư tài sản cố định
+- `capital market`: thị trường vốn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She needed some capital to open her bakery.

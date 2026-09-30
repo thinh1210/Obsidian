@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈnætʃrəl/
 
+![[natural.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing in or caused by nature; not made or caused by humankind.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural beauty`: vẻ đẹp tự nhiên
 - `natural disaster`: thiên tai
+- `natural habitat`: môi trường sống tự nhiên vốn có
+- `natural talent`: tài năng thiên bẩm
+- `natural resources`: các nguồn tài nguyên thiên nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She prefers natural cosmetics over synthetic ones.

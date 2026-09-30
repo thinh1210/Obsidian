@@ -2,8 +2,10 @@
 *noun*
 > /ˈsæf.aɪər/
 
+![[sapphire.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A blue precious stone.
@@ -13,7 +15,10 @@
 💡 Sắp (Sap) phai (phire) màu ngọc bích.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `blue sapphire: ngọc bích xanh`
+- `blue sapphire`: ngọc bích xanh
+- `Ceylon sapphire`: ngọc bích Sri Lanka
+- `star sapphire`: ngọc lam mắt sao
+- `deep blue sapphire`: ngọc bích xanh thẫm huyền bí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her ring has a large sapphire.

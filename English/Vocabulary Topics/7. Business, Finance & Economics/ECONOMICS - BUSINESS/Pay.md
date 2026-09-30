@@ -2,8 +2,10 @@
 *verb*
 > /peɪ/
 
+![[pay.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to give someone money for something you buy or for work they have done.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay in cash`: trả bằng tiền mặt
 - `pay taxes`: nộp thuế
+- `pay off debt`: trả hết các khoản nợ
+- `pay dividend`: chi trả cổ tức định kỳ
+- `pay as you go`: trả tiền theo mức sử dụng thực tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let me pay for the coffee today, it's my treat.

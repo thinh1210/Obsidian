@@ -2,8 +2,10 @@
 *noun*
 > /ˈlɪt.rə.tʃər/
 
+![[literature.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Written works, especially those considered of superior or lasting artistic merit.

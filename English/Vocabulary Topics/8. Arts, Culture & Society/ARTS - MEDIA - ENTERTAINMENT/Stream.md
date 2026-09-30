@@ -2,8 +2,10 @@
 *v.*
 > /striːm/
 
+![[stream.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Transmit or receive data (especially video and audio material) over the internet as a steady, continuous flow.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stream music`: phát trực tuyến âm nhạc
 - `live stream`: phát trực tiếp
+- `streaming service`: dịch vụ phát trực tuyến nội dung số
+- `stream content`: phát các tập tin đa phương tiện trực tuyến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer to stream movies rather than download them.

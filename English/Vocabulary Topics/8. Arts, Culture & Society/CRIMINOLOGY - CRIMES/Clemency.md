@@ -2,8 +2,10 @@
 *noun*
 > /ˈklemənsi/
 
+![[clemency.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Leniency and compassion shown toward offenders by a person administering justice
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grant clemency`: ban sự khoan hồng
 - `appeal for clemency`: xin giảm nhẹ án, xin khoan hồng
+- `beg for clemency`: khẩn thiết cầu xin sự khoan hồng
+- `executive clemency`: quyết định đại xá đặc xá của người đứng đầu chính phủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The family made an appeal for clemency to the governor.

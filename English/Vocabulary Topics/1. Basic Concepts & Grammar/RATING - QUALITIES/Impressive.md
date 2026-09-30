@@ -2,8 +2,10 @@
 *adj*
 > /ɪmˈpres.ɪv/
 
+![[impressive.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Evoking admiration through size, quality, or skill.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `an impressive resume`: một bản lý lịch ấn tượng
+- `highly impressive`: vô cùng ấn tượng
+- `impressive record`: thành tích đáng nể
+- `leave an impressive mark`: để lại dấu ấn ấn tượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her piano skills are very impressive.

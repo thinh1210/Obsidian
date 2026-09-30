@@ -2,8 +2,10 @@
 *noun.*
 > /ˌkɪn.əˈmæt̬.ɪks/
 
+![[kinematics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of mechanics concerned with the motion of objects without reference to the forces which cause the motion (specifically in robotics: joint movements)
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `inverse kinematics`: động học ngược
+- `forward kinematics`: động học thuận
+- `kinematic chain`: chuỗi động học
+- `robot kinematics`: động học cánh tay robot
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Robot programmers use inverse kinematics to calculate how joints must bend to reach a point.

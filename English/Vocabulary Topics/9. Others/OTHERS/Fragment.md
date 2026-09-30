@@ -1,13 +1,21 @@
 # Fragment
 
 *Noun*
+> /ˈfræɡ.mənt/
+
+![[fragment.mp3]]
 
 - **[EN]:** A small part broken or separated off something.
 - **[VN]:** Mảnh vỡ, mảnh nhỏ, khúc, đoạn.
 
-**Level:** B2
+**Level:** B2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `bone fragment`: mảnh xương vỡ vụn
+- `fragment into pieces`: vỡ vụn thành trăm ngàn mảnh nhỏ
+- `fragment of memory`: mảnh ký ức vụn vặt còn sót lại
+
 ## Examples
 1. *Police found fragments of glass on the road.*
    - Cảnh sát tìm thấy những mảnh kính vỡ trên đường.

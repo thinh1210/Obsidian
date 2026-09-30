@@ -2,8 +2,10 @@
 *noun*
 > /ˌdes.əˈleɪ.ʃən/
 
+![[desolation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of complete emptiness or destruction.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `scene of desolation`: cảnh tượng hoang tàn tiêu điều
 - `feel complete desolation`: cảm thấy vô cùng cô độc
+- `utter desolation`: sự hoang tàn đổ nát hoàn toàn
+- `landscape of desolation`: khung cảnh hoang vu tiêu điều
+- `sense of desolation`: cảm giác cô quạnh trống trải cùng cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wildfire left behind a landscape of utter desolation.

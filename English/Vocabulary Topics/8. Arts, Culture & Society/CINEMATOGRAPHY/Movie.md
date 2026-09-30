@@ -2,8 +2,10 @@
 *n.*
 > /ˈmuːvi/
 
+![[movie.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cinema film
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `watch a movie`: xem phim
 - `movie star`: ngôi sao điện ảnh
+- `blockbuster movie`: siêu phẩm điện ảnh bom tấn
+- `cult movie`: bộ phim được nhóm hâm mộ sùng bái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched a scary movie last night.

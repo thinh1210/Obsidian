@@ -2,8 +2,10 @@
 *noun*
 > /səˈplaɪ/
 
+![[supply.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the total amount of a product or service that is available for people to buy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `supply and demand`: cung và cầu
 - `supply chain`: chuỗi cung ứng
+- `money supply`: lượng cung tiền lưu thông
+- `supply chain disruption`: sự đứt gãy chuỗi cung ứng
+- `in short supply`: đang trong tình trạng khan hiếm nguồn cung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The supermarket has a good supply of fresh fruit.

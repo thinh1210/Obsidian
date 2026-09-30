@@ -2,8 +2,10 @@
 *n.*
 > /trəˈpiː.zɔɪd/
 
+![[trapezoid.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A quadrilateral with only one pair of parallel sides.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An isosceles trapezoid`: Hình thang cân
 - `Trapezoid shape`: Hình thang
+- `trapezoid rule`: quy tắc hình thang (tính tích phân)
+- `area of a trapezoid`: diện tích hình thang
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The plot of land is a trapezoid.

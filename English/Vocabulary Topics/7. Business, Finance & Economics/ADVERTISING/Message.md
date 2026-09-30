@@ -2,8 +2,10 @@
 *noun*
 > /ˈmesɪdʒ/
 
+![[message.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A significant point or central theme, especially one expressed in a work of art or an advertisement.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clear message`: thông điệp rõ ràng
 - `key message`: thông điệp chính
+- `convey a message`: truyền tải một thông điệp
+- `tailor a message`: tinh chỉnh thông điệp cho phù hợp
+- `mixed messages`: những thông điệp mâu thuẫn / nhập nhằng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I left a voice message for my mother.

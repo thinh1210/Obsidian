@@ -2,8 +2,10 @@
 *noun*
 > /diːˌcɒl.ə.naɪˈzeɪ.ʃən/
 
+![[decolonization.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or process of a state withdrawing from a former colony, leaving it independent.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `process of decolonization`: quá trình phi thực dân hóa
 - `post-war decolonization`: phi thực dân hóa sau chiến tranh
+- `wave of decolonization`: làn sóng đấu tranh phi thực dân hóa mạnh mẽ
+- `struggle for decolonization`: cuộc đấu tranh giải phóng khỏi ách thực dân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The university is working on the decolonization of its curriculum to include more diverse voices.

@@ -2,8 +2,10 @@
 *adj*
 > /ɪnˈsesənt/
 
+![[incessant.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Literary | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C2 | **Ngữ cảnh:** Formal/Literary | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of something regarded as unpleasant) continuing without pause or interruption.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `incessant noise`: tiếng ồn không ngớt
+- `incessant chatter`: tiếng huyên thuyên không ngớt
+- `incessant complaints`: những lời phàn nàn liên miên
+- `incessant rain`: mưa rơi không dứt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The incessant rain made everyone depressed.

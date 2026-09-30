@@ -2,8 +2,10 @@
 *n.*
 > /ˌrek.riˈeɪ.ʃən/
 
+![[recreation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Activity done for enjoyment when one is not working.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `recreation center`: trung tâm giải trí
 - `outdoor recreation`: hoạt động giải trí ngoài trời
+- `passive recreation`: hoạt động giải trí tĩnh
+- `recreational facilities`: cơ sở vật chất phục vụ vui chơi giải trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The park provides facilities for sports and recreation.

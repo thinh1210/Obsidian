@@ -2,8 +2,10 @@
 *adv, noun*
 > /təˈdeɪ/
 
+![[today.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** On or during this present day.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `today's news`: tin tức hôm nay
+- `as of today`: kể từ ngày hôm nay
+- `today of all days`: chính vào ngày hôm nay (thay vì ngày khác)
+- `in today's world`: trong thế giới ngày nay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Today is Monday.

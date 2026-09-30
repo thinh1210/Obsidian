@@ -2,8 +2,10 @@
 *n.*
 > /aɪˈdɪə/
 
+![[idea.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thought or suggestion as to a possible course of action.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have an idea`: có một ý tưởng
 - `good idea`: ý tưởng hay
+- `pitch an idea`: trình bày/chào bán một ý tưởng
+- `preconceived idea`: ý niệm định kiến từ trước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have no idea what we should eat tonight.

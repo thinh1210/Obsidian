@@ -2,8 +2,10 @@
 *noun*
 > /ˌkrɪmɪˈnɒlədʒi/
 
+![[criminology.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of crime and criminals
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `degree in criminology`: bằng tội phạm học
 - `criminology theories`: các lý thuyết tội phạm học
+- `clinical criminology`: tội phạm học lâm sàng
+- `criminological research`: nghiên cứu thực nghiệm tội phạm học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is studying criminology at university.

@@ -2,8 +2,10 @@
 *noun*
 > /kəmˈpæn.jən/
 
+![[companion.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person or animal with whom one spends a lot of time or with whom one travels.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `traveling companion`: bạn đồng hành khi đi du lịch
+- `faithful companion`: người bạn đồng hành thủy chung
+- `boon companion`: bạn chí cốt / bạn tri kỷ lâu năm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My dog is my constant companion.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈpɒp.jə.lər/
 
+![[popular.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Liked or enjoyed by many people.
@@ -13,7 +15,10 @@
 💡 Pop (nhạc pop) -> Rất phổ biến
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Highly popular: Rất phổ biến`
+- `Highly popular`: Rất phổ biến
+- `immensely popular`: vô cùng nổi tiếng được ưa chuộng
+- `popular culture`: văn hóa đại chúng
+- `gain popularity`: ngày càng nổi danh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is popular.

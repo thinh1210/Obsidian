@@ -2,8 +2,10 @@
 *verb*
 > /briːd/
 
+![[breed.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of animals) to mate and produce offspring.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `breeding season`: mùa sinh sản
 - `breed in captivity`: sinh sản trong môi trường nuôi nhốt
+- `rare breed`: giống loài quý hiếm
+- `familiarity breeds contempt`: gần gũi quá sinh nhờn (thành ngữ)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many birds return to the same place to breed every year.

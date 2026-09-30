@@ -2,8 +2,10 @@
 *noun*
 > /ʃuː/
 
+![[shoe.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of a pair of coverings for your feet, usually made of a strong material such as leather.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of shoes`: một đôi giày
+- `dress shoes`: giày tây lịch sự
+- `comfortable walking shoes`: giày đi bộ êm chân
+- `step into someone's shoes`: tiếp quản vị trí/trọng trách của ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Take off your shoes here.

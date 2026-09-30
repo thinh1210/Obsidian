@@ -2,8 +2,10 @@
 *n.*
 > /kəˈpəʊ.zər/
 
+![[composer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who writes music, especially classical music.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `famous composer`: nhà soạn nhạc nổi tiếng
 - `prolific composer`: nhà soạn nhạc sáng tác nhiều
+- `classical composer`: nhà soạn nhạc cổ điển
+- `brilliant composer`: nhà soạn nhạc xuất chúng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Beethoven is one of the most famous classical composers in history.

@@ -2,8 +2,10 @@
 *Verb*
 > /pleɪ/
 
+![[play.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend time doing an enjoyable and/or entertaining activity.
@@ -13,7 +15,10 @@
 💡 Play ngô để chơi đùa.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `play with`: chơi với\n- `play a role`: đóng vai trò
+- `play with`: chơi với
+- `play a role`: đóng vai trò
+- `play with fire`: chơi với lửa / hành động liều lĩnh
+- `play it safe`: chọn giải pháp an toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I play games.

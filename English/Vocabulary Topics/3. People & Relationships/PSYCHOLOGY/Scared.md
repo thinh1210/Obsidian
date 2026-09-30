@@ -2,8 +2,10 @@
 *adj*
 > /skerd/
 
+![[scared.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Fearful; frightened.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `scared of`: sợ hãi điều gì
+- `scared stiff / scared to death`: sợ chết khiếp / sợ chết trân (idiom)
+- `scared out of one's wits`: sợ mất hết cả hồn vía (idiom)
+- `look scared`: trông vẻ mặt đầy sợ hãi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am scared of dogs.

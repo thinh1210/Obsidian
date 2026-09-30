@@ -2,8 +2,10 @@
 *v.*
 > /fəˈsɪlɪteɪt/
 
+![[facilitate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make an action or process easy or easier
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `facilitate learning`: tạo điều kiện cho học tập
 - `facilitate communication`: tạo thuận lợi cho giao tiếp
+- `facilitate group discussion`: điều phối hỗ trợ phần thảo luận nhóm
+- `facilitator of learning`: người trợ giúp khơi dậy động lực học tập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new software is designed to facilitate online learning.

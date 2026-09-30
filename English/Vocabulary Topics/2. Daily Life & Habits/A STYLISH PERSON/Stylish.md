@@ -2,8 +2,10 @@
 *adj.*
 > /ˈstaɪlɪʃ/
 
+![[stylish.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot of style; elegant.
@@ -13,7 +15,11 @@
 💡 Stylish - có style (phong cách).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `look stylish`: trông sành điệu\n- `stylish appearance`: vẻ ngoài phong cách
+- `look stylish`: trông sành điệu
+- `stylish appearance`: vẻ ngoài phong cách
+- `stylish ensemble`: bộ trang phục phối hợp rất phong cách
+- `immensely stylish`: cực kỳ phong cách, sành điệu
+- `stylish haircut`: kiểu tóc sành điệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's a very stylish apartment.

@@ -2,8 +2,10 @@
 *adj.*
 > /kliːn/
 
+![[clean.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Free from dirt, marks, or stains.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clean air`: không khí sạch
 - `clean energy`: năng lượng sạch
+- `clean drinking water`: nước uống sạch hợp vệ sinh
+- `clean bill of health`: chứng nhận sức khỏe tốt / tình trạng hoàn hảo
+- `make a clean break`: dứt khoát đoạn tuyệt với quá khứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Keep your hands clean before eating.

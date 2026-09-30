@@ -2,8 +2,10 @@
 *noun*
 > /dʒeɪl/
 
+![[jail.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where people are kept while waiting for trial or as a punishment for short periods
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spend time in jail`: ngồi tù
 - `throw in jail`: bỏ tù
+- `jail sentence`: bản án phạt giam cầm
+- `await trial in jail`: bị tạm giam để chờ ngày xét xử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was kept in jail overnight for disorderly conduct.

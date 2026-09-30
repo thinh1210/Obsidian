@@ -2,8 +2,10 @@
 *noun*
 > /lʌv/
 
+![[love.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong feeling of affection.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `True love`: Tình yêu đích thực
+- `head over heels in love`: yêu say đắm mê mệt (idiom)
+- `fall out of love`: hết yêu / cạn tình cạn nghĩa
+- `unconditional love`: tình yêu vô điều kiện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are in love.

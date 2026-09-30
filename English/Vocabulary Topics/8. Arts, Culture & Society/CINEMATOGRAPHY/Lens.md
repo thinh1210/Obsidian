@@ -2,8 +2,10 @@
 *n.*
 > /lenz/
 
+![[lens.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of glass or other transparent substance with curved sides for concentrating or dispersing light rays, used in cameras
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wide-angle lens`: ống kính góc rộng
 - `zoom lens`: ống kính zoom
+- `anamorphic lens`: ống kính anamorphic quay tỷ lệ khung hình rộng
+- `prime lens`: ống kính tiêu cự cố định chất lượng cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The camera operator swapped the lens for a telephoto one.

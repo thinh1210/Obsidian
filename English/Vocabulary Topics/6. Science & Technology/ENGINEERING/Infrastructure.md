@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪnfrəstrʌktʃə(r)/
 
+![[infrastructure.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic physical and organizational structures and facilities (e.g. buildings, roads, power supplies) needed for the operation of a society or enterprise.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `critical infrastructure`: cơ sở hạ tầng quan trọng
 - `infrastructure development`: phát triển cơ sở hạ tầng
+- `transportation infrastructure`: cơ sở hạ tầng giao thông
+- `upgrade infrastructure`: nâng cấp cơ sở hạ tầng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government is investing millions of dollars to upgrade the city's aging infrastructure.

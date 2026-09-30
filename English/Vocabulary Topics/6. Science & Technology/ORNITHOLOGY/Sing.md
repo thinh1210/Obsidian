@@ -2,8 +2,10 @@
 *verb*
 > /sɪŋ/
 
+![[sing.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a bird) to make musical sounds.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sing sweetly`: hót ngọt ngào
 - `start to sing`: bắt đầu hót
+- `sing like a bird`: hát rất hay; khai hết mọi sự thật (idiom)
+- `sing one's praises`: hết lời ca ngợi tán dương ai (idiom)
+- `sing a song`: hát vang một khúc ca
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love to wake up to the sound of birds singing.

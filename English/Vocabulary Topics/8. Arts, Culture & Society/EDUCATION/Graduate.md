@@ -2,8 +2,10 @@
 *v.*
 > /ˈɡrædʒueɪt/
 
+![[graduate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To successfully complete a course of study or training, especially in a school or college
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `graduate from university`: tốt nghiệp đại học
 - `high school graduate`: người tốt nghiệp cấp ba
+- `postgraduate studies`: bậc học sau đại học (thạc sĩ, tiến sĩ)
+- `graduate with honors`: tốt nghiệp đại học với tấm bằng danh dự loại giỏi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He will graduate from college next month.

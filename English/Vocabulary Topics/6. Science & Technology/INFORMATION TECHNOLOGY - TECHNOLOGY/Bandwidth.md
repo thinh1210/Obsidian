@@ -2,8 +2,10 @@
 *n.*
 > /ˈbændwɪdθ/
 
+![[bandwidth.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of data that can be transmitted in a fixed amount of time; also, mental capacity to handle tasks.

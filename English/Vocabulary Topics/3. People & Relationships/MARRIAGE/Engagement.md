@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈɡeɪdʒmənt/
 
+![[engagement.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An agreement to marry someone.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An engagement ring`: Nhẫn đính hôn
+- `break off an engagement`: hủy bỏ hôn ước đính hôn
+- `announce an engagement`: tuyên bố đính hôn rộng rãi
+- `engagement party`: tiệc mừng đính hôn ấm cúng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They announced their engagement.

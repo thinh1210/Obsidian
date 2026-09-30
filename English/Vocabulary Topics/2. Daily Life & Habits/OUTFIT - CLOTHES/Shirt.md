@@ -2,8 +2,10 @@
 *noun*
 > /ʃɜːrt/
 
+![[shirt.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for the upper body.
@@ -13,7 +15,10 @@
 💡 Shirt nghe giống sứt - sứt nút áo sơ mi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wear a shirt: mặc áo sơ mi`
+- `wear a shirt`: mặc áo sơ mi
+- `iron a shirt`: là ủi phẳng áo sơ mi
+- `short-sleeved shirt`: áo sơ mi ngắn tay
+- `give someone the shirt off one's back`: sẵn sàng giúp đỡ ai hết lòng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought a new shirt.

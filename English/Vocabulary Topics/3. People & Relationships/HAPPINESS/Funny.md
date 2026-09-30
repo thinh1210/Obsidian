@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfʌn.i/
 
+![[funny.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing laughter or amusement.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `funny story`: câu chuyện hài hước
+- `funny bone`: khiếu hài hước / điểm dễ cù (idiom)
+- `find something funny`: thấy điều gì đó buồn cười
+- `funny look`: ánh nhìn kỳ lạ buồn cười
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* That is a funny story.

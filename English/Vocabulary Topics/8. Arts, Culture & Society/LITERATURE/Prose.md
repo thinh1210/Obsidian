@@ -2,8 +2,10 @@
 *noun*
 > /prəʊz/
 
+![[prose.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Written or spoken language in its ordinary form, without metrical structure.

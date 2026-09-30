@@ -2,8 +2,10 @@
 *noun*
 > /trend/
 
+![[trend.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A general direction in which something is developing or changing
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `latest trend`: xu hướng mới nhất
 - `follow a trend`: theo xu hướng
+- `emerging trend`: xu hướng mới đang bắt đầu hình thành
+- `trendsetter`: người hoặc nhãn hàng dẫn dắt tạo nên trào lưu
+- `consumer trends`: những chuyển biến trong xu hướng hành vi tiêu dùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Short video clips are the latest trend in social media.

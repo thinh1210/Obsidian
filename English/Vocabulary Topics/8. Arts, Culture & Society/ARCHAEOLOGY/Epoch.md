@@ -2,8 +2,10 @@
 *noun*
 > /ˈiːpɒk/
 
+![[epoch.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular period of time in history or a person's life, typically one marked by notable events or particular characteristics
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `geological epoch`: kỷ nguyên địa chất
 - `historical epoch`: kỷ nguyên lịch sử
+- `Bronze Age epoch`: thời đại đồ đồng
+- `transitional epoch`: thời kỳ chuyển tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The discovery marked a new epoch in archaeological research.

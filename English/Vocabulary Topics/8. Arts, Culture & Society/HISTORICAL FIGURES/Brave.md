@@ -2,8 +2,10 @@
 *adj.*
 > /breɪv/
 
+![[brave.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ready to face and endure danger or pain; showing courage
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brave warrior`: chiến binh dũng cảm
 - `brave act`: hành động dũng cảm
+- `brave the elements`: dầm mưa dãi nắng / chống chọi với thời tiết khắc nghiệt
+- `put on a brave face`: cố tỏ ra can đảm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The brave boy saved his dog from the fire.

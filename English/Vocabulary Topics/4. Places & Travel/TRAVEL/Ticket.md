@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɪk.ɪt/
 
+![[ticket.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small piece of paper showing that you have paid for a journey

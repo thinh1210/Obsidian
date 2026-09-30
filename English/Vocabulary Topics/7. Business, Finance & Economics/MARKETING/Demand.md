@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈmænd/
 
+![[demand.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A consumer's desire and willingness to pay a price for a specific good or service
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high demand`: nhu cầu cao
 - `meet the demand`: đáp ứng nhu cầu
+- `create demand`: kích hoạt và tạo ra nhu cầu mua sắm mới
+- `latent demand`: nhu cầu tiềm ẩn của người tiêu dùng chưa được đáp ứng
+- `fluctuating demand`: nhu cầu thị trường lên xuống theo chu kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Good tutors are always in high demand during exam season.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌntri/
 
+![[country.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A nation with its own government, occupying a particular territory.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `across the country`: trên toàn quốc
+- `neighboring country`: nước láng giềng
+- `island country`: quốc gia đảo
+- `developing country`: quốc gia đang phát triển
+- `landlocked country`: quốc gia không giáp biển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Japan is a beautiful country.

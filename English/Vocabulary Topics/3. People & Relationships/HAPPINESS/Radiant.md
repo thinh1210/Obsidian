@@ -2,8 +2,10 @@
 *adj.*
 > /ˈreɪ.di.ənt/
 
+![[radiant.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sending out light; shining or glowing brightly with joy.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `radiant smile`: nụ cười rạng rỡ
+- `radiant with joy`: rạng ngời niềm vui sướng
+- `radiant beauty`: vẻ đẹp rạng rỡ tỏa sáng
+- `radiant glow`: ánh hào quang rạng rỡ tươi trẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She looked radiant on her wedding day.

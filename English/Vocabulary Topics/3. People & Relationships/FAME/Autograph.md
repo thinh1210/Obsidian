@@ -2,8 +2,10 @@
 *n.*
 > /ˈɔːtəɡrɑːf/
 
+![[autograph.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A signature, especially that of a celebrity.
@@ -13,7 +15,10 @@
 💡 Auto (tự) + graph (viết).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `sign an autograph: ký tặng`
+- `sign an autograph`: ký tặng
+- `ask for an autograph`: xin chữ ký thần tượng
+- `autograph session`: buổi ký tặng người hâm mộ
+- `autograph book`: sổ lưu niệm xin chữ ký
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I asked for his autograph.

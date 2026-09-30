@@ -2,8 +2,10 @@
 *Noun*
 > /ˌsuː.pəˈnəʊ.və/
 
+![[supernova.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A star that suddenly increases greatly in brightness because of a catastrophic explosion.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `supernova explosion`: vụ nổ siêu tân tinh
 - `supernova remnant`: tàn dư siêu tân tinh
+- `type II supernova`: siêu tân tinh loại II
+- `bright supernova`: siêu tân tinh sáng rực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The band's fame was like a supernova, bright but short-lived.

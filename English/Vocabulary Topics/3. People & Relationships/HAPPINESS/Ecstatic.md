@@ -2,8 +2,10 @@
 *adj.*
 > /ɪkˈstæt.ɪk/
 
+![[ecstatic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing overwhelming happiness.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ecstatic about`: hạnh phúc ngây ngất về
+- `ecstatic crowd`: đám đông cuồng nhiệt ngây ngất
+- `ecstatic reception`: sự đón tiếp nồng nhiệt tột cùng
+- `feel ecstatic`: cảm thấy sung sướng ngất ngây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was ecstatic about the news.

@@ -2,8 +2,10 @@
 *n.*
 > /əˈkaʊntənt/
 
+![[accountant.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose job is to keep or inspect financial accounts

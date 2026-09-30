@@ -2,8 +2,10 @@
 *n.*
 > /traɪb/
 
+![[tribe.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties, with a common culture and dialect.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `indigenous tribe`: bộ lạc bản địa
 - `nomadic tribe`: bộ lạc du mục
+- `isolated tribe`: bộ lạc sống cô lập
+- `tribal customs`: phong tục tập quán bộ lạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We visited a hill tribe during our trip to Vietnam.

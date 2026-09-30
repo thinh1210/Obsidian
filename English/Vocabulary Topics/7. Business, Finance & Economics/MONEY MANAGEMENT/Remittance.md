@@ -2,8 +2,10 @@
 *Noun*
 > /rɪˈmɪtns/
 
+![[remittance.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money sent, especially by mail or electronic transfer, in payment for goods or services or as a gift.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `foreign remittance`: kiều hối nước ngoài
 - `send a remittance`: gửi tiền thanh toán
+- `remittance fee`: chi phí chuyển khoản kiều hối
+- `inward remittance`: dòng tiền kiều hối chuyển về nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many migrant workers send monthly remittances to support their families back home.

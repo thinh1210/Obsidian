@@ -2,8 +2,10 @@
 *v.*
 > /dɪsˈkwɒl.ɪ.faɪ/
 
+![[disqualify.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Declare (someone) ineligible for an office, activity, or competition because of a breach of rules or a lack of necessary qualifications.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `be disqualified from`: bị truất quyền tham gia
 - `disqualify a runner`: truất quyền thi đấu của một người chạy
+- `disqualified from the race`: bị tước quyền thi đấu khỏi chặng đua
+- `disqualification notice`: thông báo truất quyền thi đấu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was disqualified from the race for false starting.

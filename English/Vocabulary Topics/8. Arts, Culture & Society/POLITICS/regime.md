@@ -2,8 +2,10 @@
 *noun*
 > /reɪˈʒiːm/
 
+![[regime.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A government, especially an authoritarian one.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `military regime`: chế độ quân sự
 - `totalitarian regime`: chế độ độc tài toàn trị
+- `authoritarian regime`: chế độ độc tài chuyên chế
+- `change of regime`: sự thay đổi chế độ chính trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* People celebrated when the oppressive regime was overthrown.

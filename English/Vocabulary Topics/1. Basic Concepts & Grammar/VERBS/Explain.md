@@ -2,8 +2,10 @@
 *Verb*
 > /ɪkˈspleɪn/
 
+![[explain.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something clear or easy to understand.
@@ -13,7 +15,10 @@
 💡 Ếch lèn (explain) dưới đất để giải thích.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `explain to someone`: giải thích cho ai\n- `explain away`: biện minh
+- `explain to someone`: giải thích cho ai
+- `explain away`: biện minh
+- `explain oneself`: tự giải thích biện minh cho hành động của mình
+- `hard to explain`: khó lòng giải thích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let me explain.

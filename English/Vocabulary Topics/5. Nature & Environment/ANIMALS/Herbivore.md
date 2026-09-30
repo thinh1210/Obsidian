@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɜː.bɪ.vɔːr/
 
+![[herbivore.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that feeds on plants.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `large herbivore`: động vật ăn cỏ lớn
 - `herbivore population`: quần thể động vật ăn cỏ
+- `herbivorous diet`: chế độ ăn cỏ/thực vật
+- `graze like herbivores`: gặm cỏ như các loài động vật ăn thực vật
+- `prey herbivores`: các loài động vật ăn cỏ làm mồi săn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Cows, sheep, and deer are common herbivores.

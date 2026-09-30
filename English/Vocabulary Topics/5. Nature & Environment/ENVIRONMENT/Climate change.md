@@ -2,8 +2,10 @@
 *n.*
 > /ˈklaɪmət tʃeɪndʒ/
 
+![[climate_change.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A change in global or regional climate patterns, in particular a change apparent from the mid to late 20th century onwards and attributed largely to the increased levels of atmospheric carbon dioxide produced by the use of fossil fuels.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tackle climate change`: giải quyết biến đổi khí hậu
 - `impact of climate change`: tác động của biến đổi khí hậu
+- `mitigate climate change`: giảm thiểu tác động của biến đổi khí hậu
+- `adapt to climate change`: thích ứng với biến đổi khí hậu
+- `climate change denier`: người hoài nghi hoặc phủ nhận biến đổi khí hậu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Climate change is leading to more severe weather events.

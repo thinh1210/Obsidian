@@ -2,8 +2,10 @@
 *Noun*
 > /ˈsɪti/
 
+![[city.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large town.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Capital city`: Thủ đô
+- `coastal city`: thành phố ven biển
+- `megacity`: siêu đô thị
+- `bustling city`: thành phố nhộn nhịp đông đúc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New York is a big city.

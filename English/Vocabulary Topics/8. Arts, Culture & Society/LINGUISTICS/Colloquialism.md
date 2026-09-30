@@ -2,8 +2,10 @@
 *noun*
 > /kəˈləʊ.kwi.ə.lɪ.zəm/
 
+![[colloquialism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an informal word or phrase that is more common in conversation than in formal speech or writing

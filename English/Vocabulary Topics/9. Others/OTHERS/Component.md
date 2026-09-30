@@ -1,13 +1,21 @@
 # Component
 
 *Noun*
+> /kəmˈpəʊ.nənt/
+
+![[component.mp3]]
 
 - **[EN]:** A part or element of a larger whole, especially of a machine.
 - **[VN]:** Thành phần, bộ phận cấu thành.
 
-**Level:** B2
+**Level:** B2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `vital component`: thành phần sinh mệnh sống còn
+- `modular components`: các mô-đun linh kiện lắp ghép
+- `constituent components`: các thành phần cấu tạo nên thực thể
+
 ## Examples
 1. *Trust is a vital component of any relationship.*
    - Sự tin tưởng là một thành phần quan trọng của bất kỳ mối quan hệ nào.

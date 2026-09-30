@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɪndoʊ/
 
+![[window.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An opening in a wall or roof, fitted with glass.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `open the window`: mở cửa sổ
 - `look out the window`: nhìn ra cửa sổ
+- `window frame`: khung cửa sổ
+- `window shopping`: ngắm đồ qua cửa kính không mua
+- `window of opportunity`: khoảng thời gian cơ hội vàng ngắn ngủi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Close the window, please.

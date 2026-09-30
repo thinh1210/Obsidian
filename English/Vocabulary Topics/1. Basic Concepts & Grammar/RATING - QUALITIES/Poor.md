@@ -2,8 +2,10 @@
 *adj*
 > /pʊər/
 
+![[poor.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of a low or inferior standard or quality.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `poor quality`: chất lượng kém
+- `poor health`: sức khỏe yếu kém
+- `in poor condition`: trong tình trạng tồi tệ
+- `poor judgment`: sự suy đoán sai lầm / kém cỏi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is in poor health.

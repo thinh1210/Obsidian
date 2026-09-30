@@ -2,8 +2,10 @@
 *verb/noun*
 > /səˈpɔːrt/
 
+![[support.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bear all or part of the weight of; hold up.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `emotional support`: hỗ trợ tinh thần
+- `unconditional support`: sự ủng hộ vô điều kiện
+- `rally support`: kêu gọi tập hợp sự ủng hộ
+- `support system`: hệ thống người thân bạn bè hỗ trợ tinh thần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Friends offer support in hard times.

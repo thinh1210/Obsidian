@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkɒz.mɒs/
 
+![[cosmos.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The universe seen as a well-ordered whole.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `order of the cosmos`: trật tự của vũ trụ
 - `mysteries of the cosmos`: bí ẩn vũ trụ
+- `vastness of the cosmos`: sự bao la của vũ trụ
+- `origins of the cosmos`: nguồn gốc của vũ trụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are just tiny specks in the vast cosmos.

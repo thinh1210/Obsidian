@@ -2,8 +2,10 @@
 *noun*
 > /məˈrɪdiən/
 
+![[meridian.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circle of constant longitude passing through a given place on the earth's surface and the terrestrial poles.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the Prime Meridian`: Kinh tuyến gốc
+- `Greenwich Meridian`: kinh tuyến Greenwich
+- `magnetic meridian`: kinh tuyến từ
+- `cross the meridian`: vượt qua đường kinh tuyến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Prime Meridian passes through Greenwich.

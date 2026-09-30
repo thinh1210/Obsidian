@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈɡeɪdʒ/
 
+![[engage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To attract and hold the attention and interest of online users
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `engage the audience`: thu hút khán giả
+- `engage with followers`: tương tác thân thiết với người theo dõi
+- `high engagement rate`: tỷ lệ tương tác cao của bài đăng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The post was designed to engage users by asking them a question.

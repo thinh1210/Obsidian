@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡʌvərnmənt/
 
+![[government.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The group of people with the authority to govern a country or state.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local government`: chính quyền địa phương
 - `federal government`: chính phủ liên bang
+- `overthrow the government`: lật đổ chính phủ
+- `stable government`: chính phủ ổn định vững vàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government is building a new library in our town.

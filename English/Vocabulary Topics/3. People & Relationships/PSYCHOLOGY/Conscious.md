@@ -2,8 +2,10 @@
 *adj*
 > /ˈkɑːn.ʃəs/
 
+![[conscious.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Aware of and responding to one's surroundings; awake.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `socially conscious`: có ý thức xã hội
+- `self-conscious`: ngượng ngùng e dè tự ti
+- `conscious decision`: quyết định có chủ ý thấu suốt
+- `subconscious desires`: những ham muốn sâu trong tiềm thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The patient is now conscious.

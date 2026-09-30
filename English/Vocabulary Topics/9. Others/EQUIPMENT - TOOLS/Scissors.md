@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɪz.əz/
 
+![[scissors.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an instrument used for cutting cloth, paper, and other thin material, consisting of two blades.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of scissors`: một cây kéo
 - `sharp scissors`: kéo sắc
+- `pair of scissors`: cây kéo cắt
+- `blunt scissors`: kéo bị cùn lưỡi
+- `scissor kick`: cú đá cắt kéo trong võ thuật/bóng đá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Use these scissors to cut the wrapping paper.

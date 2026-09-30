@@ -2,8 +2,10 @@
 *n.*
 > /tuːl/
 
+![[tool.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hand-held object that helps you do a specific job
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `useful tool`: công cụ hữu ích
 - `garden tool`: dụng cụ làm vườn
+- `power tool`: dụng cụ cầm tay chạy bằng điện
+- `diagnostic tool`: công cụ chẩn đoán vấn đề
+- `vital tool`: công cụ quan trọng thiết yếu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A hammer is a common tool for building.

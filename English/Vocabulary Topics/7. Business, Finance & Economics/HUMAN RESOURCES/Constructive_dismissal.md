@@ -2,8 +2,10 @@
 *n.*
 > /kənˈstrʌk.tɪv dɪsˈmɪs.əl/
 
+![[constructive_dismissal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Resignation caused by an employer making the work environment intolerable
@@ -13,7 +15,11 @@
 💡 Tạo "con" "sút" (constructive) "đít" (dismissal) gián tiếp để nhân viên tự nghỉ
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``claim constructive dismissal`: khiếu nại việc bị ép thôi việc gián tiếp
+- `claim constructive dismissal`: khiếu nại việc bị ép thôi việc gián tiếp
+- `sue for constructive dismissal`: khởi kiện vì bị tạo áp lực buộc thôi việc
+- `prove constructive dismissal`: chứng minh bị ngược đãi ép phải nghỉ
+- `risk of constructive dismissal`: nguy cơ phạm luật sa thải gián tiếp
+- `intolerable working conditions`: điều kiện môi trường làm việc không thể chịu nổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He successfully sued the firm for constructive dismissal after his duties were stripped.

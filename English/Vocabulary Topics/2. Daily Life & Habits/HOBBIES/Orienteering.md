@@ -2,8 +2,10 @@
 *noun*
 > /ˌɔːriənˈtɪərɪŋ/
 
+![[orienteering.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A competitive sport in which runners have to find their way across rough country with the aid of a map and compass.

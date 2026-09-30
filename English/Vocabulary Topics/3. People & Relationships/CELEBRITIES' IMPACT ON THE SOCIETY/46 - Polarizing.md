@@ -2,8 +2,10 @@
 *adj.*
 > /ˈpəʊ.lə.raɪ.zɪŋ/
 
+![[polarizing.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing strong disagreement between opposing groups.
@@ -13,7 +15,10 @@
 💡 Polar + ize -> Phân cực
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `A polarizing figure: Nhân vật gây chia rẽ`
+- `A polarizing figure`: Nhân vật gây chia rẽ
+- `polarizing topic`: chủ đề gây chia rẽ dư luận
+- `highly polarizing debate`: cuộc tranh cãi phân cực gay gắt
+- `polarizing figure`: nhân vật gây nhiều luồng ý kiến trái chiều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Polarizing effect.

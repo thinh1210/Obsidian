@@ -2,8 +2,10 @@
 *adj.*
 > /ˌeɪ.sɪˈmet.rɪ.kəl/
 
+![[asymmetrical.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having parts that fail to correspond to one another in shape, size, or arrangement; lacking symmetry.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An asymmetrical design`: Thiết kế không đối xứng
 - `Asymmetrical features`: Đặc điểm bất đối xứng
+- `asymmetrical balance`: sự cân bằng bất đối xứng
+- `asymmetrical warfare`: chiến tranh bất đối xứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her dress has an asymmetrical hem.

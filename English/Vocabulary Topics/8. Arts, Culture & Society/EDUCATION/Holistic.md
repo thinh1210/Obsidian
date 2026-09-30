@@ -2,8 +2,10 @@
 *adj.*
 > /həʊˈlɪstɪk/
 
+![[holistic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by comprehension of the parts of something as interconnected
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `holistic education`: giáo dục toàn diện
 - `holistic approach`: cách tiếp cận tổng thể
+- `holistic assessment`: phương thức kiểm tra đánh giá toàn diện
+- `holistic development`: sự phát triển hoàn thiện về thể chất và trí tuệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The school adopts a holistic approach to student development.

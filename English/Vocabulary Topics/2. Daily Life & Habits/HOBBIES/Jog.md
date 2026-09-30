@@ -2,8 +2,10 @@
 *v*
 > /dʒɑːɡ/
 
+![[jog.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To run at a slow, steady pace, especially as a form of exercise.

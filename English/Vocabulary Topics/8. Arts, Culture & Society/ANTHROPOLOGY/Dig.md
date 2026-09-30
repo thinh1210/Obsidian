@@ -2,8 +2,10 @@
 *v., n.*
 > /dɪɡ/
 
+![[dig.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (v) Break up and move earth with a tool or hands; (n) An archaeological excavation.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `archaeological dig`: cuộc khai quật khảo cổ
 - `dig up`: đào lên
+- `participate in a dig`: tham gia một cuộc khai quật khảo cổ
+- `dig deep into`: đào sâu tìm hiểu vào vấn đề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They dig a hole to plant a tree.

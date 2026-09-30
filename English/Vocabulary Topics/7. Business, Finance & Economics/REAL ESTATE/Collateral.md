@@ -2,8 +2,10 @@
 *n.*
 > /kəˈlætərəl/
 
+![[collateral.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Something pledged as security for repayment of a loan, to be forfeited in the event of a default.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `put up as collateral`: dùng làm tài sản thế chấp
 - `collateral value`: giá trị tài sản bảo đảm
+- `pledge real estate as collateral`: thế chấp nhà đất làm tài sản bảo đảm
+- `collateralized mortgage`: khoản vay thế chấp có bảo đảm bằng tài sản
+- `seize collateral`: phát mãi / tịch thu tài sản thế chấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He used his family home as collateral to secure a business loan from the bank.

@@ -2,8 +2,10 @@
 *noun*
 > /əˌkʌltʃəˈreɪʃn/
 
+![[acculturation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Assimilation to a different culture, typically the dominant one.

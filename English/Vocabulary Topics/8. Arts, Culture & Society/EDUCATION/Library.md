@@ -2,8 +2,10 @@
 *n.*
 > /ˈlaɪbrəri/
 
+![[library.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or room containing collections of books for use or borrowing
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `public library`: thư viện công cộng
 - `borrow from the library`: mượn từ thư viện
+- `digital library`: hệ thống thư viện điện tử trực tuyến
+- `library resources`: nguồn học liệu và tài liệu thư viện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I often study at the university library.

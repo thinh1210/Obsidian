@@ -2,8 +2,10 @@
 *n.*
 > /ˈælaɪ/
 
+![[ally.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state formally cooperating with another for a military or other purpose
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `close ally`: đồng minh thân cận
 - `military ally`: đồng minh quân sự
+- `staunch ally`: đồng minh trung kiên
+- `strategic ally`: đồng minh chiến lược
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The two countries became close allies during the conflict.

@@ -2,8 +2,10 @@
 *noun*
 > /skaɪ/
 
+![[sky.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The space above the earth that is visible when looking up.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clear sky`: bầu trời trong xanh
 - `night sky`: bầu trời đêm
+- `starry sky`: bầu trời đầy sao
+- `gaze at the sky`: ngắm nhìn bầu trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There is not a single cloud in the sky today.

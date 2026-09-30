@@ -2,8 +2,10 @@
 *noun*
 > /ˈplætfɔːm/
 
+![[platform.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A digital service or website that facilitates social networking and content sharing
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `social media platform`: nền tảng mạng xã hội
+- `cross-platform compatibility`: khả năng tương thích trên nhiều nền tảng
+- `digital streaming platform`: nền tảng phát sóng trực tuyến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Which platform do you use most often, TikTok or Instagram?

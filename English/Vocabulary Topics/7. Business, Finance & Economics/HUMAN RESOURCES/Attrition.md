@@ -2,8 +2,10 @@
 *n.*
 > /əˈtrɪʃ.ən/
 
+![[attrition.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The gradual reduction of workforce size by not replacing workers who leave
@@ -13,7 +15,11 @@
 💡 Sếp "a" (a) "trì" (tri) "sân" (tion) làm nhân viên nản lòng tự rời đi
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``natural attrition`: hao mòn tự nhiên
+- `natural attrition`: hao mòn tự nhiên
+- `attrition rate`: tỷ lệ nhân viên nghỉ việc tự nhiên
+- `high attrition`: mức độ hao hụt nhân sự ở mức cao
+- `employee attrition`: sự hao hụt đội ngũ nhân sự
+- `combat attrition`: triển khai giải pháp ngăn ngừa chảy máu nhân sự
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company reduced staff numbers through natural attrition.

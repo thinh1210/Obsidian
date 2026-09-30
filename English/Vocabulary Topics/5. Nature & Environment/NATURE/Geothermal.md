@@ -2,8 +2,10 @@
 *Adjective*
 > /ˌdʒiːəʊˈθɜːml/
 
+![[geothermal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or produced by the internal heat of the earth.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `geothermal energy`: năng lượng địa nhiệt
 - `geothermal power plant`: nhà máy điện địa nhiệt
+- `geothermal activity`: hoạt động địa nhiệt
+- `geothermal heat pump`: bơm nhiệt địa nhiệt
+- `harness geothermal energy`: khai thác nguồn năng lượng địa nhiệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Iceland utilizes geothermal energy to heat most of its homes.

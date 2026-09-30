@@ -2,8 +2,10 @@
 *n.*
 > /skrɪpt/
 
+![[script.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The written text of a play, movie, or broadcast
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `write a script`: viết kịch bản
 - `shooting script`: kịch bản phân cảnh quay
+- `unsolicited script`: kịch bản tự do gửi tới không theo đơn đặt hàng
+- `stick to the script`: tuân thủ nghiêm ngặt theo kịch bản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She read the script before accepting the role.

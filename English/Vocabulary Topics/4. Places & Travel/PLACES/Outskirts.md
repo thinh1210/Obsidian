@@ -2,8 +2,10 @@
 *n.*
 > /ˈaʊt.skɝːts/
 
+![[outskirts.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outer parts of a town or city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on the outskirts`: ở vùng ven
+- `city outskirts`: vùng ven ngoại vi thành phố
+- `live on the outskirts`: sống tại khu rìa ngoại ô
+- `fringe outskirts`: vành đai rìa đô thị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He built a house on the outskirts of London.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈmɪnətʃə(r)/
 
+![[miniature.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of a much smaller size than normal
@@ -13,7 +15,10 @@
 💡 Mi ni (miniature) nhỏ
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``miniature model`: mô hình thu nhỏ`
+- `miniature model`: mô hình thu nhỏ
+- `in miniature`: dưới dạng thu nhỏ
+- `miniature golf`: môn đánh gôn thu nhỏ
+- `miniature painting`: tranh thu nhỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Miniature train.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌendʒɪˈnɪərɪŋ/
 
+![[engineering.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science and technology concerned with the design, building, and use of engines, machines, and structures.

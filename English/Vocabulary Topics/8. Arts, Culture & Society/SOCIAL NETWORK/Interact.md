@@ -2,8 +2,10 @@
 *verb*
 > /ˌɪntərˈækt/
 
+![[interact.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To communicate, respond, or engage with other users and posts online
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `interact with followers`: tương tác với người theo dõi
+- `interact socially`: tương tác giao tiếp xã hội
+- `foster user interaction`: thúc đẩy sự tương tác của người dùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love how the author interacts with her fans on Twitter.

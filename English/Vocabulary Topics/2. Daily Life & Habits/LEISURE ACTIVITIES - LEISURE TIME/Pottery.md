@@ -2,8 +2,10 @@
 *n*
 > /ˈpɒtəri/
 
+![[pottery.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The craft of making ceramic material into pots or wares.
@@ -13,7 +15,11 @@
 💡 Pot (cái bình) + tery -> nghề làm bình gốm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `make pottery`: làm gốm\n- `pottery class`: lớp học làm gốm
+- `make pottery`: làm gốm
+- `pottery class`: lớp học làm gốm
+- `pottery wheel`: bàn xoay làm gốm
+- `handmade pottery`: đồ gốm thủ công tự nặn
+- `clay pottery`: gốm đất nung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She took a pottery class.

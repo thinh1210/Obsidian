@@ -2,8 +2,10 @@
 *verb*
 > /ˈsʌblɛt/
 
+![[sublet.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lease (a property) to a subtenant.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sublet an apartment`: cho thuê lại căn hộ
 - `sublet agreement`: hợp đồng cho thuê lại
+- `sublet clauses`: các điều khoản cho thuê lại
+- `prohibit subletting`: nghiêm cấm hành vi cho thuê lại
+- `sublet to students`: cho sinh viên thuê lại phòng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She sublet her room for the summer.

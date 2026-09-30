@@ -2,8 +2,10 @@
 *adjective*
 > /ˈɒn.ɪst/
 
+![[honest.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free of deceit and untruthfulness; sincere.

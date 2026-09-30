@@ -2,8 +2,10 @@
 *adjective*
 > /ɪˈstreɪndʒd/
 
+![[estranged.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** No longer close or affectionate to someone; alienated.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An estranged husband/wife`: Người chồng/vợ đã ly thân
+- `estranged spouse`: người bạn đời đã ly thân sống riêng
+- `grow estranged`: dần trở nên xa cách lạnh nhạt
+- `reconcile with estranged spouse`: làm hòa với vợ/chồng đã ly thân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His estranged wife filed for divorce.

@@ -2,8 +2,10 @@
 *verb*
 > /ˈɒptɪmaɪz/
 
+![[optimize.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make the best or most effective use of a situation, opportunity, or resource.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `optimize performance`: tối ưu hóa hiệu suất
 - `optimize resources`: tối ưu hóa tài nguyên
+- `optimize workflow`: tối ưu hóa quy trình làm việc
+- `cost optimization`: tối ưu hóa chi phí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Software developers work constantly to optimize the app's loading time.

@@ -2,8 +2,10 @@
 *adj*
 > /sʌbˈstæn.dəd/
 
+![[substandard.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Below the usual or required standard.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `substandard goods`: hàng hóa kém chất lượng
+- `substandard housing`: nhà ở không đạt chuẩn
+- `substandard safety`: an toàn dưới tiêu chuẩn quy định
+- `substandard care`: sự chăm sóc kém chất lượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They were living in substandard conditions.

@@ -2,8 +2,10 @@
 *n*
 > /ˌdɪs.ɪnˈfræn.tʃaɪz.mənt/
 
+![[disenfranchisement.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being deprived of the right to vote or other civic rights.

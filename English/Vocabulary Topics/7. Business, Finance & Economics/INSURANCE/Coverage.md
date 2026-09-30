@@ -2,8 +2,10 @@
 *n.*
 > /ˈkʌvərɪdʒ/
 
+![[coverage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of protection given by an insurance policy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `comprehensive coverage`: phạm vi bảo hiểm toàn diện
 - `insurance coverage`: phạm vi bảo hiểm
+- `gap coverage`: bảo hiểm bù đắp phần chênh lệch thiếu hụt
+- `extend coverage`: mở rộng phạm vi và đối tượng bảo hiểm
+- `deny coverage`: từ chối bảo lãnh và bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Does your health policy offer coverage for dental care?

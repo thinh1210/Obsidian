@@ -2,8 +2,10 @@
 *n.*
 > /pəˈfɔːməns/
 
+![[performance.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An act of staging or presenting a play, concert, or other form of entertainment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `live performance`: biểu diễn trực tiếp
 - `outstanding performance`: màn trình diễn xuất sắc
+- `flawless performance`: buổi trình diễn hoàn hảo không tì vết
+- `command performance`: buổi biểu diễn phục vụ nguyên thủ / hoàng gia
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her performance as Juliet was outstanding.

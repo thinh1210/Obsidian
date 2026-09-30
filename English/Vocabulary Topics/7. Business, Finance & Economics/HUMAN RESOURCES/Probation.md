@@ -2,8 +2,10 @@
 *n.*
 > /prəˈbeɪ.ʃən/
 
+![[probation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A trial period for a newly hired employee
@@ -13,7 +15,11 @@
 💡 "Pro" (chuyên nghiệp) thì sợ gì "ba" (ba) tháng "sân" (tion) thử việc
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``probation period`: thời gian thử việc
+- `probation period`: thời gian thử việc
+- `on probation`: đang trong giai đoạn chịu thử thách thử việc
+- `pass probation`: hoàn thành xuất sắc và chính thức qua kỳ thử việc
+- `fail probation`: không vượt qua được đánh giá sau thời gian thử việc
+- `probationary period`: quãng thời gian theo dõi thử việc ban đầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New employees are usually put on probation for three months.

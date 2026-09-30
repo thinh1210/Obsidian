@@ -2,8 +2,10 @@
 *adjective*
 > /əbˈtruːsɪv/
 
+![[obtrusive.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADVERTISING
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Noticeable or prominent in an unwelcome or intrusive way.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `obtrusive advertisements`: quảng cáo gây khó chịu
 - `unobtrusive placement`: lồng ghép tinh tế/không phô trương
+- `obtrusive pop-ups`: quảng cáo tự bật gây phiền nhiễu
+- `less obtrusive`: ít lộ liễu / bớt gây khó chịu
+- `obtrusive branding`: gắn nhãn hiệu quá phô trương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The security cameras were small and not obtrusive.

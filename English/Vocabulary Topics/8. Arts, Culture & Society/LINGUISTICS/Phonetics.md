@@ -2,8 +2,10 @@
 *noun*
 > /fəˈnet.ɪks/
 
+![[phonetics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of the speech sounds of human speech, including how they are made, transmitted, and received

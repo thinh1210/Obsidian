@@ -2,8 +2,10 @@
 *adj*
 > /ˈlæv.ɪʃ/
 
+![[lavish.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Large in quantity and expensive
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lavish spending`: chi tiêu xa hoa
+- `lavish lifestyle`: lối sống vương giả, xa hoa lãng phí
+- `lavish praise`: lời khen ngợi hết lời, hào phóng
+- `lavish gifts`: những món quà đắt tiền xa xỉ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A lavish lifestyle.

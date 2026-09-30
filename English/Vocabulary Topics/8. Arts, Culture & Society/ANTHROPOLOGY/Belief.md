@@ -2,8 +2,10 @@
 *n.*
 > /bɪˈliːf/
 
+![[belief.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An acceptance that a statement is true or that something exists.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `religious belief`: niềm tin tôn giáo
 - `shared belief`: niềm tin chung
+- `traditional beliefs`: tín ngưỡng truyền thống
+- `core beliefs`: niềm tin cốt lõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's my belief that honesty is the best policy.

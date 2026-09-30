@@ -2,8 +2,10 @@
 *n.*
 > /ˈpɜː.mə.kʌl.tʃər/
 
+![[permaculture.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An agricultural system seeking to integrate human activity with natural ecosystems.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `permaculture design`: thiết kế nông nghiệp vĩnh cửu
 - `permaculture principles`: các nguyên lý nông nghiệp vĩnh cửu
+- `permaculture farm`: trang trại nông nghiệp vĩnh cửu
+- `permaculture garden`: khu vườn nông nghiệp thuận tự nhiên
+- `permaculture ethics`: các nguyên tắc đạo đức trong nông nghiệp sinh thái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They transformed their suburban backyard into a permaculture garden.

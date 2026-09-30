@@ -2,8 +2,10 @@
 *n.*
 > /kəʊtʃ/
 
+![[coach.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who trains and guides sports players or teams.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `head coach`: huấn luyện viên trưởng
 - `coach a team`: huấn luyện một đội
+- `coach a team to victory`: huấn luyện đội tuyển dẫn tới thắng lợi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our coach gives us useful advice before the match.

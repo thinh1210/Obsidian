@@ -2,8 +2,10 @@
 *v.*
 > /ɪˈmɔːtəlaɪz/
 
+![[immortalize.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Confer enduring fame upon.
@@ -13,7 +15,10 @@
 💡 Im (không) + mortal (chết).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `immortalize in song: bất tử hóa trong bài hát`
+- `immortalize in song`: bất tử hóa trong bài hát
+- `immortalize in history`: lưu danh muôn thuở vào sử sách
+- `immortalize on canvas`: bất tử hóa trong các nét vẽ tranh
+- `immortalized forever`: được lưu danh mãi ngàn đời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His words were immortalized.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɒk.sɪ.dʒən/
 
+![[oxygen.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical element with atomic number 8, a colorless, odorless reactive gas that is essential for life.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `oxygen cylinder`: bình oxy
 - `oxygen level`: nồng độ oxy
+- `oxygen saturation`: độ bão hòa oxy
+- `dissolved oxygen`: oxy hòa tan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Humans need oxygen to breathe and survive.

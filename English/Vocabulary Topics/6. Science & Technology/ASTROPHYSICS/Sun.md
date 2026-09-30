@@ -2,8 +2,10 @@
 *noun*
 > /sʌn/
 
+![[sun.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The star that provides light and heat to Earth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sunlight`: ánh sáng mặt trời
 - `sun protection`: bảo vệ khỏi ánh nắng mặt trời
+- `surface of the sun`: bề mặt mặt trời
+- `scorching sun`: mặt trời chói chang / nắng gay gắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sun is very hot and bright today.

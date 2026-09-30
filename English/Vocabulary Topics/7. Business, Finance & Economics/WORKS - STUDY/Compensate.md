@@ -2,8 +2,10 @@
 *v.*
 > /ˈkɒm.pən.seɪt/
 
+![[compensate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To pay someone money in exchange for work or to make up for loss or injury
@@ -13,8 +15,11 @@
 💡 Cơm phấn sệt (compensate) đền bù cho bữa ăn tệ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``compensate employees`: trả công cho nhân viên`
-- ``compensate for losses`: bồi thường cho những tổn thất`
+- `compensate employees`: trả công cho nhân viên
+- `compensate for losses`: bồi thường cho những tổn thất
+- `compensate for overtime`: bù đắp thù lao cho thời gian làm thêm giờ
+- `fairly compensated`: được trả công thù lao một cách công bằng
+- `compensatory day off`: ngày nghỉ bù công tác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Nothing can compensate for the loss of a loved one.

@@ -2,8 +2,10 @@
 *noun*
 > /liːs/
 
+![[lease.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A contract by which one party conveys land, property, services, etc., to another for a specified time.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sign a lease`: ký hợp đồng thuê
 - `break a lease`: phá vỡ hợp đồng thuê
+- `lease agreement`: hợp đồng thuê nhà
+- `renew a lease`: gia hạn hợp đồng thuê
+- `commercial lease`: hợp đồng thuê mặt bằng kinh doanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We signed a one-year lease.

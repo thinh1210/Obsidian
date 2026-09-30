@@ -2,8 +2,10 @@
 *v*
 > /ˌdaɪəɡˈnəʊz/
 
+![[diagnose.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Identify the nature of an illness or other problem by examination of the symptoms.

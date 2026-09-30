@@ -2,8 +2,10 @@
 *noun*
 > /ˌnjʊə.rəʊ.plæˈstɪs.ɪ.ti/
 
+![[neuroplasticity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The brain's ability to reorganise itself by forming new neural connections throughout life.

@@ -2,8 +2,10 @@
 *adj*
 > /ˈhæp.i/
 
+![[happy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feeling or showing pleasure or contentment.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `happy ending`: cái kết có hậu
+- `happy-go-lucky`: vô tư lự yêu đời (idiom)
+- `happy memory`: kỷ niệm vui vẻ êm đẹp
+- `happy medium`: giải pháp dung hòa hợp lý (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am so happy today.

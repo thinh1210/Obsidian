@@ -2,8 +2,10 @@
 *adj.*
 > /swɑːv/
 
+![[suave.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Charming, confident, and elegant.
@@ -13,7 +15,11 @@
 💡 Suave - sờ (su) vào (ave) thấy mượt mà lịch thiệp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `suave manners`: cư xử lịch thiệp\n- `suave gentleman`: quý ông hào hoa
+- `suave manners`: cư xử lịch thiệp
+- `suave gentleman`: quý ông hào hoa
+- `suave demeanor`: phong thái hòa nhã, lịch lãm
+- `smooth and suave`: khéo léo và hào hoa
+- `suave charm`: nét quyến rũ lịch thiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a suave and sophisticated man.

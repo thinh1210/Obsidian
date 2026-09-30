@@ -2,8 +2,10 @@
 *noun*
 > /kənˈɡlɑːmərət/
 
+![[conglomerate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a large company that is made up of several smaller companies that sell different products or services.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `multinational conglomerate`: tập đoàn đa ngành quốc gia
 - `media conglomerate`: tập đoàn truyền thông đa ngành
+- `financial conglomerate`: tập đoàn tài chính đa lĩnh vực
+- `industrial conglomerate`: tập đoàn công nghiệp đa ngành
+- `conglomerate merger`: sáp nhập các doanh nghiệp đa ngành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Samsung is a massive South Korean conglomerate that produces electronics, ships, and life insurance.

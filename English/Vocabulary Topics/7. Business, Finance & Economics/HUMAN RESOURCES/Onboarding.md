@@ -2,8 +2,10 @@
 *n.*
 > /ˈɒnˌbɔː.dɪŋ/
 
+![[onboarding.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process of integrating and orienting a new employee
@@ -13,7 +15,11 @@
 💡 Đưa nhân viên mới "on" (lên) "board" (tàu) bắt đầu hành trình
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``onboarding process`: quy trình hội nhập
+- `onboarding process`: quy trình hội nhập
+- `smooth onboarding`: quá trình tiếp nhận tân binh suôn sẻ
+- `onboarding session`: buổi hướng dẫn hội nhập cho nhân sự mới
+- `onboarding checklist`: bảng danh mục công việc cần hoàn thành khi mới vào làm
+- `employee onboarding program`: chương trình định hướng hội nhập công ty
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A structured onboarding process improves employee retention rates.

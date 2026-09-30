@@ -2,8 +2,10 @@
 *noun*
 > /lænd/
 
+![[land.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of the earth's surface that is not covered by water.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on land`: trên đất liền
+- `fertile land`: vùng đất màu mỡ
+- `dry land`: đất liền
+- `piece of land`: mảnh đất
+- `arable land`: đất canh tác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We finally saw land after weeks at sea.

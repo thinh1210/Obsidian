@@ -2,8 +2,10 @@
 *n.*
 > /ɪkˈstɪəriə(r)/
 
+![[exterior.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The outer structure or surface of a building
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `exterior wall`: bức tường bên ngoài
 - `exterior paint`: sơn ngoại thất
+- `building exterior`: mặt ngoài của tòa nhà
+- `exterior lighting`: hệ thống chiếu sáng ngoại thất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The exterior of the building is covered in glass panels.

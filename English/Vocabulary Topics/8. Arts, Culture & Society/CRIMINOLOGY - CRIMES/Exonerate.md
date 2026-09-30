@@ -2,8 +2,10 @@
 *verb*
 > /ɪɡˈzɒnəreɪt/
 
+![[exonerate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To free someone from blame or guilt
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `exonerate someone from blame`: minh oan cho ai khỏi tội danh
 - `fully exonerate`: giải oan hoàn toàn
+- `exonerate by DNA testing`: giải oan nhờ kết quả xét nghiệm ADN
+- `seek to exonerate`: nỗ lực tìm kiếm bằng chứng minh oan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He hoped the new witness would exonerate him.

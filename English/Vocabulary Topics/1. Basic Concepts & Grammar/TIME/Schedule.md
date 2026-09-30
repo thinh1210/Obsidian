@@ -2,8 +2,10 @@
 *n./v.*
 > /ˈʃedjuːl/
 
+![[schedule.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan of times for tasks or events
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on schedule`: đúng lịch trình
+- `ahead of schedule`: vượt trước tiến độ
+- `behind schedule`: chậm tiến độ
+- `tight schedule`: lịch trình kín mít
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My schedule is full today.

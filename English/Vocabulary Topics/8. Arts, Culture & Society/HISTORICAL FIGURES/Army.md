@@ -2,8 +2,10 @@
 *n.*
 > /ˈɑːmi/
 
+![[army.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized military force equipped for fighting on land
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `join the army`: gia nhập quân đội
 - `invading army`: quân đội xâm lược
+- `standing army`: quân đội thường trực
+- `mobilize an army`: huy động quân đội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He decided to join the army after high school.

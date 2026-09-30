@@ -2,8 +2,10 @@
 *verb*
 > /ˌriːkənˈstrʌkt/
 
+![[reconstruct.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To build or create something again that has been damaged or destroyed
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reconstruct the past`: tái dựng quá khứ
 - `reconstruct the scene`: phục dựng hiện trường
+- `reconstruct ancient settlements`: tái dựng lại các khu định cư cổ đại
+- `digital reconstruction`: phục dựng kỹ thuật số
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police tried to reconstruct the crime scene.

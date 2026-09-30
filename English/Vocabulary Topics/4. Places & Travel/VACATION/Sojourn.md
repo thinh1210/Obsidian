@@ -2,8 +2,10 @@
 *Noun*
 > /ˈsoʊdʒɜrn/
 
+![[sojourn.mp3]]
+
 ---
-**Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION
+**Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A temporary stay.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brief sojourn`: lần lưu lại ngắn
 - `summer sojourn`: kỳ nghỉ hè
+- `peaceful sojourn`: khoảng thời gian lưu lại tĩnh dưỡng an lành
+- `temporary summer sojourn`: chuyến nghỉ hè dừng chân ngắn ngày
+- `memorable sojourn`: kỳ lưu trú đọng lại bao kỷ niệm đẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My sojourn in Paris was delightful.

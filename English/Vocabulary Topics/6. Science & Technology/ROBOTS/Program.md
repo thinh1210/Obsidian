@@ -2,8 +2,10 @@
 *verb.*
 > /ˈproʊ.ɡræm/
 
+![[program.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To write instructions for a computer or machine to make it perform a task
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `program a computer`: lập trình máy tính
+- `program a robotic arm`: lập trình cánh tay robot
+- `programmable logic controller (PLC)`: bộ điều khiển logic khả trình
+- `pre-programmed sequence`: trình tự lập trình sẵn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I learned how to program a robot to turn around.

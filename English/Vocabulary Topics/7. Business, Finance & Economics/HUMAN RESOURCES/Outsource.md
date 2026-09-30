@@ -2,8 +2,10 @@
 *v.*
 > /ˈaʊt.sɔːs/
 
+![[outsource.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To obtain goods or services from an outside or foreign supplier
@@ -13,7 +15,11 @@
 💡 Chuyển việc ra "out" (ngoài) "sọ" (source) để giảm tải cho công ty
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``outsource production`: thuê ngoài sản xuất
+- `outsource production`: thuê ngoài sản xuất
+- `outsource IT services`: thuê ngoài các dịch vụ kỹ thuật công nghệ
+- `outsource customer support`: thuê đơn vị ngoài trực tổng đài chăm sóc khách
+- `offshore outsourcing`: thuê ngoài dịch vụ gia công sang nước ngoài
+- `decision to outsource`: quyết định giao việc cho đơn vị gia công ngoài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many companies outsource their customer service to specialized call centers.

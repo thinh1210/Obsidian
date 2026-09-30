@@ -2,8 +2,10 @@
 *Adjective*
 > /sɪnˈθet.ɪk/
 
+![[synthetic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made by synthesis, especially chemically, rather than of natural origin.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `synthetic fiber`: sợi tổng hợp
 - `synthetic rubber`: cao su tổng hợp
+- `synthetic materials`: các vật liệu nhân tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This jacket is made of synthetic materials.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈkæpɪtəl/
 
+![[capital.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wealth in the form of money or other assets owned by a person or organization or contributed for a purpose

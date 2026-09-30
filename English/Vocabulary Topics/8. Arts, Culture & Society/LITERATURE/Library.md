@@ -2,8 +2,10 @@
 *noun*
 > /ˈlaɪ.brər.i/
 
+![[library.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or room containing collections of books for reading or borrowing.

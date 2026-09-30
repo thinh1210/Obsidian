@@ -2,8 +2,10 @@
 *n.*
 > /əˈmiːnətiz/
 
+![[amenities.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A desirable or useful feature or facility of a building or place.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local amenities`: tiện nghi địa phương
+- `basic amenities`: tiện nghi cơ bản
+- `recreational amenities`: tiện ích giải trí công cộng
+- `access to amenities`: sự tiếp cận các tiện ích đời sống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The hotel offers excellent amenities.

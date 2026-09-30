@@ -2,8 +2,10 @@
 *n.*
 > /əˈpəʊ.nənt/
 
+![[opponent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who competes against or fights another in a contest, game, or argument.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A fierce opponent`: Một đối thủ đáng gờm
+- `political opponent`: đối thủ chính trị
+- `formidable opponent`: đối thủ đáng gờm sừng sỏ
+- `defeat an opponent`: đánh bại một đối thủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He defeated his opponent.

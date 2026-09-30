@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪm.ɪdʒ/
 
+![[image.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The general impression that a person presents to the public.
@@ -13,7 +15,10 @@
 💡 Image -> Hình tượng
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Public image: Hình ảnh trước công chúng`
+- `Public image`: Hình ảnh trước công chúng
+- `project an image`: quảng bá xây dựng một hình tượng
+- `tarnished image`: hình tượng bị hoen ố
+- `cultivate a positive image`: vun đắp hình ảnh tích cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Improve the image.

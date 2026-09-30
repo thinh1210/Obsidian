@@ -2,8 +2,10 @@
 *verb*
 > /spraʊt/
 
+![[sprout.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To produce buds, branches, or germinates; to begin to grow.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `seeds sprout`: hạt nảy mầm
 - `sprout leaves`: đâm lá
+- `sprout up everywhere`: mọc lên như nấm sau mưa
+- `bean sprouts`: giá đỗ
+- `sprout new shoots`: đâm chồi nảy lộc mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The beans I planted last week have already started to sprout.

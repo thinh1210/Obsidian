@@ -2,8 +2,10 @@
 *noun*
 > /ruːt/
 
+![[root.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of a plant that grows under the ground, absorbing water and minerals.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take root`: bén rễ
 - `deep roots`: rễ sâu
+- `put down roots`: cắm rễ định cư lâu dài
+- `grassroots organization`: tổ chức xuất phát từ cơ sở quần chúng
+- `strike at the root of the problem`: giải quyết tận gốc rễ của vấn đề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to dig up the roots of the old plant.

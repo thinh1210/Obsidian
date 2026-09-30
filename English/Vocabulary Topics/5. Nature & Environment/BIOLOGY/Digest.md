@@ -2,8 +2,10 @@
 *verb*
 > /daɪˈdʒest/
 
+![[digest.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Break down (food) in the alimentary canal into substances that can be absorbed and used by the body.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digest food`: tiêu hóa thức ăn
 - `easy to digest`: dễ tiêu hóa
+- `digest complex molecules`: tiêu hóa các phân tử phức tạp
+- `take time to digest`: cần thời gian để nghiền ngẫm / thấu hiểu
+- `digestive tract`: đường tiêu hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It takes a long time to digest a heavy meal.

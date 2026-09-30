@@ -2,8 +2,10 @@
 *adj.*
 > /ˈklaʊdi/
 
+![[cloudy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Covered with clouds; not clear
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cloudy sky`: bầu trời nhiều mây
+- `cloudy with a chance of rain`: trời nhiều mây và có thể có mưa
+- `cloudy memory`: ký ức mờ mịt không rõ ràng
+- `remain cloudy`: trời tiếp tục âm u nhiều mây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is very cloudy today, so I will take an umbrella.

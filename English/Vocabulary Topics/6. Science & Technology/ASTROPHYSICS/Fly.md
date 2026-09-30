@@ -2,8 +2,10 @@
 *verb*
 > /flaɪ/
 
+![[fly.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move through the air or space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fly high`: bay cao
 - `fly into space`: bay vào vũ trụ
+- `flyby mission`: sứ mệnh bay ngang qua thăm dò
+- `fly at supersonic speed`: bay ở tốc độ siêu thanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Birds can fly high in the air.

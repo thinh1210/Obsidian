@@ -2,8 +2,10 @@
 *noun*
 > /ˈʒɑ̃ː.rə/
 
+![[genre.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A category of artistic, musical, or literary composition characterized by a particular style.
@@ -13,7 +15,7 @@
 💡 Giăng (Gen) ra (re) đủ loại bẫy để bắt tất cả các thể loại chim.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `literary genre`:  thể loại văn học
+- `literary genre`: thể loại văn học
 - `popular genre`: thể loại phổ biến
 - `blend genres`: pha trộn các thể loại
 

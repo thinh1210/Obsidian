@@ -2,8 +2,10 @@
 *Adj*
 > /ˌæv.əˈkeɪ.ʃən.əl/
 
+![[avocational.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to an activity that someone does for pleasure, not as their job.

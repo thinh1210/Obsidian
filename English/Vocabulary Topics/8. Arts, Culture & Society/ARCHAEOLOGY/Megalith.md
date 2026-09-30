@@ -2,8 +2,10 @@
 *noun*
 > /ˈmegəlɪθ/
 
+![[megalith.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large stone that forms a prehistoric monument or part of one
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prehistoric megalith`: cự thạch tiền sử
 - `ancient megalith`: cự thạch cổ đại
+- `megalithic tomb`: lăng mộ cự thạch
+- `megalithic structure`: công trình bằng cự thạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Stonehenge is the most famous megalith in Europe.

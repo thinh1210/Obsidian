@@ -2,8 +2,10 @@
 *Noun*
 > /əˌkɑməˈdeɪʃən/
 
+![[accommodation.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room, group of rooms, or building in which someone may live or stay.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `find accommodation`: tìm chỗ ở
 - `book accommodation`: đặt chỗ ở
+- `luxury accommodation`: chỗ nghỉ dưỡng cao cấp sang trọng
+- `budget-friendly accommodation`: chỗ nghỉ ngơi hợp túi tiền
+- `arrange accommodation`: thu xếp nơi ăn chốn ở chu đáo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to find accommodation for tonight.

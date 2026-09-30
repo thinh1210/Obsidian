@@ -2,8 +2,10 @@
 *noun*
 > /ˈɔː.tɒp.si/
 
+![[autopsy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A post-mortem examination of a body to determine the cause of death.

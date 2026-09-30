@@ -2,8 +2,10 @@
 *Noun*
 > /ˈred.ʃɪft/
 
+![[redshift.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Displacement of spectral lines toward longer wavelengths, indicating galaxies are moving away.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cosmological redshift`: dịch chuyển đỏ vũ trụ
 - `gravitational redshift`: dịch chuyển đỏ hấp dẫn
+- `high redshift`: độ dịch chuyển đỏ cao
+- `measure redshift`: đo độ dịch chuyển đỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Redshift is the cosmic equivalent of the Doppler effect.

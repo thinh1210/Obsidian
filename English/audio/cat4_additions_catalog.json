@@ -1,0 +1,867 @@
+{
+  "CITY": [
+    {
+      "word": "Pharmacy",
+      "ipa": "/ˈfɑːrməsi/ [[pharmacy.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Hiệu thuốc, nhà thuốc",
+      "wf": "pharmacist (n), pharmaceutical (adj)",
+      "link": "[[Pharmacy]]"
+    },
+    {
+      "word": "Post office",
+      "ipa": "/ˈpəʊst ˌɒfɪs/ [[post_office.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Bưu điện",
+      "wf": "postal (adj), postage (n)",
+      "link": "[[Post office]]"
+    },
+    {
+      "word": "Library",
+      "ipa": "/ˈlaɪbrəri/ [[library.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Thư viện",
+      "wf": "librarian (n)",
+      "link": "[[Library]]"
+    },
+    {
+      "word": "Cinema",
+      "ipa": "/ˈsɪnəmə/ [[cinema.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Rạp chiếu phim",
+      "wf": "cinematic (adj), cinematography (n)",
+      "link": "[[Cinema]]"
+    },
+    {
+      "word": "Museum",
+      "ipa": "/mjuːˈziːəm/ [[museum.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Bảo tàng",
+      "wf": "museologist (n)",
+      "link": "[[Museum]]"
+    },
+    {
+      "word": "Stadium",
+      "ipa": "/ˈsteɪdiəm/ [[stadium.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Sân vận động",
+      "wf": "stadia (n. pl.)",
+      "link": "[[Stadium]]"
+    },
+    {
+      "word": "Traffic light",
+      "ipa": "/ˈtræfɪk laɪt/ [[traffic_light.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Đèn giao thông",
+      "wf": "traffic (n/v)",
+      "link": "[[Traffic light]]"
+    },
+    {
+      "word": "Alley",
+      "ipa": "/ˈæli/ [[alley.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Ngõ, hẻm",
+      "wf": "alleyway (n)",
+      "link": "[[Alley]]"
+    },
+    {
+      "word": "Lane",
+      "ipa": "/leɪn/ [[lane.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Làn đường, đường nhỏ",
+      "wf": "lane (n)",
+      "link": "[[Lane]]"
+    },
+    {
+      "word": "Highway",
+      "ipa": "/ˈhaɪweɪ/ [[highway.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Xa lộ, quốc lộ, đường cao tốc",
+      "wf": "highwayman (n)",
+      "link": "[[Highway]]"
+    },
+    {
+      "word": "Zebra crossing",
+      "ipa": "/ˌzebrə ˈkrɒsɪŋ/ [[zebra_crossing.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Vạch kẻ sang đường cho người đi bộ",
+      "wf": "cross (v), crossing (n)",
+      "link": "[[Zebra crossing]]"
+    },
+    {
+      "word": "Quarter",
+      "ipa": "/ˈkwɔːrtər/ [[quarter.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Khu phố, phường",
+      "wf": "quarterly (adj/adv)",
+      "link": "[[Quarter]]"
+    },
+    {
+      "word": "Block",
+      "ipa": "/blɒk/ [[block.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Khối nhà, dãy phố",
+      "wf": "blockade (n/v), blockage (n)",
+      "link": "[[Block]]"
+    },
+    {
+      "word": "Square",
+      "ipa": "/skweər/ [[square.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Quảng trường",
+      "wf": "square (adj/v)",
+      "link": "[[Square]]"
+    },
+    {
+      "word": "District",
+      "ipa": "/ˈdɪstrɪkt/ [[district.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Quận, khu vực hành chính",
+      "wf": "redistrict (v)",
+      "link": "[[District]]"
+    },
+    {
+      "word": "Crowded",
+      "ipa": "/ˈkraʊdɪd/ [[crowded.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "adj.",
+      "meaning": "Đông đúc, chen chúc",
+      "wf": "crowd (n/v), overcrowd (v)",
+      "link": "[[Crowded]]"
+    },
+    {
+      "word": "Noisy",
+      "ipa": "/ˈnɔɪzi/ [[noisy.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "adj.",
+      "meaning": "Ồn ào, huyên náo",
+      "wf": "noise (n), noisily (adv), noisiness (n)",
+      "link": "[[Noisy]]"
+    },
+    {
+      "word": "Lively",
+      "ipa": "/ˈlaɪvli/ [[lively.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "adj.",
+      "meaning": "Sống động, tràn đầy sức sống",
+      "wf": "liveliness (n), live (v/adj)",
+      "link": "[[Lively]]"
+    },
+    {
+      "word": "Polluted",
+      "ipa": "/pəˈluːtɪd/ [[polluted.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "adj.",
+      "meaning": "Bị ô nhiễm",
+      "wf": "pollute (v), pollutant (n), pollution (n)",
+      "link": "[[Polluted]]"
+    }
+  ],
+  "HOMES": [
+    {
+      "word": "Living room",
+      "ipa": "/ˈlɪvɪŋ ruːm/ [[living_room.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Phòng khách",
+      "wf": "live (v), living (n)",
+      "link": "[[Living room]]"
+    },
+    {
+      "word": "Dining room",
+      "ipa": "/ˈdaɪnɪŋ ruːm/ [[dining_room.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Phòng ăn",
+      "wf": "dine (v), diner (n)",
+      "link": "[[Dining room]]"
+    },
+    {
+      "word": "Table",
+      "ipa": "/ˈteɪbl/ [[table.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Cái bàn",
+      "wf": "tabletop (n), tableland (n)",
+      "link": "[[Table]]"
+    },
+    {
+      "word": "Chair",
+      "ipa": "/tʃeər/ [[chair.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Cái ghế",
+      "wf": "chairperson (n), chairmanship (n)",
+      "link": "[[Chair]]"
+    },
+    {
+      "word": "Bed",
+      "ipa": "/bed/ [[bed.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Cái giường",
+      "wf": "bedding (n), bedroom (n), bedside (n)",
+      "link": "[[Bed]]"
+    },
+    {
+      "word": "Wardrobe",
+      "ipa": "/ˈwɔːdrəʊb/ [[wardrobe.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Tủ quần áo",
+      "wf": "wardrobe (n)",
+      "link": "[[Wardrobe]]"
+    },
+    {
+      "word": "Cottage",
+      "ipa": "/ˈkɒtɪdʒ/ [[cottage.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Nhà tranh, nhà thôn dã",
+      "wf": "cottager (n)",
+      "link": "[[Cottage]]"
+    },
+    {
+      "word": "Villa",
+      "ipa": "/ˈvɪlə/ [[villa.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Biệt thự",
+      "wf": "village (n), villager (n)",
+      "link": "[[Villa]]"
+    },
+    {
+      "word": "Flat",
+      "ipa": "/flæt/ [[flat.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Căn hộ (Anh-Anh)",
+      "wf": "flatmate (n)",
+      "link": "[[Flat]]"
+    },
+    {
+      "word": "Yard",
+      "ipa": "/jɑːrd/ [[yard.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Cái sân (trước hoặc sau nhà)",
+      "wf": "backyard (n), courtyard (n)",
+      "link": "[[Yard]]"
+    },
+    {
+      "word": "Fence",
+      "ipa": "/fens/ [[fence.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Hàng rào",
+      "wf": "fencing (n)",
+      "link": "[[Fence]]"
+    },
+    {
+      "word": "Deposit",
+      "ipa": "/dɪˈpɒzɪt/ [[deposit.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Tiền đặt cọc",
+      "wf": "depositor (n), deposit (v)",
+      "link": "[[Deposit]]"
+    },
+    {
+      "word": "Contract",
+      "ipa": "/ˈkɒntrækt/ [[contract.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Hợp đồng (thuê nhà/mua bán)",
+      "wf": "contractual (adj), contractor (n)",
+      "link": "[[Contract]]"
+    },
+    {
+      "word": "Fee",
+      "ipa": "/fiː/ [[fee.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Khoản phí, lệ phí",
+      "wf": "fee (n)",
+      "link": "[[Fee]]"
+    },
+    {
+      "word": "Roommate",
+      "ipa": "/ˈruːmmeɪt/ [[roommate.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Bạn cùng phòng",
+      "wf": "flatmate (n), housemate (n)",
+      "link": "[[Roommate]]"
+    },
+    {
+      "word": "Furnished",
+      "ipa": "/ˈfɜːnɪʃt/ [[furnished.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "adj.",
+      "meaning": "Đầy đủ nội thất, có sẵn đồ",
+      "wf": "furnish (v), furniture (n), unfurnished (adj)",
+      "link": "[[Furnished]]"
+    },
+    {
+      "word": "Bright",
+      "ipa": "/braɪt/ [[bright.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "adj.",
+      "meaning": "Sáng sủa, nhiều ánh sáng",
+      "wf": "brightly (adv), brightness (n), brighten (v)",
+      "link": "[[Bright]]"
+    },
+    {
+      "word": "Quiet",
+      "ipa": "/ˈkwaɪət/ [[quiet.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "adj.",
+      "meaning": "Yên tĩnh, thanh bình",
+      "wf": "quietly (adv), quietness (n), disquiet (n)",
+      "link": "[[Quiet]]"
+    },
+    {
+      "word": "Repair",
+      "ipa": "/rɪˈpeər/ [[repair.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "v./n.",
+      "meaning": "Sửa chữa, khắc phục hư hỏng",
+      "wf": "repairman (n), repairable (adj), irrepairable (adj)",
+      "link": "[[Repair]]"
+    }
+  ],
+  "TRANSPORT - TRANSPORTATIONS": [
+    {
+      "word": "Motorbike",
+      "ipa": "/ˈməʊtəbaɪk/ [[motorbike.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Xe máy, xe mô tô",
+      "wf": "motorcycle (n), motorist (n)",
+      "link": "[[Motorbike]]"
+    },
+    {
+      "word": "Scooter",
+      "ipa": "/ˈskuːtər/ [[scooter.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Xe tay ga, xe trượt",
+      "wf": "scoot (v)",
+      "link": "[[Scooter]]"
+    },
+    {
+      "word": "Truck",
+      "ipa": "/trʌk/ [[truck.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Xe tải",
+      "wf": "trucker (n), trucking (n)",
+      "link": "[[Truck]]"
+    },
+    {
+      "word": "Van",
+      "ipa": "/væn/ [[van.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Xe tải nhỏ, xe chở khách cỡ vừa",
+      "wf": "caravan (n)",
+      "link": "[[Van]]"
+    },
+    {
+      "word": "Taxi",
+      "ipa": "/ˈtæksi/ [[taxi.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Xe taxi",
+      "wf": "taxicab (n), taximeter (n)",
+      "link": "[[Taxi]]"
+    },
+    {
+      "word": "Ambulance",
+      "ipa": "/ˈæmbjələns/ [[ambulance.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Xe cấp cứu, xe cứu thương",
+      "wf": "ambulant (adj), ambulation (n)",
+      "link": "[[Ambulance]]"
+    },
+    {
+      "word": "Airplane",
+      "ipa": "/ˈeəpleɪn/ [[airplane.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Máy bay, phi cơ",
+      "wf": "aeroplane (n), aviation (n)",
+      "link": "[[Airplane]]"
+    },
+    {
+      "word": "Helicopter",
+      "ipa": "/ˈhelɪkɒptər/ [[helicopter.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Máy bay trực thăng",
+      "wf": "helipad (n), copter (n)",
+      "link": "[[Helicopter]]"
+    },
+    {
+      "word": "Ferry",
+      "ipa": "/ˈferi/ [[ferry.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Phà, tàu chở khách qua sông/biển",
+      "wf": "ferry (v)",
+      "link": "[[Ferry]]"
+    },
+    {
+      "word": "Ship",
+      "ipa": "/ʃɪp/ [[ship.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Tàu thủy, tàu viễn dương",
+      "wf": "shipping (n), shipwreck (n), shipment (n)",
+      "link": "[[Ship]]"
+    },
+    {
+      "word": "Tram",
+      "ipa": "/træm/ [[tram.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Xe điện mặt đất, tàu điện đường phố",
+      "wf": "tramway (n), tramcar (n)",
+      "link": "[[Tram]]"
+    },
+    {
+      "word": "Rush hour",
+      "ipa": "/ˈrʌʃ aʊər/ [[rush_hour.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Giờ cao điểm",
+      "wf": "rush (v/n)",
+      "link": "[[Rush hour]]"
+    },
+    {
+      "word": "Speed",
+      "ipa": "/spiːd/ [[speed.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n./v.",
+      "meaning": "Tốc độ, chạy quá tốc độ",
+      "wf": "speedy (adj), speedometer (n), speeding (n)",
+      "link": "[[Speed]]"
+    },
+    {
+      "word": "Fine",
+      "ipa": "/faɪn/ [[fine.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Tiền phạt, tiền nộp phạt",
+      "wf": "fine (v)",
+      "link": "[[Fine]]"
+    },
+    {
+      "word": "Collision",
+      "ipa": "/kəˈlɪʒn/ [[collision.mp3\\|🔊]]",
+      "lvl": "B2",
+      "pos": "n.",
+      "meaning": "Sự va chạm, tai nạn đâm xe",
+      "wf": "collide (v)",
+      "link": "[[Collision]]"
+    },
+    {
+      "word": "Harbor",
+      "ipa": "/ˈhɑːrbər/ [[harbor.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Bến cảng, vũng tàu đậu",
+      "wf": "harbor (v)",
+      "link": "[[Harbor]]"
+    },
+    {
+      "word": "Track",
+      "ipa": "/træk/ [[track.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Đường ray (xe lửa), đường mòn",
+      "wf": "track (v), tracking (n)",
+      "link": "[[Track]]"
+    },
+    {
+      "word": "Electric vehicle",
+      "ipa": "/ɪˈlektrɪk ˈviːəkl/ [[electric_vehicle.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Xe điện, phương tiện chạy điện",
+      "wf": "electricity (n), electrify (v)",
+      "link": "[[Electric vehicle]]"
+    },
+    {
+      "word": "Parking space",
+      "ipa": "/ˈpɑːkɪŋ speɪs/ [[parking_space.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Chỗ đỗ xe, vị trí đậu xe",
+      "wf": "park (v), parking lot (n)",
+      "link": "[[Parking space]]"
+    }
+  ],
+  "TRAVEL": [
+    {
+      "word": "Visa",
+      "ipa": "/ˈviːzə/ [[visa.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Thị thực, thị thực nhập cảnh",
+      "wf": "visa (n)",
+      "link": "[[Visa]]"
+    },
+    {
+      "word": "Boarding pass",
+      "ipa": "/ˈbɔːdɪŋ pɑːs/ [[boarding_pass.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Thẻ lên máy bay / tàu",
+      "wf": "board (v), boarding (n)",
+      "link": "[[Boarding pass]]"
+    },
+    {
+      "word": "Backpack",
+      "ipa": "/ˈbækpæk/ [[backpack.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Ba lô du lịch",
+      "wf": "backpacker (n), backpacking (n)",
+      "link": "[[Backpack]]"
+    },
+    {
+      "word": "ID card",
+      "ipa": "/ˌaɪˈdiː kɑːd/ [[id_card.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Căn cước công dân, thẻ định danh",
+      "wf": "identity (n), identify (v), identification (n)",
+      "link": "[[ID card]]"
+    },
+    {
+      "word": "Insurance",
+      "ipa": "/ɪnˈʃʊərəns/ [[insurance.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Bảo hiểm (du lịch)",
+      "wf": "insure (v), insurer (n), insured (adj)",
+      "link": "[[Insurance]]"
+    },
+    {
+      "word": "Transit",
+      "ipa": "/ˈtrænzɪt/ [[transit.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Sự quá cảnh, trung chuyển",
+      "wf": "transitory (adj), transition (n)",
+      "link": "[[Transit]]"
+    },
+    {
+      "word": "Platform",
+      "ipa": "/ˈplætfɔːm/ [[platform.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Ke ga, sân ga xe lửa",
+      "wf": "platform (n)",
+      "link": "[[Platform]]"
+    },
+    {
+      "word": "Route",
+      "ipa": "/ruːt/ [[route.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Lộ trình, tuyến đường đi",
+      "wf": "reroute (v), routine (n)",
+      "link": "[[Route]]"
+    },
+    {
+      "word": "Gate",
+      "ipa": "/ɡeɪt/ [[gate.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Cổng ra máy bay, cổng lên tàu",
+      "wf": "gateway (n)",
+      "link": "[[Gate]]"
+    },
+    {
+      "word": "Hostel",
+      "ipa": "/ˈhɒstl/ [[hostel.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Nhà nghỉ tập thể, nhà nghỉ giá rẻ",
+      "wf": "hosteler (n)",
+      "link": "[[Hostel]]"
+    },
+    {
+      "word": "Monument",
+      "ipa": "/ˈmɒnjumənt/ [[monument.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Đài tưởng niệm, tượng đài di tích",
+      "wf": "monumental (adj)",
+      "link": "[[Monument]]"
+    },
+    {
+      "word": "Attraction",
+      "ipa": "/əˈtrækʃn/ [[attraction.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Điểm thu hút du khách, danh thắng",
+      "wf": "attract (v), attractive (adj), attractiveness (n)",
+      "link": "[[Attraction]]"
+    },
+    {
+      "word": "Guesthouse",
+      "ipa": "/ˈɡesthaʊs/ [[guesthouse.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Nhà khách, nhà trọ gia đình",
+      "wf": "guest (n)",
+      "link": "[[Guesthouse]]"
+    },
+    {
+      "word": "Backpacker",
+      "ipa": "/ˈbækpækər/ [[backpacker.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Khách du lịch ba lô, dân phượt",
+      "wf": "backpack (n/v), backpacking (n)",
+      "link": "[[Backpacker]]"
+    },
+    {
+      "word": "Experience",
+      "ipa": "/ɪkˈspɪəriəns/ [[experience.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n./v.",
+      "meaning": "Trải nghiệm, kinh nghiệm sống",
+      "wf": "experienced (adj), experiential (adj)",
+      "link": "[[Experience]]"
+    },
+    {
+      "word": "Adventure",
+      "ipa": "/ədˈventʃər/ [[adventure.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Cuộc phiêu lưu, chuyến mạo hiểm",
+      "wf": "adventurous (adj), adventurer (n)",
+      "link": "[[Adventure]]"
+    },
+    {
+      "word": "Memorable",
+      "ipa": "/ˈmemərəbl/ [[memorable.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "adj.",
+      "meaning": "Đáng nhớ, khó quên",
+      "wf": "memory (n), memorize (v), memorial (n)",
+      "link": "[[Memorable]]"
+    },
+    {
+      "word": "Explore",
+      "ipa": "/ɪkˈsplɔːr/ [[explore.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "v.",
+      "meaning": "Khám phá, thám hiểm",
+      "wf": "explorer (n), exploration (n), exploratory (adj)",
+      "link": "[[Explore]]"
+    }
+  ],
+  "VACATION": [
+    {
+      "word": "Sand",
+      "ipa": "/sænd/ [[sand.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n.",
+      "meaning": "Bãi cát, cát biển",
+      "wf": "sandy (adj), sandcastle (n)",
+      "link": "[[Sand]]"
+    },
+    {
+      "word": "Ocean",
+      "ipa": "/ˈəʊʃn/ [[ocean.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Đại dương, biển cả mênh mông",
+      "wf": "oceanic (adj), oceanography (n)",
+      "link": "[[Ocean]]"
+    },
+    {
+      "word": "Sunbathe",
+      "ipa": "/ˈsʌnbeɪð/ [[sunbathe.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "v.",
+      "meaning": "Tắm nắng",
+      "wf": "sunbather (n), sunbathing (n), sunburn (n/v)",
+      "link": "[[Sunbathe]]"
+    },
+    {
+      "word": "Seaside",
+      "ipa": "/ˈsiːsaɪd/ [[seaside.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Bờ biển, vùng ven biển nghỉ dưỡng",
+      "wf": "seashore (n), seaward (adj/adv)",
+      "link": "[[Seaside]]"
+    },
+    {
+      "word": "Relaxation",
+      "ipa": "/ˌriːlækˈseɪʃn/ [[relaxation.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Sự thư giãn, nghỉ ngơi xả hơi",
+      "wf": "relax (v), relaxed (adj), relaxing (adj)",
+      "link": "[[Relaxation]]"
+    },
+    {
+      "word": "Road trip",
+      "ipa": "/ˈrəʊd trɪp/ [[road_trip.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Chuyến phượt bằng ô tô, hành trình đường dài",
+      "wf": "tripper (n)",
+      "link": "[[Road trip]]"
+    },
+    {
+      "word": "Safari",
+      "ipa": "/səˈfɑːri/ [[safari.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Chuyến thám hiểm dã ngoại ngắm động vật hoang dã",
+      "wf": "safari (n)",
+      "link": "[[Safari]]"
+    },
+    {
+      "word": "Sightseer",
+      "ipa": "/ˈsaɪtsiːər/ [[sightseer.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Người đi ngắm cảnh, khách thưởng ngoạn",
+      "wf": "sightseeing (n), sight (n)",
+      "link": "[[Sightseer]]"
+    },
+    {
+      "word": "Day trip",
+      "ipa": "/ˈdeɪ trɪp/ [[day_trip.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Chuyến đi trong ngày, dã ngoại đi về trong ngày",
+      "wf": "day-tripper (n)",
+      "link": "[[Day trip]]"
+    },
+    {
+      "word": "Package tour",
+      "ipa": "/ˈpækɪdʒ tʊər/ [[package_tour.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Chuyến du lịch trọn gói",
+      "wf": "package (n/v), tour (n/v)",
+      "link": "[[Package tour]]"
+    },
+    {
+      "word": "Check-in",
+      "ipa": "/ˈtʃek ɪn/ [[check_in.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n./v.",
+      "meaning": "Thủ tục nhận phòng / làm thủ tục lên máy bay",
+      "wf": "check (v)",
+      "link": "[[Check-in]]"
+    },
+    {
+      "word": "Check-out",
+      "ipa": "/ˈtʃek aʊt/ [[check_out.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n./v.",
+      "meaning": "Thủ tục trả phòng, thanh toán rời đi",
+      "wf": "check (v)",
+      "link": "[[Check-out]]"
+    },
+    {
+      "word": "Room service",
+      "ipa": "/ˈruːm sɜːvɪs/ [[room_service.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Dịch vụ phục vụ tại phòng",
+      "wf": "serve (v), servant (n)",
+      "link": "[[Room service]]"
+    },
+    {
+      "word": "Reception",
+      "ipa": "/rɪˈsepʃn/ [[reception.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Quầy tiếp tân, bàn lễ tân",
+      "wf": "receptionist (n), receptive (adj), receive (v)",
+      "link": "[[Reception]]"
+    },
+    {
+      "word": "Guest",
+      "ipa": "/ɡest/ [[guest.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Khách lưu trú, khách mời",
+      "wf": "guesthouse (n)",
+      "link": "[[Guest]]"
+    },
+    {
+      "word": "Photograph",
+      "ipa": "/ˈfəʊtəɡrɑːf/ [[photograph.mp3\\|🔊]]",
+      "lvl": "A1",
+      "pos": "n./v.",
+      "meaning": "Bức ảnh, chụp ảnh kỷ niệm",
+      "wf": "photographer (n), photography (n), photographic (adj)",
+      "link": "[[Photograph]]"
+    },
+    {
+      "word": "View",
+      "ipa": "/vjuː/ [[view.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Tầm nhìn, cảnh quan trông thấy",
+      "wf": "viewer (n), preview (n/v), viewpoint (n)",
+      "link": "[[View]]"
+    },
+    {
+      "word": "Memory",
+      "ipa": "/ˈmeməri/ [[memory.mp3\\|🔊]]",
+      "lvl": "A2",
+      "pos": "n.",
+      "meaning": "Kỷ niệm, ký ức",
+      "wf": "memorable (adj), memorize (v)",
+      "link": "[[Memory]]"
+    },
+    {
+      "word": "Landscape",
+      "ipa": "/ˈlændskeɪp/ [[landscape.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "n.",
+      "meaning": "Phong cảnh, cảnh quan thiên nhiên",
+      "wf": "landscaping (n), landscaper (n)",
+      "link": "[[Landscape]]"
+    },
+    {
+      "word": "Unforgettable",
+      "ipa": "/ˌʌnfəˈɡetəbl/ [[unforgettable.mp3\\|🔊]]",
+      "lvl": "B1",
+      "pos": "adj.",
+      "meaning": "Khó quên, không thể nào quên",
+      "wf": "forget (v), forgettable (adj), unforgettably (adv)",
+      "link": "[[Unforgettable]]"
+    }
+  ]
+}

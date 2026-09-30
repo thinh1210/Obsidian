@@ -2,8 +2,10 @@
 *Noun*
 > /ˈvæn.ɡɑːd/
 
+![[vanguard.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The group of people or companies that lead new developments in a field.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `at the vanguard of...`: đi đầu trong...
 - `vanguard of innovation`: đội ngũ tiên phong về đổi mới sáng tạo
+- `at the vanguard of`: ở vị trí tiên phong dẫn đầu
+- `vanguard movement`: phong trào tiên phong đi trước thời đại
+- `vanguard technology`: công nghệ tiên phong đón đầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The tech startup is at the vanguard of the green energy revolution.

@@ -2,8 +2,10 @@
 *noun*
 > /wɪŋ/
 
+![[wing.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the parts of the body of a bird, insect, or bat that it uses for flying.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spread wings`: sải cánh
 - `wing span`: sải cánh
+- `under someone's wing`: được ai bao bọc che chở bảo trợ (idiom)
+- `spread one's wings`: sải cánh tự do khám phá thế giới (idiom)
+- `wing it`: tùy cơ ứng biến không chuẩn bị trước (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The eagle spread its wings and flew high.

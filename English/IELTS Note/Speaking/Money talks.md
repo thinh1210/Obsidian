@@ -14,18 +14,18 @@
 
 ## 🪜 II. Bảng Cầu Thang Từ Vựng (Lexical Ladder)
 
-| Khía cạnh | Band 5.0 - 6.5 (Cơ bản) | Band 7.0 - 8.0+ (Nâng cao) | Phiên âm IPA | Ý nghĩa & Sắc thái sử dụng |
-| :--- | :--- | :--- | :--- | :--- |
-| **Tiết kiệm** | *save money, not spend much* | **frugal / economical / prudent** | /ˈfruː.ɡəl/ - /ˌiː.kəˈnɒm.ɪ.kəl/ | Tiết kiệm, chi tiêu thông minh, không phung phí vô cớ. |
-| **Vung tay quá trán** | *waste money, buy too much* | **splurge on / squander** | /splɜːdʒ ɒn/ - /ˈskwɒn.dər/ | Chi tiêu một khoản tiền lớn một cách ngẫu hứng/hoang phí. |
-| **Mua ngẫu hứng** | *buy without thinking* | **impulse buy / spontaneous purchase**| /ˈɪm.pʌls baɪ/ - /spɒnˈteɪ.ni.əs/ | Hành vi mua sắm bộc phát, không có kế hoạch từ trước. |
-| **Giàu có** | *rich, have a lot of money* | **affluent / well-off / prosperous** | /ˈæf.lu.ənt/ - /ˌwel ˈɒf/ | Khá giả, sung túc, có nhiều tài sản và địa vị. |
-| **Cháy túi / Nghèo** | *poor, have no money* | **penniless / strapped for cash** | /ˈpen.i.ləs/ - /stræpt fɔː kæʃ/ | Túng thiếu tạm thời hoặc không còn một xu dính túi. |
-| **Ổn định tài chính** | *safe with money, have enough*| **financially secure / self-sufficient**| /faɪˌnæn.ʃəl.i sɪˈkjʊər/ | Tự chủ, an toàn về tài chính, không phải lo nghĩ từng bữa. |
-| **Thực dụng / Mê của** | *like money and things too much*| **materialistic** | /məˌtɪə.ri.əˈlɪs.tɪk/ | Đề cao vật chất và của cải hơn các giá trị tinh thần. |
-| **Chủ nghĩa tiêu thụ**| *buying culture, shopping trend*| **consumerism** | /kənˈsjuː.mə.rɪ.zəm/ | Trào lưu xã hội kích thích mua sắm hàng hóa liên tục. |
-| **Chi phí sinh hoạt**| *daily cost, money for living* | **living expenses / overheads** | /ˈlɪv.ɪŋ ɪkˈspen.sɪz/ | Chi phí trang trải cuộc sống (nhà trọ, điện nước, ăn uống). |
-| **Nợ nần** | *owe money to the bank* | **saddled with debt / in the red** | /ˈsæd.əld wɪð det/ - /ɪn ðə red/ | Gánh nặng nợ nần, tài khoản ở mức báo động âm tiền. |
+| Khía cạnh              | Band 5.0 - 6.5 (Cơ bản)          | Band 7.0 - 8.0+ (Nâng cao)               | Phiên âm IPA                      | Ý nghĩa & Sắc thái sử dụng                                  |
+| :--------------------- | :------------------------------- | :--------------------------------------- | :-------------------------------- | :---------------------------------------------------------- |
+| **Tiết kiệm**          | *save money, not spend much*     | **frugal / economical / prudent**        | /ˈfruː.ɡəl/ - /ˌiː.kəˈnɒm.ɪ.kəl/  | Tiết kiệm, chi tiêu thông minh, không phung phí vô cớ.      |
+| **Vung tay quá trán**  | *waste money, buy too much*      | **splurge on / squander**                | /splɜːdʒ ɒn/ - /ˈskwɒn.dər/       | Chi tiêu một khoản tiền lớn một cách ngẫu hứng/hoang phí.   |
+| **Mua ngẫu hứng**      | *buy without thinking*           | **impulse buy / spontaneous purchase**   | /ˈɪm.pʌls baɪ/ - /spɒnˈteɪ.ni.əs/ | Hành vi mua sắm bộc phát, không có kế hoạch từ trước.       |
+| **Giàu có**            | *rich, have a lot of money*      | **affluent / well-off / prosperous**     | /ˈæf.lu.ənt/ - /ˌwel ˈɒf/         | Khá giả, sung túc, có nhiều tài sản và địa vị.              |
+| **Cháy túi / Nghèo**   | *poor, have no money*            | **penniless / strapped for cash**        | /ˈpen.i.ləs/ - /stræpt fɔː kæʃ/   | Túng thiếu tạm thời hoặc không còn một xu dính túi.         |
+| **Ổn định tài chính**  | *safe with money, have enough*   | **financially secure / self-sufficient** | /faɪˌnæn.ʃəl.i sɪˈkjʊər/          | Tự chủ, an toàn về tài chính, không phải lo nghĩ từng bữa.  |
+| **Thực dụng / Mê của** | *like money and things too much* | **materialistic**                        | /məˌtɪə.ri.əˈlɪs.tɪk/             | Đề cao vật chất và của cải hơn các giá trị tinh thần.       |
+| **Chủ nghĩa tiêu thụ** | *buying culture, shopping trend* | **consumerism**                          | /kənˈsjuː.mə.rɪ.zəm/              | Trào lưu xã hội kích thích mua sắm hàng hóa liên tục.       |
+| **Chi phí sinh hoạt**  | *daily cost, money for living*   | **living expenses / overheads**          | /ˈlɪv.ɪŋ ɪkˈspen.sɪz/             | Chi phí trang trải cuộc sống (nhà trọ, điện nước, ăn uống). |
+| **Nợ nần**             | *owe money to the bank*          | **saddled with debt / in the red**       | /ˈsæd.əld wɪð det/ - /ɪn ðə red/  | Gánh nặng nợ nần, tài khoản ở mức báo động âm tiền.         |
 
 ---
 
@@ -383,14 +383,14 @@ You should say:
 
 #### 🔄 Part 2 Paraphrasing Bank (Kho Từ Vựng Thay Thế Cho Part 2):
 
-| Cụm từ Band 6.0 | Cụm từ nâng cấp Band 7.5 - 8.0 | Ý nghĩa tiếng Việt |
-| :--- | :--- | :--- |
-| *I really liked the toys* | **was utterly captivated / enthralled by** | Bị mê hoặc hoàn toàn bởi... |
-| *buy expensive toys* | **splurge on luxury toys** | Vung tiền mua đồ chơi đắt tiền |
-| *put money into a bank* | **stashed every banknote into a piggy bank** | Bỏ từng tờ tiền vào ống heo tiết kiệm |
-| *wait for a long time to buy*| **exercised delayed gratification** | Học cách trì hoãn hưởng thụ |
-| *very happy* | **a moment of sheer ecstasy / immense satisfaction** | Cảm xúc sung sướng tột cùng |
-| *expensive for a child* | **a colossal fortune for a young boy** | Một gia tài khổng lồ đối với một đứa trẻ |
+| Cụm từ Band 6.0               | Cụm từ nâng cấp Band 7.5 - 8.0                       | Ý nghĩa tiếng Việt                       |
+| :---------------------------- | :--------------------------------------------------- | :--------------------------------------- |
+| *I really liked the toys*     | **was utterly captivated / enthralled by**           | Bị mê hoặc hoàn toàn bởi...              |
+| *buy expensive toys*          | **splurge on luxury toys**                           | Vung tiền mua đồ chơi đắt tiền           |
+| *put money into a bank*       | **stashed every banknote into a piggy bank**         | Bỏ từng tờ tiền vào ống heo tiết kiệm    |
+| *wait for a long time to buy* | **exercised delayed gratification**                  | Học cách trì hoãn hưởng thụ              |
+| *very happy*                  | **a moment of sheer ecstasy / immense satisfaction** | Cảm xúc sung sướng tột cùng              |
+| *expensive for a child*       | **a colossal fortune for a young boy**               | Một gia tài khổng lồ đối với một đứa trẻ |
 
 ---
 

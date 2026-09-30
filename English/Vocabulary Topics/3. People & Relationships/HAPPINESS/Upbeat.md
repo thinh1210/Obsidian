@@ -2,8 +2,10 @@
 *adj.*
 > /ʌpˈbiːt/
 
+![[upbeat.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful, optimistic.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `upbeat mood`: tâm trạng vui vẻ
+- `upbeat rhythm`: nhịp điệu sôi động vui tươi
+- `maintain an upbeat attitude`: duy trì thái độ lạc quan yêu đời
+- `upbeat tempo`: tiết tấu nhanh vui nhộn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Keep an upbeat attitude.

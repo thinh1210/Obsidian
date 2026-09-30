@@ -2,8 +2,10 @@
 *verb*
 > /kənˈtæm.ɪ.neɪt/
 
+![[contaminate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something impure or corrupt by introducing harmful or polluting substances.

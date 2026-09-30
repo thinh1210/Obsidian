@@ -2,8 +2,10 @@
 *n.*
 > /ˈəʊ.vəl/
 
+![[oval.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rounded and slightly elongated outline or shape, like that of an egg.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `An oval face`: Khuôn mặt trái xoan
 - `Oval shaped`: Có hình bầu dục
+- `Oval Office`: Phòng Bầu dục (phòng làm việc của Tổng thống Mỹ)
+- `oval track`: đường chạy hình bầu dục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The table is oval.

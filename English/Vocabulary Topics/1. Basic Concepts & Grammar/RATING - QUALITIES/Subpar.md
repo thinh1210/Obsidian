@@ -2,8 +2,10 @@
 *adj*
 > /ˌsʌbˈpɑːr/
 
+![[subpar.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Below an average level.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `subpar performance`: thành tích kém
+- `subpar results`: kết quả dưới mức tiêu chuẩn
+- `subpar service`: dịch vụ dưới chuẩn
+- `subpar condition`: tình trạng không đạt chuẩn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am feeling a bit subpar today.

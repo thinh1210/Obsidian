@@ -2,8 +2,10 @@
 *adjective*
 > /fəˈren.zɪk/
 
+![[forensic.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting the application of scientific methods to legal investigation.

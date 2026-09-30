@@ -2,8 +2,10 @@
 *n.*
 > /krəˈʃen.dəʊ/
 
+![[crescendo.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A gradual increase in loudness in a piece of music, or a progressive increase in force or intensity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reach a crescendo`: đạt đến cao trào/cường độ cao nhất
 - `build to a crescendo`: tăng dần đến cao trào
+- `crescendo of applause`: tràng vỗ tay rền vang tăng dần
+- `reach a dramatic crescendo`: đạt tới cao trào kịch tính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The music built to a dramatic crescendo before suddenly stopping.

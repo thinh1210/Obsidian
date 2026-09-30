@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈdaɪt/
 
+![[indict.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Formally accuse of or charge with a serious crime.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɒk.jə.mənt/
 
+![[document.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HISTORY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written, printed, or electronic matter that provides information or evidence or that serves as an official record.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical document`: tài liệu lịch sử
 - `official document`: văn bản chính thức
+- `primary source document`: tài liệu nguồn sơ cấp
+- `forge a historical document`: làm giả tài liệu lịch sử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please sign the document and return it by email.

@@ -2,8 +2,10 @@
 *verb*
 > /ɜːn/
 
+![[earn.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To obtain money in return for labor or services
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `earn a living`: kiếm sống
+- `earn a livelihood`: kiếm kế sinh nhai nuôi thân
+- `hard-earned money`: đồng tiền mồ hôi nước mắt
+- `earn interest`: sinh ra tiền lãi tích lũy
+- `earn one's trust`: tạo dựng được lòng tin từ người khác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* How much do you earn a month?

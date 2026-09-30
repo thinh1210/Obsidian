@@ -2,8 +2,10 @@
 *Noun*
 > /priːˈkɜː.sər/
 
+![[precursor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that happened or existed before another thing, especially if it either developed into it or had an influence on it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `direct precursor`: tiền thân trực tiếp
 - `precursor to the modern...`: tiền thân của... hiện đại
+- `precursor to`: tiền thân dẫn đến điều gì
+- `chemical precursor`: tiền chất hóa học
+- `historical precursor`: tiền đề lịch sử đi trước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The abacus was a precursor to the modern calculator.

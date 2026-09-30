@@ -2,8 +2,10 @@
 *Verb*
 > /dɪˈskʌv.ər/
 
+![[discover.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To find information, a place, or an object, especially for the first time.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `discover a cure`: phát hiện ra phương thuốc điều trị
 - `discover new lands`: khám phá vùng đất mới
+- `discover new talents`: phát hiện những tài năng mới
+- `discover the truth`: khám phá ra sự thật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Researchers hope to discover a cure for the disease.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈmɑːstəpiːs/
 
+![[masterpiece.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A work of outstanding artistry, skill, or workmanship.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `literary masterpiece`: kiệt tác văn học
 - `create a masterpiece`: tạo ra một kiệt tác
+- `enduring masterpiece`: kiệt tác trường tồn với thời gian
+- `flawed masterpiece`: kiệt tác có một vài tì vết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Mona Lisa is widely regarded as a masterpiece.

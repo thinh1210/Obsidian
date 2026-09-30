@@ -2,8 +2,10 @@
 *noun / adjective*
 > /ˌflaɪ.baɪˈwaɪər/
 
+![[fly_by_wire.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flight control system in which conventional mechanical linkages are replaced by electronic signals sent via wires.

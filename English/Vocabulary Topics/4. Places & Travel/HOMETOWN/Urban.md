@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɜːbən/
 
+![[urban.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In, relating to, or characteristic of a town or city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `urban area`: khu vực đô thị
+- `urban lifestyle`: lối sống thành thị hiện đại
+- `urban regeneration`: tái thiết phát triển đô thị
+- `urban population`: dân cư sống ở đô thị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Urban areas are usually noisy.

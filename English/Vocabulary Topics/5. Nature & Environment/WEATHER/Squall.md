@@ -2,8 +2,10 @@
 *noun*
 > /skwɔːl/
 
+![[squall.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden violent gust of wind or localized storm, especially one bringing rain, snow, or sleet
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sudden squall`: cơn gió lốc bất ngờ
+- `sudden squall at sea`: cơn gió lốc bất ngờ nổi lên giữa biển
+- `rain squalls`: những đợt giông tố kèm mưa quất rát mặt
+- `line of squalls`: dải dông bão giật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sailboat was capsized by a sudden squall.

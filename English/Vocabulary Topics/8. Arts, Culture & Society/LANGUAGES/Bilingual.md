@@ -2,8 +2,10 @@
 *adj.*
 > /ˌbaɪˈlɪŋɡwəl/
 
+![[bilingual.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Speaking two languages fluently
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bilingual education`: giáo dục song ngữ
+- `bilingual proficiency`: sự thành thạo song ngữ
+- `simultaneous bilingual`: người song ngữ từ thuở nhỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many kids in Canada are bilingual.

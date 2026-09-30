@@ -2,8 +2,10 @@
 *adjective*
 > /daɪˈnæmɪk/
 
+![[dynamic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by constant change, activity, or progress; relating to forces producing motion.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dynamic system`: hệ thống động học
 - `dynamic pricing`: giá cả biến động
+- `dynamic load`: tải trọng động
+- `aerodynamic stability`: sự ổn định khí động học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Engineering is a dynamic field where technology changes almost daily.

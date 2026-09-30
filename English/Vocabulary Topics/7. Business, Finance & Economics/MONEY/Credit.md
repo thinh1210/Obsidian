@@ -2,8 +2,10 @@
 *noun*
 > /ˈkred.ɪt/
 
+![[credit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `credit card`: thẻ tín dụng
+- `give credit where credit is due`: công nhận công lao xứng đáng
+- `credit limit`: hạn mức tín dụng tối đa
+- `buy on credit`: mua trả góp / mua chịu nợ
+- `creditworthiness`: mức độ tin cậy tín dụng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer to buy things on credit rather than with cash.

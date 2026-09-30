@@ -2,8 +2,10 @@
 *adjective*
 > /ˈcɒz.mɪk/
 
+![[cosmic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the universe or cosmos, especially as distinct from the earth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cosmic rays`: tia vũ trụ
 - `cosmic microwave background`: bức xạ nền vi sóng vũ trụ
+- `cosmic dust`: bụi vũ trụ
+- `cosmic expansion`: sự giãn nở vũ trụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our daily problems seem small compared to cosmic events.

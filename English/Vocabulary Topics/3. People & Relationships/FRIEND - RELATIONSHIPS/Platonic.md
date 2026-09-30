@@ -2,8 +2,10 @@
 *adj*
 > /pləˈtɑː.nɪk/
 
+![[platonic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of love or friendship) intimate and affectionate but not sexual.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a platonic relationship`: một mối quan hệ trong sáng
+- `purely platonic`: thuần túy là tình bạn trong sáng
+- `platonic love`: tình yêu thuần khiết phi nhục dục
+- `maintain a platonic bond`: duy trì tình bạn tri kỷ trong sáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Their relationship is strictly platonic.

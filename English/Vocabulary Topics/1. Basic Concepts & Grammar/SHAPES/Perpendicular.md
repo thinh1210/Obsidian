@@ -2,8 +2,10 @@
 *adj.*
 > /ˌpɜː.pənˈdɪk.jə.lər/
 
+![[perpendicular.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** At an angle of 90° to a given line, plane, or surface.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Perpendicular lines`: Đường vuông góc
 - `Perpendicular to`: Vuông góc với
+- `perpendicular bisector`: đường trung trực vuông góc
+- `perpendicular axis`: trục vuông góc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The pole is perpendicular to the ground.

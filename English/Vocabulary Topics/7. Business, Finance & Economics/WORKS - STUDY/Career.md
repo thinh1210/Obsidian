@@ -2,8 +2,10 @@
 *n.*
 > /kəˈrɪər/
 
+![[career.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The series of jobs that a person has in a particular area of work
@@ -13,8 +15,11 @@
 💡 Cơ rìa (career) của sự nghiệp đang rộng mở.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``career path`: con đường sự nghiệp`
-- ``career ladder`: nấc thang sự nghiệp`
+- `career path`: con đường sự nghiệp
+- `career ladder`: nấc thang sự nghiệp
+- `career advancement`: cơ hội thăng tiến trên con đường sự nghiệp
+- `pursue a career`: theo đuổi một ngành nghề sự nghiệp
+- `career change`: bước chuyển hướng ngã rẽ nghề nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to pursue a career in music.

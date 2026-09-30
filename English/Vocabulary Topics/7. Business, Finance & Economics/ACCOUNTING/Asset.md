@@ -2,8 +2,10 @@
 *n.*
 > /ˈæset/
 
+![[asset.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something valuable belonging to a person or organization that can be used to pay debts

@@ -2,8 +2,10 @@
 *noun*
 > /ˌθɜːməʊdaɪˈnæmɪks/
 
+![[thermodynamics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of physical science that deals with the relations between heat and other forms of energy.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `laws of thermodynamics`: các định luật nhiệt động lực học
+- `chemical thermodynamics`: nhiệt động lực học hóa học
+- `principles of thermodynamics`: các nguyên lý nhiệt động lực học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The laws of thermodynamics govern how engines operate.

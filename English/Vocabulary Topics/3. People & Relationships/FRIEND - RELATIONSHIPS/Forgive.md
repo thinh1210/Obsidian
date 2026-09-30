@@ -2,8 +2,10 @@
 *verb*
 > /fɚˈɡɪv/
 
+![[forgive.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Stop feeling angry or resentful toward (someone) for an offense, flaw, or mistake.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `forgive and forget`: tha thứ và quên đi
+- `hard to forgive`: khó lòng mà tha thứ được
+- `ask for forgiveness`: chân thành cầu xin sự tha thứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please forgive me.

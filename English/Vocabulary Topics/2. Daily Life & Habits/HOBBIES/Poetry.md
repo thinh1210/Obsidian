@@ -2,8 +2,10 @@
 *noun*
 > /ˈpəʊ.ɪ.tri/
 
+![[poetry.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Poems in general as a form of literature.

@@ -2,8 +2,10 @@
 *adjective*
 > /ɪˌlek.trəʊ.mæɡˈnet.ɪk/
 
+![[electromagnetic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the interrelated electric and magnetic fields produced by accelerating electric charges.

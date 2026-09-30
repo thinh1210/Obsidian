@@ -2,8 +2,10 @@
 *verb*
 > /əˈpɑː.lə.dʒaɪz/
 
+![[apologize.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Express regret for something that one has done wrong.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `apologize to someone`: xin lỗi ai đó
+- `sincerely apologize`: chân thành nói lời xin lỗi
+- `apologize profusely`: rối rít xin lỗi không ngớt
+- `demand an apology`: yêu cầu một lời xin lỗi thỏa đáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I must apologize for my mistake.

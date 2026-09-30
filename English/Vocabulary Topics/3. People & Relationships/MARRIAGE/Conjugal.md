@@ -2,8 +2,10 @@
 *adjective*
 > /ˈkɒndʒʊɡl/
 
+![[conjugal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to marriage or the relationship of a married couple.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Conjugal rights`: Quyền vợ chồng
+- `conjugal bliss`: hạnh phúc lứa đôi vợ chồng trọn vẹn
+- `conjugal visit`: thăm gặp vợ/chồng riêng tư
+- `conjugal fidelity`: lòng chung thủy vợ chồng son sắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Inmates may be allowed conjugal visits.

@@ -2,8 +2,10 @@
 *noun*
 > /rəʊˈmæns/
 
+![[romance.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of excitement and mystery associated with love.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A whirlwind romance`: Một mối tình lãng mạn chóng vánh
+- `hopeless romantic`: người lãng mạn hết thuốc chữa
+- `spark of romance`: ngọn lửa tình yêu lãng mạn bùng cháy
+- `keep the romance alive`: giữ cho tình yêu lãng mạn luôn tươi mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They had a summer romance.

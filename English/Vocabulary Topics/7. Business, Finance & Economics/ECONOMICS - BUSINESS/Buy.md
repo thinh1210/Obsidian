@@ -2,8 +2,10 @@
 *verb*
 > /baɪ/
 
+![[buy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to obtain something by paying money for it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buy online`: mua hàng trực tuyến
 - `buy in bulk`: mua số lượng lớn
+- `buyout`: mua lại quyền kiểm soát công ty
+- `buying power`: sức mua / khả năng thanh toán
+- `buy wholesale`: mua với giá bán buôn / giá sỉ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to buy some milk and bread on my way home.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈsaʊndtræk/
 
+![[soundtrack.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recording of the musical accompaniment to a movie
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `movie soundtrack`: nhạc phim
 - `soundtrack album`: album nhạc phim
+- `original soundtrack`: nhạc phim nguyên bản (OST)
+- `soundtrack compilation`: album tuyển tập các ca khúc trong phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought the soundtrack to that sci-fi movie.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌkɒn.sənˈtreɪ.ʃən/
 
+![[concentration.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A specific area of focus within a broader major field of study.

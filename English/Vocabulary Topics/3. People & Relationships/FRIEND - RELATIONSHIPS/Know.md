@@ -2,8 +2,10 @@
 *verb*
 > /noʊ/
 
+![[know.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Be aware of through observation, inquiry, or information.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `get to know`: làm quen
+- `know inside out`: biết rõ như lòng bàn tay (idiom)
+- `know by heart`: thuộc lòng nằm lòng
+- `get to know better`: tìm hiểu rõ hơn về tính cách của ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I know him well.

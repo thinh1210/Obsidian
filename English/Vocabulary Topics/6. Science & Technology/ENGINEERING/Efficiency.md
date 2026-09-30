@@ -2,8 +2,10 @@
 *noun*
 > /iˈfɪʃnsi/
 
+![[efficiency.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or quality of being efficient; preventing the waste of resources or energy.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `energy efficiency`: hiệu suất năng lượng
 - `operational efficiency`: hiệu quả vận hành
+- `thermal efficiency`: hiệu suất nhiệt
+- `maximize efficiency`: tối đa hóa hiệu quả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are upgrading our factory machinery to improve production efficiency.

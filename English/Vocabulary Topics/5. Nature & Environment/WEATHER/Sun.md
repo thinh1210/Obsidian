@@ -2,8 +2,10 @@
 *noun*
 > /sʌn/
 
+![[sun.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The star that provides light and heat to the Earth
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bright sun`: mặt trời chói chang
+- `catch the sun`: bị bắt nắng / làn da ửng đỏ vì nắng
+- `make hay while the sun shines`: tận dụng thời cơ khi trời còn sáng
+- `nothing new under the sun`: chẳng có gì mới mẻ trên đời này cả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sun rises in the east.

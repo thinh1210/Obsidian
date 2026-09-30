@@ -2,8 +2,10 @@
 *n, adj*
 > /ˈskɑːr.lət/
 
+![[scarlet.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bright red color.

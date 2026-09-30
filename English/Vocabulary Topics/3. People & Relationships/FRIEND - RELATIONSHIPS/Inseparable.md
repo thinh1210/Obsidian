@@ -2,8 +2,10 @@
 *adj*
 > /ɪnˈsep.ɚ.ə.bəl/
 
+![[inseparable.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Unable to be separated or treated separately.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `inseparable friends`: những người bạn không thể tách rời
+- `virtually inseparable`: gần như dính nhau như sam
+- `inseparable companions`: đôi bạn đồng hành không thể tách rời
+- `grow inseparable`: ngày càng trở nên gắn bó keo sơn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Those two are inseparable.

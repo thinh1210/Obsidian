@@ -2,8 +2,10 @@
 *n.*
 > /ˈven.juː/
 
+![[venue.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where something happens, especially an organized event such as a concert, conference, or sports event.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wedding venue`: địa điểm tổ chức đám cưới
+- `concert venue`: địa điểm biểu diễn hòa nhạc
+- `sporting venue`: địa điểm tổ chức thi đấu thể thao
+- `ideal venue`: địa điểm tổ chức lý tưởng hoàn hảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We found a beautiful venue for our party.

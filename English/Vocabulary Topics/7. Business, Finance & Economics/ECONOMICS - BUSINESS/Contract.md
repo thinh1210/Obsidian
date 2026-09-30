@@ -2,8 +2,10 @@
 *noun*
 > /ˈcɑːntrækt/
 
+![[contract.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a formal agreement between two or more people or organizations, especially one that is written and legally binding.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sign a contract`: ký hợp đồng
 - `breach of contract`: vi phạm hợp đồng
+- `binding contract`: hợp đồng có giá trị pháp lý ràng buộc
+- `terminate a contract`: đơn phương chấm dứt hợp đồng
+- `negotiate a contract`: đàm phán điều khoản hợp đồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Make sure you read the rental contract carefully before renting the apartment.

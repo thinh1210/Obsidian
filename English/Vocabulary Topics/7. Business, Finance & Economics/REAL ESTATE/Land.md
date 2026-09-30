@@ -2,8 +2,10 @@
 *n.*
 > /lænd/
 
+![[land.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The part of the earth's surface that is not covered by water.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `piece of land`: mảnh đất
 - `buy land`: mua đất
+- `plot of land`: lô đất / thửa đất nền
+- `land registry`: cơ quan đăng ký quyền sử dụng đất đai
+- `land zoning`: quy hoạch phân vùng mục đích sử dụng đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He inherited a large piece of land from his grandfather.

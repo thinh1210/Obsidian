@@ -2,8 +2,10 @@
 *noun*
 > /əˈstrɒnəmi/
 
+![[astronomy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science which deals with celestial objects, space, and the physical universe as a whole.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `observational astronomy`: thiên văn học quan sát
+- `optical astronomy`: thiên văn học quang học
+- `radio astronomy`: thiên văn học vô tuyến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Astronomy allows us to study distant galaxies.

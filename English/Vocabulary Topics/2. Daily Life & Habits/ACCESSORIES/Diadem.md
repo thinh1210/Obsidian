@@ -2,8 +2,10 @@
 *noun*
 > /ˈdaɪədem/
 
+![[diadem.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A jewelled crown or headband worn as a symbol of sovereignty.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wear a diadem`: đội vương miện nhỏ
+- `sparkling diadem`: vương miện nhỏ lấp lánh
+- `royal diadem`: vương miện hoàng gia
+- `diadem set with pearls`: vương miện đính ngọc trai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The princess was crowned with a glittering diadem.

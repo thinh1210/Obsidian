@@ -2,8 +2,10 @@
 *noun*
 > /dʒiːnz/
 
+![[jeans.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Trousers made of denim.
@@ -13,7 +15,10 @@
 💡 Jeans -> Zin -> Quần zin.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `blue jeans: quần jean xanh`
+- `blue jeans`: quần jean xanh
+- `skinny jeans`: quần jeans ôm sát
+- `ripped jeans`: quần jeans rách cá tính
+- `pair of jeans`: một chiếc quần bò / jeans
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I wear jeans every day.

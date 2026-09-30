@@ -2,8 +2,10 @@
 *n.*
 > /sɪˈmæntɪks/
 
+![[semantics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of linguistics concerned with meaning
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lexical semantics`: ngữ nghĩa từ vựng
+- `semantic ambiguity`: sự mơ hồ về mặt ngữ nghĩa
+- `semantic shift`: sự chuyển dịch nghĩa của từ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's not get bogged down in semantics.

@@ -2,8 +2,10 @@
 *noun*
 > /ɪkˈskɜː.ʃən/
 
+![[excursion.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short journey usually made for pleasure

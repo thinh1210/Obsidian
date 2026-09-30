@@ -2,8 +2,10 @@
 *noun*
 > /ˌsaɪbə səˈveɪləns/
 
+![[cyber_surveillance.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The monitoring of computer activity and data stored on a hard drive or sent over social networks
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `state cyber-surveillance`: sự giám sát mạng của nhà nước
+- `mass cyber-surveillance`: sự giám sát mạng trên diện rộng
+- `evade cyber-surveillance`: né tránh sự theo dõi trên không gian mạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I value my privacy, so I use encrypted apps to avoid cyber-surveillance.

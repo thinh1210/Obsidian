@@ -2,8 +2,10 @@
 *noun.*
 > /ˈmʌni/
 
+![[money.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** What you use to buy things and services.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make money`: kiếm tiền
 - `pocket money`: tiền tiêu vặt
+- `launder money`: rửa tiền bất hợp pháp
+- `money market`: thị trường tiền tệ
+- `tight money policy`: chính sách thắt chặt tiền tệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you have enough money for the taxi ride?

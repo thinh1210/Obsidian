@@ -2,8 +2,10 @@
 *n.*
 > /ˈhæzəd/
 
+![[hazard.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A danger or risk; a potential source of harm or loss.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fire hazard`: nguy cơ hỏa hoạn
 - `occupational hazard`: nguy cơ nghề nghiệp
+- `moral hazard`: rủi ro đạo đức (chủ quan ỷ lại khi đã có bảo hiểm)
+- `environmental hazard`: mối hiểm họa bắt nguồn từ môi trường sống
+- `eliminate hazards`: triệt tiêu các nguy cơ hiểm họa rình rập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Loose wires in the office are a major fire hazard.

@@ -2,8 +2,10 @@
 *adj*
 > /prɪˈdɪk.tɪv/
 
+![[predictive.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Tech/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Tech/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the ability to predict what will happen in the future.

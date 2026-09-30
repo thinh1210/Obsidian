@@ -2,8 +2,10 @@
 *verb / noun*
 > /kənˈvɪkt/ (v), /ˈkɒnvɪkt/ (n)
 
+![[convict.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To officially decide in a court that someone is guilty of a crime; a person who has been found guilty

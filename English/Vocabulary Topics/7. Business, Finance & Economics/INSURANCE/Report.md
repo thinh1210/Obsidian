@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈpɔːt/
 
+![[report.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give a description of something or information about it to someone.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `report an accident`: khai báo tai nạn
 - `report a theft`: khai báo vụ trộm
+- `police report`: biên bản điều tra kết luận của cơ quan cảnh sát
+- `file an accident report`: nộp bản tường trình khai báo tai nạn
+- `medical report`: hồ sơ bệnh án chẩn đoán y tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You must report the car accident to your insurer immediately.

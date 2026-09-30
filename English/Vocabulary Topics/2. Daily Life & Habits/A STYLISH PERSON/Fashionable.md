@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfæʃnəbl/
 
+![[fashionable.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Following the latest fashion.
@@ -13,7 +15,11 @@
 💡 Fashionable - fashion (thời trang) có thể (able) mặc được.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `fashionable clothes`: quần áo hợp thời trang\n- `highly fashionable`: rất hợp thời trang
+- `fashionable clothes`: quần áo hợp thời trang
+- `highly fashionable`: rất hợp thời trang
+- `fashionable crowd`: giới mộ điệu thời trang
+- `stay fashionable`: giữ phong cách luôn hợp thời
+- `fashionable attire`: trang phục thời thượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is always very fashionable.

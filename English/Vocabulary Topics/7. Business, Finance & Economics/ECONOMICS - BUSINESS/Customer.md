@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌstəmər/
 
+![[customer.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a person or an organization that buys goods or services from a shop or business.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `loyal customer`: khách hàng trung thành
 - `customer service`: dịch vụ chăm sóc khách hàng
+- `customer base`: tệp / nhóm khách hàng cơ sở
+- `customer satisfaction`: mức độ hài lòng của khách hàng
+- `customer retention`: chính sách giữ chân khách hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The shop owner always greets every customer with a warm smile.

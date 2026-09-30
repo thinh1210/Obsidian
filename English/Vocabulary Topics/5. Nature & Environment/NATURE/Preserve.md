@@ -2,8 +2,10 @@
 *Verb*
 > /prɪˈzɜːv/
 
+![[preserve.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** NATURE
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Maintain (something) in its original or existing state.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `preserve nature`: bảo tồn thiên nhiên
 - `preserve wildlife`: bảo tồn động vật hoang dã
+- `preserve food`: bảo quản thực phẩm
+- `preserve traditions`: gìn giữ bảo tồn truyền thống
+- `preserve peace`: gìn giữ nền hòa bình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Efforts are being made to preserve the old forest.

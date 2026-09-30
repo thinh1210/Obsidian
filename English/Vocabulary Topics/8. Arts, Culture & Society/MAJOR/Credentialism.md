@@ -2,8 +2,10 @@
 *n.*
 > /krɪˈden.ʃə.lɪ.z(ə)m/
 
+![[credentialism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Excessive reliance on academic credentials or qualifications as a measure of a person's abilities.

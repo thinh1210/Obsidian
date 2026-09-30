@@ -2,8 +2,10 @@
 *n.*
 > /stres/
 
+![[stress.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pressure or worry caused by the problems in somebody's life
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `under stress`: chịu căng thẳng
 - `relieve stress`: giảm căng thẳng
+- `stress-free environment`: môi trường không căng thẳng
+- `cope with stress`: đối phó vượt qua áp lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am under a lot of stress.

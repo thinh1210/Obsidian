@@ -2,8 +2,10 @@
 *noun*
 > /ˈtraɪ.əl/
 
+![[trial.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal examination of evidence in a court of law to decide guilt or innocence.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌsɪm.baɪˈəʊ.sɪs/
 
+![[symbiosis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Interaction between two different organisms living in close physical association, typically to the advantage of both.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mutualistic symbiosis`: cộng sinh tương hỗ
 - `ecological symbiosis`: sự cộng sinh sinh thái
+- `living in symbiosis`: sống hòa hợp cộng sinh
+- `obligate symbiosis`: cộng sinh bắt buộc
+- `symbiotic partnership`: mối quan hệ hợp tác cộng sinh đôi bên cùng có lợi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The relationship between clownfish and sea anemones is a famous example of symbiosis.

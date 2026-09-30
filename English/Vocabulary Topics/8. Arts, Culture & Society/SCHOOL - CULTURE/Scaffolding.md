@@ -2,8 +2,10 @@
 *noun*
 > /ˈskæfəldɪŋ/
 
+![[scaffolding.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A variety of instructional techniques used to move students progressively toward stronger understanding and independence in the learning process.

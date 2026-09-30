@@ -2,8 +2,10 @@
 *adjective.*
 > /ˌvɪs.kəʊ.ɪˈlæs.tɪk/
 
+![[viscoelastic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exhibiting both viscous and elastic characteristics when undergoing deformation.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `viscoelastic material`: vật liệu nhớt đàn hồi
 - `viscoelastic behavior`: hành vi nhớt đàn hồi
+- `viscoelastic foam`: bọt xốp đàn nhớt nhớ hình đệm nằm
+- `viscoelastic properties`: các đặc tính nhớt đàn hồi biến dạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Memory foam is a viscoelastic polymer that responds to body heat and pressure.

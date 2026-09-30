@@ -2,8 +2,10 @@
 *n.*
 > /haʊs/
 
+![[house.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building for human habitation, especially one that is lived in by a family.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `buy a house`: mua nhà
 - `rent a house`: thuê nhà
+- `detached house`: nhà biệt lập không chung tường
+- `open house`: ngày mở cửa đón khách đến tham quan xem nhà
+- `housing market`: thị trường bất động sản nhà ở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are looking for a house to rent in the city.

@@ -2,8 +2,10 @@
 *n.*
 > /kwəʊt/
 
+![[quote.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An estimate of the premium for a proposed insurance policy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `get a quote`: xin báo giá
 - `insurance quote`: báo giá bảo hiểm
+- `free insurance quote`: bảng báo giá phí bảo hiểm miễn phí
+- `compare quotes`: đặt lên bàn cân so sánh các mức báo giá
+- `request a quote`: gửi yêu cầu lập báo giá bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should get a quote from several insurance companies online.

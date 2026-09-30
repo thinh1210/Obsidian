@@ -2,8 +2,10 @@
 *n.*
 > /ˈɡriːn.haʊs/
 
+![[greenhouse.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A glass building in which plants are grown and protected from cold weather.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `greenhouse effect`: hiệu ứng nhà kính
 - `greenhouse farming`: canh tác trong nhà kính
+- `greenhouse gas emissions`: phát thải khí nhà kính
+- `greenhouse vegetables`: rau trồng trong nhà kính
+- `commercial greenhouse`: nhà kính thương mại quy mô lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She grows strawberries in her backyard greenhouse.

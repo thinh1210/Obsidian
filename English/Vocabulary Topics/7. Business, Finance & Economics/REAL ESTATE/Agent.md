@@ -2,8 +2,10 @@
 *n.*
 > /ˈeɪdʒənt/
 
+![[agent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who acts on behalf of another person or group, especially in business.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `real estate agent`: người môi giới bất động sản
 - `letting agent`: người môi giới cho thuê
+- `commercial real estate agent`: chuyên viên môi giới bất động sản thương mại
+- `listing agent`: môi giới đại diện bên bán/cho thuê
+- `buyer's agent`: môi giới đại diện bảo vệ người mua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The real estate agent showed us three different apartments today.

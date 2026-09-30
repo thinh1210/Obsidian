@@ -2,8 +2,10 @@
 *adj.*
 > /iːsˈθetɪk/
 
+![[aesthetic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Concerned with beauty or the appreciation of beauty.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `aesthetic value`: giá trị thẩm mỹ
 - `aesthetic appeal`: sức hút thẩm mỹ
+- `visual aesthetic`: tính thẩm mỹ thị giác
+- `pleasing aesthetic`: thẩm mỹ hài hòa ưa nhìn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The website has a clean and modern aesthetic.

@@ -2,8 +2,10 @@
 *n*
 > /ˈdem.ə.ɡɒɡ/
 
+![[demagogue.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A political leader who appeals to emotions and prejudices rather than rational argument.

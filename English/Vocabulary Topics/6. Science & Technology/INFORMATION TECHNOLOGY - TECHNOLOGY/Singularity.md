@@ -2,8 +2,10 @@
 *n*
 > /ˌsɪŋ.ɡjəˈlær.ə.ti/
 
+![[singularity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Tech/Sci-fi | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C2 | **Ngữ cảnh:** Tech/Sci-fi | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A theoretical point in time when artificial intelligence will surpass human intelligence.

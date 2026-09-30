@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɝː.fjuː/
 
+![[curfew.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A regulation requiring people to remain indoors between specified hours.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strict curfew`: giờ giới nghiêm nghiêm ngặt
+- `impose a curfew`: áp đặt giờ giới nghiêm
+- `break curfew`: phá vỡ giờ giới nghiêm về trễ
+- `curfew deadline`: hạn chót giờ giới nghiêm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My parents set a 9 PM curfew.

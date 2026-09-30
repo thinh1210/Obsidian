@@ -2,8 +2,10 @@
 *noun*
 > /ˈfoʊ.bi.ə/
 
+![[phobia.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An extreme or irrational fear of or aversion to something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `irrational phobia`: nỗi sợ hãi phi lý
+- `social phobia`: hội chứng sợ xã hội / đám đông
+- `overcome a phobia`: vượt qua nỗi ám ảnh sợ hãi
+- `trigger a phobia`: kích hoạt cơn sợ hãi hoảng loạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a phobia of spiders.

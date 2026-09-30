@@ -2,8 +2,10 @@
 *noun*
 > /ˈmaɪkrəʊklaɪmət/
 
+![[microclimate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The climate of a very small or restricted area, especially when it differs from the surrounding area
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unique microclimate`: tiểu khí hậu độc đáo
+- `urban microclimate`: tiểu khí hậu đô thị
+- `sheltered microclimate`: vùng tiểu khí hậu khuất gió
+- `create a microclimate`: tạo ra một vùng tiểu khí hậu riêng biệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The valley has its own unique microclimate that allows rare plants to grow.

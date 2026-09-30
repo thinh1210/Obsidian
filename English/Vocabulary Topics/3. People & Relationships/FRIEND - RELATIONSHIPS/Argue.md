@@ -2,8 +2,10 @@
 *verb*
 > /ˈɑːrɡ.juː/
 
+![[argue.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `argue with someone`: tranh cãi với ai đó
+- `argue back and forth`: tranh cãi qua lại giằng co
+- `argue bitterly`: tranh cãi gay gắt cay đắng
+- `settle an argument`: dàn xếp ổn thỏa cuộc tranh cãi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We often argue about small things.

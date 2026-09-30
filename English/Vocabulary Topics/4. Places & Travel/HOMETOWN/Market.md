@@ -2,8 +2,10 @@
 *n.*
 > /ˈmɑːkɪt/
 
+![[market.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regular gathering of people for the purchase and sale of provisions.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local market`: chợ địa phương
+- `flea market`: chợ trời bán đồ cũ
+- `supermarket`: siêu thị hiện đại
+- `corner the market`: chiếm lĩnh độc quyền thị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I buy fruit at the market.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˌpɛrɪɡrɪˈneɪʃən/
 
+![[peregrination.mp3]]
+
 ---
-**Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION
+**Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey, especially a long or meandering one.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endless peregrinations`: những chuyến đi bất tận
 - `intellectual peregrination`: hành trình tri thức
+- `restless peregrinations`: những bước chân lữ hành không ngơi nghỉ
+- `worldwide peregrinations`: những chuyến du hành phiêu bạt khắp thế gian
+- `record one's peregrinations`: ghi lại nhật ký những chặng đường bôn ba
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His peregrinations took him to Asia.

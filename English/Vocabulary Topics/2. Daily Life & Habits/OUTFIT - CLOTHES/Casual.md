@@ -2,8 +2,10 @@
 *adj*
 > /ˈkæʒ.u.əl/
 
+![[casual.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relaxed and unconcerned; not regular or permanent.
@@ -13,7 +15,10 @@
 💡 Casual -> Cá sấu -> Mặc đồ cá sấu rất giản dị.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `casual wear: trang phục thường ngày`
+- `casual wear`: trang phục thường ngày
+- `casual clothes`: quần áo thường ngày thoải mái
+- `casual look`: phong cách ăn mặc giản dị năng động
+- `smart casual dress code`: quy định trang phục lịch sự nhưng trẻ trung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer casual clothes.

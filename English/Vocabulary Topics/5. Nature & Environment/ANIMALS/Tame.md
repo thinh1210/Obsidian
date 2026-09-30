@@ -2,8 +2,10 @@
 *adjective*
 > /teɪm/
 
+![[tame.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of an animal) not dangerous or frightened of people; domesticated.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grow tame`: trở nên hiền lành/được thuần
 - `tame animal`: động vật đã thuần
+- `tame a wild animal`: thuần hóa một con thú hoang
+- `tame and obedient`: ngoan ngoãn và biết vâng lời
+- `grow tame over time`: dần trở nên dạn dĩ hiền lành theo thời gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The birds in the park are so tame that they eat seeds right out of your hand.

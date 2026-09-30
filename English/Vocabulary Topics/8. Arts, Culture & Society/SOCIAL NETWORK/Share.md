@@ -2,8 +2,10 @@
 *verb*
 > /ʃeə(r)/
 
+![[share.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To distribute or forward content to other users on a social network
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `share a link`: chia sẻ một đường liên kết
+- `shareable content`: nội dung hấp dẫn dễ được chia sẻ
+- `over-share personal details`: chia sẻ quá trớn bí mật đời tư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please share this post with your friends.

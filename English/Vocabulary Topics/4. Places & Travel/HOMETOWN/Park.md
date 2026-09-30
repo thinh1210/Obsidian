@@ -2,8 +2,10 @@
 *n.*
 > /pɑːk/
 
+![[park.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large public green area in a town.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `public park`: công viên công cộng
+- `amusement park`: công viên giải trí trò chơi
+- `park bench`: ghế băng trong công viên
+- `walk in the park`: điều dễ dàng như trở bàn tay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's walk in the park.

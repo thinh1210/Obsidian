@@ -2,8 +2,10 @@
 *noun*
 > /ˈev.ɪ.dəns/
 
+![[evidence.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The available body of facts or information indicating whether a belief or proposition is true or valid.

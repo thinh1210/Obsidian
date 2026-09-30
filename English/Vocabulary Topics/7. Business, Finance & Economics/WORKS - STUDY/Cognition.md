@@ -2,8 +2,10 @@
 *n.*
 > /kɒɡˈnɪʃ.ən/
 
+![[cognition.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses
@@ -13,8 +15,11 @@
 💡 Cộc ni (cognition) để nhận thức rõ vấn đề.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``cognitive development`: sự phát triển nhận thức`
-- ``human cognition`: nhận thức của con người`
+- `cognitive development`: sự phát triển nhận thức
+- `human cognition`: nhận thức của con người
+- `enhance cognition`: nâng cao năng lực nhận thức và tư duy
+- `cognitive skills`: các kỹ năng nhận thức phản xạ
+- `cognitive overload`: tình trạng quá tải nhận thức do quá nhiều thông tin
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sleep is essential for healthy brain cognition.

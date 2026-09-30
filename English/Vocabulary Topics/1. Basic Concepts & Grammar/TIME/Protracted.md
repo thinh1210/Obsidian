@@ -2,8 +2,10 @@
 *adj.*
 > /prəˈtræktɪd/
 
+![[protracted.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for a long time or longer than expected or usual
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `protracted negotiations`: các cuộc đàm phán kéo dài
+- `protracted conflict`: xung đột kéo dài dai dẳng
+- `protracted legal battle`: cuộc chiến pháp lý kéo dài lê thê
+- `protracted silence`: sự im lặng kéo dài ngột ngạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A protracted legal battle.

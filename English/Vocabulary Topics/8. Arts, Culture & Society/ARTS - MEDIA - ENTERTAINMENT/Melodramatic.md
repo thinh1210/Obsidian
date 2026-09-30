@@ -2,8 +2,10 @@
 *adj.*
 > /ˌmelədrəˈmætɪk/
 
+![[melodramatic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Characteristic of melodrama, especially in being exaggerated, sensationalized, or overemotional.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `melodramatic gesture`: cử chỉ cường điệu
 - `melodramatic performance`: màn trình diễn bi kịch hóa quá mức
+- `melodramatic plot`: cốt truyện bi kịch hóa sướt mướt
+- `melodramatic tone`: giọng điệu làm quá cảm xúc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't be so melodramatic; it's just a minor issue.

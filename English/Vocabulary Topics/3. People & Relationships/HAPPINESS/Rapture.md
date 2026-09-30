@@ -2,8 +2,10 @@
 *n.*
 > /ˈræp.tʃər/
 
+![[rapture.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of intense pleasure or joy.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `listen in rapture`: say mê lắng nghe
+- `go into raptures`: tỏ ra vô cùng hào hứng ngất ngây
+- `in silent rapture`: say mê chìm đắm trong im lặng
+- `state of rapture`: trạng thái mê ly sung sướng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He listened to the music in rapture.

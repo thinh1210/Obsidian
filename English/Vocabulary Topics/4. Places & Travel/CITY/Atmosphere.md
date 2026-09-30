@@ -2,8 +2,10 @@
 *n.*
 > /ˈætməsfɪə(r)/
 
+![[atmosphere.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The character, feeling, or mood of a place or situation.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `friendly atmosphere`: bầu không khí thân thiện
+- `soak up the atmosphere`: tận hưởng bầu không khí
+- `tense atmosphere`: bầu không khí căng thẳng
+- `lively atmosphere`: không khí sôi nổi, náo nhiệt
+- `polluted atmosphere`: bầu khí quyển ô nhiễm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The restaurant has a great atmosphere.

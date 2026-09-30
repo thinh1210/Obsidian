@@ -2,8 +2,10 @@
 *adj*
 > /ˌθerəˈpjuːtɪk/
 
+![[therapeutic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the healing of disease; having a good effect on the body or mind.

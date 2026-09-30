@@ -2,8 +2,10 @@
 *noun*
 > /ɜːθ/
 
+![[earth.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The planet on which we live.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on Earth`: trên trái đất
+- `orbit the Earth`: quay quanh Trái Đất
+- `scorch the earth`: thiêu rụi mặt đất
+- `the face of the Earth`: bề mặt Trái Đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The Earth goes around the sun.

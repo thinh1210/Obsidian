@@ -2,8 +2,10 @@
 *adj.*
 > /ˌɪn.strəˈmen.təl/
 
+![[instrumental.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Performed on instruments, with no singing; serving as a means of pursuing an aim.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `instrumental music`: nhạc không lời
 - `instrumental role`: vai trò quan trọng
+- `purely instrumental`: hoàn toàn không có lời hát
+- `play an instrumental part`: đóng vai trò nòng cốt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer listening to instrumental music while studying because it helps me focus.

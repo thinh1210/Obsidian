@@ -2,8 +2,10 @@
 *Noun*
 > /trɪp/
 
+![[trip.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey in which you go somewhere, usually for a short time, and come back again.
@@ -13,7 +15,11 @@
 💡 TRIP (trượt) ngã trong một CHUYẾN ĐI.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `take a trip`: đi một chuyến\n- `business trip`: chuyến công tác
+- `take a trip`: đi một chuyến
+- `business trip`: chuyến công tác
+- `cross-country road trip`: chuyến du lịch lái xe xuyên quốc gia
+- `unforgettable day trip`: chuyến đi chơi trong ngày khó quên
+- `round trip ticket`: vé đi khứ hồi trọn gói
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went on a trip to the mountains.

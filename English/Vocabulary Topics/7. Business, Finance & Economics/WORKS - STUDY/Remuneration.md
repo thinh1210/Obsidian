@@ -2,8 +2,10 @@
 *n.*
 > /rɪˌmjuː.nəˈreɪ.ʃən/
 
+![[remuneration.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money paid for work or a service
@@ -13,8 +15,11 @@
 💡 Rì mua nơ rách (remuneration) nên thù lao bèo bọt.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``financial remuneration`: thù lao tài chính`
-- ``remuneration package`: gói thù lao`
+- `financial remuneration`: thù lao tài chính
+- `remuneration package`: gói thù lao
+- `remuneration review`: kỳ rà soát điều chỉnh mức lương thưởng đãi ngộ
+- `adequate remuneration`: mức thù lao trả công thỏa đáng
+- `performance-based remuneration`: chế độ trả lương thưởng theo hiệu suất làm việc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He demanded fair remuneration for his effort.

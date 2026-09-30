@@ -2,8 +2,10 @@
 *n.*
 > /ˈɑː.tə.fækt/
 
+![[artifact.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object made by a human being, typically an item of cultural or historical interest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultural artifact`: hiện vật văn hóa
 - `ancient artifact`: cổ vật cổ đại
+- `excavate artifacts`: khai quật hiện vật cổ
+- `burial artifacts`: đồ tùy táng / hiện vật chôn theo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum has a collection of ancient Roman artifacts.

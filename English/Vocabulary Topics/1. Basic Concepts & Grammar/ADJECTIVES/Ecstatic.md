@@ -2,8 +2,10 @@
 *adj.*
 > /ɪkˈstætɪk/
 
+![[ecstatic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feeling or expressing overwhelming happiness
@@ -13,7 +15,10 @@
 💡 Éc tắc (ecstatic) vì vui sướng
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``ecstatic fans`: người hâm mộ cuồng nhiệt`
+- `ecstatic fans`: người hâm mộ cuồng nhiệt
+- `ecstatic over/about`: vui sướng tột độ về
+- `ecstatic response`: phản hồi đầy phấn khích
+- `in an ecstatic state`: trong trạng thái ngây ngất mê ly
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ecstatic joy.

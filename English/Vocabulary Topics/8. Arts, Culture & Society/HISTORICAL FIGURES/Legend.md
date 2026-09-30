@@ -2,8 +2,10 @@
 *n.*
 > /ˈledʒənd/
 
+![[legend.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional story sometimes popularly regarded as historical but not authenticated
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local legend`: huyền thoại địa phương
 - `living legend`: huyền thoại sống
+- `legend has it that`: truyền thuyết kể rằng
+- `the stuff of legends`: điều phi thường đi vào huyền thoại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* According to legend, King Arthur pulled the sword from the stone.

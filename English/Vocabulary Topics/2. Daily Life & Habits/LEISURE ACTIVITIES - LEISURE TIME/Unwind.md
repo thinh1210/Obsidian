@@ -2,8 +2,10 @@
 *v*
 > /ˌʌnˈwaɪnd/
 
+![[unwind.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relax after a period of work or tension.
@@ -13,7 +15,11 @@
 💡 Un (không) + wind (cuộn) -> mở cuộn dây ra, tức là xả hơi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `unwind after work`: xả hơi sau giờ làm\n- `unwind with a book`: thư giãn với một cuốn sách
+- `unwind after work`: xả hơi sau giờ làm
+- `unwind with a book`: thư giãn với một cuốn sách
+- `unwind with a glass of wine`: nhâm nhi ly rượu vang để xả hơi
+- `perfect way to unwind`: cách thư giãn xả stress hoàn hảo
+- `unwind after a stressful day`: xả hơi sau một ngày căng thẳng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A hot bath helps me unwind.

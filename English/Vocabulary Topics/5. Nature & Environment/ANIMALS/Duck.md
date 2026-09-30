@@ -2,8 +2,10 @@
 *noun*
 > /dʌk/
 
+![[duck.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wild duck`: vịt trời
 - `ugly duckling`: vịt con xấu xí
+- `like water off a duck's back`: nước đổ đầu vịt
+- `lame duck`: người bất lực / chính khách cuối nhiệm kỳ
+- `duck out of`: lủi mất / trốn tránh trách nhiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We threw breadcrumbs to the ducks swimming in the pond.

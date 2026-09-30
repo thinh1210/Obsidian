@@ -2,8 +2,10 @@
 *n.*
 > /ˈsæŋk.tʃu.er.i/
 
+![[sanctuary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place of refuge or safety; a nature reserve.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wildlife sanctuary`: khu bảo tồn động vật hoang dã
+- `bird sanctuary`: khu bảo tồn loài chim quý
+- `inner sanctuary`: chốn tĩnh tâm bình an nơi sâu thẳm
+- `seek sanctuary`: tìm nơi nương náu an toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The park is a bird sanctuary.

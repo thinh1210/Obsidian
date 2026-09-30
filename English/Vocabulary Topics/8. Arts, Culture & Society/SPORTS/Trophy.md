@@ -2,8 +2,10 @@
 *n.*
 > /ˈtrəʊ.fi/
 
+![[trophy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cup or other decorative object awarded as a prize for a victory or success.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lift the trophy`: nâng cúp vô địch
 - `trophy cabinet`: tủ trưng bày cúp
+- `hoist the trophy`: giương cao chiếc cúp vô địch
+- `trophy presentation`: lễ trao tặng cúp vô địch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The team proudly displayed their championship trophy.

@@ -2,8 +2,10 @@
 *noun*
 > /kəˈlæm.ə.ti/
 
+![[calamity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event causing great and often sudden damage or distress; a disaster.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `financial calamity`: tai họa tài chính
 - `natural calamity`: thiên tai
+- `national calamity`: quốc nạn / thảm họa quốc gia
+- `avert a calamity`: ngăn chặn một tai họa thảm khốc
+- `calamity strikes`: tai họa bất ngờ ập xuống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sudden flooding was a calamity that the city was not prepared for.

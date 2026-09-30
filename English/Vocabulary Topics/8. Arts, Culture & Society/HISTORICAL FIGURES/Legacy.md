@@ -2,8 +2,10 @@
 *n.*
 > /ˈleɡəsi/
 
+![[legacy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something left or handed down by a predecessor
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rich legacy`: di sản phong phú
 - `leave a legacy`: để lại di sản
+- `enduring legacy`: di sản trường tồn
+- `leave a lasting legacy`: để lại di sản sâu đậm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The writer left a legacy of beautiful poems.

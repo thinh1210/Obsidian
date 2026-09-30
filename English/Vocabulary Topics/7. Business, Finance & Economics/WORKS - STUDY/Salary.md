@@ -2,8 +2,10 @@
 *n.*
 > /ˈsæl.ər.i/
 
+![[salary.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money that employees receive for doing their job, usually paid every month
@@ -13,8 +15,11 @@
 💡 Sa lơ rì (salary) để lấy lương tháng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``monthly salary`: lương tháng`
-- ``expect a salary`: mong đợi mức lương`
+- `monthly salary`: lương tháng
+- `expect a salary`: mong đợi mức lương
+- `salary negotiation`: cuộc đàm phán thương thảo về mức lương
+- `competitive salary`: mức lương hấp dẫn có tính cạnh tranh cao
+- `starting salary`: mức lương khởi điểm cho người mới vào nghề
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The position offers a competitive salary.

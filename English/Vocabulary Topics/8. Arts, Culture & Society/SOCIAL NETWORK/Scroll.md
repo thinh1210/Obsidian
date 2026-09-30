@@ -2,8 +2,10 @@
 *verb*
 > /skrəʊl/
 
+![[scroll.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move text or graphics up, down, or across a computer screen or mobile device
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `scroll down`: cuộn xuống dưới
+- `infinite scroll`: tính năng cuộn trang vô tận
+- `mindless scrolling`: lướt màn hình vô thức không mục đích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I was just scrolling through my Facebook feed when I saw your photo.

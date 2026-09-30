@@ -2,8 +2,10 @@
 *adj.*
 > /ˈpʌŋktʃuəl/
 
+![[punctual.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Happening or doing something at the agreed or proper time
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `punctual arrival`: đến đúng giờ
+- `punctual person`: người luôn đúng giờ
+- `prompt and punctual`: nhanh nhẹn và đúng hẹn
+- `maintain punctual attendance`: duy trì việc đi học/đi làm đúng giờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please be punctual for dinner.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌcɑːbən ˌsiːkweˈstreɪʃn/
 
+![[carbon_sequestration.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A natural or artificial process by which carbon dioxide is removed from the atmosphere and held in solid or liquid form.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `forest carbon sequestration`: sự cô lập carbon bằng rừng
 - `carbon sequestration technology`: công nghệ cô lập carbon
+- `soil carbon sequestration`: cô lập carbon trong lòng đất
+- `promote carbon sequestration`: thúc đẩy lưu trữ cô lập carbon
+- `terrestrial carbon sequestration`: sự cô lập carbon trên đất liền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Planting trees is an effective method of carbon sequestration.

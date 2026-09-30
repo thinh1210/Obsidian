@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɔːtɪkʌltʃər/
 
+![[horticulture.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of garden cultivation and management.

@@ -2,8 +2,10 @@
 *Noun*
 > /kɒst/
 
+![[cost.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money needed to buy, do, or make something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `living costs`: chi phí sinh hoạt
 - `cut costs`: giảm chi phí
+- `fixed costs`: các chi phí cố định phải trả hàng tháng
+- `variable costs`: các chi phí phát sinh biến đổi
+- `cost of living`: chi phí sinh hoạt đắt đỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cost of fixing the roof was much higher than we expected.

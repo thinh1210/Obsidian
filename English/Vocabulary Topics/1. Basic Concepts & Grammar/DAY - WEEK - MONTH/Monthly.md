@@ -2,8 +2,10 @@
 *adj, adv*
 > /ˈmʌnθli/
 
+![[monthly.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done, produced, or occurring once a month.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `monthly salary`: lương hằng tháng
+- `monthly installment`: khoản trả góp hằng tháng
+- `monthly subscription`: gói đăng ký hằng tháng
+- `monthly report`: báo cáo hằng tháng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We pay the rent monthly.

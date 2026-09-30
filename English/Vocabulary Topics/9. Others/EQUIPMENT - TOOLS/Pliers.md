@@ -2,8 +2,10 @@
 *noun*
 > /ˈplaɪ.əz/
 
+![[pliers.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** pincers with parallel flat notched surfaces, used for gripping small objects or bending wire.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `needle-nose pliers`: kìm mũi nhọn
 - `a pair of pliers`: một cái kìm
+- `pair of pliers`: một chiếc kìm kẹp
+- `grip with pliers`: kẹp chặt bằng kìm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Use a pair of pliers to bend that wire.

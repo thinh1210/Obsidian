@@ -2,8 +2,10 @@
 *n.*
 > /ˈpraʊ.əs/
 
+![[prowess.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Skill or expertise in a particular activity or field; bravery in battle.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `athletic prowess`: bản lĩnh thể thao phi thường
 - `military prowess`: tài nghệ quân sự
+- `physical prowess`: thể lực phi thường
+- `display sporting prowess`: phô diễn tài năng thể thao xuất chúng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The young player showed outstanding athletic prowess during the tournament.

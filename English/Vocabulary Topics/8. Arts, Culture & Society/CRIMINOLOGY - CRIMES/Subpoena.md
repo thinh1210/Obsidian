@@ -2,8 +2,10 @@
 *noun*
 > /səˈpiːnə/
 
+![[subpoena.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A writ ordering a person to attend a court
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `issue a subpoena`: ban hành lệnh hầu tòa
 - `serve a subpoena`: giao lệnh triệu tập
+- `comply with a subpoena`: chấp hành nghiêm chỉnh trát đòi hầu tòa
+- `quash a subpoena`: tuyên bố hủy bỏ trát triệu tập của tòa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She received a subpoena to testify as a witness in the trial.

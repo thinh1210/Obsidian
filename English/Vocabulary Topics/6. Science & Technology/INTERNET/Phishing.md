@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɪʃ.ɪŋ/
 
+![[phishing.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of online fraud where attackers deceive people into revealing personal information by pretending to be trustworthy entities.

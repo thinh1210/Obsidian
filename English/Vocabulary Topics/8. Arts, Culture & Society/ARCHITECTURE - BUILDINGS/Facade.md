@@ -2,8 +2,10 @@
 *n.*
 > /fəˈsɑːd/
 
+![[facade.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The principal front of a building, that faces on to a street or open space
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `glass facade`: mặt tiền kính
 - `building facade`: mặt tiền tòa nhà
+- `ornate facade`: mặt tiền chạm khắc hoa văn tinh xảo
+- `facade restoration`: sự trùng tu phục hồi mặt tiền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The historic building has a beautiful stone facade.

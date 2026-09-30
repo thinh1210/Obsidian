@@ -2,8 +2,10 @@
 *v*
 > /beɪk/
 
+![[bake.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cook food by dry heat without direct exposure to a flame.
@@ -13,7 +15,11 @@
 💡 Bake - Bê cái bánh đi nướng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `bake a cake`: nướng bánh\n- `baking powder`: bột nở
+- `bake a cake`: nướng bánh
+- `baking powder`: bột nở
+- `freshly baked`: mới ra lò còn nóng hổi
+- `bake from scratch`: nướng bánh tự làm từ nguyên liệu tươi thô
+- `home-baked cookies`: bánh quy tự nướng ở nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love to bake cookies.

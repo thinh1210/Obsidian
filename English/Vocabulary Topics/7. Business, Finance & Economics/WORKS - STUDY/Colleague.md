@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɒl.iːɡ/
 
+![[colleague.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person that you work with, especially in a profession
@@ -13,8 +15,11 @@
 💡 Có lịch (colleague) đi chơi cùng đồng nghiệp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``former colleague`: đồng nghiệp cũ`
-- ``work colleague`: đồng nghiệp tại nơi làm việc`
+- `former colleague`: đồng nghiệp cũ
+- `work colleague`: đồng nghiệp tại nơi làm việc
+- `supportive colleague`: người đồng nghiệp luôn nhiệt tình giúp đỡ
+- `consult a colleague`: tham vấn ý kiến của người đồng nghiệp
+- `peer colleagues`: các đồng nghiệp cùng cấp bậc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am going to lunch with my colleagues.

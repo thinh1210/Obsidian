@@ -2,8 +2,10 @@
 *noun*
 > /sɑːˈkɒfəɡəs/
 
+![[sarcophagus.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stone coffin, typically adorned with a sculpture or inscription and associated with the ancient civilizations of Egypt, Rome, and Greece
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `limestone sarcophagus`: quan tài bằng đá vôi
 - `royal sarcophagus`: quan tài đá hoàng gia
+- `open the sarcophagus`: mở nắp quan tài đá
+- `granite sarcophagus`: quan tài bằng đá hoa cương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The mummy was found inside a beautifully carved sarcophagus.

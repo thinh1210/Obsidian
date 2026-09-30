@@ -2,8 +2,10 @@
 *noun*
 > /mɪˈleniəm/
 
+![[millennium.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of a thousand years.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the third millennium`: thiên niên kỷ thứ ba
+- `turn of the millennium`: bước ngoặt chuyển giao thiên niên kỷ
+- `for over a millennium`: trong hơn một thiên niên kỷ
+- `millennium development goals`: các mục tiêu phát triển thiên niên kỷ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The year 2000 marked the new millennium.

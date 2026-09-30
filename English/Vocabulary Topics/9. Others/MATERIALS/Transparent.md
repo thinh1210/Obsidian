@@ -2,8 +2,10 @@
 *adjective.*
 > /trænsˈpærənt/
 
+![[transparent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Allowing light to pass through so that objects behind can be distinctly seen; open and honest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `transparent glass`: kính trong suốt
 - `transparent process`: quy trình minh bạch
+- `transparent government`: chính phủ minh bạch công khai
+- `transparent lie`: lời nói dối lộ liễu ai cũng thấy rõ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The phone case is transparent, so you can see the original design.

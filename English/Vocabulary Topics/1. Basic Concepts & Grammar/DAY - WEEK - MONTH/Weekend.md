@@ -2,8 +2,10 @@
 *noun*
 > /ˌwiːkˈend/
 
+![[weekend.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Saturday and Sunday.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `have a good weekend`: cuối tuần vui vẻ
+- `long weekend`: kỳ nghỉ cuối tuần dài ngày
+- `over the weekend`: trong suốt dịp cuối tuần
+- `weekend getaway`: chuyến đi chơi ngắn cuối tuần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to relax on the weekend.

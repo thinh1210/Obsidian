@@ -2,8 +2,10 @@
 *n.*
 > /stɑːf/
 
+![[staff.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** All the people employed by a particular organization
@@ -13,7 +15,11 @@
 💡 Sợ "táp" trúng sếp nên "staff" làm việc rất nghiêm túc
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``staff member`: thành viên đội ngũ nhân viên
+- `staff member`: thành viên đội ngũ nhân viên
+- `support staff`: đội ngũ cán bộ trợ giúp nghiệp vụ
+- `short of staff`: thiếu hụt trầm trọng nhân lực phục vụ
+- `staff turnover rate`: tỷ lệ luân chuyển thay thế nhân viên
+- `retain experienced staff`: giữ chân nguồn nhân sự có bề dày kinh nghiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The hotel staff were very helpful.

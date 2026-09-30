@@ -2,8 +2,10 @@
 *n.*
 > /ɪˈsteɪt/
 
+![[estate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An extensive area of land in the country, usually with a large house, owned by one person or family.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `real estate`: bất động sản
 - `housing estate`: khu đô thị
+- `real estate investment trust`: quỹ tín thác đầu tư bất động sản (REIT)
+- `industrial estate`: khu công nghiệp tập trung
+- `gated estate`: khu đô thị khép kín có bảo vệ nghiêm ngặt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He works as a real estate agent in New York.

@@ -2,8 +2,10 @@
 *verb*
 > /ˈprɒmɪs/
 
+![[promise.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Assure someone that one will definitely do, give, or arrange something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Make a promise`: Đưa ra lời hứa
+- `keep a promise`: giữ đúng lời đã hứa
+- `break a promise`: thất hứa bội ước bội thề
+- `promise the moon`: hứa hươu hứa vượn (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I promise to love you.

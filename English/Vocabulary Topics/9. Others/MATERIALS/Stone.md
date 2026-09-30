@@ -2,8 +2,10 @@
 *noun.*
 > /stəʊn/
 
+![[stone.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Hard solid nonmetallic mineral matter of which rock is made, especially as a building material.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stone wall`: bức tường đá
 - `carved stone`: đá chạm khắc
+- `leave no stone unturned`: tìm kiếm mọi ngóc ngách không bỏ sót gì (idiom)
+- `carved in stone`: quy tắc bất di bất dịch không thể sửa đổi (idiom)
+- `building stone`: đá khối xây dựng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The castle walls were built of solid stone.

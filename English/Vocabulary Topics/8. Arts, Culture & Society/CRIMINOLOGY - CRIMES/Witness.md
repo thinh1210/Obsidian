@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɪtnəs/
 
+![[witness.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sees an event, typically a crime or accident, take place
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `eye witness`: nhân chứng mục kích
 - `call a witness`: gọi nhân chứng
+- `expert witness`: nhân chứng giám định chuyên môn trước tòa
+- `witness testimony`: lời khai chứng cứ trực tiếp của nhân chứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police asked if there were any witnesses to the accident.

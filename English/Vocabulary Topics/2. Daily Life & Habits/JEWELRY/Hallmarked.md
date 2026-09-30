@@ -2,8 +2,10 @@
 *adjective*
 > /ˈhɔːl.mɑːkt/
 
+![[hallmarked.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Stamped with a mark indicating standard of purity.
@@ -13,7 +15,10 @@
 💡 Đánh dấu (mark) ở sảnh (hall).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `hallmarked silver: bạc có dấu kiểm định`
+- `hallmarked silver`: bạc có dấu kiểm định
+- `hallmarked gold`: vàng có dấu kiểm định tuổi vàng
+- `official hallmark`: con dấu kiểm định chính thức
+- `hallmarked jewelry`: trang sức có tem mác kiểm định
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ensure the gold is hallmarked.

@@ -2,8 +2,10 @@
 *noun*
 > /prəˈpəʊzl/
 
+![[proposal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An offer of marriage.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A marriage proposal`: Một lời cầu hôn
+- `pop the question / propose`: ngỏ lời cầu hôn (idiom)
+- `accept a marriage proposal`: nhận lời cầu hôn ngọt ngào
+- `romantic proposal`: màn cầu hôn lãng mạn khó quên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His proposal was very romantic.

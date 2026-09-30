@@ -2,8 +2,10 @@
 *v.*
 > /ˈmɒd.ɪ.faɪ/
 
+![[modify.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To change something slightly, especially in order to make it better
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `modify the design`: sửa đổi thiết kế
 - `modify behavior`: thay đổi hành vi
+- `genetically modified`: biến đổi gen (GMO)
+- `modify a design`: chỉnh sửa hoàn thiện bản thiết kế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We decided to modify the original design to save costs.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈekwəti/
 
+![[equity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The value of shares issued by a company, or the value of an owner's share in a property.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brand equity`: giá trị thương hiệu
 - `private equity`: quỹ đầu tư tư nhân
+- `home equity`: giá trị sở hữu ròng của nhà đất
+- `equity financing`: tài trợ bằng phát hành cổ phần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She built up equity in her home by paying down the mortgage over ten years.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈstɒpˌəʊ.vər/
 
+![[stopover.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short stay in a place that you make while you are on a longer journey

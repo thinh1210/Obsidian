@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɑː.mə.ni/
 
+![[harmony.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The combination of simultaneously sounded musical notes to produce chords and chord progressions with a pleasing effect.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `vocal harmony`: hòa âm giọng hát
 - `perfect harmony`: sự hài hòa hoàn hảo
+- `live in harmony`: sống hòa thuận, êm ấm
+- `harmonic progression`: chuỗi tiến trình hòa thanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The two singers sang in perfect harmony during the chorus.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈedɪfɪs/
 
+![[edifice.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A large, imposing building, typically a grand or complex one
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `grand edifice`: công trình vĩ đại
 - `impose an edifice`: xây dựng một kiến trúc to lớn
+- `imposing edifice`: tòa nhà đồ sộ hùng vĩ
+- `crumbling edifice`: tòa nhà nguy nga đang xuống cấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new museum is a grand edifice of steel and glass.

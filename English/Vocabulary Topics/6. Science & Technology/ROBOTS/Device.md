@@ -2,8 +2,10 @@
 *noun.*
 > /dɪˈvaɪs/
 
+![[device.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or machine that has been invented for a particular purpose
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mobile device`: thiết bị di động
+- `robotic device`: thiết bị robot
+- `input device`: thiết bị đầu vào
+- `peripheral device`: thiết bị ngoại vi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A smartphone is a highly advanced electronic device.

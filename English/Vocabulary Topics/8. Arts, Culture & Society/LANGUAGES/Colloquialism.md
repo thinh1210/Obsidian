@@ -2,8 +2,10 @@
 *n.*
 > /kəˈləʊkwiəlɪzəm/
 
+![[colloquialism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A word or phrase that is not formal or literary, typically one used in ordinary conversation
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `regional colloquialism`: lối nói thông tục vùng miền
+- `rich in colloquialisms`: giàu từ ngữ thông tục/khẩu ngữ
+- `avoid colloquialisms`: tránh dùng khẩu ngữ thân mật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* 'Gonna' is a colloquialism for 'going to'.

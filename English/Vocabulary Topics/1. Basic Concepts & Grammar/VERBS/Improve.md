@@ -2,8 +2,10 @@
 *Verb*
 > /ɪmˈpruːv/
 
+![[improve.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To get better, or to make something better.
@@ -13,7 +15,10 @@
 💡 In rùa (improve) để cải thiện tốc độ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `improve performance`: cải thiện hiệu suất\n- `room to improve`: có thể cải thiện
+- `improve performance`: cải thiện hiệu suất
+- `room to improve`: có thể cải thiện
+- `improve quality of life`: cải thiện chất lượng cuộc sống
+- `vastly improve`: cải thiện vượt bậc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My English improved.

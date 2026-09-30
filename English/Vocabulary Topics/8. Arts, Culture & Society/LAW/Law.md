@@ -2,8 +2,10 @@
 *noun*
 > /lɔː/
 
+![[law.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** A1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of rules that a society or government develops in order to deal with crime, business agreements, and social relationships.

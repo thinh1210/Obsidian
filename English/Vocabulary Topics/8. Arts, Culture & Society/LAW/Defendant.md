@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈfendənt/
 
+![[defendant.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person or organization that is being accused in a court of law

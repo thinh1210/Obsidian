@@ -2,8 +2,10 @@
 *n.*
 > /ˈtʊərɪzəm/
 
+![[tourism.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The business of providing services for people on holiday.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `boost tourism`: thúc đẩy du lịch
+- `sustainable tourism`: du lịch bền vững
+- `mass tourism`: du lịch đại trà ồ ạt
+- `tourism boom`: sự bùng nổ du lịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tourism brings money to the city.

@@ -2,8 +2,10 @@
 *Verb*
 > /ɪnˈkʌr.ɪdʒ/
 
+![[encourage.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make someone more likely to do something.
@@ -13,7 +15,10 @@
 💡 In cả rịch (encourage) sách để khuyến khích đọc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `encourage someone to do`: khuyến khích ai làm gì\n- `strongly encourage`: cực kỳ khuyến khích
+- `encourage someone to do`: khuyến khích ai làm gì
+- `strongly encourage`: cực kỳ khuyến khích
+- `encourage dialogue`: khuyến khích đối thoại
+- `encourage innovation`: khuyến khích đổi mới sáng tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I encourage you to try.

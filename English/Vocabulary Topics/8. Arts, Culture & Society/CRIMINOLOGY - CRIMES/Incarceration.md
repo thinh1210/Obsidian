@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˌkɑːsəˈreɪʃn/
 
+![[incarceration.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being confined in prison; imprisonment
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mass incarceration`: tình trạng giam giữ hàng loạt
 - `period of incarceration`: thời gian bị giam giữ
+- `alternatives to incarceration`: các biện pháp xử lý thay thế án phạt tù
+- `rate of incarceration`: tỷ lệ người bị giam giữ trong tù
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His incarceration lasted for three years before he was released.

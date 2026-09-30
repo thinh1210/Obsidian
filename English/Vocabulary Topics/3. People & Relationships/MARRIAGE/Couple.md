@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌpl/
 
+![[couple.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Two people who are married or in a romantic relationship.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A married couple`: Một cặp vợ chồng
+- `happily married couple`: cặp vợ chồng sống hạnh phúc viên mãn
+- `power couple`: cặp đôi quyền lực thành đạt
+- `odd couple`: cặp đôi đũa lệch thú vị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are a cute couple.

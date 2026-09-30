@@ -2,8 +2,10 @@
 *v.*
 > /wɪn/
 
+![[win.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Be successful or victorious in a contest or conflict.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `win a prize`: giành giải thưởng
 - `win a match`: thắng một trận đấu
+- `win hands down`: thắng dễ dàng tuyệt đối
+- `win at all costs`: quyết thắng bằng mọi giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I hope our team will win today.

@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈtɪəriə(r)/
 
+![[interior.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The inside part of a building or room
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `interior design`: thiết kế nội thất
 - `building interior`: bên trong tòa nhà
+- `interior decorator`: chuyên gia bài trí nội thất
+- `spacious interior`: không gian bên trong rộng rãi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The interior of the house was decorated in warm colors.

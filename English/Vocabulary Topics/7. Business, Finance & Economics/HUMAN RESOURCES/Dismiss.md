@@ -2,8 +2,10 @@
 *v.*
 > /dɪˈsmɪs/
 
+![[dismiss.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To terminate someone's employment; to send away
@@ -13,7 +15,11 @@
 💡 Đi "mít" (miss) buổi họp quan trọng nên bị sếp "dismiss"
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``dismiss an employee`: sa thải một nhân viên
+- `dismiss an employee`: sa thải một nhân viên
+- `summarily dismiss`: sa thải tức khắc không cần báo trước
+- `wrongfully dismissed`: bị sa thải trái với quy định pháp luật
+- `grounds for dismissal`: các căn cứ chính đáng để sa thải
+- `unfair dismissal claim`: đơn kiện vì bị đuổi việc vô căn cứ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The manager had to dismiss him for being late repeatedly.

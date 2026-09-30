@@ -2,8 +2,10 @@
 *verb/noun*
 > /ˈvɪz.ɪt/
 
+![[visit.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Go to see and spend time with (someone) socially.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay a visit`: đến thăm
+- `pay a visit to a friend`: ghé thăm một người bạn thân
+- `surprise visit`: chuyến viếng thăm bất ngờ không báo trước
+- `return the visit`: đáp lễ lại chuyến thăm hỏi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I visit my grandparents often.

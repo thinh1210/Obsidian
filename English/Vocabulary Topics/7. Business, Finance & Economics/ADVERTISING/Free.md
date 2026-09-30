@@ -2,8 +2,10 @@
 *adjective*
 > /friː/
 
+![[free.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Given or available without charge.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `free sample`: mẫu thử miễn phí
 - `free shipping`: giao hàng miễn phí
+- `free trial`: dùng thử miễn phí
+- `buy one get one free`: mua một tặng một
+- `free of charge`: hoàn toàn miễn phí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are offering free coffee today.

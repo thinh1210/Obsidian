@@ -2,8 +2,10 @@
 *v.*
 > /pleɪ/
 
+![[play.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take part in a sport or contest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `play soccer`: chơi bóng đá
 - `play fair`: chơi công bằng, chơi đẹp
+- `play by the rules`: chơi đúng luật, tuân thủ quy tắc
+- `foul play`: hành vi chơi xấu / tiểu xảo phạm luật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children like to play in the park.

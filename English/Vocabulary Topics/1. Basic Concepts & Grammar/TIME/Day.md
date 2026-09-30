@@ -2,8 +2,10 @@
 *n.*
 > /deɪ/
 
+![[day.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 24 hours
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `day off`: ngày nghỉ
+- `day after day`: ngày qua ngày
+- `make one's day`: làm ai đó vô cùng vui vẻ
+- `seize the day`: nắm bắt từng khoảnh khắc (Carpe diem)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What day is it today?

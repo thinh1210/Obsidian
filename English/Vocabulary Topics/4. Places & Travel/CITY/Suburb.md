@@ -2,8 +2,10 @@
 *n.*
 > /ˈsʌbɜːb/
 
+![[suburb.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area outside the center of a city where people live.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `live in the suburbs`: sống ở ngoại ô
+- `affluent suburb`: khu ngoại ô giàu có
+- `leafy suburb`: khu ngoại ô rợp bóng cây xanh
+- `in the suburbs`: ở khu vực ngoại ô
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live in a quiet suburb.

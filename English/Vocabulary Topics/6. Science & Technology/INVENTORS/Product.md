@@ -2,8 +2,10 @@
 *n.*
 > /ˈprɒd.ʌkt/
 
+![[product.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that is made to be sold
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `new product`: sản phẩm mới
 - `quality product`: sản phẩm chất lượng
+- `niche product`: sản phẩm thị trường ngách
+- `product differentiation`: sự khác biệt hóa sản phẩm
+- `product lifecycle`: vòng đời của sản phẩm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are launching a new product this month.

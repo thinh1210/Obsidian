@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈdʌktaɪl/
 
+![[ductile.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to be deformed plastically without fracturing; specifically, capable of being drawn out into thin threads or wires.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ductile material`: vật liệu dễ kéo sợi
 - `ductile iron`: sắt dễ uốn
+- `ductile metal`: kim loại có tính dẻo dễ kéo sợi
+- `ductile deformation`: biến dạng dẻo không gãy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gold is the most ductile of all metals, followed by copper.

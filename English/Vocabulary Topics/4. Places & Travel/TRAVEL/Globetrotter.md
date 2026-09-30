@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡləʊbˌtrɒt.ər/
 
+![[globetrotter.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who often travels to a lot of different countries

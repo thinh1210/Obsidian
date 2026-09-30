@@ -2,8 +2,10 @@
 *n.*
 > /təˈnæs.ə.ti/
 
+![[tenacity.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or fact of being very determined; determination.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `remarkable tenacity`: sự kiên trì đáng chú ý
 - `tenacity of purpose`: sự kiên trì theo đuổi mục tiêu
+- `dogged tenacity`: sự bền bỉ gan góc không buông xuôi
+- `show tenacity`: thể hiện lòng quyết tâm bền bỉ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The defender showed great tenacity, refusing to let the attacker pass.

@@ -2,8 +2,10 @@
 *Noun*
 > /hoʊˈtɛl/
 
+![[hotel.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Lưu trú, Dẫn đường & Cẩm nang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building where you pay to have a room to sleep in.
@@ -13,7 +15,11 @@
 💡 HỒ TÈO (Hotel) nằm trong khách sạn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `book a hotel`: đặt khách sạn\n- `hotel room`: phòng khách sạn
+- `book a hotel`: đặt khách sạn
+- `hotel room`: phòng khách sạn
+- `five-star luxury hotel`: khách sạn nghỉ dưỡng sang trọng 5 sao
+- `check into a hotel`: làm thủ tục nhận phòng khách sạn
+- `boutique hotel`: khách sạn phong cách boutique độc đáo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stayed at a five-star hotel.

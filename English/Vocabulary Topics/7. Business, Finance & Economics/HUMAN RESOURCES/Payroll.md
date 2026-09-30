@@ -2,8 +2,10 @@
 *n.*
 > /ˈpeɪ.rəʊl/
 
+![[payroll.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A list of employees receiving wages and the total amount paid
@@ -13,7 +15,11 @@
 💡 "Pay" (trả tiền) theo cái "roll" (cuộn giấy danh sách) chính là bảng lương
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``on the payroll`: có tên trong bảng lương công ty
+- `on the payroll`: có tên trong bảng lương công ty
+- `run payroll`: thực hiện chốt và chuyển khoản bảng lương
+- `payroll tax`: các khoản thuế trích nộp theo bảng lương
+- `remove from payroll`: loại bỏ tên khỏi danh sách chi lương
+- `payroll processing`: quy trình tính toán và phê duyệt chi trả lương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company has 500 employees on its payroll.

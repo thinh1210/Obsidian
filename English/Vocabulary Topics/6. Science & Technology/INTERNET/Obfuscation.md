@@ -2,8 +2,10 @@
 *noun*
 > /ˌɒb.fəˈskeɪ.ʃən/
 
+![[obfuscation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of making something unclear or difficult to understand, particularly used to hide code or data from analysis.

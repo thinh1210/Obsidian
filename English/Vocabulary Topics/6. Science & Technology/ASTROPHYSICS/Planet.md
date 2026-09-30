@@ -2,8 +2,10 @@
 *noun*
 > /ˈplæn.ɪt/
 
+![[planet.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large round object in space that orbits a star.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `planet Earth`: hành tinh Trái Đất
 - `red planet`: hành tinh đỏ
+- `gas giant planet`: hành tinh khí khổng lồ
+- `terrestrial planet`: hành tinh đất đá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We live on the planet Earth, which has life.

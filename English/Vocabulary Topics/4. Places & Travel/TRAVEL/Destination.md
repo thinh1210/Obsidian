@@ -2,8 +2,10 @@
 *noun*
 > /ˌdes.tɪˈneɪ.ʃən/
 
+![[destination.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where someone is going

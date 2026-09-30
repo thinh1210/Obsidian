@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡɑːrdən/
 
+![[garden.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of ground, often near a house, used for growing flowers, fruit, or vegetables.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `botanical garden`: vườn bách thảo
 - `in the garden`: trong vườn
+- `vegetable garden`: vườn trồng rau
+- `back garden`: khu vườn phía sau nhà
+- `tend the garden`: chăm sóc cây cối trong vườn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is watering the garden.

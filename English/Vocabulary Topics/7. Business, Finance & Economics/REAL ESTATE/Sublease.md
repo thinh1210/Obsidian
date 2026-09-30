@@ -2,8 +2,10 @@
 *v.*
 > /ˌsʌbˈliːs/
 
+![[sublease.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Lease (a property) to a subtenant.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sublease agreement`: hợp đồng cho thuê lại
 - `right to sublease`: quyền cho thuê lại
+- `sublease to a third party`: cho bên thứ ba thuê lại mặt bằng
+- `prohibit subleasing`: nghiêm cấm hành vi tự ý cho thuê lại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He got permission from his landlord to sublease his room during the summer holiday.

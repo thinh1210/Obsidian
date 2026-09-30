@@ -2,8 +2,10 @@
 *Noun*
 > /ˈpɒfɪt/
 
+![[profit.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make a profit`: tạo ra lợi nhuận
 - `net profit`: lợi nhuận ròng
+- `net profit margin`: biên lợi nhuận ròng
+- `take-profit level`: mức giá ấn định để chốt lời
+- `turn a steady profit`: duy trì lợi nhuận ổn định qua các kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She sold her old textbook for a small profit.

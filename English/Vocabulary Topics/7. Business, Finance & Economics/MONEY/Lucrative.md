@@ -2,8 +2,10 @@
 *adjective*
 > /ˈluː.krə.tɪv/
 
+![[lucrative.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing a great deal of profit
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lucrative business`: kinh doanh sinh lời
+- `lucrative contract`: bản hợp đồng mang lại nguồn lợi kếch xù
+- `lucrative market`: thị trường sinh lời màu mỡ
+- `prove lucrative`: chứng tỏ mang lại hiệu quả kinh tế cao
+- `lucrative career`: con đường sự nghiệp hái ra nhiều tiền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She gave up a lucrative career in banking to become an artist.

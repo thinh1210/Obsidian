@@ -2,8 +2,10 @@
 *adj.*
 > /ˈmentl/
 
+![[mental.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the mind
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mental health`: sức khỏe tâm lý
 - `mental breakdown`: suy sụp tinh thần
+- `mental stamina`: sức bền dẻo dai của tinh thần
+- `mental anguish`: nỗi thống khổ dằn vặt trong tâm can
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mental health is very important.

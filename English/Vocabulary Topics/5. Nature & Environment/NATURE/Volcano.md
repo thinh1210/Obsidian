@@ -2,8 +2,10 @@
 *Noun*
 > /vɒlˈkeɪnəʊ/
 
+![[volcano.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mountain or hill with a crater through which lava and gas erupt.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `active volcano`: núi lửa đang hoạt động
 - `volcano eruption`: sự phun trào núi lửa
+- `extinct volcano`: núi lửa đã tắt từ lâu
+- `volcano spewing ash`: núi lửa phun tro bụi mịt mù
+- `volcano eruption forecast`: dự báo vụ phun trào núi lửa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* People were evacuated before the volcano erupted.

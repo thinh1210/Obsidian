@@ -2,8 +2,10 @@
 *noun*
 > /ˌhəʊ.mi.əʊˈsteɪ.sɪs/
 
+![[homeostasis.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tendency of biological systems to maintain stable internal conditions despite external changes.

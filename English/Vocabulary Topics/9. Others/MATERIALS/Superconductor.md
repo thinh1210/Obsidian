@@ -2,8 +2,10 @@
 *noun.*
 > /ˌsuːpəkənˈdʌktə(r)/
 
+![[superconductor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance capable of conducting electricity without resistance when cooled to a very low temperature.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high-temperature superconductor`: chất siêu dẫn nhiệt độ cao
 - `superconductor technology`: công nghệ siêu dẫn
+- `superconductor magnet`: nam châm siêu dẫn cực mạnh
+- `lossless superconductor`: siêu dẫn không thất thoát điện năng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new lab equipment uses superconductors to achieve zero electrical resistance.

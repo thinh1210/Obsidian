@@ -2,8 +2,10 @@
 *n*
 > /kənˈsjuː.mər/
 
+![[consumer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who buys goods
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `consumer goods`: hàng tiêu dùng
+- `consumer behavior`: hành vi tiêu dùng của khách hàng
+- `consumer rights`: quyền lợi của người tiêu dùng
+- `consumer confidence`: niềm tin của người tiêu dùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Consumers want quality.

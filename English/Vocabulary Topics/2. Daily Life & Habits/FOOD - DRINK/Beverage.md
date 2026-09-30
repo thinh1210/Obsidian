@@ -2,8 +2,10 @@
 *n.*
 > /ˈbev.ər.ɪdʒ/
 
+![[beverage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A drink, especially one other than water.

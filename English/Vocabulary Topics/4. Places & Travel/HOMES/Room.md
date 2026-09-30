@@ -2,8 +2,10 @@
 *noun*
 > /ruːm/
 
+![[room.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part or division of a building enclosed by walls, floor, and ceiling.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a single room`: phòng đơn
 - `make room for`: nhường chỗ cho
+- `living room`: phòng khách
+- `room and board`: tiền ăn ở trọn gói
+- `room to maneuver`: khoảng không linh hoạt để xoay xở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This room is very dark.

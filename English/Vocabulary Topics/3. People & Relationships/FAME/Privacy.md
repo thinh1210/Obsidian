@@ -2,8 +2,10 @@
 *n.*
 > /ˈprɪvəsi/
 
+![[privacy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being free from public attention.
@@ -13,7 +15,10 @@
 💡 Private (riêng tư) -> privacy.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `invade privacy: xâm phạm quyền riêng tư`
+- `invade privacy`: xâm phạm quyền riêng tư
+- `invasion of privacy`: sự xâm phạm đời tư trái phép
+- `privacy settings`: cài đặt bảo vệ quyền riêng tư
+- `protect one's privacy`: bảo vệ bí mật đời tư cá nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Celebrities need privacy.

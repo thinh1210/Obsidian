@@ -2,8 +2,10 @@
 *adj.*
 > /kənˈdʒestɪd/
 
+![[congested.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Too blocked or crowded and causing difficulties.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `highly congested`: rất tắc nghẽn
+- `heavily congested`: tắc nghẽn nghiêm trọng
+- `congested traffic`: giao thông ùn ứ
+- `congested throat`: nghẹt mũi, đau rát cổ họng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The roads are highly congested.

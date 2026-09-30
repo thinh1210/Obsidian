@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈvaɪs/
 
+![[device.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electronic device`: thiết bị điện tử
 - `smart device`: thiết bị thông minh
+- `handheld device`: thiết bị cầm tay
+- `medical device`: thiết bị y tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please turn off your mobile devices before the flight takes off.

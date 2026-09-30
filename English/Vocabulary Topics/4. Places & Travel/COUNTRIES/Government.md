@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɡʌvərnmənt/
 
+![[government.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The governing body of a nation, state, or community.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Democratic government`: Chính phủ dân chủ
+- `local government`: chính quyền địa phương
+- `federal government`: chính phủ liên bang
+- `overthrow a government`: lật đổ một chính phủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government passed a new law.

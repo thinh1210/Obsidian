@@ -2,8 +2,10 @@
 *noun*
 > /ˈæl.fə.bet/
 
+![[alphabet.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a set of letters arranged in a fixed order, used for writing a language

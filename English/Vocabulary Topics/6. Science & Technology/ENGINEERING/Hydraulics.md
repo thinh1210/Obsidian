@@ -2,8 +2,10 @@
 *noun*
 > /haɪˈdrɔːlɪks/
 
+![[hydraulics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science and technology concerned with the conveyance of liquids through pipes and channels, especially as a source of mechanical force or control.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hydraulic pump`: bơm thủy lực
 - `hydraulic system`: hệ thống thủy lực
+- `hydraulic brake`: phanh thủy lực
+- `hydraulic cylinder`: xi lanh thủy lực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Heavy machinery like excavators rely on hydraulics to lift heavy loads.

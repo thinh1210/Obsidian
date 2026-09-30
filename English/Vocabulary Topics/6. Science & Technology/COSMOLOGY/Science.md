@@ -2,8 +2,10 @@
 *Noun*
 > /ˈsaɪ.əns/
 
+![[science.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The systematic study of the structure and behavior of the physical and natural world.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `space science`: khoa học vũ trụ
 - `scientific research`: nghiên cứu khoa học
+- `planetary science`: khoa học hành tinh
+- `advancement of science`: sự tiến bộ của khoa học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love science classes at school.

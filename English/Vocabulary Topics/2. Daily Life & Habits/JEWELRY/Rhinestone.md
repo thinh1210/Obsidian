@@ -2,8 +2,10 @@
 *noun*
 > /ˈraɪn.stəʊn/
 
+![[rhinestone.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An imitation diamond.
@@ -13,7 +15,10 @@
 💡 Ra (Rhin) tốn (stone) tiền mua đá giả.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `rhinestone studded: đính đá giả`
+- `rhinestone studded`: đính đá giả
+- `rhinestone brooch`: trâm cài đính đá giả kim cương
+- `sparkling rhinestones`: những viên đá giả sáng lấp lánh
+- `rhinestone-encrusted`: nạm kín đá lấp lánh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her jacket is covered in rhinestones.

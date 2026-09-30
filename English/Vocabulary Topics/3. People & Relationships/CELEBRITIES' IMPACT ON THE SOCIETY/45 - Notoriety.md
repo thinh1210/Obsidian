@@ -2,8 +2,10 @@
 *n.*
 > /ˌnəʊ.tərˈaɪ.ə.ti/
 
+![[notoriety.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being famous or well known for some bad quality.
@@ -13,7 +15,10 @@
 💡 Notorious + ety
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Gain notoriety: Đạt được sự tai tiếng`
+- `Gain notoriety`: Đạt được sự tai tiếng
+- `achieve notoriety`: trở nên mang tiếng xấu
+- `gain notoriety for misconduct`: tai tiếng vì hành vi sai trái
+- `ill notoriety`: sự ô danh tai tiếng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Notoriety for scandals.

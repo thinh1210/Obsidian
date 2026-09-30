@@ -2,8 +2,10 @@
 *noun*
 > /ˈpær.ə.saɪt/
 
+![[parasite.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organism that lives in or on an organism of another species (its host) and benefits by deriving nutrients at the other's expense.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `host and parasite`: vật chủ và vật ký sinh
 - `intestinal parasite`: ký sinh trùng đường ruột
+- `external parasite`: ngoại ký sinh trùng
+- `parasitic infection`: sự nhiễm ký sinh trùng
+- `live like a parasite`: sống bám như ký sinh trùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ticks and fleas are common external parasites that live on dogs and cats.

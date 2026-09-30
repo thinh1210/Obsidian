@@ -2,8 +2,10 @@
 *noun*
 > /ˈvɪktɪm/
 
+![[victim.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who has been harmed, injured, or killed as a result of a crime

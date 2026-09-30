@@ -2,8 +2,10 @@
 *noun*
 > /ˈprezɪdənt/
 
+![[president.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The elected head of a republican state.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `elect a president`: bầu tổng thống
 - `presidential address`: bài phát biểu của tổng thống
+- `president-elect`: tổng thống vừa đắc cử chờ nhậm chức
+- `swear in the president`: tổ chức lễ tuyên thệ cho tổng thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The president gave a speech on television tonight.

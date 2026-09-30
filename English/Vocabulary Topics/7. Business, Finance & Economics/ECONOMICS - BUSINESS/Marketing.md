@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɑːrkɪtɪŋ/
 
+![[marketing.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a job or business activity that involves encouraging people to buy a product or service.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `marketing campaign`: chiến dịch tiếp thị
 - `digital marketing`: tiếp thị kỹ thuật số
+- `content marketing`: tiếp thị bằng nội dung
+- `inbound marketing`: tiếp thị thu hút tự nhiên
+- `marketing strategy`: chiến lược tiếp thị tổng thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Social media has completely changed the way marketing is done.

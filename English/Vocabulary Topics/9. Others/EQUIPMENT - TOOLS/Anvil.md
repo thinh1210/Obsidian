@@ -2,8 +2,10 @@
 *noun*
 > /ˈæn.vɪl/
 
+![[anvil.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a heavy iron block with a flat top and concave sides, on which metal can be hammered and shaped.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `blacksmith's anvil`: cái đe của thợ rèn
 - `strike the anvil`: gõ lên đe
+- `hit the anvil`: đập búa lên đe
+- `between the hammer and the anvil`: ở vào thế tiến thoái lưỡng nan (idiom)
+- `blacksmith anvil`: đe của thợ rèn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The blacksmith laid the red-hot iron on the anvil and began to shape it.

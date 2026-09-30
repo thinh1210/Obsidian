@@ -2,8 +2,10 @@
 *noun/verb*
 > /ˈsʌs.pekt/ (noun), /səˈspekt/ (verb)
 
+![[suspect.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person suspected of a crime; have an idea or impression of the existence, presence, or truth of (something) without proof.

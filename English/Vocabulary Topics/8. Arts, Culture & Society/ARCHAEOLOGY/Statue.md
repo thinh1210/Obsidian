@@ -2,8 +2,10 @@
 *noun*
 > /ˈstætʃuː/
 
+![[statue.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A figure of a person or an animal in stone, metal, etc.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `marble statue`: tượng cẩm thạch
 - `bronze statue`: tượng đồng
+- `colossal statue`: bức tượng khổng lồ
+- `unveil a statue`: khánh thành bức tượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A statue of the general stands in the town square.

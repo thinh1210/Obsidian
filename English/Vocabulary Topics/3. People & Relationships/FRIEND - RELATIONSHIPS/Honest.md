@@ -2,8 +2,10 @@
 *adj*
 > /ˈɑː.nɪst/
 
+![[honest.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Free of deceit and untruthfulness; sincere.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `be honest with someone`: trung thực với ai đó
+- `brutally honest`: thẳng thắn đến mức trần trụi
+- `honest feedback`: nhận xét chân thành thẳng thắn
+- `honest with each other`: chân thật thành thật với nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* To be honest, I didn't like it.

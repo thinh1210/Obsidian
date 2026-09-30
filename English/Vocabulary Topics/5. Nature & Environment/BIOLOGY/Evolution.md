@@ -2,8 +2,10 @@
 *noun*
 > /ˌiː.vəˈluː.ʃən/
 
+![[evolution.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `theory of evolution`: thuyết tiến hóa
 - `human evolution`: sự tiến hóa của loài người
+- `evolutionary biology`: sinh học tiến hóa
+- `course of evolution`: tiến trình của sự tiến hóa
+- `drive evolution`: thúc đẩy quá trình tiến hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The theory of evolution was proposed by Darwin.

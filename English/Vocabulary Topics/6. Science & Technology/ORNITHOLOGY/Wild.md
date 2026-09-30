@@ -2,8 +2,10 @@
 *adjective*
 > /waɪld/
 
+![[wild.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Living or growing in natural conditions; not kept by people.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wild birds`: chim hoang dã
 - `wild habitat`: môi trường hoang dã
+- `run wild`: chạy nhảy tự do buông thả (idiom)
+- `wild guess`: sự phỏng đoán vu vơ bừa bãi (idiom)
+- `in the wild`: ngoài môi trường tự nhiên hoang dã
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is exciting to see wild geese flying across the lake.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈdɪvɪdend/
 
+![[dividend.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sum of money paid regularly by a company to its shareholders out of its profits.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dividend yield`: tỷ suất cổ tức
 - `pay a dividend`: chia cổ tức
+- `dividend payout ratio`: tỷ lệ chi trả cổ tức
+- `reinvest dividends`: tái đầu tư cổ tức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The stock pays an attractive quarterly dividend to its investors.

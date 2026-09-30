@@ -2,8 +2,10 @@
 *n.*
 > /ˈpreʃər/
 
+![[pressure.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of stress or anxiety because you have too much to do
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `under pressure`: chịu áp lực
 - `put pressure on`: gây áp lực lên
+- `blood pressure`: huyết áp cơ thể
+- `peer pressure`: áp lực từ bạn bè đồng trang lứa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I can't handle this pressure.

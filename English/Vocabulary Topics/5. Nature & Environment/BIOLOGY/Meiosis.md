@@ -2,8 +2,10 @@
 *noun*
 > /maɪˈəʊ.sɪs/
 
+![[meiosis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of cell division that results in four daughter cells each with half the number of chromosomes of the parent cell, as in the production of gametes.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `meiosis process`: quá trình giảm phân
 - `error in meiosis`: lỗi trong giảm phân
+- `meiotic division`: sự phân chia giảm phân
+- `meiosis and mitosis`: quá trình giảm phân và nguyên phân
+- `crossing over during meiosis`: hiện tượng trao đổi chéo trong giảm phân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Meiosis produces sperm and egg cells.

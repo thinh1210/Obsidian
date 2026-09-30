@@ -2,8 +2,10 @@
 *noun*
 > /sɪˈrɒl.ə.dʒi/
 
+![[serology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study and diagnostic examination of blood serum, especially for immune reactions and identification.

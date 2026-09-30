@@ -2,8 +2,10 @@
 *noun*
 > /ˈfeð.ər/
 
+![[feather.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the many soft, light parts covering a bird's body.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bird feather`: lông chim
 - `soft feather`: lông tơ mềm
+- `feather in one's cap`: chiến tích đáng tự hào (idiom)
+- `birds of a feather flock together`: ngưu tầm ngưu mã tầm mã (thành ngữ)
+- `ruffle someone's feathers`: làm ai bực mình khó chịu (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She found a beautiful peacock feather on the ground.

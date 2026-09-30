@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈpɒzɪt/
 
+![[deposit.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sum of money paid into a bank account, or paid as a first installment on a purchase.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay a deposit`: thanh toán tiền đặt cọc
 - `refundable deposit`: tiền đặt cọc có thể hoàn lại
+- `security deposit`: tiền đặt cọc giữ chỗ / bảo đảm hư hại
+- `put down a deposit`: đặt tiền cọc mua nhà
+- `forfeit a deposit`: mất trắng khoản tiền đặt cọc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had to pay a one-month deposit and the first month's rent in advance.

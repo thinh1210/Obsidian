@@ -2,8 +2,10 @@
 *noun*
 > /ˈeə.pɔːt/
 
+![[airport.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where aircraft regularly take off and land

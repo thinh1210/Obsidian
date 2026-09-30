@@ -2,8 +2,10 @@
 *n.*
 > /ˈmed.ɪ.sɪn/
 
+![[medicine.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science or practice of the diagnosis, treatment, and prevention of disease; also a university degree subject.

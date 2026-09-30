@@ -2,8 +2,10 @@
 *noun*
 > /dʒiːn/
 
+![[gene.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A unit of heredity which is transferred from a parent to offspring and is held to determine some characteristic of the offspring.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gene therapy`: liệu pháp gen
 - `gene expression`: sự biểu hiện gen
+- `gene editing`: chỉnh sửa gen
+- `gene mutation`: đột biến gen
+- `in the genes`: nằm trong gen di truyền / bẩm sinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She inherited the gene for blue eyes from her mother.

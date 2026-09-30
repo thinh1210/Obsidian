@@ -2,8 +2,10 @@
 *n.*
 > /roʊd/
 
+![[road.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wide way leading from one place to another.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross the road`: sang đường
+- `main road`: trục đường giao thông chính
+- `on the road`: đang trên chuyến hành trình
+- `paved road`: con đường trải nhựa phẳng phiu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The road to my house is bumpy.

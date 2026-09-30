@@ -2,8 +2,10 @@
 *noun*
 > /ˈdraɪvər/
 
+![[driver.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who drives a vehicle.
@@ -16,6 +18,8 @@
 - `taxi driver`: tài xế taxi
 - `bus driver`: tài xế xe buýt
 - `careless driver`: tài xế cẩu thả
+- `licensed driver`: tài xế có bằng lái hợp lệ
+- `designated driver`: người được chỉ định lái xe không uống rượu bia
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please tell the driver to stop at the next corner.

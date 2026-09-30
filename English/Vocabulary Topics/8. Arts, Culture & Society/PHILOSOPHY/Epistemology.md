@@ -2,8 +2,10 @@
 *n.*
 > /ɪˌpɪs.təˈmɒl.ə.dʒi/
 
+![[epistemology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The theory of knowledge, especially with regard to its methods, validity, and scope.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `social epistemology`: nhận thức luận xã hội
 - `evolutionary epistemology`: nhận thức luận tiến hóa
+- `epistemological question`: câu hỏi về mặt nhận thức luận
+- `genetic epistemology`: nhận thức luận di truyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Epistemology helps us question how we know what we know.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈbækɡraʊnd/
 
+![[background.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of a picture, scene, or design that forms a setting for the main figures or objects
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `background music`: nhạc nền
 - `background noise`: tiếng ồn nền
+- `fade into the background`: mờ dần nhạt nhòa vào phông nền
+- `blurred background`: hậu cảnh được làm mờ (hiệu ứng bokeh)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The beautiful mountains in the background made the shot look epic.

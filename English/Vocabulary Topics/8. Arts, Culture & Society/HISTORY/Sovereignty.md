@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɒv.rɪn.ti/
 
+![[sovereignty.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Supreme power or authority; the authority of a state to govern itself or another state.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `national sovereignty`: chủ quyền quốc gia
 - `violate sovereignty`: xâm phạm chủ quyền
+- `territorial sovereignty`: chủ quyền lãnh thổ
+- `infringe upon sovereignty`: xâm phạm chủ quyền quốc gia
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country fought hard to defend its national sovereignty.

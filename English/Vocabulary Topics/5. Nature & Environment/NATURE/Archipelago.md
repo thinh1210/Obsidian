@@ -2,8 +2,10 @@
 *Noun*
 > /ˌɑːkɪˈpeləɡəʊ/
 
+![[archipelago.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extensive group of islands.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `island archipelago`: quần đảo
 - `volcanic archipelago`: quần đảo núi lửa
+- `remote archipelago`: quần đảo xa xôi hẻo lánh
+- `tropical archipelago`: quần đảo nhiệt đới
+- `inhabit the archipelago`: sinh sống trên quần đảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Hawaii is a volcanic archipelago in the Pacific Ocean.

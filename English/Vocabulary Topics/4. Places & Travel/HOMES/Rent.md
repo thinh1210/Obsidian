@@ -2,8 +2,10 @@
 *verb*
 > /rɛnt/
 
+![[rent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pay someone for the use of (something, typically property, land, or a car).
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay rent`: trả tiền thuê nhà
 - `rent an apartment`: thuê một căn hộ
+- `for rent`: đang cho thuê
+- `rent increase`: sự tăng giá thuê nhà
+- `rent control`: quy định kiểm soát giá trần thuê nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I rent a room in the city.

@@ -2,8 +2,10 @@
 *Noun*
 > /flæɡ/
 
+![[flag.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of cloth with a special design used as a symbol of a country.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Raise a flag`: Kéo cờ
+- `fly a flag`: treo cờ
+- `national flag`: quốc kỳ
+- `lower the flag`: hạ cờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The American flag has stars and stripes.

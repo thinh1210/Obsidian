@@ -2,8 +2,10 @@
 *adj, n*
 > /red/
 
+![[red.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The color of blood, fire, or rubies.

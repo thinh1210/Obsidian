@@ -2,8 +2,10 @@
 *noun*
 > /ˈbʌdʒɪt/
 
+![[budget.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a plan to show how much money a person or organization will earn and how they will spend it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on a tight budget`: với ngân sách eo hẹp
 - `allocate a budget`: phân bổ ngân sách
+- `budget deficit`: thâm hụt ngân sách
+- `budget surplus`: thặng dư ngân sách
+- `balance the budget`: cân đối thu chi ngân sách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to plan a budget for our summer vacation.

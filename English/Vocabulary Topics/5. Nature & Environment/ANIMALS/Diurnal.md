@@ -2,8 +2,10 @@
 *adjective*
 > /daɪˈɜː.nəl/
 
+![[diurnal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Active during the day.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `diurnal species`: loài hoạt động ban ngày
 - `diurnal cycle`: chu kỳ ngày đêm
+- `diurnal rhythm`: nhịp sinh học ngày đêm
+- `diurnal activity`: hoạt động vào ban ngày
+- `diurnal raptor`: loài chim săn mồi ban ngày
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Most birds are diurnal, waking up at dawn and sleeping after sunset.

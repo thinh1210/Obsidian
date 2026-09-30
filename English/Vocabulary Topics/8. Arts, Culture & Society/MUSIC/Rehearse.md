@@ -2,8 +2,10 @@
 *v.*
 > /rɪˈhɜːs/
 
+![[rehearse.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Practice (a play, piece of music, or other work) for later public performance.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rehearse a play`: tập dượt một vở kịch
 - `rehearse daily`: tập luyện hàng ngày
+- `dress rehearsal`: buổi tổng duyệt sân khấu với đầy đủ trang phục
+- `rehearse thoroughly`: tập dượt một cách kỹ lưỡng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The musicians need to rehearse the difficult parts together.

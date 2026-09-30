@@ -2,8 +2,10 @@
 *n.*
 > /ˈsekənd/
 
+![[second.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** 1/60th of a minute
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in a second`: trong một giây
+- `wait a second`: chờ một giây thôi
+- `second thought`: suy nghĩ lại / đắn đo lại
+- `every second counts`: từng giây từng phút đều vô cùng quý giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I'll be ready in a second.

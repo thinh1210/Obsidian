@@ -2,8 +2,10 @@
 *n.*
 > /ˌkɒmpenˈseɪʃn/
 
+![[compensation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Something, typically money, awarded to someone as a recompense for loss, injury, or suffering.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `receive compensation`: nhận tiền bồi thường
 - `workers' compensation`: bồi thường tai nạn lao động
+- `seek compensation`: yêu cầu đòi bồi thường thiệt hại
+- `adequate compensation`: mức tiền bồi thường thỏa đáng
+- `financial compensation`: khoản đền bù tài chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He received substantial compensation after the car crash.

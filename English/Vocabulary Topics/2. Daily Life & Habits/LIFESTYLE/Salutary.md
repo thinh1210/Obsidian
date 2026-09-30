@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsæljʊtəri/
 
+![[salutary.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing good effects; beneficial (especially regarding health).
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `salutary effect`: tác dụng có lợi
+- `salutary lesson`: bài học đắt giá, bổ ích
+- `salutary habit`: thói quen có lợi cho lối sống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The holiday had a salutary effect on him.

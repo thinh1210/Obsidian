@@ -2,8 +2,10 @@
 *noun/verb*
 > /rɪˈspekt/
 
+![[respect.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `show respect`: thể hiện sự tôn trọng
+- `earn someone's respect`: giành được sự nể phục tôn trọng
+- `treat with deep respect`: đối xử với lòng kính trọng sâu sắc
+- `mutual respect`: sự tôn trọng qua lại lẫn nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I respect his decision.

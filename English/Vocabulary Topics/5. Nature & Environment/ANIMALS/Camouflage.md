@@ -2,8 +2,10 @@
 *noun/verb*
 > /ˈkæm.ə.flɑːʒ/
 
+![[camouflage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (n) The disguising of military personnel, equipment, and installations to make them blend in with surroundings; (v) hide or disguise the presence of.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural camouflage`: ngụy trang tự nhiên
 - `blend in with camouflage`: hòa nhập nhờ ngụy trang
+- `effective camouflage`: sự ngụy trang hiệu quả
+- `camouflage jacket`: áo khoác rằn ri ngụy trang
+- `use camouflage`: sử dụng khả năng ngụy trang
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The octopus used camouflage to blend in perfectly with the sandy sea floor.

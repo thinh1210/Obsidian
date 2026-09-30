@@ -2,8 +2,10 @@
 *Noun*
 > /muːn/
 
+![[moon.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural satellite of the earth, visible by night.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `full moon`: trăng tròn
 - `moonlight`: ánh trăng
+- `once in a blue moon`: hiếm khi / năm thì mười họa
+- `over the moon`: vui sướng tột cùng
+- `crescent moon`: mảnh trăng lưỡi liềm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Look at the beautiful full moon tonight!

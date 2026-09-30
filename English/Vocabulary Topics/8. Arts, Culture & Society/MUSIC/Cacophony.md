@@ -2,8 +2,10 @@
 *n.*
 > /kəˈkɒf.ə.ni/
 
+![[cacophony.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A harsh, discordant mixture of sounds.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cacophony of sounds`: đống âm thanh hỗn tạp
 - `deafening cacophony`: tiếng ồn hỗn tạp điếc tai
+- `cacophony of horns`: tiếng còi xe inh ỏi hỗn loạn
+- `urban cacophony`: mớ âm thanh hỗn độn của phố xá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The market was a cacophony of shouting sellers, honking horns, and barking dogs.

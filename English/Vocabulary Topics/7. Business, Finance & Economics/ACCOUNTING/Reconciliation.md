@@ -2,8 +2,10 @@
 *n.*
 > /ˌrekənsɪliˈeɪʃən/
 
+![[reconciliation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of comparing two sets of records to ensure they agree and are accurate

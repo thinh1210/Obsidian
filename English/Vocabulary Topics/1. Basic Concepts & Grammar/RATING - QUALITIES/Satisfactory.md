@@ -2,8 +2,10 @@
 *adj*
 > /ˌsæt.ɪsˈfæk.tər.i/
 
+![[satisfactory.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fulfilling expectations or needs; acceptable, though not outstanding.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a satisfactory result`: một kết quả đạt yêu cầu
+- `satisfactory explanation`: lời giải thích thỏa đáng
+- `prove satisfactory`: chứng minh là đạt yêu cầu
+- `satisfactory progress`: tiến độ thỏa đáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The meal was satisfactory.

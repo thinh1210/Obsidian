@@ -2,8 +2,10 @@
 *n.*
 > /ˌkɑːbən ˈfʊtprɪnt/
 
+![[carbon_footprint.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of carbon dioxide and other carbon compounds emitted due to the consumption of fossil fuels by a particular person, group, etc.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reduce carbon footprint`: giảm dấu chân carbon
 - `average carbon footprint`: lượng phát thải carbon trung bình
+- `offset carbon footprint`: bù đắp dấu chân carbon
+- `measure carbon footprint`: đo lường lượng phát thải carbon
+- `zero carbon footprint`: dấu chân carbon bằng không
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Eating less meat can help reduce your carbon footprint.

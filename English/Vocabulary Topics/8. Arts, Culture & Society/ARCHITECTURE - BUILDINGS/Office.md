@@ -2,8 +2,10 @@
 *n.*
 > /ˈɒfɪs/
 
+![[office.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A room, set of rooms, or building where people work, usually sitting at desks
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `office building`: tòa nhà văn phòng
 - `head office`: trụ sở chính
+- `open-plan office`: văn phòng thiết kế không gian mở
+- `corporate office`: trụ sở / văn phòng tập đoàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He goes to the office every morning at eight.

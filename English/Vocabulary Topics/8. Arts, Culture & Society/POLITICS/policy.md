@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɑːləsi/
 
+![[policy.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A course or principle of action adopted or proposed by a government, party, business, or individual.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `foreign policy`: chính sách đối ngoại
 - `public policy`: chính sách công
+- `implement a policy`: thực thi một chính sách
+- `fiscal policy`: chính sách tài khóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What is the school's policy on using mobile phones?

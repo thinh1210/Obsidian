@@ -2,8 +2,10 @@
 *v.*
 > /ˈseɪ.vər/
 
+![[savor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Taste (good food or drink) and enjoy it completely.

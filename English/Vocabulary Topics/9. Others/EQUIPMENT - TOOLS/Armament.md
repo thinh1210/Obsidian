@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑː.mə.mənt/
 
+![[armament.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** military weapons and equipment.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `naval armament`: trang bị hải quân
 - `armament race`: cuộc chạy đua vũ trang
+- `heavy armament`: vũ trang hạng nặng
+- `nuclear armament`: trang bị vũ khí hạt nhân
+- `arms race and armament`: chạy đua vũ trang
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country spent billions of dollars on modern armament.

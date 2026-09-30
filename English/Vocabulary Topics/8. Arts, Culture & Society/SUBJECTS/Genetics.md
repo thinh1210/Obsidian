@@ -2,8 +2,10 @@
 *noun*
 > /dʒəˈnetɪks/
 
+![[genetics.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of heredity and the variation of inherited characteristics.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `molecular genetics`: di truyền học phân tử
+- `human genetics`: di truyền học người
+- `genetic engineering`: kỹ thuật di truyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Genetics plays a big role in determining eye color.

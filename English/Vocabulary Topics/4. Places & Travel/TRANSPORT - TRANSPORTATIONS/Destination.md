@@ -2,8 +2,10 @@
 *noun*
 > /ˌdestɪˈneɪʃn/
 
+![[destination.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place to which someone or something is going or being sent.
@@ -16,6 +18,7 @@
 - `final destination`: điểm đến cuối cùng
 - `popular destination`: điểm đến phổ biến
 - `tourist destination`: điểm đến du lịch
+- `reach one's destination`: đến được điểm đích an toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We will reach our destination in about two hours.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpærəsɒl/
 
+![[parasol.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A light umbrella used to give shade from the sun.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `carry a parasol`: cầm ô che nắng
+- `lace parasol`: ô che nắng bằng ren quý phái
+- `shade under a parasol`: bóng râm dưới cây dù che nắng
+- `open a parasol`: bung chiếc dù che nắng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ladies in the Victorian era often carried a lace parasol.

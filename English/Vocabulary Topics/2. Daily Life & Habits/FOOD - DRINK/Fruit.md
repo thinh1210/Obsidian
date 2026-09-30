@@ -2,8 +2,10 @@
 *n.*
 > /fruːt/
 
+![[fruit.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The sweet and fleshy product of a tree or other plant.

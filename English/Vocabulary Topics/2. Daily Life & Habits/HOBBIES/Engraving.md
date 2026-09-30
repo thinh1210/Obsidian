@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈɡreɪ.vɪŋ/
 
+![[engraving.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A picture or design printed from an engraved block or plate, or the skill of doing this.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌmet.ə.kɒɡˈnɪʃ.ən/
 
+![[metacognition.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Awareness and understanding of one's own thought processes; thinking about thinking.

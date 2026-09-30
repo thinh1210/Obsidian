@@ -2,8 +2,10 @@
 *noun*
 > /praɪs/
 
+![[price.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money expected, required, or given in payment for something
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `price tag`: nhãn giá
+- `pay the price`: phải trả giá cho những hành vi của mình
+- `price war`: cuộc đua đại hạ giá cạnh tranh
+- `price hike`: đợt leo thang tăng vọt về giá cả
+- `beyond price`: vô giá không gì so sánh nổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The price of gold has gone up recently.

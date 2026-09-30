@@ -2,8 +2,10 @@
 *n*
 > /ɡeɪm/
 
+![[game.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of play or sport, especially a competitive one played according to rules.
@@ -13,7 +15,11 @@
 💡 Game là game thôi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `play a game`: chơi một trò chơi\n- `board game`: trò chơi cờ bàn
+- `play a game`: chơi một trò chơi
+- `board game`: trò chơi cờ bàn
+- `video game`: trò chơi điện tử
+- `fair game`: mục tiêu công bằng (được phép nhắm tới)
+- `step up one's game`: nâng cao trình độ, thể hiện bản lĩnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We played a game of chess.

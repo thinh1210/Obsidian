@@ -2,8 +2,10 @@
 *n.*
 > /ˈmeɪnfreɪm/
 
+![[mainframe.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, powerful computer used by a large organization for bulk data processing.

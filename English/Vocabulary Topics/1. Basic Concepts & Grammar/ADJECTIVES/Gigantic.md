@@ -2,8 +2,10 @@
 *adj.*
 > /dʒaɪˈɡæntɪk/
 
+![[gigantic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of very great size or extent
@@ -13,7 +15,10 @@
 💡 Gai gan (gigantic) to lớn
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``gigantic proportion`: tỷ lệ khổng lồ`
+- `gigantic proportion`: tỷ lệ khổng lồ
+- `gigantic leap`: bước nhảy vọt khổng lồ
+- `gigantic wave`: con sóng khổng lồ
+- `gigantic blunder`: sai lầm ngớ ngẩn tai hại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gigantic tree.

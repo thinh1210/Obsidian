@@ -2,8 +2,10 @@
 *noun*
 > /riˈæk.ʃən/
 
+![[reaction.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical process in which substances act mutually on each other and are changed into different substances.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chemical reaction`: phản ứng hóa học
 - `chain reaction`: phản ứng chuỗi
+- `reversible reaction`: phản ứng thuận nghịch
+- `redox reaction`: phản ứng oxi hóa - khử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mixing vinegar and baking soda causes a rapid reaction.

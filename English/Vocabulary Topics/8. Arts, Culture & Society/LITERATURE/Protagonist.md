@@ -2,8 +2,10 @@
 *noun*
 > /prəˈtæɡ.ən.ɪst/
 
+![[protagonist.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The leading character in a drama, movie, novel, or other fictional text.

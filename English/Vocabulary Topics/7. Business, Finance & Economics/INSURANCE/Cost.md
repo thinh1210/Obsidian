@@ -2,8 +2,10 @@
 *n.*
 > /kɒst/
 
+![[cost.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of money that you need to buy, make, or do something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `medical cost`: chi phí y tế
 - `extra cost`: chi phí phát sinh
+- `replacement cost`: chi phí bồi hoàn theo giá trị thay mới
+- `out-of-pocket cost`: khoản tiền tự chi trả ngoài phạm vi bảo hiểm
+- `actual cash value cost`: chi phí bồi thường theo giá trị tiền mặt thực tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cost of health insurance has gone up this year.

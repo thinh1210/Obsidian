@@ -2,8 +2,10 @@
 *v.*
 > /bɪld/
 
+![[build.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To construct something, typically something large, by putting parts or materials together.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `build a house`: xây nhà
 - `build a community`: xây dựng cộng đồng
+- `build from scratch`: xây dựng lại từ đầu trên đất trống
+- `building permit`: giấy phép cấp phép xây dựng
+- `custom-built home`: ngôi nhà xây đo ni đóng giày theo yêu cầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They plan to build a small cottage in the countryside.

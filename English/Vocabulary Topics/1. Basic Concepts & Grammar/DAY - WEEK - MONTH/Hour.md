@@ -2,8 +2,10 @@
 *noun*
 > /aʊər/
 
+![[hour.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 60 minutes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `half an hour`: nửa giờ
+- `rush hour`: giờ cao điểm
+- `working hours`: giờ làm việc
+- `at the eleventh hour`: vào phút chót
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The movie lasts for two hours.

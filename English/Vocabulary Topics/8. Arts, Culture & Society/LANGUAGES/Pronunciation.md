@@ -2,8 +2,10 @@
 *n.*
 > /prəˌnʌnsiˈeɪʃn/
 
+![[pronunciation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which a word is pronounced
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `correct pronunciation`: cách phát âm đúng
+- `flawless pronunciation`: phát âm chuẩn xác không tì vết
+- `pronunciation guide`: bảng hướng dẫn phát âm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His pronunciation is very clear.

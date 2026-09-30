@@ -2,8 +2,10 @@
 *Verb*
 > /dɪˈvel.əp/
 
+![[develop.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To invent something or bring something into existence.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `develop software`: phát triển phần mềm
 - `develop a habit`: hình thành một thói quen
+- `develop a product`: phát triển một sản phẩm mới
+- `develop symptoms`: xuất hiện các triệu chứng bệnh
+- `develop skills`: rèn luyện trau dồi kỹ năng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to develop her photography skills.

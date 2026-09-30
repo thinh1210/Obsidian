@@ -2,8 +2,10 @@
 *verb*
 > /blɒk/
 
+![[block.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prevent a specific user from viewing your profile or contacting you
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `block a user`: chặn một người dùng
+- `block and report`: chặn và báo cáo vi phạm
+- `unblock a contact`: bỏ chặn một người liên hệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had to block him because he kept sending spam messages.

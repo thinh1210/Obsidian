@@ -2,8 +2,10 @@
 *n.*
 > /ˌiː.kwɪˈlɪb.ri.əm/
 
+![[equilibrium.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state in which opposing forces or influences are balanced.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lose one's equilibrium`: mất thăng bằng
 - `restore equilibrium`: khôi phục trạng thái cân bằng
+- `maintain equilibrium`: duy trì trạng thái cân bằng
+- `dynamic equilibrium`: trạng thái cân bằng động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The gymnast struggled to maintain her equilibrium on the beam.

@@ -2,8 +2,10 @@
 *Noun*
 > /triː/
 
+![[tree.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A woody perennial plant, typically having a single stem or trunk.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `climb a tree`: trèo cây
 - `family tree`: gia phả
+- `out on a limb`: rơi vào thế cô lập bấp bênh rủi ro
+- `ancient tree`: cây cổ thụ nghìn năm
+- `uproot a tree`: nhổ bật gốc một cái cây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children love to climb this big tree.

@@ -2,8 +2,10 @@
 *Noun*
 > /praɪs/
 
+![[price.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money for which something is sold or bought.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reasonable price`: giá cả hợp lý
 - `price tag`: nhãn giá
+- `compare prices`: so sánh giá bán giữa các nơi
+- `price comparison`: sự đối chiếu so sánh giá cả
+- `cut-price`: hạ giá bán rẻ hơn thông thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The price of gasoline has gone up again this week.

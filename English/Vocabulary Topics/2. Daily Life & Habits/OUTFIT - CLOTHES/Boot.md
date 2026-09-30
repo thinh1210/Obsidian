@@ -2,8 +2,10 @@
 *noun*
 > /buːt/
 
+![[boot.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of shoe that covers the whole foot and the lower part of the leg.
@@ -13,7 +15,9 @@
 💡 Boot -> Bút -> Giấu cái bút vào trong ủng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `leather boots: bốt da`
+- `leather boots`: bốt da
+- `ankle boots`: bốt cổ ngắn
+- `lace-up boots`: bốt buộc dây cá tính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need warm boots for the snow.

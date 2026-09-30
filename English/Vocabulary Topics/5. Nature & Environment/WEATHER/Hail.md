@@ -2,8 +2,10 @@
 *noun*
 > /heɪl/
 
+![[hail.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small, hard balls of ice that fall from the sky like rain
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hail storm`: trận bão mưa đá
+- `hail of bullets`: mưa bom bão đạn
+- `hail a taxi`: vẫy gọi một chiếc xe taxi
+- `hail from a city`: có xuất thân hoặc quê quán từ một thành phố
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The car's windshield was cracked by heavy hail.

@@ -2,8 +2,10 @@
 *Verb/Noun*
 > /ˈtræv.əl/
 
+![[travel.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a journey, usually over a long distance.
@@ -13,7 +15,11 @@
 💡 TRA VÀO (Travel) để đi du lịch.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `travel abroad`: đi ra nước ngoài\n- `air travel`: đi lại bằng đường hàng không
+- `travel abroad`: đi ra nước ngoài
+- `air travel`: đi lại bằng đường hàng không
+- `travel insurance policy`: gói bảo hiểm du lịch chuyến đi
+- `travel budget management`: quản lý ngân sách chi tiêu du lịch
+- `travel itinerary planning`: lên kế hoạch cho hành trình du ngoạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love to travel and see new places.

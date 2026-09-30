@@ -2,8 +2,10 @@
 *n.*
 > /ˈbælkəni/
 
+![[balcony.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A platform projecting from the wall of a building and enclosed with a railing
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `apartment balcony`: ban công căn hộ
 - `stand on the balcony`: đứng ngoài ban công
+- `overhang balcony`: ban công nhô ra ngoài
+- `balcony overlooking the street`: ban công nhìn ra phố
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We sat on the balcony and watched the sunset.

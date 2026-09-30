@@ -2,8 +2,10 @@
 *noun*
 > /ˈwiːkdeɪ/
 
+![[weekday.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any day of the week except Sunday and Saturday.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on a weekday`: vào một ngày trong tuần
+- `during weekdays`: trong các ngày trong tuần
+- `weekday morning`: buổi sáng các ngày trong tuần
+- `open on weekdays`: mở cửa vào các ngày thường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Traffic is heavy on weekdays.

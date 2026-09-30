@@ -2,8 +2,10 @@
 *verb.*
 > /trænsˈfɜːr/
 
+![[transfer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To move money from one account to another.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bank transfer`: chuyển khoản ngân hàng
 - `wire transfer`: chuyển tiền điện tử
+- `electronic funds transfer`: chuyển tiền điện tử
+- `interbank transfer`: giao dịch chuyển khoản liên ngân hàng
+- `wire transfer fee`: phí chuyển khoản điện tín
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I will transfer the money to your account this evening.

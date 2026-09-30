@@ -2,8 +2,10 @@
 *adj.*
 > /ˈdʒəʊ.vi.əl/
 
+![[jovial.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful and friendly.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `jovial mood`: tâm trạng vui vẻ
+- `jovial personality`: tính cách vui vẻ hòa đồng
+- `jovial laughter`: tiếng cười sảng khoái vui tươi
+- `jovial host`: chủ nhà niềm nở đón khách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was in a jovial mood.

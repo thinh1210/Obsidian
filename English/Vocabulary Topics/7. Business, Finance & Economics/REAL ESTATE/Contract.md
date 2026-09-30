@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɒntrækt/
 
+![[contract.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sign a contract`: ký hợp đồng
 - `breach of contract`: vi phạm hợp đồng
+- `sales and purchase contract`: hợp đồng mua bán nhà đất (HĐMB)
+- `sign the closing contract`: ký hợp đồng hoàn tất thủ tục chuyển nhượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Make sure to read the rental contract carefully before signing it.

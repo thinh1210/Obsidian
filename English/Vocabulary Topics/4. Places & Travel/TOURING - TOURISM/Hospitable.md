@@ -2,8 +2,10 @@
 *Adjective*
 > /hɑːˈspɪt̬.ə.bəl/
 
+![[hospitable.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Friendly and welcoming to guests and visitors.
@@ -13,7 +15,11 @@
 💡 HÓT BI TỜ BỒ (Hospitable) hiếu khách.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `hospitable people`: những người hiếu khách\n- `hospitable environment`: môi trường hiếu khách
+- `hospitable people`: những người hiếu khách
+- `hospitable environment`: môi trường hiếu khách
+- `warm and hospitable`: ấm áp nồng hậu và mến khách
+- `hospitable locals`: những người dân bản xứ vô cùng hiếu khách
+- `hospitable reception`: sự tiếp đón ân cần nồng hậu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The local people are very hospitable to foreigners.

@@ -2,8 +2,10 @@
 *noun*
 > /muːn/
 
+![[moon.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural satellite that orbits Earth and reflects light from the sun.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `full moon`: trăng tròn
 - `moonlight`: ánh trăng
+- `lunar surface`: bề mặt Mặt Trăng
+- `new moon`: trăng non / trăng đầu tháng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The moon shines brightly at night.

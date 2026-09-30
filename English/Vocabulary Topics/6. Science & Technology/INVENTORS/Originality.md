@@ -2,8 +2,10 @@
 *n.*
 > /əˌrɪdʒ.ənˈæl.ə.ti/
 
+![[originality.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being special and interesting and not the same as anything else
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lacks originality`: thiếu tính độc đáo
 - `display originality`: thể hiện tính độc đáo
+- `spark of originality`: nét độc đáo sáng tạo riêng
+- `lack originality`: thiếu tính sáng tạo nguyên bản
+- `praise for originality`: khen ngợi vì tính độc đáo nguyên bản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The judges praised the designer's work for its originality.

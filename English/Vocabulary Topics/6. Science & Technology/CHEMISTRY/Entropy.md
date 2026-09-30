@@ -2,8 +2,10 @@
 *noun*
 > /ˈen.trə.pi/
 
+![[entropy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `increase in entropy`: sự tăng entropy
 - `law of entropy`: định luật entropy
+- `decrease in entropy`: sự giảm entropy
+- `standard entropy`: entropy tiêu chuẩn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The second law of thermodynamics states that the total entropy of an isolated system always increases.

@@ -2,8 +2,10 @@
 *noun*
 > /trænzˈleɪ.ʃən/
 
+![[translation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Dịch thuật văn học & Bản quyền tác phẩm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written or spoken rendering of the meaning of a word or text in another language.

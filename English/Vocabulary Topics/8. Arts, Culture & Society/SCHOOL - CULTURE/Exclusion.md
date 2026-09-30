@@ -2,8 +2,10 @@
 *noun*
 > /ɪkˈskluːʒn/
 
+![[exclusion.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process or state of excluding or being excluded; expulsion from school.

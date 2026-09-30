@@ -2,8 +2,10 @@
 *adj.*
 > /dɪˈmen.ʃən.əl/
 
+![[dimensional.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to measurements or dimensions.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Three-dimensional (3D)`: Ba chiều
 - `Two-dimensional (2D)`: Hai chiều
+- `multi-dimensional analysis`: phân tích đa chiều
+- `add a new dimensional depth`: thêm chiều sâu không gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched a three-dimensional movie.

@@ -2,8 +2,10 @@
 *n.*
 > /leˈsiː/
 
+![[lessee.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who holds the lease of a property; a tenant.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rights of the lessee`: quyền lợi của bên đi thuê
 - `lessee obligation`: nghĩa vụ của bên đi thuê
+- `obligations of the lessee`: nghĩa vụ của bên thuê nhà
+- `subletting by lessee`: việc cho thuê lại bởi bên đang đứng tên thuê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Under the lease agreement, the lessee is responsible for minor repairs inside the flat.

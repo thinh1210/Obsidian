@@ -2,8 +2,10 @@
 *Noun*
 > /ˌɪn.dʒəˈnjuː.ə.ti/
 
+![[ingenuity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone's ability to think of clever new ways of doing things or solving problems.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human ingenuity`: sự khéo léo/sáng tạo của con người
 - `technical ingenuity`: sự sáng tạo kỹ thuật
+- `display great ingenuity`: thể hiện sự sáng tạo tài tình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* With a bit of ingenuity, we can fix this broken table.

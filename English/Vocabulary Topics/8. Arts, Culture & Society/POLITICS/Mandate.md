@@ -2,8 +2,10 @@
 *n/v*
 > /ˈmæn.deɪt/
 
+![[mandate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official order or commission to carry out a policy or task; a popular authority given to a winning politician.

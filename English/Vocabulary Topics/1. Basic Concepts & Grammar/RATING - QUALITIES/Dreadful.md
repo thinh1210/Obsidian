@@ -2,8 +2,10 @@
 *adj*
 > /ˈdred.fəl/
 
+![[dreadful.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing or involving great suffering, fear, or unhappiness; extremely bad.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a dreadful mistake`: một sai lầm tệ hại
+- `dreadful consequences`: hậu quả kinh hoàng
+- `feel dreadful`: cảm thấy vô cùng tệ / khó chịu
+- `dreadful accident`: tai nạn thảm khốc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The weather was absolutely dreadful.

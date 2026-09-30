@@ -2,8 +2,10 @@
 *n.*
 > /ˈprəʊ.tə.taɪp/
 
+![[prototype.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The first model or design of something from which other forms are developed
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `working prototype`: nguyên mẫu đang hoạt động được
 - `develop a prototype`: phát triển một nguyên mẫu
+- `functional prototype`: mẫu thử nghiệm đầy đủ chức năng
+- `early prototype`: nguyên mẫu giai đoạn đầu
+- `build a prototype`: chế tạo bản nguyên mẫu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They built a prototype of the electric car last year.

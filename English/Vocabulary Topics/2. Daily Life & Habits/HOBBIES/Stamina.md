@@ -2,8 +2,10 @@
 *noun*
 > /ˈstæmɪnə/
 
+![[stamina.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The physical and/or mental strength to do something that might be difficult and will take a long time.

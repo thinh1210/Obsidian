@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɜːdə(r)/
 
+![[murder.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The crime of intentionally killing a person
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `murder suspect`: nghi phạm giết người
 - `commit murder`: phạm tội giết người
+- `premeditated murder`: tội giết người có mưu tính và chuẩn bị trước
+- `attempted murder`: hành vi cố sát giết người chưa thành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was charged with murder after the victim died.

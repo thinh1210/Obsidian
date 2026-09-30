@@ -2,8 +2,10 @@
 *adj*
 > /ʌnˈweɪ.vɚ.ɪŋ/
 
+![[unwavering.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Steady or resolute; not moving or yielding.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unwavering support`: sự ủng hộ kiên định
+- `unwavering loyalty`: lòng trung thành kiên định không đổi
+- `unwavering faith`: niềm tin son sắt vững như bàn thạch
+- `unwavering dedication`: sự cống hiến tận tụy không ngừng nghỉ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has my unwavering support.

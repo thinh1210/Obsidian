@@ -2,8 +2,10 @@
 *noun*
 > /tʃeɪn/
 
+![[chain.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of linked metal rings.
@@ -13,7 +15,9 @@
 💡 Chơi (Chain) chuỗi xích.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `gold chain: chuỗi vàng`
+- `gold chain`: chuỗi vàng
+- `delicate link chain`: dây xích mắt nối mảnh mai
+- `pendant on a chain`: mặt dây lồng vào chuỗi xích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wears a thick chain.

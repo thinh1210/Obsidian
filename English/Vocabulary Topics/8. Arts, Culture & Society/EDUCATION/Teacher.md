@@ -2,8 +2,10 @@
 *n.*
 > /ˈtiːtʃə(r)/
 
+![[teacher.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who teaches, especially in a school
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `homeroom teacher`: giáo viên chủ nhiệm
 - `experienced teacher`: giáo viên giàu kinh nghiệm
+- `dedicated teacher`: người thầy tận tâm hết lòng vì học trò
+- `teacher training`: công tác đào tạo bồi dưỡng đội ngũ giáo viên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is my favorite English teacher.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈmiː.ti.ɔːr/
 
+![[meteor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small body of matter from space that enters the earth's atmosphere, appearing as a streak of light.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `meteor shower`: mưa sao băng
 - `meteor strike`: vụ va chạm thiên thạch
+- `meteor fireball`: cầu lửa sao băng
+- `meteor trail`: vệt sáng sao băng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We stayed up late to watch the meteor shower.

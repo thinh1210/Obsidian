@@ -2,8 +2,10 @@
 *n.*
 > /ˈlaɪmlaɪt/
 
+![[limelight.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME
+**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The focus of public attention.
@@ -13,7 +15,10 @@
 💡 Lime (vôi) + light (sáng) -> ánh đèn vôi cổ đại.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `in the limelight: dưới ánh đèn sân khấu`
+- `in the limelight`: dưới ánh đèn sân khấu
+- `steal the limelight`: chiếm hết sự chú ý / giật spotlight (idiom)
+- `step into the limelight`: bước ra sân khấu tỏa sáng
+- `bask in the limelight`: đắm mình trong ánh hào quang sân khấu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She hates being in the limelight.

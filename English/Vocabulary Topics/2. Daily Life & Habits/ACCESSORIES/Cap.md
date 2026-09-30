@@ -2,8 +2,10 @@
 *noun*
 > /kæp/
 
+![[cap.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of soft flat hat with a peak.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wear a cap`: đội mũ
+- `baseball cap`: mũ lưỡi trai bóng chày
+- `flat cap`: mũ beret phẳng nam
+- `pull down a cap`: kéo sụp mũ xuống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He always wears a baseball cap.

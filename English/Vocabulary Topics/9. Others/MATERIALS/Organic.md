@@ -2,8 +2,10 @@
 *adjective.*
 > /ɔːˈɡænɪk/
 
+![[organic.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or derived from living matter; produced without the use of chemical fertilizers or pesticides.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `organic matter`: chất hữu cơ
 - `organic chemistry`: hóa học hữu cơ
+- `organic farming`: nông nghiệp canh tác hữu cơ
+- `organic growth`: tăng trưởng tự nhiên không qua sáp nhập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We buy organic vegetables at the local farmer's market.

@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈsɪdɪvɪzəm/
 
+![[recidivism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tendency of a convicted criminal to reoffend
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rate of recidivism`: tỷ lệ tái phạm
 - `reduce recidivism`: giảm thiểu sự tái phạm
+- `prevent recidivism`: ngăn ngừa hiện tượng tái phạm tội sau mãn hạn tù
+- `criminal recidivism`: tình trạng tái phạm tội trong xã hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* High rates of recidivism show that the prison system needs reform.

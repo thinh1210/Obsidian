@@ -2,8 +2,10 @@
 *adj*
 > /daɪˈvɜːs/
 
+![[diverse.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing a great deal of variety; very different.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `culturally diverse`: đa dạng văn hóa
 - `diverse ecosystem`: hệ sinh thái đa dạng
+- `biologically diverse`: đa dạng sinh học
+- `diverse topography`: địa hình đa dạng
+- `richly diverse`: phong phú và đa dạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New York is a very culturally diverse city.

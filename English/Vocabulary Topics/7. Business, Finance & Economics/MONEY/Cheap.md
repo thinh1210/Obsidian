@@ -2,8 +2,10 @@
 *adjective*
 > /tʃiːp/
 
+![[cheap.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Low in price, especially in relation to similar items or services
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cheap ticket`: vé rẻ
+- `cheap labor`: nguồn nhân công giá rẻ
+- `feel cheap`: cảm thấy tự ti, hèn mọn
+- `cheap trick`: thủ đoạn rẻ tiền, hạ đẳng
+- `on the cheap`: làm một việc với chi phí tối thiểu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought this shirt because it was very cheap.

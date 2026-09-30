@@ -2,8 +2,10 @@
 *n.*
 > /ˈstjuːdiəʊ/
 
+![[studio.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room or place where films, television programs, or music are recorded or produced
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `film studio`: hãng phim
 - `in the studio`: trong phòng thu/phim trường
+- `major studio`: đại hãng phim quyền lực
+- `soundproof studio`: trường quay / phòng thu cách âm chuẩn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are visiting a major film studio in California.

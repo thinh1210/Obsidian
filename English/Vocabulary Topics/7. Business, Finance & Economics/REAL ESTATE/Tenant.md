@@ -2,8 +2,10 @@
 *n.*
 > /ˈtenənt/
 
+![[tenant.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who occupies land or property rented from a landlord.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prospective tenant`: người thuê nhà tiềm năng
 - `tenant agreement`: thỏa thuận thuê nhà
+- `evict a tenant`: cưỡng chế trục xuất người thuê nhà vi phạm
+- `tenant turnover rate`: tỷ lệ thay đổi luân chuyển khách thuê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The landlord reminded the tenant that rent is due on the first of the month.

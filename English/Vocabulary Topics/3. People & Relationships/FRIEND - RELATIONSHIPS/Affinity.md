@@ -2,8 +2,10 @@
 *noun*
 > /əˈfɪn.ə.t̬i/
 
+![[affinity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A spontaneous or natural liking or sympathy for someone or something.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `an affinity for`: sự yêu thích/hợp với
+- `feel a natural affinity`: cảm nhận sự đồng điệu tự nhiên
+- `close affinity`: sự gắn kết tương đồng mật thiết
+- `affinity group`: nhóm người có cùng sở thích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I felt an immediate affinity for her.

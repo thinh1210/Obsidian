@@ -2,8 +2,10 @@
 *n.*
 > /səʊl/
 
+![[soul.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The spiritual or immaterial part of a human being or animal.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `body and soul`: thể xác và tâm hồn
 - `lost soul`: linh hồn đi lạc
+- `soul searching`: sự tự vấn lương tâm sâu sắc
+- `bare one's soul`: dốc hết nỗi lòng sâu kín
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Music is food for the soul.

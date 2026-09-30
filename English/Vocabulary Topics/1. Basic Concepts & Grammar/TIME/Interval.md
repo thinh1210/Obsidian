@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪntəvl/
 
+![[interval.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An intervening time or space
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `regular intervals`: những khoảng thời gian đều đặn
+- `at regular intervals`: đều đặn theo định kỳ
+- `time interval`: khoảng thời gian
+- `intermission interval`: khoảng thời gian nghỉ giữa các hiệp/màn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There will be a 15-minute interval.

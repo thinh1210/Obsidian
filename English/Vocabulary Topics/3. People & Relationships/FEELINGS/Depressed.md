@@ -2,8 +2,10 @@
 *adj*
 > /dɪˈprest/
 
+![[depressed.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In a state of general unhappiness or despondency.

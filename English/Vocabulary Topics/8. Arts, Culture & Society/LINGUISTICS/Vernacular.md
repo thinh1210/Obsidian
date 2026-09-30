@@ -2,8 +2,10 @@
 *noun*
 > /vəˈnæk.jə.lər/
 
+![[vernacular.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the language or dialect spoken by the ordinary people in a particular country or region

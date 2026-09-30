@@ -2,8 +2,10 @@
 *n*
 > /kæʃ/
 
+![[cash.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money in coins or notes
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay in cash`: trả bằng tiền mặt
+- `cash on delivery (COD)`: thanh toán tiền mặt khi nhận hàng
+- `strapped for cash`: kẹt tiền, thiếu thốn tiền bạc tạm thời
+- `cash back`: hoàn tiền mặt khi mua sắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have no cash.

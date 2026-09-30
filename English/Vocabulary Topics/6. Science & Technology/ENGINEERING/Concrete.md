@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɒŋkriːt/
 
+![[concrete.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A heavy, rough building material made from a mixture of broken stone or gravel, sand, cement, and water.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reinforced concrete`: bê tông cốt thép
 - `concrete structure`: kết cấu bê tông
+- `pour concrete`: đổ bê tông
+- `concrete foundation`: móng bê tông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The workers poured wet concrete into the wooden frames to form the driveway.

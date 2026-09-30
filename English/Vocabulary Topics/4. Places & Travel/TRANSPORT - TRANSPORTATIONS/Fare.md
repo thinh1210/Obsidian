@@ -2,8 +2,10 @@
 *noun*
 > /fer/
 
+![[fare.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The money a passenger on public transport has to pay.
@@ -16,6 +18,7 @@
 - `bus fare`: tiền xe buýt
 - `train fare`: tiền vé tàu
 - `fare evasion`: việc trốn vé
+- `half fare`: giá vé ưu đãi một nửa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bus fares have increased again this month.

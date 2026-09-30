@@ -2,8 +2,10 @@
 *adj.*
 > /dɪˈskɔː.dənt/
 
+![[discordant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Disagreeing or incongruous; (of a sound) harsh and jarring because of a lack of harmony.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `discordant sounds`: âm thanh chói tai
 - `discordant views`: quan điểm bất hòa
+- `discordant note`: nốt nhạc chói tai lạc điệu
+- `discordant sound`: âm thanh bất hòa inh tai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The band's performance was ruined by a discordant guitar note.

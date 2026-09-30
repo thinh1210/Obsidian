@@ -2,8 +2,10 @@
 *noun*
 > /liːf/
 
+![[leaf.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flat green part of a plant, growing from a stem or branch.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `green leaf`: lá xanh
 - `fallen leaves`: lá rụng
+- `take a leaf out of someone's book`: noi gương theo ai
+- `shake like a leaf`: run lẩy bẩy như cành lá trước gió
+- `broadleaf tree`: cây thân gỗ lá rộng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A single yellow leaf fell from the tree.

@@ -2,8 +2,10 @@
 *adj.*
 > /rɒŋ/
 
+![[wrong.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not correct or true; incorrect.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wrong answer`: câu trả lời sai
 - `go wrong`: đi sai hướng, hỏng bét
+- `in the wrong`: có lỗi, sai trái
+- `bark up the wrong tree`: nhận định sai lầm / gõ nhầm cửa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is wrong to steal someone's property.

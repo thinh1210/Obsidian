@@ -2,8 +2,10 @@
 *adj*
 > /ˌsek.əndˈreɪt/
 
+![[second_rate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of mediocre or inferior quality.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `second-rate material`: vật liệu hạng hai
+- `second-rate actor`: diễn viên hạng hai / xoàng
+- `second-rate power`: cường quốc hạng hai
+- `second-rate service`: dịch vụ hạng xoàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I refuse to buy second-rate goods.

@@ -2,8 +2,10 @@
 *adj*
 > /ˈrʌɡɪd/
 
+![[rugged.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of ground or terrain) having a broken, rocky, and uneven surface.

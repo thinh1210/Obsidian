@@ -2,8 +2,10 @@
 *n.*
 > /ˈdəʊ.pɪŋ/
 
+![[doping.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The administration of drugs or other substances to a competitor to inhibit or accelerate physical performance.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `doping scandal`: bê bối chất kích thích
 - `anti-doping agency`: cơ quan phòng chống doping
+- `test positive for doping`: có kết quả xét nghiệm dương tính với doping
+- `ban for doping`: lệnh cấm thi đấu vì chất kích thích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cyclist was banned for life following a doping scandal.

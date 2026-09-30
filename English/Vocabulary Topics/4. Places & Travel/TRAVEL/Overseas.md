@@ -2,8 +2,10 @@
 *adverb*
 > /ˌəʊ.vəˈsiːz/
 
+![[overseas.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In, from, or to other countries

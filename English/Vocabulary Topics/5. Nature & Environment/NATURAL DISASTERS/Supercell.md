@@ -2,8 +2,10 @@
 *noun*
 > /ˈsuː.pə.sel/
 
+![[supercell.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of producing severe thunderstorms, featuring rotating updrafts, often producing tornadoes.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `supercell thunderstorm`: cơn dông siêu tế bào
 - `formation of a supercell`: sự hình thành siêu dông
+- `supercell formation`: sự hình thành cơn dông xoáy siêu tế bào
+- `severe supercell storm`: cơn bão siêu dông khốc liệt
+- `supercell radar signature`: dấu hiệu siêu dông trên màn hình radar
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A massive supercell formed over Kansas, prompting immediate tornado warnings.

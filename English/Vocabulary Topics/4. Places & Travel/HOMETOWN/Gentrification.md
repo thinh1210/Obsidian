@@ -2,8 +2,10 @@
 *n.*
 > /ˌdʒentrɪfɪˈkeɪʃn/
 
+![[gentrification.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of renovating and improving a house or district so that it conforms to middle-class taste.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rapid gentrification`: chỉnh trang đô thị nhanh chóng
+- `drive gentrification`: thúc đẩy chỉnh trang đô thị
+- `neighborhood gentrification`: sự cải tạo nâng cấp khu dân cư
+- `effects of gentrification`: tác động của quá trình quý tộc hóa đô thị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gentrification is pushing out local residents.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈrɪvə/
 
+![[river.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large natural stream of water.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `river bank`: bờ sông
+- `along the river`: dọc theo bờ sông
+- `cross the river`: chèo thuyền băng qua sông
+- `river cruise`: du thuyền du ngoạn ngắm sông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We swam in the river.

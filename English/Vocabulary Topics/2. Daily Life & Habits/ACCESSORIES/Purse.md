@@ -2,8 +2,10 @@
 *noun*
 > /pɜːs/
 
+![[purse.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small container for money, usually used by a woman.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a leather purse`: một chiếc ví da
+- `open one's purse`: mở ví tiền (sẵn sàng chi trả)
+- `hold the purse strings`: nắm giữ quyền tài chính, kiểm soát chi tiêu
+- `coin purse`: ví đựng tiền lẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She kept her coins in a small purse.

@@ -2,8 +2,10 @@
 *v.*
 > /test/
 
+![[test.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To check if something works correctly or is in good condition
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `test a theory`: kiểm tra một lý thuyết
 - `test a prototype`: thử nghiệm một mẫu thử
+- `test-drive`: lái thử xe để kiểm tra
+- `put to the test`: đặt vào thử thách kiểm nghiệm thực tế (idiom)
+- `acid test`: bài kiểm tra quyết định tính xác thực (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should test the water temperature before swimming.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɪərəʊ/
 
+![[hero.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person admired for courage or outstanding achievements.
@@ -13,7 +15,10 @@
 💡 Hero trong phim Marvel.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `national hero: anh hùng dân tộc`
+- `national hero`: anh hùng dân tộc
+- `unsung hero`: người anh hùng thầm lặng (idiom)
+- `worship a hero`: sùng bái người anh hùng
+- `folk hero`: anh hùng trong truyền thuyết dân gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a local hero.

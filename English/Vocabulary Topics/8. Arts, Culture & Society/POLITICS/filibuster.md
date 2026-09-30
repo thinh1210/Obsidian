@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɪlɪbʌstər/
 
+![[filibuster.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action such as a prolonged speech that obstructs progress in a legislative assembly while not technically violating the required procedures.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mount a filibuster`: tiến hành thủ thuật câu giờ
 - `end a filibuster`: chấm dứt việc câu giờ nghị trường
+- `filibuster a bill`: dùng thủ thuật câu giờ để cản trở dự luật
+- `threaten a filibuster`: đe dọa dùng thủ thuật câu giờ nghị trường
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The senator began a filibuster to delay the vote on the tax bill.

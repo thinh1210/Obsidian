@@ -2,8 +2,10 @@
 *verb*
 > /ˌɪn.trəˈduːs/
 
+![[introduce.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bring (something, especially a product, measure, or concept) into use or operation for the first time.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `introduce oneself`: tự giới thiệu
+- `introduce to friends`: giới thiệu với bạn bè thân quen
+- `make formal introductions`: làm thủ tục giới thiệu trang trọng
+- `introduce a newcomer`: giới thiệu thành viên mới gia nhập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Allow me to introduce myself.

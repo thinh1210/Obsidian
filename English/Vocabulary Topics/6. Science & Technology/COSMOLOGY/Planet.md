@@ -2,8 +2,10 @@
 *Noun*
 > /ˈplæn.ɪt/
 
+![[planet.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large round object in space that moves around the sun or another star.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `planet Earth`: hành tinh Trái Đất
 - `inner planets`: các hành tinh vòng trong
+- `outer planets`: các hành tinh vòng ngoài
+- `orbit a planet`: quay quanh một hành tinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Is Mars the closest planet to Earth?

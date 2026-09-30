@@ -2,8 +2,10 @@
 *n.*
 > /niˈɒlədʒɪzəm/
 
+![[neologism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A newly coined word or expression
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `coin a neologism`: tạo ra một từ mới
+- `popularize a neologism`: phổ biến một từ ngữ mới
+- `create a neologism`: tạo ra từ ngữ mới
+- `lexical neologism`: từ mới về mặt từ vựng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The internet has birthed many neologisms like 'selfie'.

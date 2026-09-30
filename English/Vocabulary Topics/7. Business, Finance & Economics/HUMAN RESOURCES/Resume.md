@@ -2,8 +2,10 @@
 *n.*
 > /ˈrez.juː.meɪ/
 
+![[resume.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A brief summary of personal, educational, and professional experiences
@@ -13,7 +15,11 @@
 💡 Gửi "resume" rồi "rê" chuột xem sếp đã đọc chưa
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``submit a resume`: nộp sơ yếu lý lịch
+- `submit a resume`: nộp sơ yếu lý lịch
+- `polish a resume`: trau chuốt hoàn thiện hồ sơ sơ yếu lý lịch (CV)
+- `tailor a resume`: điều chỉnh CV sao cho ăn khớp yêu cầu tuyển dụng
+- `send out resumes`: nộp rải CV ứng tuyển đến các công ty
+- `impressive resume`: bản lý lịch hồ sơ công tác đầy ấn tượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please send your resume to our email address.

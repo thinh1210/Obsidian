@@ -2,8 +2,10 @@
 *adj*
 > /rɪˈliːvd/
 
+![[relieved.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** No longer feeling distressed or anxious.

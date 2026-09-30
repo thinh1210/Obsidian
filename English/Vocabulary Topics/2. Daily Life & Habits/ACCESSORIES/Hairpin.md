@@ -2,8 +2,10 @@
 *noun*
 > /ˈheəpɪn/
 
+![[hairpin.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A U-shaped pin used to hold hair in place.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insert a hairpin`: cài kẹp tóc
+- `bobby pin and hairpin`: kẹp tăm và trâm cài tóc
+- `secure a bun with hairpins`: cố định búi tóc bằng kẹp ghim
+- `ornamental hairpin`: trâm cài tóc hoa văn trang trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She secured her bun with a few hairpins.

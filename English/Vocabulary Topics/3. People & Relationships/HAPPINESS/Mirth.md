@@ -2,8 +2,10 @@
 *n.*
 > /mɜːθ/
 
+![[mirth.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Amusement, especially as expressed in laughter.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `full of mirth`: ngập tràn tiếng cười
+- `burst of mirth`: tràng cười sảng khoái bật ra
+- `fill with mirth`: ngập tràn niềm vui rộn rã
+- `mirthful occasion`: dịp vui vẻ tưng bừng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The room was filled with mirth.

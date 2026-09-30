@@ -2,8 +2,10 @@
 *adj*
 > /ˈɡoʊl.dən/
 
+![[golden.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having the color or shine of gold.

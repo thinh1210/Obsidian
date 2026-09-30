@@ -2,8 +2,10 @@
 *noun*
 > /ˈsaɪəns/
 
+![[science.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The systematic study of the structure and behavior of the physical and natural world.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `science fiction`: khoa học viễn tưởng
+- `natural sciences`: các ngành khoa học tự nhiên
+- `advancement of science`: sự tiến bộ của khoa học kỹ thuật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We did a fun experiment in science class.

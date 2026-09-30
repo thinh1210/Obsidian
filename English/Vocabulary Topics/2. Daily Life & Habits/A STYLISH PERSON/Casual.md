@@ -2,8 +2,10 @@
 *adj.*
 > /ˈkæʒuəl/
 
+![[casual.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not formal; relaxed.
@@ -13,7 +15,11 @@
 💡 Casual - cá (ca) suối (sual) sống tự do thoải mái.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `casual clothes`: quần áo mặc thường ngày\n- `smart casual`: lịch sự nhưng thoải mái
+- `casual clothes`: quần áo mặc thường ngày
+- `smart casual`: lịch sự nhưng thoải mái
+- `business casual`: trang phục công sở thoải mái
+- `casual wear`: trang phục thường ngày
+- `dress casually`: ăn mặc giản dị, thoải mái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer casual clothes on weekends.

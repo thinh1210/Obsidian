@@ -2,8 +2,10 @@
 *verb*
 > /riˈfɜːrbɪʃ/
 
+![[refurbish.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Renovate and redecorate (something, especially a building).
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `refurbish a room`: tân trang lại phòng
 - `recently refurbished`: mới được tân trang
+- `fully refurbished`: được tân trang cải tạo toàn diện
+- `refurbish the interior`: tân trang làm mới nội thất
+- `refurbish old furniture`: đánh bóng làm mới bàn ghế cũ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We plan to refurbish the kitchen.

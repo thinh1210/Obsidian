@@ -2,8 +2,10 @@
 *n.*
 > /əˈkweɪn.təns/
 
+![[acquaintance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person's knowledge or experience of something, or someone known slightly.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A casual acquaintance`: Một người quen xã giao
+- `make someone's acquaintance`: làm quen với ai
+- `nodding acquaintance`: người quen biết sơ sơ (idiom)
+- `broad circle of acquaintances`: vòng bạn bè người quen rộng rãi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is just an acquaintance.

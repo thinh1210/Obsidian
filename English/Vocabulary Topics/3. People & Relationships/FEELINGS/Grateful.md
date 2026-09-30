@@ -2,8 +2,10 @@
 *adj*
 > /ˈɡreɪtfl/
 
+![[grateful.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing an appreciation of kindness.

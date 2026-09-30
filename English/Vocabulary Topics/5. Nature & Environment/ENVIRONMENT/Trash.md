@@ -2,8 +2,10 @@
 *n.*
 > /træʃ/
 
+![[trash.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Waste material; refuse.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `throw away trash`: vứt rác
 - `trash can`: thùng rác
+- `trash talk`: nói lời khiêu khích / mạt sát đối thủ
+- `one man's trash is another man's treasure`: cũ người mới ta / thứ người này bỏ là báu vật người khác
+- `collect trash`: thu gom rác thải
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't leave your trash on the beach.

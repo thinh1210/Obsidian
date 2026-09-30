@@ -2,8 +2,10 @@
 *n.*
 > /əbˈsɜː.dɪ.zəm/
 
+![[absurdism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The belief that human beings exist in a purposeless, chaotic universe.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `philosophy of absurdism`: triết học phi lý
 - `theatrical absurdism`: kịch phi lý
+- `existential absurdism`: chủ nghĩa phi lý hiện sinh
+- `absurdist perspective`: góc nhìn theo chủ nghĩa phi lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Laughing at the chaos of life is a way of practicing absurdism.

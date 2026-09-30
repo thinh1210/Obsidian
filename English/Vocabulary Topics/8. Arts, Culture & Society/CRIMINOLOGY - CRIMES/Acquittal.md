@@ -2,8 +2,10 @@
 *noun*
 > /əˈkwɪtl/
 
+![[acquittal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A judgment that a person is not guilty of the crime with which they have been charged
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `win an acquittal`: được tuyên trắng án
 - `direct acquittal`: phán quyết trắng án trực tiếp
+- `lead to an acquittal`: dẫn tới một phán quyết tuyên bố trắng án
+- `unanimous acquittal`: phán quyết trắng án đồng thuận tuyệt đối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The trial ended in an acquittal for the young defendant.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɒl.vən.si/
 
+![[solvency.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The possession of assets in excess of liabilities; ability to pay one's debts
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `long-term solvency`: khả năng thanh toán nợ dài hạn
+- `ensure solvency`: bảo đảm duy trì khả năng thanh toán các khoản nợ
+- `threaten solvency`: đe dọa trực tiếp đến khả năng chi trả
+- `financial solvency`: tình trạng sức khỏe tài chính lành mạnh
+- `test of solvency`: bài kiểm tra khả năng thanh toán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The auditors raised doubts about the firm's long-term solvency.

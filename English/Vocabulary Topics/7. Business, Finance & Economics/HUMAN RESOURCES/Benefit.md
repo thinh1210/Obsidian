@@ -2,8 +2,10 @@
 *n.*
 > /ˈben.ɪ.fɪt/
 
+![[benefit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extra advantages or perks provided to employees
@@ -13,7 +15,11 @@
 💡 Làm ở đây "bé" (be) được hưởng "né" (ne) nhiều "phít" (benefit) phúc lợi
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``employee benefits`: phúc lợi nhân viên
+- `employee benefits`: phúc lợi nhân viên
+- `maternity benefits`: chế độ thai sản cho lao động nữ
+- `health benefits`: chế độ bảo hiểm và chăm sóc y tế
+- `fringe benefits`: các khoản đãi ngộ phụ ngoài lương
+- `entitled to benefits`: đủ điều kiện hưởng quyền lợi công ty
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company offers good benefits, including health insurance.

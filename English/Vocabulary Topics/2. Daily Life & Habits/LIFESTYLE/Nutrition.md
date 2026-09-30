@@ -2,8 +2,10 @@
 *n.*
 > /njuˈtrɪʃn/
 
+![[nutrition.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of providing or obtaining the food necessary for health and growth.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `good nutrition`: dinh dưỡng tốt
+- `proper nutrition`: dinh dưỡng hợp lý, đúng cách
+- `poor nutrition`: dinh dưỡng kém, thiếu chất
+- `nutrition expert`: chuyên gia dinh dưỡng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Good nutrition is essential.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪntæks/
 
+![[syntax.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of words and phrases to create well-formed sentences in a language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sentence syntax`: cú pháp câu
+- `syntactic rules`: các quy tắc cú pháp
+- `syntax error`: lỗi cú pháp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His English syntax is sometimes a bit unusual.

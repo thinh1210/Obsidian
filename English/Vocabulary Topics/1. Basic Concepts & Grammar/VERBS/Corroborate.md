@@ -2,8 +2,10 @@
 *Verb*
 > /kəˈrɒb.ə.reɪt/
 
+![[corroborate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To add proof to an account, statement, idea, etc.
@@ -13,7 +15,10 @@
 💡 Có rô bốt (corroborate) làm chứng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `corroborate evidence`: xác nhận bằng chứng\n- `corroborate a story`: chứng thực câu chuyện
+- `corroborate evidence`: xác nhận bằng chứng
+- `corroborate a story`: chứng thực câu chuyện
+- `corroborate an account`: chứng thực lời tường trình
+- `corroborate findings`: chứng thực các phát hiện nghiên cứu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My friend will corroborate my story.

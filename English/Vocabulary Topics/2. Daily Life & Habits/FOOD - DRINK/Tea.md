@@ -2,8 +2,10 @@
 *n.*
 > /tiː/
 
+![[tea.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A hot drink made by infusing dried crushed leaves.

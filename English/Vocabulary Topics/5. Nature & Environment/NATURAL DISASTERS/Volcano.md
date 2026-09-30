@@ -2,8 +2,10 @@
 *noun*
 > /vɒlˈkeɪ.nəʊ/
 
+![[volcano.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mountain with a large circular hole at the top through which lava, gases, steam, and dust are or have been forced out.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `active volcano`: núi lửa đang hoạt động
 - `extinct volcano`: núi lửa đã tắt
+- `dormant volcano`: núi lửa đang tạm ngủ say
+- `active volcano crater`: miệng núi lửa đang hoạt động
+- `sitting on a volcano`: ngồi trên miệng núi lửa / ở thế ngàn cân treo sợi tóc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We hiked up a path to see the famous volcano.

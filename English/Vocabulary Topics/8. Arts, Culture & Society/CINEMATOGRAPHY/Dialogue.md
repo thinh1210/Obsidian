@@ -2,8 +2,10 @@
 *n.*
 > /ˈdaɪəlɒɡ/
 
+![[dialogue.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conversation between two or more people as a feature of a book, play, or movie
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `witty dialogue`: lời thoại sắc sảo, dí dỏ
 - `internal dialogue`: độc thoại nội tâm
+- `sharp dialogue`: lời thoại sắc sảo thâm thúy
+- `dialogue coach`: chuyên gia huấn luyện ngữ điệu lời thoại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dialogue in this film feels very natural.

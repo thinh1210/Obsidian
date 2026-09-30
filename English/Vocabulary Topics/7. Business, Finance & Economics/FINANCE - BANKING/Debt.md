@@ -2,8 +2,10 @@
 *noun.*
 > /det/
 
+![[debt.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount of money that you owe to a person or bank.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `run into debt`: lâm vào cảnh nợ nần
 - `clear a debt`: trả hết nợ
+- `drown in debt`: ngập sâu trong nợ nần
+- `debt ceiling`: trần nợ công quy định
+- `debt restructuring`: tái cơ cấu các khoản nợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It took him five years to pay off all his university debts.

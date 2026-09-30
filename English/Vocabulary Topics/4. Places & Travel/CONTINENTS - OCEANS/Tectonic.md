@@ -2,8 +2,10 @@
 *adj*
 > /tekˈtɒnɪk/
 
+![[tectonic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the structure of the earth's crust and the large-scale processes which take place within it.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tectonic plates`: các mảng kiến tạo
+- `tectonic activity`: hoạt động kiến tạo
+- `tectonic shift`: sự chuyển dịch kiến tạo
+- `tectonic fault`: đứt gãy kiến tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Earthquakes are caused by tectonic plates moving.

@@ -2,8 +2,10 @@
 *Verb*
 > /trəˈvɝːs/
 
+![[traverse.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM
+**Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move or travel through an area.
@@ -13,7 +15,11 @@
 💡 TRA VƠ (Traverse) đi ngang qua bến.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `traverse the globe`: đi khắp thế giới\n- `traverse a region`: băng qua một khu vực
+- `traverse the globe`: đi khắp thế giới
+- `traverse a region`: băng qua một khu vực
+- `traverse mountainous regions`: băng qua những vùng núi non trập trùng
+- `traverse treacherous paths`: vượt qua những cung đường đầy hiểm trở
+- `traverse vast distances`: vượt qua muôn trùng vạn dặm xa xôi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He plans to traverse the continent on foot.

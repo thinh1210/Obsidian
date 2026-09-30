@@ -2,8 +2,10 @@
 *Noun*
 > /ˈdʒɜrni/
 
+![[journey.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of travelling from one place to another, especially in a vehicle.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `long journey`: hành trình dài
 - `safe journey`: hành trình an toàn
+- `journey of self-discovery`: hành trình đi tìm lại và khám phá chính mình
+- `scenic rail journey`: hành trình đi tàu ngắm cảnh đẹp như tranh
+- `embark on a long journey`: bắt đầu bước vào một chuyến đi xa dài ngày
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It was a long journey by train.

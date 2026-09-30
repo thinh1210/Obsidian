@@ -2,8 +2,10 @@
 *n*
 > /mɔːl/
 
+![[mall.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large shopping center
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shopping mall`: trung tâm mua sắm
+- `indoor shopping mall`: trung tâm thương mại trong nhà
+- `mall rat`: người trẻ chuyên la cà trung tâm thương mại
+- `anchor store in a mall`: đại siêu thị hạt nhân trong trung tâm mua sắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's go to the mall.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɜːpətreɪtə(r)/
 
+![[perpetrator.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who carries out a harmful, illegal, or immoral act
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `perpetrator of a crime`: thủ phạm của một vụ án
 - `identify the perpetrator`: nhận dạng thủ phạm
+- `catch the perpetrator`: bắt giữ thủ phạm thực hiện hành vi phạm tội
+- `alleged perpetrator`: đối tượng bị nghi ngờ là thủ phạm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police are still searching for the perpetrator of the assault.

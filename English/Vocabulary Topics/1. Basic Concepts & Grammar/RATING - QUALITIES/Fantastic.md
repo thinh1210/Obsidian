@@ -2,8 +2,10 @@
 *adj*
 > /fænˈtæs.tɪk/
 
+![[fantastic.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extraordinarily good or attractive.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fantastic news`: tin tuyệt vời
+- `fantastic opportunity`: cơ hội tuyệt vời
+- `fantastic view`: khung cảnh tuyệt đẹp
+- `do a fantastic job`: làm một việc tuyệt vời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a fantastic holiday.

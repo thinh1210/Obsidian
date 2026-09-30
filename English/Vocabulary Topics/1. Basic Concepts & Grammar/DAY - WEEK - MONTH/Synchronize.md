@@ -2,8 +2,10 @@
 *verb*
 > /ˈsɪŋkrənaɪz/
 
+![[synchronize.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Tech | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Work/Tech | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cause to occur or operate at the same time or rate.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `synchronize watches`: đồng bộ đồng hồ
+- `synchronize data`: đồng bộ hóa dữ liệu
+- `synchronize efforts`: phối hợp nỗ lực đồng bộ
+- `synchronize swim`: bơi nghệ thuật đồng đội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dancers synchronized their movements perfectly.

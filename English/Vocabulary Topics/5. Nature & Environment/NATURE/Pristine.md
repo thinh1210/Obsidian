@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈprɪstiːn/
 
+![[pristine.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** NATURE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In its original condition; unspoiled.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pristine wilderness`: vùng hoang dã nguyên sơ
 - `pristine beach`: bãi biển nguyên sơ
+- `pristine condition`: tình trạng nguyên vẹn như mới
+- `pristine nature`: thiên nhiên nguyên sơ thanh khiết
+- `pristine waters`: vùng nước trong vắt tinh khôi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The tourists were amazed by the pristine beaches of the island.

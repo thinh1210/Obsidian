@@ -2,8 +2,10 @@
 *verb*
 > /spend/
 
+![[spend.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give money to pay for goods, services, or to pass time
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spend money on`: tiêu tiền vào việc gì
+- `spend money like water`: tiêu tiền như nước
+- `spend quality time`: dành thời gian quý báu bên cạnh người thân
+- `spending limit`: hạn mức chi tiêu cho phép
+- `spendthrift`: kẻ quen thói tiêu xài hoang phí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She spends too much money on clothes.

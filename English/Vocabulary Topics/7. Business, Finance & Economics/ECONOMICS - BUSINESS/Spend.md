@@ -2,8 +2,10 @@
 *verb*
 > /spend/
 
+![[spend.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to give money as a payment for something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spend money on`: chi tiền vào việc gì
 - `spend time`: dành thời gian
+- `government spending`: chi tiêu của chính phủ
+- `deficit spending`: chi tiêu vượt mức thu ngân sách
+- `cut back on spending`: thắt chặt / cắt giảm chi tiêu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* How much money do you spend on food every week?

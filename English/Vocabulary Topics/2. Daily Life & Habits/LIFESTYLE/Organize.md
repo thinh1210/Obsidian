@@ -2,8 +2,10 @@
 *v.*
 > /ˈɔːɡənaɪz/
 
+![[organize.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Arrange systematically; order.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `organize an event`: tổ chức một sự kiện
+- `organize one's daily life`: sắp xếp nếp sống hàng ngày ngăn nắp
+- `well-organized routine`: thói quen sinh hoạt được sắp đặt khoa học
+- `organize the workspace`: bố trí góc làm việc gọn gàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to organize my desk.

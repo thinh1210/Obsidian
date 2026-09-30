@@ -2,8 +2,10 @@
 *v.*
 > /ˈded.ɪ.keɪt/
 
+![[dedicate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give all of your energy, time, etc. to something
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dedicate life to`: cống hiến cả đời cho
 - `dedicate time to`: dành thời gian cho
+- `dedicate one's life to`: cống hiến cả cuộc đời cho
+- `dedicate a book to`: đề tặng cuốn sách cho ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He dedicated his life to helping the poor.

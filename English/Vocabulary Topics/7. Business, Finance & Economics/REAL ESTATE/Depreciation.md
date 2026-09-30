@@ -2,8 +2,10 @@
 *n.*
 > /dɪˌpriːʃiˈeɪʃn/
 
+![[depreciation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A reduction in the value of an asset over time, due in particular to wear and tear.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `property depreciation`: sự khấu hao bất động sản
 - `depreciation rate`: tỷ lệ khấu hao
+- `accelerated depreciation`: khấu hao nhanh tài sản công trình
+- `depreciation tax deduction`: khoản khấu trừ thuế từ chi phí hao mòn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* While land usually appreciates, the house itself suffers from depreciation over time.

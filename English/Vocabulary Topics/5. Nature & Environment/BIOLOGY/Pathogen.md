@@ -2,8 +2,10 @@
 *noun*
 > /ˈpæθ.ə.dʒən/
 
+![[pathogen.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bacterium, virus, or other microorganism that can cause disease.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bloodborne pathogen`: tác nhân gây bệnh qua đường máu
 - `target pathogens`: nhắm vào các mầm bệnh
+- `opportunistic pathogen`: mầm bệnh cơ hội
+- `pathogen transmission`: sự lây truyền tác nhân gây bệnh
+- `destroy pathogens`: tiêu diệt mầm bệnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The body's immune system fights off harmful pathogens.

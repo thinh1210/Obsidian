@@ -2,8 +2,10 @@
 *Adj*
 > /blænd/
 
+![[bland.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not having a strong taste or character.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈlændskeɪp/
 
+![[landscape.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of land, considered in terms of their aesthetic appeal.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural landscape`: phong cảnh tự nhiên
 - `landscape painting`: tranh phong cảnh
+- `urban landscape`: cảnh quan đô thị
+- `dramatic landscape`: cảnh quan thiên nhiên kỳ vĩ ấn tượng
+- `alter the political landscape`: thay đổi cục diện bối cảnh chính trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The landscape in the valley is breathtaking.

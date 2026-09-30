@@ -2,8 +2,10 @@
 *noun*
 > /flʌd/
 
+![[flood.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large amount of water covering an area that is usually dry.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flash flood`: lũ quét
 - `heavy floods`: lũ lụt nghiêm trọng
+- `flood barrier`: đê chắn sóng ngăn lũ
+- `flash flood warning`: cảnh báo lũ quét dâng nhanh
+- `flood into the streets`: tràn ra đường như thác lũ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The heavy rain caused a sudden flood in our street.

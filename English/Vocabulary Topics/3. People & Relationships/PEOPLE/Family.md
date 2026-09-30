@@ -2,8 +2,10 @@
 *n.*
 > /ˈfæm.əl.i/
 
+![[family.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of one or more parents and their children living together.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A big family`: Một gia đình lớn
+- `immediate family`: gia đình ruột thịt hạt nhân
+- `run in the family`: di truyền trong dòng dõi gia đình (idiom)
+- `family heirlooms`: kỷ vật gia truyền quý báu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love my family.

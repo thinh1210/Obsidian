@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɒl.ɪ.kjuːl/
 
+![[molecule.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of atoms bonded together, representing the smallest fundamental unit of a chemical compound.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `water molecule`: phân tử nước
 - `organic molecule`: phân tử hữu cơ
+- `macromolecule`: đại phân tử
+- `polar molecule`: phân tử phân cực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A water molecule consists of two hydrogen atoms and one oxygen atom.

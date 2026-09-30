@@ -2,8 +2,10 @@
 *noun.*
 > /ˈsɪɡ.nəl/
 
+![[signal.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electrical impulse or radio wave transmitted or received
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digital signal`: tín hiệu kỹ thuật số
+- `analog signal`: tín hiệu tương tự
+- `signal processing`: xử lý tín hiệu
+- `transmit signals`: truyền tín hiệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot lost the Wi-Fi signal and stopped moving.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈbæŋkrʌptsi/
 
+![[bankruptcy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A legal status of a person or entity that cannot repay their debts to creditors.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `file for bankruptcy`: nộp đơn phá sản
 - `declare bankruptcy`: tuyên bố phá sản
+- `face bankruptcy`: đối mặt bờ vực phá sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The retail chain declared bankruptcy after years of declining sales.

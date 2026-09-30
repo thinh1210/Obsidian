@@ -2,8 +2,10 @@
 *Noun*
 > /ˈrɒk.ɪt/
 
+![[rocket.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle propelled by the combustion of fuel to carry payloads into space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rocket launch`: vụ phóng tên lửa
 - `space rocket`: tên lửa vũ trụ
+- `rocket propellant`: thuốc phóng tên lửa
+- `rocket booster`: tầng đẩy tên lửa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched the rocket launch on TV.

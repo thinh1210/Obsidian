@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈklɪps/
 
+![[eclipse.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An obscuring of the light from one celestial body by the passage of another.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `solar eclipse`: nhật thực
 - `lunar eclipse`: nguyệt thực
+- `total eclipse`: nhật thực/nguyệt thực toàn phần
+- `annular eclipse`: nhật thực hình khuyên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* During the solar eclipse, the sky turned dark in the middle of the day.

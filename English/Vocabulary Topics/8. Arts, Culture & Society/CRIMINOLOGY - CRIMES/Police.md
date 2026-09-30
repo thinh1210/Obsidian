@@ -2,8 +2,10 @@
 *noun*
 > /pəˈliːs/
 
+![[police.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The official organization that keeps public order and prevents crime
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `police officer`: sĩ quan cảnh sát
 - `call the police`: gọi cảnh sát
+- `police custody`: sự tạm giữ tại cơ quan công an
+- `police brutality`: hành vi bạo lực quá mức của cảnh sát
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* If you see someone breaking in, call the police immediately.

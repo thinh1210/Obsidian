@@ -2,8 +2,10 @@
 *verb*
 > /ʃɑːp/
 
+![[shop.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To visit one or more stores for the purpose of buying goods
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `shop online`: mua sắm trực tuyến
 - `shop around`: đi khảo giá xung quanh
+- `online shop`: cửa hàng bán hàng trực tuyến
+- `pop-up shop`: cửa hàng dựng tạm thời theo mùa hoặc sự kiện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer to shop for groceries early in the morning when it is quiet.

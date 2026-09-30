@@ -2,8 +2,10 @@
 *adj.*
 > /traɪˈæŋ.ɡjə.lər/
 
+![[triangular.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shaped like a triangle.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A triangular prism`: Lăng kính tam giác
 - `A triangular shape`: Hình tam giác
+- `triangular trade`: thương mại tam giác
+- `triangular matrix`: ma trận tam giác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He folded the paper into a triangular shape.

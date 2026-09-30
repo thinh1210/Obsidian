@@ -2,8 +2,10 @@
 *Noun*
 > /leɪk/
 
+![[lake.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large area of water surrounded by land.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `freshwater lake`: hồ nước ngọt
 - `lake shore`: bờ hồ
+- `placid lake`: mặt hồ phẳng lặng êm đềm
+- `lake bed`: lòng hồ
+- `frozen lake`: hồ nước đóng băng mùa đông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We rented a small boat on the lake.

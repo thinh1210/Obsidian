@@ -2,8 +2,10 @@
 *adj.*
 > /ɪkˈskwɪzɪt/
 
+![[exquisite.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very beautiful and delicate.
@@ -13,7 +15,10 @@
 💡 Exquisite - ếch (ex) sợ (squi) tinh xảo.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `exquisite dress`: chiếc váy tinh xảo\n- `exquisite taste`: gu thẩm mỹ tuyệt vời
+- `exquisite dress`: chiếc váy tinh xảo
+- `exquisite taste`: gu thẩm mỹ tuyệt vời
+- `exquisite tailoring`: đường kim mũi chỉ may đo tuyệt hảo
+- `exquisitely dressed`: ăn mặc vô cùng tinh tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Look at this exquisite piece of jewelry.

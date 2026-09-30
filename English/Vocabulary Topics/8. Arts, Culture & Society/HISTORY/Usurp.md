@@ -2,8 +2,10 @@
 *verb*
 > /juːˈzɜːp/
 
+![[usurp.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take a position of power or importance illegally or by force.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `usurp the throne`: cướp ngôi vua
 - `usurp power`: đoạt quyền lực
+- `usurp political power`: chiếm đoạt quyền lực chính trị
+- `plot to usurp the throne`: mưu đồ cướp đoạt ngai vàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ambitious general plotted to usurp the throne from the young king.

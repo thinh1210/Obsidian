@@ -2,8 +2,10 @@
 *noun*
 > /ˈem.paɪər/
 
+![[empire.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extensive group of states or countries under a single ruling authority, formerly especially an emperor or empress.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fall of the empire`: sự sụp đổ của đế chế
 - `Roman Empire`: Đế chế La Mã
+- `Ottoman Empire`: Đế quốc Ottoman hùng mạnh trong lịch sử
+- `colonial empire`: đế chế thực dân bành trướng lãnh thổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The history museum has a large exhibit about the ancient Roman Empire.

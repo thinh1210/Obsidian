@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈsen.dənt/
 
+![[descendant.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is related to you and who lives after you.

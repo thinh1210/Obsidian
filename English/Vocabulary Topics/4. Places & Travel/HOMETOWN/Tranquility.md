@@ -2,8 +2,10 @@
 *n.*
 > /træŋˈkwɪləti/
 
+![[tranquility.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being tranquil; calm.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `peace and tranquility`: hòa bình và yên tĩnh
+- `inner tranquility`: sự thanh thản trong nội tâm
+- `shatter the tranquility`: phá tan bầu không khí tĩnh lặng
+- `oasis of tranquility`: ốc đảo bình yên tĩnh mịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love the tranquility of my hometown.

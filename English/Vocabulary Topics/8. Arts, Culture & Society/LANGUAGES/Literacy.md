@@ -2,8 +2,10 @@
 *n.*
 > /ˈlɪtərəsi/
 
+![[literacy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to read and write
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `computer literacy`: khả năng sử dụng máy tính
+- `digital literacy`: năng lực đọc hiểu kỹ thuật số
+- `functional literacy`: trình độ đọc viết thực hành cơ bản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The local community center offers adult literacy classes.

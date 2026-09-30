@@ -2,8 +2,10 @@
 *noun*
 > /ˈmem.wɑːr/
 
+![[memoir.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE
+**Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A historical account or biography written from personal knowledge.

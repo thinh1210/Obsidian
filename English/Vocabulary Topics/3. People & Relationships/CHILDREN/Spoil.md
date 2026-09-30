@@ -2,8 +2,10 @@
 *verb*
 > /spɔɪl/
 
+![[spoil.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Harm the character of a child by being too lenient or indulgent.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spoil a child`: làm hư một đứa trẻ
+- `spoil someone rotten`: nuông chiều ai quá đỗi hư đốn
+- `spoil the fun`: làm mất cả hứng vui (idiom)
+- `spoil someone's appetite`: làm ai ăn mất ngon
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Grandparents often spoil their grandkids.

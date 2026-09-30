@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɪz.ɪks/
 
+![[physics.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with the nature and properties of matter and energy.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `laws of physics`: các định luật vật lý
 - `theoretical physics`: vật lý lý thuyết
+- `particle physics`: vật lý hạt
+- `quantum physics`: vật lý lượng tử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He always found physics to be the hardest subject in school.

@@ -2,8 +2,10 @@
 *adj.*
 > /əˈkleɪmd/
 
+![[acclaimed.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Publicly praised; celebrated.
@@ -13,7 +15,10 @@
 💡 Claim (tuyên bố) + ac -> tuyên bố tán dương.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `critically acclaimed: được giới phê bình hoan nghênh`
+- `critically acclaimed`: được giới phê bình hoan nghênh
+- `highly acclaimed`: được ca ngợi đánh giá rất cao
+- `widely acclaimed novel`: cuốn tiểu thuyết được khen ngợi rộng rãi
+- `acclaimed performance`: màn trình diễn nhận cơn mưa lời khen
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The acclaimed author released a book.

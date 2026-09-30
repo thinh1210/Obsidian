@@ -2,8 +2,10 @@
 *v.*
 > /ˈkɒŋkə(r)/
 
+![[conquer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take control of a country or city and its people by force
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conquer the world`: chinh phục thế giới
 - `conquer territory`: xâm chiếm lãnh thổ
+- `conquer one's fears`: vượt qua nỗi sợ hãi của bản thân
+- `divide and conquer`: chia để trị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The army set out to conquer new lands.

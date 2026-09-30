@@ -2,8 +2,10 @@
 *noun*
 > /prɪˈsɪp.ɪ.tət/
 
+![[precipitate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An insoluble solid that emerges from a liquid solution.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `form a precipitate`: tạo thành chất kết tủa
 - `white precipitate`: kết tủa trắng
+- `yellow precipitate`: kết tủa vàng
+- `precipitate out of solution`: kết tủa ra khỏi dung dịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mixing silver nitrate and sodium chloride yields a white precipitate.

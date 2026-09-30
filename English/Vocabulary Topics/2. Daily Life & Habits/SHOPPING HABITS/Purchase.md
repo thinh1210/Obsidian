@@ -2,8 +2,10 @@
 *n/v*
 > /ˈpɜː.tʃəs/
 
+![[purchase.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To buy something
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make a purchase`: thực hiện mua hàng
+- `proof of purchase`: bằng chứng mua hàng (hóa đơn, biên nhận)
+- `bulk purchase`: đơn đặt mua số lượng lớn
+- `purchase power`: sức mua của người tiêu dùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I purchased a car.

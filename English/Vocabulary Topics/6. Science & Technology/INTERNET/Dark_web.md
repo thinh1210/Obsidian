@@ -2,8 +2,10 @@
 *noun*
 > /ˈdɑːk web/
 
+![[dark_web.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of the Internet that is intentionally hidden, requires special software to access, and is often associated with anonymous and illegal activity.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɪnkʌm/
 
+![[income.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** money that is earned from doing work or received from investments.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stable income`: thu nhập ổn định
 - `annual income`: thu nhập hàng năm
+- `disposable income`: thu nhập khả dụng sau thuế
+- `passive income`: nguồn thu nhập thụ động
+- `income inequality`: sự bất bình đẳng về thu nhập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her family depends on a single source of income.

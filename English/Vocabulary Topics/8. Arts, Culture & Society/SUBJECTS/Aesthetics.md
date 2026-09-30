@@ -2,8 +2,10 @@
 *n.*
 > /iːsˈθet.ɪks/
 
+![[aesthetics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of philosophy dealing with the nature of beauty, art, and taste and with the creation and appreciation of beauty.

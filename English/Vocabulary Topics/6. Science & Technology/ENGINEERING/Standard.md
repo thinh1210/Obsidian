@@ -2,8 +2,10 @@
 *noun/adjective*
 > /ˈstændəd/
 
+![[standard.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A level of quality or attainment, or an authorized model.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `safety standards`: các tiêu chuẩn an toàn
 - `standard procedure`: quy trình chuẩn
+- `industry standard`: tiêu chuẩn ngành
+- `meet quality standards`: đáp ứng các tiêu chuẩn chất lượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This apartment is built to a very high standard of construction.

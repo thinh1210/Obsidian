@@ -2,8 +2,10 @@
 *noun*
 > /ˈneb.jə.lə/
 
+![[nebula.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A giant cloud of dust and gas in space, often a nursery for new stars.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stellar nebula`: tinh vân sao
 - `planetary nebula`: tinh vân hành tinh
+- `emission nebula`: tinh vân phát xạ
+- `reflection nebula`: tinh vân phản xạ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The amateur astronomer photographed the Crab Nebula.

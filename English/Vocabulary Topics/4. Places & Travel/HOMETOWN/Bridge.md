@@ -2,8 +2,10 @@
 *n.*
 > /brɪdʒ/
 
+![[bridge.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure carrying a road or path across an obstacle.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross the bridge`: qua cầu
+- `suspension bridge`: cây cầu treo
+- `burn one's bridges`: tự tuyệt đường lui của mình
+- `build bridges`: xây dựng cầu nối hòa hợp gắn kết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bridge crosses the river.

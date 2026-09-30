@@ -2,8 +2,10 @@
 *adj.*
 > /əˈkuː.stɪk/
 
+![[acoustic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to sound or the sense of hearing; (of a musical instrument) not having its sound electrically amplified.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `acoustic guitar`: đàn ghi-ta mộc/thùng
 - `acoustic performance`: buổi biểu diễn mộc
+- `acoustic recording`: bản thu âm nhạc mộc
+- `acoustic vibe`: phong cách âm nhạc mộc mạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She performed an acoustic version of her hit song on YouTube.

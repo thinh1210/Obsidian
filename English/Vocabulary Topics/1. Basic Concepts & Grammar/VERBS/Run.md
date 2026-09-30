@@ -2,8 +2,10 @@
 *Verb*
 > /rʌn/
 
+![[run.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move at a speed faster than a walk.
@@ -13,7 +15,10 @@
 💡 Run (chạy) đi kẻo trễ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `run away`: chạy trốn\n- `run out of`: hết (cái gì đó)
+- `run away`: chạy trốn
+- `run out of`: hết (cái gì đó)
+- `run out of patience`: hết sạch kiên nhẫn
+- `run a business`: điều hành doanh nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I run every morning.

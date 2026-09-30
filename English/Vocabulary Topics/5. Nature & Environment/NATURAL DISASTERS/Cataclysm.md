@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæt.ə.klɪz.əm/
 
+![[cataclysm.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large-scale and violent event in the natural world.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `environmental cataclysm`: biến động môi trường lớn
 - `survive a cataclysm`: sống sót qua đại hồng thủy
+- `global cataclysm`: đại biến động / thảm họa địa chất toàn cầu
+- `cataclysmic event`: biến cố mang tính hủy diệt
+- `survive the cataclysm`: sống sót sau cơn biến thiên chấn động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Scientists warn that a supervolcano eruption would be a global cataclysm.

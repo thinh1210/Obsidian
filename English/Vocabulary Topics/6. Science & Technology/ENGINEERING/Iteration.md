@@ -2,8 +2,10 @@
 *noun*
 > /ˌɪtəˈreɪʃn/
 
+![[iteration.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The repetition of a process or utterance, or a new version of a piece of computer hardware or software.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `next iteration`: phiên bản tiếp theo
 - `design iteration`: chu kỳ lặp lại thiết kế
+- `rapid iteration`: sự lặp lại nhanh chóng
+- `product iteration`: chu kỳ cải tiến sản phẩm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The first design was poor, but after several iterations, it became a great product.

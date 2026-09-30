@@ -2,8 +2,10 @@
 *noun*
 > /wɜːld/
 
+![[world.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The earth with all its countries, peoples, and natural features.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `around the world`: quanh thế giới
 - `world map`: bản đồ thế giới
+- `alien world`: thế giới xa lạ ngoài hành tinh
+- `view of the world`: thế giới quan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a dream to travel around the world.

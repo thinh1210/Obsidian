@@ -2,8 +2,10 @@
 *noun*
 > /ˈtemprətʃə(r)/
 
+![[temperature.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A measure of how hot or cold something is
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `room temperature`: nhiệt độ phòng
+- `take someone's temperature`: đo nhiệt độ / cặp nhiệt độ cho ai
+- `temperature plummets`: nhiệt độ sụt giảm đột ngột
+- `soaring temperatures`: nhiệt độ tăng cao vùn vụt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The temperature dropped suddenly in the evening.

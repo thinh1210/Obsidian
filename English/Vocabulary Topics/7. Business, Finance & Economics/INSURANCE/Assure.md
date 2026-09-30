@@ -2,8 +2,10 @@
 *v.*
 > /əˈʃʊər/
 
+![[assure.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Tell someone something positively or confidently to dispel any doubts they may have.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `assure the client`: cam đoan với khách hàng
 - `rest assured`: hãy yên tâm
+- `assure quality`: cam đoan bảo đảm chất lượng
+- `reassure policyholders`: trấn an khách hàng tham gia bảo hiểm
+- `give full assurance`: đưa ra sự cam đoan chắc chắn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The agent assured me that my policy is active.

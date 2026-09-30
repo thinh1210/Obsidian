@@ -2,8 +2,10 @@
 *adjective.*
 > /ɪmˈpɜːmiəbl/
 
+![[impermeable.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not allowing fluid to pass through.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `impermeable layer`: lớp không thấm
 - `impermeable membrane`: màng không thấm
+- `impermeable rock`: tầng đá không thấm nước
+- `impermeable to moisture`: không thể thấm ẩm qua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Rain jackets are coated with an impermeable layer of polyurethane.

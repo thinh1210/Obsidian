@@ -2,8 +2,10 @@
 *n*
 > /ˌkɒn.stɪˈtjuː.ʃən/
 
+![[constitution.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fundamental laws and principles that govern a country.

@@ -2,8 +2,10 @@
 *n.*
 > /əˈpreɪzl/
 
+![[appraisal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An expert estimate of the value of something, such as property or jewelry, for insurance purposes.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `property appraisal`: sự thẩm định giá tài sản
 - `independent appraisal`: sự thẩm định giá độc lập
+- `damage appraisal`: giám định mức độ thiệt hại tài sản
+- `vehicle appraisal`: thẩm định hiện trạng và giá trị xe cơ giới
+- `appraisal fee`: chi phí thẩm định tổn thất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a professional appraisal of the house before buying home insurance.

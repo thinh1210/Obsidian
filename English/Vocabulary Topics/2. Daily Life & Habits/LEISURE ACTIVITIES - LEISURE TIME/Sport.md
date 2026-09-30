@@ -2,8 +2,10 @@
 *n*
 > /spɔːt/
 
+![[sport.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving physical exertion and skill.
@@ -13,7 +15,11 @@
 💡 Sport - sờ pót (pot) chơi thể thao ra mồ hôi ướt bình nước.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `play sports`: chơi thể thao\n- `extreme sports`: thể thao mạo hiểm
+- `play sports`: chơi thể thao
+- `extreme sports`: thể thao mạo hiểm
+- `participate in sports`: tham gia các hoạt động thể thao
+- `good sport`: người chơi đẹp, có tinh thần thượng võ
+- `spectator sport`: môn thể thao thu hút đông người xem
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Football is my favorite sport.

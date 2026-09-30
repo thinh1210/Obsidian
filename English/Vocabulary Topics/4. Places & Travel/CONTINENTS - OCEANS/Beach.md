@@ -2,8 +2,10 @@
 *noun*
 > /biːtʃ/
 
+![[beach.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pebbly or sandy shore, especially by the ocean between high- and low-water marks.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to the beach`: đi biển
+- `sandy beach`: bãi biển cát mịn
+- `stroll along the beach`: đi dạo dọc bãi biển
+- `beach resort`: khu nghỉ dưỡng ven biển
+- `private beach`: bãi biển riêng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We walked along the beach.

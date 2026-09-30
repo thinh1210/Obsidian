@@ -2,8 +2,10 @@
 *noun*
 > /stɔːr/
 
+![[store.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A retail establishment selling items to the public
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `department store`: cửa hàng bách hóa
 - `convenience store`: cửa hàng tiện lợi
+- `flagship store`: cửa hàng biểu tượng định hình phong cách thương hiệu
+- `brick-and-mortar store`: cửa hàng kinh doanh ngoài đời thực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to run to the convenience store to buy some milk.

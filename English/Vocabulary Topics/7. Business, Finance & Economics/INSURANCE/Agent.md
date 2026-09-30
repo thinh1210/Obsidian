@@ -2,8 +2,10 @@
 *n.*
 > /ˈeɪdʒənt/
 
+![[agent.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who is authorized to act for another, specifically representing an insurance company.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insurance agent`: đại lý bảo hiểm
 - `local agent`: đại lý địa phương
+- `authorized agent`: đại lý được ủy quyền chính thức
+- `captive agent`: đại lý bảo hiểm độc quyền của hãng
+- `exclusive agent`: đại lý phân phối độc quyền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our insurance agent helped us complete the claims forms.

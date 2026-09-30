@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɒnəˈsɜːr/
 
+![[connoisseur.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expert judge in matters of taste, especially in fine arts or food.

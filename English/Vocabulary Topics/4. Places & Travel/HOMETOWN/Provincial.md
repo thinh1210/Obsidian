@@ -2,8 +2,10 @@
 *adj.*
 > /prəˈvɪnʃl/
 
+![[provincial.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of or concerning a province of a country or empire; narrow-minded.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `provincial town`: thị trấn tỉnh lẻ
+- `provincial capital`: tỉnh lỵ
+- `provincial government`: chính quyền cấp tỉnh
+- `provincial outlook`: cái nhìn thiển cận cục bộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has a very provincial attitude.

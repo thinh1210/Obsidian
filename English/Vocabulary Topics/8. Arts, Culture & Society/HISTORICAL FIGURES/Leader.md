@@ -2,8 +2,10 @@
 *n.*
 > /ˈliːdə(r)/
 
+![[leader.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who rules or guides others
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `charismatic leader`: nhà lãnh đạo lôi cuốn
 - `political leader`: nhà lãnh đạo chính trị
+- `inspirational leader`: nhà lãnh đạo truyền cảm hứng
+- `emerge as a leader`: vươn lên thành một nhà lãnh đạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a natural leader in her class.

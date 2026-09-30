@@ -1,13 +1,21 @@
 # Ubiquity
 
 *Noun*
+> /juːˈbɪk.wə.ti/
+
+![[ubiquity.mp3]]
 
 - **[EN]:** The state of being very common or appearing to be everywhere at once.
 - **[VN]:** Sự có mặt ở khắp nơi, tính phổ biến rộng khắp.
 
-**Level:** C2
+**Level:** C2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Hiện tượng triết học, Nghịch lý & Dấu ấn thời gian
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `ubiquity of smartphones`: sự phổ biến ở khắp mọi nơi của điện thoại thông minh
+- `cultural ubiquity`: sự hiện diện tràn ngập khắp nền văn hóa
+- `near ubiquity`: mức độ hiện diện gần như bao trùm muôn nơi
+
 ## Examples
 1. *The ubiquity of smartphones has changed communication.*
    - Sự phổ biến ở khắp nơi của điện thoại thông minh đã thay đổi việc giao tiếp.

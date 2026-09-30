@@ -2,8 +2,10 @@
 *noun*
 > /ˈdəʊpəmiːn luːp/
 
+![[dopamine_loop.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cycle of behavior driven by the chemical reward system in the brain, reinforced by social media notifications
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `addictive dopamine loop`: vòng lặp dopamine gây nghiện
+- `break the dopamine loop`: phá vỡ vòng lặp thèm dopamine
+- `trigger a dopamine loop`: kích hoạt vòng lặp hưng phấn dopamine
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The constant pulling down to refresh the screen is a classic dopamine loop.

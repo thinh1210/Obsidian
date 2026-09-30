@@ -2,8 +2,10 @@
 *n.*
 > /ˈæksɪdənt/
 
+![[accident.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Something bad that happens that is not expected or intended and that often damages something or injures someone.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `car accident`: tai nạn xe hơi
 - `by accident`: tình cờ, vô tình
+- `fatal accident`: tai nạn chết người
+- `accident report`: biên bản ghi nhận hiện trường tai nạn
+- `involved in an accident`: gặp phải / liên quan đến một vụ tai nạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She had a minor car accident yesterday but she is fine.

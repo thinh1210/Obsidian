@@ -2,8 +2,10 @@
 *adj.*
 > /bɪɡ/
 
+![[big.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of large size
@@ -13,7 +15,10 @@
 💡 Big là to lớn
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``big deal`: chuyện lớn`
+- `big deal`: chuyện lớn
+- `big break`: cơ hội đổi đời / bước ngoặt lớn
+- `make a big difference`: tạo ra sự khác biệt lớn
+- `think big`: nghĩ lớn / có chí lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A big house.

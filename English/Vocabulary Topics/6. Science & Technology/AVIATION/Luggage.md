@@ -2,8 +2,10 @@
 *noun*
 > /ˈlʌɡ.ɪdʒ/
 
+![[luggage.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Suitcases and bags that you take with you when travelling.

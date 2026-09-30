@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɒnsət/
 
+![[concert.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A musical performance given in public, typically by several performers or of several separate compositions.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `attend a concert`: tham dự buổi hòa nhạc
 - `rock concert`: buổi hòa nhạc rock
+- `live concert`: buổi hòa nhạc trực tiếp
+- `sold-out concert`: buổi biểu diễn cháy sạch vé
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are going to an outdoor concert this weekend.

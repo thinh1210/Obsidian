@@ -2,8 +2,10 @@
 *Verb*
 > /fəˈsɪl.ɪ.teɪt/
 
+![[facilitate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something possible or easier.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `facilitate growth`: tạo điều kiện cho sự phát triển
 - `facilitate communication`: tạo thuận lợi cho giao tiếp
+- `facilitate learning`: tạo điều kiện thuận lợi cho việc học
+- `facilitate trade`: tạo thuận lợi cho thương mại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The new app facilitates sharing files between devices.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌpæs.ər.ɪˈfɔː.miːz/
 
+![[passeriformes.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The large taxonomic order of birds that includes all perching birds or songbirds.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `species of Passeriformes`: các loài thuộc bộ Sẻ
 - `avian order Passeriformes`: bộ Sẻ ở loài chim
+- `order Passeriformes`: bộ Sẻ trong phân loại sinh học
+- `passeriform birds`: các loài thuộc bộ chim sẻ
+- `diversity of Passeriformes`: sự đa dạng phong phú của bộ chim Sẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* More than half of all bird species belong to the order Passeriformes.

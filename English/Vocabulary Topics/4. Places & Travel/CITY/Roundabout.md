@@ -2,8 +2,10 @@
 *n.*
 > /ˈraʊndəbaʊt/
 
+![[roundabout.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circular place where roads meet and traffic goes around a central island.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `at the roundabout`: ở bùng binh
+- `traffic roundabout`: bùng binh giao thông
+- `roundabout way`: con đường vòng vèo; cách nói vòng vo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Take the second exit at the roundabout.

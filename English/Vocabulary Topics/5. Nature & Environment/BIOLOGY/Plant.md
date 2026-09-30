@@ -2,8 +2,10 @@
 *noun*
 > /plɑːnt/
 
+![[plant.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `house plant`: cây trong nhà
 - `plant species`: loài thực vật
+- `plant breeding`: nhân giống và lai tạo thực vật
+- `medicinal plant`: cây thuốc, cây dược liệu
+- `plant physiology`: sinh lý học thực vật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to water the plants in my garden.

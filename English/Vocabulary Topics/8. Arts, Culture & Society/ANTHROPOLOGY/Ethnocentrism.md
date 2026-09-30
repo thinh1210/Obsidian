@@ -2,8 +2,10 @@
 *n.*
 > /ˌeθ.nəʊˈsen.trɪ.zəm/
 
+![[ethnocentrism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Evaluation of other cultures according to preconceptions originating in the standards and customs of one's own culture.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultural ethnocentrism`: thái độ vị chủng văn hóa
 - `avoid ethnocentrism`: tránh thái độ vị chủng
+- `overcome ethnocentrism`: vượt qua thái độ vị chủng
+- `ethnocentric bias`: định kiến vị chủng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Travel is a great way to overcome ethnocentrism.

@@ -2,8 +2,10 @@
 *noun*
 > /pəˈliːs/
 
+![[police.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official organization of a state or country responsible for maintaining public order and safety.

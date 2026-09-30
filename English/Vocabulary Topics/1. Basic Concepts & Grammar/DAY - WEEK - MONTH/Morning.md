@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɔːnɪŋ/
 
+![[morning.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The early part of the day, from sunrise to noon.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `good morning`: chào buổi sáng
+- `early morning`: sáng sớm
+- `morning sickness`: ốm nghén buổi sáng
+- `first thing in the morning`: việc đầu tiên vào buổi sáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I drink coffee every morning.

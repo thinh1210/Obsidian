@@ -2,8 +2,10 @@
 *noun*
 > /ˈiː.pɒk/
 
+![[epoch.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular period of time in history or a person's life, typically one marked by notable events or particular characteristics.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `new epoch`: kỷ nguyên mới
 - `epoch-making`: mang tính thời đại (đại sự)
+- `dawn of an epoch`: bình minh mở ra một kỷ nguyên lịch sử mới
+- `turbulent epoch`: thời đại đầy biến động bão táp lịch sử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Graduating from college marked the beginning of a new epoch in her life.

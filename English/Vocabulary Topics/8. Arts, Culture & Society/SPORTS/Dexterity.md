@@ -2,8 +2,10 @@
 *n.*
 > /dekˈster.ə.ti/
 
+![[dexterity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Skill in performing tasks, especially with the hands.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `manual dexterity`: sự khéo tay
 - `exceptional dexterity`: sự khéo léo đặc biệt
+- `finger dexterity`: sự khéo léo của các ngón tay
+- `physical dexterity`: sự nhanh nhẹn khéo léo của cơ thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Playing the piano requires great manual dexterity.

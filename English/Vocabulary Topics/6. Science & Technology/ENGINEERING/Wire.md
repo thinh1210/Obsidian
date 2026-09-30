@@ -2,8 +2,10 @@
 *noun*
 > /ˈwaɪə(r)/
 
+![[wire.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Metal drawn out into the form of a thin flexible thread or rod.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `copper wire`: dây đồng
 - `barbed wire`: dây kẽm gai
+- `electrical wire`: dây điện
+- `wire harness`: bộ bó dây điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Be careful, there is a loose wire hanging from the ceiling.

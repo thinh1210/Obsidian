@@ -2,8 +2,10 @@
 *adj*
 > /ɪnˈdɪɡnənt/
 
+![[indignant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing anger or annoyance at what is perceived as unfair treatment.

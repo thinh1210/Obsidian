@@ -2,8 +2,10 @@
 *n.*
 > /ɡaɪ/
 
+![[guy.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A man.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A nice guy`: Một anh chàng tốt
+- `nice guy`: chàng trai tốt bụng dễ mến
+- `regular guy`: anh chàng bình dị đời thường
+- `fall guy`: kẻ gánh tội thay / dê tế thần (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a cool guy.

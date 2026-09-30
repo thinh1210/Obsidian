@@ -2,8 +2,10 @@
 *n/adj*
 > /ˈhəʊl.seɪl/
 
+![[wholesale.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Selling goods in large quantities
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wholesale price`: giá bán buôn
+- `wholesale market`: chợ đầu mối bán buôn
+- `wholesale distributor`: nhà phân phối bán sỉ
+- `buy at wholesale prices`: mua theo giá gốc bán buôn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They buy wholesale.

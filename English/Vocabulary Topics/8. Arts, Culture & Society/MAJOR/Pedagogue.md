@@ -2,8 +2,10 @@
 *n.*
 > /ˈped.ə.ɡɒɡ/
 
+![[pedagogue.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A teacher, especially one who is strict or pedantic; an educator concerned with principles of teaching.

@@ -2,8 +2,10 @@
 *adj*
 > /ˈmɪzrəbl/
 
+![[miserable.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wretchedly unhappy or uncomfortable.

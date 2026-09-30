@@ -2,8 +2,10 @@
 *adjective*
 > /sʌbˈlɪmɪnl/
 
+![[subliminal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Below the threshold of sensation or consciousness; affecting someone's mind without their being aware of it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `subliminal advertising`: quảng cáo tác động vào tiềm thức
 - `subliminal message`: thông điệp tiềm thức
+- `subliminal perception`: nhận thức dưới ngưỡng ý thức
+- `subliminal cue`: tín hiệu tác động tiềm thức
+- `subliminal stimulus`: kích thích tiềm thức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The music in the supermarket can have a subliminal effect on shoppers.

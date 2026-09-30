@@ -2,8 +2,10 @@
 *Noun*
 > /ˈbæt.ər.i/
 
+![[battery.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that produces electricity to provide power for radios, cars, etc.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rechargeable battery`: pin sạc
 - `battery life`: thời lượng pin
+- `flat battery`: pin bị cạn hết điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My phone battery is dead.

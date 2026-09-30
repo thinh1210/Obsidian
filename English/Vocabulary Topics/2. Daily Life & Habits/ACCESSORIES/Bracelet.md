@@ -2,8 +2,10 @@
 *noun*
 > /ˈbreɪslət/
 
+![[bracelet.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewellery that is worn around the wrist or arm.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a gold bracelet`: một chiếc vòng tay vàng
+- `charm bracelet`: vòng tay gắn hạt trang trí lưu niệm
+- `tennis bracelet`: vòng tay đính hạt kim cương viền
+- `clasp on a bracelet`: móc cài của chiếc vòng tay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wears a silver bracelet on her left wrist.

@@ -2,8 +2,10 @@
 *Noun/Verb*
 > /ɡaɪd/
 
+![[guide.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** TOURING - TOURISM
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Lưu trú, Dẫn đường & Cẩm nang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose job is showing a place or a particular route to visitors.
@@ -13,7 +15,11 @@
 💡 GÀI (Guide) bẫy hướng dẫn viên.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `tour guide`: hướng dẫn viên du lịch\n- `guide someone through`: hướng dẫn ai đó qua
+- `tour guide`: hướng dẫn viên du lịch
+- `guide someone through`: hướng dẫn ai đó qua
+- `audio guide device`: thiết bị tai nghe thuyết minh tự động
+- `professional tour guide`: hướng dẫn viên du lịch chuyên nghiệp
+- `local guide`: người dẫn đường thổ địa am hiểu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our tour guide was very funny and informative.

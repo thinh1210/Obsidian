@@ -2,8 +2,10 @@
 *adj*
 > /faɪn/
 
+![[fine.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of high quality; good or acceptable.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fine weather`: thời tiết đẹp
+- `fine line`: ranh giới mong manh
+- `fine dining`: ẩm thực cao cấp
+- `in fine form`: đang có phong độ rất tốt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am feeling fine.

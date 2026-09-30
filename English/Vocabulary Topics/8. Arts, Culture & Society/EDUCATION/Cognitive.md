@@ -2,8 +2,10 @@
 *adj.*
 > /ˈkɒɡnətɪv/
 
+![[cognitive.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the mental process of acquiring knowledge and understanding
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cognitive development`: sự phát triển nhận thức
 - `cognitive psychology`: tâm lý học nhận thức
+- `cognitive abilities`: các năng lực nhận thức và tư duy
+- `cognitive load`: tải lượng nhận thức của não bộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Reading improves children's cognitive skills.

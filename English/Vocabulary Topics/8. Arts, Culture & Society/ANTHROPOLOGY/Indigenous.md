@@ -2,8 +2,10 @@
 *adj.*
 > /ɪnˈdɪdʒ.ɪ.nəs/
 
+![[indigenous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Originating or occurring naturally in a particular place; native.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `indigenous rights`: quyền của người bản địa
 - `indigenous knowledge`: tri thức bản địa
+- `indigenous population`: dân cư bản địa
+- `indigenous culture`: văn hóa bản địa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They sell crafts made by indigenous artists.

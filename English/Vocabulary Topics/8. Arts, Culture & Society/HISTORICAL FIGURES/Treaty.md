@@ -2,8 +2,10 @@
 *n.*
 > /ˈtriːti/
 
+![[treaty.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formally concluded and ratified agreement between countries
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sign a treaty`: ký hiệp ước
 - `peace treaty`: hiệp ước hòa bình
+- `ratify a treaty`: phê chuẩn một hiệp ước
+- `breach of treaty`: sự vi phạm hiệp ước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The representative signed the trade treaty yesterday.

@@ -2,8 +2,10 @@
 *n*
 > /ˌdiːˌsen.trə.laɪˈzeɪ.ʃən/
 
+![[decentralization.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The movement of departments of a large organization away from a single administrative center to other locations.

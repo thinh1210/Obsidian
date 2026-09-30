@@ -2,8 +2,10 @@
 *v.*
 > /ɪmˈplɔɪ/
 
+![[employ.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give work to someone and pay them for it
@@ -13,8 +15,11 @@
 💡 Im loi (employ) để sếp tuyển dụng vào làm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``employ staff`: tuyển dụng nhân viên`
-- ``employ methods`: áp dụng phương pháp`
+- `employ staff`: tuyển dụng nhân viên
+- `employ methods`: áp dụng phương pháp
+- `gainful employment`: công ăn việc làm mang lại thu nhập ổn định
+- `equal opportunity employer`: nhà tuyển dụng bảo đảm cơ hội bình đẳng
+- `employ creative methods`: vận dụng những phương pháp đầy tính sáng tạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* How many people does the factory employ?

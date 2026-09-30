@@ -2,8 +2,10 @@
 *adj.*
 > /dɪˈbɪlɪteɪtɪŋ/
 
+![[debilitating.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Making someone very weak and infirm
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `debilitating disease`: căn bệnh suy nhược
 - `debilitating effect`: tác động làm suy yếu
+- `debilitating condition`: tình trạng suy nhược thể chất
+- `debilitating anxiety`: sự lo âu làm tê liệt tinh thần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a debilitating illness.

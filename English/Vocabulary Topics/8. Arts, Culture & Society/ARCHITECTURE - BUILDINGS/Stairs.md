@@ -2,8 +2,10 @@
 *n.*
 > /steəz/
 
+![[stairs.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of steps leading from one floor of a building to another
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `climb the stairs`: leo cầu thang
 - `flight of stairs`: dãy cầu thang
+- `spiral stairs`: cầu thang xoắn ốc
+- `wooden stairs`: cầu thang gỗ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He ran up the stairs to get his jacket.

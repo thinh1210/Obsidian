@@ -2,8 +2,10 @@
 *noun*
 > /prɪˌsɪp.ɪˈteɪ.ʃən/
 
+![[precipitation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Rain, snow, sleet, or hail that falls to the ground.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `annual precipitation`: lượng mưa hàng năm
 - `heavy precipitation`: lượng mưa lớn
+- `measure precipitation levels`: đo đạc lượng giáng thủy
+- `seasonal precipitation`: lượng giáng thủy theo mùa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dry season is characterized by very low precipitation.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌdepəˈzɪʃn/
 
+![[deposition.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Sworn testimony given by a witness outside court, recorded for later use in legal proceedings

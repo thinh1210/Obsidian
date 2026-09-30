@@ -2,8 +2,10 @@
 *adj.*
 > /ɪɡˈzɔːstɪd/
 
+![[exhausted.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely tired
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feel exhausted`: cảm thấy kiệt sức
 - `completely exhausted`: hoàn toàn kiệt sức
+- `exhausted physically and mentally`: kiệt sức cả thể xác lẫn tinh thần
+- `exhaust all possibilities`: thử hết mọi khả năng phương án
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am exhausted after the trip.

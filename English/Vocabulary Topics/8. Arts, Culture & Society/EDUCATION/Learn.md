@@ -2,8 +2,10 @@
 *v.*
 > /lɜːn/
 
+![[learn.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To gain knowledge or skill by study, experience, or being taught
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `learn a lesson`: học một bài học
 - `learn by heart`: học thuộc lòng
+- `lifelong learning`: tinh thần học tập suốt đời không ngừng nghỉ
+- `steep learning curve`: quá trình tiếp thu lúc đầu gặp nhiều khó khăn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to learn English.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈnepətɪzəm/
 
+![[nepotism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice among those with power or influence of favoring relatives, friends, or associates, especially by giving them jobs.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political nepotism`: nạn con ông cháu cha trong chính trị
 - `accused of nepotism`: bị buộc tội gia đình trị
+- `blatant nepotism`: nạn gia đình trị trắng trợn
+- `tainted by nepotism`: bị hoen ố bởi nạn con ông cháu cha
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many people suspect nepotism when the mayor's son got the city job.

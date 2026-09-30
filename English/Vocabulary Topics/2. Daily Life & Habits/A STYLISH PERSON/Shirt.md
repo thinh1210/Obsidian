@@ -2,8 +2,10 @@
 *n.*
 > /ʃɜːrt/
 
+![[shirt.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for the upper body.
@@ -13,7 +15,11 @@
 💡 Shirt - sợ ướt áo sơ mi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `cotton shirt`: áo sơ mi cotton\n- `long-sleeved shirt`: áo dài tay
+- `cotton shirt`: áo sơ mi cotton
+- `long-sleeved shirt`: áo dài tay
+- `crisp white shirt`: áo sơ mi trắng tinh tươm phẳng phiu
+- `tuck in a shirt`: sơ vin áo sơ mi
+- `button-down shirt`: áo sơ mi có cúc cổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is ironing his white shirt.

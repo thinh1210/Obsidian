@@ -2,8 +2,10 @@
 *n.*
 > /ˈsaɪdwɔːk/
 
+![[sidewalk.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A path with a hard surface on one or both sides of a road.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `walk on the sidewalk`: đi bộ trên vỉa hè
+- `paved sidewalk`: vỉa hè lát đá
+- `sidewalk cafe`: quán cà phê vỉa hè
+- `step off the sidewalk`: bước xuống vỉa hè
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please walk on the sidewalk.

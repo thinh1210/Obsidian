@@ -2,8 +2,10 @@
 *noun*
 > /kwiːn/
 
+![[queen.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A female ruler of a country, or the wife of a king
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `queen consort`: hoàng hậu
 - `reigning queen`: nữ hoàng trị vì
+- `burial chamber of the queen`: hầm mộ của nữ hoàng
+- `royal tomb of Queen Nefertiti`: lăng mộ hoàng gia của Nữ hoàng Nefertiti
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The queen visited the charity organization yesterday.

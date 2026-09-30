@@ -2,8 +2,10 @@
 *noun*
 > /ˈmɪtn/
 
+![[mitten.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of glove with a single part for all the fingers and a separate part for the thumb.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of woollen mittens`: một đôi găng tay len liền ngón
+- `pair of mittens`: đôi găng tay bao liền ngón
+- `knitted mittens`: găng tay len liền ngón tự đan
+- `waterproof mittens`: găng tay bọc chống thấm nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The child wore colorful mittens in the snow.

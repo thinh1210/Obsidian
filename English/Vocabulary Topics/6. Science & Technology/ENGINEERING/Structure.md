@@ -2,8 +2,10 @@
 *noun*
 > /ˈstrʌktʃə(r)/
 
+![[structure.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of and relations between the parts or elements of something complex.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `steel structure`: kết cấu thép
 - `organizational structure`: cơ cấu tổ chức
+- `load-bearing structure`: kết cấu chịu lực
+- `support structure`: kết cấu đỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bridge has a strong steel structure that can withstand heavy traffic.

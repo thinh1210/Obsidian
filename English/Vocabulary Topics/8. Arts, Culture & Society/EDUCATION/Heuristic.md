@@ -2,8 +2,10 @@
 *adj.*
 > /hjuˈrɪstɪk/
 
+![[heuristic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Enabling a person to discover or learn something for themselves
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `heuristic method`: phương pháp tự học
 - `heuristic evaluation`: đánh giá dựa trên kinh nghiệm
+- `heuristic technique`: kỹ thuật dựa trên kinh nghiệm thực tế
+- `heuristic learning`: phương pháp học hỏi thông qua tự khám phá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The teacher used a heuristic method to encourage independent learning.

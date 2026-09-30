@@ -2,8 +2,10 @@
 *noun*
 > /ˈblɪz.əd/
 
+![[blizzard.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A severe snowstorm with strong winds and low visibility.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `severe blizzard`: cơn bão tuyết khắc nghiệt
 - `blizzard conditions`: điều kiện bão tuyết
+- `howling blizzard`: cơn bão tuyết gầm rú dữ dội
+- `trapped in a blizzard`: bị mắc kẹt trong bão tuyết
+- `blizzard warning`: cảnh báo bão tuyết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We were stuck at the airport due to the blizzard outside.

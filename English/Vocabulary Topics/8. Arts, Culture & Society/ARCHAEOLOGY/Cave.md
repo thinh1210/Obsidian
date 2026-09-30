@@ -2,8 +2,10 @@
 *noun*
 > /keɪv/
 
+![[cave.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large hole in the side of a hill or cliff, or under the ground
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cave painting`: tranh hang động
 - `cave system`: hệ thống hang động
+- `cave dweller`: người tiền sử sống trong hang động
+- `prehistoric cave`: hang động thời tiền sử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We explored a dark cave yesterday.

@@ -2,8 +2,10 @@
 *noun*
 > /θiːm/
 
+![[theme.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An idea that recurs in or pervades a work of art or literature.

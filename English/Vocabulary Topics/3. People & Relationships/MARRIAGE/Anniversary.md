@@ -2,8 +2,10 @@
 *noun*
 > /ˌænɪˈvɜːsəri/
 
+![[anniversary.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The date on which an event took place in a previous year.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Wedding anniversary`: Kỷ niệm ngày cưới
+- `golden wedding anniversary`: kỷ niệm đám cưới vàng (50 năm)
+- `silver wedding anniversary`: kỷ niệm đám cưới bạc (25 năm)
+- `celebrate an anniversary`: kỷ niệm ngày cưới ấm áp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Happy anniversary!

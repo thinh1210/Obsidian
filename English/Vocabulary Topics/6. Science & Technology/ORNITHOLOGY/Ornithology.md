@@ -2,8 +2,10 @@
 *noun*
 > /ˌɔː.nɪˈθɒl.ə.dʒi/
 
+![[ornithology.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of birds.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `field of ornithology`: lĩnh vực điểu học
 - `ornithology department`: khoa điểu học
+- `study ornithology`: nghiên cứu ngành điểu học
+- `amateur ornithology`: thú vui quan sát chim chóc nghiệp dư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He decided to study ornithology because of his passion for bird watching.

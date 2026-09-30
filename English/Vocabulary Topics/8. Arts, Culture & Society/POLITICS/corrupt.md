@@ -2,8 +2,10 @@
 *adjective*
 > /kəˈrʌpt/
 
+![[corrupt.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing a willingness to act dishonestly in return for money or personal gain.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `corrupt politician`: chính trị gia tham nhũng
 - `corrupt system`: hệ thống tham nhũng
+- `corrupt practices`: các hành vi tham nhũng biến chất
+- `deeply corrupt`: bị tha hóa tham nhũng sâu sắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The local police force was accused of being corrupt.

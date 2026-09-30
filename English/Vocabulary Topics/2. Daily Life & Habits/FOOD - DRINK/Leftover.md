@@ -2,8 +2,10 @@
 *n.*
 > /ˈleftˌəʊ.vər/
 
+![[leftover.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Food remaining after a meal.

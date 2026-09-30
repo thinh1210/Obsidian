@@ -2,8 +2,10 @@
 *n*
 > /fɪˈzɪʃn/
 
+![[physician.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person qualified to practice medicine, especially one who specializes in medicine rather than surgery.

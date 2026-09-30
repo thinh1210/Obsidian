@@ -2,8 +2,10 @@
 *verb*
 > /əkˈsel.ər.eɪt/
 
+![[accelerate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To increase in speed or rate; in physics, to change velocity over time.

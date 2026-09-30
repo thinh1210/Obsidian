@@ -2,8 +2,10 @@
 *Adjective*
 > /ˈprɒflɪɡət/
 
+![[profligate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Recklessly wasteful in the use of resources.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `profligate spending`: chi tiêu hoang phí
 - `profligate lifestyle`: lối sống hoang phí/trác táng
+- `profligate habits`: những tật xấu tiêu xài phung phí
+- `curb profligate behavior`: kìm chế thói quen tiêu hoang vô độ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His profligate habits led him to bankrupt the family estate within five years.

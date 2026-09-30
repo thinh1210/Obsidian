@@ -2,8 +2,10 @@
 *verb*
 > /ˈdʒɜːmɪneɪt/
 
+![[germinate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a seed or spore) begin to grow and put out shoots after a period of dormancy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `germinate seeds`: cho nảy mầm hạt
 - `fail to germinate`: không nảy mầm được
+- `seed germination rate`: tỷ lệ hạt nảy mầm
+- `germinate an idea`: nhen nhóm hình thành một ý tưởng
+- `favorable conditions to germinate`: điều kiện thuận lợi để hạt nảy mầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Some seeds require a cold period before they can germinate.

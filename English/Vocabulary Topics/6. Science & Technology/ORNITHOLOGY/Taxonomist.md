@@ -2,8 +2,10 @@
 *noun*
 > /tækˈsɒn.ə.mɪst/
 
+![[taxonomist.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A biologist who groups organisms into categories.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `avian taxonomist`: nhà phân loại học chim
 - `expert taxonomist`: nhà phân loại học chuyên gia
+- `taxonomist classification`: hệ thống phân loại của nhà sinh vật học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The taxonomist helped identify the mysterious bird found in the forest.

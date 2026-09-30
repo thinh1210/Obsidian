@@ -2,8 +2,10 @@
 *n.*
 > /brɪdʒ/
 
+![[bridge.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A structure built over a river, road, or railway
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cross a bridge`: đi qua cầu
 - `suspension bridge`: cầu treo
+- `cable-stayed bridge`: cầu dây văng
+- `arch bridge`: cầu vòm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We walked across the old wooden bridge.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈhedbænd/
 
+![[headband.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A narrow strip of material worn around the head, to keep the hair or sweat out of the eyes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wear a headband`: đeo băng đô
+- `sweatband headband`: băng đô thấm mồ hôi tập thể thao
+- `floral headband`: vòng hoa đội đầu/băng đô hoa
+- `elastic headband`: băng đô co giãn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wears a headband to absorb sweat while jogging.

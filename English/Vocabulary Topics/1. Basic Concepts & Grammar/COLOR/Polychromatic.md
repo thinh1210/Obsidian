@@ -2,8 +2,10 @@
 *adj*
 > /ˌpɑː.li.kroʊˈmæt̬.ɪk/
 
+![[polychromatic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing several colors.

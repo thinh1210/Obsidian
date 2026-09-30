@@ -2,8 +2,10 @@
 *noun*
 > /haɪˈpɒθ.ɪ.sɪs/
 
+![[hypothesis.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A proposed explanation for an observation that can be tested through experimentation.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌreɪ.diˈeɪ.ʃən/
 
+![[radiation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The emission of energy as electromagnetic waves or as moving subatomic particles.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cosmic radiation`: bức xạ vũ trụ
 - `solar radiation`: bức xạ mặt trời
+- `electromagnetic radiation`: bức xạ điện từ
+- `background radiation`: bức xạ nền
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We use sunscreen to protect our skin from solar radiation.

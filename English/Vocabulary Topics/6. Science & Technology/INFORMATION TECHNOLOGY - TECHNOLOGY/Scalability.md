@@ -2,8 +2,10 @@
 *noun*
 > /ˌskeɪ.ləˈbɪl.ə.ti/
 
+![[scalability.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Business/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Business/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of a system, network, or process to handle a growing amount of work, or its potential to be enlarged.

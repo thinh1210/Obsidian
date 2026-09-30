@@ -2,8 +2,10 @@
 *Verb*
 > /ɪnˈvest/
 
+![[invest.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put money into schemes, shares, property, or a commercial venture with the expectation of achieving a profit.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `invest in stocks`: đầu tư vào cổ phiếu
 - `invest capital`: đầu tư vốn
+- `invest in index funds`: đầu tư vào các quỹ chỉ số thụ động
+- `dollar-cost averaging`: chiến lược đầu tư bình quân giá định kỳ
+- `invest for retirement`: đầu tư cho quỹ hưu trí tương lai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to learn how to invest in the stock market to grow my savings.

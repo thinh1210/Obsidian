@@ -2,8 +2,10 @@
 *adj, adv*
 > /ˌbaɪˈmʌnθli/
 
+![[bimonthly.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring twice a month or every two months.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bimonthly magazine`: tạp chí xuất bản hai tháng một lần
+- `bimonthly meeting`: cuộc họp định kỳ hai tháng một lần
+- `bimonthly report`: báo cáo hai tháng một lần
+- `bimonthly newsletter`: bản tin định kỳ hai tháng một lần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We hold bimonthly meetings.

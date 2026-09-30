@@ -2,8 +2,10 @@
 *v.*
 > /ɪˈvæl.ju.eɪt/
 
+![[evaluate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To judge or calculate the quality, importance, amount, or value of something
@@ -13,8 +15,11 @@
 💡 Y va lu (evaluate) đánh giá cái lu đó rất đẹp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``evaluate performance`: đánh giá hiệu suất`
-- ``evaluate progress`: đánh giá tiến độ`
+- `evaluate performance`: đánh giá hiệu suất
+- `evaluate progress`: đánh giá tiến độ
+- `critically evaluate`: đánh giá phân tích một cách có phản biện
+- `evaluate student performance`: thẩm định thành tích học tập của học viên
+- `evaluation criteria`: các tiêu chí dùng để đánh giá xếp loại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to evaluate our options before making a decision.

@@ -2,8 +2,10 @@
 *adjective*
 > /pəˈreniəl/
 
+![[perennial.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a plant) lasting for three or more years; continually recurring.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `perennial plants`: cây lâu năm
 - `perennial problem`: vấn đề muôn thuở
+- `perennial favorite`: món/điều được yêu thích từ năm này qua năm khác
+- `perennial border`: luống hoa cây lâu năm ven lối đi
+- `perennial stream`: con suối chảy róc rách quanh năm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Unlike annual flowers, perennials come back year after year.

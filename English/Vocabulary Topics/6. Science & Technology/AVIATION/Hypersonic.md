@@ -2,8 +2,10 @@
 *adjective*
 > /ˌhaɪ.pəˈsɒn.ɪk/
 
+![[hypersonic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to speeds of Mach 5 (five times the speed of sound) or greater.

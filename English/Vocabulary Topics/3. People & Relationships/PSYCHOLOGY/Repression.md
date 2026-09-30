@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈpreʃ.ən/
 
+![[repression.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The restraint, prevention, or inhibition of a feeling, quality, etc.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `emotional repression`: sự kìm nén cảm xúc
+- `psychological repression`: sự dồn nén tâm lý vào vô thức
+- `lift the repression`: giải tỏa sự kìm nén
+- `mechanism of repression`: cơ chế kìm nén của não bộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Memory repression is a defense mechanism.

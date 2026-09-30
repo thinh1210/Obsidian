@@ -2,8 +2,10 @@
 *n.*
 > /ˈspɒtlaɪt/
 
+![[spotlight.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME
+**Level:** B2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Intense public attention or scrutiny.
@@ -13,7 +15,10 @@
 💡 Spot (điểm) + light (sáng).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `in the spotlight: dưới ánh đèn sân khấu`
+- `in the spotlight`: dưới ánh đèn sân khấu
+- `share the spotlight`: chia sẻ ánh hào quang vinh dự
+- `turn the spotlight on`: hướng sự chú ý của mọi người vào
+- `step into the spotlight`: bước ra trung tâm ánh đèn sân khấu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She enjoys being in the spotlight.

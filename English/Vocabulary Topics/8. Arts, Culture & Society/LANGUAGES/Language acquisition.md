@@ -2,8 +2,10 @@
 *n.*
 > /ˈlæŋɡwɪdʒ ˌækwɪˈzɪʃn/
 
+![[language_acquisition.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which humans acquire the capacity to perceive and comprehend language
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `child language acquisition`: sự thụ đắc ngôn ngữ ở trẻ em
+- `second language acquisition`: sự thụ đắc ngôn ngữ thứ hai
+- `facilitate language acquisition`: tạo điều kiện thuận lợi cho việc tiếp thu ngôn ngữ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Observing child language acquisition is fascinating.

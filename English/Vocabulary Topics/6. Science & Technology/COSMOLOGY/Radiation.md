@@ -2,8 +2,10 @@
 *Noun*
 > /ˌreɪ.diˈeɪ.ʃən/
 
+![[radiation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The emission of energy as electromagnetic waves or moving subatomic particles.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cosmic radiation`: bức xạ vũ trụ
 - `solar radiation`: bức xạ mặt trời
+- `Hawking radiation`: bức xạ Hawking
+- `electromagnetic radiation`: bức xạ điện từ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Wear sunscreen to protect your skin from solar radiation.

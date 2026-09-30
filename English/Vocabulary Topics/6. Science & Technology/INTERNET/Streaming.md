@@ -2,8 +2,10 @@
 *noun / verb*
 > /ˈstriː.mɪŋ/
 
+![[streaming.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of transmitting or receiving audio or video content over the Internet without downloading it.

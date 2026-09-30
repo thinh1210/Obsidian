@@ -2,8 +2,10 @@
 *verb*
 > /ˈfɪl.tər/
 
+![[filter.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To pass (a liquid, gas, light, or sound) through a device to remove unwanted substances.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `filter out`: lọc bỏ
 - `filter water`: lọc nước
+- `filter paper`: giấy lọc
+- `membrane filter`: màng lọc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should filter tap water before drinking it.

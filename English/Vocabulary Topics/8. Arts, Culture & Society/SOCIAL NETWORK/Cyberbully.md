@@ -2,8 +2,10 @@
 *noun*
 > /ˈsaɪbəbʊli/
 
+![[cyberbully.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who uses online tools to intimidate, harass, or humiliate others
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `victim of a cyberbully`: nạn nhân của kẻ bắt nạt trên mạng
+- `combat cyberbullies`: chống lại những kẻ bắt nạt trên mạng
+- `anonymous cyberbully`: kẻ bắt nạt ẩn danh trên mạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She blocks users who act like a cyberbully on her channel.

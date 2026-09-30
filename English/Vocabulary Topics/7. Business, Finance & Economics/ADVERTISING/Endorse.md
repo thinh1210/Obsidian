@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈdɔːs/
 
+![[endorse.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To declare one's public approval or support of a product or service in an advertisement.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endorse a product`: bảo chứng sản phẩm
 - `celebrity endorsement`: sự bảo chứng từ người nổi tiếng
+- `endorse a brand`: đại diện quảng bá thương hiệu
+- `strongly endorse`: hết lòng chứng thực / ủng hộ
+- `endorsement deal`: hợp đồng đại sứ quảng cáo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many athletes make more money from endorsing shoes than playing sports.

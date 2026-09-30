@@ -2,8 +2,10 @@
 *verb*
 > /ɪkˈspænd/
 
+![[expand.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become larger in size, volume, or quantity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `expanding universe`: vũ trụ đang giãn nở
 - `expand rapidly`: giãn nở nhanh chóng
+- `accelerated expansion`: sự giãn nở gia tốc
+- `expand indefinitely`: giãn nở vô hạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The business wants to expand into new markets.

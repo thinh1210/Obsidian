@@ -2,8 +2,10 @@
 *noun*
 > /wɔːr/
 
+![[war.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of armed conflict between different countries or different groups within a country.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `declare war`: tuyên chiến
 - `civil war`: nội chiến
+- `wage war against`: phát động tiến hành chiến tranh chống lại đối phương
+- `outbreak of war`: thời điểm ngọn lửa chiến tranh bất ngờ bùng nổ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My grandfather still remembers the hardships during the war.

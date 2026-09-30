@@ -2,8 +2,10 @@
 *adj*
 > /ˈkoʊzi/
 
+![[cozy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Giving a feeling of comfort, warmth, and relaxation.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cozy room`: phòng ấm cúng
 - `cozy atmosphere`: không khí ấm cúng
+- `cozy corner`: góc nhỏ ấm cúng
+- `feel cozy`: cảm thấy ấm áp dễ chịu
+- `cozy fireplace`: lò sưởi ấm cúng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The living room is very cozy with the fireplace.

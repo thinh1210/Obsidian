@@ -2,8 +2,10 @@
 *n.*
 > /mæn/
 
+![[man.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An adult male human being.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A young man`: Một thanh niên
+- `self-made man`: người đàn ông tự thân lập nghiệp (idiom)
+- `family man`: người đàn ông của gia đình
+- `man of his word`: người quân tử giữ đúng lời hứa (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a good man.

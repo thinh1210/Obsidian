@@ -2,8 +2,10 @@
 *n., adj.*
 > /dɪˈzaɪnər/
 
+![[designer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who designs clothes; made by a well-known designer.
@@ -13,7 +15,10 @@
 💡 Designer - người design.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `designer clothes`: quần áo hàng hiệu\n- `fashion designer`: nhà thiết kế thời trang
+- `designer clothes`: quần áo hàng hiệu
+- `fashion designer`: nhà thiết kế thời trang
+- `designer label`: nhãn hiệu nhà thiết kế nổi tiếng
+- `aspiring designer`: nhà thiết kế đầy triển vọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She spent a lot of money on designer shoes.

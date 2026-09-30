@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈzɜːt/
 
+![[dessert.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The sweet course eaten at the end of a meal.

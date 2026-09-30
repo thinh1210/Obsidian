@@ -2,8 +2,10 @@
 *noun*
 > /ˈpen.ʃən/
 
+![[pension.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY
+**Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regular payment made during a person's retirement from an investment fund
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `retirement pension`: lương hưu trí
+- `pension fund`: quỹ tiền hưu trí
+- `draw a pension`: lĩnh tiền lương hưu định kỳ
+- `pension contributions`: các khoản tiền đóng góp vào quỹ hưu
+- `state pension`: lương hưu do bảo hiểm xã hội nhà nước chi trả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many elderly people rely on their state pension to survive.

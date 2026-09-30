@@ -2,8 +2,10 @@
 *Noun*
 > /ˈmɔːɡɪdʒ/
 
+![[mortgage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legal agreement by which a bank lends money at interest in exchange for taking title of the debtor's property.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay off a mortgage`: trả hết khoản thế chấp
 - `mortgage rate`: lãi suất thế chấp
+- `fixed-rate mortgage`: vay thế chấp với mức lãi suất cố định
+- `refinance a mortgage`: tái cấp vốn cho khoản vay thế chấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They took out a 30-year mortgage to purchase their family home.

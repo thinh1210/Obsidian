@@ -2,8 +2,10 @@
 *adjective*
 > /ˌdiːˈsen.trə.laɪzd/
 
+![[decentralized.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Technical/Business | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Technical/Business | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having no central control or organization; distributing power or functions away from a central authority.

@@ -2,8 +2,10 @@
 *adj*
 > /ʌnˈraɪ.vəld/
 
+![[unrivaled.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Better than everyone or everything of the same type.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unrivaled expertise`: chuyên môn không có đối thủ
+- `unrivaled power`: sức mạnh vô song
+- `unrivaled position`: vị thế độc tôn
+- `unrivaled excellence`: sự xuất sắc không đối thủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum has an unrivaled collection of artifacts.

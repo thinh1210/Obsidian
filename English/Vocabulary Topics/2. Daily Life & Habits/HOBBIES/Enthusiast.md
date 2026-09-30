@@ -2,8 +2,10 @@
 *Noun*
 > /ɪnˈθjuː.zi.æst/
 
+![[enthusiast.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is very interested in and involved with a particular subject.

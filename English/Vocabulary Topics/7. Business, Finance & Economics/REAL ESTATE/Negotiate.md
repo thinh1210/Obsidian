@@ -2,8 +2,10 @@
 *v.*
 > /nɪˈɡəʊʃieɪt/
 
+![[negotiate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Try to reach an agreement or compromise by discussion with others.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `negotiate a price`: thương lượng giá cả
 - `negotiate a contract`: đàm phán hợp đồng
+- `negotiate the price`: đàm phán thương lượng về giá mua bán
+- `negotiate a lease`: thương thảo các điều khoản thuê nhà
+- `room for negotiation`: còn dư địa để hai bên mặc cả thương lượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We managed to negotiate a lower rent with the landlord.

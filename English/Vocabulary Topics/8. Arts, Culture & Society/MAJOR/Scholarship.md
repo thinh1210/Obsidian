@@ -2,8 +2,10 @@
 *n.*
 > /ˈskɒl.ə.ʃɪp/
 
+![[scholarship.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Financial support given to a student to help pay for education, usually based on merit.

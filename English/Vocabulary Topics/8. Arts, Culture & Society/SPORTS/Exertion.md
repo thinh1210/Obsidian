@@ -2,8 +2,10 @@
 *n.*
 > /ɪɡˈzɜː.ʃən/
 
+![[exertion.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical or mental effort.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `physical exertion`: sự gắng sức về thể chất
 - `require great exertion`: đòi hỏi sự nỗ lực lớn
+- `gasp for breath after exertion`: thở dốc sau khi vận động gắng sức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was gasping for breath after the physical exertion of the climb.

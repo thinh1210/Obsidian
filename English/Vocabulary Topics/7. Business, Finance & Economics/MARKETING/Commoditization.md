@@ -2,8 +2,10 @@
 *noun*
 > /kəˌmɑːdətəˈzeɪʃn/
 
+![[commoditization.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which goods or services become simple commodities, bought only on price rather than brand differences
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prevent commoditization`: ngăn chặn sự hàng hóa hóa
 - `rapid commoditization`: sự hàng hóa hóa nhanh chóng
+- `resist commoditization`: chống lại nguy cơ sản phẩm bị đại trà hóa
+- `commoditization of products`: sự phổ cập biến sản phẩm thành hàng hóa thông thường
+- `escape the commoditization trap`: thoát khỏi cạm bẫy cạnh tranh đại trà bằng sự khác biệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The commoditization of personal computers means customers now only look at price and memory.

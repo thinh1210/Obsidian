@@ -2,8 +2,10 @@
 *Verb*
 > /ˈdʒen.ə.reɪt/
 
+![[generate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cause something to exist; to produce energy.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `generate revenue`: tạo ra doanh thu
 - `generate power`: phát điện, tạo ra năng lượng
+- `generate excitement`: khơi dậy sự hào hứng sôi nổi
+- `generate electricity`: phát điện năng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The presentation generated a lot of discussion.

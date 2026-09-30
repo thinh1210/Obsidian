@@ -2,8 +2,10 @@
 *n.*
 > /əˌkred.ɪˈteɪ.ʃən/
 
+![[accreditation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Official recognition that a school or program meets established standards.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈsen.sɚ/
 
+![[sensor.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that records physical data (such as heat, light, or pressure) and responds to it
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `motion sensor`: cảm biến chuyển động
+- `proximity sensor`: cảm biến tiệm cận
+- `ultrasonic sensor`: cảm biến siêu âm
+- `optical sensor`: cảm biến quang
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot has a sensor to detect walls and avoid them.

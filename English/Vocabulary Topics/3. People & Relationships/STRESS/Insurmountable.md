@@ -2,8 +2,10 @@
 *adj.*
 > /ˌɪnsərˈmaʊntəbl/
 
+![[insurmountable.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Too great to be overcome
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insurmountable problem`: vấn đề không thể vượt qua
 - `insurmountable odds`: những khó khăn không thể khắc phục
+- `seem insurmountable`: dường như không thể vượt qua nổi
+- `insurmountable barrier`: rào cản không thể vượt qua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The task seemed insurmountable.

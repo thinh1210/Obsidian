@@ -2,8 +2,10 @@
 *v.*
 > /dɑːns/
 
+![[dance.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Move rhythmically to music, typically following a set sequence of steps.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dance to music`: nhảy theo nhạc
 - `traditional dance`: điệu nhảy truyền thống
+- `contemporary dance`: múa đương đại
+- `choreograph a dance`: biên đạo một tiết mục múa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They danced all night at the party.

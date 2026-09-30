@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈseʃn/
 
+![[recession.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `economic recession`: suy thoái kinh tế
 - `slide into recession`: rơi vào suy thoái
+- `deep recession`: cuộc suy thoái kinh tế sâu sắc
+- `recessionary spiral`: vòng xoáy suy thoái
+- `emerge from recession`: vực dậy và thoát khỏi suy thoái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many families had to cut down on spending during the last recession.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈæk.tər/
 
+![[actor.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose profession is acting.
@@ -13,7 +15,10 @@
 💡 Hành động (act) -> Actor
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Lead actor: Diễn viên chính`
+- `Lead actor`: Diễn viên chính
+- `supporting actor`: diễn viên phụ
+- `award-winning actor`: diễn viên từng đoạt giải thưởng
+- `method actor`: diễn viên trường phái nhập tâm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is an actor.

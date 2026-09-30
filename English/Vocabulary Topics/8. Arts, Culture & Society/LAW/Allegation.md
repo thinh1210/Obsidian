@@ -2,8 +2,10 @@
 *noun*
 > /ˌæləˈɡeɪʃn/
 
+![[allegation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A claim that someone has done something wrong or illegal, made without proof

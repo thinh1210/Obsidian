@@ -2,8 +2,10 @@
 *noun*
 > /ˈjuː.nə.fɔːrm/
 
+![[uniform.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Distinctive clothing worn by members of the same organization.
@@ -13,7 +15,9 @@
 💡 Uniform -> Vui ni phom -> Vui vì được mặc đồng phục đúng phom.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `school uniform: đồng phục học sinh`
+- `school uniform`: đồng phục học sinh
+- `military uniform`: quân phục quân đội
+- `wear a uniform`: mặc đồng phục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you have to wear a uniform?

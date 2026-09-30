@@ -2,8 +2,10 @@
 *noun phrase*
 > /ˌeə ˈtræf.ɪk kənˈtrəʊl/
 
+![[air_traffic_control.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of ground-based controllers who direct aircraft using radio communications to ensure safe and orderly movement through controlled airspace.

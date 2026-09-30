@@ -2,8 +2,10 @@
 *v/n*
 > /splɜːdʒ/
 
+![[splurge.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend a lot of money on buying goods
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `splurge on`: vung tiền vào
+- `splurge on a vacation`: vung tiền cho chuyến nghỉ dưỡng xa hoa
+- `occasional splurge`: thỉnh thoảng tự thưởng vung tiền một lần
+- `splurge a fortune on`: ném một khoản tiền lớn vào mua sắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I splurged on a bag.

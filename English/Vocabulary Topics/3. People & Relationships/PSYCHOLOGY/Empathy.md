@@ -2,8 +2,10 @@
 *noun*
 > /ˈem.pə.θi/
 
+![[empathy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The ability to understand and share the feelings of another.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `show empathy`: thể hiện sự thấu cảm
+- `deep empathy`: sự thấu cảm sâu sắc
+- `lack empathy`: thiếu sự đồng cảm thương người
+- `empathy gap`: khoảng cách thiếu thấu cảm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You need to have empathy.

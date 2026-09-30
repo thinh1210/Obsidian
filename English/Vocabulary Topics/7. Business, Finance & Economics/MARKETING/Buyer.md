@@ -2,8 +2,10 @@
 *noun*
 > /ˈbaɪər/
 
+![[buyer.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who makes a purchase; a customer or consumer
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `potential buyer`: người mua tiềm năng
 - `first-time buyer`: người mua lần đầu
+- `bargain buyer`: người mua luôn săn tìm mức giá rẻ nhất
+- `buyer persona`: bản phác họa chân dung khách hàng mục tiêu
+- `cash buyer`: người mua thanh toán tiền ngay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The buyer paid in cash and took the bicycle home.

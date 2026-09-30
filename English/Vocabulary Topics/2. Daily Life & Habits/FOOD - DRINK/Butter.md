@@ -2,8 +2,10 @@
 *n.*
 > /ˈbʌt.ər/
 
+![[butter.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A solid yellow food made from milk or cream.

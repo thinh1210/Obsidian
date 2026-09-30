@@ -2,8 +2,10 @@
 *adjective.*
 > /smuːð/
 
+![[smooth.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an even and regular surface or consistency; free from projections or lumps.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `smooth surface`: bề mặt nhẵn mịn
 - `smooth transition`: sự chuyển đổi suôn sẻ
+- `smooth sailing`: thuận buồm xuôi gió suôn sẻ (idiom)
+- `smooth out`: san phẳng bề mặt; gạt bỏ vướng mắc (phrasal verb)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The marble floor felt cool and smooth under our bare feet.

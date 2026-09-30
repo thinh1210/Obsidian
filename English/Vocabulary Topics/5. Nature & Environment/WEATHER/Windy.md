@@ -2,8 +2,10 @@
 *adj.*
 > /ˈwɪndi/
 
+![[windy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** With a lot of wind
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `windy weather`: thời tiết lộng gió
+- `cold and windy day`: ngày trời lạnh và lộng gió
+- `windy coastal path`: con đường ven biển nhiều gió lộng
+- `windy weather conditions`: điều kiện thời tiết nhiều gió thổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Hold onto your hat, it is very windy outside!

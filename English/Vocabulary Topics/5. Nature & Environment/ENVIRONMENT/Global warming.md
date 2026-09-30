@@ -2,8 +2,10 @@
 *n.*
 > /ˌɡləʊbl ˈwɔːmɪŋ/
 
+![[global_warming.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A gradual increase in the overall temperature of the earth's atmosphere generally attributed to the greenhouse effect caused by increased levels of carbon dioxide, chlorofluorocarbons, and other pollutants.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `combat global warming`: chống lại sự nóng lên toàn cầu
 - `effects of global warming`: các tác động của sự nóng lên toàn cầu
+- `slow down global warming`: làm chậm lại hiện tượng ấm lên toàn cầu
+- `consequences of global warming`: hậu quả khôn lường của sự nóng lên toàn cầu
+- `mitigate global warming`: giảm nhẹ hiện tượng ấm lên toàn cầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Global warming is causing polar ice caps to melt.

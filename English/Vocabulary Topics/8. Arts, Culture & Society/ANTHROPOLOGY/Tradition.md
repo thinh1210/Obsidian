@@ -2,8 +2,10 @@
 *n.*
 > /trəˈdɪʃ.ən/
 
+![[tradition.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `long-standing tradition`: truyền thống lâu đời
 - `family tradition`: truyền thống gia đình
+- `oral tradition`: truyền thống truyền miệng
+- `uphold a tradition`: duy trì gìn giữ truyền thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's a family tradition to have dinner together on Sundays.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈævənuː/
 
+![[avenue.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wide street or main thoroughfare.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tree-lined avenue`: đại lộ rợp bóng cây
+- `avenue of escape`: con đường thoát hiểm
+- `broad avenue`: đại lộ rộng lớn
+- `explore every avenue`: thử mọi cách, mọi khả năng (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live on Fifth Avenue.

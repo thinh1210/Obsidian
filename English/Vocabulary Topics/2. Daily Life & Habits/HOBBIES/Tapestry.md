@@ -2,8 +2,10 @@
 *n.*
 > /ˈtæp.ɪ.stri/
 
+![[tapestry.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of heavy cloth with pictures or designs woven into it, used as a wall hanging or furniture cover.

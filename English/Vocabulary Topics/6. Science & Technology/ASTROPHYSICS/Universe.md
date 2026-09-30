@@ -2,8 +2,10 @@
 *noun*
 > /ˈjuː.nɪ.vɜːs/
 
+![[universe.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All existing matter and space considered as a whole.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `expanding universe`: vũ trụ đang giãn nở
 - `observable universe`: vũ trụ quan sát được
+- `parallel universe`: vũ trụ song song
+- `origin of the universe`: nguồn gốc vũ trụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The universe is so big that we cannot see its edge.

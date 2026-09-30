@@ -2,8 +2,10 @@
 *n.*
 > /ˌɑːftəˈnuːn/
 
+![[afternoon.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time from noon until evening
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in the afternoon`: vào buổi chiều
+- `early afternoon`: đầu giờ chiều
+- `spend the afternoon`: dành buổi chiều làm gì
+- `afternoon tea`: trà chiều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's meet this afternoon.

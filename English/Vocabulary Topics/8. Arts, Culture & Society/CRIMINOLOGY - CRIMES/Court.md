@@ -2,8 +2,10 @@
 *noun*
 > /kɔːt/
 
+![[court.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where legal trials take place and decisions are made
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take someone to court`: kiện ai ra tòa
 - `in court`: trước tòa
+- `contempt of court`: tội xúc phạm coi thường tòa án
+- `settle out of court`: thỏa thuận hòa giải ngoài tòa án
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The suspect had to appear in court yesterday morning.

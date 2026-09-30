@@ -2,8 +2,10 @@
 *n*
 > /dɪˈmɒk.rə.si/
 
+![[democracy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government in which citizens vote to elect their leaders.

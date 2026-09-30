@@ -1,13 +1,21 @@
 # Miscellaneous
 
 *Adjective*
+> /ˌmɪs.əlˈeɪ.ni.əs/
+
+![[miscellaneous.mp3]]
 
 - **[EN]:** Consisting of members or elements of different kinds; of mixed character.
 - **[VN]:** Hỗn hợp, linh tinh, nhiều loại khác nhau.
 
-**Level:** B2
+**Level:** B2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `miscellaneous expenses`: các khoản chi tiêu lặt vặt khác
+- `miscellaneous items`: các vật phẩm linh tinh thập cẩm
+- `miscellaneous collection`: bộ sưu tập hỗn hợp đa dạng món
+
 ## Examples
 1. *The drawer was full of miscellaneous items.*
    - Ngăn kéo đầy những món đồ linh tinh.

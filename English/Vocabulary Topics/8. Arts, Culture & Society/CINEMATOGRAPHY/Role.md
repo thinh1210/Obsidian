@@ -2,8 +2,10 @@
 *n.*
 > /rəʊl/
 
+![[role.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An actor's part in a play, movie, etc.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `leading role`: vai diễn chính
 - `supporting role`: vai diễn phụ
+- `breakout role`: vai diễn đột phá khẳng định tên tuổi
+- `cameo role`: vai diễn khách mời xuất hiện thoáng qua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He got the leading role in the new action movie.

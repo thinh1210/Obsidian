@@ -2,8 +2,10 @@
 *noun phrase*
 > /bəˈlɪs.tɪk trəˈdʒek.tər.i/
 
+![[ballistic_trajectory.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The path followed by a projectile through space under the forces of gravity and air resistance.

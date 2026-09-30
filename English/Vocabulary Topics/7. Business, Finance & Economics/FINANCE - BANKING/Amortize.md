@@ -2,8 +2,10 @@
 *verb.*
 > /əˈmɔːtaɪz/
 
+![[amortize.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To gradually write off the initial cost of an asset or reduce a debt by making regular payments.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `amortize a loan`: trả dần một khoản vay
 - `amortize intangible assets`: khấu hao tài sản vô hình
+- `amortization schedule`: lịch trình thanh toán nợ dần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The corporation will amortize the cost of the patent over its 10-year useful life.

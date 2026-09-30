@@ -2,8 +2,10 @@
 *adj*
 > /ˈmɑː.vəl.əs/
 
+![[marvelous.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing great wonder; extraordinary.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a marvelous piece of work`: một tác phẩm tuyệt diệu
+- `marvelous opportunity`: cơ hội kỳ diệu tuyệt vời
+- `work marvelous wonders`: tạo nên những điều kỳ diệu tuyệt vời
+- `marvelous discovery`: phát hiện tuyệt vời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a marvelous time.

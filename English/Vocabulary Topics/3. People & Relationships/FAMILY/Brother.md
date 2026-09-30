@@ -2,8 +2,10 @@
 *noun*
 > /ˈbrʌð.ər/
 
+![[brother.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A man or boy with the same parents.

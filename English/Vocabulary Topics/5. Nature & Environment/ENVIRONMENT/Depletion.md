@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈpliːʃn/
 
+![[depletion.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Reduction in the number or quantity of something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `resource depletion`: sự cạn kiệt tài nguyên
 - `ozone depletion`: sự suy giảm tầng ozone
+- `water table depletion`: sự suy giảm mực nước ngầm
+- `gradual depletion`: sự cạn kiệt dần dần
+- `depletion of natural resources`: sự cạn kiệt tài nguyên thiên nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Resource depletion is a serious threat to our future.

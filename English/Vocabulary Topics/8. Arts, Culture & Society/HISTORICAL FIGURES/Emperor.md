@@ -2,8 +2,10 @@
 *n.*
 > /ˈempərə(r)/
 
+![[emperor.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sovereign ruler of great power and rank, ruling an empire
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `crowned emperor`: vị hoàng đế được đăng quang
 - `first emperor`: vị hoàng đế đầu tiên
+- `emperor ascends the throne`: hoàng đế lên ngôi
+- `proclaim oneself emperor`: tự xưng hoàng đế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The emperor resided in a massive palace.

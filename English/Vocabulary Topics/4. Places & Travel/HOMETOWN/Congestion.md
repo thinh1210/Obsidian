@@ -2,8 +2,10 @@
 *n.*
 > /kənˈdʒestʃən/
 
+![[congestion.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being congested (e.g., with traffic).
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `traffic congestion`: tắc nghẽn giao thông
+- `relieve congestion`: giải tỏa giảm bớt ùn tắc giao thông
+- `severe congestion`: tình trạng ùn tắc giao thông nghiêm trọng
+- `congestion charges`: phí chống ùn tắc giao thông đô thị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Traffic congestion is a huge issue here.

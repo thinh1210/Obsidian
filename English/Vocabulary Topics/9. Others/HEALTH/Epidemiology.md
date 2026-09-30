@@ -2,8 +2,10 @@
 *n*
 > /ˌepɪˌdiːmiˈɒlədʒi/
 
+![[epidemiology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of medicine which deals with the incidence, distribution, and control of diseases.

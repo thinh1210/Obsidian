@@ -2,8 +2,10 @@
 *noun*
 > /mɔːˈfɒl.ə.dʒi/
 
+![[morphology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the scientific study of the structure and form of words, including how they are formed from morphemes

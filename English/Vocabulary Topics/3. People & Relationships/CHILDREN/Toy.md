@@ -2,8 +2,10 @@
 *noun*
 > /tɔɪ/
 
+![[toy.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An object for a child to play with.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `soft toy`: thú nhồi bông
+- `toy with an idea`: suy tính bỡn cợt một ý tưởng (idiom)
+- `educational toy`: đồ chơi giáo dục phát triển trí tuệ
+- `favorite toy`: món đồ chơi yêu thích nhất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He bought a new toy.

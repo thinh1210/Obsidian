@@ -2,8 +2,10 @@
 *noun*
 > /əˈtaɪr/
 
+![[attire.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clothes, especially fine or formal ones.
@@ -13,7 +15,9 @@
 💡 Attire -> Ở tai -> Trang phục lộng lẫy đeo tới ở tai.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `business attire: trang phục công sở`
+- `business attire`: trang phục công sở
+- `formal attire`: trang phục dạ tiệc / công sở trang trọng
+- `appropriate attire`: trang phục phù hợp với hoàn cảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Casual attire is perfectly acceptable.

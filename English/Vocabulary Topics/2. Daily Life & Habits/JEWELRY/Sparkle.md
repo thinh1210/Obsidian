@@ -2,8 +2,10 @@
 *verb*
 > /ˈspɑː.kəl/
 
+![[sparkle.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shine brightly with flashes of light.
@@ -13,7 +15,10 @@
 💡 Sợ pa (Spar) khóc (kle) lấp lánh.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `sparkle in the light: lấp lánh trong ánh sáng`
+- `sparkle in the light`: lấp lánh trong ánh sáng
+- `sparkle brilliantly`: lấp lánh rực rỡ
+- `sparkle in someone's eyes`: ánh mắt lấp lánh niềm vui
+- `bring out the sparkle`: làm nổi bật độ bắt sáng, lấp lánh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her diamond sparkles.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌɪnfɪˈdeləti/
 
+![[infidelity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or state of being unfaithful to a spouse or other sexual partner.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Marital infidelity`: Sự ngoại tình trong hôn nhân
+- `suspect infidelity`: nghi ngờ sự ngoại tình bội bạc
+- `confess infidelity`: thú nhận việc ngoại tình
+- `pain of infidelity`: nỗi đau bị phản bội trong hôn nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Infidelity often leads to divorce.

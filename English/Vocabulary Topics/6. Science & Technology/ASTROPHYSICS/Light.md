@@ -2,8 +2,10 @@
 *noun*
 > /laɪt/
 
+![[light.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The energy that makes things visible.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `speed of light`: tốc độ ánh sáng
 - `sunlight`: ánh sáng mặt trời
+- `visible light`: ánh sáng khả kiến
+- `emit light`: phát ra ánh sáng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please turn on the light so I can read.

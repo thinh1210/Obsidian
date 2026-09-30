@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɪltə ˌbʌbl/
 
+![[filter_bubble.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of intellectual isolation that can result from personalized search and feed results
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `escape the filter bubble`: thoát khỏi bong bóng bộ lọc
+- `burst the filter bubble`: phá vỡ bong bóng thông tin cá nhân hóa
+- `trapped in a filter bubble`: bị giam trong bong bóng thông tin chọn lọc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I tried clearing my browser history to pop my social media filter bubble.

@@ -2,8 +2,10 @@
 *n.*
 > /fɪˈlɒs.ə.fi/
 
+![[philosophy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the fundamental nature of knowledge, reality, and existence.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `personal philosophy`: triết lý cá nhân
 - `political philosophy`: triết học chính trị
+- `philosophy of mind`: triết học tinh thần
+- `underlying philosophy`: triết lý sâu xa cốt lõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her philosophy of life is to enjoy every moment.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌreɪdɪəʊˈkɑːbən/
 
+![[radiocarbon.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A radioactive isotope of carbon used in carbon dating
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `radiocarbon dating`: xác định niên đại bằng các-bon phóng xạ
 - `radiocarbon measurement`: đo lường các-bon phóng xạ
+- `radiocarbon analysis`: phân tích bằng carbon phóng xạ
+- `radiocarbon decay`: sự phân rã carbon phóng xạ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Radiocarbon dating showed the artifact was 3000 years old.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈəʊvəkɑːst/
 
+![[overcast.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Covered with clouds; dull and gray
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `overcast sky`: bầu trời u ám nhiều mây
+- `gloomy overcast sky`: bầu trời u ám xám xịt
+- `remain overcast all day`: trời nhiều mây u ám suốt cả ngày
+- `overcast conditions`: điều kiện bầu trời xám xịt nhiều mây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sky was overcast, indicating it might rain soon.

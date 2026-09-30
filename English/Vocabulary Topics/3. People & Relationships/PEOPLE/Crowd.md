@@ -2,8 +2,10 @@
 *n.*
 > /kraʊd/
 
+![[crowd.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large number of people gathered together.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A large crowd`: Một đám đông lớn
+- `draw a crowd`: thu hút một đám đông lớn
+- `stand out from the crowd`: nổi bật giữa đám đông (idiom)
+- `blend into the crowd`: hòa lẫn chìm vào đám đông
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The crowd cheered.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈhæbɪtəbl/
 
+![[habitable.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Suitable or good enough for people to live in
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `habitable room`: phòng có thể ở được
 - `make habitable`: làm cho có thể ở được
+- `habitable space`: không gian có thể sinh sống được
+- `declare habitable`: chứng nhận đủ điều kiện cư trú
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* After years of neglect, the house is barely habitable.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæl.ɪ.pər/
 
+![[caliper.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an instrument for measuring external or internal dimensions, having two hinged legs.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digital caliper`: thước kẹp điện tử
 - `vernier caliper`: thước kẹp cơ khí
+- `brake caliper`: ngàm phanh xe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The machinist used a digital caliper to check the thickness of the metal sheet.

@@ -2,8 +2,10 @@
 *noun*
 > /tsuːˈnɑː.mi/
 
+![[tsunami.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extremely large wave caused by a violent movement of the earth under the sea.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tsunami wave`: sóng thần
 - `tsunami warning system`: hệ thống cảnh báo sóng thần
+- `tsunami wave height`: chiều cao sóng thần
+- `trigger a massive tsunami`: kích hoạt một trận đại sóng thần
+- `tsunami evacuation route`: tuyến đường sơ tán sóng thần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The coastal town was completely destroyed by the tsunami.

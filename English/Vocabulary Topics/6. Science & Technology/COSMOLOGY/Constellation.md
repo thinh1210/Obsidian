@@ -2,8 +2,10 @@
 *Noun*
 > /ˌkɒn.stəˈleɪ.ʃən/
 
+![[constellation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of stars forming a recognizable pattern.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `star constellation`: chòm sao
 - `Orion constellation`: chòm sao Orion
+- `zodiac constellation`: chòm sao hoàng đạo
+- `navigate by constellations`: định hướng theo các chòm sao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you identify the Big Dipper constellation?

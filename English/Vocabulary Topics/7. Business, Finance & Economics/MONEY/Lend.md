@@ -2,8 +2,10 @@
 *verb*
 > /lend/
 
+![[lend.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To grant to someone the use of something on the understanding that it will be returned
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lend money to`: cho ai vay tiền
+- `lend an ear`: chăm chú lắng nghe tâm sự
+- `lend a helping hand`: sẵn lòng dang tay giúp đỡ
+- `lend credibility to`: củng cố thêm độ tin cậy cho
+- `lending rate`: mức lãi suất cho vay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Will you lend me your car this weekend?

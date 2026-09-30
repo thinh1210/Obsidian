@@ -2,8 +2,10 @@
 *adj.*
 > /ˈɡɔːdʒəs/
 
+![[gorgeous.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Beautiful, very attractive
@@ -13,7 +15,10 @@
 💡 Gió rét (gorgeous) vẫn thấy đẹp
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``gorgeous view`: khung cảnh tuyệt đẹp`
+- `gorgeous view`: khung cảnh tuyệt đẹp
+- `drop-dead gorgeous`: đẹp hút hồn / đẹp mê hồn
+- `gorgeous weather`: thời tiết tuyệt đẹp
+- `gorgeous dress`: chiếc váy lộng lẫy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gorgeous dress.

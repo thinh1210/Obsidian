@@ -2,8 +2,10 @@
 *n*
 > /ˈklɪnɪk/
 
+![[clinic.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An establishment or hospital department where outpatients are given medical treatment or advice.

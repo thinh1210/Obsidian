@@ -2,8 +2,10 @@
 *noun*
 > /ˌviː.piːˈen/
 
+![[vpn.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Virtual Private Network; a service that encrypts your Internet connection and hides your IP address for privacy and security.

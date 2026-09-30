@@ -2,8 +2,10 @@
 *n.*
 > /ˈmuːvi/
 
+![[movie.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A story or event recorded by a camera as a set of moving images and shown in a theater or on television.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `watch a movie`: xem một bộ phim
 - `favorite movie`: bộ phim yêu thích
+- `blockbuster movie`: phim bom tấn ăn khách
+- `indie movie`: phim độc lập có kinh phí thấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you want to watch a movie tonight?

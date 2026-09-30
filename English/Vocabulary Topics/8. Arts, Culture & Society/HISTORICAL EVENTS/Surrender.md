@@ -2,8 +2,10 @@
 *verb*
 > /səˈren.dər/
 
+![[surrender.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Stop resisting to an enemy or opponent and submit to their authority.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `surrender to the enemy`: đầu hàng kẻ thù
 - `unconditional surrender`: đầu hàng vô điều kiện
+- `sign terms of surrender`: đặt bút ký vào các điều khoản đầu hàng
+- `surrender weapon`: buông súng giao nộp vũ khí đầu hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The criminal decided to surrender to the police after hours of negotiations.

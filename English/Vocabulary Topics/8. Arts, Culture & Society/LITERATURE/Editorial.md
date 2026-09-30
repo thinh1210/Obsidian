@@ -2,8 +2,10 @@
 *noun*
 > /ˌed.ɪˈtɔː.ri.əl/
 
+![[editorial.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A newspaper article giving an opinion on a topical issue.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpleɪdʒərɪzəm/
 
+![[plagiarism.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of taking someone else's work or ideas and passing them off as one's own.

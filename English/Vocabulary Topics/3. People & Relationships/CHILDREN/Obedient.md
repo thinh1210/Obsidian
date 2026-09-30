@@ -2,8 +2,10 @@
 *adj*
 > /oʊˈbiː.di.ənt/
 
+![[obedient.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Complying or willing to comply with orders or requests.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `obedient child`: đứa trẻ vâng lời
+- `blindly obedient`: vâng lời răm rắp mù quáng
+- `obedient to parents`: hiếu thảo vâng lời cha mẹ
+- `remain obedient`: giữ tính nết ngoan ngoãn vâng lời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is an obedient son.

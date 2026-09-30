@@ -2,8 +2,10 @@
 *adj*
 > /ˈfliːtɪŋ/
 
+![[fleeting.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Literary/Formal | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Literary/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for a very short time.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a fleeting glimpse`: một cái nhìn thoáng qua
+- `fleeting moment`: khoảnh khắc thoáng qua
+- `fleeting smile`: nụ cười thoáng nở
+- `fleeting thought`: ý nghĩ thoáng qua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She caught a fleeting glimpse of him as he drove past.

@@ -2,8 +2,10 @@
 *n.*
 > /ruːf/
 
+![[roof.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The structure forming the upper covering of a building or vehicle.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `roof terrace`: sân thượng mái
 - `under one roof`: chung một mái nhà
+- `a roof over one's head`: một chốn dung thân / mái ấm che mưa che nắng
+- `rooftop terrace`: sân thượng ngoài trời thoáng đãng
+- `leaking roof`: mái nhà bị dột nước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The roof of the house was damaged during the heavy storm.

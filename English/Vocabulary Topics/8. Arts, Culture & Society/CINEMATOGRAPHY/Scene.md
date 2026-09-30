@@ -2,8 +2,10 @@
 *n.*
 > /siːn/
 
+![[scene.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of continuous action in a play, movie, opera, or book
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `opening scene`: cảnh mở đầu
 - `deleted scene`: cảnh bị xóa
+- `climactic scene`: phân cảnh đỉnh điểm cao trào
+- `scene stealer`: diễn viên diễn xuất lấn lướt chiếm trọn cảnh quay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* That was the funniest scene in the film.

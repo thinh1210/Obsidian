@@ -2,8 +2,10 @@
 *v., n.*
 > /drɪŋk/
 
+![[drink.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take a liquid into the mouth and swallow.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `drink water`: uống nước
+- `drink plenty of water`: uống nhiều nước
+- `social drinker`: người chỉ uống rượu bia khi giao tiếp
+- `drink in moderation`: uống rượu bia có chừng mực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Drink more water.

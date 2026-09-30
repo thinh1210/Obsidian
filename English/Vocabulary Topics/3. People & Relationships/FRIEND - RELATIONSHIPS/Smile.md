@@ -2,8 +2,10 @@
 *verb/noun*
 > /smaɪl/
 
+![[smile.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Form one's features into a pleased, kind, or amused expression.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `smile at someone`: mỉm cười với ai đó
+- `warm smile`: nụ cười ấm áp thân thiện
+- `crack a smile`: nở một nụ cười (idiom)
+- `smile from ear to ear`: cười toe toét rạng rỡ (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a beautiful smile.

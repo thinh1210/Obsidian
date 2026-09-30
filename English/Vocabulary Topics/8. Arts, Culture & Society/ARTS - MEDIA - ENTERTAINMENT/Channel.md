@@ -2,8 +2,10 @@
 *n.*
 > /ˈtʃænl/
 
+![[channel.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A band of frequencies used for broadcasting television or radio, or a specific service offering television programs.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `television channel`: kênh truyền hình
 - `news channel`: kênh tin tức
+- `switch channels`: chuyển kênh truyền hình
+- `distribution channel`: kênh phân phối nội dung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please change the channel, this show is boring.

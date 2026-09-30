@@ -2,8 +2,10 @@
 *n.*
 > /bɔːl/
 
+![[ball.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A round object that is hit, kicked, or thrown in a game.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `kick a ball`: đá bóng
 - `throw a ball`: ném bóng
+- `drop the ball`: mắc sai lầm ngớ ngẩn / để lỡ việc
+- `keep one's eye on the ball`: tập trung cao độ vào mục tiêu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dog loves to run after the tennis ball.

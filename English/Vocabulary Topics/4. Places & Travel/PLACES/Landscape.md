@@ -2,8 +2,10 @@
 *n.*
 > /ˈlænd.skeɪp/
 
+![[landscape.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of countryside or land.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `beautiful landscape`: phong cảnh đẹp
+- `scenic landscape`: phong cảnh đẹp như trong tranh
+- `urban landscape`: cảnh quan đô thị
+- `rugged landscape`: địa hình gồ ghề hiểm trở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I took a photo of the beautiful landscape.

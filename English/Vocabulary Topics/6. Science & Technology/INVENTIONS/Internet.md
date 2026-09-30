@@ -2,8 +2,10 @@
 *Noun*
 > /ˈin.tə.net/
 
+![[internet.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The large system of connected computers around the world that allows people to share information.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `surf the internet`: lướt internet
 - `internet connection`: kết nối internet
+- `browse the internet`: lướt mạng internet
+- `high-speed internet`: internet tốc độ cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I look up new words on the internet.

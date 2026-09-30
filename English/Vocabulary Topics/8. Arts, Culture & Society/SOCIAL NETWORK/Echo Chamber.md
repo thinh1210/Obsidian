@@ -2,8 +2,10 @@
 *noun*
 > /ˈekəʊ ˌtʃeɪmbə(r)/
 
+![[echo_chamber.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An environment where a person only encounters information or opinions that reflect and reinforce their own
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political echo chamber`: buồng phản âm chính trị
+- `break out of the echo chamber`: thoát ra khỏi buồng phản âm tư tưởng
+- `reinforce the echo chamber`: củng cố định kiến trong buồng phản âm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* If you only follow people who agree with you, your social media feed becomes an echo chamber.

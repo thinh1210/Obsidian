@@ -2,8 +2,10 @@
 *Noun*
 > /ˈdɪvɪdend/
 
+![[dividend.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money paid regularly by a company to its shareholders out of its profits.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay dividends`: trả cổ tức (mang lại quả ngọt)
 - `dividend payout`: việc thanh toán cổ tức
+- `dividend reinvestment`: tái đầu tư khoản tiền cổ tức nhận được
+- `regular dividend`: cổ tức chia định kỳ đều đặn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many retirees look for companies that pay steady dividends for income.

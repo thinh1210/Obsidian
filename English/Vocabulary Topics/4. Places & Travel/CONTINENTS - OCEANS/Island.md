@@ -2,8 +2,10 @@
 *noun*
 > /ˈaɪlənd/
 
+![[island.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land surrounded by water.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a tropical island`: một hòn đảo nhiệt đới
+- `remote island`: hòn đảo xa xôi hẻo lánh
+- `uninhabited island`: đảo hoang không người
+- `island hopping`: du lịch từ đảo này sang đảo khác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live on a small island.

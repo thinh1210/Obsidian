@@ -2,8 +2,10 @@
 *adjective*
 > /ˈfruː.ɡəl/
 
+![[frugal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sparing or economical with regard to money or food
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `frugal lifestyle`: lối sống tiết kiệm
+- `frugal living`: lối sống giản dị tiết kiệm
+- `frugal meal`: bữa ăn đạm bạc đơn sơ
+- `frugal with money`: luôn chắt bóp tằn tiện trong chi tiêu
+- `live a frugal existence`: sống cuộc đời thanh đạm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has always led a frugal life, saving most of his income.

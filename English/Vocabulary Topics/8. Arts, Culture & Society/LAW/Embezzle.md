@@ -2,8 +2,10 @@
 *verb*
 > /ɪmˈbez.əl/
 
+![[embezzle.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works).

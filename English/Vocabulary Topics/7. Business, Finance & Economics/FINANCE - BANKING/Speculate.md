@@ -2,8 +2,10 @@
 *verb.*
 > /ˈspekjuleɪt/
 
+![[speculate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To invest in stocks, property, or other ventures in the hope of gain but with the risk of loss.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `speculate on property`: đầu cơ bất động sản
 - `speculate in the stock market`: đầu cơ thị trường chứng khoán
+- `speculative bubble`: bong bóng kinh tế do đầu cơ
+- `speculate on forex`: đầu cơ trên thị trường ngoại hối
+- `high-risk speculation`: đầu cơ rủi ro cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is dangerous to speculate in foreign exchange if you don't understand the market.

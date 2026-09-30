@@ -2,8 +2,10 @@
 *noun*
 > /ˈwaɪld.faɪər/
 
+![[wildfire.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, destructive fire that spreads quickly over woodland or brush.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `contain a wildfire`: khống chế đám cháy rừng
 - `wildfire smoke`: khói cháy rừng
+- `spread like wildfire`: lan truyền nhanh như cháy rừng
+- `battle a wildfire`: chiến đấu dập tắt đám cháy rừng
+- `wildfire evacuation`: sơ tán khẩn cấp tránh nạn cháy rừng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Summer heat waves often trigger devastating wildfires in California.

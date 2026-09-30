@@ -2,8 +2,10 @@
 *adj., n.*
 > /ˈmɪnɪməlɪst/
 
+![[minimalist.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to a style or lifestyle that uses only what is strictly necessary.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `minimalist lifestyle`: lối sống tối giản
+- `minimalist design`: phong cách thiết kế tối giản
+- `embrace a minimalist approach`: áp dụng lối sống tối giản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I prefer a minimalist lifestyle.

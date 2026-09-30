@@ -2,8 +2,10 @@
 *verb.*
 > /lend/
 
+![[lend.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give something to someone for a period of time, expecting it to be given back.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lend money to`: cho ai vay tiền
 - `lend support`: hỗ trợ
+- `predatory lending`: cho vay nặng lãi chèn ép
+- `lending institution`: tổ chức tín dụng cho vay
+- `lender of last resort`: người cho vay cứu cánh cuối cùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bank agreed to lend him the money to buy a new house.

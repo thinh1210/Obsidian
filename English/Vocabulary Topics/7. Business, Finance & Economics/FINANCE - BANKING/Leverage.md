@@ -2,8 +2,10 @@
 *noun.*
 > /ˈliːvərɪdʒ/
 
+![[leverage.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The use of borrowed capital (debt) to increase the potential return of an investment.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `financial leverage`: đòn bẩy tài chính
 - `high leverage`: đòn bẩy cao
+- `highly leveraged`: sử dụng đòn bẩy nợ cao
+- `deleveraging`: quá trình giải tỏa bớt nợ vay
+- `financial leverage ratio`: tỷ lệ đòn bẩy tài chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Using high leverage can multiply your profits, but it also increases the risk of ruin.

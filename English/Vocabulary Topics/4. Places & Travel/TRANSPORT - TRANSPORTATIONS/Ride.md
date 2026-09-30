@@ -2,8 +2,10 @@
 *verb*
 > /raɪd/
 
+![[ride.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sit on and control the movement of (a bicycle, motorcycle, or horse).
@@ -16,6 +18,7 @@
 - `ride a bike`: đi xe đạp
 - `ride a horse`: cưỡi ngựa
 - `give someone a ride`: cho ai đi nhờ xe
+- `enjoy the ride`: tận hưởng suốt chuyến đi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I learned to ride a bicycle when I was six years old.

@@ -2,8 +2,10 @@
 *v.*
 > /prəˈməʊt/
 
+![[promote.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To raise someone to a higher position or rank
@@ -13,8 +15,11 @@
 💡 Pơ rơ mốt (promote) thời trang để quảng bá thương hiệu.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``get promoted`: được thăng chức`
-- ``promote a product`: quảng bá sản phẩm`
+- `get promoted`: được thăng chức
+- `promote a product`: quảng bá sản phẩm
+- `promote collaboration`: thúc đẩy tinh thần hợp tác cùng phát triển
+- `promote lifelong learning`: khuyến khích cổ vũ phong trào học tập trọn đời
+- `promoted to senior role`: được cất nhắc thăng chức lên vị trí cấp cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was promoted to manager last week.

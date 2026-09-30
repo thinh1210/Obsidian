@@ -2,8 +2,10 @@
 *adj*
 > /əkˈsep.tə.bəl/
 
+![[acceptable.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to be agreed on; suitable.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `socially acceptable`: được xã hội chấp nhận
+- `acceptable standard`: tiêu chuẩn chấp nhận được
+- `within acceptable limits`: trong giới hạn chấp nhận được
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Is this dress acceptable for the party?

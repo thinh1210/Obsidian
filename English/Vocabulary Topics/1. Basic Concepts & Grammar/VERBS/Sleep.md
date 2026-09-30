@@ -2,8 +2,10 @@
 *Verb*
 > /sliːp/
 
+![[sleep.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To rest with your eyes closed and your mind and body not active.
@@ -13,7 +15,10 @@
 💡 Sờ líp (sleep) vô là đi ngủ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `sleep in`: ngủ nướng\n- `go to sleep`: đi ngủ
+- `sleep in`: ngủ nướng
+- `go to sleep`: đi ngủ
+- `sleep like a log`: ngủ say như khúc gỗ
+- `sleep on it`: suy nghĩ thêm qua đêm trước khi quyết định
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I sleep early.

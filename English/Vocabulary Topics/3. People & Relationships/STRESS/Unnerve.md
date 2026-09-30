@@ -2,8 +2,10 @@
 *v.*
 > /ˌʌnˈnɜːrv/
 
+![[unnerve.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (someone) lose courage or confidence
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `unnerve someone`: làm ai đó nhụt chí
 - `deeply unnerved`: vô cùng hoảng sợ/bất an
+- `unnerving experience`: trải nghiệm khiến người ta rợn người bất an
+- `visibly unnerved`: trông thấy rõ sự lo lắng bồn chồn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The strange noise unnerved me.

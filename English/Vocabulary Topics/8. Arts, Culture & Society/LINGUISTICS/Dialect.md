@@ -2,8 +2,10 @@
 *noun*
 > /ˈdaɪ.ə.lekt/
 
+![[dialect.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a form of a language that is spoken in a particular part of a country or by a particular group of people

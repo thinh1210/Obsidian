@@ -2,8 +2,10 @@
 *noun*
 > /det/
 
+![[debt.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something, typically money, that is owed or due
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `get into debt`: lâm vào cảnh nợ nần
+- `incur debt`: gánh chịu thêm nợ nần
+- `debt relief`: sự xóa nợ / giảm bớt gánh nặng nợ
+- `debt-to-income ratio`: tỷ lệ nợ trên tổng thu nhập
+- `pay off debt`: trả dứt điểm các khoản nợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to pay off all my debts this year.

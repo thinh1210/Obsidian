@@ -2,8 +2,10 @@
 *adj*
 > /ɡreɪt/
 
+![[great.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of an extent, amount, or intensity considerably above the normal or average.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a great time`: một thời gian tuyệt vời
+- `great deal of`: rất nhiều
+- `great extent`: mức độ lớn
+- `with great care`: với sự cẩn trọng cao độ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a great time at the party.

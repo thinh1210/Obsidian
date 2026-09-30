@@ -2,8 +2,10 @@
 *n.*
 > /rɪˈvjuː/
 
+![[review.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A critical appraisal of a book, play, movie, exhibition, etc., published in a newspaper or magazine.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `write a review`: viết bài đánh giá
 - `critical review`: bài phê bình chuyên môn
+- `glowing review`: bài bình luận khen ngợi hết lời
+- `rave reviews`: hàng loạt lời khen ngợi nhiệt liệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I always read reviews before buying a video game.

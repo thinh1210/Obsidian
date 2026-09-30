@@ -2,8 +2,10 @@
 *noun*
 > /əˈnæk.rə.nɪ.zəm/
 
+![[anachronism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical anachronism`: sự sai lệch niên đại lịch sử
 - `glaring anachronism`: sự sai niên đại rõ rệt
+- `cultural anachronism`: sự không tương thích về niên đại văn hóa
+- `riddled with anachronisms`: chứa đầy những chi tiết sai lệch niên đại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Having a modern smartphone in a movie about the 1920s is a funny anachronism.

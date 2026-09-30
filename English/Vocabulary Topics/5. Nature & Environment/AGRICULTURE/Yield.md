@@ -2,8 +2,10 @@
 *n.*
 > /jiːld/
 
+![[yield.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The total quantity of agricultural product produced.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `high yield`: sản lượng cao
 - `crop yield`: sản lượng cây trồng
+- `yield to pressure`: nhượng bộ trước áp lực
+- `yield positive results`: đem lại kết quả khả quan
+- `yield curve`: đường cong lợi suất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This new technique will significantly increase the farm's annual yield.

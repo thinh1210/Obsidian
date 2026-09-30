@@ -2,8 +2,10 @@
 *noun.*
 > /fiː/
 
+![[fee.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount of money paid for a particular piece of work or service.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bank fee`: phí ngân hàng
 - `transaction fee`: phí giao dịch
+- `maintenance fee`: phí quản lý duy trì tài khoản
+- `hidden fees`: các chi phí phụ ẩn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bank charges a small fee for international transfers.

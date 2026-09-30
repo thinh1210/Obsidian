@@ -2,8 +2,10 @@
 *n.*
 > /ˌvɜː.tʃuˈəʊ.səʊ/
 
+![[virtuoso.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person highly skilled in music or another artistic pursuit.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `violin virtuoso`: bậc thầy vĩ cầm
 - `virtuoso performance`: màn trình diễn đỉnh cao
+- `piano virtuoso`: bậc thầy đàn dương cầm
+- `virtuoso display`: màn phô diễn kỹ năng bậc thầy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a violin virtuoso who started playing with major orchestras at age ten.

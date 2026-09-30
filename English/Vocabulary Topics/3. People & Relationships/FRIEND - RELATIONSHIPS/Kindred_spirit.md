@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɪn.drəd ˈspɪr.ət/
 
+![[kindred_spirit.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C2 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person whose interests or attitudes are similar to one's own.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `find a kindred spirit`: tìm thấy người tâm đầu ý hợp
+- `recognize a kindred spirit`: nhận ra người cùng tần số tâm đầu ý hợp
+- `kindred spirits at heart`: những tâm hồn đồng điệu tự thâm tâm
+- `bond between kindred spirits`: sợi dây gắn kết giữa những tâm hồn tri kỷ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In him, she found a kindred spirit.

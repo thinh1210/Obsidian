@@ -2,8 +2,10 @@
 *n.*
 > /ˈaɪ.dəl/
 
+![[idol.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who is admired very much.
@@ -13,7 +15,9 @@
 💡 Ái (ai) đồ (dol) -> Người mình yêu quý
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Teen idol: Thần tượng tuổi teen`
+- `Teen idol`: Thần tượng tuổi teen
+- `idolize someone`: thần tượng hóa ai đó
+- `matinee idol`: thần tượng sân khấu điện ảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is my idol.

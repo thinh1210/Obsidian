@@ -2,8 +2,10 @@
 *Noun*
 > /ɪnˈsep.ʃən/
 
+![[inception.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The establishment or starting point of an institution or activity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `since its inception`: kể từ khi thành lập
 - `from the inception`: ngay từ khi bắt đầu
+- `at the inception of`: vào thời điểm bắt đầu của
+- `inception stage`: giai đoạn sơ khai khởi đầu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The system has worked well since its inception last year.

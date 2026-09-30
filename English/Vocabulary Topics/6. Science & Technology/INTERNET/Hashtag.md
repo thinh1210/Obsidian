@@ -2,8 +2,10 @@
 *noun*
 > /ˈhæʃ.tæɡ/
 
+![[hashtag.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A word or phrase preceded by '#' used on social media to categorize content and make it searchable.

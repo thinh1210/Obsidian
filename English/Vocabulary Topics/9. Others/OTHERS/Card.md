@@ -1,13 +1,21 @@
 # Card
 
 *Noun*
+> /kɑːd/
+
+![[card.mp3]]
 
 - **[EN]:** A small piece of stiff paper or plastic with information or writing on it.
 - **[VN]:** Thẻ, danh thiếp, thiệp.
 
-**Level:** A1
+**Level:** A1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Đồ vật hàng ngày, Vật dụng chứa & Đồ chơi
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `play one's cards right`: hành xử khôn ngoan mưu mẹo (idiom)
+- `wild card`: nhân tố bất ngờ khó lường trước (idiom)
+- `hold all the cards`: nắm toàn bộ lợi thế quyết định trong tay (idiom)
+
 ## Examples
 1. *She wrote her phone number on a business card.*
    - Cô ấy đã viết số điện thoại của mình lên một danh thiếp.

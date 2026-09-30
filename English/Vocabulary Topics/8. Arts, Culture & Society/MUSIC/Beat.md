@@ -2,8 +2,10 @@
 *n.*
 > /biːt/
 
+![[beat.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main rhythm or tempo in music.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `catchy beat`: nhịp điệu bắt tai
 - `drop the beat`: thả beat/bắt đầu nhạc
+- `upbeat tempo`: tiết tấu nhanh vui tươi
+- `miss a beat`: lỡ một nhịp / khựng lại một nhịp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The song has a heavy beat that makes you want to dance.

@@ -2,8 +2,10 @@
 *noun.*
 > /lɪˈkwɪdəti/
 
+![[liquidity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The availability of liquid assets (cash) to a market or company.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `market liquidity`: thanh khoản thị trường
 - `liquidity crisis`: khủng hoảng thanh khoản
+- `liquidity ratio`: tỷ số khả năng thanh khoản
+- `inject liquidity`: bơm thêm nguồn thanh khoản
+- `drain liquidity`: hút bớt dòng thanh khoản dư thừa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Real estate is a good investment but has low liquidity compared to stocks.

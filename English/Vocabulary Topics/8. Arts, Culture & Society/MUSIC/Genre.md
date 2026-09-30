@@ -2,8 +2,10 @@
 *n.*
 > /ˈʒɒ̃.rə/
 
+![[genre.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A style or category of art, music, or literature.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `musical genre`: thể loại âm nhạc
 - `cross-genre`: giao thoa thể loại
+- `genre-bending`: phá cách, lai tạp thể loại sáng tạo
+- `popular genre`: thể loại được đông đảo khán giả yêu thích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Jazz is my favorite musical genre because of its freedom.

@@ -2,8 +2,10 @@
 *noun*
 > /kɔːt/
 
+![[court.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW
+**Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where trials and other legal cases are decided by a judge and jury.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˌbaɪoʊɪnˈtɛnsɪv/
 
+![[biointensive.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organic agricultural system focusing on maximum yields from small areas while preserving soil.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `biointensive agriculture`: nông nghiệp thâm canh sinh học
 - `biointensive gardening`: làm vườn thâm canh sinh học
+- `biointensive method`: phương pháp thâm canh sinh học
+- `biointensive food production`: sản xuất lương thực thâm canh sinh học
+- `biointensive mini-farming`: mô hình canh tác thu nhỏ thâm canh sinh học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Biointensive gardening allows us to grow a lot of food in a tiny yard.

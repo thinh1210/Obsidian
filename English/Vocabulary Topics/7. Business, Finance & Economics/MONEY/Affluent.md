@@ -2,8 +2,10 @@
 *adjective*
 > /ˈæf.lu.ənt/
 
+![[affluent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a great deal of money; wealthy
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `affluent neighborhood`: khu phố thượng lưu
+- `affluent society`: xã hội sung túc giàu có
+- `affluent background`: xuất thân từ gia đình khá giả
+- `affluent consumers`: nhóm người tiêu dùng có khả năng chi trả cao
+- `grow up in an affluent family`: lớn lên trong một gia đình khá giả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live in an affluent suburb of Chicago.

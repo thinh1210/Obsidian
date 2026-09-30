@@ -2,8 +2,10 @@
 *noun.*
 > /ˌnæn.oʊ.roʊˈbɑː.t̬ɪks/
 
+![[nanorobotics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The technology of creating machines or robots close to the microscopic scale of a nanometer
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `nanorobotics in medicine`: công nghệ robot nano trong y học
+- `nanorobotic drug delivery`: phân phối thuốc bằng robot nano
+- `nanorobotics technology`: công nghệ robot nano
+- `medical nanorobotics`: công nghệ robot nano y học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Nanorobotics could revolutionize cancer treatment by delivering drugs directly to tumors.

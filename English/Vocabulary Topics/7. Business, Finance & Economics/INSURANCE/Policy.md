@@ -2,8 +2,10 @@
 *n.*
 > /ˈpɒləsi/
 
+![[policy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A document detailing the terms and conditions of a contract of insurance.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insurance policy`: hợp đồng bảo hiểm
 - `policyholder`: người đứng tên hợp đồng
+- `policy provisions`: các điều khoản và quy chế ghi trong hợp đồng
+- `cancel a policy`: hủy bỏ ngang hợp đồng bảo hiểm
+- `policy renewal`: tiếp tục tái tục hợp đồng bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Make sure to read your insurance policy carefully.

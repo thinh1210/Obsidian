@@ -2,8 +2,10 @@
 *adj.*
 > /seɪf/
 
+![[safe.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Protected from or not exposed to danger or risk; not likely to be harmed or lost.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `keep safe`: giữ an toàn
 - `safe driving`: lái xe an toàn
+- `fail-safe mechanism`: cơ chế tự động ngắt an toàn khi gặp sự cố
+- `safe and sound`: bảo toàn tính mạng bình an vô sự
+- `safe driving discount`: chính sách giảm phí bảo hiểm cho tài xế lái xe an toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Drive carefully to stay safe on the road.

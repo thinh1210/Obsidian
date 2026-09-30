@@ -2,8 +2,10 @@
 *Verb*
 > /wɒtʃ/
 
+![[watch.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at something for a period of time.
@@ -13,7 +15,10 @@
 💡 Quát (watch) tháo khi xem phim.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `watch out`: cẩn thận\n- `watch over`: trông nom
+- `watch out`: cẩn thận
+- `watch over`: trông nom
+- `keep a watchful eye on`: để mắt theo dõi cẩn thận
+- `watch one's back`: cẩn thận đề phòng bị hãm hại sau lưng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I watch TV.

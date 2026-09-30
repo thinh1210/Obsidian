@@ -2,8 +2,10 @@
 *noun.*
 > /ˈsɑːft.wer/
 
+![[software.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The programs and other operating information used by a computer
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `software update`: cập nhật phần mềm
+- `robotics software`: phần mềm robot
+- `embedded software`: phần mềm nhúng
+- `open-source software`: phần mềm mã nguồn mở
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot needs a software update to fix the bugs.

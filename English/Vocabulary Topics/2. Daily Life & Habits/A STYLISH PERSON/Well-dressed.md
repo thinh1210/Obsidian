@@ -2,8 +2,10 @@
 *adj.*
 > /ˌwel ˈdrest/
 
+![[well_dressed.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wearing attractive and stylish clothes.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a well-dressed man`: một người đàn ông ăn mặc đẹp
+- `consistently well-dressed`: luôn ăn mặc đẹp và chỉn chu
+- `well-dressed gentleman`: quý ông ăn mặc lịch lãm
+- `well-dressed crowd`: đám đông ăn mặc thời trang, sang trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is always well-dressed for parties.

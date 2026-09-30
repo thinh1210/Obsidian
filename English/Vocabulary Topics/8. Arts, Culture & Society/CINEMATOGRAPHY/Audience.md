@@ -2,8 +2,10 @@
 *n.*
 > /ˈɔːdiəns/
 
+![[audience.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The assembled spectators or listeners at a public event such as a play, movie, concert, or meeting
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `target audience`: khán giả mục tiêu
 - `studio audience`: khán giả tại trường quay
+- `film festival audience`: khán giả liên hoan phim
+- `enthral the audience`: mê hoặc lôi cuốn người xem phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The audience clapped at the end of the movie.

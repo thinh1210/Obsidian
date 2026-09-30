@@ -2,8 +2,10 @@
 *noun*
 > /skɪn/
 
+![[skin.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The thin layer of tissue forming the natural outer covering of the body of a person or animal.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `skin care`: chăm sóc da
 - `sensitive skin`: da nhạy cảm
+- `thick-skinned`: mặt dày / không dễ bị tổn thương bởi chỉ trích
+- `by the skin of one's teeth`: trong đường tơ kẽ tóc / suýt soát
+- `skin graft`: phẫu thuật cấy ghép da
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sunlight can burn your skin.

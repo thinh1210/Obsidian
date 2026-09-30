@@ -1,13 +1,21 @@
 # Instance
 
 *Noun*
+> /ˈɪn.stəns/
+
+![[instance.mp3]]
 
 - **[EN]:** An example or single occurrence of something.
 - **[VN]:** Trường hợp, ví dụ cụ thể.
 
-**Level:** B2
+**Level:** B2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `for instance`: chẳng hạn như là, ví dụ là (idiom)
+- `in the first instance`: ngay từ đầu, ở giai đoạn bước đầu
+- `rare instance`: trường hợp hãn hữu hiếm gặp
+
 ## Examples
 1. *There have been several instances of internet fraud reported recently.*
    - Đã có một số trường hợp lừa đảo internet được báo cáo gần đây.

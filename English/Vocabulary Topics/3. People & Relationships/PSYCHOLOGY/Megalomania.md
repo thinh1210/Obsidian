@@ -2,8 +2,10 @@
 *noun*
 > /ˌmeɡ.ə.loʊˈmeɪ.ni.ə/
 
+![[megalomania.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Obsession with the exercise of power, especially in the domination of others.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `suffer from megalomania`: mắc chứng vĩ cuồng
+- `border on megalomania`: gần như chạm tới chứng vĩ cuồng hoang tưởng
+- `delusions of megalomania`: những ảo tưởng vĩ cuồng về quyền lực
+- `fuel someone's megalomania`: thổi bùng thêm căn bệnh vĩ cuồng của ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dictator's megalomania led to his downfall.

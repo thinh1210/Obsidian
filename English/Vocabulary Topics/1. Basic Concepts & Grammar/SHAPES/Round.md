@@ -2,8 +2,10 @@
 *adj.*
 > /raʊnd/
 
+![[round.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shaped like a circle or cylinder.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A round table`: Một cái bàn tròn
 - `Round shape`: Hình tròn
+- `round the clock`: suốt ngày đêm không ngừng nghỉ
+- `make the rounds`: đi tuần / lan truyền (tin tức)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ball is round.

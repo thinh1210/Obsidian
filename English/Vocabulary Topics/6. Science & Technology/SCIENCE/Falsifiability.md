@@ -2,8 +2,10 @@
 *noun*
 > /fɔːlˌsɪ.faɪ.əˈbɪl.ɪ.ti/
 
+![[falsifiability.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The property of a scientific theory that allows it to potentially be proven false through observation or experiment (Popper's criterion).

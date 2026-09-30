@@ -2,8 +2,10 @@
 *adj.*
 > /ekˌstempəˈreɪniəs/
 
+![[extemporaneous.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Spoken or done without preparation.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `extemporaneous speech`: bài phát biểu ứng khẩu
 - `extemporaneous performance`: màn biểu diễn ứng khẩu
+- `speak extemporaneously`: phát biểu ứng khẩu không chuẩn bị trước
+- `extemporaneous remarks`: lời phát biểu tùy hứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He made an extemporaneous speech at the wedding.

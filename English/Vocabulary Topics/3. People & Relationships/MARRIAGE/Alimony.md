@@ -2,8 +2,10 @@
 *noun*
 > /ˈælɪməni/
 
+![[alimony.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Financial support that a person is ordered by a court to give to their spouse during separation or following divorce.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Pay alimony`: Trả tiền cấp dưỡng
+- `award alimony`: tuyên phạt phán quyết tiền cấp dưỡng
+- `alimony payments`: các khoản thanh toán tiền cấp dưỡng ly hôn
+- `sue for alimony`: kiện đòi tiền chu cấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He pays a lot of alimony to his ex-wife.

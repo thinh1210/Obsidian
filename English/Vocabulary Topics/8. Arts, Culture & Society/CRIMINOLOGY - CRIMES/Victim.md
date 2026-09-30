@@ -2,8 +2,10 @@
 *noun*
 > /ˈvɪktɪm/
 
+![[victim.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person harmed, injured, or killed as a result of a crime, accident, or other event
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `crime victim`: nạn nhân của tội phạm
 - `fall victim to`: trở thành nạn nhân của
+- `victim support`: chương trình bảo vệ và hỗ trợ nạn nhân tội phạm
+- `claim a victim`: cướp đi sinh mạng của một người vô tội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The victim of the car accident was rushed to the hospital.

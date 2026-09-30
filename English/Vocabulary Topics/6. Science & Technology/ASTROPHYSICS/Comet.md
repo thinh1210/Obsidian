@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒm.ɪt/
 
+![[comet.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A celestial object consisting of a nucleus of ice and dust and, when near the sun, a 'tail' of gas.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `comet tail`: đuôi sao chổi
 - `Halley's comet`: sao chổi Halley
+- `periodic comet`: sao chổi định kỳ
+- `comet nucleus`: nhân sao chổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched the comet pass through the sky with our telescope.

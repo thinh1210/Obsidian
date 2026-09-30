@@ -2,8 +2,10 @@
 *adj.*
 > /əʊld/
 
+![[old.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having lived or existed for a long time
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `old town`: phố cổ
 - `old building`: tòa nhà cổ
+- `centuries-old`: có tuổi đời hàng thế kỷ
+- `oldest surviving`: cổ nhất còn sót lại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This is a very old house built in the last century.

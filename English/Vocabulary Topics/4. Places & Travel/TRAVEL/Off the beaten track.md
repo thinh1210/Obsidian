@@ -2,8 +2,10 @@
 *Idiom*
 > /ɒf ðə ˈbiː.tən træk/
 
+![[off_the_beaten_track.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In or into an isolated place.

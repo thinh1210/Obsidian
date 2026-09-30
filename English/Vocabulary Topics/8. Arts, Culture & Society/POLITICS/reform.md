@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈfɔːrm/
 
+![[reform.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The improvement or amendment of what is wrong, corrupt, or unsatisfactory in a system or law.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political reform`: cải cách chính trị
 - `land reform`: cải cách ruộng đất
+- `economic reform`: cải cách kinh tế sâu rộng
+- `push for systemic reform`: thúc đẩy cải cách mang tính hệ thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Citizens are demanding reform of the healthcare system.

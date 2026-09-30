@@ -2,8 +2,10 @@
 *n.*
 > /laɪf/
 
+![[life.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition that distinguishes animals and plants from inorganic matter.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `way of life`: lối sống
 - `quality of life`: chất lượng cuộc sống
+- `life expectancy`: tuổi thọ kỳ vọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wants to live a simple life in the countryside.

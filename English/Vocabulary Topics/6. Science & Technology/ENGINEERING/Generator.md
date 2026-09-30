@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒenəreɪtə(r)/
 
+![[generator.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dynamo or similar machine for converting mechanical energy into electricity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `emergency generator`: máy phát điện khẩn cấp
 - `diesel generator`: máy phát điện đi-ê-zen
+- `power generator`: máy phát điện nguồn
+- `electric generator`: máy phát điện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* When the storm knocked down power lines, the hospital switched to its emergency generator.

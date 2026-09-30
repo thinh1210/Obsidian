@@ -2,8 +2,10 @@
 *adj*
 > /ˈhɒr.ə.bəl/
 
+![[horrible.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very unpleasant or bad.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `horrible weather`: thời tiết khủng khiếp
+- `horrible accident`: tai nạn kinh hoàng
+- `horrible nightmare`: cơn ác mộng khủng khiếp
+- `feel horrible about`: cảm thấy vô cùng áy náy về
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It smells horrible in here.

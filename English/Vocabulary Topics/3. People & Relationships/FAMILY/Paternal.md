@@ -2,8 +2,10 @@
 *Adj*
 > /pəˈtɜː.nəl/
 
+![[paternal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Typical of or like a father, especially a kind father; related to father's side.

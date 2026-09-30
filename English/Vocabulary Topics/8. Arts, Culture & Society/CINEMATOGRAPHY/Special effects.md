@@ -2,8 +2,10 @@
 *n.*
 > /ˌspeʃl ɪˈfekts/
 
+![[special_effects.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Illusions or visual tricks used in the theatre, film, television, video game, and simulator industries to simulate imagined events
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `practical special effects`: hiệu ứng đặc biệt thực tế
 - `digital special effects`: kỹ xảo kỹ thuật số
+- `groundbreaking special effects`: kỹ xảo điện ảnh đột phá mang tính thời đại
+- `special effects supervisor`: giám sát trưởng tổ kỹ xảo hiệu ứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The special effects in Avatar were groundbreaking.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡlæsiə(r)/
 
+![[glacier.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `melting glacier`: sông băng tan chảy
+- `retreating glacier`: sông băng đang tan thu hẹp
+- `glacier hike`: chuyến đi bộ leo sông băng
+- `ancient glacier`: sông băng cổ đại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The glacier is slowly sliding down the mountain.

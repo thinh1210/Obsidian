@@ -2,8 +2,10 @@
 *n.*
 > /ˈæθ.liːt/
 
+![[athlete.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is proficient in sports and other forms of physical exercise.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `professional athlete`: vận động viên chuyên nghiệp
 - `student athlete`: vận động viên học sinh/sinh viên
+- `elite athlete`: vận động viên đỉnh cao
+- `track and field athlete`: vận động viên điền kinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He trained hard to become an Olympic athlete.

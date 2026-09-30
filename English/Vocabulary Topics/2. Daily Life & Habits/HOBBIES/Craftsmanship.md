@@ -2,8 +2,10 @@
 *n.*
 > /ˈkrɑːfts.mən.ʃɪp/
 
+![[craftsmanship.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Skill at making things, or the beautiful quality of something that has been made using a lot of skill.

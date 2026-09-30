@@ -2,8 +2,10 @@
 *n*
 > /ˌɪn.təˌrɒp.ər.əˈbɪl.ə.ti/
 
+![[interoperability.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Tech/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C2 | **Ngữ cảnh:** Tech/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The degree to which two products, programs, etc. can be used together, or the quality of being able to be used together.

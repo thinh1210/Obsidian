@@ -2,8 +2,10 @@
 *noun*
 > /ˈtrɪb.jə.tər.i/
 
+![[tributary.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A river or stream flowing into a larger river or lake.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `major tributary`: nhánh sông chính
 - `tributary system`: hệ thống sông phụ lưu
+- `tributary river`: nhánh sông phụ lưu
+- `feed into a tributary`: đổ dòng chảy vào một phụ lưu
+- `network of tributaries`: mạng lưới các dòng sông phụ lưu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The main river flooded because all its tributaries were overflowing.

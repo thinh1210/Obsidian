@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɑːfˌsɪs.tər/
 
+![[half_sister.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sister who is the daughter of only one of your parents.

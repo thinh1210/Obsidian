@@ -2,8 +2,10 @@
 *n.*
 > /ˌɔːnəmenˈteɪʃn/
 
+![[ornamentation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Things added to something to provide decoration
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `elaborate ornamentation`: họa tiết trang trí tinh xảo
 - `architectural ornamentation`: trang trí kiến trúc
+- `decorative ornamentation`: họa tiết hoa văn trang trí
+- `devoid of ornamentation`: hoàn toàn không có hoa văn trang trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The simple design of the house has very little ornamentation.

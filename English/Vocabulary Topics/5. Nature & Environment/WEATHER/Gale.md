@@ -2,8 +2,10 @@
 *noun*
 > /ɡeɪl/
 
+![[gale.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very strong wind
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gale-force winds`: gió mạnh cấp bão
+- `gales of laughter`: những tràng cười rộ như nổ tung
+- `buffeted by gales`: bị quăng quật bởi những cơn gió bão mạnh
+- `gale warning`: cảnh báo gió giật cấp bão
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The roof was damaged by gale-force winds.

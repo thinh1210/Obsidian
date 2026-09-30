@@ -2,8 +2,10 @@
 *noun*
 > /ˈstrɑːtəm/
 
+![[stratum.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A layer of material, naturally or artificially formed, often one of a number of parallel layers in the earth
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `soil stratum`: tầng đất
 - `archaeological stratum`: địa tầng khảo cổ
+- `deep stratum`: tầng địa tầng sâu
+- `geological stratum`: tầng địa chất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This stratum contains artifacts from the Bronze Age.

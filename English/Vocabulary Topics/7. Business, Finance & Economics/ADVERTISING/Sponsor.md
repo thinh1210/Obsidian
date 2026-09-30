@@ -2,8 +2,10 @@
 *verb*
 > /ˈspɒnsə(r)/
 
+![[sponsor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To finance or support an event, activity, person, or organization.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sponsor an event`: tài trợ một sự kiện
 - `official sponsor`: nhà tài trợ chính thức
+- `title sponsor`: nhà tài trợ danh xưng chính
+- `corporate sponsor`: nhà tài trợ doanh nghiệp
+- `seek sponsors`: tìm kiếm nhà tài trợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The local business decided to sponsor the soccer team.

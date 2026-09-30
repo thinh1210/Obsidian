@@ -2,8 +2,10 @@
 *noun*
 > /ˈɔːr.fən/
 
+![[orphan.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A child whose parents are dead.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `war orphan`: trẻ mồ côi do chiến tranh
+- `orphanage home`: viện mồ côi nuôi dưỡng trẻ
+- `orphan child`: đứa trẻ mồ côi cha mẹ
+- `adopt an orphan`: nhận nuôi dưỡng trẻ mồ côi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He grew up as an orphan.

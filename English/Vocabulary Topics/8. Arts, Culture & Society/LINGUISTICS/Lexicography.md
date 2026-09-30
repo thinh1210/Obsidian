@@ -2,8 +2,10 @@
 *noun*
 > /ˌlek.sɪˈkɒɡ.rə.fi/
 
+![[lexicography.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the activity or job of writing dictionaries

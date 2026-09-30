@@ -2,8 +2,10 @@
 *Noun*
 > /ˈek.səʊˌplæn.ɪt/
 
+![[exoplanet.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A planet that orbits a star outside the solar system.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `habitable exoplanet`: ngoại hành tinh có thể sinh sống
 - `exoplanet discovery`: phát hiện ngoại hành tinh
+- `transiting exoplanet`: ngoại hành tinh đi qua bề mặt sao mẹ
+- `detect exoplanets`: dò tìm ngoại hành tinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Do you think we will ever visit an exoplanet?

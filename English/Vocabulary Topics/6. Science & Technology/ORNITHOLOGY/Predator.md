@@ -2,8 +2,10 @@
 *noun*
 > /ˈpred.ə.tər/
 
+![[predator.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that naturally preys on others.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `apex predator`: kẻ săn mồi đầu bảng
 - `avian predator`: chim săn mồi
+- `natural predator`: kẻ thù săn mồi tự nhiên
+- `predator-prey relationship`: mối quan hệ giữa động vật săn mồi và con mồi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The cat is a major predator of small garden birds.

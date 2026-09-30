@@ -2,8 +2,10 @@
 *adjective*
 > /ˌɪn.təˈstel.ər/
 
+![[interstellar.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring or situated between stars.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `interstellar space`: không gian liên sao
 - `interstellar medium`: môi trường liên sao
+- `interstellar dust`: bụi liên sao
+- `interstellar travel`: du hành liên sao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It would take thousands of years for our current ships to achieve interstellar travel.

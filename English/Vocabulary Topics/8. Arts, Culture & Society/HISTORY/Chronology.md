@@ -2,8 +2,10 @@
 *noun*
 > /krəˈnɒl.ə.dʒi/
 
+![[chronology.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of events or dates in the order of their occurrence.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `chronology of events`: trình tự thời gian của các sự kiện
 - `establish a chronology`: thiết lập một niên biểu
+- `chronological order`: thứ tự niên đại
+- `reverse chronology`: trật tự thời gian đảo ngược
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am trying to establish the exact chronology of the crime.

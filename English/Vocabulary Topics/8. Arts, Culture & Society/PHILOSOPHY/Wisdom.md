@@ -2,8 +2,10 @@
 *n.*
 > /ˈwɪz.dəm/
 
+![[wisdom.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of having experience, knowledge, and good judgment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `conventional wisdom`: quan điểm phổ biến, lẽ thường
 - `words of wisdom`: những lời khôn ngoan
+- `pearls of wisdom`: những lời răn dạy thông thái quý giá
+- `with age comes wisdom`: càng có tuổi càng trở nên thông thái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Elders are often respected for their experience and wisdom.

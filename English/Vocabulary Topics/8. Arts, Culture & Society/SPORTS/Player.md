@@ -2,8 +2,10 @@
 *n.*
 > /ˈpleɪ.ər/
 
+![[player.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who takes part in a game or sport.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `key player`: cầu thủ/nhân tố chủ chốt
 - `professional player`: cầu thủ chuyên nghiệp
+- `star player`: cầu thủ ngôi sao
+- `team player`: người có tinh thần đồng đội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ronaldo is a famous football player.

@@ -2,8 +2,10 @@
 *Verb*
 > /trænsˈfɔːm/
 
+![[transform.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To change in form, appearance, or structure.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `transform the society`: biến đổi xã hội
 - `transform energy`: chuyển đổi năng lượng
+- `transform into`: biến đổi hoàn toàn thành
+- `transform the economy`: chuyển mình thay đổi nền kinh tế
+- `transform one's life`: thay đổi cuộc đời của ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She transformed her backyard into a beautiful garden.

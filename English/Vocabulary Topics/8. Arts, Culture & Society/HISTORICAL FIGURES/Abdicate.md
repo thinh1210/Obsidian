@@ -2,8 +2,10 @@
 *v.*
 > /ˈæbdɪkeɪt/
 
+![[abdicate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To renounce one's throne
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `abdicate the throne`: thoái vị ngôi báu
 - `abdicate responsibility`: từ bỏ trách nhiệm
+- `abdicate in favour of`: thoái vị để nhường ngôi cho
+- `forced to abdicate`: bị buộc phải thoái vị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The king decided to abdicate due to poor health.

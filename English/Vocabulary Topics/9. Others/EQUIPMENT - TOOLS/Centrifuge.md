@@ -2,8 +2,10 @@
 *noun*
 > /ˈsen.trɪ.fjuːdʒ/
 
+![[centrifuge.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a machine with a rapidly rotating container that applies centrifugal force to its contents, typically to separate fluids.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `laboratory centrifuge`: máy ly tâm phòng thí nghiệm
 - `centrifugal force`: lực ly tâm
+- `high-speed centrifuge`: máy ly tâm tốc độ cao
+- `centrifuge tube`: ống nghiệm ly tâm
+- `centrifuge blood samples`: quay ly tâm mẫu máu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The doctor placed the blood samples into the centrifuge.

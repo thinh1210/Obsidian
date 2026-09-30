@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈploʊməsi/
 
+![[diplomacy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The profession, activity, or skill of managing international relations, typically by a country's representatives abroad.

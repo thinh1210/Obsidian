@@ -2,8 +2,10 @@
 *n/v*
 > /stɒk/
 
+![[stock.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The goods kept in a shop
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in stock`: còn hàng
+- `out of stock`: hết hàng tạm thời
+- `take stock of`: kiểm kê hàng hóa (hoặc nhìn nhận đánh giá lại tình hình)
+- `stock up on`: mua tích trữ nhiều hàng hóa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Is it in stock?

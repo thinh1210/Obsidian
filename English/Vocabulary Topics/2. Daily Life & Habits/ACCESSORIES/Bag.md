@@ -2,8 +2,10 @@
 *noun*
 > /bæɡ/
 
+![[bag.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A container made of leather, plastic, or other material, used for carrying things.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `carry a bag`: mang một cái túi
+- `tote bag`: túi vải tote
+- `crossbody bag`: túi đeo chéo
+- `pack a bag`: thu dọn hành lý, xếp đồ vào túi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought a new bag for school.

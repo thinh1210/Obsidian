@@ -2,8 +2,10 @@
 *adj.*
 > /juːˈbɪk.wɪ.təs/
 
+![[ubiquitous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Seeming to be everywhere at the same time
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ubiquitous influence`: ảnh hưởng ở khắp mọi nơi
 - `become ubiquitous`: trở nên phổ biến khắp nơi
+- `ubiquitous presence`: sự hiện diện ở khắp mọi nơi
+- `ubiquitous technology`: công nghệ hiện diện phổ quát khắp nơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Smartphones are now ubiquitous in daily life.

@@ -2,8 +2,10 @@
 *verb*
 > /ˌriːˈbɪld/
 
+![[rebuild.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Build something again after it has been damaged or destroyed.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rebuild the economy`: tái thiết nền kinh tế
 - `rebuild lives`: xây dựng lại cuộc đời
+- `rebuild after the war`: tái thiết và khôi phục đất nước sau chiến tranh tàn phá
+- `rebuild ruined cities`: xây dựng lại các đô thị đổ nát hoang tàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* After the storm, the community came together to rebuild the damaged playground.

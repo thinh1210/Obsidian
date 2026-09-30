@@ -2,8 +2,10 @@
 *v./n.*
 > /tɔːk/
 
+![[talk.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To speak in order to give information or express ideas
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `talk to a friend`: nói chuyện với bạn
+- `talk down to someone`: nói chuyện với giọng điệu trịch thượng
+- `small talk`: chuyện phiếm xã giao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Let's talk about our plans.

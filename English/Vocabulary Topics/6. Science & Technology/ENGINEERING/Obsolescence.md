@@ -2,8 +2,10 @@
 *noun*
 > /ˌɒbsəˈlesns/
 
+![[obsolescence.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of becoming obsolete or outdated and no longer used.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `planned obsolescence`: lỗi thời có kế hoạch
 - `technological obsolescence`: sự lỗi thời về mặt công nghệ
+- `equipment obsolescence`: sự lỗi thời của thiết bị
+- `risk of obsolescence`: nguy cơ lỗi thời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Planned obsolescence makes consumers buy new phone models every couple of years.

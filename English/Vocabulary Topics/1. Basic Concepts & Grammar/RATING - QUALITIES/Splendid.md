@@ -2,8 +2,10 @@
 *adj*
 > /ˈsplen.dɪd/
 
+![[splendid.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Magnificent; very impressive.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a splendid idea`: một ý tưởng tuyệt vời
+- `splendid performance`: màn trình diễn lộng lẫy / tuyệt vời
+- `splendid isolation`: sự cô lập huy hoàng
+- `splendid opportunity`: cơ hội tuyệt vời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* What a splendid day for a walk!

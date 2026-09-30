@@ -2,8 +2,10 @@
 *noun*
 > /hɪˈɡem.ə.ni/
 
+![[hegemony.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Leadership or dominance, especially by one country or social group over others.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultural hegemony`: bá quyền văn hóa
 - `establish hegemony`: thiết lập quyền bá chủ
+- `economic hegemony`: bá quyền kinh tế
+- `regional hegemony`: quyền bá chủ khu vực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The superpower sought to maintain its military hegemony in the region.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈset.ɪŋ/
 
+![[setting.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of metal in which a gem is fixed.
@@ -13,7 +15,10 @@
 💡 Set (đặt) đá vào khung.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `ring setting: khung đính nhẫn`
+- `ring setting`: khung đính nhẫn
+- `prong setting`: chấu giữ đá quý (kiểu gắp 4/6 chấu)
+- `bezel setting`: viền bao quanh giữ đá quý
+- `pave setting`: kiểu đính đá pavé nạm sát nhau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The diamond is in a setting.

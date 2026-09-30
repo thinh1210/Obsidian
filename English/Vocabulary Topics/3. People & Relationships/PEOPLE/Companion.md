@@ -2,8 +2,10 @@
 *n.*
 > /kəmˈpæn.jən/
 
+![[companion.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or animal with whom one spends a lot of time.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A loyal companion`: Một người bạn đồng hành trung thành
+- `constant companion`: người bạn đồng hành luôn sát cánh bên cạnh
+- `pleasant companion`: người bạn đồng hành dễ mến
+- `companion piece`: tác phẩm bổ trợ đi kèm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is my travel companion.

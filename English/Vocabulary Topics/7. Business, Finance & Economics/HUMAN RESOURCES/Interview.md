@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪn.tə.vjuː/
 
+![[interview.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A meeting to assess a candidate's suitability for a job
@@ -13,7 +15,11 @@
 💡 "In" tài liệu và ngồi "view" lại trước khi vào "interview"
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``job interview`: cuộc phỏng vấn xin việc
+- `job interview`: cuộc phỏng vấn xin việc
+- `conduct an interview`: tiến hành phỏng vấn ứng viên
+- `panel interview`: buổi phỏng vấn trước hội đồng giám khảo
+- `phone interview`: vòng sơ tuyển phỏng vấn qua điện thoại
+- `ace the interview`: vượt qua kỳ phỏng vấn một cách thuyết phục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I have a job interview tomorrow morning.

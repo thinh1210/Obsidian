@@ -2,8 +2,10 @@
 *n.*
 > /fruːt/
 
+![[fruit.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sweet and fleshy product of a tree or other plant that contains seed.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fresh fruit`: trái cây tươi
 - `bear fruit`: đơm hoa kết quả (đạt kết quả tốt)
+- `forbidden fruit`: trái cấm (điều bị cấm đoán nhưng cám dỗ)
+- `fruits of labor`: thành quả lao động
+- `seasonal fruit`: trái cây theo mùa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to eat fresh fruit after dinner.

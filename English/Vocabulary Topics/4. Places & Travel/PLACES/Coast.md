@@ -2,8 +2,10 @@
 *n.*
 > /koʊst/
 
+![[coast.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of the land adjoining or near the sea.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on the coast`: trên bờ biển
+- `along the coast`: dọc theo bờ biển
+- `rocky coast`: bờ biển đầy đá ngầm
+- `coast guard`: lực lượng cảnh sát tuần duyên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We drove along the coast.

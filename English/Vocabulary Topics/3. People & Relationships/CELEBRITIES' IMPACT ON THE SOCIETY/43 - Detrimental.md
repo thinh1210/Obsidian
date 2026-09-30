@@ -2,8 +2,10 @@
 *adj.*
 > /ˌdet.rɪˈmen.təl/
 
+![[detrimental.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Hệ lụy tiêu cực & Sự tác động sâu sắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to cause harm.
@@ -13,7 +15,10 @@
 💡 Detriment + al
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Detrimental effect: Ảnh hưởng có hại`
+- `Detrimental effect`: Ảnh hưởng có hại
+- `detrimental to society`: gây nguy hại cho xã hội
+- `detrimental impact`: tác động tiêu cực có hại
+- `highly detrimental`: vô cùng tai hại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Detrimental to health.

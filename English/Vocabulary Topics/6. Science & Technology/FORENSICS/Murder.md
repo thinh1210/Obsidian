@@ -2,8 +2,10 @@
 *noun / verb*
 > /ˈmɜː.dər/
 
+![[murder.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The unlawful killing of a person, especially with deliberate intent.

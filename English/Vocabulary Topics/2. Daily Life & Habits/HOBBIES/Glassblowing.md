@@ -2,8 +2,10 @@
 *n.*
 > /ˈɡlɑːsˌbləʊ.ɪŋ/
 
+![[glassblowing.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of shaping a mass of glass that has been softened by heat by blowing air into it through a tube.

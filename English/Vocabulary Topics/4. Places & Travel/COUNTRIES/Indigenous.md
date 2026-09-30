@@ -2,8 +2,10 @@
 *Adjective*
 > /ɪnˈdɪdʒənəs/
 
+![[indigenous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Originating or occurring naturally in a particular place; native.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Indigenous people`: Người bản địa
+- `indigenous population`: dân cư bản địa
+- `indigenous culture`: văn hóa bản địa
+- `indigenous plants`: các loài thực vật bản địa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The kangaroo is indigenous to Australia.

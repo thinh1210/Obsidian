@@ -2,8 +2,10 @@
 *noun*
 > /ˈep.ə.sen.tər/
 
+![[epicenter.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The point on the Earth's surface directly above the focus of an earthquake.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `locate the epicenter`: xác định vị trí tâm chấn
 - `near the epicenter`: gần tâm chấn
+- `at the epicenter`: ở ngay tại tâm chấn
+- `epicenter of the crisis`: tâm điểm của cuộc khủng hoảng
+- `measure depth from the epicenter`: đo độ sâu tính từ tâm chấn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The epicenter of the earthquake was located 10 miles offshore.

@@ -2,8 +2,10 @@
 *adj*
 > /ɪɡˈzæspəreɪtɪd/
 
+![[exasperated.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intensely irritated and frustrated.

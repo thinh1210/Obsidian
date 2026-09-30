@@ -2,8 +2,10 @@
 *verb*
 > /bɜːn/
 
+![[burn.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To undergo combustion or consume fuel in a way that produces heat, light, and gases.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `burn fuel`: đốt nhiên liệu
 - `burn clean`: cháy sạch
+- `burn brightly`: cháy sáng rực
+- `burn off impurities`: đốt cháy tạp chất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Wood burns easily when dry.

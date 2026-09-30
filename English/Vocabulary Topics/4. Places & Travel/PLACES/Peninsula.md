@@ -2,8 +2,10 @@
 *n.*
 > /pəˈnɪn.sə.lə/
 
+![[peninsula.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land almost surrounded by water or projecting out into a body of water.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Korean Peninsula`: Bán đảo Triều Tiên
+- `narrow peninsula`: bán đảo thon hẹp
+- `rocky peninsula`: bán đảo vách đá nhô biển
+- `jutting peninsula`: mỏm bán đảo chìa ra biển khơi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Italy is a famous peninsula.

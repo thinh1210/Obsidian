@@ -2,8 +2,10 @@
 *n.*
 > /ˈsæl.ər.i/
 
+![[salary.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A fixed regular payment made by an employer to an employee
@@ -13,7 +15,11 @@
 💡 Ăn "sa-lát" (salary) trừ bữa để chờ ngày nhận lương
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``earn a salary`: kiếm được một khoản lương
+- `earn a salary`: kiếm được một khoản lương
+- `six-figure salary`: mức lương bạc tỷ / thu nhập 6 con số đô la
+- `negotiate salary`: thương thảo thống nhất về mức lương chính thức
+- `salary expectation`: mức lương mong đợi khi ứng tuyển
+- `salary review`: đợt rà soát và điều chỉnh tăng lương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She receives a monthly salary of $3000.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpəʊstə(r)/
 
+![[poster.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large printed picture used for decoration or advertising.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `movie poster`: áp phích phim
 - `put up a poster`: treo áp phích
+- `promotional poster`: áp phích quảng bá sản phẩm
+- `billboard poster`: áp phích dán bảng lớn ngoài trời
+- `display a poster`: trưng bày tấm áp phích
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has a poster of his favorite band on his bedroom wall.

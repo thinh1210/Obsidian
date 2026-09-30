@@ -2,8 +2,10 @@
 *noun*
 > /ˈprəʊfaɪl/
 
+![[profile.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The personal details and settings belonging to a specific user on a social platform
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `update profile`: cập nhật trang cá nhân
+- `profile picture`: ảnh đại diện hồ sơ
+- `optimize social profile`: tối ưu hóa hồ sơ mạng xã hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should change your profile picture to something more recent.

@@ -2,8 +2,10 @@
 *v.*
 > /ˈɪnkʌlkeɪt/
 
+![[inculcate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To instill an attitude, idea, or habit by persistent instruction
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `inculcate values`: thấm nhuần các giá trị
 - `inculcate discipline`: khắc sâu tính kỷ luật
+- `inculcate a sense of responsibility`: hun đúc bồi dưỡng tinh thần trách nhiệm
+- `inculcate moral principles`: khắc sâu các chuẩn mực đạo đức sống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Parents try to inculcate good manners in their children.

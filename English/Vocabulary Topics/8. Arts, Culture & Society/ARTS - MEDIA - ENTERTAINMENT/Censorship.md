@@ -2,8 +2,10 @@
 *n.*
 > /ˈsensəʃɪp/
 
+![[censorship.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The suppression or prohibition of any parts of books, films, news, etc. that are considered obscene, politically unacceptable, or a threat to security.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strict censorship`: kiểm duyệt nghiêm ngặt
 - `media censorship`: kiểm duyệt truyền thông
+- `heavy censorship`: sự kiểm duyệt gắt gao
+- `evade censorship`: né tránh sự kiểm duyệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The author fought against the censorship of his novel.

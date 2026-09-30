@@ -2,8 +2,10 @@
 *adj.*
 > /ˌɪnfɪnɪˈtesɪml/
 
+![[infinitesimal.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely small
@@ -13,7 +15,10 @@
 💡 In phin (infinitesimal) nhỏ vô cực
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``infinitesimal change`: sự thay đổi cực nhỏ`
+- `infinitesimal change`: sự thay đổi cực nhỏ
+- `infinitesimal fraction`: phần cực kỳ nhỏ
+- `infinitesimal amount`: lượng vô cùng nhỏ
+- `infinitesimal probability`: xác suất gần như bằng không
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Infinitesimal pause.

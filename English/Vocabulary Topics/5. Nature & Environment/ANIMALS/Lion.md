@@ -2,8 +2,10 @@
 *noun*
 > /ˈlaɪ.ən/
 
+![[lion.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large wild cat of Africa and India, the male of which has a shaggy mane.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pride of lions`: đàn sư tử
 - `mountain lion`: sư tử núi
+- `lion's share`: phần lớn nhất / miếng bánh ngon nhất
+- `brave as a lion`: dũng cảm như sư tử
+- `lion roar`: tiếng sư tử gầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We saw a powerful lion sleeping under a tree during the safari.

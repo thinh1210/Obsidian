@@ -2,8 +2,10 @@
 *noun*
 > /ˈmet.ə.fɔːr/
 
+![[metaphor.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** LITERATURE
+**Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A figure of speech in which a word or phrase is applied to an object not literally applicable.

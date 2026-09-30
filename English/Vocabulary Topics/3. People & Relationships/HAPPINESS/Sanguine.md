@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsæŋ.ɡwɪn/
 
+![[sanguine.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Optimistic or positive, especially in an apparently bad or difficult situation.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sanguine about`: lạc quan về
+- `sanguine temperament`: tính khí lạc quan vui vẻ
+- `sanguine expectations`: những kỳ vọng tràn đầy hy vọng
+- `remain sanguine`: vẫn giữ sự lạc quan tin tưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is sanguine about the company's future.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈvændəlɪzəm/
 
+![[vandalism.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Action involving deliberate destruction of or damage to public or private property
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `act of vandalism`: hành vi phá hoại của công
 - `commit vandalism`: thực hiện hành vi phá hoại
+- `graffiti vandalism`: hành vi vẽ bậy bôi bẩn cảnh quan công cộng
+- `wanton vandalism`: hành vi cố ý đập phá hủy hoại tài sản vô cớ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The local park was closed due to acts of vandalism.

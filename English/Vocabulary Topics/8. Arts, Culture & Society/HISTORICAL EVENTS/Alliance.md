@@ -2,8 +2,10 @@
 *noun*
 > /əˈlaɪ.əns/
 
+![[alliance.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A union or association formed for mutual benefit, especially between countries or organizations.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `form an alliance`: thành lập liên minh
 - `military alliance`: liên minh quân sự
+- `strategic alliance`: khối liên minh mang tính chiến lược
+- `break an alliance`: đơn phương phá vỡ hiệp ước liên minh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The two tech companies formed a strategic alliance to develop new software.

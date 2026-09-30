@@ -2,8 +2,10 @@
 *noun*
 > /ʃɔːrts/
 
+![[shorts.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Trousers that end above the knee.
@@ -13,7 +15,10 @@
 💡 Shorts -> Sót -> Quần ngắn sót lại chút vải.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wear shorts: mặc quần đùi`
+- `wear shorts`: mặc quần đùi
+- `denim shorts`: quần soóc bò ngắn
+- `cargo shorts`: quần soóc túi hộp
+- `pair of shorts`: một chiếc quần soóc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He plays tennis in shorts.

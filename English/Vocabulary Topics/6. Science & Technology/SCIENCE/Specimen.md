@@ -2,8 +2,10 @@
 *noun*
 > /ˈspes.ɪ.mən/
 
+![[specimen.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sample of a substance, organism, or object used for scientific analysis or study.

@@ -2,8 +2,10 @@
 *noun*
 > /ɔːˌθen.tɪˈkeɪ.ʃən/
 
+![[authentication.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** C1 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of proving that something is real, true, or what people say it is, especially verifying identity.

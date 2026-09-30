@@ -2,8 +2,10 @@
 *noun*
 > /ˌdʒiː.niˈæl.ə.dʒi/
 
+![[genealogy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the history of the past and present members of a family or families.

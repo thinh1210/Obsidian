@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈzɑː.stər/
 
+![[disaster.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event that results in great harm, damage, or death.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `natural disaster`: thảm họa thiên nhiên
 - `disaster zone`: vùng thảm họa
+- `disaster relief operations`: các hoạt động cứu trợ thiên tai
+- `court disaster`: chuốc lấy tai họa vào thân
+- `declare a state of disaster`: tuyên bố tình trạng thảm họa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The earthquake was the worst natural disaster in the region's history.

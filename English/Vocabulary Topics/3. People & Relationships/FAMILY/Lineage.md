@@ -2,8 +2,10 @@
 *noun*
 > /ˈlɪn.i.ɪdʒ/
 
+![[lineage.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The members of a person's family who are directly related to that person and who lived a long time before him or her.

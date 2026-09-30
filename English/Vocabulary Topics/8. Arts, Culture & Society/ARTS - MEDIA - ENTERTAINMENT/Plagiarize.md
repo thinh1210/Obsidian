@@ -2,8 +2,10 @@
 *v.*
 > /ˈpleɪdʒəraɪz/
 
+![[plagiarize.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Take the work or an idea of someone else and pass it off as one's own.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plagiarize work`: đạo nhái tác phẩm
 - `plagiarize ideas`: đạo nhái ý tưởng
+- `accuse of plagiarizing`: cáo buộc sao chép đạo tác phẩm
+- `blatantly plagiarize`: đạo văn một cách trơ tráo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was accused of plagiarizing a song from an obscure artist.

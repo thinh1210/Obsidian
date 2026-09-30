@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒuː.əl/
 
+![[jewel.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious stone.
@@ -13,7 +15,10 @@
 💡 Chú ở (Jewel) trong tiệm đá quý.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `crown jewels: châu báu hoàng gia`
+- `crown jewels`: châu báu hoàng gia
+- `crown jewel`: viên ngọc quý nhất / phần giá trị nhất
+- `jewel of the collection`: viên ngọc sáng nhất bộ sưu tập
+- `glittering jewel`: viên ngọc lấp lánh rực rỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is a shiny jewel.

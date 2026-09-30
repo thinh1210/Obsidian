@@ -2,8 +2,10 @@
 *adjective*
 > /ˈfeɪθfl/
 
+![[faithful.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Remaining loyal and steadfast.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Be faithful to someone`: Chung thủy với ai đó
+- `faithful partner`: người bạn đời chung thủy sắt son
+- `remain faithful`: giữ trọn lòng chung thủy trọn đời
+- `faithful companion`: người đồng hành gắn bó trung thành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was always faithful to his wife.

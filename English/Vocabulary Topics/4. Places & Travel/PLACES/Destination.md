@@ -2,8 +2,10 @@
 *n.*
 > /ˌdes.təˈneɪ.ʃən/
 
+![[destination.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place to which someone or something is going or being sent.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tourist destination`: điểm đến du lịch
+- `vacation destination`: điểm đến nghỉ dưỡng
+- `final destination`: điểm dừng chân cuối cùng
+- `ideal destination`: điểm đến lý tưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We finally reached our destination.

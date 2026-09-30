@@ -2,8 +2,10 @@
 *adj.*
 > /ɡʊd/
 
+![[good.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of high quality
@@ -13,7 +15,10 @@
 💡 Good là tốt
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``good day`: ngày tốt`
+- `good day`: ngày tốt
+- `for good`: mãi mãi / vĩnh viễn
+- `as good as new`: tốt như mới
+- `good at`: giỏi về
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Have a good day.

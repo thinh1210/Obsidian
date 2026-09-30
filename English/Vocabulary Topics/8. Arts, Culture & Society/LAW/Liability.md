@@ -2,8 +2,10 @@
 *noun*
 > /ˌlaɪəˈbɪlɪti/
 
+![[liability.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Legal responsibility for something, especially for paying costs or damages

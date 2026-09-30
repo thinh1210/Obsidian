@@ -2,8 +2,10 @@
 *noun*
 > /ˈrɒbəri/
 
+![[robbery.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The crime of stealing money or goods, especially using violence or threats
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `armed robbery`: vụ cướp có vũ trang
 - `bank robbery`: vụ cướp ngân hàng
+- `attempted robbery`: vụ cướp giật bất thành
+- `foiled robbery`: vụ cướp tài sản bị triệt phá kịp thời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police are investigating an armed robbery at the jewelry shop.

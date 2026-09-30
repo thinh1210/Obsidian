@@ -2,8 +2,10 @@
 *noun*
 > /dʒiˈɒɡrəfi/
 
+![[geography.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the physical features of the earth and its atmosphere.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `physical geography`: địa lý tự nhiên
+- `human geography`: địa lý nhân văn
+- `geography of the region`: đặc điểm địa lý khu vực
+- `complex geography`: địa lý phức tạp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My favorite subject is geography.

@@ -2,8 +2,10 @@
 *noun*
 > /tuːl/
 
+![[tool.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instrument such as a hammer or screwdriver that you hold in your hand and use for making or repairing things
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stone tool`: công cụ bằng đá
 - `cutting tool`: dụng cụ cắt
+- `flint tool`: công cụ bằng đá lửa
+- `primitive tool`: dụng cụ thô sơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A hammer is a very useful tool.

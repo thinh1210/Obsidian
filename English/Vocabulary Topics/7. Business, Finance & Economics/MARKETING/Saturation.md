@@ -2,8 +2,10 @@
 *noun*
 > /ˌsætʃəˈreɪʃn/
 
+![[saturation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state that occurs when no more of something can be combined, added, or accepted; market saturation
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `market saturation`: sự bão hòa thị trường
 - `reach saturation`: đạt đến độ bão hòa
+- `near saturation`: tiệm cận ngưỡng bão hòa không còn dư địa tăng trưởng
+- `overcome saturation`: vượt qua bão hòa bằng cách cải tiến đổi mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I think there is a saturation of coffee shops in this neighborhood; there's one on every corner.

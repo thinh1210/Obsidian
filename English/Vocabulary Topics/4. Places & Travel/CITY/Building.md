@@ -2,8 +2,10 @@
 *n.*
 > /ˈbɪldɪŋ/
 
+![[building.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure with a roof and walls.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tall building`: tòa nhà cao tầng
+- `office building`: tòa nhà văn phòng
+- `residential building`: tòa nhà chung cư / dân cư
+- `build up`: xây dựng tích lũy, phát triển dần (phrasal verb)
+- `historic building`: tòa nhà mang tính lịch sử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* That is a tall building.

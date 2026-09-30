@@ -2,8 +2,10 @@
 *Noun*
 > /ˈem.pə.θi/
 
+![[empathy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** FEELINGS
+**Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to share someone else's feelings or experiences by imagining what it would be like to be in their situation.

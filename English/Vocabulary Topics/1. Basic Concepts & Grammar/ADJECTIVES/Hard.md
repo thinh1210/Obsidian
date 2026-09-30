@@ -2,8 +2,10 @@
 *adj.*
 > /hɑːd/
 
+![[hard.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Requiring a great deal of endurance or effort
@@ -13,7 +15,10 @@
 💡 Hard là khó
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``hard work`: công việc chăm chỉ`
+- `hard work`: công việc chăm chỉ
+- `hard feelings`: sự hận thù / hiềm khích
+- `learn the hard way`: học được qua bài học đắt giá
+- `drive a hard bargain`: mặc cả sát sao / khắt khe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is hard.

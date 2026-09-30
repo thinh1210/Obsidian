@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɒspɪtl/
 
+![[hospital.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where sick people are treated.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go to hospital`: đi bệnh viện
+- `admit to hospital`: nhập viện điều trị
+- `discharge from hospital`: xuất viện
+- `general hospital`: bệnh viện đa khoa
+- `hospital ward`: phòng bệnh, khoa bệnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is in the hospital.

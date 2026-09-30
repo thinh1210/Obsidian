@@ -2,8 +2,10 @@
 *verb.*
 > /ˈprɑː.ses/
 
+![[process.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To perform a series of mechanical or chemical operations on something in order to change or preserve it, or to handle data
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `process data`: xử lý dữ liệu
+- `process signals`: xử lý tín hiệu
+- `automated process`: quy trình tự động
+- `manufacturing process`: quy trình sản xuất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The computer brain can process sensory data in real time.

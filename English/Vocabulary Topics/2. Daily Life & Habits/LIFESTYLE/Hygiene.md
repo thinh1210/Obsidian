@@ -2,8 +2,10 @@
 *n.*
 > /ˈhaɪdʒiːn/
 
+![[hygiene.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conditions or practices conducive to maintaining health and preventing disease.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `personal hygiene`: vệ sinh cá nhân
+- `sleep hygiene`: vệ sinh giấc ngủ (thói quen giúp ngủ ngon)
+- `maintain good hygiene`: duy trì thói quen vệ sinh tốt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Personal hygiene is important.

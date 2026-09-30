@@ -2,8 +2,10 @@
 *n.*
 > /ˈlesn/
 
+![[lesson.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of learning or teaching
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `take lessons`: học bài học
 - `valuable lesson`: bài học quý giá
+- `plan a lesson`: soạn giáo án chi tiết cho tiết học
+- `teach someone a lesson`: dạy cho ai một bài học kinh nghiệm sâu sắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The first lesson starts at 8 AM.

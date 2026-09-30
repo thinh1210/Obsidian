@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈvent/
 
+![[event.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that happens, especially one of importance.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `historical event`: sự kiện lịch sử
 - `current events`: sự kiện hiện thời
+- `historic event`: sự kiện có ý nghĩa lịch sử
+- `chain of events`: chuỗi sự kiện liên hoàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The election was the most important event of the year.

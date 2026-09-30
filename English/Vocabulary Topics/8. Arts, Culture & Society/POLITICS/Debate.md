@@ -2,8 +2,10 @@
 *n/v*
 > /dɪˈbeɪt/
 
+![[debate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal discussion of opposing viewpoints on a topic.

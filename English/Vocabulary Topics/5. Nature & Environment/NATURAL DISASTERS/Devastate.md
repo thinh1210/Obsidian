@@ -2,8 +2,10 @@
 *verb*
 > /ˈdev.ə.steɪt/
 
+![[devastate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To destroy or damage something completely.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `devastate the economy`: tàn phá nền kinh tế
 - `be devastated by`: bị tàn phá bởi
+- `devastating earthquake`: trận động đất mang tính hủy diệt
+- `be devastated by news`: bị sụp đổ hoàn toàn trước tin dữ
+- `devastate coastal areas`: tàn phá các khu vực ven biển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The storm managed to devastate the entire agricultural region.

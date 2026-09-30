@@ -2,8 +2,10 @@
 *n.*
 > /ɪɡˈzæm/
 
+![[exam.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal test of a person's knowledge or proficiency in a subject
@@ -16,6 +18,8 @@
 - `pass an exam`: đỗ kỳ thi
 - `fail an exam`: trượt kỳ thi
 - `take an exam`: đi thi
+- `sit for an exam`: tham dự làm bài thi
+- `competitive entrance exam`: kỳ thi tuyển sinh đầu vào cạnh tranh gay gắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I passed my driving exam on the first try.

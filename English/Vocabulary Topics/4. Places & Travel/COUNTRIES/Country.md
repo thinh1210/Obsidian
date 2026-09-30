@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkʌntri/
 
+![[country.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A nation with its own government, occupying a particular territory.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Foreign country`: Nước ngoài
+- `home country`: quê hương sở tại
+- `host country`: quốc gia đăng cai
+- `neighboring country`: quốc gia láng giềng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I want to visit a new country.

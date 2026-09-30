@@ -2,8 +2,10 @@
 *noun*
 > /mæp/
 
+![[map.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A diagrammatic representation of an area of land or sea.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `look at a map`: nhìn vào bản đồ
+- `draw a map`: vẽ bản đồ
+- `put someone on the map`: làm cho ai đó nổi tiếng
+- `relief map`: bản đồ địa hình nổi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you find our city on the map?

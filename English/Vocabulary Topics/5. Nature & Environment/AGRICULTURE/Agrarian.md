@@ -2,8 +2,10 @@
 *adj.*
 > /əˈɡreə.ri.ən/
 
+![[agrarian.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** AGRICULTURE
+**Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to cultivated land, farming, or landed property.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `agrarian reform`: cải cách ruộng đất
 - `agrarian society`: xã hội nông nghiệp
+- `agrarian economy`: nền kinh tế nông nghiệp
+- `agrarian lifestyle`: lối sống gắn liền với ruộng đồng
+- `agrarian crisis`: khủng hoảng nông nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The nation evolved from an agrarian economy to a manufacturing hub.

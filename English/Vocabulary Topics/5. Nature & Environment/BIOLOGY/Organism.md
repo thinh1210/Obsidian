@@ -2,8 +2,10 @@
 *noun*
 > /ˈɔː.ɡən.ɪ.zəm/
 
+![[organism.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An individual animal, plant, or single-celled life form.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `living organism`: sinh vật sống
 - `microscopic organism`: sinh vật siêu hiển vi
+- `multicellular organism`: sinh vật đa bào
+- `genetically modified organism`: sinh vật biến đổi gen (GMO)
+- `single-celled organism`: sinh vật đơn bào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The pond is full of tiny organisms.

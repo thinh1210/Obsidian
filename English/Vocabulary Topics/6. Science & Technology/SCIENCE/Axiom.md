@@ -2,8 +2,10 @@
 *noun*
 > /ˈæk.si.əm/
 
+![[axiom.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statement or proposition regarded as self-evidently true and requiring no proof; a foundational principle.

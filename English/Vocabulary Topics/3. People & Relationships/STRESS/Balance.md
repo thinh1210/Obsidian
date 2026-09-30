@@ -2,8 +2,10 @@
 *n.*
 > /ˈbæləns/
 
+![[balance.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An even distribution of weight or amount
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `work-life balance`: cân bằng công việc - cuộc sống
 - `keep balance`: giữ cân bằng
+- `lose balance`: mất thăng bằng
+- `strike a delicate balance`: đạt được sự cân bằng khéo léo (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I try to keep a good balance.

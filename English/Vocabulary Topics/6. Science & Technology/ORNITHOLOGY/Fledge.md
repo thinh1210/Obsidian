@@ -2,8 +2,10 @@
 *verb*
 > /fledʒ/
 
+![[fledge.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a young bird) to develop feathers large enough for flight.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fledge successfully`: mọc đủ lông cánh thành công
 - `ready to fledge`: sẵn sàng bay
+- `fully fledged`: trưởng thành chính thức / hoàn thiện mọi mặt (idiom)
+- `fledging period`: thời kỳ chim non tập bay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The young eagles are expected to fledge by the end of July.

@@ -2,8 +2,10 @@
 *noun*
 > /kəmˈpəʊ.nənt/
 
+![[component.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a part or element of a larger whole, especially a part of a machine or vehicle.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electronic component`: linh kiện điện tử
 - `key component`: thành phần then chốt
+- `integral component`: bộ phận không thể thiếu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The store sells spare components for personal computers.

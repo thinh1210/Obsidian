@@ -2,8 +2,10 @@
 *noun.*
 > /kleɪ/
 
+![[clay.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stiff, sticky fine-grained earth, often forming an impermeable layer in the soil, which can be molded when wet and baked to make pottery.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clay pot`: nồi đất, chậu đất sét
 - `modeling clay`: đất sét tạo hình
+- `model in clay`: nặn mô hình bằng đất sét
+- `feet of clay`: điểm yếu chí mạng tiềm ẩn ở người vĩ đại (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The children had fun playing with colorful modeling clay.

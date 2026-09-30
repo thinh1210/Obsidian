@@ -2,8 +2,10 @@
 *noun*
 > /ˈprəʊ.tɒn/
 
+![[proton.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stable subatomic particle occurring in all atomic nuclei, with a positive electric charge.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `proton number`: số proton
 - `proton donor`: chất cho proton
+- `proton transfer`: chuyển giao proton
+- `proton acceptor`: chất nhận proton
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The number of protons in an atom determines its atomic number.

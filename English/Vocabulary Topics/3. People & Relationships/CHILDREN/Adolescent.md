@@ -2,8 +2,10 @@
 *noun*
 > /ˌæd.əˈles.ənt/
 
+![[adolescent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** In the process of developing from a child into an adult.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adolescent behavior`: hành vi tuổi dậy thì
+- `adolescent rebellion`: sự nổi loạn của tuổi dậy thì
+- `adolescent years`: những năm tháng tuổi mới lớn
+- `adolescent psychology`: tâm lý lứa tuổi vị thành niên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The clinic helps adolescent patients.

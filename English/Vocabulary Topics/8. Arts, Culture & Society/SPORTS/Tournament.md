@@ -2,8 +2,10 @@
 *n.*
 > /ˈtʊə.nə.mənt/
 
+![[tournament.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of contests between a number of competitors, who compete for an overall prize.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tennis tournament`: giải đấu quần vợt
 - `knockout tournament`: giải đấu loại trực tiếp
+- `host a tournament`: đăng cai tổ chức một giải thi đấu
+- `seeded in the tournament`: được xếp làm hạt giống tại giải đấu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He won the golf tournament last Sunday.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɡet̬.ə.weɪ/
 
+![[getaway.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short holiday or a place where you can go for a short holiday.
@@ -13,7 +15,11 @@
 💡 GHÉT Ơ UÂY (Getaway) trốn đi nghỉ ngơi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `weekend getaway`: kỳ nghỉ cuối tuần\n- `romantic getaway`: kỳ nghỉ lãng mạn
+- `weekend getaway`: kỳ nghỉ cuối tuần
+- `romantic getaway`: kỳ nghỉ lãng mạn
+- `tropical getaway`: kỳ nghỉ tới miền nhiệt đới chan hòa nắng ấm
+- `perfect getaway`: chốn trốn đời nghỉ ngơi hoàn hảo
+- `island getaway`: chuyến đi xả hơi nơi đảo vắng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a romantic getaway in Paris.

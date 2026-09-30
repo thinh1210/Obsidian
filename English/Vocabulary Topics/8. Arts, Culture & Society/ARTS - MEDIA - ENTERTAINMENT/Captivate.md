@@ -2,8 +2,10 @@
 *v.*
 > /ˈkæptɪveɪt/
 
+![[captivate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Attract and hold the interest and attention of; charm.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `captivate the audience`: làm khán giả say đắm
 - `captivate by beauty`: bị quyến rũ bởi vẻ đẹp
+- `captivate the imagination`: cuốn hút trí tưởng tượng
+- `hold captivated`: giữ chân khán giả say mê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was captivated by the beauty of the painting.

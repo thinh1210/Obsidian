@@ -2,8 +2,10 @@
 *noun*
 > /brɑːntʃ/
 
+![[branch.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of a tree that grows out from the main trunk.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tree branch`: cành cây
 - `cut off a branch`: chặt một cành cây
+- `branch out into new areas`: mở rộng sang các lĩnh vực mới
+- `hold out an olive branch`: chìa cành ô liu / đưa ra đề nghị hòa giải
+- `executive branch`: nhánh quyền lực hành pháp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bird perched on a high branch.

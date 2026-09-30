@@ -2,8 +2,10 @@
 *noun*
 > /ˈkrɪt.ɪk/
 
+![[critic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A professional who reviews and evaluates literary or artistic works.

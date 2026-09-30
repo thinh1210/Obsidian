@@ -2,8 +2,10 @@
 *n.*
 > /ˌpʌb.lɪk ˈfɪɡ.ər/
 
+![[public_figure.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is famous and often written about.
@@ -13,7 +15,10 @@
 💡 Public (công chúng) + figure (nhân vật)
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Well-known public figure: Nhân vật công chúng nổi tiếng`
+- `Well-known public figure`: Nhân vật công chúng nổi tiếng
+- `prominent public figure`: nhân vật công chúng lỗi lạc
+- `scrutiny of public figures`: sự soi xét của dư luận lên người nổi tiếng
+- `trust in public figures`: niềm tin vào các nhân vật của công chúng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a public figure.

@@ -2,8 +2,10 @@
 *adj*
 > /ˈflɔː.ləs/
 
+![[flawless.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Without any blemishes or imperfections; perfect.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flawless execution`: sự thực thi hoàn hảo
+- `flawless skin`: làn da không tì vết
+- `flawless victory`: chiến thắng hoàn hảo
+- `flawless diamond`: viên kim cương hoàn mỹ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a flawless complexion.

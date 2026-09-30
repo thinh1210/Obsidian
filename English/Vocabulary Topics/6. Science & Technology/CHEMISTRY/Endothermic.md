@@ -2,8 +2,10 @@
 *adjective*
 > /ˌen.dəʊˈθɜː.mɪk/
 
+![[endothermic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a reaction or process) accompanied by or requiring the absorption of heat.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `endothermic reaction`: phản ứng thu nhiệt
 - `endothermic process`: quá trình thu nhiệt
+- `strongly endothermic`: thu nhiệt mạnh
+- `endothermic phase change`: biến đổi pha thu nhiệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Photosynthesis is an endothermic process that absorbs solar energy.

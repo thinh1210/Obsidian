@@ -2,8 +2,10 @@
 *noun*
 > /ˈlɪk.wɪd/
 
+![[liquid.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that flows freely but is of constant volume, having a consistency like that of water or oil.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `liquid state`: trạng thái lỏng
 - `liquid soap`: xà phòng lỏng
+- `volatile liquid`: chất lỏng dễ bay hơi
+- `flammable liquid`: chất lỏng dễ cháy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mercury is the only metal that is liquid at room temperature.

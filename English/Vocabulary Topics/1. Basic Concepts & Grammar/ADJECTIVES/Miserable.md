@@ -2,8 +2,10 @@
 *adj.*
 > /ˈmɪzrəbl/
 
+![[miserable.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Wretchedly unhappy or uncomfortable
@@ -13,7 +15,10 @@
 💡 Mi sợ (miserable) khổ
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``miserable life`: cuộc sống khốn khổ`
+- `miserable life`: cuộc sống khốn khổ
+- `make someone's life miserable`: làm khổ ai đó
+- `feel miserable`: cảm thấy khốn khổ / buồn bã
+- `miserable weather`: thời tiết ảm đạm / tồi tệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I feel miserable.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈtʃæm.pi.ən/
 
+![[champion.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has defeated or surpassed all rivals in a competition.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `world champion`: nhà vô địch thế giới
 - `defending champion`: đương kim vô địch
+- `undisputed champion`: nhà vô địch tuyệt đối không ai tranh cãi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She became the world chess champion at the age of twenty.

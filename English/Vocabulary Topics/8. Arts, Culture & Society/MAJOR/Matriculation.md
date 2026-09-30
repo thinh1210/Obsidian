@@ -2,8 +2,10 @@
 *n.*
 > /məˌtrɪk.jʊˈleɪ.ʃən/
 
+![[matriculation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of enrolling or being enrolled at a college or university; the formal admission process.

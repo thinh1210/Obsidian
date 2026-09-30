@@ -2,8 +2,10 @@
 *noun*
 > /aɪən/
 
+![[iron.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong, hard magnetic silvery-gray metal (Fe) much used as a structural material.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `iron ore`: quặng sắt
 - `rusting of iron`: sự gỉ sét của sắt
+- `cast iron`: gang
+- `iron oxide`: oxit sắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Steel is made by mixing iron with carbon.

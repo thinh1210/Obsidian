@@ -2,8 +2,10 @@
 *noun*
 > /ɡlɑːs/
 
+![[glass.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hard, brittle substance, typically transparent, made by fusing sand with soda and lime.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `glass beaker`: cốc đong thủy tinh
 - `sheet of glass`: tấm thủy tinh
+- `borosilicate glass`: thủy tinh chịu nhiệt borosilicate
+- `glass tube`: ống thủy tinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Be careful not to break the glass.

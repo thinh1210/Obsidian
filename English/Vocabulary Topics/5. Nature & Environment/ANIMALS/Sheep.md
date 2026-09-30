@@ -2,8 +2,10 @@
 *noun*
 > /ʃiːp/
 
+![[sheep.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A domesticated ruminant animal with a thick woolly coat, kept in flocks for its wool or meat.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flock of sheep`: đàn cừu
 - `sheep wool`: len cừu
+- `black sheep of the family`: đứa con hư / vết nhơ của gia đình
+- `wolf in sheep's clothing`: sói đội lốt cừu
+- `separate the sheep from the goats`: phân biệt người tốt kẻ xấu / phân loại tinh hoa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The shepherd guided the sheep back into the pen before sunset.

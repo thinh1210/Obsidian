@@ -2,8 +2,10 @@
 *n.*
 > /ˈvɔɪsəʊvə(r)/
 
+![[voiceover.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of narration in a movie or broadcast, not accompanied by an image of the speaker
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `narrative voiceover`: lời dẫn chuyện ngoài hình
 - `voiceover actor`: diễn viên thuyết minh
+- `recorded voiceover`: phần thuyết minh lồng tiếng ghi sẵn
+- `introductory voiceover`: lời thoại dẫn chuyện mở đầu phim
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The film begins with a warm voiceover explaining the family's history.

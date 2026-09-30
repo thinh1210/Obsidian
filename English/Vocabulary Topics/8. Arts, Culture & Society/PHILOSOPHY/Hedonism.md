@@ -2,8 +2,10 @@
 *n.*
 > /ˈhiː.dən.ɪ.zəm/
 
+![[hedonism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The pursuit of pleasure; sensual self-indulgence.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pure hedonism`: chủ nghĩa khoái lạc thuần túy
 - `ethical hedonism`: chủ nghĩa khoái lạc đạo đức
+- `hedonistic lifestyle`: lối sống hưởng lạc phù phiếm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The weekend in Vegas was a period of pure hedonism.

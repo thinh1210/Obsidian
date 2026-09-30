@@ -2,8 +2,10 @@
 *noun*
 > /ˈdeɪn.dʒər/
 
+![[danger.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The possibility of harm, death, damage, or unwanted event.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in danger`: gặp nguy hiểm
 - `out of danger`: thoát khỏi nguy hiểm
+- `clear and present danger`: mối nguy hiểm rõ ràng và hiển hiện
+- `danger zone`: vùng nguy hiểm
+- `fraught with danger`: chứa đầy hiểm nguy cạm bẫy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sign warns visitors of the danger of falling rocks.

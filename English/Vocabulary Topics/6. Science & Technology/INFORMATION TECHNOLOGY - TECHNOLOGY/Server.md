@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɜːrvər/
 
+![[server.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY
+**Level:** B2 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A computer or computer program which manages access to a centralized resource or service in a network.

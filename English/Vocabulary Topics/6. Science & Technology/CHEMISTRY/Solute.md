@@ -2,8 +2,10 @@
 *noun*
 > /ˈsɒl.juːt/
 
+![[solute.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The minor component in a solution, dissolved in the solvent.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `concentration of solute`: nồng độ chất tan
 - `dissolve the solute`: hòa tan chất tan
+- `solute particles`: các hạt chất tan
+- `solute concentration`: nồng độ chất tan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* In a saltwater solution, salt is the solute and water is the solvent.

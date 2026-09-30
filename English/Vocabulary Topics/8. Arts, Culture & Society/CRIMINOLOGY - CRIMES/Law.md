@@ -2,8 +2,10 @@
 *noun*
 > /lɔː/
 
+![[law.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rule made by a government that people must obey
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `break the law`: vi phạm pháp luật
 - `obey the law`: tuân thủ pháp luật
+- `enforce the law`: thực thi nghiêm minh pháp luật
+- `uphold the law`: thượng tôn và gìn giữ pháp luật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You must obey the law when driving a car.

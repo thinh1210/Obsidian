@@ -2,8 +2,10 @@
 *adj*
 > /flæmˈbɔɪ.ənt/
 
+![[flamboyant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very confident in behavior, or brightly colored and noticeable.

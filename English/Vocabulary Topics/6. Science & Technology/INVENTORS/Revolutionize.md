@@ -2,8 +2,10 @@
 *v.*
 > /ˌrev.əˈluː.ʃən.aɪz/
 
+![[revolutionize.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To completely change the way people do something
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `revolutionize the industry`: cách mạng hóa ngành công nghiệp
 - `revolutionize technology`: cách mạng hóa công nghệ
+- `revolutionize warfare`: làm thay đổi diện mạo chiến tranh
+- `revolutionize production`: cách mạng hóa dây chuyền sản xuất
+- `promise to revolutionize`: hứa hẹn mang lại cuộc cách mạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Smartphone technology has revolutionized how we communicate.

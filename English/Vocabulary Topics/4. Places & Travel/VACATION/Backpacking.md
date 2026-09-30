@@ -2,8 +2,10 @@
 *Noun*
 > /ˈbækˌpækɪŋ/
 
+![[backpacking.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travelling or camping with your clothes and belongings in a backpack.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go backpacking`: đi du lịch ba lô
 - `backpacking trip`: chuyến du lịch ba lô
+- `solo backpacking`: du lịch bụi một mình khám phá
+- `backpacking gear`: trang thiết bị đồ dùng du lịch ba lô
+- `backpacking route`: cung đường trải nghiệm du lịch bụi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He went backpacking across Europe.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈmet̬.əl/
 
+![[metal.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical element, such as iron or gold, that is usually a hard and shiny solid
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sheet metal`: tấm kim loại
+- `metal alloy`: hợp kim kim loại
+- `metal chassis`: khung kim loại
+- `liquid metal`: kim loại lỏng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Most robots are made of metal and plastic.

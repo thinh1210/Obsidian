@@ -2,8 +2,10 @@
 *noun.*
 > /skriːn/
 
+![[screen.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flat surface in a cinema, on a television, or as part of a computer, on which pictures or words are shown
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `touch screen`: màn hình cảm ứng
+- `display screen`: màn hình hiển thị
+- `OLED screen`: màn hình OLED
+- `control screen`: màn hình điều khiển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot has a small screen on its chest.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɑːr.bɚ/
 
+![[harbour.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place on the coast where vessels may find shelter.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `safe harbour`: bến đỗ an toàn
+- `sheltered harbour`: bến cảng tránh trú bão kín gió
+- `natural harbour`: vịnh cảng biển tự nhiên
+- `dock in the harbour`: cập bến vào cảng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The boats returned to the harbour at sunset.

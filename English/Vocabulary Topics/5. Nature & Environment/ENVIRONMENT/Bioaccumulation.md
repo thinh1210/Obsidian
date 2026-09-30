@@ -2,8 +2,10 @@
 *n.*
 > /ˌbaɪəʊəˌkjuːmjəˈleɪʃn/
 
+![[bioaccumulation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The accumulation of substances, such as pesticides, or other chemicals in an organism.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bioaccumulation of toxins`: sự tích tụ sinh học của độc tố
 - `prevent bioaccumulation`: ngăn ngừa sự tích tụ sinh học
+- `bioaccumulation factor`: hệ số tích tụ sinh học
+- `risk of bioaccumulation`: nguy cơ tích lũy độc chất trong chuỗi thức ăn
+- `bioaccumulation in fish`: sự tích tụ sinh học độc chất trong cá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bioaccumulation of mercury in fish poses a risk to human health.

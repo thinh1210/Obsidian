@@ -2,8 +2,10 @@
 *n.*
 > /ˈlaɪtməʊtiːf/
 
+![[leitmotif.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recurrent theme throughout a musical or literary composition, associated with a particular person, idea, or situation
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `musical leitmotif`: giai điệu đặc trưng lặp lại
 - `villain's leitmotif`: nhạc hiệu của nhân vật phản diện
+- `thematic leitmotif`: giai điệu chủ đề lặp lại báo hiệu
+- `visual leitmotif`: hình ảnh mang tính biểu tượng lặp lại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The menacing theme in Jaws is a famous musical leitmotif.

@@ -2,8 +2,10 @@
 *adj.*
 > /ɪnˈdʒiː.ni.əs/
 
+![[ingenious.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very intelligent and skillful, or cleverly made or planned
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ingenious solution`: giải pháp tài tình
 - `ingenious plan`: kế hoạch khéo léo
+- `ingenious device`: thiết bị tinh xảo tài tình
+- `ingenious design`: thiết kế tài tình khéo léo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She came up with an ingenious solution to save water.

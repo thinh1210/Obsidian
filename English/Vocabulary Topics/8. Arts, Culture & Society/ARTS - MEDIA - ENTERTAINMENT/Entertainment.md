@@ -2,8 +2,10 @@
 *n.*
 > /ˌentəˈteɪnmənt/
 
+![[entertainment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of providing or being provided with amusement or enjoyment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `entertainment industry`: ngành công nghiệp giải trí
 - `source of entertainment`: nguồn giải trí
+- `mass entertainment`: hình thức giải trí đại chúng
+- `prime-time entertainment`: chương trình giải trí khung giờ vàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The city offers a wide range of entertainment options.

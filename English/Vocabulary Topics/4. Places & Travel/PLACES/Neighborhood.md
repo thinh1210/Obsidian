@@ -2,8 +2,10 @@
 *n.*
 > /ˈneɪ.bɚ.hʊd/
 
+![[neighborhood.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A district or community within a town or city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `friendly neighborhood`: khu phố thân thiện
+- `safe neighborhood`: khu dân cư bình yên an toàn
+- `run-down neighborhood`: khu dân cư xuống cấp xập xệ
+- `quiet neighborhood`: khu phố tĩnh mịch yên ắng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Our neighborhood is very safe.

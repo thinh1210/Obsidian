@@ -2,8 +2,10 @@
 *Noun*
 > /ˈæset/
 
+![[asset.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A useful or valuable quality, person, or thing; items of ownership convertible into cash.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `valuable asset`: tài sản giá trị
 - `liquid assets`: tài sản thanh khoản
+- `current assets`: tài sản lưu động ngắn hạn
+- `fixed assets`: tài sản cố định của doanh nghiệp
+- `asset management`: nghiệp vụ quản lý tài sản tài chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Good health is your most valuable asset.

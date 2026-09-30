@@ -2,8 +2,10 @@
 *adj.*
 > /ɪɡˈzɪl.ə.reɪ.tɪd/
 
+![[exhilarated.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very happy, animated, or elated.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feel exhilarated`: cảm thấy phấn chấn
+- `feel completely exhilarated`: cảm thấy hoàn toàn sảng khoái phấn khích
+- `exhilarating experience`: trải nghiệm hồi hộp phấn chấn
+- `exhilarated by success`: hứng khởi say sưa với thành công
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I felt exhilarated after the run.

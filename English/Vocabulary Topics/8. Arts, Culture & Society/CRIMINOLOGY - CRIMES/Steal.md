@@ -2,8 +2,10 @@
 *verb*
 > /stiːl/
 
+![[steal.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take something without permission and without intending to return it
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `steal money`: ăn trộm tiền
 - `steal ideas`: ăn cắp ý tưởng
+- `steal intellectual property`: đánh cắp quyền sở hữu trí tuệ
+- `steal a glance`: liếc trộm ánh mắt nhìn ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is wrong to steal even small things.

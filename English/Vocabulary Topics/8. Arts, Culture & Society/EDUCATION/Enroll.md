@@ -2,8 +2,10 @@
 *v.*
 > /ɪnˈrəʊl/
 
+![[enroll.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To officially register as a member of an institution or a student on a course
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `enroll in a course`: đăng ký một khóa học
 - `enroll students`: tuyển học sinh nhập học
+- `enroll in higher education`: ghi danh theo học bậc đại học
+- `open enrollment`: chính sách tuyển sinh công khai tự do
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I decided to enroll in an online course.

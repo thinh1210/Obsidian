@@ -2,8 +2,10 @@
 *Noun*
 > /klaʊd/
 
+![[cloud.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A visible mass of condensed water vapor floating in the atmosphere.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dark cloud`: mây đen
 - `cloud cover`: độ che phủ của mây
+- `every cloud has a silver lining`: trong cái rủi có cái may
+- `under a cloud of suspicion`: sống dưới bóng mây ngờ vực
+- `cloud nine`: hạnh phúc ngập tràn / lâng lâng chín tầng mây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sun went behind a cloud.

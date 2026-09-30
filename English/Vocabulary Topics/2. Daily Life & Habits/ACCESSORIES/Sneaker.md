@@ -2,8 +2,10 @@
 *noun*
 > /ˈsniːkə(r)/
 
+![[sneaker.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of light, comfortable shoe that is suitable for playing sports.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of sneakers`: một đôi giày thể thao
+- `white sneakers`: giày thể thao trắng năng động
+- `sneaker collector`: người sưu tầm giày sneaker (sneakerhead)
+- `lace-up sneakers`: giày thể thao buộc dây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He bought a new pair of sneakers for running.

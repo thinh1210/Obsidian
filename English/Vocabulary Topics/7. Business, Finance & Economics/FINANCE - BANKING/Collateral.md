@@ -2,8 +2,10 @@
 *noun.*
 > /kəˈlætərəl/
 
+![[collateral.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Something pledged as security for repayment of a loan, to be forfeited in the event of a default.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pledge collateral`: thế chấp tài sản đảm bảo
 - `put up collateral`: đưa ra tài sản thế chấp
+- `pledge as collateral`: đem thế chấp làm tài sản bảo đảm
+- `secure a loan with collateral`: vay vốn có bảo đảm bằng tài sản
+- `collateral requirement`: yêu cầu về tài sản thế chấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She used her house as collateral to secure a business loan.

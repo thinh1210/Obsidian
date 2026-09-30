@@ -2,8 +2,10 @@
 *Noun*
 > /fiː/
 
+![[fee.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An amount of money paid for a particular piece of work or for a particular right or service.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `admission fee`: phí vào cổng
 - `membership fee`: phí thành viên
+- `annual fee`: phí thường niên duy trì dịch vụ
+- `late payment fee`: phí phạt nộp chậm tiền thanh toán
+- `hidden fees`: những khoản phụ phí phát sinh ngầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The annual fee for using this credit card is $50.

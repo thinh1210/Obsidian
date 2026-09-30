@@ -2,8 +2,10 @@
 *noun*
 > /ˈlæd.ər/
 
+![[ladder.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a structure consisting of a series of bars or steps between two upright lengths of wood, metal, or rope, used for climbing.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `climb a ladder`: leo thang
 - `corporate ladder`: nấc thang sự nghiệp
+- `climb the corporate ladder`: thăng tiến từng bước trong sự nghiệp (idiom)
+- `step ladder`: thang gấp chữ A
+- `ladder rung`: bậc thang leo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He stood on a ladder to paint the ceiling.

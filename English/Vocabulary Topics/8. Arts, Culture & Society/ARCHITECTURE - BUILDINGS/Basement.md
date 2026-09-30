@@ -2,8 +2,10 @@
 *n.*
 > /ˈbeɪsmənt/
 
+![[basement.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The floor of a building which is partly or entirely below ground level
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `finished basement`: tầng hầm đã hoàn thiện
 - `basement parking`: bãi đỗ xe tầng hầm
+- `underground basement`: tầng hầm dưới lòng đất
+- `basement storage`: kho chứa đồ dưới tầng hầm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We store our old furniture in the basement.

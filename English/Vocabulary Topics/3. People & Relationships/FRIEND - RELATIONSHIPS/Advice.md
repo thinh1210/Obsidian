@@ -2,8 +2,10 @@
 *noun*
 > /ədˈvaɪs/
 
+![[advice.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Guidance or recommendations offered with regard to prudent future action.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `give advice`: đưa ra lời khuyên
+- `seek advice`: tìm kiếm lời khuyên bảo
+- `take someone's advice`: nghe theo lời khuyên của ai
+- `sound advice`: lời khuyên đúng đắn thấu đáo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you give me some advice?

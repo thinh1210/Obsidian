@@ -2,8 +2,10 @@
 *n., v.*
 > /dres/
 
+![[dress.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women or girls; to put on clothes.
@@ -13,7 +15,11 @@
 💡 Dress - váy liền, dễ mặc để dạo phố.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wear a dress`: mặc một chiếc váy\n- `dress up`: ăn diện
+- `wear a dress`: mặc một chiếc váy
+- `dress up`: ăn diện
+- `evening dress`: váy dạ hội
+- `dress to the nines`: ăn mặc lộng lẫy, diện đồ bảnh bao
+- `dress up for`: ăn diện trang trọng cho dịp...
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is wearing a beautiful red dress.

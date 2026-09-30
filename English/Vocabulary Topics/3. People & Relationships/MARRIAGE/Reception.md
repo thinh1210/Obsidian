@@ -2,8 +2,10 @@
 *noun*
 > /rɪˈsepʃn/
 
+![[reception.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal social occasion held to welcome someone or to celebrate a particular event.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A wedding reception`: Tiệc cưới
+- `wedding reception venue`: địa điểm tổ chức tiệc cưới
+- `host a reception`: chủ trì bữa tiệc cưới chiêu đãi
+- `lively reception`: bữa tiệc cưới rộn ràng vui tươi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The wedding reception was held at a hotel.

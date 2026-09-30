@@ -2,8 +2,10 @@
 *noun*
 > /ˌdiː.kɒm.pəˈzɪʃ.ən/
 
+![[decomposition.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of rotting and breaking down, especially of organic matter; in forensics, used to estimate time since death.

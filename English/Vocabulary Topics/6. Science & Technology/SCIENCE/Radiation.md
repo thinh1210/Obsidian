@@ -2,8 +2,10 @@
 *noun*
 > /ˌreɪ.diˈeɪ.ʃən/
 
+![[radiation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Energy emitted in the form of waves or particles, especially electromagnetic waves or nuclear particles.

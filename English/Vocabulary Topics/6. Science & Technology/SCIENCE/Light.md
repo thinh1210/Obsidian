@@ -2,8 +2,10 @@
 *noun / adjective*
 > /laɪt/
 
+![[light.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The energy that allows us to see; electromagnetic radiation visible to the human eye.

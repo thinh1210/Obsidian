@@ -2,8 +2,10 @@
 *adjective*
 > /ˈsɪŋɡl/
 
+![[single.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unmarried or not involved in a stable romantic relationship.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A single man/woman`: Người đàn ông/phụ nữ độc thân
+- `single parent`: cha/mẹ đơn thân một mình nuôi con
+- `happily single`: độc thân vui tính yêu đời
+- `single life`: cuộc sống độc thân tự do thoải mái
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He enjoys being single.

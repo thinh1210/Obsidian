@@ -2,8 +2,10 @@
 *n.*
 > /ʃəʊ/
 
+![[show.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A spectacle or display, typically an entertainment.
@@ -13,7 +15,10 @@
 💡 Show cho mọi người xem.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `TV show: chương trình truyền hình`
+- `TV show`: chương trình truyền hình
+- `steal the show`: giành hết spotlight sự chú ý (idiom)
+- `show must go on`: cuộc vui vẫn phải tiếp diễn (idiom)
+- `run the show`: nắm quyền điều hành chương trình (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love this TV show.

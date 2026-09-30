@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæʒ.ju.əl.ti/
 
+![[casualty.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person injured or killed in a serious accident or war.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `civilian casualty`: thương vong dân thường
 - `heavy casualties`: thương vong nặng nề
+- `inflict casualties`: gây ra nhiều thương vong
+- `casualty of war`: nạn nhân của chiến tranh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Fortunately, there were no casualties in the school fire.

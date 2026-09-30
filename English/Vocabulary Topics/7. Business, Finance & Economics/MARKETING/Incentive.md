@@ -2,8 +2,10 @@
 *noun*
 > /ɪnˈsentɪv/
 
+![[incentive.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that motivates or encourages someone to do something; a payment or concession to stimulate greater output
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `financial incentive`: ưu đãi tài chính
 - `provide an incentive`: tạo động lực/đưa ra ưu đãi
+- `purchase incentive`: ưu đãi kích thích khách hàng đưa ra quyết định mua
+- `offer an incentive`: đưa ra phần thưởng khuyến khích hành vi mua sắm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The threat of exams is a powerful incentive for students to study.

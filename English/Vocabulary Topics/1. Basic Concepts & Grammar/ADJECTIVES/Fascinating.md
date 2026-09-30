@@ -2,8 +2,10 @@
 *adj.*
 > /ˈfæsɪneɪtɪŋ/
 
+![[fascinating.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely interesting
@@ -13,7 +15,10 @@
 💡 Phát sáng (fascinating) thu hút
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``fascinating subject`: chủ đề hấp dẫn`
+- `fascinating subject`: chủ đề hấp dẫn
+- `find something fascinating`: thấy điều gì đó hấp dẫn
+- `fascinating insight`: góc nhìn / hiểu biết sâu sắc đầy hấp dẫn
+- `fascinating story`: câu chuyện cuốn hút
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Fascinating story.

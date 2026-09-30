@@ -2,8 +2,10 @@
 *Noun*
 > /ˈbreɪn.tʃaɪld/
 
+![[brainchild.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An original idea, plan, or invention of one person.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `the brainchild of...`: đứa con tinh thần của...
 - `sole brainchild`: sản phẩm trí tuệ duy nhất
+- `brainchild of`: đứa con tinh thần / sáng kiến của
+- `artistic brainchild`: sáng tạo nghệ thuật tâm huyết
+- `his brainchild`: ý tưởng sáng chế của anh ấy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The community garden was the brainchild of a local high school student.

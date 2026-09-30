@@ -2,8 +2,10 @@
 *noun*
 > /ˈkælɪndər/
 
+![[calendar.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chart or series of pages showing the days, weeks, and months of a particular year.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mark on the calendar`: đánh dấu trên lịch
+- `calendar year`: năm dương lịch
+- `busy calendar`: lịch trình bận rộn
+- `clear one's calendar`: dọn trống lịch trình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I marked your birthday on my calendar.

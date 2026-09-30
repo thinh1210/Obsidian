@@ -2,8 +2,10 @@
 *n.*
 > /ˈtiː.tʃər/
 
+![[teacher.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who helps students to learn
@@ -13,8 +15,11 @@
 💡 Tí chờ (teacher) thầy cô giáo tới lớp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``homeroom teacher`: giáo viên chủ nhiệm`
-- ``teacher's pet`: học trò cưng của giáo viên`
+- `homeroom teacher`: giáo viên chủ nhiệm
+- `teacher's pet`: học trò cưng của giáo viên
+- `dedicated teacher`: người thầy tận tụy tâm huyết với nghề
+- `mentor and teacher`: người thầy kiêm người dẫn dắt dìu dắt
+- `teacher-student relationship`: mối quan hệ thầy trò gắn kết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My English teacher is very friendly.

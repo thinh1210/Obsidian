@@ -2,8 +2,10 @@
 *noun*
 > /flɔːr/
 
+![[floor.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The lower surface of a room, on which one may walk.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ground floor`: tầng trệt
 - `sweep the floor`: quét sàn
+- `hardwood floor`: sàn gỗ tự nhiên
+- `top floor`: tầng cao nhất
+- `mop the floor`: lau sàn nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't sit on the floor.

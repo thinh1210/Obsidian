@@ -2,8 +2,10 @@
 *noun*
 > /ˈæs.trə.nɔːt/
 
+![[astronaut.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is trained to travel in a spacecraft.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `astronaut training`: huấn luyện phi hành gia
 - `former astronaut`: cựu phi hành gia
+- `spacewalking astronaut`: phi hành gia đi bộ ngoài không gian
+- `astronaut crew`: phi hành đoàn vũ trụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The astronaut showed us how to eat in zero gravity.

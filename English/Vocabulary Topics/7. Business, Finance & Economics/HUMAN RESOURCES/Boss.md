@@ -2,8 +2,10 @@
 *n.*
 > /bɒs/
 
+![[boss.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person in charge of a worker or organization
@@ -13,7 +15,11 @@
 💡 Bị "bỏ" rơi nếu không nghe lời "boss"
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``meet the boss`: gặp sếp
+- `meet the boss`: gặp sếp
+- `demanding boss`: người sếp nghiêm khắc và cầu toàn
+- `report to the boss`: trực tiếp báo cáo công việc cho cấp trên
+- `be one's own boss`: tự mình làm chủ kinh doanh
+- `supportive boss`: người sếp luôn thấu hiểu và nâng đỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My boss is very friendly and supportive.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpred.ə.tər/
 
+![[predator.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that naturally preys on others.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `apex predator`: kẻ săn mồi đỉnh bảng
 - `natural predator`: kẻ săn mồi tự nhiên
+- `top predator`: kẻ săn mồi đứng đầu bảng
+- `predatory behavior`: tập tính săn mồi ăn thịt
+- `escape from predators`: chạy trốn khỏi kẻ săn mồi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lions are well-known predators.

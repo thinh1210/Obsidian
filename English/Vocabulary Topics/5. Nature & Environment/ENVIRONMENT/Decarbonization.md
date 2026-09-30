@@ -2,8 +2,10 @@
 *n.*
 > /ˌdiːˌcɑːbənaɪˈzeɪʃn/
 
+![[decarbonization.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The reduction or elimination of carbon dioxide emissions from a process, industry, or economy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `achieve decarbonization`: đạt được sự khử carbon
 - `decarbonization pathway`: lộ trình khử carbon
+- `accelerate decarbonization`: đẩy nhanh tiến trình khử carbon
+- `industrial decarbonization`: khử carbon trong sản xuất công nghiệp
+- `decarbonization targets`: các mục tiêu giảm phát thải carbon
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Decarbonization of the energy sector is crucial to stop global warming.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈvɪn.jɑːd/
 
+![[vineyard.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plantation of grapevines, typically producing grapes for winemaking.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `visit a vineyard`: ghé thăm vườn nho
 - `vineyard owner`: chủ vườn nho
+- `historic vineyard`: vườn nho lâu đời
+- `sun-drenched vineyard`: vườn nho ngập tràn ánh nắng
+- `vineyard management`: quản lý chăm sóc vườn nho làm rượu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had a lovely dinner at a local vineyard.

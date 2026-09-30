@@ -2,8 +2,10 @@
 *n.*
 > /saʊnd/
 
+![[sound.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vibrations traveling through the air that can be heard, or the audio elements of a film
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sound effects`: hiệu ứng âm thanh
 - `surround sound`: âm thanh vòm
+- `ambient sound`: âm thanh không gian môi trường
+- `sound design`: nghệ thuật thiết kế hiệu ứng âm thanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sound was too low during the movie.

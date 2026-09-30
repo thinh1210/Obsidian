@@ -2,8 +2,10 @@
 *noun*
 > /ˈter.ɪ.tər.i/
 
+![[territory.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land, water, or geographic space defended by a group or individual.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `defend territory`: bảo vệ lãnh thổ
 - `breeding territory`: lãnh thổ sinh sản
+- `defend one's territory`: bảo vệ lãnh thổ cư trú
+- `unfamiliar territory`: vùng đất xa lạ chưa từng biết (idiom)
+- `come with the territory`: là một phần tất yếu của công việc (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Birds sing to mark and defend their territory.

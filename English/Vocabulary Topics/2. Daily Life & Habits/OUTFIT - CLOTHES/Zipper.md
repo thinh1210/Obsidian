@@ -2,8 +2,10 @@
 *noun*
 > /ˈzɪp.ɚ/
 
+![[zipper.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device used for fastening clothing, bags, etc.
@@ -13,7 +15,10 @@
 💡 Zipper -> Díp mỡ -> Kéo khóa mạnh kẹp díp mỡ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `pull the zipper: kéo khóa`
+- `pull the zipper`: kéo khóa
+- `zip up the zipper`: kéo khóa phéc-mơ-tuya lên
+- `broken zipper`: khóa kéo bị hỏng
+- `concealed zipper`: khóa kéo may giấu kín tinh tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The zipper on my jacket is broken.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈɔː.bɪt/
 
+![[orbit.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The curved path of a celestial object or spacecraft round a star, planet, or moon.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `in orbit`: đang quay trên quỹ đạo
 - `orbital period`: chu kỳ quỹ đạo
+- `circular orbit`: quỹ đạo tròn
+- `put into orbit`: đưa vào quỹ đạo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The space station is currently in orbit around the Earth.

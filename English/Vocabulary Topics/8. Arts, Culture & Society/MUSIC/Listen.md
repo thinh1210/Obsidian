@@ -2,8 +2,10 @@
 *v.*
 > /ˈlɪs.ən/
 
+![[listen.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Give one's attention to a sound.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `listen to music`: nghe nhạc
 - `listen carefully`: nghe kỹ
+- `easy listening`: thể loại nhạc nhẹ êm dịu
+- `listen attentively`: chăm chú lắng nghe
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like to listen to the radio while cooking.

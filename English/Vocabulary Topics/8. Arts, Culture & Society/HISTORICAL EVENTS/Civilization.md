@@ -2,8 +2,10 @@
 *noun*
 > /ˌsɪv.əl.aɪˈzeɪ.ʃən/
 
+![[civilization.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The stage of human social development and organization that is considered most advanced.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient civilization`: nền văn minh cổ đại
 - `cradle of civilization`: cái nôi của nền văn minh
+- `collapse of civilization`: sự sụp đổ hoàn toàn của một nền văn minh
+- `advanced civilization`: nền văn minh đạt trình độ phát triển cao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Camping in the deep woods feels like you are far away from civilization.

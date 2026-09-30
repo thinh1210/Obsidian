@@ -2,8 +2,10 @@
 *n.*
 > /ekˈsɒɡ.ə.mi/
 
+![[exogamy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The custom of marrying outside a community, clan, or tribe.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rules of exogamy`: quy tắc ngoại hôn
 - `clan exogamy`: ngoại hôn theo thị tộc
+- `lineage exogamy`: ngoại hôn theo dòng dõi
+- `traditional exogamy`: tục hôn nhân ngoại tộc truyền thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Exogamy was used by ancient tribes to form political alliances.

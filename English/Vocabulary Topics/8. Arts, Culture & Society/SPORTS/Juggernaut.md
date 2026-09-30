@@ -2,8 +2,10 @@
 *n.*
 > /ˈdʒʌɡ.ə.nɔːt/
 
+![[juggernaut.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** SPORTS
+**Level:** C2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A huge, powerful, and overwhelming force or institution.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sports juggernaut`: đội tuyển thể thao bất khả chiến bại
 - `marketing juggernaut`: thế lực tiếp thị khổng lồ
+- `unstoppable juggernaut`: cỗ máy chiến thắng không thể cản phá
+- `offensive juggernaut`: hàng tấn công mạnh mẽ vũ bão
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The football club has become a sports juggernaut, crushing all rivals.

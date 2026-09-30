@@ -2,8 +2,10 @@
 *v.*
 > /ˈkʌl.tɪ.veɪt/
 
+![[cultivate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prepare and use land for crops or gardening.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultivate land`: canh tác đất đai
 - `cultivate crops`: trồng trọt hoa màu
+- `cultivate a relationship`: vun đắp mối quan hệ
+- `cultivate an interest`: nuôi dưỡng niềm yêu thích
+- `cultivate the soil`: cày xới, cải tạo đất trồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She cultivates herbs and spices in a small plot of land.

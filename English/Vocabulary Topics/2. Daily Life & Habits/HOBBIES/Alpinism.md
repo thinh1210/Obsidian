@@ -2,8 +2,10 @@
 *noun*
 > /ˈælpɪnɪzəm/
 
+![[alpinism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The sport or activity of climbing high mountains, especially the Alps.

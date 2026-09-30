@@ -2,8 +2,10 @@
 *noun*
 > /ɔːˈtɒm.ə.tən/
 
+![[automaton.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a moving mechanical device made in imitation of a human being.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mechanical automaton`: người máy cơ khí
 - `like an automaton`: như một cái máy vô hồn
+- `programmable automaton`: máy tự động lập trình được
+- `digital automaton`: máy tự động số học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum exhibits 18th-century mechanical automatons.

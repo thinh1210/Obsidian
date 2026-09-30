@@ -2,8 +2,10 @@
 *adjective.*
 > /ɪˈlæstɪk/
 
+![[elastic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to resume its normal shape spontaneously after contraction, dilatation, or distortion.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `elastic band`: dây chun, dây co giãn
 - `elastic properties`: đặc tính đàn hồi
+- `elastic limit`: giới hạn co giãn đàn hồi
+- `elastic demand`: cầu co giãn theo giá trong kinh tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This activewear features an elastic waistband for comfort.

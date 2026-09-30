@@ -2,8 +2,10 @@
 *n.*
 > /daɪˈrektə(r)/
 
+![[director.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The person who supervises the actors, camera crew, and other staff for a movie
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `film director`: đạo diễn phim
 - `creative director`: giám đốc sáng tạo
+- `assistant director`: phó đạo diễn phụ trách hiện trường
+- `award-winning director`: đạo diễn từng đạt giải thưởng danh giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The director yelled "Action!" to start the shot.

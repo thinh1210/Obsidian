@@ -2,8 +2,10 @@
 *noun*
 > /ˈpæs.ən.dʒər/
 
+![[passenger.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is travelling in a vehicle

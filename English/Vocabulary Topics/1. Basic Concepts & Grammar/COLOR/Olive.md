@@ -2,8 +2,10 @@
 *n, adj*
 > /ˈɑː.lɪv/
 
+![[olive.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A yellowish-green color.

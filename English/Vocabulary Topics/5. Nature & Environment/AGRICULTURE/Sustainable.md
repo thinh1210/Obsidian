@@ -2,8 +2,10 @@
 *adj.*
 > /səˈsteɪ.nə.bəl/
 
+![[sustainable.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conserving resources and not causing damage to the environment.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sustainable agriculture`: nông nghiệp bền vững
 - `sustainable farming`: canh tác bền vững
+- `sustainable development`: phát triển bền vững
+- `environmentally sustainable`: bền vững về mặt môi trường
+- `sustainable yield`: sản lượng khai thác bền vững
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Consumers now prefer coffee from sustainable farms.

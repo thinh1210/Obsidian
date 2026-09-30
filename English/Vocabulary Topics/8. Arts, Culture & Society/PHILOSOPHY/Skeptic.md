@@ -2,8 +2,10 @@
 *n.*
 > /ˈskep.tɪk/
 
+![[skeptic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PHILOSOPHY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person inclined to question or doubt all accepted opinions.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `remain a skeptic`: vẫn là một người hoài nghi
 - `healthy skeptic`: người hoài nghi lành mạnh
+- `healthy dose of skepticism`: sự hoài nghi chừng mực lành mạnh
+- `voice skepticism`: bày tỏ thái độ hoài nghi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am a skeptic when it comes to quick weight loss pills.

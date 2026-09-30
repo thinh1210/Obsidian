@@ -2,8 +2,10 @@
 *v.*
 > /ˈɡlæm.ər.aɪz/
 
+![[glamorize.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make something seem glamorous or desirable.
@@ -13,7 +15,10 @@
 💡 Glamour (hào nhoáng) + ize
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Glamorize a lifestyle: Tô hồng lối sống`
+- `Glamorize a lifestyle`: Tô hồng lối sống
+- `glamorize violence`: lãng mạn hóa bạo lực
+- `glamorize fame`: thổi phồng hào quang danh vọng
+- `glamorize unhealthy habits`: tô hồng các thói quen có hại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They glamorize violence.

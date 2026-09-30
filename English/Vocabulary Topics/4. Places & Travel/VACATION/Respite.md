@@ -2,8 +2,10 @@
 *Noun*
 > /ˈrɛspɪt/
 
+![[respite.mp3]]
+
 ---
-**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION
+**Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short period of rest or relief from something difficult or unpleasant.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brief respite`: thời gian nghỉ ngơi ngắn
 - `respite care`: chăm sóc thay thế tạm thời
+- `welcome respite`: khoảng thời gian nghỉ ngơi tĩnh dưỡng quý giá
+- `find respite in nature`: tìm thấy sự thư thái an lành giữa thiên nhiên
+- `respite from city noise`: chốn trốn tạm lánh xa khói bụi ồn ã thành đô
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The weekend provided a brief respite from work.

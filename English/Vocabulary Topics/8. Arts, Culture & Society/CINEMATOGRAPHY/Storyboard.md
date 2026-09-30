@@ -2,8 +2,10 @@
 *n.*
 > /ˈskɔːribɔːd/
 
+![[storyboard.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of drawings, typically with some directions and dialogue, representing the shots planned for a movie
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `digital storyboard`: bảng phân cảnh kỹ thuật số
 - `storyboard artist`: họa sĩ vẽ phân cảnh
+- `sketch a storyboard`: vẽ phác thảo bảng phân cảnh phim
+- `storyboard sequence`: chuỗi khung hình phân cảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The director looked at the storyboard to plan the camera angles for the action sequence.

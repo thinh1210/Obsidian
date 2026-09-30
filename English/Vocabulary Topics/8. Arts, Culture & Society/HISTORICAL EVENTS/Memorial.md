@@ -2,8 +2,10 @@
 *noun*
 > /məˈmɔːr.i.əl/
 
+![[memorial.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue or structure established to remind people of a person or event.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `war memorial`: đài tưởng niệm chiến tranh
 - `memorial service`: lễ tưởng niệm
+- `permanent memorial`: công trình đài tưởng niệm vĩnh viễn
+- `memorial plaque`: tấm bia ghi danh tưởng niệm các anh hùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We attended a memorial service for our late grandfather.

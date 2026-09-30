@@ -2,8 +2,10 @@
 *noun*
 > /ˈtæn.trəm/
 
+![[tantrum.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An uncontrolled outburst of anger and frustration, typically in a young child.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `throw a tantrum`: ăn vạ
+- `throw a temper tantrum`: nổi cơn thịnh nộ ăn vạ
+- `calm a tantrum`: dỗ dành khi trẻ ăn vạ
+- `toddler tantrum`: cơn hờn dỗi quấy khóc của trẻ nhỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The toddler threw a tantrum.

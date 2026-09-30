@@ -2,8 +2,10 @@
 *Verb*
 > /ˈɔː.tə.meɪt/
 
+![[automate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a process in a factory or office operate by machines or computers instead of people.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fully automate`: tự động hóa hoàn toàn
 - `automate the process`: tự động hóa quy trình
+- `automate a process`: tự động hóa một quy trình
+- `fully automated`: hoàn toàn tự động
+- `automate routine tasks`: tự động hóa các công việc lặp lại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We want to automate our home lighting system.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌsɒl.ɪˈteər/
 
+![[solitaire.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A single diamond or other gem set alone.
@@ -13,7 +15,10 @@
 💡 Sợ li (Soli) tan (taire) với đá đính đơn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `diamond solitaire: kim cương đính đơn`
+- `diamond solitaire`: kim cương đính đơn
+- `solitaire ring`: nhẫn đính duy nhất một viên đá quý
+- `classic diamond solitaire`: nhẫn kim cương đính đơn cổ điển
+- `solitaire pendant`: mặt dây chuyền một viên đá chủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He gave her a solitaire.

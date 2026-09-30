@@ -2,8 +2,10 @@
 *Noun/Adj*
 > /ˈɡʊə.meɪ/
 
+![[gourmet.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing or relating to very high quality food and drink.

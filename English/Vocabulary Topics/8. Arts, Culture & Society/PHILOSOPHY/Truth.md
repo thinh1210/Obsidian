@@ -2,8 +2,10 @@
 *n.*
 > /truːθ/
 
+![[truth.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being true.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tell the truth`: nói sự thật
 - `search for truth`: tìm kiếm sự thật
+- `home truth`: sự thật cay đắng về bản thân
+- `naked truth`: sự thật trần trụi phũ phàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* To tell you the truth, I didn't like the food.

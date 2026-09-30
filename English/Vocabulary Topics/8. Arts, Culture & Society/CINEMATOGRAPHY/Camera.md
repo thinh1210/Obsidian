@@ -2,8 +2,10 @@
 *n.*
 > /ˈkæmrə/
 
+![[camera.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device for recording visual images in the form of photographs, film, or video signals
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `camera operator`: người vận hành máy quay
 - `front camera`: camera trước
+- `camera angle`: góc đặt máy quay
+- `camera movement`: sự chuyển động nhịp nhàng của máy quay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Turn on the camera to start recording.

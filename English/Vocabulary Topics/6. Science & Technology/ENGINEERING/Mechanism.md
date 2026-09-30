@@ -2,8 +2,10 @@
 *noun*
 > /ˈmekənɪzəm/
 
+![[mechanism.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of parts working together in a machine; a piece of machinery.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `locking mechanism`: cơ chế khóa
 - `defense mechanism`: cơ chế tự vệ
+- `gear mechanism`: cơ cấu bánh răng
+- `drive mechanism`: cơ cấu truyền động
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The locking mechanism on the safe is very complex and difficult to crack.

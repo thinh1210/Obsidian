@@ -2,8 +2,10 @@
 *noun*
 > /ˈθʌndə(r)/
 
+![[thunder.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The loud noise that you hear after a flash of lightning
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `peal of thunder`: tiếng sấm rền
+- `steal someone's thunder`: phỗng tay trên / cướp công của ai
+- `clap of thunder`: tiếng sấm nổ vang trời
+- `face like thunder`: khuôn mặt hầm hầm giận dữ như sắp có giông bão
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sound of thunder scared the puppy.

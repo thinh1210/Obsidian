@@ -2,8 +2,10 @@
 *noun*
 > /haɪˈdrɒl.ɪks/
 
+![[hydraulics.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system in an aircraft that uses fluid under pressure to power flight controls, brakes, and landing gear.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡræm.ər/
 
+![[grammar.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the rules about how words change their form and combine with other words to make sentences

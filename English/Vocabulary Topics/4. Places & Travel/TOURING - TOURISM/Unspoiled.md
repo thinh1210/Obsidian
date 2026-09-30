@@ -2,8 +2,10 @@
 *Adjective*
 > /ʌnˈspɔɪld/
 
+![[unspoiled.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Beautiful because it has not been changed or damaged by people.
@@ -13,7 +15,11 @@
 💡 ÂN XPOI (Unspoiled) chưa bị phá hủy.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `unspoiled nature`: thiên nhiên hoang sơ\n- `unspoiled beauty`: vẻ đẹp hoang sơ
+- `unspoiled nature`: thiên nhiên hoang sơ
+- `unspoiled beauty`: vẻ đẹp hoang sơ
+- `unspoiled tropical paradise`: thiên đường nhiệt đới hoang sơ thuần khiết
+- `unspoiled coastline`: dải bờ biển hoang sơ chưa bị bê tông hóa
+- `unspoiled natural beauty`: vẻ đẹp thiên nhiên nguyên bản không tì vết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The island features completely unspoiled beaches.

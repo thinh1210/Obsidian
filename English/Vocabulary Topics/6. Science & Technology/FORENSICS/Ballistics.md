@@ -2,8 +2,10 @@
 *noun*
 > /bəˈlɪs.tɪks/
 
+![[ballistics.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of projectiles in motion, used to analyse firearms and ammunition evidence.

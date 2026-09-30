@@ -2,8 +2,10 @@
 *noun*
 > /ˈspeɪs.taɪm/
 
+![[spacetime.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The four-dimensional continuum combining three-dimensional space and one-dimensional time.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `curvature of spacetime`: độ cong của không-thời gian
 - `spacetime continuum`: dòng liên tục không-thời gian
+- `spacetime fabric`: cấu trúc không-thời gian
+- `spacetime distortion`: sự biến dạng không-thời gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is hard for humans to perceive spacetime as a single entity.

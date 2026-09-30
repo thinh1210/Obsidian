@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑːsn/
 
+![[arson.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The criminal act of deliberately setting fire to property
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commit arson`: phạm tội phóng hỏa
 - `suspected arson`: nghi ngờ phóng hỏa
+- `arson investigator`: điều tra viên chuyên trách tội phóng hỏa
+- `convicted of arson`: bị tuyên phạt tội cố ý phóng hỏa đốt nhà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police suspect arson caused the fire at the old warehouse.

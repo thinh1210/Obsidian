@@ -2,8 +2,10 @@
 *n.*
 > /ˈtæk.tɪks/
 
+![[tactics.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** SPORTS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action or strategy carefully planned to achieve a specific end.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `defensive tactics`: chiến thuật phòng ngự
 - `change tactics`: thay đổi chiến thuật
+- `counter-attacking tactics`: chiến thuật phản công chớp nhoáng
+- `employ effective tactics`: vận dụng chiến thuật hiệu quả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The manager discussed the team's defensive tactics.

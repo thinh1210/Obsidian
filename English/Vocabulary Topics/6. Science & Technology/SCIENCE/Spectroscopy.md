@@ -2,8 +2,10 @@
 *noun*
 > /spekˈtrɒs.kə.pi/
 
+![[spectroscopy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with the investigation and measurement of spectra produced when matter interacts with or emits electromagnetic radiation.

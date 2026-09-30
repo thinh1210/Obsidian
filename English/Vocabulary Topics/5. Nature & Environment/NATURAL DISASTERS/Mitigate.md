@@ -2,8 +2,10 @@
 *verb*
 > /ˈmɪt.ɪ.ɡeɪt/
 
+![[mitigate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something less severe, serious, or painful.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mitigate the effects`: giảm thiểu các tác động
 - `mitigate climate change`: giảm thiểu biến đổi khí hậu
+- `mitigate disaster risks`: giảm nhẹ các rủi ro thiên tai
+- `mitigate the impact`: làm dịu đi tác động tiêu cực
+- `effective mitigation plan`: kế hoạch giảm nhẹ rủi ro hiệu quả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Planting trees along the river bank helps to mitigate flood damage.

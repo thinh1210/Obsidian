@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪŋ.ər/
 
+![[singer.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sings.
@@ -13,7 +15,9 @@
 💡 Hát (sing) -> Singer
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Lead singer: Ca sĩ hát chính`
+- `Lead singer`: Ca sĩ hát chính
+- `aspiring singer`: ca sĩ trẻ đầy triển vọng
+- `talented singer`: ca sĩ tài năng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a good singer.

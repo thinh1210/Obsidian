@@ -2,8 +2,10 @@
 *n.*
 > /ˈeɪdʒənsi/
 
+![[agency.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A business or organization established to provide a particular service, typically one that involves organizing transactions between two other parties.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `real estate agency`: công ty môi giới bất động sản
 - `housing agency`: đại lý nhà ở
+- `estate agency`: văn phòng môi giới nhà đất
+- `letting agency`: đại lý chuyên dịch vụ cho thuê nhà
+- `exclusive agency`: đại lý độc quyền phân phối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We registered our property with a local real estate agency.

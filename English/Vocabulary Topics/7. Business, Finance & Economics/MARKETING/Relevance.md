@@ -2,8 +2,10 @@
 *noun*
 > /ˈreləvəns/
 
+![[relevance.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being closely connected or appropriate to the matter at hand
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `market relevance`: sự phù hợp với thị trường
 - `lose relevance`: mất đi tính phù hợp/vị thế
+- `cultural relevance`: sự tương thích hòa hợp với yếu tố văn hóa địa phương
+- `ensure relevance`: đảm bảo sản phẩm luôn gắn bó mật thiết với nhu cầu thực
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The teacher questioned the relevance of the student's question to the history lesson.

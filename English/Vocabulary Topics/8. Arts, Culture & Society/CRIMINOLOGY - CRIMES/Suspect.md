@@ -2,8 +2,10 @@
 *noun*
 > /ˈsʌspekt/
 
+![[suspect.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person believed to have committed a crime; to believe someone is guilty of a crime
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prime suspect`: nghi phạm chính
 - `suspect fraud`: nghi ngờ gian lận
+- `apprehend a suspect`: bắt giữ đối tượng nghi can
+- `interrogate a suspect`: thẩm vấn lấy lời khai của nghi phạm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The police are questioning the prime suspect in the case.

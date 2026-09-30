@@ -2,8 +2,10 @@
 *v.*
 > /kəˈmjuːnɪkeɪt/
 
+![[communicate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To share or exchange information, news, or ideas
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `communicate effectively`: giao tiếp hiệu quả
+- `communicate across cultures`: giao tiếp đa văn hóa
+- `struggle to communicate`: gặp khó khăn khi giao tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We communicate mostly by email.

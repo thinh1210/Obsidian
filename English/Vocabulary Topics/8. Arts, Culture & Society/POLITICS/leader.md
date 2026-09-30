@@ -2,8 +2,10 @@
 *noun*
 > /ˈliːdər/
 
+![[leader.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The person who leads or commands a group, organization, or country.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political leader`: nhà lãnh đạo chính trị
 - `charismatic leader`: nhà lãnh đạo lôi cuốn
+- `party leader`: lãnh đạo đảng
+- `world leaders`: các nhà lãnh đạo thế giới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is a natural leader in our community group.

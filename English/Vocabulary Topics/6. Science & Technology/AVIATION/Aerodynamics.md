@@ -2,8 +2,10 @@
 *noun*
 > /ˌeə.rəʊ.daɪˈnæm.ɪks/
 
+![[aerodynamics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the properties of moving air and the interaction between air and solid bodies moving through it.

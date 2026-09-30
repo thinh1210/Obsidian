@@ -2,8 +2,10 @@
 *Noun*
 > /kruz/
 
+![[cruise.mp3]]
+
 ---
-**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION
+**Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey on a large ship for pleasure.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `go on a cruise`: đi du thuyền
 - `cruise ship`: tàu du lịch
+- `luxury cruise`: chuyến du lịch bằng siêu du thuyền xa hoa
+- `river cruise`: du thuyền thong dong ngắm cảnh đôi bờ sông
+- `cruise liner`: con tàu du lịch biển khổng lồ viễn dương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They went on a Caribbean cruise.

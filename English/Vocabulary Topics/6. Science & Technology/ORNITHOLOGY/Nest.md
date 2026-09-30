@@ -2,8 +2,10 @@
 *noun*
 > /nest/
 
+![[nest.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure built by a bird to lay its eggs in and raise its young.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bird's nest`: tổ chim
 - `build a nest`: xây tổ
+- `feather one's own nest`: vơ vét làm giàu cho bản thân bất chính (idiom)
+- `empty nest`: tổ ấm trống trải khi con cái đã trưởng thành (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There is a bird's nest in the tree outside my window.

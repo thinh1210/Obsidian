@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈmɑːkrəsi/
 
+![[democracy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government by the whole population or all the eligible members of a state, typically through elected representatives.

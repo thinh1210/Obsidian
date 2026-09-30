@@ -2,8 +2,10 @@
 *noun*
 > /hɔːs/
 
+![[horse.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large domesticated animal with hooves, used for riding and pulling carts.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wild horse`: ngựa hoang
 - `ride a horse`: cưỡi ngựa
+- `hold your horses`: hãy kiên nhẫn / từ từ đã
+- `straight from the horse's mouth`: từ chính nguồn tin trực tiếp đáng tin cậy
+- `beat a dead horse`: tốn công vô ích vào việc đã rồi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Learning to ride a horse requires balance and patience.

@@ -2,8 +2,10 @@
 *n.*
 > /kləʊðz/
 
+![[clothes.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Things you wear to cover your body.
@@ -13,7 +15,10 @@
 💡 Clothes -> Vải vóc
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Designer clothes: Quần áo hàng hiệu`
+- `Designer clothes`: Quần áo hàng hiệu
+- `casual clothes`: quần áo mặc thường ngày
+- `trendy clothes`: trang phục hợp mốt
+- `dress in fine clothes`: diện trang phục lộng lẫy
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Nice clothes.

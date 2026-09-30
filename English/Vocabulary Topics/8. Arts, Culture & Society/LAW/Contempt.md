@@ -2,8 +2,10 @@
 *noun*
 > /kənˈtempt/
 
+![[contempt.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The offense of being disobedient to or disrespectful of a court of law and its officers.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑːf.sprɪŋ/
 
+![[offspring.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person's child or children.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `produce offspring`: sinh sản
+- `care for offspring`: chăm sóc đàn con cháu
+- `male offspring`: con trai nối dõi
+- `healthy offspring`: thế hệ con cái khỏe mạnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They are proud of their offspring.

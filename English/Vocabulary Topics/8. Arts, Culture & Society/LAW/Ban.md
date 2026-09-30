@@ -2,8 +2,10 @@
 *verb/noun*
 > /bæn/
 
+![[ban.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Officially or legally prohibit; an official or legal prohibition.

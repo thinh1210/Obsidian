@@ -2,8 +2,10 @@
 *n., v.*
 > /ˈlek.tʃər/
 
+![[lecture.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A talk given to a group of people to teach them about a subject.

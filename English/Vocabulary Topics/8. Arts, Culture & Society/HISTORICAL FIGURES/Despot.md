@@ -2,8 +2,10 @@
 *n.*
 > /ˈdespɒt/
 
+![[despot.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `enlightened despot`: bạo chúa khai sáng
 - `ruthless despot`: kẻ chuyên quyền tàn nhẫn
+- `benevolent despot`: kẻ độc tài nhân từ
+- `rule of a despot`: sự cai trị của kẻ bạo chúa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The despot ruled the country with an iron fist.

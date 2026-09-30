@@ -2,8 +2,10 @@
 *n*
 > /ˌprɒp.əˈɡæn.də/
 
+![[propaganda.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Biased or misleading information used to promote a particular political cause.

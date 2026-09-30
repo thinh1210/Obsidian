@@ -2,8 +2,10 @@
 *adj.*
 > /ɪkˈstrævəɡənt/
 
+![[extravagant.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lacking restraint in spending money or using resources.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `extravagant lifestyle`: lối sống xa hoa
+- `extravagant habits`: thói quen chi tiêu hoang phí
+- `live an extravagant life`: sống cuộc đời nhung lụa vương giả
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They live an extravagant lifestyle.

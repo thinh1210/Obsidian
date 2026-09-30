@@ -2,8 +2,10 @@
 *adj.*
 > /waɪz/
 
+![[wise.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing experience, knowledge, and good judgment.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wise decision`: quyết định khôn ngoan
 - `wise words`: những lời khôn ngoan
+- `put someone wise to`: mách nước / chỉ rõ cho ai hiểu sự thật
+- `it is wise to`: thật khôn ngoan khi làm gì
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It would be wise to save some money for the future.

@@ -2,8 +2,10 @@
 *noun*
 > /tuːm/
 
+![[tomb.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large grave, especially one built of stone above or below the ground
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient tomb`: lăng mộ cổ
 - `royal tomb`: lăng mộ hoàng gia
+- `unopened tomb`: ngôi mộ cổ còn nguyên vẹn chưa bị mở
+- `plunder a tomb`: cướp bóc lăng mộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The pharaoh's tomb was filled with gold treasures.

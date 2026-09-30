@@ -2,8 +2,10 @@
 *n*
 > /ˈlɒb.i.ɪŋ/
 
+![[lobbying.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of trying to influence politicians or officials on behalf of a group.

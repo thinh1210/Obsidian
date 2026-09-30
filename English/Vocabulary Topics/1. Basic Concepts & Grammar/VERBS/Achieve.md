@@ -2,8 +2,10 @@
 *Verb*
 > /əˈtʃiːv/
 
+![[achieve.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To succeed in finishing something or reaching an aim.
@@ -13,7 +15,10 @@
 💡 Ơ, chí (achieve) lớn giúp đạt được.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `achieve a goal`: đạt được mục tiêu\n- `achieve success`: đạt được thành công
+- `achieve a goal`: đạt được mục tiêu
+- `achieve success`: đạt được thành công
+- `achieve results`: đạt được kết quả
+- `achieve a breakthrough`: đạt được bước đột phá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I achieved my goal.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkɪn.ʃɪp/
 
+![[kinship.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The relationship between members of the same family, or a feeling of being close.

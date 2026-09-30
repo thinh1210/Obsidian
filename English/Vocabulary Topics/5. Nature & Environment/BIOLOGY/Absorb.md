@@ -2,8 +2,10 @@
 *verb*
 > /əbˈzɔːb/
 
+![[absorb.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take in or soak up (energy, liquid, or other substance) by chemical or physical action.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `absorb moisture`: hấp thụ độ ẩm
 - `absorb shock`: giảm xóc, hấp thụ chấn động
+- `absorb nutrients`: hấp thụ chất dinh dưỡng
+- `absorb carbon dioxide`: hấp thụ khí CO2
+- `absorb information quickly`: tiếp thu thông tin nhanh chóng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sponges absorb water very well.

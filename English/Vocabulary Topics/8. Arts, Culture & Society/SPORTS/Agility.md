@@ -2,8 +2,10 @@
 *n.*
 > /əˈdʒɪl.ə.ti/
 
+![[agility.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to move quickly and easily.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mental agility`: sự nhanh nhạy về đầu óc
 - `speed and agility`: tốc độ và sự nhanh nhẹn
+- `agility ladder drills`: các bài tập thang dây rèn sự nhanh nhẹn
+- `nimble agility`: sự linh hoạt thoăn thoắt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gymnastics requires a high level of physical agility.

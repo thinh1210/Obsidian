@@ -2,8 +2,10 @@
 *n.*
 > /ˌpaɪəˈnɪə(r)/
 
+![[pioneer.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is among the first to explore or settle a new country or area
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pioneer of science`: người tiên phong trong khoa học
 - `early pioneers`: những người tiên phong thời kỳ đầu
+- `pioneer a new method`: tiên phong tìm ra phương pháp mới
+- `true pioneer`: người tiên phong thực thụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Space exploration requires pioneers willing to take risks.

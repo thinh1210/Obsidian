@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɑː.lɚ/
 
+![[collar.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part around the neck of a piece of clothing.
@@ -13,7 +15,10 @@
 💡 Collar -> Cỏ lạ -> Cổ áo dính cỏ lạ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a stiff collar: cổ áo cứng`
+- `a stiff collar`: cổ áo cứng
+- `shirt collar`: cổ áo sơ mi
+- `turn up one's collar`: dựng cổ áo lên chắn gió
+- `stiff collar`: cổ áo cứng cáp phẳng phiu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He popped his collar.

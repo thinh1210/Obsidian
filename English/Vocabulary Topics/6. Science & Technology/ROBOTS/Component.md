@@ -2,8 +2,10 @@
 *noun.*
 > /kəmˈpoʊ.nənt/
 
+![[component.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the parts of something, especially a machine or system
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `electronic component`: linh kiện điện tử
+- `hardware component`: thành phần phần cứng
+- `modular component`: linh kiện dạng mô-đun
+- `mechanical component`: linh kiện cơ khí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Each component of the robot must be checked regularly.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɜː.pɪ.treɪ.tər/
 
+![[perpetrator.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who carries out a harmful, illegal, or immoral act.

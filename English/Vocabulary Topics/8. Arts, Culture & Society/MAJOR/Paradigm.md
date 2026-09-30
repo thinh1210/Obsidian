@@ -2,8 +2,10 @@
 *n.*
 > /ˈpær.ə.daɪm/
 
+![[paradigm.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A typical example or pattern; a framework of ideas that shapes how a field is understood.

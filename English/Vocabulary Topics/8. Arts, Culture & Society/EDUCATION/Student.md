@@ -2,8 +2,10 @@
 *n.*
 > /ˈstjuːdnt/
 
+![[student.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is formally engaged in learning, especially one enrolled in a school or college
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `excellent student`: học sinh xuất sắc
 - `college student`: sinh viên đại học
+- `undergraduate student`: sinh viên đại học hệ chính quy
+- `student retention`: tỷ lệ giữ chân học sinh học viên theo học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He is a hard-working student.

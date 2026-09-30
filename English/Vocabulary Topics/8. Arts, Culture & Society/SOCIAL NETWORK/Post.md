@@ -2,8 +2,10 @@
 *verb*
 > /pəʊst/
 
+![[post.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To publish content (text, image, video) on a website or social media platform
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `post a photo`: đăng một bức ảnh
+- `pinned post`: bài đăng được ghim lên đầu trang
+- `schedule a post`: lên lịch tự động đăng bài
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She posted a video of her dog on TikTok.

@@ -2,8 +2,10 @@
 *adj.*
 > /aʊtˈstændɪŋ/
 
+![[outstanding.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Exceptionally good.
@@ -13,7 +15,10 @@
 💡 Out (ra ngoài) + stand (đứng) -> đứng ra ngoài đám đông.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `outstanding performance: màn biểu diễn xuất sắc`
+- `outstanding performance`: màn biểu diễn xuất sắc
+- `outstanding achievement`: thành tựu kiệt xuất vượt bậc
+- `outstanding balance`: số dư còn nợ chưa thanh toán
+- `outstanding contribution`: đóng góp xuất sắc cho cộng đồng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He gave an outstanding performance.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈtʃaɪld.hʊd/
 
+![[childhood.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being a child.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `early childhood`: thời thơ ấu
+- `happy childhood`: tuổi thơ êm đềm hạnh phúc
+- `childhood memories`: những ký ức thời thơ ấu
+- `childhood sweetheart`: người yêu thuở thanh mai trúc mã
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I had a happy childhood.

@@ -2,8 +2,10 @@
 *noun*
 > /ˌdeməˈɡræfɪks/
 
+![[demographics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Statistical data relating to the population and particular groups within it.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `target demographics`: nhân khẩu học mục tiêu
 - `demographic analysis`: phân tích nhân khẩu học
+- `demographic shift`: sự dịch chuyển nhân khẩu học
+- `core demographics`: nhóm nhân khẩu học nòng cốt
+- `demographic profile`: hồ sơ nhân khẩu học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The town's demographics have changed significantly over the last decade.

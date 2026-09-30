@@ -2,8 +2,10 @@
 *noun*
 > /ˈflaɪər/
 
+![[flyer.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small handbill advertising an event or product, distributed to a large number of people
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `distribute flyers`: phân phát tờ rơi
 - `promotional flyer`: tờ rơi quảng cáo
+- `print flyers`: in ấn tờ rơi quảng bá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They were handing out flyers for a new gym near the subway station.

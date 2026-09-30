@@ -2,8 +2,10 @@
 *noun*
 > /ˌdʒʊə.rɪsˈdɪk.ʃən/
 
+![[jurisdiction.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The official power to make legal decisions and judgments.

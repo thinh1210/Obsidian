@@ -2,8 +2,10 @@
 *noun*
 > /ɡɑːd/
 
+![[guard.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who protects a place or people, or prevents prisoners from escaping
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `security guard`: nhân viên bảo vệ
 - `prison guard`: lính canh tù, quản ngục
+- `armed guard`: vệ sĩ / lính gác có trang bị vũ khí
+- `let down one's guard`: lơ là mất cảnh giác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The security guard stopped him at the entrance.

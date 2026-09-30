@@ -2,8 +2,10 @@
 *adj.*
 > /flæt/
 
+![[flat.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a level surface; without raised areas or indentations.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A flat surface`: Một bề mặt phẳng
 - `Flat ground`: Mặt đất phẳng
+- `flat tire`: lốp xe bị xẹp / thủng
+- `fall flat`: hoàn toàn thất bại / không gây được tiếng cười
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The paper is flat.

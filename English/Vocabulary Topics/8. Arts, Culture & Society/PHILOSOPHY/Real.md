@@ -2,8 +2,10 @@
 *adj.*
 > /rɪəl/
 
+![[real.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Actually existing as a thing or occurring in fact; not imagined.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `real world`: thế giới thực
 - `real life`: đời thực
+- `come to terms with reality`: chấp nhận sự thật thực tế phũ phàng
+- `real estate`: bất động sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Is that diamond real or fake?

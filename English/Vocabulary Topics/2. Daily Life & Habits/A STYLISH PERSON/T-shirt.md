@@ -2,8 +2,10 @@
 *n.*
 > /ˈtiː ʃɜːrt/
 
+![[t_shirt.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A simple piece of clothing, usually with short sleeves and no collar.
@@ -13,7 +15,11 @@
 💡 T-shirt - áo có hình chữ T.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `plain T-shirt`: áo thun trơn\n- `graphic T-shirt`: áo thun in hình
+- `plain T-shirt`: áo thun trơn
+- `graphic T-shirt`: áo thun in hình
+- `crew-neck T-shirt`: áo thun cổ tròn
+- `V-neck T-shirt`: áo thun cổ tim/chữ V
+- `oversized T-shirt`: áo thun phom rộng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He gave me a souvenir T-shirt.

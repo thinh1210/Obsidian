@@ -2,8 +2,10 @@
 *n.*
 > /ˈhem.ɪ.sfɪər/
 
+![[hemisphere.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A half of a sphere.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `The Northern Hemisphere`: Bắc bán cầu
 - `The brain's left hemisphere`: Bán cầu não trái
+- `Southern Hemisphere`: Nam bán cầu
+- `cerebral hemisphere`: bán cầu đại não
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We live in the Northern Hemisphere.

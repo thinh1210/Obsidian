@@ -2,8 +2,10 @@
 *verb*
 > /voʊt/
 
+![[vote.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To express your choice in an election or meeting by casting a ballot or raising your hand.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `vote for someone`: bỏ phiếu cho ai đó
 - `right to vote`: quyền bỏ phiếu
+- `cast a vote`: bỏ một lá phiếu bầu
+- `vote in favor of`: bỏ phiếu thuận cho
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I plan to vote for the new mayor tomorrow.

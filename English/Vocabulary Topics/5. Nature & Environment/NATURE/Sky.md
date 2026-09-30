@@ -2,8 +2,10 @@
 *Noun*
 > /skaɪ/
 
+![[sky.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The region of the atmosphere and outer space seen from the earth.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clear sky`: bầu trời trong xanh
 - `night sky`: bầu trời đêm
+- `the sky is the limit`: không có giới hạn nào cả / bầu trời là giới hạn
+- `out of a clear blue sky`: hoàn toàn bất ngờ / sét đánh ngang tai
+- `starlit sky`: bầu trời ngập tràn ánh sao
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The sky is blue and cloudless today.

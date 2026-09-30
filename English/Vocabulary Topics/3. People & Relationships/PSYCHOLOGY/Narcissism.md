@@ -2,8 +2,10 @@
 *noun*
 > /ˈnɑːr.sə.sɪ.zəm/
 
+![[narcissism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Excessive interest in or admiration of oneself and one's physical appearance.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `malignant narcissism`: chứng ái kỷ ác tính
+- `healthy narcissism`: lòng tự tôn lành mạnh
+- `traits of narcissism`: các đặc điểm của tính ái kỷ
+- `narcissistic personality disorder`: rối loạn nhân cách ái kỷ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His narcissism makes him hard to work with.

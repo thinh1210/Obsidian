@@ -2,8 +2,10 @@
 *noun*
 > /æp/
 
+![[app.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A software application designed for a specific purpose, typically used on mobile devices or the Internet.

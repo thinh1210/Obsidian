@@ -2,8 +2,10 @@
 *noun*
 > /ˈkæp.ɪ.təl/
 
+![[capital.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wealth in the form of money or other assets owned by a person or organization for starting a company or investing
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `venture capital`: vốn đầu tư mạo hiểm
+- `seed capital`: nguồn vốn hạt giống ban đầu
+- `capital flight`: hiện tượng tháo chạy vốn ra nước ngoài
+- `human capital`: nguồn vốn nhân lực
+- `raise capital`: huy động thêm nguồn vốn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to raise capital to scale our startup.

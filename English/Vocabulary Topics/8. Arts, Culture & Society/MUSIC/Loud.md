@@ -2,8 +2,10 @@
 *adj.*
 > /laʊd/
 
+![[loud.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing or capable of producing much noise; easily heard.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `loud noise`: tiếng ồn lớn
 - `loud voice`: giọng nói to
+- `loud and clear`: rõ ràng, rành mạch
+- `loudspeaker`: loa phóng thanh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The music is too loud, can you turn it down?

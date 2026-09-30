@@ -2,8 +2,10 @@
 *noun*
 > /dʒiˈɒlədʒi/
 
+![[geology.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science that deals with the earth's physical structure and substance, its history, and the processes that act on it.

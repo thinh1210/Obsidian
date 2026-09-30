@@ -2,8 +2,10 @@
 *adjective.*
 > /sɪnˈθetɪk/
 
+![[synthetic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MATERIALS
+**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made by chemical synthesis, especially to imitate a natural product.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `synthetic fiber`: sợi tổng hợp
 - `synthetic material`: vật liệu tổng hợp, chất nhân tạo
+- `synthetic drug`: chất gây nghiện ma túy tổng hợp
+- `synthetic chemical`: hóa chất tổng hợp công nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Many athletic shirts are made of synthetic materials that wick away sweat.

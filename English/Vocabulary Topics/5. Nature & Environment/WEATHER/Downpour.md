@@ -2,8 +2,10 @@
 *noun*
 > /ˈdaʊnpɔː(r)/
 
+![[downpour.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A heavy fall of rain
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sudden downpour`: trận mưa rào bất chợt
+- `torrential downpour`: trận mưa rào xối xả như trút nước
+- `caught in a downpour`: bị mắc kẹt giữa cơn mưa rào tầm tã
+- `heavy downpour`: trận mưa trút nước nặng hạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We had to seek shelter to escape the sudden downpour.

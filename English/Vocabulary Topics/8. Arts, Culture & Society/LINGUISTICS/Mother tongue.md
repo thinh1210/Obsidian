@@ -2,8 +2,10 @@
 *noun*
 > /ˌmʌð.ə ˈtʌŋ/
 
+![[mother_tongue.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the first language that you learn when you are a child

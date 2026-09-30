@@ -2,8 +2,10 @@
 *v.*
 > /ˈfɔː.mjə.leɪt/
 
+![[formulate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To develop all the details of a plan for doing something
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `formulate a strategy`: xây dựng một chiến lược
 - `formulate a theory`: đề ra một lý thuyết
+- `formulate a hypothesis`: xây dựng một giả thuyết khoa học
+- `carefully formulate`: chuẩn bị và xây dựng cẩn trọng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The team is meeting to formulate a new marketing strategy.

@@ -2,8 +2,10 @@
 *Noun*
 > /ɪnˈhæbɪtənt/
 
+![[inhabitant.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or animal that lives in or occupies a place.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Local inhabitant`: Cư dân địa phương
+- `native inhabitant`: cư dân bản xứ
+- `permanent inhabitant`: cư dân sinh sống vĩnh viễn
+- `city inhabitant`: cư dân thành phố
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The island has only 500 inhabitants.

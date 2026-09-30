@@ -2,8 +2,10 @@
 *adj.*
 > /sɪˈmetrɪkl/
 
+![[symmetrical.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Made up of exactly similar parts facing each other or around an axis
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `highly symmetrical`: đối xứng cao
 - `symmetrical design`: thiết kế đối xứng
+- `bilateral symmetry`: tính đối xứng hai bên
+- `symmetrical layout`: bố cục đối xứng hài hòa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The building's front is perfectly symmetrical with a door in the middle.

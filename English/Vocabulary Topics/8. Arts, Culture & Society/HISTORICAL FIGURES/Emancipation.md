@@ -2,8 +2,10 @@
 *n.*
 > /ɪˌmænsɪˈpeɪʃn/
 
+![[emancipation.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or process of being set free from legal, social, or political restrictions; liberation
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `emancipation of slaves`: giải phóng nô lệ
 - `social emancipation`: giải phóng xã hội
+- `proclamation of emancipation`: tuyên ngôn giải phóng
+- `economic emancipation`: sự giải phóng về kinh tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The act led to the emancipation of thousands of workers.

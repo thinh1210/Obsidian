@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑː.tə.fækt/
 
+![[artifact.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object made by a human being, typically an item of cultural or historical interest.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ancient artifact`: cổ vật cổ đại
 - `cultural artifact`: hiện vật văn hóa
+- `priceless artifact`: cổ vật vô giá
+- `unearthed artifact`: hiện vật được khai quật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum displays artifacts found during the excavation.

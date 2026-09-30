@@ -2,8 +2,10 @@
 *noun*
 > /səˈlɪl.ə.kwi/
 
+![[soliloquy.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of speaking one's thoughts aloud when by oneself, especially in a play.

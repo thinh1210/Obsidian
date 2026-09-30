@@ -2,8 +2,10 @@
 *n*
 > /ˈkɒnsət/
 
+![[concert.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A musical performance given in public.
@@ -13,7 +15,11 @@
 💡 Concert - Con (cùng) cert (chắc chắn) -> cùng nhau đi xem hòa nhạc.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `attend a concert`: tham dự buổi hòa nhạc\n- `live concert`: hòa nhạc trực tiếp
+- `attend a concert`: tham dự buổi hòa nhạc
+- `live concert`: hòa nhạc trực tiếp
+- `sell-out concert`: buổi hòa nhạc cháy vé
+- `open-air concert`: buổi hòa nhạc ngoài trời
+- `orchestral concert`: buổi hòa nhạc giao hưởng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I got tickets for the rock concert.

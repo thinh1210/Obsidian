@@ -2,8 +2,10 @@
 *verb/noun*
 > /lɔːntʃ/
 
+![[launch.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To send a rocket, missile, or satellite into the air or space.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `launch pad`: bệ phóng
 - `space launch`: sự phóng tàu vũ trụ
+- `launch vehicle`: tên lửa đẩy / phương tiện phóng
+- `successful launch`: vụ phóng thành công
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* NASA is preparing to launch a new spacecraft to Mars.

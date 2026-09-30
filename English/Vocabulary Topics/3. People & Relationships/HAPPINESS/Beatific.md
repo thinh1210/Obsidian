@@ -2,8 +2,10 @@
 *adj.*
 > /ˌbiː.əˈtɪf.ɪk/
 
+![[beatific.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Blissfully happy (often implying a saintly or spiritual joy).
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `beatific smile`: nụ cười mãn nguyện
+- `beatific expression`: khuôn mặt rạng rỡ an lạc
+- `beatific vision`: hình ảnh thanh tịnh cực lạc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She had a beatific smile.

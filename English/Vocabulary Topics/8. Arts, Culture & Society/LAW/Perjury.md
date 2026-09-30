@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɜː.dʒər.i/
 
+![[perjury.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The offense of willfully telling an untruth in a court after having taken an oath.

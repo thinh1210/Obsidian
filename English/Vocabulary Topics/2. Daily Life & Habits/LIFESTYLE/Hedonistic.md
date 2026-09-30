@@ -2,8 +2,10 @@
 *adj.*
 > /ˌhiːdəˈnɪstɪk/
 
+![[hedonistic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Engaged in the pursuit of pleasure; sensually self-indulgent.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hedonistic lifestyle`: lối sống hưởng lạc
+- `hedonistic pursuit of pleasure`: sự theo đuổi lạc thú thuần túy
+- `indulge in hedonistic pleasures`: đắm chìm trong những thú vui hưởng thụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Their lifestyle is totally hedonistic.

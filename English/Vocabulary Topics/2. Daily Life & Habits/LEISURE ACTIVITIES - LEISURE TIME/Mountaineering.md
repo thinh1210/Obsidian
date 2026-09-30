@@ -2,8 +2,10 @@
 *n*
 > /ˌmaʊntəˈnɪərɪŋ/
 
+![[mountaineering.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or activity of climbing mountains.
@@ -13,7 +15,11 @@
 💡 Mountain (núi) + eering -> việc leo núi.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `mountaineering expedition`: chuyến thám hiểm leo núi\n- `mountaineering gear`: dụng cụ leo núi
+- `mountaineering expedition`: chuyến thám hiểm leo núi
+- `mountaineering gear`: dụng cụ leo núi
+- `high-altitude mountaineering`: leo núi độ cao hiểm trở
+- `mountaineering instructor`: huấn luyện viên môn leo núi
+- `safety in mountaineering`: an toàn trong leo núi mạo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mountaineering is a dangerous but thrilling hobby.

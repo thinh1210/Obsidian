@@ -2,8 +2,10 @@
 *noun*
 > /saɪˈkɑː.lə.dʒi/
 
+![[psychology.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The scientific study of the human mind and its functions.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `study psychology`: học tâm lý học
+- `clinical psychology`: tâm lý học lâm sàng
+- `reverse psychology`: tâm lý học đảo ngược (idiom)
+- `child psychology`: tâm lý học trẻ em
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am studying psychology.

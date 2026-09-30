@@ -2,8 +2,10 @@
 *verb*
 > /ˈeɪ.li.ə.neɪt/
 
+![[alienate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Cause (someone) to feel isolated or estranged.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `alienate friends`: làm xa lánh bạn bè
+- `feel alienated from`: cảm thấy bị cô lập xa lánh khỏi
+- `alienate people`: làm mất lòng khiến mọi người xa lánh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His arrogant behavior alienated his friends.

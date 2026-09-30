@@ -2,8 +2,10 @@
 *v.*
 > /ˈstʌdi/
 
+![[study.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To devote time and attention to acquiring knowledge on an academic subject
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `study hard`: học hành chăm chỉ
 - `study for an exam`: học ôn thi
+- `independent study`: tự học và tự tiến hành nghiên cứu cá nhân
+- `field of study`: lĩnh vực chuyên ngành nghiên cứu học tập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She needs to study for her math test tomorrow.

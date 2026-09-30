@@ -2,8 +2,10 @@
 *Idiom*
 > /ˌfleʃ ən ˈblʌd/
 
+![[flesh_and_blood.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Informal/Daily | **Chủ đề:** FAMILY
+**Level:** C1 | **Ngữ cảnh:** Informal/Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** People who are part of your own family.

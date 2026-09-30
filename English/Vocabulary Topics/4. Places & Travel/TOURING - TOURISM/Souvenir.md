@@ -2,8 +2,10 @@
 *Noun*
 > /ˌsuː.vəˈnɪr/
 
+![[souvenir.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something you buy or keep to help you remember a holiday or special event.
@@ -13,7 +15,11 @@
 💡 SU VƠ NI (Souvenir) mua quà lưu niệm.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `buy a souvenir`: mua quà lưu niệm\n- `souvenir shop`: cửa hàng lưu niệm
+- `buy a souvenir`: mua quà lưu niệm
+- `souvenir shop`: cửa hàng lưu niệm
+- `handcrafted souvenir`: món quà lưu niệm thủ công mỹ nghệ tinh xảo
+- `collect travel souvenirs`: sưu tầm quà kỷ niệm từ các chuyến đi
+- `souvenir postcard`: bưu thiếp lưu niệm các địa danh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought this mug as a souvenir from Paris.

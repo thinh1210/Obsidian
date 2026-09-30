@@ -2,8 +2,10 @@
 *Noun*
 > /kæʃ/
 
+![[cash.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money in the form of coins or notes rather than checks or credit cards.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay in cash`: trả bằng tiền mặt
 - `cash flow`: dòng tiền
+- `cash reserve`: khoản tiền mặt dự phòng khẩn cấp
+- `petty cash`: quỹ tiền mặt vặt chi tiêu nội bộ
+- `burn through cash`: đốt sạch tiền mặt một cách nhanh chóng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I don't have any cash on me, can I pay by card?

@@ -2,8 +2,10 @@
 *n.*
 > /ˈəʊnə(r)/
 
+![[owner.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who owns something.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `property owner`: chủ sở hữu bất động sản
 - `homeowner`: chủ nhà
+- `legal owner`: chủ sở hữu hợp pháp trên giấy tờ
+- `change of ownership`: thủ tục sang tên đổi quyền sở hữu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The property owner agreed to lower the price for a quick cash buyer.

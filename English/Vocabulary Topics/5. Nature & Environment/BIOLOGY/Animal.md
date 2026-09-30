@@ -2,8 +2,10 @@
 *noun*
 > /ˈæn.ɪ.məl/
 
+![[animal.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `wild animal`: động vật hoang dã
 - `animal kingdom`: vương quốc động vật
+- `animal behavior`: hành vi động vật
+- `endangered animal species`: các loài động vật có nguy cơ tuyệt chủng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dog is a very loyal animal.

@@ -1,13 +1,21 @@
 # Ticket
 
 *Noun*
+> /ˈtɪk.ɪt/
+
+![[ticket.mp3]]
 
 - **[EN]:** A piece of paper or card that gives the holder a certain right, especially to enter a place or travel.
 - **[VN]:** Vé (tàu, xe, xem phim).
 
-**Level:** A1
+**Level:** A1 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Đồ vật hàng ngày, Vật dụng chứa & Đồ chơi
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `just the ticket`: đúng thứ mình đang cần vô cùng chuẩn xác (idiom)
+- `season ticket`: vé xem trọn cả mùa giải
+- `parking ticket`: phiếu phạt vi phạm đỗ xe trái quy định
+
 ## Examples
 1. *I bought two tickets for the concert.*
    - Tôi đã mua hai chiếc vé cho buổi hòa nhạc.

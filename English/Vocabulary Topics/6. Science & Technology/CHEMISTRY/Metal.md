@@ -2,8 +2,10 @@
 *noun*
 > /ˈmet.əl/
 
+![[metal.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical element such as iron or copper that is typically a hard, shiny solid and conducts heat and electricity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `precious metal`: kim loại quý
 - `scrap metal`: phế liệu kim loại
+- `alkali metal`: kim loại kiềm
+- `transition metal`: kim loại chuyển tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gold is a heavy, soft, yellow metal.

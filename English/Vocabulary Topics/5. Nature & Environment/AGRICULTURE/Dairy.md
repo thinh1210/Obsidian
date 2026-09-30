@@ -2,8 +2,10 @@
 *n.*
 > /ˈdeə.ri/
 
+![[dairy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place on a farm where milk is kept and butter and cheese are made.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `dairy products`: sản phẩm bơ sữa
 - `dairy farm`: trang trại nuôi bò sữa
+- `dairy cattle`: bò sữa
+- `dairy industry`: ngành sản xuất bơ sữa
+- `dairy-free diet`: chế độ ăn không chứa sữa động vật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to buy milk, butter, and other dairy products.

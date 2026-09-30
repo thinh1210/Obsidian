@@ -2,8 +2,10 @@
 *noun*
 > /ˌhəʊ.mi.əʊˈsteɪ.sɪs/
 
+![[homeostasis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tendency toward a relatively stable equilibrium between interdependent elements, especially as maintained by physiological processes.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `maintain homeostasis`: duy trì cân bằng nội môi
 - `homeostasis mechanism`: cơ chế cân bằng nội môi
+- `homeostatic balance`: sự cân bằng nội môi
+- `disrupt homeostasis`: phá vỡ trạng thái cân bằng nội môi
+- `physiological homeostasis`: cân bằng nội môi sinh lý
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sweating is a key mechanism for maintaining body homeostasis.

@@ -2,8 +2,10 @@
 *v*
 > /ɪnˈθrɔːl/
 
+![[enthrall.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Capture the fascinated attention of.
@@ -13,7 +15,11 @@
 💡 En (vào) + thrall (nô lệ) -> biến ai thành nô lệ của sự say mê.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `be enthralled by`: bị say mê bởi\n- `enthralling performance`: màn trình diễn say đắm
+- `be enthralled by`: bị say mê bởi
+- `enthralling performance`: màn trình diễn say đắm
+- `enthrall the audience`: hớp hồn khán giả
+- `be enthralled with`: mê mẩn, say đắm với
+- `enthralling plot`: cốt truyện lôi cuốn, mê hoặc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The children were enthralled by the magic show.

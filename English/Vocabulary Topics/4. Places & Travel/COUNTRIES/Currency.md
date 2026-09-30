@@ -2,8 +2,10 @@
 *Noun*
 > /ˈkɜːrənsi/
 
+![[currency.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of money in general use in a particular country.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Foreign currency`: Ngoại tệ
+- `local currency`: đồng nội tệ
+- `currency exchange`: đổi ngoại tệ
+- `currency devaluation`: sự phá giá tiền tệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to exchange some currency.

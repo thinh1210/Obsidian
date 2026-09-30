@@ -2,8 +2,10 @@
 *Noun*
 > /tuːl/
 
+![[tool.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of equipment that you use with your hands to make or repair something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hand tool`: công cụ cầm tay
 - `essential tool`: công cụ thiết yếu
+- `handy tool`: công cụ tiện dụng đắc lực
+- `software tool`: công cụ phần mềm hỗ trợ
+- `tool of the trade`: đồ nghề chuyên môn của ngành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need a tool to open this box.

@@ -2,8 +2,10 @@
 *v.*
 > /ˈek.skə.veɪt/
 
+![[excavate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a hole or channel by digging; extract material from the ground.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `excavate a site`: khai quật một địa điểm
 - `carefully excavate`: khai quật cẩn thận
+- `excavate human remains`: khai quật hài cốt người
+- `excavation pit`: hố khai quật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Workers excavated the road to fix the water pipes.

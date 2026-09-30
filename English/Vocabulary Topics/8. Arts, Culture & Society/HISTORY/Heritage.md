@@ -2,8 +2,10 @@
 *noun*
 > /ˈher.ɪ.tɪdʒ/
 
+![[heritage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Valued objects and qualities such as historic buildings and cultural traditions that have been passed down from previous generations.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cultural heritage`: di sản văn hóa
 - `world heritage site`: di sản thế giới
+- `preserve cultural heritage`: bảo tồn di sản văn hóa
+- `intangible cultural heritage`: di sản văn hóa phi vật thể
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We must preserve our historical buildings as part of our national heritage.

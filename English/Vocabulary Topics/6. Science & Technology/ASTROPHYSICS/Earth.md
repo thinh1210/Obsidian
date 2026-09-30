@@ -2,8 +2,10 @@
 *noun*
 > /ɜːθ/
 
+![[earth.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The planet we live on, the third planet from the sun.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `planet Earth`: hành tinh Trái Đất
 - `earth's atmosphere`: bầu khí quyển của Trái Đất
+- `Earth's magnetic field`: từ trường của Trái Đất
+- `orbit the Earth`: quay quanh Trái Đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Earth is the only planet known to support life.

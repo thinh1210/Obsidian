@@ -2,8 +2,10 @@
 *v*
 > /riːd/
 
+![[read.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Look at and comprehend the meaning of written or printed matter.
@@ -13,7 +15,11 @@
 💡 Read - rít một hơi để lấy sức đọc truyện.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `read a book`: đọc sách\n- `read aloud`: đọc to
+- `read a book`: đọc sách
+- `read aloud`: đọc to
+- `read between the lines`: hiểu được ẩn ý sâu xa
+- `read extensively`: đọc sách rộng rãi nhiều lĩnh vực
+- `avid reader`: độc giả say mê đọc sách
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I read before going to bed.

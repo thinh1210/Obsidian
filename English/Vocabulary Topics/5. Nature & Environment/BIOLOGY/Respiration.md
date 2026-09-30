@@ -2,8 +2,10 @@
 *noun*
 > /ˌres.pɪˈreɪ.ʃən/
 
+![[respiration.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of breathing, or the chemical breakdown of nutrients to release energy in cells.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cellular respiration`: hô hấp tế bào
 - `aerobic respiration`: hô hấp hiếu khí
+- `anaerobic respiration`: hô hấp kỵ khí
+- `artificial respiration`: hô hấp nhân tạo
+- `respiratory system`: hệ hô hấp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Aerobic respiration requires oxygen to produce energy.

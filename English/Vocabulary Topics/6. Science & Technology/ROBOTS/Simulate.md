@@ -2,8 +2,10 @@
 *verb.*
 > /ˈsɪm.jə.leɪt/
 
+![[simulate.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To recreate the conditions of a situation, especially for testing or training
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `simulate flight`: mô phỏng chuyến bay
+- `simulate movement`: mô phỏng chuyển động
+- `computer simulation`: mô phỏng máy tính
+- `simulate real-world conditions`: mô phỏng điều kiện thực tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Computer programs can simulate the movements of robots.

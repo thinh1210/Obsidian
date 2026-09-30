@@ -2,8 +2,10 @@
 *noun*
 > /ˌhɜːmɪˈnjuːtɪks/
 
+![[hermeneutics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of knowledge that deals with interpretation, especially of the Bible or literary texts.

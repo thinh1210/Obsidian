@@ -2,8 +2,10 @@
 *noun*
 > /skaɪ/
 
+![[sky.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The space above the earth that you can see when you look up
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `clear sky`: bầu trời quang đãng
+- `the sky's the limit`: không có bất kỳ giới hạn nào
+- `blue sky thinking`: lối tư duy sáng tạo không giới hạn
+- `reach for the sky`: vươn lên đỉnh cao mơ ước
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There is not a single cloud in the sky.

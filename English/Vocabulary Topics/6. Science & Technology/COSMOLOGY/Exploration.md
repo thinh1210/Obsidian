@@ -2,8 +2,10 @@
 *Noun*
 > /ˌek.spləˈreɪ.ʃən/
 
+![[exploration.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of traveling in or through an unfamiliar area in order to learn about it.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `space exploration`: thám hiểm vũ trụ
 - `exploration mission`: nhiệm vụ thăm dò
+- `lunar exploration`: thám hiểm Mặt Trăng
+- `deep space exploration`: thám hiểm không gian sâu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Space exploration has always fascinated humanity.

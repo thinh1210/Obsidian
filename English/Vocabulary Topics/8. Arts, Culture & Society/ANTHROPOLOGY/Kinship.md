@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɪn.ʃɪp/
 
+![[kinship.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Blood relationship; sharing of characteristics or origins.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `kinship system`: hệ thống thân tộc
 - `kinship ties`: mối quan hệ thân tộc
+- `kinship terminology`: thuật ngữ xưng hô thân tộc
+- `kinship network`: mạng lưới họ hàng thân tộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He felt a strong sense of kinship with his new coworkers.

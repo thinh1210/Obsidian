@@ -2,8 +2,10 @@
 *noun.*
 > /wʊl/
 
+![[wool.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fine, soft, curly hair forming the coat of a sheep, goat, or similar animal, especially when prepared for making cloth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pure wool`: len nguyên chất
 - `wool sweater`: áo len
+- `pull the wool over someone's eyes`: lừa bịp che mắt ai đó (idiom)
+- `pure merino wool`: len lông cừu merino hảo hạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought a warm wool sweater for the winter.

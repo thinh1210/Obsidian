@@ -2,8 +2,10 @@
 *v*
 > /ˈtrævl/
 
+![[travel.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a journey, typically of some length.
@@ -13,7 +15,11 @@
 💡 Travel - Trà và vờ đi du lịch.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `travel abroad`: du lịch nước ngoài\n- `travel light`: đi du lịch mang ít đồ
+- `travel abroad`: du lịch nước ngoài
+- `travel light`: đi du lịch mang ít đồ
+- `travel bug`: niềm đam mê cuồng nhiệt với xê dịch
+- `travel broadens the mind`: đi một ngày đàng học một sàng khôn
+- `off-the-beaten-path travel`: du lịch khám phá những nẻo đường hoang sơ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We plan to travel to Japan.

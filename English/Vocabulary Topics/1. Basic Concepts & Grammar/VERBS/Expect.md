@@ -2,8 +2,10 @@
 *Verb*
 > /ɪkˈspekt/
 
+![[expect.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To think or believe something will happen.
@@ -13,7 +15,10 @@
 💡 Ếch béc (expect) sủa là mong khách tới.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `expect a child`: mang thai\n- `highly expected`: được kỳ vọng cao
+- `expect a child`: mang thai
+- `highly expected`: được kỳ vọng cao
+- `expect the unexpected`: lường trước những điều bất ngờ
+- `exceed expectations`: vượt xa sự mong đợi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I expect rain.

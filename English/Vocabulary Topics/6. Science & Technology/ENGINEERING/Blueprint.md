@@ -2,8 +2,10 @@
 *noun*
 > /ˈbluːprɪnt/
 
+![[blueprint.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A design plan or other technical drawing.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `architectural blueprint`: bản vẽ kiến trúc
 - `blueprint for success`: kế hoạch chi tiết để thành công
+- `engineering blueprint`: bản vẽ kỹ thuật chi tiết
+- `draft a blueprint`: phác thảo bản thiết kế chi tiết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The builder carefully studied the blueprint before pouring the concrete foundation.

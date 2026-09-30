@@ -2,8 +2,10 @@
 *n.*
 > /ˈlaɪfstaɪl/
 
+![[lifestyle.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which a person or group lives.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `healthy lifestyle`: lối sống lành mạnh
+- `sedentary lifestyle`: lối sống ít vận động, ngồi nhiều
+- `lifestyle changes`: những thay đổi trong thói quen sinh hoạt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has an active lifestyle.

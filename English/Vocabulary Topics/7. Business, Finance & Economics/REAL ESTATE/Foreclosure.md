@@ -2,8 +2,10 @@
 *n.*
 > /fɔːˈkləʊʒə(r)/
 
+![[foreclosure.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of taking possession of a mortgaged property when the mortgagor fails to keep up mortgage payments.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `foreclosure proceedings`: thủ tục tịch thu tài sản thế chấp
 - `foreclosure rate`: tỷ lệ tịch thu tài sản thế chấp
+- `foreclosure proceeding`: thủ tục tố tụng tịch biên phát mãi tài sản
+- `face foreclosure`: đối diện nguy cơ bị ngân hàng siết nhà
+- `foreclosed property`: bất động sản bị ngân hàng tịch thu phát mãi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The family had to move out when their house went into foreclosure.

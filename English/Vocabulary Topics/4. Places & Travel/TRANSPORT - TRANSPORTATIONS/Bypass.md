@@ -2,8 +2,10 @@
 *noun*
 > /ˈbaɪpæs/
 
+![[bypass.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A road passing round a town or its center to provide an alternative route for through traffic.
@@ -16,6 +18,8 @@
 - `northern bypass`: đường tránh phía bắc
 - `build a bypass`: xây dựng đường tránh
 - `bypass road`: đường tránh
+- `highway bypass`: đường vành đai tránh cao tốc
+- `bypass congestion`: đi đường tránh để thoát ùn tắc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They built a bypass to reduce heavy traffic in the town center.

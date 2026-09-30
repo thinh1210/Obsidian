@@ -2,8 +2,10 @@
 *n.*
 > /ɪˌpɪs.tɪˈmɒl.ə.dʒi/
 
+![[epistemology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Tinh thần tự học, Tri thức luận & Thực tiễn học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of philosophy concerned with the theory of knowledge — its nature, scope, and limits.

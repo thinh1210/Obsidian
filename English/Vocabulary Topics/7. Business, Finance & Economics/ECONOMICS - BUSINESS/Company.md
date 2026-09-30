@@ -2,8 +2,10 @@
 *noun*
 > /ˈkʌmpəni/
 
+![[company.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an organization that sells goods or services in order to make money.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `multinational company`: công ty đa quốc gia
 - `set up a company`: thành lập một công ty
+- `parent company`: công ty mẹ
+- `subsidiary company`: công ty con
+- `joint-stock company`: công ty cổ phần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She works for a local software company near her house.

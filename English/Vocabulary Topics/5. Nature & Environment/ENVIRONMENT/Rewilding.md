@@ -2,8 +2,10 @@
 *n.*
 > /ˌriːˈwaɪldɪŋ/
 
+![[rewilding.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of protecting an environment and returning it to its natural state, for example by bringing back wild animals that used to live there.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rewilding projects`: các dự án tái hoang dã
 - `rewilding process`: quá trình tái hoang dã
+- `rewilding initiatives`: các sáng kiến phục hồi hoang dã
+- `urban rewilding`: phủ xanh và tái lập sinh thái hoang dã đô thị
+- `benefits of rewilding`: lợi ích của việc tái hoang dã môi trường tự nhiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Rewilding programs have successfully reintroduced wolves to the valley.

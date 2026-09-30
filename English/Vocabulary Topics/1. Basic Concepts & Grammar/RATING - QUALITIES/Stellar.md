@@ -2,8 +2,10 @@
 *adj*
 > /ˈstel.ər/
 
+![[stellar.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exceptionally good; outstanding.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stellar performance`: màn trình diễn xuất sắc
+- `stellar reputation`: danh tiếng lẫy lừng
+- `stellar cast`: dàn diễn viên toàn sao
+- `stellar career`: sự nghiệp rực rỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The team had a stellar season.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈaʊtriːtʃ/
 
+![[outreach.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organization's involvement with or activity in the community, especially to offer services or promote products.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `community outreach`: tiếp cận cộng đồng
 - `outreach program`: chương trình tiếp cận
+- `expand outreach`: mở rộng phạm vi tiếp cận
+- `outreach effort`: nỗ lực tiếp cận đối tượng
+- `direct outreach`: tiếp cận trực tiếp với khách hàng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The school has an excellent community outreach program.

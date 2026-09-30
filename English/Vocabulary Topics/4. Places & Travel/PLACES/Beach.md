@@ -2,8 +2,10 @@
 *n.*
 > /biːtʃ/
 
+![[beach.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sandy shore by the ocean.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sandy beach`: bãi biển cát trắng
+- `crowded beach`: bãi biển đông đúc
+- `walk on the beach`: đi dạo trên bờ cát
+- `beachfront property`: bất động sản mặt tiền biển
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We built a sandcastle on the beach.

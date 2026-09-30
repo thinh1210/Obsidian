@@ -2,8 +2,10 @@
 *v.*
 > /ˈbrɔːdkɑːst/
 
+![[broadcast.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Transmit (a program or information) by radio or television.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `live broadcast`: phát sóng trực tiếp
 - `broadcast network`: mạng lưới phát sóng
+- `simultaneous broadcast`: phát sóng trực tiếp đồng thời
+- `public broadcast`: chương trình phát thanh truyền hình công cộng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The concert will be broadcast live tomorrow night.

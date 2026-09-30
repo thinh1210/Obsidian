@@ -2,8 +2,10 @@
 *adjective.*
 > /ˈlæmɪneɪtɪd/
 
+![[laminated.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MATERIALS
+**Level:** C1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Manufactured by bonding together two or more layers of material.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `laminated wood`: gỗ dán nhiều lớp, gỗ ép
 - `laminated glass`: kính dán nhiều lớp (kính an toàn)
+- `laminated flooring`: sàn gỗ ép công nghiệp
+- `laminated card`: thẻ nhựa ép nhiệt bảo vệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I got my degree certificate laminated to prevent it from getting wet.

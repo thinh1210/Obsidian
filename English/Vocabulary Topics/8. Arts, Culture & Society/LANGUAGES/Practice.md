@@ -2,8 +2,10 @@
 *v./n.*
 > /ˈpræktɪs/
 
+![[practice.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To perform an activity or exercise a skill repeatedly or regularly in order to improve
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `practice speaking`: luyện nói
+- `put into practice`: đưa vào thực hành thực tế
+- `deliberate practice`: sự luyện tập có chủ đích và kỷ luật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should practice English every day.

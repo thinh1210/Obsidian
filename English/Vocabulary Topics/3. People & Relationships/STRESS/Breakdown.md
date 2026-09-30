@@ -2,8 +2,10 @@
 *n.*
 > /ˈbreɪkdaʊn/
 
+![[breakdown.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden collapse in physical or mental health
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mental breakdown`: suy sụp tinh thần
 - `nervous breakdown`: suy nhược thần kinh
+- `emotional breakdown`: suy sụp cảm xúc tột cùng
+- `breakdown in communication`: sự bế tắc ngắt quãng trong giao tiếp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She had a nervous breakdown.

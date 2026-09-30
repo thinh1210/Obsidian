@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɔːrtˌfiːzər/
 
+![[tortfeasor.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who commits a tort (a wrongful civil act that causes harm to another)

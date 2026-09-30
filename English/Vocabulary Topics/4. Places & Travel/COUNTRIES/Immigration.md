@@ -2,8 +2,10 @@
 *Noun*
 > /ˌɪmɪˈɡreɪʃn/
 
+![[immigration.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of coming to live permanently in a foreign country.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Immigration policy`: Chính sách nhập cư
+- `illegal immigration`: nhập cư bất hợp pháp
+- `immigration officer`: viên chức xuất nhập cảnh
+- `curb immigration`: kiềm chế làn sóng nhập cư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Immigration control at the airport took a long time.

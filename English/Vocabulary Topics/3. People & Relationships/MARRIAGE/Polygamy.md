@@ -2,8 +2,10 @@
 *noun*
 > /pəˈlɪɡəmi/
 
+![[polygamy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or custom of having more than one wife or husband at the same time.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Practice polygamy`: Thực hành chế độ đa phu/thê
+- `outlaw polygamy`: cấm chế độ đa thê / đa phu
+- `oppose polygamy`: phản đối chế độ đa thê
+- `history of polygamy`: lịch sử của chế độ đa phu thê
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Polygamy is illegal in this country.

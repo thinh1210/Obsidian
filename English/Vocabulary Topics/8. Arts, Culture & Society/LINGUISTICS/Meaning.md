@@ -2,8 +2,10 @@
 *noun*
 > /ˈmiː.nɪŋ/
 
+![[meaning.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the express representation or significance of a word, phrase, sentence, or action

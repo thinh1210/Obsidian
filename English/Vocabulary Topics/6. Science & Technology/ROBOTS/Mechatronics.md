@@ -2,8 +2,10 @@
 *noun.*
 > /ˌmek.əˈtrɑː.nɪks/
 
+![[mechatronics.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of engineering that focuses on the design and manufacture of products combining mechanical and electronic components
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mechatronics engineering`: ngành kỹ thuật cơ điện tử
+- `mechatronic system`: hệ thống cơ điện tử
+- `mechatronics design`: thiết kế cơ điện tử
+- `applied mechatronics`: cơ điện tử ứng dụng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Mechatronics is crucial for designing modern industrial robotic arms.

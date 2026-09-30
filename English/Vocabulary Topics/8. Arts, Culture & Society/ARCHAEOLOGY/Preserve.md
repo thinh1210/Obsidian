@@ -2,8 +2,10 @@
 *verb*
 > /prɪˈzɜːv/
 
+![[preserve.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep something in its original state or in good condition
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `preserve monuments`: bảo tồn di tích
 - `preserve artifacts`: bảo tồn cổ vật
+- `well-preserved`: được bảo tồn nguyên vẹn
+- `preserve for posterity`: bảo tồn cho muôn đời sau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is important to preserve national traditions.

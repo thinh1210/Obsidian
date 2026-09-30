@@ -2,8 +2,10 @@
 *noun*
 > /seɪl/
 
+![[sale.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The exchange of a commodity for money; the action of selling something.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `on sale`: đang giảm giá
 - `clearance sale`: đợt thanh lý xả kho
+- `sales figure`: số liệu bán hàng
+- `point of sale (POS)`: điểm bán lẻ trực tiếp
+- `boost sales`: thúc đẩy doanh số bán lẻ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I bought these jeans on sale.

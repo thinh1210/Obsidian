@@ -2,8 +2,10 @@
 *n.*
 > /ˈprɒfɪt/
 
+![[profit.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money that you earn in trade or business after paying the costs of producing and selling goods

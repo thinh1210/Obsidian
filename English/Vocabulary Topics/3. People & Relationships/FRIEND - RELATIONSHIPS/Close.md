@@ -2,8 +2,10 @@
 *adj*
 > /kloʊs/
 
+![[close.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bound by mutual affection, loyalty, and intimacy.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `close friends`: bạn thân
+- `close-knit group`: nhóm bạn bè gắn kết khăng khít
+- `remain close friends`: vẫn luôn là bạn bè thân thiết
+- `draw close to`: xích lại gần gũi với ai
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are very close.

@@ -2,8 +2,10 @@
 *Noun*
 > /ˈsɒlvənsi/
 
+![[solvency.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The possession of assets excess of liabilities; ability to pay one's debts.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `maintain solvency`: duy trì khả năng thanh toán
 - `solvency ratio`: tỷ lệ khả năng thanh toán
+- `threat to solvency`: nguy cơ gây mất an toàn thanh toán
+- `solvency margin`: biên độ an toàn khả năng thanh toán nợ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Personal solvency requires you to live below your means and avoid bad debts.

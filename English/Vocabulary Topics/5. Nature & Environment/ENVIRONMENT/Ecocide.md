@@ -2,8 +2,10 @@
 *n.*
 > /ˈiːkəʊsaɪd/
 
+![[ecocide.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** ENVIRONMENT
+**Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Destruction of the natural environment, especially when deliberate.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `commit ecocide`: phạm tội hủy hoại sinh thái
 - `laws against ecocide`: luật chống hủy hoại sinh thái
+- `stop ecocide`: chấm dứt hành vi hủy hoại sinh thái
+- `environmental ecocide`: thảm họa diệt chủng sinh thái
+- `recognize ecocide as a crime`: công nhận hủy hoại môi sinh là tội ác hình sự
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Some activists are pushing to make ecocide an international crime.

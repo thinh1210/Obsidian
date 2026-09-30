@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɜːrmɪnl/
 
+![[terminal.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A departure and arrival station on a public transport route, especially at an airport.
@@ -16,6 +18,7 @@
 - `airport terminal`: nhà ga sân bay
 - `container terminal`: cảng container
 - `arrival terminal`: ga đến
+- `ferry terminal`: bến đỗ đón trả khách đi phà
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are departing from Terminal 2.

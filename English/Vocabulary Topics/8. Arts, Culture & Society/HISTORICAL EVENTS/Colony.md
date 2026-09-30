@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɑː.lə.ni/
 
+![[colony.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A country or area under the full or partial political control of another country and occupied by settlers from that country.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `establish a colony`: thành lập thuộc địa
 - `former colony`: cựu thuộc địa
+- `penal colony`: thuộc địa dùng để đày ải phạm nhân
+- `crown colony`: thuộc địa chịu sự cai trị trực tiếp của hoàng gia
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Ants live in a structured colony where every member has a specific role.

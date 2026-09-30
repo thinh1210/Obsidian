@@ -2,8 +2,10 @@
 *noun*
 > /ˈvɪk.tɪm/
 
+![[victim.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person harmed or killed as a result of a crime or accident.

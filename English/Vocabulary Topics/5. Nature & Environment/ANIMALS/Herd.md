@@ -2,8 +2,10 @@
 *noun*
 > /hɜːd/
 
+![[herd.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large group of people or animals, especially hoofed mammals.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `herd of cattle`: đàn gia súc
 - `herd immunity`: miễn dịch cộng đồng
+- `herd mentality`: tâm lý bầy đàn
+- `follow the herd`: hùa theo đám đông
+- `herd cattle`: chăn dắt đàn gia súc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched a huge herd of wildebeest crossing the river.

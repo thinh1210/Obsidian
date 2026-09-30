@@ -2,8 +2,10 @@
 *n.*
 > /triː/
 
+![[tree.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A wooden perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plant trees`: trồng cây
 - `climb a tree`: leo cây
+- `bark up the wrong tree`: gõ nhầm cửa / trách nhầm người / đoán sai hướng
+- `plant a tree`: trồng một cái cây
+- `money doesn't grow on trees`: tiền không phải là lá đa / tiền không tự nhiên mà có
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Birds build nests in the tree.

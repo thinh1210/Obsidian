@@ -2,8 +2,10 @@
 *verb*
 > /pruːn/
 
+![[prune.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To trim a tree, shrub, or bush by cutting away dead or overgrown branches.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `prune branches`: tỉa cành
 - `prune roses`: tỉa hoa hồng
+- `prune away dead wood`: cắt tỉa cành cây khô chết / loại bỏ nhân tố trì trệ
+- `prune costs`: cắt giảm chi phí hoạt động
+- `carefully prune shrubs`: tỉa tót cẩn thận các bụi cây cảnh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should prune the apple trees in late winter.

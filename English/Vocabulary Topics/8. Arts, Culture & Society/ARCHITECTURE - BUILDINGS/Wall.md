@@ -2,8 +2,10 @@
 *n.*
 > /wɔːl/
 
+![[wall.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A continuous upright structure of brick or stone that encloses or divides an area
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `brick wall`: bức tường gạch
 - `stone wall`: bức tường đá
+- `retaining wall`: tường chắn đất
+- `curtain wall`: vách kính bao che ngoài công trình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He hung the painting on the living room wall.

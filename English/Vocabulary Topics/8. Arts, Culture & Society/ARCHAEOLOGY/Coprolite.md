@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒprəlaɪt/
 
+![[coprolite.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of fossilized dung
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fossilized coprolite`: phân hóa thạch
 - `dinosaur coprolite`: phân hóa thạch khủng long
+- `coprolite analysis`: phân tích phân hóa thạch
+- `dietary coprolite evidence`: bằng chứng chế độ ăn qua phân hóa thạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The museum has a collection of prehistoric coprolites.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈmeɪk ʌp/
 
+![[make_up.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cosmetics applied to the face to enhance appearance.
@@ -13,7 +15,11 @@
 💡 Make-up - làm (make) lên (up) cho đẹp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `wear make-up`: trang điểm\n- `put on make-up`: bôi đồ trang điểm
+- `wear make-up`: trang điểm
+- `put on make-up`: bôi đồ trang điểm
+- `apply make-up`: trang điểm
+- `subtle make-up`: lối trang điểm nhẹ nhàng, tinh tế
+- `heavy make-up`: trang điểm đậm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She doesn't wear much make-up.

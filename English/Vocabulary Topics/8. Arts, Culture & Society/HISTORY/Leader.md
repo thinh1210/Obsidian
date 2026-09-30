@@ -2,8 +2,10 @@
 *noun*
 > /ˈliː.dər/
 
+![[leader.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The person who leads or commands a group, organization, or country.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political leader`: nhà lãnh đạo chính trị
 - `military leader`: nhà lãnh đạo quân sự
+- `visionary leader`: nhà lãnh đạo có tầm nhìn xa trông rộng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A good leader listens to the opinions of their team.

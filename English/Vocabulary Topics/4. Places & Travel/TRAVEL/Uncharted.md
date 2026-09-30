@@ -2,8 +2,10 @@
 *adjective*
 > /ʌnˈtʃɑː.tɪd/
 
+![[uncharted.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not recorded on a map

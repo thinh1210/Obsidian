@@ -2,8 +2,10 @@
 *noun*
 > /tæks/
 
+![[tax.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A compulsory contribution to state revenue, levied by the government on personal income and business profits
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `income tax`: thuế thu nhập
+- `tax evasion`: hành vi trốn thuế phi pháp
+- `tax exemption`: trường hợp được miễn giảm thuế
+- `income tax return`: bản kê khai quyết toán thuế thu nhập
+- `levy a tax`: đánh thuế / áp thuế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The government is going to raise the tax on tobacco.

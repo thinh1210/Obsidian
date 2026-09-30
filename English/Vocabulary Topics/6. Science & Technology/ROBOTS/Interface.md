@@ -2,8 +2,10 @@
 *noun.*
 > /ˈɪn.t̬ɚ.feɪs/
 
+![[interface.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS
+**Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point where two systems, subjects, organizations, etc., meet and interact
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `user interface`: giao diện người dùng
+- `brain-computer interface (BCI)`: giao diện não - máy tính
+- `graphic user interface (GUI)`: giao diện đồ họa người dùng
+- `touch interface`: giao diện cảm ứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot's control panel has a friendly user interface.

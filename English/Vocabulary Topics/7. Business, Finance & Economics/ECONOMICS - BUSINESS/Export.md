@@ -2,8 +2,10 @@
 *verb*
 > /ˈekspɔːrt/
 
+![[export.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to send goods or services to another country for sale.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `export market`: thị trường xuất khẩu
 - `promote exports`: thúc đẩy xuất khẩu
+- `net export`: xuất khẩu ròng
+- `export quota`: hạn ngạch xuất khẩu
+- `export-led growth`: tăng trưởng dựa vào xuất khẩu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Vietnam is famous for exporting coffee and rice.

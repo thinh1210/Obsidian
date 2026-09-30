@@ -2,8 +2,10 @@
 *v.*
 > /ˈsʌbdʒʊɡeɪt/
 
+![[subjugate.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To bring under domination or control, especially by conquest
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `subjugate the population`: khuất phục người dân
 - `subjugate a nation`: bắt một quốc gia làm nô dịch
+- `subjugate the populace`: áp bức đô hộ quần chúng nhân dân
+- `refuse to be subjugated`: quyết không chịu khuất phục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The empire sought to subjugate neighboring tribes.

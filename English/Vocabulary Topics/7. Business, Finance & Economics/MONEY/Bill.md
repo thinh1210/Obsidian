@@ -2,8 +2,10 @@
 *noun*
 > /bɪl/
 
+![[bill.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A printed or written statement of the money owed for goods or services
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay the electricity bill`: trả hóa đơn tiền điện
+- `foot the bill`: đứng ra thanh toán toàn bộ hóa đơn
+- `run up a huge bill`: để phát sinh hóa đơn tiền bạc khổng lồ
+- `utility bill`: hóa đơn điện nước dịch vụ công cộng
+- `split the bill`: chia đều tiền hóa đơn giữa mọi người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The waiter brought us the bill after we finished eating.

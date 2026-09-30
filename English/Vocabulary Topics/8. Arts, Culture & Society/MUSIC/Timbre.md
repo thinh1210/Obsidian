@@ -2,8 +2,10 @@
 *n.*
 > /ˈtæm.brə/
 
+![[timbre.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The character or quality of a musical sound or voice as distinct from its pitch and intensity.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `vocal timbre`: âm sắc giọng hát
 - `distinctive timbre`: âm sắc đặc trưng
+- `unique timbre`: âm sắc độc nhất vô nhị
+- `rich instrumental timbre`: chất âm nhạc cụ phong phú dày dặn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Every musical instrument has a unique timbre that allows us to distinguish it from others.

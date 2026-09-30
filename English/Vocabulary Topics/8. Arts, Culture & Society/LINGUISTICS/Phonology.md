@@ -2,8 +2,10 @@
 *noun*
 > /fəˈnɒl.ə.dʒi/
 
+![[phonology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of the system of speech sounds in a language or in general

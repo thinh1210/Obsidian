@@ -1,13 +1,21 @@
 # Segment
 
 *Noun*
+> /ˈseɡ.mənt/
+
+![[segment.mp3]]
 
 - **[EN]:** Each of the parts into which something is or may be divided.
 - **[VN]:** Phân khúc, đoạn, phần.
 
-**Level:** B2
+**Level:** B2 | **Ngữ cảnh:** General | **Chủ đề:** OTHERS | **Phân nhóm:** Cấu trúc, Phân loại, Thành phần & Thuộc tính
 
 ---
+## 🧩 Cụm từ thường đi kèm (Collocations)
+- `market segment`: phân khúc thị trường mục tiêu
+- `line segment`: đoạn thẳng hình học xác định hai đầu
+- `fastest-growing segment`: phân khúc tăng trưởng bứt phá nhất
+
 ## Examples
 1. *The orange is divided into segments.*
    - Quả cam được chia thành các múi (phần).

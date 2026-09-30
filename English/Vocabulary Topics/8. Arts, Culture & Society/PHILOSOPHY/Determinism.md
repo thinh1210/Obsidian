@@ -2,8 +2,10 @@
 *n.*
 > /dɪˈtɜː.mɪ.nɪ.zəm/
 
+![[determinism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Thuyết tất định, Nhị nguyên luận & Mục đích luận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The doctrine that all events, including human action, are determined by external causes.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hard determinism`: thuyết quyết định nghiêm ngặt
 - `genetic determinism`: thuyết quyết định di truyền
+- `biological determinism`: thuyết tất định sinh học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Believing in fate is somewhat similar to holding a belief in determinism.

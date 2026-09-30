@@ -2,8 +2,10 @@
 *n.*
 > /ˌcɒləˈneɪd/
 
+![[colonnade.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A row of columns supporting a roof, an entablature, or arcade
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `classical colonnade`: hàng cột cổ điển
 - `stone colonnade`: hàng cột đá
+- `flanked by a colonnade`: được bao bọc hai bên bởi hàng cột
+- `marble colonnade`: hàng cột bằng đá cẩm thạch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We walked shaded by the grand colonnade surrounding the square.

@@ -2,8 +2,10 @@
 *n.*
 > /mjuːˌnɪsɪˈpæləti/
 
+![[municipality.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A city or town that has corporate status and local government.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local municipality`: chính quyền đô thị địa phương
+- `municipality services`: các dịch vụ công cộng đô thị
+- `join a municipality`: sáp nhập vào khu đô thị tự quản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The municipality handles waste management.

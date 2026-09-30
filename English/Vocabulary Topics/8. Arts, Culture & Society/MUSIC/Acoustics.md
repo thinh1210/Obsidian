@@ -2,8 +2,10 @@
 *n.*
 > /əˈkuː.stɪks/
 
+![[acoustics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The properties or qualities of a room or building that determine how sound is transmitted in it.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `excellent acoustics`: đặc tính âm thanh tuyệt vời
 - `room acoustics`: âm học của phòng
+- `hall acoustics`: chất lượng âm học của khán phòng
+- `improve acoustics`: cải thiện chất lượng âm học
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The opera house is famous for its perfect acoustics.

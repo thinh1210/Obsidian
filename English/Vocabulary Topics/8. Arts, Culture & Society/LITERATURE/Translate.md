@@ -2,8 +2,10 @@
 *verb*
 > /trænzˈleɪt/
 
+![[translate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Dịch thuật văn học & Bản quyền tác phẩm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Express the sense of words or text in another language.

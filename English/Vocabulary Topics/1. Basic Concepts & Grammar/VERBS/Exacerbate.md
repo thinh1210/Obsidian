@@ -2,8 +2,10 @@
 *Verb*
 > /ɪɡˈzæs.ə.beɪt/
 
+![[exacerbate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something that is already bad even worse.
@@ -13,7 +15,10 @@
 💡 Ích xác sơ bay (exacerbate) làm tình hình tồi tệ hơn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `exacerbate the problem`: làm vấn đề tồi tệ hơn\n- `exacerbate tensions`: làm căng thẳng thêm
+- `exacerbate the problem`: làm vấn đề tồi tệ hơn
+- `exacerbate tensions`: làm căng thẳng thêm
+- `exacerbate the crisis`: làm trầm trọng thêm cuộc khủng hoảng
+- `exacerbate the situation`: làm tình hình thêm tồi tệ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't exacerbate the situation.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈsteɪ.ʃən/
 
+![[station.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where trains or buses stop.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `train station`: ga xe lửa
+- `subway station`: nhà ga tàu điện ngầm
+- `police station`: đồn trụ sở cảnh sát
+- `gas station`: cây xăng trạm tiếp nhiên liệu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I am waiting at the bus station.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɡɑːr.mənt/
 
+![[garment.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An item of clothing.
@@ -13,7 +15,10 @@
 💡 Garment -> Gà mặn -> Mặc đồ đẹp đi ăn gà mặn.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `a woven garment: đồ dệt`
+- `a woven garment`: đồ dệt
+- `garment bag`: túi bọc bảo quản quần áo du lịch
+- `handcrafted garment`: trang phục may đo thủ công
+- `garment factory`: xưởng may quần áo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This garment should be dry-cleaned only.

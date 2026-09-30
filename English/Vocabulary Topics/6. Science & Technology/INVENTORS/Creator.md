@@ -2,8 +2,10 @@
 *n.*
 > /kriˈeɪ.tər/
 
+![[creator.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who makes or produces something new
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `content creator`: người sáng tạo nội dung
 - `original creator`: người sáng tạo ban đầu
+- `creator mindset`: tư duy của người sáng tạo
+- `co-creator`: đồng tác giả sáng lập
+- `prolific creator`: nhà sáng tạo có nhiều tác phẩm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She is the creator of this popular board game.

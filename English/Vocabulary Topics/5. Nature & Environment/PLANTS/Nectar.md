@@ -2,8 +2,10 @@
 *noun*
 > /ˈnektər/
 
+![[nectar.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sweet liquid secreted by flowers as an attraction for pollinators.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sweet nectar`: mật hoa ngọt ngào
 - `collect nectar`: thu thập mật hoa
+- `nectar of the gods`: rượu tiên / thức uống ngon tuyệt hảo
+- `sip nectar`: hút mật hoa
+- `nectar feeder`: loài động vật chuyên ăn mật hoa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Bees fly from flower to flower to collect nectar.

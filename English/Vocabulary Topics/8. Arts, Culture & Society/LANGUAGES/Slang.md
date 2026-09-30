@@ -2,8 +2,10 @@
 *n.*
 > /slæŋ/
 
+![[slang.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very informal language that is more common in speech than in writing, used by a particular group
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `street slang`: tiếng lóng đường phố
+- `urban slang`: tiếng lóng thành thị
+- `internet slang`: tiếng lóng trên mạng xã hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Teenagers use a lot of slang.

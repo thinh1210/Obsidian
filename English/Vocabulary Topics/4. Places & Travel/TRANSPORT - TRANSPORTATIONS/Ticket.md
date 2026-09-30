@@ -2,8 +2,10 @@
 *noun*
 > /ˈtɪkɪt/
 
+![[ticket.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of paper or card that gives the holder a right to admission to a place or travel on public transport.
@@ -16,6 +18,7 @@
 - `buy a ticket`: mua vé
 - `one-way ticket`: vé một chiều
 - `return ticket`: vé khứ hồi
+- `season ticket`: vé tháng / vé quý đi tàu xe định kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You need to buy a ticket before boarding the train.

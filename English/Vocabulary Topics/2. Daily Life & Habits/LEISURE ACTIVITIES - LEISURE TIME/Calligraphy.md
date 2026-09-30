@@ -2,8 +2,10 @@
 *n*
 > /kəˈlɪɡrəfi/
 
+![[calligraphy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Decorative handwriting or handwritten lettering.
@@ -13,7 +15,11 @@
 💡 Calli (đẹp) + graphy (viết) -> viết chữ đẹp.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Chinese calligraphy`: thư pháp Trung Quốc\n- `practice calligraphy`: luyện thư pháp
+- `Chinese calligraphy`: thư pháp Trung Quốc
+- `practice calligraphy`: luyện thư pháp
+- `calligraphy pen`: bút vẽ thư pháp
+- `master the art of calligraphy`: làm chủ nghệ thuật thư pháp
+- `calligraphy strokes`: nét chữ thư pháp điêu luyện
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She wrote the invitations in beautiful calligraphy.

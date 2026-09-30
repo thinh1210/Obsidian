@@ -2,8 +2,10 @@
 *n*
 > /ˈhɒspɪtl/
 
+![[hospital.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large institution where people who are ill or injured are given medical treatment.

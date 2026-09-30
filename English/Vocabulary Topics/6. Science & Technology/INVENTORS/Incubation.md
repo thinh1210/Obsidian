@@ -2,8 +2,10 @@
 *n.*
 > /ˌɪn.kjəˈbeɪ.ʃən/
 
+![[incubation.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of developing an idea, plan, or invention over time before making it public
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `incubation period`: thời kỳ ấp ủ
 - `business incubation`: sự ấp ủ hỗ trợ khởi nghiệp
+- `incubation center`: trung tâm ươm tạo sáng chế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The design went through a long incubation period before production.

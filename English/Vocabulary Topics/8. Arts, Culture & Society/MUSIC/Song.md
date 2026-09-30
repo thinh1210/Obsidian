@@ -2,8 +2,10 @@
 *n.*
 > /sɒŋ/
 
+![[song.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short poem or other set of words set to music or meant to be sung.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `write a song`: viết một bài hát
 - `theme song`: bài hát chủ đề
+- `catchy pop song`: bài hát nhạc pop bắt tai
+- `swan song`: tác phẩm tuyệt bút cuối cùng trong sự nghiệp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She sang a beautiful song for her grandmother.

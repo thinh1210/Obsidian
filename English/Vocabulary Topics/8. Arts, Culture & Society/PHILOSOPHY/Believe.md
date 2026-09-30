@@ -2,8 +2,10 @@
 *v.*
 > /bɪˈliːv/
 
+![[believe.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Accept that something is true, especially without proof.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `believe in`: tin tưởng vào
 - `firmly believe`: tin tưởng vững chắc
+- `beyond belief`: không thể tin nổi
+- `make-believe`: sự tưởng tượng giả vờ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I believe we will win this game.

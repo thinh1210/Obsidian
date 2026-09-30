@@ -2,8 +2,10 @@
 *adj.*
 > /ˈsɪŋkrənəs/
 
+![[synchronous.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME
+**Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing or occurring at the same time
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `synchronous learning`: học tập đồng bộ
+- `synchronous communication`: giao tiếp đồng bộ tức thời
+- `synchronous motor`: động cơ đồng bộ
+- `synchronous data transfer`: truyền dữ liệu đồng bộ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Synchronous movements of the dancers.

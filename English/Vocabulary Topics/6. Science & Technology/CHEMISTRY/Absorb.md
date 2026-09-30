@@ -2,8 +2,10 @@
 *verb*
 > /əbˈzɔːb/
 
+![[absorb.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take in or soak up (energy or a liquid or other substance) by chemical or physical action.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `absorb moisture`: hấp thụ độ ẩm
 - `absorb light`: hấp thụ ánh sáng
+- `absorb energy`: hấp thụ năng lượng
+- `absorb heat`: hấp thụ nhiệt
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Plants absorb water and nutrients from the soil through their roots.

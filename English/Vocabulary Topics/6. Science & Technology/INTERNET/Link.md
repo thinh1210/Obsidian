@@ -2,8 +2,10 @@
 *noun / verb*
 > /lɪŋk/
 
+![[link.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A clickable element on a web page that takes you to another page or resource.

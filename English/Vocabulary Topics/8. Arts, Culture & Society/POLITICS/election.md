@@ -2,8 +2,10 @@
 *noun*
 > /ɪˈlekʃn/
 
+![[election.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal and organized choice by vote of a person for a political office or other position.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `general election`: tổng tuyển cử
 - `win an election`: thắng cử
+- `free and fair elections`: các cuộc bầu cử tự do và công bằng
+- `voter turnout in the election`: tỷ lệ cử tri đi bỏ phiếu trong cuộc bầu cử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Everyone is talking about the upcoming election on Sunday.

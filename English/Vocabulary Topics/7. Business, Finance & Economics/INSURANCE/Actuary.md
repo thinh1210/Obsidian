@@ -2,8 +2,10 @@
 *n.*
 > /ˈæktʃuəri/
 
+![[actuary.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who compiles and analyzes statistics and uses them to calculate insurance risks and premiums.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `insurance actuary`: chuyên viên định phí bảo hiểm
 - `actuarial science`: khoa học định phí bảo hiểm
+- `certified actuary`: chuyên viên định phí bảo hiểm có chứng chỉ
+- `consulting actuary`: chuyên gia tư vấn định phí rủi ro
+- `actuarial table`: bảng tính toán định phí bảo hiểm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* An actuary uses math to predict how long people will live.

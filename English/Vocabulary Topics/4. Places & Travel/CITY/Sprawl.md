@@ -2,8 +2,10 @@
 *n.*
 > /sprɔːl/
 
+![[sprawl.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The untidy spread of towns or buildings into the surrounding country.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `urban sprawl`: sự mở rộng đô thị lộn xộn
+- `sprawl across`: trải dài ngổn ngang khắp (phrasal verb)
+- `suburban sprawl`: sự mở rộng tràn lan của các vùng ngoại ô
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Urban sprawl is destroying the countryside.

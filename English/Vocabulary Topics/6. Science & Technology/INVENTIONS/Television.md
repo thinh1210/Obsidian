@@ -2,8 +2,10 @@
 *Noun*
 > /ˈtel.ɪ.vɪʒ.ən/
 
+![[television.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device shaped like a box with a screen that receives electrical signals and changes them into pictures and sounds.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `television show`: chương trình truyền hình
 - `cable television`: truyền hình cáp
+- `watch television`: xem chương trình truyền hình
+- `color television`: ti vi màu
+- `television broadcast`: chương trình phát sóng truyền hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We watched the football match on television.

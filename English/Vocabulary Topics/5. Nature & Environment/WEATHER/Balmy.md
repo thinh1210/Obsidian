@@ -2,8 +2,10 @@
 *adj.*
 > /ˈbɑːmi/
 
+![[balmy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of weather) pleasantly warm, gentle, and refreshing
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `balmy evening`: buổi tối ấm áp dễ chịu
+- `balmy breeze`: làn gió mát mẻ dễ chịu
+- `balmy climate`: khí hậu ấm áp ôn hòa dễ chịu
+- `balmy summer night`: đêm mùa hè ấm áp dễ chịu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We spent a balmy summer evening walking along the beach.

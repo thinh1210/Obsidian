@@ -2,8 +2,10 @@
 *noun*
 > /ˌhaɪərəˈɡlɪfɪks/
 
+![[hieroglyphics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Writing consisting of hieroglyphs (pictographic script, particularly that of ancient Egypt)
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Egyptian hieroglyphics`: chữ tượng hình Ai Cập
 - `decipher hieroglyphics`: giải mã chữ tượng hình
+- `ancient hieroglyphics`: chữ tượng hình cổ đại
+- `hieroglyphic inscription`: bản văn khắc chữ tượng hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He learned to read Egyptian hieroglyphics at Oxford.

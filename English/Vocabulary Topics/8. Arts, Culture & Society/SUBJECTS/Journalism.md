@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒɜːnəlɪzəm/
 
+![[journalism.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast.

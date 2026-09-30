@@ -2,8 +2,10 @@
 *noun*
 > /ˈɔːdiəns/
 
+![[audience.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The assembled spectators or listeners at a public event, or the readership of a book, paper, or website.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `target audience`: khán giả mục tiêu
 - `reach an audience`: tiếp cận thính giả
+- `broad audience`: lượng khán giả rộng rãi
+- `engage an audience`: thu hút và giữ chân khán giả
+- `captive audience`: khán thính giả bị cuốn hút
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The theater performance drew a huge audience.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈjuːzə(r)/
 
+![[user.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who uses or operates a social media account
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `active user`: người dùng hoạt động tích cực
+- `monthly active users`: lượng người dùng tích cực hàng tháng
+- `user-friendly interface`: giao diện thân thiện và dễ dùng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This app has an easy-to-use interface for the average user.

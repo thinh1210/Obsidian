@@ -2,8 +2,10 @@
 *n.*
 > /ˌpɒl.iˈhiː.drən/
 
+![[polyhedron.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid figure with many plane faces, typically more than six.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A regular polyhedron`: Khối đa diện đều
 - `Faces of a polyhedron`: Các mặt của khối đa diện
+- `convex polyhedron`: khối đa diện lồi
+- `regular polyhedron`: khối đa diện đều
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A cube is a type of polyhedron.

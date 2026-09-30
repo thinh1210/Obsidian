@@ -2,8 +2,10 @@
 *noun*
 > /ˈskruːˌdraɪ.vər/
 
+![[screwdriver.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool with a shaped tip that fits into the head of a screw to turn it.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flathead screwdriver`: tua vít đầu dẹt
 - `Phillips screwdriver`: tua vít đầu bake / 4 chấu
+- `cordless screwdriver`: tua-vít điện không dây
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you pass me the screwdriver to tighten this chair leg?

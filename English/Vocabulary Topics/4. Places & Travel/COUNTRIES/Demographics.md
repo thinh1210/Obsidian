@@ -2,8 +2,10 @@
 *Noun*
 > /ˌdeməˈɡræfɪks/
 
+![[demographics.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Statistical data relating to the population and particular groups within it.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Changing demographics`: Nhân khẩu học đang thay đổi
+- `demographic shift`: sự chuyển dịch nhân khẩu học
+- `demographic data`: dữ liệu nhân khẩu học
+- `target demographics`: nhóm nhân khẩu học mục tiêu
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The demographics of the city have changed rapidly.

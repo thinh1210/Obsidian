@@ -2,8 +2,10 @@
 *v.*
 > /skɔːr/
 
+![[score.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Gain a point, goal, run, etc. in a competitive game.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `score a goal`: ghi một bàn thắng
 - `final score`: điểm số chung cuộc
+- `score an equalizer`: ghi bàn thắng san bằng tỷ số
+- `settle a score`: thanh toán món nợ cũ / trả đũa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He scored two goals in the second half.

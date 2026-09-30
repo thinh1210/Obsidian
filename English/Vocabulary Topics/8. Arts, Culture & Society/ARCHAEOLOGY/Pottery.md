@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɒtəri/
 
+![[pottery.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pots, dishes, and other articles made of baked clay
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pottery shard`: mảnh vỡ đồ gốm
 - `ancient pottery`: đồ gốm cổ
+- `ceramic pottery`: đồ gốm sứ
+- `pottery wheel`: bàn xoay làm gốm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought a piece of hand-made pottery.

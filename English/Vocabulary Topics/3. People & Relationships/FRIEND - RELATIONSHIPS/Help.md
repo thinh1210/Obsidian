@@ -2,8 +2,10 @@
 *verb*
 > /help/
 
+![[help.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make it easier for someone to do something by offering one's services or resources.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ask for help`: xin giúp đỡ
+- `lend a helping hand`: dang rộng vòng tay giúp đỡ (idiom)
+- `help each other out`: giúp đỡ tương trợ lẫn nhau
+- `beyond help`: không thể cứu vãn giúp đỡ được nữa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Can you help me?

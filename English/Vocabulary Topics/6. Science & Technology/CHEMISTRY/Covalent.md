@@ -2,8 +2,10 @@
 *adjective*
 > /kəʊˈveɪ.lənt/
 
+![[covalent.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting chemical bonds formed by the sharing of electrons between atoms.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `covalent bond`: liên kết cộng hóa trị
 - `covalent compound`: hợp chất cộng hóa trị
+- `polar covalent bond`: liên kết cộng hóa trị có cực
+- `coordinate covalent bond`: liên kết cộng hóa trị phối trí
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Carbon dioxide is a covalent compound.

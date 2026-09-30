@@ -2,8 +2,10 @@
 *n.*
 > /ˈhɒm.ɪ.nɪd/
 
+![[hominid.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A primate of a family (Hominidae) that includes humans and their fossil ancestors.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `early hominid`: tông người sơ khai
 - `hominid evolution`: sự tiến hóa của tông người
+- `fossil hominids`: các hóa thạch tông người
+- `hominid species`: loài thuộc tông người
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lucy is one of the most famous early hominid fossils ever found.

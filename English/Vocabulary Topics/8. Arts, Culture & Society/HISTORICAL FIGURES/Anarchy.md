@@ -2,8 +2,10 @@
 *n.*
 > /ˈænəki/
 
+![[anarchy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of disorder due to absence or nonrecognition of authority
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `total anarchy`: tình trạng vô chính phủ hoàn toàn
 - `slide into anarchy`: rơi vào tình trạng hỗn loạn
+- `descend into anarchy`: rơi vào tình trạng vô chính phủ hỗn loạn
+- `state of anarchy`: tình trạng vô chính phủ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The fall of the government led to complete anarchy.

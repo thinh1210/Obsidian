@@ -2,8 +2,10 @@
 *noun*
 > /ˈʌpˌbrɪŋ.ɪŋ/
 
+![[upbringing.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The treatment and instruction received by a child from its parents.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strict upbringing`: sự giáo dục nghiêm khắc
+- `privileged upbringing`: sự nuôi dưỡng trong giàu sang nhung lụa
+- `sheltered upbringing`: sự giáo dục bảo bọc quá kỹ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He had a strict upbringing.

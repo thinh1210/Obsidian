@@ -2,8 +2,10 @@
 *noun*
 > /kəˈlɪɡ.rə.fi/
 
+![[calligraphy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of producing beautiful writing, often created with a special pen or brush.

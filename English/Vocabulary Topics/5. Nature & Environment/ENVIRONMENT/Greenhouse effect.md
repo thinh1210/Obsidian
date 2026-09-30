@@ -2,8 +2,10 @@
 *n.*
 > /ˈɡriːnhaʊs ɪfekt/
 
+![[greenhouse_effect.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The trapping of the sun's warmth in a planet's lower atmosphere, due to the greater transparency of the atmosphere to visible radiation from the sun than to infrared radiation emitted from the planet's surface.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cause greenhouse effect`: gây ra hiệu ứng nhà kính
 - `greenhouse gases`: khí nhà kính
+- `man-made greenhouse effect`: hiệu ứng nhà kính do con người gây ra
+- `intensify the greenhouse effect`: làm trầm trọng thêm hiệu ứng nhà kính
+- `greenhouse gas emissions`: phát thải các loại khí nhà kính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The greenhouse effect keeps the Earth warm enough to sustain life.

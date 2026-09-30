@@ -2,8 +2,10 @@
 *noun*
 > /pet/
 
+![[pet.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that is kept in the home as a companion and treated with care.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pet bird`: chim cảnh
 - `keep a pet`: nuôi thú cưng
+- `pet peeve`: điều khó chịu bực bội quen thuộc (idiom)
+- `teacher's pet`: học trò cưng của giáo viên (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Canaries make wonderful pet birds because of their beautiful singing.

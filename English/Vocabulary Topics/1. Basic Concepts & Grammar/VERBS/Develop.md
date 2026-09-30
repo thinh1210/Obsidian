@@ -2,8 +2,10 @@
 *Verb*
 > /dɪˈvel.əp/
 
+![[develop.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To grow or change into a more advanced form.
@@ -13,7 +15,10 @@
 💡 Đi ve lốp (develop) xe để phát triển bánh.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `develop a plan`: phát triển kế hoạch\n- `develop an illness`: mắc bệnh
+- `develop a plan`: phát triển kế hoạch
+- `develop an illness`: mắc bệnh
+- `develop an appetite`: bắt đầu cảm thấy thèm ăn
+- `develop skills`: phát triển kỹ năng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Children develop quickly.

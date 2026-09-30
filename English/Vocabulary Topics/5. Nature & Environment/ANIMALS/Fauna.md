@@ -2,8 +2,10 @@
 *noun*
 > /ˈfɔː.nə/
 
+![[fauna.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The animals of a particular region, habitat, or geological period.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local fauna`: hệ động vật địa phương
 - `flora and fauna`: hệ thực vật và động vật
+- `native fauna`: hệ động vật bản địa
+- `marine fauna`: hệ động vật biển
+- `rich fauna`: hệ động vật phong phú đa dạng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We spent the afternoon studying the diverse flora and fauna of the rainforest.

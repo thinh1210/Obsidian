@@ -2,8 +2,10 @@
 *noun*
 > /ˈhɪə.rəʊ/
 
+![[hero.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is admired or idealized for courage, outstanding achievements, or noble qualities.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `national hero`: anh hùng dân tộc
 - `unsung hero`: người hùng thầm lặng
+- `war hero`: anh hùng chiến tranh
+- `folk hero`: anh hùng trong truyền thuyết dân gian
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The firefighter was hailed as a hero for saving the family.

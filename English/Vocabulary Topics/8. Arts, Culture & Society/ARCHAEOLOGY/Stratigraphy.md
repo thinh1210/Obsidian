@@ -2,8 +2,10 @@
 *noun*
 > /strəˈtɪɡrəfi/
 
+![[stratigraphy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of geology concerned with the order and relative position of strata and their relationship to the geological time scale
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `archaeological stratigraphy`: địa tầng học khảo cổ
 - `layer stratigraphy`: địa tầng học phân lớp
+- `stratigraphic sequence`: trình tự các tầng địa chất
+- `soil stratigraphy`: địa tầng học của đất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Stratigraphy is essential for dating layers of soil at an archaeological site.

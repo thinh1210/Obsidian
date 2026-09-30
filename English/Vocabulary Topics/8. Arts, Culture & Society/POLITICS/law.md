@@ -2,8 +2,10 @@
 *noun*
 > /lɔː/
 
+![[law.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of rules which a particular country or community recognizes as regulating the actions of its members.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `obey the law`: tuân theo pháp luật
 - `pass a law`: thông qua một đạo luật
+- `break the law`: vi phạm pháp luật
+- `enforce the law`: thực thi pháp luật nghiêm minh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It is against the law to park your car here.

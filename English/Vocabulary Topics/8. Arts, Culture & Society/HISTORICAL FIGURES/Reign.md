@@ -2,8 +2,10 @@
 *n.*
 > /reɪn/
 
+![[reign.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of time during which a king or queen rules a country
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `long reign`: thời kỳ trị vì lâu dài
 - `reign of terror`: triều đại khủng bố
+- `disastrous reign`: triều đại thảm họa
+- `reign supreme`: thống trị tối cao, đứng đầu tuyệt đối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her reign was marked by peace and prosperity.

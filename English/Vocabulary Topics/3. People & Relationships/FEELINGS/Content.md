@@ -2,8 +2,10 @@
 *Adj*
 > /kənˈtent/
 
+![[content.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleased with your situation and not hoping for change or improvement.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈɒb.stə.kəl/
 
+![[obstacle.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that blocks you from moving forward or makes progress difficult
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `overcome obstacles`: vượt qua trở ngại
 - `major obstacle`: trở ngại lớn
+- `obstacle in the way`: vật cản ngáng đường
+- `formidable obstacle`: trở ngại to lớn đáng gờm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lack of money is the main obstacle to starting the business.

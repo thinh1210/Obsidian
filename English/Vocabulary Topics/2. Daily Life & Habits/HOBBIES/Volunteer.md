@@ -2,8 +2,10 @@
 *verb*
 > /ˌvɒl.ənˈtɪər/
 
+![[volunteer.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To offer to do something that you do not have to do, often without having been asked to do it and/or without expecting payment.

@@ -2,8 +2,10 @@
 *v.*
 > /prəˈtekt/
 
+![[protect.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Keep safe from harm or injury.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `protect the environment`: bảo vệ môi trường
 - `protect children`: bảo vệ trẻ em
+- `protect biodiversity`: bảo vệ tính đa dạng sinh học
+- `protect from damage`: bảo vệ tránh khỏi hư hại tổn thất
+- `overprotective parents`: cha mẹ bảo bọc con cái quá mức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* You should wear a hat to protect your skin.

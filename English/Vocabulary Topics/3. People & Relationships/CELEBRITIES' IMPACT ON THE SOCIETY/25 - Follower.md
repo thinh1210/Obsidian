@@ -2,8 +2,10 @@
 *n.*
 > /ˈfɒl.əʊ.ər/
 
+![[follower.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An adherent or devotee of a particular person.
@@ -13,7 +15,10 @@
 💡 Follow (theo) + er (người) -> Người theo dõi
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Gaining followers: Tăng người theo dõi`
+- `Gaining followers`: Tăng người theo dõi
+- `loyal follower`: người theo dõi trung thành
+- `huge following`: lượng người theo dõi khổng lồ
+- `cultivate followers`: thu hút xây dựng lượng người theo dõi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Millions of followers.

@@ -2,8 +2,10 @@
 *adj.*
 > /ˈvɪntɪdʒ/
 
+![[vintage.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Old but of high quality.
@@ -13,7 +15,11 @@
 💡 Vintage - vịn tay (vintage) vào đồ cổ.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `vintage clothes`: quần áo cổ điển\n- `vintage wine`: rượu vang cổ
+- `vintage clothes`: quần áo cổ điển
+- `vintage wine`: rượu vang cổ
+- `vintage fashion`: thời trang vintage, phong cách hoài cổ
+- `vintage accessories`: phụ kiện cổ điển
+- `hunt for vintage items`: săn lùng đồ cổ điển độc lạ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She loves shopping for vintage clothes.

@@ -2,8 +2,10 @@
 *noun*
 > /krɪpˈtɒɡrəfi/
 
+![[cryptography.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of writing or solving codes.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `quantum cryptography`: mật mã học lượng tử
+- `public-key cryptography`: mật mã khóa công khai
+- `modern cryptography`: mật mã học hiện đại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Cryptography is used to protect online banking transactions.

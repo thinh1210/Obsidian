@@ -2,8 +2,10 @@
 *noun*
 > /ˈledʒ.ənd/
 
+![[legend.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional story sometimes popularly regarded as historical but not authenticated.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `according to legend`: theo truyền thuyết
 - `urban legend`: huyền thoại đô thị
+- `legend has it that`: truyền thuyết kể lại rằng
+- `the stuff of legends`: điều kỳ tích đi vào huyền thoại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* According to legend, the founder of the city was raised by wolves.

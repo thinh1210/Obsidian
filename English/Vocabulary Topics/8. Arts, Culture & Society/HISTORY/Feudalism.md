@@ -2,8 +2,10 @@
 *noun*
 > /ˈfjuː.dəl.ɪ.zəm/
 
+![[feudalism.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The dominant social system in medieval Europe, in which the nobility held lands from the Crown in exchange for military service.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rise of feudalism`: sự trỗi dậy của chế độ phong kiến
 - `decline of feudalism`: sự suy tàn của chế độ phong kiến
+- `feudal lord`: lãnh chúa phong kiến
+- `abolition of feudalism`: sự bãi bỏ chế độ phong kiến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Under feudalism, peasants worked the land in exchange for protection.

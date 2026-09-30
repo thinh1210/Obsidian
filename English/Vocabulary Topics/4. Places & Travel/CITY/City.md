@@ -2,8 +2,10 @@
 *n.*
 > /ˈsɪti/
 
+![[city.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large and important town.
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `big city`: thành phố lớn
+- `city center`: trung tâm thành phố
+- `sprawling city`: thành phố trải rộng bạt ngàn
+- `city dweller`: cư dân thành thị
+- `go to town`: làm gì đó nhiệt tình hết mình (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I live in a big city.

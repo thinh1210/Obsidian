@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɑː.nɪ.vɔːr/
 
+![[carnivore.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that feeds on flesh (meat).
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `strict carnivore`: loài ăn thịt hoàn toàn
 - `predatory carnivore`: thú săn mồi ăn thịt
+- `obligate carnivore`: loài bắt buộc phải ăn thịt
+- `carnivore teeth`: răng của loài ăn thịt
+- `apex carnivore`: loài ăn thịt đầu bảng trong chuỗi thức ăn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Lions, tigers, and wolves are examples of carnivores.

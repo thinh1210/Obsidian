@@ -1,62 +1,126 @@
 # Tổng hợp từ vựng: MONEY
 
 Đây là file tổng hợp các từ vựng thuộc chủ đề **MONEY**.
-Danh sách dưới đây đã được **sắp xếp theo cấp độ (Level) từ thấp đến cao (A1 -> C2)**. Bạn nên ưu tiên học các từ cơ bản ở trên cùng trước.
+Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực quan** và **sắp xếp theo cấp độ từ A1 đến C2** giúp bạn dễ dàng liên kết từ vựng theo tư duy ngữ cảnh và sơ đồ tư duy thực tế.
 
-## Danh sách từ vựng
+## 🗺️ Sơ đồ liên kết chủ đề (Semantic Map)
+- **💵 1. Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày** (Cash, Coins & Daily Purchasing): [[Bill]], [[Buy]], [[Cheap]], [[Cost]], [[Expensive]], [[Pay]], [[Price]], [[Save]], [[Sell]], [[Spend]], [[Wallet]], [[Cash]], [[Change]], [[Coin]], [[Receipt]], [[Tip]], [[Currency]], [[Deposit]], [[Discount]], [[Refund]], [[Withdraw]], [[Transaction]]
+- **🏦 2. Thu nhập, Vay nợ, Thuế & Lập ngân sách** (Income, Borrowing, Debts & Taxes): [[Bank account]], [[Borrow]], [[Earn]], [[Lend]], [[Afford]], [[Budget]], [[Credit]], [[Debt]], [[Fee]], [[Interest rate]], [[Loan]], [[Salary]], [[Tax]], [[Wage]], [[Expense]], [[Income]], [[Mortgage]], [[Pension]]
+- **💎 3. Giàu có, Thịnh vượng & Đầu tư sinh lợi** (Wealth, Prosperity, Investments & Yields): [[Fortune]], [[Invest]], [[Investor]], [[Asset]], [[Dividend]], [[Donation]], [[Profit]], [[Shares]], [[Wealth]], [[Affluent]], [[Capital]], [[Inheritance]], [[Lucrative]], [[Yield]]
+- **⚠️ 4. Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc** (Bankruptcy, Frugality, Wastefulness & Ruin): [[ATM]], [[Bargain]], [[Loss]], [[Bankrupt]], [[Inflation]], [[Insurance]], [[Overspend]], [[Default]], [[Depreciate]], [[Destitute]], [[Extravagant]], [[Frugal]], [[Squander]], [[Embezzle]], [[Penurious]], [[Solvency]]
 
-| Từ vựng | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- |
-| Bill | A1 | noun | Hóa đơn | billing (n) | [[Bill]] |
-| Buy | A1 | verb | Mua | buyer (n), buyable (adj) | [[Buy]] |
-| Cheap | A1 | adjective | Rẻ | cheaply (adv), cheapness (n) | [[Cheap]] |
-| Cost | A1 | verb/noun | Trị giá, chi phí | costly (adj), coster (n) | [[Cost]] |
-| Expensive | A1 | adjective | Đắt đỏ | expensively (adv), expensiveness (n) | [[Expensive]] |
-| Pay | A1 | verb | Thanh toán, trả tiền | payment (n), payee (n) | [[Pay]] |
-| Price | A1 | noun | Giá cả | priceless (adj), pricey (adj) | [[Price]] |
-| Save | A1 | verb | Tiết kiệm | savings (n), saver (n) | [[Save]] |
-| Sell | A1 | verb | Bán | seller (n), sale (n) | [[Sell]] |
-| Spend | A1 | verb | Tiêu (tiền), dành (thời gian) | spender (n), spending (n) | [[Spend]] |
-| Borrow | A2 | verb | Mượn, vay | borrower (n), borrowable (adj) | [[Borrow]] |
-| Cash | A2 | noun | Tiền mặt | cashless (adj), cashier (n) | [[Cash]] |
-| Coin | A2 | noun | Đồng tiền xu | coinage (n) | [[Coin]] |
-| Earn | A2 | verb | Kiếm (tiền) | earnings (n), earner (n) | [[Earn]] |
-| Lend | A2 | verb | Cho mượn, cho vay | lender (n), lendable (adj) | [[Lend]] |
-| Afford | B1 | verb | Có đủ khả năng chi trả | affordable (adj), affordability (n) | [[Afford]] |
-| Budget | B1 | noun | Ngân sách | budgetary (adj), budgeting (n) | [[Budget]] |
-| Credit | B1 | noun | Tín dụng, lòng tin | creditor (n), credible (adj) | [[Credit]] |
-| Currency | B1 | noun | Tiền tệ | current (adj) | [[Currency]] |
-| Debt | B1 | noun | Khoản nợ | debtor (n), indebted (adj) | [[Debt]] |
-| Deposit | B1 | verb/noun | Gửi tiền, tiền đặt cọc | depositor (n), deposition (n) | [[Deposit]] |
-| Discount | B1 | noun | Sự chiết khấu, giảm giá | discounted (adj), discounting (n) | [[Discount]] |
-| Invest | B1 | verb | Đầu tư | investor (n), investment (n), investing (n) | [[Invest]] |
-| Salary | B1 | noun | Tiền lương (hằng tháng) | salaried (adj) | [[Salary]] |
-| Tax | B1 | noun | Thuế | taxation (n), taxpayer (n), taxable (adj) | [[Tax]] |
-| Bankrupt | B2 | adjective | Phá sản | bankruptcy (n), bankruptly (adv) | [[Bankrupt]] |
-| Donation | B2 | noun | Khoản quyên góp | donate (v), donor (n) | [[Donation]] |
-| Expense | B2 | noun | Chi phí | expensive (adj), expend (v) | [[Expense]] |
-| Income | B2 | noun | Thu nhập | incoming (adj) | [[Income]] |
-| Insurance | B2 | noun | Bảo hiểm | insure (v), insurer (n), insured (adj) | [[Insurance]] |
-| Mortgage | B2 | noun | Khoản thế chấp | mortgager (n), mortgagee (n) | [[Mortgage]] |
-| Pension | B2 | noun | Lương hưu | pensioner (n), pensionable (adj) | [[Pension]] |
-| Profit | B2 | noun | Lợi nhuận | profitable (adj), profitability (n) | [[Profit]] |
-| Wealth | B2 | noun | Sự giàu có, sự thịnh vượng | wealthy (adj) | [[Wealth]] |
-| Withdraw | B2 | verb | Rút tiền | withdrawal (n), withdrawable (adj) | [[Withdraw]] |
-| Affluent | C1 | adjective | Giàu có, thịnh vượng, sung túc | affluence (n), affluently (adv) | [[Affluent]] |
-| Capital | C1 | noun | Vốn, nguồn vốn | capitalize (v), capitalism (n) | [[Capital]] |
-| Default | C1 | verb/noun | Sự vỡ nợ, không trả được nợ đúng hạn | defaulter (n), defaultable (adj) | [[Default]] |
-| Depreciate | C1 | verb | Giảm giá trị, mất giá, sụt giá | depreciation (n), depreciatory (adj) | [[Depreciate]] |
-| Destitute | C1 | adjective | Nghèo đói cơ cực, khốn cùng | destitution (n), destitutely (adv) | [[Destitute]] |
-| Extravagant | C1 | adjective | Phung phí, xa hoa, quá mức | extravagantly (adv), extravagance (n) | [[Extravagant]] |
-| Frugal | C1 | adjective | Căn cơ, tiết kiệm, giản dị | frugality (n), frugally (adv) | [[Frugal]] |
-| Inheritance | C1 | noun | Tài sản thừa kế, sự thừa kế | inherit (v), inheritor (n) | [[Inheritance]] |
-| Lucrative | C1 | adjective | Sinh lợi, có lời, kiếm bộn tiền | lucratively (adv), lucrativeness (n) | [[Lucrative]] |
-| Squander | C1 | verb | Lãng phí, hoang phí (tiền bạc/thời gian) | squanderer (n), squanderable (adj) | [[Squander]] |
-| Transaction | C1 | noun | Giao dịch | transact (v), transactional (adj) | [[Transaction]] |
-| Yield | C1 | noun/verb | Lợi suất, mang lại lợi nhuận/sản lượng | yielding (adj), yielder (n) | [[Yield]] |
-| Embezzle | C2 | verb | Tham ô, biển thủ | embezzlement (n), embezzler (n) | [[Embezzle]] |
-| Penurious | C2 | adjective | Nghèo túng, thiếu thốn; keo kiệt | penury (n), penuriously (adv) | [[Penurious]] |
-| Solvency | C2 | noun | Khả năng thanh toán nợ | solvent (adj) | [[Solvency]] |
+## Danh sách từ vựng theo nhóm ngữ nghĩa
+
+### 💵 1. Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày (Cash, Coins & Daily Purchasing)
+*Tiền xu kim loại, tiền giấy, thanh toán hóa đơn, mua sắm đồ dùng giá rẻ hay đắt đỏ và rút nộp tiền mặt.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bill | /bɪl/ [[bill.mp3\|🔊]] | A1 | noun | Hóa đơn | billing (n) | [[Bill]] |
+| Buy | /baɪ/ [[buy.mp3\|🔊]] | A1 | verb | Mua | buyer (n), buyable (adj) | [[Buy]] |
+| Cheap | /tʃiːp/ [[cheap.mp3\|🔊]] | A1 | adjective | Rẻ | cheaply (adv), cheapness (n) | [[Cheap]] |
+| Cost | /kɒst/ [[cost.mp3\|🔊]] | A1 | verb/noun | Trị giá, chi phí | costly (adj), coster (n) | [[Cost]] |
+| Expensive | /ɪkˈspen.sɪv/ [[expensive.mp3\|🔊]] | A1 | adjective | Đắt đỏ | expensively (adv), expensiveness (n) | [[Expensive]] |
+| Pay | /peɪ/ [[pay.mp3\|🔊]] | A1 | verb | Thanh toán, trả tiền | payment (n), payee (n) | [[Pay]] |
+| Price | /praɪs/ [[price.mp3\|🔊]] | A1 | noun | Giá cả | priceless (adj), pricey (adj) | [[Price]] |
+| Save | /seɪv/ [[save.mp3\|🔊]] | A1 | verb | Tiết kiệm | savings (n), saver (n) | [[Save]] |
+| Sell | /sel/ [[sell.mp3\|🔊]] | A1 | verb | Bán | seller (n), sale (n) | [[Sell]] |
+| Spend | /spend/ [[spend.mp3\|🔊]] | A1 | verb | Tiêu (tiền), dành (thời gian) | spender (n), spending (n) | [[Spend]] |
+| Wallet | /ˈwɒl.ɪt/ [[wallet.mp3\|🔊]] | A1 | n. | Ví tiền, bóp tiền | wallets (pl) | [[Wallet]] |
+| Cash | /kæʃ/ [[cash.mp3\|🔊]] | A2 | noun | Tiền mặt | cashless (adj), cashier (n) | [[Cash]] |
+| Change | /tʃeɪndʒ/ [[change.mp3\|🔊]] | A2 | n. | Tiền lẻ, tiền thối lại | changeable (adj) | [[Change]] |
+| Coin | /kɔɪn/ [[coin.mp3\|🔊]] | A2 | noun | Đồng tiền xu | coinage (n) | [[Coin]] |
+| Receipt | /rɪˈsiːt/ [[receipt.mp3\|🔊]] | A2 | n. | Hóa đơn biên lai mua hàng | receive (v), recipient (n) | [[Receipt]] |
+| Tip | /tɪp/ [[tip.mp3\|🔊]] | A2 | n./v. | Tiền boa, tiền boa thêm dịch vụ | tipping (n) | [[Tip]] |
+| Currency | /ˈkʌr.ən.si/ [[currency.mp3\|🔊]] | B1 | noun | Tiền tệ | current (adj) | [[Currency]] |
+| Deposit | /dɪˈpɒz.ɪt/ [[deposit.mp3\|🔊]] | B1 | verb/noun | Gửi tiền, tiền đặt cọc | depositor (n), deposition (n) | [[Deposit]] |
+| Discount | /ˈdɪs.kaʊnt/ [[discount.mp3\|🔊]] | B1 | noun | Sự chiết khấu, giảm giá | discounted (adj), discounting (n) | [[Discount]] |
+| Refund | /ˈriː.fʌnd/ [[refund.mp3\|🔊]] | B1 | n./v. | Tiền hoàn lại, sự hoàn tiền | refundable (adj), non-refundable (adj) | [[Refund]] |
+| Withdraw | /wɪðˈdrɔː/ [[withdraw.mp3\|🔊]] | B2 | verb | Rút tiền | withdrawal (n), withdrawable (adj) | [[Withdraw]] |
+| Transaction | /trænˈzæk.ʃən/ [[transaction.mp3\|🔊]] | C1 | noun | Giao dịch | transact (v), transactional (adj) | [[Transaction]] |
+
+### 🏦 2. Thu nhập, Vay nợ, Thuế & Lập ngân sách (Income, Borrowing, Debts & Taxes)
+*Kiếm tiền sinh sống, tiền lương hàng tháng, vay mượn người thân, quản lý nợ tín dụng, nghĩa vụ thuế và lương hưu.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bank account | /ˈbæŋk əˌkaʊnt/ [[bank_account.mp3\|🔊]] | A2 | n. | Tài khoản ngân hàng | account (n), accountant (n) | [[Bank account]] |
+| Borrow | /ˈbɒr.əʊ/ [[borrow.mp3\|🔊]] | A2 | verb | Mượn, vay | borrower (n), borrowable (adj) | [[Borrow]] |
+| Earn | /ɜːn/ [[earn.mp3\|🔊]] | A2 | verb | Kiếm (tiền) | earnings (n), earner (n) | [[Earn]] |
+| Lend | /lend/ [[lend.mp3\|🔊]] | A2 | verb | Cho mượn, cho vay | lender (n), lendable (adj) | [[Lend]] |
+| Afford | /əˈfɔːd/ [[afford.mp3\|🔊]] | B1 | verb | Có đủ khả năng chi trả | affordable (adj), affordability (n) | [[Afford]] |
+| Budget | /ˈbʌdʒ.ɪt/ [[budget.mp3\|🔊]] | B1 | noun | Ngân sách | budgetary (adj), budgeting (n) | [[Budget]] |
+| Credit | /ˈkred.ɪt/ [[credit.mp3\|🔊]] | B1 | noun | Tín dụng, lòng tin | creditor (n), credible (adj) | [[Credit]] |
+| Debt | /det/ [[debt.mp3\|🔊]] | B1 | noun | Khoản nợ | debtor (n), indebted (adj) | [[Debt]] |
+| Fee | /fiː/ [[fee.mp3\|🔊]] | B1 | n. | Lệ phí, phí dịch vụ | fees (pl) | [[Fee]] |
+| Interest rate | /ˈɪn.trəst reɪt/ [[interest_rate.mp3\|🔊]] | B1 | n. | Lãi suất ngân hàng | interest (n), rate (n) | [[Interest rate]] |
+| Loan | /ləʊn/ [[loan.mp3\|🔊]] | B1 | n. | Khoản tiền vay, tiền cho vay | lender (n), lend (v) | [[Loan]] |
+| Salary | /ˈsæl.ər.i/ [[salary.mp3\|🔊]] | B1 | noun | Tiền lương (hằng tháng) | salaried (adj) | [[Salary]] |
+| Tax | /tæks/ [[tax.mp3\|🔊]] | B1 | noun | Thuế | taxation (n), taxpayer (n), taxable (adj) | [[Tax]] |
+| Wage | /weɪdʒ/ [[wage.mp3\|🔊]] | B1 | n. | Tiền công (theo giờ, ngày, tuần) | wages (pl) | [[Wage]] |
+| Expense | /ɪkˈspens/ [[expense.mp3\|🔊]] | B2 | noun | Chi phí | expensive (adj), expend (v) | [[Expense]] |
+| Income | /ˈɪn.kʌm/ [[income.mp3\|🔊]] | B2 | noun | Thu nhập | incoming (adj) | [[Income]] |
+| Mortgage | /ˈmɔː.ɡɪdʒ/ [[mortgage.mp3\|🔊]] | B2 | noun | Khoản thế chấp | mortgager (n), mortgagee (n) | [[Mortgage]] |
+| Pension | /ˈpen.ʃən/ [[pension.mp3\|🔊]] | B2 | noun | Lương hưu | pensioner (n), pensionable (adj) | [[Pension]] |
+
+### 💎 3. Giàu có, Thịnh vượng & Đầu tư sinh lợi (Wealth, Prosperity, Investments & Yields)
+*Sự giàu sang phú quý, đầu tư tài chính sinh lời, tài sản thừa kế, quyên góp từ thiện và nguồn vốn sinh lợi nhuận cao.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fortune | /ˈfɔː.tʃuːn/ [[fortune.mp3\|🔊]] | B1 | n. | Gia tài khổng lồ, vận may tài chính | fortunate (adj), fortunately (adv), misfortune (n) | [[Fortune]] |
+| Invest | /ɪnˈvest/ [[invest.mp3\|🔊]] | B1 | verb | Đầu tư | investor (n), investment (n), investing (n) | [[Invest]] |
+| Investor | /ɪnˈves.tər/ [[investor.mp3\|🔊]] | B1 | n. | Nhà đầu tư | invest (v), investment (n) | [[Investor]] |
+| Asset | /ˈæs.et/ [[asset.mp3\|🔊]] | B2 | n. | Tài sản sở hữu, của cải có giá trị | assets (pl) | [[Asset]] |
+| Dividend | /ˈdɪv.ɪ.dend/ [[dividend.mp3\|🔊]] | B2 | n. | Cổ tức chia lợi nhuận | divide (v), division (n) | [[Dividend]] |
+| Donation | /dəʊˈneɪ.ʃən/ [[donation.mp3\|🔊]] | B2 | noun | Khoản quyên góp | donate (v), donor (n) | [[Donation]] |
+| Profit | /ˈprɒf.ɪt/ [[profit.mp3\|🔊]] | B2 | noun | Lợi nhuận | profitable (adj), profitability (n) | [[Profit]] |
+| Shares | /ʃeəz/ [[shares.mp3\|🔊]] | B2 | n. | Cổ phần, cổ phiếu | share (v/n), shareholder (n) | [[Shares]] |
+| Wealth | /welθ/ [[wealth.mp3\|🔊]] | B2 | noun | Sự giàu có, sự thịnh vượng | wealthy (adj) | [[Wealth]] |
+| Affluent | /ˈæf.lu.ənt/ [[affluent.mp3\|🔊]] | C1 | adjective | Giàu có, thịnh vượng, sung túc | affluence (n), affluently (adv) | [[Affluent]] |
+| Capital | /ˈkæp.ɪ.təl/ [[capital.mp3\|🔊]] | C1 | noun | Vốn, nguồn vốn | capitalize (v), capitalism (n) | [[Capital]] |
+| Inheritance | /ɪnˈher.ɪ.təns/ [[inheritance.mp3\|🔊]] | C1 | noun | Tài sản thừa kế, sự thừa kế | inherit (v), inheritor (n) | [[Inheritance]] |
+| Lucrative | /ˈluː.krə.tɪv/ [[lucrative.mp3\|🔊]] | C1 | adjective | Sinh lợi, có lời, kiếm bộn tiền | lucratively (adv), lucrativeness (n) | [[Lucrative]] |
+| Yield | /jiːld/ [[yield.mp3\|🔊]] | C1 | noun/verb | Lợi suất, mang lại lợi nhuận/sản lượng | yielding (adj), yielder (n) | [[Yield]] |
+
+### ⚠️ 4. Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc (Bankruptcy, Frugality, Wastefulness & Ruin)
+*Lối sống tiết kiệm thanh đạm, tiêu xài phung phí hoang toàng, cảnh bần cùng nghèo khó, vỡ nợ phá sản và biển thủ công quỹ.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| ATM | /ˌeɪ.tiːˈem/ [[atm.mp3\|🔊]] | A2 | n. | Cây rút tiền tự động | automated teller machine (n) | [[ATM]] |
+| Bargain | /ˈbɑː.ɡɪn/ [[bargain.mp3\|🔊]] | B1 | n./v. | Món hời, sự mặc cả giá rẻ | bargaining (n) | [[Bargain]] |
+| Loss | /lɒs/ [[loss.mp3\|🔊]] | B1 | n. | Sự thua lỗ tài chính, mất mát | lose (v), loser (n), lost (adj) | [[Loss]] |
+| Bankrupt | /ˈbæŋ.krʌpt/ [[bankrupt.mp3\|🔊]] | B2 | adjective | Phá sản | bankruptcy (n), bankruptly (adv) | [[Bankrupt]] |
+| Inflation | /ɪnˈfleɪ.ʃən/ [[inflation.mp3\|🔊]] | B2 | n. | Lạm phát tiền tệ, giá cả leo thang | inflate (v), inflationary (adj) | [[Inflation]] |
+| Insurance | /ɪnˈʃɔː.rəns/ [[insurance.mp3\|🔊]] | B2 | noun | Bảo hiểm | insure (v), insurer (n), insured (adj) | [[Insurance]] |
+| Overspend | /ˌəʊ.vəˈspend/ [[overspend.mp3\|🔊]] | B2 | v. | Tiêu xài quá tay, vung tay quá trán | overspending (n), spend (v) | [[Overspend]] |
+| Default | /dɪˈfɔːlt/ [[default.mp3\|🔊]] | C1 | verb/noun | Sự vỡ nợ, không trả được nợ đúng hạn | defaulter (n), defaultable (adj) | [[Default]] |
+| Depreciate | /dɪˈpriː.ʃi.eɪt/ [[depreciate.mp3\|🔊]] | C1 | verb | Giảm giá trị, mất giá, sụt giá | depreciation (n), depreciatory (adj) | [[Depreciate]] |
+| Destitute | /ˈdes.tɪ.tʃuːt/ [[destitute.mp3\|🔊]] | C1 | adjective | Nghèo đói cơ cực, khốn cùng | destitution (n), destitutely (adv) | [[Destitute]] |
+| Extravagant | /ɪkˈstræv.ə.ɡənt/ [[extravagant.mp3\|🔊]] | C1 | adjective | Phung phí, xa hoa, quá mức | extravagantly (adv), extravagance (n) | [[Extravagant]] |
+| Frugal | /ˈfruː.ɡəl/ [[frugal.mp3\|🔊]] | C1 | adjective | Căn cơ, tiết kiệm, giản dị | frugality (n), frugally (adv) | [[Frugal]] |
+| Squander | /ˈskwɒn.dər/ [[squander.mp3\|🔊]] | C1 | verb | Lãng phí, hoang phí (tiền bạc/thời gian) | squanderer (n), squanderable (adj) | [[Squander]] |
+| Embezzle | /ɪmˈbez.əl/ [[embezzle.mp3\|🔊]] | C2 | verb | Tham ô, biển thủ | embezzlement (n), embezzler (n) | [[Embezzle]] |
+| Penurious | /pəˈnjʊə.ri.əs/ [[penurious.mp3\|🔊]] | C2 | adjective | Nghèo túng, thiếu thốn; keo kiệt | penury (n), penuriously (adv) | [[Penurious]] |
+| Solvency | /ˈsɒl.vən.si/ [[solvency.mp3\|🔊]] | C2 | noun | Khả năng thanh toán nợ | solvent (adj) | [[Solvency]] |
+
+## 🔗 Cụm từ, Collocations & Phrasal Verbs phổ biến theo chủ đề (Key Phrases & Expressions)
+*Các cụm từ cố định, phrasal verbs và thành ngữ thông dụng nhất giúp bạn nói và viết tự nhiên về chủ đề **MONEY**.*
+
+| Cụm từ / Phrasal Verb | Loại | Cấp độ | Ý nghĩa | Ví dụ áp dụng |
+| --- | --- | --- | --- | --- |
+| **make both ends meet** | Idiom | B2 | xoay xở đủ tiền trang trải cuộc sống | *With soaring grocery bills, single parents struggle to make both ends meet.* |
+| **cost a fortune** | Idiom | B1 | đắt đỏ vô cùng, tốn cả một gia tài | *Dining at three-star Michelin tasting restaurants can easily cost a fortune.* |
+| **save up for** | Phrasal Verb | A2 | tiết kiệm tích cóp tiền để mua thứ gì | *She worked part-time as a tutor to save up for her first laptop.* |
+| **rip someone off** | Phrasal Verb | B2 | chặt chém, tính giá cắt cổ người mua | *Unlicensed taxis near tourist terminals often try to rip off foreign travelers.* |
+| **money doesn't grow on trees** | Idiom | B1 | tiền không tự nhiên rơi từ trên trời xuống | *Parents frequently remind their teenage kids that money doesn't grow on trees.* |
+| **hard-earned money** | Collocation | B1 | đồng tiền mồ hôi nước mắt kiếm được | *Be cautious with financial schemes; never gamble your hard-earned money away.* |
+| **pay through the nose** | Idiom | C1 | trả giá quá đắt vô lý | *Motorists pay through the nose for downtown multi-story parking spaces.* |
+| **tighten one's belt** | Idiom | B2 | thắt lưng buộc bụng, tiết kiệm chi tiêu | *When inflation spikes, households are forced to tighten their belts.* |
+| **lucrative investment** | Collocation | B2 | thương vụ đầu tư sinh lời béo bở | *Purchasing commercial storefronts proved to be a highly lucrative investment.* |
+| **live from hand to mouth** | Idiom | B2 | sống chật vật kiếm ăn từng bữa, chạy ăn từng ngày | *Day laborers frequently live from hand to mouth without any financial safety cushion.* |
+
 ## 📖 Đoạn văn thực tế (Contextual Story)
 
 ### English Paragraph

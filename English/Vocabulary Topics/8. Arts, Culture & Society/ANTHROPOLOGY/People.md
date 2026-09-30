@@ -2,8 +2,10 @@
 *n.*
 > /ˈpiː.pəl/
 
+![[people.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Human beings in general or considered collectively.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `indigenous people`: người bản địa
 - `young people`: giới trẻ
+- `nomadic people`: người dân du mục
+- `tribal people`: người thuộc các bộ tộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There were many people at the concert.

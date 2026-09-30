@@ -2,8 +2,10 @@
 *noun.*
 > /ˈbʌdʒɪt/
 
+![[budget.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A plan to show how much money a person or organization will earn and spend.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tight budget`: ngân sách eo hẹp
 - `marketing budget`: ngân sách tiếp thị
+- `budget allocation`: sự phân bổ ngân sách
+- `operating budget`: ngân sách chi phí vận hành
+- `exceed the budget`: vượt quá ngân sách dự kiến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are on a tight budget, so we cannot afford to go on holiday this year.

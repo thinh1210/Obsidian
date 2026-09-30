@@ -2,8 +2,10 @@
 *noun.*
 > /ˈbʌt̬.ən/
 
+![[button.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small, sometimes circular object that you press to operate a machine or device
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `push button`: nút nhấn
+- `emergency stop button`: nút dừng khẩn cấp
+- `press a button`: bấm nút
+- `power button`: nút nguồn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Press the green button to start the robot.

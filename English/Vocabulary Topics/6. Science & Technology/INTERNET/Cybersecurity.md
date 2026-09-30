@@ -2,8 +2,10 @@
 *noun*
 > /ˌsaɪ.bəˈsɪk.jʊə.rɪ.ti/
 
+![[cybersecurity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of protecting computers, networks, and data from digital attacks, unauthorized access, or damage.

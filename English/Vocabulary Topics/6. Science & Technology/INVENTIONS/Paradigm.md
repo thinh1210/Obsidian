@@ -2,8 +2,10 @@
 *Noun*
 > /ˈpær.ə.daɪm/
 
+![[paradigm.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A typical example or pattern of something; a set of theories that explain a subject.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `paradigm shift`: sự chuyển dịch mô hình lý thuyết
 - `dominant paradigm`: mô hình/hệ khuôn mẫu thống trị
+- `classic paradigm`: mô hình mẫu mực kinh điển
+- `new paradigm`: hệ hình phương thức mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The mobile internet created a new paradigm for social interactions.

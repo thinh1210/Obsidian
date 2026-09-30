@@ -2,8 +2,10 @@
 *verb*
 > /ˈfɒləʊ/
 
+![[follow.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To subscribe to someone's updates or posts on a social media platform
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `follow an account`: theo dõi một tài khoản
+- `follow back`: theo dõi lại tài khoản
+- `unfollow an account`: hủy theo dõi một tài khoản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* If you like cooking, you should follow this chef.

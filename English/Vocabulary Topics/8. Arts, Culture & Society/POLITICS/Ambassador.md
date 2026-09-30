@@ -2,8 +2,10 @@
 *n*
 > /æmˈbæs.ə.dər/
 
+![[ambassador.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official representative of a country in another country.

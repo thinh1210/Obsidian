@@ -2,8 +2,10 @@
 *noun*
 > /ruːt/
 
+![[root.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of a plant which attaches it to the ground or to a support, typically underground, conveying water and nourishment to the rest of the plant via numerous branches.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plant root`: rễ cây
 - `root cause`: nguyên nhân gốc rễ
+- `take root`: bén rễ / hình thành vững chắc
+- `root out corruption`: nhổ tận gốc tệ nạn tham nhũng
+- `deep-rooted habit`: thói quen ăn sâu bám rễ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tree roots can damage pavements.

@@ -2,8 +2,10 @@
 *noun.*
 > /ˈaɪən/
 
+![[iron.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong, hard magnetic silvery-gray metal, much used as a material for construction and manufacturing.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `cast iron`: gang, sắt đúc
 - `iron ore`: quặng sắt
+- `iron out`: giải quyết ổn thỏa bất đồng (phrasal verb)
+- `iron will`: ý chí sắt đá kiên cường (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The heavy gate is made of solid iron.

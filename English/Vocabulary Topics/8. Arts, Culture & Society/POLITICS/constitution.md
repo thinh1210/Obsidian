@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɑːnstɪˈtuːʃn/
 
+![[constitution.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `amend the constitution`: sửa đổi hiến pháp
 - `unconstitutional`: vi hiến
+- `uphold the constitution`: bảo vệ và thực thi hiến pháp
+- `written constitution`: hiến pháp thành văn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The right to free speech is guaranteed by our constitution.

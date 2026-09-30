@@ -2,8 +2,10 @@
 *verb*
 > /ˈprɒmlɡeɪt/
 
+![[promulgate.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To make a law or decree officially known; to put it into effect

@@ -2,8 +2,10 @@
 *n.*
 > /ˈlektʃə(r)/
 
+![[lecture.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An educational talk to an audience, especially to students in a university
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `attend a lecture`: tham dự buổi nghe giảng
 - `give a lecture`: giảng bài
+- `lecture hall`: giảng đường bậc thang trường đại học
+- `guest lecture`: buổi thuyết giảng chuyên đề của khách mời danh tiếng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I missed the morning lecture on economics.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈɔː.nə.mənt/
 
+![[ornament.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing used to make something look more attractive.
@@ -13,7 +15,10 @@
 💡 O (Or) nơ (na) để trang trí.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `gold ornament: đồ trang trí bằng vàng`
+- `gold ornament`: đồ trang trí bằng vàng
+- `ornament for the hair`: đồ trang sức cài tóc
+- `delicate ornament`: món đồ trang trí thanh tao
+- `decorative ornament`: đồ trang hoàng làm đẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She kept the ornament.

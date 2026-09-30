@@ -2,8 +2,10 @@
 *adj.*
 > /ˌpɪktʃəˈresk/
 
+![[picturesque.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Visually attractive, especially in a quaint or pretty style.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `picturesque landscape`: cảnh quan đẹp như tranh
+- `picturesque town`: thị trấn đẹp như tranh vẽ
+- `picturesque views`: khung cảnh nên thơ lãng mạn
+- `picturesque streets`: những con hẻm cổ đẹp như tranh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The village is incredibly picturesque.

@@ -2,8 +2,10 @@
 *n.*
 > /ˌdʒen.əˈreɪ.ʃən/
 
+![[generation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All of the people born and living at about the same time.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `The younger generation`: Thế hệ trẻ hơn
+- `generation gap`: khoảng cách thế hệ
+- `future generations`: các thế hệ con cháu mai sau
+- `first-generation immigrant`: người nhập cư thế hệ đầu tiên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My generation loves technology.

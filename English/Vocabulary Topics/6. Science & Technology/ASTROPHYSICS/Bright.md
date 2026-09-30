@@ -2,8 +2,10 @@
 *adjective*
 > /braɪt/
 
+![[bright.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Giving out or reflecting much light; shining.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bright star`: ngôi sao sáng
 - `bright light`: ánh sáng chói
+- `bright celestial object`: thiên thể sáng rực
+- `shine brightly`: tỏa sáng rực rỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The stars are very bright tonight.

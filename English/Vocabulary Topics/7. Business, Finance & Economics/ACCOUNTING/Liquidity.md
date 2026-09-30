@@ -2,8 +2,10 @@
 *n.*
 > /lɪˈkwɪdɪti/
 
+![[liquidity.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The availability of liquid assets (cash) to a market or company to meet short-term obligations

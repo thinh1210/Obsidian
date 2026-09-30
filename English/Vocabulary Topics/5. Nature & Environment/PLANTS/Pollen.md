@@ -2,8 +2,10 @@
 *noun*
 > /ˈpɒlən/
 
+![[pollen.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fine powdery substance discharge from the male part of a flower.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pollen grain`: hạt phấn hoa
 - `pollen allergy`: dị ứng phấn hoa
+- `high pollen count`: mật độ phấn hoa cao trong không khí
+- `collect pollen`: ong thu thập phấn hoa
+- `wind-blown pollen`: phấn hoa phát tán nhờ gió
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* My pollen allergy flares up every spring.

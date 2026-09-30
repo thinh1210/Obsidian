@@ -2,8 +2,10 @@
 *verb/noun*
 > /ˌmænjuˈfæktʃə(r)/
 
+![[manufacture.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something on a large scale using machinery.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `manufacture goods`: sản xuất hàng hóa
 - `cost of manufacture`: chi phí sản xuất
+- `advanced manufacturing`: sản xuất tiên tiến
+- `original equipment manufacturer (OEM)`: nhà sản xuất thiết bị gốc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The company plans to manufacture its new smartphone model in Vietnam.

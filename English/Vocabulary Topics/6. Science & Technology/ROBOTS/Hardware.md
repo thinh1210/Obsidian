@@ -2,8 +2,10 @@
 *noun.*
 > /ˈhɑːrd.wer/
 
+![[hardware.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The physical parts of a computer or electronic system
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `computer hardware`: phần cứng máy tính
+- `robotics hardware`: phần cứng robot
+- `hardware failure`: lỗi phần cứng
+- `hardware upgrade`: nâng cấp phần cứng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The robot's hardware includes the metal frame and motors.

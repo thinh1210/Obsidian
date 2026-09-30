@@ -2,8 +2,10 @@
 *n.*
 > /voʊɡ/
 
+![[vogue.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The prevailing fashion or style at a particular time.
@@ -13,7 +15,11 @@
 💡 Vogue - tạp chí Vogue nổi tiếng về thời trang.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `in vogue`: đang thịnh hành\n- `come into vogue`: trở thành mốt
+- `in vogue`: đang thịnh hành
+- `come into vogue`: trở thành mốt
+- `all the vogue`: đang là mốt thịnh hành nhất
+- `fashion vogue`: xu hướng thời trang thịnh hành
+- `regain vogue`: lấy lại phong độ, hot trở lại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Short skirts are back in vogue.

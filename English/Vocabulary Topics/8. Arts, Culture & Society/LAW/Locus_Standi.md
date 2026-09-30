@@ -2,8 +2,10 @@
 *noun*
 > /ˌloʊkəs ˈstændi/
 
+![[locus_standi.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The right or capacity to bring an action or appear in court

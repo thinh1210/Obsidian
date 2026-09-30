@@ -2,8 +2,10 @@
 *n.*
 > /spɔːrt/
 
+![[sport.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Giáo dục thể chất, Thể thao & Vận động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving physical exertion and skill in which an individual or team competes; also a school subject involving physical education.

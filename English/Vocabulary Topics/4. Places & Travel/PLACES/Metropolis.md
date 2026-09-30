@@ -2,8 +2,10 @@
 *n.*
 > /məˈtrɑː.pəl.ɪs/
 
+![[metropolis.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The capital or chief city of a country or region; a very large and busy city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bustling metropolis`: siêu đô thị nhộn nhịp
+- `thriving metropolis`: đô thị lớn phồn hoa
+- `sprawling metropolis`: đại đô thị rộng lớn bao la
+- `cultural metropolis`: trung tâm đô thị văn hóa tầm cỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New York is a bustling metropolis.

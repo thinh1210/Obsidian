@@ -2,8 +2,10 @@
 *noun*
 > /ˌkɒn.fləˈɡreɪ.ʃən/
 
+![[conflagration.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large fire that destroys a lot of land or buildings.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `massive conflagration`: đám cháy khổng lồ tàn khốc
 - `risk of conflagration`: nguy cơ hỏa hoạn
+- `raging conflagration`: ngọn lửa hung tàn thiêu rụi mọi thứ
+- `engulfed in a conflagration`: bị nhấn chìm trong biển lửa
+- `spark a conflagration`: thổi bùng lên ngọn lửa xung đột dữ dội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dry conditions turned the small campfire into a massive conflagration.

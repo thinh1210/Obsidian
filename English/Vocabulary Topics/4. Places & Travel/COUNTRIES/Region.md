@@ -2,8 +2,10 @@
 *Noun*
 > /ˈriːdʒən/
 
+![[region.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area, especially part of a country or the world having definable characteristics.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `Mountainous region`: Vùng núi
+- `autonomous region`: khu tự trị
+- `polar region`: vùng cực
+- `prosperous region`: vùng thịnh vượng kinh tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* This region is famous for its wine.

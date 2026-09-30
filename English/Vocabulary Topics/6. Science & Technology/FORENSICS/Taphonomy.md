@@ -2,8 +2,10 @@
 *noun*
 > /tæˈfɒn.ə.mi/
 
+![[taphonomy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of how organisms decay and become fossilised; in forensics, applied to understand burial and decomposition of human remains.

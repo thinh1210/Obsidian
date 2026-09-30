@@ -2,8 +2,10 @@
 *n.*
 > /kəˈmjuː.nə.ti/
 
+![[community.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of people living in the same place or having a particular characteristic in common.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local community`: cộng đồng địa phương
 - `sense of community`: ý thức cộng đồng
+- `tribal community`: cộng đồng bộ tộc
+- `tight-knit community`: cộng đồng gắn kết chặt chẽ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The local community raised money for the new park.

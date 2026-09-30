@@ -2,8 +2,10 @@
 *Adjective*
 > /təˈrestriəl/
 
+![[terrestrial.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** On or relating to the earth; living on or in the ground.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `terrestrial animal`: động vật trên cạn
 - `terrestrial ecosystem`: hệ sinh thái trên cạn
+- `terrestrial planet`: hành tinh đất đá giống Trái Đất
+- `terrestrial radiation`: bức xạ mặt đất
+- `terrestrial habitats`: các sinh cảnh trên cạn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Elephants are the largest living terrestrial animals.

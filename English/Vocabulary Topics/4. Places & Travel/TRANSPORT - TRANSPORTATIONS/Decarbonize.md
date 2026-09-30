@@ -2,8 +2,10 @@
 *verb*
 > /ˌdiːˈkɑːrbənaɪz/
 
+![[decarbonize.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Reduce carbon gaseous emissions from (a process, industry, or country).
@@ -16,6 +18,7 @@
 - `decarbonize the transport sector`: khử các-bon trong lĩnh vực giao thông
 - `efforts to decarbonize`: những nỗ lực giảm khí thải các-bon
 - `decarbonize the economy`: giảm các-bon trong nền kinh tế
+- `decarbonize transport`: khử carbon trong giao thông vận tải
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Governments must decarbonize the transport sector by promoting electric vehicles.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈwɔːtə(r)/
 
+![[water.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A colorless, transparent, odorless liquid.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fresh water`: nước ngọt
+- `deep waters`: vùng nước sâu
+- `troubled waters`: tình thế rối ren hiểm nguy
+- `navigable waters`: vùng nước tàu bè qua lại được
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Oceans hold most of Earth's water.

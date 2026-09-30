@@ -2,8 +2,10 @@
 *verb*
 > /ɪnˈveɪd/
 
+![[invade.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To enter a country or region with an armed force with the intent of conquering it.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `invade a country`: xâm lược một quốc gia
 - `invade privacy`: xâm phạm quyền riêng tư (daily context)
+- `foreign troops invade`: quân đội ngoại bang xâm lược
+- `invade the capital`: tràn vào chiếm đánh thủ đô
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The army plans to invade the capital city tomorrow morning.

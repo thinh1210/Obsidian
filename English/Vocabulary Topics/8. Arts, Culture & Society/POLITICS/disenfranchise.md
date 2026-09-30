@@ -2,8 +2,10 @@
 *verb*
 > /ˌdɪsɪnˈfræntʃaɪz/
 
+![[disenfranchise.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To deprive someone of the right to vote or other citizen privileges.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `disenfranchise voters`: tước quyền bỏ phiếu của cử tri
 - `socially disenfranchised`: bị gạt ra ngoài lề xã hội
+- `disenfranchised youth`: giới trẻ bị gạt ra lề xã hội / mất quyền lợi
+- `systematically disenfranchise`: tước quyền công dân một cách có hệ thống
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* New laws could disenfranchise thousands of low-income voters.

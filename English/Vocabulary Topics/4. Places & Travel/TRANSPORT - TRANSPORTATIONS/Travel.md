@@ -2,8 +2,10 @@
 *verb*
 > /ˈtrævl/
 
+![[travel.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a journey, typically of some length or abroad.
@@ -16,6 +18,8 @@
 - `travel abroad`: đi du lịch nước ngoài
 - `travel agency`: đại lý du lịch
 - `light travel`: đi du lịch gọn nhẹ
+- `travel allowance`: khoản tiền phụ cấp công tác đi lại
+- `travel pass`: thẻ vé thông hành du lịch đi lại tự do
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I love to travel to different countries during my summer holidays.

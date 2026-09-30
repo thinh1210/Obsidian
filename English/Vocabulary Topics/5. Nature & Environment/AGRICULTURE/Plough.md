@@ -2,8 +2,10 @@
 *v.*
 > /plaʊ/
 
+![[plough.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To turn over soil with a heavy blade before planting seeds.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plough the fields`: cày ruộng
 - `plough under`: cày lật đất phủ lên
+- `plough ahead`: kiên trì tiến lên phía trước bất chấp khó khăn
+- `plough back profits`: tái đầu tư lợi nhuận
+- `horse-drawn plough`: chiếc cày do ngựa kéo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The tractor was used to plough the soil before sowing.

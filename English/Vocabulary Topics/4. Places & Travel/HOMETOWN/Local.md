@@ -2,8 +2,10 @@
 *adj.*
 > /ˈləʊkl/
 
+![[local.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Belonging or relating to a particular area or neighborhood.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `local food`: thức ăn địa phương
+- `local government`: chính quyền địa phương
+- `local customs`: phong tục tập quán của địa phương
+- `support local businesses`: ủng hộ hộ kinh doanh địa phương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I like eating local food.

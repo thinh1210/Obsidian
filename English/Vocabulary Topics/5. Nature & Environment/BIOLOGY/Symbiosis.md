@@ -2,8 +2,10 @@
 *noun*
 > /ˌsɪm.baɪˈəʊ.sɪs/
 
+![[symbiosis.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Interaction between two different organisms living in close physical association, typically to the advantage of both.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `symbiotic relationship`: mối quan hệ cộng sinh
 - `mutual symbiosis`: sự cộng sinh tương hỗ
+- `endosymbiotic theory`: thuyết nội cộng sinh
+- `parasitic symbiosis`: mối quan hệ cộng sinh ký sinh
+- `symbiotic micro-organisms`: các vi sinh vật cộng sinh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The relationship between bees and flowers is a perfect example of symbiosis.

@@ -2,8 +2,10 @@
 *n.*
 > /ˈer.pɔːrt/
 
+![[airport.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A complex of runways and buildings for the take-off, landing, and maintenance of civil aircraft.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `international airport`: sân bay quốc tế
+- `airport terminal`: nhà ga sân bay
+- `arrive at the airport`: đến sân bay
+- `airport security check`: kiểm tra an ninh tại sân bay
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We need to go to the airport early.

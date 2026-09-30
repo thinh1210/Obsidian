@@ -2,8 +2,10 @@
 *noun*
 > /prəˌnʌn.siˈeɪ.ʃən/
 
+![[pronunciation.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the way in which a word or letter is pronounced

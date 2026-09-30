@@ -2,8 +2,10 @@
 *adjective*
 > /ɪmˈpɪr.ɪ.kəl/
 
+![[empirical.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Based on observation or experiment rather than theory or logic alone.

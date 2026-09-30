@@ -2,8 +2,10 @@
 *noun*
 > /stəʊn/
 
+![[stone.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Hard solid mineral substance that is found in the ground
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `stone tool`: công cụ bằng đá
 - `carve stone`: khắc đá
+- `stone slab`: phiến đá cổ
+- `foundation stone`: viên đá đặt móng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He threw a stone into the river.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈlaɪtnɪŋ/
 
+![[lightning.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden flash of bright light in the sky during a storm
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `lightning strike`: sét đánh
+- `lightning fast`: nhanh như chớp
+- `struck by lightning`: bị sét đánh trúng
+- `lightning never strikes twice in the same place`: họa vô đơn chí / sét không bao giờ đánh hai lần vào một chỗ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ancient tree was split in half by a lightning strike.

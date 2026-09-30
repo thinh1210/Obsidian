@@ -2,8 +2,10 @@
 *verb*
 > /dɪˈstrɔɪ/
 
+![[destroy.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To damage something so badly that it cannot be used or no longer exists.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `completely destroy`: phá hủy hoàn toàn
 - `destroy property`: phá hủy tài sản
+- `destroy evidence`: tiêu hủy bằng chứng
+- `destroy one's confidence`: hủy hoại sự tự tin của ai
+- `threaten to destroy`: đe dọa phá hủy hoàn toàn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The earthquake destroyed several old buildings in the city.

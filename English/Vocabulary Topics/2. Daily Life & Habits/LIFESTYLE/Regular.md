@@ -2,8 +2,10 @@
 *adj.*
 > /ˈrɛɡjʊlə/
 
+![[regular.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done or happening frequently.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `regular exercise`: tập thể dục thường xuyên
+- `keep regular hours`: ngủ dậy đúng giờ giấc cố định
+- `on a regular basis`: một cách thường xuyên, định kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need regular breaks.

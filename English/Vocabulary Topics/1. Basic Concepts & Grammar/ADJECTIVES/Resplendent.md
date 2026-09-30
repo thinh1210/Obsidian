@@ -2,8 +2,10 @@
 *adj.*
 > /rɪˈsplendənt/
 
+![[resplendent.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Attractive and impressive through being richly colorful
@@ -13,7 +15,10 @@
 💡 Rẽ sờ (resplendent) thấy sáng rực
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``resplendent beauty`: vẻ đẹp rực rỡ`
+- `resplendent beauty`: vẻ đẹp rực rỡ
+- `resplendent in`: rực rỡ / lộng lẫy trong trang phục
+- `resplendent robes`: những bộ xiêm y lộng lẫy
+- `resplendent sunlight`: ánh nắng chói lọi rực rỡ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Resplendent dress.

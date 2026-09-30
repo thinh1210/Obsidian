@@ -1,62 +1,106 @@
 # Tổng hợp từ vựng: ECONOMICS - BUSINESS
 
 Đây là file tổng hợp các từ vựng thuộc chủ đề **ECONOMICS - BUSINESS**.
-Danh sách dưới đây đã được **sắp xếp theo cấp độ (Level) từ thấp đến cao (A1 -> C2)**. Bạn nên ưu tiên học các từ cơ bản ở trên cùng trước.
+Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực quan** và **sắp xếp theo cấp độ từ A1 đến C2** giúp bạn dễ dàng liên kết từ vựng theo tư duy ngữ cảnh và sơ đồ tư duy thực tế.
 
-## Danh sách từ vựng
+## 🗺️ Sơ đồ liên kết chủ đề (Semantic Map)
+- **🛒 1. Thị trường, Cung cầu & Thương mại quốc tế** (Markets, Supply & Demand, Trade & Goods): [[Buy]], [[Pay]], [[Price]], [[Sell]], [[Spend]], [[Business]], [[Cost]], [[Customer]], [[Income]], [[Market]], [[Product]], [[Save]], [[Service]], [[Consumer]], [[Demand]], [[Export]], [[Import]], [[Supply]], [[Commodity]], [[E-commerce]]
+- **🏢 2. Doanh nghiệp, Chiến lược kinh doanh & Độc quyền** (Enterprises, Strategy, Corporations & Monopolies): [[Job]], [[Company]], [[Advertise]], [[Brand]], [[Budget]], [[Competition]], [[Contract]], [[Debt]], [[Marketing]], [[Profit]], [[Strategy]], [[Capital]], [[Entrepreneur]], [[Conglomerate]], [[Monopoly]], [[Cartel]], [[Hegemony]]
+- **📈 3. Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái** (Macroeconomics, Inflation, Fiscal Policy & Cycles): [[Inflation]], [[Investment]], [[Revenue]], [[Audit]], [[Depreciate]], [[Discrepancy]], [[Fiscal]], [[Recession]], [[Speculate]], [[Subsidy]], [[Solvency]]
+- **⚖️ 4. Đòn bẩy tài chính & Nghĩa vụ nợ doanh nghiệp** (Financial Leverage & Corporate Liabilities): [[Leverage]], [[Liabilities]]
 
-| Từ vựng | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- |
-| Buy | A1 | verb | mua | buyer (n), buyable (adj) | [[Buy]] |
-| Job | A1 | noun | công việc, việc làm | jobless (adj), jobholder (n) | [[Job]] |
-| Pay | A1 | verb | thanh toán, trả tiền | payment (n), payee (n), taxpayer (n) | [[Pay]] |
-| Price | A1 | noun | giá cả | priceless (adj), pricey (adj) | [[Price]] |
-| Sell | A1 | verb | bán | seller (n), sale (n) | [[Sell]] |
-| Spend | A1 | verb | tiêu xài, chi tiêu | spender (n), overspend (v) | [[Spend]] |
-| Business | A2 | noun | kinh doanh, doanh nghiệp | businessman (n), businesswoman (n) | [[Business]] |
-| Company | A2 | noun | công ty | companion (n), accompany (v) | [[Company]] |
-| Cost | A2 | noun | chi phí, giá tiền | costly (adj) | [[Cost]] |
-| Customer | A2 | noun | khách hàng | customize (v), custom (n) | [[Customer]] |
-| Income | A2 | noun | thu nhập | incoming (adj) | [[Income]] |
-| Market | A2 | noun | thị trường, chợ | marketing (n), marketplace (n) | [[Market]] |
-| Product | A2 | noun | sản phẩm | produce (v), production (n), productive (adj) | [[Product]] |
-| Save | A2 | verb | tiết kiệm, tích lũy | savings (n), savior (n) | [[Save]] |
-| Service | A2 | noun | dịch vụ | serve (v), servant (n) | [[Service]] |
-| Advertise | B1 | verb | quảng cáo | advertisement (n), advertiser (n), advertising (n) | [[Advertise]] |
-| Brand | B1 | noun | thương hiệu | branding (n), branded (adj) | [[Brand]] |
-| Budget | B1 | noun | ngân sách | budgetary (adj) | [[Budget]] |
-| Competition | B1 | noun | sự cạnh tranh | compete (v), competitive (adj), competitor (n) | [[Competition]] |
-| Consumer | B1 | noun | người tiêu dùng | consume (v), consumption (n) | [[Consumer]] |
-| Contract | B1 | noun | hợp đồng | contractor (n), contractual (adj) | [[Contract]] |
-| Debt | B1 | noun | khoản nợ | debtor (n), indebted (adj) | [[Debt]] |
-| Demand | B1 | noun | nhu cầu, yêu cầu | demanding (adj) | [[Demand]] |
-| Export | B1 | verb | xuất khẩu | exportation (n), exporter (n) | [[Export]] |
-| Import | B1 | verb | nhập khẩu | importation (n), importer (n) | [[Import]] |
-| Marketing | B1 | noun | tiếp thị | market (noun/verb), marketer (n) | [[Marketing]] |
-| Profit | B1 | noun | lợi nhuận | profitable (adj), profitability (n) | [[Profit]] |
-| Strategy | B1 | noun | chiến lược | strategic (adj), strategize (v) | [[Strategy]] |
-| Supply | B1 | noun | nguồn cung, cung cấp | supplier (n) | [[Supply]] |
-| Capital | B2 | noun | vốn, nguồn vốn | capitalize (v), capitalism (n) | [[Capital]] |
-| E-commerce | B2 | noun | thương mại điện tử | commercial (adj), commerce (n) | [[E-commerce]] |
-| Entrepreneur | B2 | noun | doanh nhân, nhà khởi nghiệp | entrepreneurial (adj), entrepreneurship (n) | [[Entrepreneur]] |
-| Inflation | B2 | noun | lạm phát | inflate (v), inflationary (adj) | [[Inflation]] |
-| Investment | B2 | noun | sự đầu tư, khoản đầu tư | invest (v), investor (n) | [[Investment]] |
-| Revenue | B2 | noun | doanh thu | revenue-sharing (n) | [[Revenue]] |
-| Audit | C1 | verb | kiểm toán, sự kiểm toán | auditor (n), audited (adj) | [[Audit]] |
-| Commodity | C1 | noun | hàng hóa, thương phẩm | commoditize (v), commodification (n) | [[Commodity]] |
-| Conglomerate | C1 | noun | tập đoàn đa ngành | conglomeration (n) | [[Conglomerate]] |
-| Depreciate | C1 | verb | khấu hao, giảm giá trị | depreciation (n), depreciatory (adj) | [[Depreciate]] |
-| Discrepancy | C1 | noun | sự bất nhất, sự khác biệt | discrepant (adj) | [[Discrepancy]] |
-| Fiscal | C1 | adjective | thuộc tài khóa, tài chính chính phủ | fiscally (adv), fiscalness (n) | [[Fiscal]] |
-| Leverage | C1 | verb | đòn bẩy, tận dụng, sử dụng đòn bẩy tài chính | lever (n), leveraged (adj) | [[Leverage]] |
-| Liabilities | C1 | noun | các khoản nợ phải trả, nghĩa vụ pháp lý | liable (adj) | [[Liabilities]] |
-| Monopoly | C1 | noun | sự độc quyền, vị thế độc quyền | monopolize (v), monopolistic (adj) | [[Monopoly]] |
-| Recession | C1 | noun | sự suy thoái kinh tế | recess (noun/verb), recessive (adj) | [[Recession]] |
-| Speculate | C1 | verb | đầu cơ, tích trữ | speculation (n), speculator (n), speculative (adj) | [[Speculate]] |
-| Subsidy | C1 | noun | tiền trợ cấp, bao cấp | subsidize (v), subsidized (adj) | [[Subsidy]] |
-| Cartel | C2 | noun | các-ten, liên minh độc quyền giữa các doanh nghiệp | cartelization (n), cartelize (v) | [[Cartel]] |
-| Hegemony | C2 | noun | bá quyền, quyền bá chủ | hegemonic (adj) | [[Hegemony]] |
-| Solvency | C2 | noun | khả năng thanh toán nợ dài hạn | solvent (adj), insolvency (n) | [[Solvency]] |
+## Danh sách từ vựng theo nhóm ngữ nghĩa
+
+### 🛒 1. Thị trường, Cung cầu & Thương mại quốc tế (Markets, Supply & Demand, Trade & Goods)
+*Quy luật cung cầu, giá cả hàng hóa, hành vi người tiêu dùng, xuất nhập khẩu và thương mại điện tử.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Buy | /baɪ/ [[buy.mp3\|🔊]] | A1 | verb | mua | buyer (n), buyable (adj) | [[Buy]] |
+| Pay | /peɪ/ [[pay.mp3\|🔊]] | A1 | verb | thanh toán, trả tiền | payment (n), payee (n), taxpayer (n) | [[Pay]] |
+| Price | /praɪs/ [[price.mp3\|🔊]] | A1 | noun | giá cả | priceless (adj), pricey (adj) | [[Price]] |
+| Sell | /sel/ [[sell.mp3\|🔊]] | A1 | verb | bán | seller (n), sale (n) | [[Sell]] |
+| Spend | /spend/ [[spend.mp3\|🔊]] | A1 | verb | tiêu xài, chi tiêu | spender (n), overspend (v) | [[Spend]] |
+| Business | /ˈbɪznəs/ [[business.mp3\|🔊]] | A2 | noun | kinh doanh, doanh nghiệp | businessman (n), businesswoman (n) | [[Business]] |
+| Cost | /kɔːst/ [[cost.mp3\|🔊]] | A2 | noun | chi phí, giá tiền | costly (adj) | [[Cost]] |
+| Customer | /ˈkʌstəmər/ [[customer.mp3\|🔊]] | A2 | noun | khách hàng | customize (v), custom (n) | [[Customer]] |
+| Income | /ˈɪnkʌm/ [[income.mp3\|🔊]] | A2 | noun | thu nhập | incoming (adj) | [[Income]] |
+| Market | /ˈmɑːrkɪt/ [[market.mp3\|🔊]] | A2 | noun | thị trường, chợ | marketing (n), marketplace (n) | [[Market]] |
+| Product | /ˈprɒdʌkt/ [[product.mp3\|🔊]] | A2 | noun | sản phẩm | produce (v), production (n), productive (adj) | [[Product]] |
+| Save | /seɪv/ [[save.mp3\|🔊]] | A2 | verb | tiết kiệm, tích lũy | savings (n), savior (n) | [[Save]] |
+| Service | /ˈsɜːrvɪs/ [[service.mp3\|🔊]] | A2 | noun | dịch vụ | serve (v), servant (n) | [[Service]] |
+| Consumer | /kənˈsuːmər/ [[consumer.mp3\|🔊]] | B1 | noun | người tiêu dùng | consume (v), consumption (n) | [[Consumer]] |
+| Demand | /dɪˈmænd/ [[demand.mp3\|🔊]] | B1 | noun | nhu cầu, yêu cầu | demanding (adj) | [[Demand]] |
+| Export | /ˈekspɔːrt/ [[export.mp3\|🔊]] | B1 | verb | xuất khẩu | exportation (n), exporter (n) | [[Export]] |
+| Import | /ˈɪmpɔːrt/ [[import.mp3\|🔊]] | B1 | verb | nhập khẩu | importation (n), importer (n) | [[Import]] |
+| Supply | /səˈplaɪ/ [[supply.mp3\|🔊]] | B1 | noun | nguồn cung, cung cấp | supplier (n) | [[Supply]] |
+| E-commerce | /ˈiː kɑːmɜːrs/ [[e_commerce.mp3\|🔊]] | B2 | noun | thương mại điện tử | commercial (adj), commerce (n) | [[E-commerce]] |
+| Commodity | /kəˈmɑːdəti/ [[commodity.mp3\|🔊]] | C1 | noun | hàng hóa, thương phẩm | commoditize (v), commodification (n) | [[Commodity]] |
+
+### 🏢 2. Doanh nghiệp, Chiến lược kinh doanh & Độc quyền (Enterprises, Strategy, Corporations & Monopolies)
+*Tập đoàn kinh tế, tinh thần khởi nghiệp, hợp đồng hợp tác, chiến lược cạnh tranh và tập đoàn lũng đoạn.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Job | /dʒɑːb/ [[job.mp3\|🔊]] | A1 | noun | công việc, việc làm | jobless (adj), jobholder (n) | [[Job]] |
+| Company | /ˈkʌmpəni/ [[company.mp3\|🔊]] | A2 | noun | công ty | companion (n), accompany (v) | [[Company]] |
+| Advertise | /ˈædvərtaɪz/ [[advertise.mp3\|🔊]] | B1 | verb | quảng cáo | advertisement (n), advertiser (n), advertising (n) | [[Advertise]] |
+| Brand | /brænd/ [[brand.mp3\|🔊]] | B1 | noun | thương hiệu | branding (n), branded (adj) | [[Brand]] |
+| Budget | /ˈbʌdʒɪt/ [[budget.mp3\|🔊]] | B1 | noun | ngân sách | budgetary (adj) | [[Budget]] |
+| Competition | /ˌkɑːmpəˈtɪʃn/ [[competition.mp3\|🔊]] | B1 | noun | sự cạnh tranh | compete (v), competitive (adj), competitor (n) | [[Competition]] |
+| Contract | /ˈcɑːntrækt/ [[contract.mp3\|🔊]] | B1 | noun | hợp đồng | contractor (n), contractual (adj) | [[Contract]] |
+| Debt | /det/ [[debt.mp3\|🔊]] | B1 | noun | khoản nợ | debtor (n), indebted (adj) | [[Debt]] |
+| Marketing | /ˈmɑːrkɪtɪŋ/ [[marketing.mp3\|🔊]] | B1 | noun | tiếp thị | market (noun/verb), marketer (n) | [[Marketing]] |
+| Profit | /ˈprɑːfɪt/ [[profit.mp3\|🔊]] | B1 | noun | lợi nhuận | profitable (adj), profitability (n) | [[Profit]] |
+| Strategy | /ˈstrætədʒi/ [[strategy.mp3\|🔊]] | B1 | noun | chiến lược | strategic (adj), strategize (v) | [[Strategy]] |
+| Capital | /ˈkæpɪtl/ [[capital.mp3\|🔊]] | B2 | noun | vốn, nguồn vốn | capitalize (v), capitalism (n) | [[Capital]] |
+| Entrepreneur | /ˌɑːntrəprəˈnɜːr/ [[entrepreneur.mp3\|🔊]] | B2 | noun | doanh nhân, nhà khởi nghiệp | entrepreneurial (adj), entrepreneurship (n) | [[Entrepreneur]] |
+| Conglomerate | /kənˈɡlɑːmərət/ [[conglomerate.mp3\|🔊]] | C1 | noun | tập đoàn đa ngành | conglomeration (n) | [[Conglomerate]] |
+| Monopoly | /əˈnɑːpəli/ [[monopoly.mp3\|🔊]] | C1 | noun | sự độc quyền, vị thế độc quyền | monopolize (v), monopolistic (adj) | [[Monopoly]] |
+| Cartel | /kɑːrˈtel/ [[cartel.mp3\|🔊]] | C2 | noun | các-ten, liên minh độc quyền giữa các doanh nghiệp | cartelization (n), cartelize (v) | [[Cartel]] |
+| Hegemony | /hɪˈdʒeməni/ [[hegemony.mp3\|🔊]] | C2 | noun | bá quyền, quyền bá chủ | hegemonic (adj) | [[Hegemony]] |
+
+### 📈 3. Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái (Macroeconomics, Inflation, Fiscal Policy & Cycles)
+*Chính sách tài khóa, tỷ lệ lạm phát, suy thoái kinh tế chu kỳ, trợ cấp chính phủ và khả năng thanh toán.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Inflation | /ɪnˈfleɪʃn/ [[inflation.mp3\|🔊]] | B2 | noun | lạm phát | inflate (v), inflationary (adj) | [[Inflation]] |
+| Investment | /ɪnˈvestmənt/ [[investment.mp3\|🔊]] | B2 | noun | sự đầu tư, khoản đầu tư | invest (v), investor (n) | [[Investment]] |
+| Revenue | /ˈrevənuː/ [[revenue.mp3\|🔊]] | B2 | noun | doanh thu | revenue-sharing (n) | [[Revenue]] |
+| Audit | /ˈɔːdɪt/ [[audit.mp3\|🔊]] | C1 | verb | kiểm toán, sự kiểm toán | auditor (n), audited (adj) | [[Audit]] |
+| Depreciate | /dɪˈpriːʃieɪt/ [[depreciate.mp3\|🔊]] | C1 | verb | khấu hao, giảm giá trị | depreciation (n), depreciatory (adj) | [[Depreciate]] |
+| Discrepancy | /dɪˈskrepənsi/ [[discrepancy.mp3\|🔊]] | C1 | noun | sự bất nhất, sự khác biệt | discrepant (adj) | [[Discrepancy]] |
+| Fiscal | /ˈfɪskl/ [[fiscal.mp3\|🔊]] | C1 | adjective | thuộc tài khóa, tài chính chính phủ | fiscally (adv), fiscalness (n) | [[Fiscal]] |
+| Recession | /rɪˈseʃn/ [[recession.mp3\|🔊]] | C1 | noun | sự suy thoái kinh tế | recess (noun/verb), recessive (adj) | [[Recession]] |
+| Speculate | /ˈspekjuleɪt/ [[speculate.mp3\|🔊]] | C1 | verb | đầu cơ, tích trữ | speculation (n), speculator (n), speculative (adj) | [[Speculate]] |
+| Subsidy | /ˈsʌbsədi/ [[subsidy.mp3\|🔊]] | C1 | noun | tiền trợ cấp, bao cấp | subsidize (v), subsidized (adj) | [[Subsidy]] |
+| Solvency | /ˈsɑːlvənsi/ [[solvency.mp3\|🔊]] | C2 | noun | khả năng thanh toán nợ dài hạn | solvent (adj), insolvency (n) | [[Solvency]] |
+
+### ⚖️ 4. Đòn bẩy tài chính & Nghĩa vụ nợ doanh nghiệp (Financial Leverage & Corporate Liabilities)
+*Sử dụng đòn bẩy vốn nợ để mở rộng quy mô kinh doanh và quản lý rủi ro các khoản nợ phải trả.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Leverage | /ˈlevərɪdʒ/ [[leverage.mp3\|🔊]] | C1 | verb | đòn bẩy, tận dụng, sử dụng đòn bẩy tài chính | lever (n), leveraged (adj) | [[Leverage]] |
+| Liabilities | /ˌlaɪəˈbɪlətiz/ [[liabilities.mp3\|🔊]] | C1 | noun | các khoản nợ phải trả, nghĩa vụ pháp lý | liable (adj) | [[Liabilities]] |
+
+## 🔗 Cụm từ, Collocations & Phrasal Verbs phổ biến theo chủ đề (Key Phrases & Expressions)
+*Các cụm từ cố định, phrasal verbs và thành ngữ thông dụng nhất giúp bạn nói và viết tự nhiên về chủ đề **ECONOMICS - BUSINESS**.*
+
+| Cụm từ / Phrasal Verb | Loại | Cấp độ | Ý nghĩa | Ví dụ áp dụng |
+| --- | --- | --- | --- | --- |
+| **supply and demand** | Collocation | B1 | quy luật cung và cầu trên thị trường | *Market equilibrium prices are dictated fundamentally by the forces of supply and demand.* |
+| **corner the market** | Idiom | C1 | thâu tóm độc quyền thị trường | *By buying up all raw cobalt mines, the conglomerate attempted to corner the battery market.* |
+| **economic downturn** | Collocation | B2 | sự suy thoái, đi xuống của nền kinh tế | *Firms scaled back speculative investments during the severe global economic downturn.* |
+| **cut back on expenses** | Phrasal Verb | B1 | cắt giảm chi phí hoạt động | *Management decided to cut back on travel expenses and adopt virtual video meetings.* |
+| **competitive edge** | Collocation | B2 | lợi thế cạnh tranh vượt trội | *Continuous innovation in battery range gave the automaker a decisive competitive edge.* |
+| **gain ground** | Idiom | B2 | chiếm thêm thị phần, tiến triển tốt | *Electric car startups are rapidly gaining ground against legacy combustion brands.* |
+| **gross domestic product** | Collocation | B2 | tổng sản phẩm quốc nội (GDP) | *Exports of manufactured electronics account for a sizable share of the nation's gross domestic product.* |
+| **scale up operations** | Phrasal Verb | B2 | mở rộng quy mô hoạt động sản xuất | *Securing venture capital funding enabled the biotech startup to scale up clinical operations.* |
+| **think outside the box** | Idiom | B2 | tư duy đột phá vượt khuôn khổ | *Disruptive entrepreneurs succeed because they fearlessly think outside the box.* |
+| **monopolistic practice** | Collocation | C1 | hành vi lũng đoạn, độc quyền thương mại | *Antitrust regulators penalized the tech titan for anti-competitive monopolistic practices.* |
+
 ## 📖 Đoạn văn thực tế (Contextual Story)
 
 ### English Paragraph

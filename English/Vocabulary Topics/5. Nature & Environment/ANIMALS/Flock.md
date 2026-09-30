@@ -2,8 +2,10 @@
 *noun*
 > /flɒk/
 
+![[flock.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A number of birds of one kind feeding, resting, or travelling together.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `flock of birds`: đàn chim
 - `flock of sheep`: đàn cừu
+- `birds of a feather flock together`: ngưu tầm ngưu mã tầm mã
+- `flock to the city`: đổ xô về các thành phố lớn
+- `large flock`: bầy đàn lớn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* A large flock of geese flew south in a perfect V-formation.

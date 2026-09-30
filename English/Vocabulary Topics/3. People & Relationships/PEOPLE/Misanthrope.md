@@ -2,8 +2,10 @@
 *n.*
 > /ˈmɪz.ən.θrəʊp/
 
+![[misanthrope.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who dislikes humankind and avoids human society.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A bitter misanthrope`: Một kẻ ghét đời cay đắng
+- `cynical misanthrope`: kẻ ghét người hay hoài nghi cay độc
+- `reputation as a misanthrope`: tiếng tăm là kẻ lánh đời căm ghét con người
+- `solitary misanthrope`: kẻ chán ghét loài người sống ẩn dật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He became a misanthrope in his old age.

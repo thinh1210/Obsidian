@@ -2,8 +2,10 @@
 *noun*
 > /ˈbʌdʒɪt/
 
+![[budget.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An estimate of income and expenditure for a set period of time
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tight budget`: ngân sách eo hẹp
 - `marketing budget`: ngân sách tiếp thị
+- `marketing budget allocation`: sự phân bổ ngân sách cho các kênh tiếp thị
+- `exceed the budget`: chi tiêu vượt quá hạn mức ngân sách
+- `budget overrun`: tình trạng bội chi ngân sách tiếp thị
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We are traveling on a tight budget, so we stay in cheap hostels.

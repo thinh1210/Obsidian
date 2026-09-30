@@ -2,8 +2,10 @@
 *n.*
 > /maɪˈɡreɪ.ʃən/
 
+![[migration.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Movement of people to a new area or country in order to find work or better living conditions.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `mass migration`: di cư hàng loạt
 - `seasonal migration`: di cư theo mùa
+- `human migration`: sự di cư của con người
+- `migration routes`: các tuyến đường di cư
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Economic issues are driving migration from rural areas to cities.

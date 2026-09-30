@@ -2,8 +2,10 @@
 *noun*
 > /ˈmeɪər/
 
+![[mayor.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The elected head of a city, town, or other municipality.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `city mayor`: thị trưởng thành phố
 - `run for mayor`: tranh cử thị trưởng
+- `deputy mayor`: phó thị trưởng
+- `elected mayor`: thị trưởng dân cử
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The mayor visited our school today to talk about green spaces.

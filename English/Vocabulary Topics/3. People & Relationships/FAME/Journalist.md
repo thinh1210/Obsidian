@@ -2,8 +2,10 @@
 *n.*
 > /ˈdʒɜːnəlɪst/
 
+![[journalist.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who writes for newspapers or magazines.
@@ -13,7 +15,10 @@
 💡 Journal (tạp chí) + ist (người).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `freelance journalist: nhà báo tự do`
+- `freelance journalist`: nhà báo tự do
+- `investigative journalist`: nhà báo điều tra sắc sảo
+- `broadcast journalist`: nhà báo truyền hình phát thanh
+- `veteran journalist`: nhà báo kỳ cựu dày dạn kinh nghiệm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The journalist asked tough questions.

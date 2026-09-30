@@ -2,8 +2,10 @@
 *n.*
 > /in'vestment/ -> /ɪnˈvestmənt/
 
+![[investment.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of putting money or effort into something to make a profit or achieve a result

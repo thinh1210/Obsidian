@@ -2,8 +2,10 @@
 *adj.*
 > /ɪˈleɪ.tɪd/
 
+![[elated.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ecstatically happy.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `elated by/at`: phấn khởi vì
+- `feel elated`: cảm thấy hân hoan phấn chấn
+- `elated at the news`: phấn khởi vui sướng trước tin vui
+- `elated expression`: nét mặt hớn hở rạng ngời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He was elated at the news.

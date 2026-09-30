@@ -2,8 +2,10 @@
 *n.*
 > /ˈneɪ.tʃər/
 
+![[nature.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic or inherent features, character, or qualities of something.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human nature`: bản tính con người
 - `nature of reality`: bản chất của thực tại
+- `force of nature`: sức mạnh phi thường / hiện tượng thiên nhiên
+- `in the nature of things`: theo lẽ tự nhiên của vạn vật
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's just his nature to be helpful and kind.

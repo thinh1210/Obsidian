@@ -2,8 +2,10 @@
 *noun*
 > /ˈdrɑːmə/
 
+![[drama.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of plays and acting, or a play for theater, radio, or television.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `drama school`: trường dạy diễn xuất
+- `drama workshop`: xưởng thực hành nghệ thuật kịch
+- `stage a drama`: dàn dựng một vở kịch
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He joined the school drama club to make friends.

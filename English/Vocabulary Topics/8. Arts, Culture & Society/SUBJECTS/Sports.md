@@ -2,8 +2,10 @@
 *noun*
 > /spɔːts/
 
+![[sports.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Giáo dục thể chất, Thể thao & Vận động
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical activities and games that involve physical exertion and skill.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sports science`: khoa học thể thao
+- `school sports`: thể thao trường học
+- `competitive sports`: thể thao thi đấu đối kháng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Sports are great for keeping active at school.

@@ -2,8 +2,10 @@
 *n.*
 > /sɪˈniːæst/
 
+![[cineast.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A filmmaker, film enthusiast, or devotee of motion pictures
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `veteran cineast`: nhà làm phim kỳ cựu
 - `cineast movement`: phong trào của các nhà làm phim
+- `aspiring cineast`: nhà làm phim trẻ giàu nhiệt huyết
+- `independent cineast`: nhà điện ảnh hoạt động độc lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The young cineast spent all his savings to produce a short film.

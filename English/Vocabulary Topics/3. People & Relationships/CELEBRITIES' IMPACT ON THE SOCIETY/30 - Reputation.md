@@ -2,8 +2,10 @@
 *n.*
 > /ˌrep.jəˈteɪ.ʃən/
 
+![[reputation.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The beliefs or opinions that are generally held about someone.
@@ -13,7 +15,10 @@
 💡 Reputation -> Tiếng tăm
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Good reputation: Danh tiếng tốt`
+- `Good reputation`: Danh tiếng tốt
+- `tarnish a reputation`: làm hoen ố danh tiếng
+- `enhance one's reputation`: nâng cao uy tín danh dự
+- `spotless reputation`: danh tiếng không tì vết
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Protect your reputation.

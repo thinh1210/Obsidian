@@ -2,8 +2,10 @@
 *n.*
 > /ˈkɒrɪdɔː(r)/
 
+![[corridor.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A long passage in a building from which doors lead into rooms
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `long corridor`: hành lang dài
 - `hotel corridor`: hành lang khách sạn
+- `narrow corridor`: hành lang hẹp
+- `connecting corridor`: hành lang nối
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She walked down the long corridor to the classroom.

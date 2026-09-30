@@ -2,8 +2,10 @@
 *verb*
 > /dɪˈskʌv.ər/
 
+![[discover.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Find unexpectedly or during a search.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `discover a new land`: khám phá vùng đất mới
 - `discover the truth`: khám phá ra sự thật
+- `discover ancient artifacts`: tìm thấy các cổ vật di tích lịch sử xưa
+- `voyage of discovery`: chuyến hải trình thám hiểm phát hiện vùng đất mới
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We discovered a beautiful hidden beach during our walk.

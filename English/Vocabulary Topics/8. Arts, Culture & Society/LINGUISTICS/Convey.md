@@ -2,8 +2,10 @@
 *verb*
 > /kənˈveɪ/
 
+![[convey.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to express a thought, feeling, or idea so that it is understood by other people

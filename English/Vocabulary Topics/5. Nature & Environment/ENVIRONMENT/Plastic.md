@@ -2,8 +2,10 @@
 *n.*
 > /ˈplæstɪk/
 
+![[plastic.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A synthetic material made from a wide range of organic polymers that can be molded into shape while soft and then set into a rigid or slightly elastic form.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `plastic bag`: túi nilon
 - `single-use plastic`: nhựa dùng một lần
+- `plastic pollution`: ô nhiễm rác thải nhựa
+- `microplastic particles`: các vi hạt nhựa ô nhiễm
+- `ban single-use plastics`: cấm đồ nhựa dùng một lần
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Avoid using single-use plastic cups.

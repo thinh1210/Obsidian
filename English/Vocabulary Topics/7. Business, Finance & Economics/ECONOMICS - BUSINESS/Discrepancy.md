@@ -2,8 +2,10 @@
 *noun*
 > /dɪˈskrepənsi/
 
+![[discrepancy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a difference between two things that should be the same, showing a lack of agreement or balance.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `reconcile discrepancies`: hòa giải các điểm bất nhất
 - `significant discrepancy`: sự bất nhất đáng kể
+- `accounting discrepancy`: khoản chênh lệch trong sổ sách kế toán
+- `minor discrepancy`: sai số / chênh lệch nhỏ
+- `resolve discrepancies`: giải quyết các điểm bất nhất
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There is a discrepancy between what she said and what she actually did.

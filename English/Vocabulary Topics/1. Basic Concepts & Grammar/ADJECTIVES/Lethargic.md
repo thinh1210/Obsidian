@@ -2,8 +2,10 @@
 *adj.*
 > /ləˈθɑːdʒɪk/
 
+![[lethargic.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Affected by lethargy; sluggish and apathetic
@@ -13,7 +15,10 @@
 💡 Lê thê (lethargic) mệt mỏi
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``lethargic state`: trạng thái lờ đờ`
+- `lethargic state`: trạng thái lờ đờ
+- `feel lethargic`: cảm thấy uể oải / lờ đờ
+- `grow increasingly lethargic`: ngày càng trở nên lừ đừ mệt mỏi
+- `lethargic response`: phản hồi chậm chạp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Feel lethargic.

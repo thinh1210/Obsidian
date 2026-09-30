@@ -2,8 +2,10 @@
 *Noun*
 > /mæp/
 
+![[map.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Lưu trú, Dẫn đường & Cẩm nang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A drawing of the earth's surface, or part of that surface.
@@ -13,7 +15,11 @@
 💡 MÉP (Map) bản đồ bị rách.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `look at a map`: nhìn bản đồ\n- `tourist map`: bản đồ du lịch
+- `look at a map`: nhìn bản đồ
+- `tourist map`: bản đồ du lịch
+- `city map`: bản đồ sơ đồ các tuyến phố
+- `interactive digital map`: bản đồ số tương tác trên điện thoại
+- `map out a travel route`: vạch ra lộ trình các điểm tham quan
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need a map to find the restaurant.

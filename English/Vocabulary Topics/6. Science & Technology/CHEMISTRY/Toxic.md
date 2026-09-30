@@ -2,8 +2,10 @@
 *adjective*
 > /ˈtɒk.sɪk/
 
+![[toxic.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Poisonous or causing harm, especially when introduced into the body.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `toxic waste`: rác thải độc hại
 - `toxic chemical`: hóa chất độc hại
+- `toxic fume`: khói độc
+- `toxic gas`: khí độc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Some mushrooms contain toxic substances that can be fatal.

@@ -2,8 +2,10 @@
 *noun*
 > /bræt/
 
+![[brat.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A child, typically a badly behaved one.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `spoiled brat`: đứa trẻ bị chiều hư
+- `ill-mannered brat`: đứa trẻ mất nết vô lễ
+- `bratty behavior`: hành vi bướng bỉnh khó bảo
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Don't act like a spoiled brat.

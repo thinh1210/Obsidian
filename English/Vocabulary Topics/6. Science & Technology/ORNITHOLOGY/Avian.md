@@ -2,8 +2,10 @@
 *adjective*
 > /ˈeɪ.vi.ən/
 
+![[avian.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to birds.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `avian influenza`: cúm gia cầm
 - `avian ecology`: sinh thái học loài chim
+- `avian species`: các loài chim
+- `avian fauna`: khu hệ chim chóc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Avian flu outbreaks have caused concerns for farmers.

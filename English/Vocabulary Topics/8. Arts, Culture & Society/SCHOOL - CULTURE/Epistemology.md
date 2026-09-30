@@ -2,8 +2,10 @@
 *noun*
 > /ɪˌpɪstəˈmɒlədʒi/
 
+![[epistemology.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The theory of knowledge, especially with regard to its methods, validity, and scope.

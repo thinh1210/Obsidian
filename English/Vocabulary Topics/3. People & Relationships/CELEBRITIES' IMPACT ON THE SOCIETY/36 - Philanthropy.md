@@ -2,8 +2,10 @@
 *n.*
 > /fɪˈlæn.θrə.pi/
 
+![[philanthropy.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The desire to promote the welfare of others.
@@ -13,7 +15,10 @@
 💡 Philanthropy -> Nhân đạo
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Engage in philanthropy: Tham gia hoạt động từ thiện`
+- `Engage in philanthropy`: Tham gia hoạt động từ thiện
+- `corporate philanthropy`: hoạt động từ thiện của doanh nghiệp
+- `commit to philanthropy`: cam kết cống hiến cho công việc thiện nguyện
+- `generous philanthropy`: tinh thần bác ái rộng lượng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Corporate philanthropy.

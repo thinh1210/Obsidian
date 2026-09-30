@@ -2,8 +2,10 @@
 *noun*
 > /ˈdrɑː.mə/
 
+![[drama.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE
+**Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A play for theater, radio, or television; exciting or emotional events.

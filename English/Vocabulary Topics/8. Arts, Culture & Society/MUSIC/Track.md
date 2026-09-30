@@ -2,8 +2,10 @@
 *n.*
 > /træk/
 
+![[track.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recording of one song or piece of music.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `bonus track`: bài hát tặng kèm
 - `title track`: bài hát chủ đề của album
+- `soundtrack`: nhạc phim
+- `backing track`: nhạc nền đệm phía sau
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The third track on the album is my absolute favorite.

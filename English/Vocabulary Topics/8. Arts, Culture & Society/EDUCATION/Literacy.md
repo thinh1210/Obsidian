@@ -2,8 +2,10 @@
 *n.*
 > /ˈlɪtərəsi/
 
+![[literacy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to read and write
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `adult literacy`: chương trình xóa mù chữ cho người lớn
 - `digital literacy`: kiến thức công nghệ số
+- `literacy rate`: tỷ lệ người biết đọc biết viết
+- `financial literacy`: kiến thức và hiểu biết về quản lý tài chính
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The country's literacy rate is over 95%.

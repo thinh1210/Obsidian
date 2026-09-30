@@ -2,8 +2,10 @@
 *noun*
 > /ˈsiːdlɪŋ/
 
+![[seedling.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A young plant, especially one raised from seed and not from a cutting.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `tomato seedlings`: cây cà chua non
 - `transplant seedlings`: cấy cây non
+- `nurture fragile seedlings`: nâng niu chăm sóc những mầm cây non
+- `seedling emergence`: sự trồi lên của cây mầm
+- `harden off seedlings`: tập cho cây mầm thích nghi với khí hậu ngoài trời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Keep the soil moist until the seedlings emerge.

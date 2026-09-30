@@ -2,8 +2,10 @@
 *n.*
 > /ˈreɪdiəʊ/
 
+![[radio.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The transmission and reception of electromagnetic waves of radio frequency, especially those carrying sound messages.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `listen to the radio`: nghe đài
 - `radio station`: đài phát thanh
+- `radio broadcast`: chương trình phát thanh trên sóng radio
+- `commercial radio`: kênh phát thanh thương mại
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I always listen to the radio in the car.

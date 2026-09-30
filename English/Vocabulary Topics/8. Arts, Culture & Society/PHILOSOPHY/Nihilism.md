@@ -2,8 +2,10 @@
 *n.*
 > /ˈnaɪ.ɪ.lɪ.zəm/
 
+![[nihilism.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The rejection of all religious and moral principles, often believing life is meaningless.
@@ -15,6 +17,7 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `moral nihilism`: chủ nghĩa hư vô đạo đức
 - `existential nihilism`: chủ nghĩa hư vô hiện sinh
+- `fall into nihilism`: rơi vào hố sâu hư vô chủ nghĩa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He dismissed her dark view of the world as pure nihilism.

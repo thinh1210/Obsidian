@@ -2,8 +2,10 @@
 *adj.*
 > /ɪˈbʊl.i.ənt/
 
+![[ebullient.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful and full of energy.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `ebullient mood`: tâm trạng sôi nổi
+- `ebullient personality`: tính cách sôi nổi nhiệt thành
+- `ebullient laughter`: tiếng cười giòn giã sảng khoái
+- `ebullient enthusiasm`: sự nhiệt huyết tràn trề sôi sục
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She was in an ebullient mood.

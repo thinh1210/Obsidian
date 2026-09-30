@@ -2,8 +2,10 @@
 *noun.*
 > /ˈæset/
 
+![[asset.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A useful or valuable quality, person, or thing owned by a person or company.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `liquid asset`: tài sản thanh khoản
 - `fixed asset`: tài sản cố định
+- `tangible assets`: tài sản hữu hình
+- `frozen assets`: tài sản bị phong tỏa
+- `asset allocation`: chiến lược phân bổ tài sản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Houses and land are usually considered stable assets.

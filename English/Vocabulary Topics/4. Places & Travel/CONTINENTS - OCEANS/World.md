@@ -2,8 +2,10 @@
 *noun*
 > /wɜːld/
 
+![[world.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The earth, together with all of its countries and peoples.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `around the world`: vòng quanh thế giới
+- `the whole world`: cả thế giới
+- `a world away`: xa xôi cách biệt
+- `bring into the world`: sinh ra đời
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He wants to travel the world.

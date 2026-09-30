@@ -2,8 +2,10 @@
 *adj.*
 > /daɪˈdæktɪk/
 
+![[didactic.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intended to teach, particularly in having moral instruction as a motive
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `didactic poetry`: thơ giáo huấn
 - `didactic approach`: cách tiếp cận mang tính giáo dục
+- `didactic purpose`: mục đích giáo dục răn dạy
+- `didactic literature`: dòng văn học mang tính giáo huấn đạo đức
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The novel was criticized for being too didactic.

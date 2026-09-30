@@ -2,8 +2,10 @@
 *adjective*
 > /ˌpriːˈnʌpʃl/
 
+![[prenuptial.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring or existing before marriage.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A prenuptial agreement`: Thỏa thuận tiền hôn nhân
+- `sign a prenuptial agreement`: ký hợp đồng thỏa thuận tiền hôn nhân
+- `prenuptial negotiations`: thương lượng thỏa thuận tiền hôn nhân
+- `prenuptial clause`: điều khoản trong hợp đồng tiền hôn nhân
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* They signed a prenuptial agreement.

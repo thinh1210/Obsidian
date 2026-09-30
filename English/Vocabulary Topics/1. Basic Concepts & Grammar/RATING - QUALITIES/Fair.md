@@ -2,8 +2,10 @@
 *adj*
 > /feər/
 
+![[fair.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Acceptable and appropriate in a particular situation.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `fair enough`: khá hợp lý
+- `fair trial`: phiên tòa công bằng
+- `fair share`: phần chia xứng đáng / thỏa đáng
+- `fair play`: tinh thần chơi đẹp
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her English is fair.

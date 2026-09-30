@@ -2,8 +2,10 @@
 *verb*
 > /ˈkɪdnæp/
 
+![[kidnap.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take a person away illegally by force, usually in order to demand money
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `kidnap a child`: bắt cóc một đứa trẻ
 - `ransom demand`: yêu cầu tiền chuộc
+- `kidnap attempt`: vụ mưu toan bắt cóc bất thành
+- `kidnapped victim`: nạn nhân bị giam giữ sau vụ bắt cóc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The criminal group tried to kidnap the rich businessman.

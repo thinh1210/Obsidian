@@ -2,8 +2,10 @@
 *noun.*
 > /ˈkredɪt/
 
+![[credit.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A system of buying goods or services now and paying for them in the future.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `credit limit`: hạn mức tín dụng
 - `credit score`: điểm tín dụng
+- `credit rating`: xếp hạng tín nhiệm tín dụng
+- `line of credit`: hạn mức tín dụng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He has a bad credit score, so his loan application was rejected.

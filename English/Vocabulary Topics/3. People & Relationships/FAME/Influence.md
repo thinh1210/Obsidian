@@ -2,8 +2,10 @@
 *n.*
 > /ˈɪnfluəns/
 
+![[influence.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The capacity to have an effect on the character or behavior of someone.
@@ -13,7 +15,10 @@
 💡 In + flu (chảy) -> luồng ảnh hưởng.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `under the influence: dưới sự ảnh hưởng`
+- `under the influence`: dưới sự ảnh hưởng
+- `sphere of influence`: phạm vi tầm ảnh hưởng
+- `exert influence`: tác động gây ảnh hưởng lên
+- `undue influence`: ảnh hưởng bất chính không đáng có
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a lot of influence.

@@ -2,8 +2,10 @@
 *adjective*
 > /ˈleɪ.tənt/
 
+![[latent.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Present but not yet visible, apparent, or active; (in forensics) not immediately visible to the naked eye.

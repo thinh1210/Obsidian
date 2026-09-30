@@ -2,8 +2,10 @@
 *adj*
 > /bɪˈleɪtɪd/
 
+![[belated.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** DAY - WEEK - MONTH
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coming or happening later than should have been the case.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `belated happy birthday`: chúc mừng sinh nhật muộn
+- `belated apology`: lời xin lỗi muộn màng
+- `belated realization`: sự nhận thức muộn màng
+- `belated gratitude`: lòng biết ơn gửi muộn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He offered a belated apology.

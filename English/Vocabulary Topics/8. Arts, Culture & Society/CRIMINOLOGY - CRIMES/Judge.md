@@ -2,8 +2,10 @@
 *noun*
 > /dʒʌdʒ/
 
+![[judge.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person in a court who has the authority to decide how criminals should be punished
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `federal judge`: thẩm phán liên bang
 - `judge a case`: xét xử một vụ án
+- `presiding judge`: thẩm phán chủ tọa phiên tòa
+- `bench of judges`: hội đồng xét xử gồm các thẩm phán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The judge listened carefully to both sides of the story.

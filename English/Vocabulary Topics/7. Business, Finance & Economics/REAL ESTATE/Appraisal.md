@@ -2,8 +2,10 @@
 *n.*
 > /əˈpreɪzl/
 
+![[appraisal.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An expert estimate of the value of something, especially property.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `property appraisal`: thẩm định giá bất động sản
 - `appraisal value`: giá trị thẩm định
+- `home appraisal`: giám định giá trị căn nhà
+- `appraisal report`: chứng thư / biên bản thẩm định giá
+- `independent appraisal`: thẩm định giá trị độc lập
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The bank ordered an appraisal of the house before approving the mortgage.

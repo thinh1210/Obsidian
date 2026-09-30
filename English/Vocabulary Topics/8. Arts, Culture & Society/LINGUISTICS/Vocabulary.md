@@ -2,8 +2,10 @@
 *noun*
 > /vəˈkæb.jə.lər.i/
 
+![[vocabulary.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** all the words that a person knows or uses, or all the words in a language

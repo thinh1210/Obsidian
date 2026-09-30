@@ -2,8 +2,10 @@
 *noun*
 > /peɪdʒ/
 
+![[page.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One side of a sheet of paper in a book, magazine, or newspaper.

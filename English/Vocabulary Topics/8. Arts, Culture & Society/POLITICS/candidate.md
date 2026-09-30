@@ -2,8 +2,10 @@
 *noun*
 > /ˈkændɪdət/
 
+![[candidate.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who applies for a job or is nominated for election.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `political candidate`: ứng cử viên chính trị
 - `presidential candidate`: ứng cử viên tổng thống
+- `leading candidate`: ứng cử viên dẫn đầu
+- `put forward a candidate`: đề cử một ứng cử viên
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* There are three candidates running for the local council seat.

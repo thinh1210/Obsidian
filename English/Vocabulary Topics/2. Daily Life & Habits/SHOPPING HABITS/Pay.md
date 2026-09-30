@@ -2,8 +2,10 @@
 *v*
 > /peɪ/
 
+![[pay.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give money for something
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `pay for`: trả tiền cho
+- `pay through the nose`: trả một cái giá đắt cắt cổ
+- `pay attention to`: chú ý, để tâm tới
+- `pay by installments`: trả góp nhiều kỳ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I will pay.

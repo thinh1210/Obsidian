@@ -2,8 +2,10 @@
 *n.*
 > /məˈtrɒpəlɪs/
 
+![[metropolis.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large, busy city.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sprawling metropolis`: đô thị rộng lớn
+- `bustling metropolis`: đại đô thị nhộn nhịp
+- `modern metropolis`: đô thị hiện đại
+- `financial metropolis`: trung tâm tài chính đầu não
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Tokyo is a massive metropolis.

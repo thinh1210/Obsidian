@@ -2,8 +2,10 @@
 *verb*
 > /ˈmʌnɪtaɪz/
 
+![[monetize.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** SOCIAL NETWORK
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To convert a social media presence or content into a source of income
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `monetize a channel`: kiếm tiền từ một kênh
+- `monetize content`: kiếm tiền từ nội dung sáng tạo
+- `monetization strategy`: chiến lược thương mại hóa nội dung
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Once you get enough followers, you can start to monetize your blog.

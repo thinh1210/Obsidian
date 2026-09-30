@@ -2,8 +2,10 @@
 *noun*
 > /ˌɑːrbɪˈtreɪʃn/
 
+![[arbitration.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process of resolving a dispute by an independent person rather than going to court

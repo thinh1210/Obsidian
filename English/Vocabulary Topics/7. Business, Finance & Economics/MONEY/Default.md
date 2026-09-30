@@ -2,8 +2,10 @@
 *verb/noun*
 > /dɪˈfɔːlt/
 
+![[default.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To fail to fulfill an obligation, especially to repay a loan
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `default on a loan`: vỡ nợ khoản vay
+- `in default`: trong tình trạng mất khả năng thanh toán nợ
+- `risk of default`: nguy cơ vỡ nợ không trả được
+- `sovereign default`: hiện tượng quốc gia vỡ nợ công
+- `default rate`: tỷ lệ nợ quá hạn không thanh toán
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* If you default on your mortgage, the bank will repossess your house.

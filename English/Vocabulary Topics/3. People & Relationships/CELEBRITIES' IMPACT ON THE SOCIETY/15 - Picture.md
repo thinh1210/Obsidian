@@ -2,8 +2,10 @@
 *n.*
 > /ˈpɪk.tʃər/
 
+![[picture.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A visual representation of something.
@@ -13,7 +15,10 @@
 💡 Picture -> Chụp hình
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `Take a picture: Chụp ảnh`
+- `Take a picture`: Chụp ảnh
+- `paint a vivid picture`: phác họa bức tranh sinh động
+- `big picture`: bức tranh toàn cảnh
+- `in the picture`: nắm rõ tình hình
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Look at this picture.

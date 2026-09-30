@@ -2,8 +2,10 @@
 *adj.*
 > /presˈtɪdʒəs/
 
+![[prestigious.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Inspiring respect and admiration; having high status.
@@ -13,7 +15,10 @@
 💡 Prestige (uy tín).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `prestigious university: trường đại học danh giá`
+- `prestigious university`: trường đại học danh giá
+- `prestigious accolade`: danh hiệu vinh dự uy tín
+- `prestigious firm`: công ty danh tiếng lẫy lừng
+- `highly prestigious award`: giải thưởng vô cùng danh giá
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He won a prestigious award.

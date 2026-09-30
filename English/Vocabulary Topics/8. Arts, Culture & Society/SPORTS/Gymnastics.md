@@ -2,8 +2,10 @@
 *n.*
 > /dʒɪmˈnæs.tɪks/
 
+![[gymnastics.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exercises developing or displaying physical agility and coordination.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `gymnastics routine`: bài tập thể dục dụng cụ
 - `artistic gymnastics`: thể dục dụng cụ nghệ thuật
+- `rhythmic gymnastics`: thể dục nghệ thuật
+- `gymnastic apparatus`: dụng cụ thể dục dụng cụ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Gymnastics requires flexibility and strength.

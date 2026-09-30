@@ -2,8 +2,10 @@
 *noun*
 > /treɪn/
 
+![[train.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of connected railway carriages or wagons moved by a locomotive.
@@ -16,6 +18,8 @@
 - `catch a train`: đón tàu hỏa
 - `train station`: ga tàu hỏa
 - `high-speed train`: tàu cao tốc
+- `bullet train`: tàu cao tốc hình viên đạn shinkansen
+- `express train`: tàu hỏa chạy nhanh tốc hành
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We went to Hanoi by train yesterday.

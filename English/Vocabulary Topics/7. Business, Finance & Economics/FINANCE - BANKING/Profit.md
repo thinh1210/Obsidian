@@ -2,8 +2,10 @@
 *noun.*
 > /ˈprɒfɪt/
 
+![[profit.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING
+**Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money that you gain from a business transaction or investment after deducting expenses.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `make a profit`: thu lợi nhuận
 - `net profit`: lợi nhuận ròng
+- `take-profit`: chốt lời giao dịch
+- `profit margin`: biên độ lợi nhuận
+- `reinvest profits`: tái đầu tư phần lợi nhuận thu về
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The business made a small profit in its first year of operation.

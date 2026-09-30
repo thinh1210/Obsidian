@@ -2,8 +2,10 @@
 *Noun*
 > /treɪn/
 
+![[train.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A railway engine connected to carriages for carrying people or to wheeled containers for carrying goods.
@@ -13,7 +15,11 @@
 💡 TRÊN (Train) tàu hỏa.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `take a train`: đi tàu hỏa\n- `train station`: ga tàu hỏa
+- `take a train`: đi tàu hỏa
+- `train station`: ga tàu hỏa
+- `high-speed bullet train`: tàu hỏa cao tốc chạy siêu nhanh
+- `scenic train ride`: chuyến tàu hỏa ngắm cảnh qua núi đồi
+- `overnight sleeper train`: chuyến tàu hỏa giường nằm chạy qua đêm
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The train leaves at 8 PM.

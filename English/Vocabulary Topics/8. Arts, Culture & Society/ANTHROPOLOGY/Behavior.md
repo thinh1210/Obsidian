@@ -2,8 +2,10 @@
 *n.*
 > /bɪˈheɪ.vjər/
 
+![[behavior.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which one acts or conducts oneself, especially toward others.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `human behavior`: hành vi con người
 - `deviant behavior`: hành vi lệch chuẩn
+- `learned behavior`: hành vi do tiếp thu / học hỏi
+- `social behavior`: hành vi xã hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* His polite behavior impressed everyone.

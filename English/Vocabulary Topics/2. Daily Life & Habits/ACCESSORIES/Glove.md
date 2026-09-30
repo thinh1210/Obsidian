@@ -2,8 +2,10 @@
 *noun*
 > /ɡlʌv/
 
+![[glove.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing that is worn on the hand and wrist for warmth or protection.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of gloves`: một đôi găng tay
+- `leather gloves`: găng tay da
+- `fit like a glove`: vừa vặn khít khao, vừa như in
+- `take off one's gloves`: tháo găng tay ra
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* It's cold, you should wear gloves.

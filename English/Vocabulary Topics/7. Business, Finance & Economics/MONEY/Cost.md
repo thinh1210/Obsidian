@@ -2,8 +2,10 @@
 *verb/noun*
 > /kɒst/
 
+![[cost.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To require the payment of a specified sum of money (v); the amount of money needed to buy something (n)
@@ -14,6 +16,10 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `at all costs`: bằng mọi giá
+- `cost an arm and a leg`: đắt đỏ đến mức cắt cổ
+- `living costs`: chi phí sinh hoạt hàng ngày
+- `cost-effective`: hiệu quả về mặt chi phí
+- `at no extra cost`: không phát sinh thêm chi phí nào
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* How much does this book cost?

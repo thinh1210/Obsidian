@@ -2,8 +2,10 @@
 *noun*
 > /ˈɑː.mɪ.stɪs/
 
+![[armistice.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS
+**Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An agreement made by opposing sides in a war to stop fighting for a certain time; a truce.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `sign an armistice`: ký kết hiệp định đình chiến
 - `armistice agreement`: thỏa thuận đình chiến
+- `armistice day`: ngày lễ kỷ niệm ký kết hiệp ước đình chiến
+- `declare an armistice`: chính thức tuyên bố thỏa thuận đình chiến
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The children agreed on a brief armistice in their snowball fight.

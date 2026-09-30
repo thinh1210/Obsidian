@@ -2,8 +2,10 @@
 *v.*
 > /ˈstrʌɡl/
 
+![[struggle.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS
+**Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To try very hard to do something when it is difficult
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `struggle with`: vật lộn với
 - `struggle to survive`: đấu tranh sinh tồn
+- `struggle against adversity`: vật lộn chống chọi nghịch cảnh
+- `uphill struggle`: cuộc chiến đấu vô cùng gian nan vất vả (idiom)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I struggle with math.

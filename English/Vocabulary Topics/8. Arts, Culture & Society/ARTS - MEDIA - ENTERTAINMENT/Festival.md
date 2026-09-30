@@ -2,8 +2,10 @@
 *n.*
 > /ˈfestɪvl/
 
+![[festival.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A day or period of celebration, typically a religious one, or an organized series of concerts, plays, or movies.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `film festival`: liên hoan phim
 - `music festival`: lễ hội âm nhạc
+- `annual festival`: lễ hội thường niên
+- `attend a festival`: tham dự lễ hội
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* We bought tickets for the summer music festival.

@@ -2,8 +2,10 @@
 *noun*
 > /ˈserəməni/
 
+![[ceremony.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE
+**Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal religious or public occasion, typically one celebrating a particular event.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `A wedding ceremony`: Nghi lễ cưới
+- `civil ceremony`: lễ đăng ký kết hôn dân sự
+- `religious ceremony`: nghi lễ cưới tôn giáo trang trọng
+- `master of ceremonies`: người dẫn chương trình lễ cưới (MC)
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The ceremony was beautiful.

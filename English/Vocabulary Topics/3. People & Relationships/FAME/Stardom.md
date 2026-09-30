@@ -2,8 +2,10 @@
 *n.*
 > /ˈstɑːdəm/
 
+![[stardom.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME
+**Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state or status of being a famous or exceptionally talented performer.
@@ -13,7 +15,10 @@
 💡 Star (sao) + dom (vương quốc).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `rise to stardom: vươn lên thành sao`
+- `rise to stardom`: vươn lên thành sao
+- `meteoric rise to stardom`: bước thăng tiến thành sao nhanh như sao băng
+- `trappings of stardom`: những hào nhoáng phù phiếm của danh vọng
+- `international stardom`: danh vị siêu sao quốc tế
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Her rise to stardom was fast.

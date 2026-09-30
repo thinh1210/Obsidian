@@ -2,8 +2,10 @@
 *noun*
 > /ˈeə.speɪs/
 
+![[airspace.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of the atmosphere above a particular country, which is controlled by that country.

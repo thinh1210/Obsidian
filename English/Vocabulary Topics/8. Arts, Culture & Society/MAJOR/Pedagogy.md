@@ -2,8 +2,10 @@
 *n.*
 > /ˈped.ə.ɡɒ.dʒi/
 
+![[pedagogy.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The method and practice of teaching, especially as an academic subject or theoretical concept.

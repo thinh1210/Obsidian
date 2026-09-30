@@ -2,8 +2,10 @@
 *noun*
 > /ˈkɒment/
 
+![[comment.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written remark expressing an opinion or reaction to a post
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `leave a comment`: để lại một bình luận
+- `comment section`: khung bình luận bài viết
+- `leave hateful comments`: để lại những bình luận ác ý
+- `filter spam comments`: lọc các bình luận rác
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Please leave a comment below if you have any questions.

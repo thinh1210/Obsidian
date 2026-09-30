@@ -2,8 +2,10 @@
 *noun*
 > /ˌnet njuːˈtræl.ɪ.ti/
 
+![[net_neutrality.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The principle that Internet Service Providers must treat all Internet traffic equally without discrimination.

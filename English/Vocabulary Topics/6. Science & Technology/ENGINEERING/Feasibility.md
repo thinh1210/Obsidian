@@ -2,8 +2,10 @@
 *noun*
 > /ˌfiːzəˈbɪləti/
 
+![[feasibility.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING
+**Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or degree of being easily or conveniently done; viability.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `feasibility study`: nghiên cứu khả thi
 - `economic feasibility`: tính khả thi về kinh tế
+- `technical feasibility`: tính khả thi về mặt kỹ thuật
+- `assess the feasibility`: đánh giá tính khả thi
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* Before building the high-speed railway, they must conduct a feasibility study.

@@ -2,8 +2,10 @@
 *verb*
 > /reɪz/
 
+![[raise.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bring up a child.
@@ -14,6 +16,8 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `raise a family`: nuôi nấng gia đình
+- `raise awareness`: nâng cao nhận thức xã hội
+- `raise a child with love`: nuôi nấng con bằng tình yêu thương
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She had to raise the kids alone.

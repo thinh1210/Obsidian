@@ -2,8 +2,10 @@
 *noun*
 > /əˈkaʊnt/
 
+![[account.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement that allows a person to use a website or social media platform
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `create an account`: tạo một tài khoản
+- `verified account`: tài khoản đã xác minh chính chủ
+- `deactivate an account`: hủy kích hoạt tài khoản
+- `compromised account`: tài khoản bị xâm nhập trái phép
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need to set up a new account on Instagram.

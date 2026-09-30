@@ -2,8 +2,10 @@
 *noun*
 > /ˈtrɪŋkɪt/
 
+![[trinket.mp3]]
+
 ---
-**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES
+**Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small ornament or item of jewellery that is of little value.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a cheap trinket`: đồ trang sức rẻ tiền
+- `sentimental trinket`: món đồ lưu niệm nhỏ bé giàu tình cảm
+- `souvenir trinkets`: những món đồ lưu niệm nhỏ xinh
+- `trinket box`: hộp đựng đồ trang sức nhỏ
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She bought a small trinket as a souvenir from the market.

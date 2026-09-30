@@ -2,8 +2,10 @@
 *noun*
 > /kɪŋ/
 
+![[king.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The male ruler of an independent state, especially one who inherits the position by right of birth.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `crown a king`: lên ngôi vua
 - `royal king`: vị vua hoàng gia
+- `monarch and king`: đấng quân vương trị vì vương quốc
+- `coronation of the king`: đại lễ đăng quang chính thức của nhà vua
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The children played a game where one was the king and the others were servants.

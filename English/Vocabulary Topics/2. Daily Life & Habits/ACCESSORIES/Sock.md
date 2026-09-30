@@ -2,8 +2,10 @@
 *noun*
 > /sɒk/
 
+![[sock.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing made from soft material that covers your foot and the lower part of your leg.
@@ -14,6 +16,9 @@
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `a pair of socks`: một đôi tất
+- `ankle socks`: tất cổ ngắn
+- `wool socks`: tất len giữ ấm
+- `pull up one's socks`: chấn chỉnh lại thái độ, cố gắng nhiều hơn
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I need clean socks.

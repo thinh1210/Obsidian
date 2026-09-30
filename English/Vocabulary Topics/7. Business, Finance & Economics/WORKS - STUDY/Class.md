@@ -2,8 +2,10 @@
 *n.*
 > /klɑːs/
 
+![[class.mp3]]
+
 ---
-**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY
+**Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A group of students who are taught together
@@ -13,8 +15,11 @@
 💡 Cả lớp (class) thích ăn kem mát.
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- ``attend class`: tham gia lớp học`
-- ``skip class`: trốn học`
+- `attend class`: tham gia lớp học
+- `skip class`: trốn học
+- `online classes`: các lớp học trực tuyến qua mạng
+- `interactive class`: lớp học có tính tương tác sôi nổi
+- `top of the class`: đứng đầu lớp / thủ khoa
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She has a French class at 9 AM.

@@ -2,8 +2,10 @@
 *n.*
 > /ɪnˈdɔːsmənt/
 
+![[endorsement.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE
+**Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amendment or addition to an existing insurance policy that changes the terms or scope of the original policy.
@@ -15,6 +17,9 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `policy endorsement`: điều khoản bổ sung hợp đồng
 - `celebrity endorsement`: sự quảng cáo của người nổi tiếng
+- `special endorsement`: điều khoản sửa đổi bổ sung đặc thù
+- `add an endorsement`: đính kèm văn bản sửa đổi hợp đồng bảo hiểm
+- `written endorsement`: xác nhận sửa đổi bổ sung bằng văn bản
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* I added an endorsement to my policy to cover my expensive jewelry.

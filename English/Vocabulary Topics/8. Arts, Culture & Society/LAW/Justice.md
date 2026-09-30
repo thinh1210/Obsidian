@@ -2,8 +2,10 @@
 *noun*
 > /ˈdʒʌs.tɪs/
 
+![[justice.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LAW
+**Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Just behavior or treatment; the quality of being fair and reasonable.

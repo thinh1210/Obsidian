@@ -2,8 +2,10 @@
 *n*
 > /reɪˈɑːl.pɒl.ɪ.tiːk/
 
+![[realpolitik.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS
+**Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of politics based on practical considerations rather than moral ideals.

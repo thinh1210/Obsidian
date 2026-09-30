@@ -2,8 +2,10 @@
 *adj.*
 > /ˈtrendi/
 
+![[trendy.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON
+**Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very fashionable and modern.
@@ -13,7 +15,11 @@
 💡 Trendy - trend (xu hướng) y (như).
 
 ## 🧩 Cụm từ thường đi kèm (Collocations)
-- `trendy haircut`: kiểu tóc thịnh hành\n- `trendy clothes`: quần áo thời thượng
+- `trendy haircut`: kiểu tóc thịnh hành
+- `trendy clothes`: quần áo thời thượng
+- `trendy restaurant`: nhà hàng thời thượng, đang hot
+- `follow trendy styles`: chạy theo các phong cách thịnh hành
+- `trendy boutique`: cửa hàng thời trang bắt kịp xu hướng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* She likes to wear trendy clothes.

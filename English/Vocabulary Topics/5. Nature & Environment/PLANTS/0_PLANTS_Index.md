@@ -1,62 +1,126 @@
 # Tổng hợp từ vựng: PLANTS
 
 Đây là file tổng hợp các từ vựng thuộc chủ đề **PLANTS**.
-Danh sách dưới đây đã được **sắp xếp theo cấp độ (Level) từ thấp đến cao (A1 -> C2)**. Bạn nên ưu tiên học các từ cơ bản ở trên cùng trước.
+Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực quan** và **sắp xếp theo cấp độ từ A1 đến C2** giúp bạn dễ dàng liên kết từ vựng theo tư duy ngữ cảnh và sơ đồ tư duy thực tế.
 
-## Danh sách từ vựng
+## 🗺️ Sơ đồ liên kết chủ đề (Semantic Map)
+- **🌱 1. Bộ phận của cây, Cấu trúc & Hạt giống** (Plant Anatomy & Structure): [[Leaf]], [[Branch]], [[Nut]], [[Root]], [[Seed]], [[Stem]], [[Needle]], [[Trunk]], [[Bark]], [[Bud]], [[Bulb]], [[Petal]], [[Sapling]], [[Seedling]], [[Sprout]], [[Thorn]], [[Twig]], [[Foliage]]
+- **🌸 2. Hoa, Quả & Quá trình thụ phấn** (Flowers, Fruits & Pollination): [[Flower]], [[Fruit]], [[Rose]], [[Berry]], [[Sunflower]], [[Bloom]], [[Blossom]], [[Daisy]], [[Scent]], [[Nectar]], [[Pollen]], [[Ripen]], [[Pollination]]
+- **🌳 3. Các loài thực vật, Cây rừng & Phân loại** (Plant Species & Classifications): [[Forest]], [[Garden]], [[Grass]], [[Plant]], [[Tree]], [[Bush]], [[Bamboo]], [[Herb]], [[Oak]], [[Palm]], [[Pine]], [[Shrub]], [[Weed]], [[Flora]], [[Coniferous]], [[Deciduous]], [[Perennial]], [[Herbaceous]], [[Phytoplankton]], [[Variegated]], [[Xerophyte]]
+- **🔬 4. Sinh lý học, Quang hợp & Canh tác cây trồng** (Plant Physiology & Cultivation): [[Grow]], [[Water]], [[Greenhouse]], [[Soil]], [[Harvest]], [[Organic]], [[Cultivate]], [[Decay]], [[Fertilizer]], [[Pesticide]], [[Prune]], [[Wilt]], [[Germinate]], [[Horticulture]], [[Photosynthesis]], [[Transpiration]], [[Mycorrhiza]], [[Senescence]]
 
-| Từ vựng | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- |
-| Flower | A1 | noun | Bông hoa | noun, verb, adjective (adj), văn hoa) | [[Flower]] |
-| Forest | A1 | noun | Rừng | noun, forestry (lâm nghiệp), verb, adjective (adj) | [[Forest]] |
-| Fruit | A1 | noun | Trái cây, quả | fruity (adj), fruitful (adj), fruitless (adj) | [[Fruit]] |
-| Garden | A1 | noun | Khu vườn | noun, gardener (người làm vườn), gardening (nghề làm vườn), verb | [[Garden]] |
-| Grass | A1 | noun | Cỏ | noun, verb, adjective (adj) | [[Grass]] |
-| Grow | A1 | verb | Lớn lên, phát triển, trồng (cây) | growth (n), growing (adj), homegrown (adj) | [[Grow]] |
-| Leaf | A1 | noun | Lá cây | noun, leaflet (lá non, tờ rơi), verb, giở trang sách), adjective (adj), rậm rạp) | [[Leaf]] |
-| Plant | A1 | noun | Thực vật, cây cối | noun, nhà máy), planter (chậu trồng cây, người trồng), verb, adjective (adj) | [[Plant]] |
-| Tree | A1 | noun | Cây thân gỗ | noun, sapling (cây non), adjective (adj) | [[Tree]] |
-| Water | A1 | verb | Tưới nước | watery (adj), water (v) | [[Water]] |
-| Branch | A2 | noun | Cành cây | noun, chi nhánh), verb, rẽ nhánh), adjective (adj) | [[Branch]] |
-| Root | A2 | noun | Rễ cây | noun, nguồn gốc), verb, cắm rễ), adjective (adj), ăn sâu) | [[Root]] |
-| Seed | A2 | noun | Hạt giống | noun, seedling (cây con), verb, tạo hạt), adjective (adj) | [[Seed]] |
-| Soil | A2 | noun | Đất trồng | noun, verb | [[Soil]] |
-| Stem | A2 | noun | Thân cây (thảo), cuống hoa | noun, cuống), verb, bắt nguồn từ) | [[Stem]] |
-| Bloom | B1 | verb | Nở hoa, nở rộ | noun, sự nở rộ), verb, adjective (adj), tràn đầy sức sống) | [[Bloom]] |
-| Blossom | B1 | noun | Hoa của cây ăn quả, sự nở hoa | noun, verb, phát triển rực rỡ) | [[Blossom]] |
-| Harvest | B1 | noun | Thu hoạch, vụ mùa | noun, harvester (máy gặt), verb | [[Harvest]] |
-| Herb | B1 | noun | Thảo mộc, cỏ thuốc | noun, herbalist (nhà thảo dược), adjective (adj), herbaceous (thân thảo) | [[Herb]] |
-| Organic | B1 | adjective | Hữu cơ | noun, organ (cơ quan), adjective (adj), adverb | [[Organic]] |
-| Weed | B1 | noun | Cỏ dại | noun, weeder (người nhổ cỏ), verb, adjective (adj) | [[Weed]] |
-| Bark | B2 | noun | Vỏ cây | noun, tiếng sủa), verb, sủa) | [[Bark]] |
-| Bud | B2 | noun | Chồi, nụ hoa | noun, nụ), verb, chớm nở), adjective (adj) | [[Bud]] |
-| Cultivate | B2 | verb | Canh tác, trồng trọt | noun, cultivator (người trồng trọt), verb, adjective (adj) | [[Cultivate]] |
-| Decay | B2 | verb | Phân hủy, mục nát | noun, verb, adjective (adj) | [[Decay]] |
-| Fertilizer | B2 | noun | Phân bón | noun, fertility (độ phì nhiêu), verb, thụ phấn), adjective (adj) | [[Fertilizer]] |
-| Flora | B2 | noun | Hệ thực vật | noun, adjective (adj) | [[Flora]] |
-| Nectar | B2 | noun | Mật hoa | noun, adjective (adj) | [[Nectar]] |
-| Petal | B2 | noun | Cánh hoa | noun, adjective (adj) | [[Petal]] |
-| Pollen | B2 | noun | Phấn hoa | noun, pollination (sự thụ phấn), pollinator (con vật thụ phấn), verb | [[Pollen]] |
-| Prune | B2 | verb | Cắt tỉa (cành) | noun, verb | [[Prune]] |
-| Sapling | B2 | noun | Cây non, cây con (thân gỗ) | noun, sap (nhựa cây) | [[Sapling]] |
-| Seedling | B2 | noun | Cây con mọc từ hạt | noun, seedling (cây non từ hạt) | [[Seedling]] |
-| Sprout | B2 | verb | Nảy mầm, đâm chồi | noun, giá đỗ), verb | [[Sprout]] |
-| Thorn | B2 | noun | Gai | noun, adjective (adj), hóc búa) | [[Thorn]] |
-| Coniferous | C1 | adjective | Thuộc họ lá kim | noun, adjective (adj) | [[Coniferous]] |
-| Deciduous | C1 | adjective | Rụng lá hàng năm | noun, adjective (adj) | [[Deciduous]] |
-| Foliage | C1 | noun | Tán lá, vòm lá, tập hợp lá cây | noun, foliation (sự đâm lá), adjective (adj) | [[Foliage]] |
-| Germinate | C1 | verb | Nảy mầm, phát triển mầm | noun, verb, adjective (adj) | [[Germinate]] |
-| Horticulture | C1 | noun | Nghề làm vườn, ngành làm vườn | noun, horticulturist (nhà làm vườn), adjective (adj) | [[Horticulture]] |
-| Perennial | C1 | adjective | Cây lâu năm (sống hơn 2 năm), trường tồn | noun, adjective (adj), trường tồn), adverb | [[Perennial]] |
-| Photosynthesis | C1 | noun | Quá trình quang hợp | noun, verb, adjective (adj) | [[Photosynthesis]] |
-| Pollination | C1 | noun | Sự thụ phấn | noun, pollination (sự thụ phấn), pollinator (con vật thụ phấn), verb | [[Pollination]] |
-| Transpiration | C1 | noun | Sự thoát hơi nước (qua lá cây) | noun, verb, adjective (adj) | [[Transpiration]] |
-| Herbaceous | C2 | adjective | Thân thảo (không có thân gỗ cứng) | noun, adjective (adj) | [[Herbaceous]] |
-| Mycorrhiza | C2 | noun | Nấm rễ (quan hệ cộng sinh giữa nấm và rễ cây) | noun, adjective (adj) | [[Mycorrhiza]] |
-| Phytoplankton | C2 | noun | Thực vật phù du | noun | [[Phytoplankton]] |
-| Senescence | C2 | noun | Sự già hóa, sự lão hóa của tế bào/lá cây | noun, adjective (adj), lão hóa) | [[Senescence]] |
-| Variegated | C2 | adjective | Có đốm màu khác nhau, loang lổ (lá cẩm thạch) | noun, adjective (adj) | [[Variegated]] |
-| Xerophyte | C2 | noun | Thực vật chịu hạn | noun, adjective (adj) | [[Xerophyte]] |
+## Danh sách từ vựng theo nhóm ngữ nghĩa
+
+### 🌱 1. Bộ phận của cây, Cấu trúc & Hạt giống (Plant Anatomy & Structure)
+*Rễ, thân, cành, lá, vỏ cây, gai nhọn, chồi non và hạt giống nảy mầm.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Leaf | /liːf/ [[leaf.mp3\|🔊]] | A1 | noun | Lá cây | noun, leaflet (lá non, tờ rơi), verb, giở trang sách), adjective (adj), rậm rạp) | [[Leaf]] |
+| Branch | /brɑːntʃ/ [[branch.mp3\|🔊]] | A2 | noun | Cành cây | noun, chi nhánh), verb, rẽ nhánh), adjective (adj) | [[Branch]] |
+| Nut | /nʌt/ [[nut.mp3\|🔊]] | A2 | n. | Quả hạch, hạt có vỏ cứng | nutty (adj), nutshell (n) | [[Nut]] |
+| Root | /ruːt/ [[root.mp3\|🔊]] | A2 | noun | Rễ cây | noun, nguồn gốc), verb, cắm rễ), adjective (adj), ăn sâu) | [[Root]] |
+| Seed | /siːd/ [[seed.mp3\|🔊]] | A2 | noun | Hạt giống | noun, seedling (cây con), verb, tạo hạt), adjective (adj) | [[Seed]] |
+| Stem | /stem/ [[stem.mp3\|🔊]] | A2 | noun | Thân cây (thảo), cuống hoa | noun, cuống), verb, bắt nguồn từ) | [[Stem]] |
+| Needle | /ˈniːdl/ [[needle.mp3\|🔊]] | B1 | n. | Lá kim (lá thông sắc nhọn) | needlelike (adj) | [[Needle]] |
+| Trunk | /trʌŋk/ [[trunk.mp3\|🔊]] | B1 | n. | Thân cây gỗ to, thân chính | trunkline (n) | [[Trunk]] |
+| Bark | /bɑːk/ [[bark.mp3\|🔊]] | B2 | noun | Vỏ cây | noun, tiếng sủa), verb, sủa) | [[Bark]] |
+| Bud | /bʌd/ [[bud.mp3\|🔊]] | B2 | noun | Chồi, nụ hoa | noun, nụ), verb, chớm nở), adjective (adj) | [[Bud]] |
+| Bulb | /bʌlb/ [[bulb.mp3\|🔊]] | B2 | n. | Củ ngầm (hoa tulip, củ hành) | bulbous (adj) | [[Bulb]] |
+| Petal | /ˈpetl/ [[petal.mp3\|🔊]] | B2 | noun | Cánh hoa | noun, adjective (adj) | [[Petal]] |
+| Sapling | /ˈsæplɪŋ/ [[sapling.mp3\|🔊]] | B2 | noun | Cây non, cây con (thân gỗ) | noun, sap (nhựa cây) | [[Sapling]] |
+| Seedling | /ˈsiːdlɪŋ/ [[seedling.mp3\|🔊]] | B2 | noun | Cây con mọc từ hạt | noun, seedling (cây non từ hạt) | [[Seedling]] |
+| Sprout | /spraʊt/ [[sprout.mp3\|🔊]] | B2 | verb | Nảy mầm, đâm chồi | noun, giá đỗ), verb | [[Sprout]] |
+| Thorn | /θɔːn/ [[thorn.mp3\|🔊]] | B2 | noun | Gai | noun, adjective (adj), hóc búa) | [[Thorn]] |
+| Twig | /twɪɡ/ [[twig.mp3\|🔊]] | B2 | n. | Cành con, nhánh cây nhỏ | twiggy (adj) | [[Twig]] |
+| Foliage | /ˈfəʊliɪdʒ/ [[foliage.mp3\|🔊]] | C1 | noun | Tán lá, vòm lá, tập hợp lá cây | noun, foliation (sự đâm lá), adjective (adj) | [[Foliage]] |
+
+### 🌸 2. Hoa, Quả & Quá trình thụ phấn (Flowers, Fruits & Pollination)
+*Sự nở hoa rực rỡ, mật hoa ngọt ngào, phấn hoa và quá trình thụ phấn tự nhiên.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Flower | /ˈflaʊər/ [[flower.mp3\|🔊]] | A1 | noun | Bông hoa | noun, verb, adjective (adj), văn hoa) | [[Flower]] |
+| Fruit | /fruːt/ [[fruit.mp3\|🔊]] | A1 | noun | Trái cây, quả | fruity (adj), fruitful (adj), fruitless (adj) | [[Fruit]] |
+| Rose | /rəʊz/ [[rose.mp3\|🔊]] | A1 | n. | Hoa hồng kiêu sa | rosy (adj) | [[Rose]] |
+| Berry | /ˈberi/ [[berry.mp3\|🔊]] | A2 | n. | Quả mọng (dâu, việt quất) | strawberry (n), blueberry (n), raspberry (n) | [[Berry]] |
+| Sunflower | /ˈsʌnflaʊər/ [[sunflower.mp3\|🔊]] | A2 | n. | Hoa hướng dương hướng về mặt trời | sunflower-seed (n) | [[Sunflower]] |
+| Bloom | /bluːm/ [[bloom.mp3\|🔊]] | B1 | verb | Nở hoa, nở rộ | noun, sự nở rộ), verb, adjective (adj), tràn đầy sức sống) | [[Bloom]] |
+| Blossom | /ˈblɒsəm/ [[blossom.mp3\|🔊]] | B1 | noun | Hoa của cây ăn quả, sự nở hoa | noun, verb, phát triển rực rỡ) | [[Blossom]] |
+| Daisy | /ˈdeɪzi/ [[daisy.mp3\|🔊]] | B1 | n. | Hoa cúc họa mi, cúc dại trắng | daisied (adj) | [[Daisy]] |
+| Scent | /sent/ [[scent.mp3\|🔊]] | B1 | n. | Hương thơm ngào ngạt của hoa | scented (adj), scentless (adj) | [[Scent]] |
+| Nectar | /ˈnektər/ [[nectar.mp3\|🔊]] | B2 | noun | Mật hoa | noun, adjective (adj) | [[Nectar]] |
+| Pollen | /ˈpɒlən/ [[pollen.mp3\|🔊]] | B2 | noun | Phấn hoa | noun, pollination (sự thụ phấn), pollinator (con vật thụ phấn), verb | [[Pollen]] |
+| Ripen | /ˈraɪpən/ [[ripen.mp3\|🔊]] | B2 | v. | Chín mọng, làm chín hoa quả | ripe (adj), ripeness (n), ripening (n) | [[Ripen]] |
+| Pollination | /ˌpɒləˈneɪʃn/ [[pollination.mp3\|🔊]] | C1 | noun | Sự thụ phấn | noun, pollination (sự thụ phấn), pollinator (con vật thụ phấn), verb | [[Pollination]] |
+
+### 🌳 3. Các loài thực vật, Cây rừng & Phân loại (Plant Species & Classifications)
+*Cây lá kim, cây rụng lá, thảo mộc, thực vật thủy sinh và cây chịu hạn sa mạc.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Forest | /ˈfɒrɪst/ [[forest.mp3\|🔊]] | A1 | noun | Rừng | noun, forestry (lâm nghiệp), verb, adjective (adj) | [[Forest]] |
+| Garden | /ˈɡɑːrdn/ [[garden.mp3\|🔊]] | A1 | noun | Khu vườn | noun, gardener (người làm vườn), gardening (nghề làm vườn), verb | [[Garden]] |
+| Grass | /ɡrɑːs/ [[grass.mp3\|🔊]] | A1 | noun | Cỏ | noun, verb, adjective (adj) | [[Grass]] |
+| Plant | /plɑːnt/ [[plant.mp3\|🔊]] | A1 | noun | Thực vật, cây cối | noun, nhà máy), planter (chậu trồng cây, người trồng), verb, adjective (adj) | [[Plant]] |
+| Tree | /triː/ [[tree.mp3\|🔊]] | A1 | noun | Cây thân gỗ | noun, sapling (cây non), adjective (adj) | [[Tree]] |
+| Bush | /bʊʃ/ [[bush.mp3\|🔊]] | A2 | n. | Bụi cây thấp, lùm cây | bushy (adj) | [[Bush]] |
+| Bamboo | /ˌbæmˈbuː/ [[bamboo.mp3\|🔊]] | B1 | n. | Cây tre, cây trúc thân rỗng | bamboo-shoot (n) | [[Bamboo]] |
+| Herb | /hɜːb/ [[herb.mp3\|🔊]] | B1 | noun | Thảo mộc, cỏ thuốc | noun, herbalist (nhà thảo dược), adjective (adj), herbaceous (thân thảo) | [[Herb]] |
+| Oak | /əʊk/ [[oak.mp3\|🔊]] | B1 | n. | Cây sồi cổ thụ | oaken (adj) | [[Oak]] |
+| Palm | /pɑːm/ [[palm.mp3\|🔊]] | B1 | n. | Cây cọ, cây dừa nhiệt đới | palmy (adj), palmaceous (adj) | [[Palm]] |
+| Pine | /paɪn/ [[pine.mp3\|🔊]] | B1 | n. | Cây thông lá kim | piney (adj), pinewood (n) | [[Pine]] |
+| Shrub | /ʃrʌb/ [[shrub.mp3\|🔊]] | B1 | n. | Cây bụi thân gỗ nhỏ | shrubbery (n), shrubby (adj) | [[Shrub]] |
+| Weed | /wiːd/ [[weed.mp3\|🔊]] | B1 | noun | Cỏ dại | noun, weeder (người nhổ cỏ), verb, adjective (adj) | [[Weed]] |
+| Flora | /ˈflɔːrə/ [[flora.mp3\|🔊]] | B2 | noun | Hệ thực vật | noun, adjective (adj) | [[Flora]] |
+| Coniferous | /kəˈnɪfərəs/ [[coniferous.mp3\|🔊]] | C1 | adjective | Thuộc họ lá kim | noun, adjective (adj) | [[Coniferous]] |
+| Deciduous | /dɪˈsɪdʒuəs/ [[deciduous.mp3\|🔊]] | C1 | adjective | Rụng lá hàng năm | noun, adjective (adj) | [[Deciduous]] |
+| Perennial | /pəˈreniəl/ [[perennial.mp3\|🔊]] | C1 | adjective | Cây lâu năm (sống hơn 2 năm), trường tồn | noun, adjective (adj), trường tồn), adverb | [[Perennial]] |
+| Herbaceous | /hɜːˈbeɪʃəs/ [[herbaceous.mp3\|🔊]] | C2 | adjective | Thân thảo (không có thân gỗ cứng) | noun, adjective (adj) | [[Herbaceous]] |
+| Phytoplankton | /ˌfaɪtəʊˈplæŋktən/ [[phytoplankton.mp3\|🔊]] | C2 | noun | Thực vật phù du | noun | [[Phytoplankton]] |
+| Variegated | /ˈveəriəɡeɪtɪd/ [[variegated.mp3\|🔊]] | C2 | adjective | Có đốm màu khác nhau, loang lổ (lá cẩm thạch) | noun, adjective (adj) | [[Variegated]] |
+| Xerophyte | /ˈzɪərəfaɪt/ [[xerophyte.mp3\|🔊]] | C2 | noun | Thực vật chịu hạn | noun, adjective (adj) | [[Xerophyte]] |
+
+### 🔬 4. Sinh lý học, Quang hợp & Canh tác cây trồng (Plant Physiology & Cultivation)
+*Quang hợp chuyển hóa ánh sáng, thoát hơi nước, bón phân, tỉa cành và làm vườn.*
+
+| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| Grow | /ɡrəʊ/ [[grow.mp3\|🔊]] | A1 | verb | Lớn lên, phát triển, trồng (cây) | growth (n), growing (adj), homegrown (adj) | [[Grow]] |
+| Water | /ˈwɔːtər/ [[water.mp3\|🔊]] | A1 | verb | Tưới nước | watery (adj), water (v) | [[Water]] |
+| Greenhouse | /ˈɡriːnhaʊs/ [[greenhouse.mp3\|🔊]] | A2 | n. | Nhà kính trồng rau và hoa | greenhouse-grown (adj) | [[Greenhouse]] |
+| Soil | /sɔɪl/ [[soil.mp3\|🔊]] | A2 | noun | Đất trồng | noun, verb | [[Soil]] |
+| Harvest | /ˈhɑːvɪst/ [[harvest.mp3\|🔊]] | B1 | noun | Thu hoạch, vụ mùa | noun, harvester (máy gặt), verb | [[Harvest]] |
+| Organic | /ɔːˈɡænɪk/ [[organic.mp3\|🔊]] | B1 | adjective | Hữu cơ | noun, organ (cơ quan), adjective (adj), adverb | [[Organic]] |
+| Cultivate | /ˈkʌltɪveɪt/ [[cultivate.mp3\|🔊]] | B2 | verb | Canh tác, trồng trọt | noun, cultivator (người trồng trọt), verb, adjective (adj) | [[Cultivate]] |
+| Decay | /dɪˈkeɪ/ [[decay.mp3\|🔊]] | B2 | verb | Phân hủy, mục nát | noun, verb, adjective (adj) | [[Decay]] |
+| Fertilizer | /ˈfɜːtəlaɪzər/ [[fertilizer.mp3\|🔊]] | B2 | noun | Phân bón | noun, fertility (độ phì nhiêu), verb, thụ phấn), adjective (adj) | [[Fertilizer]] |
+| Pesticide | /ˈpestɪsaɪd/ [[pesticide.mp3\|🔊]] | B2 | n. | Thuốc trừ sâu bệnh cho cây | pest (n), insecticidal (adj) | [[Pesticide]] |
+| Prune | /pruːn/ [[prune.mp3\|🔊]] | B2 | verb | Cắt tỉa (cành) | noun, verb | [[Prune]] |
+| Wilt | /wɪlt/ [[wilt.mp3\|🔊]] | B2 | v. | Héo rũ, héo úa do thiếu nước | wilted (adj), wilting (n) | [[Wilt]] |
+| Germinate | /ˈdʒɜːmɪneɪt/ [[germinate.mp3\|🔊]] | C1 | verb | Nảy mầm, phát triển mầm | noun, verb, adjective (adj) | [[Germinate]] |
+| Horticulture | /ˈhɔːtɪkʌltʃər/ [[horticulture.mp3\|🔊]] | C1 | noun | Nghề làm vườn, ngành làm vườn | noun, horticulturist (nhà làm vườn), adjective (adj) | [[Horticulture]] |
+| Photosynthesis | /ˌfəʊtəʊˈsɪnθəsɪs/ [[photosynthesis.mp3\|🔊]] | C1 | noun | Quá trình quang hợp | noun, verb, adjective (adj) | [[Photosynthesis]] |
+| Transpiration | /ˌtrænspɪˈreɪʃn/ [[transpiration.mp3\|🔊]] | C1 | noun | Sự thoát hơi nước (qua lá cây) | noun, verb, adjective (adj) | [[Transpiration]] |
+| Mycorrhiza | /ˌmaɪkəˈraɪzə/ [[mycorrhiza.mp3\|🔊]] | C2 | noun | Nấm rễ (quan hệ cộng sinh giữa nấm và rễ cây) | noun, adjective (adj) | [[Mycorrhiza]] |
+| Senescence | /sɪˈnesns/ [[senescence.mp3\|🔊]] | C2 | noun | Sự già hóa, sự lão hóa của tế bào/lá cây | noun, adjective (adj), lão hóa) | [[Senescence]] |
+
+## 🔗 Cụm từ, Collocations & Phrasal Verbs phổ biến theo chủ đề (Key Phrases & Expressions)
+*Các cụm từ cố định, phrasal verbs và thành ngữ thông dụng nhất giúp bạn nói và viết tự nhiên về chủ đề **PLANTS**.*
+
+| Cụm từ / Phrasal Verb | Loại | Cấp độ | Ý nghĩa | Ví dụ áp dụng |
+| --- | --- | --- | --- | --- |
+| **take root** | Idiom | B2 | bén rễ đâm chồi; ý tưởng bắt đầu ăn sâu | *Democratic ideals slowly took root across the newly liberated nation.* |
+| **botanical garden** | Collocation | B1 | vườn bách thảo bảo tồn thực vật | *The capital's botanical garden features thousands of rare alpine and tropical flowers.* |
+| **in full bloom** | Collocation | B1 | nở rộ rực rỡ nhất | *Tourists flock to Kyoto in April to witness the cherry blossoms in full bloom.* |
+| **sprout up** | Phrasal Verb | B2 | mọc lên tua tủa, đâm chồi nảy lộc | *Fresh green shoots sprout up through the fertile soil after the first spring rain.* |
+| **wither away** | Phrasal Verb | B2 | héo hon úa tàn dần | *Without sufficient hydration and sunlight, delicate houseplants will wither away.* |
+| **bark up the wrong tree** | Idiom | B2 | nhầm lẫn đối tượng, gõ nhầm cửa | *If you expect financial handouts from him, you are barking up the wrong tree.* |
+| **medicinal herbs** | Collocation | B2 | thảo dược chữa bệnh dân gian | *Indigenous healers harvest medicinal herbs from the depths of the cloud forest.* |
+| **photosynthesis** | Collocation | B2 | quá trình quang hợp thực vật | *Green leaves utilize sunlight to convert water and carbon dioxide via photosynthesis.* |
+| **nip in the bud** | Idiom | B2 | bóp nghẹt từ trong trứng nước, dập tắt sớm | *Minor disputes among staff should be nipped in the bud before resentment brews.* |
+| **dense foliage** | Collocation | B2 | tán lá um tùm rậm rạp | *Sunlight could barely filter through the jungle's thick, dense foliage.* |
+
 ## 📖 Đoạn văn thực tế (Contextual Story)
 
 ### English Paragraph

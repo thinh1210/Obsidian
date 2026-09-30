@@ -2,8 +2,10 @@
 *v.*
 > /ruːl/
 
+![[rule.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES
+**Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To exercise ultimate power or authority over an area and its people
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `rule the country`: cai trị đất nước
 - `rule by law`: cai trị bằng pháp luật
+- `rule of law`: thượng tôn pháp luật
+- `rule out the possibility`: loại trừ khả năng
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The dynasty ruled the land for three centuries.

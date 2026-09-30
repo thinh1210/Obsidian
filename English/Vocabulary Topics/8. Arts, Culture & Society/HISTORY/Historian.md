@@ -2,8 +2,10 @@
 *noun*
 > /hɪˈstɔː.ri.ən/
 
+![[historian.mp3]]
+
 ---
-**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY
+**Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expert in or student of history, especially that of a particular period, geographical area, or social group.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `military historian`: nhà sử học quân sự
 - `prominent historian`: nhà sử học nổi tiếng
+- `contemporary historian`: nhà sử học đương đại
+- `renowned historian`: nhà sử học lừng danh
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The historian gave a lecture on the causes of the French Revolution.

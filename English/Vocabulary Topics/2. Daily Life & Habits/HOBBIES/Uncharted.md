@@ -2,8 +2,10 @@
 *adj*
 > /ʌnˈtʃɑːtɪd/
 
+![[uncharted.mp3]]
+
 ---
-**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES
+**Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Not mapped or surveyed; unknown.

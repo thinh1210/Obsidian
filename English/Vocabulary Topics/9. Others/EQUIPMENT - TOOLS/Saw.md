@@ -2,8 +2,10 @@
 *noun*
 > /sɔː/
 
+![[saw.mp3]]
+
 ---
-**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS
+**Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a hand tool for cutting wood or other materials, typically with a long, thin serrated steel blade.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `hand saw`: cưa tay
 - `circular saw`: cưa tròn
+- `chainsaw`: máy cưa xích
+- `handsaw`: cưa tay thợ mộc
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* He used a hand saw to cut the tree branch.

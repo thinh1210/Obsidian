@@ -2,8 +2,10 @@
 *n.*
 > /ˈpɪr.ə.mɪd/
 
+![[pyramid.mp3]]
+
 ---
-**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES
+**Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A monumental structure with a square or triangular base and sloping sides that meet in a point at the top.
@@ -15,6 +17,8 @@
 ## 🧩 Cụm từ thường đi kèm (Collocations)
 - `The Great Pyramid`: Đại kim tự tháp
 - `A pyramid scheme`: Mô hình đa cấp (hình tháp)
+- `pyramid of needs`: tháp nhu cầu (Maslow)
+- `inverted pyramid`: mô hình kim tự tháp ngược
 
 ## 🎬 Ví dụ thực tế (Real-world Examples)
 1. 💬 *Daily:* The food guide is shaped like a pyramid.
