@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Terracotta
 *adj., n.*
 > /ˌter.əˈkɒt.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Terracotta::Màu cam nâu của gốm đất nung, ngói đất nung truyền thống *(Phát âm: /ˌter.əˈkɒt.ə/)* ![[terracotta.mp3]]<br><br>👪 **Word Family:** terracotta (n/adj)<br><br>💬 **Ví dụ:** Her balcony garden is filled with potted herbs in rustic terracotta planters.<br>*(-> Khu vườn ban công của cô ngập tràn các chậu thảo mộc trong những bồn cây màu đất nung mộc mạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A brownish-red or brownish-orange color, like that of baked clay tiles and pots.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Nutrition
 *n.*
 > /njuːˈtrɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Nutrition::Khoa học dinh dưỡng, chế độ dung nạp dưỡng chất cho cơ thể *(Phát âm: /njuːˈtrɪʃ.ən/)* ![[nutrition.mp3]]<br><br>👪 **Word Family:** nutritious (adj), nutrient (n), nutritionist (n), nutritional (adj)<br><br>💬 **Ví dụ:** Good nutrition and daily physical activity are essential for maintaining lifelong vitality.<br>*(-> Dinh dưỡng tốt và vận động thể chất hàng ngày là điều cốt yếu để duy trì sinh lực suốt đời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of providing or obtaining the food and substances necessary for health, growth, and energy.

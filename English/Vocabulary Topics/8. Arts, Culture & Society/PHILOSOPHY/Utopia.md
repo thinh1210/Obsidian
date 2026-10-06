@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Utopia
 *n.*
 > /juːˈtəʊ.pi.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Utopia::Xã hội lý tưởng, thế giới không tưởng *(Phát âm: /juːˈtəʊ.pi.ə/)* ![[utopia.mp3]]<br><br>👪 **Word Family:** utopian<br><br>💬 **Ví dụ:** He believes that technology will help us build a modern utopia.<br>*(-> Anh ấy tin rằng công nghệ sẽ giúp chúng ta xây dựng một xã hội lý tưởng hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An imagined place or state of things in which everything is perfect.

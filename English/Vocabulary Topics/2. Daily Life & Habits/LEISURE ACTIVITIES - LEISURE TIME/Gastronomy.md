@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Gastronomy
 *n*
 > /ɡæˈstrɒnəmi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Gastronomy::Ẩm thực học *(Phát âm: /ɡæˈstrɒnəmi/)* ![[gastronomy.mp3]]<br><br>👪 **Word Family:** Gastronomic (adj)<br><br>💬 **Ví dụ:** He studies French gastronomy.<br>*(-> Anh ấy nghiên cứu ẩm thực Pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or art of choosing, cooking, and eating good food.

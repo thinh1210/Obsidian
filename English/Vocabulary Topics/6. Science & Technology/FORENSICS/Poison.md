@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Poison
 *noun / verb*
 > /ˈpɔɪ.zən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Poison::Chất độc / đầu độc *(Phát âm: /ˈpɔɪ.zən/)* ![[poison.mp3]]<br><br>👪 **Word Family:** poisonous (adj), poisoning (n), poisoner (n)<br><br>💬 **Ví dụ:** She kept all medicines locked away so children couldn't be poisoned.<br>*(-> Cô ấy khóa tất cả thuốc lại để trẻ em không bị ngộ độc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that causes illness or death when introduced into a living organism.

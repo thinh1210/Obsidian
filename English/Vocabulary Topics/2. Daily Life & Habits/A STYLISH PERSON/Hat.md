@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Hat
 *n.*
 > /hæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Hat::Cái mũ *(Phát âm: /hæt/)* ![[hat.mp3]]<br><br>👪 **Word Family:** Hatter (n)<br><br>💬 **Ví dụ:** Don't forget your hat when it's sunny.<br>*(-> Đừng quên mũ khi trời nắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A covering for the head.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Voiceover
 *n.*
 > /ˈvɔɪsəʊvə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Voiceover::Thuyết minh, giọng đọc ngoại hình *(Phát âm: /ˈvɔɪsəʊvə(r)/)* ![[voiceover.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The film begins with a warm voiceover explaining the family's history.<br>*(-> Bộ phim bắt đầu với một giọng thuyết minh ấm áp giải thích về lịch sử gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of narration in a movie or broadcast, not accompanied by an image of the speaker

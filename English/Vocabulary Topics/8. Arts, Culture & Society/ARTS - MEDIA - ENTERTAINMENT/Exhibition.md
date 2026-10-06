@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Exhibition
 *n.*
 > /ˌeksɪˈbɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Exhibition::Cuộc triển lãm *(Phát âm: /ˌeksɪˈbɪʃn/)* ![[exhibition.mp3]]<br><br>👪 **Word Family:** exhibit, exhibitor<br><br>💬 **Ví dụ:** We went to see a photo exhibition yesterday.<br>*(-> Hôm qua chúng tôi đã đi xem một cuộc triển lãm ảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A public display of works of art or items of interest, held in an art gallery or museum or at a trade fair.

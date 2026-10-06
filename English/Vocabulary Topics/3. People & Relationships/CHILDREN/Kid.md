@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Kid
 *noun*
 > /kɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Kid::Đứa trẻ, nhóc *(Phát âm: /kɪd/)* ![[kid.mp3]]<br><br>👪 **Word Family:** Kidding (v)<br><br>💬 **Ví dụ:** The kids are playing outside.<br>*(-> Bọn trẻ đang chơi bên ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A child or young person.

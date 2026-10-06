@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Indulge
 *Verb*
 > /ɪnˈdʌldʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Indulge::Nuông chiều bản thân, thỏa mãn *(Phát âm: /ɪnˈdʌldʒ/)* ![[indulge.mp3]]<br><br>👪 **Word Family:** Indulgence (Noun): Sự nuông chiều, Indulgent (Adj): Dễ dãi, nuông chiều<br><br>💬 **Ví dụ:** I love to indulge in a hot bath after work.<br>*(-> Tôi thích đắm mình trong bồn nước nóng sau giờ làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To allow yourself or another person to have something enjoyable.

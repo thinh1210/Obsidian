@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Figurative
 *adjective*
 > /ˈfɪɡ.jər.ə.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Figurative::nghĩa bóng, mang tính ẩn dụ *(Phát âm: /ˈfɪɡ.jər.ə.tɪv/)* ![[figurative.mp3]]<br><br>👪 **Word Family:** figuratively (adv), figure (n)<br><br>💬 **Ví dụ:** She was using the word in a figurative sense.<br>*(-> Cô ấy đang sử dụng từ đó theo nghĩa bóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** used not with their basic meaning but in a way that makes a picture or idea in the mind

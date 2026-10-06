@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Grandfather
 *noun*
 > /ˈɡræn.fɑː.ðər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Grandfather::Ông nội/ngoại *(Phát âm: /ˈɡræn.fɑː.ðər/)* ![[grandfather.mp3]]<br><br>👪 **Word Family:** grandparent (n)<br><br>💬 **Ví dụ:** My grandfather is 80.<br>*(-> Ông tôi 80 tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The father of your father or mother.

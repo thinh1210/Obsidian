@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Cable
 *noun.*
 > /keɪ.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Cable::Dây cáp *(Phát âm: /keɪ.bəl/)* ![[cable.mp3]]<br><br>👪 **Word Family:** cabling (noun)<br><br>💬 **Ví dụ:** Make sure the power cable is plugged in.<br>*(-> Hãy chắc chắn rằng dây cáp nguồn đã được cắm vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of wires, covered with plastic, used to carry electricity or signals

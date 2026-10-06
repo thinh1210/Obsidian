@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Mysterious
 *adj.*
 > /mɪˈstɪəriəs/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Mysterious::Bí ẩn *(Phát âm: /mɪˈstɪəriəs/)* ![[mysterious.mp3]]<br><br>👪 **Word Family:** mystery<br><br>💬 **Ví dụ:** Mysterious stranger.<br>*(-> Người lạ bí ẩn.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Difficult or impossible to understand, explain, or identify

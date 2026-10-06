@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Homesick
 *adj.*
 > /ˈhəʊm.sɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Homesick::Nhớ nhà da diết, cảm giác chông chênh sầu muộn khi phải sống xa gia đình *(Phát âm: /ˈhəʊm.sɪk/)* ![[homesick.mp3]]<br><br>👪 **Word Family:** homesickness (n)<br><br>💬 **Ví dụ:** During his first rainy autumn week at the overseas university, he felt terribly homesick.<br>*(-> Trong tuần mưa mùa thu đầu tiên ở trường đại học hải ngoại, anh cảm thấy nhớ nhà quay quắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unhappy because of being away and missing home, family, and familiar surroundings.

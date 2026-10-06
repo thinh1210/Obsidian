@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Snack
 *n.*
 > /snæk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Snack::Bữa ăn nhẹ, món ăn lót dạ giữa các bữa chính *(Phát âm: /snæk/)* ![[snack.mp3]]<br><br>👪 **Word Family:** snack (v), snacking (n)<br><br>💬 **Ví dụ:** I usually pack almonds and dried fruit as a healthy afternoon snack.<br>*(-> Tôi thường mang theo hạnh nhân và trái cây sấy làm món ăn nhẹ buổi chiều lành mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small amount of food eaten between meals.

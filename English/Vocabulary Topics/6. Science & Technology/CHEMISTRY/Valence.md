@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Valence
 *noun*
 > /ˈveɪ.ləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Valence::Hóa trị *(Phát âm: /ˈveɪ.ləns/)* ![[valence.mp3]]<br><br>👪 **Word Family:** valent (adj), monovalent (adj), divalent (adj)<br><br>💬 **Ví dụ:** Carbon has a valence of four, allowing it to form four covalent bonds.<br>*(-> Carbon có hóa trị bốn, cho phép nó tạo ra bốn liên kết cộng hóa trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The combining power of an element, especially as measured by the number of hydrogen atoms it can displace or combine with.

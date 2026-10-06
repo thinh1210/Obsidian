@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Perpetrator
 *noun*
 > /ˈpɜː.pɪ.treɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Perpetrator::Kẻ gây tội / thủ phạm *(Phát âm: /ˈpɜː.pɪ.treɪ.tər/)* ![[perpetrator.mp3]]<br><br>👪 **Word Family:** perpetrate (v), perpetration (n)<br><br>💬 **Ví dụ:** The perpetrator fled the scene before police arrived.<br>*(-> Thủ phạm đã bỏ trốn khỏi hiện trường trước khi cảnh sát đến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who carries out a harmful, illegal, or immoral act.

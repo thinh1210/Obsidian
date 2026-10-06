@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Freelance
 *adj./v.*
 > /ˈfriː.lɑːns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Freelance::Làm việc độc lập tự do cho nhiều khách hàng thay vì làm cố định cho một công ty *(Phát âm: /ˈfriː.lɑːns/)* ![[freelance.mp3]]<br><br>👪 **Word Family:** freelancer (n)<br><br>💬 **Ví dụ:** After five years in corporate marketing, she decided to work freelance from home.<br>*(-> Sau năm năm làm tiếp thị doanh nghiệp, cô ấy quyết định làm nghề tự do tại nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Working for different companies at different times rather than being permanently employed by one company.

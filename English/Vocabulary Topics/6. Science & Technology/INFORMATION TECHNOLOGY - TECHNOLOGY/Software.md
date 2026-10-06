@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Software
 *n.*
 > /ˈsɒft.weər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Software::Các chương trình và dữ liệu lập trình để điều khiển phần cứng hoạt động *(Phát âm: /ˈsɒft.weər/)* ![[software.mp3]]<br><br>👪 **Word Family:** soft (adj)<br><br>💬 **Ví dụ:** You should always keep your antivirus software up to date to prevent security leaks.<br>*(-> Bạn nên luôn cập nhật phần mềm diệt virus để ngăn ngừa rò rỉ bảo mật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The programs and other operating information used by a computer to perform tasks.

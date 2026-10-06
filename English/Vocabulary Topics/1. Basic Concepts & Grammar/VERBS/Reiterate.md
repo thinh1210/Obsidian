@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Reiterate
 *Verb*
 > /riˈɪt.ər.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Reiterate::Nhắc lại *(Phát âm: /riˈɪt.ər.eɪt/)* ![[reiterate.mp3]]<br><br>👪 **Word Family:** Reiteration (n)<br><br>💬 **Ví dụ:** Let me reiterate.<br>*(-> Để tôi nhắc lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say something again, once or several times.

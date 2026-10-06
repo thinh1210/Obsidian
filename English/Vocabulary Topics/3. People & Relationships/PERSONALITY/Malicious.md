@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Malicious
 *adj.*
 > /məˈlɪʃ.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Malicious::Hiểm độc, có ác ý, cố tâm làm hại và bôi nhọ người khác *(Phát âm: /məˈlɪʃ.əs/)* ![[malicious.mp3]]<br><br>👪 **Word Family:** malice (n), maliciously (adv)<br><br>💬 **Ví dụ:** She became a victim of malicious online rumors spread by former classmates.<br>*(-> Cô trở thành nạn nhân của những tin đồn độc ác trên mạng do các bạn học cũ lan truyền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intended to harm or upset other people, often by spreading lies or causing damage.

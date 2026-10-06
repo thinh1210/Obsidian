@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Endothermic
 *adjective*
 > /ˌen.dəʊˈθɜː.mɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Endothermic::Thu nhiệt *(Phát âm: /ˌen.dəʊˈθɜː.mɪk/)* ![[endothermic.mp3]]<br><br>👪 **Word Family:** endotherm (n), endothermy (n)<br><br>💬 **Ví dụ:** Photosynthesis is an endothermic process that absorbs solar energy.<br>*(-> Quang hợp là một quá trình thu nhiệt hấp thụ năng lượng mặt trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a reaction or process) accompanied by or requiring the absorption of heat.

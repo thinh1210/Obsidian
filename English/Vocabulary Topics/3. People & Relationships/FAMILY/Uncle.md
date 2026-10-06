@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Uncle
 *noun*
 > /ˈʌŋ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Uncle::Chú, bác, cậu *(Phát âm: /ˈʌŋ.kəl/)* ![[uncle.mp3]]<br><br>👪 **Word Family:** great-uncle (n)<br><br>💬 **Ví dụ:** My uncle lives in Paris.<br>*(-> Chú tôi sống ở Paris.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The brother of your mother or father.

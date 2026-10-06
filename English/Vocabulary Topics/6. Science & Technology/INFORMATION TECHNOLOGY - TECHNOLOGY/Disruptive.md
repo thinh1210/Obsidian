@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Disruptive
 *adj*
 > /dɪsˈrʌp.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Business/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Disruptive::Đột phá (thay đổi hoàn toàn cách thức cũ) *(Phát âm: /dɪsˈrʌp.tɪv/)* ![[disruptive.mp3]]<br><br>👪 **Word Family:** Disrupt (v), Disruption (n)<br><br>💬 **Ví dụ:** Smartphones were a disruptive invention that changed our lives.<br>*(-> Điện thoại thông minh là một phát minh đột phá đã thay đổi cuộc sống của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Changing the traditional way that an industry operates, especially in a new and effective way.

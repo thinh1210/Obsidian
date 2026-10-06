@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Stroll
 *v.*
 > /strəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Stroll::Đi dạo, tản bộ nhàn nhã không vội vàng để thư giãn ngắm cảnh *(Phát âm: /strəʊl/)* ![[stroll.mp3]]<br><br>👪 **Word Family:** stroll (n), stroller (n)<br><br>💬 **Ví dụ:** We took a leisurely evening stroll through the illuminated historic quarter.<br>*(-> Chúng tôi đi dạo tản bộ thong thả qua khu phố cổ lung linh ánh đèn vào buổi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To walk in a slow, relaxed manner, especially for pleasure.

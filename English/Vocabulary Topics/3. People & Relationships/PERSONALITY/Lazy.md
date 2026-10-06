@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Lazy
 *adj.*
 > /ˈleɪ.zi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Lazy::Lười biếng, biếng nhác, ngại lao động *(Phát âm: /ˈleɪ.zi/)* ![[lazy.mp3]]<br><br>👪 **Word Family:** laziness (n), lazily (adv)<br><br>💬 **Ví dụ:** He is too lazy to cook, so he orders takeout every single night.<br>*(-> Anh ấy quá lười nấu ăn nên tối nào cũng gọi đồ ăn giao tận nơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not willing to work or use any effort.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Affection
 *noun*
 > /əˈfekʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Affection::Sự yêu mến/Tình cảm *(Phát âm: /əˈfekʃn/)* ![[affection.mp3]]<br><br>👪 **Word Family:** Affectionate (adjective)<br><br>💬 **Ví dụ:** He showed great affection for his wife.<br>*(-> Anh ấy thể hiện tình cảm lớn lao dành cho vợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A gentle feeling of fondness or liking.

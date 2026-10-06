@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Product
 *noun*
 > /ˈprɑːdʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Product::Sản phẩm *(Phát âm: /ˈprɑːdʌkt/)* ![[product.mp3]]<br><br>👪 **Word Family:** produce (v), production (n), productive (adj)<br><br>💬 **Ví dụ:** This new cleaning product is eco-friendly and safe for pets.<br>*(-> Sản phẩm làm sạch mới này thân thiện với môi trường và an toàn cho thú cưng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An article or substance that is manufactured or refined for sale

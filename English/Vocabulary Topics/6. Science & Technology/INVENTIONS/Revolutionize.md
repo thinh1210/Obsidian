@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Revolutionize
 *Verb*
 > /ˌrev.əˈluː.ʃən.aɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Revolutionize::Cách mạng hóa *(Phát âm: /ˌrev.əˈluː.ʃən.aɪz/)* ![[revolutionize.mp3]]<br><br>👪 **Word Family:** Revolution (n), revolutionary (adj)<br><br>💬 **Ví dụ:** Smart devices have revolutionized the way we manage our homes.<br>*(-> Các thiết bị thông minh đã cách mạng hóa cách chúng ta quản lý ngôi nhà của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To completely change something so that it is much better.

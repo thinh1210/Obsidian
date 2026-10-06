@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Trial
 *noun*
 > /ˈtraɪ.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
+
+## 🗂️ Flashcard
+Trial::Phiên tòa xét xử *(Phát âm: /ˈtraɪ.əl/)* ![[trial.mp3]]<br><br>👪 **Word Family:** trial (v-rare), retrial (n), pretrial (adj)<br><br>💬 **Ví dụ:** The trial will begin next Monday.<br>*(-> Phiên tòa sẽ bắt đầu vào thứ Hai tuần tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal examination of evidence in a court of law to decide guilt or innocence.

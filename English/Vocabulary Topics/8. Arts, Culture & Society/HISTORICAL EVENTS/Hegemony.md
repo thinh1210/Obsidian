@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Hegemony
 *noun*
 > /hɪˈdʒem.ə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Hegemony::Quyền bá chủ, sự bá quyền *(Phát âm: /hɪˈdʒem.ə.ni/)* ![[hegemony.mp3]]<br><br>👪 **Word Family:** hegemonic (adj)<br><br>💬 **Ví dụ:** Some people worry that the dominance of global supermarket chains threatens the hegemony of local shops.<br>*(-> Một số người lo ngại rằng sự thống trị của các chuỗi siêu thị toàn cầu đe dọa đến vị thế của các cửa hàng địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Leadership or dominance, especially by one country or social group over others.

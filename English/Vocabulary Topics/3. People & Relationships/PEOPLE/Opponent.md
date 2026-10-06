@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Opponent
 *n.*
 > /əˈpəʊ.nənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Opponent::Đối thủ, người phản đối *(Phát âm: /əˈpəʊ.nənt/)* ![[opponent.mp3]]<br><br>👪 **Word Family:** Oppose<br><br>💬 **Ví dụ:** He defeated his opponent.<br>*(-> Anh ấy đã đánh bại đối thủ của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who competes against or fights another in a contest, game, or argument.

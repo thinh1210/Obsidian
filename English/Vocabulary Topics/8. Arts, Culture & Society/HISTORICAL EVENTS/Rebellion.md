@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Rebellion
 *noun*
 > /rɪˈbel.jən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Rebellion::Cuộc nổi loạn, cuộc khởi nghĩa, sự phiến loạn *(Phát âm: /rɪˈbel.jən/)* ![[rebellion.mp3]]<br><br>👪 **Word Family:** rebel (noun/verb), rebellious (adj), rebelliously (adv)<br><br>💬 **Ví dụ:** Teenagers often go through a phase of rebellion against their parents.<br>*(-> Thanh thiếu niên thường trải qua một giai đoạn nổi loạn chống lại cha mẹ họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of violent or open resistance to an established government or ruler.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Pioneer
 *Noun*
 > /ˌpaɪəˈnɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Pioneer::Người tiên phong *(Phát âm: /ˌpaɪəˈnɪər/)* ![[pioneer.mp3]]<br><br>👪 **Word Family:** Pioneer (v)<br><br>💬 **Ví dụ:** She was a pioneer of modern dance in her country.<br>*(-> Cô ấy là một người tiên phong của múa hiện đại ở quốc gia của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is among the first to research and develop a new area of knowledge or technology.

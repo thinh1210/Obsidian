@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Stairs
 *noun*
 > /stɛrz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Stairs::Cầu thang *(Phát âm: /stɛrz/)* ![[stairs.mp3]]<br><br>👪 **Word Family:** staircase (n)<br><br>💬 **Ví dụ:** She ran up the stairs.<br>*(-> Cô ấy chạy lên cầu thang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of steps leading from one floor of a building to another.
@@ -34,4 +44,4 @@
 - staircase (n)
 
 **Synonyms:** steps
-**Antonyms:** 
+**Antonyms:**

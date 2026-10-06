@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Campaign
 *n/v*
 > /kæmˈpeɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+Campaign::Chiến dịch (vận động tranh cử / tuyên truyền) *(Phát âm: /kæmˈpeɪn/)* ![[campaign.mp3]]<br><br>👪 **Word Family:** campaigner (n), campaigning (n/adj)<br><br>💬 **Ví dụ:** She campaigned door-to-door for the local candidate.<br>*(-> Cô ấy đi vận động từng nhà cho ứng cử viên địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organised effort to influence decisions, especially in politics.

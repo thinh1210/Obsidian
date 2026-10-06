@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Interior
 *n.*
 > /ɪnˈtɪəriə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Interior::Nội thất, bên trong *(Phát âm: /ɪnˈtɪəriə(r)/)* ![[interior.mp3]]<br><br>👪 **Word Family:** internal, interiorize<br><br>💬 **Ví dụ:** The interior of the house was decorated in warm colors.<br>*(-> Nội thất của ngôi nhà được trang trí bằng các tông màu ấm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The inside part of a building or room

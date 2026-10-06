@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Existence
 *n.*
 > /ɪɡˈzɪs.təns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Existence::Sự tồn tại *(Phát âm: /ɪɡˈzɪs.təns/)* ![[existence.mp3]]<br><br>👪 **Word Family:** exist, existent, existential<br><br>💬 **Ví dụ:** Scientists are trying to prove the existence of alien life.<br>*(-> Các nhà khoa học đang cố gắng chứng minh sự tồn tại của sự sống ngoài hành tinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or state of living or having objective reality.

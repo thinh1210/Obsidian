@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Tea
 *n.*
 > /tiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Tea::Trà *(Phát âm: /tiː/)* ![[tea.mp3]]<br><br>👪 **Word Family:** teapot, teacup, teahouse<br><br>💬 **Ví dụ:** Would you like some tea?<br>*(-> Bạn có muốn uống trà không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A hot drink made by infusing dried crushed leaves.

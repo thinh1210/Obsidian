@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Metaphysics
 *n.*
 > /ˌmet.əˈfɪz.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Metaphysics::Siêu hình học; triết học về bản thể *(Phát âm: /ˌmet.əˈfɪz.ɪks/)* ![[metaphysics.mp3]]<br><br>👪 **Word Family:** metaphysical (adj.), metaphysically (adv.), metaphysician (n.)<br><br>💬 **Ví dụ:** He spends evenings pondering metaphysics by candlelight.<br>*(-> Anh ấy dành các buổi tối suy ngẫm về siêu hình học dưới ánh nến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.

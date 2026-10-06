@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Demand
 *noun*
 > /dɪˈmænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Demand::Nhu cầu *(Phát âm: /dɪˈmænd/)* ![[demand.mp3]]<br><br>👪 **Word Family:** demand (v), demanding (adj)<br><br>💬 **Ví dụ:** Good tutors are always in high demand during exam season.<br>*(-> Các gia sư giỏi luôn có nhu cầu cao trong mùa thi cử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A consumer's desire and willingness to pay a price for a specific good or service

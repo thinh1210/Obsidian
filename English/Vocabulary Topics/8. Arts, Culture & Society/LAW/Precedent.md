@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Precedent
 *noun*
 > /ˈpres.ɪ.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Precedent::Tiền lệ, án lệ (quyết định của tòa trước đó được dùng làm chuẩn) *(Phát âm: /ˈpres.ɪ.dənt/)* ![[precedent.mp3]]<br><br>👪 **Word Family:** Precedent (n), Precede (v), Precedence (n), Unprecedented (adj)<br><br>💬 **Ví dụ:** This judicial ruling could set a precedent for future environmental lawsuits.<br>*(-> Phán quyết tư pháp này có thể thiết lập một tiền lệ cho các vụ kiện môi trường trong tương lai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.

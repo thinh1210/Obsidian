@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Idiom
 *noun*
 > /ˈɪd.i.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Idiom::thành ngữ *(Phát âm: /ˈɪd.i.əm/)* ![[idiom.mp3]]<br><br>👪 **Word Family:** idiomatic (adj), idiomatically (adv)<br><br>💬 **Ví dụ:** "Spill the beans" is an English idiom meaning to reveal a secret.<br>*(-> "Spill the beans" là một thành ngữ tiếng Anh có nghĩa là tiết lộ bí mật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an expression whose meaning is different from the meaning of the individual words

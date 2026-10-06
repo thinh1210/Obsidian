@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Endorsement
 *noun*
 > /ɪnˈdɔːrsmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
+
+## 🗂️ Flashcard
+Endorsement::Sự chứng thực, sự quảng cáo từ người nổi tiếng *(Phát âm: /ɪnˈdɔːrsmənt/)* ![[endorsement.mp3]]<br><br>👪 **Word Family:** endorse (v), endorser (n)<br><br>💬 **Ví dụ:** The singer signed a deal for the endorsement of a new perfume.<br>*(-> Nữ ca sĩ đã ký hợp đồng quảng cáo cho một loại nước hoa mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of publicly declaring approval or support for a product or service, often by a celebrity or public figure

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Puddle
 *n.*
 > /ˈpʌdl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Puddle::Vũng nước đọng trên mặt đất hoặc lòng đường sau cơn mưa *(Phát âm: /ˈpʌdl/)* ![[puddle.mp3]]<br><br>👪 **Word Family:** puddly (adj)<br><br>💬 **Ví dụ:** Children love jumping into muddy puddles with their rubber boots.<br>*(-> Trẻ con rất thích nhảy vào những vũng nước đọng với đôi ủng cao su.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small pool of liquid, especially rainwater on the ground.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Evict
 *verb*
 > /ɪˈvɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Evict::Đuổi ra khỏi nhà *(Phát âm: /ɪˈvɪkt/)* ![[evict.mp3]]<br><br>👪 **Word Family:** eviction (n)<br><br>💬 **Ví dụ:** The landlord decided to evict them.<br>*(-> Chủ nhà quyết định đuổi họ đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Expel (someone) from a property, especially with the support of the law.

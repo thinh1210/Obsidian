@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Law
 *n.*
 > /lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Law::Luật học; ngành Luật *(Phát âm: /lɔː/)* ![[law.mp3]]<br><br>👪 **Word Family:** lawyer (n.), legal (adj.), legally (adv.), legislation (n.)<br><br>💬 **Ví dụ:** He decided to study law to fight for social justice.<br>*(-> Anh ấy quyết định học luật để đấu tranh vì công bằng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of rules which a particular country or community recognizes as regulating the actions of its members; also an academic discipline.

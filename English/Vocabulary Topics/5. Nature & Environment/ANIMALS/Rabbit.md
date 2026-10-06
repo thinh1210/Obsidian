@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Rabbit
 *noun*
 > /ˈræb.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Rabbit::Con thỏ *(Phát âm: /ˈræb.ɪt/)* ![[rabbit.mp3]]<br><br>👪 **Word Family:** rabbit (n), bunny (n)<br><br>💬 **Ví dụ:** The white rabbit hopped quickly across the garden.<br>*(-> Chú thỏ trắng nhảy nhanh qua khu vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small gregarious burrowing plant-eating mammal with long ears and a short tail.

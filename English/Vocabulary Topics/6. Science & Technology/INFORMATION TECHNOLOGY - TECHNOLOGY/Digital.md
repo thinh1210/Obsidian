@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Digital
 *adj.*
 > /ˈdɪdʒ.ɪ.təl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Digital::Thuộc về kỹ thuật số, công nghệ số hóa trên nền tảng máy tính và internet *(Phát âm: /ˈdɪdʒ.ɪ.təl/)* ![[digital.mp3]]<br><br>👪 **Word Family:** digitize (v), digitalization (n), digitally (adv)<br><br>💬 **Ví dụ:** Most people now prefer reading digital books on their tablets rather than carrying heavy paperbacks.<br>*(-> Hầu hết mọi người hiện nay thích đọc sách số trên máy tính bảng hơn là mang theo sách giấy nặng nề.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or using computer technology, internet communications, and digital electronics.

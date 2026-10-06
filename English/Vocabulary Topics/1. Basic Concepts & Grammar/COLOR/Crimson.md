@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Crimson
 *n, adj*
 > /ˈkrɪm.zən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Crimson::Đỏ sẫm, đỏ thẫm *(Phát âm: /ˈkrɪm.zən/)* ![[crimson.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Her face turned crimson with embarrassment.<br>*(-> Mặt cô đỏ bừng vì xấu hổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep red color.

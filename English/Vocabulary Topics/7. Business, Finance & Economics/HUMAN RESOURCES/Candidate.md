@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Candidate
 *n.*
 > /ˈkæn.dɪ.dət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Candidate::Ứng viên, người dự tuyển *(Phát âm: /ˈkæn.dɪ.dət/)* ![[candidate.mp3]]<br><br>👪 **Word Family:** candidacy<br><br>💬 **Ví dụ:** She is a strong candidate for the job.<br>*(-> Cô ấy là một ứng viên nặng ký cho công việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who is considered for a position or role

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Baby
 *n.*
 > /ˈbeɪ.bi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Baby::Em bé *(Phát âm: /ˈbeɪ.bi/)* ![[baby.mp3]]<br><br>👪 **Word Family:** Babysit<br><br>💬 **Ví dụ:** The baby is crying.<br>*(-> Em bé đang khóc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very young child, especially one newly or recently born.

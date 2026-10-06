@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Soundtrack
 *n.*
 > /ˈsaʊndtræk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Soundtrack::Nhạc phim, dải âm thanh trong phim *(Phát âm: /ˈsaʊndtræk/)* ![[soundtrack.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I bought the soundtrack to that sci-fi movie.<br>*(-> Tôi đã mua đĩa nhạc phim của bộ phim khoa học viễn tưởng đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recording of the musical accompaniment to a movie

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Fly
 *Verb*
 > /flaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Fly::Bay *(Phát âm: /flaɪ/)* ![[fly.mp3]]<br><br>👪 **Word Family:** flight (n), flyer (n)<br><br>💬 **Ví dụ:** Birds fly in the sky.<br>*(-> Chim bay trên bầu trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move through the air or space using wings or a spacecraft.

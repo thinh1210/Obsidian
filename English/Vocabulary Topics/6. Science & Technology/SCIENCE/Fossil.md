@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Fossil
 *noun*
 > /ˈfɒs.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Fossil::Hóa thạch – dấu vết hoặc di tích còn lại của sinh vật cổ đại được tìm thấy trong đá *(Phát âm: /ˈfɒs.əl/)* ![[fossil.mp3]]<br><br>👪 **Word Family:** fossilize (v), fossilised (adj), palaeontology (n)<br><br>💬 **Ví dụ:** We found a fossil of a leaf on our school trip to the museum.<br>*(-> Chúng tôi tìm thấy hóa thạch của một chiếc lá trong chuyến đi thực tế đến bảo tàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The preserved remains or traces of an ancient organism found in rock.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Mise-en-scène
 *n.*
 > /ˌmiːz ɒ̃ ˈsen/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
+
+## 🗂️ Flashcard
+Mise-en-scène::Sự dàn cảnh, nghệ thuật sắp xếp khung cảnh *(Phát âm: /ˌmiːz ɒ̃ ˈsen/)* ![[mise_en_scène.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Wes Anderson's films are celebrated for their symmetrical mise-en-scène.<br>*(-> Các bộ phim của Wes Anderson được ca ngợi vì nghệ thuật dàn cảnh đối xứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of scenery and stage properties in a play or film (everything before the camera)

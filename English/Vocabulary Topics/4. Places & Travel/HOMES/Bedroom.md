@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Bedroom
 *noun*
 > /ˈbɛdruːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Bedroom::Phòng ngủ *(Phát âm: /ˈbɛdruːm/)* ![[bedroom.mp3]]<br><br>👪 **Word Family:** **Synonyms:** chamber<br><br>💬 **Ví dụ:** My bedroom is upstairs.<br>*(-> Phòng ngủ của tôi ở tầng trên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room for sleeping in.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** chamber
-**Antonyms:** 
+**Antonyms:**

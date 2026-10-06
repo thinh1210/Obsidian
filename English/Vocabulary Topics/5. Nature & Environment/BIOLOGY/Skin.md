@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Skin
 *noun*
 > /skɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Skin::Da *(Phát âm: /skɪn/)* ![[skin.mp3]]<br><br>👪 **Word Family:** skinny, skinless<br><br>💬 **Ví dụ:** Sunlight can burn your skin.<br>*(-> Ánh nắng mặt trời có thể làm cháy da của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The thin layer of tissue forming the natural outer covering of the body of a person or animal.

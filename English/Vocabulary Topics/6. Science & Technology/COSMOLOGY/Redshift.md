@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Redshift
 *Noun*
 > /ˈred.ʃɪft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
+
+## 🗂️ Flashcard
+Redshift::Dịch chuyển đỏ *(Phát âm: /ˈred.ʃɪft/)* ![[redshift.mp3]]<br><br>👪 **Word Family:** redshifted (adj)<br><br>💬 **Ví dụ:** Redshift is the cosmic equivalent of the Doppler effect.<br>*(-> Dịch chuyển đỏ là sự tương đương trong vũ trụ của hiệu ứng Doppler.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Displacement of spectral lines toward longer wavelengths, indicating galaxies are moving away.

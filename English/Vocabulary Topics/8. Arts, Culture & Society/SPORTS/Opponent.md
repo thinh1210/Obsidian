@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Opponent
 *n.*
 > /əˈpəʊ.nənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Opponent::Đối thủ *(Phát âm: /əˈpəʊ.nənt/)* ![[opponent.mp3]]<br><br>👪 **Word Family:** oppose, opposition, opposite<br><br>💬 **Ví dụ:** He respected his opponent and shook his hand after the match.<br>*(-> Anh ấy tôn trọng đối thủ của mình và bắt tay anh ta sau trận đấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who competes against or fights another in a contest, game, or argument.

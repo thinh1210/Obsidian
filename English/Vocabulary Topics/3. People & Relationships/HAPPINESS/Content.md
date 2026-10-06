@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Content
 *adj.*
 > /kənˈtent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
+
+## 🗂️ Flashcard
+Content::Bằng lòng, mãn nguyện *(Phát âm: /kənˈtent/)* ![[content.mp3]]<br><br>👪 **Word Family:** Contentment (n)<br><br>💬 **Ví dụ:** He is content with his life.<br>*(-> Anh ấy mãn nguyện với cuộc sống của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In a state of peaceful happiness.

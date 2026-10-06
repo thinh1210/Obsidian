@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Frugal
 *adj.*
 > /ˈfruːɡl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
+
+## 🗂️ Flashcard
+Frugal::Tiết kiệm, chừng mực *(Phát âm: /ˈfruːɡl/)* ![[frugal.mp3]]<br><br>👪 **Word Family:** frugality (n.)<br><br>💬 **Ví dụ:** He lives a frugal life to save money.<br>*(-> Anh ấy sống tiết kiệm để dành tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sparing or economical with regard to money or food.

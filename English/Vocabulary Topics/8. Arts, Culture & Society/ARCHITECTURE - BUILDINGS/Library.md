@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Library
 *n.*
 > /ˈlaɪbrəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Library::Thư viện *(Phát âm: /ˈlaɪbrəri/)* ![[library.mp3]]<br><br>👪 **Word Family:** librarian<br><br>💬 **Ví dụ:** I often study in the university library.<br>*(-> Tôi thường học bài trong thư viện trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building or room containing collections of books for people to read or borrow

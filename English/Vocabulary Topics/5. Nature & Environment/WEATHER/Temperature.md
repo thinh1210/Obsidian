@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Temperature
 *noun*
 > /ˈtemprətʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Temperature::Nhiệt độ *(Phát âm: /ˈtemprətʃə(r)/)* ![[temperature.mp3]]<br><br>👪 **Word Family:** Temper (noun/verb), temperate (adj)<br><br>💬 **Ví dụ:** The temperature dropped suddenly in the evening.<br>*(-> Nhiệt độ giảm đột ngột vào buổi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A measure of how hot or cold something is

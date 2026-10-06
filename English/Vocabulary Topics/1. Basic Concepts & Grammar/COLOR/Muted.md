@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Muted
 *adj*
 > /ˈmjuː.t̬ɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Muted::Trầm, dịu nhạt, không chói (màu sắc); âm thầm *(Phát âm: /ˈmjuː.t̬ɪd/)* ![[muted.mp3]]<br><br>👪 **Word Family:** mute (v, n)<br><br>💬 **Ví dụ:** The artist used a palette of muted earthy colors.<br>*(-> Nghệ sĩ đã sử dụng một bảng màu đất trầm dịu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not bright; subdued.

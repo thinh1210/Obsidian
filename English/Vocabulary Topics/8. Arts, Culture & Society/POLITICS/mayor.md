@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # mayor
 *noun*
 > /ˈmeɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+mayor::Thị trưởng *(Phát âm: /ˈmeɪər/)* ![[mayor.mp3]]<br><br>👪 **Word Family:** mayoral (adj), mayoralty (n)<br><br>💬 **Ví dụ:** The mayor visited our school today to talk about green spaces.<br>*(-> Thị trưởng đã đến thăm trường chúng tôi hôm nay để nói về không gian xanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The elected head of a city, town, or other municipality.

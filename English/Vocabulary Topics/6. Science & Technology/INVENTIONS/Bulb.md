@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Bulb
 *Noun*
 > /bʌlb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Bulb::Bóng đèn tròn *(Phát âm: /bʌlb/)* ![[bulb.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The light bulb in the kitchen has burnt out.<br>*(-> Bóng đèn trong nhà bếp đã bị cháy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rounded glass container with a thin thread of metal inside that shines when an electric current goes through it.

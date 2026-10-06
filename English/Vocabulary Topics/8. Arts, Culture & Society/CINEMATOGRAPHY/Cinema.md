@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Cinema
 *n.*
 > /ˈsɪnəmə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Cinema::Điện ảnh, rạp chiếu phim *(Phát âm: /ˈsɪnəmə/)* ![[cinema.mp3]]<br><br>👪 **Word Family:** cinematic, cinephile<br><br>💬 **Ví dụ:** Let's go to the cinema tonight.<br>*(-> Tối nay chúng ta đi xem phim ở rạp nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A theater where movies are shown, or the movie industry as a whole

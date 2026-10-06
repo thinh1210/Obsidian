@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Rainbow
 *n.*
 > /ˈreɪnbəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Rainbow::Cầu vồng, dải cung hình vòm bảy sắc màu lung linh xuất hiện trên bầu trời sau cơn mưa *(Phát âm: /ˈreɪnbəʊ/)* ![[rainbow.mp3]]<br><br>👪 **Word Family:** rainbow-colored (adj)<br><br>💬 **Ví dụ:** After the summer shower passed, a vivid double rainbow arched gracefully across the valley.<br>*(-> Sau khi cơn mưa rào mùa hè dứt hạt, một dải cầu vồng đôi rực rỡ uốn cong duyên dáng qua thung lũng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arch of colors formed in the sky caused by the refraction and dispersion of the sun's light by rain.

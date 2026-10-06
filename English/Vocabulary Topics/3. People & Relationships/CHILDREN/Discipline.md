@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Discipline
 *n.*
 > /ˈdɪs.ə.plɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Discipline::Kỷ luật, sự rèn luyện tính tự giác và khuôn phép nề nếp cho trẻ em *(Phát âm: /ˈdɪs.ə.plɪn/)* ![[discipline.mp3]]<br><br>👪 **Word Family:** disciplinary (adj), disciplined (adj), discipline (v)<br><br>💬 **Ví dụ:** Modern educators advocate positive discipline methods that focus on encouragement rather than punishment.<br>*(-> Các nhà giáo dục hiện đại ủng hộ phương pháp kỷ luật tích cực tập trung vào động viên thay vì trừng phạt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of training people to obey rules and orders, and punishing them if they do not.

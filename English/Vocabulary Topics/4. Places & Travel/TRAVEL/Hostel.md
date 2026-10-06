@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Hostel
 *n.*
 > /ˈhɒstl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
+
+## 🗂️ Flashcard
+Hostel::Nhà trọ giá rẻ có phòng ngủ chung kiểu giường tầng, rất được dân du lịch bụi ưa chuộng *(Phát âm: /ˈhɒstl/)* ![[hostel.mp3]]<br><br>👪 **Word Family:** hosteler (n)<br><br>💬 **Ví dụ:** Staying in youth hostels is a fantastic way to meet fellow solo travelers.<br>*(-> Nghỉ tại các hostel thanh niên là cách tuyệt vời để kết bạn với những người đi du lịch một mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An establishment providing inexpensive food and lodging for a specific group of people, such as students or backpackers.

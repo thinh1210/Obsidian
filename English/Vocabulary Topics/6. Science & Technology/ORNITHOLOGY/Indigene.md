@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Indigene
 *noun*
 > /ˈɪn.dɪ.dʒiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
+
+## 🗂️ Flashcard
+Indigene::Sinh vật bản địa *(Phát âm: /ˈɪn.dɪ.dʒiːn/)* ![[indigene.mp3]]<br><br>👪 **Word Family:** indigene (n), indigenous (adj)<br><br>💬 **Ví dụ:** This beautiful parrot is an indigene of the tropical rainforest.<br>*(-> Loài vẹt xinh đẹp này là một sinh vật bản địa của rừng mưa nhiệt đới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An indigenous person, animal, or plant.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Briefcase
 *noun*
 > /ˈbriːfkeɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
+
+## 🗂️ Flashcard
+Briefcase::Cặp tài liệu *(Phát âm: /ˈbriːfkeɪs/)* ![[briefcase.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The lawyer left his briefcase on the train.<br>*(-> Luật sư đã để quên cặp tài liệu của mình trên tàu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flat, rectangular case with a handle, used for carrying documents.

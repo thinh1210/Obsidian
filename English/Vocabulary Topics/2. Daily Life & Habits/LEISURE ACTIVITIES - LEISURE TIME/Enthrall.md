@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Enthrall
 *v*
 > /ɪnˈθrɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Enthrall::Làm say mê *(Phát âm: /ɪnˈθrɔːl/)* ![[enthrall.mp3]]<br><br>👪 **Word Family:** Enthralling (adj)<br><br>💬 **Ví dụ:** The children were enthralled by the magic show.<br>*(-> Bọn trẻ bị say mê bởi màn ảo thuật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Capture the fascinated attention of.

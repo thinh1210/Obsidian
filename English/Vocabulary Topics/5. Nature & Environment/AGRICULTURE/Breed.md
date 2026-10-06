@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Breed
 *v.*
 > /briːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Breed::Nhân giống, chăn nuôi *(Phát âm: /briːd/)* ![[breed.mp3]]<br><br>👪 **Word Family:** breed (n), breeder (n), breeding (n)<br><br>💬 **Ví dụ:** He decided to breed sheep on his new farm.<br>*(-> Anh ấy quyết định nhân giống cừu trên trang trại mới của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep and raise animals for the purpose of producing offspring.

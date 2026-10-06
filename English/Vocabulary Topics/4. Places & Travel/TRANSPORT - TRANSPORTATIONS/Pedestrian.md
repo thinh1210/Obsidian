@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Pedestrian
 *noun*
 > /pəˈdestriən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Pedestrian::Người đi bộ *(Phát âm: /pəˈdestriən/)* ![[pedestrian.mp3]]<br><br>👪 **Word Family:** Noun: pedestrian (người đi bộ), Adjective: pedestrian (đi bộ, tẻ nhạt/bình thường)<br><br>💬 **Ví dụ:** Drivers must yield the right of way to pedestrians.<br>*(-> Tài xế phải nhường đường cho người đi bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person walking rather than traveling in a vehicle.

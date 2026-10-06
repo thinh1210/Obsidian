@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Ascetic
 *adj., n.*
 > /əˈsɛtɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
+
+## 🗂️ Flashcard
+Ascetic::Khổ hạnh, người tu khổ hạnh *(Phát âm: /əˈsɛtɪk/)* ![[ascetic.mp3]]<br><br>👪 **Word Family:** asceticism (n.)<br><br>💬 **Ví dụ:** He lives an ascetic life.<br>*(-> Anh ấy sống một cuộc đời khổ hạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by severe self-discipline and abstention from all forms of indulgence.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Virtue
 *n.*
 > /ˈvɜː.tʃuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Virtue::Đức hạnh, đức tính tốt *(Phát âm: /ˈvɜː.tʃuː/)* ![[virtue.mp3]]<br><br>👪 **Word Family:** virtuous, virtuously<br><br>💬 **Ví dụ:** Patience is a virtue that few people possess.<br>*(-> Kiên nhẫn là một đức tính tốt mà ít người có được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Behavior showing high moral standards.

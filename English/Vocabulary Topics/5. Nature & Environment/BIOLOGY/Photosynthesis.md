@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Photosynthesis
 *noun*
 > /ˌfəʊ.təʊˈsɪn.θə.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Photosynthesis::Quá trình quang hợp *(Phát âm: /ˌfəʊ.təʊˈsɪn.θə.sɪs/)* ![[photosynthesis.mp3]]<br><br>👪 **Word Family:** photosynthesize, photosynthetic<br><br>💬 **Ví dụ:** Green plants absorb light energy to carry out photosynthesis.<br>*(-> Thực vật xanh hấp thụ năng lượng ánh sáng để thực hiện quá trình quang hợp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Message
 *noun*
 > /ˈmesɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Message::Thông điệp *(Phát âm: /ˈmesɪdʒ/)* ![[message.mp3]]<br><br>👪 **Word Family:** messenger (noun), messaging (noun)<br><br>💬 **Ví dụ:** I left a voice message for my mother.<br>*(-> Tôi đã để lại tin nhắn thoại cho mẹ tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A significant point or central theme, especially one expressed in a work of art or an advertisement.

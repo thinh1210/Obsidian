@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Gym
 *n.*
 > /dʒɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Gym::Phòng tập thể dục, thể hình được trang bị máy móc rèn luyện sức khỏe *(Phát âm: /dʒɪm/)* ![[gym.mp3]]<br><br>👪 **Word Family:** gymnasium (n), gymnast (n), gymnastics (n)<br><br>💬 **Ví dụ:** I usually hit the gym three times a week before heading to the office.<br>*(-> Tôi thường đi tập gym ba lần một tuần trước khi đến văn phòng làm việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room or building equipped for gymnastics, physical exercise, or weight training.

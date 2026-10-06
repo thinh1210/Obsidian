@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Juvenile
 *adj*
 > /ˈdʒuː.və.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Juvenile::Vị thành niên, trẻ con *(Phát âm: /ˈdʒuː.və.nəl/)* ![[juvenile.mp3]]<br><br>👪 **Word Family:** Rejuvenate (v)<br><br>💬 **Ví dụ:** His behavior was very juvenile.<br>*(-> Hành vi của anh ta rất trẻ con.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of, for, or relating to young people.

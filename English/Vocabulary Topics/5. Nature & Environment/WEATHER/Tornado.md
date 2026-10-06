@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Tornado
 *n.*
 > /tɔːˈneɪdəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Tornado::Cơn lốc xoáy, vòi rồng cuốn phăng mọi thứ trên đường nó quét qua *(Phát âm: /tɔːˈneɪdəʊ/)* ![[tornado.mp3]]<br><br>👪 **Word Family:** tornado-prone (adj)<br><br>💬 **Ví dụ:** When the siren sounded, families hurried down into storm cellars to escape the tornado.<br>*(-> Khi còi báo động vang lên, các gia đình vội vã chui xuống hầm trú ẩn để tránh lốc xoáy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A violently rotating column of air extending from a thunderstorm to the ground.

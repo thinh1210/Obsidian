@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Commute
 *v., n.*
 > /kəˈmjuːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Commute::Đi lại (từ nhà tới chỗ làm) *(Phát âm: /kəˈmjuːt/)* ![[commute.mp3]]<br><br>👪 **Word Family:** commuter (n.)<br><br>💬 **Ví dụ:** My commute takes an hour.<br>*(-> Chuyến đi làm của tôi mất một giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travel some distance between one's home and place of work on a regular basis.

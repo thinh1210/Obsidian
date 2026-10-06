@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Judge
 *noun*
 > /dʒʌdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Judge::Thẩm phán, quan tòa *(Phát âm: /dʒʌdʒ/)* ![[judge.mp3]]<br><br>👪 **Word Family:** Judge (n/v), Judgment (n), Judicial (adj)<br><br>💬 **Ví dụ:** The judge listened carefully to both sides before making a decision.<br>*(-> Thẩm phán đã lắng nghe cẩn thận cả hai bên trước khi đưa ra quyết định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A public officer appointed to decide cases in a court of law.

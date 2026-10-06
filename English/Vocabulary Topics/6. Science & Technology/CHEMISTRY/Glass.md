@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Glass
 *noun*
 > /ɡlɑːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Glass::Thủy tinh *(Phát âm: /ɡlɑːs/)* ![[glass.mp3]]<br><br>👪 **Word Family:** glassy (adj), glassware (n)<br><br>💬 **Ví dụ:** Be careful not to break the glass.<br>*(-> Cẩn thận kẻo làm vỡ thủy tinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hard, brittle substance, typically transparent, made by fusing sand with soda and lime.

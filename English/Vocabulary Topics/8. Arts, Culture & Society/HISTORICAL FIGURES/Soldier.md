@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Soldier
 *n.*
 > /ˈsəʊldʒə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Soldier::Người lính, quân nhân *(Phát âm: /ˈsəʊldʒə(r)/)* ![[soldier.mp3]]<br><br>👪 **Word Family:** soldierly, soldiering<br><br>💬 **Ví dụ:** The young soldier wrote a letter to his mother.<br>*(-> Người lính trẻ viết một bức thư cho mẹ mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who serves in an army

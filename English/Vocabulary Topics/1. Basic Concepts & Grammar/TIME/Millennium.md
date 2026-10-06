@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Millennium
 *n.*
 > /mɪˈleniəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Millennium::Thiên niên kỷ *(Phát âm: /mɪˈleniəm/)* ![[millennium.mp3]]<br><br>👪 **Word Family:** millennial (n./adj.)<br><br>💬 **Ví dụ:** We celebrated the new millennium.<br>*(-> Chúng tôi đã ăn mừng thiên niên kỷ mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 1000 years

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Acculturation
 *noun*
 > /əˌkʌltʃəˈreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Acculturation::Sự tiếp biến văn hóa, sự hòa nhập văn hóa *(Phát âm: /əˌkʌltʃəˈreɪʃn/)* ![[acculturation.mp3]]<br><br>👪 **Word Family:** acculturate (v), acculturative (adj)<br><br>💬 **Ví dụ:** International students often go through a difficult process of acculturation.<br>*(-> Sinh viên quốc tế thường trải qua một quá trình tiếp biến văn hóa khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Assimilation to a different culture, typically the dominant one.

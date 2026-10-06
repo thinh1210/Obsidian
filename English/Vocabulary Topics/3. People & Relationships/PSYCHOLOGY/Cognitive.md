@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Cognitive
 *adj*
 > /ˈkɑːɡ.nə.t̬ɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Cognitive::Thuộc về nhận thức *(Phát âm: /ˈkɑːɡ.nə.t̬ɪv/)* ![[cognitive.mp3]]<br><br>👪 **Word Family:** cognition (noun)<br><br>💬 **Ví dụ:** Puzzles improve cognitive skills.<br>*(-> Câu đố cải thiện kỹ năng nhận thức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Connected with thinking or conscious mental processes.

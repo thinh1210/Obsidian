@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Curious
 *adj*
 > /ˈkjʊriəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Curious::Tò mò *(Phát âm: /ˈkjʊriəs/)* ![[curious.mp3]]<br><br>👪 **Word Family:** curiosity (n), curiously (adv)<br><br>💬 **Ví dụ:** I was curious about the noise.<br>*(-> Tôi tò mò về tiếng ồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Eager to know or learn something.

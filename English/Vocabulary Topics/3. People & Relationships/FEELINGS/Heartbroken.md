@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Heartbroken
 *adj.*
 > /ˈhɑːtˌbrəʊ.kən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Heartbroken::Đau lòng khôn xiết, tan nát cõi lòng vì sự mất mát hay chia lìa *(Phát âm: /ˈhɑːtˌbrəʊ.kən/)* ![[heartbroken.mp3]]<br><br>👪 **Word Family:** heartbreak (n), heartbreaking (adj)<br><br>💬 **Ví dụ:** The little girl was utterly heartbroken when her beloved canary slipped out the window.<br>*(-> Cô bé đau lòng khôn xiết khi chú chim hoàng yến yêu quý bay vút ra ngoài cửa sổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely sad, heartbroken, or distressed, typically as a result of loss or betrayal.

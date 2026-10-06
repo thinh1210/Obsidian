@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Celestial
 *Adjective*
 > /sɪˈles.ti.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Celestial::Thuộc về thiên thể, bầu trời *(Phát âm: /sɪˈles.ti.əl/)* ![[celestial.mp3]]<br><br>👪 **Word Family:** celestially (adv)<br><br>💬 **Ví dụ:** Stars and planets are celestial bodies.<br>*(-> Các ngôi sao và hành tinh là các thiên thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Positioned in or relating to the sky, or outer space.

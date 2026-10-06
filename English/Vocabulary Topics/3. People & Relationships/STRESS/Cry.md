@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Cry
 *v.*
 > /kraɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Cry::Khóc *(Phát âm: /kraɪ/)* ![[cry.mp3]]<br><br>👪 **Word Family:** crying (n)<br><br>💬 **Ví dụ:** Don't cry, everything is fine.<br>*(-> Đừng khóc, mọi chuyện ổn mà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shed tears, especially as an expression of distress or pain

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Finesse
 *n.*
 > /fɪˈnes/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Finesse::Sự khéo léo, tinh tế *(Phát âm: /fɪˈnes/)* ![[finesse.mp3]]<br><br>👪 **Word Family:** Finesse (v.)<br><br>💬 **Ví dụ:** He folded the origami crane with such finesse that it looked completely effortless.<br>*(-> Anh ấy gấp con hạc giấy với sự khéo léo đến mức trông hoàn toàn dễ dàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great skill or style.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Flora
 *noun*
 > /ˈflɔːrə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Flora::Hệ thực vật *(Phát âm: /ˈflɔːrə/)* ![[flora.mp3]]<br><br>👪 **Word Family:** Noun: flora (hệ thực vật), Adjective: floral (thuộc về hoa)<br><br>💬 **Ví dụ:** We went on a hike to study the local flora.<br>*(-> Chúng tôi đã đi bộ đường dài để nghiên cứu hệ thực vật địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The plants of a particular region, habitat, or geological period.

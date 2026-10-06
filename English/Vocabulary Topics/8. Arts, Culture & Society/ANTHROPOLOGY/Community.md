@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Community
 *n.*
 > /kəˈmjuː.nə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Community::Cộng đồng *(Phát âm: /kəˈmjuː.nə.ti/)* ![[community.mp3]]<br><br>👪 **Word Family:** communal, commune<br><br>💬 **Ví dụ:** The local community raised money for the new park.<br>*(-> Cộng đồng địa phương đã quyên góp tiền cho công viên mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of people living in the same place or having a particular characteristic in common.

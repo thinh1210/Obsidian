@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Snake
 *n.*
 > /sneɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Snake::Con rắn, loài bò sát thân dài không chân, di chuyển bằng cách uốn lượn *(Phát âm: /sneɪk/)* ![[snake.mp3]]<br><br>👪 **Word Family:** snaky (adj), snakelike (adj)<br><br>💬 **Ví dụ:** Keep to the designated trail so you don't step on a sleeping snake.<br>*(-> Hãy đi đúng con đường mòn để không dẫm phải một con rắn đang ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long, limbless reptile that has no eyelids and a venomous or constricting bite.

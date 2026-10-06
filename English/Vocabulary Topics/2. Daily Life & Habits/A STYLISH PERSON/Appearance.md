@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Appearance
 *n.*
 > /əˈpɪrəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Appearance::Vẻ bề ngoài *(Phát âm: /əˈpɪrəns/)* ![[appearance.mp3]]<br><br>👪 **Word Family:** Appear (v)<br><br>💬 **Ví dụ:** She cares a lot about her physical appearance.<br>*(-> Cô ấy rất quan tâm đến vẻ bề ngoài của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way that someone or something looks.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Fiscal
 *adjective*
 > /ˈfɪskl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Fiscal::thuộc tài khóa, tài chính chính phủ *(Phát âm: /ˈfɪskl/)* ![[fiscal.mp3]]<br><br>👪 **Word Family:** fiscally (adverb)<br><br>💬 **Ví dụ:** The local library receives fiscal support from the municipal government.<br>*(-> Thư viện địa phương nhận được hỗ trợ tài chính từ chính quyền thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** relating to government revenue, especially taxes.

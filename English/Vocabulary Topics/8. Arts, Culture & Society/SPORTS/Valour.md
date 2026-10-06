@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Valour
 *n.*
 > /ˈvæl.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Valour::Sự dũng cảm, lòng quả cảm (khi đối mặt hiểm nguy) *(Phát âm: /ˈvæl.ər/)* ![[valour.mp3]]<br><br>👪 **Word Family:** valorous, valorously<br><br>💬 **Ví dụ:** The injured athlete showed true valour by finishing the race despite the pain.<br>*(-> Vận động viên bị thương đã thể hiện lòng quả cảm thực sự khi hoàn thành cuộc đua bất chấp đau đớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great courage in the face of danger, especially in battle.

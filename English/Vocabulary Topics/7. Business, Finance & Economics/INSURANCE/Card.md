@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Card
 *n.*
 > /kɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Card::Thẻ *(Phát âm: /kɑːd/)* ![[card.mp3]]<br><br>👪 **Word Family:** cardboard<br><br>💬 **Ví dụ:** Please show your insurance card at the front desk.<br>*(-> Vui lòng xuất trình thẻ bảo hiểm của bạn tại quầy lễ tân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small, flat, stiff piece of plastic or paper with information on it.

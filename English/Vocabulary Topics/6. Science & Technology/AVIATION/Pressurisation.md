@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Pressurisation
 *noun*
 > /ˌpreʃ.ər.aɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Pressurisation::Quá trình tăng áp cabin (duy trì áp suất) *(Phát âm: /ˌpreʃ.ər.aɪˈzeɪ.ʃən/)* ![[pressurisation.mp3]]<br><br>👪 **Word Family:** pressurised (adj), depressurise (v), cabin altitude (n)<br><br>💬 **Ví dụ:** Thanks to pressurisation, passengers can breathe normally at 35,000 feet.<br>*(-> Nhờ hệ thống tăng áp, hành khách có thể thở bình thường ở độ cao 35.000 feet.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of maintaining a safe and comfortable atmospheric pressure inside an aircraft cabin at high altitude.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Decoupage
 *noun*
 > /ˌdeɪkuːˈpɑːʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Decoupage::Nghệ thuật trang trí bằng giấy cắt dán *(Phát âm: /ˌdeɪkuːˈpɑːʒ/)* ![[decoupage.mp3]]<br><br>👪 **Word Family:** Decoupaged (adj)<br><br>💬 **Ví dụ:** She used decoupage to decorate an old wooden box.<br>*(-> Cô ấy đã sử dụng nghệ thuật cắt dán để trang trí một chiếc hộp gỗ cũ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or craft of decorating objects with paper cut-outs.

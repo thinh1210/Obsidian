@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Niche
 *n/adj*
 > /niːʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Niche::Thị trường ngách *(Phát âm: /niːʃ/)* ![[niche.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** It targets a niche.<br>*(-> Nó nhắm vào thị trường ngách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A specialized segment of the market

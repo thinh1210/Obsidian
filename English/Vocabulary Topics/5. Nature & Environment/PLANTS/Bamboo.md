@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Bamboo
 *n.*
 > /ˌbæmˈbuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Bamboo::Cây tre, cây trúc, loài thực vật thân rỗng mọc theo bụi, phát triển cực nhanh và dẻo dai *(Phát âm: /ˌbæmˈbuː/)* ![[bamboo.mp3]]<br><br>👪 **Word Family:** bamboo-shoot (n)<br><br>💬 **Ví dụ:** Bamboo wind chimes produced soothing melodies whenever a breeze swept through.<br>*(-> Chiếc chuông gió bằng tre tạo ra những giai điệu êm dịu mỗi khi có làn gió thoảng qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A giant woody grass that grows chiefly in the tropics, having hollow stems.

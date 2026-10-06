@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Teacher
 *n.*
 > /ˈtiː.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Teacher::Giáo viên *(Phát âm: /ˈtiː.tʃər/)* ![[teacher.mp3]]<br><br>👪 **Word Family:** teach, teaching<br><br>💬 **Ví dụ:** My English teacher is very friendly.<br>*(-> Giáo viên tiếng Anh của tôi rất thân thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who helps students to learn

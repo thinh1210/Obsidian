@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Judge
 *noun*
 > /dʒʌdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Judge::Thẩm phán *(Phát âm: /dʒʌdʒ/)* ![[judge.mp3]]<br><br>👪 **Word Family:** judgment (n), judgmental (adj)<br><br>💬 **Ví dụ:** The judge listened carefully to both sides of the story.<br>*(-> Thẩm phán đã lắng nghe kỹ lưỡng câu chuyện từ cả hai phía.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person in a court who has the authority to decide how criminals should be punished

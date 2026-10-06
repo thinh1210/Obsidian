@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Shabby
 *adj*
 > /ˈʃæb.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Shabby::Sờn cũ, tồi tàn *(Phát âm: /ˈʃæb.i/)* ![[shabby.mp3]]<br><br>👪 **Word Family:** shabbiness (n)<br><br>💬 **Ví dụ:** He wore a shabby old coat.<br>*(-> Ông ấy mặc một chiếc áo khoác cũ sờn tồi tàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In poor condition through long or hard use or lack of care.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Basketball
 *n.*
 > /ˈbɑː.skɪt.bɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Basketball::Môn bóng rổ thi đấu giữa 2 đội ném bóng vào rổ *(Phát âm: /ˈbɑː.skɪt.bɔːl/)* ![[basketball.mp3]]<br><br>💬 **Ví dụ:** He loves shooting hoops at the local community basketball court after school.<br>*(-> Cậu ấy rất thích ném bóng tại sân bóng rổ cộng đồng gần nhà sau giờ học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game played on a court by two teams of five players who score points by throwing a ball through a raised hoop.

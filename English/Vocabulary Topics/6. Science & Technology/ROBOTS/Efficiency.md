@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Efficiency
 *noun.*
 > /ɪˈfɪʃ.ən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
+
+## 🗂️ Flashcard
+Efficiency::Hiệu suất, hiệu quả *(Phát âm: /ɪˈfɪʃ.ən.si/)* ![[efficiency.mp3]]<br><br>👪 **Word Family:** efficient (adj), efficiently (adv)<br><br>💬 **Ví dụ:** Robots are introduced to improve factory efficiency.<br>*(-> Robot được đưa vào để nâng cao hiệu suất của nhà máy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or quality of being efficient; avoiding waste of time or energy

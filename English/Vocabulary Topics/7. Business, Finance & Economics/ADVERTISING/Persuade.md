@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Persuade
 *verb*
 > /pəˈsweɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Persuade::Thuyết phục *(Phát âm: /pəˈsweɪd/)* ![[persuade.mp3]]<br><br>👪 **Word Family:** persuasion (noun), persuasive (adj), persuasively (adverb)<br><br>💬 **Ví dụ:** I tried to persuade her to stay for dinner.<br>*(-> Tôi cố gắng thuyết phục cô ấy ở lại dùng bữa tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To convince someone to do something through reasoning or argument.

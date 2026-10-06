@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Boil
 *v.*
 > /bɔɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Boil::Luộc, đun sôi *(Phát âm: /bɔɪl/)* ![[boil.mp3]]<br><br>👪 **Word Family:** boiling<br><br>💬 **Ví dụ:** Boil the water first.<br>*(-> Đun sôi nước trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Reach or cause to reach the temperature at which it bubbles and turns to vapor.

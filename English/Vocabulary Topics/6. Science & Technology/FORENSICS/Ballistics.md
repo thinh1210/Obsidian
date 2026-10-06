@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Ballistics
 *noun*
 > /bəˈlɪs.tɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Ballistics::Khoa học đạn đạo – nghiên cứu về đạn và vũ khí đạn dược phục vụ điều tra tội phạm *(Phát âm: /bəˈlɪs.tɪks/)* ![[ballistics.mp3]]<br><br>👪 **Word Family:** ballistic (adj), ballistician (n)<br><br>💬 **Ví dụ:** Ballistics experts compared the bullet markings found at the scene.<br>*(-> Chuyên gia đạn đạo so sánh dấu vết đạn tìm thấy tại hiện trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of projectiles in motion, used to analyse firearms and ammunition evidence.

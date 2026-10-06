@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Harvest
 *n.*
 > /ˈhɑː.vɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Harvest::Vụ thu hoạch, sự thu hoạch *(Phát âm: /ˈhɑː.vɪst/)* ![[harvest.mp3]]<br><br>👪 **Word Family:** harvest (v), harvester (n)<br><br>💬 **Ví dụ:** The farmers are busy preparing for the autumn harvest.<br>*(-> Các nông dân đang bận rộn chuẩn bị cho vụ thu hoạch mùa thu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time of year when crops are cut and gathered, or the crops themselves.

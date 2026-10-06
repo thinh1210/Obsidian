@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Bus
 *Noun*
 > /bʌs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
+
+## 🗂️ Flashcard
+Bus::Xe buýt *(Phát âm: /bʌs/)* ![[bus.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I take the bus to work every day.<br>*(-> Tôi đi làm bằng xe buýt mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large vehicle in which people are driven from one place to another.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Captivate
 *v.*
 > /ˈkæptɪveɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Captivate::Quyến rũ, làm say đắm *(Phát âm: /ˈkæptɪveɪt/)* ![[captivate.mp3]]<br><br>👪 **Word Family:** captive, captivity, captivating, captivation<br><br>💬 **Ví dụ:** She was captivated by the beauty of the painting.<br>*(-> Cô ấy bị quyến rũ bởi vẻ đẹp của bức tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Attract and hold the interest and attention of; charm.

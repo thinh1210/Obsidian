@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Opaque
 *adj*
 > /oʊˈpeɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Opaque::Mờ đục (không trong suốt), khó hiểu *(Phát âm: /oʊˈpeɪk/)* ![[opaque.mp3]]<br><br>👪 **Word Family:** opacity (n)<br><br>💬 **Ví dụ:** The bathroom window is made of opaque glass.<br>*(-> Cửa sổ phòng tắm được làm bằng kính mờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not able to be seen through; not transparent.

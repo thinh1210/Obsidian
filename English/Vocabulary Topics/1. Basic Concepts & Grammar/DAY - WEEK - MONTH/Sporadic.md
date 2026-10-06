@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Sporadic
 *adj*
 > /spəˈrædɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Sporadic::Thỉnh thoảng, rải rác *(Phát âm: /spəˈrædɪk/)* ![[sporadic.mp3]]<br><br>👪 **Word Family:** sporadically (adv)<br><br>💬 **Ví dụ:** There was sporadic gunfire throughout the night.<br>*(-> Có tiếng súng lẻ tẻ suốt đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring at irregular intervals or only in a few places; scattered or isolated.

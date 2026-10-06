@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Stoicism
 *n.*
 > /ˈstəʊ.ɪ.sɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Stoicism::Chủ nghĩa khắc kỷ *(Phát âm: /ˈstəʊ.ɪ.sɪ.zəm/)* ![[stoicism.mp3]]<br><br>👪 **Word Family:** stoic, stoical, stoically<br><br>💬 **Ví dụ:** She showed great stoicism when she lost her job.<br>*(-> Cô ấy đã thể hiện sự khắc kỷ tuyệt vời khi mất việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The endurance of pain or hardship without display of feelings and without complaint.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Surveillance
 *noun*
 > /səˈveɪ.ləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Surveillance::Giám sát / theo dõi *(Phát âm: /səˈveɪ.ləns/)* ![[surveillance.mp3]]<br><br>👪 **Word Family:** surveil (v), surveilled (adj)<br><br>💬 **Ví dụ:** The store had surveillance cameras to deter theft.<br>*(-> Cửa hàng có camera giám sát để ngăn chặn trộm cắp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Close observation, especially of a suspected person or place, often using cameras or monitoring.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Carbon
 *n.*
 > /ˈkɑːbən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Carbon::Khí thải cacbon, từ thông dụng chỉ khí CO2 và các hợp chất gây ấm lên toàn cầu *(Phát âm: /ˈkɑːbən/)* ![[carbon.mp3]]<br><br>👪 **Word Family:** carbonic (adj), carbonaceous (adj)<br><br>💬 **Ví dụ:** Flying less and eating locally grown food are effective ways to reduce your personal carbon impact.<br>*(-> Hạn chế đi máy bay và ăn thực phẩm địa phương là cách hiệu quả để giảm tác động carbon cá nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The chemical element of atomic number 6, widely used as shorthand for carbon dioxide emissions.

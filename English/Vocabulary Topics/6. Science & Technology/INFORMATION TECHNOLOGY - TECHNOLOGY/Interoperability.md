@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Interoperability
 *n*
 > /ˌɪn.təˌrɒp.ər.əˈbɪl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Tech/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Interoperability::Khả năng tương tác (giữa các hệ thống) *(Phát âm: /ˌɪn.təˌrɒp.ər.əˈbɪl.ə.ti/)* ![[interoperability.mp3]]<br><br>👪 **Word Family:** Interoperable (adj)<br><br>💬 **Ví dụ:** I wish all my smart home devices had better interoperability.<br>*(-> Tôi ước tất cả các thiết bị nhà thông minh của mình có khả năng tương tác tốt hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The degree to which two products, programs, etc. can be used together, or the quality of being able to be used together.

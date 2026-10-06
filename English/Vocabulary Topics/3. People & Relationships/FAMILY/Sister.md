@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Sister
 *noun*
 > /ˈsɪs.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Sister::Chị/em gái *(Phát âm: /ˈsɪs.tər/)* ![[sister.mp3]]<br><br>👪 **Word Family:** sisterhood (n)<br><br>💬 **Ví dụ:** She is my sister.<br>*(-> Cô ấy là em gái tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A woman or girl with the same parents.

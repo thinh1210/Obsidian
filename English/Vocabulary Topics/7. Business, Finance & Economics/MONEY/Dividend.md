@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Dividend
 *n.*
 > /ˈdɪv.ɪ.dend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Dividend::Cổ tức, khoản tiền lợi nhuận chia định kỳ cho các cổ đông *(Phát âm: /ˈdɪv.ɪ.dend/)* ![[dividend.mp3]]<br><br>👪 **Word Family:** divide (v), division (n)<br><br>💬 **Ví dụ:** Retirees often favor dividend-paying utility stocks because they generate a steady cash flow.<br>*(-> Người về hưu thường ưa chuộng cổ phiếu ngành tiện ích chia cổ tức vì chúng tạo ra dòng tiền đều đặn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money paid regularly by a company to its shareholders out of its profits.

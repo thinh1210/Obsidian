@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Miserable
 *adj*
 > /ˈmɪzrəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Miserable::Khốn khổ *(Phát âm: /ˈmɪzrəbl/)* ![[miserable.mp3]]<br><br>👪 **Word Family:** misery (n), miserably (adv)<br><br>💬 **Ví dụ:** I've been feeling miserable all day.<br>*(-> Tôi cảm thấy khốn khổ suốt cả ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wretchedly unhappy or uncomfortable.

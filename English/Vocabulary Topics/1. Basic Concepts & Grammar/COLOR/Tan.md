@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Tan
 *adj., n., v.*
 > /tæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Tan::Màu nâu vàng nhạt; làn da rám nắng, nâu khỏe khoắn *(Phát âm: /tæn/)* ![[tan.mp3]]<br><br>👪 **Word Family:** tanned (adj), tanning (n), tanner (n)<br><br>💬 **Ví dụ:** He wore a stylish tan trench coat that matched his leather shoes.<br>*(-> Anh ấy mặc một chiếc áo măng tô màu nâu rám nắng rất hợp tông với đôi giày da.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A light brown color; brown skin caused by exposure to the sun.

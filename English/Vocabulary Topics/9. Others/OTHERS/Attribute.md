@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Attribute
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - characteristic, trait, feature
+
+
+## 🗂️ Flashcard
+Attribute::Thuộc tính, đặc tính *(Phát âm: /ˈæt.rɪ.bjuːt/)* ![[attribute.mp3]]<br><br>👪 **Word Family:** [Noun]: attribute, attribution, [Verb]: attribute, [Adj]: attributable<br><br>💬 **Ví dụ:** Patience is an essential attribute for a good teacher.<br>*(-> Kiên nhẫn là một đặc tính thiết yếu của một giáo viên giỏi.)*

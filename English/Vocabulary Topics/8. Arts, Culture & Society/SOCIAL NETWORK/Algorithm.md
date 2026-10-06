@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Algorithm
 *noun*
 > /ˈælɡərɪðəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Algorithm::Thuật toán *(Phát âm: /ˈælɡərɪðəm/)* ![[algorithm.mp3]]<br><br>👪 **Word Family:** algorithmic (adj), algorithmically (adv)<br><br>💬 **Ví dụ:** The TikTok algorithm seems to know exactly what kind of videos I like.<br>*(-> Thuật toán TikTok dường như biết chính xác loại video tôi thích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of rules followed by computers to determine what content is shown to users

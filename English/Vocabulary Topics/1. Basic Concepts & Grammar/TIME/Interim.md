@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Interim
 *n./adj.*
 > /ˈɪntərɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Interim::Tạm thời, khoảng thời gian chuyển tiếp *(Phát âm: /ˈɪntərɪm/)* ![[interim.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** An interim government was formed.<br>*(-> Một chính phủ lâm thời đã được thành lập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The intervening time; provisional or temporary

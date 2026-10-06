@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Deadline
 *noun*
 > /ˈdedlaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Deadline::Hạn chót *(Phát âm: /ˈdedlaɪn/)* ![[deadline.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I have to finish my homework before the deadline.<br>*(-> Tôi phải làm xong bài tập về nhà trước hạn chót.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latest time or date by which something should be completed.

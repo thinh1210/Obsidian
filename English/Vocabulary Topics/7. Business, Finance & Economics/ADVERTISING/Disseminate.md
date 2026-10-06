@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Disseminate
 *verb*
 > /dɪˈsemɪneɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Disseminate::Lan truyền, phổ biến rộng rãi *(Phát âm: /dɪˈsemɪneɪt/)* ![[disseminate.mp3]]<br><br>👪 **Word Family:** dissemination (noun)<br><br>💬 **Ví dụ:** The organization aims to disseminate health facts to rural areas.<br>*(-> Tổ chức nhằm mục đích phổ biến các dữ kiện sức khỏe đến các vùng nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spread or disperse something (especially information, ideas, or news) widely.

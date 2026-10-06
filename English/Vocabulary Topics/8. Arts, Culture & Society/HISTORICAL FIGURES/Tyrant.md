@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Tyrant
 *n.*
 > /ˈtaɪrənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Tyrant::Kẻ bạo chúa *(Phát âm: /ˈtaɪrənt/)* ![[tyrant.mp3]]<br><br>👪 **Word Family:** tyranny, tyrannical, tyrannize<br><br>💬 **Ví dụ:** The citizens suffered greatly under the rule of the tyrant.<br>*(-> Các công dân đã phải chịu đựng rất nhiều dưới sự cai trị của kẻ bạo chúa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cruel and oppressive ruler

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Post
 *verb*
 > /pəʊst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Post::Đăng tải, đăng bài *(Phát âm: /pəʊst/)* ![[post.mp3]]<br><br>👪 **Word Family:** post (n), poster (n)<br><br>💬 **Ví dụ:** She posted a video of her dog on TikTok.<br>*(-> Cô ấy đã đăng một video về chú chó của mình lên TikTok.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To publish content (text, image, video) on a website or social media platform

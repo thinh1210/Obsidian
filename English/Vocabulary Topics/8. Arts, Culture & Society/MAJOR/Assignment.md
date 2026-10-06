@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Assignment
 *n.*
 > /əˈsaɪn.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Assignment::Bài tập, nhiệm vụ được giao *(Phát âm: /əˈsaɪn.mənt/)* ![[assignment.mp3]]<br><br>👪 **Word Family:** assignment (n), assign (v), assignee (n)<br><br>💬 **Ví dụ:** I need to finish my assignment before midnight.<br>*(-> Tôi cần hoàn thành bài tập trước nửa đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A task or piece of work given to a student to be done as part of a course.

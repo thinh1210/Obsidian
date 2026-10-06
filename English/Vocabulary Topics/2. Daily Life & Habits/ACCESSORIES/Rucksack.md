@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Rucksack
 *noun*
 > /ˈrʌksæk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
+
+## 🗂️ Flashcard
+Rucksack::Ba lô (đi phượt, leo núi) *(Phát âm: /ˈrʌksæk/)* ![[rucksack.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He hoisted the heavy rucksack onto his shoulders.<br>*(-> Anh ấy đeo chiếc ba lô nặng trĩu lên vai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large bag carried on the back and used especially by walkers and climbers.

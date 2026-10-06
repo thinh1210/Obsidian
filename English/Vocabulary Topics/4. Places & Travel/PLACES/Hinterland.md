@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Hinterland
 *n.*
 > /ˈhɪn.t̬ɚ.lænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
+
+## 🗂️ Flashcard
+Hinterland::Vùng nội địa, vùng xa xôi hẻo lánh *(Phát âm: /ˈhɪn.t̬ɚ.lænd/)* ![[hinterland.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** They traveled deep into the hinterland.<br>*(-> Họ đi sâu vào vùng nội địa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The often uncharted areas beyond a coastal district or a river's banks; remote areas.

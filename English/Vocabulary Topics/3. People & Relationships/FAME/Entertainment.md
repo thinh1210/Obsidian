@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Entertainment
 *n.*
 > /ˌentəˈteɪnmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Entertainment::Sự giải trí *(Phát âm: /ˌentəˈteɪnmənt/)* ![[entertainment.mp3]]<br><br>👪 **Word Family:** entertain (v.)<br><br>💬 **Ví dụ:** We watch TV for entertainment.<br>*(-> Chúng tôi xem TV để giải trí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of providing or being provided with amusement or enjoyment.

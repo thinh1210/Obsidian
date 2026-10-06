@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Buy
 *Verb*
 > /baɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Buy::Mua (nhận lấy thứ gì đó bằng cách trả tiền) *(Phát âm: /baɪ/)* ![[buy.mp3]]<br><br>👪 **Word Family:** Noun: buyer (người mua), Verb: buy (mua)<br><br>💬 **Ví dụ:** I need to buy some fresh vegetables for dinner.<br>*(-> Tôi cần mua một ít rau tươi cho bữa tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To obtain something by paying money for it.

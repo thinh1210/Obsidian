@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Locus Standi
 *noun*
 > /ˌloʊkəs ˈstændi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Locus_Standi::Tư cách khởi kiện; quyền đứng ra tố tụng *(Phát âm: /ˌloʊkəs ˈstændi/)* ![[locus_standi.mp3]]<br><br>👪 **Word Family:** standing (n - English equivalent), standing to sue (n)<br><br>💬 **Ví dụ:** The judge questioned whether the plaintiff had locus standi.<br>*(-> Thẩm phán đặt câu hỏi liệu nguyên đơn có tư cách khởi kiện không.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The right or capacity to bring an action or appear in court

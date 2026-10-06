@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Dew
 *n.*
 > /djuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Dew::Sương đọng, những giọt sương mai ngưng tụ trên cây cỏ *(Phát âm: /djuː/)* ![[dew.mp3]]<br><br>👪 **Word Family:** dewy (adj)<br><br>💬 **Ví dụ:** The morning dew glistened like tiny diamonds on the green lawn.<br>*(-> Những giọt sương sớm lấp lánh như hạt kim cương nhỏ trên bãi cỏ xanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tiny drops of water that form on cool surfaces outside during the night.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Court
 *noun*
 > /kɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Court::Tòa án *(Phát âm: /kɔːt/)* ![[court.mp3]]<br><br>👪 **Word Family:** Court (n/v), Courtroom (n), Courtship (n)<br><br>💬 **Ví dụ:** They had a big argument and decided to settle it in court.<br>*(-> Họ đã cãi nhau rất lớn và quyết định giải quyết việc đó tại tòa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where trials and other legal cases are decided by a judge and jury.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Appearance
 *n.*
 > /əˈpɪərəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Appearance::Ngoại hình, sự xuất hiện *(Phát âm: /əˈpɪərəns/)* ![[appearance.mp3]]<br><br>👪 **Word Family:** appear (v.)<br><br>💬 **Ví dụ:** Her appearance was striking.<br>*(-> Ngoại hình của cô ấy rất nổi bật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The way that someone or something looks.

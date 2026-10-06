@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Vegetarian
 *n./adj.*
 > /ˌvedʒ.ɪˈteə.ri.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Vegetarian::Người ăn chay *(Phát âm: /ˌvedʒ.ɪˈteə.ri.ən/)* ![[vegetarian.mp3]]<br><br>👪 **Word Family:** vegetarianism<br><br>💬 **Ví dụ:** Are you a vegetarian?<br>*(-> Bạn có phải người ăn chay không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who does not eat meat.

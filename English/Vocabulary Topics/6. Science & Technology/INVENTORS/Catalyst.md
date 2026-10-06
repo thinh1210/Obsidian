@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # catalyst
 *n.*
 > /ˈkæt.əl.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Catalyst::Chất xúc tác, tác nhân thúc đẩy *(Phát âm: /ˈkæt.əl.ɪst/)* ![[catalyst.mp3]]<br><br>👪 **Word Family:** catalytic (adj), catalyze (v)<br><br>💬 **Ví dụ:** The protest was the catalyst for the reform.<br>*(-> Cuộc biểu tình là chất xúc tác cho cải cách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event or person that causes change or action to happen quickly

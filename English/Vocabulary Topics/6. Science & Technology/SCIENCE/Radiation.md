@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Radiation
 *noun*
 > /ˌreɪ.diˈeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Radiation::Bức xạ – năng lượng phát ra dưới dạng sóng hoặc hạt, đặc biệt là sóng điện từ hoặc hạt hạt nhân *(Phát âm: /ˌreɪ.diˈeɪ.ʃən/)* ![[radiation.mp3]]<br><br>👪 **Word Family:** radiate (v), radioactive (adj), radioactivity (n), radiator (n)<br><br>💬 **Ví dụ:** Sunscreen protects your skin from harmful UV radiation.<br>*(-> Kem chống nắng bảo vệ da bạn khỏi bức xạ UV có hại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Energy emitted in the form of waves or particles, especially electromagnetic waves or nuclear particles.

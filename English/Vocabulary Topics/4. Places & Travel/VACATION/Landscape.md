@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Landscape
 *n.*
 > /ˈlændskeɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Landscape::Bức tranh tổng thể của thiên nhiên đất trời gồm đồi núi, sông hồ, cây cối *(Phát âm: /ˈlændskeɪp/)* ![[landscape.mp3]]<br><br>👪 **Word Family:** landscaping (n), landscaper (n)<br><br>💬 **Ví dụ:** The dramatic mountain landscape left all the tourists in utter awe.<br>*(-> Cảnh quan núi non hùng vĩ khiến toàn bộ du khách phải trầm trồ thán phục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.

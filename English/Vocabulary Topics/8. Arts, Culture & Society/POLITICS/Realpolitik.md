@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Realpolitik
 *n*
 > /reɪˈɑːl.pɒl.ɪ.tiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Realpolitik::Chính trị thực dụng / chính trị của thực tế *(Phát âm: /reɪˈɑːl.pɒl.ɪ.tiːk/)* ![[realpolitik.mp3]]<br><br>👪 **Word Family:** (none standard in English morphology)<br><br>💬 **Ví dụ:** His foreign policy was pure realpolitik — allies today, adversaries tomorrow.<br>*(-> Chính sách đối ngoại của ông ta là realpolitik thuần túy — đồng minh hôm nay, kẻ thù ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of politics based on practical considerations rather than moral ideals.

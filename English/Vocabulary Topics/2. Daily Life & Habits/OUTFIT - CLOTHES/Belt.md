@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Belt
 *noun*
 > /belt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Belt::Thắt lưng, dây nịt *(Phát âm: /belt/)* ![[belt.mp3]]<br><br>👪 **Word Family:** unbelt (v)<br><br>💬 **Ví dụ:** I need a belt for these pants.<br>*(-> Tôi cần thắt lưng cho cái quần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strip of leather or material worn around the waist.

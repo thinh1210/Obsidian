@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Meditation
 *n*
 > /ˌmedɪˈteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Meditation::Thiền *(Phát âm: /ˌmedɪˈteɪʃn/)* ![[meditation.mp3]]<br><br>👪 **Word Family:** Meditate (v), Meditative (adj)<br><br>💬 **Ví dụ:** Meditation helps me clear my mind.<br>*(-> Thiền giúp tôi thanh lọc tâm trí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of thinking deeply in silence for relaxation.

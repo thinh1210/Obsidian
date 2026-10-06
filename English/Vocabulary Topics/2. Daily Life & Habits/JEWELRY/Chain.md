@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Chain
 *noun*
 > /tʃeɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Chain::Dây xích, chuỗi *(Phát âm: /tʃeɪn/)* ![[chain.mp3]]<br><br>👪 **Word Family:** Chained<br><br>💬 **Ví dụ:** He wears a thick chain.<br>*(-> Anh ấy đeo một sợi dây chuyền dày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of linked metal rings.

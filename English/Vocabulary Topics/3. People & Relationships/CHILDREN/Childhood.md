@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Childhood
 *noun*
 > /ˈtʃaɪld.hʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Childhood::Tuổi thơ *(Phát âm: /ˈtʃaɪld.hʊd/)* ![[childhood.mp3]]<br><br>👪 **Word Family:** Childish (adj)<br><br>💬 **Ví dụ:** I had a happy childhood.<br>*(-> Tôi đã có một tuổi thơ hạnh phúc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being a child.

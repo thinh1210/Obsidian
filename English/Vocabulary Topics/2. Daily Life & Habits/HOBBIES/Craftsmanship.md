@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Craftsmanship
 *n.*
 > /ˈkrɑːfts.mən.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Craftsmanship::Sự khéo léo, tay nghề thủ công, tài nghệ *(Phát âm: /ˈkrɑːfts.mən.ʃɪp/)* ![[craftsmanship.mp3]]<br><br>👪 **Word Family:** Craftsman (n.), Crafty (adj.)<br><br>💬 **Ví dụ:** The craftsmanship on this wooden table is truly impressive.<br>*(-> Tay nghề chạm khắc trên chiếc bàn gỗ này thực sự ấn tượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Skill at making things, or the beautiful quality of something that has been made using a lot of skill.

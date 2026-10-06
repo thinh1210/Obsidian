@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Boot
 *noun*
 > /buːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Boot::Ủng, bốt *(Phát âm: /buːt/)* ![[boot.mp3]]<br><br>👪 **Word Family:** booted (adj)<br><br>💬 **Ví dụ:** I need warm boots for the snow.<br>*(-> Tôi cần đôi bốt ấm cho trời tuyết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of shoe that covers the whole foot and the lower part of the leg.

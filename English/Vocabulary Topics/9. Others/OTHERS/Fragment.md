@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Fragment
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - piece, bit, shred
+
+
+## 🗂️ Flashcard
+Fragment::Mảnh vỡ, mảnh nhỏ, khúc, đoạn *(Phát âm: /ˈfræɡ.mənt/)* ![[fragment.mp3]]<br><br>👪 **Word Family:** [Noun]: fragment, fragmentation, [Verb]: fragment, [Adj]: fragmentary<br><br>💬 **Ví dụ:** Police found fragments of glass on the road.<br>*(-> Cảnh sát tìm thấy những mảnh kính vỡ trên đường.)*

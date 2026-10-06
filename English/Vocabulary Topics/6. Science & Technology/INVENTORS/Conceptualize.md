@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # conceptualize
 *v.*
 > /kənˈsep.tʃu.ə.laɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Conceptualize::Khái niệm hóa, hình thành ý tưởng *(Phát âm: /kənˈsep.tʃu.ə.laɪz/)* ![[conceptualize.mp3]]<br><br>👪 **Word Family:** concept (n), conceptual (adj), conceptualization (n)<br><br>💬 **Ví dụ:** It is difficult to conceptualize how large the universe is.<br>*(-> Rất khó để hình dung/khái niệm hóa vũ trụ lớn đến mức nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To form an idea or concept in your mind

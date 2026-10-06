@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Covenant
 *n.*
 > /ˈkʌvənənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Thủ tục pháp lý, Chuyển quyền & Khế ước đất đai
+
+## 🗂️ Flashcard
+Covenant::Điều khoản ràng buộc, cam kết pháp lý *(Phát âm: /ˈkʌvənənt/)* ![[covenant.mp3]]<br><br>👪 **Word Family:** covenant (v)<br><br>💬 **Ví dụ:** The neighborhood has a restrictive covenant that prevents homeowners from painting their houses in neon colors.<br>*(-> Khu phố có một điều khoản ràng buộc hạn chế ngăn cản các chủ nhà sơn nhà của họ bằng màu neon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An agreement, contract, or written promise between two or more parties, especially for the performance of some action.

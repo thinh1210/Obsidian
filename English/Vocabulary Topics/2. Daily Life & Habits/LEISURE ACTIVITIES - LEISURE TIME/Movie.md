@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Movie
 *n*
 > /ˈmuːvi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Movie::Phim *(Phát âm: /ˈmuːvi/)* ![[movie.mp3]]<br><br>👪 **Word Family:** Movies (n)<br><br>💬 **Ví dụ:** Let's watch a movie tonight.<br>*(-> Tối nay xem phim nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A story or event recorded by a camera as a set of moving images.

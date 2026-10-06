@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Obtrusive
 *adjective*
 > /əbˈtruːsɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
+
+## 🗂️ Flashcard
+Obtrusive::Gây khó chịu, đập vào mắt, dễ nhận thấy (theo cách không mong muốn) *(Phát âm: /əbˈtruːsɪv/)* ![[obtrusive.mp3]]<br><br>👪 **Word Family:** obtrude (verb), obtrusion (noun), obtrusively (adverb), unobtrusive (adj)<br><br>💬 **Ví dụ:** The security cameras were small and not obtrusive.<br>*(-> Các camera an ninh nhỏ và không gây chú ý/chướng mắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Noticeable or prominent in an unwelcome or intrusive way.

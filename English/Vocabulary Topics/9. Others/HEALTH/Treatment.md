@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Treatment
 *n*
 > /ˈtriːtmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Treatment::Sự điều trị, phương pháp điều trị *(Phát âm: /ˈtriːtmənt/)* ![[treatment.mp3]]<br><br>👪 **Word Family:** treat (v), treatable (adj)<br><br>💬 **Ví dụ:** She is currently undergoing treatment for a kidney infection.<br>*(-> Cô ấy hiện đang trải qua quá trình điều trị nhiễm trùng thận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Medical care given to a patient for an illness or injury.

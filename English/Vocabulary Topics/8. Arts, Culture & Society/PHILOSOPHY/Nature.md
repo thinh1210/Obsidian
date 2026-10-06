@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Nature
 *n.*
 > /ˈneɪ.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Nature::Bản chất, tự nhiên *(Phát âm: /ˈneɪ.tʃər/)* ![[nature.mp3]]<br><br>👪 **Word Family:** natural, naturally, naturalism<br><br>💬 **Ví dụ:** It's just his nature to be helpful and kind.<br>*(-> Bản tính của anh ấy là luôn giúp đỡ và tử tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic or inherent features, character, or qualities of something.

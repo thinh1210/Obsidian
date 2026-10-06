@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Downpour
 *noun*
 > /ˈdaʊnpɔː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Downpour::Trận mưa rào đổ xuống, mưa như trút nước *(Phát âm: /ˈdaʊnpɔː(r)/)* ![[downpour.mp3]]<br><br>👪 **Word Family:** Pour (verb)<br><br>💬 **Ví dụ:** We had to seek shelter to escape the sudden downpour.<br>*(-> Chúng tôi phải tìm chỗ trú ẩn để tránh trận mưa rào đột ngột.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A heavy fall of rain

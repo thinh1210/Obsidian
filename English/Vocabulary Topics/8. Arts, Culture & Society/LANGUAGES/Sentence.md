@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Sentence
 *n.*
 > /ˈsentəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Sentence::Câu *(Phát âm: /ˈsentəns/)* ![[sentence.mp3]]<br><br>👪 **Word Family:** sentential<br><br>💬 **Ví dụ:** Write a sentence using this word.<br>*(-> Hãy viết một câu sử dụng từ này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of words that is complete in itself, typically containing a subject and predicate

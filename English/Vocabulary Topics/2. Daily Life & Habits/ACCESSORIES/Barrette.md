@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Barrette
 *noun*
 > /bəˈret/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Barrette::Kẹp tóc lớn *(Phát âm: /bəˈret/)* ![[barrette.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She swept her hair back with a tortoiseshell barrette.<br>*(-> Cô ấy vén tóc ra sau bằng một chiếc kẹp tóc đồi mồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A decorative clip for holding a woman's hair in place.

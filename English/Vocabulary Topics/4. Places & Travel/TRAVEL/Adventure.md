@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Adventure
 *n.*
 > /ədˈventʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Adventure::Hành trình đầy hào hứng, thách thức và tràn ngập những điều bất ngờ thú vị *(Phát âm: /ədˈventʃər/)* ![[adventure.mp3]]<br><br>👪 **Word Family:** adventurous (adj), adventurer (n)<br><br>💬 **Ví dụ:** Trekking through the dense rainforest was our greatest adventure yet.<br>*(-> Băng rừng nhiệt đới rậm rạp là chuyến phiêu lưu vĩ đại nhất của chúng tôi từ trước tới nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An unusual and exciting, typically hazardous, experience or activity.

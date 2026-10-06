@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Media
 *n.*
 > /ˈmiː.di.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+22 - Media::Truyền thông *(Phát âm: /ˈmiː.di.ə/)* ![[media.mp3]]<br><br>👪 **Word Family:** Mediate (v.)<br><br>💬 **Ví dụ:** On the media.<br>*(-> Trên các phương tiện truyền thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main means of mass communication.

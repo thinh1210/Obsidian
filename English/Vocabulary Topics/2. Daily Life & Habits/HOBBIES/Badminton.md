@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Badminton
 *n.*
 > /ˈbæd.mɪn.tən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Badminton::Môn cầu lông thi đấu bằng vợt và quả cầu lông *(Phát âm: /ˈbæd.mɪn.tən/)* ![[badminton.mp3]]<br><br>💬 **Ví dụ:** Playing badminton on weekend mornings is a fun hobby that keeps the whole family active.<br>*(-> Chơi cầu lông vào sáng cuối tuần là một sở thích vui vẻ giúp cả nhà vận động năng động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game with rackets in which a shuttlecock is played back and forth across a high net.

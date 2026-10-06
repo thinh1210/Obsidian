@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Save
 *verb.*
 > /seɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Save::Tiết kiệm *(Phát âm: /seɪv/)* ![[save.mp3]]<br><br>👪 **Word Family:** savings (noun), saver (noun)<br><br>💬 **Ví dụ:** I try to save at least twenty percent of my salary every month.<br>*(-> Tôi cố gắng tiết kiệm ít nhất hai mươi phần trăm lương của mình mỗi tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To keep money instead of spending it.

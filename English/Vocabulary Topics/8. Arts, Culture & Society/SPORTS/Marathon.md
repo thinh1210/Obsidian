@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Marathon
 *n.*
 > /ˈmær.ə.θən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Marathon::Cuộc chạy đua đường trường cự ly 42,195 km đòi hỏi sức bền phi thường *(Phát âm: /ˈmær.ə.θən/)* ![[marathon.mp3]]<br><br>👪 **Word Family:** marathoner (n)<br><br>💬 **Ví dụ:** He trained for six grueling months before finally completing the Boston Marathon.<br>*(-> Anh ấy đã tập luyện gian khổ trong sáu tháng trước khi hoàn thành cuộc đua marathon Boston.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long-distance running race of strictly 42.195 kilometers (26 miles 385 yards), or any prolonged, arduous contest.

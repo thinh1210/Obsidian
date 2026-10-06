@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Peaceful
 *adj.*
 > /ˈpiːs.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
+
+## 🗂️ Flashcard
+Peaceful::Yên bình, thanh thản *(Phát âm: /ˈpiːs.fəl/)* ![[peaceful.mp3]]<br><br>👪 **Word Family:** Peace (n), Peacefully (adv)<br><br>💬 **Ví dụ:** It is so peaceful here.<br>*(-> Ở đây thật yên bình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from disturbance; tranquil.

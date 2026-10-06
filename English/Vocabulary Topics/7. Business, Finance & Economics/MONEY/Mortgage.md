@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Mortgage
 *noun*
 > /ˈmɔː.ɡɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Mortgage::Khoản thế chấp *(Phát âm: /ˈmɔː.ɡɪdʒ/)* ![[mortgage.mp3]]<br><br>👪 **Word Family:** mortgager (n), mortgagee (n)<br><br>💬 **Ví dụ:** It will take us thirty years to pay off the mortgage.<br>*(-> Chúng ta sẽ mất ba mươi năm để trả sạch khoản thế chấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legal agreement by which a bank lends money at interest in exchange for taking title of the debtor's property

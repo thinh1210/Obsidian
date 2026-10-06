@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Predictive
 *adj*
 > /prɪˈdɪk.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Tech/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Predictive::Có tính dự đoán *(Phát âm: /prɪˈdɪk.tɪv/)* ![[predictive.mp3]]<br><br>👪 **Word Family:** Predict (v), Prediction (n)<br><br>💬 **Ví dụ:** I use predictive text to type faster on my phone.<br>*(-> Tôi sử dụng văn bản dự đoán để gõ nhanh hơn trên điện thoại của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the ability to predict what will happen in the future.

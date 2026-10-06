@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Climax
 *n.*
 > /ˈklaɪmæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Climax::Cao trào *(Phát âm: /ˈklaɪmæks/)* ![[climax.mp3]]<br><br>👪 **Word Family:** climactic<br><br>💬 **Ví dụ:** The film builds up slowly to a dramatic climax.<br>*(-> Bộ phim tiến triển chậm rãi hướng tới một cao trào kịch tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The most intense, exciting, or important point of something; a culmination

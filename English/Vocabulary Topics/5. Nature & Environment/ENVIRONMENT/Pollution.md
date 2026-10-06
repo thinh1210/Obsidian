@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Pollution
 *n.*
 > /pəˈluːʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Pollution::Sự ô nhiễm *(Phát âm: /pəˈluːʃn/)* ![[pollution.mp3]]<br><br>👪 **Word Family:** pollute (v), pollutant (n), polluted (adj)<br><br>💬 **Ví dụ:** People suffer from health issues caused by air pollution.<br>*(-> Người dân đang phải chịu các vấn đề sức khỏe do ô nhiễm không khí gây ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.

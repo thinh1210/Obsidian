@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # corrupt
 *adjective*
 > /kəˈrʌpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+corrupt::Tham nhũng, đồi bại *(Phát âm: /kəˈrʌpt/)* ![[corrupt.mp3]]<br><br>👪 **Word Family:** corruption (n), corruptible (adj)<br><br>💬 **Ví dụ:** The local police force was accused of being corrupt.<br>*(-> Lực lượng cảnh sát địa phương bị buộc tội tham nhũng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing a willingness to act dishonestly in return for money or personal gain.

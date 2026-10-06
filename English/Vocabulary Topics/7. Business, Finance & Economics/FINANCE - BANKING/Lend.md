@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Lend
 *verb.*
 > /lend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Lend::Cho vay, cho mượn *(Phát âm: /lend/)* ![[lend.mp3]]<br><br>👪 **Word Family:** lender (noun), lending (noun)<br><br>💬 **Ví dụ:** The bank agreed to lend him the money to buy a new house.<br>*(-> Thế chấp ngôi nhà cũ, ngân hàng đồng ý cho anh ta vay tiền để mua nhà mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give something to someone for a period of time, expecting it to be given back.

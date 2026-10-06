@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Steadfast
 *adj.*
 > /ˈsted.fɑːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Steadfast::Kiên định, vững vàng, son sắt trước sau như một, không lay chuyển trước phong ba bão táp *(Phát âm: /ˈsted.fɑːst/)* ![[steadfast.mp3]]<br><br>👪 **Word Family:** steadfastness (n), steadfastly (adv)<br><br>💬 **Ví dụ:** Her steadfast belief in his innocence sustained him throughout the grueling trial.<br>*(-> Niềm tin kiên định của cô vào sự trong sạch của anh đã nâng đỡ anh suốt phiên tòa mệt mỏi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Staying the same for a long time and not changing quickly or unexpectedly; firmly loyal and constant.

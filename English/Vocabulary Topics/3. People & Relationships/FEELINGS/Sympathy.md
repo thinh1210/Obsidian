@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Sympathy
 *n.*
 > /ˈsɪm.pə.θi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Sympathy::Sự thông cảm, lòng trắc ẩn và chia sẻ nỗi đau với người đang gặp bất hạnh *(Phát âm: /ˈsɪm.pə.θi/)* ![[sympathy.mp3]]<br><br>👪 **Word Family:** sympathetic (adj), sympathize (v), sympathetically (adv)<br><br>💬 **Ví dụ:** I wrote a handwritten card to express my deepest sympathy upon hearing the sad news.<br>*(-> Tôi đã viết một tấm thiệp tay để bày tỏ sự cảm thông sâu sắc nhất khi nghe tin buồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expression of understanding and care for someone who is suffering or has problems.

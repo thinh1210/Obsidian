@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Extortionate
 *adj*
 > /ɪkˈstɔː.ʃən.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Extortionate::Cắt cổ *(Phát âm: /ɪkˈstɔː.ʃən.ət/)* ![[extortionate.mp3]]<br><br>👪 **Word Family:** Extortion<br><br>💬 **Ví dụ:** The cab fare was extortionate.<br>*(-> Giá taxi cắt cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely expensive

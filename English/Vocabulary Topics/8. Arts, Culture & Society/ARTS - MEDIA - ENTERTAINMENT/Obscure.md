@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Obscure
 *adj.*
 > /əbˈskjʊə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Obscure::Mơ hồ, ít người biết đến *(Phát âm: /əbˈskjʊə(r)/)* ![[obscure.mp3]]<br><br>👪 **Word Family:** obscurity, obscurely, obscuration<br><br>💬 **Ví dụ:** He plays in an obscure rock band from the 90s.<br>*(-> Anh ấy chơi trong một ban nhạc rock ít người biết đến từ những năm 90.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Not discovered or known about; uncertain; not clearly expressed or easily understood.

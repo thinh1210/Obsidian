@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Subpoena
 *noun/verb*
 > /səˈpiː.nə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Subpoena::Trát hầu tòa, lệnh hầu tòa (buộc phải ra tòa làm chứng hoặc cung cấp chứng cứ) *(Phát âm: /səˈpiː.nə/)* ![[subpoena.mp3]]<br><br>👪 **Word Family:** Subpoena (n/v)<br><br>💬 **Ví dụ:** The committee decided to issue a subpoena to the company's chief executive.<br>*(-> Ủy ban quyết định ban hành trát hầu tòa đối với giám đốc điều hành của công ty.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A writ ordering a person to attend a court; summon (someone) with a subpoena.

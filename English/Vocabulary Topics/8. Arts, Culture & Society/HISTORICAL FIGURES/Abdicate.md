@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Abdicate
 *v.*
 > /ˈæbdɪkeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Abdicate::Thoái vị *(Phát âm: /ˈæbdɪkeɪt/)* ![[abdicate.mp3]]<br><br>👪 **Word Family:** abdication<br><br>💬 **Ví dụ:** The king decided to abdicate due to poor health.<br>*(-> Nhà vua quyết định thoái vị vì sức khỏe kém.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To renounce one's throne

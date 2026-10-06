@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Irony
 *noun*
 > /ˈaɪ.rə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Irony::Sự mỉa mai, nghịch lý, sự trớ trêu *(Phát âm: /ˈaɪ.rə.ni/)* ![[irony.mp3]]<br><br>👪 **Word Family:** ironic (adj), ironically (adv)<br><br>💬 **Ví dụ:** The irony of the situation was that the police station was robbed.<br>*(-> Sự trớ trêu của tình huống đó là đồn cảnh sát đã bị cướp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expression of meaning using language that signifies the opposite, typically for humor.

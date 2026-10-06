@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Rainy
 *adj.*
 > /ˈreɪni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Rainy::Có mưa, nhiều mưa *(Phát âm: /ˈreɪni/)* ![[rainy.mp3]]<br><br>👪 **Word Family:** Rain (noun/verb), raininess (noun)<br><br>💬 **Ví dụ:** I like staying at home on rainy days.<br>*(-> Tôi thích ở nhà vào những ngày mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot of rain

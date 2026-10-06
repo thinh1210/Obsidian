@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Configuration
 *n.*
 > /kənˌfɪɡjəˈreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Configuration::Cấu hình, cách sắp xếp *(Phát âm: /kənˌfɪɡjəˈreɪʃn/)* ![[configuration.mp3]]<br><br>👪 **Word Family:** Configure (v.), Configurable (adj.)<br><br>💬 **Ví dụ:** I need to change the network configuration on my phone.<br>*(-> Tôi cần thay đổi cấu hình mạng trên điện thoại của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement of elements in a particular form, figure, or combination; hardware/software settings.

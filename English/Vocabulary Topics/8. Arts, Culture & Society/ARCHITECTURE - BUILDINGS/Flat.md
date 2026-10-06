@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Flat
 *n.*
 > /flæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Flat::Căn hộ *(Phát âm: /flæt/)* ![[flat.mp3]]<br><br>👪 **Word Family:** flatmate<br><br>💬 **Ví dụ:** She lives in a small flat in the city center.<br>*(-> Cô ấy sống trong một căn hộ nhỏ ở trung tâm thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of rooms for living in, usually on one floor of a large building

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Dining room
 *n.*
 > /ˈdaɪnɪŋ ruːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Dining room::Căn phòng chuyên dùng để dùng bữa ăn gia đình *(Phát âm: /ˈdaɪnɪŋ ruːm/)* ![[dining_room.mp3]]<br><br>👪 **Word Family:** dine (v), diner (n)<br><br>💬 **Ví dụ:** Dinner is served in the dining room at 7 PM sharp.<br>*(-> Bữa tối được dọn tại phòng ăn vào đúng 7 giờ tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room in a house in which meals are eaten.

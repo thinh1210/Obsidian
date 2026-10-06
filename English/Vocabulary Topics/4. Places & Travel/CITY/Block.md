@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Block
 *n.*
 > /blɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Block::Khu nhà nằm lọt giữa bốn con đường bàn cờ trong thành phố *(Phát âm: /blɒk/)* ![[block.mp3]]<br><br>👪 **Word Family:** blockade (n/v), blockage (n)<br><br>💬 **Ví dụ:** Her apartment is located only three blocks away from the metro.<br>*(-> Căn hộ của cô ấy chỉ cách ga tàu điện ngầm ba dãy nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land surrounded by four streets in a city or town.

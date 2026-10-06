@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Compulsory
 *adjective*
 > /kəmˈpʌlsəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Compulsory::Bắt buộc *(Phát âm: /kəmˈpʌlsəri/)* ![[compulsory.mp3]]<br><br>👪 **Word Family:** compulsion (n), compel (v), compulsive (adj)<br><br>💬 **Ví dụ:** Math and English are compulsory subjects in our school.<br>*(-> Toán và tiếng Anh là những môn học bắt buộc ở trường chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Required by law or a rule; obligatory.

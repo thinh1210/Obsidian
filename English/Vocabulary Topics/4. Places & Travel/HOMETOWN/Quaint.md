@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Quaint
 *adj.*
 > /kweɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Quaint::Cổ kính, độc đáo *(Phát âm: /kweɪnt/)* ![[quaint.mp3]]<br><br>👪 **Word Family:** Quaintness (n.)<br><br>💬 **Ví dụ:** We stayed in a quaint little cottage.<br>*(-> Chúng tôi ở trong một ngôi nhà nhỏ cổ kính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Attractively unusual or old-fashioned.

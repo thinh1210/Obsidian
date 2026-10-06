@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Concert
 *n.*
 > /ˈkɒnsət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Concert::Buổi hòa nhạc, concert *(Phát âm: /ˈkɒnsət/)* ![[concert.mp3]]<br><br>👪 **Word Family:** concertmaster, concerted<br><br>💬 **Ví dụ:** We are going to an outdoor concert this weekend.<br>*(-> Chúng tôi sẽ đi xem một buổi hòa nhạc ngoài trời vào cuối tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A musical performance given in public, typically by several performers or of several separate compositions.

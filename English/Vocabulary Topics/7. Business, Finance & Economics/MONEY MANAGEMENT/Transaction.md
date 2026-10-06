@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Transaction
 *Noun*
 > /trænˈzækʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Transaction::Giao dịch (một trường hợp mua hoặc bán cái gì đó; một thỏa thuận kinh doanh) *(Phát âm: /trænˈzækʃn/)* ![[transaction.mp3]]<br><br>👪 **Word Family:** Verb: transact (giao dịch)<br><br>💬 **Ví dụ:** I received an email confirmation for our online flight ticket transaction.<br>*(-> Tôi đã nhận được email xác nhận cho giao dịch đặt vé máy bay trực tuyến của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instance of buying or selling something; a business deal.

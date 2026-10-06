@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Metaphysics
 *n.*
 > /ˌmet.əˈfɪz.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Metaphysics::Siêu hình học *(Phát âm: /ˌmet.əˈfɪz.ɪks/)* ![[metaphysics.mp3]]<br><br>👪 **Word Family:** metaphysical, metaphysician<br><br>💬 **Ví dụ:** Discussions about life after death often cross into metaphysics.<br>*(-> Những cuộc thảo luận về cuộc sống sau cái chết thường chạm đến siêu hình học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of philosophy dealing with abstract concepts like being, knowing, cause, identity, time, and space.

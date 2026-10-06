@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Native
 *Adjective*
 > /ˈneɪtɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Native::Bản xứ, bản địa *(Phát âm: /ˈneɪtɪv/)* ![[native.mp3]]<br><br>👪 **Word Family:** Natively<br><br>💬 **Ví dụ:** Are you a native English speaker?<br>*(-> Bạn có phải là người nói tiếng Anh bản xứ không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Associated with the place or circumstances of a person's birth.

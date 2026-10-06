@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # compass
 *noun*
 > /ˈkʌm.pəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Compass::la bàn, com-pa *(Phát âm: /ˈkʌm.pəs/)* ![[compass.mp3]]<br><br>👪 **Word Family:** Noun: compass (la bàn, com-pa), Verb: compass (bao quanh, đạt được)<br><br>💬 **Ví dụ:** A map and a compass are essential for hiking in the mountains.<br>*(-> Bản đồ và la bàn là điều thiết yếu khi đi bộ đường dài trên núi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an instrument containing a magnetized pointer which shows the direction of magnetic north.

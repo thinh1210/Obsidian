@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Park
 *n.*
 > /pɑːrk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Park::Công viên *(Phát âm: /pɑːrk/)* ![[park.mp3]]<br><br>👪 **Word Family:** parking (n)<br><br>💬 **Ví dụ:** We play in the park.<br>*(-> Chúng tôi chơi trong công viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large public green area in a town.

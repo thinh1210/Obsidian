@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Breeze
 *n.*
 > /briːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Breeze::Làn gió thoảng nhẹ nhàng, mang lại cảm giác sảng khoái mát lành *(Phát âm: /briːz/)* ![[breeze.mp3]]<br><br>👪 **Word Family:** breezy (adj), breezily (adv)<br><br>💬 **Ví dụ:** A refreshing ocean breeze rustled through the open bedroom shutters.<br>*(-> Một làn gió biển tươi mát thổi xào xạc qua các cánh cửa sổ phòng ngủ đang mở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A gentle, pleasant wind that brings relief and freshness.

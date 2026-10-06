@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Countryside
 *n.*
 > /ˈkʌn.tri.saɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
+
+## 🗂️ Flashcard
+Countryside::Nông thôn *(Phát âm: /ˈkʌn.tri.saɪd/)* ![[countryside.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I love the fresh air in the countryside.<br>*(-> Tôi thích không khí trong lành ở vùng nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The land and scenery of a rural area.

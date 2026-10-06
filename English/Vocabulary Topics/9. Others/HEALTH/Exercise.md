@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Exercise
 *v, n*
 > /ˈeksəsaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Exercise::Tập thể dục, sự rèn luyện thân thể *(Phát âm: /ˈeksəsaɪz/)* ![[exercise.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Regular exercise helps to reduce stress and improve sleep quality.<br>*(-> Tập thể dục đều đặn giúp giảm căng thẳng và cải thiện chất lượng giấc ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Activity requiring physical effort, carried out to sustain or improve health and fitness.

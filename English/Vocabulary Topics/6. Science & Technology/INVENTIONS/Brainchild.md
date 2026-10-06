@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Brainchild
 *Noun*
 > /ˈbreɪn.tʃaɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Brainchild::Đứa con tinh thần, sản phẩm trí tuệ *(Phát âm: /ˈbreɪn.tʃaɪld/)* ![[brainchild.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The community garden was the brainchild of a local high school student.<br>*(-> Khu vườn cộng đồng là sản phẩm trí tuệ của một học sinh trung học địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An original idea, plan, or invention of one person.

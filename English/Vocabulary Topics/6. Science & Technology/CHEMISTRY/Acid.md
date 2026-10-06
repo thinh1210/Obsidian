@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Acid
 *noun*
 > /ˈæs.ɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Acid::Axit *(Phát âm: /ˈæs.ɪd/)* ![[acid.mp3]]<br><br>👪 **Word Family:** acidic (adj), acidity (n)<br><br>💬 **Ví dụ:** Lemons contain citric acid, which gives them a sour taste.<br>*(-> Chanh chứa axit citric, giúp chúng có vị chua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical substance, usually a liquid, which contains hydrogen and has a pH of less than 7, often tasting sour and capable of neutralizing alkalis.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Reliquary
 *noun*
 > /ˈrelɪkwəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Reliquary::Hộp đựng xá lị, hộp đựng thánh tích *(Phát âm: /ˈrelɪkwəri/)* ![[reliquary.mp3]]<br><br>👪 **Word Family:** relic (noun)<br><br>💬 **Ví dụ:** The medieval church houses a magnificent golden reliquary.<br>*(-> Nhà thờ thời trung cổ chứa một hộp đựng thánh tích bằng vàng tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A container for holy relics

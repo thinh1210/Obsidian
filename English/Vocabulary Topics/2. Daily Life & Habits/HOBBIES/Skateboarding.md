@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Skateboarding
 *n.*
 > /ˈskeɪtˌbɔː.dɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Skateboarding::Môn thể thao lướt đi và biểu diễn kỹ thuật trên ván trượt có bánh xe *(Phát âm: /ˈskeɪtˌbɔː.dɪŋ/)* ![[skateboarding.mp3]]<br><br>👪 **Word Family:** skateboard (n/v), skateboarder (n)<br><br>💬 **Ví dụ:** Teenagers practice new skateboarding tricks at the waterfront concrete park every evening.<br>*(-> Thanh thiếu niên luyện tập các kỹ thuật trượt ván mới tại công viên bê tông ven sông vào mỗi buổi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or activity of riding on a skateboard.

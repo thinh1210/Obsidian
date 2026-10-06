@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Museum
 *noun*
 > /mjuˈziːəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Museum::Bảo tàng *(Phát âm: /mjuˈziːəm/)* ![[museum.mp3]]<br><br>👪 **Word Family:** muse (noun)<br><br>💬 **Ví dụ:** We spent the afternoon at the science museum.<br>*(-> Chúng tôi đã dành cả buổi chiều ở bảo tàng khoa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Prokaryote
 *noun*
 > /prəʊˈkær.i.əʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Prokaryote::Sinh vật nhân sơ *(Phát âm: /prəʊˈkær.i.əʊt/)* ![[prokaryote.mp3]]<br><br>👪 **Word Family:** prokaryotic<br><br>💬 **Ví dụ:** Bacteria are the most common examples of prokaryotes.<br>*(-> Vi khuẩn là những ví dụ phổ biến nhất về sinh vật nhân sơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A microscopic single-celled organism which has neither a distinct nucleus with a membrane nor other specialized organelles, including the bacteria and cyanobacteria.

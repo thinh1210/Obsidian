@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Passenger
 *Noun*
 > /ˈpæsəndʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Passenger::Hành khách *(Phát âm: /ˈpæsəndʒər/)* ![[passenger.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** The car can hold four passengers.<br>*(-> Xe ô tô có thể chở bốn hành khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is traveling in a vehicle but is not driving it.

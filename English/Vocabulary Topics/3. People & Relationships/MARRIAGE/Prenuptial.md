@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Prenuptial
 *adjective*
 > /ˌpriːˈnʌpʃl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Prenuptial::Trước hôn nhân *(Phát âm: /ˌpriːˈnʌpʃl/)* ![[prenuptial.mp3]]<br><br>👪 **Word Family:** Prenup (noun)<br><br>💬 **Ví dụ:** They signed a prenuptial agreement.<br>*(-> Họ đã ký một thỏa thuận tiền hôn nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring or existing before marriage.

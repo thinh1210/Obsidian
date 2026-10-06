@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Pants
 *n.*
 > /pænts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Pants::Quần dài *(Phát âm: /pænts/)* ![[pants.mp3]]<br><br>👪 **Word Family:** Pant (n)<br><br>💬 **Ví dụ:** I bought a new pair of black pants.<br>*(-> Tôi đã mua một chiếc quần đen mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing that covers the lower body and is divided into two parts.

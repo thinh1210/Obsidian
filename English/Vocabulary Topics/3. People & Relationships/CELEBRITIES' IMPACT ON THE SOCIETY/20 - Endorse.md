@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Endorse
 *v.*
 > /ɪnˈdɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+20 - Endorse::Ủng hộ, quảng cáo *(Phát âm: /ɪnˈdɔːs/)* ![[endorse.mp3]]<br><br>👪 **Word Family:** Endorsement (n.)<br><br>💬 **Ví dụ:** He endorses shoes.<br>*(-> Anh ấy quảng cáo giày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To declare one's public approval or support of.

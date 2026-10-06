@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Sartorial
 *adj.*
 > /sɑːrˈtɔːriəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Sartorial::Thuộc về may mặc, phong cách ăn mặc *(Phát âm: /sɑːrˈtɔːriəl/)* ![[sartorial.mp3]]<br><br>👪 **Word Family:** Sartorially (adv)<br><br>💬 **Ví dụ:** He is known for his sartorial elegance.<br>*(-> Anh ấy được biết đến với vẻ thanh lịch trong ăn mặc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the making of clothes, usually men's clothes, or to a way of dressing.

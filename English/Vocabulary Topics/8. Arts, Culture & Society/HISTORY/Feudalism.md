@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Feudalism
 *noun*
 > /ˈfjuː.dəl.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Feudalism::Chế độ phong kiến *(Phát âm: /ˈfjuː.dəl.ɪ.zəm/)* ![[feudalism.mp3]]<br><br>👪 **Word Family:** feudal (adj), feudalist (n)<br><br>💬 **Ví dụ:** Under feudalism, peasants worked the land in exchange for protection.<br>*(-> Dưới chế độ phong kiến, nông dân cày cấy ruộng đất để đổi lấy sự bảo vệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The dominant social system in medieval Europe, in which the nobility held lands from the Crown in exchange for military service.

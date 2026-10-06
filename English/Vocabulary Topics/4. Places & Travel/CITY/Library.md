@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Library
 *n.*
 > /ˈlaɪbrəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Library::Tòa nhà công cộng lưu trữ sách báo để mọi người học tập và tra cứu *(Phát âm: /ˈlaɪbrəri/)* ![[library.mp3]]<br><br>👪 **Word Family:** librarian (n)<br><br>💬 **Ví dụ:** Students often gather at the municipal library to study.<br>*(-> Học sinh thường tụ tập ở thư viện thành phố để học bài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or room containing collections of books and periodicals for people to read or borrow.

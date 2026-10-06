@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Debate
 *n/v*
 > /dɪˈbeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+Debate::Cuộc tranh luận / tranh luận *(Phát âm: /dɪˈbeɪt/)* ![[debate.mp3]]<br><br>👪 **Word Family:** debater (n), debatable (adj)<br><br>💬 **Ví dụ:** The students held a debate about the pros and cons of social media.<br>*(-> Học sinh tổ chức tranh luận về lợi và hại của mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal discussion of opposing viewpoints on a topic.

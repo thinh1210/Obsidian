@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Surgeon
 *n.*
 > /ˈsɜː.dʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Surgeon::Bác sĩ phẫu thuật chuyên nghiệp phụ trách các ca mổ *(Phát âm: /ˈsɜː.dʒən/)* ![[surgeon.mp3]]<br><br>👪 **Word Family:** surgery (n), surgical (adj), surgically (adv)<br><br>💬 **Ví dụ:** The surgeon reassured the family that the operation went smoothly.<br>*(-> Bác sĩ phẫu thuật trấn an gia đình rằng ca mổ đã diễn ra suôn sẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A doctor who is specially trained to perform medical operations.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Phenomenal
 *adj*
 > /fəˈnɒm.ɪ.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Phenomenal::Phi thường, kỳ lạ *(Phát âm: /fəˈnɒm.ɪ.nəl/)* ![[phenomenal.mp3]]<br><br>👪 **Word Family:** Phenomenon (noun), Phenomenally (adv)<br><br>💬 **Ví dụ:** The product has been a phenomenal success.<br>*(-> Sản phẩm đã đạt được thành công phi thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very remarkable; extraordinary.

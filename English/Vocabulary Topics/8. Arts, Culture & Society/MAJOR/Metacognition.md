@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Metacognition
 *n.*
 > /ˌmet.ə.kɒɡˈnɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Metacognition::Siêu nhận thức (tư duy về cách mình tư duy) *(Phát âm: /ˌmet.ə.kɒɡˈnɪʃ.ən/)* ![[metacognition.mp3]]<br><br>👪 **Word Family:** metacognition (n), metacognitive (adj)<br><br>💬 **Ví dụ:** Keeping a learning journal helps build metacognition.<br>*(-> Viết nhật ký học tập giúp xây dựng siêu nhận thức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Awareness and understanding of one's own thought processes; thinking about thinking.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Regret
 *v.*
 > /rɪˈɡret/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Regret::Hối hận, ân hận hoặc nuối tiếc về điều mình đã làm hoặc bỏ lỡ *(Phát âm: /rɪˈɡret/)* ![[regret.mp3]]<br><br>👪 **Word Family:** regretful (adj), regrettable (adj), regretfully (adv)<br><br>💬 **Ví dụ:** He deeply regretted uttering harsh words during the heated argument with his sister.<br>*(-> Anh vô cùng hối hận vì đã thốt ra những lời cay nghiệt trong lúc tranh cãi nảy lửa với em gái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To feel sad, repentant, or disappointed over something that one has done or failed to do.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Decentralized
 *adjective*
 > /ˌdiːˈsen.trə.laɪzd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Technical/Business | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Decentralized::Phi tập trung *(Phát âm: /ˌdiːˈsen.trə.laɪzd/)* ![[decentralized.mp3]]<br><br>👪 **Word Family:** Decentralize (v), Decentralization (n)<br><br>💬 **Ví dụ:** Crypto works on a decentralized system.<br>*(-> Tiền điện tử hoạt động trên một hệ thống phi tập trung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having no central control or organization; distributing power or functions away from a central authority.

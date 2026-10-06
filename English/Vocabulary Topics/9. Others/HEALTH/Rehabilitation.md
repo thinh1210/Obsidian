@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Rehabilitation
 *n.*
 > /ˌriː.həˌbɪl.ɪˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Rehabilitation::Quá trình phục hồi chức năng thể chất hoặc tinh thần sau bệnh tật/chấn thương *(Phát âm: /ˌriː.həˌbɪl.ɪˈteɪ.ʃən/)* ![[rehabilitation.mp3]]<br><br>👪 **Word Family:** rehabilitate (v), rehabilitative (adj)<br><br>💬 **Ví dụ:** After his knee surgery, he spent six months in physical rehabilitation to walk normally again.<br>*(-> Sau ca mổ đầu gối, anh ấy đã dành sáu tháng tập phục hồi chức năng để đi lại bình thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of helping someone return to a normal, healthy, or active life after illness, surgery, or injury.

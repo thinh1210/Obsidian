@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Devastated
 *adj*
 > /ˈdevəsteɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Devastated::Suy sụp, tàn phá *(Phát âm: /ˈdevəsteɪtɪd/)* ![[devastated.mp3]]<br><br>👪 **Word Family:** devastate (v), devastation (n)<br><br>💬 **Ví dụ:** I was devastated by the bad news.<br>*(-> Tôi suy sụp trước tin xấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Severe and overwhelming shock or grief.

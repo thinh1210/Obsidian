@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Exhausted
 *adj.*
 > /ɪɡˈzɔːstɪd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Exhausted::Kiệt sức *(Phát âm: /ɪɡˈzɔːstɪd/)* ![[exhausted.mp3]]<br><br>👪 **Word Family:** exhaustion<br><br>💬 **Ví dụ:** I am exhausted.<br>*(-> Tôi kiệt sức.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Drained of one's physical or mental resources

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Infamous
 *adj.*
 > /ˈɪnfəməs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
+
+## 🗂️ Flashcard
+Infamous::Tai tiếng *(Phát âm: /ˈɪnfəməs/)* ![[infamous.mp3]]<br><br>👪 **Word Family:** infamy (n.)<br><br>💬 **Ví dụ:** The infamous dictator was overthrown.<br>*(-> Tên độc tài tai tiếng đã bị lật đổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Well known for some bad quality or deed.

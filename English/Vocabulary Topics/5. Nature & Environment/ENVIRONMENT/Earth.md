@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Earth
 *n.*
 > /ɜːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Earth::Trái Đất *(Phát âm: /ɜːθ/)* ![[earth.mp3]]<br><br>👪 **Word Family:** earthy (adj), earthquake (n)<br><br>💬 **Ví dụ:** The Earth rotates on its axis.<br>*(-> Trái Đất quay quanh trục của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The planet on which we live; the world.

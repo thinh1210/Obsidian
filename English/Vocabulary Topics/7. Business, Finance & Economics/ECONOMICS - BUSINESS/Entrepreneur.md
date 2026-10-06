@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Entrepreneur
 *noun*
 > /ˌɑːntrəprəˈnɜːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Entrepreneur::doanh nhân, nhà khởi nghiệp *(Phát âm: /ˌɑːntrəprəˈnɜːr/)* ![[entrepreneur.mp3]]<br><br>👪 **Word Family:** entrepreneurial (adjective), entrepreneurship (noun)<br><br>💬 **Ví dụ:** The young entrepreneur opened a chain of eco-friendly coffee shops.<br>*(-> Nhà doanh nhân trẻ đã mở một chuỗi cửa hàng cà phê thân thiện với môi trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a person who makes money by starting or running businesses, especially when this involves taking financial risks.

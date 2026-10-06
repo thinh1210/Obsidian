@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Year
 *n.*
 > /jɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Year::Năm *(Phát âm: /jɪər/)* ![[year.mp3]]<br><br>👪 **Word Family:** yearly (adj.)<br><br>💬 **Ví dụ:** Happy New Year!<br>*(-> Chúc mừng năm mới!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 365 or 366 days

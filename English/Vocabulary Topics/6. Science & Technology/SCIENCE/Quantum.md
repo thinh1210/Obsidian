@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Quantum
 *noun / adjective*
 > /ˈkwɒn.təm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Quantum::Lượng tử – đơn vị rời rạc nhỏ nhất của năng lượng trong cơ học lượng tử *(Phát âm: /ˈkwɒn.təm/)* ![[quantum.mp3]]<br><br>👪 **Word Family:** quantize (v), quantization (n), quantum mechanics (n phrase)<br><br>💬 **Ví dụ:** Quantum computing could revolutionise how we solve complex problems in the future.<br>*(-> Máy tính lượng tử có thể cách mạng hóa cách chúng ta giải các bài toán phức tạp trong tương lai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The smallest discrete unit of energy in quantum mechanics; relating to the branch of physics dealing with subatomic phenomena.

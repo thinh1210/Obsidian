@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Herbivore
 *noun*
 > /ˈhɜː.bɪ.vɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Herbivore::Động vật ăn cỏ, động vật ăn thực vật *(Phát âm: /ˈhɜː.bɪ.vɔːr/)* ![[herbivore.mp3]]<br><br>👪 **Word Family:** herbivore (n), herbivorous (adj)<br><br>💬 **Ví dụ:** Cows, sheep, and deer are common herbivores.<br>*(-> Bò, cừu và hươu là những động vật ăn cỏ phổ biến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that feeds on plants.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Sheep
 *noun*
 > /ʃiːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Sheep::Con cừu *(Phát âm: /ʃiːp/)* ![[sheep.mp3]]<br><br>👪 **Word Family:** sheep (n), sheepish (adj), shepherd (n)<br><br>💬 **Ví dụ:** The shepherd guided the sheep back into the pen before sunset.<br>*(-> Người chăn cừu đã dẫn đàn cừu trở lại chuồng trước khi mặt trời lặn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A domesticated ruminant animal with a thick woolly coat, kept in flocks for its wool or meat.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Robot
 *Noun*
 > /ˈrəʊ.bɒt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Robot::Người máy, rô-bốt *(Phát âm: /ˈrəʊ.bɒt/)* ![[robot.mp3]]<br><br>👪 **Word Family:** Robotic (adj), robotics (n)<br><br>💬 **Ví dụ:** I bought a vacuum robot to clean my house.<br>*(-> Tôi đã mua một con rô-bốt hút bụi để dọn dẹp nhà cửa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine controlled by a computer that can move and do some of the work of a person.

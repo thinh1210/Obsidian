@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Heart
 *noun*
 > /hɑːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Heart::Tim *(Phát âm: /hɑːt/)* ![[heart.mp3]]<br><br>👪 **Word Family:** hearty, heartless<br><br>💬 **Ví dụ:** She placed her hand over her heart.<br>*(-> Cô ấy đặt tay lên trái tim mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation.

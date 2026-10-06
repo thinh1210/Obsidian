@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Plagiarism
 *noun*
 > /ˈpleɪ.dʒər.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Dịch thuật văn học & Bản quyền tác phẩm
+
+## 🗂️ Flashcard
+Plagiarism::Sự đạo văn, ăn cắp ý tưởng *(Phát âm: /ˈpleɪ.dʒər.ɪ.zəm/)* ![[plagiarism.mp3]]<br><br>👪 **Word Family:** plagiarize (v), plagiarist (n), plagiaristic (adj)<br><br>💬 **Ví dụ:** Copying text directly from the web without citation is plagiarism.<br>*(-> Sao chép trực tiếp văn bản từ web mà không trích dẫn là hành vi đạo văn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of taking someone else's work or ideas and passing them off as one's own.

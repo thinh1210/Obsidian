@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Presumptive test
 *noun phrase*
 > /prɪˈzʌmp.tɪv test/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Presumptive test::Xét nghiệm sơ bộ – kiểm tra ban đầu gợi ý sự có mặt của một chất nhưng cần xác nhận tiếp theo *(Phát âm: /prɪˈzʌmp.tɪv test/)* ![[presumptive_test.mp3]]<br><br>👪 **Word Family:** presumptive (adj), presume (v), presumption (n)<br><br>💬 **Ví dụ:** The officer used a presumptive test to check if the white powder was cocaine.<br>*(-> Cảnh sát dùng xét nghiệm sơ bộ để kiểm tra xem bột trắng có phải cocaine không.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A preliminary test that indicates the possible presence of a substance but requires confirmation by more specific testing.

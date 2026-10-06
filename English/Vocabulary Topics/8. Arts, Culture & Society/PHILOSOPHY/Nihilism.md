@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Nihilism
 *n.*
 > /ˈnaɪ.ɪ.lɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Nihilism::Chủ nghĩa hư vô *(Phát âm: /ˈnaɪ.ɪ.lɪ.zəm/)* ![[nihilism.mp3]]<br><br>👪 **Word Family:** nihilist, nihilistic<br><br>💬 **Ví dụ:** He dismissed her dark view of the world as pure nihilism.<br>*(-> Anh ấy bác bỏ cái nhìn đen tối của cô ấy về thế giới như một thứ chủ nghĩa hư vô thuần túy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The rejection of all religious and moral principles, often believing life is meaningless.

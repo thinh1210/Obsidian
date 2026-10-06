@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Tension
 *n.*
 > /ˈtenʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Tension::Sự căng thẳng (quan hệ, tâm lý) *(Phát âm: /ˈtenʃn/)* ![[tension.mp3]]<br><br>👪 **Word Family:** tense (adj)<br><br>💬 **Ví dụ:** I feel tension in my neck.<br>*(-> Tôi cảm thấy căng thẳng ở cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Mental or emotional strain

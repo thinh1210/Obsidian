@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Loyal
 *adj*
 > /ˈlɔɪ.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Loyal::Trung thành *(Phát âm: /ˈlɔɪ.əl/)* ![[loyal.mp3]]<br><br>👪 **Word Family:** loyalty<br><br>💬 **Ví dụ:** She is a loyal friend.<br>*(-> Cô ấy là một người bạn trung thành.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Giving or showing firm and constant support or allegiance to a person or institution.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Pigment
 *n*
 > /ˈpɪɡ.mənt/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Pigment::Sắc tố, bột màu *(Phát âm: /ˈpɪɡ.mənt/)* ![[pigment.mp3]]<br><br>👪 **Word Family:** pigmentation (n), pigmented (adj)<br><br>💬 **Ví dụ:** Melanin is the pigment that determines human skin color.<br>*(-> Melanin là sắc tố quyết định màu da của con người.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that gives color to something.

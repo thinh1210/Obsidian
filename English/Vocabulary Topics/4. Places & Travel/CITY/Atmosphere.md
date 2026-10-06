@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Atmosphere
 *n.*
 > /ˈætməsfɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Atmosphere::Bầu không khí *(Phát âm: /ˈætməsfɪə(r)/)* ![[atmosphere.mp3]]<br><br>👪 **Word Family:** atmospheric (adj)<br><br>💬 **Ví dụ:** The restaurant has a great atmosphere.<br>*(-> Nhà hàng có không khí rất tuyệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The character, feeling, or mood of a place or situation.

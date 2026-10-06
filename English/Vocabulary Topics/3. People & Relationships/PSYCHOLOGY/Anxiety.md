@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Anxiety
 *noun*
 > /æŋˈzaɪ.ə.t̬i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Anxiety::Sự lo âu, bồn chồn *(Phát âm: /æŋˈzaɪ.ə.t̬i/)* ![[anxiety.mp3]]<br><br>👪 **Word Family:** anxious (adj)<br><br>💬 **Ví dụ:** She suffers from social anxiety.<br>*(-> Cô ấy bị chứng lo âu xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A feeling of worry, nervousness, or unease, typically about an imminent event.

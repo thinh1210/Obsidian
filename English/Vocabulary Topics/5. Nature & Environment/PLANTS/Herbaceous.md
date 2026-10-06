@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Herbaceous
 *adjective*
 > /hɜːˈbeɪʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Herbaceous::Thân thảo (không có thân gỗ cứng) *(Phát âm: /hɜːˈbeɪʃəs/)* ![[herbaceous.mp3]]<br><br>👪 **Word Family:** Noun: herb (thảo mộc), Adjective: herbaceous (thân thảo)<br><br>💬 **Ví dụ:** Mint is a fast-growing herbaceous plant that spreads quickly in gardens.<br>*(-> Bạc hà là một loài cây thân thảo phát triển nhanh và lan rộng dễ dàng trong vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or having the characteristics of an herb; non-woody.

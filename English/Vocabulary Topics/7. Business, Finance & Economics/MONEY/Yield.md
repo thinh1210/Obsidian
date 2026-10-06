@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Yield
 *noun/verb*
 > /jiːld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Yield::Lợi suất, mang lại lợi nhuận/sản lượng *(Phát âm: /jiːld/)* ![[yield.mp3]]<br><br>👪 **Word Family:** yielding (adj)<br><br>💬 **Ví dụ:** The investment has a projected annual yield of 8%.<br>*(-> Khoản đầu tư này có lợi suất hàng năm dự kiến là 8%.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money or profit produced by an investment (n); to produce or provide a natural product or financial return (v)

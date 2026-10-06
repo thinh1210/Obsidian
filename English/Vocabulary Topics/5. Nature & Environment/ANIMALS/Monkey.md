@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Monkey
 *noun*
 > /ˈmʌŋ.ki/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Monkey::Con khỉ *(Phát âm: /ˈmʌŋ.ki/)* ![[monkey.mp3]]<br><br>👪 **Word Family:** monkey (n/v), monkeyish (adj)<br><br>💬 **Ví dụ:** A mischievous monkey grabbed the tourist's sunglasses.<br>*(-> Một con khỉ tinh nghịch đã giật chiếc kính râm của khách du lịch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small to medium-sized primate, typically having a long tail and living in trees.

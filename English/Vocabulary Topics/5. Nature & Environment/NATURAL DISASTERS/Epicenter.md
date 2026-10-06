@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Epicenter
 *noun*
 > /ˈep.ə.sen.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Epicenter::Tâm chấn (động đất) *(Phát âm: /ˈep.ə.sen.tər/)* ![[epicenter.mp3]]<br><br>👪 **Word Family:** epicentral (adj)<br><br>💬 **Ví dụ:** The epicenter of the earthquake was located 10 miles offshore.<br>*(-> Tâm chấn của trận động đất nằm cách bờ biển 10 dặm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The point on the Earth's surface directly above the focus of an earthquake.

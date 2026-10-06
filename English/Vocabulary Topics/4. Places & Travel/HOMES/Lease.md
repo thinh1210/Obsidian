@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Lease
 *noun*
 > /liːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Lease::Hợp đồng cho thuê *(Phát âm: /liːs/)* ![[lease.mp3]]<br><br>👪 **Word Family:** **Synonyms:** rental agreement, contract<br><br>💬 **Ví dụ:** We signed a one-year lease.<br>*(-> Chúng tôi đã ký hợp đồng thuê một năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A contract by which one party conveys land, property, services, etc., to another for a specified time.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** rental agreement, contract
-**Antonyms:** 
+**Antonyms:**

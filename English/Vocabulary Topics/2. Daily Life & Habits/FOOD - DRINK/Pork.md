@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Pork
 *n.*
 > /pɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Pork::Thịt lợn, thịt heo *(Phát âm: /pɔːk/)* ![[pork.mp3]]<br><br>👪 **Word Family:** porky (adj)<br><br>💬 **Ví dụ:** My mother prepared delicious braised pork belly for dinner.<br>*(-> Mẹ tôi đã nấu món thịt ba chỉ kho thơm ngon cho bữa tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The meat from a pig used as food.

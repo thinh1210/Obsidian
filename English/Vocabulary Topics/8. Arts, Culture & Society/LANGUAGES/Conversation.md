@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Conversation
 *n.*
 > /ˌkɒnvəˈseɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Conversation::Cuộc trò chuyện, cuộc hội thoại *(Phát âm: /ˌkɒnvəˈseɪʃn/)* ![[conversation.mp3]]<br><br>👪 **Word Family:** conversational, converse<br><br>💬 **Ví dụ:** I had a long conversation with my friend.<br>*(-> Tôi đã có một cuộc trò chuyện dài với bạn của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A talk, especially an informal one, between two or more people

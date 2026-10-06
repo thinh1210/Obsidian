@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Workplace
 *n.*
 > /ˈwɜːk.pleɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Workplace::Nơi làm việc, không gian văn phòng và môi trường lao động *(Phát âm: /ˈwɜːk.pleɪs/)* ![[workplace.mp3]]<br><br>👪 **Word Family:** work (v/n)<br><br>💬 **Ví dụ:** A clean and well-lit workplace increases everyday motivation and focus.<br>*(-> Một nơi làm việc sạch sẽ và sáng sủa giúp gia tăng động lực và sự tập trung mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or room where people work, or the physical and social working environment.

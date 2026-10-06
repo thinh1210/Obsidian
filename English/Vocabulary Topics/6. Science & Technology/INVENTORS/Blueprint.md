@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # blueprint
 *n.*
 > /ˈbluː.prɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Blueprint::Bản thiết kế, bản vẽ xanh, kế hoạch chi tiết *(Phát âm: /ˈbluː.prɪnt/)* ![[blueprint.mp3]]<br><br>👪 **Word Family:** blueprint (v)<br><br>💬 **Ví dụ:** The architect showed us the blueprint of the new house.<br>*(-> Kiến trúc sư đã chỉ cho chúng tôi bản thiết kế của ngôi nhà mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A photographic print of a technical drawing, or a detailed plan of action

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Astrophysics
 *noun*
 > /ˌæstrəʊˈfɪzɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Astrophysics::Vật lý thiên văn *(Phát âm: /ˌæstrəʊˈfɪzɪks/)* ![[astrophysics.mp3]]<br><br>👪 **Word Family:** astrophysicist, astrophysical<br><br>💬 **Ví dụ:** Astrophysics explains the life cycle of stars.<br>*(-> Vật lý thiên văn giải thích chu kỳ sống của các vì sao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of astronomy concerned with the physical nature of stars and other celestial bodies.

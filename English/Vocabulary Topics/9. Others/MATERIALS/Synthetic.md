@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Synthetic
 *adjective.*
 > /sɪnˈθetɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
+
+## 🗂️ Flashcard
+Synthetic::Tổng hợp, nhân tạo *(Phát âm: /sɪnˈθetɪk/)* ![[synthetic.mp3]]<br><br>👪 **Word Family:** synthetically (Adverb), synthesize (Verb), synthesis (Noun)<br><br>💬 **Ví dụ:** Many athletic shirts are made of synthetic materials that wick away sweat.<br>*(-> Nhiều áo thể thao được làm bằng chất liệu tổng hợp giúp thoát mồ hôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made by chemical synthesis, especially to imitate a natural product.

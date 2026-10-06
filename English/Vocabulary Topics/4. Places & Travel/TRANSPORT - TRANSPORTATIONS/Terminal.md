@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Terminal
 *noun*
 > /ˈtɜːrmɪnl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Terminal::Nhà ga (sân bay, cảng tàu...) *(Phát âm: /ˈtɜːrmɪnl/)* ![[terminal.mp3]]<br><br>👪 **Word Family:** Noun: terminal (nhà ga), Adjective: terminal (giai đoạn cuối, chí mạng)<br><br>💬 **Ví dụ:** We are departing from Terminal 2.<br>*(-> Chúng tôi sẽ khởi hành từ Nhà ga số 2.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A departure and arrival station on a public transport route, especially at an airport.

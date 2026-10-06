@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Influence
 *n.*
 > /ˈɪnfluəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Influence::Sức ảnh hưởng *(Phát âm: /ˈɪnfluəns/)* ![[influence.mp3]]<br><br>👪 **Word Family:** influential (adj.)<br><br>💬 **Ví dụ:** She has a lot of influence.<br>*(-> Cô ấy có nhiều sức ảnh hưởng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The capacity to have an effect on the character or behavior of someone.

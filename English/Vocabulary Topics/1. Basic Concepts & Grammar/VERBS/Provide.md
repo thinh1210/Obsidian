@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Provide
 *Verb*
 > /prəˈvaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Provide::Cung cấp *(Phát âm: /prəˈvaɪd/)* ![[provide.mp3]]<br><br>👪 **Word Family:** Provider (n), Provision (n)<br><br>💬 **Ví dụ:** I provide help.<br>*(-> Tôi cung cấp sự giúp đỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give someone something that they need.

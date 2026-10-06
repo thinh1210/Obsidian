@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Blueprint
 *noun*
 > /ˈbluːprɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Blueprint::Bản vẽ thiết kế, bản vẽ xanh, kế hoạch chi tiết *(Phát âm: /ˈbluːprɪnt/)* ![[blueprint.mp3]]<br><br>👪 **Word Family:** blueprinted (adj)<br><br>💬 **Ví dụ:** The builder carefully studied the blueprint before pouring the concrete foundation.<br>*(-> Người thợ xây đã nghiên cứu kỹ bản vẽ thiết kế trước khi đổ móng bê tông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A design plan or other technical drawing.

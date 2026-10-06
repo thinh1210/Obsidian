@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Dark
 *adj*
 > /dɑːrk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Dark::Đậm, tối màu *(Phát âm: /dɑːrk/)* ![[dark.mp3]]<br><br>👪 **Word Family:** darkness (n), darken (v)<br><br>💬 **Ví dụ:** She has dark hair.<br>*(-> Cô ấy có mái tóc đen/tối màu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Closer to black than white.

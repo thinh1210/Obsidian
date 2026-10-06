@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Avenue
 *n.*
 > /ˈævənuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Avenue::Đại lộ *(Phát âm: /ˈævənuː/)* ![[avenue.mp3]]<br><br>👪 **Word Family:** avenues<br><br>💬 **Ví dụ:** They live on Fifth Avenue.<br>*(-> Họ sống trên Đại lộ số 5.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wide street or main thoroughfare.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Stressed
 *adj*
 > /strest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Stressed::Căng thẳng *(Phát âm: /strest/)* ![[stressed.mp3]]<br><br>👪 **Word Family:** stress (n/v), stressful (adj)<br><br>💬 **Ví dụ:** I'm really stressed out lately.<br>*(-> Gần đây tôi rất căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Experiencing mental or emotional strain.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Haute couture
 *noun*
 > /ˌoʊt kuːˈtʊr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Haute couture::Thời trang cao cấp *(Phát âm: /ˌoʊt kuːˈtʊr/)* ![[haute_couture.mp3]]<br><br>👪 **Word Family:** couturier (n)<br><br>💬 **Ví dụ:** She only wears haute couture.<br>*(-> Cô ấy chỉ mặc thời trang cao cấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Expensive, fashionable clothes produced by leading fashion houses.

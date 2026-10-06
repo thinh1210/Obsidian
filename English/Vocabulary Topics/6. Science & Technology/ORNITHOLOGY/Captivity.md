@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Captivity
 *noun*
 > /kæpˈtɪv.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Captivity::Tình trạng bị giam cầm, nuôi nhốt *(Phát âm: /kæpˈtɪv.ə.ti/)* ![[captivity.mp3]]<br><br>👪 **Word Family:** captive (n/adj), captivate (v), captivity (n)<br><br>💬 **Ví dụ:** Some birds do not sing when they are kept in captivity.<br>*(-> Một số loài chim không hót khi bị nuôi nhốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition of being imprisoned or confined.

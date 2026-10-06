@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Excursion
 *Noun*
 > /ɪkˈskɝː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Excursion::Chuyến đi chơi, tham quan *(Phát âm: /ɪkˈskɝː.ʃən/)* ![[excursion.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We went on a day excursion to the island.<br>*(-> Chúng tôi đã đi dã ngoại một ngày ra đảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short journey usually made for pleasure, often by a group of people.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Cache
 *noun / verb*
 > /kæʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+Cache::Bộ nhớ đệm, cache *(Phát âm: /kæʃ/)* ![[cache.mp3]]<br><br>👪 **Word Family:** cache (n/v), cached (adj), caching (n)<br><br>💬 **Ví dụ:** Clearing the browser cache fixed the problem with the website not loading properly.<br>*(-> Xóa cache trình duyệt đã khắc phục vấn đề trang web không tải đúng cách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A temporary storage area where frequently accessed data is kept for quick retrieval.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Autonomous
 *adj*
 > /ɔːˈtɒn.ə.məs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Autonomous::Tự trị, tự động, độc lập *(Phát âm: /ɔːˈtɒn.ə.məs/)* ![[autonomous.mp3]]<br><br>👪 **Word Family:** Autonomy (n), Autonomously (adv)<br><br>💬 **Ví dụ:** I bought an autonomous vacuum cleaner to save time.<br>*(-> Tôi đã mua một chiếc máy hút bụi tự động để tiết kiệm thời gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Independent and having the power to make your own decisions; self-governing.

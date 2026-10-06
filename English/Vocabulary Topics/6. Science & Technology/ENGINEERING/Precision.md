@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Precision
 *noun*
 > /prɪˈsɪʒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Precision::Độ chính xác, sự chuẩn xác *(Phát âm: /prɪˈsɪʒn/)* ![[precision.mp3]]<br><br>👪 **Word Family:** precise (adj), precisely (adv)<br><br>💬 **Ví dụ:** Watchmaking is a craft that requires extreme precision and concentration.<br>*(-> Chế tạo đồng hồ là một nghề đòi hỏi sự chính xác cực cao và sự tập trung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality, condition, or fact of being exact and accurate.

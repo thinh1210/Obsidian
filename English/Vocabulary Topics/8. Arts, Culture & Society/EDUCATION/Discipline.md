@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Discipline
 *n.*
 > /ˈdɪsəplɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Discipline::Kỷ luật, sự rèn luyện *(Phát âm: /ˈdɪsəplɪn/)* ![[discipline.mp3]]<br><br>👪 **Word Family:** disciplinary, disciplinarian<br><br>💬 **Ví dụ:** Success in study requires self-discipline.<br>*(-> Thành công trong học tập đòi hỏi tính tự kỷ luật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of training people to obey rules, using punishment to correct disobedience

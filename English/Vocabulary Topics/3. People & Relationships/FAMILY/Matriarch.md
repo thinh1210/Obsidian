@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Matriarch
 *noun*
 > /ˈmeɪ.tri.ɑːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Matriarch::Nữ gia trưởng *(Phát âm: /ˈmeɪ.tri.ɑːk/)* ![[matriarch.mp3]]<br><br>👪 **Word Family:** matriarchy (n), matriarchal (adj)<br><br>💬 **Ví dụ:** She is the matriarch of the clan.<br>*(-> Bà ấy là nữ gia trưởng của gia tộc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An old and powerful woman in a family.

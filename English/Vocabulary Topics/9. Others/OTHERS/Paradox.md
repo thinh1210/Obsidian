@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Paradox
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - contradiction, inconsistency, puzzle
+
+
+## 🗂️ Flashcard
+Paradox::Nghịch lý *(Phát âm: /ˈpær.ə.dɒks/)* ![[paradox.mp3]]<br><br>👪 **Word Family:** [Noun]: paradox, [Adj]: paradoxical, [Adv]: paradoxically<br><br>💬 **Ví dụ:** It is a paradox that the more she eats, the thinner she gets.<br>*(-> Thật là một nghịch lý khi cô ấy càng ăn nhiều thì càng gầy.)*

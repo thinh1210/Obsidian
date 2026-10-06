@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Busy
 *adj.*
 > /ˈbɪzi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Busy::Bận rộn *(Phát âm: /ˈbɪzi/)* ![[busy.mp3]]<br><br>👪 **Word Family:** busily (adv.)<br><br>💬 **Ví dụ:** I am very busy.<br>*(-> Tôi rất bận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a great deal to do.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Strategy
 *noun*
 > /ˈstrætədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Strategy::Chiến lược *(Phát âm: /ˈstrætədʒi/)* ![[strategy.mp3]]<br><br>👪 **Word Family:** strategic (adj), strategically (adv), strategist (n)<br><br>💬 **Ví dụ:** She has a clever strategy to win the chess tournament.<br>*(-> Cô ấy có một chiến lược thông minh để giành chiến thắng trong giải đấu cờ vua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan of action designed to achieve a long-term or overall aim

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Exam
 *n.*
 > /ɪɡˈzæm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Exam::Kỳ thi, bài kiểm tra *(Phát âm: /ɪɡˈzæm/)* ![[exam.mp3]]<br><br>👪 **Word Family:** examine, examination, examiner<br><br>💬 **Ví dụ:** I passed my driving exam on the first try.<br>*(-> Tôi đã đỗ kỳ thi lái xe ngay lần thử đầu tiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal test of a person's knowledge or proficiency in a subject

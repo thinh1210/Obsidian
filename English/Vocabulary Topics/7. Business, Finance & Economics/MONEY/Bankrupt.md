@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Bankrupt
 *adjective*
 > /ˈbæŋ.krʌpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Bankrupt::Phá sản *(Phát âm: /ˈbæŋ.krʌpt/)* ![[bankrupt.mp3]]<br><br>👪 **Word Family:** bankruptcy (n)<br><br>💬 **Ví dụ:** The company went bankrupt after the stock market crash.<br>*(-> Công ty đã bị phá sản sau vụ sụp đổ của thị trường chứng khoán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Declared in law unable to pay outstanding debts

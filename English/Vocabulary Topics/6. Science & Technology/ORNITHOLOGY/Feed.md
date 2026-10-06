@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Feed
 *verb*
 > /fiːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Feed::Cho ăn *(Phát âm: /fiːd/)* ![[feed.mp3]]<br><br>👪 **Word Family:** feed (v/n), feeder (n), feeding (n)<br><br>💬 **Ví dụ:** Children love to feed the pigeons in the park.<br>*(-> Trẻ em thích cho chim bồ câu ăn trong công viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give food to a person, group, or animal.

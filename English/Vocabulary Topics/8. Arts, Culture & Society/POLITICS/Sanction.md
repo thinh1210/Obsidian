@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Sanction
 *n/v*
 > /ˈsæŋk.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Sanction::Lệnh trừng phạt / trừng phạt *(Phát âm: /ˈsæŋk.ʃən/)* ![[sanction.mp3]]<br><br>👪 **Word Family:** sanctioned (adj), unsanctioned (adj)<br><br>💬 **Ví dụ:** The government threatened to sanction companies that break safety rules.<br>*(-> Chính phủ đe dọa trừng phạt các công ty vi phạm quy định an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A penalty or coercive measure imposed on a country to force compliance.

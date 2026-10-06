@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Tactful
 *adj.*
 > /ˈtækt.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Tactful::Khéo léo, tế nhị trong giao tiếp ứng xử, tránh làm mất lòng người khác *(Phát âm: /ˈtækt.fəl/)* ![[tactful.mp3]]<br><br>👪 **Word Family:** tact (n), tactfully (adv), tactless (adj)<br><br>💬 **Ví dụ:** She made a tactful suggestion to modify the menu without offending the amateur chef.<br>*(-> Cô đưa ra một gợi ý tế nhị để sửa đổi thực đơn mà không làm tổn thương đầu bếp nghiệp dư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Careful not to say or do things that could upset or offend people.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Montage
 *n.*
 > /mɒnˈtɑːʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
+
+## 🗂️ Flashcard
+Montage::Kỹ thuật dựng phim ghép cảnh, chuỗi phân cảnh cô đọng *(Phát âm: /mɒnˈtɑːʒ/)* ![[montage.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The movie features a classic training montage showing the hero getting stronger.<br>*(-> Bộ phim có phân cảnh ghép tập luyện kinh điển cho thấy người anh hùng ngày càng mạnh mẽ hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process or technique of selecting, editing, and piecing together separate sections of film to form a continuous whole, often indicating the passage of time

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Offence
 *noun*
 > /əˈfens/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Offence::Tội danh, sự vi phạm pháp luật *(Phát âm: /əˈfens/)* ![[offence.mp3]]<br><br>👪 **Word Family:** offend (v), offender (n), offensive (adj)<br><br>💬 **Ví dụ:** Shoplifting is a minor offence but can still lead to a arrest.<br>*(-> Ăn trộm trong cửa hàng là một vi phạm nhỏ nhưng vẫn có thể dẫn đến việc bị bắt giữ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An illegal act; a crime

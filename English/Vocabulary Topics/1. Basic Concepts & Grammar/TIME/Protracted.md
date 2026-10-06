@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Protracted
 *adj.*
 > /prəˈtræktɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Protracted::Kéo dài, dai dẳng *(Phát âm: /prəˈtræktɪd/)* ![[protracted.mp3]]<br><br>👪 **Word Family:** protract (v.)<br><br>💬 **Ví dụ:** A protracted legal battle.<br>*(-> Một cuộc chiến pháp lý kéo dài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for a long time or longer than expected or usual

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Plastic
 *noun.*
 > /ˈplæstɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
+
+## 🗂️ Flashcard
+Plastic::Nhựa, chất dẻo *(Phát âm: /ˈplæstɪk/)* ![[plastic.mp3]]<br><br>👪 **Word Family:** plasticity (Noun), plasticize (Verb)<br><br>💬 **Ví dụ:** Put the plastic bottles into the recycling bin.<br>*(-> Hãy cho những chai nhựa vào thùng rác tái chế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A synthetic material made from a wide range of organic polymers that can be molded into shape while soft.

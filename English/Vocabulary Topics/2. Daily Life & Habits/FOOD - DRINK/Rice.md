@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Rice
 *n.*
 > /raɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Rice::Gạo, Cơm *(Phát âm: /raɪs/)* ![[rice.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** We eat rice every day.<br>*(-> Chúng tôi ăn cơm mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Small white or brown grains eaten as food.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Landscape
 *noun*
 > /ˈlændskeɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Landscape::Cảnh quan, phong cảnh *(Phát âm: /ˈlændskeɪp/)* ![[landscape.mp3]]<br><br>👪 **Word Family:** Landscaping (n.)<br><br>💬 **Ví dụ:** I painted the mountain landscape.<br>*(-> Tôi đã vẽ phong cảnh núi non.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.

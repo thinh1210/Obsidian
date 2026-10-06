@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Molecule
 *noun*
 > /ˈmɒl.ɪ.kjuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Molecule::Phân tử – đơn vị nhỏ nhất của một chất vẫn giữ đầy đủ tính chất hóa học của chất đó *(Phát âm: /ˈmɒl.ɪ.kjuːl/)* ![[molecule.mp3]]<br><br>👪 **Word Family:** molecular (adj), molecularly (adv)<br><br>💬 **Ví dụ:** A molecule of water contains two hydrogen atoms and one oxygen atom.<br>*(-> Một phân tử nước chứa hai nguyên tử hydro và một nguyên tử oxy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The smallest unit of a substance that retains all the chemical properties of that substance.

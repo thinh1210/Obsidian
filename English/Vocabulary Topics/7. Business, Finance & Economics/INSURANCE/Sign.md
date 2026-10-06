@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Sign
 *v.*
 > /saɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Sign::Ký tên *(Phát âm: /saɪn/)* ![[sign.mp3]]<br><br>👪 **Word Family:** signature, signee<br><br>💬 **Ví dụ:** You need to read the details before you sign.<br>*(-> Bạn cần đọc kỹ các chi tiết trước khi ký tên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To write your name on a document to show that you agree with what is written.

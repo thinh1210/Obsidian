@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Fire
 *noun*
 > /faɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
+
+## 🗂️ Flashcard
+Fire::Lửa, đám cháy *(Phát âm: /faɪər/)* ![[fire.mp3]]<br><br>👪 **Word Family:** fiery (adj), fire (v), fireproof (adj)<br><br>💬 **Ví dụ:** The campers sat around the fire to keep warm.<br>*(-> Những người cắm trại ngồi quanh đống lửa để giữ ấm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of burning that produces heat, light, and smoke.

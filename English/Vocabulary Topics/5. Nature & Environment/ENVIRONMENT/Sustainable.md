@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Sustainable
 *adj.*
 > /səˈsteɪnəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Sustainable::Bền vững *(Phát âm: /səˈsteɪnəbl/)* ![[sustainable.mp3]]<br><br>👪 **Word Family:** sustain (v), sustainability (n), sustainably (adv)<br><br>💬 **Ví dụ:** We need to find sustainable ways to produce food.<br>*(-> Chúng ta cần tìm những cách bền vững để sản xuất thực phẩm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Able to be maintained at a certain rate or level; conserving an ecological balance by avoiding depletion of natural resources.

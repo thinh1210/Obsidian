@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Wave
 *noun*
 > /weɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Wave::Sóng, làn sóng *(Phát âm: /weɪv/)* ![[wave.mp3]]<br><br>👪 **Word Family:** wavy (adj), wave (v)<br><br>💬 **Ví dụ:** The surfers were excited about the big waves today.<br>*(-> Các vận động viên lướt sóng rất hào hứng với những con sóng lớn hôm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A raised line of water that moves across the surface of an area of water, especially the sea.

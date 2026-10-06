@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Budget
 *n.*
 > /ˈbʌdʒ.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Budget::Kế hoạch ngân sách, khoản tiền dự trù cho chi tiêu *(Phát âm: /ˈbʌdʒ.ɪt/)* ![[budget.mp3]]<br><br>👪 **Word Family:** budgetary (adj), budget (v)<br><br>💬 **Ví dụ:** We are traveling on a tight budget, so we booked hostels instead of luxury resorts.<br>*(-> Chúng tôi đi du lịch với ngân sách eo hẹp nên đã đặt nhà nghỉ thay vì khu nghỉ dưỡng xa hoa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan to show how much money a person or organization will earn and how we will spend it.

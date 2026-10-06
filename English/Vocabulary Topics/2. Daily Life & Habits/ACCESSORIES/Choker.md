@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Choker
 *noun*
 > /ˈtʃəʊkə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Choker::Vòng cổ bó sát *(Phát âm: /ˈtʃəʊkə(r)/)* ![[choker.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She accessorized her outfit with a black velvet choker.<br>*(-> Cô ấy kết hợp trang phục của mình với một chiếc vòng cổ nhung đen.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewellery or a narrow band of cloth worn tightly around the neck.

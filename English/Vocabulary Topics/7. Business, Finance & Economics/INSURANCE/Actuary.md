@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Actuary
 *n.*
 > /ˈæktʃuəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
+
+## 🗂️ Flashcard
+Actuary::Chuyên viên định phí bảo hiểm *(Phát âm: /ˈæktʃuəri/)* ![[actuary.mp3]]<br><br>👪 **Word Family:** actuarial<br><br>💬 **Ví dụ:** An actuary uses math to predict how long people will live.<br>*(-> Một chuyên viên định phí bảo hiểm sử dụng toán học để dự đoán mọi người sẽ sống được bao lâu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who compiles and analyzes statistics and uses them to calculate insurance risks and premiums.

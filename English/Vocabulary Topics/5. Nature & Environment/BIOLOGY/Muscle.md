@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Muscle
 *noun*
 > /ˈmʌs.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Muscle::Cơ, cơ bắp *(Phát âm: /ˈmʌs.əl/)* ![[muscle.mp3]]<br><br>👪 **Word Family:** muscular, muscularity<br><br>💬 **Ví dụ:** He goes to the gym to build muscle.<br>*(-> Anh ấy đi tập gym để xây dựng cơ bắp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A band or bundle of fibrous tissue in a human or animal body that has the ability to contract, producing movement in or maintaining the position of parts of the body.

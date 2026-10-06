@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Commandeer
 *verb*
 > /ˌkɒmənˈdɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Commandeer::Trưng dụng, chiếm dụng *(Phát âm: /ˌkɒmənˈdɪə(r)/)* ![[commandeer.mp3]]<br><br>💬 **Ví dụ:** The soldiers commandeered the school for their camp.<br>*(-> Những người lính đã trưng dụng ngôi trường để làm trại của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To officially take possession of something especially for military or commercial/public use; take control of.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Autopsy
 *noun*
 > /ˈɔː.tɒp.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Autopsy::Khám nghiệm tử thi *(Phát âm: /ˈɔː.tɒp.si/)* ![[autopsy.mp3]]<br><br>👪 **Word Family:** autopsy (v-informal), post-mortem (syn)<br><br>💬 **Ví dụ:** The doctor requested an autopsy to determine why the patient died suddenly.<br>*(-> Bác sĩ yêu cầu khám nghiệm tử thi để xác định tại sao bệnh nhân đột ngột qua đời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A post-mortem examination of a body to determine the cause of death.

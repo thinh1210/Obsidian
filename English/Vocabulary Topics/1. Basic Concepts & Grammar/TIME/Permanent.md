@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Permanent
 *adj.*
 > /ˈpɜːmənənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Permanent::Vĩnh viễn, lâu dài *(Phát âm: /ˈpɜːmənənt/)* ![[permanent.mp3]]<br><br>👪 **Word Family:** permanently (adv.)<br><br>💬 **Ví dụ:** I am looking for a permanent job.<br>*(-> Tôi đang tìm một công việc lâu dài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting or intended to last or remain unchanged indefinitely

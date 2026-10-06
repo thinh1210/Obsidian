@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Ambiguity
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - vagueness, obscurity, uncertainty
+
+
+## 🗂️ Flashcard
+Ambiguity::Sự mơ hồ, sự không rõ ràng, tối nghĩa *(Phát âm: /ˌæm.bɪˈɡjuː.ə.ti/)* ![[ambiguity.mp3]]<br><br>👪 **Word Family:** [Noun]: ambiguity, [Adj]: ambiguous, [Adv]: ambiguously<br><br>💬 **Ví dụ:** The contract was drafted with a lot of ambiguity.<br>*(-> Hợp đồng được soạn thảo với rất nhiều điểm mơ hồ.)*

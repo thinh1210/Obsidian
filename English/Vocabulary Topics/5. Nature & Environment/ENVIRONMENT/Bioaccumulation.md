@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Bioaccumulation
 *n.*
 > /ˌbaɪəʊəˌkjuːmjəˈleɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Bioaccumulation::Sự tích tụ sinh học *(Phát âm: /ˌbaɪəʊəˌkjuːmjəˈleɪʃn/)* ![[bioaccumulation.mp3]]<br><br>👪 **Word Family:** bioaccumulate (v), bioaccumulative (adj)<br><br>💬 **Ví dụ:** Bioaccumulation of mercury in fish poses a risk to human health.<br>*(-> Sự tích tụ sinh học của thủy ngân trong cá gây ra rủi ro cho sức khỏe con người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The accumulation of substances, such as pesticides, or other chemicals in an organism.

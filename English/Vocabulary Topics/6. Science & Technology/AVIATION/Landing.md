@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Landing
 *noun*
 > /ˈlæn.dɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Landing::Sự hạ cánh *(Phát âm: /ˈlæn.dɪŋ/)* ![[landing.mp3]]<br><br>👪 **Word Family:** land (v), takeoff (n), airstrip (n)<br><br>💬 **Ví dụ:** The pilot made a very smooth landing despite the strong wind.<br>*(-> Phi công hạ cánh rất êm dù gió mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of coming down through the air and touching the ground.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Meteor
 *noun*
 > /ˈmiː.ti.ɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Meteor::Sao băng, thiên thạch *(Phát âm: /ˈmiː.ti.ɔːr/)* ![[meteor.mp3]]<br><br>👪 **Word Family:** meteoric (adj), meteorite (n)<br><br>💬 **Ví dụ:** We stayed up late to watch the Perseid meteor shower.<br>*(-> Chúng tôi đã thức muộn để xem mưa sao băng Perseid.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small body of matter from outer space that enters the earth's atmosphere, becoming incandescent.

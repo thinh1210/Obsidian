@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Sugar
 *n.*
 > /ˈʃʊɡ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Sugar::Đường *(Phát âm: /ˈʃʊɡ.ər/)* ![[sugar.mp3]]<br><br>👪 **Word Family:** sugary<br><br>💬 **Ví dụ:** No sugar in my tea.<br>*(-> Không đường trong trà của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sweet crystalline substance obtained from various plants.

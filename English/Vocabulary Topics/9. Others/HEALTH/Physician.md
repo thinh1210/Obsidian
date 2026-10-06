@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Physician
 *n*
 > /fɪˈzɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Physician::Bác sĩ điều trị, bác sĩ đa khoa/nội khoa *(Phát âm: /fɪˈzɪʃn/)* ![[physician.mp3]]<br><br>👪 **Word Family:** physic (n)<br><br>💬 **Ví dụ:** Please consult your physician before starting any new diet program.<br>*(-> Vui lòng tham khảo ý kiến bác sĩ điều trị của bạn trước khi bắt đầu bất kỳ chương trình ăn kiêng mới nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person qualified to practice medicine, especially one who specializes in medicine rather than surgery.

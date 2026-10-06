@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Alleviate
 *v*
 > /əˈliːvieɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Alleviate::Làm giảm bớt, làm nhẹ bớt *(Phát âm: /əˈliːvieɪt/)* ![[alleviate.mp3]]<br><br>👪 **Word Family:** alleviation (n), alleviator (n)<br><br>💬 **Ví dụ:** The doctor gave her an injection to alleviate the pain.<br>*(-> Bác sĩ đã tiêm cho cô ấy một mũi tiêm để làm giảm đau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (suffering, deficiency, or a problem) less severe.

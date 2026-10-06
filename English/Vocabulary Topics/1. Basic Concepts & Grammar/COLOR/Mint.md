@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Mint
 *adj., n.*
 > /mɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Mint::Màu xanh bạc hà, xanh lục nhạt tươi mát và thanh nhã *(Phát âm: /mɪnt/)* ![[mint.mp3]]<br><br>👪 **Word Family:** minty (adj)<br><br>💬 **Ví dụ:** She decorated her study room with pastel mint green curtains and white furniture.<br>*(-> Cô ấy trang trí phòng học bằng rèm cửa màu xanh bạc hà pastel và đồ nội thất màu trắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A delicate, light green color with a cool and refreshing blue undertone.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Read
 *v.*
 > /riːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Read::Đọc *(Phát âm: /riːd/)* ![[read.mp3]]<br><br>👪 **Word Family:** reader, reading, readable<br><br>💬 **Ví dụ:** He likes to read before going to bed.<br>*(-> Anh ấy thích đọc sách trước khi đi ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at and understand the meaning of written or printed words

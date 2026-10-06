@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Precocial
 *adjective*
 > /prɪˈkəʊ.ʃəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Precocial::(Chim non) tự lập sớm (có thể tự chạy nhảy kiếm ăn ngay khi nở) *(Phát âm: /prɪˈkəʊ.ʃəl/)* ![[precocial.mp3]]<br><br>👪 **Word Family:** precocial (adj), precocity (n)<br><br>💬 **Ví dụ:** Ducks and chickens hatch precocial chicks that can walk and eat right away.<br>*(-> Vịt và gà nở ra những con non tự lập sớm, có thể đi lại và ăn uống ngay lập tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a young bird or other animal) hatched or born in an advanced state and able to feed itself almost immediately.

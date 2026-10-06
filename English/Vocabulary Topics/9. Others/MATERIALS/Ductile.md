@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Ductile
 *adjective.*
 > /ˈdʌktaɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Ductile::Dễ kéo sợi, dễ kéo dài, dễ uốn *(Phát âm: /ˈdʌktaɪl/)* ![[ductile.mp3]]<br><br>👪 **Word Family:** ductility (Noun)<br><br>💬 **Ví dụ:** Gold is the most ductile of all metals, followed by copper.<br>*(-> Vàng là kim loại dễ kéo sợi nhất trong tất cả các kim loại, tiếp theo là đồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to be deformed plastically without fracturing; specifically, capable of being drawn out into thin threads or wires.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Metabolism
 *noun*
 > /məˈtæb.əl.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Metabolism::Sự trao đổi chất *(Phát âm: /məˈtæb.əl.ɪ.zəm/)* ![[metabolism.mp3]]<br><br>👪 **Word Family:** metabolic, metabolize<br><br>💬 **Ví dụ:** Running regularly can boost your metabolism.<br>*(-> Chạy bộ thường xuyên có thể thúc đẩy sự trao đổi chất của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The chemical processes that occur within a living organism in order to maintain life.

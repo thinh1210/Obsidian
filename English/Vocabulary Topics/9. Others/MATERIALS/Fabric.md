@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Fabric
 *noun.*
 > /ˈfæbrɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Fabric::Sợi vải, cấu trúc, vải *(Phát âm: /ˈfæbrɪk/)* ![[fabric.mp3]]<br><br>👪 **Word Family:** fabricate (Verb), fabrication (Noun)<br><br>💬 **Ví dụ:** She chose a soft cotton fabric for the baby's blanket.<br>*(-> Cô ấy đã chọn một loại vải cotton mềm mại để làm chăn cho em bé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cloth or other material produced by weaving together cotton, nylon, wool, silk, or other threads.

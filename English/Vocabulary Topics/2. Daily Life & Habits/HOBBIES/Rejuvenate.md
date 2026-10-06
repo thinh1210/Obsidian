@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Rejuvenate
 *Verb*
 > /rɪˈdʒuː.vən.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Rejuvenate::Làm trẻ lại, phục hồi năng lượng *(Phát âm: /rɪˈdʒuː.vən.eɪt/)* ![[rejuvenate.mp3]]<br><br>👪 **Word Family:** Rejuvenation (Noun): Sự trẻ hóa<br><br>💬 **Ví dụ:** She felt completely rejuvenated after the spa.<br>*(-> Cô cảm thấy hoàn toàn phục hồi năng lượng sau khi đi spa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make someone look or feel young and energetic again.

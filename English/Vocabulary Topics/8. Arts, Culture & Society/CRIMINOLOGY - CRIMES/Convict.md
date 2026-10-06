@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Convict
 *verb*
 > /kənˈvɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Convict::Kết án *(Phát âm: /kənˈvɪkt/)* ![[convict.mp3]]<br><br>👪 **Word Family:** conviction (n), convict (n)<br><br>💬 **Ví dụ:** There was enough evidence to convict him of the theft.<br>*(-> Có đủ bằng chứng để kết án anh ta tội trộm cắp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To decide officially in a court of law that someone is guilty of a crime

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Football
 *n.*
 > /ˈfʊt.bɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Football::Môn thể thao vua - bóng đá 11 người trên sân cỏ *(Phát âm: /ˈfʊt.bɔːl/)* ![[football.mp3]]<br><br>👪 **Word Family:** footballer (n)<br><br>💬 **Ví dụ:** Every Saturday afternoon, our neighborhood team gathers on the turf pitch to play football.<br>*(-> Mỗi chiều Thứ Bảy, đội bóng xóm tôi lại tụ họp trên sân cỏ nhân tạo để đá bóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game played between two teams of eleven players in which each team tries to kick a ball into the other team's goal.

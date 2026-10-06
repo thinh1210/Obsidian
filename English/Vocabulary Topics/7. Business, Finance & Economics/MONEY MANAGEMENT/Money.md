@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Money
 *Noun*
 > /ˈmʌni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Money::Tiền (tiền xu hoặc tiền giấy dùng để mua đồ) *(Phát âm: /ˈmʌni/)* ![[money.mp3]]<br><br>👪 **Word Family:** Adj: monetary (thuộc tiền tệ), moneyed (giàu có)<br><br>💬 **Ví dụ:** Do you have enough money to buy dinner?<br>*(-> Bạn có đủ tiền để mua bữa tối không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coins or banknotes used to buy things.

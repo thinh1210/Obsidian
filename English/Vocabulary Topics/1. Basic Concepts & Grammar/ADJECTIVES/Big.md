@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Big
 *adj.*
 > /bɪɡ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Big::Lớn *(Phát âm: /bɪɡ/)* ![[big.mp3]]<br><br>👪 **Word Family:** bigness<br><br>💬 **Ví dụ:** A big house.<br>*(-> Ngôi nhà lớn.)*
+<!--SR:!2026-10-06,4,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of large size

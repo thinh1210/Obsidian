@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Idyllic
 *adjective*
 > /ɪˈdɪl.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Idyllic::Bình dị, tuyệt đẹp *(Phát âm: /ɪˈdɪl.ɪk/)* ![[idyllic.mp3]]<br><br>👪 **Word Family:** Idyll<br><br>💬 **Ví dụ:** An idyllic holiday in the sun.<br>*(-> Một kỳ nghỉ bình dị dưới nắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very beautiful, happy, and peaceful, with no problems

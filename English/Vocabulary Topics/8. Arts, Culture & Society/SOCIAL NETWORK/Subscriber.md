@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Subscriber
 *noun*
 > /səbˈskraɪbə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Subscriber::Người đăng ký theo dõi *(Phát âm: /səbˈskraɪbə(r)/)* ![[subscriber.mp3]]<br><br>👪 **Word Family:** subscribe (v), subscription (n)<br><br>💬 **Ví dụ:** The YouTuber thanked his subscribers for reaching the one million milestone.<br>*(-> YouTuber đã cảm ơn những người đăng ký của mình vì đã đạt mốc một triệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who pays or registers to receive regular updates from a channel or page

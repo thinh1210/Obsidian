@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Equestrianism
 *n*
 > /ɪˈkwestriənɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Equestrianism::Môn cưỡi ngựa *(Phát âm: /ɪˈkwestriənɪzəm/)* ![[equestrianism.mp3]]<br><br>👪 **Word Family:** Equestrian (adj/n)<br><br>💬 **Ví dụ:** She has a passion for equestrianism.<br>*(-> Cô ấy có niềm đam mê với môn cưỡi ngựa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The skill or sport of horse riding.

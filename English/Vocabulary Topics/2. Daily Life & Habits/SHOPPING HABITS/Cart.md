@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Cart
 *n.*
 > /kɑːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Cart::Xe đẩy chở hàng khi đi mua sắm, hoặc giỏ hàng trực tuyến *(Phát âm: /kɑːt/)* ![[cart.mp3]]<br><br>👪 **Word Family:** cart (v)<br><br>💬 **Ví dụ:** He loaded his shopping cart with dairy products, fresh vegetables, and snacks.<br>*(-> Anh ấy chất đầy xe đẩy mua sắm với các sản phẩm từ sữa, rau tươi và đồ ăn nhẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wheeled shopping container pushed by customers; also an online basket.

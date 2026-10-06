@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Tax
 *noun.*
 > /tæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Tax::Thuế *(Phát âm: /tæks/)* ![[tax.mp3]]<br><br>👪 **Word Family:** taxation (noun), taxpayer (noun), taxable (adj)<br><br>💬 **Ví dụ:** The government plans to increase tax on luxury cars.<br>*(-> Chính phủ có kế hoạch tăng thuế đối với xe hơi sang trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money paid to the government, which is based on your income or the cost of goods.

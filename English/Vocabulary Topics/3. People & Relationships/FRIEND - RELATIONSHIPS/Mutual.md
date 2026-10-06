@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Mutual
 *adj*
 > /ˈmjuː.tʃu.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Mutual::Lẫn nhau, chung *(Phát âm: /ˈmjuː.tʃu.əl/)* ![[mutual.mp3]]<br><br>👪 **Word Family:** mutually<br><br>💬 **Ví dụ:** Mutual respect is the foundation of their friendship.<br>*(-> Sự tôn trọng lẫn nhau là nền tảng của tình bạn của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of a feeling or action) experienced or done by each of two or more parties toward the other or others.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Cognitive
 *adj.*
 > /ˈkɒɡnətɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Cognitive::Thuộc về nhận thức *(Phát âm: /ˈkɒɡnətɪv/)* ![[cognitive.mp3]]<br><br>👪 **Word Family:** cognition, cognitively, cognizable<br><br>💬 **Ví dụ:** Reading improves children's cognitive skills.<br>*(-> Việc đọc sách cải thiện các kỹ năng nhận thức của trẻ em.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the mental process of acquiring knowledge and understanding

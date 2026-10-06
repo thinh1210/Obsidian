@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Persevere
 *v.*
 > /ˌpɜː.sɪˈvɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Persevere::Kiên trì, bền chí *(Phát âm: /ˌpɜː.sɪˈvɪər/)* ![[persevere.mp3]]<br><br>👪 **Word Family:** perseverance, persevering<br><br>💬 **Ví dụ:** Despite the difficulties, she persevered with her project.<br>*(-> Mặc dù gặp khó khăn, cô ấy vẫn kiên trì với dự án của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To continue in a course of action even in the face of difficulty or with little or no prospect of success

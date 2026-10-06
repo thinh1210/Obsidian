@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Assimilate
 *v.*
 > /əˈsɪmɪleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Assimilate::Đồng hóa, tiếp thu hoàn toàn kiến thức *(Phát âm: /əˈsɪmɪleɪt/)* ![[assimilate.mp3]]<br><br>👪 **Word Family:** assimilation<br><br>💬 **Ví dụ:** Students need time to assimilate new concepts before the exam.<br>*(-> Sinh viên cần thời gian để tiếp thu các khái niệm mới trước kỳ thi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take in information, ideas, or culture and understand fully

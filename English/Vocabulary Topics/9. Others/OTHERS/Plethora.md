@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Plethora
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - abundance, excess, surplus
+
+
+## 🗂️ Flashcard
+Plethora::Sự quá nhiều, trạng thái thừa thãi *(Phát âm: /ˈpleθ.ər.ə/)* ![[plethora.mp3]]<br><br>👪 **Word Family:** [Noun]: plethora, [Adj]: plethoric<br><br>💬 **Ví dụ:** There is a plethora of choices available to consumers today.<br>*(-> Có vô số sự lựa chọn dành cho người tiêu dùng ngày nay.)*

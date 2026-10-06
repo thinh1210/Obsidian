@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Corridor
 *noun*
 > /ˈkɔːrɪdɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Corridor::Hành lang *(Phát âm: /ˈkɔːrɪdɔːr/)* ![[corridor.mp3]]<br><br>👪 **Word Family:** **Synonyms:** hallway, passage<br><br>💬 **Ví dụ:** His office is at the end of the corridor.<br>*(-> Văn phòng của anh ấy ở cuối hành lang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long passage in a building from which doors lead into rooms.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** hallway, passage
-**Antonyms:** 
+**Antonyms:**

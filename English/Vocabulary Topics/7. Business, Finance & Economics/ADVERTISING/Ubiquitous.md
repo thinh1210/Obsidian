@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Ubiquitous
 *adjective*
 > /juːˈbɪkwɪtəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
+
+## 🗂️ Flashcard
+Ubiquitous::Nhan nhản, có mặt khắp nơi *(Phát âm: /juːˈbɪkwɪtəs/)* ![[ubiquitous.mp3]]<br><br>👪 **Word Family:** ubiquity (noun), ubiquitously (adverb)<br><br>💬 **Ví dụ:** Mobile phones have become ubiquitous in daily life.<br>*(-> Điện thoại di động đã trở nên phổ biến khắp mọi nơi trong cuộc sống hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Present, appearing, or found everywhere.

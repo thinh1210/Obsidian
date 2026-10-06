@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Trophy
 *n.*
 > /ˈtrəʊ.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Trophy::Cúp, cúp vô địch *(Phát âm: /ˈtrəʊ.fi/)* ![[trophy.mp3]]<br><br>👪 **Word Family:** trophies<br><br>💬 **Ví dụ:** The team proudly displayed their championship trophy.<br>*(-> Cả đội tự hào trưng bày chiếc cúp vô địch của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cup or other decorative object awarded as a prize for a victory or success.

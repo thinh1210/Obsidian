@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Light
 *n.*
 > /laɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Light::Ánh sáng *(Phát âm: /laɪt/)* ![[light.mp3]]<br><br>👪 **Word Family:** lighting, lighten<br><br>💬 **Ví dụ:** There isn't enough light in this room to shoot.<br>*(-> Trong phòng này không đủ ánh sáng để quay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural agent that stimulates sight and makes things visible, or artificial lighting in film

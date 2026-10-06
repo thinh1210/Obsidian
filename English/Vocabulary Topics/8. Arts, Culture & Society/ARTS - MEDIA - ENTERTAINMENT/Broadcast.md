@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Broadcast
 *v.*
 > /ˈbrɔːdkɑːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Broadcast::Phát sóng, phát thanh *(Phát âm: /ˈbrɔːdkɑːst/)* ![[broadcast.mp3]]<br><br>👪 **Word Family:** broadcaster, broadcasting<br><br>💬 **Ví dụ:** The concert will be broadcast live tomorrow night.<br>*(-> Buổi hòa nhạc sẽ được phát sóng trực tiếp vào tối mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Transmit (a program or information) by radio or television.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Astronaut
 *Noun*
 > /ˈæs.trə.nɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Astronaut::Phi hành gia *(Phát âm: /ˈæs.trə.nɔːt/)* ![[astronaut.mp3]]<br><br>👪 **Word Family:** astronautical (adj), astronautics (n)<br><br>💬 **Ví dụ:** Neil Armstrong was the first astronaut on the moon.<br>*(-> Neil Armstrong là phi hành gia đầu tiên đặt chân lên mặt trăng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is trained to travel in a spacecraft.

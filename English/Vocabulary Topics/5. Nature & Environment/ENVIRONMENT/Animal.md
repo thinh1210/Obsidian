@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Animal
 *n.*
 > /ˈænɪml/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Animal::Động vật *(Phát âm: /ˈænɪml/)* ![[animal.mp3]]<br><br>👪 **Word Family:** animalistic (adj)<br><br>💬 **Ví dụ:** Lions are wild animals.<br>*(-> Sư tử là động vật hoang dã.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.

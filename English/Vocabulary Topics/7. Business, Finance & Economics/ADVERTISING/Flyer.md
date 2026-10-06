@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Flyer
 *noun*
 > /ˈflaɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
+
+## 🗂️ Flashcard
+Flyer::Tờ rơi *(Phát âm: /ˈflaɪə(r)/)* ![[flyer.mp3]]<br><br>👪 **Word Family:** fly (verb)<br><br>💬 **Ví dụ:** She was handing out flyers on the street corner.<br>*(-> Cô ấy đang phát tờ rơi ở góc phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small handbill advertising an event or product.

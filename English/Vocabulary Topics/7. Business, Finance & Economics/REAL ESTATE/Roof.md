@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Roof
 *n.*
 > /ruːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Roof::Mái nhà *(Phát âm: /ruːf/)* ![[roof.mp3]]<br><br>👪 **Word Family:** roofing (n), roofless (adj)<br><br>💬 **Ví dụ:** The roof of the house was damaged during the heavy storm.<br>*(-> Mái nhà đã bị hư hại trong cơn bão lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The structure forming the upper covering of a building or vehicle.

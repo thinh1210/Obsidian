@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Colleague
 *n.*
 > /ˈkɒl.iːɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Colleague::Đồng nghiệp *(Phát âm: /ˈkɒl.iːɡ/)* ![[colleague.mp3]]<br><br>👪 **Word Family:** Colleagueship<br><br>💬 **Ví dụ:** I am having lunch with a colleague.<br>*(-> Tôi đang ăn trưa với một đồng nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person with whom one works.

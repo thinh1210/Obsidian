@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Recruit
 *v.*
 > /rɪˈkruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Recruit::Tuyển dụng, chiêu mộ *(Phát âm: /rɪˈkruːt/)* ![[recruit.mp3]]<br><br>👪 **Word Family:** recruitment, recruiter<br><br>💬 **Ví dụ:** The club is trying to recruit new members.<br>*(-> Câu lạc bộ đang cố gắng tuyển dụng thành viên mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To enlist someone in the armed forces or general workforce

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Decentralization
 *noun*
 > /diːˌsen.trə.laɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Decentralization::Phi tập trung hóa *(Phát âm: /diːˌsen.trə.laɪˈzeɪ.ʃən/)* ![[decentralization.mp3]]<br><br>👪 **Word Family:** decentralize (v), decentralized (adj), centralization (n)<br><br>💬 **Ví dụ:** Blockchain technology enables the decentralization of financial transactions.<br>*(-> Công nghệ blockchain cho phép phi tập trung hóa các giao dịch tài chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The distribution of control across a network rather than being governed by a single central authority.

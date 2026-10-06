@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Reform
 *n/v*
 > /rɪˈfɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Reform::Cải cách / cải tổ *(Phát âm: /rɪˈfɔːm/)* ![[reform.mp3]]<br><br>👪 **Word Family:** reformer (n), reformist (n/adj), reformed (adj)<br><br>💬 **Ví dụ:** The president pledged to reform the healthcare system.<br>*(-> Tổng thống cam kết cải cách hệ thống y tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To change something in order to improve it, especially a law or social system.

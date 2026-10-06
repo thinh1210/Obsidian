@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Innocent
 *adjective*
 > /ˈɪn.ə.sənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Innocent::Vô tội, ngây thơ *(Phát âm: /ˈɪn.ə.sənt/)* ![[innocent.mp3]]<br><br>👪 **Word Family:** Innocent (adj/n), Innocence (n), Innocently (adv)<br><br>💬 **Ví dụ:** The lawyer worked hard to prove that his client was innocent.<br>*(-> Luật sư đã làm việc chăm chỉ để chứng minh rằng khách hàng của mình vô tội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not guilty of a crime or offense.

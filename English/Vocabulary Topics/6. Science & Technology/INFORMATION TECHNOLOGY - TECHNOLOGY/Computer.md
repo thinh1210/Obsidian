@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Computer
 *n.*
 > /kəmˈpjuː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Computer::Máy vi tính điện tử dùng để lưu trữ, tính toán và xử lý dữ liệu *(Phát âm: /kəmˈpjuː.tər/)* ![[computer.mp3]]<br><br>👪 **Word Family:** compute (v), computation (n), computational (adj)<br><br>💬 **Ví dụ:** I spent the entire afternoon working on my computer in the coffee shop.<br>*(-> Tôi đã dành cả buổi chiều làm việc trên máy tính ở quán cà phê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electronic device for storing and processing data, typically in binary form, according to instructions given to it.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Event
 *noun*
 > /ɪˈvent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Event::Sự kiện, biến cố quan trọng *(Phát âm: /ɪˈvent/)* ![[event.mp3]]<br><br>👪 **Word Family:** eventful (adj), eventless (adj), eventually (adv)<br><br>💬 **Ví dụ:** The election was the most important event of the year.<br>*(-> Cuộc bầu cử là sự kiện quan trọng nhất trong năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that happens, especially one of importance.

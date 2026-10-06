@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Bangle
 *noun*
 > /ˈbæŋ.ɡəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Bangle::Vòng tay (cứng) *(Phát âm: /ˈbæŋ.ɡəl/)* ![[bangle.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She wears many bangles.<br>*(-> Cô ấy đeo nhiều vòng tay cứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rigid bracelet or anklet.

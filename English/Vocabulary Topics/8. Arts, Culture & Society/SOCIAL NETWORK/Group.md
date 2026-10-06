@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Group
 *noun*
 > /ɡruːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Group::Nhóm, hội nhóm *(Phát âm: /ɡruːp/)* ![[group.mp3]]<br><br>👪 **Word Family:** group (v), grouping (n)<br><br>💬 **Ví dụ:** I joined a local hiking group on Facebook to meet new people.<br>*(-> Tôi đã tham gia một nhóm đi bộ đường dài ở địa phương trên Facebook để gặp gỡ những người mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A collection of users gathered together online around a common interest or topic

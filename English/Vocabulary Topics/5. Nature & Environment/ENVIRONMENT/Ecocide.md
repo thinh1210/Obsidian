@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Ecocide
 *n.*
 > /ˈiːkəʊsaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Ecocide::Tội hủy hoại sinh thái *(Phát âm: /ˈiːkəʊsaɪd/)* ![[ecocide.mp3]]<br><br>👪 **Word Family:** ecocidal (adj)<br><br>💬 **Ví dụ:** Some activists are pushing to make ecocide an international crime.<br>*(-> Một số nhà hoạt động đang thúc đẩy việc đưa tội hủy hoại sinh thái thành một tội danh quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Destruction of the natural environment, especially when deliberate.

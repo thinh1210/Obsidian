@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Sold out
 *adj*
 > /ˌsəʊld ˈaʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Sold_out::Bán hết *(Phát âm: /ˌsəʊld ˈaʊt/)* ![[sold_out.mp3]]<br><br>👪 **Word Family:** Sell-out<br><br>💬 **Ví dụ:** The tickets are sold out.<br>*(-> Vé đã bán hết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Nothing left to sell

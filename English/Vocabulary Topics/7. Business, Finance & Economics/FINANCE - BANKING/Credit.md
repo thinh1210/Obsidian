@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Credit
 *noun.*
 > /ˈkredɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Credit::Tín dụng *(Phát âm: /ˈkredɪt/)* ![[credit.mp3]]<br><br>👪 **Word Family:** creditor (noun), creditable (adj), creditworthy (adj)<br><br>💬 **Ví dụ:** He has a bad credit score, so his loan application was rejected.<br>*(-> Anh ấy có điểm tín dụng xấu, vì vậy đơn xin vay tiền của anh ấy đã bị từ chối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A system of buying goods or services now and paying for them in the future.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Surface
 *n.*
 > /ˈsɜː.fɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Surface::Bề mặt *(Phát âm: /ˈsɜː.fɪs/)* ![[surface.mp3]]<br><br>👪 **Word Family:** Surface (v)<br><br>💬 **Ví dụ:** Wipe the surface of the table.<br>*(-> Lau bề mặt bàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outside part or uppermost layer of something.

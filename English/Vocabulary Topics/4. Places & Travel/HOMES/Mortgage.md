@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Mortgage
 *noun*
 > /ˈmɔːrɡɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Mortgage::Cầm cố, thế chấp *(Phát âm: /ˈmɔːrɡɪdʒ/)* ![[mortgage.mp3]]<br><br>👪 **Word Family:** **Synonyms:** loan<br><br>💬 **Ví dụ:** We have a 30-year mortgage on our house.<br>*(-> Chúng tôi có một khoản vay thế chấp 30 năm cho ngôi nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legal agreement by which a bank lends money in exchange for taking title of the debtor's property.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** loan
-**Antonyms:** 
+**Antonyms:**

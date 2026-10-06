@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Supernova
 *Noun*
 > /ˌsuː.pəˈnəʊ.və/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
+
+## 🗂️ Flashcard
+Supernova::Siêu tân tinh *(Phát âm: /ˌsuː.pəˈnəʊ.və/)* ![[supernova.mp3]]<br><br>👪 **Word Family:** supernovae (plural)<br><br>💬 **Ví dụ:** The band's fame was like a supernova, bright but short-lived.<br>*(-> Sự nổi tiếng của ban nhạc giống như một siêu tân tinh, rực rỡ nhưng ngắn ngủi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A star that suddenly increases greatly in brightness because of a catastrophic explosion.

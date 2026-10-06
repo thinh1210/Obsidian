@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Utter
 *verb*
 > /ˈʌt.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Utter::thốt ra, phát ra (âm thanh, lời nói) *(Phát âm: /ˈʌt.ər/)* ![[utter.mp3]]<br><br>👪 **Word Family:** utterance (n), utterly (adv)<br><br>💬 **Ví dụ:** She left the room without uttering a single word.<br>*(-> Cô ấy rời phòng mà không thốt ra một lời nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to say something or to make a sound with your voice

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Resign
 *v.*
 > /rɪˈzaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Resign::Từ chức, thôi việc tự nguyện *(Phát âm: /rɪˈzaɪn/)* ![[resign.mp3]]<br><br>👪 **Word Family:** resignation<br><br>💬 **Ví dụ:** He decided to resign from his position as CEO.<br>*(-> Anh ấy quyết định từ chức vị trí CEO của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To voluntarily leave a job or position

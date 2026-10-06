@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Ski
 *v*
 > /skiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Ski::Trượt tuyết *(Phát âm: /skiː/)* ![[ski.mp3]]<br><br>👪 **Word Family:** skiing (n), skier (n)<br><br>💬 **Ví dụ:** We are planning to ski in the Alps this winter.<br>*(-> Chúng tôi dự định trượt tuyết ở dãy Alps vào mùa đông này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move over snow on skis.

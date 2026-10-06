@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Torrential
 *adj.*
 > /təˈrenʃl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Torrential::(Mưa) như thác đổ, xối xả dữ dội *(Phát âm: /təˈrenʃl/)* ![[torrential.mp3]]<br><br>👪 **Word Family:** Torrent (noun)<br><br>💬 **Ví dụ:** The football match was postponed due to torrential rain.<br>*(-> Trận đấu bóng đá đã bị hoãn do mưa xối xả như trút nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of rain) falling rapidly and in large quantities

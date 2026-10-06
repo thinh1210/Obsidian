@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Persona
 *n.*
 > /pəˈsəʊ.nə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+44 - Persona::Vẻ bề ngoài, tính cách thể hiện ra *(Phát âm: /pəˈsəʊ.nə/)* ![[persona.mp3]]<br><br>👪 **Word Family:** Personal (adj.)<br><br>💬 **Ví dụ:** Create a persona.<br>*(-> Tạo ra một vỏ bọc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The aspect of someone's character that is presented to others.

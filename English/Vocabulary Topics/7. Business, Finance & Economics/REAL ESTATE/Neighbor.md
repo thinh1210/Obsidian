@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Neighbor
 *n.*
 > /ˈneɪbə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Neighbor::Hàng xóm *(Phát âm: /ˈneɪbə(r)/)* ![[neighbor.mp3]]<br><br>👪 **Word Family:** neighborhood (n), neighboring (adj)<br><br>💬 **Ví dụ:** Our next-door neighbor helped us water the plants while we were away.<br>*(-> Người hàng xóm sát vách đã giúp chúng tôi tưới cây khi chúng tôi đi vắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person living next door to or very near to the speaker or person referred to.

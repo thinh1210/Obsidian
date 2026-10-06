@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Absurdism
 *n.*
 > /əbˈsɜː.dɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Absurdism::Chủ nghĩa phi lý *(Phát âm: /əbˈsɜː.dɪ.zəm/)* ![[absurdism.mp3]]<br><br>👪 **Word Family:** absurdist, absurd, absurdity<br><br>💬 **Ví dụ:** Laughing at the chaos of life is a way of practicing absurdism.<br>*(-> Cười nhạo sự hỗn loạn của cuộc sống là một cách thực hành chủ nghĩa phi lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The belief that human beings exist in a purposeless, chaotic universe.

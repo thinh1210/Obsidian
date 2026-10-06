@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Archipelago
 *Noun*
 > /ˌɑːkɪˈpeləɡəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Archipelago::Quần đảo *(Phát âm: /ˌɑːkɪˈpeləɡəʊ/)* ![[archipelago.mp3]]<br><br>👪 **Word Family:** archipelagic<br><br>💬 **Ví dụ:** Hawaii is a volcanic archipelago in the Pacific Ocean.<br>*(-> Hawaii là một quần đảo núi lửa ở Thái Dương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extensive group of islands.

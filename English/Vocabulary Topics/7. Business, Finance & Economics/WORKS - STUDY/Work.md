@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Work
 *v.*
 > /wɜːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Work::Làm việc *(Phát âm: /wɜːk/)* ![[work.mp3]]<br><br>👪 **Word Family:** worker, workplace<br><br>💬 **Ví dụ:** He works from home on Fridays.<br>*(-> Anh ấy làm việc tại nhà vào các ngày thứ Sáu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To do activities with effort, especially as a job

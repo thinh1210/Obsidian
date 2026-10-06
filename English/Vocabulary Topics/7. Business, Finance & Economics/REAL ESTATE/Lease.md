@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Lease
 *n.*
 > /liːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Lease::Hợp đồng thuê *(Phát âm: /liːs/)* ![[lease.mp3]]<br><br>👪 **Word Family:** lessor (n), lessee (n), lease (v)<br><br>💬 **Ví dụ:** The lease on our apartment expires next month, so we need to find a new place.<br>*(-> Hợp đồng thuê căn hộ của chúng tôi hết hạn vào tháng tới, vì vậy chúng tôi cần tìm một nơi mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A contract by which one party conveys land, property, services, etc. to another for a specified time.

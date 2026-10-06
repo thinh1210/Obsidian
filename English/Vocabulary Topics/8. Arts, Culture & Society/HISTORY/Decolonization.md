@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Decolonization
 *noun*
 > /diːˌcɒl.ə.naɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
+
+## 🗂️ Flashcard
+Decolonization::Quá trình phi thực dân hóa (trao trả độc lập) *(Phát âm: /diːˌcɒl.ə.naɪˈzeɪ.ʃən/)* ![[decolonization.mp3]]<br><br>👪 **Word Family:** decolonize (v), decolonial (adj)<br><br>💬 **Ví dụ:** The decolonization of Africa took place mostly during the mid-20th century.<br>*(-> Quá trình phi thực dân hóa của châu Phi diễn ra chủ yếu vào giữa thế kỷ 20.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or process of a state withdrawing from a former colony, leaving it independent.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Fledge
 *verb*
 > /fledʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Fledge::Mọc đủ lông cánh (để bay) *(Phát âm: /fledʒ/)* ![[fledge.mp3]]<br><br>👪 **Word Family:** fledge (v), fledglings (n), fledged (adj)<br><br>💬 **Ví dụ:** The young eagles are expected to fledge by the end of July.<br>*(-> Những con đại bàng non dự kiến sẽ mọc đủ lông cánh vào cuối tháng Bảy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a young bird) to develop feathers large enough for flight.

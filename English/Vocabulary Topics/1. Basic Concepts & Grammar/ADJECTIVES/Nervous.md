@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Nervous
 *adj.*
 > /ˈnɜː.vəs/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Nervous::Hồi hộp, bồn chồn, lo lắng trước một sự việc sắp xảy ra *(Phát âm: /ˈnɜː.vəs/)* ![[nervous.mp3]]<br><br>👪 **Word Family:** nervously (adv), nervousness (n), nerve (n)<br><br>💬 **Ví dụ:** I always feel nervous before speaking in front of a large audience.<br>*(-> Tôi luôn cảm thấy hồi hộp trước khi phát biểu trước một đám đông lớn.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Worried and anxious, especially about something that will happen.

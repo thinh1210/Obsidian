@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Internship
 *noun*
 > /ˈɪntɜːnʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Internship::Kỳ thực tập, vị trí thực tập *(Phát âm: /ˈɪntɜːnʃɪp/)* ![[internship.mp3]]<br><br>👪 **Word Family:** intern (n, v)<br><br>💬 **Ví dụ:** Doing an internship helps students gain practical work experience.<br>*(-> Đi thực tập giúp sinh viên tích lũy kinh nghiệm làm việc thực tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The position of a student or trainee who works in an organization, sometimes without pay, to gain work experience.

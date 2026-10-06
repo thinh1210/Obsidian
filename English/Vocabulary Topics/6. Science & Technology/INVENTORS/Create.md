@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # create
 *v.*
 > /kriˈeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Create::Sáng tạo, tạo ra *(Phát âm: /kriˈeɪt/)* ![[create.mp3]]<br><br>👪 **Word Family:** creation (n), creative (adj), creator (n)<br><br>💬 **Ví dụ:** Musicians create beautiful melodies.<br>*(-> Các nhạc sĩ tạo ra những giai điệu đẹp đẽ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something new, or to cause something to exist

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Promotion
 *n.*
 > /prəˈməʊ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Promotion::Sự thăng cấp, đề bạt lên vị trí hoặc cấp bậc công việc cao hơn *(Phát âm: /prəˈməʊ.ʃən/)* ![[promotion.mp3]]<br><br>👪 **Word Family:** promote (v), promotional (adj)<br><br>💬 **Ví dụ:** After leading the successful product launch, she earned a well-deserved promotion to team lead.<br>*(-> Sau khi dẫn dắt đợt ra mắt sản phẩm thành công, cô ấy đã được thăng chức xứng đáng lên trưởng nhóm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of raising someone to a higher position or rank within a company or organization.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Follow
 *verb*
 > /ˈfɒləʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Follow::Theo dõi *(Phát âm: /ˈfɒləʊ/)* ![[follow.mp3]]<br><br>👪 **Word Family:** follower (n), following (n/adj)<br><br>💬 **Ví dụ:** If you like cooking, you should follow this chef.<br>*(-> Nếu bạn thích nấu ăn, bạn nên theo dõi vị đầu bếp này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To subscribe to someone's updates or posts on a social media platform

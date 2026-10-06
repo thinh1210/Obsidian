@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Perennial
 *adj.*
 > /pəˈreniəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Perennial::Sống lâu, tồn tại mãi mãi *(Phát âm: /pəˈreniəl/)* ![[perennial.mp3]]<br><br>👪 **Word Family:** perennially (adv.)<br><br>💬 **Ví dụ:** It's a perennial favorite.<br>*(-> Đó là một sự yêu thích lâu dài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting or existing for a long or apparently infinite time

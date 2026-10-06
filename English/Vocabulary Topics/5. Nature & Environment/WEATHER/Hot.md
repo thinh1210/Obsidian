@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Hot
 *adj.*
 > /hɒt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Hot::Nóng, nóng bức *(Phát âm: /hɒt/)* ![[hot.mp3]]<br><br>👪 **Word Family:** Heat (noun/verb), hotly (adv)<br><br>💬 **Ví dụ:** It is too hot to play outside today.<br>*(-> Hôm nay trời quá nóng để chơi ngoài trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a high temperature

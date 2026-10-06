@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Underwrite
 *v.*
 > /ˈʌndəraɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
+
+## 🗂️ Flashcard
+Underwrite::Đánh giá rủi ro và ký bảo hiểm *(Phát âm: /ˈʌndəraɪt/)* ![[underwrite.mp3]]<br><br>👪 **Word Family:** underwriter, underwriting<br><br>💬 **Ví dụ:** Financial firms underwrite various insurance plans for corporate clients.<br>*(-> Các công ty tài chính thực hiện việc đánh giá và chấp nhận bảo hiểm cho nhiều gói bảo hiểm của khách hàng doanh nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Accept liability under (an insurance policy), thus guaranteeing payment in case loss or damage occurs.

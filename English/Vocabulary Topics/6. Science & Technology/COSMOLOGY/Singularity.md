@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Singularity
 *Noun*
 > /ˌsɪŋ.ɡjəˈlær.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
+
+## 🗂️ Flashcard
+Singularity::Điểm kỳ dị *(Phát âm: /ˌsɪŋ.ɡjəˈlær.ə.ti/)* ![[singularity.mp3]]<br><br>👪 **Word Family:** singular (adj), singularly (adv)<br><br>💬 **Ví dụ:** She possesses a striking singularity of purpose.<br>*(-> Cô ấy sở hữu một sự kiên định độc nhất vô nhị về mục tiêu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point in spacetime where gravitational forces cause matter to have infinite density.

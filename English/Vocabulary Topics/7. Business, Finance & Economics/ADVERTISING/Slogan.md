@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Slogan
 *noun*
 > /ˈsləʊɡən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Slogan::Khẩu hiệu *(Phát âm: /ˈsləʊɡən/)* ![[slogan.mp3]]<br><br>💬 **Ví dụ:** The company's slogan is simple and memorable.<br>*(-> Khẩu hiệu của công ty rất đơn giản và dễ nhớ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short and striking or memorable phrase used in advertising.

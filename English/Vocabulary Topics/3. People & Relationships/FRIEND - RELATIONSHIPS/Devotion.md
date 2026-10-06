@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Devotion
 *n.*
 > /dɪˈvəʊ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Devotion::Sự tận tụy, lòng hết mình cống hiến và săn sóc người bạn của mình *(Phát âm: /dɪˈvəʊ.ʃən/)* ![[devotion.mp3]]<br><br>👪 **Word Family:** devote (v), devoted (adj), devotedly (adv)<br><br>💬 **Ví dụ:** Her selfless devotion to nursing her injured roommate back to health was deeply inspiring.<br>*(-> Sự tận tụy quên mình của cô khi chăm sóc người bạn cùng phòng bị thương bình phục khiến ai nấy đều cảm phục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Loyalty and love or care for someone.

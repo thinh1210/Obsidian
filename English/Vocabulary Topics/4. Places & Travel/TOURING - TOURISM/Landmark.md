@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Landmark
 *Noun*
 > /ˈlænd.mɑːrk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
+
+## 🗂️ Flashcard
+Landmark::Danh thắng, điểm mốc *(Phát âm: /ˈlænd.mɑːrk/)* ![[landmark.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The Eiffel Tower is a famous landmark in Paris.<br>*(-> Tháp Eiffel là một danh thắng nổi tiếng ở Paris.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or place that is easily recognized, especially one that you can use to judge where you are.

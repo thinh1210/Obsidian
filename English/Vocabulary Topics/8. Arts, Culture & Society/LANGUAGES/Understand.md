@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Understand
 *v.*
 > /ˌʌndəˈstænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Understand::Hiểu *(Phát âm: /ˌʌndəˈstænd/)* ![[understand.mp3]]<br><br>👪 **Word Family:** understanding, understandable<br><br>💬 **Ví dụ:** Do you understand what I mean?<br>*(-> Bạn có hiểu ý tôi không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To perceive the intended meaning of words or a speaker

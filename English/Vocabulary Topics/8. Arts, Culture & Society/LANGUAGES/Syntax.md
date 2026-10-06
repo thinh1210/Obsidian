@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Syntax
 *n.*
 > /ˈsɪntæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
+
+## 🗂️ Flashcard
+Syntax::Cú pháp, cú pháp học *(Phát âm: /ˈsɪntæks/)* ![[syntax.mp3]]<br><br>👪 **Word Family:** syntactic, syntactically<br><br>💬 **Ví dụ:** His English syntax is sometimes a bit unusual.<br>*(-> Cú pháp tiếng Anh của anh ấy đôi khi hơi bất thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of words and phrases to create well-formed sentences in a language

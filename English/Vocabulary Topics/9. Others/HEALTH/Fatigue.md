@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Fatigue
 *n*
 > /fəˈtiːɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Fatigue::Sự mệt mỏi, sự suy nhược *(Phát âm: /fəˈtiːɡ/)* ![[fatigue.mp3]]<br><br>👪 **Word Family:** fatigued (adj)<br><br>💬 **Ví dụ:** Drivers are warned not to drive when suffering from fatigue.<br>*(-> Tài xế được cảnh báo không nên lái xe khi đang bị mệt mỏi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extreme tiredness resulting from mental or physical exertion or illness.

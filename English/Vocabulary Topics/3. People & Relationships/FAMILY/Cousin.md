@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Cousin
 *noun*
 > /ˈkʌz.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Cousin::Anh chị em họ *(Phát âm: /ˈkʌz.ən/)* ![[cousin.mp3]]<br><br>👪 **Word Family:** cousinhood (n)<br><br>💬 **Ví dụ:** We are cousins.<br>*(-> Chúng tôi là anh em họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A child of your uncle or aunt.

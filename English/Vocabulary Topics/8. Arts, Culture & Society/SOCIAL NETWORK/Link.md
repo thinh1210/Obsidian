@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Link
 *noun*
 > /lɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Link::Đường dẫn, liên kết *(Phát âm: /lɪŋk/)* ![[link.mp3]]<br><br>👪 **Word Family:** link (v), linkage (n)<br><br>💬 **Ví dụ:** Can you send me the link to that article?<br>*(-> Bạn có thể gửi cho tôi đường dẫn đến bài báo đó không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A connection from one web page to another, often shared on social media

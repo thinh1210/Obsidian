@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Utility
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - usefulness, benefit, service
+
+
+## 🗂️ Flashcard
+Utility::Tiện ích, sự hữu ích *(Phát âm: /juːˈtɪl.ə.ti/)* ![[utility.mp3]]<br><br>👪 **Word Family:** [Noun]: utility, utilization, [Verb]: utilize, [Adj]: utilitarian, useful, [Adv]: usefully<br><br>💬 **Ví dụ:** The utility of this new software is questionable.<br>*(-> Sự hữu ích của phần mềm mới này còn đáng nghi ngại.)*

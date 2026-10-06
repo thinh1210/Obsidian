@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Hope
 *n./v.*
 > /həʊp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Hope::Hy vọng *(Phát âm: /həʊp/)* ![[hope.mp3]]<br><br>👪 **Word Family:** Hopeful (adj), Hopefully (adv)<br><br>💬 **Ví dụ:** I hope it doesn't rain.<br>*(-> Tôi hy vọng trời không mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of expectation and desire for a certain thing to happen.

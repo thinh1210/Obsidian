@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Innocence
 *noun*
 > /ˈɪn.ə.səns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Innocence::Sự ngây thơ *(Phát âm: /ˈɪn.ə.səns/)* ![[innocence.mp3]]<br><br>👪 **Word Family:** Innocent (adj)<br><br>💬 **Ví dụ:** I miss the innocence of childhood.<br>*(-> Tôi nhớ sự ngây thơ của tuổi thơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Lack of guile or corruption; purity.

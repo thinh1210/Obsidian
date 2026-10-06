@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Warm
 *adj.*
 > /wɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Warm::Ấm, ấm áp *(Phát âm: /wɔːm/)* ![[warm.mp3]]<br><br>👪 **Word Family:** Warmth (noun), warmly (adv), warmness (noun)<br><br>💬 **Ví dụ:** The spring weather is nice and warm.<br>*(-> Thời tiết mùa xuân thật đẹp và ấm áp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a pleasantly high temperature

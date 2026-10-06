@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Anarchy
 *n.*
 > /ˈænəki/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Anarchy::Tình trạng vô chính phủ *(Phát âm: /ˈænəki/)* ![[anarchy.mp3]]<br><br>👪 **Word Family:** anarchist, anarchic, anarchism<br><br>💬 **Ví dụ:** The fall of the government led to complete anarchy.<br>*(-> Sự sụp đổ của chính phủ đã dẫn đến tình trạng vô chính phủ hoàn toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of disorder due to absence or nonrecognition of authority

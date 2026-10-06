@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Abyss
 *noun*
 > /əˈbɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Literature | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Abyss::Vực thẳm *(Phát âm: /əˈbɪs/)* ![[abyss.mp3]]<br><br>👪 **Word Family:** Abyssal (adj.)<br><br>💬 **Ví dụ:** He felt like he was falling into an abyss.<br>*(-> Anh ấy cảm thấy như mình đang rơi xuống vực thẳm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep or seemingly bottomless chasm.

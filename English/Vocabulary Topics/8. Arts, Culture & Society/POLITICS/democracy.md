@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # democracy
 *noun*
 > /dɪˈmɑːkrəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+democracy::Nền dân chủ *(Phát âm: /dɪˈmɑːkrəsi/)* ![[democracy.mp3]]<br><br>👪 **Word Family:** democrat (n), democratic (adj), democratize (v)<br><br>💬 **Ví dụ:** I believe in democracy and the power of voting.<br>*(-> Tôi tin vào nền dân chủ và sức mạnh của việc bỏ phiếu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government by the whole population or all the eligible members of a state, typically through elected representatives.

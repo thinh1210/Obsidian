@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Ergonomic
 *adj.*
 > /ˌɜːrɡəˈnɑːmɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Ergonomic::Thuộc về công thái học (thiết kế để thoải mái và hiệu quả) *(Phát âm: /ˌɜːrɡəˈnɑːmɪk/)* ![[ergonomic.mp3]]<br><br>👪 **Word Family:** Ergonomics (n.), Ergonomically (adv.)<br><br>💬 **Ví dụ:** I bought an ergonomic chair to help with my back pain.<br>*(-> Tôi đã mua một chiếc ghế công thái học để giảm đau lưng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Designed for efficiency and comfort in the working environment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Train
 *v.*
 > /treɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Train::Đào tạo, huấn luyện *(Phát âm: /treɪn/)* ![[train.mp3]]<br><br>👪 **Word Family:** trainer, trainee, training<br><br>💬 **Ví dụ:** They train new employees for two weeks.<br>*(-> Họ đào tạo nhân viên mới trong hai tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To teach a person a particular skill or type of behavior

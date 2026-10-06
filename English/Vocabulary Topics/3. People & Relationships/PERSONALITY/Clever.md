@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Clever
 *adj.*
 > /ˈklev.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Clever::Thông minh, lanh lợi, sáng dạ và tháo vát *(Phát âm: /ˈklev.ər/)* ![[clever.mp3]]<br><br>👪 **Word Family:** cleverness (n), cleverly (adv)<br><br>💬 **Ví dụ:** The clever puppy figured out how to unlock the kitchen cupboard.<br>*(-> Chú cún thông minh đã tự tìm ra cách mở khóa tủ bếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Quick at learning and understanding things; showing intelligence or skill.

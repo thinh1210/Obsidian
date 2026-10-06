@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Masterpiece
 *n.*
 > /ˈmɑːstəpiːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Masterpiece::Kiệt tác *(Phát âm: /ˈmɑːstəpiːs/)* ![[masterpiece.mp3]]<br><br>👪 **Word Family:** master, masterly<br><br>💬 **Ví dụ:** The Mona Lisa is widely regarded as a masterpiece.<br>*(-> Bức tranh Mona Lisa được coi rộng rãi là một kiệt tác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A work of outstanding artistry, skill, or workmanship.

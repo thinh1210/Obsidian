@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Read
 *Verb*
 > /riːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Read::Đọc *(Phát âm: /riːd/)* ![[read.mp3]]<br><br>👪 **Word Family:** Reader (n), Readable (adj)<br><br>💬 **Ví dụ:** I read books.<br>*(-> Tôi đọc sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at words and understand what they mean.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Competition
 *noun*
 > /ˌkɑːmpəˈtɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Competition::Sự cạnh tranh, đối thủ cạnh tranh *(Phát âm: /ˌkɑːmpəˈtɪʃn/)* ![[competition.mp3]]<br><br>👪 **Word Family:** compete (v), competitive (adj), competitor (n)<br><br>💬 **Ví dụ:** The school swimming competition will start this Saturday morning.<br>*(-> Cuộc thi bơi lội của trường sẽ bắt đầu vào sáng thứ Bảy tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity or condition of striving to gain or win something by defeating or establishing superiority over others

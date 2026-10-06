@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Merchandising
 *n*
 > /ˈmɜː.tʃən.daɪ.zɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Merchandising::Bán hàng *(Phát âm: /ˈmɜː.tʃən.daɪ.zɪŋ/)* ![[merchandising.mp3]]<br><br>👪 **Word Family:** Merchandise<br><br>💬 **Ví dụ:** Good merchandising helps.<br>*(-> Bán hàng tốt có ích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of selling goods

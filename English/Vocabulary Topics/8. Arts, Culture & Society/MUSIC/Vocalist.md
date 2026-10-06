@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Vocalist
 *n.*
 > /ˈvəʊ.kəl.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Vocalist::Ca sĩ, người hát chính *(Phát âm: /ˈvəʊ.kəl.ɪst/)* ![[vocalist.mp3]]<br><br>👪 **Word Family:** vocal (adj), voice (n)<br><br>💬 **Ví dụ:** The band is currently searching for a new lead vocalist.<br>*(-> Ban nhạc hiện đang tìm kiếm một ca sĩ hát chính mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A singer, typically in a band or jazz group.

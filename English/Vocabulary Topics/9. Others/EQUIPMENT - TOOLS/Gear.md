@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # gear
 *noun*
 > /ɡɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Gear::bánh răng, trang bị, đồ dùng *(Phát âm: /ɡɪər/)* ![[gear.mp3]]<br><br>👪 **Word Family:** Noun: gear (trang bị), gearbox (hộp số), Verb: gear (bắt khớp bánh răng, điều chỉnh hướng vào)<br><br>💬 **Ví dụ:** Don't forget to pack your wet-weather gear.<br>*(-> Đừng quên mang theo đồ dùng đi mưa của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** equipment, clothes, or tools used for a particular purpose; also, a toothed wheel in a machine.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Conscious
 *adj*
 > /ˈkɑːn.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Conscious::Tỉnh táo, có ý thức *(Phát âm: /ˈkɑːn.ʃəs/)* ![[conscious.mp3]]<br><br>👪 **Word Family:** consciousness (noun)<br><br>💬 **Ví dụ:** The patient is now conscious.<br>*(-> Bệnh nhân hiện đã tỉnh táo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Aware of and responding to one's surroundings; awake.

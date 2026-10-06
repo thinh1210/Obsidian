@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Oxygen
 *noun*
 > /ˈɒk.sɪ.dʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Oxygen::Khí oxy *(Phát âm: /ˈɒk.sɪ.dʒən/)* ![[oxygen.mp3]]<br><br>👪 **Word Family:** oxygenate (v), oxygenated (adj)<br><br>💬 **Ví dụ:** Humans need oxygen to breathe and survive.<br>*(-> Con người cần oxy để thở và sinh tồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical element with atomic number 8, a colorless, odorless reactive gas that is essential for life.

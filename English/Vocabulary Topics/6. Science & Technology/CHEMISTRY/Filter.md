@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Filter
 *verb*
 > /ˈfɪl.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Filter::Lọc *(Phát âm: /ˈfɪl.tər/)* ![[filter.mp3]]<br><br>👪 **Word Family:** filtration (n), filter (n)<br><br>💬 **Ví dụ:** You should filter tap water before drinking it.<br>*(-> Bạn nên lọc nước máy trước khi uống nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To pass (a liquid, gas, light, or sound) through a device to remove unwanted substances.

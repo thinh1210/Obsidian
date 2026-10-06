@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Alleviate
 *Verb*
 > /əˈliː.vi.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Alleviate::Làm giảm bớt *(Phát âm: /əˈliː.vi.eɪt/)* ![[alleviate.mp3]]<br><br>👪 **Word Family:** Alleviation (n)<br><br>💬 **Ví dụ:** This pill alleviates pain.<br>*(-> Viên thuốc này giúp giảm đau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something bad such as pain or problems less severe.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Wildlife
 *n.*
 > /ˈwaɪldlaɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Wildlife::Động vật hoang dã *(Phát âm: /ˈwaɪldlaɪf/)* ![[wildlife.mp3]]<br><br>👪 **Word Family:** wild (adj)<br><br>💬 **Ví dụ:** The national park is home to a variety of wildlife.<br>*(-> Công viên quốc gia là nhà của nhiều loài động vật hoang dã.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Wild animals collectively; the native fauna (and sometimes flora) of a region.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Tsunami
 *noun*
 > /tsuːˈnɑː.mi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Tsunami::Sóng thần *(Phát âm: /tsuːˈnɑː.mi/)* ![[tsunami.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The coastal town was completely destroyed by the tsunami.<br>*(-> Thị trấn ven biển đã bị phá hủy hoàn toàn bởi sóng thần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extremely large wave caused by a violent movement of the earth under the sea.

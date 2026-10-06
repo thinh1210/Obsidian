@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Proliferation
 *n*
 > /prəˌlɪf.ərˈeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Proliferation::Sự gia tăng nhanh chóng, sinh sôi nảy nở *(Phát âm: /prəˌlɪf.ərˈeɪ.ʃən/)* ![[proliferation.mp3]]<br><br>👪 **Word Family:** Proliferate (v)<br><br>💬 **Ví dụ:** There's been a proliferation of fake news online.<br>*(-> Đã có sự gia tăng nhanh chóng của tin tức giả mạo trên mạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact of something increasing a lot and suddenly in number or amount.

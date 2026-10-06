@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Cosmic
 *adjective*
 > /ˈcɒz.mɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Cosmic::Thuộc vũ trụ *(Phát âm: /ˈcɒz.mɪk/)* ![[cosmic.mp3]]<br><br>👪 **Word Family:** cosmos (n), cosmically (adv)<br><br>💬 **Ví dụ:** Our daily problems seem small compared to cosmic events.<br>*(-> Những vấn đề hàng ngày của chúng ta có vẻ nhỏ bé so với các sự kiện vũ trụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the universe or cosmos, especially as distinct from the earth.

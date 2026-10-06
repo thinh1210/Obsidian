@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Famine
 *noun*
 > /ˈfæm.ɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
+
+## 🗂️ Flashcard
+Famine::Nạn đói *(Phát âm: /ˈfæm.ɪn/)* ![[famine.mp3]]<br><br>👪 **Word Family:** famish (v), famished (adj)<br><br>💬 **Ví dụ:** Drought and war resulted in a severe famine across the country.<br>*(-> Hạn hán và chiến tranh đã dẫn đến nạn đói nghiêm trọng trên cả nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extreme shortage of food in a region.

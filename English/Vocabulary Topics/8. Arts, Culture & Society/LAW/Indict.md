@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Indict
 *verb*
 > /ɪnˈdaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Indict::Truy tố, buộc tội chính thức (bởi đại bồi thẩm đoàn) *(Phát âm: /ɪnˈdaɪt/)* ![[indict.mp3]]<br><br>👪 **Word Family:** Indict (v), Indictment (n), Indictable (adj)<br><br>💬 **Ví dụ:** The grand jury decided to indict the politician on three counts of corruption.<br>*(-> Đại bồi thẩm đoàn quyết định truy tố vị chính trị gia về ba tội danh tham nhũng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Formally accuse of or charge with a serious crime.

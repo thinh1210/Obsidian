@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Border
 *n*
 > /ˈbɔː.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Border::Biên giới *(Phát âm: /ˈbɔː.dər/)* ![[border.mp3]]<br><br>👪 **Word Family:** borderline (n/adj), bordering (adj)<br><br>💬 **Ví dụ:** Tourists must show their passports at the border.<br>*(-> Du khách phải trình hộ chiếu tại biên giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The line dividing two countries or regions.

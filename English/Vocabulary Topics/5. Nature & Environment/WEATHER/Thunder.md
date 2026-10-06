@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Thunder
 *noun*
 > /ˈθʌndə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Thunder::Tiếng sấm, sấm sét *(Phát âm: /ˈθʌndə(r)/)* ![[thunder.mp3]]<br><br>👪 **Word Family:** Thunderous (adj), thundery (adj), thunder (verb)<br><br>💬 **Ví dụ:** The sound of thunder scared the puppy.<br>*(-> Tiếng sấm rền đã làm chú chó con sợ hãi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The loud noise that you hear after a flash of lightning

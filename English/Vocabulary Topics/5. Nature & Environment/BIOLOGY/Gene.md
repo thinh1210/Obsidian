@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Gene
 *noun*
 > /dʒiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Gene::Gen (di truyền) *(Phát âm: /dʒiːn/)* ![[gene.mp3]]<br><br>👪 **Word Family:** genetic, genetics, genetically<br><br>💬 **Ví dụ:** She inherited the gene for blue eyes from her mother.<br>*(-> Cô ấy thừa hưởng gen mắt xanh từ mẹ cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A unit of heredity which is transferred from a parent to offspring and is held to determine some characteristic of the offspring.

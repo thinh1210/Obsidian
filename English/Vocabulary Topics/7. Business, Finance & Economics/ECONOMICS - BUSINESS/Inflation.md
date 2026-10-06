@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Inflation
 *noun*
 > /ɪnˈfleɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Inflation::lạm phát *(Phát âm: /ɪnˈfleɪʃn/)* ![[inflation.mp3]]<br><br>👪 **Word Family:** inflate (verb), inflationary (adjective)<br><br>💬 **Ví dụ:** Because of inflation, the same amount of groceries costs much more than last year.<br>*(-> Vì lạm phát, cùng một lượng hàng tạp hóa có giá cao hơn nhiều so với năm ngoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a general, continuous increase in prices of goods and services, which reduces the purchasing power of money.

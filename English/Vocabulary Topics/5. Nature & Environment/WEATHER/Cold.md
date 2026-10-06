@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Cold
 *adj.*
 > /kəʊld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Cold::Lạnh, lạnh lẽo *(Phát âm: /kəʊld/)* ![[cold.mp3]]<br><br>👪 **Word Family:** Coldness (noun), coldly (adv)<br><br>💬 **Ví dụ:** Make sure to wear a coat, it's very cold.<br>*(-> Nhớ mặc áo khoác vào, trời rất lạnh đấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a low temperature; not warm

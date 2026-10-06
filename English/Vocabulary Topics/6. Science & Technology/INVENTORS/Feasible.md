@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # feasible
 *adj.*
 > /ˈfiː.zə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Feasible::Khả thi *(Phát âm: /ˈfiː.zə.bəl/)* ![[feasible.mp3]]<br><br>👪 **Word Family:** feasibility (n), feasibly (adv)<br><br>💬 **Ví dụ:** It is no longer feasible to complete the project on time.<br>*(-> Việc hoàn thành dự án đúng hạn không còn khả thi nữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Possible to do easily or conveniently; likely to work

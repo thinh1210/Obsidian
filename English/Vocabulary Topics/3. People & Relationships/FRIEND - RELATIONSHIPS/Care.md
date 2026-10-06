@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Care
 *verb/noun*
 > /ker/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Care::Quan tâm *(Phát âm: /ker/)* ![[care.mp3]]<br><br>👪 **Word Family:** caring<br><br>💬 **Ví dụ:** I care about you.<br>*(-> Tôi quan tâm đến bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feel concern or interest; attach importance to something.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Chronic
 *adj*
 > /ˈkrɒnɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Chronic::Mãn tính (bệnh), kinh niên *(Phát âm: /ˈkrɒnɪk/)* ![[chronic.mp3]]<br><br>👪 **Word Family:** chronically (adv), chronicity (n)<br><br>💬 **Ví dụ:** He suffers from chronic back pain due to a sports injury.<br>*(-> Anh ấy phải chịu đựng những cơn đau lưng mãn tính do chấn thương thể thao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of an illness) persisting for a long time or constantly recurring.

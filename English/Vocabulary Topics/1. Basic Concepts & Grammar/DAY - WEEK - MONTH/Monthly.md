@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Monthly
 *adj, adv*
 > /ˈmʌnθli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Monthly::Hằng tháng *(Phát âm: /ˈmʌnθli/)* ![[monthly.mp3]]<br><br>👪 **Word Family:** month (n)<br><br>💬 **Ví dụ:** We pay the rent monthly.<br>*(-> Chúng tôi trả tiền thuê nhà hằng tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done, produced, or occurring once a month.

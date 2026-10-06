@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Anachronistic
 *adj.*
 > /əˌnækrəˈnɪstɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Anachronistic::Sai thời đại, lỗi thời, không hợp thời *(Phát âm: /əˌnækrəˈnɪstɪk/)* ![[anachronistic.mp3]]<br><br>👪 **Word Family:** anachronism, anachronistically<br><br>💬 **Ví dụ:** The modern furniture looks anachronistic in this medieval castle.<br>*(-> Đồ nội thất hiện đại trông có vẻ sai thời đại trong tòa lâu đài trung cổ này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Belonging or appropriate to a period other than that in which it exists

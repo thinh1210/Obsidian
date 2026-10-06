@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Suspender
 *noun*
 > /səˈspendə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Suspender::Dây đeo quần *(Phát âm: /səˈspendə(r)/)* ![[suspender.mp3]]<br><br>👪 **Word Family:** Suspend (v)<br><br>💬 **Ví dụ:** He wore a bow tie and suspenders to the party.<br>*(-> Anh ấy đeo nơ và dây đeo quần đến bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pair of straps that pass over the shoulders and fasten to the top of trousers to hold them up.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Trunk
 *n.*
 > /trʌŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Trunk::Thân cây gỗ lớn, phần trụ cột chính nâng đỡ toàn bộ cành lá của cây *(Phát âm: /trʌŋk/)* ![[trunk.mp3]]<br><br>👪 **Word Family:** trunkline (n)<br><br>💬 **Ví dụ:** Two children could barely wrap their arms around the ancient oak tree's trunk.<br>*(-> Hai đứa trẻ hầu như không thể ôm xuể thân cây sồi cổ thụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main woody stem of a tree as distinct from its branches and roots.

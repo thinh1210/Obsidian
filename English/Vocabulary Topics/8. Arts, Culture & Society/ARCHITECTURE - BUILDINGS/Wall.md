@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Wall
 *n.*
 > /wɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Wall::Bức tường *(Phát âm: /wɔːl/)* ![[wall.mp3]]<br><br>👪 **Word Family:** wallpaper<br><br>💬 **Ví dụ:** He hung the painting on the living room wall.<br>*(-> Anh ấy đã treo bức tranh lên tường phòng khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A continuous upright structure of brick or stone that encloses or divides an area

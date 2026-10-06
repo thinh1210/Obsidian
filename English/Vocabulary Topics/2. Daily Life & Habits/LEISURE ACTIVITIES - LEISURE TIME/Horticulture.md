@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Horticulture
 *n*
 > /ˈhɔːtɪkʌltʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Horticulture::Nghề làm vườn *(Phát âm: /ˈhɔːtɪkʌltʃə(r)/)* ![[horticulture.mp3]]<br><br>👪 **Word Family:** Horticultural (adj)<br><br>💬 **Ví dụ:** She has a degree in horticulture.<br>*(-> Cô ấy có bằng cấp về nghề làm vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of garden cultivation and management.

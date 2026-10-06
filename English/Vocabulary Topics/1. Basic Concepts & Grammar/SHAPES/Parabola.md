@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Parabola
 *n.*
 > /pəˈræb.əl.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Parabola::Hình parabol *(Phát âm: /pəˈræb.əl.ə/)* ![[parabola.mp3]]<br><br>👪 **Word Family:** Parabolic (adj)<br><br>💬 **Ví dụ:** The ball followed a parabola through the air.<br>*(-> Quả bóng bay theo đường parabol trong không trung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A symmetrical open plane curve formed by the intersection of a cone with a plane parallel to its side.

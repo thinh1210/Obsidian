@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Cockpit
 *noun*
 > /ˈkɒk.pɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Cockpit::Buồng lái *(Phát âm: /ˈkɒk.pɪt/)* ![[cockpit.mp3]]<br><br>👪 **Word Family:** flight deck (n), cabin (n)<br><br>💬 **Ví dụ:** The pilot invited the young boy to visit the cockpit before landing.<br>*(-> Phi công mời cậu bé vào thăm buồng lái trước khi hạ cánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The area at the front of an aircraft where the pilot sits and operates the controls.

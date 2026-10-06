@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Attraction
 *n.*
 > /əˈtrækʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
+
+## 🗂️ Flashcard
+Attraction::Điểm tham quan hấp dẫn mời gọi lượng lớn khách du lịch ghé thăm *(Phát âm: /əˈtrækʃn/)* ![[attraction.mp3]]<br><br>👪 **Word Family:** attract (v), attractive (adj), attractiveness (n)<br><br>💬 **Ví dụ:** The Eiffel Tower remains one of the world's most visited tourist attractions.<br>*(-> Tháp Eiffel vẫn luôn là một trong những điểm danh thắng đón nhiều khách nhất hành tinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place of interest that people visit, typically for its cultural value, historical significance, or natural beauty.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Supercell
 *noun*
 > /ˈsuː.pə.sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Supercell::Siêu dông, đám mây dông khổng lồ có xoáy *(Phát âm: /ˈsuː.pə.sel/)* ![[supercell.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** A massive supercell formed over Kansas, prompting immediate tornado warnings.<br>*(-> Một siêu dông khổng lồ hình thành trên bầu trời Kansas, ngay lập tức kích hoạt cảnh báo lốc xoáy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of producing severe thunderstorms, featuring rotating updrafts, often producing tornadoes.

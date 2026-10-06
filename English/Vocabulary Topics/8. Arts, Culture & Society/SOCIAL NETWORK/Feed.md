@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Feed
 *noun*
 > /fiːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Feed::Bảng tin, luồng tin *(Phát âm: /fiːd/)* ![[feed.mp3]]<br><br>👪 **Word Family:** feed (v), feedback (n)<br><br>💬 **Ví dụ:** I spend hours just scrolling through my news feed every morning.<br>*(-> Tôi dành hàng giờ chỉ để cuộn xem bảng tin tin tức của mình mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A constantly updating list of new content and posts on a social media homepage

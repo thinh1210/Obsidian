@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Textbook
 *n.*
 > /ˈtekst.bʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Textbook::Sách giáo khoa, giáo trình *(Phát âm: /ˈtekst.bʊk/)* ![[textbook.mp3]]<br><br>👪 **Word Family:** textbook (n)<br><br>💬 **Ví dụ:** Don't forget to bring your textbook to class.<br>*(-> Đừng quên mang sách giáo khoa đến lớp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A book used for studying a subject at school or university.

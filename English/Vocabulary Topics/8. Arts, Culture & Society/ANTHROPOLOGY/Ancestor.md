@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Ancestor
 *n.*
 > /ˈæn.ses.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Ancestor::Tổ tiên *(Phát âm: /ˈæn.ses.tər/)* ![[ancestor.mp3]]<br><br>👪 **Word Family:** ancestral, ancestry<br><br>💬 **Ví dụ:** My ancestors came from Scotland.<br>*(-> Tổ tiên của tôi đến từ Scotland.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person, typically one more remote than a grandparent, from whom one is descended.

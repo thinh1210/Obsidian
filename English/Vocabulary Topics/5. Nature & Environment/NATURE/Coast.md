@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Coast
 *n.*
 > /kəʊst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Coast::Miền duyên hải, dải bờ biển trải dài dọc theo rìa lục địa *(Phát âm: /kəʊst/)* ![[coast.mp3]]<br><br>👪 **Word Family:** coastal (adj), coastline (n)<br><br>💬 **Ví dụ:** The scenic highway winds gracefully for hundreds of kilometers along the Pacific coast.<br>*(-> Tuyến đường cao tốc ngắm cảnh uốn lượn duyên dáng hàng trăm cây số dọc theo bờ biển Thái Bình Dương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of the land adjoining or near the ocean.

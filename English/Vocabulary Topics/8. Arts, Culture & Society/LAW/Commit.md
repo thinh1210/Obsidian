@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Commit
 *verb*
 > /kəˈmɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Commit::Thực hiện, phạm (tội, sai lầm) *(Phát âm: /kəˈmɪt/)* ![[commit.mp3]]<br><br>👪 **Word Family:** Commit (v), Commitment (n), Committee (n)<br><br>💬 **Ví dụ:** He didn't mean to commit a crime; he was just desperate for money.<br>*(-> Anh ta không cố ý phạm tội; anh ta chỉ đang tuyệt vọng vì tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Perpetrate or carry out a mistake, crime, or immoral act.

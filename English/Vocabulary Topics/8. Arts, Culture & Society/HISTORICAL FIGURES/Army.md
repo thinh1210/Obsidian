@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Army
 *n.*
 > /ˈɑːmi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Army::Quân đội *(Phát âm: /ˈɑːmi/)* ![[army.mp3]]<br><br>👪 **Word Family:** armed, armament<br><br>💬 **Ví dụ:** He decided to join the army after high school.<br>*(-> Anh ấy quyết định gia nhập quân đội sau khi tốt nghiệp trung học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized military force equipped for fighting on land

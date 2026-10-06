@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # hammer
 *noun*
 > /ˈhæm.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Hammer::cái búa *(Phát âm: /ˈhæm.ər/)* ![[hammer.mp3]]<br><br>👪 **Word Family:** Noun: hammer (cái búa), Verb: hammer (đóng bằng búa, gõ búa)<br><br>💬 **Ví dụ:** I need a hammer to hang this picture on the wall.<br>*(-> Tôi cần một cái búa để treo bức tranh này lên tường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool with a heavy metal head mounted at right angles at the end of a handle, used for hitting nails, shaping metal, etc.

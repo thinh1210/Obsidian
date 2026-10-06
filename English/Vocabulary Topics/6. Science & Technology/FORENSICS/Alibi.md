@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Alibi
 *noun*
 > /ˈæl.ɪ.baɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Alibi::Bằng chứng ngoại phạm *(Phát âm: /ˈæl.ɪ.baɪ/)* ![[alibi.mp3]]<br><br>👪 **Word Family:** —<br><br>💬 **Ví dụ:** His alibi checked out – he was at work when the robbery happened.<br>*(-> Bằng chứng ngoại phạm của anh ta được xác nhận – anh ta đang làm việc khi vụ cướp xảy ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Evidence that a person was elsewhere when a crime was committed.

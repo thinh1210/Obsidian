@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Vibrancy
 *n.*
 > /ˈvaɪbrənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Vibrancy::Sự sôi động, sức sống *(Phát âm: /ˈvaɪbrənsi/)* ![[vibrancy.mp3]]<br><br>👪 **Word Family:** vibrant (adj)<br><br>💬 **Ví dụ:** I love the vibrancy of this city.<br>*(-> Tôi yêu sự sôi động của thành phố này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being full of energy and life.

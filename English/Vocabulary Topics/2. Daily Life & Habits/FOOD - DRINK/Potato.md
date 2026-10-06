@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Potato
 *n.*
 > /pəˈteɪ.təʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Potato::Củ khoai tây *(Phát âm: /pəˈteɪ.təʊ/)* ![[potato.mp3]]<br><br>👪 **Word Family:** potatoes (pl)<br><br>💬 **Ví dụ:** Would you like mashed potato or steamed rice with your steak?<br>*(-> Bạn muốn dùng khoai tây nghiền hay cơm trắng với món bít tết?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A round vegetable with white or yellow flesh and a brown skin that grows underground.

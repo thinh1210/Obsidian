@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # ATM
 *n.*
 > /ˌeɪ.tiːˈem/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+ATM::Máy rút tiền tự động cho phép rút tiền mặt và kiểm tra tài khoản qua thẻ ngân hàng *(Phát âm: /ˌeɪ.tiːˈem/)* ![[atm.mp3]]<br><br>👪 **Word Family:** automated teller machine (n)<br><br>💬 **Ví dụ:** Excuse me, could you tell me where the nearest bank ATM is located around here?<br>*(-> Xin lỗi, bạn có thể chỉ cho tôi cây rút tiền ATM gần nhất ở quanh đây nằm ở đâu không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An automated teller machine that dispenses cash and performs basic financial transactions upon card insertion.

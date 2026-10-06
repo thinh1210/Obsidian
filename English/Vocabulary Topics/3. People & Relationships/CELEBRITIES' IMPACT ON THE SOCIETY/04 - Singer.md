@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Singer
 *n.*
 > /ˈsɪŋ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+04 - Singer::Ca sĩ *(Phát âm: /ˈsɪŋ.ər/)* ![[singer.mp3]]<br><br>👪 **Word Family:** Sing (v.)<br><br>💬 **Ví dụ:** He is a good singer.<br>*(-> Anh ấy là ca sĩ giỏi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sings.

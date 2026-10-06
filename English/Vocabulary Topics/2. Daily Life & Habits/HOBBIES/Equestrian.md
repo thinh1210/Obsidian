@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Equestrian
 *adj*
 > /ɪˈkwestriən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Equestrian::Thuộc về cưỡi ngựa *(Phát âm: /ɪˈkwestriən/)* ![[equestrian.mp3]]<br><br>👪 **Word Family:** Equestrianism (n), Equestrienne (n, chỉ nữ vận động viên/người cưỡi ngựa)<br><br>💬 **Ví dụ:** She spends her weekends at the local equestrian club.<br>*(-> Cô ấy dành những ngày cuối tuần tại câu lạc bộ cưỡi ngựa địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to horse riding.

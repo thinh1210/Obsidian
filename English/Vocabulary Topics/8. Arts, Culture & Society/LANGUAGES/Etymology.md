@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Etymology
 *n.*
 > /ˌetɪˈmɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
+
+## 🗂️ Flashcard
+Etymology::Từ nguyên học, nguồn gốc từ *(Phát âm: /ˌetɪˈmɒlədʒi/)* ![[etymology.mp3]]<br><br>👪 **Word Family:** etymological, etymologist<br><br>💬 **Ví dụ:** I love researching the etymology of everyday phrases.<br>*(-> Tôi thích nghiên cứu nguồn gốc của các cụm từ hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the origin of words and the way in which their meanings have changed throughout history

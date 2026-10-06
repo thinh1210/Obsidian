@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Milk
 *n.*
 > /mɪlk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Milk::Sữa *(Phát âm: /mɪlk/)* ![[milk.mp3]]<br><br>👪 **Word Family:** milky<br><br>💬 **Ví dụ:** Drink your milk.<br>*(-> Uống sữa đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A white liquid produced by mammals.

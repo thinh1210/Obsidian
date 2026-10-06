@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Emperor
 *n.*
 > /ˈempərə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Emperor::Hoàng đế *(Phát âm: /ˈempərə(r)/)* ![[emperor.mp3]]<br><br>👪 **Word Family:** empire, empress, imperial<br><br>💬 **Ví dụ:** The emperor resided in a massive palace.<br>*(-> Hoàng đế cư ngụ trong một cung điện đồ sộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sovereign ruler of great power and rank, ruling an empire

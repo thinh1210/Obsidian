@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Conflict
 *n.*
 > /ˈkɒn.flɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Conflict::Xung đột, mâu thuẫn nảy sinh trong mối quan hệ bạn bè *(Phát âm: /ˈkɒn.flɪkt/)* ![[conflict.mp3]]<br><br>👪 **Word Family:** conflicting (adj), conflictual (adj), conflict (v)<br><br>💬 **Ví dụ:** Learning to navigate disagreements constructively prevents minor conflicts from ruining friendships.<br>*(-> Học cách xử lý bất đồng mang tính xây dựng sẽ ngăn chặn những xung đột nhỏ phá hỏng tình bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An active disagreement between people with opposing opinions or principles.

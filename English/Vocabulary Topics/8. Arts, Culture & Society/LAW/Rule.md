@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Rule
 *noun*
 > /ruːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Rule::Quy tắc, luật lệ *(Phát âm: /ruːl/)* ![[rule.mp3]]<br><br>👪 **Word Family:** Rule (n/v), Ruler (n), Ruling (n/adj), Unruly (adj)<br><br>💬 **Ví dụ:** You must follow the rules of the school when you are on campus.<br>*(-> Bạn phải tuân thủ các quy tắc của trường khi ở trong khuôn viên trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere.

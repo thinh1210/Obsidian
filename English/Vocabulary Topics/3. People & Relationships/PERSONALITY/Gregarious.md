@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Gregarious
 *adj.*
 > /ɡrɪˈɡeə.ri.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Gregarious::Thích giao du, hòa mình vào đám đông, thích kết bè kết bạn *(Phát âm: /ɡrɪˈɡeə.ri.əs/)* ![[gregarious.mp3]]<br><br>👪 **Word Family:** gregariousness (n), gregariously (adv)<br><br>💬 **Ví dụ:** Being a gregarious individual, Liam thrives in bustling metropolitan environments.<br>*(-> Là một người thích giao du đông vui, Liam phát triển mạnh mẽ trong môi trường đại đô thị nhộn nhịp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Liking to be with other people; fond of company; social.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Soliloquy
 *noun*
 > /səˈlɪl.ə.kwi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Soliloquy::Độc thoại nội tâm *(Phát âm: /səˈlɪl.ə.kwi/)* ![[soliloquy.mp3]]<br><br>👪 **Word Family:** soliloquize (v)<br><br>💬 **Ví dụ:** Hamlet's famous soliloquy begins with the lines "To be or not to be".<br>*(-> Bài độc thoại nổi tiếng của Hamlet bắt đầu bằng câu "Tồn tại hay không tồn tại".)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of speaking one's thoughts aloud when by oneself, especially in a play.

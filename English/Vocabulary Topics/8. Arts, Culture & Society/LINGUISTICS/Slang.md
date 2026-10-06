@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Slang
 *noun*
 > /slæŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
+
+## 🗂️ Flashcard
+Slang::tiếng lóng *(Phát âm: /slæŋ/)* ![[slang.mp3]]<br><br>👪 **Word Family:** slangy (adj)<br><br>💬 **Ví dụ:** I couldn't understand what they were saying because of the local slang.<br>*(-> Tôi không thể hiểu họ đang nói gì vì tiếng lóng của địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** very informal language that is used by a particular group of people, especially young people

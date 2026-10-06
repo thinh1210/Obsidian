@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Port
 *n.*
 > /pɔːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
+
+## 🗂️ Flashcard
+Port::Cảng *(Phát âm: /pɔːrt/)* ![[port.mp3]]<br><br>👪 **Word Family:** porter (n)<br><br>💬 **Ví dụ:** The cargo ship arrived at the port.<br>*(-> Tàu chở hàng đã đến cảng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A town or city with a harbor where ships load or unload.

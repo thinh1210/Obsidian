@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Evaluate
 *v.*
 > /ɪˈvæljueɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Evaluate::Đánh giá, định giá *(Phát âm: /ɪˈvæljueɪt/)* ![[evaluate.mp3]]<br><br>👪 **Word Family:** evaluation, evaluative<br><br>💬 **Ví dụ:** The teacher will evaluate your presentation.<br>*(-> Giáo viên sẽ đánh giá bài thuyết trình của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To assess the value, quality, or significance of someone or something

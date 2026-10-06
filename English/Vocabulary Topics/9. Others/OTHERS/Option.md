@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Option
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - choice, alternative, preference
+
+
+## 🗂️ Flashcard
+Option::Lựa chọn, tùy chọn *(Phát âm: /ˈɒp.ʃən/)* ![[option.mp3]]<br><br>👪 **Word Family:** [Noun]: option, [Verb]: opt, [Adj]: optional, [Adv]: optionally<br><br>💬 **Ví dụ:** We have no option but to wait and see.<br>*(-> Chúng tôi không có lựa chọn nào khác ngoài việc chờ đợi xem sao.)*

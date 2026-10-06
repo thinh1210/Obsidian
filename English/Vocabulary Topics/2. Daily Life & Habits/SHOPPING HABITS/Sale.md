@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Sale
 *n.*
 > /seɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Sale::Đợt xả hàng giảm giá, sự bán hàng *(Phát âm: /seɪl/)* ![[sale.mp3]]<br><br>👪 **Word Family:** sell (v), salesperson (n)<br><br>💬 **Ví dụ:** I grabbed this designer winter jacket while it was on sale for half price.<br>*(-> Tôi đã tậu được chiếc áo khoác hiệu mùa đông này khi nó đang được giảm giá nửa giá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event at which goods are sold at lower prices than usual.

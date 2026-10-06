@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Chestnut
 *adj., n.*
 > /ˈtʃes.nʌt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Chestnut::Màu nâu hạt dẻ đậm, ấm áp (dùng cho tóc, lông ngựa hoặc đồ gỗ) *(Phát âm: /ˈtʃes.nʌt/)* ![[chestnut.mp3]]<br><br>👪 **Word Family:** chestnut (n)<br><br>💬 **Ví dụ:** The dining table was made of polished chestnut wood with a deep, warm finish.<br>*(-> Bàn ăn được làm từ gỗ hạt dẻ đánh bóng với bề mặt màu nâu ấm áp và sang trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep reddish-brown color, similar to the color of the chestnut nut or tree wood.

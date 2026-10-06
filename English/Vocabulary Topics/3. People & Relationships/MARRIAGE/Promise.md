@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Promise
 *verb*
 > /ˈprɒmɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Promise::Hứa *(Phát âm: /ˈprɒmɪs/)* ![[promise.mp3]]<br><br>👪 **Word Family:** Promises (plural)<br><br>💬 **Ví dụ:** I promise to love you.<br>*(-> Tôi hứa sẽ yêu bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Assure someone that one will definitely do, give, or arrange something.

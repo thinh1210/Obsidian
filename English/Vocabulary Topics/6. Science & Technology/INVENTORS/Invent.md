@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # invent
 *v.*
 > /ɪnˈvent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Invent::Phát minh *(Phát âm: /ɪnˈvent/)* ![[invent.mp3]]<br><br>👪 **Word Family:** inventor (n), invention (n), inventive (adj), inventively (adv)<br><br>💬 **Ví dụ:** Children like to invent new games.<br>*(-> Trẻ em thích tự phát minh ra các trò chơi mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To design or create something that has never been made before

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Steam
 *v.*
 > /stiːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Steam::Hấp chín thực phẩm bằng hơi nước nóng *(Phát âm: /stiːm/)* ![[steam.mp3]]<br><br>👪 **Word Family:** steamer (n), steaming (adj)<br><br>💬 **Ví dụ:** Steaming broccoli helps preserve its vibrant green color and crisp texture.<br>*(-> Hấp bông cải xanh giúp giữ lại màu xanh tươi tắn và độ giòn ngọt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cook food using the hot steam from boiling water.

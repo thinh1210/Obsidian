@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Evacuate
 *verb*
 > /ɪˈvæk.ju.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Evacuate::Sơ tán, di tản *(Phát âm: /ɪˈvæk.ju.eɪt/)* ![[evacuate.mp3]]<br><br>👪 **Word Family:** evacuation (n), evacuee (n)<br><br>💬 **Ví dụ:** Police helped to evacuate residents from the flooded area.<br>*(-> Cảnh sát đã giúp sơ tán người dân ra khỏi khu vực ngập lụt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move people from a dangerous place to a safe place.

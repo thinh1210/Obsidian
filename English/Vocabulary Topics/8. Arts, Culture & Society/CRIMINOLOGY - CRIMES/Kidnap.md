@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Kidnap
 *verb*
 > /ˈkɪdnæp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Kidnap::Bắt cóc *(Phát âm: /ˈkɪdnæp/)* ![[kidnap.mp3]]<br><br>👪 **Word Family:** kidnapper (n), kidnapping (n)<br><br>💬 **Ví dụ:** The criminal group tried to kidnap the rich businessman.<br>*(-> Nhóm tội phạm đã cố gắng bắt cóc doanh nhân giàu có.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take a person away illegally by force, usually in order to demand money

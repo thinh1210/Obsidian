@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Jail
 *noun*
 > /dʒeɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
+
+## 🗂️ Flashcard
+Jail::Phòng giam, nhà giam *(Phát âm: /dʒeɪl/)* ![[jail.mp3]]<br><br>👪 **Word Family:** jailer (n), jailbreak (n)<br><br>💬 **Ví dụ:** He was kept in jail overnight for disorderly conduct.<br>*(-> Anh ta bị giam trong nhà giam qua đêm vì hành vi gây mất trật tự.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where people are kept while waiting for trial or as a punishment for short periods

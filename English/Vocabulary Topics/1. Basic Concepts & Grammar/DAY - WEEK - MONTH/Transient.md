@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Transient
 *adj*
 > /ˈtrænziənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Transient::Tạm thời, thoáng qua *(Phát âm: /ˈtrænziənt/)* ![[transient.mp3]]<br><br>👪 **Word Family:** transience (n)<br><br>💬 **Ví dụ:** The city has a large transient population.<br>*(-> Thành phố có dân số vãng lai lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting only for a short time; impermanent.

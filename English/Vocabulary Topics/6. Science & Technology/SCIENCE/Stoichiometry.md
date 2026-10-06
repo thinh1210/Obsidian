@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Stoichiometry
 *noun*
 > /ˌstɔɪ.kiˈɒm.ɪ.tri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Stoichiometry::Tỉ lượng hóa học – tính toán lượng chất phản ứng và sản phẩm trong các phản ứng hóa học *(Phát âm: /ˌstɔɪ.kiˈɒm.ɪ.tri/)* ![[stoichiometry.mp3]]<br><br>👪 **Word Family:** stoichiometric (adj), stoichiometrically (adv)<br><br>💬 **Ví dụ:** You use stoichiometry every time you follow a recipe: two cups flour to one cup sugar.<br>*(-> Bạn dùng tỉ lượng mỗi khi theo công thức nấu ăn: hai cốc bột với một cốc đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The calculation of the quantities of reactants and products in chemical reactions.

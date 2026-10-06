@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Node
 *n.*
 > /noʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Node::Điểm nút, trạm kết nối *(Phát âm: /noʊd/)* ![[node.mp3]]<br><br>👪 **Word Family:** Nodal (adj.)<br><br>💬 **Ví dụ:** If one node fails, the rest of the mesh network will still function.<br>*(-> Nếu một nút bị hỏng, phần còn lại của mạng lưới vẫn sẽ hoạt động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point at which lines or pathways intersect or branch; a central or connecting point.

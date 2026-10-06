@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Biography
 *noun*
 > /baɪˈɒɡ.rə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Biography::Tiểu sử *(Phát âm: /baɪˈɒɡ.rə.fi/)* ![[biography.mp3]]<br><br>👪 **Word Family:** biographer (n), biographical (adj), autobiographical (adj)<br><br>💬 **Ví dụ:** I read an inspiring biography of Albert Einstein last week.<br>*(-> Tôi đã đọc một cuốn tiểu sử đầy cảm hứng về Albert Einstein tuần trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An account of someone's life written by someone else.

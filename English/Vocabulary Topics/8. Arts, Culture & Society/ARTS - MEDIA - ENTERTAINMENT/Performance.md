@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Performance
 *n.*
 > /pəˈfɔːməns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Performance::Buổi biểu diễn, sự trình diễn *(Phát âm: /pəˈfɔːməns/)* ![[performance.mp3]]<br><br>👪 **Word Family:** perform, performer, performing<br><br>💬 **Ví dụ:** Her performance as Juliet was outstanding.<br>*(-> Màn trình diễn của cô ấy trong vai Juliet thật xuất sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An act of staging or presenting a play, concert, or other form of entertainment.

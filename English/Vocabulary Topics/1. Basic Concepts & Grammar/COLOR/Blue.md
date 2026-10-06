@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Blue
 *adj, n*
 > /bluː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Blue::Màu xanh lam *(Phát âm: /bluː/)* ![[blue.mp3]]<br><br>👪 **Word Family:** blueness (n), bluish (adj)<br><br>💬 **Ví dụ:** The sky is so blue today.<br>*(-> Trời hôm nay xanh quá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The color of the clear sky and the deep sea.

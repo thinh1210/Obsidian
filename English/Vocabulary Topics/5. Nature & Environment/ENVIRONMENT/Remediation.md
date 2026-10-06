@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Remediation
 *n.*
 > /rɪˌmiːdiˈeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Remediation::Sự khắc phục (môi trường), xử lý ô nhiễm *(Phát âm: /rɪˌmiːdiˈeɪʃn/)* ![[remediation.mp3]]<br><br>👪 **Word Family:** remedy (n/v), remedial (adj)<br><br>💬 **Ví dụ:** The company spent millions on the remediation of the contaminated site.<br>*(-> Công ty đã chi hàng triệu đô la để xử lý ô nhiễm tại địa điểm bị ô nhiễm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of remedying something, in particular of reversing or stopping environmental damage.

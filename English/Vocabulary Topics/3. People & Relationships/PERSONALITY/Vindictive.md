@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Vindictive
 *adj.*
 > /vɪnˈdɪk.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Vindictive::Thù dai, mang dã tâm báo thù, hằn học không tha *(Phát âm: /vɪnˈdɪk.tɪv/)* ![[vindictive.mp3]]<br><br>👪 **Word Family:** vindictiveness (n), vindictively (adv)<br><br>💬 **Ví dụ:** Firing the whistleblower was seen as a vindictive move by the board.<br>*(-> Việc sa thải người tố cáo được xem là một động thái trả thù hẹp hòi của hội đồng quản trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing a strong or unreasoning desire for revenge.

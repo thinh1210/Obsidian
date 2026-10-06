@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Sentence
 *noun/verb*
 > /ˈsen.təns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Sentence::Bản án, tuyên án *(Phát âm: /ˈsen.təns/)* ![[sentence.mp3]]<br><br>👪 **Word Family:** Sentence (n/v), Sentenced (adj)<br><br>💬 **Ví dụ:** The judge will hand down the sentence during the court session tomorrow.<br>*(-> Thẩm phán sẽ đưa ra bản án trong phiên tòa ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The punishment assigned to a defendant found guilty by a court; declare the punishment of.

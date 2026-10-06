@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Propaganda
 *n*
 > /ˌprɒp.əˈɡæn.də/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Propaganda::Tuyên truyền (có tính định hướng / thiên lệch) *(Phát âm: /ˌprɒp.əˈɡæn.də/)* ![[propaganda.mp3]]<br><br>👪 **Word Family:** propagandist (n), propagandistic (adj), propagandise (v)<br><br>💬 **Ví dụ:** Children were taught to spot propaganda in online news.<br>*(-> Trẻ em được dạy nhận biết tuyên truyền trong tin tức trực tuyến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Biased or misleading information used to promote a particular political cause.

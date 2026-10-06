@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Transcript
 *n.*
 > /ˈtræn.skrɪpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Transcript::Bảng điểm học bạ chính thức *(Phát âm: /ˈtræn.skrɪpt/)* ![[transcript.mp3]]<br><br>👪 **Word Family:** transcript (n), transcribe (v), transcription (n)<br><br>💬 **Ví dụ:** I need to send my transcript to apply for graduate school.<br>*(-> Tôi cần gửi bảng điểm để nộp đơn vào trường sau đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official record of a student's courses and grades.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Year
 *noun*
 > /jɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Year::Năm *(Phát âm: /jɪər/)* ![[year.mp3]]<br><br>👪 **Word Family:** yearly (adj)<br><br>💬 **Ví dụ:** I am 20 years old.<br>*(-> Tôi 20 tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 365 or 366 days.

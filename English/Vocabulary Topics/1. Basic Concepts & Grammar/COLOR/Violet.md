@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Violet
 *n, adj*
 > /ˈvaɪə.lət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Violet::Màu tím sẫm, màu hoa cẩm nhung *(Phát âm: /ˈvaɪə.lət/)* ![[violet.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She planted violets in the garden.<br>*(-> Cô ấy đã trồng hoa violet trong vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bluish-purple color.

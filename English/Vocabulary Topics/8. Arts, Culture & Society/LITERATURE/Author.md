@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Author
 *noun*
 > /ˈɔː.θər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Author::Tác giả *(Phát âm: /ˈɔː.θər/)* ![[author.mp3]]<br><br>👪 **Word Family:** authorship (n), authorize (v), authoritative (adj)<br><br>💬 **Ví dụ:** Who is the author of this famous fantasy novel?<br>*(-> Ai là tác giả của cuốn tiểu thuyết giả tưởng nổi tiếng này?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A writer of a book, article, or document.

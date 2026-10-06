@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Catalyst
 *noun*
 > /ˈkæt.ə.lɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Catalyst::Chất xúc tác – chất tăng tốc độ phản ứng hóa học mà không bị tiêu hao; cũng dùng bóng bẩy cho điều gì đó thúc đẩy thay đổi *(Phát âm: /ˈkæt.ə.lɪst/)* ![[catalyst.mp3]]<br><br>👪 **Word Family:** catalyse/catalyze (v), catalytic (adj), catalysis (n), catalytically (adv)<br><br>💬 **Ví dụ:** The new law acted as a catalyst for social change in the country.<br>*(-> Bộ luật mới đóng vai trò chất xúc tác cho sự thay đổi xã hội trong nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that increases the rate of a chemical reaction without being consumed; also used figuratively for something that causes change.

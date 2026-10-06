@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Jeopardize
 *Verb*
 > /ˈdʒep.ə.daɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Jeopardize::Gây nguy hiểm *(Phát âm: /ˈdʒep.ə.daɪz/)* ![[jeopardize.mp3]]<br><br>👪 **Word Family:** Jeopardy (n)<br><br>💬 **Ví dụ:** Don't jeopardize our friendship.<br>*(-> Đừng gây nguy hiểm cho tình bạn của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put something such as a plan or system in danger of being harmed or destroyed.

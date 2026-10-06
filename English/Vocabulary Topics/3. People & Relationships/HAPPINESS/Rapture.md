@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Rapture
 *n.*
 > /ˈræp.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Rapture::Sự say mê, vô cùng sung sướng *(Phát âm: /ˈræp.tʃər/)* ![[rapture.mp3]]<br><br>👪 **Word Family:** Rapturous (adj)<br><br>💬 **Ví dụ:** He listened to the music in rapture.<br>*(-> Anh ấy say mê lắng nghe âm nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of intense pleasure or joy.

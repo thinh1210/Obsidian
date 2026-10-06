@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Adopt
 *verb*
 > /əˈdɑːpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Adopt::Nhận nuôi *(Phát âm: /əˈdɑːpt/)* ![[adopt.mp3]]<br><br>👪 **Word Family:** Adoption (n), Adoptive (adj)<br><br>💬 **Ví dụ:** They decided to adopt a baby.<br>*(-> Họ quyết định nhận nuôi một em bé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Legally take another's child and bring it up as one's own.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Renovate
 *v.*
 > /ˈrenəveɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Renovate::Cải tạo, sửa sang lại *(Phát âm: /ˈrenəveɪt/)* ![[renovate.mp3]]<br><br>👪 **Word Family:** renovation (n), renovator (n)<br><br>💬 **Ví dụ:** We plan to renovate the kitchen before we move in.<br>*(-> Chúng tôi dự định sửa lại nhà bếp trước khi chuyển vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Restore (something old, especially a building) to a good state of repair.

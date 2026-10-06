@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Anthropomorphic
 *adjective.*
 > /ˌæn.θrə.pəˈmɔːr.fɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
+
+## 🗂️ Flashcard
+Anthropomorphic::Nhân hình hóa, có dạng người *(Phát âm: /ˌæn.θrə.pəˈmɔːr.fɪk/)* ![[anthropomorphic.mp3]]<br><br>👪 **Word Family:** anthropomorphism (noun), anthropomorphize (verb)<br><br>💬 **Ví dụ:** Disney robots often have anthropomorphic movements to appear friendly.<br>*(-> Robot của Disney thường có các chuyển động nhân hình hóa để tạo cảm giác thân thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having human characteristics, behavior, or form

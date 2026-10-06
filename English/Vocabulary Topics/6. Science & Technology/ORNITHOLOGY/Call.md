@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Call
 *noun*
 > /kɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Call::Tiếng kêu (chim) *(Phát âm: /kɔːl/)* ![[call.mp3]]<br><br>👪 **Word Family:** call (n/v), caller (n)<br><br>💬 **Ví dụ:** I recognized the bird by its unique call.<br>*(-> Tôi nhận ra con chim đó qua tiếng kêu độc đáo của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cry or sound made by a bird or other animal, typically to communicate.

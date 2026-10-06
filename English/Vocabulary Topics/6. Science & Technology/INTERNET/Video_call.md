@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Video call
 *noun*
 > /ˈvɪd.i.əʊ kɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Video_call::Cuộc gọi video, gọi video *(Phát âm: /ˈvɪd.i.əʊ kɔːl/)* ![[video_call.mp3]]<br><br>👪 **Word Family:** video call (n), video conference (n), video chat (n)<br><br>💬 **Ví dụ:** We made a video call to our grandparents on their anniversary.<br>*(-> Chúng tôi đã gọi video cho ông bà vào ngày kỷ niệm của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A real-time visual communication over the Internet where participants can see and hear each other.

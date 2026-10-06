@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Cruise
 *Noun*
 > /kruz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Cruise::Du thuyền/Chuyến du ngoạn trên biển *(Phát âm: /kruz/)* ![[cruise.mp3]]<br><br>👪 **Word Family:** cruiser (n)<br><br>💬 **Ví dụ:** They went on a Caribbean cruise.<br>*(-> Họ đi du ngoạn vùng Caribbean trên tàu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey on a large ship for pleasure.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Vortex generator
 *noun phrase*
 > /ˈvɔː.teks ˈdʒen.ər.eɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Vortex_generator::Thiết bị tạo xoáy (vortex generator) *(Phát âm: /ˈvɔː.teks ˈdʒen.ər.eɪ.tər/)* ![[vortex_generator.mp3]]<br><br>👪 **Word Family:** turbulator (n), flow control (n), boundary layer (n)<br><br>💬 **Ví dụ:** The mechanic installed a row of vortex generators along the wing to improve low-speed handling.<br>*(-> Thợ máy lắp một hàng vortex generator dọc theo cánh để cải thiện xử lý tốc độ thấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small fins or blades mounted on aircraft surfaces that create small vortices to delay airflow separation and improve control at low speeds.

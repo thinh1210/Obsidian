@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Thesis
 *n.*
 > /ˈθiː.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Thesis::Luận án, luận điểm trung tâm *(Phát âm: /ˈθiː.sɪs/)* ![[thesis.mp3]]<br><br>👪 **Word Family:** thesis (n), antithesis (n), synthesize (v)<br><br>💬 **Ví dụ:** He is writing his master's thesis on renewable energy.<br>*(-> Anh ấy đang viết luận án thạc sĩ về năng lượng tái tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long piece of academic writing based on original research, submitted for a graduate degree; also a central argument.

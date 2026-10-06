@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Appointment
 *n.*
 > /əˈpɔɪnt.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Appointment::Cuộc hẹn đã được sắp xếp trước (khám bệnh, phỏng vấn, công tác) *(Phát âm: /əˈpɔɪnt.mənt/)* ![[appointment.mp3]]<br><br>👪 **Word Family:** appoint (v), appointee (n)<br><br>💬 **Ví dụ:** I need to call the dental clinic right now to schedule an appointment for next Monday.<br>*(-> Tôi cần gọi điện cho phòng khám nha khoa ngay bây giờ để đặt lịch hẹn vào thứ Hai tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal arrangement to meet someone or visit somewhere at a particular specified time.

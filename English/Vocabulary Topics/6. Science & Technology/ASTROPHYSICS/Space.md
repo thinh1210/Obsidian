@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Space
 *noun*
 > /speɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Space::Không gian, vũ trụ *(Phát âm: /speɪs/)* ![[space.mp3]]<br><br>👪 **Word Family:** spacious (adj), spacey (adj)<br><br>💬 **Ví dụ:** Rockets fly into outer space to explore.<br>*(-> Tên lửa bay vào vũ trụ bao la để khám phá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The empty area outside Earth's atmosphere.

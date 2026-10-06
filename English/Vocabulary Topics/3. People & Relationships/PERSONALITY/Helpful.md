@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Helpful
 *adj.*
 > /ˈhelp.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Helpful::Sẵn lòng giúp đỡ, nhiệt tình, hữu ích *(Phát âm: /ˈhelp.fəl/)* ![[helpful.mp3]]<br><br>👪 **Word Family:** help (v/n), helplessness (n), helpfully (adv)<br><br>💬 **Ví dụ:** The librarian was very helpful in locating the rare manuscript.<br>*(-> Người thủ thư rất nhiệt tình giúp đỡ việc tìm cuốn bản thảo quý hiếm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Willing to help, or giving useful help.

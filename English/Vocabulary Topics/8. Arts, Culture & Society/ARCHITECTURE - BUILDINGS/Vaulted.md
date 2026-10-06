@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Vaulted
 *adj.*
 > /ˈvɔːltɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Vaulted::Mái vòm, dạng vòm *(Phát âm: /ˈvɔːltɪd/)* ![[vaulted.mp3]]<br><br>👪 **Word Family:** vault<br><br>💬 **Ví dụ:** The living room has a spectacular vaulted ceiling.<br>*(-> Phòng khách có trần nhà hình vòm rất ngoạn mục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Provided with an arched structure or structures, especially a roof or ceiling

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Exasperate
 *v.*
 > /ɪɡˈzæspəreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Exasperate::Làm ai bực tức, phát cáu *(Phát âm: /ɪɡˈzæspəreɪt/)* ![[exasperate.mp3]]<br><br>👪 **Word Family:** exasperation (n), exasperated (adj)<br><br>💬 **Ví dụ:** His endless questions exasperate me.<br>*(-> Những câu hỏi vô tận của anh ta làm tôi phát cáu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Irritate and frustrate (someone) intensely

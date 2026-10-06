@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Archipelago
 *noun*
 > /ˌɑːkɪˈpeləɡəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
+
+## 🗂️ Flashcard
+Archipelago::Quần đảo *(Phát âm: /ˌɑːkɪˈpeləɡəʊ/)* ![[archipelago.mp3]]<br><br>👪 **Word Family:** Archipelagic (adj.)<br><br>💬 **Ví dụ:** They sailed through the archipelago.<br>*(-> Họ đi thuyền qua quần đảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of islands.

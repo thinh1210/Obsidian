@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Redundant
 *adjective*
 > /rɪˈdʌn.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Redundant::Dư thừa, (hệ thống) dự phòng *(Phát âm: /rɪˈdʌn.dənt/)* ![[redundant.mp3]]<br><br>👪 **Word Family:** Redundancy (n)<br><br>💬 **Ví dụ:** We don't need this app anymore, it's redundant.<br>*(-> Chúng ta không cần ứng dụng này nữa, nó thừa thãi rồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Especially of a word, phrase, etc. unnecessary because it is more than is needed (in tech: having backup systems).

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Outsource
 *v.*
 > /ˈaʊt.sɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Outsource::Thuê ngoài, gia công ngoài *(Phát âm: /ˈaʊt.sɔːs/)* ![[outsource.mp3]]<br><br>👪 **Word Family:** outsourcing<br><br>💬 **Ví dụ:** Many companies outsource their customer service to specialized call centers.<br>*(-> Nhiều công ty thuê ngoài dịch vụ chăm sóc khách hàng của họ tới các trung tâm chuyên nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To obtain goods or services from an outside or foreign supplier

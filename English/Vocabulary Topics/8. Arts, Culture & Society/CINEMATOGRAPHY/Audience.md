@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Audience
 *n.*
 > /ˈɔːdiəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Audience::Khán giả *(Phát âm: /ˈɔːdiəns/)* ![[audience.mp3]]<br><br>👪 **Word Family:** auditory, audition<br><br>💬 **Ví dụ:** The audience clapped at the end of the movie.<br>*(-> Khán giả đã vỗ tay vào cuối bộ phim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The assembled spectators or listeners at a public event such as a play, movie, concert, or meeting

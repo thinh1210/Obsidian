@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Make-up
 *n.*
 > /ˈmeɪk ʌp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
+
+## 🗂️ Flashcard
+Make-up::Trang điểm, đồ trang điểm *(Phát âm: /ˈmeɪk ʌp/)* ![[make_up.mp3]]<br><br>👪 **Word Family:** Make up (v)<br><br>💬 **Ví dụ:** She doesn't wear much make-up.<br>*(-> Cô ấy không trang điểm nhiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cosmetics applied to the face to enhance appearance.

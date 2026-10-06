@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Autodidact
 *n.*
 > /ˌɔː.tə.ˈdaɪ.dækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Tinh thần tự học, Tri thức luận & Thực tiễn học thuật
+
+## 🗂️ Flashcard
+Autodidact::Người tự học *(Phát âm: /ˌɔː.tə.ˈdaɪ.dækt/)* ![[autodidact.mp3]]<br><br>👪 **Word Family:** autodidact (n), autodidactic (adj), autodidacticism (n)<br><br>💬 **Ví dụ:** Leonardo da Vinci was a brilliant autodidact.<br>*(-> Leonardo da Vinci là một người tự học xuất chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A self-taught person who has acquired knowledge without formal instruction.

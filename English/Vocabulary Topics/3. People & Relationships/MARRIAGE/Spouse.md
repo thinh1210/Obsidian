@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Spouse
 *noun*
 > /spaʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Spouse::Vợ hoặc chồng *(Phát âm: /spaʊs/)* ![[spouse.mp3]]<br><br>👪 **Word Family:** Spousal (adjective)<br><br>💬 **Ví dụ:** Employees can bring their spouses.<br>*(-> Nhân viên có thể đưa vợ/chồng của họ đi cùng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A husband or wife, considered in relation to their partner.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Column
 *n.*
 > /ˈkɒləm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Column::Cột trụ *(Phát âm: /ˈkɒləm/)* ![[column.mp3]]<br><br>👪 **Word Family:** columnar<br><br>💬 **Ví dụ:** The temple roof was supported by marble columns.<br>*(-> Mái đền được đỡ bởi những chiếc cột đá cẩm thạch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A tall vertical cylindrical post used to support a bridge or roof

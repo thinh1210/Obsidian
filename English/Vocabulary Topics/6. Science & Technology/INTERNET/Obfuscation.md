@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Obfuscation
 *noun*
 > /ˌɒb.fəˈskeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
+
+## 🗂️ Flashcard
+Obfuscation::Sự làm mờ, sự che giấu (mã hóa hoặc làm khó hiểu có chủ ý) *(Phát âm: /ˌɒb.fəˈskeɪ.ʃən/)* ![[obfuscation.mp3]]<br><br>👪 **Word Family:** obfuscate (v), obfuscated (adj), obfuscatory (adj)<br><br>💬 **Ví dụ:** Hackers use obfuscation to hide malicious code from antivirus software.<br>*(-> Tin tặc sử dụng kỹ thuật che giấu để ẩn mã độc khỏi phần mềm diệt virus.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of making something unclear or difficult to understand, particularly used to hide code or data from analysis.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Automation
 *n.*
 > /ˌɔː.təˈmeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Automation::Quy trình sử dụng công nghệ tự động thay thế cho các thao tác thủ công của con người *(Phát âm: /ˌɔː.təˈmeɪ.ʃən/)* ![[automation.mp3]]<br><br>👪 **Word Family:** automate (v), automatic (adj), automatically (adv)<br><br>💬 **Ví dụ:** Home automation allows you to control lights and air conditioning directly from your phone.<br>*(-> Tự động hóa nhà thông minh cho phép bạn điều khiển đèn và điều hòa trực tiếp từ điện thoại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The use of largely automatic equipment and computerized systems in a manufacturing or computing process.

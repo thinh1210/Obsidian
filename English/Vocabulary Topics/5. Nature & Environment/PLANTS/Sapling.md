@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Sapling
 *noun*
 > /ˈsæplɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Sapling::Cây non, cây con (thân gỗ) *(Phát âm: /ˈsæplɪŋ/)* ![[sapling.mp3]]<br><br>👪 **Word Family:** Noun: sapling (cây non), sap (nhựa cây)<br><br>💬 **Ví dụ:** We planted several maple saplings in the garden.<br>*(-> Chúng tôi đã trồng vài cây phong non trong vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A young tree, especially one with a slender trunk.

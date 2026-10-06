@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Amazing
 *adj*
 > /əˈmeɪ.zɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Amazing::Đáng kinh ngạc, tuyệt vời *(Phát âm: /əˈmeɪ.zɪŋ/)* ![[amazing.mp3]]<br><br>👪 **Word Family:** Amaze (verb), Amazement (noun)<br><br>💬 **Ví dụ:** The view from here is amazing.<br>*(-> Cảnh nhìn từ đây thật tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing great surprise or wonder; astonishing.

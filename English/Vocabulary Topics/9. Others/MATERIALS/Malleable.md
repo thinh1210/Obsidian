@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Malleable
 *adjective.*
 > /ˈmæliəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Malleable::Dễ dát mỏng, dễ uốn, dễ bị tác động *(Phát âm: /ˈmæliəbl/)* ![[malleable.mp3]]<br><br>👪 **Word Family:** malleability (Noun)<br><br>💬 **Ví dụ:** Silver is extremely malleable, which allows jewelers to create intricate designs.<br>*(-> Bạc cực kỳ dễ dát mỏng, cho phép các thợ kim hoàn tạo ra các thiết kế phức tạp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to be hammered or pressed permanently out of shape without breaking or cracking; easily influenced.

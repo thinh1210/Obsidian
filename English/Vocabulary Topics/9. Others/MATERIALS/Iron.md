@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Iron
 *noun.*
 > /ˈaɪən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Iron::Sắt *(Phát âm: /ˈaɪən/)* ![[iron.mp3]]<br><br>👪 **Word Family:** ironic (Adjective), ironworks (Noun)<br><br>💬 **Ví dụ:** The heavy gate is made of solid iron.<br>*(-> Cánh cổng nặng nề được làm bằng sắt đặc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong, hard magnetic silvery-gray metal, much used as a material for construction and manufacturing.

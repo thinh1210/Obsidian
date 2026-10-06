@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # DNA
 *noun*
 > /ˌdiː.enˈeɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+DNA::ADN – axit deoxyribonucleic, vật liệu di truyền dùng để nhận dạng cá nhân *(Phát âm: /ˌdiː.enˈeɪ/)* ![[dna.mp3]]<br><br>👪 **Word Family:** DNA profiling (n), DNA database (n)<br><br>💬 **Ví dụ:** A DNA test proved he was the father.<br>*(-> Xét nghiệm ADN chứng minh anh ta là cha.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Deoxyribonucleic acid – the molecule carrying genetic information used for identification.

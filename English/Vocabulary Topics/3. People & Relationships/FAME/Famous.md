@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Famous
 *adj.*
 > /ˈfeɪməs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Famous::Nổi tiếng *(Phát âm: /ˈfeɪməs/)* ![[famous.mp3]]<br><br>👪 **Word Family:** fame (n.)<br><br>💬 **Ví dụ:** She is a famous singer.<br>*(-> Cô ấy là một ca sĩ nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Known about by many people.

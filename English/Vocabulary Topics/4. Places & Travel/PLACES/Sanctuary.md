@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Sanctuary
 *n.*
 > /ˈsæŋk.tʃu.er.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Sanctuary::Khu bảo tồn, nơi tôn nghiêm *(Phát âm: /ˈsæŋk.tʃu.er.i/)* ![[sanctuary.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The park is a bird sanctuary.<br>*(-> Công viên là một khu bảo tồn chim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place of refuge or safety; a nature reserve.

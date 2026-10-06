@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # campaign
 *noun*
 > /kæmˈpeɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+campaign::Chiến dịch *(Phát âm: /kæmˈpeɪn/)* ![[campaign.mp3]]<br><br>👪 **Word Family:** campaigner (n)<br><br>💬 **Ví dụ:** They started a campaign to clean up the local park.<br>*(-> Họ bắt đầu một chiến dịch làm sạch công viên địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized course of action to achieve a goal, especially in a political context.

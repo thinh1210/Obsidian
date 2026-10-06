@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Habit
 *n.*
 > /ˈhæbɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Habit::Thói quen *(Phát âm: /ˈhæbɪt/)* ![[habit.mp3]]<br><br>👪 **Word Family:** habitual (adj.)<br><br>💬 **Ví dụ:** Reading is a good habit.<br>*(-> Đọc sách là thói quen tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A settled or regular tendency or practice.

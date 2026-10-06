@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Autonomous
 *adjective.*
 > /ɑːˈtɑː.nə.məs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
+
+## 🗂️ Flashcard
+Autonomous::Tự chủ, tự trị *(Phát âm: /ɑːˈtɑː.nə.məs/)* ![[autonomous.mp3]]<br><br>👪 **Word Family:** autonomy (noun), autonomously (adv)<br><br>💬 **Ví dụ:** Autonomous robots can navigate through warehouses without hitting obstacles.<br>*(-> Robot tự chủ có thể di chuyển qua các nhà kho mà không đụng phải chướng ngại vật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a machine, vehicle, or system) having the power to operate independently and make its own decisions

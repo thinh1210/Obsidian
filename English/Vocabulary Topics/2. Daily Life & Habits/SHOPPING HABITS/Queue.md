@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Queue
 *n/v*
 > /kjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Queue::Hàng, xếp hàng *(Phát âm: /kjuː/)* ![[queue.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Stand in the queue.<br>*(-> Đứng trong hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line of people waiting

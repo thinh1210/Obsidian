@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Erupt
 *verb*
 > /ɪˈrʌpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Erupt::Phun trào (núi lửa) *(Phát âm: /ɪˈrʌpt/)* ![[erupt.mp3]]<br><br>👪 **Word Family:** eruption (n), eruptive (adj)<br><br>💬 **Ví dụ:** The volcano is expected to erupt at any moment.<br>*(-> Núi lửa được dự báo có thể phun trào bất cứ lúc nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a volcano) to explode and throw out fire, lava, and ash.

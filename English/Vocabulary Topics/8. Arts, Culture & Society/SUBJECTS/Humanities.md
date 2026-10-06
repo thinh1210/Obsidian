@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Humanities
 *noun*
 > /hjuːˈmænətiz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Humanities::Khoa học nhân văn, nhân văn học *(Phát âm: /hjuːˈmænətiz/)* ![[humanities.mp3]]<br><br>👪 **Word Family:** human, humanity, humanitarian<br><br>💬 **Ví dụ:** She decided to major in the humanities instead of sciences.<br>*(-> Cô ấy quyết định chọn chuyên ngành khoa học nhân văn thay vì các ngành khoa học tự nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Academic disciplines that study aspects of human society and culture (such as literature, history, and philosophy).

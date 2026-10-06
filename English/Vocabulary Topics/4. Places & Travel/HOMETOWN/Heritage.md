@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Heritage
 *n.*
 > /ˈherɪtɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Heritage::Di sản *(Phát âm: /ˈherɪtɪdʒ/)* ![[heritage.mp3]]<br><br>👪 **Word Family:** Inherit (v.)<br><br>💬 **Ví dụ:** We must protect our cultural heritage.<br>*(-> Chúng ta phải bảo vệ di sản văn hóa của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Property that is or may be inherited; valued objects and qualities such as historic buildings.

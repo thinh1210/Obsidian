@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Departure
 *Noun*
 > /dɪˈpɑrtʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Departure::Sự khởi hành *(Phát âm: /dɪˈpɑrtʃər/)* ![[departure.mp3]]<br><br>👪 **Word Family:** depart (v)<br><br>💬 **Ví dụ:** The departure was delayed by an hour.<br>*(-> Sự khởi hành bị trễ một giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of leaving, typically to start a journey.

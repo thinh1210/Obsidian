@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Clue
 *noun*
 > /kluː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Clue::Manh mối / dấu vết *(Phát âm: /kluː/)* ![[clue.mp3]]<br><br>👪 **Word Family:** clueless (adj)<br><br>💬 **Ví dụ:** The detective found a clue near the door.<br>*(-> Thám tử tìm thấy một manh mối gần cửa ra vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of information that helps solve a mystery or crime.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Army
 *noun*
 > /ˈɑːr.mi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Army::Quân đội, lục quân *(Phát âm: /ˈɑːr.mi/)* ![[army.mp3]]<br><br>👪 **Word Family:** armed (adj), armament (noun)<br><br>💬 **Ví dụ:** His older brother joined the army right after graduating from high school.<br>*(-> Anh trai của anh ấy đã gia nhập quân đội ngay sau khi tốt nghiệp trung học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized military force equipped for fighting on land.

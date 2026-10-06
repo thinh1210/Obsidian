@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Party
 *n.*
 > /ˈpɑː.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Party::Bữa tiệc tụ tập bạn bè người thân để vui chơi, ăn uống và chúc mừng *(Phát âm: /ˈpɑː.ti/)* ![[party.mp3]]<br><br>👪 **Word Family:** party (v), partygoer (n)<br><br>💬 **Ví dụ:** They threw a surprise farewell party for their colleague who was moving abroad.<br>*(-> Họ đã tổ chức một bữa tiệc chia tay bất ngờ cho người đồng nghiệp sắp chuyển ra nước ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A social gathering of people who have been invited to eat, drink, dance, and celebrate together.

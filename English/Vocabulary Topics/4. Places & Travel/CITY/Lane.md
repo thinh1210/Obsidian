@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Lane
 *n.*
 > /leɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Lane::Dải đường được phân chia để một luồng xe cộ di chuyển trật tự *(Phát âm: /leɪn/)* ![[lane.mp3]]<br><br>👪 **Word Family:** lane (n)<br><br>💬 **Ví dụ:** Always signal before you change lanes on the boulevard.<br>*(-> Luôn bật đèn xi-nhan trước khi chuyển làn trên đại lộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A division of a road marked for a single line of vehicles.

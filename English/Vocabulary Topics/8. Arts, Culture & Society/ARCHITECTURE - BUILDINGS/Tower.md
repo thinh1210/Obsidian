@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Tower
 *n.*
 > /ˈtaʊə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Tower::Tòa tháp *(Phát âm: /ˈtaʊə(r)/)* ![[tower.mp3]]<br><br>👪 **Word Family:** towering<br><br>💬 **Ví dụ:** We climbed to the top of the tower to see the view.<br>*(-> Chúng tôi đã leo lên đỉnh tháp để ngắm cảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A tall, narrow building or part of a building

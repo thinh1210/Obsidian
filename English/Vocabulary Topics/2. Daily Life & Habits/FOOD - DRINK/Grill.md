@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Grill
 *v.*
 > /ɡrɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Grill::Nướng (vỉ) *(Phát âm: /ɡrɪl/)* ![[grill.mp3]]<br><br>👪 **Word Family:** grilled, griller, grilling<br><br>💬 **Ví dụ:** Let's grill some burgers.<br>*(-> Hãy nướng burger.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Cook (food) using a grill.

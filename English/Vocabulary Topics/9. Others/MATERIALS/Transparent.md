@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Transparent
 *adjective.*
 > /trænsˈpærənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Transparent::Trong suốt, minh bạch *(Phát âm: /trænsˈpærənt/)* ![[transparent.mp3]]<br><br>👪 **Word Family:** transparently (Adverb), transparency (Noun)<br><br>💬 **Ví dụ:** The phone case is transparent, so you can see the original design.<br>*(-> Ốp điện thoại trong suốt nên bạn có thể nhìn thấy thiết kế ban đầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Allowing light to pass through so that objects behind can be distinctly seen; open and honest.

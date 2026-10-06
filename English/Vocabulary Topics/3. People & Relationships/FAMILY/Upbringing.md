@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Upbringing
 *noun*
 > /ˈʌpˌbrɪŋ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Upbringing::Sự nuôi dưỡng, giáo dục *(Phát âm: /ˈʌpˌbrɪŋ.ɪŋ/)* ![[upbringing.mp3]]<br><br>👪 **Word Family:** bring up (phr v)<br><br>💬 **Ví dụ:** She had a strict upbringing.<br>*(-> Cô ấy được giáo dục nghiêm ngặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which you are treated and educated when young.

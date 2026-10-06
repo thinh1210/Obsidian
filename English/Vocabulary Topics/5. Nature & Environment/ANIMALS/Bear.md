@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Bear
 *noun*
 > /beər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Bear::Con gấu *(Phát âm: /beər/)* ![[bear.mp3]]<br><br>👪 **Word Family:** bear (n), bearish (adj)<br><br>💬 **Ví dụ:** You should keep food locked away so it doesn't attract a bear.<br>*(-> Bạn nên khóa kỹ thức ăn để không thu hút gấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, heavy mammal with thick fur and a very short tail.

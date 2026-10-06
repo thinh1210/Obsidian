@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Melancholic
 *adj*
 > /ˌmelənˈkɑːlɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Melancholic::U sầu, u buồn *(Phát âm: /ˌmelənˈkɑːlɪk/)* ![[melancholic.mp3]]<br><br>👪 **Word Family:** melancholy (n)<br><br>💬 **Ví dụ:** He was in a melancholic mood.<br>*(-> Anh ấy đang trong tâm trạng u sầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing pensive sadness.

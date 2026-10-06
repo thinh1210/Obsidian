@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Synthesize
 *Verb*
 > /ˈsɪn.θə.saɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Synthesize::Tổng hợp (từ nhiều nguồn lực, ý tưởng, chất hóa học) *(Phát âm: /ˈsɪn.θə.saɪz/)* ![[synthesize.mp3]]<br><br>👪 **Word Family:** Synthesis (n), synthetic (adj)<br><br>💬 **Ví dụ:** It takes time to synthesize all the information from different sources.<br>*(-> Mất thời gian để tổng hợp tất cả thông tin từ các nguồn khác nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To produce a substance by chemical synthesis; to combine different ideas or facts into a coherent whole.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Upbeat
 *adj.*
 > /ʌpˈbiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Upbeat::Lạc quan, vui vẻ (thường về thái độ) *(Phát âm: /ʌpˈbiːt/)* ![[upbeat.mp3]]<br><br>👪 **Word Family:** Upbeatness (n)<br><br>💬 **Ví dụ:** Keep an upbeat attitude.<br>*(-> Giữ thái độ lạc quan.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful, optimistic.

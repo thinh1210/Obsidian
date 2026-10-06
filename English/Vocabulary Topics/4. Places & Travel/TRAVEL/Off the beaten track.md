@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Off the beaten track
 *Idiom*
 > /ɒf ðə ˈbiː.tən træk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Off the beaten track::Nơi xa xôi hẻo lánh, ít người biết *(Phát âm: /ɒf ðə ˈbiː.tən træk/)* ![[off_the_beaten_track.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** We found a little village that was completely off the beaten track.<br>*(-> Chúng tôi tìm thấy một ngôi làng nhỏ hoàn toàn hẻo lánh và ít người biết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In or into an isolated place.

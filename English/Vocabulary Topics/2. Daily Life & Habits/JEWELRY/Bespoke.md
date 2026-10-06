@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Bespoke
 *adjective*
 > /bɪˈspəʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Bespoke::Làm theo yêu cầu *(Phát âm: /bɪˈspəʊk/)* ![[bespoke.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She ordered bespoke jewelry.<br>*(-> Cô ấy đặt trang sức làm theo yêu cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made for a particular customer.

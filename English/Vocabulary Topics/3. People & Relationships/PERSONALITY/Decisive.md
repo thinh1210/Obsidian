@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Decisive
 *adj.*
 > /dɪˈsaɪ.sɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Decisive::Quyết đoán, dứt khoát, dám chịu trách nhiệm và hành động mau lẹ *(Phát âm: /dɪˈsaɪ.sɪv/)* ![[decisive.mp3]]<br><br>👪 **Word Family:** decision (n), decide (v), decisively (adv), indecisive (adj)<br><br>💬 **Ví dụ:** In emergency situations, it is vital to take decisive action without hesitation.<br>*(-> Trong các tình huống khẩn cấp, việc hành động dứt khoát không do dự là điều sống còn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to make decisions quickly and confidently; producing a definitive result.

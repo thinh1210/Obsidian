@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Fur
 *n.*
 > /fɜːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Fur::Lông thú, lớp lông mềm mọc dày bao phủ cơ thể động vật có vú giúp giữ ấm *(Phát âm: /fɜːr/)* ![[fur.mp3]]<br><br>👪 **Word Family:** furry (adj), furrier (n)<br><br>💬 **Ví dụ:** Our pet cat loves having its soft, warm fur stroked gently.<br>*(-> Chú mèo cưng của chúng tôi rất thích được vuốt ve nhẹ nhàng trên bộ lông mềm ấm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The short, fine, soft hair of certain animals.

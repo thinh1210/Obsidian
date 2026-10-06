@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Spicy
 *adj.*
 > /ˈspaɪ.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Spicy::Cay *(Phát âm: /ˈspaɪ.si/)* ![[spicy.mp3]]<br><br>👪 **Word Family:** spice<br><br>💬 **Ví dụ:** I can't eat spicy food.<br>*(-> Tôi không ăn được cay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Flavored with or fragrant with spice.

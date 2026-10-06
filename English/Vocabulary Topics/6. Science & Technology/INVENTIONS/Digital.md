@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Digital
 *Adjective*
 > /ˈdɪdʒ.ɪ.təl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Digital::Kỹ thuật số *(Phát âm: /ˈdɪdʒ.ɪ.təl/)* ![[digital.mp3]]<br><br>👪 **Word Family:** Digitize (v), digit (n)<br><br>💬 **Ví dụ:** I prefer digital books to printed ones.<br>*(-> Tôi thích sách kỹ thuật số hơn sách in.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Recording or storing information as numbers, especially zeros and ones.

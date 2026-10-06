@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Base
 *n.*
 > /beɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Base::Đáy, cơ sở *(Phát âm: /beɪs/)* ![[base.mp3]]<br><br>👪 **Word Family:** Basic (adj)<br><br>💬 **Ví dụ:** The pyramid has a square base.<br>*(-> Kim tự tháp có đáy hình vuông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The lowest part or edge of something, especially the part on which it rests or is supported.

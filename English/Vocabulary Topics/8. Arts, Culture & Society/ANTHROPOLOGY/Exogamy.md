@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Exogamy
 *n.*
 > /ekˈsɒɡ.ə.mi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Exogamy::Hôn nhân ngoại tộc, ngoại hôn *(Phát âm: /ekˈsɒɡ.ə.mi/)* ![[exogamy.mp3]]<br><br>👪 **Word Family:** exogamous<br><br>💬 **Ví dụ:** Exogamy was used by ancient tribes to form political alliances.<br>*(-> Ngoại hôn được các bộ lạc cổ đại sử dụng để hình thành các liên minh chính trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The custom of marrying outside a community, clan, or tribe.

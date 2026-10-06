@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Topography
 *Noun*
 > /təˈpɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Topography::Địa hình *(Phát âm: /təˈpɒɡrəfi/)* ![[topography.mp3]]<br><br>👪 **Word Family:** topographic, topographical<br><br>💬 **Ví dụ:** The rugged topography of the area makes road construction difficult.<br>*(-> Địa hình hiểm trở của khu vực làm cho việc xây dựng đường gặp khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of the natural and artificial physical features of an area.

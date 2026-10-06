@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # President
 *n.*
 > /ˈprezɪdənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+President::Tổng thống, chủ tịch *(Phát âm: /ˈprezɪdənt/)* ![[president.mp3]]<br><br>👪 **Word Family:** presidency, presidential<br><br>💬 **Ví dụ:** The president gave a speech on television tonight.<br>*(-> Tổng thống đã có bài phát biểu trên truyền hình tối nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The elected head of a republican state

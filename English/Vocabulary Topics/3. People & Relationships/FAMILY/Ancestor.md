@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Ancestor
 *noun*
 > /ˈæn.ses.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Ancestor::Tổ tiên *(Phát âm: /ˈæn.ses.tər/)* ![[ancestor.mp3]]<br><br>👪 **Word Family:** ancestry (n), ancestral (adj)<br><br>💬 **Ví dụ:** My ancestors were farmers.<br>*(-> Tổ tiên tôi là nông dân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person related to you who lived a long time ago.

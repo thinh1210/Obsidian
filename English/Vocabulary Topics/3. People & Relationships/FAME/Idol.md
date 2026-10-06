@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Idol
 *n.*
 > /ˈaɪdəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Idol::Thần tượng *(Phát âm: /ˈaɪdəl/)* ![[idol.mp3]]<br><br>👪 **Word Family:** idolize (v.)<br><br>💬 **Ví dụ:** She is a teen idol.<br>*(-> Cô ấy là thần tượng của giới trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who is greatly admired or loved.

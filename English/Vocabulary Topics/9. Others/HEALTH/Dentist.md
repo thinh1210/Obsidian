@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Dentist
 *n.*
 > /ˈden.tɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Dentist::Nha sĩ, bác sĩ chuyên khoa răng hàm mặt *(Phát âm: /ˈden.tɪst/)* ![[dentist.mp3]]<br><br>👪 **Word Family:** dental (adj), dentistry (n)<br><br>💬 **Ví dụ:** I have an appointment with the dentist tomorrow morning for a cleaning.<br>*(-> Tôi có lịch hẹn với nha sĩ vào sáng mai để lấy cao răng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A medical professional who specializes in examining and treating people's teeth.

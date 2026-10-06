@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Poet
 *noun*
 > /ˈpəʊ.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Poet::Nhà thơ, thi sĩ *(Phát âm: /ˈpəʊ.ɪt/)* ![[poet.mp3]]<br><br>👪 **Word Family:** poem (n), poetry (n), poetic (adj)<br><br>💬 **Ví dụ:** She is a talented young poet who performs at local cafes.<br>*(-> Cô ấy là một nhà thơ trẻ tài năng biểu diễn tại các quán cà phê địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who writes poems.

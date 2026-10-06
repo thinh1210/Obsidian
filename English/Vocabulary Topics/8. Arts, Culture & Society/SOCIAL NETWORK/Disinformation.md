@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Disinformation
 *noun*
 > /ˌdɪsˌɪnfəˈmeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Disinformation::Thông tin sai lệch có chủ đích, tin giả độc hại *(Phát âm: /ˌdɪsˌɪnfəˈmeɪʃn/)* ![[disinformation.mp3]]<br><br>👪 **Word Family:** inform (v), information (n), misinformation (n)<br><br>💬 **Ví dụ:** Be careful with news during elections, as there is a lot of disinformation online.<br>*(-> Hãy cẩn thận với tin tức trong các kỳ bầu cử, vì có rất nhiều thông tin sai lệch có chủ đích trên mạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** False information spread deliberately to deceive or influence public opinion

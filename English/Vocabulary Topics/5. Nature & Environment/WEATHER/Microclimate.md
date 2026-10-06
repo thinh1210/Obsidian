@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Microclimate
 *noun*
 > /ˈmaɪkrəʊklaɪmət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Microclimate::Khí hậu vi mô, tiểu khí hậu *(Phát âm: /ˈmaɪkrəʊklaɪmət/)* ![[microclimate.mp3]]<br><br>👪 **Word Family:** Climate (noun), microclimatic (adj)<br><br>💬 **Ví dụ:** The valley has its own unique microclimate that allows rare plants to grow.<br>*(-> Thung lũng có tiểu khí hậu độc đáo riêng cho phép các loài thực vật quý hiếm phát triển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The climate of a very small or restricted area, especially when it differs from the surrounding area

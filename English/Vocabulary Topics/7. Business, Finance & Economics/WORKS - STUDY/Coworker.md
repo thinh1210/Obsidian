@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Coworker
 *n.*
 > /ˈkəʊˌwɜː.kər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Coworker::Bạn đồng nghiệp cùng làm việc chung trong cơ quan, tổ chức *(Phát âm: /ˈkəʊˌwɜː.kər/)* ![[coworker.mp3]]<br><br>👪 **Word Family:** work (v/n), worker (n)<br><br>💬 **Ví dụ:** My coworkers surprised me with a birthday cake during our lunch break.<br>*(-> Các đồng nghiệp đã làm tôi bất ngờ với chiếc bánh sinh nhật trong giờ nghỉ trưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person with whom one works in a profession, business, or office environment.

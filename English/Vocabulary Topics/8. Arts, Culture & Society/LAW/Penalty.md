@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Penalty
 *noun*
 > /ˈpen.əl.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Penalty::Hình phạt, tiền phạt *(Phát âm: /ˈpen.əl.ti/)* ![[penalty.mp3]]<br><br>👪 **Word Family:** Penalty (n), Penalize (v), Penal (adj)<br><br>💬 **Ví dụ:** There is a heavy financial penalty for late payment of taxes.<br>*(-> Có một hình phạt tài chính nặng nề đối với việc nộp thuế muộn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A punishment imposed for a breaking of a law, rule, or contract.

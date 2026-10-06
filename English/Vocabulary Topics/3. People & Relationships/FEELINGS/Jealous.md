@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Jealous
 *adj*
 > /ˈdʒeləs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Jealous::Ghen tị *(Phát âm: /ˈdʒeləs/)* ![[jealous.mp3]]<br><br>👪 **Word Family:** jealousy (n), jealously (adv)<br><br>💬 **Ví dụ:** She was jealous of her sister's success.<br>*(-> Cô ấy ghen tị với thành công của chị gái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing envy of someone or their achievements.

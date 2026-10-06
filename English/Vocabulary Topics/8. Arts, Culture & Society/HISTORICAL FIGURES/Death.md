@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Death
 *n.*
 > /deθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Death::Cái chết, sự qua đời *(Phát âm: /deθ/)* ![[death.mp3]]<br><br>👪 **Word Family:** dead, die, deathly<br><br>💬 **Ví dụ:** The news of his death shocked everyone.<br>*(-> Tin tức về cái chết của ông đã làm mọi người sốc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or fact of dying or being killed; the end of the life of a person or organism

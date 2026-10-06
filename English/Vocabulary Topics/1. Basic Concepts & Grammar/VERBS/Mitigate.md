@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Mitigate
 *Verb*
 > /ˈmɪt.ɪ.ɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Mitigate::Giảm nhẹ, làm dịu bớt *(Phát âm: /ˈmɪt.ɪ.ɡeɪt/)* ![[mitigate.mp3]]<br><br>👪 **Word Family:** Mitigation (n), Mitigating (adj)<br><br>💬 **Ví dụ:** We need to mitigate the noise.<br>*(-> Chúng ta cần giảm tiếng ồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something less severe, harmful, or painful.

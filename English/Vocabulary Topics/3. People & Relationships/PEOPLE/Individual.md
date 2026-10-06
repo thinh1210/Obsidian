@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Individual
 *n.*
 > /ˌɪn.dɪˈvɪdʒ.u.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Individual::Cá nhân *(Phát âm: /ˌɪn.dɪˈvɪdʒ.u.əl/)* ![[individual.mp3]]<br><br>👪 **Word Family:** Individuality<br><br>💬 **Ví dụ:** Every individual matters.<br>*(-> Mỗi cá nhân đều quan trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A single human being as distinct from a group.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Land
 *n.*
 > /lænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Land::Đất đai *(Phát âm: /lænd/)* ![[land.mp3]]<br><br>👪 **Word Family:** landlord (n), land (v)<br><br>💬 **Ví dụ:** He inherited a large piece of land from his grandfather.<br>*(-> Anh ấy thừa kế một mảnh đất lớn từ ông nội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The part of the earth's surface that is not covered by water.

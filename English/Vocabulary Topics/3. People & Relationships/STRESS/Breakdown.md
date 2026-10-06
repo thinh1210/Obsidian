@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Breakdown
 *n.*
 > /ˈbreɪkdaʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Breakdown::Sự suy sụp *(Phát âm: /ˈbreɪkdaʊn/)* ![[breakdown.mp3]]<br><br>👪 **Word Family:** break down (phr v)<br><br>💬 **Ví dụ:** She had a nervous breakdown.<br>*(-> Cô ấy đã bị suy nhược thần kinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden collapse in physical or mental health

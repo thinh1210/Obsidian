@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Dissolve
 *verb*
 > /dɪˈzɒlv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Dissolve::Hòa tan, tan ra *(Phát âm: /dɪˈzɒlv/)* ![[dissolve.mp3]]<br><br>👪 **Word Family:** dissolution (n), soluble (adj), solubility (n)<br><br>💬 **Ví dụ:** Sugar will dissolve quickly in hot tea.<br>*(-> Đường sẽ hòa tan nhanh chóng trong trà nóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become incorporated into a liquid so as to form a solution.

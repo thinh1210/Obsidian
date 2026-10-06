@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Thrift
 *n*
 > /θrɪft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Thrift::Sự tiết kiệm *(Phát âm: /θrɪft/)* ![[thrift.mp3]]<br><br>👪 **Word Family:** Thrifty<br><br>💬 **Ví dụ:** She buys at thrift stores.<br>*(-> Cô ấy mua ở cửa hàng đồ cũ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The careful use of money

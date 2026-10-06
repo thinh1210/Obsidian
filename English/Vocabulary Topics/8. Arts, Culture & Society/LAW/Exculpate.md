@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Exculpate
 *verb*
 > /ˈekskʌlpeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Exculpate::Minh oan; giải thoát khỏi tội lỗi *(Phát âm: /ˈekskʌlpeɪt/)* ![[exculpate.mp3]]<br><br>👪 **Word Family:** exculpation (n), exculpatory (adj), culpable (adj)<br><br>💬 **Ví dụ:** The new evidence exculpated him completely.<br>*(-> Bằng chứng mới hoàn toàn minh oan cho anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To show or declare that someone is not guilty of wrongdoing

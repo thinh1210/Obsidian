@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Sightseeing
 *Noun*
 > /ˈsaɪtˌsiːɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Sightseeing::Ngắm cảnh *(Phát âm: /ˈsaɪtˌsiːɪŋ/)* ![[sightseeing.mp3]]<br><br>👪 **Word Family:** sightseer (n)<br><br>💬 **Ví dụ:** We did a lot of sightseeing in Rome.<br>*(-> Chúng tôi đã đi ngắm cảnh rất nhiều ở Rome.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of visiting interesting places, especially by people on holiday.

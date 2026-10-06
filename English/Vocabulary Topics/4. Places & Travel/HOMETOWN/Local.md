@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Local
 *adj.*
 > /ˈləʊkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
+
+## 🗂️ Flashcard
+Local::Địa phương *(Phát âm: /ˈləʊkl/)* ![[local.mp3]]<br><br>👪 **Word Family:** Locality (n.)<br><br>💬 **Ví dụ:** I like eating local food.<br>*(-> Tôi thích ăn thức ăn địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Belonging or relating to a particular area or neighborhood.

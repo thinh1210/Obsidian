@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Scenery
 *Noun*
 > /ˈsinəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Scenery::Phong cảnh *(Phát âm: /ˈsinəri/)* ![[scenery.mp3]]<br><br>👪 **Word Family:** scenic (adj)<br><br>💬 **Ví dụ:** The scenery in the mountains is beautiful.<br>*(-> Phong cảnh ở núi rất đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The general appearance of the natural environment, especially when it is beautiful.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Exchange
 *v.*
 > /ɪksˈtʃeɪndʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Exchange::Đổi hàng lấy món đồ khác hoặc kích cỡ khác tại cửa hàng *(Phát âm: /ɪksˈtʃeɪndʒ/)* ![[exchange.mp3]]<br><br>👪 **Word Family:** exchangeable (adj)<br><br>💬 **Ví dụ:** The shirt was a bit too small, so I went back to the boutique to exchange it for a medium.<br>*(-> Chiếc áo hơi chật một chút nên tôi đã quay lại cửa hàng để đổi lấy cỡ vừa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something and receive something different in return.

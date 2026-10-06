@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Glassblowing
 *n.*
 > /ˈɡlɑːsˌbləʊ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Glassblowing::Nghệ thuật thổi thủy tinh *(Phát âm: /ˈɡlɑːsˌbləʊ.ɪŋ/)* ![[glassblowing.mp3]]<br><br>👪 **Word Family:** Glassblower (n.)<br><br>💬 **Ví dụ:** We took a glassblowing class and I made my own colorful vase.<br>*(-> Chúng tôi đã tham gia một lớp học thổi thủy tinh và tôi đã tự làm một chiếc bình rực rỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of shaping a mass of glass that has been softened by heat by blowing air into it through a tube.

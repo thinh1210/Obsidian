@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Facilitate
 *v.*
 > /fəˈsɪlɪteɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Facilitate::Tạo điều kiện thuận lợi, hỗ trợ *(Phát âm: /fəˈsɪlɪteɪt/)* ![[facilitate.mp3]]<br><br>👪 **Word Family:** facilitator, facilitation, facility<br><br>💬 **Ví dụ:** The new software is designed to facilitate online learning.<br>*(-> Phần mềm mới được thiết kế để tạo thuận lợi cho việc học trực tuyến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make an action or process easy or easier

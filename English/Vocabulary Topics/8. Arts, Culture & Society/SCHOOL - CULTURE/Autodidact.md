@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Autodidact
 *noun*
 > /ˌɔːtəʊˈdaɪdækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Autodidact::Người tự học *(Phát âm: /ˌɔːtəʊˈdaɪdækt/)* ![[autodidact.mp3]]<br><br>👪 **Word Family:** autodidactic (adj), autodidacticism (n)<br><br>💬 **Ví dụ:** Leonardo da Vinci was a famous autodidact who mastered multiple arts and sciences on his own.<br>*(-> Leonardo da Vinci là một người tự học nổi tiếng, người đã tự mình làm chủ nhiều môn nghệ thuật và khoa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A self-taught person.

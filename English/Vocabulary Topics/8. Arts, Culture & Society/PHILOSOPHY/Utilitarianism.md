@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Utilitarianism
 *n.*
 > /juːˌtɪl.ɪˈteə.ri.ə.nɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Utilitarianism::Thuyết vị lợi, chủ nghĩa thực dụng *(Phát âm: /juːˌtɪl.ɪˈteə.ri.ə.nɪ.zəm/)* ![[utilitarianism.mp3]]<br><br>👪 **Word Family:** utilitarian, utility<br><br>💬 **Ví dụ:** Choosing to sacrifice one vacation day so the whole family can go is a form of utilitarianism.<br>*(-> Việc chọn hy sinh một ngày nghỉ để cả gia đình cùng đi là một hình thức của thuyết vị lợi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The doctrine that actions are right if they benefit the majority.

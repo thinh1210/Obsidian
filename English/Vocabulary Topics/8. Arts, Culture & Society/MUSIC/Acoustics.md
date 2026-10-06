@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Acoustics
 *n.*
 > /əˈkuː.stɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Acoustics::Âm học, đặc tính âm thanh (của phòng) *(Phát âm: /əˈkuː.stɪks/)* ![[acoustics.mp3]]<br><br>👪 **Word Family:** acoustic (adj), acoustician (n)<br><br>💬 **Ví dụ:** The opera house is famous for its perfect acoustics.<br>*(-> Nhà hát lớn nổi tiếng với đặc tính âm thanh hoàn hảo của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The properties or qualities of a room or building that determine how sound is transmitted in it.

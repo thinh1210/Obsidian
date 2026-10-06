@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Mentor
 *n., v.*
 > /ˈmen.tɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Mentor::Người cố vấn, người hướng dẫn kinh nghiệm *(Phát âm: /ˈmen.tɔːr/)* ![[mentor.mp3]]<br><br>👪 **Word Family:** mentor (n/v), mentorship (n), mentee (n)<br><br>💬 **Ví dụ:** She found a mentor who guided her through her first job.<br>*(-> Cô ấy tìm được một người cố vấn hướng dẫn cô qua công việc đầu tiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An experienced and trusted adviser who helps and guides a less experienced person.

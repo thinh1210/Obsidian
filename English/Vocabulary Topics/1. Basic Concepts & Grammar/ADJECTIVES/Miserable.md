@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Miserable
 *adj.*
 > /ˈmɪzrəbl/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Miserable::Khốn khổ *(Phát âm: /ˈmɪzrəbl/)* ![[miserable.mp3]]<br><br>👪 **Word Family:** misery<br><br>💬 **Ví dụ:** I feel miserable.<br>*(-> Tôi thấy khốn khổ.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Wretchedly unhappy or uncomfortable

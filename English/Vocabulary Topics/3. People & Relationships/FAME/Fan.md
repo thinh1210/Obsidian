@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Fan
 *n.*
 > /fæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Fan::Người hâm mộ *(Phát âm: /fæn/)* ![[fan.mp3]]<br><br>👪 **Word Family:** fanatic (n.)<br><br>💬 **Ví dụ:** I am a fan of this band.<br>*(-> Tôi là fan của ban nhạc này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who admires someone.

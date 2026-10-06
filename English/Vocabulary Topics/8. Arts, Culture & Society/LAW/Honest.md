@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Honest
 *adjective*
 > /ˈɒn.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Honest::Trung thực, lương thiện *(Phát âm: /ˈɒn.ɪst/)* ![[honest.mp3]]<br><br>👪 **Word Family:** Honest (adj), Honesty (n), Honestly (adv), Dishonest (adj)<br><br>💬 **Ví dụ:** To be honest, I did not see who took your pen from the desk.<br>*(-> Thật lòng mà nói, tôi không thấy ai đã lấy bút của bạn khỏi bàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free of deceit and untruthfulness; sincere.

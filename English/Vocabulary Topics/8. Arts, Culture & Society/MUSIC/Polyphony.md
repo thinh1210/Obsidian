@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Polyphony
 *n.*
 > /pəˈlɪf.ə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Polyphony::Nhạc đa âm, phong cách đa giọng (nhiều giai điệu cùng lúc) *(Phát âm: /pəˈlɪf.ə.ni/)* ![[polyphony.mp3]]<br><br>👪 **Word Family:** polyphonic (adj)<br><br>💬 **Ví dụ:** Renaissance choral music is famous for its rich polyphony.<br>*(-> Nhạc hợp xướng thời Phục Hưng nổi tiếng với phong cách đa âm phong phú của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The style of simultaneously combining a number of parts, each forming an individual melody and harmonizing with each other.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Attic
 *noun*
 > /ˈætɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Attic::Gác xép *(Phát âm: /ˈætɪk/)* ![[attic.mp3]]<br><br>👪 **Word Family:** **Synonyms:** loft<br><br>💬 **Ví dụ:** We store old boxes in the attic.<br>*(-> Chúng tôi cất những chiếc hộp cũ trên gác xép.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A space or room just below the roof of a building.

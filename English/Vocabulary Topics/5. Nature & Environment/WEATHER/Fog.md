@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Fog
 *noun*
 > /fɒɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Fog::Sương mù *(Phát âm: /fɒɡ/)* ![[fog.mp3]]<br><br>👪 **Word Family:** Foggy (adj), fogginess (noun)<br><br>💬 **Ví dụ:** We couldn't see the road because of the thick fog.<br>*(-> Chúng tôi không thể nhìn thấy đường vì sương mù dày đặc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thick cloud of tiny water droplets close to land or water

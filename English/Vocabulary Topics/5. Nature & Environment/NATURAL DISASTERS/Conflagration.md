@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Conflagration
 *noun*
 > /ˌkɒn.fləˈɡreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
+
+## 🗂️ Flashcard
+Conflagration::Đám cháy lớn, hỏa hoạn tàn khốc *(Phát âm: /ˌkɒn.fləˈɡreɪ.ʃən/)* ![[conflagration.mp3]]<br><br>👪 **Word Family:** conflagrant (adj)<br><br>💬 **Ví dụ:** The dry conditions turned the small campfire into a massive conflagration.<br>*(-> Điều kiện khô hạn đã biến đống lửa trại nhỏ thành một đám cháy khổng lồ tàn khốc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large fire that destroys a lot of land or buildings.

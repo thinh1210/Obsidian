@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Impressive
 *adj*
 > /ɪmˈpres.ɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Impressive::Ấn tượng *(Phát âm: /ɪmˈpres.ɪv/)* ![[impressive.mp3]]<br><br>👪 **Word Family:** Impress (verb), Impression (noun)<br><br>💬 **Ví dụ:** Her piano skills are very impressive.<br>*(-> Kỹ năng đánh đàn piano của cô ấy rất ấn tượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Evoking admiration through size, quality, or skill.

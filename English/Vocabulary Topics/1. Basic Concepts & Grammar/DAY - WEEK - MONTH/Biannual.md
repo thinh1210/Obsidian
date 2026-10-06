@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Biannual
 *adj*
 > /baɪˈænjuəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Biannual::Hai lần một năm *(Phát âm: /baɪˈænjuəl/)* ![[biannual.mp3]]<br><br>👪 **Word Family:** biannually (adv)<br><br>💬 **Ví dụ:** The committee holds a biannual meeting.<br>*(-> Ủy ban tổ chức cuộc họp hai lần một năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring twice a year.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Habilitation
 *n.*
 > /həˌbɪl.ɪˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Habilitation::Học vị habilitation (cao nhất trong hệ thống học thuật châu Âu) *(Phát âm: /həˌbɪl.ɪˈteɪ.ʃən/)* ![[habilitation.mp3]]<br><br>👪 **Word Family:** habilitation (n), habilitate (v)<br><br>💬 **Ví dụ:** After his PhD, he pursued a habilitation to become a professor.<br>*(-> Sau tiến sĩ, anh ấy theo đuổi habilitation để trở thành giáo sư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The highest academic qualification in many European countries, required to become a full professor.

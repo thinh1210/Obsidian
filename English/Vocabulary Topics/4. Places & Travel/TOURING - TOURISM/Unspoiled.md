@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Unspoiled
 *Adjective*
 > /ʌnˈspɔɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
+
+## 🗂️ Flashcard
+Unspoiled::Hoang sơ *(Phát âm: /ʌnˈspɔɪld/)* ![[unspoiled.mp3]]<br><br>👪 **Word Family:** spoil (v)<br><br>💬 **Ví dụ:** The island features completely unspoiled beaches.<br>*(-> Hòn đảo có những bãi biển hoàn toàn hoang sơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Beautiful because it has not been changed or damaged by people.

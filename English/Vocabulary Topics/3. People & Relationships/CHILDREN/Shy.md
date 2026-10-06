@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Shy
 *adj.*
 > /ʃaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Shy::Nhút nhát, bẽn lẽn, e thẹn khi gặp người lạ *(Phát âm: /ʃaɪ/)* ![[shy.mp3]]<br><br>👪 **Word Family:** shyly (adv), shyness (n)<br><br>💬 **Ví dụ:** The shy toddler hid behind his mother's skirt whenever unfamiliar guests entered the house.<br>*(-> Đứa trẻ mới biết đi nhút nhát nép sau váy mẹ bất cứ khi nào có khách lạ bước vào nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Nervous and uncomfortable with other people.

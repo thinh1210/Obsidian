@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Relaxation
 *n.*
 > /ˌriːlækˈseɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Relaxation::Khoảng thời gian thả lỏng tâm trí và thể xác sau chuỗi ngày làm việc căng thẳng *(Phát âm: /ˌriːlækˈseɪʃn/)* ![[relaxation.mp3]]<br><br>👪 **Word Family:** relax (v), relaxed (adj), relaxing (adj)<br><br>💬 **Ví dụ:** A weekend getaway provided much-needed relaxation after months of hard work.<br>*(-> Chuyến đi nghỉ cuối tuần đã mang lại sự thư giãn quý báu sau bao tháng ngày làm việc vất vả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being free from tension and anxiety; recreation or rest.

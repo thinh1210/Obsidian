@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # revolutionize
 *v.*
 > /ˌrev.əˈluː.ʃən.aɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Revolutionize::Cách mạng hóa *(Phát âm: /ˌrev.əˈluː.ʃən.aɪz/)* ![[revolutionize.mp3]]<br><br>👪 **Word Family:** revolution (n), revolutionary (adj)<br><br>💬 **Ví dụ:** Smartphone technology has revolutionized how we communicate.<br>*(-> Công nghệ điện thoại thông minh đã cách mạng hóa cách chúng ta giao tiếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To completely change the way people do something

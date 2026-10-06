@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Estuary
 *Noun*
 > /ˈestʃuəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Estuary::Cửa sông *(Phát âm: /ˈestʃuəri/)* ![[estuary.mp3]]<br><br>👪 **Word Family:** estuarine<br><br>💬 **Ví dụ:** Many species of fish spawn in the warm waters of the estuary.<br>*(-> Nhiều loài cá đẻ trứng ở vùng nước ấm của cửa sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tidal mouth of a large river, where the tide meets the stream.

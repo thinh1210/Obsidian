@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Relax
 *v.*
 > /rɪˈlæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Relax::Thư giãn *(Phát âm: /rɪˈlæks/)* ![[relax.mp3]]<br><br>👪 **Word Family:** relaxation (n.)<br><br>💬 **Ví dụ:** I relax by reading.<br>*(-> Tôi thư giãn bằng cách đọc sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Rest or engage in an enjoyable activity so as to become less tired or anxious.

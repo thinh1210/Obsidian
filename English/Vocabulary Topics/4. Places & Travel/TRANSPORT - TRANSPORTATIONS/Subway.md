@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Subway
 *noun*
 > /ˈsʌbweɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Subway::Tàu điện ngầm *(Phát âm: /ˈsʌbweɪ/)* ![[subway.mp3]]<br><br>👪 **Word Family:** Noun: subway (tàu điện ngầm)<br><br>💬 **Ví dụ:** I take the subway to work every morning because it is faster than driving.<br>*(-> Tôi đi tàu điện ngầm đi làm mỗi sáng vì nó nhanh hơn lái xe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An underground railway system in a city.

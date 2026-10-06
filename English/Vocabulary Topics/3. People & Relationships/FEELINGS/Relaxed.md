@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Relaxed
 *adj*
 > /rɪˈlækst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Relaxed::Thư giãn, thoải mái *(Phát âm: /rɪˈlækst/)* ![[relaxed.mp3]]<br><br>👪 **Word Family:** relax (v), relaxation (n)<br><br>💬 **Ví dụ:** I feel so relaxed after the spa.<br>*(-> Tôi thấy rất thư giãn sau khi đi spa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from tension and anxiety.

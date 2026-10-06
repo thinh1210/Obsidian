@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Independence
 *noun*
 > /ˌɪn.dɪˈpen.dəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Independence::Sự độc lập, nền độc lập *(Phát âm: /ˌɪn.dɪˈpen.dəns/)* ![[independence.mp3]]<br><br>👪 **Word Family:** independent (adj), independently (adv), depend (v)<br><br>💬 **Ví dụ:** The country gained its independence after years of struggle.<br>*(-> Đất nước đã giành được độc lập sau nhiều năm đấu tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or state of being independent, self-governing, and free from outside control.

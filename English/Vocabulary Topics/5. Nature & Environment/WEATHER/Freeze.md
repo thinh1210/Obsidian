@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Freeze
 *v.*
 > /friːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Freeze::Đóng băng, chuyển thành thể rắn vì nhiệt độ âm; lạnh buốt cứng người *(Phát âm: /friːz/)* ![[freeze.mp3]]<br><br>👪 **Word Family:** freezer (n), frozen (adj), freezing (adj)<br><br>💬 **Ví dụ:** Water left outside overnight will freeze solid when the mercury drops below zero.<br>*(-> Nước để ngoài trời qua đêm sẽ đóng băng cứng ngắc khi nhiệt kế rơi xuống dưới 0 độ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To turn from liquid into solid ice due to extreme cold; to feel very cold.

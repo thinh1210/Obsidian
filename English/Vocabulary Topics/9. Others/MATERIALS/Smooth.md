@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Smooth
 *adjective.*
 > /smuːð/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Smooth::Nhẵn, mịn, mượt mà, trôi chảy *(Phát âm: /smuːð/)* ![[smooth.mp3]]<br><br>👪 **Word Family:** smoothly (Adverb), smoothness (Noun), smoothen (Verb)<br><br>💬 **Ví dụ:** The marble floor felt cool and smooth under our bare feet.<br>*(-> Sàn đá cẩm thạch cho cảm giác mát lạnh và nhẵn mịn dưới bàn chân trần của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an even and regular surface or consistency; free from projections or lumps.

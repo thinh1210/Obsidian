@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Corrosive
 *adjective.*
 > /kəˈrəʊsɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Corrosive::Ăn mòn, gặm nhấm, phá hủy *(Phát âm: /kəˈrəʊsɪv/)* ![[corrosive.mp3]]<br><br>👪 **Word Family:** corrosion (Noun), corrode (Verb), corrosively (Adverb)<br><br>💬 **Ví dụ:** Acid battery fluid is highly corrosive and will burn your skin.<br>*(-> Dung dịch axit trong ắc quy có tính ăn mòn cao và sẽ làm bỏng da bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to cause corrosion; destructive or harmful.

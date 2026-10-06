@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Coast
 *n.*
 > /koʊst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
+
+## 🗂️ Flashcard
+Coast::Bờ biển *(Phát âm: /koʊst/)* ![[coast.mp3]]<br><br>👪 **Word Family:** coastal (adj)<br><br>💬 **Ví dụ:** We drove along the coast.<br>*(-> Chúng tôi lái xe dọc theo bờ biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of the land adjoining or near the sea.

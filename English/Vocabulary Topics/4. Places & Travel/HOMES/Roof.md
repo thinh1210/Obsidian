@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Roof
 *noun*
 > /ruːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Roof::Mái nhà *(Phát âm: /ruːf/)* ![[roof.mp3]]<br><br>👪 **Word Family:** roofing (n)<br><br>💬 **Ví dụ:** The roof is leaking.<br>*(-> Mái nhà đang bị dột.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The structure forming the upper covering of a building or vehicle.

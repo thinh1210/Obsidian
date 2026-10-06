@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Forget
 *v.*
 > /fəˈɡet/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Forget::Quên, không còn nhớ được trong trí não; đãng trí quên mang theo *(Phát âm: /fəˈɡet/)* ![[forget.mp3]]<br><br>👪 **Word Family:** forgettable (adj), unforgettable (adj), forgetful (adj)<br><br>💬 **Ví dụ:** Don't forget to take your umbrella; the weather forecast predicts heavy afternoon rain.<br>*(-> Đừng quên mang theo ô; dự báo thời tiết cho biết buổi chiều sẽ có mưa to đấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To be unable to think of, or not be able to remember, a fact, something that happened, or how to do something.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Congenital
 *adj*
 > /kənˈdʒenɪtl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Congenital::Bẩm sinh *(Phát âm: /kənˈdʒenɪtl/)* ![[congenital.mp3]]<br><br>👪 **Word Family:** congenitally (adv)<br><br>💬 **Ví dụ:** The baby underwent surgery to correct a congenital heart defect.<br>*(-> Đứa trẻ đã trải qua phẫu thuật để khắc phục dị tật tim bẩm sinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a disease or physical abnormality) present from birth.

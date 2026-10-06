@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Gate
 *noun*
 > /ɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Gate::Cổng ra máy bay *(Phát âm: /ɡeɪt/)* ![[gate.mp3]]<br><br>👪 **Word Family:** gated (adj), gateway (n)<br><br>💬 **Ví dụ:** Our flight departs from gate 14, so let's hurry.<br>*(-> Chuyến bay của chúng ta xuất phát từ cổng 14, nhanh lên thôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The numbered exit at an airport through which passengers board their plane.

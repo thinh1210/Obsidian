@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Animation
 *n.*
 > /ˌænɪˈmeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Animation::Phim hoạt hình, kỹ thuật làm hoạt hình *(Phát âm: /ˌænɪˈmeɪʃn/)* ![[animation.mp3]]<br><br>👪 **Word Family:** animate, animator, animated<br><br>💬 **Ví dụ:** Pixar is famous for its computer animation.<br>*(-> Pixar nổi tiếng với kỹ thuật làm hoạt hình máy tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The technique of photographing successive drawings or positions of puppets to create an illusion of movement

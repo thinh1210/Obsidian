@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Museum
 *noun*
 > /mjuːˈziː.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Museum::Viện bảo tàng *(Phát âm: /mjuːˈziː.əm/)* ![[museum.mp3]]<br><br>👪 **Word Family:** museology (n), museologist (n)<br><br>💬 **Ví dụ:** Children love going to the natural history museum to see dinosaur fossils.<br>*(-> Trẻ em thích đi bảo tàng lịch sử tự nhiên để xem hóa thạch khủng long.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.

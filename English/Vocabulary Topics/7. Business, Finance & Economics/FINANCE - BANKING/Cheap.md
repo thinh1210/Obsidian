@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Cheap
 *adj.*
 > /tʃiːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Cheap::Rẻ, giá thấp *(Phát âm: /tʃiːp/)* ![[cheap.mp3]]<br><br>👪 **Word Family:** cheaply (adv), cheapness (noun)<br><br>💬 **Ví dụ:** I found a cheap hotel near the train station.<br>*(-> Tôi đã tìm thấy một khách sạn rẻ gần nhà ga.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Costing little money or less than is usual.

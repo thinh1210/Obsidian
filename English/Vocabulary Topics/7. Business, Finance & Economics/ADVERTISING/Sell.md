@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Sell
 *verb*
 > /sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Sell::Bán *(Phát âm: /sel/)* ![[sell.mp3]]<br><br>👪 **Word Family:** sale (noun), seller (noun)<br><br>💬 **Ví dụ:** They sell handmade crafts on their website.<br>*(-> Họ bán hàng thủ công mỹ nghệ trên trang web của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give or hand over something in exchange for money.

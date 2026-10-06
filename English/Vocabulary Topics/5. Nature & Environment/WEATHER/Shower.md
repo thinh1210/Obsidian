@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Shower
 *noun*
 > /ˈʃaʊə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Shower::Cơn mưa rào *(Phát âm: /ˈʃaʊə(r)/)* ![[shower.mp3]]<br><br>👪 **Word Family:** Showery (adj), shower (verb)<br><br>💬 **Ví dụ:** We got caught in a sudden rain shower.<br>*(-> Chúng tôi bị kẹt trong một cơn mưa rào bất chợt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A brief period of rain, sometimes heavy

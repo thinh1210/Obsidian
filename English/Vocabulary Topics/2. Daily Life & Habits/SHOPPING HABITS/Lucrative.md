@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Lucrative
 *adj*
 > /ˈluː.krə.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Lucrative::Sinh lời *(Phát âm: /ˈluː.krə.tɪv/)* ![[lucrative.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** It's a lucrative business.<br>*(-> Đó là doanh nghiệp sinh lời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing a lot of money

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Craft
 *n*
 > /krɑːft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Craft::Đồ thủ công *(Phát âm: /krɑːft/)* ![[craft.mp3]]<br><br>👪 **Word Family:** Craftsman (n), Crafty (adj)<br><br>💬 **Ví dụ:** She makes beautiful paper crafts.<br>*(-> Cô ấy làm đồ thủ công bằng giấy rất đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving skill in making things by hand.

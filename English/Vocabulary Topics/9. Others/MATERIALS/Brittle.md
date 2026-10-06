@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Brittle
 *adjective.*
 > /ˈbrɪtl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Brittle::Giòn, dễ vỡ *(Phát âm: /ˈbrɪtl/)* ![[brittle.mp3]]<br><br>👪 **Word Family:** brittleness (Noun)<br><br>💬 **Ví dụ:** Old plastic becomes brittle and cracks under pressure.<br>*(-> Nhựa cũ trở nên giòn và nứt ra khi chịu áp lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Hard but liable to break or shatter easily.

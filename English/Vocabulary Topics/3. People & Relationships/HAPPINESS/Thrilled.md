@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Thrilled
 *adj.*
 > /θrɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Thrilled::Hồi hộp sung sướng, rất vui *(Phát âm: /θrɪld/)* ![[thrilled.mp3]]<br><br>👪 **Word Family:** Thrill (n/v), Thrilling (adj)<br><br>💬 **Ví dụ:** I am thrilled to go.<br>*(-> Tôi rất sung sướng được đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely happy about something.

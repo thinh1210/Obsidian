@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Stippling
 *noun*
 > /ˈstɪp.lɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Stippling::Vết bỏng thuốc súng / hạt thuốc súng chưa cháy hết bám vào da quanh vết bắn, xuất hiện khi súng bắn ở cự ly gần *(Phát âm: /ˈstɪp.lɪŋ/)* ![[stippling.mp3]]<br><br>👪 **Word Family:** stipple (v/n), stippled (adj), tattooing (syn in forensics)<br><br>💬 **Ví dụ:** The doctor noticed small marks around the wound and sent the patient to a specialist.<br>*(-> Bác sĩ chú ý đến các vết nhỏ quanh vết thương và gửi bệnh nhân đến chuyên gia.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small punctate abrasions or powder burns on the skin surrounding a gunshot entry wound, caused by hot gases and unburnt powder from a firearm discharged at close range.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Conglomerate
 *noun*
 > /kənˈɡlɑːmərət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Conglomerate::tập đoàn đa ngành *(Phát âm: /kənˈɡlɑːmərət/)* ![[conglomerate.mp3]]<br><br>👪 **Word Family:** conglomeration (noun)<br><br>💬 **Ví dụ:** Samsung is a massive South Korean conglomerate that produces electronics, ships, and life insurance.<br>*(-> Samsung là một tập đoàn đa ngành khổng lồ của Hàn Quốc sản xuất đồ điện tử, tàu thủy và bảo hiểm nhân thọ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a large company that is made up of several smaller companies that sell different products or services.

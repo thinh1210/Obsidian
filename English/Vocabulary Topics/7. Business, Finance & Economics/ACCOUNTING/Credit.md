@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Credit
 *n.*
 > /ˈkredɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Credit::Bên Có (ghi có), tín dụng *(Phát âm: /ˈkredɪt/)* ![[credit.mp3]]<br><br>👪 **Word Family:** creditor, creditable, creditability<br><br>💬 **Ví dụ:** I bought this television on credit.<br>*(-> Tôi đã mua chiếc tivi này bằng phương thức trả góp/tín dụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An entry recording a sum received, listed on the right-hand side of an account

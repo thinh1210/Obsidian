@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Sun
 *noun*
 > /sʌn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Sun::Mặt trời *(Phát âm: /sʌn/)* ![[sun.mp3]]<br><br>👪 **Word Family:** Sunny (adj), sunless (adj), sunshine (noun)<br><br>💬 **Ví dụ:** The sun rises in the east.<br>*(-> Mặt trời mọc ở hướng đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The star that provides light and heat to the Earth

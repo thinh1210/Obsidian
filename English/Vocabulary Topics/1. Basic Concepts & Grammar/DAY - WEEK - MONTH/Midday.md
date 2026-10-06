@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Midday
 *noun*
 > /ˌmɪdˈdeɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Midday::Giữa trưa *(Phát âm: /ˌmɪdˈdeɪ/)* ![[midday.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The sun is hottest at midday.<br>*(-> Mặt trời nóng nhất vào giữa trưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The middle of the day; noon.

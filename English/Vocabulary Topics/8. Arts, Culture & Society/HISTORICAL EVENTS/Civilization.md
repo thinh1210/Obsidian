@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Civilization
 *noun*
 > /ˌsɪv.əl.aɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Civilization::Nền văn minh *(Phát âm: /ˌsɪv.əl.aɪˈzeɪ.ʃən/)* ![[civilization.mp3]]<br><br>👪 **Word Family:** civil (adj), civilize (verb), civilized (adj)<br><br>💬 **Ví dụ:** Camping in the deep woods feels like you are far away from civilization.<br>*(-> Cắm trại trong rừng sâu mang lại cảm giác như bạn đang ở rất xa nền văn minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The stage of human social development and organization that is considered most advanced.

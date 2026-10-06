@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Flight
 *noun*
 > /flaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Flight::Chuyến bay *(Phát âm: /flaɪt/)* ![[flight.mp3]]<br><br>👪 **Word Family:** fly (v), flyover (n), in-flight (adj)<br><br>💬 **Ví dụ:** Our flight from Hanoi to Ho Chi Minh City takes two hours.<br>*(-> Chuyến bay của chúng tôi từ Hà Nội vào TP.HCM mất hai tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey made by flying, especially in an aircraft.

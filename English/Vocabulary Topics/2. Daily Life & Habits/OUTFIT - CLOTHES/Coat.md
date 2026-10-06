@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Coat
 *noun*
 > /koʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Coat::Áo khoác (dài) *(Phát âm: /koʊt/)* ![[coat.mp3]]<br><br>👪 **Word Family:** overcoat (n)<br><br>💬 **Ví dụ:** It's cold, put on your coat.<br>*(-> Trời lạnh, mặc áo khoác vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An outer piece of clothing with sleeves that is worn over other clothes.

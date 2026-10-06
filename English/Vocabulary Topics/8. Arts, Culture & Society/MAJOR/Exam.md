@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Exam
 *n.*
 > /ɪɡˈzæm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Exam::Kỳ thi, bài kiểm tra *(Phát âm: /ɪɡˈzæm/)* ![[exam.mp3]]<br><br>👪 **Word Family:** exam (n), examine (v), examiner (n), examination (n)<br><br>💬 **Ví dụ:** I have an exam tomorrow morning.<br>*(-> Tôi có một kỳ thi vào sáng mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal test to assess knowledge or ability.

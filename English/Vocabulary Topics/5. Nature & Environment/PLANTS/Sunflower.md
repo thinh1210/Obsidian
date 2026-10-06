@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Sunflower
 *n.*
 > /ˈsʌnflaʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Sunflower::Hoa hướng dương, loài hoa thân cao có đóa lớn màu vàng luôn quay về phía vầng thái dương *(Phát âm: /ˈsʌnflaʊər/)* ![[sunflower.mp3]]<br><br>👪 **Word Family:** sunflower-seed (n)<br><br>💬 **Ví dụ:** Tourists flock to the countryside every summer to take photos in the sunflower fields.<br>*(-> Du khách đổ về vùng nông thôn mỗi mùa hè để chụp ảnh giữa cánh đồng hướng dương vàng óng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tall plant with very large yellow flowers that turn toward the sun.

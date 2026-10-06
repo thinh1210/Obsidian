@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Wanderlust
 *Noun*
 > /ˈwɑːn.dɚ.lʌst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Wanderlust::Niềm đam mê du lịch *(Phát âm: /ˈwɑːn.dɚ.lʌst/)* ![[wanderlust.mp3]]<br><br>👪 **Word Family:** wander (v)<br><br>💬 **Ví dụ:** Seeing photos of the Alps filled me with wanderlust.<br>*(-> Nhìn những bức ảnh về dãy núi Alps khiến tôi trào dâng niềm đam mê du lịch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong desire to travel.

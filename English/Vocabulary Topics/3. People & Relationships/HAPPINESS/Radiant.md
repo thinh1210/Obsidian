@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Radiant
 *adj.*
 > /ˈreɪ.di.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Radiant::Rạng rỡ, tỏa sáng *(Phát âm: /ˈreɪ.di.ənt/)* ![[radiant.mp3]]<br><br>👪 **Word Family:** Radiance (n), Radiate (v)<br><br>💬 **Ví dụ:** She looked radiant on her wedding day.<br>*(-> Cô ấy trông thật rạng rỡ trong ngày cưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sending out light; shining or glowing brightly with joy.

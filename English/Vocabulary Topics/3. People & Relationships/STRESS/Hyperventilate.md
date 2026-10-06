@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Hyperventilate
 *v.*
 > /ˌhaɪpərˈventɪleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Hyperventilate::Thở gấp (do hoảng loạn) *(Phát âm: /ˌhaɪpərˈventɪleɪt/)* ![[hyperventilate.mp3]]<br><br>👪 **Word Family:** hyperventilation (n)<br><br>💬 **Ví dụ:** She started to hyperventilate before the stage performance.<br>*(-> Cô ấy bắt đầu thở gấp trước màn biểu diễn trên sân khấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Breathe at an abnormally rapid rate, usually due to stress/panic

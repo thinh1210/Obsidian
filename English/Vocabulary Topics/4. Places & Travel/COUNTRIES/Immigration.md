@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Immigration
 *Noun*
 > /ˌɪmɪˈɡreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+Immigration::Sự nhập cư *(Phát âm: /ˌɪmɪˈɡreɪʃn/)* ![[immigration.mp3]]<br><br>👪 **Word Family:** Immigrate, Immigrant<br><br>💬 **Ví dụ:** Immigration control at the airport took a long time.<br>*(-> Kiểm soát nhập cảnh ở sân bay mất rất nhiều thời gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of coming to live permanently in a foreign country.

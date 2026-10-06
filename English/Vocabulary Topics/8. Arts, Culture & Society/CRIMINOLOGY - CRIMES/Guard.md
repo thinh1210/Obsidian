@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Guard
 *noun*
 > /ɡɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Guard::Người bảo vệ, lính canh *(Phát âm: /ɡɑːd/)* ![[guard.mp3]]<br><br>👪 **Word Family:** guardian (n), guarded (adj)<br><br>💬 **Ví dụ:** The security guard stopped him at the entrance.<br>*(-> Nhân viên bảo vệ đã chặn anh ta lại ở lối vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who protects a place or people, or prevents prisoners from escaping

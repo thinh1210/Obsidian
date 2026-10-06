@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Organic
 *adjective*
 > /ɔːˈɡænɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Organic::Hữu cơ *(Phát âm: /ɔːˈɡænɪk/)* ![[organic.mp3]]<br><br>👪 **Word Family:** Noun: organism (sinh vật), organ (cơ quan), Adjective: organic (hữu cơ), Adverb: organically (về mặt hữu cơ)<br><br>💬 **Ví dụ:** Organic vegetables are usually more expensive than regular ones.<br>*(-> Rau hữu cơ thường đắt hơn rau thông thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Produced or involving production without the use of chemical fertilizers or pesticides.

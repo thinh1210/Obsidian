@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Link
 *noun / verb*
 > /lɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Link::Liên kết, đường link *(Phát âm: /lɪŋk/)* ![[link.mp3]]<br><br>👪 **Word Family:** link (n/v), hyperlink (n), linked (adj)<br><br>💬 **Ví dụ:** She sent me a link to the article she was talking about.<br>*(-> Cô ấy gửi cho tôi một liên kết đến bài báo mà cô ấy đang nói đến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A clickable element on a web page that takes you to another page or resource.

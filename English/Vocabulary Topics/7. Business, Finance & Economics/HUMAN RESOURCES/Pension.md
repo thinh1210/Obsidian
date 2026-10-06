@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Pension
 *n.*
 > /ˈpen.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
+
+## 🗂️ Flashcard
+Pension::Lương hưu *(Phát âm: /ˈpen.ʃən/)* ![[pension.mp3]]<br><br>👪 **Word Family:** pensioner, pensionable<br><br>💬 **Ví dụ:** My grandfather lives on his state pension.<br>*(-> Ông tôi sống nhờ vào lương hưu của nhà nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A regular payment made during a person's retirement

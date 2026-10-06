@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Deposit
 *verb/noun*
 > /dɪˈpɒz.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Deposit::Gửi tiền, tiền đặt cọc *(Phát âm: /dɪˈpɒz.ɪt/)* ![[deposit.mp3]]<br><br>👪 **Word Family:** depositor (n), deposition (n)<br><br>💬 **Ví dụ:** You need to pay a deposit of one month's rent.<br>*(-> Bạn cần phải trả tiền đặt cọc bằng một tháng tiền thuê nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put money into a bank account (v); a sum of money paid as a first installment or security (n)

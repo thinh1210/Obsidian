@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Invigorating
 *adj*
 > /ɪnˈvɪɡəreɪtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Invigorating::Tiếp thêm sinh lực, làm hăng hái *(Phát âm: /ɪnˈvɪɡəreɪtɪŋ/)* ![[invigorating.mp3]]<br><br>👪 **Word Family:** Invigorate (v), Invigoration (n)<br><br>💬 **Ví dụ:** A cold shower in the morning is truly invigorating.<br>*(-> Một bồn tắm nước lạnh vào buổi sáng thực sự giúp tiếp thêm sinh lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Making one feel strong, healthy, and full of energy.

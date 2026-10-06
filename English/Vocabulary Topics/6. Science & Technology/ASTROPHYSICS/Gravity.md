@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Gravity
 *noun*
 > /ˈɡræv.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Gravity::Lực hấp dẫn, trọng lực *(Phát âm: /ˈɡræv.ə.ti/)* ![[gravity.mp3]]<br><br>👪 **Word Family:** gravitational (adj), gravitate (v)<br><br>💬 **Ví dụ:** Without gravity, we would all float away into space.<br>*(-> Không có lực hấp dẫn, tất cả chúng ta sẽ bay lơ lửng vào không gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The force that attracts a body toward the center of the earth or toward any other physical body having mass.

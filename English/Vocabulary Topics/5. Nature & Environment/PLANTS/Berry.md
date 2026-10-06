@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Berry
 *n.*
 > /ˈberi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Berry::Quả mọng, loại quả nhỏ tròn mọng nước không có hạch cứng (như dâu tây, việt quất, mâm xôi) *(Phát âm: /ˈberi/)* ![[berry.mp3]]<br><br>👪 **Word Family:** strawberry (n), blueberry (n), raspberry (n)<br><br>💬 **Ví dụ:** We spent the sunny morning picking sweet blackberries along the river path.<br>*(-> Chúng tôi dành buổi sáng nắng đẹp để hái những trái mâm xôi ngọt lịm dọc lối mòn ven sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small round juicy fruit without a stone, typically growing on bushes.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Sweltering
 *adj.*
 > /ˈsweltərɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Sweltering::Nóng ngột ngạt, nóng đổ mồ hôi hột *(Phát âm: /ˈsweltərɪŋ/)* ![[sweltering.mp3]]<br><br>👪 **Word Family:** Swelter (verb), swelteringly (adv)<br><br>💬 **Ví dụ:** We walked through the city in the sweltering afternoon heat.<br>*(-> Chúng tôi đi bộ qua thành phố trong cái nóng ngột ngạt của buổi chiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Uncomfortably hot

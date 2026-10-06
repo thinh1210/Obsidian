@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Dialogue
 *n.*
 > /ˈdaɪəlɒɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Dialogue::Lời thoại, cuộc đối thoại *(Phát âm: /ˈdaɪəlɒɡ/)* ![[dialogue.mp3]]<br><br>👪 **Word Family:** dialogic<br><br>💬 **Ví dụ:** The dialogue in this film feels very natural.<br>*(-> Lời thoại trong bộ phim này nghe rất tự nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conversation between two or more people as a feature of a book, play, or movie

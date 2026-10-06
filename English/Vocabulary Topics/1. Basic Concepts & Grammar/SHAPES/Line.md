@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Line
 *n.*
 > /laɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Line::Đường, đường thẳng *(Phát âm: /laɪn/)* ![[line.mp3]]<br><br>👪 **Word Family:** Linear (adj)<br><br>💬 **Ví dụ:** Draw a straight line.<br>*(-> Kẻ một đường thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long, narrow mark or band.

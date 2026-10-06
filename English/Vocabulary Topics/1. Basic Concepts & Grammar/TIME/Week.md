@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Week
 *n.*
 > /wiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Week::Tuần *(Phát âm: /wiːk/)* ![[week.mp3]]<br><br>👪 **Word Family:** weekly (adj.)<br><br>💬 **Ví dụ:** See you next week.<br>*(-> Hẹn gặp bạn tuần sau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of seven days

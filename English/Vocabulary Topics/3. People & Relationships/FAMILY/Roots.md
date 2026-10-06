@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Roots
 *n.*
 > /ruːts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Roots::Gốc rễ, cội nguồn dòng tộc nơi tổ tiên sinh sống *(Phát âm: /ruːts/)* ![[roots.mp3]]<br><br>👪 **Word Family:** rooted (adj), root (n/v), uproot (v)<br><br>💬 **Ví dụ:** After three decades in Australia, she visited her ancestral village to reconnect with her roots.<br>*(-> Sau ba thập kỷ ở Úc, cô về thăm làng quê tổ tiên để kết nối lại với cội nguồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Family origins, or the place where someone's family originally comes from.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Crispy
 *adj.*
 > /ˈkrɪs.pi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Crispy::Giòn rụm, giòn tan (khi cắn hay nhai) *(Phát âm: /ˈkrɪs.pi/)* ![[crispy.mp3]]<br><br>👪 **Word Family:** crisp (n/adj), crispiness (n)<br><br>💬 **Ví dụ:** I love having crispy bacon and scrambled eggs on Sunday mornings.<br>*(-> Tôi rất thích ăn thịt xông khói giòn rụm cùng trứng khuấy vào các sáng Chủ nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasantly hard, dry, and easily broken when eaten.

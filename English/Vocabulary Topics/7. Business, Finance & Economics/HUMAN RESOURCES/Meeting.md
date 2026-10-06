@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Meeting
 *n.*
 > /ˈmiː.tɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Meeting::Cuộc họp, buổi gặp mặt *(Phát âm: /ˈmiː.tɪŋ/)* ![[meeting.mp3]]<br><br>👪 **Word Family:** meet<br><br>💬 **Ví dụ:** The next meeting will be held on Friday.<br>*(-> Cuộc họp tiếp theo sẽ được tổ chức vào thứ Sáu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An assembly of people for discussion or planning

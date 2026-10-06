@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Plagiarism
 *noun*
 > /ˈpleɪdʒərɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Plagiarism::Sự đạo văn *(Phát âm: /ˈpleɪdʒərɪzəm/)* ![[plagiarism.mp3]]<br><br>👪 **Word Family:** plagiarize (v), plagiarist (n)<br><br>💬 **Ví dụ:** The student was suspended for committing plagiarism on his term paper.<br>*(-> Học sinh đó đã bị đình chỉ học vì phạm lỗi đạo văn trong bài luận kỳ học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of taking someone else's work or ideas and passing them off as one's own.

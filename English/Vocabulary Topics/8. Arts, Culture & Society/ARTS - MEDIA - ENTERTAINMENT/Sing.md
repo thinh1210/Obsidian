@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Sing
 *v.*
 > /sɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Sing::Hát *(Phát âm: /sɪŋ/)* ![[sing.mp3]]<br><br>👪 **Word Family:** singer, song, singing<br><br>💬 **Ví dụ:** He likes to sing in the shower.<br>*(-> Anh ấy thích hát trong phòng tắm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make musical sounds with the voice, especially words with a set tune.

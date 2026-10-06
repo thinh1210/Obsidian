@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Advance
 *noun, verb, adj*
 > /ədˈvɑːns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Advance::Trước, báo trước (về thời gian) *(Phát âm: /ədˈvɑːns/)* ![[advance.mp3]]<br><br>👪 **Word Family:** advancement (n)<br><br>💬 **Ví dụ:** Thank you in advance for your help.<br>*(-> Cảm ơn trước vì sự giúp đỡ của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move forward in time or schedule; beforehand.

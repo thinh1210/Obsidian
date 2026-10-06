@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Onboarding
 *n.*
 > /ˈɒnˌbɔː.dɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Onboarding::Quy trình hội nhập nhân viên mới *(Phát âm: /ˈɒnˌbɔː.dɪŋ/)* ![[onboarding.mp3]]<br><br>👪 **Word Family:** onboard (v)<br><br>💬 **Ví dụ:** A structured onboarding process improves employee retention rates.<br>*(-> Quy trình hội nhập có cấu trúc giúp nâng cao tỷ lệ giữ chân nhân viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process of integrating and orienting a new employee

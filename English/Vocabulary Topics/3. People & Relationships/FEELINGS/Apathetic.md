@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Apathetic
 *adj*
 > /ˌæpəˈθetɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Apathetic::Thờ ơ, hờ hững *(Phát âm: /ˌæpəˈθetɪk/)* ![[apathetic.mp3]]<br><br>👪 **Word Family:** apathy (n), apathetically (adv)<br><br>💬 **Ví dụ:** Many youths are apathetic about politics.<br>*(-> Nhiều thanh niên thờ ơ với chính trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing or feeling no interest, enthusiasm, or concern.

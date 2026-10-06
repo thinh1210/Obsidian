@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Wealth
 *noun*
 > /welθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Wealth::Sự giàu có, sự thịnh vượng *(Phát âm: /welθ/)* ![[wealth.mp3]]<br><br>👪 **Word Family:** wealthy (adj)<br><br>💬 **Ví dụ:** He used his wealth to build libraries in poor communities.<br>*(-> Anh ấy đã dùng sự giàu có của mình để xây dựng thư viện ở các cộng đồng nghèo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An abundance of valuable possessions or money

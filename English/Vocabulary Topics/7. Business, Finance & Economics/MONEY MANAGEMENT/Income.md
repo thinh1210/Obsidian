@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Income
 *Noun*
 > /ˈɪnkʌm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
+
+## 🗂️ Flashcard
+Income::Thu nhập (tiền nhận được, đặc biệt là định kỳ, từ công việc hoặc đầu tư) *(Phát âm: /ˈɪnkʌm/)* ![[income.mp3]]<br><br>👪 **Word Family:** Noun: income (thu nhập)<br><br>💬 **Ví dụ:** Her monthly income is enough to cover rent and food comfortably.<br>*(-> Thu nhập hàng tháng của cô ấy đủ để trang trải tiền thuê nhà và ăn uống một cách thoải mái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money received, especially on a regular basis, for work or through investments.

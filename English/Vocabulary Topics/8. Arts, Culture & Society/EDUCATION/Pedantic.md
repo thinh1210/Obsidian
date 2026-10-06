@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Pedantic
 *adj.*
 > /pɪˈdæntɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Pedantic::Sư phạm cứng nhắc, vụn vặt, tỏ vẻ ta đây *(Phát âm: /pɪˈdæntɪk/)* ![[pedantic.mp3]]<br><br>👪 **Word Family:** pedant, pedantry, pedantically<br><br>💬 **Ví dụ:** I hate how pedantic he is about spelling.<br>*(-> Tôi ghét sự cứng nhắc thái quá của anh ta về chính tả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Excessively concerned with minor details and rules in academic displaying

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Suspect
 *noun / verb*
 > /ˈsʌs.pekt/ (n), /səˈspekt/ (v)
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Suspect::Nghi phạm (n); nghi ngờ (v) *(Phát âm: /ˈsʌs.pekt/ (n), /səˈspekt/ (v))* ![[suspect.mp3]]<br><br>👪 **Word Family:** suspicion (n), suspicious (adj), suspiciously (adv)<br><br>💬 **Ví dụ:** Police have a suspect but need more evidence.<br>*(-> Cảnh sát có một nghi phạm nhưng cần thêm bằng chứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person thought to be guilty of a crime; to believe something is likely.

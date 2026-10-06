@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Fabric
 *noun*
 > /ˈfæb.rɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Fabric::Sợi vải, chất liệu vải *(Phát âm: /ˈfæb.rɪk/)* ![[fabric.mp3]]<br><br>👪 **Word Family:** fabricate (v)<br><br>💬 **Ví dụ:** The fabric is very soft.<br>*(-> Chất vải rất mềm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cloth or other material produced by weaving or knitting fibres.

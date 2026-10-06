@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Price
 *noun*
 > /praɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Price::Giá cả *(Phát âm: /praɪs/)* ![[price.mp3]]<br><br>👪 **Word Family:** pricing (n), priceless (adj), pricey (adj)<br><br>💬 **Ví dụ:** The price of gasoline has increased significantly this week.<br>*(-> Giá xăng đã tăng lên đáng kể trong tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money expected, required, or given in payment for something

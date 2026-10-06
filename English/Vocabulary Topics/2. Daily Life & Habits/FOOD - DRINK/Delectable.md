@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Delectable
 *adj.*
 > /dɪˈlek.tə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Delectable::Thơm ngon *(Phát âm: /dɪˈlek.tə.bəl/)* ![[delectable.mp3]]<br><br>👪 **Word Family:** delectably<br><br>💬 **Ví dụ:** We had a delectable dinner.<br>*(-> Chúng tôi có một bữa tối ngon lành.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Delicious.

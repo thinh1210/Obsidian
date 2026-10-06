@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Silhouette
 *noun*
 > /ˌsɪl.uˈet/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Silhouette::Bóng dáng, phom dáng *(Phát âm: /ˌsɪl.uˈet/)* ![[silhouette.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The dress gives her a beautiful silhouette.<br>*(-> Chiếc váy tạo cho cô ấy một phom dáng tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The dark shape and outline of someone or something visible against a lighter background, especially in dim light; the overall shape of a garment.

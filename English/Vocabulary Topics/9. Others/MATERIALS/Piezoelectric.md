@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Piezoelectric
 *adjective.*
 > /paɪˌiːzəʊɪˈlektrɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Piezoelectric::Áp điện, (thuộc) hiện tượng áp điện *(Phát âm: /paɪˌiːzəʊɪˈlektrɪk/)* ![[piezoelectric.mp3]]<br><br>👪 **Word Family:** piezoelectricity (Noun)<br><br>💬 **Ví dụ:** The piezoelectric lighter generates a spark when you press down on the button.<br>*(-> Bật lửa áp điện tạo ra tia lửa điện khi bạn ấn nút xuống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to electric polarization in a substance (especially certain crystals) resulting from the application of mechanical stress.

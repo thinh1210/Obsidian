@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Sketch
 *v.*
 > /sketʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Sketch::Phác họa, vẽ nhanh phác thảo chưa đi sâu vào chi tiết *(Phát âm: /sketʃ/)* ![[sketch.mp3]]<br><br>👪 **Word Family:** sketchy (adj), sketchbook (n)<br><br>💬 **Ví dụ:** The artist sat on the park bench sketching passersby in his small notebook.<br>*(-> Người họa sĩ ngồi trên ghế đá công viên phác họa những người qua đường vào cuốn sổ nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a quick, rough drawing of something without many details.

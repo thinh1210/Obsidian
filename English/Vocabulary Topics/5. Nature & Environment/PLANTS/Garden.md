@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Garden
 *noun*
 > /ˈɡɑːrdn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Garden::Khu vườn *(Phát âm: /ˈɡɑːrdn/)* ![[garden.mp3]]<br><br>👪 **Word Family:** Noun: garden (khu vườn), gardener (người làm vườn), gardening (nghề làm vườn), Verb: garden (làm vườn)<br><br>💬 **Ví dụ:** We grow organic tomatoes in our back garden.<br>*(-> Chúng tôi trồng cà chua hữu cơ trong vườn sau nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land next to a house, used for growing flowers, vegetables, or fruit.

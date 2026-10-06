@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Preserve
 *Verb*
 > /prɪˈzɜːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Preserve::Bảo tồn, giữ gìn *(Phát âm: /prɪˈzɜːv/)* ![[preserve.mp3]]<br><br>👪 **Word Family:** preservation, preservative<br><br>💬 **Ví dụ:** Efforts are being made to preserve the old forest.<br>*(-> Các nỗ lực đang được thực hiện để bảo tồn khu rừng cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Maintain (something) in its original or existing state.

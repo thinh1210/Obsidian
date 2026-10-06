@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Depreciate
 *verb*
 > /dɪˈpriː.ʃi.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Depreciate::Giảm giá trị, mất giá, sụt giá *(Phát âm: /dɪˈpriː.ʃi.eɪt/)* ![[depreciate.mp3]]<br><br>👪 **Word Family:** depreciation (n), depreciatory (adj)<br><br>💬 **Ví dụ:** New cars depreciate in value as soon as you drive them off the lot.<br>*(-> Ô tô mới giảm giá trị ngay khi bạn lái chúng ra khỏi bãi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To diminish in value over a period of time

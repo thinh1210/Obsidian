@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Resume
 *n.*
 > /ˈrez.juː.meɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Resume::Sơ yếu lý lịch, bản tóm tắt hồ sơ công việc (CV) *(Phát âm: /ˈrez.juː.meɪ/)* ![[resume.mp3]]<br><br>👪 **Word Family:** resume (v)<br><br>💬 **Ví dụ:** Please send your resume to our email address.<br>*(-> Vui lòng gửi sơ yếu lý lịch của bạn đến địa chỉ email của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A brief summary of personal, educational, and professional experiences

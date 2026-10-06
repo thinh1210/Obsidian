@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Talk
 *v./n.*
 > /tɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Talk::Trò chuyện, nói chuyện *(Phát âm: /tɔːk/)* ![[talk.mp3]]<br><br>👪 **Word Family:** talkative, talker<br><br>💬 **Ví dụ:** Let's talk about our plans.<br>*(-> Hãy trò chuyện về những kế hoạch của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To speak in order to give information or express ideas

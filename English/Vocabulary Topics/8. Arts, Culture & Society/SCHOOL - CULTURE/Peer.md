@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Peer
 *noun*
 > /pɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Peer::Bạn cùng lứa, người đồng trang lứa *(Phát âm: /pɪə(r)/)* ![[peer.mp3]]<br><br>👪 **Word Family:** peerless (adj)<br><br>💬 **Ví dụ:** Teenagers often experience strong peer pressure to fit in.<br>*(-> Thanh thiếu niên thường trải qua áp lực đồng lứa mạnh mẽ để hòa nhập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person of the same age, status, or ability as another specified person.

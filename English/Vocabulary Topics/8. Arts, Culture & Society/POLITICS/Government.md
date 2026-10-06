@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Government
 *n*
 > /ˈɡʌv.ən.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Government::Chính phủ *(Phát âm: /ˈɡʌv.ən.mənt/)* ![[government.mp3]]<br><br>👪 **Word Family:** govern (v), governor (n), governmental (adj)<br><br>💬 **Ví dụ:** The government announced new rules about public gatherings.<br>*(-> Chính phủ thông báo các quy định mới về tụ tập công cộng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The group of people with authority to rule or govern a country.

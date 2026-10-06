@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Frazzled
 *adj.*
 > /ˈfræzld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Frazzled::Mệt mỏi rã rời, tả tơi *(Phát âm: /ˈfræzld/)* ![[frazzled.mp3]]<br><br>👪 **Word Family:** frazzle (n/v)<br><br>💬 **Ví dụ:** I am completely frazzled after dealing with the kids.<br>*(-> Tôi hoàn toàn tả tơi sau khi đối phó với lũ trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing the effects of exhaustion or strain

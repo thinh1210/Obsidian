@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Wine
 *n.*
 > /waɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Wine::Rượu vang (lên men từ nho) *(Phát âm: /waɪn/)* ![[wine.mp3]]<br><br>👪 **Word Family:** winery (n), winemaker (n)<br><br>💬 **Ví dụ:** Red wine pairs remarkably well with grilled steaks and roast meats.<br>*(-> Rượu vang đỏ kết hợp vô cùng tuyệt vời với bít tết và thịt nướng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An alcoholic drink produced from fermented grapes or other fruits.

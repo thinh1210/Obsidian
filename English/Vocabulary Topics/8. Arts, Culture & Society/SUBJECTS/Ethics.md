@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Ethics
 *n.*
 > /ˈeθ.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Ethics::Đạo đức học; môn Đạo đức học *(Phát âm: /ˈeθ.ɪks/)* ![[ethics.mp3]]<br><br>👪 **Word Family:** ethic (n.), ethical (adj.), ethically (adv.), ethicist (n.)<br><br>💬 **Ví dụ:** She questioned the ethics of using animals in experiments.<br>*(-> Cô ấy đặt câu hỏi về đạo đức của việc sử dụng động vật trong thí nghiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of knowledge that deals with moral principles and the study of right and wrong behaviour.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Syllabus
 *n.*
 > /ˈsɪləbəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Syllabus::Đề cương chi tiết môn học *(Phát âm: /ˈsɪləbəs/)* ![[syllabus.mp3]]<br><br>👪 **Word Family:** syllabi<br><br>💬 **Ví dụ:** Please check the syllabus for the reading list.<br>*(-> Vui lòng kiểm tra đề cương chi tiết để xem danh sách bài đọc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An outline of the subjects in a course of study or teaching

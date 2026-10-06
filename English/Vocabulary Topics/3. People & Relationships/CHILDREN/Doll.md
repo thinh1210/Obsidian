@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Doll
 *n.*
 > /dɒl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Doll::Búp bê, món đồ chơi hình người nhỏ của trẻ em *(Phát âm: /dɒl/)* ![[doll.mp3]]<br><br>👪 **Word Family:** dollhouse (n), dolled up (idiom)<br><br>💬 **Ví dụ:** The little girl carefully brushed the silky hair of her favorite doll before teatime.<br>*(-> Bé gái cẩn thận chải mái tóc mượt mà của cô búp bê yêu thích trước giờ trà chiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A child's toy in the form of a baby or small person.

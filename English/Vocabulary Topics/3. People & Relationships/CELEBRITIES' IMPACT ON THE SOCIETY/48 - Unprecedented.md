@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Unprecedented
 *adj.*
 > /ʌnˈpres.ɪ.den.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+48 - Unprecedented::Chưa từng có *(Phát âm: /ʌnˈpres.ɪ.den.tɪd/)* ![[unprecedented.mp3]]<br><br>👪 **Word Family:** Precedent (n.)<br><br>💬 **Ví dụ:** Unprecedented scale.<br>*(-> Quy mô chưa từng có.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Never done or known before.

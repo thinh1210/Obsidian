@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Poach
 *verb*
 > /pəʊtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Poach::Săn trộm, câu trộm *(Phát âm: /pəʊtʃ/)* ![[poach.mp3]]<br><br>👪 **Word Family:** poach (v), poacher (n), poaching (n)<br><br>💬 **Ví dụ:** Elephants are still being poached for their valuable ivory tusks.<br>*(-> Voi vẫn đang bị săn trộm để lấy cặp ngà có giá trị cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Illegally hunt or catch (game or fish) on land that is not one's own or in protected areas.

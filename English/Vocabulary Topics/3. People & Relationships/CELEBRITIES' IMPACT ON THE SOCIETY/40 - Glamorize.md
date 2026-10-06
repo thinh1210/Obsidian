@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Glamorize
 *v.*
 > /ˈɡlæm.ər.aɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+40 - Glamorize::Tô hồng, làm cho hào nhoáng *(Phát âm: /ˈɡlæm.ər.aɪz/)* ![[glamorize.mp3]]<br><br>👪 **Word Family:** Glamour (n.)<br><br>💬 **Ví dụ:** They glamorize violence.<br>*(-> Họ tô hồng bạo lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make something seem glamorous or desirable.

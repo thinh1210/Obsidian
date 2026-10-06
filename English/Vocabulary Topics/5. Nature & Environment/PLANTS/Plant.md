@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Plant
 *noun*
 > /plɑːnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Plant::Thực vật, cây cối *(Phát âm: /plɑːnt/)* ![[plant.mp3]]<br><br>👪 **Word Family:** Noun: plant (thực vật, nhà máy), planter (chậu trồng cây, người trồng), Verb: plant (trồng cây), Adjective: plantation (đồn điền)<br><br>💬 **Ví dụ:** She bought a new houseplant yesterday.<br>*(-> Hôm qua cô ấy đã mua một cây trồng trong nhà mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A living thing that grows in the earth and usually has a stem, leaves, and roots.

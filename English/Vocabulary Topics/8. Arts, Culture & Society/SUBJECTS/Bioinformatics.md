@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Bioinformatics
 *n.*
 > /ˌbaɪ.əʊˌɪn.fəˈmæt.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Bioinformatics::Tin sinh học; sinh tin học *(Phát âm: /ˌbaɪ.əʊˌɪn.fəˈmæt.ɪks/)* ![[bioinformatics.mp3]]<br><br>👪 **Word Family:** bioinformatician (n.), bioinformatic (adj.)<br><br>💬 **Ví dụ:** She uses bioinformatics to analyze genetic sequences from cancer patients.<br>*(-> Cô ấy dùng tin sinh học để phân tích chuỗi gen từ bệnh nhân ung thư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An interdisciplinary field that develops methods and software tools for understanding biological data, especially when the data sets are large and complex.

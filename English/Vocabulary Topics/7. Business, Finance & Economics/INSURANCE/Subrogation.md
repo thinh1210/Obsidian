@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Subrogation
 *n.*
 > /ˌsʌbrəˈɡeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
+
+## 🗂️ Flashcard
+Subrogation::Thế quyền (công ty bảo hiểm thay thế khách hàng đòi bên thứ ba bồi thường) *(Phát âm: /ˌsʌbrəˈɡeɪʃn/)* ![[subrogation.mp3]]<br><br>👪 **Word Family:** subrogate<br><br>💬 **Ví dụ:** Through subrogation, the insurer recovered the payout from the negligent driver.<br>*(-> Thông qua thế quyền, công ty bảo hiểm đã thu hồi lại khoản tiền chi trả từ tài xế cẩu thả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The substitution of one person or group by another in respect of a debt or insurance claim, accompanied by the transfer of any associated rights and duties.

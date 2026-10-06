@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Window
 *n.*
 > /ˈwɪndəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Window::Cửa sổ *(Phát âm: /ˈwɪndəʊ/)* ![[window.mp3]]<br><br>👪 **Word Family:** windowsill<br><br>💬 **Ví dụ:** She looked out of the window at the rain.<br>*(-> Cô ấy nhìn ra ngoài cửa sổ ngắm mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An opening in the wall of a building or vehicle to let in light or air

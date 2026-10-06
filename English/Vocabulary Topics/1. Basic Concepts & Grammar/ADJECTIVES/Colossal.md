@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Colossal
 *adj.*
 > /kəˈlɒsl/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Colossal::Khổng lồ *(Phát âm: /kəˈlɒsl/)* ![[colossal.mp3]]<br><br>👪 **Word Family:** colossus<br><br>💬 **Ví dụ:** Colossal mistake.<br>*(-> Sai lầm khổng lồ.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely large

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Shorts
 *noun*
 > /ʃɔːrts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Shorts::Quần đùi, quần soóc *(Phát âm: /ʃɔːrts/)* ![[shorts.mp3]]<br><br>👪 **Word Family:** short (adj)<br><br>💬 **Ví dụ:** He plays tennis in shorts.<br>*(-> Anh ấy mặc quần đùi chơi tennis.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Trousers that end above the knee.

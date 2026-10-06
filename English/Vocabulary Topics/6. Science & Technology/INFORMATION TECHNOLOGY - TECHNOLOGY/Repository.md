@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Repository
 *noun*
 > /rɪˈpɒz.ɪ.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Repository::Kho chứa, kho lưu trữ *(Phát âm: /rɪˈpɒz.ɪ.tər.i/)* ![[repository.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I uploaded my coding homework to a public repository.<br>*(-> Tôi đã tải bài tập lập trình của mình lên một kho lưu trữ công khai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where things are stored and can be found, especially software code.

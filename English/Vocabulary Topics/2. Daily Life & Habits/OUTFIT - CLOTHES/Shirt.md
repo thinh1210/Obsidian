@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Shirt
 *noun*
 > /ʃɜːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Shirt::Áo sơ mi *(Phát âm: /ʃɜːrt/)* ![[shirt.mp3]]<br><br>👪 **Word Family:** shirtless (adj)<br><br>💬 **Ví dụ:** I bought a new shirt.<br>*(-> Tôi mua một chiếc áo sơ mi mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for the upper body.

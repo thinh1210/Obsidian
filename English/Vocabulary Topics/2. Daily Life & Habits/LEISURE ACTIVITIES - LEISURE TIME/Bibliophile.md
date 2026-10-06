@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Bibliophile
 *n*
 > /ˈbɪbliəfaɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Bibliophile::Người yêu sách *(Phát âm: /ˈbɪbliəfaɪl/)* ![[bibliophile.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** As a bibliophile, his room is filled with books.<br>*(-> Là một người yêu sách, phòng anh ấy đầy sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who collects or has a great love of books.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Enrollment
 *n.*
 > /ɪnˈrəʊl.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Enrollment::Sự ghi danh, đăng ký nhập học *(Phát âm: /ɪnˈrəʊl.mənt/)* ![[enrollment.mp3]]<br><br>👪 **Word Family:** enrollment (n), enroll (v), enrolled (adj)<br><br>💬 **Ví dụ:** Enrollment for the new semester opens next Monday.<br>*(-> Ghi danh cho học kỳ mới sẽ mở vào thứ Hai tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of officially registering as a student at a school or university.

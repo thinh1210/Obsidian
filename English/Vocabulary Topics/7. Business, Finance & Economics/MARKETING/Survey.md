@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Survey
 *noun*
 > /ˈsɜːrveɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Survey::Cuộc khảo sát *(Phát âm: /ˈsɜːrveɪ/)* ![[survey.mp3]]<br><br>👪 **Word Family:** survey (v), surveyor (n)<br><br>💬 **Ví dụ:** I filled out a quick survey about my shopping habits yesterday.<br>*(-> Hôm qua tôi đã điền vào một cuộc khảo sát nhanh về thói quen mua sắm của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An investigation of the opinions or experience of a group of people, based on a series of questions

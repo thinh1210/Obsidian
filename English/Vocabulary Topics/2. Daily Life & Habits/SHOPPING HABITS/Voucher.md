@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Voucher
 *n.*
 > /ˈvaʊ.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Voucher::Phiếu mua hàng, chứng từ quà tặng có giá trị thanh toán *(Phát âm: /ˈvaʊ.tʃər/)* ![[voucher.mp3]]<br><br>💬 **Ví dụ:** My colleagues gave me a fifty-dollar book voucher for my farewell present.<br>*(-> Các đồng nghiệp đã tặng tôi một phiếu mua sách 50 đô la làm quà chia tay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A printed piece of paper or digital token used to pay for goods or services.

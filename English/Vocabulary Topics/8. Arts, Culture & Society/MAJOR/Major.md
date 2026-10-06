@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Major
 *adj., n.*
 > /ˈmeɪ.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Major::Lớn, quan trọng; ngành học chính ở đại học *(Phát âm: /ˈmeɪ.dʒər/)* ![[major.mp3]]<br><br>👪 **Word Family:** major (adj/n), majority (n), majorly (adv)<br><br>💬 **Ví dụ:** There was a major storm last night.<br>*(-> Đêm qua có một cơn bão lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Large, important, or serious; a university subject chosen as the main area of study.

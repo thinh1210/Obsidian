@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Exploration
 *Noun*
 > /ˌek.spləˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Exploration::Sự thám hiểm, thăm dò *(Phát âm: /ˌek.spləˈreɪ.ʃən/)* ![[exploration.mp3]]<br><br>👪 **Word Family:** explore (v), explorer (n), exploratory (adj)<br><br>💬 **Ví dụ:** Space exploration has always fascinated humanity.<br>*(-> Thám hiểm vũ trụ luôn cuốn hút nhân loại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of traveling in or through an unfamiliar area in order to learn about it.

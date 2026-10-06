@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Cooking
 *n.*
 > /ˈkʊk.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Cooking::Nấu ăn; môn Nấu ăn *(Phát âm: /ˈkʊk.ɪŋ/)* ![[cooking.mp3]]<br><br>👪 **Word Family:** cook (v./n.), cooked (adj.), cookbook (n.)<br><br>💬 **Ví dụ:** She takes cooking lessons to learn traditional Vietnamese recipes.<br>*(-> Cô ấy học lớp nấu ăn để học các công thức truyền thống của Việt Nam.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or skill of preparing food; also a school subject teaching food preparation.

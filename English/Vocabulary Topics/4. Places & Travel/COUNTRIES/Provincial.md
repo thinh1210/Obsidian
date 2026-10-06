@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Provincial
 *Adjective*
 > /prəˈvɪnʃl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
+
+## 🗂️ Flashcard
+Provincial::Thuộc tỉnh lẻ; thiển cận *(Phát âm: /prəˈvɪnʃl/)* ![[provincial.mp3]]<br><br>👪 **Word Family:** Province, Provincialism<br><br>💬 **Ví dụ:** He has a very provincial view of the world.<br>*(-> Anh ta có một cái nhìn rất thiển cận về thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of or concerning a province of a country or empire; unsophisticated or narrow-minded.

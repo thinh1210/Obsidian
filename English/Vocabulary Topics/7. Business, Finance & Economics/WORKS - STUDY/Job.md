@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Job
 *n.*
 > /dʒɒb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Job::Công việc, nghề nghiệp *(Phát âm: /dʒɒb/)* ![[job.mp3]]<br><br>👪 **Word Family:** jobless<br><br>💬 **Ví dụ:** He is looking for a part-time job.<br>*(-> Anh ấy đang tìm kiếm một công việc bán thời gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The regular work that a person does to earn money

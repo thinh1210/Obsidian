@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Island
 *noun*
 > /ˈaɪlənd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
+
+## 🗂️ Flashcard
+Island::Hòn đảo *(Phát âm: /ˈaɪlənd/)* ![[island.mp3]]<br><br>👪 **Word Family:** Islander (n.)<br><br>💬 **Ví dụ:** They live on a small island.<br>*(-> Họ sống trên một hòn đảo nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land surrounded by water.

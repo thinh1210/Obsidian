@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Excavate
 *verb*
 > /ˈekskəveɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Excavate::Khai quật *(Phát âm: /ˈekskəveɪt/)* ![[excavate.mp3]]<br><br>👪 **Word Family:** excavation (noun), excavator (noun)<br><br>💬 **Ví dụ:** They plan to excavate the ancient burial mound next summer.<br>*(-> Họ có kế hoạch khai quật ngôi mộ cổ vào mùa hè tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a hole or channel by digging, especially to find ancient remains

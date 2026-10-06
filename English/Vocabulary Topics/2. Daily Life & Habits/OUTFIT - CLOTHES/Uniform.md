@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Uniform
 *noun*
 > /ˈjuː.nə.fɔːrm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Uniform::Đồng phục *(Phát âm: /ˈjuː.nə.fɔːrm/)* ![[uniform.mp3]]<br><br>👪 **Word Family:** uniformly (adv)<br><br>💬 **Ví dụ:** Do you have to wear a uniform?<br>*(-> Bạn có phải mặc đồng phục không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Distinctive clothing worn by members of the same organization.

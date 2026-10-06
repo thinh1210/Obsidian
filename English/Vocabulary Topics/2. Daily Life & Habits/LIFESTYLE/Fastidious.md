@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Fastidious
 *adj.*
 > /fæˈstɪdiəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
+
+## 🗂️ Flashcard
+Fastidious::Khó tính, kén chọn *(Phát âm: /fæˈstɪdiəs/)* ![[fastidious.mp3]]<br><br>👪 **Word Family:** fastidiously (adv.)<br><br>💬 **Ví dụ:** She is fastidious about her clothes.<br>*(-> Cô ấy rất khó tính với quần áo của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very attentive to and concerned about accuracy and detail.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Hallmarked
 *adjective*
 > /ˈhɔːl.mɑːkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Hallmarked::Được đóng dấu kiểm định *(Phát âm: /ˈhɔːl.mɑːkt/)* ![[hallmarked.mp3]]<br><br>👪 **Word Family:** Hallmark<br><br>💬 **Ví dụ:** Ensure the gold is hallmarked.<br>*(-> Đảm bảo vàng được đóng dấu kiểm định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Stamped with a mark indicating standard of purity.

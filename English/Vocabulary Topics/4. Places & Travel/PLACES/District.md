@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # District
 *n.*
 > /ˈdɪs.trɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+District::Quận, huyện, khu vực *(Phát âm: /ˈdɪs.trɪkt/)* ![[district.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I live in the financial district.<br>*(-> Tôi sống ở khu tài chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of a country or city, especially one regarded as a distinct unit because of a particular characteristic.

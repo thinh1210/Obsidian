@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Battle
 *noun*
 > /ˈbæt.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Battle::Trận chiến, trận đánh *(Phát âm: /ˈbæt.əl/)* ![[battle.mp3]]<br><br>👪 **Word Family:** battler (noun), embattled (adj)<br><br>💬 **Ví dụ:** The two siblings had a huge pillow battle in the living room.<br>*(-> Hai anh em đã có một trận chiến gối ôm rất lớn ở phòng khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fight between large organized armed forces, typically in a war.

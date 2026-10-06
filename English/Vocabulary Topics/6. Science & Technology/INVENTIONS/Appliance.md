@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Appliance
 *Noun*
 > /əˈplaɪ.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Appliance::Thiết bị gia dụng *(Phát âm: /əˈplaɪ.əns/)* ![[appliance.mp3]]<br><br>👪 **Word Family:** Apply (v), applicable (adj)<br><br>💬 **Ví dụ:** The kitchen is fully equipped with modern appliances.<br>*(-> Nhà bếp được trang bị đầy đủ các thiết bị gia dụng hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device, machine, or piece of equipment, especially an electrical one that is used in the house.

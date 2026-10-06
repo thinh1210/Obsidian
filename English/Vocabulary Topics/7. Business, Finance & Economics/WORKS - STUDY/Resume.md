@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Resume
 *n.*
 > /ˈrez.juː.meɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Resume::Sơ yếu lý lịch, bản lý lịch nghề nghiệp và học vấn dùng khi xin việc *(Phát âm: /ˈrez.juː.meɪ/)* ![[resume.mp3]]<br><br>👪 **Word Family:** CV (n), curriculum vitae (n)<br><br>💬 **Ví dụ:** She spent an hour tailoring her resume before sending her application to the tech startup.<br>*(-> Cô ấy đã dành một tiếng tinh chỉnh hồ sơ xin việc trước khi gửi ứng tuyển vào công ty công nghệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal document that outlines a person's educational background, work experience, and job accomplishments.

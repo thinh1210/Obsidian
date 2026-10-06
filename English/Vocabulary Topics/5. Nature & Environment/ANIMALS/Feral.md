@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Feral
 *adjective*
 > /ˈfer.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Feral::Hoang dã, hung dữ (từ vật nuôi cũ) *(Phát âm: /ˈfer.əl/)* ![[feral.mp3]]<br><br>👪 **Word Family:** feral (adj)<br><br>💬 **Ví dụ:** The island is overrun by feral goats that eat native plants.<br>*(-> Hòn đảo bị tàn phá bởi những con dê hoang dã ăn thực vật bản địa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In a wild state, especially after escape from captivity or domestication.

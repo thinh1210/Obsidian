@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Water
 *verb*
 > /ˈwɔːtər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Water::Tưới nước *(Phát âm: /ˈwɔːtər/)* ![[water.mp3]]<br><br>👪 **Word Family:** Noun: water (nước), Verb: water (tưới nước), Adjective: watery (nhạt, nhiều nước)<br><br>💬 **Ví dụ:** Don't forget to water the flowers every morning.<br>*(-> Đừng quên tưới hoa mỗi sáng nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To pour water on plants to help them grow.

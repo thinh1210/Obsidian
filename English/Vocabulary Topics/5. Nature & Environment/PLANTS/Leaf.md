@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Leaf
 *noun*
 > /liːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Leaf::Lá cây *(Phát âm: /liːf/)* ![[leaf.mp3]]<br><br>👪 **Word Family:** Noun: leaf (lá cây), leaflet (lá non, tờ rơi), Verb: leaf (giở lá, giở trang sách), Adjective: leafy (nhiều lá, rậm rạp)<br><br>💬 **Ví dụ:** A single yellow leaf fell from the tree.<br>*(-> Một chiếc lá vàng đơn độc rơi xuống từ trên cây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flat green part of a plant, growing from a stem or branch.

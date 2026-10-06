@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Tail
 *n.*
 > /teɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Tail::Cái đuôi, phần kéo dài phía sau thân mình giúp giữ thăng bằng và giao tiếp *(Phát âm: /teɪl/)* ![[tail.mp3]]<br><br>👪 **Word Family:** tailless (adj), fishtail (v)<br><br>💬 **Ví dụ:** The happy dog wagged its tail vigorously as soon as its owner opened the door.<br>*(-> Chú chó vui sướng vẫy đuôi lia lịa ngay khi người chủ vừa mở cửa phòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The rear part of the body of an animal, especially when prolonged beyond the trunk.

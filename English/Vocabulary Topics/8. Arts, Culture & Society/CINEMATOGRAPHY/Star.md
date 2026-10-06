@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Star
 *n.*
 > /stɑː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Star::Ngôi sao điện ảnh, diễn viên chính *(Phát âm: /stɑː(r)/)* ![[star.mp3]]<br><br>👪 **Word Family:** stardom, starry<br><br>💬 **Ví dụ:** She wants to be a movie star.<br>*(-> Cô ấy muốn trở thành một ngôi sao điện ảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A famous or exceptionally talented performer in a movie

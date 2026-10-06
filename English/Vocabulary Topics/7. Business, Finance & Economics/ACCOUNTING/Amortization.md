@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Amortization
 *n.*
 > /əˌmɔːtɪˈzeɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Amortization::Sự khấu hao tài sản vô hình *(Phát âm: /əˌmɔːtɪˈzeɪʃən/)* ![[amortization.mp3]]<br><br>👪 **Word Family:** amortize<br><br>💬 **Ví dụ:** The bank provided an amortization schedule for our mortgage.<br>*(-> Ngân hàng đã cung cấp bảng lịch trình khấu hao cho khoản thế chấp của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of gradually writing off the initial cost of an intangible asset over time

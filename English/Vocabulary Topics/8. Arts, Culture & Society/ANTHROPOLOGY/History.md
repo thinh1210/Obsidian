@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # History
 *n.*
 > /ˈhɪs.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+History::Lịch sử *(Phát âm: /ˈhɪs.tər.i/)* ![[history.mp3]]<br><br>👪 **Word Family:** historic, historical, historian<br><br>💬 **Ví dụ:** She loves reading history books.<br>*(-> Cô ấy thích đọc sách lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs.

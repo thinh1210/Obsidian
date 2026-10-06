@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Cyberbully
 *noun*
 > /ˈsaɪbəbʊli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
+
+## 🗂️ Flashcard
+Cyberbully::Kẻ bắt nạt trên mạng *(Phát âm: /ˈsaɪbəbʊli/)* ![[cyberbully.mp3]]<br><br>👪 **Word Family:** cyberbullying (n), bully (v/n)<br><br>💬 **Ví dụ:** She blocks users who act like a cyberbully on her channel.<br>*(-> Cô ấy chặn những người dùng hành xử như kẻ bắt nạt trên mạng trên kênh của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who uses online tools to intimidate, harass, or humiliate others

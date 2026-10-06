@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Tree
 *Noun*
 > /triː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Tree::Cái cây *(Phát âm: /triː/)* ![[tree.mp3]]<br><br>👪 **Word Family:** treeless, woodland<br><br>💬 **Ví dụ:** Children love to climb this big tree.<br>*(-> Trẻ em rất thích trèo lên cái cây lớn này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A woody perennial plant, typically having a single stem or trunk.

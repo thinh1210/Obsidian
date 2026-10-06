@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Bulb
 *n.*
 > /bʌlb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Bulb::Củ ngầm, thân hành hình cầu tích trữ dưỡng chất dưới lòng đất ở hoa tulip, hành, tỏi *(Phát âm: /bʌlb/)* ![[bulb.mp3]]<br><br>👪 **Word Family:** bulbous (adj)<br><br>💬 **Ví dụ:** We planted tulip bulbs in autumn so our garden would burst into color by April.<br>*(-> Chúng tôi trồng các củ hoa tulip vào mùa thu để khu vườn bừng sáng sắc hoa vào tháng Tư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rounded underground storage organ present in plants such as onions, lilies, and tulips.

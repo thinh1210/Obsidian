@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Octagon
 *n.*
 > /ˈɒk.tə.ɡən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Octagon::Hình bát giác *(Phát âm: /ˈɒk.tə.ɡən/)* ![[octagon.mp3]]<br><br>👪 **Word Family:** Octagonal (adj)<br><br>💬 **Ví dụ:** A stop sign is usually an octagon.<br>*(-> Biển báo dừng xe thường là hình bát giác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plane figure with eight straight sides and eight angles.

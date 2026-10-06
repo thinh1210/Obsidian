@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Thrust-to-weight ratio
 *noun phrase*
 > /θrʌst tə weɪt ˈreɪ.ʃiˌəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Thrust-to-weight_ratio::Tỉ lệ lực đẩy trên trọng lượng *(Phát âm: /θrʌst tə weɪt ˈreɪ.ʃiˌəʊ/)* ![[thrust_to_weight_ratio.mp3]]<br><br>👪 **Word Family:** thrust (n), power loading (n), engine rating (n)<br><br>💬 **Ví dụ:** Fighter jets have a thrust-to-weight ratio greater than one, allowing vertical climbs.<br>*(-> Máy bay chiến đấu có tỉ lệ lực đẩy/trọng lượng lớn hơn 1, cho phép leo thẳng đứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dimensionless ratio of the thrust of an aircraft's engines to its total weight, indicating its ability to accelerate and climb.

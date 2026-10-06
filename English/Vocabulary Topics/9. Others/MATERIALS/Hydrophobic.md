@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Hydrophobic
 *adjective.*
 > /ˌhaɪdrəˈfəʊbɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Hydrophobic::Kỵ nước, chống nước *(Phát âm: /ˌhaɪdrəˈfəʊbɪk/)* ![[hydrophobic.mp3]]<br><br>👪 **Word Family:** hydrophobicity (Noun), hydrophobe (Noun)<br><br>💬 **Ví dụ:** The leaves of the lotus flower are highly hydrophobic, making water bead and roll off.<br>*(-> Lá của hoa sen có tính kỵ nước cao, khiến nước đọng lại thành giọt và lăn đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to repel or fail to mix with water.

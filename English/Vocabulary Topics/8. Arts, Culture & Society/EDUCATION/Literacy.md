@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Literacy
 *n.*
 > /ˈlɪtərəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Literacy::Trình độ biết chữ, khả năng đọc viết *(Phát âm: /ˈlɪtərəsi/)* ![[literacy.mp3]]<br><br>👪 **Word Family:** literate, illiterate<br><br>💬 **Ví dụ:** The country's literacy rate is over 95%.<br>*(-> Tỷ lệ biết chữ của đất nước này là trên 95%.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to read and write

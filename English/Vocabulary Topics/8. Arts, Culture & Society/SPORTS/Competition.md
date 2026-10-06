@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Competition
 *n.*
 > /ˌkɒm.pəˈtɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Competition::Cuộc thi, sự cạnh tranh *(Phát âm: /ˌkɒm.pəˈtɪʃ.ən/)* ![[competition.mp3]]<br><br>👪 **Word Family:** compete, competitive, competitor<br><br>💬 **Ví dụ:** She won first prize in the swimming competition.<br>*(-> Cô ấy đã giành giải nhất trong cuộc thi bơi lội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event or contest in which people compete.

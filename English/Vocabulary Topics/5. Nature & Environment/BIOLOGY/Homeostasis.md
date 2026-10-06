@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Homeostasis
 *noun*
 > /ˌhəʊ.mi.əʊˈsteɪ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Homeostasis::Sự cân bằng nội môi *(Phát âm: /ˌhəʊ.mi.əʊˈsteɪ.sɪs/)* ![[homeostasis.mp3]]<br><br>👪 **Word Family:** homeostatic<br><br>💬 **Ví dụ:** Sweating is a key mechanism for maintaining body homeostasis.<br>*(-> Đổ mồ hôi là một cơ chế chính để duy trì cân bằng nội môi cơ thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tendency toward a relatively stable equilibrium between interdependent elements, especially as maintained by physiological processes.

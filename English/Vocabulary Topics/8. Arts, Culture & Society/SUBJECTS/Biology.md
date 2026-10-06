@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Biology
 *noun*
 > /baɪˈɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Biology::Sinh học, môn Sinh học *(Phát âm: /baɪˈɒlədʒi/)* ![[biology.mp3]]<br><br>👪 **Word Family:** biologist, biological<br><br>💬 **Ví dụ:** We studied plants in biology class today.<br>*(-> Hôm nay chúng tôi đã học về thực vật trong giờ sinh học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of life and living organisms.

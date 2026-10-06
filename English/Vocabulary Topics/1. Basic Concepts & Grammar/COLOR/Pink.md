@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Pink
 *adj, n*
 > /pɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Pink::Màu hồng *(Phát âm: /pɪŋk/)* ![[pink.mp3]]<br><br>👪 **Word Family:** pinkish (adj), pinky (adj)<br><br>💬 **Ví dụ:** Her bedroom is painted pink.<br>*(-> Phòng ngủ của cô ấy được sơn màu hồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pale red color.

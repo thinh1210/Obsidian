@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Simulation
 *n*
 > /ˌsɪm.jəˈleɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Simulation::Sự mô phỏng *(Phát âm: /ˌsɪm.jəˈleɪ.ʃən/)* ![[simulation.mp3]]<br><br>👪 **Word Family:** Simulate (v), Simulator (n)<br><br>💬 **Ví dụ:** Pilots spend hours in a flight simulation.<br>*(-> Các phi công dành hàng giờ trong môi trường mô phỏng chuyến bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A model of a set of problems or events that can be used to teach someone how to do something, or the process of making such a model.

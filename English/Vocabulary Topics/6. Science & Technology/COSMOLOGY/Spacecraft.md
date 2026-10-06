@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Spacecraft
 *Noun*
 > /ˈspeɪs.krɑːft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Spacecraft::Tàu vũ trụ *(Phát âm: /ˈspeɪs.krɑːft/)* ![[spacecraft.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The spacecraft returned to Earth after a year in space.<br>*(-> Tàu vũ trụ đã trở lại Trái Đất sau một năm trong không gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle used for traveling in space.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Route
 *n.*
 > /ruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Route::Con đường hoặc hướng đi được vạch ra để tới đích đến *(Phát âm: /ruːt/)* ![[route.mp3]]<br><br>👪 **Word Family:** reroute (v), routine (n)<br><br>💬 **Ví dụ:** We decided to take the scenic coastal route instead of the highway.<br>*(-> Chúng tôi quyết định chọn cung đường ven biển tuyệt đẹp thay vì đi cao tốc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A way or course taken in getting from a starting point to a destination.

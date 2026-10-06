@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Crescendo
 *n.*
 > /krəˈʃen.dəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Crescendo::Sự tăng dần âm lượng/cường độ *(Phát âm: /krəˈʃen.dəʊ/)* ![[crescendo.mp3]]<br><br>👪 **Word Family:** crescendo (v/adj/adv)<br><br>💬 **Ví dụ:** The music built to a dramatic crescendo before suddenly stopping.<br>*(-> Âm nhạc tăng dần âm lượng đến cao trào đầy kịch tính trước khi đột ngột dừng lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A gradual increase in loudness in a piece of music, or a progressive increase in force or intensity.

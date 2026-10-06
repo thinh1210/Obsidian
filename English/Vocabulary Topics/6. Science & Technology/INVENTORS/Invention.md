@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # invention
 *n.*
 > /ɪnˈven.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Invention::Sự phát minh, vật phát minh *(Phát âm: /ɪnˈven.ʃən/)* ![[invention.mp3]]<br><br>👪 **Word Family:** invent (v), inventor (n), inventive (adj)<br><br>💬 **Ví dụ:** The wheel is one of the most important inventions in history.<br>*(-> Bánh xe là một trong những phát minh quan trọng nhất trong lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that has never been made before, or the process of creating it

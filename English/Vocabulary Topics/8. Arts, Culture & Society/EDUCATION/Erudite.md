@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Erudite
 *adj.*
 > /ˈerudaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Erudite::Uyên bác, thông thái *(Phát âm: /ˈerudaɪt/)* ![[erudite.mp3]]<br><br>👪 **Word Family:** erudition, eruditely<br><br>💬 **Ví dụ:** The professor is known for his erudite lectures.<br>*(-> Vị giáo sư nổi tiếng vì những bài giảng uyên bác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing great knowledge or learning

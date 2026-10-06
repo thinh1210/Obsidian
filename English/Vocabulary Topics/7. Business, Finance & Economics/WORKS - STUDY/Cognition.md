@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Cognition
 *n.*
 > /kɒɡˈnɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Cognition::Nhận thức *(Phát âm: /kɒɡˈnɪʃ.ən/)* ![[cognition.mp3]]<br><br>👪 **Word Family:** cognitive, cognizant<br><br>💬 **Ví dụ:** Sleep is essential for healthy brain cognition.<br>*(-> Giấc ngủ rất cần thiết cho nhận thức não bộ khỏe mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses

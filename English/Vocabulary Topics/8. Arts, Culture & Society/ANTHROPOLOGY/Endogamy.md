@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Endogamy
 *n.*
 > /enˈdɒɡ.ə.mi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Endogamy::Hôn nhân nội tộc, nội hôn *(Phát âm: /enˈdɒɡ.ə.mi/)* ![[endogamy.mp3]]<br><br>👪 **Word Family:** endogamous<br><br>💬 **Ví dụ:** The small community practiced endogamy to preserve their wealth.<br>*(-> Cộng đồng nhỏ thực hành nội hôn để bảo tồn tài sản của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The custom of marrying only within the limits of a local community, clan, or tribe.

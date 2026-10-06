@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Peninsula
 *Noun*
 > /pəˈnɪnsjələ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Peninsula::Bán đảo *(Phát âm: /pəˈnɪnsjələ/)* ![[peninsula.mp3]]<br><br>👪 **Word Family:** peninsular<br><br>💬 **Ví dụ:** The resort is located on a beautiful peninsula.<br>*(-> Khu nghỉ dưỡng nằm trên một bán đảo xinh đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land almost surrounded by water or projecting out into a body of water.

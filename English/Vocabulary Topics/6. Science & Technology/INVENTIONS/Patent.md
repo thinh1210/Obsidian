@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Patent
 *Noun*
 > /ˈpeɪ.tənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Patent::Bằng sáng chế *(Phát âm: /ˈpeɪ.tənt/)* ![[patent.mp3]]<br><br>👪 **Word Family:** Patent (v), patented (adj)<br><br>💬 **Ví dụ:** He filed a patent for his new clip design.<br>*(-> Anh ấy đã nộp đơn xin bằng sáng chế cho thiết kế kẹp mới của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official legal right to make or sell an invention for a set number of years.

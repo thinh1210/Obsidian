@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Tax
 *noun*
 > /tæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Tax::Thuế *(Phát âm: /tæks/)* ![[tax.mp3]]<br><br>👪 **Word Family:** taxation (n), taxpayer (n), taxable (adj)<br><br>💬 **Ví dụ:** The government is going to raise the tax on tobacco.<br>*(-> Chính phủ chuẩn bị tăng thuế đối với thuốc lá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A compulsory contribution to state revenue, levied by the government on personal income and business profits

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Receipt
 *n*
 > /rɪˈsiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Receipt::Biên lai *(Phát âm: /rɪˈsiːt/)* ![[receipt.mp3]]<br><br>👪 **Word Family:** Receive<br><br>💬 **Ví dụ:** I need the receipt.<br>*(-> Tôi cần biên lai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A paper proving you paid

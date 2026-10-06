@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Park
 *n.*
 > /pɑːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Park::Công viên *(Phát âm: /pɑːk/)* ![[park.mp3]]<br><br>👪 **Word Family:** Parking (n.)<br><br>💬 **Ví dụ:** Let's walk in the park.<br>*(-> Hãy đi dạo trong công viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large public green area in a town.

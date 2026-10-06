@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Thermodynamics
 *noun*
 > /ˌθɜːməʊdaɪˈnæmɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Công nghệ cao & Vật lý kỹ thuật chuyên sâu
+
+## 🗂️ Flashcard
+Thermodynamics::Nhiệt động lực học *(Phát âm: /ˌθɜːməʊdaɪˈnæmɪks/)* ![[thermodynamics.mp3]]<br><br>👪 **Word Family:** thermodynamic (adj), thermodynamical (adj)<br><br>💬 **Ví dụ:** The first law of thermodynamics states that energy cannot be created or destroyed.<br>*(-> Định luật thứ nhất của nhiệt động lực học phát biểu rằng năng lượng không thể tự sinh ra hoặc tự mất đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of physical science that deals with the relations between heat and other forms of energy.

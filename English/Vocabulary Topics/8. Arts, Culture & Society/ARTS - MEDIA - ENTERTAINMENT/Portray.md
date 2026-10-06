@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Portray
 *v.*
 > /pɔːˈtreɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Portray::Khắc họa, đóng vai *(Phát âm: /pɔːˈtreɪ/)* ![[portray.mp3]]<br><br>👪 **Word Family:** portrayal, portrait, portraiture<br><br>💬 **Ví dụ:** The painting portrays a quiet village in winter.<br>*(-> Bức tranh khắc họa một ngôi làng yên bình vào mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Depict (someone or something) in a work of art or literature; represent in a movie, play, etc.

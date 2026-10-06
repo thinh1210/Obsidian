@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Bush
 *n.*
 > /bʊʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Bush::Bụi cây, khóm cây thân gỗ thấp phân cành sát gốc thành từng lùm rậm *(Phát âm: /bʊʃ/)* ![[bush.mp3]]<br><br>👪 **Word Family:** bushy (adj)<br><br>💬 **Ví dụ:** The birds built their nest securely deep inside a thorny rose bush.<br>*(-> Những chú chim xây tổ an toàn sâu bên trong một bụi hoa hồng đầy gai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A woody plant which is smaller than a tree and has several main stems arising at or near the ground.

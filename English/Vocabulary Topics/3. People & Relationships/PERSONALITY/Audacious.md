@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Audacious
 *adj.*
 > /ɔːˈdeɪ.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Audacious::Táo bạo, liều lĩnh, cả gan dám làm những việc kinh thiên động địa *(Phát âm: /ɔːˈdeɪ.ʃəs/)* ![[audacious.mp3]]<br><br>👪 **Word Family:** audacity (n), audaciously (adv)<br><br>💬 **Ví dụ:** It was an audacious proposal to pitch a multi-million-dollar deal on his first week at work.<br>*(-> Thật là một đề xuất táo bạo khi chào bán thương vụ hàng triệu đô la ngay trong tuần đầu tiên anh đi làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing a willingness to take surprisingly bold risks; fearless and adventurous.

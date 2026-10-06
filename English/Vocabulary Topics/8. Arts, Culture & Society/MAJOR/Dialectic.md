@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Dialectic
 *n., adj.*
 > /ˌdaɪ.əˈlek.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Dialectic::Phép biện chứng, tranh luận logic để tìm chân lý *(Phát âm: /ˌdaɪ.əˈlek.tɪk/)* ![[dialectic.mp3]]<br><br>👪 **Word Family:** dialectic (n/adj), dialectical (adj), dialectics (n)<br><br>💬 **Ví dụ:** The debate used a dialectic approach to explore the issue from both sides.<br>*(-> Cuộc tranh luận dùng phương pháp biện chứng để khám phá vấn đề từ cả hai phía.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of investigating or discussing the truth of opinions through logical argument and debate.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Sprawl
 *n.*
 > /sprɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Sprawl::Sự ngổn ngang, mở rộng lộn xộn *(Phát âm: /sprɔːl/)* ![[sprawl.mp3]]<br><br>👪 **Word Family:** sprawling (adj)<br><br>💬 **Ví dụ:** Urban sprawl is destroying the countryside.<br>*(-> Sự lan rộng đô thị lộn xộn đang phá hủy nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The untidy spread of towns or buildings into the surrounding country.

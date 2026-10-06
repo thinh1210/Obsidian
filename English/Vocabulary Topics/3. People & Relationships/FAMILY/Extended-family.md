@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Extended-family
 *noun*
 > /ɪkˌsten.dɪd ˈfæm.əl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Extended-family::Đại gia đình *(Phát âm: /ɪkˌsten.dɪd ˈfæm.əl.i/)* ![[extended_family.mp3]]<br><br>👪 **Word Family:** extended (adj)<br><br>💬 **Ví dụ:** I have a large extended family.<br>*(-> Tôi có một đại gia đình lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A family unit that includes grandmothers, grandfathers, aunts, and uncles, etc.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Foster
 *verb*
 > /ˈfɑː.stɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Foster::Nuôi dưỡng (không nhận làm con nuôi) *(Phát âm: /ˈfɑː.stɚ/)* ![[foster.mp3]]<br><br>👪 **Word Family:** Foster (adj)<br><br>💬 **Ví dụ:** They foster children in need.<br>*(-> Họ nuôi dưỡng những đứa trẻ cần giúp đỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bring up a child that is not one's own by birth.

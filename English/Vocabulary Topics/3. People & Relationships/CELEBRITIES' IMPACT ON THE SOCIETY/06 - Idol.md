@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Idol
 *n.*
 > /ˈaɪ.dəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+06 - Idol::Thần tượng *(Phát âm: /ˈaɪ.dəl/)* ![[idol.mp3]]<br><br>👪 **Word Family:** Idolize (v.)<br><br>💬 **Ví dụ:** He is my idol.<br>*(-> Anh ấy là thần tượng của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who is admired very much.

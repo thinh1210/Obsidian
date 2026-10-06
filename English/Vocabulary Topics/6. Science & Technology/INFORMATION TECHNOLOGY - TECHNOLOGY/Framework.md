@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Framework
 *noun*
 > /ˈfreɪm.wɜːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Framework::Khuôn khổ, nền tảng (phát triển phần mềm) *(Phát âm: /ˈfreɪm.wɜːk/)* ![[framework.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The app was built using a new framework.<br>*(-> Ứng dụng được xây dựng bằng một bộ khung mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A supporting structure around which something can be built, especially software.

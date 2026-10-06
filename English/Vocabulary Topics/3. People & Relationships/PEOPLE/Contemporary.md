@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Contemporary
 *n.*
 > /kənˈtem.pər.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Contemporary::Người cùng thời *(Phát âm: /kənˈtem.pər.ər.i/)* ![[contemporary.mp3]]<br><br>👪 **Word Family:** Contemporaneous<br><br>💬 **Ví dụ:** Shakespeare and his contemporaries.<br>*(-> Shakespeare và những người cùng thời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing living or existing at the same time as another.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Avionics
 *noun*
 > /ˌeɪ.viˈɒn.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Avionics::Điện tử hàng không *(Phát âm: /ˌeɪ.viˈɒn.ɪks/)* ![[avionics.mp3]]<br><br>👪 **Word Family:** electronic (adj), avionics technician (n), navigation system (n)<br><br>💬 **Ví dụ:** The aircraft's avionics were so advanced that even landing in fog was routine.<br>*(-> Hệ thống điện tử hàng không của máy bay tiên tiến đến mức hạ cánh trong sương mù là việc thường ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The electronic systems used on aircraft, including navigation, communication, and flight management systems.

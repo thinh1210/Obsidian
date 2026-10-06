@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Amusement
 *n*
 > /əˈmjuːzmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Amusement::Sự giải trí, vui chơi *(Phát âm: /əˈmjuːzmənt/)* ![[amusement.mp3]]<br><br>👪 **Word Family:** Amuse (v), Amusing (adj)<br><br>💬 **Ví dụ:** We went to the amusement park.<br>*(-> Chúng tôi đã đi công viên giải trí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or experience of finding something funny or entertaining.

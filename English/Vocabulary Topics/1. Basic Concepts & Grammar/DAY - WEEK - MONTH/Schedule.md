@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Schedule
 *noun, verb*
 > /ˈʃedjuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Schedule::Lịch trình, kế hoạch *(Phát âm: /ˈʃedjuːl/)* ![[schedule.mp3]]<br><br>👪 **Word Family:** scheduler (n)<br><br>💬 **Ví dụ:** My schedule is completely full today.<br>*(-> Lịch trình của tôi hôm nay hoàn toàn kín.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan for carrying out a process or procedure, giving lists of intended events and times.

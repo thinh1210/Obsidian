@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Tool
 *Noun*
 > /tuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Tool::Công cụ, dụng cụ *(Phát âm: /tuːl/)* ![[tool.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I need a tool to open this box.<br>*(-> Tôi cần một công cụ để mở chiếc hộp này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of equipment that you use with your hands to make or repair something.

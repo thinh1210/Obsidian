@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Portfolio
 *Noun*
 > /pɔːtˈfəʊliəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Portfolio::Danh mục đầu tư, hồ sơ năng lực (phạm vi các khoản đầu tư do một người hoặc tổ chức nắm giữ) *(Phát âm: /pɔːtˈfəʊliəʊ/)* ![[portfolio.mp3]]<br><br>👪 **Word Family:** Noun: portfolio (danh mục)<br><br>💬 **Ví dụ:** I am trying to build a balanced portfolio with a mix of stocks and gold.<br>*(-> Tôi đang cố gắng xây dựng một danh mục đầu tư cân bằng với sự kết hợp của cổ phiếu và vàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A range of investments held by a person or organization; a collection of work.

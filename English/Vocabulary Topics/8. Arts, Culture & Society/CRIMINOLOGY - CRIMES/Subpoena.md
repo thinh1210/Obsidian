@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Subpoena
 *noun*
 > /səˈpiːnə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Subpoena::Lệnh hầu tòa, lệnh triệu tập *(Phát âm: /səˈpiːnə/)* ![[subpoena.mp3]]<br><br>👪 **Word Family:** subpoena (v)<br><br>💬 **Ví dụ:** She received a subpoena to testify as a witness in the trial.<br>*(-> Cô ấy đã nhận được lệnh triệu tập để ra làm chứng trong phiên tòa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A writ ordering a person to attend a court

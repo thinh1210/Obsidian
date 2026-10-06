@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # World
 *noun*
 > /wɜːld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+World::Thế giới *(Phát âm: /wɜːld/)* ![[world.mp3]]<br><br>👪 **Word Family:** Worldwide (adj.)<br><br>💬 **Ví dụ:** He wants to travel the world.<br>*(-> Anh ấy muốn đi du lịch thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The earth, together with all of its countries and peoples.

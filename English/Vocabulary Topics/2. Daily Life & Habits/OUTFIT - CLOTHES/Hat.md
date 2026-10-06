@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Hat
 *noun*
 > /hæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Hat::Cái mũ, nón *(Phát âm: /hæt/)* ![[hat.mp3]]<br><br>👪 **Word Family:** hatter (n)<br><br>💬 **Ví dụ:** Put your hat on, it's sunny.<br>*(-> Đội mũ vào, trời nắng đấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A covering for the head.

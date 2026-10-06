@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Falsifiability
 *noun*
 > /fɔːlˌsɪ.faɪ.əˈbɪl.ɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Falsifiability::Khả năng bác bỏ – tính chất của lý thuyết khoa học cho phép nó có thể bị chứng minh sai thông qua quan sát hoặc thí nghiệm (tiêu chí Popper) *(Phát âm: /fɔːlˌsɪ.faɪ.əˈbɪl.ɪ.ti/)* ![[falsifiability.mp3]]<br><br>👪 **Word Family:** falsifiable (adj), falsify (v), falsification (n), falsely (adv)<br><br>💬 **Ví dụ:** Astrology fails the falsifiability test because its predictions are too vague to be proven wrong.<br>*(-> Chiêm tinh học không qua được bài kiểm tra khả năng bác bỏ vì dự đoán của nó quá mơ hồ để chứng minh sai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The property of a scientific theory that allows it to potentially be proven false through observation or experiment (Popper's criterion).

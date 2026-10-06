@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Overcast
 *adj.*
 > /ˈəʊvəkɑːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Overcast::U ám, mây bao phủ hoàn toàn *(Phát âm: /ˈəʊvəkɑːst/)* ![[overcast.mp3]]<br><br>👪 **Word Family:** Overcast (verb/noun)<br><br>💬 **Ví dụ:** The sky was overcast, indicating it might rain soon.<br>*(-> Bầu trời u ám đầy mây, báo hiệu trời có thể sắp mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Covered with clouds; dull and gray

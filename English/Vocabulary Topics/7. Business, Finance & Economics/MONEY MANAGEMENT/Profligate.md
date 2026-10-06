@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Profligate
 *Adjective*
 > /ˈprɒflɪɡət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
+
+## 🗂️ Flashcard
+Profligate::Hoang phí, trác táng, vung tay quá trán (lãng phí tài nguyên một cách liều lĩnh) *(Phát âm: /ˈprɒflɪɡət/)* ![[profligate.mp3]]<br><br>👪 **Word Family:** Noun: profligacy (sự hoang phí)<br><br>💬 **Ví dụ:** His profligate habits led him to bankrupt the family estate within five years.<br>*(-> Thói quen hoang phí của anh ta đã khiến anh ta làm khánh kiệt tài sản gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Recklessly wasteful in the use of resources.

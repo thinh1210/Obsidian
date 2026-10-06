@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Sibling
 *noun*
 > /ˈsɪb.lɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Sibling::Anh chị em ruột *(Phát âm: /ˈsɪb.lɪŋ/)* ![[sibling.mp3]]<br><br>👪 **Word Family:** siblings (pl)<br><br>💬 **Ví dụ:** I have three siblings.<br>*(-> Tôi có 3 anh chị em.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A brother or sister.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Emotion
 *noun*
 > /ɪˈmoʊ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Emotion::Cảm xúc *(Phát âm: /ɪˈmoʊ.ʃən/)* ![[emotion.mp3]]<br><br>👪 **Word Family:** emotional (adj)<br><br>💬 **Ví dụ:** She couldn't hide her emotions.<br>*(-> Cô ấy không thể che giấu cảm xúc của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A natural instinctive state of mind deriving from one's circumstances, mood, or relationships.

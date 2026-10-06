@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Doxxing
 *noun*
 > /ˈdɒksɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
+
+## 🗂️ Flashcard
+Doxxing::Tiết lộ thông tin cá nhân trái phép (bóc phốt danh tính) *(Phát âm: /ˈdɒksɪŋ/)* ![[doxxing.mp3]]<br><br>👪 **Word Family:** dox (v)<br><br>💬 **Ví dụ:** After the online argument, she was terrified of being a victim of doxxing.<br>*(-> Sau cuộc tranh cãi trên mạng, cô ấy khiếp sợ việc bị tiết lộ thông tin cá nhân trái phép.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of searching for and publishing private information about an individual on the internet, typically with malicious intent

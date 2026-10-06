@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Wheel
 *Noun*
 > /wiːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Wheel::Bánh xe *(Phát âm: /wiːl/)* ![[wheel.mp3]]<br><br>👪 **Word Family:** Wheeled (adj), wheelbarrow (n)<br><br>💬 **Ví dụ:** The front wheel of the bicycle is flat.<br>*(-> Bánh xe trước của xe đạp bị xẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circular object connected at the centre to a bar, used for making vehicles move.

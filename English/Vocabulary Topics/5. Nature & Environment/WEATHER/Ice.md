@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Ice
 *n.*
 > /aɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Ice::Băng đá, nước đóng thành tảng đông cứng do trời lạnh buốt *(Phát âm: /aɪs/)* ![[ice.mp3]]<br><br>👪 **Word Family:** icy (adj), iciness (n), icicle (n)<br><br>💬 **Ví dụ:** Be careful walking on the footpath; there is slippery ice everywhere.<br>*(-> Hãy cẩn thận khi bước trên vỉa hè; băng tuyết trơn trượt ở khắp mọi nơi đấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Water that has frozen solid due to cold temperatures.

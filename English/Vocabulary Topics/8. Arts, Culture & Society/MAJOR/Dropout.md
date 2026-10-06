@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Dropout
 *n.*
 > /ˈdrɒp.aʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Dropout::Người bỏ học *(Phát âm: /ˈdrɒp.aʊt/)* ![[dropout.mp3]]<br><br>👪 **Word Family:** dropout (n), drop out (v phrase)<br><br>💬 **Ví dụ:** Many famous entrepreneurs are college dropouts.<br>*(-> Nhiều doanh nhân nổi tiếng là những sinh viên bỏ học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who leaves school or university before completing their studies.

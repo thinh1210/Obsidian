@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Privacy
 *n.*
 > /ˈprɪvəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
+
+## 🗂️ Flashcard
+Privacy::Sự riêng tư *(Phát âm: /ˈprɪvəsi/)* ![[privacy.mp3]]<br><br>👪 **Word Family:** private (adj.)<br><br>💬 **Ví dụ:** Celebrities need privacy.<br>*(-> Người nổi tiếng cần sự riêng tư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being free from public attention.

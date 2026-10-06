@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Tourist
 *Noun*
 > /ˈtʊr.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Tourist::Khách du lịch *(Phát âm: /ˈtʊr.ɪst/)* ![[tourist.mp3]]<br><br>👪 **Word Family:** tourism (n)<br><br>💬 **Ví dụ:** Many tourists visit this temple every year.<br>*(-> Nhiều khách du lịch đến thăm ngôi đền này mỗi năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who travels and visits places for fun and holiday.

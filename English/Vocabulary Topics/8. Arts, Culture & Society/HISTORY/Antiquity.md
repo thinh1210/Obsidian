@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Antiquity
 *noun*
 > /ænˈtɪk.wə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
+
+## 🗂️ Flashcard
+Antiquity::Thời kỳ cổ xưa, thời cổ đại *(Phát âm: /ænˈtɪk.wə.ti/)* ![[antiquity.mp3]]<br><br>👪 **Word Family:** antique (adj/n), antiquated (adj), antiquarian (n)<br><br>💬 **Ví dụ:** The museum displays many beautiful statues from classical antiquity.<br>*(-> Bảo tàng trưng bày nhiều bức tượng đẹp từ thời cổ đại cổ điển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ancient past, especially the period before the Middle Ages.

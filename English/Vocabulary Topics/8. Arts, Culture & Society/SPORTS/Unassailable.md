@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Unassailable
 *adj.*
 > /ˌʌn.əˈseɪ.lə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Unassailable::Không thể bị đánh bại, không thể công phá *(Phát âm: /ˌʌn.əˈseɪ.lə.bəl/)* ![[unassailable.mp3]]<br><br>👪 **Word Family:** unassailably, assail, assailant<br><br>💬 **Ví dụ:** The team built an unassailable lead in the first half of the match.<br>*(-> Đội đã tạo ra một khoảng cách dẫn trước không thể san lấp ngay trong hiệp một của trận đấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unable to be attacked, questioned, or defeated.

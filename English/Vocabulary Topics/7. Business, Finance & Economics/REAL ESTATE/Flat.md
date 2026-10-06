@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Flat
 *n.*
 > /flæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Flat::Căn hộ (thường dùng ở Anh) *(Phát âm: /flæt/)* ![[flat.mp3]]<br><br>👪 **Word Family:** flatmate (n)<br><br>💬 **Ví dụ:** They shared a small flat when they were university students.<br>*(-> Họ đã ở chung một căn hộ nhỏ khi còn là sinh viên đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of rooms for living in, usually on one floor of a large building.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Platform
 *n.*
 > /ˈplætfɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Platform::Khu vực nền cao bên đường ray nơi hành khách đứng chờ bước lên tàu hỏa *(Phát âm: /ˈplætfɔːm/)* ![[platform.mp3]]<br><br>👪 **Word Family:** platform (n)<br><br>💬 **Ví dụ:** The express train to Edinburgh departs from platform nine.<br>*(-> Chuyến tàu tốc hành tới Edinburgh khởi hành từ sân ga số chín.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A raised level surface on which people can stand while waiting for a train.

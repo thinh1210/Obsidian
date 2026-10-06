@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Bright
 *adj*
 > /braɪt/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Bright::Rực rỡ, chói lọi *(Phát âm: /braɪt/)* ![[bright.mp3]]<br><br>👪 **Word Family:** brightness (n), brighten (v)<br><br>💬 **Ví dụ:** She always wears bright clothes.<br>*(-> Cô ấy luôn mặc quần áo màu rực rỡ.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Strong in color.

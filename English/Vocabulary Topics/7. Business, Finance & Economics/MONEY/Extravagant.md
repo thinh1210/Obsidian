@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Extravagant
 *adjective*
 > /ɪkˈstræv.ə.ɡənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Extravagant::Phung phí, xa hoa, quá mức *(Phát âm: /ɪkˈstræv.ə.ɡənt/)* ![[extravagant.mp3]]<br><br>👪 **Word Family:** extravagantly (adv), extravagance (n)<br><br>💬 **Ví dụ:** She was criticized for her extravagant spending habits.<br>*(-> Cô ấy đã bị chỉ trích vì thói quen chi tiêu phung phí của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lacking restraint in spending money or using resources

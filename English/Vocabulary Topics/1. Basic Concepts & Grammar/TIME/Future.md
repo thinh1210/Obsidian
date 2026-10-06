@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Future
 *n., adj.*
 > /ˈfjuː.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Future::Tương lai, những tháng ngày sắp tới sau hiện tại; tiền đồ *(Phát âm: /ˈfjuː.tʃər/)* ![[future.mp3]]<br><br>👪 **Word Family:** futuristic (adj), futurism (n)<br><br>💬 **Ví dụ:** Saving a portion of your monthly income is a sensible way to secure your future.<br>*(-> Tiết kiệm một phần thu nhập hàng tháng là cách hợp lý để bảo đảm cho tương lai của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of time that is to come after the present; what will happen in time to come.

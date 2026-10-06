@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Transit
 *n.*
 > /ˈtrænzɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Transit::Việc ghé tạm tại sân bay trung gian trước khi bay tiếp chặng sau *(Phát âm: /ˈtrænzɪt/)* ![[transit.mp3]]<br><br>👪 **Word Family:** transitory (adj), transition (n)<br><br>💬 **Ví dụ:** We had a four-hour transit in Singapore before flying on to Sydney.<br>*(-> Chúng tôi có 4 giờ quá cảnh tại Singapore trước khi bay tiếp sang Sydney.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The carrying of people, goods, or materials from one place to another; also a stopover at an intermediate airport.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Impecunious
 *Adjective*
 > /ˌɪmpɪˈkjuːniəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
+
+## 🗂️ Flashcard
+Impecunious::Nghèo túng, không một xu dính túi (có ít hoặc không có tiền) *(Phát âm: /ˌɪmpɪˈkjuːniəs/)* ![[impecunious.mp3]]<br><br>👪 **Word Family:** Noun: impecuniousness (sự nghèo túng)<br><br>💬 **Ví dụ:** As an impecunious artist, he often had to choose between buying paints or buying food.<br>*(-> Là một họa sĩ nghèo túng, anh thường phải chọn giữa việc mua sơn vẽ hay mua thức ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having little or no money.

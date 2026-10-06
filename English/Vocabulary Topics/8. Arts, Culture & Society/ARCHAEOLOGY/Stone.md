@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Stone
 *noun*
 > /stəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Stone::Đá, hòn đá *(Phát âm: /stəʊn/)* ![[stone.mp3]]<br><br>👪 **Word Family:** stony (adj)<br><br>💬 **Ví dụ:** He threw a stone into the river.<br>*(-> Anh ấy ném một hòn đá xuống sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Hard solid mineral substance that is found in the ground

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Mall
 *n*
 > /mɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Mall::Trung tâm thương mại *(Phát âm: /mɔːl/)* ![[mall.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Let's go to the mall.<br>*(-> Đi trung tâm thương mại nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large shopping center

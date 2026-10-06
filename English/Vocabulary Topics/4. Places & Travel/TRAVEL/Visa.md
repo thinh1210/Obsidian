@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Visa
 *n.*
 > /ˈviːzə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
+
+## 🗂️ Flashcard
+Visa::Con dấu hoặc giấy chứng nhận cho phép người nước ngoài nhập cảnh một quốc gia *(Phát âm: /ˈviːzə/)* ![[visa.mp3]]<br><br>👪 **Word Family:** visa (n)<br><br>💬 **Ví dụ:** She had to submit her bank statement when applying for a Schengen visa.<br>*(-> Cô ấy phải nộp sao kê ngân hàng khi nộp đơn xin thị thực Schengen.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period of time in a country.

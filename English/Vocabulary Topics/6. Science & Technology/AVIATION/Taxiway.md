@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Taxiway
 *noun*
 > /ˈtæk.si.weɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Taxiway::Đường lăn (đường taxi của máy bay) *(Phát âm: /ˈtæk.si.weɪ/)* ![[taxiway.mp3]]<br><br>👪 **Word Family:** apron (n), runway (n), ground movement (n)<br><br>💬 **Ví dụ:** The controller instructed the aircraft to turn left on taxiway Alpha.<br>*(-> Kiểm soát viên hướng dẫn máy bay rẽ trái vào đường lăn Alpha.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A path on an airport that aircraft use to move between the runway and the terminal or hangar.

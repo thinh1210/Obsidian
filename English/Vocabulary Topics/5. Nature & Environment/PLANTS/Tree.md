@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Tree
 *noun*
 > /triː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Tree::Cây thân gỗ *(Phát âm: /triː/)* ![[tree.mp3]]<br><br>👪 **Word Family:** Noun: tree (cây), sapling (cây non), Adjective: treelike (giống cây)<br><br>💬 **Ví dụ:** We sat in the shade of a large oak tree.<br>*(-> Chúng tôi ngồi dưới bóng mát của một cây sồi lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tall plant with a wooden trunk and branches.

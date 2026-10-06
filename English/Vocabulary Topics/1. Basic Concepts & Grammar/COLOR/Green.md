@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Green
 *adj, n*
 > /ɡriːn/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Green::Màu xanh lá cây *(Phát âm: /ɡriːn/)* ![[green.mp3]]<br><br>👪 **Word Family:** greenness (n), greenish (adj)<br><br>💬 **Ví dụ:** Eat more green vegetables for your health.<br>*(-> Hãy ăn thêm rau xanh để tốt cho sức khoẻ.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The color of growing grass, leaves, and plants.

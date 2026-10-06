@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Vintage
 *adj.*
 > /ˈvɪn.tɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Vintage::Cổ điển, hoài cổ mang phong cách thời trang của những thập niên trước *(Phát âm: /ˈvɪn.tɪdʒ/)* ![[vintage.mp3]]<br><br>👪 **Word Family:** vintner (n)<br><br>💬 **Ví dụ:** She found an authentic vintage trench coat at a flea market downtown.<br>*(-> Cô ấy tìm được một chiếc áo khoác măng tô cổ điển chính hiệu tại khu chợ trời trung tâm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Produced in the past, and typical of the period in which it was made, representing high quality.

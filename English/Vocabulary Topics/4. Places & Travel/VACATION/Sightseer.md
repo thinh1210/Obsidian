@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Sightseer
 *n.*
 > /ˈsaɪtsiːər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Sightseer::Du khách đi dạo ngắm nhìn các công trình kiến trúc và phong cảnh nổi tiếng *(Phát âm: /ˈsaɪtsiːər/)* ![[sightseer.mp3]]<br><br>👪 **Word Family:** sightseeing (n), sight (n)<br><br>💬 **Ví dụ:** Crowds of sightseers lined up along the riverbank to view the bridge lights.<br>*(-> Từng đoàn khách ngắm cảnh xếp hàng dài bên bờ sông để ngắm dàn đèn trên cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who visits places of interest to look at famous buildings and sights.

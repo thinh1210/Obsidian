@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Brooch
 *noun*
 > /brəʊtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Brooch::Trâm cài áo *(Phát âm: /brəʊtʃ/)* ![[brooch.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She pinned a beautiful brooch to her jacket.<br>*(-> Cô ấy cài một chiếc trâm đẹp lên áo khoác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewellery with a pin on the back, worn on clothes.

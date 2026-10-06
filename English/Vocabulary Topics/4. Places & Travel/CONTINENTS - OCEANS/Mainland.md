@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Mainland
 *noun*
 > /ˈmeɪnlænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Mainland::Lục địa, đất liền chính *(Phát âm: /ˈmeɪnlænd/)* ![[mainland.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We took a ferry back to the mainland.<br>*(-> Chúng tôi đi phà về lại đất liền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large continuous extent of land that includes the greater part of a country or territory, as opposed to offshore islands and detached territories.

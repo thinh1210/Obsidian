@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Remote
 *adjective.*
 > /rɪˈmoʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Remote::Từ xa, xa xôi *(Phát âm: /rɪˈmoʊt/)* ![[remote.mp3]]<br><br>👪 **Word Family:** remotely (adv), remoteness (noun)<br><br>💬 **Ví dụ:** I use a remote controller to guide the toy robot.<br>*(-> Tôi dùng bộ điều khiển từ xa để điều khiển robot đồ chơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Operating or controlled from a distance

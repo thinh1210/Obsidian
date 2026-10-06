@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Vivacious
 *adj.*
 > /vɪˈveɪ.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Vivacious::Sôi nổi, hoạt bát, đầy sức sống *(Phát âm: /vɪˈveɪ.ʃəs/)* ![[vivacious.mp3]]<br><br>👪 **Word Family:** Vivacity (n)<br><br>💬 **Ví dụ:** She is a vivacious girl.<br>*(-> Cô ấy là một cô gái hoạt bát đầy sức sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Attractively lively and animated (typically used of a woman).

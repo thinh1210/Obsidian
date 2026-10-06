@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Avocational
 *Adj*
 > /ˌæv.əˈkeɪ.ʃən.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Avocational::Thuộc về sở thích phụ (không phải nghề chính) *(Phát âm: /ˌæv.əˈkeɪ.ʃən.əl/)* ![[avocational.mp3]]<br><br>👪 **Word Family:** Avocation (Noun): Sở thích (khác nghề chính)<br><br>💬 **Ví dụ:** His avocational interest in astronomy led to a discovery.<br>*(-> Sở thích thiên văn học của anh đã dẫn đến một khám phá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to an activity that someone does for pleasure, not as their job.

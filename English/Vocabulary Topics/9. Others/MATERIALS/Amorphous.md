@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Amorphous
 *adjective.*
 > /əˈmɔːfəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Amorphous::Vô định hình, không có cấu trúc tinh thể *(Phát âm: /əˈmɔːfəs/)* ![[amorphous.mp3]]<br><br>👪 **Word Family:** amorphously (Adverb), amorphism (Noun)<br><br>💬 **Ví dụ:** Unlike table salt, glass is an amorphous solid with no repeating crystal lattice.<br>*(-> Không giống như muối ăn, thủy tinh là một chất rắn vô định hình không có mạng tinh thể lặp lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Without a clearly defined shape or form; non-crystalline structure.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Portfolio
 *noun.*
 > /pɔːtˈfəʊliəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
+
+## 🗂️ Flashcard
+Portfolio::Danh mục đầu tư *(Phát âm: /pɔːtˈfəʊliəʊ/)* ![[portfolio.mp3]]<br><br>👪 **Word Family:** portfolios (noun)<br><br>💬 **Ví dụ:** A well-diversified portfolio should include stocks, bonds, and cash.<br>*(-> Một danh mục đầu tư đa dạng hóa tốt nên bao gồm cổ phiếu, trái phiếu và tiền mặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A range of investments held by a person or organization.

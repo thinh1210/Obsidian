@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Shocked
 *adj*
 > /ʃɑːkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Shocked::Bị sốc, sững sờ *(Phát âm: /ʃɑːkt/)* ![[shocked.mp3]]<br><br>👪 **Word Family:** shock (n/v), shocking (adj)<br><br>💬 **Ví dụ:** We were shocked by the news.<br>*(-> Chúng tôi bị sốc vì tin tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Surprised and upset.

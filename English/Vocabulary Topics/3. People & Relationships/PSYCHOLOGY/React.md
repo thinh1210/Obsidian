@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # React
 *verb*
 > /riˈækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+React::Phản ứng *(Phát âm: /riˈækt/)* ![[react.mp3]]<br><br>👪 **Word Family:** reaction (noun)<br><br>💬 **Ví dụ:** How did he react?<br>*(-> Anh ấy phản ứng thế nào?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Respond or behave in a particular way in response to something.

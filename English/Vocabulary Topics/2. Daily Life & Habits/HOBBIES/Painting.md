@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Painting
 *noun*
 > /ˈpeɪn.tɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Painting::Hội họa *(Phát âm: /ˈpeɪn.tɪŋ/)* ![[painting.mp3]]<br><br>👪 **Word Family:** Paint (v/n), Painter (n)<br><br>💬 **Ví dụ:** Painting is a great way to express creativity.<br>*(-> Hội họa là một cách tuyệt vời để thể hiện sự sáng tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act or skill of using paint to create pictures.

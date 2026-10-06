@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Gadgetry
 *n.*
 > /ˈɡædʒɪtri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Media | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Gadgetry::Đồ dùng công nghệ, thiết bị điện tử (nói chung) *(Phát âm: /ˈɡædʒɪtri/)* ![[gadgetry.mp3]]<br><br>👪 **Word Family:** Gadget (n.)<br><br>💬 **Ví dụ:** He loves filling his house with the latest smart home gadgetry.<br>*(-> Anh ấy thích lấp đầy ngôi nhà của mình bằng những thiết bị nhà thông minh mới nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small mechanical or electronic devices or tools, especially ingenious or novel ones.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Catalyst
 *Noun*
 > /ˈkæt.əl.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Catalyst::Chất xúc tác, tác nhân thúc đẩy *(Phát âm: /ˈkæt.əl.ɪst/)* ![[catalyst.mp3]]<br><br>👪 **Word Family:** Catalytic (adj), catalyze (v)<br><br>💬 **Ví dụ:** His speech served as a catalyst for local environmental action.<br>*(-> Bài biểu của ông đã đóng vai trò là chất xúc tác cho hành động bảo vệ môi trường tại địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that causes change or activity without being directly changed itself.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Hygiene
 *n.*
 > /ˈhaɪdʒiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Hygiene::Vệ sinh *(Phát âm: /ˈhaɪdʒiːn/)* ![[hygiene.mp3]]<br><br>👪 **Word Family:** hygienic (adj.)<br><br>💬 **Ví dụ:** Personal hygiene is important.<br>*(-> Vệ sinh cá nhân rất quan trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conditions or practices conducive to maintaining health and preventing disease.

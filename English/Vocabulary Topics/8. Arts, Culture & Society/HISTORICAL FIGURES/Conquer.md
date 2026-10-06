@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Conquer
 *v.*
 > /ˈkɒŋkə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Conquer::Chinh phục, xâm chiếm *(Phát âm: /ˈkɒŋkə(r)/)* ![[conquer.mp3]]<br><br>👪 **Word Family:** conqueror, conquest<br><br>💬 **Ví dụ:** The army set out to conquer new lands.<br>*(-> Quân đội lên đường chinh phục những vùng đất mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take control of a country or city and its people by force

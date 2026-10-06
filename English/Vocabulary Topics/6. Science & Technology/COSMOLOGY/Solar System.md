@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Solar System
 *Noun*
 > /ˈsəʊ.lər ˌsɪs.təm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Solar System::Hệ Mặt Trời *(Phát âm: /ˈsəʊ.lər ˌsɪs.təm/)* ![[solar_system.mp3]]<br><br>👪 **Word Family:** solar (adj)<br><br>💬 **Ví dụ:** We learned about the solar system in elementary school.<br>*(-> Chúng tôi đã học về hệ Mặt Trời từ thời tiểu học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The collection of eight planets and their moons in orbit round the sun.

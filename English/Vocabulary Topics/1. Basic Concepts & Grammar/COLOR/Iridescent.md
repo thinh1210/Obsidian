@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Iridescent
 *adj*
 > /ˌɪr.əˈdes.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Iridescent::Óng ánh, lấp lánh nhiều màu sắc *(Phát âm: /ˌɪr.əˈdes.ənt/)* ![[iridescent.mp3]]<br><br>👪 **Word Family:** iridescence (n)<br><br>💬 **Ví dụ:** Soap bubbles have an iridescent surface.<br>*(-> Bong bóng xà phòng có bề mặt óng ánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing luminous colors that seem to change when seen from different angles.

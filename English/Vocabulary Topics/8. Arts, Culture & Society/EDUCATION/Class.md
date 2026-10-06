@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Class
 *n.*
 > /klɑːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Class::Lớp học *(Phát âm: /klɑːs/)* ![[class.mp3]]<br><br>👪 **Word Family:** classmate, classroom<br><br>💬 **Ví dụ:** I have an English class at 9 AM.<br>*(-> Tôi có lớp học tiếng Anh vào lúc 9 giờ sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of students who are taught together

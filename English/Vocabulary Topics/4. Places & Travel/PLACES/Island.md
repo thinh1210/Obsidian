@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Island
 *n.*
 > /ˈaɪ.lənd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
+
+## 🗂️ Flashcard
+Island::Hòn đảo *(Phát âm: /ˈaɪ.lənd/)* ![[island.mp3]]<br><br>👪 **Word Family:** islander (n)<br><br>💬 **Ví dụ:** We spent our holiday on a small island.<br>*(-> Chúng tôi dành kỳ nghỉ trên một hòn đảo nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land surrounded by water.

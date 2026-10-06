@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Tip
 *n.*
 > /tɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Tip::Khoản tiền boa thưởng thêm cho nhân viên phục vụ; hoặc mẹo vặt hữu ích *(Phát âm: /tɪp/)* ![[tip.mp3]]<br><br>👪 **Word Family:** tip (v), tipping (n)<br><br>💬 **Ví dụ:** The service was exceptional, so we left the server a generous twenty percent tip.<br>*(-> Dịch vụ quá tuyệt vời nên chúng tôi đã để lại khoản tiền boa hào phóng 20% cho người phục vụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small amount of money given to someone for providing a service; also a piece of advice.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Vandalism
 *noun*
 > /ˈvændəlɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Vandalism::Hành vi phá hoại tài sản công cộng/tư nhân *(Phát âm: /ˈvændəlɪzəm/)* ![[vandalism.mp3]]<br><br>👪 **Word Family:** vandal (n), vandalize (v)<br><br>💬 **Ví dụ:** The local park was closed due to acts of vandalism.<br>*(-> Công viên địa phương đã phải đóng cửa do các hành vi phá hoại của công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Action involving deliberate destruction of or damage to public or private property

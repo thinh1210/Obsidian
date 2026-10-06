@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Tectonic
 *adj*
 > /tekˈtɒnɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Tectonic::Kiến tạo *(Phát âm: /tekˈtɒnɪk/)* ![[tectonic.mp3]]<br><br>👪 **Word Family:** Tectonics (n.)<br><br>💬 **Ví dụ:** Earthquakes are caused by tectonic plates moving.<br>*(-> Động đất gây ra bởi sự di chuyển của các mảng kiến tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the structure of the earth's crust and the large-scale processes which take place within it.

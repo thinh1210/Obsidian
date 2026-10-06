@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Diverse
 *adj*
 > /daɪˈvɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Diverse::Đa dạng *(Phát âm: /daɪˈvɜːs/)* ![[diverse.mp3]]<br><br>👪 **Word Family:** Diversity (n.), Diversify (v.)<br><br>💬 **Ví dụ:** New York is a very culturally diverse city.<br>*(-> New York là một thành phố rất đa dạng về văn hóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing a great deal of variety; very different.

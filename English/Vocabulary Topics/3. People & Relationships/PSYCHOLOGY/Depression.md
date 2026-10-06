@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Depression
 *noun*
 > /dɪˈpreʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Depression::Trầm cảm, suy thoái *(Phát âm: /dɪˈpreʃ.ən/)* ![[depression.mp3]]<br><br>👪 **Word Family:** depress (verb), depressed (adj)<br><br>💬 **Ví dụ:** He fought depression for years.<br>*(-> Anh ấy đã chiến đấu với bệnh trầm cảm nhiều năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feelings of severe despondency and dejection.

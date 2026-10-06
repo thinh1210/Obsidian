@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Hormone
 *noun*
 > /ˈhɔː.məʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Hormone::Hóc-môn, nội tiết tố *(Phát âm: /ˈhɔː.məʊn/)* ![[hormone.mp3]]<br><br>👪 **Word Family:** hormonal<br><br>💬 **Ví dụ:** Sleep helps regulate your body's hormones.<br>*(-> Giấc ngủ giúp điều hòa các hóc-môn của cơ thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regulatory substance produced in an organism and transported in tissue fluids such as blood to stimulate specific cells or tissues into action.

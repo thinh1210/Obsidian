@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Refinance
 *v.*
 > /ˌriːˈfaɪnæns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Refinance::Tái cấp vốn, tái cơ cấu khoản vay *(Phát âm: /ˌriːˈfaɪnæns/)* ![[refinance.mp3]]<br><br>👪 **Word Family:** refinancing (n)<br><br>💬 **Ví dụ:** With interest rates dropping, they decided to refinance their mortgage to lower their monthly payments.<br>*(-> Với lãi suất đang giảm, họ quyết định tái cấp vốn khoản vay thế chấp để giảm các khoản thanh toán hàng tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Finance (a business or a purchase) again, typically with a new loan at a lower rate of interest.

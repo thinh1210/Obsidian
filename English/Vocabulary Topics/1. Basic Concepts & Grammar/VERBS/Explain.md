@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Explain
 *Verb*
 > /ɪkˈspleɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Explain::Giải thích *(Phát âm: /ɪkˈspleɪn/)* ![[explain.mp3]]<br><br>👪 **Word Family:** Explanation (n), Explanatory (adj)<br><br>💬 **Ví dụ:** Let me explain.<br>*(-> Để tôi giải thích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something clear or easy to understand.

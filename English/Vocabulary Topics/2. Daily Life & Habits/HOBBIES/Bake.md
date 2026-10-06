@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Bake
 *verb*
 > /beɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Bake::Nướng bánh *(Phát âm: /beɪk/)* ![[bake.mp3]]<br><br>👪 **Word Family:** Baker (n), Bakery (n), Baking (n)<br><br>💬 **Ví dụ:** I love to bake cookies on Sundays.<br>*(-> Tôi thích nướng bánh quy vào các ngày Chủ nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cook food by dry heat without direct exposure to a flame, typically in an oven.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Audience
 *n.*
 > /ˈɔːdiəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Audience::Khán giả, thính giả *(Phát âm: /ˈɔːdiəns/)* ![[audience.mp3]]<br><br>👪 **Word Family:** auditory, audition<br><br>💬 **Ví dụ:** The show attracted a large audience.<br>*(-> Buổi biểu diễn đã thu hút một lượng khán giả lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The assembled spectators or listeners at a public event such as a play, movie, concert, or meeting.

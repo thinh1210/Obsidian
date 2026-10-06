@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Habitat
 *n.*
 > /ˈhæb.ə.tæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Habitat::Môi trường sống *(Phát âm: /ˈhæb.ə.tæt/)* ![[habitat.mp3]]<br><br>👪 **Word Family:** habitation (n)<br><br>💬 **Ví dụ:** Pandas are losing their natural habitat.<br>*(-> Gấu trúc đang mất dần môi trường sống tự nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural home or environment of an animal, plant, or other organism.

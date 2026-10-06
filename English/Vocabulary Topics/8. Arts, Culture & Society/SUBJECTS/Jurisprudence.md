@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Jurisprudence
 *noun*
 > /ˌdʒʊərɪsˈpruːdns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Jurisprudence::Pháp lý học *(Phát âm: /ˌdʒʊərɪsˈpruːdns/)* ![[jurisprudence.mp3]]<br><br>👪 **Word Family:** jurisprudent, jurisprudential<br><br>💬 **Ví dụ:** Students of jurisprudence study the nature of legal reasoning.<br>*(-> Sinh viên pháp lý học nghiên cứu bản chất của lập luận pháp lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The theory or philosophy of law.

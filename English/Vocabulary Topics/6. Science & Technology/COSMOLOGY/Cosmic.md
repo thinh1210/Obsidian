@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Cosmic
 *Adjective*
 > /ˈkɒz.mɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Cosmic::Thuộc về vũ trụ *(Phát âm: /ˈkɒz.mɪk/)* ![[cosmic.mp3]]<br><br>👪 **Word Family:** cosmos (n), cosmology (n)<br><br>💬 **Ví dụ:** Cosmic scale is mind-bogglingly huge.<br>*(-> Quy mô vũ trụ lớn đến mức không thể tưởng tượng nổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the universe or cosmos, especially as distinct from the earth.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Twig
 *n.*
 > /twɪɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Twig::Cành con, nhánh cây nhỏ và mảnh mọc ra từ cành lớn *(Phát âm: /twɪɡ/)* ![[twig.mp3]]<br><br>👪 **Word Family:** twiggy (adj)<br><br>💬 **Ví dụ:** Birds gathered dry twigs and feathers to build a sturdy nest on the balcony.<br>*(-> Lũ chim tha những cành cây con khô và lông vũ để xây tổ vững chắc trên ban công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A slender woody shoot growing from a branch or stem of a tree or shrub.

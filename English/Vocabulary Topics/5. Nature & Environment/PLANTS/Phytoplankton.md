@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Phytoplankton
 *noun*
 > /ˌfaɪtəʊˈplæŋktən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Phytoplankton::Thực vật phù du *(Phát âm: /ˌfaɪtəʊˈplæŋktən/)* ![[phytoplankton.mp3]]<br><br>👪 **Word Family:** Noun: phytoplankton (thực vật phù du)<br><br>💬 **Ví dụ:** Whales feed on tiny organisms, including phytoplankton.<br>*(-> Cá voi ăn các sinh vật nhỏ bé, bao gồm cả thực vật phù du.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Plankton consisting of microscopic plants.

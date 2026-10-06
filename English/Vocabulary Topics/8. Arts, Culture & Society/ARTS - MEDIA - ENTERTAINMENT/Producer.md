@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Producer
 *n.*
 > /prəˈdjuːsə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Producer::Nhà sản xuất *(Phát âm: /prəˈdjuːsə(r)/)* ![[producer.mp3]]<br><br>👪 **Word Family:** produce, production, productive<br><br>💬 **Ví dụ:** He works as a television producer.<br>*(-> Anh ấy làm việc như một nhà sản xuất truyền hình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person responsible for the financial and managerial aspects of making a movie or broadcast, or for staging a play.

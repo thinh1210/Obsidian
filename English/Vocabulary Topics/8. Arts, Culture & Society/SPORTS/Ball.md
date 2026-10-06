@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Ball
 *n.*
 > /bɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Ball::Quả bóng *(Phát âm: /bɔːl/)* ![[ball.mp3]]<br><br>👪 **Word Family:** ballroom, ballgame<br><br>💬 **Ví dụ:** The dog loves to run after the tennis ball.<br>*(-> Con chó rất thích chạy đuổi theo quả bóng tennis.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A round object that is hit, kicked, or thrown in a game.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Acquittal
 *noun*
 > /əˈkwɪtl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Acquittal::Sự tuyên án vô tội, sự trắng án *(Phát âm: /əˈkwɪtl/)* ![[acquittal.mp3]]<br><br>👪 **Word Family:** acquit (v)<br><br>💬 **Ví dụ:** The trial ended in an acquittal for the young defendant.<br>*(-> Phiên tòa đã kết thúc với phán quyết trắng án cho bị cáo trẻ tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A judgment that a person is not guilty of the crime with which they have been charged

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Obsolete
 *adj*
 > /ˌɒb.səlˈiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Obsolete::Lỗi thời, không còn sử dụng *(Phát âm: /ˌɒb.səlˈiːt/)* ![[obsolete.mp3]]<br><br>👪 **Word Family:** Obsolescence (n)<br><br>💬 **Ví dụ:** Floppy disks are completely obsolete now.<br>*(-> Đĩa mềm hiện nay đã hoàn toàn lỗi thời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not in use any more, having been replaced by something newer and better or more fashionable.

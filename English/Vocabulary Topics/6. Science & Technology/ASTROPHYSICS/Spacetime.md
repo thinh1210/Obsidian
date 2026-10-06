@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Spacetime
 *noun*
 > /ˈspeɪs.taɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Spacetime::Không-thời gian *(Phát âm: /ˈspeɪs.taɪm/)* ![[spacetime.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** It is hard for humans to perceive spacetime as a single entity.<br>*(-> Thật khó để con người nhận thức không-thời gian như một thực thể duy nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The four-dimensional continuum combining three-dimensional space and one-dimensional time.

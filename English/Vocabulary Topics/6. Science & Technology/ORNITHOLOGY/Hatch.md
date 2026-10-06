@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Hatch
 *verb*
 > /hætʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Hatch::Nở (trứng) *(Phát âm: /hætʃ/)* ![[hatch.mp3]]<br><br>👪 **Word Family:** hatch (v/n), hatchling (n), hatchery (n)<br><br>💬 **Ví dụ:** The little chicks hatched yesterday morning.<br>*(-> Những chú gà con đã nở vào sáng hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To emerge from an egg.

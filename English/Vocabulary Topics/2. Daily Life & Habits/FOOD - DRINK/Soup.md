@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Soup
 *n.*
 > /suːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Soup::Súp, canh *(Phát âm: /suːp/)* ![[soup.mp3]]<br><br>👪 **Word Family:** soupy<br><br>💬 **Ví dụ:** This soup is tasty.<br>*(-> Súp này ngon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A liquid dish, typically made by boiling meat, fish, or vegetables.

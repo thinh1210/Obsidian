@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Drought
 *noun*
 > /draʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
+
+## 🗂️ Flashcard
+Drought::Hạn hán *(Phát âm: /draʊt/)* ![[drought.mp3]]<br><br>👪 **Word Family:** dry (adj), droughty (adj)<br><br>💬 **Ví dụ:** The crop failed this year because of the drought.<br>*(-> Vụ mùa năm nay thất thu vì hạn hán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long period when there is little or no rain.

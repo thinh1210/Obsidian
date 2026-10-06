@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Course
 *n.*
 > /kɔːrs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Course::Khóa học, môn học *(Phát âm: /kɔːrs/)* ![[course.mp3]]<br><br>👪 **Word Family:** course (n), coursework (n)<br><br>💬 **Ví dụ:** She is taking a cooking course this summer.<br>*(-> Cô ấy đang tham gia một khóa học nấu ăn mùa hè này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of lessons or lectures on a particular subject.

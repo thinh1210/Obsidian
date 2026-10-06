@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Motorway
 *noun*
 > /ˈmoʊtərweɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Motorway::Đường cao tốc (từ Anh-Anh) *(Phát âm: /ˈmoʊtərweɪ/)* ![[motorway.mp3]]<br><br>👪 **Word Family:** Noun: motorway (đường cao tốc)<br><br>💬 **Ví dụ:** We drove along the motorway from London to Birmingham.<br>*(-> Chúng tôi đã lái xe dọc theo đường cao tốc từ London đến Birmingham.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A road designed for fast travel by motor vehicles, with several lanes in each direction.

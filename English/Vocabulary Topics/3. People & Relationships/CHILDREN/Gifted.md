@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Gifted
 *adj.*
 > /ˈɡɪf.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Gifted::Có năng khiếu đặc biệt, có tài năng thiên bẩm và trí tuệ vượt trội từ nhỏ *(Phát âm: /ˈɡɪf.tɪd/)* ![[gifted.mp3]]<br><br>👪 **Word Family:** gift (n), giftedness (n)<br><br>💬 **Ví dụ:** Special educational programs cater to gifted students who grasp mathematics far beyond their grade level.<br>*(-> Các chương trình giáo dục đặc biệt phục vụ cho các học sinh năng khiếu có khả năng tiếp thu toán học vượt xa lứa tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a natural ability or very great intelligence in a particular subject.

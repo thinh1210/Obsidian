@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Elegant
 *adj.*
 > /ˈelɪɡənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Elegant::Thanh lịch, tao nhã *(Phát âm: /ˈelɪɡənt/)* ![[elegant.mp3]]<br><br>👪 **Word Family:** Elegance (n), Elegantly (adv)<br><br>💬 **Ví dụ:** She looked truly elegant in her evening gown.<br>*(-> Cô ấy trông thật sự thanh lịch trong chiếc váy dạ hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Graceful and attractive in appearance or behaviour.

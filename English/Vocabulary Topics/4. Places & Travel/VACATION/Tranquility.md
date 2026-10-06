@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Tranquility
 *Noun*
 > /træŋˈkwɪlɪti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Tranquility::Sự yên bình *(Phát âm: /træŋˈkwɪlɪti/)* ![[tranquility.mp3]]<br><br>👪 **Word Family:** tranquil (adj)<br><br>💬 **Ví dụ:** I love the tranquility of the countryside.<br>*(-> Tôi yêu sự yên bình của vùng nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being tranquil; calm.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Reforestation
 *n.*
 > /ˌriːˌfɒrɪˈsteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Reforestation::Trồng lại rừng, hoạt động trồng cây gây rừng để phục hồi các thảm rừng đã bị chặt phá hoặc cháy rụi *(Phát âm: /ˌriːˌfɒrɪˈsteɪʃn/)* ![[reforestation.mp3]]<br><br>👪 **Word Family:** reforest (v), deforestation (antonym n)<br><br>💬 **Ví dụ:** Local schoolchildren joined hands with park rangers for an annual weekend reforestation drive.<br>*(-> Học sinh địa phương chung tay cùng các nhân viên kiểm lâm trong chiến dịch trồng lại rừng dịp cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of replanting an area with trees after deforestation or logging.

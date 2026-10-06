@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Design
 *Verb*
 > /dɪˈzaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Design::Thiết kế *(Phát âm: /dɪˈzaɪn/)* ![[design.mp3]]<br><br>👪 **Word Family:** Designer (n), design (n)<br><br>💬 **Ví dụ:** He designed the layout of the living room.<br>*(-> Anh ấy đã thiết kế bố cục của phòng khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make or draw plans for something, for example clothes or buildings.

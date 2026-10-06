@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Wilderness
 *Noun*
 > /ˈwɪldənəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Wilderness::Vùng hoang dã, nơi hoang vu *(Phát âm: /ˈwɪldənəs/)* ![[wilderness.mp3]]<br><br>👪 **Word Family:** wild, wildly<br><br>💬 **Ví dụ:** They spent three days hiking in the wilderness.<br>*(-> Họ đã dành ba ngày đi bộ đường dài trong vùng hoang dã.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An uncultivated, uninhabited, and inhospitable region.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # E-commerce
 *noun*
 > /ˈiː kɑːmɜːrs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+E-commerce::thương mại điện tử *(Phát âm: /ˈiː kɑːmɜːrs/)* ![[e_commerce.mp3]]<br><br>👪 **Word Family:** commercial (adjective), commerce (noun)<br><br>💬 **Ví dụ:** During the pandemic, many people shifted to e-commerce for their daily shopping.<br>*(-> Trong đại dịch, nhiều người đã chuyển sang thương mại điện tử để mua sắm hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** business that is conducted electronically, especially over the internet.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Interview
 *n.*
 > /ˈɪn.tə.vjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Interview::Cuộc phỏng vấn *(Phát âm: /ˈɪn.tə.vjuː/)* ![[interview.mp3]]<br><br>👪 **Word Family:** interviewer, interviewee<br><br>💬 **Ví dụ:** I have a job interview tomorrow morning.<br>*(-> Tôi có một cuộc phỏng vấn xin việc vào sáng mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A meeting to assess a candidate's suitability for a job

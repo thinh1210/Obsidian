@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Illustrious
 *adj.*
 > /ɪˈlʌstriəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Illustrious::Lừng lẫy *(Phát âm: /ɪˈlʌstriəs/)* ![[illustrious.mp3]]<br><br>👪 **Word Family:** illustriously (adv.)<br><br>💬 **Ví dụ:** He had an illustrious military career.<br>*(-> Anh ấy có một sự nghiệp quân sự lừng lẫy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Well known, respected, and admired for past achievements.

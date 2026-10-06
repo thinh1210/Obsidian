@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Dance
 *v*
 > /dæns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Dance::Khiêu vũ, nhảy múa *(Phát âm: /dæns/)* ![[dance.mp3]]<br><br>👪 **Word Family:** dancer (n), dancing (n)<br><br>💬 **Ví dụ:** They like to dance at parties.<br>*(-> Họ thích khiêu vũ ở các bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move your body to music.

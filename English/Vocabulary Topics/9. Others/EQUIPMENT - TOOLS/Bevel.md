@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # bevel
 *noun*
 > /ˈbev.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Bevel::góc vát, cạnh vát, thước đo góc vát *(Phát âm: /ˈbev.əl/)* ![[bevel.mp3]]<br><br>👪 **Word Family:** Noun: bevel (góc vát, thước vát), Verb: bevel (vát cạnh), Adjective: bevelled (được vát cạnh)<br><br>💬 **Ví dụ:** The carpenter shaved the wood to create a smooth bevel edge.<br>*(-> Người thợ mộc đã bào gỗ để tạo ra một cạnh vát mịn màng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a slope or slant on a line or surface, or an instrument used to draw or measure angles.

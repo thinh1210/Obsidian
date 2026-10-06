@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Inferior
 *adj*
 > /ɪnˈfɪə.ri.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
+
+## 🗂️ Flashcard
+Inferior::Thua kém, cấp dưới *(Phát âm: /ɪnˈfɪə.ri.ər/)* ![[inferior.mp3]]<br><br>👪 **Word Family:** Inferiority (noun)<br><br>💬 **Ví dụ:** This brand is inferior to that one.<br>*(-> Thương hiệu này kém hơn thương hiệu kia.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lower in rank, status, or quality.

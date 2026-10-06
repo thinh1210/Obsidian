@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Receipt
 *n.*
 > /rɪˈsiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Receipt::Biên lai, biên nhận *(Phát âm: /rɪˈsiːt/)* ![[receipt.mp3]]<br><br>👪 **Word Family:** receive, receiver<br><br>💬 **Ví dụ:** Make sure you get a receipt for the taxi fare.<br>*(-> Hãy chắc chắn rằng bạn nhận được biên lai cho tiền taxi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of paper that proves that money, goods, or services have been received

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Transport
 *n.*
 > /ˈtrænspɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Transport::Giao thông *(Phát âm: /ˈtrænspɔːt/)* ![[transport.mp3]]<br><br>👪 **Word Family:** Transportation (n.)<br><br>💬 **Ví dụ:** Public transport is very convenient here.<br>*(-> Giao thông công cộng ở đây rất thuận tiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system or means of conveying people or goods from place to place.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Autograph
 *n.*
 > /ˈɔːtəɡrɑːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Autograph::Chữ ký (của người nổi tiếng) *(Phát âm: /ˈɔːtəɡrɑːf/)* ![[autograph.mp3]]<br><br>👪 **Word Family:** autograph (v.)<br><br>💬 **Ví dụ:** I asked for his autograph.<br>*(-> Tôi đã xin chữ ký của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A signature, especially that of a celebrity.

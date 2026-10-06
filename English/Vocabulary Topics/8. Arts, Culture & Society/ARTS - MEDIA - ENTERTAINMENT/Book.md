@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Book
 *n.*
 > /bʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Book::Sách *(Phát âm: /bʊk/)* ![[book.mp3]]<br><br>👪 **Word Family:** booklet, bookseller, booking<br><br>💬 **Ví dụ:** She is reading a very interesting book about art history.<br>*(-> Cô ấy đang đọc một cuốn sách rất thú vị về lịch sử nghệ thuật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A written or printed work consisting of pages glued or sewn together along one side and bound in covers.

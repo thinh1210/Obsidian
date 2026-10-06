@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Aware
 *adj*
 > /əˈwer/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Aware::Nhận thức *(Phát âm: /əˈwer/)* ![[aware.mp3]]<br><br>👪 **Word Family:** awareness (noun)<br><br>💬 **Ví dụ:** I am aware of the problem.<br>*(-> Tôi nhận thức được vấn đề.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having knowledge or perception of a situation or fact.

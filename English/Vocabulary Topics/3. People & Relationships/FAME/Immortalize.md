@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Immortalize
 *v.*
 > /ɪˈmɔːtəlaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Immortalize::Bất tử hóa *(Phát âm: /ɪˈmɔːtəlaɪz/)* ![[immortalize.mp3]]<br><br>👪 **Word Family:** immortal (adj.)<br><br>💬 **Ví dụ:** His words were immortalized.<br>*(-> Những lời của anh ấy đã trở nên bất tử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Confer enduring fame upon.

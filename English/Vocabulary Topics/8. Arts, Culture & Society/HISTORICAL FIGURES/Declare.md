@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Declare
 *v.*
 > /dɪˈkleə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Declare::Tuyên bố, công bố *(Phát âm: /dɪˈkleə(r)/)* ![[declare.mp3]]<br><br>👪 **Word Family:** declaration, declarative<br><br>💬 **Ví dụ:** The couple declared their love for each other.<br>*(-> Cặp đôi đã tuyên bố tình yêu dành cho nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say something in a solemn and emphatic manner

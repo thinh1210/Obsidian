@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Skyscraper
 *n.*
 > /ˈskaɪskreɪpə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Skyscraper::Tòa nhà chọc trời *(Phát âm: /ˈskaɪskreɪpə(r)/)* ![[skyscraper.mp3]]<br><br>👪 **Word Family:** skyscraping<br><br>💬 **Ví dụ:** New York is famous for its massive skyscrapers.<br>*(-> New York nổi tiếng với những tòa nhà chọc trời đồ sộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A very tall modern building, usually in a city

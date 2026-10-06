@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Crevasse
 *Noun*
 > /krəˈvæs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Crevasse::Khe nứt băng, vết nứt sâu *(Phát âm: /krəˈvæs/)* ![[crevasse.mp3]]<br><br>👪 **Word Family:** crevice<br><br>💬 **Ví dụ:** The climber fell into a deep glacial crevasse.<br>*(-> Người leo núi đã rơi xuống một khe nứt sông băng sâu thẳm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep open crack, especially one in a glacier.

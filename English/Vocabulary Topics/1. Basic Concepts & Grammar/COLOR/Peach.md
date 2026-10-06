@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Peach
 *n, adj*
 > /piːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Peach::Màu hồng đào *(Phát âm: /piːtʃ/)* ![[peach.mp3]]<br><br>👪 **Word Family:** peachy (adj)<br><br>💬 **Ví dụ:** The bridesmaid wore a peach dress.<br>*(-> Phù dâu mặc chiếc váy màu hồng đào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pale, pinkish-yellow color.

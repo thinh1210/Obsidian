@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Standard
 *noun/adjective*
 > /ˈstændəd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Standard::Tiêu chuẩn, chuẩn mực *(Phát âm: /ˈstændəd/)* ![[standard.mp3]]<br><br>👪 **Word Family:** standardize (v), standardization (n)<br><br>💬 **Ví dụ:** This apartment is built to a very high standard of construction.<br>*(-> Căn hộ này được xây dựng với tiêu chuẩn xây dựng rất cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A level of quality or attainment, or an authorized model.

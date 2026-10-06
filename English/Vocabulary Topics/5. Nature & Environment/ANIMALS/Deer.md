@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Deer
 *n.*
 > /dɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Deer::Con hươu, con nai, loài động vật ăn cỏ hiền lành có cặp gạc phân nhánh *(Phát âm: /dɪər/)* ![[deer.mp3]]<br><br>👪 **Word Family:** fawn (n - nai con), stag (n - hươu đực), doe (n - hươu cái)<br><br>💬 **Ví dụ:** We slowed our car down as a graceful deer stood quietly at the edge of the woods.<br>*(-> Chúng tôi giảm tốc độ xe khi một chú hươu duyên dáng đứng lặng lẽ bên rìa cánh rừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hoofed grazing animal with branching bony antlers shed annually by males.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Floor
 *noun*
 > /flɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Floor::Sàn nhà *(Phát âm: /flɔːr/)* ![[floor.mp3]]<br><br>👪 **Word Family:** flooring (n)<br><br>💬 **Ví dụ:** Don't sit on the floor.<br>*(-> Đừng ngồi trên sàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The lower surface of a room, on which one may walk.

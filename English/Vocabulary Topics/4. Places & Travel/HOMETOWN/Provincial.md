@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Provincial
 *adj.*
 > /prəˈvɪnʃl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Provincial::Thuộc tỉnh lẻ, thiển cận *(Phát âm: /prəˈvɪnʃl/)* ![[provincial.mp3]]<br><br>👪 **Word Family:** Province (n.)<br><br>💬 **Ví dụ:** He has a very provincial attitude.<br>*(-> Anh ấy có thái độ rất thiển cận (như người tỉnh lẻ).)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of or concerning a province of a country or empire; narrow-minded.

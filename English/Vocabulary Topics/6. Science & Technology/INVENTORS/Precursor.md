@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # precursor
 *n.*
 > /ˌpriːˈkɜː.sər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Tầm vóc thời đại & Chuyển giao thế hệ
+
+## 🗂️ Flashcard
+Precursor::Tiền thân, người đi trước, vật báo hiệu trước *(Phát âm: /ˌpriːˈkɜː.sər/)* ![[precursor.mp3]]<br><br>👪 **Word Family:** precursory (adj)<br><br>💬 **Ví dụ:** The typewriter was the precursor to the modern computer keyboard.<br>*(-> Máy đánh chữ là tiền thân của bàn phím máy tính hiện đại ngày nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing that comes before another of the same kind; a forerunner

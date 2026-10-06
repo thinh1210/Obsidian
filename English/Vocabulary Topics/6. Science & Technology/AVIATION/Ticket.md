@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Ticket
 *noun*
 > /ˈtɪk.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Ticket::Vé (máy bay) *(Phát âm: /ˈtɪk.ɪt/)* ![[ticket.mp3]]<br><br>👪 **Word Family:** ticketing (n), ticket holder (n)<br><br>💬 **Ví dụ:** She forgot to print her ticket before going to the airport.<br>*(-> Cô ấy quên in vé trước khi ra sân bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of paper or electronic document that shows you have paid to travel on an aircraft.

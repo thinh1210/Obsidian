@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Automate
 *Verb*
 > /ˈɔː.tə.meɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Automate::Tự động hóa *(Phát âm: /ˈɔː.tə.meɪt/)* ![[automate.mp3]]<br><br>👪 **Word Family:** Automation (n), automatic (adj), automatically (adv)<br><br>💬 **Ví dụ:** We want to automate our home lighting system.<br>*(-> Chúng tôi muốn tự động hóa hệ thống chiếu sáng trong nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a process in a factory or office operate by machines or computers instead of people.

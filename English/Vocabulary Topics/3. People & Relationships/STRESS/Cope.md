@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Cope
 *v.*
 > /kəʊp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Cope::Đương đầu, đối phó *(Phát âm: /kəʊp/)* ![[cope.mp3]]<br><br>👪 **Word Family:** coping (n)<br><br>💬 **Ví dụ:** How do you cope with stress?<br>*(-> Bạn đối phó với căng thẳng thế nào?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To deal successfully with something difficult

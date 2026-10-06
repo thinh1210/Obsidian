@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Nice
 *adj.*
 > /naɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Nice::Tốt, đẹp, dễ thương *(Phát âm: /naɪs/)* ![[nice.mp3]]<br><br>👪 **Word Family:** Nicely (adv)<br><br>💬 **Ví dụ:** Have a nice day!<br>*(-> Chúc một ngày tốt lành!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasant, enjoyable, or attractive.

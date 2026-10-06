@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Resilience
 *n.*
 > /rɪˈzɪl.jəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Resilience::Sự kiên cường, khả năng phục hồi nhanh chóng *(Phát âm: /rɪˈzɪl.jəns/)* ![[resilience.mp3]]<br><br>👪 **Word Family:** resilient, resiliently<br><br>💬 **Ví dụ:** The athlete's resilience helped him recover from a career-threatening injury.<br>*(-> Sự kiên cường của vận động viên đã giúp anh hồi phục sau chấn thương đe dọa sự nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The capacity to recover quickly from difficulties; toughness.

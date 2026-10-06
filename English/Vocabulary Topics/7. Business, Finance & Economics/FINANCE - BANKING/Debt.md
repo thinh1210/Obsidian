@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Debt
 *noun.*
 > /det/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Debt::Khoản nợ, sự mắc nợ *(Phát âm: /det/)* ![[debt.mp3]]<br><br>👪 **Word Family:** debtor (noun)<br><br>💬 **Ví dụ:** It took him five years to pay off all his university debts.<br>*(-> Anh ấy đã mất năm năm để trả hết tất cả các khoản nợ đại học của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount of money that you owe to a person or bank.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Donation
 *n.*
 > /dəʊˈneɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+34 - Donation::Sự quyên góp *(Phát âm: /dəʊˈneɪ.ʃən/)* ![[donation.mp3]]<br><br>👪 **Word Family:** Donate (v.)<br><br>💬 **Ví dụ:** Large donation.<br>*(-> Khoản quyên góp lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that is given to a charity.

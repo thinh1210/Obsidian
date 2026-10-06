@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Prescription
 *n*
 > /prɪˈskrɪpʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Prescription::Đơn thuốc, toa thuốc *(Phát âm: /prɪˈskrɪpʃn/)* ![[prescription.mp3]]<br><br>👪 **Word Family:** prescribe (v), prescriptive (adj)<br><br>💬 **Ví dụ:** The doctor wrote me a prescription for painkillers.<br>*(-> Bác sĩ đã kê cho tôi một đơn thuốc giảm đau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instruction written by a medical practitioner that authorizes a patient to be provided with a medicine.

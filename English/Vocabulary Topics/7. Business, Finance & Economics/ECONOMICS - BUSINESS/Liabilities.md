@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Liabilities
 *noun*
 > /ˌlaɪəˈbɪlətiz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Đòn bẩy tài chính & Nghĩa vụ nợ doanh nghiệp
+
+## 🗂️ Flashcard
+Liabilities::các khoản nợ phải trả, nghĩa vụ pháp lý *(Phát âm: /ˌlaɪəˈbɪlətiz/)* ![[liabilities.mp3]]<br><br>👪 **Word Family:** liable (adjective)<br><br>💬 **Ví dụ:** Before buying a business, you must assess all its potential liabilities.<br>*(-> Trước khi mua một doanh nghiệp, bạn phải đánh giá tất cả các khoản nợ tiềm ẩn của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the amount of money that a person or company owes to others.

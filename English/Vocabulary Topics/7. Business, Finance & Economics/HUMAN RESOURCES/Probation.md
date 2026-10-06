@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Probation
 *n.*
 > /prəˈbeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Probation::Thời gian thử việc *(Phát âm: /prəˈbeɪ.ʃən/)* ![[probation.mp3]]<br><br>👪 **Word Family:** probationary, probationer<br><br>💬 **Ví dụ:** New employees are usually put on probation for three months.<br>*(-> Nhân viên mới thường được thử việc trong ba tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A trial period for a newly hired employee

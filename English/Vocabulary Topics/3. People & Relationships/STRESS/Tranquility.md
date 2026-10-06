@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Tranquility
 *n.*
 > /træŋˈkwɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Tranquility::Sự yên bình, tĩnh lặng *(Phát âm: /træŋˈkwɪləti/)* ![[tranquility.mp3]]<br><br>👪 **Word Family:** tranquil (adj)<br><br>💬 **Ví dụ:** I love the tranquility of the countryside.<br>*(-> Tôi yêu sự yên bình của vùng quê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being tranquil; calm

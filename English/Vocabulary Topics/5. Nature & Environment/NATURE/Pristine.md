@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Pristine
 *Adjective*
 > /ˈprɪstiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Pristine::Nguyên sơ, sạch sẽ tinh khôi *(Phát âm: /ˈprɪstiːn/)* ![[pristine.mp3]]<br><br>👪 **Word Family:** pristinely<br><br>💬 **Ví dụ:** The tourists were amazed by the pristine beaches of the island.<br>*(-> Khách du lịch đã kinh ngạc trước những bãi biển nguyên sơ của hòn đảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In its original condition; unspoiled.

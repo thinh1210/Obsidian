@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Server
 *noun*
 > /ˈsɜː.vər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+Server::Máy chủ *(Phát âm: /ˈsɜː.vər/)* ![[server.mp3]]<br><br>👪 **Word Family:** server (n), serve (v), client-server (adj)<br><br>💬 **Ví dụ:** The server was down for an hour, and no one could access the website.<br>*(-> Máy chủ bị sập trong một giờ và không ai có thể truy cập trang web.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A computer or program that provides data, services, or resources to other computers (clients) over a network.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Insular
 *Adjective*
 > /ˈɪnsələr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
+
+## 🗂️ Flashcard
+Insular::Thiển cận, cô lập *(Phát âm: /ˈɪnsələr/)* ![[insular.mp3]]<br><br>👪 **Word Family:** Insularity<br><br>💬 **Ví dụ:** The village is very insular and dislikes strangers.<br>*(-> Ngôi làng rất cô lập và không thích người lạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Obstinate
 *adj.*
 > /ˈɒb.stɪ.nət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Obstinate::Cố chấp, bảo thủ, ngoan cố không chịu tiếp thu dù người khác có lý *(Phát âm: /ˈɒb.stɪ.nət/)* ![[obstinate.mp3]]<br><br>👪 **Word Family:** obstinacy (n), obstinately (adv)<br><br>💬 **Ví dụ:** Despite compelling scientific evidence, he held an obstinate denial of the facts.<br>*(-> Bất chấp bằng chứng khoa học thuyết phục, anh ta vẫn giữ thái độ phủ nhận ngoan cố sự thật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unreasonably determined, especially to act in a particular way and not to change at all, despite good reasons.

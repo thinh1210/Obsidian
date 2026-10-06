@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Bad
 *adj*
 > /bæd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Bad::Tệ, xấu *(Phát âm: /bæd/)* ![[bad.mp3]]<br><br>👪 **Word Family:** Badly (adv), Badness (noun)<br><br>💬 **Ví dụ:** I had a bad dream.<br>*(-> Tôi có một giấc mơ tồi tệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Failing to reach an acceptable standard.

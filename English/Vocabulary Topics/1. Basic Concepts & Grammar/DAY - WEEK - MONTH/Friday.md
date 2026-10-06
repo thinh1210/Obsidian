@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Friday
 *n.*
 > /ˈfraɪ.deɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Friday::Thứ Sáu, ngày làm việc cuối cùng trong tuần hành chính trước kỳ nghỉ cuối tuần *(Phát âm: /ˈfraɪ.deɪ/)* ![[friday.mp3]]<br><br>👪 **Word Family:** Fridays (adv)<br><br>💬 **Ví dụ:** Friday night is our family movie night with homemade pizza and popcorn.<br>*(-> Đêm thứ Sáu là buổi xem phim gia đình của chúng tôi với bánh pizza tự làm và bắp rang bơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The day of the week between Thursday and Saturday; the final working day for most people.

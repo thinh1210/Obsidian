@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Careless
 *adj.*
 > /ˈkeə.ləs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Careless::Bất cẩn, cẩu thả, thiếu suy xét dẫn đến sai sót đáng tiếc *(Phát âm: /ˈkeə.ləs/)* ![[careless.mp3]]<br><br>👪 **Word Family:** carelessness (n), carelessly (adv), careful (adj)<br><br>💬 **Ví dụ:** A careless mistake on the tax form resulted in an audit from authorities.<br>*(-> Một lỗi bất cẩn trên tờ khai thuế đã dẫn đến việc bị cơ quan chức năng kiểm toán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not taking or showing enough care and attention.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Co-payment
 *n.*
 > /ˈkəʊ peɪmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
+
+## 🗂️ Flashcard
+Co-payment::Khoản đồng chi trả *(Phát âm: /ˈkəʊ peɪmənt/)* ![[co_payment.mp3]]<br><br>👪 **Word Family:** pay, payment<br><br>💬 **Ví dụ:** I had to pay a $20 co-payment for my prescription medicine.<br>*(-> Tôi phải trả một khoản đồng chi trả 20 đô la cho thuốc kê đơn của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A payment made by a beneficiary (especially for health services) in addition to that made by an insurer.

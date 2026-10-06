@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Fee
 *noun.*
 > /fiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Fee::Phí, lệ phí *(Phát âm: /fiː/)* ![[fee.mp3]]<br><br>👪 **Word Family:** fee<br><br>💬 **Ví dụ:** The bank charges a small fee for international transfers.<br>*(-> Ngân hàng tính một khoản phí nhỏ cho các giao dịch chuyển khoản quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount of money paid for a particular piece of work or service.

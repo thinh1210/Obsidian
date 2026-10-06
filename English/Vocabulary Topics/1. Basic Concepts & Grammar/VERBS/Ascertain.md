@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Ascertain
 *Verb*
 > /ˌæs.əˈteɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Ascertain::Xác minh, tìm hiểu chắc chắn *(Phát âm: /ˌæs.əˈteɪn/)* ![[ascertain.mp3]]<br><br>👪 **Word Family:** Ascertainable (adj)<br><br>💬 **Ví dụ:** I need to ascertain the truth.<br>*(-> Tôi cần xác minh sự thật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To discover something.

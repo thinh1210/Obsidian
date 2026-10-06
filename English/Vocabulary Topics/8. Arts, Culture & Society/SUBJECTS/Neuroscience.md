@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Neuroscience
 *n.*
 > /ˈnjʊə.rəʊˌsaɪ.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Neuroscience::Khoa học thần kinh; thần kinh học *(Phát âm: /ˈnjʊə.rəʊˌsaɪ.əns/)* ![[neuroscience.mp3]]<br><br>👪 **Word Family:** neuroscientist (n.), neuroscientific (adj.), neural (adj.)<br><br>💬 **Ví dụ:** She is captivated by neuroscience because of her curiosity about consciousness.<br>*(-> Cô ấy bị cuốn hút bởi khoa học thần kinh vì sự tò mò về ý thức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any or all of the sciences, such as neurochemistry and experimental psychology, which deal with the structure or function of the nervous system and brain.

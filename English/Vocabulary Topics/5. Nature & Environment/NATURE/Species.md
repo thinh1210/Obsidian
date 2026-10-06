@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Species
 *Noun*
 > /ˈspiːʃiːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Species::Loài *(Phát âm: /ˈspiːʃiːz/)* ![[species.mp3]]<br><br>👪 **Word Family:** speciation<br><br>💬 **Ví dụ:** There are thousands of butterfly species in this area.<br>*(-> Có hàng ngàn loài bướm ở khu vực này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of living organisms consisting of similar individuals.

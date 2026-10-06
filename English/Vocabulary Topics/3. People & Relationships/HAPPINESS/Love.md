@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Love
 *n./v.*
 > /lʌv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Love::Tình yêu, yêu *(Phát âm: /lʌv/)* ![[love.mp3]]<br><br>👪 **Word Family:** Lovely (adj), Lover (n)<br><br>💬 **Ví dụ:** I love my family.<br>*(-> Tôi yêu gia đình tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An intense feeling of deep affection.

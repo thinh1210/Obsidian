@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Drink
 *v., n.*
 > /drɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Drink::Uống chất lỏng; đồ uống, thức uống giải khát *(Phát âm: /drɪŋk/)* ![[drink.mp3]]<br><br>👪 **Word Family:** drinker (n), drinking (n), drunk (adj/n)<br><br>💬 **Ví dụ:** Health experts advise everyone to drink at least two liters of water every day.<br>*(-> Các chuyên gia y tế khuyên mọi người nên uống ít nhất hai lít nước mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take liquid into the mouth and swallow it; an alcoholic or non-alcoholic beverage.

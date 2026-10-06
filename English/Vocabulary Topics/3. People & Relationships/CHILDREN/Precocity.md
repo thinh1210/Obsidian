@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Precocity
 *noun*
 > /prɪˈkɑː.sə.t̬i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Precocity::Sự sớm phát triển (trí tuệ) *(Phát âm: /prɪˈkɑː.sə.t̬i/)* ![[precocity.mp3]]<br><br>👪 **Word Family:** Precocious (adj)<br><br>💬 **Ví dụ:** Her precocity amazed her teachers.<br>*(-> Sự sớm phát triển của cô bé làm giáo viên kinh ngạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Exceptionally early in development or occurrence.

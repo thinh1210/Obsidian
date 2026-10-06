@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Wise
 *adj.*
 > /waɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Wise::Khôn ngoan, sáng suốt *(Phát âm: /waɪz/)* ![[wise.mp3]]<br><br>👪 **Word Family:** wisdom, wisely<br><br>💬 **Ví dụ:** It would be wise to save some money for the future.<br>*(-> Sẽ là khôn ngoan nếu tiết kiệm một ít tiền cho tương lai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing experience, knowledge, and good judgment.

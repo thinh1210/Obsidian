@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Court
 *n.*
 > /kɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Court::Sân thi đấu có vạch kẻ chuyên dụng cho quần vợt, bóng rổ, bóng chuyền, cầu lông *(Phát âm: /kɔːt/)* ![[court.mp3]]<br><br>👪 **Word Family:** courtside (n/adj)<br><br>💬 **Ví dụ:** We booked a tennis court for two hours this Sunday morning.<br>*(-> Chúng tôi đã đặt trước một sân tennis trong hai tiếng vào sáng Chủ nhật này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A quadrangular area marked out for ball games such as tennis, basketball, or badminton.

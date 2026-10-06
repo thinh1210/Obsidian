@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Appraisal
 *n.*
 > /əˈpreɪzl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Appraisal::Sự thẩm định giá *(Phát âm: /əˈpreɪzl/)* ![[appraisal.mp3]]<br><br>👪 **Word Family:** appraise (v), appraiser (n)<br><br>💬 **Ví dụ:** The bank ordered an appraisal of the house before approving the mortgage.<br>*(-> Ngân hàng đã yêu cầu thẩm định giá ngôi nhà trước khi chấp thuận khoản vay thế chấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An expert estimate of the value of something, especially property.

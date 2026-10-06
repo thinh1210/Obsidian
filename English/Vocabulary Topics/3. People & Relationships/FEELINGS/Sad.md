@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Sad
 *adj*
 > /sæd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Sad::Buồn bã *(Phát âm: /sæd/)* ![[sad.mp3]]<br><br>👪 **Word Family:** sadness (n), sadly (adv)<br><br>💬 **Ví dụ:** Why are you sad?<br>*(-> Sao bạn buồn?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling sorrow.

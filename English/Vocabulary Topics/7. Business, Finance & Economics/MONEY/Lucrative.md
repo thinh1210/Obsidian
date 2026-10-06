@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Lucrative
 *adjective*
 > /ˈluː.krə.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Lucrative::Sinh lợi, có lời, kiếm bộn tiền *(Phát âm: /ˈluː.krə.tɪv/)* ![[lucrative.mp3]]<br><br>👪 **Word Family:** lucratively (adv), lucrativeness (n)<br><br>💬 **Ví dụ:** She gave up a lucrative career in banking to become an artist.<br>*(-> Cô ấy đã từ bỏ sự nghiệp ngân hàng sinh lời cao để trở thành một nghệ sĩ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing a great deal of profit

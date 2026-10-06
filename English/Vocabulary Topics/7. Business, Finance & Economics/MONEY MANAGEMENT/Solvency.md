@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Solvency
 *Noun*
 > /ˈsɒlvənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
+
+## 🗂️ Flashcard
+Solvency::Khả năng thanh toán (việc sở hữu tài sản vượt quá các khoản nợ; khả năng trả được nợ) *(Phát âm: /ˈsɒlvənsi/)* ![[solvency.mp3]]<br><br>👪 **Word Family:** Adj: solvent (có khả năng thanh toán)<br><br>💬 **Ví dụ:** Personal solvency requires you to live below your means and avoid bad debts.<br>*(-> Khả năng thanh toán cá nhân đòi hỏi bạn phải sống dưới mức thu nhập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The possession of assets excess of liabilities; ability to pay one's debts.

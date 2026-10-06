@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Frugal
 *adj*
 > /ˈfruː.ɡəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Frugal::Tiết kiệm *(Phát âm: /ˈfruː.ɡəl/)* ![[frugal.mp3]]<br><br>👪 **Word Family:** Frugality<br><br>💬 **Ví dụ:** She is very frugal.<br>*(-> Cô ấy rất tiết kiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Careful when using money

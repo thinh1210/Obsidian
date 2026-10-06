@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Shopaholic
 *n*
 > /ˌʃɒp.əˈhɒl.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Shopaholic::Người nghiện mua sắm *(Phát âm: /ˌʃɒp.əˈhɒl.ɪk/)* ![[shopaholic.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I'm a shopaholic.<br>*(-> Tôi nghiện mua sắm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who enjoys shopping very much

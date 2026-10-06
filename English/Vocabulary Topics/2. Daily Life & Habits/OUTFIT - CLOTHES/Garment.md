@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Garment
 *noun*
 > /ˈɡɑːr.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Garment::Áo quần, đồ may mặc *(Phát âm: /ˈɡɑːr.mənt/)* ![[garment.mp3]]<br><br>👪 **Word Family:** garmentless (adj)<br><br>💬 **Ví dụ:** This garment should be dry-cleaned only.<br>*(-> Đồ này chỉ nên giặt khô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An item of clothing.

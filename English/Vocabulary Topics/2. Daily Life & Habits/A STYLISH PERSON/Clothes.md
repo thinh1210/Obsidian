@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Clothes
 *n.*
 > /kloʊðz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Clothes::Quần áo *(Phát âm: /kloʊðz/)* ![[clothes.mp3]]<br><br>👪 **Word Family:** Clothing (n), Clothe (v)<br><br>💬 **Ví dụ:** I need to buy some new clothes.<br>*(-> Tôi cần mua vài bộ quần áo mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Items worn to cover the body.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Eccentric
 *adj.*
 > /ɪkˈsentrɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
+
+## 🗂️ Flashcard
+Eccentric::Kỳ dị, lập dị (có phong cách riêng) *(Phát âm: /ɪkˈsentrɪk/)* ![[eccentric.mp3]]<br><br>👪 **Word Family:** Eccentricity (n)<br><br>💬 **Ví dụ:** She has an eccentric style of dressing.<br>*(-> Cô ấy có phong cách ăn mặc lập dị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Strange or unusual, sometimes in a humorous way.

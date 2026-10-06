@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Vaccine
 *n*
 > /ˈvæksiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Vaccine::Vắc-xin *(Phát âm: /ˈvæksiːn/)* ![[vaccine.mp3]]<br><br>👪 **Word Family:** vaccinate (v), vaccination (n)<br><br>💬 **Ví dụ:** The new vaccine provides long-lasting immunity against the virus.<br>*(-> Vắc-xin mới cung cấp khả năng miễn dịch lâu dài chống lại virus.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance used to stimulate the production of antibodies and provide immunity against one or several diseases.

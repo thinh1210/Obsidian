@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Design
 *v.*
 > /dɪˈzaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Design::Thiết kế *(Phát âm: /dɪˈzaɪn/)* ![[design.mp3]]<br><br>👪 **Word Family:** designer, designated<br><br>💬 **Ví dụ:** She was hired to design the interior of the new office.<br>*(-> Cô ấy được thuê để thiết kế nội thất của văn phòng mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To decide how something will look, work, etc., by drawing plans or making models

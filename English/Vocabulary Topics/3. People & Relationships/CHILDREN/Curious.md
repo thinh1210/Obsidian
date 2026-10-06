@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Curious
 *adj.*
 > /ˈkjʊə.ri.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Curious::Tò mò, hiếu kỳ, thích khám phá và ham tìm hiểu thế giới xung quanh *(Phát âm: /ˈkjʊə.ri.əs/)* ![[curious.mp3]]<br><br>👪 **Word Family:** curiously (adv), curiosity (n)<br><br>💬 **Ví dụ:** The curious five-year-old asked endless questions about why the sky is blue and how birds fly.<br>*(-> Đứa bé năm tuổi hiếu kỳ liên tục đặt ra vô số câu hỏi vì sao bầu trời lại xanh và chim bay như thế nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Interested in learning about people or things around you.

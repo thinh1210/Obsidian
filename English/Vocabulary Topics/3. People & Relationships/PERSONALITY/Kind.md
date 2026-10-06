@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Kind
 *adj.*
 > /kaɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Kind::Tử tế, tốt bụng, giàu lòng nhân ái *(Phát âm: /kaɪnd/)* ![[kind.mp3]]<br><br>👪 **Word Family:** kindness (n), kindly (adv)<br><br>💬 **Ví dụ:** It was very kind of you to help me with the luggage.<br>*(-> Bạn thật tử tế khi đã giúp tôi mang hành lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Generous, helpful, and caring about other people.

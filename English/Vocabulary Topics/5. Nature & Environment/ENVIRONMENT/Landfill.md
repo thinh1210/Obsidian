@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Landfill
 *n.*
 > /ˈlændfɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Landfill::Bãi chôn lấp rác thải, khu vực tập kết và chôn rác xuống lòng đất gây áp lực lớn lên môi trường *(Phát âm: /ˈlændfɪl/)* ![[landfill.mp3]]<br><br>👪 **Word Family:** landfilling (n)<br><br>💬 **Ví dụ:** Millions of plastic takeaway containers end up discarded in municipal landfills every day.<br>*(-> Hàng triệu hộp nhựa đựng đồ ăn mang về bị vứt bỏ vào các bãi chôn lấp rác đô thị mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place to dispose of refuse and other waste material by burying it and covering it over with soil.

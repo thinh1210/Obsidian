@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Overseas
 *adverb*
 > /ˌəʊ.vəˈsiːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
+
+## 🗂️ Flashcard
+Overseas::Nước ngoài *(Phát âm: /ˌəʊ.vəˈsiːz/)* ![[overseas.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She works overseas.<br>*(-> Cô ấy làm việc ở nước ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In, from, or to other countries

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Ring
 *noun*
 > /rɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Ring::Chiếc nhẫn *(Phát âm: /rɪŋ/)* ![[ring.mp3]]<br><br>👪 **Word Family:** Rings (plural)<br><br>💬 **Ví dụ:** Look at my beautiful ring.<br>*(-> Nhìn chiếc nhẫn đẹp của tôi này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circular piece of jewellery worn on the finger.

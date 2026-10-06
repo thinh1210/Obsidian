@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Inhabitant
 *Noun*
 > /ɪnˈhæbɪtənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Inhabitant::Cư dân *(Phát âm: /ɪnˈhæbɪtənt/)* ![[inhabitant.mp3]]<br><br>👪 **Word Family:** Inhabit, Habitat<br><br>💬 **Ví dụ:** The island has only 500 inhabitants.<br>*(-> Hòn đảo chỉ có 500 cư dân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or animal that lives in or occupies a place.

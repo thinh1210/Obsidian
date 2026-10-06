@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Agrarian
 *adj.*
 > /əˈɡreə.ri.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Agrarian::Thuộc về ruộng đất, nông nghiệp *(Phát âm: /əˈɡreə.ri.ən/)* ![[agrarian.mp3]]<br><br>👪 **Word Family:** agrarianism (n)<br><br>💬 **Ví dụ:** The nation evolved from an agrarian economy to a manufacturing hub.<br>*(-> Quốc gia đã phát triển từ một nền kinh tế nông nghiệp thành một trung tâm sản xuất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to cultivated land, farming, or landed property.

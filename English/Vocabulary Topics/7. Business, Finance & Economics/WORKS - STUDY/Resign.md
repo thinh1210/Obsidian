@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Resign
 *v.*
 > /rɪˈzaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Resign::Từ chức, thôi việc *(Phát âm: /rɪˈzaɪn/)* ![[resign.mp3]]<br><br>👪 **Word Family:** resignation<br><br>💬 **Ví dụ:** He resigned from his job yesterday.<br>*(-> Anh ấy đã thôi việc vào ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To officially announce that you are leaving a job or position

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Seismic
 *adjective*
 > /ˈsaɪz.mɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Seismic::Thuộc địa chấn, có sức lay chuyển mạnh mẽ *(Phát âm: /ˈsaɪz.mɪk/)* ![[seismic.mp3]]<br><br>👪 **Word Family:** seismology (n), seismologist (n), seismograph (n)<br><br>💬 **Ví dụ:** The research station detected increased seismic activity in the region.<br>*(-> Trạm nghiên cứu đã phát hiện hoạt động địa chấn gia tăng trong khu vực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to earthquakes or other vibrations of the earth and its crust.

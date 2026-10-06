@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Light
 *adj*
 > /laɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Light::Nhạt, sáng màu *(Phát âm: /laɪt/)* ![[light.mp3]]<br><br>👪 **Word Family:** lightness (n), lighten (v)<br><br>💬 **Ví dụ:** I prefer light blue to dark blue.<br>*(-> Tôi thích màu xanh nhạt hơn xanh đậm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pale, having a lot of light.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Transient
 *adjective*
 > /ˈtræn.zi.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Transient::Thoáng qua *(Phát âm: /ˈtræn.zi.ənt/)* ![[transient.mp3]]<br><br>👪 **Word Family:** Transience<br><br>💬 **Ví dụ:** Backpackers are a transient group.<br>*(-> Những người du lịch ba lô là một nhóm thoáng qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for only a short time

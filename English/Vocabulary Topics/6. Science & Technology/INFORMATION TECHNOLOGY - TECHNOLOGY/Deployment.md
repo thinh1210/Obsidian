@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Deployment
 *n.*
 > /dɪˈplɔɪmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Deployment::Sự triển khai *(Phát âm: /dɪˈplɔɪmənt/)* ![[deployment.mp3]]<br><br>👪 **Word Family:** Deploy (v.)<br><br>💬 **Ví dụ:** The deployment of the new wifi system took three days.<br>*(-> Việc triển khai hệ thống wifi mới mất ba ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of bringing resources into effective action; installing or rolling out software/hardware.

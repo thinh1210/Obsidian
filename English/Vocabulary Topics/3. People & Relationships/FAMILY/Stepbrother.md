@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Stepbrother
 *noun*
 > /ˈstepˌbrʌð.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Stepbrother::Anh/em trai kế (con riêng của bố dượng/mẹ kế) *(Phát âm: /ˈstepˌbrʌð.ər/)* ![[stepbrother.mp3]]<br><br>👪 **Word Family:** stepsibling (n)<br><br>💬 **Ví dụ:** My stepbrother is nice.<br>*(-> Anh trai kế của tôi rất tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The son of your stepmother or stepfather.

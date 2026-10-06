@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Wellness
 *n.*
 > /ˈwɛlnəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Wellness::Sức khỏe tốt (thể chất lẫn tinh thần) *(Phát âm: /ˈwɛlnəs/)* ![[wellness.mp3]]<br><br>👪 **Word Family:** well (adj.)<br><br>💬 **Ví dụ:** Yoga promotes wellness.<br>*(-> Yoga thúc đẩy sức khỏe tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being in good health, especially as an actively pursued goal.

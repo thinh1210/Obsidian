@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Home
 *noun*
 > /hoʊm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Home::Tổ ấm, nhà *(Phát âm: /hoʊm/)* ![[home.mp3]]<br><br>👪 **Word Family:** homeless (adj)<br><br>💬 **Ví dụ:** I am going home.<br>*(-> Tôi đang về nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where one lives permanently.
@@ -34,4 +44,4 @@
 - homeless (adj)
 
 **Synonyms:** house, residence
-**Antonyms:** 
+**Antonyms:**

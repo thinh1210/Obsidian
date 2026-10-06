@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Scavenger
 *noun*
 > /ˈskæv.ɪn.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Scavenger::Động vật ăn xác thối *(Phát âm: /ˈskæv.ɪn.dʒər/)* ![[scavenger.mp3]]<br><br>👪 **Word Family:** scavenger (n), scavenge (v)<br><br>💬 **Ví dụ:** Vultures are scavengers that clean up the environment by eating dead animals.<br>*(-> Kền kền là loài ăn xác thối giúp làm sạch môi trường bằng cách ăn xác động vật chết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that feeds on carrion, dead plant material, or refuse.

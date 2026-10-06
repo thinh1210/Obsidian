@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Hardware
 *n.*
 > /ˈhɑːd.weər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Hardware::Các linh kiện, thiết bị vật lý cấu thành nên hệ thống máy tính *(Phát âm: /ˈhɑːd.weər/)* ![[hardware.mp3]]<br><br>👪 **Word Family:** hardware store (n)<br><br>💬 **Ví dụ:** If your computer feels sluggish, a memory hardware upgrade might help.<br>*(-> Nếu máy tính của bạn chạy chậm chạp, việc nâng cấp phần cứng bộ nhớ có thể sẽ giúp ích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The physical parts of a computer system and its related electronic devices.

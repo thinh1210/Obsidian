@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Predecessor
 *n.*
 > /ˈpriː.dɪˌses.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Predecessor::Người tiền nhiệm *(Phát âm: /ˈpriː.dɪˌses.ər/)* ![[predecessor.mp3]]<br><br>👪 **Word Family:** Precede<br><br>💬 **Ví dụ:** She learned from her predecessor.<br>*(-> Cô học hỏi từ người tiền nhiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who held a job or office before the current holder.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Epitome
 *noun*
 > /ɪˈpɪt.ə.mi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Epitome::Hiện thân hoàn hảo, tấm gương tiêu biểu *(Phát âm: /ɪˈpɪt.ə.mi/)* ![[epitome.mp3]]<br><br>👪 **Word Family:** epitomize (v)<br><br>💬 **Ví dụ:** She is the epitome of professionalism in the office.<br>*(-> Cô ấy là hiện thân hoàn hảo của sự chuyên nghiệp trong văn phòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing that is a perfect example of a particular quality or type.

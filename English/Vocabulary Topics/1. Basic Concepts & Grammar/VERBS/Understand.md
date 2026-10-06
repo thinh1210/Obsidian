@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Understand
 *v.*
 > /ˌʌn.dəˈstænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Understand::Hiểu ý nghĩa, nắm bắt kiến thức; thấu hiểu và cảm thông cho hoàn cảnh người khác *(Phát âm: /ˌʌn.dəˈstænd/)* ![[understand.mp3]]<br><br>👪 **Word Family:** understanding (n/adj), understandable (adj), understandably (adv)<br><br>💬 **Ví dụ:** I didn't fully understand the technical manual until my friend explained it step by step.<br>*(-> Tôi đã không hiểu trọn vẹn cuốn sách hướng dẫn kỹ thuật cho đến khi bạn tôi giải thích từng bước một.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To know the meaning of something that someone says, writes, or does; to perceive significance.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Evidence
 *noun*
 > /ˈev.ɪ.dəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Evidence::Bằng chứng / chứng cứ *(Phát âm: /ˈev.ɪ.dəns/)* ![[evidence.mp3]]<br><br>👪 **Word Family:** evident (adj), evidently (adv), evidential (adj)<br><br>💬 **Ví dụ:** There is no evidence that he was at the scene.<br>*(-> Không có bằng chứng nào cho thấy anh ta có mặt tại hiện trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Facts, objects, or information that prove something is true or false.

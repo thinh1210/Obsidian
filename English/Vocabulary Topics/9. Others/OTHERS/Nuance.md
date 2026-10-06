@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Nuance
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - subtlety, shade, distinction
+
+
+## 🗂️ Flashcard
+Nuance::Sắc thái tinh tế, khác biệt nhỏ nhặt *(Phát âm: /ˈnjuː.ɑːns/)* ![[nuance.mp3]]<br><br>👪 **Word Family:** [Noun]: nuance, [Verb]: nuance, [Adj]: nuanced<br><br>💬 **Ví dụ:** The actor captured every nuance of the character's emotion.<br>*(-> Diễn viên đã bắt trọn mọi sắc thái cảm xúc tinh tế của nhân vật.)*

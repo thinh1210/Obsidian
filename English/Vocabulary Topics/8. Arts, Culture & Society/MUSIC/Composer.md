@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Composer
 *n.*
 > /kəˈpəʊ.zər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Composer::Nhà soạn nhạc *(Phát âm: /kəˈpəʊ.zər/)* ![[composer.mp3]]<br><br>👪 **Word Family:** compose (v), composition (n)<br><br>💬 **Ví dụ:** Beethoven is one of the most famous classical composers in history.<br>*(-> Beethoven là một trong những nhà soạn nhạc cổ điển nổi tiếng nhất trong lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who writes music, especially classical music.

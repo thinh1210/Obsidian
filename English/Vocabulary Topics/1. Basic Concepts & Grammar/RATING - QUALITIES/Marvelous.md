@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Marvelous
 *adj*
 > /ˈmɑː.vəl.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Marvelous::Kỳ diệu, tuyệt vời *(Phát âm: /ˈmɑː.vəl.əs/)* ![[marvelous.mp3]]<br><br>👪 **Word Family:** Marvel (verb/noun)<br><br>💬 **Ví dụ:** We had a marvelous time.<br>*(-> Chúng tôi đã có một khoảng thời gian tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing great wonder; extraordinary.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Shoes
 *n.*
 > /ʃuːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Shoes::Giày *(Phát âm: /ʃuːz/)* ![[shoes.mp3]]<br><br>👪 **Word Family:** Shoeless (adj), Shoemaker (n)<br><br>💬 **Ví dụ:** Take off your shoes before entering.<br>*(-> Cởi giày trước khi vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coverings for the feet.

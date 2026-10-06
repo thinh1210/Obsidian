@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Conscious
 *adj.*
 > /ˈkɒn.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Conscious::Tỉnh táo, có ý thức, nhận thức được *(Phát âm: /ˈkɒn.ʃəs/)* ![[conscious.mp3]]<br><br>👪 **Word Family:** consciousness, consciously<br><br>💬 **Ví dụ:** He became conscious of someone watching him.<br>*(-> Anh ấy nhận thức được việc có ai đó đang theo dõi mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Aware of and responding to one's surroundings; awake.

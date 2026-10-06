@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Review
 *n.*
 > /rɪˈvjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Review::Bài đánh giá, bài phê bình *(Phát âm: /rɪˈvjuː/)* ![[review.mp3]]<br><br>👪 **Word Family:** reviewer, reviewable<br><br>💬 **Ví dụ:** I always read reviews before buying a video game.<br>*(-> Tôi luôn đọc các bài đánh giá trước khi mua trò chơi điện tử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A critical appraisal of a book, play, movie, exhibition, etc., published in a newspaper or magazine.

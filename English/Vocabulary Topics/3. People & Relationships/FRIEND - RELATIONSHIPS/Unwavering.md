@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Unwavering
 *adj*
 > /ʌnˈweɪ.vɚ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Unwavering::Kiên định, không lay chuyển *(Phát âm: /ʌnˈweɪ.vɚ.ɪŋ/)* ![[unwavering.mp3]]<br><br>👪 **Word Family:** waver<br><br>💬 **Ví dụ:** She has my unwavering support.<br>*(-> Cô ấy có sự ủng hộ kiên định của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Steady or resolute; not moving or yielding.

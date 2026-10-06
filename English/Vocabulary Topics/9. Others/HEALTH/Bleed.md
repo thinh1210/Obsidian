@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Bleed
 *v.*
 > /bliːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Bleed::Chảy máu do vết thương hoặc tổn thương bên trong *(Phát âm: /bliːd/)* ![[bleed.mp3]]<br><br>👪 **Word Family:** bleeding (n), blood (n), bloody (adj)<br><br>💬 **Ví dụ:** Apply firm pressure with a clean cloth if your finger begins to bleed.<br>*(-> Hãy ấn chặt bằng một miếng vải sạch nếu ngón tay của bạn bắt đầu chảy máu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To lose blood from the body as a result of an injury or illness.

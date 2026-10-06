@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Leave
 *n.*
 > /liːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Leave::Sự xin phép nghỉ, ngày nghỉ phép *(Phát âm: /liːv/)* ![[leave.mp3]]<br><br>👪 **Word Family:** leave (v)<br><br>💬 **Ví dụ:** She is currently on maternity leave.<br>*(-> Cô ấy hiện đang nghỉ thai sản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Time allowed away from work for personal reasons or holiday

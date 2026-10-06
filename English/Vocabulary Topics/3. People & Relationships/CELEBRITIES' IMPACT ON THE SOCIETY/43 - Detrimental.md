@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Detrimental
 *adj.*
 > /ˌdet.rɪˈmen.təl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Hệ lụy tiêu cực & Sự tác động sâu sắc
+
+## 🗂️ Flashcard
+43 - Detrimental::Có hại *(Phát âm: /ˌdet.rɪˈmen.təl/)* ![[detrimental.mp3]]<br><br>👪 **Word Family:** Detriment (n.)<br><br>💬 **Ví dụ:** Detrimental to health.<br>*(-> Có hại cho sức khỏe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to cause harm.

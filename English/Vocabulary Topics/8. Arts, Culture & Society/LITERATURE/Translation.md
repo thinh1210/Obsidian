@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Translation
 *noun*
 > /trænzˈleɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Dịch thuật văn học & Bản quyền tác phẩm
+
+## 🗂️ Flashcard
+Translation::Bản dịch, công tác dịch thuật *(Phát âm: /trænzˈleɪ.ʃən/)* ![[translation.mp3]]<br><br>👪 **Word Family:** translate (v), translator (n)<br><br>💬 **Ví dụ:** The English translation of the novel is very accurate.<br>*(-> Bản dịch tiếng Anh của cuốn tiểu thuyết rất chính xác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written or spoken rendering of the meaning of a word or text in another language.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Iron
 *noun*
 > /aɪən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Iron::Sắt *(Phát âm: /aɪən/)* ![[iron.mp3]]<br><br>👪 **Word Family:** ironware (n)<br><br>💬 **Ví dụ:** Steel is made by mixing iron with carbon.<br>*(-> Thép được làm bằng cách trộn sắt với carbon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong, hard magnetic silvery-gray metal (Fe) much used as a structural material.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Ubiquitous
 *adj.*
 > /juːˈbɪk.wɪ.təs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+39 - Ubiquitous::Có mặt ở khắp mọi nơi *(Phát âm: /juːˈbɪk.wɪ.təs/)* ![[ubiquitous.mp3]]<br><br>👪 **Word Family:** Ubiquity (n.)<br><br>💬 **Ví dụ:** Ubiquitous media.<br>*(-> Truyền thông khắp nơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Present, appearing, or found everywhere.

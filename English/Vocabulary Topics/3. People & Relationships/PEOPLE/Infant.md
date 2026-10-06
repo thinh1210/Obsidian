@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Infant
 *n.*
 > /ˈɪn.fənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Infant::Trẻ sơ sinh hoặc trẻ còn ẵm ngửa *(Phát âm: /ˈɪn.fənt/)* ![[infant.mp3]]<br><br>👪 **Word Family:** infancy (n), infantile (adj)<br><br>💬 **Ví dụ:** The mother cradled the sleeping infant gently against her chest.<br>*(-> Người mẹ nhẹ nhàng ôm ấp đứa trẻ sơ sinh đang ngủ say vào lòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A baby or very young child.

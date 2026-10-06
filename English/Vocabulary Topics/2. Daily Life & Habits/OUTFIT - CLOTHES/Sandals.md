@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Sandals
 *n.*
 > /ˈsæn.dəlz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Sandals::Dép có quai hậu, xăng-đan thoáng mát *(Phát âm: /ˈsæn.dəlz/)* ![[sandals.mp3]]<br><br>👪 **Word Family:** sandaled (adj)<br><br>💬 **Ví dụ:** She bought a comfortable pair of leather sandals for her summer beach holiday.<br>*(-> Cô ấy đã mua một đôi xăng-đan da êm ái cho kỳ nghỉ hè bên bờ biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Light shoes held on the foot by straps of leather, plastic, etc., leaving the toes uncovered.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Train
 *Noun*
 > /treɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
+
+## 🗂️ Flashcard
+Train::Tàu hỏa *(Phát âm: /treɪn/)* ![[train.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The train leaves at 8 PM.<br>*(-> Tàu rời đi lúc 8 giờ tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A railway engine connected to carriages for carrying people or to wheeled containers for carrying goods.

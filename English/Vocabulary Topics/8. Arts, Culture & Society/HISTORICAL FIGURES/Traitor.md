@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Traitor
 *n.*
 > /ˈtreɪtə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Traitor::Kẻ phản bội *(Phát âm: /ˈtreɪtə(r)/)* ![[traitor.mp3]]<br><br>👪 **Word Family:** treason, treasonous, betray<br><br>💬 **Ví dụ:** He was regarded as a traitor to the cause.<br>*(-> Anh ta bị coi là kẻ phản bội lại sự nghiệp chung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who betrays a friend, country, or principle

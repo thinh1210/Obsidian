@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Leisure
 *Noun*
 > /ˈliʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Leisure::Thời gian rảnh/Giải trí *(Phát âm: /ˈliʒər/)* ![[leisure.mp3]]<br><br>👪 **Word Family:** leisurely (adj)<br><br>💬 **Ví dụ:** I read books at my leisure.<br>*(-> Tôi đọc sách vào thời gian rảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Time when one is not working or occupied; free time.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Grandson
 *n.*
 > /ˈɡræn.sʌn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Grandson::Cháu trai (con trai của con mình) *(Phát âm: /ˈɡræn.sʌn/)* ![[grandson.mp3]]<br><br>👪 **Word Family:** granddaughter (n), grandchild (n)<br><br>💬 **Ví dụ:** Grandma made delicious banana pancakes specifically for her grandson.<br>*(-> Bà làm món bánh kếp chuối thơm ngon dành riêng cho cháu trai của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The son of one's son or daughter.

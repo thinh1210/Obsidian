@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Audit
 *verb*
 > /ˈɔːdɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Audit::kiểm toán, sự kiểm toán *(Phát âm: /ˈɔːdɪt/)* ![[audit.mp3]]<br><br>👪 **Word Family:** auditor (noun), audited (adjective)<br><br>💬 **Ví dụ:** The school accounts undergo a voluntary audit every summer.<br>*(-> Các tài khoản của trường trải qua một đợt kiểm toán tự nguyện vào mỗi mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to conduct an official financial inspection of an individual's or organization's accounts.

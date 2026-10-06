@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Bake
 *v*
 > /beɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Bake::Nướng bánh *(Phát âm: /beɪk/)* ![[bake.mp3]]<br><br>👪 **Word Family:** Baker (n), Bakery (n)<br><br>💬 **Ví dụ:** I love to bake cookies.<br>*(-> Tôi thích nướng bánh quy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cook food by dry heat without direct exposure to a flame.

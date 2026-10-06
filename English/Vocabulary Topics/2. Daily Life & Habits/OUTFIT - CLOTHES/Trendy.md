@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Trendy
 *adj*
 > /ˈtren.di/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Trendy::Hợp mốt, thịnh hành *(Phát âm: /ˈtren.di/)* ![[trendy.mp3]]<br><br>👪 **Word Family:** trend (n)<br><br>💬 **Ví dụ:** He likes to go to trendy cafes.<br>*(-> Anh ấy thích đến những quán cà phê hợp mốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very fashionable or up to date.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Nephew
 *noun*
 > /ˈnef.juː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Nephew::Cháu trai (con của anh/chị/em) *(Phát âm: /ˈnef.juː/)* ![[nephew.mp3]]<br><br>👪 **Word Family:** nephews (pl)<br><br>💬 **Ví dụ:** My nephew is five.<br>*(-> Cháu trai tôi 5 tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A son of your sister or brother.

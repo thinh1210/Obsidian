@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Consider
 *Verb*
 > /kənˈsɪd.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Consider::Cân nhắc, xem xét *(Phát âm: /kənˈsɪd.ər/)* ![[consider.mp3]]<br><br>👪 **Word Family:** Consideration (n), Considerable (adj)<br><br>💬 **Ví dụ:** I will consider it.<br>*(-> Tôi sẽ xem xét nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend time thinking about a possibility.

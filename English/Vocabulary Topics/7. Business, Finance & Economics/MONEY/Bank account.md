@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Bank account
 *n.*
 > /ˈbæŋk əˌkaʊnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Bank account::Tài khoản ngân hàng dùng để gửi tiền, rút tiền và thực hiện chuyển khoản *(Phát âm: /ˈbæŋk əˌkaʊnt/)* ![[bank_account.mp3]]<br><br>👪 **Word Family:** account (n), accountant (n)<br><br>💬 **Ví dụ:** When I started my first job, HR asked for my bank account details for direct salary deposits.<br>*(-> Khi tôi bắt đầu công việc đầu tiên, phòng nhân sự đã xin thông tin tài khoản ngân hàng để chuyển lương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement made with a bank whereby one may deposit and withdraw money and in some cases be paid interest.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Fever
 *n*
 > /ˈfiːvər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Fever::Sốt *(Phát âm: /ˈfiːvər/)* ![[fever.mp3]]<br><br>👪 **Word Family:** feverish (adj)<br><br>💬 **Ví dụ:** The baby has a high fever, so we should call the doctor.<br>*(-> Đứa trẻ bị sốt cao, vì vậy chúng ta nên gọi bác sĩ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A medical condition in which a person's body temperature is higher than normal.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # component
 *noun*
 > /kəmˈpəʊ.nənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
+
+## 🗂️ Flashcard
+Component::linh kiện, thành phần *(Phát âm: /kəmˈpəʊ.nənt/)* ![[component.mp3]]<br><br>👪 **Word Family:** Noun: component (thành phần), Verb: compose (cấu thành, sáng tác), Noun: composition (sự cấu thành)<br><br>💬 **Ví dụ:** The store sells spare components for personal computers.<br>*(-> Cửa hàng bán các linh kiện thay thế cho máy tính cá nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a part or element of a larger whole, especially a part of a machine or vehicle.

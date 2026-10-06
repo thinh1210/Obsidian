@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Message
 *noun*
 > /ˈmesɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Message::Tin nhắn *(Phát âm: /ˈmesɪdʒ/)* ![[message.mp3]]<br><br>👪 **Word Family:** message (v), messenger (n), messaging (n)<br><br>💬 **Ví dụ:** Send me a message when you get home.<br>*(-> Hãy gửi tin nhắn cho tôi khi bạn về đến nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written, oral, or visual communication sent electronically

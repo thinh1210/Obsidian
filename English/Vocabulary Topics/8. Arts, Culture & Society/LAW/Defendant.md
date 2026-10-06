@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Defendant
 *noun*
 > /dɪˈfendənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Defendant::Bị cáo; bị đơn *(Phát âm: /dɪˈfendənt/)* ![[defendant.mp3]]<br><br>👪 **Word Family:** defend (v), defense (n), defensive (adj)<br><br>💬 **Ví dụ:** The defendant sat quietly while the verdict was read.<br>*(-> Bị cáo ngồi im lặng trong khi phán quyết được đọc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person or organization that is being accused in a court of law

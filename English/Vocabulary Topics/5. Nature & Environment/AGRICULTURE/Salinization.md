@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Salinization
 *n.*
 > /ˌsæl.ɪ.naɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Salinization::Sự nhiễm mặn, muối hóa đất *(Phát âm: /ˌsæl.ɪ.naɪˈzeɪ.ʃən/)* ![[salinization.mp3]]<br><br>👪 **Word Family:** saline (adj), salinize (v)<br><br>💬 **Ví dụ:** Seawater intrusion during dry seasons accelerates soil salinization.<br>*(-> Xâm nhập mặn trong mùa khô đẩy nhanh quá trình muối hóa đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The accumulation of soluble salts in the soil, which degrades its quality.

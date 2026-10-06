@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Exacerbate
 *v*
 > /ɪɡˈzæsəbeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Exacerbate::Làm trầm trọng thêm, làm tệ hơn *(Phát âm: /ɪɡˈzæsəbeɪt/)* ![[exacerbate.mp3]]<br><br>👪 **Word Family:** exacerbation (n)<br><br>💬 **Ví dụ:** Cold weather can exacerbate joint pain in elderly patients.<br>*(-> Thời tiết lạnh có thể làm trầm trọng thêm tình trạng đau khớp ở những bệnh nhân lớn tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (a problem, bad situation, or negative feeling) worse.

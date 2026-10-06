@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Invest
 *verb.*
 > /ɪnˈvest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Invest::Đầu tư *(Phát âm: /ɪnˈvest/)* ![[invest.mp3]]<br><br>👪 **Word Family:** investment (noun), investor (noun)<br><br>💬 **Ví dụ:** Many young people choose to invest in cryptocurrency for high returns.<br>*(-> Nhiều người trẻ chọn đầu tư vào tiền điện tử để có lợi nhuận cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To put money into a project, property, or shares to make a profit.

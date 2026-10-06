@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Prior
 *adj.*
 > /ˈpraɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Prior::Trước *(Phát âm: /ˈpraɪər/)* ![[prior.mp3]]<br><br>👪 **Word Family:** priority (n.)<br><br>💬 **Ví dụ:** I have a prior engagement.<br>*(-> Tôi có một cuộc hẹn trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing or coming before in time, order, or importance

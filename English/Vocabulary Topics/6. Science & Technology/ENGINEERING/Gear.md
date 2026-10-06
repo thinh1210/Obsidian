@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Gear
 *noun*
 > /ɡɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Gear::Bánh răng, số (ô tô, xe máy), trang thiết bị *(Phát âm: /ɡɪə(r)/)* ![[gear.mp3]]<br><br>👪 **Word Family:** gearbox (n), gearing (n)<br><br>💬 **Ví dụ:** I shifted the car into first gear and slowly climbed the steep hill.<br>*(-> Tôi chuyển xe sang số một và từ từ leo lên ngọn đồi dốc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A toothed wheel that works with others as part of a mechanism to alter the relation between the speed of a driving mechanism and the speed of the driven parts.

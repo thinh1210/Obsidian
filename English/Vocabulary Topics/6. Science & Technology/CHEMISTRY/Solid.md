@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Solid
 *noun*
 > /ˈsɒl.ɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Solid::Chất rắn *(Phát âm: /ˈsɒl.ɪd/)* ![[solid.mp3]]<br><br>👪 **Word Family:** solidify (v), solidity (n)<br><br>💬 **Ví dụ:** Ice is water in its solid state.<br>*(-> Băng là nước ở trạng thái rắn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that has a fixed shape and volume, not liquid or fluid.

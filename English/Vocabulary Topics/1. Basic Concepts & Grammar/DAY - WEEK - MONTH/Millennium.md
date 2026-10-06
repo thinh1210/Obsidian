@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Millennium
 *noun*
 > /mɪˈleniəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Millennium::Thiên niên kỷ *(Phát âm: /mɪˈleniəm/)* ![[millennium.mp3]]<br><br>👪 **Word Family:** millennial (adj, n)<br><br>💬 **Ví dụ:** The year 2000 marked the new millennium.<br>*(-> Năm 2000 đánh dấu thiên niên kỷ mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of a thousand years.

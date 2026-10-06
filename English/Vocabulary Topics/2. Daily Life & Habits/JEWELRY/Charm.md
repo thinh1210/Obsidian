@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Charm
 *noun*
 > /tʃɑːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Charm::Hạt/Mặt trang trí *(Phát âm: /tʃɑːm/)* ![[charm.mp3]]<br><br>👪 **Word Family:** Charming<br><br>💬 **Ví dụ:** She added a charm.<br>*(-> Cô ấy thêm một hạt trang trí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small ornament worn on a necklace or bracelet.

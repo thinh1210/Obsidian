@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Believe
 *v.*
 > /bɪˈliːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Believe::Tin tưởng, tin vào sự thật; có niềm tin vào tôn giáo hoặc lý tưởng *(Phát âm: /bɪˈliːv/)* ![[believe.mp3]]<br><br>👪 **Word Family:** belief (n), believer (n), believable (adj), unbelievable (adj)<br><br>💬 **Ví dụ:** If you truly believe in your own abilities, you can overcome any obstacle.<br>*(-> Nếu bạn thực sự tin tưởng vào năng lực của chính mình, bạn có thể vượt qua mọi trở ngại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To feel sure that something is true, or that what someone says is true; to have faith.

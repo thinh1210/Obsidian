@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Stardom
 *n.*
 > /ˈstɑːdəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Stardom::Cương vị ngôi sao *(Phát âm: /ˈstɑːdəm/)* ![[stardom.mp3]]<br><br>👪 **Word Family:** star (n.)<br><br>💬 **Ví dụ:** Her rise to stardom was fast.<br>*(-> Sự vươn lên thành sao của cô ấy rất nhanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state or status of being a famous or exceptionally talented performer.

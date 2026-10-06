@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Empire
 *noun*
 > /ˈem.paɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Empire::Đế chế, đế quốc *(Phát âm: /ˈem.paɪər/)* ![[empire.mp3]]<br><br>👪 **Word Family:** emperor (n), imperial (adj), imperialism (n)<br><br>💬 **Ví dụ:** The Roman Empire once controlled most of Europe and North Africa.<br>*(-> Đế chế La Mã từng kiểm soát hầu hết châu Âu và Bắc Phi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extensive group of states or countries under a single supreme authority.

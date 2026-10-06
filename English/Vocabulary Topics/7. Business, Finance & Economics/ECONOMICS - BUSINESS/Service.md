@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Service
 *noun*
 > /ˈsɜːrvɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Service::dịch vụ *(Phát âm: /ˈsɜːrvɪs/)* ![[service.mp3]]<br><br>👪 **Word Family:** serve (verb), servant (noun)<br><br>💬 **Ví dụ:** The restaurant is famous for its delicious food and excellent service.<br>*(-> Nhà hàng nổi tiếng với đồ ăn ngon và dịch vụ xuất sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the action of helping or doing work for someone, or a business that provides this.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Advice
 *noun*
 > /ədˈvaɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Advice::Lời khuyên *(Phát âm: /ədˈvaɪs/)* ![[advice.mp3]]<br><br>👪 **Word Family:** advise<br><br>💬 **Ví dụ:** Can you give me some advice?<br>*(-> Bạn có thể cho tôi vài lời khuyên không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Guidance or recommendations offered with regard to prudent future action.

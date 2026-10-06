@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Semantics
 *noun*
 > /sɪˈmæn.tɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Semantics::ngữ nghĩa học *(Phát âm: /sɪˈmæn.tɪks/)* ![[semantics.mp3]]<br><br>👪 **Word Family:** semantic (adj), semantically (adv)<br><br>💬 **Ví dụ:** We are just arguing about semantics; we actually agree on the main point.<br>*(-> Chúng ta chỉ đang tranh cãi về mặt từ ngữ thôi; thực chất chúng ta đồng ý về điểm chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of meanings in a language

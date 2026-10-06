@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Commiserate
 *verb*
 > /kəˈmɪz.ə.reɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Commiserate::Thương xót, đồng cảm *(Phát âm: /kəˈmɪz.ə.reɪt/)* ![[commiserate.mp3]]<br><br>👪 **Word Family:** commiseration<br><br>💬 **Ví dụ:** We commiserated with her over the loss of her job.<br>*(-> Chúng tôi đã đồng cảm với cô ấy về việc mất việc làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Express or feel sympathy or pity; sympathize.

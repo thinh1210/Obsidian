@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Severance
 *n.*
 > /ˈsev.ər.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
+
+## 🗂️ Flashcard
+Severance::Khoản trợ cấp thôi việc, sự chấm dứt hợp đồng *(Phát âm: /ˈsev.ər.əns/)* ![[severance.mp3]]<br><br>👪 **Word Family:** sever (v)<br><br>💬 **Ví dụ:** The laid-off workers were offered three months of severance pay.<br>*(-> Các công nhân bị sa thải đã được cung cấp khoản trợ cấp thôi việc bằng ba tháng lương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The ending of an employment contract; compensation paid upon termination

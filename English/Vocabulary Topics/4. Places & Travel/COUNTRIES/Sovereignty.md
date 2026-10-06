@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Sovereignty
 *Noun*
 > /ˈsɑːvrənti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Sovereignty::Chủ quyền *(Phát âm: /ˈsɑːvrənti/)* ![[sovereignty.mp3]]<br><br>👪 **Word Family:** Sovereign<br><br>💬 **Ví dụ:** The country fought hard to maintain its sovereignty.<br>*(-> Đất nước đã chiến đấu ngoan cường để bảo vệ chủ quyền của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Supreme power or authority; the authority of a state to govern itself or another state.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Journalism
 *noun*
 > /ˈdʒɜːnəlɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Journalism::Báo chí học, ngành báo chí *(Phát âm: /ˈdʒɜːnəlɪzəm/)* ![[journalism.mp3]]<br><br>👪 **Word Family:** journalist, journalistic, journal<br><br>💬 **Ví dụ:** She decided to study journalism to write for the local newspaper.<br>*(-> Cô ấy quyết định học báo chí để viết cho tờ báo địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast.

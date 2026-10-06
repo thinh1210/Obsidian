@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Comet
 *Noun*
 > /ˈkɒm.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Comet::Sao chổi *(Phát âm: /ˈkɒm.ɪt/)* ![[comet.mp3]]<br><br>👪 **Word Family:** cometary (adj)<br><br>💬 **Ví dụ:** Halley's Comet is visible from Earth every 75-76 years.<br>*(-> Sao chổi Halley có thể nhìn thấy từ Trái Đất cứ sau mỗi 75-76 năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A celestial object consisting of ice and dust that leaves a tail of gas and dust when near the sun.

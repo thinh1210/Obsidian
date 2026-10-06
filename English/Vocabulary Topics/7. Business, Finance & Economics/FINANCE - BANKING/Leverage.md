@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Leverage
 *noun.*
 > /ˈliːvərɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
+
+## 🗂️ Flashcard
+Leverage::Đòn bẩy tài chính *(Phát âm: /ˈliːvərɪdʒ/)* ![[leverage.mp3]]<br><br>👪 **Word Family:** leverage (verb), leveraged (adj)<br><br>💬 **Ví dụ:** Using high leverage can multiply your profits, but it also increases the risk of ruin.<br>*(-> Sử dụng đòn bẩy cao có thể nhân mức lợi nhuận của bạn lên nhiều lần, nhưng nó cũng làm tăng nguy cơ sụp đổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The use of borrowed capital (debt) to increase the potential return of an investment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Foliage
 *noun*
 > /ˈfəʊliɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Foliage::Tán lá, vòm lá, tập hợp lá cây *(Phát âm: /ˈfəʊliɪdʒ/)* ![[foliage.mp3]]<br><br>👪 **Word Family:** Noun: foliage (tán lá), foliation (sự đâm lá), Adjective: foliated (có lá)<br><br>💬 **Ví dụ:** The dense foliage of the trees blocked the sunlight.<br>*(-> Tán lá rậm rạp của những hàng cây đã che khuất ánh nắng mặt trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Plant leaves collectively.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Enthusiast
 *Noun*
 > /ɪnˈθjuː.zi.æst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Enthusiast::Người đam mê, người nhiệt huyết *(Phát âm: /ɪnˈθjuː.zi.æst/)* ![[enthusiast.mp3]]<br><br>👪 **Word Family:** Enthusiastic (Adj): Nhiệt tình, Enthusiasm (n): Sự nhiệt tình, lòng say mê<br><br>💬 **Ví dụ:** He is a great sports enthusiast.<br>*(-> Anh ấy là một người cực kỳ đam mê thể thao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is very interested in and involved with a particular subject.

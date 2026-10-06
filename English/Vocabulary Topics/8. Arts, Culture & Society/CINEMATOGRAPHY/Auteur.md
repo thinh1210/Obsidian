@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Auteur
 *n.*
 > /oʊˈtɜːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
+
+## 🗂️ Flashcard
+Auteur::Đạo diễn auteur, đạo diễn mang phong cách độc đáo *(Phát âm: /oʊˈtɜːr/)* ![[auteur.mp3]]<br><br>👪 **Word Family:** auteurist, auteurism<br><br>💬 **Ví dụ:** Christopher Nolan is considered a modern Hollywood auteur.<br>*(-> Christopher Nolan được coi là một đạo diễn tác giả hiện đại của Hollywood.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A filmmaker whose personal influence and artistic control over a movie are so great that the filmmaker is regarded as the author of the movie

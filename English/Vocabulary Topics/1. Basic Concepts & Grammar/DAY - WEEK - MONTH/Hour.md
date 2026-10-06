@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Hour
 *noun*
 > /aʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Hour::Giờ, tiếng đồng hồ *(Phát âm: /aʊər/)* ![[hour.mp3]]<br><br>👪 **Word Family:** hourly (adj)<br><br>💬 **Ví dụ:** The movie lasts for two hours.<br>*(-> Bộ phim kéo dài hai giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 60 minutes.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Desolation
 *noun*
 > /ˌdes.əˈleɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Desolation::Sự tiêu điều, hoang tàn, cô độc *(Phát âm: /ˌdes.əˈleɪ.ʃən/)* ![[desolation.mp3]]<br><br>👪 **Word Family:** desolate (adj/v), desolately (adv)<br><br>💬 **Ví dụ:** The wildfire left behind a landscape of utter desolation.<br>*(-> Trận cháy rừng đã để lại một phong cảnh hoàn toàn hoang tàn tiêu điều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of complete emptiness or destruction.

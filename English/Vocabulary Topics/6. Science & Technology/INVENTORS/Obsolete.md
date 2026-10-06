@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # obsolete
 *adj.*
 > /ˈɒb.səl.iːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Tầm vóc thời đại & Chuyển giao thế hệ
+
+## 🗂️ Flashcard
+Obsolete::Lỗi thời, bị đào thải *(Phát âm: /ˈɒb.səl.iːt/)* ![[obsolete.mp3]]<br><br>👪 **Word Family:** obsolescence (n), obsoleteness (n)<br><br>💬 **Ví dụ:** CD players have become obsolete because of digital streaming.<br>*(-> Đầu đĩa CD đã trở nên lỗi thời do sự phát triển của nhạc số trực tuyến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** No longer produced or used; out of date

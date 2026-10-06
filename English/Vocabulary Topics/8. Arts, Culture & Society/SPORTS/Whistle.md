@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Whistle
 *n./v.*
 > /ˈwɪs.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Whistle::Chiếc còi của trọng tài dùng để điều khiển và thổi hiệu lệnh trận đấu *(Phát âm: /ˈwɪs.əl/)* ![[whistle.mp3]]<br><br>👪 **Word Family:** whistling (n)<br><br>💬 **Ví dụ:** Players immediately stopped running the moment they heard the referee's whistle.<br>*(-> Các cầu thủ lập tức dừng chạy ngay khoảnh khắc nghe thấy tiếng còi của trọng tài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small instrument that produces a loud, high sound when blown; used by referees to direct play.

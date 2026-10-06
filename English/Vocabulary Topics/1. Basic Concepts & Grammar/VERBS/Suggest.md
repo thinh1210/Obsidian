@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Suggest
 *Verb*
 > /səˈdʒest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Suggest::Đề xuất *(Phát âm: /səˈdʒest/)* ![[suggest.mp3]]<br><br>👪 **Word Family:** Suggestion (n), Suggestive (adj)<br><br>💬 **Ví dụ:** I suggest we go.<br>*(-> Tôi đề nghị chúng ta đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To mention an idea, possible plan, or action.

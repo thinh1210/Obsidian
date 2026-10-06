@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Climate
 *noun*
 > /ˈklaɪmət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Climate::Khí hậu *(Phát âm: /ˈklaɪmət/)* ![[climate.mp3]]<br><br>👪 **Word Family:** Climatic (adj.)<br><br>💬 **Ví dụ:** Vietnam has a tropical climate.<br>*(-> Việt Nam có khí hậu nhiệt đới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The weather conditions prevailing in an area in general or over a long period.

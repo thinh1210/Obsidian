@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # New
 *adj.*
 > /njuː/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+New::Mới *(Phát âm: /njuː/)* ![[new.mp3]]<br><br>👪 **Word Family:** newly<br><br>💬 **Ví dụ:** New car.<br>*(-> Xe mới.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Produced, introduced, or discovered recently

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Ocean
 *Noun*
 > /ˈəʊʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Ocean::Đại dương *(Phát âm: /ˈəʊʃn/)* ![[ocean.mp3]]<br><br>👪 **Word Family:** oceanic, oceanography<br><br>💬 **Ví dụ:** The ocean is home to many species of fish.<br>*(-> Đại dương là ngôi nhà của nhiều loài cá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large expanse of sea, in particular, each of the main areas of salt water.

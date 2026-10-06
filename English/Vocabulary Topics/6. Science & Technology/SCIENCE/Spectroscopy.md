@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Spectroscopy
 *noun*
 > /spekˈtrɒs.kə.pi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Spectroscopy::Quang phổ học – nhánh khoa học liên quan đến việc nghiên cứu và đo lường quang phổ được tạo ra khi vật chất tương tác với hoặc phát ra bức xạ điện từ *(Phát âm: /spekˈtrɒs.kə.pi/)* ![[spectroscopy.mp3]]<br><br>👪 **Word Family:** spectroscope (n), spectroscopic (adj), spectroscopist (n), spectrum (n), spectrometer (n)<br><br>💬 **Ví dụ:** When you see a rainbow, you are witnessing nature's own spectroscopy – sunlight split into its spectrum.<br>*(-> Khi bạn thấy cầu vồng, bạn đang chứng kiến quang phổ học của tự nhiên – ánh sáng mặt trời tách thành quang phổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with the investigation and measurement of spectra produced when matter interacts with or emits electromagnetic radiation.

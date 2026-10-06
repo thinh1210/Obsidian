@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Ally
 *n.*
 > /ˈælaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Ally::Đồng minh *(Phát âm: /ˈælaɪ/)* ![[ally.mp3]]<br><br>👪 **Word Family:** allied, alliance<br><br>💬 **Ví dụ:** The two countries became close allies during the conflict.<br>*(-> Hai nước đã trở thành đồng minh thân cận trong suốt cuộc xung đột.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state formally cooperating with another for a military or other purpose

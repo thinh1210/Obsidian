@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Teach
 *v.*
 > /tiːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Teach::Dạy dỗ, truyền đạt kiến thức và kỹ năng cho người học *(Phát âm: /tiːtʃ/)* ![[teach.mp3]]<br><br>👪 **Word Family:** teacher (n), teaching (n)<br><br>💬 **Ví dụ:** My grandfather patiently took the time to teach me how to play chess on weekends.<br>*(-> Ông nội đã kiên nhẫn dành thời gian dạy tôi chơi cờ vua vào các dịp cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give someone knowledge or to instruct them how to do something.

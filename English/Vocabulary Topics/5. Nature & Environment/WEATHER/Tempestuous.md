@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Tempestuous
 *adj.*
 > /temˈpestʃuəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Tempestuous::Đầy giông bão, hỗn loạn dữ dội *(Phát âm: /temˈpestʃuəs/)* ![[tempestuous.mp3]]<br><br>👪 **Word Family:** Tempest (noun)<br><br>💬 **Ví dụ:** The sailors struggled to keep the boat steady in tempestuous waters.<br>*(-> Những người thủy thủ chật vật giữ cho con thuyền đứng vững trong vùng nước đầy giông bão.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by strong, turbulent, or stormy weather

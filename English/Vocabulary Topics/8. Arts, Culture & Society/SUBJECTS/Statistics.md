@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Statistics
 *noun*
 > /stəˈtɪstɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Statistics::Thống kê học *(Phát âm: /stəˈtɪstɪks/)* ![[statistics.mp3]]<br><br>👪 **Word Family:** statistician, statistical, statistic<br><br>💬 **Ví dụ:** I need to take a statistics class for my degree.<br>*(-> Tôi cần học một lớp thống kê học cho bằng cấp của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or science of collecting and analyzing numerical data in large quantities.

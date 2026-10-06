@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Route
 *noun*
 > /ruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
+
+## 🗂️ Flashcard
+Route::Tuyến đường, lộ trình *(Phát âm: /ruːt/)* ![[route.mp3]]<br><br>👪 **Word Family:** Router (n.)<br><br>💬 **Ví dụ:** What is the fastest route to the beach?<br>*(-> Tuyến đường nhanh nhất đến bãi biển là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A way or course taken in getting from a starting point to a destination.

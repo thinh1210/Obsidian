@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Graduate
 *verb*
 > /ˈɡrædʒueɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Graduate::Tốt nghiệp *(Phát âm: /ˈɡrædʒueɪt/)* ![[graduate.mp3]]<br><br>👪 **Word Family:** graduation (n), graduate (n), undergraduate (n)<br><br>💬 **Ví dụ:** She will graduate from university next summer.<br>*(-> Cô ấy sẽ tốt nghiệp đại học vào mùa hè tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Successfully complete a course of study or training.

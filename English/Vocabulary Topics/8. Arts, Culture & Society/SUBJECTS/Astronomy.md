@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Astronomy
 *noun*
 > /əˈstrɒnəmi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Astronomy::Thiên văn học *(Phát âm: /əˈstrɒnəmi/)* ![[astronomy.mp3]]<br><br>👪 **Word Family:** astronomer, astronomical<br><br>💬 **Ví dụ:** Astronomy allows us to study distant galaxies.<br>*(-> Thiên văn học cho phép chúng ta nghiên cứu các thiên hà xa xôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science which deals with celestial objects, space, and the physical universe as a whole.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Lecture
 *n.*
 > /ˈlektʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Lecture::Bài giảng, buổi thuyết trình *(Phát âm: /ˈlektʃə(r)/)* ![[lecture.mp3]]<br><br>👪 **Word Family:** lecturer<br><br>💬 **Ví dụ:** I missed the morning lecture on economics.<br>*(-> Tôi đã bỏ lỡ buổi giảng kinh tế sáng nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An educational talk to an audience, especially to students in a university

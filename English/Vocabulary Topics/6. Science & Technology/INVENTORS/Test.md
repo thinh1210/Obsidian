@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # test
 *v.*
 > /test/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Test::Kiểm tra, thử nghiệm *(Phát âm: /test/)* ![[test.mp3]]<br><br>👪 **Word Family:** test (n), tester (n)<br><br>💬 **Ví dụ:** You should test the water temperature before swimming.<br>*(-> Bạn nên kiểm tra nhiệt độ nước trước khi bơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To check if something works correctly or is in good condition

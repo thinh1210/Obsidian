@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Clean
 *v., adj.*
 > /kliːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Clean::Sạch sẽ, dọn dẹp *(Phát âm: /kliːn/)* ![[clean.mp3]]<br><br>👪 **Word Family:** cleaner (n.)<br><br>💬 **Ví dụ:** Clean your room.<br>*(-> Dọn phòng của bạn đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from dirt, marks, or stains.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Rhythm
 *n.*
 > /ˈrɪð.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Rhythm::Nhịp điệu, tiết tấu *(Phát âm: /ˈrɪð.əm/)* ![[rhythm.mp3]]<br><br>👪 **Word Family:** rhythmic (adj), rhythmically (adv)<br><br>💬 **Ví dụ:** It is easy to dance when the music has a clear rhythm.<br>*(-> Rất dễ nhảy khi âm nhạc có nhịp điệu rõ ràng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong, regular, repeated pattern of movement or sound.

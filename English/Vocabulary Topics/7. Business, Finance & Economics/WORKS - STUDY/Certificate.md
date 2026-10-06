@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Certificate
 *n.*
 > /səˈtɪf.ɪ.kət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Certificate::Chứng chỉ, chứng nhận *(Phát âm: /səˈtɪf.ɪ.kət/)* ![[certificate.mp3]]<br><br>👪 **Word Family:** certify, certification<br><br>💬 **Ví dụ:** You will receive a certificate after completing the course.<br>*(-> Bạn sẽ nhận được chứng chỉ sau khi hoàn thành khóa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An official document attesting a certain fact or qualification

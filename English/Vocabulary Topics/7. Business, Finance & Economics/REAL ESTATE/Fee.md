@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Fee
 *n.*
 > /fiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Fee::Lệ phí, chi phí *(Phát âm: /fiː/)* ![[fee.mp3]]<br><br>👪 **Word Family:** fee (v)<br><br>💬 **Ví dụ:** Tenants have to pay a monthly management fee for security and cleaning.<br>*(-> Người thuê nhà phải trả phí quản lý hàng tháng cho việc bảo vệ và dọn dẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A payment made to a professional person or of a professional organization in exchange for advice or services.

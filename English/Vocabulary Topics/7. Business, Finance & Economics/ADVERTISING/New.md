@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # New
 *adjective*
 > /njuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+New::Mới *(Phát âm: /njuː/)* ![[new.mp3]]<br><br>👪 **Word Family:** newly (adverb), newness (noun)<br><br>💬 **Ví dụ:** I bought a new pair of shoes yesterday.<br>*(-> Tôi đã mua một đôi giày mới ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Recently created or having recently come into existence.

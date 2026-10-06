@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Shoelace
 *noun*
 > /ˈʃuːleɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Shoelace::Dây giày *(Phát âm: /ˈʃuːleɪs/)* ![[shoelace.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Your shoelace is untied.<br>*(-> Dây giày của bạn bị tuột kìa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thin string or strip of leather used to fasten shoes.

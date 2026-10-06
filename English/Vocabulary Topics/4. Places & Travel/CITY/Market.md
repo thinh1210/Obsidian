@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Market
 *n.*
 > /ˈmɑːrkɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Market::Chợ *(Phát âm: /ˈmɑːrkɪt/)* ![[market.mp3]]<br><br>👪 **Word Family:** marketing (n)<br><br>💬 **Ví dụ:** I buy vegetables at the market.<br>*(-> Tôi mua rau ở chợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where people buy and sell things.

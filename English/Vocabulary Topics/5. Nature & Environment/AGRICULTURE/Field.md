@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Field
 *n.*
 > /fiːld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Field::Cánh đồng, ruộng *(Phát âm: /fiːld/)* ![[field.mp3]]<br><br>👪 **Word Family:** outfield (n), infield (n)<br><br>💬 **Ví dụ:** The cows are grazing peacefully in the grassy field.<br>*(-> Đàn bò đang gặm cỏ yên bình trên cánh đồng cỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land, used for growing crops or keeping animals.

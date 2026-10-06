@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Sunset
 *n.*
 > /ˈsʌnset/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Sunset::Hoàng hôn, khoảnh khắc chiều tà khi mặt trời khuất dần sau đường chân trời phía tây *(Phát âm: /ˈsʌnset/)* ![[sunset.mp3]]<br><br>👪 **Word Family:** sunsetted (adj)<br><br>💬 **Ví dụ:** Crowds gathered quietly along the cliff path to watch the sunset paint the sky in pink and gold.<br>*(-> Đám đông lặng lẽ tập trung dọc lối mòn trên vách đá ngắm hoàng hôn nhuộm hồng và dát vàng cả bầu trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time in the evening when the sun disappears below the western horizon.

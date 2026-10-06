@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Educate
 *v.*
 > /ˈedʒukeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Educate::Giáo dục, đào tạo *(Phát âm: /ˈedʒukeɪt/)* ![[educate.mp3]]<br><br>👪 **Word Family:** education, educator, educational<br><br>💬 **Ví dụ:** Parents should educate their kids about money.<br>*(-> Cha mẹ nên giáo dục con cái về tiền bạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give intellectual, moral, and social instruction to someone

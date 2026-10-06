@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Edible
 *Adj*
 > /ˈed.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Edible::Có thể ăn được (không độc) *(Phát âm: /ˈed.ə.bəl/)* ![[edible.mp3]]<br><br>👪 **Word Family:** Inedible (Adj): Không ăn được<br><br>💬 **Ví dụ:** Only the leaves of the plant are edible.<br>*(-> Chỉ có lá của loại cây này là có thể ăn được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Safe or good enough to eat.

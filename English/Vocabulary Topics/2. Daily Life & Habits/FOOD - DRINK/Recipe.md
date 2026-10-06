@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Recipe
 *n.*
 > /ˈres.ɪ.pi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Recipe::Công thức *(Phát âm: /ˈres.ɪ.pi/)* ![[recipe.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Can I have the recipe?<br>*(-> Tôi xin công thức được không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of instructions for preparing a particular dish.

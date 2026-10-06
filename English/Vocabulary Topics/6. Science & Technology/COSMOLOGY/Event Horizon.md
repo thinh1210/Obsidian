@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Event Horizon
 *Noun*
 > /ɪˈvent həˈraɪ.zən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
+
+## 🗂️ Flashcard
+Event Horizon::Chân trời sự kiện *(Phát âm: /ɪˈvent həˈraɪ.zən/)* ![[event_horizon.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Once you pass the event horizon, there is no turning back.<br>*(-> Một khi bạn vượt qua chân trời sự kiện, không còn đường lui.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A boundary around a black hole beyond which no light or radiation can escape.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Deplatform
 *verb*
 > /ˌdiːˈplætfɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
+
+## 🗂️ Flashcard
+Deplatform::Tước quyền sử dụng nền tảng (gỡ tài khoản vĩnh viễn) *(Phát âm: /ˌdiːˈplætfɔːm/)* ![[deplatform.mp3]]<br><br>👪 **Word Family:** deplatforming (n)<br><br>💬 **Ví dụ:** The controversial speaker was deplatformed after violating the safety policies.<br>*(-> Diễn giả gây tranh cãi đã bị tước quyền sử dụng nền tảng sau khi vi phạm các chính sách an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To ban a user or group from a social media platform permanently, denying them a forum

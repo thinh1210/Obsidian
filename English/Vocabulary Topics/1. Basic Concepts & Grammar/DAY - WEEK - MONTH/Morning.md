@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Morning
 *noun*
 > /ˈmɔːnɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Morning::Buổi sáng *(Phát âm: /ˈmɔːnɪŋ/)* ![[morning.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I drink coffee every morning.<br>*(-> Tôi uống cà phê mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The early part of the day, from sunrise to noon.

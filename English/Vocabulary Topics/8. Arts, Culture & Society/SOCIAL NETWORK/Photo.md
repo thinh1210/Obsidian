@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Photo
 *noun*
 > /ˈfəʊtəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Photo::Bức ảnh *(Phát âm: /ˈfəʊtəʊ/)* ![[photo.mp3]]<br><br>👪 **Word Family:** photograph (n/v), photographer (n), photographic (adj)<br><br>💬 **Ví dụ:** I always edit my photos before putting them online.<br>*(-> Tôi luôn chỉnh sửa ảnh của mình trước khi đăng lên mạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A picture taken with a camera and uploaded to social media

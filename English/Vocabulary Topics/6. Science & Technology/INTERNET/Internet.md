@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Internet
 *noun*
 > /ˈɪn.tə.net/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Internet::Mạng internet, mạng toàn cầu *(Phát âm: /ˈɪn.tə.net/)* ![[internet.mp3]]<br><br>👪 **Word Family:** internet (n), internet-based (adj)<br><br>💬 **Ví dụ:** I use the Internet every day to check emails and watch videos.<br>*(-> Tôi dùng Internet mỗi ngày để kiểm tra email và xem video.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A global system of interconnected computer networks that allows people to share information and communicate.

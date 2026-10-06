@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Internet
 *Noun*
 > /ˈin.tə.net/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Internet::Mạng Internet *(Phát âm: /ˈin.tə.net/)* ![[internet.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I look up new words on the internet.<br>*(-> Tôi tra cứu từ mới trên internet.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The large system of connected computers around the world that allows people to share information.

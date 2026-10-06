@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Wool
 *n.*
 > /wʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Wool::Sợi len, chất liệu vải len dệt từ lông cừu ấm áp *(Phát âm: /wʊl/)* ![[wool.mp3]]<br><br>👪 **Word Family:** woolen (adj), woolly (adj)<br><br>💬 **Ví dụ:** This heavy wool coat protects me from freezing winter gusts.<br>*(-> Chiếc áo khoác len dày này bảo vệ tôi khỏi những cơn gió đông lạnh cóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The soft, thick hair that grows on the bodies of sheep and some other animals, used to make cloth.

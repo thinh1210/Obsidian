@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Construct
 *v.*
 > /kənˈstrʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Construct::Xây dựng *(Phát âm: /kənˈstrʌkt/)* ![[construct.mp3]]<br><br>👪 **Word Family:** construction, constructive<br><br>💬 **Ví dụ:** They plan to construct a new sports center here.<br>*(-> Họ có kế hoạch xây dựng một trung tâm thể thao mới ở đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To build or erect something large (such as a road, bridge, or building)

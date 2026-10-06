@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Sun
 *noun*
 > /sʌn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Sun::Mặt trời *(Phát âm: /sʌn/)* ![[sun.mp3]]<br><br>👪 **Word Family:** sunny (adj), sunless (adj)<br><br>💬 **Ví dụ:** The sun is very hot and bright today.<br>*(-> Hôm nay mặt trời rất nóng và sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The star that provides light and heat to Earth.

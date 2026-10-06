@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Overspend
 *v.*
 > /ˌəʊ.vəˈspend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Overspend::Tiêu xài quá tay, vượt quá khả năng tài chính hoặc ngân sách định sẵn *(Phát âm: /ˌəʊ.vəˈspend/)* ![[overspend.mp3]]<br><br>👪 **Word Family:** overspending (n), overspent (adj/v)<br><br>💬 **Ví dụ:** Using credit cards carelessly often leads people to overspend during major holiday seasons.<br>*(-> Sử dụng thẻ tín dụng bất cẩn thường khiến mọi người tiêu xài quá tay trong các mùa lễ hội lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend more money than you can afford or more than was planned.

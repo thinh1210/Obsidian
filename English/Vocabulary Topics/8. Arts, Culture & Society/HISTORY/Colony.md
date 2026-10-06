@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Colony
 *noun*
 > /ˈcɒl.ə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Colony::Thuộc địa *(Phát âm: /ˈcɒl.ə.ni/)* ![[colony.mp3]]<br><br>👪 **Word Family:** colonial (adj), colonist (n), colonize (v)<br><br>💬 **Ví dụ:** Vietnam was once a French colony in Southeast Asia.<br>*(-> Việt Nam từng là thuộc địa của Pháp ở Đông Nam Á.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A country or area under the full or partial political control of another country and occupied by settlers from that country.

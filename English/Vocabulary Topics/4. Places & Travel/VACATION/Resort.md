@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Resort
 *Noun*
 > /rɪˈzɔrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Resort::Khu nghỉ dưỡng *(Phát âm: /rɪˈzɔrt/)* ![[resort.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** We stayed at a luxury resort.<br>*(-> Chúng tôi ở tại một khu nghỉ dưỡng sang trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where many people go for rest, sport, or another stated purpose.

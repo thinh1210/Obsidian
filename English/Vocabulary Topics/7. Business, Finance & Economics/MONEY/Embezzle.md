@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Embezzle
 *verb*
 > /ɪmˈbez.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Embezzle::Tham ô, biển thủ *(Phát âm: /ɪmˈbez.əl/)* ![[embezzle.mp3]]<br><br>👪 **Word Family:** embezzlement (n), embezzler (n)<br><br>💬 **Ví dụ:** The accountant was caught trying to embezzle corporate funds.<br>*(-> Người kế toán đã bị bắt quả tang khi cố gắng biển thủ quỹ của công ty.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To steal money that you have been trusted with, especially from your employer

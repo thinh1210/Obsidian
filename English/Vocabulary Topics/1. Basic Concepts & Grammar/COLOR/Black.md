@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Black
 *adj, n*
 > /blæk/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Black::Màu đen *(Phát âm: /blæk/)* ![[black.mp3]]<br><br>👪 **Word Family:** blackness (n), blacken (v)<br><br>💬 **Ví dụ:** I like wearing black clothes.<br>*(-> Tôi thích mặc đồ đen.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The very darkest color, like night or coal.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Observe
 *verb*
 > /əbˈzɜːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Observe::Quan sát – nhìn/theo dõi cẩn thận để học hỏi hoặc hiểu rõ điều gì đó *(Phát âm: /əbˈzɜːv/)* ![[observe.mp3]]<br><br>👪 **Word Family:** observation (n), observer (n), observable (adj), observational (adj)<br><br>💬 **Ví dụ:** We went to the nature park to observe birds in their habitat.<br>*(-> Chúng tôi đến công viên tự nhiên để quan sát chim trong môi trường sống của chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To watch something carefully in order to learn or understand it.

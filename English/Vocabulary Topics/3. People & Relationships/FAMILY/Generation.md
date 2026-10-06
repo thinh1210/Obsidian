@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Generation
 *n.*
 > /ˌdʒen.əˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Generation::Thế hệ, đời người trong một gia đình hoặc cộng đồng *(Phát âm: /ˌdʒen.əˈreɪ.ʃən/)* ![[generation.mp3]]<br><br>👪 **Word Family:** generational (adj), generate (v)<br><br>💬 **Ví dụ:** Four generations of the family gathered in the garden for a historic anniversary photo.<br>*(-> Bốn thế hệ của gia đình đã tề tựu trong vườn để chụp bức ảnh kỷ niệm lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the people of about the same age within a society or family.

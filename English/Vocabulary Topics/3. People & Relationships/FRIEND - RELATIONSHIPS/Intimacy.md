@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Intimacy
 *n.*
 > /ˈɪn.tɪ.mə.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Intimacy::Sự thân tình, mối giao hảo sâu sắc và mức độ thấu hiểu lẫn nhau giữa những người bạn chí cốt *(Phát âm: /ˈɪn.tɪ.mə.si/)* ![[intimacy.mp3]]<br><br>👪 **Word Family:** intimate (adj), intimately (adv)<br><br>💬 **Ví dụ:** True intimacy in friendship means you can sit in total silence together without feeling awkward.<br>*(-> Sự thân tình thực sự trong tình bạn có nghĩa là bạn có thể ngồi hoàn toàn yên lặng bên nhau mà không cảm thấy ngượng ngùng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of having a very close personal relationship with somebody.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Century
 *noun*
 > /ˈsentʃəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Century::Thế kỷ *(Phát âm: /ˈsentʃəri/)* ![[century.mp3]]<br><br>👪 **Word Family:** centurial (adj)<br><br>💬 **Ví dụ:** We live in the 21st century.<br>*(-> Chúng ta sống trong thế kỷ 21.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of one hundred years.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Star
 *noun*
 > /stɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Star::Ngôi sao *(Phát âm: /stɑːr/)* ![[star.mp3]]<br><br>👪 **Word Family:** starry (adj), starless (adj)<br><br>💬 **Ví dụ:** I saw a shooting star last night and made a wish.<br>*(-> Đêm qua tôi đã nhìn thấy một ngôi sao băng và đã ước một điều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large ball of burning gas in space that shines in the sky.

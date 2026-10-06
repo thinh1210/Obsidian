@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Wallet
 *n.*
 > /ˈwɒl.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Wallet::Ví tiền cá nhân dùng để đựng tiền mặt, thẻ ngân hàng và giấy tờ *(Phát âm: /ˈwɒl.ɪt/)* ![[wallet.mp3]]<br><br>👪 **Word Family:** wallets (pl)<br><br>💬 **Ví dụ:** He reached into his back pocket to take out his leather wallet and pay for lunch.<br>*(-> Anh ấy thò tay vào túi sau lấy chiếc ví da ra để trả tiền bữa trưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pocket-sized, flat, folding holder for money, credit cards, and other small personal documents.

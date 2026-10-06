@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Advertisement
 *noun*
 > /ədˈvɜːtɪsmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
+
+## 🗂️ Flashcard
+Advertisement::Quảng cáo (dạng đầy đủ) *(Phát âm: /ədˈvɜːtɪsmənt/)* ![[advertisement.mp3]]<br><br>👪 **Word Family:** advertise (verb), advertiser (noun), ad (noun)<br><br>💬 **Ví dụ:** The advertisement on the website was very colorful.<br>*(-> Quảng cáo trên trang web rất nhiều màu sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A picture, short film, song, etc. that tries to persuade people to buy a product or service.

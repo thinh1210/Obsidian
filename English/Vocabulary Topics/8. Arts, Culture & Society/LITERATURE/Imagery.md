@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Imagery
 *noun*
 > /ˈɪm.ɪ.dʒər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Imagery::Hình tượng, ngôn từ gợi hình *(Phát âm: /ˈɪm.ɪ.dʒər.i/)* ![[imagery.mp3]]<br><br>👪 **Word Family:** image (n), imagine (v), imaginative (adj)<br><br>💬 **Ví dụ:** The author uses vivid imagery to describe the ancient forest.<br>*(-> Tác giả sử dụng ngôn từ miêu tả sống động để miêu tả khu rừng cổ xưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Visually descriptive or figurative language, especially in a literary work.

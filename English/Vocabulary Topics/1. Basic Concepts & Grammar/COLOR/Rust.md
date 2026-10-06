@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Rust
 *adj., n., v.*
 > /rʌst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Rust::Màu nâu đỏ gỉ sét; màu đất nung sẫm mang sắc thái cổ điển *(Phát âm: /rʌst/)* ![[rust.mp3]]<br><br>👪 **Word Family:** rusty (adj), rusting (n)<br><br>💬 **Ví dụ:** She bought a cozy rust-colored knit sweater that looks amazing in autumn.<br>*(-> Cô ấy đã mua một chiếc áo len dệt kim màu gỉ sắt ấm áp trông tuyệt đẹp vào mùa thu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A reddish-yellow or reddish-brown color, similar to iron oxide formed by water and air.

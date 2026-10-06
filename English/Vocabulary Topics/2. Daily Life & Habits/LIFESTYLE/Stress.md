@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Stress
 *n., v.*
 > /strɛs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Stress::Sự căng thẳng *(Phát âm: /strɛs/)* ![[stress.mp3]]<br><br>👪 **Word Family:** stressful (adj.)<br><br>💬 **Ví dụ:** I am under a lot of stress.<br>*(-> Tôi đang chịu rất nhiều căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** State of mental or emotional strain or tension.

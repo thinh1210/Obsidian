@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Genre
 *n.*
 > /ˈʒɒ̃.rə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Genre::Thể loại *(Phát âm: /ˈʒɒ̃.rə/)* ![[genre.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Jazz is my favorite musical genre because of its freedom.<br>*(-> Jazz là thể loại âm nhạc yêu thích của tôi vì sự tự do của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A style or category of art, music, or literature.

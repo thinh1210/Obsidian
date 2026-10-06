@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Diagnose
 *v*
 > /ˌdaɪəɡˈnəʊz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Diagnose::Chẩn đoán *(Phát âm: /ˌdaɪəɡˈnəʊz/)* ![[diagnose.mp3]]<br><br>👪 **Word Family:** diagnosis (n), diagnostic (adj)<br><br>💬 **Ví dụ:** The specialist was able to diagnose the condition quickly.<br>*(-> Vị chuyên gia đã có thể chẩn đoán tình trạng bệnh một cách nhanh chóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Identify the nature of an illness or other problem by examination of the symptoms.

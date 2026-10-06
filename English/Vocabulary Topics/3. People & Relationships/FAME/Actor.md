@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Actor
 *n.*
 > /ˈæktər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Actor::Diễn viên *(Phát âm: /ˈæktər/)* ![[actor.mp3]]<br><br>👪 **Word Family:** actress (n.)<br><br>💬 **Ví dụ:** He is a great actor.<br>*(-> Anh ấy là một diễn viên tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person whose profession is acting.

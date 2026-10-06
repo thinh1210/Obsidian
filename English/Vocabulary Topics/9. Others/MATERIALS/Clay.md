@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Clay
 *noun.*
 > /kleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Clay::Đất sét *(Phát âm: /kleɪ/)* ![[clay.mp3]]<br><br>👪 **Word Family:** clayey (Adjective)<br><br>💬 **Ví dụ:** The children had fun playing with colorful modeling clay.<br>*(-> Lũ trẻ đã có khoảng thời gian vui vẻ khi chơi với đất sét tạo hình đầy màu sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stiff, sticky fine-grained earth, often forming an impermeable layer in the soil, which can be molded when wet and baked to make pottery.

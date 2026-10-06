@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Citizen
 *Noun*
 > /ˈsɪtɪzn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Citizen::Công dân *(Phát âm: /ˈsɪtɪzn/)* ![[citizen.mp3]]<br><br>👪 **Word Family:** Citizenship<br><br>💬 **Ví dụ:** He is a US citizen.<br>*(-> Anh ấy là công dân Mỹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legally recognized subject or national of a state or commonwealth.

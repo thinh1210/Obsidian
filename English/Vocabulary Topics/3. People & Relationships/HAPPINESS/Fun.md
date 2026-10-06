@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Fun
 *n./adj.*
 > /fʌn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Fun::Niềm vui, thú vị *(Phát âm: /fʌn/)* ![[fun.mp3]]<br><br>👪 **Word Family:** Funny (adj)<br><br>💬 **Ví dụ:** We had a lot of fun.<br>*(-> Chúng tôi đã rất vui.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Enjoyment, amusement, or lighthearted pleasure.

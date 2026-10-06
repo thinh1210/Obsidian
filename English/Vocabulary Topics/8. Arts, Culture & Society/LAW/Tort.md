@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Tort
 *noun*
 > /tɔːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Tort::Sai phạm dân sự; hành vi gây tổn hại *(Phát âm: /tɔːrt/)* ![[tort.mp3]]<br><br>👪 **Word Family:** tortious (adj), tortfeasor (n), tort law (n)<br><br>💬 **Ví dụ:** Negligence is the most common basis for a tort claim.<br>*(-> Sự sơ suất là cơ sở phổ biến nhất cho một yêu cầu bồi thường dân sự.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A wrongful act or infringement of a right leading to civil legal liability

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Refurbish
 *verb*
 > /riˈfɜːrbɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Refurbish::Tân trang lại *(Phát âm: /riˈfɜːrbɪʃ/)* ![[refurbish.mp3]]<br><br>👪 **Word Family:** refurbishment (n)<br><br>💬 **Ví dụ:** We plan to refurbish the kitchen.<br>*(-> Chúng tôi dự định tân trang lại nhà bếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Renovate and redecorate (something, especially a building).

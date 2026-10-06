@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Target
 *verb*
 > /ˈtɑːɡɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Target::Nhắm mục tiêu *(Phát âm: /ˈtɑːɡɪt/)* ![[target.mp3]]<br><br>👪 **Word Family:** target (noun)<br><br>💬 **Ví dụ:** The movie targets teenagers who love science fiction.<br>*(-> Bộ phim nhắm mục tiêu vào thanh thiếu niên yêu thích khoa học viễn tưởng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To aim something, especially an advertising campaign, at a particular audience.

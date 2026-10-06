@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Cost
 *noun*
 > /kɔːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Cost::chi phí, giá tiền *(Phát âm: /kɔːst/)* ![[cost.mp3]]<br><br>👪 **Word Family:** costly (adjective)<br><br>💬 **Ví dụ:** The cost of living in big cities has gone up dramatically.<br>*(-> Chi phí sinh hoạt ở các thành phố lớn đã tăng mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the amount of money needed to buy, do, or make something.

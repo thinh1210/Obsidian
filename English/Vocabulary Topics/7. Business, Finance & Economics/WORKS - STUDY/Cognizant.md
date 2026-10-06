@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Cognizant
 *adj.*
 > /ˈkɒɡ.nɪ.zənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Cognizant::Nhận thức được, hiểu rõ *(Phát âm: /ˈkɒɡ.nɪ.zənt/)* ![[cognizant.mp3]]<br><br>👪 **Word Family:** cognition, cognizable<br><br>💬 **Ví dụ:** We must be cognizant of the potential risks.<br>*(-> Chúng ta phải nhận thức được các rủi ro tiềm ẩn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having knowledge or being aware of something

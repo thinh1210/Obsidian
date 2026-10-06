@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Tissue
 *noun*
 > /ˈtɪʃ.uː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Tissue::Mô (sinh học) *(Phát âm: /ˈtɪʃ.uː/)* ![[tissue.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The doctor took a sample of tissue for testing.<br>*(-> Bác sĩ lấy một mẫu mô để xét nghiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products.

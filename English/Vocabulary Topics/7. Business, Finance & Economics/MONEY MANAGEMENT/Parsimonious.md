@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Parsimonious
 *Adjective*
 > /ˌpɑːsɪˈməʊniəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
+
+## 🗂️ Flashcard
+Parsimonious::Keo kiệt, bủn xỉn, cực kỳ hà tiện (rất không sẵn lòng chi tiền) *(Phát âm: /ˌpɑːsɪˈməʊniəs/)* ![[parsimonious.mp3]]<br><br>👪 **Word Family:** Noun: parsimony (tính bủn xỉn)<br><br>💬 **Ví dụ:** She was so parsimonious that she refused to turn on the heating even in mid-winter.<br>*(-> Cô ấy keo kiệt đến nỗi từ chối bật sưởi ngay cả giữa mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very unwilling to spend money or use resources.

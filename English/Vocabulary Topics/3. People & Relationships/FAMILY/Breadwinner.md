@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Breadwinner
 *Noun*
 > /ˈbredˌwɪn.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Breadwinner::Trụ cột gia đình (người kiếm tiền chính) *(Phát âm: /ˈbredˌwɪn.ər/)* ![[breadwinner.mp3]]<br><br>👪 **Word Family:** Breadwinning (Adj): Thuộc về kiếm tiền<br><br>💬 **Ví dụ:** My dad has always been the main breadwinner.<br>*(-> Bố tôi luôn là trụ cột chính trong nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The member of a family who earns the money that the family needs.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Interview
 *n.*
 > /ˈɪntəvjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Interview::Cuộc phỏng vấn *(Phát âm: /ˈɪntəvjuː/)* ![[interview.mp3]]<br><br>👪 **Word Family:** interviewer (n.)<br><br>💬 **Ví dụ:** I read an interview with her.<br>*(-> Tôi đã đọc một cuộc phỏng vấn với cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A conversation where questions are asked and answered.

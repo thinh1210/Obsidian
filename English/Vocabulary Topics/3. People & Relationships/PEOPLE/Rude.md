@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Rude
 *adj.*
 > /ruːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Rude::Thô lỗ, bất lịch sự, gây xúc phạm hoặc khó chịu cho người khác *(Phát âm: /ruːd/)* ![[rude.mp3]]<br><br>👪 **Word Family:** rudely (adv), rudeness (n)<br><br>💬 **Ví dụ:** It is considered extremely rude to check your smartphone constantly during a conversation.<br>*(-> Việc liên tục bấm điện thoại trong khi trò chuyện bị coi là vô cùng bất lịch sự.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not polite; offensive or embarrassing.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Real
 *adj.*
 > /rɪəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Real::Có thật, thực tế, thực tại *(Phát âm: /rɪəl/)* ![[real.mp3]]<br><br>👪 **Word Family:** reality, realize, realistic<br><br>💬 **Ví dụ:** Is that diamond real or fake?<br>*(-> Viên kim cương đó là thật hay giả?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Actually existing as a thing or occurring in fact; not imagined.

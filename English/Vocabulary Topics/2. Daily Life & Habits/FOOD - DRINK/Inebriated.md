@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Inebriated
 *adj.*
 > /ɪˈniː.bri.eɪ.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Inebriated::Say xỉn *(Phát âm: /ɪˈniː.bri.eɪ.tɪd/)* ![[inebriated.mp3]]<br><br>👪 **Word Family:** inebriation, inebriate (v./n.)<br><br>💬 **Ví dụ:** He was visibly inebriated.<br>*(-> Anh ta trông rõ là đã say xỉn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Drunk, intoxicated.

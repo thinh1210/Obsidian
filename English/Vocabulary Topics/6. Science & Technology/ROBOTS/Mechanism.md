@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Mechanism
 *noun.*
 > /ˈmek.ə.nɪz.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Mechanism::Cơ chế, cơ cấu máy *(Phát âm: /ˈmek.ə.nɪz.əm/)* ![[mechanism.mp3]]<br><br>👪 **Word Family:** mechanistic (adj), mechanize (verb)<br><br>💬 **Ví dụ:** The robot's steering mechanism is broken.<br>*(-> Cơ cấu bẻ lái của robot đã bị hỏng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of a machine or a set of parts that does a particular job

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Solvency
 *n.*
 > /ˈsɒlvənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Solvency::Khả năng thanh toán nợ dài hạn *(Phát âm: /ˈsɒlvənsi/)* ![[solvency.mp3]]<br><br>👪 **Word Family:** solvent, insolvable, insolvency<br><br>💬 **Ví dụ:** The family managed to maintain financial solvency during the crisis.<br>*(-> Gia đình đã cố gắng duy trì khả năng thanh toán tài chính trong suốt cuộc khủng hoảng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of a company to meet its long-term financial obligations and debts

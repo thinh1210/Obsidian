@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Sandbox
 *n.*
 > /ˈsænd.bɒks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Sandbox::Hố cát, bãi cát đồ chơi cho trẻ xây lâu đài và xúc cát vui đùa *(Phát âm: /ˈsænd.bɒks/)* ![[sandbox.mp3]]<br><br>👪 **Word Family:** sandpit (n)<br><br>💬 **Ví dụ:** The toddlers spent hours building elaborate sandcastles and moats in the backyard sandbox.<br>*(-> Lũ trẻ chập chững dành hàng giờ xây lâu đài cát công phu và hào nước trong hố cát sau nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shallow container or area filled with sand for children to play in.

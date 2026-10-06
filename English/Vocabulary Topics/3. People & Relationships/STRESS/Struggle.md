@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Struggle
 *v.*
 > /ˈstrʌɡl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Struggle::Vật lộn, đấu tranh *(Phát âm: /ˈstrʌɡl/)* ![[struggle.mp3]]<br><br>👪 **Word Family:** struggle (n)<br><br>💬 **Ví dụ:** I struggle with math.<br>*(-> Tôi chật vật với môn toán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To try very hard to do something when it is difficult

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # System
 *noun.*
 > /ˈsɪs.təm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+System::Hệ thống *(Phát âm: /ˈsɪs.təm/)* ![[system.mp3]]<br><br>👪 **Word Family:** systematic (adj), systematically (adv)<br><br>💬 **Ví dụ:** The cooling system of the machine needs maintenance.<br>*(-> Hệ thống làm mát của máy cần được bảo trì.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of connected things or devices that operate together

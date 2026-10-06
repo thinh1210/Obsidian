@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Flat
 *adj.*
 > /flæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Flat::Phẳng *(Phát âm: /flæt/)* ![[flat.mp3]]<br><br>👪 **Word Family:** Flatness (n)<br><br>💬 **Ví dụ:** The paper is flat.<br>*(-> Tờ giấy thì phẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a level surface; without raised areas or indentations.

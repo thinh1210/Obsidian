@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Dispose
 *v.*
 > /dɪˈspəʊz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Dispose::Thải ra, vứt bỏ, xử lý (rác thải) *(Phát âm: /dɪˈspəʊz/)* ![[dispose.mp3]]<br><br>👪 **Word Family:** disposal (n), disposable (adj)<br><br>💬 **Ví dụ:** Please dispose of your trash in the bins provided.<br>*(-> Vui lòng vứt rác của bạn vào các thùng rác được cung cấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Get rid of by throwing away or giving or selling to someone else.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Green
 *adj.*
 > /ɡriːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Green::Sống xanh, bảo vệ môi trường, bền vững và không gây tổn hại thiên nhiên *(Phát âm: /ɡriːn/)* ![[green.mp3]]<br><br>👪 **Word Family:** greenery (n), greenness (n)<br><br>💬 **Ví dụ:** More commuters are cycling to work as part of the nationwide campaign to go green.<br>*(-> Ngày càng nhiều người đi làm bằng xe đạp như một phần của chiến dịch quốc gia hướng tới lối sống xanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Concerned with or supporting the protection of the environment; eco-friendly.

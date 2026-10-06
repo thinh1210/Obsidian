@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Paternity
 *noun*
 > /pəˈtɜː.nə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Paternity::Tư cách làm cha *(Phát âm: /pəˈtɜː.nə.ti/)* ![[paternity.mp3]]<br><br>👪 **Word Family:** paternal (adj)<br><br>💬 **Ví dụ:** He took a paternity test.<br>*(-> Anh ấy đã làm xét nghiệm cha con.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being a father.

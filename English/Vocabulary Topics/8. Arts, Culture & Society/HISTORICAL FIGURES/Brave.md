@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Brave
 *adj.*
 > /breɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Brave::Dũng cảm *(Phát âm: /breɪv/)* ![[brave.mp3]]<br><br>👪 **Word Family:** bravery, bravely<br><br>💬 **Ví dụ:** The brave boy saved his dog from the fire.<br>*(-> Cậu bé dũng cảm đã cứu chú chó của mình khỏi đám cháy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ready to face and endure danger or pain; showing courage

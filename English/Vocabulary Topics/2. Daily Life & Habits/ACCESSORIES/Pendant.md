@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Pendant
 *noun*
 > /ˈpendənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Pendant::Mặt dây chuyền *(Phát âm: /ˈpendənt/)* ![[pendant.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She wore a gold chain with a heart-shaped pendant.<br>*(-> Cô ấy đeo một sợi dây chuyền vàng với mặt dây chuyền hình trái tim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewellery worn around the neck, consisting of a long chain with an object hanging from it.

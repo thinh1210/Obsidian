@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # parliament
 *noun*
 > /ˈpɑːrləmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+parliament::Nghị viện, quốc hội *(Phát âm: /ˈpɑːrləmənt/)* ![[parliament.mp3]]<br><br>👪 **Word Family:** parliamentary (adj), parliamentarian (n)<br><br>💬 **Ví dụ:** The Prime Minister spoke to parliament today.<br>*(-> Thủ tướng đã phát biểu trước nghị viện hôm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The members of parliament for a particular period, especially between one dissolution and the next.

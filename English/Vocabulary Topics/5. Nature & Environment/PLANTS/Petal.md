@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Petal
 *noun*
 > /ˈpetl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Petal::Cánh hoa *(Phát âm: /ˈpetl/)* ![[petal.mp3]]<br><br>👪 **Word Family:** Noun: petal (cánh hoa), Adjective: petaled (có cánh hoa)<br><br>💬 **Ví dụ:** She dried the rose petals to make potpourri.<br>*(-> Cô ấy sấy khô các cánh hoa hồng để làm nước hoa khô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Each of the segments of the corolla of a flower, which are modified leaves and are typically colored.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Change
 *v., n.*
 > /tʃeɪndʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Change::Thay đổi, biến chuyển; đổi tiền; tiền lẻ thối lại *(Phát âm: /tʃeɪndʒ/)* ![[change.mp3]]<br><br>👪 **Word Family:** changeable (adj), unchangeable (adj), changeless (adj)<br><br>💬 **Ví dụ:** I used to dislike spicy food, but my tastes began to change as I tried Thai cuisine.<br>*(-> Tôi từng không thích đồ ăn cay, nhưng khẩu vị của tôi bắt đầu thay đổi khi tôi thử ẩm thực Thái Lan.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make or become different; to exchange one thing for another; small coins.

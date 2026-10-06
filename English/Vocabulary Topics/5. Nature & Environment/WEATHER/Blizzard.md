@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Blizzard
 *noun*
 > /ˈblɪzəd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Blizzard::Trận bão tuyết dữ dội *(Phát âm: /ˈblɪzəd/)* ![[blizzard.mp3]]<br><br>👪 **Word Family:** Blizzardy (adj)<br><br>💬 **Ví dụ:** The roads were blocked by a raging blizzard.<br>*(-> Đường sá đã bị phong tỏa bởi một trận bão tuyết dữ dội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A severe snowstorm with high winds and low visibility

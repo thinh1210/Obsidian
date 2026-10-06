@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Bored
 *adj*
 > /bɔːrd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Bored::Chán nản *(Phát âm: /bɔːrd/)* ![[bored.mp3]]<br><br>👪 **Word Family:** boredom (n), boring (adj)<br><br>💬 **Ví dụ:** I am so bored right now.<br>*(-> Bây giờ tôi rất chán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling weary and restless through lack of interest.

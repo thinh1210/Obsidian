@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Legend
 *noun*
 > /ˈledʒ.ənd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Legend::Huyền thoại, truyền thuyết *(Phát âm: /ˈledʒ.ənd/)* ![[legend.mp3]]<br><br>👪 **Word Family:** legendary (adj)<br><br>💬 **Ví dụ:** According to legend, the founder of the city was raised by wolves.<br>*(-> Theo truyền thuyết, người sáng lập ra thành phố được nuôi dưỡng bởi bầy sói.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional story sometimes popularly regarded as historical but not authenticated.

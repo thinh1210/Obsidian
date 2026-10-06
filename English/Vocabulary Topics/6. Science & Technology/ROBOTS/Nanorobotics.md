@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Nanorobotics
 *noun.*
 > /ˌnæn.oʊ.roʊˈbɑː.t̬ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
+
+## 🗂️ Flashcard
+Nanorobotics::Công nghệ robot nano *(Phát âm: /ˌnæn.oʊ.roʊˈbɑː.t̬ɪks/)* ![[nanorobotics.mp3]]<br><br>👪 **Word Family:** nanorobot (noun), nanorobotic (adj)<br><br>💬 **Ví dụ:** Nanorobotics could revolutionize cancer treatment by delivering drugs directly to tumors.<br>*(-> Công nghệ robot nano có thể cách mạng hóa việc điều trị ung thư bằng cách đưa thuốc trực tiếp đến các khối u.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The technology of creating machines or robots close to the microscopic scale of a nanometer

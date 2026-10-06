@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Metal
 *noun.*
 > /ˈmet̬.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Metal::Kim loại *(Phát âm: /ˈmet̬.əl/)* ![[metal.mp3]]<br><br>👪 **Word Family:** metallic (adj), metallurgy (noun)<br><br>💬 **Ví dụ:** Most robots are made of metal and plastic.<br>*(-> Hầu hết robot được làm từ kim loại và nhựa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical element, such as iron or gold, that is usually a hard and shiny solid

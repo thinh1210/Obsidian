@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Virus
 *noun*
 > /ˈvaɪə.rəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Virus::Vi-rút *(Phát âm: /ˈvaɪə.rəs/)* ![[virus.mp3]]<br><br>👪 **Word Family:** viral, virology<br><br>💬 **Ví dụ:** She is staying home because she has a virus.<br>*(-> Cô ấy đang ở nhà vì bị nhiễm một loại vi-rút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host.

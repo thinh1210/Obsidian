@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Abysmal
 *adj*
 > /əˈbɪz.məl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Abysmal::Vô cùng tồi tệ, tồi tệ đến mức cùng cực *(Phát âm: /əˈbɪz.məl/)* ![[abysmal.mp3]]<br><br>👪 **Word Family:** Abysmally (adv)<br><br>💬 **Ví dụ:** The food at that restaurant was abysmal.<br>*(-> Thức ăn ở nhà hàng đó rất tệ hại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely bad; appalling.

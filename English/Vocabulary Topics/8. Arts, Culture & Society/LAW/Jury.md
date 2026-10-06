@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Jury
 *noun*
 > /ˈdʒʊə.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Jury::Bồi thẩm đoàn *(Phát âm: /ˈdʒʊə.ri/)* ![[jury.mp3]]<br><br>👪 **Word Family:** Jury (n), Juror (n)<br><br>💬 **Ví dụ:** She received a letter calling her to perform her jury duty next month.<br>*(-> Cô nhận được một lá thư gọi cô thực hiện nghĩa vụ bồi thẩm đoàn vào tháng tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of people (typically twelve in number) sworn to give a verdict in a legal case on the basis of evidence submitted to them in court.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Curfew
 *noun*
 > /ˈkɝː.fjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Curfew::Giờ giới nghiêm *(Phát âm: /ˈkɝː.fjuː/)* ![[curfew.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** My parents set a 9 PM curfew.<br>*(-> Bố mẹ tôi đặt giờ giới nghiêm là 9 giờ tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A regulation requiring people to remain indoors between specified hours.

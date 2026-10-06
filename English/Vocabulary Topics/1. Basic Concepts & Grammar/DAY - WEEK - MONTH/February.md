@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # February
 *n.*
 > /ˈfeb.ru.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+February::Tháng Hai, tháng ngắn nhất trong năm có 28 hoặc 29 ngày (năm nhuận) *(Phát âm: /ˈfeb.ru.ər.i/)* ![[february.mp3]]<br><br>👪 **Word Family:** Feb (viết tắt)<br><br>💬 **Ví dụ:** Valentine's Day on February fourteenth is celebrated by couples with flowers and chocolate.<br>*(-> Ngày Lễ Tình nhân vào ngày mười bốn tháng Hai được các cặp đôi kỷ niệm bằng hoa và sô-cô-la.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The second month of the calendar year, having 28 days in ordinary years and 29 in leap years.

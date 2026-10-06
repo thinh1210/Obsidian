@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Diversity
 *n.*
 > /daɪˈvɜː.sə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Diversity::Sự đa dạng *(Phát âm: /daɪˈvɜː.sə.ti/)* ![[diversity.mp3]]<br><br>👪 **Word Family:** diverse, diversify<br><br>💬 **Ví dụ:** I love the diversity of food options in New York.<br>*(-> Tôi yêu sự đa dạng của các lựa chọn ẩm thực ở New York.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being diverse; variety.

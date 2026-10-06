@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Think
 *v.*
 > /θɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Think::Suy nghĩ, ngẫm nghĩ, cân nhắc; có ý kiến, tin rằng *(Phát âm: /θɪŋk/)* ![[think.mp3]]<br><br>👪 **Word Family:** thinker (n), thinking (n/adj), thought (n), thoughtful (adj)<br><br>💬 **Ví dụ:** Take your time and think carefully before signing any important legal contract.<br>*(-> Hãy dành thời gian và suy nghĩ cẩn thận trước khi đặt bút ký bất kỳ hợp đồng pháp lý quan trọng nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have a particular opinion, belief, or idea about someone or something; to use the mind actively.

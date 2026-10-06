@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Reign
 *noun*
 > /reɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+Reign::Triều đại, thời gian trị vì *(Phát âm: /reɪn/)* ![[reign.mp3]]<br><br>👪 **Word Family:** reigning (adj), reign (verb)<br><br>💬 **Ví dụ:** Under the reign of the new manager, company productivity has improved.<br>*(-> Dưới sự quản lý của người quản lý mới, năng suất công ty đã được cải thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period during which a sovereign rules.

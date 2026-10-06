@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Loan
 *n.*
 > /ləʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Loan::Khoản tiền đi vay từ ngân hàng hoặc cá nhân và phải trả lại kèm lãi suất *(Phát âm: /ləʊn/)* ![[loan.mp3]]<br><br>👪 **Word Family:** lender (n), lend (v)<br><br>💬 **Ví dụ:** They took out a thirty-year bank loan to purchase their first family home.<br>*(-> Họ đã vay một khoản ngân hàng thời hạn ba mươi năm để mua ngôi nhà đầu tiên cho gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that is borrowed, especially a sum of money that is expected to be paid back with interest.

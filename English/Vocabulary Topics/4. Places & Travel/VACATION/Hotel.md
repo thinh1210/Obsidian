@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Hotel
 *Noun*
 > /hoʊˈtɛl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Hotel::Khách sạn *(Phát âm: /hoʊˈtɛl/)* ![[hotel.mp3]]<br><br>👪 **Word Family:** motel (n)<br><br>💬 **Ví dụ:** We stayed at a nice hotel.<br>*(-> Chúng tôi đã ở một khách sạn đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where you pay to stay when you are on holiday.

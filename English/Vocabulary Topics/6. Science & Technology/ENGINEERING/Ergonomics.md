@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Ergonomics
 *noun*
 > /ˌɜːɡəˈnɒmɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Ergonomics::Nhân trắc học, nghiên cứu thiết kế môi trường làm việc phù hợp với con người *(Phát âm: /ˌɜːɡəˈnɒmɪks/)* ![[ergonomics.mp3]]<br><br>👪 **Word Family:** ergonomic (adj), ergonomically (adv), ergonomist (n)<br><br>💬 **Ví dụ:** Modern office chairs are designed with ergonomics in mind to support the spine.<br>*(-> Ghế văn phòng hiện đại được thiết kế dựa trên nhân trắc học để hỗ trợ cột sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of people's efficiency in their working environment, designed to maximize safety and efficiency.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Synonym
 *noun*
 > /ˈsɪn.ə.nɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Synonym::từ đồng nghĩa *(Phát âm: /ˈsɪn.ə.nɪm/)* ![[synonym.mp3]]<br><br>👪 **Word Family:** synonymous (adj), synonymy (n)<br><br>💬 **Ví dụ:** "Shut" and "close" are synonyms.<br>*(-> "Shut" và "close" là các từ đồng nghĩa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a word or phrase that has the same or nearly the same meaning as another word or phrase

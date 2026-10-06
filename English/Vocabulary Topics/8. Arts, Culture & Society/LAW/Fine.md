@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Fine
 *noun*
 > /faɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Fine::Tiền phạt, khoản tiền phạt *(Phát âm: /faɪn/)* ![[fine.mp3]]<br><br>👪 **Word Family:** Fine (n/v/adj)<br><br>💬 **Ví dụ:** If you return the library book late, you will have to pay a small fine.<br>*(-> Nếu bạn trả sách thư viện muộn, bạn sẽ phải nộp một khoản tiền phạt nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money exacted as a penalty by a court of law or other authority.

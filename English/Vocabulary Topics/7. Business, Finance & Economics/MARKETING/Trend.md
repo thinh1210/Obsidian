@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Trend
 *noun*
 > /trend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Trend::Xu hướng *(Phát âm: /trend/)* ![[trend.mp3]]<br><br>👪 **Word Family:** trendy (adj)<br><br>💬 **Ví dụ:** Short video clips are the latest trend in social media.<br>*(-> Các video clip ngắn là xu hướng mới nhất trên mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A general direction in which something is developing or changing

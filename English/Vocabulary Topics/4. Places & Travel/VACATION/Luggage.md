@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Luggage
 *Noun*
 > /ˈlʌɡɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Luggage::Hành lý *(Phát âm: /ˈlʌɡɪdʒ/)* ![[luggage.mp3]]<br><br>👪 **Word Family:** lug (v)<br><br>💬 **Ví dụ:** Where is my luggage?<br>*(-> Hành lý của tôi đâu?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The bags and suitcases that you carry when you travel.

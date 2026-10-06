@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Dig
 *verb*
 > /dɪɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Dig::Đào, bới *(Phát âm: /dɪɡ/)* ![[dig.mp3]]<br><br>👪 **Word Family:** digger (noun), digging (noun)<br><br>💬 **Ví dụ:** The children like to dig in the wet sand.<br>*(-> Trẻ em thích đào cát ướt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a hole in the ground using your hands, a tool, or a machine

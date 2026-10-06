@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Amortization
 *n.*
 > /əˌmɔːtaɪˈzeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Amortization::Sự trả góp dần *(Phát âm: /əˌmɔːtaɪˈzeɪʃn/)* ![[amortization.mp3]]<br><br>👪 **Word Family:** amortize (v)<br><br>💬 **Ví dụ:** The bank provided an amortization schedule showing how much principal and interest we pay each month.<br>*(-> Ngân hàng đã cung cấp bảng lịch trình trả nợ dần cho thấy chúng tôi trả bao nhiêu tiền gốc và lãi mỗi tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action or process of gradually writing off the initial cost of an asset or paying off a debt over a period of time.

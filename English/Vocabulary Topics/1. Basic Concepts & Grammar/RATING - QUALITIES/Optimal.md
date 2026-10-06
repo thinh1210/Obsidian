@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Optimal
 *adj*
 > /ˈɒp.tɪ.məl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Optimal::Tối ưu, tốt nhất *(Phát âm: /ˈɒp.tɪ.məl/)* ![[optimal.mp3]]<br><br>👪 **Word Family:** Optimize (verb), Optimally (adv)<br><br>💬 **Ví dụ:** These are the optimal conditions for plant growth.<br>*(-> Đây là những điều kiện tối ưu để cây phát triển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Best or most favorable; optimum.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Depressed
 *adj*
 > /dɪˈprest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Depressed::Trầm cảm, chán nản *(Phát âm: /dɪˈprest/)* ![[depressed.mp3]]<br><br>👪 **Word Family:** depression (n), depressing (adj)<br><br>💬 **Ví dụ:** She felt deeply depressed.<br>*(-> Cô ấy cảm thấy vô cùng chán nản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In a state of general unhappiness or despondency.

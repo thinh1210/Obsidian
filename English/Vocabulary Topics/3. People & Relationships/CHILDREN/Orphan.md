@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Orphan
 *noun*
 > /ˈɔːr.fən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Orphan::Trẻ mồ côi *(Phát âm: /ˈɔːr.fən/)* ![[orphan.mp3]]<br><br>👪 **Word Family:** Orphanage (n)<br><br>💬 **Ví dụ:** He grew up as an orphan.<br>*(-> Cậu ấy lớn lên như một đứa trẻ mồ côi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A child whose parents are dead.

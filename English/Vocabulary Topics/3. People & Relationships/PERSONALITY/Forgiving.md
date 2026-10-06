@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Forgiving
 *adj.*
 > /fəˈɡɪv.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Forgiving::Vị tha, bao dung, sẵn lòng tha thứ và không để bụng oán hờn *(Phát âm: /fəˈɡɪv.ɪŋ/)* ![[forgiving.mp3]]<br><br>👪 **Word Family:** forgive (v), forgiveness (n), unforgiving (adj)<br><br>💬 **Ví dụ:** She has a remarkably forgiving nature and never holds a grudge.<br>*(-> Cô ấy có bản tính vị tha phi thường và không bao giờ ôm giữ thù hằn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Willing to forgive people who have hurt or offended you; not holding a grudge.

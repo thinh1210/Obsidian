@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Dynasty
 *n.*
 > /ˈdɪnəsti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Dynasty::Triều đại *(Phát âm: /ˈdɪnəsti/)* ![[dynasty.mp3]]<br><br>👪 **Word Family:** dynastic<br><br>💬 **Ví dụ:** The dynasty lasted for nearly three hundred years.<br>*(-> Triều đại kéo dài gần ba trăm năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line of hereditary rulers of a country

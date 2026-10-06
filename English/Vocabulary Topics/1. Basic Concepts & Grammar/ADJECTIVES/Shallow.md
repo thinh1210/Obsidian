@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Shallow
 *adj.*
 > /ˈʃæl.əʊ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Shallow::Nông, cạn (nước); nông cạn, hời hợt (suy nghĩ, tính cách) *(Phát âm: /ˈʃæl.əʊ/)* ![[shallow.mp3]]<br><br>👪 **Word Family:** shallowly (adv), shallowness (n)<br><br>💬 **Ví dụ:** Children can safely paddle in the shallow water near the shore.<br>*(-> Trẻ em có thể thoải mái lội nước an toàn ở vùng nước nông gần bờ biển.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having only a short distance from the top to the bottom; not deep; lacking serious thought.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Language
 *n.*
 > /ˈlæŋɡwɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Language::Ngôn ngữ *(Phát âm: /ˈlæŋɡwɪdʒ/)* ![[language.mp3]]<br><br>👪 **Word Family:** languages, sublanguage<br><br>💬 **Ví dụ:** She speaks two languages.<br>*(-> Cô ấy nói được hai ngôn ngữ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of communication used by a country or community

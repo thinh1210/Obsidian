@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Ecotourism
 *n.*
 > /ˈiːkəʊtʊərɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Ecotourism::Du lịch sinh thái *(Phát âm: /ˈiːkəʊtʊərɪzəm/)* ![[ecotourism.mp3]]<br><br>👪 **Word Family:** ecotourist (n), ecotour (n)<br><br>💬 **Ví dụ:** Ecotourism can provide income for local communities while preserving nature.<br>*(-> Du lịch sinh thái có thể mang lại thu nhập cho cộng đồng địa phương trong khi bảo tồn thiên nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Tourism directed toward exotic, often threatened, natural environments, intended to support conservation efforts and observe wildlife.

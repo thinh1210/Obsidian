@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Star
 *n.*
 > /stɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+03 - Star::Ngôi sao *(Phát âm: /stɑːr/)* ![[star.mp3]]<br><br>👪 **Word Family:** Stardom (n.)<br><br>💬 **Ví dụ:** She is a star.<br>*(-> Cô ấy là một ngôi sao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very famous, successful person.

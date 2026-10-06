@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Outstanding
 *adj.*
 > /aʊtˈstændɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Outstanding::Xuất sắc *(Phát âm: /aʊtˈstændɪŋ/)* ![[outstanding.mp3]]<br><br>👪 **Word Family:** outstandingly (adv.)<br><br>💬 **Ví dụ:** He gave an outstanding performance.<br>*(-> Anh ấy đã có một màn trình diễn xuất sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Exceptionally good.

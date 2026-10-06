@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Pottery
 *noun*
 > /ˈpɒt.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Pottery::Làm gốm *(Phát âm: /ˈpɒt.ər.i/)* ![[pottery.mp3]]<br><br>👪 **Word Family:** Potter (n)<br><br>💬 **Ví dụ:** Taking a pottery class was fun and messy.<br>*(-> Tham gia lớp học làm gốm rất vui và lấm lem.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity or skill of making clay objects by hand.

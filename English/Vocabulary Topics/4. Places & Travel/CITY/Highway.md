@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Highway
 *n.*
 > /ˈhaɪweɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Highway::Đường huyết mạch rộng kết nối các đô thị cho xe lưu thông tốc độ cao *(Phát âm: /ˈhaɪweɪ/)* ![[highway.mp3]]<br><br>👪 **Word Family:** highwayman (n)<br><br>💬 **Ví dụ:** We drove along the coastal highway enjoying the ocean views.<br>*(-> Chúng tôi lái xe dọc xa lộ ven biển ngắm cảnh đại dương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A main road connecting major towns or cities, typically with high speed limits.

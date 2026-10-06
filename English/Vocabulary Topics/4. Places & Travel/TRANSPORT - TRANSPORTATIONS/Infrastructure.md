@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Infrastructure
 *noun*
 > /ˈɪnfrəstrʌktʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Infrastructure::Cơ sở hạ tầng *(Phát âm: /ˈɪnfrəstrʌktʃər/)* ![[infrastructure.mp3]]<br><br>👪 **Word Family:** Noun: infrastructure (cơ sở hạ tầng), Adjective: infrastructural (thuộc cơ sở hạ tầng)<br><br>💬 **Ví dụ:** The government is investing heavily in transport infrastructure.<br>*(-> Chính phủ đang đầu tư mạnh mẽ vào cơ sở hạ tầng giao thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic physical and organizational structures needed for the operation of a society or enterprise.

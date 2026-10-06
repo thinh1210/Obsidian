@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Accident
 *n.*
 > /ˈæksɪdənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Accident::Tai nạn *(Phát âm: /ˈæksɪdənt/)* ![[accident.mp3]]<br><br>👪 **Word Family:** accidental, accidentally<br><br>💬 **Ví dụ:** She had a minor car accident yesterday but she is fine.<br>*(-> Cô ấy đã bị một tai nạn xe hơi nhỏ hôm qua nhưng cô ấy vẫn ổn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Something bad that happens that is not expected or intended and that often damages something or injures someone.

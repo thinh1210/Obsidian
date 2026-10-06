@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Screenplay
 *n.*
 > /ˈskriːnpleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Screenplay::Kịch bản điện ảnh, kịch bản phim *(Phát âm: /ˈskriːnpleɪ/)* ![[screenplay.mp3]]<br><br>👪 **Word Family:** screenplayer, screenwriting<br><br>💬 **Ví dụ:** The screenplay was based on a best-selling novel.<br>*(-> Kịch bản điện ảnh được dựa trên một cuốn tiểu thuyết bán chạy nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The script of a movie, including acting instructions and scene-by-scene directions

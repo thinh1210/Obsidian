@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Accommodation
 *noun*
 > /əˌkɑːməˈdeɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Accommodation::Chỗ ở *(Phát âm: /əˌkɑːməˈdeɪʃən/)* ![[accommodation.mp3]]<br><br>👪 **Word Family:** accommodate (v)<br><br>💬 **Ví dụ:** The price includes flights and accommodation.<br>*(-> Giá bao gồm các chuyến bay và chỗ ở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room, group of rooms, or building in which someone may live or stay.
@@ -34,4 +44,4 @@
 - accommodate (v)
 
 **Synonyms:** housing, lodging
-**Antonyms:** 
+**Antonyms:**

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Orienteering
 *noun*
 > /ˌɔːriənˈtɪərɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Orienteering::Môn thể thao chạy định hướng *(Phát âm: /ˌɔːriənˈtɪərɪŋ/)* ![[orienteering.mp3]]<br><br>👪 **Word Family:** Orienteer (n, v)<br><br>💬 **Ví dụ:** We used to go orienteering in the woods during summer camp.<br>*(-> Chúng tôi thường đi chạy định hướng trong rừng vào dịp cắm trại mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A competitive sport in which runners have to find their way across rough country with the aid of a map and compass.

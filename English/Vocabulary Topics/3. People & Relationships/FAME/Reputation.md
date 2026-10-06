@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Reputation
 *n.*
 > /ˌrepjuˈteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Reputation::Danh tiếng *(Phát âm: /ˌrepjuˈteɪʃn/)* ![[reputation.mp3]]<br><br>👪 **Word Family:** reputable (adj.)<br><br>💬 **Ví dụ:** He has a good reputation.<br>*(-> Anh ấy có danh tiếng tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The beliefs or opinions that are generally held about someone.

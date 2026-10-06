@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Absenteeism
 *noun*
 > /ˌæbsənˈtiːɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Absenteeism::Tình trạng thường xuyên vắng mặt *(Phát âm: /ˌæbsənˈtiːɪzəm/)* ![[absenteeism.mp3]]<br><br>👪 **Word Family:** absent (adj), absentee (n), absence (n)<br><br>💬 **Ví dụ:** The school addressed student absenteeism by introducing counseling services.<br>*(-> Trường giải quyết tình trạng vắng học bằng cách giới thiệu dịch vụ tư vấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The habitual pattern of absence from school or work.

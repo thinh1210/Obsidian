@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Routine
 *n./adj.*
 > /ruːˈtiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Routine::Thói quen, thường lệ *(Phát âm: /ruːˈtiːn/)* ![[routine.mp3]]<br><br>👪 **Word Family:** routinely (adv.)<br><br>💬 **Ví dụ:** My morning routine includes coffee.<br>*(-> Thói quen buổi sáng của tôi bao gồm cà phê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of actions regularly followed; a fixed program

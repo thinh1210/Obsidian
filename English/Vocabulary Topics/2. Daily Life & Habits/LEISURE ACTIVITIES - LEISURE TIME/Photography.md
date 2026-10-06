@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Photography
 *n*
 > /fəˈtɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Photography::Nhiếp ảnh *(Phát âm: /fəˈtɒɡrəfi/)* ![[photography.mp3]]<br><br>👪 **Word Family:** Photographer (n), Photograph (n)<br><br>💬 **Ví dụ:** He took up photography as a hobby.<br>*(-> Anh ấy bắt đầu theo đuổi nhiếp ảnh như một sở thích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of taking and processing photographs.

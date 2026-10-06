@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Pine
 *n.*
 > /paɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Pine::Cây thông, loài cây thường xanh lá kim hình nón mọc nhiều ở vùng ôn đới *(Phát âm: /paɪn/)* ![[pine.mp3]]<br><br>👪 **Word Family:** piney (adj), pinewood (n)<br><br>💬 **Ví dụ:** Walking through the mountain pine forest filled our lungs with fresh, fragrant resin air.<br>*(-> Dạo bước qua rừng thông trên núi khiến lồng ngực chúng tôi tràn ngập bầu không khí thơm mùi nhựa thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An evergreen conifer tree that has clusters of needle-shaped leaves and produces cones.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Meticulous
 *adj.*
 > /məˈtɪk.jə.ləs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Meticulous::Tỉ mỉ, quá kỹ càng *(Phát âm: /məˈtɪk.jə.ləs/)* ![[meticulous.mp3]]<br><br>👪 **Word Family:** Meticulously (adv.), Meticulousness (n.)<br><br>💬 **Ví dụ:** Cross-stitching requires a meticulous approach so you don't miss a count.<br>*(-> Thêu chữ thập đòi hỏi một cách tiếp cận tỉ mỉ để bạn không đếm sai mũi thêu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very careful and with great attention to every detail.

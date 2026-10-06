@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Appraisal
 *n.*
 > /əˈpreɪ.zəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Appraisal::Sự đánh giá, cuộc thẩm định năng lực *(Phát âm: /əˈpreɪ.zəl/)* ![[appraisal.mp3]]<br><br>👪 **Word Family:** appraise, appraiser<br><br>💬 **Ví dụ:** We are having our annual performance appraisals next week.<br>*(-> Chúng tôi sẽ có các cuộc đánh giá hiệu quả công việc hàng năm vào tuần tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An assessment of someone's performance, value, or quality

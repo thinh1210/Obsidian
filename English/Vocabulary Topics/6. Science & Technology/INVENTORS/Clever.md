@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # clever
 *adj.*
 > /ˈklev.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Clever::Khéo léo, thông minh *(Phát âm: /ˈklev.ər/)* ![[clever.mp3]]<br><br>👪 **Word Family:** cleverly (adv), cleverness (n)<br><br>💬 **Ví dụ:** That was a clever way to solve the puzzle.<br>*(-> Đó là một cách thông minh để giải câu đố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Quick to learn and understand things; intelligent or creative

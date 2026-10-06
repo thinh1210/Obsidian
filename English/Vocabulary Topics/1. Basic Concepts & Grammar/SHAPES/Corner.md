@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Corner
 *n.*
 > /ˈkɔː.nər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Corner::Góc *(Phát âm: /ˈkɔː.nər/)* ![[corner.mp3]]<br><br>👪 **Word Family:** Cornerstone (n)<br><br>💬 **Ví dụ:** A triangle has three corners.<br>*(-> Một hình tam giác có ba góc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place or angle where two or more sides or edges meet.

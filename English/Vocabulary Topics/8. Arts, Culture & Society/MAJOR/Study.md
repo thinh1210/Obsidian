@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Study
 *v., n.*
 > /ˈstʌd.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Study::Học, nghiên cứu; việc học tập *(Phát âm: /ˈstʌd.i/)* ![[study.mp3]]<br><br>👪 **Word Family:** study (v/n), student (n), studious (adj)<br><br>💬 **Ví dụ:** I study English every day.<br>*(-> Tôi học tiếng Anh mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To learn about a subject by reading or going to school; the process of learning.

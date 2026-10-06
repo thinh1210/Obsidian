@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Product
 *noun*
 > /ˈprɒdʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Product::sản phẩm *(Phát âm: /ˈprɒdʌkt/)* ![[product.mp3]]<br><br>👪 **Word Family:** produce (verb), production (noun), productive (adjective)<br><br>💬 **Ví dụ:** I bought this organic hair care product last week.<br>*(-> Tôi đã mua sản phẩm chăm sóc tóc hữu cơ này vào tuần trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** something that is made to be sold, usually something that is produced by an industrial process.

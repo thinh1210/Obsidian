@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Liquidity
 *n.*
 > /lɪˈkwɪdɪti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Liquidity::Tính thanh khoản *(Phát âm: /lɪˈkwɪdɪti/)* ![[liquidity.mp3]]<br><br>👪 **Word Family:** liquid, liquidate, liquidation<br><br>💬 **Ví dụ:** He keeps some money in a savings account for immediate liquidity.<br>*(-> Anh ấy giữ một số tiền trong tài khoản tiết kiệm để có tính thanh khoản ngay lập tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The availability of liquid assets (cash) to a market or company to meet short-term obligations

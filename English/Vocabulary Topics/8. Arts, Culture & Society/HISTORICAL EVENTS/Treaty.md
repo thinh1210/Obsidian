@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Treaty
 *noun*
 > /ˈtriː.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Treaty::Hiệp ước, điều ước quốc tế *(Phát âm: /ˈtriː.ti/)* ![[treaty.mp3]]<br><br>👪 **Word Family:** treat (verb), treatment (noun)<br><br>💬 **Ví dụ:** The neighbors signed a friendly treaty about not parking on each other's lawns.<br>*(-> Những người hàng xóm đã ký một thỏa thuận thân thiện về việc không đỗ xe trên bãi cỏ của nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formally concluded and ratified agreement between countries.

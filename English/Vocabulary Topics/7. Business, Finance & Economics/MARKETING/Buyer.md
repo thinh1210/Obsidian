@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Buyer
 *noun*
 > /ˈbaɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Buyer::Người mua, khách hàng *(Phát âm: /ˈbaɪər/)* ![[buyer.mp3]]<br><br>👪 **Word Family:** buy (v)<br><br>💬 **Ví dụ:** The buyer paid in cash and took the bicycle home.<br>*(-> Người mua đã trả bằng tiền mặt và mang chiếc xe đạp về nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who makes a purchase; a customer or consumer

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Subcontinent
 *noun*
 > /ˌsʌbˈkɒntɪnənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Subcontinent::Tiểu lục địa *(Phát âm: /ˌsʌbˈkɒntɪnənt/)* ![[subcontinent.mp3]]<br><br>👪 **Word Family:** Subcontinental (adj.)<br><br>💬 **Ví dụ:** The Indian subcontinent has a rich history.<br>*(-> Tiểu lục địa Ấn Độ có một lịch sử phong phú.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, distinguishable part of a continent, such as North America or southern Africa.

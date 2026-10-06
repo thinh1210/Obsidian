@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Discipline
 *n.*
 > /ˈdɪs.ə.plɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Discipline::Kỷ luật, ngành học *(Phát âm: /ˈdɪs.ə.plɪn/)* ![[discipline.mp3]]<br><br>👪 **Word Family:** disciplinary, disciplined<br><br>💬 **Ví dụ:** It takes a lot of self-discipline to study every day.<br>*(-> Phải mất nhiều sự tự kỷ luật để học tập mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of training people to obey rules, or a branch of knowledge

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Corsage
 *noun*
 > /kɔːˈsɑːʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Corsage::Hoa cài áo/cổ tay *(Phát âm: /kɔːˈsɑːʒ/)* ![[corsage.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Her date bought her a beautiful orchid corsage.<br>*(-> Bạn trai đã mua cho cô ấy một bông hoa phong lan cài áo tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small group of flowers worn on a woman's dress or pinned to her wrist.

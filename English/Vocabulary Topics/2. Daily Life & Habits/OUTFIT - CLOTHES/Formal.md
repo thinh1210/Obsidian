@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Formal
 *adj*
 > /ˈfɔːr.məl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Formal::Trang trọng *(Phát âm: /ˈfɔːr.məl/)* ![[formal.mp3]]<br><br>👪 **Word Family:** formality (n)<br><br>💬 **Ví dụ:** You need a formal dress for the gala.<br>*(-> Bạn cần một chiếc váy trang trọng cho đêm dạ tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Suitable for official or important occasions.

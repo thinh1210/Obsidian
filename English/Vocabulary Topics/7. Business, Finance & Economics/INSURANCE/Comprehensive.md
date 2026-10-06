@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Comprehensive
 *adj.*
 > /ˌkɒmprɪˈhensɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Comprehensive::Toàn diện *(Phát âm: /ˌkɒmprɪˈhensɪv/)* ![[comprehensive.mp3]]<br><br>👪 **Word Family:** comprehensively, comprehensiveness<br><br>💬 **Ví dụ:** We decided to buy comprehensive insurance for our new car.<br>*(-> Chúng tôi quyết định mua bảo hiểm toàn diện cho chiếc xe mới của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Including or dealing with all or nearly all elements or aspects of something.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Delineate
 *Verb*
 > /dɪˈlɪn.i.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Delineate::Phác họa, mô tả chi tiết *(Phát âm: /dɪˈlɪn.i.eɪt/)* ![[delineate.mp3]]<br><br>👪 **Word Family:** Delineation (n)<br><br>💬 **Ví dụ:** He delineated his plan.<br>*(-> Anh ấy đã phác họa kế hoạch của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To describe or mark the edge of something.

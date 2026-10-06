@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Stream
 *v.*
 > /striːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Stream::Phát trực tuyến, stream *(Phát âm: /striːm/)* ![[stream.mp3]]<br><br>👪 **Word Family:** streamer, streaming<br><br>💬 **Ví dụ:** I prefer to stream movies rather than download them.<br>*(-> Tôi thích phát trực tuyến phim hơn là tải chúng về.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Transmit or receive data (especially video and audio material) over the internet as a steady, continuous flow.

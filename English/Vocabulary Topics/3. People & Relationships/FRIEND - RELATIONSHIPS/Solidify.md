@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Solidify
 *verb*
 > /səˈlɪd.ə.faɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Solidify::Củng cố, làm vững chắc *(Phát âm: /səˈlɪd.ə.faɪ/)* ![[solidify.mp3]]<br><br>👪 **Word Family:** solidification<br><br>💬 **Ví dụ:** The trip helped solidify their friendship.<br>*(-> Chuyến đi đã giúp củng cố tình bạn của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make or become hard or solid; make stronger.

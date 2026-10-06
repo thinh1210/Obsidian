@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Resident
 *n.*
 > /ˈrezɪdənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Resident::Cư dân *(Phát âm: /ˈrezɪdənt/)* ![[resident.mp3]]<br><br>👪 **Word Family:** residence (n)<br><br>💬 **Ví dụ:** I am a resident of this city.<br>*(-> Tôi là một cư dân của thành phố này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who lives or has their home in a place.

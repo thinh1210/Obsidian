@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Nanotechnology
 *noun*
 > /ˌnænəʊtekˈnɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Công nghệ cao & Vật lý kỹ thuật chuyên sâu
+
+## 🗂️ Flashcard
+Nanotechnology::Công nghệ nano *(Phát âm: /ˌnænəʊtekˈnɒlədʒi/)* ![[nanotechnology.mp3]]<br><br>👪 **Word Family:** nanotechnological (adj), nanotechnologist (n)<br><br>💬 **Ví dụ:** Nanotechnology is used to design stronger materials and more effective drugs.<br>*(-> Công nghệ nano được sử dụng để thiết kế các vật liệu mạnh hơn và các loại thuốc hiệu quả hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of technology that deals with dimensions and tolerances of less than 100 nanometers, especially the manipulation of individual atoms and molecules.

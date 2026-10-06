@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Accountant
 *n.*
 > /əˈkaʊntənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Accountant::Nhân viên kế toán *(Phát âm: /əˈkaʊntənt/)* ![[accountant.mp3]]<br><br>👪 **Word Family:** accounting, account, accountability<br><br>💬 **Ví dụ:** My cousin works as an accountant at a local firm.<br>*(-> Anh họ tôi làm kế toán tại một công ty địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose job is to keep or inspect financial accounts

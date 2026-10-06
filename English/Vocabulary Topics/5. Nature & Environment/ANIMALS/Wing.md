@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Wing
 *n.*
 > /wɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Wing::Đôi cánh, chi chuyên biệt giúp chim, côn trùng và dơi bay lượn trên không *(Phát âm: /wɪŋ/)* ![[wing.mp3]]<br><br>👪 **Word Family:** winged (adj), wingless (adj)<br><br>💬 **Ví dụ:** The eagle spread its magnificent wings and soared smoothly into the blue sky.<br>*(-> Đại bàng dang rộng đôi cánh hùng vĩ và lượn êm ru vào nền trời xanh biếc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the paired parts on the body of an animal used for flying.

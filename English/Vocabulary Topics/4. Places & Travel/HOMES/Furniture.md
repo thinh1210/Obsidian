@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Furniture
 *noun*
 > /ˈfɜːrnɪtʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Furniture::Đồ nội thất *(Phát âm: /ˈfɜːrnɪtʃər/)* ![[furniture.mp3]]<br><br>👪 **Word Family:** furnish (v)<br><br>💬 **Ví dụ:** We bought new furniture.<br>*(-> Chúng tôi đã mua đồ nội thất mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Large movable equipment, such as tables and chairs, used to make a space suitable for living or working.
@@ -34,4 +44,4 @@
 - furnish (v)
 
 **Synonyms:** furnishings
-**Antonyms:** 
+**Antonyms:**

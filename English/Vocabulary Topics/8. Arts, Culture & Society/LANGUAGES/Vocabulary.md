@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Vocabulary
 *n.*
 > /vəˈkæbjələri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES
+
+## 🗂️ Flashcard
+Vocabulary::Từ vựng *(Phát âm: /vəˈkæbjələri/)* ![[vocabulary.mp3]]<br><br>👪 **Word Family:** vocabularies<br><br>💬 **Ví dụ:** Reading helps you build your vocabulary.<br>*(-> Đọc sách giúp bạn xây dựng vốn từ vựng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The body of words used in a particular language

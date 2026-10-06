@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Fascinating
 *adj.*
 > /ˈfæsɪneɪtɪŋ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Fascinating::Hấp dẫn *(Phát âm: /ˈfæsɪneɪtɪŋ/)* ![[fascinating.mp3]]<br><br>👪 **Word Family:** fascination<br><br>💬 **Ví dụ:** Fascinating story.<br>*(-> Câu chuyện hấp dẫn.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely interesting

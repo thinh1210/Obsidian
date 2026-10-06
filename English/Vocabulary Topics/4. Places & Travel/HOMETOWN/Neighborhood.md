@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Neighborhood
 *n.*
 > /ˈneɪbəhʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Neighborhood::Khu vực lân cận *(Phát âm: /ˈneɪbəhʊd/)* ![[neighborhood.mp3]]<br><br>👪 **Word Family:** Neighbor (n.)<br><br>💬 **Ví dụ:** It's a very safe neighborhood.<br>*(-> Đây là một khu dân cư rất an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A district, especially one forming a community within a town or city.

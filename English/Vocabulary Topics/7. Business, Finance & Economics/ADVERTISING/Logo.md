@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Logo
 *noun*
 > /ˈləʊɡəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
+
+## 🗂️ Flashcard
+Logo::Biểu trưng, logo *(Phát âm: /ˈləʊɡəʊ/)* ![[logo.mp3]]<br><br>💬 **Ví dụ:** The company logo is printed on the coffee mug.<br>*(-> Logo công ty được in trên chiếc cốc cà phê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A design or symbol used by a company to advertise its products.

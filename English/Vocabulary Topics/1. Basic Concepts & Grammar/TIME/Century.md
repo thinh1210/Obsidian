@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Century
 *n.*
 > /ˈsentʃəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Century::Thế kỷ *(Phát âm: /ˈsentʃəri/)* ![[century.mp3]]<br><br>👪 **Word Family:** centennial (adj.)<br><br>💬 **Ví dụ:** We live in the 21st century.<br>*(-> Chúng ta sống ở thế kỷ 21.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 100 years

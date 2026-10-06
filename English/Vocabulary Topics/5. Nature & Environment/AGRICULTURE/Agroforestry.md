@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Agroforestry
 *n.*
 > /ˌæɡ.rəʊˈfɒr.ɪ.stri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Agroforestry::Nông lâm kết hợp *(Phát âm: /ˌæɡ.rəʊˈfɒr.ɪ.stri/)* ![[agroforestry.mp3]]<br><br>👪 **Word Family:** agroforester (n)<br><br>💬 **Ví dụ:** Agroforestry can significantly reduce greenhouse gases by trapping carbon.<br>*(-> Nông lâm kết hợp có thể giảm đáng kể khí nhà kính bằng cách giữ carbon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Agriculture incorporating the cultivation and conservation of trees alongside crops.

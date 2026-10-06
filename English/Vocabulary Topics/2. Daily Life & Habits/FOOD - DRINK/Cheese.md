@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Cheese
 *n.*
 > /tʃiːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Cheese::Phô mai, pho mát *(Phát âm: /tʃiːz/)* ![[cheese.mp3]]<br><br>👪 **Word Family:** cheesy (adj)<br><br>💬 **Ví dụ:** I like to put a slice of cheese on my morning toast.<br>*(-> Tôi thích đặt một lát phô mai lên bánh mì nướng buổi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A yellow or white solid food made from milk.

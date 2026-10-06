@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Cough
 *v, n*
 > /kɒf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Cough::Ho *(Phát âm: /kɒf/)* ![[cough.mp3]]<br><br>👪 **Word Family:** coughing (n)<br><br>💬 **Ví dụ:** Please cover your mouth when you cough.<br>*(-> Làm ơn hãy che miệng khi bạn ho.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To force air out of your lungs suddenly with a sharp sound.

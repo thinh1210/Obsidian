@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Plumage
 *noun*
 > /ˈpluː.mɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Plumage::Bộ lông chim *(Phát âm: /ˈpluː.mɪdʒ/)* ![[plumage.mp3]]<br><br>👪 **Word Family:** plumage (n), plume (n/v), plumose (adj)<br><br>💬 **Ví dụ:** Male peacocks are famous for their colorful plumage.<br>*(-> Những con công đực nổi tiếng với bộ lông sặc sỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bird's feathers collectively.

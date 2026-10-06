@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # run for
 *verb*
 > /rʌn fɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+run for::Ứng cử, tranh cử *(Phát âm: /rʌn fɔːr/)* ![[run_for.mp3]]<br><br>👪 **Word Family:** runner (n), running (n)<br><br>💬 **Ví dụ:** She decided to run for the local council seat this year.<br>*(-> Cô ấy quyết định tranh cử vào ghế hội đồng địa phương năm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To campaign for public office or a political position.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Fortune
 *n.*
 > /ˈfɔː.tʃuːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Fortune::Gia tài bạc triệu kếch xù; hoặc vận may đổi đời về tài chính *(Phát âm: /ˈfɔː.tʃuːn/)* ![[fortune.mp3]]<br><br>👪 **Word Family:** fortunate (adj), fortunately (adv), misfortune (n)<br><br>💬 **Ví dụ:** Buying that vintage sportscar cost him an absolute fortune, but it was his childhood dream.<br>*(-> Mua chiếc xe thể thao cổ đó đã tốn của anh ấy cả một gia tài, nhưng đó là ước mơ thuở nhỏ của anh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large amount of money or assets; or chance and luck affecting human affairs.

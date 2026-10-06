@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Migration
 *n.*
 > /maɪˈɡreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Migration::Sự di cư, sự di trú *(Phát âm: /maɪˈɡreɪ.ʃən/)* ![[migration.mp3]]<br><br>👪 **Word Family:** migrate, migrant, migratory<br><br>💬 **Ví dụ:** Economic issues are driving migration from rural areas to cities.<br>*(-> Các vấn đề kinh tế đang thúc đẩy sự di cư từ nông thôn ra thành thị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Movement of people to a new area or country in order to find work or better living conditions.

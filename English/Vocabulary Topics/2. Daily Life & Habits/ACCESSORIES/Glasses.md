@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Glasses
 *noun*
 > /ˈɡlɑːsɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Glasses::Kính mắt *(Phát âm: /ˈɡlɑːsɪz/)* ![[glasses.mp3]]<br><br>👪 **Word Family:** Glass (n)<br><br>💬 **Ví dụ:** I need glasses for reading.<br>*(-> Tôi cần kính để đọc sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Two small pieces of specially made glass or plastic worn in front of the eyes to improve sight.

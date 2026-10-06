@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Monday
 *noun*
 > /ˈmʌndeɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Monday::Thứ Hai *(Phát âm: /ˈmʌndeɪ/)* ![[monday.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** School starts on Monday.<br>*(-> Trường học bắt đầu vào thứ Hai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The day of the week after Sunday and before Tuesday.

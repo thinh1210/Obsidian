@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Butter
 *n.*
 > /ˈbʌt.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Butter::Bơ *(Phát âm: /ˈbʌt.ər/)* ![[butter.mp3]]<br><br>👪 **Word Family:** buttery<br><br>💬 **Ví dụ:** Pass the butter, please.<br>*(-> Làm ơn đưa bơ đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A solid yellow food made from milk or cream.

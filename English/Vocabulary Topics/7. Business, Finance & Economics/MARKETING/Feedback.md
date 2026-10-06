@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Feedback
 *noun*
 > /ˈfiːdbæk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Feedback::Ý kiến phản hồi *(Phát âm: /ˈfiːdbæk/)* ![[feedback.mp3]]<br><br>👪 **Word Family:** feed (v)<br><br>💬 **Ví dụ:** We asked the guests for their feedback on the dinner party.<br>*(-> Chúng tôi đã xin ý kiến phản hồi của các vị khách về bữa tiệc tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Information about reactions to a product, a person's performance of a task, etc., used as a basis for improvement

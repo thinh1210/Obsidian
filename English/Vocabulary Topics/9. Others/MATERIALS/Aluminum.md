@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Aluminum
 *noun.*
 > /əˈluːmɪnəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Aluminum::Nhôm *(Phát âm: /əˈluːmɪnəm/)* ![[aluminum.mp3]]<br><br>👪 **Word Family:** aluminize (Verb), alumina (Noun)<br><br>💬 **Ví dụ:** Please wrap the remaining roast chicken in aluminum foil.<br>*(-> Làm ơn hãy gói phần gà quay còn lại vào giấy bạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A light silvery-gray metal, chemical element of atomic number 13.

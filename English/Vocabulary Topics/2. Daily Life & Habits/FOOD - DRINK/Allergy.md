@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Allergy
 *n.*
 > /ˈæl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Allergy::Dị ứng *(Phát âm: /ˈæl.ə.dʒi/)* ![[allergy.mp3]]<br><br>👪 **Word Family:** allergic<br><br>💬 **Ví dụ:** I have a peanut allergy.<br>*(-> Tôi bị dị ứng đậu phộng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A damaging immune response by the body to a substance.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Forensic
 *adjective*
 > /fəˈren.zɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Forensic::Thuộc pháp y / liên quan đến điều tra khoa học hình sự *(Phát âm: /fəˈren.zɪk/)* ![[forensic.mp3]]<br><br>👪 **Word Family:** forensics (n), forensically (adv)<br><br>💬 **Ví dụ:** The forensic team arrived at the scene within minutes.<br>*(-> Đội pháp y đến hiện trường trong vài phút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting the application of scientific methods to legal investigation.

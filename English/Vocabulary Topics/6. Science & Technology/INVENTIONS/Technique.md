@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Technique
 *Noun*
 > /tekˈniːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Technique::Kỹ thuật, phương pháp kỹ thuật *(Phát âm: /tekˈniːk/)* ![[technique.mp3]]<br><br>👪 **Word Family:** Technical (adj), technician (n), technology (n)<br><br>💬 **Ví dụ:** She learned a new technique for making pottery.<br>*(-> Cô ấy đã học một kỹ thuật mới để làm đồ gốm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A way of doing an activity which needs skill.

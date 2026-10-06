@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # District
 *n.*
 > /ˈdɪstrɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+District::Phân khu lãnh thổ hoặc hành chính được hoạch định trong một đô thị *(Phát âm: /ˈdɪstrɪkt/)* ![[district.mp3]]<br><br>👪 **Word Family:** redistrict (v)<br><br>💬 **Ví dụ:** District 1 is known as the financial heart of Ho Chi Minh City.<br>*(-> Quận 1 được xem là trái tim tài chính của Thành phố Hồ Chí Minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of a country or city, especially one regarded as a distinct unit for administrative purposes.

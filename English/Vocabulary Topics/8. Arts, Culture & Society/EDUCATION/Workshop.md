@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Workshop
 *n.*
 > /ˈwɜːk.ʃɒp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Workshop::Buổi hội thảo chuyên đề thực hành tương tác chuyên sâu *(Phát âm: /ˈwɜːk.ʃɒp/)* ![[workshop.mp3]]<br><br>👪 **Word Family:** work (n/v)<br><br>💬 **Ví dụ:** I signed up for a weekend creative writing workshop to polish my storytelling skills.<br>*(-> Tôi đã đăng ký một buổi hội thảo viết sáng tạo cuối tuần để trau chuốt kỹ năng kể chuyện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.

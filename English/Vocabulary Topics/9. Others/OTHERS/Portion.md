@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Portion
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - part, share, serving
+
+
+## 🗂️ Flashcard
+Portion::Phần, khẩu phần ăn *(Phát âm: /ˈpɔː.ʃən/)* ![[portion.mp3]]<br><br>👪 **Word Family:** [Noun]: portion, [Verb]: portion, [Adj]: portioned<br><br>💬 **Ví dụ:** A portion of the profits was donated to charity.<br>*(-> Một phần lợi nhuận đã được quyên góp cho tổ chức từ thiện.)*

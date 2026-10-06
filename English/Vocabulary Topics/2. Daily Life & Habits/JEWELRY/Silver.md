@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Silver
 *noun*
 > /ˈsɪl.vər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Silver::Bạc *(Phát âm: /ˈsɪl.vər/)* ![[silver.mp3]]<br><br>👪 **Word Family:** Silvery<br><br>💬 **Ví dụ:** She likes silver jewelry.<br>*(-> Cô ấy thích trang sức bạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A grayish-white precious metal.

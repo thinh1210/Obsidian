@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Pay
 *v*
 > /peɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Pay::Trả tiền *(Phát âm: /peɪ/)* ![[pay.mp3]]<br><br>👪 **Word Family:** Payment<br><br>💬 **Ví dụ:** I will pay.<br>*(-> Tôi sẽ trả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give money for something

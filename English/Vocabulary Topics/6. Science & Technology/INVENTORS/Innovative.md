@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # innovative
 *adj.*
 > /ˈɪn.ə.və.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Innovative::Mang tính đổi mới, sáng tạo *(Phát âm: /ˈɪn.ə.və.tɪv/)* ![[innovative.mp3]]<br><br>👪 **Word Family:** innovate (v), innovation (n), innovator (n)<br><br>💬 **Ví dụ:** The young architect won an award for her innovative design.<br>*(-> Kiến trúc sư trẻ đã giành giải thưởng cho thiết kế sáng tạo của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Using new methods or ideas; creative

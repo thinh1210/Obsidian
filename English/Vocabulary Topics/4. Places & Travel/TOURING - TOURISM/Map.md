@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Map
 *Noun*
 > /mæp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Lưu trú, Dẫn đường & Cẩm nang
+
+## 🗂️ Flashcard
+Map::Bản đồ *(Phát âm: /mæp/)* ![[map.mp3]]<br><br>👪 **Word Family:** mapper (n), mapping (n)<br><br>💬 **Ví dụ:** I need a map to find the restaurant.<br>*(-> Tôi cần một bản đồ để tìm nhà hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A drawing of the earth's surface, or part of that surface.

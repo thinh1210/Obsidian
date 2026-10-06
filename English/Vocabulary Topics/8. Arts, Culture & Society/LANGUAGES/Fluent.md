@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Fluent
 *adj.*
 > /ˈfluːənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Fluent::Trôi chảy, lưu loát *(Phát âm: /ˈfluːənt/)* ![[fluent.mp3]]<br><br>👪 **Word Family:** fluency, fluently<br><br>💬 **Ví dụ:** She is fluent in French.<br>*(-> Cô ấy nói trôi chảy tiếng Pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to express oneself easily and articulately in a foreign language

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Alliance
 *noun*
 > /əˈlaɪ.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Alliance::Liên minh, đồng minh *(Phát âm: /əˈlaɪ.əns/)* ![[alliance.mp3]]<br><br>👪 **Word Family:** ally (noun/verb), allied (adj)<br><br>💬 **Ví dụ:** The two tech companies formed a strategic alliance to develop new software.<br>*(-> Hai công ty công nghệ đã thành lập một liên minh chiến lược để phát triển phần mềm mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A union or association formed for mutual benefit, especially between countries or organizations.

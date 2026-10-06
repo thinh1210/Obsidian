@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Segment
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - section, part, division
+
+
+## 🗂️ Flashcard
+Segment::Phân khúc, đoạn, phần *(Phát âm: /ˈseɡ.mənt/)* ![[segment.mp3]]<br><br>👪 **Word Family:** [Noun]: segment, segmentation, [Verb]: segment, [Adj]: segmental<br><br>💬 **Ví dụ:** The orange is divided into segments.<br>*(-> Quả cam được chia thành các múi (phần).)*

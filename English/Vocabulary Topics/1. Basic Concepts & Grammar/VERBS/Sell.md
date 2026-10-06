@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Sell
 *Verb*
 > /sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Sell::Bán *(Phát âm: /sel/)* ![[sell.mp3]]<br><br>👪 **Word Family:** Seller (n)<br><br>💬 **Ví dụ:** I sell books.<br>*(-> Tôi bán sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something to someone else in return for money.

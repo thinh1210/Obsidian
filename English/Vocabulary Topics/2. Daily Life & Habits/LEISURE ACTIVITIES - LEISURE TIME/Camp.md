@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Camp
 *v*
 > /kæmp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Camp::Cắm trại *(Phát âm: /kæmp/)* ![[camp.mp3]]<br><br>👪 **Word Family:** Camper (n), Camping (n)<br><br>💬 **Ví dụ:** We camp in the mountains every summer.<br>*(-> Chúng tôi cắm trại trên núi mỗi mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Live for a time in a tent, especially while on holiday.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Music
 *n.*
 > /ˈmjuːzɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Music::Âm nhạc *(Phát âm: /ˈmjuːzɪk/)* ![[music.mp3]]<br><br>👪 **Word Family:** musical, musician<br><br>💬 **Ví dụ:** The music in that scene made me cry.<br>*(-> Âm nhạc trong cảnh phim đó đã làm tôi khóc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony, and expression of emotion

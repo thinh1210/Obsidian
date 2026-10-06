@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Diaspora
 *Noun*
 > /daɪˈæspərə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Diaspora::Sự di cư tản mác, cộng đồng di cư *(Phát âm: /daɪˈæspərə/)* ![[diaspora.mp3]]<br><br>👪 **Word Family:** Diasporic<br><br>💬 **Ví dụ:** The Vietnamese diaspora is large in the US.<br>*(-> Cộng đồng người Việt tản cư ở Mỹ rất lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The dispersion of any people from their original homeland.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Cosmopolitan
 *Adjective*
 > /ˌkɑːzməˈpɑːlɪtən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
+
+## 🗂️ Flashcard
+Cosmopolitan::Thuộc toàn thế giới, đa quốc gia *(Phát âm: /ˌkɑːzməˈpɑːlɪtən/)* ![[cosmopolitan.mp3]]<br><br>👪 **Word Family:** Cosmopolitanism<br><br>💬 **Ví dụ:** London is a very cosmopolitan city.<br>*(-> London là một thành phố rất quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Including or containing people from many different countries.

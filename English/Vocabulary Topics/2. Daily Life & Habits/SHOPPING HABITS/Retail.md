@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Retail
 *n*
 > /ˈriː.teɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Retail::Bán lẻ *(Phát âm: /ˈriː.teɪl/)* ![[retail.mp3]]<br><br>👪 **Word Family:** Retailer<br><br>💬 **Ví dụ:** I work in retail.<br>*(-> Tôi làm trong ngành bán lẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Selling goods to the public

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Pioneer
 *n.*
 > /ˌpaɪəˈnɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Pioneer::Người tiên phong *(Phát âm: /ˌpaɪəˈnɪə(r)/)* ![[pioneer.mp3]]<br><br>👪 **Word Family:** pioneer (v), pioneering<br><br>💬 **Ví dụ:** Space exploration requires pioneers willing to take risks.<br>*(-> Khám phá không gian đòi hỏi những người tiên phong sẵn sàng chấp nhận rủi ro.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is among the first to explore or settle a new country or area

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Rubber
 *noun.*
 > /ˈrʌbə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Rubber::Cao su *(Phát âm: /ˈrʌbə(r)/)* ![[rubber.mp3]]<br><br>👪 **Word Family:** rubbery (Adjective), rubberize (Verb)<br><br>💬 **Ví dụ:** He held the stack of papers together with a rubber band.<br>*(-> Anh ấy giữ tập giấy lại với nhau bằng một sợi dây chun.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tough elastic polymeric substance made from the latex of a tropical plant or synthetically.

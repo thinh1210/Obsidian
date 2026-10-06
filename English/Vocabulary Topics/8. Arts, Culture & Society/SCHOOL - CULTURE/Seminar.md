@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Seminar
 *noun*
 > /ˈsemɪnɑː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Seminar::Hội thảo chuyên đề, buổi thảo luận học thuật *(Phát âm: /ˈsemɪnɑː(r)/)* ![[seminar.mp3]]<br><br>👪 **Word Family:** seminary (n)<br><br>💬 **Ví dụ:** I attended a seminar on modern teaching methods yesterday.<br>*(-> Tôi đã tham dự một buổi hội thảo về các phương pháp giảng dạy hiện đại ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A meeting for discussion or training, especially in a university.

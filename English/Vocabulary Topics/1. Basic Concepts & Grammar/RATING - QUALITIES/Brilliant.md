@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Brilliant
 *adj*
 > /ˈbrɪl.i.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Brilliant::Sáng dạ, xuất sắc *(Phát âm: /ˈbrɪl.i.ənt/)* ![[brilliant.mp3]]<br><br>👪 **Word Family:** Brilliance (noun), Brilliantly (adv)<br><br>💬 **Ví dụ:** What a brilliant idea!<br>*(-> Thật là một ý tưởng tuyệt vời!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exceptionally clever or talented.

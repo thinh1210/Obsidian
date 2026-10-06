@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Immune
 *adj*
 > /ɪˈmjuːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Immune::Miễn dịch, được miễn dịch *(Phát âm: /ɪˈmjuːn/)* ![[immune.mp3]]<br><br>👪 **Word Family:** immunity (n), immunize (v), immunization (n)<br><br>💬 **Ví dụ:** Garlic is believed to boost the immune system.<br>*(-> Tỏi được tin là giúp tăng cường hệ miễn dịch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Resistant to a particular infection or toxin owing to the presence of specific antibodies.

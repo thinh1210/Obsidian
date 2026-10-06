@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Perpendicular
 *adj.*
 > /ˌpɜː.pənˈdɪk.jə.lər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Perpendicular::Vuông góc *(Phát âm: /ˌpɜː.pənˈdɪk.jə.lər/)* ![[perpendicular.mp3]]<br><br>👪 **Word Family:** Perpendicularity (n)<br><br>💬 **Ví dụ:** The pole is perpendicular to the ground.<br>*(-> Cái cột vuông góc với mặt đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** At an angle of 90° to a given line, plane, or surface.

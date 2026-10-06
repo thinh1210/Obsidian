@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Daytime
 *n., adj.*
 > /ˈdeɪ.taɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Daytime::Ban ngày, khoảng thời gian từ sáng sớm đến lúc mặt trời lặn *(Phát âm: /ˈdeɪ.taɪm/)* ![[daytime.mp3]]<br><br>👪 **Word Family:** day (n), daily (adj/adv)<br><br>💬 **Ví dụ:** Owls usually sleep during the daytime and hunt for prey at night.<br>*(-> Cú mèo thường ngủ vào ban ngày và đi săn mồi vào ban đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of the day between sunrise and sunset when it is light outside.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Mens Rea
 *noun*
 > /ˌmenz ˈriːə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Mens_Rea::Ý thức phạm tội; yếu tố tâm lý của tội phạm *(Phát âm: /ˌmenz ˈriːə/)* ![[mens_rea.mp3]]<br><br>👪 **Word Family:** actus reus (paired term), criminal intent (n)<br><br>💬 **Ví dụ:** The prosecution had to prove mens rea to secure a conviction.<br>*(-> Bên công tố phải chứng minh ý thức phạm tội để đảm bảo kết án.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The intention or knowledge of wrongdoing that constitutes a key element in proving criminal liability

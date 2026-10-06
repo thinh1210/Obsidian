@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Jeans
 *noun*
 > /dʒiːnz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Jeans::Quần bò, quần jean *(Phát âm: /dʒiːnz/)* ![[jeans.mp3]]<br><br>👪 **Word Family:** jean (n)<br><br>💬 **Ví dụ:** I wear jeans every day.<br>*(-> Tôi mặc quần jean mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Trousers made of denim.

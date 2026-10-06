@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Phishing
 *noun*
 > /ˈfɪʃ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
+
+## 🗂️ Flashcard
+Phishing::Lừa đảo trực tuyến (giả mạo để đánh cắp thông tin) *(Phát âm: /ˈfɪʃ.ɪŋ/)* ![[phishing.mp3]]<br><br>👪 **Word Family:** phishing (n), phish (v), phisher (n)<br><br>💬 **Ví dụ:** She almost fell for a phishing email that looked like it came from her bank.<br>*(-> Cô ấy suýt bị lừa bởi một email lừa đảo trông như thể đến từ ngân hàng của cô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of online fraud where attackers deceive people into revealing personal information by pretending to be trustworthy entities.

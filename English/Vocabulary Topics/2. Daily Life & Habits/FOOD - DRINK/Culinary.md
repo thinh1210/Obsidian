@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Culinary
 *adj.*
 > /ˈkʌl.ɪ.nər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Culinary::Thuộc về nấu nướng *(Phát âm: /ˈkʌl.ɪ.nər.i/)* ![[culinary.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She has great culinary skills.<br>*(-> Cô ấy có kỹ năng nấu nướng tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or for cooking.

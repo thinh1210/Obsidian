@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Demographics
 *Noun*
 > /ˌdeməˈɡræfɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Demographics::Nhân khẩu học *(Phát âm: /ˌdeməˈɡræfɪks/)* ![[demographics.mp3]]<br><br>👪 **Word Family:** Demographic, Demography<br><br>💬 **Ví dụ:** The demographics of the city have changed rapidly.<br>*(-> Nhân khẩu học của thành phố đã thay đổi nhanh chóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Statistical data relating to the population and particular groups within it.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Dawn
 *n., v.*
 > /dɔːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Dawn::Bình minh, rạng đông; sự khởi đầu, ló rạng (của một thời kỳ, ý tưởng) *(Phát âm: /dɔːn/)* ![[dawn.mp3]]<br><br>👪 **Word Family:** dawning (n)<br><br>💬 **Ví dụ:** The fishermen set sail at the crack of dawn while the sea was completely calm.<br>*(-> Những người ngư dân ra khơi vào lúc tờ mờ sáng khi mặt biển còn hoàn toàn tĩnh lặng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The first light of day in the morning, when the sun starts to rise; the beginning of something.

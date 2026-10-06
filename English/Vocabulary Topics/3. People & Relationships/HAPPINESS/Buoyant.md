@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Buoyant
 *adj.*
 > /ˈbɔɪ.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Buoyant::Sôi nổi, lạc quan; có sức bật *(Phát âm: /ˈbɔɪ.ənt/)* ![[buoyant.mp3]]<br><br>👪 **Word Family:** Buoyancy (n)<br><br>💬 **Ví dụ:** The stock market is buoyant.<br>*(-> Thị trường chứng khoán đang rất sôi động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful and optimistic; able to stay afloat.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Chair
 *n.*
 > /tʃeər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Chair::Vật dụng có mặt tựa và chân dùng cho một người ngồi *(Phát âm: /tʃeər/)* ![[chair.mp3]]<br><br>👪 **Word Family:** chairperson (n), chairmanship (n)<br><br>💬 **Ví dụ:** Take a chair and make yourself comfortable.<br>*(-> Hãy kéo ghế ngồi và cứ tự nhiên như ở nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A separate seat for one person, typically with a back and four legs.

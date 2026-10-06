@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Entomology
 *noun*
 > /ˌentəˈmɒlədži/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Entomology::Côn trùng học *(Phát âm: /ˌentəˈmɒlədži/)* ![[entomology.mp3]]<br><br>👪 **Word Family:** entomologist, entomological<br><br>💬 **Ví dụ:** Entomology helps us understand the ecological role of bees.<br>*(-> Côn trùng học giúp chúng ta hiểu vai trò sinh thái của loài ong.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of insects.

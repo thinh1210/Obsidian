@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Independence
 *Noun*
 > /ˌɪndɪˈpendəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Independence::Sự độc lập *(Phát âm: /ˌɪndɪˈpendəns/)* ![[independence.mp3]]<br><br>👪 **Word Family:** Independent<br><br>💬 **Ví dụ:** The country gained its independence in 1945.<br>*(-> Đất nước giành được độc lập vào năm 1945.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or state of being independent.

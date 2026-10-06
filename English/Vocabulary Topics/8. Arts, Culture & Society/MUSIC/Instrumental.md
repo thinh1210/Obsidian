@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Instrumental
 *adj.*
 > /ˌɪn.strəˈmen.təl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Instrumental::Không lời (nhạc), thuộc về nhạc cụ; đóng vai trò quan trọng *(Phát âm: /ˌɪn.strəˈmen.təl/)* ![[instrumental.mp3]]<br><br>👪 **Word Family:** instrument (n), instrumentally (adv)<br><br>💬 **Ví dụ:** I prefer listening to instrumental music while studying because it helps me focus.<br>*(-> Tôi thích nghe nhạc không lời khi học bài vì nó giúp tôi tập trung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Performed on instruments, with no singing; serving as a means of pursuing an aim.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Visionary
 *n.*
 > /ˈvɪʒ.ən.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Visionary::Người nhìn xa trông rộng *(Phát âm: /ˈvɪʒ.ən.ər.i/)* ![[visionary.mp3]]<br><br>👪 **Word Family:** Vision<br><br>💬 **Ví dụ:** Steve Jobs was a visionary.<br>*(-> Steve Jobs là một người có tầm nhìn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person with original ideas about what the future will or could be like.

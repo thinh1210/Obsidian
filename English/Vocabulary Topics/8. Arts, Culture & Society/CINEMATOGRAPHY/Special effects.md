@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Special effects
 *n.*
 > /ˌspeʃl ɪˈfekts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Special effects::Hiệu ứng đặc biệt, kỹ xảo điện ảnh *(Phát âm: /ˌspeʃl ɪˈfekts/)* ![[special_effects.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The special effects in Avatar were groundbreaking.<br>*(-> Kỹ xảo điện ảnh trong phim Avatar mang tính đột phá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Illusions or visual tricks used in the theatre, film, television, video game, and simulator industries to simulate imagined events

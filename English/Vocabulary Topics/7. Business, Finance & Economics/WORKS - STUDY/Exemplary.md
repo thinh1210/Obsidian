@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Exemplary
 *adj.*
 > /ɪɡˈzem.plər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Exemplary::Gương mẫu, mẫu mực, đáng noi theo *(Phát âm: /ɪɡˈzem.plər.i/)* ![[exemplary.mp3]]<br><br>👪 **Word Family:** exemplar, exemplify<br><br>💬 **Ví dụ:** His exemplary conduct won him the school's award.<br>*(-> Hạnh kiểm gương mẫu của cậu ấy đã giúp cậu ấy đạt giải thưởng của trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Serving as a desirable model; representing the best of its kind

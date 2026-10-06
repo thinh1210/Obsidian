@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Involve
 *Verb*
 > /ɪnˈvɒlv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Involve::Bao gồm, liên quan đến *(Phát âm: /ɪnˈvɒlv/)* ![[involve.mp3]]<br><br>👪 **Word Family:** Involvement (n), Involved (adj)<br><br>💬 **Ví dụ:** It involves risk.<br>*(-> Nó bao gồm rủi ro.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To include someone or something in an activity.

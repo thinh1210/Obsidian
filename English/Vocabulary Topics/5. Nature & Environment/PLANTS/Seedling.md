@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Seedling
 *noun*
 > /ˈsiːdlɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Seedling::Cây con mọc từ hạt *(Phát âm: /ˈsiːdlɪŋ/)* ![[seedling.mp3]]<br><br>👪 **Word Family:** Noun: seed (hạt), seedling (cây non từ hạt)<br><br>💬 **Ví dụ:** Keep the soil moist until the seedlings emerge.<br>*(-> Giữ cho đất ẩm cho đến khi các cây con nhú lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A young plant, especially one raised from seed and not from a cutting.

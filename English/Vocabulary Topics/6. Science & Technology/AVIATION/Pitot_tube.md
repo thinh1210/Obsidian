@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Pitot tube
 *noun phrase*
 > /ˈpiː.tɒ tjuːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Pitot_tube::Ống pitot (đo tốc độ không khí) *(Phát âm: /ˈpiː.tɒ tjuːb/)* ![[pitot_tube.mp3]]<br><br>👪 **Word Family:** airspeed indicator (n), static port (n), dynamic pressure (n)<br><br>💬 **Ví dụ:** The pitot tube must be free of ice to provide accurate airspeed readings.<br>*(-> Ống pitot phải không bị đóng băng để cung cấp số liệu tốc độ không khí chính xác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pressure-measuring instrument used to determine an aircraft's airspeed by measuring the dynamic pressure of the air.

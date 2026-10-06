@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Independence
 *noun*
 > /ˌɪn.dɪˈpen.dəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Independence::Sự độc lập, nền độc lập *(Phát âm: /ˌɪn.dɪˈpen.dəns/)* ![[independence.mp3]]<br><br>👪 **Word Family:** independent (adj), independently (adv), depend (verb)<br><br>💬 **Ví dụ:** Moving out of his parents' house gave him a sense of independence.<br>*(-> Việc chuyển ra khỏi nhà bố mẹ đẻ đã mang lại cho anh ta cảm giác độc lập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or state of being independent; freedom from outside control.

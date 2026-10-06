@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Antagonist
 *noun*
 > /ænˈtæɡ.ən.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Antagonist::Nhân vật phản diện, kẻ đối đầu *(Phát âm: /ænˈtæɡ.ən.ɪst/)* ![[antagonist.mp3]]<br><br>👪 **Word Family:** antagonistic (adj), antagonize (v), antagonism (n)<br><br>💬 **Ví dụ:** In the superhero story, the Joker is the primary antagonist.<br>*(-> Trong câu chuyện siêu anh hùng, Joker là nhân vật phản diện chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who actively opposes or is hostile to the protagonist; an adversary.

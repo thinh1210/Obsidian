@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Commute
 *verb*
 > /kəˈmjuːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Commute::Đi lại (thường xuyên) *(Phát âm: /kəˈmjuːt/)* ![[commute.mp3]]<br><br>👪 **Word Family:** Commuter (Noun): Người đi làm thường xuyên, Commuting (Noun/Gerund): Việc đi lại hàng ngày<br><br>💬 **Ví dụ:** I commute by train.<br>*(-> Tôi đi làm bằng tàu hỏa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make the same journey regularly

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Subtitle
 *n.*
 > /ˈsʌbtaɪtl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Subtitle::Phụ đề *(Phát âm: /ˈsʌbtaɪtl/)* ![[subtitle.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I watch foreign movies with English subtitles.<br>*(-> Tôi xem phim nước ngoài với phụ đề tiếng Anh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Captions displayed at the bottom of a movie or television screen that translate or transcribe the dialogue.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Resonance
 *n.*
 > /ˈrez.ən.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Resonance::Độ vang, sự cộng hưởng (âm thanh, cảm xúc) *(Phát âm: /ˈrez.ən.əns/)* ![[resonance.mp3]]<br><br>👪 **Word Family:** resonate (v), resonant (adj)<br><br>💬 **Ví dụ:** The wooden walls of the concert hall give the music great resonance.<br>*(-> Những bức tường gỗ của phòng hòa nhạc tạo ra độ vang lớn cho âm nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality in a sound of being deep, full, and reverberating; the power to evoke images, memories, and emotions.

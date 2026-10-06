@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Generation
 *n.*
 > /ˌdʒen.əˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Generation::Thế hệ *(Phát âm: /ˌdʒen.əˈreɪ.ʃən/)* ![[generation.mp3]]<br><br>👪 **Word Family:** Generational<br><br>💬 **Ví dụ:** My generation loves technology.<br>*(-> Thế hệ của tôi yêu thích công nghệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All of the people born and living at about the same time.

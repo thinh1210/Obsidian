@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Offense
 *noun*
 > /əˈfens/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Offense::Sự vi phạm, hành vi phạm tội *(Phát âm: /əˈfens/)* ![[offense.mp3]]<br><br>👪 **Word Family:** Offense (n), Offend (v), Offender (n), Offensive (adj)<br><br>💬 **Ví dụ:** Driving without a seatbelt is a minor traffic offense in many states.<br>*(-> Lái xe không thắt dây an toàn là một vi phạm giao thông nhỏ ở nhiều bang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A breach of a law or rule; an illegal act.

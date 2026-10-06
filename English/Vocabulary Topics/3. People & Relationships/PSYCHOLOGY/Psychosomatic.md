@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Psychosomatic
 *adj*
 > /ˌsaɪ.koʊ.səˈmæt̬.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Psychosomatic::Thuộc tâm thể *(Phát âm: /ˌsaɪ.koʊ.səˈmæt̬.ɪk/)* ![[psychosomatic.mp3]]<br><br>👪 **Word Family:** psychosomatics (noun)<br><br>💬 **Ví dụ:** Her stomach pain was psychosomatic.<br>*(-> Cơn đau dạ dày của cô ấy là do tâm thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Caused or aggravated by a mental factor such as internal conflict or stress.

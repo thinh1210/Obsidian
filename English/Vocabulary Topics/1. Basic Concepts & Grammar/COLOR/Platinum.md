@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Platinum
 *adj., n.*
 > /ˈplæt.ɪ.nəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Platinum::Màu bạch kim, màu trắng bạc ánh kim quý phái và bền bỉ *(Phát âm: /ˈplæt.ɪ.nəm/)* ![[platinum.mp3]]<br><br>👪 **Word Family:** platinum (n)<br><br>💬 **Ví dụ:** They exchanged durable platinum wedding bands that will never tarnish over decades.<br>*(-> Họ trao nhau đôi nhẫn cưới bạch kim bền bỉ sẽ không bao giờ hoen ố qua năm tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious silvery-white metallic color, resembling the valuable precious metal platinum.

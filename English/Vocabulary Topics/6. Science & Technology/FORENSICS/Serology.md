@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Serology
 *noun*
 > /sɪˈrɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Serology::Huyết thanh học – khoa học nghiên cứu và phân tích huyết thanh máu phục vụ pháp y *(Phát âm: /sɪˈrɒl.ə.dʒi/)* ![[serology.mp3]]<br><br>👪 **Word Family:** serologist (n), serological (adj)<br><br>💬 **Ví dụ:** Blood type can be determined through serology.<br>*(-> Nhóm máu có thể được xác định thông qua huyết thanh học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study and diagnostic examination of blood serum, especially for immune reactions and identification.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Prevent
 *Verb*
 > /prɪˈvent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Prevent::Ngăn chặn *(Phát âm: /prɪˈvent/)* ![[prevent.mp3]]<br><br>👪 **Word Family:** Prevention (n), Preventive (adj)<br><br>💬 **Ví dụ:** Lock the door to prevent theft.<br>*(-> Khóa cửa để chống trộm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To stop something from happening or someone from doing something.

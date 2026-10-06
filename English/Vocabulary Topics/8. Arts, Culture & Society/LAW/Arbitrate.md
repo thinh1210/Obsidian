@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Arbitrate
 *verb*
 > /ˈɑː.bɪ.treɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Arbitrate::Trọng tài, đứng ra phân xử (bằng trọng tài thương mại/pháp lý) *(Phát âm: /ˈɑː.bɪ.treɪt/)* ![[arbitrate.mp3]]<br><br>👪 **Word Family:** Arbitrate (v), Arbitration (n), Arbitrator (n), Arbitrary (adj)<br><br>💬 **Ví dụ:** An independent panel was chosen to arbitrate the contract dispute between the union and the company.<br>*(-> Một hội đồng độc lập đã được chọn để phân xử tranh chấp hợp đồng giữa công đoàn và công ty.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Act as an arbitrator or referee to settle a dispute.

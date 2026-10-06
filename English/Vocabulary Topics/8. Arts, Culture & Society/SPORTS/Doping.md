@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Doping
 *n.*
 > /ˈdəʊ.pɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Doping::Sử dụng chất kích thích (trong thể thao) *(Phát âm: /ˈdəʊ.pɪŋ/)* ![[doping.mp3]]<br><br>👪 **Word Family:** dope, doped, doper<br><br>💬 **Ví dụ:** The cyclist was banned for life following a doping scandal.<br>*(-> Vận động viên xe đạp đã bị cấm thi đấu trọn đời sau một vụ bê bối sử dụng chất kích thích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The administration of drugs or other substances to a competitor to inhibit or accelerate physical performance.

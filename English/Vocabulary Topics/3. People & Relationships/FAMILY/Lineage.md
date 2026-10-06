@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Lineage
 *noun*
 > /ˈlɪn.i.ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Lineage::Dòng dõi *(Phát âm: /ˈlɪn.i.ɪdʒ/)* ![[lineage.mp3]]<br><br>👪 **Word Family:** lineal (adj)<br><br>💬 **Ví dụ:** He is of noble lineage.<br>*(-> Anh ấy thuộc dòng dõi quý tộc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The members of a person's family who are directly related to that person and who lived a long time before him or her.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # experiment
 *n.*
 > /ɪkˈsper.ɪ.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Experiment::Thí nghiệm, cuộc thử nghiệm *(Phát âm: /ɪkˈsper.ɪ.mənt/)* ![[experiment.mp3]]<br><br>👪 **Word Family:** experimental (adj), experiment (v), experimentation (n)<br><br>💬 **Ví dụ:** We performed a chemistry experiment in school today.<br>*(-> Hôm nay chúng tôi đã thực hiện một thí nghiệm hóa học ở trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A scientific test that is done in order to study what happens and to gain new knowledge

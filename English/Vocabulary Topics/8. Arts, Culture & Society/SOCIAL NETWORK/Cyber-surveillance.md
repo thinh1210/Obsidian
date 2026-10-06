@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Cyber-surveillance
 *noun*
 > /ˌsaɪbə səˈveɪləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
+
+## 🗂️ Flashcard
+Cyber-surveillance::Sự giám sát trên không gian mạng *(Phát âm: /ˌsaɪbə səˈveɪləns/)* ![[cyber_surveillance.mp3]]<br><br>👪 **Word Family:** survey (v/n), surveillance (n)<br><br>💬 **Ví dụ:** I value my privacy, so I use encrypted apps to avoid cyber-surveillance.<br>*(-> Tôi coi trọng sự riêng tư của mình, vì vậy tôi sử dụng các ứng dụng mã hóa để tránh sự giám sát trên không gian mạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The monitoring of computer activity and data stored on a hard drive or sent over social networks

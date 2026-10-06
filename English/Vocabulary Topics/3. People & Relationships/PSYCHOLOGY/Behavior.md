@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Behavior
 *noun*
 > /bɪˈheɪ.vjɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Behavior::Hành vi, cách cư xử *(Phát âm: /bɪˈheɪ.vjɚ/)* ![[behavior.mp3]]<br><br>👪 **Word Family:** behave (verb)<br><br>💬 **Ví dụ:** His behavior was unacceptable.<br>*(-> Hành vi của anh ta không thể chấp nhận được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The way in which one acts or conducts oneself.

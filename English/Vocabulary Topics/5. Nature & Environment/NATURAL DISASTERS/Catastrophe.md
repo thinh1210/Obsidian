@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Catastrophe
 *noun*
 > /kəˈtæs.trə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Catastrophe::Thảm họa khủng khiếp, tai họa lớn *(Phát âm: /kəˈtæs.trə.fi/)* ![[catastrophe.mp3]]<br><br>👪 **Word Family:** catastrophic (adj), catastrophically (adv)<br><br>💬 **Ví dụ:** The collapse of the dam was an environmental catastrophe.<br>*(-> Sự đổ sập của con đập là một thảm họa môi trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden event that causes very great trouble or destruction.

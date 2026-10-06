@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Crowded
 *adj.*
 > /ˈkraʊdɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Crowded::Có rất đông người tụ tập khiến không gian trở nên chật chội *(Phát âm: /ˈkraʊdɪd/)* ![[crowded.mp3]]<br><br>👪 **Word Family:** crowd (n/v), overcrowd (v)<br><br>💬 **Ví dụ:** The metro station is extremely crowded during rush hours.<br>*(-> Ga tàu điện ngầm cực kỳ đông đúc vào giờ cao điểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Full of people, leaving little or no room for movement.

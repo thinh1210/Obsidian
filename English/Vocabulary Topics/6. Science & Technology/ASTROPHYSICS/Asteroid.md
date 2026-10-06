@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Asteroid
 *noun*
 > /ˈæs.tə.rɔɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Asteroid::Tiểu hành tinh *(Phát âm: /ˈæs.tə.rɔɪd/)* ![[asteroid.mp3]]<br><br>👪 **Word Family:** asteroidal (adj)<br><br>💬 **Ví dụ:** Astronomers are tracking a large asteroid near Earth.<br>*(-> Các nhà thiên văn học đang theo dõi một tiểu hành tinh lớn gần Trái Đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small rocky body orbiting the sun.

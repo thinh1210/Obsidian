@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Mitigation
 *n.*
 > /ˌmɪtɪˈɡeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Mitigation::Sự giảm thiểu, giảm nhẹ *(Phát âm: /ˌmɪtɪˈɡeɪʃn/)* ![[mitigation.mp3]]<br><br>👪 **Word Family:** mitigate (v), mitigative (adj)<br><br>💬 **Ví dụ:** Climate change mitigation requires international cooperation.<br>*(-> Giảm thiểu biến đổi khí hậu đòi hỏi sự hợp tác quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of reducing the severity, seriousness, or painfulness of something.

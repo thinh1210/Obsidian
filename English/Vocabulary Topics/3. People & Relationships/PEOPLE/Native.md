@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Native
 *n.*
 > /ˈneɪ.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Native::Người bản xứ, dân gốc sinh ra và lớn lên ở một vùng đất *(Phát âm: /ˈneɪ.tɪv/)* ![[native.mp3]]<br><br>👪 **Word Family:** nativity (n), nationally (adv)<br><br>💬 **Ví dụ:** As a native of Da Nang, he knew every hidden seafood stall and picturesque alleyway.<br>*(-> Là người gốc Đà Nẵng, anh biết từng quán hải sản ẩn mình và từng ngõ nhỏ nên thơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who was born in a particular place.

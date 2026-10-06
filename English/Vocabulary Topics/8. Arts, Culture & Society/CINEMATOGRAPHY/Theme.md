@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Theme
 *n.*
 > /θiːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Theme::Chủ đề, thông điệp chủ đạo *(Phát âm: /θiːm/)* ![[theme.mp3]]<br><br>👪 **Word Family:** thematic, thematically<br><br>💬 **Ví dụ:** The central theme of the movie is redemption.<br>*(-> Chủ đề trung tâm của bộ phim là sự cứu rỗi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An idea that recurs in or pervades a work of art or literature

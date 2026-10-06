@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Diurnal
 *adjective*
 > /daɪˈɜː.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Diurnal::Hoạt động ban ngày *(Phát âm: /daɪˈɜː.nəl/)* ![[diurnal.mp3]]<br><br>👪 **Word Family:** diurnal (adj), diurnally (adv)<br><br>💬 **Ví dụ:** Most birds are diurnal, sleeping through the night.<br>*(-> Hầu hết các loài chim hoạt động vào ban ngày, ngủ suốt đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Active, done, or happening during the day.

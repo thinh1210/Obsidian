@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Gate
 *n.*
 > /ɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Gate::Cổng *(Phát âm: /ɡeɪt/)* ![[gate.mp3]]<br><br>👪 **Word Family:** gateway<br><br>💬 **Ví dụ:** Please close the garden gate so the dog doesn't get out.<br>*(-> Làm ơn đóng cổng vườn lại để chó không chạy ra ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A barrier like a door that is used to close an opening in a fence or wall

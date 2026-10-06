@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Periodically
 *adv.*
 > /ˌpɪə.riˈɒd.ɪ.kəl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Periodically::Một cách có định kỳ, lặp lại theo những chu kỳ thời gian nhất định *(Phát âm: /ˌpɪə.riˈɒd.ɪ.kəl.i/)* ![[periodically.mp3]]<br><br>👪 **Word Family:** period (n), periodic (adj), periodical (n)<br><br>💬 **Ví dụ:** It is smart practice to back up your computer files periodically to an external drive.<br>*(-> Thật khôn ngoan khi định kỳ sao lưu dữ liệu máy tính của bạn sang một ổ cứng ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** At regular intervals of time; from time to time.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Shares
 *n.*
 > /ʃeəz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Shares::Cổ phần, cổ phiếu đại diện cho phần vốn sở hữu trong công ty cổ phần *(Phát âm: /ʃeəz/)* ![[shares.mp3]]<br><br>👪 **Word Family:** share (v/n), shareholder (n)<br><br>💬 **Ví dụ:** She bought two hundred shares of the renewable energy company right after its initial public offering.<br>*(-> Cô ấy đã mua hai trăm cổ phiếu của công ty năng lượng tái tạo ngay sau đợt chào bán công khai lần đầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits.

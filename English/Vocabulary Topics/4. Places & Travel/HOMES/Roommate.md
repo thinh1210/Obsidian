@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Roommate
 *n.*
 > /ˈruːmmeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Roommate::Người ở ghép chung phòng hoặc chung căn hộ để chia sẻ chi phí *(Phát âm: /ˈruːmmeɪt/)* ![[roommate.mp3]]<br><br>👪 **Word Family:** flatmate (n), housemate (n)<br><br>💬 **Ví dụ:** Living with a reliable roommate cuts living expenses in half.<br>*(-> Ở chung với một người bạn cùng phòng đáng tin cậy giúp giảm một nửa chi phí sinh hoạt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person with whom one shares a room, apartment, or house.

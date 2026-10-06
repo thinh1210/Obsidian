@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Determinism
 *n.*
 > /dɪˈtɜː.mɪ.nɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Thuyết tất định, Nhị nguyên luận & Mục đích luận
+
+## 🗂️ Flashcard
+Determinism::Thuyết quyết định *(Phát âm: /dɪˈtɜː.mɪ.nɪ.zəm/)* ![[determinism.mp3]]<br><br>👪 **Word Family:** determine, deterministic, determinist<br><br>💬 **Ví dụ:** Believing in fate is somewhat similar to holding a belief in determinism.<br>*(-> Tin vào số phận có phần tương tự như việc giữ niềm tin vào thuyết quyết định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The doctrine that all events, including human action, are determined by external causes.

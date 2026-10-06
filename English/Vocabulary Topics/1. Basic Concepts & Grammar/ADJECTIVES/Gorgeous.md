@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Gorgeous
 *adj.*
 > /ˈɡɔːdʒəs/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Gorgeous::Tuyệt đẹp *(Phát âm: /ˈɡɔːdʒəs/)* ![[gorgeous.mp3]]<br><br>👪 **Word Family:** gorgeously<br><br>💬 **Ví dụ:** Gorgeous dress.<br>*(-> Váy tuyệt đẹp.)*
+<!--SR:!2026-10-03,1,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Beautiful, very attractive

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Exterior
 *n.*
 > /ɪkˈstɪəriə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Exterior::Ngoại thất, bên ngoài *(Phát âm: /ɪkˈstɪəriə(r)/)* ![[exterior.mp3]]<br><br>👪 **Word Family:** external, exteriorize<br><br>💬 **Ví dụ:** The exterior of the building is covered in glass panels.<br>*(-> Bên ngoài tòa nhà được bao phủ bởi các tấm kính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The outer structure or surface of a building

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Blouse
 *noun*
 > /blaʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Blouse::Áo sơ mi nữ, áo kiểu nữ *(Phát âm: /blaʊs/)* ![[blouse.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She bought a beautiful silk blouse.<br>*(-> Cô ấy đã mua một chiếc áo lụa nữ đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shirt for a woman or girl.

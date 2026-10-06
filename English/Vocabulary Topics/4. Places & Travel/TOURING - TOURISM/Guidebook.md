@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Guidebook
 *Noun*
 > /ˈɡaɪd.bʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Lưu trú, Dẫn đường & Cẩm nang
+
+## 🗂️ Flashcard
+Guidebook::Sách hướng dẫn *(Phát âm: /ˈɡaɪd.bʊk/)* ![[guidebook.mp3]]<br><br>👪 **Word Family:** guide (n)<br><br>💬 **Ví dụ:** I bought a guidebook for our trip to Italy.<br>*(-> Tôi đã mua một cuốn sách hướng dẫn cho chuyến đi Ý của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A book that gives information for visitors about a place, such as a city or country.

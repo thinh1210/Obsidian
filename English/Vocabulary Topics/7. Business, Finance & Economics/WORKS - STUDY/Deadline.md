@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Deadline
 *n.*
 > /ˈded.laɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Deadline::Hạn chót *(Phát âm: /ˈded.laɪn/)* ![[deadline.mp3]]<br><br>👪 **Word Family:** **Synonyms:** limit, cutoff date<br><br>💬 **Ví dụ:** I have to work late to meet a deadline.<br>*(-> Tôi phải làm việc muộn để kịp hạn chót.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The latest time or date by which something should be completed

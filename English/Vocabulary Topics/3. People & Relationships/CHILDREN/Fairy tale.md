@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Fairy tale
 *n.*
 > /ˈfeə.ri ˌteɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Fairy tale::Truyện cổ tích, câu chuyện thần tiên huyền bí nuôi dưỡng trí tưởng tượng trẻ thơ *(Phát âm: /ˈfeə.ri ˌteɪl/)* ![[fairy_tale.mp3]]<br><br>👪 **Word Family:** fairytale (adj)<br><br>💬 **Ví dụ:** Reading classic fairy tales before bedtime sparks boundless creative imagination in youngsters.<br>*(-> Đọc những câu chuyện cổ tích kinh điển trước giờ ngủ khơi gợi trí tưởng tượng sáng tạo vô hạn ở con trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional story written for or told to children about magical and imaginary beings and lands.

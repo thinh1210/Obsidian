@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Ticket
 
 *Noun*
@@ -36,3 +43,7 @@ Cầm chiếc vé (ticket) đi xem xiếc thì thấy vui "tích cực" (ticket)
 
 **Synonyms:**
 - pass, coupon, voucher
+
+
+## 🗂️ Flashcard
+Ticket::Vé (tàu, xe, xem phim) *(Phát âm: /ˈtɪk.ɪt/)* ![[ticket.mp3]]<br><br>👪 **Word Family:** [Noun]: ticket, [Verb]: ticket, [Adj]: ticketed<br><br>💬 **Ví dụ:** I bought two tickets for the concert.<br>*(-> Tôi đã mua hai chiếc vé cho buổi hòa nhạc.)*

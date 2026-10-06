@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Physique
 *n.*
 > /fɪˈziːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Physique::Thể hình, vóc dáng *(Phát âm: /fɪˈziːk/)* ![[physique.mp3]]<br><br>👪 **Word Family:** physical, physically, physician<br><br>💬 **Ví dụ:** He has a muscular physique from years of weightlifting.<br>*(-> Anh ấy có một thể hình vạm vỡ nhờ nhiều năm nâng tạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The form, size, and development of a person's body.

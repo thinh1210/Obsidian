@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Surgical
 *adj*
 > /ˈsɜːdʒɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Surgical::Thuộc phẫu thuật *(Phát âm: /ˈsɜːdʒɪkl/)* ![[surgical.mp3]]<br><br>👪 **Word Family:** surgery (n), surgeon (n), surgically (adv)<br><br>💬 **Ví dụ:** Surgeons must sterilize all surgical instruments before use.<br>*(-> Các bác sĩ phẫu thuật phải khử trùng tất cả các dụng cụ phẫu thuật trước khi sử dụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or used in surgery (medical operations).

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Therapy
 *n*
 > /ˈθerəpi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Therapy::Liệu pháp, sự trị liệu *(Phát âm: /ˈθerəpi/)* ![[therapy.mp3]]<br><br>👪 **Word Family:** therapist (n), therapeutic (adj)<br><br>💬 **Ví dụ:** He goes to physical therapy twice a week for his back injury.<br>*(-> Anh ấy đi vật lý trị liệu hai lần một tuần cho chấn thương lưng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Treatment intended to relieve or heal a disorder.

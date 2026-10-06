@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Wire
 *noun*
 > /ˈwaɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Wire::Dây kim loại, dây điện *(Phát âm: /ˈwaɪə(r)/)* ![[wire.mp3]]<br><br>👪 **Word Family:** wiring (n), wireless (adj)<br><br>💬 **Ví dụ:** Be careful, there is a loose wire hanging from the ceiling.<br>*(-> Cẩn thận, có một sợi dây điện lỏng lẻo đang treo trên trần nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Metal drawn out into the form of a thin flexible thread or rod.

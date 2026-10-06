@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # bolt
 *noun*
 > /bəʊlt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Bolt::bu-lông, chốt cửa, tia sét *(Phát âm: /bəʊlt/)* ![[bolt.mp3]]<br><br>👪 **Word Family:** Noun: bolt (bu-lông, chốt), Verb: bolt (chốt cửa, lao đi nhanh)<br><br>💬 **Ví dụ:** Check that all the nuts and bolts are tight before riding the bike.<br>*(-> Kiểm tra kỹ xem tất cả các đai ốc và bu-lông đã chặt chưa trước khi đạp xe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a threaded pin or rod with a head at one end, designed to be secured with a nut.

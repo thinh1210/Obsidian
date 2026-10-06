@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Viral
 *adjective*
 > /ˈvaɪrəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Viral::Lan truyền mạnh mẽ, phát tán nhanh *(Phát âm: /ˈvaɪrəl/)* ![[viral.mp3]]<br><br>👪 **Word Family:** virus (n), virally (adv)<br><br>💬 **Ví dụ:** The video of the cat playing piano went viral overnight.<br>*(-> Video chú mèo chơi piano đã lan truyền mạnh mẽ chỉ sau một đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Spreading rapidly and widely from one internet user to another

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Multicultural
 *Adjective*
 > /ˌmʌltiˈkʌltʃərəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Multicultural::Đa văn hóa *(Phát âm: /ˌmʌltiˈkʌltʃərəl/)* ![[multicultural.mp3]]<br><br>👪 **Word Family:** Multiculturalism<br><br>💬 **Ví dụ:** London is a very multicultural city.<br>*(-> London là một thành phố rất đa văn hóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or constituting several cultural or ethnic groups within a society.

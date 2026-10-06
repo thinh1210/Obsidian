@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # scissors
 *noun*
 > /ˈsɪz.əz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Scissors::cái kéo *(Phát âm: /ˈsɪz.əz/)* ![[scissors.mp3]]<br><br>👪 **Word Family:** Noun: scissors (cái kéo), Verb: scissor (cắt bằng kéo)<br><br>💬 **Ví dụ:** Use these scissors to cut the wrapping paper.<br>*(-> Hãy dùng cây kéo này để cắt giấy gói quà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an instrument used for cutting cloth, paper, and other thin material, consisting of two blades.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Timetable
 *noun*
 > /ˈtaɪmteɪbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Timetable::Lịch trình, thời khóa biểu *(Phát âm: /ˈtaɪmteɪbl/)* ![[timetable.mp3]]<br><br>👪 **Word Family:** Noun: timetable (lịch trình), Verb: timetable (lên lịch trình)<br><br>💬 **Ví dụ:** Please check the timetable to see when the next train leaves.<br>*(-> Làm ơn kiểm tra lịch trình để xem khi nào chuyến tàu tiếp theo khởi hành.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chart showing the departure and arrival times of trains, buses, or planes.

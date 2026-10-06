@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Grow
 *v.*
 > /ɡrəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Grow::Trồng, mọc, phát triển *(Phát âm: /ɡrəʊ/)* ![[grow.mp3]]<br><br>👪 **Word Family:** growth (n), grower (n), grown (adj)<br><br>💬 **Ví dụ:** We grow tomatoes in our backyard garden.<br>*(-> Chúng tôi trồng cà chua ở sau vườn nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To plant and look after plants or crops as they develop.

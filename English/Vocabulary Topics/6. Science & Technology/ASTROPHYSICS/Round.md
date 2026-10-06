@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Round
 *adjective*
 > /raʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Round::Tròn *(Phát âm: /raʊnd/)* ![[round.mp3]]<br><br>👪 **Word Family:** rounded (adj), roundness (n)<br><br>💬 **Ví dụ:** The wheel of the bicycle is completely round.<br>*(-> Bánh xe đạp hoàn toàn tròn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shaped like a circle or sphere.

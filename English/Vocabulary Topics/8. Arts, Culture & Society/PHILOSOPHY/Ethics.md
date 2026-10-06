@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Ethics
 *n.*
 > /ˈeθ.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Ethics::Đạo đức học, luân lý học *(Phát âm: /ˈeθ.ɪks/)* ![[ethics.mp3]]<br><br>👪 **Word Family:** ethical, ethicist, ethically<br><br>💬 **Ví dụ:** He always follows his personal ethics when making choices.<br>*(-> Anh ấy luôn tuân theo các nguyên tắc đạo đức cá nhân khi đưa ra các lựa chọn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Moral principles that govern a person's behavior or the conducting of an activity.

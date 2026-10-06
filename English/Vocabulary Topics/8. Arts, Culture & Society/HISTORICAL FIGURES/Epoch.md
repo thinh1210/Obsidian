@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Epoch
 *n.*
 > /ˈiːpɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
+
+## 🗂️ Flashcard
+Epoch::Kỷ nguyên, thời đại lịch sử *(Phát âm: /ˈiːpɒk/)* ![[epoch.mp3]]<br><br>👪 **Word Family:** epochal<br><br>💬 **Ví dụ:** The invention of the steam engine marked a new epoch in industry.<br>*(-> Sự phát minh ra động cơ hơi nước đã đánh dấu một kỷ nguyên mới trong công nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular period of time in history or a person's life, typically one marked by notable events or particular characteristics

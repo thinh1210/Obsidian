@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Jade
 *adj., n.*
 > /dʒeɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Jade::Màu xanh lục ngọc bích quý giá, biểu tượng của sự thuần khiết và thanh cao *(Phát âm: /dʒeɪd/)* ![[jade.mp3]]<br><br>👪 **Word Family:** jaded (adj - nghĩa bóng: kiệt sức, chán chường)<br><br>💬 **Ví dụ:** Her grandfather gifted her a delicate jade pendant for good fortune and protection.<br>*(-> Ông nội đã tặng cô một mặt dây chuyền ngọc bích thanh nhã để cầu may mắn và bình an.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rich, vibrant green color, reminiscent of the precious ornamental stone jade.

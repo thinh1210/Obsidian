@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Hexagon
 *n.*
 > /ˈhek.sə.ɡən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Hexagon::Hình lục giác *(Phát âm: /ˈhek.sə.ɡən/)* ![[hexagon.mp3]]<br><br>👪 **Word Family:** Hexagonal (adj)<br><br>💬 **Ví dụ:** Honeycomb cells are hexagons.<br>*(-> Các ngăn của tổ ong là hình lục giác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plane figure with six straight sides and angles.

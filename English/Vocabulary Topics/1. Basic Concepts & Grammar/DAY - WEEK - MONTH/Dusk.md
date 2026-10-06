@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Dusk
 *n.*
 > /dʌsk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Dusk::Lúc chạng vạng tối, hoàng hôn muộn khi ánh sáng mặt trời vừa tắt hẳn *(Phát âm: /dʌsk/)* ![[dusk.mp3]]<br><br>👪 **Word Family:** dusky (adj)<br><br>💬 **Ví dụ:** Streetlamps automatically turn on at dusk when the natural daylight fades.<br>*(-> Đèn đường tự động bật sáng lúc sẩm tối khi ánh sáng ban ngày tự nhiên tắt dần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time of day immediately after sunset just before it gets completely dark.

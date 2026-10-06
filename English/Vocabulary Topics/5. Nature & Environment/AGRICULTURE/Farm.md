@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Farm
 *n.*
 > /fɑːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Farm::Trang trại, nông trại *(Phát âm: /fɑːm/)* ![[farm.mp3]]<br><br>👪 **Word Family:** farmer (n), farming (n)<br><br>💬 **Ví dụ:** We visited a fruit farm and picked fresh strawberries.<br>*(-> Chúng tôi đã đến thăm một nông trại trái cây và tự tay hái những quả dâu tây tươi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land and its buildings used for growing crops and rearing animals.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Appeal
 *verb/noun*
 > /əˈpiːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Appeal::Kháng cáo, đơn kháng cáo *(Phát âm: /əˈpiːl/)* ![[appeal.mp3]]<br><br>👪 **Word Family:** Appeal (v/n), Appealing (adj), Appellant (n)<br><br>💬 **Ví dụ:** The defense attorney announced their plan to file an appeal immediately.<br>*(-> Luật sư bào chữa đã thông báo kế hoạch nộp đơn kháng cáo ngay lập tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Apply to a higher court for a reversal of the decision of a lower court; an application to a higher court for a decision to be reversed.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Nocturnal
 *adjective*
 > /nɒkˈtɜː.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Nocturnal::Hoạt động về đêm *(Phát âm: /nɒkˈtɜː.nəl/)* ![[nocturnal.mp3]]<br><br>👪 **Word Family:** nocturne (n), nocturnal (adj), nocturnally (adv)<br><br>💬 **Ví dụ:** Owls are nocturnal birds that hunt while we sleep.<br>*(-> Cú là loài chim hoạt động về đêm, chúng săn mồi khi chúng ta đang ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Active, done, or happening at night.

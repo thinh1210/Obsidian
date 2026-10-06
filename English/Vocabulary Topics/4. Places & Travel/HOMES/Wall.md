@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Wall
 *noun*
 > /wɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Wall::Bức tường *(Phát âm: /wɔːl/)* ![[wall.mp3]]<br><br>👪 **Word Family:** wallpaper (n)<br><br>💬 **Ví dụ:** The wall is painted blue.<br>*(-> Bức tường được sơn màu xanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A continuous vertical brick or stone structure that encloses or divides an area of land.
@@ -34,4 +44,4 @@
 - wallpaper (n)
 
 **Synonyms:** partition
-**Antonyms:** 
+**Antonyms:**

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Melodrama
 *noun*
 > /ˈmel.ə.drɑː.mə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Melodrama::Kịch cường điệu, tình tiết giật gân quá mức *(Phát âm: /ˈmel.ə.drɑː.mə/)* ![[melodrama.mp3]]<br><br>👪 **Word Family:** melodramatic (adj), melodramatically (adv)<br><br>💬 **Ví dụ:** The novel's final act descended into pure melodrama.<br>*(-> Hồi cuối của cuốn tiểu thuyết đã rơi vào sự cường điệu giật gân thuần túy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sensational dramatic piece with exaggerated characters and exciting events.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Tenacity
 *n.*
 > /təˈnæs.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Tenacity::Sự kiên trì, sự dai dẳng, lòng quyết tâm *(Phát âm: /təˈnæs.ə.ti/)* ![[tenacity.mp3]]<br><br>👪 **Word Family:** tenacious, tenaciously<br><br>💬 **Ví dụ:** The defender showed great tenacity, refusing to let the attacker pass.<br>*(-> Hậu vệ đã thể hiện sự kiên trì tuyệt vời, từ chối cho tiền đạo đi qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or fact of being very determined; determination.

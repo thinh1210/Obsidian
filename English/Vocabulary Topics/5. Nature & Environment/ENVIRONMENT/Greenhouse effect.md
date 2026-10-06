@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Greenhouse effect
 *n.*
 > /ˈɡriːnhaʊs ɪfekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Greenhouse effect::Hiệu ứng nhà kính *(Phát âm: /ˈɡriːnhaʊs ɪfekt/)* ![[greenhouse_effect.mp3]]<br><br>👪 **Word Family:** greenhouse (n)<br><br>💬 **Ví dụ:** The greenhouse effect keeps the Earth warm enough to sustain life.<br>*(-> Hiệu ứng nhà kính giữ cho Trái Đất đủ ấm để duy trì sự sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The trapping of the sun's warmth in a planet's lower atmosphere, due to the greater transparency of the atmosphere to visible radiation from the sun than to infrared radiation emitted from the planet's surface.

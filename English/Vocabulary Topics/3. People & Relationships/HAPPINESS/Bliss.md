@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Bliss
 *n.*
 > /blɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
+
+## 🗂️ Flashcard
+Bliss::Niềm hạnh phúc tột độ *(Phát âm: /blɪs/)* ![[bliss.mp3]]<br><br>👪 **Word Family:** Blissful (adj), Blissfully (adv)<br><br>💬 **Ví dụ:** Lying on the beach was pure bliss.<br>*(-> Nằm trên bãi biển là một niềm hạnh phúc vô bờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Perfect happiness; great joy.

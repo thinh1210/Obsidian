@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Hegemony
 *n.*
 > /hɪˈɡem.ə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
+
+## 🗂️ Flashcard
+Hegemony::Quyền bá chủ, sự bá quyền *(Phát âm: /hɪˈɡem.ə.ni/)* ![[hegemony.mp3]]<br><br>👪 **Word Family:** hegemonic<br><br>💬 **Ví dụ:** People protested against the economic hegemony of large corporations.<br>*(-> Người dân phản đối sự thống trị kinh tế của các tập đoàn lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Leadership or dominance, especially by one country or social group over others.

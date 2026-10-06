@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Avenue
 *n.*
 > /ˈæv.ə.nuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Avenue::Đại lộ *(Phát âm: /ˈæv.ə.nuː/)* ![[avenue.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** They strolled down the avenue.<br>*(-> Họ đi dạo trên đại lộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A broad road in a town or city, typically having trees at regular intervals along its sides.

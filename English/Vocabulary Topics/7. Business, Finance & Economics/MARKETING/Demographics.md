@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Demographics
 *noun*
 > /ˌdeməˈɡræfɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Demographics::Nhân khẩu học, số liệu nhân khẩu học *(Phát âm: /ˌdeməˈɡræfɪks/)* ![[demographics.mp3]]<br><br>👪 **Word Family:** demography (n), demographic (adj)<br><br>💬 **Ví dụ:** This new coffee shop attracts a young, trendy demographic.<br>*(-> Quán cà phê mới này thu hút nhóm khách hàng trẻ tuổi, hợp mốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Statistical data relating to the population and particular groups within it, used in marketing to identify customer segments

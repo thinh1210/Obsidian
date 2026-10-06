@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # product
 *n.*
 > /ˈprɒd.ʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Product::Sản phẩm *(Phát âm: /ˈprɒd.ʌkt/)* ![[product.mp3]]<br><br>👪 **Word Family:** produce (v), production (n), productive (adj)<br><br>💬 **Ví dụ:** They are launching a new product this month.<br>*(-> Họ đang ra mắt một sản phẩm mới trong tháng này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that is made to be sold

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Retain
 *verb*
 > /rɪˈteɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Retain::Giữ lại, duy trì, giữ chân (khách hàng) *(Phát âm: /rɪˈteɪn/)* ![[retain.mp3]]<br><br>👪 **Word Family:** retention (noun), retentive (adj)<br><br>💬 **Ví dụ:** The human brain can retain visual information better than text.<br>*(-> Bộ não con người có thể giữ thông tin hình ảnh tốt hơn văn bản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To continue to have something; keep possession of.

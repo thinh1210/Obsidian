@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Arrest
 *verb*
 > /əˈrest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Arrest::Bắt giữ (bởi cảnh sát) *(Phát âm: /əˈrest/)* ![[arrest.mp3]]<br><br>👪 **Word Family:** Arrest (v/n), Arresting (adj)<br><br>💬 **Ví dụ:** The police officer had to arrest the suspect after he tried to run away.<br>*(-> Sĩ quan cảnh sát đã phải bắt giữ nghi phạm sau khi anh ta cố bỏ chạy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Seize someone by legal authority and take them into custody.

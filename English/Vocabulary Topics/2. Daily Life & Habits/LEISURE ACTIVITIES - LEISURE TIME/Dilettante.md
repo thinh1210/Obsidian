@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Dilettante
 *n*
 > /ˌdɪləˈtænti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Dilettante::Người chơi tài tử, người am hiểu nông cạn *(Phát âm: /ˌdɪləˈtænti/)* ![[dilettante.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He's just a dilettante when it comes to painting.<br>*(-> Anh ta chỉ là tay chơi tài tử khi nói đến hội họa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who cultivates an area of interest, such as the arts, without real commitment or knowledge.

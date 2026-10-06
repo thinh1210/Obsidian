@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Blossom
 *noun*
 > /ˈblɒsəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Blossom::Hoa của cây ăn quả, sự nở hoa *(Phát âm: /ˈblɒsəm/)* ![[blossom.mp3]]<br><br>👪 **Word Family:** Noun: blossom (hoa cây ăn quả), Verb: blossom (nở hoa, phát triển rực rỡ)<br><br>💬 **Ví dụ:** The apple trees are covered in pink blossom.<br>*(-> Những cây táo được bao phủ bởi những chùm hoa màu hồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flower or a mass of flowers, especially on fruit trees.

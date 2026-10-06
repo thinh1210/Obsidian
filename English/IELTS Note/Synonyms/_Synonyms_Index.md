@@ -1,59 +1,59 @@
-# 🗂️ Thư Viện Chuyên Đề: Từ Đồng Nghĩa Chuyên Dụng (Dedicated Synonyms Library)
-*(IELTS Skills: Writing, Speaking, Reading & Listening)*
+# 🗂️ Thư Viện Chuyên Đề: Từ Đồng Nghĩa & Sắc Thái Ngữ Nghĩa
+*(Comprehensive English Synonyms Library: Register, Nuance & Precision)*
 
 > [!NOTE]
-> Thư viện này được tổ chức thành **4 chuyên đề độc lập**, phân tách rõ ràng các nhóm từ đồng nghĩa theo đúng mục đích sử dụng thực tế của từng kỹ năng:
-> 1. **Writing**: Tập trung vào xu hướng số liệu (Task 1), tỉ lệ, động từ chính sách xã hội và tính từ học thuật phản biện (Task 2).
-> 2. **Speaking**: Tập trung vào từ đệm tự nhiên (*discourse markers*), thành ngữ đời thường, miêu tả cảm xúc và tính từ sống động.
-> 3. **Reading**: Tập trung vào thuật ngữ phương pháp nghiên cứu, sinh thái, nhân chủng học và các cặp paraphrase đối chiếu thi cử.
-> 4. **Listening**: Tập trung vào bẫy đổi ý (*distractors*), tín hiệu tự đính chính (*self-correction*), định vị bản đồ và biển báo bài giảng Section 4.
+> Bộ cẩm nang này được phân tách thành **7 chuyên đề độc lập** để người học dễ dàng tra cứu nhanh theo đúng ngữ cảnh thực tế: từ hội thoại giao tiếp hàng ngày (*real conversations / IELTS Speaking*) cho đến viết luận học thuật và bài báo khoa học (*academic papers / IELTS Writing Task 1 & Task 2*).
 > 
-> Toàn bộ các từ đều có mô tả song ngữ **EN - VN**, phiên âm quốc tế **IPA**, cấp độ **CEFR / Band điểm**, phân tích sự khác biệt tinh tế (*small differences*) và câu ví dụ ngữ cảnh cụ thể.
+> Mỗi bài học đều phân tích chi tiết: **Phiên âm quốc tế IPA**, **Cấp độ CEFR (A1 - C2)**, **Độ trang trọng (Register)**, **Sự khác biệt tinh tế (Nuance)**, **Collocations kinh điển**, **Ví dụ đối chiếu hai chiều** và **Cạm bẫy dùng từ (Thesaurus Traps)**.
 
 ---
 
-## 🧭 BẢN ĐỒ TRA CỨU CHUYÊN ĐỀ THEO KỸ NĂNG
+## 🧭 BẢN ĐỒ TRA CỨU NHANH THEO CHUYÊN ĐỀ (MAP OF CONTENTS)
 
 ```
-                                    [THƯ MỤC SYNONYMS]
-                                            │
-         ┌──────────────────────────┬───────┴──────────────────────────┬──────────────────────────┐
-         │                          │                                  │                          │
-   [CHUYÊN ĐỀ 1]              [CHUYÊN ĐỀ 2]                      [CHUYÊN ĐỀ 3]              [CHUYÊN ĐỀ 4]
- ✍️ [[01. Synonyms for      🗣️ [[02. Synonyms for             📖 [[03. Synonyms for      🎧 [[04. Synonyms for
-    Academic Writing]]         Speaking & Conversation]]          Academic Reading]]         Listening Comprehension]]
-         │                          │                                  │                          │
- ├── Task 1: Tăng, giảm,    ├── Spoken Discourse Markers       ├── Phương pháp nghiên     ├── Bẫy đổi ý & tự sửa
- │   dao động, tỉ lệ        │   (To be frank, Off my head)     │   cứu (Empirical...)     │   sai (Actually, Hold on)
- ├── Task 2: Nan đề xã      ├── Cảm xúc sống động              ├── Bẫy Paraphrase đề      ├── Chốt đồng thuận nhóm
- │   hội, nguyên nhân       │   (Thrilled, Jubilant...)        │   thi kinh điển          │   (That's settled then)
- └── Giải pháp & Lập luận   └── Thành ngữ & Phrasal Verbs      └── Biển báo luận điểm     └── Bản đồ & Giảng đường
-     (Mitigate, Alleviate)      (Cost an arm and a leg...)         (Notwithstanding...)       (Adjacent, Cul-de-sac...)
+                                      [THƯ VIỆN TỪ ĐỒNG NGHĨA]
+                                                 │
+         ┌───────────────────────────────┬───────┴───────────────────────────────┬───────────────────────────────┐
+         │                               │                                       │                               │
+    [ĐỘNG TỪ]                       [TÍNH TỪ]                               [DANH TỪ & CON NGƯỜI]           [TỪ NỐI LOGIC]
+         │                               │                                       │                               │
+ ├── Topic 01: Hành Động &       ├── Topic 04: Quy Mô, Số Lượng          └── Topic 06: Cảm Xúc,          └── Topic 07: Từ Nối &
+ │   Phương Pháp Nghiên Cứu          & Mức Độ Quan Trọng                     Tâm Lý & Phân Tầng Xã Hội       Chuyển Đoạn Văn Bản
+ │                               │
+ ├── Topic 02: Nhân Quả, Xu      └── Topic 05: Đánh Giá, Phẩm Chất
+ │   Hướng & Biến Đổi Dữ Liệu        & Tính Chuẩn Xác
+ │
+ └── Topic 03: Lập Luận, Quan
+     Điểm & Tranh Biện Học Thuật
 ```
 
 ---
 
-### 📚 Danh Mục Chi Tiết Từng Phần
+### 📚 Danh Sách Các Chuyên Đề Chi Tiết
 
-| Tên Tập Tin | Kỹ Năng / Ngữ Cảnh Chuyên Biệt | Nội Dung Trọng Tâm |
-| :--- | :--- | :--- |
-| **[[01. Synonyms for Academic Writing]]** | IELTS Writing Task 1 & Task 2 / Research Papers | • *Tăng trưởng: Surge, Soar, Escalate, Proliferate*<br>• *Suy giảm: Plummet, Slump, Dwindle, Diminish*<br>• *Tỉ lệ: Constitute, Comprise, Account for*<br>• *Tác động: Exacerbate, Precipitate, Engender*<br>• *Giải pháp: Address, Mitigate, Alleviate, Rectify*<br>• *Lập luận: Argue, Contend, Assert, Maintain, Posit*<br>• *Tính từ: Paramount, Detrimental, Feasible* |
-| **[[02. Synonyms for Speaking & Conversation]]** | Real Conversations / IELTS Speaking (Parts 1-3) | • *Từ đệm: To be perfectly frank, Off the top of my head, Having said that, In all likelihood*<br>• *Cảm xúc: Thrilled, Jubilant, Ecstatic, Devastated, Despondent, Exasperated, Indignant*<br>• *Cảnh sắc: Picturesque, Breathtaking, Bustling, Tranquil*<br>• *Chi phí: Cost an arm and a leg, Exorbitant, Skint*<br>• *Phrasal verbs: Wind down, Take up, Put up with* |
-| **[[03. Synonyms for Academic Reading]]** | Academic Texts / Scientific Journals / Reading Test | • *Phương pháp: Empirical, Anomaly, Extrapolate, Discrepancy, Plausible*<br>• *Sinh thái: Symbiotic, Deplete, Resilience*<br>• *Nhân chủng: Sedentary, Precursor, Remnant*<br>• *Bẫy Paraphrase đối chiếu câu hỏi và bài đọc*<br>• *Biển báo dẫn dắt: Notwithstanding, Albeit, Ostensibly* |
-| **[[04. Synonyms for Listening Comprehension]]** | Spoken Dialogues / Map Navigation / Lectures | • *Tự sửa sai: Actually, In fact, Hold on, To be more precise*<br>• *Đổi ý: On second thought, Originally, Rather than*<br>• *Đồng thuận Section 3: That's settled then, Rule that out*<br>• *Bản đồ Section 2: Adjacent to, Cul-de-sac, Diagonally opposite, Winding path*<br>• *Bài giảng Section 4: Longitudinal study, Demographic cohort, Quantitative vs Qualitative* |
-| **[[Conversational vs Academic Synonyms Guide]]** | Cẩm nang tổng quan nền tảng | So sánh đối chiếu phổ biến giữa văn phong nói đời thường và văn phong viết luận học thuật. |
+| Chuyên Đề                                    | Nội Dung Trọng Tâm                                                                                                                                                                                                                                                                                                                                                                                                                                         | Phù Hợp Nhất Cho                                                                               |
+| :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| **[[01. Action & Research Verbs]]**          | • *Show ➔ Indicate ➔ Demonstrate ➔ Substantiate ➔ Corroborate*<br>• *Fix ➔ Solve ➔ Address ➔ Tackle ➔ Mitigate ➔ Alleviate*<br>• *Find out ➔ Discover ➔ Ascertain ➔ Determine ➔ Pinpoint*<br>• *Look into ➔ Examine ➔ Investigate ➔ Scrutinize ➔ Probe*<br>• *Get ➔ Obtain ➔ Acquire ➔ Attain ➔ Derive ➔ Garner*<br>• *Use ➔ Utilize ➔ Employ ➔ Harness ➔ Leverage*<br>• *Stop ➔ Cease ➔ Halt ➔ Abandon ➔ Relinquish ➔ Forgo*                              | Methodology, Báo cáo kết quả nghiên cứu, Giải pháp khắc phục (Writing Task 2).                 |
+| **[[02. Cause, Effect & Change]]**           | • *Cause ➔ Lead to ➔ Trigger ➔ Provoke ➔ Precipitate ➔ Engender*<br>• *Stem from ➔ Arise from ➔ Result from ➔ Be attributed to*<br>• *Change ➔ Alter ➔ Modify ➔ Shift ➔ Transform ➔ Fluctuate*<br>• *Increase ➔ Escalate ➔ Surge ➔ Soar ➔ Proliferate ➔ Augment*<br>• *Decrease ➔ Decline ➔ Plummet ➔ Slump ➔ Dwindle ➔ Wane*                                                                                                                              | IELTS Writing Task 1 (miêu tả biểu đồ & xu hướng biến động), Phân tích nhân quả kinh tế.       |
+| **[[03. Academic Stance & Argument]]**       | • *Think ➔ Believe ➔ Argue ➔ Contend ➔ Assert ➔ Maintain ➔ Posit*<br>• *Suggest ➔ Propose ➔ Hypothesize ➔ Speculate ➔ Theorize*<br>• *Agree ➔ Support ➔ Concur with ➔ Endorse ➔ Champion*<br>• *Disagree ➔ Dispute ➔ Challenge ➔ Refute ➔ Rebut*<br>• *Explain ➔ Clarify ➔ Elucidate ➔ Expound on ➔ Delineate*<br>• *Highlight ➔ Emphasize ➔ Underscore ➔ Accentuate*                                                                                      | Bày tỏ quan điểm (Thesis statement), Tranh biện học thuật, Bác bỏ luận điểm đối phương.        |
+| **[[04. Magnitude, Quantity & Importance]]** | • *Big / Huge ➔ Substantial ➔ Considerable ➔ Vast ➔ Colossal*<br>• *Important ➔ Crucial ➔ Vital ➔ Paramount ➔ Pivotal ➔ Momentous*<br>• *Small / Minor ➔ Negligible ➔ Marginal ➔ Infinitesimal ➔ Trivial*<br>• *A lot of ➔ Numerous ➔ Abundant ➔ Copious ➔ Plethora ➔ Myriad*<br>• *Few / Scarce ➔ Sparse ➔ Meager ➔ Scant ➔ Deficient*                                                                                                                    | Đo lường mức độ ảnh hưởng, Thống kê định lượng, Nhấn mạnh tầm quan trọng cốt lõi.              |
+| **[[05. Evaluation, Quality & Assessment]]** | • *Good / Great ➔ Beneficial ➔ Advantageous ➔ Viable ➔ Efficacious*<br>• *Bad / Terrible ➔ Harmful ➔ Adverse ➔ Detrimental ➔ Deleterious*<br>• *Clear ➔ Obvious ➔ Apparent ➔ Evident ➔ Manifest ➔ Unambiguous*<br>• *Difficult ➔ Complex ➔ Intricate ➔ Convoluted ➔ Arduous ➔ Onerous*<br>• *True / Real ➔ Accurate ➔ Valid ➔ Authentic ➔ Unassailable*                                                                                                    | Đánh giá ưu / nhược điểm (Advantages & Disadvantages), Tính khả thi kỹ thuật.                  |
+| **[[06. Emotions, Psychology & People]]**    | • *Happy / Glad ➔ Pleased ➔ Thrilled ➔ Jubilant ➔ Ecstatic ➔ Euphoric*<br>• *Sad / Depressed ➔ Devastated ➔ Despondent ➔ Melancholic*<br>• *Angry / Annoyed ➔ Irritated ➔ Exasperated ➔ Furious ➔ Indignant*<br>• *Rich / Wealthy ➔ Well-off ➔ Affluent ➔ Opulent ➔ Prosperous*<br>• *Poor / Broke ➔ Deprived ➔ Impoverished ➔ Destitute ➔ Indigent*<br>• *Stubborn ➔ Obstinate ➔ Intransigent vs. Resolute ➔ Tenacious*                                   | IELTS Speaking Part 1, 2, 3 (kể trải nghiệm cảm xúc cá nhân), Bài viết xã hội học & nhân khẩu. |
+| **[[07. Discourse Markers & Transitions]]**  | • *Tương phản: But ➔ However ➔ Nevertheless ➔ Conversely ➔ On the contrary*<br>• *Hệ quả: So ➔ Therefore ➔ Thus ➔ Consequently ➔ Hence ➔ Accordingly*<br>• *Nguyên nhân: Because ➔ Given that ➔ In light of ➔ On the grounds that*<br>• *Bổ sung: Also ➔ Furthermore ➔ Moreover ➔ In addition ➔ By the same token*<br>• *Dẫn chứng: Like ➔ For instance ➔ To illustrate ➔ Exemplified by*<br>• *Kết luận: In short ➔ In summary ➔ In essence ➔ Ultimately* | Tạo tính liên kết mạch lạc (Cohesion & Coherence), Kết nối đoạn văn trong Paper.               |
 
 ---
 
-## 💡 NGUYÊN TẮC HỌC TẬP HIỆU QUẢ VỚI BỘ TỪ ĐỒNG NGHĨA
+## 💡 3 NGUYÊN TẮC VÀNG ĐỂ KHÔNG BAO GIỜ DÙNG SAI TỪ ĐỒNG NGHĨA
 
-1. **Đúng kỹ năng - Đúng văn phong (Register Awareness):**
-   - Không mang các từ nói (*off the top of my head, cost an arm and a leg*) vào bài thi **Writing**.
-   - Không lạm dụng các từ viết nặng tính sách vở (*notwithstanding, extrapolate*) khi đang tán gẫu trong **Speaking**.
-2. **Học theo cặp Paraphrase cho Reading & Listening:**
-   - Khi làm bài đọc hoặc bài nghe, luôn chuẩn bị tâm lý rằng đề thi sẽ sử dụng từ đồng nghĩa chứ không dùng từ gốc. Hãy tra bảng đối chiếu trong File 3 và File 4 để làm quen với phản xạ này.
-3. **Đọc kỹ phần mô tả tiếng Anh (EN):**
-   - Đọc định nghĩa bằng tiếng Anh giúp bạn hiểu sâu sắc cảm xúc và cách tư duy trực diện của người bản ngữ, tránh dịch máy móc từng từ (*word-by-word translation*).
+1. **Không dịch từ đơn lẻ - Luôn học theo Collocation:**
+   - *Sai lầm:* Tra từ điển thấy *"deleterious"* = *"có hại"*, liền viết *"smoking is deleterious for health"* (sai giới từ).
+   - *Chuẩn xác:* *exert a deleterious effect ON something*.
+2. **Quy tắc Hedging (Thận trọng khoa học):**
+   - Trong giao tiếp, ta có thể nói: *"This definitely proves that he is wrong."*
+   - Trong bài báo khoa học, tuyệt đối không viết như vậy. Hãy viết: *"These findings suggest that earlier hypotheses may require re-evaluation."*
+3. **Phân biệt rạch ròi giữa Văn nói (Phrasal Verbs) và Văn viết (Single Latin Verbs):**
+   - Văn nói: *"We need to **find out** what happened and **get rid of** the bad parts."*
+   - Bài báo: *"Researchers must **ascertain** the underlying mechanism and **eliminate** aberrant variables."*
 
 ---
 *Thư viện ghi chú được tạo tự động cho Obsidian Vault.*

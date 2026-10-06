@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Undergraduate
 *n.*
 > /ˌʌn.dəˈɡrædʒ.u.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Undergraduate::Sinh viên chưa tốt nghiệp, sinh viên đại học *(Phát âm: /ˌʌn.dəˈɡrædʒ.u.ət/)* ![[undergraduate.mp3]]<br><br>👪 **Word Family:** graduate, postgraduate<br><br>💬 **Ví dụ:** The university has over 10,000 undergraduates.<br>*(-> Trường đại học có hơn 10.000 sinh viên chưa tốt nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A student at a college or university who has not yet received a first degree

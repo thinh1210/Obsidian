@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # House
 *noun*
 > /haʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+House::Ngôi nhà *(Phát âm: /haʊs/)* ![[house.mp3]]<br><br>👪 **Word Family:** housing (n)<br><br>💬 **Ví dụ:** We bought a new house.<br>*(-> Chúng tôi đã mua một ngôi nhà mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building for human habitation.
@@ -34,4 +44,4 @@
 - housing (n)
 
 **Synonyms:** home, dwelling
-**Antonyms:** 
+**Antonyms:**

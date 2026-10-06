@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Hairpin
 *noun*
 > /ˈheəpɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Hairpin::Kẹp tăm, trâm cài tóc *(Phát âm: /ˈheəpɪn/)* ![[hairpin.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She secured her bun with a few hairpins.<br>*(-> Cô ấy cố định búi tóc bằng một vài chiếc kẹp tăm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A U-shaped pin used to hold hair in place.

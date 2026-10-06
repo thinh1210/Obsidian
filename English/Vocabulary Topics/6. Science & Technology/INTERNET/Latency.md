@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Latency
 *noun*
 > /ˈleɪ.tən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+Latency::Độ trễ (mạng) *(Phát âm: /ˈleɪ.tən.si/)* ![[latency.mp3]]<br><br>👪 **Word Family:** latency (n), latent (adj)<br><br>💬 **Ví dụ:** Online gamers prefer connections with low latency to avoid lag.<br>*(-> Game thủ trực tuyến ưa thích kết nối có độ trễ thấp để tránh lag.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The delay between a user's action and the response from the server, measured in milliseconds.

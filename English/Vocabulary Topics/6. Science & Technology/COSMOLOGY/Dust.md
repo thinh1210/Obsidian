@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Dust
 *Noun*
 > /dʌst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Dust::Bụi, bụi vũ trụ *(Phát âm: /dʌst/)* ![[dust.mp3]]<br><br>👪 **Word Family:** dusty (adj), duster (n)<br><br>💬 **Ví dụ:** There is a lot of dust on the shelf.<br>*(-> Có rất nhiều bụi trên kệ sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fine, dry powder; in cosmology, small solid particles in space.

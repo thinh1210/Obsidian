@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Clay
 *noun*
 > /kleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Clay::Đất sét *(Phát âm: /kleɪ/)* ![[clay.mp3]]<br><br>👪 **Word Family:** clayey (adj)<br><br>💬 **Ví dụ:** Children love playing with clay and making animals.<br>*(-> Trẻ em rất thích chơi với đất sét và nặn các con vật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of heavy, wet soil that becomes hard when it is baked in a kiln or dried

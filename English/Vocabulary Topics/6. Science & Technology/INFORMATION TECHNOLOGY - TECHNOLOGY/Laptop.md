@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Laptop
 *n.*
 > /ˈlæp.tɒp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Laptop::Máy tính xách tay di động, mỏng nhẹ có thể mang theo bên mình *(Phát âm: /ˈlæp.tɒp/)* ![[laptop.mp3]]<br><br>👪 **Word Family:** notebook (n)<br><br>💬 **Ví dụ:** She packed her laptop and notebook into her backpack before heading to class.<br>*(-> Cô ấy cất laptop và vở ghi vào balo trước khi đến lớp học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A portable computer that is small and light enough to be used on one's lap.

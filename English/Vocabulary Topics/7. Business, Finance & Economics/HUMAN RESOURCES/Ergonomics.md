@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Ergonomics
 *n.*
 > /ˌɜː.ɡəˈnɒm.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Ergonomics::Công thái học *(Phát âm: /ˌɜː.ɡəˈnɒm.ɪks/)* ![[ergonomics.mp3]]<br><br>👪 **Word Family:** ergonomic, ergonomist<br><br>💬 **Ví dụ:** Good office ergonomics can prevent repetitive strain injuries.<br>*(-> Công thái học văn phòng tốt có thể ngăn ngừa chấn thương do căng thẳng lặp đi lặp lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The study of efficiency and safety in the working environment

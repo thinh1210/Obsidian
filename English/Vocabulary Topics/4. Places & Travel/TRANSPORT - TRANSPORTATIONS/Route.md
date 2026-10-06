@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Route
 *noun*
 > /ruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Route::Tuyến đường, lộ trình *(Phát âm: /ruːt/)* ![[route.mp3]]<br><br>👪 **Word Family:** Noun: route (lộ trình), Verb: route (định tuyến, gửi đi theo lộ trình)<br><br>💬 **Ví dụ:** Which route is the fastest to the airport?<br>*(-> Tuyến đường nào là nhanh nhất để đến sân bay?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A way or course taken in getting from a starting point to a destination.

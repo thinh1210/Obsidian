@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Meeting
 *n.*
 > /ˈmiː.tɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Meeting::Cuộc họp, buổi thảo luận chính thức trong công việc hoặc tập thể *(Phát âm: /ˈmiː.tɪŋ/)* ![[meeting.mp3]]<br><br>👪 **Word Family:** meet (v)<br><br>💬 **Ví dụ:** We scheduled a brief morning meeting to review the weekly project milestones.<br>*(-> Chúng tôi đã lên lịch một cuộc họp ngắn buổi sáng để rà soát các cột mốc dự án trong tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An assembly of people for discussion or entertainment, especially a formal business gathering.

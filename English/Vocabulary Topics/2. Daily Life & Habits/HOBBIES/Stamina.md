@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Stamina
 *noun*
 > /ˈstæmɪnə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Stamina::Sức bền, thể lực *(Phát âm: /ˈstæmɪnə/)* ![[stamina.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** You need a lot of stamina to run a full marathon.<br>*(-> Bạn cần rất nhiều sức bền để chạy hết một chặng marathon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The physical and/or mental strength to do something that might be difficult and will take a long time.

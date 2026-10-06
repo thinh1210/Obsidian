@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Aesthetic
 *adj.*
 > /iːsˈθetɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Aesthetic::Có tính thẩm mỹ *(Phát âm: /iːsˈθetɪk/)* ![[aesthetic.mp3]]<br><br>👪 **Word Family:** aesthetics, aesthetically, aestheticism<br><br>💬 **Ví dụ:** The website has a clean and modern aesthetic.<br>*(-> Trang web có tính thẩm mỹ sạch sẽ và hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Concerned with beauty or the appreciation of beauty.

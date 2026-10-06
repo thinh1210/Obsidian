@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Dawn
 *n.*
 > /dɔːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Dawn::Rạng đông, khoảnh khắc đầu tiên ánh sáng le lói nơi chân trời trước khi mặt trời mọc *(Phát âm: /dɔːn/)* ![[dawn.mp3]]<br><br>👪 **Word Family:** dawning (n)<br><br>💬 **Ví dụ:** Fishermen launch their wooden boats into the surf at the crack of dawn.<br>*(-> Những người ngư dân hạ thủy thuyền gỗ xuống lướt sóng vào lúc tờ mờ sáng sớm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The first appearance of light in the sky before sunrise.

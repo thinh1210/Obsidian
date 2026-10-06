@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Municipality
 *n.*
 > /mjuːˌnɪsɪˈpæləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Municipality::Đô thị (có chính quyền riêng) *(Phát âm: /mjuːˌnɪsɪˈpæləti/)* ![[municipality.mp3]]<br><br>👪 **Word Family:** Municipal (adj.)<br><br>💬 **Ví dụ:** The municipality handles waste management.<br>*(-> Chính quyền đô thị xử lý việc quản lý chất thải.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A city or town that has corporate status and local government.

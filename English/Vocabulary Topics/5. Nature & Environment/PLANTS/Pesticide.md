@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Pesticide
 *n.*
 > /ˈpestɪsaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Pesticide::Thuốc trừ sâu, hóa chất dùng để tiêu diệt sâu bọ và nấm bệnh phá hoại mùa màng *(Phát âm: /ˈpestɪsaɪd/)* ![[pesticide.mp3]]<br><br>👪 **Word Family:** pest (n), insecticidal (adj)<br><br>💬 **Ví dụ:** Consumers increasingly prefer organic vegetables grown without chemical pesticides.<br>*(-> Người tiêu dùng ngày càng ưa chuộng các loại rau hữu cơ được trồng mà không dùng thuốc trừ sâu hóa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical substance used for destroying insects or other organisms harmful to cultivated plants.

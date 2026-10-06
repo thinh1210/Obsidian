@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Approach
 *noun*
 > /əˈprəʊtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Approach::Giai đoạn tiếp cận (hạ cánh) *(Phát âm: /əˈprəʊtʃ/)* ![[approach.mp3]]<br><br>👪 **Word Family:** approach (v), final approach (n), ILS approach (n)<br><br>💬 **Ví dụ:** The plane began its final approach as the city lights appeared below.<br>*(-> Máy bay bắt đầu tiếp cận cuối khi ánh đèn thành phố hiện ra phía dưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The phase of flight in which an aircraft descends and aligns with the runway for landing.

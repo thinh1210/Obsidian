@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Beneficiary
 *n.*
 > /ˌbenɪˈfɪʃieri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Beneficiary::Người thụ hưởng *(Phát âm: /ˌbenɪˈfɪʃieri/)* ![[beneficiary.mp3]]<br><br>👪 **Word Family:** benefit (n/v), beneficial<br><br>💬 **Ví dụ:** He named his wife as the primary beneficiary of his life insurance.<br>*(-> Anh ấy đã chỉ định vợ mình làm người thụ hưởng chính của gói bảo hiểm nhân thọ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who derives advantage from something, especially a trust, will, or insurance policy.

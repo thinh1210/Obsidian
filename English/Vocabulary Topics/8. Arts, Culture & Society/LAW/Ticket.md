@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Ticket
 *noun*
 > /ˈtɪk.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Ticket::Phiếu phạt, vé phạt (giao thông) *(Phát âm: /ˈtɪk.ɪt/)* ![[ticket.mp3]]<br><br>👪 **Word Family:** Ticket (n/v)<br><br>💬 **Ví dụ:** I got a speeding ticket yesterday for driving too fast in a school zone.<br>*(-> Tôi đã bị phạt quá tốc độ ngày hôm qua vì lái xe quá nhanh trong khu vực trường học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official notice of a traffic offense, ordering the offender to pay a fine or appear in court.

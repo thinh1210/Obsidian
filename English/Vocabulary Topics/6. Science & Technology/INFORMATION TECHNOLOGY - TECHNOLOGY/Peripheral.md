@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Peripheral
 *n., adj.*
 > /pəˈrɪfərəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Peripheral::Thiết bị ngoại vi; (adj) Phụ, không quan trọng *(Phát âm: /pəˈrɪfərəl/)* ![[peripheral.mp3]]<br><br>👪 **Word Family:** Periphery (n.), Peripherally (adv.)<br><br>💬 **Ví dụ:** I bought some new peripherals like a gaming mouse and a mechanical keyboard.<br>*(-> Tôi đã mua một số thiết bị ngoại vi mới như chuột chơi game và bàn phím cơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of equipment, such as a printer, that can be attached to a computer.

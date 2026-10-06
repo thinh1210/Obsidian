@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Toxic
 *adj.*
 > /ˈtɒksɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Toxic::Độc hại, có tính chất gây ngộ độc hoặc phá hủy môi trường sinh thái nghiêm trọng *(Phát âm: /ˈtɒksɪk/)* ![[toxic.mp3]]<br><br>👪 **Word Family:** toxicity (n), toxin (n), toxicology (n)<br><br>💬 **Ví dụ:** Keep toxic household cleaners stored in childproof cabinets well away from children.<br>*(-> Hãy cất giữ các chất tẩy rửa gia dụng độc hại trong tủ khóa an toàn tránh xa tầm tay trẻ nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Poisonous, harmful, or deadly to living organisms.

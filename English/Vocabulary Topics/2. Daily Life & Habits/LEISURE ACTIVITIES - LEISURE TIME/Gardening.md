@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Gardening
 *n.*
 > /ˈɡɑː.dən.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Gardening::Thú vui hoặc công việc chăm sóc cây cối và hoa lá trong vườn *(Phát âm: /ˈɡɑː.dən.ɪŋ/)* ![[gardening.mp3]]<br><br>👪 **Word Family:** garden (n/v), gardener (n)<br><br>💬 **Ví dụ:** My grandmother spends hours doing gardening, tending to her roses and herbs.<br>*(-> Bà tôi dành hàng giờ làm vườn, chăm sóc những khóm hồng và thảo mộc của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of tending and cultivating a garden, especially as a pastime.

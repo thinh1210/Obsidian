@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Fodder
 *n.*
 > /ˈfɒd.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Fodder::Thức ăn gia súc (loại khô như rơm, cỏ khô) *(Phát âm: /ˈfɒd.ər/)* ![[fodder.mp3]]<br><br>💬 **Ví dụ:** The farmer stacked hay in the barn for winter fodder.<br>*(-> Người nông dân xếp cỏ khô trong kho để làm thức ăn gia súc cho mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Food, especially dried hay or straw, for cattle and other livestock.

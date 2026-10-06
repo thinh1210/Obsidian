@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Awful
 *adj.*
 > /ˈɔːfl/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Awful::Tồi tệ *(Phát âm: /ˈɔːfl/)* ![[awful.mp3]]<br><br>👪 **Word Family:** awfully<br><br>💬 **Ví dụ:** Awful smell.<br>*(-> Mùi kinh khủng.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Very bad or unpleasant

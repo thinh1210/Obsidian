@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Assassinate
 *v.*
 > /əˈsæsɪneɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Assassinate::Ám sát *(Phát âm: /əˈsæsɪneɪt/)* ![[assassinate.mp3]]<br><br>👪 **Word Family:** assassin, assassination<br><br>💬 **Ví dụ:** An attempt to assassinate the prime minister failed.<br>*(-> Một âm mưu ám sát thủ tướng đã thất bại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To murder (an important person) in a surprise attack for political or religious reasons

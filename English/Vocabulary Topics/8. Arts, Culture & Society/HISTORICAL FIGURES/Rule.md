@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Rule
 *v.*
 > /ruːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Rule::Cai trị, trị vì *(Phát âm: /ruːl/)* ![[rule.mp3]]<br><br>👪 **Word Family:** ruler, ruling, rule (n)<br><br>💬 **Ví dụ:** The dynasty ruled the land for three centuries.<br>*(-> Triều đại đã cai trị vùng đất này trong ba thế kỷ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To exercise ultimate power or authority over an area and its people

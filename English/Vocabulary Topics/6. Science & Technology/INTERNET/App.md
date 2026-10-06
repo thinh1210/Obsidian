@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # App
 *noun*
 > /æp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+App::Ứng dụng (phần mềm) *(Phát âm: /æp/)* ![[app.mp3]]<br><br>👪 **Word Family:** app (n), application (n), app-based (adj)<br><br>💬 **Ví dụ:** I use a fitness app to track my daily steps.<br>*(-> Tôi dùng ứng dụng thể dục để theo dõi số bước đi hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A software application designed for a specific purpose, typically used on mobile devices or the Internet.

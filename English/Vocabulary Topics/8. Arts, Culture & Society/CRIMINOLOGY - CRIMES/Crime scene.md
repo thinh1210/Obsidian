@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Crime scene
 *noun*
 > /kraɪm siːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Crime scene::Hiện trường vụ án *(Phát âm: /kraɪm siːn/)* ![[crime_scene.mp3]]<br><br>👪 **Word Family:** (None)<br><br>💬 **Ví dụ:** The police blocked the street to protect the crime scene.<br>*(-> Cảnh sát đã phong tỏa con phố để bảo vệ hiện trường vụ án.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where a crime has been committed

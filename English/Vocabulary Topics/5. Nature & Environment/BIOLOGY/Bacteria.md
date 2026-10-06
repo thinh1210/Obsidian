@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Bacteria
 *noun*
 > /bækˈtɪə.ri.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Bacteria::Vi khuẩn *(Phát âm: /bækˈtɪə.ri.ə/)* ![[bacteria.mp3]]<br><br>👪 **Word Family:** bacterial, bacteriologist<br><br>💬 **Ví dụ:** Wash your hands to get rid of bacteria.<br>*(-> Hãy rửa tay để loại bỏ vi khuẩn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A member of a large group of unicellular microorganisms which have cell walls but lack an organized nucleus, including some which can cause disease.

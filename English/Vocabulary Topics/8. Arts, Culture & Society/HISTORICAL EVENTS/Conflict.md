@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Conflict
 *noun*
 > /ˈkɒn.flɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Conflict::Cuộc xung đột, sự mâu thuẫn *(Phát âm: /ˈkɒn.flɪkt/)* ![[conflict.mp3]]<br><br>👪 **Word Family:** conflicting (adj), conflictual (adj)<br><br>💬 **Ví dụ:** Try to resolve the conflict with your co-worker through open communication.<br>*(-> Hãy cố gắng giải quyết mâu thuẫn với đồng nghiệp thông qua giao tiếp cởi mở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A serious disagreement or argument, typically a protracted one.

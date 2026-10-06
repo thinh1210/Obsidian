@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Invest
 *v.*
 > /ɪnˈvest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Invest::Đầu tư *(Phát âm: /ɪnˈvest/)* ![[invest.mp3]]<br><br>👪 **Word Family:** investment (n), investor (n)<br><br>💬 **Ví dụ:** They decided to invest their savings in a small apartment.<br>*(-> Họ quyết định đầu tư tiền tiết kiệm của mình vào một căn hộ nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Put money into financial schemes, shares, property, or a commercial venture with the expectation of achieving a profit.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # King
 *noun*
 > /kɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+King::Vua, đức vua *(Phát âm: /kɪŋ/)* ![[king.mp3]]<br><br>👪 **Word Family:** kingdom (noun), kingly (adj)<br><br>💬 **Ví dụ:** The king ruled his country for forty years.<br>*(-> Đức vua đã cai trị đất nước của mình trong bốn mươi năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A male ruler of a country, who holds this position by right of birth

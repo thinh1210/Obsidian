@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Inheritance
 *noun*
 > /ɪnˈher.ɪ.təns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Inheritance::Tài sản thừa kế, sự thừa kế *(Phát âm: /ɪnˈher.ɪ.təns/)* ![[inheritance.mp3]]<br><br>👪 **Word Family:** inherit (v), inheritor (n)<br><br>💬 **Ví dụ:** She spent her inheritance on starting a non-profit organization.<br>*(-> Cô ấy đã dành tài sản thừa kế của mình để khởi nghiệp một tổ chức phi lợi nhuận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money or property that you receive from someone who has died

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Occasionally
 *adv.*
 > /əˈkeɪ.ʒən.əl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Occasionally::Thỉnh thoảng, đôi lúc, thi thoảng vào những dịp nhất định *(Phát âm: /əˈkeɪ.ʒən.əl.i/)* ![[occasionally.mp3]]<br><br>👪 **Word Family:** occasion (n), occasional (adj)<br><br>💬 **Ví dụ:** We still enjoy home-cooked meals, but we occasionally treat ourselves to fine dining.<br>*(-> Chúng tôi vẫn thích các bữa cơm nhà, nhưng thỉnh thoảng cũng tự thưởng cho mình một bữa tối sang trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sometimes but not often; now and then.

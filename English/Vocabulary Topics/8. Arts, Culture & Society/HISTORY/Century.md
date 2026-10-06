@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Century
 *noun*
 > /ˈsen.tʃər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Century::Thế kỷ (100 năm) *(Phát âm: /ˈsen.tʃər.i/)* ![[century.mp3]]<br><br>👪 **Word Family:** centurion (n), centennial (adj)<br><br>💬 **Ví dụ:** This church was built in the twelfth century.<br>*(-> Ngôi nhà thờ này được xây dựng vào thế kỷ thứ mười hai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of one hundred years.

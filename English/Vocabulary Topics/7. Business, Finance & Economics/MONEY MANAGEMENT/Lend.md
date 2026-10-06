@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Lend
 *Verb*
 > /lend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
+
+## 🗂️ Flashcard
+Lend::Cho mượn, cho vay (đưa thứ gì đó cho ai dùng một thời gian và mong được trả lại) *(Phát âm: /lend/)* ![[lend.mp3]]<br><br>👪 **Word Family:** Noun: lender (người cho vay)<br><br>💬 **Ví dụ:** I can lend you my umbrella if it's still raining.<br>*(-> Tôi có thể cho bạn mượn ô nếu trời vẫn còn mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something to someone for a period of time, expecting it to be returned.

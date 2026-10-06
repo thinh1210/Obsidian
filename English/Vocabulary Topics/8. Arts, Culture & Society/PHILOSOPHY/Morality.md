@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Morality
 *n.*
 > /məˈræl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Morality::Đạo đức, hệ thống đạo đức *(Phát âm: /məˈræl.ə.ti/)* ![[morality.mp3]]<br><br>👪 **Word Family:** moral, moralize, morally<br><br>💬 **Ví dụ:** Society often imposes its own morality on individuals.<br>*(-> Xã hội thường áp đặt hệ thống đạo đức của riêng mình lên các cá nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Principles concerning the distinction between right and wrong or good and bad behavior.

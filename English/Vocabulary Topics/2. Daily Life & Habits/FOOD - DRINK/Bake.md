@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Bake
 *v.*
 > /beɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Bake::Nướng (bánh) *(Phát âm: /beɪk/)* ![[bake.mp3]]<br><br>👪 **Word Family:** baker<br><br>💬 **Ví dụ:** I like to bake cookies.<br>*(-> Tôi thích nướng bánh quy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Cook (food) by dry heat without direct exposure to a flame, typically in an oven.

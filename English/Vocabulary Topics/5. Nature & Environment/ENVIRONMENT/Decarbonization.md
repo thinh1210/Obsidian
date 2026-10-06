@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Decarbonization
 *n.*
 > /ˌdiːˌcɑːbənaɪˈzeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Decarbonization::Sự khử carbon, giảm phát thải carbon *(Phát âm: /ˌdiːˌcɑːbənaɪˈzeɪʃn/)* ![[decarbonization.mp3]]<br><br>👪 **Word Family:** decarbonize (v)<br><br>💬 **Ví dụ:** Decarbonization of the energy sector is crucial to stop global warming.<br>*(-> Khử carbon trong ngành năng lượng là rất quan trọng để ngăn chặn sự nóng lên toàn cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The reduction or elimination of carbon dioxide emissions from a process, industry, or economy.

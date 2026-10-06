@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Dirty
 *adj.*
 > /ˈdɜː.ti/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Dirty::Bẩn thỉu, lấm lem, dơ bẩn; gian lận, không trung thực *(Phát âm: /ˈdɜː.ti/)* ![[dirty.mp3]]<br><br>👪 **Word Family:** dirt (n), dirtiness (n)<br><br>💬 **Ví dụ:** Wash your dirty hands thoroughly before sitting down at the dinner table.<br>*(-> Hãy rửa sạch đôi tay lấm lem trước khi ngồi vào bàn ăn tối.)*
+<!--SR:!2026-10-06,4,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Marked by or covered with dirt, grime, or unclean matter; not clean.

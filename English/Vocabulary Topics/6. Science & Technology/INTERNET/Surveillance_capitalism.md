@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Surveillance capitalism
 *noun*
 > /səˈveɪ.ləns ˈkæp.ɪ.tə.lɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Surveillance_capitalism::Chủ nghĩa tư bản giám sát (kinh doanh dựa trên khai thác dữ liệu cá nhân từ giám sát mạng) *(Phát âm: /səˈveɪ.ləns ˈkæp.ɪ.tə.lɪ.zəm/)* ![[surveillance_capitalism.mp3]]<br><br>👪 **Word Family:** surveillance (n), capitalism (n), capitalist (adj/n)<br><br>💬 **Ví dụ:** Many people are unaware that their browsing habits fuel surveillance capitalism.<br>*(-> Nhiều người không biết rằng thói quen lướt web của họ nuôi dưỡng chủ nghĩa tư bản giám sát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An economic system centered on the commodification of personal data collected through Internet surveillance for profit.

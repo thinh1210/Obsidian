@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Salary
 *n.*
 > /ˈsæl.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
+
+## 🗂️ Flashcard
+Salary::Lương tháng *(Phát âm: /ˈsæl.ər.i/)* ![[salary.mp3]]<br><br>👪 **Word Family:** salaried<br><br>💬 **Ví dụ:** She receives a monthly salary of $3000.<br>*(-> Cô ấy nhận mức lương hàng tháng là 3000 đô la.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A fixed regular payment made by an employer to an employee

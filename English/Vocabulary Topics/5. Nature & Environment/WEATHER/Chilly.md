@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Chilly
 *adj.*
 > /ˈtʃɪli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Chilly::Se lạnh, lạnh run người *(Phát âm: /ˈtʃɪli/)* ![[chilly.mp3]]<br><br>👪 **Word Family:** Chill (noun/verb/adj), chilliness (noun)<br><br>💬 **Ví dụ:** It is a bit chilly today, so wear a light sweater.<br>*(-> Hôm nay trời hơi se lạnh đấy, vì vậy hãy mặc một chiếc áo len nhẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unpleasantly cold

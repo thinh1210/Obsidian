@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Strange
 *adj.*
 > /streɪndʒ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Strange::Lạ lùng, kỳ lạ, khác thường, khó hiểu *(Phát âm: /streɪndʒ/)* ![[strange.mp3]]<br><br>👪 **Word Family:** strangely (adv), strangeness (n), stranger (n)<br><br>💬 **Ví dụ:** I heard a strange noise coming from the attic late last night.<br>*(-> Tôi nghe thấy một âm thanh kỳ lạ phát ra từ gác xép vào đêm muộn hôm qua.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unusual or unexpected, especially in a way that is surprising or difficult to understand.

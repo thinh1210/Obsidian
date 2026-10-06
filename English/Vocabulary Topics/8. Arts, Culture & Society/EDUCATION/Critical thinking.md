@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Critical thinking
 *n.*
 > /ˌkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Critical thinking::Năng lực tư duy phản biện, phân tích khách quan bằng chứng để đưa ra nhận định đúng đắn *(Phát âm: /ˌkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ/)* ![[critical_thinking.mp3]]<br><br>👪 **Word Family:** critical (adj), critically (adv), think (v)<br><br>💬 **Ví dụ:** Evaluating whether news stories are factual or biased requires sharp critical thinking.<br>*(-> Đánh giá xem tin tức là sự thật hay thiên vị đòi hỏi tư duy phản biện sắc bén.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The objective analysis and evaluation of an issue or evidence in order to form a reasoned judgment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Avocation
 *n*
 > /ˌævəˈkeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Avocation::Nghề phụ, thú vui *(Phát âm: /ˌævəˈkeɪʃn/)* ![[avocation.mp3]]<br><br>👪 **Word Family:** Avocational (adj)<br><br>💬 **Ví dụ:** Photography is his avocation, not his job.<br>*(-> Nhiếp ảnh là thú vui của anh ấy, không phải công việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hobby or minor occupation.

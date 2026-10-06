@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Surf
 *v*
 > /sɜːrf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Surf::Lướt sóng, lướt web *(Phát âm: /sɜːrf/)* ![[surf.mp3]]<br><br>👪 **Word Family:** surfing (n), surfer (n), surfboard (n)<br><br>💬 **Ví dụ:** They like to surf in California.<br>*(-> Họ thích lướt sóng ở California.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To ride on a wave towards the shore while standing or lying on a surfboard.

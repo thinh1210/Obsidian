@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Custom
 *n.*
 > /ˈkʌs.təm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Custom::Phong tục, tập quán *(Phát âm: /ˈkʌs.təm/)* ![[custom.mp3]]<br><br>👪 **Word Family:** customary, customer<br><br>💬 **Ví dụ:** It is the custom in Japan to bow when greeting people.<br>*(-> Phong tục ở Nhật Bản là cúi chào khi gặp mọi người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional and widely accepted way of behaving or doing something that is specific to a particular society, place, or time.

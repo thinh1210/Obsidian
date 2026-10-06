@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Trip
 *noun*
 > /trɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Trip::Chuyến đi *(Phát âm: /trɪp/)* ![[trip.mp3]]<br><br>👪 **Word Family:** Trips<br><br>💬 **Ví dụ:** How was your trip?<br>*(-> Chuyến đi của bạn thế nào?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey in which you go somewhere, usually for a short time

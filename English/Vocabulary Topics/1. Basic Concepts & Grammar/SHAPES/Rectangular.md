@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Rectangular
 *adj.*
 > /rekˈtæŋ.ɡjə.lər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Rectangular::Có hình chữ nhật *(Phát âm: /rekˈtæŋ.ɡjə.lər/)* ![[rectangular.mp3]]<br><br>👪 **Word Family:** Rectangle (n)<br><br>💬 **Ví dụ:** The swimming pool is rectangular.<br>*(-> Hồ bơi có hình chữ nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shaped like a rectangle.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Literature
 *noun*
 > /ˈlɪt.rə.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Literature::Văn học *(Phát âm: /ˈlɪt.rə.tʃər/)* ![[literature.mp3]]<br><br>👪 **Word Family:** literary (adj), literate (adj), illiteracy (n)<br><br>💬 **Ví dụ:** She decided to study English literature at university.<br>*(-> Cô ấy quyết định học ngành văn học Anh tại trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Written works, especially those considered of superior or lasting artistic merit.

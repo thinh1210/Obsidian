@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Composer
 *n.*
 > /kəmˈpəʊzə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Composer::Nhà soạn nhạc *(Phát âm: /kəmˈpəʊzə(r)/)* ![[composer.mp3]]<br><br>👪 **Word Family:** compose, composition<br><br>💬 **Ví dụ:** Mozart is one of the most famous composers in history.<br>*(-> Mozart là một trong những nhà soạn nhạc nổi tiếng nhất trong lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who writes music, especially as a professional occupation.

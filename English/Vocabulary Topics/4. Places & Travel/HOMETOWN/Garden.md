@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Garden
 *n.*
 > /ˈɡɑːdn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Garden::Khu vườn *(Phát âm: /ˈɡɑːdn/)* ![[garden.mp3]]<br><br>👪 **Word Family:** Gardener (n.)<br><br>💬 **Ví dụ:** She is planting roses in the garden.<br>*(-> Cô ấy đang trồng hoa hồng trong vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of ground next to a house, used for growing flowers or plants.

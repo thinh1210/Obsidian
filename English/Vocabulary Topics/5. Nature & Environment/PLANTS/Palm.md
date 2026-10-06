@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Palm
 *n.*
 > /pɑːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Palm::Cây cọ, cây dừa nhiệt đới có thân thẳng không phân cành và tán lá lớn hình lông vũ *(Phát âm: /pɑːm/)* ![[palm.mp3]]<br><br>👪 **Word Family:** palmy (adj), palmaceous (adj)<br><br>💬 **Ví dụ:** Hammocks hung comfortably between two tall palm trees along the sandy white beach.<br>*(-> Những chiếc võng mắc êm ái giữa hai cây dừa cao vút dọc bờ cát trắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tropical tree with a straight stem and no branches, bearing a crown of long feathery leaves.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Reconcile
 *v.*
 > /ˈrek.ən.saɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Reconcile::Hòa giải, giải quyết bất đồng để nối lại tình bạn xưa sau cãi vã *(Phát âm: /ˈrek.ən.saɪl/)* ![[reconcile.mp3]]<br><br>👪 **Word Family:** reconciliation (n), reconcilable (adj)<br><br>💬 **Ví dụ:** After months of stubborn silence, the two buddies met for dinner and managed to reconcile.<br>*(-> Sau nhiều tháng im lặng bướng bỉnh, hai người bạn đã gặp nhau ăn tối và làm lành thành công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To restore friendly relations between two people after an argument.

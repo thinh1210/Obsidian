@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Migration
 *noun*
 > /maɪˈɡreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Migration::Sự di cư *(Phát âm: /maɪˈɡreɪ.ʃən/)* ![[migration.mp3]]<br><br>👪 **Word Family:** migrate (v), migration (n), migratory (adj)<br><br>💬 **Ví dụ:** Autumn is the time for bird migration.<br>*(-> Mùa thu là thời điểm chim di cư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The seasonal movement of animals from one region to another.

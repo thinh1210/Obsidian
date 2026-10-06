@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Deciduous
 *Adjective*
 > /dɪˈsɪdʒuəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Deciduous::Rụng lá (cây rụng lá theo mùa) *(Phát âm: /dɪˈsɪdʒuəs/)* ![[deciduous.mp3]]<br><br>👪 **Word Family:** deciduousness<br><br>💬 **Ví dụ:** Maple trees are common deciduous plants in North America.<br>*(-> Cây phong là loại cây rụng lá theo mùa phổ biến ở Bắc Mỹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a tree or shrub) shedding its leaves annually.

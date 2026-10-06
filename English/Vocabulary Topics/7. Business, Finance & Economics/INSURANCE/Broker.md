@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Broker
 *n.*
 > /ˈbrəʊkər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Broker::Người môi giới bảo hiểm *(Phát âm: /ˈbrəʊkər/)* ![[broker.mp3]]<br><br>👪 **Word Family:** brokerage, broker (v)<br><br>💬 **Ví dụ:** We hired an insurance broker to find the cheapest business insurance.<br>*(-> Chúng tôi đã thuê một người môi giới bảo hiểm để tìm gói bảo hiểm doanh nghiệp rẻ nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who buys and sells insurance for others, helping clients find the best deal.

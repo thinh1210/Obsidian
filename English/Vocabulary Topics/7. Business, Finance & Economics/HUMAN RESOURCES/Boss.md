@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Boss
 *n.*
 > /bɒs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Boss::Sếp, cấp trên *(Phát âm: /bɒs/)* ![[boss.mp3]]<br><br>👪 **Word Family:** bossy<br><br>💬 **Ví dụ:** My boss is very friendly and supportive.<br>*(-> Sếp của tôi rất thân thiện và hay hỗ trợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person in charge of a worker or organization

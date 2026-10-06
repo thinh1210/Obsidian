@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Revolution
 *noun*
 > /ˌrev.əˈluː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Revolution::Cuộc cách mạng *(Phát âm: /ˌrev.əˈluː.ʃən/)* ![[revolution.mp3]]<br><br>👪 **Word Family:** revolutionary (adj/n), revolutionize (v)<br><br>💬 **Ví dụ:** The French Revolution of 1789 brought an end to the monarchy.<br>*(-> Cuộc Cách mạng Pháp năm 1789 đã chấm dứt chế độ quân chủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A forcible overthrow of a government or social order, in favor of a new system.

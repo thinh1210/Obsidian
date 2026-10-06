@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Password
 *n.*
 > /ˈpɑːs.wɜːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Password::Chuỗi ký tự bí mật dùng để xác thực quyền truy cập tài khoản *(Phát âm: /ˈpɑːs.wɜːd/)* ![[password.mp3]]<br><br>👪 **Word Family:** passphrase (n), passcode (n)<br><br>💬 **Ví dụ:** Never share your banking password with anyone over email or text message.<br>*(-> Đừng bao giờ chia sẻ mật khẩu ngân hàng cho bất kỳ ai qua email hay tin nhắn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A secret word or string of characters used for user authentication and account access.

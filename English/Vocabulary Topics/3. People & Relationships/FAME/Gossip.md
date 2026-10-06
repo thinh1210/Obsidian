@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Gossip
 *n.*
 > /ˈɡɒsɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
+
+## 🗂️ Flashcard
+Gossip::Chuyện tầm phào, tin đồn *(Phát âm: /ˈɡɒsɪp/)* ![[gossip.mp3]]<br><br>👪 **Word Family:** gossipy (adj.)<br><br>💬 **Ví dụ:** She loves listening to gossip.<br>*(-> Cô ấy thích nghe chuyện tầm phào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Casual conversation or reports about other people, typically involving details that are not confirmed as being true.

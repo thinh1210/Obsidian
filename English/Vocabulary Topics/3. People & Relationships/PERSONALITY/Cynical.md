@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Cynical
 *adj.*
 > /ˈsɪn.ɪ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Cynical::Hoài nghi cay độc, luôn nghĩ người khác hành động vì tư lợi ích kỷ *(Phát âm: /ˈsɪn.ɪ.kəl/)* ![[cynical.mp3]]<br><br>👪 **Word Family:** cynic (n), cynicism (n), cynically (adv)<br><br>💬 **Ví dụ:** Over the years, working in politics made him deeply cynical about public promises.<br>*(-> Qua nhiều năm làm chính trị, ông dần trở nên vô cùng hoài nghi đối với những lời hứa hẹn công khai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Believing that people are only interested in helping themselves and are not sincere.

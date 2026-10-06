@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Flood
 *noun*
 > /flʌd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Flood::Lũ lụt, nạn lụt *(Phát âm: /flʌd/)* ![[flood.mp3]]<br><br>👪 **Word Family:** flood (v), flooded (adj), flooding (n)<br><br>💬 **Ví dụ:** The heavy rain caused a sudden flood in our street.<br>*(-> Cơn mưa lớn đã gây ra một trận lũ đột ngột trên đường phố của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large amount of water covering an area that is usually dry.

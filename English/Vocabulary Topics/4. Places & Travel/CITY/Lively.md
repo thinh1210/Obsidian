@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Lively
 *adj.*
 > /ˈlaɪvli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Lively::Rộn rã, tưng bừng và tràn trề năng lượng sinh động *(Phát âm: /ˈlaɪvli/)* ![[lively.mp3]]<br><br>👪 **Word Family:** liveliness (n), live (v/adj)<br><br>💬 **Ví dụ:** The pedestrian street had a remarkably lively weekend vibe.<br>*(-> Con phố đi bộ mang một không khí cuối tuần vô cùng sôi động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Full of life and energy; active and enthusiastic.

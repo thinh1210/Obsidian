@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Nurture
 *verb*
 > /ˈnɝː.tʃɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Nurture::Nuôi dưỡng, bồi dưỡng *(Phát âm: /ˈnɝː.tʃɚ/)* ![[nurture.mp3]]<br><br>👪 **Word Family:** Nurturing (adj)<br><br>💬 **Ví dụ:** Parents must nurture their children's talents.<br>*(-> Cha mẹ phải nuôi dưỡng tài năng của con cái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Care for and encourage the growth or development of.

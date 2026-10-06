@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Seafood
 *n.*
 > /ˈsiː.fuːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Seafood::Hải sản, đồ biển *(Phát âm: /ˈsiː.fuːd/)* ![[seafood.mp3]]<br><br>💬 **Ví dụ:** Whenever we travel to the coast, we always feast on fresh seafood.<br>*(-> Mỗi khi đi du lịch biển, chúng tôi luôn thưởng thức hải sản tươi sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Animals from the sea that can be eaten, especially fish and shellfish.

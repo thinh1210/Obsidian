@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Thunderstorm
 *n.*
 > /ˈθʌndəstɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Thunderstorm::Cơn dông tố, bão lớn sấm sét đùng đoàng kèm mưa rào xối xả *(Phát âm: /ˈθʌndəstɔːm/)* ![[thunderstorm.mp3]]<br><br>👪 **Word Family:** thunder (n/v), thundery (adj), storm (n)<br><br>💬 **Ví dụ:** A fierce thunderstorm broke out late in the afternoon, shaking the windows.<br>*(-> Một cơn dông dữ dội bùng phát vào cuối buổi chiều, làm rung chuyển cả cửa kính sổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A storm with thunder and lightning and typically also heavy rain or hail.

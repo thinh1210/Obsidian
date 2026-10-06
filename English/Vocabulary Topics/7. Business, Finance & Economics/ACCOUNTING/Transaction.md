@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Transaction
 *n.*
 > /trænˈzækʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Transaction::Giao dịch *(Phát âm: /trænˈzækʃən/)* ![[transaction.mp3]]<br><br>👪 **Word Family:** transact, transactional<br><br>💬 **Ví dụ:** The online transaction was completed within seconds.<br>*(-> Giao dịch trực tuyến đã hoàn thành trong vòng vài giây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An occasion when money is business-wise exchanged, or an act of buying or selling

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Translate
 *v.*
 > /trænzˈleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Translate::Dịch, biên dịch *(Phát âm: /trænzˈleɪt/)* ![[translate.mp3]]<br><br>👪 **Word Family:** translation, translator, translatable<br><br>💬 **Ví dụ:** Can you translate this letter for me?<br>*(-> Bạn có thể dịch lá thư này giúp tôi không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To express the sense of words or text in another language

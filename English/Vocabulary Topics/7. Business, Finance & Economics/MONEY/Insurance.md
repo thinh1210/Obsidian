@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Insurance
 *noun*
 > /ɪnˈʃɔː.rəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Insurance::Bảo hiểm *(Phát âm: /ɪnˈʃɔː.rəns/)* ![[insurance.mp3]]<br><br>👪 **Word Family:** insure (v), insurer (n), insured (adj)<br><br>💬 **Ví dụ:** Do you have health insurance through your employer?<br>*(-> Bạn có bảo hiểm y tế do người sử dụng lao động cung cấp không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A practice or arrangement by which a company provides a guarantee of compensation for specified loss, damage, illness, or death

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Bandwidth
 *n.*
 > /ˈbændwɪdθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Bandwidth::Băng thông; sức lực/thời gian để xử lý việc gì *(Phát âm: /ˈbændwɪdθ/)* ![[bandwidth.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Streaming 4K video requires a lot of bandwidth.<br>*(-> Phát video 4K đòi hỏi nhiều băng thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of data that can be transmitted in a fixed amount of time; also, mental capacity to handle tasks.

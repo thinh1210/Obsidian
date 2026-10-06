@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Solvency
 *noun*
 > /ˈsɑːlvənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Solvency::khả năng thanh toán nợ dài hạn *(Phát âm: /ˈsɑːlvənsi/)* ![[solvency.mp3]]<br><br>👪 **Word Family:** solvent (adjective), insolvency (noun)<br><br>💬 **Ví dụ:** The bank manager checked the firm's solvency before approving the loan extension.<br>*(-> Giám đốc ngân hàng đã kiểm tra khả năng thanh toán của công ty trước khi phê duyệt gia hạn khoản vay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the ability of a company to meet its long-term financial obligations.

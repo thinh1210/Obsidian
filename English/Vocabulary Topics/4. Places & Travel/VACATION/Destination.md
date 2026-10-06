@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Destination
 *Noun*
 > /ˌdɛstɪˈneɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Destination::Điểm đến *(Phát âm: /ˌdɛstɪˈneɪʃən/)* ![[destination.mp3]]<br><br>👪 **Word Family:** destine (v)<br><br>💬 **Ví dụ:** Paris is a popular tourist destination.<br>*(-> Paris là điểm đến du lịch phổ biến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place to which someone or something is going.

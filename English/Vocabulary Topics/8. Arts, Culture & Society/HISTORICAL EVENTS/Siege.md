@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Siege
 *noun*
 > /siːdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Siege::Sự bao vây, cuộc vây hãm *(Phát âm: /siːdʒ/)* ![[siege.mp3]]<br><br>👪 **Word Family:** besiege (verb)<br><br>💬 **Ví dụ:** The fans laid siege to the concert hall doors, waiting for the singer to exit.<br>*(-> Các cổ động viên đã bao vây các cánh cửa của phòng hòa nhạc, chờ đợi ca sĩ bước ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling the surrender of those inside.

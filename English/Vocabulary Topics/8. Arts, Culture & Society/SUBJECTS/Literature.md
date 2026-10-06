@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Literature
 *noun*
 > /ˈlɪtrətʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Literature::Vân học, môn Ngữ văn *(Phát âm: /ˈlɪtrətʃə(r)/)* ![[literature.mp3]]<br><br>👪 **Word Family:** literary, literate<br><br>💬 **Ví dụ:** We are reading a classic play in literature class.<br>*(-> Chúng tôi đang đọc một vở kịch cổ điển trong giờ văn học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Written works, especially those considered of superior or lasting artistic merit.

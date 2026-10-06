@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Ring
 *noun*
 > /rɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Ring::Cái nhẫn *(Phát âm: /rɪŋ/)* ![[ring.mp3]]<br><br>👪 **Word Family:** Ringed (adj)<br><br>💬 **Ví dụ:** He bought a diamond ring.<br>*(-> Anh ấy đã mua một chiếc nhẫn kim cương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circular piece of jewellery worn especially on your finger.

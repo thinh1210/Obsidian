@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Game
 *n.*
 > /ɡeɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Game::Trò chơi, trận đấu *(Phát âm: /ɡeɪm/)* ![[game.mp3]]<br><br>👪 **Word Family:** gamer, gaming, games<br><br>💬 **Ví dụ:** We played a fun game at the party last night.<br>*(-> Chúng tôi đã chơi một trò chơi vui nhộn tại bữa tiệc tối qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity or sport that is played according to rules and in which there is a winner and a loser.

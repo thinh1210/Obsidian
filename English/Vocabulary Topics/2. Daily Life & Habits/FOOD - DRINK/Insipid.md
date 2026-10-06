@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Insipid
 *adj.*
 > /ɪnˈsɪp.ɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Insipid::Vô vị, nhạt nhẽo *(Phát âm: /ɪnˈsɪp.ɪd/)* ![[insipid.mp3]]<br><br>👪 **Word Family:** insipidity<br><br>💬 **Ví dụ:** The coffee was insipid.<br>*(-> Cà phê nhạt nhẽo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Lacking flavor.

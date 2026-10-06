@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Galaxy
 *noun*
 > /ˈɡæl.ək.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Galaxy::Thiên hà *(Phát âm: /ˈɡæl.ək.si/)* ![[galaxy.mp3]]<br><br>👪 **Word Family:** galactic (adj)<br><br>💬 **Ví dụ:** We can see the Milky Way galaxy on a clear night.<br>*(-> Chúng ta có thể nhìn thấy thiên hà Ngân Hà vào một đêm trời trong.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large system of stars, gas, and dust held together by gravity.

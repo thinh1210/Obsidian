@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Attack
 *v./n.*
 > /əˈtæk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Attack::Hành động dâng cao đội hình tấn công nhằm ghi bàn thắng vào lưới đối thủ *(Phát âm: /əˈtæk/)* ![[attack.mp3]]<br><br>👪 **Word Family:** attacker (n), attacking (adj)<br><br>💬 **Ví dụ:** Our coach told the wingers to attack with pace as soon as we regained possession.<br>*(-> Huấn luyện viên bảo các cầu thủ chạy cánh hãy tấn công bằng tốc độ ngay khi giành lại bóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An aggressive attempt to score goals or points against the opposing team in a sports match.

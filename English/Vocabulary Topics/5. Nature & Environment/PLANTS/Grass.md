@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Grass
 *noun*
 > /ɡrɑːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Grass::Cỏ *(Phát âm: /ɡrɑːs/)* ![[grass.mp3]]<br><br>👪 **Word Family:** Noun: grass (cỏ), Verb: grass (trồng cỏ), Adjective: grassy (đầy cỏ)<br><br>💬 **Ví dụ:** We laid a blanket on the green grass for a picnic.<br>*(-> Chúng tôi trải một tấm chăn trên bãi cỏ xanh để dã ngoại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A common plant with thin green leaves that covers the ground.

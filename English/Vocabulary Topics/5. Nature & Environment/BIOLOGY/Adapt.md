@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Adapt
 *verb*
 > /əˈdæpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Adapt::Thích nghi, thích ứng *(Phát âm: /əˈdæpt/)* ![[adapt.mp3]]<br><br>👪 **Word Family:** adaptation, adaptable, adaptability<br><br>💬 **Ví dụ:** Animals must adapt to cold winters.<br>*(-> Động vật phải thích nghi với mùa đông lạnh giá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Become adjusted to new conditions.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Endeavor
 *n./v.*
 > /ɪnˈdev.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Endeavor::Sự nỗ lực, cố gắng *(Phát âm: /ɪnˈdev.ər/)* ![[endeavor.mp3]]<br><br>👪 **Word Family:** endeavored<br><br>💬 **Ví dụ:** We wish you success in all your future endeavors.<br>*(-> Chúng tôi chúc bạn thành công trong mọi nỗ lực tương lai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An attempt to achieve a goal; to try hard to do or achieve something

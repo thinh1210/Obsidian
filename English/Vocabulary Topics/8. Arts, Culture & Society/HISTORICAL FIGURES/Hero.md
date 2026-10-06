@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Hero
 *n.*
 > /ˈhɪərəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Hero::Anh hùng *(Phát âm: /ˈhɪərəʊ/)* ![[hero.mp3]]<br><br>👪 **Word Family:** heroine, heroic, heroism<br><br>💬 **Ví dụ:** To the children, their father was a hero.<br>*(-> Đối với lũ trẻ, cha của chúng là một vị anh hùng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person admired for their courage, outstanding achievements, or noble qualities

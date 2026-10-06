@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Exclusion
 *noun*
 > /ɪkˈskluːʒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Exclusion::Sự loại trừ, sự đuổi học *(Phát âm: /ɪkˈskluːʒn/)* ![[exclusion.mp3]]<br><br>👪 **Word Family:** exclude (v), exclusive (adj), exclusively (adv)<br><br>💬 **Ví dụ:** The headteacher threatened him with temporary exclusion if his behavior didn't improve.<br>*(-> Thầy hiệu trưởng đe dọa sẽ đình chỉ học tạm thời nếu hành vi của cậu không cải thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process or state of excluding or being excluded; expulsion from school.

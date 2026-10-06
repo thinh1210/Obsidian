@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Allergy
 *n*
 > /ˈælədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Allergy::Sự dị ứng *(Phát âm: /ˈælədʒi/)* ![[allergy.mp3]]<br><br>👪 **Word Family:** allergic (adj), allergen (n)<br><br>💬 **Ví dụ:** I have a severe allergy to peanuts, so I must read food labels carefully.<br>*(-> Tôi bị dị ứng nặng với đậu phộng, vì vậy tôi phải đọc kỹ nhãn thực phẩm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A damaging immune response by the body to a substance, especially pollen, fur, a particular food, or dust.

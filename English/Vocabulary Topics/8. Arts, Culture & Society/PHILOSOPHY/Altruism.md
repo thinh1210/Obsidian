@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Altruism
 *n.*
 > /ˈæl.tru.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Altruism::Lòng vị tha, chủ nghĩa vị tha *(Phát âm: /ˈæl.tru.ɪ.zəm/)* ![[altruism.mp3]]<br><br>👪 **Word Family:** altruistic, altruistically<br><br>💬 **Ví dụ:** Giving anonymously to charity is an act of pure altruism.<br>*(-> Quyên góp ẩn danh cho tổ chức từ thiện là một hành động vị tha thuần túy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Selfless concern for the well-being of others.

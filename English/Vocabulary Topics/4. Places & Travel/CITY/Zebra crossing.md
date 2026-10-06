@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Zebra crossing
 *n.*
 > /ˌzebrə ˈkrɒsɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Zebra crossing::Vạch sọc trắng đen trên đường dành cho người đi bộ băng qua an toàn *(Phát âm: /ˌzebrə ˈkrɒsɪŋ/)* ![[zebra_crossing.mp3]]<br><br>👪 **Word Family:** cross (v), crossing (n)<br><br>💬 **Ví dụ:** Drivers are legally required to yield to walkers at zebra crossings.<br>*(-> Tài xế có nghĩa vụ nhường đường cho người đi bộ tại các vạch kẻ sang đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pedestrian crossing marked with broad white stripes across the road.

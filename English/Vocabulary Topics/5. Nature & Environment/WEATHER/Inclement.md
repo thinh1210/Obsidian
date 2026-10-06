@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Inclement
 *adj.*
 > /ɪnˈklemənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Inclement::Khắc nghiệt, thời tiết xấu (lạnh, mưa bão) *(Phát âm: /ɪnˈklemənt/)* ![[inclement.mp3]]<br><br>👪 **Word Family:** Inclemency (noun)<br><br>💬 **Ví dụ:** The outdoor concert was cancelled because of inclement weather.<br>*(-> Buổi hòa nhạc ngoài trời đã bị hủy vì thời tiết xấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of weather) unpleasant, cold, wet, or stormy

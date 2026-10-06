@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Infrastructure
 *n.*
 > /ˈɪnfrəˌstrʌktʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Infrastructure::Cơ sở hạ tầng *(Phát âm: /ˈɪnfrəˌstrʌktʃər/)* ![[infrastructure.mp3]]<br><br>👪 **Word Family:** Infrastructural (adj.)<br><br>💬 **Ví dụ:** The city needs to upgrade its internet infrastructure.<br>*(-> Thành phố cần nâng cấp cơ sở hạ tầng internet.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.

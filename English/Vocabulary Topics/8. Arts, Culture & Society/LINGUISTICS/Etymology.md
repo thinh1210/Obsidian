@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Etymology
 *noun*
 > /ˌet.ɪˈmɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
+
+## 🗂️ Flashcard
+Etymology::từ nguyên học, nguồn gốc từ *(Phát âm: /ˌet.ɪˈmɒl.ə.dʒi/)* ![[etymology.mp3]]<br><br>👪 **Word Family:** etymological (adj), etymologist (n)<br><br>💬 **Ví dụ:** The etymology of the word "cliché" comes from a French printing term.<br>*(-> Nguồn gốc của từ "cliché" xuất phát từ một thuật ngữ in ấn của Pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of the origin and history of words, or the origin of a particular word

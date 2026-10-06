@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Category
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - class, group, division
+
+
+## 🗂️ Flashcard
+Category::Hạng mục, thể loại, danh mục *(Phát âm: /ˈkæt.ə.ɡri/)* ![[category.mp3]]<br><br>👪 **Word Family:** [Noun]: category, categorization, [Verb]: categorize, [Adj]: categorical, [Adv]: categorically<br><br>💬 **Ví dụ:** Books are divided into categories by genre.<br>*(-> Sách được chia thành các thể loại theo thể loại văn học.)*

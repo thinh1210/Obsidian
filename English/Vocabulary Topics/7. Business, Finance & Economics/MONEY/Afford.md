@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Afford
 *verb*
 > /əˈfɔːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Afford::Có đủ khả năng chi trả *(Phát âm: /əˈfɔːd/)* ![[afford.mp3]]<br><br>👪 **Word Family:** affordable (adj), affordability (n)<br><br>💬 **Ví dụ:** I can't afford a new car right now.<br>*(-> Tôi không thể đủ tiền mua xe hơi mới vào lúc này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have enough money to pay for something

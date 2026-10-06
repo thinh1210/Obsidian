@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Run
 *v.*
 > /rʌn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Run::Chạy *(Phát âm: /rʌn/)* ![[run.mp3]]<br><br>👪 **Word Family:** runner, running, runaway<br><br>💬 **Ví dụ:** I like to run in the park every morning.<br>*(-> Tôi thích chạy bộ trong công viên mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move at a speed faster than a walk, never having both feet on the ground at the same time.

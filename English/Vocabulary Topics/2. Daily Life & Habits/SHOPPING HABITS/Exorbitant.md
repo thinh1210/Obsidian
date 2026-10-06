@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Exorbitant
 *adj*
 > /ɪɡˈzɔː.bɪ.tənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Exorbitant::Đắt cắt cổ *(Phát âm: /ɪɡˈzɔː.bɪ.tənt/)* ![[exorbitant.mp3]]<br><br>👪 **Word Family:** Exorbitance<br><br>💬 **Ví dụ:** The prices are exorbitant.<br>*(-> Giá cả đắt cắt cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unreasonably high price

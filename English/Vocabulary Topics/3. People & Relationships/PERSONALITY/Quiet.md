@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Quiet
 *adj.*
 > /ˈkwaɪ.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Quiet::Trầm lặng, kín tiếng, ít nói, yêu thích sự yên tĩnh *(Phát âm: /ˈkwaɪ.ət/)* ![[quiet.mp3]]<br><br>👪 **Word Family:** quietness (n), quietly (adv), quiet (v)<br><br>💬 **Ví dụ:** Hannah is a quiet girl who prefers reading books in her room.<br>*(-> Hannah là một cô bé trầm lặng, thích đọc sách trong phòng riêng hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Making very little noise, or having little conversation or activity.

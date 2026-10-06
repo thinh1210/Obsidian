@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Viscoelastic
 *adjective.*
 > /ˌvɪs.kəʊ.ɪˈlæs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Viscoelastic::Nhớt đàn hồi, vừa nhớt vừa đàn hồi *(Phát âm: /ˌvɪs.kəʊ.ɪˈlæs.tɪk/)* ![[viscoelastic.mp3]]<br><br>👪 **Word Family:** viscoelasticity (Noun)<br><br>💬 **Ví dụ:** Memory foam is a viscoelastic polymer that responds to body heat and pressure.<br>*(-> Đệm memory foam là một polymer nhớt đàn hồi phản ứng với nhiệt độ và áp lực cơ thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exhibiting both viscous and elastic characteristics when undergoing deformation.

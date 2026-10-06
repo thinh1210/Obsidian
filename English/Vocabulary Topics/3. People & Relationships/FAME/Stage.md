@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Stage
 *n.*
 > /steɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Stage::Sân khấu *(Phát âm: /steɪdʒ/)* ![[stage.mp3]]<br><br>👪 **Word Family:** staged (adj.)<br><br>💬 **Ví dụ:** She walked onto the stage.<br>*(-> Cô ấy bước lên sân khấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A raised floor or platform for performers.

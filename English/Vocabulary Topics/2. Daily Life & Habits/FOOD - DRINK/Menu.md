@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Menu
 *n.*
 > /ˈmen.juː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Menu::Thực đơn ghi các món ăn và đồ uống tại quán ăn hay nhà hàng *(Phát âm: /ˈmen.juː/)* ![[menu.mp3]]<br><br>💬 **Ví dụ:** Could we please see the dessert menu before we settle the bill?<br>*(-> Làm ơn cho chúng tôi xem thực đơn tráng miệng trước khi thanh toán hóa đơn được không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A printed list of the food and drinks you can order in a restaurant.

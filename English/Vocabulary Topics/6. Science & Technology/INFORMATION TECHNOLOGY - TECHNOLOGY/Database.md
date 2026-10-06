@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Database
 *n.*
 > /ˈdeɪ.tə.beɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Database::Cơ sở dữ liệu được tổ chức có cấu trúc và dễ dàng truy xuất *(Phát âm: /ˈdeɪ.tə.beɪs/)* ![[database.mp3]]<br><br>👪 **Word Family:** data (n)<br><br>💬 **Ví dụ:** The online bookstore stores millions of book titles and author biographies in its database.<br>*(-> Hiệu sách trực tuyến lưu trữ hàng triệu đầu sách và tiểu sử tác giả trong cơ sở dữ liệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structured set of data held in a computer, especially one that is accessible in various ways.

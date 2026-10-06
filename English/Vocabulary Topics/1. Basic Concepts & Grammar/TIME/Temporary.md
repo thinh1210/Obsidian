@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Temporary
 *adj.*
 > /ˈtemprəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Temporary::Tạm thời *(Phát âm: /ˈtemprəri/)* ![[temporary.mp3]]<br><br>👪 **Word Family:** temporarily (adv.)<br><br>💬 **Ví dụ:** This is a temporary solution.<br>*(-> Đây là một giải pháp tạm thời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for only a limited period of time; not permanent

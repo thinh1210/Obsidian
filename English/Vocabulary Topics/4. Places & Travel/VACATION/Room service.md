@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Room service
 *n.*
 > /ˈruːm sɜːvɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Room service::Dịch vụ đưa đồ ăn, đồ uống hoặc hỗ trợ theo yêu cầu trực tiếp lên phòng nghỉ *(Phát âm: /ˈruːm sɜːvɪs/)* ![[room_service.mp3]]<br><br>👪 **Word Family:** serve (v), servant (n)<br><br>💬 **Ví dụ:** After arriving late at the hotel, we ordered room service for a midnight snack.<br>*(-> Sau khi đến khách sạn muộn, chúng tôi đã gọi dịch vụ phòng để ăn nhẹ lúc nửa đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A service in a hotel allowing guests to order food or drinks to be delivered to their rooms.

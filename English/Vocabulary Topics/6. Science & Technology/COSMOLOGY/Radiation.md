@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Radiation
 *Noun*
 > /ˌreɪ.diˈeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Radiation::Bức xạ, phóng xạ *(Phát âm: /ˌreɪ.diˈeɪ.ʃən/)* ![[radiation.mp3]]<br><br>👪 **Word Family:** radiate (v), radioactive (adj), radiator (n)<br><br>💬 **Ví dụ:** Wear sunscreen to protect your skin from solar radiation.<br>*(-> Hãy bôi kem chống nắng để bảo vệ da khỏi bức xạ mặt trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The emission of energy as electromagnetic waves or moving subatomic particles.

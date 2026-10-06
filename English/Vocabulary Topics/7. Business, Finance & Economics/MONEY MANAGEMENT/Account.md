@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Account
 *Noun*
 > /əˈkaʊnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Account::Tài khoản (thỏa thuận với ngân hàng để giữ tiền của bạn và cho phép rút ra khi cần) *(Phát âm: /əˈkaʊnt/)* ![[account.mp3]]<br><br>👪 **Word Family:** Noun: accountant (kế toán viên), accounting (ngành kế toán), Verb: account (giải thích)<br><br>💬 **Ví dụ:** I need to open a bank account to receive my monthly salary.<br>*(-> Tôi cần mở một tài khoản ngân hàng để nhận lương hàng tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement with a bank to keep your money and let you take it out when you need to.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Habit
 *noun*
 > /ˈhæb.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Habit::Thói quen *(Phát âm: /ˈhæb.ɪt/)* ![[habit.mp3]]<br><br>👪 **Word Family:** habitual (adj)<br><br>💬 **Ví dụ:** Biting nails is a bad habit.<br>*(-> Cắn móng tay là thói quen xấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A settled or regular tendency or practice, especially one that is hard to give up.

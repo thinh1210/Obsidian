@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Loyalty
 *noun*
 > /ˈlɔɪəlti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Loyalty::Lòng trung thành *(Phát âm: /ˈlɔɪəlti/)* ![[loyalty.mp3]]<br><br>👪 **Word Family:** loyal (adj), loyally (adv), loyalist (n)<br><br>💬 **Ví dụ:** She showed her loyalty to the bakery by buying cakes there every birthday.<br>*(-> Cô ấy thể hiện lòng trung thành với tiệm bánh bằng cách mua bánh ở đó vào mỗi dịp sinh nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being loyal to a brand, product, or company; faithfulness

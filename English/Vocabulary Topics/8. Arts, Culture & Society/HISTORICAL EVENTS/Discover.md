@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Discover
 *verb*
 > /dɪˈskʌv.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Discover::Khám phá, phát hiện, tìm ra *(Phát âm: /dɪˈskʌv.ər/)* ![[discover.mp3]]<br><br>👪 **Word Family:** discovery (noun), discoverer (noun)<br><br>💬 **Ví dụ:** We discovered a beautiful hidden beach during our walk.<br>*(-> Chúng tôi đã phát hiện ra một bãi biển ẩn giấu tuyệt đẹp trong lúc đi dạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Find unexpectedly or during a search.

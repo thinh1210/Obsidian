@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Ceiling
 *n.*
 > /ˈsiːlɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Ceiling::Trần nhà *(Phát âm: /ˈsiːlɪŋ/)* ![[ceiling.mp3]]<br><br>👪 **Word Family:** ceil<br><br>💬 **Ví dụ:** The bedroom ceiling was painted light blue.<br>*(-> Trần phòng ngủ được sơn màu xanh lam nhạt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The upper interior surface of a room

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Sue
 *verb*
 > /suː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Sue::Kiện, kiện ra tòa *(Phát âm: /suː/)* ![[sue.mp3]]<br><br>👪 **Word Family:** Sue (v), Lawsuit (n)<br><br>💬 **Ví dụ:** If they do not pay for the damage, I will sue them in court.<br>*(-> Nếu họ không trả tiền bồi thường thiệt hại, tôi sẽ kiện họ ra tòa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Institute legal proceedings against (a person or institution), typically for redress.

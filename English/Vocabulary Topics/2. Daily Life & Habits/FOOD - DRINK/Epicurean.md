@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Epicurean
 *adj.*
 > /ˌep.ɪ.kjʊəˈriː.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Epicurean::Thích ăn ngon *(Phát âm: /ˌep.ɪ.kjʊəˈriː.ən/)* ![[epicurean.mp3]]<br><br>👪 **Word Family:** epicure<br><br>💬 **Ví dụ:** They enjoyed an epicurean feast.<br>*(-> Họ đã thưởng thức một bữa tiệc sành điệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Devoted to sensual enjoyment, especially that derived from fine food and drink.

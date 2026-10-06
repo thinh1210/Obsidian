@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Engage
 *verb*
 > /ɪnˈɡeɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Engage::Thu hút sự tương tác, gắn kết *(Phát âm: /ɪnˈɡeɪdʒ/)* ![[engage.mp3]]<br><br>👪 **Word Family:** engagement (n), engaging (adj)<br><br>💬 **Ví dụ:** The post was designed to engage users by asking them a question.<br>*(-> Bài đăng được thiết kế để thu hút người dùng bằng cách đặt câu hỏi cho họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To attract and hold the attention and interest of online users

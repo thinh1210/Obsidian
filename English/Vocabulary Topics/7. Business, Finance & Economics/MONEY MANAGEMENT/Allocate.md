@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Allocate
 *Verb*
 > /ˈæləkeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Allocate::Phân bổ (phân phối tài nguyên hoặc nhiệm vụ cho một mục đích cụ thể) *(Phát âm: /ˈæləkeɪt/)* ![[allocate.mp3]]<br><br>👪 **Word Family:** Noun: allocation (sự phân bổ)<br><br>💬 **Ví dụ:** It's wise to allocate a portion of your monthly income to emergency savings.<br>*(-> Thật khôn ngoan khi phân bổ một phần thu nhập hàng tháng của bạn cho khoản tiết kiệm khẩn cấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To distribute resources or duties for a particular purpose.

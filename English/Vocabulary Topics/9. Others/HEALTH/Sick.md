@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Sick
 *adj*
 > /sɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Sick::Ốm, bệnh *(Phát âm: /sɪk/)* ![[sick.mp3]]<br><br>👪 **Word Family:** sickness (n)<br><br>💬 **Ví dụ:** I felt sick after eating that seafood.<br>*(-> Tôi cảm thấy buồn nôn/ốm sau khi ăn món hải sản đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Affected by physical or mental illness.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Block
 *verb*
 > /blɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Block::Chặn *(Phát âm: /blɒk/)* ![[block.mp3]]<br><br>👪 **Word Family:** block (n), blocker (n), blockage (n)<br><br>💬 **Ví dụ:** I had to block him because he kept sending spam messages.<br>*(-> Tôi đã phải chặn anh ta vì anh ta cứ gửi tin nhắn rác liên tục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prevent a specific user from viewing your profile or contacting you

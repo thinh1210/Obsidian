@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Collateral
 *n.*
 > /kəˈlætərəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Collateral::Tài sản thế chấp, tài sản bảo đảm *(Phát âm: /kəˈlætərəl/)* ![[collateral.mp3]]<br><br>👪 **Word Family:** collateralize (v), collateralization (n)<br><br>💬 **Ví dụ:** He used his family home as collateral to secure a business loan from the bank.<br>*(-> Anh ấy đã dùng ngôi nhà của gia đình mình làm tài sản thế chấp để bảo đảm cho một khoản vay kinh doanh từ ngân hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Something pledged as security for repayment of a loan, to be forfeited in the event of a default.

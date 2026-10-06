@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Embezzlement
 *n.*
 > /ɪmˈbezəlmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
+
+## 🗂️ Flashcard
+Embezzlement::Sự biển thủ, tham ô công quỹ *(Phát âm: /ɪmˈbezəlmənt/)* ![[embezzlement.mp3]]<br><br>👪 **Word Family:** embezzle, embezzler<br><br>💬 **Ví dụ:** The clerk was caught and charged with embezzlement of store cash.<br>*(-> Nhân viên bán hàng đã bị bắt và bị buộc tội biển thủ tiền mặt của cửa hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Theft or misappropriation of funds placed in one's trust or belonging to one's employer

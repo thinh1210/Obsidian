@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Vineyard
 *n.*
 > /ˈvɪn.jɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Vineyard::Vườn nho (chuyên trồng làm rượu) *(Phát âm: /ˈvɪn.jɑːd/)* ![[vineyard.mp3]]<br><br>👪 **Word Family:** vine (n), vintage (n)<br><br>💬 **Ví dụ:** We had a lovely dinner at a local vineyard.<br>*(-> Chúng tôi đã có một bữa tối đáng yêu tại một vườn nho địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plantation of grapevines, typically producing grapes for winemaking.

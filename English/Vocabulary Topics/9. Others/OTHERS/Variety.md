@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Variety
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - diversity, assortment, range
+
+
+## 🗂️ Flashcard
+Variety::Sự đa dạng, nhiều loại khác nhau *(Phát âm: /vəˈraɪ.ə.ti/)* ![[variety.mp3]]<br><br>👪 **Word Family:** [Noun]: variety, variation, [Verb]: vary, [Adj]: various, varied, [Adv]: variously<br><br>💬 **Ví dụ:** The shop sells a wide variety of goods.<br>*(-> Cửa hàng bán rất nhiều loại hàng hóa đa dạng.)*

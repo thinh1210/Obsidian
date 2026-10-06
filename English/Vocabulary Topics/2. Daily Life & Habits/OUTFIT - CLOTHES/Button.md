@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Button
 *noun*
 > /ˈbʌt̬.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Button::Cúc áo, nút áo *(Phát âm: /ˈbʌt̬.ən/)* ![[button.mp3]]<br><br>👪 **Word Family:** unbutton (v)<br><br>💬 **Ví dụ:** I lost a button on my shirt.<br>*(-> Tôi làm rớt một cái cúc trên áo sơ mi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small disk sewn on to a garment to fasten it.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Principal
 *noun*
 > /ˈprɪnsəpl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Principal::Hiệu trưởng *(Phát âm: /ˈprɪnsəpl/)* ![[principal.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The principal gave a speech at the opening ceremony.<br>*(-> Hiệu trưởng đã phát biểu tại lễ khai giảng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The person with the highest authority in a school.

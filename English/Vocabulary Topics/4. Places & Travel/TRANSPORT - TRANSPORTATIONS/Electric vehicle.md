@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Electric vehicle
 *n.*
 > /ɪˈlektrɪk ˈviːəkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Electric vehicle::Phương tiện sử dụng động cơ điện và pin sạc thân thiện với môi trường *(Phát âm: /ɪˈlektrɪk ˈviːəkl/)* ![[electric_vehicle.mp3]]<br><br>👪 **Word Family:** electricity (n), electrify (v)<br><br>💬 **Ví dụ:** She plugged her electric vehicle into the home charger overnight.<br>*(-> Cô cắm sạc cho chiếc xe điện qua đêm tại nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle that is propelled by one or more electric motors, using energy stored in rechargeable batteries.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Idyllic
 *adj.*
 > /ɪˈdɪlɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Idyllic::Thanh bình, tuyệt đẹp *(Phát âm: /ɪˈdɪlɪk/)* ![[idyllic.mp3]]<br><br>👪 **Word Family:** Idyll (n.)<br><br>💬 **Ví dụ:** We spent an idyllic childhood in the village.<br>*(-> Chúng tôi đã có một tuổi thơ thanh bình ở làng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely happy, peaceful, or picturesque.

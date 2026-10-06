@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Procrastinate
 *Verb*
 > /prəˈkræs.tɪ.neɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Procrastinate::Trì hoãn *(Phát âm: /prəˈkræs.tɪ.neɪt/)* ![[procrastinate.mp3]]<br><br>👪 **Word Family:** Procrastination (n), Procrastinator (n)<br><br>💬 **Ví dụ:** I often procrastinate.<br>*(-> Tôi thường hay trì hoãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep delaying something that must be done.

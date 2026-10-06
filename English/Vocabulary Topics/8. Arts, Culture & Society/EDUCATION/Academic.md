@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Academic
 *adj.*
 > /ˌækəˈdemɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Academic::Thuộc học thuật, lý thuyết *(Phát âm: /ˌækəˈdemɪk/)* ![[academic.mp3]]<br><br>👪 **Word Family:** academy, academically, academician<br><br>💬 **Ví dụ:** The school focuses on academic excellence.<br>*(-> Nhà trường tập trung vào thành tích học tập xuất sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to education and scholarship, especially at a college or university

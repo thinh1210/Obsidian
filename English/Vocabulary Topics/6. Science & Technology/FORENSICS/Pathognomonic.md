@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Pathognomonic
 *adjective*
 > /ˌpæθ.ɒɡ.nəˈmɒn.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
+
+## 🗂️ Flashcard
+Pathognomonic::Đặc trưng bệnh học – dấu hiệu chỉ xuất hiện trong một bệnh hoặc tình trạng cụ thể, không thể nhầm lẫn *(Phát âm: /ˌpæθ.ɒɡ.nəˈmɒn.ɪk/)* ![[pathognomonic.mp3]]<br><br>👪 **Word Family:** pathognomonically (adv)<br><br>💬 **Ví dụ:** Koplik's spots are pathognomonic for measles – if you see them, the diagnosis is certain.<br>*(-> Đốm Koplik là đặc trưng bệnh học của bệnh sởi – nếu thấy chúng, chẩn đoán là chắc chắn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characteristic of or specifically identifying a particular disease or condition; unmistakably diagnostic.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Cell
 *noun*
 > /sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Cell::Tế bào – đơn vị nhỏ nhất của sinh vật sống có thể hoạt động độc lập *(Phát âm: /sel/)* ![[cell.mp3]]<br><br>👪 **Word Family:** cellular (adj), cell division (n phrase), single-celled (adj)<br><br>💬 **Ví dụ:** Your skin is made of millions of cells that protect your body.<br>*(-> Da bạn được tạo thành từ hàng triệu tế bào bảo vệ cơ thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The smallest unit of a living organism that can function independently.

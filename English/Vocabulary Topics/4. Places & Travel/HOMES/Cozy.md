@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Cozy
 *adj*
 > /ˈkoʊzi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Cozy::Ấm cúng *(Phát âm: /ˈkoʊzi/)* ![[cozy.mp3]]<br><br>👪 **Word Family:** coziness (n)<br><br>💬 **Ví dụ:** The living room is very cozy with the fireplace.<br>*(-> Phòng khách rất ấm cúng với lò sưởi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Giving a feeling of comfort, warmth, and relaxation.

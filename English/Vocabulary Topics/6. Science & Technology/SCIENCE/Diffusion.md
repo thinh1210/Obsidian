@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Diffusion
 *noun*
 > /dɪˈfjuː.ʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Diffusion::Khuếch tán – quá trình các hạt lan từ vùng nồng độ cao sang vùng nồng độ thấp *(Phát âm: /dɪˈfjuː.ʒən/)* ![[diffusion.mp3]]<br><br>👪 **Word Family:** diffuse (v/adj), diffuse (adj), diffusion coefficient (n phrase)<br><br>💬 **Ví dụ:** The smell of perfume diffuses across a room within a few minutes.<br>*(-> Mùi nước hoa khuếch tán khắp căn phòng trong vài phút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which particles spread from an area of high concentration to low concentration.

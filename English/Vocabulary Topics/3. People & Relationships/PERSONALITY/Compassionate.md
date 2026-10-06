@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Compassionate
 *adj.*
 > /kəmˈpæʃ.ən.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Compassionate::Giàu lòng trắc ẩn, từ bi, thương người và động vật gặp nạn *(Phát âm: /kəmˈpæʃ.ən.ət/)* ![[compassionate.mp3]]<br><br>👪 **Word Family:** compassion (n), compassionately (adv)<br><br>💬 **Ví dụ:** Nurses are known for their compassionate care toward terminal patients.<br>*(-> Các y tá được biết đến với sự chăm sóc đầy lòng trắc ẩn dành cho bệnh nhân giai đoạn cuối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing sympathy and concern for people or animals who are suffering.

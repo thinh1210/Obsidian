@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Guy
 *n.*
 > /ɡaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Guy::Gã, chàng trai *(Phát âm: /ɡaɪ/)* ![[guy.mp3]]<br><br>👪 **Word Family:** Guys<br><br>💬 **Ví dụ:** He is a cool guy.<br>*(-> Anh ấy là một anh chàng tuyệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A man.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Limelight
 *n.*
 > /ˈlaɪmlaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Limelight::Ánh đèn sân khấu *(Phát âm: /ˈlaɪmlaɪt/)* ![[limelight.mp3]]<br><br>👪 **Word Family:** limelit (adj.)<br><br>💬 **Ví dụ:** She hates being in the limelight.<br>*(-> Cô ấy ghét ở dưới ánh đèn sân khấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The focus of public attention.

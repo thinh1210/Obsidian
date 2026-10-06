@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Landscape
 *n.*
 > /ˈlænd.skeɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Landscape::Phong cảnh *(Phát âm: /ˈlænd.skeɪp/)* ![[landscape.mp3]]<br><br>👪 **Word Family:** landscaping (n)<br><br>💬 **Ví dụ:** I took a photo of the beautiful landscape.<br>*(-> Tôi đã chụp một bức ảnh phong cảnh tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of countryside or land.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Paradox
 *n.*
 > /ˈpær.ə.dɒks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Paradox::Nghịch lý *(Phát âm: /ˈpær.ə.dɒks/)* ![[paradox.mp3]]<br><br>👪 **Word Family:** paradoxical, paradoxically<br><br>💬 **Ví dụ:** It is a paradox that the more you sleep, the more tired you feel.<br>*(-> Thật là một nghịch lý khi bạn càng ngủ nhiều, bạn lại càng cảm thấy mệt mỏi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A seemingly absurd or self-contradictory statement that may prove to be true.

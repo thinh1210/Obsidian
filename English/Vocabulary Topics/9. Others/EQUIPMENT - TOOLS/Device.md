@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # device
 *noun*
 > /dɪˈvaɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Device::thiết bị, dụng cụ *(Phát âm: /dɪˈvaɪs/)* ![[device.mp3]]<br><br>👪 **Word Family:** Noun: device (thiết bị), Verb: devise (phát minh, nghĩ ra)<br><br>💬 **Ví dụ:** Please turn off all electronic devices during the flight.<br>*(-> Vui lòng tắt tất cả các thiết bị điện tử trong chuyến bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.

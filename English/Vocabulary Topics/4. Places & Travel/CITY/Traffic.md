@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Traffic
 *n.*
 > /ˈtræfɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Traffic::Giao thông, xe cộ *(Phát âm: /ˈtræfɪk/)* ![[traffic.mp3]]<br><br>👪 **Word Family:** trafficking (n)<br><br>💬 **Ví dụ:** The traffic is heavy today.<br>*(-> Hôm nay giao thông rất đông đúc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The vehicles moving along a road.

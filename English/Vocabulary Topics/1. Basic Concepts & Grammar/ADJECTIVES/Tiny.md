@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Tiny
 *adj.*
 > /ˈtaɪni/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Tiny::Nhỏ xíu *(Phát âm: /ˈtaɪni/)* ![[tiny.mp3]]<br><br>👪 **Word Family:** tininess<br><br>💬 **Ví dụ:** Tiny bug.<br>*(-> Con bọ nhỏ xíu.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Very small

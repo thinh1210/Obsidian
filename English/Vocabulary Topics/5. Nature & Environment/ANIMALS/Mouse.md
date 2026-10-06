@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Mouse
 *n.*
 > /maʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Mouse::Con chuột nhắt, loài gặm nhấm nhỏ có mõm nhọn và đuôi dài *(Phát âm: /maʊs/)* ![[mouse.mp3]]<br><br>👪 **Word Family:** mice (plural n), mousetrap (n), mousy (adj)<br><br>💬 **Ví dụ:** A tiny mouse scurried silently across the kitchen floor last night.<br>*(-> Một chú chuột nhắt nhỏ chạy thoăn thoắt qua sàn bếp đêm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small rodent with a pointed snout, relatively large ears and eyes, and a long tail.

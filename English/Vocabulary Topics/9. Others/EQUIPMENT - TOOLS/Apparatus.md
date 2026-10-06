@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # apparatus
 *noun*
 > /ˌæp.əˈreɪ.təs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Apparatus::thiết bị chuyên dụng, bộ máy *(Phát âm: /ˌæp.əˈreɪ.təs/)* ![[apparatus.mp3]]<br><br>👪 **Word Family:** Noun: apparatus (thiết bị, bộ máy)<br><br>💬 **Ví dụ:** Firefighters wear breathing apparatus to enter smoke-filled buildings.<br>*(-> Lính cứu hỏa đeo mặt nạ dưỡng khí để vào các tòa nhà đầy khói.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the technical equipment or machinery needed for a particular activity or purpose.

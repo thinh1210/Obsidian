@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Plucky
 *adj.*
 > /ˈplʌk.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Plucky::Gan dạ, quả cảm, kiên cường (thường nói về kẻ yếu thế) *(Phát âm: /ˈplʌk.i/)* ![[plucky.mp3]]<br><br>👪 **Word Family:** pluck, pluckily, pluckiness<br><br>💬 **Ví dụ:** The plucky team of teenagers defeated the veteran champions.<br>*(-> Đội thiếu niên gan dạ đã đánh bại những nhà vô địch kỳ cựu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing determined courage in the face of difficulties.

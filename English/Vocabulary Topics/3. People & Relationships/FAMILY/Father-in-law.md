@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Father-in-law
 *noun*
 > /ˈfɑː.ðə.rɪn.lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Father-in-law::Bố chồng, bố vợ *(Phát âm: /ˈfɑː.ðə.rɪn.lɔː/)* ![[father_in_law.mp3]]<br><br>👪 **Word Family:** fathers-in-law (pl)<br><br>💬 **Ví dụ:** My father-in-law gave me this.<br>*(-> Bố vợ tôi đã tặng tôi thứ này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The father of your husband or wife.

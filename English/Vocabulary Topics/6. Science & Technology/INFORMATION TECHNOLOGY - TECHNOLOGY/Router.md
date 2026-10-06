@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Router
 *n.*
 > /ˈruːtər/ or /ˈraʊtər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Router::Bộ định tuyến (phát wifi) *(Phát âm: /ˈruːtər/ or /ˈraʊtər/)* ![[router.mp3]]<br><br>👪 **Word Family:** Route (n./v.), Routing (n.)<br><br>💬 **Ví dụ:** The internet is down, let me restart the router.<br>*(-> Mạng hỏng rồi, để tôi khởi động lại cục phát wifi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that forwards data packets to the appropriate parts of a computer network.

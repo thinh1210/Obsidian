@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Stream
 *n.*
 > /striːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Stream::Con suối, dòng nước chảy tự nhiên nhỏ và hẹp hơn sông, nước trong vắt *(Phát âm: /striːm/)* ![[stream.mp3]]<br><br>👪 **Word Family:** streamlet (n), mainstream (adj/n), streaming (adj)<br><br>💬 **Ví dụ:** We dipped our tired feet into the cold mountain stream after hours of strenuous hiking.<br>*(-> Chúng tôi ngâm đôi chân mỏi mệt vào dòng suối núi mát lạnh sau nhiều giờ leo núi mệt nhoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small, narrow river of clear running water.

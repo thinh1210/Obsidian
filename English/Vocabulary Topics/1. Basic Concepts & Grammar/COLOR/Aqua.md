@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Aqua
 *adj., n.*
 > /ˈæk.wə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Aqua::Màu xanh nước biển trong trẻo pha ngọc bích, mát lành miền nhiệt đới *(Phát âm: /ˈæk.wə/)* ![[aqua.mp3]]<br><br>👪 **Word Family:** aquatic (adj), aquarium (n)<br><br>💬 **Ví dụ:** The travel brochure showcased luxury bungalows over stunning aqua waters.<br>*(-> Tờ rơi du lịch giới thiệu những căn nhà gỗ sang trọng nổi trên mặt nước xanh ngọc tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bright bluish-green or light greenish-blue color, resembling shallow tropical sea waters.

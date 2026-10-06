@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Symphony
 *n.*
 > /ˈsɪm.fə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Symphony::Bản nhạc giao hưởng *(Phát âm: /ˈsɪm.fə.ni/)* ![[symphony.mp3]]<br><br>👪 **Word Family:** symphonic (adj)<br><br>💬 **Ví dụ:** Beethoven's Ninth Symphony is widely considered a masterpiece of Western art.<br>*(-> Bản giao hưởng số 9 của Beethoven được coi là một kiệt tác của nghệ thuật phương Tây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An elaborate musical composition for full orchestra, typically in four movements.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Conservation
 *n.*
 > /ˌcɒnsəˈveɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Conservation::Sự bảo tồn *(Phát âm: /ˌcɒnsəˈveɪʃn/)* ![[conservation.mp3]]<br><br>👪 **Word Family:** conserve (v), conservative (adj), conservationist (n)<br><br>💬 **Ví dụ:** Energy conservation is key to sustainable living.<br>*(-> Tiết kiệm (bảo tồn) năng lượng là chìa khóa cho lối sống bền vững.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of conserving something, in particular preservation, protection, or restoration of the natural environment and of wildlife.

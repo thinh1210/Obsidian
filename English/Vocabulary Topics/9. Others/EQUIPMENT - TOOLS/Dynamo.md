@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # dynamo
 *noun*
 > /ˈdaɪ.nə.məʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Dynamo::máy phát điện một chiều, dynamo *(Phát âm: /ˈdaɪ.nə.məʊ/)* ![[dynamo.mp3]]<br><br>👪 **Word Family:** Noun: dynamo (máy phát điện), Adjective: dynamic (năng động), Noun: dynamism (sự năng động)<br><br>💬 **Ví dụ:** The headlight on my old bicycle was powered by a dynamo.<br>*(-> Đèn pha trên chiếc xe đạp cũ của tôi được cung cấp điện bởi một chiếc dynamo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a machine for converting mechanical energy into electrical energy, typically by means of rotating coils in a magnetic field.

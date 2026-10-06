@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Mission
 *Noun*
 > /ˈmɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Mission::Sứ mệnh, nhiệm vụ *(Phát âm: /ˈmɪʃ.ən/)* ![[mission.mp3]]<br><br>👪 **Word Family:** missionary (n)<br><br>💬 **Ví dụ:** My mission today is to clean the whole house.<br>*(-> Nhiệm vụ của tôi hôm nay là dọn dẹp cả căn nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An important assignment, typically involving travel into space.

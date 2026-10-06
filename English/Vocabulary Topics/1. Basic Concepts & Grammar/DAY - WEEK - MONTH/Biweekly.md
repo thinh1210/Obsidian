@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Biweekly
 *adj., adv.*
 > /baɪˈwiːk.li/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Biweekly::Hai tuần một lần (thường dùng cho kỳ trả lương, họp nhóm định kỳ) *(Phát âm: /baɪˈwiːk.li/)* ![[biweekly.mp3]]<br><br>👪 **Word Family:** week (n), weekly (adj/adv)<br><br>💬 **Ví dụ:** Our book club gathers biweekly at a local coffee shop to discuss new novels.<br>*(-> Câu lạc bộ sách của chúng tôi tụ họp hai tuần một lần tại một quán cà phê địa phương để thảo luận về các cuốn tiểu thuyết mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Happening every two weeks (or twice a week).

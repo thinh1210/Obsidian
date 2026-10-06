@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Singer
 *n.*
 > /ˈsɪŋ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Singer::Ca sĩ *(Phát âm: /ˈsɪŋ.ər/)* ![[singer.mp3]]<br><br>👪 **Word Family:** sing (v), song (n)<br><br>💬 **Ví dụ:** She wants to be a famous singer one day.<br>*(-> Cô ấy muốn trở thành một ca sĩ nổi tiếng một ngày nào đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sings, especially professionally.

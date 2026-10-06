@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Formula
 *noun*
 > /ˈfɔː.mjə.lə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Formula::Công thức hóa học / công thức toán *(Phát âm: /ˈfɔː.mjə.lə/)* ![[formula.mp3]]<br><br>👪 **Word Family:** formulate (v), formulation (n)<br><br>💬 **Ví dụ:** The chemical formula for carbon dioxide is CO2.<br>*(-> Công thức hóa học của khí carbon dioxide là CO2.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mathematical or chemical rule expressed in symbols.

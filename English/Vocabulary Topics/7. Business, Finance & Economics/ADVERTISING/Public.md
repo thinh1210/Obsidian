@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Public
 *noun*
 > /ˈpʌblɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Public::Công chúng, công cộng *(Phát âm: /ˈpʌblɪk/)* ![[public.mp3]]<br><br>👪 **Word Family:** publicity (noun), publicize (verb), publicly (adverb)<br><br>💬 **Ví dụ:** The public was shocked by the corruption scandal.<br>*(-> Công chúng đã bị sốc bởi vụ bê bối tham nhũng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** People in general thought of as a community or audience.

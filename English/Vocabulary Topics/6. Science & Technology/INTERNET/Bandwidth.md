@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Bandwidth
 *noun*
 > /ˈbænd.wɪdθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+Bandwidth::Băng thông (tốc độ truyền dữ liệu tối đa của kết nối mạng) *(Phát âm: /ˈbænd.wɪdθ/)* ![[bandwidth.mp3]]<br><br>👪 **Word Family:** bandwidth (n), broadband (n)<br><br>💬 **Ví dụ:** Streaming 4K videos consumes a lot of bandwidth.<br>*(-> Xem phim 4K tiêu tốn rất nhiều băng thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The maximum rate at which data can be transmitted over an Internet connection, typically measured in megabits per second.

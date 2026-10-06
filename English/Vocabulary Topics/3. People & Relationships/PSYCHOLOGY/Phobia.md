@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Phobia
 *noun*
 > /ˈfoʊ.bi.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Phobia::Hội chứng sợ hãi *(Phát âm: /ˈfoʊ.bi.ə/)* ![[phobia.mp3]]<br><br>👪 **Word Family:** phobic (adj)<br><br>💬 **Ví dụ:** I have a phobia of spiders.<br>*(-> Tôi có chứng sợ nhện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An extreme or irrational fear of or aversion to something.

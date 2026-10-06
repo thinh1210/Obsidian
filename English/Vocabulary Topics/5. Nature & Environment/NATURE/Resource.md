@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Resource
 *Noun*
 > /rɪˈsɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Resource::Tài nguyên *(Phát âm: /rɪˈsɔːs/)* ![[resource.mp3]]<br><br>👪 **Word Family:** resourceful, resourcefulness<br><br>💬 **Ví dụ:** Water is a precious natural resource.<br>*(-> Nước là một nguồn tài nguyên thiên nhiên quý giá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stock or supply of materials, energy, or other assets that can be drawn on.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Hue
 *n*
 > /hjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Hue::Sắc độ, màu sắc *(Phát âm: /hjuː/)* ![[hue.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The sunset took on a reddish hue.<br>*(-> Hoàng hôn mang một sắc đỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A color or a shade of a color.

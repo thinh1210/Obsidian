@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Chain of custody
 *noun phrase*
 > /tʃeɪn əv ˈkʌs.tə.di/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Chain of custody::Chuỗi kiểm soát bằng chứng – tài liệu ghi lại mọi lần bằng chứng được xử lý, chuyển giao *(Phát âm: /tʃeɪn əv ˈkʌs.tə.di/)* ![[chain_of_custody.mp3]]<br><br>👪 **Word Family:** custodian (n), custodial (adj)<br><br>💬 **Ví dụ:** Officers must sign documents to maintain the chain of custody.<br>*(-> Cảnh sát phải ký tài liệu để duy trì chuỗi kiểm soát bằng chứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The documented sequence of control, transfer, and analysis of evidence.

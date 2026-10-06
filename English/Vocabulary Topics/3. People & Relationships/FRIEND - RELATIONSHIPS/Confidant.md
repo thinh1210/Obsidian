@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Confidant
 *noun*
 > /ˈkɑːn.fə.dænt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Confidant::Người tâm giao, bạn tri kỷ *(Phát âm: /ˈkɑːn.fə.dænt/)* ![[confidant.mp3]]<br><br>👪 **Word Family:** confide<br><br>💬 **Ví dụ:** She has been my closest confidant for years.<br>*(-> Cô ấy đã là người bạn tâm giao thân thiết nhất của tôi trong nhiều năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person with whom one shares a secret or private matter, trusting them not to repeat it to others.

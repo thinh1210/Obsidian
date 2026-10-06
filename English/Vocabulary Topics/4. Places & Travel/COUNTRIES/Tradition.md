@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Tradition
 *Noun*
 > /trəˈdɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
+
+## 🗂️ Flashcard
+Tradition::Truyền thống *(Phát âm: /trəˈdɪʃn/)* ![[tradition.mp3]]<br><br>👪 **Word Family:** Traditional, Traditionally<br><br>💬 **Ví dụ:** It is a tradition to eat turkey on Thanksgiving.<br>*(-> Ăn gà tây vào Lễ Tạ ơn là một truyền thống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The transmission of customs or beliefs from generation to generation.

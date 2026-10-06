@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Host
 *n.*
 > /həʊst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Host::Chủ nhà, người dẫn chương trình *(Phát âm: /həʊst/)* ![[host.mp3]]<br><br>👪 **Word Family:** Hostess<br><br>💬 **Ví dụ:** Thank you to our host.<br>*(-> Cảm ơn người chủ nhà của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who receives or entertains other people as guests.

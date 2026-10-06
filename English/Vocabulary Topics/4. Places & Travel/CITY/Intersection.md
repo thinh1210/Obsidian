@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Intersection
 *n.*
 > /ˌɪntəˈsekʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Intersection::Giao lộ, ngã tư *(Phát âm: /ˌɪntəˈsekʃn/)* ![[intersection.mp3]]<br><br>👪 **Word Family:** intersect (v)<br><br>💬 **Ví dụ:** Turn left at the intersection.<br>*(-> Rẽ trái ở ngã tư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where two or more roads cross.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Art
 *n.*
 > /ɑːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Art::Nghệ thuật *(Phát âm: /ɑːt/)* ![[art.mp3]]<br><br>👪 **Word Family:** artist, artistic, artificial<br><br>💬 **Ví dụ:** I enjoy visiting art galleries.<br>*(-> Tôi thích đi tham quan các phòng triển lãm nghệ thuật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expression or application of human creative skill and imagination.

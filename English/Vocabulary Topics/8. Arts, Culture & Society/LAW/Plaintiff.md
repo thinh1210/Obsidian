@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Plaintiff
 *noun*
 > /ˈpleɪn.tɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Plaintiff::Nguyên đơn, người khởi kiện *(Phát âm: /ˈpleɪn.tɪf/)* ![[plaintiff.mp3]]<br><br>👪 **Word Family:** Plaintiff (n), Plaintive (adj)<br><br>💬 **Ví dụ:** The plaintiff is seeking compensation for injuries sustained in the car accident.<br>*(-> Nguyên đơn đang yêu cầu bồi thường cho các vết thương gặp phải trong tai nạn xe hơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who brings a case against another in a court of law.

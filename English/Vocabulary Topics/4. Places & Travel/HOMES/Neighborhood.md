@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Neighborhood
 *noun*
 > /ˈneɪbərˌhʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Neighborhood::Khu phố, hàng xóm *(Phát âm: /ˈneɪbərˌhʊd/)* ![[neighborhood.mp3]]<br><br>👪 **Word Family:** neighbor (n)<br><br>💬 **Ví dụ:** It's a quiet neighborhood.<br>*(-> Đó là một khu phố yên tĩnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A district or community within a town or city.
@@ -34,4 +44,4 @@
 - neighbor (n)
 
 **Synonyms:** community, vicinity
-**Antonyms:** 
+**Antonyms:**

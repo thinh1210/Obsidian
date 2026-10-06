@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Synchronize
 *verb*
 > /ˈsɪŋkrənaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Tech | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Synchronize::Đồng bộ hóa *(Phát âm: /ˈsɪŋkrənaɪz/)* ![[synchronize.mp3]]<br><br>👪 **Word Family:** synchronization (n)<br><br>💬 **Ví dụ:** The dancers synchronized their movements perfectly.<br>*(-> Các vũ công đồng bộ chuyển động của họ một cách hoàn hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cause to occur or operate at the same time or rate.

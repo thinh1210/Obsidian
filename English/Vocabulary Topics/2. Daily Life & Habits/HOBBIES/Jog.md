@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Jog
 *v*
 > /dʒɑːɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Jog::Chạy bộ (chạy chậm) *(Phát âm: /dʒɑːɡ/)* ![[jog.mp3]]<br><br>👪 **Word Family:** jogging (n), jogger (n)<br><br>💬 **Ví dụ:** I jog in the park every morning.<br>*(-> Tôi chạy bộ trong công viên mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To run at a slow, steady pace, especially as a form of exercise.

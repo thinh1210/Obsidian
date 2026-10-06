@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Efficiency
 *noun*
 > /iˈfɪʃnsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Efficiency::Hiệu suất, hiệu quả *(Phát âm: /iˈfɪʃnsi/)* ![[efficiency.mp3]]<br><br>👪 **Word Family:** efficient (adj), efficiently (adv)<br><br>💬 **Ví dụ:** We are upgrading our factory machinery to improve production efficiency.<br>*(-> Chúng tôi đang nâng cấp máy móc nhà máy để nâng cao hiệu suất sản xuất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or quality of being efficient; preventing the waste of resources or energy.

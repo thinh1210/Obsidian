@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Video
 *noun*
 > /ˈvɪdiəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
+
+## 🗂️ Flashcard
+Video::Đoạn phim, video *(Phát âm: /ˈvɪdiəʊ/)* ![[video.mp3]]<br><br>💬 **Ví dụ:** She posted a short video of her dog on social media.<br>*(-> Cô ấy đã đăng một video ngắn về chú chó của mình lên mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recording of moving visual images.

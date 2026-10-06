@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Light-year
 *noun*
 > /ˈlaɪt.jɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Light-year::Năm ánh sáng *(Phát âm: /ˈlaɪt.jɪər/)* ![[light_year.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The nearest star system is about 4.2 light-years away from Earth.<br>*(-> Hệ sao gần nhất cách Trái Đất khoảng 4,2 năm ánh sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The distance that light travels in one vacuum year (about 9.46 trillion km).

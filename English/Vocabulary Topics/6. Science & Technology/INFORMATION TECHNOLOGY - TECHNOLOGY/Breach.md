@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Breach
 *noun*
 > /briːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/News | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Breach::Sự vi phạm, sự phá vỡ (bảo mật) *(Phát âm: /briːtʃ/)* ![[breach.mp3]]<br><br>👪 **Word Family:** Breach (v)<br><br>💬 **Ví dụ:** I got an email saying my password was in a data breach.<br>*(-> Tôi nhận được email nói rằng mật khẩu của tôi nằm trong một vụ rò rỉ dữ liệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of breaking a rule, law, custom, or agreement, or a failure in a security system.

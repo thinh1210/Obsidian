@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Brand
 *noun*
 > /brænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
+
+## 🗂️ Flashcard
+Brand::Thương hiệu, nhãn hiệu *(Phát âm: /brænd/)* ![[brand.mp3]]<br><br>👪 **Word Family:** branded (adj), branding (n)<br><br>💬 **Ví dụ:** She always buys the same brand of shampoo because it smells good.<br>*(-> Cô ấy luôn mua cùng một nhãn hiệu dầu gội vì nó rất thơm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of product manufactured by a particular company under a particular name

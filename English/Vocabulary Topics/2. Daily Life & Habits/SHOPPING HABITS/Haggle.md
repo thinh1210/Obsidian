@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Haggle
 *v*
 > /ˈhæɡ.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Haggle::Mặc cả *(Phát âm: /ˈhæɡ.əl/)* ![[haggle.mp3]]<br><br>👪 **Word Family:** Haggling<br><br>💬 **Ví dụ:** I had to haggle.<br>*(-> Tôi đã phải mặc cả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To argue about the price

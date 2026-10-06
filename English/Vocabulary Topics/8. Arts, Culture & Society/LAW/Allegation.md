@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Allegation
 *noun*
 > /ˌæləˈɡeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Allegation::Cáo buộc; lời tố cáo *(Phát âm: /ˌæləˈɡeɪʃn/)* ![[allegation.mp3]]<br><br>👪 **Word Family:** allege (v), alleged (adj), allegedly (adv)<br><br>💬 **Ví dụ:** He denied the allegations against him.<br>*(-> Anh ấy phủ nhận các cáo buộc nhắm vào mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A claim that someone has done something wrong or illegal, made without proof

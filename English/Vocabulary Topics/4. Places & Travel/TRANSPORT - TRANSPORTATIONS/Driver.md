@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Driver
 *noun*
 > /ˈdraɪvər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Driver::Tài xế, người lái xe *(Phát âm: /ˈdraɪvər/)* ![[driver.mp3]]<br><br>👪 **Word Family:** Noun: driver (tài xế), drive (chuyến đi), Verb: drive (lái xe), Adjective: driving (thúc đẩy)<br><br>💬 **Ví dụ:** Please tell the driver to stop at the next corner.<br>*(-> Làm ơn bảo tài xế dừng lại ở góc đường tiếp theo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who drives a vehicle.

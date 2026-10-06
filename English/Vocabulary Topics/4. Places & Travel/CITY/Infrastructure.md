@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Infrastructure
 *n.*
 > /ˈɪnfrəstrʌktʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Infrastructure::Cơ sở hạ tầng *(Phát âm: /ˈɪnfrəstrʌktʃə(r)/)* ![[infrastructure.mp3]]<br><br>👪 **Word Family:** structural (adj)<br><br>💬 **Ví dụ:** The city has good infrastructure.<br>*(-> Thành phố có cơ sở hạ tầng tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic systems and services that are necessary for a country or an organization.

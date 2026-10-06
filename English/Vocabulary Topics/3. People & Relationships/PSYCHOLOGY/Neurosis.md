@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Neurosis
 *noun*
 > /nʊˈroʊ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Neurosis::Chứng loạn thần kinh *(Phát âm: /nʊˈroʊ.sɪs/)* ![[neurosis.mp3]]<br><br>👪 **Word Family:** neurotic (adj)<br><br>💬 **Ví dụ:** He suffers from a mild neurosis.<br>*(-> Anh ấy bị chứng loạn thần kinh nhẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A relatively mild mental illness that is not caused by organic disease.

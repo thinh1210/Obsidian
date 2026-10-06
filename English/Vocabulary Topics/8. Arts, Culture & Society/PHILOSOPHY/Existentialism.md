@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Existentialism
 *n.*
 > /ˌeɡ.zɪˈsten.ʃəl.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Existentialism::Chủ nghĩa hiện sinh *(Phát âm: /ˌeɡ.zɪˈsten.ʃəl.ɪ.zəm/)* ![[existentialism.mp3]]<br><br>👪 **Word Family:** existential, existentialist<br><br>💬 **Ví dụ:** After graduating, he had a mini-existentialist crisis about his future.<br>*(-> Sau khi tốt nghiệp, anh ấy đã có một cuộc khủng hoảng hiện sinh nhỏ về tương lai của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A philosophy emphasizing individual existence, freedom, and choice.

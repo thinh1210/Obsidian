@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Encryption
 *n*
 > /ɪnˈkrɪp.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Encryption::Sự mã hóa *(Phát âm: /ɪnˈkrɪp.ʃən/)* ![[encryption.mp3]]<br><br>👪 **Word Family:** Encrypt (v), Decryption (n)<br><br>💬 **Ví dụ:** Make sure your messaging app has good encryption.<br>*(-> Đảm bảo ứng dụng nhắn tin của bạn có mã hóa tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of altering data so that it is unreadable by unauthorized parties.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Globetrotter
 *Noun*
 > /ˈɡloʊbˌtrɑː.t̬ɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Globetrotter::Người đi du lịch nhiều nơi trên thế giới *(Phát âm: /ˈɡloʊbˌtrɑː.t̬ɚ/)* ![[globetrotter.mp3]]<br><br>👪 **Word Family:** globetrotting (n)<br><br>💬 **Ví dụ:** My sister is a globetrotter; she has visited over 50 countries.<br>*(-> Chị tôi là người đam mê du lịch; chị ấy đã đi hơn 50 quốc gia.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who travels a lot and visits many different countries.

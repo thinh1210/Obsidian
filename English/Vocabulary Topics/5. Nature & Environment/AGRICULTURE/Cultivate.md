@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Cultivate
 *v.*
 > /ˈkʌl.tɪ.veɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Cultivate::Canh tác, trồng trọt, vun xới *(Phát âm: /ˈkʌl.tɪ.veɪt/)* ![[cultivate.mp3]]<br><br>👪 **Word Family:** cultivation (n), cultivated (adj), cultivator (n)<br><br>💬 **Ví dụ:** She cultivates herbs and spices in a small plot of land.<br>*(-> Cô ấy trồng các loại thảo mộc và gia vị trên một mảnh đất nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prepare and use land for crops or gardening.

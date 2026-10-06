@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Psychological
 *adj.*
 > /ˌsaɪkəˈlɒdʒɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Psychological::Thuộc về tâm lý *(Phát âm: /ˌsaɪkəˈlɒdʒɪkl/)* ![[psychological.mp3]]<br><br>👪 **Word Family:** psychology (n), psychologically (adv)<br><br>💬 **Ví dụ:** The psychological impact of the war is huge.<br>*(-> Tác động tâm lý của cuộc chiến là rất lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of, affecting, or arising in the mind; related to the mental and emotional state of a person

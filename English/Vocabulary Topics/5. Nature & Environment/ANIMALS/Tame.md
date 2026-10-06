@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Tame
 *adjective*
 > /teɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Tame::Đã thuần, hiền lành, không nhút nhát trước con người *(Phát âm: /teɪm/)* ![[tame.mp3]]<br><br>👪 **Word Family:** tame (adj/v), tamely (adv), tameness (n), tamer (n)<br><br>💬 **Ví dụ:** The birds in the park are so tame that they eat seeds right out of your hand.<br>*(-> Những con chim trong công viên hiền đến mức chúng ăn hạt ngay trên tay bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of an animal) not dangerous or frightened of people; domesticated.

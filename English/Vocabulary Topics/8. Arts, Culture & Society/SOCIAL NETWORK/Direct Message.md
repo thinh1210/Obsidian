@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Direct Message
 *noun*
 > /dəˈrekt ˈmesɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Direct Message::Tin nhắn trực tiếp, tin nhắn riêng tư *(Phát âm: /dəˈrekt ˈmesɪdʒ/)* ![[direct_message.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Just send me a DM on Instagram if you want to hang out.<br>*(-> Chỉ cần gửi tin nhắn trực tiếp cho tôi trên Instagram nếu bạn muốn đi chơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A private message sent between users on a social media platform

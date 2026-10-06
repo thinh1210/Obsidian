@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Purse
 *noun*
 > /pɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
+
+## 🗂️ Flashcard
+Purse::Ví nữ, túi xách nhỏ *(Phát âm: /pɜːs/)* ![[purse.mp3]]<br><br>👪 **Word Family:** Purser (n)<br><br>💬 **Ví dụ:** She kept her coins in a small purse.<br>*(-> Cô ấy giữ tiền xu trong một chiếc ví nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small container for money, usually used by a woman.

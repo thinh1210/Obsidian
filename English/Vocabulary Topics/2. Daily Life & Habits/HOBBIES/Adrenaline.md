@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Adrenaline
 *noun*
 > /əˈdrenəlɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Adrenaline::Hooc-môn kích thích, sự phấn khích tột độ (nghĩa bóng) *(Phát âm: /əˈdrenəlɪn/)* ![[adrenaline.mp3]]<br><br>👪 **Word Family:** Adrenal (adj)<br><br>💬 **Ví dụ:** Skydiving gives you an incredible adrenaline rush.<br>*(-> Nhảy dù mang lại cho bạn một cảm giác hưng phấn tột độ khó tin.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A hormone secreted by the adrenal glands, especially in conditions of stress, increasing rates of blood circulation, breathing, etc.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Rotate
 *verb*
 > /rəʊˈteɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Rotate::Tự quay quanh trục, xoay vòng *(Phát âm: /rəʊˈteɪt/)* ![[rotate.mp3]]<br><br>👪 **Word Family:** rotation (n), rotary (adj), rotatable (adj)<br><br>💬 **Ví dụ:** The fan rotates to keep the room cool.<br>*(-> Chiếc quạt xoay vòng để giữ cho căn phòng mát mẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spin on an axis.

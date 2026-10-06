@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Withdraw
 *verb.*
 > /wɪðˈdrɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Withdraw::Rút tiền *(Phát âm: /wɪðˈdrɔː/)* ![[withdraw.mp3]]<br><br>👪 **Word Family:** withdrawal (noun)<br><br>💬 **Ví dụ:** I went to the ATM to withdraw some money for my trip.<br>*(-> Tôi đã đến máy ATM để rút một ít tiền cho chuyến đi của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To take money out of a bank account.

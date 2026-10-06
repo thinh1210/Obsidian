@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Doomscrolling
 *noun*
 > /ˈduːmskrəʊlɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Doomscrolling::Việc lướt xem tin tức tồi tệ liên tục (nghiện đọc tin tức tiêu cực) *(Phát âm: /ˈduːmskrəʊlɪŋ/)* ![[doomscrolling.mp3]]<br><br>👪 **Word Family:** doomscroll (v)<br><br>💬 **Ví dụ:** I need to delete my news apps because I spend all night doomscrolling.<br>*(-> Tôi cần xóa các ứng dụng tin tức của mình vì tôi dành cả đêm để lướt xem tin tức tồi tệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of obsessively scrolling through social media feeds reading negative or depressing news

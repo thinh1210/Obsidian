@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Mountaineering
 *noun*
 > /ˌmaʊntɪˈnɪərɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Mountaineering::Môn thể thao leo núi *(Phát âm: /ˌmaʊntɪˈnɪərɪŋ/)* ![[mountaineering.mp3]]<br><br>👪 **Word Family:** Mountaineer (n)<br><br>💬 **Ví dụ:** Mountaineering is not for the faint of heart.<br>*(-> Leo núi không dành cho những người yếu tim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The sport or activity of climbing mountains.

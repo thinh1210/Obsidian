@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Usurp
 *v.*
 > /juːˈzɜːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Usurp::Chiếm đoạt (ngôi vị, quyền lực) *(Phát âm: /juːˈzɜːp/)* ![[usurp.mp3]]<br><br>👪 **Word Family:** usurper, usurpation<br><br>💬 **Ví dụ:** The general tried to usurp the king's power.<br>*(-> Vị tướng đã cố gắng chiếm đoạt quyền lực của nhà vua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take (a position of power or importance) illegally or by force

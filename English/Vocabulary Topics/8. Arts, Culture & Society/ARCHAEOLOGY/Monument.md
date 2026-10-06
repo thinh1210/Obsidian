@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Monument
 *noun*
 > /ˈmɒnjumənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Monument::Di tích, đài tưởng niệm *(Phát âm: /ˈmɒnjumənt/)* ![[monument.mp3]]<br><br>👪 **Word Family:** monumental (adj)<br><br>💬 **Ví dụ:** The Taj Mahal is a famous monument to love.<br>*(-> Taj Mahal là một đài tưởng niệm tình yêu nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue, building, or other structure erected to commemorate a famous person or event

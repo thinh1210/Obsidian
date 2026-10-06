@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Movie
 *n.*
 > /ˈmuːvi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Movie::Bộ phim *(Phát âm: /ˈmuːvi/)* ![[movie.mp3]]<br><br>👪 **Word Family:** moving, moviegoer<br><br>💬 **Ví dụ:** Do you want to watch a movie tonight?<br>*(-> Bạn có muốn xem một bộ phim tối nay không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A story or event recorded by a camera as a set of moving images and shown in a theater or on television.

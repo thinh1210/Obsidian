@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Overexert
 *v.*
 > /ˌəʊvərɪɡˈzɜːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Overexert::Cố sức quá mức *(Phát âm: /ˌəʊvərɪɡˈzɜːt/)* ![[overexert.mp3]]<br><br>👪 **Word Family:** overexertion (n.)<br><br>💬 **Ví dụ:** Don't overexert yourself at the gym.<br>*(-> Đừng tập quá sức ở phòng gym.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exert (oneself) too much.

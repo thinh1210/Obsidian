@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Weekend
 *noun*
 > /ˌwiːkˈend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Weekend::Cuối tuần *(Phát âm: /ˌwiːkˈend/)* ![[weekend.mp3]]<br><br>👪 **Word Family:** weekender (n)<br><br>💬 **Ví dụ:** I like to relax on the weekend.<br>*(-> Tôi thích thư giãn vào cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Saturday and Sunday.

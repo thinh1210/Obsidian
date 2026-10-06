@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Lens
 *n.*
 > /lenz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Lens::Ống kính máy quay *(Phát âm: /lenz/)* ![[lens.mp3]]<br><br>👪 **Word Family:** lensed<br><br>💬 **Ví dụ:** The camera operator swapped the lens for a telephoto one.<br>*(-> Người quay phim đã đổi ống kính lấy một ống kính tiêu cự dài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of glass or other transparent substance with curved sides for concentrating or dispersing light rays, used in cameras

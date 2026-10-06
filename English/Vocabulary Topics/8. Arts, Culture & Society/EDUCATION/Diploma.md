@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Diploma
 *n.*
 > /dɪˈpləʊ.mə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Diploma::Bằng tốt nghiệp, văn bằng chứng nhận hoàn thành khóa học chính quy *(Phát âm: /dɪˈpləʊ.mə/)* ![[diploma.mp3]]<br><br>👪 **Word Family:** diplomat (n), diplomatic (adj)<br><br>💬 **Ví dụ:** She proudly framed her nursing diploma and hung it in her home clinic.<br>*(-> Cô ấy tự hào đóng khung bằng tốt nghiệp điều dưỡng và treo trong phòng khám tại nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A certificate awarded by an educational establishment to show that someone has successfully completed a course of study.

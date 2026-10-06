@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Reconnect
 *verb*
 > /ˌriː.kəˈnekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Reconnect::Kết nối lại *(Phát âm: /ˌriː.kəˈnekt/)* ![[reconnect.mp3]]<br><br>👪 **Word Family:** reconnection<br><br>💬 **Ví dụ:** I reconnected with my college roommate.<br>*(-> Tôi đã kết nối lại với người bạn cùng phòng đại học của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Re-establish a bond of communication or emotion.

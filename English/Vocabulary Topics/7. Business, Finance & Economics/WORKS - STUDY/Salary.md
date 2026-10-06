@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Salary
 *n.*
 > /ˈsæl.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Salary::Lương *(Phát âm: /ˈsæl.ər.i/)* ![[salary.mp3]]<br><br>👪 **Word Family:** salaried<br><br>💬 **Ví dụ:** The position offers a competitive salary.<br>*(-> Vị trí này đưa ra một mức lương cạnh tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money that employees receive for doing their job, usually paid every month

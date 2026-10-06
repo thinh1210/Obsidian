@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Fiduciary
 *adj./n.*
 > /fɪˈdjuːʃi.ə.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
+
+## 🗂️ Flashcard
+Fiduciary::Ủy thác, thuộc về tín thác *(Phát âm: /fɪˈdjuːʃi.ə.ri/)* ![[fiduciary.mp3]]<br><br>👪 **Word Family:** fiducial<br><br>💬 **Ví dụ:** Parents have a fiduciary responsibility to manage their children's inheritance.<br>*(-> Cha mẹ có trách nhiệm ủy thác để quản lý tài sản thừa kế của con cái họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Involving trust, especially with regard to the relationship between a trustee and a beneficiary

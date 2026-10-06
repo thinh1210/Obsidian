@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Dynamic
 *adjective*
 > /daɪˈnæmɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Dynamic::Động học, năng động, đầy biến động *(Phát âm: /daɪˈnæmɪk/)* ![[dynamic.mp3]]<br><br>👪 **Word Family:** dynamics (n), dynamically (adv), dynamism (n)<br><br>💬 **Ví dụ:** Engineering is a dynamic field where technology changes almost daily.<br>*(-> Kỹ thuật là một lĩnh vực đầy biến động, nơi công nghệ thay đổi gần như hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by constant change, activity, or progress; relating to forces producing motion.

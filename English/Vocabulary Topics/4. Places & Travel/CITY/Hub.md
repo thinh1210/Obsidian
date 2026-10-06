@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Hub
 *n.*
 > /hʌb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Hub::Trung tâm *(Phát âm: /hʌb/)* ![[hub.mp3]]<br><br>👪 **Word Family:** hubbub (n)<br><br>💬 **Ví dụ:** London is a financial hub.<br>*(-> London là một trung tâm tài chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The central and most important part of a particular place or activity.

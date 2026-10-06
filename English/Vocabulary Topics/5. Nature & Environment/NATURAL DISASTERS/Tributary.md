@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Tributary
 *noun*
 > /ˈtrɪb.jə.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Tributary::Nhánh sông, sông phụ lưu *(Phát âm: /ˈtrɪb.jə.tər.i/)* ![[tributary.mp3]]<br><br>👪 **Word Family:** tribute (n - unrelated meaning)<br><br>💬 **Ví dụ:** The main river flooded because all its tributaries were overflowing.<br>*(-> Dòng sông chính bị lũ lụt vì tất cả các nhánh sông của nó đều tràn bờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A river or stream flowing into a larger river or lake.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Public figure
 *n.*
 > /ˌpʌb.lɪk ˈfɪɡ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+21 - Public figure::Nhân vật công chúng *(Phát âm: /ˌpʌb.lɪk ˈfɪɡ.ər/)* ![[public_figure.mp3]]<br><br>👪 **Word Family:** Figure (n.)<br><br>💬 **Ví dụ:** She is a public figure.<br>*(-> Cô ấy là nhân vật công chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is famous and often written about.

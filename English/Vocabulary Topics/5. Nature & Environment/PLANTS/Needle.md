@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Needle
 *n.*
 > /ˈniːdl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Needle::Lá kim, loại lá thon nhọn như chiếc kim của các loài cây lá kim như thông hay tùng *(Phát âm: /ˈniːdl/)* ![[needle.mp3]]<br><br>👪 **Word Family:** needlelike (adj)<br><br>💬 **Ví dụ:** Walking barefoot on dry pine needles felt prickly yet wonderfully aromatic.<br>*(-> Đi chân trần trên lớp lá thông khô mang lại cảm giác ram ráp nhưng thơm ngát mùi nhựa thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The thin, sharp, needle-shaped leaf of a conifer like a pine or fir.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Adolescent
 *noun*
 > /ˌæd.əˈles.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Adolescent::Thanh thiếu niên *(Phát âm: /ˌæd.əˈles.ənt/)* ![[adolescent.mp3]]<br><br>👪 **Word Family:** Adolescence (n)<br><br>💬 **Ví dụ:** The clinic helps adolescent patients.<br>*(-> Phòng khám giúp đỡ bệnh nhân thanh thiếu niên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** In the process of developing from a child into an adult.

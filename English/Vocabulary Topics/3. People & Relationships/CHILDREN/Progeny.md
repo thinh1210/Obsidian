@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Progeny
 *noun*
 > /ˈprɑː.dʒə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Progeny::Con cái, dòng dõi *(Phát âm: /ˈprɑː.dʒə.ni/)* ![[progeny.mp3]]<br><br>👪 **Word Family:** Progenitor (n)<br><br>💬 **Ví dụ:** He was proud of his progeny.<br>*(-> Ông ấy tự hào về con cái mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A descendant or the descendants of a person, animal, or plant.

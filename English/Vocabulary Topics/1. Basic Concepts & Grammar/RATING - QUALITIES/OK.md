@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # OK
 *adj*
 > /ˌoʊˈkeɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+OK::Ổn *(Phát âm: /ˌoʊˈkeɪ/)* ![[ok.mp3]]<br><br>👪 **Word Family:** Okay (variant)<br><br>💬 **Ví dụ:** The food was just OK.<br>*(-> Thức ăn chỉ ở mức ổn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Satisfactory but not especially good.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Carnivore
 *noun*
 > /ˈkɑː.nɪ.vɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Carnivore::Động vật ăn thịt *(Phát âm: /ˈkɑː.nɪ.vɔːr/)* ![[carnivore.mp3]]<br><br>👪 **Word Family:** carnivore (n), carnivorous (adj)<br><br>💬 **Ví dụ:** Lions, tigers, and wolves are examples of carnivores.<br>*(-> Sư tử, hổ và sói là những ví dụ về động vật ăn thịt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that feeds on flesh (meat).

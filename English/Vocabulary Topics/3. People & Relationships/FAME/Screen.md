@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Screen
 *n.*
 > /skriːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Screen::Màn hình *(Phát âm: /skriːn/)* ![[screen.mp3]]<br><br>👪 **Word Family:** screenplay (n.)<br><br>💬 **Ví dụ:** He looks good on screen.<br>*(-> Anh ấy trông đẹp trên màn ảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The flat surface on a TV or cinema where pictures are shown.

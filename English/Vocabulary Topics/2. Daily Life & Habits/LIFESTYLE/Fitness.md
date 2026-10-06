@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Fitness
 *n.*
 > /ˈfɪtnəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Fitness::Thể dục, sự sung sức *(Phát âm: /ˈfɪtnəs/)* ![[fitness.mp3]]<br><br>👪 **Word Family:** fit (adj.)<br><br>💬 **Ví dụ:** He cares about his fitness.<br>*(-> Anh ấy quan tâm đến thể lực của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition of being physically fit and healthy.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Wingspan
 *noun*
 > /ˈwɪŋ.spæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Wingspan::Sải cánh (chiều rộng cánh máy bay) *(Phát âm: /ˈwɪŋ.spæn/)* ![[wingspan.mp3]]<br><br>👪 **Word Family:** wing (n), span (n), aspect ratio (n)<br><br>💬 **Ví dụ:** The Boeing 747 has a wingspan of about 68 metres.<br>*(-> Boeing 747 có sải cánh khoảng 68 mét.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The distance measured from the tip of one wing to the tip of the other wing of an aircraft.

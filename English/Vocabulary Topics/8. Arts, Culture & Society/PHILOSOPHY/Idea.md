@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Idea
 *n.*
 > /aɪˈdɪə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Idea::Ý tưởng, ý kiến *(Phát âm: /aɪˈdɪə/)* ![[idea.mp3]]<br><br>👪 **Word Family:** ideal, idealism<br><br>💬 **Ví dụ:** I have no idea what we should eat tonight.<br>*(-> Tôi không có ý tưởng gì về việc chúng ta nên ăn gì tối nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thought or suggestion as to a possible course of action.

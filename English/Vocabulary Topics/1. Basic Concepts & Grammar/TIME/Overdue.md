@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Overdue
 *adj.*
 > /ˌəʊ.vəˈdʒuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Overdue::Quá hạn, trễ thời hạn quy định (hóa đơn, sách thư viện, dự án) *(Phát âm: /ˌəʊ.vəˈdʒuː/)* ![[overdue.mp3]]<br><br>👪 **Word Family:** due (adj/n)<br><br>💬 **Ví dụ:** Remember to return your library books today or you will be charged an overdue fine.<br>*(-> Hãy nhớ trả sách thư viện hôm nay nếu không bạn sẽ bị phạt phí quá hạn đấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not having arrived, happened, or been done by the expected or required time.

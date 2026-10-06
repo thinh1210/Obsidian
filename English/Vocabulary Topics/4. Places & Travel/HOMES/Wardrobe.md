@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Wardrobe
 *n.*
 > /ˈwɔːdrəʊb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Wardrobe::Tủ lớn có cánh và móc treo dùng để chứa quần áo *(Phát âm: /ˈwɔːdrəʊb/)* ![[wardrobe.mp3]]<br><br>👪 **Word Family:** wardrobe (n)<br><br>💬 **Ví dụ:** She hung her winter coats inside the spacious wooden wardrobe.<br>*(-> Cô treo những chiếc áo khoác mùa đông vào tủ quần áo bằng gỗ rộng rãi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, tall cupboard in which clothes may be hung or stored.

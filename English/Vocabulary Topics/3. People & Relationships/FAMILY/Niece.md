@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Niece
 *noun*
 > /niːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Niece::Cháu gái (con của anh/chị/em) *(Phát âm: /niːs/)* ![[niece.mp3]]<br><br>👪 **Word Family:** nieces (pl)<br><br>💬 **Ví dụ:** My niece is smart.<br>*(-> Cháu gái tôi rất thông minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A daughter of your brother or sister.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Hurricane
 *noun*
 > /ˈhʌr.ɪ.kən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Hurricane::Bão nhiệt đới (cấp độ lớn) *(Phát âm: /ˈhʌr.ɪ.kən/)* ![[hurricane.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The hurricane caused power outages in millions of homes.<br>*(-> Cơn bão đã gây ra tình trạng mất điện tại hàng triệu hộ gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A violent wind that has a circular movement, especially in the West Atlantic Ocean.

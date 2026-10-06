@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Syntax
 *noun*
 > /ˈsɪn.tæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
+
+## 🗂️ Flashcard
+Syntax::cú pháp, cú pháp học *(Phát âm: /ˈsɪn.tæks/)* ![[syntax.mp3]]<br><br>👪 **Word Family:** syntactic (adj), syntactically (adv)<br><br>💬 **Ví dụ:** The syntax of English sentences generally follows a Subject-Verb-Object pattern.<br>*(-> Cú pháp của các câu tiếng Anh thường tuân theo mô hình Chủ ngữ - Động từ - Tân ngữ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the grammatical arrangement of words in a sentence

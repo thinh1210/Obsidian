@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Metaphor
 *noun*
 > /ˈmet.ə.fɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Metaphor::Phép ẩn dụ *(Phát âm: /ˈmet.ə.fɔːr/)* ![[metaphor.mp3]]<br><br>👪 **Word Family:** metaphorical (adj), metaphorically (adv)<br><br>💬 **Ví dụ:** The phrase "all the world's a stage" is a famous metaphor.<br>*(-> Cụm từ "cả thế gian là một thánh đường" là một phép ẩn dụ nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A figure of speech in which a word or phrase is applied to an object not literally applicable.

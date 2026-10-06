@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Fee
 *n.*
 > /fiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Fee::Khoản tiền phải trả cho dịch vụ quản lý hoặc trung gian *(Phát âm: /fiː/)* ![[fee.mp3]]<br><br>👪 **Word Family:** fee (n)<br><br>💬 **Ví dụ:** The monthly building management fee includes trash collection.<br>*(-> Phí quản lý tòa nhà hàng tháng đã bao gồm dịch vụ thu gom rác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A payment made to a professional person or to a company in exchange for advice or services.

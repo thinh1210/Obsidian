@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Find
 *verb*
 > /faɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Find::Tìm thấy, phát hiện *(Phát âm: /faɪnd/)* ![[find.mp3]]<br><br>👪 **Word Family:** finder (noun), finding (noun)<br><br>💬 **Ví dụ:** Did you find your lost keys yet?<br>*(-> Bạn đã tìm thấy chìa khóa bị mất chưa?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To discover something by chance or because you were looking for it

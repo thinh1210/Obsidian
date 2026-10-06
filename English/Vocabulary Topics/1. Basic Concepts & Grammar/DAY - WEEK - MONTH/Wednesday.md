@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Wednesday
 *n.*
 > /ˈwenz.deɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Wednesday::Thứ Tư, ngày giữa tuần làm việc thông thường *(Phát âm: /ˈwenz.deɪ/)* ![[wednesday.mp3]]<br><br>👪 **Word Family:** Wednesdays (adv)<br><br>💬 **Ví dụ:** The local farmer's market opens fresh stalls every Wednesday morning.<br>*(-> Chợ nông sản địa phương mở các gian hàng thực phẩm tươi sống vào mỗi sáng thứ Tư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The day of the week between Tuesday and Thursday; the middle of the traditional workweek.

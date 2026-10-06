@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Filigree
 *noun*
 > /ˈfɪl.ɪ.ɡriː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Filigree::Đồ kim hoàn bằng chạm trổ *(Phát âm: /ˈfɪl.ɪ.ɡriː/)* ![[filigree.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The earrings feature filigree.<br>*(-> Bông tai có chạm trổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ornamental work of fine wire formed into delicate tracery.

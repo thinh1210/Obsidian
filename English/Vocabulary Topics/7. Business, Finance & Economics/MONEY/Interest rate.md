@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Interest rate
 *n.*
 > /ˈɪn.trəst reɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Interest rate::Tỷ lệ phần trăm lãi suất áp dụng cho khoản vay hoặc tiền gửi tiết kiệm *(Phát âm: /ˈɪn.trəst reɪt/)* ![[interest_rate.mp3]]<br><br>👪 **Word Family:** interest (n), rate (n)<br><br>💬 **Ví dụ:** Opting for a fixed interest rate protects your mortgage payments from unexpected inflation jumps.<br>*(-> Lựa chọn lãi suất cố định giúp bảo vệ các khoản trả góp thế chấp của bạn khỏi những đợt tăng lạm phát bất ngờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The proportion of a loan that is charged as interest to the borrower, typically expressed as an annual percentage.

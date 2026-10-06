@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Language
 *noun*
 > /ˈlæŋɡwɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Language::Ngôn ngữ, môn Ngôn ngữ *(Phát âm: /ˈlæŋɡwɪdʒ/)* ![[language.mp3]]<br><br>👪 **Word Family:** linguist, linguistic<br><br>💬 **Ví dụ:** Learning a new language takes time and practice.<br>*(-> Học một ngôn ngữ mới đòi hỏi thời gian và sự luyện tập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.

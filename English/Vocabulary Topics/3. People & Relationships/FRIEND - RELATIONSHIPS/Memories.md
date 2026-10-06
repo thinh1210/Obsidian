@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Memories
 *noun*
 > /ˈmem.ər.iz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Memories::Kỷ niệm *(Phát âm: /ˈmem.ər.iz/)* ![[memories.mp3]]<br><br>👪 **Word Family:** memory<br><br>💬 **Ví dụ:** We have many happy memories together.<br>*(-> Chúng ta có nhiều kỷ niệm vui bên nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Something remembered from the past; a recollection.

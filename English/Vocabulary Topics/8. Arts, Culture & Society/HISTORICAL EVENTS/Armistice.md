@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Armistice
 *noun*
 > /ˈɑː.mɪ.stɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Armistice::Hiệp định đình chiến, sự hưu chiến *(Phát âm: /ˈɑː.mɪ.stɪs/)* ![[armistice.mp3]]<br><br>👪 **Word Family:** armistice (noun)<br><br>💬 **Ví dụ:** The children agreed on a brief armistice in their snowball fight.<br>*(-> Lũ trẻ đồng ý đình chiến một lát trong trận chiến bóng tuyết của chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An agreement made by opposing sides in a war to stop fighting for a certain time; a truce.

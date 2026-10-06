@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Cinema
 *n.*
 > /ˈsɪnəmə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Cinema::Địa điểm công cộng phát sóng phim ảnh phục vụ người xem *(Phát âm: /ˈsɪnəmə/)* ![[cinema.mp3]]<br><br>👪 **Word Family:** cinematic (adj), cinematography (n)<br><br>💬 **Ví dụ:** Let's go to the cinema this Friday evening.<br>*(-> Tối thứ Sáu này chúng mình đi rạp xem phim nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A theatre where movies are shown for public entertainment.

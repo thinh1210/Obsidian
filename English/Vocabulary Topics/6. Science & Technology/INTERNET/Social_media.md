@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Social media
 *noun*
 > /ˌsəʊ.ʃəl ˈmiː.di.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Social_media::Mạng xã hội *(Phát âm: /ˌsəʊ.ʃəl ˈmiː.di.ə/)* ![[social_media.mp3]]<br><br>👪 **Word Family:** social media (n), social network (n), social networking (n)<br><br>💬 **Ví dụ:** She spends two hours a day on social media.<br>*(-> Cô ấy dành hai tiếng mỗi ngày trên mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Websites and apps that allow users to create and share content or participate in social networking.

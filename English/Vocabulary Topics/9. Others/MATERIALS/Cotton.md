@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Cotton
 *noun.*
 > /ˈkɒtn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Cotton::Bông, vải cotton *(Phát âm: /ˈkɒtn/)* ![[cotton.mp3]]<br><br>👪 **Word Family:** cottony (Adjective)<br><br>💬 **Ví dụ:** I prefer cotton socks because they absorb sweat well.<br>*(-> Tôi thích tất cotton hơn vì chúng hút mồ hôi tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A soft, white, fibrous substance that surrounds the seeds of a tropical plant and is used as textile fiber and thread.

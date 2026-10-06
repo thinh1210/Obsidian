@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Cool
 *adj.*
 > /kuːl/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Cool::Mát mẻ, dễ chịu; điềm đạm; sành điệu, ngầu *(Phát âm: /kuːl/)* ![[cool.mp3]]<br><br>👪 **Word Family:** coolly (adv), coolness (n), cool (v)<br><br>💬 **Ví dụ:** We sat under the shade of the mango tree and enjoyed the cool breeze.<br>*(-> Chúng tôi ngồi dưới bóng mát cây xoài và tận hưởng làn gió mát rượi.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Slightly cold in a pleasant way; calm and not excited; fashionable and attractive.

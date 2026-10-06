@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Sovereignty
 *noun*
 > /ˈsɒv.rɪn.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Sovereignty::Chủ quyền, quyền tối cao *(Phát âm: /ˈsɒv.rɪn.ti/)* ![[sovereignty.mp3]]<br><br>👪 **Word Family:** sovereign (noun/adj)<br><br>💬 **Ví dụ:** As adults, we have sovereignty over our own bodies and decisions.<br>*(-> Là người lớn, chúng ta có quyền tự quyết đối với cơ thể và các quyết định của chính mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Supreme power or authority; the authority of a state to govern itself or another state.

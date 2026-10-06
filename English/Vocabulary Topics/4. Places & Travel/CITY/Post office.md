@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Post office
 *n.*
 > /ˈpəʊst ˌɒfɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Post office::Nơi gửi thư từ, bưu phẩm và các dịch vụ bưu chính công cộng *(Phát âm: /ˈpəʊst ˌɒfɪs/)* ![[post_office.mp3]]<br><br>👪 **Word Family:** postal (adj), postage (n)<br><br>💬 **Ví dụ:** I need to mail this package at the post office.<br>*(-> Tôi cần gửi gói hàng này ở bưu điện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where you can send letters and parcels, buy stamps, etc.

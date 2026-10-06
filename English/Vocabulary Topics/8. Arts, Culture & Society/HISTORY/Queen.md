@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Queen
 *noun*
 > /kwiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Queen::Nữ hoàng, hoàng hậu *(Phát âm: /kwiːn/)* ![[queen.mp3]]<br><br>👪 **Word Family:** queenship (n), queenly (adj)<br><br>💬 **Ví dụ:** The queen waved to the crowd from her balcony.<br>*(-> Nữ hoàng vẫy tay chào đám đông từ ban công của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The female ruler of an independent state, or the wife of a king.

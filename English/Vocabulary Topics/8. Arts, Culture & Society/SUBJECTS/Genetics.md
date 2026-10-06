@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Genetics
 *noun*
 > /dʒəˈnetɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Genetics::Di truyền học *(Phát âm: /dʒəˈnetɪks/)* ![[genetics.mp3]]<br><br>👪 **Word Family:** geneticist, genetic, gene<br><br>💬 **Ví dụ:** Genetics plays a big role in determining eye color.<br>*(-> Di truyền học đóng vai trò lớn trong việc xác định màu mắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of heredity and the variation of inherited characteristics.

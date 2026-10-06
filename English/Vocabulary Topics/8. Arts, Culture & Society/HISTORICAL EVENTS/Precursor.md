@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Precursor
 *noun*
 > /priːˈkɜː.sər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Precursor::Tiền thân, người đi trước, điềm báo trước *(Phát âm: /priːˈkɜː.sər/)* ![[precursor.mp3]]<br><br>👪 **Word Family:** precursive (adj), precursory (adj)<br><br>💬 **Ví dụ:** Dark clouds are often a precursor to a heavy rainstorm.<br>*(-> Những đám mây đen thường là điềm báo trước của một trận mưa giông lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing that comes before another of the same kind; a forerunner.

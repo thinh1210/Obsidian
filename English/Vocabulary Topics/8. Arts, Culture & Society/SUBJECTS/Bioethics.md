@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Bioethics
 *noun*
 > /ˌbaɪəʊˈeθɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Bioethics::Đạo đức sinh học *(Phát âm: /ˌbaɪəʊˈeθɪks/)* ![[bioethics.mp3]]<br><br>👪 **Word Family:** bioethicist, bioethical<br><br>💬 **Ví dụ:** Bioethics addresses the moral questions surrounding cloning.<br>*(-> Đạo đức sinh học giải quyết các câu hỏi đạo đức xung quanh việc nhân bản vô tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the ethical issues emerging from advances in biology and medicine.

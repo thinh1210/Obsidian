@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Stadium
 *n.*
 > /ˈsteɪ.di.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Stadium::Sân vận động *(Phát âm: /ˈsteɪ.di.əm/)* ![[stadium.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The stadium is full of screaming fans.<br>*(-> Sân vận động chật kín người hâm mộ la hét.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sports arena with tiers of seats for spectators.

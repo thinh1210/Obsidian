@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Colleague
 *n.*
 > /ˈkɒl.iːɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Colleague::Đồng nghiệp *(Phát âm: /ˈkɒl.iːɡ/)* ![[colleague.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She discussed the project with a colleague.<br>*(-> Cô ấy thảo luận về dự án với một đồng nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person with whom one works, especially in a profession

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Income
 *noun*
 > /ˈɪn.kʌm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Income::Thu nhập *(Phát âm: /ˈɪn.kʌm/)* ![[income.mp3]]<br><br>👪 **Word Family:** incoming (adj)<br><br>💬 **Ví dụ:** Many families struggle because of low household income.<br>*(-> Nhiều gia đình chật vật vì thu nhập hộ gia đình thấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money received, especially on a regular basis, for work or through investments

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Suburb
 *n.*
 > /ˈsʌbɜːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Suburb::Ngoại ô *(Phát âm: /ˈsʌbɜːb/)* ![[suburb.mp3]]<br><br>👪 **Word Family:** Suburban (adj.)<br><br>💬 **Ví dụ:** They live in a quiet suburb.<br>*(-> Họ sống ở một vùng ngoại ô yên tĩnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An outlying district of a city, especially a residential one.

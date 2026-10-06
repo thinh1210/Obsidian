@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Wet
 *adj.*
 > /wet/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Wet::Ướt sũng, ẩm ướt, dầm dề nước mưa *(Phát âm: /wet/)* ![[wet.mp3]]<br><br>👪 **Word Family:** wetness (n), wetting (n)<br><br>💬 **Ví dụ:** Don't forget your umbrella, it is going to be very wet outside.<br>*(-> Đừng quên ô che nhé, ngoài trời sắp mưa ướt dầm dề đấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Covered with or containing liquid, especially water or rain.

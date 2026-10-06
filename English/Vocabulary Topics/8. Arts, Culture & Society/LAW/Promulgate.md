@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Promulgate
 *verb*
 > /ˈprɒmlɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Promulgate::Ban hành; công bố chính thức (luật) *(Phát âm: /ˈprɒmlɡeɪt/)* ![[promulgate.mp3]]<br><br>👪 **Word Family:** promulgation (n), promulgator (n)<br><br>💬 **Ví dụ:** The president promulgated the new environmental regulations.<br>*(-> Tổng thống ban hành các quy định môi trường mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To make a law or decree officially known; to put it into effect

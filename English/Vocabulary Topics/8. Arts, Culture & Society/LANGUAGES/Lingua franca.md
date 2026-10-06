@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Lingua franca
 *n.*
 > /ˌlɪŋɡwə ˈfræŋkə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
+
+## 🗂️ Flashcard
+Lingua franca::Ngôn ngữ chung, ngôn ngữ cầu nối *(Phát âm: /ˌlɪŋɡwə ˈfræŋkə/)* ![[lingua_franca.mp3]]<br><br>👪 **Word Family:** **Synonyms:** common language, bridge language<br><br>💬 **Ví dụ:** In many tourist spots, English acts as the lingua franca.<br>*(-> Ở nhiều địa điểm du lịch, tiếng Anh đóng vai trò là ngôn ngữ chung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A language that is adopted as a common language between speakers whose native languages are different

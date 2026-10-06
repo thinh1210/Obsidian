@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Counter
 *n*
 > /ˈkaʊn.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Counter::Quầy *(Phát âm: /ˈkaʊn.tər/)* ![[counter.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Leave it at the counter.<br>*(-> Để nó ở quầy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long flat surface in a shop

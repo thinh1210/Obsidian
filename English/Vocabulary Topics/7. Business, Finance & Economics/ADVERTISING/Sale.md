@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Sale
 *noun*
 > /seɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Sale::Đợt giảm giá, việc bán hàng *(Phát âm: /seɪl/)* ![[sale.mp3]]<br><br>👪 **Word Family:** sell (verb), salesperson (noun)<br><br>💬 **Ví dụ:** I bought these jeans on sale.<br>*(-> Tôi đã mua chiếc quần jeans này trong đợt giảm giá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The exchange of a commodity for money; the action of selling something.

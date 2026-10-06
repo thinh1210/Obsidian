@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Museum
 *n.*
 > /mjuˈziːəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Museum::Bảo tàng *(Phát âm: /mjuˈziːəm/)* ![[museum.mp3]]<br><br>👪 **Word Family:** museology<br><br>💬 **Ví dụ:** We spent the afternoon at the history museum.<br>*(-> Chúng tôi đã dành cả buổi chiều ở bảo tàng lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building where objects of historical, scientific, or artistic interest are kept and shown to the public

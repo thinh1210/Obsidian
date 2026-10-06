@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Handicraft
 *n.*
 > /ˈhæn.dɪ.krɑːft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Handicraft::Đồ thủ công, nghề thủ công *(Phát âm: /ˈhæn.dɪ.krɑːft/)* ![[handicraft.mp3]]<br><br>👪 **Word Family:** Handcrafted (adj.)<br><br>💬 **Ví dụ:** I enjoy buying local handicrafts when I travel abroad.<br>*(-> Tôi thích mua đồ thủ công địa phương khi đi du lịch nước ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A skilled activity in which something is made in a traditional way with the hands rather than being produced by machines.

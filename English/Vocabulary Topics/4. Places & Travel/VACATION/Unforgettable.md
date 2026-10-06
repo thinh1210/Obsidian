@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Unforgettable
 *adj.*
 > /ˌʌnfəˈɡetəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Unforgettable::Để lại ấn tượng sâu sắc đến mức không bao giờ phai mờ trong tâm khảm *(Phát âm: /ˌʌnfəˈɡetəbl/)* ![[unforgettable.mp3]]<br><br>👪 **Word Family:** forget (v), forgettable (adj), unforgettably (adv)<br><br>💬 **Ví dụ:** Watching the Northern Lights shimmer green in the arctic night was an unforgettable experience.<br>*(-> Ngắm nhìn Cực quang phương Bắc tỏa sắc xanh lung linh trong đêm bắc cực là một trải nghiệm khó quên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Impossible to forget; very memorable.

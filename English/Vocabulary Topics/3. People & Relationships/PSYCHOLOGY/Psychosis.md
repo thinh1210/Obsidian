@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Psychosis
 *noun*
 > /saɪˈkoʊ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Psychosis::Bệnh loạn thần *(Phát âm: /saɪˈkoʊ.sɪs/)* ![[psychosis.mp3]]<br><br>👪 **Word Family:** psychotic (adj)<br><br>💬 **Ví dụ:** Drug abuse can lead to psychosis.<br>*(-> Lạm dụng ma túy có thể dẫn đến chứng loạn thần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A severe mental disorder in which thought and emotions are so impaired that contact is lost with external reality.

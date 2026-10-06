@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Charity
 *n.*
 > /ˈtʃær.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+19 - Charity::Tổ chức từ thiện *(Phát âm: /ˈtʃær.ə.ti/)* ![[charity.mp3]]<br><br>👪 **Word Family:** Charitable (adj.)<br><br>💬 **Ví dụ:** Help a charity.<br>*(-> Giúp một tổ chức từ thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organization set up to provide help.

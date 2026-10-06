@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Fish
 *n.*
 > /fɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Fish::Cá *(Phát âm: /fɪʃ/)* ![[fish.mp3]]<br><br>👪 **Word Family:** fishy, fisherman, fishing<br><br>💬 **Ví dụ:** We eat fish on Fridays.<br>*(-> Chúng tôi ăn cá vào thứ Sáu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A limbless cold-blooded vertebrate animal with gills.

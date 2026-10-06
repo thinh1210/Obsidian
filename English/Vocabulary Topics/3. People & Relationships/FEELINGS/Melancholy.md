@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Melancholy
 *Noun/Adj*
 > /ˈmel.əŋ.kɒl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Literary | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Melancholy::Sự u sầu, buồn man mác *(Phát âm: /ˈmel.əŋ.kɒl.i/)* ![[melancholy.mp3]]<br><br>👪 **Word Family:** Melancholic (Adj): Có tính u sầu<br><br>💬 **Ví dụ:** A mood of melancholy descended on us.<br>*(-> Một tâm trạng u sầu bao trùm lấy chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sadness that lasts for a long period of time, often without any obvious reason.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Acumen
 *n.*
 > /ˈækjʊmən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Acumen::Sự nhạy bén, sự nhạy sảo *(Phát âm: /ˈækjʊmən/)* ![[acumen.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Her intellectual acumen made her a top student.<br>*(-> Sự nhạy bén trí tuệ giúp cô ấy trở thành học sinh đứng đầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to make good judgments and quick decisions in a particular domain

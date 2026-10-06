@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Luggage
 *Noun*
 > /ˈlʌɡ.ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
+
+## 🗂️ Flashcard
+Luggage::Hành lý *(Phát âm: /ˈlʌɡ.ɪdʒ/)* ![[luggage.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I have too much luggage to carry alone.<br>*(-> Tôi có quá nhiều hành lý để mang một mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The bags, suitcases, etc. that contain your things and that you take with you when you are travelling.

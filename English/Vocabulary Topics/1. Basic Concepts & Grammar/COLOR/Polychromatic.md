@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Polychromatic
 *adj*
 > /ˌpɑː.li.kroʊˈmæt̬.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Polychromatic::Đa sắc *(Phát âm: /ˌpɑː.li.kroʊˈmæt̬.ɪk/)* ![[polychromatic.mp3]]<br><br>👪 **Word Family:** polychrome (n)<br><br>💬 **Ví dụ:** The ancient temple was originally decorated with polychromatic tiles.<br>*(-> Ngôi đền cổ ban đầu được trang trí bằng những viên gạch đa sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing several colors.

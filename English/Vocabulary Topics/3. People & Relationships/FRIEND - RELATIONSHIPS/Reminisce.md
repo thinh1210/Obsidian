@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Reminisce
 *v.*
 > /ˌrem.ɪˈnɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Reminisce::Hồi tưởng, bồi hồi nhắc lại những kỷ niệm đẹp thời thanh xuân cùng bạn bè *(Phát âm: /ˌrem.ɪˈnɪs/)* ![[reminisce.mp3]]<br><br>👪 **Word Family:** reminiscence (n), reminiscent (adj)<br><br>💬 **Ví dụ:** We stayed up until dawn to reminisce about our wild college adventures and road trips.<br>*(-> Chúng tôi thức đến tận rạng sáng để ôn lại những chuyến phiêu lưu thời đại học và các cung đường phượt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To talk or write about past experiences that you remember with pleasure.

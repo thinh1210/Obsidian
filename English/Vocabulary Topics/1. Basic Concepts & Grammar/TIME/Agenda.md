@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Agenda
 *n.*
 > /əˈdʒen.də/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Agenda::Chương trình nghị sự, nội dung các việc cần làm trong cuộc họp; ý đồ dự định *(Phát âm: /əˈdʒen.də/)* ![[agenda.mp3]]<br><br>👪 **Word Family:** agendas (plural)<br><br>💬 **Ví dụ:** What is on your agenda for the weekend trip to the countryside?<br>*(-> Lịch trình của bạn cho chuyến du lịch cuối tuần về miền quê gồm những gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A list of matters to be discussed at a meeting; a personal underlying plan or motive.

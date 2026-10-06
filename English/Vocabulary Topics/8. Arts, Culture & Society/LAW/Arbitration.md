@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Arbitration
 *noun*
 > /ˌɑːrbɪˈtreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Arbitration::Trọng tài; phân xử *(Phát âm: /ˌɑːrbɪˈtreɪʃn/)* ![[arbitration.mp3]]<br><br>👪 **Word Family:** arbitrate (v), arbitrator (n), arbitral (adj)<br><br>💬 **Ví dụ:** Both parties agreed to settle through arbitration.<br>*(-> Cả hai bên đồng ý giải quyết qua trọng tài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process of resolving a dispute by an independent person rather than going to court

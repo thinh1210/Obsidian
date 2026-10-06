@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Rebuild
 *verb*
 > /ˌriːˈbɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Rebuild::Tái thiết, xây dựng lại *(Phát âm: /ˌriːˈbɪld/)* ![[rebuild.mp3]]<br><br>👪 **Word Family:** builder (noun), building (noun)<br><br>💬 **Ví dụ:** After the storm, the community came together to rebuild the damaged playground.<br>*(-> Sau cơn bão, cộng đồng đã cùng nhau xây dựng lại sân chơi bị hư hỏng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Build something again after it has been damaged or destroyed.

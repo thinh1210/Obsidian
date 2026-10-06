@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Trapezoid
 *n.*
 > /trəˈpiː.zɔɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Trapezoid::Hình thang *(Phát âm: /trəˈpiː.zɔɪd/)* ![[trapezoid.mp3]]<br><br>👪 **Word Family:** Trapezoidal (adj)<br><br>💬 **Ví dụ:** The plot of land is a trapezoid.<br>*(-> Mảnh đất là một hình thang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A quadrilateral with only one pair of parallel sides.

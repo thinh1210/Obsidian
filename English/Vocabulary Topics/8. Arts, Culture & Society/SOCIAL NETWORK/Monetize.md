@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Monetize
 *verb*
 > /ˈmʌnɪtaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Monetize::Kiếm tiền từ, tiền tệ hóa *(Phát âm: /ˈmʌnɪtaɪz/)* ![[monetize.mp3]]<br><br>👪 **Word Family:** monetization (n), monetary (adj)<br><br>💬 **Ví dụ:** Once you get enough followers, you can start to monetize your blog.<br>*(-> Một khi bạn có đủ người theo dõi, bạn có thể bắt đầu kiếm tiền từ blog của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To convert a social media presence or content into a source of income

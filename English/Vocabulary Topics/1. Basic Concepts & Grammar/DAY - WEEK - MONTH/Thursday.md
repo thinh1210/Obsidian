@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Thursday
 *n.*
 > /ˈθɜːz.deɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Thursday::Thứ Năm, ngày áp chót của tuần làm việc năm ngày *(Phát âm: /ˈθɜːz.deɪ/)* ![[thursday.mp3]]<br><br>👪 **Word Family:** Thursdays (adv)<br><br>💬 **Ví dụ:** We usually do our grocery shopping on Thursday evening to avoid weekend crowds.<br>*(-> Chúng tôi thường đi mua sắm thực phẩm vào tối thứ Năm để tránh cảnh đông đúc cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The day of the week between Wednesday and Friday.

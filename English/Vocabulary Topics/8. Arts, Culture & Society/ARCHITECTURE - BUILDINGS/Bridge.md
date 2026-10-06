@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Bridge
 *n.*
 > /brɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Bridge::Cây cầu *(Phát âm: /brɪdʒ/)* ![[bridge.mp3]]<br><br>👪 **Word Family:** bridging<br><br>💬 **Ví dụ:** We walked across the old wooden bridge.<br>*(-> Chúng tôi đã đi bộ qua cây cầu gỗ cũ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A structure built over a river, road, or railway

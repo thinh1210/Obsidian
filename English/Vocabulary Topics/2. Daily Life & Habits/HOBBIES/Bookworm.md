@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Bookworm
 *n.*
 > /ˈbʊk.wɜːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Bookworm::Người rất mê đọc sách, mọt sách dành hàng giờ say sưa bên những trang sách *(Phát âm: /ˈbʊk.wɜːm/)* ![[bookworm.mp3]]<br><br>💬 **Ví dụ:** As an incurable bookworm, she always carries a paperback in her tote bag.<br>*(-> Là một con mọt sách chính hiệu, cô ấy lúc nào cũng mang theo một cuốn sách giấy trong túi xách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who loves reading books and spends a lot of time doing it.

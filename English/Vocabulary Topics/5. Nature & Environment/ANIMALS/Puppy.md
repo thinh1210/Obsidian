@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Puppy
 *n.*
 > /ˈpʌpi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Puppy::Chó con, cún con đáng yêu và hiếu động *(Phát âm: /ˈpʌpi/)* ![[puppy.mp3]]<br><br>👪 **Word Family:** pup (n), puppyhood (n)<br><br>💬 **Ví dụ:** The golden retriever puppy wagged its tail excitedly when seeing its food bowl.<br>*(-> Chú cún giống golden vẫy tít đuôi phấn khích khi nhìn thấy bát thức ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A young dog, typically under a year of age.

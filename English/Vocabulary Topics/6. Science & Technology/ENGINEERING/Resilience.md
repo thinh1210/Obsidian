@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Resilience
 *noun*
 > /rɪˈzɪliəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Resilience::Khả năng phục hồi, khả năng chịu đựng, độ đàn hồi *(Phát âm: /rɪˈzɪliəns/)* ![[resilience.mp3]]<br><br>👪 **Word Family:** resilient (adj), resiliently (adv)<br><br>💬 **Ví dụ:** Engineers test the resilience of new bridge designs against high winds and earthquakes.<br>*(-> Các kỹ sư kiểm tra khả năng phục hồi của các thiết kế cầu mới trước gió lớn và động đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The capacity to recover quickly from difficulties; toughness; the ability of a substance or object to spring back into shape.

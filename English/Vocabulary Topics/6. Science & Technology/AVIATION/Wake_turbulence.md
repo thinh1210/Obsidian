@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Wake turbulence
 *noun phrase*
 > /weɪk ˈtɜː.bjʊ.ləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Wake_turbulence::Nhiễu loạn vết bay (vortex do cánh máy bay tạo ra) *(Phát âm: /weɪk ˈtɜː.bjʊ.ləns/)* ![[wake_turbulence.mp3]]<br><br>👪 **Word Family:** wingtip vortex (n), vortex (n), separation (n)<br><br>💬 **Ví dụ:** Small aircraft must maintain a safe distance behind a heavy jet to avoid its wake turbulence.<br>*(-> Máy bay nhỏ phải giữ khoảng cách an toàn sau máy bay phản lực lớn để tránh nhiễu loạn vết bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A disturbance in the atmosphere that forms behind an aircraft as it passes through the air, caused by wingtip vortices.

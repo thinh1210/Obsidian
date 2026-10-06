@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Meridian
 *noun*
 > /məˈrɪdiən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Meridian::Kinh tuyến *(Phát âm: /məˈrɪdiən/)* ![[meridian.mp3]]<br><br>👪 **Word Family:** Meridional (adj.)<br><br>💬 **Ví dụ:** The Prime Meridian passes through Greenwich.<br>*(-> Kinh tuyến gốc đi qua Greenwich.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circle of constant longitude passing through a given place on the earth's surface and the terrestrial poles.

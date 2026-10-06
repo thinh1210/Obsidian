@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Rage
 *n.*
 > /reɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Rage::Cơn thịnh nộ, cơn giận dữ lôi đình không kiểm soát được *(Phát âm: /reɪdʒ/)* ![[rage.mp3]]<br><br>👪 **Word Family:** enrage (v), raging (adj)<br><br>💬 **Ví dụ:** In a fit of blind rage, the tennis player smashed his racket violently against the court floor.<br>*(-> Trong cơn giận mù quáng, tay vợt đã đập nát cây vợt của mình xuống mặt sân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of extreme or violent anger.

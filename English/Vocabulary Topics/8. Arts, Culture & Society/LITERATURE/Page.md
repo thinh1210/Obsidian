@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Page
 *noun*
 > /peɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Page::Trang (sách, giấy) *(Phát âm: /peɪdʒ/)* ![[page.mp3]]<br><br>👪 **Word Family:** paginate (v), pagination (n)<br><br>💬 **Ví dụ:** Please open your books to page 10.<br>*(-> Vui lòng mở sách của bạn ra trang 10.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One side of a sheet of paper in a book, magazine, or newspaper.

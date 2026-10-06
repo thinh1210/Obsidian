@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Enroll
 *v.*
 > /ɪnˈrəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Enroll::Đăng ký học, nhập học *(Phát âm: /ɪnˈrəʊl/)* ![[enroll.mp3]]<br><br>👪 **Word Family:** enrollment<br><br>💬 **Ví dụ:** I decided to enroll in an online course.<br>*(-> Tôi đã quyết định đăng ký một khóa học trực tuyến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To officially register as a member of an institution or a student on a course

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Crew
 *n.*
 > /kruː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Crew::Đoàn làm phim, đội ngũ nhân viên *(Phát âm: /kruː/)* ![[crew.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The film crew arrived on set at dawn.<br>*(-> Đoàn làm phim đã có mặt tại phim trường lúc bình minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of people who work on and operate a ship, aircraft, public transport, or movie production

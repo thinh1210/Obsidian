@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Waste
 *n.*
 > /weɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Waste::Chất thải, rác thải phát sinh từ sinh hoạt hoặc quy trình sản xuất công nghiệp bị vứt bỏ *(Phát âm: /weɪst/)* ![[waste.mp3]]<br><br>👪 **Word Family:** wasteful (adj), wastefully (adv), wastage (n)<br><br>💬 **Ví dụ:** Families can dramatically reduce household waste by composting vegetable peels and food scraps.<br>*(-> Các gia đình có thể giảm đáng kể rác thải sinh hoạt bằng cách ủ vỏ rau củ và thức ăn thừa làm phân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Material that is not wanted; the unusable remains or byproducts of something.

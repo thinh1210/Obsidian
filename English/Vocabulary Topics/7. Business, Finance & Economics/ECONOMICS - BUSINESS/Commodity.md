@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Commodity
 *noun*
 > /kəˈmɑːdəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Commodity::hàng hóa, thương phẩm *(Phát âm: /kəˈmɑːdəti/)* ![[commodity.mp3]]<br><br>👪 **Word Family:** commoditize (verb), commodification (noun)<br><br>💬 **Ví dụ:** Coffee has become a valuable global commodity over the years.<br>*(-> Cà phê đã trở thành một hàng hóa toàn cầu có giá trị qua nhiều năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a substance or product that can be traded, bought, or sold, especially an agricultural product or raw material.

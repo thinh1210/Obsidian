@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Splurge
 *v/n*
 > /splɜːdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Splurge::Vung tiền *(Phát âm: /splɜːdʒ/)* ![[splurge.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I splurged on a bag.<br>*(-> Tôi vung tiền mua một cái túi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend a lot of money on buying goods

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Encryption
 *noun*
 > /ɪnˈkrɪp.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
+
+## 🗂️ Flashcard
+Encryption::Mã hóa (dữ liệu) *(Phát âm: /ɪnˈkrɪp.ʃən/)* ![[encryption.mp3]]<br><br>👪 **Word Family:** encryption (n), encrypt (v), decrypt (v), encrypted (adj)<br><br>💬 **Ví dụ:** The messaging app uses end-to-end encryption to protect private conversations.<br>*(-> Ứng dụng nhắn tin sử dụng mã hóa đầu cuối để bảo vệ các cuộc trò chuyện riêng tư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of converting data into a coded form to prevent unauthorized access.

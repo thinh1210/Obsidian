@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Insolvency
 *n.*
 > /in'solvənsi/ -> /ɪnˈsɒlvənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Insolvency::Sự mất khả năng thanh toán *(Phát âm: /in'solvənsi/ -> /ɪnˈsɒlvənsi/)* ![[insolvency.mp3]]<br><br>👪 **Word Family:** insolvent, solvency<br><br>💬 **Ví dụ:** The threat of insolvency kept the small shop owner awake at night.<br>*(-> Mối đe dọa vỡ nợ khiến chủ cửa hàng nhỏ mất ngủ hàng đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being unable to pay the money owed, by a person or company, on time

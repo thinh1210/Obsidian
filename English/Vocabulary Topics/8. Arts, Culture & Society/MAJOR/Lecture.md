@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Lecture
 *n., v.*
 > /ˈlek.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Lecture::Bài giảng, buổi học lý thuyết *(Phát âm: /ˈlek.tʃər/)* ![[lecture.mp3]]<br><br>👪 **Word Family:** lecture (n/v), lecturer (n)<br><br>💬 **Ví dụ:** The lecture starts at nine o'clock.<br>*(-> Buổi giảng bắt đầu lúc chín giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A talk given to a group of people to teach them about a subject.

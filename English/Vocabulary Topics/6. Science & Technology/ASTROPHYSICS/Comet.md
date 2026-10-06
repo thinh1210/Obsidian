@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Comet
 *noun*
 > /ˈkɒm.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Comet::Sao chổi *(Phát âm: /ˈkɒm.ɪt/)* ![[comet.mp3]]<br><br>👪 **Word Family:** cometary (adj)<br><br>💬 **Ví dụ:** We watched the comet pass through the sky with our telescope.<br>*(-> Chúng tôi đã xem sao chổi đi qua bầu trời bằng kính thiên văn của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A celestial object consisting of a nucleus of ice and dust and, when near the sun, a 'tail' of gas.

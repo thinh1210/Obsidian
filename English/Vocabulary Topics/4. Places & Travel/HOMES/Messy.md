@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Messy
 *adj*
 > /ˈmɛsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Messy::Bừa bộn *(Phát âm: /ˈmɛsi/)* ![[messy.mp3]]<br><br>👪 **Word Family:** mess (n)<br><br>💬 **Ví dụ:** His bedroom is always messy.<br>*(-> Phòng ngủ của anh ấy luôn bừa bộn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Untidy or dirty.

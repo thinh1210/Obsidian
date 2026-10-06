@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Alarm
 *n., v.*
 > /əˈlɑːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Alarm::Chuông báo thức, còi báo động; làm cho lo sợ, hoảng hốt *(Phát âm: /əˈlɑːm/)* ![[alarm.mp3]]<br><br>👪 **Word Family:** alarming (adj), alarmingly (adv), alarmed (adj)<br><br>💬 **Ví dụ:** I always set my phone alarm for six o'clock to make sure I never miss my morning train.<br>*(-> Tôi luôn đặt chuông báo thức điện thoại lúc sáu giờ để đảm bảo không bao giờ lỡ chuyến tàu sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sound or signal that gives a warning of danger or awakens someone from sleep.

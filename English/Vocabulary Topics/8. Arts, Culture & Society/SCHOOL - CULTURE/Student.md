@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Student
 *noun*
 > /ˈstjuːdnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Student::Học sinh, sinh viên *(Phát âm: /ˈstjuːdnt/)* ![[student.mp3]]<br><br>👪 **Word Family:** study (v, n), studious (adj)<br><br>💬 **Ví dụ:** She is a hard-working student.<br>*(-> Cô ấy là một học sinh chăm chỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who is studying at a school or college.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Hero
 *n.*
 > /ˈhɪərəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Hero::Anh hùng *(Phát âm: /ˈhɪərəʊ/)* ![[hero.mp3]]<br><br>👪 **Word Family:** heroic (adj.)<br><br>💬 **Ví dụ:** He is a local hero.<br>*(-> Anh ấy là anh hùng địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person admired for courage or outstanding achievements.

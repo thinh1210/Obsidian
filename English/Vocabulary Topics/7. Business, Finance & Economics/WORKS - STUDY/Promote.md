@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Promote
 *v.*
 > /prəˈməʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Promote::Thăng chức, quảng bá *(Phát âm: /prəˈməʊt/)* ![[promote.mp3]]<br><br>👪 **Word Family:** promotion, promotional<br><br>💬 **Ví dụ:** She was promoted to manager last week.<br>*(-> Cô ấy đã được thăng chức lên quản lý tuần trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To raise someone to a higher position or rank

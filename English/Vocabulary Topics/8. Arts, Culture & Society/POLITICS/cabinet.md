@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # cabinet
 *noun*
 > /ˈkæbɪnət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+cabinet::Nội các *(Phát âm: /ˈkæbɪnət/)* ![[cabinet.mp3]]<br><br>👪 **Word Family:** cabin (n)<br><br>💬 **Ví dụ:** The president called an emergency cabinet meeting to discuss the crisis.<br>*(-> Tổng thống đã triệu tập một cuộc họp nội các khẩn cấp để thảo luận về cuộc khủng hoảng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of advisers to a sovereign, president, or government, consisting of the most senior government ministers.

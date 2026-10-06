@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # prototype
 *n.*
 > /ˈprəʊ.tə.taɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Prototype::Nguyên mẫu, mẫu đầu tiên *(Phát âm: /ˈprəʊ.tə.taɪp/)* ![[prototype.mp3]]<br><br>👪 **Word Family:** prototypical (adj), prototyped (v)<br><br>💬 **Ví dụ:** They built a prototype of the electric car last year.<br>*(-> Họ đã chế tạo một nguyên mẫu của chiếc xe điện vào năm ngoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The first model or design of something from which other forms are developed

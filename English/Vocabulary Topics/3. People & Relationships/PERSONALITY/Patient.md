@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Patient
 *adj.*
 > /ˈpeɪ.ʃənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Patient::Kiên nhẫn, nhẫn nại, không nóng vội *(Phát âm: /ˈpeɪ.ʃənt/)* ![[patient.mp3]]<br><br>👪 **Word Family:** patience (n), patiently (adv), impatient (adj)<br><br>💬 **Ví dụ:** Teaching young children requires a teacher to be extremely patient.<br>*(-> Dạy trẻ nhỏ đòi hỏi người giáo viên phải vô cùng kiên nhẫn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to wait, or to continue doing something despite difficulties, without getting angry.

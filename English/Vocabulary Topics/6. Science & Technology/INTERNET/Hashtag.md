@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Hashtag
 *noun*
 > /ˈhæʃ.tæɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Hashtag::Thẻ bắt đầu bằng #, hashtag *(Phát âm: /ˈhæʃ.tæɡ/)* ![[hashtag.mp3]]<br><br>👪 **Word Family:** hashtag (n), tag (n/v)<br><br>💬 **Ví dụ:** She added #travel and #adventure hashtags to her Instagram post.<br>*(-> Cô ấy thêm các hashtag #travel và #adventure vào bài đăng Instagram của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A word or phrase preceded by '#' used on social media to categorize content and make it searchable.

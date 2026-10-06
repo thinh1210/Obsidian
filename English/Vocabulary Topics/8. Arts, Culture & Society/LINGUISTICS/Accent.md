@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Accent
 *noun*
 > /ˈæk.sənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Accent::giọng, chất giọng *(Phát âm: /ˈæk.sənt/)* ![[accent.mp3]]<br><br>👪 **Word Family:** accentuate (v)<br><br>💬 **Ví dụ:** He has a strong Scottish accent.<br>*(-> Anh ấy có một giọng Scotland rất đặc trưng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a way of pronouncing words that shows what country or region a person comes from

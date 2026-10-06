@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Topography
 *noun*
 > /təˈpɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Topography::Địa hình *(Phát âm: /təˈpɒɡrəfi/)* ![[topography.mp3]]<br><br>👪 **Word Family:** Topographical (adj.)<br><br>💬 **Ví dụ:** The topography of the region makes it hard to build roads.<br>*(-> Địa hình của khu vực khiến việc xây dựng đường sá trở nên khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of the natural and artificial physical features of an area.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Anthropology
 *noun*
 > /ˌænθrəˈpɒlədži/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Anthropology::Nhân chủng học *(Phát âm: /ˌænθrəˈpɒlədži/)* ![[anthropology.mp3]]<br><br>👪 **Word Family:** anthropologist, anthropological<br><br>💬 **Ví dụ:** Cultural anthropology examines human customs and beliefs.<br>*(-> Nhân chủng học văn hóa nghiên cứu các phong tục và niềm tin của con người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of human societies and cultures and their development.

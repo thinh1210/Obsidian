@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Hoodie
 *n.*
 > /ˈhʊd.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Hoodie::Chiếc áo nỉ thoải mái có mũ trùm đầu *(Phát âm: /ˈhʊd.i/)* ![[hoodie.mp3]]<br><br>👪 **Word Family:** hood (n), hooded (adj)<br><br>💬 **Ví dụ:** It was chilly outside, so he threw on a warm fleece hoodie.<br>*(-> Ngoài trời se lạnh nên anh ấy khoác chiếc áo hoodie nỉ ấm áp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sweatshirt or casual jacket with a hood attached.

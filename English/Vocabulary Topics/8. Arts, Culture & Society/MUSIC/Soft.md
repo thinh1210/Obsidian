@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Soft
 *adj.*
 > /sɒft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Soft::Nhẹ nhàng, êm dịu (âm thanh) *(Phát âm: /sɒft/)* ![[soft.mp3]]<br><br>👪 **Word Family:** softly (adv), soften (v)<br><br>💬 **Ví dụ:** The cafe plays soft jazz music in the background.<br>*(-> Quán cà phê phát nhạc jazz nhẹ nhàng ở chế độ nền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a sound) quiet and gentle; not loud.

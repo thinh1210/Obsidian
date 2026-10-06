@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Tuition
 *n.*
 > /tjuˈɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Tuition::Học phí *(Phát âm: /tjuˈɪʃn/)* ![[tuition.mp3]]<br><br>👪 **Word Family:** tutor<br><br>💬 **Ví dụ:** College tuition fees have risen dramatically.<br>*(-> Học phí đại học đã tăng lên một cách chóng mặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money charged for teaching by a school, college, or university

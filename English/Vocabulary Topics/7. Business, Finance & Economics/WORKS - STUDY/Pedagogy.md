@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Pedagogy
 *n.*
 > /ˈped.ə.ɡɒdʒ.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Pedagogy::Sư phạm, phương pháp giảng dạy *(Phát âm: /ˈped.ə.ɡɒdʒ.i/)* ![[pedagogy.mp3]]<br><br>👪 **Word Family:** pedagogical, pedagogue<br><br>💬 **Ví dụ:** She studies the pedagogy of language learning.<br>*(-> Cô ấy nghiên cứu phương pháp giảng dạy học ngôn ngữ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The method and practice of teaching, especially as an academic subject

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Oligarchy
 *n*
 > /ˈɒl.ɪ.ɡɑː.ki/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Oligarchy::Chế độ đầu sỏ / thiểu số quyền lực *(Phát âm: /ˈɒl.ɪ.ɡɑː.ki/)* ![[oligarchy.mp3]]<br><br>👪 **Word Family:** oligarch (n), oligarchic (adj)<br><br>💬 **Ví dụ:** Critics argue the country has shifted from democracy to oligarchy.<br>*(-> Giới phê bình lập luận rằng đất nước đã chuyển từ dân chủ sang chế độ đầu sỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of government in which power is held by a small group of people.

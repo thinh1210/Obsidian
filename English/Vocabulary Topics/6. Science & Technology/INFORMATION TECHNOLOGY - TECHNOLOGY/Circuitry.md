@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Circuitry
 *n.*
 > /ˈsɜːrkɪtri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Circuitry::Hệ thống mạch điện *(Phát âm: /ˈsɜːrkɪtri/)* ![[circuitry.mp3]]<br><br>👪 **Word Family:** Circuit (n.)<br><br>💬 **Ví dụ:** Water spilled on the laptop and ruined its internal circuitry.<br>*(-> Nước đổ lên laptop và làm hỏng hệ thống mạch điện bên trong.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of electrical circuits.

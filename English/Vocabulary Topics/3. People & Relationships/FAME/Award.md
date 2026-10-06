@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Award
 *n.*
 > /əˈwɔːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Award::Giải thưởng *(Phát âm: /əˈwɔːd/)* ![[award.mp3]]<br><br>👪 **Word Family:** award (v.)<br><br>💬 **Ví dụ:** She won an award.<br>*(-> Cô ấy đã giành một giải thưởng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A prize given for achievement.

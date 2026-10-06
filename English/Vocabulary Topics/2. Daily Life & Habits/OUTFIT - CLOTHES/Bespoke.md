@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Bespoke
 *adj*
 > /bɪˈspoʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Bespoke::Thiết kế/may đo riêng *(Phát âm: /bɪˈspoʊk/)* ![[bespoke.mp3]]<br><br>👪 **Word Family:** bespeak (v)<br><br>💬 **Ví dụ:** He ordered a bespoke suit.<br>*(-> Anh ấy đặt một bộ vest may riêng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made for a particular customer or user.

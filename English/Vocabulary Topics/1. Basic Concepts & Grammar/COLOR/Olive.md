@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Olive
 *n, adj*
 > /ˈɑː.lɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Olive::Màu xanh ô liu *(Phát âm: /ˈɑː.lɪv/)* ![[olive.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She has a beautiful olive complexion.<br>*(-> Cô ấy có làn da màu ngăm (ô liu) rất đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A yellowish-green color.

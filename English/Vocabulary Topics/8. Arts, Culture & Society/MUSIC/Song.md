@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Song
 *n.*
 > /sɒŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Song::Bài hát *(Phát âm: /sɒŋ/)* ![[song.mp3]]<br><br>👪 **Word Family:** sing (v), singer (n)<br><br>💬 **Ví dụ:** She sang a beautiful song for her grandmother.<br>*(-> Cô ấy đã hát một bài hát tuyệt đẹp cho bà của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short poem or other set of words set to music or meant to be sung.

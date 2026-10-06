@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Microscopic
 *adj.*
 > /ˌmaɪkrəˈskɒpɪk/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Microscopic::Siêu nhỏ, vi mô *(Phát âm: /ˌmaɪkrəˈskɒpɪk/)* ![[microscopic.mp3]]<br><br>👪 **Word Family:** microscope<br><br>💬 **Ví dụ:** Microscopic dust.<br>*(-> Bụi siêu nhỏ.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** So small as to be visible only with a microscope

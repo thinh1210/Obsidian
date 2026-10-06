@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Sharenting
 *noun*
 > /ˈʃeərəntɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
+
+## 🗂️ Flashcard
+Sharenting::Việc cha mẹ chia sẻ quá nhiều thông tin về con cái trên mạng *(Phát âm: /ˈʃeərəntɪŋ/)* ![[sharenting.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Sharenting might seem harmless, but it can compromise a child's future privacy.<br>*(-> Việc chia sẻ ảnh con cái lên mạng có vẻ vô hại, nhưng nó có thể tổn hại đến quyền riêng tư trong tương lai của đứa trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of parents sharing detailed information and photos of their children on social media

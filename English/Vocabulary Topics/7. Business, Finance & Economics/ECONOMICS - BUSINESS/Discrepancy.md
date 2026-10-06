@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Discrepancy
 *noun*
 > /dɪˈskrepənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Discrepancy::sự bất nhất, sự khác biệt *(Phát âm: /dɪˈskrepənsi/)* ![[discrepancy.mp3]]<br><br>👪 **Word Family:** discrepant (adjective)<br><br>💬 **Ví dụ:** There is a discrepancy between what she said and what she actually did.<br>*(-> Có sự khác biệt giữa những gì cô ấy nói và những gì cô ấy thực sự làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a difference between two things that should be the same, showing a lack of agreement or balance.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Avian
 *adjective*
 > /ˈeɪ.vi.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Avian::Thuộc về loài chim *(Phát âm: /ˈeɪ.vi.ən/)* ![[avian.mp3]]<br><br>👪 **Word Family:** avian (adj), aviary (n), aviculture (n)<br><br>💬 **Ví dụ:** Avian flu outbreaks have caused concerns for farmers.<br>*(-> Dịch cúm gia cầm bùng phát đã gây lo ngại cho nông dân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to birds.

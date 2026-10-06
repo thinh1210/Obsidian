@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Independent
 *adj.*
 > /ˌɪn.dɪˈpen.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Independent::Độc lập, tự chủ, không bị phụ thuộc vào người khác *(Phát âm: /ˌɪn.dɪˈpen.dənt/)* ![[independent.mp3]]<br><br>👪 **Word Family:** independence (n), independently (adv), depend (v)<br><br>💬 **Ví dụ:** Going to university abroad taught her how to become completely independent.<br>*(-> Đi học đại học ở nước ngoài đã dạy cô cách trở nên hoàn toàn tự lập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not influenced or controlled by others; able to take care of oneself.

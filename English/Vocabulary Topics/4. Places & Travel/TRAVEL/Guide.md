@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Guide
 *noun*
 > /ɡaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Guide::Hướng dẫn viên *(Phát âm: /ɡaɪd/)* ![[guide.mp3]]<br><br>👪 **Word Family:** Guidance, Guided, Guiding<br><br>💬 **Ví dụ:** Our guide is friendly.<br>*(-> Hướng dẫn viên của chúng tôi rất thân thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who shows others the way

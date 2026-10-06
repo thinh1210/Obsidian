@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Urban
 *adj.*
 > /ˈɜːbən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Urban::Thuộc thành thị *(Phát âm: /ˈɜːbən/)* ![[urban.mp3]]<br><br>👪 **Word Family:** Urbanize (v.)<br><br>💬 **Ví dụ:** Urban areas are usually noisy.<br>*(-> Khu vực đô thị thường ồn ào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In, relating to, or characteristic of a town or city.

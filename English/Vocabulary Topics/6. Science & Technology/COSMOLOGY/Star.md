@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Star
 *Noun*
 > /stɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Star::Ngôi sao *(Phát âm: /stɑːr/)* ![[star.mp3]]<br><br>👪 **Word Family:** starry (adj), starless (adj)<br><br>💬 **Ví dụ:** Look at that bright star in the sky!<br>*(-> Nhìn ngôi sao sáng trên bầu trời kìa!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A luminous point in the night sky that is a large, remote incandescent body like the sun.

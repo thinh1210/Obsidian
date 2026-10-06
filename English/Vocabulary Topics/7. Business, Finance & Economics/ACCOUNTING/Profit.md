@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Profit
 *n.*
 > /ˈprɒfɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Profit::Lợi nhuận *(Phát âm: /ˈprɒfɪt/)* ![[profit.mp3]]<br><br>👪 **Word Family:** profitable, profitability, profitless<br><br>💬 **Ví dụ:** He sold his car at a small profit.<br>*(-> Anh ấy đã bán chiếc xe của mình với một khoản lợi nhuận nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money that you earn in trade or business after paying the costs of producing and selling goods

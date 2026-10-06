@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Sanction
 *noun / verb*
 > /ˈsæŋkʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Sanction::Lệnh trừng phạt; phê duyệt chính thức *(Phát âm: /ˈsæŋkʃn/)* ![[sanction.mp3]]<br><br>👪 **Word Family:** sanctioned (adj), unsanctioned (adj), sanctioner (n)<br><br>💬 **Ví dụ:** The country faced international sanctions.<br>*(-> Quốc gia phải đối mặt với các lệnh trừng phạt quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An official order that limits trade or contact with a country, used as a punishment; also, to officially approve something

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Biomimetic
 *adjective.*
 > /ˌbaɪ.oʊ.mɪˈmet̬.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
+
+## 🗂️ Flashcard
+Biomimetic::Bắt chước sinh học, mô phỏng sinh học *(Phát âm: /ˌbaɪ.oʊ.mɪˈmet̬.ɪk/)* ![[biomimetic.mp3]]<br><br>👪 **Word Family:** biomimetics (noun), biomimicry (noun)<br><br>💬 **Ví dụ:** Scientists built a biomimetic robot that swims exactly like a real tuna.<br>*(-> Các nhà khoa học đã chế tạo một robot mô phỏng sinh học bơi giống hệt một con cá ngừ thật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the emulation of the models, systems, and elements of nature for the purpose of solving complex human problems

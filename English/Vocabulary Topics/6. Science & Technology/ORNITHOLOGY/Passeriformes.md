@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Passeriformes
 *noun*
 > /ˌpæs.ər.ɪˈfɔː.miːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
+
+## 🗂️ Flashcard
+Passeriformes::Bộ Sẻ *(Phát âm: /ˌpæs.ər.ɪˈfɔː.miːz/)* ![[passeriformes.mp3]]<br><br>👪 **Word Family:** passerine (adj/n), Passeriformes (n)<br><br>💬 **Ví dụ:** More than half of all bird species belong to the order Passeriformes.<br>*(-> Hơn một nửa số loài chim thuộc về bộ Sẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The large taxonomic order of birds that includes all perching birds or songbirds.

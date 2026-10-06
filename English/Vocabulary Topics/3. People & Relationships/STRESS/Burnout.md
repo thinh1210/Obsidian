@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Burnout
 *n.*
 > /ˈbɜːrnaʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Burnout::Sự kiệt sức (do công việc) *(Phát âm: /ˈbɜːrnaʊt/)* ![[burnout.mp3]]<br><br>👪 **Word Family:** burnt-out (adj)<br><br>💬 **Ví dụ:** I took a break to avoid burnout.<br>*(-> Tôi đã nghỉ ngơi để tránh kiệt sức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical or mental collapse caused by overwork or stress

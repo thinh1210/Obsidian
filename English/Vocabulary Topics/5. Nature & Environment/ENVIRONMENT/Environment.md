@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Environment
 *n.*
 > /ɪnˈvaɪrənmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Environment::Môi trường *(Phát âm: /ɪnˈvaɪrənmənt/)* ![[environment.mp3]]<br><br>👪 **Word Family:** environmental (adj), environmentalist (n), environmentally (adv)<br><br>💬 **Ví dụ:** We must work together to protect the environment.<br>*(-> Chúng ta phải cùng nhau hành động để bảo vệ môi trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The surroundings or conditions in which a person, animal, or plant lives or operates.

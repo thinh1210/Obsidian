@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Respiration
 *noun*
 > /ˌres.pɪˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Respiration::Sự hô hấp, quá trình hô hấp *(Phát âm: /ˌres.pɪˈreɪ.ʃən/)* ![[respiration.mp3]]<br><br>👪 **Word Family:** respire, respiratory, respirator<br><br>💬 **Ví dụ:** Aerobic respiration requires oxygen to produce energy.<br>*(-> Hô hấp hiếu khí cần oxy để tạo ra năng lượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of breathing, or the chemical breakdown of nutrients to release energy in cells.

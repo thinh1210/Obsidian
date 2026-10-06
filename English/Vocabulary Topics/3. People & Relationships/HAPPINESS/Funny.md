@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Funny
 *adj.*
 > /ˈfʌn.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Funny::Buồn cười, hài hước *(Phát âm: /ˈfʌn.i/)* ![[funny.mp3]]<br><br>👪 **Word Family:** Funnily (adv)<br><br>💬 **Ví dụ:** That is a funny story.<br>*(-> Đó là một câu chuyện buồn cười.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing laughter or amusement.

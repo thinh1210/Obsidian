@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # formulate
 *v.*
 > /ˈfɔː.mjə.leɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Formulate::Công thức hóa, xây dựng, đề ra *(Phát âm: /ˈfɔː.mjə.leɪt/)* ![[formulate.mp3]]<br><br>👪 **Word Family:** formula (n), formulation (n), formulated (adj)<br><br>💬 **Ví dụ:** The team is meeting to formulate a new marketing strategy.<br>*(-> Nhóm đang họp để xây dựng một chiến lược tiếp thị mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To develop all the details of a plan for doing something

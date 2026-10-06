@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Essay
 *noun*
 > /ˈes.eɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Essay::Bài luận, tiểu luận *(Phát âm: /ˈes.eɪ/)* ![[essay.mp3]]<br><br>👪 **Word Family:** essayist (n)<br><br>💬 **Ví dụ:** I have to write a 1,000-word essay on environmental policy.<br>*(-> Tôi phải viết một bài luận 1,000 từ về chính sách môi trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short piece of writing on a particular subject, typically analytical.

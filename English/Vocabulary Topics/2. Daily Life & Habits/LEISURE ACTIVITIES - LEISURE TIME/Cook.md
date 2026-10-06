@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Cook
 *v*
 > /kʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Cook::Nấu ăn *(Phát âm: /kʊk/)* ![[cook.mp3]]<br><br>👪 **Word Family:** Cooker (n), Cooking (n)<br><br>💬 **Ví dụ:** I cook for my family daily.<br>*(-> Tôi nấu ăn cho gia đình mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Prepare food by heating it.

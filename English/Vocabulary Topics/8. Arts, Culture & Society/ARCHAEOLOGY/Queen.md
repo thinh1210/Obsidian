@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Queen
 *noun*
 > /kwiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Queen::Nữ hoàng, hoàng hậu *(Phát âm: /kwiːn/)* ![[queen.mp3]]<br><br>👪 **Word Family:** queenly (adj)<br><br>💬 **Ví dụ:** The queen visited the charity organization yesterday.<br>*(-> Nữ hoàng đã đến thăm tổ chức từ thiện ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A female ruler of a country, or the wife of a king

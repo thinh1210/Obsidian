@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Organ
 *noun*
 > /ˈɔː.ɡən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Organ::Cơ quan (trong cơ thể) *(Phát âm: /ˈɔː.ɡən/)* ![[organ.mp3]]<br><br>👪 **Word Family:** organic, organism<br><br>💬 **Ví dụ:** The stomach is an important organ.<br>*(-> Dạ dày là một cơ quan quan trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of an organism that is typically self-contained and has a specific vital function, such as the heart or liver in humans.

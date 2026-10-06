@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Downtown
 *n./adv.*
 > /ˌdaʊnˈtaʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Downtown::Trung tâm thành phố *(Phát âm: /ˌdaʊnˈtaʊn/)* ![[downtown.mp3]]<br><br>👪 **Word Family:** town (n)<br><br>💬 **Ví dụ:** I am going downtown.<br>*(-> Tôi đang đi vào trung tâm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The center or main business area of a town.

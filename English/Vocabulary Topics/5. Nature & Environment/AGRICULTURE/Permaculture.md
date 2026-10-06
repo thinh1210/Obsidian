@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Permaculture
 *n.*
 > /ˈpɜː.mə.kʌl.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Permaculture::Nông nghiệp vĩnh cửu (thiết kế mô phỏng tự nhiên) *(Phát âm: /ˈpɜː.mə.kʌl.tʃər/)* ![[permaculture.mp3]]<br><br>👪 **Word Family:** permaculturalist (n)<br><br>💬 **Ví dụ:** They transformed their suburban backyard into a permaculture garden.<br>*(-> Họ đã biến khu vườn sau nhà ở ngoại ô của mình thành một khu vườn nông nghiệp vĩnh cửu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An agricultural system seeking to integrate human activity with natural ecosystems.

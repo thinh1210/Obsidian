@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Sociology
 *noun*
 > /ˌsəʊsiˈɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Sociology::Xã hội học *(Phát âm: /ˌsəʊsiˈɒlədʒi/)* ![[sociology.mp3]]<br><br>👪 **Word Family:** sociologist, sociological<br><br>💬 **Ví dụ:** Studying sociology helped me understand social patterns.<br>*(-> Học xã hội học đã giúp tôi hiểu được các mô hình xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the development, structure, and functioning of human society.

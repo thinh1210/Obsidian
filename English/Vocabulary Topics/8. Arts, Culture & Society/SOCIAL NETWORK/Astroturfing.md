@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Astroturfing
 *noun*
 > /ˈæstrəʊtɜːfɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Astroturfing::Tạo dư luận giả tạo (giả mạo phong trào quần chúng) *(Phát âm: /ˈæstrəʊtɜːfɪŋ/)* ![[astroturfing.mp3]]<br><br>👪 **Word Family:** astroturf (v)<br><br>💬 **Ví dụ:** Many online reviews are actually astroturfing campaigns organized by the company itself.<br>*(-> Nhiều đánh giá trực tuyến thực chất là các chiến dịch tạo dư luận giả tạo do chính công ty tổ chức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The deceptive practice of masking the sponsors of a message to make it appear as though it originates from grassroots participants

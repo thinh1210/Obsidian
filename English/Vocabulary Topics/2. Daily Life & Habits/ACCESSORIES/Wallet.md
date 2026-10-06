@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Wallet
 *noun*
 > /ˈwɒlɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
+
+## 🗂️ Flashcard
+Wallet::Ví tiền (nam) *(Phát âm: /ˈwɒlɪt/)* ![[wallet.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He took a credit card out of his wallet.<br>*(-> Anh ấy lấy một thẻ tín dụng ra khỏi ví của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small folding case for carrying paper money, credit cards and other flat objects.

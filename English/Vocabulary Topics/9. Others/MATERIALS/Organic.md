@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Organic
 *adjective.*
 > /ɔːˈɡænɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Organic::Hữu cơ *(Phát âm: /ɔːˈɡænɪk/)* ![[organic.mp3]]<br><br>👪 **Word Family:** organically (Adverb), organism (Noun), organicity (Noun)<br><br>💬 **Ví dụ:** We buy organic vegetables at the local farmer's market.<br>*(-> Chúng tôi mua rau hữu cơ tại chợ nông sản địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or derived from living matter; produced without the use of chemical fertilizers or pesticides.

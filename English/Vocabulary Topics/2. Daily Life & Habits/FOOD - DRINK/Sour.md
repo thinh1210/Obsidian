@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Sour
 *adj.*
 > /saʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Sour::Chua *(Phát âm: /saʊər/)* ![[sour.mp3]]<br><br>👪 **Word Family:** sourness<br><br>💬 **Ví dụ:** The lemon is very sour.<br>*(-> Quả chanh này rất chua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having an acid taste like lemon or vinegar.

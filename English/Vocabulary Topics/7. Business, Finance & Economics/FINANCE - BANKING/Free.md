@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Free
 *adj.*
 > /friː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Free::Miễn phí *(Phát âm: /friː/)* ![[free.mp3]]<br><br>👪 **Word Family:** freely (adv), freedom (noun)<br><br>💬 **Ví dụ:** The museum offers free admission on the first Sunday of every month.<br>*(-> Bảo tàng mở cửa miễn phí vào ngày Chủ Nhật đầu tiên mỗi tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Costing nothing; provided without charge.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # rig
 *noun*
 > /rɪg/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Rig::giàn khoan, dàn thiết bị hỗ trợ, thiết bị lắp ráp chuyên dụng *(Phát âm: /rɪg/)* ![[rig.mp3]]<br><br>👪 **Word Family:** Noun: rig (thiết bị, dàn máy), rigging (hệ thống dây lèo tàu thuyền), Verb: rig (trang bị, dàn xếp kết quả)<br><br>💬 **Ví dụ:** The filmmakers set up a complex camera rig for the action scene.<br>*(-> Các nhà làm phim đã lắp đặt một giá đỡ máy quay phức tạp cho cảnh hành động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an apparatus, device, or framework, especially for a specific purpose (like oil drilling, sailing, or camera support).

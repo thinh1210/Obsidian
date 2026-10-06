@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # North
 *noun*
 > /nɔːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+North::Hướng Bắc *(Phát âm: /nɔːθ/)* ![[north.mp3]]<br><br>👪 **Word Family:** Northern (adj.)<br><br>💬 **Ví dụ:** The wind is coming from the north.<br>*(-> Gió đang thổi đến từ hướng Bắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The direction that is to your left when you face the rising sun.

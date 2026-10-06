@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Pathogen
 *n*
 > /ˈpæθədʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Pathogen::Mầm bệnh, tác nhân gây bệnh *(Phát âm: /ˈpæθədʒən/)* ![[pathogen.mp3]]<br><br>👪 **Word Family:** pathogenic (adj), pathogenesis (n)<br><br>💬 **Ví dụ:** The immune system's primary job is to fight off foreign pathogens.<br>*(-> Công việc chính của hệ miễn dịch là chống lại các mầm bệnh ngoại lai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bacterium, virus, or other microorganism that can cause disease.

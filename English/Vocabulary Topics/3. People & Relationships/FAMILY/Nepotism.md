@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Nepotism
 *Noun*
 > /ˈnep.ə.tɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Nepotism::Sự gia đình trị, nạn con ông cháu cha *(Phát âm: /ˈnep.ə.tɪ.zəm/)* ![[nepotism.mp3]]<br><br>👪 **Word Family:** Nepotistic (Adj): Thuộc về gia đình trị<br><br>💬 **Ví dụ:** He was accused of nepotism when he hired his son.<br>*(-> Ông ta bị buộc tội gia đình trị khi nhận con trai vào làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of using your power to get good jobs for your family members.

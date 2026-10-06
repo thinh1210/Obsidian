@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # tape
 *noun*
 > /teɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Tape::băng keo, cuộn băng *(Phát âm: /teɪp/)* ![[tape.mp3]]<br><br>👪 **Word Family:** Noun: tape (băng keo), tape recorder (máy ghi âm), Verb: tape (dán băng keo, ghi âm)<br><br>💬 **Ví dụ:** I used some tape to fix the torn page.<br>*(-> Tôi đã dùng một ít băng keo để sửa trang giấy bị rách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a narrow strip of material, typically plastic or paper, coated with adhesive on one or both sides.

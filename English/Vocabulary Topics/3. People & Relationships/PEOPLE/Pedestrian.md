@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Pedestrian
 *n.*
 > /pəˈdes.tri.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Pedestrian::Người đi bộ *(Phát âm: /pəˈdes.tri.ən/)* ![[pedestrian.mp3]]<br><br>👪 **Word Family:** Pedal<br><br>💬 **Ví dụ:** Drivers must yield to pedestrians.<br>*(-> Tài xế phải nhường đường cho người đi bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person walking along a road or in a developed area.

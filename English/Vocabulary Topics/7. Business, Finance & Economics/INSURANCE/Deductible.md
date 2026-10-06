@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Deductible
 *n.*
 > /dɪˈdʌktəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
+
+## 🗂️ Flashcard
+Deductible::Khoản khấu trừ *(Phát âm: /dɪˈdʌktəbl/)* ![[deductible.mp3]]<br><br>👪 **Word Family:** deduct, deduction, deductive<br><br>💬 **Ví dụ:** Choosing a higher deductible can lower your monthly premium.<br>*(-> Lựa chọn mức khấu trừ cao hơn có thể làm giảm phí bảo hiểm hàng tháng của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A specified amount of money that the insured must pay before an insurance company will pay any claim.

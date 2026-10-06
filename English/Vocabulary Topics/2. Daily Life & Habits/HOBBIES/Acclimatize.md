@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Acclimatize
 *verb*
 > /əˈklaɪmətaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Acclimatize::Thích nghi với khí hậu, môi trường mới *(Phát âm: /əˈklaɪmətaɪz/)* ![[acclimatize.mp3]]<br><br>👪 **Word Family:** Acclimatization (n)<br><br>💬 **Ví dụ:** We need a few days at base camp to acclimatize before heading up.<br>*(-> Chúng ta cần vài ngày ở trạm cơ sở để thích nghi trước khi tiến lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To adapt or become accustomed to a new climate or environment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Coping
 *noun*
 > /ˈkoʊ.pɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Liệu pháp chữa lành, Thích ứng & Cơ chế phòng vệ
+
+## 🗂️ Flashcard
+Coping::Sự đương đầu, đối phó *(Phát âm: /ˈkoʊ.pɪŋ/)* ![[coping.mp3]]<br><br>👪 **Word Family:** cope (verb)<br><br>💬 **Ví dụ:** Humor is his coping mechanism.<br>*(-> Sự hài hước là cơ chế đối phó của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Investing own conscious effort, to solve personal and interpersonal problems.

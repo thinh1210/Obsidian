@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Steal
 *verb*
 > /stiːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Steal::Ăn trộm, ăn cắp *(Phát âm: /stiːl/)* ![[steal.mp3]]<br><br>👪 **Word Family:** Steal (v), Stealth (n), Stealthy (adj)<br><br>💬 **Ví dụ:** He tried to steal a loaf of bread because he was very hungry.<br>*(-> Anh ta đã cố ăn trộm một ổ bánh mì vì anh ta rất đói.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take another person's property without permission or legal right and without intending to return it.

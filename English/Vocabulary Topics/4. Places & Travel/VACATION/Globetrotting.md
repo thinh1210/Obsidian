@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Globetrotting
 *Noun*
 > /ˈɡloʊbˌtrɑtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Globetrotting::Du lịch vòng quanh thế giới *(Phát âm: /ˈɡloʊbˌtrɑtɪŋ/)* ![[globetrotting.mp3]]<br><br>👪 **Word Family:** globetrotter (n)<br><br>💬 **Ví dụ:** Her job involves a lot of globetrotting.<br>*(-> Công việc của cô ấy liên quan đến việc du lịch thế giới rất nhiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of traveling widely around the world.

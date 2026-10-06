@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Smile
 *verb/noun*
 > /smaɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Smile::Mỉm cười *(Phát âm: /smaɪl/)* ![[smile.mp3]]<br><br>👪 **Word Family:** smiling<br><br>💬 **Ví dụ:** She has a beautiful smile.<br>*(-> Cô ấy có nụ cười đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Form one's features into a pleased, kind, or amused expression.

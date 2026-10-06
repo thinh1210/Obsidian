@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Toxic
 *adjective*
 > /ˈtɒk.sɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Toxic::Độc hại *(Phát âm: /ˈtɒk.sɪk/)* ![[toxic.mp3]]<br><br>👪 **Word Family:** toxicity (n), toxin (n), detoxify (v)<br><br>💬 **Ví dụ:** Some mushrooms contain toxic substances that can be fatal.<br>*(-> Một số loại nấm chứa các chất độc hại có thể gây tử vong.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Poisonous or causing harm, especially when introduced into the body.

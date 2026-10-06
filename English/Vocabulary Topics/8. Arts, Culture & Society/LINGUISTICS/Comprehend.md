@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Comprehend
 *verb*
 > /ˌkɒm.prɪˈhend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Comprehend::thấu hiểu, lĩnh hội *(Phát âm: /ˌkɒm.prɪˈhend/)* ![[comprehend.mp3]]<br><br>👪 **Word Family:** comprehension (n), comprehensible (adj), comprehensive (adj)<br><br>💬 **Ví dụ:** I cannot comprehend why anyone would do such a thing.<br>*(-> Tôi không thể hiểu nổi tại sao ai đó lại làm một việc như thế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to understand something completely

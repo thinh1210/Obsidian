@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Drawing
 *n.*
 > /ˈdrɔː.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Drawing::Vẽ tranh; môn Vẽ *(Phát âm: /ˈdrɔː.ɪŋ/)* ![[drawing.mp3]]<br><br>👪 **Word Family:** draw (v.), drawer (n.), drawn (adj.)<br><br>💬 **Ví dụ:** She spent the afternoon drawing cartoon characters.<br>*(-> Cô ấy dành buổi chiều để vẽ các nhân vật hoạt hình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or skill of producing images on a surface, especially with a pencil.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Life
 *n.*
 > /laɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Life::Cuộc sống, sự sống, cuộc đời *(Phát âm: /laɪf/)* ![[life.mp3]]<br><br>👪 **Word Family:** live, lively, lifeless<br><br>💬 **Ví dụ:** She wants to live a simple life in the countryside.<br>*(-> Cô ấy muốn sống một cuộc sống giản dị ở nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition that distinguishes animals and plants from inorganic matter.

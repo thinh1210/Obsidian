@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # breakthrough
 *n.*
 > /ˈbreɪk.θruː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Breakthrough::Bước đột phá *(Phát âm: /ˈbreɪk.θruː/)* ![[breakthrough.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** Scientists made a major breakthrough in cancer research.<br>*(-> Các nhà khoa học đã tạo ra một bước đột phá lớn trong nghiên cứu ung thư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An important discovery or development that helps to solve a problem

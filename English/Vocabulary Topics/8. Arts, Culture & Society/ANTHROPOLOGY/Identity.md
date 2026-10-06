@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Identity
 *n.*
 > /aɪˈden.tə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Identity::Bản sắc, danh tính *(Phát âm: /aɪˈden.tə.ti/)* ![[identity.mp3]]<br><br>👪 **Word Family:** identify, identification, identical<br><br>💬 **Ví dụ:** The police are trying to establish the identity of the victim.<br>*(-> Cảnh sát đang cố gắng xác định danh tính của nạn nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact of being who or what a person or thing is.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Daughter-in-law
 *n.*
 > /ˈdɔː.tər.ɪn.lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Daughter-in-law::Con dâu (vợ của con trai) *(Phát âm: /ˈdɔː.tər.ɪn.lɔː/)* ![[daughter_in_law.mp3]]<br><br>👪 **Word Family:** daughters-in-law (pl)<br><br>💬 **Ví dụ:** The mother-in-law and daughter-in-law spent the entire afternoon baking cookies together.<br>*(-> Mẹ chồng và con dâu đã dành trọn buổi chiều cùng nhau nướng bánh quy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The wife of one's son.

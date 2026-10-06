@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Seat
 *noun*
 > /siːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Seat::Ghế ngồi *(Phát âm: /siːt/)* ![[seat.mp3]]<br><br>👪 **Word Family:** seated (adj), seating (n)<br><br>💬 **Ví dụ:** I always prefer a window seat so I can see the clouds.<br>*(-> Tôi luôn thích ghế cạnh cửa sổ để nhìn thấy những đám mây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where a passenger sits on an aircraft.

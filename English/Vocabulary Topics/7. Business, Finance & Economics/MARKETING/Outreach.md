@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Outreach
 *noun*
 > /ˈaʊtriːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
+
+## 🗂️ Flashcard
+Outreach::Hoạt động tiếp cận, mở rộng cộng đồng *(Phát âm: /ˈaʊtriːtʃ/)* ![[outreach.mp3]]<br><br>👪 **Word Family:** outreach (v)<br><br>💬 **Ví dụ:** She volunteered for the library's outreach program for low-income families.<br>*(-> Cô ấy đã tình nguyện tham gia chương trình tiếp cận của thư viện dành cho các gia đình có thu nhập thấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organization's involvement with or influence in the community; or marketing activities aimed at a target group

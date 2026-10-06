@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Safe
 *adj.*
 > /seɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Safe::An toàn *(Phát âm: /seɪf/)* ![[safe.mp3]]<br><br>👪 **Word Family:** safety, safely, save<br><br>💬 **Ví dụ:** Drive carefully to stay safe on the road.<br>*(-> Hãy lái xe cẩn thận để giữ an toàn trên đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Protected from or not exposed to danger or risk; not likely to be harmed or lost.

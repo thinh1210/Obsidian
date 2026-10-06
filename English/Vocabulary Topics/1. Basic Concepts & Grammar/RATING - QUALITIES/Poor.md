@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Poor
 *adj*
 > /pʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
+
+## 🗂️ Flashcard
+Poor::Kém, tồi *(Phát âm: /pʊər/)* ![[poor.mp3]]<br><br>👪 **Word Family:** Poorly (adv)<br><br>💬 **Ví dụ:** He is in poor health.<br>*(-> Anh ấy có sức khỏe kém.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of a low or inferior standard or quality.

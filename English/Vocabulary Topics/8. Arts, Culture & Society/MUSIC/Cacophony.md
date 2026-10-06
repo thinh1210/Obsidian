@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Cacophony
 *n.*
 > /kəˈkɒf.ə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
+
+## 🗂️ Flashcard
+Cacophony::Tiếng hỗn tạp, âm thanh chói tai/nhốn nháo *(Phát âm: /kəˈkɒf.ə.ni/)* ![[cacophony.mp3]]<br><br>👪 **Word Family:** cacophonous (adj)<br><br>💬 **Ví dụ:** The market was a cacophony of shouting sellers, honking horns, and barking dogs.<br>*(-> Khu chợ là một sự hỗn tạp của tiếng người bán hàng la hét, tiếng còi xe bấm vang và tiếng chó sủa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A harsh, discordant mixture of sounds.

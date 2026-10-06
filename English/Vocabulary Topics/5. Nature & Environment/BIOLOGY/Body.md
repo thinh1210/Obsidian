@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Body
 *noun*
 > /ˈbɒd.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Body::Cơ thể *(Phát âm: /ˈbɒd.i/)* ![[body.mp3]]<br><br>👪 **Word Family:** bodily, embody<br><br>💬 **Ví dụ:** She exercises to keep her body healthy.<br>*(-> Cô ấy tập thể dục để giữ cơ thể khỏe mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The physical structure of a person or an animal, including the bones, flesh, and organs.

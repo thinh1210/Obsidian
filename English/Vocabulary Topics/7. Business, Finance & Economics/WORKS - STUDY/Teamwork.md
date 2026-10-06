@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Teamwork
 *n.*
 > /ˈtiːm.wɜːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Teamwork::Sự phối hợp làm việc nhóm để cùng hoàn thành mục tiêu chung *(Phát âm: /ˈtiːm.wɜːk/)* ![[teamwork.mp3]]<br><br>👪 **Word Family:** team (n/v), teammate (n)<br><br>💬 **Ví dụ:** Completing this complex design challenge within forty-eight hours required exceptional teamwork.<br>*(-> Hoàn thành thử thách thiết kế phức tạp này trong 48 giờ đòi hỏi tinh thần đồng đội xuất sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The collaborative effort of a group to achieve a common goal or to complete a task in an effective way.

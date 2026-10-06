@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Cotton
 *n.*
 > /ˈkɒt.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Cotton::Sợi bông tự nhiên, chất liệu vải cotton thấm hút mồ hôi *(Phát âm: /ˈkɒt.ən/)* ![[cotton.mp3]]<br><br>👪 **Word Family:** cottony (adj)<br><br>💬 **Ví dụ:** I prefer wearing pure cotton shirts in the humid summer months.<br>*(-> Tôi thích mặc áo sơ mi cotton 100% trong những tháng hè ẩm ướt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Thread or cloth made from the soft, white fibres of the cotton plant.

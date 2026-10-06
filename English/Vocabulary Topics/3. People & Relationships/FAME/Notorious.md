@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Notorious
 *adj.*
 > /nəʊˈtɔːriəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
+
+## 🗂️ Flashcard
+Notorious::Khét tiếng *(Phát âm: /nəʊˈtɔːriəs/)* ![[notorious.mp3]]<br><br>👪 **Word Family:** notoriety (n.)<br><br>💬 **Ví dụ:** He is a notorious criminal.<br>*(-> Hắn là một tên tội phạm khét tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Famous or well known, typically for some bad quality or deed.

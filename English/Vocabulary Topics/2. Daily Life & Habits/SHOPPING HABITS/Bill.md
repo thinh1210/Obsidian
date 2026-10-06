@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Bill
 *n.*
 > /bɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Bill::Tờ hóa đơn yêu cầu thanh toán tiền hàng hóa hoặc dịch vụ *(Phát âm: /bɪl/)* ![[bill.mp3]]<br><br>👪 **Word Family:** bill (v), billing (n)<br><br>💬 **Ví dụ:** Could we please have the bill? We would like to split it equally.<br>*(-> Làm ơn cho chúng tôi xin hóa đơn, chúng tôi muốn chia đều tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A request for payment of money owed, or the printed statement of such money.

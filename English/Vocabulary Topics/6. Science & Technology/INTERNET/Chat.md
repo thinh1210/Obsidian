@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Chat
 *verb / noun*
 > /tʃæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Chat::Nhắn tin trực tuyến, trò chuyện online *(Phát âm: /tʃæt/)* ![[chat.mp3]]<br><br>👪 **Word Family:** chat (n/v), chatroom (n), chatting (n)<br><br>💬 **Ví dụ:** I chat with my friends on WhatsApp every evening.<br>*(-> Tôi chat với bạn bè trên WhatsApp mỗi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To communicate with others in real time over the Internet by typing messages.

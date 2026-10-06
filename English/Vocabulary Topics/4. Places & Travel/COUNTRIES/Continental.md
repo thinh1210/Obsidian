@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Continental
 *Adjective*
 > /ˌkɑːntɪˈnentl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+Continental::Thuộc lục địa *(Phát âm: /ˌkɑːntɪˈnentl/)* ![[continental.mp3]]<br><br>👪 **Word Family:** Continent<br><br>💬 **Ví dụ:** They served a continental breakfast at the hotel.<br>*(-> Họ phục vụ bữa sáng kiểu lục địa tại khách sạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Forming or belonging to a continent.

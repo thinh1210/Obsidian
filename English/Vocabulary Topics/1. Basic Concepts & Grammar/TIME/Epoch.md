@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Epoch
 *n.*
 > /ˈiːpɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Epoch::Kỷ nguyên, thời đại *(Phát âm: /ˈiːpɒk/)* ![[epoch.mp3]]<br><br>👪 **Word Family:** epochal (adj.)<br><br>💬 **Ví dụ:** The Victorian epoch.<br>*(-> Kỷ nguyên Victoria.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular period of time in history or a person's life

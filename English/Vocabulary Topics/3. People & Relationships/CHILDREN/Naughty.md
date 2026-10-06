@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Naughty
 *adj*
 > /ˈnɑː.t̬i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Naughty::Nghịch ngợm, hư đốn *(Phát âm: /ˈnɑː.t̬i/)* ![[naughty.mp3]]<br><br>👪 **Word Family:** Naughtiness (n)<br><br>💬 **Ví dụ:** The naughty child broke the vase.<br>*(-> Đứa trẻ nghịch ngợm làm vỡ bình hoa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Disobedient or badly behaved.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # centrifuge
 *noun*
 > /ˈsen.trɪ.fjuːdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Centrifuge::máy ly tâm *(Phát âm: /ˈsen.trɪ.fjuːdʒ/)* ![[centrifuge.mp3]]<br><br>👪 **Word Family:** Noun: centrifuge (máy ly tâm), centrifugation (sự ly tâm), Verb: centrifuge (ly tâm), Adjective: centrifugal (ly tâm)<br><br>💬 **Ví dụ:** The doctor placed the blood samples into the centrifuge.<br>*(-> Bác sĩ đã đặt các mẫu máu vào máy ly tâm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a machine with a rapidly rotating container that applies centrifugal force to its contents, typically to separate fluids.

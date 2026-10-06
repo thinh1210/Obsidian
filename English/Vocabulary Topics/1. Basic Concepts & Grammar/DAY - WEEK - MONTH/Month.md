@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Month
 *noun*
 > /mʌnθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Month::Tháng *(Phát âm: /mʌnθ/)* ![[month.mp3]]<br><br>👪 **Word Family:** monthly (adj)<br><br>💬 **Ví dụ:** My birthday is next month.<br>*(-> Sinh nhật tôi vào tháng tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of about four weeks.

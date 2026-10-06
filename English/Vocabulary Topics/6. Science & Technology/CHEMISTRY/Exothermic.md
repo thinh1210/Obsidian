@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Exothermic
 *adjective*
 > /ˌek.səʊˈθɜː.mɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Exothermic::Tỏa nhiệt *(Phát âm: /ˌek.səʊˈθɜː.mɪk/)* ![[exothermic.mp3]]<br><br>👪 **Word Family:** exotherm (n)<br><br>💬 **Ví dụ:** Combustion is a classic example of an exothermic reaction.<br>*(-> Sự cháy là một ví dụ điển hình của phản ứng tỏa nhiệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a reaction or process) accompanied by the release of heat.

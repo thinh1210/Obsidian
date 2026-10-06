@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Lawyer
 *noun*
 > /ˈlɔɪ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Lawyer::Luật sư *(Phát âm: /ˈlɔɪ.ər/)* ![[lawyer.mp3]]<br><br>👪 **Word Family:** Law (n), Lawyer (n)<br><br>💬 **Ví dụ:** You should consult a lawyer before signing this business contract.<br>*(-> Bạn nên tham khảo ý kiến luật sư trước khi ký hợp đồng kinh doanh này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who practices or studies law; an attorney or counselor.

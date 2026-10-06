@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Afternoon
 *noun*
 > /ˌɑːftəˈnuːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Afternoon::Buổi chiều *(Phát âm: /ˌɑːftəˈnuːn/)* ![[afternoon.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We play football in the afternoon.<br>*(-> Chúng tôi chơi bóng đá vào buổi chiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time from noon or lunchtime to evening.

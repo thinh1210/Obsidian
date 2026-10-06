@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Honest
 *adj.*
 > /ˈɒn.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Honest::Trung thực, liêm khiết, thẳng thắn không dối trá *(Phát âm: /ˈɒn.ɪst/)* ![[honest.mp3]]<br><br>👪 **Word Family:** honesty (n), honestly (adv), dishonest (adj)<br><br>💬 **Ví dụ:** I appreciate your honest feedback about my draft.<br>*(-> Tôi rất trân trọng phản hồi chân thành của bạn về bản thảo của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Telling the truth and not cheating or stealing.

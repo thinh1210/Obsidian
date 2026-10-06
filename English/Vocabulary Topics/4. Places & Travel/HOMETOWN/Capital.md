@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Capital
 *n.*
 > /ˈkæpɪtl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Capital::Thủ đô *(Phát âm: /ˈkæpɪtl/)* ![[capital.mp3]]<br><br>👪 **Word Family:** Capitalize (v.)<br><br>💬 **Ví dụ:** Hanoi is the capital of Vietnam.<br>*(-> Hà Nội là thủ đô của Việt Nam.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The most important city or town of a country or region.

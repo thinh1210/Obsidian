@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Hour
 *n.*
 > /aʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Hour::Giờ *(Phát âm: /aʊər/)* ![[hour.mp3]]<br><br>👪 **Word Family:** hourly (adj.)<br><br>💬 **Ví dụ:** I will be there in an hour.<br>*(-> Tôi sẽ đến đó trong một giờ nữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 60 minutes

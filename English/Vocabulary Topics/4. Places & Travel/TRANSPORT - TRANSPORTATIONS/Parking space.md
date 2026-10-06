@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Parking space
 *n.*
 > /ˈpɑːkɪŋ speɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Parking space::Khoảng diện tích được kẻ vạch quy định để một chiếc xe đậu lại *(Phát âm: /ˈpɑːkɪŋ speɪs/)* ![[parking_space.mp3]]<br><br>👪 **Word Family:** park (v), parking lot (n)<br><br>💬 **Ví dụ:** It took him fifteen minutes to find an empty parking space.<br>*(-> Anh ấy mất 15 phút mới tìm được một chỗ đỗ xe còn trống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A designated location where one vehicle may be parked.

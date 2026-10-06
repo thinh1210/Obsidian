@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Afford
 *v*
 > /əˈfɔːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Afford::Đủ khả năng chi trả *(Phát âm: /əˈfɔːd/)* ![[afford.mp3]]<br><br>👪 **Word Family:** Affordable<br><br>💬 **Ví dụ:** I can't afford it.<br>*(-> Tôi không đủ tiền mua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have enough money to buy

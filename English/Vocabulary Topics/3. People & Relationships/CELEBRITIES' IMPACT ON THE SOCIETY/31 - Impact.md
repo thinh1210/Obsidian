@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Impact
 *n.*
 > /ˈɪm.pækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Hệ lụy tiêu cực & Sự tác động sâu sắc
+
+## 🗂️ Flashcard
+31 - Impact::Tác động *(Phát âm: /ˈɪm.pækt/)* ![[impact.mp3]]<br><br>👪 **Word Family:** Impactful (adj.)<br><br>💬 **Ví dụ:** Big impact.<br>*(-> Tác động lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The effect or influence of one person, thing, or action.

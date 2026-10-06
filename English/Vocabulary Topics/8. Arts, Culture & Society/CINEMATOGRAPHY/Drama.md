@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Drama
 *n.*
 > /ˈdrɑːmə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Drama::Phim chính kịch, kịch tính *(Phát âm: /ˈdrɑːmə/)* ![[drama.mp3]]<br><br>👪 **Word Family:** dramatic, dramatist<br><br>💬 **Ví dụ:** I prefer heavy dramas to action films.<br>*(-> Tôi thích phim chính kịch tâm lý nặng nề hơn phim hành động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A play for theater, radio, or television, or a movie depicting realistic characters in emotional conflicts

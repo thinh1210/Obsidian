@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Volcano
 *Noun*
 > /vɒlˈkeɪnəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Volcano::Núi lửa *(Phát âm: /vɒlˈkeɪnəʊ/)* ![[volcano.mp3]]<br><br>👪 **Word Family:** volcanic, volcanology<br><br>💬 **Ví dụ:** People were evacuated before the volcano erupted.<br>*(-> Người dân đã được sơ tán trước khi núi lửa phun trào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mountain or hill with a crater through which lava and gas erupt.

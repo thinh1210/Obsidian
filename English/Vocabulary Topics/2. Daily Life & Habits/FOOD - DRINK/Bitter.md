@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Bitter
 *adj.*
 > /ˈbɪt.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Bitter::Đắng *(Phát âm: /ˈbɪt.ər/)* ![[bitter.mp3]]<br><br>👪 **Word Family:** bitterness<br><br>💬 **Ví dụ:** This tea is too bitter.<br>*(-> Trà này đắng quá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a sharp, pungent taste or smell; not sweet.

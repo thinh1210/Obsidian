@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Equity
 *n.*
 > /ˈekwɪti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Equity::Vốn chủ sở hữu, giá trị cổ phần *(Phát âm: /ˈekwɪti/)* ![[equity.mp3]]<br><br>👪 **Word Family:** equitable, equitably<br><br>💬 **Ví dụ:** They built up equity in their home over twenty years.<br>*(-> Họ đã tích lũy được giá trị tài sản ròng trong ngôi nhà của mình qua hai mươi năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The value of a business, or of the shares in it, after liabilities are subtracted

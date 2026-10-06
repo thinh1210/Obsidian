@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Melodramatic
 *adj.*
 > /ˌmelədrəˈmætɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Melodramatic::Cường điệu, bi kịch hóa quá mức *(Phát âm: /ˌmelədrəˈmætɪk/)* ![[melodramatic.mp3]]<br><br>👪 **Word Family:** melodrama, melodramatically<br><br>💬 **Ví dụ:** Don't be so melodramatic; it's just a minor issue.<br>*(-> Đừng cường điệu hóa như vậy; đó chỉ là một vấn đề nhỏ thôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Characteristic of melodrama, especially in being exaggerated, sensationalized, or overemotional.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Artist
 *n.*
 > /ˈɑːtɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Artist::Nghệ sĩ, họa sĩ *(Phát âm: /ˈɑːtɪst/)* ![[artist.mp3]]<br><br>👪 **Word Family:** art, artistic, artistry<br><br>💬 **Ví dụ:** The young artist exhibited her paintings at a local cafe.<br>*(-> Người nghệ sĩ trẻ đã triển lãm các bức tranh của mình tại một quán cà phê địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who creates paintings or drawings as a profession or hobby; a person who practices any of the creative arts.

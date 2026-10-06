@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Paper
 *noun*
 > /ˈpeɪ.pər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Paper::Giấy, bài báo nghiên cứu, bài luận *(Phát âm: /ˈpeɪ.pər/)* ![[paper.mp3]]<br><br>👪 **Word Family:** paperback (n), paperweight (n), paperwork (n)<br><br>💬 **Ví dụ:** Can I have a piece of paper to write down your address?<br>*(-> Tôi có thể xin một tờ giấy để ghi lại địa chỉ của bạn không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Material manufactured in thin sheets, used for writing, printing, or research essays.

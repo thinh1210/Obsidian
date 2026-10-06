@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Foreclosure
 *noun*
 > /fɔːrˈkloʊʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Foreclosure::Sự tịch thu tài sản thế chấp *(Phát âm: /fɔːrˈkloʊʒər/)* ![[foreclosure.mp3]]<br><br>👪 **Word Family:** foreclose (v)<br><br>💬 **Ví dụ:** The bank started foreclosure on their home.<br>*(-> Ngân hàng bắt đầu tịch thu ngôi nhà của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of taking possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments.
@@ -34,4 +44,4 @@
 - foreclose (v)
 
 **Synonyms:** repossession
-**Antonyms:** 
+**Antonyms:**

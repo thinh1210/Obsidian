@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Oxygen
 *noun*
 > /ˈɒk.sɪ.dʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Oxygen::Oxy – khí không màu mà con người và động vật cần để thở và sống *(Phát âm: /ˈɒk.sɪ.dʒən/)* ![[oxygen.mp3]]<br><br>👪 **Word Family:** oxide (n), oxidize (v), oxidation (n), oxygenate (v)<br><br>💬 **Ví dụ:** Trees produce oxygen that we breathe every day.<br>*(-> Cây xanh tạo ra oxy mà chúng ta thở hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A colourless gas that humans and animals need to breathe in order to live.

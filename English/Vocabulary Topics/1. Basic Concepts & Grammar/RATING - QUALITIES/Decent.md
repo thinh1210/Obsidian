@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Decent
 *adj*
 > /ˈdiː.sənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Decent::Tử tế, đàng hoàng, kha khá *(Phát âm: /ˈdiː.sənt/)* ![[decent.mp3]]<br><br>👪 **Word Family:** Decency (noun)<br><br>💬 **Ví dụ:** He earns a decent salary.<br>*(-> Anh ấy kiếm được mức lương khá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of an acceptable standard; satisfactory.

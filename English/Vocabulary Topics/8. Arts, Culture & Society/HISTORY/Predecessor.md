@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Predecessor
 *noun*
 > /ˈpriː.dɪˌses.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
+
+## 🗂️ Flashcard
+Predecessor::Người tiền nhiệm, vật tiền thân *(Phát âm: /ˈpriː.dɪˌses.ər/)* ![[predecessor.mp3]]<br><br>👪 **Word Family:** predecease (v)<br><br>💬 **Ví dụ:** The new president vowed to continue the reforms started by his predecessor.<br>*(-> Vị tổng thống mới thề sẽ tiếp tục các cải cách do người tiền nhiệm khởi xướng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who held a job or office before the current holder, or a thing that has been followed by another.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Play
 *n.*
 > /pleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Play::Vở kịch *(Phát âm: /pleɪ/)* ![[play.mp3]]<br><br>👪 **Word Family:** playwright (n.)<br><br>💬 **Ví dụ:** We watched a play.<br>*(-> Chúng tôi đã xem một vở kịch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A dramatic work for the stage.

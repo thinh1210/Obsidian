@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Kitchen
 *noun*
 > /ˈkɪtʃɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Kitchen::Nhà bếp *(Phát âm: /ˈkɪtʃɪn/)* ![[kitchen.mp3]]<br><br>👪 **Word Family:** **Synonyms:** cookhouse<br><br>💬 **Ví dụ:** She is cooking in the kitchen.<br>*(-> Cô ấy đang nấu ăn trong bếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room or area where food is prepared and cooked.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** cookhouse
-**Antonyms:** 
+**Antonyms:**

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Connoisseur
 *n.*
 > /ˌkɒn.əˈsɜːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Connoisseur::Người sành sỏi *(Phát âm: /ˌkɒn.əˈsɜːr/)* ![[connoisseur.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He is a wine connoisseur.<br>*(-> Anh ấy là người sành rượu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An expert judge in matters of taste.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Key
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - opener, solution, guide
+
+
+## 🗂️ Flashcard
+Key::Chìa khóa, giải pháp quyết định *(Phát âm: /kiː/)* ![[key.mp3]]<br><br>👪 **Word Family:** [Noun]: key, [Verb]: key, [Adj]: key<br><br>💬 **Ví dụ:** I can't find my car keys.<br>*(-> Tôi không thể tìm thấy chìa khóa xe của mình.)*

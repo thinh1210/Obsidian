@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Lethargic
 *adj.*
 > /ləˈθɑːdʒɪk/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Lethargic::Lờ đờ, uể oải *(Phát âm: /ləˈθɑːdʒɪk/)* ![[lethargic.mp3]]<br><br>👪 **Word Family:** lethargy<br><br>💬 **Ví dụ:** Feel lethargic.<br>*(-> Cảm thấy uể oải.)*
+<!--SR:!2026-10-03,1,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Affected by lethargy; sluggish and apathetic

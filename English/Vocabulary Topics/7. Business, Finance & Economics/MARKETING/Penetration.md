@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Penetration
 *noun*
 > /ˌpenəˈtreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
+
+## 🗂️ Flashcard
+Penetration::Sự thâm nhập (thị trường) *(Phát âm: /ˌpenəˈtreɪʃn/)* ![[penetration.mp3]]<br><br>👪 **Word Family:** penetrate (v), penetrating (adj), penetrative (adj)<br><br>💬 **Ví dụ:** Our new brand has low penetration in the suburban areas because of weak delivery networks.<br>*(-> Thương hiệu mới của chúng tôi có mức độ thâm nhập thấp ở các khu vực ngoại ô vì mạng lưới giao hàng yếu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The extent to which a product is recognized or bought by customers in a particular market

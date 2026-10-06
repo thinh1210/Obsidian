@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Premises
 *noun*
 > /ˈprɛmɪsɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Premises::Cơ ngơi, khuôn viên *(Phát âm: /ˈprɛmɪsɪz/)* ![[premises.mp3]]<br><br>👪 **Word Family:** **Synonyms:** property, site<br><br>💬 **Ví dụ:** No smoking on the premises.<br>*(-> Cấm hút thuốc trong khuôn viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A house or building, together with its land and outbuildings, occupied by a business or considered in an official context.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** property, site
-**Antonyms:** 
+**Antonyms:**

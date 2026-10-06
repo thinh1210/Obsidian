@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Leader
 *n.*
 > /ˈliː.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Leader::Nhà lãnh đạo, người dẫn đường chỉ lối cho một tập thể hay đất nước *(Phát âm: /ˈliː.dər/)* ![[leader.mp3]]<br><br>👪 **Word Family:** leadership (n), lead (v)<br><br>💬 **Ví dụ:** A true leader inspires others to achieve their full potential rather than merely issuing commands.<br>*(-> Một nhà lãnh đạo thực thụ sẽ truyền cảm hứng cho người khác phát huy tiềm năng thay vì chỉ ra lệnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who guides, directs, or commands a group, organization, or country.

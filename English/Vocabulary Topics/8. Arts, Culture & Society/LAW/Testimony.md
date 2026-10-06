@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Testimony
 *noun*
 > /ˈtes.tɪ.mən.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Testimony::Lời khai, lời chứng thực *(Phát âm: /ˈtes.tɪ.mən.i/)* ![[testimony.mp3]]<br><br>👪 **Word Family:** Testify (v), Testimony (n), Testimonial (n)<br><br>💬 **Ví dụ:** The court listened to the emotional testimony of the victim's mother.<br>*(-> Tòa án đã lắng nghe lời khai xúc động của mẹ nạn nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal written or spoken statement, especially one given in a court of law.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Cake
 *n.*
 > /keɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Cake::Bánh ngọt, bánh kem *(Phát âm: /keɪk/)* ![[cake.mp3]]<br><br>👪 **Word Family:** caked (adj), cakewalk (n)<br><br>💬 **Ví dụ:** She blew out the twenty-five candles on her birthday cake.<br>*(-> Cô ấy thổi tắt 25 ngọn nến trên chiếc bánh sinh nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sweet food made with a mixture of flour, eggs, fat, and sugar, baked in an oven.

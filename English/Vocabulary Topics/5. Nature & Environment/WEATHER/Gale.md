@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Gale
 *noun*
 > /ɡeɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Gale::Gió bão, gió cực mạnh (cấp 7-10) *(Phát âm: /ɡeɪl/)* ![[gale.mp3]]<br><br>👪 **Word Family:** Gale-force (adj)<br><br>💬 **Ví dụ:** The roof was damaged by gale-force winds.<br>*(-> Mái nhà đã bị hư hại bởi những cơn gió mạnh cấp bão.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very strong wind

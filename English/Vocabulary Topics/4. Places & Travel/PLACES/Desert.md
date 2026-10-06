@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Desert
 *n.*
 > /ˈdez.ɚt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Desert::Sa mạc *(Phát âm: /ˈdez.ɚt/)* ![[desert.mp3]]<br><br>👪 **Word Family:** deserted (adj)<br><br>💬 **Ví dụ:** Camels can survive in the desert.<br>*(-> Lạc đà có thể sống sót trong sa mạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A barren area of landscape where little precipitation occurs.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Vernacular
 *noun*
 > /vəˈnæk.jə.lər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
+
+## 🗂️ Flashcard
+Vernacular::tiếng bản xứ, ngôn ngữ địa phương (thường nhật) *(Phát âm: /vəˈnæk.jə.lər/)* ![[vernacular.mp3]]<br><br>👪 **Word Family:** vernacular (adj)<br><br>💬 **Ví dụ:** He wrote his poems in the vernacular rather than in classical Latin.<br>*(-> Anh ấy viết thơ bằng tiếng bản xứ bình dân thay vì bằng tiếng La-tin cổ điển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the language or dialect spoken by the ordinary people in a particular country or region

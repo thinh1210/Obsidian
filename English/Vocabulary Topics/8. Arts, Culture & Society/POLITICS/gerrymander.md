@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # gerrymander
 *verb*
 > /ˈdʒerimændər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+gerrymander::Phân chia lại khu vực bầu cử một cách gian lận *(Phát âm: /ˈdʒerimændər/)* ![[gerrymander.mp3]]<br><br>👪 **Word Family:** gerrymandering (n)<br><br>💬 **Ví dụ:** The ruling party was accused of trying to gerrymander the state to stay in power.<br>*(-> Đảng cầm quyền bị cáo buộc cố gắng phân chia lại khu vực bầu cử của bang một cách gian lận để giữ quyền lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To manipulate the boundaries of an electoral constituency so as to favor one party or class.

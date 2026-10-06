@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Sovereignty
 *noun*
 > /ˈsɒv.rɪn.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
+
+## 🗂️ Flashcard
+Sovereignty::Chủ quyền tối cao *(Phát âm: /ˈsɒv.rɪn.ti/)* ![[sovereignty.mp3]]<br><br>👪 **Word Family:** sovereign (n/adj)<br><br>💬 **Ví dụ:** The country fought hard to defend its national sovereignty.<br>*(-> Đất nước đã chiến đấu kiên cường để bảo vệ chủ quyền quốc gia của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Supreme power or authority; the authority of a state to govern itself or another state.

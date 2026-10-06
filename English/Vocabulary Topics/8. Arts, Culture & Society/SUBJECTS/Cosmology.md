@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Cosmology
 *noun*
 > /kɒzˈmɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Cosmology::Vũ trụ học *(Phát âm: /kɒzˈmɒlədʒi/)* ![[cosmology.mp3]]<br><br>👪 **Word Family:** cosmologist, cosmological<br><br>💬 **Ví dụ:** Cosmology deals with the big bang theory and the end of the universe.<br>*(-> Vũ trụ học giải quyết thuyết bang nổ lớn và sự kết thúc của vũ trụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science of the origin and development of the universe.

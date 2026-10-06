@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Diadem
 *noun*
 > /ˈdaɪədem/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Diadem::Vương miện (nhỏ) *(Phát âm: /ˈdaɪədem/)* ![[diadem.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The princess was crowned with a glittering diadem.<br>*(-> Công chúa được trao vương miện lấp lánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A jewelled crown or headband worn as a symbol of sovereignty.

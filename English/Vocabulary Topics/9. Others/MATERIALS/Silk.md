@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Silk
 *noun.*
 > /sɪlk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Silk::Lụa, tơ tằm *(Phát âm: /sɪlk/)* ![[silk.mp3]]<br><br>👪 **Word Family:** silky (Adjective), silkworm (Noun)<br><br>💬 **Ví dụ:** She wore a beautiful silk scarf around her shoulders.<br>*(-> Cô ấy quàng một chiếc khăn lụa đẹp trên vai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fine, strong, soft lustrous fiber produced by silkworms in making cocoons and collected to make thread and fabric.

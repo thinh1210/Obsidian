@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Foreign
 *Adjective*
 > /ˈfɔːrən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Foreign::Nước ngoài *(Phát âm: /ˈfɔːrən/)* ![[foreign.mp3]]<br><br>👪 **Word Family:** Foreigner<br><br>💬 **Ví dụ:** She speaks two foreign languages.<br>*(-> Cô ấy nói được hai ngoại ngữ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of, from, in, or characteristic of a country or language other than one's own.

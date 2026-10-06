@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Bus
 *noun*
 > /bʌs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Bus::Xe buýt *(Phát âm: /bʌs/)* ![[bus.mp3]]<br><br>👪 **Word Family:** Noun: bus (xe buýt), Verb: bus (chở đi bằng xe buýt)<br><br>💬 **Ví dụ:** I usually catch a bus to go to the supermarket.<br>*(-> Tôi thường đón xe buýt để đi đến siêu thị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large motor vehicle carrying passengers by road, especially one serving the public on a fixed route.

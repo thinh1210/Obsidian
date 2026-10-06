@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Conquer
 *verb*
 > /ˈkɑːŋ.kər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Conquer::Chinh phục, xâm chiếm, ngự trị *(Phát âm: /ˈkɑːŋ.kər/)* ![[conquer.mp3]]<br><br>👪 **Word Family:** conqueror (noun), conquest (noun), conquerable (adj)<br><br>💬 **Ví dụ:** She managed to conquer her fear of heights by going skydiving.<br>*(-> Cô ấy đã cố gắng chinh phục nỗi sợ độ cao của mình bằng cách đi nhảy dù.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Overcome and take control of a place or people by military force.

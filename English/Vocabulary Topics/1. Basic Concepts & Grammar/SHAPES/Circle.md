@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Circle
 *n.*
 > /ˈsɜː.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Circle::Hình tròn *(Phát âm: /ˈsɜː.kəl/)* ![[circle.mp3]]<br><br>👪 **Word Family:** Circular (adj)<br><br>💬 **Ví dụ:** Draw a circle on the paper.<br>*(-> Vẽ một hình tròn trên giấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A round, two-dimensional shape with no corners or edges.

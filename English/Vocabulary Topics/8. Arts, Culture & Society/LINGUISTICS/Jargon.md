@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Jargon
 *noun*
 > /ˈdʒɑː.ɡən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Jargon::biệt ngữ, thuật ngữ chuyên ngành (thường gây khó hiểu) *(Phát âm: /ˈdʒɑː.ɡən/)* ![[jargon.mp3]]<br><br>👪 **Word Family:** jargonistic (adj)<br><br>💬 **Ví dụ:** Try to write the report in plain English, avoiding unnecessary jargon.<br>*(-> Hãy cố gắng viết báo cáo bằng tiếng Anh giản dị, tránh biệt ngữ không cần thiết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** special words or expressions that are used by a particular profession or group and are difficult for others to understand

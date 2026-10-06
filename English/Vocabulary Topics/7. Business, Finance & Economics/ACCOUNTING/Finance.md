@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Finance
 *n./v.*
 > /ˈfaɪnæns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
+
+## 🗂️ Flashcard
+Finance::Tài chính, tài trợ vốn *(Phát âm: /ˈfaɪnæns/)* ![[finance.mp3]]<br><br>👪 **Word Family:** financial, financier, financially<br><br>💬 **Ví dụ:** She is studying finance at the local university.<br>*(-> Cô ấy đang học ngành tài chính tại trường đại học địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of managing money, especially in a company or organization

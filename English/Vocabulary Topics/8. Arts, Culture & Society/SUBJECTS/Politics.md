@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Politics
 *noun*
 > /ˈpɒlətɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Politics::Chính trị học, chính trị *(Phát âm: /ˈpɒlətɪks/)* ![[politics.mp3]]<br><br>👪 **Word Family:** politician, political, politicize<br><br>💬 **Ví dụ:** He decided to study politics at university to enter public service.<br>*(-> Anh ấy quyết định học chính trị học tại trường đại học để tham gia dịch vụ công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activities associated with the governance of a country or other area, especially the debate or conflict among individuals or parties having or hoping to achieve power.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Audience
 *noun*
 > /ˈɔːdiəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Audience::Khán giả, thính giả (mục tiêu) *(Phát âm: /ˈɔːdiəns/)* ![[audience.mp3]]<br><br>👪 **Word Family:** auditory (adj), audition (noun/verb)<br><br>💬 **Ví dụ:** The theater performance drew a huge audience.<br>*(-> Buổi biểu diễn tại rạp đã thu hút một lượng khán giả khổng lồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The assembled spectators or listeners at a public event, or the readership of a book, paper, or website.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Upset
 *adj*
 > /ʌpˈset/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Upset::Buồn bã, khó chịu *(Phát âm: /ʌpˈset/)* ![[upset.mp3]]<br><br>👪 **Word Family:** upsetting (adj)<br><br>💬 **Ví dụ:** Don't get upset over little things.<br>*(-> Đừng bực mình vì những chuyện nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unhappy, disappointed, or worried.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Bottleneck
 *noun*
 > /ˈbɑːtlnek/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Bottleneck::Nút thắt cổ chai, điểm tắc nghẽn *(Phát âm: /ˈbɑːtlnek/)* ![[bottleneck.mp3]]<br><br>👪 **Word Family:** Noun: bottleneck (nút thắt cổ chai), Verb: bottleneck (làm tắc nghẽn)<br><br>💬 **Ví dụ:** The narrow bridge is a major bottleneck for traffic entering the city.<br>*(-> Chiếc cầu hẹp là một nút thắt cổ chai lớn cho giao thông đi vào thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point of congestion or obstruction, especially in a road or a system.

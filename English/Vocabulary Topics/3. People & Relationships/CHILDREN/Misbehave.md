@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Misbehave
 *verb*
 > /ˌmɪs.bɪˈheɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Misbehave::Cư xử không đúng mực *(Phát âm: /ˌmɪs.bɪˈheɪv/)* ![[misbehave.mp3]]<br><br>👪 **Word Family:** Misbehavior (n)<br><br>💬 **Ví dụ:** Don't misbehave at the party.<br>*(-> Đừng cư xử không đúng mực ở bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Fail to conduct oneself in a way that is acceptable to others.

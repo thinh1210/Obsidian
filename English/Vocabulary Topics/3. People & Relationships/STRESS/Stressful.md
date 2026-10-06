@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Stressful
 *adj.*
 > /ˈstresfl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Stressful::Đầy căng thẳng *(Phát âm: /ˈstresfl/)* ![[stressful.mp3]]<br><br>👪 **Word Family:** stress (n), stressed (adj)<br><br>💬 **Ví dụ:** Moving to a new house is very stressful.<br>*(-> Việc chuyển nhà rất căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing mental or emotional stress

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Dividend
 *noun.*
 > /ˈdɪvɪdend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
+
+## 🗂️ Flashcard
+Dividend::Cổ tức *(Phát âm: /ˈdɪvɪdend/)* ![[dividend.mp3]]<br><br>👪 **Word Family:** divide (verb), division (noun)<br><br>💬 **Ví dụ:** The stock pays an attractive quarterly dividend to its investors.<br>*(-> Cổ phiếu này trả một khoản cổ tức hàng quý hấp dẫn cho các nhà đầu tư của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sum of money paid regularly by a company to its shareholders out of its profits.

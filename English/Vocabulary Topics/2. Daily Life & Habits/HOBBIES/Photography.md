@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Photography
 *noun*
 > /fəˈtɒɡ.rə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Photography::Nhiếp ảnh *(Phát âm: /fəˈtɒɡ.rə.fi/)* ![[photography.mp3]]<br><br>👪 **Word Family:** Photograph (n), Photographer (n)<br><br>💬 **Ví dụ:** I recently took up photography as a hobby.<br>*(-> Gần đây tôi bắt đầu nhiếp ảnh như một sở thích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity or job of taking photographs or filming.

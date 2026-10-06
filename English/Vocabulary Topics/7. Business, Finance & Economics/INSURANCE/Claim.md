@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Claim
 *n.*
 > /kleɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Claim::Yêu cầu bồi thường *(Phát âm: /kleɪm/)* ![[claim.mp3]]<br><br>👪 **Word Family:** claim (v), claimant, unclaimed<br><br>💬 **Ví dụ:** She filed a claim for the water damage.<br>*(-> Cô ấy đã nộp đơn yêu cầu bồi thường cho thiệt hại do nước gây ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A formal request to an insurance company asking for a payment based on the terms of the insurance policy.

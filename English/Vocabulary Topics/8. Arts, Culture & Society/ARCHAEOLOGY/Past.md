@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Past
 *noun*
 > /pɑːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Past::Quá khứ *(Phát âm: /pɑːst/)* ![[past.mp3]]<br><br>👪 **Word Family:** past (adj/adv)<br><br>💬 **Ví dụ:** We cannot change what happened in the past.<br>*(-> Chúng ta không thể thay đổi những gì đã xảy ra trong quá khứ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time that has gone by before the present time

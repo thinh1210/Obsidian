@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Pervasive
 *adj.*
 > /pəˈveɪ.sɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+41 - Pervasive::Lan tỏa, thâm nhập khắp nơi *(Phát âm: /pəˈveɪ.sɪv/)* ![[pervasive.mp3]]<br><br>👪 **Word Family:** Pervade (v.)<br><br>💬 **Ví dụ:** Pervasive media.<br>*(-> Truyền thông lan tỏa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Spreading widely throughout an area or a group.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Protect
 *v.*
 > /prəˈtekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Protect::Bảo vệ *(Phát âm: /prəˈtekt/)* ![[protect.mp3]]<br><br>👪 **Word Family:** protection, protective, protector<br><br>💬 **Ví dụ:** Insurance helps protect your family if something bad happens.<br>*(-> Bảo hiểm giúp bảo vệ gia đình bạn nếu có điều gì tồi tệ xảy ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To keep someone or something safe from injury, damage, or loss.

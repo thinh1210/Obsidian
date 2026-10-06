@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Quote
 *n.*
 > /kwəʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Quote::Bản báo giá phí bảo hiểm *(Phát âm: /kwəʊt/)* ![[quote.mp3]]<br><br>👪 **Word Family:** quote (v), quotation<br><br>💬 **Ví dụ:** You should get a quote from several insurance companies online.<br>*(-> Bạn nên lấy báo giá từ vài công ty bảo hiểm trực tuyến khác nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An estimate of the premium for a proposed insurance policy.

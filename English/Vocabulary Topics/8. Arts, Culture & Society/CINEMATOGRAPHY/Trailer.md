@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Trailer
 *n.*
 > /ˈtreɪlə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Trailer::Đoạn giới thiệu phim, trailer *(Phát âm: /ˈtreɪlə(r)/)* ![[trailer.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The teaser trailer generated a lot of hype online.<br>*(-> Đoạn trailer nhá hàng đã tạo ra rất nhiều sự cường điệu trên mạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of extracts from a movie or television program, used to advertise it in advance

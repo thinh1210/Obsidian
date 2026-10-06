@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Historiography
 *noun*
 > /hɪˌstɔːriˈɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Historiography::Sử học luận *(Phát âm: /hɪˌstɔːriˈɒɡrəfi/)* ![[historiography.mp3]]<br><br>👪 **Word Family:** historiographer, historiographical<br><br>💬 **Ví dụ:** Historiography examines how different generations write about history.<br>*(-> Sử học luận nghiên cứu cách các thế hệ khác nhau viết về lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of historical writing, or the writing of history.

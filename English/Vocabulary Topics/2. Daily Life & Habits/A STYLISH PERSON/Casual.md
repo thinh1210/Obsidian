@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Casual
 *adj.*
 > /ˈkæʒuəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
+
+## 🗂️ Flashcard
+Casual::Bình thường, thoải mái *(Phát âm: /ˈkæʒuəl/)* ![[casual.mp3]]<br><br>👪 **Word Family:** Casually (adv), Casualness (n)<br><br>💬 **Ví dụ:** I prefer casual clothes on weekends.<br>*(-> Tôi thích quần áo bình thường vào cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not formal; relaxed.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Discover
 *verb*
 > /dɪˈskʌvə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Discover::Khám phá, phát hiện *(Phát âm: /dɪˈskʌvə(r)/)* ![[discover.mp3]]<br><br>👪 **Word Family:** discovery (noun), discoverer (noun)<br><br>💬 **Ví dụ:** Columbus did not actually discover America first.<br>*(-> Columbus thực sự không phải là người đầu tiên phát hiện ra châu Mỹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To find information, a place, or an object, especially for the first time

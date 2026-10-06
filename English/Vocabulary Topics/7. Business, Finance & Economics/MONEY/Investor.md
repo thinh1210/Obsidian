@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Investor
 *n.*
 > /ɪnˈves.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Investor::Cá nhân hoặc tổ chức bỏ vốn đầu tư với kỳ vọng thu về lợi nhuận *(Phát âm: /ɪnˈves.tər/)* ![[investor.mp3]]<br><br>👪 **Word Family:** invest (v), investment (n)<br><br>💬 **Ví dụ:** The tech startup pitched their new health app to private angel investors in Silicon Valley.<br>*(-> Công ty công nghệ khởi nghiệp đã thuyết trình ứng dụng sức khỏe mới trước các nhà đầu tư thiên thần ở Thung lũng Silicon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or organization that puts money into financial schemes, shares, or property with the expectation of achieving a profit.

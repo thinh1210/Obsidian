@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Cost
 *verb/noun*
 > /kɒst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Cost::Trị giá, chi phí *(Phát âm: /kɒst/)* ![[cost.mp3]]<br><br>👪 **Word Family:** costly (adj)<br><br>💬 **Ví dụ:** How much does this book cost?<br>*(-> Cuốn sách này giá bao nhiêu tiền?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To require the payment of a specified sum of money (v); the amount of money needed to buy something (n)

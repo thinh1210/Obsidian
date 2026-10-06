@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Livestock
 *n.*
 > /laɪv.stɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Livestock::Gia súc, vật nuôi *(Phát âm: /laɪv.stɒk/)* ![[livestock.mp3]]<br><br>👪 **Word Family:** stock (n)<br><br>💬 **Ví dụ:** The farmer sold some livestock to pay for a new tractor.<br>*(-> Người nông dân đã bán một số gia súc để chi trả cho chiếc máy kéo mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Farm animals (such as cows, pigs, or sheep) kept for use or profit.

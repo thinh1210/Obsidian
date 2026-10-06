@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Pharmacy
 *n.*
 > /ˈfɑː.mə.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Pharmacy::Hiệu thuốc, nhà thuốc nơi bán và cấp phát thuốc theo đơn *(Phát âm: /ˈfɑː.mə.si/)* ![[pharmacy.mp3]]<br><br>👪 **Word Family:** pharmacist (n), pharmaceutical (adj), pharmacology (n)<br><br>💬 **Ví dụ:** Can you stop by the pharmacy and get some cough drops on your way home?<br>*(-> Bạn có thể ghé qua hiệu thuốc mua kẹo ngậm ho trên đường về nhà không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shop or hospital dispensary where medicinal drugs are prepared and sold.

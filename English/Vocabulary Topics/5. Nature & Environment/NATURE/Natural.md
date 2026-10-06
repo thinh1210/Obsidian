@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Natural
 *Adjective*
 > /ˈnætʃrəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Natural::Thuộc tự nhiên *(Phát âm: /ˈnætʃrəl/)* ![[natural.mp3]]<br><br>👪 **Word Family:** nature, naturally<br><br>💬 **Ví dụ:** She prefers natural cosmetics over synthetic ones.<br>*(-> Cô ấy ưa chuộng mỹ phẩm tự nhiên hơn mỹ phẩm tổng hợp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing in or caused by nature; not made or caused by humankind.

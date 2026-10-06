@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Dimensional
 *adj.*
 > /dɪˈmen.ʃən.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Dimensional::Có (số) chiều, thuộc về kích thước *(Phát âm: /dɪˈmen.ʃən.əl/)* ![[dimensional.mp3]]<br><br>👪 **Word Family:** Dimension (n)<br><br>💬 **Ví dụ:** We watched a three-dimensional movie.<br>*(-> Chúng tôi đã xem một bộ phim 3D.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to measurements or dimensions.

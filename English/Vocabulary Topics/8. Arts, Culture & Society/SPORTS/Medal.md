@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Medal
 *n.*
 > /ˈmed.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Medal::Tấm huy chương kim loại trao tặng cho người chiến thắng trong thể thao *(Phát âm: /ˈmed.əl/)* ![[medal.mp3]]<br><br>👪 **Word Family:** medalist (n), medallion (n)<br><br>💬 **Ví dụ:** The young swimmer proudly displayed her first gold medal on the living room shelf.<br>*(-> Nữ kình ngư trẻ tự hào trưng bày chiếc huy chương vàng đầu tiên trên kệ phòng khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A metal disc awarded as a distinction for bravery, achievement, or winning a sporting competition.

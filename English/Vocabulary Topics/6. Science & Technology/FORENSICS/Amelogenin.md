@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Amelogenin
 *noun*
 > /ˌæm.ɪˈlɒdʒ.ɪ.nɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Amelogenin::Amelogenin – protein men răng; gene amelogenin trên nhiễm sắc thể X và Y được dùng trong pháp y để xác định giới tính sinh học *(Phát âm: /ˌæm.ɪˈlɒdʒ.ɪ.nɪn/)* ![[amelogenin.mp3]]<br><br>👪 **Word Family:** amelogenesis (n), ameloblast (n)<br><br>💬 **Ví dụ:** Researchers study amelogenin to understand how tooth enamel forms during development.<br>*(-> Các nhà nghiên cứu học về amelogenin để hiểu cách men răng hình thành trong quá trình phát triển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A protein found in tooth enamel; the amelogenin gene on the X and Y chromosomes is used in forensic DNA testing to determine biological sex.

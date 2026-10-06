@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Investment
 *n.*
 > /in'vestment/ -> /ɪnˈvestmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
+
+## 🗂️ Flashcard
+Investment::Sự đầu tư, khoản đầu tư *(Phát âm: /in'vestment/ -> /ɪnˈvestmənt/)* ![[investment.mp3]]<br><br>👪 **Word Family:** invest, investor<br><br>💬 **Ví dụ:** Buying stocks is a risky investment.<br>*(-> Mua cổ phiếu là một khoản đầu tư mạo hiểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of putting money or effort into something to make a profit or achieve a result

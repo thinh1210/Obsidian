@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # King
 *n.*
 > /kɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+King::Vua, quốc vương *(Phát âm: /kɪŋ/)* ![[king.mp3]]<br><br>👪 **Word Family:** kingship, kingly<br><br>💬 **Ví dụ:** The king ruled his country for forty years.<br>*(-> Vua đã cai trị đất nước của mình trong bốn mươi năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A male ruler of a country, who holds this position by right of birth

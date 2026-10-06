@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Inlaid
 *adjective*
 > /ˌɪnˈleɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Inlaid::Được khảm *(Phát âm: /ˌɪnˈleɪd/)* ![[inlaid.mp3]]<br><br>👪 **Word Family:** Inlay<br><br>💬 **Ví dụ:** The box is inlaid.<br>*(-> Hộp được khảm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ornamented with a material set into a surface.

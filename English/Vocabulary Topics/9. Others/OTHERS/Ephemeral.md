@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Ephemeral
 
 *Adjective*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - transient, fleeting, short-lived
+
+
+## 🗂️ Flashcard
+Ephemeral::Phù du, chóng tàn, ngắn ngủi *(Phát âm: /ɪˈfem.ər.əl/)* ![[ephemeral.mp3]]<br><br>👪 **Word Family:** [Noun]: ephemera, [Adj]: ephemeral, [Adv]: ephemerally<br><br>💬 **Ví dụ:** Fame in the internet age is often ephemeral.<br>*(-> Sự nổi tiếng trong thời đại internet thường rất chóng tàn.)*

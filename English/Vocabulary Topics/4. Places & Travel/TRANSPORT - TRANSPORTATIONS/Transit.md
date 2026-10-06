@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Transit
 *noun*
 > /ˈtrænzɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Transit::Sự vận chuyển, quá cảnh *(Phát âm: /ˈtrænzɪt/)* ![[transit.mp3]]<br><br>👪 **Word Family:** Noun: transit (sự vận chuyển, quá cảnh), transition (sự chuyển đổi), Verb: transit (vận chuyển qua, đi qua)<br><br>💬 **Ví dụ:** The goods were damaged while in transit.<br>*(-> Hàng hóa đã bị hư hại khi đang trên đường vận chuyển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The carrying of people or goods from one place to another.

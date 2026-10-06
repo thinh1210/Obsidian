@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Phonology
 *n.*
 > /fəˈnɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
+
+## 🗂️ Flashcard
+Phonology::Âm vị học, hệ thống âm thanh *(Phát âm: /fəˈnɒlədʒi/)* ![[phonology.mp3]]<br><br>👪 **Word Family:** phonological, phonologically, phonologist<br><br>💬 **Ví dụ:** I found the phonology of Russian very difficult.<br>*(-> Tôi thấy hệ thống âm thanh của tiếng Nga rất khó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of relationships among the speech sounds that constitute the fundamental components of a language

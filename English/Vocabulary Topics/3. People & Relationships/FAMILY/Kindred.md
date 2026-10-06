@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Kindred
 *noun*
 > /ˈkɪn.drəd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Kindred::Bà con, cùng họ *(Phát âm: /ˈkɪn.drəd/)* ![[kindred.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We are kindred spirits.<br>*(-> Chúng ta là những tâm hồn đồng điệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Family and relations, or similar in kind.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Promotion
 *n.*
 > /prəˈməʊ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Promotion::Chương trình khuyến mãi, ưu đãi nhằm kích cầu mua sắm *(Phát âm: /prəˈməʊ.ʃən/)* ![[promotion.mp3]]<br><br>👪 **Word Family:** promote (v), promotional (adj), promoter (n)<br><br>💬 **Ví dụ:** The bookstore is running a buy-one-get-one-free promotion this weekend.<br>*(-> Hiệu sách đang chạy chương trình khuyến mãi mua một tặng một vào cuối tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Activities to advertise something; a special offer intended to increase sales.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Microprocessor
 *n.*
 > /ˌmaɪkroʊˈprɑːsesər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Microprocessor::Bộ vi xử lý *(Phát âm: /ˌmaɪkroʊˈprɑːsesər/)* ![[microprocessor.mp3]]<br><br>👪 **Word Family:** Processor (n.), Process (v.)<br><br>💬 **Ví dụ:** My new laptop has a very fast microprocessor.<br>*(-> Máy tính xách tay mới của tôi có một bộ vi xử lý rất nhanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An integrated circuit that contains all the functions of a central processing unit of a computer.

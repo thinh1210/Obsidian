@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Translate
 *verb*
 > /trænzˈleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Dịch thuật văn học & Bản quyền tác phẩm
+
+## 🗂️ Flashcard
+Translate::Dịch, biên dịch *(Phát âm: /trænzˈleɪt/)* ![[translate.mp3]]<br><br>👪 **Word Family:** translation (n), translator (n), translatable (adj)<br><br>💬 **Ví dụ:** Could you help me translate this short poem into Spanish?<br>*(-> Bạn có thể giúp tôi dịch bài thơ ngắn này sang tiếng Tây Ban Nha không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Express the sense of words or text in another language.

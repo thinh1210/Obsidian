@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Petrified
 *adj*
 > /ˈpetrɪfaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Petrified::Sợ điếng người *(Phát âm: /ˈpetrɪfaɪd/)* ![[petrified.mp3]]<br><br>👪 **Word Family:** petrify (v)<br><br>💬 **Ví dụ:** I was petrified of spiders.<br>*(-> Tôi sợ nhện điếng người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** So frightened that one is unable to move.

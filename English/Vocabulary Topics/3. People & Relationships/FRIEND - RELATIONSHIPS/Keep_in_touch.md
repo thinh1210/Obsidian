@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Keep in touch
 *idiom*
 > /kiːp ɪn tʌtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Keep_in_touch::Giữ liên lạc *(Phát âm: /kiːp ɪn tʌtʃ/)* ![[keep_in_touch.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Let's keep in touch after graduation.<br>*(-> Hãy giữ liên lạc sau khi tốt nghiệp nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To maintain contact with another person, especially at intervals so as to remain up to date with each other's lives.

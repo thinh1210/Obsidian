@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Snow
 *noun*
 > /snəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Snow::Tuyết *(Phát âm: /snəʊ/)* ![[snow.mp3]]<br><br>👪 **Word Family:** Snow (verb), snowy (adj)<br><br>💬 **Ví dụ:** Look at the snow falling outside!<br>*(-> Nhìn tuyết đang rơi bên ngoài kìa!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Soft white pieces of frozen water that fall from the sky

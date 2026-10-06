@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Bird
 *noun*
 > /bɜːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Bird::Loài chim *(Phát âm: /bɜːd/)* ![[bird.mp3]]<br><br>👪 **Word Family:** bird (n), birdlike (adj)<br><br>💬 **Ví dụ:** I love listening to the bird singing in the garden every morning.<br>*(-> Tôi thích nghe tiếng chim hót trong vườn mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A creature with feathers and wings, usually able to fly.

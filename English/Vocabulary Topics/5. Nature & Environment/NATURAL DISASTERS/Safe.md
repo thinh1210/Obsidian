@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Safe
 *adjective*
 > /seɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Safe::An toàn *(Phát âm: /seɪf/)* ![[safe.mp3]]<br><br>👪 **Word Family:** safety (n), safely (adv), save (v)<br><br>💬 **Ví dụ:** We need to find a safe place to stay during the storm.<br>*(-> Chúng tôi cần tìm một nơi an toàn để ở trong cơn bão.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not in danger or likely to be harmed or lost.

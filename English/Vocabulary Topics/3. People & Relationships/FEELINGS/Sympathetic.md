@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Sympathetic
 *adj*
 > /ˌsɪmpəˈθetɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Sympathetic::Cảm thông *(Phát âm: /ˌsɪmpəˈθetɪk/)* ![[sympathetic.mp3]]<br><br>👪 **Word Family:** sympathy (n), sympathize (v)<br><br>💬 **Ví dụ:** He was sympathetic to my problems.<br>*(-> Anh ấy thông cảm với các vấn đề của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling, showing, or expressing sympathy.

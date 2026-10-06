@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Computer
 *noun.*
 > /kəmˈpjuː.t̬ɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Computer::Máy tính *(Phát âm: /kəmˈpjuː.t̬ɚ/)* ![[computer.mp3]]<br><br>👪 **Word Family:** compute (verb), computation (noun)<br><br>💬 **Ví dụ:** I use my computer to study English every day.<br>*(-> Tôi dùng máy tính để học tiếng Anh mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electronic machine that can store and process large amounts of information

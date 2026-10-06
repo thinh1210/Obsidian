@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Liquid
 *noun*
 > /ˈlɪk.wɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Liquid::Chất lỏng *(Phát âm: /ˈlɪk.wɪd/)* ![[liquid.mp3]]<br><br>👪 **Word Family:** liquefy (v), liquidity (n)<br><br>💬 **Ví dụ:** Mercury is the only metal that is liquid at room temperature.<br>*(-> Thủy ngân là kim loại duy nhất ở dạng lỏng ở nhiệt độ phòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that flows freely but is of constant volume, having a consistency like that of water or oil.

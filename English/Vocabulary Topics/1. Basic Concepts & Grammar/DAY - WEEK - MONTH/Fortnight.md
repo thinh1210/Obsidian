@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Fortnight
 *noun*
 > /ˈfɔːtnaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Fortnight::Nửa tháng (hai tuần) *(Phát âm: /ˈfɔːtnaɪt/)* ![[fortnight.mp3]]<br><br>👪 **Word Family:** fortnightly (adj)<br><br>💬 **Ví dụ:** I will see you in a fortnight.<br>*(-> Tôi sẽ gặp bạn trong hai tuần nữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of two weeks.

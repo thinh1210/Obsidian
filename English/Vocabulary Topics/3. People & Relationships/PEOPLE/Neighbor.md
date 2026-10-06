@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Neighbor
 *n.*
 > /ˈneɪ.bər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Neighbor::Hàng xóm *(Phát âm: /ˈneɪ.bər/)* ![[neighbor.mp3]]<br><br>👪 **Word Family:** Neighborhood<br><br>💬 **Ví dụ:** My neighbor is friendly.<br>*(-> Hàng xóm của tôi rất thân thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person living next door or very near.

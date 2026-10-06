@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Necropolis
 *noun*
 > /nəˈkrɒpəlɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Necropolis::Nghĩa địa cổ, thành phố của người chết *(Phát âm: /nəˈkrɒpəlɪs/)* ![[necropolis.mp3]]<br><br>👪 **Word Family:** necropolitan (adj)<br><br>💬 **Ví dụ:** The Giza Necropolis contains the Great Pyramid.<br>*(-> Nghĩa địa Giza chứa Đại Kim Tự Tháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cemetery, especially a large one belonging to an ancient city

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # History
 *n.*
 > /ˈhɪstri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
+
+## 🗂️ Flashcard
+History::Lịch sử *(Phát âm: /ˈhɪstri/)* ![[history.mp3]]<br><br>👪 **Word Family:** historian, historic, historical<br><br>💬 **Ví dụ:** We should learn from history to avoid repeating mistakes.<br>*(-> Chúng ta nên học hỏi từ lịch sử để tránh lặp lại sai lầm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs

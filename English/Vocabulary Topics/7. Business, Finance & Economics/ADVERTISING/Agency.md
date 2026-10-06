@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Agency
 *noun*
 > /ˈeɪdʒənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Agency::Đại lý, công ty đại diện *(Phát âm: /ˈeɪdʒənsi/)* ![[agency.mp3]]<br><br>👪 **Word Family:** agent (noun)<br><br>💬 **Ví dụ:** She works for a small advertising agency in New York.<br>*(-> Cô ấy làm việc cho một công ty quảng cáo nhỏ ở New York.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A business or organization established to provide a particular service, especially one that involves organizing transactions between other parties.

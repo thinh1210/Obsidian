@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Tour
 *Noun*
 > /tʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Tour::Chuyến tham quan *(Phát âm: /tʊər/)* ![[tour.mp3]]<br><br>👪 **Word Family:** tourism (n), tourist (n)<br><br>💬 **Ví dụ:** We took a guided tour of the museum.<br>*(-> Chúng tôi đã tham gia một chuyến tham quan có hướng dẫn viên ở bảo tàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey or route all the way around a particular place or area.

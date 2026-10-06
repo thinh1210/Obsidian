@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Platonic
 *adj*
 > /pləˈtɑː.nɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Platonic::(Tình bạn/Tình yêu) trong sáng, phi giới tính *(Phát âm: /pləˈtɑː.nɪk/)* ![[platonic.mp3]]<br><br>👪 **Word Family:** platonically<br><br>💬 **Ví dụ:** Their relationship is strictly platonic.<br>*(-> Mối quan hệ của họ hoàn toàn trong sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of love or friendship) intimate and affectionate but not sexual.

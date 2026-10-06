@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Coalition
 *n*
 > /ˌkəʊ.əˈlɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+Coalition::Liên minh (chính trị) *(Phát âm: /ˌkəʊ.əˈlɪʃ.ən/)* ![[coalition.mp3]]<br><br>👪 **Word Family:** coalition-building (n), coalitional (adj)<br><br>💬 **Ví dụ:** After the election, two parties formed a coalition to gain a majority.<br>*(-> Sau bầu cử, hai đảng thành lập liên minh để đạt đa số.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A temporary alliance of different political parties or groups to form a government.

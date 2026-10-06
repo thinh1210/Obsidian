@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Sunbathe
 *v.*
 > /ˈsʌnbeɪð/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Sunbathe::Nằm phơi mình dưới ánh nắng ấm áp để làn da rám nắng khỏe khoắn *(Phát âm: /ˈsʌnbeɪð/)* ![[sunbathe.mp3]]<br><br>👪 **Word Family:** sunbather (n), sunbathing (n), sunburn (n/v)<br><br>💬 **Ví dụ:** Tourists relaxed on striped loungers to sunbathe under the tropical sky.<br>*(-> Du khách ngả mình trên những chiếc ghế dài sọc để tắm nắng dưới trời nhiệt đới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To sit or lie in the sun, especially with the intention of tanning.

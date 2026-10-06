@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Passport
 *noun*
 > /ˈpɑːs.pɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Passport::Hộ chiếu *(Phát âm: /ˈpɑːs.pɔːt/)* ![[passport.mp3]]<br><br>👪 **Word Family:** visa (n), travel document (n)<br><br>💬 **Ví dụ:** Don't forget to bring your passport when travelling internationally.<br>*(-> Đừng quên mang hộ chiếu khi đi du lịch quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official document issued by the government that identifies you and allows you to travel abroad.

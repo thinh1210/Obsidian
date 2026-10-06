@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Society
 *n.*
 > /səˈsaɪ.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Society::Xã hội *(Phát âm: /səˈsaɪ.ə.ti/)* ![[society.mp3]]<br><br>👪 **Word Family:** social, associate, socialization<br><br>💬 **Ví dụ:** Technology has changed our society completely.<br>*(-> Công nghệ đã thay đổi hoàn toàn xã hội của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The aggregate of people living together in a more or less ordered community.

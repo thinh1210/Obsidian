@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Exam
 *noun*
 > /ɪɡˈzæm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Exam::Kỳ thi *(Phát âm: /ɪɡˈzæm/)* ![[exam.mp3]]<br><br>👪 **Word Family:** examine (v), examiner (n), examinee (n), examination (n)<br><br>💬 **Ví dụ:** I have a difficult math exam tomorrow.<br>*(-> Tôi có một kỳ thi toán khó vào ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A formal test of a person's knowledge or proficiency in a subject.

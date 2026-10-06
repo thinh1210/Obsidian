@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Rain
 *Noun/Verb*
 > /reɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Rain::Mưa / Rơi như mưa *(Phát âm: /reɪn/)* ![[rain.mp3]]<br><br>👪 **Word Family:** rainy, raindrop, rainfall<br><br>💬 **Ví dụ:** Take an umbrella, it's going to rain.<br>*(-> Hãy mang theo ô, trời sắp mưa rồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Moisture condensed from the atmosphere that falls in separate drops.

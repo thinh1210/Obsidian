@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Endemic
 *adjective*
 > /enˈdem.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Endemic::Đặc hữu *(Phát âm: /enˈdem.ɪk/)* ![[endemic.mp3]]<br><br>👪 **Word Family:** endemic (adj/n), endemy (n)<br><br>💬 **Ví dụ:** The kiwi bird is endemic to New Zealand.<br>*(-> Loài chim kiwi là loài đặc hữu của New Zealand.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a plant or animal) native and restricted to a certain place.

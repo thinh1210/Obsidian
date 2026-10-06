@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Vigilante
 *noun*
 > /ˌvɪdʒɪˈlænti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
+
+## 🗂️ Flashcard
+Vigilante::Kẻ tự xử, người tự đứng ra hành hiệp trượng nghĩa (không có thẩm quyền pháp lý) *(Phát âm: /ˌvɪdʒɪˈlænti/)* ![[vigilante.mp3]]<br><br>👪 **Word Family:** vigilantism (n), vigilant (adj)<br><br>💬 **Ví dụ:** The police warned citizens not to behave like vigilantes.<br>*(-> Cảnh sát cảnh báo người dân không được hành xử như những kẻ tự ý hành hiệp trượng nghĩa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A member of a self-appointed group of citizens who undertake law enforcement in their community without legal authority

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Plumulaceous
 *adjective*
 > /ˌpluː.mjʊˈleɪ.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Plumulaceous::Có lông tơ, mịn như lông tơ *(Phát âm: /ˌpluː.mjʊˈleɪ.ʃəs/)* ![[plumulaceous.mp3]]<br><br>👪 **Word Family:** plumule (n), plumulaceous (adj)<br><br>💬 **Ví dụ:** The baby penguin was covered in soft, plumulaceous down.<br>*(-> Chim cánh cụt con được bao phủ bởi lớp lông tơ mịn màng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having downy feathers; downy.

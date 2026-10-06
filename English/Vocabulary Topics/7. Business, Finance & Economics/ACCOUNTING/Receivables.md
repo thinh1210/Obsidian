@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Receivables
 *n.*
 > /rɪˈsiːvəblz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Receivables::Các khoản phải thu *(Phát âm: /rɪˈsiːvəblz/)* ![[receivables.mp3]]<br><br>👪 **Word Family:** receive, receivable<br><br>💬 **Ví dụ:** He made a list of receivables from friends who borrowed money.<br>*(-> Anh ấy lập một danh sách các khoản phải thu từ những người bạn đã mượn tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Amounts owed to a business by its customers for goods or services delivered but not yet paid for

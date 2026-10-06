@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Supply
 *noun*
 > /səˈplaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Supply::nguồn cung, cung cấp *(Phát âm: /səˈplaɪ/)* ![[supply.mp3]]<br><br>👪 **Word Family:** supplier (noun)<br><br>💬 **Ví dụ:** The supermarket has a good supply of fresh fruit.<br>*(-> Siêu thị có nguồn cung hoa quả tươi dồi dào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the total amount of a product or service that is available for people to buy.

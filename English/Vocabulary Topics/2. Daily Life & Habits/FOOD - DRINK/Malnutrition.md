@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Malnutrition
 *Noun*
 > /ˌmæl.njuːˈtrɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Medical | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Malnutrition::Sự suy dinh dưỡng *(Phát âm: /ˌmæl.njuːˈtrɪʃ.ən/)* ![[malnutrition.mp3]]<br><br>👪 **Word Family:** Malnourished (Adj): Bị suy dinh dưỡng<br><br>💬 **Ví dụ:** Many of the refugees are suffering from severe malnutrition.<br>*(-> Nhiều người tị nạn đang bị suy dinh dưỡng nặng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical weakness and bad health caused by having too little food.

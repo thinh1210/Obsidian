@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Debt
 *n.*
 > /det/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Debt::Khoản nợ, công nợ *(Phát âm: /det/)* ![[debt.mp3]]<br><br>👪 **Word Family:** debtor, indebted<br><br>💬 **Ví dụ:** He worked day and night to pay off his student debts.<br>*(-> Anh ấy đã làm việc ngày đêm để trả hết nợ sinh viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something, especially money, that is owed to someone else

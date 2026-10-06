@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Heuristic
 *adjective.*
 > /hjuˈrɪs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
+
+## 🗂️ Flashcard
+Heuristic::Phỏng đoán, khám phá, tự tìm tòi (thuật toán heuristic) *(Phát âm: /hjuˈrɪs.tɪk/)* ![[heuristic.mp3]]<br><br>👪 **Word Family:** heuristically (adv), heuristics (noun)<br><br>💬 **Ví dụ:** The robot uses a heuristic algorithm to quickly find a path out of the maze.<br>*(-> Robot sử dụng thuật toán heuristic để nhanh chóng tìm đường ra khỏi mê cung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A method of solving problems by finding practical ways of doing things, rather than by following strict rules or formulas

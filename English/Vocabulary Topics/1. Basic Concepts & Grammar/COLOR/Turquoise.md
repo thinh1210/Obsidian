@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Turquoise
 *n, adj*
 > /ˈtɝː.kɔɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Turquoise::Màu ngọc lam *(Phát âm: /ˈtɝː.kɔɪz/)* ![[turquoise.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The sea in the Maldives is a beautiful turquoise.<br>*(-> Nước biển ở Maldives có màu ngọc lam tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bluish-green color.

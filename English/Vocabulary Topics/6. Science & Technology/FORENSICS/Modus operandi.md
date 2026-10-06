@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Modus operandi
 *noun*
 > /ˌmoʊ.dəs ˌɒp.əˈræn.di/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Modus operandi::Phương thức hành động / cách thức gây án đặc trưng của tội phạm *(Phát âm: /ˌmoʊ.dəs ˌɒp.əˈræn.di/)* ![[modus_operandi.mp3]]<br><br>👪 **Word Family:** MO (abbrev.)<br><br>💬 **Ví dụ:** The burglar had a clear modus operandi: always entering through the back window.<br>*(-> Tên trộm có phương thức hành động rõ ràng: luôn đột nhập qua cửa sổ sau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular way or method of doing something, especially a criminal's characteristic pattern.

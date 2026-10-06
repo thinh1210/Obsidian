@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Gourmet
 *Noun/Adj*
 > /ˈɡʊə.meɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Gourmet::Người sành ăn / Thuộc về ẩm thực cao cấp *(Phát âm: /ˈɡʊə.meɪ/)* ![[gourmet.mp3]]<br><br>👪 **Word Family:** gourmand (khác nghĩa: người ăn nhiều và thích ăn, ít tinh tế hơn gourmet)<br><br>💬 **Ví dụ:** They sell gourmet coffee.<br>*(-> Họ bán cà phê hảo hạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing or relating to very high quality food and drink.

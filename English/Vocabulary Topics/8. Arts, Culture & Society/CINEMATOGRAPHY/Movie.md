@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Movie
 *n.*
 > /ˈmuːvi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Movie::Phim điện ảnh *(Phát âm: /ˈmuːvi/)* ![[movie.mp3]]<br><br>👪 **Word Family:** moviegoer<br><br>💬 **Ví dụ:** We watched a scary movie last night.<br>*(-> Tối qua chúng tôi đã xem một bộ phim kinh dị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cinema film

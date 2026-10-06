@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Cheerful
 *adj.*
 > /ˈtʃɪə.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Cheerful::Vui vẻ, hớn hở *(Phát âm: /ˈtʃɪə.fəl/)* ![[cheerful.mp3]]<br><br>👪 **Word Family:** Cheer (v), Cheerfully (adv)<br><br>💬 **Ví dụ:** He is always cheerful.<br>*(-> Anh ấy luôn vui vẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Noticeably happy and optimistic.

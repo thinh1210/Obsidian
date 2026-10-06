@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Concurrent
 *adj.*
 > /kənˈkʌrənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Concurrent::Xảy ra đồng thời *(Phát âm: /kənˈkʌrənt/)* ![[concurrent.mp3]]<br><br>👪 **Word Family:** concurrently (adv.)<br><br>💬 **Ví dụ:** There are concurrent festivals in town.<br>*(-> Có các lễ hội diễn ra đồng thời trong thị trấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing, happening, or done at the same time

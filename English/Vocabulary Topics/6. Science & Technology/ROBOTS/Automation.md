@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Automation
 *noun.*
 > /ˌɑː.t̬əˈmeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Automation::Tự động hóa *(Phát âm: /ˌɑː.t̬əˈmeɪ.ʃən/)* ![[automation.mp3]]<br><br>👪 **Word Family:** automate (verb), automatic (adj)<br><br>💬 **Ví dụ:** Factory automation has increased production speed significantly.<br>*(-> Tự động hóa nhà máy đã làm tăng đáng kể tốc độ sản xuất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The use of machines and computers to do work that was previously done by humans

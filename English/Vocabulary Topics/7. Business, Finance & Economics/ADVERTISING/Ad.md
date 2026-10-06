@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Ad
 *noun*
 > /æd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
+
+## 🗂️ Flashcard
+Ad::Quảng cáo (dạng ngắn gọn) *(Phát âm: /æd/)* ![[ad.mp3]]<br><br>👪 **Word Family:** advertise (verb), advertisement (noun)<br><br>💬 **Ví dụ:** I saw an ad for a new phone on the street.<br>*(-> Tôi đã thấy một quảng cáo cho một chiếc điện thoại mới trên đường phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A notice or announcement in a public medium promoting a product, service, or event.

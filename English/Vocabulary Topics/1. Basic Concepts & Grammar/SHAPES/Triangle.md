@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Triangle
 *n.*
 > /ˈtraɪ.æŋ.ɡəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Triangle::Hình tam giác *(Phát âm: /ˈtraɪ.æŋ.ɡəl/)* ![[triangle.mp3]]<br><br>👪 **Word Family:** Triangular (adj)<br><br>💬 **Ví dụ:** A pizza slice looks like a triangle.<br>*(-> Một lát bánh pizza trông giống như một hình tam giác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape with three straight sides and three angles.

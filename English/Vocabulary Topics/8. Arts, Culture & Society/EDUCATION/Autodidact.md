@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Autodidact
 *n.*
 > /ˌɔːtəʊˈdaɪdækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Autodidact::Người tự học *(Phát âm: /ˌɔːtəʊˈdaɪdækt/)* ![[autodidact.mp3]]<br><br>👪 **Word Family:** autodidactic<br><br>💬 **Ví dụ:** Abraham Lincoln was a famous autodidact.<br>*(-> Abraham Lincoln là một người tự học nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A self-taught person

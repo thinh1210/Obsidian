@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Law
 *n*
 > /lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Law::Luật / pháp luật *(Phát âm: /lɔː/)* ![[law.mp3]]<br><br>👪 **Word Family:** lawful (adj), lawless (adj), lawyer (n), lawmaker (n)<br><br>💬 **Ví dụ:** It is against the law to drive without a licence.<br>*(-> Lái xe không có bằng lái là vi phạm pháp luật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rule made by a government that everyone must obey.

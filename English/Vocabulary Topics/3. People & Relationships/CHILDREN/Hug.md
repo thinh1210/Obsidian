@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Hug
 *v.*
 > /hʌɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Hug::Ôm chặt, vòng tay ôm lấy con cái để bày tỏ tình yêu thương *(Phát âm: /hʌɡ/)* ![[hug.mp3]]<br><br>👪 **Word Family:** hug (n), huggable (adj)<br><br>💬 **Ví dụ:** The little boy ran across the playground and gave his mother a huge, joyful hug.<br>*(-> Cậu bé chạy băng qua sân chơi và trao cho mẹ một cái ôm thật chặt đầy vui sướng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put your arms around someone and hold them tightly, especially to show that you like or love them.

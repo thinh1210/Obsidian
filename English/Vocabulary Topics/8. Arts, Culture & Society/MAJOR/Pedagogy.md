@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Pedagogy
 *n.*
 > /ˈped.ə.ɡɒ.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Pedagogy::Phương pháp sư phạm, lý luận giảng dạy *(Phát âm: /ˈped.ə.ɡɒ.dʒi/)* ![[pedagogy.mp3]]<br><br>👪 **Word Family:** pedagogy (n), pedagogical (adj), pedagogue (n)<br><br>💬 **Ví dụ:** Her pedagogy involves lots of group discussions.<br>*(-> Phương pháp sư phạm của cô ấy bao gồm nhiều thảo luận nhóm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The method and practice of teaching, especially as an academic subject or theoretical concept.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Cinema
 *n.*
 > /ˈsɪnəmə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Cinema::Rạp chiếu phim, điện ảnh *(Phát âm: /ˈsɪnəmə/)* ![[cinema.mp3]]<br><br>👪 **Word Family:** cinematic, cinematographer<br><br>💬 **Ví dụ:** We are going to the cinema this Friday.<br>*(-> Chúng tôi sẽ đi rạp chiếu phim vào thứ Sáu này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A theater where movies are shown for public entertainment; the production of movies as an art or industry.

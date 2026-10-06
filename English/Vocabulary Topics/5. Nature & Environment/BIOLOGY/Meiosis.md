@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Meiosis
 *noun*
 > /maɪˈəʊ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Meiosis::Quá trình giảm phân *(Phát âm: /maɪˈəʊ.sɪs/)* ![[meiosis.mp3]]<br><br>👪 **Word Family:** meiotic<br><br>💬 **Ví dụ:** Meiosis produces sperm and egg cells.<br>*(-> Giảm phân tạo ra tế bào tinh trùng và tế bào trứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of cell division that results in four daughter cells each with half the number of chromosomes of the parent cell, as in the production of gametes.

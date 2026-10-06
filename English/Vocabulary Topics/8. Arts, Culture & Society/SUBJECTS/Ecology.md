@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Ecology
 *noun*
 > /iˈkɒlədži/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Ecology::Sinh thái học *(Phát âm: /iˈkɒlədži/)* ![[ecology.mp3]]<br><br>👪 **Word Family:** ecologist, ecological<br><br>💬 **Ví dụ:** Ecology class teaches us how plants and animals interact.<br>*(-> Lớp sinh thái học dạy chúng ta cách thực vật và động vật tương tác với nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Resplendent
 *adj.*
 > /rɪˈsplendənt/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Resplendent::Rực rỡ, chói lọi *(Phát âm: /rɪˈsplendənt/)* ![[resplendent.mp3]]<br><br>👪 **Word Family:** resplendence<br><br>💬 **Ví dụ:** Resplendent dress.<br>*(-> Chiếc váy rực rỡ.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Attractive and impressive through being richly colorful

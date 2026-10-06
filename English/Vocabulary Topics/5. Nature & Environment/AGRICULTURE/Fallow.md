@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Fallow
 *adj.*
 > /ˈfæl.əʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Fallow::Bỏ hoang, để ải (để hồi đất) *(Phát âm: /ˈfæl.əʊ/)* ![[fallow.mp3]]<br><br>👪 **Word Family:** fallowness (n)<br><br>💬 **Ví dụ:** The fields are left to lie fallow every third year.<br>*(-> Các cánh đồng được để hoang mỗi ba năm một lần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Left unsown for a period to restore fertility as part of a crop rotation.

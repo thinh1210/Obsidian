@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Estoppel
 *noun*
 > /ɪˈstɒpl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Estoppel::Nguyên tắc ngăn cấm phủ nhận; quy tắc bất nhất trong tố tụng *(Phát âm: /ɪˈstɒpl/)* ![[estoppel.mp3]]<br><br>👪 **Word Family:** estop (v), estopped (adj)<br><br>💬 **Ví dụ:** The court applied estoppel to prevent the landlord from breaking his promise.<br>*(-> Tòa án áp dụng nguyên tắc estoppel để ngăn chủ nhà vi phạm lời hứa của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A legal principle that prevents someone from arguing something contrary to a claim they previously made or agreed to

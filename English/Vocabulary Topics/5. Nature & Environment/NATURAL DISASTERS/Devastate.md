@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Devastate
 *verb*
 > /ˈdev.ə.steɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Devastate::Tàn phá, hủy hoại nghiêm trọng *(Phát âm: /ˈdev.ə.steɪt/)* ![[devastate.mp3]]<br><br>👪 **Word Family:** devastation (n), devastating (adj)<br><br>💬 **Ví dụ:** The storm managed to devastate the entire agricultural region.<br>*(-> Cơn bão đã tàn phá toàn bộ vùng nông nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To destroy or damage something completely.

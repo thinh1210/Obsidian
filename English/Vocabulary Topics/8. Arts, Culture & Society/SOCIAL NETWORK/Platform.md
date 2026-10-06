@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Platform
 *noun*
 > /ˈplætfɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Platform::Nền tảng *(Phát âm: /ˈplætfɔːm/)* ![[platform.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Which platform do you use most often, TikTok or Instagram?<br>*(-> Bạn sử dụng nền tảng nào thường xuyên nhất, TikTok hay Instagram?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A digital service or website that facilitates social networking and content sharing

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Brother
 *noun*
 > /ˈbrʌð.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Brother::Anh/em trai *(Phát âm: /ˈbrʌð.ər/)* ![[brother.mp3]]<br><br>👪 **Word Family:** brotherhood (n)<br><br>💬 **Ví dụ:** My brother is tall.<br>*(-> Anh trai tôi cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A man or boy with the same parents.

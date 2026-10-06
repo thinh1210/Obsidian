@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Father
 *noun*
 > /ˈfɑː.ðər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Father::Bố, cha *(Phát âm: /ˈfɑː.ðər/)* ![[father.mp3]]<br><br>👪 **Word Family:** fatherhood (n)<br><br>💬 **Ví dụ:** His father is a doctor.<br>*(-> Bố anh ấy là bác sĩ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A male parent.

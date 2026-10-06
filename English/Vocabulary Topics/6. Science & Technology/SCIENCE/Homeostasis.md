@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Homeostasis
 *noun*
 > /ˌhəʊ.mi.əʊˈsteɪ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Homeostasis::Cân bằng nội môi – xu hướng của các hệ thống sinh học duy trì trạng thái bên trong ổn định dù có thay đổi bên ngoài *(Phát âm: /ˌhəʊ.mi.əʊˈsteɪ.sɪs/)* ![[homeostasis.mp3]]<br><br>👪 **Word Family:** homeostatic (adj), homeostat (n), thermoregulation (related n)<br><br>💬 **Ví dụ:** When you get hot, you sweat to cool down – that is homeostasis keeping your body stable.<br>*(-> Khi nóng, bạn đổ mồ hôi để làm mát – đó là cân bằng nội môi giữ cơ thể ổn định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tendency of biological systems to maintain stable internal conditions despite external changes.

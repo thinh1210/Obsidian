@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Athletics
 *n.*
 > /æθˈlet.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Athletics::Điền kinh, thể thao *(Phát âm: /æθˈlet.ɪks/)* ![[athletics.mp3]]<br><br>👪 **Word Family:** athlete, athletic, athletically<br><br>💬 **Ví dụ:** Athletics is the main attraction at the Olympic Games.<br>*(-> Điền kinh là môn thu hút chính tại Thế vận hội Olympic.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical sports and games of any kind, formal training or competition, especially track and field events.

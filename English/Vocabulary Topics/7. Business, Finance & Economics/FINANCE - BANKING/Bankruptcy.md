@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Bankruptcy
 *noun.*
 > /ˈbæŋkrʌptsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
+
+## 🗂️ Flashcard
+Bankruptcy::Sự phá sản *(Phát âm: /ˈbæŋkrʌptsi/)* ![[bankruptcy.mp3]]<br><br>👪 **Word Family:** bankrupt (noun/verb/adj)<br><br>💬 **Ví dụ:** The retail chain declared bankruptcy after years of declining sales.<br>*(-> Chuỗi bán lẻ đã tuyên bố phá sản sau nhiều năm doanh số sụt giảm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A legal status of a person or entity that cannot repay their debts to creditors.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Nebula
 *Noun*
 > /ˈneb.jə.lə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Nebula::Tinh vân *(Phát âm: /ˈneb.jə.lə/)* ![[nebula.mp3]]<br><br>👪 **Word Family:** nebular (adj), nebulous (adj)<br><br>💬 **Ví dụ:** The Orion Nebula can be seen with a simple pair of binoculars.<br>*(-> Tinh vân Orion có thể được nhìn thấy bằng một chiếc ống nhòm đơn giản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cloud of gas and dust in outer space, visible as a bright patch or silhouette.

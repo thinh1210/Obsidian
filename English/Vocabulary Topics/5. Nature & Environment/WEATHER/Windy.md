@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Windy
 *adj.*
 > /ˈwɪndi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Windy::Nhiều gió, lộng gió *(Phát âm: /ˈwɪndi/)* ![[windy.mp3]]<br><br>👪 **Word Family:** Wind (noun/verb), windiness (noun)<br><br>💬 **Ví dụ:** Hold onto your hat, it is very windy outside!<br>*(-> Giữ lấy mũ của bạn, ngoài trời gió to lắm đấy!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** With a lot of wind

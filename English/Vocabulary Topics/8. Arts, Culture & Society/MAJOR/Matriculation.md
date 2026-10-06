@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Matriculation
 *n.*
 > /məˌtrɪk.jʊˈleɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Matriculation::Sự nhập học chính thức vào đại học *(Phát âm: /məˌtrɪk.jʊˈleɪ.ʃən/)* ![[matriculation.mp3]]<br><br>👪 **Word Family:** matriculation (n), matriculate (v), matriculant (n)<br><br>💬 **Ví dụ:** After her matriculation, she moved into the student halls.<br>*(-> Sau lễ nhập học chính thức, cô ấy chuyển vào ký túc xá sinh viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of enrolling or being enrolled at a college or university; the formal admission process.

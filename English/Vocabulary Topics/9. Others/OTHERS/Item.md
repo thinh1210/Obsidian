@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Item
 
 *Noun*
@@ -36,3 +43,7 @@ Tượng tượng bạn đang chọn "ai-tem" (item) - những món hàng, vật
 
 **Synonyms:**
 - article, object, piece
+
+
+## 🗂️ Flashcard
+Item::Món hàng, khoản, mục *(Phát âm: /ˈaɪ.təm/)* ![[item.mp3]]<br><br>👪 **Word Family:** [Noun]: item, [Verb]: itemize, [Adj]: itemized<br><br>💬 **Ví dụ:** There are several items on the menu that I want to try.<br>*(-> Có một vài món trong thực đơn mà tôi muốn thử.)*

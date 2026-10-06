@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Rewilding
 *n.*
 > /ˌriːˈwaɪldɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Rewilding::Hoạt động tái hoang dã *(Phát âm: /ˌriːˈwaɪldɪŋ/)* ![[rewilding.mp3]]<br><br>👪 **Word Family:** rewild (v)<br><br>💬 **Ví dụ:** Rewilding programs have successfully reintroduced wolves to the valley.<br>*(-> Các chương trình tái hoang dã đã đưa thành công loài sói trở lại thung lũng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of protecting an environment and returning it to its natural state, for example by bringing back wild animals that used to live there.

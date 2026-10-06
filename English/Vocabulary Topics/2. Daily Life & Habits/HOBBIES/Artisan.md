@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Artisan
 *n.*
 > /ˌɑː.tɪˈzæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Artisan::Thợ thủ công, nghệ nhân *(Phát âm: /ˌɑː.tɪˈzæn/)* ![[artisan.mp3]]<br><br>👪 **Word Family:** Artisanal (adj.)<br><br>💬 **Ví dụ:** I bought this handmade ceramic mug from a local artisan at the weekend market.<br>*(-> Tôi đã mua chiếc cốc gốm làm bằng tay này từ một nghệ nhân địa phương tại chợ cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A worker in a skilled trade, especially one that involves making things by hand.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Gossip
 *n.*
 > /ˈɡɒs.ɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+28 - Gossip::Tin đồn nhảm *(Phát âm: /ˈɡɒs.ɪp/)* ![[gossip.mp3]]<br><br>👪 **Word Family:** Gossip (v.)<br><br>💬 **Ví dụ:** Spread gossip.<br>*(-> Lan truyền tin đồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Casual conversations or reports about other people.

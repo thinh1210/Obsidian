@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Constitution
 *noun*
 > /ˌkɒn.stɪˈtʃuː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Constitution::Hiến pháp *(Phát âm: /ˌkɒn.stɪˈtʃuː.ʃən/)* ![[constitution.mp3]]<br><br>👪 **Word Family:** constitute (verb), constitutional (adj), constitutionally (adv)<br><br>💬 **Ví dụ:** Our club wrote a basic constitution to govern how we make decisions.<br>*(-> Câu lạc bộ của chúng tôi đã viết một bản quy chế cơ bản để quản lý cách chúng tôi đưa ra quyết định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.

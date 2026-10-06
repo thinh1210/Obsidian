@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Proud
 *adj.*
 > /praʊd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Proud::Tự hào, hãnh diện về thành tựu của bản thân hoặc người thân *(Phát âm: /praʊd/)* ![[proud.mp3]]<br><br>👪 **Word Family:** proudly (adv), pride (n)<br><br>💬 **Ví dụ:** Her parents were deeply proud of her academic achievements and kindness.<br>*(-> Bố mẹ cô vô cùng tự hào về thành tích học tập và lòng tốt của cô.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling pleased and satisfied about something that you or someone connected with you has done and achieved.

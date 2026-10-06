@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Shoplifting
 *noun*
 > /ˈʃɒplɪftɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Shoplifting::Tội ăn cắp ở cửa hàng *(Phát âm: /ˈʃɒplɪftɪŋ/)* ![[shoplifting.mp3]]<br><br>👪 **Word Family:** shoplift (v), shoplifter (n)<br><br>💬 **Ví dụ:** Security cameras are installed to prevent shoplifting.<br>*(-> Camera an ninh được lắp đặt để ngăn chặn việc ăn cắp ở cửa hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The illegal act of taking goods from a shop without paying for them

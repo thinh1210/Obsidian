@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Viral
 *adjective*
 > /ˈvaɪ.rəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Viral::Lan truyền nhanh chóng trên mạng, viral *(Phát âm: /ˈvaɪ.rəl/)* ![[viral.mp3]]<br><br>👪 **Word Family:** viral (adj), virality (n), go viral (phrase)<br><br>💬 **Ví dụ:** The funny cat video went viral and got ten million views overnight.<br>*(-> Video mèo hài hước đã trở nên viral và đạt mười triệu lượt xem chỉ qua một đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Describing content that spreads rapidly across the Internet, reaching a very large audience in a short time.

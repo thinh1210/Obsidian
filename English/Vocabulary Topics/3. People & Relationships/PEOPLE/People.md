@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # People
 *n.*
 > /ˈpiː.pəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+People::Mọi người *(Phát âm: /ˈpiː.pəl/)* ![[people.mp3]]<br><br>👪 **Word Family:** Peopled<br><br>💬 **Ví dụ:** Many people like this.<br>*(-> Nhiều người thích điều này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Human beings in general or considered collectively.

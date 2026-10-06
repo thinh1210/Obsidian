@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Hegemony
 *Noun*
 > /hɪˈdʒeməni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Hegemony::Quyền bá chủ *(Phát âm: /hɪˈdʒeməni/)* ![[hegemony.mp3]]<br><br>👪 **Word Family:** Hegemonic<br><br>💬 **Ví dụ:** The country maintained its military hegemony in the region.<br>*(-> Quốc gia này duy trì bá quyền quân sự của mình trong khu vực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Leadership or dominance, especially by one country or social group over others.

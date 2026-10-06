@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Incessant
 *adj*
 > /ɪnˈsesənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Literary | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Incessant::Không ngừng, liên miên *(Phát âm: /ɪnˈsesənt/)* ![[incessant.mp3]]<br><br>👪 **Word Family:** incessantly (adv)<br><br>💬 **Ví dụ:** The incessant rain made everyone depressed.<br>*(-> Cơn mưa không ngớt khiến mọi người chán nản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of something regarded as unpleasant) continuing without pause or interruption.

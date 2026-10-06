@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Throttle
 *noun / verb*
 > /ˈθrɒt.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Throttle::Van ga / bộ điều tiết công suất động cơ *(Phát âm: /ˈθrɒt.əl/)* ![[throttle.mp3]]<br><br>👪 **Word Family:** throttle (v), throttle-back (v), thrust (n)<br><br>💬 **Ví dụ:** The pilot pushed the throttle to full power for the emergency climb.<br>*(-> Phi công đẩy cần ga lên toàn lực để leo cao khẩn cấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that controls the amount of fuel or power delivered to an aircraft engine; also the act of regulating engine power.

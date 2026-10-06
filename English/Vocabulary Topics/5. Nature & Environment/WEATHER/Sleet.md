@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Sleet
 *n.*
 > /sliːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Sleet::Mưa tuyết hỗn hợp, mưa rào kèm theo hạt tuyết hoặc hạt đá dăm nhỏ *(Phát âm: /sliːt/)* ![[sleet.mp3]]<br><br>👪 **Word Family:** sleety (adj)<br><br>💬 **Ví dụ:** The rain quickly turned into driving sleet as temperatures plunged.<br>*(-> Cơn mưa mau chóng chuyển thành mưa tuyết dữ dội khi nhiệt độ tụt dốc không phanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mixture of rain and snow falling together from winter clouds.

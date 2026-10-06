@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # ingenious
 *adj.*
 > /ɪnˈdʒiː.ni.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Ingenious::Khéo léo, tài tình, mưu trí *(Phát âm: /ɪnˈdʒiː.ni.əs/)* ![[ingenious.mp3]]<br><br>👪 **Word Family:** ingenuity (n), ingeniously (adv)<br><br>💬 **Ví dụ:** She came up with an ingenious solution to save water.<br>*(-> Cô ấy đã đưa ra một giải pháp tài tình để tiết kiệm nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very intelligent and skillful, or cleverly made or planned

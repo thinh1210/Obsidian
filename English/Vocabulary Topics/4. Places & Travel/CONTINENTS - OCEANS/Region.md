@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Region
 *noun*
 > /ˈriːdʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Region::Khu vực, vùng *(Phát âm: /ˈriːdʒən/)* ![[region.mp3]]<br><br>👪 **Word Family:** Regional (adj.)<br><br>💬 **Ví dụ:** This region is famous for its wine.<br>*(-> Khu vực này nổi tiếng với rượu vang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area or division, especially part of a country or the world having definable characteristics but not always fixed boundaries.

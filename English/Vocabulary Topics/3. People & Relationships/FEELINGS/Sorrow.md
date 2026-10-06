@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Sorrow
 *n.*
 > /ˈsɒr.əʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Sorrow::Nỗi sầu muộn, nỗi đau buồn sâu lắng do mất mát hoặc bất hạnh *(Phát âm: /ˈsɒr.əʊ/)* ![[sorrow.mp3]]<br><br>👪 **Word Family:** sorrowful (adj), sorrowfully (adv)<br><br>💬 **Ví dụ:** Words could scarcely convey the family's deep sorrow following the sudden loss of their pet.<br>*(-> Lời nói khó lòng diễn tả hết nỗi buồn sâu sắc của gia đình sau sự ra đi đột ngột của chú thú cưng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of deep sadness or regret caused by loss, disappointment, or misfortune.

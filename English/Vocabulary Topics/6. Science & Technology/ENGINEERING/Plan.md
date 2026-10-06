@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Plan
 *noun/verb*
 > /plæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Plan::Kế hoạch, bản đồ thiết kế, lập kế hoạch *(Phát âm: /plæn/)* ![[plan.mp3]]<br><br>👪 **Word Family:** planner (n), planned (adj)<br><br>💬 **Ví dụ:** We should make a clear plan before starting the renovation project.<br>*(-> Chúng ta nên lập một kế hoạch rõ ràng trước khi bắt đầu dự án cải tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A detailed proposal for doing or achieving something, or a scale drawing of a structure.

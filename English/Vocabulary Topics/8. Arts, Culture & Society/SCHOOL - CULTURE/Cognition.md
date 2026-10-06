@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Cognition
 *noun*
 > /kɒɡˈnɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Cognition::Nhận thức, quá trình nhận thức *(Phát âm: /kɒɡˈnɪʃn/)* ![[cognition.mp3]]<br><br>👪 **Word Family:** cognitive (adj), cognitively (adv), cognize (v)<br><br>💬 **Ví dụ:** Jean Piaget developed a famous theory about child cognitive development.<br>*(-> Jean Piaget đã phát triển một lý thuyết nổi tiếng về sự phát triển nhận thức của trẻ em.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.

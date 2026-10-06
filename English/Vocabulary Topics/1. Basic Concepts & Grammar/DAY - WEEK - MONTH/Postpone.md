@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Postpone
 *verb*
 > /pəʊstˈpəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Postpone::Hoãn lại *(Phát âm: /pəʊstˈpəʊn/)* ![[postpone.mp3]]<br><br>👪 **Word Family:** postponement (n)<br><br>💬 **Ví dụ:** We had to postpone our trip.<br>*(-> Chúng tôi phải hoãn chuyến đi của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cause or arrange for something to take place at a time later than that first scheduled.

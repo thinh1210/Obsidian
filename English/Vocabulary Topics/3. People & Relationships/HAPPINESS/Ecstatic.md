@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Ecstatic
 *adj.*
 > /ɪkˈstæt.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Ecstatic::Ngây ngất, vô cùng hạnh phúc *(Phát âm: /ɪkˈstæt.ɪk/)* ![[ecstatic.mp3]]<br><br>👪 **Word Family:** Ecstasy (n)<br><br>💬 **Ví dụ:** She was ecstatic about the news.<br>*(-> Cô ấy ngây ngất vì tin tức đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing overwhelming happiness.

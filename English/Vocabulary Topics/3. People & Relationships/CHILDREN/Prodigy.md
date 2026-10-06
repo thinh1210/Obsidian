@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Prodigy
 *noun*
 > /ˈprɑː.də.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Prodigy::Thần đồng *(Phát âm: /ˈprɑː.də.dʒi/)* ![[prodigy.mp3]]<br><br>👪 **Word Family:** Prodigious (adj)<br><br>💬 **Ví dụ:** Mozart was a child prodigy.<br>*(-> Mozart là một thần đồng âm nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person, especially a young one, endowed with exceptional qualities or abilities.

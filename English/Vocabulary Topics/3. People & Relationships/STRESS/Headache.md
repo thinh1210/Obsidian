@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Headache
 *n.*
 > /ˈhedeɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Headache::Đau đầu *(Phát âm: /ˈhedeɪk/)* ![[headache.mp3]]<br><br>👪 **Word Family:** head (n), ache (v)<br><br>💬 **Ví dụ:** I have a terrible headache.<br>*(-> Tôi bị đau đầu kinh khủng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A continuous pain in the head

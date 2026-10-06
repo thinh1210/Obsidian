@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Monolithic
 *adj.*
 > /ˌmɒnəˈlɪθɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Monolithic::Nguyên khối, đồ sộ vững chãi *(Phát âm: /ˌmɒnəˈlɪθɪk/)* ![[monolithic.mp3]]<br><br>👪 **Word Family:** monolith<br><br>💬 **Ví dụ:** The monument was carved from a monolithic block of granite.<br>*(-> Đài tưởng niệm được tạc từ một khối đá granite nguyên khối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Formed of a single large block of stone, or very large and solid

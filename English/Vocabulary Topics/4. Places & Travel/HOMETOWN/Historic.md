@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Historic
 *adj.*
 > /hɪˈstɒrɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Historic::Có tính lịch sử *(Phát âm: /hɪˈstɒrɪk/)* ![[historic.mp3]]<br><br>👪 **Word Family:** History (n.)<br><br>💬 **Ví dụ:** We visited a historic castle.<br>*(-> Chúng tôi đã thăm một lâu đài lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Famous or important in history, or potentially so.

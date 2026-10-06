@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Coupon
 *n.*
 > /ˈkuː.pɒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Coupon::Phiếu ưu đãi, mã giảm giá khi mua hàng *(Phát âm: /ˈkuː.pɒn/)* ![[coupon.mp3]]<br><br>💬 **Ví dụ:** Enter this promo coupon code at checkout to receive free home delivery.<br>*(-> Hãy nhập mã giảm giá này khi thanh toán để được miễn phí giao hàng tận nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of paper or electronic code that gives you a reduction on the price of something.

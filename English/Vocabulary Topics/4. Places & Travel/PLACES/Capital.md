@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Capital
 *n.*
 > /ˈkæp.ə.t̬əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Capital::Thủ đô *(Phát âm: /ˈkæp.ə.t̬əl/)* ![[capital.mp3]]<br><br>👪 **Word Family:** capitalize (v)<br><br>💬 **Ví dụ:** Paris is the capital of France.<br>*(-> Paris là thủ đô của Pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The most important city or town of a country or region.

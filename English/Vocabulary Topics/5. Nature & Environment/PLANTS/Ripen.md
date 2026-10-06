@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Ripen
 *v.*
 > /ˈraɪpən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Ripen::Chín muồi, phát triển đầy đủ hương vị ngọt ngào và màu sắc bắt mắt (trái cây) *(Phát âm: /ˈraɪpən/)* ![[ripen.mp3]]<br><br>👪 **Word Family:** ripe (adj), ripeness (n), ripening (n)<br><br>💬 **Ví dụ:** Apples ripen to a deep crimson shade during the warm days of early autumn.<br>*(-> Những trái táo chín chuyển sang sắc đỏ thẫm trong những ngày ấm áp đầu thu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become ripe or make something ripe.

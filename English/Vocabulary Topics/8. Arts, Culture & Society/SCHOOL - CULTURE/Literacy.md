@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Literacy
 *noun*
 > /ˈlɪtərəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Literacy::Sự biết chữ, khả năng đọc viết *(Phát âm: /ˈlɪtərəsi/)* ![[literacy.mp3]]<br><br>👪 **Word Family:** literate (adj), illiterate (adj), illiteracy (n)<br><br>💬 **Ví dụ:** The government is trying to improve adult literacy in rural areas.<br>*(-> Chính phủ đang cố gắng cải thiện khả năng đọc viết của người lớn ở các khu vực nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The ability to read and write.

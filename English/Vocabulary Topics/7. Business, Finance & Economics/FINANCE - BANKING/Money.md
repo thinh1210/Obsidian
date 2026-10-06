@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Money
 *noun.*
 > /ˈmʌni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Money::Tiền *(Phát âm: /ˈmʌni/)* ![[money.mp3]]<br><br>👪 **Word Family:** monetary (adj), monetize (verb)<br><br>💬 **Ví dụ:** Do you have enough money for the taxi ride?<br>*(-> Bạn có đủ tiền đi taxi không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** What you use to buy things and services.

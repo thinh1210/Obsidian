@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Together
 *adv*
 > /təˈɡeð.ɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Together::Cùng nhau *(Phát âm: /təˈɡeð.ɚ/)* ![[together.mp3]]<br><br>👪 **Word Family:** togetherness<br><br>💬 **Ví dụ:** We go to school together.<br>*(-> Chúng tôi đi học cùng nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** With or in proximity to another person or people.

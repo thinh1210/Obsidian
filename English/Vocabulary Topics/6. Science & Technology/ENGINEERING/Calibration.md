@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Calibration
 *noun*
 > /ˌkəlɪˈbreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Calibration::Sự hiệu chuẩn, sự hiệu chỉnh thông số *(Phát âm: /ˌkəlɪˈbreɪʃn/)* ![[calibration.mp3]]<br><br>👪 **Word Family:** calibrate (v), calibrator (n)<br><br>💬 **Ví dụ:** The scale needs calibration because it is showing incorrect weight measurements.<br>*(-> Chiếc cân cần được hiệu chuẩn vì nó đang hiển thị các số đo trọng lượng không chính xác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of adjusting an instrument so that its readings can be correlated with those of a standard.

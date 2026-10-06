@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Homework
 *n.*
 > /ˈhəʊm.wɜːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Homework::Bài tập về nhà *(Phát âm: /ˈhəʊm.wɜːk/)* ![[homework.mp3]]<br><br>👪 **Word Family:** home, work<br><br>💬 **Ví dụ:** Did you finish your homework?<br>*(-> Bạn đã hoàn thành bài tập về nhà chưa?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Work that teachers give students to do at home

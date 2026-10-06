@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Avant-garde
 *adj.*
 > /ˌævɑ̃ːˈɡɑːrd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
+
+## 🗂️ Flashcard
+Avant-garde::Tiên phong, phá cách (nghệ thuật, thời trang) *(Phát âm: /ˌævɑ̃ːˈɡɑːrd/)* ![[avant_garde.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She loves avant-garde fashion that shocks people.<br>*(-> Cô ấy thích thời trang phá cách gây sốc cho mọi người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** New and unusual or experimental ideas, especially in the arts.

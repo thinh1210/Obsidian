@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Cost
 *noun.*
 > /kɒst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Cost::Chi phí, giá cả *(Phát âm: /kɒst/)* ![[cost.mp3]]<br><br>👪 **Word Family:** costly (adj)<br><br>💬 **Ví dụ:** The cost of public transport in this city is very reasonable.<br>*(-> Chi phí giao thông công cộng ở thành phố này rất hợp lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of money that you need to buy or do something.

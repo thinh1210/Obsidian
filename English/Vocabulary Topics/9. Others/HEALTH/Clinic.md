@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Clinic
 *n*
 > /ˈklɪnɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Clinic::Phòng khám, bệnh viện tư *(Phát âm: /ˈklɪnɪk/)* ![[clinic.mp3]]<br><br>👪 **Word Family:** clinician (n), clinical (adj), clinically (adv)<br><br>💬 **Ví dụ:** She works as a receptionist at a local dental clinic.<br>*(-> Cô ấy làm lễ tân tại một phòng khám nha khoa địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An establishment or hospital department where outpatients are given medical treatment or advice.

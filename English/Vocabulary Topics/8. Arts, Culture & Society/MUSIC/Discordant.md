@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Discordant
 *adj.*
 > /dɪˈskɔː.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
+
+## 🗂️ Flashcard
+Discordant::Không hòa hợp, bất hòa (âm thanh chói tai, không hài hòa) *(Phát âm: /dɪˈskɔː.dənt/)* ![[discordant.mp3]]<br><br>👪 **Word Family:** discord (n), discordantly (adv)<br><br>💬 **Ví dụ:** The band's performance was ruined by a discordant guitar note.<br>*(-> Màn trình diễn của ban nhạc đã bị phá hỏng bởi một nốt guitar không hài hòa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Disagreeing or incongruous; (of a sound) harsh and jarring because of a lack of harmony.

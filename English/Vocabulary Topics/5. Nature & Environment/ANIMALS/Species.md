@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Species
 *noun*
 > /ˈspiː.ʃiːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Species::Loài (sinh học) *(Phát âm: /ˈspiː.ʃiːz/)* ![[species.mp3]]<br><br>👪 **Word Family:** species (n), speciation (n)<br><br>💬 **Ví dụ:** Scientists have discovered a new species of frog in the Amazon rainforest.<br>*(-> Các nhà khoa học đã phát hiện ra một loài ếch mới ở rừng mưa Amazon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Neighborhood
 *n.*
 > /ˈneɪ.bɚ.hʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Neighborhood::Khu phố, hàng xóm *(Phát âm: /ˈneɪ.bɚ.hʊd/)* ![[neighborhood.mp3]]<br><br>👪 **Word Family:** neighbor (n)<br><br>💬 **Ví dụ:** Our neighborhood is very safe.<br>*(-> Khu phố của chúng tôi rất an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A district or community within a town or city.

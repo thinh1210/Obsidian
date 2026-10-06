@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Believe
 *v.*
 > /bɪˈliːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Believe::Tin tưởng, tin vào *(Phát âm: /bɪˈliːv/)* ![[believe.mp3]]<br><br>👪 **Word Family:** belief, believable, believer<br><br>💬 **Ví dụ:** I believe we will win this game.<br>*(-> Tôi tin chúng ta sẽ thắng trận đấu này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Accept that something is true, especially without proof.

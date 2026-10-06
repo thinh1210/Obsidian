@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Nutritious
 *Adj*
 > /njuːˈtrɪʃ.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Nutritious::Bổ dưỡng, nhiều dinh dưỡng *(Phát âm: /njuːˈtrɪʃ.əs/)* ![[nutritious.mp3]]<br><br>👪 **Word Family:** Nutrition (Noun): Dinh dưỡng<br><br>💬 **Ví dụ:** Raw spinach is highly nutritious.<br>*(-> Rau chân vịt sống rất bổ dưỡng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing many of the substances needed for life and growth.

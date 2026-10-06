@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Sustainable
 *adj.*
 > /səˈsteɪ.nə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Sustainable::Bền vững *(Phát âm: /səˈsteɪ.nə.bəl/)* ![[sustainable.mp3]]<br><br>👪 **Word Family:** sustainability (n), sustain (v)<br><br>💬 **Ví dụ:** Consumers now prefer coffee from sustainable farms.<br>*(-> Người tiêu dùng hiện thích cà phê từ các trang trại bền vững.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conserving resources and not causing damage to the environment.

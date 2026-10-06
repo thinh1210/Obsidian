@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Theme
 *noun*
 > /θiːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Theme::Chủ đề, đề tài chủ đạo *(Phát âm: /θiːm/)* ![[theme.mp3]]<br><br>👪 **Word Family:** thematic (adj), thematically (adv), theme park (n)<br><br>💬 **Ví dụ:** Love and betrayal are the central themes of the story.<br>*(-> Tình yêu và sự phản bội là những chủ đề trung tâm của câu chuyện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An idea that recurs in or pervades a work of art or literature.

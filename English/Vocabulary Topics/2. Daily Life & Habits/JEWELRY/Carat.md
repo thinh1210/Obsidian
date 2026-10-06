@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Carat
 *noun*
 > /ˈkær.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Carat::Carat (đơn vị trọng lượng) *(Phát âm: /ˈkær.ət/)* ![[carat.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** It is a three-carat ring.<br>*(-> Nó là chiếc nhẫn ba carat.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A unit of weight for precious stones.

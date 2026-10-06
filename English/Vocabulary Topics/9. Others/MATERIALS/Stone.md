@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Stone
 *noun.*
 > /stəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Stone::Đá, đá xây dựng *(Phát âm: /stəʊn/)* ![[stone.mp3]]<br><br>👪 **Word Family:** stony (Adjective), stonework (Noun)<br><br>💬 **Ví dụ:** The castle walls were built of solid stone.<br>*(-> Các bức tường lâu đài được xây dựng bằng đá đặc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Hard solid nonmetallic mineral matter of which rock is made, especially as a building material.

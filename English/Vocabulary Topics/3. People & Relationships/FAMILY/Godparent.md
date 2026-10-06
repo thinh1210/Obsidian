@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Godparent
 *n.*
 > /ˈɡɒdˌpeə.rənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Godparent::Cha mẹ đỡ đầu (người bảo trợ tinh thần và đạo đức cho đứa trẻ) *(Phát âm: /ˈɡɒdˌpeə.rənt/)* ![[godparent.mp3]]<br><br>👪 **Word Family:** godfather (n), godmother (n), godchild (n)<br><br>💬 **Ví dụ:** Uncle Marcus was overjoyed when asked to be the little girl's godparent.<br>*(-> Chú Marcus đã vô cùng mừng rỡ khi được nhờ làm cha đỡ đầu cho bé gái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who promises at a child's baptism to help with their religious or moral education.

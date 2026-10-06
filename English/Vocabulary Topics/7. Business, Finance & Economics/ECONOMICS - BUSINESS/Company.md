@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Company
 *noun*
 > /ˈkʌmpəni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Company::công ty *(Phát âm: /ˈkʌmpəni/)* ![[company.mp3]]<br><br>👪 **Word Family:** companion (noun), accompany (verb)<br><br>💬 **Ví dụ:** She works for a local software company near her house.<br>*(-> Cô ấy làm việc cho một công ty phần mềm địa phương gần nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an organization that sells goods or services in order to make money.

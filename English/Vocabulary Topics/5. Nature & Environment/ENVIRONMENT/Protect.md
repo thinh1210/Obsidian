@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Protect
 *v.*
 > /prəˈtekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Protect::Bảo vệ *(Phát âm: /prəˈtekt/)* ![[protect.mp3]]<br><br>👪 **Word Family:** protection (n), protective (adj), protector (n)<br><br>💬 **Ví dụ:** You should wear a hat to protect your skin.<br>*(-> Bạn nên đội mũ để bảo vệ làn da của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Keep safe from harm or injury.

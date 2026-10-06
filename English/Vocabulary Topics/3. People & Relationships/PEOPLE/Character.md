@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Character
 *n.*
 > /ˈkær.ək.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Character::Nhân vật, tính cách *(Phát âm: /ˈkær.ək.tər/)* ![[character.mp3]]<br><br>👪 **Word Family:** Characteristic<br><br>💬 **Ví dụ:** He is a funny character.<br>*(-> Anh ấy là một nhân vật hài hước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The mental and moral qualities distinctive to an individual.

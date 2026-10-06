@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Victim
 *noun*
 > /ˈvɪktɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Victim::Nạn nhân *(Phát âm: /ˈvɪktɪm/)* ![[victim.mp3]]<br><br>👪 **Word Family:** victimize (v), victimization (n), victimless (adj)<br><br>💬 **Ví dụ:** The victim reported the theft to the police.<br>*(-> Nạn nhân đã báo cáo vụ trộm cho cảnh sát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who has been harmed, injured, or killed as a result of a crime

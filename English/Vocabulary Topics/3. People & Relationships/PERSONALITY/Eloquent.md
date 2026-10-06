@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Eloquent
 *adj.*
 > /ˈel.ə.kwənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Eloquent::Hùng biện, lưu loát, có tài ăn nói hùng hồn truyền cảm *(Phát âm: /ˈel.ə.kwənt/)* ![[eloquent.mp3]]<br><br>👪 **Word Family:** eloquence (n), eloquently (adv)<br><br>💬 **Ví dụ:** She gave an eloquent toast at her sister's wedding that brought tears to everyone's eyes.<br>*(-> Cô đã nâng ly chúc mừng bằng một bài phát biểu đầy truyền cảm trong đám cưới của em gái khiến ai cũng rơi lệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Giving a clear, strong message; using language powerfully and expressively.

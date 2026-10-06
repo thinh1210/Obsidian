@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Corroborate
 *verb*
 > /kəˈrɒb.ə.reɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
+
+## 🗂️ Flashcard
+Corroborate::Xác nhận / củng cố (bằng chứng hoặc lời khai) *(Phát âm: /kəˈrɒb.ə.reɪt/)* ![[corroborate.mp3]]<br><br>👪 **Word Family:** corroboration (n), corroborative (adj), corroborator (n)<br><br>💬 **Ví dụ:** His story was corroborated by three other witnesses.<br>*(-> Câu chuyện của anh ấy được xác nhận bởi ba nhân chứng khác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To confirm or give support to a statement, theory, or finding; to strengthen evidence.

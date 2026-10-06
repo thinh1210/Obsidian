@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Asset
 *n.*
 > /ˈæs.et/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Asset::Tài sản có giá trị kinh tế thuộc quyền sở hữu của cá nhân hoặc doanh nghiệp *(Phát âm: /ˈæs.et/)* ![[asset.mp3]]<br><br>👪 **Word Family:** assets (pl)<br><br>💬 **Ví dụ:** Real estate and blue-chip stock holdings are considered reliable long-term assets.<br>*(-> Bất động sản và cổ phiếu blue-chip được coi là những tài sản dài hạn đáng tin cậy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A useful or valuable quality, person, or thing; an item of property owned by a person or company, regarded as having value.

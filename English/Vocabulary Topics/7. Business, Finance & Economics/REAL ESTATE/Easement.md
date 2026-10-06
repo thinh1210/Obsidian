@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Easement
 *n.*
 > /ˈiːzmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Thủ tục pháp lý, Chuyển quyền & Khế ước đất đai
+
+## 🗂️ Flashcard
+Easement::Quyền sử dụng hạn chế bất động sản liền kề *(Phát âm: /ˈiːzmənt/)* ![[easement.mp3]]<br><br>👪 **Word Family:** ease (n/v)<br><br>💬 **Ví dụ:** The neighbor has an easement allowing them to use our driveway to reach their garage.<br>*(-> Người hàng xóm có quyền đi nhờ cho phép họ sử dụng lối đi của chúng tôi để đến nhà xe của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A right to cross or otherwise use someone else's land for a specified purpose.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Bonus
 *n.*
 > /ˈbəʊ.nəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Bonus::Tiền thưởng thêm ngoài lương cơ bản ghi nhận thành tích xuất sắc *(Phát âm: /ˈbəʊ.nəs/)* ![[bonus.mp3]]<br><br>👪 **Word Family:** bonuses (pl)<br><br>💬 **Ví dụ:** Employees received a generous holiday bonus after the company achieved record sales.<br>*(-> Nhân viên đã nhận được khoản tiền thưởng lễ hậu hĩnh sau khi công ty đạt doanh số kỷ lục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extra amount of money that is given to an employee in addition to their usual pay as a reward for good performance.

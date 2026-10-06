@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Sell
 *verb.*
 > /sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Sell::Bán *(Phát âm: /sel/)* ![[sell.mp3]]<br><br>👪 **Word Family:** seller (noun), sale (noun)<br><br>💬 **Ví dụ:** They decided to sell their old car to get some extra cash.<br>*(-> Họ quyết định bán chiếc xe cũ của mình để kiếm thêm một ít tiền mặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give something to someone in exchange for money.

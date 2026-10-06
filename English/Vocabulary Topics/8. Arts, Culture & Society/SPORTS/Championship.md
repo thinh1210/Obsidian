@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Championship
 *n.*
 > /ˈtʃæm.pi.ən.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Championship::Giải vô địch, chức vô địch *(Phát âm: /ˈtʃæm.pi.ən.ʃɪp/)* ![[championship.mp3]]<br><br>👪 **Word Family:** champion, championing<br><br>💬 **Ví dụ:** Our team has a good chance of winning the championship this year.<br>*(-> Đội của chúng tôi có cơ hội lớn giành chức vô địch năm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A contest for the position of champion in a sport or game.

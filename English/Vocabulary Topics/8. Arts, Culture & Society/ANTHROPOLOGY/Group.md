@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Group
 *n.*
 > /ɡruːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Group::Nhóm, tập đoàn *(Phát âm: /ɡruːp/)* ![[group.mp3]]<br><br>👪 **Word Family:** regroup, grouping<br><br>💬 **Ví dụ:** We worked together in a small group.<br>*(-> Chúng tôi đã làm việc cùng nhau trong một nhóm nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A number of people or things that are located close together or are considered or classed together.

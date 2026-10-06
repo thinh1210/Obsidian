@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Income
 *noun*
 > /ˈɪnkʌm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Income::thu nhập *(Phát âm: /ˈɪnkʌm/)* ![[income.mp3]]<br><br>👪 **Word Family:** incoming (adjective)<br><br>💬 **Ví dụ:** Her family depends on a single source of income.<br>*(-> Gia đình cô ấy phụ thuộc vào một nguồn thu nhập duy nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** money that is earned from doing work or received from investments.

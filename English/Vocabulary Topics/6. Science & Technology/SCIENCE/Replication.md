@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Replication
 *noun*
 > /ˌrep.lɪˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Replication::Lặp lại thí nghiệm – quá trình lặp lại thí nghiệm khoa học để xác minh kết quả; cũng là sự sao chép DNA *(Phát âm: /ˌrep.lɪˈkeɪ.ʃən/)* ![[replication.mp3]]<br><br>👪 **Word Family:** replicate (v), replica (n), replicator (n), replicable (adj)<br><br>💬 **Ví dụ:** Good scientists always check replication before publishing exciting results.<br>*(-> Các nhà khoa học giỏi luôn kiểm tra khả năng lặp lại trước khi công bố kết quả thú vị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of repeating a scientific experiment to verify results; also the copying of DNA.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Control
 *verb.*
 > /kənˈtroʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Control::Điều khiển, kiểm soát *(Phát âm: /kənˈtroʊl/)* ![[control.mp3]]<br><br>👪 **Word Family:** controller (noun), controllable (adj)<br><br>💬 **Ví dụ:** You can control the robot using your voice.<br>*(-> Bạn có thể điều khiển robot bằng giọng nói của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To order, limit, or rule something, or to make something behave in a particular way

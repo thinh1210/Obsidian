@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Injury
 *n*
 > /ˈɪndʒəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Injury::Chấn thương, vết thương *(Phát âm: /ˈɪndʒəri/)* ![[injury.mp3]]<br><br>👪 **Word Family:** injure (v), injured (adj)<br><br>💬 **Ví dụ:** Fortunately, no one sustained any serious injury in the accident.<br>*(-> May mắn thay, không ai bị chấn thương nghiêm trọng nào trong vụ tai nạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical damage to the body caused by violence, accident, or fracture.

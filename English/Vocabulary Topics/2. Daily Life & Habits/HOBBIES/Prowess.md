@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Prowess
 *noun*
 > /ˈpraʊəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Prowess::Sự điêu luyện, kỹ năng xuất chúng *(Phát âm: /ˈpraʊəs/)* ![[prowess.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He showed great prowess in surfing the giant waves.<br>*(-> Anh ấy thể hiện sự điêu luyện tuyệt vời khi lướt những con sóng khổng lồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Skill or expertise in a particular activity or field.

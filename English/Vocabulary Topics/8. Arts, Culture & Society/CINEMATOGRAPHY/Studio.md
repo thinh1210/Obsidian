@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Studio
 *n.*
 > /ˈstjuːdiəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Studio::Phim trường, hãng phim, phòng thu *(Phát âm: /ˈstjuːdiəʊ/)* ![[studio.mp3]]<br><br>👪 **Word Family:** studious<br><br>💬 **Ví dụ:** We are visiting a major film studio in California.<br>*(-> Chúng tôi đang tham quan một hãng phim lớn ở California.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room or place where films, television programs, or music are recorded or produced

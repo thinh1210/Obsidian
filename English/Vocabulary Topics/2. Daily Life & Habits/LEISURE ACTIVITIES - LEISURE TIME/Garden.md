@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Garden
 *v*
 > /ˈɡɑːdn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Garden::Làm vườn *(Phát âm: /ˈɡɑːdn/)* ![[garden.mp3]]<br><br>👪 **Word Family:** Gardener (n), Gardening (n)<br><br>💬 **Ví dụ:** My mom gardens every Sunday.<br>*(-> Mẹ tôi làm vườn mỗi Chủ nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cultivate or work in a garden.

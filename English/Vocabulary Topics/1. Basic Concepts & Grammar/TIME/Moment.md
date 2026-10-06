@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Moment
 *n.*
 > /ˈməʊ.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Moment::Khoảnh khắc, giây lát; thời khắc quan trọng ghi dấu ấn *(Phát âm: /ˈməʊ.mənt/)* ![[moment.mp3]]<br><br>👪 **Word Family:** momentary (adj), momentarily (adv), momentous (adj)<br><br>💬 **Ví dụ:** Please hold the line for just a moment while I transfer your call to the customer service representative.<br>*(-> Xin vui lòng giữ máy trong giây lát trong khi tôi chuyển cuộc gọi của bạn tới nhân viên hỗ trợ khách hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very brief period of time; a particular exact point in time.

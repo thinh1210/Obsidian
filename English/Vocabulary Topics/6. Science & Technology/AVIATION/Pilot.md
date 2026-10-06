@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Pilot
 *noun*
 > /ˈpaɪ.lət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Pilot::Phi công *(Phát âm: /ˈpaɪ.lət/)* ![[pilot.mp3]]<br><br>👪 **Word Family:** co-pilot (n), piloting (n), autopilot (n)<br><br>💬 **Ví dụ:** My uncle is a pilot and he flies to Europe every week.<br>*(-> Chú tôi là phi công và ông bay sang Châu Âu mỗi tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who operates the flying controls of an aircraft.

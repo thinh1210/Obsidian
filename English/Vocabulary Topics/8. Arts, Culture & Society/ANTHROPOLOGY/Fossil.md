@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Fossil
 *n.*
 > /ˈfɒs.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Fossil::Hóa thạch *(Phát âm: /ˈfɒs.əl/)* ![[fossil.mp3]]<br><br>👪 **Word Family:** fossilize, fossilization<br><br>💬 **Ví dụ:** The child found a fossil shell on the beach.<br>*(-> Đứa trẻ tìm thấy một vỏ sò hóa thạch trên bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The remains or impression of a prehistoric organism preserved in petrified form or as a mold or cast in rock.

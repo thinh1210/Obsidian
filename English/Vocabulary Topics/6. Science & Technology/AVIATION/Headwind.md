@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Headwind
 *noun*
 > /ˈhed.wɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Headwind::Gió ngược chiều (gió đầu) *(Phát âm: /ˈhed.wɪnd/)* ![[headwind.mp3]]<br><br>👪 **Word Family:** tailwind (n), crosswind (n), wind component (n)<br><br>💬 **Ví dụ:** The flight arrived late because of a strong headwind over the Pacific.<br>*(-> Chuyến bay đến trễ vì gió ngược mạnh trên Thái Bình Dương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wind blowing directly towards an aircraft, slowing its speed over the ground.

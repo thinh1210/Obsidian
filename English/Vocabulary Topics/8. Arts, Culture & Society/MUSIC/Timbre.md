@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Timbre
 *n.*
 > /ˈtæm.brə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Timbre::Âm sắc (đặc trưng của âm thanh/giọng nói) *(Phát âm: /ˈtæm.brə/)* ![[timbre.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Every musical instrument has a unique timbre that allows us to distinguish it from others.<br>*(-> Mỗi nhạc cụ có một âm sắc độc nhất cho phép chúng ta phân biệt nó với các nhạc cụ khác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The character or quality of a musical sound or voice as distinct from its pitch and intensity.

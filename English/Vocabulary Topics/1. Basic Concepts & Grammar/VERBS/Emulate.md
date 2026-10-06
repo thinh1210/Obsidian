@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Emulate
 *Verb*
 > /ˈem.jə.leɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Emulate::Noi gương, bắt chước *(Phát âm: /ˈem.jə.leɪt/)* ![[emulate.mp3]]<br><br>👪 **Word Family:** Emulation (n)<br><br>💬 **Ví dụ:** I try to emulate him.<br>*(-> Tôi cố gắng noi gương anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To copy something achieved by someone else and try to do it as well as they have.

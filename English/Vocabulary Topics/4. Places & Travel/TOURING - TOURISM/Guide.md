@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Guide
 *Noun/Verb*
 > /ɡaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Lưu trú, Dẫn đường & Cẩm nang
+
+## 🗂️ Flashcard
+Guide::Hướng dẫn viên / Hướng dẫn *(Phát âm: /ɡaɪd/)* ![[guide.mp3]]<br><br>👪 **Word Family:** guidance (n), guided (adj)<br><br>💬 **Ví dụ:** Our tour guide was very funny and informative.<br>*(-> Hướng dẫn viên du lịch của chúng tôi rất hài hước và am hiểu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose job is showing a place or a particular route to visitors.

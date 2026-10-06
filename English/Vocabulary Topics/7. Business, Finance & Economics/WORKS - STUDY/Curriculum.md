@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Curriculum
 *n.*
 > /kəˈrɪk.jə.ləm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Curriculum::Chương trình giảng dạy *(Phát âm: /kəˈrɪk.jə.ləm/)* ![[curriculum.mp3]]<br><br>👪 **Word Family:** curricular, extracurricular<br><br>💬 **Ví dụ:** The school is introducing a new science curriculum.<br>*(-> Trường học đang giới thiệu một chương trình giảng dạy khoa học mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The subjects comprising a course of study in a school or college

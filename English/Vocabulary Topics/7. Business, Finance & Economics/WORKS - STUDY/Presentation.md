@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Presentation
 *n.*
 > /ˌprez.ənˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Presentation::Bài thuyết trình, bài thuyết minh ý tưởng trước khán giả hoặc ban lãnh đạo *(Phát âm: /ˌprez.ənˈteɪ.ʃən/)* ![[presentation.mp3]]<br><br>👪 **Word Family:** present (v), presenter (n)<br><br>💬 **Ví dụ:** She rehearsed her slide presentation three times to ensure she stayed within the ten-minute limit.<br>*(-> Cô ấy tập dượt bài thuyết trình ba lần để chắc chắn nằm trong giới hạn 10 phút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal talk giving information and showing ideas to an audience through slides or speech.

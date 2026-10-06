@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Exclusion
 *n.*
 > /ɪkˈskluːʒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
+
+## 🗂️ Flashcard
+Exclusion::Điểm loại trừ, sự loại trừ *(Phát âm: /ɪkˈskluːʒn/)* ![[exclusion.mp3]]<br><br>👪 **Word Family:** exclude, exclusive, exclusively<br><br>💬 **Ví dụ:** War is a standard exclusion in almost all life insurance policies.<br>*(-> Chiến tranh là một điểm loại trừ tiêu chuẩn trong hầu hết các hợp đồng bảo hiểm nhân thọ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An item or condition that is not covered by an insurance policy.

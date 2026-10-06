@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Postmortem
 *noun / adjective*
 > /ˌpəʊst ˈmɔː.təm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Postmortem::Khám nghiệm sau khi chết / xảy ra sau cái chết *(Phát âm: /ˌpəʊst ˈmɔː.təm/)* ![[postmortem.mp3]]<br><br>👪 **Word Family:** postmortem (adv)<br><br>💬 **Ví dụ:** There was a postmortem meeting to discuss what went wrong with the project.<br>*(-> Đã có một cuộc họp sau dự án để thảo luận những gì đã sai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An examination of a body after death to determine cause; occurring or done after death.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Smart
 *adj.*
 > /smɑːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Smart::Gọn gàng, lịch sự *(Phát âm: /smɑːrt/)* ![[smart.mp3]]<br><br>👪 **Word Family:** Smartly (adv), Smartness (n)<br><br>💬 **Ví dụ:** You look very smart in that suit.<br>*(-> Bạn trông rất lịch sự trong bộ vest đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clean, tidy, and well dressed.

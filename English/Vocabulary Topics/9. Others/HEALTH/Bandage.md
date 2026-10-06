@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Bandage
 *n./v.*
 > /ˈbæn.dɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Bandage::Dải băng gạc y tế dùng để quấn, băng bó vết thương *(Phát âm: /ˈbæn.dɪdʒ/)* ![[bandage.mp3]]<br><br>👪 **Word Family:** bandaged (adj)<br><br>💬 **Ví dụ:** She wrapped a sterile bandage around her cut finger to keep it clean.<br>*(-> Cô ấy quấn một miếng băng vô trùng quanh ngón tay bị đứt để giữ sạch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long strip of cloth used to tie round a wound or injured part of the body.

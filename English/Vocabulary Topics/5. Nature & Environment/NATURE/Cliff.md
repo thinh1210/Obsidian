@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Cliff
 *n.*
 > /klɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Cliff::Vách đá dựng đứng hiểm trở, thường nằm sát bờ biển hoặc vực sâu *(Phát âm: /klɪf/)* ![[cliff.mp3]]<br><br>👪 **Word Family:** cliffhanger (n), cliffside (n)<br><br>💬 **Ví dụ:** Warning signs strictly advise tourists not to walk near the crumbly edge of the cliff.<br>*(-> Biển cảnh báo khuyến cáo du khách tuyệt đối không bước lại gần mép vách đá dễ sụt lún.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A steep, high rock face, especially at the edge of the sea.

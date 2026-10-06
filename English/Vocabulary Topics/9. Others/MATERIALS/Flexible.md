@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Flexible
 *adjective.*
 > /ˈfleksəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Flexible::Linh hoạt, dẻo, dễ uốn *(Phát âm: /ˈfleksəbl/)* ![[flexible.mp3]]<br><br>👪 **Word Family:** flexibility (Noun), flexibly (Adverb)<br><br>💬 **Ví dụ:** Use a flexible rubber hose to connect the water tank.<br>*(-> Sử dụng ống cao su mềm để nối bình nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Capable of bending easily without breaking; adaptable to change.

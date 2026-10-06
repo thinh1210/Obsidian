@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Cell
 *noun*
 > /sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Cell::Tế bào *(Phát âm: /sel/)* ![[cell.mp3]]<br><br>👪 **Word Family:** cellular, multcellular<br><br>💬 **Ví dụ:** Plant cells have a rigid cell wall.<br>*(-> Tế bào thực vật có vách tế bào cứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The smallest structural and functional unit of an organism, typically microscopic and containing cytoplasm and a nucleus in a membrane.

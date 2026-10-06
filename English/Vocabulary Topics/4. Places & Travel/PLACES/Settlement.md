@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Settlement
 *n.*
 > /ˈset̬.əl.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Settlement::Khu định cư *(Phát âm: /ˈset̬.əl.mənt/)* ![[settlement.mp3]]<br><br>👪 **Word Family:** settle (v), settler (n)<br><br>💬 **Ví dụ:** They found an ancient settlement in the jungle.<br>*(-> Họ tìm thấy một khu định cư cổ trong rừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place, typically one that has hitherto been uninhabited, where people establish a community.

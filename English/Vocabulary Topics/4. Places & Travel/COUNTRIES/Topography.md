@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Topography
 *Noun*
 > /təˈpɑːɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+Topography::Địa hình *(Phát âm: /təˈpɑːɡrəfi/)* ![[topography.mp3]]<br><br>👪 **Word Family:** Topographical<br><br>💬 **Ví dụ:** The topography of the island is very mountainous.<br>*(-> Địa hình của hòn đảo rất nhiều núi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of the natural and artificial physical features of an area.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Lexicon
 *noun*
 > /ˈlek.sɪ.kən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Lexicon::vốn từ, từ vựng (của một ngôn ngữ/ngành/người) *(Phát âm: /ˈlek.sɪ.kən/)* ![[lexicon.mp3]]<br><br>👪 **Word Family:** lexical (adj), lexicology (n)<br><br>💬 **Ví dụ:** Scientific terms have entered the everyday lexicon of the public.<br>*(-> Các thuật ngữ khoa học đã đi vào vốn từ hàng ngày của công chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** all the words that exist in a particular language or subject, or a dictionary of a language

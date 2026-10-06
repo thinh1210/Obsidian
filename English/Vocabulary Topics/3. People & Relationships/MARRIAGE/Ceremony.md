@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Ceremony
 *noun*
 > /ˈserəməni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Ceremony::Nghi lễ *(Phát âm: /ˈserəməni/)* ![[ceremony.mp3]]<br><br>👪 **Word Family:** Ceremonial (adjective)<br><br>💬 **Ví dụ:** The ceremony was beautiful.<br>*(-> Buổi lễ diễn ra rất đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal religious or public occasion, typically one celebrating a particular event.

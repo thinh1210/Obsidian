@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Specimen
 *noun*
 > /ˈspes.ɪ.mən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Specimen::Mẫu vật – mẫu của chất, sinh vật hoặc vật thể dùng để phân tích hoặc nghiên cứu khoa học *(Phát âm: /ˈspes.ɪ.mən/)* ![[specimen.mp3]]<br><br>👪 **Word Family:** species (related n), specific (adj), inspect (related v)<br><br>💬 **Ví dụ:** The nurse collected a blood specimen for the lab test.<br>*(-> Y tá thu thập mẫu máu để xét nghiệm phòng thí nghiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sample of a substance, organism, or object used for scientific analysis or study.

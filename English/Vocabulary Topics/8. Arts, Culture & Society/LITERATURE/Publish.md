@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Publish
 *verb*
 > /ˈpʌb.lɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Publish::Xuất bản, công bố *(Phát âm: /ˈpʌb.lɪʃ/)* ![[publish.mp3]]<br><br>👪 **Word Family:** publisher (n), publication (n), publishing (n)<br><br>💬 **Ví dụ:** They plan to publish her new novel next summer.<br>*(-> Họ kế hoạch xuất bản cuốn tiểu thuyết mới của cô ấy vào mùa hè tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Prepare and issue a book, journal, or other work for public sale.

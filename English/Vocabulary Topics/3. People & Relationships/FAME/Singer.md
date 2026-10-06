@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Singer
 *n.*
 > /ˈsɪŋər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Singer::Ca sĩ *(Phát âm: /ˈsɪŋər/)* ![[singer.mp3]]<br><br>👪 **Word Family:** sing (v.)<br><br>💬 **Ví dụ:** She is a pop singer.<br>*(-> Cô ấy là ca sĩ nhạc pop.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who sings.

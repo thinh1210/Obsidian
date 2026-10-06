@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Brown
 *adj, n*
 > /braʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Brown::Màu nâu *(Phát âm: /braʊn/)* ![[brown.mp3]]<br><br>👪 **Word Family:** brownish (adj)<br><br>💬 **Ví dụ:** He has dark brown eyes.<br>*(-> Anh ấy có đôi mắt màu nâu đen.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The color of earth, wood, or coffee.

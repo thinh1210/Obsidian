@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Paradigm
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - model, pattern, archetype
+
+
+## 🗂️ Flashcard
+Paradigm::Hệ hình, mô hình mẫu, khuôn mẫu *(Phát âm: /ˈpær.ə.daɪm/)* ![[paradigm.mp3]]<br><br>👪 **Word Family:** [Noun]: paradigm, [Adj]: paradigmatic, [Adv]: paradigmatically<br><br>💬 **Ví dụ:** The shift in technology created a new paradigm for business.<br>*(-> Sự chuyển dịch công nghệ đã tạo ra một mô hình mới cho kinh doanh.)*

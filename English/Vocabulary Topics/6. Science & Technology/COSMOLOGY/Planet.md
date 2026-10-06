@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Planet
 *Noun*
 > /ˈplæn.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Planet::Hành tinh *(Phát âm: /ˈplæn.ɪt/)* ![[planet.mp3]]<br><br>👪 **Word Family:** planetary (adj)<br><br>💬 **Ví dụ:** Is Mars the closest planet to Earth?<br>*(-> Hỏa tinh có phải là hành tinh gần Trái Đất nhất không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large round object in space that moves around the sun or another star.

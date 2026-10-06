@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Relationship
 *noun*
 > /rɪˈleɪʃnʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Relationship::Mối quan hệ *(Phát âm: /rɪˈleɪʃnʃɪp/)* ![[relationship.mp3]]<br><br>👪 **Word Family:** Relate (verb)<br><br>💬 **Ví dụ:** They are in a serious relationship.<br>*(-> Họ đang trong một mối quan hệ nghiêm túc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which two or more people or groups regard and behave towards each other.

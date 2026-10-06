@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Trial
 *noun*
 > /traɪəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Trial::Phiên tòa xét xử *(Phát âm: /traɪəl/)* ![[trial.mp3]]<br><br>👪 **Word Family:** Trial (n), Try (v)<br><br>💬 **Ví dụ:** The murder trial is expected to last for at least three weeks.<br>*(-> Phiên tòa xét xử tội giết người dự kiến sẽ kéo dài ít nhất ba tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal examination of evidence before a judge, and typically before a jury, in order to decide guilt in a case of criminal or civil proceedings.

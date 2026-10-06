@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Quarter
 *n.*
 > /ˈkwɔː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Quarter::Một quý (3 tháng trong kinh doanh/tài chính); một phần tư (giờ, số lượng) *(Phát âm: /ˈkwɔː.tər/)* ![[quarter.mp3]]<br><br>👪 **Word Family:** quarterly (adj/adv)<br><br>💬 **Ví dụ:** The train departs at a quarter past eight, so we must leave the hotel now.<br>*(-> Chuyến tàu khởi hành lúc tám giờ mười lăm, vì vậy chúng ta phải rời khách sạn ngay bây giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of four three-month periods into which a financial or calendar year is divided; one fourth part.

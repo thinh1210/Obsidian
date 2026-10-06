@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Avant-garde
 *adj.*
 > /ˌævɒ̃ ˈɡɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Avant-garde::Tiên phong, đi trước thời đại *(Phát âm: /ˌævɒ̃ ˈɡɑːd/)* ![[avant_garde.mp3]]<br><br>👪 **Word Family:** avant-gardism, avant-gardist<br><br>💬 **Ví dụ:** I don't really understand avant-garde fashion.<br>*(-> Tôi thực sự không hiểu thời trang tiên phong.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Favoring or introducing experimental or unusual ideas, especially in the arts.

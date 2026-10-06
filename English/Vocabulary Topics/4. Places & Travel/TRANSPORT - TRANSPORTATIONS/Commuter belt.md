@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Commuter belt
 *noun*
 > /kəˈmjuːtər belt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Commuter belt::Vành đai cư dân đi làm (khu vực ngoại ô có nhiều người đi làm ở trung tâm thành phố) *(Phát âm: /kəˈmjuːtər belt/)* ![[commuter_belt.mp3]]<br><br>👪 **Word Family:** Noun: commuter belt (vành đai cư dân đi làm)<br><br>💬 **Ví dụ:** House prices are rising rapidly in the London commuter belt.<br>*(-> Giá nhà đang tăng nhanh chóng ở vành đai cư dân đi làm quanh Luân Đôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area surrounding a large city where many people who work in that city live.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Viscosity
 *noun*
 > /vɪˈskɒs.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Viscosity::Độ nhớt *(Phát âm: /vɪˈskɒs.ə.ti/)* ![[viscosity.mp3]]<br><br>👪 **Word Family:** viscous (adj)<br><br>💬 **Ví dụ:** Honey has a much higher viscosity than water.<br>*(-> Mật ong có độ nhớt cao hơn nhiều so với nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being thick, sticky, and semi-fluid in consistency, due to internal friction.

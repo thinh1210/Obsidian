@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # maverick
 *n.*
 > /ˈmæv.ər.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Maverick::Kẻ lập dị độc lập, người không tuân theo quy tắc chung *(Phát âm: /ˈmæv.ər.ɪk/)* ![[maverick.mp3]]<br><br>👪 **Word Family:** maverick (adj)<br><br>💬 **Ví dụ:** He is a maverick who refuses to conform to corporate culture.<br>*(-> Anh ấy là một người độc lập phá cách, từ chối tuân theo văn hóa doanh nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An unorthodox or independent-minded person who does not follow the rules

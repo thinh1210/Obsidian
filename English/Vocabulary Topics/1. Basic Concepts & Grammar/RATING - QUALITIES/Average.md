@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Average
 *adj*
 > /ˈæv.ər.ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Average::Trung bình *(Phát âm: /ˈæv.ər.ɪdʒ/)* ![[average.mp3]]<br><br>👪 **Word Family:** Average (noun)<br><br>💬 **Ví dụ:** He is of average height.<br>*(-> Anh ấy có chiều cao trung bình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of the usual or ordinary standard, level, or quantity.

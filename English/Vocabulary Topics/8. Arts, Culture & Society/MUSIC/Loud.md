@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Loud
 *adj.*
 > /laʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Loud::To, ầm ĩ (âm thanh) *(Phát âm: /laʊd/)* ![[loud.mp3]]<br><br>👪 **Word Family:** loudly (adv), loudness (n)<br><br>💬 **Ví dụ:** The music is too loud, can you turn it down?<br>*(-> Nhạc to quá, bạn có thể vặn nhỏ lại không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing or capable of producing much noise; easily heard.

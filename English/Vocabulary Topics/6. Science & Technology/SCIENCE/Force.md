@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Force
 *noun / verb*
 > /fɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Force::Lực – sự đẩy hoặc kéo có thể thay đổi chuyển động hoặc hình dạng của vật thể *(Phát âm: /fɔːs/)* ![[force.mp3]]<br><br>👪 **Word Family:** forceful (adj), forcefully (adv), enforce (v), reinforce (v)<br><br>💬 **Ví dụ:** You need force to push a heavy door open.<br>*(-> Bạn cần dùng lực để đẩy cánh cửa nặng mở ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A push or pull that can change the motion or shape of an object.

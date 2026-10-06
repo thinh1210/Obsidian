@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Shop
 *verb*
 > /ʃɑːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Shop::Mua sắm *(Phát âm: /ʃɑːp/)* ![[shop.mp3]]<br><br>👪 **Word Family:** shop (n), shopper (n), shopping (n)<br><br>💬 **Ví dụ:** I prefer to shop for groceries early in the morning when it is quiet.<br>*(-> Tôi thích đi mua sắm thực phẩm vào sáng sớm khi trời còn yên tĩnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To visit one or more stores for the purpose of buying goods

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Sports
 *noun*
 > /spɔːts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Giáo dục thể chất, Thể thao & Vận động
+
+## 🗂️ Flashcard
+Sports::Thể dục, môn Thể thao *(Phát âm: /spɔːts/)* ![[sports.mp3]]<br><br>👪 **Word Family:** sporting, sporty, sportsman<br><br>💬 **Ví dụ:** Sports are great for keeping active at school.<br>*(-> Thể thao rất tuyệt để duy trì sự năng động ở trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical activities and games that involve physical exertion and skill.

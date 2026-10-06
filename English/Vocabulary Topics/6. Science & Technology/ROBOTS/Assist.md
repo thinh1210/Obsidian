@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Assist
 *verb.*
 > /l/əˈsɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Assist::Hỗ trợ, giúp đỡ *(Phát âm: /l/əˈsɪst/)* ![[assist.mp3]]<br><br>👪 **Word Family:** assistance (noun), assistant (noun)<br><br>💬 **Ví dụ:** Robotic arms assist surgeons in performing delicate operations.<br>*(-> Các cánh tay robot hỗ trợ các bác sĩ phẫu thuật thực hiện các ca phẫu thuật tinh vi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To help someone, typically by doing a share of the work

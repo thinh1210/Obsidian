@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Praxis
 *n.*
 > /ˈpræk.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Tinh thần tự học, Tri thức luận & Thực tiễn học thuật
+
+## 🗂️ Flashcard
+Praxis::Thực hành lý thuyết, hành động có lý luận *(Phát âm: /ˈpræk.sɪs/)* ![[praxis.mp3]]<br><br>👪 **Word Family:** praxis (n), practice (n/v), practical (adj)<br><br>💬 **Ví dụ:** Good teaching bridges theory and praxis.<br>*(-> Dạy học tốt kết nối lý thuyết và thực hành.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which a theory or lesson is enacted or practiced; the application of theory to action.

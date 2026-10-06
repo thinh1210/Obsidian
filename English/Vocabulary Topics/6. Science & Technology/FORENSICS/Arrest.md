@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Arrest
 *noun / verb*
 > /əˈrest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Arrest::Bắt giữ / thực hiện lệnh bắt *(Phát âm: /əˈrest/)* ![[arrest.mp3]]<br><br>👪 **Word Family:** arrestable (adj), arrested (adj)<br><br>💬 **Ví dụ:** The police made an arrest after three days of investigation.<br>*(-> Cảnh sát đã thực hiện vụ bắt giữ sau ba ngày điều tra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take someone into custody legally; the act of doing so.

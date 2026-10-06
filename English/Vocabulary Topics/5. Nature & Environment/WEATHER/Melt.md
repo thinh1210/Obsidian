@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Melt
 *v.*
 > /melt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Melt::Tan rã, tan chảy từ dạng băng tuyết thành nước khi trời ấm lên *(Phát âm: /melt/)* ![[melt.mp3]]<br><br>👪 **Word Family:** melted (adj), molten (adj), melting (n)<br><br>💬 **Ví dụ:** As noon approached, the thick snow on the roof began to melt.<br>*(-> Khi buổi trưa tới gần, lớp tuyết dày trên mái nhà bắt đầu tan chảy nhỏ giọt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become liquid from a solid state as a result of rising temperature.

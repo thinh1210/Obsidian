@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Video
 *noun*
 > /ˈvɪdiəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Video::Đoạn phim, video *(Phát âm: /ˈvɪdiəʊ/)* ![[video.mp3]]<br><br>👪 **Word Family:** video (v)<br><br>💬 **Ví dụ:** I spend too much time watching videos of cats online.<br>*(-> Tôi dành quá nhiều thời gian để xem các video về mèo trên mạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recording of moving visual images, widely shared on social networks

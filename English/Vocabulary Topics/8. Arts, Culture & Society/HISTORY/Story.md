@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Story
 *noun*
 > /ˈstɔː.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Story::Câu chuyện, câu chuyện lịch sử *(Phát âm: /ˈstɔː.ri/)* ![[story.mp3]]<br><br>👪 **Word Family:** storyteller (n), storytelling (n)<br><br>💬 **Ví dụ:** My grandfather told us a fascinating story about the war.<br>*(-> Ông tôi đã kể cho chúng tôi nghe một câu chuyện hấp dẫn về chiến tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An account of imaginary or real people and events told for entertainment.

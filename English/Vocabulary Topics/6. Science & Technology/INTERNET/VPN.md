@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # VPN
 *noun*
 > /ˌviː.piːˈen/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
+
+## 🗂️ Flashcard
+VPN::Mạng riêng ảo (VPN) *(Phát âm: /ˌviː.piːˈen/)* ![[vpn.mp3]]<br><br>👪 **Word Family:** VPN (n), virtual (adj), private (adj)<br><br>💬 **Ví dụ:** He uses a VPN when working from coffee shops to protect his data.<br>*(-> Anh ấy dùng VPN khi làm việc tại quán cà phê để bảo vệ dữ liệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Virtual Private Network; a service that encrypts your Internet connection and hides your IP address for privacy and security.

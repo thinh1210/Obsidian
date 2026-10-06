@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Syntax
 *noun*
 > /ˈsɪn.tæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Syntax::Cú pháp *(Phát âm: /ˈsɪn.tæks/)* ![[syntax.mp3]]<br><br>👪 **Word Family:** Syntactic (adj), Syntactically (adv)<br><br>💬 **Ví dụ:** I missed a semicolon, so it gave me a syntax error.<br>*(-> Tôi thiếu một dấu chấm phẩy, nên nó báo lỗi cú pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The rules that state how words and phrases must be used in a computer language.

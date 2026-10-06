@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Wholesale
 *n/adj*
 > /ˈhəʊl.seɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Wholesale::Bán buôn *(Phát âm: /ˈhəʊl.seɪl/)* ![[wholesale.mp3]]<br><br>👪 **Word Family:** Wholesaler<br><br>💬 **Ví dụ:** They buy wholesale.<br>*(-> Họ mua giá sỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Selling goods in large quantities

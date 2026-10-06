@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Boardgame
 *n*
 > /ˈbɔːd ɡeɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Boardgame::Trò chơi cờ bàn *(Phát âm: /ˈbɔːd ɡeɪm/)* ![[boardgame.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Monopoly is my favorite boardgame.<br>*(-> Cờ tỷ phú là trò chơi cờ bàn yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game played on a board by people moving pieces.

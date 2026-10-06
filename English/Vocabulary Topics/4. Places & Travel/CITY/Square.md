@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Square
 *n.*
 > /skweər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Square::Khu đất rộng rãi, thoáng đãng giữa đô thị để tụ họp công cộng *(Phát âm: /skweər/)* ![[square.mp3]]<br><br>👪 **Word Family:** square (adj/v)<br><br>💬 **Ví dụ:** Crowds gathered in the town square to welcome the New Year.<br>*(-> Người dân đổ về quảng trường trung tâm để đón chào năm mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An open, typically four-sided area surrounded by buildings in a town or city.

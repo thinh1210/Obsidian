@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Student
 *n.*
 > /ˈstjuː.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Student::Học sinh, sinh viên *(Phát âm: /ˈstjuː.dənt/)* ![[student.mp3]]<br><br>👪 **Word Family:** study, studious<br><br>💬 **Ví dụ:** The students are listening to the teacher.<br>*(-> Các học sinh đang lắng nghe giáo viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who is studying at a school or university

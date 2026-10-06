@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Weekday
 *noun*
 > /ˈwiːkdeɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Weekday::Ngày trong tuần (từ Thứ Hai đến Thứ Sáu) *(Phát âm: /ˈwiːkdeɪ/)* ![[weekday.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Traffic is heavy on weekdays.<br>*(-> Giao thông đông đúc vào các ngày trong tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any day of the week except Sunday and Saturday.

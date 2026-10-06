@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Suburb
 *n.*
 > /ˈsʌbɜːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Suburb::Vùng ngoại ô *(Phát âm: /ˈsʌbɜːb/)* ![[suburb.mp3]]<br><br>👪 **Word Family:** suburban (adj), suburbanite (n)<br><br>💬 **Ví dụ:** They moved to a quiet suburb to raise their children.<br>*(-> Họ đã chuyển đến một vùng ngoại ô yên tĩnh để nuôi dạy con cái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An outlying district of a city, especially a residential one.

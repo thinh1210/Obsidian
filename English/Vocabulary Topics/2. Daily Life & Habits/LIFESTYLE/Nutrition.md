@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Nutrition
 *n.*
 > /njuˈtrɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Nutrition::Dinh dưỡng *(Phát âm: /njuˈtrɪʃn/)* ![[nutrition.mp3]]<br><br>👪 **Word Family:** nutritious (adj.)<br><br>💬 **Ví dụ:** Good nutrition is essential.<br>*(-> Dinh dưỡng tốt là cần thiết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of providing or obtaining the food necessary for health and growth.

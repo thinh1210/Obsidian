@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Amateur
 *Noun/Adj*
 > /ˈæm.ə.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Amateur::Người nghiệp dư, không chuyên *(Phát âm: /ˈæm.ə.tər/)* ![[amateur.mp3]]<br><br>👪 **Word Family:** Amateurish (Adj): Có tính nghiệp dư<br><br>💬 **Ví dụ:** He was an amateur singer until he was discovered.<br>*(-> Anh ấy là ca sĩ nghiệp dư cho đến khi được phát hiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Taking part in an activity for pleasure, not as a job.

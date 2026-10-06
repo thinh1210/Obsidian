@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Tomato
 *n.*
 > /təˈmɑː.təʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Tomato::Quả cà chua *(Phát âm: /təˈmɑː.təʊ/)* ![[tomato.mp3]]<br><br>👪 **Word Family:** tomatoes (pl)<br><br>💬 **Ví dụ:** Add some sliced tomatoes and lettuce to make the sandwich crispier.<br>*(-> Thêm vài lát cà chua và xà lách để món bánh mì kẹp giòn hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A round, red fruit with a lot of seeds, eaten cooked or uncooked as a vegetable.

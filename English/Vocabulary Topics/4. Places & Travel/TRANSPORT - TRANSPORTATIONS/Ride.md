@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Ride
 *verb*
 > /raɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Ride::Đi (xe đạp, xe máy, ngựa) *(Phát âm: /raɪd/)* ![[ride.mp3]]<br><br>👪 **Word Family:** Verb: ride (đi xe), Noun: ride (chuyến đi nhờ), rider (người lái xe/cưỡi ngựa)<br><br>💬 **Ví dụ:** I learned to ride a bicycle when I was six years old.<br>*(-> Tôi đã học đi xe đạp từ khi tôi sáu tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sit on and control the movement of (a bicycle, motorcycle, or horse).

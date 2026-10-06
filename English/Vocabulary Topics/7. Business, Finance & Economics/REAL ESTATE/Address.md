@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Address
 *n.*
 > /əˈdres/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Address::Địa chỉ *(Phát âm: /əˈdres/)* ![[address.mp3]]<br><br>👪 **Word Family:** address (v)<br><br>💬 **Ví dụ:** Please write your home address on the application form.<br>*(-> Vui lòng viết địa chỉ nhà của bạn vào mẫu đơn đăng ký.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The particulars of the place where someone lives or an organization is situated.

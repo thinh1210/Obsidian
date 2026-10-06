@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Tie
 *noun*
 > /taɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Tie::Cà vạt *(Phát âm: /taɪ/)* ![[tie.mp3]]<br><br>👪 **Word Family:** untie (v)<br><br>💬 **Ví dụ:** He wore a blue tie.<br>*(-> Anh ấy thắt cà vạt xanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of string, cord, etc. used for fastening or tying something (necktie).

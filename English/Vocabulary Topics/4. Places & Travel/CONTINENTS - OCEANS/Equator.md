@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Equator
 *noun*
 > /ɪˈkweɪtə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Equator::Đường xích đạo *(Phát âm: /ɪˈkweɪtə(r)/)* ![[equator.mp3]]<br><br>👪 **Word Family:** Equatorial (adj.)<br><br>💬 **Ví dụ:** Countries near the equator are usually very hot.<br>*(-> Các quốc gia gần xích đạo thường rất nóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An imaginary line drawn around the earth equally distant from both poles.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Bimonthly
 *adj, adv*
 > /ˌbaɪˈmʌnθli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Bimonthly::Hai tháng một lần / Một tháng hai lần *(Phát âm: /ˌbaɪˈmʌnθli/)* ![[bimonthly.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We hold bimonthly meetings.<br>*(-> Chúng tôi tổ chức họp hai tháng một lần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring twice a month or every two months.

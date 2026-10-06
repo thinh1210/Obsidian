@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Immerse
 *Verb*
 > /ɪˈmɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Immerse::Đắm chìm, hòa mình vào *(Phát âm: /ɪˈmɜːs/)* ![[immerse.mp3]]<br><br>👪 **Word Family:** Immersion (Noun): Sự đắm chìm, Immersive (Adjective): Mang tính đắm chìm, lôi cuốn<br><br>💬 **Ví dụ:** She got some books out of the library and immersed herself in local history.<br>*(-> Cô ấy mượn vài cuốn sách từ thư viện và đắm chìm vào lịch sử địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become completely involved in something.

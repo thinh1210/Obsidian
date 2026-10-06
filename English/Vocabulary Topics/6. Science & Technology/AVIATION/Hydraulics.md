@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Hydraulics
 *noun*
 > /haɪˈdrɒl.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Hydraulics::Hệ thống thủy lực *(Phát âm: /haɪˈdrɒl.ɪks/)* ![[hydraulics.mp3]]<br><br>👪 **Word Family:** hydraulic (adj), actuator (n), fluid (n)<br><br>💬 **Ví dụ:** The co-pilot reported a complete hydraulic failure on approach to the runway.<br>*(-> Cơ phó báo cáo hỏng hoàn toàn hệ thống thủy lực khi đang tiếp cận đường băng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system in an aircraft that uses fluid under pressure to power flight controls, brakes, and landing gear.

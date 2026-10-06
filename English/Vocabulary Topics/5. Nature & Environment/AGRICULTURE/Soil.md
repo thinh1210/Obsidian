@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Soil
 *n.*
 > /sɔɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Soil::Đất trồng, thổ nhưỡng *(Phát âm: /sɔɪl/)* ![[soil.mp3]]<br><br>👪 **Word Family:** soil (v), soilless (adj)<br><br>💬 **Ví dụ:** Healthy soil is the key to growing beautiful vegetables.<br>*(-> Đất tốt là chìa khóa để trồng được các loại rau đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The top layer of the earth in which plants grow.

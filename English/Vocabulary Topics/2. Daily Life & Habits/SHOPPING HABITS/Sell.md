@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Sell
 *v*
 > /sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Sell::Bán *(Phát âm: /sel/)* ![[sell.mp3]]<br><br>👪 **Word Family:** Seller<br><br>💬 **Ví dụ:** They sell bags.<br>*(-> Họ bán túi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something for money

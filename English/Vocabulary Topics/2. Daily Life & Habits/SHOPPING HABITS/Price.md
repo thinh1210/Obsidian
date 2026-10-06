@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Price
 *n*
 > /praɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Price::Giá cả *(Phát âm: /praɪs/)* ![[price.mp3]]<br><br>👪 **Word Family:** Pricy<br><br>💬 **Ví dụ:** What is the price?<br>*(-> Giá bao nhiêu?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money you pay

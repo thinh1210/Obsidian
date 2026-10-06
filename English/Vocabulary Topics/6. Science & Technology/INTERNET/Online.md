@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Online
 *adjective / adverb*
 > /ˌɒnˈlaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Online::Trực tuyến, online *(Phát âm: /ˌɒnˈlaɪn/)* ![[online.mp3]]<br><br>👪 **Word Family:** online (adj/adv), offline (adj/adv)<br><br>💬 **Ví dụ:** She buys most of her clothes online.<br>*(-> Cô ấy mua hầu hết quần áo trực tuyến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Connected to the Internet; taking place or available on the Internet.

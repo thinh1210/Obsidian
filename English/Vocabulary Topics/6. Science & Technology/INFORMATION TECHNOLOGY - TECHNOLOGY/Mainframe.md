@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Mainframe
 *n.*
 > /ˈmeɪnfreɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Mainframe::Máy tính lớn, máy chủ trung tâm *(Phát âm: /ˈmeɪnfreɪm/)* ![[mainframe.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The bank uses a mainframe to process millions of transactions a day.<br>*(-> Ngân hàng sử dụng một máy tính trung tâm để xử lý hàng triệu giao dịch mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, powerful computer used by a large organization for bulk data processing.

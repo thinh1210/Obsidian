@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Listen
 *v.*
 > /ˈlɪs.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Listen::Nghe, lắng nghe *(Phát âm: /ˈlɪs.ən/)* ![[listen.mp3]]<br><br>👪 **Word Family:** listener (n)<br><br>💬 **Ví dụ:** I like to listen to the radio while cooking.<br>*(-> Tôi thích nghe đài trong khi nấu ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Give one's attention to a sound.

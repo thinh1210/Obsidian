@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Cap
 *noun*
 > /kæp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Cap::Mũ lưỡi trai *(Phát âm: /kæp/)* ![[cap.mp3]]<br><br>👪 **Word Family:** Capped (adj)<br><br>💬 **Ví dụ:** He always wears a baseball cap.<br>*(-> Anh ấy luôn đội mũ bóng chày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of soft flat hat with a peak.

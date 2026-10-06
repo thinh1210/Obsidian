@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Space
 *Noun*
 > /speɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Space::Không gian, vũ trụ *(Phát âm: /speɪs/)* ![[space.mp3]]<br><br>👪 **Word Family:** spacious (adj), spatial (adj)<br><br>💬 **Ví dụ:** Do you want to travel to space?<br>*(-> Bạn có muốn du hành vào vũ trụ không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The dimensions of height, depth, and width within which all things exist and move; outer space.

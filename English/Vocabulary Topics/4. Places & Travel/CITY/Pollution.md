@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Pollution
 *n.*
 > /pəˈluːʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Pollution::Sự ô nhiễm *(Phát âm: /pəˈluːʃn/)* ![[pollution.mp3]]<br><br>👪 **Word Family:** pollute (v)<br><br>💬 **Ví dụ:** The city has a lot of pollution.<br>*(-> Thành phố có rất nhiều ô nhiễm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Damage caused to water, air, etc. by harmful substances.

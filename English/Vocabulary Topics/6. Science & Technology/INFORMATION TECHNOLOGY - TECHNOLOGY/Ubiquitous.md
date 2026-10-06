@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Ubiquitous
 *adj*
 > /juːˈbɪk.wɪ.təs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Ubiquitous::Có mặt ở khắp mọi nơi *(Phát âm: /juːˈbɪk.wɪ.təs/)* ![[ubiquitous.mp3]]<br><br>👪 **Word Family:** Ubiquity (n)<br><br>💬 **Ví dụ:** Smartphones have become ubiquitous in modern society.<br>*(-> Điện thoại thông minh đã trở nên phổ biến ở khắp mọi nơi trong xã hội hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Seeming to be everywhere.

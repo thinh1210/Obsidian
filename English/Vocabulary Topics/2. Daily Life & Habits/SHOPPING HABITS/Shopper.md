@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Shopper
 *n.*
 > /ˈʃɒp.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Shopper::Người đi mua hàng, khách mua sắm *(Phát âm: /ˈʃɒp.ər/)* ![[shopper.mp3]]<br><br>👪 **Word Family:** shop (v/n), shopping (n)<br><br>💬 **Ví dụ:** Eager holiday shoppers flooded the pedestrian mall seeking early discounts.<br>*(-> Những người mua sắm háo hức tràn ngập khu phố đi bộ để săn những ưu đãi sớm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is buying things from a shop or website.

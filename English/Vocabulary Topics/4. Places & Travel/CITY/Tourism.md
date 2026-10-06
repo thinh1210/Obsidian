@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Tourism
 *n.*
 > /ˈtʊərɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Tourism::Ngành du lịch *(Phát âm: /ˈtʊərɪzəm/)* ![[tourism.mp3]]<br><br>👪 **Word Family:** tourist (n)<br><br>💬 **Ví dụ:** Tourism brings money to the city.<br>*(-> Du lịch mang lại tiền bạc cho thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The business of providing services for people on holiday.

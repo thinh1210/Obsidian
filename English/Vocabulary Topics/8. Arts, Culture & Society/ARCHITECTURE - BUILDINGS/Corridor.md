@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Corridor
 *n.*
 > /ˈkɒrɪdɔː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Corridor::Hành lang *(Phát âm: /ˈkɒrɪdɔː(r)/)* ![[corridor.mp3]]<br><br>👪 **Word Family:** corridored<br><br>💬 **Ví dụ:** She walked down the long corridor to the classroom.<br>*(-> Cô ấy đi dọc theo hành lang dài để đến lớp học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A long passage in a building from which doors lead into rooms

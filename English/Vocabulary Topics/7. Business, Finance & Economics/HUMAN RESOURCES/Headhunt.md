@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Headhunt
 *v.*
 > /ˈhed.hʌnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Headhunt::Săn đầu người, chiêu mộ nhân tài *(Phát âm: /ˈhed.hʌnt/)* ![[headhunt.mp3]]<br><br>👪 **Word Family:** headhunter, headhunting<br><br>💬 **Ví dụ:** She was headhunted by a rival company for the CEO position.<br>*(-> Cô ấy đã được một công ty đối thủ săn đầu người cho vị trí CEO.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To recruit top personnel who are currently employed elsewhere

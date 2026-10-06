@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Badminton
 *n.*
 > /ˈbæd.mɪn.tən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Badminton::Môn cầu lông dùng vợt đánh quả cầu lông qua lưới *(Phát âm: /ˈbæd.mɪn.tən/)* ![[badminton.mp3]]<br><br>💬 **Ví dụ:** My father and his neighbors play badminton in the park every morning at sunrise.<br>*(-> Bố tôi và mấy bác hàng xóm chơi cầu lông trong công viên vào mỗi sáng lúc bình minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game with rackets in which a shuttlecock is played back and forth across a high net.

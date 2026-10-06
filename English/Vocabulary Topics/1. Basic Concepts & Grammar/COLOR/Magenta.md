@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Magenta
 *n, adj*
 > /məˈdʒen.tə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Technical | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Magenta::Màu đỏ sẫm, màu đỏ tía *(Phát âm: /məˈdʒen.tə/)* ![[magenta.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The printer is out of magenta ink.<br>*(-> Máy in đã hết mực đỏ tía.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep purplish-red color.

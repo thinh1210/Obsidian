@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Bustling
 *adj.*
 > /ˈbʌslɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Bustling::Nhộn nhịp *(Phát âm: /ˈbʌslɪŋ/)* ![[bustling.mp3]]<br><br>👪 **Word Family:** bustle (v)<br><br>💬 **Ví dụ:** I love the bustling city.<br>*(-> Tôi yêu thành phố nhộn nhịp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Full of busy activity.

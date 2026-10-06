@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Yoga
 *n.*
 > /ˈjəʊ.ɡə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Yoga::Môn luyện tập kết hợp các tư thế cơ thể, điều hòa hơi thở và thiền định tĩnh tâm *(Phát âm: /ˈjəʊ.ɡə/)* ![[yoga.mp3]]<br><br>👪 **Word Family:** yogi (n)<br><br>💬 **Ví dụ:** I roll out my mat every sunrise to do thirty minutes of gentle restorative yoga.<br>*(-> Tôi trải thảm mỗi sáng lúc bình minh để tập 30 phút yoga phục hồi nhẹ nhàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A Hindu spiritual and ascetic discipline involving breath control, simple meditation, and specific bodily postures.

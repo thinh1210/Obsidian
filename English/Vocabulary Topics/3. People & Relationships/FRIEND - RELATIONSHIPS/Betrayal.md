@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Betrayal
 *n.*
 > /bɪˈtreɪ.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Betrayal::Sự phản bội, đâm sau lưng người bạn đã hết lòng tin tưởng mình *(Phát âm: /bɪˈtreɪ.əl/)* ![[betrayal.mp3]]<br><br>👪 **Word Family:** betray (v), betrayer (n)<br><br>💬 **Ví dụ:** Spreading confidential rumors behind her back was seen as a cruel betrayal of their friendship.<br>*(-> Lan truyền tin đồn sau lưng cô ấy bị coi là sự phản bội tàn nhẫn đối với tình bạn của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of being disloyal to a friend who trusts you, especially by telling a secret or breaking faith.

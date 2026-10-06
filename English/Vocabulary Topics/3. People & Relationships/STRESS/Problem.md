@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Problem
 *n.*
 > /ˈprɒbləm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Problem::Vấn đề *(Phát âm: /ˈprɒbləm/)* ![[problem.mp3]]<br><br>👪 **Word Family:** problematic (adj)<br><br>💬 **Ví dụ:** We have a big problem.<br>*(-> Chúng ta có một vấn đề lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A matter or situation regarded as unwelcome or harmful

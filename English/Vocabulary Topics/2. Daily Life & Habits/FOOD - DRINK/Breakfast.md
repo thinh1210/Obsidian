@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Breakfast
 *n.*
 > /ˈbrek.fəst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Breakfast::Bữa điểm tâm sáng *(Phát âm: /ˈbrek.fəst/)* ![[breakfast.mp3]]<br><br>💬 **Ví dụ:** Never skip breakfast, as it provides the sustained energy you need all morning.<br>*(-> Đừng bao giờ bỏ bữa sáng, vì nó cung cấp nguồn năng lượng bền bỉ cho cả buổi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The first meal of the day, typically eaten in the morning.

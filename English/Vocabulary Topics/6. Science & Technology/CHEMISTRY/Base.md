@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Base
 *noun*
 > /beɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Base::Bazơ *(Phát âm: /beɪs/)* ![[base.mp3]]<br><br>👪 **Word Family:** basic (adj), basicity (n)<br><br>💬 **Ví dụ:** Soap is a mild base, which is why it feels slippery.<br>*(-> Xà phòng là một bazơ nhẹ, đó là lý do tại sao nó có cảm giác trơn nhớt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that can accept hydrogen ions or donate a pair of valence electrons, having a pH greater than 7.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Motivation
 *n.*
 > /ˌməʊ.tɪˈveɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Motivation::Động lực *(Phát âm: /ˌməʊ.tɪˈveɪ.ʃən/)* ![[motivation.mp3]]<br><br>👪 **Word Family:** motivate, motive<br><br>💬 **Ví dụ:** What is your motivation for learning English?<br>*(-> Động lực học tiếng Anh của bạn là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The reason or reasons one has for acting or behaving in a particular way

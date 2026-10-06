@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Mixture
 *noun*
 > /ˈmɪks.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Mixture::Hỗn hợp *(Phát âm: /ˈmɪks.tʃər/)* ![[mixture.mp3]]<br><br>👪 **Word Family:** mix (v), mixed (adj), mixer (n)<br><br>💬 **Ví dụ:** Air is a mixture of gases, primarily nitrogen and oxygen.<br>*(-> Không khí là một hỗn hợp của các chất khí, chủ yếu là nitơ và oxy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance made by mixing other substances together, where the individual components retain their chemical identities.

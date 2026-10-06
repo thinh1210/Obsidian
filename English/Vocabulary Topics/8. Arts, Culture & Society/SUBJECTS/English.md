@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # English
 *noun*
 > /ˈɪŋɡlɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+English::Tiếng Anh, môn Tiếng Anh *(Phát âm: /ˈɪŋɡlɪʃ/)* ![[english.mp3]]<br><br>👪 **Word Family:** Anglophone (adj./n. - người/nơi nói tiếng Anh), Englishman/Englishwoman (n.)<br><br>💬 **Ví dụ:** We practice speaking English every day.<br>*(-> Chúng tôi luyện nói tiếng Anh mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The language spoken in the UK, the US, and many other countries.

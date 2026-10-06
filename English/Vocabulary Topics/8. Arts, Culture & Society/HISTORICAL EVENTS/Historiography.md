@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Historiography
 *noun*
 > /hɪˌstɒr.iˈɒɡ.rə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Historiography::Sử học, phép chép sử *(Phát âm: /hɪˌstɒr.iˈɒɡ.rə.fi/)* ![[historiography.mp3]]<br><br>👪 **Word Family:** historiographer (noun), historiographical (adj)<br><br>💬 **Ví dụ:** In college, we studied historiography to understand why different textbooks tell different versions of the past.<br>*(-> Ở trường đại học, chúng tôi đã học sử học để hiểu tại sao các sách giáo khoa khác nhau lại kể các phiên bản khác nhau về quá khứ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of historical writing or how history is written.

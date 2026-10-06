@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Square
 *n.*
 > /skwer/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Square::Quảng trường *(Phát âm: /skwer/)* ![[square.mp3]]<br><br>👪 **Word Family:** squarely (adv)<br><br>💬 **Ví dụ:** Let's meet at the town square.<br>*(-> Hãy gặp nhau ở quảng trường thị trấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An open, typically four-sided, area surrounded by buildings in a town, village, or city.

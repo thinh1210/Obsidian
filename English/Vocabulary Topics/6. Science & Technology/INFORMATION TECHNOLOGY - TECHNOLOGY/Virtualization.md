@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Virtualization
 *n*
 > /ˌvɜː.tʃu.ə.laɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Tech/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Virtualization::Ảo hóa *(Phát âm: /ˌvɜː.tʃu.ə.laɪˈzeɪ.ʃən/)* ![[virtualization.mp3]]<br><br>👪 **Word Family:** Virtual (adj), Virtualize (v)<br><br>💬 **Ví dụ:** Virtualization helps me run Windows on my Mac.<br>*(-> Ảo hóa giúp tôi chạy Windows trên máy Mac của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms.

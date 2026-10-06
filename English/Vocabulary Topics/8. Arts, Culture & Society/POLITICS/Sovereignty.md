@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Sovereignty
 *n*
 > /ˈsɒv.rɪn.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Sovereignty::Chủ quyền *(Phát âm: /ˈsɒv.rɪn.ti/)* ![[sovereignty.mp3]]<br><br>👪 **Word Family:** sovereign (adj/n), sovereignly (adv)<br><br>💬 **Ví dụ:** The island nation fiercely guards its sovereignty.<br>*(-> Quốc đảo đó quyết liệt bảo vệ chủ quyền của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The full right and power of a governing body to govern itself without interference.

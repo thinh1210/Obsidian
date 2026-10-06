@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Obscurity
 *n.*
 > /əbˈskjʊərəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
+
+## 🗂️ Flashcard
+Obscurity::Sự chìm vào quên lãng *(Phát âm: /əbˈskjʊərəti/)* ![[obscurity.mp3]]<br><br>👪 **Word Family:** obscure (adj.)<br><br>💬 **Ví dụ:** The actor faded into obscurity.<br>*(-> Nam diễn viên đã chìm vào lãng quên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being unknown, inconspicuous, or unimportant.

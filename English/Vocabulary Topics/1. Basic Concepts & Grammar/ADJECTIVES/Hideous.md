@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Hideous
 *adj.*
 > /ˈhɪdiəs/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Hideous::Gớm ghiếc *(Phát âm: /ˈhɪdiəs/)* ![[hideous.mp3]]<br><br>👪 **Word Family:** hideousness<br><br>💬 **Ví dụ:** Hideous shirt.<br>*(-> Áo gớm ghiếc.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely ugly

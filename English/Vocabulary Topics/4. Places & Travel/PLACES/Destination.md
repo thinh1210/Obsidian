@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Destination
 *n.*
 > /ˌdes.təˈneɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
+
+## 🗂️ Flashcard
+Destination::Điểm đến *(Phát âm: /ˌdes.təˈneɪ.ʃən/)* ![[destination.mp3]]<br><br>👪 **Word Family:** destined (adj)<br><br>💬 **Ví dụ:** We finally reached our destination.<br>*(-> Cuối cùng chúng tôi đã đến đích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place to which someone or something is going or being sent.

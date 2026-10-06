@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Pronounce
 *v.*
 > /prəˈnaʊns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Pronounce::Phát âm *(Phát âm: /prəˈnaʊns/)* ![[pronounce.mp3]]<br><br>👪 **Word Family:** pronunciation, pronouncement<br><br>💬 **Ví dụ:** How do you pronounce this word?<br>*(-> Bạn phát âm từ này như thế nào?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make the sound of a word or letter in a particular way

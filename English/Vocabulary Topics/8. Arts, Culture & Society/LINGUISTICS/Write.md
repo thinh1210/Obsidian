@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Write
 *verb*
 > /raɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Write::viết *(Phát âm: /raɪt/)* ![[write.mp3]]<br><br>👪 **Word Family:** writer (n), writing (n), written (adj)<br><br>💬 **Ví dụ:** Please write your name at the top of the page.<br>*(-> Vui lòng viết tên của bạn ở đầu trang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to make letters or numbers on a surface, especially using a pen or a pencil

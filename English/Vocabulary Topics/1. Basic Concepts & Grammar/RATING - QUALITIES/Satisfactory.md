@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Satisfactory
 *adj*
 > /ˌsæt.ɪsˈfæk.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Satisfactory::Đạt yêu cầu, làm hài lòng *(Phát âm: /ˌsæt.ɪsˈfæk.tər.i/)* ![[satisfactory.mp3]]<br><br>👪 **Word Family:** Satisfy (verb), Satisfaction (noun)<br><br>💬 **Ví dụ:** The meal was satisfactory.<br>*(-> Bữa ăn ở mức làm hài lòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fulfilling expectations or needs; acceptable, though not outstanding.

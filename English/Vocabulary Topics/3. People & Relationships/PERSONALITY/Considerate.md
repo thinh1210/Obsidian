@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Considerate
 *adj.*
 > /kənˈsɪd.ər.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Considerate::Chu đáo, ân cần, biết quan tâm và nghĩ cho người khác *(Phát âm: /kənˈsɪd.ər.ət/)* ![[considerate.mp3]]<br><br>👪 **Word Family:** consideration (n), consider (v), considerately (adv)<br><br>💬 **Ví dụ:** It was very considerate of him to bring an umbrella for his colleague.<br>*(-> Anh ấy thật chu đáo khi mang theo một chiếc ô cho đồng nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Kind and helpful; thinking about other people's feelings and needs.

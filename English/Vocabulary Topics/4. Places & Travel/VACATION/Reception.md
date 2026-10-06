@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Reception
 *n.*
 > /rɪˈsepʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Reception::Bàn tiếp đón tại tiền sảnh khách sạn nơi làm các thủ tục hướng dẫn khách *(Phát âm: /rɪˈsepʃn/)* ![[reception.mp3]]<br><br>👪 **Word Family:** receptionist (n), receptive (adj), receive (v)<br><br>💬 **Ví dụ:** Leave your luggage at the reception desk while your room is being prepared.<br>*(-> Hãy gửi hành lý tại quầy lễ tân trong khi phòng của bạn đang được dọn dẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The area in a hotel, office, or other establishment where guests or visitors are welcomed and attended to.

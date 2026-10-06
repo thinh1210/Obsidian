@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Earthquake
 *noun*
 > /ˈɜːθ.kweɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Earthquake::Động đất *(Phát âm: /ˈɜːθ.kweɪk/)* ![[earthquake.mp3]]<br><br>👪 **Word Family:** earth (n), quake (v/n)<br><br>💬 **Ví dụ:** The earthquake shook the table and broke some plates.<br>*(-> Trận động đất làm rung chuyển chiếc bàn và làm vỡ một số đĩa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden violent shaking of the earth's surface, sometimes causing great damage.

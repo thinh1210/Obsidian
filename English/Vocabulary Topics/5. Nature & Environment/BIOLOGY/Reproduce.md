@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Reproduce
 *verb*
 > /ˌriː.prəˈdʒuːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Reproduce::Sinh sản, tái sản sinh *(Phát âm: /ˌriː.prəˈdʒuːs/)* ![[reproduce.mp3]]<br><br>👪 **Word Family:** transduction, reproduction, reproductive<br><br>💬 **Ví dụ:** Single-celled organisms reproduce by dividing.<br>*(-> Sinh vật đơn bào sinh sản bằng cách phân đôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of an organism) produce offspring by a sexual or asexual process.

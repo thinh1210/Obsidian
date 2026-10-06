@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Interpret
 *v.*
 > /ɪnˈtɜːprət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Interpret::Phiên dịch, giải thích *(Phát âm: /ɪnˈtɜːprət/)* ![[interpret.mp3]]<br><br>👪 **Word Family:** interpreter, interpretation, interpretive<br><br>💬 **Ví dụ:** Can you interpret what they are saying?<br>*(-> Bạn có thể phiên dịch những gì họ đang nói không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To translate orally the words of a person speaking a different language

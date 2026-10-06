@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Geopolitics
 *noun*
 > /ˌdʒiːəʊˈpɒlətɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Geopolitics::Địa chính trị *(Phát âm: /ˌdʒiːəʊˈpɒlətɪks/)* ![[geopolitics.mp3]]<br><br>👪 **Word Family:** Geopolitical (adj.)<br><br>💬 **Ví dụ:** Ocean trade routes are crucial in geopolitics.<br>*(-> Các tuyến thương mại đại dương rất quan trọng trong địa chính trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Politics, especially international relations, as influenced by geographical factors.

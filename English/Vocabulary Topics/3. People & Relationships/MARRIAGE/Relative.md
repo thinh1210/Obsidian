@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Relative
 *noun*
 > /ˈrelətɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Relative::Người thân/Họ hàng *(Phát âm: /ˈrelətɪv/)* ![[relative.mp3]]<br><br>👪 **Word Family:** Related (adjective)<br><br>💬 **Ví dụ:** All my relatives came to the wedding.<br>*(-> Tất cả họ hàng của tôi đã đến dự đám cưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person connected by blood or marriage.

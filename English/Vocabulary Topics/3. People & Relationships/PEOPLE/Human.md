@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Human
 *n.*
 > /ˈhjuː.mən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Human::Con người *(Phát âm: /ˈhjuː.mən/)* ![[human.mp3]]<br><br>👪 **Word Family:** Humanity<br><br>💬 **Ví dụ:** To err is human.<br>*(-> Sai lầm là bản tính con người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A human being.

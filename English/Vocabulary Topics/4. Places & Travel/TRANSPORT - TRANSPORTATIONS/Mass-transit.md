@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Mass-transit
 *noun*
 > /ˌmæs ˈtrænzɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Mass-transit::Hệ thống giao thông công cộng khối lượng lớn *(Phát âm: /ˌmæs ˈtrænzɪt/)* ![[mass_transit.mp3]]<br><br>👪 **Word Family:** Noun: mass-transit (hệ thống giao thông công cộng khối lượng lớn)<br><br>💬 **Ví dụ:** The city is investing in mass-transit to combat severe air pollution.<br>*(-> Thành phố đang đầu tư vào hệ thống giao thông công cộng khối lượng lớn để chống ô nhiễm không khí nghiêm trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Public transportation, especially in an urban area.

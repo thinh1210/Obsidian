@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Bridge
 *n.*
 > /brɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Bridge::Cây cầu *(Phát âm: /brɪdʒ/)* ![[bridge.mp3]]<br><br>👪 **Word Family:** bridging (n)<br><br>💬 **Ví dụ:** We drove over the bridge.<br>*(-> Chúng tôi lái xe qua cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure built over a river or road.

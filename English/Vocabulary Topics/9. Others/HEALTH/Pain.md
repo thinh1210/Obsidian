@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Pain
 *n*
 > /peɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Pain::Cơn đau, sự đau đớn *(Phát âm: /peɪn/)* ![[pain.mp3]]<br><br>👪 **Word Family:** painful (adj), painless (adj), painkiller (n)<br><br>💬 **Ví dụ:** She felt a sharp pain in her ankle when she tripped.<br>*(-> Cô ấy cảm thấy một cơn đau nhói ở cổ chân khi bị vấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical suffering or discomfort caused by illness or injury.

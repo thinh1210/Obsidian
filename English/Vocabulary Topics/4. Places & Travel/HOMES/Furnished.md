@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Furnished
 *adj.*
 > /ˈfɜːnɪʃt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Furnished::Đã được trang bị tiện nghi giường tủ, bàn ghế để sẵn sàng dọn vào ở *(Phát âm: /ˈfɜːnɪʃt/)* ![[furnished.mp3]]<br><br>👪 **Word Family:** furnish (v), furniture (n), unfurnished (adj)<br><br>💬 **Ví dụ:** They chose a fully furnished condo so they wouldn't have to buy beds.<br>*(-> Họ chọn một căn hộ đã đủ nội thất để không phải mua sắm giường tủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing furniture and household equipment ready for use.

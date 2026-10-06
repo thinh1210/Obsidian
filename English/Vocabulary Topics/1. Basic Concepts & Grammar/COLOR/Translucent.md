@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Translucent
 *adj*
 > /trænsˈluː.sənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Translucent::Bán trong suốt, mờ ảo *(Phát âm: /trænsˈluː.sənt/)* ![[translucent.mp3]]<br><br>👪 **Word Family:** translucency (n)<br><br>💬 **Ví dụ:** The jellyfish had a translucent body.<br>*(-> Con sứa có cơ thể bán trong suốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Allowing some light to pass through, but not detailed shapes.

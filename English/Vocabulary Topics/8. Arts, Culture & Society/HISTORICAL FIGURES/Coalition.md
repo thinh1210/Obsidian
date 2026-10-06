@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Coalition
 *n.*
 > /ˌkəʊəˈlɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Coalition::Liên minh *(Phát âm: /ˌkəʊəˈlɪʃn/)* ![[coalition.mp3]]<br><br>👪 **Word Family:** coalesce, coalescence<br><br>💬 **Ví dụ:** The two political parties formed a coalition to govern the country.<br>*(-> Hai đảng chính trị đã thành lập một liên minh để cai trị đất nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An alliance for combined action, especially a temporary alliance of political parties forming a government

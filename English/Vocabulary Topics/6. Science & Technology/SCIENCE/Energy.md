@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Energy
 *noun*
 > /ˈen.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Energy::Năng lượng – sức mạnh từ các nguồn vật lý hoặc hóa học để thực hiện công việc *(Phát âm: /ˈen.ə.dʒi/)* ![[energy.mp3]]<br><br>👪 **Word Family:** energetic (adj), energize (v), energetically (adv)<br><br>💬 **Ví dụ:** I drink coffee to get energy in the morning.<br>*(-> Tôi uống cà phê để có năng lượng vào buổi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The power derived from physical or chemical resources to do work or produce heat or light.

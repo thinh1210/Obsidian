@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Emancipation
 *n.*
 > /ɪˌmænsɪˈpeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Emancipation::Sự giải phóng (khỏi sự nô dịch, ràng buộc) *(Phát âm: /ɪˌmænsɪˈpeɪʃn/)* ![[emancipation.mp3]]<br><br>👪 **Word Family:** emancipate, emancipator<br><br>💬 **Ví dụ:** The act led to the emancipation of thousands of workers.<br>*(-> Đạo luật đã dẫn đến sự giải phóng cho hàng ngàn công nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fact or process of being set free from legal, social, or political restrictions; liberation

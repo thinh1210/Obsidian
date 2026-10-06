@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Monument
 *n.*
 > /ˈmɒnjumənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Monument::Tượng đài *(Phát âm: /ˈmɒnjumənt/)* ![[monument.mp3]]<br><br>👪 **Word Family:** Monumental (adj.)<br><br>💬 **Ví dụ:** There is a large monument in the center.<br>*(-> Có một tượng đài lớn ở trung tâm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue, building, or other structure erected to commemorate a notable person or event.

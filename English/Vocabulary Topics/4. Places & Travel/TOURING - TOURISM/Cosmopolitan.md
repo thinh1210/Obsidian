@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Cosmopolitan
 *Adjective*
 > /ˌkɑːz.məˈpɑː.lɪ.t̬ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Cosmopolitan::Đa quốc gia, mang tính quốc tế *(Phát âm: /ˌkɑːz.məˈpɑː.lɪ.t̬ən/)* ![[cosmopolitan.mp3]]<br><br>👪 **Word Family:** cosmopolitanism (n)<br><br>💬 **Ví dụ:** New York is a highly cosmopolitan city.<br>*(-> New York là một thành phố mang tính quốc tế cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing or having experience of people and things from many different parts of the world.

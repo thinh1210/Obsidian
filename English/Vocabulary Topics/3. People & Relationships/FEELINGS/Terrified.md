@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Terrified
 *adj.*
 > /ˈter.ə.faɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Terrified::Khiếp sợ, hoảng sợ tột độ trước mối nguy hiểm *(Phát âm: /ˈter.ə.faɪd/)* ![[terrified.mp3]]<br><br>👪 **Word Family:** terrify (v), terror (n), terrifying (adj)<br><br>💬 **Ví dụ:** My little sister is terrified of thunderstorms and always hides under a blanket.<br>*(-> Em gái tôi sợ sấm sét kinh khủng và luôn chui rúc dưới chăn mỗi khi mưa giông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very frightened or scared.

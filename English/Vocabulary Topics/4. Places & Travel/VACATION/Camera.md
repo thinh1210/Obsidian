@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Camera
 *Noun*
 > /ˈkæmrə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Camera::Máy ảnh *(Phát âm: /ˈkæmrə/)* ![[camera.mp3]]<br><br>👪 **Word Family:** cameraman (n)<br><br>💬 **Ví dụ:** I bought a new camera for the trip.<br>*(-> Tôi mua một chiếc máy ảnh mới cho chuyến đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device for taking photographs.

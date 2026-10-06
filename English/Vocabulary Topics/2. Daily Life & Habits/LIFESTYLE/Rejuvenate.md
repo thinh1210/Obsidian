@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Rejuvenate
 *v.*
 > /rɪˈdʒuːvəneɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Rejuvenate::Làm trẻ lại, làm sảng khoái *(Phát âm: /rɪˈdʒuːvəneɪt/)* ![[rejuvenate.mp3]]<br><br>👪 **Word Family:** rejuvenation (n.)<br><br>💬 **Ví dụ:** Spa days rejuvenate me.<br>*(-> Những ngày đi spa làm tôi sảng khoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (someone or something) look or feel younger, fresher, or more lively.

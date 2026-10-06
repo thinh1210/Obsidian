@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Headband
 *noun*
 > /ˈhedbænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Headband::Băng đô (thể thao) *(Phát âm: /ˈhedbænd/)* ![[headband.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He wears a headband to absorb sweat while jogging.<br>*(-> Anh ấy đeo băng đô để thấm mồ hôi khi chạy bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A narrow strip of material worn around the head, to keep the hair or sweat out of the eyes.

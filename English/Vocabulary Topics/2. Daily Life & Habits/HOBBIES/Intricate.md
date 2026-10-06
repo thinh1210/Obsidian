@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Intricate
 *adj.*
 > /ˈɪn.trɪ.kət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Intricate::Phức tạp, rắc rối, tinh xảo *(Phát âm: /ˈɪn.trɪ.kət/)* ![[intricate.mp3]]<br><br>👪 **Word Family:** Intricacy (n.), Intricately (adv.)<br><br>💬 **Ví dụ:** She spends hours painting intricate patterns on ceramic plates.<br>*(-> Cô ấy dành hàng giờ để vẽ những hoa văn tinh xảo trên đĩa gốm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot of small parts or details that are arranged in a complicated way and are therefore sometimes difficult to understand, resolve, or analyze.

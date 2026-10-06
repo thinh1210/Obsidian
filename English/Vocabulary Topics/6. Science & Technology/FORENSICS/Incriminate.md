@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Incriminate
 *verb*
 > /ɪnˈkrɪm.ɪ.neɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
+
+## 🗂️ Flashcard
+Incriminate::Buộc tội / cung cấp bằng chứng chống lại ai đó *(Phát âm: /ɪnˈkrɪm.ɪ.neɪt/)* ![[incriminate.mp3]]<br><br>👪 **Word Family:** incrimination (n), incriminating (adj)<br><br>💬 **Ví dụ:** Don't say anything that might incriminate you.<br>*(-> Đừng nói bất cứ điều gì có thể buộc tội bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make someone appear guilty of a crime or wrongdoing.

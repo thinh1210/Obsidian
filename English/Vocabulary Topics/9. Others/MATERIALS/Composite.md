@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Composite
 *noun.*
 > /ˈbɒmpəzɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
+
+## 🗂️ Flashcard
+Composite::Vật liệu composite, vật liệu tổ hợp *(Phát âm: /ˈbɒmpəzɪt/)* ![[composite.mp3]]<br><br>👪 **Word Family:** composition (Noun), compose (Verb)<br><br>💬 **Ví dụ:** The deck was constructed using a wood-plastic composite that requires no painting.<br>*(-> Sàn nhà được xây dựng bằng vật liệu composite gỗ-nhựa không cần sơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A material made from two or more constituent materials with significantly different physical or chemical properties.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Shade
 *n*
 > /ʃeɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Shade::Sắc thái (màu pha đen), bóng râm *(Phát âm: /ʃeɪd/)* ![[shade.mp3]]<br><br>👪 **Word Family:** shady (adj)<br><br>💬 **Ví dụ:** She painted her bedroom in pastel shades.<br>*(-> Cô ấy sơn phòng ngủ bằng những tông màu pastel.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A degree of darkness of a color (mixed with black).

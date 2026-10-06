@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Indictment
 *noun*
 > /ɪnˈdaɪtmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Indictment::Bản cáo trạng, sự buộc tội chính thức *(Phát âm: /ɪnˈdaɪtmənt/)* ![[indictment.mp3]]<br><br>👪 **Word Family:** indict (v), indictable (adj)<br><br>💬 **Ví dụ:** The grand jury handed down an indictment against the suspect.<br>*(-> Đại bồi thẩm đoàn đã đưa ra bản cáo trạng chống lại nghi phạm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal charge or accusation of a serious crime

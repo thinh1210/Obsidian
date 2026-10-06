@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Rural
 *adj.*
 > /ˈrʊərəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Rural::Thuộc nông thôn *(Phát âm: /ˈrʊərəl/)* ![[rural.mp3]]<br><br>👪 **Word Family:** Ruralize (v.)<br><br>💬 **Ví dụ:** He prefers rural life.<br>*(-> Anh ấy thích cuộc sống nông thôn hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In, relating to, or characteristic of the countryside rather than the town.

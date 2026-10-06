@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Sister-in-law
 *noun*
 > /ˈsɪs.tə.rɪn.lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Sister-in-law::Chị/em dâu, chị/em vợ *(Phát âm: /ˈsɪs.tə.rɪn.lɔː/)* ![[sister_in_law.mp3]]<br><br>👪 **Word Family:** sisters-in-law (pl)<br><br>💬 **Ví dụ:** My sister-in-law is a nurse.<br>*(-> Chị dâu tôi là y tá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sister of your husband or wife, or the wife of your brother.

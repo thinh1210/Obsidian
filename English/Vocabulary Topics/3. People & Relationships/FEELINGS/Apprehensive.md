@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Apprehensive
 *adj*
 > /ˌæprɪˈhensɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Apprehensive::E ngại, lo sợ *(Phát âm: /ˌæprɪˈhensɪv/)* ![[apprehensive.mp3]]<br><br>👪 **Word Family:** apprehension (n)<br><br>💬 **Ví dụ:** I am apprehensive about the upcoming test.<br>*(-> Tôi e ngại về bài kiểm tra sắp tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Anxious or fearful that something bad or unpleasant will happen.

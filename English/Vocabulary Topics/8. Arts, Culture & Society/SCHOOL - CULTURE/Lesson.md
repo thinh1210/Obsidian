@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Lesson
 *noun*
 > /ˈlesn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Lesson::Bài học *(Phát âm: /ˈlesn/)* ![[lesson.mp3]]<br><br>👪 **Word Family:** lesson (v - rare)<br><br>💬 **Ví dụ:** Today's English lesson was very interesting.<br>*(-> Bài học tiếng Anh hôm nay rất thú vị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A period of learning or teaching.

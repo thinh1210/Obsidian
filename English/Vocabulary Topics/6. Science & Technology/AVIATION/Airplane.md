@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Airplane
 *noun*
 > /ˈeə.pleɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Airplane::Máy bay *(Phát âm: /ˈeə.pleɪn/)* ![[airplane.mp3]]<br><br>👪 **Word Family:** aircraft (n), airliner (n)<br><br>💬 **Ví dụ:** I booked an airplane ticket to visit my grandparents.<br>*(-> Tôi đã đặt vé máy bay để thăm ông bà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A powered flying vehicle with fixed wings.

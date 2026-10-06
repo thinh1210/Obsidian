@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Detoxify
 *v.*
 > /diːˈtɒksɪfaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Detoxify::Giải độc *(Phát âm: /diːˈtɒksɪfaɪ/)* ![[detoxify.mp3]]<br><br>👪 **Word Family:** detoxification (n.)<br><br>💬 **Ví dụ:** I drink lemon water to detoxify.<br>*(-> Tôi uống nước chanh để giải độc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Remove toxic substances or qualities from.

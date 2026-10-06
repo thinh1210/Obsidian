@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Bone
 *noun*
 > /bəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Bone::Xương *(Phát âm: /bəʊn/)* ![[bone.mp3]]<br><br>👪 **Word Family:** bony (adj), boneless (adj)<br><br>💬 **Ví dụ:** The dog buried a bone in the garden.<br>*(-> Con chó đã chôn một khúc xương trong vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any of the hard parts that form the skeleton of the body of a human or an animal

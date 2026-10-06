@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Axiom
 *noun*
 > /ˈæk.si.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Axiom::Tiên đề – phát biểu hoặc mệnh đề được coi là hiển nhiên đúng và không cần bằng chứng; nguyên tắc nền tảng *(Phát âm: /ˈæk.si.əm/)* ![[axiom.mp3]]<br><br>👪 **Word Family:** axiomatic (adj), axiomatically (adv), axiomatize (v)<br><br>💬 **Ví dụ:** 'The shortest distance between two points is a straight line' is a geometric axiom.<br>*(-> 'Khoảng cách ngắn nhất giữa hai điểm là đường thẳng' là tiên đề hình học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statement or proposition regarded as self-evidently true and requiring no proof; a foundational principle.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Audit
 *n./v.*
 > /ˈɔːdɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
+
+## 🗂️ Flashcard
+Audit::Kiểm toán, sự kiểm toán *(Phát âm: /ˈɔːdɪt/)* ![[audit.mp3]]<br><br>👪 **Word Family:** auditor, auditing<br><br>💬 **Ví dụ:** The small business was selected for an audit.<br>*(-> Doanh nghiệp nhỏ đã được chọn để kiểm toán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official examination of the quality or standard of something, especially financial records

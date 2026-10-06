@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Agility
 *noun*
 > /əˈdʒɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Agility::Sự nhanh nhẹn, sự lanh lợi *(Phát âm: /əˈdʒɪləti/)* ![[agility.mp3]]<br><br>👪 **Word Family:** Agile (adj)<br><br>💬 **Ví dụ:** Parkour requires an immense amount of agility.<br>*(-> Môn nhảy Parkour đòi hỏi sự nhanh nhẹn cực kỳ cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Ability to move quickly and easily.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Speak
 *v.*
 > /spiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Speak::Nói, nói chuyện *(Phát âm: /spiːk/)* ![[speak.mp3]]<br><br>👪 **Word Family:** speaker, speech, spoken<br><br>💬 **Ví dụ:** Can you speak slowly?<br>*(-> Bạn có thể nói chậm lại không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say words, to use the voice, or to be able to talk in a language

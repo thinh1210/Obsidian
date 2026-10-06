@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Camaraderie
 *noun*
 > /ˌkɑː.məˈrɑː.dɚ.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Camaraderie::Tình đồng chí, tình bạn gắn bó *(Phát âm: /ˌkɑː.məˈrɑː.dɚ.i/)* ![[camaraderie.mp3]]<br><br>👪 **Word Family:** comrade<br><br>💬 **Ví dụ:** The camaraderie among the team members was inspiring.<br>*(-> Tình đồng chí giữa các thành viên trong đội rất đáng nể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Mutual trust and friendship among people who spend a lot of time together.

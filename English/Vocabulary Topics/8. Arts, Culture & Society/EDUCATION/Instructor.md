@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Instructor
 *n.*
 > /ɪnˈstrʌk.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Instructor::Người hướng dẫn, người dạy kỹ năng thực hành hoặc giáo viên giảng dạy *(Phát âm: /ɪnˈstrʌk.tər/)* ![[instructor.mp3]]<br><br>👪 **Word Family:** instruct (v), instruction (n), instructive (adj)<br><br>💬 **Ví dụ:** The driving instructor calmly guided me through my first parallel parking attempt.<br>*(-> Thầy dạy lái xe bình tĩnh hướng dẫn tôi trong lần đầu thử đỗ xe song song.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who teaches something, especially a practical skill, athletic sport, or academic course.

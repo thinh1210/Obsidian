@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Instrument meteorological conditions
 *noun phrase*
 > /ˈɪn.strʊ.mənt ˌmiː.ti.ər.əˈlɒdʒ.ɪ.kəl kənˈdɪʃ.ənz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Instrument_meteorological_conditions::Điều kiện khí tượng theo thiết bị (IMC – bay không tầm nhìn) *(Phát âm: /ˈɪn.strʊ.mənt ˌmiː.ti.ər.əˈlɒdʒ.ɪ.kəl kənˈdɪʃ.ənz/)* ![[instrument_meteorological_conditions.mp3]]<br><br>👪 **Word Family:** VMC (n), IFR (abbr), IMC rating (n), instrument flying (n)<br><br>💬 **Ví dụ:** A private pilot who enters instrument meteorological conditions without training risks losing control.<br>*(-> Phi công tư nhân bay vào điều kiện IMC mà không được huấn luyện có nguy cơ mất kiểm soát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Meteorological conditions that require pilots to rely on aircraft instruments for navigation rather than visual references. Abbreviated as IMC.

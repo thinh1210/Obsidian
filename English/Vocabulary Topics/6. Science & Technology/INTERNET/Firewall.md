@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Firewall
 *noun*
 > /ˈfaɪər.wɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
+
+## 🗂️ Flashcard
+Firewall::Tường lửa (hệ thống bảo vệ mạng) *(Phát âm: /ˈfaɪər.wɔːl/)* ![[firewall.mp3]]<br><br>👪 **Word Family:** firewall (n)<br><br>💬 **Ví dụ:** The firewall blocked the suspicious connection from the unknown IP address.<br>*(-> Tường lửa đã chặn kết nối đáng ngờ từ địa chỉ IP không xác định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A network security system that monitors and controls incoming and outgoing network traffic based on security rules.

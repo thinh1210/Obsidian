@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Sky
 *noun*
 > /skaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Sky::Bầu trời *(Phát âm: /skaɪ/)* ![[sky.mp3]]<br><br>👪 **Word Family:** skylight (n), skyward (adj/adv)<br><br>💬 **Ví dụ:** There is not a single cloud in the sky today.<br>*(-> Hôm nay không có một gợn mây nào trên bầu trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The space above the earth that is visible when looking up.

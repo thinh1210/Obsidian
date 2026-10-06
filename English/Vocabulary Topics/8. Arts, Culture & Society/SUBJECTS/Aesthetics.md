@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Aesthetics
 *n.*
 > /iːsˈθet.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Aesthetics::Mỹ học; triết học về cái đẹp *(Phát âm: /iːsˈθet.ɪks/)* ![[aesthetics.mp3]]<br><br>👪 **Word Family:** aesthetic (adj./n.), aesthetically (adv.), aesthetician (n.)<br><br>💬 **Ví dụ:** She appreciates the aesthetics of minimalist architecture.<br>*(-> Cô ấy đánh giá cao mỹ học của kiến trúc tối giản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of philosophy dealing with the nature of beauty, art, and taste and with the creation and appreciation of beauty.

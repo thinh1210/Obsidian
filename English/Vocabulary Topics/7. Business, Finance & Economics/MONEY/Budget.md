@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Budget
 *noun*
 > /ˈbʌdʒ.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Budget::Ngân sách *(Phát âm: /ˈbʌdʒ.ɪt/)* ![[budget.mp3]]<br><br>👪 **Word Family:** budgetary (adj), budgeting (n)<br><br>💬 **Ví dụ:** We need to plan our household budget carefully.<br>*(-> Chúng ta cần lên kế hoạch ngân sách gia đình một cách cẩn thận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An estimate of income and expenditure for a set period of time

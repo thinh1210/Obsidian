@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Wind
 *noun*
 > /wɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Wind::Gió *(Phát âm: /wɪnd/)* ![[wind.mp3]]<br><br>👪 **Word Family:** Windy (adj), windiness (noun)<br><br>💬 **Ví dụ:** The wind blew my hat off.<br>*(-> Cơn gió đã thổi bay mũ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A current of air that moves quickly

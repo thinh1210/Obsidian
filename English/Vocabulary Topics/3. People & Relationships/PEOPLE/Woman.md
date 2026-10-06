@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Woman
 *n.*
 > /ˈwʊm.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Woman::Phụ nữ *(Phát âm: /ˈwʊm.ən/)* ![[woman.mp3]]<br><br>👪 **Word Family:** Womanly<br><br>💬 **Ví dụ:** She is an amazing woman.<br>*(-> Cô ấy là một người phụ nữ tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An adult female human being.

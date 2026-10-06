@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Decide
 *Verb*
 > /dɪˈsaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Decide::Quyết định *(Phát âm: /dɪˈsaɪd/)* ![[decide.mp3]]<br><br>👪 **Word Family:** Decision (n), Decisive (adj)<br><br>💬 **Ví dụ:** I decided to go.<br>*(-> Tôi đã quyết định đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To choose something, especially after thinking carefully.

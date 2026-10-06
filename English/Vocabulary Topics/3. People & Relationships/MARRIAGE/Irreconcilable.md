@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Irreconcilable
 *adjective*
 > /ɪˈrekənsaɪləbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Irreconcilable::Không thể hòa giải *(Phát âm: /ɪˈrekənsaɪləbl/)* ![[irreconcilable.mp3]]<br><br>👪 **Word Family:** Irreconcilably (adverb)<br><br>💬 **Ví dụ:** They cited irreconcilable differences in their divorce.<br>*(-> Họ nêu lý do những khác biệt không thể hòa giải trong vụ ly hôn của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Representing findings or points of view that are so different from each other that they cannot be made compatible.

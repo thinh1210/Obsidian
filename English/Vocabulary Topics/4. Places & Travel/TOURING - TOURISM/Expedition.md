@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Expedition
 *Noun*
 > /ˌek.spəˈdɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Expedition::Cuộc thám hiểm *(Phát âm: /ˌek.spəˈdɪʃ.ən/)* ![[expedition.mp3]]<br><br>👪 **Word Family:** expeditionary (adj)<br><br>💬 **Ví dụ:** They are going on an expedition to the North Pole.<br>*(-> Họ sẽ thực hiện một cuộc thám hiểm đến Bắc Cực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized journey for a particular purpose.

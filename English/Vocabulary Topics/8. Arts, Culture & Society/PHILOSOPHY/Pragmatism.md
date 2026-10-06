@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Pragmatism
 *n.*
 > /ˈpræɡ.mə.tɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Pragmatism::Chủ nghĩa thực tiễn, thuyết thực dụng *(Phát âm: /ˈpræɡ.mə.tɪ.zəm/)* ![[pragmatism.mp3]]<br><br>👪 **Word Family:** pragmatic, pragmatist, pragmatically<br><br>💬 **Ví dụ:** She chose the car based on pragmatism rather than style.<br>*(-> Cô ấy chọn chiếc xe dựa trên tính thực tế hơn là kiểu dáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An approach that evaluates theories in terms of their practical application.

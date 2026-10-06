@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Pollen
 *noun*
 > /ˈpɒlən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Pollen::Phấn hoa *(Phát âm: /ˈpɒlən/)* ![[pollen.mp3]]<br><br>👪 **Word Family:** Noun: pollen (phấn hoa), pollination (sự thụ phấn), pollinator (con vật thụ phấn), Verb: pollinate (thụ phấn)<br><br>💬 **Ví dụ:** My pollen allergy flares up every spring.<br>*(-> Bệnh dị ứng phấn hoa của tôi bùng phát vào mỗi mùa xuân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fine powdery substance discharge from the male part of a flower.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Sketching
 *noun*
 > /ˈsketʃ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Sketching::Phác họa *(Phát âm: /ˈsketʃ.ɪŋ/)* ![[sketching.mp3]]<br><br>👪 **Word Family:** Sketch (n/v), Sketchbook (n)<br><br>💬 **Ví dụ:** He spends hours sketching in his notebook.<br>*(-> Anh ấy dành hàng giờ phác họa trong sổ tay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of making a simple, quickly-made drawing that does not have many details.

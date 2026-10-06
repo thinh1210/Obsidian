@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Commensality
 *n.*
 > /kəˌmenˈsæl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Commensality::Tập tục ăn chung, tính cộng đồng bàn ăn *(Phát âm: /kəˌmenˈsæl.ə.ti/)* ![[commensality.mp3]]<br><br>👪 **Word Family:** commensal<br><br>💬 **Ví dụ:** Sunday family dinners are a form of commensality.<br>*(-> Những bữa tối gia đình vào Chủ nhật là một hình thức ăn chung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of eating together, which reinforces social relations and community cohesion.

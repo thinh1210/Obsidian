@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Classic
 *noun/adj*
 > /ˈklæs.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Classic::Tác phẩm kinh điển, cổ điển *(Phát âm: /ˈklæs.ɪk/)* ![[classic.mp3]]<br><br>👪 **Word Family:** classical (adj), classicism (n)<br><br>💬 **Ví dụ:** "1984" by George Orwell is considered a classic of modern literature.<br>*(-> "1984" của George Orwell được coi là một tác phẩm kinh điển của văn học hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A work of art or literature of recognized and established value.

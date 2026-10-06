@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Ephemeral
 *adjective*
 > /ɪˈfemərəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
+
+## 🗂️ Flashcard
+Ephemeral::Phù du, ngắn ngủi, chóng tàn *(Phát âm: /ɪˈfemərəl/)* ![[ephemeral.mp3]]<br><br>👪 **Word Family:** ephemerally (adverb), ephemera (noun)<br><br>💬 **Ví dụ:** The morning dew is beautiful but ephemeral.<br>*(-> Sương mai rất đẹp nhưng lại ngắn ngủi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for a very short time.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Planet
 *noun*
 > /ˈplæn.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Planet::Hành tinh *(Phát âm: /ˈplæn.ɪt/)* ![[planet.mp3]]<br><br>👪 **Word Family:** planetary (adj)<br><br>💬 **Ví dụ:** We live on the planet Earth, which has life.<br>*(-> Chúng ta sống trên hành tinh Trái Đất, nơi có sự sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large round object in space that orbits a star.

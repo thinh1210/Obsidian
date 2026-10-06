@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Password
 *noun*
 > /ˈpɑːs.wɜːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Password::Mật khẩu *(Phát âm: /ˈpɑːs.wɜːd/)* ![[password.mp3]]<br><br>👪 **Word Family:** password (n), password-protected (adj)<br><br>💬 **Ví dụ:** I forgot my password and had to reset it.<br>*(-> Tôi quên mật khẩu và phải đặt lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A secret word or sequence of characters used to gain access to an account or system.

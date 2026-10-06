@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Aerodynamics
 *noun*
 > /ˌeə.rəʊ.daɪˈnæm.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Aerodynamics::Khí động lực học *(Phát âm: /ˌeə.rəʊ.daɪˈnæm.ɪks/)* ![[aerodynamics.mp3]]<br><br>👪 **Word Family:** aerodynamic (adj), aerodynamicist (n), drag (n), lift (n)<br><br>💬 **Ví dụ:** Understanding aerodynamics helps engineers design more fuel-efficient cars.<br>*(-> Hiểu khí động lực học giúp các kỹ sư thiết kế ô tô tiết kiệm nhiên liệu hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the properties of moving air and the interaction between air and solid bodies moving through it.

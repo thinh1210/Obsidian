@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Salary
 *noun*
 > /ˈsæl.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Salary::Tiền lương (hằng tháng) *(Phát âm: /ˈsæl.ər.i/)* ![[salary.mp3]]<br><br>👪 **Word Family:** salaried (adj)<br><br>💬 **Ví dụ:** Her salary is paid directly into her bank account.<br>*(-> Lương của cô ấy được trả trực tiếp vào tài khoản ngân hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fixed regular payment, typically paid on a monthly basis

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # screwdriver
 *noun*
 > /ˈskruːˌdraɪ.vər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Screwdriver::cái tua vít *(Phát âm: /ˈskruːˌdraɪ.vər/)* ![[screwdriver.mp3]]<br><br>👪 **Word Family:** Noun: screwdriver (tua vít), screw (ốc vít), Verb: screw (siết vít, bắt vít)<br><br>💬 **Ví dụ:** Can you pass me the screwdriver to tighten this chair leg?<br>*(-> Bạn đưa giúp tôi cái tua vít để siết chặt chân ghế này được không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool with a shaped tip that fits into the head of a screw to turn it.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Yellow
 *adj, n*
 > /ˈjel.oʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Yellow::Màu vàng *(Phát âm: /ˈjel.oʊ/)* ![[yellow.mp3]]<br><br>👪 **Word Family:** yellowness (n), yellowish (adj)<br><br>💬 **Ví dụ:** She bought a yellow raincoat.<br>*(-> Cô ấy đã mua một chiếc áo mưa màu vàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The color of the sun or lemons.

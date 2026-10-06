@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Dimension
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - measurement, aspect, scale
+
+
+## 🗂️ Flashcard
+Dimension::Chiều, kích thước, khía cạnh *(Phát âm: /daɪˈmen.ʃən/)* ![[dimension.mp3]]<br><br>👪 **Word Family:** [Noun]: dimension, dimensionality, [Verb]: dimension, [Adj]: dimensional, [Adv]: dimensionally<br><br>💬 **Ví dụ:** We need to measure the dimensions of the room.<br>*(-> Chúng ta cần đo đạc kích thước của căn phòng.)*

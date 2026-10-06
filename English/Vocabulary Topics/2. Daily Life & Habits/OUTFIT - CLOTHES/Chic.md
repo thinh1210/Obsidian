@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Chic
 *adj*
 > /ʃiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Chic::Sang trọng, kiểu cách *(Phát âm: /ʃiːk/)* ![[chic.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She looked very chic in her new outfit.<br>*(-> Cô ấy trông rất kiểu cách trong bộ đồ mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Elegantly and stylishly fashionable.

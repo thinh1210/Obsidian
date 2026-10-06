@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Peaceful
 *adj.*
 > /ˈpiːsfl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Peaceful::Yên bình *(Phát âm: /ˈpiːsfl/)* ![[peaceful.mp3]]<br><br>👪 **Word Family:** Peace (n.)<br><br>💬 **Ví dụ:** My hometown is very peaceful.<br>*(-> Quê tôi rất yên bình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from disturbance; tranquil.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Atmosphere
 *n.*
 > /ˈætməsfɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Atmosphere::Bầu khí quyển, lớp vỏ khí bao bọc xung quanh Trái Đất bảo vệ sự sống khỏi bức xạ vũ trụ *(Phát âm: /ˈætməsfɪər/)* ![[atmosphere.mp3]]<br><br>👪 **Word Family:** atmospheric (adj), atmospherically (adv)<br><br>💬 **Ví dụ:** The meteor burned up brightly upon entering the upper atmosphere.<br>*(-> Thiên thạch bốc cháy sáng rực ngay khi vừa lao vào tầng trên của khí quyển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The envelope of gases surrounding the Earth or another planet.

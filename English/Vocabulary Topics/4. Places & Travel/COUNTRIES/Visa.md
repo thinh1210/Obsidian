@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Visa
 *Noun*
 > /ˈviːzə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+Visa::Thị thực *(Phát âm: /ˈviːzə/)* ![[visa.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I need a visa to visit the US.<br>*(-> Tôi cần thị thực để đến thăm Mỹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An endorsement on a passport indicating that the holder is allowed to enter.

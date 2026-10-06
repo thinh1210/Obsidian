@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Function
 *verb.*
 > /ˈfʌŋk.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Function::Hoạt động, vận hành, thực hiện chức năng *(Phát âm: /ˈfʌŋk.ʃən/)* ![[function.mp3]]<br><br>👪 **Word Family:** functional (adj), functionality (noun)<br><br>💬 **Ví dụ:** The machine cannot function without power.<br>*(-> Máy móc không thể hoạt động nếu không có nguồn điện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To work or operate in a proper or particular way

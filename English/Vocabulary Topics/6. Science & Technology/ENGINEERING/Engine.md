@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Engine
 *noun*
 > /ˈendʒɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Engine::Động cơ *(Phát âm: /ˈendʒɪn/)* ![[engine.mp3]]<br><br>👪 **Word Family:** engineer (n), engineering (n)<br><br>💬 **Ví dụ:** My car won't start because there is a problem with the engine.<br>*(-> Xe của tôi không khởi động được vì có vấn đề với động cơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine with moving parts that converts power into motion.

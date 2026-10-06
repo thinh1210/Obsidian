@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Allusion
 *noun*
 > /əˈluː.ʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Allusion::Điển tích, điển cố, sự ám chỉ gián tiếp *(Phát âm: /əˈluː.ʒən/)* ![[allusion.mp3]]<br><br>👪 **Word Family:** allude (v), allusive (adj)<br><br>💬 **Ví dụ:** The politician's speech made an allusion to a Lincoln address.<br>*(-> Bài phát biểu của chính trị gia đã gợi đến một bài diễn văn của Lincoln.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expression designed to call something to mind without mentioning it explicitly; indirect reference.

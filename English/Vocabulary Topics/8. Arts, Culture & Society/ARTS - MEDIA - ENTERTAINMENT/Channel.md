@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Channel
 *n.*
 > /ˈtʃænl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Channel::Kênh truyền hình/truyền thông *(Phát âm: /ˈtʃænl/)* ![[channel.mp3]]<br><br>👪 **Word Family:** channel<br><br>💬 **Ví dụ:** Please change the channel, this show is boring.<br>*(-> Làm ơn chuyển kênh đi, chương trình này chán quá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A band of frequencies used for broadcasting television or radio, or a specific service offering television programs.

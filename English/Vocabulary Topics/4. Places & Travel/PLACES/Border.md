@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Border
 *n.*
 > /ˈbɔːr.dɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
+
+## 🗂️ Flashcard
+Border::Biên giới *(Phát âm: /ˈbɔːr.dɚ/)* ![[border.mp3]]<br><br>👪 **Word Family:** borderline (n)<br><br>💬 **Ví dụ:** We have to show our passports at the border.<br>*(-> Chúng tôi phải xuất trình hộ chiếu tại biên giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line separating two political or geographical areas.

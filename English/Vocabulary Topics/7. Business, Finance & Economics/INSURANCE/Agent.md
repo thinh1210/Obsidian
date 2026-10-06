@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Agent
 *n.*
 > /ˈeɪdʒənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Agent::Đại lý, đại diện bảo hiểm *(Phát âm: /ˈeɪdʒənt/)* ![[agent.mp3]]<br><br>👪 **Word Family:** agency<br><br>💬 **Ví dụ:** Our insurance agent helped us complete the claims forms.<br>*(-> Đại lý bảo hiểm của chúng tôi đã giúp chúng tôi hoàn thành các biểu mẫu yêu cầu bồi thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who is authorized to act for another, specifically representing an insurance company.

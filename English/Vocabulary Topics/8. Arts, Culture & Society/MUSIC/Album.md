@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Album
 *n.*
 > /ˈæl.bəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Album::Album ca nhạc, tập nhạc *(Phát âm: /ˈæl.bəm/)* ![[album.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She is listening to her favorite band's new album.<br>*(-> Cô ấy đang nghe album mới của ban nhạc yêu thích của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A collection of audio recordings issued as a single item on CD, vinyl, or digital platforms.

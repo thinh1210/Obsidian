@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Cramped
 *adj*
 > /kræmpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Cramped::Chật chội *(Phát âm: /kræmpt/)* ![[cramped.mp3]]<br><br>👪 **Word Family:** cramp (n, v)<br><br>💬 **Ví dụ:** Living in a cramped room is tough.<br>*(-> Sống trong một căn phòng chật chội rất khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Uncomfortably small or restricted.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Pedestrian
 *n.*
 > /pəˈdestriən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Pedestrian::Người đi bộ *(Phát âm: /pəˈdestriən/)* ![[pedestrian.mp3]]<br><br>👪 **Word Family:** pedal (n)<br><br>💬 **Ví dụ:** Cars must stop for pedestrians.<br>*(-> Ô tô phải dừng lại nhường người đi bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person walking in the street and not traveling in a vehicle.

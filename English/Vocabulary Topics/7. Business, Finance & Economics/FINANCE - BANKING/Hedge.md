@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Hedge
 *verb.*
 > /hedʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
+
+## 🗂️ Flashcard
+Hedge::Phòng ngừa rủi ro *(Phát âm: /hedʒ/)* ![[hedge.mp3]]<br><br>👪 **Word Family:** hedging (noun)<br><br>💬 **Ví dụ:** Investors often buy gold to hedge against inflation and economic instability.<br>*(-> Các nhà đầu tư thường mua vàng để phòng ngừa lạm phát và sự bất ổn kinh tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To limit or reduce financial risk by making a counterbalancing investment.

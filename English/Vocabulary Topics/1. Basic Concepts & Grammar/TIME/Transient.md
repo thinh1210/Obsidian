@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Transient
 *adj.*
 > /ˈtrænziənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Transient::Ngắn ngủi, nhất thời *(Phát âm: /ˈtrænziənt/)* ![[transient.mp3]]<br><br>👪 **Word Family:** transience (n.)<br><br>💬 **Ví dụ:** The beauty of a rainbow is transient.<br>*(-> Vẻ đẹp của cầu vồng là nhất thời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting only for a short time; impermanent

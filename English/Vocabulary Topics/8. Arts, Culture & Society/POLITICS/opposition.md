@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # opposition
 *noun*
 > /ˌɑːpəˈzɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+opposition::Phe đối lập *(Phát âm: /ˌɑːpəˈzɪʃn/)* ![[opposition.mp3]]<br><br>👪 **Word Family:** oppose (v), opponent (n), opposite (adj)<br><br>💬 **Ví dụ:** The opposition has called for the Prime Minister's resignation.<br>*(-> Phe đối lập đã kêu gọi Thủ tướng từ chức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main political party or parties opposing the government.

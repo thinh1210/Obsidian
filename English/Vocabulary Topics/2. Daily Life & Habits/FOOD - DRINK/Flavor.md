@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Flavor
 *n.*
 > /ˈfleɪ.vər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Flavor::Hương vị *(Phát âm: /ˈfleɪ.vər/)* ![[flavor.mp3]]<br><br>👪 **Word Family:** flavorful, flavorless, flavoring<br><br>💬 **Ví dụ:** I love the flavor of vanilla.<br>*(-> Tôi thích hương vị vani.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The distinctive taste of a food or drink.

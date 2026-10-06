@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Respect
 *noun/verb*
 > /rɪˈspekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Respect::Sự tôn trọng *(Phát âm: /rɪˈspekt/)* ![[respect.mp3]]<br><br>👪 **Word Family:** respectful<br><br>💬 **Ví dụ:** I respect his decision.<br>*(-> Tôi tôn trọng quyết định của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Flag
 *Noun*
 > /flæɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
+
+## 🗂️ Flashcard
+Flag::Lá cờ *(Phát âm: /flæɡ/)* ![[flag.mp3]]<br><br>👪 **Word Family:** Flagship<br><br>💬 **Ví dụ:** The American flag has stars and stripes.<br>*(-> Lá cờ Mỹ có những ngôi sao và sọc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of cloth with a special design used as a symbol of a country.

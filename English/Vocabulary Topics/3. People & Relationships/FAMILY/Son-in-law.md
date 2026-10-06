@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Son-in-law
 *n.*
 > /ˈsʌn.ɪn.lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Son-in-law::Con rể (chồng của con gái) *(Phát âm: /ˈsʌn.ɪn.lɔː/)* ![[son_in_law.mp3]]<br><br>👪 **Word Family:** sons-in-law (pl)<br><br>💬 **Ví dụ:** My father and his new son-in-law quickly bonded over their shared love of football.<br>*(-> Bố tôi và chàng con rể mới nhanh chóng gắn kết nhờ niềm đam mê bóng đá chung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The husband of one's daughter.

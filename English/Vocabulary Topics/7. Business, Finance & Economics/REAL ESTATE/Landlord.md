@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Landlord
 *n.*
 > /ˈlændlɔːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Landlord::Chủ nhà (cho thuê) *(Phát âm: /ˈlændlɔːd/)* ![[landlord.mp3]]<br><br>👪 **Word Family:** landlady (n)<br><br>💬 **Ví dụ:** Our landlord is very friendly and fixed the plumbing immediately.<br>*(-> Chủ nhà của chúng tôi rất thân thiện và đã sửa đường ống nước ngay lập tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person, especially a man, who rents land, a building, or an apartment to a tenant.

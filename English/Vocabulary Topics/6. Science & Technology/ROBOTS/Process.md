@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Process
 *verb.*
 > /ˈprɑː.ses/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Process::Xử lý (thông tin, dữ liệu) *(Phát âm: /ˈprɑː.ses/)* ![[process.mp3]]<br><br>👪 **Word Family:** processor (noun), processing (noun)<br><br>💬 **Ví dụ:** The computer brain can process sensory data in real time.<br>*(-> Bộ não máy tính có thể xử lý dữ liệu cảm biến trong thời gian thực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To perform a series of mechanical or chemical operations on something in order to change or preserve it, or to handle data

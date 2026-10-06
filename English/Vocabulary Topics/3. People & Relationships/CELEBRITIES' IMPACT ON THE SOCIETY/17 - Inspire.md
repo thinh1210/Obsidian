@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Inspire
 *v.*
 > /ɪnˈspaɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+17 - Inspire::Truyền cảm hứng *(Phát âm: /ɪnˈspaɪər/)* ![[inspire.mp3]]<br><br>👪 **Word Family:** Inspiration (n.)<br><br>💬 **Ví dụ:** She inspires me.<br>*(-> Cô ấy truyền cảm hứng cho tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To fill someone with the urge to do something.

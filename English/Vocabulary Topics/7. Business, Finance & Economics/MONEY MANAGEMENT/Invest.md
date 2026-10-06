@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Invest
 *Verb*
 > /ɪnˈvest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Invest::Đầu tư (bỏ tiền vào các dự án, cổ phiếu, bất động sản hoặc liên doanh với kỳ vọng đạt lợi nhuận) *(Phát âm: /ɪnˈvest/)* ![[invest.mp3]]<br><br>👪 **Word Family:** Noun: investment (sự đầu tư), investor (nhà đầu tư), Verb: invest (đầu tư)<br><br>💬 **Ví dụ:** I want to learn how to invest in the stock market to grow my savings.<br>*(-> Tôi muốn học cách đầu tư vào thị trường cổ phiếu để gia tăng tiền tiết kiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put money into schemes, shares, property, or a commercial venture with the expectation of achieving a profit.

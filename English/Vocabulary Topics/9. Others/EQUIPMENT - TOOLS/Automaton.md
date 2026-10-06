@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # automaton
 *noun*
 > /ɔːˈtɒm.ə.tən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
+
+## 🗂️ Flashcard
+Automaton::người máy cơ khí, rô-bốt tự động cổ *(Phát âm: /ɔːˈtɒm.ə.tən/)* ![[automaton.mp3]]<br><br>👪 **Word Family:** Noun: automaton (người máy), automation (sự tự động hóa), Verb: automate (tự động hóa), Adjective: automatic (tự động)<br><br>💬 **Ví dụ:** The museum exhibits 18th-century mechanical automatons.<br>*(-> Bảo tàng triển lãm các người máy cơ khí thế kỷ 18.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a moving mechanical device made in imitation of a human being.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Atrocious
 *adj.*
 > /əˈtrəʊʃəs/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Atrocious::Tàn bạo, kinh khủng *(Phát âm: /əˈtrəʊʃəs/)* ![[atrocious.mp3]]<br><br>👪 **Word Family:** atrocity<br><br>💬 **Ví dụ:** Atrocious weather.<br>*(-> Thời tiết kinh khủng.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Horrifyingly wicked

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Residence
 *noun*
 > /ˈrɛzɪdəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Residence::Nơi cư trú, dinh thự *(Phát âm: /ˈrɛzɪdəns/)* ![[residence.mp3]]<br><br>👪 **Word Family:** residential (adj)<br><br>💬 **Ví dụ:** This is his primary residence.<br>*(-> Đây là nơi cư trú chính của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person's home; the place where someone lives.
@@ -34,4 +44,4 @@
 - residential (adj)
 
 **Synonyms:** abode, dwelling
-**Antonyms:** 
+**Antonyms:**

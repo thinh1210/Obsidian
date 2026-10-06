@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Annexation
 *noun*
 > /ˌæn.ekˈseɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Annexation::Sự thôn tính, sự sáp nhập (lãnh thổ) *(Phát âm: /ˌæn.ekˈseɪ.ʃən/)* ![[annexation.mp3]]<br><br>👪 **Word Family:** annex (verb/noun)<br><br>💬 **Ví dụ:** The neighbors complained about the landowner's annexation of a public path.<br>*(-> Những người hàng xóm phàn nàn về việc người chủ đất sáp nhập một lối đi công cộng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of annexing something, especially territory.

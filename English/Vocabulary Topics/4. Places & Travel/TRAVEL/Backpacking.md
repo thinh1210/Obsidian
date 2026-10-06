@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Backpacking
 *noun*
 > /ˈbækˌpæk.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Backpacking::Du lịch ba lô *(Phát âm: /ˈbækˌpæk.ɪŋ/)* ![[backpacking.mp3]]<br><br>👪 **Word Family:** Backpacker (Noun): Người du lịch ba lô, Backpack (Noun/Verb): Ba lô / Đi du lịch bằng ba lô<br><br>💬 **Ví dụ:** I love backpacking in Asia.<br>*(-> Tôi thích du lịch ba lô ở châu Á.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travelling for pleasure with a backpack

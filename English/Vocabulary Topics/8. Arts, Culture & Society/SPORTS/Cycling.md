@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Cycling
 *n.*
 > /ˈsaɪ.klɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Cycling::Môn thể thao đua xe đạp hoặc đạp xe rèn luyện sức khỏe *(Phát âm: /ˈsaɪ.klɪŋ/)* ![[cycling.mp3]]<br><br>👪 **Word Family:** cycle (v/n), cyclist (n), bicycle (n)<br><br>💬 **Ví dụ:** Cycling through the scenic countryside is my favorite weekend relaxation pastime.<br>*(-> Đạp xe qua vùng nông thôn tuyệt đẹp là thú vui thư giãn cuối tuần yêu thích nhất của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or activity of riding a bicycle for competition, fitness, or leisure.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Electronegativity
 *noun*
 > /iˌlek.trəʊˌneɡ.əˈtɪv.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Electronegativity::Độ âm điện *(Phát âm: /iˌlek.trəʊˌneɡ.əˈtɪv.ə.ti/)* ![[electronegativity.mp3]]<br><br>👪 **Word Family:** electronegative (adj)<br><br>💬 **Ví dụ:** Fluorine has the highest electronegativity of all elements on the Pauling scale.<br>*(-> Flo có độ âm điện cao nhất trong tất cả các nguyên tố theo thang Pauling.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical property that describes the tendency of an atom to attract a shared pair of electrons towards itself.

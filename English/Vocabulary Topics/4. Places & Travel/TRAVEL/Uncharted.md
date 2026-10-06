@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Uncharted
 *adjective*
 > /ʌnˈtʃɑː.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Uncharted::Chưa được khám phá *(Phát âm: /ʌnˈtʃɑː.tɪd/)* ![[uncharted.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We sailed into uncharted waters.<br>*(-> Chúng tôi gieo thuyền vào vùng biển chưa được khám phá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not recorded on a map

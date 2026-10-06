@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Youth
 *noun*
 > /juːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Youth::Tuổi trẻ, thanh niên *(Phát âm: /juːθ/)* ![[youth.mp3]]<br><br>👪 **Word Family:** Youthful (adj)<br><br>💬 **Ví dụ:** In my youth, I played sports.<br>*(-> Hồi trẻ tôi có chơi thể thao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The period between childhood and adult age.

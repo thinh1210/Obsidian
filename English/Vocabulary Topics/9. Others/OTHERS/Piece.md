@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Piece
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - bit, slice, fragment
+
+
+## 🗂️ Flashcard
+Piece::Mảnh, miếng, mẩu *(Phát âm: /piːs/)* ![[piece.mp3]]<br><br>👪 **Word Family:** [Noun]: piece, [Verb]: piece, [Adj]: piecemeal, [Adv]: piecemeal<br><br>💬 **Ví dụ:** Would you like a piece of cake?<br>*(-> Bạn có muốn một miếng bánh không?)*

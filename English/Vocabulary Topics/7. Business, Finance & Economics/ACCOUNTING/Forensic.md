@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Forensic
 *adj.*
 > /fəˈrensɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
+
+## 🗂️ Flashcard
+Forensic::Thuộc pháp lý, pháp y (điều tra gian lận) *(Phát âm: /fəˈrensɪk/)* ![[forensic.mp3]]<br><br>👪 **Word Family:** forensically<br><br>💬 **Ví dụ:** She watched a documentary about forensic scientists solving old cold cases.<br>*(-> Cô ấy đã xem một bộ phim tài liệu về các nhà khoa học pháp y giải quyết các vụ án mạng chưa có lời giải.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the use of scientific methods and techniques to investigate crime

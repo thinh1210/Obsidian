@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Drama
 *noun*
 > /ˈdrɑːmə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Drama::Kịch, môn Kịch nghệ *(Phát âm: /ˈdrɑːmə/)* ![[drama.mp3]]<br><br>👪 **Word Family:** dramatic, dramatist, dramatize<br><br>💬 **Ví dụ:** He joined the school drama club to make friends.<br>*(-> Cậu ấy tham gia câu lạc bộ kịch của trường để kết bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of plays and acting, or a play for theater, radio, or television.

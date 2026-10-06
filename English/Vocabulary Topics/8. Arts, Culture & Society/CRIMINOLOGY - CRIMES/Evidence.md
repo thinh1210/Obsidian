@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Evidence
 *noun*
 > /ˈevɪdəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Evidence::Bằng chứng, chứng cứ *(Phát âm: /ˈevɪdəns/)* ![[evidence.mp3]]<br><br>👪 **Word Family:** evident (adj), evidently (adv)<br><br>💬 **Ví dụ:** There is no clear evidence that he took the money.<br>*(-> Không có bằng chứng rõ ràng cho thấy anh ta đã lấy tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One or more reasons for believing that something is or is not true, especially in court

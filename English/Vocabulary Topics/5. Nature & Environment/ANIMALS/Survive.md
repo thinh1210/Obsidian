@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Survive
 *v.*
 > /səˈvaɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Survive::Sống sót, sinh tồn, tồn tại vượt qua hoàn cảnh khắc nghiệt và kẻ thù *(Phát âm: /səˈvaɪv/)* ![[survive.mp3]]<br><br>👪 **Word Family:** survival (n), survivor (n), survivable (adj)<br><br>💬 **Ví dụ:** Camels can survive for weeks in the desert without drinking fresh water.<br>*(-> Lạc đà có thể sống sót hàng tuần giữa sa mạc mà không cần uống nước ngọt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To continue to live or exist, especially in spite of danger, hardship, or severe weather.

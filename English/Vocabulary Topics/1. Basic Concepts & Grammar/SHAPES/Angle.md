@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Angle
 *n.*
 > /ˈæŋ.ɡəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Angle::Góc (độ) *(Phát âm: /ˈæŋ.ɡəl/)* ![[angle.mp3]]<br><br>👪 **Word Family:** Angular (adj)<br><br>💬 **Ví dụ:** The roof has a steep angle.<br>*(-> Mái nhà có một góc dốc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The space (usually measured in degrees) between two intersecting lines or surfaces at or close to the point where they meet.

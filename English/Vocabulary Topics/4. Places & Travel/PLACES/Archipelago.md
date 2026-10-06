@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Archipelago
 *n.*
 > /ˌɑːr.kəˈpel.ə.ɡoʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
+
+## 🗂️ Flashcard
+Archipelago::Quần đảo *(Phát âm: /ˌɑːr.kəˈpel.ə.ɡoʊ/)* ![[archipelago.mp3]]<br><br>👪 **Word Family:** archipelagic (adj)<br><br>💬 **Ví dụ:** We sailed through the beautiful archipelago.<br>*(-> Chúng tôi chèo thuyền qua quần đảo xinh đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of islands.

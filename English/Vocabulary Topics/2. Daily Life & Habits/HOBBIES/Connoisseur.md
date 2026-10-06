@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Connoisseur
 *noun*
 > /ˌkɒnəˈsɜːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Connoisseur::Người sành sỏi, chuyên gia thẩm định *(Phát âm: /ˌkɒnəˈsɜːr/)* ![[connoisseur.mp3]]<br><br>👪 **Word Family:** Connoisseurship (n)<br><br>💬 **Ví dụ:** My friend is a coffee connoisseur and only drinks freshly roasted beans.<br>*(-> Bạn tôi là người sành cà phê và chỉ uống hạt mới rang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expert judge in matters of taste, especially in fine arts or food.

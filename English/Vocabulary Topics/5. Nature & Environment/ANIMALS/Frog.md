@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Frog
 *noun*
 > /frɒɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Frog::Con ếch *(Phát âm: /frɒɡ/)* ![[frog.mp3]]<br><br>👪 **Word Family:** frog (n), tadpole (n)<br><br>💬 **Ví dụ:** I heard a frog croaking loudly in the garden after the rain.<br>*(-> Tôi nghe tiếng một con ếch kêu vang trong vườn sau cơn mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping.

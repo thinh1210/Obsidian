@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Reprieve
 *Noun*
 > /rɪˈpriv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Reprieve::Sự ân giảm/Sự hoãn lại *(Phát âm: /rɪˈpriv/)* ![[reprieve.mp3]]<br><br>👪 **Word Family:** reprieve (v)<br><br>💬 **Ví dụ:** The rain provided a reprieve from the heat.<br>*(-> Cơn mưa mang lại một sự hoãn lại khỏi cái nóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cancellation or postponement of a punishment; a temporary escape.

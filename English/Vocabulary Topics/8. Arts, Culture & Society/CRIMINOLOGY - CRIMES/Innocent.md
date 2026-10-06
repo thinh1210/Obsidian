@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Innocent
 *adjective*
 > /ˈɪnəsnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Innocent::Vô tội, ngây thơ *(Phát âm: /ˈɪnəsnt/)* ![[innocent.mp3]]<br><br>👪 **Word Family:** innocence (n), innocently (adv)<br><br>💬 **Ví dụ:** He maintains that he is completely innocent of the charges.<br>*(-> Anh ta quả quyết rằng mình hoàn toàn vô tội trước các cáo buộc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not guilty of a particular crime

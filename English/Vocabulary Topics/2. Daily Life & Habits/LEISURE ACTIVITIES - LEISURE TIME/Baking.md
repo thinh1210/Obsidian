@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Baking
 *n.*
 > /ˈbeɪ.kɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Baking::Nghề hoặc thú vui làm bánh nướng trong lò nướng *(Phát âm: /ˈbeɪ.kɪŋ/)* ![[baking.mp3]]<br><br>👪 **Word Family:** bake (v), baker (n), bakery (n)<br><br>💬 **Ví dụ:** Home baking fills the whole house with the comforting scent of vanilla and cinnamon.<br>*(-> Tự nướng bánh tại nhà làm cả gian phòng ngập tràn mùi hương dễ chịu của vani và quế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of cooking food using dry heat in an oven.

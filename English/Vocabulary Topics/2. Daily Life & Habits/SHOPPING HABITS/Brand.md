@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Brand
 *n.*
 > /brænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Brand::Thương hiệu, nhãn hàng được nhận biết bởi tên gọi và biểu tượng riêng *(Phát âm: /brænd/)* ![[brand.mp3]]<br><br>👪 **Word Family:** branding (n), branded (adj)<br><br>💬 **Ví dụ:** I usually stick to this brand because their appliances have proven reliable for years.<br>*(-> Tôi thường trung thành với thương hiệu này vì đồ gia dụng của họ rất bền qua nhiều năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of product made by a particular company, identified by a name and logo.

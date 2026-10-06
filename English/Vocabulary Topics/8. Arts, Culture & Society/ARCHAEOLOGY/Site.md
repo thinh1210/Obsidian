@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Site
 *noun*
 > /saɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Site::Địa điểm, vị trí (khảo cổ) *(Phát âm: /saɪt/)* ![[site.mp3]]<br><br>💬 **Ví dụ:** This is the site of the new school.<br>*(-> Đây là địa điểm xây dựng trường học mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where a settlement, action, or event is, was, or is code-designed to be located

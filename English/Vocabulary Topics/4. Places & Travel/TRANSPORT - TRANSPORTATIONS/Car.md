@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Car
 *noun*
 > /kɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Car::Xe ô tô *(Phát âm: /kɑːr/)* ![[car.mp3]]<br><br>👪 **Word Family:** Noun: car (xe ô tô)<br><br>💬 **Ví dụ:** He bought a new car last week.<br>*(-> Anh ấy đã mua một chiếc xe ô tô mới vào tuần trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor.

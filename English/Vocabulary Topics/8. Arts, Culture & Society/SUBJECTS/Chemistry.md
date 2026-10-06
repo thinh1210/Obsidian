@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Chemistry
 *noun*
 > /ˈkemɪstri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Chemistry::Hóa học, môn Hóa học *(Phát âm: /ˈkemɪstri/)* ![[chemistry.mp3]]<br><br>👪 **Word Family:** chemist, chemical<br><br>💬 **Ví dụ:** Chemistry is hard because I have to remember all the elements.<br>*(-> Môn Hóa học rất khó vì tôi phải nhớ tất cả các nguyên tố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of the properties and behavior of matter.

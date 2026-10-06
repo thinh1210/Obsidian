@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Integrate
 *verb*
 > /ˈɪntɪɡreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Integrate::Tích hợp, hòa nhập *(Phát âm: /ˈɪntɪɡreɪt/)* ![[integrate.mp3]]<br><br>👪 **Word Family:** integration (n), integrated (adj), integrity (n)<br><br>💬 **Ví dụ:** It is easy to integrate the new app with your existing calendar system.<br>*(-> Rất dễ dàng để tích hợp ứng dụng mới với hệ thống lịch hiện tại của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To combine one thing with another so that they become a whole.

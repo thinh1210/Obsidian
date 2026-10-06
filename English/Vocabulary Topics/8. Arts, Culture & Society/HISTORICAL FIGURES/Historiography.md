@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Historiography
 *n.*
 > /hɪˌstɔːriˈɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
+
+## 🗂️ Flashcard
+Historiography::Sử học, cách chép sử *(Phát âm: /hɪˌstɔːriˈɒɡrəfi/)* ![[historiography.mp3]]<br><br>👪 **Word Family:** historiographer, historiographical<br><br>💬 **Ví dụ:** The professor teaches a class on medieval historiography.<br>*(-> Giáo sư dạy một lớp học về sử học thời trung cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the writing of history and of written histories

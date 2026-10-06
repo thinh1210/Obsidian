@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Estranged
 *adj*
 > /ɪˈstreɪndʒd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Estranged::Ly thân, xa cách (với gia đình) *(Phát âm: /ɪˈstreɪndʒd/)* ![[estranged.mp3]]<br><br>👪 **Word Family:** estrangement (n)<br><br>💬 **Ví dụ:** He is estranged from his family.<br>*(-> Anh ấy đã cắt đứt liên lạc với gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** No longer friendly or in contact with someone.

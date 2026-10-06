@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Forgive
 *verb*
 > /fɚˈɡɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Forgive::Tha thứ *(Phát âm: /fɚˈɡɪv/)* ![[forgive.mp3]]<br><br>👪 **Word Family:** forgiveness<br><br>💬 **Ví dụ:** Please forgive me.<br>*(-> Xin hãy tha thứ cho tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Stop feeling angry or resentful toward (someone) for an offense, flaw, or mistake.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Payroll
 *n.*
 > /ˈpeɪ.rəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
+
+## 🗂️ Flashcard
+Payroll::Bảng lương, quỹ lương *(Phát âm: /ˈpeɪ.rəʊl/)* ![[payroll.mp3]]<br><br>👪 **Word Family:** pay, roll<br><br>💬 **Ví dụ:** The company has 500 employees on its payroll.<br>*(-> Công ty có 500 nhân viên trong danh sách trả lương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A list of employees receiving wages and the total amount paid

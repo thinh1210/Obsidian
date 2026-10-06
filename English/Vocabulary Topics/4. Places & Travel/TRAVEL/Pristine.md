@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Pristine
 *adjective*
 > /ˈprɪs.tiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Pristine::Nguyên sơ *(Phát âm: /ˈprɪs.tiːn/)* ![[pristine.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The snow was pristine.<br>*(-> Tuyết thật nguyên sơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Original and pure; not spoiled

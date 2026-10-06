@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Amenity
 *noun*
 > /əˈmɛnɪti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Amenity::Tiện nghi *(Phát âm: /əˈmɛnɪti/)* ![[amenity.mp3]]<br><br>👪 **Word Family:** **Synonyms:** facility, convenience<br><br>💬 **Ví dụ:** The hotel has excellent amenities.<br>*(-> Khách sạn có các tiện nghi tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A desirable or useful feature or facility of a building or place.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** facility, convenience
-**Antonyms:** 
+**Antonyms:**

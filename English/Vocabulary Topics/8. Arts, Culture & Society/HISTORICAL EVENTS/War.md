@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # War
 *noun*
 > /wɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+War::Chiến tranh *(Phát âm: /wɔːr/)* ![[war.mp3]]<br><br>👪 **Word Family:** warlike (adj), warrior (noun)<br><br>💬 **Ví dụ:** My grandfather still remembers the hardships during the war.<br>*(-> Ông tôi vẫn còn nhớ những khó khăn gian khổ trong suốt thời kỳ chiến tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of armed conflict between different countries or different groups within a country.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Proponent
 *n.*
 > /prəˈpəʊ.nənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Proponent::Người ủng hộ *(Phát âm: /prəˈpəʊ.nənt/)* ![[proponent.mp3]]<br><br>👪 **Word Family:** Propose<br><br>💬 **Ví dụ:** He is a proponent of free speech.<br>*(-> Anh ấy là người ủng hộ tự do ngôn luận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who advocates a theory, proposal, or project.

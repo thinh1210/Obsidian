@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Fare
 *noun*
 > /fer/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Fare::Giá vé, tiền xe *(Phát âm: /fer/)* ![[fare.mp3]]<br><br>👪 **Word Family:** Noun: fare (giá vé), Verb: fare (làm ăn, sinh sống)<br><br>💬 **Ví dụ:** Bus fares have increased again this month.<br>*(-> Giá vé xe buýt lại tăng một lần nữa trong tháng này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The money a passenger on public transport has to pay.

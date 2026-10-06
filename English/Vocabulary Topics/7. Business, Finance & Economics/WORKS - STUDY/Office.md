@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Office
 *n.*
 > /ˈɒf.ɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Office::Văn phòng *(Phát âm: /ˈɒf.ɪs/)* ![[office.mp3]]<br><br>👪 **Word Family:** officer, official<br><br>💬 **Ví dụ:** Our office is on the third floor.<br>*(-> Văn phòng của chúng tôi ở tầng ba.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A room or building where people work at desks

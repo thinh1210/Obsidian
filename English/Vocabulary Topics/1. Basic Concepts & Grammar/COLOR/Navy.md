@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Navy
 *n, adj*
 > /ˈneɪ.vi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Navy::Xanh hải quân, xanh đen *(Phát âm: /ˈneɪ.vi/)* ![[navy.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He wore a navy blue suit to the interview.<br>*(-> Anh ấy mặc một bộ vest xanh đen đến buổi phỏng vấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very dark blue color.

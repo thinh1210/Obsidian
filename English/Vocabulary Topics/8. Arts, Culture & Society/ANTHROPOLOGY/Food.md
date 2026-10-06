@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Food
 *n.*
 > /fuːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Food::Thức ăn, thực phẩm *(Phát âm: /fuːd/)* ![[food.mp3]]<br><br>👪 **Word Family:** feed, foodie<br><br>💬 **Ví dụ:** Vietnamese food is famous worldwide.<br>*(-> Đồ ăn Việt Nam nổi tiếng khắp thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.

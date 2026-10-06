@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Land
 *noun*
 > /lænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Land::Đất liền, vùng đất *(Phát âm: /lænd/)* ![[land.mp3]]<br><br>👪 **Word Family:** Landless (adj.), Landlord (n.)<br><br>💬 **Ví dụ:** We finally saw land after weeks at sea.<br>*(-> Cuối cùng chúng tôi cũng thấy đất liền sau nhiều tuần trên biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of the earth's surface that is not covered by water.

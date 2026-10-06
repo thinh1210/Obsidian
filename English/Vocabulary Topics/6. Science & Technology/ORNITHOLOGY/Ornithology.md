@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Ornithology
 *noun*
 > /ˌɔː.nɪˈθɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
+
+## 🗂️ Flashcard
+Ornithology::Điểu học (ngành nghiên cứu về chim) *(Phát âm: /ˌɔː.nɪˈθɒl.ə.dʒi/)* ![[ornithology.mp3]]<br><br>👪 **Word Family:** ornithology (n), ornithologist (n), ornithological (adj)<br><br>💬 **Ví dụ:** He decided to study ornithology because of his passion for bird watching.<br>*(-> Anh ấy quyết định học điểu học vì niềm đam mê ngắm chim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of birds.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Interoperability
 *noun*
 > /ˌɪn.tər.ˌɒp.ər.əˈbɪl.ɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Interoperability::Khả năng tương tác (giữa các hệ thống khác nhau) *(Phát âm: /ˌɪn.tər.ˌɒp.ər.əˈbɪl.ɪ.ti/)* ![[interoperability.mp3]]<br><br>👪 **Word Family:** interoperable (adj), interoperate (v), operability (n)<br><br>💬 **Ví dụ:** The lack of interoperability between messaging apps forces users to stick to one platform.<br>*(-> Sự thiếu khả năng tương tác giữa các ứng dụng nhắn tin buộc người dùng phải gắn bó với một nền tảng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of different computer systems or software to exchange and make use of information with each other.

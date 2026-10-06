@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Delicious
 *adj.*
 > /dɪˈlɪʃ.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Delicious::Ngon miệng *(Phát âm: /dɪˈlɪʃ.əs/)* ![[delicious.mp3]]<br><br>👪 **Word Family:** deliciously<br><br>💬 **Ví dụ:** This cake is delicious.<br>*(-> Bánh này ngon quá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Highly pleasant to the taste.

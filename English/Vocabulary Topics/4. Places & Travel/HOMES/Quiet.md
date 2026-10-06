@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Quiet
 *adj.*
 > /ˈkwaɪət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Quiet::Không gian vắng lặng, không có tiếng ồn ào quấy rầy *(Phát âm: /ˈkwaɪət/)* ![[quiet.mp3]]<br><br>👪 **Word Family:** quietly (adv), quietness (n), disquiet (n)<br><br>💬 **Ví dụ:** We love our home because it is located on a quiet tree-lined street.<br>*(-> Chúng tôi yêu ngôi nhà của mình vì nó tọa lạc trên một con đường rợp bóng cây yên tĩnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Making little or no noise; calm and peaceful.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # generator
 *noun*
 > /ˈdʒen.ə.reɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Generator::máy phát điện *(Phát âm: /ˈdʒen.ə.reɪ.tər/)* ![[generator.mp3]]<br><br>👪 **Word Family:** Noun: generator (máy phát), generation (thế hệ, sự phát sinh), Verb: generate (phát sinh, tạo ra), Adjective: generative (có khả năng sinh sản/tạo ra)<br><br>💬 **Ví dụ:** When the power went out, the generator kicked in.<br>*(-> Khi mất điện, máy phát điện lập tức hoạt động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a machine that converts mechanical energy into electricity.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Guilty
 *adj*
 > /ˈɡɪlti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Guilty::Tội lỗi, có lỗi *(Phát âm: /ˈɡɪlti/)* ![[guilty.mp3]]<br><br>👪 **Word Family:** guilt (n), guiltily (adv)<br><br>💬 **Ví dụ:** I feel guilty about forgetting her birthday.<br>*(-> Tôi cảm thấy có lỗi vì quên sinh nhật cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Culpable of or responsible for a specified wrongdoing.

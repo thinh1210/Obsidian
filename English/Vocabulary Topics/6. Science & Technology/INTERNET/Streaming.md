@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Streaming
 *noun / verb*
 > /ˈstriː.mɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Streaming::Phát trực tuyến, xem/nghe trực tiếp qua mạng *(Phát âm: /ˈstriː.mɪŋ/)* ![[streaming.mp3]]<br><br>👪 **Word Family:** stream (n/v), streaming (n), streamer (n)<br><br>💬 **Ví dụ:** We spent the weekend streaming movies on Netflix.<br>*(-> Chúng tôi dành cả cuối tuần xem phim trực tuyến trên Netflix.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of transmitting or receiving audio or video content over the Internet without downloading it.

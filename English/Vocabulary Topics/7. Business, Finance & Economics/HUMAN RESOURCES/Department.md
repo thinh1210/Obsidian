@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Department
 *n.*
 > /dɪˈpɑːt.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Department::Phòng ban, bộ phận chuyên môn *(Phát âm: /dɪˈpɑːt.mənt/)* ![[department.mp3]]<br><br>👪 **Word Family:** departmental<br><br>💬 **Ví dụ:** He works in the sales department.<br>*(-> Anh ấy làm việc ở bộ phận bán hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A division of a large organization or business

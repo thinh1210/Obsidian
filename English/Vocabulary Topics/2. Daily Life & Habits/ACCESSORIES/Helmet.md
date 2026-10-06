@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Helmet
 *noun*
 > /ˈhelmɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Helmet::Mũ bảo hiểm *(Phát âm: /ˈhelmɪt/)* ![[helmet.mp3]]<br><br>👪 **Word Family:** Helmeted (adj)<br><br>💬 **Ví dụ:** Always wear a helmet when riding a bike.<br>*(-> Luôn đội mũ bảo hiểm khi đi xe đạp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong, hard hat that covers and protects the head.

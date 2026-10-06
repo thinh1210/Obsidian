@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Beatific
 *adj.*
 > /ˌbiː.əˈtɪf.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
+
+## 🗂️ Flashcard
+Beatific::Hạnh phúc viên mãn, an lành *(Phát âm: /ˌbiː.əˈtɪf.ɪk/)* ![[beatific.mp3]]<br><br>👪 **Word Family:** Beatitude (n)<br><br>💬 **Ví dụ:** She had a beatific smile.<br>*(-> Cô ấy nở một nụ cười an lành mãn nguyện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Blissfully happy (often implying a saintly or spiritual joy).

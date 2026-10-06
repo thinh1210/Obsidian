@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Arrival
 *Noun*
 > /əˈraɪvəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Arrival::Sự đến nơi *(Phát âm: /əˈraɪvəl/)* ![[arrival.mp3]]<br><br>👪 **Word Family:** arrive (v)<br><br>💬 **Ví dụ:** We waited for his arrival.<br>*(-> Chúng tôi chờ sự đến nơi của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of arriving somewhere.

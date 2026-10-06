@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # utensil
 *noun*
 > /juːˈten.sɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Utensil::dụng cụ nhà bếp, đồ dùng *(Phát âm: /juːˈten.sɪl/)* ![[utensil.mp3]]<br><br>👪 **Word Family:** Noun: utensil (đồ dùng), Verb: utilize (sử dụng), Noun: utility (sự hữu ích)<br><br>💬 **Ví dụ:** Chopsticks are the primary eating utensils in many Asian countries.<br>*(-> Đũa là dụng cụ ăn uống chính ở nhiều nước châu Á.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool, container, or other article, especially for household use.

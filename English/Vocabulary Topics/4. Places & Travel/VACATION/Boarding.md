@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Boarding
 *Noun*
 > /ˈbɔrdɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Boarding::Sự lên tàu/máy bay *(Phát âm: /ˈbɔrdɪŋ/)* ![[boarding.mp3]]<br><br>👪 **Word Family:** board (v)<br><br>💬 **Ví dụ:** Show your boarding pass.<br>*(-> Xuất trình thẻ lên máy bay của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of passengers and crew getting aboard a ship or aircraft.

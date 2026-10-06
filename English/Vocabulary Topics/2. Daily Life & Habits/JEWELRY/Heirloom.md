@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Heirloom
 *noun*
 > /ˈeə.luːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
+
+## 🗂️ Flashcard
+Heirloom::Vật gia truyền *(Phát âm: /ˈeə.luːm/)* ![[heirloom.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** This is an heirloom.<br>*(-> Đây là vật gia truyền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A valuable object belonging to a family for generations.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Indictment
 *noun*
 > /ɪnˈdaɪtmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Indictment::Cáo trạng; lệnh truy tố chính thức *(Phát âm: /ɪnˈdaɪtmənt/)* ![[indictment.mp3]]<br><br>👪 **Word Family:** indict (v), indicted (adj)<br><br>💬 **Ví dụ:** The grand jury voted to return an indictment.<br>*(-> Đại bồi thẩm đoàn bỏ phiếu trả lại cáo trạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A formal charge or accusation of a serious crime

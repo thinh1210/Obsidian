@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Concept
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - idea, notion, theory
+
+
+## 🗂️ Flashcard
+Concept::Khái niệm, quan niệm *(Phát âm: /ˈkɒn.sept/)* ![[concept.mp3]]<br><br>👪 **Word Family:** [Noun]: concept, conception, conceptualization, [Verb]: conceptualize, [Adj]: conceptual, [Adv]: conceptually<br><br>💬 **Ví dụ:** It is a difficult concept for young children to understand.<br>*(-> Đó là một khái niệm khó đối với trẻ nhỏ để hiểu.)*

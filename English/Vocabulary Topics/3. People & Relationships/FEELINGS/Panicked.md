@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Panicked
 *adj.*
 > /ˈpæn.ɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Panicked::Hoảng loạn, cuống quýt, mất bình tĩnh do bất ngờ sợ hãi *(Phát âm: /ˈpæn.ɪkt/)* ![[panicked.mp3]]<br><br>👪 **Word Family:** panic (n/v), panicky (adj)<br><br>💬 **Ví dụ:** She made a panicked phone call to the airline after realizing she had left her passport in a taxi.<br>*(-> Cô ấy hoảng hốt gọi điện cho hãng hàng không sau khi nhận ra mình đã để quên hộ chiếu trong taxi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sudden unreasoning terror or fear, often leading to frantic behavior.

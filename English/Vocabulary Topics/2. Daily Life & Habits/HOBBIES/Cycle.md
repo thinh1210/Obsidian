@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Cycle
 *v*
 > /ˈsaɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Cycle::Đạp xe *(Phát âm: /ˈsaɪkl/)* ![[cycle.mp3]]<br><br>👪 **Word Family:** cycling (n), cyclist (n), bicycle (n)<br><br>💬 **Ví dụ:** I cycle to school every day.<br>*(-> Tôi đạp xe đến trường mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To ride a bicycle.

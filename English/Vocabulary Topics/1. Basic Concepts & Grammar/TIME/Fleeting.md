@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Fleeting
 *adj.*
 > /ˈfliːtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Fleeting::Thoáng qua *(Phát âm: /ˈfliːtɪŋ/)* ![[fleeting.mp3]]<br><br>👪 **Word Family:** fleet (v.)<br><br>💬 **Ví dụ:** I caught a fleeting glimpse of him.<br>*(-> Tôi thoáng thấy anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for a very short time

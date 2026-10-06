@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Disburse
 *Verb*
 > /dɪsˈbɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Disburse::Giải ngân, chi tiền (trả tiền từ một quỹ, đặc biệt là quỹ công hoặc chính thức) *(Phát âm: /dɪsˈbɜːs/)* ![[disburse.mp3]]<br><br>👪 **Word Family:** Noun: disbursement (sự giải ngân)<br><br>💬 **Ví dụ:** The college will disburse scholarship funds directly to the students' bank accounts next week.<br>*(-> Trường cao đẳng sẽ giải ngân tiền học bổng trực tiếp vào tài khoản ngân hàng của sinh viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To pay out money from a fund, especially a public or official one.

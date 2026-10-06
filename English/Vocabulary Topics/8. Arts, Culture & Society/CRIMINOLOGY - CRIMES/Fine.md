@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Fine
 *noun*
 > /faɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Fine::Tiền phạt *(Phát âm: /faɪn/)* ![[fine.mp3]]<br><br>👪 **Word Family:** finable (adj), fine (v)<br><br>💬 **Ví dụ:** I had to pay a traffic fine for speeding yesterday.<br>*(-> Tôi đã phải nộp một khoản tiền phạt giao thông vì chạy quá tốc độ ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An amount of money that has to be paid as a punishment for not obeying a rule or law

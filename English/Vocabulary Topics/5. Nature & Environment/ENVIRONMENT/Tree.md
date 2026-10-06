@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Tree
 *n.*
 > /triː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Tree::Cây, cây cối *(Phát âm: /triː/)* ![[tree.mp3]]<br><br>👪 **Word Family:** treeless (adj)<br><br>💬 **Ví dụ:** Birds build nests in the tree.<br>*(-> Chim làm tổ trên cây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A wooden perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Infinitesimal
 *adj.*
 > /ˌɪnfɪnɪˈtesɪml/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Infinitesimal::Cực kì nhỏ *(Phát âm: /ˌɪnfɪnɪˈtesɪml/)* ![[infinitesimal.mp3]]<br><br>👪 **Word Family:** infinitesimally<br><br>💬 **Ví dụ:** Infinitesimal pause.<br>*(-> Quãng nghỉ cực nhỏ.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely small

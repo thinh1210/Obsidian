@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Distance
 *n.*
 > /ˈdɪs.təns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Distance::Khoảng cách địa lý hoặc sự xa cách dần về mặt cảm xúc giữa hai người *(Phát âm: /ˈdɪs.təns/)* ![[distance.mp3]]<br><br>👪 **Word Family:** distant (adj), distantly (adv)<br><br>💬 **Ví dụ:** Physical distance proved no obstacle to their friendship thanks to daily voice notes.<br>*(-> Khoảng cách địa lý không là trở ngại đối với tình bạn của họ nhờ những tin nhắn thoại mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of space between two people, or an emotional lack of intimacy.

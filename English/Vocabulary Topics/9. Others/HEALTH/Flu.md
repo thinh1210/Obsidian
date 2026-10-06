@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Flu
 *n*
 > /fluː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Flu::Bệnh cúm *(Phát âm: /fluː/)* ![[flu.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I couldn't go to work because I had the flu.<br>*(-> Tôi không thể đi làm vì bị cúm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An infectious disease like a very bad cold, that causes fever, pains, and weakness.

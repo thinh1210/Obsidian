@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Fingerprint
 *noun*
 > /ˈfɪŋ.ɡə.prɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Fingerprint::Dấu vân tay *(Phát âm: /ˈfɪŋ.ɡə.prɪnt/)* ![[fingerprint.mp3]]<br><br>👪 **Word Family:** fingerprinting (v/n), fingerprinted (adj)<br><br>💬 **Ví dụ:** Everyone has unique fingerprints.<br>*(-> Mỗi người có dấu vân tay duy nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The mark left by the tip of a person's finger, used for identification.

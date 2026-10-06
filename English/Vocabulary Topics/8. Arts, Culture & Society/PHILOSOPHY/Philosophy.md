@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Philosophy
 *n.*
 > /fɪˈlɒs.ə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Philosophy::Triết học, triết lý sống *(Phát âm: /fɪˈlɒs.ə.fi/)* ![[philosophy.mp3]]<br><br>👪 **Word Family:** philosopher, philosophical, philosophize<br><br>💬 **Ví dụ:** Her philosophy of life is to enjoy every moment.<br>*(-> Triết lý sống của cô ấy là tận hưởng từng khoảnh khắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the fundamental nature of knowledge, reality, and existence.

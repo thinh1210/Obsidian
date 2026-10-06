@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Beef
 *n.*
 > /biːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Beef::Thịt bò *(Phát âm: /biːf/)* ![[beef.mp3]]<br><br>👪 **Word Family:** beefy (adj)<br><br>💬 **Ví dụ:** We are having grilled beef for dinner tonight.<br>*(-> Tối nay chúng tôi sẽ ăn thịt bò nướng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The meat from a cow or bull used as food.

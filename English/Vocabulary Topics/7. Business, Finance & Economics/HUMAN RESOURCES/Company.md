@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Company
 *n.*
 > /ˈkʌm.pə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Company::Công ty *(Phát âm: /ˈkʌm.pə.ni/)* ![[company.mp3]]<br><br>👪 **Word Family:** companion, companionship<br><br>💬 **Ví dụ:** He works for a multinational company.<br>*(-> Anh ấy làm việc cho một công ty đa quốc gia.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A commercial business or organization

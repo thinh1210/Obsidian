@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Mycorrhiza
 *noun*
 > /ˌmaɪkəˈraɪzə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Mycorrhiza::Nấm rễ (quan hệ cộng sinh giữa nấm và rễ cây) *(Phát âm: /ˌmaɪkəˈraɪzə/)* ![[mycorrhiza.mp3]]<br><br>👪 **Word Family:** Noun: mycorrhiza (nấm rễ), Adjective: mycorrhizal (thuộc về nấm rễ)<br><br>💬 **Ví dụ:** Gardeners sometimes add mycorrhiza to soil to help plants absorb nutrients better.<br>*(-> Người làm vườn đôi khi bổ sung nấm rễ vào đất để giúp cây hấp thụ chất dinh dưỡng tốt hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A symbiotic association between a fungus and the roots of a vascular host plant.

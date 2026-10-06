@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Compatibility
 *noun*
 > /kəmˌpæt.əˈbɪl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Compatibility::Sự tương thích *(Phát âm: /kəmˌpæt.əˈbɪl.ə.ti/)* ![[compatibility.mp3]]<br><br>👪 **Word Family:** Compatible (adj)<br><br>💬 **Ví dụ:** Check the compatibility before you buy the charger.<br>*(-> Kiểm tra tính tương thích trước khi bạn mua cục sạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of machines, especially computers, or software to work successfully with other machines or software.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Delight
 *n./v.*
 > /dɪˈlaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Delight::Sự vui thích, làm vui thích *(Phát âm: /dɪˈlaɪt/)* ![[delight.mp3]]<br><br>👪 **Word Family:** Delightful (adj), Delighted (adj)<br><br>💬 **Ví dụ:** To my delight, I passed.<br>*(-> Thật vui sướng, tôi đã thi đỗ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great pleasure.

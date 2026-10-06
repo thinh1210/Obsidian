@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Pension
 *noun*
 > /ˈpen.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Pension::Lương hưu *(Phát âm: /ˈpen.ʃən/)* ![[pension.mp3]]<br><br>👪 **Word Family:** pensioner (n), pensionable (adj)<br><br>💬 **Ví dụ:** Many elderly people rely on their state pension to survive.<br>*(-> Nhiều người già dựa vào lương hưu nhà nước để sinh sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regular payment made during a person's retirement from an investment fund

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Reciprocity
 *noun*
 > /ˌres.əˈprɑː.sə.t̬i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Reciprocity::Sự có qua có lại, sự tương hỗ *(Phát âm: /ˌres.əˈprɑː.sə.t̬i/)* ![[reciprocity.mp3]]<br><br>👪 **Word Family:** reciprocal<br><br>💬 **Ví dụ:** Friendship is based on reciprocity.<br>*(-> Tình bạn dựa trên sự tương hỗ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of exchanging things with others for mutual benefit.

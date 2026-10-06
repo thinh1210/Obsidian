@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Confused
 *adj.*
 > /kənˈfjuːzd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Confused::Bối rối *(Phát âm: /kənˈfjuːzd/)* ![[confused.mp3]]<br><br>👪 **Word Family:** confusion<br><br>💬 **Ví dụ:** I am confused.<br>*(-> Tôi bối rối.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Unable to think clearly

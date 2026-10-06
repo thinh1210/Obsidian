@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Pelagic
 *adj*
 > /pəˈlædʒɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Pelagic::Thuộc biển khơi, thuộc đại dương mở *(Phát âm: /pəˈlædʒɪk/)* ![[pelagic.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Tuna is a pelagic fish.<br>*(-> Cá ngừ là một loài cá biển khơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the open sea.

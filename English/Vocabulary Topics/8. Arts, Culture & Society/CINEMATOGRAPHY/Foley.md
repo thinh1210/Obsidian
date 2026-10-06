@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Foley
 *n.*
 > /ˈfoʊli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Foley::Kỹ thuật tạo tiếng động thực tế, âm thanh foley *(Phát âm: /ˈfoʊli/)* ![[foley.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The foley artist used celery to simulate the sound of breaking bones.<br>*(-> Nghệ sĩ tiếng động foley đã dùng rau cần tây để giả lập âm thanh gãy xương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting images of sound effects created manually and added in post-production

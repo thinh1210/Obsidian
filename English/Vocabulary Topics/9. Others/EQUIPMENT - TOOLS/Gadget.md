@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # gadget
 *noun*
 > /ˈgædʒ.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
+
+## 🗂️ Flashcard
+Gadget::thiết bị thông minh, đồ dùng tiện ích *(Phát âm: /ˈgædʒ.ɪt/)* ![[gadget.mp3]]<br><br>👪 **Word Family:** Noun: gadget (thiết bị thông minh), gadgetry (các loại tiện ích)<br><br>💬 **Ví dụ:** He loves buying the latest electronic gadgets.<br>*(-> Anh ấy rất thích mua các thiết bị điện tử thông minh mới nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a small mechanical or electronic device or tool, especially an ingenious or novel one.

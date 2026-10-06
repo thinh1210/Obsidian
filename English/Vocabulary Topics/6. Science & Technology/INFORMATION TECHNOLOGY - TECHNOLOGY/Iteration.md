@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Iteration
 *noun*
 > /ˌɪt.əˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Technical/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Iteration::Sự lặp lại, vòng lặp *(Phát âm: /ˌɪt.əˈreɪ.ʃən/)* ![[iteration.mp3]]<br><br>👪 **Word Family:** Iterate (v), Iterative (adj)<br><br>💬 **Ví dụ:** The new phone is just a slight iteration of the old one.<br>*(-> Điện thoại mới chỉ là một phiên bản lặp lại chút ít của cái cũ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of doing something again and again, usually to improve it.

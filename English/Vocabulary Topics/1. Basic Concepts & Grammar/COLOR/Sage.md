@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Sage
 *adj., n.*
 > /seɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Sage::Màu xanh xám của lá cây xô thơm, trầm tĩnh và hiện đại *(Phát âm: /seɪdʒ/)* ![[sage.mp3]]<br><br>👪 **Word Family:** sagely (adv), sageness (n)<br><br>💬 **Ví dụ:** The couple chose sage green bridesmaids' dresses to complement the outdoor garden theme.<br>*(-> Cặp đôi đã chọn váy phù dâu màu xanh xám xô thơm để tôn lên chủ đề khu vườn ngoài trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A subtle, muted grayish-green color resembling the dried leaves of the herb sage.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # In-law
 *noun*
 > /ˈɪn.lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+In-law::Họ hàng bên vợ/chồng *(Phát âm: /ˈɪn.lɔː/)* ![[in_law.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I am staying with my in-laws.<br>*(-> Tôi đang ở cùng nhà chồng/vợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A relative by marriage.

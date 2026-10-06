@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Alloy
 *noun.*
 > /ˈælɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Alloy::Hợp kim *(Phát âm: /ˈælɔɪ/)* ![[alloy.mp3]]<br><br>👪 **Word Family:** alloy (Verb)<br><br>💬 **Ví dụ:** The bicycle frame is made of a lightweight aluminum alloy.<br>*(-> Khung xe đạp được làm từ hợp kim nhôm nhẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A metal made by combining two or more metallic elements, especially to give greater strength or resistance to corrosion.

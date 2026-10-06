@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Edifice
 *n.*
 > /ˈedɪfɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Edifice::Cao ốc, tòa nhà đồ sộ *(Phát âm: /ˈedɪfɪs/)* ![[edifice.mp3]]<br><br>👪 **Word Family:** edify, edification<br><br>💬 **Ví dụ:** The new museum is a grand edifice of steel and glass.<br>*(-> Bảo tàng mới là một công trình đồ sộ bằng thép và kính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A large, imposing building, typically a grand or complex one

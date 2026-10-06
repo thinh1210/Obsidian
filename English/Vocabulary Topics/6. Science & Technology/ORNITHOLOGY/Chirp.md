@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Chirp
 *verb*
 > /tʃɜːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Chirp::Kêu chiêm chiếp, kêu lích chích *(Phát âm: /tʃɜːp/)* ![[chirp.mp3]]<br><br>👪 **Word Family:** chirp (v/n), chirpy (adj)<br><br>💬 **Ví dụ:** I love hearing the sparrows chirp in the morning.<br>*(-> Tôi thích nghe chim sẻ kêu chiêm chiếp vào buổi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a small bird or insect) to make a short, sharp, high-pitched sound.

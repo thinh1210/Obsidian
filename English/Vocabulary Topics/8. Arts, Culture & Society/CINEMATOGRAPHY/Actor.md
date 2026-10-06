@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Actor
 *n.*
 > /ˈæktə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Actor::Diễn viên *(Phát âm: /ˈæktə(r)/)* ![[actor.mp3]]<br><br>👪 **Word Family:** acting, actress<br><br>💬 **Ví dụ:** He is a very famous actor in Hollywood.<br>*(-> Anh ấy là một diễn viên rất nổi tiếng ở Hollywood.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who performs in a play, movie, or television program

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Pronunciation
 *n.*
 > /prəˌnʌnsiˈeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Pronunciation::Sự phát âm, cách phát âm *(Phát âm: /prəˌnʌnsiˈeɪʃn/)* ![[pronunciation.mp3]]<br><br>👪 **Word Family:** pronounce, pronounceable<br><br>💬 **Ví dụ:** His pronunciation is very clear.<br>*(-> Cách phát âm của anh ấy rất rõ ràng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which a word is pronounced

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Member
 *n.*
 > /ˈmem.bər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Member::Thành viên của một câu lạc bộ, hội đồng, hoặc nhóm xã hội *(Phát âm: /ˈmem.bər/)* ![[member.mp3]]<br><br>👪 **Word Family:** membership (n)<br><br>💬 **Ví dụ:** He has been a devoted member of the local chess club for three years.<br>*(-> Anh ấy là một thành viên tận tụy của câu lạc bộ cờ vua địa phương suốt ba năm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person, animal, or thing that is part of a group.

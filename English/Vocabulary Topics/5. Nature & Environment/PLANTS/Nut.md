@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Nut
 *n.*
 > /nʌt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Nut::Quả hạch, hạt khô có lớp vỏ ngoài cứng bảo vệ nhân bùi béo bên trong *(Phát âm: /nʌt/)* ![[nut.mp3]]<br><br>👪 **Word Family:** nutty (adj), nutshell (n)<br><br>💬 **Ví dụ:** Squirrels busily buried nuts under the lawn to prepare for the coming winter.<br>*(-> Những chú sóc bận rộn vùi các loại hạt dưới thảm cỏ để chuẩn bị cho mùa đông sắp tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fruit consisting of a hard or tough shell around an edible kernel.

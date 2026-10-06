@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Wallet
 *n*
 > /ˈwɒl.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Wallet::Cái ví *(Phát âm: /ˈwɒl.ɪt/)* ![[wallet.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I lost my wallet.<br>*(-> Tôi mất ví.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small case for money

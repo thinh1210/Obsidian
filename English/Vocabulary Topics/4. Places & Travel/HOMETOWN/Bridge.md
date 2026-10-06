@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Bridge
 *n.*
 > /brɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Bridge::Cây cầu *(Phát âm: /brɪdʒ/)* ![[bridge.mp3]]<br><br>👪 **Word Family:** Bridgework (n.)<br><br>💬 **Ví dụ:** The bridge crosses the river.<br>*(-> Cây cầu bắc qua sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure carrying a road or path across an obstacle.

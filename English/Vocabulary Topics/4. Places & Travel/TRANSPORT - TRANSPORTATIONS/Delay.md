@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Delay
 *noun*
 > /dɪˈleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Delay::Sự chậm trễ, trì hoãn *(Phát âm: /dɪˈleɪ/)* ![[delay.mp3]]<br><br>👪 **Word Family:** Noun: delay (sự trì hoãn), Verb: delay (trì hoãn)<br><br>💬 **Ví dụ:** The heavy snow caused a long delay for all trains.<br>*(-> Tuyết rơi dày đã gây ra sự chậm trễ kéo dài cho tất cả các chuyến tàu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of time by which something is late or postponed.

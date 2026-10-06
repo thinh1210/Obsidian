@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Mother
 *noun*
 > /ˈmʌð.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Mother::Mẹ *(Phát âm: /ˈmʌð.ər/)* ![[mother.mp3]]<br><br>👪 **Word Family:** motherhood (n)<br><br>💬 **Ví dụ:** My mother is cooking.<br>*(-> Mẹ tôi đang nấu ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A female parent.

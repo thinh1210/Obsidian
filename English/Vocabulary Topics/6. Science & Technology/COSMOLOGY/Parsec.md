@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Parsec
 *Noun*
 > /ˈpɑː.sek/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Parsec::Parsec (Đơn vị đo khoảng cách thiên văn) *(Phát âm: /ˈpɑː.sek/)* ![[parsec.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** A parsec is a hard unit to wrap your head around.<br>*(-> Parsec là một đơn vị rất khó để tự hình dung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A unit of distance equal to about 3.26 light-years.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # City
 *n.*
 > /ˈsɪti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+City::Thành phố *(Phát âm: /ˈsɪti/)* ![[city.mp3]]<br><br>👪 **Word Family:** citizen (n)<br><br>💬 **Ví dụ:** I live in a big city.<br>*(-> Tôi sống ở một thành phố lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large and important town.

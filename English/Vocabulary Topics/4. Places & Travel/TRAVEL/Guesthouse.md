@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Guesthouse
 *n.*
 > /ˈɡesthaʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
+
+## 🗂️ Flashcard
+Guesthouse::Nhà trọ tư nhân cung cấp chỗ ở ấm cúng thân tình như ở nhà cho du khách *(Phát âm: /ˈɡesthaʊs/)* ![[guesthouse.mp3]]<br><br>👪 **Word Family:** guest (n)<br><br>💬 **Ví dụ:** We stayed in a charming family-run guesthouse in the countryside.<br>*(-> Chúng tôi nghỉ tại một nhà khách gia đình rất duyên dáng ở vùng nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A private house offering accommodation to paying guests, usually with a homely atmosphere.

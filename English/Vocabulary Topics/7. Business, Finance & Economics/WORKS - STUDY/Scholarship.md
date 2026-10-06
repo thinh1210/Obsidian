@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Scholarship
 *n.*
 > /ˈskɒl.ə.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Scholarship::Học bổng *(Phát âm: /ˈskɒl.ə.ʃɪp/)* ![[scholarship.mp3]]<br><br>👪 **Word Family:** scholar, scholarly<br><br>💬 **Ví dụ:** He won a full scholarship to study in the US.<br>*(-> Anh ấy đã giành được học bổng toàn phần để học tập tại Mỹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An award of financial aid for a student to further their education

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Facility
 *n.*
 > /fəˈsɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Facility::Cơ sở vật chất *(Phát âm: /fəˈsɪləti/)* ![[facility.mp3]]<br><br>👪 **Word Family:** Facilitate (v.)<br><br>💬 **Ví dụ:** The town has great sports facilities.<br>*(-> Thị trấn có cơ sở thể thao tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place, amenity, or piece of equipment provided for a particular purpose.

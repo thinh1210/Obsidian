@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Succulent
 *adj.*
 > /ˈsʌk.jə.lənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Succulent::Mọng nước *(Phát âm: /ˈsʌk.jə.lənt/)* ![[succulent.mp3]]<br><br>👪 **Word Family:** succulence<br><br>💬 **Ví dụ:** This steak is very succulent.<br>*(-> Miếng bít tết này rất mọng nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Tender, juicy, and tasty.

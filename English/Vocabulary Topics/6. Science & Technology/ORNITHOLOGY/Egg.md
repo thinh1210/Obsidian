@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Egg
 *noun*
 > /eɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Egg::Quả trứng *(Phát âm: /eɡ/)* ![[egg.mp3]]<br><br>👪 **Word Family:** egg (n), eggshell (n)<br><br>💬 **Ví dụ:** We found three small, blue eggs in the nest.<br>*(-> Chúng tôi tìm thấy ba quả trứng nhỏ màu xanh lam trong tổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An oval object produced by a female bird, containing a baby bird.

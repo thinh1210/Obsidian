@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Bud
 *noun*
 > /bʌd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Bud::Chồi, nụ hoa *(Phát âm: /bʌd/)* ![[bud.mp3]]<br><br>👪 **Word Family:** Noun: bud (chồi, nụ), Verb: bud (nảy chồi, chớm nở), Adjective: budding (đang nảy chồi)<br><br>💬 **Ví dụ:** In early spring, the rose bushes start to produce buds.<br>*(-> Vào đầu mùa xuân, các bụi hồng bắt đầu đâm nụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small growth on a plant that develops into a leaf, flower, or shoot.

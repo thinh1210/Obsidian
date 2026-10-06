@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Wash
 *v.*
 > /wɒʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Wash::Rửa, giặt *(Phát âm: /wɒʃ/)* ![[wash.mp3]]<br><br>👪 **Word Family:** washer (n.)<br><br>💬 **Ví dụ:** Wash your hands.<br>*(-> Rửa tay đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clean with water and, typically, soap or detergent.

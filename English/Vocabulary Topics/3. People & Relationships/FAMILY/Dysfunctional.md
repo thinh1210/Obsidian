@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Dysfunctional
 *Adj*
 > /dɪsˈfʌŋk.ʃən.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Dysfunctional::Rối loạn, không êm ấm (gia đình) *(Phát âm: /dɪsˈfʌŋk.ʃən.əl/)* ![[dysfunctional.mp3]]<br><br>👪 **Word Family:** Function (Noun): Chức năng<br><br>💬 **Ví dụ:** He grew up in a highly dysfunctional family.<br>*(-> Anh ấy lớn lên trong một gia đình cực kỳ bất hòa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not behaving or working normally.

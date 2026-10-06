@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Pal
 *n.*
 > /pæl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Pal::Bạn, bạn thân thiết, cạ cứng thường xuyên đi cùng nhau *(Phát âm: /pæl/)* ![[pal.mp3]]<br><br>👪 **Word Family:** pals (pl), pally (adj)<br><br>💬 **Ví dụ:** We have been good pals ever since our first day in primary school.<br>*(-> Chúng tôi đã là những người bạn thân kể từ ngày đầu tiên bước vào trường tiểu học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A close friend or companion.

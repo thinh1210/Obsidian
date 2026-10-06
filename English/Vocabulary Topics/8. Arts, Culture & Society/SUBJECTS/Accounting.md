@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Accounting
 *noun*
 > /əˈkaʊntɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Accounting::Kế toán học, ngành kế toán *(Phát âm: /əˈkaʊntɪŋ/)* ![[accounting.mp3]]<br><br>👪 **Word Family:** accountant, account, accountable<br><br>💬 **Ví dụ:** He is studying accounting to manage the family business.<br>*(-> Cậu ấy đang học ngành kế toán để quản lý doanh nghiệp gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or process of keeping financial accounts.

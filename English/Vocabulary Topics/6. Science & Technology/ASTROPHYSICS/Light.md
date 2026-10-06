@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Light
 *noun*
 > /laɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Light::Ánh sáng *(Phát âm: /laɪt/)* ![[light.mp3]]<br><br>👪 **Word Family:** lighten (v), lighthouse (n)<br><br>💬 **Ví dụ:** Please turn on the light so I can read.<br>*(-> Làm ơn bật đèn lên để tôi có thể đọc sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The energy that makes things visible.

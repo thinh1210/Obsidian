@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Inspect
 *Verb*
 > /ɪnˈspekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Inspect::Thanh tra, kiểm tra kỹ lưỡng *(Phát âm: /ɪnˈspekt/)* ![[inspect.mp3]]<br><br>👪 **Word Family:** Inspection (n), inspector (n)<br><br>💬 **Ví dụ:** You should inspect the car before buying it.<br>*(-> Bạn nên kiểm tra kỹ chiếc xe trước khi mua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at something carefully, usually to check that it is safe or correct.

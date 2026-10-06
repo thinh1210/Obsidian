@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Ticket
 *Noun*
 > /ˈtɪkɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
+
+## 🗂️ Flashcard
+Ticket::Vé *(Phát âm: /ˈtɪkɪt/)* ![[ticket.mp3]]<br><br>👪 **Word Family:** ticketing (n)<br><br>💬 **Ví dụ:** Can I see your ticket, please?<br>*(-> Cho tôi xem vé của bạn được không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small piece of paper or card given to someone, usually to show that they have paid for an event, journey, or activity.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Catalyst
 *noun*
 > /ˈkæt.əl.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Catalyst::Chất xúc tác *(Phát âm: /ˈkæt.əl.ɪst/)* ![[catalyst.mp3]]<br><br>👪 **Word Family:** catalysis (n), catalytic (adj), catalyze (v)<br><br>💬 **Ví dụ:** Enzymes act as biological catalysts in the human body.<br>*(-> Enzyme đóng vai trò là chất xúc tác sinh học trong cơ thể con người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change.

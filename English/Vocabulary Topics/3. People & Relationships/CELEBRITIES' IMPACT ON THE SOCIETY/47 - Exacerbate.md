@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Exacerbate
 *v.*
 > /ɪɡˈzæs.ə.beɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Hệ lụy tiêu cực & Sự tác động sâu sắc
+
+## 🗂️ Flashcard
+47 - Exacerbate::Làm trầm trọng thêm *(Phát âm: /ɪɡˈzæs.ə.beɪt/)* ![[exacerbate.mp3]]<br><br>👪 **Word Family:** Exacerbation (n.)<br><br>💬 **Ví dụ:** Exacerbate tensions.<br>*(-> Làm gia tăng căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a problem, bad situation, or negative feeling worse.

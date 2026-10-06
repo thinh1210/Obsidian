@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Cybernetic
 *adjective.*
 > /ˌsaɪ.bɚˈnet̬.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
+
+## 🗂️ Flashcard
+Cybernetic::Thuộc về điều khiển học, liên quan đến kết hợp sinh học - máy móc *(Phát âm: /ˌsaɪ.bɚˈnet̬.ɪk/)* ![[cybernetic.mp3]]<br><br>👪 **Word Family:** cybernetics (noun), cyborg (noun)<br><br>💬 **Ví dụ:** Scientists are studying cybernetic implants to restore missing human motor skills.<br>*(-> Các nhà khoa học đang nghiên cứu các thiết bị cấy ghép điều khiển học để phục hồi các kỹ năng vận động bị mất của con người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to cybernetics (the science of communications and automatic control systems in both machines and living things)

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Guest
 *noun*
 > /ɡest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Guest::Khách mời *(Phát âm: /ɡest/)* ![[guest.mp3]]<br><br>👪 **Word Family:** Guests (plural)<br><br>💬 **Ví dụ:** We have 100 guests.<br>*(-> Chúng tôi có 100 khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is invited to visit or stay in someone's home, or to attend a particular social occasion.

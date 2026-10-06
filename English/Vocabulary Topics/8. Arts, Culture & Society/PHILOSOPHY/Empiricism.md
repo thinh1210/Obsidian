@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Empiricism
 *n.*
 > /ɪmˈpɪr.ɪ.sɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Empiricism::Chủ nghĩa duy nghiệm, thuyết kinh nghiệm *(Phát âm: /ɪmˈpɪr.ɪ.sɪ.zəm/)* ![[empiricism.mp3]]<br><br>👪 **Word Family:** empirical, empiricist, empirically<br><br>💬 **Ví dụ:** Cooking is an art based on empiricism rather than reading recipes.<br>*(-> Nấu ăn là một nghệ thuật dựa trên kinh nghiệm thực nghiệm hơn là đọc công thức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The theory that all knowledge is derived from sense-experience.

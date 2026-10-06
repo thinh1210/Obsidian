@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Hardworking
 *adj.*
 > /ˌhɑːdˈwɜː.kɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Hardworking::Chăm chỉ, cần cù, luôn nỗ lực hết mình trong công việc *(Phát âm: /ˌhɑːdˈwɜː.kɪŋ/)* ![[hardworking.mp3]]<br><br>👪 **Word Family:** hard work (n phr)<br><br>💬 **Ví dụ:** My father is a hardworking carpenter who rarely takes a day off from his workshop.<br>*(-> Bố tôi là một người thợ mộc chăm chỉ, hiếm khi nghỉ một ngày nào ở xưởng gỗ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Always putting a lot of effort and care into one's work.

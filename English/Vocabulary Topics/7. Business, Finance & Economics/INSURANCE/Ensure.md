@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Ensure
 *v.*
 > /ɪnˈʃʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Ensure::Đảm bảo, bảo đảm *(Phát âm: /ɪnˈʃʊər/)* ![[ensure.mp3]]<br><br>👪 **Word Family:** assurance<br><br>💬 **Ví dụ:** Having health insurance ensures you get medical care when needed.<br>*(-> Có bảo hiểm y tế đảm bảo bạn nhận được sự chăm sóc y tế khi cần thiết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To make certain that something will occur or be the case.

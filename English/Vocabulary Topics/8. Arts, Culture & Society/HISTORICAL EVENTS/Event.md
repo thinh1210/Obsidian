@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Event
 *noun*
 > /ɪˈvent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Event::Sự kiện *(Phát âm: /ɪˈvent/)* ![[event.mp3]]<br><br>👪 **Word Family:** eventful (adj), eventless (adj)<br><br>💬 **Ví dụ:** The opening of the new library was a major local event.<br>*(-> Việc khai trương thư viện mới là một sự kiện địa phương lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that happens, especially one of importance.

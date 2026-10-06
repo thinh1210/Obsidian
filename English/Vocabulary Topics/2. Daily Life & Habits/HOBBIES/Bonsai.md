@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Bonsai
 *n.*
 > /ˈbɒn.saɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Bonsai::Nghệ thuật uốn tỉa và chăm sóc cây cảnh thu nhỏ trong chậu theo phong cách bonsai *(Phát âm: /ˈbɒn.saɪ/)* ![[bonsai.mp3]]<br><br>💬 **Ví dụ:** Caring for his miniature pine bonsai teaches him patience, mindfulness, and discipline.<br>*(-> Chăm sóc cây bonsai thông mini rèn luyện cho anh sự kiên nhẫn, tĩnh tâm và tính kỷ luật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of growing ornamental, artificially dwarfed trees or shrubs in small pots.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Entropy
 *noun*
 > /ˈen.trə.pi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Entropy::Entropy – thước đo nhiệt động lực học về sự hỗn loạn trong hệ thống; xu hướng hệ thống hướng đến mất trật tự *(Phát âm: /ˈen.trə.pi/)* ![[entropy.mp3]]<br><br>👪 **Word Family:** entropic (adj), entropically (adv)<br><br>💬 **Ví dụ:** My room always gets messy over time – that's entropy in action!<br>*(-> Phòng tôi luôn lộn xộn dần theo thời gian – đó chính là entropy đang hoạt động!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thermodynamic measure of disorder or randomness in a system; the tendency of systems to move toward disorder.

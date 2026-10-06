@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Hometown
 *n.*
 > /ˈhəʊmtaʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
+
+## 🗂️ Flashcard
+Hometown::Quê hương *(Phát âm: /ˈhəʊmtaʊn/)* ![[hometown.mp3]]<br><br>👪 **Word Family:** Home (n.)<br><br>💬 **Ví dụ:** I go back to my hometown every summer.<br>*(-> Tôi về quê mỗi mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The town or city that a person is from, especially the one in which they were born and lived while they were young.

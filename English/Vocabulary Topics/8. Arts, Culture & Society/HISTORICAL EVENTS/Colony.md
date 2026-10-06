@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Colony
 *noun*
 > /ˈkɑː.lə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Colony::Thuộc địa *(Phát âm: /ˈkɑː.lə.ni/)* ![[colony.mp3]]<br><br>👪 **Word Family:** colonial (adj), colonize (verb), colonization (noun), colonist (noun)<br><br>💬 **Ví dụ:** Ants live in a structured colony where every member has a specific role.<br>*(-> Kiến sống trong một đàn thuộc địa có tổ chức nơi mỗi thành viên đều có vai trò cụ thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A country or area under the full or partial political control of another country and occupied by settlers from that country.

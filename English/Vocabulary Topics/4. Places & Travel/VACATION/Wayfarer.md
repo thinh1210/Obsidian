@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Wayfarer
 *Noun*
 > /ˈweɪˌfɛrər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Wayfarer::Khách bộ hành *(Phát âm: /ˈweɪˌfɛrər/)* ![[wayfarer.mp3]]<br><br>👪 **Word Family:** wayfaring (adj)<br><br>💬 **Ví dụ:** The inn provided shelter for weary wayfarers.<br>*(-> Quán trọ cung cấp chỗ nghỉ cho những khách bộ hành mệt mỏi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who travels on foot.

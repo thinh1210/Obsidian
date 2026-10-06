@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Quilting
 *n.*
 > /ˈkwɪl.tɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Quilting::Nghệ thuật chần bông, may vá mền *(Phát âm: /ˈkwɪl.tɪŋ/)* ![[quilting.mp3]]<br><br>👪 **Word Family:** Quilt (n./v.), Quilter (n.)<br><br>💬 **Ví dụ:** My grandmother taught me the basics of quilting when I was a teenager.<br>*(-> Bà tôi đã dạy tôi những điều cơ bản về nghệ thuật chần bông khi tôi còn là một thiếu niên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of making quilts (coverings for beds made of two layers of cloth with soft material inside).

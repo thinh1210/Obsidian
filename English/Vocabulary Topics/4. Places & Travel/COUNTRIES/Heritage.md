@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Heritage
 *Noun*
 > /ˈherɪtɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
+
+## 🗂️ Flashcard
+Heritage::Di sản *(Phát âm: /ˈherɪtɪdʒ/)* ![[heritage.mp3]]<br><br>👪 **Word Family:** Inherit<br><br>💬 **Ví dụ:** We must protect our national heritage.<br>*(-> Chúng ta phải bảo vệ di sản quốc gia của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Property that is or may be inherited; an inheritance.

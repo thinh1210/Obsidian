@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Fly
 *verb*
 > /flaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
+
+## 🗂️ Flashcard
+Fly::Bay *(Phát âm: /flaɪ/)* ![[fly.mp3]]<br><br>👪 **Word Family:** flight (n), flyer (n)<br><br>💬 **Ví dụ:** Birds can fly high in the air.<br>*(-> Loài chim có thể bay cao trên không trung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move through the air or space.

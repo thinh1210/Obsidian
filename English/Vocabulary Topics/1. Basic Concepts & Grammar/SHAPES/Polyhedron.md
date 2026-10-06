@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Polyhedron
 *n.*
 > /ˌpɒl.iˈhiː.drən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
+
+## 🗂️ Flashcard
+Polyhedron::Khối đa diện *(Phát âm: /ˌpɒl.iˈhiː.drən/)* ![[polyhedron.mp3]]<br><br>👪 **Word Family:** Polyhedral (adj)<br><br>💬 **Ví dụ:** A cube is a type of polyhedron.<br>*(-> Hình lập phương là một loại khối đa diện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid figure with many plane faces, typically more than six.

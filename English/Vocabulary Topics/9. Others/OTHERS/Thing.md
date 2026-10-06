@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Thing
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - object, item, matter
+
+
+## 🗂️ Flashcard
+Thing::Thứ, vật, việc, điều *(Phát âm: /θɪŋ/)* ![[thing.mp3]]<br><br>👪 **Word Family:** [Noun]: thing, things<br><br>💬 **Ví dụ:** What is that strange thing on the table?<br>*(-> Cái thứ kỳ lạ trên bàn kia là gì vậy?)*

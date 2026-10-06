@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Actor
 *n.*
 > /ˈæktə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Actor::Nam diễn viên *(Phát âm: /ˈæktə(r)/)* ![[actor.mp3]]<br><br>👪 **Word Family:** act, actress, acting<br><br>💬 **Ví dụ:** He is a very talented actor.<br>*(-> Anh ấy là một nam diễn viên rất tài năng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person whose profession is acting on the stage, in movies, or on television.

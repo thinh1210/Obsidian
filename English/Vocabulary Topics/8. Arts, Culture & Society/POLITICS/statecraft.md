@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # statecraft
 *noun*
 > /ˈsteɪtkræft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+statecraft::Nghệ thuật trị quốc, tài trị quốc *(Phát âm: /ˈsteɪtkræft/)* ![[statecraft.mp3]]<br><br>👪 **Word Family:** state (n)<br><br>💬 **Ví dụ:** The Prime Minister was praised for his statecraft during the international crisis.<br>*(-> Thủ tướng được khen ngợi vì nghệ thuật trị quốc của mình trong cuộc khủng hoảng quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The skillful management of state affairs; statesmanship.

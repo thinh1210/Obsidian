@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Hat
 *noun*
 > /hæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Hat::Cái mũ, nón *(Phát âm: /hæt/)* ![[hat.mp3]]<br><br>👪 **Word Family:** Hatted (adj)<br><br>💬 **Ví dụ:** Don't forget your sun hat.<br>*(-> Đừng quên mũ chống nắng của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A covering for the head that is not part of a piece of clothing.

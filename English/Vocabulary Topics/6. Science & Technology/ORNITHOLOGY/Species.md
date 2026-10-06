@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Species
 *noun*
 > /ˈspiː.ʃiːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Species::Loài *(Phát âm: /ˈspiː.ʃiːz/)* ![[species.mp3]]<br><br>👪 **Word Family:** species (n), speciation (n)<br><br>💬 **Ví dụ:** There are thousands of bird species in the world.<br>*(-> Có hàng ngàn loài chim trên thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of living organisms consisting of similar individuals capable of exchanging genes.

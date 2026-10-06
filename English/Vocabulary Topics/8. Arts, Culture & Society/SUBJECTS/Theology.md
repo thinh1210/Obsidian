@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Theology
 *n.*
 > /θiˈɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Theology::Thần học; môn Thần học *(Phát âm: /θiˈɒl.ə.dʒi/)* ![[theology.mp3]]<br><br>👪 **Word Family:** theologian (n.), theological (adj.), theologically (adv.)<br><br>💬 **Ví dụ:** He studied theology after a profound spiritual experience.<br>*(-> Anh ấy học thần học sau một trải nghiệm tâm linh sâu sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the nature of God and religious belief.

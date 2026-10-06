@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Expire
 *v.*
 > /ɪkˈspaɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Expire::Hết hạn, đáo hạn *(Phát âm: /ɪkˈspaɪər/)* ![[expire.mp3]]<br><br>👪 **Word Family:** expiration, expiry, expired<br><br>💬 **Ví dụ:** My health insurance card will expire at the end of this month.<br>*(-> Thẻ bảo hiểm y tế của tôi sẽ hết hạn vào cuối tháng này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of a document, authorization, or agreement) cease to be valid, typically after a fixed period of time.

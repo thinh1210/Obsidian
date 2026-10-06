@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Predator
 *noun*
 > /ˈpred.ə.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Predator::Động vật săn mồi, thú ăn thịt *(Phát âm: /ˈpred.ə.tər/)* ![[predator.mp3]]<br><br>👪 **Word Family:** predator (n), predatory (adj), predation (n), prey (n/v)<br><br>💬 **Ví dụ:** Owls are silent predators that hunt mice at night.<br>*(-> Cú là loài săn mồi lặng lẽ chuyên săn chuột vào ban đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that naturally preys on others.

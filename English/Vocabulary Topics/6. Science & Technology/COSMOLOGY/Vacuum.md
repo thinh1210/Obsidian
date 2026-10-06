@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Vacuum
 *Noun*
 > /ˈvæk.juːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Vacuum::Chân không *(Phát âm: /ˈvæk.juːm/)* ![[vacuum.mp3]]<br><br>👪 **Word Family:** vacuous (adj)<br><br>💬 **Ví dụ:** Sound cannot travel through a vacuum.<br>*(-> Âm thanh không thể truyền qua môi trường chân không.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A space entirely devoid of matter.

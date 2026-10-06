@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Watch
 *noun*
 > /wɒtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Watch::Đồng hồ đeo tay *(Phát âm: /wɒtʃ/)* ![[watch.mp3]]<br><br>👪 **Word Family:** Watchmaker (n)<br><br>💬 **Ví dụ:** My watch is five minutes fast.<br>*(-> Đồng hồ của tôi chạy nhanh năm phút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small clock that is worn on a strap around the wrist or, sometimes, carried in a pocket.

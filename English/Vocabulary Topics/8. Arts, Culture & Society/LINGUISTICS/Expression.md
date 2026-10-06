@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Expression
 *noun*
 > /ɪkˈspreʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Expression::sự diễn đạt, biểu cảm, cụm từ *(Phát âm: /ɪkˈspreʃ.ən/)* ![[expression.mp3]]<br><br>👪 **Word Family:** express (v), expressive (adj), expressively (adv)<br><br>💬 **Ví dụ:** "To spill the beans" is a common English expression.<br>*(-> "To spill the beans" là một cụm từ tiếng Anh phổ biến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a word or phrase, or the act of saying what you think or showing how you feel

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # College
 *n.*
 > /ˈkɒlɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+College::Trường cao đẳng, đại học *(Phát âm: /ˈkɒlɪdʒ/)* ![[college.mp3]]<br><br>👪 **Word Family:** collegiate<br><br>💬 **Ví dụ:** She wants to go to college after high school.<br>*(-> Cô ấy muốn đi học đại học sau khi tốt nghiệp cấp ba.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An educational institution providing higher education or specialized training

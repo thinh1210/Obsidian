@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Buddy
 *n.*
 > /ˈbʌd.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Buddy::Bạn thân, bạn chí cốt (thường dùng trong văn phong thân mật, gần gũi) *(Phát âm: /ˈbʌd.i/)* ![[buddy.mp3]]<br><br>👪 **Word Family:** buddies (pl)<br><br>💬 **Ví dụ:** Having a reliable gym buddy keeps you motivated on lazy winter mornings.<br>*(-> Có một người bạn tập đáng tin cậy giúp bạn giữ vững động lực vào những buổi sáng mùa đông lười biếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A close friend, partner, or comrade.

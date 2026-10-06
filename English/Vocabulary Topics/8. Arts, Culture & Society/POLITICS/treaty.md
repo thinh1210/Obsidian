@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # treaty
 *noun*
 > /ˈtriːti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+treaty::Hiệp ước *(Phát âm: /ˈtriːti/)* ![[treaty.mp3]]<br><br>👪 **Word Family:** treat (v), treatment (n)<br><br>💬 **Ví dụ:** The two nations finally signed a peace treaty to end the border war.<br>*(-> Hai quốc gia cuối cùng đã ký một hiệp ước hòa bình để chấm dứt cuộc chiến tranh biên giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formally concluded and ratified agreement between countries.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Hang out
 *phrasal verb*
 > /hæŋ aʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Hang_out::Đi chơi *(Phát âm: /hæŋ aʊt/)* ![[hang_out.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We usually hang out at the mall.<br>*(-> Chúng tôi thường đi chơi ở trung tâm thương mại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Spend a lot of time in a place or with someone.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Shantytown
 *n.*
 > /ˈʃæntitaʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Shantytown::Khu ổ chuột *(Phát âm: /ˈʃæntitaʊn/)* ![[shantytown.mp3]]<br><br>👪 **Word Family:** shanty (n)<br><br>💬 **Ví dụ:** Many people live in shantytowns.<br>*(-> Nhiều người sống trong các khu ổ chuột.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area in or on the edge of a city where poor people live in small, very cheaply built houses.

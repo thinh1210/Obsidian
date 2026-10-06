@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Ship
 *n.*
 > /ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Ship::Phương tiện vận tải hàng hải cỡ lớn đi biển *(Phát âm: /ʃɪp/)* ![[ship.mp3]]<br><br>👪 **Word Family:** shipping (n), shipwreck (n), shipment (n)<br><br>💬 **Ví dụ:** Massive container ships line up outside international ports.<br>*(-> Những chiếc tàu chở container đồ sộ xếp hàng dài ngoài cảng biển quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large boat for transporting people or goods by sea.

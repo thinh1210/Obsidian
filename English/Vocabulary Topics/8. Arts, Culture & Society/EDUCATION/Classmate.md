@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Classmate
 *n.*
 > /ˈklɑːs.meɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Classmate::Bạn cùng lớp học tập chung trong một khóa học hoặc khối lớp *(Phát âm: /ˈklɑːs.meɪt/)* ![[classmate.mp3]]<br><br>👪 **Word Family:** class (n), room-mate (n)<br><br>💬 **Ví dụ:** I met my best friend when we were elementary school classmates fifteen years ago.<br>*(-> Tôi quen người bạn thân nhất khi chúng tôi là bạn cùng lớp tiểu học mười lăm năm trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fellow member of the same class at a school, college, or university.

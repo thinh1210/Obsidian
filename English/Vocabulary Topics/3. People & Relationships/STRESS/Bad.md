@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Bad
 *adj.*
 > /bæd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Bad::Tệ, xấu *(Phát âm: /bæd/)* ![[bad.mp3]]<br><br>👪 **Word Family:** badly (adv), badness (n)<br><br>💬 **Ví dụ:** I had a bad day.<br>*(-> Tôi đã có một ngày tồi tệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not good, unpleasant

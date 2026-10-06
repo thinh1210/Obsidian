@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Isotope
 *noun*
 > /ˈaɪ.sə.təʊp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Isotope::Đồng vị *(Phát âm: /ˈaɪ.sə.təʊp/)* ![[isotope.mp3]]<br><br>👪 **Word Family:** isotopic (adj), isotopically (adv)<br><br>💬 **Ví dụ:** Carbon-14 is a radioactive isotope used in dating ancient organic materials.<br>*(-> Carbon-14 là một đồng vị phóng xạ được dùng để xác định niên đại của các vật liệu hữu cơ cổ xưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons in their nuclei.

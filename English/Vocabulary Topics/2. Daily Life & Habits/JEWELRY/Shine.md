@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Shine
 *verb*
 > /ʃaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
+
+## 🗂️ Flashcard
+Shine::Tỏa sáng, bóng loáng *(Phát âm: /ʃaɪn/)* ![[shine.mp3]]<br><br>👪 **Word Family:** Shiny<br><br>💬 **Ví dụ:** The gold shines.<br>*(-> Vàng sáng bóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Give out a bright light.

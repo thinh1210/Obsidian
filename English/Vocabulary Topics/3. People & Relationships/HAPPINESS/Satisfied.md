@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Satisfied
 *adj.*
 > /ˈsæt.ɪs.faɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
+
+## 🗂️ Flashcard
+Satisfied::Hài lòng, thỏa mãn *(Phát âm: /ˈsæt.ɪs.faɪd/)* ![[satisfied.mp3]]<br><br>👪 **Word Family:** Satisfy (v), Satisfaction (n)<br><br>💬 **Ví dụ:** I am satisfied with my score.<br>*(-> Tôi hài lòng với điểm số của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Contented, pleased with what has been experienced.

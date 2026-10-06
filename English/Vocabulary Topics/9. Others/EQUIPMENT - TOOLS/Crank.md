@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # crank
 *noun*
 > /kræŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Crank::tay quay, trục khuỷu *(Phát âm: /kræŋk/)* ![[crank.mp3]]<br><br>👪 **Word Family:** Noun: crank (tay quay), crankshaft (trục khuỷu), Verb: crank (quay tay, thúc đẩy nhanh), Adjective: cranky (cộc cằn)<br><br>💬 **Ví dụ:** The old car had to be started using a hand crank.<br>*(-> Chiếc xe hơi cổ phải được khởi động bằng tay quay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a part of an axle or shaft bent at right angles, used to convert reciprocal motion into circular motion, or vice versa.

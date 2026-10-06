@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Despot
 *n.*
 > /ˈdespɒt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Despot::Kẻ chuyên quyền, bạo chúa *(Phát âm: /ˈdespɒt/)* ![[despot.mp3]]<br><br>👪 **Word Family:** despotic, despotism<br><br>💬 **Ví dụ:** The despot ruled the country with an iron fist.<br>*(-> Kẻ chuyên quyền đã cai trị đất nước bằng bàn tay sắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way

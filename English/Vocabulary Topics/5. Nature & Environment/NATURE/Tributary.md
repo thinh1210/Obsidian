@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Tributary
 *Noun*
 > /ˈtrɪbjutəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Tributary::Nhánh sông, phụ lưu *(Phát âm: /ˈtrɪbjutəri/)* ![[tributary.mp3]]<br><br>👪 **Word Family:** tribute, contribute<br><br>💬 **Ví dụ:** The Missouri River is the longest tributary of the Mississippi.<br>*(-> Sông Missouri là phụ lưu dài nhất của sông Mississippi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A river or stream flowing into a larger river or lake.

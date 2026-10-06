@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Empathy
 *noun*
 > /ˈem.pə.θi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Empathy::Sự thấu cảm *(Phát âm: /ˈem.pə.θi/)* ![[empathy.mp3]]<br><br>👪 **Word Family:** empathetic (adj)<br><br>💬 **Ví dụ:** You need to have empathy.<br>*(-> Bạn cần có sự thấu cảm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The ability to understand and share the feelings of another.

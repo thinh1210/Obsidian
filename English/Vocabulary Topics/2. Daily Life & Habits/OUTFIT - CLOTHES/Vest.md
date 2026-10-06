@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Vest
 *n.*
 > /vest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Vest::Áo gile không tay khoác ngoài sơ mi, hoặc áo ba lỗ may ô *(Phát âm: /vest/)* ![[vest.mp3]]<br><br>👪 **Word Family:** vested (adj)<br><br>💬 **Ví dụ:** He wore a woolen vest over his button-down shirt for an extra layer of warmth.<br>*(-> Anh ấy mặc một chiếc áo gile len bên ngoài áo sơ mi để giữ ấm tốt hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sleeveless piece of clothing worn over a shirt or under a jacket.

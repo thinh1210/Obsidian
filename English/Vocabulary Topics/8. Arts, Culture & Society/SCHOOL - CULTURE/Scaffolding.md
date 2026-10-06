@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Scaffolding
 *noun*
 > /ˈskæfəldɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Scaffolding::Biện pháp giàn giáo (hỗ trợ học tập tạm thời) *(Phát âm: /ˈskæfəldɪŋ/)* ![[scaffolding.mp3]]<br><br>👪 **Word Family:** scaffold (n, v)<br><br>💬 **Ví dụ:** The teacher provided scaffolding by giving the students a vocabulary sheet before the reading task.<br>*(-> Giáo viên cung cấp sự hỗ trợ giàn giáo bằng cách đưa cho học sinh một tờ từ vựng trước khi thực hiện bài đọc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A variety of instructional techniques used to move students progressively toward stronger understanding and independence in the learning process.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Sofa
 *noun*
 > /ˈsoʊfə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Sofa::Ghế sô pha *(Phát âm: /ˈsoʊfə/)* ![[sofa.mp3]]<br><br>👪 **Word Family:** **Synonyms:** couch<br><br>💬 **Ví dụ:** He is sleeping on the sofa.<br>*(-> Anh ấy đang ngủ trên sô pha.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long upholstered seat with a back and arms, for two or more people.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** couch
-**Antonyms:** 
+**Antonyms:**

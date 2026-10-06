@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Algorithm
 *noun*
 > /ˈæl.ɡə.rɪ.ðəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Algorithm::Thuật toán *(Phát âm: /ˈæl.ɡə.rɪ.ðəm/)* ![[algorithm.mp3]]<br><br>👪 **Word Family:** Algorithmic (adj)<br><br>💬 **Ví dụ:** The app uses an algorithm to suggest songs.<br>*(-> Ứng dụng dùng một thuật toán để gợi ý bài hát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem.

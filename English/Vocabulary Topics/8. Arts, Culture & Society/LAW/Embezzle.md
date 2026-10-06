@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Embezzle
 *verb*
 > /ɪmˈbez.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Embezzle::Tham ô, thụt két, biển thủ công quỹ *(Phát âm: /ɪmˈbez.əl/)* ![[embezzle.mp3]]<br><br>👪 **Word Family:** Embezzle (v), Embezzlement (n), Embezzler (n)<br><br>💬 **Ví dụ:** The accountant was arrested after trying to embezzle millions of dollars from the firm.<br>*(-> Nhân viên kế toán đã bị bắt sau khi cố gắng biển thủ hàng triệu đô la từ công ty.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works).

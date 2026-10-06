@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Conservation
 *noun*
 > /ˌkɒn.səˈveɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Conservation::Sự bảo tồn *(Phát âm: /ˌkɒn.səˈveɪ.ʃən/)* ![[conservation.mp3]]<br><br>👪 **Word Family:** conserve (v), conservation (n), conservationist (n), conservative (adj)<br><br>💬 **Ví dụ:** Local communities are participating in forest conservation.<br>*(-> Các cộng đồng địa phương đang tham gia vào việc bảo tồn rừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The protection of plants and animals, natural areas, and interesting and important structures.

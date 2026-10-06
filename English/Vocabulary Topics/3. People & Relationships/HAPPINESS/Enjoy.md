@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Enjoy
 *v.*
 > /ɪnˈdʒɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Enjoy::Thưởng thức, tận hưởng *(Phát âm: /ɪnˈdʒɔɪ/)* ![[enjoy.mp3]]<br><br>👪 **Word Family:** Enjoyment (n), Enjoyable (adj)<br><br>💬 **Ví dụ:** I enjoy reading books.<br>*(-> Tôi thích đọc sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take delight or pleasure in.

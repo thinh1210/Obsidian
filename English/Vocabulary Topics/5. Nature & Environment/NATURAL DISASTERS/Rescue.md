@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Rescue
 *verb*
 > /ˈres.kjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Rescue::Cứu hộ, giải cứu *(Phát âm: /ˈres.kjuː/)* ![[rescue.mp3]]<br><br>👪 **Word Family:** rescue (n), rescuer (n)<br><br>💬 **Ví dụ:** Firefighters worked hard to rescue a cat stuck in the tree.<br>*(-> Lính cứu hỏa đã nỗ lực giải cứu một chú mèo bị kẹt trên cây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To save someone or something from a dangerous or unpleasant situation.

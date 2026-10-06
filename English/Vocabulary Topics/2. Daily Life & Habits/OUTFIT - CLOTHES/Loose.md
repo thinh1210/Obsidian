@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Loose
 *adj.*
 > /luːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Loose::Rộng thùng thình, không bó sát; lỏng lẻo *(Phát âm: /luːs/)* ![[loose.mp3]]<br><br>👪 **Word Family:** loosen (v), loosely (adv), looseness (n)<br><br>💬 **Ví dụ:** Wear light, loose clothing during a heatwave to keep cool.<br>*(-> Hãy mặc quần áo mỏng rộng trong đợt nắng nóng để giữ cơ thể mát mẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not fitting closely, free or released from fastening or constraint.

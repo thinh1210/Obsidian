@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Hazard
 *n.*
 > /ˈhæzəd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Hazard::Mối nguy hại, rủi ro tiềm ẩn *(Phát âm: /ˈhæzəd/)* ![[hazard.mp3]]<br><br>👪 **Word Family:** hazardous, hazardously<br><br>💬 **Ví dụ:** Loose wires in the office are a major fire hazard.<br>*(-> Dây điện lỏng lẻo trong văn phòng là một nguy cơ hỏa hoạn lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A danger or risk; a potential source of harm or loss.

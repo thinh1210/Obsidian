@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Contaminate
 *v.*
 > /kənˈtæmɪneɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Contaminate::Làm ô nhiễm, làm bẩn *(Phát âm: /kənˈtæmɪneɪt/)* ![[contaminate.mp3]]<br><br>👪 **Word Family:** contamination (n), contaminant (n), contaminated (adj)<br><br>💬 **Ví dụ:** Industrial waste can contaminate rivers.<br>*(-> Chất thải công nghiệp có thể làm ô nhiễm các dòng sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make (something) impure by exposure to or addition of a poisonous or polluting substance.

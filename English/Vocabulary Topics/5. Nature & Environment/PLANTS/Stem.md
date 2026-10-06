@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Stem
 *noun*
 > /stem/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Stem::Thân cây (thảo), cuống hoa *(Phát âm: /stem/)* ![[stem.mp3]]<br><br>👪 **Word Family:** Noun: stem (thân, cuống), Verb: stem (ngăn chặn, bắt nguồn từ)<br><br>💬 **Ví dụ:** Cut the flower stems at an angle before putting them in water.<br>*(-> Hãy cắt xéo cuống hoa trước khi cắm vào nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main long thin part of a plant above the ground, from which leaves or flowers grow.

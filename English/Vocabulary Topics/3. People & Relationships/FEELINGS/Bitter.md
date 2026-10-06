@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Bitter
 *adj.*
 > /ˈbɪt.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Bitter::Cay đắng, cay cú, ôm lòng oán giận vì cảm giác bị đối xử bất công *(Phát âm: /ˈbɪt.ər/)* ![[bitter.mp3]]<br><br>👪 **Word Family:** bitterly (adv), bitterness (n)<br><br>💬 **Ví dụ:** He remained bitter for years after being unfairly passed over for a well-deserved promotion.<br>*(-> Anh ấy vẫn ôm lòng cay đắng suốt nhiều năm sau khi bị gạt ra khỏi đợt thăng chức xứng đáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling angry, hurt, and resentful because of bad experiences or unfair treatment.

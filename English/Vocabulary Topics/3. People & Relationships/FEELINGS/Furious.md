@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Furious
 *adj*
 > /ˈfjʊriəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Furious::Điên tiết, giận dữ *(Phát âm: /ˈfjʊriəs/)* ![[furious.mp3]]<br><br>👪 **Word Family:** fury (n), furiously (adv)<br><br>💬 **Ví dụ:** He was furious with his brother.<br>*(-> Anh ấy rất tức giận với em trai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely angry.

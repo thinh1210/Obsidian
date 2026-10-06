@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Impulsive
 *adj.*
 > /ɪmˈpʌl.sɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Impulsive::Bốc đồng, hấp tấp, làm việc tùy hứng không cân nhắc hậu quả *(Phát âm: /ɪmˈpʌl.sɪv/)* ![[impulsive.mp3]]<br><br>👪 **Word Family:** impulse (n), impulsiveness (n), impulsively (adv)<br><br>💬 **Ví dụ:** Her impulsive purchase of an expensive sports car drained her savings account.<br>*(-> Quyết định mua xe thể thao đắt tiền bốc đồng của cô đã vét sạch tài khoản tiết kiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Acting or done suddenly without any planning or consideration of the results.

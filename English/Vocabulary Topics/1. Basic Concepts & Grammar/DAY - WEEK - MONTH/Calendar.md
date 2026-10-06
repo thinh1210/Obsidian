@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Calendar
 *noun*
 > /ˈkælɪndər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Calendar::Lịch *(Phát âm: /ˈkælɪndər/)* ![[calendar.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I marked your birthday on my calendar.<br>*(-> Tôi đã đánh dấu sinh nhật bạn trên lịch của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chart or series of pages showing the days, weeks, and months of a particular year.

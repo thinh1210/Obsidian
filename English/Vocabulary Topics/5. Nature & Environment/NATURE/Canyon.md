@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Canyon
 *n.*
 > /ˈkænjən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Canyon::Hẻm núi sâu, khe vực khổng lồ do dòng chảy sông ngòi xói mòn qua hàng triệu năm *(Phát âm: /ˈkænjən/)* ![[canyon.mp3]]<br><br>👪 **Word Family:** canyoneering (n)<br><br>💬 **Ví dụ:** Standing at the canyon rim, we were awestruck by the sheer depth and colorful rock layers.<br>*(-> Đứng bên bờ hẻm núi, chúng tôi choáng ngợp trước độ sâu hun hút và các tầng đá đa sắc màu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep gorge, typically one with a river flowing through it.

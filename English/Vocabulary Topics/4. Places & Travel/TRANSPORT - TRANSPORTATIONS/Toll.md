@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Toll
 *noun*
 > /toʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Toll::Phí cầu đường *(Phát âm: /toʊl/)* ![[toll.mp3]]<br><br>👪 **Word Family:** Noun: toll (phí cầu đường), Verb: toll (thu phí, rung chuông)<br><br>💬 **Ví dụ:** Drivers have to pay a toll to cross the Golden Gate Bridge.<br>*(-> Tài xế phải trả phí cầu đường để đi qua Cầu Cổng Vàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A charge payable for permission to use a particular bridge or road.

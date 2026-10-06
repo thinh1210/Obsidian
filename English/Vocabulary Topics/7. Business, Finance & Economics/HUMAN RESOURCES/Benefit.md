@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Benefit
 *n.*
 > /ˈben.ɪ.fɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
+
+## 🗂️ Flashcard
+Benefit::Phúc lợi, lợi ích *(Phát âm: /ˈben.ɪ.fɪt/)* ![[benefit.mp3]]<br><br>👪 **Word Family:** beneficial, beneficiary<br><br>💬 **Ví dụ:** The company offers good benefits, including health insurance.<br>*(-> Công ty cung cấp các phúc lợi tốt, bao gồm cả bảo hiểm y tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extra advantages or perks provided to employees

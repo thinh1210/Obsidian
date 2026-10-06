@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Reconciliation
 *n.*
 > /ˌrekənsɪliˈeɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Reconciliation::Sự đối chiếu số liệu *(Phát âm: /ˌrekənsɪliˈeɪʃən/)* ![[reconciliation.mp3]]<br><br>👪 **Word Family:** reconcile, reconcilable<br><br>💬 **Ví dụ:** The reconciliation of their marriage took years of effort.<br>*(-> Sự hòa giải trong cuộc hôn nhân của họ đã mất nhiều năm nỗ lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of comparing two sets of records to ensure they agree and are accurate

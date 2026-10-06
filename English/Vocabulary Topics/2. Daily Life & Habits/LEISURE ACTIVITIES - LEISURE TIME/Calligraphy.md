@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Calligraphy
 *n*
 > /kəˈlɪɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Calligraphy::Thư pháp *(Phát âm: /kəˈlɪɡrəfi/)* ![[calligraphy.mp3]]<br><br>👪 **Word Family:** Calligrapher (n)<br><br>💬 **Ví dụ:** She wrote the invitations in beautiful calligraphy.<br>*(-> Cô ấy viết thiệp mời bằng thư pháp tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Decorative handwriting or handwritten lettering.

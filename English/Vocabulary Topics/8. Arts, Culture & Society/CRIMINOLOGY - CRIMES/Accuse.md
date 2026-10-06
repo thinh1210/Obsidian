@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Accuse
 *verb*
 > /əˈkjuːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Accuse::Buộc tội, tố cáo *(Phát âm: /əˈkjuːz/)* ![[accuse.mp3]]<br><br>👪 **Word Family:** accusation (n), accuser (n), accusatory (adj)<br><br>💬 **Ví dụ:** He did not want to accuse his friend of stealing the money.<br>*(-> Anh ta không muốn buộc tội bạn mình đã ăn cắp tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say that someone has done something morally wrong, illegal, or unkind

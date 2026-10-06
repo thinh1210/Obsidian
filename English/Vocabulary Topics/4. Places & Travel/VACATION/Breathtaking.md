@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Breathtaking
 *Adjective*
 > /ˈbrɛθˌteɪkɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Breathtaking::Ngoạn mục *(Phát âm: /ˈbrɛθˌteɪkɪŋ/)* ![[breathtaking.mp3]]<br><br>👪 **Word Family:** breathtakingly (adv)<br><br>💬 **Ví dụ:** The view from the top is breathtaking.<br>*(-> Cảnh từ trên đỉnh thật ngoạn mục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Astonishing or awe-inspiring in quality, so as to take one's breath away.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Energy
 *noun*
 > /ˈenədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Energy::Năng lượng *(Phát âm: /ˈenədʒi/)* ![[energy.mp3]]<br><br>👪 **Word Family:** energetic (adj), energize (v)<br><br>💬 **Ví dụ:** Turning off lights when not in use helps save energy.<br>*(-> Tắt đèn khi không sử dụng giúp tiết kiệm năng lượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Power derived from the utilization of physical or chemical resources, especially to provide light and heat or to work machines.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Discourse
 *n.*
 > /ˈdɪskɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Discourse::Đàm thoại, văn phong, hệ ngôn luận *(Phát âm: /ˈdɪskɔːs/)* ![[discourse.mp3]]<br><br>👪 **Word Family:** discourser, discoursing<br><br>💬 **Ví dụ:** The level of political discourse has deteriorated.<br>*(-> Cấp độ của hệ ngôn luận chính trị đã bị suy giảm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Written or spoken communication or debate

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Government
 *Noun*
 > /ˈɡʌvərnmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Government::Chính phủ *(Phát âm: /ˈɡʌvərnmənt/)* ![[government.mp3]]<br><br>👪 **Word Family:** Govern, Governor<br><br>💬 **Ví dụ:** The government passed a new law.<br>*(-> Chính phủ đã thông qua một đạo luật mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The governing body of a nation, state, or community.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Spaghettification
 *Noun*
 > /spəˌɡet.ɪ.fɪˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
+
+## 🗂️ Flashcard
+Spaghettification::Hiệu ứng mỳ Ý *(Phát âm: /spəˌɡet.ɪ.fɪˈkeɪ.ʃən/)* ![[spaghettification.mp3]]<br><br>👪 **Word Family:** spaghettify (v)<br><br>💬 **Ví dụ:** If you fell into a black hole, spaghettification would stretch you like a noodle.<br>*(-> Nếu bạn rơi vào một hố đen, hiệu ứng mỳ Ý sẽ kéo dài bạn ra như một sợi mỳ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The stretching of objects into long, thin shapes by extreme gravitational forces near a black hole.

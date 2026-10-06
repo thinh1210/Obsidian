@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Collaborate
 *v.*
 > /kəˈlæb.ə.reɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Collaborate::Hợp tác, cộng tác *(Phát âm: /kəˈlæb.ə.reɪt/)* ![[collaborate.mp3]]<br><br>👪 **Word Family:** collaboration, collaborative<br><br>💬 **Ví dụ:** Researchers from both departments collaborated on the study.<br>*(-> Các nhà nghiên cứu từ cả hai khoa đã hợp tác trong nghiên cứu này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To work jointly on an activity, especially to produce or create something

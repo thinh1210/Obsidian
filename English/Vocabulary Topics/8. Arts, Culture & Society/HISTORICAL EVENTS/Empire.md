@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Empire
 *noun*
 > /ˈem.paɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+Empire::Đế chế, đế quốc *(Phát âm: /ˈem.paɪər/)* ![[empire.mp3]]<br><br>👪 **Word Family:** emperor (noun), empress (noun), imperial (adj)<br><br>💬 **Ví dụ:** The history museum has a large exhibit about the ancient Roman Empire.<br>*(-> Bảo tàng lịch sử có một khu triển lãm lớn về Đế chế La Mã cổ đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extensive group of states or countries under a single ruling authority, formerly especially an emperor or empress.

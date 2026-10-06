@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Market
 *n*
 > /ˈmɑː.kɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Market::Chợ *(Phát âm: /ˈmɑː.kɪt/)* ![[market.mp3]]<br><br>👪 **Word Family:** Marketing<br><br>💬 **Ví dụ:** I go to the market.<br>*(-> Tôi đi chợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place to buy and sell goods

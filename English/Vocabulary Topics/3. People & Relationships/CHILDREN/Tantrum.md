@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Tantrum
 *noun*
 > /ˈtæn.trəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Tantrum::Cơn ăn vạ, nổi cáu *(Phát âm: /ˈtæn.trəm/)* ![[tantrum.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The toddler threw a tantrum.<br>*(-> Đứa trẻ mới biết đi đã ăn vạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An uncontrolled outburst of anger and frustration, typically in a young child.

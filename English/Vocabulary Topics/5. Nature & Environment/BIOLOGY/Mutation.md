@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Mutation
 *noun*
 > /mjuːˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Mutation::Sự đột biến *(Phát âm: /mjuːˈteɪ.ʃən/)* ![[mutation.mp3]]<br><br>👪 **Word Family:** mutate, mutant, mutagenic<br><br>💬 **Ví dụ:** Some mutations can cause genetic diseases.<br>*(-> Một số đột biến có thể gây ra bệnh di truyền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The changing of the structure of a gene, resulting in a variant form that may be transmitted to subsequent generations.

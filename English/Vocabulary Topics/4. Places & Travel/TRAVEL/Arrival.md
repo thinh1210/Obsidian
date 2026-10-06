@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Arrival
 *noun*
 > /əˈraɪ.vəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Arrival::Sự đến nơi *(Phát âm: /əˈraɪ.vəl/)* ![[arrival.mp3]]<br><br>👪 **Word Family:** Arrive (Verb): Đến nơi, Arriving (Adjective/Gerund): Đang đến<br><br>💬 **Ví dụ:** Waiting for your arrival.<br>*(-> Đang đợi bạn đến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of coming to a place

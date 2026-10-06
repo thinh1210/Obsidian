@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Passenger
 *noun*
 > /ˈpæs.ən.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Passenger::Hành khách *(Phát âm: /ˈpæs.ən.dʒər/)* ![[passenger.mp3]]<br><br>👪 **Word Family:** Passengers<br><br>💬 **Ví dụ:** The train has many passengers.<br>*(-> Chuyến tàu có rất nhiều hành khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is travelling in a vehicle

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Certificate
 *n.*
 > /səˈtɪf.ɪ.kət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Certificate::Giấy chứng chỉ chứng nhận trình độ chuyên môn hoặc hoàn thành khóa đào tạo *(Phát âm: /səˈtɪf.ɪ.kət/)* ![[certificate.mp3]]<br><br>👪 **Word Family:** certify (v), certification (n), certified (adj)<br><br>💬 **Ví dụ:** After finishing the eight-week coding bootcamp, he received a certificate of completion.<br>*(-> Sau khi hoàn thành khóa lập trình tám tuần, anh ấy đã nhận được chứng chỉ tốt nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official document attesting a certain fact, qualification, or completion of a training program.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Water
 *noun*
 > /ˈwɔː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Water::Nước – chất lỏng trong suốt không màu, thiết yếu cho mọi sự sống, gồm hydro và oxy (H₂O) *(Phát âm: /ˈwɔː.tər/)* ![[water.mp3]]<br><br>👪 **Word Family:** watery (adj), waterproof (adj), dehydration (n), aquatic (adj)<br><br>💬 **Ví dụ:** We must drink at least eight glasses of water a day to stay healthy.<br>*(-> Chúng ta phải uống ít nhất tám ly nước một ngày để khỏe mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A transparent, colourless liquid essential for all known life, composed of hydrogen and oxygen (H₂O).

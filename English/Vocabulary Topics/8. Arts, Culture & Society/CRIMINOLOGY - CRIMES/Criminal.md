@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Criminal
 *noun*
 > /ˈkrɪmɪnl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Criminal::Kẻ phạm tội, tội phạm *(Phát âm: /ˈkrɪmɪnl/)* ![[criminal.mp3]]<br><br>👪 **Word Family:** crime (n), criminality (n)<br><br>💬 **Ví dụ:** The police caught the criminal who stole the car.<br>*(-> Cảnh sát đã bắt được tên tội phạm ăn trộm xe ô tô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has committed a crime

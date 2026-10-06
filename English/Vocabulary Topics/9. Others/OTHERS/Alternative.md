@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Alternative
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - option, choice, substitute
+
+
+## 🗂️ Flashcard
+Alternative::Lựa chọn thay thế *(Phát âm: /ɒlˈtɜː.nə.tɪv/)* ![[alternative.mp3]]<br><br>👪 **Word Family:** [Noun]: alternative, alternation, [Verb]: alternate, [Adj]: alternative, alternate, [Adv]: alternatively<br><br>💬 **Ví dụ:** Is there an alternative to this treatment?<br>*(-> Có phương án điều trị thay thế nào cho phương pháp này không?)*

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Spiral
 *n.*
 > /ˈspaɪə.rəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Spiral::Hình xoắn ốc *(Phát âm: /ˈspaɪə.rəl/)* ![[spiral.mp3]]<br><br>👪 **Word Family:** Spiraling (adj)<br><br>💬 **Ví dụ:** The notebook has a spiral binding.<br>*(-> Cuốn sổ có gáy lò xo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape like a coiled spring.

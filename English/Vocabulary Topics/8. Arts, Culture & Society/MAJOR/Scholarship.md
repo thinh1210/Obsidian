@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Scholarship
 *n.*
 > /ˈskɒl.ə.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Scholarship::Học bổng *(Phát âm: /ˈskɒl.ə.ʃɪp/)* ![[scholarship.mp3]]<br><br>👪 **Word Family:** scholarship (n), scholar (n), scholarly (adj)<br><br>💬 **Ví dụ:** He won a scholarship to study abroad.<br>*(-> Anh ấy giành được học bổng để du học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Financial support given to a student to help pay for education, usually based on merit.

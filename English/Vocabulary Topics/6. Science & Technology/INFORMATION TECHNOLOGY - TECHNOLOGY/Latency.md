@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Latency
 *n.*
 > /ˈleɪtənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Latency::Độ trễ *(Phát âm: /ˈleɪtənsi/)* ![[latency.mp3]]<br><br>👪 **Word Family:** Latent (adj.)<br><br>💬 **Ví dụ:** Gamers hate high latency because it causes lag.<br>*(-> Game thủ ghét độ trễ cao vì nó gây ra hiện tượng giật lag.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The delay before a transfer of data begins following an instruction for its transfer.

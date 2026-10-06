@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Infancy
 *noun*
 > /ˈɪn.fən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Infancy::Thời kỳ thơ ấu, lúc phôi thai *(Phát âm: /ˈɪn.fən.si/)* ![[infancy.mp3]]<br><br>👪 **Word Family:** Infant (n)<br><br>💬 **Ví dụ:** He survived a disease in his infancy.<br>*(-> Cậu ấy đã sống sót sau một căn bệnh từ thời thơ ấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state or period of early childhood or babyhood.

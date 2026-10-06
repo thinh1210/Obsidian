@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Fish
 *noun*
 > /fɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Fish::Con cá *(Phát âm: /fɪʃ/)* ![[fish.mp3]]<br><br>👪 **Word Family:** fish (n/v), fishery (n), fisherman (n)<br><br>💬 **Ví dụ:** We bought some gold fish for the aquarium yesterday.<br>*(-> Hôm qua chúng tôi đã mua vài con cá vàng cho bể cá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A limbless cold-blooded vertebrate animal with gills and fins living wholly in water.

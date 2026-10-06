@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Vogue
 *n.*
 > /voʊɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Vogue::Mốt, thời trang đang thịnh hành *(Phát âm: /voʊɡ/)* ![[vogue.mp3]]<br><br>👪 **Word Family:** Voguish (adj)<br><br>💬 **Ví dụ:** Short skirts are back in vogue.<br>*(-> Váy ngắn đang thịnh hành trở lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The prevailing fashion or style at a particular time.

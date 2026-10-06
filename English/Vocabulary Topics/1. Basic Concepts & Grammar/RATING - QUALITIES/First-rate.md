@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # First-rate
 *adj*
 > /ˌfɜːstˈreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+First-rate::Hạng nhất, xuất sắc *(Phát âm: /ˌfɜːstˈreɪt/)* ![[first_rate.mp3]]<br><br>👪 **Word Family:** Rate (noun)<br><br>💬 **Ví dụ:** The food here is absolutely first-rate.<br>*(-> Đồ ăn ở đây thực sự xuất sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of the best class or quality; excellent.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Hypothesis
 *noun*
 > /haɪˈpɒθ.ɪ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Hypothesis::Giả thuyết – lời giải thích được đề xuất cho một quan sát, có thể kiểm chứng bằng thực nghiệm *(Phát âm: /haɪˈpɒθ.ɪ.sɪs/)* ![[hypothesis.mp3]]<br><br>👪 **Word Family:** hypothesize (v), hypothetical (adj), hypothetically (adv)<br><br>💬 **Ví dụ:** My hypothesis is that plants grow faster with music playing nearby.<br>*(-> Giả thuyết của tôi là cây phát triển nhanh hơn khi có nhạc bên cạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A proposed explanation for an observation that can be tested through experimentation.

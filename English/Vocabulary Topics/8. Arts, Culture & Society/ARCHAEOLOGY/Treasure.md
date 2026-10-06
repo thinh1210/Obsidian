@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Treasure
 *noun*
 > /ˈtreʒə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Treasure::Kho báu *(Phát âm: /ˈtreʒə(r)/)* ![[treasure.mp3]]<br><br>👪 **Word Family:** treasury (noun), treasure (verb)<br><br>💬 **Ví dụ:** The pirates hid their treasure on a desert island.<br>*(-> Bọn cướp biển đã giấu kho báu của chúng trên một hòn đảo hoang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A quantity of precious metals, gems, or other valuable objects

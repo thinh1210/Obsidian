@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Rebellious
 *adj*
 > /rɪˈbel.i.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Rebellious::Nổi loạn *(Phát âm: /rɪˈbel.i.əs/)* ![[rebellious.mp3]]<br><br>👪 **Word Family:** Rebel (n), Rebellion (n)<br><br>💬 **Ví dụ:** He went through a rebellious phase.<br>*(-> Cậu ấy đã trải qua một giai đoạn nổi loạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Showing a desire to resist authority, control, or convention.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Offspring
 *noun*
 > /ˈɑːf.sprɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Offspring::Con cái, dòng dõi *(Phát âm: /ˈɑːf.sprɪŋ/)* ![[offspring.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** They are proud of their offspring.<br>*(-> Họ tự hào về con cái của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person's child or children.

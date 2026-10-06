@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Teach
 *v.*
 > /tiːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Teach::Dạy học, giảng dạy *(Phát âm: /tiːtʃ/)* ![[teach.mp3]]<br><br>👪 **Word Family:** teacher, teaching<br><br>💬 **Ví dụ:** My father teaches me how to ride a bike.<br>*(-> Bố tôi dạy tôi cách đi xe đạp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give systematic information to a person or about a subject or skill

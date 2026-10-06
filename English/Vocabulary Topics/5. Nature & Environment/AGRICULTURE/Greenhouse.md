@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Greenhouse
 *n.*
 > /ˈɡriːn.haʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Greenhouse::Nhà kính trồng cây *(Phát âm: /ˈɡriːn.haʊs/)* ![[greenhouse.mp3]]<br><br>👪 **Word Family:** green (adj), house (n)<br><br>💬 **Ví dụ:** She grows strawberries in her backyard greenhouse.<br>*(-> Cô ấy trồng dâu tây trong nhà kính ở sân sau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A glass building in which plants are grown and protected from cold weather.

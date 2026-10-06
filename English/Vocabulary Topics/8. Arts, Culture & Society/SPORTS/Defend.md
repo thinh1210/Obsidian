@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Defend
 *v.*
 > /dɪˈfend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Defend::Phòng ngự, ngăn chặn đối phương ghi điểm hoặc bảo vệ cầu môn *(Phát âm: /dɪˈfend/)* ![[defend.mp3]]<br><br>👪 **Word Family:** defense (n), defensive (adj), defender (n)<br><br>💬 **Ví dụ:** The team defended tenaciously for the last ten minutes to secure a 1-0 victory.<br>*(-> Đội bóng đã phòng thủ kiên cường trong mười phút cuối để bảo toàn chiến thắng 1-0.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To protect one's goal or territory against opposing players in a sports contest.

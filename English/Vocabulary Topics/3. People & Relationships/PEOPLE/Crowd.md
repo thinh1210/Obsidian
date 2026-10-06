@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Crowd
 *n.*
 > /kraʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Crowd::Đám đông *(Phát âm: /kraʊd/)* ![[crowd.mp3]]<br><br>👪 **Word Family:** Crowded<br><br>💬 **Ví dụ:** The crowd cheered.<br>*(-> Đám đông reo hò.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large number of people gathered together.

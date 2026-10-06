@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Structure
 *noun*
 > /ˈstrʌktʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Structure::Cấu trúc, kết cấu, công trình xây dựng *(Phát âm: /ˈstrʌktʃə(r)/)* ![[structure.mp3]]<br><br>👪 **Word Family:** structural (adj), structurally (adv), construct (v)<br><br>💬 **Ví dụ:** The bridge has a strong steel structure that can withstand heavy traffic.<br>*(-> Cây cầu có kết cấu thép chắc chắn có thể chịu được lưu lượng giao thông lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of and relations between the parts or elements of something complex.

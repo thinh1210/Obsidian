@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Nervous
 *adj.*
 > /ˈnɜːrvəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Nervous::Căng thẳng, hồi hộp *(Phát âm: /ˈnɜːrvəs/)* ![[nervous.mp3]]<br><br>👪 **Word Family:** nervously (adv), nervousness (n)<br><br>💬 **Ví dụ:** I always get nervous before exams.<br>*(-> Tôi luôn thấy hồi hộp trước các kỳ thi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Easily agitated or alarmed; tending to be anxious

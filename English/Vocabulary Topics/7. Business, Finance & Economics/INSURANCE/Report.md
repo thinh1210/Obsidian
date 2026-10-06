@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Report
 *v.*
 > /rɪˈpɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Report::Báo cáo, khai báo *(Phát âm: /rɪˈpɔːt/)* ![[report.mp3]]<br><br>👪 **Word Family:** report (n), reporter, reportable<br><br>💬 **Ví dụ:** You must report the car accident to your insurer immediately.<br>*(-> Bạn phải khai báo tai nạn xe hơi với công ty bảo hiểm của bạn ngay lập tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give a description of something or information about it to someone.

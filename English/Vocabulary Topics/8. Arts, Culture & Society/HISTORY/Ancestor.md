@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Ancestor
 *noun*
 > /ˈæn.ses.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Ancestor::Tổ tiên, ông bà tổ tiên *(Phát âm: /ˈæn.ses.tər/)* ![[ancestor.mp3]]<br><br>👪 **Word Family:** ancestral (adj), ancestry (n)<br><br>💬 **Ví dụ:** My ancestors came to America from Ireland in the 19th century.<br>*(-> Tổ tiên của tôi đã đến Mỹ từ Ireland vào thế kỷ 19.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person, typically one more remote than a grandparent, from whom one is descended.

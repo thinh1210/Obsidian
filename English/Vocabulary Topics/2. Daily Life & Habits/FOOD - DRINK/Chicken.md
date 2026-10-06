@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Chicken
 *n.*
 > /ˈtʃɪk.ɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Chicken::Thịt gà *(Phát âm: /ˈtʃɪk.ɪn/)* ![[chicken.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I love fried chicken.<br>*(-> Tôi thích gà rán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The meat of a domestic fowl.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Haute couture
 *n.*
 > /ˌoʊt kuːˈtʊr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Haute couture::Thời trang cao cấp *(Phát âm: /ˌoʊt kuːˈtʊr/)* ![[haute_couture.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She wore a haute couture gown to the gala.<br>*(-> Cô ấy đã mặc một chiếc váy dạ hội cao cấp đến buổi dạ tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The designing and making of high-quality fashion clothes by leading fashion houses.

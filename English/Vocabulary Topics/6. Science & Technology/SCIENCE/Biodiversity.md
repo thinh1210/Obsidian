@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Biodiversity
 *noun*
 > /ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Biodiversity::Đa dạng sinh học – sự đa dạng của sự sống trên Trái Đất, bao gồm các loài, gen và hệ sinh thái khác nhau *(Phát âm: /ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/)* ![[biodiversity.mp3]]<br><br>👪 **Word Family:** biodiversity (n), biodiverse (adj), biodiversification (n)<br><br>💬 **Ví dụ:** The rainforest has amazing biodiversity with thousands of plant and animal species.<br>*(-> Rừng nhiệt đới có đa dạng sinh học tuyệt vời với hàng nghìn loài thực vật và động vật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The variety of life on Earth, including different species, genes, and ecosystems.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Precious
 *adjective*
 > /ˈpreʃ.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
+
+## 🗂️ Flashcard
+Precious::Quý giá *(Phát âm: /ˈpreʃ.əs/)* ![[precious.mp3]]<br><br>👪 **Word Family:** Preciousness<br><br>💬 **Ví dụ:** Gold is precious.<br>*(-> Vàng là quý giá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of great value.

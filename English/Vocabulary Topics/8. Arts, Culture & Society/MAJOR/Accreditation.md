@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Accreditation
 *n.*
 > /əˌkred.ɪˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Accreditation::Sự công nhận, kiểm định chất lượng *(Phát âm: /əˌkred.ɪˈteɪ.ʃən/)* ![[accreditation.mp3]]<br><br>👪 **Word Family:** accreditation (n), accredit (v), accredited (adj)<br><br>💬 **Ví dụ:** Always check a university's accreditation before applying.<br>*(-> Luôn kiểm tra kiểm định của trường đại học trước khi nộp đơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Official recognition that a school or program meets established standards.

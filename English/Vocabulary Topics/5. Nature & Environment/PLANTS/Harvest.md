@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Harvest
 *noun*
 > /ˈhɑːvɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Harvest::Thu hoạch, vụ mùa *(Phát âm: /ˈhɑːvɪst/)* ![[harvest.mp3]]<br><br>👪 **Word Family:** Noun: harvest (vụ thu hoạch), harvester (máy gặt), Verb: harvest (thu hoạch)<br><br>💬 **Ví dụ:** Farmers are working hard during the autumn harvest.<br>*(-> Người nông dân đang làm việc chăm chỉ trong kỳ thu hoạch mùa thu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process or period of gathering in crops.

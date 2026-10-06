@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Attitude
 *noun*
 > /ˈæt̬.ə.tuːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Attitude::Thái độ *(Phát âm: /ˈæt̬.ə.tuːd/)* ![[attitude.mp3]]<br><br>👪 **Word Family:** attitudinal (adj)<br><br>💬 **Ví dụ:** She has a positive attitude.<br>*(-> Cô ấy có thái độ tích cực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A settled way of thinking or feeling about someone or something.

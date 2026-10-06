@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Atmosphere
 *Noun*
 > /ˈætməsfɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Atmosphere::Khí quyển *(Phát âm: /ˈætməsfɪər/)* ![[atmosphere.mp3]]<br><br>👪 **Word Family:** atmospheric, atmospherically<br><br>💬 **Ví dụ:** The air in the mountain has a clean atmosphere.<br>*(-> Không khí trên núi có một bầu không khí sạch sẽ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The envelope of gases surrounding the earth or another planet.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Impeccable
 *adj*
 > /ɪmˈpek.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Impeccable::Hoàn hảo, không tì vết *(Phát âm: /ɪmˈpek.ə.bəl/)* ![[impeccable.mp3]]<br><br>👪 **Word Family:** Impeccably (adv)<br><br>💬 **Ví dụ:** Her manners are impeccable.<br>*(-> Cách cư xử của cô ấy rất hoàn hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In accordance with the highest standards; faultless.

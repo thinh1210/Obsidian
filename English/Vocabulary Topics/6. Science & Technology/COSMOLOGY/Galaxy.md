@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Galaxy
 *Noun*
 > /ˈɡæl.ək.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Galaxy::Thiên hà *(Phát âm: /ˈɡæl.ək.si/)* ![[galaxy.mp3]]<br><br>👪 **Word Family:** galactic (adj)<br><br>💬 **Ví dụ:** Our solar system is located in the Milky Way galaxy.<br>*(-> Hệ mặt trời của chúng ta nằm trong thiên hà Ngân Hà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of millions or billions of stars, together with gas and dust, held by gravity.

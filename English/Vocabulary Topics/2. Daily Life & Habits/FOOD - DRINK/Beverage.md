@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Beverage
 *n.*
 > /ˈbev.ər.ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Beverage::Đồ uống *(Phát âm: /ˈbev.ər.ɪdʒ/)* ![[beverage.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** What is your favorite beverage?<br>*(-> Đồ uống yêu thích của bạn là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A drink, especially one other than water.

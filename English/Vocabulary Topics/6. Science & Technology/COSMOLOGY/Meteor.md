@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Meteor
 *Noun*
 > /ˈmiː.ti.ɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Meteor::Sao băng, thiên thạch *(Phát âm: /ˈmiː.ti.ɔːr/)* ![[meteor.mp3]]<br><br>👪 **Word Family:** meteoric (adj), meteorite (n), meteoroid (n)<br><br>💬 **Ví dụ:** We stayed up late to watch the meteor shower.<br>*(-> Chúng tôi đã thức muộn để xem mưa sao băng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small body of matter from space that enters the earth's atmosphere, appearing as a streak of light.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Melancholic
 *adj.*
 > /ˌmel.əŋˈkɒl.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
+
+## 🗂️ Flashcard
+Melancholic::U sầu, u uất, buồn bã *(Phát âm: /ˌmel.əŋˈkɒl.ɪk/)* ![[melancholic.mp3]]<br><br>👪 **Word Family:** melancholy (n)<br><br>💬 **Ví dụ:** The cellist played a melancholic tune that made many in the audience cry.<br>*(-> Nghệ sĩ cello đã chơi một điệu nhạc u sầu khiến nhiều người trong khán giả bật khóc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing pensive sadness.

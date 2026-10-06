@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Earth
 *Noun*
 > /ɜːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Earth::Trái Đất *(Phát âm: /ɜːθ/)* ![[earth.mp3]]<br><br>👪 **Word Family:** earthy (adj), earthen (adj)<br><br>💬 **Ví dụ:** We need to protect the Earth.<br>*(-> Chúng ta cần bảo vệ Trái Đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The planet on which we live; the world.

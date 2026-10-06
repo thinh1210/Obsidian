@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Machine
 *noun.*
 > /məˈʃiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Machine::Máy móc, thiết bị *(Phát âm: /məˈʃiːn/)* ![[machine.mp3]]<br><br>👪 **Word Family:** machinery (noun), machinist (noun)<br><br>💬 **Ví dụ:** The washing machine is making a strange noise.<br>*(-> Chiếc máy giặt đang phát ra tiếng động lạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of equipment with several moving parts that uses power to do work

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # ubiquitous
 *adj.*
 > /juːˈbɪk.wɪ.təs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Ubiquitous::Ở đâu cũng có, phổ biến khắp nơi *(Phát âm: /juːˈbɪk.wɪ.təs/)* ![[ubiquitous.mp3]]<br><br>👪 **Word Family:** ubiquity (n), ubiquitously (adv)<br><br>💬 **Ví dụ:** Smartphones are now ubiquitous in daily life.<br>*(-> Điện thoại thông minh giờ đây đã xuất hiện ở khắp mọi nơi trong cuộc sống hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Seeming to be everywhere at the same time

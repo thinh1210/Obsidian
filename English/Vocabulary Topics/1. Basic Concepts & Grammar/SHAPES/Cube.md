@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Cube
 *n.*
 > /kjuːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
+
+## 🗂️ Flashcard
+Cube::Hình lập phương *(Phát âm: /kjuːb/)* ![[cube.mp3]]<br><br>👪 **Word Family:** Cubic (adj)<br><br>💬 **Ví dụ:** I need some ice cubes for my drink.<br>*(-> Tôi cần vài viên đá cho đồ uống của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A symmetrical three-dimensional shape, either solid or hollow, contained by six equal squares.

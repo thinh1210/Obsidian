@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Lessor
 *n.*
 > /leˈsɔː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Lessor::Bên cho thuê, người cho thuê tài sản *(Phát âm: /leˈsɔː(r)/)* ![[lessor.mp3]]<br><br>👪 **Word Family:** lease (n/v), lessee (n)<br><br>💬 **Ví dụ:** The lessor must ensure the property meets all safety and building regulations before handing it over.<br>*(-> Bên cho thuê phải đảm bảo bất động sản đáp ứng tất cả các quy định về an toàn và xây dựng trước khi bàn giao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who leases or lets a property to another; a landlord.

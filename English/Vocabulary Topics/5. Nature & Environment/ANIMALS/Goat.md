@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Goat
 *n.*
 > /ɡəʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Goat::Con dê, loài gia súc ăn cỏ leo núi giỏi, cho sữa và thịt *(Phát âm: /ɡəʊt/)* ![[goat.mp3]]<br><br>👪 **Word Family:** kid (n - dê con), goatee (n - chòm râu dê)<br><br>💬 **Ví dụ:** The playful goat chewed on our wooden garden fence.<br>*(-> Con dê tinh nghịch nhai gặm hàng rào gỗ trong vườn của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A horned, bearded animal kept on farms for milk, meat, and wool.

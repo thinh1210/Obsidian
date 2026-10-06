@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Gallery
 *n.*
 > /ˈɡæləri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Gallery::Phòng triển lãm nghệ thuật *(Phát âm: /ˈɡæləri/)* ![[gallery.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The local gallery is showing works by young artists.<br>*(-> Phòng triển lãm địa phương đang trưng bày các tác phẩm của những nghệ sĩ trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A room or building for the display or sale of works of art.

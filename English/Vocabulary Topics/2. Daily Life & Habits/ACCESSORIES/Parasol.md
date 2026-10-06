@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Parasol
 *noun*
 > /ˈpærəsɒl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Parasol::Cái dù che nắng *(Phát âm: /ˈpærəsɒl/)* ![[parasol.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Ladies in the Victorian era often carried a lace parasol.<br>*(-> Phụ nữ thời Victoria thường cầm một chiếc ô ren che nắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A light umbrella used to give shade from the sun.

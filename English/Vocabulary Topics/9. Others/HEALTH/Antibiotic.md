@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Antibiotic
 *n.*
 > /ˌæn.ti.baɪˈɒt.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Antibiotic::Thuốc kháng sinh diệt khuẩn hoặc ngăn vi khuẩn phát triển *(Phát âm: /ˌæn.ti.baɪˈɒt.ɪk/)* ![[antibiotic.mp3]]<br><br>👪 **Word Family:** antibacterial (adj)<br><br>💬 **Ví dụ:** Make sure you finish the complete course of antibiotics even if you feel better.<br>*(-> Hãy chắc chắn bạn uống hết toàn bộ liệu trình kháng sinh ngay cả khi đã cảm thấy đỡ hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A medicine or chemical substance that can destroy or prevent the growth of infectious bacteria in the body.

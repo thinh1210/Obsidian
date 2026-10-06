@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Present
 *n., adj.*
 > /ˈprez.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Present::Hiện tại, khoảnh khắc bây giờ; món quà ý nghĩa của cuộc sống *(Phát âm: /ˈprez.ənt/)* ![[present.mp3]]<br><br>👪 **Word Family:** presently (adv), presence (n), present (v)<br><br>💬 **Ví dụ:** Mindfulness meditation teaches practitioners to focus on the present moment.<br>*(-> Thiền chánh niệm dạy người thực hành tập trung trọn vẹn vào khoảnh khắc hiện tại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of time that is happening now, neither the past nor the future; a gift.

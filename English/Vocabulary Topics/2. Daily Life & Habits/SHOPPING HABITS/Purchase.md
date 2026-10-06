@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Purchase
 *n/v*
 > /ˈpɜː.tʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Purchase::Mua *(Phát âm: /ˈpɜː.tʃəs/)* ![[purchase.mp3]]<br><br>👪 **Word Family:** Purchaser<br><br>💬 **Ví dụ:** I purchased a car.<br>*(-> Tôi đã mua xe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To buy something

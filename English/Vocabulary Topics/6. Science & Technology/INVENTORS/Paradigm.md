@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # paradigm
 *n.*
 > /ˈpær.ə.daɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Tầm vóc thời đại & Chuyển giao thế hệ
+
+## 🗂️ Flashcard
+Paradigm::Mô hình, hệ khuôn mẫu *(Phát âm: /ˈpær.ə.daɪm/)* ![[paradigm.mp3]]<br><br>👪 **Word Family:** paradigmatic (adj)<br><br>💬 **Ví dụ:** The invention of the internet caused a major paradigm shift.<br>*(-> Sự phát minh ra internet đã gây ra một sự chuyển dịch mô hình lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A typical example or pattern of something; a set of ideas or way of thinking

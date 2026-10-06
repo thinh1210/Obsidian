@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Expect
 *Verb*
 > /ɪkˈspekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Expect::Mong đợi *(Phát âm: /ɪkˈspekt/)* ![[expect.mp3]]<br><br>👪 **Word Family:** Expectation (n), Expected (adj)<br><br>💬 **Ví dụ:** I expect rain.<br>*(-> Tôi nghĩ trời sẽ mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To think or believe something will happen.

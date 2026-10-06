@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Tractor
 *n.*
 > /ˈtræk.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Tractor::Máy kéo, xe máy cày *(Phát âm: /ˈtræk.tər/)* ![[tractor.mp3]]<br><br>👪 **Word Family:** traction (n)<br><br>💬 **Ví dụ:** The farmer drove his tractor across the field.<br>*(-> Người nông dân đã lái chiếc máy kéo của mình băng qua cánh đồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A powerful farm vehicle used for pulling heavy machinery or plows.

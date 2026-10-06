@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Onion
 *n.*
 > /ˈʌn.jən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Onion::Củ hành tây *(Phát âm: /ˈʌn.jən/)* ![[onion.mp3]]<br><br>👪 **Word Family:** oniony (adj)<br><br>💬 **Ví dụ:** Chopping onions always makes my eyes water.<br>*(-> Thái hành tây lúc nào cũng làm tôi chảy nước mắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vegetable with a strong smell and flavour, made up of several layers, widely used in cooking.

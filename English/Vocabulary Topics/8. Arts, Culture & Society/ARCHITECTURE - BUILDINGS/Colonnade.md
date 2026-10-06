@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Colonnade
 *n.*
 > /ˌcɒləˈneɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Colonnade::Hàng cột *(Phát âm: /ˌcɒləˈneɪd/)* ![[colonnade.mp3]]<br><br>👪 **Word Family:** colonnaded<br><br>💬 **Ví dụ:** We walked shaded by the grand colonnade surrounding the square.<br>*(-> Chúng tôi đi bộ dưới bóng mát của hàng cột lớn bao quanh quảng trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A row of columns supporting a roof, an entablature, or arcade

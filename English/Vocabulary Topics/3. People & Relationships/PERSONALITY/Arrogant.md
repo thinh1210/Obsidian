@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Arrogant
 *adj.*
 > /ˈær.ə.ɡənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Arrogant::Kiêu ngạo, hống hách, tự cao tự đại coi thường người khác *(Phát âm: /ˈær.ə.ɡənt/)* ![[arrogant.mp3]]<br><br>👪 **Word Family:** arrogance (n), arrogantly (adv)<br><br>💬 **Ví dụ:** His arrogant behavior at the gala offended several prestigious guests.<br>*(-> Hành vi ngạo mạn của anh ta tại buổi dạ hội đã xúc phạm nhiều vị khách quý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unpleasantly proud and behaving as if you are more important than other people.

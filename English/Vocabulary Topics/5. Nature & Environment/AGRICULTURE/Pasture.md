@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Pasture
 *n.*
 > /ˈpɑːs.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Pasture::Đồng cỏ, bãi chăn thả *(Phát âm: /ˈpɑːs.tʃər/)* ![[pasture.mp3]]<br><br>👪 **Word Family:** pastoral (adj), pastoralist (n)<br><br>💬 **Ví dụ:** The sheep were led out to the green pasture.<br>*(-> Đàn cừu được dẫn ra đồng cỏ xanh tươi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Land covered with grass suitable for grazing animals.

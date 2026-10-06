@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Map
 *noun*
 > /mæp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Map::Bản đồ *(Phát âm: /mæp/)* ![[map.mp3]]<br><br>👪 **Word Family:** Mapping (n.)<br><br>💬 **Ví dụ:** Can you find our city on the map?<br>*(-> Bạn có thể tìm thấy thành phố của chúng ta trên bản đồ không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A diagrammatic representation of an area of land or sea.

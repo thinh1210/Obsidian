@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Benefit
 *n.*
 > /ˈbenɪfɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Benefit::Quyền lợi bảo hiểm *(Phát âm: /ˈbenɪfɪt/)* ![[benefit.mp3]]<br><br>👪 **Word Family:** beneficial, beneficiary, benefit (v)<br><br>💬 **Ví dụ:** The death benefit goes to the policyholder's children.<br>*(-> Quyền lợi khi tử vong được chuyển cho con cái của người mua bảo hiểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A payment made by an insurance company or public agency to someone who is entitled to receive it.

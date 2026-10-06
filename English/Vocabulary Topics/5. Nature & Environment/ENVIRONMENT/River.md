@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # River
 *n.*
 > /ˈrɪvə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+River::Sông, dòng sông *(Phát âm: /ˈrɪvə(r)/)* ![[river.mp3]]<br><br>👪 **Word Family:** riverside (n), riverbed (n)<br><br>💬 **Ví dụ:** The kids are swimming in the river.<br>*(-> Trẻ em đang bơi dưới sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A large natural stream of water flowing in a channel to the sea, a lake, or another river.

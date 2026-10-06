@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Lunch
 *n.*
 > /lʌntʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Lunch::Bữa cơm trưa *(Phát âm: /lʌntʃ/)* ![[lunch.mp3]]<br><br>👪 **Word Family:** luncheon (n)<br><br>💬 **Ví dụ:** Let's grab a quick lunch at the cafe across the street.<br>*(-> Chúng ta hãy đi ăn trưa nhanh tại quán cà phê đối diện phố nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A meal eaten in the middle of the day.

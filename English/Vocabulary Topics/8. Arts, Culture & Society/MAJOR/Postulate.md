@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Postulate
 *v., n.*
 > /ˈpɒs.tʃʊ.leɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Postulate::Đặt ra giả thuyết, tiên đề *(Phát âm: /ˈpɒs.tʃʊ.leɪt/)* ![[postulate.mp3]]<br><br>👪 **Word Family:** postulate (n/v), postulation (n)<br><br>💬 **Ví dụ:** Scientists postulate that dark matter makes up most of the universe.<br>*(-> Các nhà khoa học giả thuyết rằng vật chất tối chiếm phần lớn vũ trụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To suggest or assume a theory as a basis for reasoning; a fundamental assumption accepted without proof.

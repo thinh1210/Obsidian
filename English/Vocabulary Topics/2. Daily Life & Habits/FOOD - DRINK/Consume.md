@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Consume
 *v.*
 > /kənˈsjuːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Consume::Tiêu thụ *(Phát âm: /kənˈsjuːm/)* ![[consume.mp3]]<br><br>👪 **Word Family:** consumption<br><br>💬 **Ví dụ:** Don't consume too much sugar.<br>*(-> Đừng tiêu thụ quá nhiều đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Eat, drink, or ingest (food or drink).

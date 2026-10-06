@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Benthic
 *adj*
 > /ˈbenθɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Benthic::Thuộc đáy biển, sinh vật đáy *(Phát âm: /ˈbenθɪk/)* ![[benthic.mp3]]<br><br>👪 **Word Family:** Benthos (n.)<br><br>💬 **Ví dụ:** Crabs are benthic creatures.<br>*(-> Cua là sinh vật đáy biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the bottom of a sea or lake or to the organisms that live there.

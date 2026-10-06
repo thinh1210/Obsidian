@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Disciplined
 *adj.*
 > /ˈdɪs.ə.plɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Disciplined::Có kỷ luật, quy củ, biết kiểm soát bản thân và tuân thủ nguyên tắc *(Phát âm: /ˈdɪs.ə.plɪnd/)* ![[disciplined.mp3]]<br><br>👪 **Word Family:** discipline (n/v), disciplinarian (n), undisciplined (adj)<br><br>💬 **Ví dụ:** Olympic swimmers maintain a disciplined routine, waking at dawn every single morning.<br>*(-> Các kình ngư Olympic duy trì một chế độ tập luyện kỷ luật, thức dậy từ rạng đông mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Behaving in a very controlled way; following rules or a strict routine strictly.

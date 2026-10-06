@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Commercial
 *noun*
 > /kəˈmɜːrʃl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
+
+## 🗂️ Flashcard
+Commercial::Quảng cáo thương mại (truyền hình/phát thanh) *(Phát âm: /kəˈmɜːrʃl/)* ![[commercial.mp3]]<br><br>👪 **Word Family:** commerce (n), commercialize (v)<br><br>💬 **Ví dụ:** The commercial was so funny that we all laughed out loud.<br>*(-> Quảng cáo thương mại đó buồn cười đến mức tất cả chúng tôi đều bật cười.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A television or radio advertisement

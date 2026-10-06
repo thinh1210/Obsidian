@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Adaptable
 *adj.*
 > /əˈdæp.tə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Adaptable::Linh hoạt, uyển chuyển, có khả năng thích nghi nhanh với mọi hoàn cảnh mới *(Phát âm: /əˈdæp.tə.bəl/)* ![[adaptable.mp3]]<br><br>👪 **Word Family:** adapt (v), adaptation (n), adaptability (n)<br><br>💬 **Ví dụ:** Being adaptable helped her thrive after relocating to three different countries.<br>*(-> Tính linh hoạt thích nghi đã giúp cô phát triển sau khi chuyển đến sinh sống tại ba quốc gia khác nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able or willing to change in order to suit different conditions.

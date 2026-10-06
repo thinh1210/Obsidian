@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # screw
 *noun*
 > /skruː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Screw::con ốc vít *(Phát âm: /skruː/)* ![[screw.mp3]]<br><br>👪 **Word Family:** Noun: screw (ốc vít), Verb: screw (siết vít, bắt vít)<br><br>💬 **Ví dụ:** This screw is loose, we need to tighten it.<br>*(-> Con ốc vít này bị lỏng, chúng ta cần siết chặt lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a short, slender sharp-pointed metal pin with a raised helical thread running round it, used to join things together.

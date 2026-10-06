@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Aunt
 *noun*
 > /ɑːnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Aunt::Cô, dì, bác gái *(Phát âm: /ɑːnt/)* ![[aunt.mp3]]<br><br>👪 **Word Family:** great-aunt (n)<br><br>💬 **Ví dụ:** Aunt Mary is visiting.<br>*(-> Dì Mary đang đến thăm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sister of your father or mother.

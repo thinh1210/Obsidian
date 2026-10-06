@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Giggle
 *v.*
 > /ˈɡɪɡ.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Giggle::Cười khúc khích, cười rúc rích nắc nẻ trước những trò đùa con trẻ *(Phát âm: /ˈɡɪɡ.əl/)* ![[giggle.mp3]]<br><br>👪 **Word Family:** giggle (n), giggly (adj)<br><br>💬 **Ví dụ:** The girls giggled under their blankets as they whispered funny secrets at the sleepover.<br>*(-> Mấy bé gái cười khúc khích dưới chăn khi thì thầm những bí mật ngộ nghĩnh trong bữa tiệc ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To laugh repeatedly in a quiet, high, but uncontrolled way, often from silliness or nervousness.

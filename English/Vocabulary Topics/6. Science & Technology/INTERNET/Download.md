@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Download
 *verb / noun*
 > /ˌdaʊnˈləʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Download::Tải xuống, tải về *(Phát âm: /ˌdaʊnˈləʊd/)* ![[download.mp3]]<br><br>👪 **Word Family:** download (n/v), downloader (n), downloadable (adj)<br><br>💬 **Ví dụ:** I downloaded a new game on my phone last night.<br>*(-> Tôi đã tải xuống một trò chơi mới trên điện thoại tối qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To transfer data from the Internet or a server to your device.

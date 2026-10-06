@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Shore
 *n.*
 > /ʃɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Shore::Bờ biển hoặc bờ hồ lớn, dải đất tiếp giáp trực tiếp với mặt nước *(Phát âm: /ʃɔːr/)* ![[shore.mp3]]<br><br>👪 **Word Family:** shoreline (n), seashore (n), offshore (adj)<br><br>💬 **Ví dụ:** We collected smooth seashells while strolling barefoot along the sandy shore.<br>*(-> Chúng tôi nhặt những vỏ ốc nhẵn bóng khi đi dạo chân trần dọc theo bờ biển đầy cát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The land along the edge of a sea, lake, or other large body of water.

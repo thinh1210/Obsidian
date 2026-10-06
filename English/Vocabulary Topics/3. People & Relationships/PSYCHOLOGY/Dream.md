@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Dream
 *noun*
 > /driːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Dream::Giấc mơ *(Phát âm: /driːm/)* ![[dream.mp3]]<br><br>👪 **Word Family:** dreamer (noun)<br><br>💬 **Ví dụ:** I had a weird dream.<br>*(-> Tôi có một giấc mơ kỳ lạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A series of thoughts, images, and sensations occurring in a person's mind during sleep.

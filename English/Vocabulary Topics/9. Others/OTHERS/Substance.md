@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Substance
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - material, matter, essence
+
+
+## 🗂️ Flashcard
+Substance::Chất, thực chất, cốt lõi *(Phát âm: /ˈsʌb.stəns/)* ![[substance.mp3]]<br><br>👪 **Word Family:** [Noun]: substance, [Adj]: substantial, [Adv]: substantially<br><br>💬 **Ví dụ:** The radioactive substance was handled with extreme care.<br>*(-> Chất phóng xạ được xử lý vô cùng cẩn thiện.)*

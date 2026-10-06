@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Director
 *n.*
 > /daɪˈrektə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Director::Đạo diễn *(Phát âm: /daɪˈrektə(r)/)* ![[director.mp3]]<br><br>👪 **Word Family:** direct, direction, directory<br><br>💬 **Ví dụ:** The director yelled "Action!" to start the shot.<br>*(-> Đạo diễn hô "Diễn!" để bắt đầu cú bấm máy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The person who supervises the actors, camera crew, and other staff for a movie

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Demography
 *noun*
 > /dɪˈmɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Demography::Nhân khẩu học *(Phát âm: /dɪˈmɒɡrəfi/)* ![[demography.mp3]]<br><br>👪 **Word Family:** demographer, demographic, demographical<br><br>💬 **Ví dụ:** Demography shows that the country’s population is aging.<br>*(-> Nhân khẩu học cho thấy dân số của quốc gia đang già đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of statistics which illustrate the changing structure of human populations.

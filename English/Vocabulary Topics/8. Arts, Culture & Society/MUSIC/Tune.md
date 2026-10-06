@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Tune
 *n.*
 > /tʃuːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Tune::Giai điệu, điệu nhạc *(Phát âm: /tʃuːn/)* ![[tune.mp3]]<br><br>👪 **Word Family:** tuneful (adj), tuner (n)<br><br>💬 **Ví dụ:** He was humming a familiar tune as he walked down the street.<br>*(-> Cậu ấy đang ngân nga một điệu nhạc quen thuộc khi đi bộ dưới phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A melody, especially one which characterizes a particular piece of music.

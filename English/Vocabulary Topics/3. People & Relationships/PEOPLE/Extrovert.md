@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Extrovert
 *n.*
 > /ˈek.strə.vɜːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Extrovert::Người hướng ngoại *(Phát âm: /ˈek.strə.vɜːt/)* ![[extrovert.mp3]]<br><br>👪 **Word Family:** Extroverted, Extroversion<br><br>💬 **Ví dụ:** He is such an extrovert.<br>*(-> Anh ấy đúng là một người hướng ngoại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An outgoing, overtly expressive person.

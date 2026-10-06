@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Sell
 *v.*
 > /sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Sell::Bán *(Phát âm: /sel/)* ![[sell.mp3]]<br><br>👪 **Word Family:** seller (n), sale (n)<br><br>💬 **Ví dụ:** He decided to sell his old apartment and move to the countryside.<br>*(-> Anh ấy quyết định bán căn hộ cũ và chuyển về quê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To hand over something in exchange for money.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Attire
 *noun*
 > /əˈtaɪr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Attire::Trang phục (thường là trang trọng) *(Phát âm: /əˈtaɪr/)* ![[attire.mp3]]<br><br>👪 **Word Family:** attired (adj)<br><br>💬 **Ví dụ:** Casual attire is perfectly acceptable.<br>*(-> Trang phục bình thường là hoàn toàn chấp nhận được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clothes, especially fine or formal ones.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Locket
 *noun*
 > /ˈlɒk.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Locket::Mặt dây chuyền có nắp *(Phát âm: /ˈlɒk.ɪt/)* ![[locket.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She keeps a photo in her locket.<br>*(-> Cô ấy giữ một bức ảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small ornamental case worn round the neck.

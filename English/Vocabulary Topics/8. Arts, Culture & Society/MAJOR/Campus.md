@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Campus
 *n.*
 > /ˈkæm.pəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Campus::Khuôn viên trường đại học *(Phát âm: /ˈkæm.pəs/)* ![[campus.mp3]]<br><br>👪 **Word Family:** campus (n)<br><br>💬 **Ví dụ:** She lives on campus in the student dormitory.<br>*(-> Cô ấy sống trong khuôn viên trường tại ký túc xá sinh viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The buildings and surrounding land of a university or college.

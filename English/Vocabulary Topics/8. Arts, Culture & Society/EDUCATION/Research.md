@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Research
 *n./v.*
 > /rɪˈsɜːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Research::Nghiên cứu khoa học có hệ thống để phát hiện và kiểm chứng tri thức mới *(Phát âm: /rɪˈsɜːtʃ/)* ![[research.mp3]]<br><br>👪 **Word Family:** researcher (n)<br><br>💬 **Ví dụ:** The student spent weeks conducting research in the university library for her term paper.<br>*(-> Sinh viên đã dành nhiều tuần làm nghiên cứu trong thư viện đại học cho bài tập học kỳ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.

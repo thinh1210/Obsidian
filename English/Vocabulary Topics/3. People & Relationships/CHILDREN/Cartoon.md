@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Cartoon
 *n.*
 > /kɑːˈtuːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Cartoon::Phim hoạt hình thiếu nhi vui nhộn bằng hình vẽ đồ họa *(Phát âm: /kɑːˈtuːn/)* ![[cartoon.mp3]]<br><br>👪 **Word Family:** cartoonist (n)<br><br>💬 **Ví dụ:** The children eagerly woke up early on Saturday morning just to watch their favorite cartoons.<br>*(-> Lũ trẻ háo hức dậy sớm vào sáng thứ Bảy chỉ để xem những bộ phim hoạt hình yêu thích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A TV programme or short film, usually a funny one, made using characters and images that are drawn rather than real.

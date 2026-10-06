@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Irrigate
 *v.*
 > /ˈɪr.ɪ.ɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Irrigate::Tưới tiêu *(Phát âm: /ˈɪr.ɪ.ɡeɪt/)* ![[irrigate.mp3]]<br><br>👪 **Word Family:** irrigation (n), irrigable (adj)<br><br>💬 **Ví dụ:** Farmers irrigate their dry fields during the hot summer months.<br>*(-> Nông dân tưới tiêu cho những cánh đồng khô cằn của họ trong những tháng hè nóng nực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To supply water to land or crops to help growth, typically by means of channels.

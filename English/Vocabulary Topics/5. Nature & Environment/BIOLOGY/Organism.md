@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Organism
 *noun*
 > /ˈɔː.ɡən.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Organism::Sinh vật, cơ thể sống *(Phát âm: /ˈɔː.ɡən.ɪ.zəm/)* ![[organism.mp3]]<br><br>👪 **Word Family:** organic, organization<br><br>💬 **Ví dụ:** The pond is full of tiny organisms.<br>*(-> Ao nước chứa đầy những sinh vật nhỏ bé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An individual animal, plant, or single-celled life form.

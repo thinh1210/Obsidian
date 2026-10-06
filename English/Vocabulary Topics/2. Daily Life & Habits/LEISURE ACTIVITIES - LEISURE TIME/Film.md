@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Film
 *n.*
 > /fɪlm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Film::Bộ phim điện ảnh hoặc truyền hình *(Phát âm: /fɪlm/)* ![[film.mp3]]<br><br>👪 **Word Family:** film (v), filmmaker (n), filming (n)<br><br>💬 **Ví dụ:** Let's relax on the sofa and watch an inspiring documentary film tonight.<br>*(-> Tối nay chúng ta hãy nằm thư giãn trên sofa và xem một bộ phim tài liệu truyền cảm hứng nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of moving pictures, often telling a story, shown on a screen or television.

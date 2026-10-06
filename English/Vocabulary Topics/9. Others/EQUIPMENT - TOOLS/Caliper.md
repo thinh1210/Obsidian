@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # caliper
 *noun*
 > /ˈkæl.ɪ.pər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Caliper::thước kẹp, thước cặp *(Phát âm: /ˈkæl.ɪ.pər/)* ![[caliper.mp3]]<br><br>👪 **Word Family:** Noun: caliper (thước kẹp), Verb: caliper (đo bằng thước kẹp)<br><br>💬 **Ví dụ:** The machinist used a digital caliper to check the thickness of the metal sheet.<br>*(-> Thợ cơ khí đã dùng thước kẹp điện tử để kiểm tra độ dày của tấm kim loại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an instrument for measuring external or internal dimensions, having two hinged legs.

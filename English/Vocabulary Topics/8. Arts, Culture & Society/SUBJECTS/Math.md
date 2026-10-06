@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Math
 *noun*
 > /mæθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Math::Toán học *(Phát âm: /mæθ/)* ![[math.mp3]]<br><br>👪 **Word Family:** mathematician, mathematical<br><br>💬 **Ví dụ:** I have math homework today.<br>*(-> Tôi có bài tập toán hôm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of numbers, shapes, and patterns.

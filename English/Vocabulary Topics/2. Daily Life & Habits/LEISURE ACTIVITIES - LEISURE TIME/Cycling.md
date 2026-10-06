@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Cycling
 *n.*
 > /ˈsaɪ.klɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Cycling::Hoạt động hoặc môn thể thao đạp xe đạp rèn luyện thể lực *(Phát âm: /ˈsaɪ.klɪŋ/)* ![[cycling.mp3]]<br><br>👪 **Word Family:** cycle (v), cyclist (n)<br><br>💬 **Ví dụ:** We enjoy cycling around West Lake on cool Sunday mornings to get some fresh air.<br>*(-> Chúng tôi thích đạp xe quanh Hồ Tây vào những sáng Chủ nhật mát mẻ để hít thở không khí trong lành.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or activity of riding a bicycle.

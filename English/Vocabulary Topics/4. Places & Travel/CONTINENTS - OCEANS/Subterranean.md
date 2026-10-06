@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Subterranean
 *adj*
 > /ˌsʌbtəˈreɪniən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Literature | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Subterranean::Dưới lòng đất *(Phát âm: /ˌsʌbtəˈreɪniən/)* ![[subterranean.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** They found a subterranean river.<br>*(-> Họ tìm thấy một dòng sông ngầm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing, occurring, or done under the earth's surface.

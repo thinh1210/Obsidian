@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Reserved
 *adj.*
 > /rɪˈzɜːvd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Reserved::Kín đáo, dè dặt, ít bộc lộ cảm xúc hay quan điểm trước đám đông *(Phát âm: /rɪˈzɜːvd/)* ![[reserved.mp3]]<br><br>👪 **Word Family:** reservation (n), reserve (v/n)<br><br>💬 **Ví dụ:** Although British people are often stereotyped as reserved, they are genuinely hospitable.<br>*(-> Dù người Anh hay bị mặc định là kín kẽ dè dặt, họ thực chất rất hiếu khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Slow to reveal emotion or opinions; quiet and keeping one's feelings to oneself.

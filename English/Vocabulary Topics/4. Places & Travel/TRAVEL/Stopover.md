@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Stopover
 *noun*
 > /ˈstɒpˌəʊ.vər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Stopover::Điểm dừng chân *(Phát âm: /ˈstɒpˌəʊ.vər/)* ![[stopover.mp3]]<br><br>👪 **Word Family:** Stopovers<br><br>💬 **Ví dụ:** We had a stopover in Dubai.<br>*(-> Chúng tôi có một điểm dừng chân ở Dubai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short stay in a place that you make while you are on a longer journey

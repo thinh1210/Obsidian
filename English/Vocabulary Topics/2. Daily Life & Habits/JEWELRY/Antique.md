@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Antique
 *noun*
 > /ænˈtiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
+
+## 🗂️ Flashcard
+Antique::Đồ cổ *(Phát âm: /ænˈtiːk/)* ![[antique.mp3]]<br><br>👪 **Word Family:** Antiquity<br><br>💬 **Ví dụ:** She collects antiques.<br>*(-> Cô ấy sưu tầm đồ cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A collectible object that has a high value.

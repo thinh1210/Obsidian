@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Melodrama
 *n.*
 > /ˈmelədrɑːmə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
+
+## 🗂️ Flashcard
+Melodrama::Phim tâm lý tình cảm cường điệu, kịch sướt mướt *(Phát âm: /ˈmelədrɑːmə/)* ![[melodrama.mp3]]<br><br>👪 **Word Family:** melodramatic, melodramatically<br><br>💬 **Ví dụ:** She loves old-fashioned Hollywood melodramas.<br>*(-> Cô ấy yêu những bộ phim tình cảm cường điệu kiểu cũ của Hollywood.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sensational dramatic piece with exaggerated characters and exciting events intended to appeal to the emotions

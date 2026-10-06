@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Convict
 *verb / noun*
 > /kənˈvɪkt/ (v), /ˈkɒnvɪkt/ (n)
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Convict::Kết tội; người bị kết tội *(Phát âm: /kənˈvɪkt/ (v), /ˈkɒnvɪkt/ (n))* ![[convict.mp3]]<br><br>👪 **Word Family:** conviction (n), convicted (adj), reconvict (v)<br><br>💬 **Ví dụ:** He was convicted of robbery.<br>*(-> Anh ấy bị kết tội cướp của.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To officially decide in a court that someone is guilty of a crime; a person who has been found guilty

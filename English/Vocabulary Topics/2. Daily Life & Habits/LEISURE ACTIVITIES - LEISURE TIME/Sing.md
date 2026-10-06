@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Sing
 *v*
 > /sɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Sing::Hát *(Phát âm: /sɪŋ/)* ![[sing.mp3]]<br><br>👪 **Word Family:** Singer (n), Song (n)<br><br>💬 **Ví dụ:** He sings beautifully.<br>*(-> Anh ấy hát rất hay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make musical sounds with the voice.

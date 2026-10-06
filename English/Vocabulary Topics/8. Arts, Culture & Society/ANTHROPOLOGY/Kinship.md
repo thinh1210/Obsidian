@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Kinship
 *n.*
 > /ˈkɪn.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Kinship::Quan hệ họ hàng, thân tộc *(Phát âm: /ˈkɪn.ʃɪp/)* ![[kinship.mp3]]<br><br>👪 **Word Family:** kin, kinsman<br><br>💬 **Ví dụ:** He felt a strong sense of kinship with his new coworkers.<br>*(-> Anh ấy cảm thấy một sự gắn kết mạnh mẽ với các đồng nghiệp mới của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Blood relationship; sharing of characteristics or origins.

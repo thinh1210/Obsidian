@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Solipsism
 *n.*
 > /ˈsɒl.ɪp.sɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Solipsism::Chủ nghĩa duy ngã *(Phát âm: /ˈsɒl.ɪp.sɪ.zəm/)* ![[solipsism.mp3]]<br><br>👪 **Word Family:** solipsistic, solipsist<br><br>💬 **Ví dụ:** His self-centered behavior borders on pure solipsism.<br>*(-> Hành vi ích kỷ của anh ta gần như là chủ nghĩa duy ngã thuần túy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The view that the self is all that can be known to exist.

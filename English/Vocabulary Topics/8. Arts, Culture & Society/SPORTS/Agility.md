@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Agility
 *n.*
 > /əˈdʒɪl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Agility::Sự nhanh nhẹn, sự lanh lợi *(Phát âm: /əˈdʒɪl.ə.ti/)* ![[agility.mp3]]<br><br>👪 **Word Family:** agile, agilely<br><br>💬 **Ví dụ:** Gymnastics requires a high level of physical agility.<br>*(-> Thể dục dụng cụ đòi hỏi mức độ nhanh nhẹn thể chất cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to move quickly and easily.

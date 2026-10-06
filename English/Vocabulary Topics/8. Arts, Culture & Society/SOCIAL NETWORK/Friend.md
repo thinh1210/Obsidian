@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Friend
 *verb*
 > /frend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Friend::Kết bạn *(Phát âm: /frend/)* ![[friend.mp3]]<br><br>👪 **Word Family:** friend (n), friendly (adj), friendship (n), unfriend (v)<br><br>💬 **Ví dụ:** He friended me on Facebook yesterday but we haven't spoken yet.<br>*(-> Anh ấy đã kết bạn với tôi trên Facebook hôm qua nhưng chúng tôi vẫn chưa nói chuyện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To add someone to a list of contacts on a social network

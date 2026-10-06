@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Dress
 *noun*
 > /dres/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Dress::Váy liền thân *(Phát âm: /dres/)* ![[dress.mp3]]<br><br>👪 **Word Family:** undress (v)<br><br>💬 **Ví dụ:** She wore a red dress.<br>*(-> Cô ấy mặc chiếc váy đỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women or girls that covers the top half of the body and hangs down over the legs.

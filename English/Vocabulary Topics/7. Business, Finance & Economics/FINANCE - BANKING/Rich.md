@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Rich
 *adj.*
 > /rɪtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Rich::Giàu có *(Phát âm: /rɪtʃ/)* ![[rich.mp3]]<br><br>👪 **Word Family:** richly (adv), richness (noun), enrich (verb)<br><br>💬 **Ví dụ:** He dreams of becoming rich and traveling the world in a yacht.<br>*(-> Anh ấy mơ ước trở nên giàu có và đi du lịch thế giới trên một chiếc du thuyền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a lot of money or valuable possessions.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Matte
 *adj., n.*
 > /mæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Matte::Mờ, mịn, lì, không bị lóa hay bóng bẩy (dùng cho bề mặt sơn, mỹ phẩm, màn hình) *(Phát âm: /mæt/)* ![[matte.mp3]]<br><br>👪 **Word Family:** matte (n/adj)<br><br>💬 **Ví dụ:** The new smartphone is available in a sleek matte black finish that resists fingerprint smudges.<br>*(-> Chiếc điện thoại thông minh mới có phiên bản màu đen mờ tinh tế chống bám vân tay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a dull or flat finish rather than a shiny or glossy surface.

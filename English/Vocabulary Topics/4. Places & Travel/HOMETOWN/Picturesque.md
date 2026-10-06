@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Picturesque
 *adj.*
 > /ˌpɪktʃəˈresk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Picturesque::Đẹp như tranh vẽ *(Phát âm: /ˌpɪktʃəˈresk/)* ![[picturesque.mp3]]<br><br>👪 **Word Family:** Picture (n.)<br><br>💬 **Ví dụ:** The village is incredibly picturesque.<br>*(-> Ngôi làng cực kỳ đẹp như tranh vẽ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Visually attractive, especially in a quaint or pretty style.

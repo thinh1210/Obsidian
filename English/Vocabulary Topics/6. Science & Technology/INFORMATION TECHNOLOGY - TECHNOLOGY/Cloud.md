@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Cloud
 *n.*
 > /klaʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Cloud::Hệ thống điện toán đám mây lưu trữ và xử lý dữ liệu qua mạng internet từ xa *(Phát âm: /klaʊd/)* ![[cloud.mp3]]<br><br>👪 **Word Family:** cloudless (adj), cloudy (adj)<br><br>💬 **Ví dụ:** All my smartphone photos automatically sync to the cloud so I never lose them.<br>*(-> Mọi bức ảnh trên điện thoại của tôi đều tự động đồng bộ lên đám mây nên tôi không bao giờ sợ mất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A network of remote servers hosted on the internet used to store, manage, and process data.

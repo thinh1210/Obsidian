@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Bridge
 *noun*
 > /brɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Bridge::Cây cầu *(Phát âm: /brɪdʒ/)* ![[bridge.mp3]]<br><br>👪 **Word Family:** bridging (n)<br><br>💬 **Ví dụ:** We walked across the wooden bridge to reach the small island.<br>*(-> Chúng tôi đi bộ qua cây cầu gỗ để đến hòn đảo nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle.

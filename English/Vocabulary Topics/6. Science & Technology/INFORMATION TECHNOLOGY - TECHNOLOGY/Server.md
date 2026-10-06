@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Server
 *n.*
 > /ˈsɜːrvər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Server::Máy chủ *(Phát âm: /ˈsɜːrvər/)* ![[server.mp3]]<br><br>👪 **Word Family:** Serve (v.), Service (n.)<br><br>💬 **Ví dụ:** The game is lagging because the server is overloaded.<br>*(-> Trò chơi bị giật lag vì máy chủ đang quá tải.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A computer or computer program which manages access to a centralized resource or service in a network.

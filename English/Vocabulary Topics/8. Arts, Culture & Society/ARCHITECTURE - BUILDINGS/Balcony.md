@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Balcony
 *n.*
 > /ˈbælkəni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Balcony::Ban công *(Phát âm: /ˈbælkəni/)* ![[balcony.mp3]]<br><br>👪 **Word Family:** balconied<br><br>💬 **Ví dụ:** We sat on the balcony and watched the sunset.<br>*(-> Chúng tôi ngồi ngoài ban công và ngắm hoàng hôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A platform projecting from the wall of a building and enclosed with a railing

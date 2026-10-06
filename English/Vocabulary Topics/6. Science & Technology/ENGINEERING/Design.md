@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Design
 *noun/verb*
 > /dɪˈzaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Design::Thiết kế, bản thiết kế *(Phát âm: /dɪˈzaɪn/)* ![[design.mp3]]<br><br>👪 **Word Family:** designer (n), designed (adj)<br><br>💬 **Ví dụ:** She went to school to study fashion design and hopes to launch her own brand.<br>*(-> Cô ấy đã đến trường để học thiết kế thời trang và hy vọng sẽ ra mắt thương hiệu riêng của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To decide upon the look and functioning of a building, garment, or other object.

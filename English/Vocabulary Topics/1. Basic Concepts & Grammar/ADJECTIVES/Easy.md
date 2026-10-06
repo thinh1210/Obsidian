@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Easy
 *adj.*
 > /ˈiːzi/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Easy::Dễ dàng *(Phát âm: /ˈiːzi/)* ![[easy.mp3]]<br><br>👪 **Word Family:** easily<br><br>💬 **Ví dụ:** It is easy.<br>*(-> Nó dễ.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Achieved without great effort

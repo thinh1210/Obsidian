@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Warm-up
 *n./v.*
 > /ˈwɔːm.ʌp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Warm-up::Các động tác khởi động nhẹ nhàng làm nóng cơ bắp trước khi thi đấu/tập luyện *(Phát âm: /ˈwɔːm.ʌp/)* ![[warm_up.mp3]]<br><br>👪 **Word Family:** warm up (phr v)<br><br>💬 **Ví dụ:** Never skip your warm-up routine because cold muscles are far more prone to painful tears.<br>*(-> Đừng bao giờ bỏ qua bài khởi động vì cơ bắp khi chưa nóng rất dễ bị rách đau đớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period or act of preparation for a match, performance, or exercise by doing gentle exercises.

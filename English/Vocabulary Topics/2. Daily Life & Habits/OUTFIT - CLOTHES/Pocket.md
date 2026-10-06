@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Pocket
 *noun*
 > /ˈpɑː.kɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Pocket::Túi quần, túi áo *(Phát âm: /ˈpɑː.kɪt/)* ![[pocket.mp3]]<br><br>👪 **Word Family:** pocketbook (n)<br><br>💬 **Ví dụ:** He kept his hands in his pockets.<br>*(-> Anh ta nhét tay vào túi quần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small bag sewn into or on clothing for carrying small items.

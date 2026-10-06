@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Video game
 *n.*
 > /ˈvɪd.i.əʊ ˌɡeɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Video game::Trò chơi điện tử, game chơi trên máy tính hoặc thiết bị chơi game *(Phát âm: /ˈvɪd.i.əʊ ˌɡeɪm/)* ![[video_game.mp3]]<br><br>👪 **Word Family:** gamer (n), gaming (n)<br><br>💬 **Ví dụ:** On rainy weekend afternoons, my brother and I unwind by playing video games together.<br>*(-> Vào những chiều cuối tuần mưa gió, hai anh em tôi thư giãn bằng việc chơi game cùng nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electronic game played by manipulating images on a television screen or computer monitor.

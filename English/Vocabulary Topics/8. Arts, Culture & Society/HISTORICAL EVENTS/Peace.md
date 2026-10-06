@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Peace
 *noun*
 > /piːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Peace::Hòa bình, sự bình yên *(Phát âm: /piːs/)* ![[peace.mp3]]<br><br>👪 **Word Family:** peaceful (adj), peacefully (adv), pacifist (noun)<br><br>💬 **Ví dụ:** After the loud music stopped, there was finally some peace.<br>*(-> Sau khi tiếng nhạc lớn dừng lại, cuối cùng cũng có được chút yên bình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Freedom from disturbance; quiet and tranquility; freedom from war.

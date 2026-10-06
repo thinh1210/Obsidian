@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Memoir
 *noun*
 > /ˈmem.wɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Memoir::Hồi ký *(Phát âm: /ˈmem.wɑːr/)* ![[memoir.mp3]]<br><br>👪 **Word Family:** memoirist (n)<br><br>💬 **Ví dụ:** The actress recently published a moving memoir about her career.<br>*(-> Nữ diễn viên gần đây đã xuất bản một cuốn hồi ký cảm động về sự nghiệp của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A historical account or biography written from personal knowledge.

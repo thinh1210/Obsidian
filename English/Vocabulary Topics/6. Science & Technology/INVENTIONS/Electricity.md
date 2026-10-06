@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Electricity
 *Noun*
 > /ˌɪl.ekˈtrɪs.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Electricity::Điện, điện năng *(Phát âm: /ˌɪl.ekˈtrɪs.ə.ti/)* ![[electricity.mp3]]<br><br>👪 **Word Family:** Electric (adj), electrical (adj), electrician (n)<br><br>💬 **Ví dụ:** The storm cut off our electricity for three hours.<br>*(-> Cơn bão đã làm cắt điện của chúng tôi trong ba giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of energy that can be produced in several ways and that provides power to devices.

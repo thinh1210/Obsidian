@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Remuneration
 *n.*
 > /rɪˌmjuː.nərˈeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
+
+## 🗂️ Flashcard
+Remuneration::Thù lao, tiền công *(Phát âm: /rɪˌmjuː.nərˈeɪ.ʃən/)* ![[remuneration.mp3]]<br><br>👪 **Word Family:** remunerate, remunerative<br><br>💬 **Ví dụ:** Directors' remuneration has risen significantly in recent years.<br>*(-> Thù lao của các giám đốc đã tăng đáng kể trong những năm gần đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Payment or compensation for work or services

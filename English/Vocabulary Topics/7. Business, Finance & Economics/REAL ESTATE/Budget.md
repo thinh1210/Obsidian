@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Budget
 *n.*
 > /ˈbʌdʒɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Budget::Ngân sách *(Phát âm: /ˈbʌdʒɪt/)* ![[budget.mp3]]<br><br>👪 **Word Family:** budgetary (adj), budget (v)<br><br>💬 **Ví dụ:** We need to set a budget before looking at apartments.<br>*(-> Chúng ta cần thiết lập ngân sách trước khi đi xem căn hộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An estimate of income and expenditure for a set period of time.

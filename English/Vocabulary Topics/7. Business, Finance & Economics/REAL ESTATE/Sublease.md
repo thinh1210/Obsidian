@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Sublease
 *v.*
 > /ˌsʌbˈliːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Sublease::Cho thuê lại (khi mình đang đi thuê) *(Phát âm: /ˌsʌbˈliːs/)* ![[sublease.mp3]]<br><br>👪 **Word Family:** sublease (n), sublessor (n), sublessee (n)<br><br>💬 **Ví dụ:** He got permission from his landlord to sublease his room during the summer holiday.<br>*(-> Anh ấy đã xin phép chủ nhà để cho thuê lại phòng của mình trong kỳ nghỉ hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Lease (a property) to a subtenant.

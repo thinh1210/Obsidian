@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Scarlet
 *n, adj*
 > /ˈskɑːr.lət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Scarlet::Màu đỏ tươi *(Phát âm: /ˈskɑːr.lət/)* ![[scarlet.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He wore a scarlet tie to the party.<br>*(-> Anh ấy đeo một chiếc cà vạt màu đỏ tươi đến bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bright red color.

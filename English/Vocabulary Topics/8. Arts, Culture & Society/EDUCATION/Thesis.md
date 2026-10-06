@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Thesis
 *n.*
 > /ˈθiː.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Thesis::Luận văn hoặc luận án tốt nghiệp đòi hỏi nghiên cứu công phu độc lập *(Phát âm: /ˈθiː.sɪs/)* ![[thesis.mp3]]<br><br>👪 **Word Family:** theses (pl)<br><br>💬 **Ví dụ:** She worked late into the night perfecting the final bibliography section of her master's thesis.<br>*(-> Cô ấy thức khuya để hoàn thiện phần danh mục tài liệu tham khảo cuối cùng cho luận văn thạc sĩ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long essay or dissertation involving personal research, written by a candidate for a university degree.

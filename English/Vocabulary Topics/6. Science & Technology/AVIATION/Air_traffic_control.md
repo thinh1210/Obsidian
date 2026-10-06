@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Air traffic control
 *noun phrase*
 > /ˌeə ˈtræf.ɪk kənˈtrəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Air_traffic_control::Kiểm soát không lưu *(Phát âm: /ˌeə ˈtræf.ɪk kənˈtrəʊl/)* ![[air_traffic_control.mp3]]<br><br>👪 **Word Family:** ATC (abbr), controller (n), airspace management (n)<br><br>💬 **Ví dụ:** The pilot contacted air traffic control before beginning the descent.<br>*(-> Phi công liên lạc với kiểm soát không lưu trước khi bắt đầu hạ độ cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of ground-based controllers who direct aircraft using radio communications to ensure safe and orderly movement through controlled airspace.

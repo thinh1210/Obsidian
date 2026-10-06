@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Carpool
 *verb*
 > /ˈkɑːrpuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Carpool::Đi chung xe *(Phát âm: /ˈkɑːrpuːl/)* ![[carpool.mp3]]<br><br>👪 **Word Family:** Verb: carpool (đi chung xe), Noun: carpool (nhóm đi chung xe), carpooling (việc đi chung xe)<br><br>💬 **Ví dụ:** I carpool with my colleagues to save money on gasoline.<br>*(-> Tôi đi chung xe với các đồng nghiệp để tiết kiệm tiền xăng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Share a ride in a private car with other people, especially for commuting.

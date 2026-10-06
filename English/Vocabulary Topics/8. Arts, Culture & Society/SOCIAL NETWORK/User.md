@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # User
 *noun*
 > /ˈjuːzə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+User::Người dùng *(Phát âm: /ˈjuːzə(r)/)* ![[user.mp3]]<br><br>👪 **Word Family:** use (v/n), useful (adj), usability (n)<br><br>💬 **Ví dụ:** This app has an easy-to-use interface for the average user.<br>*(-> Ứng dụng này có giao diện dễ sử dụng cho người dùng phổ thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who uses or operates a social media account

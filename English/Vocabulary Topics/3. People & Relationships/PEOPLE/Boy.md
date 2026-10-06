@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Boy
 *n.*
 > /bɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Boy::Con trai (cậu bé) *(Phát âm: /bɔɪ/)* ![[boy.mp3]]<br><br>👪 **Word Family:** Boyhood<br><br>💬 **Ví dụ:** The boy loves soccer.<br>*(-> Cậu bé thích bóng đá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A male child or young man.

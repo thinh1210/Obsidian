@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Rough
 *adjective.*
 > /rʌf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Rough::Nhám, thô ráp, gồ ghề, sơ bộ *(Phát âm: /rʌf/)* ![[rough.mp3]]<br><br>👪 **Word Family:** roughly (Adverb), roughness (Noun), roughen (Verb)<br><br>💬 **Ví dụ:** The rough bark of the old oak tree scraped against my hand.<br>*(-> Vỏ cây sồi già thô ráp cọ sát vào tay tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an unequal or uneven surface; not smooth or level; approximate.

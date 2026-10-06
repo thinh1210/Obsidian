@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Shoes
 *noun*
 > /ʃuːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Shoes::Giày *(Phát âm: /ʃuːz/)* ![[shoes.mp3]]<br><br>👪 **Word Family:** shoelace (n)<br><br>💬 **Ví dụ:** I need new shoes.<br>*(-> Tôi cần giày mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coverings for the feet.

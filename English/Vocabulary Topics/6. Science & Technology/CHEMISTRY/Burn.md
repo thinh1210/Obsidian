@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Burn
 *verb*
 > /bɜːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Burn::Đốt cháy, cháy *(Phát âm: /bɜːn/)* ![[burn.mp3]]<br><br>👪 **Word Family:** burning (adj), burner (n)<br><br>💬 **Ví dụ:** Wood burns easily when dry.<br>*(-> Gỗ dễ cháy khi khô ráo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To undergo combustion or consume fuel in a way that produces heat, light, and gases.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Discover
 *Verb*
 > /dɪˈskʌv.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Discover::Khám phá, phát hiện *(Phát âm: /dɪˈskʌv.ər/)* ![[discover.mp3]]<br><br>👪 **Word Family:** Discovery (n), discoverer (n)<br><br>💬 **Ví dụ:** Researchers hope to discover a cure for the disease.<br>*(-> Các nhà nghiên cứu hy vọng khám phá ra phương thuốc chữa trị căn bệnh này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To find information, a place, or an object, especially for the first time.

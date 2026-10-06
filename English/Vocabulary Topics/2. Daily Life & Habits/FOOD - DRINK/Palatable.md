@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Palatable
 *adj.*
 > /ˈpæl.ə.tə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Palatable::Ngon miệng, dễ ăn *(Phát âm: /ˈpæl.ə.tə.bəl/)* ![[palatable.mp3]]<br><br>👪 **Word Family:** palate<br><br>💬 **Ví dụ:** The meal was quite palatable.<br>*(-> Bữa ăn khá ngon miệng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Pleasant to taste.

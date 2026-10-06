@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Infrastructure
 *noun*
 > /ˈɪnfrəstrʌktʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Infrastructure::Cơ sở hạ tầng *(Phát âm: /ˈɪnfrəstrʌktʃə(r)/)* ![[infrastructure.mp3]]<br><br>👪 **Word Family:** structural (adj), infrastructure-based (adj)<br><br>💬 **Ví dụ:** The government is investing millions of dollars to upgrade the city's aging infrastructure.<br>*(-> Chính phủ đang đầu tư hàng triệu đô la để nâng cấp cơ sở hạ tầng cũ kỹ của thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The basic physical and organizational structures and facilities (e.g. buildings, roads, power supplies) needed for the operation of a society or enterprise.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Science
 *noun*
 > /ˈsaɪ.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Science::Khoa học – lĩnh vực nghiên cứu thế giới tự nhiên bằng quan sát và thực nghiệm *(Phát âm: /ˈsaɪ.əns/)* ![[science.mp3]]<br><br>👪 **Word Family:** scientific (adj), scientist (n), scientifically (adv)<br><br>💬 **Ví dụ:** My favourite subject at school is science.<br>*(-> Môn học yêu thích của tôi ở trường là khoa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the natural world through observation and experiment.

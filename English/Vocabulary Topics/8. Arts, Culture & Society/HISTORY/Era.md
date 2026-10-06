@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Era
 *noun*
 > /ˈɪə.rə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
+
+## 🗂️ Flashcard
+Era::Kỷ nguyên, thời đại *(Phát âm: /ˈɪə.rə/)* ![[era.mp3]]<br><br>👪 **Word Family:** epochal (adj - related)<br><br>💬 **Ví dụ:** We are living in the digital era where technology rules.<br>*(-> Chúng ta đang sống trong kỷ nguyên số nơi công nghệ thống trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long and distinct period of history with a particular feature or characteristic.

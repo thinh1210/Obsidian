@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Stir-fry
 *v.*
 > /ˈstɜː.fraɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Stir-fry::Xào nhanh thức ăn trong chảo dầu rất nóng và đảo đều tay *(Phát âm: /ˈstɜː.fraɪ/)* ![[stir_fry.mp3]]<br><br>👪 **Word Family:** stir-fried (adj), stir-frying (n)<br><br>💬 **Ví dụ:** I usually stir-fry bell peppers, mushrooms, and tofu for a quick weeknight dinner.<br>*(-> Tôi thường xào ớt chuông, nấm và đậu phụ cho bữa tối nhanh gọn trong tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cook pieces of vegetable, meat, etc. quickly by moving them around in very hot oil.

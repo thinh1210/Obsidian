@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Emission
 *n.*
 > /ɪˈmɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Emission::Khí thải, sự phát thải khói độc, khí nhà kính hoặc chất phóng xạ vào không khí *(Phát âm: /ɪˈmɪʃn/)* ![[emission.mp3]]<br><br>👪 **Word Family:** emit (v), emitter (n)<br><br>💬 **Ví dụ:** Switching to an electric vehicle significantly reduces personal greenhouse gas emissions.<br>*(-> Chuyển sang đi xe điện giúp giảm đáng kể lượng phát thải khí nhà kính cá nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The production and discharge of something, especially gas or radiation into the atmosphere.

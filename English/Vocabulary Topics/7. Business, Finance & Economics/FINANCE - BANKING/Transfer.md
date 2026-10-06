@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Transfer
 *verb.*
 > /trænsˈfɜːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Transfer::Chuyển khoản *(Phát âm: /trænsˈfɜːr/)* ![[transfer.mp3]]<br><br>👪 **Word Family:** transferable (adj), transferee (noun)<br><br>💬 **Ví dụ:** I will transfer the money to your account this evening.<br>*(-> Tôi sẽ chuyển tiền vào tài khoản của bạn vào tối nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To move money from one account to another.

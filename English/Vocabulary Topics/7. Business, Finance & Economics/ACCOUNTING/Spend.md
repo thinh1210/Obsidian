@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Spend
 *v.*
 > /spend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Spend::Chi tiêu, tiêu tiền *(Phát âm: /spend/)* ![[spend.mp3]]<br><br>👪 **Word Family:** spender, spending, misspend<br><br>💬 **Ví dụ:** How much do you spend on groceries every week?<br>*(-> Bạn chi bao nhiêu tiền cho thực phẩm mỗi tuần?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To use money to buy or pay for something

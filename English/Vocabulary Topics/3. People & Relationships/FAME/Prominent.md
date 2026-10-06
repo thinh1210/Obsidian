@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Prominent
 *adj.*
 > /ˈprɒmɪnənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Prominent::Nổi bật, xuất chúng *(Phát âm: /ˈprɒmɪnənt/)* ![[prominent.mp3]]<br><br>👪 **Word Family:** prominence (n.)<br><br>💬 **Ví dụ:** She is a prominent politician.<br>*(-> Cô ấy là một chính trị gia xuất chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Important; famous.

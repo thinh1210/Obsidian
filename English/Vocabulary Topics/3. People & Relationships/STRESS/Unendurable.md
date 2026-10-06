@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Unendurable
 *adj.*
 > /ˌʌnɪnˈdjʊərəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Unendurable::Không thể chịu đựng nổi *(Phát âm: /ˌʌnɪnˈdjʊərəbl/)* ![[unendurable.mp3]]<br><br>👪 **Word Family:** unendurably (adv)<br><br>💬 **Ví dụ:** The heat was unendurable.<br>*(-> Cái nóng không thể chịu đựng nổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not able to be tolerated or endured

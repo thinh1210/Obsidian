@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Flat
 *n.*
 > /flæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Flat::Căn hộ nằm trong tòa chung cư (tương đương apartment trong Anh-Mỹ) *(Phát âm: /flæt/)* ![[flat.mp3]]<br><br>👪 **Word Family:** flatmate (n)<br><br>💬 **Ví dụ:** He shares a small flat with two university friends in London.<br>*(-> Anh ấy ở chung một căn hộ nhỏ cùng hai người bạn đại học ở London.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of rooms for living in, typically on one floor of a larger building.

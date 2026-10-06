@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Round
 *adj.*
 > /raʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Round::Tròn *(Phát âm: /raʊnd/)* ![[round.mp3]]<br><br>👪 **Word Family:** Roundness (n)<br><br>💬 **Ví dụ:** The ball is round.<br>*(-> Quả bóng hình tròn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shaped like a circle or cylinder.

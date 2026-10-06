@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Encourage
 *Verb*
 > /ɪnˈkʌr.ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Encourage::Khuyến khích *(Phát âm: /ɪnˈkʌr.ɪdʒ/)* ![[encourage.mp3]]<br><br>👪 **Word Family:** Encouragement (n), Encouraging (adj)<br><br>💬 **Ví dụ:** I encourage you to try.<br>*(-> Tôi khuyến khích bạn thử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make someone more likely to do something.

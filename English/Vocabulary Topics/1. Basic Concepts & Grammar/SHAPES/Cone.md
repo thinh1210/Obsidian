@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Cone
 *n.*
 > /kəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
+
+## 🗂️ Flashcard
+Cone::Hình nón *(Phát âm: /kəʊn/)* ![[cone.mp3]]<br><br>👪 **Word Family:** Conical (adj)<br><br>💬 **Ví dụ:** He ate a large ice cream cone.<br>*(-> Anh ấy ăn một chiếc kem ốc quế lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid or hollow object which tapers from a circular or roughly circular base to a point.

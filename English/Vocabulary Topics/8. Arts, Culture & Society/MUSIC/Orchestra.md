@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Orchestra
 *n.*
 > /ˈɔː.kɪ.strə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Orchestra::Dàn nhạc giao hưởng *(Phát âm: /ˈɔː.kɪ.strə/)* ![[orchestra.mp3]]<br><br>👪 **Word Family:** orchestral (adj), orchestrate (v)<br><br>💬 **Ví dụ:** Playing in a symphony orchestra requires high coordination.<br>*(-> Chơi trong một dàn nhạc giao hưởng đòi hỏi sự phối hợp cao độ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large group of musicians playing various instruments together, led by a conductor.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # paraphernalia
 *noun*
 > /ˌpær.ə.fəˈneɪ.li.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
+
+## 🗂️ Flashcard
+Paraphernalia::đồ dùng linh tinh, trang thiết bị đi kèm *(Phát âm: /ˌpær.ə.fəˈneɪ.li.ə/)* ![[paraphernalia.mp3]]<br><br>👪 **Word Family:** Noun: paraphernalia (đồ dùng linh tinh), Adjective: paraphernal (thuộc về đồ dùng riêng)<br><br>💬 **Ví dụ:** The room was cluttered with books and writing paraphernalia.<br>*(-> Căn phòng bừa bộn sách vở và đồ dùng viết lách linh tinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** miscellaneous articles, especially the equipment needed for a particular activity.

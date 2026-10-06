@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Pocket
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - pouch, compartment, bag
+
+
+## 🗂️ Flashcard
+Pocket::Túi quần, túi áo *(Phát âm: /ˈpɒk.ɪt/)* ![[pocket.mp3]]<br><br>👪 **Word Family:** [Noun]: pocket, pocketbook, [Verb]: pocket, [Adj]: pocket-sized<br><br>💬 **Ví dụ:** He put his hands in his pockets to keep them warm.<br>*(-> Anh ấy đút tay vào túi quần để giữ ấm.)*

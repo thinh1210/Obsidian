@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Faithful
 *adjective*
 > /ˈfeɪθfl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Faithful::Chung thủy *(Phát âm: /ˈfeɪθfl/)* ![[faithful.mp3]]<br><br>👪 **Word Family:** Faithfulness (noun)<br><br>💬 **Ví dụ:** He was always faithful to his wife.<br>*(-> Anh ấy luôn chung thủy với vợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Remaining loyal and steadfast.

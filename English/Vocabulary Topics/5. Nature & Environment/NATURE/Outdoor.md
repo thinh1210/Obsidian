@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Outdoor
 *adj.*
 > /ˈaʊtdɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Outdoor::Ngoài trời, thuộc về các hoạt động gắn liền với không gian tự nhiên thoáng đãng *(Phát âm: /ˈaʊtdɔːr/)* ![[outdoor.mp3]]<br><br>👪 **Word Family:** outdoors (adv/n), outdoorsy (adj)<br><br>💬 **Ví dụ:** Camping, kayaking, and hiking are my family's favorite outdoor weekend pastimes.<br>*(-> Cắm trại, chèo thuyền kayak và leo núi là những hoạt động dã ngoại ngoài trời yêu thích dịp cuối tuần của gia đình tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done, situated, or used in the open air rather than inside a building.

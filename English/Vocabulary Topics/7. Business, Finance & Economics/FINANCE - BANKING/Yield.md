@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Yield
 *noun.*
 > /jiːld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
+
+## 🗂️ Flashcard
+Yield::Lợi suất *(Phát âm: /jiːld/)* ![[yield.mp3]]<br><br>👪 **Word Family:** yield (verb), yielding (adj)<br><br>💬 **Ví dụ:** Government bonds are currently paying a very low yield.<br>*(-> Trái phiếu chính phủ hiện đang chi trả lợi suất rất thấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The income return on an investment, such as interest or dividends received from a security.

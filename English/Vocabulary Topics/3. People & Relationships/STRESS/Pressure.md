@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Pressure
 *n.*
 > /ˈpreʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Pressure::Áp lực *(Phát âm: /ˈpreʃər/)* ![[pressure.mp3]]<br><br>👪 **Word Family:** pressurize (v)<br><br>💬 **Ví dụ:** I can't handle this pressure.<br>*(-> Tôi không thể chịu nổi áp lực này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of stress or anxiety because you have too much to do

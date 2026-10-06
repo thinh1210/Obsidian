@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Jacket
 *n.*
 > /ˈdʒækɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Jacket::Áo khoác ngắn *(Phát âm: /ˈdʒækɪt/)* ![[jacket.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I forgot my jacket at the restaurant.<br>*(-> Tôi để quên áo khoác ở nhà hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short coat.

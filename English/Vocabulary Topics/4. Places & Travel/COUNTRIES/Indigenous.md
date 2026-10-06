@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Indigenous
 *Adjective*
 > /ɪnˈdɪdʒənəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Indigenous::Bản địa *(Phát âm: /ɪnˈdɪdʒənəs/)* ![[indigenous.mp3]]<br><br>👪 **Word Family:** Indigeneity<br><br>💬 **Ví dụ:** The kangaroo is indigenous to Australia.<br>*(-> Kangaroo là loài bản địa của Úc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Originating or occurring naturally in a particular place; native.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Pants
 *noun*
 > /pænts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Pants::Quần dài *(Phát âm: /pænts/)* ![[pants.mp3]]<br><br>👪 **Word Family:** pant (v)<br><br>💬 **Ví dụ:** These pants are too long.<br>*(-> Cái quần này dài quá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing covering the lower part of the body.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # party
 *noun*
 > /ˈpɑːrti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+party::Đảng phái, đảng *(Phát âm: /ˈpɑːrti/)* ![[party.mp3]]<br><br>👪 **Word Family:** partisan (adj/n), partnership (n)<br><br>💬 **Ví dụ:** Which political party do you support?<br>*(-> Bạn ủng hộ đảng phái chính trị nào?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formally constituted political group that contests elections and attempts to form or take part in a government.

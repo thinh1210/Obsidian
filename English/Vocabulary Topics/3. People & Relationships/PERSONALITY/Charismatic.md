@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Charismatic
 *adj.*
 > /ˌkær.ɪzˈmæt.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Charismatic::Có sức lôi cuốn mãnh liệt, có khí chất thủ lĩnh cuốn hút lòng người *(Phát âm: /ˌkær.ɪzˈmæt.ɪk/)* ![[charismatic.mp3]]<br><br>👪 **Word Family:** charisma (n), charismatically (adv)<br><br>💬 **Ví dụ:** He is such a charismatic storyteller that the entire gathering sat spellbound.<br>*(-> Anh ấy là một người kể chuyện lôi cuốn đến mức cả khán phòng ngồi nghe như bị hớp hồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Used to describe a person who has a special charm that attracts and impresses other people.

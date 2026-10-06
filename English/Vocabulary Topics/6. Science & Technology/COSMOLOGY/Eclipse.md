@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Eclipse
 *Noun*
 > /ɪˈklɪps/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Eclipse::Hiện tượng che khuất (Nhật thực/Nguyệt thực) *(Phát âm: /ɪˈklɪps/)* ![[eclipse.mp3]]<br><br>👪 **Word Family:** ecliptic (n/adj)<br><br>💬 **Ví dụ:** You must wear special glasses to view a solar eclipse.<br>*(-> Bạn phải đeo kính đặc biệt để xem nhật thực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An obscuring of the light from one celestial body by the passage of another.

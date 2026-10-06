@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Goal
 *n.*
 > /ɡəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Goal::Bàn thắng ghi được trong trận đấu; hoặc khung thành lưới để sút bóng vào *(Phát âm: /ɡəʊl/)* ![[goal.mp3]]<br><br>👪 **Word Family:** goalkeeper (n), goalpost (n)<br><br>💬 **Ví dụ:** The striker scored a stunning goal in the final minute of stoppage time.<br>*(-> Tiền đạo đã ghi một bàn thắng tuyệt đẹp vào phút cuối cùng của thời gian bù giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point scored in sports like football or hockey by sending the ball into the opponent's net; the net itself.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Hot
 *adj.*
 > /hɒt/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Hot::Nóng *(Phát âm: /hɒt/)* ![[hot.mp3]]<br><br>👪 **Word Family:** hotly<br><br>💬 **Ví dụ:** It is hot.<br>*(-> Trời nóng.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a high degree of heat

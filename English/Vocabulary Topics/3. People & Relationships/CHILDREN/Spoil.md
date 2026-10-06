@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Spoil
 *verb*
 > /spɔɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Spoil::Làm hư (trẻ con) *(Phát âm: /spɔɪl/)* ![[spoil.mp3]]<br><br>👪 **Word Family:** Spoiled (adj)<br><br>💬 **Ví dụ:** Grandparents often spoil their grandkids.<br>*(-> Ông bà thường chiều hư các cháu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Harm the character of a child by being too lenient or indulgent.

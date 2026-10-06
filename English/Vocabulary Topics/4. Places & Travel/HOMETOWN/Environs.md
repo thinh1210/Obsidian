@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Environs
 *n.*
 > /ɪnˈvaɪərənz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
+
+## 🗂️ Flashcard
+Environs::Vùng lân cận *(Phát âm: /ɪnˈvaɪərənz/)* ![[environs.mp3]]<br><br>👪 **Word Family:** Environment (n.)<br><br>💬 **Ví dụ:** They live in the beautiful environs of Paris.<br>*(-> Họ sống ở vùng lân cận xinh đẹp của Paris.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The surrounding area or district.

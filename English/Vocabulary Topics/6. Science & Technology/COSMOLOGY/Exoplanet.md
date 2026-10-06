@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Exoplanet
 *Noun*
 > /ˈek.səʊˌplæn.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Exoplanet::Ngoại hành tinh *(Phát âm: /ˈek.səʊˌplæn.ɪt/)* ![[exoplanet.mp3]]<br><br>👪 **Word Family:** exoplanetary (adj)<br><br>💬 **Ví dụ:** Do you think we will ever visit an exoplanet?<br>*(-> Bạn có nghĩ chúng ta sẽ có ngày viếng thăm một ngoại hành tinh không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A planet that orbits a star outside the solar system.

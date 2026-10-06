@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Positioning
 *noun*
 > /pəˈzɪʃənɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Positioning::Định vị thương hiệu/sản phẩm *(Phát âm: /pəˈzɪʃənɪŋ/)* ![[positioning.mp3]]<br><br>👪 **Word Family:** position (n/v), positional (adj)<br><br>💬 **Ví dụ:** The company's clever positioning made their basic watch look like a luxury item.<br>*(-> Sự định vị thông minh của công ty đã khiến chiếc đồng hồ cơ bản của họ trông giống như một món đồ xa xỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of creating an image or identity of a product or brand in the minds of the target audience

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Motivate
 *verb*
 > /ˈmoʊ.t̬ə.veɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Motivate::Thúc đẩy, tạo động lực *(Phát âm: /ˈmoʊ.t̬ə.veɪt/)* ![[motivate.mp3]]<br><br>👪 **Word Family:** motivation (noun)<br><br>💬 **Ví dụ:** What motivates you?<br>*(-> Điều gì tạo động lực cho bạn?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Provide someone with a motive for doing something.

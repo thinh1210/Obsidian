@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Trendy
 *adj.*
 > /ˈtrendi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Trendy::Thịnh hành, theo xu hướng *(Phát âm: /ˈtrendi/)* ![[trendy.mp3]]<br><br>👪 **Word Family:** Trend (n), Trendiness (n)<br><br>💬 **Ví dụ:** She likes to wear trendy clothes.<br>*(-> Cô ấy thích mặc quần áo thời thượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very fashionable and modern.

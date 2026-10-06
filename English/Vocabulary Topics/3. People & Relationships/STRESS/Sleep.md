@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Sleep
 *n.*
 > /sliːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Sleep::Giấc ngủ *(Phát âm: /sliːp/)* ![[sleep.mp3]]<br><br>👪 **Word Family:** sleepy (adj), sleepless (adj)<br><br>💬 **Ví dụ:** I need more sleep.<br>*(-> Tôi cần ngủ nhiều hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural state of rest

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Building
 *n.*
 > /ˈbɪldɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Building::Tòa nhà *(Phát âm: /ˈbɪldɪŋ/)* ![[building.mp3]]<br><br>👪 **Word Family:** build (v), builder (n)<br><br>💬 **Ví dụ:** That is a tall building.<br>*(-> Đó là một tòa nhà cao tầng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure with a roof and walls.

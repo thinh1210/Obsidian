@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Flamboyant
 *adj*
 > /flæmˈbɔɪ.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Flamboyant::Chói lọi, sặc sỡ, phô trương *(Phát âm: /flæmˈbɔɪ.ənt/)* ![[flamboyant.mp3]]<br><br>👪 **Word Family:** flamboyance (n)<br><br>💬 **Ví dụ:** The singer is known for his flamboyant outfits.<br>*(-> Ca sĩ nổi tiếng với những trang phục sặc sỡ/phô trương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very confident in behavior, or brightly colored and noticeable.

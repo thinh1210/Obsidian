@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Drive
 *verb*
 > /draɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Drive::Lái xe ô tô *(Phát âm: /draɪv/)* ![[drive.mp3]]<br><br>👪 **Word Family:** Verb: drive (lái xe), Noun: drive (chuyến đi), driver (tài xế)<br><br>💬 **Ví dụ:** Can you drive me to the train station?<br>*(-> Bạn có thể lái xe đưa tôi đến ga tàu hỏa không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Operate and control the direction and speed of a motor vehicle.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Stopwatch
 *n.*
 > /ˈstɒp.wɒtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Stopwatch::Đồng hồ bấm giờ chính xác tới phần trăm giây dùng trong thể thao và thí nghiệm *(Phát âm: /ˈstɒp.wɒtʃ/)* ![[stopwatch.mp3]]<br><br>👪 **Word Family:** stop (v/n), watch (n)<br><br>💬 **Ví dụ:** The track coach held a digital stopwatch to record each runner's sprint lap.<br>*(-> Huấn luyện viên điền kinh cầm chiếc đồng hồ bấm giờ điện tử để ghi lại từng vòng chạy nước rút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A handheld watch with buttons that start and stop it, used for precise timing of races and events.

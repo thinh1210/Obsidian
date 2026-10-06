@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Oppression
 *n*
 > /əˈpreʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Oppression::Sự áp bức / đàn áp *(Phát âm: /əˈpreʃ.ən/)* ![[oppression.mp3]]<br><br>👪 **Word Family:** oppress (v), oppressor (n), oppressed (adj), oppressive (adj)<br><br>💬 **Ví dụ:** People took to the streets to protest against years of oppression.<br>*(-> Người dân xuống đường phản đối nhiều năm bị áp bức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Prolonged cruel or unjust treatment or control by a government or authority.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Impulse
 *n*
 > /ˈɪm.pʌls/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Impulse::Bốc đồng *(Phát âm: /ˈɪm.pʌls/)* ![[impulse.mp3]]<br><br>👪 **Word Family:** Impulsive<br><br>💬 **Ví dụ:** I bought it on impulse.<br>*(-> Tôi đã mua nó một cách bốc đồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden strong wish to do something

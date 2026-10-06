@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Trend
 *verb*
 > /trend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Trend::Xu hướng, thịnh hành *(Phát âm: /trend/)* ![[trend.mp3]]<br><br>👪 **Word Family:** trend (n), trendy (adj)<br><br>💬 **Ví dụ:** The new dance challenge is trending all over TikTok right now.<br>*(-> Thử thách nhảy mới đang thịnh hành khắp TikTok lúc này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become very popular and widely discussed on social networks

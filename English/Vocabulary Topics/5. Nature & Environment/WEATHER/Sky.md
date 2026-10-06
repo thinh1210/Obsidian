@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Sky
 *noun*
 > /skaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Sky::Bầu trời *(Phát âm: /skaɪ/)* ![[sky.mp3]]<br><br>👪 **Word Family:** Skylight (noun)<br><br>💬 **Ví dụ:** There is not a single cloud in the sky.<br>*(-> Không có một đám mây nào trên bầu trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The space above the earth that you can see when you look up

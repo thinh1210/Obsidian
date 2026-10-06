@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Pyramid
 *n.*
 > /ˈpɪr.ə.mɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
+
+## 🗂️ Flashcard
+Pyramid::Hình chóp, kim tự tháp *(Phát âm: /ˈpɪr.ə.mɪd/)* ![[pyramid.mp3]]<br><br>👪 **Word Family:** Pyramidal (adj)<br><br>💬 **Ví dụ:** The food guide is shaped like a pyramid.<br>*(-> Tháp dinh dưỡng có hình kim tự tháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A monumental structure with a square or triangular base and sloping sides that meet in a point at the top.

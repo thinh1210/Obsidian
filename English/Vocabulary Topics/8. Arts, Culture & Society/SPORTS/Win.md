@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Win
 *v.*
 > /wɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Win::Thắng, chiến thắng *(Phát âm: /wɪn/)* ![[win.mp3]]<br><br>👪 **Word Family:** winner, winning, winnable<br><br>💬 **Ví dụ:** I hope our team will win today.<br>*(-> Tôi hy vọng đội của chúng ta sẽ thắng hôm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Be successful or victorious in a contest or conflict.

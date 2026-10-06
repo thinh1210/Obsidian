@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Backpacker
 *n.*
 > /ˈbækpækər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Backpacker::Người đi du lịch bụi mang vác ba lô trên vai và tự túc mọi trải nghiệm *(Phát âm: /ˈbækpækər/)* ![[backpacker.mp3]]<br><br>👪 **Word Family:** backpack (n/v), backpacking (n)<br><br>💬 **Ví dụ:** Southeast Asia is a paradise for adventurous young backpackers.<br>*(-> Đông Nam Á là thiên đường dành cho những bạn trẻ mê du lịch bụi thích phiêu lưu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who travels cheaply with their equipment and clothes in a backpack.

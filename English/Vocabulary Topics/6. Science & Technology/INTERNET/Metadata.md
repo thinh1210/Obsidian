@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Metadata
 *noun*
 > /ˈmet.ə.deɪ.tə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+Metadata::Siêu dữ liệu (dữ liệu về dữ liệu) *(Phát âm: /ˈmet.ə.deɪ.tə/)* ![[metadata.mp3]]<br><br>👪 **Word Family:** metadata (n), meta (prefix), data (n)<br><br>💬 **Ví dụ:** The photo's metadata revealed the exact location where it was taken.<br>*(-> Siêu dữ liệu của ảnh tiết lộ vị trí chính xác nơi nó được chụp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Data that provides information about other data, such as the time, location, and author of a file.

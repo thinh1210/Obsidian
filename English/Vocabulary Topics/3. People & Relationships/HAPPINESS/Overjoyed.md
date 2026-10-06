@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Overjoyed
 *adj.*
 > /ˌəʊ.vəˈdʒɔɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Overjoyed::Cực kỳ vui sướng *(Phát âm: /ˌəʊ.vəˈdʒɔɪd/)* ![[overjoyed.mp3]]<br><br>👪 **Word Family:** Joy (n)<br><br>💬 **Ví dụ:** I was overjoyed to see her.<br>*(-> Tôi cực kỳ vui sướng khi gặp cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely happy.

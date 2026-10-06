@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Gymnastics
 *n.*
 > /dʒɪmˈnæs.tɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Gymnastics::Thể dục dụng cụ *(Phát âm: /dʒɪmˈnæs.tɪks/)* ![[gymnastics.mp3]]<br><br>👪 **Word Family:** gymnast, gymnastic, gymnasium<br><br>💬 **Ví dụ:** Gymnastics requires flexibility and strength.<br>*(-> Thể dục dụng cụ đòi hỏi sự linh hoạt và sức mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exercises developing or displaying physical agility and coordination.

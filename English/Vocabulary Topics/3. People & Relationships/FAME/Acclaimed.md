@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Acclaimed
 *adj.*
 > /əˈkleɪmd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Acclaimed::Được hoan nghênh *(Phát âm: /əˈkleɪmd/)* ![[acclaimed.mp3]]<br><br>👪 **Word Family:** acclaim (n.)<br><br>💬 **Ví dụ:** The acclaimed author released a book.<br>*(-> Tác giả được hoan nghênh đã phát hành một cuốn sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Publicly praised; celebrated.

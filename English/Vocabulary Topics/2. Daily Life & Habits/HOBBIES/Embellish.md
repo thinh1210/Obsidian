@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Embellish
 *v.*
 > /ɪmˈbel.ɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Embellish::Tô điểm, làm đẹp thêm, thêm thắt *(Phát âm: /ɪmˈbel.ɪʃ/)* ![[embellish.mp3]]<br><br>👪 **Word Family:** Embellishment (n.)<br><br>💬 **Ví dụ:** She likes to embellish her knitted sweaters with colorful embroidery.<br>*(-> Cô ấy thích tô điểm cho những chiếc áo len đan của mình bằng hình thêu sặc sỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something more beautiful by adding something to it.

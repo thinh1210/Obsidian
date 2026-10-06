@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Logic
 *n.*
 > /ˈlɒdʒ.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Logic::Logic, lập luận hợp lý *(Phát âm: /ˈlɒdʒ.ɪk/)* ![[logic.mp3]]<br><br>👪 **Word Family:** logical, logically, logician<br><br>💬 **Ví dụ:** There is no logic in your argument.<br>*(-> Không có logic nào trong lập luận của bạn cả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Reasoning conducted or assessed according to strict principles of validity.

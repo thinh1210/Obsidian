@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Mean
 *adj.*
 > /miːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Mean::Xấu tính, cay nghiệt, bủn xỉn, keo kiệt với người khác *(Phát âm: /miːn/)* ![[mean.mp3]]<br><br>👪 **Word Family:** meanness (n), meanly (adv)<br><br>💬 **Ví dụ:** Don't be mean to your little sister; let her play with the toys.<br>*(-> Đừng xấu tính với em gái; hãy để em chơi cùng đồ chơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unkind, unpleasant, or unwilling to share or spend money.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Rule
 *verb*
 > /ruːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+Rule::Cai trị, trị vì, thống trị *(Phát âm: /ruːl/)* ![[rule.mp3]]<br><br>👪 **Word Family:** ruler (noun), ruling (noun/adj), unruly (adj)<br><br>💬 **Ví dụ:** The parents rule the household, but they listen to their kids' opinions.<br>*(-> Bố mẹ quản lý gia đình, nhưng họ vẫn lắng nghe ý kiến của con cái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exercise ultimate power or authority over an area and its people.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Nice
 *adj*
 > /naɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Nice::Đẹp, tốt, dễ thương *(Phát âm: /naɪs/)* ![[nice.mp3]]<br><br>👪 **Word Family:** Nicely (adv), Niceness (noun)<br><br>💬 **Ví dụ:** You look nice today.<br>*(-> Hôm nay trông bạn rất đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasant, enjoyable, or attractive.

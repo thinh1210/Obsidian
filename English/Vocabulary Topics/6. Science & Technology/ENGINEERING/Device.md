@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Device
 *noun*
 > /dɪˈvaɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Device::Thiết bị, dụng cụ *(Phát âm: /dɪˈvaɪs/)* ![[device.mp3]]<br><br>👪 **Word Family:** devise (v)<br><br>💬 **Ví dụ:** Please turn off your mobile devices before the flight takes off.<br>*(-> Vui lòng tắt các thiết bị di động của bạn trước khi máy bay cất cánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Praxis
 *noun*
 > /ˈpræksɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Praxis::Thực tiễn, sự chuyển hóa lý thuyết thành thực tế *(Phát âm: /ˈpræksɪs/)* ![[praxis.mp3]]<br><br>👪 **Word Family:** practice (n, v), practical (adj)<br><br>💬 **Ví dụ:** Good teacher training programs focus on aligning educational theory with classroom praxis.<br>*(-> Các chương trình đào tạo giáo viên tốt tập trung vào việc điều chỉnh lý thuyết giáo dục phù hợp với thực tiễn lớp học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Practice, as distinguished from theory; the application of a theory into practice.

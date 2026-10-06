@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Manipulate
 *verb*
 > /məˈnɪpjuleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
+
+## 🗂️ Flashcard
+Manipulate::Thao túng, điều khiển *(Phát âm: /məˈnɪpjuleɪt/)* ![[manipulate.mp3]]<br><br>👪 **Word Family:** manipulation (noun), manipulative (adj), manipulator (noun)<br><br>💬 **Ví dụ:** She was accused of manipulating the school election.<br>*(-> Cô ấy bị cáo buộc thao túng cuộc bầu cử ở trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To control or influence a person or situation cleverly, unfairly, or unscrupulously.

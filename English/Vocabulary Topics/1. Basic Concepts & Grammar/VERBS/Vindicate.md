@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Vindicate
 *Verb*
 > /ˈvɪn.dɪ.keɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Vindicate::Minh oan *(Phát âm: /ˈvɪn.dɪ.keɪt/)* ![[vindicate.mp3]]<br><br>👪 **Word Family:** Vindication (n)<br><br>💬 **Ví dụ:** He felt vindicated.<br>*(-> Anh ấy cảm thấy được minh oan.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prove that what someone said or did was right or true, after other people thought it was wrong.

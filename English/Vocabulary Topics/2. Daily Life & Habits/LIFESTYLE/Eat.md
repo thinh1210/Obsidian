@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Eat
 *v.*
 > /iːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Eat::Ăn *(Phát âm: /iːt/)* ![[eat.mp3]]<br><br>👪 **Word Family:** eater (n.)<br><br>💬 **Ví dụ:** I eat breakfast at 7.<br>*(-> Tôi ăn sáng lúc 7 giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Put food into the mouth and chew and swallow it.

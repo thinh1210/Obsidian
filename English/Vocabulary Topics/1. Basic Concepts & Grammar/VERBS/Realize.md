@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Realize
 *Verb*
 > /ˈrɪə.laɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Realize::Nhận ra *(Phát âm: /ˈrɪə.laɪz/)* ![[realize.mp3]]<br><br>👪 **Word Family:** Realization (n)<br><br>💬 **Ví dụ:** I realized I was late.<br>*(-> Tôi nhận ra mình đã trễ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To understand a situation, sometimes suddenly.

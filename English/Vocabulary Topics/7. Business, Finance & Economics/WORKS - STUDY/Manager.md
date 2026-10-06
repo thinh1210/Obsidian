@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Manager
 *n.*
 > /ˈmæn.ɪ.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Manager::Người quản lý, giám đốc hoặc trưởng bộ phận phụ trách điều hành công việc *(Phát âm: /ˈmæn.ɪ.dʒər/)* ![[manager.mp3]]<br><br>👪 **Word Family:** manage (v), management (n), manageable (adj)<br><br>💬 **Ví dụ:** If you experience any issue with your order, please ask to speak with the store manager.<br>*(-> Nếu bạn gặp bất kỳ vấn đề gì với đơn hàng, vui lòng yêu cầu gặp người quản lý cửa hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person responsible for controlling or directing all or part of a company or similar organization.

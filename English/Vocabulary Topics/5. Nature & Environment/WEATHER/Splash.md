@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Splash
 *v.*
 > /splæʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Splash::Làm bắn tung tóe nước, văng giọt nước khi trời mưa to *(Phát âm: /splæʃ/)* ![[splash.mp3]]<br><br>👪 **Word Family:** splashy (adj), splashing (n)<br><br>💬 **Ví dụ:** A passing taxi splashed dirty rainwater all over my trousers.<br>*(-> Một chiếc taxi chạy vụt qua làm bắn tung tóe nước mưa bẩn lên hết cả quần tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cause liquid to scatter in drops or make a splashing sound.

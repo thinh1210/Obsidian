@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Tiara
 *noun*
 > /tiˈɑː.rə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Tiara::Vương miện nhỏ *(Phát âm: /tiˈɑː.rə/)* ![[tiara.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The bride wore a tiara.<br>*(-> Cô dâu đội vương miện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A jewelled ornamental band worn on the front of a woman's hair.

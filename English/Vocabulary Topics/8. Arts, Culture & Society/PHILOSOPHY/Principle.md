@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Principle
 *n.*
 > /ˈprɪn.sə.pəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Principle::Nguyên tắc, nguyên lý *(Phát âm: /ˈprɪn.sə.pəl/)* ![[principle.mp3]]<br><br>👪 **Word Family:** principled<br><br>💬 **Ví dụ:** I refuse to lie on principle.<br>*(-> Tôi từ chối nói dối vì nguyên tắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fundamental truth or proposition that serves as the foundation for a system of belief.

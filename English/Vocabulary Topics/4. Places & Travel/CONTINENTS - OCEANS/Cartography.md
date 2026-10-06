@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Cartography
 *noun*
 > /kɑːˈtɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
+
+## 🗂️ Flashcard
+Cartography::Bản đồ học *(Phát âm: /kɑːˈtɒɡrəfi/)* ![[cartography.mp3]]<br><br>👪 **Word Family:** Cartographer (n.)<br><br>💬 **Ví dụ:** He studied cartography at university.<br>*(-> Anh ấy đã học bản đồ học tại trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science or practice of drawing maps.

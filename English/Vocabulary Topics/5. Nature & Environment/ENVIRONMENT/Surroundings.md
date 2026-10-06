@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Surroundings
 *n.*
 > /səˈraʊndɪŋz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Surroundings::Môi trường xung quanh, cảnh quan và điều kiện sống bao quanh một cá thể *(Phát âm: /səˈraʊndɪŋz/)* ![[surroundings.mp3]]<br><br>👪 **Word Family:** surround (v), surrounded (adj)<br><br>💬 **Ví dụ:** The chameleon altered its skin pigmentation to blend seamlessly with its leafy surroundings.<br>*(-> Con tắc kè hoa đổi màu sắc da để hòa lẫn hoàn hảo vào môi trường lá cây xung quanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The things and conditions around a person or thing; immediate environment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Algorithm
 *noun.*
 > /ˈæl.ɡə.rɪ.ðəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
+
+## 🗂️ Flashcard
+Algorithm::Thuật toán *(Phát âm: /ˈæl.ɡə.rɪ.ðəm/)* ![[algorithm.mp3]]<br><br>👪 **Word Family:** algorithmic (adj), algorithmically (adv)<br><br>💬 **Ví dụ:** The robot uses a complex navigation algorithm to map its path.<br>*(-> Robot sử dụng một thuật toán điều hướng phức tạp để vẽ bản đồ đường đi của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer

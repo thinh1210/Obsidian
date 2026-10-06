@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Cosmos
 *Noun*
 > /ˈkɒz.mɒs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Cosmos::Vũ trụ (Nhấn mạnh tính trật tự) *(Phát âm: /ˈkɒz.mɒs/)* ![[cosmos.mp3]]<br><br>👪 **Word Family:** cosmic (adj), cosmology (n)<br><br>💬 **Ví dụ:** We are just tiny specks in the vast cosmos.<br>*(-> Chúng ta chỉ là những hạt bụi nhỏ bé trong vũ trụ bao la.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The universe seen as a well-ordered whole.

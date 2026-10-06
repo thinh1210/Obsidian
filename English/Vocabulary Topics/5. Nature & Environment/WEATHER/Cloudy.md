@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Cloudy
 *adj.*
 > /ˈklaʊdi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Cloudy::Nhiều mây, u ám *(Phát âm: /ˈklaʊdi/)* ![[cloudy.mp3]]<br><br>👪 **Word Family:** Cloud (noun/verb), cloudiness (noun)<br><br>💬 **Ví dụ:** It is very cloudy today, so I will take an umbrella.<br>*(-> Hôm nay trời rất nhiều mây nên tôi sẽ mang theo ô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Covered with clouds; not clear

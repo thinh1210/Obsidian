@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Integration
 *n.*
 > /ˌɪntɪˈɡreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Integration::Sự tích hợp, hội nhập *(Phát âm: /ˌɪntɪˈɡreɪʃn/)* ![[integration.mp3]]<br><br>👪 **Word Family:** Integrate (v.), Integrated (adj.)<br><br>💬 **Ví dụ:** The new app offers seamless integration with your calendar.<br>*(-> Ứng dụng mới cung cấp sự tích hợp liền mạch với lịch của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or process of combining two or more things in an effective way.

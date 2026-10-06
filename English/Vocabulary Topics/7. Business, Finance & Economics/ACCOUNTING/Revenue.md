@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Revenue
 *n.*
 > /ˈrevənjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Revenue::Doanh thu *(Phát âm: /ˈrevənjuː/)* ![[revenue.mp3]]<br><br>👪 **Word Family:** revenue-sharing, revenues (plural)<br><br>💬 **Ví dụ:** Advertising is the main source of revenue for many websites.<br>*(-> Quảng cáo là nguồn doanh thu chính của nhiều trang web.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money that a company receives, especially from selling goods or services

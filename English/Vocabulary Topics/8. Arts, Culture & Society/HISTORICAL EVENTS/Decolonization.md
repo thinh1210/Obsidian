@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Decolonization
 *noun*
 > /diːˌcɒl.ə.naɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Decolonization::Quá trình phi thực dân hóa, trao trả độc lập *(Phát âm: /diːˌcɒl.ə.naɪˈzeɪ.ʃən/)* ![[decolonization.mp3]]<br><br>👪 **Word Family:** decolonize (verb), colonial (adj), colonization (noun)<br><br>💬 **Ví dụ:** The university is working on the decolonization of its curriculum to include more diverse voices.<br>*(-> Trường đại học đang nỗ lực đa dạng hóa chương trình giảng dạy của mình để bao gồm các tiếng nói khác nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or process of a state withdrawing from a former colony, leaving it independent.

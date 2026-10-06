@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Despondent
 *adj*
 > /dɪˈspɑːndənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Despondent::Nản lòng, tuyệt vọng *(Phát âm: /dɪˈspɑːndənt/)* ![[despondent.mp3]]<br><br>👪 **Word Family:** despondency (n)<br><br>💬 **Ví dụ:** She grew despondent after failing the exam.<br>*(-> Cô ấy trở nên tuyệt vọng sau khi rớt kỳ thi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In low spirits from loss of hope or courage.

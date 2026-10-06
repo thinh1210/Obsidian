@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Callous
 *adj.*
 > /ˈkæl.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Callous::Nhẫn tâm, chai sạn, vô cảm trước nỗi đau khổ của người khác *(Phát âm: /ˈkæl.əs/)* ![[callous.mp3]]<br><br>👪 **Word Family:** callousness (n), callously (adv)<br><br>💬 **Ví dụ:** His callous laughter after dropping the fragile vase stunned his family.<br>*(-> Tiếng cười vô cảm của anh ta sau khi làm vỡ chiếc bình quý khiến gia đình sững sờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unkind, cruel, and without sympathy or feeling for other people.

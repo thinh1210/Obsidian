@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Sonorous
 *adj.*
 > /ˈsɒn.ər.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Sonorous::Vang, trầm hùng, âm vang đầy đặn *(Phát âm: /ˈsɒn.ər.əs/)* ![[sonorous.mp3]]<br><br>👪 **Word Family:** sonorously (adv), sonority (n)<br><br>💬 **Ví dụ:** The cathedral bell has a sonorous tone that can be heard miles away.<br>*(-> Chuông nhà thờ lớn có một âm thanh vang dội có thể nghe thấy từ cách xa hàng dặm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a person's voice or other sound) imposingly deep and full; capable of producing a deep or ringing sound.

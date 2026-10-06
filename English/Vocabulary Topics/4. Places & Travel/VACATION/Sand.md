@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Sand
 *n.*
 > /sænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Sand::Các hạt khoáng chất vụn mịn trải dài tạo nên bờ biển và đồi cát *(Phát âm: /sænd/)* ![[sand.mp3]]<br><br>👪 **Word Family:** sandy (adj), sandcastle (n)<br><br>💬 **Ví dụ:** The children loved building fairy castles with the soft golden sand.<br>*(-> Lũ trẻ thích mê việc xây những lâu đài cổ tích bằng cát vàng mềm mịn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A loose granular substance resulting from the erosion of siliceous and other rocks, forming beaches and deserts.

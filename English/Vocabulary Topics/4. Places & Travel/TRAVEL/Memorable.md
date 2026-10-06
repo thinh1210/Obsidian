@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Memorable
 *adj.*
 > /ˈmemərəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Memorable::Để lại ấn tượng sâu đậm trong lòng khiến người ta nhớ mãi *(Phát âm: /ˈmemərəbl/)* ![[memorable.mp3]]<br><br>👪 **Word Family:** memory (n), memorize (v), memorial (n)<br><br>💬 **Ví dụ:** Watching the sunrise over Angkor Wat was the most memorable moment of our holiday.<br>*(-> Ngắm bình minh trên Angkor Wat là khoảnh khắc đáng nhớ nhất trong kỳ nghỉ của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Worth remembering or easily remembered, especially because of being special or unusual.

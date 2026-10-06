@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Shop
 *v/n*
 > /ʃɒp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Shop::Mua sắm/ Cửa hàng *(Phát âm: /ʃɒp/)* ![[shop.mp3]]<br><br>👪 **Word Family:** Shopper<br><br>💬 **Ví dụ:** I shop here.<br>*(-> Tôi mua ở đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To visit places to buy things

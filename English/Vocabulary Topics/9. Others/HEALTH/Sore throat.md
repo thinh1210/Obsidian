@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Sore throat
 *n.*
 > /sɔːr θrəʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Sore throat::Cơn đau rát họng, viêm cổ họng thường gặp khi cảm cúm *(Phát âm: /sɔːr θrəʊt/)* ![[sore_throat.mp3]]<br><br>👪 **Word Family:** sore (adj), soreness (n)<br><br>💬 **Ví dụ:** Drinking warm water with honey helps soothe a sore throat.<br>*(-> Uống nước ấm pha mật ong giúp làm dịu cơn đau họng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A painful inflammation of the back of the mouth and throat, often caused by a cold or viral infection.

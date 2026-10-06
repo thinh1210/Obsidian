@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Sculpting
 *n.*
 > /ˈskʌlp.tɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Sculpting::Thú vui điêu khắc, tạc tượng từ đá, đất sét hoặc kim loại *(Phát âm: /ˈskʌlp.tɪŋ/)* ![[sculpting.mp3]]<br><br>👪 **Word Family:** sculpt (v), sculptor (n), sculpture (n)<br><br>💬 **Ví dụ:** He spends weekend mornings sculpting expressive clay busts in his garage workshop.<br>*(-> Anh ấy dành các buổi sáng cuối tuần để nặn các bức tượng bán thân bằng đất sét trong gara.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or hobby of creating sculptures out of stone, wood, metal, or clay.

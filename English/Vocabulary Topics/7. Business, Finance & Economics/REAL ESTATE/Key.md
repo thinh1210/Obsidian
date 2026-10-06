@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Key
 *n.*
 > /kiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Key::Chìa khóa *(Phát âm: /kiː/)* ![[key.mp3]]<br><br>👪 **Word Family:** keyboard (n), keychain (n)<br><br>💬 **Ví dụ:** Don't forget to get the house key from the agent.<br>*(-> Đừng quên nhận chìa khóa nhà từ người môi giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small piece of shaped metal with incisions cut to fit the wards of a particular lock.

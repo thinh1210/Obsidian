@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Fly-by-wire
 *noun / adjective*
 > /ˌflaɪ.baɪˈwaɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Fly-by-wire::Hệ thống điều khiển bay điện tử (fly-by-wire) *(Phát âm: /ˌflaɪ.baɪˈwaɪər/)* ![[fly_by_wire.mp3]]<br><br>👪 **Word Family:** flight control (n), actuator (n), sidestick (n)<br><br>💬 **Ví dụ:** The Airbus A320 was the first commercial aircraft to use a full fly-by-wire system.<br>*(-> Airbus A320 là máy bay thương mại đầu tiên sử dụng hệ thống fly-by-wire hoàn toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flight control system in which conventional mechanical linkages are replaced by electronic signals sent via wires.

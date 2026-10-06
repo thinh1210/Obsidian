@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Fashionable
 *adj*
 > /ˈfæʃ.ən.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Fashionable::Hợp thời trang *(Phát âm: /ˈfæʃ.ən.ə.bəl/)* ![[fashionable.mp3]]<br><br>👪 **Word Family:** fashion (n)<br><br>💬 **Ví dụ:** She always wears fashionable clothes.<br>*(-> Cô ấy luôn mặc đồ hợp thời trang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characteristic of, influenced by, or representing a current popular trend or style.

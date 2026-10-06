@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Flesh and blood
 *Idiom*
 > /ˌfleʃ ən ˈblʌd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Informal/Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Flesh and blood::Máu mủ ruột thịt *(Phát âm: /ˌfleʃ ən ˈblʌd/)* ![[flesh_and_blood.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I can't fire him, he's my own flesh and blood!<br>*(-> Tôi không thể sa thải nó, nó là máu mủ của tôi!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** People who are part of your own family.

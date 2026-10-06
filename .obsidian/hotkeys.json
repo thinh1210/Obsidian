@@ -1,0 +1,56 @@
+{
+  "obsidian-spaced-repetition:srs-play-active-note-audio": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    },
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-navigate-next-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    },
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-navigate-prev-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    },
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-review-flashcards": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-open-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}

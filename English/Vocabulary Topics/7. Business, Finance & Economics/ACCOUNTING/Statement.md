@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Statement
 *n.*
 > /ˈsteɪtmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Statement::Bản báo cáo, sao kê tài khoản *(Phát âm: /ˈsteɪtmənt/)* ![[statement.mp3]]<br><br>👪 **Word Family:** state (v), stateable<br><br>💬 **Ví dụ:** I check my bank statement every month.<br>*(-> Tôi kiểm tra sao kê ngân hàng của mình mỗi tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A printed record of balance in a bank account and the amounts paid into it and paid out

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Laminated
 *adjective.*
 > /ˈlæmɪneɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** MATERIALS | **Phân nhóm:** Thủy tinh, Chất dẻo & Vật liệu nhân tạo
+
+## 🗂️ Flashcard
+Laminated::Được ép/cán nhiều lớp, kính dán nhiều lớp *(Phát âm: /ˈlæmɪneɪtɪd/)* ![[laminated.mp3]]<br><br>👪 **Word Family:** laminate (Verb), lamination (Noun)<br><br>💬 **Ví dụ:** I got my degree certificate laminated to prevent it from getting wet.<br>*(-> Tôi đã ép nhựa chứng nhận bằng cấp của mình để tránh bị ướt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Manufactured by bonding together two or more layers of material.

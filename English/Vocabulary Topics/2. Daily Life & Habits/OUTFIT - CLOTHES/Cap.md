@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Cap
 *n.*
 > /kæp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Cap::Mũ lưỡi trai, mũ chụp đầu *(Phát âm: /kæp/)* ![[cap.mp3]]<br><br>👪 **Word Family:** capped (adj)<br><br>💬 **Ví dụ:** He wears a baseball cap backward whenever he skates in the park.<br>*(-> Cậu ấy luôn đội ngược mũ lưỡi trai bóng chày mỗi khi trượt ván trong công viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A soft, flat hat, often with a visor/peak projecting forwards.

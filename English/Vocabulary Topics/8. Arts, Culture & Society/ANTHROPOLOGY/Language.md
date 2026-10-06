@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Language
 *n.*
 > /ˈlæŋ.ɡwɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Language::Ngôn ngữ *(Phát âm: /ˈlæŋ.ɡwɪdʒ/)* ![[language.mp3]]<br><br>👪 **Word Family:** linguistic, bilingual<br><br>💬 **Ví dụ:** English is a global language.<br>*(-> Tiếng Anh là một ngôn ngữ toàn cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The system of communication used by a particular community or country.

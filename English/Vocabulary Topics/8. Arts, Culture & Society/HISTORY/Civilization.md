@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Civilization
 *noun*
 > /ˌsɪv.əl.aɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Civilization::Nền văn minh *(Phát âm: /ˌsɪv.əl.aɪˈzeɪ.ʃən/)* ![[civilization.mp3]]<br><br>👪 **Word Family:** civilize (v), civilized (adj), civic (adj)<br><br>💬 **Ví dụ:** The Nile Valley was the birthplace of ancient Egyptian civilization.<br>*(-> Thung lũng sông Nile là nơi ra đời của nền văn minh Ai Cập cổ đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The stage of human social and cultural development and organization that is considered most advanced.

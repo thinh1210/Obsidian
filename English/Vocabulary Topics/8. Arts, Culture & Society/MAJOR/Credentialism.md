@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Credentialism
 *n.*
 > /krɪˈden.ʃə.lɪ.z(ə)m/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Credentialism::Chủ nghĩa bằng cấp, đề cao quá mức bằng cấp *(Phát âm: /krɪˈden.ʃə.lɪ.z(ə)m/)* ![[credentialism.mp3]]<br><br>👪 **Word Family:** credentialism (n), credential (n), credentialist (adj/n)<br><br>💬 **Ví dụ:** Critics say credentialism prevents talented people without degrees from getting good jobs.<br>*(-> Các nhà phê bình nói rằng chủ nghĩa bằng cấp ngăn người tài năng không có bằng cấp kiếm được việc tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Excessive reliance on academic credentials or qualifications as a measure of a person's abilities.

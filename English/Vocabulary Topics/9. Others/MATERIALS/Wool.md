@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Wool
 *noun.*
 > /wʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Wool::Len, lông cừu *(Phát âm: /wʊl/)* ![[wool.mp3]]<br><br>👪 **Word Family:** woolen (Adjective), woolly (Adjective)<br><br>💬 **Ví dụ:** She bought a warm wool sweater for the winter.<br>*(-> Cô ấy đã mua một chiếc áo len ấm áp cho mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fine, soft, curly hair forming the coat of a sheep, goat, or similar animal, especially when prepared for making cloth.

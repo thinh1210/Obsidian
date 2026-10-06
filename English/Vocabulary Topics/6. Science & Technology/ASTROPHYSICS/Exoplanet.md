@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Exoplanet
 *noun*
 > /ˈek.səʊˌplæn.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Exoplanet::Ngoại hành tinh, hành tinh ngoài hệ mặt trời *(Phát âm: /ˈek.səʊˌplæn.ɪt/)* ![[exoplanet.mp3]]<br><br>👪 **Word Family:** exoplanetary (adj)<br><br>💬 **Ví dụ:** Astronomers are excited about finding an exoplanet that might have water.<br>*(-> Các nhà thiên văn học rất hào hứng khi tìm thấy một ngoại hành tinh có thể có nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A planet that orbits a star outside our solar system.

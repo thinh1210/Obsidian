@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Slogan
 *noun*
 > /ˈsloʊɡən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
+
+## 🗂️ Flashcard
+Slogan::Khẩu hiệu, slogan *(Phát âm: /ˈsloʊɡən/)* ![[slogan.mp3]]<br><br>💬 **Ví dụ:** Can you remember the slogan of your favorite fast-food brand?<br>*(-> Bạn có thể nhớ câu khẩu hiệu của thương hiệu thức ăn nhanh yêu thích của mình không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short and striking or memorable phrase used in advertising

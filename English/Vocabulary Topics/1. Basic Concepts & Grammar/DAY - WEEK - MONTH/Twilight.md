@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Twilight
 *n., adj.*
 > /ˈtwaɪ.laɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Twilight::Lúc hoàng hôn chạng vạng, ánh sáng mờ ảo nhá nhem; giai đoạn xế chiều của cuộc đời *(Phát âm: /ˈtwaɪ.laɪt/)* ![[twilight.mp3]]<br><br>👪 **Word Family:** twilit (adj)<br><br>💬 **Ví dụ:** We sat peacefully on the porch enjoying the serene purple glow of twilight.<br>*(-> Chúng tôi ngồi thanh thản ngoài hiên nhà tận hưởng sắc tím thanh bình của ánh hoàng hôn chạng vạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The soft diffused light from the sky when the sun is below the horizon; a period of decline.

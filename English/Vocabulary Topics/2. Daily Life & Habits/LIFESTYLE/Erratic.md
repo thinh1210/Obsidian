@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Erratic
 *adj.*
 > /ɪˈrætɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Erratic::Thất thường *(Phát âm: /ɪˈrætɪk/)* ![[erratic.mp3]]<br><br>👪 **Word Family:** erratically (adv.)<br><br>💬 **Ví dụ:** His sleep schedule is very erratic.<br>*(-> Lịch ngủ của anh ấy rất thất thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not even or regular in pattern or movement; unpredictable.

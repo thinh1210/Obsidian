@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Cylinder
 *n.*
 > /ˈsɪl.ɪn.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
+
+## 🗂️ Flashcard
+Cylinder::Hình trụ *(Phát âm: /ˈsɪl.ɪn.dər/)* ![[cylinder.mp3]]<br><br>👪 **Word Family:** Cylindrical (adj)<br><br>💬 **Ví dụ:** A soda can is a cylinder.<br>*(-> Lon nước ngọt là một hình trụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid geometric figure with straight parallel sides and a circular or oval cross section.

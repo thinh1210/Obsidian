@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Archaeology
 *noun*
 > /ˌɑːkiˈɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Archaeology::Khảo cổ học *(Phát âm: /ˌɑːkiˈɒlədʒi/)* ![[archaeology.mp3]]<br><br>👪 **Word Family:** archaeological (adj), archaeologist (noun)<br><br>💬 **Ví dụ:** I want to study archaeology at university.<br>*(-> Tôi muốn học ngành khảo cổ học tại trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of human history and prehistory through the excavation of sites and the analysis of artifacts

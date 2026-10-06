@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Lake
 *Noun*
 > /leɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Lake::Hồ nước *(Phát âm: /leɪk/)* ![[lake.mp3]]<br><br>👪 **Word Family:** lakeside<br><br>💬 **Ví dụ:** We rented a small boat on the lake.<br>*(-> Chúng tôi đã thuê một chiếc thuyền nhỏ trên hồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large area of water surrounded by land.

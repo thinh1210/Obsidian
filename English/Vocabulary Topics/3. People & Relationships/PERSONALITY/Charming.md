@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Charming
 *adj.*
 > /ˈtʃɑː.mɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Charming::Quyến rũ, duyên dáng, có sức hút khiến người khác có cảm tình *(Phát âm: /ˈtʃɑː.mɪŋ/)* ![[charming.mp3]]<br><br>👪 **Word Family:** charm (n/v), charmingly (adv)<br><br>💬 **Ví dụ:** He has a charming way of making every newcomer feel immediately at ease.<br>*(-> Anh ấy có một cách ứng xử duyên dáng khiến mọi người mới đến đều cảm thấy thoải mái ngay lập tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasant and attractive in a way that makes people like you.

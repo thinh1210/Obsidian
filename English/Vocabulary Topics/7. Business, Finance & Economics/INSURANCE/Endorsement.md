@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Endorsement
 *n.*
 > /ɪnˈdɔːsmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Endorsement::Điều khoản bổ sung, sửa đổi bổ sung *(Phát âm: /ɪnˈdɔːsmənt/)* ![[endorsement.mp3]]<br><br>👪 **Word Family:** endorse, endorser<br><br>💬 **Ví dụ:** I added an endorsement to my policy to cover my expensive jewelry.<br>*(-> Tôi đã thêm một điều khoản bổ sung vào hợp đồng để bảo hiểm cho trang sức đắt tiền của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amendment or addition to an existing insurance policy that changes the terms or scope of the original policy.

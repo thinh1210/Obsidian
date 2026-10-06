@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Clemency
 *noun*
 > /ˈklemənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Clemency::Sự khoan hồng, lòng khoan dung *(Phát âm: /ˈklemənsi/)* ![[clemency.mp3]]<br><br>👪 **Word Family:** clement (adj)<br><br>💬 **Ví dụ:** The family made an appeal for clemency to the governor.<br>*(-> Gia đình đã gửi đơn xin khoan hồng lên thống đốc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Leniency and compassion shown toward offenders by a person administering justice

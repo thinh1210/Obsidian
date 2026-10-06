@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Insect
 *noun*
 > /ˈɪn.sekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Insect::Côn trùng *(Phát âm: /ˈɪn.sekt/)* ![[insect.mp3]]<br><br>👪 **Word Family:** insecticide, insectivorous<br><br>💬 **Ví dụ:** An ant is a common insect.<br>*(-> Kiến là một loài côn trùng phổ biến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small animal that has six legs and generally one or two pairs of wings.

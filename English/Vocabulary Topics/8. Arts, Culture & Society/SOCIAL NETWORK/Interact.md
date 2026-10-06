@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Interact
 *verb*
 > /ˌɪntərˈækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Interact::Tương tác *(Phát âm: /ˌɪntərˈækt/)* ![[interact.mp3]]<br><br>👪 **Word Family:** interaction (n), interactive (adj), interactively (adv)<br><br>💬 **Ví dụ:** I love how the author interacts with her fans on Twitter.<br>*(-> Tôi yêu cách tác giả tương tác với người hâm mộ của cô ấy trên Twitter.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To communicate, respond, or engage with other users and posts online

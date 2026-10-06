@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Bracelet
 *noun*
 > /ˈbreɪslət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Bracelet::Vòng đeo tay *(Phát âm: /ˈbreɪslət/)* ![[bracelet.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She wears a silver bracelet on her left wrist.<br>*(-> Cô ấy đeo một chiếc vòng tay bạc trên cổ tay trái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewellery that is worn around the wrist or arm.

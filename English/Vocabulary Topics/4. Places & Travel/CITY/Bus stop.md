@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Bus stop
 *n.*
 > /bʌs stɒp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Bus stop::Điểm dừng xe buýt *(Phát âm: /bʌs stɒp/)* ![[bus_stop.mp3]]<br><br>👪 **Word Family:** bus (n)<br><br>💬 **Ví dụ:** I am waiting at the bus stop.<br>*(-> Tôi đang đợi ở bến xe buýt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where a bus stops.

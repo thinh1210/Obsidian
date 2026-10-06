@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Stock
 *n/v*
 > /stɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Stock::Hàng trong kho *(Phát âm: /stɒk/)* ![[stock.mp3]]<br><br>👪 **Word Family:** Stockpile<br><br>💬 **Ví dụ:** Is it in stock?<br>*(-> Nó còn hàng không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The goods kept in a shop

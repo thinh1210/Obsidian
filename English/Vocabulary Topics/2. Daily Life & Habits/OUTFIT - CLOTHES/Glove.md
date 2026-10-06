@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Glove
 *n.*
 > /ɡlʌv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Glove::Đôi găng tay, bao tay bảo vệ hoặc giữ ấm *(Phát âm: /ɡlʌv/)* ![[glove.mp3]]<br><br>👪 **Word Family:** gloved (adj)<br><br>💬 **Ví dụ:** Remember to put on your thick woolen gloves before stepping into the snow.<br>*(-> Nhớ đeo đôi găng tay len dày trước khi bước ra ngoài tuyết nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing that covers the hand and has separate sections for each finger.

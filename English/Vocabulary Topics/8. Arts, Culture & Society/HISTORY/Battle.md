@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Battle
 *noun*
 > /ˈbæt.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Battle::Trận chiến, cuộc giao tranh *(Phát âm: /ˈbæt.əl/)* ![[battle.mp3]]<br><br>👪 **Word Family:** battlefield (n), battleground (n), embattled (adj)<br><br>💬 **Ví dụ:** The soldiers prepared themselves for the upcoming battle.<br>*(-> Các binh sĩ chuẩn bị tinh thần cho trận chiến sắp tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sustained fight between large organized armed forces.

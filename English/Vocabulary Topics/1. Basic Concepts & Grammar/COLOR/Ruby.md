@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Ruby
 *n, adj*
 > /ˈruː.bi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Ruby::Màu đỏ hồng ngọc (đỏ ruby) *(Phát âm: /ˈruː.bi/)* ![[ruby.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Her lips were painted ruby red.<br>*(-> Đôi môi cô ấy được tô màu đỏ ruby.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dark red color (like the precious stone).

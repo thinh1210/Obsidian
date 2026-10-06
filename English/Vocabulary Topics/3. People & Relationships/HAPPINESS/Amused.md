@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Amused
 *adj.*
 > /əˈmjuːzd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Amused::Vui vẻ, buồn cười *(Phát âm: /əˈmjuːzd/)* ![[amused.mp3]]<br><br>👪 **Word Family:** Amuse (v), Amusement (n)<br><br>💬 **Ví dụ:** I was amused by his jokes.<br>*(-> Tôi thấy buồn cười với những trò đùa của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Finding something funny or entertaining.

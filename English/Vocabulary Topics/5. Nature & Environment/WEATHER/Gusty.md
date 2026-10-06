@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Gusty
 *adj.*
 > /ˈɡʌsti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Gusty::Có gió giật mạnh từng cơn *(Phát âm: /ˈɡʌsti/)* ![[gusty.mp3]]<br><br>👪 **Word Family:** Gust (noun/verb), gustiness (noun)<br><br>💬 **Ví dụ:** Pilots had to deal with gusty winds during landing.<br>*(-> Các phi công đã phải đối phó với những cơn gió giật mạnh trong quá trình hạ cánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by sudden, strong blows of wind

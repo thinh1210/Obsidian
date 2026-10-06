@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Nurse
 *n*
 > /nɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Nurse::Y tá, điều dưỡng *(Phát âm: /nɜːs/)* ![[nurse.mp3]]<br><br>👪 **Word Family:** nursing (n), nursery (n)<br><br>💬 **Ví dụ:** The nurse checked my blood pressure and temperature.<br>*(-> Y tá đã kiểm tra huyết áp và nhiệt độ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person trained to care for the sick or infirm, especially in a hospital.

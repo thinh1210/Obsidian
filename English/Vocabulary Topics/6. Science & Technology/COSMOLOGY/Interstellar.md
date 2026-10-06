@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Interstellar
 *Adjective*
 > /ˌɪn.təˈstel.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Interstellar::Liên sao, giữa các vì sao *(Phát âm: /ˌɪn.təˈstel.ər/)* ![[interstellar.mp3]]<br><br>👪 **Word Family:** stellar (adj)<br><br>💬 **Ví dụ:** Interstellar travel is still a dream of science fiction.<br>*(-> Du hành liên sao vẫn là một giấc mơ của khoa học viễn tưởng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring or situated between stars.

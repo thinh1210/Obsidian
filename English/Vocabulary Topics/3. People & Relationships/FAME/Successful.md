@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Successful
 *adj.*
 > /səkˈsesfl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Successful::Thành công *(Phát âm: /səkˈsesfl/)* ![[successful.mp3]]<br><br>👪 **Word Family:** success (n.)<br><br>💬 **Ví dụ:** He is a successful actor.<br>*(-> Anh ấy là một diễn viên thành công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Accomplishing an aim or purpose.

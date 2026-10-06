@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Remuneration
 *n.*
 > /rɪˌmjuː.nəˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Remuneration::Tiền thù lao, tiền công *(Phát âm: /rɪˌmjuː.nəˈreɪ.ʃən/)* ![[remuneration.mp3]]<br><br>👪 **Word Family:** remunerate, remunerative<br><br>💬 **Ví dụ:** He demanded fair remuneration for his effort.<br>*(-> Anh ấy yêu cầu tiền thù lao công bằng cho nỗ lực của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money paid for work or a service

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Map
 *Noun*
 > /mæp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+Map::Bản đồ *(Phát âm: /mæp/)* ![[map.mp3]]<br><br>👪 **Word Family:** Mapping<br><br>💬 **Ví dụ:** Can you show me on the map?<br>*(-> Bạn có thể chỉ cho tôi trên bản đồ không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A diagrammatic representation of an area of land or sea.

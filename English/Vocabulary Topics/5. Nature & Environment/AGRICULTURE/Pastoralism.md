@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Pastoralism
 *n.*
 > /ˈpɑː.stə.rə.lɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Pastoralism::Phương thức chăn thả gia súc du mục (chăn nuôi du mục) *(Phát âm: /ˈpɑː.stə.rə.lɪ.zəm/)* ![[pastoralism.mp3]]<br><br>👪 **Word Family:** pastoral (adj), pastoralist (n)<br><br>💬 **Ví dụ:** Nomadic pastoralism is still practiced in parts of Mongolia and East Africa.<br>*(-> Phương thức chăn nuôi du mục vẫn được thực hiện ở một số nơi ở Mông Cổ và Đông Phi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of agriculture concerned with the raising of livestock, especially in nomadic herds.

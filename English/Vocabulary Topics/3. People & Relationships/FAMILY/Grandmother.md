@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Grandmother
 *noun*
 > /ˈɡræn.mʌð.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Grandmother::Bà nội/ngoại *(Phát âm: /ˈɡræn.mʌð.ər/)* ![[grandmother.mp3]]<br><br>👪 **Word Family:** grandparent (n)<br><br>💬 **Ví dụ:** My grandmother knits.<br>*(-> Bà tôi đan len.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The mother of your father or mother.

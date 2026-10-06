@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # patent
 *n.*
 > /ˈpeɪ.tənt/ or /ˈpæt.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Patent::Bằng sáng chế *(Phát âm: /ˈpeɪ.tənt/ or /ˈpæt.ənt/)* ![[patent.mp3]]<br><br>👪 **Word Family:** patent (v), patented (adj)<br><br>💬 **Ví dụ:** He holds the patent for the safety lock.<br>*(-> Anh ấy giữ bằng sáng chế cho chiếc khóa an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official right to be the only person to make, use, or sell a new invention

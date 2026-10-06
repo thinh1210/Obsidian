@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Gold
 *noun*
 > /ɡəʊld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Gold::Vàng *(Phát âm: /ɡəʊld/)* ![[gold.mp3]]<br><br>👪 **Word Family:** golden (adj)<br><br>💬 **Ví dụ:** She wears a ring made of pure gold.<br>*(-> Cô ấy đeo một chiếc nhẫn làm bằng vàng nguyên chất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A yellow precious metal, used especially in coins and jewelry

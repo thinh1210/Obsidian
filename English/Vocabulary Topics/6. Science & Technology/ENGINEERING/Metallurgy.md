@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Metallurgy
 *noun*
 > /məˈtælədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Metallurgy::Luyện kim học *(Phát âm: /məˈtælədʒi/)* ![[metallurgy.mp3]]<br><br>👪 **Word Family:** metallurgist (n), metallurgical (adj)<br><br>💬 **Ví dụ:** Advances in metallurgy allowed for the creation of lightweight and strong aircraft frames.<br>*(-> Những tiến bộ trong ngành luyện kim đã cho phép chế tạo các khung máy bay nhẹ và chắc chắn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science and technology concerned with the properties of metals and their production and purification.

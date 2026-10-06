@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Critic
 *noun*
 > /ˈkrɪt.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Critic::Nhà phê bình *(Phát âm: /ˈkrɪt.ɪk/)* ![[critic.mp3]]<br><br>👪 **Word Family:** criticism (n), criticize (v), critical (adj)<br><br>💬 **Ví dụ:** The famous critic wrote a positive review of the new play.<br>*(-> Nhà phê bình nổi tiếng đã viết một bài nhận xét tích cực về vở kịch mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A professional who reviews and evaluates literary or artistic works.

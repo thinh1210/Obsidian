@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Crystalline
 *adjective.*
 > /ˈkrɪstəlaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Crystalline::Có cấu trúc tinh thể, trong suốt như pha lê *(Phát âm: /ˈkrɪstəlaɪn/)* ![[crystalline.mp3]]<br><br>👪 **Word Family:** crystal (Noun), crystallize (Verb), crystallization (Noun)<br><br>💬 **Ví dụ:** Snowflakes exhibit beautiful and unique crystalline shapes under a microscope.<br>*(-> Các bông tuyết thể hiện các hình dạng tinh thể đẹp mắt và độc đáo dưới kính hiển vi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having the structure and form of a crystal; clear.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Language acquisition
 *n.*
 > /ˈlæŋɡwɪdʒ ˌækwɪˈzɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
+
+## 🗂️ Flashcard
+Language acquisition::Sự thụ đắc ngôn ngữ, tiếp thu ngôn ngữ *(Phát âm: /ˈlæŋɡwɪdʒ ˌækwɪˈzɪʃn/)* ![[language_acquisition.mp3]]<br><br>👪 **Word Family:** **Synonyms:** language learning<br><br>💬 **Ví dụ:** Observing child language acquisition is fascinating.<br>*(-> Quan sát quá trình tiếp thu ngôn ngữ ở trẻ em thật thú vị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which humans acquire the capacity to perceive and comprehend language

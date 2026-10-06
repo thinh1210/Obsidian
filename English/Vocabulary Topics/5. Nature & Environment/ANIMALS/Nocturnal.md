@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Nocturnal
 *adjective*
 > /nɒkˈtɜː.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Nocturnal::Hoạt động về đêm *(Phát âm: /nɒkˈtɜː.nəl/)* ![[nocturnal.mp3]]<br><br>👪 **Word Family:** nocturnal (adj), nocturnally (adv)<br><br>💬 **Ví dụ:** Bats are nocturnal creatures that use echolocation to navigate in the dark.<br>*(-> Dơi là loài sinh vật hoạt động về đêm, sử dụng khả năng định vị bằng tiếng vang để di chuyển trong bóng tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Active at night.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Congestion
 *n.*
 > /kənˈdʒestʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Congestion::Sự tắc nghẽn *(Phát âm: /kənˈdʒestʃən/)* ![[congestion.mp3]]<br><br>👪 **Word Family:** congested (adj)<br><br>💬 **Ví dụ:** Traffic congestion makes me late.<br>*(-> Tắc đường làm tôi trễ giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being too crowded or blocked.

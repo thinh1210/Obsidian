@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Turbulence
 *noun*
 > /ˈtɜː.bjʊ.ləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Turbulence::Nhiễu loạn không khí (xóc máy bay) *(Phát âm: /ˈtɜː.bjʊ.ləns/)* ![[turbulence.mp3]]<br><br>👪 **Word Family:** turbulent (adj), turbulently (adv)<br><br>💬 **Ví dụ:** During turbulence, passengers should return to their seats and fasten their seatbelts.<br>*(-> Khi gặp nhiễu loạn, hành khách nên về ghế và cài dây an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Irregular and violent movement of air that causes an aircraft to shake.

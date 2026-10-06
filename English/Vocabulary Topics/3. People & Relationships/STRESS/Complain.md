@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Complain
 *v.*
 > /kəmˈpleɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Complain::Phàn nàn *(Phát âm: /kəmˈpleɪn/)* ![[complain.mp3]]<br><br>👪 **Word Family:** complaint (n)<br><br>💬 **Ví dụ:** She complains about the noise.<br>*(-> Cô ấy phàn nàn về tiếng ồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say that you are annoyed, unhappy, or not satisfied

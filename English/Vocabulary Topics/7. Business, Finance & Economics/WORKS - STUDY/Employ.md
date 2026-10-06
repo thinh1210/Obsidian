@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Employ
 *v.*
 > /ɪmˈplɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Employ::Thuê, tuyển dụng *(Phát âm: /ɪmˈplɔɪ/)* ![[employ.mp3]]<br><br>👪 **Word Family:** employee, employer, employment<br><br>💬 **Ví dụ:** How many people does the factory employ?<br>*(-> Nhà máy đó thuê bao nhiêu người?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give work to someone and pay them for it

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Course
 *n.*
 > /kɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Course::Khóa học *(Phát âm: /kɔːs/)* ![[course.mp3]]<br><br>👪 **Word Family:** coursework<br><br>💬 **Ví dụ:** He registered for a photography course.<br>*(-> Anh ấy đã đăng ký một khóa học nhiếp ảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of lectures or lessons in a particular subject

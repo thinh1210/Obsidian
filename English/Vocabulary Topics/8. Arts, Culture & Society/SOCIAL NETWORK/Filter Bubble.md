@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Filter Bubble
 *noun*
 > /ˈfɪltə ˌbʌbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Filter Bubble::Bong bóng bộ lọc (sự cô lập thông tin cá nhân hóa) *(Phát âm: /ˈfɪltə ˌbʌbl/)* ![[filter_bubble.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I tried clearing my browser history to pop my social media filter bubble.<br>*(-> Tôi đã thử xóa lịch sử trình duyệt để phá vỡ bong bóng bộ lọc mạng xã hội của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of intellectual isolation that can result from personalized search and feed results

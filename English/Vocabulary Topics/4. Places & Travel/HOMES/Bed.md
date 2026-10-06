@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Bed
 *n.*
 > /bed/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Bed::Đồ dùng có đệm để nằm ngủ và nghỉ ngơi *(Phát âm: /bed/)* ![[bed.mp3]]<br><br>👪 **Word Family:** bedding (n), bedroom (n), bedside (n)<br><br>💬 **Ví dụ:** He made his bed neatly before leaving for work.<br>*(-> Anh ấy gấp chăn gối gọn gàng trên giường trước khi đi làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of furniture for sleep or rest, typically a framework with a mattress.

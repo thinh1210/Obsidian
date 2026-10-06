@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Blood
 *noun*
 > /blʌd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Blood::Máu *(Phát âm: /blʌd/)* ![[blood.mp3]]<br><br>👪 **Word Family:** bleed, bloody<br><br>💬 **Ví dụ:** He cut his finger and there was blood everywhere.<br>*(-> Anh ấy bị đứt tay và máu chảy khắp nơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The red liquid that circulates in the arteries and veins of humans and other vertebrate animals, carrying oxygen to and carbon dioxide from the tissues of the body.

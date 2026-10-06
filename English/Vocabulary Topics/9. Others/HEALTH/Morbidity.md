@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Morbidity
 *n*
 > /mɔːˈbɪdəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Morbidity::Tỷ lệ mắc bệnh, tình trạng bệnh tật *(Phát âm: /mɔːˈbɪdəti/)* ![[morbidity.mp3]]<br><br>👪 **Word Family:** morbid (adj), morbidly (adv), morbidness (n)<br><br>💬 **Ví dụ:** Obesity is associated with increased cardiovascular morbidity.<br>*(-> Béo phì có liên quan đến việc tăng tỷ lệ mắc bệnh tim mạch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition of suffering from a disease or medical condition; the rate of disease in a population.

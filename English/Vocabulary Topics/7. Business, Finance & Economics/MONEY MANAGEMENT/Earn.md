@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Earn
 *Verb*
 > /ɜːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
+
+## 🗂️ Flashcard
+Earn::Kiếm tiền (nhận được tiền nhờ làm việc hoặc cung cấp dịch vụ) *(Phát âm: /ɜːn/)* ![[earn.mp3]]<br><br>👪 **Word Family:** Noun: earnings (tiền thu nhập, lợi nhuận)<br><br>💬 **Ví dụ:** She works part-time to earn some extra pocket money.<br>*(-> Cô ấy làm việc bán thời gian để kiếm thêm một ít tiền tiêu vặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To receive money in return for work or services.

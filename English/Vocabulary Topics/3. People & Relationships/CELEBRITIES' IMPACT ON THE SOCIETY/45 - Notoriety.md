@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Notoriety
 *n.*
 > /ˌnəʊ.tərˈaɪ.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+45 - Notoriety::Sự tai tiếng *(Phát âm: /ˌnəʊ.tərˈaɪ.ə.ti/)* ![[notoriety.mp3]]<br><br>👪 **Word Family:** Notorious (adj.)<br><br>💬 **Ví dụ:** Notoriety for scandals.<br>*(-> Tai tiếng vì bê bối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being famous or well known for some bad quality.

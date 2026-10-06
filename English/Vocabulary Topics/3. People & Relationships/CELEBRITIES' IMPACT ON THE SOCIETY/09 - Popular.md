@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Popular
 *adj.*
 > /ˈpɒp.jə.lər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+09 - Popular::Phổ biến, được yêu thích *(Phát âm: /ˈpɒp.jə.lər/)* ![[popular.mp3]]<br><br>👪 **Word Family:** Popularity (n.)<br><br>💬 **Ví dụ:** It is popular.<br>*(-> Nó rất phổ biến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Liked or enjoyed by many people.

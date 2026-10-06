@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Pastime
 *n*
 > /ˈpɑːstaɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Pastime::Thú vui *(Phát âm: /ˈpɑːstaɪm/)* ![[pastime.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Reading is my favorite pastime.<br>*(-> Đọc sách là thú vui yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity that someone does regularly for enjoyment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Mechatronics
 *noun.*
 > /ˌmek.əˈtrɑː.nɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Mechatronics::Cơ điện tử *(Phát âm: /ˌmek.əˈtrɑː.nɪks/)* ![[mechatronics.mp3]]<br><br>👪 **Word Family:** mechatronic (adj), mechatronicist (noun)<br><br>💬 **Ví dụ:** Mechatronics is crucial for designing modern industrial robotic arms.<br>*(-> Cơ điện tử là cực kỳ quan trọng để thiết kế các cánh tay robot công nghiệp hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of engineering that focuses on the design and manufacture of products combining mechanical and electronic components

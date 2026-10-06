@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Collision
 *n.*
 > /kəˈlɪʒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Collision::Sự va chạm, vụ đâm xe *(Phát âm: /kəˈlɪʒn/)* ![[collision.mp3]]<br><br>👪 **Word Family:** collide<br><br>💬 **Ví dụ:** Collision coverage pays for damage to your car in an accident.<br>*(-> Bảo hiểm va chạm chi trả cho những thiệt hại đối với xe của bạn trong một tai nạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An instance of one moving object or person striking violently against another.

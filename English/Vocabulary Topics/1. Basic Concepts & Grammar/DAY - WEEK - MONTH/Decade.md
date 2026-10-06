@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Decade
 *noun*
 > /ˈdekeɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Decade::Thập kỷ *(Phát âm: /ˈdekeɪd/)* ![[decade.mp3]]<br><br>👪 **Word Family:** decadal (adj)<br><br>💬 **Ví dụ:** He lived there for a decade.<br>*(-> Anh ấy đã sống ở đó trong một thập kỷ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of ten years.

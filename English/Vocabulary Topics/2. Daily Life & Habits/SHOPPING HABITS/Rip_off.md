@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Rip-off
 *n*
 > /ˈrɪp.ɒf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Rip_off::Giá chặt chém *(Phát âm: /ˈrɪp.ɒf/)* ![[rip_off.mp3]]<br><br>👪 **Word Family:** Rip off (v)<br><br>💬 **Ví dụ:** This meal is a rip-off.<br>*(-> Bữa ăn này quá đắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something unreasonably expensive

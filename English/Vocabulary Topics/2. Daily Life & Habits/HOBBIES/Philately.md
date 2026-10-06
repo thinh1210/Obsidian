@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Philately
 *noun*
 > /fɪˈlætəli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Philately::Thú sưu tầm và nghiên cứu tem *(Phát âm: /fɪˈlætəli/)* ![[philately.mp3]]<br><br>👪 **Word Family:** Philatelist (n), Philatelic (adj)<br><br>💬 **Ví dụ:** He took up philately to pass the time during the winter.<br>*(-> Anh ấy bắt đầu sưu tầm tem để giết thời gian trong mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The collection and study of postage stamps.

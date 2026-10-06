@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Semester
 *n.*
 > /sɪˈmes.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Semester::Học kỳ học thuật trong trường học hoặc trường đại học *(Phát âm: /sɪˈmes.tər/)* ![[semester.mp3]]<br><br>👪 **Word Family:** semestral (adj)<br><br>💬 **Ví dụ:** I am taking five challenging courses during the upcoming autumn semester.<br>*(-> Tôi sẽ đăng ký năm môn học đầy thử thách trong học kỳ mùa thu sắp tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A half-year term in a school or university, typically lasting fifteen to eighteen weeks.

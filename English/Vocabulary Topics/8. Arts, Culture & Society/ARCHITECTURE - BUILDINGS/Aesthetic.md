@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Aesthetic
 *adj.*
 > /iːsˈθetɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Aesthetic::Thẩm mỹ *(Phát âm: /iːsˈθetɪk/)* ![[aesthetic.mp3]]<br><br>👪 **Word Family:** aesthetically, aestheticism<br><br>💬 **Ví dụ:** The building has a clean, minimalist aesthetic.<br>*(-> Tòa nhà có tính thẩm mỹ tối giản, sạch sẽ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Concerned with beauty or the appreciation of beauty, especially in art and design

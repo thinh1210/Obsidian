@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Chemical
 *noun*
 > /ˈkem.ɪ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Chemical::Hóa chất *(Phát âm: /ˈkem.ɪ.kəl/)* ![[chemical.mp3]]<br><br>👪 **Word Family:** chemistry (n), chemist (n), chemically (adv)<br><br>💬 **Ví dụ:** Keep chemicals out of the reach of children.<br>*(-> Để hóa chất tránh xa tầm tay trẻ em.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A distinct substance that has been purified or prepared, especially artificially.

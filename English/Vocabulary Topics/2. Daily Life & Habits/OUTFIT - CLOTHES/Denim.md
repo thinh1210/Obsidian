@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Denim
 *n.*
 > /ˈden.ɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Denim::Loại vải bông thô dày, bền chắc dùng để may quần áo bò jeans *(Phát âm: /ˈden.ɪm/)* ![[denim.mp3]]<br><br>💬 **Ví dụ:** A classic blue denim jacket matches almost any casual weekend outfit.<br>*(-> Một chiếc áo khoác denim xanh cổ điển phối hợp được với hầu hết trang phục cuối tuần thoải mái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thick, strong cotton cloth, typically blue, used especially for making jeans.

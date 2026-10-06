@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Regular
 *adj.*
 > /ˈrɛɡjʊlə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Regular::Thường xuyên, đều đặn *(Phát âm: /ˈrɛɡjʊlə/)* ![[regular.mp3]]<br><br>👪 **Word Family:** regularly (adv.)<br><br>💬 **Ví dụ:** I need regular breaks.<br>*(-> Tôi cần những khoảng nghỉ đều đặn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done or happening frequently.

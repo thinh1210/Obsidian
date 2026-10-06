@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Sponsor
 *verb*
 > /ˈspɑːnsər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
+
+## 🗂️ Flashcard
+Sponsor::Tài trợ *(Phát âm: /ˈspɑːnsər/)* ![[sponsor.mp3]]<br><br>👪 **Word Family:** sponsor (n), sponsorship (n)<br><br>💬 **Ví dụ:** Our local business decided to sponsor the school soccer team.<br>*(-> Doanh nghiệp địa phương của chúng tôi quyết định tài trợ cho đội bóng đá của trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To provide funds for a project, activity, person, or seminar, especially in exchange for advertising rights

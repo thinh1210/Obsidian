@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Attrition
 *n.*
 > /əˈtrɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Attrition::Sự hao mòn nhân sự tự nhiên *(Phát âm: /əˈtrɪʃ.ən/)* ![[attrition.mp3]]<br><br>👪 **Word Family:** attrit (v)<br><br>💬 **Ví dụ:** The company reduced staff numbers through natural attrition.<br>*(-> Công ty đã giảm số lượng nhân viên thông qua việc hao mòn nhân lực tự nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The gradual reduction of workforce size by not replacing workers who leave

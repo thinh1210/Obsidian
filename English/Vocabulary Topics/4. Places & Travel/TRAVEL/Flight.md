@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Flight
 *noun*
 > /flaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Flight::Chuyến bay *(Phát âm: /flaɪt/)* ![[flight.mp3]]<br><br>👪 **Word Family:** Flights, Fly (verb), Flying (adj/v-ing)<br><br>💬 **Ví dụ:** My flight is delayed.<br>*(-> Chuyến bay của tôi bị hoãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey in an aircraft

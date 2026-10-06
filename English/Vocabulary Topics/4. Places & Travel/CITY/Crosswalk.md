@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Crosswalk
 *n.*
 > /ˈkrɒswɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Crosswalk::Vạch qua đường *(Phát âm: /ˈkrɒswɔːk/)* ![[crosswalk.mp3]]<br><br>👪 **Word Family:** cross (v)<br><br>💬 **Ví dụ:** Always use the crosswalk.<br>*(-> Luôn sử dụng vạch qua đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A marked place where pedestrians can cross a road.

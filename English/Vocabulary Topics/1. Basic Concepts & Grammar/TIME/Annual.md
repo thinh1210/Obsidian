@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Annual
 *adj.*
 > /ˈænjuəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Annual::Hàng năm *(Phát âm: /ˈænjuəl/)* ![[annual.mp3]]<br><br>👪 **Word Family:** annually (adv.)<br><br>💬 **Ví dụ:** This is an annual event.<br>*(-> Đây là một sự kiện hàng năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring once a year

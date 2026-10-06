@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Monoculture
 *n.*
 > /ˈmɒn.əʊˌkʌl.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Monoculture::Độc canh *(Phát âm: /ˈmɒn.əʊˌkʌl.tʃər/)* ![[monoculture.mp3]]<br><br>👪 **Word Family:** monocultural (adj)<br><br>💬 **Ví dụ:** Monoculture makes the farm highly vulnerable to pest invasions.<br>*(-> Độc canh khiến trang trại rất dễ bị sâu bệnh tấn công xâm nhập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The cultivation of a single crop in a given area.

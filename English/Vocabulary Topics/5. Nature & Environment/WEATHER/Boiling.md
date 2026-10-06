@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Boiling
 *adj.*
 > /ˈbɔɪlɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Boiling::Nóng sôi, rất nóng *(Phát âm: /ˈbɔɪlɪŋ/)* ![[boiling.mp3]]<br><br>👪 **Word Family:** Boil (verb), boiler (noun)<br><br>💬 **Ví dụ:** Open the window; it's boiling in here.<br>*(-> Mở cửa sổ ra đi; trong này nóng như thiêu như đốt ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very hot (informal)

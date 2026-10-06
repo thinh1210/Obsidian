@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Ecosystem
 *noun*
 > /ˈiː.kəʊˌsɪs.təm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Ecosystem::Hệ sinh thái *(Phát âm: /ˈiː.kəʊˌsɪs.təm/)* ![[ecosystem.mp3]]<br><br>👪 **Word Family:** ecosystem (n), ecological (adj), ecology (n), ecologist (n)<br><br>💬 **Ví dụ:** Pollution can cause irreversible damage to a local river's ecosystem.<br>*(-> Ô nhiễm có thể gây ra những thiệt hại không thể đảo ngược đối với hệ sinh thái của một dòng sông địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A biological community of interacting organisms and their physical environment.

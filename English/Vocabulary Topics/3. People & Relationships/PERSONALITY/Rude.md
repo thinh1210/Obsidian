@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Rude
 *adj.*
 > /ruːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Rude::Thô lỗ, khiếm nhã, ăn nói cộc lốc bất lịch sự *(Phát âm: /ruːd/)* ![[rude.mp3]]<br><br>👪 **Word Family:** rudeness (n), rudely (adv)<br><br>💬 **Ví dụ:** It is rude to interrupt someone while they are speaking.<br>*(-> Thật thô lỗ khi ngắt lời ai đó khi họ đang nói.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not polite; offensive or embarrassing.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Heat
 *n.*
 > /hiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Heat::Nhiệt độ cao, sức nóng, cái nóng oi bức của mùa hè *(Phát âm: /hiːt/)* ![[heat.mp3]]<br><br>👪 **Word Family:** hot (adj), heated (adj), heatedly (adv)<br><br>💬 **Ví dụ:** Drink plenty of water to cope with the extreme summer heat.<br>*(-> Hãy uống nhiều nước để ứng phó với cái nóng mùa hè gay gắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being hot; high temperature in the atmosphere.

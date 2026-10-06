@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Resourceful
 *adj.*
 > /rɪˈzɔː.sfəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Resourceful::Tháo vát, nhanh trí, nhiều sáng kiến ứng biến xoay xở trong mọi hoàn cảnh *(Phát âm: /rɪˈzɔː.sfəl/)* ![[resourceful.mp3]]<br><br>👪 **Word Family:** resource (n), resourcefulness (n), resourcefully (adv)<br><br>💬 **Ví dụ:** She was resourceful enough to mend the tent using only duct tape and fishing line.<br>*(-> Cô ấy đủ tháo vát để vá chiếc lều chỉ bằng băng dính dán ống và dây cước câu cá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Skilled at solving problems and making decisions on your own, using whatever is available.

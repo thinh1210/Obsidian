@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Clothes
 *n.*
 > /kləʊðz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+12 - Clothes::Quần áo *(Phát âm: /kləʊðz/)* ![[clothes.mp3]]<br><br>👪 **Word Family:** Clothe (v.)<br><br>💬 **Ví dụ:** Nice clothes.<br>*(-> Quần áo đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Things you wear to cover your body.

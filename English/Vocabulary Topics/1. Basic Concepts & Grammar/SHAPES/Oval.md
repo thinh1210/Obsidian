@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Oval
 *n.*
 > /ˈəʊ.vəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Oval::Hình bầu dục *(Phát âm: /ˈəʊ.vəl/)* ![[oval.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The table is oval.<br>*(-> Cái bàn có hình bầu dục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rounded and slightly elongated outline or shape, like that of an egg.

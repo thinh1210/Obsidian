@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Daisy
 *n.*
 > /ˈdeɪzi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Daisy::Hoa cúc dại, hoa cúc họa mi có nhụy vàng tươi và cánh hoa màu trắng muốt *(Phát âm: /ˈdeɪzi/)* ![[daisy.mp3]]<br><br>👪 **Word Family:** daisied (adj)<br><br>💬 **Ví dụ:** The children sat on the grass making daisy chains to wear as crowns.<br>*(-> Lũ trẻ ngồi trên bãi cỏ tết những chuỗi hoa cúc để đội lên đầu như vương miện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small plant bearing flower heads with a yellow center and white petals.

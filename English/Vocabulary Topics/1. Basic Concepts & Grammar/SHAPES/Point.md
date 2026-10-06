@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Point
 *n.*
 > /pɔɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Point::Điểm, chấm *(Phát âm: /pɔɪnt/)* ![[point.mp3]]<br><br>👪 **Word Family:** Pointy (adj)<br><br>💬 **Ví dụ:** Make a point on the paper.<br>*(-> Tạo một dấu chấm trên giấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dot or tiny mark.

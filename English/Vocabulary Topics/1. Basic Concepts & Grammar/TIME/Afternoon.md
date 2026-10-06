@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Afternoon
 *n.*
 > /ˌɑːftəˈnuːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Afternoon::Buổi chiều *(Phát âm: /ˌɑːftəˈnuːn/)* ![[afternoon.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Let's meet this afternoon.<br>*(-> Hãy gặp nhau chiều nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time from noon until evening

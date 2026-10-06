@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Import
 *verb*
 > /ˈɪmpɔːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Import::nhập khẩu *(Phát âm: /ˈɪmpɔːrt/)* ![[import.mp3]]<br><br>👪 **Word Family:** importation (noun), importer (noun)<br><br>💬 **Ví dụ:** This shop sells high-quality imported chocolates.<br>*(-> Cửa hàng này bán socola nhập khẩu chất lượng cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to bring products or materials into a country from another country for sale.

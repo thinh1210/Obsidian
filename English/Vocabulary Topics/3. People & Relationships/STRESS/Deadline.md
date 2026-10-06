@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Deadline
 *n.*
 > /ˈdedlaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Deadline::Hạn chót *(Phát âm: /ˈdedlaɪn/)* ![[deadline.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I have a strict deadline.<br>*(-> Tôi có một hạn chót khắt khe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latest time or date by which something should be completed

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Trousers
 *n.*
 > /ˈtraʊ.zəz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Trousers::Chiếc quần dài, quần âu công sở *(Phát âm: /ˈtraʊ.zəz/)* ![[trousers.mp3]]<br><br>💬 **Ví dụ:** He wore a crisp white shirt paired with dark navy trousers to the interview.<br>*(-> Anh ấy mặc chiếc áo sơ mi trắng tinh cùng quần âu màu xanh than đến buổi phỏng vấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing covering the body from the waist downwards, with two separate leg parts.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Habeas Corpus
 *noun*
 > /ˌheɪbiəs ˈkɔːrpəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Habeas_Corpus::Lệnh tống thân; nguyên tắc đưa ra xem xét người bị giam giữ *(Phát âm: /ˌheɪbiəs ˈkɔːrpəs/)* ![[habeas_corpus.mp3]]<br><br>👪 **Word Family:** corpus (n), habeas (Latin adj)<br><br>💬 **Ví dụ:** He filed a writ of habeas corpus to challenge his imprisonment.<br>*(-> Anh ấy nộp đơn habeas corpus để phản đối việc giam giữ mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A legal principle requiring that a person held in custody must be brought before a judge to determine if the detention is lawful

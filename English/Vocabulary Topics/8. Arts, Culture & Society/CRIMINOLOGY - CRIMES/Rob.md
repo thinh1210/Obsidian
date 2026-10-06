@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Rob
 *verb*
 > /rɒb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Rob::Cướp, đoạt *(Phát âm: /rɒb/)* ![[rob.mp3]]<br><br>👪 **Word Family:** robber (n), robbery (n)<br><br>💬 **Ví dụ:** The thieves planned to rob the local convenience store.<br>*(-> Những kẻ trộm lên kế hoạch cướp cửa hàng tiện lợi địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take money or property from a person or place illegally by using force or threats

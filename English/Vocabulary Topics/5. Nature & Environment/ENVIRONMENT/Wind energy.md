@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Wind energy
 *n.*
 > /wɪnd ˈenədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Wind energy::Năng lượng gió, nguồn năng lượng tái tạo tận dụng sức gió quay tuabin sản xuất điện *(Phát âm: /wɪnd ˈenədʒi/)* ![[wind_energy.mp3]]<br><br>👪 **Word Family:** wind-powered (adj)<br><br>💬 **Ví dụ:** Driving across the breezy coastal highway, we marveled at giant wind turbines spinning gracefully.<br>*(-> Lái xe qua đường cao tốc ven biển lộng gió, chúng tôi trầm trồ trước các tuabin gió khổng lồ đang quay êm ả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The use of air flow through wind turbines to mechanically power electric generators.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Verdict
 *noun*
 > /ˈvɜː.dɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Verdict::Phán quyết, tuyên án của bồi thẩm đoàn *(Phát âm: /ˈvɜː.dɪkt/)* ![[verdict.mp3]]<br><br>👪 **Word Family:** Verdict (n)<br><br>💬 **Ví dụ:** The jury reached a verdict of not guilty after hours of deliberation.<br>*(-> Bồi thẩm đoàn đã đưa ra phán quyết vô tội sau nhiều giờ thảo luận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A decision on a disputed issue in a civil or criminal case or an inquest.

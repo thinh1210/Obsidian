@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # elect
 *verb*
 > /ɪˈlekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+elect::Bầu chọn, đắc cử *(Phát âm: /ɪˈlekt/)* ![[elect.mp3]]<br><br>👪 **Word Family:** election (n), elective (adj), electoral (adj)<br><br>💬 **Ví dụ:** The committee will elect a new chairperson tomorrow.<br>*(-> Ủy ban sẽ bầu chọn một chủ tịch mới vào ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To choose someone for a position or office by voting.

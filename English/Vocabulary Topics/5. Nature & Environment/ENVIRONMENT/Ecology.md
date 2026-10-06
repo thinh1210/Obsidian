@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Ecology
 *n.*
 > /iˈkɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Ecology::Sinh thái học *(Phát âm: /iˈkɒlədʒi/)* ![[ecology.mp3]]<br><br>👪 **Word Family:** ecologist (n), ecological (adj), ecologically (adv)<br><br>💬 **Ví dụ:** Students are studying the ecology of the local wetlands.<br>*(-> Học sinh đang nghiên cứu sinh thái học của các vùng đất ngập nước địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.

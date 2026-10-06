@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Crime
 *noun*
 > /kraɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Crime::Tội phạm, tội ác *(Phát âm: /kraɪm/)* ![[crime.mp3]]<br><br>👪 **Word Family:** criminal (adj/n), criminality (n)<br><br>💬 **Ví dụ:** We need to stop crime in our neighborhood.<br>*(-> Chúng ta cần ngăn chặn tội phạm trong khu phố của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action or activity that is against the law

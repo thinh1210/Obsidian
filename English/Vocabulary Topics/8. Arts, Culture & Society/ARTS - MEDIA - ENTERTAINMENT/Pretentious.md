@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Pretentious
 *adj.*
 > /prɪˈtenʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Pretentious::Tự phụ, kiêu căng, làm bộ làm tịch *(Phát âm: /prɪˈtenʃəs/)* ![[pretentious.mp3]]<br><br>👪 **Word Family:** pretension, pretentiously, pretentiousness<br><br>💬 **Ví dụ:** I found the movie's dialogue to be pretentious and unrealistic.<br>*(-> Tôi thấy lời thoại của bộ phim thật kiêu căng và thiếu thực tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Attempting to impress by affecting greater importance, talent, culture, etc., than is actually possessed.

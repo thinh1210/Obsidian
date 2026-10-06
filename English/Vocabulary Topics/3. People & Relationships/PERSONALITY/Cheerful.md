@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Cheerful
 *adj.*
 > /ˈtʃɪə.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Cheerful::Vui tươi, rạng rỡ, phấn chấn và lan tỏa năng lượng tích cực *(Phát âm: /ˈtʃɪə.fəl/)* ![[cheerful.mp3]]<br><br>👪 **Word Family:** cheer (v/n), cheerfulness (n), cheerfully (adv)<br><br>💬 **Ví dụ:** Her cheerful morning greeting immediately lifted the office's spirits.<br>*(-> Lời chào buổi sáng rạng rỡ của cô ấy ngay lập tức nâng cao tinh thần cả văn phòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Happy and positive in feeling or attitude; visibly in good spirits.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Enthusiastic
 *adj.*
 > /ɪnˌθjuː.ziˈæs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Enthusiastic::Nhiệt tình, hăng hái *(Phát âm: /ɪnˌθjuː.ziˈæs.tɪk/)* ![[enthusiastic.mp3]]<br><br>👪 **Word Family:** Enthusiasm (n), Enthusiast (n)<br><br>💬 **Ví dụ:** He is enthusiastic about sports.<br>*(-> Anh ấy rất đam mê thể thao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or showing intense and eager enjoyment.

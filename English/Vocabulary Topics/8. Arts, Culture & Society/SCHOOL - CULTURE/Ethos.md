@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Ethos
 *noun*
 > /ˈiːθɒs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Ethos::Đặc trưng, tinh thần đặc sắc của trường học/tổ chức *(Phát âm: /ˈiːθɒs/)* ![[ethos.mp3]]<br><br>👪 **Word Family:** ethic (n), ethical (adj)<br><br>💬 **Ví dụ:** The school ethos emphasizes mutual respect, creativity, and hard work.<br>*(-> Tinh thần đặc trưng của trường nhấn mạnh sự tôn trọng lẫn nhau, tính sáng tạo và sự chăm chỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The characteristic spirit of a culture, era, or community as manifested in its beliefs and aspirations.

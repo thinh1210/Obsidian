@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Ruins
 *noun*
 > /ˈruːɪnz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Ruins::Tàn tích, đống đổ nát *(Phát âm: /ˈruːɪnz/)* ![[ruins.mp3]]<br><br>👪 **Word Family:** ruin (verb/noun), ruinous (adj)<br><br>💬 **Ví dụ:** We walked through the ruins of the castle.<br>*(-> Chúng tôi đi dạo qua những tàn tích của lâu đài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The parts of a building, town, etc. that remain after it has been destroyed

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Heredity
 *noun*
 > /hɪˈred.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Heredity::Sự di truyền *(Phát âm: /hɪˈred.ə.ti/)* ![[heredity.mp3]]<br><br>👪 **Word Family:** hereditary (adj)<br><br>💬 **Ví dụ:** Heredity plays a part in this disease.<br>*(-> Di truyền đóng vai trò trong căn bệnh này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which characteristics are given from a parent to their child through the genes.

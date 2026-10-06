@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Deep packet inspection
 *noun*
 > /ˌdiːp ˈpæk.ɪt ɪnˈspek.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
+
+## 🗂️ Flashcard
+Deep_packet_inspection::Kiểm tra gói tin sâu (phân tích nội dung dữ liệu trong gói tin mạng) *(Phát âm: /ˌdiːp ˈpæk.ɪt ɪnˈspek.ʃən/)* ![[deep_packet_inspection.mp3]]<br><br>👪 **Word Family:** packet inspection (n), network monitoring (n)<br><br>💬 **Ví dụ:** Authoritarian governments use deep packet inspection to censor and monitor internet traffic.<br>*(-> Các chính phủ độc tài sử dụng kiểm tra gói tin sâu để kiểm duyệt và theo dõi lưu lượng Internet.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of computer network packet filtering that examines the data part (payload) of a packet as it passes through an inspection point.

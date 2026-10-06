@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Band
 *n.*
 > /bænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Band::Ban nhạc *(Phát âm: /bænd/)* ![[band.mp3]]<br><br>👪 **Word Family:** bandmate (n)<br><br>💬 **Ví dụ:** My brother plays the drums in a school band.<br>*(-> Anh trai tôi chơi trống trong một ban nhạc trường học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small group of musicians and vocalists who play music together.

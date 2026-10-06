@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Splendid
 *adj*
 > /ˈsplen.dɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Splendid::Tuyệt vời, lộng lẫy *(Phát âm: /ˈsplen.dɪd/)* ![[splendid.mp3]]<br><br>👪 **Word Family:** Splendor (noun), Splendidly (adv)<br><br>💬 **Ví dụ:** What a splendid day for a walk!<br>*(-> Quả là một ngày tuyệt vời để đi dạo!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Magnificent; very impressive.

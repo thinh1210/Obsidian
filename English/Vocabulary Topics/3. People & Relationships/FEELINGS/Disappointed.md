@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Disappointed
 *adj*
 > /ˌdɪsəˈpɔɪntɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Disappointed::Thất vọng *(Phát âm: /ˌdɪsəˈpɔɪntɪd/)* ![[disappointed.mp3]]<br><br>👪 **Word Family:** disappointment (n), disappointing (adj)<br><br>💬 **Ví dụ:** I was disappointed with the food.<br>*(-> Tôi thất vọng với thức ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sad or displeased because someone or something has failed to fulfil one's hopes.

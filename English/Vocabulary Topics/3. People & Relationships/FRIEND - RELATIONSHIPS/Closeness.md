@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Closeness
 *n.*
 > /ˈkləʊs.nəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Closeness::Sự gần gũi, khăng khít, gắn bó sâu sắc trong tình bạn *(Phát âm: /ˈkləʊs.nəs/)* ![[closeness.mp3]]<br><br>👪 **Word Family:** close (adj), closely (adv)<br><br>💬 **Ví dụ:** Despite living oceans apart, modern video calls help us maintain our cherished closeness.<br>*(-> Dù sống cách nhau cả đại dương, các cuộc gọi video hiện đại giúp chúng tôi duy trì sự gần gũi đáng quý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of knowing someone well and having a warm relationship with them.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Inundate
 *verb*
 > /ˈɪn.ʌn.deɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Inundate::Ngập lụt, làm ngập nước, tràn ngập *(Phát âm: /ˈɪn.ʌn.deɪt/)* ![[inundate.mp3]]<br><br>👪 **Word Family:** inundation (n)<br><br>💬 **Ví dụ:** Rising sea levels threaten to inundate low-lying coastal cities.<br>*(-> Mực nước biển dâng cao đe dọa làm ngập lụt các thành phố ven biển trũng thấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To flood an area with water; to overwhelm someone with things.

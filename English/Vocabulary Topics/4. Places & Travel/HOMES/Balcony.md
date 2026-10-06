@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Balcony
 *noun*
 > /ˈbælkəni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Balcony::Ban công *(Phát âm: /ˈbælkəni/)* ![[balcony.mp3]]<br><br>👪 **Word Family:** **Synonyms:** terrace<br><br>💬 **Ví dụ:** She stood on the balcony.<br>*(-> Cô ấy đứng trên ban công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A platform enclosed by a wall or balustrade on the outside of a building.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** terrace
-**Antonyms:** 
+**Antonyms:**

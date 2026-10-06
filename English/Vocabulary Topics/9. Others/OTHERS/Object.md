@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Object
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - article, entity, thing
+
+
+## 🗂️ Flashcard
+Object::Vật thể, đối tượng *(Phát âm: /ˈɒb.dʒɪkt/)* ![[object.mp3]]<br><br>👪 **Word Family:** [Noun]: object, objection, objectivity, [Verb]: object, [Adj]: objective, [Adv]: objectively<br><br>💬 **Ví dụ:** The radar detected an unidentified object in the sky.<br>*(-> Ra-đa đã phát hiện một vật thể lạ trên bầu trời.)*

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Currency
 *noun.*
 > /ˈkʌrənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Currency::Tiền tệ *(Phát âm: /ˈkʌrənsi/)* ![[currency.mp3]]<br><br>👪 **Word Family:** current (adj)<br><br>💬 **Ví dụ:** Before traveling to Japan, you should exchange your money for local currency.<br>*(-> Trước khi du lịch Nhật Bản, bạn nên đổi tiền sang tiền tệ địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The system of money in general use in a particular country.

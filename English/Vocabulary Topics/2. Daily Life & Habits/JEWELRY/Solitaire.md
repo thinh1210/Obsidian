@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Solitaire
 *noun*
 > /ˌsɒl.ɪˈteər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Solitaire::Đá quý đính đơn *(Phát âm: /ˌsɒl.ɪˈteər/)* ![[solitaire.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He gave her a solitaire.<br>*(-> Anh ấy tặng cô ấy một viên đính đơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A single diamond or other gem set alone.

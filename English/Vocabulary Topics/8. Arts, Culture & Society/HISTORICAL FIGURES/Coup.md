@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Coup
 *n.*
 > /kuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Coup::Cuộc đảo chính *(Phát âm: /kuː/)* ![[coup.mp3]]<br><br>👪 **Word Family:** coupist<br><br>💬 **Ví dụ:** The president was overthrown in a military coup.<br>*(-> Tổng thống đã bị lật đổ trong một cuộc đảo chính quân sự.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden, violent, and illegal seizure of power from a government

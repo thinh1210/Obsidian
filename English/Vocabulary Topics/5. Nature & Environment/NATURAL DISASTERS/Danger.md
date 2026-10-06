@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Danger
 *noun*
 > /ˈdeɪn.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Danger::Sự nguy hiểm *(Phát âm: /ˈdeɪn.dʒər/)* ![[danger.mp3]]<br><br>👪 **Word Family:** dangerous (adj), endanger (v)<br><br>💬 **Ví dụ:** The sign warns visitors of the danger of falling rocks.<br>*(-> Biển hiệu cảnh báo du khách về nguy cơ đá lở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The possibility of harm, death, damage, or unwanted event.

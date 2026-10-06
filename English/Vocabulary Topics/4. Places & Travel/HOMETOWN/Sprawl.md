@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Sprawl
 *n.*
 > /sprɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Sprawl::Sự mở rộng lộn xộn *(Phát âm: /sprɔːl/)* ![[sprawl.mp3]]<br><br>👪 **Word Family:** Sprawling (adj.)<br><br>💬 **Ví dụ:** Urban sprawl is destroying the countryside.<br>*(-> Sự mở rộng đô thị lộn xộn đang phá hủy nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The disorganized and unattractive expansion of an urban or industrial area.

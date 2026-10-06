@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Star
 *Noun*
 > /stɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Star::Ngôi sao *(Phát âm: /stɑːr/)* ![[star.mp3]]<br><br>👪 **Word Family:** starry, starlight, starless<br><br>💬 **Ví dụ:** I like to look at the stars at night.<br>*(-> Tôi thích ngắm nhìn những ngôi sao vào ban đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A luminous point in the night sky which is a large, remote incandescent body.

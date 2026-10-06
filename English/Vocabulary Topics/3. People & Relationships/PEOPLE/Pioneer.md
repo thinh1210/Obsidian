@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Pioneer
 *n.*
 > /ˌpaɪəˈnɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Pioneer::Người tiên phong *(Phát âm: /ˌpaɪəˈnɪər/)* ![[pioneer.mp3]]<br><br>👪 **Word Family:** Pioneering<br><br>💬 **Ví dụ:** Marie Curie was a pioneer in science.<br>*(-> Marie Curie là người tiên phong trong khoa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is among the first to explore or settle a new country or area.

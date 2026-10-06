@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Gravitational
 *adjective*
 > /ˌɡræv.ɪˈteɪ.ʃən.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Gravitational::Thuộc lực hấp dẫn, thuộc trọng lực *(Phát âm: /ˌɡræv.ɪˈteɪ.ʃən.əl/)* ![[gravitational.mp3]]<br><br>👪 **Word Family:** gravity (n), gravitate (v), gravitation (n)<br><br>💬 **Ví dụ:** The moon's gravitational pull causes ocean tides on Earth.<br>*(-> Lực hút hấp dẫn của mặt trăng gây ra thủy triều đại dương trên Trái Đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to gravity or movement caused by gravity.

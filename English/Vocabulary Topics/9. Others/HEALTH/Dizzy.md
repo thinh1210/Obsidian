@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Dizzy
 *adj.*
 > /ˈdɪz.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Dizzy::Có cảm giác quay cuồng, choáng váng và mất thăng bằng *(Phát âm: /ˈdɪz.i/)* ![[dizzy.mp3]]<br><br>👪 **Word Family:** dizziness (n), dizzily (adv)<br><br>💬 **Ví dụ:** I felt dizzy after standing up too quickly from my chair.<br>*(-> Tôi cảm thấy chóng mặt sau khi đứng dậy quá nhanh từ ghế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling as if everything is spinning around you and that you might lose your balance and fall.

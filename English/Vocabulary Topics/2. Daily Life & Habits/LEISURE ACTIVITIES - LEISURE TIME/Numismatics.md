@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Numismatics
 *n*
 > /ˌnjuːmɪzˈmætɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Numismatics::Thú sưu tập tiền xu *(Phát âm: /ˌnjuːmɪzˈmætɪks/)* ![[numismatics.mp3]]<br><br>👪 **Word Family:** Numismatist (n)<br><br>💬 **Ví dụ:** Numismatics is a fascinating hobby for history buffs.<br>*(-> Sưu tập tiền xu là thú vui hấp dẫn cho người đam mê lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study or collection of coins, paper money, and medals.

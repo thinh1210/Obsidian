@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Extinct
 *adjective*
 > /ɪkˈstɪŋkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Extinct::Tuyệt chủng *(Phát âm: /ɪkˈstɪŋkt/)* ![[extinct.mp3]]<br><br>👪 **Word Family:** extinct (adj), extinction (n)<br><br>💬 **Ví dụ:** Dinosaurs became extinct millions of years ago.<br>*(-> Khủng long đã tuyệt chủng hàng triệu năm trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having no living members; no longer in existence.

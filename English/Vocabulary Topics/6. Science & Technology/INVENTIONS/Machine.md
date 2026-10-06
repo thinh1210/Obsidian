@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Machine
 *Noun*
 > /məˈʃiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Machine::Máy móc, cỗ máy *(Phát âm: /məˈʃiːn/)* ![[machine.mp3]]<br><br>👪 **Word Family:** Machinery (n), mechanic (n), mechanical (adj)<br><br>💬 **Ví dụ:** The washing machine is making a strange noise.<br>*(-> Máy giặt đang phát ra tiếng động lạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of equipment with several moving parts that uses power to do a particular type of work.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Circular
 *adj.*
 > /ˈsɜː.kjə.lər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Circular::Có hình tròn *(Phát âm: /ˈsɜː.kjə.lər/)* ![[circular.mp3]]<br><br>👪 **Word Family:** Circle (n)<br><br>💬 **Ví dụ:** Stir the soup in a circular motion.<br>*(-> Khuấy súp theo chuyển động tròn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having the form of a circle.

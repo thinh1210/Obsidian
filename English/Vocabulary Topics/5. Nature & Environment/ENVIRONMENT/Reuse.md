@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Reuse
 *v.*
 > /ˌriːˈjuːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Reuse::Tái sử dụng, dùng lại đồ vật nhiều lần nhằm tiết kiệm tài nguyên và bảo vệ môi trường *(Phát âm: /ˌriːˈjuːz/)* ![[reuse.mp3]]<br><br>👪 **Word Family:** reusable (adj), reusability (n)<br><br>💬 **Ví dụ:** Carrying a reusable canvas bag to the supermarket helps eliminate single-use plastic sacks.<br>*(-> Mang theo túi vải tái sử dụng đi siêu thị giúp loại bỏ hoàn toàn túi nilon dùng một lần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To use something again or more than once instead of throwing it away.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Track
 *n.*
 > /træk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Track::Tuyến đường sắt có ray dẫn hướng cho đoàn tàu hỏa chạy *(Phát âm: /træk/)* ![[track.mp3]]<br><br>👪 **Word Family:** track (v), tracking (n)<br><br>💬 **Ví dụ:** Never walk onto the railway tracks when the warning signal rings.<br>*(-> Tuyệt đối không đi vào đường ray khi tín hiệu chuông cảnh báo đang reo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A continuous line of rails on a railway line.

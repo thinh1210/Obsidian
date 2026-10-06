@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Vocabulary
 *noun*
 > /vəˈkæb.jə.lər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Vocabulary::từ vựng *(Phát âm: /vəˈkæb.jə.lər.i/)* ![[vocabulary.mp3]]<br><br>👪 **Word Family:** vocal (adj)<br><br>💬 **Ví dụ:** Reading books is a great way to build your vocabulary.<br>*(-> Đọc sách là một cách tuyệt vời để xây dựng vốn từ vựng của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** all the words that a person knows or uses, or all the words in a language

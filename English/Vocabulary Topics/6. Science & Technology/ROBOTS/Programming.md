@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Programming
 *noun.*
 > /ˈproʊ.ɡræm.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Programming::Lập trình *(Phát âm: /ˈproʊ.ɡræm.ɪŋ/)* ![[programming.mp3]]<br><br>👪 **Word Family:** program (noun/verb), programmer (noun)<br><br>💬 **Ví dụ:** She is studying robot programming at college.<br>*(-> Cô ấy đang học lập trình robot tại trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity or job of writing computer programs

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Memory
 *n.*
 > /ˈmeməri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Memory::Những khoảnh khắc tươi đẹp được khắc ghi trong tâm trí sau mỗi chuyến đi *(Phát âm: /ˈmeməri/)* ![[memory.mp3]]<br><br>👪 **Word Family:** memorable (adj), memorize (v)<br><br>💬 **Ví dụ:** The photographs brought back wonderful memories of our summer by the sea.<br>*(-> Những tấm ảnh đã khơi gợi lại bao kỷ niệm tuyệt vời về mùa hè bên bờ biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something remembered from the past; a recollection.

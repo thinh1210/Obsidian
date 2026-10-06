@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Incarceration
 *noun*
 > /ɪnˌkɑːsəˈreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
+
+## 🗂️ Flashcard
+Incarceration::Sự bỏ tù, sự tống giam *(Phát âm: /ɪnˌkɑːsəˈreɪʃn/)* ![[incarceration.mp3]]<br><br>👪 **Word Family:** incarcerate (v)<br><br>💬 **Ví dụ:** His incarceration lasted for three years before he was released.<br>*(-> Sự giam cầm của anh ta kéo dài ba năm trước khi anh ta được thả tự do.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being confined in prison; imprisonment

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Renowned
 *adj.*
 > /rɪˈnaʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Renowned::Nổi danh *(Phát âm: /rɪˈnaʊnd/)* ![[renowned.mp3]]<br><br>👪 **Word Family:** renown (n.)<br><br>💬 **Ví dụ:** The region is renowned for its wine.<br>*(-> Khu vực này nổi tiếng về rượu vang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Known or talked about by many people; famous.

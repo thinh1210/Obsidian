@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Carving
 *n.*
 > /ˈkɑː.vɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Carving::Thú vui chạm khắc gỗ hoặc bản khắc hoa văn tinh xảo *(Phát âm: /ˈkɑː.vɪŋ/)* ![[carving.mp3]]<br><br>👪 **Word Family:** carve (v), carver (n)<br><br>💬 **Ví dụ:** My uncle's favorite hobby is wood carving, whittling small animals from cedar blocks.<br>*(-> Sở thích lớn nhất của chú tôi là khắc gỗ, gọt đẽo những con thú nhỏ từ khối gỗ tuyết tùng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or pattern made by cutting a shape out of wood, stone, etc.; the craft itself.

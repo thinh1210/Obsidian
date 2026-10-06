@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Neighbor
 *n.*
 > /ˈneɪbə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
+
+## 🗂️ Flashcard
+Neighbor::Hàng xóm *(Phát âm: /ˈneɪbə/)* ![[neighbor.mp3]]<br><br>👪 **Word Family:** Neighborhood (n.)<br><br>💬 **Ví dụ:** My neighbor is very kind.<br>*(-> Hàng xóm của tôi rất tốt bụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person living near or next door to the speaker.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Grateful
 *adj*
 > /ˈɡreɪtfl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Grateful::Biết ơn *(Phát âm: /ˈɡreɪtfl/)* ![[grateful.mp3]]<br><br>👪 **Word Family:** gratitude (n), gratefully (adv)<br><br>💬 **Ví dụ:** I am grateful for your help.<br>*(-> Tôi biết ơn sự giúp đỡ của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing an appreciation of kindness.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Harbour
 *n.*
 > /ˈhɑːr.bɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
+
+## 🗂️ Flashcard
+Harbour::Bến cảng *(Phát âm: /ˈhɑːr.bɚ/)* ![[harbour.mp3]]<br><br>👪 **Word Family:** harborage (n)<br><br>💬 **Ví dụ:** The boats returned to the harbour at sunset.<br>*(-> Những chiếc thuyền trở về bến cảng lúc hoàng hôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place on the coast where vessels may find shelter.

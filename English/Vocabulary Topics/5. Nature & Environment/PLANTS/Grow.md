@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Grow
 *verb*
 > /ɡrəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Grow::Lớn lên, phát triển, trồng (cây) *(Phát âm: /ɡrəʊ/)* ![[grow.mp3]]<br><br>👪 **Word Family:** Noun: growth (sự phát triển), grower (người trồng), Verb: grow (lớn lên), Adjective: grown (trưởng thành)<br><br>💬 **Ví dụ:** These plants grow best in direct sunlight.<br>*(-> Những cây này phát triển tốt nhất dưới ánh nắng mặt trời trực tiếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To increase in size or develop over time.

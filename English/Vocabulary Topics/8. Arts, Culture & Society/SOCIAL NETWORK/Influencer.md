@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Influencer
 *noun*
 > /ˈɪnfluənsə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Influencer::Người có sức ảnh hưởng *(Phát âm: /ˈɪnfluənsə(r)/)* ![[influencer.mp3]]<br><br>👪 **Word Family:** influence (v/n), influential (adj)<br><br>💬 **Ví dụ:** Many teenagers want to become influencers when they grow up.<br>*(-> Nhiều thanh thiếu niên muốn trở thành người có sức ảnh hưởng khi họ lớn lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has the power to affect the purchasing decisions or opinions of others on social media

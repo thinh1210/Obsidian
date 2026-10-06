@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Supermarket
 *n.*
 > /ˈsuː.pəˌmɑː.kɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Supermarket::Siêu thị lớn bày bán đa dạng thực phẩm và đồ dùng gia đình *(Phát âm: /ˈsuː.pəˌmɑː.kɪt/)* ![[supermarket.mp3]]<br><br>💬 **Ví dụ:** We do our weekly grocery run at the supermarket every Saturday morning.<br>*(-> Chúng tôi đi sắm đồ tạp hóa cho cả tuần tại siêu thị vào mỗi sáng Thứ Bảy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large shop selling foodstuffs and various household goods.

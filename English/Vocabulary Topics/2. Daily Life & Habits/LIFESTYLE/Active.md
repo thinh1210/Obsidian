@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Active
 *adj.*
 > /ˈæktɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Active::Năng động *(Phát âm: /ˈæktɪv/)* ![[active.mp3]]<br><br>👪 **Word Family:** activity (n.)<br><br>💬 **Ví dụ:** I like to stay active.<br>*(-> Tôi thích duy trì sự năng động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Engaging or ready to engage in physically energetic pursuits.

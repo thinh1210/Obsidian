@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Plot
 *noun*
 > /plɒt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Plot::Cốt truyện, sơ đồ sự kiện *(Phát âm: /plɒt/)* ![[plot.mp3]]<br><br>👪 **Word Family:** subplot (n), plotter (n)<br><br>💬 **Ví dụ:** The novel has an amazing plot twist at the very end.<br>*(-> Cuốn tiểu thuyết có một bước ngoặt cốt truyện đáng ngạc nhiên ở đoạn cuối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main events of a play, novel, or movie, devised as an interrelated sequence.

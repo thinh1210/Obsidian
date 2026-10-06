@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Remittance
 *Noun*
 > /rɪˈmɪtns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Remittance::Tiền kiều hối, khoản chuyển tiền (số tiền được gửi đi để thanh toán hoặc làm quà tặng) *(Phát âm: /rɪˈmɪtns/)* ![[remittance.mp3]]<br><br>👪 **Word Family:** Verb: remit (chuyển tiền, miễn giảm)<br><br>💬 **Ví dụ:** Many migrant workers send monthly remittances to support their families back home.<br>*(-> Nhiều lao động nhập cư gửi tiền kiều hối hàng tháng để hỗ trợ gia đình ở quê nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money sent, especially by mail or electronic transfer, in payment for goods or services or as a gift.

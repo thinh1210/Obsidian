@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Share
 *verb*
 > /ʃer/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Share::Chia sẻ *(Phát âm: /ʃer/)* ![[share.mp3]]<br><br>👪 **Word Family:** shared<br><br>💬 **Ví dụ:** Friends share their toys.<br>*(-> Bạn bè chia sẻ đồ chơi của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Have a portion of something with another or others.

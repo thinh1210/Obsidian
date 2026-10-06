@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Cataclysm
 *noun*
 > /ˈkæt.ə.klɪz.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Cataclysm::Biến động lớn, tai họa địa chất/đại hồng thủy *(Phát âm: /ˈkæt.ə.klɪz.əm/)* ![[cataclysm.mp3]]<br><br>👪 **Word Family:** cataclysmic (adj), cataclysmically (adv)<br><br>💬 **Ví dụ:** Scientists warn that a supervolcano eruption would be a global cataclysm.<br>*(-> Các nhà khoa học cảnh báo rằng một vụ phun trào siêu núi lửa sẽ là một biến động địa chất toàn cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large-scale and violent event in the natural world.

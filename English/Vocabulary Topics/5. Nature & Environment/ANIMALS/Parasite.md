@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Parasite
 *noun*
 > /ˈpær.ə.saɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Parasite::Ký sinh trùng, vật ký sinh *(Phát âm: /ˈpær.ə.saɪt/)* ![[parasite.mp3]]<br><br>👪 **Word Family:** parasite (n), parasitic (adj), parasitism (n)<br><br>💬 **Ví dụ:** Ticks and fleas are common external parasites that live on dogs and cats.<br>*(-> Ve và bọ chét là những ký sinh trùng bên ngoài phổ biến sống trên chó và mèo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organism that lives in or on an organism of another species (its host) and benefits by deriving nutrients at the other's expense.

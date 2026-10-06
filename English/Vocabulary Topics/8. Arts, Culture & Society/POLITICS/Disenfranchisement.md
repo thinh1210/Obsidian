@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Disenfranchisement
 *n*
 > /ˌdɪs.ɪnˈfræn.tʃaɪz.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Disenfranchisement::Sự tước đoạt quyền bầu cử / quyền công dân *(Phát âm: /ˌdɪs.ɪnˈfræn.tʃaɪz.mənt/)* ![[disenfranchisement.mp3]]<br><br>👪 **Word Family:** disenfranchise (v), disenfranchised (adj), franchise (n)<br><br>💬 **Ví dụ:** Many elderly voters felt disenfranchisement when polling booths were moved far away.<br>*(-> Nhiều cử tri lớn tuổi cảm thấy bị tước quyền bầu cử khi các điểm bỏ phiếu bị chuyển đi xa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being deprived of the right to vote or other civic rights.

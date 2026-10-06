@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Generator
 *noun*
 > /ˈdʒenəreɪtə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Generator::Máy phát điện *(Phát âm: /ˈdʒenəreɪtə(r)/)* ![[generator.mp3]]<br><br>👪 **Word Family:** generate (v), generation (n), generative (adj)<br><br>💬 **Ví dụ:** When the storm knocked down power lines, the hospital switched to its emergency generator.<br>*(-> Khi cơn bão làm đứt đường dây điện, bệnh viện đã chuyển sang máy phát điện dự phòng khẩn cấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dynamo or similar machine for converting mechanical energy into electricity.

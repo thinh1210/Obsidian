@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Supremacy
 *n.*
 > /suːˈprem.ə.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Supremacy::Thế thượng phong, ưu thế tối cao *(Phát âm: /suːˈprem.ə.si/)* ![[supremacy.mp3]]<br><br>👪 **Word Family:** supreme, supremely<br><br>💬 **Ví dụ:** The team established their supremacy by winning five consecutive titles.<br>*(-> Đội đã thiết lập thế thượng phong của họ bằng cách giành năm danh hiệu liên tiếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or condition of being superior to all others in authority, power, or status.

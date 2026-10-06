@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Outfit
 *noun*
 > /ˈaʊt.fɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Outfit::Bộ trang phục *(Phát âm: /ˈaʊt.fɪt/)* ![[outfit.mp3]]<br><br>👪 **Word Family:** outfitter (n)<br><br>💬 **Ví dụ:** She bought a new outfit for the party.<br>*(-> Cô ấy mua bộ đồ mới cho bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of clothes worn together.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Privacy
 *noun*
 > /ˈprɪvəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Privacy::Quyền riêng tư, sự riêng tư *(Phát âm: /ˈprɪvəsi/)* ![[privacy.mp3]]<br><br>👪 **Word Family:** private (adj), privately (adv)<br><br>💬 **Ví dụ:** You should check your privacy settings to control who sees your posts.<br>*(-> Bạn nên kiểm tra thiết lập quyền riêng tư để kiểm soát ai thấy bài đăng của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being free from public attention or unsanctioned data collection

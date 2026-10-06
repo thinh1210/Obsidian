@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Casual
 *adj*
 > /ˈkæʒ.u.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Casual::Bình thường, giản dị, không trang trọng *(Phát âm: /ˈkæʒ.u.əl/)* ![[casual.mp3]]<br><br>👪 **Word Family:** casually (adv)<br><br>💬 **Ví dụ:** I prefer casual clothes.<br>*(-> Tôi thích quần áo giản dị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relaxed and unconcerned; not regular or permanent.

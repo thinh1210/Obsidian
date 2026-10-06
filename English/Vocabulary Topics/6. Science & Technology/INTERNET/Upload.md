@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Upload
 *verb / noun*
 > /ˌʌpˈləʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Upload::Tải lên, đăng tải *(Phát âm: /ˌʌpˈləʊd/)* ![[upload.mp3]]<br><br>👪 **Word Family:** upload (n/v), uploader (n)<br><br>💬 **Ví dụ:** She uploaded her holiday photos to social media.<br>*(-> Cô ấy đã tải ảnh kỳ nghỉ lên mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To transfer data from your device to the Internet or a server.

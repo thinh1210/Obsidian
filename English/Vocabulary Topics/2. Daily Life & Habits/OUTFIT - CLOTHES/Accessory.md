@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Accessory
 *noun*
 > /əkˈses.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Accessory::Phụ kiện *(Phát âm: /əkˈses.ər.i/)* ![[accessory.mp3]]<br><br>👪 **Word Family:** accessorize (v)<br><br>💬 **Ví dụ:** She bought some accessories to match her dress.<br>*(-> Cô ấy đã mua vài phụ kiện để hợp với váy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing which can be added to something else in order to make it more useful, versatile, or attractive.

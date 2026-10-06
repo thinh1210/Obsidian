@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Radio
 *n.*
 > /ˈreɪdiəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Radio::Đài phát thanh, radio *(Phát âm: /ˈreɪdiəʊ/)* ![[radio.mp3]]<br><br>👪 **Word Family:** radiate, broadcast<br><br>💬 **Ví dụ:** I always listen to the radio in the car.<br>*(-> Tôi luôn nghe đài phát thanh khi ở trong xe hơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The transmission and reception of electromagnetic waves of radio frequency, especially those carrying sound messages.

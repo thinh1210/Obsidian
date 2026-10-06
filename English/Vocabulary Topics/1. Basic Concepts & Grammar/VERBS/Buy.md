@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Buy
 *Verb*
 > /baɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Buy::Mua *(Phát âm: /baɪ/)* ![[buy.mp3]]<br><br>👪 **Word Family:** Buyer (n)<br><br>💬 **Ví dụ:** I buy milk.<br>*(-> Tôi mua sữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To get something by paying money for it.

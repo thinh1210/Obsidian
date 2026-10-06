@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Engraving
 *n.*
 > /ɪnˈɡreɪ.vɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Engraving::Nghệ thuật chạm khắc, bản khắc *(Phát âm: /ɪnˈɡreɪ.vɪŋ/)* ![[engraving.mp3]]<br><br>👪 **Word Family:** Engrave (v.), Engraver (n.)<br><br>💬 **Ví dụ:** I ordered a silver locket with a custom engraving of our initials.<br>*(-> Tôi đã đặt một mặt dây chuyền bạc có khắc tên viết tắt của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A picture or design printed from an engraved block or plate, or the skill of doing this.

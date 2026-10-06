@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Gravity
 *noun*
 > /ˈɡræv.ɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Gravity::Trọng lực – lực tự nhiên kéo các vật về phía nhau, đặc biệt là lực hút của Trái Đất *(Phát âm: /ˈɡræv.ɪ.ti/)* ![[gravity.mp3]]<br><br>👪 **Word Family:** gravitational (adj), gravitate (v), gravitation (n)<br><br>💬 **Ví dụ:** When you drop a ball, gravity pulls it to the ground.<br>*(-> Khi bạn thả bóng, trọng lực kéo nó xuống mặt đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural force that pulls objects toward each other, especially the pull of the Earth.

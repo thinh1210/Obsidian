@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Overwhelmed
 *adj*
 > /ˌoʊvərˈwelmd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Overwhelmed::Choáng ngợp, quá tải *(Phát âm: /ˌoʊvərˈwelmd/)* ![[overwhelmed.mp3]]<br><br>👪 **Word Family:** overwhelm (v), overwhelming (adj)<br><br>💬 **Ví dụ:** I feel overwhelmed by the workload.<br>*(-> Tôi thấy quá tải với khối lượng công việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Buried or drowned beneath a huge mass.

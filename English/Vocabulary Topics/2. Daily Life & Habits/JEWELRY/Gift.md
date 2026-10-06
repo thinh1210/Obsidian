@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Gift
 *noun*
 > /ɡɪft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
+
+## 🗂️ Flashcard
+Gift::Quà tặng *(Phát âm: /ɡɪft/)* ![[gift.mp3]]<br><br>👪 **Word Family:** Gifted<br><br>💬 **Ví dụ:** This ring is a gift.<br>*(-> Chiếc nhẫn này là một món quà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing given willingly to someone.

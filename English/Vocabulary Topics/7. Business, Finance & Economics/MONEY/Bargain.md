@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Bargain
 *n./v.*
 > /ˈbɑː.ɡɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Bargain::Món hàng mua được với giá hời rẻ bất ngờ; hoặc hành động mặc cả trả giá *(Phát âm: /ˈbɑː.ɡɪn/)* ![[bargain.mp3]]<br><br>👪 **Word Family:** bargaining (n)<br><br>💬 **Ví dụ:** She found an authentic wool coat at the flea market for only ten dollars—what a bargain!<br>*(-> Cô ấy tìm thấy một chiếc áo khoác len xịn tại chợ đồ cũ với giá chỉ mười đô la—thật là một món hời!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing bought or offered for sale more cheaply than is usual or expected; or to negotiate price.

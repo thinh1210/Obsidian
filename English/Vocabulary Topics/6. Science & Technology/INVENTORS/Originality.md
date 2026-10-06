@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # originality
 *n.*
 > /əˌrɪdʒ.ənˈæl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Originality::Tính độc đáo, tính nguyên bản *(Phát âm: /əˌrɪdʒ.ənˈæl.ə.ti/)* ![[originality.mp3]]<br><br>👪 **Word Family:** original (adj), originate (v), originally (adv)<br><br>💬 **Ví dụ:** The judges praised the designer's work for its originality.<br>*(-> Các giám khảo ca ngợi tác phẩm của nhà thiết kế vì tính độc đáo của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being special and interesting and not the same as anything else

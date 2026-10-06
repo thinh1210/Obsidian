@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Suave
 *adj.*
 > /swɑːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Suave::Hào hoa, lịch thiệp *(Phát âm: /swɑːv/)* ![[suave.mp3]]<br><br>👪 **Word Family:** Suavely (adv)<br><br>💬 **Ví dụ:** He is a suave and sophisticated man.<br>*(-> Anh ấy là một người đàn ông hào hoa và sành điệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Charming, confident, and elegant.

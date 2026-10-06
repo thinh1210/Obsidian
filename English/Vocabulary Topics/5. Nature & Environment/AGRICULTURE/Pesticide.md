@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Pesticide
 *n.*
 > /ˈpes.tɪ.saɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Pesticide::Thuốc trừ sâu, hóa chất diệt côn trùng *(Phát âm: /ˈpes.tɪ.saɪd/)* ![[pesticide.mp3]]<br><br>👪 **Word Family:** pest (n)<br><br>💬 **Ví dụ:** Wash the vegetables carefully to remove any pesticide residue.<br>*(-> Hãy rửa rau củ thật kỹ để loại bỏ dư lượng thuốc trừ sâu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical substance used for killing pests, especially insects.

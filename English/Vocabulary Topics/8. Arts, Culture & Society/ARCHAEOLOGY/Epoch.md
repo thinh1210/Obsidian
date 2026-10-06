@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Epoch
 *noun*
 > /ˈiːpɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Epoch::Kỷ nguyên, thời đại *(Phát âm: /ˈiːpɒk/)* ![[epoch.mp3]]<br><br>👪 **Word Family:** epochal (adj)<br><br>💬 **Ví dụ:** The discovery marked a new epoch in archaeological research.<br>*(-> Phát hiện này đã đánh dấu một kỷ nguyên mới trong nghiên cứu khảo cổ học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular period of time in history or a person's life, typically one marked by notable events or particular characteristics

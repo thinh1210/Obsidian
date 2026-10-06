@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Playground
 *n.*
 > /ˈpleɪ.ɡraʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Playground::Sân chơi ngoài trời có xích đu, cầu trượt dành riêng cho trẻ em vui đùa *(Phát âm: /ˈpleɪ.ɡraʊnd/)* ![[playground.mp3]]<br><br>👪 **Word Family:** play (v/n), playful (adj)<br><br>💬 **Ví dụ:** The lively neighborhood playground was packed with cheering children climbing the jungle gym.<br>*(-> Sân chơi khu phố rộn rã chật ních tiếng hò reo của trẻ con đang leo khung tập vận động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area designed for children to play in outside, especially at a school or in a public park.

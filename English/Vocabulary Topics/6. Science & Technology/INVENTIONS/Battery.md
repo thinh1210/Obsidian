@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Battery
 *Noun*
 > /ˈbæt.ər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Battery::Pin, ắc quy *(Phát âm: /ˈbæt.ər.i/)* ![[battery.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** My phone battery is dead.<br>*(-> Pin điện thoại của tôi đã hết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that produces electricity to provide power for radios, cars, etc.

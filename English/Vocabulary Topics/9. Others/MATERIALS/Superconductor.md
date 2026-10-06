@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Superconductor
 *noun.*
 > /ˌsuːpəkənˈdʌktə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Superconductor::Chất siêu dẫn *(Phát âm: /ˌsuːpəkənˈdʌktə(r)/)* ![[superconductor.mp3]]<br><br>👪 **Word Family:** superconductivity (Noun), superconductive (Adjective)<br><br>💬 **Ví dụ:** The new lab equipment uses superconductors to achieve zero electrical resistance.<br>*(-> Thiết bị phòng thí nghiệm mới sử dụng chất siêu dẫn để đạt được điện trở bằng không.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance capable of conducting electricity without resistance when cooled to a very low temperature.

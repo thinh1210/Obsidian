@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Geometry
 *noun*
 > /dʒiˈɒmətri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Geometry::Hình học *(Phát âm: /dʒiˈɒmətri/)* ![[geometry.mp3]]<br><br>👪 **Word Family:** geometric, geometrician<br><br>💬 **Ví dụ:** We learned how to calculate the area of a circle in geometry.<br>*(-> Chúng tôi đã học cách tính diện tích hình tròn trong môn hình học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional analogs.

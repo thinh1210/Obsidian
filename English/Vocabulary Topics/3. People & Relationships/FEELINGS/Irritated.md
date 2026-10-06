@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Irritated
 *adj.*
 > /ˈɪr.ɪ.teɪ.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Irritated::Bực bội, khó chịu, mất kiên nhẫn trước sự quấy rầy hay trắc trở *(Phát âm: /ˈɪr.ɪ.teɪ.tɪd/)* ![[irritated.mp3]]<br><br>👪 **Word Family:** irritate (v), irritation (n), irritating (adj)<br><br>💬 **Ví dụ:** Commuters grew visibly irritated as the train announcement kept postponing departure times.<br>*(-> Hành khách tỏ ra rõ ràng khó chịu khi loa thông báo tàu hỏa liên tục lùi giờ xuất phát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Annoyed, impatient, or slightly angry about something.

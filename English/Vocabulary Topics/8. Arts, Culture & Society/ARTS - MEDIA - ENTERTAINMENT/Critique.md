@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Critique
 *n.*
 > /krɪˈtiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Critique::Bài phê bình chuyên sâu *(Phát âm: /krɪˈtiːk/)* ![[critique.mp3]]<br><br>👪 **Word Family:** critic, critical, criticize, criticism<br><br>💬 **Ví dụ:** She gave me a critique of my screenplay.<br>*(-> Cô ấy đã đưa ra bài phê bình cho kịch bản của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A detailed analysis and assessment of something, especially a literary, philosophical, or political theory.

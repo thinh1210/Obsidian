@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Satellite
 *Noun*
 > /ˈsæt.əl.aɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Satellite::Vệ tinh *(Phát âm: /ˈsæt.əl.aɪt/)* ![[satellite.mp3]]<br><br>👪 **Word Family:** satellitic (adj)<br><br>💬 **Ví dụ:** We receive television signals via satellite.<br>*(-> Chúng tôi nhận tín hiệu truyền hình thông qua vệ tinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An artificial body placed in orbit round the earth or another planet in order to collect information or for communication.

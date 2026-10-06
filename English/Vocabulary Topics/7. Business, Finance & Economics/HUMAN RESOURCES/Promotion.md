@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Promotion
 *n.*
 > /prəˈməʊ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Promotion::Sự thăng chức, sự đề bạt *(Phát âm: /prəˈməʊ.ʃən/)* ![[promotion.mp3]]<br><br>👪 **Word Family:** promote, promoter<br><br>💬 **Ví dụ:** Congratulations on your promotion to sales director!<br>*(-> Chúc mừng bạn đã được thăng chức lên giám đốc bán hàng!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Advancement to a higher position or rank in a job

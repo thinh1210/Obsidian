@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Inhabitant
 *n.*
 > /ɪnˈhæb.ɪ.tənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Inhabitant::Cư dân *(Phát âm: /ɪnˈhæb.ɪ.tənt/)* ![[inhabitant.mp3]]<br><br>👪 **Word Family:** Inhabit, Habitat<br><br>💬 **Ví dụ:** The city has 2 million inhabitants.<br>*(-> Thành phố có 2 triệu dân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or animal that lives in or occupies a place.

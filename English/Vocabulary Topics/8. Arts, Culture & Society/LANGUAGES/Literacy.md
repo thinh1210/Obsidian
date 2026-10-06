@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Literacy
 *n.*
 > /ˈlɪtərəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
+
+## 🗂️ Flashcard
+Literacy::Sự biết chữ, khả năng đọc viết *(Phát âm: /ˈlɪtərəsi/)* ![[literacy.mp3]]<br><br>👪 **Word Family:** literate, illiterate, illiteracy<br><br>💬 **Ví dụ:** The local community center offers adult literacy classes.<br>*(-> Trung tâm cộng đồng địa phương cung cấp các lớp học xóa mù chữ cho người lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to read and write

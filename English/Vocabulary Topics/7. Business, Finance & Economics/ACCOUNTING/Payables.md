@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Payables
 *n.*
 > /ˈpeɪəblz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Payables::Các khoản phải trả *(Phát âm: /ˈpeɪəblz/)* ![[payables.mp3]]<br><br>👪 **Word Family:** pay, payable<br><br>💬 **Ví dụ:** He checked his monthly payables to avoid late fees.<br>*(-> Anh ấy kiểm tra các khoản phải trả hàng tháng của mình để tránh phí trễ hạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Amounts owed by a business to its suppliers and creditors for goods or services purchased on credit

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Entropy
 *noun*
 > /ˈen.trə.pi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Entropy::Hằng số entropy, mức độ hỗn loạn (của hệ) *(Phát âm: /ˈen.trə.pi/)* ![[entropy.mp3]]<br><br>👪 **Word Family:** entropic (adj), entropically (adv)<br><br>💬 **Ví dụ:** The second law of thermodynamics states that the total entropy of an isolated system always increases.<br>*(-> Định luật thứ hai của nhiệt động lực học phát biểu rằng tổng entropy của một hệ cô lập luôn tăng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system.

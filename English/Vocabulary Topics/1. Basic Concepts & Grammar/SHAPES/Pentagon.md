@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Pentagon
 *n.*
 > /ˈpen.tə.ɡən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Pentagon::Hình ngũ giác *(Phát âm: /ˈpen.tə.ɡən/)* ![[pentagon.mp3]]<br><br>👪 **Word Family:** Pentagonal (adj)<br><br>💬 **Ví dụ:** The building is shaped like a pentagon.<br>*(-> Tòa nhà có hình ngũ giác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plane figure with five straight sides and five angles.

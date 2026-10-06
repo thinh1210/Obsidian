@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Candidate
 *n*
 > /ˈkæn.dɪ.dət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+Candidate::Ứng cử viên *(Phát âm: /ˈkæn.dɪ.dət/)* ![[candidate.mp3]]<br><br>👪 **Word Family:** candidacy (n), candidature (n)<br><br>💬 **Ví dụ:** There are five candidates running for mayor this year.<br>*(-> Có năm ứng cử viên tranh cử thị trưởng năm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who applies for a job or stands for election.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # citizen
 *noun*
 > /ˈsɪtɪzn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+citizen::Công dân *(Phát âm: /ˈsɪtɪzn/)* ![[citizen.mp3]]<br><br>👪 **Word Family:** citizenship (n)<br><br>💬 **Ví dụ:** Every citizen over eighteen has the right to vote.<br>*(-> Mỗi công dân trên mười tám tuổi đều có quyền bỏ phiếu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legally recognized subject or national of a state or commonwealth.

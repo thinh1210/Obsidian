@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Flamboyant
 *adj.*
 > /flæmˈbɔɪənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
+
+## 🗂️ Flashcard
+Flamboyant::Chói lọi, sặc sỡ, phô trương *(Phát âm: /flæmˈbɔɪənt/)* ![[flamboyant.mp3]]<br><br>👪 **Word Family:** Flamboyance (n)<br><br>💬 **Ví dụ:** He is famous for his flamboyant style of dress.<br>*(-> Anh ấy nổi tiếng với phong cách ăn mặc sặc sỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very confident in behaviour, and liking to be noticed by other people.

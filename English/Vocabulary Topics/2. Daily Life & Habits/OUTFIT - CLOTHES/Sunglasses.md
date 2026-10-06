@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Sunglasses
 *n.*
 > /ˈsʌnˌɡlɑː.sɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Sunglasses::Kính râm, kính mát bảo vệ mắt chống tia cực tím *(Phát âm: /ˈsʌnˌɡlɑː.sɪz/)* ![[sunglasses.mp3]]<br><br>👪 **Word Family:** shades (slang)<br><br>💬 **Ví dụ:** Never look directly into the midday sun without protective polarized sunglasses.<br>*(-> Không bao giờ được nhìn thẳng vào mặt trời ban trưa nếu không đeo kính mát phân cực bảo vệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Dark glasses that you wear to protect your eyes from bright light from the sun.

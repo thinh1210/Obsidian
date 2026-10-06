@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Boy
 *noun*
 > /bɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Boy::Cậu bé, con trai *(Phát âm: /bɔɪ/)* ![[boy.mp3]]<br><br>👪 **Word Family:** Boyhood (n)<br><br>💬 **Ví dụ:** The boy is running.<br>*(-> Cậu bé đang chạy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A male child.

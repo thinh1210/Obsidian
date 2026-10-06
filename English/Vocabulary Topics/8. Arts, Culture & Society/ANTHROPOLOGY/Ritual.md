@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Ritual
 *n.*
 > /ˈrɪtʃ.u.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Ritual::Nghi lễ, nghi thức *(Phát âm: /ˈrɪtʃ.u.əl/)* ![[ritual.mp3]]<br><br>👪 **Word Family:** ritualistic, ritualize<br><br>💬 **Ví dụ:** Having coffee in the morning is my daily ritual.<br>*(-> Uống cà phê vào buổi sáng là thói quen hàng ngày của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.

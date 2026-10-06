@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Magnificent
 *adj*
 > /mæɡˈnɪf.ɪ.sənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Magnificent::Tráng lệ, tuyệt diệu *(Phát âm: /mæɡˈnɪf.ɪ.sənt/)* ![[magnificent.mp3]]<br><br>👪 **Word Family:** Magnificence (noun), Magnificently (adv)<br><br>💬 **Ví dụ:** The palace looked magnificent.<br>*(-> Cung điện trông thật tráng lệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Impressively beautiful, elaborate, or extravagant; striking.

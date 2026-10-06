@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Ceiling
 *noun*
 > /ˈsiːlɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Ceiling::Trần nhà *(Phát âm: /ˈsiːlɪŋ/)* ![[ceiling.mp3]]<br><br>👪 **Word Family:** **Synonyms:** roof<br><br>💬 **Ví dụ:** The ceiling is white.<br>*(-> Trần nhà màu trắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The upper interior surface of a room.

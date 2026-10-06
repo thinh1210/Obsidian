@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Herd
 *noun*
 > /hɜːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Herd::Bầy, đàn (thú móng guốc lớn như bò, voi, trâu, hươu) *(Phát âm: /hɜːd/)* ![[herd.mp3]]<br><br>👪 **Word Family:** herd (n/v), herdsman (n), herder (n)<br><br>💬 **Ví dụ:** We watched a huge herd of wildebeest crossing the river.<br>*(-> Chúng tôi nhìn thấy một đàn linh dương đầu bò khổng lồ đang băng qua sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large group of people or animals, especially hoofed mammals.

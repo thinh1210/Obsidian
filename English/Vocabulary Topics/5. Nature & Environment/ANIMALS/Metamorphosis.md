@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Metamorphosis
 *noun*
 > /ˌmet.əˈmɔː.fə.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Metamorphosis::Sự biến thái, sự biến đổi hình dạng (sinh học) *(Phát âm: /ˌmet.əˈmɔː.fə.sɪs/)* ![[metamorphosis.mp3]]<br><br>👪 **Word Family:** metamorphosis (n), metamorphose (v), metamorphic (adj)<br><br>💬 **Ví dụ:** A caterpillar undergoes metamorphosis to transform into a beautiful butterfly.<br>*(-> Một con sâu bướm trải qua quá trình biến thái để biến thành một con bướm xinh đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of transformation from an immature form to an adult form in two or more distinct stages.

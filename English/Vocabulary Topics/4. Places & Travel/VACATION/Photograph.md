@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Photograph
 *n./v.*
 > /ˈfəʊtəɡrɑːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Photograph::Hình ảnh ghi lại khoảnh khắc đời thực qua ống kính máy ảnh *(Phát âm: /ˈfəʊtəɡrɑːf/)* ![[photograph.mp3]]<br><br>👪 **Word Family:** photographer (n), photography (n), photographic (adj)<br><br>💬 **Ví dụ:** We stopped beside the waterfall to take a family photograph.<br>*(-> Chúng tôi dừng chân bên thác nước để chụp một bức ảnh kỷ niệm gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A picture made using a camera, in which an image is focused onto film or other light-sensitive material and then made visible and permanent by chemical treatment, or stored digitally.

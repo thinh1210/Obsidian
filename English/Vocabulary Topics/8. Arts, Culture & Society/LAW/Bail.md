@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Bail
 *noun*
 > /beɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Bail::Tiền bảo lãnh; bảo lãnh tại ngoại *(Phát âm: /beɪl/)* ![[bail.mp3]]<br><br>👪 **Word Family:** bail (v), bail out (phrasal v), bail bondsman (n)<br><br>💬 **Ví dụ:** He was released on bail pending trial.<br>*(-> Anh ấy được thả với điều kiện bảo lãnh chờ ngày xét xử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount of money that an accused person pays to be released from custody before trial

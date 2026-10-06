@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Sea
 *Noun*
 > /siː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Sea::Biển *(Phát âm: /siː/)* ![[sea.mp3]]<br><br>👪 **Word Family:** seafood, seaside, seaman<br><br>💬 **Ví dụ:** We swam in the sea every day during vacation.<br>*(-> Chúng tôi bơi ngoài biển mỗi ngày trong kỳ nghỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expanse of salt water that covers most of the earth's surface.

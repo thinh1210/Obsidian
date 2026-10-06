@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Pottery
 *noun*
 > /ˈpɒtəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Pottery::Đồ gốm, nghề làm gốm *(Phát âm: /ˈpɒtəri/)* ![[pottery.mp3]]<br><br>👪 **Word Family:** potter (noun)<br><br>💬 **Ví dụ:** She bought a piece of hand-made pottery.<br>*(-> Cô ấy đã mua một món đồ gốm thủ công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pots, dishes, and other articles made of baked clay

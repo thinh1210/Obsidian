@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Honest
 *adj*
 > /ˈɑː.nɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Honest::Trung thực *(Phát âm: /ˈɑː.nɪst/)* ![[honest.mp3]]<br><br>👪 **Word Family:** honesty<br><br>💬 **Ví dụ:** To be honest, I didn't like it.<br>*(-> Nói thật thì tôi không thích nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Free of deceit and untruthfulness; sincere.

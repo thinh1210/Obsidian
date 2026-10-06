@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Yearly
 *adj., adv.*
 > /ˈjɪə.li/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Yearly::Hàng năm, diễn ra theo chu kỳ mỗi năm một lần *(Phát âm: /ˈjɪə.li/)* ![[yearly.mp3]]<br><br>👪 **Word Family:** year (n)<br><br>💬 **Ví dụ:** Doctors recommend going for a comprehensive yearly medical checkup.<br>*(-> Các bác sĩ khuyên nên đi khám sức khỏe tổng quát định kỳ hàng năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring, done, or published once every year; annual.

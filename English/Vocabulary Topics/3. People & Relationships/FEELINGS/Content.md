@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Content
 *Adj*
 > /kənˈtent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Content::Bằng lòng, mãn nguyện *(Phát âm: /kənˈtent/)* ![[content.mp3]]<br><br>👪 **Word Family:** Contentment (Noun): Sự mãn nguyện<br><br>💬 **Ví dụ:** He seems fairly content with his life.<br>*(-> Anh ấy có vẻ khá bằng lòng với cuộc sống của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleased with your situation and not hoping for change or improvement.

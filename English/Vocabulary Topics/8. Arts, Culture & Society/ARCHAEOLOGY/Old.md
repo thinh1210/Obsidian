@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Old
 *adj.*
 > /əʊld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Old::Cũ, cổ, già *(Phát âm: /əʊld/)* ![[old.mp3]]<br><br>👪 **Word Family:** oldness (noun)<br><br>💬 **Ví dụ:** This is a very old house built in the last century.<br>*(-> Đây là một ngôi nhà rất cổ được xây dựng từ thế kỷ trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having lived or existed for a long time

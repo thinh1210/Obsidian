@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Garden
 *noun*
 > /ˈɡɑːrdən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Garden::Khu vườn *(Phát âm: /ˈɡɑːrdən/)* ![[garden.mp3]]<br><br>👪 **Word Family:** gardener (n)<br><br>💬 **Ví dụ:** He is watering the garden.<br>*(-> Anh ấy đang tưới vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of ground, often near a house, used for growing flowers, fruit, or vegetables.
@@ -34,4 +44,4 @@
 - gardener (n)
 
 **Synonyms:** yard
-**Antonyms:** 
+**Antonyms:**

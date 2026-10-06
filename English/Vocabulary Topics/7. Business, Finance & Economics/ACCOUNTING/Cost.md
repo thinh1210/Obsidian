@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Cost
 *n.*
 > /kɒst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Cost::Chi phí, giá cả *(Phát âm: /kɒst/)* ![[cost.mp3]]<br><br>👪 **Word Family:** costly, costing<br><br>💬 **Ví dụ:** The cost of living is rising rapidly.<br>*(-> Chi phí sinh hoạt đang tăng lên nhanh chóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money needed to buy, do, or make something

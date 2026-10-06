@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Passionate
 *Adj*
 > /ˈpæʃ.ən.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Passionate::Đam mê, mãnh liệt *(Phát âm: /ˈpæʃ.ən.ət/)* ![[passionate.mp3]]<br><br>👪 **Word Family:** Passion (Noun): Niềm đam mê<br><br>💬 **Ví dụ:** She is deeply passionate about animal rights.<br>*(-> Cô ấy cực kỳ đam mê bảo vệ quyền động vật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having very strong feelings or emotions.

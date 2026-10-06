@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Clause
 *n.*
 > /klɔːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Clause::Điều khoản hợp đồng *(Phát âm: /klɔːz/)* ![[clause.mp3]]<br><br>👪 **Word Family:** clausal<br><br>💬 **Ví dụ:** Pay close attention to the exclusion clause in your contract.<br>*(-> Hãy chú ý kỹ đến điều khoản loại trừ trong hợp đồng của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A particular and separate article, stipulation, or proviso in a treaty, bill, or contract.

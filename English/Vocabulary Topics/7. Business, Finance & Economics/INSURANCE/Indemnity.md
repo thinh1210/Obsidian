@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Indemnity
 *n.*
 > /ɪnˈdemnəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
+
+## 🗂️ Flashcard
+Indemnity::Sự bồi thường, sự bảo đảm bồi thường *(Phát âm: /ɪnˈdemnəti/)* ![[indemnity.mp3]]<br><br>👪 **Word Family:** indemnify, indemnification<br><br>💬 **Ví dụ:** The contract includes an indemnity clause to protect the agent.<br>*(-> Hợp đồng bao gồm một điều khoản bồi thường để bảo vệ người đại lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Security or protection against a loss or other financial burden; compensation for damage or loss.

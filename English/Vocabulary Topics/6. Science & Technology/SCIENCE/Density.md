@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Density
 *noun*
 > /ˈden.sɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Density::Mật độ/khối lượng riêng – mức độ nén của chất, đo bằng khối lượng trên đơn vị thể tích *(Phát âm: /ˈden.sɪ.ti/)* ![[density.mp3]]<br><br>👪 **Word Family:** dense (adj), densely (adv)<br><br>💬 **Ví dụ:** Wood floats on water because its density is lower than water's.<br>*(-> Gỗ nổi trên nước vì mật độ của nó thấp hơn nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The degree of compactness of a substance, measured as mass per unit volume.

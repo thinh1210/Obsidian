@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # representation
 *noun*
 > /ˌreprɪzenˈteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+representation::Sự đại diện *(Phát âm: /ˌreprɪzenˈteɪʃn/)* ![[representation.mp3]]<br><br>👪 **Word Family:** represent (v), representative (n/adj)<br><br>💬 **Ví dụ:** Taxpayers deserve fair representation in the local council.<br>*(-> Người nộp thuế xứng đáng có sự đại diện công bằng trong hội đồng địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of speaking or acting on behalf of someone or the state of being so represented.

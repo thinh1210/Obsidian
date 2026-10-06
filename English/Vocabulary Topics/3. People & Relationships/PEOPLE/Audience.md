@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Audience
 *n.*
 > /ˈɔː.di.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Audience::Khán giả, thính giả tụ họp để theo dõi một buổi biểu diễn hoặc chương trình *(Phát âm: /ˈɔː.di.əns/)* ![[audience.mp3]]<br><br>👪 **Word Family:** auditory (adj), audition (n/v)<br><br>💬 **Ví dụ:** The comedian's opening joke immediately had the entire audience laughing out loud.<br>*(-> Trò đùa mở màn của nghệ sĩ hài lập tức khiến toàn bộ khán giả bật cười sảng khoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The group of people gathered to see or hear a performance, speech, or concert.

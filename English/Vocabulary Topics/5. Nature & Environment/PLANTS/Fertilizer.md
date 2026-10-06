@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Fertilizer
 *noun*
 > /ˈfɜːtəlaɪzər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Fertilizer::Phân bón *(Phát âm: /ˈfɜːtəlaɪzər/)* ![[fertilizer.mp3]]<br><br>👪 **Word Family:** Noun: fertilizer (phân bón), fertility (độ phì nhiêu), Verb: fertilize (bón phân, thụ phấn), Adjective: fertile (phì nhiêu)<br><br>💬 **Ví dụ:** Adding fertilizer to the soil makes the tomato plants produce more fruit.<br>*(-> Bón phân vào đất giúp cây cà chua ra nhiều quả hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical or natural substance added to soil to increase its fertility.

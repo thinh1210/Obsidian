@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Invade
 *verb*
 > /ɪnˈveɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Invade::Xâm lược, xâm chiếm *(Phát âm: /ɪnˈveɪd/)* ![[invade.mp3]]<br><br>👪 **Word Family:** invasion (noun), invader (noun), invasive (adj)<br><br>💬 **Ví dụ:** Do not invade my personal space when I am working.<br>*(-> Đừng xâm phạm không gian cá nhân của tôi khi tôi đang làm việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Enter a country or region so as to subjugate or occupy it.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Pitch
 *n.*
 > /pɪtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Pitch::Sân thi đấu ngoài trời mặt cỏ dành cho bóng đá, bóng gậy hoặc bóng bầu dục *(Phát âm: /pɪtʃ/)* ![[pitch.mp3]]<br><br>👪 **Word Family:** pitcher (n)<br><br>💬 **Ví dụ:** The referee inspected the muddy football pitch before allowing the match to commence.<br>*(-> Trọng tài đã kiểm tra mặt sân bóng lầy lội trước khi cho phép trận đấu bắt đầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of ground marked out and prepared for playing a game of football, rugby, or cricket.

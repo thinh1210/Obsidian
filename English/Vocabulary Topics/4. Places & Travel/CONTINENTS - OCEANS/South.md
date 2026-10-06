@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # South
 *noun*
 > /saʊθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+South::Hướng Nam *(Phát âm: /saʊθ/)* ![[south.mp3]]<br><br>👪 **Word Family:** Southern (adj.)<br><br>💬 **Ví dụ:** Birds fly south in the winter.<br>*(-> Chim bay về phương Nam vào mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The direction that is to your right when you face the rising sun.

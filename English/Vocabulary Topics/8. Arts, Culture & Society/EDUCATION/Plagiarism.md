@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Plagiarism
 *n.*
 > /ˈpleɪ.dʒər.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Plagiarism::Hành vi đạo văn, ăn cắp ý tưởng hoặc câu chữ của người khác làm của mình *(Phát âm: /ˈpleɪ.dʒər.ɪ.zəm/)* ![[plagiarism.mp3]]<br><br>👪 **Word Family:** plagiarize (v), plagiarist (n)<br><br>💬 **Ví dụ:** Always cite your sources properly to avoid any accidental plagiarism in your essays.<br>*(-> Luôn trích dẫn nguồn đúng quy chuẩn để tránh mọi lỗi đạo văn vô ý trong bài luận của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of taking someone else's work or ideas and passing them off as one's own.

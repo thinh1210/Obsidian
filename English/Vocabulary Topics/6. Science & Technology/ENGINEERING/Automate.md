@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Automate
 *verb*
 > /ˈɔːtəmeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Automate::Tự động hóa *(Phát âm: /ˈɔːtəmeɪt/)* ![[automate.mp3]]<br><br>👪 **Word Family:** automation (n), automatic (adj), automatically (adv)<br><br>💬 **Ví dụ:** The company decided to automate the packaging process to save on labor costs.<br>*(-> Công ty quyết định tự động hóa quy trình đóng gói để tiết kiệm chi phí nhân công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To convert a process or facility to be operated by automatic equipment.

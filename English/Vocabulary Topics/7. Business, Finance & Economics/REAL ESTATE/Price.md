@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Price
 *n.*
 > /praɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Price::Giá cả *(Phát âm: /praɪs/)* ![[price.mp3]]<br><br>👪 **Word Family:** priceless (adj), pricey (adj), price (v)<br><br>💬 **Ví dụ:** The price of this apartment is too high for us.<br>*(-> Giá của căn hộ này quá cao đối với chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of money expected, required, or given in payment for something.

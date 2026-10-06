@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Casualty
 *noun*
 > /ˈkæʒ.ju.əl.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Casualty::Thương vong, nạn nhân tử vong hoặc bị thương *(Phát âm: /ˈkæʒ.ju.əl.ti/)* ![[casualty.mp3]]<br><br>👪 **Word Family:** casual (adj - unrelated meaning)<br><br>💬 **Ví dụ:** Fortunately, there were no casualties in the school fire.<br>*(-> May mắn thay, không có thương vong nào trong vụ cháy trường học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person injured or killed in a serious accident or war.

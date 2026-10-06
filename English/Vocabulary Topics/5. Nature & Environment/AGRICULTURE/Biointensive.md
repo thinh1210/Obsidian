@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Biointensive
 *adj.*
 > /ˌbaɪoʊɪnˈtɛnsɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Biointensive::Thâm canh sinh học (nông nghiệp hữu cơ năng suất cao bảo vệ sinh thái) *(Phát âm: /ˌbaɪoʊɪnˈtɛnsɪv/)* ![[biointensive.mp3]]<br><br>👪 **Word Family:** biointensively (adv)<br><br>💬 **Ví dụ:** Biointensive gardening allows us to grow a lot of food in a tiny yard.<br>*(-> Làm vườn thâm canh sinh học cho phép chúng tôi trồng nhiều thực phẩm trên một khoảng sân nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organic agricultural system focusing on maximum yields from small areas while preserving soil.

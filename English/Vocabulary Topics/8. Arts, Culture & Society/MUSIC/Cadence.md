@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Cadence
 *n.*
 > /ˈkeɪ.dəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Cadence::Nhịp điệu, ngữ điệu, đoạn kết (âm nhạc) *(Phát âm: /ˈkeɪ.dəns/)* ![[cadence.mp3]]<br><br>👪 **Word Family:** cadenced (adj)<br><br>💬 **Ví dụ:** The song ends with a traditional plagal cadence.<br>*(-> Bài hát kết thúc bằng một đoạn kết plagal truyền thống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A modulation or inflection of the voice; a sequence of notes or chords comprising the close of a musical phrase.

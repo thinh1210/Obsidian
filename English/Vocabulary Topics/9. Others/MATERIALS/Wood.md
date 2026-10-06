@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Wood
 *noun.*
 > /wʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Wood::Gỗ *(Phát âm: /wʊd/)* ![[wood.mp3]]<br><br>👪 **Word Family:** wooden (Adjective)<br><br>💬 **Ví dụ:** We gathered some dry wood to start a campfire.<br>*(-> Chúng tôi thu gom một ít củi khô để bắt đầu đốt lửa trại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub.

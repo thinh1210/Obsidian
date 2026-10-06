@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Ocean
 *noun*
 > /ˈəʊʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
+
+## 🗂️ Flashcard
+Ocean::Đại dương *(Phát âm: /ˈəʊʃn/)* ![[ocean.mp3]]<br><br>👪 **Word Family:** Oceanic (adj.)<br><br>💬 **Ví dụ:** I love looking at the ocean.<br>*(-> Tôi thích ngắm nhìn đại dương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large expanse of sea.

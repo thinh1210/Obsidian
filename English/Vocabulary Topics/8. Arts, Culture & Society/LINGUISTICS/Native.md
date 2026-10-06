@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Native
 *adjective*
 > /ˈneɪ.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
+
+## 🗂️ Flashcard
+Native::bản xứ, bản địa *(Phát âm: /ˈneɪ.tɪv/)* ![[native.mp3]]<br><br>👪 **Word Family:** nativity (n)<br><br>💬 **Ví dụ:** It is difficult to sound exactly like a native speaker.<br>*(-> Rất khó để phát âm hoàn toàn giống một người bản xứ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** relating to the first language you learn as a child

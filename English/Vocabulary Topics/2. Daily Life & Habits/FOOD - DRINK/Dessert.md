@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Dessert
 *n.*
 > /dɪˈzɜːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Dessert::Tráng miệng *(Phát âm: /dɪˈzɜːt/)* ![[dessert.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** What's for dessert?<br>*(-> Tráng miệng có gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The sweet course eaten at the end of a meal.

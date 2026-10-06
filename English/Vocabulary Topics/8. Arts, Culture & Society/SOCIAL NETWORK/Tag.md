@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Tag
 *verb*
 > /tæɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Tag::Gắn thẻ, gắn nhãn *(Phát âm: /tæɡ/)* ![[tag.mp3]]<br><br>👪 **Word Family:** tag (n)<br><br>💬 **Ví dụ:** Please tag me in the photo you took at the party.<br>*(-> Làm ơn hãy gắn thẻ tôi vào bức ảnh bạn chụp ở bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To attach a user's name link to a photo, post, or video

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Forest
 *n.*
 > /ˈfɔːr.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Forest::Khu rừng *(Phát âm: /ˈfɔːr.ɪst/)* ![[forest.mp3]]<br><br>👪 **Word Family:** forestry (n)<br><br>💬 **Ví dụ:** Animals hide in the forest.<br>*(-> Động vật trốn trong rừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large area covered chiefly with trees and undergrowth.

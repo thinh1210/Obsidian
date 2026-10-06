@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Tournament
 *n*
 > /ˈtʊənəmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Tournament::Giải đấu *(Phát âm: /ˈtʊənəmənt/)* ![[tournament.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He won the local tennis tournament.<br>*(-> Anh ấy đã thắng giải quần vợt địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of contests between a number of competitors.

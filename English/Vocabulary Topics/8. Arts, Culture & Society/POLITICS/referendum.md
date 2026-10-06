@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # referendum
 *noun*
 > /ˌrefəˈrendəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+referendum::Cuộc trưng cầu dân ý *(Phát âm: /ˌrefəˈrendəm/)* ![[referendum.mp3]]<br><br>👪 **Word Family:** refer (v), referral (n)<br><br>💬 **Ví dụ:** The government decided to hold a referendum on the new constitution.<br>*(-> Chính phủ quyết định tổ chức trưng cầu dân ý về hiến pháp mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A general vote by the electorate on a single political question which has been referred to them for a direct decision.

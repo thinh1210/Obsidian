@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Default
 *v.*
 > /dɪˈfɔːlt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Default::Vỡ nợ, không trả được nợ đúng hạn *(Phát âm: /dɪˈfɔːlt/)* ![[default.mp3]]<br><br>👪 **Word Family:** default (n), defaulter (n)<br><br>💬 **Ví dụ:** If you default on your mortgage payments, the bank can repossess your home.<br>*(-> Nếu bạn không trả được nợ thế chấp đúng hạn, ngân hàng có thể tịch thu nhà của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Fail to fulfill an obligation, especially to repay a loan.

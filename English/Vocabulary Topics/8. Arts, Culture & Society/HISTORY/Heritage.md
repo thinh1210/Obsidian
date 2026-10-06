@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Heritage
 *noun*
 > /ˈher.ɪ.tɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Heritage::Di sản, gia tài lịch sử/văn hóa *(Phát âm: /ˈher.ɪ.tɪdʒ/)* ![[heritage.mp3]]<br><br>👪 **Word Family:** inherit (v), inheritance (n), inheritor (n)<br><br>💬 **Ví dụ:** We must preserve our historical buildings as part of our national heritage.<br>*(-> Chúng ta phải bảo tồn các tòa nhà lịch sử như một phần di sản quốc gia của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Valued objects and qualities such as historic buildings and cultural traditions that have been passed down from previous generations.

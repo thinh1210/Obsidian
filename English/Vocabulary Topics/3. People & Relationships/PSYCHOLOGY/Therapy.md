@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Therapy
 *noun*
 > /ˈθer.ə.pi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Liệu pháp chữa lành, Thích ứng & Cơ chế phòng vệ
+
+## 🗂️ Flashcard
+Therapy::Liệu pháp, trị liệu *(Phát âm: /ˈθer.ə.pi/)* ![[therapy.mp3]]<br><br>👪 **Word Family:** therapist (noun)<br><br>💬 **Ví dụ:** She is going to therapy.<br>*(-> Cô ấy đang đi trị liệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Treatment intended to relieve or heal a disorder.

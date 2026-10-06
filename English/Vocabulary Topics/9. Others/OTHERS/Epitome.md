@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Epitome
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - embodiment, personification, essence
+
+
+## 🗂️ Flashcard
+Epitome::Tấm gương hoàn hảo, hình mẫu thu nhỏ tiêu biểu *(Phát âm: /ɪˈpɪt.ə.mi/)* ![[epitome.mp3]]<br><br>👪 **Word Family:** [Noun]: epitome, [Verb]: epitomize<br><br>💬 **Ví dụ:** She is the epitome of elegance and grace.<br>*(-> Cô ấy là hình mẫu tiêu biểu của sự thanh lịch và duyên dáng.)*

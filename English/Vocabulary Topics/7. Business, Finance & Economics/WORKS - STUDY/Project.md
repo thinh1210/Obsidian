@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Project
 *n.*
 > /ˈprɒdʒ.ekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Project::Dự án *(Phát âm: /ˈprɒdʒ.ekt/)* ![[project.mp3]]<br><br>👪 **Word Family:** projection, projector<br><br>💬 **Ví dụ:** I am working on a creative project.<br>*(-> Tôi đang thực hiện một dự án sáng tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A planned piece of work that is designed to find information or produce something new

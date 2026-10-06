@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Guilty
 *adjective*
 > /ˈɡɪlti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Guilty::Có tội, tội lỗi *(Phát âm: /ˈɡɪlti/)* ![[guilty.mp3]]<br><br>👪 **Word Family:** guilt (n), guiltiness (n), guiltless (adj)<br><br>💬 **Ví dụ:** The jury found him guilty of the crime.<br>*(-> Bồi thẩm đoàn đã tuyên bố anh ta có tội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Responsible for breaking a law or doing something wrong

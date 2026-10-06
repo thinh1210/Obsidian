@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Major
 *v.*
 > /ˈmeɪdʒə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Major::Chuyên ngành, học chuyên về *(Phát âm: /ˈmeɪdʒə(r)/)* ![[major.mp3]]<br><br>👪 **Word Family:** major, majority<br><br>💬 **Ví dụ:** I plan to major in business administration.<br>*(-> Tôi dự định học chuyên ngành quản trị kinh doanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To specialize in a particular subject at college or university

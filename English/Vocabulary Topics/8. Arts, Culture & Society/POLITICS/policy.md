@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # policy
 *noun*
 > /ˈpɑːləsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+policy::Chính sách *(Phát âm: /ˈpɑːləsi/)* ![[policy.mp3]]<br><br>👪 **Word Family:** policy-maker (n)<br><br>💬 **Ví dụ:** What is the school's policy on using mobile phones?<br>*(-> Chính sách của nhà trường về việc sử dụng điện thoại di động là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A course or principle of action adopted or proposed by a government, party, business, or individual.

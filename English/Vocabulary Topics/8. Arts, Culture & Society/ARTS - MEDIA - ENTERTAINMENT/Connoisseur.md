@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Connoisseur
 *n.*
 > /ˌkɒnəˈsɜː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Connoisseur::Người sành sỏi, chuyên gia thẩm định *(Phát âm: /ˌkɒnəˈsɜː(r)/)* ![[connoisseur.mp3]]<br><br>👪 **Word Family:** connoisseurship<br><br>💬 **Ví dụ:** My uncle is a connoisseur of classical jazz music.<br>*(-> Bác tôi là một người sành nhạc jazz cổ điển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An expert judge in matters of taste, especially the fine arts, or food and drink.

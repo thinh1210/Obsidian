@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Arable
 *adj.*
 > /ˈær.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Arable::Có thể trồng trọt, canh tác được *(Phát âm: /ˈær.ə.bəl/)* ![[arable.mp3]]<br><br>👪 **Word Family:** arability (n)<br><br>💬 **Ví dụ:** Only a small percentage of the country's land is arable.<br>*(-> Chỉ một tỷ lệ nhỏ đất đai của quốc gia là có thể canh tác được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of land) Suitable for growing crops.

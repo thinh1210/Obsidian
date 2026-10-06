@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Infidelity
 *noun*
 > /ˌɪnfɪˈdeləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Infidelity::Sự ngoại tình *(Phát âm: /ˌɪnfɪˈdeləti/)* ![[infidelity.mp3]]<br><br>👪 **Word Family:** Infidel (noun)<br><br>💬 **Ví dụ:** Infidelity often leads to divorce.<br>*(-> Ngoại tình thường dẫn đến ly hôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or state of being unfaithful to a spouse or other sexual partner.

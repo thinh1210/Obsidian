@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Personality
 *n.*
 > /ˌpɜː.sənˈæl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Personality::Tính cách *(Phát âm: /ˌpɜː.sənˈæl.ə.ti/)* ![[personality.mp3]]<br><br>👪 **Word Family:** Personal<br><br>💬 **Ví dụ:** She has a bubbly personality.<br>*(-> Cô ấy có tính cách sôi nổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The combination of characteristics or qualities that form an individual's distinctive character.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Sunset
 *noun*
 > /ˈsʌnset/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Sunset::Hoàng hôn *(Phát âm: /ˈsʌnset/)* ![[sunset.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The sunset over the ocean is beautiful.<br>*(-> Hoàng hôn trên biển rất đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time in the evening when the sun disappears or daylight fades.

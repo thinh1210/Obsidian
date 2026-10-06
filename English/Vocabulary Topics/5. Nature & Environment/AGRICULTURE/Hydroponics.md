@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Hydroponics
 *n.*
 > /ˌhaɪ.drəˈpɒn.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Hydroponics::Thủy canh *(Phát âm: /ˌhaɪ.drəˈpɒn.ɪks/)* ![[hydroponics.mp3]]<br><br>👪 **Word Family:** hydroponic (adj), hydroponically (adv)<br><br>💬 **Ví dụ:** Hydroponics is ideal for growing vegetables in urban apartments.<br>*(-> Thủy canh là lý tưởng để trồng rau trong các căn hộ đô thị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of growing plants in water or sand, without using soil.

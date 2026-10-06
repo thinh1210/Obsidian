@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Memorabilia
 *noun*
 > /ˌmemərəˈbɪliə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Memorabilia::Kỷ vật, đồ sưu tầm kỷ niệm *(Phát âm: /ˌmemərəˈbɪliə/)* ![[memorabilia.mp3]]<br><br>👪 **Word Family:** Memorable (adj)<br><br>💬 **Ví dụ:** His room is decorated with baseball memorabilia.<br>*(-> Phòng của anh ấy được trang trí bằng các kỷ vật bóng chày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Objects kept or collected because of their historical interest, especially those associated with memorable people or events.

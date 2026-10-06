@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Vestige
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - trace, remnant, relic
+
+
+## 🗂️ Flashcard
+Vestige::Vết tích, tàn dư *(Phát âm: /ˈves.tɪdʒ/)* ![[vestige.mp3]]<br><br>👪 **Word Family:** [Noun]: vestige, [Adj]: vestigial, [Adv]: vestigially<br><br>💬 **Ví dụ:** These ruins are the last vestiges of a great empire.<br>*(-> Những tàn tích này là những vết tích cuối cùng của một đế chế vĩ đại.)*

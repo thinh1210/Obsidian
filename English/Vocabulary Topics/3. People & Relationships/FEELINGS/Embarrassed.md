@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Embarrassed
 *adj*
 > /ɪmˈbærəst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Embarrassed::Xấu hổ, lúng túng *(Phát âm: /ɪmˈbærəst/)* ![[embarrassed.mp3]]<br><br>👪 **Word Family:** embarrassment (n), embarrassing (adj)<br><br>💬 **Ví dụ:** I felt so embarrassed when I tripped.<br>*(-> Tôi thấy rất xấu hổ khi vấp ngã.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling ashamed or self-conscious.

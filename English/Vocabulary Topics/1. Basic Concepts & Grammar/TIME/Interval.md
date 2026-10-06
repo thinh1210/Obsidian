@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Interval
 *n.*
 > /ˈɪntəvl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Interval::Khoảng thời gian (giữa hai sự kiện) *(Phát âm: /ˈɪntəvl/)* ![[interval.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** There will be a 15-minute interval.<br>*(-> Sẽ có 15 phút giải lao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An intervening time or space

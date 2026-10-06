@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Syllabus
 *n.*
 > /ˈsɪl.ə.bəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Syllabus::Đề cương môn học *(Phát âm: /ˈsɪl.ə.bəs/)* ![[syllabus.mp3]]<br><br>👪 **Word Family:** syllabi<br><br>💬 **Ví dụ:** The professor distributed the syllabus on the first day.<br>*(-> Giáo sư đã phát đề cương môn học vào ngày đầu tiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An outline of the subjects in a course of study or teaching

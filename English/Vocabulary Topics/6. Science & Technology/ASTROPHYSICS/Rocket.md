@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Rocket
 *noun*
 > /ˈrɒk.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
+
+## 🗂️ Flashcard
+Rocket::Tên lửa *(Phát âm: /ˈrɒk.ɪt/)* ![[rocket.mp3]]<br><br>👪 **Word Family:** rocketry (n)<br><br>💬 **Ví dụ:** The children built a toy rocket in the garden.<br>*(-> Lũ trẻ đã chế tạo một chiếc tên lửa đồ chơi trong vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle used to travel to space.

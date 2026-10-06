@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Nature
 *noun*
 > /ˈneɪ.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Nature::Tự nhiên *(Phát âm: /ˈneɪ.tʃər/)* ![[nature.mp3]]<br><br>👪 **Word Family:** nature (n), natural (adj), naturally (adv)<br><br>💬 **Ví dụ:** I enjoy spending time in nature, listening to the birds chirp.<br>*(-> Tôi thích dành thời gian hòa mình vào thiên nhiên, lắng nghe tiếng chim hót líu lo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the animals, plants, rocks, etc. in the world and all the features and processes.

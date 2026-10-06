@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Productivity
 *n.*
 > /ˌprɒd.ʌkˈtɪv.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Productivity::Năng suất *(Phát âm: /ˌprɒd.ʌkˈtɪv.ə.ti/)* ![[productivity.mp3]]<br><br>👪 **Word Family:** produce, productive, production<br><br>💬 **Ví dụ:** Listening to music helps improve my productivity.<br>*(-> Nghe nhạc giúp cải thiện năng suất của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The effectiveness of productive effort, especially in industry

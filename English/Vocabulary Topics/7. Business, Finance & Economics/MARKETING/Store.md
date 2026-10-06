@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Store
 *noun*
 > /stɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Store::Cửa hàng, cửa hiệu *(Phát âm: /stɔːr/)* ![[store.mp3]]<br><br>👪 **Word Family:** storage (n), storekeeper (n)<br><br>💬 **Ví dụ:** I need to run to the convenience store to buy some milk.<br>*(-> Tôi cần chạy ra cửa hàng tiện lợi để mua một ít sữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A retail establishment selling items to the public

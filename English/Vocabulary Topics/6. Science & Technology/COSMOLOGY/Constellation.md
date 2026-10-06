@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Constellation
 *Noun*
 > /ˌkɒn.stəˈleɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Constellation::Chòm sao *(Phát âm: /ˌkɒn.stəˈleɪ.ʃən/)* ![[constellation.mp3]]<br><br>👪 **Word Family:** constellate (v)<br><br>💬 **Ví dụ:** Can you identify the Big Dipper constellation?<br>*(-> Bạn có thể nhận ra chòm sao Đại Hùng (Bắc Đẩu) không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of stars forming a recognizable pattern.

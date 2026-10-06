@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Feather
 *noun*
 > /ˈfeð.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Feather::Lông vũ *(Phát âm: /ˈfeð.ər/)* ![[feather.mp3]]<br><br>👪 **Word Family:** feather (n), feathery (adj), feathered (adj)<br><br>💬 **Ví dụ:** She found a beautiful peacock feather on the ground.<br>*(-> Cô ấy tìm thấy một chiếc lông công xinh đẹp trên mặt đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the many soft, light parts covering a bird's body.

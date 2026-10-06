@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Joke
 *n./v.*
 > /dʒəʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Joke::Lời nói đùa, trêu chọc *(Phát âm: /dʒəʊk/)* ![[joke.mp3]]<br><br>👪 **Word Family:** Joking (adj)<br><br>💬 **Ví dụ:** He told a funny joke.<br>*(-> Anh ấy kể một câu chuyện cười.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that someone says to cause amusement or laughter.

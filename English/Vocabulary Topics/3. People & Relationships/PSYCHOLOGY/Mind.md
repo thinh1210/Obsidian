@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Mind
 *noun*
 > /maɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Mind::Tâm trí, trí tuệ *(Phát âm: /maɪnd/)* ![[mind.mp3]]<br><br>👪 **Word Family:** mindful (adj)<br><br>💬 **Ví dụ:** Keep that in mind.<br>*(-> Hãy ghi nhớ điều đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The part of a person that thinks, feels, and remembers.

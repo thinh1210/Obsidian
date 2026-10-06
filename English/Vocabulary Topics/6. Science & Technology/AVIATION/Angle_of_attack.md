@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Angle of attack
 *noun phrase*
 > /ˈæŋ.ɡəl əv əˈtæk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Angle_of_attack::Góc tấn công (góc giữa cánh và luồng không khí) *(Phát âm: /ˈæŋ.ɡəl əv əˈtæk/)* ![[angle_of_attack.mp3]]<br><br>👪 **Word Family:** stall angle (n), lift coefficient (n), wing chord (n)<br><br>💬 **Ví dụ:** The pilot increased the angle of attack to generate more lift during the steep climb.<br>*(-> Phi công tăng góc tấn công để tạo thêm lực nâng trong khi leo dốc đứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The angle between the chord line of an aircraft's wing and the oncoming airflow, which determines the amount of lift generated.

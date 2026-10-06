@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Curve
 *n.*
 > /kɜːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Curve::Đường cong *(Phát âm: /kɜːv/)* ![[curve.mp3]]<br><br>👪 **Word Family:** Curved (adj)<br><br>💬 **Ví dụ:** The road has a sharp curve ahead.<br>*(-> Con đường có một khúc cua gắt ở phía trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line or outline which gradually deviates from being straight for some or all of its length.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Optimistic
 *adj.*
 > /ˌɒp.tɪˈmɪs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Optimistic::Lạc quan *(Phát âm: /ˌɒp.tɪˈmɪs.tɪk/)* ![[optimistic.mp3]]<br><br>👪 **Word Family:** Optimism (n), Optimist (n)<br><br>💬 **Ví dụ:** She is optimistic about her future.<br>*(-> Cô ấy lạc quan về tương lai của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Hopeful and confident about the future.

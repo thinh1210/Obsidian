@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Diamond
 *n.*
 > /ˈdaɪə.mənd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Diamond::Hình thoi, kim cương *(Phát âm: /ˈdaɪə.mənd/)* ![[diamond.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The kite is a diamond shape.<br>*(-> Con diều có hình thoi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rhombus or lozenge shape.

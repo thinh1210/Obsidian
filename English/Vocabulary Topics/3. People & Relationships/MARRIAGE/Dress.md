@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Dress
 *noun*
 > /dres/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Dress::Cái váy *(Phát âm: /dres/)* ![[dress.mp3]]<br><br>👪 **Word Family:** Dressy (adjective)<br><br>💬 **Ví dụ:** She bought a white dress.<br>*(-> Cô ấy đã mua một chiếc váy trắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women or girls that covers the top half of the body and hangs down over the legs.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Cineast
 *n.*
 > /sɪˈniːæst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
+
+## 🗂️ Flashcard
+Cineast::Nhà làm phim chuyên nghiệp, người say mê nghiên cứu điện ảnh *(Phát âm: /sɪˈniːæst/)* ![[cineast.mp3]]<br><br>👪 **Word Family:** cineaste<br><br>💬 **Ví dụ:** The young cineast spent all his savings to produce a short film.<br>*(-> Nhà làm phim trẻ đã dành toàn bộ số tiền tiết kiệm của mình để sản xuất một bộ phim ngắn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A filmmaker, film enthusiast, or devotee of motion pictures

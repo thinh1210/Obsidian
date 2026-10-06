@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Cry
 *verb*
 > /kraɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Cry::Khóc *(Phát âm: /kraɪ/)* ![[cry.mp3]]<br><br>👪 **Word Family:** Crying (n)<br><br>💬 **Ví dụ:** The baby started to cry.<br>*(-> Em bé bắt đầu khóc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Shed tears.

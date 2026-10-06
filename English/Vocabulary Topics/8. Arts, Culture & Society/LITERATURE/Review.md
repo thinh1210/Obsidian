@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Review
 *noun/verb*
 > /rɪˈvjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Review::Đánh giá, nhận xét, bài phê bình *(Phát âm: /rɪˈvjuː/)* ![[review.mp3]]<br><br>👪 **Word Family:** reviewer (n)<br><br>💬 **Ví dụ:** I always read book reviews before choosing what to read next.<br>*(-> Tôi luôn đọc các đánh giá sách trước khi chọn cuốn tiếp theo để đọc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A critical appraisal of a book, play, movie, or exhibition.

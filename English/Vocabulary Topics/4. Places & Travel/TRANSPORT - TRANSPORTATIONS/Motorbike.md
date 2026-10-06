@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Motorbike
 *n.*
 > /ˈməʊtəbaɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Motorbike::Phương tiện hai bánh có động cơ, rất phổ biến ở các nước châu Á *(Phát âm: /ˈməʊtəbaɪk/)* ![[motorbike.mp3]]<br><br>👪 **Word Family:** motorcycle (n), motorist (n)<br><br>💬 **Ví dụ:** Most people in Vietnam commute to work by motorbike.<br>*(-> Đa số người dân Việt Nam đi làm hàng ngày bằng xe máy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A two-wheeled vehicle that is powered by an engine and has no pedals.

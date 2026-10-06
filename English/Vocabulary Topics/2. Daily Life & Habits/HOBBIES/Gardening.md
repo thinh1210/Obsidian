@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Gardening
 *noun*
 > /ˈɡɑː.dən.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Gardening::Làm vườn *(Phát âm: /ˈɡɑː.dən.ɪŋ/)* ![[gardening.mp3]]<br><br>👪 **Word Family:** Garden (n/v), Gardener (n)<br><br>💬 **Ví dụ:** My grandmother enjoys gardening in her free time.<br>*(-> Bà tôi thích làm vườn trong thời gian rảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of working in a garden, growing and taking care of plants.

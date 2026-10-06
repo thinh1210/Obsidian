@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Evening
 *noun*
 > /ˈiːvnɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Evening::Buổi tối *(Phát âm: /ˈiːvnɪŋ/)* ![[evening.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I watch TV in the evening.<br>*(-> Tôi xem tivi vào buổi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latter part of the day and early part of the night.

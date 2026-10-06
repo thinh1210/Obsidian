@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Bystander
 *n.*
 > /ˈbaɪˌstæn.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Bystander::Người ngoài cuộc, người ngoài đứng nhìn *(Phát âm: /ˈbaɪˌstæn.dər/)* ![[bystander.mp3]]<br><br>👪 **Word Family:** Standby<br><br>💬 **Ví dụ:** He was just an innocent bystander.<br>*(-> Anh ta chỉ là một người qua đường vô tội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is present at an event or incident but does not take part.

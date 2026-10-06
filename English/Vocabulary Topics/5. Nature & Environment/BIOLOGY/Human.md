@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Human
 *noun*
 > /ˈhjuː.mən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Human::Con người *(Phát âm: /ˈhjuː.mən/)* ![[human.mp3]]<br><br>👪 **Word Family:** humanity, humanize, humankind<br><br>💬 **Ví dụ:** We are all human and make mistakes.<br>*(-> Tất cả chúng ta đều là con người và có lúc mắc sai lầm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A human being, especially a person as distinguished from a non-human animal.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Blizzard
 *noun*
 > /ˈblɪz.əd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Blizzard::Bão tuyết lớn kèm gió mạnh *(Phát âm: /ˈblɪz.əd/)* ![[blizzard.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** We were stuck at the airport due to the blizzard outside.<br>*(-> Chúng tôi bị kẹt lại sân bay do cơn bão tuyết bên ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A severe snowstorm with strong winds and low visibility.

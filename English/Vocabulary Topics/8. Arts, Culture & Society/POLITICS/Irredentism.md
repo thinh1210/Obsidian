@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Irredentism
 *n*
 > /ɪˈred.ən.tɪz.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Irredentism::Chủ nghĩa đòi lại lãnh thổ / chủ nghĩa thu hồi đất đai *(Phát âm: /ɪˈred.ən.tɪz.əm/)* ![[irredentism.mp3]]<br><br>👪 **Word Family:** irredentist (n/adj)<br><br>💬 **Ví dụ:** The minority group's irredentism created tension with the neighbouring state.<br>*(-> Chủ nghĩa đòi lại lãnh thổ của nhóm thiểu số tạo ra căng thẳng với quốc gia láng giềng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A political movement to reclaim territories historically or culturally linked to a nation but under foreign control.

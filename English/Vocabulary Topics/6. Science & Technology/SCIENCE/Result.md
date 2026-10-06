@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Result
 *noun*
 > /rɪˈzʌlt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Result::Kết quả – kết cục hoặc hiệu ứng của một hành động, thí nghiệm hoặc quá trình *(Phát âm: /rɪˈzʌlt/)* ![[result.mp3]]<br><br>👪 **Word Family:** result (v), resultant (adj), resulting (adj)<br><br>💬 **Ví dụ:** The exam results will be published next week.<br>*(-> Kết quả kỳ thi sẽ được công bố vào tuần tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outcome or effect of an action, experiment, or process.

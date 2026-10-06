@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Stadium
 *n.*
 > /ˈsteɪ.di.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Stadium::Sân vận động *(Phát âm: /ˈsteɪ.di.əm/)* ![[stadium.mp3]]<br><br>👪 **Word Family:** stadia<br><br>💬 **Ví dụ:** Thousands of fans filled the stadium.<br>*(-> Hàng ngàn người hâm mộ đã lấp đầy sân vận động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sports arena with tiers of seats for spectators.

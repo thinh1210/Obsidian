@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Country
 *n*
 > /ˈkʌn.tri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Country::Đất nước / quốc gia *(Phát âm: /ˈkʌn.tri/)* ![[country.mp3]]<br><br>👪 **Word Family:** countrywide (adj/adv), countryside (n)<br><br>💬 **Ví dụ:** She moved to another country to find a better life.<br>*(-> Cô ấy chuyển sang một đất nước khác để tìm cuộc sống tốt hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A nation with its own government occupying a particular territory.

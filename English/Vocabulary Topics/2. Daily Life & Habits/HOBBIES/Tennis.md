@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Tennis
 *n.*
 > /ˈten.ɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Tennis::Môn thể thao quần vợt đánh bóng qua lưới bằng vợt *(Phát âm: /ˈten.ɪs/)* ![[tennis.mp3]]<br><br>👪 **Word Family:** tennis player (n)<br><br>💬 **Ví dụ:** He plays tennis twice a week with colleagues to maintain his fitness.<br>*(-> Anh ấy chơi quần vợt hai lần mỗi tuần cùng các đồng nghiệp để duy trì thể lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sport played with rackets and a light ball on a court divided by a low net.

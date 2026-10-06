@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Team
 *n.*
 > /tiːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Team::Đội, nhóm *(Phát âm: /tiːm/)* ![[team.mp3]]<br><br>👪 **Word Family:** teammate, teamwork, team-build<br><br>💬 **Ví dụ:** Which football team do you support?<br>*(-> Bạn ủng hộ đội bóng đá nào?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of players forming one side in a competitive game or sport.

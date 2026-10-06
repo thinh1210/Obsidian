@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Brand
 *noun*
 > /brænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Brand::Thương hiệu *(Phát âm: /brænd/)* ![[brand.mp3]]<br><br>👪 **Word Family:** branded (adj), branding (noun)<br><br>💬 **Ví dụ:** Which brand of shoes do you prefer?<br>*(-> Bạn thích thương hiệu giày nào hơn?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of product manufactured by a particular company under a particular name.

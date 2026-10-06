@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Sock
 *noun*
 > /sɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Sock::Chiếc tất *(Phát âm: /sɒk/)* ![[sock.mp3]]<br><br>👪 **Word Family:** Socks (n)<br><br>💬 **Ví dụ:** I need clean socks.<br>*(-> Tôi cần những chiếc tất sạch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing made from soft material that covers your foot and the lower part of your leg.

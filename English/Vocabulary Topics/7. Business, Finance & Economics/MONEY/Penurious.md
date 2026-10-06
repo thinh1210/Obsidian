@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Penurious
 *adjective*
 > /pəˈnjʊə.ri.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Penurious::Nghèo túng, thiếu thốn; keo kiệt *(Phát âm: /pəˈnjʊə.ri.əs/)* ![[penurious.mp3]]<br><br>👪 **Word Family:** penury (n), penuriously (adv)<br><br>💬 **Ví dụ:** The family lived a penurious existence in a tiny room.<br>*(-> Gia đình sống một cuộc sống vô cùng nghèo túng trong một căn phòng nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely poor; poverty-stricken; or parsimonious (stingy)

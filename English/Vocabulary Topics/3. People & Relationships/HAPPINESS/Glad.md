@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Glad
 *adj.*
 > /ɡlæd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Glad::Vui lòng, sung sướng *(Phát âm: /ɡlæd/)* ![[glad.mp3]]<br><br>👪 **Word Family:** Gladly (adv)<br><br>💬 **Ví dụ:** I am glad to see you.<br>*(-> Tôi rất vui được gặp bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleased, delighted.

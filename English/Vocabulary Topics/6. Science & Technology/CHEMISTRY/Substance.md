@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Substance
 *noun*
 > /ˈsʌb.stəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Substance::Chất, chất liệu *(Phát âm: /ˈsʌb.stəns/)* ![[substance.mp3]]<br><br>👪 **Word Family:** substantial (adj), substantiate (v)<br><br>💬 **Ví dụ:** The police found a mysterious white substance in the car.<br>*(-> Cảnh sát phát hiện một chất màu trắng bí ẩn trong xe hơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular kind of matter with uniform properties.

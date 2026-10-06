@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Contaminate
 *verb*
 > /kənˈtæm.ɪ.neɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Contaminate::Làm ô nhiễm – làm cho thứ gì đó không tinh khiết hoặc gây hại bằng cách đưa chất độc vào *(Phát âm: /kənˈtæm.ɪ.neɪt/)* ![[contaminate.mp3]]<br><br>👪 **Word Family:** contamination (n), contaminant (n), contaminated (adj), decontaminate (v)<br><br>💬 **Ví dụ:** You should wash your hands before cooking so you don't contaminate the food.<br>*(-> Bạn nên rửa tay trước khi nấu ăn để không làm ô nhiễm thức ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something impure or harmful by introducing a polluting or poisonous substance.

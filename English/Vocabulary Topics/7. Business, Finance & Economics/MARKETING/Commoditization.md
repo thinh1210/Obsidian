@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Commoditization
 *noun*
 > /kəˌmɑːdətəˈzeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Commoditization::Sự hàng hóa hóa (khiến sản phẩm mất đi tính độc đáo riêng và chỉ cạnh tranh bằng giá) *(Phát âm: /kəˌmɑːdətəˈzeɪʃn/)* ![[commoditization.mp3]]<br><br>👪 **Word Family:** commodity (n), commoditize (v)<br><br>💬 **Ví dụ:** The commoditization of personal computers means customers now only look at price and memory.<br>*(-> Sự hàng hóa hóa của máy tính cá nhân có nghĩa là khách hàng hiện nay chỉ nhìn vào giá cả và bộ nhớ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which goods or services become simple commodities, bought only on price rather than brand differences

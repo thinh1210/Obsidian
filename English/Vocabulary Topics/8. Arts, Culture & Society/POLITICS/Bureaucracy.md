@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Bureaucracy
 *n*
 > /bjʊəˈrɒk.rə.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Bureaucracy::Bộ máy hành chính quan liêu *(Phát âm: /bjʊəˈrɒk.rə.si/)* ![[bureaucracy.mp3]]<br><br>👪 **Word Family:** bureaucrat (n), bureaucratic (adj), bureaucratically (adv)<br><br>💬 **Ví dụ:** Starting a business requires navigating a lot of bureaucracy.<br>*(-> Khởi nghiệp đòi hỏi phải vượt qua nhiều thủ tục hành chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of complex official rules and processes run by many departments.

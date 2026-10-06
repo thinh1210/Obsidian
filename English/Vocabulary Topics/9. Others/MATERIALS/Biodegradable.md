@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Biodegradable
 *adjective.*
 > /ˌbaɪəʊdɪˈɡreɪdəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Biodegradable::Phân hủy sinh học *(Phát âm: /ˌbaɪəʊdɪˈɡreɪdəbl/)* ![[biodegradable.mp3]]<br><br>👪 **Word Family:** biodegradability (Noun), biodegrade (Verb)<br><br>💬 **Ví dụ:** We use biodegradable bags for compostable kitchen waste.<br>*(-> Chúng tôi sử dụng túi phân hủy sinh học cho rác thải nhà bếp có thể làm phân compost.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Capable of being decomposed by bacteria or other living organisms.

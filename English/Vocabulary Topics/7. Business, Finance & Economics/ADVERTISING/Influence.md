@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Influence
 *verb*
 > /ˈɪnfluəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Influence::Ảnh hưởng, tác động *(Phát âm: /ˈɪnfluəns/)* ![[influence.mp3]]<br><br>👪 **Word Family:** influential (adj), influencer (noun)<br><br>💬 **Ví dụ:** Friends can heavily influence your career choices.<br>*(-> Bạn bè có thể ảnh hưởng nặng nề đến các lựa chọn nghề nghiệp của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have an effect on the character, development, or behavior of someone or something.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Metropolis
 *n.*
 > /məˈtrɒpəlɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Metropolis::Đô thị lớn *(Phát âm: /məˈtrɒpəlɪs/)* ![[metropolis.mp3]]<br><br>👪 **Word Family:** Metropolitan (adj.)<br><br>💬 **Ví dụ:** New York is a true metropolis.<br>*(-> New York là một đô thị lớn thực sự.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large and densely populated industrial and commercial city.

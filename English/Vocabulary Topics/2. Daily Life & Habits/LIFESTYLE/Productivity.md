@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Productivity
 *n.*
 > /ˌprɒdʌkˈtɪvəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Productivity::Năng suất *(Phát âm: /ˌprɒdʌkˈtɪvəti/)* ![[productivity.mp3]]<br><br>👪 **Word Family:** productive (adj.)<br><br>💬 **Ví dụ:** My productivity is low today.<br>*(-> Hôm nay năng suất của tôi thấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or quality of producing something, especially crops.

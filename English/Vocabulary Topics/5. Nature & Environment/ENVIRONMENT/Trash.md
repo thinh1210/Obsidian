@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Trash
 *n.*
 > /træʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Trash::Rác, rác thải *(Phát âm: /træʃ/)* ![[trash.mp3]]<br><br>👪 **Word Family:** trashy (adj)<br><br>💬 **Ví dụ:** Don't leave your trash on the beach.<br>*(-> Đừng để lại rác của bạn trên bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Waste material; refuse.

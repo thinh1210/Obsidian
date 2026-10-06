@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Treaty
 *noun*
 > /ˈtriː.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Treaty::Hiệp ước, điều ước quốc tế *(Phát âm: /ˈtriː.ti/)* ![[treaty.mp3]]<br><br>👪 **Word Family:** treatise (n)<br><br>💬 **Ví dụ:** The two countries signed a treaty to reduce their nuclear weapons.<br>*(-> Hai nước đã ký một hiệp ước nhằm cắt giảm vũ khí hạt nhân của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formally concluded and ratified agreement between countries.

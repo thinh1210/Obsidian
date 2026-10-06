@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Tradition
 *n.*
 > /trəˈdɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Tradition::Truyền thống *(Phát âm: /trəˈdɪʃ.ən/)* ![[tradition.mp3]]<br><br>👪 **Word Family:** traditional, traditionalist<br><br>💬 **Ví dụ:** It's a family tradition to have dinner together on Sundays.<br>*(-> Ăn tối cùng nhau vào Chủ nhật là truyền thống của gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way.

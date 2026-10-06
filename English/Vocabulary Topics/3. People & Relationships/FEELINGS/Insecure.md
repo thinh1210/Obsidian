@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Insecure
 *adj.*
 > /ˌɪn.sɪˈkjʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Insecure::Cảm giác bất an, tự ti, thiếu tin tưởng vào giá trị hoặc sự an toàn của bản thân *(Phát âm: /ˌɪn.sɪˈkjʊər/)* ![[insecure.mp3]]<br><br>👪 **Word Family:** insecurity (n), insecurely (adv)<br><br>💬 **Ví dụ:** Constant comparisons with airbrushed influencers can make teens feel needlessly insecure.<br>*(-> Việc liên tục so sánh với những người có ảnh hưởng đã qua chỉnh sửa có thể khiến giới trẻ cảm thấy tự ti không đáng có.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not feeling confident about yourself, your abilities, or your relationships.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Heuristic
 *adj.*
 > /hjuˈrɪstɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Heuristic::Khám phá, tự học, dựa trên kinh nghiệm thực tế *(Phát âm: /hjuˈrɪstɪk/)* ![[heuristic.mp3]]<br><br>👪 **Word Family:** heuristics, heuristically<br><br>💬 **Ví dụ:** The teacher used a heuristic method to encourage independent learning.<br>*(-> Giáo viên đã sử dụng phương pháp tự học/tự khám phá để khuyến khích việc học tập độc lập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Enabling a person to discover or learn something for themselves

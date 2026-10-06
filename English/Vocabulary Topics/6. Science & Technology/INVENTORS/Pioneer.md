@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # pioneer
 *n.*
 > /ˌpaɪəˈnɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Pioneer::Người tiên phong *(Phát âm: /ˌpaɪəˈnɪər/)* ![[pioneer.mp3]]<br><br>👪 **Word Family:** pioneer (v)<br><br>💬 **Ví dụ:** Marie Curie was a pioneer in the field of radioactivity.<br>*(-> Marie Curie là người tiên phong trong lĩnh vực phóng xạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is among the first to research or develop a new area of knowledge or activity

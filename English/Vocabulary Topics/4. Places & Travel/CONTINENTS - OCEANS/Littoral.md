@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Littoral
 *adj*
 > /ˈlɪtərəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
+
+## 🗂️ Flashcard
+Littoral::Thuộc đới bờ, ven biển *(Phát âm: /ˈlɪtərəl/)* ![[littoral.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The littoral zone is rich in wildlife.<br>*(-> Vùng ven bờ rất phong phú về động vật hoang dã.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or situated on the shore of the sea or a lake.

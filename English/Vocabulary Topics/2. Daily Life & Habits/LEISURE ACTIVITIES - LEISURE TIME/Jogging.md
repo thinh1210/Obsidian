@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Jogging
 *n*
 > /ˈdʒɒɡɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Jogging::Chạy bộ *(Phát âm: /ˈdʒɒɡɪŋ/)* ![[jogging.mp3]]<br><br>👪 **Word Family:** Jog (v), Jogger (n)<br><br>💬 **Ví dụ:** Jogging helps me stay fit.<br>*(-> Chạy bộ giúp tôi giữ dáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of running at a steady, gentle pace.

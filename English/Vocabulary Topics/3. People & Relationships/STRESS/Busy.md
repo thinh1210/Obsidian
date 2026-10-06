@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Busy
 *adj.*
 > /ˈbɪzi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Busy::Bận rộn *(Phát âm: /ˈbɪzi/)* ![[busy.mp3]]<br><br>👪 **Word Family:** busily (adv), business (n)<br><br>💬 **Ví dụ:** I am very busy right now.<br>*(-> Hiện tại tôi đang rất bận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot to do

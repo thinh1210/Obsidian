@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # People
 *n.*
 > /ˈpiː.pəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+People::Con người, mọi người *(Phát âm: /ˈpiː.pəl/)* ![[people.mp3]]<br><br>👪 **Word Family:** populate, population<br><br>💬 **Ví dụ:** There were many people at the concert.<br>*(-> Có rất nhiều người tại buổi hòa nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Human beings in general or considered collectively.

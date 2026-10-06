@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Hypocritical
 *adj.*
 > /ˌhɪp.əˈkrɪt.ɪ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Hypocritical::Đạo đức giả, giả tạo, nói một đằng làm một nẻo *(Phát âm: /ˌhɪp.əˈkrɪt.ɪ.kəl/)* ![[hypocritical.mp3]]<br><br>👪 **Word Family:** hypocrite (n), hypocrisy (n), hypocritically (adv)<br><br>💬 **Ví dụ:** It was hypocritical of him to criticize others for speeding when he does it constantly.<br>*(-> Anh ta thật đạo đức giả khi chỉ trích người khác chạy quá tốc độ trong khi chính mình làm việc đó suốt ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Saying that you have particular moral beliefs but behaving in a way that shows these are not sincere.

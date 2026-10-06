@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Bargain
 *n/v*
 > /ˈbɑː.ɡɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Bargain::Món hời, mặc cả *(Phát âm: /ˈbɑː.ɡɪn/)* ![[bargain.mp3]]<br><br>👪 **Word Family:** Bargaining<br><br>💬 **Ví dụ:** This is a bargain.<br>*(-> Đây là món hời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something bought cheaply, or to negotiate

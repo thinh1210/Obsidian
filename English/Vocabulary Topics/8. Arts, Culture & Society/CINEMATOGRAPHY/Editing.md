@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Editing
 *n.*
 > /ˈedɪtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Editing::Việc dựng phim, biên tập hình ảnh/âm thanh *(Phát âm: /ˈedɪtɪŋ/)* ![[editing.mp3]]<br><br>👪 **Word Family:** edit, editor, editorial<br><br>💬 **Ví dụ:** The film's editing was criticized for being too choppy.<br>*(-> Việc dựng phim của bộ phim này bị chỉ trích là quá rời rạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of selecting and preparing written, visual, audible, or photographic material to create a cohesive film

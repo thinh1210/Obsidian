@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Postpone
 *v.*
 > /pəˈspəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Postpone::Trì hoãn, hoãn lại *(Phát âm: /pəˈspəʊn/)* ![[postpone.mp3]]<br><br>👪 **Word Family:** postponement (n.)<br><br>💬 **Ví dụ:** They postponed the game because of rain.<br>*(-> Họ đã hoãn trận đấu vì trời mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cause or arrange for something to take place at a time later than that first scheduled

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Branch
 *noun*
 > /brɑːntʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Branch::Cành cây *(Phát âm: /brɑːntʃ/)* ![[branch.mp3]]<br><br>👪 **Word Family:** Noun: branch (cành cây, chi nhánh), Verb: branch (chia cành, rẽ nhánh), Adjective: branched (có nhánh)<br><br>💬 **Ví dụ:** The bird perched on a high branch.<br>*(-> Con chim đậu trên một cành cây cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of a tree that grows out from the main trunk.

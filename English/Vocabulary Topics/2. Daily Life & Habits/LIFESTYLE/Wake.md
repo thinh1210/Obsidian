@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Wake
 *v.*
 > /weɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Wake::Thức dậy *(Phát âm: /weɪk/)* ![[wake.mp3]]<br><br>👪 **Word Family:** wakeful (adj.)<br><br>💬 **Ví dụ:** I wake up early.<br>*(-> Tôi thức dậy sớm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Emerge or cause to emerge from sleep.

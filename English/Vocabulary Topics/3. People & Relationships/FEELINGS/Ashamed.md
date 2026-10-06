@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Ashamed
 *adj*
 > /əˈʃeɪmd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Ashamed::Xấu hổ *(Phát âm: /əˈʃeɪmd/)* ![[ashamed.mp3]]<br><br>👪 **Word Family:** shame (n/v), shameful (adj)<br><br>💬 **Ví dụ:** He was ashamed of his bad behavior.<br>*(-> Anh ấy xấu hổ vì hành vi tồi tệ của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Embarrassed or guilty because of one's actions.

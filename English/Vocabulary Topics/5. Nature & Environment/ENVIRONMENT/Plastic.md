@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Plastic
 *n.*
 > /ˈplæstɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Plastic::Nhựa, chất dẻo *(Phát âm: /ˈplæstɪk/)* ![[plastic.mp3]]<br><br>👪 **Word Family:** plasticity (n), plasticize (v)<br><br>💬 **Ví dụ:** Avoid using single-use plastic cups.<br>*(-> Tránh sử dụng cốc nhựa dùng một lần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A synthetic material made from a wide range of organic polymers that can be molded into shape while soft and then set into a rigid or slightly elastic form.

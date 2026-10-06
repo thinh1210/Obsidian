@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Quarter
 *n.*
 > /ˈkwɔːrtər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Quarter::Một phân khu hoặc góc phố mang nét đặc trưng văn hóa hay kiến trúc riêng biệt *(Phát âm: /ˈkwɔːrtər/)* ![[quarter.mp3]]<br><br>👪 **Word Family:** quarterly (adj/adv)<br><br>💬 **Ví dụ:** Hanoi's Old Quarter is famed for its 36 guild streets.<br>*(-> Phố cổ Hà Nội nổi tiếng với 36 phố phường truyền thống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular district or section of a city, often with a distinctive character.

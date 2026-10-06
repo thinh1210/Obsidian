@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Food
 *n.*
 > /fuːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Food::Thức ăn *(Phát âm: /fuːd/)* ![[food.mp3]]<br><br>👪 **Word Family:** foodie (n.)<br><br>💬 **Ví dụ:** I love spicy food.<br>*(-> Tôi thích đồ ăn cay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any nutritious substance that people or animals eat or drink.

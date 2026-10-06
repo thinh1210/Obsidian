@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Exclude
 *v.*
 > /ɪkˈskluːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Exclude::Loại trừ khỏi phạm vi bảo hiểm *(Phát âm: /ɪkˈskluːd/)* ![[exclude.mp3]]<br><br>👪 **Word Family:** exclusion, exclusive, exclusively<br><br>💬 **Ví dụ:** Pre-existing conditions are excluded from this health policy.<br>*(-> Các bệnh có sẵn bị loại trừ khỏi hợp đồng bảo hiểm y tế này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To deny someone or something access to or bar them from a place, group, or privilege.

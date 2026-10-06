@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Beach
 *noun*
 > /biːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
+
+## 🗂️ Flashcard
+Beach::Bãi biển *(Phát âm: /biːtʃ/)* ![[beach.mp3]]<br><br>👪 **Word Family:** Beachwear (n.)<br><br>💬 **Ví dụ:** We walked along the beach.<br>*(-> Chúng tôi đi dạo dọc bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pebbly or sandy shore, especially by the ocean between high- and low-water marks.

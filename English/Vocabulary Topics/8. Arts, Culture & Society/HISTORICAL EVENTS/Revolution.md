@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Revolution
 *noun*
 > /ˌrev.əˈluː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Revolution::Cuộc cách mạng *(Phát âm: /ˌrev.əˈluː.ʃən/)* ![[revolution.mp3]]<br><br>👪 **Word Family:** revolutionary (adj/noun), revolutionize (verb)<br><br>💬 **Ví dụ:** The invention of smartphones created a revolution in daily communication.<br>*(-> Việc phát minh ra điện thoại thông minh đã tạo ra một cuộc cách mạng trong giao tiếp hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A forcible overthrow of a government or social order, in favor of a new system.

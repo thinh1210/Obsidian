@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Interface
 *noun.*
 > /ˈɪn.t̬ɚ.feɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Interface::Giao diện, điểm kết nối *(Phát âm: /ˈɪn.t̬ɚ.feɪs/)* ![[interface.mp3]]<br><br>👪 **Word Family:** interface (verb)<br><br>💬 **Ví dụ:** The robot's control panel has a friendly user interface.<br>*(-> Bảng điều khiển của robot có một giao diện người dùng thân thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point where two systems, subjects, organizations, etc., meet and interact

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Objective
 *adj.*
 > /əbˈdʒek.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Objective::Khách quan *(Phát âm: /əbˈdʒek.tɪv/)* ![[objective.mp3]]<br><br>👪 **Word Family:** objectivity, objectively<br><br>💬 **Ví dụ:** Try to be objective when judging their performance.<br>*(-> Hãy cố gắng khách quan khi đánh giá phần thể hiện của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not influenced by personal feelings or opinions in considering facts.

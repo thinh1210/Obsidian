@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Domesticate
 *verb*
 > /dəˈmes.tɪ.keɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Domesticate::Thuần hóa *(Phát âm: /dəˈmes.tɪ.keɪt/)* ![[domesticate.mp3]]<br><br>👪 **Word Family:** domesticate (v), domestication (n), domestic (adj)<br><br>💬 **Ví dụ:** Humans began to domesticate wolves thousands of years ago, leading to modern dogs.<br>*(-> Con người đã bắt đầu thuần hóa loài sói từ hàng ngàn năm trước, dẫn đến loài chó hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tame (an animal) and keep it as a pet or for farm produce.

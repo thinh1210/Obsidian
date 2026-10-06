@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Frugal
 *adjective*
 > /ˈfruː.ɡəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Frugal::Căn cơ, tiết kiệm, giản dị *(Phát âm: /ˈfruː.ɡəl/)* ![[frugal.mp3]]<br><br>👪 **Word Family:** frugality (n), frugally (adv)<br><br>💬 **Ví dụ:** He has always led a frugal life, saving most of his income.<br>*(-> Anh ấy luôn sống một cuộc sống tiết kiệm, tích lũy hầu hết thu nhập của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sparing or economical with regard to money or food

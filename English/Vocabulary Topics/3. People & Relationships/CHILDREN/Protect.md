@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Protect
 *v.*
 > /prəˈtekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Protect::Bảo vệ, chở che con cái trước những nguy cơ hiểm họa *(Phát âm: /prəˈtekt/)* ![[protect.mp3]]<br><br>👪 **Word Family:** protection (n), protective (adj), protectively (adv), protector (n)<br><br>💬 **Ví dụ:** Parents naturally feel a fierce, instinctual urge to protect their young children from danger.<br>*(-> Cha mẹ luôn có một bản năng tự nhiên mãnh liệt muốn bảo vệ những đứa con thơ khỏi hiểm nguy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep someone or something safe from injury, damage, or loss.

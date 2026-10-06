@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Principal
 *n.*
 > /ˈprɪn.sə.pəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Principal::Hiệu trưởng, người đứng đầu quản lý điều hành một trường học *(Phát âm: /ˈprɪn.sə.pəl/)* ![[principal.mp3]]<br><br>👪 **Word Family:** principally (adv)<br><br>💬 **Ví dụ:** The school principal delivered an encouraging speech welcoming freshmen on orientation day.<br>*(-> Thầy hiệu trưởng đã có bài phát biểu khích lệ chào đón tân học sinh trong ngày định hướng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The head or person in primary administrative authority of a school or college.

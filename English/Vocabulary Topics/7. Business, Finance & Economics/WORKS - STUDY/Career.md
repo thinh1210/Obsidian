@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Career
 *n.*
 > /kəˈrɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Career::Sự nghiệp *(Phát âm: /kəˈrɪər/)* ![[career.mp3]]<br><br>👪 **Word Family:** careerist<br><br>💬 **Ví dụ:** She wants to pursue a career in music.<br>*(-> Cô ấy muốn theo đuổi sự nghiệp âm nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The series of jobs that a person has in a particular area of work

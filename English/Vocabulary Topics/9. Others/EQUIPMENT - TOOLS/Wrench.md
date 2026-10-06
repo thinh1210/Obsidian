@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # wrench
 *noun*
 > /rentʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Wrench::mỏ lết, cờ lê *(Phát âm: /rentʃ/)* ![[wrench.mp3]]<br><br>👪 **Word Family:** Noun: wrench (mỏ lết), Verb: wrench (vặn mạnh, giật mạnh)<br><br>💬 **Ví dụ:** I need an adjustable wrench to loosen this bolt.<br>*(-> Tôi cần một chiếc mỏ lết điều chỉnh để nới lỏng con bu lông này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool used for gripping, turning, or twisting objects, usually metal nuts and bolts.

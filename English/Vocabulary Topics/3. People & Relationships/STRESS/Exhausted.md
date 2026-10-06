@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Exhausted
 *adj.*
 > /ɪɡˈzɔːstɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Exhausted::Kiệt sức *(Phát âm: /ɪɡˈzɔːstɪd/)* ![[exhausted.mp3]]<br><br>👪 **Word Family:** exhaust (v), exhaustion (n)<br><br>💬 **Ví dụ:** I am exhausted after the trip.<br>*(-> Tôi kiệt sức sau chuyến đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely tired

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Frost
 *n.*
 > /frɒst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Frost::Sương muối, sương giá đóng thành lớp màng trắng xóa khi trời buốt giá *(Phát âm: /frɒst/)* ![[frost.mp3]]<br><br>👪 **Word Family:** frosty (adj), frostbite (n), frosted (adj)<br><br>💬 **Ví dụ:** Window glass was decorated with delicate patterns of morning frost.<br>*(-> Mặt kính cửa sổ được dệt nên bởi những hoa văn sương giá ban mai tinh xảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thin layer of ice crystals forming on ground and plants when temperature falls below zero.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Conservation
 *n.*
 > /ˌkɒnsəˈveɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Conservation::Sự bảo tồn, công tác gìn giữ và bảo vệ các loài hoang dã cùng sinh cảnh sống *(Phát âm: /ˌkɒnsəˈveɪʃn/)* ![[conservation.mp3]]<br><br>👪 **Word Family:** conserve (v), conservationist (n), conservative (adj)<br><br>💬 **Ví dụ:** Donating to local conservation groups helps safeguard endangered snow leopards.<br>*(-> Quyên góp cho các nhóm bảo tồn địa phương giúp bảo vệ loài báo tuyết đang nguy cấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The protection of animals, plants, and natural habitats from loss or harm.

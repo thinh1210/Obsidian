@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Plan
 *n.*
 > /plæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Plan::Kế hoạch, gói bảo hiểm *(Phát âm: /plæn/)* ![[plan.mp3]]<br><br>👪 **Word Family:** plan (v), planner, unplanned<br><br>💬 **Ví dụ:** Which insurance plan is best for a family of four?<br>*(-> Gói bảo hiểm nào là tốt nhất cho một gia đình bốn người?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of decisions about how to do something in the future; a specific insurance program.

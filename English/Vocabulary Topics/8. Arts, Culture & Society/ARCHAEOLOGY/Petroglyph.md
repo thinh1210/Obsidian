@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Petroglyph
 *noun*
 > /ˈpetrəɡlɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Petroglyph::Hình khắc trên đá *(Phát âm: /ˈpetrəɡlɪf/)* ![[petroglyph.mp3]]<br><br>💬 **Ví dụ:** The canyon is famous for its Native American petroglyphs.<br>*(-> Hẻm núi nổi tiếng với các hình khắc trên đá của người Mỹ bản địa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rock carving, especially one made by prehistoric people

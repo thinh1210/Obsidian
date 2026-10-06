@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Reptile
 *noun*
 > /ˈrep.taɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Reptile::Loài bò sát *(Phát âm: /ˈrep.taɪl/)* ![[reptile.mp3]]<br><br>👪 **Word Family:** reptile (n), reptilian (adj)<br><br>💬 **Ví dụ:** Crocodiles are ancient reptiles that have changed very little since the dinosaur era.<br>*(-> Cá sấu là loài bò sát cổ đại ít thay đổi kể từ thời kỳ khủng long.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cold-blooded vertebrate animal of a class that includes snakes, lizards, crocodiles, turtles, and tortoises.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Circumnavigate
 *verb*
 > /ˌsɜːkəmˈnævɪɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
+
+## 🗂️ Flashcard
+Circumnavigate::Đi vòng quanh (trái đất, hòn đảo) *(Phát âm: /ˌsɜːkəmˈnævɪɡeɪt/)* ![[circumnavigate.mp3]]<br><br>👪 **Word Family:** Circumnavigation (n.)<br><br>💬 **Ví dụ:** Magellan's expedition was the first to circumnavigate the earth.<br>*(-> Đoàn thám hiểm của Magellan là đoàn đầu tiên đi vòng quanh trái đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sail or travel all the way around (something, especially the world).

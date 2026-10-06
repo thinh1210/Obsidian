@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Faith
 *n.*
 > /feɪθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Faith::Lòng tin cậy vững chắc, niềm tin sắt đá dành cho người bạn tri kỷ *(Phát âm: /feɪθ/)* ![[faith.mp3]]<br><br>👪 **Word Family:** faithful (adj), faithfully (adv), faithless (adj)<br><br>💬 **Ví dụ:** Whenever I doubted my own artistic abilities, my best friend had unwavering faith in me.<br>*(-> Mỗi khi tôi hoài nghi năng lực nghệ thuật của mình, người bạn thân nhất luôn dành cho tôi niềm tin kiên định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great trust or confidence in something or someone.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Dialect
 *n.*
 > /ˈdaɪəlekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
+
+## 🗂️ Flashcard
+Dialect::Phương ngôn, tiếng địa phương *(Phát âm: /ˈdaɪəlekt/)* ![[dialect.mp3]]<br><br>👪 **Word Family:** dialectal, dialectology<br><br>💬 **Ví dụ:** They speak a dialect I cannot understand.<br>*(-> Họ nói một thứ tiếng địa phương tôi không thể hiểu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular form of a language which is peculiar to a specific region or social group

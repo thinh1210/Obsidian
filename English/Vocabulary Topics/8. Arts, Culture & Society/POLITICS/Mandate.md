@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Mandate
 *n/v*
 > /ˈmæn.deɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Mandate::Nhiệm vụ được giao / ủy quyền / sứ mệnh *(Phát âm: /ˈmæn.deɪt/)* ![[mandate.mp3]]<br><br>👪 **Word Family:** mandatory (adj), mandated (adj)<br><br>💬 **Ví dụ:** The newly elected leader claimed a mandate to reform the tax system.<br>*(-> Nhà lãnh đạo mới đắc cử tuyên bố có ủy quyền để cải cách hệ thống thuế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official order or commission to carry out a policy or task; a popular authority given to a winning politician.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Converse
 *verb*
 > /kənˈvɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
+
+## 🗂️ Flashcard
+Converse::trò chuyện, đối thoại *(Phát âm: /kənˈvɜːs/)* ![[converse.mp3]]<br><br>👪 **Word Family:** conversation (n), conversational (adj)<br><br>💬 **Ví dụ:** It is pleasant to converse with someone who shares your interests.<br>*(-> Thật dễ chịu khi trò chuyện với một người chia sẻ cùng sở thích với bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to have a conversation with someone

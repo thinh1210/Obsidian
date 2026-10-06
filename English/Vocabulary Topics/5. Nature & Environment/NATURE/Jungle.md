@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Jungle
 *n.*
 > /ˈdʒʌŋɡl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Jungle::Rừng rậm nhiệt đới, rừng già cây cối rậm rạp chằng chịt dây leo hoang sơ *(Phát âm: /ˈdʒʌŋɡl/)* ![[jungle.mp3]]<br><br>👪 **Word Family:** jungly (adj)<br><br>💬 **Ví dụ:** Explorers needed sharp machetes to clear a path through the dense tropical jungle.<br>*(-> Những người thám hiểm cần dùng dao rựa sắc bén để mở đường qua khu rừng rậm nhiệt đới dày đặc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land overgrown with dense forest and tangled vegetation, typically in the tropics.

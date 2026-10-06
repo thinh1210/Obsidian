@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Conurbation
 *n.*
 > /ˌkɒnɜːˈbeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Conurbation::Khu đại đô thị *(Phát âm: /ˌkɒnɜːˈbeɪʃn/)* ![[conurbation.mp3]]<br><br>👪 **Word Family:** urban (adj)<br><br>💬 **Ví dụ:** The West Midlands is a major conurbation.<br>*(-> West Midlands là một đại đô thị lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extended urban area, typically consisting of several towns merging with the suburbs of a central city.

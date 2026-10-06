@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # King
 *noun*
 > /kɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+King::Vua, vương hoàng *(Phát âm: /kɪŋ/)* ![[king.mp3]]<br><br>👪 **Word Family:** kingdom (noun), kingly (adj)<br><br>💬 **Ví dụ:** The children played a game where one was the king and the others were servants.<br>*(-> Lũ trẻ chơi trò chơi mà một đứa làm vua và những đứa khác làm đầy tớ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The male ruler of an independent state, especially one who inherits the position by right of birth.

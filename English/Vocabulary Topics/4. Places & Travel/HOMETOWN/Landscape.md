@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Landscape
 *n.*
 > /ˈlændskeɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Landscape::Cảnh quan *(Phát âm: /ˈlændskeɪp/)* ![[landscape.mp3]]<br><br>👪 **Word Family:** Landscaping (n.)<br><br>💬 **Ví dụ:** The landscape here is breathtaking.<br>*(-> Cảnh quan ở đây thật ngoạn mục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of land, often considered in terms of their aesthetic appeal.

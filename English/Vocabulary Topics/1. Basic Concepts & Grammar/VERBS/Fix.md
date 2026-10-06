@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Fix
 *v., n.*
 > /fɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Fix::Sửa chữa đồ hỏng, khắc phục lỗi hệ thống; gắn chặt, ấn định thời gian *(Phát âm: /fɪks/)* ![[fix.mp3]]<br><br>👪 **Word Family:** fixture (n), fixing (n), fixed (adj)<br><br>💬 **Ví dụ:** My father managed to fix the leaking kitchen sink with a simple wrench in ten minutes.<br>*(-> Bố tôi đã sửa xong bồn rửa bát bị rò rỉ chỉ với một chiếc cờ lê đơn giản trong mười phút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To repair something that is broken, damaged, or not working properly; to make firm or stable.

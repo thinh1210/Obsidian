@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Paraphernalia
 *noun*
 > /ˌpærəfəˈneɪliə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Paraphernalia::Đồ lỉnh kỉnh, phụ tùng *(Phát âm: /ˌpærəfəˈneɪliə/)* ![[paraphernalia.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He arrived with a bag full of photographic paraphernalia.<br>*(-> Anh ta đến với một chiếc túi chứa đầy đồ nghề nhiếp ảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Miscellaneous articles, especially the equipment needed for a particular activity.

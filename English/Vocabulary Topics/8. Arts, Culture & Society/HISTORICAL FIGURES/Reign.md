@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Reign
 *n.*
 > /reɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Reign::Triều đại, thời gian trị vì *(Phát âm: /reɪn/)* ![[reign.mp3]]<br><br>👪 **Word Family:** reign (v), reigning<br><br>💬 **Ví dụ:** Her reign was marked by peace and prosperity.<br>*(-> Triều đại của bà được đánh dấu bằng hòa bình và thịnh vượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of time during which a king or queen rules a country

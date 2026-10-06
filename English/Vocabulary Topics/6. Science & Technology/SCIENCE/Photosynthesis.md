@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Photosynthesis
 *noun*
 > /ˌfəʊ.tə.ˈsɪn.θə.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Photosynthesis::Quang hợp – quá trình thực vật xanh dùng ánh sáng mặt trời, nước và CO₂ để tạo ra glucose và oxy *(Phát âm: /ˌfəʊ.tə.ˈsɪn.θə.sɪs/)* ![[photosynthesis.mp3]]<br><br>👪 **Word Family:** photosynthesise/photosynthesize (v), photosynthetic (adj), chlorophyll (n)<br><br>💬 **Ví dụ:** Without photosynthesis, plants could not produce the food they need to grow.<br>*(-> Không có quang hợp, cây không thể tạo ra thức ăn để phát triển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which green plants use sunlight, water, and CO₂ to produce glucose and oxygen.

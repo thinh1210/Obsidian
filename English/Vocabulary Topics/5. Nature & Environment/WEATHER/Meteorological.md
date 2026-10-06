@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Meteorological
 *adj.*
 > /ˌmiːtiərəˈlɒdʒɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Meteorological::Thuộc về khí tượng học *(Phát âm: /ˌmiːtiərəˈlɒdʒɪkl/)* ![[meteorological.mp3]]<br><br>👪 **Word Family:** Meteorology (noun), meteorologist (noun)<br><br>💬 **Ví dụ:** The meteorological department predicted a dry winter.<br>*(-> Cục khí tượng đã dự báo một mùa đông khô hanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the atmosphere and weather phenomena

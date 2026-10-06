@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Focus
 *v.*
 > /ˈfəʊkəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Focus::Lấy nét, tiêu điểm *(Phát âm: /ˈfəʊkəs/)* ![[focus.mp3]]<br><br>👪 **Word Family:** focal, focused<br><br>💬 **Ví dụ:** You need to focus the camera before taking the shot.<br>*(-> Bạn cần lấy nét máy quay trước khi bấm máy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To adjust the lens of a camera to make an image clear and sharp

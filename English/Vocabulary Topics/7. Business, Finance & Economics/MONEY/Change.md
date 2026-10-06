@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Change
 *n.*
 > /tʃeɪndʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Change::Tiền lẻ hoặc tiền thừa mà người bán trả lại cho khách mua hàng *(Phát âm: /tʃeɪndʒ/)* ![[change.mp3]]<br><br>👪 **Word Family:** changeable (adj)<br><br>💬 **Ví dụ:** I gave the taxi driver a twenty-dollar bill and told him to keep the change.<br>*(-> Tôi đưa cho tài xế taxi tờ hai mươi đô la và bảo anh ấy cứ giữ lại tiền thừa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coins or smaller paper notes returned to a buyer when they have paid with more money than the price of goods.

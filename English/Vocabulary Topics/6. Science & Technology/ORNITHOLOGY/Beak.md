@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Beak
 *noun*
 > /biːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Beak::Mỏ chim *(Phát âm: /biːk/)* ![[beak.mp3]]<br><br>👪 **Word Family:** beak (n), beaked (adj)<br><br>💬 **Ví dụ:** The woodpecker tapped the tree with its strong beak.<br>*(-> Con gõ kiến gõ vào cây bằng chiếc mỏ khỏe của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The hard, pointed part of a bird's mouth.

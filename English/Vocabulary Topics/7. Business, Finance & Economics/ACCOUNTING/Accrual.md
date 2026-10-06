@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Accrual
 *n.*
 > /əˈkruːəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Accrual::Sự dồn tích, phương pháp dồn tích *(Phát âm: /əˈkruːəl/)* ![[accrual.mp3]]<br><br>👪 **Word Family:** accrue, accrued<br><br>💬 **Ví dụ:** The accrual of interest on his savings account made him happy.<br>*(-> Sự tích lũy lãi suất trên tài khoản tiết kiệm đã khiến anh ấy vui mừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The accumulation of payments or benefits, or accounting method recognizing revenue when earned rather than received

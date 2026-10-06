@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Exquisite
 *adj*
 > /ɪkˈskwɪz.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Exquisite::Cực kỳ tinh tế, tuyệt đẹp *(Phát âm: /ɪkˈskwɪz.ɪt/)* ![[exquisite.mp3]]<br><br>👪 **Word Family:** exquisitely (adv)<br><br>💬 **Ví dụ:** Her dress was exquisite.<br>*(-> Chiếc váy của cô ấy vô cùng tinh xảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely beautiful and, typically, delicate.

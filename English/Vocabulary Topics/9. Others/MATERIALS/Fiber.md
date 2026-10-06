@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Fiber
 *noun.*
 > /ˈfaɪbə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Fiber::Sợi, xơ, chất xơ *(Phát âm: /ˈfaɪbə(r)/)* ![[fiber.mp3]]<br><br>👪 **Word Family:** fibrous (Adjective), fiberglass (Noun)<br><br>💬 **Ví dụ:** Vegetables are rich in dietary fiber, which is good for digestion.<br>*(-> Rau củ rất giàu chất xơ thực phẩm, rất tốt cho tiêu hóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thread or filament from which a vegetable tissue, mineral substance, or textile is formed.

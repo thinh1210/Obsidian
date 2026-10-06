@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Guitar
 *n.*
 > /ɡɪˈtɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Guitar::Cây đàn ghi-ta 6 dây gảy bằng ngón tay hoặc móng gảy *(Phát âm: /ɡɪˈtɑːr/)* ![[guitar.mp3]]<br><br>👪 **Word Family:** guitarist (n)<br><br>💬 **Ví dụ:** He sat by the campfire strumming his acoustic guitar while everyone sang along.<br>*(-> Anh ấy ngồi bên đống lửa trại gảy cây đàn ghi-ta mộc trong khi mọi người cùng hát theo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A musical instrument, usually with six strings, played with the fingers or a plectrum.

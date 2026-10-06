@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Geometry
 *n.*
 > /dʒiˈɒm.ə.tri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Geometry::Hình học *(Phát âm: /dʒiˈɒm.ə.tri/)* ![[geometry.mp3]]<br><br>👪 **Word Family:** Geometric (adj)<br><br>💬 **Ví dụ:** Geometry is my favorite math subject.<br>*(-> Hình học là môn toán yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional analogs.

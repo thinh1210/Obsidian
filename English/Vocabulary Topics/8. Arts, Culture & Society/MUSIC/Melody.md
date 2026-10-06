@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Melody
 *n.*
 > /ˈmel.ə.di/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Melody::Giai điệu *(Phát âm: /ˈmel.ə.di/)* ![[melody.mp3]]<br><br>👪 **Word Family:** melodic (adj), melodious (adj)<br><br>💬 **Ví dụ:** That song has a very catchy melody that I can't get out of my head.<br>*(-> Bài hát đó có một giai điệu rất bắt tai mà tôi không thể gạt ra khỏi đầu được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of single notes that is musically satisfying; a tune.

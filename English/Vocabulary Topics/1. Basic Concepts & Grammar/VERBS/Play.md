@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Play
 *Verb*
 > /pleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Play::Chơi *(Phát âm: /pleɪ/)* ![[play.mp3]]<br><br>👪 **Word Family:** Player (n), Playful (adj)<br><br>💬 **Ví dụ:** I play games.<br>*(-> Tôi chơi game.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend time doing an enjoyable and/or entertaining activity.

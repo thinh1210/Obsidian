@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Shop
 *n.*
 > /ʃɒp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Shop::Cửa hàng *(Phát âm: /ʃɒp/)* ![[shop.mp3]]<br><br>👪 **Word Family:** shopping (n)<br><br>💬 **Ví dụ:** I am going to the shop.<br>*(-> Tôi đang đi đến cửa hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where you can buy goods.

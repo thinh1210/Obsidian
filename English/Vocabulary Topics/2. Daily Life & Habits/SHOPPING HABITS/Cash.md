@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Cash
 *n*
 > /kæʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Cash::Tiền mặt *(Phát âm: /kæʃ/)* ![[cash.mp3]]<br><br>👪 **Word Family:** Cashier<br><br>💬 **Ví dụ:** I have no cash.<br>*(-> Tôi không có tiền mặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money in coins or notes

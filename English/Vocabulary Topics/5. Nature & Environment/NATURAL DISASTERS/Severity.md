@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Severity
 *noun*
 > /sɪˈver.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Severity::Mức độ nghiêm trọng, tính khốc liệt *(Phát âm: /sɪˈver.ə.ti/)* ![[severity.mp3]]<br><br>👪 **Word Family:** severe (adj), severely (adv)<br><br>💬 **Ví dụ:** The severity of the drought forced farmers to abandon their fields.<br>*(-> Mức độ nghiêm trọng của hạn hán đã buộc nông dân phải bỏ hoang ruộng đồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being extremely painful, difficult, or damaging.

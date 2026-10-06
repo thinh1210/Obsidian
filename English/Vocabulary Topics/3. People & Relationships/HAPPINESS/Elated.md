@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Elated
 *adj.*
 > /ɪˈleɪ.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Elated::Hân hoan, phấn khởi *(Phát âm: /ɪˈleɪ.tɪd/)* ![[elated.mp3]]<br><br>👪 **Word Family:** Elation (n)<br><br>💬 **Ví dụ:** He was elated at the news.<br>*(-> Anh ấy rất phấn khởi trước tin tức đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Ecstatically happy.

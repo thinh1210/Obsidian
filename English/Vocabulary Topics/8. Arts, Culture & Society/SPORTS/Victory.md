@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Victory
 *n.*
 > /ˈvɪk.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Victory::Chiến thắng *(Phát âm: /ˈvɪk.tər.i/)* ![[victory.mp3]]<br><br>👪 **Word Family:** victor, victorious, victoriously<br><br>💬 **Ví dụ:** The team celebrated their historic victory.<br>*(-> Cả đội đã ăn mừng chiến thắng lịch sử của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of defeating an enemy or opponent in a battle, game, or other competition.

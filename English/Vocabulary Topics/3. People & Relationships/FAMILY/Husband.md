@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Husband
 *noun*
 > /ˈhʌz.bənd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Husband::Chồng *(Phát âm: /ˈhʌz.bənd/)* ![[husband.mp3]]<br><br>👪 **Word Family:** husbandry (n)<br><br>💬 **Ví dụ:** Her husband is kind.<br>*(-> Chồng cô ấy rất tốt bụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The man that a woman is married to.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Guerilla
 *adjective*
 > /ɡəˈrɪlə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Guerilla::Du kích (phương thức tiếp thị phi truyền thống, bất ngờ và sáng tạo) *(Phát âm: /ɡəˈrɪlə/)* ![[guerilla.mp3]]<br><br>👪 **Word Family:** guerrilla (noun)<br><br>💬 **Ví dụ:** The band used guerilla marketing by painting their logo on streets.<br>*(-> Ban nhạc đã sử dụng tiếp thị du kích bằng cách vẽ logo của họ trên đường phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Referring to actions or campaigns carried out in an unconventional, creative, and low-cost way to surprise the audience.

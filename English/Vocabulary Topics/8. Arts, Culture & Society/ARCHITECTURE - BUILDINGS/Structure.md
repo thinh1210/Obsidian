@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Structure
 *n.*
 > /ˈstrʌktʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Structure::Công trình, cấu trúc *(Phát âm: /ˈstrʌktʃə(r)/)* ![[structure.mp3]]<br><br>👪 **Word Family:** structural, structuralism<br><br>💬 **Ví dụ:** The Eiffel Tower is a famous metal structure.<br>*(-> Tháp Eiffel là một công trình kim loại nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building or other object constructed from several parts

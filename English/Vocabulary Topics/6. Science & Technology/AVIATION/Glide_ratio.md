@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Glide ratio
 *noun phrase*
 > /ɡlaɪd ˈreɪ.ʃiˌəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Glide_ratio::Tỉ số lướt (tỉ lệ giữa khoảng cách ngang và độ cao mất) *(Phát âm: /ɡlaɪd ˈreɪ.ʃiˌəʊ/)* ![[glide_ratio.mp3]]<br><br>👪 **Word Family:** lift-to-drag ratio (n), glide slope (n), glide path (n)<br><br>💬 **Ví dụ:** A glider with a 40:1 glide ratio can travel 40 metres forward for every metre it descends.<br>*(-> Tàu lượn có tỉ số lướt 40:1 có thể di chuyển 40 mét về phía trước cho mỗi mét hạ xuống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ratio of the horizontal distance travelled to the vertical distance lost by a gliding aircraft — a measure of aerodynamic efficiency.

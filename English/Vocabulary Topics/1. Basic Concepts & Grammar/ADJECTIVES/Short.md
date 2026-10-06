@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Short
 *adj.*
 > /ʃɔːt/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Short::Ngắn, thấp *(Phát âm: /ʃɔːt/)* ![[short.mp3]]<br><br>👪 **Word Family:** shortness<br><br>💬 **Ví dụ:** Short hair.<br>*(-> Tóc ngắn.)*
+<!--SR:!2026-10-06,4,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Measuring a small distance from end to end

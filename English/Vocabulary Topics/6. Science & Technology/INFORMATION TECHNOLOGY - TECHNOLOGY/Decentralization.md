@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Decentralization
 *n*
 > /ˌdiːˌsen.trə.laɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Decentralization::Sự phi tập trung hóa, phân quyền *(Phát âm: /ˌdiːˌsen.trə.laɪˈzeɪ.ʃən/)* ![[decentralization.mp3]]<br><br>👪 **Word Family:** Decentralize (v), Decentralized (adj)<br><br>💬 **Ví dụ:** Crypto fans love the decentralization of money.<br>*(-> Người hâm mộ tiền điện tử thích sự phi tập trung của tiền bạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The movement of departments of a large organization away from a single administrative center to other locations.

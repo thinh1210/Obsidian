@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Deplorable
 *adj*
 > /dɪˈplɔː.rə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Deplorable::Đáng thương tâm, tồi tệ *(Phát âm: /dɪˈplɔː.rə.bəl/)* ![[deplorable.mp3]]<br><br>👪 **Word Family:** Deplore (verb), Deplorably (adv)<br><br>💬 **Ví dụ:** They are living in deplorable conditions.<br>*(-> Họ đang sống trong những điều kiện tồi tệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Deserving strong condemnation; shockingly bad in quality.

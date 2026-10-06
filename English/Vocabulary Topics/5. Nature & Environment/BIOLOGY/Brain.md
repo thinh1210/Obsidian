@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Brain
 *noun*
 > /breɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Brain::Não *(Phát âm: /breɪn/)* ![[brain.mp3]]<br><br>👪 **Word Family:** brainy, brainless<br><br>💬 **Ví dụ:** Your brain controls everything you do.<br>*(-> Bộ não của bạn kiểm soát mọi thứ bạn làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organ of soft nervous tissue contained in the skull of vertebrates, functioning as the coordinating center of sensation and intellectual and nervous activity.

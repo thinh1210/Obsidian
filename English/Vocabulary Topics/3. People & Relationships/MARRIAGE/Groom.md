@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Groom
 *noun*
 > /ɡruːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Groom::Chú rể *(Phát âm: /ɡruːm/)* ![[groom.mp3]]<br><br>👪 **Word Family:** Groomsmen (noun)<br><br>💬 **Ví dụ:** The groom is waiting at the altar.<br>*(-> Chú rể đang đợi ở bàn thờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A man who is about to get married or has just got married.

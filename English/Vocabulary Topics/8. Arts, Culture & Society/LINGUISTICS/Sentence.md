@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Sentence
 *noun*
 > /ˈsen.təns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Sentence::câu *(Phát âm: /ˈsen.təns/)* ![[sentence.mp3]]<br><br>👪 **Word Family:** sentence (v)<br><br>💬 **Ví dụ:** Try to write a short sentence using this new word.<br>*(-> Hãy cố gắng viết một câu ngắn bằng cách sử dụng từ mới này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a group of words, usually containing a subject and a verb, that expresses a complete thought

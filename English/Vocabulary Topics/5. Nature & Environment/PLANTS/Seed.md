@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Seed
 *noun*
 > /siːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Seed::Hạt giống *(Phát âm: /siːd/)* ![[seed.mp3]]<br><br>👪 **Word Family:** Noun: seed (hạt), seedling (cây con), Verb: seed (gieo hạt, tạo hạt), Adjective: seedless (không hạt)<br><br>💬 **Ví dụ:** I bought some tomato seeds for my garden.<br>*(-> Tôi đã mua một ít hạt giống cà chua cho khu vườn của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The small hard part of a plant from which a new plant can grow.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Science
 *noun*
 > /ˈsaɪəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Science::Khoa học, môn Khoa học *(Phát âm: /ˈsaɪəns/)* ![[science.mp3]]<br><br>👪 **Word Family:** scientist, scientific<br><br>💬 **Ví dụ:** We did a fun experiment in science class.<br>*(-> Chúng tôi đã làm một thí nghiệm vui trong giờ khoa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The systematic study of the structure and behavior of the physical and natural world.

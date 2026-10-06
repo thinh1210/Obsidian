@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Civilization
 *noun*
 > /ˌsɪvəlaɪˈzeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Civilization::Nền văn minh *(Phát âm: /ˌsɪvəlaɪˈzeɪʃn/)* ![[civilization.mp3]]<br><br>👪 **Word Family:** civilize (verb), civil (adj)<br><br>💬 **Ví dụ:** The Nile Valley was the cradle of Egyptian civilization.<br>*(-> Thung lũng sông Nile là cái nôi của nền văn minh Ai Cập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The stage of human social development and organization that is considered most advanced

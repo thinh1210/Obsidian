@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Degradation
 *n.*
 > /ˌdeɡrəˈdeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Degradation::Sự thoái hóa, sự suy thoái *(Phát âm: /ˌdeɡrəˈdeɪʃn/)* ![[degradation.mp3]]<br><br>👪 **Word Family:** degrade (v), degrading (adj)<br><br>💬 **Ví dụ:** Soil degradation reduces agricultural productivity.<br>*(-> Thoái hóa đất làm giảm năng suất nông nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state or process of being degraded, especially the wearing down of land by erosive processes or the reduction of quality.

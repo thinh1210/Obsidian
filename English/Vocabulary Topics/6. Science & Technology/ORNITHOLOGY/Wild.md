@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Wild
 *adjective*
 > /waɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Wild::Hoang dã *(Phát âm: /waɪld/)* ![[wild.mp3]]<br><br>👪 **Word Family:** wild (adj/n), wildly (adv), wilderness (n)<br><br>💬 **Ví dụ:** It is exciting to see wild geese flying across the lake.<br>*(-> Thật thú vị khi thấy những con ngỗng hoang dã bay qua hồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Living or growing in natural conditions; not kept by people.

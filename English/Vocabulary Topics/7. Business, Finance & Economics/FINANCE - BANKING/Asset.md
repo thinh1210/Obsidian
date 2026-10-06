@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Asset
 *noun.*
 > /ˈæset/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
+
+## 🗂️ Flashcard
+Asset::Tài sản *(Phát âm: /ˈæset/)* ![[asset.mp3]]<br><br>👪 **Word Family:** assets (noun)<br><br>💬 **Ví dụ:** Houses and land are usually considered stable assets.<br>*(-> Nhà cửa và đất đai thường được coi là tài sản ổn định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A useful or valuable quality, person, or thing owned by a person or company.

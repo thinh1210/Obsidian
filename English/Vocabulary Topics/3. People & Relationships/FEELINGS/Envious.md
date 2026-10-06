@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Envious
 *adj.*
 > /ˈen.vi.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Envious::Đố kỵ, ghen tị trước thành công hoặc sở hữu của người khác *(Phát âm: /ˈen.vi.əs/)* ![[envious.mp3]]<br><br>👪 **Word Family:** envy (n/v), enviably (adv)<br><br>💬 **Ví dụ:** Colleagues cast envious glances at his brand-new convertible parked outside the building.<br>*(-> Các đồng nghiệp liếc nhìn chiếc xe mui trần mới cóng của anh đậu ngoài tòa nhà bằng ánh mắt ghen tị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wishing that you had something that another person has.

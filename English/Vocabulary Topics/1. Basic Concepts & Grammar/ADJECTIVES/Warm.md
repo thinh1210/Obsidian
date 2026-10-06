@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Warm
 *adj.*
 > /wɔːm/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Warm::Ấm áp (nhiệt độ vừa vặn); thân thiện, nồng hậu (tính cách, tình cảm) *(Phát âm: /wɔːm/)* ![[warm.mp3]]<br><br>👪 **Word Family:** warmly (adv), warmth (n), warm (v)<br><br>💬 **Ví dụ:** Put on a thick coat to keep warm against the chilly evening breeze.<br>*(-> Hãy mặc một chiếc áo khoác dày để giữ ấm trước làn gió lạnh buổi tối.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or producing a comfortable amount of heat; friendly and affectionate.

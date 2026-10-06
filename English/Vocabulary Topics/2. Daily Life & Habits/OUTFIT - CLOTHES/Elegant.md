@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Elegant
 *adj.*
 > /ˈel.ɪ.ɡənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Elegant::Thanh lịch, tao nhã và quý phái trong cách ăn mặc và diện mạo *(Phát âm: /ˈel.ɪ.ɡənt/)* ![[elegant.mp3]]<br><br>👪 **Word Family:** elegance (n), elegantly (adv)<br><br>💬 **Ví dụ:** She wore an elegant black evening gown with delicate pearl earrings to the gala.<br>*(-> Cô ấy mặc chiếc đầm dạ hội đen thanh lịch cùng khuyên tai ngọc trai tinh tế đến buổi dạ tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Graceful and attractive in appearance or manner.

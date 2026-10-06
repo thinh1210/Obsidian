@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Detail
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - particular, specification, feature
+
+
+## 🗂️ Flashcard
+Detail::Chi tiết *(Phát âm: /ˈdiː.teɪl/)* ![[detail.mp3]]<br><br>👪 **Word Family:** [Noun]: detail, [Verb]: detail, [Adj]: detailed<br><br>💬 **Ví dụ:** The report covers every detail of the investigation.<br>*(-> Báo cáo bao gồm mọi chi tiết của cuộc điều tra.)*

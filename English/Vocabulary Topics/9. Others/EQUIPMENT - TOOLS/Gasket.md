@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # gasket
 *noun*
 > /ˈgæs.kɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Gasket::miếng đệm, gioăng cao su (ngăn rò rỉ) *(Phát âm: /ˈgæs.kɪt/)* ![[gasket.mp3]]<br><br>👪 **Word Family:** Noun: gasket (miếng đệm)<br><br>💬 **Ví dụ:** The mechanic replaced the head gasket to stop the engine oil leak.<br>*(-> Người thợ máy đã thay gioăng đầu máy để ngăn rò rỉ dầu động cơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a shaped piece of rubber, asbestos, or paper used to seal the junction between two surfaces.

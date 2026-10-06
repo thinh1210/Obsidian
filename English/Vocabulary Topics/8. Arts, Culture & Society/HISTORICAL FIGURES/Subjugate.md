@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Subjugate
 *v.*
 > /ˈsʌbdʒʊɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
+
+## 🗂️ Flashcard
+Subjugate::Chinh phục, khuất phục, bắt làm nô dịch *(Phát âm: /ˈsʌbdʒʊɡeɪt/)* ![[subjugate.mp3]]<br><br>👪 **Word Family:** subjugation, subjugator<br><br>💬 **Ví dụ:** The empire sought to subjugate neighboring tribes.<br>*(-> Đế chế tìm cách chinh phục các bộ tộc lân cận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To bring under domination or control, especially by conquest

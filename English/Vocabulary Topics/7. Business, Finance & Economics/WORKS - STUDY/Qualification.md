@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Qualification
 *n.*
 > /ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Qualification::Trình độ chuyên môn, bằng cấp *(Phát âm: /ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/)* ![[qualification.mp3]]<br><br>👪 **Word Family:** qualify, qualified<br><br>💬 **Ví dụ:** She has all the right qualifications for the job.<br>*(-> Cô ấy có tất cả những bằng cấp phù hợp cho công việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A quality, skill, or credential that fits a person for a position

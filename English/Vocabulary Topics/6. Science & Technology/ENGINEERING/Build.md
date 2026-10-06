@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Build
 *verb*
 > /bɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Build::Xây dựng, chế tạo *(Phát âm: /bɪld/)* ![[build.mp3]]<br><br>👪 **Word Family:** builder (n), building (n)<br><br>💬 **Ví dụ:** Children love to build sandcastles on the beach during summer.<br>*(-> Trẻ em thích xây lâu đài cát trên bãi biển vào mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To construct something by putting parts or materials together.

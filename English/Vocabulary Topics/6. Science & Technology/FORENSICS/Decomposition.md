@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Decomposition
 *noun*
 > /ˌdiː.kɒm.pəˈzɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Decomposition::Sự phân hủy – quá trình thi thể hoặc vật chất hữu cơ bị phân rã, dùng trong pháp y để ước tính thời gian tử vong *(Phát âm: /ˌdiː.kɒm.pəˈzɪʃ.ən/)* ![[decomposition.mp3]]<br><br>👪 **Word Family:** decompose (v), decomposed (adj), decomposer (n)<br><br>💬 **Ví dụ:** Leaves decompose into the soil and return nutrients to the earth.<br>*(-> Lá cây phân hủy vào đất và trả lại chất dinh dưỡng cho đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of rotting and breaking down, especially of organic matter; in forensics, used to estimate time since death.

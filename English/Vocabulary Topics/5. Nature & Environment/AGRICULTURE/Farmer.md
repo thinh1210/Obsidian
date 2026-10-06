@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Farmer
 *n.*
 > /ˈfɑː.mər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Farmer::Người nông dân *(Phát âm: /ˈfɑː.mər/)* ![[farmer.mp3]]<br><br>👪 **Word Family:** farm (v/n), farming (n)<br><br>💬 **Ví dụ:** The farmer wakes up early every morning to feed the chickens.<br>*(-> Người nông dân thức dậy sớm mỗi sáng để cho gà ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who owns or manages a farm.

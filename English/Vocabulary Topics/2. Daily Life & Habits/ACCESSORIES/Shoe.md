@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Shoe
 *noun*
 > /ʃuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Shoe::Chiếc giày *(Phát âm: /ʃuː/)* ![[shoe.mp3]]<br><br>👪 **Word Family:** Shoeless (adj)<br><br>💬 **Ví dụ:** Take off your shoes here.<br>*(-> Hãy cởi giày của bạn ở đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of a pair of coverings for your feet, usually made of a strong material such as leather.

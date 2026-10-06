@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Mentor
 *noun*
 > /ˈmentɔː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Mentor::Người hướng dẫn, người cố vấn *(Phát âm: /ˈmentɔː(r)/)* ![[mentor.mp3]]<br><br>👪 **Word Family:** mentorship (n), mentor (v)<br><br>💬 **Ví dụ:** She acted as a mentor to the new student.<br>*(-> Cô ấy đóng vai trò là người hướng dẫn cho học sinh mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An experienced and trusted adviser.

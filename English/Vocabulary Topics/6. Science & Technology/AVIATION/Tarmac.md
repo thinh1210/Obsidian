@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Tarmac
 *noun*
 > /ˈtɑː.mæk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Tarmac::Bãi đỗ máy bay / sân đỗ *(Phát âm: /ˈtɑː.mæk/)* ![[tarmac.mp3]]<br><br>👪 **Word Family:** apron (n), taxiway (n), ramp (n)<br><br>💬 **Ví dụ:** We sat on the tarmac for an hour waiting for clearance to take off.<br>*(-> Chúng tôi ngồi trên sân đỗ một tiếng chờ được phép cất cánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The paved area at an airport where aircraft park, taxi, and are loaded or unloaded.

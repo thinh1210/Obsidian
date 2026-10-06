@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Eclipse
 *noun*
 > /ɪˈklɪps/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Eclipse::Nhật thực, nguyệt thực *(Phát âm: /ɪˈklɪps/)* ![[eclipse.mp3]]<br><br>👪 **Word Family:** eclipsing (adj)<br><br>💬 **Ví dụ:** During the solar eclipse, the sky turned dark in the middle of the day.<br>*(-> Trong thời gian diễn ra nhật thực, bầu trời trở nên tối tăm ngay giữa ban ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An obscuring of the light from one celestial body by the passage of another.

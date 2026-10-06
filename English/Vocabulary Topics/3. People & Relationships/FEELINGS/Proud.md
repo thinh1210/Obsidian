@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Proud
 *adj*
 > /praʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Proud::Tự hào *(Phát âm: /praʊd/)* ![[proud.mp3]]<br><br>👪 **Word Family:** pride (n), proudly (adv)<br><br>💬 **Ví dụ:** My parents are proud of me.<br>*(-> Bố mẹ tự hào về tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling deep pleasure or satisfaction as a result of one's own achievements.

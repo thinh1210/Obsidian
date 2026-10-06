@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # spanner
 *noun*
 > /ˈspæn.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Spanner::cờ lê (tiếng Anh-Anh) *(Phát âm: /ˈspæn.ər/)* ![[spanner.mp3]]<br><br>👪 **Word Family:** Noun: spanner (cờ lê)<br><br>💬 **Ví dụ:** He used a spanner to tighten the nuts on the bicycle wheel.<br>*(-> Anh ấy đã dùng cờ lê để siết chặt các đai ốc trên bánh xe đạp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool with a shaped opening or jaw for gripping and turning a nut or bolt.

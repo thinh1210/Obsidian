@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Phenomenology
 *n.*
 > /fɪˌnɒm.ɪˈnɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Phenomenology::Hiện tượng học; triết học về trải nghiệm chủ quan *(Phát âm: /fɪˌnɒm.ɪˈnɒl.ə.dʒi/)* ![[phenomenology.mp3]]<br><br>👪 **Word Family:** phenomenological (adj.), phenomenologist (n.)<br><br>💬 **Ví dụ:** She wrote her thesis on phenomenology after studying Husserl and Merleau-Ponty.<br>*(-> Cô ấy viết luận văn về hiện tượng học sau khi nghiên cứu Husserl và Merleau-Ponty.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The philosophical study of structures of experience and consciousness, particularly as it appears to the first-person perspective.

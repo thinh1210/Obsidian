@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Engineering
 *noun*
 > /ˌendʒɪˈnɪərɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Engineering::Kỹ thuật, ngành kỹ sư *(Phát âm: /ˌendʒɪˈnɪərɪŋ/)* ![[engineering.mp3]]<br><br>👪 **Word Family:** engineer, engine<br><br>💬 **Ví dụ:** Mechanical engineering was his choice of study.<br>*(-> Ngành kỹ thuật cơ khí là lựa chọn học tập của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science and technology concerned with the design, building, and use of engines, machines, and structures.

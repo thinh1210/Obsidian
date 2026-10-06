@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Guilty
 *adjective*
 > /ˈɡɪl.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Guilty::Có tội, tội lỗi *(Phát âm: /ˈɡɪl.ti/)* ![[guilty.mp3]]<br><br>👪 **Word Family:** Guilt (n), Guilty (adj), Guiltily (adv)<br><br>💬 **Ví dụ:** She felt guilty about lying to her parents about where she had been.<br>*(-> Cô ấy cảm thấy tội lỗi vì đã nói dối bố mẹ về việc cô ấy đã đi đâu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Culpable of or responsible for a specified wrongdoing or crime.

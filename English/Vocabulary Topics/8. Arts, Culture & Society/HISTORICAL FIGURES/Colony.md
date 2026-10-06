@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Colony
 *n.*
 > /ˈɒləni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
+
+## 🗂️ Flashcard
+Colony::Thuộc địa *(Phát âm: /ˈɒləni/)* ![[colony.mp3]]<br><br>👪 **Word Family:** colonial, colonist, colonize<br><br>💬 **Ví dụ:** The country was once a British colony.<br>*(-> Đất nước này từng là thuộc địa của Anh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A country or area under the full or partial political control of another country

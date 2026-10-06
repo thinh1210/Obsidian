@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Cloud
 *Noun*
 > /klaʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Cloud::Đám mây *(Phát âm: /klaʊd/)* ![[cloud.mp3]]<br><br>👪 **Word Family:** cloudy, cloudless, cloudscape<br><br>💬 **Ví dụ:** The sun went behind a cloud.<br>*(-> Mặt trời đã đi khuất sau một đám mây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A visible mass of condensed water vapor floating in the atmosphere.

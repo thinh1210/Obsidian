@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Race
 *n.*
 > /reɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Race::Cuộc đua *(Phát âm: /reɪs/)* ![[race.mp3]]<br><br>👪 **Word Family:** racer, racing, racial<br><br>💬 **Ví dụ:** He won the 100-meter race easily.<br>*(-> Anh ấy đã chiến thắng cuộc đua 100 mét một cách dễ dàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A competition between runners, horses, vehicles, etc. to see which is the fastest.

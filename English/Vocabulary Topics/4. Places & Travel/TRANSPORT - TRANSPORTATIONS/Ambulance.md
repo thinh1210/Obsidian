@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Ambulance
 *n.*
 > /ˈæmbjələns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Ambulance::Phương tiện đặc chủng trang bị còi hú và thiết bị y tế khẩn cấp *(Phát âm: /ˈæmbjələns/)* ![[ambulance.mp3]]<br><br>👪 **Word Family:** ambulant (adj), ambulation (n)<br><br>💬 **Ví dụ:** All vehicles pulled over to allow the speeding ambulance to pass.<br>*(-> Mọi phương tiện đều tấp vào lề để nhường đường cho xe cấp cứu đang lao nhanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle equipped for taking sick or injured people to and from the hospital, especially in emergencies.

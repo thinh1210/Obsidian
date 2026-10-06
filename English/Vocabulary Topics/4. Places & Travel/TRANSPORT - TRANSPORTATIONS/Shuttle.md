@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Shuttle
 *noun*
 > /ˈʃʌtl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Shuttle::Xe đưa đón chặng ngắn khứ hồi *(Phát âm: /ˈʃʌtl/)* ![[shuttle.mp3]]<br><br>👪 **Word Family:** Noun: shuttle (xe đưa đón), Verb: shuttle (qua lại đều đặn)<br><br>💬 **Ví dụ:** There is a free shuttle bus from the hotel to the beach.<br>*(-> Có một chiếc xe buýt đưa đón miễn phí từ khách sạn ra bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of transport that travels regularly between two places.

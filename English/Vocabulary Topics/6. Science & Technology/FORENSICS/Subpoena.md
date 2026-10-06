@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Subpoena
 *noun / verb*
 > /səˈpiː.nə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
+
+## 🗂️ Flashcard
+Subpoena::Lệnh triệu tập hầu tòa / lệnh cung cấp tài liệu *(Phát âm: /səˈpiː.nə/)* ![[subpoena.mp3]]<br><br>👪 **Word Family:** subpoena (v)<br><br>💬 **Ví dụ:** He received a subpoena to appear in court next week.<br>*(-> Anh ta nhận được lệnh triệu tập ra hầu tòa tuần tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A writ ordering a person to attend a court or produce documents; to issue such an order.

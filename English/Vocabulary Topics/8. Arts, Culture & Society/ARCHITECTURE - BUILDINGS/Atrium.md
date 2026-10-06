@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Atrium
 *n.*
 > /ˈeɪtriəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Atrium::Giếng trời, sảnh trung tâm thông tầng *(Phát âm: /ˈeɪtriəm/)* ![[atrium.mp3]]<br><br>👪 **Word Family:** atrial<br><br>💬 **Ví dụ:** The hotel has a spectacular atrium filled with plants.<br>*(-> Khách sạn có một giếng trời ngoạn mục trồng đầy cây xanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A large open-roofed or glass-roofed hall at the center of a building

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Hard
 *adj.*
 > /hɑːd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Hard::Khó, cứng *(Phát âm: /hɑːd/)* ![[hard.mp3]]<br><br>👪 **Word Family:** hardness<br><br>💬 **Ví dụ:** It is hard.<br>*(-> Nó khó.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Requiring a great deal of endurance or effort

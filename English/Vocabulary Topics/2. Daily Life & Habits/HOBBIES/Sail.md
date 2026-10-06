@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Sail
 *v*
 > /seɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Sail::Chèo thuyền, đi thuyền, lái thuyền buồm *(Phát âm: /seɪl/)* ![[sail.mp3]]<br><br>👪 **Word Family:** sailing (n), sailor (n), sailboat (n)<br><br>💬 **Ví dụ:** We want to sail around the bay.<br>*(-> Chúng tôi muốn đi thuyền quanh vịnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To travel on water in a ship or boat.

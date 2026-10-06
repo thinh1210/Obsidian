@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Seed
 *n.*
 > /siːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Seed::Hạt giống *(Phát âm: /siːd/)* ![[seed.mp3]]<br><br>👪 **Word Family:** seedling (n), seedy (adj)<br><br>💬 **Ví dụ:** Put the seeds in the soil and water them daily.<br>*(-> Hãy gieo các hạt giống xuống đất và tưới nước hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small, round, or oval object produced by a plant from which a new plant can grow.

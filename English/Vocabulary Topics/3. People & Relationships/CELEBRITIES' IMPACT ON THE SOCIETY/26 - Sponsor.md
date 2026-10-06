@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Sponsor
 *n.*
 > /ˈspɒn.sər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+26 - Sponsor::Nhà tài trợ *(Phát âm: /ˈspɒn.sər/)* ![[sponsor.mp3]]<br><br>👪 **Word Family:** Sponsorship (n.)<br><br>💬 **Ví dụ:** Find a sponsor.<br>*(-> Tìm một nhà tài trợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or organization that provides funds.

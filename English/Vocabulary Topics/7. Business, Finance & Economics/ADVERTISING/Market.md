@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Market
 *noun*
 > /ˈmɑːkɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Market::Thị trường, chợ *(Phát âm: /ˈmɑːkɪt/)* ![[market.mp3]]<br><br>👪 **Word Family:** marketing (noun), marketplace (noun), marketer (noun)<br><br>💬 **Ví dụ:** She buys fresh fruit at the local market.<br>*(-> Cô ấy mua trái cây tươi ở chợ địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area or arena in which commercial dealings are conducted.

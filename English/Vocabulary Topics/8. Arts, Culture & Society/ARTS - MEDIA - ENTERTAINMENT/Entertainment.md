@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Entertainment
 *n.*
 > /ˌentəˈteɪnmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Entertainment::Sự giải trí, ngành giải trí *(Phát âm: /ˌentəˈteɪnmənt/)* ![[entertainment.mp3]]<br><br>👪 **Word Family:** entertain, entertainer, entertaining<br><br>💬 **Ví dụ:** The city offers a wide range of entertainment options.<br>*(-> Thành phố cung cấp nhiều lựa chọn giải trí đa dạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of providing or being provided with amusement or enjoyment.

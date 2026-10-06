@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Habitat
 *noun*
 > /ˈhæb.ɪ.tæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Habitat::Môi trường sống *(Phát âm: /ˈhæb.ɪ.tæt/)* ![[habitat.mp3]]<br><br>👪 **Word Family:** habitat (n), habitation (n), cohabit (v)<br><br>💬 **Ví dụ:** The wetland is a perfect habitat for ducks and herons.<br>*(-> Vùng đất ngập nước là môi trường sống hoàn hảo cho vịt và diệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural home or environment of an animal, plant, or other organism.

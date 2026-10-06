@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Often
 *adv.*
 > /ˈɒf.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Often::Thường, hay, thường xuyên lặp đi lặp lại *(Phát âm: /ˈɒf.ən/)* ![[often.mp3]]<br><br>👪 **Word Family:** oftenness (n)<br><br>💬 **Ví dụ:** How often do you visit your grandparents in the countryside?<br>*(-> Bao lâu một lần bạn về quê thăm ông bà của mình?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Many times; frequently; at short intervals.

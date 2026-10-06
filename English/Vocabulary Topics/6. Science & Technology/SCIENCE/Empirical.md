@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Empirical
 *adjective*
 > /ɪmˈpɪr.ɪ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Empirical::Thực nghiệm – dựa trên quan sát hoặc thí nghiệm thay vì lý thuyết hay logic thuần túy *(Phát âm: /ɪmˈpɪr.ɪ.kəl/)* ![[empirical.mp3]]<br><br>👪 **Word Family:** empiricism (n), empiricist (n), empirically (adv)<br><br>💬 **Ví dụ:** We need empirical proof, not just guesses, before making any claims.<br>*(-> Chúng ta cần bằng chứng thực nghiệm, không chỉ đoán mò, trước khi đưa ra khẳng định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Based on observation or experiment rather than theory or logic alone.

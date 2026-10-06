@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Litigation
 *noun*
 > /ˌlɪt.ɪˈɡeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Litigation::Sự kiện tụng, vụ tranh chấp pháp lý *(Phát âm: /ˌlɪt.ɪˈɡeɪ.ʃən/)* ![[litigation.mp3]]<br><br>👪 **Word Family:** Litigate (v), Litigation (n), Litigator (n), Litigious (adj)<br><br>💬 **Ví dụ:** The company entered into litigation with its former partner over patent rights.<br>*(-> Công ty đã bước vào cuộc kiện tụng với đối tác cũ của mình về quyền sáng chế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of taking legal action.

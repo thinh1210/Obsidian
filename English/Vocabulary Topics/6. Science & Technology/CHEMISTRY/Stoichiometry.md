@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Stoichiometry
 *noun*
 > /ˌstɔɪ.kiˈɒm.ə.tri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Stoichiometry::Phép đo tỷ lệ hợp phần, hóa học định lượng *(Phát âm: /ˌstɔɪ.kiˈɒm.ə.tri/)* ![[stoichiometry.mp3]]<br><br>👪 **Word Family:** stoichiometric (adj), stoichiometrically (adv)<br><br>💬 **Ví dụ:** Understanding stoichiometry is key to predicting product yields.<br>*(-> Hiểu hóa học định lượng là chìa khóa để dự đoán hiệu suất sản phẩm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The relationship between the relative quantities of substances taking part in a reaction or forming a compound, typically a ratio of whole integers.

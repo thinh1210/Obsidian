@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Discipline
 *noun*
 > /ˈdɪsəplɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Discipline::Kỷ luật *(Phát âm: /ˈdɪsəplɪn/)* ![[discipline.mp3]]<br><br>👪 **Word Family:** disciplinary (adj), disciplinarian (n), discipline (v)<br><br>💬 **Ví dụ:** The teacher struggled to maintain discipline in the classroom.<br>*(-> Giáo viên đã rất vất vả để duy trì kỷ luật trong lớp học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice of training people to obey rules or a code of behavior.

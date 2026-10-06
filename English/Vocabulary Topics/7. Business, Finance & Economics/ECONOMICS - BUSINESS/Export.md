@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Export
 *verb*
 > /ˈekspɔːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Export::xuất khẩu *(Phát âm: /ˈekspɔːrt/)* ![[export.mp3]]<br><br>👪 **Word Family:** exportation (noun), exporter (noun)<br><br>💬 **Ví dụ:** Vietnam is famous for exporting coffee and rice.<br>*(-> Việt Nam nổi tiếng với việc xuất khẩu cà phê và gạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to send goods or services to another country for sale.

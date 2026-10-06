@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Genome
 *noun*
 > /ˈdʒiː.nəʊm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Genome::Bộ gen *(Phát âm: /ˈdʒiː.nəʊm/)* ![[genome.mp3]]<br><br>👪 **Word Family:** genomic, genomics<br><br>💬 **Ví dụ:** Scientists mapped the entire human genome in 2003.<br>*(-> Các nhà khoa học đã lập bản đồ toàn bộ bộ gen người vào năm 2003.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The complete set of genes or genetic material present in a cell or organism.

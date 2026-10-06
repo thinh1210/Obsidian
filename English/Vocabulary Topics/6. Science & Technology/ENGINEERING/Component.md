@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Component
 *noun*
 > /kəmˈpəʊnənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Component::Thành phần, linh kiện *(Phát âm: /kəmˈpəʊnənt/)* ![[component.mp3]]<br><br>👪 **Word Family:** componency (n)<br><br>💬 **Ví dụ:** If one small electronic component fails, the entire computer might stop working.<br>*(-> Nếu một linh kiện điện tử nhỏ bị hỏng, toàn bộ máy tính có thể ngừng hoạt động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part or element of a larger whole, especially a part of a machine or vehicle.

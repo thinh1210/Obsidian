@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Application
 *n.*
 > /ˌæp.lɪˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Application::Ứng dụng máy tính hoặc di động (app) thực hiện chức năng cụ thể cho người dùng *(Phát âm: /ˌæp.lɪˈkeɪ.ʃən/)* ![[application.mp3]]<br><br>👪 **Word Family:** apply (v), applicant (n), applicable (adj)<br><br>💬 **Ví dụ:** I downloaded a language learning application to practice conversational Spanish.<br>*(-> Tôi đã tải một ứng dụng học ngôn ngữ để luyện tiếng Tây Ban Nha giao tiếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A computer program designed to do a specific job or provide a particular service for end-users.

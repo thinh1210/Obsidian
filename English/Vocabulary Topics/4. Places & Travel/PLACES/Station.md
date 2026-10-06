@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Station
 *n.*
 > /ˈsteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Station::Nhà ga / Trạm *(Phát âm: /ˈsteɪ.ʃən/)* ![[station.mp3]]<br><br>👪 **Word Family:** stationary (adj)<br><br>💬 **Ví dụ:** I am waiting at the bus station.<br>*(-> Tôi đang đợi ở bến xe buýt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where trains or buses stop.

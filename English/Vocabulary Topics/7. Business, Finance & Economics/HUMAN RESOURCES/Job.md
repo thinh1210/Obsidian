@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Job
 *n.*
 > /dʒɒb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Job::Công việc, việc làm *(Phát âm: /dʒɒb/)* ![[job.mp3]]<br><br>👪 **Word Family:** jobless<br><br>💬 **Ví dụ:** I need to find a new job.<br>*(-> Tôi cần tìm một công việc mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A regular activity performed in exchange for payment

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Acquit
 *verb*
 > /əˈkwɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Acquit::Tuyên trắng án, tha bổng *(Phát âm: /əˈkwɪt/)* ![[acquit.mp3]]<br><br>👪 **Word Family:** Acquit (v), Acquittal (n)<br><br>💬 **Ví dụ:** The jury voted to acquit the defendant of all charges due to lack of evidence.<br>*(-> Bồi thẩm đoàn đã bỏ phiếu tuyên trắng án bị cáo khỏi mọi cáo buộc do thiếu chứng cứ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free (someone) from a criminal charge by a verdict of not guilty.

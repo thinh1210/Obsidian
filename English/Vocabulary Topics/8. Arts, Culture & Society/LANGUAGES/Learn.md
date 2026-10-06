@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Learn
 *v.*
 > /lɜːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Learn::Học, học hỏi *(Phát âm: /lɜːn/)* ![[learn.mp3]]<br><br>👪 **Word Family:** learner, learning, learned<br><br>💬 **Ví dụ:** Children learn very fast.<br>*(-> Trẻ em học rất nhanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To gain knowledge or skill in a subject or activity

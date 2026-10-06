@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Protagonist
 *noun*
 > /prəˈtæɡ.ən.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Protagonist::Nhân vật chính *(Phát âm: /prəˈtæɡ.ən.ɪst/)* ![[protagonist.mp3]]<br><br>👪 **Word Family:** protagonist (n)<br><br>💬 **Ví dụ:** The protagonist of the thriller is a detective with a dark past.<br>*(-> Nhân vật chính của phim giật gân là một thám tử có quá khứ đen tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The leading character in a drama, movie, novel, or other fictional text.

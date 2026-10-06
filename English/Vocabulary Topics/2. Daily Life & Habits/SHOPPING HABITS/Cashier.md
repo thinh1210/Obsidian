@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Cashier
 *n*
 > /kæʃˈɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Cashier::Thu ngân *(Phát âm: /kæʃˈɪər/)* ![[cashier.mp3]]<br><br>👪 **Word Family:** Cash<br><br>💬 **Ví dụ:** The cashier is nice.<br>*(-> Thu ngân rất tử tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose job is to take money

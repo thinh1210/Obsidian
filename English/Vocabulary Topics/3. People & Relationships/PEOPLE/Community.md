@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Community
 *n.*
 > /kəˈmjuː.nə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Community::Cộng đồng *(Phát âm: /kəˈmjuː.nə.ti/)* ![[community.mp3]]<br><br>👪 **Word Family:** Communal<br><br>💬 **Ví dụ:** We support our community.<br>*(-> Chúng tôi hỗ trợ cộng đồng của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of people living in the same place or having a particular characteristic in common.

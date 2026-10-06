@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Insurgency
 *n*
 > /ɪnˈsɜː.dʒən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Insurgency::Cuộc nổi dậy vũ trang / phong trào phiến loạn *(Phát âm: /ɪnˈsɜː.dʒən.si/)* ![[insurgency.mp3]]<br><br>👪 **Word Family:** insurgent (n/adj), insurgence (n)<br><br>💬 **Ví dụ:** The government struggled to suppress the insurgency in the northern region.<br>*(-> Chính phủ vật lộn để trấn áp cuộc nổi dậy ở miền Bắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An active revolt or uprising against an established authority, especially a government.

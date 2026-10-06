@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Evolution
 *noun*
 > /ˌiː.vəˈluː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Evolution::Tiến hóa, sự tiến hóa *(Phát âm: /ˌiː.vəˈluː.ʃən/)* ![[evolution.mp3]]<br><br>👪 **Word Family:** evolve, evolutionary, evolutionist<br><br>💬 **Ví dụ:** The theory of evolution was proposed by Darwin.<br>*(-> Thuyết tiến hóa do Darwin đề xuất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.

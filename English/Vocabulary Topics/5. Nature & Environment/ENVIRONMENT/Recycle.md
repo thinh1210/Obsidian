@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Recycle
 *v.*
 > /ˌriːˈsaɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Recycle::Tái chế *(Phát âm: /ˌriːˈsaɪkl/)* ![[recycle.mp3]]<br><br>👪 **Word Family:** recyclable (adj), recycling (n), recycled (adj)<br><br>💬 **Ví dụ:** We should recycle paper, glass, and plastic.<br>*(-> Chúng ta nên tái chế giấy, thủy tinh và nhựa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Convert (waste) into reusable material.

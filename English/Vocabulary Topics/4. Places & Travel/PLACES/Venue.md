@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Venue
 *n.*
 > /ˈven.juː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Venue::Địa điểm tổ chức *(Phát âm: /ˈven.juː/)* ![[venue.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** We found a beautiful venue for our party.<br>*(-> Chúng tôi đã tìm thấy một địa điểm đẹp cho bữa tiệc của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where something happens, especially an organized event such as a concert, conference, or sports event.

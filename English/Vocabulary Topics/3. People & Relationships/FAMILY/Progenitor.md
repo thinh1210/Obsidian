@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Progenitor
 *noun*
 > /prəʊˈdʒen.ɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Progenitor::Tổ tiên, người khởi xướng *(Phát âm: /prəʊˈdʒen.ɪ.tər/)* ![[progenitor.mp3]]<br><br>👪 **Word Family:** progeny (n)<br><br>💬 **Ví dụ:** He is the progenitor of the modern family.<br>*(-> Ông là ông tổ của dòng họ hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who first thinks of something and causes it to happen, or an ancestor.

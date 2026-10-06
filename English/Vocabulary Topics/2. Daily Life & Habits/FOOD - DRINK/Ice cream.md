@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Ice cream
 *n.*
 > /ˌaɪs ˈkriːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Ice cream::Món kem lạnh, kem ngọt tráng miệng *(Phát âm: /ˌaɪs ˈkriːm/)* ![[ice_cream.mp3]]<br><br>💬 **Ví dụ:** The children clamored for chocolate ice cream cones on the hot summer afternoon.<br>*(-> Lũ trẻ ríu rít đòi ăn những cây kem ốc quế sô-cô-la vào buổi chiều hè oi bức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very cold, sweet food made from frozen milk and cream, flavoured with fruit, chocolate, etc.

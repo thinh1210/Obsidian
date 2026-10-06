@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Wage
 *n.*
 > /weɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Wage::Tiền công trả định kỳ theo giờ, ngày hoặc tuần làm việc thực tế *(Phát âm: /weɪdʒ/)* ![[wage.mp3]]<br><br>👪 **Word Family:** wages (pl)<br><br>💬 **Ví dụ:** Students often earn an hourly wage working at campus libraries or local cafes.<br>*(-> Sinh viên thường kiếm tiền công theo giờ khi làm việc tại thư viện trường hoặc quán cà phê địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fixed regular payment, typically paid on a daily or weekly basis, made by an employer to an employee.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Early
 *adj., adv.*
 > /ˈɜː.li/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Early::Sớm, đầu thời kỳ; đến trước giờ quy định *(Phát âm: /ˈɜː.li/)* ![[early.mp3]]<br><br>👪 **Word Family:** earliness (n)<br><br>💬 **Ví dụ:** I like to wake up early so I can exercise before heading out to work.<br>*(-> Tôi thích dậy sớm để có thể tập thể dục trước khi đi làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Near the beginning of a period of time, an event, or a day; before the expected or usual time.

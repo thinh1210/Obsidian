@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Scenery
 *n.*
 > /ˈsiːnəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Scenery::Phong cảnh *(Phát âm: /ˈsiːnəri/)* ![[scenery.mp3]]<br><br>👪 **Word Family:** Scene (n.)<br><br>💬 **Ví dụ:** The scenery here is amazing.<br>*(-> Phong cảnh ở đây thật tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural features of a landscape considered in terms of their appearance.

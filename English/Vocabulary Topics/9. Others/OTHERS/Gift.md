@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Gift
 
 *Noun*
@@ -36,3 +43,7 @@ Nhớ đến "ghíp" (gift) - món quà người ta trao nhau để giữ (keep)
 
 **Synonyms:**
 - present, donation, offering
+
+
+## 🗂️ Flashcard
+Gift::Món quà *(Phát âm: /ɡɪft/)* ![[gift.mp3]]<br><br>👪 **Word Family:** [Noun]: gift, [Verb]: gift, [Adj]: gifted<br><br>💬 **Ví dụ:** The watch was a retirement gift from his colleagues.<br>*(-> Chiếc đồng hồ là món quà nghỉ hưu từ các đồng nghiệp của anh ấy.)*

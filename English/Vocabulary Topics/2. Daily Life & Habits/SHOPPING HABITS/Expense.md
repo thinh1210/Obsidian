@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Expense
 *n.*
 > /ɪkˈspens/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Expense::Khoản tiền phải tiêu xài, chi phí tổn thất *(Phát âm: /ɪkˈspens/)* ![[expense.mp3]]<br><br>👪 **Word Family:** expensive (adj), inexpensive (adj)<br><br>💬 **Ví dụ:** Keep your restaurant receipts so the company can reimburse your business trip expenses.<br>*(-> Hãy giữ hóa đơn nhà hàng để công ty hoàn trả các khoản chi phí công tác cho bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The money that you spend on something.

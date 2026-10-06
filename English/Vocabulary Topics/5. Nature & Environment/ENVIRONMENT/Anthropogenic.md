@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Anthropogenic
 *adj.*
 > /ˌænθrəpəˈdʒenɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Anthropogenic::Do con người gây ra, nhân sinh *(Phát âm: /ˌænθrəpəˈdʒenɪk/)* ![[anthropogenic.mp3]]<br><br>👪 **Word Family:** anthropology (n), anthropologist (n)<br><br>💬 **Ví dụ:** Most of the carbon dioxide emissions are anthropogenic.<br>*(-> Hầu hết lượng phát thải khí carbon dioxide đều do con người gây ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (chiefly of environmental pollution and pollutants) originating in human activity.

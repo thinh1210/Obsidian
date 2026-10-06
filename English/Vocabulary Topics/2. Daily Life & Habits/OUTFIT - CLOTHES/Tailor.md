@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Tailor
 *noun*
 > /ˈteɪ.lɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Tailor::Thợ may *(Phát âm: /ˈteɪ.lɚ/)* ![[tailor.mp3]]<br><br>👪 **Word Family:** tailoring (n)<br><br>💬 **Ví dụ:** I had my suit made by a tailor.<br>*(-> Tôi đã nhờ thợ may may bộ vest của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose occupation is making fitted clothes such as suits, pants, and jackets to fit individual customers.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Miniature
 *adj.*
 > /ˈmɪnətʃə(r)/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Miniature::Thu nhỏ *(Phát âm: /ˈmɪnətʃə(r)/)* ![[miniature.mp3]]<br><br>👪 **Word Family:** mini<br><br>💬 **Ví dụ:** Miniature train.<br>*(-> Tàu thu nhỏ.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of a much smaller size than normal

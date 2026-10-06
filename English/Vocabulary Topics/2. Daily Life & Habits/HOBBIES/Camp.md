@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Camp
 *v*
 > /kæmp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Camp::Cắm trại *(Phát âm: /kæmp/)* ![[camp.mp3]]<br><br>👪 **Word Family:** camping (n), camper (n), campsite (n)<br><br>💬 **Ví dụ:** We are planning to camp near the lake.<br>*(-> Chúng tôi dự định cắm trại gần hồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To set up a tent and stay in it, usually for a holiday.

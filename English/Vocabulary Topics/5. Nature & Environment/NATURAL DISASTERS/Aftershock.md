@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Aftershock
 *noun*
 > /ˈɑːf.tə.ʃɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Aftershock::Dư chấn *(Phát âm: /ˈɑːf.tə.ʃɒk/)* ![[aftershock.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Residents were warned to stay outside due to the danger of aftershocks.<br>*(-> Người dân được cảnh báo nên ở bên ngoài do nguy cơ dư chấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A smaller earthquake following the main shock of a large earthquake.

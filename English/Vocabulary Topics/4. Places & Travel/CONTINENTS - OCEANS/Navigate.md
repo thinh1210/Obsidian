@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Navigate
 *verb*
 > /ˈnævɪɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
+
+## 🗂️ Flashcard
+Navigate::Điều hướng, định vị *(Phát âm: /ˈnævɪɡeɪt/)* ![[navigate.mp3]]<br><br>👪 **Word Family:** Navigation (n.), Navigator (n.)<br><br>💬 **Ví dụ:** I use my phone to navigate the city.<br>*(-> Tôi dùng điện thoại để điều hướng trong thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Plan and direct the route or course of a ship, aircraft, or other form of transportation, especially by using instruments or maps.

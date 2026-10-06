@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Window
 *noun*
 > /ˈwɪndoʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Window::Cửa sổ *(Phát âm: /ˈwɪndoʊ/)* ![[window.mp3]]<br><br>👪 **Word Family:** **Synonyms:**<br><br>💬 **Ví dụ:** Close the window, please.<br>*(-> Vui lòng đóng cửa sổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An opening in a wall or roof, fitted with glass.

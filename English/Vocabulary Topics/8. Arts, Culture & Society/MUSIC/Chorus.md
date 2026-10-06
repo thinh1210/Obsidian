@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Chorus
 *n.*
 > /ˈkɔː.rəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Chorus::Điệp khúc, dàn hợp xướng *(Phát âm: /ˈkɔː.rəs/)* ![[chorus.mp3]]<br><br>👪 **Word Family:** choral (adj), choir (n)<br><br>💬 **Ví dụ:** Everyone joined in to sing the chorus of the song.<br>*(-> Mọi người cùng tham gia hát đoạn điệp khúc của bài hát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of a song which is repeated after each verse.

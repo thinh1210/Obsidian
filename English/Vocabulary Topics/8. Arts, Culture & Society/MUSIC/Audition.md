@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Audition
 *n.*
 > /ɔːˈdɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
+
+## 🗂️ Flashcard
+Audition::Buổi thử giọng, buổi thử vai *(Phát âm: /ɔːˈdɪʃ.ən/)* ![[audition.mp3]]<br><br>👪 **Word Family:** audition (v), auditory (adj)<br><br>💬 **Ví dụ:** She was nervous before her audition for the music academy.<br>*(-> Cô ấy đã rất lo lắng trước buổi thử giọng vào học viện âm nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An interview for a role or job as a singer, actor, dancer, or musician, consisting of a practical demonstration of their candidate's suitability.

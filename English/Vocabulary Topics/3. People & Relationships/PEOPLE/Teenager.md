@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Teenager
 *n.*
 > /ˈtiːnˌeɪ.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Teenager::Thanh thiếu niên *(Phát âm: /ˈtiːnˌeɪ.dʒər/)* ![[teenager.mp3]]<br><br>👪 **Word Family:** Teenage, Teen<br><br>💬 **Ví dụ:** Teenagers love pop music.<br>*(-> Thanh thiếu niên thích nhạc pop.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person aged between 13 and 19 years.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # First aid
 *n.*
 > /ˌfɜːst ˈeɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+First aid::Các biện pháp sơ cứu cơ bản khẩn cấp trước khi có bác sĩ *(Phát âm: /ˌfɜːst ˈeɪd/)* ![[first_aid.mp3]]<br><br>👪 **Word Family:** aid (n/v)<br><br>💬 **Ví dụ:** Every household should keep a well-stocked first aid kit in an accessible place.<br>*(-> Mỗi gia đình nên có một hộp sơ cứu đầy đủ dụng cụ ở nơi dễ lấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Basic medical treatment given to someone immediately after an accident or sudden illness before full medical help arrives.

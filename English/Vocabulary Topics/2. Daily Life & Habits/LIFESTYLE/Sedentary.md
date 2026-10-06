@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Sedentary
 *adj.*
 > /ˈsɛdntri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Sedentary::Ít vận động, hay ngồi một chỗ *(Phát âm: /ˈsɛdntri/)* ![[sedentary.mp3]]<br><br>👪 **Word Family:** sedentariness (n.)<br><br>💬 **Ví dụ:** A sedentary lifestyle causes obesity.<br>*(-> Lối sống ít vận động gây béo phì.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to spend much time seated; somewhat inactive.

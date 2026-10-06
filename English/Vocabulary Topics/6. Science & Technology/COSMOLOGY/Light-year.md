@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Light-year
 *Noun*
 > /ˈlaɪt.jɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Light-year::Năm ánh sáng *(Phát âm: /ˈlaɪt.jɪər/)* ![[light_year.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The project is light-years ahead of its time.<br>*(-> Dự án này đi trước thời đại hàng năm ánh sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The distance that light travels in one year (about 9.46 trillion km).

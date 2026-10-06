@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Charisma
 *n.*
 > /kəˈrɪz.mə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+49 - Charisma::Sức hút cá nhân *(Phát âm: /kəˈrɪz.mə/)* ![[charisma.mp3]]<br><br>👪 **Word Family:** Charismatic (adj.)<br><br>💬 **Ví dụ:** She has charisma.<br>*(-> Cô ấy có sức hút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Compelling attractiveness or charm.

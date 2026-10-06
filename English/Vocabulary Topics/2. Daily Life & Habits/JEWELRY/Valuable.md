@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Valuable
 *adjective*
 > /ˈvæl.jə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
+
+## 🗂️ Flashcard
+Valuable::Có giá trị *(Phát âm: /ˈvæl.jə.bəl/)* ![[valuable.mp3]]<br><br>👪 **Word Family:** Value<br><br>💬 **Ví dụ:** This is valuable.<br>*(-> Cái này có giá trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Worth a great deal of money.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Marketing
 *noun*
 > /ˈmɑːrkɪtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Marketing::tiếp thị *(Phát âm: /ˈmɑːrkɪtɪŋ/)* ![[marketing.mp3]]<br><br>👪 **Word Family:** market (noun/verb), marketer (noun)<br><br>💬 **Ví dụ:** Social media has completely changed the way marketing is done.<br>*(-> Mạng xã hội đã thay đổi hoàn toàn cách thức tiếp thị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a job or business activity that involves encouraging people to buy a product or service.

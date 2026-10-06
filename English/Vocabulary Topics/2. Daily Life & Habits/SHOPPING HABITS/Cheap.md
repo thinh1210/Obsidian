@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Cheap
 *adj*
 > /tʃiːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Cheap::Rẻ *(Phát âm: /tʃiːp/)* ![[cheap.mp3]]<br><br>👪 **Word Family:** Cheaply<br><br>💬 **Ví dụ:** It is cheap.<br>*(-> Nó rẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Costing little money

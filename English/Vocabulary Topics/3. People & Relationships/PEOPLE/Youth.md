@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Youth
 *n.*
 > /juːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Youth::Tuổi trẻ, thanh niên *(Phát âm: /juːθ/)* ![[youth.mp3]]<br><br>👪 **Word Family:** Youthful<br><br>💬 **Ví dụ:** Youth is the best time.<br>*(-> Tuổi trẻ là thời gian đẹp nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period between childhood and adult age.

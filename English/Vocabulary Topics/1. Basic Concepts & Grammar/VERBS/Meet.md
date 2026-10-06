@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Meet
 *v., n.*
 > /miːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Meet::Gặp mặt, làm quen; đáp ứng tiêu chuẩn hoặc nhu cầu; hội ngộ *(Phát âm: /miːt/)* ![[meet.mp3]]<br><br>👪 **Word Family:** meeting (n)<br><br>💬 **Ví dụ:** Let's meet at the corner cafe at five o'clock for a quick chat and coffee.<br>*(-> Chúng ta hãy gặp nhau ở quán cà phê đầu góc phố lúc năm giờ để trò chuyện và uống cà phê nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To come together with someone deliberately or by chance; to satisfy a standard or demand.

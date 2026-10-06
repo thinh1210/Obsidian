@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Admire
 *v.*
 > /ədˈmaɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Admire::Ngưỡng mộ *(Phát âm: /ədˈmaɪər/)* ![[admire.mp3]]<br><br>👪 **Word Family:** admiration (n.)<br><br>💬 **Ví dụ:** I admire her work.<br>*(-> Tôi ngưỡng mộ công việc của cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Regard with respect or warm approval.

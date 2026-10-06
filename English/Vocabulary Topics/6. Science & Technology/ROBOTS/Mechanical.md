@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Mechanical
 *adjective.*
 > /lməˈkæn.ɪ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Mechanical::Thuộc về cơ khí, máy móc *(Phát âm: /lməˈkæn.ɪ.kəl/)* ![[mechanical.mp3]]<br><br>👪 **Word Family:** mechanic (noun), mechanics (noun)<br><br>💬 **Ví dụ:** The toy stopped working due to a mechanical problem.<br>*(-> Món đồ chơi ngừng hoạt động do một vấn đề cơ khí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Related to machines or engines

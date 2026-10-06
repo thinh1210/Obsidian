@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Component
 *noun.*
 > /kəmˈpoʊ.nənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Component::Linh kiện, thành phần *(Phát âm: /kəmˈpoʊ.nənt/)* ![[component.mp3]]<br><br>👪 **Word Family:** componentry (noun)<br><br>💬 **Ví dụ:** Each component of the robot must be checked regularly.<br>*(-> Mỗi linh kiện của robot phải được kiểm tra thường xuyên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the parts of something, especially a machine or system

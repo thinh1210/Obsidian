@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Overcoat
 *noun*
 > /ˈoʊ.vɚ.koʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Overcoat::Áo măng tô, áo khoác dài ngoài cùng *(Phát âm: /ˈoʊ.vɚ.koʊt/)* ![[overcoat.mp3]]<br><br>👪 **Word Family:** coat (n)<br><br>💬 **Ví dụ:** He wore a thick overcoat.<br>*(-> Anh ấy mặc một chiếc áo măng tô dày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A heavy coat worn over clothes in winter.

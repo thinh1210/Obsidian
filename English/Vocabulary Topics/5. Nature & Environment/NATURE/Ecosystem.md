@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Ecosystem
 *Noun*
 > /ˈiːkəʊsɪstəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Ecosystem::Hệ sinh thái *(Phát âm: /ˈiːkəʊsɪstəm/)* ![[ecosystem.mp3]]<br><br>👪 **Word Family:** ecological, ecology, ecologist<br><br>💬 **Ví dụ:** Pollution can damage the fragile ecosystem of the coral reef.<br>*(-> Ô nhiễm có thể làm hỏng hệ sinh thái nhạy cảm của rạn san hô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A biological community of interacting organisms and their physical environment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Theory
 *n.*
 > /ˈθɪə.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Theory::Lý thuyết, giả thuyết *(Phát âm: /ˈθɪə.ri/)* ![[theory.mp3]]<br><br>👪 **Word Family:** theoretical, theorist, theorize<br><br>💬 **Ví dụ:** In theory, the plan should work perfectly.<br>*(-> Trên lý thuyết, kế hoạch sẽ hoạt động hoàn hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of ideas intended to explain something.

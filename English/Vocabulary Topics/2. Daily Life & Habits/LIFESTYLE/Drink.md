@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Drink
 *v., n.*
 > /drɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Drink::Uống, đồ uống *(Phát âm: /drɪŋk/)* ![[drink.mp3]]<br><br>👪 **Word Family:** drinker (n.)<br><br>💬 **Ví dụ:** Drink more water.<br>*(-> Uống nhiều nước hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take a liquid into the mouth and swallow.

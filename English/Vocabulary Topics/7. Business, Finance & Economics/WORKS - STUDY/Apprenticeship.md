@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Apprenticeship
 *n.*
 > /əˈpren.tɪs.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Apprenticeship::Sự học việc, thời kỳ học việc *(Phát âm: /əˈpren.tɪs.ʃɪp/)* ![[apprenticeship.mp3]]<br><br>👪 **Word Family:** apprentice<br><br>💬 **Ví dụ:** He served a five-year apprenticeship with a master carpenter.<br>*(-> Anh ấy đã trải qua năm năm học việc với một thợ mộc bậc thầy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A system of training a new generation of practitioners of a trade or profession with on-the-job training

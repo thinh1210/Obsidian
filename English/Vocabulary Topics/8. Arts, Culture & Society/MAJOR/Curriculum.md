@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Curriculum
 *n.*
 > /kəˈrɪk.jʊ.ləm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Curriculum::Chương trình giảng dạy *(Phát âm: /kəˈrɪk.jʊ.ləm/)* ![[curriculum.mp3]]<br><br>👪 **Word Family:** curriculum (n), curricular (adj), extracurricular (adj)<br><br>💬 **Ví dụ:** The school updated its curriculum to include coding.<br>*(-> Trường đã cập nhật chương trình giảng dạy để bao gồm lập trình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The subjects comprising a course of study in a school or university.

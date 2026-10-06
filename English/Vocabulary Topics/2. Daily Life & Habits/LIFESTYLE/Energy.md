@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Energy
 *n.*
 > /ˈɛnədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Energy::Năng lượng *(Phát âm: /ˈɛnədʒi/)* ![[energy.mp3]]<br><br>👪 **Word Family:** energetic (adj.)<br><br>💬 **Ví dụ:** I have no energy left.<br>*(-> Tôi không còn chút năng lượng nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The strength and vitality required for sustained physical or mental activity.

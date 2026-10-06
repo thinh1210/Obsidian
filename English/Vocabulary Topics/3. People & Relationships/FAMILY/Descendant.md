@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Descendant
 *noun*
 > /dɪˈsen.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Descendant::Hậu duệ, con cháu *(Phát âm: /dɪˈsen.dənt/)* ![[descendant.mp3]]<br><br>👪 **Word Family:** descend (v), descent (n)<br><br>💬 **Ví dụ:** He is a descendant of a king.<br>*(-> Anh ấy là hậu duệ của một vị vua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is related to you and who lives after you.

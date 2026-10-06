@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Plough
 *v.*
 > /plaʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Plough::Cày ruộng, cày cấy *(Phát âm: /plaʊ/)* ![[plough.mp3]]<br><br>👪 **Word Family:** plough (n), ploughman (n)<br><br>💬 **Ví dụ:** The tractor was used to plough the soil before sowing.<br>*(-> Máy kéo được sử dụng để cày đất trước khi gieo hạt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To turn over soil with a heavy blade before planting seeds.

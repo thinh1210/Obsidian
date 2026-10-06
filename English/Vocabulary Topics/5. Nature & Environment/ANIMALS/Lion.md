@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Lion
 *noun*
 > /ˈlaɪ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Lion::Sư tử *(Phát âm: /ˈlaɪ.ən/)* ![[lion.mp3]]<br><br>👪 **Word Family:** lion (n), lioness (n), lionized (adj)<br><br>💬 **Ví dụ:** We saw a powerful lion sleeping under a tree during the safari.<br>*(-> Chúng tôi thấy một con sư tử dũng mãnh đang ngủ dưới gốc cây trong chuyến dã ngoại ngắm thú.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large wild cat of Africa and India, the male of which has a shaggy mane.

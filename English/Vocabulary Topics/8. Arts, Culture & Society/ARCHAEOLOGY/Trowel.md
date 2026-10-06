@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Trowel
 *noun*
 > /ˈtraʊəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Trowel::Cái bay (khảo cổ) *(Phát âm: /ˈtraʊəl/)* ![[trowel.mp3]]<br><br>💬 **Ví dụ:** She used a trowel to plant the flowers.<br>*(-> Cô ấy đã sử dụng một cái bay để trồng hoa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small handheld tool with a flat, pointed blade, used for digging or spreading plaster

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # War
 *noun*
 > /wɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+War::Chiến tranh, cuộc xung đột vũ trang *(Phát âm: /wɔːr/)* ![[war.mp3]]<br><br>👪 **Word Family:** warfare (n), warlike (adj), warrior (n)<br><br>💬 **Ví dụ:** Many innocent people lose their homes during a war.<br>*(-> Nhiều người dân vô tội mất nhà cửa trong thời gian xảy ra chiến tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of armed conflict between different countries or different groups within a country.

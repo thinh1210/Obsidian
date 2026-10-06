@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Concert
 *n*
 > /ˈkɒnsət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Concert::Buổi hòa nhạc *(Phát âm: /ˈkɒnsət/)* ![[concert.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I got tickets for the rock concert.<br>*(-> Tôi có vé xem buổi hòa nhạc rock.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A musical performance given in public.

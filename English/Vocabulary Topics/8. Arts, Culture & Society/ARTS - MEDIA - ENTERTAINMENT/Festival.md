@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Festival
 *n.*
 > /ˈfestɪvl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Festival::Lễ hội, liên hoan phim *(Phát âm: /ˈfestɪvl/)* ![[festival.mp3]]<br><br>👪 **Word Family:** festive, festivity<br><br>💬 **Ví dụ:** We bought tickets for the summer music festival.<br>*(-> Chúng tôi đã mua vé cho lễ hội âm nhạc mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A day or period of celebration, typically a religious one, or an organized series of concerts, plays, or movies.

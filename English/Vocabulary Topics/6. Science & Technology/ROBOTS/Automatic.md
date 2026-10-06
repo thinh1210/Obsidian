@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Automatic
 *adjective.*
 > /ˌɑː.t̬əˈmæt̬.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Automatic::Tự động *(Phát âm: /ˌɑː.t̬əˈmæt̬.ɪk/)* ![[automatic.mp3]]<br><br>👪 **Word Family:** automatically (adv), automation (noun)<br><br>💬 **Ví dụ:** The building has automatic doors at the entrance.<br>*(-> Tòa nhà có cửa tự động ở lối vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Operating by itself without human control

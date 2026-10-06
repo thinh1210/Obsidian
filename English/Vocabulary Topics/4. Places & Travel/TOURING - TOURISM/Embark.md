@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Embark
 *Verb*
 > /ɪmˈbɑːrk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Embark::Lên tàu, bắt đầu *(Phát âm: /ɪmˈbɑːrk/)* ![[embark.mp3]]<br><br>👪 **Word Family:** embarkation (n)<br><br>💬 **Ví dụ:** We embark on our new adventure tomorrow.<br>*(-> Chúng tôi bắt đầu cuộc phiêu lưu mới của mình vào ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To go onto a ship, or to start a new journey or enterprise.

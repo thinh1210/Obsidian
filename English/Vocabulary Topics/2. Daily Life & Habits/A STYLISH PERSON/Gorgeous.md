@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Gorgeous
 *adj.*
 > /ˈɡɔːrdʒəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Gorgeous::Tuyệt đẹp *(Phát âm: /ˈɡɔːrdʒəs/)* ![[gorgeous.mp3]]<br><br>👪 **Word Family:** Gorgeously (adv)<br><br>💬 **Ví dụ:** You look absolutely gorgeous in that dress.<br>*(-> Bạn trông tuyệt đẹp trong chiếc váy đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very beautiful or attractive.

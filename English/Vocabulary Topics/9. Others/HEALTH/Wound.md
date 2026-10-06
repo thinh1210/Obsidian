@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Wound
 *n*
 > /wuːnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Wound::Vết thương *(Phát âm: /wuːnd/)* ![[wound.mp3]]<br><br>👪 **Word Family:** wounded (adj)<br><br>💬 **Ví dụ:** Clean the wound thoroughly to prevent infection.<br>*(-> Rửa sạch vết thương cẩn thận để tránh nhiễm trùng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An injury to living tissue, especially one in which the skin is cut or broken.

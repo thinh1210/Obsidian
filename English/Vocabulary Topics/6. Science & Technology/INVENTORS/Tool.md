@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # tool
 *n.*
 > /tuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Tool::Công cụ, dụng cụ *(Phát âm: /tuːl/)* ![[tool.mp3]]<br><br>👪 **Word Family:** tooling (n)<br><br>💬 **Ví dụ:** A hammer is a common tool for building.<br>*(-> Búa là một công cụ phổ biến để xây dựng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hand-held object that helps you do a specific job

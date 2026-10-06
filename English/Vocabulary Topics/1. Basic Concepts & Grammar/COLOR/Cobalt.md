@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Cobalt
 *adj., n.*
 > /ˈkəʊ.bɒlt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Cobalt::Màu xanh lam đậm, sắc xanh cô-ban quý phái và sâu thẳm *(Phát âm: /ˈkəʊ.bɒlt/)* ![[cobalt.mp3]]<br><br>👪 **Word Family:** cobalt (n)<br><br>💬 **Ví dụ:** She wore an eye-catching cobalt blue evening gown to the anniversary gala.<br>*(-> Cô đã diện một chiếc đầm dạ hội màu xanh cô-ban vô cùng bắt mắt tới dạ tiệc kỷ niệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deep, intensely rich and vibrant shade of blue.

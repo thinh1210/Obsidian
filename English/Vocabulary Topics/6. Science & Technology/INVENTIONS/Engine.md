@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Engine
 *Noun*
 > /ˈen.dʒɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Engine::Động cơ *(Phát âm: /ˈen.dʒɪn/)* ![[engine.mp3]]<br><br>👪 **Word Family:** Engineer (n/v), engineering (n)<br><br>💬 **Ví dụ:** The car engine won't start in the cold.<br>*(-> Động cơ ô tô không chịu khởi động trong thời tiết lạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine that uses the energy from fuel or steam to produce movement.

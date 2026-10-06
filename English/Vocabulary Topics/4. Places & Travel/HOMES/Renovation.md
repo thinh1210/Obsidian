@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Renovation
 *noun*
 > /ˌrɛnəˈveɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Renovation::Sự cải tạo, đổi mới *(Phát âm: /ˌrɛnəˈveɪʃən/)* ![[renovation.mp3]]<br><br>👪 **Word Family:** renovate (v)<br><br>💬 **Ví dụ:** The museum is closed for renovation.<br>*(-> Bảo tàng đóng cửa để cải tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of restoring a building to a good state of repair.

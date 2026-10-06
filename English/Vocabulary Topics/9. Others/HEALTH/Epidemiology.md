@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Epidemiology
 *n*
 > /ˌepɪˌdiːmiˈɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Epidemiology::Dịch tễ học *(Phát âm: /ˌepɪˌdiːmiˈɒlədʒi/)* ![[epidemiology.mp3]]<br><br>👪 **Word Family:** epidemiologist (n), epidemiological (adj)<br><br>💬 **Ví dụ:** She decided to specialize in epidemiology to study how viruses spread.<br>*(-> Cô ấy quyết định chuyên sâu vào ngành dịch tễ học để nghiên cứu cách virus lây lan.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of medicine which deals with the incidence, distribution, and control of diseases.

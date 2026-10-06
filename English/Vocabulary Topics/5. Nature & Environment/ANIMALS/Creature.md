@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Creature
 *noun*
 > /ˈkriː.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Creature::Sinh vật, tạo vật *(Phát âm: /ˈkriː.tʃər/)* ![[creature.mp3]]<br><br>👪 **Word Family:** creature (n), create (v), creation (n), creative (adj)<br><br>💬 **Ví dụ:** Deep sea exploration has revealed strange creatures that live in total darkness.<br>*(-> Thám hiểm biển sâu đã phát hiện ra những sinh vật kỳ lạ sống trong bóng tối hoàn toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal, as distinct from a human being; a living thing.

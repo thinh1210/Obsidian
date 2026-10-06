@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Furnish
 *v.*
 > /ˈfɜːnɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Furnish::Trang bị nội thất *(Phát âm: /ˈfɜːnɪʃ/)* ![[furnish.mp3]]<br><br>👪 **Word Family:** furniture (n), furnishings (n)<br><br>💬 **Ví dụ:** It is cheaper to rent an unfurnished apartment and buy your own furniture.<br>*(-> Thuê một căn hộ không có nội thất và tự mua đồ đạc của riêng bạn sẽ rẻ hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Provide (a house or room) with furniture and fittings.

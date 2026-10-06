@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Monopoly
 *noun*
 > /əˈnɑːpəli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Monopoly::sự độc quyền, vị thế độc quyền *(Phát âm: /əˈnɑːpəli/)* ![[monopoly.mp3]]<br><br>👪 **Word Family:** monopolize (verb), monopolistic (adjective)<br><br>💬 **Ví dụ:** The government took action to stop the company from having a monopoly on internet services.<br>*(-> Chính phủ đã hành động để ngăn chặn công ty nắm giữ sự độc quyền về dịch vụ internet.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** complete control of the market supply of a product or service by one person or organization.

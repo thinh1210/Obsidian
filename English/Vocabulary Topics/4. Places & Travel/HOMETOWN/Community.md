@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Community
 *n.*
 > /kəˈmjuːnəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
+
+## 🗂️ Flashcard
+Community::Cộng đồng *(Phát âm: /kəˈmjuːnəti/)* ![[community.mp3]]<br><br>👪 **Word Family:** Communal (adj.)<br><br>💬 **Ví dụ:** We have a strong community here.<br>*(-> Chúng tôi có một cộng đồng vững mạnh ở đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of people living in the same place or having a particular characteristic in common.

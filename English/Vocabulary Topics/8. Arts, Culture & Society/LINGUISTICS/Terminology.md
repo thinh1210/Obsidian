@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Terminology
 *noun*
 > /ˌtɜː.mɪˈnɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Terminology::thuật ngữ, hệ thống thuật ngữ *(Phát âm: /ˌtɜː.mɪˈnɒl.ə.dʒi/)* ![[terminology.mp3]]<br><br>👪 **Word Family:** terminological (adj), term (n)<br><br>💬 **Ví dụ:** I found the technical terminology in the manual hard to understand.<br>*(-> Tôi thấy thuật ngữ kỹ thuật trong cuốn hướng dẫn rất khó hiểu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** special words or expressions used in relation to a particular subject or activity

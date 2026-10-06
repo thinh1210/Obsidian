@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Profit
 *noun.*
 > /ˈprɒfɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Profit::Lợi nhuận *(Phát âm: /ˈprɒfɪt/)* ![[profit.mp3]]<br><br>👪 **Word Family:** profitable (adj), profitability (noun)<br><br>💬 **Ví dụ:** The business made a small profit in its first year of operation.<br>*(-> Doanh nghiệp đã kiếm được một khoản lợi nhuận nhỏ trong năm đầu tiên hoạt động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money that you gain from a business transaction or investment after deducting expenses.

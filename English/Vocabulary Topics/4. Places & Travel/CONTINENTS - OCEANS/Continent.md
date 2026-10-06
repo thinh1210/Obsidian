@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Continent
 *noun*
 > /ˈkɒntɪnənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Continent::Châu lục, lục địa *(Phát âm: /ˈkɒntɪnənt/)* ![[continent.mp3]]<br><br>👪 **Word Family:** Continental (adj.)<br><br>💬 **Ví dụ:** Asia is the largest continent.<br>*(-> Châu Á là châu lục lớn nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the large landmasses of the earth.

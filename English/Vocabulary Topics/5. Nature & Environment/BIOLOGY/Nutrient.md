@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Nutrient
 *noun*
 > /ˈnjuː.tri.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Nutrient::Chất dinh dưỡng *(Phát âm: /ˈnjuː.tri.ənt/)* ![[nutrient.mp3]]<br><br>👪 **Word Family:** nutrition, nutritious, nutritional<br><br>💬 **Ví dụ:** Vegetables are full of essential nutrients.<br>*(-> Rau củ chứa đầy chất dinh dưỡng thiết yếu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance that provides nourishment essential for growth and the maintenance of life.

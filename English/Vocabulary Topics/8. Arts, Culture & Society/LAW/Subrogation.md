@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Subrogation
 *noun*
 > /ˌsʌbrəˈɡeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Subrogation::Quyền thay thế người được bảo hiểm để đòi lại bồi thường *(Phát âm: /ˌsʌbrəˈɡeɪʃn/)* ![[subrogation.mp3]]<br><br>👪 **Word Family:** subrogate (v), subrogee (n), subrogator (n)<br><br>💬 **Ví dụ:** After settling the claim, the insurer pursued subrogation against the at-fault driver.<br>*(-> Sau khi giải quyết yêu cầu bồi thường, công ty bảo hiểm thực hiện thế quyền đối với tài xế có lỗi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The substitution of one party for another in a legal claim, especially allowing an insurer to pursue a third party after paying a claim

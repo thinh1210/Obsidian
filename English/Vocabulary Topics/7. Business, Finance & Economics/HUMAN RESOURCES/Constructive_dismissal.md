@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Constructive dismissal
 *n.*
 > /kənˈstrʌk.tɪv dɪsˈmɪs.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Constructive_dismissal::Ép thôi việc gián tiếp (tự nghỉ do môi trường quá tệ) *(Phát âm: /kənˈstrʌk.tɪv dɪsˈmɪs.əl/)* ![[constructive_dismissal.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He successfully sued the firm for constructive dismissal after his duties were stripped.<br>*(-> Anh ấy đã kiện thành công công ty vì ép thôi việc gián tiếp sau khi bị tước bỏ mọi nhiệm vụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Resignation caused by an employer making the work environment intolerable

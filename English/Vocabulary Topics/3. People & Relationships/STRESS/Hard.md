@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Hard
 *adj.*
 > /hɑːrd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Hard::Khó khăn, vất vả *(Phát âm: /hɑːrd/)* ![[hard.mp3]]<br><br>👪 **Word Family:** hardly (adv), hardness (n)<br><br>💬 **Ví dụ:** This math problem is hard.<br>*(-> Bài toán này khó thật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Difficult to do or understand

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Helicopter
 *n.*
 > /ˈhelɪkɒptər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Helicopter::Máy bay cánh quạt quay trên nóc có thể cất hạ cánh thẳng đứng *(Phát âm: /ˈhelɪkɒptər/)* ![[helicopter.mp3]]<br><br>👪 **Word Family:** helipad (n), copter (n)<br><br>💬 **Ví dụ:** A coast guard helicopter hovered above the stormy sea to save sailors.<br>*(-> Chiếc trực thăng tuần duyên lơ lửng trên biển giông bão để cứu các thủy thủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of aircraft which derives both lift and propulsion from one or more sets of horizontally revolving rotors.

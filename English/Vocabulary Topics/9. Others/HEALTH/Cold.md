@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Cold
 *n*
 > /kəʊld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Cold::Cúm thường, cảm lạnh *(Phát âm: /kəʊld/)* ![[cold.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Keep warm or you will catch a cold.<br>*(-> Giữ ấm nếu không bạn sẽ bị cảm lạnh đấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A common infection of the nose and throat, causing you to cough and sneeze.

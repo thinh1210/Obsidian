@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Asset
 *n.*
 > /ˈæset/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Asset::Tài sản *(Phát âm: /ˈæset/)* ![[asset.mp3]]<br><br>👪 **Word Family:** assets (plural)<br><br>💬 **Ví dụ:** Buying a house is a great long-term asset.<br>*(-> Mua một ngôi nhà là một tài sản dài hạn tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something valuable belonging to a person or organization that can be used to pay debts

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Meticulous
 *adj.*
 > /məˈtɪk.jə.ləs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Meticulous::Tỉ mỉ, cẩn trọng từng chi tiết nhỏ, không bao giờ qua loa *(Phát âm: /məˈtɪk.jə.ləs/)* ![[meticulous.mp3]]<br><br>👪 **Word Family:** meticulousness (n), meticulously (adv)<br><br>💬 **Ví dụ:** The watchmaker's meticulous hands assembled the intricate gears without a single flaw.<br>*(-> Đôi bàn tay tỉ mỉ của người thợ chế tác đồng hồ đã lắp ráp các bánh răng phức tạp mà không có một tì vết nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very careful and with great attention to every detail.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Exhilarating
 *adj*
 > /ɪɡˈzɪləreɪtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Exhilarating::Làm vui vẻ, làm hồ hởi, đầy phấn khích *(Phát âm: /ɪɡˈzɪləreɪtɪŋ/)* ![[exhilarating.mp3]]<br><br>👪 **Word Family:** Exhilarate (v), Exhilaration (n)<br><br>💬 **Ví dụ:** The roller coaster ride was absolutely exhilarating.<br>*(-> Chuyến đi tàu lượn siêu tốc thực sự vô cùng phấn khích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Making one feel very happy, animated, or elated; thrilling.

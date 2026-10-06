@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Professional
 *adj.*
 > /prəˈfeʃ.ən.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Professional::Chuyên nghiệp *(Phát âm: /prəˈfeʃ.ən.əl/)* ![[professional.mp3]]<br><br>👪 **Word Family:** profession, professionalism, professionally<br><br>💬 **Ví dụ:** She became a professional tennis player at age 16.<br>*(-> Cô ấy đã trở thành một cầu thủ quần vợt chuyên nghiệp ở tuổi 16.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or belonging to a profession; engaged in a specified activity as one's main paid occupation rather than as a pastime.

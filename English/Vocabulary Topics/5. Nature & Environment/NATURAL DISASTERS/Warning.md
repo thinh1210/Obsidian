@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Warning
 *noun*
 > /ˈwɔː.nɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Warning::Sự cảnh báo, lời cảnh báo *(Phát âm: /ˈwɔː.nɪŋ/)* ![[warning.mp3]]<br><br>👪 **Word Family:** warn (v), warningly (adv)<br><br>💬 **Ví dụ:** The government issued a tsunami warning after the earthquake.<br>*(-> Chính phủ đã đưa ra cảnh báo sóng thần sau trận động đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that makes you understand there is a danger or problem.

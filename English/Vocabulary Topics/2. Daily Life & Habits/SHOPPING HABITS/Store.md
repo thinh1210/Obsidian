@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Store
 *n*
 > /stɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Store::Cửa hàng *(Phát âm: /stɔːr/)* ![[store.mp3]]<br><br>👪 **Word Family:** Storage<br><br>💬 **Ví dụ:** I go to the store.<br>*(-> Tôi đến cửa hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where things are kept for sale

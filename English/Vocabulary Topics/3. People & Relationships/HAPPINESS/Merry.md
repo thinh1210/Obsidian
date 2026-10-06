@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Merry
 *adj.*
 > /ˈmer.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Merry::Vui vẻ, hân hoan *(Phát âm: /ˈmer.i/)* ![[merry.mp3]]<br><br>👪 **Word Family:** Merriment (n), Merrily (adv)<br><br>💬 **Ví dụ:** We wish you a merry Christmas.<br>*(-> Chúng tôi chúc bạn Giáng sinh vui vẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful and lively.

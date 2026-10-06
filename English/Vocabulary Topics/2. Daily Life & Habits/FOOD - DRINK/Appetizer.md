@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Appetizer
 *n.*
 > /ˈæp.ə.taɪ.zər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Appetizer::Món khai vị *(Phát âm: /ˈæp.ə.taɪ.zər/)* ![[appetizer.mp3]]<br><br>👪 **Word Family:** appetizing<br><br>💬 **Ví dụ:** We ordered an appetizer to share.<br>*(-> Chúng tôi gọi món khai vị để chia nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small dish of food or a drink taken before a meal.

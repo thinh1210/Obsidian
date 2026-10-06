@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Explore
 *verb*
 > /ɪkˈsplɔː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
+
+## 🗂️ Flashcard
+Explore::Khám phá *(Phát âm: /ɪkˈsplɔː(r)/)* ![[explore.mp3]]<br><br>👪 **Word Family:** Exploration (n.), Explorer (n.)<br><br>💬 **Ví dụ:** We decided to explore the island.<br>*(-> Chúng tôi quyết định khám phá hòn đảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.

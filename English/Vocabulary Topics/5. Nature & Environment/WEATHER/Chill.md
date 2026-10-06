@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Chill
 *n.*
 > /tʃɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Chill::Cảm giác ớn lạnh, luồng khí lạnh buốt giá làm run rẩy *(Phát âm: /tʃɪl/)* ![[chill.mp3]]<br><br>👪 **Word Family:** chilly (adj), chilled (adj), chilliness (n)<br><br>💬 **Ví dụ:** There is a sudden chill in the evening air; grab your woolen sweater.<br>*(-> Có luồng khí lạnh đột ngột trong không khí ban tối; lấy áo len mặc vào đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An unpleasant feeling of coldness in the atmosphere or body.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Scrapbooking
 *noun*
 > /ˈskræpˌbʊkɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Scrapbooking::Thú vui làm sổ lưu niệm *(Phát âm: /ˈskræpˌbʊkɪŋ/)* ![[scrapbooking.mp3]]<br><br>👪 **Word Family:** Scrapbook (n/v), Scrapbooker (n)<br><br>💬 **Ví dụ:** Scrapbooking allows me to preserve family memories in a creative way.<br>*(-> Làm sổ lưu niệm cho phép tôi lưu giữ những kỷ niệm gia đình một cách sáng tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The hobby of creating and decorating albums with photographs, clippings, and journals.

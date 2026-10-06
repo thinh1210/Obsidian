@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Perpetrator
 *noun*
 > /ˈpɜːpətreɪtə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Perpetrator::Thủ phạm, kẻ thủ ác *(Phát âm: /ˈpɜːpətreɪtə(r)/)* ![[perpetrator.mp3]]<br><br>👪 **Word Family:** perpetrate (v), perpetration (n)<br><br>💬 **Ví dụ:** The police are still searching for the perpetrator of the assault.<br>*(-> Cảnh sát vẫn đang tìm kiếm thủ phạm của vụ hành hung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who carries out a harmful, illegal, or immoral act

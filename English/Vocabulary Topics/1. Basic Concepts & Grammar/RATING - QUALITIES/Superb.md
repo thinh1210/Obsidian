@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Superb
 *adj*
 > /suːˈpɜːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Superb::Tuyệt hảo *(Phát âm: /suːˈpɜːb/)* ![[superb.mp3]]<br><br>👪 **Word Family:** Superbly (adv)<br><br>💬 **Ví dụ:** The actors gave a superb performance.<br>*(-> Các diễn viên đã trình diễn vô cùng tuyệt hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Excellent; of the highest quality.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Adulation
 *n.*
 > /ˌædʒuˈleɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Adulation::Sự tung hô quá đà *(Phát âm: /ˌædʒuˈleɪʃn/)* ![[adulation.mp3]]<br><br>👪 **Word Family:** adulate (v.)<br><br>💬 **Ví dụ:** He enjoyed the adulation of his fans.<br>*(-> Anh ấy tận hưởng sự tung hô của người hâm mộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Obsequious flattery; excessive admiration or praise.

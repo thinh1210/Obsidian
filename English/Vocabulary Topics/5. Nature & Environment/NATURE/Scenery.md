@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Scenery
 *n.*
 > /ˈsiːnəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Scenery::Phong cảnh, cảnh sắc thiên nhiên hữu tình bao quát từ núi non, sông suối đến mây trời *(Phát âm: /ˈsiːnəri/)* ![[scenery.mp3]]<br><br>👪 **Word Family:** scenic (adj), scenically (adv)<br><br>💬 **Ví dụ:** Passengers gazed out of the train windows, admiring the spectacular alpine scenery.<br>*(-> Hành khách say sưa nhìn qua khung cửa sổ tàu hỏa, trầm trồ ngắm cảnh sắc núi non tráng lệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural features of a landscape considered in terms of their appearance, especially when picturesque.

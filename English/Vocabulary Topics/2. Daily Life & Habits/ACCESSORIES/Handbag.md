@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Handbag
 *noun*
 > /ˈhændbæɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
+
+## 🗂️ Flashcard
+Handbag::Túi xách nữ *(Phát âm: /ˈhændbæɡ/)* ![[handbag.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She left her handbag in the restaurant.<br>*(-> Cô ấy để quên túi xách trong nhà hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small bag for money, keys, make-up, etc., carried especially by women.

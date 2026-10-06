@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Assure
 *v.*
 > /əˈʃʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Assure::Cam đoan, bảo đảm *(Phát âm: /əˈʃʊər/)* ![[assure.mp3]]<br><br>👪 **Word Family:** assurance, assured, assuredly<br><br>💬 **Ví dụ:** The agent assured me that my policy is active.<br>*(-> Người đại lý cam đoan với tôi rằng hợp đồng của tôi đang có hiệu lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Tell someone something positively or confidently to dispel any doubts they may have.

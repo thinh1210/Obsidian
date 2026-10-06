@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Diamond
 *noun*
 > /ˈdaɪə.mənd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Diamond::Kim cương *(Phát âm: /ˈdaɪə.mənd/)* ![[diamond.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** It is a real diamond.<br>*(-> Đó là một viên kim cương thật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious stone consisting of clear carbon.

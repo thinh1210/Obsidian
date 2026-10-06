@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Bond
 *n.*
 > /bɒnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Bond::Mối liên kết tình cảm keo sơn, sự gắn bó sâu sắc giữa người thân *(Phát âm: /bɒnd/)* ![[bond.mp3]]<br><br>👪 **Word Family:** bonding (n), bonded (adj)<br><br>💬 **Ví dụ:** Eating dinner together every evening helped strengthen the bond between parents and children.<br>*(-> Cùng nhau ăn tối mỗi tối đã giúp củng cố mối gắn kết giữa cha mẹ và con cái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A close emotional connection that joins family members together.

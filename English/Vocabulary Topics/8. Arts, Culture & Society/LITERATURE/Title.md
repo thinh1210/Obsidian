@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Title
 *noun*
 > /ˈtaɪ.təl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Title::Tiêu đề, tựa đề *(Phát âm: /ˈtaɪ.təl/)* ![[title.mp3]]<br><br>👪 **Word Family:** titled (adj), subtitle (n/v), entitle (v)<br><br>💬 **Ví dụ:** What is the title of the book you are reading?<br>*(-> Tựa đề của cuốn sách bạn đang đọc là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The name of a book, composition, or other artistic work.

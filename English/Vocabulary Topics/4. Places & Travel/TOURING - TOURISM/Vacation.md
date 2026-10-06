@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Vacation
 *Noun*
 > /veɪˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Vacation::Kỳ nghỉ *(Phát âm: /veɪˈkeɪ.ʃən/)* ![[vacation.mp3]]<br><br>👪 **Word Family:** vacationer (n)<br><br>💬 **Ví dụ:** We are planning a vacation in Hawaii.<br>*(-> Chúng tôi đang lên kế hoạch cho một kỳ nghỉ ở Hawaii.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A time when someone does not go to work or school but is free to do what they want, such as travel or relax.

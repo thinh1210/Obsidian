@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # implement
 *noun*
 > /ˈɪm.plɪ.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
+
+## 🗂️ Flashcard
+Implement::công cụ, dụng cụ (thường là nông nghiệp hoặc y tế) *(Phát âm: /ˈɪm.plɪ.mənt/)* ![[implement.mp3]]<br><br>👪 **Word Family:** Noun: implement (dụng cụ), implementation (sự thực thi), Verb: implement (thực thi, áp dụng)<br><br>💬 **Ví dụ:** Stone implements from the Bronze Age were found in the cave.<br>*(-> Các dụng cụ bằng đá từ thời kỳ đồ đồng được tìm thấy trong hang động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool, utensil, or other piece of equipment, especially used for a particular purpose.

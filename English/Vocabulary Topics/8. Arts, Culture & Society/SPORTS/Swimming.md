@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Swimming
 *n.*
 > /ˈswɪm.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Swimming::Môn thể thao bơi lội dưới nước rèn luyện toàn diện cơ thể *(Phát âm: /ˈswɪm.ɪŋ/)* ![[swimming.mp3]]<br><br>👪 **Word Family:** swim (v), swimmer (n), swimwear (n)<br><br>💬 **Ví dụ:** Swimming is a great low-impact aerobic exercise that builds core stamina without straining joints.<br>*(-> Bơi lội là bài tập hiếu khí ít va chạm tuyệt vời giúp tăng sức bền mà không gây áp lực lên khớp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or activity of propelling oneself through water using the limbs.

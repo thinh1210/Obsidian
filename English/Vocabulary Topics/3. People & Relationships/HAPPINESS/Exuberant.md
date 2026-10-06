@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Exuberant
 *adj.*
 > /ɪɡˈzjuː.bər.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Exuberant::Tràn đầy năng lượng, hồ hởi *(Phát âm: /ɪɡˈzjuː.bər.ənt/)* ![[exuberant.mp3]]<br><br>👪 **Word Family:** Exuberance (n)<br><br>💬 **Ví dụ:** She has an exuberant personality.<br>*(-> Cô ấy có một tính cách tràn đầy sức sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Filled with or characterized by a lively energy and excitement.

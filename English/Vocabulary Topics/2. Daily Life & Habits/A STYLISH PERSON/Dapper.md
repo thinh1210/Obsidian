@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Dapper
 *adj.*
 > /ˈdæpər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Dapper::Bảnh bao, chải chuốt (dành cho nam giới) *(Phát âm: /ˈdæpər/)* ![[dapper.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He looked very dapper in his dark suit.<br>*(-> Anh ấy trông rất bảnh bao trong bộ vest tối màu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Neat and trim in dress, appearance, or bearing (usually used for men).

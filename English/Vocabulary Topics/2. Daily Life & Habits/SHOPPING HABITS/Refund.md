@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Refund
 *n/v*
 > /ˈriː.fʌnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Refund::Hoàn tiền *(Phát âm: /ˈriː.fʌnd/)* ![[refund.mp3]]<br><br>👪 **Word Family:** Refundable<br><br>💬 **Ví dụ:** I want a refund.<br>*(-> Tôi muốn hoàn tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money returned to you

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Storm
 *noun*
 > /stɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Storm::Cơn bão, giông bão *(Phát âm: /stɔːm/)* ![[storm.mp3]]<br><br>👪 **Word Family:** Stormy (adj), storm (verb)<br><br>💬 **Ví dụ:** The storm damaged several trees in the park.<br>*(-> Cơn bão đã làm hư hại vài cái cây trong công viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extreme weather with heavy rain, strong winds, and often thunder

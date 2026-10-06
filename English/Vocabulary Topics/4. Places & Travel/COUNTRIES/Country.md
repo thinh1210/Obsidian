@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Country
 *Noun*
 > /ˈkʌntri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Country::Quốc gia, đất nước *(Phát âm: /ˈkʌntri/)* ![[country.mp3]]<br><br>👪 **Word Family:** Countless<br><br>💬 **Ví dụ:** I want to visit a new country.<br>*(-> Tôi muốn đến thăm một đất nước mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A nation with its own government, occupying a particular territory.

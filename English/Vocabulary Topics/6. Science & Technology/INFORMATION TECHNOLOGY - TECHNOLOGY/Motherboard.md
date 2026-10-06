@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Motherboard
 *n.*
 > /ˈmʌðərbɔːrd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Motherboard::Bo mạch chủ *(Phát âm: /ˈmʌðərbɔːrd/)* ![[motherboard.mp3]]<br><br>👪 **Word Family:** Board (n.)<br><br>💬 **Ví dụ:** I carefully installed the CPU into the motherboard.<br>*(-> Tôi cẩn thận lắp CPU vào bo mạch chủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A printed circuit board containing the principal components of a computer or other device.

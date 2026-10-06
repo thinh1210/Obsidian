@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Gray
 *adj, n*
 > /ɡreɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Gray::Màu xám *(Phát âm: /ɡreɪ/)* ![[gray.mp3]]<br><br>👪 **Word Family:** grayness (n), grayish (adj)<br><br>💬 **Ví dụ:** The sky is gray; it might rain.<br>*(-> Trời xám xịt; có thể sẽ mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A color between black and white.

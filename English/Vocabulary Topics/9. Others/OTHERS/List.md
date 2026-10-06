@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # List
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - record, catalog, register
+
+
+## 🗂️ Flashcard
+List::Danh sách *(Phát âm: /lɪst/)* ![[list.mp3]]<br><br>👪 **Word Family:** [Noun]: list, [Verb]: list, [Adj]: listed<br><br>💬 **Ví dụ:** Make a shopping list before you go to the supermarket.<br>*(-> Hãy lập một danh sách mua sắm trước khi bạn đi siêu thị.)*

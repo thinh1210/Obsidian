@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Impeachment
 *n*
 > /ɪmˈpiːtʃ.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Impeachment::Luận tội / đàn hặc *(Phát âm: /ɪmˈpiːtʃ.mənt/)* ![[impeachment.mp3]]<br><br>👪 **Word Family:** impeach (v), impeachable (adj)<br><br>💬 **Ví dụ:** Many citizens were glued to the TV during the impeachment hearings.<br>*(-> Nhiều công dân dán mắt vào TV trong các phiên điều trần luận tội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of charging a public official with misconduct in office.

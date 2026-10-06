@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Beer
 *n.*
 > /bɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Beer::Đồ uống có cồn lên men từ lúa mạch, bia *(Phát âm: /bɪər/)* ![[beer.mp3]]<br><br>👪 **Word Family:** brew (v), brewery (n)<br><br>💬 **Ví dụ:** They relaxed with a cold beer after finishing their yard work.<br>*(-> Họ thư giãn với một cốc bia lạnh sau khi làm xong việc vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An alcoholic drink made from grain and hops, often effervescent.

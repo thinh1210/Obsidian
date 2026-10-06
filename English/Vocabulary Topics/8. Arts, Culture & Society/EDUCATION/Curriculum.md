@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Curriculum
 *n.*
 > /kəˈrɪkjələm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Curriculum::Chương trình giảng dạy, khung chương trình học *(Phát âm: /kəˈrɪkjələm/)* ![[curriculum.mp3]]<br><br>👪 **Word Family:** curricula, extracurricular<br><br>💬 **Ví dụ:** Spanish is now part of the school curriculum.<br>*(-> Tiếng Tây Ban Nha giờ đây là một phần trong chương trình giảng dạy của trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The subjects comprising a course of study in a school or college

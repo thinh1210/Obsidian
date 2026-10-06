@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Airport
 *Noun*
 > /ˈɛrpɔrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Airport::Sân bay *(Phát âm: /ˈɛrpɔrt/)* ![[airport.mp3]]<br><br>👪 **Word Family:** airfield (n)<br><br>💬 **Ví dụ:** We arrived at the airport early.<br>*(-> Chúng tôi đến sân bay sớm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where airplanes take off and land.

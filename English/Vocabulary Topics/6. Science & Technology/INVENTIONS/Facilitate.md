@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Facilitate
 *Verb*
 > /fəˈsɪl.ɪ.teɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Facilitate::Tạo điều kiện thuận lợi, làm cho dễ dàng hơn *(Phát âm: /fəˈsɪl.ɪ.teɪt/)* ![[facilitate.mp3]]<br><br>👪 **Word Family:** Facilitation (n), facilitator (n)<br><br>💬 **Ví dụ:** The new app facilitates sharing files between devices.<br>*(-> Ứng dụng mới giúp việc chia sẻ tệp giữa các thiết bị trở nên dễ dàng hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something possible or easier.

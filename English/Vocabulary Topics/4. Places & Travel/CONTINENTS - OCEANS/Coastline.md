@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Coastline
 *noun*
 > /ˈkəʊstlaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
+
+## 🗂️ Flashcard
+Coastline::Đường bờ biển *(Phát âm: /ˈkəʊstlaɪn/)* ![[coastline.mp3]]<br><br>👪 **Word Family:** Coastal (adj.), Coast (n.)<br><br>💬 **Ví dụ:** We drove along the beautiful coastline.<br>*(-> Chúng tôi lái xe dọc theo đường bờ biển tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outline of a coast, especially with regard to its shape and appearance.

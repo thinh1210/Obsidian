@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Soul
 *n.*
 > /səʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Soul::Linh hồn, tâm hồn *(Phát âm: /səʊl/)* ![[soul.mp3]]<br><br>👪 **Word Family:** soulless, soulful<br><br>💬 **Ví dụ:** Music is food for the soul.<br>*(-> Âm nhạc là thức ăn cho tâm hồn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The spiritual or immaterial part of a human being or animal.

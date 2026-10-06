@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Reason
 *n.*
 > /ˈriː.zən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Reason::Lý do, lý tính, lẽ phải *(Phát âm: /ˈriː.zən/)* ![[reason.mp3]]<br><br>👪 **Word Family:** reasonable, reasoning, rationalize<br><br>💬 **Ví dụ:** What was the reason for your absence yesterday?<br>*(-> Lý do cho sự vắng mặt của bạn ngày hôm qua là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cause, explanation, or justification for an action or event.

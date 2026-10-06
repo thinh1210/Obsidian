@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Extracurricular
 *adj.*
 > /ˌek.strə.kəˈrɪk.jʊ.lər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Extracurricular::Ngoại khóa, hoạt động ngoài chương trình học *(Phát âm: /ˌek.strə.kəˈrɪk.jʊ.lər/)* ![[extracurricular.mp3]]<br><br>👪 **Word Family:** extracurricular (adj), curricular (adj), curriculum (n)<br><br>💬 **Ví dụ:** I joined the debate club as an extracurricular activity.<br>*(-> Tôi tham gia câu lạc bộ tranh luận như một hoạt động ngoại khóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to activities done at school or university in addition to regular coursework.

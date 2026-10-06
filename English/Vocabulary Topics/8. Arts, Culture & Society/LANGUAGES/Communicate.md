@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Communicate
 *v.*
 > /kəˈmjuːnɪkeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Communicate::Giao tiếp, truyền đạt *(Phát âm: /kəˈmjuːnɪkeɪt/)* ![[communicate.mp3]]<br><br>👪 **Word Family:** communication, communicative, communicator<br><br>💬 **Ví dụ:** We communicate mostly by email.<br>*(-> Chúng tôi giao tiếp chủ yếu qua email.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To share or exchange information, news, or ideas

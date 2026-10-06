@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Decipher
 *v.*
 > /dɪˈsaɪfə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Decipher::Giải mã, dịch mã *(Phát âm: /dɪˈsaɪfə(r)/)* ![[decipher.mp3]]<br><br>👪 **Word Family:** decipherable, decipherment<br><br>💬 **Ví dụ:** I cannot decipher his messy handwriting.<br>*(-> Tôi không thể đọc được chữ viết tay cẩu thả của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To convert a text written in code, or a difficult handwriting, into normal language

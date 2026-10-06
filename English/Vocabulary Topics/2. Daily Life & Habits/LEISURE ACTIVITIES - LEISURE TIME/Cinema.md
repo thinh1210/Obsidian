@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Cinema
 *n.*
 > /ˈsɪn.ə.mə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Cinema::Rạp chiếu bóng, rạp chiếu phim *(Phát âm: /ˈsɪn.ə.mə/)* ![[cinema.mp3]]<br><br>👪 **Word Family:** cinematic (adj), cinematographer (n)<br><br>💬 **Ví dụ:** We love going to the cinema on Friday nights to catch the latest superhero releases.<br>*(-> Chúng tôi rất thích đi rạp chiếu phim vào tối Thứ Sáu để xem các bộ phim siêu anh hùng mới nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A theatre where films are shown for public entertainment.

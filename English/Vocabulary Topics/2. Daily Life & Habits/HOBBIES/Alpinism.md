@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Alpinism
 *noun*
 > /ˈælpɪnɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Alpinism::Môn leo núi cao (đặc biệt là dãy Alps) *(Phát âm: /ˈælpɪnɪzəm/)* ![[alpinism.mp3]]<br><br>👪 **Word Family:** Alpinist (n)<br><br>💬 **Ví dụ:** He took up alpinism as a way to challenge himself physically.<br>*(-> Anh ấy bắt đầu môn leo núi như một cách để thử thách bản thân về mặt thể chất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The sport or activity of climbing high mountains, especially the Alps.

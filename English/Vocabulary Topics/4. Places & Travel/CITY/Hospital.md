@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Hospital
 *n.*
 > /ˈhɒspɪtl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Hospital::Bệnh viện *(Phát âm: /ˈhɒspɪtl/)* ![[hospital.mp3]]<br><br>👪 **Word Family:** hospitalize (v)<br><br>💬 **Ví dụ:** He is in the hospital.<br>*(-> Anh ấy đang ở trong bệnh viện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where sick people are treated.

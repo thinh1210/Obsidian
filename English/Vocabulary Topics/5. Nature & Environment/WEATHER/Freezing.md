@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Freezing
 *adj.*
 > /ˈfriːzɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Freezing::Lạnh giá, buốt, đóng băng *(Phát âm: /ˈfriːzɪŋ/)* ![[freezing.mp3]]<br><br>👪 **Word Family:** Freeze (verb), frozen (adj), freezer (noun)<br><br>💬 **Ví dụ:** It's freezing outside, so put on your gloves.<br>*(-> Ngoài trời lạnh buốt lắm, hãy đeo găng tay vào đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely cold; at the temperature where water turns to ice

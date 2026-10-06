@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Indigenous
 *adj.*
 > /ɪnˈdɪdʒ.ɪ.nəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
+
+## 🗂️ Flashcard
+Indigenous::Bản địa *(Phát âm: /ɪnˈdɪdʒ.ɪ.nəs/)* ![[indigenous.mp3]]<br><br>👪 **Word Family:** indigenize, indigenization<br><br>💬 **Ví dụ:** They sell crafts made by indigenous artists.<br>*(-> Họ bán đồ thủ công do các nghệ sĩ bản địa làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Originating or occurring naturally in a particular place; native.

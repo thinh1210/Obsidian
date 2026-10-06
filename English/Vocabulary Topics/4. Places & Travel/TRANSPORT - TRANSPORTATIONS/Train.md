@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Train
 *noun*
 > /treɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Train::Tàu hỏa *(Phát âm: /treɪn/)* ![[train.mp3]]<br><br>👪 **Word Family:** Noun: train (tàu hỏa), Verb: train (đào tạo, huấn luyện)<br><br>💬 **Ví dụ:** We went to Hanoi by train yesterday.<br>*(-> Chúng tôi đã đi Hà Nội bằng tàu hỏa ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of connected railway carriages or wagons moved by a locomotive.

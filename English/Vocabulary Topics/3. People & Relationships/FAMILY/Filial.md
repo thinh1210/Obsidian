@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Filial
 *adj*
 > /ˈfɪl.i.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Filial::Đạo làm con *(Phát âm: /ˈfɪl.i.əl/)* ![[filial.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He acts out of filial duty.<br>*(-> Anh ấy hành động vì bổn phận làm con.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of a son or daughter.

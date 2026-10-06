@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Symbolism
 *noun*
 > /ˈsɪm.bəl.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Symbolism::Chủ nghĩa tượng trưng, tính tượng trưng *(Phát âm: /ˈsɪm.bəl.ɪ.zəm/)* ![[symbolism.mp3]]<br><br>👪 **Word Family:** symbol (n), symbolize (v), symbolic (adj), symbolically (adv)<br><br>💬 **Ví dụ:** The green light in the novel is rich in symbolism representing hope.<br>*(-> Ánh sáng xanh trong cuốn tiểu thuyết giàu tính tượng trưng đại diện cho hy vọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The use of symbols to represent ideas or qualities, giving deep symbolic meaning.

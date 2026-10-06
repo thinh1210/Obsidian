@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Manager
 *n.*
 > /ˈmæn.ɪ.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Manager::Quản lý, trưởng phòng *(Phát âm: /ˈmæn.ɪ.dʒər/)* ![[manager.mp3]]<br><br>👪 **Word Family:** manage, management, managerial<br><br>💬 **Ví dụ:** I need to speak with the store manager.<br>*(-> Tôi cần nói chuyện với người quản lý cửa hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person responsible for controlling or administering an organization or staff

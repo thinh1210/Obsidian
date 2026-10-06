@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # quirk
 *n.*
 > /kwɜːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Quirk::Sự kỳ quặc, tật kỳ lạ, sự ngẫu nhiên kỳ lạ *(Phát âm: /kwɜːk/)* ![[quirk.mp3]]<br><br>👪 **Word Family:** quirky (adj), quirkiness (n)<br><br>💬 **Ví dụ:** Everyone has their own little quirks.<br>*(-> Ai cũng có những thói quen kỳ quặc nhỏ của riêng mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A peculiar behavioral habit or an unexpected twist of fate/circumstance

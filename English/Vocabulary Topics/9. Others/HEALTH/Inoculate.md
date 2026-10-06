@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Inoculate
 *v*
 > /ɪˈnɒkjuleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Inoculate::Tiêm chủng, chủng ngừa *(Phát âm: /ɪˈnɒkjuleɪt/)* ![[inoculate.mp3]]<br><br>👪 **Word Family:** inoculation (n), inoculator (n)<br><br>💬 **Ví dụ:** Children are inoculated against measles, mumps, and rubella.<br>*(-> Trẻ em được tiêm chủng ngừa bệnh sởi, quai bị và rubella.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Treat with a vaccine to produce immunity against a disease; immunize.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Punctual
 *adj*
 > /ˈpʌŋktʃuəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Punctual::Đúng giờ *(Phát âm: /ˈpʌŋktʃuəl/)* ![[punctual.mp3]]<br><br>👪 **Word Family:** punctuality (n)<br><br>💬 **Ví dụ:** Please be punctual for the interview.<br>*(-> Vui lòng đến đúng giờ để phỏng vấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Happening or doing something at the agreed or proper time.

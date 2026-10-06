@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Rainbow
 *noun*
 > /ˈreɪnbəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Rainbow::Cầu vồng *(Phát âm: /ˈreɪnbəʊ/)* ![[rainbow.mp3]]<br><br>👪 **Word Family:** Rainbow-colored (adj)<br><br>💬 **Ví dụ:** Children ran outside to look at the colorful rainbow.<br>*(-> Trẻ em chạy ra ngoài để ngắm nhìn chiếc cầu vồng đầy màu sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arch of colors in the sky formed by the refraction of sun's light in rain

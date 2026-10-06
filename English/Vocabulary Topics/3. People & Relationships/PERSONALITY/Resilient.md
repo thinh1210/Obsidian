@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Resilient
 *adj.*
 > /rɪˈzɪl.i.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Resilient::Kiên cường, quật cường, phục hồi nhanh sau nghịch cảnh thất bại *(Phát âm: /rɪˈzɪl.i.ənt/)* ![[resilient.mp3]]<br><br>👪 **Word Family:** resilience (n), resiliently (adv)<br><br>💬 **Ví dụ:** Children are remarkably resilient and adapt to new cultures faster than adults.<br>*(-> Trẻ em kiên cường và thích nghi với văn hóa mới nhanh hơn nhiều so với người lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to be happy, successful, etc. again after something difficult or bad has happened.

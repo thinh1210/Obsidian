@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Feedback
 *n.*
 > /ˈfiːd.bæk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Feedback::Thông tin phản hồi, lời nhận xét đánh giá để cải thiện kết quả học tập *(Phát âm: /ˈfiːd.bæk/)* ![[feedback.mp3]]<br><br>👪 **Word Family:** feed (v)<br><br>💬 **Ví dụ:** The professor wrote detailed constructive feedback in the margins of my research paper.<br>*(-> Giáo sư đã viết những nhận xét mang tính xây dựng chi tiết bên lề bài nghiên cứu của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Information about reactions to a person's performance of a task, used as a basis for improvement.

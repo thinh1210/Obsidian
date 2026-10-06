@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Barn
 *n.*
 > /bɑːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Barn::Kho thóc, chuồng gia súc (lớn) *(Phát âm: /bɑːn/)* ![[barn.mp3]]<br><br>👪 **Word Family:** barnyard (n)<br><br>💬 **Ví dụ:** The kids like playing in the hay in the barn.<br>*(-> Lũ trẻ thích chơi đùa trong đống cỏ khô trong kho thóc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large farm building used for storing grain, hay, or housing livestock.

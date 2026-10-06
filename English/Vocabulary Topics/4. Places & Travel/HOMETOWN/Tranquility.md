@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Tranquility
 *n.*
 > /træŋˈkwɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Tranquility::Sự yên bình *(Phát âm: /træŋˈkwɪləti/)* ![[tranquility.mp3]]<br><br>👪 **Word Family:** Tranquil (adj.)<br><br>💬 **Ví dụ:** I love the tranquility of my hometown.<br>*(-> Tôi yêu sự yên bình của quê hương mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being tranquil; calm.

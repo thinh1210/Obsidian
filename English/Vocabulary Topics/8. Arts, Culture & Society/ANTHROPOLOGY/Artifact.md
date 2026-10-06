@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Artifact
 *n.*
 > /ˈɑː.tə.fækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Artifact::Cổ vật, hiện vật *(Phát âm: /ˈɑː.tə.fækt/)* ![[artifact.mp3]]<br><br>👪 **Word Family:** artifactual<br><br>💬 **Ví dụ:** The museum has a collection of ancient Roman artifacts.<br>*(-> Bảo tàng có một bộ sưu tập các cổ vật La Mã cổ đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object made by a human being, typically an item of cultural or historical interest.

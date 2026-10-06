@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Numismatics
 *noun*
 > /ˌnjuːmɪzˈmætɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Numismatics::Thú sưu tầm và nghiên cứu tiền xu, tiền giấy *(Phát âm: /ˌnjuːmɪzˈmætɪks/)* ![[numismatics.mp3]]<br><br>👪 **Word Family:** Numismatist (n), Numismatic (adj)<br><br>💬 **Ví dụ:** Numismatics allows me to learn about history through coins.<br>*(-> Sưu tầm tiền xu giúp tôi học về lịch sử thông qua các đồng xu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study or collection of coins, paper money, and medals.

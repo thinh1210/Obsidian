@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Algorithmic
 *adj*
 > /ˌæl.ɡəˈrɪð.mɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Algorithmic::Thuộc về thuật toán, sử dụng thuật toán *(Phát âm: /ˌæl.ɡəˈrɪð.mɪk/)* ![[algorithmic.mp3]]<br><br>👪 **Word Family:** Algorithm (n)<br><br>💬 **Ví dụ:** The app uses an algorithmic approach to suggest music.<br>*(-> Ứng dụng này sử dụng phương pháp thuật toán để đề xuất âm nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or using an algorithm (a set of mathematical instructions or rules).

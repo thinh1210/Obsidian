@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Intermittent
 *adj*
 > /ˌɪntəˈmɪtənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Intermittent::Gián đoạn, lác đác *(Phát âm: /ˌɪntəˈmɪtənt/)* ![[intermittent.mp3]]<br><br>👪 **Word Family:** intermittently (adv)<br><br>💬 **Ví dụ:** We had intermittent showers all day.<br>*(-> Chúng tôi có những cơn mưa rào ngắt quãng cả ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring at irregular intervals; not continuous or steady.

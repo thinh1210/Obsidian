@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Hibernation
 *noun*
 > /ˌhaɪ.bəˈneɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Hibernation::Sự ngủ đông *(Phát âm: /ˌhaɪ.bəˈneɪ.ʃən/)* ![[hibernation.mp3]]<br><br>👪 **Word Family:** hibernation (n), hibernate (v)<br><br>💬 **Ví dụ:** Bears go into deep hibernation during the coldest months of winter.<br>*(-> Gấu chìm vào giấc ngủ đông sâu trong những tháng lạnh nhất của mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of inactivity and metabolic depression in endotherms during winter.

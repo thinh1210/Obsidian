@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Strenuous
 *adj*
 > /ˈstrenjuəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Strenuous::Căng thẳng, vất vả, đòi hỏi nhiều sức lực *(Phát âm: /ˈstrenjuəs/)* ![[strenuous.mp3]]<br><br>👪 **Word Family:** Strenuously (adv)<br><br>💬 **Ví dụ:** I try to avoid strenuous activities on my rest days.<br>*(-> Tôi cố gắng tránh các hoạt động tốn nhiều sức lực vào những ngày nghỉ ngơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Requiring or using great exertion.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Castle
 *n.*
 > /ˈkɑːsl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Castle::Lâu đài *(Phát âm: /ˈkɑːsl/)* ![[castle.mp3]]<br><br>👪 **Word Family:** castellan<br><br>💬 **Ví dụ:** The children are building a sand castle on the beach.<br>*(-> Lũ trẻ đang xây một lâu đài cát trên bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A large strong building, built in the past by a ruler or important person to protect the people inside from attack

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Athlete
 *n.*
 > /ˈæθ.liːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Athlete::Vận động viên *(Phát âm: /ˈæθ.liːt/)* ![[athlete.mp3]]<br><br>👪 **Word Family:** athletic, athletics, athletically<br><br>💬 **Ví dụ:** He trained hard to become an Olympic athlete.<br>*(-> Anh ấy đã tập luyện chăm chỉ để trở thành một vận động viên Olympic.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is proficient in sports and other forms of physical exercise.

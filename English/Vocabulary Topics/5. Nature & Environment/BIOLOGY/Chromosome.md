@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Chromosome
 *noun*
 > /ˈkrəʊ.mə.səʊm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Di truyền học, Tiến hóa & Quá trình sinh học
+
+## 🗂️ Flashcard
+Chromosome::Nhiễm sắc thể *(Phát âm: /ˈkrəʊ.mə.səʊm/)* ![[chromosome.mp3]]<br><br>👪 **Word Family:** chromosomal<br><br>💬 **Ví dụ:** Humans normally have 23 pairs of chromosomes.<br>*(-> Con người bình thường có 23 cặp nhiễm sắc thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A threadlike structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes.

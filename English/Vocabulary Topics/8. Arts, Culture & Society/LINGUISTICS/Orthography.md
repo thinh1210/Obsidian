@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Orthography
 *noun*
 > /ɔːˈθɒɡ.rə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
+
+## 🗂️ Flashcard
+Orthography::chính tả, hệ thống chính tả *(Phát âm: /ɔːˈθɒɡ.rə.fi/)* ![[orthography.mp3]]<br><br>👪 **Word Family:** orthographic (adj), orthographically (adv)<br><br>💬 **Ví dụ:** English orthography is notoriously difficult due to irregular spellings.<br>*(-> Chính tả tiếng Anh nổi tiếng là khó do cách viết không theo quy tắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the system of spelling in a language

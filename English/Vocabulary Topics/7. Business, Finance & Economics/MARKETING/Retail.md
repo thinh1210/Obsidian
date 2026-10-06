@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Retail
 *noun*
 > /ˈriːteɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Retail::Việc bán lẻ *(Phát âm: /ˈriːteɪl/)* ![[retail.mp3]]<br><br>👪 **Word Family:** retailer (n), retail (v/adv)<br><br>💬 **Ví dụ:** The retail price of this jacket is sixty dollars.<br>*(-> Giá bán lẻ của chiếc áo khoác này là sáu mươi đô la.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sale of goods to the public in relatively small quantities for use or consumption rather than for resale

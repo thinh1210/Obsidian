@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Painting
 *n.*
 > /ˈpeɪn.tɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Painting::Bức tranh sơn mài/sơn dầu/màu nước; nghệ thuật hội họa *(Phát âm: /ˈpeɪn.tɪŋ/)* ![[painting.mp3]]<br><br>👪 **Word Family:** paint (v/n), painter (n)<br><br>💬 **Ví dụ:** She hung a colorful watercolor painting of the countryside in her living room.<br>*(-> Cô ấy treo một bức tranh màu nước rực rỡ vẽ vùng quê trong phòng khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A picture produced using paints; the process or art of using paint to produce pictures.

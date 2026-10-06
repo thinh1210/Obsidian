@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Follower
 *n.*
 > /ˈfɒl.əʊ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+25 - Follower::Người theo dõi *(Phát âm: /ˈfɒl.əʊ.ər/)* ![[follower.mp3]]<br><br>👪 **Word Family:** Follow (v.)<br><br>💬 **Ví dụ:** Millions of followers.<br>*(-> Hàng triệu người theo dõi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An adherent or devotee of a particular person.

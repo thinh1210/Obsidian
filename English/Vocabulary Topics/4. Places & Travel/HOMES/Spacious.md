@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Spacious
 *adj*
 > /ˈspeɪʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Spacious::Rộng rãi *(Phát âm: /ˈspeɪʃəs/)* ![[spacious.mp3]]<br><br>👪 **Word Family:** space (n)<br><br>💬 **Ví dụ:** The new kitchen is very spacious.<br>*(-> Nhà bếp mới rất rộng rãi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having ample space.

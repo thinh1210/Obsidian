@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Eukaryote
 *noun*
 > /juːˈkær.i.əʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Eukaryote::Sinh vật nhân thực *(Phát âm: /juːˈkær.i.əʊt/)* ![[eukaryote.mp3]]<br><br>👪 **Word Family:** eukaryotic<br><br>💬 **Ví dụ:** Humans, plants, and fungi are all eukaryotes.<br>*(-> Con người, thực vật và nấm đều là các sinh vật nhân thực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organism consisting of a cell or cells in which the genetic material is DNA in the form of chromosomes contained within a distinct nucleus.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Compost
 *n.*
 > /ˈkɒmpɒst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Compost::Phân hữu cơ, phân ủ vi sinh làm từ lá cây, vỏ rau củ và thức ăn thừa giúp cải tạo đất *(Phát âm: /ˈkɒmpɒst/)* ![[compost.mp3]]<br><br>👪 **Word Family:** composting (n), compostable (adj)<br><br>💬 **Ví dụ:** We toss fruit peels, coffee grounds, and fallen autumn leaves straight into our compost bin.<br>*(-> Chúng tôi cho vỏ hoa quả, bã cà phê và lá rụng mùa thu thẳng vào thùng ủ phân hữu cơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Decayed organic material used as a plant fertilizer, created by biological decomposition.

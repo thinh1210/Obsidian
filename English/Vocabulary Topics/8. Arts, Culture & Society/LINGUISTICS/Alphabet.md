@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Alphabet
 *noun*
 > /ˈæl.fə.bet/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Alphabet::bảng chữ cái *(Phát âm: /ˈæl.fə.bet/)* ![[alphabet.mp3]]<br><br>👪 **Word Family:** alphabetic (adj), alphabetically (adv)<br><br>💬 **Ví dụ:** Children learn the alphabet at an early age.<br>*(-> Trẻ em học bảng chữ cái từ khi còn nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a set of letters arranged in a fixed order, used for writing a language

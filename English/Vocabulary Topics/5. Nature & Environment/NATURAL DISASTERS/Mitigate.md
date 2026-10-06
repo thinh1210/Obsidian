@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Mitigate
 *verb*
 > /ˈmɪt.ɪ.ɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Mitigate::Giảm thiểu, làm nhẹ bớt *(Phát âm: /ˈmɪt.ɪ.ɡeɪt/)* ![[mitigate.mp3]]<br><br>👪 **Word Family:** mitigation (n), mitigative (adj)<br><br>💬 **Ví dụ:** Planting trees along the river bank helps to mitigate flood damage.<br>*(-> Trồng cây ven sông giúp giảm thiểu thiệt hại do lũ lụt gây ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something less severe, serious, or painful.

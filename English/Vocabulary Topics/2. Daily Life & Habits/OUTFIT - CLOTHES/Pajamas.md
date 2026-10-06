@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Pajamas
 *n.*
 > /pəˈdʒɑː.məz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Pajamas::Bộ quần áo ngủ rộng rãi thoải mái mặc khi đi ngủ *(Phát âm: /pəˈdʒɑː.məz/)* ![[pajamas.mp3]]<br><br>💬 **Ví dụ:** After a warm shower, she changed into soft cotton pajamas.<br>*(-> Sau khi tắm nước ấm, cô ấy thay bộ đồ ngủ cotton mềm mại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A loose-fitting jacket and trousers worn in bed.

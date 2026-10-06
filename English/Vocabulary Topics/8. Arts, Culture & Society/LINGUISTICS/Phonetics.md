@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Phonetics
 *noun*
 > /fəˈnet.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Phonetics::ngữ âm học *(Phát âm: /fəˈnet.ɪks/)* ![[phonetics.mp3]]<br><br>👪 **Word Family:** phonetic (adj), phonetically (adv), phonetician (n)<br><br>💬 **Ví dụ:** The International Phonetic Alphabet (IPA) is used in phonetics.<br>*(-> Bảng chữ cái ngữ âm quốc tế (IPA) được sử dụng trong ngữ âm học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of the speech sounds of human speech, including how they are made, transmitted, and received

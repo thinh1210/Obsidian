@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Hopeful
 *adj.*
 > /ˈhəʊp.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Hopeful::Tràn đầy hy vọng, niềm tin lạc quan vào tương lai tươi sáng *(Phát âm: /ˈhəʊp.fəl/)* ![[hopeful.mp3]]<br><br>👪 **Word Family:** hopefully (adv), hopefulness (n), hope (n/v)<br><br>💬 **Ví dụ:** Despite initial setbacks, the young entrepreneur remained deeply hopeful about the product launch.<br>*(-> Bất chấp những trắc trở ban đầu, nhà khởi nghiệp trẻ vẫn tràn đầy hy vọng vào đợt ra mắt sản phẩm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or giving full of hope; feeling that something good might happen.

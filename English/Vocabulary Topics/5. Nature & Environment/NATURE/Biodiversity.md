@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Biodiversity
 *Noun*
 > /ˌbaɪəʊdaɪˈvɜːsəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Biodiversity::Đa dạng sinh học *(Phát âm: /ˌbaɪəʊdaɪˈvɜːsəti/)* ![[biodiversity.mp3]]<br><br>👪 **Word Family:** biodiverse, diversify<br><br>💬 **Ví dụ:** The national park is famous for its rich biodiversity.<br>*(-> Công viên quốc gia nổi tiếng vì sự đa dạng sinh học phong phú.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The variety of plant and animal life in the world or in a particular habitat.

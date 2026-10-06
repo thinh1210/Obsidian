@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Leather
 *n.*
 > /ˈleð.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Leather::Da thuộc đã qua xử lý để làm áo, giày dép, túi xách *(Phát âm: /ˈleð.ər/)* ![[leather.mp3]]<br><br>👪 **Word Family:** leathery (adj)<br><br>💬 **Ví dụ:** He invested in a genuine leather jacket that aged gracefully over the years.<br>*(-> Anh ấy đã đầu tư mua chiếc áo khoác da thật càng mặc lâu càng đẹp màu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Animal skin that has been treated in order to preserve it and make it suitable for clothing.

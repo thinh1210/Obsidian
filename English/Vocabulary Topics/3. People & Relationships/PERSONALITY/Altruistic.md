@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Altruistic
 *adj.*
 > /ˌæl.truˈɪs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Altruistic::Vị tha, hành động vì lợi ích người khác mà không màng tư lợi bản thân *(Phát âm: /ˌæl.truˈɪs.tɪk/)* ![[altruistic.mp3]]<br><br>👪 **Word Family:** altruism (n), altruist (n), altruistically (adv)<br><br>💬 **Ví dụ:** Donating blood regularly is a noble altruistic act.<br>*(-> Hiến máu định kỳ là một hành động vị tha cao đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing a wish to help or bring advantages to others, even if it results in disadvantage for yourself.

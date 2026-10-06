@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Upload
 *v./n.*
 > /ˌʌpˈləʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Upload::Truyền tải dữ liệu từ máy cá nhân lên máy chủ hoặc nền tảng mạng *(Phát âm: /ˌʌpˈləʊd/)* ![[upload.mp3]]<br><br>👪 **Word Family:** uploadable (adj)<br><br>💬 **Ví dụ:** It took less than a minute to upload my job application documents to the portal.<br>*(-> Mất chưa đầy một phút để tải hồ sơ xin việc của tôi lên cổng thông tin tuyển dụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To transfer data, files, or content from your local device to a central server or internet platform.

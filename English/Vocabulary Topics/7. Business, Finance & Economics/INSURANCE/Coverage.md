@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Coverage
 *n.*
 > /ˈkʌvərɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Coverage::Phạm vi bảo hiểm *(Phát âm: /ˈkʌvərɪdʒ/)* ![[coverage.mp3]]<br><br>👪 **Word Family:** cover, uncover<br><br>💬 **Ví dụ:** Does your health policy offer coverage for dental care?<br>*(-> Hợp đồng bảo hiểm y tế của bạn có cung cấp phạm vi bảo hiểm cho chăm sóc răng miệng không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of protection given by an insurance policy.

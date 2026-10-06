@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Chapter
 *noun*
 > /ˈtʃæp.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Chapter::Chương (sách) *(Phát âm: /ˈtʃæp.tər/)* ![[chapter.mp3]]<br><br>👪 **Word Family:** chapter house (n)<br><br>💬 **Ví dụ:** I am currently reading the third chapter of this mystery novel.<br>*(-> Hiện tại tôi đang đọc chương thứ ba của cuốn tiểu thuyết bí ẩn này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A main division of a book, typically with a number or title.

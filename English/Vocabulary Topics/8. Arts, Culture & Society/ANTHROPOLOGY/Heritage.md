@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Heritage
 *n.*
 > /ˈher.ɪ.tɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Heritage::Di sản *(Phát âm: /ˈher.ɪ.tɪdʒ/)* ![[heritage.mp3]]<br><br>👪 **Word Family:** inherit, inheritance<br><br>💬 **Ví dụ:** We must preserve our historic heritage for our children.<br>*(-> Chúng ta phải bảo tồn di sản lịch sử cho con cháu mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Valued objects and qualities such as historic buildings and cultural traditions that have been passed down from previous generations.

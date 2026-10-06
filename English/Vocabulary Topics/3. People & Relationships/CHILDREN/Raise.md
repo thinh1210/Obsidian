@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Raise
 *verb*
 > /reɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Raise::Nuôi nấng *(Phát âm: /reɪz/)* ![[raise.mp3]]<br><br>👪 **Word Family:** Raising (n)<br><br>💬 **Ví dụ:** She had to raise the kids alone.<br>*(-> Cô ấy phải nuôi bọn trẻ một mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bring up a child.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Phishing
 *n.*
 > /ˈfɪʃ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Phishing::Hình thức tấn công lừa đảo giả mạo website/email để đánh cắp mật khẩu và thẻ tín dụng *(Phát âm: /ˈfɪʃ.ɪŋ/)* ![[phishing.mp3]]<br><br>👪 **Word Family:** phish (v), phisher (n)<br><br>💬 **Ví dụ:** Banks will never ask for your full PIN via email; watch out for phishing scams.<br>*(-> Ngân hàng sẽ không bao giờ hỏi mã PIN đầy đủ qua email; hãy cẩn giác trước các chiêu trò lừa đảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fraudulent practice of sending emails or messages purporting to be from reputable companies to induce individuals to reveal personal passwords or credit card numbers.

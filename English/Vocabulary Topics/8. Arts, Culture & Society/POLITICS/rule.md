@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # rule
 *noun*
 > /ruːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+rule::Quy tắc, luật lệ, sự cai trị *(Phát âm: /ruːl/)* ![[rule.mp3]]<br><br>👪 **Word Family:** ruler (n), ruling (adj/n), unruly (adj)<br><br>💬 **Ví dụ:** You must follow the school rules.<br>*(-> Bạn phải tuân theo các quy tắc của nhà trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Tilth
 *n.*
 > /tɪlθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Tilth::Độ tơi xốp của đất canh tác *(Phát âm: /tɪlθ/)* ![[tilth.mp3]]<br><br>👪 **Word Family:** till (v)<br><br>💬 **Ví dụ:** Adding organic compost is the best way to improve soil tilth.<br>*(-> Thêm phân hữu cơ là cách tốt nhất để cải thiện độ tơi xốp của đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The physical condition of soil, especially in relation to its suitability for planting.

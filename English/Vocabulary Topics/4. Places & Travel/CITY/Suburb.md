@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Suburb
 *n.*
 > /ˈsʌbɜːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Suburb::Vùng ngoại ô *(Phát âm: /ˈsʌbɜːb/)* ![[suburb.mp3]]<br><br>👪 **Word Family:** suburban (adj)<br><br>💬 **Ví dụ:** They live in a quiet suburb.<br>*(-> Họ sống ở một vùng ngoại ô yên tĩnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area outside the center of a city where people live.

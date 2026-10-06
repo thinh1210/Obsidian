@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Tech-savvy
 *adjective.*
 > /ˌtekˈsæv.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
+
+## 🗂️ Flashcard
+Tech-savvy::Am hiểu công nghệ *(Phát âm: /ˌtekˈsæv.i/)* ![[tech_savvy.mp3]]<br><br>👪 **Word Family:** technology (noun), savvy (noun/adj)<br><br>💬 **Ví dụ:** Today's tech-savvy kids learn to code before they can write properly.<br>*(-> Trẻ em am hiểu công nghệ ngày nay học lập trình trước khi biết viết chữ đúng cách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Knowing a lot about modern technology and how to use it

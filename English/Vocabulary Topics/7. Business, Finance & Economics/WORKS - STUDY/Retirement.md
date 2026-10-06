@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Retirement
 *n.*
 > /rɪˈtaɪə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Retirement::Sự nghỉ hưu, giai đoạn rời khỏi công việc sau khi đến tuổi quy định *(Phát âm: /rɪˈtaɪə.mənt/)* ![[retirement.mp3]]<br><br>👪 **Word Family:** retire (v), retiree (n), retired (adj)<br><br>💬 **Ví dụ:** My grandfather is enjoying his quiet retirement by gardening and traveling around the country.<br>*(-> Ông tôi đang tận hưởng những ngày nghỉ hưu yên bình bằng việc làm vườn và đi du lịch khắp đất nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or fact of leaving one's job and ceasing to work, typically upon reaching the normal age.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Corroborate
 *Verb*
 > /kəˈrɒb.ə.reɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Corroborate::Làm chứng, xác minh *(Phát âm: /kəˈrɒb.ə.reɪt/)* ![[corroborate.mp3]]<br><br>👪 **Word Family:** Corroboration (n), Corroborative (adj)<br><br>💬 **Ví dụ:** My friend will corroborate my story.<br>*(-> Bạn tôi sẽ chứng thực câu chuyện của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To add proof to an account, statement, idea, etc.

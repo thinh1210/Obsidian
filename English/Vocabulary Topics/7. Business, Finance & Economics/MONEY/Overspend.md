@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Overspend
 *v.*
 > /ˌəʊ.vəˈspend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Overspend::Chi tiêu vượt quá hạn mức ngân sách hoặc vượt khả năng tài chính *(Phát âm: /ˌəʊ.vəˈspend/)* ![[overspend.mp3]]<br><br>👪 **Word Family:** overspending (n), spend (v)<br><br>💬 **Ví dụ:** Without a strict weekly budget, it is very easy to overspend on dining out.<br>*(-> Nếu không có ngân sách nghiêm ngặt hàng tuần, rất dễ vung tay quá trán vào việc đi ăn nhà hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend more money than is planned, allowed, or than you can reasonably afford.

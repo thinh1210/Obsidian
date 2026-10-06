@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Memory
 *noun*
 > /ˈmem.ə.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Memory::Trí nhớ, kỉ niệm *(Phát âm: /ˈmem.ə.ri/)* ![[memory.mp3]]<br><br>👪 **Word Family:** memorize (verb)<br><br>💬 **Ví dụ:** I have a bad memory.<br>*(-> Tôi có trí nhớ tồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The faculty by which the mind stores and remembers information.

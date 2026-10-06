@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Valuation
 *n.*
 > /ˌvæljuˈeɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Valuation::Sự định giá *(Phát âm: /ˌvæljuˈeɪʃən/)* ![[valuation.mp3]]<br><br>👪 **Word Family:** value, valuate, evaluator<br><br>💬 **Ví dụ:** The antique collector gave a high valuation for the painting.<br>*(-> Nhà sưu tầm đồ cổ đã định giá rất cao cho bức tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An estimation of the worth of something, especially by a professional appraiser

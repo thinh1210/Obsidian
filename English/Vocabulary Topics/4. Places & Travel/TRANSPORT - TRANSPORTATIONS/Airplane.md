@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Airplane
 *n.*
 > /ˈeəpleɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Airplane::Phương tiện hàng không cánh bằng có động cơ bay lượn trên bầu trời *(Phát âm: /ˈeəpleɪn/)* ![[airplane.mp3]]<br><br>👪 **Word Family:** aeroplane (n), aviation (n)<br><br>💬 **Ví dụ:** We watched the giant airplane lift off smoothly into the clouds.<br>*(-> Chúng tôi ngắm nhìn chiếc máy bay khổng lồ cất cánh êm ái vào mây trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.

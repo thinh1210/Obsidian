@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Getaway
 *Noun*
 > /ˈɡet̬.ə.weɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Getaway::Nơi nghỉ ngơi ngắn ngày *(Phát âm: /ˈɡet̬.ə.weɪ/)* ![[getaway.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We had a romantic getaway in Paris.<br>*(-> Chúng tôi đã có một kỳ nghỉ lãng mạn ở Paris.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short holiday or a place where you can go for a short holiday.

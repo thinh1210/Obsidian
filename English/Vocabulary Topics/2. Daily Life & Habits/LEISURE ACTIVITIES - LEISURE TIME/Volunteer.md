@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Volunteer
 *v*
 > /ˌvɒlənˈtɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Volunteer::Tình nguyện *(Phát âm: /ˌvɒlənˈtɪə(r)/)* ![[volunteer.mp3]]<br><br>👪 **Word Family:** Voluntary (adj)<br><br>💬 **Ví dụ:** I volunteer at the local shelter.<br>*(-> Tôi làm tình nguyện tại mái ấm địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Freely offer to do something.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Spectator
 *n.*
 > /spekˈteɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Spectator::Khán giả (xem trực tiếp ngoài sân) *(Phát âm: /spekˈteɪ.tər/)* ![[spectator.mp3]]<br><br>👪 **Word Family:** spectacle, spectacular, spectate<br><br>💬 **Ví dụ:** The game attracted over 50,000 spectators to the stadium.<br>*(-> Trận đấu đã thu hút hơn 50.000 khán giả đến sân vận động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who watches at a show, game, or other event.

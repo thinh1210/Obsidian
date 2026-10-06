@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # venture
 *n.*
 > /ˈven.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Venture::Dự án mạo hiểm, liên doanh *(Phát âm: /ˈven.tʃər/)* ![[venture.mp3]]<br><br>👪 **Word Family:** venture (v), venturous (adj)<br><br>💬 **Ví dụ:** His latest business venture was a huge success.<br>*(-> Dự án kinh doanh mạo hiểm mới nhất của anh ấy đã thành công rực rỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A new activity, usually in business, that involves risk or uncertainty

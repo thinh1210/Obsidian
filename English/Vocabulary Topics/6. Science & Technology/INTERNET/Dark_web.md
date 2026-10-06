@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Dark web
 *noun*
 > /ˈdɑːk web/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
+
+## 🗂️ Flashcard
+Dark_web::Web tối (phần Internet ẩn, chỉ truy cập được bằng phần mềm đặc biệt) *(Phát âm: /ˈdɑːk web/)* ![[dark_web.mp3]]<br><br>👪 **Word Family:** dark web (n), deep web (n), darknet (n)<br><br>💬 **Ví dụ:** Her stolen credit card information was found being sold on the dark web.<br>*(-> Thông tin thẻ tín dụng bị đánh cắp của cô ấy đã được tìm thấy đang được bán trên web tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of the Internet that is intentionally hidden, requires special software to access, and is often associated with anonymous and illegal activity.

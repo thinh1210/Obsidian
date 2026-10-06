@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Wing
 *noun*
 > /wɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Wing::Cánh chim *(Phát âm: /wɪŋ/)* ![[wing.mp3]]<br><br>👪 **Word Family:** wing (n/v), winged (adj), wingless (adj)<br><br>💬 **Ví dụ:** The eagle spread its wings and flew high.<br>*(-> Con đại bàng sải cánh và bay cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the parts of the body of a bird, insect, or bat that it uses for flying.

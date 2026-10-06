@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Crew
 *noun*
 > /kruː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Crew::Phi hành đoàn / tổ bay *(Phát âm: /kruː/)* ![[crew.mp3]]<br><br>👪 **Word Family:** crewmate (n), crewed (adj), aircrew (n)<br><br>💬 **Ví dụ:** The crew welcomed passengers with warm smiles as they boarded.<br>*(-> Phi hành đoàn chào đón hành khách với nụ cười thân thiện khi họ lên máy bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The team of people who work on an aircraft, including pilots and flight attendants.

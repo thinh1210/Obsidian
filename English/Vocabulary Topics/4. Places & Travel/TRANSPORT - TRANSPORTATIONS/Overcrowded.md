@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Overcrowded
 *adjective*
 > /ˌoʊvərˈkraʊdɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Overcrowded::Quá đông đúc, quá tải *(Phát âm: /ˌoʊvərˈkraʊdɪd/)* ![[overcrowded.mp3]]<br><br>👪 **Word Family:** Adjective: overcrowded (quá đông), Noun: overcrowding (tình trạng quá đông đúc), Verb: overcrowd (làm cho quá đông)<br><br>💬 **Ví dụ:** The train was so overcrowded that I couldn't even sit down.<br>*(-> Chuyến tàu quá đông đúc đến nỗi tôi thậm chí không thể ngồi xuống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing too many people or things.

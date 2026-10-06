@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Scene
 *n.*
 > /siːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Scene::Cảnh phim, phân cảnh *(Phát âm: /siːn/)* ![[scene.mp3]]<br><br>👪 **Word Family:** scenery, scenic<br><br>💬 **Ví dụ:** That was the funniest scene in the film.<br>*(-> Đó là cảnh hài hước nhất trong bộ phim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of continuous action in a play, movie, opera, or book

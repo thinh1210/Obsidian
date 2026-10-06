@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Expressway
 *noun*
 > /ɪkˈspresweɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Expressway::Đường cao tốc, đường dành riêng cho xe chạy nhanh *(Phát âm: /ɪkˈspresweɪ/)* ![[expressway.mp3]]<br><br>👪 **Word Family:** Noun: expressway (đường cao tốc)<br><br>💬 **Ví dụ:** The airport is connected to the city via an elevated expressway.<br>*(-> Sân bay được kết nối với thành phố thông qua một đường cao tốc trên cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A highway designed for fast traffic, with controlled admission and no crossroads.

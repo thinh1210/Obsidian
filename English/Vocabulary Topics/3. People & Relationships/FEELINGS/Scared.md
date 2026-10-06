@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Scared
 *adj*
 > /skerd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Scared::Sợ hãi *(Phát âm: /skerd/)* ![[scared.mp3]]<br><br>👪 **Word Family:** scare (v/n), scary (adj)<br><br>💬 **Ví dụ:** Are you scared of ghosts?<br>*(-> Bạn có sợ ma không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fearful; frightened.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Hyperbole
 *noun*
 > /haɪˈpɜːbəli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
+
+## 🗂️ Flashcard
+Hyperbole::Phép nói quá, sự phóng đại *(Phát âm: /haɪˈpɜːbəli/)* ![[hyperbole.mp3]]<br><br>👪 **Word Family:** hyperbolic (adj), hyperbolically (adverb)<br><br>💬 **Ví dụ:** His description of the accident was full of hyperbole.<br>*(-> Mô tả của anh ấy về vụ tai nạn chứa đầy sự nói quá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exaggerated statements or claims not meant to be taken literally.

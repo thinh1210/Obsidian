@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Philanthropist
 *n.*
 > /fɪˈlæn.θrə.pɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Philanthropist::Nhà từ thiện *(Phát âm: /fɪˈlæn.θrə.pɪst/)* ![[philanthropist.mp3]]<br><br>👪 **Word Family:** Philanthropy, Philanthropic<br><br>💬 **Ví dụ:** Bill Gates is a famous philanthropist.<br>*(-> Bill Gates là một nhà từ thiện nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who seeks to promote the welfare of others, especially by the generous donation of money.

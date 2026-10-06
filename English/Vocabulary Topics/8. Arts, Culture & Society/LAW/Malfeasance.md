@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Malfeasance
 *noun*
 > /mælˈfiːzns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Malfeasance::Hành vi sai trái; tội lạm dụng chức quyền *(Phát âm: /mælˈfiːzns/)* ![[malfeasance.mp3]]<br><br>👪 **Word Family:** misfeasance (n), nonfeasance (n), malfeasant (adj)<br><br>💬 **Ví dụ:** The official was accused of malfeasance in office.<br>*(-> Viên chức bị cáo buộc lạm dụng chức quyền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Wrongdoing or misconduct, especially by a public official

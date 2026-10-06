@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Algebra
 *noun*
 > /ˈældʒɪbrə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Algebra::Đại số *(Phát âm: /ˈældʒɪbrə/)* ![[algebra.mp3]]<br><br>👪 **Word Family:** algebraic, algebraist<br><br>💬 **Ví dụ:** I am trying to solve this algebra problem.<br>*(-> Tôi đang cố gắng giải bài toán đại số này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of mathematics in which letters and symbols are used to represent quantities in equations.

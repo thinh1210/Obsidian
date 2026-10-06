@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Sincere
 *adj.*
 > /sɪnˈsɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Sincere::Chân thành, thực lòng, không dối trá hay vụ lợi *(Phát âm: /sɪnˈsɪər/)* ![[sincere.mp3]]<br><br>👪 **Word Family:** sincerity (n), sincerely (adv), insincere (adj)<br><br>💬 **Ví dụ:** Please accept my sincere condolences on the loss of your grandfather.<br>*(-> Xin hãy nhận lời chia buồn chân thành sâu sắc của tôi về sự ra đi của ông bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not pretending or lying; honest and genuine in feeling.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Exertion
 *n.*
 > /ɪɡˈzɜː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Exertion::Sự nỗ lực hết mình, sự gắng sức *(Phát âm: /ɪɡˈzɜː.ʃən/)* ![[exertion.mp3]]<br><br>👪 **Word Family:** exert, exerted, exerting<br><br>💬 **Ví dụ:** He was gasping for breath after the physical exertion of the climb.<br>*(-> Anh ấy đã thở hổn hển sau sự gắng sức thể chất của việc leo núi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Physical or mental effort.

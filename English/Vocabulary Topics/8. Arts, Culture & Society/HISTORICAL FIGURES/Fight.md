@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Fight
 *v.*
 > /faɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Fight::Đấu tranh, chiến đấu *(Phát âm: /faɪt/)* ![[fight.mp3]]<br><br>👪 **Word Family:** fighter, fighting, fight (n)<br><br>💬 **Ví dụ:** Soldiers fight to protect their homeland.<br>*(-> Binh lính chiến đấu để bảo vệ quê hương của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take part in a violent struggle or battle

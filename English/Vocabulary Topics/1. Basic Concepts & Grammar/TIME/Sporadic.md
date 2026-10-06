@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Sporadic
 *adj.*
 > /spəˈrædɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Sporadic::Rải rác, thỉnh thoảng *(Phát âm: /spəˈrædɪk/)* ![[sporadic.mp3]]<br><br>👪 **Word Family:** sporadically (adv.)<br><br>💬 **Ví dụ:** There were sporadic showers.<br>*(-> Có những trận mưa rào rải rác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring at irregular intervals or only in a few places

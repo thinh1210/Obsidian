@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Eutrophication
 *n.*
 > /ˌjuːtrəfɪˈkeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Eutrophication::Hiện tượng phú dưỡng (nước ao hồ quá nhiều dinh dưỡng gây ngạt sinh vật) *(Phát âm: /ˌjuːtrəfɪˈkeɪʃn/)* ![[eutrophication.mp3]]<br><br>👪 **Word Family:** eutrophic (adj), eutrophicate (v)<br><br>💬 **Ví dụ:** Fertilizer runoff can cause eutrophication in nearby ponds.<br>*(-> Nước chảy tràn chứa phân bón có thể gây ra hiện tượng phú dưỡng trong các ao hồ lân cận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Excessive richness of nutrients in a lake or other body of water, frequently due to runoff from the land, which causes a dense growth of plant life and death of animal life from lack of oxygen.

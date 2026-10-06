@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Sojourn
 *Noun*
 > /ˈsoʊdʒɜrn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Sojourn::Sự lưu trú tạm thời *(Phát âm: /ˈsoʊdʒɜrn/)* ![[sojourn.mp3]]<br><br>👪 **Word Family:** sojourner (n)<br><br>💬 **Ví dụ:** My sojourn in Paris was delightful.<br>*(-> Kỳ lưu trú của tôi ở Paris rất thú vị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A temporary stay.

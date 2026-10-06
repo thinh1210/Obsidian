@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Dress
 *n., v.*
 > /dres/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Dress::Váy liền; mặc quần áo *(Phát âm: /dres/)* ![[dress.mp3]]<br><br>👪 **Word Family:** Dressed (adj), Undress (v)<br><br>💬 **Ví dụ:** She is wearing a beautiful red dress.<br>*(-> Cô ấy đang mặc một chiếc váy đỏ đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women or girls; to put on clothes.

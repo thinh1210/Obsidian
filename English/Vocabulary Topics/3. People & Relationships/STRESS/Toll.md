@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Toll
 *n.*
 > /təʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Toll::Sự tổn thất, hậu quả xấu *(Phát âm: /təʊl/)* ![[toll.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The stress took a toll on her health.<br>*(-> Căng thẳng đã gây tổn thất cho sức khỏe của cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The adverse effect of something

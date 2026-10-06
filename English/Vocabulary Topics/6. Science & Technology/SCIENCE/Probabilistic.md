@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Probabilistic
 *adjective*
 > /ˌprɒb.ə.bɪˈlɪs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Probabilistic::Xác suất – dựa trên xác suất; mô tả các sự kiện có kết quả được chi phối bởi ngẫu nhiên thay vì chắc chắn *(Phát âm: /ˌprɒb.ə.bɪˈlɪs.tɪk/)* ![[probabilistic.mp3]]<br><br>👪 **Word Family:** probability (n), probable (adj), probably (adv), probabilism (n)<br><br>💬 **Ví dụ:** Weather forecasting is probabilistic – a 70% chance of rain doesn't mean it will rain.<br>*(-> Dự báo thời tiết là xác suất – 70% khả năng mưa không có nghĩa là trời sẽ mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Based on or involving probability; describing events whose outcomes are governed by chance rather than certainty.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Adjudicate
 *verb*
 > /əˈdʒuː.dɪ.keɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Adjudicate::Xét xử, phân xử *(Phát âm: /əˈdʒuː.dɪ.keɪt/)* ![[adjudicate.mp3]]<br><br>👪 **Word Family:** Adjudicate (v), Adjudication (n), Adjudicator (n), Adjudicative (adj)<br><br>💬 **Ví dụ:** A special committee was appointed to adjudicate the dispute between the two departments.<br>*(-> Một ủy ban đặc biệt đã được bổ nhiệm để phân xử tranh chấp giữa hai phòng ban.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a formal judgment or decision about a problem or disputed matter.

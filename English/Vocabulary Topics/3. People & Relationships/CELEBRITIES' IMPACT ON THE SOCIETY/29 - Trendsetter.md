@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Trendsetter
 *n.*
 > /ˈtrendˌset.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+29 - Trendsetter::Người dẫn đầu xu hướng *(Phát âm: /ˈtrendˌset.ər/)* ![[trendsetter.mp3]]<br><br>👪 **Word Family:** Trendsetting (adj.)<br><br>💬 **Ví dụ:** She is a trendsetter.<br>*(-> Cô ấy là người dẫn đầu xu hướng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who leads the way in fashion or ideas.

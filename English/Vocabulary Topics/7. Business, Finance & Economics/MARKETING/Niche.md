@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Niche
 *noun*
 > /niːʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Niche::Thị trường ngách, vị trí thích hợp *(Phát âm: /niːʃ/)* ![[niche.mp3]]<br><br>💬 **Ví dụ:** He finally found his niche writing software for local bakery shops.<br>*(-> Cuối cùng anh ấy đã tìm thấy chỗ đứng thích hợp của mình là viết phần mềm cho các tiệm bánh địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A specialized segment of the market for a particular kind of product or service

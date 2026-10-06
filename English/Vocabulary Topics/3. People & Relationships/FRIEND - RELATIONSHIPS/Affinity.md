@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Affinity
 *noun*
 > /əˈfɪn.ə.t̬i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Affinity::Sự thu hút, sự đồng cảm *(Phát âm: /əˈfɪn.ə.t̬i/)* ![[affinity.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I felt an immediate affinity for her.<br>*(-> Tôi cảm thấy một sự đồng cảm ngay lập tức với cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A spontaneous or natural liking or sympathy for someone or something.

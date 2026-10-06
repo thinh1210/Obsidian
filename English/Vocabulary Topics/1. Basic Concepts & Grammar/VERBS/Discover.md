@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Discover
 *Verb*
 > /dɪˈskʌv.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Discover::Khám phá *(Phát âm: /dɪˈskʌv.ər/)* ![[discover.mp3]]<br><br>👪 **Word Family:** Discovery (n), Discoverer (n)<br><br>💬 **Ví dụ:** I discovered a new cafe.<br>*(-> Tôi khám phá ra một quán cà phê mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To find information, a place, or an object.

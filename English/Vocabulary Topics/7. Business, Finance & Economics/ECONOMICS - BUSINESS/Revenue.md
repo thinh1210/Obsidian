@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Revenue
 *noun*
 > /ˈrevənuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Revenue::doanh thu *(Phát âm: /ˈrevənuː/)* ![[revenue.mp3]]<br><br>👪 **Word Family:** revenue-sharing (noun)<br><br>💬 **Ví dụ:** The school's charity run generated $5,000 in revenue.<br>*(-> Cuộc chạy từ thiện của trường đã tạo ra doanh thu 5.000 đô la.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the total amount of money received by a company or organization from its activities, especially sales.

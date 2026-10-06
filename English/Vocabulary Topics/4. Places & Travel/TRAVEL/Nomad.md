@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Nomad
 *noun*
 > /ˈnəʊ.mæd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Nomad::Dân du mục *(Phát âm: /ˈnəʊ.mæd/)* ![[nomad.mp3]]<br><br>👪 **Word Family:** Nomadic<br><br>💬 **Ví dụ:** I work online as a digital nomad.<br>*(-> Tôi làm việc trực tuyến như một người du mục kỹ thuật số.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A member of a group of people who move from one place to another

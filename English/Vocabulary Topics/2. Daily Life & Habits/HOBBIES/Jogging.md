@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Jogging
 *noun*
 > /ˈdʒɒɡ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Jogging::Chạy bộ *(Phát âm: /ˈdʒɒɡ.ɪŋ/)* ![[jogging.mp3]]<br><br>👪 **Word Family:** Jog (v), Jogger (n)<br><br>💬 **Ví dụ:** I go jogging every morning to stay fit.<br>*(-> Tôi đi chạy bộ mỗi sáng để giữ dáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of running at a steady, gentle pace as a form of physical exercise.

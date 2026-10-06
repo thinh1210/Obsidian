@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Medicine
 *n.*
 > /ˈmed.ɪ.sɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Medicine::Y học; ngành Y *(Phát âm: /ˈmed.ɪ.sɪn/)* ![[medicine.mp3]]<br><br>👪 **Word Family:** medical (adj.), medically (adv.), medication (n.), medic (n.)<br><br>💬 **Ví dụ:** She dreams of studying medicine to become a doctor.<br>*(-> Cô ấy mơ ước học y để trở thành bác sĩ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science or practice of the diagnosis, treatment, and prevention of disease; also a university degree subject.

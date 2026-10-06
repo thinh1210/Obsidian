@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Thoroughfare
 *n.*
 > /ˈθʌrəfeə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Thoroughfare::Đường chính, đường lớn *(Phát âm: /ˈθʌrəfeə(r)/)* ![[thoroughfare.mp3]]<br><br>👪 **Word Family:** fare (n)<br><br>💬 **Ví dụ:** The main thoroughfare is always jammed.<br>*(-> Con đường chính luôn bị tắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A main road for public use or a passage through somewhere.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Gemstone
 *noun*
 > /ˈdʒem.stəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Gemstone::Đá quý *(Phát âm: /ˈdʒem.stəʊn/)* ![[gemstone.mp3]]<br><br>👪 **Word Family:** Gem<br><br>💬 **Ví dụ:** This gemstone is rare.<br>*(-> Viên đá quý này rất hiếm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious or semiprecious stone used in jewelry.

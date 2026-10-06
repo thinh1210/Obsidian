@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Free
 *adjective*
 > /friː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
+
+## 🗂️ Flashcard
+Free::Miễn phí *(Phát âm: /friː/)* ![[free.mp3]]<br><br>👪 **Word Family:** freely (adv), freedom (n), free (v)<br><br>💬 **Ví dụ:** The event is open to the public and admission is completely free.<br>*(-> Sự kiện mở cửa cho công chúng và vé vào cửa hoàn toàn miễn phí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Given or available without charge or payment

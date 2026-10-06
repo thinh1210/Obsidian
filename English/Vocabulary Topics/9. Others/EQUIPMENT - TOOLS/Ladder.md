@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # ladder
 *noun*
 > /ˈlæd.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Ladder::cái thang *(Phát âm: /ˈlæd.ər/)* ![[ladder.mp3]]<br><br>👪 **Word Family:** Noun: ladder (cái thang), Verb: ladder (bị xước chỉ ở tất chân)<br><br>💬 **Ví dụ:** He stood on a ladder to paint the ceiling.<br>*(-> Anh ấy đứng trên một cái thang để sơn trần nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a structure consisting of a series of bars or steps between two upright lengths of wood, metal, or rope, used for climbing.

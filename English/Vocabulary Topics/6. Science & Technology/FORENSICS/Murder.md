@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Murder
 *noun / verb*
 > /ˈmɜː.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Murder::Vụ giết người / giết người *(Phát âm: /ˈmɜː.dər/)* ![[murder.mp3]]<br><br>👪 **Word Family:** murderer (n), murderous (adj), murderously (adv)<br><br>💬 **Ví dụ:** The police are investigating a murder in the city.<br>*(-> Cảnh sát đang điều tra một vụ giết người trong thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The unlawful killing of a person, especially with deliberate intent.

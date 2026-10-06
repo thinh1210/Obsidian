@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Motivation
 *noun*
 > /ˌməʊtɪˈveɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Motivation::Động lực *(Phát âm: /ˌməʊtɪˈveɪʃn/)* ![[motivation.mp3]]<br><br>👪 **Word Family:** motivate (v), motivator (n), motivational (adj)<br><br>💬 **Ví dụ:** He lacks the motivation to study for his finals.<br>*(-> Cậu ấy thiếu động lực học thi cuối kỳ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The reason or reasons one has for acting or behaving in a particular way.

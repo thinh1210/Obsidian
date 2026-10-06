@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Customer
 *n*
 > /ˈkʌs.tə.mər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Customer::Khách hàng *(Phát âm: /ˈkʌs.tə.mər/)* ![[customer.mp3]]<br><br>👪 **Word Family:** Custom<br><br>💬 **Ví dụ:** He is a customer.<br>*(-> Anh ấy là khách hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who buys things

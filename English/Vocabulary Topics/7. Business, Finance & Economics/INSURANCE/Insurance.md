@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Insurance
 *n.*
 > /ɪnˈʃʊərəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Insurance::Bảo hiểm *(Phát âm: /ɪnˈʃʊərəns/)* ![[insurance.mp3]]<br><br>👪 **Word Family:** insure, insurer, insured<br><br>💬 **Ví dụ:** I need to buy health insurance before my trip.<br>*(-> Tôi cần mua bảo hiểm y tế trước chuyến đi của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An agreement in which you pay a company money and they pay your costs if you have an accident, injury, etc.

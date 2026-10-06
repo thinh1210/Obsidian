@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Instance
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - example, case, occasion
+
+
+## 🗂️ Flashcard
+Instance::Trường hợp, ví dụ cụ thể *(Phát âm: /ˈɪn.stəns/)* ![[instance.mp3]]<br><br>👪 **Word Family:** [Noun]: instance, [Verb]: instance, [Adj]: instantaneous, [Adv]: instantaneously<br><br>💬 **Ví dụ:** There have been several instances of internet fraud reported recently.<br>*(-> Đã có một số trường hợp lừa đảo internet được báo cáo gần đây.)*

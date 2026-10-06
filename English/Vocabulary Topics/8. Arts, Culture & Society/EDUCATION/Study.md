@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Study
 *v.*
 > /ˈstʌdi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Study::Nghiên cứu, học tập *(Phát âm: /ˈstʌdi/)* ![[study.mp3]]<br><br>👪 **Word Family:** student, studious, studies<br><br>💬 **Ví dụ:** She needs to study for her math test tomorrow.<br>*(-> Cô ấy cần phải học cho bài kiểm tra toán ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To devote time and attention to acquiring knowledge on an academic subject

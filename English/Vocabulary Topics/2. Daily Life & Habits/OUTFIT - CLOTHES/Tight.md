@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Tight
 *adj.*
 > /taɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Tight::Bó sát người, chật chội không thoải mái *(Phát âm: /taɪt/)* ![[tight.mp3]]<br><br>👪 **Word Family:** tighten (v), tightly (adv), tightness (n)<br><br>💬 **Ví dụ:** These new shoes are slightly too tight around my toes.<br>*(-> Đôi giày mới này hơi chật một chút ở phần đầu ngón chân của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fitting closely against your body, or not loose enough.

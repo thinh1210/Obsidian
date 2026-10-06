@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Volcano
 *noun*
 > /vɒlˈkeɪ.nəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Volcano::Núi lửa *(Phát âm: /vɒlˈkeɪ.nəʊ/)* ![[volcano.mp3]]<br><br>👪 **Word Family:** volcanic (adj), volcanology (n)<br><br>💬 **Ví dụ:** We hiked up a path to see the famous volcano.<br>*(-> Chúng tôi đã đi bộ lên một con đường để ngắm nhìn ngọn núi lửa nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mountain with a large circular hole at the top through which lava, gases, steam, and dust are or have been forced out.

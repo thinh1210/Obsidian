@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Secluded
 *adjective*
 > /sɪˈkluː.dɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Secluded::Hẻo lánh *(Phát âm: /sɪˈkluː.dɪd/)* ![[secluded.mp3]]<br><br>👪 **Word Family:** Seclusion<br><br>💬 **Ví dụ:** We found a secluded spot.<br>*(-> Chúng tôi tìm thấy một nơi hẻo lánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Quiet, private, and not near people, roads, or buildings

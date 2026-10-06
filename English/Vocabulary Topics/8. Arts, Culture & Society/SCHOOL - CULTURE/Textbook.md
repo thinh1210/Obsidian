@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Textbook
 *noun*
 > /ˈtekstbʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Textbook::Sách giáo khoa *(Phát âm: /ˈtekstbʊk/)* ![[textbook.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** We need to buy three new textbooks for the next semester.<br>*(-> Chúng tôi cần mua ba cuốn sách giáo khoa mới cho học kỳ tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A book used as a standard work for the study of a particular subject.

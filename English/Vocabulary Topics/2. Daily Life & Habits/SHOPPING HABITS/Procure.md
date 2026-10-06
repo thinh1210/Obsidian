@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Procure
 *v*
 > /prəˈkjʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Procure::Thu mua *(Phát âm: /prəˈkjʊər/)* ![[procure.mp3]]<br><br>👪 **Word Family:** Procurement<br><br>💬 **Ví dụ:** I managed to procure the item.<br>*(-> Tôi đã mua được món đồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To get something, especially after an effort

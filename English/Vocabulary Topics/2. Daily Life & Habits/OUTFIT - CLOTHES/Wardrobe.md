@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Wardrobe
 *noun*
 > /ˈwɔːr.droʊb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Wardrobe::Tủ quần áo, tủ đồ *(Phát âm: /ˈwɔːr.droʊb/)* ![[wardrobe.mp3]]<br><br>👪 **Word Family:** wardrobing (n)<br><br>💬 **Ví dụ:** My wardrobe is full of clothes.<br>*(-> Tủ đồ của tôi đầy ắp quần áo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, tall cupboard in which clothes may be hung or stored.

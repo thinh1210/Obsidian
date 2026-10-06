@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Investment
 *noun*
 > /ɪnˈvestmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Investment::sự đầu tư, khoản đầu tư *(Phát âm: /ɪnˈvestmənt/)* ![[investment.mp3]]<br><br>👪 **Word Family:** invest (verb), investor (noun)<br><br>💬 **Ví dụ:** Buying a house is often the largest financial investment a person makes.<br>*(-> Mua nhà thường là khoản đầu tư tài chính lớn nhất của một người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the act of putting money, effort, or time into something to make a profit or achieve a result.

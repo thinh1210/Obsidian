@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # oligarchy
 *noun*
 > /ˈɑːlɪɡɑːrki/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+oligarchy::Chế độ đầu sỏ, tập đoàn thống trị *(Phát âm: /ˈɑːlɪɡɑːrki/)* ![[oligarchy.mp3]]<br><br>👪 **Word Family:** oligarch (n), oligarchic (adj)<br><br>💬 **Ví dụ:** Many citizens feel that their democracy has turned into a corporate oligarchy.<br>*(-> Nhiều công dân cảm thấy rằng nền dân chủ của họ đã biến thành một chế độ đầu sỏ doanh nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small group of people having control of a country, organization, or institution.

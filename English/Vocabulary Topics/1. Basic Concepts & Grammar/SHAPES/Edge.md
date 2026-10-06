@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Edge
 *n.*
 > /edʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Edge::Cạnh, mép *(Phát âm: /edʒ/)* ![[edge.mp3]]<br><br>👪 **Word Family:** Edgy (adj)<br><br>💬 **Ví dụ:** Be careful with the sharp edge.<br>*(-> Cẩn thận với cạnh sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outside limit of an object, area, or surface.

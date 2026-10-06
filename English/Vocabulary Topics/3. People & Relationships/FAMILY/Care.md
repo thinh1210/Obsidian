@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Care
 *v.*
 > /keər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Care::Chăm sóc, lo lắng và bảo bọc cho người thân yêu *(Phát âm: /keər/)* ![[care.mp3]]<br><br>👪 **Word Family:** caring (adj), careful (adj), careless (adj)<br><br>💬 **Ví dụ:** She decided to work remotely so she could care for her sick younger brother.<br>*(-> Cô ấy quyết định làm việc từ xa để có thể chăm sóc cho người em trai đang ốm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look after someone, protect them, and provide for their needs.

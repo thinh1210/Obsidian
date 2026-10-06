@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Vacation
 *noun*
 > /veɪˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Vacation::Kỳ nghỉ *(Phát âm: /veɪˈkeɪ.ʃən/)* ![[vacation.mp3]]<br><br>👪 **Word Family:** Vacations<br><br>💬 **Ví dụ:** I need a vacation.<br>*(-> Tôi cần một kỳ nghỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A time when someone does not go to work or school

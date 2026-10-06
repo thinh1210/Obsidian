@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Marriage
 *noun*
 > /ˈmærɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Marriage::Hôn nhân *(Phát âm: /ˈmærɪdʒ/)* ![[marriage.mp3]]<br><br>👪 **Word Family:** Marry (verb)<br><br>💬 **Ví dụ:** They have a strong marriage.<br>*(-> Họ có một cuộc hôn nhân bền vững.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The legally or formally recognized union of two people as partners in a personal relationship.

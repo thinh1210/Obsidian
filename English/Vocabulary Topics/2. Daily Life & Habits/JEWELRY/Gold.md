@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Gold
 *noun*
 > /ɡəʊld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Gold::Vàng *(Phát âm: /ɡəʊld/)* ![[gold.mp3]]<br><br>👪 **Word Family:** Golden<br><br>💬 **Ví dụ:** The ring is gold.<br>*(-> Chiếc nhẫn làm bằng vàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A yellow precious metal.

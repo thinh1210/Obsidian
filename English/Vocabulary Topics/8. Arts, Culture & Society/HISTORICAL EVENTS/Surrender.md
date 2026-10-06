@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Surrender
 *verb*
 > /səˈren.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Surrender::Đầu hàng, dâng nộp *(Phát âm: /səˈren.dər/)* ![[surrender.mp3]]<br><br>👪 **Word Family:** surrender (noun)<br><br>💬 **Ví dụ:** The criminal decided to surrender to the police after hours of negotiations.<br>*(-> Kẻ phạm tội đã quyết định đầu hàng cảnh sát sau nhiều giờ thương lượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Stop resisting to an enemy or opponent and submit to their authority.

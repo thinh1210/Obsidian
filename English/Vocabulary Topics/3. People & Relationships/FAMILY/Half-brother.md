@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Half-brother
 *noun*
 > /ˈhɑːfˌbrʌð.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Half-brother::Anh/em trai cùng cha khác mẹ (hoặc ngược lại) *(Phát âm: /ˈhɑːfˌbrʌð.ər/)* ![[half_brother.mp3]]<br><br>👪 **Word Family:** half-sibling (n)<br><br>💬 **Ví dụ:** We are half-brothers.<br>*(-> Chúng tôi là anh em cùng cha khác mẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A brother who is the son of only one of your parents.

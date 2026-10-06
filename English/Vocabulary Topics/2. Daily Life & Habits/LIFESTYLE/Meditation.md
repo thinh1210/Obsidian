@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Meditation
 *n.*
 > /ˌmɛdɪˈteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Meditation::Sự thiền định *(Phát âm: /ˌmɛdɪˈteɪʃn/)* ![[meditation.mp3]]<br><br>👪 **Word Family:** meditate (v.)<br><br>💬 **Ví dụ:** Meditation helps me relax.<br>*(-> Thiền giúp tôi thư giãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of thinking deeply in silence to make the mind calm.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Kinship
 *Noun*
 > /ˈkɪn.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Kinship::Mối quan hệ họ hàng, sự gắn kết *(Phát âm: /ˈkɪn.ʃɪp/)* ![[kinship.mp3]]<br><br>👪 **Word Family:** Kin (Noun): Dòng họ<br><br>💬 **Ví dụ:** I felt a real sense of kinship with my teammates.<br>*(-> Tôi cảm thấy một sự gắn bó thực sự với các đồng đội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The relationship between members of the same family, or a feeling of being close.

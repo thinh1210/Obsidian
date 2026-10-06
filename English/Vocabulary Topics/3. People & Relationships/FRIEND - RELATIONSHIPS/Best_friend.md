@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Best friend
 *noun*
 > /best frend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Best_friend::Bạn thân nhất *(Phát âm: /best frend/)* ![[best_friend.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She is my best friend.<br>*(-> Cô ấy là bạn thân nhất của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person's closest and dearest friend.

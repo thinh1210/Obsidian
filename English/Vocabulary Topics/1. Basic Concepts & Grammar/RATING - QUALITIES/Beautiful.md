@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Beautiful
 *adj*
 > /ˈbjuː.tɪ.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Beautiful::Xinh đẹp, tuyệt vời *(Phát âm: /ˈbjuː.tɪ.fəl/)* ![[beautiful.mp3]]<br><br>👪 **Word Family:** Beauty (noun), Beautifully (adv)<br><br>💬 **Ví dụ:** She has a beautiful smile.<br>*(-> Cô ấy có một nụ cười đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasing the senses or mind aesthetically.

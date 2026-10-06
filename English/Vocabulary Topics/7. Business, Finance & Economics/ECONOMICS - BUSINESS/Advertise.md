@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Advertise
 *verb*
 > /ˈædvərtaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Advertise::quảng cáo *(Phát âm: /ˈædvərtaɪz/)* ![[advertise.mp3]]<br><br>👪 **Word Family:** advertisement (noun), advertiser (noun), advertising (noun)<br><br>💬 **Ví dụ:** They advertise their home-baked cakes on social media.<br>*(-> Họ quảng cáo bánh tự làm của mình trên mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to make something known generally or in public, especially in order to sell it.

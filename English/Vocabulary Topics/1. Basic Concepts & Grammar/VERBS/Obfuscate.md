@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Obfuscate
 *Verb*
 > /ˈɒb.fʌs.keɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Obfuscate::Làm mờ mịt, làm bối rối *(Phát âm: /ˈɒb.fʌs.keɪt/)* ![[obfuscate.mp3]]<br><br>👪 **Word Family:** Obfuscation (n)<br><br>💬 **Ví dụ:** He tried to obfuscate the issue.<br>*(-> Anh ta đã cố làm mờ mịt vấn đề.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something less clear and harder to understand, especially intentionally.

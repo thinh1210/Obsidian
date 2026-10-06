@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Annual
 *adj*
 > /ˈænjuəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+Annual::Hằng năm *(Phát âm: /ˈænjuəl/)* ![[annual.mp3]]<br><br>👪 **Word Family:** annually (adv)<br><br>💬 **Ví dụ:** This is our annual family gathering.<br>*(-> Đây là buổi họp mặt gia đình hằng năm của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring once a year.

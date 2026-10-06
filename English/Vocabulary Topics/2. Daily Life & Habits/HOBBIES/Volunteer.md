@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Volunteer
 *verb*
 > /ˌvɒl.ənˈtɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Volunteer::Tình nguyện *(Phát âm: /ˌvɒl.ənˈtɪər/)* ![[volunteer.mp3]]<br><br>👪 **Word Family:** Volunteer (n), Voluntary (adj)<br><br>💬 **Ví dụ:** She likes to volunteer at the animal shelter.<br>*(-> Cô ấy thích làm tình nguyện tại trạm cứu hộ động vật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To offer to do something that you do not have to do, often without having been asked to do it and/or without expecting payment.

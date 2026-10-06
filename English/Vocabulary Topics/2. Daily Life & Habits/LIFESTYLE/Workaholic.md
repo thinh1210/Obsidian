@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Workaholic
 *n.*
 > /ˌwɜːkəˈhɒlɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Workaholic::Người tham công tiếc việc *(Phát âm: /ˌwɜːkəˈhɒlɪk/)* ![[workaholic.mp3]]<br><br>👪 **Word Family:** workaholism (n.)<br><br>💬 **Ví dụ:** My boss is a workaholic.<br>*(-> Sếp tôi là một người tham công tiếc việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who compulsively works long and hard hours.

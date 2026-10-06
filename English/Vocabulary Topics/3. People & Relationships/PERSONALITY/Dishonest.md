@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Dishonest
 *adj.*
 > /dɪˈsɒn.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Dishonest::Không trung thực, dối trá, lừa lọc, gian lận *(Phát âm: /dɪˈsɒn.ɪst/)* ![[dishonest.mp3]]<br><br>👪 **Word Family:** dishonesty (n), dishonestly (adv), honest (adj)<br><br>💬 **Ví dụ:** It was dishonest of him to conceal the car's engine problems from the buyer.<br>*(-> Anh ta thật gian dối khi che giấu các trục trặc động cơ xe với người mua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not honest; intending to deceive people by lying, cheating, or stealing.

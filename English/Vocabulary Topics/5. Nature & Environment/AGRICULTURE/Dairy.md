@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Dairy
 *n.*
 > /ˈdeə.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Dairy::Nơi sản xuất bơ sữa, thuộc về sữa *(Phát âm: /ˈdeə.ri/)* ![[dairy.mp3]]<br><br>👪 **Word Family:** dairying (n)<br><br>💬 **Ví dụ:** I need to buy milk, butter, and other dairy products.<br>*(-> Tôi cần mua sữa, bơ và các sản phẩm từ sữa khác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place on a farm where milk is kept and butter and cheese are made.

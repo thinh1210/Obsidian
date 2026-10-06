@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Play
 *v.*
 > /pleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Play::Chơi, biểu diễn, đóng vai *(Phát âm: /pleɪ/)* ![[play.mp3]]<br><br>👪 **Word Family:** player, playful, playground<br><br>💬 **Ví dụ:** He plays the guitar very well.<br>*(-> Anh ấy chơi đàn guitar rất tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Take part in games for amusement; perform on a musical instrument; act a role in a play/movie.

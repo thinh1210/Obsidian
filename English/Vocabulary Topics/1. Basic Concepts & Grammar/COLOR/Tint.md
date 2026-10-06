@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Tint
 *n, v*
 > /tɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Tint::Màu nhạt (pha với trắng), nhuộm màu (nhẹ) *(Phát âm: /tɪnt/)* ![[tint.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The paper has a yellowish tint.<br>*(-> Giấy có một chút sắc vàng ngà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small amount of color, or to add color to something.

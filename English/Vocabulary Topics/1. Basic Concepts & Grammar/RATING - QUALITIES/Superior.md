@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Superior
 *adj*
 > /suːˈpɪə.ri.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Superior::Vượt trội, cấp cao hơn *(Phát âm: /suːˈpɪə.ri.ər/)* ![[superior.mp3]]<br><br>👪 **Word Family:** Superiority (noun)<br><br>💬 **Ví dụ:** This car is vastly superior to my old one.<br>*(-> Chiếc xe này vượt trội hơn hẳn xe cũ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Higher in rank, status, or quality.

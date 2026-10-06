@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Trust
 *noun*
 > /trʌst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Trust::Lòng tin, sự tin tưởng *(Phát âm: /trʌst/)* ![[trust.mp3]]<br><br>👪 **Word Family:** trustworthy (adj), trustful (adj), trusty (adj), trust (verb)<br><br>💬 **Ví dụ:** A relationship is built on mutual trust.<br>*(-> Một mối quan hệ được xây dựng dựa trên sự tin tưởng lẫn nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Firm belief in the reliability, truth, ability, or strength of someone or something.

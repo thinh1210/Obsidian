@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Document
 *noun*
 > /ˈdɒk.jə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Document::Tài liệu, văn kiện *(Phát âm: /ˈdɒk.jə.mənt/)* ![[document.mp3]]<br><br>👪 **Word Family:** document (v), documentation (n), documentary (adj/n)<br><br>💬 **Ví dụ:** Please sign the document and return it by email.<br>*(-> Vui lòng ký tên vào tài liệu và gửi lại bằng email.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written, printed, or electronic matter that provides information or evidence or that serves as an official record.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Digital sovereignty
 *noun*
 > /ˈdɪdʒ.ɪ.təl ˈsɒv.rɪn.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Digital_sovereignty::Chủ quyền kỹ thuật số (quyền kiểm soát cơ sở hạ tầng và dữ liệu kỹ thuật số) *(Phát âm: /ˈdɪdʒ.ɪ.təl ˈsɒv.rɪn.ti/)* ![[digital_sovereignty.mp3]]<br><br>👪 **Word Family:** sovereignty (n), sovereign (adj), digital (adj)<br><br>💬 **Ví dụ:** Citizens are demanding greater digital sovereignty over their personal data stored by corporations.<br>*(-> Công dân đang đòi hỏi quyền chủ quyền kỹ thuật số lớn hơn đối với dữ liệu cá nhân được lưu trữ bởi các tập đoàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The right of a state or individual to control their own digital infrastructure, data, and online presence independent of foreign powers.

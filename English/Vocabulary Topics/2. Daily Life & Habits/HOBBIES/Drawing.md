@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Drawing
 *n.*
 > /ˈdrɔː.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Drawing::Thú vui vẽ tranh hoặc bức tranh vẽ tay nghệ thuật *(Phát âm: /ˈdrɔː.ɪŋ/)* ![[drawing.mp3]]<br><br>👪 **Word Family:** draw (v), drawer (n)<br><br>💬 **Ví dụ:** Drawing has been my favorite hobby ever since I was a young child.<br>*(-> Vẽ tranh đã là sở thích lớn nhất của tôi kể từ khi tôi còn là một đứa trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or hobby of creating pictures by making lines on paper.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Rich
 *adj.*
 > /rɪtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Rich::Giàu có *(Phát âm: /rɪtʃ/)* ![[rich.mp3]]<br><br>👪 **Word Family:** richness (n.)<br><br>💬 **Ví dụ:** He is very rich.<br>*(-> Anh ấy rất giàu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a lot of money.

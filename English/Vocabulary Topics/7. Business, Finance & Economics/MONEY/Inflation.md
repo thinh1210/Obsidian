@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Inflation
 *n.*
 > /ɪnˈfleɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Inflation::Hiện tượng lạm phát làm tăng mức giá chung và giảm sức mua của đồng tiền *(Phát âm: /ɪnˈfleɪ.ʃən/)* ![[inflation.mp3]]<br><br>👪 **Word Family:** inflate (v), inflationary (adj)<br><br>💬 **Ví dụ:** Due to rising inflation, everyday grocery bills are noticeably higher than they were last year.<br>*(-> Do lạm phát tăng cao, hóa đơn mua hàng tạp hóa hàng ngày đắt hơn thấy rõ so với năm ngoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A general increase in prices and fall in the purchasing value of money over time.

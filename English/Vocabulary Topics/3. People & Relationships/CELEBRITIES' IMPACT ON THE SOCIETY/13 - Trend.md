@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Trend
 *n.*
 > /trend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+13 - Trend::Xu hướng *(Phát âm: /trend/)* ![[trend.mp3]]<br><br>👪 **Word Family:** Trendy (adj.)<br><br>💬 **Ví dụ:** Follow the trend.<br>*(-> Theo xu hướng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A general direction in which something is changing.

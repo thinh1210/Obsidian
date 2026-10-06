@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Journey
 *noun*
 > /ˈdʒɜː.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Journey::Hành trình *(Phát âm: /ˈdʒɜː.ni/)* ![[journey.mp3]]<br><br>👪 **Word Family:** Journeys, Journeyed, Journeying<br><br>💬 **Ví dụ:** The journey was fun.<br>*(-> Hành trình rất vui vẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of traveling from one place to another

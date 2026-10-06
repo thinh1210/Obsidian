@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Adaptation
 *n.*
 > /ˌæd.əpˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Adaptation::Sự thích nghi *(Phát âm: /ˌæd.əpˈteɪ.ʃən/)* ![[adaptation.mp3]]<br><br>👪 **Word Family:** adapt, adaptable<br><br>💬 **Ví dụ:** The adaptation of the business to the online market was successful.<br>*(-> Sự thích nghi của doanh nghiệp với thị trường trực tuyến đã thành công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of change by which an organism or species becomes better suited to its environment.

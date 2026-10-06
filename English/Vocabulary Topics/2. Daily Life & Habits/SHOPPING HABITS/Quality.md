@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Quality
 *n.*
 > /ˈkwɒl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Quality::Chất lượng, phẩm cấp tốt xấu của hàng hóa *(Phát âm: /ˈkwɒl.ə.ti/)* ![[quality.mp3]]<br><br>👪 **Word Family:** qualify (v), qualitative (adj)<br><br>💬 **Ví dụ:** It is worth spending a bit more on footwear to ensure lasting durability and comfort.<br>*(-> Rất đáng để chi thêm một chút cho giày dép để đảm bảo độ bền và sự êm ái lâu dài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** How good or bad something is; standard of excellence.

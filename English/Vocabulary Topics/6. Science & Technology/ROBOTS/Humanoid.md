@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Humanoid
 *adjective.*
 > /ˈhjuː.mə.nɔɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
+
+## 🗂️ Flashcard
+Humanoid::Robot nhân hình, giống người *(Phát âm: /ˈhjuː.mə.nɔɪd/)* ![[humanoid.mp3]]<br><br>👪 **Word Family:** human (noun/adj)<br><br>💬 **Ví dụ:** Honda's ASIMO was one of the most famous humanoid robots in the world.<br>*(-> ASIMO của Honda từng là một trong những robot dáng người nổi tiếng nhất thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an appearance or character resembling that of a human

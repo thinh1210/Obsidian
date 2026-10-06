@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Threadbare
 *adj*
 > /ˈθred.ber/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Threadbare::Sờn rách, mòn vẹt *(Phát âm: /ˈθred.ber/)* ![[threadbare.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He wore a threadbare coat in the cold.<br>*(-> Anh ấy mặc một chiếc áo khoác sờn rách trong giá lạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Becoming thin and tattered with age (of cloth, clothing, or soft furnishings).

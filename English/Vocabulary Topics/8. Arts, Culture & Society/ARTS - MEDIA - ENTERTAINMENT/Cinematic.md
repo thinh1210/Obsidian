@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Cinematic
 *adj.*
 > /ˌsɪnəˈmætɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Cinematic::Thuộc về điện ảnh, có tính điện ảnh *(Phát âm: /ˌsɪnəˈmætɪk/)* ![[cinematic.mp3]]<br><br>👪 **Word Family:** cinema, cinematography, cinematographer<br><br>💬 **Ví dụ:** The game features cinematic cutscenes that feel like a movie.<br>*(-> Trò chơi có các đoạn cắt cảnh điện ảnh mang lại cảm giác như một bộ phim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to movies or motion pictures; having qualities characteristic of movies.

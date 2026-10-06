@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # High-speed
 *adjective*
 > /ˌhaɪˈspiːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+High-speed::Tốc độ cao *(Phát âm: /ˌhaɪˈspiːd/)* ![[high_speed.mp3]]<br><br>👪 **Word Family:** Adjective: high-speed (tốc độ cao)<br><br>💬 **Ví dụ:** Japan is famous for its efficient high-speed trains.<br>*(-> Nhật Bản nổi tiếng với các chuyến tàu cao tốc hiệu quả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Operating at or designed for high speed.

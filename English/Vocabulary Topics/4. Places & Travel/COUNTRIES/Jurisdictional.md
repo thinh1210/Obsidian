@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Jurisdictional
 *Adjective*
 > /ˌdʒʊrɪsˈdɪkʃənl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Jurisdictional::Thuộc thẩm quyền tài phán *(Phát âm: /ˌdʒʊrɪsˈdɪkʃənl/)* ![[jurisdictional.mp3]]<br><br>👪 **Word Family:** Jurisdiction<br><br>💬 **Ví dụ:** The two states had a jurisdictional dispute over the river.<br>*(-> Hai bang có tranh chấp thẩm quyền đối với con sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the official power to make legal decisions and judgments.

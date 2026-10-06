@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Architecture
 *noun*
 > /ˈɑːkɪtektʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Architecture::Kiến trúc học, ngành kiến trúc *(Phát âm: /ˈɑːkɪtektʃə(r)/)* ![[architecture.mp3]]<br><br>👪 **Word Family:** architect, architectural<br><br>💬 **Ví dụ:** Rome is famous for its ancient architecture.<br>*(-> Rome nổi tiếng với kiến trúc cổ kính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of designing and constructing buildings.

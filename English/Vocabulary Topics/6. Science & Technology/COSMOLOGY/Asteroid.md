@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Asteroid
 *Noun*
 > /ˈæs.tər.ɔɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Hệ Mặt Trời, Thiên hà & Không gian liên sao
+
+## 🗂️ Flashcard
+Asteroid::Tiểu hành tinh *(Phát âm: /ˈæs.tər.ɔɪd/)* ![[asteroid.mp3]]<br><br>👪 **Word Family:** asteroidal (adj)<br><br>💬 **Ví dụ:** Scientists are monitoring a nearby asteroid for any potential collision.<br>*(-> Các nhà khoa học đang theo dõi một tiểu hành tinh gần đó để phòng ngừa va chạm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small rocky body orbiting the sun, especially between Mars and Jupiter.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Device
 *Noun*
 > /dɪˈvaɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Device::Thiết bị, dụng cụ *(Phát âm: /dɪˈvaɪs/)* ![[device.mp3]]<br><br>👪 **Word Family:** Devise (v)<br><br>💬 **Ví dụ:** Please turn off all electronic devices during takeoff.<br>*(-> Vui lòng tắt tất cả các thiết bị điện tử khi máy bay cất cánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or machine that has been invented for a particular purpose.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Expert
 *n.*
 > /ˈek.spɜːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Expert::Chuyên gia, người có trình độ hiểu biết sâu rộng và kỹ năng bậc thầy trong một lĩnh vực *(Phát âm: /ˈek.spɜːt/)* ![[expert.mp3]]<br><br>👪 **Word Family:** expertise (n), expertly (adv)<br><br>💬 **Ví dụ:** The government convened a panel of leading environmental experts to draft new energy policies.<br>*(-> Chính phủ đã triệu tập một hội đồng các chuyên gia môi trường hàng đầu để soạn thảo chính sách năng lượng mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person with a high level of knowledge or skill relating to a particular subject or activity.

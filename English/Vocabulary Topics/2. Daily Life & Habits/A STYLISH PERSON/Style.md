@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Style
 *n.*
 > /staɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Style::Phong cách *(Phát âm: /staɪl/)* ![[style.mp3]]<br><br>👪 **Word Family:** Stylish (adj), Stylist (n)<br><br>💬 **Ví dụ:** I like your style of dressing.<br>*(-> Tôi thích phong cách ăn mặc của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular way of designing or wearing clothes.

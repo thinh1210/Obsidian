@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Impeccable
 *adj.*
 > /ɪmˈpekəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Impeccable::Hoàn hảo, không tì vết *(Phát âm: /ɪmˈpekəbl/)* ![[impeccable.mp3]]<br><br>👪 **Word Family:** Impeccably (adv)<br><br>💬 **Ví dụ:** Her taste in clothes is impeccable.<br>*(-> Gu quần áo của cô ấy là không chê vào đâu được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Without mistakes or faults; perfect.

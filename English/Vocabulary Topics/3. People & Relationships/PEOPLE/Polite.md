@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Polite
 *adj.*
 > /pəˈlaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Polite::Lịch sự, lễ phép, cư xử đúng mực nhã nhặn *(Phát âm: /pəˈlaɪt/)* ![[polite.mp3]]<br><br>👪 **Word Family:** politely (adv), politeness (n), impolite (adj)<br><br>💬 **Ví dụ:** Saying 'please' and 'thank you' is the cornerstone of polite behavior everywhere.<br>*(-> Nói 'làm ơn' và 'cảm ơn' là nền tảng của cách cư xử lịch sự ở khắp mọi nơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Behaving in a way that is socially correct and shows understanding of and care for other people's feelings.

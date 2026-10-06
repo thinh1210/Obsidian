@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Constitution
 *n*
 > /ˌkɒn.stɪˈtjuː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Constitution::Hiến pháp *(Phát âm: /ˌkɒn.stɪˈtjuː.ʃən/)* ![[constitution.mp3]]<br><br>👪 **Word Family:** constitutional (adj), unconstitutional (adj), constitutionalism (n)<br><br>💬 **Ví dụ:** Freedom of speech is protected by the constitution.<br>*(-> Tự do ngôn luận được bảo vệ bởi hiến pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fundamental laws and principles that govern a country.

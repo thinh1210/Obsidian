@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Bark
 *noun*
 > /bɑːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Bark::Vỏ cây *(Phát âm: /bɑːk/)* ![[bark.mp3]]<br><br>👪 **Word Family:** Noun: bark (vỏ cây, tiếng sủa), Verb: bark (bóc vỏ, sủa)<br><br>💬 **Ví dụ:** The bark of the birch tree is white and papery.<br>*(-> Vỏ cây phong dương có màu trắng và mỏng như giấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tough outer covering of a tree trunk.

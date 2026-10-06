@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Song
 *n.*
 > /sɒŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Song::Bài hát *(Phát âm: /sɒŋ/)* ![[song.mp3]]<br><br>👪 **Word Family:** singer, songwriting<br><br>💬 **Ví dụ:** This is my favorite song.<br>*(-> Đây là bài hát yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A short poem or other set of words set to music or meant to be sung.

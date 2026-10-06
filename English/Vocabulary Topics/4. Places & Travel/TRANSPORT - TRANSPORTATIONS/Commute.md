@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Commute
 *verb*
 > /kəˈmjuːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Commute::Đi làm đều đặn hàng ngày (bằng xe buýt, tàu hỏa...) *(Phát âm: /kəˈmjuːt/)* ![[commute.mp3]]<br><br>👪 **Word Family:** Verb: commute (đi làm hàng ngày), Noun: commute (quãng đường đi làm), commuter (người đi làm hàng ngày)<br><br>💬 **Ví dụ:** She commutes from the suburbs to the city center every day.<br>*(-> Cô ấy đi làm từ ngoại ô vào trung tâm thành phố mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travel some distance on a regular basis between one's home and place of work.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Hedonism
 *n.*
 > /ˈhiː.dən.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Hedonism::Chủ nghĩa khoái lạc *(Phát âm: /ˈhiː.dən.ɪ.zəm/)* ![[hedonism.mp3]]<br><br>👪 **Word Family:** hedonist, hedonistic<br><br>💬 **Ví dụ:** The weekend in Vegas was a period of pure hedonism.<br>*(-> Cuối tuần ở Vegas là một khoảng thời gian hoàn toàn theo chủ nghĩa khoái lạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The pursuit of pleasure; sensual self-indulgence.

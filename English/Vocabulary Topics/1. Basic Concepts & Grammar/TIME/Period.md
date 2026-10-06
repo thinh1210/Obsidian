@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Period
 *n.*
 > /ˈpɪəriəd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Period::Thời kỳ, giai đoạn *(Phát âm: /ˈpɪəriəd/)* ![[period.mp3]]<br><br>👪 **Word Family:** periodic (adj.)<br><br>💬 **Ví dụ:** It was a difficult period.<br>*(-> Đó là một giai đoạn khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A length or portion of time

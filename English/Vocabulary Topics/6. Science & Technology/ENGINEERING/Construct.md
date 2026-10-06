@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Construct
 *verb*
 > /kənˈstrʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Construct::Xây dựng, kiến tạo *(Phát âm: /kənˈstrʌkt/)* ![[construct.mp3]]<br><br>👪 **Word Family:** construction (n), constructive (adj), constructor (n)<br><br>💬 **Ví dụ:** The government plans to construct a high-speed railway connecting the two cities.<br>*(-> Chính phủ có kế hoạch xây dựng một tuyến đường sắt cao tốc kết nối hai thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To build or erect something large or complex (such as a road, bridge, or building).

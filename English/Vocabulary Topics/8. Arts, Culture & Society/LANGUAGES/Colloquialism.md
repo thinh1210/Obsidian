@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Colloquialism
 *n.*
 > /kəˈləʊkwiəlɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Colloquialism::Lối nói thông tục, từ ngữ thông tục *(Phát âm: /kəˈləʊkwiəlɪzəm/)* ![[colloquialism.mp3]]<br><br>👪 **Word Family:** colloquial, colloquially<br><br>💬 **Ví dụ:** 'Gonna' is a colloquialism for 'going to'.<br>*(-> 'Gonna' là một từ thông tục thay cho 'going to'.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A word or phrase that is not formal or literary, typically one used in ordinary conversation

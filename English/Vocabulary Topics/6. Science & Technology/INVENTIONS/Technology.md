@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Technology
 *Noun*
 > /tekˈnɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Technology::Công nghệ *(Phát âm: /tekˈnɒl.ə.dʒi/)* ![[technology.mp3]]<br><br>👪 **Word Family:** Technological (adj), technologist (n)<br><br>💬 **Ví dụ:** Modern technology makes communication much easier.<br>*(-> Công nghệ hiện đại giúp việc giao tiếp dễ dàng hơn nhiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The application of scientific knowledge for practical purposes.

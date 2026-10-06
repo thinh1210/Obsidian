@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Repression
 *noun*
 > /rɪˈpreʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Repression::Sự kìm nén *(Phát âm: /rɪˈpreʃ.ən/)* ![[repression.mp3]]<br><br>👪 **Word Family:** repress (verb)<br><br>💬 **Ví dụ:** Memory repression is a defense mechanism.<br>*(-> Sự kìm nén trí nhớ là một cơ chế phòng vệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The restraint, prevention, or inhibition of a feeling, quality, etc.

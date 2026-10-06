@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Thrilled
 *adj.*
 > /θrɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Thrilled::Vô cùng sung sướng, thích thú và phấn khích tột độ *(Phát âm: /θrɪld/)* ![[thrilled.mp3]]<br><br>👪 **Word Family:** thrill (n/v), thrilling (adj)<br><br>💬 **Ví dụ:** She was absolutely thrilled when she received the official acceptance letter from Oxford.<br>*(-> Cô ấy vô cùng sung sướng khi nhận được thư mời nhập học chính thức từ Đại học Oxford.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely pleased and excited.

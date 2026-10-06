@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Debilitating
 *adj*
 > /dɪˈbɪlɪteɪtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Debilitating::Làm suy yếu, làm suy kiệt *(Phát âm: /dɪˈbɪlɪteɪtɪŋ/)* ![[debilitating.mp3]]<br><br>👪 **Word Family:** debilitate (v), debility (n), debilitated (adj)<br><br>💬 **Ví dụ:** Arthritis can be a debilitating disease that limits daily activities.<br>*(-> Viêm khớp có thể là một căn bệnh gây suy nhược làm hạn chế các hoạt động hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a disease or condition) making someone very weak and infirm.

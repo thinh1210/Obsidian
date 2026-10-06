@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Lake
 *n.*
 > /leɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Lake::Hồ nước *(Phát âm: /leɪk/)* ![[lake.mp3]]<br><br>👪 **Word Family:** lakeside (n)<br><br>💬 **Ví dụ:** The lake is peaceful and calm.<br>*(-> Hồ nước thật yên bình và tĩnh lặng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large body of water surrounded by land.

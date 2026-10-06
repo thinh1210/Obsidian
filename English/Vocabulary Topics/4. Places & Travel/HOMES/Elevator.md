@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Elevator
 *noun*
 > /ˈɛləveɪtər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Elevator::Thang máy *(Phát âm: /ˈɛləveɪtər/)* ![[elevator.mp3]]<br><br>👪 **Word Family:** elevate (v)<br><br>💬 **Ví dụ:** The elevator is out of order.<br>*(-> Thang máy bị hỏng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine that carries people or goods up and down to different levels in a building.

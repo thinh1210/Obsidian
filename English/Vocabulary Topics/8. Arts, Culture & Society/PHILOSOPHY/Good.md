@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Good
 *adj.*
 > /ɡʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Good::Tốt, có đạo đức *(Phát âm: /ɡʊd/)* ![[good.mp3]]<br><br>👪 **Word Family:** goodness, well<br><br>💬 **Ví dụ:** Helping others is a good thing to do.<br>*(-> Giúp đỡ người khác là một điều tốt nên làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Morally excellent; virtuous; righteous.

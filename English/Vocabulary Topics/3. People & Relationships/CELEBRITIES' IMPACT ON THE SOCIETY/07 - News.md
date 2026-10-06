@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # News
 *n.*
 > /njuːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+07 - News::Tin tức *(Phát âm: /njuːz/)* ![[news.mp3]]<br><br>👪 **Word Family:** Newspaper (n.)<br><br>💬 **Ví dụ:** I read the news.<br>*(-> Tôi đọc tin tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Information about recent events.

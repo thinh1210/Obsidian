@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Roundabout
 *n.*
 > /ˈraʊndəbaʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Roundabout::Bùng binh, vòng xuyến *(Phát âm: /ˈraʊndəbaʊt/)* ![[roundabout.mp3]]<br><br>👪 **Word Family:** round (adj)<br><br>💬 **Ví dụ:** Take the second exit at the roundabout.<br>*(-> Đi lối ra thứ hai ở vòng xuyến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A circular place where roads meet and traffic goes around a central island.

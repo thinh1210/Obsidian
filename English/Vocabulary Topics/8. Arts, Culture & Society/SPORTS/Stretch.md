@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Stretch
 *v./n.*
 > /stretʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Stretch::Kéo giãn cơ bắp giúp tăng độ dẻo dai và tránh chuột rút *(Phát âm: /stretʃ/)* ![[stretch.mp3]]<br><br>👪 **Word Family:** stretchy (adj), stretcher (n)<br><br>💬 **Ví dụ:** Remember to stretch your calves and back thoroughly after finishing your marathon run.<br>*(-> Hãy nhớ giãn bắp chân và lưng thật kỹ sau khi kết thúc buổi chạy marathon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To extend or lengthen one's limbs or muscles to their full length, typically so as to flex or prepare them for physical activity.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Allegory
 *noun*
 > /ˈæl.ə.ɡər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Allegory::Tác phẩm ngụ ngôn *(Phát âm: /ˈæl.ə.ɡər.i/)* ![[allegory.mp3]]<br><br>👪 **Word Family:** allegorical (adj), allegorically (adv), allegorize (v)<br><br>💬 **Ví dụ:** "Animal Farm" is a famous political allegory about totalitarianism.<br>*(-> "Trại súc vật" là một tác phẩm ngụ ngôn chính trị nổi tiếng về chủ nghĩa độc tài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A story, poem, or picture that can be interpreted to reveal a hidden moral or political meaning.

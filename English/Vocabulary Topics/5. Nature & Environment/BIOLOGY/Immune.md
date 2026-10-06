@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Immune
 *adj.*
 > /ɪˈmjuːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Immune::Miễn dịch, được miễn dịch *(Phát âm: /ɪˈmjuːn/)* ![[immune.mp3]]<br><br>👪 **Word Family:** immunity, immunize, immunization<br><br>💬 **Ví dụ:** Garlic can help boost your immune system.<br>*(-> Tỏi có thể giúp tăng cường hệ miễn dịch của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Resistant to a particular infection or toxin owing to the presence of specific antibodies or sensitized white blood cells.

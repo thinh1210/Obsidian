@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Fiction
 *noun*
 > /ˈfɪk.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Fiction::Văn học hư cấu, truyện giả tưởng *(Phát âm: /ˈfɪk.ʃən/)* ![[fiction.mp3]]<br><br>👪 **Word Family:** fictional (adj), fictitious (adj), fictionalize (v)<br><br>💬 **Ví dụ:** I prefer reading fiction because it stimulates my imagination.<br>*(-> Tôi thích đọc truyện hư cấu hơn vì nó kích thích trí tưởng tượng của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Literature in the form of prose that describes imaginary events and people.

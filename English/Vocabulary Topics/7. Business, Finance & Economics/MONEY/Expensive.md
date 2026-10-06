@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Expensive
 *adjective*
 > /ɪkˈspen.sɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Expensive::Đắt đỏ *(Phát âm: /ɪkˈspen.sɪv/)* ![[expensive.mp3]]<br><br>👪 **Word Family:** expensively (adv), expensiveness (n)<br><br>💬 **Ví dụ:** Eating at that restaurant is very expensive.<br>*(-> Ăn ở nhà hàng đó rất đắt đỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Costing a lot of money

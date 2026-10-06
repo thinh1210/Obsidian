@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Leader
 *noun*
 > /ˈliː.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Leader::Người lãnh đạo, thủ lĩnh *(Phát âm: /ˈliː.dər/)* ![[leader.mp3]]<br><br>👪 **Word Family:** lead (v), leadership (n)<br><br>💬 **Ví dụ:** A good leader listens to the opinions of their team.<br>*(-> Một người lãnh đạo giỏi biết lắng nghe ý kiến của nhóm mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The person who leads or commands a group, organization, or country.

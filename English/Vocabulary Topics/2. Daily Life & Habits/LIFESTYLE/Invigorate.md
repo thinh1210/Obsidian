@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Invigorate
 *v.*
 > /ɪnˈvɪɡəreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Invigorate::Tiếp thêm sinh lực *(Phát âm: /ɪnˈvɪɡəreɪt/)* ![[invigorate.mp3]]<br><br>👪 **Word Family:** invigorating (adj.)<br><br>💬 **Ví dụ:** The cold shower invigorated me.<br>*(-> Tắm nước lạnh đã tiếp thêm sinh lực cho tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Give strength or energy to.

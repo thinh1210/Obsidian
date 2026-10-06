@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Perform
 *v.*
 > /pəˈfɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Perform::Biểu diễn, trình diễn *(Phát âm: /pəˈfɔːm/)* ![[perform.mp3]]<br><br>👪 **Word Family:** performance (n), performer (n)<br><br>💬 **Ví dụ:** The band is going to perform their new album live next week.<br>*(-> Ban nhạc sẽ biểu diễn trực tiếp album mới của họ vào tuần tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Present a form of entertainment to an audience.

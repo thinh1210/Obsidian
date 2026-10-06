@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Culture
 *n.*
 > /ˈkʌl.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Culture::Văn hóa *(Phát âm: /ˈkʌl.tʃər/)* ![[culture.mp3]]<br><br>👪 **Word Family:** cultural, culturally, cultivate<br><br>💬 **Ví dụ:** I love learning about different cultures when I travel.<br>*(-> Tôi thích tìm hiểu về các nền văn hóa khác nhau khi đi du lịch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The customs, arts, social institutions, and achievements of a particular nation, people, or other social group.

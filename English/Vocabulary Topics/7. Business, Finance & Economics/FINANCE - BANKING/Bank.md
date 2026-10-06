@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Bank
 *noun.*
 > /bæŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Bank::Ngân hàng *(Phát âm: /bæŋk/)* ![[bank.mp3]]<br><br>👪 **Word Family:** banker (noun), banking (noun)<br><br>💬 **Ví dụ:** I need to go to the bank to deposit some cash.<br>*(-> Tôi cần đến ngân hàng để gửi một ít tiền mặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An organization where people can store and borrow money.

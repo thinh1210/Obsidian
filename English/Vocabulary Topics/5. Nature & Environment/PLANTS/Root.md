@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Root
 *noun*
 > /ruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Root::Rễ cây *(Phát âm: /ruːt/)* ![[root.mp3]]<br><br>👪 **Word Family:** Noun: root (rễ cây, nguồn gốc), Verb: root (bén rễ, cắm rễ), Adjective: rooted (bám rễ sâu, ăn sâu)<br><br>💬 **Ví dụ:** We need to dig up the roots of the old plant.<br>*(-> Chúng ta cần đào rễ của cây cũ lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of a plant that grows under the ground, absorbing water and minerals.

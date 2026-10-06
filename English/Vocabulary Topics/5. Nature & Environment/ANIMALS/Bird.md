@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Bird
 *noun*
 > /bɜːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Bird::Con chim *(Phát âm: /bɜːd/)* ![[bird.mp3]]<br><br>👪 **Word Family:** bird (n), birdhouse (n)<br><br>💬 **Ví dụ:** A small bird is singing outside my window.<br>*(-> Một con chim nhỏ đang hót ngoài cửa sổ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A creature with feathers and wings, usually able to fly.

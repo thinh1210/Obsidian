@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Chronological
 *adj.*
 > /ˌkrɒnəˈlɒdʒɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Chronological::Theo trình tự thời gian *(Phát âm: /ˌkrɒnəˈlɒdʒɪkl/)* ![[chronological.mp3]]<br><br>👪 **Word Family:** chronologically (adv.)<br><br>💬 **Ví dụ:** List your jobs in chronological order.<br>*(-> Liệt kê các công việc của bạn theo trình tự thời gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the establishment of dates and time sequences

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Wisdom
 *n.*
 > /ˈwɪz.dəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Wisdom::Trí tuệ, sự khôn ngoan *(Phát âm: /ˈwɪz.dəm/)* ![[wisdom.mp3]]<br><br>👪 **Word Family:** wise, wisely<br><br>💬 **Ví dụ:** Elders are often respected for their experience and wisdom.<br>*(-> Người lớn tuổi thường được kính trọng vì kinh nghiệm và trí tuệ của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of having experience, knowledge, and good judgment.

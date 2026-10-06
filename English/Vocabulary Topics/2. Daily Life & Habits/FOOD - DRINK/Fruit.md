@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Fruit
 *n.*
 > /fruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Fruit::Trái cây *(Phát âm: /fruːt/)* ![[fruit.mp3]]<br><br>👪 **Word Family:** fruity, fruitful, fruitless<br><br>💬 **Ví dụ:** Eat more fruit.<br>*(-> Ăn nhiều trái cây hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The sweet and fleshy product of a tree or other plant.

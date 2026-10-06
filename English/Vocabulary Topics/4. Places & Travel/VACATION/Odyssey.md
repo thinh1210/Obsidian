@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Odyssey
 *Noun*
 > /ˈɑdəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Odyssey::Hành trình dài và gian nan *(Phát âm: /ˈɑdəsi/)* ![[odyssey.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** His life was a remarkable odyssey.<br>*(-> Cuộc đời anh là một hành trình dài đáng nhớ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long and eventful or adventurous journey or experience.

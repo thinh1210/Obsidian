@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Paradigm
 *Noun*
 > /ˈpær.ə.daɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Paradigm::Mô hình, hệ khuôn mẫu lý thuyết *(Phát âm: /ˈpær.ə.daɪm/)* ![[paradigm.mp3]]<br><br>👪 **Word Family:** Paradigmatic (adj)<br><br>💬 **Ví dụ:** The mobile internet created a new paradigm for social interactions.<br>*(-> Internet di động đã tạo ra một mô hình mới cho các tương tác xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A typical example or pattern of something; a set of theories that explain a subject.

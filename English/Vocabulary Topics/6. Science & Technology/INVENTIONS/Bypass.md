@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Bypass
 *Verb*
 > /ˈbaɪ.pɑːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Bypass::Đi đường vòng, bỏ qua, vượt qua một bước quy trình *(Phát âm: /ˈbaɪ.pɑːs/)* ![[bypass.mp3]]<br><br>👪 **Word Family:** Bypass (n)<br><br>💬 **Ví dụ:** We bypassed the traffic jam by taking back streets.<br>*(-> Chúng tôi đã tránh được vụ kẹt xe bằng cách đi đường hẻm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To avoid something by going around it or finding another way.

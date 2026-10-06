@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Atmosphere
 *Noun*
 > /ˈæt.məs.fɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Atmosphere::Khí quyển, bầu không khí *(Phát âm: /ˈæt.məs.fɪər/)* ![[atmosphere.mp3]]<br><br>👪 **Word Family:** atmospheric (adj), atmospherics (n)<br><br>💬 **Ví dụ:** The atmosphere tonight is very cozy.<br>*(-> Bầu không khí tối nay thật ấm cúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The envelope of gases surrounding the earth or another planet.

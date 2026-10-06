@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Wedding
 *noun*
 > /ˈwedɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Wedding::Đám cưới *(Phát âm: /ˈwedɪŋ/)* ![[wedding.mp3]]<br><br>👪 **Word Family:** Wed (verb)<br><br>💬 **Ví dụ:** We are going to a wedding.<br>*(-> Chúng tôi sẽ đi dự một đám cưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A marriage ceremony and any celebrations such as a meal or a party that follow it.

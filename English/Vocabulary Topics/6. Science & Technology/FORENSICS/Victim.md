@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Victim
 *noun*
 > /ˈvɪk.tɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Victim::Nạn nhân *(Phát âm: /ˈvɪk.tɪm/)* ![[victim.mp3]]<br><br>👪 **Word Family:** victimize (v), victimless (adj), victimhood (n)<br><br>💬 **Ví dụ:** The victim was taken to hospital immediately.<br>*(-> Nạn nhân được đưa ngay vào bệnh viện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person harmed or killed as a result of a crime or accident.

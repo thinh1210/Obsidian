@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Troll
 *noun*
 > /trəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
+
+## 🗂️ Flashcard
+Troll::Kẻ khiêu khích trên mạng, kẻ phá bĩnh *(Phát âm: /trəʊl/)* ![[troll.mp3]]<br><br>👪 **Word Family:** troll (v), trolling (n)<br><br>💬 **Ví dụ:** Just ignore him, he is just an internet troll trying to get a reaction.<br>*(-> Cứ kệ anh ta đi, anh ta chỉ là một kẻ khiêu khích trên mạng đang cố kiếm phản ứng thôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who posts inflammatory or off-topic messages online with the intent of provoking others

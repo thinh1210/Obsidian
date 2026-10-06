@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Golden
 *adj*
 > /ˈɡoʊl.dən/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Golden::Màu vàng óng, lấp lánh (như vàng) *(Phát âm: /ˈɡoʊl.dən/)* ![[golden.mp3]]<br><br>👪 **Word Family:** gold (n)<br><br>💬 **Ví dụ:** The fields turned golden in the autumn.<br>*(-> Cánh đồng chuyển sang màu vàng óng vào mùa thu.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having the color or shine of gold.

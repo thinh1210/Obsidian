@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Astronaut
 *noun*
 > /ˈæs.trə.nɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
+
+## 🗂️ Flashcard
+Astronaut::Phi hành gia *(Phát âm: /ˈæs.trə.nɔːt/)* ![[astronaut.mp3]]<br><br>👪 **Word Family:** astronautics (n)<br><br>💬 **Ví dụ:** The astronaut showed us how to eat in zero gravity.<br>*(-> Phi hành gia đã chỉ cho chúng tôi cách ăn trong môi trường không trọng lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is trained to travel in a spacecraft.

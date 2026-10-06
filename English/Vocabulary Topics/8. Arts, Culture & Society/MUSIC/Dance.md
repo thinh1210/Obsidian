@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Dance
 *v.*
 > /dɑːns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Dance::Nhảy múa, khiêu vũ *(Phát âm: /dɑːns/)* ![[dance.mp3]]<br><br>👪 **Word Family:** dancer (n), dancing (n)<br><br>💬 **Ví dụ:** They danced all night at the wedding party.<br>*(-> Họ đã nhảy múa suốt đêm tại tiệc cưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move rhythmically to music, typically following a set sequence of steps.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Hypersonic
 *adjective*
 > /ˌhaɪ.pəˈsɒn.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Hypersonic::Siêu thanh cực cao (từ Mach 5 trở lên) *(Phát âm: /ˌhaɪ.pəˈsɒn.ɪk/)* ![[hypersonic.mp3]]<br><br>👪 **Word Family:** supersonic (adj), Mach number (n), sonic boom (n)<br><br>💬 **Ví dụ:** Scientists are working on hypersonic passenger aircraft that could cross the Atlantic in an hour.<br>*(-> Các nhà khoa học đang nghiên cứu máy bay hành khách siêu thanh có thể vượt Đại Tây Dương trong một giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to speeds of Mach 5 (five times the speed of sound) or greater.

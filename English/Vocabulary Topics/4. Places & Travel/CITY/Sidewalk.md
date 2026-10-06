@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Sidewalk
 *n.*
 > /ˈsaɪdwɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Sidewalk::Vỉa hè *(Phát âm: /ˈsaɪdwɔːk/)* ![[sidewalk.mp3]]<br><br>👪 **Word Family:** side (n), walk (v)<br><br>💬 **Ví dụ:** Please walk on the sidewalk.<br>*(-> Làm ơn đi bộ trên vỉa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A path with a hard surface on one or both sides of a road.

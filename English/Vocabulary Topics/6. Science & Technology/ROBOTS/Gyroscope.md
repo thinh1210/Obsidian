@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Gyroscope
 *noun.*
 > /ˈdʒaɪ.rə.skoʊp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Gyroscope::Con quay hồi chuyển *(Phát âm: /ˈdʒaɪ.rə.skoʊp/)* ![[gyroscope.mp3]]<br><br>👪 **Word Family:** gyroscopic (adj)<br><br>💬 **Ví dụ:** The robot dog uses an internal gyroscope to stay balanced on icy surfaces.<br>*(-> Chú chó robot sử dụng một con quay hồi chuyển bên trong để giữ thăng bằng trên bề mặt băng giá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device consisting of a wheel or disc mounted so that it can spin rapidly about an axis which is free to alter in direction, used for stability and navigation

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Symbol
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - sign, emblem, token
+
+
+## 🗂️ Flashcard
+Symbol::Biểu tượng *(Phát âm: /ˈsɪm.bəl/)* ![[symbol.mp3]]<br><br>👪 **Word Family:** [Noun]: symbol, symbolism, [Verb]: symbolize, [Adj]: symbolic, [Adv]: symbolically<br><br>💬 **Ví dụ:** The dove is a universal symbol of peace.<br>*(-> Chim bồ câu là biểu tượng phổ quát của hòa bình.)*

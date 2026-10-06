@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Spelunking
 *noun*
 > /spɪˈlʌŋkɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Spelunking::Hoạt động thám hiểm hang động *(Phát âm: /spɪˈlʌŋkɪŋ/)* ![[spelunking.mp3]]<br><br>👪 **Word Family:** Spelunker (n)<br><br>💬 **Ví dụ:** We went spelunking in the limestone caves last weekend.<br>*(-> Chúng tôi đã đi thám hiểm hang đá vôi cuối tuần trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The exploration of caves, especially as a hobby.

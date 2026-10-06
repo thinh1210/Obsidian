@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Paparazzi
 *n.*
 > /ˌpæp.ərˈæt.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Media | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+27 - Paparazzi::Thợ săn ảnh *(Phát âm: /ˌpæp.ərˈæt.si/)* ![[paparazzi.mp3]]<br><br>👪 **Word Family:** Paparazzo (n.)<br><br>💬 **Ví dụ:** Chased by paparazzi.<br>*(-> Bị thợ săn ảnh đuổi theo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Photographers who follow famous people.

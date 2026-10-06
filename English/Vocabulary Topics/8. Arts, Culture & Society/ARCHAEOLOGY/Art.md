@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Art
 *noun*
 > /ɑːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Art::Nghệ thuật *(Phát âm: /ɑːt/)* ![[art.mp3]]<br><br>👪 **Word Family:** artist (noun), artistic (adj), artificially (adv)<br><br>💬 **Ví dụ:** She is studying art and design at college.<br>*(-> Cô ấy đang học nghệ thuật và thiết kế tại trường cao đẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expression or application of human creative skill and imagination, typically in a visual form

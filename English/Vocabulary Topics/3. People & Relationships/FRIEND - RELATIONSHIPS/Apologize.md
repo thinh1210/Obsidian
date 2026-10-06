@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Apologize
 *verb*
 > /əˈpɑː.lə.dʒaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Apologize::Xin lỗi *(Phát âm: /əˈpɑː.lə.dʒaɪz/)* ![[apologize.mp3]]<br><br>👪 **Word Family:** apology<br><br>💬 **Ví dụ:** I must apologize for my mistake.<br>*(-> Tôi phải xin lỗi vì sai lầm của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Express regret for something that one has done wrong.

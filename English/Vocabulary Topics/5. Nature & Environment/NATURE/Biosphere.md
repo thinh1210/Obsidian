@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Biosphere
 *Noun*
 > /ˈbaɪəsfiər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Biosphere::Sinh quyển *(Phát âm: /ˈbaɪəsfiər/)* ![[biosphere.mp3]]<br><br>👪 **Word Family:** biospheric, sphere<br><br>💬 **Ví dụ:** The biosphere is the global ecological system integrating all living beings.<br>*(-> Sinh quyển là hệ thống sinh thái toàn cầu tích hợp tất cả sinh vật sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The regions of the surface, atmosphere, and hydrosphere of the earth occupied by living organisms.

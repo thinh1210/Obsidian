@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Download
 *v./n.*
 > /ˌdaʊnˈləʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Download::Hành động tải dữ liệu từ máy chủ mạng về thiết bị cá nhân *(Phát âm: /ˌdaʊnˈləʊd/)* ![[download.mp3]]<br><br>👪 **Word Family:** downloadable (adj)<br><br>💬 **Ví dụ:** You can download the PDF lecture slides directly from the course website.<br>*(-> Bạn có thể tải slide bài giảng định dạng PDF trực tiếp từ trang web của khóa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To copy data, files, or software from another computer or the internet to your own device.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # conception
 *n.*
 > /kənˈsep.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Conception::Sự hình thành ý tưởng, nhận thức, thụ thai *(Phát âm: /kənˈsep.ʃən/)* ![[conception.mp3]]<br><br>👪 **Word Family:** conceive (v), concept (n), conceptual (adj)<br><br>💬 **Ví dụ:** The plan was flawed from its very conception.<br>*(-> Kế hoạch đã có sai sót ngay từ khi mới bắt đầu hình thành.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The forming of an idea, plan, or opinion, or the starting point of an invention

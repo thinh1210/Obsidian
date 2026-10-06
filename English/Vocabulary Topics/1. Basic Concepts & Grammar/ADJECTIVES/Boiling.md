@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Boiling
 *adj.*
 > /ˈbɔɪlɪŋ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Boiling::Nóng sôi *(Phát âm: /ˈbɔɪlɪŋ/)* ![[boiling.mp3]]<br><br>👪 **Word Family:** boil<br><br>💬 **Ví dụ:** It's boiling today.<br>*(-> Hôm nay nóng sôi.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely hot

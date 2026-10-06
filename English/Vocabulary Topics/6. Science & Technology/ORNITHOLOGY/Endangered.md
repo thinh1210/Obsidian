@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Endangered
 *adjective*
 > /ɪnˈdeɪn.dʒəd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Endangered::Bị đe dọa (tuyệt chủng) *(Phát âm: /ɪnˈdeɪn.dʒəd/)* ![[endangered.mp3]]<br><br>👪 **Word Family:** danger (n), endanger (v), endangered (adj)<br><br>💬 **Ví dụ:** The giant panda is no longer critically endangered, but still vulnerable.<br>*(-> Gấu trúc khổng lồ không còn ở mức nguy cấp cực kỳ nghiêm trọng nữa, nhưng vẫn dễ bị tổn thương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a species) seriously at risk of extinction.

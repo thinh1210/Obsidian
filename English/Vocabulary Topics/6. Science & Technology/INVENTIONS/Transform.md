@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Transform
 *Verb*
 > /trænsˈfɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Transform::Biến đổi, chuyển đổi *(Phát âm: /trænsˈfɔːm/)* ![[transform.mp3]]<br><br>👪 **Word Family:** Transformation (n), transformative (adj)<br><br>💬 **Ví dụ:** She transformed her backyard into a beautiful garden.<br>*(-> Cô ấy đã biến sân sau của mình thành một khu vườn xinh đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To change in form, appearance, or structure.

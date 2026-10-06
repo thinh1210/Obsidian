@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Linguistics
 *noun*
 > /lɪŋˈɡwɪs.tɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
+
+## 🗂️ Flashcard
+Linguistics::ngôn ngữ học *(Phát âm: /lɪŋˈɡwɪs.tɪks/)* ![[linguistics.mp3]]<br><br>👪 **Word Family:** linguist (n), linguistic (adj), linguistically (adv)<br><br>💬 **Ví dụ:** She decided to major in linguistics at university.<br>*(-> Cô ấy quyết định theo học chuyên ngành ngôn ngữ học tại trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the scientific study of language and its structure

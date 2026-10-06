@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Vicinity
 *n.*
 > /vəˈsɪn.ə.t̬i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
+
+## 🗂️ Flashcard
+Vicinity::Vùng lân cận *(Phát âm: /vəˈsɪn.ə.t̬i/)* ![[vicinity.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** There is no hospital in the immediate vicinity.<br>*(-> Không có bệnh viện nào ở khu vực lân cận ngay sát đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The area near or surrounding a particular place.

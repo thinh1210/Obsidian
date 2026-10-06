@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Nectar
 *noun*
 > /ˈnektər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Nectar::Mật hoa *(Phát âm: /ˈnektər/)* ![[nectar.mp3]]<br><br>👪 **Word Family:** Noun: nectar (mật hoa), Adjective: nectareous (ngọt như mật hoa)<br><br>💬 **Ví dụ:** Bees fly from flower to flower to collect nectar.<br>*(-> Ong bay từ bông hoa này sang bông hoa khác để hút mật hoa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sweet liquid secreted by flowers as an attraction for pollinators.

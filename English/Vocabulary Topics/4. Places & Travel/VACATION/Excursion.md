@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Excursion
 *Noun*
 > /ɪkˈskɜrʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Excursion::Chuyến dã ngoại/du ngoạn *(Phát âm: /ɪkˈskɜrʒən/)* ![[excursion.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** We went on a brief excursion to the coast.<br>*(-> Chúng tôi đi dã ngoại ngắn ra bờ biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short journey or trip, especially one engaged in as a leisure activity.

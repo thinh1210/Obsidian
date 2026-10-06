@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Inheritance
 *n.*
 > /ɪnˈher.ɪ.təns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Inheritance::Tài sản, của cải hoặc sản nghiệp được thừa kế từ tiền nhân *(Phát âm: /ɪnˈher.ɪ.təns/)* ![[inheritance.mp3]]<br><br>👪 **Word Family:** inherit (v), inheritor (n), disinherit (v)<br><br>💬 **Ví dụ:** He invested his modest inheritance into a community bookstore project.<br>*(-> Anh ấy đã đầu tư khoản tiền thừa kế khiêm tốn của mình vào một dự án hiệu sách cộng đồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money, property, or goods given to someone upon someone's death.

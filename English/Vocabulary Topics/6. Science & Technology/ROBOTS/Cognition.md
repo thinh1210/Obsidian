@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Cognition
 *noun.*
 > /kɑːɡˈnɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
+
+## 🗂️ Flashcard
+Cognition::Nhận thức, khả năng nhận thức *(Phát âm: /kɑːɡˈnɪʃ.ən/)* ![[cognition.mp3]]<br><br>👪 **Word Family:** cognitive (adj), cognitively (adv)<br><br>💬 **Ví dụ:** Machine cognition is the ultimate goal for artificial general intelligence researchers.<br>*(-> Nhận thức của máy móc là mục tiêu tối thượng đối với các nhà nghiên cứu trí tuệ nhân tạo tổng hợp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses

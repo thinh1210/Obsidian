@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Work
 *n.*
 > /wɜːrk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Work::Công việc *(Phát âm: /wɜːrk/)* ![[work.mp3]]<br><br>👪 **Word Family:** worker (n), working (adj)<br><br>💬 **Ví dụ:** I have a lot of work today.<br>*(-> Tôi có rất nhiều việc hôm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Activity involving mental or physical effort done to achieve a purpose

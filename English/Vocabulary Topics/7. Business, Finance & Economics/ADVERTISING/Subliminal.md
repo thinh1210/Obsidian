@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Subliminal
 *adjective*
 > /sʌbˈlɪmɪnl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Tác động tâm lý, Phóng đại & Quảng cáo quá đà
+
+## 🗂️ Flashcard
+Subliminal::Thuộc về tiềm thức *(Phát âm: /sʌbˈlɪmɪnl/)* ![[subliminal.mp3]]<br><br>👪 **Word Family:** subliminally (adverb)<br><br>💬 **Ví dụ:** The music in the supermarket can have a subliminal effect on shoppers.<br>*(-> Âm nhạc trong siêu thị có thể có ảnh hưởng tiềm thức đối với người mua hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Below the threshold of sensation or consciousness; affecting someone's mind without their being aware of it.

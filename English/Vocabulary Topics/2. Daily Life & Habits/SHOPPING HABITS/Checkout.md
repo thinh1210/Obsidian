@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Checkout
 *n*
 > /ˈtʃek.aʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Checkout::Quầy thanh toán *(Phát âm: /ˈtʃek.aʊt/)* ![[checkout.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Go to the checkout.<br>*(-> Đến quầy thanh toán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place you pay in a store

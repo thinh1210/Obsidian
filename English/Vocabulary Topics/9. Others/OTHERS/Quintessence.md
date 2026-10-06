@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Quintessence
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - essence, core, soul
+
+
+## 🗂️ Flashcard
+Quintessence::Tinh hoa, điều cốt túy *(Phát âm: /kwɪnˈtes.əns/)* ![[quintessence.mp3]]<br><br>👪 **Word Family:** [Noun]: quintessence, [Adj]: quintessential, [Adv]: quintessentially<br><br>💬 **Ví dụ:** This recipe is the quintessence of French cooking.<br>*(-> Công thức này là tinh hoa của ẩm thực Pháp.)*

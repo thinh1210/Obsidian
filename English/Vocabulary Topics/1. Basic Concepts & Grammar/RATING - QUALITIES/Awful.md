@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Awful
 *adj*
 > /ˈɔː.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Awful::Kinh khủng *(Phát âm: /ˈɔː.fəl/)* ![[awful.mp3]]<br><br>👪 **Word Family:** Awfully (adv)<br><br>💬 **Ví dụ:** I feel awful about what happened.<br>*(-> Tôi cảm thấy tồi tệ về chuyện đã xảy ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very bad or unpleasant.

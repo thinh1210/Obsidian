@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Assiduous
 *adj.*
 > /əˈhɪd.ju.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Assiduous::Siêng năng, chuyên cần, cần mẫn *(Phát âm: /əˈhɪd.ju.əs/)* ![[assiduous.mp3]]<br><br>👪 **Word Family:** assiduary, assiduity<br><br>💬 **Ví dụ:** She was assiduous in her prep for the exam.<br>*(-> Cô ấy rất cần mẫn trong việc chuẩn bị cho kỳ thi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Showing great care, attention, and effort; diligent

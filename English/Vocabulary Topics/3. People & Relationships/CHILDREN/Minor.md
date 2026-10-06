@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Minor
 *noun*
 > /ˈmaɪ.nɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Minor::Người vị thành niên *(Phát âm: /ˈmaɪ.nɚ/)* ![[minor.mp3]]<br><br>👪 **Word Family:** Minority (n)<br><br>💬 **Ví dụ:** It is illegal to sell alcohol to minors.<br>*(-> Bán rượu cho người vị thành niên là bất hợp pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person under the age of full legal responsibility.

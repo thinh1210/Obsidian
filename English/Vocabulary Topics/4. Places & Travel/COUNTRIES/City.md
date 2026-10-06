@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # City
 *Noun*
 > /ˈsɪti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+City::Thành phố *(Phát âm: /ˈsɪti/)* ![[city.mp3]]<br><br>👪 **Word Family:** Citizen<br><br>💬 **Ví dụ:** New York is a big city.<br>*(-> New York là một thành phố lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large town.

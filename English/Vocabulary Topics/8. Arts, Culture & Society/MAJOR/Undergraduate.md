@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Undergraduate
 *n., adj.*
 > /ˌʌn.dəˈɡræd.ju.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Undergraduate::Sinh viên đại học (chưa tốt nghiệp) *(Phát âm: /ˌʌn.dəˈɡræd.ju.ɪt/)* ![[undergraduate.mp3]]<br><br>👪 **Word Family:** undergraduate (n/adj), graduate (n/adj/v), postgraduate (n/adj)<br><br>💬 **Ví dụ:** She is an undergraduate at Oxford University.<br>*(-> Cô ấy là sinh viên đại học tại Đại học Oxford.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A student who is studying for their first university degree.

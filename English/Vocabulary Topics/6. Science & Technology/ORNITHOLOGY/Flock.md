@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Flock
 *noun*
 > /flɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Flock::Đàn (chim) *(Phát âm: /flɒk/)* ![[flock.mp3]]<br><br>👪 **Word Family:** flock (n/v)<br><br>💬 **Ví dụ:** A large flock of geese flew over our house.<br>*(-> Một đàn ngỗng lớn bay qua nhà chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of birds, sheep, or goats.

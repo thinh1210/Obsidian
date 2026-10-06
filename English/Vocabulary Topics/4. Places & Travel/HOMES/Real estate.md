@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Real estate
 *noun*
 > /ˈriːəl ɪˌsteɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Real estate::Bất động sản *(Phát âm: /ˈriːəl ɪˌsteɪt/)* ![[real_estate.mp3]]<br><br>👪 **Word Family:** **Synonyms:** property, housing<br><br>💬 **Ví dụ:** He works in real estate.<br>*(-> Anh ấy làm việc trong lĩnh vực bất động sản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Property consisting of land or buildings.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** property, housing
-**Antonyms:** 
+**Antonyms:**

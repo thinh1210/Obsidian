@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Filibuster
 *n/v*
 > /ˈfɪl.ɪ.bʌs.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Filibuster::Chiến thuật cản trở lập pháp bằng diễn thuyết kéo dài *(Phát âm: /ˈfɪl.ɪ.bʌs.tər/)* ![[filibuster.mp3]]<br><br>👪 **Word Family:** filibusterer (n), filibustering (n/adj)<br><br>💬 **Ví dụ:** The senator talked for 12 hours straight in a dramatic filibuster.<br>*(-> Thượng nghị sĩ nói liên tục 12 tiếng trong một màn filibuster kịch tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extended speech used to delay or obstruct legislative proceedings.

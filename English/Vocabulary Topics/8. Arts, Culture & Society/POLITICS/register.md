@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # register
 *verb*
 > /ˈredʒɪstər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+register::Đăng ký (đặc biệt là đăng ký cử tri) *(Phát âm: /ˈredʒɪstər/)* ![[register.mp3]]<br><br>👪 **Word Family:** registration (n), registry (n)<br><br>💬 **Ví dụ:** Have you registered to vote in the upcoming election yet?<br>*(-> Bạn đã đăng ký bỏ phiếu trong cuộc bầu cử sắp tới chưa?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put one's name on an official list, especially to be eligible to vote.

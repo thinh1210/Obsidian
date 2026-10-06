@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Meteorology
 *noun*
 > /ˌmiːtiəˈrɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Meteorology::Khí tượng học *(Phát âm: /ˌmiːtiəˈrɒlədʒi/)* ![[meteorology.mp3]]<br><br>👪 **Word Family:** meteorologist, meteorological<br><br>💬 **Ví dụ:** Meteorology helps us predict severe weather events.<br>*(-> Khí tượng học giúp chúng ta dự báo các hiện tượng thời tiết khắc nghiệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with the processes and phenomena of the atmosphere, especially as a means of forecasting the weather.

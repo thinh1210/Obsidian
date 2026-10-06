@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Xenophobia
 *Noun*
 > /ˌzenəˈfoʊbiə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Xenophobia::Chứng bài ngoại *(Phát âm: /ˌzenəˈfoʊbiə/)* ![[xenophobia.mp3]]<br><br>👪 **Word Family:** Xenophobic<br><br>💬 **Ví dụ:** We must fight against racism and xenophobia.<br>*(-> Chúng ta phải chống lại nạn phân biệt chủng tộc và bài ngoại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Dislike of or prejudice against people from other countries.

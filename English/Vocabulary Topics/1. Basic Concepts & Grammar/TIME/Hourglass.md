@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Hourglass
 *n.*
 > /ˈaʊə.ɡlɑːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Hourglass::Đồng hồ cát, dụng cụ đo thời gian bằng dòng chảy của các hạt cát mịn *(Phát âm: /ˈaʊə.ɡlɑːs/)* ![[hourglass.mp3]]<br><br>👪 **Word Family:** glass (n), hourly (adj/adv)<br><br>💬 **Ví dụ:** Our board game uses a tiny three-minute sand hourglass to restrict each player's turn.<br>*(-> Trò chơi cờ bàn của chúng tôi dùng một chiếc đồng hồ cát ba phút nhỏ để giới hạn lượt đi của mỗi người chơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instrument with two glass bulbs connected by a narrow neck, measuring time by falling sand.

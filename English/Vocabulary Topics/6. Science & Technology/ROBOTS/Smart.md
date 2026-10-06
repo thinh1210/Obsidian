@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Smart
 *adjective.*
 > /smɑːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
+
+## 🗂️ Flashcard
+Smart::Thông minh *(Phát âm: /smɑːrt/)* ![[smart.mp3]]<br><br>👪 **Word Family:** smartly (adv), smartness (noun)<br><br>💬 **Ví dụ:** We are upgrading to a smart home system.<br>*(-> Chúng tôi đang nâng cấp lên hệ thống nhà thông minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intelligent, or able to think and learn quickly (often used for devices connected to the internet)

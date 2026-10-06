@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Earth
 *noun*
 > /ɜːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Earth::Trái Đất *(Phát âm: /ɜːθ/)* ![[earth.mp3]]<br><br>👪 **Word Family:** earthly (adj), earthen (adj)<br><br>💬 **Ví dụ:** Earth is the only planet known to support life.<br>*(-> Trái Đất là hành tinh duy nhất được biết là có sự sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The planet we live on, the third planet from the sun.

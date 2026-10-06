@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Unwind
 *v*
 > /ˌʌnˈwaɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Unwind::Thư giãn, xả hơi *(Phát âm: /ˌʌnˈwaɪnd/)* ![[unwind.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** A hot bath helps me unwind.<br>*(-> Tắm nước nóng giúp tôi xả hơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relax after a period of work or tension.

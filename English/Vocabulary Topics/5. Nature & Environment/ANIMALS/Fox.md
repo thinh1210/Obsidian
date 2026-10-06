@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Fox
 *n.*
 > /fɒks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Fox::Con cáo, loài động vật hoang dã có mõm nhọn, đuôi xù và nổi tiếng mưu mẹo *(Phát âm: /fɒks/)* ![[fox.mp3]]<br><br>👪 **Word Family:** foxy (adj), vixen (n - cáo cái)<br><br>💬 **Ví dụ:** A sleek red fox darted silently across our garden under the moonlight.<br>*(-> Một con cáo đỏ mềm mại phóng thoăn thoắt qua khu vườn của chúng tôi dưới ánh trăng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wild animal of the dog family with a pointed muzzle and a bushy tail.

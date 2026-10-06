@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Monument
 *noun*
 > /ˈmɑːn.jə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Monument::Đài tưởng niệm, công trình di tích *(Phát âm: /ˈmɑːn.jə.mənt/)* ![[monument.mp3]]<br><br>👪 **Word Family:** monumental (adj), monumentally (adv)<br><br>💬 **Ví dụ:** We took a photo in front of the monument dedicated to the city's founders.<br>*(-> Chúng tôi đã chụp một bức ảnh trước đài tưởng niệm dành riêng cho những người sáng lập thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue, building, or other structure erected to commemorate a famous person or event.

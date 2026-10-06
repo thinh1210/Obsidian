@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Affiliate
 *Noun*
 > /əˈfɪlieɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Affiliate::Bên liên kết, đại lý liên kết (người hoặc tổ chức được gắn kết chính thức với một tổ chức lớn hơn để hợp tác kinh doanh) *(Phát âm: /əˈfɪlieɪt/)* ![[affiliate.mp3]]<br><br>👪 **Word Family:** Verb: affiliate (liên kết), Noun: affiliation (sự liên kết)<br><br>💬 **Ví dụ:** He earns a decent income from his blog using affiliate links.<br>*(-> Anh ấy kiếm được một khoản thu nhập khá từ blog của mình bằng cách sử dụng các liên kết tiếp thị liên kết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or organization officially attached to a larger body.

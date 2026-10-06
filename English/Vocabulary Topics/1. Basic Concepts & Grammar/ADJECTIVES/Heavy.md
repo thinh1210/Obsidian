@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Heavy
 *adj.*
 > /ˈhev.i/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Heavy::Nặng, có trọng lượng lớn; dữ dội, dồn dập (mưa, giao thông) *(Phát âm: /ˈhev.i/)* ![[heavy.mp3]]<br><br>👪 **Word Family:** heavily (adv), heaviness (n)<br><br>💬 **Ví dụ:** Be careful when lifting that heavy suitcase or you might hurt your back.<br>*(-> Hãy cẩn thận khi nhấc chiếc vali nặng đó kẻo bạn sẽ bị đau lưng.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Weighing a lot, and needing effort to move or lift; great in amount, force, or intensity.

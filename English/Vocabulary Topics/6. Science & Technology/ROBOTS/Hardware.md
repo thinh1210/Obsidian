@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Hardware
 *noun.*
 > /ˈhɑːrd.wer/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Hardware::Phần cứng *(Phát âm: /ˈhɑːrd.wer/)* ![[hardware.mp3]]<br><br>👪 **Word Family:** hard (adj), ware (noun)<br><br>💬 **Ví dụ:** The robot's hardware includes the metal frame and motors.<br>*(-> Phần cứng của robot bao gồm khung kim loại và các động cơ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The physical parts of a computer or electronic system

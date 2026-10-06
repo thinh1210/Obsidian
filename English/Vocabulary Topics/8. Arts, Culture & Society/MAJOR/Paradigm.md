@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Paradigm
 *n.*
 > /ˈpær.ə.daɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Paradigm::Mô hình tư duy, hệ thống quan điểm *(Phát âm: /ˈpær.ə.daɪm/)* ![[paradigm.mp3]]<br><br>👪 **Word Family:** paradigm (n), paradigmatic (adj), paradigm shift (phrase)<br><br>💬 **Ví dụ:** The smartphone created a paradigm shift in communication.<br>*(-> Điện thoại thông minh đã tạo ra một sự thay đổi mô hình tư duy trong giao tiếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A typical example or pattern; a framework of ideas that shapes how a field is understood.

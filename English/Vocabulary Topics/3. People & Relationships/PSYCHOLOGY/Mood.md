@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Mood
 *noun*
 > /muːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Mood::Tâm trạng *(Phát âm: /muːd/)* ![[mood.mp3]]<br><br>👪 **Word Family:** moody (adj)<br><br>💬 **Ví dụ:** I am in a good mood.<br>*(-> Tôi đang trong tâm trạng tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A temporary state of mind or feeling.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Stand
 *v., n.*
 > /stænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Stand::Đứng thẳng trên hai chân; chịu đựng, kiên định lập trường *(Phát âm: /stænd/)* ![[stand.mp3]]<br><br>👪 **Word Family:** standing (n/adj), standout (n)<br><br>💬 **Ví dụ:** She had to stand on the crowded subway train for forty minutes during rush hour.<br>*(-> Cô ấy phải đứng trên chuyến tàu điện ngầm đông đúc suốt bốn mươi phút vào giờ cao điểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have or maintain an upright position on one's feet; to tolerate or endure.

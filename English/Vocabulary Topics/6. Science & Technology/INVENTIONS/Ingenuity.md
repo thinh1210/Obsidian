@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Ingenuity
 *Noun*
 > /ˌɪn.dʒəˈnjuː.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Ingenuity::Sự khéo léo, tính chất sáng tạo tài tình *(Phát âm: /ˌɪn.dʒəˈnjuː.ə.ti/)* ![[ingenuity.mp3]]<br><br>👪 **Word Family:** Ingenious (adj), ingeniously (adv)<br><br>💬 **Ví dụ:** With a bit of ingenuity, we can fix this broken table.<br>*(-> Với một chút khéo léo, chúng ta có thể sửa chiếc bàn bị hỏng này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone's ability to think of clever new ways of doing things or solving problems.

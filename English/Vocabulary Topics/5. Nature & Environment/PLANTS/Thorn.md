@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Thorn
 *noun*
 > /θɔːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Thorn::Gai *(Phát âm: /θɔːn/)* ![[thorn.mp3]]<br><br>👪 **Word Family:** Noun: thorn (gai), Adjective: thorny (nhiều gai, hóc búa)<br><br>💬 **Ví dụ:** I pricked my finger on a rose thorn.<br>*(-> Tôi bị gai hoa hồng đâm vào ngón tay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stiff, sharp-pointed woody projection on the stem or other part of a plant.

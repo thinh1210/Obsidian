@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Lessee
 *n.*
 > /leˈsiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Lessee::Bên đi thuê, người nhận quyền thuê tài sản *(Phát âm: /leˈsiː/)* ![[lessee.mp3]]<br><br>👪 **Word Family:** lease (n/v), lessor (n)<br><br>💬 **Ví dụ:** Under the lease agreement, the lessee is responsible for minor repairs inside the flat.<br>*(-> Theo hợp đồng thuê, bên đi thuê có trách nhiệm sửa chữa các hư hỏng nhỏ bên trong căn hộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who holds the lease of a property; a tenant.

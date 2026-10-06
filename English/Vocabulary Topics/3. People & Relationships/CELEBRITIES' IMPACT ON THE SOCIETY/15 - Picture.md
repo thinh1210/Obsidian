@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Picture
 *n.*
 > /ˈpɪk.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+15 - Picture::Bức ảnh *(Phát âm: /ˈpɪk.tʃər/)* ![[picture.mp3]]<br><br>👪 **Word Family:** Pictorial (adj.)<br><br>💬 **Ví dụ:** Look at this picture.<br>*(-> Nhìn bức ảnh này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A visual representation of something.

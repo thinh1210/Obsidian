@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # White
 *adj, n*
 > /waɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+White::Màu trắng *(Phát âm: /waɪt/)* ![[white.mp3]]<br><br>👪 **Word Family:** whiteness (n), whiten (v)<br><br>💬 **Ví dụ:** He drives a white car.<br>*(-> Anh ấy lái chiếc ô tô màu trắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The color of snow or milk.

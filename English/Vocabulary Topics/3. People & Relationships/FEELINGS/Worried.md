@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Worried
 *adj*
 > /ˈwɜːrid/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Worried::Lo lắng *(Phát âm: /ˈwɜːrid/)* ![[worried.mp3]]<br><br>👪 **Word Family:** worry (n/v), worrying (adj)<br><br>💬 **Ví dụ:** I am worried about my grades.<br>*(-> Tôi lo lắng về điểm số của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Anxious or troubled about actual or potential problems.

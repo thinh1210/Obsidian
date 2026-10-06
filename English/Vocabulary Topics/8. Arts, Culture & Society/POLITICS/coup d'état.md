@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # coup d'état
 *noun*
 > /ˌkuː deɪˈtɑː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+coup d'état::Cuộc đảo chính *(Phát âm: /ˌkuː deɪˈtɑː/)* ![[coup_détat.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The army staged a coup d'état and took control of the government.<br>*(-> Quân đội đã tiến hành một cuộc đảo chính và giành quyền kiểm soát chính phủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden, violent, and unlawful seizure of power from a government.

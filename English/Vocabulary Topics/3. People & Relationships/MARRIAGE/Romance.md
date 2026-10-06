@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Romance
 *noun*
 > /rəʊˈmæns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Romance::Sự lãng mạn *(Phát âm: /rəʊˈmæns/)* ![[romance.mp3]]<br><br>👪 **Word Family:** Romantic (adjective)<br><br>💬 **Ví dụ:** They had a summer romance.<br>*(-> Họ đã có một mối tình lãng mạn mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of excitement and mystery associated with love.

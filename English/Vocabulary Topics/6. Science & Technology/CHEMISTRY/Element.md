@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Element
 *noun*
 > /ˈel.ɪ.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Element::Nguyên tố hóa học *(Phát âm: /ˈel.ɪ.mənt/)* ![[element.mp3]]<br><br>👪 **Word Family:** elemental (adj), elementary (adj)<br><br>💬 **Ví dụ:** Hydrogen is the most abundant element in the universe.<br>*(-> Hydro là nguyên tố dồi dào nhất trong vũ trụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A basic substance that cannot be simplified or broken down into simpler substances by chemical means.

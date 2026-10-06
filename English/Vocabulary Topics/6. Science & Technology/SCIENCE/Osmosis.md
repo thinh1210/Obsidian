@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Osmosis
 *noun*
 > /ɒzˈməʊ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Osmosis::Thẩm thấu – quá trình các phân tử dung môi đi qua màng bán thấm từ vùng nồng độ thấp sang cao *(Phát âm: /ɒzˈməʊ.sɪs/)* ![[osmosis.mp3]]<br><br>👪 **Word Family:** osmotic (adj), osmose (v - rare), semi-permeable (adj)<br><br>💬 **Ví dụ:** Cucumber slices shrink when you add salt because osmosis draws out their water.<br>*(-> Lát dưa chuột co lại khi bạn thêm muối vì thẩm thấu hút nước ra ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which solvent molecules pass through a semi-permeable membrane from a region of lower solute concentration to higher concentration.

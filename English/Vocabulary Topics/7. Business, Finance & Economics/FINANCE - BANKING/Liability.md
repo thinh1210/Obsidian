@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Liability
 *noun.*
 > /ˌlaɪəˈbɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
+
+## 🗂️ Flashcard
+Liability::Nợ phải trả *(Phát âm: /ˌlaɪəˈbɪləti/)* ![[liability.mp3]]<br><br>👪 **Word Family:** liable (adj)<br><br>💬 **Ví dụ:** The balance sheet shows the company's total assets and liabilities.<br>*(-> Bảng cân đối kế toán thể hiện tổng tài sản và nợ phải trả của công ty.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A company's financial debt or obligations that arise during its business operations.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Heritage
 *n.*
 > /ˈher.ɪ.tɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Heritage::Di sản, truyền thống quý báu được ông cha truyền lại cho con cháu *(Phát âm: /ˈher.ɪ.tɪdʒ/)* ![[heritage.mp3]]<br><br>👪 **Word Family:** inherit (v), inheritance (n), heritable (adj)<br><br>💬 **Ví dụ:** The family takes immense pride in their rich culinary heritage and ancestral recipes.<br>*(-> Gia đình vô cùng tự hào về di sản ẩm thực phong phú và những công thức nấu ăn của tổ tiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Features belonging to the culture, traditions, or values passed down from predecessors.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Pleasant
 *adj.*
 > /ˈplez.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Pleasant::Dễ chịu, thú vị *(Phát âm: /ˈplez.ənt/)* ![[pleasant.mp3]]<br><br>👪 **Word Family:** Please (v), Pleasantly (adv)<br><br>💬 **Ví dụ:** It was a pleasant walk.<br>*(-> Đó là một chuyến đi dạo dễ chịu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Giving a sense of happy satisfaction or enjoyment.

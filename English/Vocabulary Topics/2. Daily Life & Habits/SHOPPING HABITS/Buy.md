@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Buy
 *v*
 > /baɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Buy::Mua *(Phát âm: /baɪ/)* ![[buy.mp3]]<br><br>👪 **Word Family:** Buyer<br><br>💬 **Ví dụ:** I buy food.<br>*(-> Tôi mua thức ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To get something by paying money

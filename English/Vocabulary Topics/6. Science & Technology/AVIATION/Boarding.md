@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Boarding
 *noun/gerund*
 > /ˈbɔː.dɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Boarding::Quá trình lên máy bay *(Phát âm: /ˈbɔː.dɪŋ/)* ![[boarding.mp3]]<br><br>👪 **Word Family:** board (v), pre-boarding (n), onboard (adv/adj)<br><br>💬 **Ví dụ:** Boarding will begin thirty minutes before departure.<br>*(-> Việc lên máy bay sẽ bắt đầu ba mươi phút trước giờ khởi hành.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of getting on an aircraft.

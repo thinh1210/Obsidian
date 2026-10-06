@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Heuristic
 *adj., n.*
 > /hjʊəˈrɪs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Heuristic::Phương pháp khám phá, học qua trải nghiệm *(Phát âm: /hjʊəˈrɪs.tɪk/)* ![[heuristic.mp3]]<br><br>👪 **Word Family:** heuristic (adj/n), heuristically (adv)<br><br>💬 **Ví dụ:** Trial and error is a classic heuristic for solving puzzles.<br>*(-> Thử và sai là một phương pháp khám phá cổ điển để giải đố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A problem-solving approach that uses practical methods and experiential learning rather than guaranteed optimal methods.

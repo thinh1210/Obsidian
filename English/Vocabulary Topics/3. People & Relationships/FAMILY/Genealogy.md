@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Genealogy
 *noun*
 > /ˌdʒiː.niˈæl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Genealogy::Gia phả học *(Phát âm: /ˌdʒiː.niˈæl.ə.dʒi/)* ![[genealogy.mp3]]<br><br>👪 **Word Family:** genealogical (adj), genealogist (n)<br><br>💬 **Ví dụ:** I am researching my genealogy.<br>*(-> Tôi đang nghiên cứu gia phả nhà mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the history of the past and present members of a family or families.

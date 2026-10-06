@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Wind down
 *Phrasal Verb*
 > /waɪnd daʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Informal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Wind down::Thư giãn, xả hơi *(Phát âm: /waɪnd daʊn/)* ![[wind_down.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I usually read a book to wind down before bed.<br>*(-> Tôi thường đọc sách để thư giãn trước khi ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To relax after a period of excitement or worry.

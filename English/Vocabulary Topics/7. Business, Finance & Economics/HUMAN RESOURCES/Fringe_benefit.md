@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Fringe benefit
 *n.*
 > /ˌfrɪndʒ ˈben.ɪ.fɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
+
+## 🗂️ Flashcard
+Fringe_benefit::Phúc lợi phụ, phụ cấp ngoài lương chính *(Phát âm: /ˌfrɪndʒ ˈben.ɪ.fɪt/)* ![[fringe_benefit.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** A company car is a common fringe benefit for senior managers.<br>*(-> Xe hơi công ty là một phúc lợi phụ phổ biến cho các quản lý cấp cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An extra benefit supplementing an employee's money wage (e.g. company car)

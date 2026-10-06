@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Eminence
 *n.*
 > /ˈemɪnəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Eminence::Sự xuất chúng *(Phát âm: /ˈemɪnəns/)* ![[eminence.mp3]]<br><br>👪 **Word Family:** eminent (adj.)<br><br>💬 **Ví dụ:** Her eminence in the medical field is clear.<br>*(-> Sự xuất chúng của cô ấy trong lĩnh vực y tế là rõ ràng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Fame or recognized superiority, especially within a particular sphere or profession.

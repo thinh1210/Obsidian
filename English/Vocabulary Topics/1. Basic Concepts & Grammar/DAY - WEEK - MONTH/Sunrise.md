@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Sunrise
 *noun*
 > /ˈsʌnraɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Sunrise::Bình minh *(Phát âm: /ˈsʌnraɪz/)* ![[sunrise.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We woke up early to watch the sunrise.<br>*(-> Chúng tôi dậy sớm để ngắm bình minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time in the morning when the sun appears or full daylight arrives.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Accuse
 *verb*
 > /əˈkjuːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Accuse::Buộc tội, cáo buộc *(Phát âm: /əˈkjuːz/)* ![[accuse.mp3]]<br><br>👪 **Word Family:** Accuse (v), Accusation (n), Accused (n/adj), Accuser (n)<br><br>💬 **Ví dụ:** You cannot accuse him of stealing without any proof.<br>*(-> Bạn không thể buộc tội anh ấy ăn trộm mà không có bất kỳ bằng chứng nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Charge someone with an offense or crime.

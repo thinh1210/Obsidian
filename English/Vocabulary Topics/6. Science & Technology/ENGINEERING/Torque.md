@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Torque
 *noun*
 > /tɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Torque::Mô-men xoắn, lực xoắn *(Phát âm: /tɔːk/)* ![[torque.mp3]]<br><br>👪 **Word Family:** torquing (n)<br><br>💬 **Ví dụ:** Electric motors deliver high torque instantly from a complete stop.<br>*(-> Động cơ điện cung cấp mô-men xoắn cao ngay lập tức từ lúc dừng hẳn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A twisting force that tends to cause rotation.

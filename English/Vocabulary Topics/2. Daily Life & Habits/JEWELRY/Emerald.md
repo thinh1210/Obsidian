@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Emerald
 *noun*
 > /ˈem.ə.rəld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Emerald::Ngọc lục bảo *(Phát âm: /ˈem.ə.rəld/)* ![[emerald.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The crown featured a huge emerald.<br>*(-> Vương miện có một viên ngọc lục bảo khổng lồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bright green precious stone.

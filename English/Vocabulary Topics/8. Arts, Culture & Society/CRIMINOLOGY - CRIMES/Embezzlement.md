@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Embezzlement
 *noun*
 > /ɪmˈbezlmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Embezzlement::Tội biển thủ, tội tham ô tài sản *(Phát âm: /ɪmˈbezlmənt/)* ![[embezzlement.mp3]]<br><br>👪 **Word Family:** embezzle (v), embezzler (n)<br><br>💬 **Ví dụ:** He was fired following accusations of embezzlement.<br>*(-> Anh ta đã bị sa thải sau những cáo buộc biển thủ công quỹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Theft or misappropriation of funds placed in one's trust or belonging to one's employer

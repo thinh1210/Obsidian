@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Electron
 *noun*
 > /iˈlek.trɒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Electron::Điện tử, electron *(Phát âm: /iˈlek.trɒn/)* ![[electron.mp3]]<br><br>👪 **Word Family:** electronic (adj), electricity (n)<br><br>💬 **Ví dụ:** Electric current is the flow of electrons through a conductor.<br>*(-> Dòng điện là dòng chảy của các electron qua một vật dẫn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stable subatomic particle with a charge of negative electricity, found in all atoms.

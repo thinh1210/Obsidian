@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Solvent
 *noun*
 > /ˈsɒl.vənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Solvent::Dung môi *(Phát âm: /ˈsɒl.vənt/)* ![[solvent.mp3]]<br><br>👪 **Word Family:** solvency (n), dissolve (v)<br><br>💬 **Ví dụ:** Water is often called the universal solvent because it dissolves many substances.<br>*(-> Nước thường được gọi là dung môi vạn năng vì nó hòa tan nhiều chất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance, ordinarily a liquid, in which other materials dissolve to form a solution.

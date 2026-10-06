@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Sky
 *Noun*
 > /skaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Sky::Bầu trời *(Phát âm: /skaɪ/)* ![[sky.mp3]]<br><br>👪 **Word Family:** skylark (n), skyward (adj/adv)<br><br>💬 **Ví dụ:** The sky is blue today.<br>*(-> Hôm nay bầu trời xanh ngắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The region of the atmosphere and outer space seen from the earth.

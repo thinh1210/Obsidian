@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Instinct
 *n.*
 > /ˈɪnstɪŋkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Instinct::Bản năng, thiên tính tự nhiên bẩm sinh giúp động vật tự vệ và duy trì nòi giống *(Phát âm: /ˈɪnstɪŋkt/)* ![[instinct.mp3]]<br><br>👪 **Word Family:** instinctive (adj), instinctively (adv)<br><br>💬 **Ví dụ:** A mother bear will fiercely defend her cubs driven entirely by maternal instinct.<br>*(-> Gấu mẹ sẽ quyết liệt bảo vệ đàn con nhỏ hoàn toàn do bản năng của một người mẹ thôi thúc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An innate, typically fixed pattern of behavior in animals in response to certain stimuli.

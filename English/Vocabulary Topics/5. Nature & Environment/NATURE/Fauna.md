@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Fauna
 *Noun*
 > /ˈfɔːnə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Fauna::Hệ động vật *(Phát âm: /ˈfɔːnə/)* ![[fauna.mp3]]<br><br>👪 **Word Family:** faunal<br><br>💬 **Ví dụ:** The local fauna includes many species of birds and mammals.<br>*(-> Hệ động vật địa phương bao gồm nhiều loài chim và thú.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The animals of a particular region, habitat, or geological period.

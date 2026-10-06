@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Accessorize
 *v.*
 > /əkˈsesəraɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Accessorize::Kết hợp phụ kiện *(Phát âm: /əkˈsesəraɪz/)* ![[accessorize.mp3]]<br><br>👪 **Word Family:** Accessory (n)<br><br>💬 **Ví dụ:** She knows how to accessorize a simple black dress.<br>*(-> Cô ấy biết cách kết hợp phụ kiện cho một chiếc váy đen đơn giản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To add accessories to clothes.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Passenger
 *Noun*
 > /ˈpæs.ən.dʒɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
+
+## 🗂️ Flashcard
+Passenger::Hành khách *(Phát âm: /ˈpæs.ən.dʒɚ/)* ![[passenger.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The driver asked the passenger to fasten his seatbelt.<br>*(-> Tài xế yêu cầu hành khách thắt dây an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is travelling in a vehicle but is not driving it, flying it, or working on it.

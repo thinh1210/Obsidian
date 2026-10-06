@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Justice
 *noun*
 > /ˈdʒʌs.tɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Justice::Sự công bằng, công lý *(Phát âm: /ˈdʒʌs.tɪs/)* ![[justice.mp3]]<br><br>👪 **Word Family:** Justice (n), Justify (v), Justification (n), Just (adj)<br><br>💬 **Ví dụ:** The victim's family is still demanding justice for what happened.<br>*(-> Gia đình nạn nhân vẫn đang đòi hỏi công lý cho những gì đã xảy ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Just behavior or treatment; the quality of being fair and reasonable.

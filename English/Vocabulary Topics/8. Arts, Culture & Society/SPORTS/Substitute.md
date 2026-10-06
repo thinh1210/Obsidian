@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Substitute
 *n.*
 > /ˈsʌb.stɪ.tʃuːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Substitute::Cầu thủ dự bị, người thay thế *(Phát âm: /ˈsʌb.stɪ.tʃuːt/)* ![[substitute.mp3]]<br><br>👪 **Word Family:** substitution, substituted, substituting<br><br>💬 **Ví dụ:** The coach sent on a substitute in the second half.<br>*(-> Huấn luyện viên đã tung vào sân một cầu thủ dự bị trong hiệp hai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing acting or serving in place of another.

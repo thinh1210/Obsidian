@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Snow
 *noun*
 > /snəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Snow::Tuyết *(Phát âm: /snəʊ/)* ![[snow.mp3]]<br><br>👪 **Word Family:** snowy (adj), snow (v)<br><br>💬 **Ví dụ:** The children went outside to play in the fresh snow.<br>*(-> Lũ trẻ ra ngoài chơi đùa trong lớp tuyết mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Soft white pieces of frozen water that fall from the sky when the weather is extremely cold.

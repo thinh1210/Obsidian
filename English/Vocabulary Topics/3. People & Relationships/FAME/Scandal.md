@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Scandal
 *n.*
 > /ˈskændl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
+
+## 🗂️ Flashcard
+Scandal::Bê bối *(Phát âm: /ˈskændl/)* ![[scandal.mp3]]<br><br>👪 **Word Family:** scandalous (adj.)<br><br>💬 **Ví dụ:** The scandal ruined his career.<br>*(-> Vụ bê bối đã hủy hoại sự nghiệp của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An action or event regarded as morally or legally wrong and causing general public outrage.

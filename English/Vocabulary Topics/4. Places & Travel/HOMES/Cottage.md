@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Cottage
 *n.*
 > /ˈkɒtɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Cottage::Ngôi nhà nhỏ nhắn, mộc mạc và ấm cúng nằm ở vùng đồng quê *(Phát âm: /ˈkɒtɪdʒ/)* ![[cottage.mp3]]<br><br>👪 **Word Family:** cottager (n)<br><br>💬 **Ví dụ:** They spent their summer vacation in a picturesque seaside cottage.<br>*(-> Họ dành kỳ nghỉ hè tại một ngôi nhà nhỏ xinh xắn bên bờ biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small, cozy house, typically in the countryside.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Humble
 *adj.*
 > /ˈhʌm.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Humble::Khiêm tốn, nhún nhường, mộc mạc không khoe khoang *(Phát âm: /ˈhʌm.bəl/)* ![[humble.mp3]]<br><br>👪 **Word Family:** humbleness (n), humility (n), humbly (adv)<br><br>💬 **Ví dụ:** Despite winning the international award, she remained humble and gracious.<br>*(-> Dù đoạt giải thưởng quốc tế, cô ấy vẫn giữ đức tính khiêm tốn và nhã nhặn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not proud or not believing that you are important; modest.

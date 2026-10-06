@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Bronze
 *n, adj*
 > /brɑːnz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Bronze::Màu đồng, màu đồng đỏ *(Phát âm: /brɑːnz/)* ![[bronze.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She got a beautiful bronze tan on holiday.<br>*(-> Cô ấy có một làn da rám nắng màu đồng tuyệt đẹp trong kỳ nghỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dark reddish-brown color (like the metal).

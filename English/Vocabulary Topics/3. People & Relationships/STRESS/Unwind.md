@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Unwind
 *v.*
 > /ˌʌnˈwaɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Unwind::Thư giãn, xả hơi *(Phát âm: /ˌʌnˈwaɪnd/)* ![[unwind.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Music helps me unwind.<br>*(-> Âm nhạc giúp tôi thư giãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To relax after a period of work or tension

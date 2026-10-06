@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Endorsement
 *n.*
 > /ɪnˈdɔːs.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+38 - Endorsement::Sự ủng hộ, chứng thực *(Phát âm: /ɪnˈdɔːs.mənt/)* ![[endorsement.mp3]]<br><br>👪 **Word Family:** Endorse (v.)<br><br>💬 **Ví dụ:** Celebrity endorsement.<br>*(-> Sự ủng hộ của người nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of giving one's public approval.

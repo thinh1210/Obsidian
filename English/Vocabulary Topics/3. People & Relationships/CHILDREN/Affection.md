@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Affection
 *n.*
 > /əˈfek.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Affection::Tình cảm thương yêu, sự âu yếm vỗ về chan chứa yêu thương dành cho con trẻ *(Phát âm: /əˈfek.ʃən/)* ![[affection.mp3]]<br><br>👪 **Word Family:** affectionate (adj), affectionately (adv)<br><br>💬 **Ví dụ:** Children who grow up showered with affection tend to develop robust emotional resilience.<br>*(-> Những đứa trẻ lớn lên trong tình thương âu yếm thường phát triển bản lĩnh cảm xúc vững vàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of liking for a person or place, or warm loving care.

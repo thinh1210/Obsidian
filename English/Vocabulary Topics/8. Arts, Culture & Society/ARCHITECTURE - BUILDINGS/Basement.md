@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Basement
 *n.*
 > /ˈbeɪsmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Basement::Tầng hầm *(Phát âm: /ˈbeɪsmənt/)* ![[basement.mp3]]<br><br>👪 **Word Family:** base<br><br>💬 **Ví dụ:** We store our old furniture in the basement.<br>*(-> Chúng tôi cất giữ đồ nội thất cũ của mình trong tầng hầm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The floor of a building which is partly or entirely below ground level

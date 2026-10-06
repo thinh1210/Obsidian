@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # T-shirt
 *noun*
 > /ˈtiː.ʃɜːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+T-shirt::Áo phông, áo thun *(Phát âm: /ˈtiː.ʃɜːrt/)* ![[t_shirt.mp3]]<br><br>👪 **Word Family:** shirt (n)<br><br>💬 **Ví dụ:** He always wears a black T-shirt.<br>*(-> Anh ấy luôn mặc áo thun đen.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A simple piece of clothing with short sleeves and no collar.

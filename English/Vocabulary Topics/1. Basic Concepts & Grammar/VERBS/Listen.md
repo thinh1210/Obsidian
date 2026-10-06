@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Listen
 *Verb*
 > /ˈlɪs.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Listen::Nghe *(Phát âm: /ˈlɪs.ən/)* ![[listen.mp3]]<br><br>👪 **Word Family:** Listener (n)<br><br>💬 **Ví dụ:** I listen to music.<br>*(-> Tôi nghe nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give attention to someone or something in order to hear them.

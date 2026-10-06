@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Relax
 *v.*
 > /rɪˈlæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Relax::Thư giãn *(Phát âm: /rɪˈlæks/)* ![[relax.mp3]]<br><br>👪 **Word Family:** relaxation (n), relaxing (adj)<br><br>💬 **Ví dụ:** I want to relax this weekend.<br>*(-> Tôi muốn thư giãn cuối tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To rest and become calm

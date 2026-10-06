@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Symptom
 *n*
 > /ˈsɪmptəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Symptom::Triệu chứng *(Phát âm: /ˈsɪmptəm/)* ![[symptom.mp3]]<br><br>👪 **Word Family:** symptomatic (adj), asymptomatic (adj)<br><br>💬 **Ví dụ:** Fever is a common symptom of many infectious diseases.<br>*(-> Sốt là một triệu chứng phổ biến của nhiều bệnh truyền nhiễm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A physical or mental feature which is regarded as indicating a condition of disease.

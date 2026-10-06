@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Chic
 *adj.*
 > /ʃiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Chic::Sang trọng, thanh lịch *(Phát âm: /ʃiːk/)* ![[chic.mp3]]<br><br>👪 **Word Family:** Chicness (n)<br><br>💬 **Ví dụ:** She has a very chic way of dressing.<br>*(-> Cô ấy có cách ăn mặc rất sang trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Elegantly and stylishly fashionable.

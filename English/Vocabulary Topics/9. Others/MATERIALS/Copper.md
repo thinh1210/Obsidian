@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Copper
 *noun.*
 > /ˈkɒpə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Copper::Đồng đỏ, đồng *(Phát âm: /ˈkɒpə(r)/)* ![[copper.mp3]]<br><br>👪 **Word Family:** coppery (Adjective)<br><br>💬 **Ví dụ:** The electrician installed high-quality copper wires in the walls.<br>*(-> Thợ điện đã lắp đặt dây đồng chất lượng cao trong tường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A red-brown metal, which is an excellent conductor of heat and electricity.

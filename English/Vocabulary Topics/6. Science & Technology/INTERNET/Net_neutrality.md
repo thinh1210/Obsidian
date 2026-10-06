@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Net neutrality
 *noun*
 > /ˌnet njuːˈtræl.ɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Net_neutrality::Trung lập mạng (nguyên tắc đối xử bình đẳng với mọi lưu lượng Internet) *(Phát âm: /ˌnet njuːˈtræl.ɪ.ti/)* ![[net_neutrality.mp3]]<br><br>👪 **Word Family:** neutrality (n), neutral (adj)<br><br>💬 **Ví dụ:** Many users protested when the government threatened to repeal net neutrality.<br>*(-> Nhiều người dùng phản đối khi chính phủ đe dọa bãi bỏ trung lập mạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The principle that Internet Service Providers must treat all Internet traffic equally without discrimination.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Gothic
 *adj.*
 > /ˈɡɒθɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Gothic::Thuộc phong cách kiến trúc Gô-tích *(Phát âm: /ˈɡɒθɪk/)* ![[gothic.mp3]]<br><br>👪 **Word Family:** goth, gothicism<br><br>💬 **Ví dụ:** I love the gothic arches of the old town hall.<br>*(-> Tôi yêu những mái vòm gothic của tòa thị chính cũ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to a style of architecture characterized by pointed arches, rib vaults, and flying buttresses

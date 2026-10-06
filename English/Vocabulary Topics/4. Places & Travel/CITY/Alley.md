@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Alley
 *n.*
 > /ˈæli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Alley::Lối đi nhỏ hẹp luồn lách giữa các dãy nhà trong thành phố *(Phát âm: /ˈæli/)* ![[alley.mp3]]<br><br>👪 **Word Family:** alleyway (n)<br><br>💬 **Ví dụ:** He walked through a quiet back alley to reach home faster.<br>*(-> Anh ấy đi qua con hẻm nhỏ phía sau để về nhà nhanh hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A narrow passageway between or behind buildings.

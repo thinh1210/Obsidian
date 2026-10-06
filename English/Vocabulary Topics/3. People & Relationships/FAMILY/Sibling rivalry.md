@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Sibling rivalry
 *Noun*
 > /ˈsɪb.lɪŋ ˈraɪ.vəl.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Sibling rivalry::Sự ganh đua giữa anh chị em *(Phát âm: /ˈsɪb.lɪŋ ˈraɪ.vəl.ri/)* ![[sibling_rivalry.mp3]]<br><br>👪 **Word Family:** Rival (Noun/Verb): Đối thủ<br><br>💬 **Ví dụ:** There was a lot of sibling rivalry between me and my brother.<br>*(-> Giữa tôi và anh trai từng có rất nhiều sự ganh đua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Competition and arguments among brothers and sisters.

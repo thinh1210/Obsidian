@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Consummate
 *verb*
 > /ˈkɒnsəmeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Consummate::Động phòng/Hoàn tất *(Phát âm: /ˈkɒnsəmeɪt/)* ![[consummate.mp3]]<br><br>👪 **Word Family:** Consummation (noun)<br><br>💬 **Ví dụ:** The marriage was never consummated.<br>*(-> Cuộc hôn nhân đó chưa bao giờ được động phòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a marriage or relationship complete by having sexual intercourse.

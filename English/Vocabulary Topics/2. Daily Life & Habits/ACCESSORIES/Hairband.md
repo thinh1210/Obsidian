@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Hairband
 *noun*
 > /ˈheəbænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Hairband::Băng đô, bờm tóc *(Phát âm: /ˈheəbænd/)* ![[hairband.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She uses a hairband when playing sports.<br>*(-> Cô ấy dùng băng đô khi chơi thể thao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of material or curved plastic worn in the hair to keep it away from the face.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Conscription
 *noun*
 > /kənˈskrɪp.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Conscription::Nghĩa vụ quân sự bắt buộc, lệnh tuyển quân *(Phát âm: /kənˈskrɪp.ʃən/)* ![[conscription.mp3]]<br><br>👪 **Word Family:** conscript (noun/verb)<br><br>💬 **Ví dụ:** He tried to find a medical reason to avoid conscription.<br>*(-> Anh ấy đã cố gắng tìm một lý do y tế để tránh thực hiện nghĩa vụ quân sự bắt buộc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Compulsory enlistment for state service, typically into the armed forces.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Worry
 *v.*
 > /ˈwɜːri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Worry::Lo lắng *(Phát âm: /ˈwɜːri/)* ![[worry.mp3]]<br><br>👪 **Word Family:** worried (adj), worrying (adj)<br><br>💬 **Ví dụ:** Don't worry about me.<br>*(-> Đừng lo cho tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep thinking about unpleasant things that might happen

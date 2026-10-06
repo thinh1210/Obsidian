@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # right
 *noun*
 > /raɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+right::Quyền lợi, quyền *(Phát âm: /raɪt/)* ![[right.mp3]]<br><br>👪 **Word Family:** righteous (adj)<br><br>💬 **Ví dụ:** Everyone has the right to free education.<br>*(-> Mọi người đều có quyền được giáo dục miễn phí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A moral or legal entitlement to have or obtain something or to act in a certain way.

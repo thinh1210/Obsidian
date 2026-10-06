@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Property
 *noun*
 > /ˈprɑːpərti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Property::Tài sản, bất động sản *(Phát âm: /ˈprɑːpərti/)* ![[property.mp3]]<br><br>👪 **Word Family:** proprietor (n)<br><br>💬 **Ví dụ:** This house is private property.<br>*(-> Ngôi nhà này là tài sản riêng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing or things belonging to someone; possessions collectively.
@@ -34,4 +44,4 @@
 - proprietor (n)
 
 **Synonyms:** estate, possessions
-**Antonyms:** 
+**Antonyms:**

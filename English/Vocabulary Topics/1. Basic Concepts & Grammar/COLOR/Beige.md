@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Beige
 *n, adj*
 > /beɪʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Beige::Màu be *(Phát âm: /beɪʒ/)* ![[beige.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** They painted the living room beige.<br>*(-> Họ đã sơn phòng khách màu be.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pale yellowish-brown color.

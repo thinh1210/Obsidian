@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Rocket
 *Noun*
 > /ˈrɒk.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Rocket::Tên lửa *(Phát âm: /ˈrɒk.ɪt/)* ![[rocket.mp3]]<br><br>👪 **Word Family:** rocketry (n)<br><br>💬 **Ví dụ:** We watched the rocket launch on TV.<br>*(-> Chúng tôi đã xem vụ phóng tên lửa trên TV.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle propelled by the combustion of fuel to carry payloads into space.

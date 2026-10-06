@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Programmer
 *n.*
 > /ˈprəʊ.ɡræm.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Programmer::Người viết mã code lập trình máy tính, phát triển phần mềm *(Phát âm: /ˈprəʊ.ɡræm.ər/)* ![[programmer.mp3]]<br><br>👪 **Word Family:** program (n/v), programming (n), programmable (adj)<br><br>💬 **Ví dụ:** My older brother works as a front-end programmer building interactive websites.<br>*(-> Anh trai tôi làm lập trình viên giao diện chuyên xây dựng các trang web tương tác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who writes computer code or creates computer software.

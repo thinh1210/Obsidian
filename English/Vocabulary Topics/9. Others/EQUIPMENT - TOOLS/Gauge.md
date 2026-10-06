@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # gauge
 *noun*
 > /ɡeɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Gauge::đồng hồ đo, dụng cụ đo tiêu chuẩn *(Phát âm: /ɡeɪdʒ/)* ![[gauge.mp3]]<br><br>👪 **Word Family:** Noun: gauge (đồng hồ đo, tiêu chuẩn), Verb: gauge (đo lường, đánh giá)<br><br>💬 **Ví dụ:** According to the fuel gauge, we are almost out of petrol.<br>*(-> Theo đồng hồ đo nhiên liệu, chúng ta sắp hết xăng rồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an instrument that measures and gives a visual display of the amount, level, or contents of something.

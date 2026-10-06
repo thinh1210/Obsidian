@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Weekly
 *adj, adv*
 > /ˈwiːkli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Weekly::Hằng tuần *(Phát âm: /ˈwiːkli/)* ![[weekly.mp3]]<br><br>👪 **Word Family:** week (n)<br><br>💬 **Ví dụ:** I buy a weekly magazine.<br>*(-> Tôi mua một cuốn tạp chí hằng tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done, produced, or occurring once a week.

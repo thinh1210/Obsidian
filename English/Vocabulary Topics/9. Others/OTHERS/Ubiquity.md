@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Ubiquity
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - omnipresence, pervasiveness, universality
+
+
+## 🗂️ Flashcard
+Ubiquity::Sự có mặt ở khắp nơi, tính phổ biến rộng khắp *(Phát âm: /juːˈbɪk.wə.ti/)* ![[ubiquity.mp3]]<br><br>👪 **Word Family:** [Noun]: ubiquity, ubiquitousness, [Adj]: ubiquitous, [Adv]: ubiquitously<br><br>💬 **Ví dụ:** The ubiquity of smartphones has changed communication.<br>*(-> Sự phổ biến ở khắp nơi của điện thoại thông minh đã thay đổi việc giao tiếp.)*

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Ethnography
 *n.*
 > /eθˈnɒɡ.rə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
+
+## 🗂️ Flashcard
+Ethnography::Dân tộc học, bản mô tả dân tộc học *(Phát âm: /eθˈnɒɡ.rə.fi/)* ![[ethnography.mp3]]<br><br>👪 **Word Family:** ethnographic, ethnographer<br><br>💬 **Ví dụ:** She wrote a fascinating ethnography about online gamer communities.<br>*(-> Cô ấy đã viết một bản mô tả dân tộc học hấp dẫn về các cộng đồng game thủ trực tuyến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific description of the customs of individual peoples and cultures.

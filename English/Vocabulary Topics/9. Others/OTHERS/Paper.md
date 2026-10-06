@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Paper
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - document, sheet, leaf
+
+
+## 🗂️ Flashcard
+Paper::Giấy *(Phát âm: /ˈpeɪ.pər/)* ![[paper.mp3]]<br><br>👪 **Word Family:** [Noun]: paper, paperwork, [Verb]: paper, [Adj]: papery<br><br>💬 **Ví dụ:** He wrote his address on a scrap of paper.<br>*(-> Anh ấy viết địa chỉ của mình lên một mảnh giấy vụn.)*

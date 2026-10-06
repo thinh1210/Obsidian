@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Incentive
 *noun*
 > /ɪnˈsentɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
+
+## 🗂️ Flashcard
+Incentive::Sự khuyến khích, động cơ thúc đẩy, ưu đãi *(Phát âm: /ɪnˈsentɪv/)* ![[incentive.mp3]]<br><br>👪 **Word Family:** incentivize (v)<br><br>💬 **Ví dụ:** The threat of exams is a powerful incentive for students to study.<br>*(-> Mối đe dọa từ các kỳ thi là một động lực mạnh mẽ để học sinh học tập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that motivates or encourages someone to do something; a payment or concession to stimulate greater output

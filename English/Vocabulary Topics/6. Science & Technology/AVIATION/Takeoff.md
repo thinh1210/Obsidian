@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Takeoff
 *noun*
 > /ˈteɪk.ɒf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Takeoff::Sự cất cánh *(Phát âm: /ˈteɪk.ɒf/)* ![[takeoff.mp3]]<br><br>👪 **Word Family:** take off (v), lift-off (n), launch (v)<br><br>💬 **Ví dụ:** Please fasten your seatbelt, we are ready for takeoff.<br>*(-> Vui lòng cài dây an toàn, chúng ta sắp cất cánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The moment when an aircraft leaves the ground and begins to fly.

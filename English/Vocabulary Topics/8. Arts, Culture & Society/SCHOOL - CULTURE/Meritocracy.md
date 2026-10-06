@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Meritocracy
 *noun*
 > /ˌmerɪˈtɒkrəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Meritocracy::Chế độ trọng dụng nhân tài, xã hội thực tài *(Phát âm: /ˌmerɪˈtɒkrəsi/)* ![[meritocracy.mp3]]<br><br>👪 **Word Family:** meritocratic (adj), merit (n, v)<br><br>💬 **Ví dụ:** Advocates believe that the university admissions system should be a pure meritocracy.<br>*(-> Những người ủng hộ tin rằng hệ thống tuyển sinh đại học nên là một chế độ thực tài thuần túy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A social system in which advancement is based on individual ability or achievement.

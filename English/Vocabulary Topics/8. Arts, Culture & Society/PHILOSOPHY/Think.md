@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Think
 *v.*
 > /θɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Think::Suy nghĩ, nghĩ *(Phát âm: /θɪŋk/)* ![[think.mp3]]<br><br>👪 **Word Family:** thought, thoughtful, thinkable<br><br>💬 **Ví dụ:** I think we should go now before it rains.<br>*(-> Tôi nghĩ chúng ta nên đi bây giờ trước khi trời mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have a particular opinion, belief, or idea about something.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Obsolescence
 *noun*
 > /ˌɒbsəˈlesns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Obsolescence::Sự lỗi thời, sự không còn được sử dụng nữa *(Phát âm: /ˌɒbsəˈlesns/)* ![[obsolescence.mp3]]<br><br>👪 **Word Family:** obsolete (adj)<br><br>💬 **Ví dụ:** Planned obsolescence makes consumers buy new phone models every couple of years.<br>*(-> Sự lỗi thời có kế hoạch khiến người tiêu dùng phải mua các mẫu điện thoại mới sau mỗi vài năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of becoming obsolete or outdated and no longer used.

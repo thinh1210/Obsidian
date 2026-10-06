@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Disseminate
 *v.*
 > /dɪˈsemɪneɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Disseminate::Phổ biến, lan truyền rộng rãi *(Phát âm: /dɪˈsemɪneɪt/)* ![[disseminate.mp3]]<br><br>👪 **Word Family:** dissemination<br><br>💬 **Ví dụ:** The internet helps to disseminate scientific papers quickly.<br>*(-> Internet giúp phổ biến các bài báo khoa học một cách nhanh chóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spread or disperse information or knowledge widely

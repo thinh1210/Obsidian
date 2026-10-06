@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Water
 *v.*
 > /ˈwɔː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Water::Tưới nước *(Phát âm: /ˈwɔː.tər/)* ![[water.mp3]]<br><br>👪 **Word Family:** water (n), watery (adj), waterless (adj)<br><br>💬 **Ví dụ:** Don't forget to water the flowers before you leave.<br>*(-> Đừng quên tưới hoa trước khi bạn đi nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To pour water on to plants or the soil to keep them healthy.

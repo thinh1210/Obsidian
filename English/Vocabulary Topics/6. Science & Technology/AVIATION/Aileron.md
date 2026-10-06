@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Aileron
 *noun*
 > /ˈeɪ.lər.ɒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Aileron::Cánh phụ / thanh kiểm soát lăn *(Phát âm: /ˈeɪ.lər.ɒn/)* ![[aileron.mp3]]<br><br>👪 **Word Family:** elevator (n), rudder (n), flap (n)<br><br>💬 **Ví dụ:** The student pilot learned to use ailerons to bank the plane in a turn.<br>*(-> Phi công học viên học cách sử dụng cánh phụ để nghiêng máy bay khi rẽ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hinged surface on the trailing edge of an airplane wing, used to control rolling and banking.

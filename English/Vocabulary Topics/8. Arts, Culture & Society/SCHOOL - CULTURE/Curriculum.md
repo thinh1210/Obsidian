@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Curriculum
 *noun*
 > /kəˈrɪkjələm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Curriculum::Chương trình học, khung giáo trình *(Phát âm: /kəˈrɪkjələm/)* ![[curriculum.mp3]]<br><br>👪 **Word Family:** curricular (adj), extra-curricular (adj)<br><br>💬 **Ví dụ:** The school curriculum now includes computer programming classes.<br>*(-> Chương trình học của trường hiện bao gồm cả các lớp lập trình máy tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The subjects comprising a course of study in a school or college.

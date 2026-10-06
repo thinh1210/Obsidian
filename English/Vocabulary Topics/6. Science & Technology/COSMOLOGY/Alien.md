@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Alien
 *Noun*
 > /ˈeɪ.li.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Alien::Người ngoài hành tinh *(Phát âm: /ˈeɪ.li.ən/)* ![[alien.mp3]]<br><br>👪 **Word Family:** alienate (v), alienation (n)<br><br>💬 **Ví dụ:** Do you believe in aliens?<br>*(-> Bạn có tin vào người ngoài hành tinh không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A creature from another planet.

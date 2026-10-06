@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Review
 *v./n.*
 > /rɪˈvjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Review::Hành động ôn tập, xem lại bài vở kiến thức trước kỳ thi *(Phát âm: /rɪˈvjuː/)* ![[review.mp3]]<br><br>👪 **Word Family:** reviewer (n)<br><br>💬 **Ví dụ:** I spent the weekend reviewing all the grammar rules before the final proficiency test.<br>*(-> Tôi đã dành cả ngày cuối tuần để ôn lại toàn bộ các quy tắc ngữ pháp trước kỳ thi năng lực cuối khóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look over study material again in order to learn it, prepare for an exam, or improve understanding.

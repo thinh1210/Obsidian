@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Interest
 *noun.*
 > /ˈɪntrəst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Interest::Lãi suất, tiền lãi *(Phát âm: /ˈɪntrəst/)* ![[interest.mp3]]<br><br>👪 **Word Family:** interested (adj), interesting (adj)<br><br>💬 **Ví dụ:** The savings account offers a high interest of five percent annually.<br>*(-> Tài khoản tiết kiệm cung cấp tiền lãi cao năm phần trăm mỗi năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Money charged by a bank for borrowing, or paid to you for keeping money in an account.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Nationality
 *Noun*
 > /ˌnæʃəˈnæləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Nationality::Quốc tịch *(Phát âm: /ˌnæʃəˈnæləti/)* ![[nationality.mp3]]<br><br>👪 **Word Family:** National, Nation<br><br>💬 **Ví dụ:** What is your nationality?<br>*(-> Quốc tịch của bạn là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The status of belonging to a particular nation.

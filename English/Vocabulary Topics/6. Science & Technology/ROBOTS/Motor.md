@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Motor
 *noun.*
 > /ˈmoʊ.t̬ɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Motor::Động cơ, mô-tơ *(Phát âm: /ˈmoʊ.t̬ɚ/)* ![[motor.mp3]]<br><br>👪 **Word Family:** motorized (adj), motorist (noun)<br><br>💬 **Ví dụ:** The robot's wheel is driven by a small electric motor.<br>*(-> Bánh xe của robot được dẫn động bởi một động cơ điện nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that changes electricity or fuel into movement and makes a machine work

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # River
 *n.*
 > /ˈrɪvə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+River::Dòng sông *(Phát âm: /ˈrɪvə/)* ![[river.mp3]]<br><br>👪 **Word Family:** Riverside (n.)<br><br>💬 **Ví dụ:** We swam in the river.<br>*(-> Chúng tôi đã bơi ở sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large natural stream of water.

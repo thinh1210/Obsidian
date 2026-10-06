@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Continent
 *Noun*
 > /ˈkɒntɪnənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Continent::Lục địa *(Phát âm: /ˈkɒntɪnənt/)* ![[continent.mp3]]<br><br>👪 **Word Family:** continental<br><br>💬 **Ví dụ:** Asia is the largest continent on Earth.<br>*(-> Châu Á là lục địa lớn nhất trên Trái Đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any of the world's main continuous expanses of land.

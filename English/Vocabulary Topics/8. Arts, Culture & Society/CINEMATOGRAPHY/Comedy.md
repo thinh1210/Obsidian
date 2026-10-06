@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Comedy
 *n.*
 > /ˈkɒmədi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Comedy::Phim hài, kịch hài *(Phát âm: /ˈkɒmədi/)* ![[comedy.mp3]]<br><br>👪 **Word Family:** comedian, comedic<br><br>💬 **Ví dụ:** I feel like watching a lighthearted comedy tonight.<br>*(-> Tối nay tôi muốn xem một bộ phim hài nhẹ nhàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Professional entertainment consisting of jokes and satirical sketches, intended to make an audience laugh

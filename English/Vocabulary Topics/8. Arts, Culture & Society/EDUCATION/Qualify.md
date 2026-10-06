@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Qualify
 *v.*
 > /ˈkwɒlɪfaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Qualify::Đủ điều kiện, đủ tiêu chuẩn *(Phát âm: /ˈkwɒlɪfaɪ/)* ![[qualify.mp3]]<br><br>👪 **Word Family:** qualification, quality, qualified<br><br>💬 **Ví dụ:** Do you qualify for student discounts?<br>*(-> Bạn có đủ điều kiện nhận giảm giá cho sinh viên không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To meet the necessary conditions to be entitled to a particular benefit

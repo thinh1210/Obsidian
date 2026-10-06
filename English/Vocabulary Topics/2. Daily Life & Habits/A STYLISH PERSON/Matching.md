@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Matching
 *adj.*
 > /ˈmætʃɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Matching::Đồng bộ, hợp nhau *(Phát âm: /ˈmætʃɪŋ/)* ![[matching.mp3]]<br><br>👪 **Word Family:** Match (v, n)<br><br>💬 **Ví dụ:** They wore matching T-shirts on their trip.<br>*(-> Họ mặc áo thun đồng phục trong chuyến đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having the same color, pattern, or style.

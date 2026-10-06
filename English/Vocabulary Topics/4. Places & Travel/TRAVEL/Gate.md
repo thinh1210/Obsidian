@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Gate
 *n.*
 > /ɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Phương tiện, Di chuyển & Chặng dừng
+
+## 🗂️ Flashcard
+Gate::Cửa kiểm soát cuối cùng tại sân bay dẫn thẳng vào ống lồng hoặc xe buýt ra máy bay *(Phát âm: /ɡeɪt/)* ![[gate.mp3]]<br><br>👪 **Word Family:** gateway (n)<br><br>💬 **Ví dụ:** Flight VN214 is now boarding at gate number fifteen.<br>*(-> Chuyến bay VN214 hiện đang bắt đầu cho khách lên máy bay tại cửa số 15.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A barrier formed by a doorway giving access to an aircraft at an airport terminal.

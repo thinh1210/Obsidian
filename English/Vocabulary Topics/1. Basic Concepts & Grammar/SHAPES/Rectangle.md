@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Rectangle
 *n.*
 > /ˈrek.tæŋ.ɡəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Rectangle::Hình chữ nhật *(Phát âm: /ˈrek.tæŋ.ɡəl/)* ![[rectangle.mp3]]<br><br>👪 **Word Family:** Rectangular (adj)<br><br>💬 **Ví dụ:** My phone is a rectangle.<br>*(-> Điện thoại của tôi là một hình chữ nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape with four straight sides and four right angles, with unequal adjacent sides.

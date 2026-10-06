@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Creator
 *Noun*
 > /kriˈeɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Creator::Người sáng tạo, người tạo ra *(Phát âm: /kriˈeɪ.tər/)* ![[creator.mp3]]<br><br>👪 **Word Family:** Create (v), creative (adj), creation (n)<br><br>💬 **Ví dụ:** She is the creator of this popular video game.<br>*(-> Cô ấy là người sáng tạo ra trò chơi điện tử phổ biến này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has made or invented something.

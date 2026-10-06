@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Preadolescent
 *noun*
 > /ˌpriː.æd.əˈles.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Preadolescent::Trẻ vị thành niên (sắp dậy thì) *(Phát âm: /ˌpriː.æd.əˈles.ənt/)* ![[preadolescent.mp3]]<br><br>👪 **Word Family:** Preadolescence (n)<br><br>💬 **Ví dụ:** Preadolescent boys are active.<br>*(-> Các bé trai tiền vị thành niên rất hiếu động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A child just before the onset of puberty.

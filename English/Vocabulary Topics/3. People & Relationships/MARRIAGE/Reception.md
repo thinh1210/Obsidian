@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Reception
 *noun*
 > /rɪˈsepʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Reception::Tiệc chiêu đãi *(Phát âm: /rɪˈsepʃn/)* ![[reception.mp3]]<br><br>👪 **Word Family:** Receive (verb)<br><br>💬 **Ví dụ:** The wedding reception was held at a hotel.<br>*(-> Tiệc cưới được tổ chức tại một khách sạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal social occasion held to welcome someone or to celebrate a particular event.

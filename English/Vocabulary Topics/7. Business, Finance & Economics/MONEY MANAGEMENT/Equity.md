@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Equity
 *Noun*
 > /ˈekwəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Equity::Vốn chủ sở hữu, giá trị thực tế của tài sản (giá trị cổ phần do công ty phát hành; giá trị thực tế tài sản sau trừ nợ) *(Phát âm: /ˈekwəti/)* ![[equity.mp3]]<br><br>👪 **Word Family:** Adj: equitable (công bằng, bình đẳng)<br><br>💬 **Ví dụ:** After ten years of paying the mortgage, we have built up significant equity in our home.<br>*(-> Sau mười năm trả thế chấp, chúng tôi đã tạo dựng được giá trị thực sở hữu đáng kể trong ngôi nhà của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The value of the shares issued by a company; the value of a homeowner's interest in their home.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Redundancy
 *n.*
 > /rɪˈdʌn.dən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Redundancy::Sự dư thừa nhân sự, sự sa thải do thừa nhân lực *(Phát âm: /rɪˈdʌn.dən.si/)* ![[redundancy.mp3]]<br><br>👪 **Word Family:** redundant<br><br>💬 **Ví dụ:** The factory closures resulted in thousands of redundancies.<br>*(-> Việc đóng cửa nhà máy dẫn đến hàng ngàn vụ sa thải do dư thừa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being no longer useful or needed, especially leading to job loss

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Broadband
 *n., adj.*
 > /ˈbrɔːdbænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Broadband::Băng thông rộng (Internet tốc độ cao) *(Phát âm: /ˈbrɔːdbænd/)* ![[broadband.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We recently upgraded to a fiber-optic broadband connection.<br>*(-> Chúng tôi mới nâng cấp lên kết nối internet cáp quang băng thông rộng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A high-capacity transmission technique using a wide range of frequencies, enabling a large number of messages to be communicated simultaneously.

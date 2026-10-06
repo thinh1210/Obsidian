@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Damage
 *n.*
 > /ˈdæmɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Damage::Thiệt hại, tổn thất *(Phát âm: /ˈdæmɪdʒ/)* ![[damage.mp3]]<br><br>👪 **Word Family:** damage (v), damaging (adj)<br><br>💬 **Ví dụ:** The storm caused severe damage to the roof of our house.<br>*(-> Cơn bão đã gây ra thiệt hại nghiêm trọng cho mái nhà của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Physical harm caused to something in such a way as to impair its value, usefulness, or normal function.

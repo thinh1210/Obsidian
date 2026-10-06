@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Setting
 *noun*
 > /ˈset.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Setting::Khung đính (đá quý) *(Phát âm: /ˈset.ɪŋ/)* ![[setting.mp3]]<br><br>👪 **Word Family:** Set<br><br>💬 **Ví dụ:** The diamond is in a setting.<br>*(-> Kim cương nằm trong khung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of metal in which a gem is fixed.

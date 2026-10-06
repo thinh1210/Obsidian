@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Execrable
 *adj*
 > /ˈek.sɪ.krə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Execrable::Đáng ghét, tồi tệ *(Phát âm: /ˈek.sɪ.krə.bəl/)* ![[execrable.mp3]]<br><br>👪 **Word Family:** Execrate (verb)<br><br>💬 **Ví dụ:** The service was simply execrable.<br>*(-> Dịch vụ thật sự quá tồi tệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely bad or unpleasant.

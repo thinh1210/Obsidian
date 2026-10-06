@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # drill
 *noun*
 > /drɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Drill::cái khoan *(Phát âm: /drɪl/)* ![[drill.mp3]]<br><br>👪 **Word Family:** Noun: drill (cái khoan, mũi khoan), Verb: drill (khoan lỗ)<br><br>💬 **Ví dụ:** I need to borrow your drill to put up some shelves.<br>*(-> Tôi cần mượn cái khoan của bạn để lắp mấy cái kệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool or machine with a pointed end for making holes in hard substances.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Tribe
 *n.*
 > /traɪb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Tribe::Bộ lạc, bộ tộc *(Phát âm: /traɪb/)* ![[tribe.mp3]]<br><br>👪 **Word Family:** tribal, tribalism<br><br>💬 **Ví dụ:** We visited a hill tribe during our trip to Vietnam.<br>*(-> Chúng tôi đã đến thăm một bộ lạc miền núi trong chuyến đi đến Việt Nam.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties, with a common culture and dialect.

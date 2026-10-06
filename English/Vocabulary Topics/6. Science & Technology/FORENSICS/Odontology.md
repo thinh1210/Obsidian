@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Odontology
 *noun*
 > /ˌəʊ.dɒnˈtɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Odontology::Răng học / nha khoa pháp y – dùng để nhận dạng cá nhân qua hồ sơ răng hoặc vết cắn *(Phát âm: /ˌəʊ.dɒnˈtɒl.ə.dʒi/)* ![[odontology.mp3]]<br><br>👪 **Word Family:** odontologist (n), odontological (adj)<br><br>💬 **Ví dụ:** The dentist explained odontology basics to the students visiting his practice.<br>*(-> Nha sĩ giải thích những kiến thức cơ bản về răng học cho học sinh đến thăm phòng khám.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of teeth; in forensics, used to identify individuals by dental records or bite marks.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Salutary
 *adj.*
 > /ˈsæljʊtəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
+
+## 🗂️ Flashcard
+Salutary::Có lợi, bổ ích *(Phát âm: /ˈsæljʊtəri/)* ![[salutary.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The holiday had a salutary effect on him.<br>*(-> Kỳ nghỉ đã có tác động tốt đến anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing good effects; beneficial (especially regarding health).

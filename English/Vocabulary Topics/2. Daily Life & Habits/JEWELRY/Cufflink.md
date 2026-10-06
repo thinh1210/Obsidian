@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Cufflink
 *noun*
 > /ˈkʌf.lɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Cufflink::Khuy măng sét *(Phát âm: /ˈkʌf.lɪŋk/)* ![[cufflink.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He wore cufflinks.<br>*(-> Anh ấy đeo khuy măng sét.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device for fastening together the sides of a shirt cuff.

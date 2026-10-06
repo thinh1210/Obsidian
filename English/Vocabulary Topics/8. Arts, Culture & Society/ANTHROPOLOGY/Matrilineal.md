@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Matrilineal
 *adj.*
 > /ˌmæt.rɪˈlɪn.i.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Matrilineal::Thuộc mẫu hệ *(Phát âm: /ˌmæt.rɪˈlɪn.i.əl/)* ![[matrilineal.mp3]]<br><br>👪 **Word Family:** matrilineally, matriarch, matriarchy<br><br>💬 **Ví dụ:** In their family, names are passed down through a matrilineal tradition.<br>*(-> Trong gia đình họ, tên tuổi được truyền lại thông qua truyền thống mẫu hệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of or based on kinship with the mother or the female line.

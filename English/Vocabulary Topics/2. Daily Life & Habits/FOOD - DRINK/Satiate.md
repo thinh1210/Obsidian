@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Satiate
 *v.*
 > /ˈseɪ.ʃi.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Satiate::Thỏa mãn, làm no *(Phát âm: /ˈseɪ.ʃi.eɪt/)* ![[satiate.mp3]]<br><br>👪 **Word Family:** satiation<br><br>💬 **Ví dụ:** The meal satiated my hunger.<br>*(-> Bữa ăn làm tôi no bụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Satisfy (a desire or an appetite) to the full.

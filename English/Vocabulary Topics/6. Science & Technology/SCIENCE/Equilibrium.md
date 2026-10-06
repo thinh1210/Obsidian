@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Equilibrium
 *noun*
 > /ˌiː.kwɪˈlɪb.ri.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Equilibrium::Cân bằng – trạng thái cân bằng giữa các lực, phản ứng hoặc ảnh hưởng đối lập nhau *(Phát âm: /ˌiː.kwɪˈlɪb.ri.əm/)* ![[equilibrium.mp3]]<br><br>👪 **Word Family:** equilibrate (v), equilibrate (v), equilateral (adj - related)<br><br>💬 **Ví dụ:** A see-saw reaches equilibrium when both sides weigh the same.<br>*(-> Cầu bập bênh đạt trạng thái cân bằng khi cả hai bên có cùng trọng lượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of balance between opposing forces, reactions, or influences.

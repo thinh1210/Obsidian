@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Deluge
 *noun*
 > /ˈdel.juːdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Deluge::Trận lụt lớn, cơn mưa như trút nước *(Phát âm: /ˈdel.juːdʒ/)* ![[deluge.mp3]]<br><br>👪 **Word Family:** deluge (v)<br><br>💬 **Ví dụ:** The town was submerged under a deluge of water after the dam broke.<br>*(-> Thị trấn bị nhấn chìm dưới dòng nước lũ khổng lồ sau khi đập bị vỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A severe flood or a very heavy fall of rain.

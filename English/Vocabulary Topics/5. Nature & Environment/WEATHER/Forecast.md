@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Forecast
 *noun*
 > /ˈfɔːkɑːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Forecast::Dự báo (thời tiết, tài chính) *(Phát âm: /ˈfɔːkɑːst/)* ![[forecast.mp3]]<br><br>👪 **Word Family:** Forecast (verb), forecaster (noun)<br><br>💬 **Ví dụ:** Did you check the weather forecast for tomorrow?<br>*(-> Bạn đã xem dự báo thời tiết cho ngày mai chưa?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statement saying what will happen in the future, especially about weather

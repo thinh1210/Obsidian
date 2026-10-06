@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Lapse
 *v.*
 > /læps/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
+
+## 🗂️ Flashcard
+Lapse::Mất hiệu lực (do không đóng phí hoặc quá hạn) *(Phát âm: /læps/)* ![[lapse.mp3]]<br><br>👪 **Word Family:** lapsed, relapse<br><br>💬 **Ví dụ:** If you do not pay your premium on time, your policy will lapse.<br>*(-> Nếu bạn không đóng phí bảo hiểm đúng hạn, hợp đồng của bạn sẽ mất hiệu lực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of a right, agreement, or policy) become invalid because it is not used, claimed, or renewed.

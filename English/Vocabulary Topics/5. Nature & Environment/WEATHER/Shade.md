@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Shade
 *n.*
 > /ʃeɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Shade::Bóng mát, bóng râm chắn bớt ánh nắng mặt trời gay gắt *(Phát âm: /ʃeɪd/)* ![[shade.mp3]]<br><br>👪 **Word Family:** shady (adj), shadow (n)<br><br>💬 **Ví dụ:** It was 35 degrees, so we rested in the shade of a large oak tree.<br>*(-> Nhiệt độ lúc đó là 35 độ, nên chúng tôi nghỉ ngơi dưới bóng râm của cây sồi lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Slight darkness caused by something blocking the direct light from the sun.

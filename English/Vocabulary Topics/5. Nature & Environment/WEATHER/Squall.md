@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Squall
 *noun*
 > /skwɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Squall::Cơn gió lốc, cơn giông ngắn dữ dội *(Phát âm: /skwɔːl/)* ![[squall.mp3]]<br><br>👪 **Word Family:** Squally (adj)<br><br>💬 **Ví dụ:** The sailboat was capsized by a sudden squall.<br>*(-> Chiếc thuyền buồm đã bị lật bởi một cơn gió lốc bất ngờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden violent gust of wind or localized storm, especially one bringing rain, snow, or sleet

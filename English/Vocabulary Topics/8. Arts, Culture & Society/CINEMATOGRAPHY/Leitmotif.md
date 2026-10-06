@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Leitmotif
 *n.*
 > /ˈlaɪtməʊtiːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Leitmotif::Giai điệu đặc trưng, mô-típ lặp lại *(Phát âm: /ˈlaɪtməʊtiːf/)* ![[leitmotif.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The menacing theme in Jaws is a famous musical leitmotif.<br>*(-> Giai điệu đe dọa trong phim Hàm Cá Mập là một nhạc hiệu lặp lại nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recurrent theme throughout a musical or literary composition, associated with a particular person, idea, or situation

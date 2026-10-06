@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Acculturation
 *Noun*
 > /əˌkʌltʃəˈreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Acculturation::Sự tiếp nhận văn hóa *(Phát âm: /əˌkʌltʃəˈreɪʃn/)* ![[acculturation.mp3]]<br><br>👪 **Word Family:** Acculturate<br><br>💬 **Ví dụ:** Acculturation can be a difficult process for immigrants.<br>*(-> Tiếp nhận văn hóa có thể là một quá trình khó khăn đối với người nhập cư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Assimilation to a different culture, typically the dominant one.

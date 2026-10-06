@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Convalescence
 *n*
 > /ˌkɒnvəˈlesns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Convalescence::Thời kỳ dưỡng bệnh, sự hồi phục sau khi ốm *(Phát âm: /ˌkɒnvəˈlesns/)* ![[convalescence.mp3]]<br><br>👪 **Word Family:** convalesce (v), convalescent (adj, n)<br><br>💬 **Ví dụ:** A quiet environment is essential for the patient's convalescence.<br>*(-> Một môi trường yên tĩnh là cần thiết cho thời kỳ dưỡng bệnh của bệnh nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Time spent recovering from an illness or medical treatment; recuperation.

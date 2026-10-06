@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Street
 *n.*
 > /striːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Street::Đường phố *(Phát âm: /striːt/)* ![[street.mp3]]<br><br>👪 **Word Family:** streetwalker (n)<br><br>💬 **Ví dụ:** Look before you cross the street.<br>*(-> Hãy nhìn trước khi băng qua đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A public road in a city or town.

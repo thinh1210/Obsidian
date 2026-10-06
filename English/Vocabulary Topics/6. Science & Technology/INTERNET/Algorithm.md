@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Algorithm
 *noun*
 > /ˈæl.ɡə.rɪ.ðəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Algorithm::Thuật toán *(Phát âm: /ˈæl.ɡə.rɪ.ðəm/)* ![[algorithm.mp3]]<br><br>👪 **Word Family:** algorithm (n), algorithmic (adj)<br><br>💬 **Ví dụ:** Social media algorithms decide which posts appear in your feed.<br>*(-> Thuật toán mạng xã hội quyết định bài đăng nào xuất hiện trong nguồn cấp của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A step-by-step set of rules or instructions that a computer or Internet platform follows to perform a task or make decisions.

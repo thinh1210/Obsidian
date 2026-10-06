@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Orange
 *adj, n*
 > /ˈɔːr.ɪndʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Orange::Màu cam *(Phát âm: /ˈɔːr.ɪndʒ/)* ![[orange.mp3]]<br><br>👪 **Word Family:** orangey (adj)<br><br>💬 **Ví dụ:** The sunset was a beautiful orange.<br>*(-> Hoàng hôn có màu cam tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A color between red and yellow.

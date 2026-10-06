@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Valley
 *Noun*
 > /ˈvæli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Valley::Thung lũng *(Phát âm: /ˈvæli/)* ![[valley.mp3]]<br><br>👪 **Word Family:** vale<br><br>💬 **Ví dụ:** The town lies in a green, peaceful valley.<br>*(-> Thị trấn nằm trong một thung lũng xanh tươi và bình yên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A low area of land between hills or mountains, typically with a river.

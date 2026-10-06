@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Investigate
 *verb*
 > /ɪnˈves.tɪ.ɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Investigate::Điều tra / nghiên cứu *(Phát âm: /ɪnˈves.tɪ.ɡeɪt/)* ![[investigate.mp3]]<br><br>👪 **Word Family:** investigation (n), investigator (n), investigative (adj)<br><br>💬 **Ví dụ:** The police will investigate the robbery tonight.<br>*(-> Cảnh sát sẽ điều tra vụ cướp đêm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To carry out a systematic inquiry or examination to find out the truth.

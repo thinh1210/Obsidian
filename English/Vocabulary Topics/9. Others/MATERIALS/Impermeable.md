@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Impermeable
 *adjective.*
 > /ɪmˈpɜːmiəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Impermeable::Không thấm nước, không thấm qua được *(Phát âm: /ɪmˈpɜːmiəbl/)* ![[impermeable.mp3]]<br><br>👪 **Word Family:** impermeability (Noun), impermeably (Adverb)<br><br>💬 **Ví dụ:** Rain jackets are coated with an impermeable layer of polyurethane.<br>*(-> Áo khoác đi mưa được phủ một lớp polyurethane không thấm nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not allowing fluid to pass through.

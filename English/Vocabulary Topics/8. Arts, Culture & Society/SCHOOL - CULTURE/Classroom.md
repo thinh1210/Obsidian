@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Classroom
 *noun*
 > /ˈklɑːsruːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Classroom::Phòng học *(Phát âm: /ˈklɑːsruːm/)* ![[classroom.mp3]]<br><br>👪 **Word Family:** class (n), classmate (n)<br><br>💬 **Ví dụ:** The children ran into the classroom when the bell rang.<br>*(-> Trẻ em chạy vào phòng học khi chuông reo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A room in which a class of pupils or students is taught.

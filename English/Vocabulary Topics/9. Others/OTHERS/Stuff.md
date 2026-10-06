@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Stuff
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - things, belongings, gear
+
+
+## 🗂️ Flashcard
+Stuff::Đồ đạc, thứ, chất liệu *(Phát âm: /stʌf/)* ![[stuff.mp3]]<br><br>👪 **Word Family:** [Noun]: stuff, [Verb]: stuff, [Adj]: stuffed, stuffy<br><br>💬 **Ví dụ:** We need to clear all this stuff off the table.<br>*(-> Chúng ta cần dọn sạch đống đồ này khỏi bàn.)*

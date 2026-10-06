@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Agency
 *n.*
 > /ˈeɪdʒənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Agency::Đại lý, công ty môi giới *(Phát âm: /ˈeɪdʒənsi/)* ![[agency.mp3]]<br><br>👪 **Word Family:** agent (n)<br><br>💬 **Ví dụ:** We registered our property with a local real estate agency.<br>*(-> Chúng tôi đã đăng ký bất động sản của mình với một công ty môi giới địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A business or organization established to provide a particular service, typically one that involves organizing transactions between two other parties.

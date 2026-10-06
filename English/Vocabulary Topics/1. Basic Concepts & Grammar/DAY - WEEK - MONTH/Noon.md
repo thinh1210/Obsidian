@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Noon
 *n.*
 > /nuːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Noon::Chính ngọ, đúng 12 giờ trưa khi mặt trời ở vị trí cao nhất *(Phát âm: /nuːn/)* ![[noon.mp3]]<br><br>👪 **Word Family:** noontime (n), noonday (n)<br><br>💬 **Ví dụ:** The church bells chime twelve times at noon across the village square.<br>*(-> Chuông nhà thờ ngân vang mười hai hồi lúc chính ngọ khắp quảng trường ngôi làng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Twelve o'clock in the middle of the day; midday.

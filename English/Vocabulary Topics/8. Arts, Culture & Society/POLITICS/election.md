@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # election
 *noun*
 > /ɪˈlekʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+election::Cuộc bầu cử *(Phát âm: /ɪˈlekʃn/)* ![[election.mp3]]<br><br>👪 **Word Family:** elect (v), electoral (adj), elector (n)<br><br>💬 **Ví dụ:** Everyone is talking about the upcoming election on Sunday.<br>*(-> Mọi người đang bàn tán về cuộc bầu cử sắp tới vào Chủ Nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal and organized choice by vote of a person for a political office or other position.

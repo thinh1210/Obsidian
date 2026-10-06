@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Maternity
 *noun*
 > /məˈtɜː.nə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Maternity::Thiên chức làm mẹ *(Phát âm: /məˈtɜː.nə.ti/)* ![[maternity.mp3]]<br><br>👪 **Word Family:** maternal (adj)<br><br>💬 **Ví dụ:** She is on maternity leave.<br>*(-> Cô ấy đang nghỉ thai sản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being a mother.

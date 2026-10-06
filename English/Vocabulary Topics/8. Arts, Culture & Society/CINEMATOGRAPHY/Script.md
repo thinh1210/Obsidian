@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Script
 *n.*
 > /skrɪpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Script::Kịch bản *(Phát âm: /skrɪpt/)* ![[script.mp3]]<br><br>👪 **Word Family:** scriptwriter, scripture<br><br>💬 **Ví dụ:** She read the script before accepting the role.<br>*(-> Cô ấy đã đọc kịch bản trước khi nhận vai diễn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The written text of a play, movie, or broadcast

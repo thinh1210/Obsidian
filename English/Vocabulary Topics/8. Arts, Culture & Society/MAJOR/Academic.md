@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Academic
 *adj., n.*
 > /ˌæk.əˈdem.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Academic::Thuộc về học thuật; nhà học thuật *(Phát âm: /ˌæk.əˈdem.ɪk/)* ![[academic.mp3]]<br><br>👪 **Word Family:** academic (adj/n), academia (n), academically (adv)<br><br>💬 **Ví dụ:** She has always been strong academically.<br>*(-> Cô ấy luôn mạnh về mặt học thuật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to education and scholarship; a person who teaches or does research at a university.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Felony
 *noun*
 > /ˈfeləni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Felony::Trọng tội, tội ác nghiêm trọng *(Phát âm: /ˈfeləni/)* ![[felony.mp3]]<br><br>👪 **Word Family:** felon (n), felonious (adj)<br><br>💬 **Ví dụ:** Stealing cars is considered a felony in this country.<br>*(-> Trộm cắp xe ô tô được coi là một trọng tội ở quốc gia này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A serious crime, typically one involving violence, regarded as more serious than a misdemeanor

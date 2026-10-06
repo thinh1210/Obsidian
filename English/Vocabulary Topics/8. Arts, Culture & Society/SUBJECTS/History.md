@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # History
 *noun*
 > /ˈhɪstəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+History::Lịch sử, môn Lịch sử *(Phát âm: /ˈhɪstəri/)* ![[history.mp3]]<br><br>👪 **Word Family:** historian, historical, historic<br><br>💬 **Ví dụ:** History was my favorite subject in school.<br>*(-> Lịch sử là môn học yêu thích của tôi ở trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs.

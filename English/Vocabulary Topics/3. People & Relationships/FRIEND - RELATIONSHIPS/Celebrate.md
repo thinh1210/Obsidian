@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Celebrate
 *verb*
 > /ˈsel.ə.breɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Celebrate::Ăn mừng, kỷ niệm *(Phát âm: /ˈsel.ə.breɪt/)* ![[celebrate.mp3]]<br><br>👪 **Word Family:** celebration<br><br>💬 **Ví dụ:** We will celebrate our anniversary.<br>*(-> Chúng tôi sẽ kỷ niệm ngày cưới của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.

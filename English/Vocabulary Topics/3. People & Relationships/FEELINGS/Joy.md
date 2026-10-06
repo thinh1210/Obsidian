@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Joy
 *n.*
 > /dʒɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Joy::Niềm vui sướng ngập tràn, niềm hân hoan tột cùng trong lòng *(Phát âm: /dʒɔɪ/)* ![[joy.mp3]]<br><br>👪 **Word Family:** joyful (adj), joyfully (adv), joyous (adj)<br><br>💬 **Ví dụ:** The sweet aroma of baking bread and the giggles of children filled the house with joy.<br>*(-> Hương thơm ngọt ngào của mẻ bánh nướng và tiếng cười khúc khích của con trẻ làm ngập tràn niềm vui khắp căn nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of great happiness and pleasure.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Rose
 *n.*
 > /rəʊz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Rose::Hoa hồng, loài hoa kiêu sa ngát hương có gai nhọn, biểu tượng của tình yêu *(Phát âm: /rəʊz/)* ![[rose.mp3]]<br><br>👪 **Word Family:** rosy (adj)<br><br>💬 **Ví dụ:** He gave her a bouquet of fragrant red roses for their anniversary.<br>*(-> Anh ấy tặng cô một bó hoa hồng đỏ ngát hương nhân dịp kỷ niệm ngày cưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A prickly bush or shrub that typically bears fragrant pink, red, yellow, or white flowers.

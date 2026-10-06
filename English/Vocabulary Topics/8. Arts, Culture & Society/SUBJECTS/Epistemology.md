@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Epistemology
 *noun*
 > /ɪˌpɪstəˈmɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Epistemology::Nhận thức luận *(Phát âm: /ɪˌpɪstəˈmɒlədʒi/)* ![[epistemology.mp3]]<br><br>👪 **Word Family:** epistemologist, epistemological<br><br>💬 **Ví dụ:** In philosophy, we debated epistemology and how we know what is real.<br>*(-> Trong triết học, chúng tôi đã tranh luận về nhận thức luận và cách chúng ta biết cái gì là thật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The theory of knowledge, especially with regard to its methods, validity, and scope.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Ambassador
 *n*
 > /æmˈbæs.ə.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Ambassador::Đại sứ *(Phát âm: /æmˈbæs.ə.dər/)* ![[ambassador.mp3]]<br><br>👪 **Word Family:** ambassadorial (adj), embassy (n)<br><br>💬 **Ví dụ:** The ambassador greeted the foreign dignitaries at the airport.<br>*(-> Đại sứ chào đón các quan khách nước ngoài tại sân bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official representative of a country in another country.

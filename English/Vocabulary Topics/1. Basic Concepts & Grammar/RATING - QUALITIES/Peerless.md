@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Peerless
 *adj*
 > /ˈpɪə.ləs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Peerless::Vô song, không ai sánh kịp *(Phát âm: /ˈpɪə.ləs/)* ![[peerless.mp3]]<br><br>👪 **Word Family:** Peer (noun)<br><br>💬 **Ví dụ:** She is a singer of peerless talent.<br>*(-> Cô ấy là một ca sĩ có tài năng vô song.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unequalled; unrivaled.

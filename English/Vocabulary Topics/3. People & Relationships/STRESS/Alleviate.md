@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Alleviate
 *v.*
 > /əˈliːvieɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Alleviate::Làm nhẹ bớt, làm giảm *(Phát âm: /əˈliːvieɪt/)* ![[alleviate.mp3]]<br><br>👪 **Word Family:** alleviation (n)<br><br>💬 **Ví dụ:** Meditation can alleviate anxiety.<br>*(-> Thiền có thể làm giảm sự lo âu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (suffering, deficiency, or a problem) less severe

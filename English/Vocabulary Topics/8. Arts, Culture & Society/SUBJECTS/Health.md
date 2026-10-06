@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Health
 *noun*
 > /helθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Health::Giáo dục sức khỏe, môn Sức khỏe *(Phát âm: /helθ/)* ![[health.mp3]]<br><br>👪 **Word Family:** healthy, healthiness<br><br>💬 **Ví dụ:** We learned about healthy eating in health class.<br>*(-> Chúng tôi đã học về ăn uống lành mạnh trong lớp sức khỏe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of physical and mental well-being, or the state of being free from illness or injury.

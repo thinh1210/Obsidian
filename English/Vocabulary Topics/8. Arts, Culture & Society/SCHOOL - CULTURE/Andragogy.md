@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Andragogy
 *noun*
 > /ˈændrəɡɒdʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Andragogy::Giáo dục học người lớn, phương pháp giảng dạy người lớn *(Phát âm: /ˈændrəɡɒdʒi/)* ![[andragogy.mp3]]<br><br>👪 **Word Family:** andragogic (adj), andragogically (adv)<br><br>💬 **Ví dụ:** Corporate training programs should be designed using principles of andragogy.<br>*(-> Các chương trình đào tạo doanh nghiệp nên được thiết kế bằng cách sử dụng các nguyên lý giáo dục học người lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The method and practice of teaching adult learners; adult education.

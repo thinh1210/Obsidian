@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Fiscal
 *adj.*
 > /ˈfɪskl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
+
+## 🗂️ Flashcard
+Fiscal::Thuộc tài khóa *(Phát âm: /ˈfɪskl/)* ![[fiscal.mp3]]<br><br>👪 **Word Family:** fiscally (adv), fisc (noun)<br><br>💬 **Ví dụ:** The government has announced a tighter fiscal policy to curb inflation.<br>*(-> Chính phủ đã công bố một chính sách tài khóa thắt chặt hơn để kiềm chế lạm phát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to government revenue, especially taxes, and financial matters.

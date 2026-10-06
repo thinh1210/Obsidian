@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Dance
 *v*
 > /dɑːns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Dance::Nhảy múa *(Phát âm: /dɑːns/)* ![[dance.mp3]]<br><br>👪 **Word Family:** Dancer (n), Dancing (n)<br><br>💬 **Ví dụ:** They danced all night.<br>*(-> Họ đã nhảy múa suốt đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move rhythmically to music.

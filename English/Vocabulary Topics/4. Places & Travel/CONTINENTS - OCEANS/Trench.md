@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Trench
 *noun*
 > /trentʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Trench::Rãnh (đại dương), mương *(Phát âm: /trentʃ/)* ![[trench.mp3]]<br><br>👪 **Word Family:** Trenchant (adj. - unrelated meaning)<br><br>💬 **Ví dụ:** The submarine dove into the deep trench.<br>*(-> Tàu ngầm lặn xuống rãnh sâu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long, narrow, deep depression in the ocean floor.

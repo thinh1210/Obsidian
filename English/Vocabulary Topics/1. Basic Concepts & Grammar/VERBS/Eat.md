@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Eat
 *Verb*
 > /iːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Eat::Ăn *(Phát âm: /iːt/)* ![[eat.mp3]]<br><br>👪 **Word Family:** Eater (n)<br><br>💬 **Ví dụ:** I eat apple.<br>*(-> Tôi ăn táo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put food in your mouth, chew it, and swallow it.

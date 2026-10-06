@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Suspect
 *noun*
 > /ˈsʌspekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Suspect::Nghi phạm *(Phát âm: /ˈsʌspekt/)* ![[suspect.mp3]]<br><br>👪 **Word Family:** suspicion (n), suspicious (adj), suspiciously (adv), suspect (v)<br><br>💬 **Ví dụ:** The police are questioning the prime suspect in the case.<br>*(-> Cảnh sát đang thẩm vấn nghi phạm chính trong vụ án.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person believed to have committed a crime; to believe someone is guilty of a crime

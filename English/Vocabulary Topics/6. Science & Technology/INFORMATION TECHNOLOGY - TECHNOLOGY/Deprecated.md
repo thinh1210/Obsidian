@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Deprecated
 *adjective*
 > /ˈdep.rə.keɪ.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Technical/Programming | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Deprecated::Bị phản đối sử dụng, lỗi thời (trong phần mềm) *(Phát âm: /ˈdep.rə.keɪ.tɪd/)* ![[deprecated.mp3]]<br><br>👪 **Word Family:** Deprecate (v), Deprecation (n)<br><br>💬 **Ví dụ:** Don't use that feature anymore, it's deprecated.<br>*(-> Đừng dùng tính năng đó nữa, nó đã bị lỗi thời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Considered obsolete or no longer recommended, though it may still work.

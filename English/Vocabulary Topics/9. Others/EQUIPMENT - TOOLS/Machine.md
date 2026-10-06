@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # machine
 *noun*
 > /məˈʃiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Machine::máy móc, cỗ máy *(Phát âm: /məˈʃiːn/)* ![[machine.mp3]]<br><br>👪 **Word Family:** Noun: machine (cỗ máy), machinery (hệ thống máy móc), mechanic (thợ cơ khí), Verb: machine (gia công bằng máy), Adjective: mechanical (thuộc về cơ khí)<br><br>💬 **Ví dụ:** Don't put too much clothes into the washing machine.<br>*(-> Đừng bỏ quá nhiều quần áo vào máy giặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an apparatus using mechanical power and having several parts, each with a definite function, to perform particular work.

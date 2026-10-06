@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Blonde
 *adj., n.*
 > /blɒnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Blonde::Có tóc màu vàng óng, vàng hoe; người có mái tóc vàng hoe *(Phát âm: /blɒnd/)* ![[blonde.mp3]]<br><br>👪 **Word Family:** blondeness (n)<br><br>💬 **Ví dụ:** She decided to dye her naturally dark hair to a sunny blonde shade.<br>*(-> Cô ấy quyết định nhuộm mái tóc đen tự nhiên sang màu vàng hoe rực rỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having pale yellow or gold hair; a person with blonde hair.

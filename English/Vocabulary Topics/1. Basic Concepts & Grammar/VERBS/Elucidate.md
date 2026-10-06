@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Elucidate
 *Verb*
 > /iˈluː.sɪ.deɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Elucidate::Làm sáng tỏ *(Phát âm: /iˈluː.sɪ.deɪt/)* ![[elucidate.mp3]]<br><br>👪 **Word Family:** Elucidation (n)<br><br>💬 **Ví dụ:** Can you elucidate that?<br>*(-> Bạn có thể làm sáng tỏ điều đó không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To explain something or make something clear.

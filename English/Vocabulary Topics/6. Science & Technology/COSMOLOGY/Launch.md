@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Launch
 *Verb*
 > /lɔːntʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Launch::Phóng, khởi chạy *(Phát âm: /lɔːntʃ/)* ![[launch.mp3]]<br><br>👪 **Word Family:** launcher (n)<br><br>💬 **Ví dụ:** We are waiting to launch the new website.<br>*(-> Chúng tôi đang chờ để khởi chạy trang web mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Set (a spacecraft or rocket) in motion, especially by sending it into space.

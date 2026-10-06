@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Ointment
 *n.*
 > /ˈɔɪnt.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Ointment::Thuốc mỡ đặc sánh bôi ngoài da để trị vết thương, ngứa hoặc bỏng *(Phát âm: /ˈɔɪnt.mənt/)* ![[ointment.mp3]]<br><br>👪 **Word Family:** anoint (v)<br><br>💬 **Ví dụ:** Gently rub a thin layer of antibacterial ointment over the burn.<br>*(-> Nhẹ nhàng thoa một lớp thuốc mỡ kháng khuẩn mỏng lên vết bỏng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A smooth, oily substance that is rubbed onto the skin to heal a wound or reduce pain.

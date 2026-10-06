@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # School
 *n.*
 > /skuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+School::Trường học *(Phát âm: /skuːl/)* ![[school.mp3]]<br><br>👪 **Word Family:** schooling (n)<br><br>💬 **Ví dụ:** Children go to school.<br>*(-> Trẻ em đi học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where children go to learn.

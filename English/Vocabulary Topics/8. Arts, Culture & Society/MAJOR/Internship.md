@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Internship
 *n.*
 > /ˈɪn.tɜːn.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Internship::Kỳ thực tập *(Phát âm: /ˈɪn.tɜːn.ʃɪp/)* ![[internship.mp3]]<br><br>👪 **Word Family:** internship (n), intern (n/v)<br><br>💬 **Ví dụ:** She did an internship at a marketing company last summer.<br>*(-> Cô ấy thực tập tại một công ty marketing mùa hè năm ngoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of work experience offered by an organization to students or graduates.

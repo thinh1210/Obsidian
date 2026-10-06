@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Insurgency
 *noun*
 > /ɪnˈsɜː.dʒən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Insurgency::Hoạt động nổi dậy, cuộc nổi loạn vũ trang *(Phát âm: /ɪnˈsɜː.dʒən.si/)* ![[insurgency.mp3]]<br><br>👪 **Word Family:** insurgent (noun/adj)<br><br>💬 **Ví dụ:** The rebel group began an insurgency against the dictator.<br>*(-> Nhóm nổi loạn đã bắt đầu một cuộc nổi dậy chống lại kẻ độc tài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An active revolt or uprising; an armed rebellion against an constituted authority.

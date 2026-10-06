@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Backup
 *n./v.*
 > /ˈbæk.ʌp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Backup::Bản sao lưu dữ liệu đề phòng khi file gốc bị hỏng hóc hoặc mất mát *(Phát âm: /ˈbæk.ʌp/)* ![[backup.mp3]]<br><br>👪 **Word Family:** back up (phr v)<br><br>💬 **Ví dụ:** I always keep a backup of my family photos on an external hard drive.<br>*(-> Tôi luôn giữ một bản sao lưu ảnh gia đình trên ổ cứng gắn ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A copy of a file or other item of data made in case the original is lost or damaged.

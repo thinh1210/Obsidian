@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Quasar
 *Noun*
 > /ˈkweɪ.zɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
+
+## 🗂️ Flashcard
+Quasar::Quasar, vật thể tựa sao *(Phát âm: /ˈkweɪ.zɑːr/)* ![[quasar.mp3]]<br><br>👪 **Word Family:** quasaric (adj)<br><br>💬 **Ví dụ:** Quasars are among the brightest objects in the universe.<br>*(-> Quasar nằm trong số những vật thể sáng nhất trong vũ trụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A massive and extremely remote celestial object emitting exceptionally large energy.

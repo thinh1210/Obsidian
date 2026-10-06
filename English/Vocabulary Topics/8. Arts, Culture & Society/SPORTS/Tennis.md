@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Tennis
 *n.*
 > /ˈten.ɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Tennis::Môn thể thao dùng vợt đánh bóng qua lại qua tấm lưới căng giữa sân *(Phát âm: /ˈten.ɪs/)* ![[tennis.mp3]]<br><br>👪 **Word Family:** tennis player (n)<br><br>💬 **Ví dụ:** They enjoy playing a friendly set of tennis early on Saturday mornings.<br>*(-> Họ thích chơi một set tennis giao hữu vào sáng sớm thứ Bảy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game in which two or four players use rackets to hit a ball back and forth over a net across a court.

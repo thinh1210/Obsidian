@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Lyrics
 *n.*
 > /ˈlɪr.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Lyrics::Lời bài hát *(Phát âm: /ˈlɪr.ɪks/)* ![[lyrics.mp3]]<br><br>👪 **Word Family:** lyric (adj), lyricist (n)<br><br>💬 **Ví dụ:** I like this song because the lyrics are very poetic and meaningful.<br>*(-> Tôi thích bài hát này vì lời bài hát rất thơ mộng và ý nghĩa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The words of a song.

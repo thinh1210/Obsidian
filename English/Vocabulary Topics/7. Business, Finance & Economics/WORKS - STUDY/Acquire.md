@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Acquire
 *v.*
 > /əˈkwaɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Acquire::Đạt được, thu nhận, tích lũy *(Phát âm: /əˈkwaɪər/)* ![[acquire.mp3]]<br><br>👪 **Word Family:** acquisition, acquisitive<br><br>💬 **Ví dụ:** Children acquire language very quickly.<br>*(-> Trẻ em tiếp thu ngôn ngữ rất nhanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To obtain or learn something (such as a skill, habit, or knowledge)

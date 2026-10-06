@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Entertainment
 *n*
 > /ˌentəˈteɪnmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Entertainment::Sự giải trí *(Phát âm: /ˌentəˈteɪnmənt/)* ![[entertainment.mp3]]<br><br>👪 **Word Family:** Entertain (v), Entertaining (adj)<br><br>💬 **Ví dụ:** TV is our main source of entertainment.<br>*(-> TV là nguồn giải trí chính của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of providing or being provided with amusement or enjoyment.

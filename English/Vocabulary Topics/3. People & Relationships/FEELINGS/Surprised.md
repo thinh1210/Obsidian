@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Surprised
 *adj*
 > /sərˈpraɪzd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Surprised::Ngạc nhiên *(Phát âm: /sərˈpraɪzd/)* ![[surprised.mp3]]<br><br>👪 **Word Family:** surprise (n/v), surprising (adj)<br><br>💬 **Ví dụ:** She was surprised by the gift.<br>*(-> Cô ấy ngạc nhiên vì món quà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing surprise.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Supernova
 *noun*
 > /ˌsuː.pəˈnəʊ.və/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Supernova::Siêu tân tinh *(Phát âm: /ˌsuː.pəˈnəʊ.və/)* ![[supernova.mp3]]<br><br>👪 **Word Family:** supernovae (plural)<br><br>💬 **Ví dụ:** A supernova explosion can be seen with the naked eye if it is close enough.<br>*(-> Một vụ nổ siêu tân tinh có thể được nhìn thấy bằng mắt thường nếu nó đủ gần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A powerful and luminous stellar explosion of a massive dying star.

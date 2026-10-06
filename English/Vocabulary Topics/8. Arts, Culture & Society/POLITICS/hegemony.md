@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # hegemony
 *noun*
 > /hɪˈdʒeməni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+hegemony::Bá quyền, sự bá chủ *(Phát âm: /hɪˈdʒeməni/)* ![[hegemony.mp3]]<br><br>👪 **Word Family:** hegemonic (adj)<br><br>💬 **Ví dụ:** The small nation struggled to resist the political hegemony of its neighbor.<br>*(-> Quốc gia nhỏ bé đấu tranh chống lại bá quyền chính trị của nước láng giềng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Leadership or dominance, especially by one country or social group over others.

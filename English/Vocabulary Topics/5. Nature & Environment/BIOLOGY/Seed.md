@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Seed
 *noun*
 > /siːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Seed::Hạt giống *(Phát âm: /siːd/)* ![[seed.mp3]]<br><br>👪 **Word Family:** seedling, seedy<br><br>💬 **Ví dụ:** We planted seeds in the garden last week.<br>*(-> Chúng tôi đã gieo hạt giống trong vườn tuần trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The unit of reproduction of a flowering plant, capable of developing into another such plant.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Human
 *adj., n.*
 > /ˈhjuː.mən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+Human::Con người, thuộc về con người *(Phát âm: /ˈhjuː.mən/)* ![[human.mp3]]<br><br>👪 **Word Family:** humanity, humanly, humanize<br><br>💬 **Ví dụ:** To err is human, to forgive divine.<br>*(-> Mắc lỗi là bản tính con người, tha thứ là phẩm chất thần thánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or characteristic of humankind.

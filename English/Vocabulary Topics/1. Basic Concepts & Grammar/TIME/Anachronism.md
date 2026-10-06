@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Anachronism
 *n.*
 > /əˈnækrənɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Anachronism::Sự sai thời gian, sự lỗi thời *(Phát âm: /əˈnækrənɪzəm/)* ![[anachronism.mp3]]<br><br>👪 **Word Family:** anachronistic (adj.)<br><br>💬 **Ví dụ:** The sword is an anachronism in modern warfare.<br>*(-> Thanh kiếm là một thứ lỗi thời trong chiến tranh hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing belonging to a period other than that in which it exists

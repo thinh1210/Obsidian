@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Political Science
 *n.*
 > /pəˈlɪt.ɪ.kəl ˈsaɪ.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Political Science::Khoa học chính trị; môn Khoa học chính trị *(Phát âm: /pəˈlɪt.ɪ.kəl ˈsaɪ.əns/)* ![[political_science.mp3]]<br><br>👪 **Word Family:** political (adj.), politician (n.), politics (n.)<br><br>💬 **Ví dụ:** She enrolled in political science to understand how governments work.<br>*(-> Cô ấy đăng ký học khoa học chính trị để hiểu cách các chính phủ hoạt động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of social science that studies political systems, government, and political behaviour.

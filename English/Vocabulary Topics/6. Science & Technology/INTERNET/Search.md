@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Search
 *verb / noun*
 > /sɜːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Search::Tìm kiếm, tra cứu *(Phát âm: /sɜːtʃ/)* ![[search.mp3]]<br><br>👪 **Word Family:** search (n/v), searcher (n), searchable (adj)<br><br>💬 **Ví dụ:** I searched online for the best recipe for chocolate cake.<br>*(-> Tôi tìm kiếm trực tuyến công thức bánh chocolate ngon nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look for information on the Internet using a search engine.

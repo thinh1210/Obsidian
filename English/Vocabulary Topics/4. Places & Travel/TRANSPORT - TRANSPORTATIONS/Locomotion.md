@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Locomotion
 *noun*
 > /ˌloʊkəˈmoʊʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Locomotion::Sự di động, sự vận động di chuyển *(Phát âm: /ˌloʊkəˈmoʊʃn/)* ![[locomotion.mp3]]<br><br>👪 **Word Family:** Noun: locomotion (sự di chuyển), locomotive (đầu máy xe lửa), Adjective: locomotive (thuộc về di chuyển)<br><br>💬 **Ví dụ:** Walking is the primary means of locomotion for humans.<br>*(-> Đi bộ là phương tiện di chuyển chính của con người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Movement or the ability to move from one place to another.

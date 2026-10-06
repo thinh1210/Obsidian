@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Captivate
 *verb*
 > /ˈkæptɪveɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Captivate::Thu hút, làm say đắm *(Phát âm: /ˈkæptɪveɪt/)* ![[captivate.mp3]]<br><br>👪 **Word Family:** captivation (noun), captivating (adj)<br><br>💬 **Ví dụ:** The beautiful scenery in the film captivated the viewers.<br>*(-> Cảnh đẹp trong phim đã làm say đắm người xem.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To attract and hold the interest and attention of; charm.

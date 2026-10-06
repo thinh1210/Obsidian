@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Punctual
 *adj.*
 > /ˈpʌŋk.tʃu.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Punctual::Đúng giờ, có thói quen làm việc và có mặt chuẩn xác giờ giấc *(Phát âm: /ˈpʌŋk.tʃu.əl/)* ![[punctual.mp3]]<br><br>👪 **Word Family:** punctuality (n), punctually (adv)<br><br>💬 **Ví dụ:** It is considered courteous to be punctual when attending job interviews and business meetings.<br>*(-> Được coi là lịch sự khi luôn đúng giờ khi tham gia phỏng vấn xin việc và các cuộc họp kinh doanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Happening or doing something at the agreed or proper time; on time.

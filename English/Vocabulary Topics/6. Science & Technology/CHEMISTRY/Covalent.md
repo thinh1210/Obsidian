@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Covalent
 *adjective*
 > /kəʊˈveɪ.lənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Covalent::Cộng hóa trị *(Phát âm: /kəʊˈveɪ.lənt/)* ![[covalent.mp3]]<br><br>👪 **Word Family:** covalence (n), covalently (adv)<br><br>💬 **Ví dụ:** Carbon dioxide is a covalent compound.<br>*(-> Carbon dioxide là một hợp chất cộng hóa trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting chemical bonds formed by the sharing of electrons between atoms.

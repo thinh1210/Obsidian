@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Fee
 *n.*
 > /fiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Fee::Lệ phí, phí dịch vụ *(Phát âm: /fiː/)* ![[fee.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** You have to pay a small fee to join the club.<br>*(-> Bạn phải trả một khoản phí nhỏ để tham gia câu lạc bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An amount of money paid for a particular piece of work or for a particular right or service

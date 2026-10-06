@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Dependable
 *adj.*
 > /dɪˈpen.də.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Dependable::Đáng tin cậy, có thể dựa dẫm và trông cậy trong mọi tình huống *(Phát âm: /dɪˈpen.də.bəl/)* ![[dependable.mp3]]<br><br>👪 **Word Family:** depend (v), dependability (n), reliably (adv)<br><br>💬 **Ví dụ:** Whenever you find yourself stranded in an emergency, Alex is the most dependable friend to call.<br>*(-> Bất cứ khi nào bạn gặp khó khăn trong trường hợp khẩn cấp, Alex là người bạn đáng tin cậy nhất để gọi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Deserving of trust or confidence; reliable in word and deed.

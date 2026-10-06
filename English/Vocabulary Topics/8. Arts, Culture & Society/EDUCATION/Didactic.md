@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Didactic
 *adj.*
 > /daɪˈdæktɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Didactic::Có tính giáo huấn, sư phạm *(Phát âm: /daɪˈdæktɪk/)* ![[didactic.mp3]]<br><br>👪 **Word Family:** didactics, didactically, didacticism<br><br>💬 **Ví dụ:** The novel was criticized for being too didactic.<br>*(-> Cuốn tiểu thuyết bị chỉ trích là quá mang tính giáo huấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intended to teach, particularly in having moral instruction as a motive

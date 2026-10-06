@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # East
 *noun*
 > /iːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+East::Hướng Đông *(Phát âm: /iːst/)* ![[east.mp3]]<br><br>👪 **Word Family:** Eastern (adj.)<br><br>💬 **Ví dụ:** The sun rises in the east.<br>*(-> Mặt trời mọc ở hướng Đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The direction in which the sun rises.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Dexterity
 *n.*
 > /dekˈster.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Dexterity::Sự khéo léo, sự khéo tay *(Phát âm: /dekˈster.ə.ti/)* ![[dexterity.mp3]]<br><br>👪 **Word Family:** dexterous, dexterously<br><br>💬 **Ví dụ:** Playing the piano requires great manual dexterity.<br>*(-> Chơi đàn piano đòi hỏi sự khéo léo của đôi tay rất lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Skill in performing tasks, especially with the hands.

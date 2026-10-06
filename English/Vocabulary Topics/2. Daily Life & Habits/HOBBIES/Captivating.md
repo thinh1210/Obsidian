@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Captivating
 *Adj*
 > /ˈkæp.tɪ.veɪ.tɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Captivating::Làm say đắm, quyến rũ *(Phát âm: /ˈkæp.tɪ.veɪ.tɪŋ/)* ![[captivating.mp3]]<br><br>👪 **Word Family:** Captivate (Verb): Làm say đắm<br><br>💬 **Ví dụ:** Her voice is absolutely captivating.<br>*(-> Giọng hát của cô ấy thực sự làm say đắm lòng người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Holding your attention by being extremely interesting, exciting, or attractive.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Quasar
 *noun*
 > /ˈkweɪ.zɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Quasar::Quasar, thiên thể cực sáng *(Phát âm: /ˈkweɪ.zɑːr/)* ![[quasar.mp3]]<br><br>👪 **Word Family:** quasaric (adj)<br><br>💬 **Ví dụ:** I read an article about how quasars are the brightest objects in space.<br>*(-> Tôi đã đọc một bài báo nói về việc quasar là những vật thể sáng nhất trong không gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extremely active and luminous galactic nucleus powered by a supermassive black hole.

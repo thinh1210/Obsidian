@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Campaign
 *n.*
 > /kæmˈpeɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+35 - Campaign::Chiến dịch *(Phát âm: /kæmˈpeɪn/)* ![[campaign.mp3]]<br><br>👪 **Word Family:** Campaigner (n.)<br><br>💬 **Ví dụ:** Run a campaign.<br>*(-> Thực hiện một chiến dịch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized course of action to achieve a goal.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # War
 *n.*
 > /wɔː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+War::Chiến tranh *(Phát âm: /wɔː(r)/)* ![[war.mp3]]<br><br>👪 **Word Family:** warfare, warlike, warrior<br><br>💬 **Ví dụ:** Many lives are lost in times of war.<br>*(-> Nhiều sinh mạng bị cướp đi trong thời kỳ chiến tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state of armed conflict between different countries or groups

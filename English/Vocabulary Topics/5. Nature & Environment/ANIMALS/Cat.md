@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Cat
 *noun*
 > /kæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Cat::Con mèo *(Phát âm: /kæt/)* ![[cat.mp3]]<br><br>👪 **Word Family:** cat (n), kitten (n), feline (adj)<br><br>💬 **Ví dụ:** My cat loves to sleep on my laptop while I work.<br>*(-> Con mèo của tôi thích ngủ trên máy tính xách tay khi tôi làm việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small domesticated carnivorous mammal with soft fur.

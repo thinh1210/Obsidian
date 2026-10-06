@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Infection
 *n*
 > /ɪnˈfekʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Infection::Sự nhiễm trùng, sự lây nhiễm *(Phát âm: /ɪnˈfekʃn/)* ![[infection.mp3]]<br><br>👪 **Word Family:** infect (v), infectious (adj), disinfect (v)<br><br>💬 **Ví dụ:** Clean the cut with antiseptic to avoid infection.<br>*(-> Lau sạch vết cắt bằng chất sát trùng để tránh nhiễm trùng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of infecting or the state of being infected with a disease-causing organism.

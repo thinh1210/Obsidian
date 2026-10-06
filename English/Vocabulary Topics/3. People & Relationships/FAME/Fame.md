@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Fame
 *n.*
 > /feɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Fame::Sự nổi tiếng *(Phát âm: /feɪm/)* ![[fame.mp3]]<br><br>👪 **Word Family:** famous (adj.)<br><br>💬 **Ví dụ:** She found fame on the internet.<br>*(-> Cô ấy nổi tiếng trên mạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being known or talked about by many.

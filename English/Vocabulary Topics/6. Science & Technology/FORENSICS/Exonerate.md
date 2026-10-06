@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Exonerate
 *verb*
 > /ɪɡˈzɒn.ə.reɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
+
+## 🗂️ Flashcard
+Exonerate::Minh oan / giải thoát khỏi tội lỗi *(Phát âm: /ɪɡˈzɒn.ə.reɪt/)* ![[exonerate.mp3]]<br><br>👪 **Word Family:** exoneration (n), exonerative (adj)<br><br>💬 **Ví dụ:** New evidence exonerated the man who had spent 10 years in prison.<br>*(-> Bằng chứng mới đã minh oan cho người đàn ông đã dành 10 năm trong tù.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To officially absolve someone from blame or criminal charges.

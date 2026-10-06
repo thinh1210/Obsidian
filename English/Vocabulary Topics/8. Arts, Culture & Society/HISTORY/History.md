@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # History
 *noun*
 > /ˈhɪs.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+History::Lịch sử, môn lịch sử *(Phát âm: /ˈhɪs.tər.i/)* ![[history.mp3]]<br><br>👪 **Word Family:** historian (n), historic (adj), historical (adj)<br><br>💬 **Ví dụ:** I am reading a book about the history of Rome.<br>*(-> Tôi đang đọc một cuốn sách về lịch sử thành Rome.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs.

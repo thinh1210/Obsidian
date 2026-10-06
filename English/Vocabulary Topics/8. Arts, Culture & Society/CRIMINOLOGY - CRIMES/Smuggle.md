@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Smuggle
 *verb*
 > /ˈsmʌɡl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Smuggle::Buôn lậu *(Phát âm: /ˈsmʌɡl/)* ![[smuggle.mp3]]<br><br>👪 **Word Family:** smuggler (n), smuggling (n)<br><br>💬 **Ví dụ:** They tried to smuggle gold through the airport security check.<br>*(-> Họ đã cố gắng buôn lậu vàng qua cổng kiểm tra an ninh sân bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To import or export goods secretly, in violation of the law

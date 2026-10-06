@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Serene
 *adjective*
 > /səˈriːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Serene::Thanh bình *(Phát âm: /səˈriːn/)* ![[serene.mp3]]<br><br>👪 **Word Family:** Serenity<br><br>💬 **Ví dụ:** The lake was so serene.<br>*(-> Mặt hồ thật thanh bình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Peaceful and calm

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # IP address
 *noun*
 > /ˌaɪ ˈpiː ˌæd.res/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+IP_address::Địa chỉ IP (định danh duy nhất của thiết bị trên mạng) *(Phát âm: /ˌaɪ ˈpiː ˌæd.res/)* ![[ip_address.mp3]]<br><br>👪 **Word Family:** IP address (n), IPv4 (n), IPv6 (n)<br><br>💬 **Ví dụ:** Every device that connects to the Internet is assigned an IP address.<br>*(-> Mọi thiết bị kết nối Internet đều được gán một địa chỉ IP.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A unique numerical label assigned to each device connected to a network, used for identification and communication.

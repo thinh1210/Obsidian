@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Character
 *n.*
 > /ˈkærəktə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Character::Nhân vật *(Phát âm: /ˈkærəktə(r)/)* ![[character.mp3]]<br><br>👪 **Word Family:** characterize, characteristic<br><br>💬 **Ví dụ:** Who is your favorite character in the book?<br>*(-> Ai là nhân vật yêu thích của bạn trong cuốn sách?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person in a novel, play, or movie.

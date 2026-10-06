@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Travel
 *Verb/Noun*
 > /ˈtræv.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Travel::Đi du lịch, đi lại *(Phát âm: /ˈtræv.əl/)* ![[travel.mp3]]<br><br>👪 **Word Family:** traveler (n)<br><br>💬 **Ví dụ:** I love to travel and see new places.<br>*(-> Tôi thích đi du lịch và ngắm nhìn những địa điểm mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a journey, usually over a long distance.

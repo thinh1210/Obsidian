@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Vogue
 *noun*
 > /voʊɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Vogue::Mốt, thời thượng *(Phát âm: /voʊɡ/)* ![[vogue.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Short skirts are back in vogue.<br>*(-> Váy ngắn đang thịnh hành trở lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The prevailing fashion or style at a particular time.

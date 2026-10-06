@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Experiment
 *noun / verb*
 > /ɪkˈsper.ɪ.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Experiment::Thí nghiệm – bài kiểm tra khoa học để khám phá hoặc chứng minh điều gì đó *(Phát âm: /ɪkˈsper.ɪ.mənt/)* ![[experiment.mp3]]<br><br>👪 **Word Family:** experimental (adj), experimentally (adv), experimenter (n)<br><br>💬 **Ví dụ:** The kids did a simple experiment with vinegar and baking soda.<br>*(-> Bọn trẻ đã làm một thí nghiệm đơn giản với giấm và baking soda.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A scientific test done to discover or prove something.

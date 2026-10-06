@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Euphoric
 *adj*
 > /juːˈfɔːrɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Euphoric::Vui sướng tột độ *(Phát âm: /juːˈfɔːrɪk/)* ![[euphoric.mp3]]<br><br>👪 **Word Family:** euphoria (n), euphorically (adv)<br><br>💬 **Ví dụ:** The winners were in a euphoric state.<br>*(-> Những người chiến thắng ở trong trạng thái vui sướng tột độ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by or feeling intense excitement and happiness.

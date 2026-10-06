@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Territory
 *noun*
 > /ˈter.ɪ.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Territory::Lãnh thổ *(Phát âm: /ˈter.ɪ.tər.i/)* ![[territory.mp3]]<br><br>👪 **Word Family:** territory (n), territorial (adj)<br><br>💬 **Ví dụ:** Birds sing to mark and defend their territory.<br>*(-> Chim hót để đánh dấu và bảo vệ lãnh thổ của chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land, water, or geographic space defended by a group or individual.

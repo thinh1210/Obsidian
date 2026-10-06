@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Meditate
 *verb*
 > /ˈmed.ɪ.teɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Meditate::Ngồi thiền *(Phát âm: /ˈmed.ɪ.teɪt/)* ![[meditate.mp3]]<br><br>👪 **Word Family:** Meditation (n), Meditative (adj)<br><br>💬 **Ví dụ:** I try to meditate for 10 minutes to reduce stress.<br>*(-> Tôi cố gắng thiền 10 phút để giảm căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To think calm thoughts in order to relax or as a religious activity.

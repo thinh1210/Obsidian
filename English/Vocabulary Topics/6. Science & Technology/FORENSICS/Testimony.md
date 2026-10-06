@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Testimony
 *noun*
 > /ˈtes.tɪ.mə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Tố tụng tòa án, Lời khai & Bằng chứng pháp lý
+
+## 🗂️ Flashcard
+Testimony::Lời khai / chứng từ tại tòa *(Phát âm: /ˈtes.tɪ.mə.ni/)* ![[testimony.mp3]]<br><br>👪 **Word Family:** testify (v), testimonial (adj), testimonial (n)<br><br>💬 **Ví dụ:** Her testimony helped the jury make their decision.<br>*(-> Lời khai của cô ấy đã giúp bồi thẩm đoàn đưa ra quyết định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal written or spoken statement given in a court of law as evidence.

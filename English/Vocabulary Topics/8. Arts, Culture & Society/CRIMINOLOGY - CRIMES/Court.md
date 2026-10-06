@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Court
 *noun*
 > /kɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Court::Tòa án, phiên tòa *(Phát âm: /kɔːt/)* ![[court.mp3]]<br><br>👪 **Word Family:** courteous (adj), courtroom (n)<br><br>💬 **Ví dụ:** The suspect had to appear in court yesterday morning.<br>*(-> Nghi phạm đã phải ra hầu tòa sáng ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where legal trials take place and decisions are made

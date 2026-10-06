@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Shirt
 *n.*
 > /ʃɜːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Shirt::Áo sơ mi *(Phát âm: /ʃɜːrt/)* ![[shirt.mp3]]<br><br>👪 **Word Family:** Shirtless (adj)<br><br>💬 **Ví dụ:** He is ironing his white shirt.<br>*(-> Anh ấy đang ủi chiếc áo sơ mi trắng của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for the upper body.

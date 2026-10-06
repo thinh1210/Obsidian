@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Somber
 *adj*
 > /ˈsɑːm.bɚ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Somber::Tối tăm, ảm đạm (màu sắc/tâm trạng) *(Phát âm: /ˈsɑːm.bɚ/)* ![[somber.mp3]]<br><br>👪 **Word Family:** somberly (adv)<br><br>💬 **Ví dụ:** He was dressed in somber gray clothes.<br>*(-> Anh ấy mặc bộ quần áo xám ảm đạm.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Dark or dull in color or tone; gloomy.

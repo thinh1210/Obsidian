@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Epistemic
 *adjective*
 > /ˌep.ɪˈstem.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Epistemic::Nhận thức luận – liên quan đến kiến thức hoặc các điều kiện cần thiết để có kiến thức *(Phát âm: /ˌep.ɪˈstem.ɪk/)* ![[epistemic.mp3]]<br><br>👪 **Word Family:** epistemology (n), epistemologist (n), epistemically (adv)<br><br>💬 **Ví dụ:** Scientists should practise epistemic humility and acknowledge the limits of their knowledge.<br>*(-> Các nhà khoa học nên thực hành sự khiêm tốn nhận thức và thừa nhận giới hạn kiến thức của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to knowledge or the conditions required for knowledge; pertaining to epistemology.

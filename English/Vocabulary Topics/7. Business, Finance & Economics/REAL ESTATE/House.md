@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # House
 *n.*
 > /haʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+House::Ngôi nhà *(Phát âm: /haʊs/)* ![[house.mp3]]<br><br>👪 **Word Family:** household, house (v)<br><br>💬 **Ví dụ:** We are looking for a house to rent in the city.<br>*(-> Chúng tôi đang tìm một ngôi nhà để thuê trong thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building for human habitation, especially one that is lived in by a family.

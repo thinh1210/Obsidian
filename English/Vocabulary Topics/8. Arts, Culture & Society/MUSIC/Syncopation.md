@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Syncopation
 *n.*
 > /ˌsɪŋ.kəˈpeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Syncopation::Nhịp nghịch phách, sự đảo phách (trong âm nhạc) *(Phát âm: /ˌsɪŋ.kəˈpeɪ.ʃən/)* ![[syncopation.mp3]]<br><br>👪 **Word Family:** syncopate (v), syncopated (adj)<br><br>💬 **Ví dụ:** The energetic feel of the song is created by its complex syncopation.<br>*(-> Cảm giác tràn đầy năng lượng của bài hát được tạo ra bởi sự đảo phách phức tạp của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A displacement of the beat or accents so that strong beats become weak and vice versa, typical in jazz and reggae.

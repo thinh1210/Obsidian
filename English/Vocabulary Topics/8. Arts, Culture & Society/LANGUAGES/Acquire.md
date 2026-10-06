@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Acquire
 *v.*
 > /əˈkwaɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Acquire::Tiếp thu, đạt được, có được *(Phát âm: /əˈkwaɪə(r)/)* ![[acquire.mp3]]<br><br>👪 **Word Family:** acquisition, acquisitive<br><br>💬 **Ví dụ:** She acquired a taste for olives.<br>*(-> Cô ấy bắt đầu thích ăn ô liu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To learn or develop a skill, habit, or quality

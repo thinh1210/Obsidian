@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Esteemed
 *adj.*
 > /ɪˈstiːmd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Esteemed::Đáng kính *(Phát âm: /ɪˈstiːmd/)* ![[esteemed.mp3]]<br><br>👪 **Word Family:** esteem (n.)<br><br>💬 **Ví dụ:** He is an esteemed colleague.<br>*(-> Ông ấy là một đồng nghiệp đáng kính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Held in great respect; admired.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Endangered
 *adjective*
 > /ɪnˈdeɪn.dʒəd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Endangered::Có nguy cơ tuyệt chủng, gặp nguy hiểm *(Phát âm: /ɪnˈdeɪn.dʒəd/)* ![[endangered.mp3]]<br><br>👪 **Word Family:** endangered (adj), endanger (v), danger (n), dangerous (adj)<br><br>💬 **Ví dụ:** The giant panda is one of the world's most famous endangered animals.<br>*(-> Gấu trúc khổng lồ là một trong những loài động vật có nguy cơ tuyệt chủng nổi tiếng nhất thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a species) seriously at risk of extinction.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Past
 *noun*
 > /pɑːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Past::Quá khứ, thời gian đã qua *(Phát âm: /pɑːst/)* ![[past.mp3]]<br><br>👪 **Word Family:** past (adj, prep)<br><br>💬 **Ví dụ:** We cannot change the past, but we can shape the future.<br>*(-> Chúng ta không thể thay đổi quá khứ, nhưng chúng ta có thể định hình tương lai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time or a period of time before the moment of speaking or writing.

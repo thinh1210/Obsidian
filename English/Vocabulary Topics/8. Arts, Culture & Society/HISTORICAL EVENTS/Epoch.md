@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Epoch
 *noun*
 > /ˈiː.pɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Epoch::Kỷ nguyên, thời đại *(Phát âm: /ˈiː.pɒk/)* ![[epoch.mp3]]<br><br>👪 **Word Family:** epochal (adj)<br><br>💬 **Ví dụ:** Graduating from college marked the beginning of a new epoch in her life.<br>*(-> Tốt nghiệp đại học đánh dấu sự khởi đầu của một kỷ nguyên mới trong cuộc đời cô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular period of time in history or a person's life, typically one marked by notable events or particular characteristics.

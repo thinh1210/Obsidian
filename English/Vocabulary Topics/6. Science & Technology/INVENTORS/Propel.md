@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # propel
 *v.*
 > /prəˈpel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Propel::Đẩy đi, thúc đẩy *(Phát âm: /prəˈpel/)* ![[propel.mp3]]<br><br>👪 **Word Family:** propeller (n), propulsion (n)<br><br>💬 **Ví dụ:** The success of the product propelled the company to the top of the market.<br>*(-> Thành công của sản phẩm đã đẩy công ty lên vị trí dẫn đầu thị trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To push or drive someone or something forward or in a particular direction

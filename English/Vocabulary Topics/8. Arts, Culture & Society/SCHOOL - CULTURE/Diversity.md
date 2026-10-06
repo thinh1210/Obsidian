@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Diversity
 *noun*
 > /daɪˈvɜːsəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Diversity::Sự đa dạng, tính phong phú *(Phát âm: /daɪˈvɜːsəti/)* ![[diversity.mp3]]<br><br>👪 **Word Family:** diverse (adj), diversify (v), diversification (n)<br><br>💬 **Ví dụ:** Our school celebrates cultural diversity with an international food festival.<br>*(-> Trường chúng tôi tôn vinh sự đa dạng văn hóa bằng lễ hội ẩm thực quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being diverse; variety or inclusivity.

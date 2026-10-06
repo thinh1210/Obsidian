@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Defeat
 *v.*
 > /dɪˈfiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Defeat::Đánh bại *(Phát âm: /dɪˈfiːt/)* ![[defeat.mp3]]<br><br>👪 **Word Family:** undefeated, defeatism, defeatist<br><br>💬 **Ví dụ:** They managed to defeat the opposing team in the finals.<br>*(-> Họ đã thành công trong việc đánh bại đội đối thủ trong trận chung kết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Win a victory over (someone) in a battle, game, or other contest.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Profile
 *noun*
 > /ˈprəʊfaɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Profile::Trang cá nhân, hồ sơ cá nhân *(Phát âm: /ˈprəʊfaɪl/)* ![[profile.mp3]]<br><br>👪 **Word Family:** profile (v)<br><br>💬 **Ví dụ:** You should change your profile picture to something more recent.<br>*(-> Bạn nên thay đổi ảnh đại diện trang cá nhân thành bức ảnh gần đây hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The personal details and settings belonging to a specific user on a social platform

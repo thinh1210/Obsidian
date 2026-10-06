@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Midnight
 *noun*
 > /ˈmɪdnaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Midnight::Nửa đêm *(Phát âm: /ˈmɪdnaɪt/)* ![[midnight.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I went to bed after midnight.<br>*(-> Tôi đi ngủ sau nửa đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Twelve o'clock at night.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Black box
 *noun phrase*
 > /blæk bɒks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Black_box::Hộp đen (thiết bị ghi dữ liệu bay) *(Phát âm: /blæk bɒks/)* ![[black_box.mp3]]<br><br>👪 **Word Family:** FDR (abbr), CVR (abbr), flight recorder (n)<br><br>💬 **Ví dụ:** Investigators recovered the black box from the ocean floor to determine the cause of the crash.<br>*(-> Các điều tra viên thu hồi hộp đen từ đáy đại dương để xác định nguyên nhân vụ tai nạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The colloquial name for the flight data recorder (FDR) and cockpit voice recorder (CVR) used to investigate aviation accidents.

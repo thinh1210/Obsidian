@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Role model
 *n.*
 > /ˈrəʊl ˌmɒd.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+18 - Role model::Tấm gương *(Phát âm: /ˈrəʊl ˌmɒd.əl/)* ![[role_model.mp3]]<br><br>👪 **Word Family:** Modeling (n.)<br><br>💬 **Ví dụ:** He is my role model.<br>*(-> Anh ấy là tấm gương của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person looked to by others as an example.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # disenfranchise
 *verb*
 > /ˌdɪsɪnˈfræntʃaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+disenfranchise::Tước quyền công dân, tước quyền bỏ phiếu *(Phát âm: /ˌdɪsɪnˈfræntʃaɪz/)* ![[disenfranchise.mp3]]<br><br>👪 **Word Family:** disenfranchisement (n), franchise (n)<br><br>💬 **Ví dụ:** New laws could disenfranchise thousands of low-income voters.<br>*(-> Các luật mới có thể tước quyền bỏ phiếu của hàng ngàn cử tri có thu nhập thấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To deprive someone of the right to vote or other citizen privileges.

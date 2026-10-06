@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # autocracy
 *noun*
 > /ɔːˈtɑːkrəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+autocracy::Chế độ chuyên chế, nền độc tài một người *(Phát âm: /ɔːˈtɑːkrəsi/)* ![[autocracy.mp3]]<br><br>👪 **Word Family:** autocrat (n), autocratic (adj), autocratically (adv)<br><br>💬 **Ví dụ:** The country transitioned from an autocracy to a democracy in the late 1990s.<br>*(-> Đất nước này đã chuyển từ chế độ chuyên chế sang nền dân chủ vào cuối những năm 1990.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government by one person with absolute power.

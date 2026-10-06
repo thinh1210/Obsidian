@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Precipitate
 *noun*
 > /prɪˈsɪp.ɪ.tət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Precipitate::Chất kết tủa, kết tủa *(Phát âm: /prɪˈsɪp.ɪ.tət/)* ![[precipitate.mp3]]<br><br>👪 **Word Family:** precipitate (v), precipitation (n)<br><br>💬 **Ví dụ:** Mixing silver nitrate and sodium chloride yields a white precipitate.<br>*(-> Trộn bạc nitrat và natri clorua tạo ra một kết tủa màu trắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An insoluble solid that emerges from a liquid solution.

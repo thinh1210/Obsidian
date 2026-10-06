@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Polygamy
 *noun*
 > /pəˈlɪɡəmi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Polygamy::Chế độ đa thê/đa phu *(Phát âm: /pəˈlɪɡəmi/)* ![[polygamy.mp3]]<br><br>👪 **Word Family:** Polygamous (adjective)<br><br>💬 **Ví dụ:** Polygamy is illegal in this country.<br>*(-> Chế độ đa thê là bất hợp pháp ở quốc gia này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or custom of having more than one wife or husband at the same time.

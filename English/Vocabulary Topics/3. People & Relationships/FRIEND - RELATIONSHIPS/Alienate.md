@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Alienate
 *verb*
 > /ˈeɪ.li.ə.neɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Alienate::Làm xa lánh *(Phát âm: /ˈeɪ.li.ə.neɪt/)* ![[alienate.mp3]]<br><br>👪 **Word Family:** alienation<br><br>💬 **Ví dụ:** His arrogant behavior alienated his friends.<br>*(-> Hành vi kiêu ngạo của anh ấy đã làm xa lánh bạn bè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Cause (someone) to feel isolated or estranged.

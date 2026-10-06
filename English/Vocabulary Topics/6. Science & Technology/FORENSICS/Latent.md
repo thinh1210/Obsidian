@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Latent
 *adjective*
 > /ˈleɪ.tənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Latent::Tiềm ẩn / ẩn (trong pháp y: dấu vết không thể thấy bằng mắt thường) *(Phát âm: /ˈleɪ.tənt/)* ![[latent.mp3]]<br><br>👪 **Word Family:** latency (n), latently (adv)<br><br>💬 **Ví dụ:** There was a latent anger in his words that worried everyone.<br>*(-> Có một sự tức giận tiềm ẩn trong lời nói của anh ta khiến mọi người lo lắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Present but not yet visible, apparent, or active; (in forensics) not immediately visible to the naked eye.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Current
 *noun*
 > /ˈkʌrənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
+
+## 🗂️ Flashcard
+Current::Dòng chảy, hải lưu *(Phát âm: /ˈkʌrənt/)* ![[current.mp3]]<br><br>👪 **Word Family:** Currently (adv.)<br><br>💬 **Ví dụ:** The swimmer was caught in a strong current.<br>*(-> Người bơi đã bị cuốn vào một dòng chảy mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of water or air moving in a definite direction.

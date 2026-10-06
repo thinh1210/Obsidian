@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # innovate
 *v.*
 > /ˈɪn.ə.veɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Innovate::Đổi mới, cách tân *(Phát âm: /ˈɪn.ə.veɪt/)* ![[innovate.mp3]]<br><br>👪 **Word Family:** innovation (n), innovative (adj), innovator (n)<br><br>💬 **Ví dụ:** To survive in business, you must innovate constantly.<br>*(-> Để tồn tại trong kinh doanh, bạn phải đổi mới liên tục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To introduce changes and new ideas

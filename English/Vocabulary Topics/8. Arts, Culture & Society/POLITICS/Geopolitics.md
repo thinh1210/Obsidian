@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Geopolitics
 *n*
 > /ˌdʒiː.əʊˈpɒl.ɪ.tɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Geopolitics::Địa chính trị *(Phát âm: /ˌdʒiː.əʊˈpɒl.ɪ.tɪks/)* ![[geopolitics.mp3]]<br><br>👪 **Word Family:** geopolitical (adj), geopolitically (adv)<br><br>💬 **Ví dụ:** The war reshaped the geopolitics of the entire region.<br>*(-> Cuộc chiến đã định hình lại địa chính trị của cả khu vực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of how geography, economics, and demographics influence politics and international relations.

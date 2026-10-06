@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Expedition
 *noun*
 > /ˌek.spəˈdɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Expedition::Cuộc thám hiểm *(Phát âm: /ˌek.spəˈdɪʃ.ən/)* ![[expedition.mp3]]<br><br>👪 **Word Family:** Expeditions, Expeditionary (adj)<br><br>💬 **Ví dụ:** He joined an expedition to the pole.<br>*(-> Anh ấy đã tham gia một cuộc thám hiểm đến vùng cực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized journey for a particular purpose

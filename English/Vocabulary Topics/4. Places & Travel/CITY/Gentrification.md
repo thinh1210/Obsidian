@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Gentrification
 *n.*
 > /ˌdʒentrɪfɪˈkeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Gentrification::Sự chỉnh trang đô thị, sự quý tộc hóa *(Phát âm: /ˌdʒentrɪfɪˈkeɪʃn/)* ![[gentrification.mp3]]<br><br>👪 **Word Family:** gentrify (v)<br><br>💬 **Ví dụ:** Gentrification is pushing poor people out.<br>*(-> Sự quý tộc hóa đang đẩy người nghèo ra khỏi khu vực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of changing an area, town, etc. so that it is suitable for, or can mix with, people of a higher social class than before.

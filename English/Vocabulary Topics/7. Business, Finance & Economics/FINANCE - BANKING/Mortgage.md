@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Mortgage
 *noun.*
 > /ˈmɔːɡɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Mortgage::Khoản thế chấp *(Phát âm: /ˈmɔːɡɪdʒ/)* ![[mortgage.mp3]]<br><br>👪 **Word Family:** mortgagor (noun), mortgagee (noun)<br><br>💬 **Ví dụ:** They took out a thirty-year mortgage to buy their first family home.<br>*(-> Họ đã vay một khoản thế chấp ba mươi năm để mua ngôi nhà gia đình đầu tiên của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A legal agreement by which a bank lends money in exchange for taking title of the debtor's property.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Border
 *Noun*
 > /ˈbɔːrdər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Border::Biên giới *(Phát âm: /ˈbɔːrdər/)* ![[border.mp3]]<br><br>👪 **Word Family:** Borderline<br><br>💬 **Ví dụ:** We crossed the border into Canada.<br>*(-> Chúng tôi đã vượt biên giới vào Canada.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line separating two political or geographical areas.

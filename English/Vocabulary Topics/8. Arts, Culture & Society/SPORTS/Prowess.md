@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Prowess
 *n.*
 > /ˈpraʊ.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Prowess::Năng lực xuất chúng, bản lĩnh phi thường *(Phát âm: /ˈpraʊ.əs/)* ![[prowess.mp3]]<br><br>👪 **Word Family:** prowesses<br><br>💬 **Ví dụ:** The young player showed outstanding athletic prowess during the tournament.<br>*(-> Cầu thủ trẻ đã thể hiện bản lĩnh thể thao phi thường xuất sắc trong suốt giải đấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Skill or expertise in a particular activity or field; bravery in battle.

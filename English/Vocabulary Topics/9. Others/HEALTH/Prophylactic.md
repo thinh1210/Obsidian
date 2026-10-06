@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Prophylactic
 *adj, n*
 > /ˌprɒfəˈlæktɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Prophylactic::Có tính chất phòng bệnh / Biện pháp phòng bệnh *(Phát âm: /ˌprɒfəˈlæktɪk/)* ![[prophylactic.mp3]]<br><br>👪 **Word Family:** prophylactically (adv), prophylaxis (n)<br><br>💬 **Ví dụ:** The doctor prescribed a prophylactic antibiotic before the major dental surgery.<br>*(-> Bác sĩ đã kê một loại kháng sinh dự phòng trước ca phẫu thuật nha khoa lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intended to prevent disease. / A medicine or course of action used to prevent disease.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Cottage
 *n.*
 > /ˈcɒtɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Cottage::Nhà tranh, nhà nhỏ ở nông thôn *(Phát âm: /ˈcɒtɪdʒ/)* ![[cottage.mp3]]<br><br>👪 **Word Family:** cotter<br><br>💬 **Ví dụ:** They rented a cozy cottage in the mountains for the weekend.<br>*(-> Họ đã thuê một ngôi nhà tranh ấm cúng trên núi vào cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small simple house, typically one near the lake or in the countryside

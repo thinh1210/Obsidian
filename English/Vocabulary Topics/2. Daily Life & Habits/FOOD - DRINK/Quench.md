@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Quench
 *v.*
 > /kwentʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Quench::Giải khát *(Phát âm: /kwentʃ/)* ![[quench.mp3]]<br><br>👪 **Word Family:** quenchable<br><br>💬 **Ví dụ:** Water quenches your thirst.<br>*(-> Nước giải cơn khát của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Satisfy (one's thirst) by drinking.

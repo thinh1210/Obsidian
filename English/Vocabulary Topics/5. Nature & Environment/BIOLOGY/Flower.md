@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Flower
 *noun*
 > /ˈflaʊ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Flower::Hoa, bông hoa *(Phát âm: /ˈflaʊ.ər/)* ![[flower.mp3]]<br><br>👪 **Word Family:** flowery, floral<br><br>💬 **Ví dụ:** She picked a beautiful flower from the garden.<br>*(-> Cô ấy đã hái một bông hoa đẹp từ vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by a brightly colored corolla.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Profiling
 *noun*
 > /ˈprəʊ.faɪ.lɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Profiling::Lập hồ sơ tâm lý tội phạm *(Phát âm: /ˈprəʊ.faɪ.lɪŋ/)* ![[profiling.mp3]]<br><br>👪 **Word Family:** profile (n/v), profiler (n)<br><br>💬 **Ví dụ:** Criminal profiling helps police narrow down the list of suspects.<br>*(-> Lập hồ sơ tâm lý tội phạm giúp cảnh sát thu hẹp danh sách nghi phạm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The recording and analysis of a person's psychological and behavioural characteristics to assist criminal investigation.

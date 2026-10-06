@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Ethnocentrism
 *n.*
 > /ˌeθ.nəʊˈsen.trɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
+
+## 🗂️ Flashcard
+Ethnocentrism::Thuyết vị chủng, thái độ coi dân tộc mình là trung tâm *(Phát âm: /ˌeθ.nəʊˈsen.trɪ.zəm/)* ![[ethnocentrism.mp3]]<br><br>👪 **Word Family:** ethnocentric<br><br>💬 **Ví dụ:** Travel is a great way to overcome ethnocentrism.<br>*(-> Du lịch là một cách tuyệt vời để vượt qua thái độ vị chủng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Evaluation of other cultures according to preconceptions originating in the standards and customs of one's own culture.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Hieroglyphics
 *noun*
 > /ˌhaɪərəˈɡlɪfɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Hieroglyphics::Chữ tượng hình *(Phát âm: /ˌhaɪərəˈɡlɪfɪks/)* ![[hieroglyphics.mp3]]<br><br>👪 **Word Family:** hieroglyph (noun), hieroglyphic (adj)<br><br>💬 **Ví dụ:** He learned to read Egyptian hieroglyphics at Oxford.<br>*(-> Anh ấy đã học cách đọc chữ tượng hình Ai Cập tại Oxford.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Writing consisting of hieroglyphs (pictographic script, particularly that of ancient Egypt)

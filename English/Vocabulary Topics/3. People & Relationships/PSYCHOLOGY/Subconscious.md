@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Subconscious
 *noun*
 > /ˌsʌbˈkɑːn.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Subconscious::Tiềm thức *(Phát âm: /ˌsʌbˈkɑːn.ʃəs/)* ![[subconscious.mp3]]<br><br>👪 **Word Family:** subconsciously (adv)<br><br>💬 **Ví dụ:** It was a subconscious reaction.<br>*(-> Đó là một phản ứng từ tiềm thức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or concerning the part of the mind of which one is not fully aware.

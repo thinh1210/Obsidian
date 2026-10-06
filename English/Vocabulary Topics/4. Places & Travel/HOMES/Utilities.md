@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Utilities
 *noun*
 > /juːˈtɪlɪtiz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Utilities::Tiện ích (điện, nước, gas...) *(Phát âm: /juːˈtɪlɪtiz/)* ![[utilities.mp3]]<br><br>👪 **Word Family:** utility (n)<br><br>💬 **Ví dụ:** Rent is $1000, plus utilities.<br>*(-> Tiền thuê nhà là 1000 đô la, cộng với các tiện ích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Services such as water, gas, and electricity provided to the public.
@@ -34,4 +44,4 @@
 - utility (n)
 
 **Synonyms:** services
-**Antonyms:** 
+**Antonyms:**

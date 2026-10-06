@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Teal
 *n, adj*
 > /tiːl/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Teal::Màu mòng két (xanh cổ vịt) *(Phát âm: /tiːl/)* ![[teal.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She painted her nails teal.<br>*(-> Cô ấy sơn móng tay màu mòng két.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dark greenish-blue color.

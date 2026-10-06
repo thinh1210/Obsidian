@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Nuclear-family
 *noun*
 > /ˌnjuː.klɪə ˈfæm.əl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Nuclear-family::Gia đình hạt nhân (chỉ có bố mẹ và con) *(Phát âm: /ˌnjuː.klɪə ˈfæm.əl.i/)* ![[nuclear_family.mp3]]<br><br>👪 **Word Family:** nucleus (n)<br><br>💬 **Ví dụ:** We are a typical nuclear family.<br>*(-> Chúng tôi là một gia đình hạt nhân điển hình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A family consisting of two parents and their children.

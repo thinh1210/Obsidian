@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Amortize
 *verb.*
 > /əˈmɔːtaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Amortize::Trả dần nợ gốc và lãi, khấu hao tài sản vô hình *(Phát âm: /əˈmɔːtaɪz/)* ![[amortize.mp3]]<br><br>👪 **Word Family:** amortization (noun)<br><br>💬 **Ví dụ:** The corporation will amortize the cost of the patent over its 10-year useful life.<br>*(-> Tập đoàn sẽ phân bổ dần chi phí của bằng sáng chế trong suốt thời gian sử dụng 10 năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To gradually write off the initial cost of an asset or reduce a debt by making regular payments.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Insure
 *v.*
 > /ɪnˈʃʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Insure::Mua/bán bảo hiểm cho *(Phát âm: /ɪnˈʃʊər/)* ![[insure.mp3]]<br><br>👪 **Word Family:** insurance, insurer, insured<br><br>💬 **Ví dụ:** You should insure your house against fire and flood.<br>*(-> Bạn nên mua bảo hiểm cho ngôi nhà của mình để phòng chống cháy nổ và lũ lụt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Arrange for compensation in the event of damage to or loss of (property), or injury to or the death of (someone), in exchange for regular payments.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Sound
 *n.*
 > /saʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Sound::Âm thanh *(Phát âm: /saʊnd/)* ![[sound.mp3]]<br><br>👪 **Word Family:** soundproof, soundtrack<br><br>💬 **Ví dụ:** The sound was too low during the movie.<br>*(-> Âm thanh quá nhỏ trong suốt bộ phim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vibrations traveling through the air that can be heard, or the audio elements of a film

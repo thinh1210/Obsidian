@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Leverage
 *verb/noun*
 > /ˈliːvərɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Leverage::Tận dụng, đòn bẩy, lực đòn bẩy *(Phát âm: /ˈliːvərɪdʒ/)* ![[leverage.mp3]]<br><br>👪 **Word Family:** lever (n/v), leveraged (adj)<br><br>💬 **Ví dụ:** We should leverage technology to automate our daily reports and save time.<br>*(-> Chúng ta nên tận dụng công nghệ để tự động hóa các báo cáo hàng ngày và tiết kiệm thời gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Use (something) to maximum advantage; the exertive force of a lever.

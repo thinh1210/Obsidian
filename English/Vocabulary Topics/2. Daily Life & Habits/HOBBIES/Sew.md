@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Sew
 *v*
 > /soʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Sew::Khâu, may vá *(Phát âm: /soʊ/)* ![[sew.mp3]]<br><br>👪 **Word Family:** sewing (n), sewer (n)<br><br>💬 **Ví dụ:** My grandmother taught me how to sew.<br>*(-> Bà tôi đã dạy tôi cách khâu vá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To use a needle and thread to make stitches in cloth.

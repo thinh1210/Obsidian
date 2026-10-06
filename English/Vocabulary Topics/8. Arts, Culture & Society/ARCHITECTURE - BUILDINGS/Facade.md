@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Facade
 *n.*
 > /fəˈsɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Facade::Mặt tiền (tòa nhà) *(Phát âm: /fəˈsɑːd/)* ![[facade.mp3]]<br><br>👪 **Word Family:** facaded<br><br>💬 **Ví dụ:** The historic building has a beautiful stone facade.<br>*(-> Tòa nhà lịch sử có mặt tiền bằng đá rất đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The principal front of a building, that faces on to a street or open space

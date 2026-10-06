@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Giraffe
 *n.*
 > /dʒəˈrɑːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Giraffe::Hươu cao cổ, loài động vật có vú trên cạn cao nhất thế giới sống tại châu Phi *(Phát âm: /dʒəˈrɑːf/)* ![[giraffe.mp3]]<br><br>👪 **Word Family:** giraffine (adj)<br><br>💬 **Ví dụ:** Children gasped with delight as the gentle giraffe reached down for acacia leaves.<br>*(-> Lũ trẻ trầm trồ thích thú khi chú hươu cao cổ hiền lành cúi xuống ăn lá cây keo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large African mammal with a very long neck and forelegs, having a coat with brown patches.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Amulet
 *noun*
 > /ˈæmjələt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Amulet::Bùa hộ mệnh *(Phát âm: /ˈæmjələt/)* ![[amulet.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He always wears an amulet for good luck.<br>*(-> Anh ấy luôn đeo một chiếc bùa hộ mệnh để cầu may.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object worn because it is believed to protect against evil, disease, or unhappiness.

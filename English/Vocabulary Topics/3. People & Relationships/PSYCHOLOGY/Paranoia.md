@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Paranoia
 *noun*
 > /ˌper.əˈnɔɪ.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Paranoia::Chứng hoang tưởng *(Phát âm: /ˌper.əˈnɔɪ.ə/)* ![[paranoia.mp3]]<br><br>👪 **Word Family:** paranoid (adj)<br><br>💬 **Ví dụ:** His paranoia makes him trust no one.<br>*(-> Chứng hoang tưởng khiến anh ấy không tin ai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A mental condition characterized by delusions of persecution, unwarranted jealousy, or exaggerated self-importance.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Grief
 *n.*
 > /ɡriːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Grief::Nỗi đau thương tột cùng, sự tiếc thương vô hạn khi mất đi người thân yêu *(Phát âm: /ɡriːf/)* ![[grief.mp3]]<br><br>👪 **Word Family:** grieve (v), grievance (n), grievous (adj)<br><br>💬 **Ví dụ:** She was so overwhelmed with grief after her husband passed away that she could not speak.<br>*(-> Cô ấy gục ngã trước nỗi tiếc thương sau khi chồng qua đời đến mức không thốt nên lời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very great sadness, especially at the death of someone you love.

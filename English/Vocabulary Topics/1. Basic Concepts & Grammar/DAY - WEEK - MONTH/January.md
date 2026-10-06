@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # January
 *n.*
 > /ˈdʒæn.ju.ə.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+January::Tháng Một, tháng mở đầu năm dương lịch với 31 ngày *(Phát âm: /ˈdʒæn.ju.ə.ri/)* ![[january.mp3]]<br><br>👪 **Word Family:** Jan (viết tắt)<br><br>💬 **Ví dụ:** Many people make ambitious New Year resolutions in early January.<br>*(-> Nhiều người đặt ra những mục tiêu năm mới đầy tham vọng vào đầu tháng Một.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The first month of the calendar year, having 31 days.

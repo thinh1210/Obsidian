@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Vegetable
 *n.*
 > /ˈvedʒ.tə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Vegetable::Rau củ *(Phát âm: /ˈvedʒ.tə.bəl/)* ![[vegetable.mp3]]<br><br>👪 **Word Family:** vegetarian (n/adj), vegan (n/adj), vegetation (n)<br><br>💬 **Ví dụ:** Green vegetables are good for your health.<br>*(-> Các loại rau xanh rất tốt cho sức khỏe của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plant or part of a plant used as food.

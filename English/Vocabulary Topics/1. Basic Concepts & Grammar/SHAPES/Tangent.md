@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Tangent
 *n.*
 > /ˈtæn.dʒənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Tangent::Tiếp tuyến *(Phát âm: /ˈtæn.dʒənt/)* ![[tangent.mp3]]<br><br>👪 **Word Family:** Tangential (adj)<br><br>💬 **Ví dụ:** Draw a tangent to the circle.<br>*(-> Vẽ một tiếp tuyến với đường tròn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A straight line or plane that touches a curve or curved surface at a point, but if extended does not cross it at that point.

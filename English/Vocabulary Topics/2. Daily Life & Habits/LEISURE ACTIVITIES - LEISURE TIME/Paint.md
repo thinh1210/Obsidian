@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Paint
 *v*
 > /peɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Paint::Vẽ, sơn *(Phát âm: /peɪnt/)* ![[paint.mp3]]<br><br>👪 **Word Family:** Painter (n), Painting (n)<br><br>💬 **Ví dụ:** She likes to paint landscapes.<br>*(-> Cô ấy thích vẽ phong cảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Apply paint to a surface as a hobby or art.

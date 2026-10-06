@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Horizon
 *noun*
 > /həˈraɪ.zən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Horizon::Đường chân trời *(Phát âm: /həˈraɪ.zən/)* ![[horizon.mp3]]<br><br>👪 **Word Family:** horizontal (adj), horizontally (adv)<br><br>💬 **Ví dụ:** We watched the ships disappear over the horizon.<br>*(-> Chúng tôi nhìn những con tàu biến mất phía bên kia đường chân trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The line at which the earth's surface and the sky appear to meet.

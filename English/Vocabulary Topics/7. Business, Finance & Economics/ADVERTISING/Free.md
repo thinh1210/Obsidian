@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Free
 *adjective*
 > /friː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Free::Miễn phí *(Phát âm: /friː/)* ![[free.mp3]]<br><br>👪 **Word Family:** freedom (noun), freely (adverb)<br><br>💬 **Ví dụ:** They are offering free coffee today.<br>*(-> Họ đang tặng cà phê miễn phí hôm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Given or available without charge.

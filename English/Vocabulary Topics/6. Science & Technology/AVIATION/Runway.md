@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Runway
 *noun*
 > /ˈrʌn.weɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Runway::Đường băng *(Phát âm: /ˈrʌn.weɪ/)* ![[runway.mp3]]<br><br>👪 **Word Family:** airstrip (n), taxiway (n)<br><br>💬 **Ví dụ:** The plane accelerated down the runway before lifting into the air.<br>*(-> Máy bay tăng tốc trên đường băng trước khi bay lên không trung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long strip of ground at an airport where planes take off and land.

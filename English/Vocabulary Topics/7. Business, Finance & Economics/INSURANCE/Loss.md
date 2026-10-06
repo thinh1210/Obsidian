@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Loss
 *n.*
 > /lɒs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Loss::Sự tổn thất, mất mát *(Phát âm: /lɒs/)* ![[loss.mp3]]<br><br>👪 **Word Family:** lose, lost, loser<br><br>💬 **Ví dụ:** She suffered a great financial loss when her shop burned down.<br>*(-> Cô ấy đã phải chịu một tổn thất tài chính lớn khi cửa hàng của cô ấy bị cháy rụi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The fact of no longer having something or having less of it than before.

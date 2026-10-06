@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # tool
 *noun*
 > /tuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Tool::công cụ, dụng cụ *(Phát âm: /tuːl/)* ![[tool.mp3]]<br><br>👪 **Word Family:** Noun: tool (công cụ), tooling (sự gia công bằng dụng cụ)<br><br>💬 **Ví dụ:** A hammer is a basic tool that every household should have.<br>*(-> Búa là một công cụ cơ bản mà gia đình nào cũng nên có.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a device or implement, especially one held in the hand, used to carry out a particular function.

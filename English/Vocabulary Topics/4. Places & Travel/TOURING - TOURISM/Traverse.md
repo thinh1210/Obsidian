@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Traverse
 *Verb*
 > /trəˈvɝːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Traverse::Đi ngang qua *(Phát âm: /trəˈvɝːs/)* ![[traverse.mp3]]<br><br>👪 **Word Family:** traversal (n)<br><br>💬 **Ví dụ:** He plans to traverse the continent on foot.<br>*(-> Anh ta lên kế hoạch đi bộ băng qua lục địa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move or travel through an area.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # constituency
 *noun*
 > /kənˈstɪtʃuənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+constituency::Cử tri đoàn, đơn vị bầu cử *(Phát âm: /kənˈstɪtʃuənsi/)* ![[constituency.mp3]]<br><br>👪 **Word Family:** constituent (n/adj)<br><br>💬 **Ví dụ:** The MP spent the weekend meeting voters in her constituency.<br>*(-> Nghị sĩ đã dành cuối tuần để gặp gỡ cử tri trong khu vực bầu cử của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A body of voters in a specified area who elect a representative to a legislative body.

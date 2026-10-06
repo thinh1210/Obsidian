@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Cartel
 *noun*
 > /kɑːrˈtel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Cartel::các-ten, liên minh độc quyền giữa các doanh nghiệp *(Phát âm: /kɑːrˈtel/)* ![[cartel.mp3]]<br><br>👪 **Word Family:** cartelization (noun), cartelize (verb)<br><br>💬 **Ví dụ:** OPEC is often described as an international cartel that controls oil prices.<br>*(-> OPEC thường được mô tả như một tổ chức các-ten quốc tế kiểm soát giá dầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an association of manufacturers or suppliers with the purpose of maintaining prices at a high level and restricting competition.

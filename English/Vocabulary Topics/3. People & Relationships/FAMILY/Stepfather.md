@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Stepfather
 *noun*
 > /ˈstepˌfɑː.ðər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Stepfather::Bố dượng *(Phát âm: /ˈstepˌfɑː.ðər/)* ![[stepfather.mp3]]<br><br>👪 **Word Family:** stepparent (n)<br><br>💬 **Ví dụ:** My stepfather loves me.<br>*(-> Bố dượng yêu thương tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The man married to your mother but not your real father.

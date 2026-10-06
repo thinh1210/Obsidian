@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Good
 *adj*
 > /ɡʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Good::Tốt, hay *(Phát âm: /ɡʊd/)* ![[good.mp3]]<br><br>👪 **Word Family:** Goodness (noun)<br><br>💬 **Ví dụ:** It is a good day today.<br>*(-> Hôm nay là một ngày đẹp trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of a favorable character or tendency.

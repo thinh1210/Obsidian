@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Arbitrage
 *noun.*
 > /ˈɑːbɪtrɑːʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
+
+## 🗂️ Flashcard
+Arbitrage::Kinh doanh chênh lệch giá *(Phát âm: /ˈɑːbɪtrɑːʒ/)* ![[arbitrage.mp3]]<br><br>👪 **Word Family:** arbitrageur (noun)<br><br>💬 **Ví dụ:** High-frequency trading algorithms are designed to exploit tiny arbitrage opportunities within milliseconds.<br>*(-> Các thuật toán giao dịch tần suất cao được thiết kế để khai thác các cơ hội chênh lệch giá nhỏ trong vài mili giây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The simultaneous buying and selling of assets in different markets to profit from differing prices.

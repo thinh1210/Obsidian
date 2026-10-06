@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Calm
 *adj*
 > /kɑːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Calm::Bình tĩnh *(Phát âm: /kɑːm/)* ![[calm.mp3]]<br><br>👪 **Word Family:** calmness (n), calmly (adv)<br><br>💬 **Ví dụ:** Please stay calm.<br>*(-> Vui lòng giữ bình tĩnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not showing or feeling nervousness, anger, or other strong emotions.

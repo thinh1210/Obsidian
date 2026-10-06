@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Vacancy
 *n.*
 > /ˈveɪ.kən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Vacancy::Vị trí trống, chỗ khuyết tuyển dụng *(Phát âm: /ˈveɪ.kən.si/)* ![[vacancy.mp3]]<br><br>👪 **Word Family:** vacant, vacate<br><br>💬 **Ví dụ:** There is a vacancy in the marketing department.<br>*(-> Có một vị trí trống trong phòng marketing.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An unoccupied position or job opening

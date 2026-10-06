@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Debilitating
 *adj.*
 > /dɪˈbɪlɪteɪtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Debilitating::Làm suy nhược *(Phát âm: /dɪˈbɪlɪteɪtɪŋ/)* ![[debilitating.mp3]]<br><br>👪 **Word Family:** debilitate (v), debilitation (n)<br><br>💬 **Ví dụ:** She has a debilitating illness.<br>*(-> Cô ấy mắc một căn bệnh làm suy nhược.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Making someone very weak and infirm

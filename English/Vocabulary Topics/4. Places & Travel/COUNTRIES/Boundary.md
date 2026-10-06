@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Boundary
 *Noun*
 > /ˈbaʊndri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Boundary::Ranh giới *(Phát âm: /ˈbaʊndri/)* ![[boundary.mp3]]<br><br>👪 **Word Family:** Boundless<br><br>💬 **Ví dụ:** The river forms a natural boundary.<br>*(-> Dòng sông tạo thành một ranh giới tự nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line that marks the limits of an area; a dividing line.

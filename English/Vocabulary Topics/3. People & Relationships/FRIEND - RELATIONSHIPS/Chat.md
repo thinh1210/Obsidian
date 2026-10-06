@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Chat
 *verb/noun*
 > /tʃæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Chat::Trò chuyện *(Phát âm: /tʃæt/)* ![[chat.mp3]]<br><br>👪 **Word Family:** chatty<br><br>💬 **Ví dụ:** We had a long chat.<br>*(-> Chúng tôi đã có một cuộc trò chuyện dài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Talk in a friendly and informal way.

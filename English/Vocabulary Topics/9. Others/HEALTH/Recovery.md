@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Recovery
 *n*
 > /rɪˈkʌvəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Recovery::Sự phục hồi, sự bình phục *(Phát âm: /rɪˈkʌvəri/)* ![[recovery.mp3]]<br><br>👪 **Word Family:** recover (v)<br><br>💬 **Ví dụ:** We wish you a speedy recovery after your surgery.<br>*(-> Chúng tôi chúc bạn phục hồi nhanh chóng sau ca phẫu thuật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A return to a normal state of health, mind, or strength.

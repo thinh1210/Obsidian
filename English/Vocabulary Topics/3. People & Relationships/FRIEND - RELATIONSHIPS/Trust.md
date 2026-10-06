@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Trust
 *noun/verb*
 > /trʌst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Trust::Sự tin tưởng, tin cậy *(Phát âm: /trʌst/)* ![[trust.mp3]]<br><br>👪 **Word Family:** trustworthy<br><br>💬 **Ví dụ:** I trust my friends.<br>*(-> Tôi tin tưởng bạn bè tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Firm belief in the reliability, truth, ability, or strength of someone or something.

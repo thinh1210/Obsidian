@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Class
 *n.*
 > /klɑːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Class::Lớp học *(Phát âm: /klɑːs/)* ![[class.mp3]]<br><br>👪 **Word Family:** classroom, classmate<br><br>💬 **Ví dụ:** She has a French class at 9 AM.<br>*(-> Cô ấy có lớp tiếng Pháp vào lúc 9 giờ sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A group of students who are taught together

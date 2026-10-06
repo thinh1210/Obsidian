@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Horology
 *noun*
 > /hɒˈrɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Horology::Nghệ thuật chế tác đồng hồ, khoa học đo lường thời gian *(Phát âm: /hɒˈrɒlədʒi/)* ![[horology.mp3]]<br><br>👪 **Word Family:** Horologist (n), Horological (adj)<br><br>💬 **Ví dụ:** His interest in horology began when he inherited his grandfather's pocket watch.<br>*(-> Sự quan tâm của anh đối với nghề chế tác đồng hồ bắt đầu khi anh thừa kế chiếc đồng hồ bỏ túi của ông nội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study and measurement of time, or the art of making clocks and watches.

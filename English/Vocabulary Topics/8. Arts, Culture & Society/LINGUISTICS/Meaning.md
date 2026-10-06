@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Meaning
 *noun*
 > /ˈmiː.nɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Meaning::ý nghĩa *(Phát âm: /ˈmiː.nɪŋ/)* ![[meaning.mp3]]<br><br>👪 **Word Family:** mean (v), meaningful (adj), meaningless (adj)<br><br>💬 **Ví dụ:** What is the meaning of this word?<br>*(-> Ý nghĩa của từ này là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the express representation or significance of a word, phrase, sentence, or action

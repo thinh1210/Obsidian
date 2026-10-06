@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Talkative
 *adj.*
 > /ˈtɔː.kə.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Talkative::Hay nói, hoạt ngôn, thích trò chuyện huyên náo *(Phát âm: /ˈtɔː.kə.tɪv/)* ![[talkative.mp3]]<br><br>👪 **Word Family:** talk (v/n), talkativeness (n)<br><br>💬 **Ví dụ:** He is usually quiet, but after a cup of hot coffee, he became quite talkative.<br>*(-> Anh ấy thường trầm tính, nhưng sau một tách cà phê nóng, anh đã trở nên khá hoạt ngôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Talking a lot; liking to engage in speech.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Well-dressed
 *adj.*
 > /ˌwel ˈdrest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Well-dressed::Ăn mặc đẹp *(Phát âm: /ˌwel ˈdrest/)* ![[well_dressed.mp3]]<br><br>👪 **Word Family:** Dress (v, n)<br><br>💬 **Ví dụ:** He is always well-dressed for parties.<br>*(-> Anh ấy luôn ăn mặc đẹp cho các bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wearing attractive and stylish clothes.

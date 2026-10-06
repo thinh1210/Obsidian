@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Alimony
 *noun*
 > /ˈælɪməni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Alimony::Tiền cấp dưỡng (sau ly hôn) *(Phát âm: /ˈælɪməni/)* ![[alimony.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He pays a lot of alimony to his ex-wife.<br>*(-> Anh ấy trả rất nhiều tiền cấp dưỡng cho vợ cũ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Financial support that a person is ordered by a court to give to their spouse during separation or following divorce.

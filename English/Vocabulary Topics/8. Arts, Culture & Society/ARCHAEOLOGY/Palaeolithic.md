@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Palaeolithic
 *adj.*
 > /ˌpælɪəʊˈlɪθɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Palaeolithic::Thuộc thời kỳ Đồ đá cũ *(Phát âm: /ˌpælɪəʊˈlɪθɪk/)* ![[palaeolithic.mp3]]<br><br>👪 **Word Family:** Palaeolith (noun)<br><br>💬 **Ví dụ:** Palaeolithic humans were hunter-gatherers.<br>*(-> Con người thời kỳ Đồ đá cũ là những người săn bắn hái lượm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting the early phase of the Stone Age, lasting about 2.5 million years, when primitive stone implements were used

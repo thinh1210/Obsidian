@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Metal
 *noun*
 > /ˈmet.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Metal::Kim loại *(Phát âm: /ˈmet.əl/)* ![[metal.mp3]]<br><br>👪 **Word Family:** metallic (adj), metallurgy (n)<br><br>💬 **Ví dụ:** Gold is a heavy, soft, yellow metal.<br>*(-> Vàng là một kim loại nặng, mềm và màu vàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical element such as iron or copper that is typically a hard, shiny solid and conducts heat and electricity.

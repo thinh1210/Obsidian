@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Clicktivism
 *noun*
 > /ˈklɪktɪvɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Clicktivism::Chủ nghĩa hoạt động bằng cú nhấp chuột (hoạt động hời hợt trên mạng) *(Phát âm: /ˈklɪktɪvɪzəm/)* ![[clicktivism.mp3]]<br><br>👪 **Word Family:** clicktivist (n)<br><br>💬 **Ví dụ:** Signing an online petition is a form of clicktivism; it rarely leads to real-world change.<br>*(-> Ký một bản kiến nghị trực tuyến là một hình thức hoạt động bằng cú nhấp chuột; nó hiếm khi dẫn đến sự thay đổi thực sự ngoài đời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of supporting a political or social cause via social media, involving minimal effort (such as liking or sharing)

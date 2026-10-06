@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Exquisite
 *adj.*
 > /ɪkˈskwɪzɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Exquisite::Tuyệt đẹp, tinh xảo *(Phát âm: /ɪkˈskwɪzɪt/)* ![[exquisite.mp3]]<br><br>👪 **Word Family:** Exquisitely (adv)<br><br>💬 **Ví dụ:** Look at this exquisite piece of jewelry.<br>*(-> Hãy nhìn món trang sức tinh xảo này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very beautiful and delicate.

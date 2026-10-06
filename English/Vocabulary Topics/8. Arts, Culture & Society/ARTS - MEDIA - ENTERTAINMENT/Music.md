@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Music
 *n.*
 > /ˈmjuːzɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Music::Âm nhạc *(Phát âm: /ˈmjuːzɪk/)* ![[music.mp3]]<br><br>👪 **Word Family:** musical, musician<br><br>💬 **Ví dụ:** She loves listening to classical music while studying.<br>*(-> Cô ấy thích nghe nhạc cổ điển khi học bài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.

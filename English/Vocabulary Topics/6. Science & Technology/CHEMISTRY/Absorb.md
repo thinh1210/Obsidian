@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Absorb
 *verb*
 > /əbˈzɔːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Absorb::Hấp thụ, hút *(Phát âm: /əbˈzɔːb/)* ![[absorb.mp3]]<br><br>👪 **Word Family:** absorption (n), absorbent (adj)<br><br>💬 **Ví dụ:** Plants absorb water and nutrients from the soil through their roots.<br>*(-> Thực vật hấp thụ nước và chất dinh dưỡng từ đất qua rễ của chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take in or soak up (energy or a liquid or other substance) by chemical or physical action.

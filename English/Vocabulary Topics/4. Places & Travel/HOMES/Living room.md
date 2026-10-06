@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Living room
 *n.*
 > /ˈlɪvɪŋ ruːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Living room::Phòng sinh hoạt chung và tiếp đón khách trong ngôi nhà *(Phát âm: /ˈlɪvɪŋ ruːm/)* ![[living_room.mp3]]<br><br>👪 **Word Family:** live (v), living (n)<br><br>💬 **Ví dụ:** The whole family gathers in the living room to watch TV.<br>*(-> Cả gia đình quây quần tại phòng khách để xem truyền hình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room in a house for general and informal everyday use.

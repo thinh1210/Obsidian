@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Clickbait
 *noun*
 > /ˈklɪkbeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Clickbait::Mồi nhử nhấp chuột (tiêu đề giật gân, câu view) *(Phát âm: /ˈklɪkbeɪt/)* ![[clickbait.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I hate those clickbait articles that have sensational titles but no real information.<br>*(-> Tôi ghét những bài viết câu view có tiêu đề giật gân nhưng không có thông tin thực tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Web content designed to attract attention and encourage visitors to click on a link

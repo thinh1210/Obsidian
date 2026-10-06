@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Notification
 *noun*
 > /ˌnəʊtɪfɪˈkeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Notification::Thông báo *(Phát âm: /ˌnəʊtɪfɪˈkeɪʃn/)* ![[notification.mp3]]<br><br>👪 **Word Family:** notify (v), notifiable (adj)<br><br>💬 **Ví dụ:** I turned off notifications because they were distracting me from studying.<br>*(-> Tôi đã tắt thông báo vì chúng làm tôi mất tập trung học bài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An alert or message informing a user of activity on their social media account

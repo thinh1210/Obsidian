@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Prose
 *noun*
 > /prəʊz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Prose::Văn xuôi *(Phát âm: /prəʊz/)* ![[prose.mp3]]<br><br>👪 **Word Family:** prosaic (adj)<br><br>💬 **Ví dụ:** Unlike poetry, prose is characterized by ordinary grammatical speech.<br>*(-> Không giống như thơ, văn xuôi được đặc trưng bởi lời nói ngữ pháp thông thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Written or spoken language in its ordinary form, without metrical structure.

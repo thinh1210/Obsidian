@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Germinate
 *verb*
 > /ˈdʒɜːmɪneɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Germinate::Nảy mầm, phát triển mầm *(Phát âm: /ˈdʒɜːmɪneɪt/)* ![[germinate.mp3]]<br><br>👪 **Word Family:** Noun: germination (sự nảy mầm), Verb: germinate (nảy mầm), Adjective: germinative (có khả năng nảy mầm)<br><br>💬 **Ví dụ:** Some seeds require a cold period before they can germinate.<br>*(-> Một số hạt giống yêu cầu một thời kỳ lạnh trước khi chúng có thể nảy mầm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a seed or spore) begin to grow and put out shoots after a period of dormancy.

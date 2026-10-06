@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Apparel
 *noun*
 > /əˈper.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Apparel::Y phục, hàng may mặc *(Phát âm: /əˈper.əl/)* ![[apparel.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She works in the apparel industry.<br>*(-> Cô ấy làm việc trong ngành may mặc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clothing, especially formal or elegant wear; a commercial term for clothes.

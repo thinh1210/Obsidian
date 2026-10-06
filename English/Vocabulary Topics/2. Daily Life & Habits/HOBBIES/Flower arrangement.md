@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Flower arrangement
 *n.*
 > /ˈflaʊ.ər əˌreɪndʒ.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Flower arrangement::Thú vui và nghệ thuật cắm hoa nghệ thuật trang trí trong bình hoặc đĩa *(Phát âm: /ˈflaʊ.ər əˌreɪndʒ.mənt/)* ![[flower_arrangement.mp3]]<br><br>👪 **Word Family:** arrange (v), arranger (n)<br><br>💬 **Ví dụ:** She practices Japanese flower arrangement as a relaxing meditative weekend hobby.<br>*(-> Cô ấy thực hành nghệ thuật cắm hoa Nhật Bản như một sở thích thiền định thư thái vào cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or hobby of organizing flowers and foliage decoratively in a vase or bowl.

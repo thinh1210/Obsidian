@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Piano
 *n.*
 > /piˈæn.əʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Piano::Đàn piano, dương cầm *(Phát âm: /piˈæn.əʊ/)* ![[piano.mp3]]<br><br>👪 **Word Family:** pianist (n)<br><br>💬 **Ví dụ:** My sister practices playing the piano every evening.<br>*(-> Em gái tôi luyện tập chơi đàn piano mỗi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large keyboard musical instrument with wooden hammers that strike metal strings.

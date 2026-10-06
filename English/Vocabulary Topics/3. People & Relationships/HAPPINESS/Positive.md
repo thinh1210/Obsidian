@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Positive
 *adj.*
 > /ˈpɒz.ə.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Positive::Tích cực *(Phát âm: /ˈpɒz.ə.tɪv/)* ![[positive.mp3]]<br><br>👪 **Word Family:** Positivity (n), Positively (adv)<br><br>💬 **Ví dụ:** Keep a positive attitude.<br>*(-> Giữ thái độ tích cực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Constructive, optimistic, or confident.

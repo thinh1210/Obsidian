@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Kindred spirit
 *noun*
 > /ˌkɪn.drəd ˈspɪr.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Kindred_spirit::Người tâm đầu ý hợp *(Phát âm: /ˌkɪn.drəd ˈspɪr.ət/)* ![[kindred_spirit.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** In him, she found a kindred spirit.<br>*(-> Ở anh ấy, cô đã tìm thấy một người tâm đầu ý hợp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person whose interests or attitudes are similar to one's own.

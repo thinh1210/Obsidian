@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Business
 *noun*
 > /ˈbɪznəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Business::kinh doanh, doanh nghiệp *(Phát âm: /ˈbɪznəs/)* ![[business.mp3]]<br><br>👪 **Word Family:** businessman (noun), businesswoman (noun)<br><br>💬 **Ví dụ:** My uncle decided to start his own business selling handmade toys.<br>*(-> Bác tôi quyết định tự khởi nghiệp kinh doanh đồ chơi làm bằng tay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the activity of making, buying, or selling goods or providing services in exchange for money.

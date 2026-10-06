@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Chat
 *v.*
 > /tʃæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Chat::Nói chuyện, chuyện trò phiếm thân mật và gần gũi *(Phát âm: /tʃæt/)* ![[chat.mp3]]<br><br>👪 **Word Family:** chatter (v/n), chatty (adj)<br><br>💬 **Ví dụ:** We sat on the balcony and chatted over hot cups of coffee for hours.<br>*(-> Chúng tôi ngồi ngoài ban công và trò chuyện hàng giờ bên những tách cà phê nóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To talk to someone in a friendly, informal way.

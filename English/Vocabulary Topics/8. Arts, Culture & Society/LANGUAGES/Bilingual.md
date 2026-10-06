@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Bilingual
 *adj.*
 > /ˌbaɪˈlɪŋɡwəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
+
+## 🗂️ Flashcard
+Bilingual::Song ngữ *(Phát âm: /ˌbaɪˈlɪŋɡwəl/)* ![[bilingual.mp3]]<br><br>👪 **Word Family:** bilingualism, bilingually<br><br>💬 **Ví dụ:** Many kids in Canada are bilingual.<br>*(-> Nhiều đứa trẻ ở Canada nói được song ngữ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Speaking two languages fluently

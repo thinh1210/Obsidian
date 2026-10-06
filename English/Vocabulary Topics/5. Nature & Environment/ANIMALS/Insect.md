@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Insect
 *n.*
 > /ˈɪnsekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Insect::Côn trùng, lớp sinh vật chân đốt nhỏ bé có 6 chân và cơ thể chia làm ba đốt *(Phát âm: /ˈɪnsekt/)* ![[insect.mp3]]<br><br>👪 **Word Family:** insecticide (n), insectivorous (adj)<br><br>💬 **Ví dụ:** Wear long sleeves in the forest to protect yourself from pesky insect bites.<br>*(-> Hãy mặc áo dài tay trong rừng để bảo vệ bản thân khỏi các vết côn trùng cắn khó chịu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small animal with six legs, a body divided into three parts, and usually wings.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Contract
 *n.*
 > /ˈkɒntrækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Contract::Bản thỏa thuận có giá trị pháp lý giữa các bên ký kết *(Phát âm: /ˈkɒntrækt/)* ![[contract.mp3]]<br><br>👪 **Word Family:** contractual (adj), contractor (n)<br><br>💬 **Ví dụ:** Please read every clause carefully before signing the lease contract.<br>*(-> Xin vui lòng đọc kỹ từng điều khoản trước khi ký hợp đồng thuê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.

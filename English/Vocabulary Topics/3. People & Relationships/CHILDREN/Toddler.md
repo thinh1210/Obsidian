@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Toddler
 *noun*
 > /ˈtɑːd.lɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Toddler::Trẻ mới biết đi *(Phát âm: /ˈtɑːd.lɚ/)* ![[toddler.mp3]]<br><br>👪 **Word Family:** Toddle (v)<br><br>💬 **Ví dụ:** My toddler loves playing with blocks.<br>*(-> Đứa trẻ mới biết đi của tôi thích chơi xếp hình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A young child, usually one between one and three years of age.

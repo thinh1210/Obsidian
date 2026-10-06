@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Outgoing
 *adj.*
 > /ˈaʊtˌɡəʊ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Outgoing::Hướng ngoại, cởi mở, năng động và thích giao tiếp xã hội *(Phát âm: /ˈaʊtˌɡəʊ.ɪŋ/)* ![[outgoing.mp3]]<br><br>👪 **Word Family:** outgo (v), outgoings (n pl)<br><br>💬 **Ví dụ:** Unlike her quiet sister, Sarah has an outgoing personality and makes friends effortlessly.<br>*(-> Khác với người chị trầm lặng, Sarah có tính cách hướng ngoại và kết bạn rất dễ dàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Friendly and energetic and finding it easy and enjoyable to be with others.

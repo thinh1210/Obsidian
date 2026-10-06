@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Opaque
 *adjective.*
 > /əʊˈpeɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Opaque::Mờ đục, không trong suốt, khó hiểu *(Phát âm: /əʊˈpeɪk/)* ![[opaque.mp3]]<br><br>👪 **Word Family:** opaquely (Adverb), opacity (Noun)<br><br>💬 **Ví dụ:** We installed opaque curtains to block the streetlights.<br>*(-> Chúng tôi đã lắp rèm cửa mờ đục để chắn ánh đèn đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not able to be seen through; not transparent; hard or impossible to understand.

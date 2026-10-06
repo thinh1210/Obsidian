@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Launch
 *verb*
 > /lɔːntʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Launch::Tung ra, ra mắt, khai trương *(Phát âm: /lɔːntʃ/)* ![[launch.mp3]]<br><br>👪 **Word Family:** launch (noun)<br><br>💬 **Ví dụ:** The company is going to launch a new product next week.<br>*(-> Công ty chuẩn bị tung ra một sản phẩm mới vào tuần tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To start or introduce something new, such as a product or campaign.

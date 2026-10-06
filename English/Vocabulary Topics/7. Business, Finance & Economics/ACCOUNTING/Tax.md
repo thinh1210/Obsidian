@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Tax
 *n.*
 > /tæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Kiểm toán, Nghĩa vụ thuế & Pháp y kế toán
+
+## 🗂️ Flashcard
+Tax::Thuế *(Phát âm: /tæks/)* ![[tax.mp3]]<br><br>👪 **Word Family:** taxation, taxpayer, taxable<br><br>💬 **Ví dụ:** The price includes a sales tax.<br>*(-> Giá cả đã bao gồm thuế bán hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money paid to the government that is based on your income or the cost of goods or services

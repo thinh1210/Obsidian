@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Boundary
 *noun*
 > /ˈbaʊndri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Boundary::Ranh giới *(Phát âm: /ˈbaʊndri/)* ![[boundary.mp3]]<br><br>👪 **Word Family:** Bound (v.)<br><br>💬 **Ví dụ:** The river acts as a boundary between the two towns.<br>*(-> Dòng sông đóng vai trò là ranh giới giữa hai thị trấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line that marks the limits of an area; a dividing line.

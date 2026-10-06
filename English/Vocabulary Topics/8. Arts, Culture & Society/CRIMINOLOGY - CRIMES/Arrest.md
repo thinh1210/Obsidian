@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Arrest
 *verb*
 > /əˈrest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Arrest::Bắt giữ *(Phát âm: /əˈrest/)* ![[arrest.mp3]]<br><br>👪 **Word Family:** arrestable (adj)<br><br>💬 **Ví dụ:** The police arrived quickly to arrest the shoplifter.<br>*(-> Cảnh sát đã đến nhanh chóng để bắt giữ kẻ trộm đồ trong cửa hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** If the police arrest someone, they take them away to ask them about a crime

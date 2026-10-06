@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Pretty
 *adj.*
 > /ˈprɪt.i/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Pretty::Xinh xắn, đáng yêu, ưa nhìn; duyên dáng *(Phát âm: /ˈprɪt.i/)* ![[pretty.mp3]]<br><br>👪 **Word Family:** prettily (adv), prettiness (n)<br><br>💬 **Ví dụ:** She wore a pretty floral dress that looked perfect for the summer picnic.<br>*(-> Cô ấy mặc một chiếc váy hoa xinh xắn trông rất hợp với buổi dã ngoại mùa hè.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasant to look at, especially in a delicate, charming way; attractive.

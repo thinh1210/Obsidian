@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Populism
 *n*
 > /ˈpɒp.jʊ.lɪz.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Populism::Chủ nghĩa dân túy *(Phát âm: /ˈpɒp.jʊ.lɪz.əm/)* ![[populism.mp3]]<br><br>👪 **Word Family:** populist (n/adj), popular (adj), popularity (n)<br><br>💬 **Ví dụ:** Voters angry at the establishment turned to populism for answers.<br>*(-> Cử tri tức giận với giới tinh hoa quay sang chủ nghĩa dân túy để tìm câu trả lời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A political approach that appeals to ordinary people who feel their concerns are disregarded by elites.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Buy
 *verb.*
 > /baɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Buy::Mua *(Phát âm: /baɪ/)* ![[buy.mp3]]<br><br>👪 **Word Family:** buyer (noun)<br><br>💬 **Ví dụ:** I want to buy a new laptop for my online classes.<br>*(-> Tôi muốn mua một chiếc laptop mới cho các lớp học trực tuyến của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To obtain something by paying money for it.

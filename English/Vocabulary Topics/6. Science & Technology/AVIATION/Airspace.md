@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Airspace
 *noun*
 > /ˈeə.speɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Airspace::Không phận *(Phát âm: /ˈeə.speɪs/)* ![[airspace.mp3]]<br><br>👪 **Word Family:** airspace management (n), restricted area (n)<br><br>💬 **Ví dụ:** The fighter jets scrambled to intercept the drone that had entered restricted airspace.<br>*(-> Các máy bay chiến đấu khẩn cấp cất cánh để chặn chiếc drone xâm nhập không phận hạn chế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of the atmosphere above a particular country, which is controlled by that country.

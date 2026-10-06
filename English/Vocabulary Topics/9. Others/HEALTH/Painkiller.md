@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Painkiller
 *n.*
 > /ˈpeɪnˌkɪl.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Painkiller::Thuốc giảm đau giúp xoa dịu các cơn đau cơ thể *(Phát âm: /ˈpeɪnˌkɪl.ər/)* ![[painkiller.mp3]]<br><br>👪 **Word Family:** pain (n/v), painful (adj), painless (adj)<br><br>💬 **Ví dụ:** I took a mild painkiller to relieve my splitting headache.<br>*(-> Tôi đã uống một viên thuốc giảm đau nhẹ để làm dịu cơn đau đầu như búa bổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A drug or medicine that is used to reduce or eliminate physical pain.

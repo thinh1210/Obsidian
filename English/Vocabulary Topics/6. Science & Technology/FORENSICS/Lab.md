@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Lab
 *noun*
 > /læb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Lab::Phòng thí nghiệm *(Phát âm: /læb/)* ![[lab.mp3]]<br><br>👪 **Word Family:** laboratory (n full form), lab-based (adj)<br><br>💬 **Ví dụ:** The blood sample was sent to the lab for testing.<br>*(-> Mẫu máu được gửi đến phòng thí nghiệm để xét nghiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Short for laboratory; a room equipped for scientific experiments or analyses.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Passionate
 *adj.*
 > /ˈpæʃ.ən.ət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Passionate::Say đắm, đam mê *(Phát âm: /ˈpæʃ.ən.ət/)* ![[passionate.mp3]]<br><br>👪 **Word Family:** Passion (n), Passionately (adv)<br><br>💬 **Ví dụ:** She is passionate about music.<br>*(-> Cô ấy đam mê âm nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing or caused by strong feelings or a strong belief.

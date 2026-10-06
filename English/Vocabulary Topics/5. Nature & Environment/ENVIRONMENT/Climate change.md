@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Climate change
 *n.*
 > /ˈklaɪmət tʃeɪndʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Climate change::Biến đổi khí hậu *(Phát âm: /ˈklaɪmət tʃeɪndʒ/)* ![[climate_change.mp3]]<br><br>👪 **Word Family:** climatic (adj)<br><br>💬 **Ví dụ:** Climate change is leading to more severe weather events.<br>*(-> Biến đổi khí hậu đang dẫn đến các hiện tượng thời tiết khắc nghiệt hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A change in global or regional climate patterns, in particular a change apparent from the mid to late 20th century onwards and attributed largely to the increased levels of atmospheric carbon dioxide produced by the use of fossil fuels.

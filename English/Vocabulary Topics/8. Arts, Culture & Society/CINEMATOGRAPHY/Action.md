@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Action
 *n.*
 > /ˈækʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Action::Cảnh hành động, diễn xuất *(Phát âm: /ˈækʃn/)* ![[action.mp3]]<br><br>👪 **Word Family:** active, actor, activate<br><br>💬 **Ví dụ:** I love the action scenes in Marvel movies.<br>*(-> Tôi thích các cảnh hành động trong phim Marvel.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The events or things that happen in a film; also the director's command to start filming

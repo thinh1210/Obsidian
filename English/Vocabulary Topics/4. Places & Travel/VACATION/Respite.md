@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Respite
 *Noun*
 > /ˈrɛspɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Respite::Sự nghỉ ngơi/Thời gian ân xá *(Phát âm: /ˈrɛspɪt/)* ![[respite.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** The weekend provided a brief respite from work.<br>*(-> Cuối tuần mang lại một thời gian nghỉ ngơi ngắn khỏi công việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short period of rest or relief from something difficult or unpleasant.

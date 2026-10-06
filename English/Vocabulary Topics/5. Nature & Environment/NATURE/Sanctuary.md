@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Sanctuary
 *Noun*
 > /ˈsæŋktʃuəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Sanctuary::Khu bảo tồn, nơi trú ẩn an toàn *(Phát âm: /ˈsæŋktʃuəri/)* ![[sanctuary.mp3]]<br><br>👪 **Word Family:** sanctum, sanctify<br><br>💬 **Ví dụ:** The island is a designated sanctuary for rare sea birds.<br>*(-> Hòn đảo là khu bảo tồn được chỉ định cho các loài chim biển quý hiếm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place of safety or refuge, especially for wildlife.

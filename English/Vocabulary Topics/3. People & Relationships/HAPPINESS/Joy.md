@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Joy
 *n.*
 > /dʒɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Joy::Niềm vui, sự hân hoan *(Phát âm: /dʒɔɪ/)* ![[joy.mp3]]<br><br>👪 **Word Family:** Joyful (adj), Joyous (adj)<br><br>💬 **Ví dụ:** She wept for joy.<br>*(-> Cô ấy khóc vì vui sướng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling of great pleasure and happiness.

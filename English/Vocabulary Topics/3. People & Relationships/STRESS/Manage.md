@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Manage
 *v.*
 > /ˈmænɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Manage::Quản lý, xoay xở *(Phát âm: /ˈmænɪdʒ/)* ![[manage.mp3]]<br><br>👪 **Word Family:** management (n), manager (n)<br><br>💬 **Ví dụ:** I can manage this problem.<br>*(-> Tôi có thể xoay xở với vấn đề này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To succeed in doing or dealing with something, especially something difficult

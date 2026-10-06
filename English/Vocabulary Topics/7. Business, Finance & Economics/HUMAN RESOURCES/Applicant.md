@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Applicant
 *n.*
 > /ˈæp.lɪ.kənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Applicant::Ứng viên, người nộp đơn xin việc *(Phát âm: /ˈæp.lɪ.kənt/)* ![[applicant.mp3]]<br><br>👪 **Word Family:** apply, application, applicable<br><br>💬 **Ví dụ:** There were over fifty applicants for the job.<br>*(-> Có hơn năm mươi ứng cử viên cho công việc này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who makes a formal application for a job

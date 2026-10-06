@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Lose
 *v.*
 > /luːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Lose::Thua, mất *(Phát âm: /luːz/)* ![[lose.mp3]]<br><br>👪 **Word Family:** loser, loss, losing<br><br>💬 **Ví dụ:** It's hard to lose a game when you played so well.<br>*(-> Thật khó chấp nhận việc thua một trận đấu khi bạn đã chơi rất tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Be deprived of or cease to have or retain something; fail to win a game or contest.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Senescence
 *noun*
 > /sɪˈnesns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Senescence::Sự già hóa, sự lão hóa của tế bào/lá cây *(Phát âm: /sɪˈnesns/)* ![[senescence.mp3]]<br><br>👪 **Word Family:** Noun: senescence (sự già hóa), Adjective: senescent (già cỗi, lão hóa)<br><br>💬 **Ví dụ:** The yellowing of leaves in autumn is a visible sign of plant senescence.<br>*(-> Việc lá chuyển sang màu vàng vào mùa thu là dấu hiệu rõ ràng của sự già hóa thực vật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition or process of deterioration with age; (in plants) the final stage of leaf development.

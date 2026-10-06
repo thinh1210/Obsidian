@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Leisure
 *n*
 > /ˈleʒə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Leisure::Thời gian rảnh rỗi *(Phát âm: /ˈleʒə(r)/)* ![[leisure.mp3]]<br><br>👪 **Word Family:** Leisurely (adj)<br><br>💬 **Ví dụ:** What do you do in your leisure time?<br>*(-> Bạn làm gì vào thời gian rảnh?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free time when one is not working.

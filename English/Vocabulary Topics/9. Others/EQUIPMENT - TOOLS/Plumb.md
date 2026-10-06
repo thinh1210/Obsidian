@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # plumb
 *noun*
 > /plʌm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Plumb::quả dọi, dây dọi (để đo độ thẳng đứng) *(Phát âm: /plʌm/)* ![[plumb.mp3]]<br><br>👪 **Word Family:** Noun: plumb (quả dọi), plumber (thợ sửa ống nước), plumbing (hệ thống ống nước), Verb: plumb (đo bằng quả dọi, tìm hiểu thấu đáo), Adjective: plumb (thẳng đứng hoàn hảo)<br><br>💬 **Ví dụ:** The builder used a plumb line to ensure the wall was perfectly straight.<br>*(-> Người thợ xây đã sử dụng dây dọi để đảm bảo bức tường thẳng đứng hoàn hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a lead weight attached to a line, used to determine verticality; also, to measure the depth of water.

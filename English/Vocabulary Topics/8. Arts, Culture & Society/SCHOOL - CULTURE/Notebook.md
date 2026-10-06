@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Notebook
 *noun*
 > /ˈnəʊtbʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Notebook::Vở ghi bài, sổ tay *(Phát âm: /ˈnəʊtbʊk/)* ![[notebook.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She opened her notebook and started writing down the lesson.<br>*(-> Cô ấy mở vở ghi bài và bắt đầu chép bài học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small book with blank pages for writing notes in.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Settle
 *verb*
 > /ˈsɛtəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Settle::Định cư, an cư *(Phát âm: /ˈsɛtəl/)* ![[settle.mp3]]<br><br>👪 **Word Family:** settlement (n)<br><br>💬 **Ví dụ:** They plan to settle in the suburbs.<br>*(-> Họ dự định định cư ở vùng ngoại ô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Adopt a more steady or secure style of life, especially in a permanent job and home.

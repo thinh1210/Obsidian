@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Hail
 *noun*
 > /heɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Giá rét, Băng tuyết & Mùa đông
+
+## 🗂️ Flashcard
+Hail::Mưa đá *(Phát âm: /heɪl/)* ![[hail.mp3]]<br><br>👪 **Word Family:** Hail (verb)<br><br>💬 **Ví dụ:** The car's windshield was cracked by heavy hail.<br>*(-> Kính chắn gió của ô tô đã bị nứt do mưa đá rơi dày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small, hard balls of ice that fall from the sky like rain

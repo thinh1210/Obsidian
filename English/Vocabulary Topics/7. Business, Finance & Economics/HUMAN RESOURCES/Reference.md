@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Reference
 *n.*
 > /ˈref.ər.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Reference::Thư giới thiệu, người giới thiệu *(Phát âm: /ˈref.ər.əns/)* ![[reference.mp3]]<br><br>👪 **Word Family:** refer, referable, referee<br><br>💬 **Ví dụ:** My former boss agreed to write a reference for me.<br>*(-> Sếp cũ của tôi đã đồng ý viết thư giới thiệu cho tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A letter or statement testifying to someone's character or ability

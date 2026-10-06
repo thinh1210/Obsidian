@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Finance
 *Noun/Verb*
 > /ˈfaɪnæns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Finance::(n) Tài chính (sự quản lý tiền bạc); (v) cấp vốn, tài trợ (cung cấp tiền cho một người hoặc doanh nghiệp) *(Phát âm: /ˈfaɪnæns/)* ![[finance.mp3]]<br><br>👪 **Word Family:** Adj: financial (thuộc tài chính), Adv: financially (về mặt tài chính), Noun: financier (nhà tài phiệt)<br><br>💬 **Ví dụ:** Understanding personal finance is essential for achieving early retirement.<br>*(-> Hiểu biết về tài chính cá nhân là điều cần thiết để đạt được việc nghỉ hưu sớm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (n) The management of large amounts of money; (v) to provide funding for a person or enterprise.

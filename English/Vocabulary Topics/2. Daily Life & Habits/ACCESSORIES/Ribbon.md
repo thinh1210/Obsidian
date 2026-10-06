@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Ribbon
 *noun*
 > /ˈrɪbən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Ribbon::Dây ruy băng *(Phát âm: /ˈrɪbən/)* ![[ribbon.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She tied a ribbon around the gift box.<br>*(-> Cô ấy buộc một dải ruy băng quanh hộp quà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long, narrow strip of material used to tie things together or as a decoration.

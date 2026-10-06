@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Compensate
 *v.*
 > /ˈkɒm.pən.seɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Compensate::Đền bù, trả công, bồi thường *(Phát âm: /ˈkɒm.pən.seɪt/)* ![[compensate.mp3]]<br><br>👪 **Word Family:** compensation, compensatory<br><br>💬 **Ví dụ:** Nothing can compensate for the loss of a loved one.<br>*(-> Không gì có thể bù đắp được sự mất đi của một người thân yêu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To pay someone money in exchange for work or to make up for loss or injury

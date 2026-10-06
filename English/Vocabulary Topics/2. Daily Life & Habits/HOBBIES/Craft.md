@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Craft
 *noun*
 > /krɑːft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Craft::Thủ công *(Phát âm: /krɑːft/)* ![[craft.mp3]]<br><br>👪 **Word Family:** Craftsman (n), Craftsmanship (n)<br><br>💬 **Ví dụ:** She makes a living selling her handmade crafts.<br>*(-> Cô ấy kiếm sống bằng cách bán đồ thủ công làm bằng tay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving skill in making things by hand.

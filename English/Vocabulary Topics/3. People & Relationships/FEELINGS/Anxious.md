@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Anxious
 *adj*
 > /ˈæŋkʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Anxious::Lo âu, băn khoăn *(Phát âm: /ˈæŋkʃəs/)* ![[anxious.mp3]]<br><br>👪 **Word Family:** anxiety (n), anxiously (adv)<br><br>💬 **Ví dụ:** I am anxious about my health.<br>*(-> Tôi lo âu về sức khỏe của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Experiencing worry, unease, or nervousness.

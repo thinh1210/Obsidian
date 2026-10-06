@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Collar
 *noun*
 > /ˈkɑː.lɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Collar::Cổ áo *(Phát âm: /ˈkɑː.lɚ/)* ![[collar.mp3]]<br><br>👪 **Word Family:** collarless (adj)<br><br>💬 **Ví dụ:** He popped his collar.<br>*(-> Anh ta dựng đứng cổ áo lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part around the neck of a piece of clothing.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Wind
 *Noun*
 > /wɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Wind::Gió *(Phát âm: /wɪnd/)* ![[wind.mp3]]<br><br>👪 **Word Family:** windy, windless<br><br>💬 **Ví dụ:** The wind blew my hat off.<br>*(-> Gió thổi bay chiếc mũ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The perceptible natural movement of the air currents.

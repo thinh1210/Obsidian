@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Cruel
 *adj.*
 > /ˈkruː.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Cruel::Độc ác, tàn nhẫn, cố tình gây đau đớn cho sinh linh khác *(Phát âm: /ˈkruː.əl/)* ![[cruel.mp3]]<br><br>👪 **Word Family:** cruelty (n), cruelly (adv)<br><br>💬 **Ví dụ:** It is unlawful and cruel to abandon pets on the highway.<br>*(-> Bỏ rơi thú cưng trên đường cao tốc là hành vi phạm pháp và tàn nhẫn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely unkind and causing pain to people or animals intentionally.

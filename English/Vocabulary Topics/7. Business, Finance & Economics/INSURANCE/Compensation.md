@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Compensation
 *n.*
 > /ˌkɒmpenˈseɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Compensation::Tiền bồi thường, sự bồi thường *(Phát âm: /ˌkɒmpenˈseɪʃn/)* ![[compensation.mp3]]<br><br>👪 **Word Family:** compensate, compensatory<br><br>💬 **Ví dụ:** He received substantial compensation after the car crash.<br>*(-> Anh ấy đã nhận được khoản bồi thường đáng kể sau vụ va chạm xe hơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Something, typically money, awarded to someone as a recompense for loss, injury, or suffering.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Ratify
 *v*
 > /ˈræt.ɪ.faɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Ratify::Phê chuẩn / phê duyệt (hiệp ước, hiệp định) *(Phát âm: /ˈræt.ɪ.faɪ/)* ![[ratify.mp3]]<br><br>👪 **Word Family:** ratification (n), ratified (adj)<br><br>💬 **Ví dụ:** Parliament voted to ratify the new trade deal with the EU.<br>*(-> Quốc hội bỏ phiếu phê chuẩn hiệp định thương mại mới với EU.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To formally approve an agreement, treaty, or law, making it legally valid.

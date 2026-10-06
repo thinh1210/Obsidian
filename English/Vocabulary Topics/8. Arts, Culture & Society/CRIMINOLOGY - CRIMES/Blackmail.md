@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Blackmail
 *noun*
 > /ˈblækmeɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Blackmail::Sự tống tiền *(Phát âm: /ˈblækmeɪl/)* ![[blackmail.mp3]]<br><br>👪 **Word Family:** blackmailer (n), blackmail (v)<br><br>💬 **Ví dụ:** He refused to give in to her blackmail.<br>*(-> Anh ta từ chối thỏa hiệp với sự tống tiền của cô ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action of demanding money from a person in return for not revealing compromising information about them

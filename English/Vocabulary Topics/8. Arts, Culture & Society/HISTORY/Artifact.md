@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Artifact
 *noun*
 > /ˈɑː.tə.fækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Artifact::Cổ vật, hiện vật lịch sử *(Phát âm: /ˈɑː.tə.fækt/)* ![[artifact.mp3]]<br><br>👪 **Word Family:** artificer (n), artificial (adj)<br><br>💬 **Ví dụ:** The museum displays artifacts found during the excavation.<br>*(-> Bảo tàng trưng bày các hiện vật được tìm thấy trong quá trình khai quật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object made by a human being, typically an item of cultural or historical interest.

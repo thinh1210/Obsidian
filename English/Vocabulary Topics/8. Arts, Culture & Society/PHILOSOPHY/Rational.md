@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Rational
 *adj.*
 > /ˈræʃ.ən.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Rational::Hợp lý, có lý tính *(Phát âm: /ˈræʃ.ən.əl/)* ![[rational.mp3]]<br><br>👪 **Word Family:** rationality, rationally, rationalize<br><br>💬 **Ví dụ:** Try to remain rational and don't let your emotions take over.<br>*(-> Hãy cố gắng giữ lý trí và đừng để cảm xúc lấn át.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Based on or in accordance with reason or logic.

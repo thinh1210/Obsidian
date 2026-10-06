@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Cave
 *n.*
 > /keɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Cave::Hang động, hốc đá rỗng tự nhiên hình thành trong lòng đất hoặc sườn núi *(Phát âm: /keɪv/)* ![[cave.mp3]]<br><br>👪 **Word Family:** cavern (n), cavernous (adj), caveman (n)<br><br>💬 **Ví dụ:** Spelunkers turned on their headlamps before venturing deep into the dark cave.<br>*(-> Những người thám hiểm hang động bật đèn pin đội đầu trước khi tiến sâu vào hang tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large natural hole in the side of a cliff or hill, or under the ground.

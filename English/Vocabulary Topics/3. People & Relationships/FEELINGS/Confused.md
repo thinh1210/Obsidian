@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Confused
 *adj*
 > /kənˈfjuːzd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Confused::Bối rối, nhầm lẫn *(Phát âm: /kənˈfjuːzd/)* ![[confused.mp3]]<br><br>👪 **Word Family:** confusion (n), confusing (adj)<br><br>💬 **Ví dụ:** I am confused about the instructions.<br>*(-> Tôi bối rối về các hướng dẫn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unable to think clearly; bewildered.

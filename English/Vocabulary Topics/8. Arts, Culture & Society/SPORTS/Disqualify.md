@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Disqualify
 *v.*
 > /dɪsˈkwɒl.ɪ.faɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Disqualify::Truất quyền thi đấu, bác bỏ tư cách *(Phát âm: /dɪsˈkwɒl.ɪ.faɪ/)* ![[disqualify.mp3]]<br><br>👪 **Word Family:** disqualification, disqualified<br><br>💬 **Ví dụ:** He was disqualified from the race for false starting.<br>*(-> Anh ấy đã bị truất quyền thi đấu vì xuất phát sai luật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Declare (someone) ineligible for an office, activity, or competition because of a breach of rules or a lack of necessary qualifications.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Paleoanthropology
 *n.*
 > /ˌpæl.i.əʊˌæn.θrəˈpɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Paleoanthropology::Cổ nhân học *(Phát âm: /ˌpæl.i.əʊˌæn.θrəˈpɒl.ə.dʒi/)* ![[paleoanthropology.mp3]]<br><br>👪 **Word Family:** paleoanthropologist, paleoanthropological<br><br>💬 **Ví dụ:** He decided to study paleoanthropology to learn about human origins.<br>*(-> Anh ấy quyết định học ngành cổ nhân học để tìm hiểu về nguồn gốc loài người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of anthropology concerned with fossil hominids.

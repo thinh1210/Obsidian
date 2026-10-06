@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Climatology
 *noun*
 > /ˌklaɪməˈtɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Climatology::Khí hậu học *(Phát âm: /ˌklaɪməˈtɒlədʒi/)* ![[climatology.mp3]]<br><br>👪 **Word Family:** Climate (noun), climatological (adj), climatologist (noun)<br><br>💬 **Ví dụ:** She decided to pursue a degree in climatology at university.<br>*(-> Cô ấy quyết định theo đuổi bằng cấp về khí hậu học tại trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of climate

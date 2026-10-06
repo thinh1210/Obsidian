@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # partisan
 *adjective*
 > /ˈpɑːrtəzn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+partisan::Mang tính đảng phái, bè phái, thiên vị phe cánh *(Phát âm: /ˈpɑːrtəzn/)* ![[partisan.mp3]]<br><br>👪 **Word Family:** partisanship (n)<br><br>💬 **Ví dụ:** The news channel was criticized for its highly partisan coverage of the election.<br>*(-> Kênh tin tức bị chỉ trích vì đưa tin mang tính đảng phái cao về cuộc bầu cử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Prejudiced in favor of a particular cause; strongly supporting one political party.

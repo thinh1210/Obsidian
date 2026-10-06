@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # trailblazer
 *n.*
 > /ˈtreɪlˌbleɪ.zər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Trailblazer::Người tiên phong mở đường *(Phát âm: /ˈtreɪlˌbleɪ.zər/)* ![[trailblazer.mp3]]<br><br>👪 **Word Family:** trailblazing (adj)<br><br>💬 **Ví dụ:** Steve Jobs was a trailblazer in the personal computer industry.<br>*(-> Steve Jobs là một người tiên phong mở đường trong ngành công nghiệp máy tính cá nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is the first to do something; an innovator

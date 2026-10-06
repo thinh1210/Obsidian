@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Trolley
 *n*
 > /ˈtrɒl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Trolley::Xe đẩy *(Phát âm: /ˈtrɒl.i/)* ![[trolley.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Get a trolley.<br>*(-> Lấy một cái xe đẩy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large basket on wheels

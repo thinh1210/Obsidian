@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Employee
 *n.*
 > /ɪmˈplɔɪ.iː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Employee::Nhân viên *(Phát âm: /ɪmˈplɔɪ.iː/)* ![[employee.mp3]]<br><br>👪 **Word Family:** Employer, Employment<br><br>💬 **Ví dụ:** She is a hard-working employee.<br>*(-> Cô ấy là một nhân viên chăm chỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person employed for wages or salary.

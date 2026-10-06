@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Suit
 *noun*
 > /suːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Suit::Bộ com lê, bộ vest *(Phát âm: /suːt/)* ![[suit.mp3]]<br><br>👪 **Word Family:** suitable (adj)<br><br>💬 **Ví dụ:** He looks handsome in a suit.<br>*(-> Anh ấy trông bảnh trai trong bộ com lê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of outer clothes made of the same fabric.

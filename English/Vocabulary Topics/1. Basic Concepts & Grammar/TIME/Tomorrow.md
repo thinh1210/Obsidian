@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Tomorrow
 *n./adv.*
 > /təˈmɒrəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Tomorrow::Ngày mai *(Phát âm: /təˈmɒrəʊ/)* ![[tomorrow.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I will go tomorrow.<br>*(-> Tôi sẽ đi vào ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The day after today

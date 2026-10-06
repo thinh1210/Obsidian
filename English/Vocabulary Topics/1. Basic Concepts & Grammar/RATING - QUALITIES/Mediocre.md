@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Mediocre
 *adj*
 > /ˌmiː.diˈəʊ.kər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
+
+## 🗂️ Flashcard
+Mediocre::Xoàng xĩnh, tầm thường *(Phát âm: /ˌmiː.diˈəʊ.kər/)* ![[mediocre.mp3]]<br><br>👪 **Word Family:** Mediocrity (noun)<br><br>💬 **Ví dụ:** The food was pretty mediocre.<br>*(-> Thức ăn khá tầm thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of only ordinary or moderate quality; not very good.

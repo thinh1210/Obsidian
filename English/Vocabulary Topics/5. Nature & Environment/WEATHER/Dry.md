@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Dry
 *adj.*
 > /draɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Dry::Khô, khô ráo *(Phát âm: /draɪ/)* ![[dry.mp3]]<br><br>👪 **Word Family:** Dry (verb), dryness (noun), dryly (adv)<br><br>💬 **Ví dụ:** Hang the wet clothes outside to get dry.<br>*(-> Treo quần áo ướt ra ngoài để chúng được khô ráo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from moisture or liquid; not wet

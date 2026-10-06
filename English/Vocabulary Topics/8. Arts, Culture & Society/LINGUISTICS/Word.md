@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Word
 *noun*
 > /wɜːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Word::từ, từ ngữ *(Phát âm: /wɜːd/)* ![[word.mp3]]<br><br>👪 **Word Family:** wording (n), wordplay (n), wordy (adj)<br><br>💬 **Ví dụ:** Can you spell this word for me, please?<br>*(-> Bạn có thể đánh vần từ này giúp tôi được không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a single unit of language that has meaning and can be spoken or written

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Skeleton
 *noun*
 > /ˈskelɪtn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Skeleton::Bộ xương, khung xương *(Phát âm: /ˈskelɪtn/)* ![[skeleton.mp3]]<br><br>👪 **Word Family:** skeletal (adj)<br><br>💬 **Ví dụ:** The science classroom has a model of a human skeleton.<br>*(-> Lớp học khoa học có một mô hình bộ xương người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An internal or external framework of bones, cartilage, or other rigid material supporting or containing the body of an animal or human

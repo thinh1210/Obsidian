@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Track
 *n.*
 > /træk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Track::Bản thu âm, bài hát trong album *(Phát âm: /træk/)* ![[track.mp3]]<br><br>👪 **Word Family:** tracklist (n)<br><br>💬 **Ví dụ:** The third track on the album is my absolute favorite.<br>*(-> Bản thu âm thứ ba trong album là bài hát yêu thích tuyệt đối của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A recording of one song or piece of music.

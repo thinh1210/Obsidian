@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # National park
 *n.*
 > /ˌnæʃnəl ˈpɑːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+National park::Vườn quốc gia, khu vực thiên nhiên được chính phủ bảo vệ nghiêm ngặt để bảo tồn sinh thái và phục vụ nghiên cứu *(Phát âm: /ˌnæʃnəl ˈpɑːk/)* ![[national_park.mp3]]<br><br>👪 **Word Family:** parkland (n)<br><br>💬 **Ví dụ:** Yellowstone was established in 1872 as the world's very first national park.<br>*(-> Yellowstone được thành lập vào năm 1872 với tư cách là vườn quốc gia đầu tiên trên thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A scenic or historically important area of countryside protected by a national government for enjoyment and conservation.

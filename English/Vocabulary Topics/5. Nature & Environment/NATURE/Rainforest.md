@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Rainforest
 *Noun*
 > /ˈreɪnfɒrɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Rainforest::Rừng mưa nhiệt đới *(Phát âm: /ˈreɪnfɒrɪst/)* ![[rainforest.mp3]]<br><br>👪 **Word Family:** forest<br><br>💬 **Ví dụ:** The Amazon is the largest tropical rainforest.<br>*(-> Amazon là rừng mưa nhiệt đới lớn nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A luxuriant, dense forest rich in biodiversity, found typically in tropical areas.

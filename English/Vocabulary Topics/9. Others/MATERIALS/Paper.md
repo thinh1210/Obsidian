@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Paper
 *noun.*
 > /ˈpeɪpə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Paper::Giấy *(Phát âm: /ˈpeɪpə(r)/)* ![[paper.mp3]]<br><br>👪 **Word Family:** paperless (Adjective), paperwork (Noun)<br><br>💬 **Ví dụ:** He wrote his phone number on a small sheet of paper.<br>*(-> Anh ấy đã viết số điện thoại của mình lên một mảnh giấy nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on.

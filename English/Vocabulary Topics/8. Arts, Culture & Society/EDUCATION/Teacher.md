@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Teacher
 *n.*
 > /ˈtiːtʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Teacher::Giáo viên, thầy cô giáo *(Phát âm: /ˈtiːtʃə(r)/)* ![[teacher.mp3]]<br><br>👪 **Word Family:** teach, teaching<br><br>💬 **Ví dụ:** She is my favorite English teacher.<br>*(-> Cô ấy là giáo viên tiếng Anh yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who teaches, especially in a school

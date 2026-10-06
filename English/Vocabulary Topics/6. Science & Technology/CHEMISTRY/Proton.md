@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Proton
 *noun*
 > /ˈprəʊ.tɒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Proton::Proton *(Phát âm: /ˈprəʊ.tɒn/)* ![[proton.mp3]]<br><br>👪 **Word Family:** protonic (adj)<br><br>💬 **Ví dụ:** The number of protons in an atom determines its atomic number.<br>*(-> Số lượng proton trong một nguyên tử xác định số hiệu nguyên tử của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stable subatomic particle occurring in all atomic nuclei, with a positive electric charge.

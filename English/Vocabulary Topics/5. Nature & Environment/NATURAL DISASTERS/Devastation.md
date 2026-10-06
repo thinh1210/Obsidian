@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Devastation
 *noun*
 > /ˌdev.əˈsteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Devastation::Sự tàn phá hoàn toàn, sự hủy hoại *(Phát âm: /ˌdev.əˈsteɪ.ʃən/)* ![[devastation.mp3]]<br><br>👪 **Word Family:** devastate (v), devastating (adj), devastatingly (adv)<br><br>💬 **Ví dụ:** The hurricane left a trail of devastation across the island.<br>*(-> Cơn bão đã để lại một vệt tàn phá hoang tàn trên khắp hòn đảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great destruction or damage.

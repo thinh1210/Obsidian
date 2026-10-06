@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Sparkle
 *verb*
 > /ˈspɑː.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
+
+## 🗂️ Flashcard
+Sparkle::Lấp lánh *(Phát âm: /ˈspɑː.kəl/)* ![[sparkle.mp3]]<br><br>👪 **Word Family:** Sparkly<br><br>💬 **Ví dụ:** Her diamond sparkles.<br>*(-> Kim cương của cô ấy lấp lánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shine brightly with flashes of light.

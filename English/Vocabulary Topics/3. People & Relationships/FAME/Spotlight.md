@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Spotlight
 *n.*
 > /ˈspɒtlaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Spotlight::Sự chú ý của công chúng *(Phát âm: /ˈspɒtlaɪt/)* ![[spotlight.mp3]]<br><br>👪 **Word Family:** spotlit (adj.)<br><br>💬 **Ví dụ:** She enjoys being in the spotlight.<br>*(-> Cô ấy thích được chú ý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Intense public attention or scrutiny.

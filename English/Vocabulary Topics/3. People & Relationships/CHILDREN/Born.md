@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Born
 *adj*
 > /bɔːrn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Born::Được sinh ra *(Phát âm: /bɔːrn/)* ![[born.mp3]]<br><br>👪 **Word Family:** Birth (n)<br><br>💬 **Ví dụ:** The baby was born yesterday.<br>*(-> Em bé được sinh ra hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Existing as a result of birth.

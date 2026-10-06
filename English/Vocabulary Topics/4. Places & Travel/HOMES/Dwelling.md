@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Dwelling
 *noun*
 > /ˈdwɛlɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Dwelling::Nơi ở *(Phát âm: /ˈdwɛlɪŋ/)* ![[dwelling.mp3]]<br><br>👪 **Word Family:** dwell (v)<br><br>💬 **Ví dụ:** The ancient dwelling was discovered.<br>*(-> Nơi ở cổ đại đã được phát hiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A house, apartment, or other place of residence.
@@ -34,4 +44,4 @@
 - dwell (v)
 
 **Synonyms:** habitation, residence
-**Antonyms:** 
+**Antonyms:**

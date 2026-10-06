@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Solvency
 *noun.*
 > /ˈsɒlvənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
+
+## 🗂️ Flashcard
+Solvency::Khả năng thanh toán nợ *(Phát âm: /ˈsɒlvənsi/)* ![[solvency.mp3]]<br><br>👪 **Word Family:** solvent (adj)<br><br>💬 **Ví dụ:** Regulators monitor the solvency of insurance companies to protect policyholders.<br>*(-> Các cơ quan quản lý giám sát khả năng thanh toán nợ của các công ty bảo hiểm để bảo vệ người mua bảo hiểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The possession of assets excess of liabilities; ability to pay one's long-term debts.

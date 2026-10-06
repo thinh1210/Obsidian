@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Weaving
 *n.*
 > /ˈwiː.vɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Weaving::Nghề thủ công hoặc thú vui dệt vải, đan sợi trên khung cửi *(Phát âm: /ˈwiː.vɪŋ/)* ![[weaving.mp3]]<br><br>👪 **Word Family:** weave (v), weaver (n), woven (adj)<br><br>💬 **Ví dụ:** She finds hand weaving on a desktop loom deeply calming and satisfying.<br>*(-> Cô ấy nhận thấy việc dệt vải bằng tay trên khung cửi nhỏ mang lại cảm giác vô cùng bình yên và thỏa mãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The craft or hobby of forming fabric by interlacing threads on a loom.

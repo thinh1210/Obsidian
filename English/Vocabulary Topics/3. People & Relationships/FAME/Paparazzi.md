@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Paparazzi
 *n.*
 > /ˌpæpəˈrætsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
+
+## 🗂️ Flashcard
+Paparazzi::Thợ săn ảnh *(Phát âm: /ˌpæpəˈrætsi/)* ![[paparazzi.mp3]]<br><br>👪 **Word Family:** paparazzo (n.)<br><br>💬 **Ví dụ:** The paparazzi chased the car.<br>*(-> Thợ săn ảnh đã đuổi theo chiếc xe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Photographers who follow famous people to take pictures of them.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Repair
 *verb*
 > /rɪˈpeə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Repair::Sửa chữa *(Phát âm: /rɪˈpeə(r)/)* ![[repair.mp3]]<br><br>👪 **Word Family:** repairable (adj), reparation (n)<br><br>💬 **Ví dụ:** He knows how to repair broken computers and other electronic gadgets.<br>*(-> Anh ấy biết cách sửa chữa máy tính bị hỏng và các thiết bị điện tử khác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To restore something damaged, faulty, or worn to a good condition.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Road
 *n.*
 > /roʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Road::Con đường *(Phát âm: /roʊd/)* ![[road.mp3]]<br><br>👪 **Word Family:** roadblock (n)<br><br>💬 **Ví dụ:** The road to my house is bumpy.<br>*(-> Đường về nhà tôi rất gồ ghề.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wide way leading from one place to another.

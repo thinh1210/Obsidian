@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Today
 *adv, noun*
 > /təˈdeɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Today::Hôm nay *(Phát âm: /təˈdeɪ/)* ![[today.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Today is Monday.<br>*(-> Hôm nay là thứ Hai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** On or during this present day.

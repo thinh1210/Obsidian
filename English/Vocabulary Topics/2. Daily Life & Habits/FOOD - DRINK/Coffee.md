@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Coffee
 *n.*
 > /ˈkɒf.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Coffee::Cà phê *(Phát âm: /ˈkɒf.i/)* ![[coffee.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I like black coffee.<br>*(-> Tôi thích cà phê đen.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A dark brown drink made from roasted coffee beans.

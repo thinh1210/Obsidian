@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Sing
 *v*
 > /sɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Sing::Hát *(Phát âm: /sɪŋ/)* ![[sing.mp3]]<br><br>👪 **Word Family:** singer (n), singing (n), song (n)<br><br>💬 **Ví dụ:** She likes to sing in the shower.<br>*(-> Cô ấy thích hát trong lúc tắm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make musical sounds with your voice.

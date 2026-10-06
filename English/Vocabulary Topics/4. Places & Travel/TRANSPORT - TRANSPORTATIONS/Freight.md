@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Freight
 *noun*
 > /freɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Freight::Hàng hóa vận chuyển, cước phí vận chuyển *(Phát âm: /freɪt/)* ![[freight.mp3]]<br><br>👪 **Word Family:** Noun: freight (hàng hóa chở đi), freighter (tàu chở hàng), Verb: freight (vận chuyển hàng hóa)<br><br>💬 **Ví dụ:** This railway line is used only for freight.<br>*(-> Tuyến đường sắt này chỉ được sử dụng cho việc chở hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Goods transported by truck, train, ship, or aircraft.

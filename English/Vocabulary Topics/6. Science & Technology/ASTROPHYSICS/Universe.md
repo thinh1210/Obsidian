@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Universe
 *noun*
 > /ˈjuː.nɪ.vɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Universe::Vũ trụ *(Phát âm: /ˈjuː.nɪ.vɜːs/)* ![[universe.mp3]]<br><br>👪 **Word Family:** universal (adj), universally (adv)<br><br>💬 **Ví dụ:** The universe is so big that we cannot see its edge.<br>*(-> Vũ trụ lớn đến nỗi chúng ta không thể nhìn thấy rìa của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All existing matter and space considered as a whole.

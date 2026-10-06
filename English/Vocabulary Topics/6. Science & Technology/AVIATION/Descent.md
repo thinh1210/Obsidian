@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Descent
 *noun*
 > /dɪˈsent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Descent::Sự hạ độ cao / xuống dốc *(Phát âm: /dɪˈsent/)* ![[descent.mp3]]<br><br>👪 **Word Family:** descend (v), descending (adj), ascent (n)<br><br>💬 **Ví dụ:** Please stow your tray tables as we begin our descent into London.<br>*(-> Vui lòng cất bàn ăn vì chúng ta bắt đầu hạ độ cao xuống London.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of moving downward to a lower altitude, usually before landing.

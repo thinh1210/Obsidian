@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Support
 *verb/noun*
 > /səˈpɔːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Support::Hỗ trợ, ủng hộ *(Phát âm: /səˈpɔːrt/)* ![[support.mp3]]<br><br>👪 **Word Family:** supportive<br><br>💬 **Ví dụ:** Friends offer support in hard times.<br>*(-> Bạn bè cung cấp sự hỗ trợ trong những lúc khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bear all or part of the weight of; hold up.

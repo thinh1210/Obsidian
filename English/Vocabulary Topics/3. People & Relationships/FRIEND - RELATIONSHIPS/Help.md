@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Help
 *verb*
 > /help/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Help::Giúp đỡ *(Phát âm: /help/)* ![[help.mp3]]<br><br>👪 **Word Family:** helpful<br><br>💬 **Ví dụ:** Can you help me?<br>*(-> Bạn có thể giúp tôi không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make it easier for someone to do something by offering one's services or resources.

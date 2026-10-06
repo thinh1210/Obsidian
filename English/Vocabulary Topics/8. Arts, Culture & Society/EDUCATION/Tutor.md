@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Tutor
 *n./v.*
 > /ˈtjuː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Tutor::Gia sư, giáo viên dạy kèm một kèm một hoặc nhóm nhỏ *(Phát âm: /ˈtjuː.tər/)* ![[tutor.mp3]]<br><br>👪 **Word Family:** tutorial (n/adj), tutelage (n)<br><br>💬 **Ví dụ:** Hiring a private math tutor helped her raise her test scores significantly.<br>*(-> Thuê gia sư dạy toán riêng đã giúp cô ấy nâng cao điểm thi rõ rệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A private teacher, typically one who teaches a single student or a very small group.

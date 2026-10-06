@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Sunshine
 *n.*
 > /ˈsʌnʃaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Sunshine::Ánh nắng mặt trời chan hòa, ánh sáng mặt trời *(Phát âm: /ˈsʌnʃaɪn/)* ![[sunshine.mp3]]<br><br>👪 **Word Family:** sun (n), sunny (adj)<br><br>💬 **Ví dụ:** We sat on the park bench and enjoyed the warm sunshine.<br>*(-> Chúng tôi ngồi trên ghế đá công viên và tận hưởng ánh nắng ấm áp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The light and heat that come from the sun.

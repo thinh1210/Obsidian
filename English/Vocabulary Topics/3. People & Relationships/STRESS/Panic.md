@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Panic
 *n.*
 > /ˈpænɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Panic::Sự hoảng loạn *(Phát âm: /ˈpænɪk/)* ![[panic.mp3]]<br><br>👪 **Word Family:** panic (v), panicky (adj)<br><br>💬 **Ví dụ:** He left in a panic.<br>*(-> Anh ấy rời đi trong sự hoảng loạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden overwhelming fear

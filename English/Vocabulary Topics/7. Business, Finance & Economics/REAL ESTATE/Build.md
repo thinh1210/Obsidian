@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Build
 *v.*
 > /bɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Build::Xây dựng *(Phát âm: /bɪld/)* ![[build.mp3]]<br><br>👪 **Word Family:** building (n), builder (n)<br><br>💬 **Ví dụ:** They plan to build a small cottage in the countryside.<br>*(-> Họ có kế hoạch xây một ngôi nhà tranh nhỏ ở vùng quê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To construct something, typically something large, by putting parts or materials together.

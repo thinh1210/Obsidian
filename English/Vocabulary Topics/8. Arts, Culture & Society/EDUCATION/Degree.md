@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Degree
 *n.*
 > /dɪˈɡriː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Degree::Bằng cấp, học vị *(Phát âm: /dɪˈɡriː/)* ![[degree.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He got a degree in computer science.<br>*(-> Anh ấy đã lấy được bằng khoa học máy tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An academic rank or distinction conferred by a college or university

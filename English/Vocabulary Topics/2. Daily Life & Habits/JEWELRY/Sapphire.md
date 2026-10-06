@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Sapphire
 *noun*
 > /ˈsæf.aɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Sapphire::Ngọc bích *(Phát âm: /ˈsæf.aɪər/)* ![[sapphire.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Her ring has a large sapphire.<br>*(-> Nhẫn của cô ấy có một viên ngọc bích lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A blue precious stone.

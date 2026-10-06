@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # dedicate
 *v.*
 > /ˈded.ɪ.keɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Dedicate::Cống hiến, tận tụy *(Phát âm: /ˈded.ɪ.keɪt/)* ![[dedicate.mp3]]<br><br>👪 **Word Family:** dedication (n), dedicated (adj)<br><br>💬 **Ví dụ:** He dedicated his life to helping the poor.<br>*(-> Anh ấy đã cống hiến cả đời mình để giúp đỡ người nghèo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give all of your energy, time, etc. to something

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Polyglot
 *n./adj.*
 > /ˈpɒliɡlɒt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
+
+## 🗂️ Flashcard
+Polyglot::Người biết nhiều thứ tiếng, đa ngôn ngữ *(Phát âm: /ˈpɒliɡlɒt/)* ![[polyglot.mp3]]<br><br>👪 **Word Family:** polyglottism, polyglotic<br><br>💬 **Ví dụ:** He is a polyglot who speaks six languages fluently.<br>*(-> Anh ấy là một người biết nhiều thứ tiếng, nói trôi chảy sáu ngôn ngữ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Knowing or using several languages

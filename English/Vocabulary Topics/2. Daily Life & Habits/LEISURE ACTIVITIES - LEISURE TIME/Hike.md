@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Hike
 *v*
 > /haɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Hike::Đi bộ đường dài *(Phát âm: /haɪk/)* ![[hike.mp3]]<br><br>👪 **Word Family:** Hiker (n), Hiking (n)<br><br>💬 **Ví dụ:** We hiked up the hill.<br>*(-> Chúng tôi đi bộ lên đồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Walk for a long distance, especially across country.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Ridesharing
 *noun*
 > /ˈraɪdʃerɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Ridesharing::Dịch vụ đi chung xe, chia sẻ chuyến đi (như Uber, Grab) *(Phát âm: /ˈraɪdʃerɪŋ/)* ![[ridesharing.mp3]]<br><br>👪 **Word Family:** Noun: ridesharing (việc chia sẻ chuyến đi), ridesharer (người đi chung xe)<br><br>💬 **Ví dụ:** Ridesharing has transformed how people travel in major cities.<br>*(-> Dịch vụ đi chung xe đã làm thay đổi cách mọi người di chuyển trong các thành phố lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of sharing rides, especially arranged by means of a website or app.

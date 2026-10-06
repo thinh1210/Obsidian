@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Passport
 *Noun*
 > /ˈpæspɔrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Passport::Hộ chiếu *(Phát âm: /ˈpæspɔrt/)* ![[passport.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** Don't forget your passport.<br>*(-> Đừng quên hộ chiếu của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official document containing personal information, needed for travel.

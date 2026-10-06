@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Adornment
 *noun*
 > /əˈdɔːn.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Adornment::Sự tô điểm *(Phát âm: /əˈdɔːn.mənt/)* ![[adornment.mp3]]<br><br>👪 **Word Family:** Adorn<br><br>💬 **Ví dụ:** Jewelry is an adornment.<br>*(-> Trang sức là sự tô điểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing which adorns or decorates.

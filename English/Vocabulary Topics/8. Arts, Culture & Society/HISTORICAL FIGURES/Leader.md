@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Leader
 *n.*
 > /ˈliːdə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Leader::Nhà lãnh đạo, người dẫn đường *(Phát âm: /ˈliːdə(r)/)* ![[leader.mp3]]<br><br>👪 **Word Family:** lead, leadership<br><br>💬 **Ví dụ:** She is a natural leader in her class.<br>*(-> Cô ấy là một nhà lãnh đạo bẩm sinh trong lớp học của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who rules or guides others

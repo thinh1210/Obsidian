@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Demand
 *noun*
 > /dɪˈmænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Demand::nhu cầu, yêu cầu *(Phát âm: /dɪˈmænd/)* ![[demand.mp3]]<br><br>👪 **Word Family:** demanding (adjective)<br><br>💬 **Ví dụ:** There is a growing demand for organic food in our town.<br>*(-> Có nhu cầu ngày càng tăng đối với thực phẩm hữu cơ trong thị trấn của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a need for something to be sold or provided; the desire of customers to buy a product.

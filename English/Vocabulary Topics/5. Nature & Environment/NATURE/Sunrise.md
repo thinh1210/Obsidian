@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Sunrise
 *n.*
 > /ˈsʌnraɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Sunrise::Bình minh, khoảnh khắc rạng rỡ khi vầng thái dương nhô lên khỏi đường chân trời phía đông *(Phát âm: /ˈsʌnraɪz/)* ![[sunrise.mp3]]<br><br>👪 **Word Family:** sunrisen (adj)<br><br>💬 **Ví dụ:** We woke up at five in the morning to witness the glorious sunrise from the mountain peak.<br>*(-> Chúng tôi thức dậy lúc 5 giờ sáng để chiêm ngưỡng cảnh bình minh huy hoàng từ trên đỉnh núi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time in the morning when the sun appears above the eastern horizon.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Interdisciplinary
 *adj.*
 > /ˌɪn.tə.dɪˈsɪp.lɪ.ner.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Interdisciplinary::Liên ngành, kết hợp nhiều lĩnh vực *(Phát âm: /ˌɪn.tə.dɪˈsɪp.lɪ.ner.i/)* ![[interdisciplinary.mp3]]<br><br>👪 **Word Family:** interdisciplinary (adj), discipline (n), disciplinary (adj)<br><br>💬 **Ví dụ:** Her project is interdisciplinary, combining art and technology.<br>*(-> Dự án của cô ấy mang tính liên ngành, kết hợp nghệ thuật và công nghệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to more than one branch of knowledge or field of study.

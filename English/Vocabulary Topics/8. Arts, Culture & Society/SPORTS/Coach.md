@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Coach
 *n.*
 > /kəʊtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Coach::Huấn luyện viên *(Phát âm: /kəʊtʃ/)* ![[coach.mp3]]<br><br>👪 **Word Family:** coaching, coached<br><br>💬 **Ví dụ:** Our coach gives us useful advice before the match.<br>*(-> Huấn luyện viên của chúng tôi đưa ra những lời khuyên hữu ích trước trận đấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who trains and guides sports players or teams.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Protagonist
 *n.*
 > /prəˈtæɡənɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Protagonist::Nhân vật chính diện, nhân vật chính *(Phát âm: /prəˈtæɡənɪst/)* ![[protagonist.mp3]]<br><br>👪 **Word Family:** protagonism<br><br>💬 **Ví dụ:** The protagonist of the film is a detective searching for his missing daughter.<br>*(-> Nhân vật chính của bộ phim là một thám tử đang tìm kiếm cô con gái mất tích của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The leading character or one of the major characters in a drama, movie, novel, or other fictional text

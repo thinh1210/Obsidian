@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Companion
 *noun*
 > /kəmˈpæn.jən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Companion::Người đồng hành *(Phát âm: /kəmˈpæn.jən/)* ![[companion.mp3]]<br><br>👪 **Word Family:** companionship<br><br>💬 **Ví dụ:** My dog is my constant companion.<br>*(-> Con chó của tôi là người bạn đồng hành thường xuyên của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person or animal with whom one spends a lot of time or with whom one travels.

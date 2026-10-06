@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Traditional
 *adj.*
 > /trəˈdɪʃənl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Bản sắc, Lối sống & Nét thanh bình
+
+## 🗂️ Flashcard
+Traditional::Truyền thống *(Phát âm: /trəˈdɪʃənl/)* ![[traditional.mp3]]<br><br>👪 **Word Family:** Tradition (n.)<br><br>💬 **Ví dụ:** I like the traditional houses in my village.<br>*(-> Tôi thích những ngôi nhà truyền thống ở làng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing in or as part of a tradition; long-established.

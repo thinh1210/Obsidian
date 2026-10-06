@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Advocate
 *verb/noun*
 > /ˈæd.və.keɪt/ (v), /ˈæd.və.kət/ (n)
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Advocate::Ủng hộ, người bào chữa, luật sư biện hộ *(Phát âm: /ˈæd.və.keɪt/ (v), /ˈæd.və.kət/ (n))* ![[advocate.mp3]]<br><br>👪 **Word Family:** Advocate (v/n), Advocacy (n)<br><br>💬 **Ví dụ:** She is a strong advocate for animal rights and works with several charities.<br>*(-> Cô ấy là một người ủng hộ mạnh mẽ cho quyền động vật và làm việc với nhiều tổ chức từ thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Publicly recommend or support; a person who publicly supports or recommends a particular cause or policy.

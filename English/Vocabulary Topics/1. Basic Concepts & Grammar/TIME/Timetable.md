@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Timetable
 *n.*
 > /ˈtaɪmteɪbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Timetable::Thời khóa biểu, lịch trình *(Phát âm: /ˈtaɪmteɪbl/)* ![[timetable.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Check the bus timetable.<br>*(-> Kiểm tra lịch trình xe buýt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chart showing the times at which events will happen

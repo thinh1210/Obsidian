@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Fear
 *noun*
 > /fɪr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Fear::Nỗi sợ *(Phát âm: /fɪr/)* ![[fear.mp3]]<br><br>👪 **Word Family:** fearful (adj)<br><br>💬 **Ví dụ:** She has a fear of heights.<br>*(-> Cô ấy sợ độ cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An unpleasant emotion caused by the belief that someone or something is dangerous.

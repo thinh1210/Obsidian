@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Maternal
 *Adj*
 > /məˈtɜː.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Maternal::Thuộc về mẹ, có tình mẫu tử *(Phát âm: /məˈtɜː.nəl/)* ![[maternal.mp3]]<br><br>👪 **Word Family:** Maternity (Noun): Tình trạng làm mẹ<br><br>💬 **Ví dụ:** She felt a sudden maternal instinct towards the puppy.<br>*(-> Cô ấy đột nhiên cảm thấy tình mẫu tử với chú cún con.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Behaving or feeling in the way that a mother does towards her child; related to mother's side.

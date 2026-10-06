@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Babysitter
 *n.*
 > /ˈbeɪ.biˌsɪt.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Babysitter::Người trông trẻ, người giữ trẻ khi cha mẹ bận việc vắng nhà *(Phát âm: /ˈbeɪ.biˌsɪt.ər/)* ![[babysitter.mp3]]<br><br>👪 **Word Family:** babysit (v), babysitting (n)<br><br>💬 **Ví dụ:** They hired a trustworthy university student as a babysitter so they could enjoy an anniversary dinner.<br>*(-> Họ đã thuê một nữ sinh viên đại học đáng tin cậy làm người trông trẻ để có thể thưởng thức bữa tối kỷ niệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who takes care of children while their parents are away from home.

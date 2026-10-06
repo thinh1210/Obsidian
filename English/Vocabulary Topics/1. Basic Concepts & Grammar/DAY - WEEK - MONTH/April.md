@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # April
 *n.*
 > /ˈeɪ.prəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+April::Tháng Tư, tháng của mùa xuân ấm áp và ngày Cá tháng Tư *(Phát âm: /ˈeɪ.prəl/)* ![[april.mp3]]<br><br>👪 **Word Family:** Apr (viết tắt)<br><br>💬 **Ví dụ:** Be on guard on April first, because friends love to play harmless practical jokes.<br>*(-> Hãy cẩn thận vào ngày mùng một tháng Tư, vì bạn bè rất thích chơi những trò đùa vô hại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The fourth month of the calendar year, having 30 days.

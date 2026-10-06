@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Wholesale
 *noun*
 > /ˈhoʊlseɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Wholesale::Việc bán sỉ, bán buôn *(Phát âm: /ˈhoʊlseɪl/)* ![[wholesale.mp3]]<br><br>👪 **Word Family:** wholesaler (n), wholesale (adj/adv/v)<br><br>💬 **Ví dụ:** We buy our restaurant supplies at the local wholesale market to save money.<br>*(-> Chúng tôi mua đồ dùng cho nhà hàng tại chợ bán sỉ địa phương để tiết kiệm tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The selling of goods in large quantities to be retailed by others

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Belated
 *adj*
 > /bɪˈleɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Belated::Muộn màng, trễ *(Phát âm: /bɪˈleɪtɪd/)* ![[belated.mp3]]<br><br>👪 **Word Family:** belatedly (adv)<br><br>💬 **Ví dụ:** He offered a belated apology.<br>*(-> Anh ấy đã đưa ra một lời xin lỗi muộn màng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Coming or happening later than should have been the case.

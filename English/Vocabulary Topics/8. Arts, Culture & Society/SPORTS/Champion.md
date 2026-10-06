@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Champion
 *n.*
 > /ˈtʃæm.pi.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Champion::Nhà vô địch *(Phát âm: /ˈtʃæm.pi.ən/)* ![[champion.mp3]]<br><br>👪 **Word Family:** championship, championing<br><br>💬 **Ví dụ:** She became the world chess champion at the age of twenty.<br>*(-> Cô ấy đã trở thành nhà vô địch cờ vua thế giới ở tuổi hai mươi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has defeated or surpassed all rivals in a competition.

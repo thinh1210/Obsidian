@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Raw
 *adj.*
 > /rɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Raw::Sống, chưa nấu *(Phát âm: /rɔː/)* ![[raw.mp3]]<br><br>👪 **Word Family:** rawness<br><br>💬 **Ví dụ:** I like raw carrots.<br>*(-> Tôi thích cà rốt sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Not cooked.

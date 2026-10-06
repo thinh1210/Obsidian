@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Getaway
 *Noun*
 > /ˈɡɛtəˌweɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Getaway::Kỳ nghỉ ngắn/Nơi trốn tìm *(Phát âm: /ˈɡɛtəˌweɪ/)* ![[getaway.mp3]]<br><br>👪 **Word Family:** get away (v)<br><br>💬 **Ví dụ:** We planned a weekend getaway.<br>*(-> Chúng tôi lên kế hoạch một kỳ nghỉ cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short holiday or place where you can make a holiday.

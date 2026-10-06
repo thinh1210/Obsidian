@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # ID card
 *n.*
 > /ˌaɪˈdiː kɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
+
+## 🗂️ Flashcard
+ID card::Giấy tờ tùy thân hợp pháp chứng minh danh tính khi làm thủ tục đi lại *(Phát âm: /ˌaɪˈdiː kɑːd/)* ![[id_card.mp3]]<br><br>👪 **Word Family:** identity (n), identify (v), identification (n)<br><br>💬 **Ví dụ:** You can use a national ID card instead of a passport for domestic flights.<br>*(-> Bạn có thể dùng thẻ căn cước công dân thay cho hộ chiếu trên các chuyến bay nội địa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An identity card containing personal data and photo verifying a person's legal identity.

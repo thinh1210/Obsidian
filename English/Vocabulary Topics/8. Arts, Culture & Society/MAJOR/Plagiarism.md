@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Plagiarism
 *n.*
 > /ˈpleɪ.dʒər.ɪ.z(ə)m/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Plagiarism::Đạo văn, sao chép ý tưởng người khác *(Phát âm: /ˈpleɪ.dʒər.ɪ.z(ə)m/)* ![[plagiarism.mp3]]<br><br>👪 **Word Family:** plagiarism (n), plagiarize (v), plagiarist (n)<br><br>💬 **Ví dụ:** Submitting someone else's essay is plagiarism.<br>*(-> Nộp bài luận của người khác là đạo văn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of taking someone else's work or ideas and presenting them as one's own.

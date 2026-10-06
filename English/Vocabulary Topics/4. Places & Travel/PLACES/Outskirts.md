@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Outskirts
 *n.*
 > /ˈaʊt.skɝːts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
+
+## 🗂️ Flashcard
+Outskirts::Vùng ven, ngoại ô *(Phát âm: /ˈaʊt.skɝːts/)* ![[outskirts.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He built a house on the outskirts of London.<br>*(-> Anh ấy đã xây một ngôi nhà ở vùng ven London.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outer parts of a town or city.

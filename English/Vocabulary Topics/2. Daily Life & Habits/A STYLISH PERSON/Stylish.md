@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Stylish
 *adj.*
 > /ˈstaɪlɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Stylish::Phong cách, sành điệu *(Phát âm: /ˈstaɪlɪʃ/)* ![[stylish.mp3]]<br><br>👪 **Word Family:** Style (n), Stylishly (adv)<br><br>💬 **Ví dụ:** It's a very stylish apartment.<br>*(-> Đó là một căn hộ rất phong cách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot of style; elegant.

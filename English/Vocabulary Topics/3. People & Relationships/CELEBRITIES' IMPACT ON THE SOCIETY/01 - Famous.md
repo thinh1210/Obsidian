@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Famous
 *adj.*
 > /ˈfeɪ.məs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+01 - Famous::Nổi tiếng *(Phát âm: /ˈfeɪ.məs/)* ![[famous.mp3]]<br><br>👪 **Word Family:** Fame (n.)<br><br>💬 **Ví dụ:** He is famous.<br>*(-> Anh ấy nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Known about by many people.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Invoice
 *n.*
 > /ˈɪnvɔɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Invoice::Hóa đơn yêu cầu thanh toán *(Phát âm: /ˈɪnvɔɪs/)* ![[invoice.mp3]]<br><br>👪 **Word Family:** invoicing (n)<br><br>💬 **Ví dụ:** The plumber sent us an invoice for the repairs.<br>*(-> Thợ sửa ống nước đã gửi cho chúng tôi một hóa đơn yêu cầu thanh toán cho các sửa chữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A list of things provided or work done together with their cost, for payment at a later time

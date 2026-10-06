@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Character
 *noun*
 > /ˈkær.ək.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Character::Nhân vật *(Phát âm: /ˈkær.ək.tər/)* ![[character.mp3]]<br><br>👪 **Word Family:** characterize (v), characteristic (adj), characterization (n)<br><br>💬 **Ví dụ:** Harry Potter is my favorite book character.<br>*(-> Harry Potter là nhân vật sách yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person in a novel, play, or movie.

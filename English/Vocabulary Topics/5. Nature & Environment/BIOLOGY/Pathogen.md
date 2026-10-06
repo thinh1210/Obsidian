@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Pathogen
 *noun*
 > /ˈpæθ.ə.dʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Pathogen::Tác nhân gây bệnh, mầm bệnh *(Phát âm: /ˈpæθ.ə.dʒən/)* ![[pathogen.mp3]]<br><br>👪 **Word Family:** pathogenic, pathogenicity<br><br>💬 **Ví dụ:** The body's immune system fights off harmful pathogens.<br>*(-> Hệ thống miễn dịch của cơ thể chống lại các tác nhân gây bệnh có hại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bacterium, virus, or other microorganism that can cause disease.

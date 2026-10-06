@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Fly
 *verb*
 > /flaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Fly::Bay *(Phát âm: /flaɪ/)* ![[fly.mp3]]<br><br>👪 **Word Family:** fly (v/n), flight (n), flyer (n)<br><br>💬 **Ví dụ:** Most birds fly south for the winter.<br>*(-> Hầu hết các loài chim bay về phương nam vào mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move through the air using wings.

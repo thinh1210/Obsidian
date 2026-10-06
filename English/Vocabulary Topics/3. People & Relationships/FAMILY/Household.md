@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Household
 *n.*
 > /ˈhaʊs.həʊld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Household::Hộ gia đình, những người cùng sinh hoạt dưới một mái ấm *(Phát âm: /ˈhaʊs.həʊld/)* ![[household.mp3]]<br><br>👪 **Word Family:** householder (n)<br><br>💬 **Ví dụ:** All family members share the household chores equally on weekends.<br>*(-> Mọi thành viên trong gia đình chia sẻ đều việc nhà vào các ngày cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of people, usually a family, who live together in the same house.

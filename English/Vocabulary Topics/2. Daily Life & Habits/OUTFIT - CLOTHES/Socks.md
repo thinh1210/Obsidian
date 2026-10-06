@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Socks
 *noun*
 > /sɒks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Socks::Tất, vớ *(Phát âm: /sɒks/)* ![[socks.mp3]]<br><br>👪 **Word Family:** sock (v)<br><br>💬 **Ví dụ:** My socks are wet.<br>*(-> Tất của tôi bị ướt rồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing worn on the foot.

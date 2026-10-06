@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Steal
 *verb*
 > /stiːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Steal::Ăn trộm, ăn cắp *(Phát âm: /stiːl/)* ![[steal.mp3]]<br><br>👪 **Word Family:** stealth (n), stealthy (adj)<br><br>💬 **Ví dụ:** It is wrong to steal even small things.<br>*(-> Ăn cắp ngay cả những thứ nhỏ nhặt cũng là sai trái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take something without permission and without intending to return it

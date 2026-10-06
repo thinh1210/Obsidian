@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Sunglasses
 *noun*
 > /ˈsʌnɡlɑːsɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Sunglasses::Kính râm *(Phát âm: /ˈsʌnɡlɑːsɪz/)* ![[sunglasses.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She put on her sunglasses as she stepped outside.<br>*(-> Cô ấy đeo kính râm khi bước ra ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Glasses with dark lenses that you wear to protect your eyes from the sun.

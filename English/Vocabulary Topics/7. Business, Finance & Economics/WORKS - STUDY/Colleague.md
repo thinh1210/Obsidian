@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Colleague
 *n.*
 > /ˈkɒl.iːɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Colleague::Đồng nghiệp *(Phát âm: /ˈkɒl.iːɡ/)* ![[colleague.mp3]]<br><br>👪 **Word Family:** collegial<br><br>💬 **Ví dụ:** I am going to lunch with my colleagues.<br>*(-> Tôi đang đi ăn trưa với các đồng nghiệp của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person that you work with, especially in a profession

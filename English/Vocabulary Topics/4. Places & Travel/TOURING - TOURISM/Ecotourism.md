@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Ecotourism
 *Noun*
 > /ˈiː.koʊˌtʊr.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Ecotourism::Du lịch sinh thái *(Phát âm: /ˈiː.koʊˌtʊr.ɪ.zəm/)* ![[ecotourism.mp3]]<br><br>👪 **Word Family:** ecotourist (n)<br><br>💬 **Ví dụ:** Costa Rica is famous for its ecotourism.<br>*(-> Costa Rica nổi tiếng với du lịch sinh thái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The business of organizing holidays to places that are natural and beautiful in a way that does not harm the environment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Liability
 *n.*
 > /ˌlaɪəˈbɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
+
+## 🗂️ Flashcard
+Liability::Trách nhiệm pháp lý *(Phát âm: /ˌlaɪəˈbɪləti/)* ![[liability.mp3]]<br><br>👪 **Word Family:** liable<br><br>💬 **Ví dụ:** You need liability insurance in case someone gets hurt on your property.<br>*(-> Bạn cần bảo hiểm trách nhiệm pháp lý phòng trường hợp ai đó bị thương trên tài sản của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being responsible for something, especially by law.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Atom
 *noun*
 > /ˈæt.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Atom::Nguyên tử *(Phát âm: /ˈæt.əm/)* ![[atom.mp3]]<br><br>👪 **Word Family:** atomic (adj), atomize (v)<br><br>💬 **Ví dụ:** Water is made of hydrogen and oxygen atoms.<br>*(-> Nước được cấu tạo từ các nguyên tử hydro và oxy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The smallest unit of any chemical element, consisting of a nucleus surrounded by electrons.

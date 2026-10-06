@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Consumer
 *noun*
 > /kənˈsuːmər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Consumer::Người tiêu dùng *(Phát âm: /kənˈsuːmər/)* ![[consumer.mp3]]<br><br>👪 **Word Family:** consume (v), consumption (n), consumable (adj)<br><br>💬 **Ví dụ:** Consumers are demanding healthier food options in supermarkets.<br>*(-> Người tiêu dùng đang yêu cầu các lựa chọn thực phẩm lành mạnh hơn trong siêu thị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who purchases goods and services for personal use

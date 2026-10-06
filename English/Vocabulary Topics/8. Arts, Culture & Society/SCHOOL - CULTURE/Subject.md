@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Subject
 *noun*
 > /ˈsʌbdʒɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Subject::Môn học *(Phát âm: /ˈsʌbdʒɪkt/)* ![[subject.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Math is my favorite subject because I like playing with numbers.<br>*(-> Toán là môn học yêu thích của tôi vì tôi thích chơi đùa với các con số.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A branch of knowledge studied or taught in a school, college, or university.

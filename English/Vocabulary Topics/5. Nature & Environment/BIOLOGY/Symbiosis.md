@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Symbiosis
 *noun*
 > /ˌsɪm.baɪˈəʊ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Symbiosis::Sự cộng sinh *(Phát âm: /ˌsɪm.baɪˈəʊ.sɪs/)* ![[symbiosis.mp3]]<br><br>👪 **Word Family:** symbiotic, symbiote<br><br>💬 **Ví dụ:** The relationship between bees and flowers is a perfect example of symbiosis.<br>*(-> Mối quan hệ giữa ong và hoa là một ví dụ hoàn hảo về sự cộng sinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Interaction between two different organisms living in close physical association, typically to the advantage of both.

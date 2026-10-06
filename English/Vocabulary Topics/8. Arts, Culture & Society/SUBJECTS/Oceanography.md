@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Oceanography
 *noun*
 > /ˌəʊʃəˈnɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Oceanography::Hải dương học *(Phát âm: /ˌəʊʃəˈnɒɡrəfi/)* ![[oceanography.mp3]]<br><br>👪 **Word Family:** oceanographer, oceanographic<br><br>💬 **Ví dụ:** Oceanography reveals the mysteries of the deep sea floor.<br>*(-> Hải dương học tiết lộ các bí ẩn của đáy biển sâu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science that deals with the physical and biological properties and phenomena of the sea.

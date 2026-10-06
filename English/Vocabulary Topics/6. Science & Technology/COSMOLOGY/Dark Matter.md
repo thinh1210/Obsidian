@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Dark Matter
 *Noun*
 > /dɑːk ˈmæt.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
+
+## 🗂️ Flashcard
+Dark Matter::Vật chất tối *(Phát âm: /dɑːk ˈmæt.ər/)* ![[dark_matter.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Dark matter remains one of the greatest mysteries of science.<br>*(-> Vật chất tối vẫn là một trong những bí ẩn lớn nhất của khoa học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Non-luminous material postulated to exist in space, interacting only via gravity.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Delay
 *n./v.*
 > /dɪˈleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Delay::Trì hoãn, sự chậm trễ *(Phát âm: /dɪˈleɪ/)* ![[delay.mp3]]<br><br>👪 **Word Family:** delayed (adj.)<br><br>💬 **Ví dụ:** The train was delayed.<br>*(-> Chuyến tàu bị hoãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make someone or something late or slow

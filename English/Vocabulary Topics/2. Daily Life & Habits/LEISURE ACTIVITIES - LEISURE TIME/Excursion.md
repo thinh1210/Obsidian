@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Excursion
 *n*
 > /ɪkˈskɜːʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Excursion::Chuyến du ngoạn *(Phát âm: /ɪkˈskɜːʃn/)* ![[excursion.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We went on an excursion to the mountains.<br>*(-> Chúng tôi đã đi du ngoạn trên núi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short journey or trip, especially one engaged in as a leisure activity.

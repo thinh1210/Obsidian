@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Delighted
 *adj.*
 > /dɪˈlaɪtɪd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Delighted::Vui mừng *(Phát âm: /dɪˈlaɪtɪd/)* ![[delighted.mp3]]<br><br>👪 **Word Family:** delight<br><br>💬 **Ví dụ:** I'm delighted.<br>*(-> Tôi rất vui.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feeling or showing great pleasure

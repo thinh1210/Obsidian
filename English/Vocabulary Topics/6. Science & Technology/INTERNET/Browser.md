@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Browser
 *noun*
 > /ˈbraʊ.zər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Browser::Trình duyệt web *(Phát âm: /ˈbraʊ.zər/)* ![[browser.mp3]]<br><br>👪 **Word Family:** browser (n), browse (v), browsing (n)<br><br>💬 **Ví dụ:** She uses Chrome as her main browser.<br>*(-> Cô ấy dùng Chrome làm trình duyệt chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A software application used to access and navigate the Internet.

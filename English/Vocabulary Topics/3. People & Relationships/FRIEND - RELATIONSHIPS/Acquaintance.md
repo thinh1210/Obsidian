@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Acquaintance
 *noun*
 > /əˈkweɪn.təns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Acquaintance::Người quen *(Phát âm: /əˈkweɪn.təns/)* ![[acquaintance.mp3]]<br><br>👪 **Word Family:** acquaint<br><br>💬 **Ví dụ:** He is just an acquaintance.<br>*(-> Anh ấy chỉ là một người quen.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person's knowledge or experience of something, or a person one knows slightly.

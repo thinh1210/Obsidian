@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Yesterday
 *adv, noun*
 > /ˈjestədeɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Yesterday::Hôm qua *(Phát âm: /ˈjestədeɪ/)* ![[yesterday.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I saw him yesterday.<br>*(-> Tôi đã thấy anh ấy hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** On the day before today.

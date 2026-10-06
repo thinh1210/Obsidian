@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Workout
 *n.*
 > /ˈwɜːk.aʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Workout::Một buổi tập thể dục rèn luyện thể lực và vóc dáng *(Phát âm: /ˈwɜːk.aʊt/)* ![[workout.mp3]]<br><br>👪 **Word Family:** work out (phr v)<br><br>💬 **Ví dụ:** A forty-minute morning workout always leaves me energized for the day ahead.<br>*(-> Một buổi tập 40 phút buổi sáng luôn tiếp thêm năng lượng cho cả ngày dài phía trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A session of vigorous physical exercise or training aimed at improving fitness.

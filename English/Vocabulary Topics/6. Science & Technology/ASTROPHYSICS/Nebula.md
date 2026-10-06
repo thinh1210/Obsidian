@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Nebula
 *noun*
 > /ˈneb.jə.lə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Nebula::Tinh vân *(Phát âm: /ˈneb.jə.lə/)* ![[nebula.mp3]]<br><br>👪 **Word Family:** nebular (adj), nebulous (adj)<br><br>💬 **Ví dụ:** The amateur astronomer photographed the Crab Nebula.<br>*(-> Nhà thiên văn học nghiệp dư đã chụp ảnh Tinh vân Con Cua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A giant cloud of dust and gas in space, often a nursery for new stars.

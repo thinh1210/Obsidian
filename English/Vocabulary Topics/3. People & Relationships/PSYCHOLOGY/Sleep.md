@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Sleep
 *verb*
 > /sliːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Sleep::Ngủ *(Phát âm: /sliːp/)* ![[sleep.mp3]]<br><br>👪 **Word Family:** sleepy (adj)<br><br>💬 **Ví dụ:** I need to sleep.<br>*(-> Tôi cần ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A condition of body and mind that typically recurs for several hours every night.

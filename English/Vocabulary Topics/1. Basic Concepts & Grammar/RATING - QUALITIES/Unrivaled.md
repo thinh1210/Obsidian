@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Unrivaled
 *adj*
 > /ʌnˈraɪ.vəld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Unrivaled::Không có đối thủ, vô địch *(Phát âm: /ʌnˈraɪ.vəld/)* ![[unrivaled.mp3]]<br><br>👪 **Word Family:** Rival (noun)<br><br>💬 **Ví dụ:** The museum has an unrivaled collection of artifacts.<br>*(-> Bảo tàng có một bộ sưu tập hiện vật vô song.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Better than everyone or everything of the same type.

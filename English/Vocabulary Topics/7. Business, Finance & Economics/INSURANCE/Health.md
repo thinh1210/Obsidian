@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Health
 *n.*
 > /helθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Health::Sức khỏe *(Phát âm: /helθ/)* ![[health.mp3]]<br><br>👪 **Word Family:** healthy, healthily, healthiness<br><br>💬 **Ví dụ:** Health insurance covers your doctor visits.<br>*(-> Bảo hiểm y tế chi trả cho các lần bạn đi khám bác sĩ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being free from illness or injury.

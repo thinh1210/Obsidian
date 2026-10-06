@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Like
 *noun*
 > /laɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Like::Lượt thích, sự yêu thích *(Phát âm: /laɪk/)* ![[like.mp3]]<br><br>👪 **Word Family:** like (v), likable (adj), liking (n)<br><br>💬 **Ví dụ:** Her new photo got over a thousand likes in ten minutes.<br>*(-> Bức ảnh mới của cô ấy đã nhận được hơn một ngàn lượt thích trong mười phút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action showing approval or appreciation of a post on social media

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Leader
 *noun*
 > /ˈliː.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+Leader::Người lãnh đạo, thủ lĩnh *(Phát âm: /ˈliː.dər/)* ![[leader.mp3]]<br><br>👪 **Word Family:** lead (verb), leadership (noun)<br><br>💬 **Ví dụ:** She is a natural leader and always takes charge in group projects.<br>*(-> Cô ấy là một người lãnh đạo tự nhiên và luôn đảm nhận trách nhiệm trong các dự án nhóm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The person who leads or commands a group, organization, or country.

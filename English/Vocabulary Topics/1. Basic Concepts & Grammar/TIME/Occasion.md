@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Occasion
 *n.*
 > /əˈkeɪʒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Occasion::Dịp, cơ hội *(Phát âm: /əˈkeɪʒn/)* ![[occasion.mp3]]<br><br>👪 **Word Family:** occasional (adj.)<br><br>💬 **Ví dụ:** I wear this dress on special occasions.<br>*(-> Tôi mặc chiếc váy này vào những dịp đặc biệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular time or instance of an event

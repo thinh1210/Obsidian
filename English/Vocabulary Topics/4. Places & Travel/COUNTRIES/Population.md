@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Population
 *Noun*
 > /ˌpɑːpjəˈleɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Population::Dân số *(Phát âm: /ˌpɑːpjəˈleɪʃn/)* ![[population.mp3]]<br><br>👪 **Word Family:** Populate, Populous<br><br>💬 **Ví dụ:** The population of this city is large.<br>*(-> Dân số của thành phố này rất lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the inhabitants of a particular town, area, or country.

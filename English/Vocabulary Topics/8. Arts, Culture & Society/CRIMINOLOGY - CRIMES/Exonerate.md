@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Exonerate
 *verb*
 > /ɪɡˈzɒnəreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Exonerate::Minh oan, giải oan, tuyên bố vô tội *(Phát âm: /ɪɡˈzɒnəreɪt/)* ![[exonerate.mp3]]<br><br>👪 **Word Family:** exoneration (n), exonerative (adj)<br><br>💬 **Ví dụ:** He hoped the new witness would exonerate him.<br>*(-> Anh ta hy vọng nhân chứng mới sẽ minh oan cho mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To free someone from blame or guilt

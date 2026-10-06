@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Plant
 *v.*
 > /plɑːnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Plant::Gieo trồng, trồng cây *(Phát âm: /plɑːnt/)* ![[plant.mp3]]<br><br>👪 **Word Family:** plant (n), plantation (n), planter (n)<br><br>💬 **Ví dụ:** We planted some roses in the garden yesterday.<br>*(-> Chúng tôi đã trồng vài khóm hồng trong vườn ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put a seed, bulb, or plant into the ground so that it will grow.

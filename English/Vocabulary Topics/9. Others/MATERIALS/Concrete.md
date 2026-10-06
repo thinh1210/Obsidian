@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Concrete
 *noun.*
 > /ˈbɒŋkriːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Concrete::Bê tông *(Phát âm: /ˈbɒŋkriːt/)* ![[concrete.mp3]]<br><br>👪 **Word Family:** concretize (Verb), concretion (Noun)<br><br>💬 **Ví dụ:** The workers poured wet concrete to pave the new driveway.<br>*(-> Các công nhân đổ bê tông ướt để lát lối đi mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A heavy, rough building material made from a mixture of broken stone or gravel, sand, cement, and water.

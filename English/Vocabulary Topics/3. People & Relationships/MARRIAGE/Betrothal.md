@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Betrothal
 *noun*
 > /bɪˈtrəʊðl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Betrothal::Sự đính hôn (nghi thức cũ) *(Phát âm: /bɪˈtrəʊðl/)* ![[betrothal.mp3]]<br><br>👪 **Word Family:** Betrothed (adjective)<br><br>💬 **Ví dụ:** Their betrothal was arranged by their parents.<br>*(-> Sự đính hôn của họ do cha mẹ sắp đặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Formal state of engagement to be married.

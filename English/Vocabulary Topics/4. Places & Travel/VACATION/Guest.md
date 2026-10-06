@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Guest
 *n.*
 > /ɡest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Guest::Người trả tiền thuê phòng nghỉ hoặc khách đến thăm được tiếp đón trang trọng *(Phát âm: /ɡest/)* ![[guest.mp3]]<br><br>👪 **Word Family:** guesthouse (n)<br><br>💬 **Ví dụ:** Hotel guests have complimentary access to the rooftop pool and gym.<br>*(-> Khách lưu trú tại khách sạn được miễn phí sử dụng hồ bơi trên tầng thượng và phòng gym.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is invited to visit someone's home and stays there; or a customer at a hotel or restaurant.

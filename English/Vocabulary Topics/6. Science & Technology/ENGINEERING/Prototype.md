@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Prototype
 *noun*
 > /ˈprəʊtətaɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Prototype::Mẫu thử nghiệm, mẫu thử đầu tiên *(Phát âm: /ˈprəʊtətaɪp/)* ![[prototype.mp3]]<br><br>👪 **Word Family:** prototypical (adj), prototyping (n)<br><br>💬 **Ví dụ:** The design team built a cardboard prototype of the new vacuum cleaner.<br>*(-> Đội ngũ thiết kế đã chế tạo một mẫu thử bằng bìa các-tông cho máy hút bụi mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A first, typical or preliminary model of something, especially a machine, from which other forms are developed or copied.

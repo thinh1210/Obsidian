@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Scene
 *n.*
 > /siːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Scene::Cảnh phim, phân cảnh *(Phát âm: /siːn/)* ![[scene.mp3]]<br><br>👪 **Word Family:** scenic, scenario<br><br>💬 **Ví dụ:** The opening scene of the movie is spectacular.<br>*(-> Cảnh mở đầu của bộ phim thật ngoạn mục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sequence of continuous action in a play, movie, opera, or book.

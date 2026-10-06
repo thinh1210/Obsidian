@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Murder
 *noun*
 > /ˈmɜːdə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Murder::Vụ giết người, tội giết người *(Phát âm: /ˈmɜːdə(r)/)* ![[murder.mp3]]<br><br>👪 **Word Family:** murderer (n), murderous (adj)<br><br>💬 **Ví dụ:** He was charged with murder after the victim died.<br>*(-> Anh ta bị cáo buộc tội giết người sau khi nạn nhân qua đời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The crime of intentionally killing a person

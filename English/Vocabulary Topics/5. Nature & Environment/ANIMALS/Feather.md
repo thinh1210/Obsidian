@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Feather
 *n.*
 > /ˈfeðər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Feather::Lông vũ, cấu trúc nhẹ phủ ngoài cơ thể các loài chim giúp bay lượn và cách nhiệt *(Phát âm: /ˈfeðər/)* ![[feather.mp3]]<br><br>👪 **Word Family:** feathery (adj), feathered (adj)<br><br>💬 **Ví dụ:** I picked up a colorful peacock feather while strolling through the botanical garden.<br>*(-> Tôi nhặt được một chiếc lông công rực rỡ sắc màu khi dạo bước qua vườn bách thảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of the flat, light structures that grow from the skin of birds.

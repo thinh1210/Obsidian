@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Crop
 *n.*
 > /krɒp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Crop::Cây trồng, vụ mùa *(Phát âm: /krɒp/)* ![[crop.mp3]]<br><br>👪 **Word Family:** crop (v)<br><br>💬 **Ví dụ:** Rice is the main crop grown in this region.<br>*(-> Lúa là cây trồng chính được canh tác ở khu vực này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plant such as a grain, fruit, or vegetable grown in large amounts on a farm.

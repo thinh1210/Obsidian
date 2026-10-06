@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Solar
 *adjective*
 > /ˈsəʊ.lər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Solar::Thuộc về mặt trời, thái dương *(Phát âm: /ˈsəʊ.lər/)* ![[solar.mp3]]<br><br>👪 **Word Family:** solarium (n)<br><br>💬 **Ví dụ:** We installed solar panels on our roof to save money.<br>*(-> Chúng tôi đã lắp đặt các tấm pin mặt trời trên mái nhà để tiết kiệm tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or determined by the sun.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Relevance
 *noun*
 > /ˈreləvəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Relevance::Sự liên quan, tính phù hợp *(Phát âm: /ˈreləvəns/)* ![[relevance.mp3]]<br><br>👪 **Word Family:** relevant (adj), irrelevance (n)<br><br>💬 **Ví dụ:** The teacher questioned the relevance of the student's question to the history lesson.<br>*(-> Giáo viên đặt nghi vấn về sự liên quan giữa câu hỏi của học sinh với bài học lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being closely connected or appropriate to the matter at hand

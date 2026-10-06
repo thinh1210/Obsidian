@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Insurmountable
 *adj.*
 > /ˌɪnsərˈmaʊntəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Insurmountable::Không thể vượt qua được *(Phát âm: /ˌɪnsərˈmaʊntəbl/)* ![[insurmountable.mp3]]<br><br>👪 **Word Family:** insurmountably (adv)<br><br>💬 **Ví dụ:** The task seemed insurmountable.<br>*(-> Nhiệm vụ có vẻ như không thể vượt qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Too great to be overcome

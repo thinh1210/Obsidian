@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Fracture
 *n./v.*
 > /ˈfræk.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Fracture::Sự gãy xương, vết nứt gãy trên cơ thể hoặc vật liệu cứng *(Phát âm: /ˈfræk.tʃər/)* ![[fracture.mp3]]<br><br>👪 **Word Family:** fractured (adj)<br><br>💬 **Ví dụ:** The X-ray showed a small fracture in his left wrist after the fall.<br>*(-> Ảnh chụp X-quang cho thấy một vết nứt xương nhỏ ở cổ tay trái sau cú ngã.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A break or crack in a hard object, especially a bone in the human body.

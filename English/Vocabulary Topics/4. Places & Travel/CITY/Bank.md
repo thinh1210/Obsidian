@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Bank
 *n.*
 > /bæŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Bank::Ngân hàng *(Phát âm: /bæŋk/)* ![[bank.mp3]]<br><br>👪 **Word Family:** banking (n)<br><br>💬 **Ví dụ:** I need to go to the bank.<br>*(-> Tôi cần đi ngân hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where you can keep your money.

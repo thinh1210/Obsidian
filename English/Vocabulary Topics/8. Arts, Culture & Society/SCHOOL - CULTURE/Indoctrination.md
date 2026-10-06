@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Indoctrination
 *noun*
 > /ɪnˌdɒktrɪˈneɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Indoctrination::Sự truyền bá, sự nhồi sọ *(Phát âm: /ɪnˌdɒktrɪˈneɪʃn/)* ![[indoctrination.mp3]]<br><br>👪 **Word Family:** indoctrinate (v), indoctrinated (adj)<br><br>💬 **Ví dụ:** Critics argue that the school system is used for political indoctrination.<br>*(-> Các nhà chỉ trích cho rằng hệ thống trường học đang bị lợi dụng để nhồi sọ chính trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process of teaching a person or group to accept a set of beliefs uncritically.

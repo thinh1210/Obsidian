@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Cinephile
 *n.*
 > /ˈsɪnɪfaɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Phong cách đạo diễn, Dựng phim & Lý thuyết điện ảnh
+
+## 🗂️ Flashcard
+Cinephile::Người yêu điện ảnh cuồng nhiệt *(Phát âm: /ˈsɪnɪfaɪl/)* ![[cinephile.mp3]]<br><br>👪 **Word Family:** cinephilia<br><br>💬 **Ví dụ:** As a cinephile, he watches at least three movies a week.<br>*(-> Là một người yêu điện ảnh, anh ấy xem ít nhất ba bộ phim một tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is fond of motion pictures; a movie enthusiast

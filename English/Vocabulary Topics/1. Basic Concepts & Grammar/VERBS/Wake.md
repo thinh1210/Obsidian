@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Wake
 *v., n.*
 > /weɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Wake::Thức giấc, tỉnh ngủ; đánh thức người khác; vệt sóng nước sau đuôi tàu *(Phát âm: /weɪk/)* ![[wake.mp3]]<br><br>👪 **Word Family:** waking (adj/n), awake (adj), awaken (v)<br><br>💬 **Ví dụ:** I usually wake up at dawn feeling refreshed and ready for morning meditation.<br>*(-> Tôi thường thức dậy lúc bình minh, cảm thấy sảng khoái và sẵn sàng cho buổi thiền sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To stop sleeping and become conscious; to cause someone to stop sleeping.

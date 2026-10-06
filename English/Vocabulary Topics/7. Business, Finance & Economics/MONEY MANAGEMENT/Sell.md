@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Sell
 *Verb*
 > /sel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Sell::Bán (giao thứ gì đó cho ai để đổi lấy tiền) *(Phát âm: /sel/)* ![[sell.mp3]]<br><br>👪 **Word Family:** Noun: seller (người bán), sale (sự bán hàng), Verb: sell (bán)<br><br>💬 **Ví dụ:** They want to sell their old car to buy a new one.<br>*(-> Họ muốn bán chiếc xe cũ của họ để mua chiếc mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give something to someone in exchange for money.

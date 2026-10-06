@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Frequent
 *adj.*
 > /ˈfriːkwənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Frequent::Thường xuyên *(Phát âm: /ˈfriːkwənt/)* ![[frequent.mp3]]<br><br>👪 **Word Family:** frequency (n.)<br><br>💬 **Ví dụ:** I am a frequent traveler.<br>*(-> Tôi là người đi du lịch thường xuyên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring or done many times at short intervals

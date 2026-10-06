@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Account
 *noun*
 > /əˈkaʊnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Account::Tài khoản *(Phát âm: /əˈkaʊnt/)* ![[account.mp3]]<br><br>👪 **Word Family:** account (v), accountant (n), accountability (n)<br><br>💬 **Ví dụ:** I need to set up a new account on Instagram.<br>*(-> Tôi cần lập một tài khoản mới trên Instagram.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement that allows a person to use a website or social media platform

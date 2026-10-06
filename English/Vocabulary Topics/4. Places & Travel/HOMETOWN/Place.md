@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Place
 *n.*
 > /pleɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Place::Nơi chốn *(Phát âm: /pleɪs/)* ![[place.mp3]]<br><br>👪 **Word Family:** Placement (n.)<br><br>💬 **Ví dụ:** This is a nice place.<br>*(-> Đây là một nơi đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular position or point in space.

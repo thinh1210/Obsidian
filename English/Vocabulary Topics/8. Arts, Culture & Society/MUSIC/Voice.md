@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Voice
 *n.*
 > /vɔɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Voice::Giọng hát, giọng nói *(Phát âm: /vɔɪs/)* ![[voice.mp3]]<br><br>👪 **Word Family:** vocal (adj), vocalist (n)<br><br>💬 **Ví dụ:** She has a sweet singing voice.<br>*(-> Cô ấy có một giọng hát rất ngọt ngào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sound produced in a person's larynx and uttered through the mouth, as speech or song.

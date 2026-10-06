@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Divorce
 *n.*
 > /dɪˈvɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Divorce::Ly hôn, sự chấm dứt hôn nhân theo pháp luật *(Phát âm: /dɪˈvɔːs/)* ![[divorce.mp3]]<br><br>👪 **Word Family:** divorced (adj), divorcee (n)<br><br>💬 **Ví dụ:** They worked hard to ensure the divorce did not disrupt their children's education.<br>*(-> Họ đã nỗ lực hết sức để đảm bảo việc ly hôn không làm gián đoạn việc học của con cái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The legal termination of a marriage.

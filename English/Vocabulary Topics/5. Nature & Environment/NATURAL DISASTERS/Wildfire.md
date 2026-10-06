@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Wildfire
 *noun*
 > /ˈwaɪld.faɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
+
+## 🗂️ Flashcard
+Wildfire::Cháy rừng, đám cháy tự nhiên lan nhanh *(Phát âm: /ˈwaɪld.faɪər/)* ![[wildfire.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Summer heat waves often trigger devastating wildfires in California.<br>*(-> Các đợt nắng nóng mùa hè thường châm ngòi cho các vụ cháy rừng tàn phá ở California.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, destructive fire that spreads quickly over woodland or brush.

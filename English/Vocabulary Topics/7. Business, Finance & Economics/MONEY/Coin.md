@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Coin
 *noun*
 > /kɔɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Coin::Đồng tiền xu *(Phát âm: /kɔɪn/)* ![[coin.mp3]]<br><br>👪 **Word Family:** coinage (n)<br><br>💬 **Ví dụ:** I found a gold coin on the beach.<br>*(-> Tôi đã tìm thấy một đồng xu vàng trên bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flat, typically round piece of metal with an official stamp, used as money

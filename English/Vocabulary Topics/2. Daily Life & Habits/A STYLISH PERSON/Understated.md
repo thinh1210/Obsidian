@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Understated
 *adj.*
 > /ˌʌndərˈsteɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
+
+## 🗂️ Flashcard
+Understated::Tế nhị, không phô trương nhưng đẳng cấp *(Phát âm: /ˌʌndərˈsteɪtɪd/)* ![[understated.mp3]]<br><br>👪 **Word Family:** Understate (v)<br><br>💬 **Ví dụ:** Her dress was of an understated elegance.<br>*(-> Chiếc váy của cô mang một vẻ thanh lịch kín đáo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Presented or expressed in a subtle and effective way.

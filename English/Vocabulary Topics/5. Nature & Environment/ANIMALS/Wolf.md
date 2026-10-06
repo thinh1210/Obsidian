@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Wolf
 *n.*
 > /wʊlf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Wolf::Chó sói, loài thú ăn thịt hoang dã săn mồi theo đàn *(Phát âm: /wʊlf/)* ![[wolf.mp3]]<br><br>👪 **Word Family:** wolves (plural n), wolfish (adj)<br><br>💬 **Ví dụ:** Visitors at the wildlife park heard the eerie howl of a wolf at dusk.<br>*(-> Du khách tại công viên hoang dã nghe thấy tiếng hú ma mị của chó sói lúc chạng vạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wild carnivorous mammal of the dog family, living and hunting in packs.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Consumer
 *n*
 > /kənˈsjuː.mər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Consumer::Người tiêu dùng *(Phát âm: /kənˈsjuː.mər/)* ![[consumer.mp3]]<br><br>👪 **Word Family:** Consume<br><br>💬 **Ví dụ:** Consumers want quality.<br>*(-> Người tiêu dùng muốn chất lượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who buys goods

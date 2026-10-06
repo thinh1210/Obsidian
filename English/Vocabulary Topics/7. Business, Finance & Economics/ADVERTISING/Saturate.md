@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Saturate
 *verb*
 > /ˈsætʃəreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Saturate::Làm bão hòa, làm thấm đẫm *(Phát âm: /ˈsætʃəreɪt/)* ![[saturate.mp3]]<br><br>👪 **Word Family:** saturation (noun), saturated (adj)<br><br>💬 **Ví dụ:** Heavy rains will saturate the soil by tomorrow.<br>*(-> Mưa lớn sẽ làm bão hòa đất vào ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To flood a market with a product so that any further supply is unnecessary; cause to become thoroughly soaked.

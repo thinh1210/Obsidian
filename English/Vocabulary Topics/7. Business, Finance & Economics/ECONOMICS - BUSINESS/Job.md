@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Job
 *noun*
 > /dʒɑːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Job::công việc, việc làm *(Phát âm: /dʒɑːb/)* ![[job.mp3]]<br><br>👪 **Word Family:** jobless (adjective), jobholder (noun)<br><br>💬 **Ví dụ:** He finally found a job after three months of searching.<br>*(-> Cuối cùng anh ấy cũng tìm được việc sau ba tháng tìm kiếm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the regular work that a person does to earn money.

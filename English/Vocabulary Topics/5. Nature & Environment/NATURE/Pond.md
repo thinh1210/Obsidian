@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Pond
 *n.*
 > /pɒnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Pond::Ao nước nhỏ, vùng nước tĩnh tự nhiên hoặc nhân tạo nuôi cá và sen súng *(Phát âm: /pɒnd/)* ![[pond.mp3]]<br><br>👪 **Word Family:** pondweed (n)<br><br>💬 **Ví dụ:** Children threw crumbs of bread to the ducks swimming in the village pond.<br>*(-> Lũ trẻ ném những mẩu bánh mì vụn cho đàn vịt đang tung tăng bơi trong ao làng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small body of still water formed naturally or created artificially.

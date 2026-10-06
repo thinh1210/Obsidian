@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Terrain
 *n.*
 > /təˈreɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Terrain::Địa hình *(Phát âm: /təˈreɪn/)* ![[terrain.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The hikers navigated the rough terrain.<br>*(-> Những người đi bộ đường dài đã băng qua địa hình hiểm trở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stretch of land, especially with regard to its physical features.

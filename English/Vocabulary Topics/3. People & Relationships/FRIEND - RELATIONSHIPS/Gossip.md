@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Gossip
 *n.*
 > /ˈɡɒs.ɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Gossip::Chuyện ngồi lê đôi mách, tin đồn phiếm hoặc việc bàn tán chuyện đời tư *(Phát âm: /ˈɡɒs.ɪp/)* ![[gossip.mp3]]<br><br>👪 **Word Family:** gossiping (n), gossipy (adj), gossip (v)<br><br>💬 **Ví dụ:** Over bubble tea, they caught up on all the lighthearted campus gossip from the past term.<br>*(-> Bên ly trà sữa, họ cập nhật tất cả những tin đồn giảng đường vui vẻ từ học kỳ trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conversation or reports about other people's private lives that might be unkind, untrue, or amusing.

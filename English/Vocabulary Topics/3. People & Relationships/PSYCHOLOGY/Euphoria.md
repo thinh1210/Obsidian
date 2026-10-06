@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Euphoria
 *noun*
 > /juːˈfɔːr.i.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Euphoria::Sự hưng phấn *(Phát âm: /juːˈfɔːr.i.ə/)* ![[euphoria.mp3]]<br><br>👪 **Word Family:** euphoric (adj)<br><br>💬 **Ví dụ:** The runner experienced euphoria after the race.<br>*(-> Người chạy bộ trải qua sự hưng phấn sau cuộc đua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A feeling or state of intense excitement and happiness.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Peaceful
 *adj.*
 > /ˈpiːs.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Peaceful::Thanh thản trong tâm hồn, an yên và không chút muộn phiền *(Phát âm: /ˈpiːs.fəl/)* ![[peaceful.mp3]]<br><br>👪 **Word Family:** peacefully (adv), peacefulness (n), peace (n)<br><br>💬 **Ví dụ:** Walking along the quiet lake at sunrise brought a profoundly peaceful state of mind.<br>*(-> Đi dạo ven hồ tĩnh lặng lúc bình minh mang lại trạng thái tâm trí vô cùng thanh thản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Quiet and calm; not worried, excited, or annoyed.

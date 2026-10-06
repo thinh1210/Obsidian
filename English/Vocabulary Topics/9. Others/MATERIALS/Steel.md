@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Steel
 *noun.*
 > /stiːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Steel::Thép *(Phát âm: /stiːl/)* ![[steel.mp3]]<br><br>👪 **Word Family:** steely (Adjective), steelworks (Noun)<br><br>💬 **Ví dụ:** Most of our kitchen knives are made of stainless steel.<br>*(-> Hầu hết dao nhà bếp của chúng tôi được làm bằng thép không gỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hard, strong gray alloy of iron with carbon, used extensively as a structural and fabricating material.

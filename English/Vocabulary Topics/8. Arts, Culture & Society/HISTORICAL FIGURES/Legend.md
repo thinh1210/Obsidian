@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Legend
 *n.*
 > /ˈledʒənd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Legend::Truyền thuyết, huyền thoại *(Phát âm: /ˈledʒənd/)* ![[legend.mp3]]<br><br>👪 **Word Family:** legendary<br><br>💬 **Ví dụ:** According to legend, King Arthur pulled the sword from the stone.<br>*(-> Theo truyền thuyết, Vua Arthur đã rút thanh kiếm ra khỏi tảng đá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional story sometimes popularly regarded as historical but not authenticated

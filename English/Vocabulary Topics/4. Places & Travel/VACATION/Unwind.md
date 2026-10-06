@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Unwind
 *Verb*
 > /ʌnˈwaɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Unwind::Thư giãn *(Phát âm: /ʌnˈwaɪnd/)* ![[unwind.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** I need a drink to unwind.<br>*(-> Tôi cần một ly đồ uống để thư giãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To relax after a period of work or tension.

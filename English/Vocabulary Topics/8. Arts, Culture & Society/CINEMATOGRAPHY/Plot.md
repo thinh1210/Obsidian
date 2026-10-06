@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Plot
 *n.*
 > /plɒt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Plot::Cốt truyện, tình tiết *(Phát âm: /plɒt/)* ![[plot.mp3]]<br><br>👪 **Word Family:** plotter<br><br>💬 **Ví dụ:** The plot of the movie was too predictable.<br>*(-> Cốt truyện của bộ phim quá dễ đoán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main events of a play, novel, movie, or similar work, devised and presented by the writer as a related sequence

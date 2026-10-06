@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Toy
 
 *Noun*
@@ -36,3 +43,7 @@ Mua đồ chơi (toy) cho con làm bé vui "tột" (toy) cùng.
 
 **Synonyms:**
 - plaything, game, gadget
+
+
+## 🗂️ Flashcard
+Toy::Đồ chơi *(Phát âm: /tɔɪ/)* ![[toy.mp3]]<br><br>👪 **Word Family:** [Noun]: toy, [Verb]: toy, [Adj]: toylike<br><br>💬 **Ví dụ:** The dog was playing with a squeaky toy.<br>*(-> Con chó đang chơi với một món đồ chơi phát ra tiếng kêu.)*

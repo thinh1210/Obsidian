@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Extemporaneous
 *adj.*
 > /ekˌstempəˈreɪniəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Extemporaneous::Ứng khẩu, không chuẩn bị trước *(Phát âm: /ekˌstempəˈreɪniəs/)* ![[extemporaneous.mp3]]<br><br>👪 **Word Family:** extemporaneously, extemporize<br><br>💬 **Ví dụ:** He made an extemporaneous speech at the wedding.<br>*(-> Anh ấy đã có một bài phát biểu ứng khẩu tại đám cưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Spoken or done without preparation.

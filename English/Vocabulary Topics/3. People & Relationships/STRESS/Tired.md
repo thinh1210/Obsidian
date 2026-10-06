@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Tired
 *adj.*
 > /ˈtaɪərd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Tired::Mệt mỏi *(Phát âm: /ˈtaɪərd/)* ![[tired.mp3]]<br><br>👪 **Word Family:** tiredness (n), tiring (adj)<br><br>💬 **Ví dụ:** I am so tired today.<br>*(-> Hôm nay tôi rất mệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In need of sleep or rest

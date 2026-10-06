@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Historian
 *noun*
 > /hɪˈstɔː.ri.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Historian::Nhà sử học *(Phát âm: /hɪˈstɔː.ri.ən/)* ![[historian.mp3]]<br><br>👪 **Word Family:** history (n), historic (adj), historical (adj)<br><br>💬 **Ví dụ:** The historian gave a lecture on the causes of the French Revolution.<br>*(-> Nhà sử học đã có bài giảng về nguyên nhân của Cách mạng Pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expert in or student of history, especially that of a particular period, geographical area, or social group.

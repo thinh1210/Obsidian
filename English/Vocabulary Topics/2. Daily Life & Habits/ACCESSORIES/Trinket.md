@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Trinket
 *noun*
 > /ˈtrɪŋkɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Trinket::Đồ trang sức rẻ tiền, nữ trang rẻ tiền *(Phát âm: /ˈtrɪŋkɪt/)* ![[trinket.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She bought a small trinket as a souvenir from the market.<br>*(-> Cô đã mua một món nữ trang nhỏ làm quà lưu niệm từ chợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small ornament or item of jewellery that is of little value.

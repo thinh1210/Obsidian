@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Apartment
 *n.*
 > /əˈpɑːtmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Apartment::Căn hộ *(Phát âm: /əˈpɑːtmənt/)* ![[apartment.mp3]]<br><br>👪 **Word Family:** **Synonyms:** flat, condo, suite<br><br>💬 **Ví dụ:** My new apartment has a beautiful view of the river.<br>*(-> Căn hộ mới của tôi có tầm nhìn tuyệt đẹp ra dòng sông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A suite of rooms forming one residence, typically in a building containing several of these.

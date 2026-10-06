@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Letter
 *noun*
 > /ˈlet.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Letter::chữ cái, bức thư *(Phát âm: /ˈlet.ər/)* ![[letter.mp3]]<br><br>👪 **Word Family:** lettering (n)<br><br>💬 **Ví dụ:** The English alphabet has 26 letters.<br>*(-> Bảng chữ cái tiếng Anh có 26 chữ cái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a written or printed symbol that represents a sound in an alphabet, or a written message sent to someone

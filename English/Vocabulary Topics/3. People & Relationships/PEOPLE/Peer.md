@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Peer
 *n.*
 > /pɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Peer::Người ngang hàng, đồng trang lứa *(Phát âm: /pɪər/)* ![[peer.mp3]]<br><br>👪 **Word Family:** Peerless<br><br>💬 **Ví dụ:** She is respected by her peers.<br>*(-> Cô ấy được tôn trọng bởi những người đồng trang lứa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person of the same age, status, or ability as another specified person.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Saturation
 *noun*
 > /ˌsætʃəˈreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
+
+## 🗂️ Flashcard
+Saturation::Sự bão hòa *(Phát âm: /ˌsætʃəˈreɪʃn/)* ![[saturation.mp3]]<br><br>👪 **Word Family:** saturate (v), saturated (adj)<br><br>💬 **Ví dụ:** I think there is a saturation of coffee shops in this neighborhood; there's one on every corner.<br>*(-> Tôi nghĩ có sự bão hòa các quán cà phê ở khu phố này; góc nào cũng có một quán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state that occurs when no more of something can be combined, added, or accepted; market saturation

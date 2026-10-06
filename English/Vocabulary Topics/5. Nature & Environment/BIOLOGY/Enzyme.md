@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Enzyme
 *noun*
 > /ˈen.zaɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Enzyme::Men, enzym *(Phát âm: /ˈen.zaɪm/)* ![[enzyme.mp3]]<br><br>👪 **Word Family:** enzymatic<br><br>💬 **Ví dụ:** Saliva contains digestive enzymes that start breaking down food.<br>*(-> Nước bọt chứa các enzyme tiêu hóa giúp bắt đầu phân hủy thức ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance produced by a living organism which acts as a catalyst to bring about a specific biochemical reaction.

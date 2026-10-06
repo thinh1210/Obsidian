@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Energetic
 *adj.*
 > /ˌen.əˈdʒet.ɪk/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Energetic::Năng động, tràn đầy năng lượng, nhiệt huyết và hăng hái *(Phát âm: /ˌen.əˈdʒet.ɪk/)* ![[energetic.mp3]]<br><br>👪 **Word Family:** energetically (adv), energy (n), energize (v)<br><br>💬 **Ví dụ:** She always starts her morning with an energetic jog around the neighborhood park.<br>*(-> Cô ấy luôn bắt đầu buổi sáng bằng một bài chạy bộ đầy hứng khởi quanh công viên khu phố.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having or involving a lot of energy and enthusiasm; very active.

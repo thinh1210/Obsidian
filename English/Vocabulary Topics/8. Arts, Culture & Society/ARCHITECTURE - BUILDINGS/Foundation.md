@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Foundation
 *n.*
 > /faʊnˈdeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Foundation::Móng nhà, nền móng *(Phát âm: /faʊnˈdeɪʃn/)* ![[foundation.mp3]]<br><br>👪 **Word Family:** found, founder<br><br>💬 **Ví dụ:** Concrete was poured to create the foundation of the house.<br>*(-> Bê tông đã được đổ để tạo móng cho ngôi nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The lowest load-bearing part of a building, typically below ground level

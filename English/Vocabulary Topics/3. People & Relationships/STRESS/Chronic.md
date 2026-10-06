@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Chronic
 *adj.*
 > /ˈkrɒnɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Chronic::Mãn tính, kinh niên *(Phát âm: /ˈkrɒnɪk/)* ![[chronic.mp3]]<br><br>👪 **Word Family:** chronically (adv)<br><br>💬 **Ví dụ:** He suffers from chronic pain.<br>*(-> Anh ấy bị đau mãn tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Persisting for a long time or constantly recurring

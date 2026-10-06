@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Concept
 *n.*
 > /ˈkɒn.sept/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Concept::Khái niệm *(Phát âm: /ˈkɒn.sept/)* ![[concept.mp3]]<br><br>👪 **Word Family:** conceptual, conceptualize<br><br>💬 **Ví dụ:** I struggle to grasp the concept of time travel.<br>*(-> Tôi gặp khó khăn trong việc nắm bắt khái niệm du hành thời gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An abstract idea; a general notion.

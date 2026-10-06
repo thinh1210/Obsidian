@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Cryptography
 *noun*
 > /krɪpˈtɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Cryptography::Mật mã học *(Phát âm: /krɪpˈtɒɡrəfi/)* ![[cryptography.mp3]]<br><br>👪 **Word Family:** cryptographer, cryptographic, cryptogram<br><br>💬 **Ví dụ:** Cryptography is used to protect online banking transactions.<br>*(-> Mật mã học được sử dụng để bảo vệ các giao dịch ngân hàng trực tuyến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of writing or solving codes.

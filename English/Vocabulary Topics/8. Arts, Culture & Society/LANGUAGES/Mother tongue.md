@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Mother tongue
 *n.*
 > /ˌmʌðə ˈtʌŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
+
+## 🗂️ Flashcard
+Mother tongue::Tiếng mẹ đẻ *(Phát âm: /ˌmʌðə ˈtʌŋ/)* ![[mother_tongue.mp3]]<br><br>👪 **Word Family:** **Synonyms:** native language, first language<br><br>💬 **Ví dụ:** Vietnamese is my mother tongue.<br>*(-> Tiếng Việt là tiếng mẹ đẻ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The language which a person has grown up speaking from early childhood

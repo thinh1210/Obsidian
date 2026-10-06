@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Fee
 *n.*
 > /fiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Fee::Khoản phí phải trả cho một dịch vụ chuyên nghiệp hoặc thủ tục hành chính *(Phát âm: /fiː/)* ![[fee.mp3]]<br><br>👪 **Word Family:** fees (pl)<br><br>💬 **Ví dụ:** There is a small transaction fee when transferring money to an international bank account.<br>*(-> Có một khoản phí giao dịch nhỏ khi chuyển tiền vào tài khoản ngân hàng quốc tế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A payment made to a professional person or to a company in exchange for advice or services.

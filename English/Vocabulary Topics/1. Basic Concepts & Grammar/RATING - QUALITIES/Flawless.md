@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Flawless
 *adj*
 > /ˈflɔː.ləs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Flawless::Không có tì vết, hoàn hảo *(Phát âm: /ˈflɔː.ləs/)* ![[flawless.mp3]]<br><br>👪 **Word Family:** Flaw (noun), Flawlessly (adv)<br><br>💬 **Ví dụ:** She has a flawless complexion.<br>*(-> Cô ấy có làn da không tì vết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Without any blemishes or imperfections; perfect.

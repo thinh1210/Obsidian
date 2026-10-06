@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Bypass
 *noun*
 > /ˈbaɪpæs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Bypass::Đường tránh (tránh đi qua trung tâm thành phố) *(Phát âm: /ˈbaɪpæs/)* ![[bypass.mp3]]<br><br>👪 **Word Family:** Noun: bypass (đường tránh), Verb: bypass (đi tránh, bỏ qua)<br><br>💬 **Ví dụ:** They built a bypass to reduce heavy traffic in the town center.<br>*(-> Họ đã xây dựng một đường tránh để giảm lượng giao thông hạng nặng ở trung tâm thị trấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A road passing round a town or its center to provide an alternative route for through traffic.

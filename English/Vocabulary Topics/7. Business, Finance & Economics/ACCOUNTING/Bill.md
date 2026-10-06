@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Bill
 *n.*
 > /bɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Bill::Hóa đơn *(Phát âm: /bɪl/)* ![[bill.mp3]]<br><br>👪 **Word Family:** billing, billable<br><br>💬 **Ví dụ:** Can I have the bill, please?<br>*(-> Làm ơn cho tôi xin hóa đơn thanh toán?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A document showing how much money you owe for goods or services

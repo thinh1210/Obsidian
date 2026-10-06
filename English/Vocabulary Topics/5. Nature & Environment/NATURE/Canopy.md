@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Canopy
 *Noun*
 > /ˈkænəpi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Canopy::Vòm lá, tán rừng *(Phát âm: /ˈkænəpi/)* ![[canopy.mp3]]<br><br>👪 **Word Family:** canopied<br><br>💬 **Ví dụ:** Monkeys move swiftly through the forest canopy.<br>*(-> Lũ khỉ di chuyển nhanh nhẹn qua tán rừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The high, leafy shield of trees in a forest.

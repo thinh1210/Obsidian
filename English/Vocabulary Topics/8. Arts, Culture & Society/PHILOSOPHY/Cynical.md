@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Cynical
 *adj.*
 > /ˈsɪn.ɪ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Cynical::Hoài nghi, yếm thế *(Phát âm: /ˈsɪn.ɪ.kəl/)* ![[cynical.mp3]]<br><br>👪 **Word Family:** cynic, cynicism, cynically<br><br>💬 **Ví dụ:** She has a cynical view of love after her painful breakups.<br>*(-> Cô ấy có cái nhìn hoài nghi về tình yêu sau những cuộc chia tay đau đớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Believing that people are motivated by self-interest; distrustful of sincerity.

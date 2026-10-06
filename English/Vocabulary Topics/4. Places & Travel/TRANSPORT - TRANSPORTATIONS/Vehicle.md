@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Vehicle
 *noun*
 > /ˈviːəkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Vehicle::Phương tiện giao thông *(Phát âm: /ˈviːəkl/)* ![[vehicle.mp3]]<br><br>👪 **Word Family:** Noun: vehicle (phương tiện), Adjective: vehicular (thuộc về xe cộ)<br><br>💬 **Ví dụ:** Are you allowed to park your vehicle here?<br>*(-> Bạn có được phép đỗ phương tiện của mình ở đây không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing used for transporting people or goods, especially on land.

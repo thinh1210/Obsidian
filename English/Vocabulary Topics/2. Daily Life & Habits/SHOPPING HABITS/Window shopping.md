@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Window shopping
 *n.*
 > /ˈwɪn.dəʊ ˌʃɒp.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Window shopping::Thói quen đi dạo ngắm nhìn hàng hóa bày trong tủ kính mà không có ý định mua *(Phát âm: /ˈwɪn.dəʊ ˌʃɒp.ɪŋ/)* ![[window_shopping.mp3]]<br><br>👪 **Word Family:** window-shop (v), window shopper (n)<br><br>💬 **Ví dụ:** On Sunday afternoons, we often go window shopping along Fifth Avenue just to admire the fashion displays.<br>*(-> Vào các chiều Chủ nhật, chúng tôi thường đi ngắm đồ dọc Đại lộ số 5 chỉ để chiêm ngưỡng cách bài trí thời trang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of looking at the goods displayed in shop windows without intending to buy anything.

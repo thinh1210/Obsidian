@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Mountain
 *n.*
 > /ˈmaʊn.tən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Mountain::Ngọn núi *(Phát âm: /ˈmaʊn.tən/)* ![[mountain.mp3]]<br><br>👪 **Word Family:** mountainous (adj)<br><br>💬 **Ví dụ:** The mountain is covered in snow.<br>*(-> Ngọn núi phủ đầy tuyết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large natural elevation of the earth's surface.

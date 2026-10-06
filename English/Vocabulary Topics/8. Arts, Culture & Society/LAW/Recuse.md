@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Recuse
 *verb*
 > /rɪˈkjuːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Recuse::Yêu cầu từ chối tham gia; loại trừ người có xung đột lợi ích *(Phát âm: /rɪˈkjuːz/)* ![[recuse.mp3]]<br><br>👪 **Word Family:** recusal (n), recused (adj)<br><br>💬 **Ví dụ:** The judge recused herself due to a personal connection to the defendant.<br>*(-> Thẩm phán tự yêu cầu rút khỏi vụ án vì có mối quan hệ cá nhân với bị cáo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To disqualify or remove a judge, juror, or official from a case because of a possible conflict of interest

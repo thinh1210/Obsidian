@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Rapid
 *adj.*
 > /ˈræpɪd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Rapid::Nhanh chóng *(Phát âm: /ˈræpɪd/)* ![[rapid.mp3]]<br><br>👪 **Word Family:** rapidity<br><br>💬 **Ví dụ:** Rapid change.<br>*(-> Thay đổi nhanh.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Happening in a short time or at a fast pace

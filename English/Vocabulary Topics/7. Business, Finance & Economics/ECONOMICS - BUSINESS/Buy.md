@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Buy
 *verb*
 > /baɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Buy::mua *(Phát âm: /baɪ/)* ![[buy.mp3]]<br><br>👪 **Word Family:** buyer (noun)<br><br>💬 **Ví dụ:** I need to buy some milk and bread on my way home.<br>*(-> Tôi cần mua sữa và bánh mì trên đường về nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to obtain something by paying money for it.

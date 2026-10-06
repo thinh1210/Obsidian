@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Generous
 *adj.*
 > /ˈdʒen.ər.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Tính cách, Khuynh hướng tâm lý & Vai trò
+
+## 🗂️ Flashcard
+Generous::Hào phóng, rộng lượng, sẵn lòng chia sẻ giúp đỡ người khác *(Phát âm: /ˈdʒen.ər.əs/)* ![[generous.mp3]]<br><br>👪 **Word Family:** generosity (n), generously (adv)<br><br>💬 **Ví dụ:** Uncle Tom is exceptionally generous and always pays for our family dinners.<br>*(-> Bác Tom đặc biệt hào phóng và luôn giành thanh toán tiền các bữa tối gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Willing to give money, help, kindness, etc., especially more than is usual or expected.

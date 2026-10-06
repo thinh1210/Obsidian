@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # mechanism
 *noun*
 > /ˈmek.ə.nɪz.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Mechanism::cơ chế, cơ cấu máy *(Phát âm: /ˈmek.ə.nɪz.əm/)* ![[mechanism.mp3]]<br><br>👪 **Word Family:** Noun: mechanism (cơ chế), mechanic (thợ cơ khí), Adjective: mechanical (thuộc cơ khí), Verb: mechanize (cơ giới hóa)<br><br>💬 **Ví dụ:** The lock mechanism was broken, so we couldn't open the box.<br>*(-> Cơ chế khóa đã bị hỏng nên chúng tôi không thể mở chiếc hộp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a system of parts working together in a machine; a piece of machinery.

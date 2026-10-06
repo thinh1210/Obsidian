@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Watch
 *Verb*
 > /wɒtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Watch::Xem, quan sát *(Phát âm: /wɒtʃ/)* ![[watch.mp3]]<br><br>👪 **Word Family:** Watcher (n), Watchful (adj)<br><br>💬 **Ví dụ:** I watch TV.<br>*(-> Tôi xem tivi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at something for a period of time.

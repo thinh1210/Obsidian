@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Brother-in-law
 *noun*
 > /ˈbrʌð.ə.rɪn.lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Brother-in-law::Anh/em rể, anh/em vợ *(Phát âm: /ˈbrʌð.ə.rɪn.lɔː/)* ![[brother_in_law.mp3]]<br><br>👪 **Word Family:** brothers-in-law (pl)<br><br>💬 **Ví dụ:** He is my brother-in-law.<br>*(-> Anh ấy là anh rể tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The brother of your husband or wife, or the husband of your sister.

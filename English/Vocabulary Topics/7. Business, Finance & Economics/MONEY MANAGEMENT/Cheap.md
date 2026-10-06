@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Cheap
 *Adjective*
 > /tʃiːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Cheap::Rẻ (có giá thấp hoặc tốn ít tiền) *(Phát âm: /tʃiːp/)* ![[cheap.mp3]]<br><br>👪 **Word Family:** Noun: cheapness (sự rẻ tiền), Adv: cheaply (một cách rẻ tiền)<br><br>💬 **Ví dụ:** This restaurant offers good food at a cheap price.<br>*(-> Nhà hàng này cung cấp thức ăn ngon với giá rẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Charging low prices or costing little money.

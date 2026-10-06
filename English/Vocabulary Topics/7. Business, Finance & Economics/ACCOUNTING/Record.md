@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Record
 *v.*
 > /rɪˈkɔːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Record::Ghi chép (sổ sách), ghi lại *(Phát âm: /rɪˈkɔːd/)* ![[record.mp3]]<br><br>👪 **Word Family:** record (n), recorder, recording<br><br>💬 **Ví dụ:** You should record your daily expenses in a notebook.<br>*(-> Bạn nên ghi lại các chi tiêu hàng ngày vào một cuốn sổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep a systematic written account of financial transactions

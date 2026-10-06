@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Sound
 *noun*
 > /saʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Sound::âm thanh, âm *(Phát âm: /saʊnd/)* ![[sound.mp3]]<br><br>👪 **Word Family:** sound (v), soundless (adj)<br><br>💬 **Ví dụ:** I heard a strange sound coming from the kitchen.<br>*(-> Tôi nghe thấy một âm thanh lạ phát ra từ nhà bếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** something that you hear or that can be heard

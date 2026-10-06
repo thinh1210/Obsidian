@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Comics
 *n.*
 > /ˈkɒm.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Comics::Truyện tranh, tác phẩm truyện kể bằng tranh vẽ và lời thoại bong bóng *(Phát âm: /ˈkɒm.ɪks/)* ![[comics.mp3]]<br><br>👪 **Word Family:** comic (adj/n), comical (adj)<br><br>💬 **Ví dụ:** He has collected vintage superhero comics since he was ten years old.<br>*(-> Anh ấy đã sưu tầm truyện tranh siêu anh hùng cổ điển từ khi lên mười tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Magazines or books containing sequential art and stories told through illustrations.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Monolingual
 *adjective*
 > /ˌmɒn.əʊˈlɪŋ.ɡwəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
+
+## 🗂️ Flashcard
+Monolingual::đơn ngữ, nói một thứ tiếng *(Phát âm: /ˌmɒn.əʊˈlɪŋ.ɡwəl/)* ![[monolingual.mp3]]<br><br>👪 **Word Family:** monolingualism (n)<br><br>💬 **Ví dụ:** A monolingual dictionary is best for advanced language learners.<br>*(-> Một cuốn từ điển đơn ngữ là tốt nhất cho người học ngôn ngữ nâng cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** speaking or using only one language

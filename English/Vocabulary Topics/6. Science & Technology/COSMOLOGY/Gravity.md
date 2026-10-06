@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Gravity
 *Noun*
 > /ˈɡræv.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Gravity::Trọng lực, lực hấp dẫn *(Phát âm: /ˈɡræv.ə.ti/)* ![[gravity.mp3]]<br><br>👪 **Word Family:** gravitate (v), gravitation (n), gravitational (adj)<br><br>💬 **Ví dụ:** Gravity keeps us from floating away into space.<br>*(-> Trọng lực giữ chúng ta không bị trôi nổi vào không gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The force that attracts a body toward the center of the earth, or toward any other physical body having mass.

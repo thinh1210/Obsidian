@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Salt
 *n.*
 > /sɒlt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Salt::Muối *(Phát âm: /sɒlt/)* ![[salt.mp3]]<br><br>👪 **Word Family:** salty<br><br>💬 **Ví dụ:** Pass the salt.<br>*(-> Đưa muối đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A white crystalline substance used for seasoning.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Aesthetic
 *adj., n.*
 > /esˈθet.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Aesthetic::Thuộc về thẩm mỹ, có tính thẩm mỹ *(Phát âm: /esˈθet.ɪk/)* ![[aesthetic.mp3]]<br><br>👪 **Word Family:** Aesthetically (adv.), Aesthete (n.)<br><br>💬 **Ví dụ:** I love the vintage aesthetic of your scrapbooking pages.<br>*(-> Tôi thích vẻ đẹp thẩm mỹ cổ điển trong các trang sổ lưu niệm của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Concerned with beauty or the appreciation of beauty.

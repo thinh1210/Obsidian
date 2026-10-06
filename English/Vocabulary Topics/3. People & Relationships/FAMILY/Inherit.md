@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Inherit
 *v.*
 > /ɪnˈher.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Inherit::Thừa kế tài sản hoặc thừa hưởng đặc tính di truyền từ gia đình *(Phát âm: /ɪnˈher.ɪt/)* ![[inherit.mp3]]<br><br>👪 **Word Family:** inheritance (n), inheritor (n), disinherit (v)<br><br>💬 **Ví dụ:** She clearly inherited her father's artistic eye and passion for classical music.<br>*(-> Cô ấy rõ ràng đã thừa hưởng con mắt nghệ thuật và niềm đam mê âm nhạc cổ điển từ bố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To receive money, property, or genetic traits from predecessors.

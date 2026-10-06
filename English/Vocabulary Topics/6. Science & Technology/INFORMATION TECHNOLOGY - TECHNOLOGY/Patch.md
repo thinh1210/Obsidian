@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Patch
 *noun*
 > /pætʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Technical/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Patch::Bản vá (lỗi phần mềm) *(Phát âm: /pætʃ/)* ![[patch.mp3]]<br><br>👪 **Word Family:** Patch (v)<br><br>💬 **Ví dụ:** The game was laggy until they released a patch yesterday.<br>*(-> Game bị giật cho đến khi họ phát hành bản vá hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small piece of software used to correct a problem, usually a bug or security flaw.

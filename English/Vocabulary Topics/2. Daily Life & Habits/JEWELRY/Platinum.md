@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Platinum
 *noun*
 > /ˈplæt.ɪ.nəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Platinum::Bạch kim *(Phát âm: /ˈplæt.ɪ.nəm/)* ![[platinum.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He proposed with a platinum ring.<br>*(-> Anh ấy cầu hôn bằng chiếc nhẫn bạch kim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious silvery-white metal.

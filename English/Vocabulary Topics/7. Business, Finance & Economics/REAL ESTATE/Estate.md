@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Estate
 *n.*
 > /ɪˈsteɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Estate::Điền trang, bất động sản *(Phát âm: /ɪˈsteɪt/)* ![[estate.mp3]]<br><br>👪 **Word Family:** estate (v)<br><br>💬 **Ví dụ:** He works as a real estate agent in New York.<br>*(-> Anh ấy làm môi giới bất động sản ở New York.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An extensive area of land in the country, usually with a large house, owned by one person or family.

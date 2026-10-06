@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Vassal
 *noun*
 > /ˈvæs.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+Vassal::Chư hầu, kẻ lệ thuộc *(Phát âm: /ˈvæs.əl/)* ![[vassal.mp3]]<br><br>👪 **Word Family:** vassalage (noun)<br><br>💬 **Ví dụ:** In the playground, the bully treated the younger kids as his vassals.<br>*(-> Ở sân chơi, kẻ bắt nạt đối xử với những đứa trẻ nhỏ hơn như những kẻ hầu cận của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A holder of land by feudal tenure on conditions of homage and allegiance; a person or country in a subordinate position to another.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Sapphire
 *n, adj*
 > /ˈsæf.aɪr/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Sapphire::Màu xanh ngọc bích (xanh sapphire) *(Phát âm: /ˈsæf.aɪr/)* ![[sapphire.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She has striking sapphire eyes.<br>*(-> Cô ấy có đôi mắt màu xanh ngọc bích tuyệt đẹp.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bright blue color (like the precious stone).

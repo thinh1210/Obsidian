@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Mezzanine
 *n.*
 > /ˈmetsəniːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Mezzanine::Tầng lửng, gác lửng *(Phát âm: /ˈmetsəniːn/)* ![[mezzanine.mp3]]<br><br>👪 **Word Family:** mezzanines<br><br>💬 **Ví dụ:** The cafe has a cozy seating area on the mezzanine.<br>*(-> Quán cà phê có khu vực ngồi ấm cúng trên tầng lửng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A low story between two main stories of a building, projecting from a wall

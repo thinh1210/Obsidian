@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Content moderation
 *noun*
 > /ˈkɒn.tent ˌmɒd.əˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Content_moderation::Kiểm duyệt nội dung (giám sát và lọc nội dung do người dùng tạo ra trực tuyến) *(Phát âm: /ˈkɒn.tent ˌmɒd.əˈreɪ.ʃən/)* ![[content_moderation.mp3]]<br><br>👪 **Word Family:** moderate (v), moderator (n), moderation (n)<br><br>💬 **Ví dụ:** The platform struggled with content moderation after a wave of hateful posts flooded the site.<br>*(-> Nền tảng gặp khó khăn với kiểm duyệt nội dung sau khi một làn sóng bài đăng thù hận tràn vào trang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of monitoring and applying rules to user-generated content on online platforms to remove harmful, illegal, or inappropriate material.

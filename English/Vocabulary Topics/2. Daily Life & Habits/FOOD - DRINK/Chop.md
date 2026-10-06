@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Chop
 *v.*
 > /tʃɒp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Chop::Chặt, băm hoặc thái nhỏ bằng dao bén *(Phát âm: /tʃɒp/)* ![[chop.mp3]]<br><br>👪 **Word Family:** chopped (adj), chopper (n)<br><br>💬 **Ví dụ:** Chop the garlic and onions finely before sautéeing them in olive oil.<br>*(-> Hãy băm nhuyễn tỏi và hành tây trước khi phi thơm trong dầu ô liu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cut something into pieces with an axe, knife, or other sharp instrument.

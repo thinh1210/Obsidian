@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Indulgence
 *n.*
 > /ɪnˈdʌldʒəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
+
+## 🗂️ Flashcard
+Indulgence::Sự nuông chiều, sự ham mê *(Phát âm: /ɪnˈdʌldʒəns/)* ![[indulgence.mp3]]<br><br>👪 **Word Family:** indulgent (adj.)<br><br>💬 **Ví dụ:** Chocolate is my only indulgence.<br>*(-> Sô-cô-la là sự nuông chiều duy nhất của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The action or fact of indulging.

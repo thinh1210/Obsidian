@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Sanguine
 *adj.*
 > /ˈsæŋ.ɡwɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Sanguine::Lạc quan, đầy hy vọng (ngay cả trong khó khăn) *(Phát âm: /ˈsæŋ.ɡwɪn/)* ![[sanguine.mp3]]<br><br>👪 **Word Family:** Sanguinity (n)<br><br>💬 **Ví dụ:** He is sanguine about the company's future.<br>*(-> Anh ấy lạc quan về tương lai của công ty.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Optimistic or positive, especially in an apparently bad or difficult situation.

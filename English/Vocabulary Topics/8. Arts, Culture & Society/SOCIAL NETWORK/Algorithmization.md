@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Algorithmization
 *noun*
 > /ˌælɡərɪðəmaɪˈzeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Algorithmization::Sự thuật toán hóa *(Phát âm: /ˌælɡərɪðəmaɪˈzeɪʃn/)* ![[algorithmization.mp3]]<br><br>👪 **Word Family:** algorithm (n), algorithmize (v)<br><br>💬 **Ví dụ:** The algorithmization of our social feeds means we only see what robots think we want.<br>*(-> Sự thuật toán hóa các bảng tin xã hội của chúng ta có nghĩa là chúng ta chỉ thấy những gì robot nghĩ chúng ta muốn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of reducing human behavior and social interactions into algorithmic patterns

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Gentle
 *adj.*
 > /ˈdʒen.təl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Gentle::Dịu dàng, hiền lành, từ tốn, không hung bạo *(Phát âm: /ˈdʒen.təl/)* ![[gentle.mp3]]<br><br>👪 **Word Family:** gentleness (n), gently (adv), gentleman (n)<br><br>💬 **Ví dụ:** She spoke in a gentle voice so as not to wake the sleeping baby.<br>*(-> Cô ấy nói bằng giọng dịu dàng để không làm em bé thức giấc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Calm, kind, or soft; not violent or severe.

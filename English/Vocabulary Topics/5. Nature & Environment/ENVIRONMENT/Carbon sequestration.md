@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Carbon sequestration
 *n.*
 > /ˌcɑːbən ˌsiːkweˈstreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Carbon sequestration::Sự hấp thụ/cô lập carbon *(Phát âm: /ˌcɑːbən ˌsiːkweˈstreɪʃn/)* ![[carbon_sequestration.mp3]]<br><br>👪 **Word Family:** sequester (v)<br><br>💬 **Ví dụ:** Planting trees is an effective method of carbon sequestration.<br>*(-> Trồng cây là một phương pháp cô lập carbon hiệu quả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A natural or artificial process by which carbon dioxide is removed from the atmosphere and held in solid or liquid form.

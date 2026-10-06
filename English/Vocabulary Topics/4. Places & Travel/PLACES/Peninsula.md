@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Peninsula
 *n.*
 > /pəˈnɪn.sə.lə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
+
+## 🗂️ Flashcard
+Peninsula::Bán đảo *(Phát âm: /pəˈnɪn.sə.lə/)* ![[peninsula.mp3]]<br><br>👪 **Word Family:** peninsular (adj)<br><br>💬 **Ví dụ:** Italy is a famous peninsula.<br>*(-> Ý là một bán đảo nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land almost surrounded by water or projecting out into a body of water.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Anthropometry
 *noun*
 > /ˌæn.θrəˈpɒm.ɪ.tri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Anthropometry::Nhân trắc học – đo lường có hệ thống cơ thể người để nhận dạng trong pháp y *(Phát âm: /ˌæn.θrəˈpɒm.ɪ.tri/)* ![[anthropometry.mp3]]<br><br>👪 **Word Family:** anthropometrist (n), anthropometric (adj)<br><br>💬 **Ví dụ:** Anthropometry is used in ergonomics to design comfortable furniture and tools.<br>*(-> Nhân trắc học được sử dụng trong ergonomics để thiết kế đồ nội thất và công cụ thoải mái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The systematic measurement of the human body for identification; historically the Bertillon system used before fingerprinting.

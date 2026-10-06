@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Region
 *Noun*
 > /ˈriːdʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+Region::Khu vực, vùng *(Phát âm: /ˈriːdʒən/)* ![[region.mp3]]<br><br>👪 **Word Family:** Regional<br><br>💬 **Ví dụ:** This region is famous for its wine.<br>*(-> Vùng này nổi tiếng với rượu vang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area, especially part of a country or the world having definable characteristics.

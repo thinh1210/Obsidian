@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Inseparable
 *adj*
 > /ɪnˈsep.ɚ.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Inseparable::Không thể tách rời, luôn đi cùng nhau *(Phát âm: /ɪnˈsep.ɚ.ə.bəl/)* ![[inseparable.mp3]]<br><br>👪 **Word Family:** inseparably<br><br>💬 **Ví dụ:** Those two are inseparable.<br>*(-> Hai người đó không thể tách rời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Unable to be separated or treated separately.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Coniferous
 *adjective*
 > /kəˈnɪfərəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Coniferous::Thuộc họ lá kim *(Phát âm: /kəˈnɪfərəs/)* ![[coniferous.mp3]]<br><br>👪 **Word Family:** Noun: conifer (cây lá kim), Adjective: coniferous (thuộc họ lá kim)<br><br>💬 **Ví dụ:** Pine and fir trees are classic examples of coniferous plants.<br>*(-> Thông và linh sam là những ví dụ điển hình của cây lá kim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting trees or shrubs that bear cones and evergreen needlelike leaves.

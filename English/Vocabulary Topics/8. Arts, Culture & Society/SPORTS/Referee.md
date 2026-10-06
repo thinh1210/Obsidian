@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Referee
 *n.*
 > /ˌref.əˈriː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Referee::Trọng tài *(Phát âm: /ˌref.əˈriː/)* ![[referee.mp3]]<br><br>👪 **Word Family:** referral, refereeing<br><br>💬 **Ví dụ:** The referee blew his whistle to end the match.<br>*(-> Trọng tài đã thổi còi để kết thúc trận đấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An official who watches a game or match closely to ensure that the rules are adhered to.

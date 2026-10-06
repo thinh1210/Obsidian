@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Dinner
 *n.*
 > /ˈdɪn.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Dinner::Bữa ăn chính trong ngày, thường ăn vào buổi tối *(Phát âm: /ˈdɪn.ər/)* ![[dinner.mp3]]<br><br>👪 **Word Family:** dine (v), diner (n)<br><br>💬 **Ví dụ:** The whole family gathers around the table for dinner every evening at seven.<br>*(-> Cả gia đình quây quần bên bàn ăn tối vào lúc 7 giờ mỗi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main meal of the day, usually eaten in the evening.

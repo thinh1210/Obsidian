@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Caregiver
 *n.*
 > /ˈkeəˌɡɪv.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Caregiver::Người chăm sóc (người bệnh, người già hoặc trẻ nhỏ trong gia đình) *(Phát âm: /ˈkeəˌɡɪv.ər/)* ![[caregiver.mp3]]<br><br>👪 **Word Family:** caregiving (n/adj), care (n/v), caring (adj)<br><br>💬 **Ví dụ:** She became the primary caregiver for her elderly mother after her retirement.<br>*(-> Cô ấy trở thành người chăm sóc chính cho mẹ già sau khi nghỉ hưu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who takes care of a person who is young, old, or sick.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Horse
 *noun*
 > /hɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Horse::Con ngựa *(Phát âm: /hɔːs/)* ![[horse.mp3]]<br><br>👪 **Word Family:** horse (n), horseback (n), equestrian (adj)<br><br>💬 **Ví dụ:** Learning to ride a horse requires balance and patience.<br>*(-> Học cưỡi ngựa đòi hỏi sự thăng bằng và kiên nhẫn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large domesticated animal with hooves, used for riding and pulling carts.

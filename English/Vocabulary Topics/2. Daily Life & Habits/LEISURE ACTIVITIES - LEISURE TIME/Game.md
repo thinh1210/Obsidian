@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Game
 *n*
 > /ɡeɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Game::Trò chơi *(Phát âm: /ɡeɪm/)* ![[game.mp3]]<br><br>👪 **Word Family:** Gamer (n), Gaming (n)<br><br>💬 **Ví dụ:** We played a game of chess.<br>*(-> Chúng tôi đã chơi một ván cờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A form of play or sport, especially a competitive one played according to rules.

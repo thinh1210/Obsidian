@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Skirt
 *noun*
 > /skɜːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Skirt::Chân váy *(Phát âm: /skɜːrt/)* ![[skirt.mp3]]<br><br>👪 **Word Family:** skirt (v)<br><br>💬 **Ví dụ:** She likes wearing skirts in summer.<br>*(-> Cô ấy thích mặc váy vào mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women and girls that hangs from the waist.

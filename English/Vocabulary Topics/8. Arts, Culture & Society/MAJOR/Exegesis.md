@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Exegesis
 *n.*
 > /ˌek.sɪˈdʒiː.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Tinh thần tự học, Tri thức luận & Thực tiễn học thuật
+
+## 🗂️ Flashcard
+Exegesis::Sự chú giải, diễn giải phê phán văn bản *(Phát âm: /ˌek.sɪˈdʒiː.sɪs/)* ![[exegesis.mp3]]<br><br>👪 **Word Family:** exegesis (n), exegete (n), exegetical (adj)<br><br>💬 **Ví dụ:** The scholar offered a detailed exegesis of the ancient poem.<br>*(-> Học giả đưa ra một bài chú giải chi tiết về bài thơ cổ đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Critical explanation or interpretation of a text, especially a religious or literary one.

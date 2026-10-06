@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Thief
 *noun*
 > /θiːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Thief::Kẻ trộm, kẻ cắp *(Phát âm: /θiːf/)* ![[thief.mp3]]<br><br>👪 **Word Family:** theft (n), thieve (v)<br><br>💬 **Ví dụ:** A thief stole my wallet on the bus.<br>*(-> Một kẻ trộm đã lấy cắp ví của tôi trên xe buýt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who steals something from another person or place

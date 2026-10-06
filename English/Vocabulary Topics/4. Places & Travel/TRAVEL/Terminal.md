@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Terminal
 *noun*
 > /ˈtɜː.mɪ.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
+
+## 🗂️ Flashcard
+Terminal::Nhà ga (sân bay) *(Phát âm: /ˈtɜː.mɪ.nəl/)* ![[terminal.mp3]]<br><br>👪 **Word Family:** Terminals<br><br>💬 **Ví dụ:** Go to Terminal 2.<br>*(-> Hãy đến Nhà ga số 2.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The area where passengers wait for flights

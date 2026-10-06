@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Grow
 *verb*
 > /ɡroʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Grow::Lớn lên, phát triển *(Phát âm: /ɡroʊ/)* ![[grow.mp3]]<br><br>👪 **Word Family:** Growth (n), Grown (adj)<br><br>💬 **Ví dụ:** Children grow fast.<br>*(-> Trẻ em lớn rất nhanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Undergo natural development by increasing in size and changing physically.

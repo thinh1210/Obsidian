@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Polygon
 *n.*
 > /ˈpɒl.i.ɡɒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Polygon::Hình đa giác *(Phát âm: /ˈpɒl.i.ɡɒn/)* ![[polygon.mp3]]<br><br>👪 **Word Family:** Polygonal (adj)<br><br>💬 **Ví dụ:** A hexagon is a type of polygon.<br>*(-> Hình lục giác là một loại đa giác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plane figure with at least three straight sides and angles, and typically five or more.

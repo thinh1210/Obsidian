@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Renewable
 *adj.*
 > /rɪˈnjuːəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Renewable::Có thể tái tạo *(Phát âm: /rɪˈnjuːəbl/)* ![[renewable.mp3]]<br><br>👪 **Word Family:** renew (v), renewal (n), renewably (adv)<br><br>💬 **Ví dụ:** Solar power is a clean, renewable energy source.<br>*(-> Năng lượng mặt trời là một nguồn năng lượng sạch, có thể tái tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (of a natural resource or source of energy) not depleted when used.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Kill
 *verb*
 > /kɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Kill::Giết, sát hại *(Phát âm: /kɪl/)* ![[kill.mp3]]<br><br>👪 **Word Family:** killer (n), killing (n)<br><br>💬 **Ví dụ:** Extreme cold weather can kill delicate garden plants.<br>*(-> Thời tiết cực lạnh có thể giết chết những cây cảnh nhạy cảm trong vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cause the death of a person, animal, or plant

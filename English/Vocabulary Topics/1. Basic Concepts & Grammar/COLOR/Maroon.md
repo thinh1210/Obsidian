@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Maroon
 *n, adj*
 > /məˈruːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Maroon::Đỏ sẫm (hơi nâu/tím) *(Phát âm: /məˈruːn/)* ![[maroon.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He drives a maroon car.<br>*(-> Anh ấy lái một chiếc xe màu đỏ sẫm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dark reddish-purple color.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Dilapidated
 *adj.*
 > /dɪˈlæpɪdeɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Dilapidated::Đổ nát, xiêu vẹo *(Phát âm: /dɪˈlæpɪdeɪtɪd/)* ![[dilapidated.mp3]]<br><br>👪 **Word Family:** dilapidation (n)<br><br>💬 **Ví dụ:** The old house is dilapidated.<br>*(-> Ngôi nhà cũ đã đổ nát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Old and in very bad condition.

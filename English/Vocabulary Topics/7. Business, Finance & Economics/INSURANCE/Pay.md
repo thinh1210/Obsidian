@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Pay
 *v.*
 > /peɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Pay::Thanh toán, trả tiền *(Phát âm: /peɪ/)* ![[pay.mp3]]<br><br>👪 **Word Family:** payment, payable, payer<br><br>💬 **Ví dụ:** You have to pay the premium every month.<br>*(-> Bạn phải đóng phí bảo hiểm mỗi tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To give money to someone for something you can buy or for services they provide.

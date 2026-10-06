@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Capital
 *n.*
 > /ˈkæpɪtəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Capital::Vốn, nguồn vốn *(Phát âm: /ˈkæpɪtəl/)* ![[capital.mp3]]<br><br>👪 **Word Family:** capitalism, capitalist, capitalize<br><br>💬 **Ví dụ:** He needs capital to start his new restaurant.<br>*(-> Anh ấy cần vốn để khởi nghiệp nhà hàng mới của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wealth in the form of money or other assets owned by a person or organization or contributed for a purpose

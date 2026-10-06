@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Escapade
 *noun*
 > /ˈes.kə.peɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Escapade::Cuộc phiêu lưu (phi lý) *(Phát âm: /ˈes.kə.peɪd/)* ![[escapade.mp3]]<br><br>👪 **Word Family:** Escapades<br><br>💬 **Ví dụ:** Her latest escapade was wild.<br>*(-> Cuộc phiêu lưu mới nhất của cô ấy rất hoang dã.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act involving some danger, risk, or excitement

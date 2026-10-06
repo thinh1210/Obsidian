@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # propaganda
 *noun*
 > /ˌprɑːpəˈɡændə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+propaganda::Tuyên truyền (thường mang tính định hướng, thiên lệch) *(Phát âm: /ˌprɑːpəˈɡændə/)* ![[propaganda.mp3]]<br><br>👪 **Word Family:** propagandist (n), propagandize (v)<br><br>💬 **Ví dụ:** During the election, both sides spread propaganda on social media.<br>*(-> Trong cuộc bầu cử, cả hai bên đều phát tán tuyên truyền trên mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view.

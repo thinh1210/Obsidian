@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Robot
 *noun.*
 > /ˈroʊ.bɑːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
+
+## 🗂️ Flashcard
+Robot::Rô-bốt, người máy *(Phát âm: /ˈroʊ.bɑːt/)* ![[robot.mp3]]<br><br>👪 **Word Family:** robotic (adj), robotics (noun)<br><br>💬 **Ví dụ:** I bought a smart robot vacuum cleaner yesterday.<br>*(-> Tôi đã mua một chiếc máy hút bụi robot thông minh vào ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine controlled by a computer that can do work automatically

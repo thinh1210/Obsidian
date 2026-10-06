@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Symbol
 *n.*
 > /ˈsɪm.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Symbol::Biểu tượng *(Phát âm: /ˈsɪm.bəl/)* ![[symbol.mp3]]<br><br>👪 **Word Family:** symbolic, symbolize, symbolism<br><br>💬 **Ví dụ:** The dove is a symbol of peace.<br>*(-> Chim bồ câu là biểu tượng của hòa bình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing that represents or stands for something else, especially a material object representing something abstract.

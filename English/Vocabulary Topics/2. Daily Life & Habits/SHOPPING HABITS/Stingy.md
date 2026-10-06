@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Stingy
 *adj*
 > /ˈstɪn.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Stingy::Keo kiệt *(Phát âm: /ˈstɪn.dʒi/)* ![[stingy.mp3]]<br><br>👪 **Word Family:** Stinginess<br><br>💬 **Ví dụ:** He is very stingy.<br>*(-> Anh ấy rất keo kiệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unwilling to spend money

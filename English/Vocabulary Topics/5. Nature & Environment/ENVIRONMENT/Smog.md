@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Smog
 *n.*
 > /smɒɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Smog::Khói mù ô nhiễm, hỗn hợp khói bụi độc hại kết hợp với sương mù ở các đô thị lớn *(Phát âm: /smɒɡ/)* ![[smog.mp3]]<br><br>👪 **Word Family:** smoggy (adj)<br><br>💬 **Ví dụ:** A dense blanket of grey smog hovered over the capital city during rush hour.<br>*(-> Một lớp khói mù xám xịt dày đặc bao trùm lấy thành phố thủ đô vào giờ cao điểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fog or haze combined with smoke and other atmospheric pollutants.

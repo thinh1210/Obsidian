@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Toxicology
 *noun*
 > /ˌtɒk.sɪˈkɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Toxicology::Độc chất học – khoa học nghiên cứu tác hại của các chất độc lên cơ thể sống *(Phát âm: /ˌtɒk.sɪˈkɒl.ə.dʒi/)* ![[toxicology.mp3]]<br><br>👪 **Word Family:** toxicologist (n), toxicological (adj), toxic (adj)<br><br>💬 **Ví dụ:** A toxicology screen checks for drugs and alcohol in a patient's blood.<br>*(-> Sàng lọc độc chất học kiểm tra ma túy và rượu trong máu bệnh nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the adverse effects of chemical substances on living organisms, especially for legal investigation.

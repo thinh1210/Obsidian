@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Solar power
 *n.*
 > /ˌsəʊlə ˈpaʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Solar power::Năng lượng mặt trời, nguồn điện sạch thu được từ ánh sáng mặt trời qua pin quang điện *(Phát âm: /ˌsəʊlə ˈpaʊər/)* ![[solar_power.mp3]]<br><br>👪 **Word Family:** solar-powered (adj), solar (adj)<br><br>💬 **Ví dụ:** Installing solar panels on our rooftop halved our household electricity bills last year.<br>*(-> Lắp đặt các tấm pin mặt trời trên mái nhà đã giúp cắt giảm một nửa hóa đơn tiền điện nhà tôi năm ngoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Power obtained by harnessing the energy of the sun's rays through photovoltaic panels or mirrors.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Concentrate
 *v.*
 > /ˈkɒnsntreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Concentrate::Tập trung *(Phát âm: /ˈkɒnsntreɪt/)* ![[concentrate.mp3]]<br><br>👪 **Word Family:** concentration (n)<br><br>💬 **Ví dụ:** I can't concentrate with this noise.<br>*(-> Tôi không thể tập trung với tiếng ồn này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Focus all one's attention on a particular object or activity

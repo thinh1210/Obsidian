@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Mirth
 *n.*
 > /mɜːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Mirth::Sự vui vẻ, tiếng cười giòn giã *(Phát âm: /mɜːθ/)* ![[mirth.mp3]]<br><br>👪 **Word Family:** Mirthful (adj)<br><br>💬 **Ví dụ:** The room was filled with mirth.<br>*(-> Căn phòng tràn ngập tiếng cười vui vẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Amusement, especially as expressed in laughter.

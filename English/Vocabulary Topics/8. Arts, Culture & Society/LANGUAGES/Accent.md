@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Accent
 *n.*
 > /ˈæksent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Accent::Giọng điệu, chất giọng *(Phát âm: /ˈæksent/)* ![[accent.mp3]]<br><br>👪 **Word Family:** accentuation, accentuate<br><br>💬 **Ví dụ:** He speaks with a strong British accent.<br>*(-> Anh ấy nói chuyện với chất giọng Anh rất nặng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A distinctive mode of pronunciation of a language, especially one associated with a country or locality

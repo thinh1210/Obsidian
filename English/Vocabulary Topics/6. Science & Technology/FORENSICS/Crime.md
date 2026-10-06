@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Crime
 *noun*
 > /kraɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Crime::Tội phạm / hành vi phạm tội *(Phát âm: /kraɪm/)* ![[crime.mp3]]<br><br>👪 **Word Family:** criminal (n/adj), criminally (adv), criminalize (v)<br><br>💬 **Ví dụ:** Stealing from a shop is a crime.<br>*(-> Ăn cắp hàng trong cửa hàng là một hành vi phạm tội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action that is against the law and can be punished.

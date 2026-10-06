@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # nail
 *noun*
 > /neɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Nail::cái đinh *(Phát âm: /neɪl/)* ![[nail.mp3]]<br><br>👪 **Word Family:** Noun: nail (cái đinh, móng tay/chân), Verb: nail (đóng đinh, tóm gọn)<br><br>💬 **Ví dụ:** He hammered a nail into the wall to hang the clock.<br>*(-> Anh ấy đóng một cái đinh vào tường để treo đồng hồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a small metal spike with a broadened flat head, driven into wood to join things together.

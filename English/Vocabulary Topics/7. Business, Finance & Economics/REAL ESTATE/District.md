@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # District
 *n.*
 > /ˈdɪstrɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+District::Quận, khu vực *(Phát âm: /ˈdɪstrɪkt/)* ![[district.mp3]]<br><br>👪 **Word Family:** district (v)<br><br>💬 **Ví dụ:** The central business district is very crowded during rush hour.<br>*(-> Khu trung tâm tài chính rất đông đúc vào giờ cao điểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An area of a country or city, especially one characterized by a particular feature or activity.

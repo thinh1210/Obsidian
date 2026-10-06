@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Free
 *adj.*
 > /friː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Free::Tự do *(Phát âm: /friː/)* ![[free.mp3]]<br><br>👪 **Word Family:** freedom, freely, free<br><br>💬 **Ví dụ:** You are free to choose whatever you want to eat.<br>*(-> Bạn được tự do lựa chọn bất cứ thứ gì bạn muốn ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to act or be done as one wishes; not under the control of another.

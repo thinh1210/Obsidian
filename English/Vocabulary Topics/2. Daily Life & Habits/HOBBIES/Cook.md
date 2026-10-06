@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Cook
 *v*
 > /kʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Cook::Nấu ăn *(Phát âm: /kʊk/)* ![[cook.mp3]]<br><br>👪 **Word Family:** cooking (n), cook (n), cooker (n), cookbook (n)<br><br>💬 **Ví dụ:** My dad usually cooks on weekends.<br>*(-> Bố tôi thường nấu ăn vào cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To prepare food and heat it so that it is ready to eat.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Brain
 *noun*
 > /breɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Brain::Bộ não *(Phát âm: /breɪn/)* ![[brain.mp3]]<br><br>👪 **Word Family:** brainy (adj)<br><br>💬 **Ví dụ:** Use your brain.<br>*(-> Hãy dùng não của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The organ inside the head that controls thought and feeling.

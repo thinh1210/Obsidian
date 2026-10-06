@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Basket
 *n*
 > /ˈbɑː.skɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Basket::Giỏ *(Phát âm: /ˈbɑː.skɪt/)* ![[basket.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** My basket is full.<br>*(-> Giỏ tôi đầy rồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A container for holding things

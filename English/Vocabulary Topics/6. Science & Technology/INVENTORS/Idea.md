@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # idea
 *n.*
 > /aɪˈdɪə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Idea::Ý tưởng, ý kiến *(Phát âm: /aɪˈdɪə/)* ![[idea.mp3]]<br><br>👪 **Word Family:** ideal (adj/n), ideate (v), ideation (n)<br><br>💬 **Ví dụ:** I have a good idea for our weekend trip.<br>*(-> Tôi có một ý tưởng hay cho chuyến đi cuối tuần của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A suggestion or plan for doing something, or an opinion or belief

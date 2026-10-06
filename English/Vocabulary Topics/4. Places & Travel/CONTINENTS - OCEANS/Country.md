@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Country
 *noun*
 > /ˈkʌntri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Country::Quốc gia, đất nước *(Phát âm: /ˈkʌntri/)* ![[country.mp3]]<br><br>👪 **Word Family:** Countless (adj. - unrelated strictly but looks similar), Countryside (n.)<br><br>💬 **Ví dụ:** Japan is a beautiful country.<br>*(-> Nhật Bản là một đất nước xinh đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A nation with its own government, occupying a particular territory.

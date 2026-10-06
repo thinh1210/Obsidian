@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Destroy
 *verb*
 > /dɪˈstrɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Destroy::Tàn phá, phá hủy *(Phát âm: /dɪˈstrɔɪ/)* ![[destroy.mp3]]<br><br>👪 **Word Family:** destruction (n), destructive (adj)<br><br>💬 **Ví dụ:** The earthquake destroyed several old buildings in the city.<br>*(-> Trận động đất đã phá hủy một số tòa nhà cũ trong thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To damage something so badly that it cannot be used or no longer exists.

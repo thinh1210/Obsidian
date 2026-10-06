@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Black Hole
 *noun*
 > /blæk həʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Black Hole::Hố đen, lỗ đen *(Phát âm: /blæk həʊl/)* ![[black_hole.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Many science fiction movies feature characters traveling through a black hole.<br>*(-> Nhiều bộ phim khoa học viễn tưởng có cảnh các nhân vật du hành qua một hố đen.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A region of spacetime where gravity is so strong that nothing, not even light, can escape.

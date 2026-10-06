@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Editorial
 *noun*
 > /ˌed.ɪˈtɔː.ri.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Editorial::Bài xã luận *(Phát âm: /ˌed.ɪˈtɔː.ri.əl/)* ![[editorial.mp3]]<br><br>👪 **Word Family:** editor (n), edit (v), edition (n)<br><br>💬 **Ví dụ:** The Sunday paper featured a strong editorial about education reform.<br>*(-> Tờ báo Chủ nhật có một bài xã luận mạnh mẽ về cải cách giáo dục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A newspaper article giving an opinion on a topical issue.

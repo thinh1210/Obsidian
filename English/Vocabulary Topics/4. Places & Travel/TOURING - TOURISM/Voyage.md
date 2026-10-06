@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Voyage
 *Noun*
 > /ˈvɔɪ.ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Voyage::Chuyến đi biển *(Phát âm: /ˈvɔɪ.ɪdʒ/)* ![[voyage.mp3]]<br><br>👪 **Word Family:** voyager (n)<br><br>💬 **Ví dụ:** The Titanic sank on its maiden voyage.<br>*(-> Tàu Titanic chìm trong chuyến đi đầu tiên của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long journey, especially by ship.

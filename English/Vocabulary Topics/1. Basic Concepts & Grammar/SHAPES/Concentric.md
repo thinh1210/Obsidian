@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Concentric
 *adj.*
 > /kənˈsen.trɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Concentric::Đồng tâm *(Phát âm: /kənˈsen.trɪk/)* ![[concentric.mp3]]<br><br>👪 **Word Family:** Concentrically (adv)<br><br>💬 **Ví dụ:** A target consists of concentric circles.<br>*(-> Bia ngắm gồm các vòng tròn đồng tâm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of or denoting circles, arcs, or other shapes which share the same center, the larger often completely surrounding the smaller.

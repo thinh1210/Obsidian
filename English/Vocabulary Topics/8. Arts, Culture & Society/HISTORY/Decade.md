@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Decade
 *noun*
 > /ˈdek.eɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Thời cổ đại, Kỷ nguyên & Phương pháp luận sử học
+
+## 🗂️ Flashcard
+Decade::Thập kỷ (10 năm) *(Phát âm: /ˈdek.eɪd/)* ![[decade.mp3]]<br><br>👪 **Word Family:** decadal (adj)<br><br>💬 **Ví dụ:** The country has undergone massive economic growth in the last decade.<br>*(-> Đất nước đã trải qua sự tăng trưởng kinh tế to lớn trong thập kỷ qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of ten years.

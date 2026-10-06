@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Heuristic
 *adj*
 > /hjʊəˈrɪs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Heuristic::(Thuộc) phương pháp heuristic, tự khám phá, tự học *(Phát âm: /hjʊəˈrɪs.tɪk/)* ![[heuristic.mp3]]<br><br>👪 **Word Family:** Heuristics (n)<br><br>💬 **Ví dụ:** We used a heuristic method to figure out the best route.<br>*(-> Chúng tôi đã sử dụng một phương pháp tự khám phá để tìm ra tuyến đường tốt nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a method of teaching or problem solving) allowing students/AI to learn by discovering things themselves and learning from their own experiences.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Email
 *noun / verb*
 > /ˈiː.meɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Email::Thư điện tử, email; gửi email *(Phát âm: /ˈiː.meɪl/)* ![[email.mp3]]<br><br>👪 **Word Family:** email (n/v), emailer (n)<br><br>💬 **Ví dụ:** She sent me an email with the party invitation attached.<br>*(-> Cô ấy gửi cho tôi một email kèm theo thiệp mời tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Messages sent and received electronically over the Internet; also the act of sending such messages.

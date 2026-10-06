@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Perceive
 *verb*
 > /pɚˈsiːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Perceive::Nhận thức, nhìn nhận *(Phát âm: /pɚˈsiːv/)* ![[perceive.mp3]]<br><br>👪 **Word Family:** perception (noun)<br><br>💬 **Ví dụ:** I perceived a change in his tone.<br>*(-> Tôi nhận thấy sự thay đổi trong giọng điệu của anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Become aware or conscious of something; come to realize or understand.

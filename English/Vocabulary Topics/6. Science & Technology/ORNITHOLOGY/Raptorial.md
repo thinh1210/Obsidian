@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Raptorial
 *adjective*
 > /ræpˈtɔː.ri.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Raptorial::(Thuộc) loài chim săn mồi *(Phát âm: /ræpˈtɔː.ri.əl/)* ![[raptorial.mp3]]<br><br>👪 **Word Family:** raptor (n), raptorial (adj)<br><br>💬 **Ví dụ:** Hawks and eagles are raptorial birds with sharp eyesight.<br>*(-> Diều hâu và đại bàng là loài chim săn mồi có thị lực nhạy bén.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or living by preying on other animals; predatory.

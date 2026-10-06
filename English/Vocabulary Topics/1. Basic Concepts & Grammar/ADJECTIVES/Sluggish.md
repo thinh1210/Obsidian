@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Sluggish
 *adj.*
 > /ˈslʌɡɪʃ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Sluggish::Chậm chạp, lờ đờ *(Phát âm: /ˈslʌɡɪʃ/)* ![[sluggish.mp3]]<br><br>👪 **Word Family:** sluggishness<br><br>💬 **Ví dụ:** Sluggish morning.<br>*(-> Buổi sáng lờ đờ.)*
+<!--SR:!2026-10-03,1,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Slow-moving or inactive

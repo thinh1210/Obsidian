@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Exhibit
 *noun*
 > /ɪɡˈzɪbɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Exhibit::Hiện vật triển lãm, vật trưng bày *(Phát âm: /ɪɡˈzɪbɪt/)* ![[exhibit.mp3]]<br><br>👪 **Word Family:** exhibition (noun), exhibitor (noun), exhibit (verb)<br><br>💬 **Ví dụ:** The museum has a new exhibit on ancient Egypt.<br>*(-> Bảo tàng có một triển lãm mới về Ai Cập cổ đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or a collection of objects on show in a museum, gallery, or exhibition

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Visit
 *verb/noun*
 > /ˈvɪz.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Visit::Thăm *(Phát âm: /ˈvɪz.ɪt/)* ![[visit.mp3]]<br><br>👪 **Word Family:** visitor<br><br>💬 **Ví dụ:** I visit my grandparents often.<br>*(-> Tôi thường về thăm ông bà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Go to see and spend time with (someone) socially.

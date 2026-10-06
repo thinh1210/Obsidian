@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Science
 *Noun*
 > /ˈsaɪ.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Science::Khoa học *(Phát âm: /ˈsaɪ.əns/)* ![[science.mp3]]<br><br>👪 **Word Family:** scientist (n), scientific (adj), scientifically (adv)<br><br>💬 **Ví dụ:** I love science classes at school.<br>*(-> Tôi rất thích các lớp học khoa học ở trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The systematic study of the structure and behavior of the physical and natural world.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Sequence
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - order, succession, chain
+
+
+## 🗂️ Flashcard
+Sequence::Trình tự, chuỗi tiến trình *(Phát âm: /ˈsiː.kwəns/)* ![[sequence.mp3]]<br><br>👪 **Word Family:** [Noun]: sequence, sequel, [Verb]: sequence, [Adj]: sequential, [Adv]: sequentially<br><br>💬 **Ví dụ:** The police reconstructed the sequence of events leading up to the accident.<br>*(-> Cảnh sát đã dựng lại trình tự các sự kiện dẫn đến tai nạn.)*

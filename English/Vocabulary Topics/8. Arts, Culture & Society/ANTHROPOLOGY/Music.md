@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Music
 *n.*
 > /ˈmjuː.zɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Music::Âm nhạc *(Phát âm: /ˈmjuː.zɪk/)* ![[music.mp3]]<br><br>👪 **Word Family:** musical, musician, musicology<br><br>💬 **Ví dụ:** She listens to music while cooking.<br>*(-> Cô ấy nghe nhạc trong khi nấu ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.

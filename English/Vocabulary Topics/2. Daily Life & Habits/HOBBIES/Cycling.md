@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Cycling
 *noun*
 > /ˈsaɪ.klɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Cycling::Đạp xe *(Phát âm: /ˈsaɪ.klɪŋ/)* ![[cycling.mp3]]<br><br>👪 **Word Family:** Cycle (v), Cyclist (n)<br><br>💬 **Ví dụ:** Cycling is my favorite way to commute.<br>*(-> Đạp xe là cách di chuyển yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or activity of riding a bicycle.

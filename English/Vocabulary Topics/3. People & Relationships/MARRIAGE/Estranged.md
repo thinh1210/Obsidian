@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Estranged
 *adjective*
 > /ɪˈstreɪndʒd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Estranged::Xa lánh/Ly thân *(Phát âm: /ɪˈstreɪndʒd/)* ![[estranged.mp3]]<br><br>👪 **Word Family:** Estrangement (noun)<br><br>💬 **Ví dụ:** His estranged wife filed for divorce.<br>*(-> Người vợ ly thân của anh ấy đã nộp đơn ly hôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** No longer close or affectionate to someone; alienated.

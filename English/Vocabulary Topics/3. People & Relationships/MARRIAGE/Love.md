@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Love
 *noun*
 > /lʌv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Love::Tình yêu *(Phát âm: /lʌv/)* ![[love.mp3]]<br><br>👪 **Word Family:** Lover (noun), Loving (adjective)<br><br>💬 **Ví dụ:** They are in love.<br>*(-> Họ đang yêu nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong feeling of affection.

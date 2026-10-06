@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Aisle
 *n.*
 > /aɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Aisle::Lối đi giữa các dãy kệ hàng trong siêu thị, hoặc giữa các hàng ghế *(Phát âm: /aɪl/)* ![[aisle.mp3]]<br><br>💬 **Ví dụ:** Excuse me, in which aisle can I find the canned tomatoes and pasta sauce?<br>*(-> Xin lỗi, tôi có thể tìm cà chua đóng hộp và sốt mì Ý ở lối đi số mấy ạ?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A passage between rows of shelves in a supermarket or seats in an aircraft/theatre.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Best-seller
 *noun*
 > /ˌbestˈsel.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Best-seller::Sách bán chạy nhất *(Phát âm: /ˌbestˈsel.ər/)* ![[best_seller.mp3]]<br><br>👪 **Word Family:** best-selling (adj)<br><br>💬 **Ví dụ:** Her debut novel quickly climbed the best-seller list.<br>*(-> Cuốn tiểu thuyết đầu tay của cô nhanh chóng leo lên danh sách bán chạy nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A book or other product that sells in very large numbers.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Choose
 *v.*
 > /tʃuːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Choose::Lựa chọn, quyết định lấy một hoặc nhiều phương án giữa các lựa chọn *(Phát âm: /tʃuːz/)* ![[choose.mp3]]<br><br>👪 **Word Family:** choice (n), choosy (adj)<br><br>💬 **Ví dụ:** Customers can choose from a wide assortment of fresh fruit smoothies on the menu.<br>*(-> Khách hàng có thể lựa chọn từ nhiều loại sinh tố trái cây tươi đa dạng trên thực đơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To decide what you want from two or more things or possibilities; to select freely.

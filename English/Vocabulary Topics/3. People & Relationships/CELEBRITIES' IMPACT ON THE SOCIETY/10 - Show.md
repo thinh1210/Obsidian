@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Show
 *n.*
 > /ʃəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+10 - Show::Buổi biểu diễn *(Phát âm: /ʃəʊ/)* ![[show.mp3]]<br><br>👪 **Word Family:** Showman (n.)<br><br>💬 **Ví dụ:** I watch the show.<br>*(-> Tôi xem chương trình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A performance for the public.

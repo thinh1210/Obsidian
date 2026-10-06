@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Congested
 *adj.*
 > /kənˈdʒestɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Congested::Đông nghịt, kẹt cứng *(Phát âm: /kənˈdʒestɪd/)* ![[congested.mp3]]<br><br>👪 **Word Family:** congestion (n)<br><br>💬 **Ví dụ:** The roads are highly congested.<br>*(-> Các con đường đang kẹt cứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Too blocked or crowded and causing difficulties.

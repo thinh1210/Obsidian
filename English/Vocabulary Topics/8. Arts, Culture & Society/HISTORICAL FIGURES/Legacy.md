@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Legacy
 *n.*
 > /ˈleɡəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Legacy::Di sản *(Phát âm: /ˈleɡəsi/)* ![[legacy.mp3]]<br><br>👪 **Word Family:** legatee<br><br>💬 **Ví dụ:** The writer left a legacy of beautiful poems.<br>*(-> Nhà văn đã để lại một di sản gồm những bài thơ đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something left or handed down by a predecessor

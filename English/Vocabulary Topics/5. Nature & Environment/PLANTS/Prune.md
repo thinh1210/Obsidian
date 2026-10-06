@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Prune
 *verb*
 > /pruːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Prune::Cắt tỉa (cành) *(Phát âm: /pruːn/)* ![[prune.mp3]]<br><br>👪 **Word Family:** Noun: pruner (kéo tỉa cành), Verb: prune (cắt tỉa)<br><br>💬 **Ví dụ:** You should prune the apple trees in late winter.<br>*(-> Bạn nên cắt tỉa cây táo vào cuối mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To trim a tree, shrub, or bush by cutting away dead or overgrown branches.

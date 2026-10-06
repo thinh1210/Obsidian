@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Stranger
 *n.*
 > /ˈstreɪn.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Stranger::Người lạ, hoặc người bạn cũ nay đã hoàn toàn xa cách như chưa từng quen *(Phát âm: /ˈstreɪn.dʒər/)* ![[stranger.mp3]]<br><br>👪 **Word Family:** strange (adj), strangely (adv), strangeness (n)<br><br>💬 **Ví dụ:** It is poignant how two best friends can gradually drift apart and become strangers again.<br>*(-> Thật xót xa khi hai người bạn thân nhất có thể dần dần xa cách và trở thành người dưng một lần nữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone you do not know, or a former friend who has drifted away completely.

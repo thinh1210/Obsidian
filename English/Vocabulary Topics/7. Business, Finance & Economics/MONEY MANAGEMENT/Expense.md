@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Expense
 *Noun*
 > /ɪkˈspens/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
+
+## 🗂️ Flashcard
+Expense::Chi phí, khoản chi tiêu (giá cả yêu cầu cho cái gì; số tiền chi ra cho việc gì) *(Phát âm: /ɪkˈspens/)* ![[expense.mp3]]<br><br>👪 **Word Family:** Adj: expensive (đắt đỏ), Verb: expend (tiêu dùng)<br><br>💬 **Ví dụ:** We need to reduce our household expenses to save for our child's college fund.<br>*(-> Chúng ta cần giảm chi phí sinh hoạt gia đình để tiết kiệm cho quỹ đại học của con.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The cost required for something; the money spent on something.

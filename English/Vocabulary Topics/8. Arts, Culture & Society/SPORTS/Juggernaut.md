@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Juggernaut
 *n.*
 > /ˈdʒʌɡ.ə.nɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Juggernaut::Lực lượng/Đội tuyển bất khả chiến bại, thế lực khổng lồ *(Phát âm: /ˈdʒʌɡ.ə.nɔːt/)* ![[juggernaut.mp3]]<br><br>👪 **Word Family:** juggernauts<br><br>💬 **Ví dụ:** The football club has become a sports juggernaut, crushing all rivals.<br>*(-> Câu lạc bộ bóng đá đã trở thành một đội tuyển bất khả chiến bại, đè bẹp mọi đối thủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A huge, powerful, and overwhelming force or institution.

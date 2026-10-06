@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Ticket
 *noun*
 > /ˈtɪkɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Ticket::Vé (tàu, xe, máy bay...) *(Phát âm: /ˈtɪkɪt/)* ![[ticket.mp3]]<br><br>👪 **Word Family:** Noun: ticket (vé), Verb: ticket (cấp vé, phạt tiền vi phạm)<br><br>💬 **Ví dụ:** You need to buy a ticket before boarding the train.<br>*(-> Bạn cần mua vé trước khi lên tàu hỏa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of paper or card that gives the holder a right to admission to a place or travel on public transport.

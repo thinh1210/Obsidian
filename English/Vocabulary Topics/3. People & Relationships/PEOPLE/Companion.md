@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Companion
 *n.*
 > /kəmˈpæn.jən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Companion::Bạn đồng hành *(Phát âm: /kəmˈpæn.jən/)* ![[companion.mp3]]<br><br>👪 **Word Family:** Companionship<br><br>💬 **Ví dụ:** He is my travel companion.<br>*(-> Anh ấy là bạn đồng hành du lịch của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or animal with whom one spends a lot of time.

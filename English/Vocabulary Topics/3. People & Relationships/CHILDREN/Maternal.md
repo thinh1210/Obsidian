@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Maternal
 *adj*
 > /məˈtɝː.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Maternal::Thuộc về mẹ *(Phát âm: /məˈtɝː.nəl/)* ![[maternal.mp3]]<br><br>👪 **Word Family:** Maternity (n)<br><br>💬 **Ví dụ:** Her maternal love is unconditional.<br>*(-> Tình mẹ của cô ấy là vô điều kiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or relating to a mother.

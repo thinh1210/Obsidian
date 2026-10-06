@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # wire
 *noun*
 > /waɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Wire::dây kim loại, dây điện *(Phát âm: /waɪər/)* ![[wire.mp3]]<br><br>👪 **Word Family:** Noun: wire (dây điện), wiring (hệ thống dây điện), Verb: wire (đi dây điện, chuyển tiền nhanh), Adjective: wireless (không dây)<br><br>💬 **Ví dụ:** Make sure the wire is unplugged before you touch it.<br>*(-> Đảm bảo dây điện đã được rút phích cắm trước khi bạn chạm vào nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** metal drawn out into the form of a thin flexible thread or rod.

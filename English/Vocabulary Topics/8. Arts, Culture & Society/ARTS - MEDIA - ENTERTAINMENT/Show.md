@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Show
 *n.*
 > /ʃəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Show::Chương trình, buổi biểu diễn *(Phát âm: /ʃəʊ/)* ![[show.mp3]]<br><br>👪 **Word Family:** showcase, showpiece<br><br>💬 **Ví dụ:** What time does the show start?<br>*(-> Mấy giờ thì chương trình bắt đầu?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A spectacle or display, typically an exhibition of acting, music, or other entertainment.

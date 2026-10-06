@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Wave
 *n.*
 > /weɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Wave::Làn sóng biển, đợt sóng nhấp nhô cuộn trào vỗ vào bờ cát *(Phát âm: /weɪv/)* ![[wave.mp3]]<br><br>👪 **Word Family:** wavy (adj), waveform (n)<br><br>💬 **Ví dụ:** Surfers paddled eagerly into the ocean to catch the next rolling wave.<br>*(-> Những người lướt ván háo hức chèo ra biển để đón ngọn sóng cuộn trào tiếp theo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long body of water curling into an arched form and breaking on the shore.

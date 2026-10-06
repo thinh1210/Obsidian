@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Bread
 *n.*
 > /bred/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Bread::Bánh mì *(Phát âm: /bred/)* ![[bread.mp3]]<br><br>👪 **Word Family:** breadth<br><br>💬 **Ví dụ:** I ate bread for breakfast.<br>*(-> Tôi đã ăn bánh mì vào bữa sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A food made of flour, water, and yeast baked together.

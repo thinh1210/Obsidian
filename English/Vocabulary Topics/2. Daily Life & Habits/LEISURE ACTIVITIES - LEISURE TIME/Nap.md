@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Nap
 *n.*
 > /næp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Nap::Giấc ngủ ngắn ban ngày, sự chợp mắt nghỉ ngơi giữa ngày *(Phát âm: /næp/)* ![[nap.mp3]]<br><br>👪 **Word Family:** nap (v)<br><br>💬 **Ví dụ:** A twenty-minute power nap after lunch helps refresh my mental focus.<br>*(-> Một giấc ngủ ngắn 20 phút sau bữa trưa giúp làm tươi mới sự tập trung tinh thần của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short period of sleep, especially during the day.

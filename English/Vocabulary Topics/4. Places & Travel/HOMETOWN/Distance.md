@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Distance
 *n.*
 > /ˈdɪstəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
+
+## 🗂️ Flashcard
+Distance::Khoảng cách *(Phát âm: /ˈdɪstəns/)* ![[distance.mp3]]<br><br>👪 **Word Family:** Distant (adj.)<br><br>💬 **Ví dụ:** The shop is within walking distance.<br>*(-> Cửa hàng nằm trong khoảng cách đi bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The length of the space between two points.

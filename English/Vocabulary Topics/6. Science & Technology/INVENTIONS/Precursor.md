@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Precursor
 *Noun*
 > /priːˈkɜː.sər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Precursor::Tiền thân, điềm báo, chất tiền đề *(Phát âm: /priːˈkɜː.sər/)* ![[precursor.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The abacus was a precursor to the modern calculator.<br>*(-> Bàn tính là tiền thân của máy tính cầm tay hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that happened or existed before another thing, especially if it either developed into it or had an influence on it.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Bright
 *adj.*
 > /braɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Bright::Sáng sủa, chói chang, trời trong trẻo chan hòa ánh sáng *(Phát âm: /braɪt/)* ![[bright.mp3]]<br><br>👪 **Word Family:** brightly (adv), brightness (n), brighten (v)<br><br>💬 **Ví dụ:** It was a bright autumn morning with crisp air.<br>*(-> Đó là một buổi sáng mùa thu trong sáng với không khí se lạnh dễ chịu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Full of light; shining strongly when the weather is clear.

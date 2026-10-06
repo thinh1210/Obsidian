@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Transport
 *Noun*
 > /ˈtræn.spɔːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Chuẩn bị hành lý, Đặt chỗ & Di chuyển
+
+## 🗂️ Flashcard
+Transport::Giao thông, vận tải *(Phát âm: /ˈtræn.spɔːrt/)* ![[transport.mp3]]<br><br>👪 **Word Family:** transportation (n)<br><br>💬 **Ví dụ:** I usually take public transport to save money.<br>*(-> Tôi thường sử dụng phương tiện giao thông công cộng để tiết kiệm tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The movement of people or goods from one place to another.

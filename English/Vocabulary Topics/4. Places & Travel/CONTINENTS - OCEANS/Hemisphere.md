@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Hemisphere
 *noun*
 > /ˈhemɪsfɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Hemisphere::Bán cầu *(Phát âm: /ˈhemɪsfɪə(r)/)* ![[hemisphere.mp3]]<br><br>👪 **Word Family:** Hemispheric (adj.)<br><br>💬 **Ví dụ:** Australia is in the Southern Hemisphere.<br>*(-> Úc nằm ở Nam bán cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A half of the earth, usually as divided into northern and southern halves by the equator.

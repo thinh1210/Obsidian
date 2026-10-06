@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Vow
 *noun*
 > /vaʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Vow::Lời thề *(Phát âm: /vaʊ/)* ![[vow.mp3]]<br><br>👪 **Word Family:** Vows (plural)<br><br>💬 **Ví dụ:** They wrote their own vows.<br>*(-> Họ tự viết lời thề của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solemn promise.

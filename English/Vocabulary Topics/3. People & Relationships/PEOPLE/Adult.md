@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Adult
 *n.*
 > /ˈæd.ʌlt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Adult::Người lớn *(Phát âm: /ˈæd.ʌlt/)* ![[adult.mp3]]<br><br>👪 **Word Family:** Adulthood<br><br>💬 **Ví dụ:** Only adults can enter.<br>*(-> Chỉ người lớn mới được vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is fully grown or developed.

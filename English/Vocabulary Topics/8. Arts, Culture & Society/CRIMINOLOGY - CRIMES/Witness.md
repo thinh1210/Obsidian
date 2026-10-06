@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Witness
 *noun*
 > /ˈwɪtnəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Witness::Nhân chứng *(Phát âm: /ˈwɪtnəs/)* ![[witness.mp3]]<br><br>👪 **Word Family:** witness (v)<br><br>💬 **Ví dụ:** The police asked if there were any witnesses to the accident.<br>*(-> Cảnh sát hỏi xem có nhân chứng nào chứng kiến vụ tai nạn hay không.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sees an event, typically a crime or accident, take place

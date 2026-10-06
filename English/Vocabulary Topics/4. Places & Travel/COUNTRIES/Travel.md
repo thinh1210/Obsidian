@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Travel
 *Verb*
 > /ˈtrævl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+Travel::Du lịch, di chuyển *(Phát âm: /ˈtrævl/)* ![[travel.mp3]]<br><br>👪 **Word Family:** Traveler<br><br>💬 **Ví dụ:** I want to travel the world.<br>*(-> Tôi muốn đi du lịch vòng quanh thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a journey, typically of some length.

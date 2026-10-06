@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Jewel
 *noun*
 > /ˈdʒuː.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Jewel::Đá quý, châu báu *(Phát âm: /ˈdʒuː.əl/)* ![[jewel.mp3]]<br><br>👪 **Word Family:** Jewelry<br><br>💬 **Ví dụ:** It is a shiny jewel.<br>*(-> Nó là một viên đá quý sáng bóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious stone.

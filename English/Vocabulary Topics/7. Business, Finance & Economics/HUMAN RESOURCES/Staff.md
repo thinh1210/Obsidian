@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Staff
 *n.*
 > /stɑːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Staff::Nhân viên, đội ngũ nhân viên *(Phát âm: /stɑːf/)* ![[staff.mp3]]<br><br>👪 **Word Family:** staffing<br><br>💬 **Ví dụ:** The hotel staff were very helpful.<br>*(-> Nhân viên khách sạn rất nhiệt tình giúp đỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** All the people employed by a particular organization

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # nepotism
 *noun*
 > /ˈnepətɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+nepotism::Nạn con ông cháu cha, chủ nghĩa gia đình trị *(Phát âm: /ˈnepətɪzəm/)* ![[nepotism.mp3]]<br><br>👪 **Word Family:** nepotistic (adj)<br><br>💬 **Ví dụ:** Many people suspect nepotism when the mayor's son got the city job.<br>*(-> Nhiều người nghi ngờ có sự gia đình trị khi con trai thị trưởng nhận được công việc ở thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice among those with power or influence of favoring relatives, friends, or associates, especially by giving them jobs.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Fashion
 *n.*
 > /ˈfæʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Fashion::Thời trang *(Phát âm: /ˈfæʃn/)* ![[fashion.mp3]]<br><br>👪 **Word Family:** Fashionable (adj)<br><br>💬 **Ví dụ:** She is very interested in fashion.<br>*(-> Cô ấy rất quan tâm đến thời trang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A popular trend, especially in styles of dress.

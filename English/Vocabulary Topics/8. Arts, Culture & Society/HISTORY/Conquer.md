@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Conquer
 *verb*
 > /ˈkɒŋ.kər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Conquer::Chinh phục, xâm chiếm, đoạt lấy *(Phát âm: /ˈkɒŋ.kər/)* ![[conquer.mp3]]<br><br>👪 **Word Family:** conqueror (n), conquest (n), unconquered (adj)<br><br>💬 **Ví dụ:** The Spanish conquistadors set out to conquer the Americas.<br>*(-> Những kẻ chinh phục Tây Ban Nha đã lên đường chinh phục châu Mỹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take control of a country or city and its people by force.

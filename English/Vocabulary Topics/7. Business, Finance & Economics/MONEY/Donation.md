@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Donation
 *noun*
 > /dəʊˈneɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Donation::Khoản quyên góp *(Phát âm: /dəʊˈneɪ.ʃən/)* ![[donation.mp3]]<br><br>👪 **Word Family:** donate (v), donor (n)<br><br>💬 **Ví dụ:** Every small donation helps us rescue abandoned animals.<br>*(-> Mỗi khoản quyên góp nhỏ đều giúp chúng tôi giải cứu động vật bị bỏ rơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that is given to a charity, especially a sum of money

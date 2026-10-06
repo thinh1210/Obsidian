@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Tournament
 *n.*
 > /ˈtʊə.nə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Tournament::Giải đấu, vòng đấu giải *(Phát âm: /ˈtʊə.nə.mənt/)* ![[tournament.mp3]]<br><br>👪 **Word Family:** tourney<br><br>💬 **Ví dụ:** He won the golf tournament last Sunday.<br>*(-> Anh ấy đã thắng giải đấu golf chủ nhật tuần trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A series of contests between a number of competitors, who compete for an overall prize.

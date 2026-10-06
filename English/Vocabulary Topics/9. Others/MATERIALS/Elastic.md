@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Elastic
 *adjective.*
 > /ɪˈlæstɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Elastic::Đàn hồi, co giãn *(Phát âm: /ɪˈlæstɪk/)* ![[elastic.mp3]]<br><br>👪 **Word Family:** elasticity (Noun), elasticize (Verb)<br><br>💬 **Ví dụ:** This activewear features an elastic waistband for comfort.<br>*(-> Đồ thể thao này có cạp chun co giãn để tạo sự thoải mái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to resume its normal shape spontaneously after contraction, dilatation, or distortion.

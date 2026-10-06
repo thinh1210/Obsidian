@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Transponder
 *noun*
 > /trænsˈpɒn.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Transponder::Thiết bị phản hồi radar (transponder) *(Phát âm: /trænsˈpɒn.dər/)* ![[transponder.mp3]]<br><br>👪 **Word Family:** radar (n), beacon (n), IFF (abbr)<br><br>💬 **Ví dụ:** Each aircraft is assigned a unique transponder code by air traffic control.<br>*(-> Mỗi máy bay được kiểm soát không lưu gán một mã transponder duy nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electronic device in an aircraft that automatically responds to radar signals and transmits the aircraft's identification and altitude.

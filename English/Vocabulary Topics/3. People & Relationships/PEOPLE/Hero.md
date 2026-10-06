@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Hero
 *n.*
 > /ˈhɪə.rəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Hero::Anh hùng, người được ngưỡng mộ vì lòng dũng cảm phi thường hoặc cống hiến lớn lao *(Phát âm: /ˈhɪə.rəʊ/)* ![[hero.mp3]]<br><br>👪 **Word Family:** heroic (adj), heroically (adv), heroism (n), heroine (fem n)<br><br>💬 **Ví dụ:** Doctors and nurses working round the clock during pandemics are celebrated as everyday heroes.<br>*(-> Các bác sĩ và y tá làm việc ngày đêm trong đại dịch được tôn vinh như những người hùng đời thường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is admired for having done something very brave or having achieved something great.

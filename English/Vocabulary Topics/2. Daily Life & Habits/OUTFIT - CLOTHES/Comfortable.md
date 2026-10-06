@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Comfortable
 *adj.*
 > /ˈkʌm.fə.tə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Comfortable::Mang lại cảm giác dễ chịu, thoải mái cho cơ thể khi mặc *(Phát âm: /ˈkʌm.fə.tə.bəl/)* ![[comfortable.mp3]]<br><br>👪 **Word Family:** comfort (n/v), comfortably (adv), uncomfortable (adj)<br><br>💬 **Ví dụ:** For long flights, I always opt for comfortable loose-fitting sweatpants.<br>*(-> Đối với những chuyến bay dài, tôi luôn chọn những chiếc quần nỉ rộng rãi thoải mái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Providing physical ease, relaxation, and pleasant feeling when worn.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Website
 *noun*
 > /ˈweb.saɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Website::Trang web, website *(Phát âm: /ˈweb.saɪt/)* ![[website.mp3]]<br><br>👪 **Word Family:** website (n), web page (n), webmaster (n)<br><br>💬 **Ví dụ:** I visited the website to find out the store's opening hours.<br>*(-> Tôi truy cập trang web để tìm hiểu giờ mở cửa của cửa hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of related web pages located on a server and accessible via the Internet.

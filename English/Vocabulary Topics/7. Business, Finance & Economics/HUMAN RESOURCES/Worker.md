@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Worker
 *n.*
 > /ˈwɜː.kər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Worker::Công nhân, người lao động *(Phát âm: /ˈwɜː.kər/)* ![[worker.mp3]]<br><br>👪 **Word Family:** work, workforce<br><br>💬 **Ví dụ:** Social workers help families in need.<br>*(-> Các nhân viên xã hội giúp đỡ những gia đình gặp khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who does a specified type of work or job

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Cage
 *noun*
 > /keɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Cage::Lồng chim, chuồng *(Phát âm: /keɪdʒ/)* ![[cage.mp3]]<br><br>👪 **Word Family:** cage (n/v), caged (adj)<br><br>💬 **Ví dụ:** The pet parrot was kept in a spacious cage in the living room.<br>*(-> Con vẹt cưng được nuôi trong một chiếc lồng rộng rãi ở phòng khách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A space surrounded by bars or wire, in which birds or animals are kept.

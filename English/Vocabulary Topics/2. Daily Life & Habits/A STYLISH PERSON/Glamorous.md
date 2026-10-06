@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Glamorous
 *adj.*
 > /ˈɡlæmərəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Glamorous::Quyến rũ, lộng lẫy *(Phát âm: /ˈɡlæmərəs/)* ![[glamorous.mp3]]<br><br>👪 **Word Family:** Glamour (n)<br><br>💬 **Ví dụ:** She leads a very glamorous lifestyle.<br>*(-> Cô ấy có một lối sống rất hào nhoáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Attractive in an exciting and special way.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Discount
 *n/v*
 > /ˈdɪs.kaʊnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Discount::Giảm giá *(Phát âm: /ˈdɪs.kaʊnt/)* ![[discount.mp3]]<br><br>👪 **Word Family:** Discounted<br><br>💬 **Ví dụ:** Is there a discount?<br>*(-> Có giảm giá không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A reduction in price

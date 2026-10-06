@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Renovate
 *v.*
 > /ˈrenəveɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Renovate::Cải tạo, nâng cấp *(Phát âm: /ˈrenəveɪt/)* ![[renovate.mp3]]<br><br>👪 **Word Family:** renovation<br><br>💬 **Ví dụ:** We spent the summer renovating our kitchen.<br>*(-> Chúng tôi đã dành cả mùa hè để cải tạo nhà bếp của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To repair and improve a building so that it is in good condition again

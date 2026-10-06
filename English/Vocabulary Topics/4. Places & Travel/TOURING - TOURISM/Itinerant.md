@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Itinerant
 *Adjective/Noun*
 > /aɪˈtɪn.ə.rənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Itinerant::Lưu động, đi hết nơi này đến nơi khác *(Phát âm: /aɪˈtɪn.ə.rənt/)* ![[itinerant.mp3]]<br><br>👪 **Word Family:** itinerancy (n)<br><br>💬 **Ví dụ:** He lives an itinerant lifestyle, moving from town to town.<br>*(-> Anh ấy sống một lối sống lưu động, chuyển từ thị trấn này sang thị trấn khác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Travelling from one place to another, usually to work for a short period.

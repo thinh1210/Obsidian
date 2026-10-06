@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Fuselage
 *noun*
 > /ˈfjuː.zə.lɑːʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Fuselage::Thân máy bay *(Phát âm: /ˈfjuː.zə.lɑːʒ/)* ![[fuselage.mp3]]<br><br>👪 **Word Family:** airframe (n), hull (n), body (n)<br><br>💬 **Ví dụ:** The passengers sit inside the fuselage during the flight.<br>*(-> Hành khách ngồi bên trong thân máy bay trong suốt chuyến bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main body of an aircraft, to which the wings and tail are attached.

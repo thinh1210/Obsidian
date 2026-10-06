@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Perfect
 *adj*
 > /ˈpɜː.fekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Perfect::Hoàn hảo *(Phát âm: /ˈpɜː.fekt/)* ![[perfect.mp3]]<br><br>👪 **Word Family:** Perfection (noun), Perfectly (adv)<br><br>💬 **Ví dụ:** The weather was perfect.<br>*(-> Thời tiết thật hoàn hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Narcissistic
 *adj.*
 > /ˌnɑː.sɪˈsɪs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Narcissistic::Tự luyến, quá mê đắm bản thân, luôn đòi hỏi được người khác tung hô *(Phát âm: /ˌnɑː.sɪˈsɪs.tɪk/)* ![[narcissistic.mp3]]<br><br>👪 **Word Family:** narcissist (n), narcissism (n), narcissistically (adv)<br><br>💬 **Ví dụ:** His narcissistic social media posts revealed an unquenchable craving for validation.<br>*(-> Những bài đăng tự luyến của anh ta trên mạng xã hội bộc lộ cơn khát được tán dương không bao giờ dứt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an excessive admiration of oneself and a psychological need for admiration from others.

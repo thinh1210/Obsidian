@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Tight-knit
 *adj*
 > /ˌtaɪtˈnɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Tight-knit::Gắn bó khăng khít *(Phát âm: /ˌtaɪtˈnɪt/)* ![[tight_knit.mp3]]<br><br>👪 **Word Family:** knit (v)<br><br>💬 **Ví dụ:** We are a tight-knit family.<br>*(-> Chúng tôi là một gia đình gắn bó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Closely bound together.

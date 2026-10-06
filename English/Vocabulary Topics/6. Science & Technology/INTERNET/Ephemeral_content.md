@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Ephemeral content
 *noun*
 > /ɪˈfem.ər.əl ˈkɒn.tent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Ephemeral_content::Nội dung thoáng qua (nội dung trực tuyến tự biến mất sau một thời gian ngắn) *(Phát âm: /ɪˈfem.ər.əl ˈkɒn.tent/)* ![[ephemeral_content.mp3]]<br><br>👪 **Word Family:** ephemeral (adj), ephemera (n)<br><br>💬 **Ví dụ:** Instagram Stories are a popular form of ephemeral content that disappears after 24 hours.<br>*(-> Instagram Stories là một dạng nội dung thoáng qua phổ biến, biến mất sau 24 giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Online content, such as social media stories, that is only available for a limited period before disappearing.

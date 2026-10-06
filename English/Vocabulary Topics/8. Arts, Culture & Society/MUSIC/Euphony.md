@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Euphony
 *n.*
 > /ˈjuː.fə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Sắc thái âm thanh: Êm tai, Nghịch tai & Thử giọng
+
+## 🗂️ Flashcard
+Euphony::Tính êm tai, sự hài âm (âm thanh dễ chịu) *(Phát âm: /ˈjuː.fə.ni/)* ![[euphony.mp3]]<br><br>👪 **Word Family:** euphonious (adj), euphonically (adv)<br><br>💬 **Ví dụ:** The composer achieved a perfect euphony by blending woodwinds with soft strings.<br>*(-> Nhà soạn nhạc đã đạt được sự hài âm hoàn hảo bằng cách kết hợp nhạc cụ hơi bằng gỗ với nhạc cụ dây nhẹ nhàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being pleasing to the ear, especially through a harmonious combination of words or sounds.

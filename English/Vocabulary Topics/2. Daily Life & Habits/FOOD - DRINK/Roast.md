@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Roast
 *v.*
 > /rəʊst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Roast::Quay, nướng *(Phát âm: /rəʊst/)* ![[roast.mp3]]<br><br>👪 **Word Family:** roasted<br><br>💬 **Ví dụ:** We roasted chicken for dinner.<br>*(-> Chúng tôi nướng gà cho bữa tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Basement
 *noun*
 > /ˈbeɪsmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Basement::Tầng hầm *(Phát âm: /ˈbeɪsmənt/)* ![[basement.mp3]]<br><br>👪 **Word Family:** **Synonyms:** cellar<br><br>💬 **Ví dụ:** The washing machine is in the basement.<br>*(-> Máy giặt ở tầng hầm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The floor of a building which is partly or entirely below ground level.

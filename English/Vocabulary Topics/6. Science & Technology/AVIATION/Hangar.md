@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Hangar
 *noun*
 > /ˈhæŋ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Hangar::Nhà chứa máy bay *(Phát âm: /ˈhæŋ.ər/)* ![[hangar.mp3]]<br><br>👪 **Word Family:** hangared (adj)<br><br>💬 **Ví dụ:** The mechanic repaired the engine inside the hangar.<br>*(-> Thợ máy sửa động cơ bên trong nhà chứa máy bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large building in which aircraft are kept and maintained.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Battery
 *noun*
 > /ˈbætri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Battery::Pin, ắc quy *(Phát âm: /ˈbætri/)* ![[battery.mp3]]<br><br>👪 **Word Family:** battery-powered (adj)<br><br>💬 **Ví dụ:** My phone is dead; I need a charger because the battery is empty.<br>*(-> Điện thoại của tôi hết pin; tôi cần một bộ sạc vì pin đã trống rỗng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power.

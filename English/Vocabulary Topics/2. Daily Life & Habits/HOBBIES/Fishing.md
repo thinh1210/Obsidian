@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Fishing
 *noun*
 > /ˈfɪʃ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Fishing::Câu cá *(Phát âm: /ˈfɪʃ.ɪŋ/)* ![[fishing.mp3]]<br><br>👪 **Word Family:** Fish (v), Fisherman (n)<br><br>💬 **Ví dụ:** We went fishing at the lake this morning.<br>*(-> Chúng tôi đi câu cá ở hồ sáng nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or job of catching fish.

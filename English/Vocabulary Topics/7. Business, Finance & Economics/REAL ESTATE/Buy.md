@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Buy
 *v.*
 > /baɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Buy::Mua *(Phát âm: /baɪ/)* ![[buy.mp3]]<br><br>👪 **Word Family:** buyer (n), buy (n)<br><br>💬 **Ví dụ:** They saved money for five years to buy their first home.<br>*(-> Họ đã tiết kiệm tiền trong năm năm để mua ngôi nhà đầu tiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To obtain in exchange for payment.

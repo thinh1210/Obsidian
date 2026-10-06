@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Paternal
 *Adj*
 > /pəˈtɜː.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Paternal::Thuộc về bố, có tình phụ tử *(Phát âm: /pəˈtɜː.nəl/)* ![[paternal.mp3]]<br><br>👪 **Word Family:** Paternity (Noun): Tình trạng làm cha<br><br>💬 **Ví dụ:** He gave me a paternal pat on the shoulder.<br>*(-> Anh ấy vỗ vai tôi như một người cha.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Typical of or like a father, especially a kind father; related to father's side.

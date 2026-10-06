@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Interview
 *n./v.*
 > /ˈɪn.tə.vjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Interview::Cuộc phỏng vấn chính thức để đánh giá ứng viên vào vị trí công việc *(Phát âm: /ˈɪn.tə.vjuː/)* ![[interview.mp3]]<br><br>👪 **Word Family:** interviewer (n), interviewee (n)<br><br>💬 **Ví dụ:** I spent the entire weekend preparing answers for my job interview on Monday.<br>*(-> Tôi đã dành cả ngày cuối tuần để chuẩn bị câu trả lời cho buổi phỏng vấn việc làm vào thứ Hai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal meeting in which one or more persons question or evaluate another for a job or position.

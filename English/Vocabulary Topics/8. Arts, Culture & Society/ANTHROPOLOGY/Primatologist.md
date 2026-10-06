@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Primatologist
 *n.*
 > /ˌpraɪ.məˈtɒl.ə.dʒɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Primatologist::Nhà linh trưởng học *(Phát âm: /ˌpraɪ.məˈtɒl.ə.dʒɪst/)* ![[primatologist.mp3]]<br><br>👪 **Word Family:** primatology, primate<br><br>💬 **Ví dụ:** Jane Goodall is the world's most famous primatologist.<br>*(-> Jane Goodall là nhà linh trưởng học nổi tiếng nhất thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who studies primates (apes, monkeys, etc.).

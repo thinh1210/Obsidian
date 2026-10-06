@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Tenant
 *noun*
 > /ˈtɛnənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Formal | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Tenant::Người thuê nhà *(Phát âm: /ˈtɛnənt/)* ![[tenant.mp3]]<br><br>👪 **Word Family:** tenancy (n)<br><br>💬 **Ví dụ:** The previous tenant left a mess.<br>*(-> Người thuê trước đã để lại một mớ hỗn độn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who occupies land or property rented from a landlord.

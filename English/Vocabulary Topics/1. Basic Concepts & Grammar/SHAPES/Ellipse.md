@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Ellipse
 *n.*
 > /iˈlɪps/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Ellipse::Hình elip *(Phát âm: /iˈlɪps/)* ![[ellipse.mp3]]<br><br>👪 **Word Family:** Elliptical (adj)<br><br>💬 **Ví dụ:** The Earth's orbit is an ellipse.<br>*(-> Quỹ đạo của Trái đất là một hình elip.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regular oval shape, traced by a point moving in a plane so that the sum of its distances from two other points (the foci) is constant.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/IELTS Note/Synonyms/04. Synonyms for Listening Comprehension.md",
+                "file": "English/Writing/task1/process/Sample_01_Rainwater_Harvesting_Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. Synonyms for Listening Comprehension"
+              "title": "Sample_01_Rainwater_Harvesting_Process"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MAP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.6692314147949
+    "width": 358.15689849853516
   },
   "right": {
     "id": "f2c2d5dae0d3709f",
@@ -173,8 +173,19 @@
               "icon": "lucide-ghost",
               "title": "mermaid-toolbar-view"
             }
+          },
+          {
+            "id": "e33b248e2f2c82db",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -190,49 +201,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "d0a99118ab26795a",
   "lastOpenFiles": [
-    "English/IELTS Note/Synonyms/03. Synonyms for Academic Reading.md",
-    "English/IELTS Note/Synonyms/02. Synonyms for Speaking & Conversation.md",
-    "English/IELTS Note/Synonyms/04. Synonyms for Listening Comprehension.md",
-    "English/IELTS Note/Synonyms/01. Synonyms for Academic Writing.md",
-    "English/IELTS Note/Speaking/_Speaking_Vocabulary_Index.md",
-    "English/IELTS Note/Speaking/00. Master Speaking Lexicon - Discourse Markers & Idiomatic Collocations.md",
-    "English/IELTS Note/Reading/02. Paraphrasing Patterns & Text Navigation Signals.md",
-    "English/IELTS Note/Synonyms/06. Emotions, Psychology & People.md",
-    "English/IELTS Note/Listening/_Listening_Vocabulary_Index.md",
-    "English/IELTS Note/Listening/02. Academic Lectures & Spatial Navigation Vocabulary.md",
-    "English/IELTS Note/Listening/01. Distractor Triggers & Signposting Language.md",
-    "English/IELTS Note/Reading/_Reading_Vocabulary_Index.md",
-    "English/IELTS Note/Reading/01. Academic Reading - Core Analytical & Scientific Lexicon.md",
-    "English/IELTS Note/Writing/_Writing_Vocabulary_Index.md",
-    "English/IELTS Note/Writing/02. Academic Task 2 - Argumentation & Formal Lexicon.md",
-    "English/IELTS Note/Writing/01. Academic Task 1 - Data Trends, Proportions & Maps.md",
-    "English/IELTS Note/Listening",
-    "English/IELTS Note/Reading",
-    "English/IELTS Note/Synonyms/05. Evaluation, Quality & Assessment.md",
-    "English/IELTS Note/Synonyms/03. Academic Stance & Argument.md",
-    "English/IELTS Note/Synonyms/01. Action & Research Verbs.md",
-    "English/IELTS Note/Synonyms/02. Cause, Effect & Change.md",
-    "English/IELTS Note/Synonyms/_Synonyms_Index.md",
-    "English/IELTS Note/Synonyms/04. Magnitude, Quantity & Importance.md",
-    "English/IELTS Note/Synonyms/07. Discourse Markers & Transitions.md",
-    "English/IELTS Note/Synonyms/Conversational vs Academic Synonyms Guide.md",
-    "English/Vocabulary Topics/3. People & Relationships/PSYCHOLOGY/0_PSYCHOLOGY_Index.md",
-    "English/audio/atm.mp3",
-    "English/audio/attack.mp3",
-    "English/audio/classmate.mp3",
-    "English/audio/shares.mp3",
-    "English/audio/fortune.mp3",
-    "English/audio/interest_rate.mp3",
-    "English/audio/critical_thinking.mp3",
-    "English/audio/investor.mp3",
-    "English/Vocabulary Topics/7. Business, Finance & Economics/MONEY/ATM.md",
+    "English/Writing/task1/mixed_chart/Sample_01_Glasgow_Education_Levels.md",
+    "English/Writing/task1/map/Sample_01_Meadowside_Fonton_Development.md",
+    "English/Writing/task1/map/Sample_03_Grange_Park_Redevelopment.md",
+    "English/Writing/task1/map/Sample_02_Island_Tourism_Development.md",
+    "English/Writing/assets/images/task1_process_03_brick.jpg",
+    "English/Writing/assets/images/task1_map_03_grange_park.jpg",
+    "English/Writing/assets/images/task1_process_02_silkworm.jpg",
+    "English/Writing/assets/images/task1_mixed_01_glasgow.png",
+    "English/Writing/assets/images/task1_table_01_consumer_spending.jpg",
+    "English/Writing/assets/images/task1_pie_01_electricity_france.png",
+    "English/Writing/assets/images/task1_line_01_spreads.jpg",
+    "English/Writing/assets/images/task1_bar_01_consumer_goods.jpg",
+    "English/Writing/assets/images/task1_process_01_rainwater.jpg",
+    "English/Writing/assets/images/task1_map_01_meadowside.jpg",
+    "English/Writing/task1/line_graph/Sample_01_Spreads_Consumption.md",
+    "English/Writing/task1/process/Sample_03_Brick_Manufacturing_Process.md",
+    "English/Writing/task1/process/Sample_02_Silkworm_Silk_Cloth_Production.md",
+    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.2. Connecting Clauses with Prepositions.md",
+    "scratch/add_cohesion_and_clause_breakdown.py",
+    "scratch/add_clause_breakdown_to_all_essays.py",
+    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.4. Complex Sentences & Clause Breakdown.md",
+    "English/Writing/task1/mixed_chart/0_Mixed_Chart_Index.md",
+    "English/IELTS Note/08_03_26.md",
+    "English/IELTS Note/Same accient.md",
+    "English/Writing/0_Writing_Master_Index.md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled.md",
+    "English/Writing/task2/advantages_disadvantages/Sample_01_One_Global_Language.md",
+    "English/Writing/task2/advantages_disadvantages/0_Advantages_Disadvantages_Index.md",
+    "English/Writing/task2/problem_solution/0_Problem_Solution_Index.md",
+    "English/Writing/task1/map/0_Map_Index.md",
+    "English/Writing/task1/line_graph/0_Line_Graph_Index.md",
+    "English/Writing/task1/bar_chart/Sample_01_Consumer_Goods_Spending.md",
+    "English/Writing/task1/bar_chart/0_Bar_Chart_Index.md",
+    "scratch/upgrade_indexes.py",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/ADJECTIVES/0_ADJECTIVES_Index.md",
+    "English/Writing/task2/direct_questions/0_Direct_Questions_Index.md",
+    "English/Writing/task2/discuss_both_views/0_Discuss_Both_Views_Index.md",
+    "English/Writing/task2/agree_disagree/0_Agree_Disagree_Index.md",
+    "scratch/generate_index_files.py",
+    "scratch/generate_writing_notes.py",
+    "English/Writing/assets/images",
+    "English/Writing/assets",
+    "English/Writing/task2/problem_solution",
     "Untitled.canvas",
-    "Pasted image 20260919151005.png",
     "Untitled 1.canvas"
   ]
 }

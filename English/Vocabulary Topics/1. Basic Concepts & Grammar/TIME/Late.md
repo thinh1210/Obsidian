@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Late
 *adj., adv.*
 > /leɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Late::Muộn, chậm trễ, trễ giờ; về cuối của một khoảng thời gian *(Phát âm: /leɪt/)* ![[late.mp3]]<br><br>👪 **Word Family:** lately (adv - dạo gần đây), lateness (n)<br><br>💬 **Ví dụ:** He had to apologize profusely because heavy morning traffic made him late for work.<br>*(-> Anh ấy phải rối rít xin lỗi vì tình trạng tắc đường buổi sáng đã khiến anh đến chỗ làm muộn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Happening or arriving after the expected, arranged, or usual time; near the end of a period.

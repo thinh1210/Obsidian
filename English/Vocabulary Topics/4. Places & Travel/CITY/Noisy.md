@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Noisy
 *adj.*
 > /ˈnɔɪzi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Noisy::Tạo ra nhiều âm thanh chói tai hoặc hỗn tạp *(Phát âm: /ˈnɔɪzi/)* ![[noisy.mp3]]<br><br>👪 **Word Family:** noise (n), noisily (adv), noisiness (n)<br><br>💬 **Ví dụ:** It was too noisy near the market to concentrate on my homework.<br>*(-> Gần chợ quá ồn ào khiến tôi không thể tập trung làm bài tập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Making or given to making a lot of noise.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Palaeontology
 *n.*
 > /ˌpeɪ.li.ɒnˈtɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Palaeontology::Cổ sinh vật học; khoa học nghiên cứu hóa thạch *(Phát âm: /ˌpeɪ.li.ɒnˈtɒl.ə.dʒi/)* ![[palaeontology.mp3]]<br><br>👪 **Word Family:** palaeontologist (n.), palaeontological (adj.)<br><br>💬 **Ví dụ:** He decided to study palaeontology after finding a fossil in his backyard.<br>*(-> Anh ấy quyết định học cổ sinh vật học sau khi tìm thấy một hóa thạch trong sân nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with fossil animals and plants, used to understand the history of life on Earth.

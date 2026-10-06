@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Chicken
 *n.*
 > /ˈtʃɪkɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Chicken::Con gà, loài gia cầm nuôi phổ biến đẻ trứng và lấy thịt *(Phát âm: /ˈtʃɪkɪn/)* ![[chicken.mp3]]<br><br>👪 **Word Family:** chick (n), rooster (n), hen (n)<br><br>💬 **Ví dụ:** My grandmother keeps twenty chickens in the backyard for fresh eggs.<br>*(-> Bà tôi nuôi hai mươi con gà trong sân sau để lấy trứng tươi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A domestic bird kept on farms for its eggs and meat.

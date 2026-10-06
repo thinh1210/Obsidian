@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Miscellaneous
 
 *Adjective*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - mixed, diverse, assorted
+
+
+## 🗂️ Flashcard
+Miscellaneous::Hỗn hợp, linh tinh, nhiều loại khác nhau *(Phát âm: /ˌmɪs.əlˈeɪ.ni.əs/)* ![[miscellaneous.mp3]]<br><br>👪 **Word Family:** [Noun]: miscellany, [Adj]: miscellaneous, [Adv]: miscellaneously<br><br>💬 **Ví dụ:** The drawer was full of miscellaneous items.<br>*(-> Ngăn kéo đầy những món đồ linh tinh.)*

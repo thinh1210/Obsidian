@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Aqueous
 *adjective*
 > /ˈeɪ.kwi.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Aqueous::Thuộc nước, (dung dịch) nước *(Phát âm: /ˈeɪ.kwi.əs/)* ![[aqueous.mp3]]<br><br>👪 **Word Family:** aqua (n), aquanaut (n)<br><br>💬 **Ví dụ:** Sodium chloride dissolves to form an aqueous solution.<br>*(-> Natri clorua hòa tan để tạo thành một dung dịch nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of, like, or containing water; (of a solution) made in water.

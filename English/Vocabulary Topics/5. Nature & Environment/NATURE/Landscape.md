@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Landscape
 *Noun*
 > /ˈlændskeɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Landscape::Phong cảnh, cảnh quan *(Phát âm: /ˈlændskeɪp/)* ![[landscape.mp3]]<br><br>👪 **Word Family:** landscaping, landscaper<br><br>💬 **Ví dụ:** The landscape in the valley is breathtaking.<br>*(-> Phong cảnh ở thung lũng thật ngoạn mục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the visible features of an area of land, considered in terms of their aesthetic appeal.

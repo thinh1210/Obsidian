@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Loan
 *noun.*
 > /ləʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Loan::Khoản vay *(Phát âm: /ləʊn/)* ![[loan.mp3]]<br><br>👪 **Word Family:** loaner (noun)<br><br>💬 **Ví dụ:** She applied for a student loan to pay for her college tuition.<br>*(-> Cô ấy đã nộp đơn xin khoản vay sinh viên để trả học phí đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount of money that is borrowed, often from a bank, and has to be paid back with interest.

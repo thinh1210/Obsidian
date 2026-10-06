@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Acid rain
 *n.*
 > /ˌæsɪd ˈreɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Acid rain::Mưa axit, nước mưa bị nhiễm axit sulfuric và nitric do khí thải công nghiệp gây hại hệ sinh thái *(Phát âm: /ˌæsɪd ˈreɪn/)* ![[acid_rain.mp3]]<br><br>👪 **Word Family:** acidic (adj), acidity (n)<br><br>💬 **Ví dụ:** Over decades, acid rain has eroded the delicate carved stonework on historic cathedral statues.<br>*(-> Qua nhiều thập kỷ, mưa axit đã bào mòn các chi tiết điêu khắc đá tinh xảo trên các bức tượng thánh đường cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Rainfall made sufficiently acidic by atmospheric pollution that it causes environmental harm.

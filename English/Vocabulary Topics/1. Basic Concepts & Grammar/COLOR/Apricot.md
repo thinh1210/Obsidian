@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Apricot
 *adj., n.*
 > /ˈeɪ.prɪ.kɒt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Apricot::Màu vàng cam dịu ngọt của trái mơ chín mọng *(Phát âm: /ˈeɪ.prɪ.kɒt/)* ![[apricot.mp3]]<br><br>👪 **Word Family:** apricot (n)<br><br>💬 **Ví dụ:** The bedroom walls were painted in a soft apricot hue that creates a cozy ambiance.<br>*(-> Tường phòng ngủ được sơn màu cam mơ dịu nhẹ tạo nên một bầu không khí ấm cúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A warm, light yellowish-orange color, similar to the skin of an apricot fruit.

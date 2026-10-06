@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # armament
 *noun*
 > /ˈɑː.mə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
+
+## 🗂️ Flashcard
+Armament::trang bị quân sự, kho vũ khí *(Phát âm: /ˈɑː.mə.mənt/)* ![[armament.mp3]]<br><br>👪 **Word Family:** Noun: armament (trang bị quân sự), armor (áo giáp), arms (vũ khí), Verb: arm (trang bị vũ khí), Adjective: armored (được bọc thép)<br><br>💬 **Ví dụ:** The country spent billions of dollars on modern armament.<br>*(-> Quốc gia đó đã chi hàng tỷ đô la cho trang bị quân sự hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** military weapons and equipment.

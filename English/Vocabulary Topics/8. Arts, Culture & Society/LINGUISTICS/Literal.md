@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Literal
 *adjective*
 > /ˈlɪt.ər.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Literal::nghĩa đen, theo nghĩa chữ *(Phát âm: /ˈlɪt.ər.əl/)* ![[literal.mp3]]<br><br>👪 **Word Family:** literally (adv), literalism (n)<br><br>💬 **Ví dụ:** The literal meaning of "television" is "seeing from a distance".<br>*(-> Ý nghĩa đen của "television" (vô tuyến truyền hình) là "nhìn từ xa".)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** having the most basic or usual meaning of a word, not figurative

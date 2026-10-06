@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Vassal
 *n.*
 > /ˈvæsl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Vassal::Chư hầu *(Phát âm: /ˈvæsl/)* ![[vassal.mp3]]<br><br>👪 **Word Family:** vassalage<br><br>💬 **Ví dụ:** The king demanded loyalty from his vassals.<br>*(-> Nhà vua yêu cầu lòng trung thành từ các chư hầu của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A holder of land by feudal tenure on conditions of homage and allegiance

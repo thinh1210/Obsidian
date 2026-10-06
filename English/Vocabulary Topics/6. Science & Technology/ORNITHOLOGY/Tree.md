@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Tree
 *noun*
 > /triː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Tree::Cây *(Phát âm: /triː/)* ![[tree.mp3]]<br><br>👪 **Word Family:** tree (n), treeless (adj)<br><br>💬 **Ví dụ:** The bird flew from one tree to another.<br>*(-> Con chim bay từ cây này sang cây khác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tall plant with a wooden trunk and branches that lives for many years.

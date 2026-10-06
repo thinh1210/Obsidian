@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Balance
 *n./v.*
 > /ˈbæləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Balance::Số dư tài khoản, cân đối tài khoản *(Phát âm: /ˈbæləns/)* ![[balance.mp3]]<br><br>👪 **Word Family:** balancer, balanced, unbalanced<br><br>💬 **Ví dụ:** I need to check my account balance at the ATM.<br>*(-> Tôi cần kiểm tra số dư tài khoản tại cây ATM.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money in a bank account, or to make the debit and credit sides equal

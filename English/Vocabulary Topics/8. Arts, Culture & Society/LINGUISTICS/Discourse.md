@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Discourse
 *noun*
 > /ˈdɪs.kɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Discourse::diễn ngôn, cuộc đàm thoại (mang tính hệ thống/trang trọng) *(Phát âm: /ˈdɪs.kɔːs/)* ![[discourse.mp3]]<br><br>👪 **Word Family:** discourse (v), discourser (n)<br><br>💬 **Ví dụ:** The book is a major contribution to the academic discourse on linguistics.<br>*(-> Cuốn sách là một đóng góp lớn cho diễn ngôn học thuật về ngôn ngữ học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** spoken or written discussion, or a formal treatment of a subject

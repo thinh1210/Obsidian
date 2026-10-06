@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Soar
 *verb*
 > /sɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Soar::Bay vút lên, lượn cao *(Phát âm: /sɔːr/)* ![[soar.mp3]]<br><br>👪 **Word Family:** soar (v), soaring (adj)<br><br>💬 **Ví dụ:** We watched the eagles soar above the mountains.<br>*(-> Chúng tôi ngắm nhìn những con đại bàng bay lượn trên núi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To fly high in the sky, especially without moving the wings.

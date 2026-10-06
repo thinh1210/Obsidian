@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Nepotism
 *n*
 > /ˈnep.ə.tɪz.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Nepotism::Chủ nghĩa thân tộc / ưu ái người thân *(Phát âm: /ˈnep.ə.tɪz.əm/)* ![[nepotism.mp3]]<br><br>👪 **Word Family:** nepotist (n), nepotistic (adj)<br><br>💬 **Ví dụ:** He was accused of nepotism after hiring his brother-in-law as chief of staff.<br>*(-> Ông bị cáo buộc ưu ái người thân sau khi bổ nhiệm anh rể làm chánh văn phòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of giving unfair advantages to relatives or friends in positions of power.

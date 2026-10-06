@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Indispensable
 *adj.*
 > /ˌɪn.dɪˈspen.sə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Indispensable::Không thể thiếu, thiết yếu *(Phát âm: /ˌɪn.dɪˈspen.sə.bəl/)* ![[indispensable.mp3]]<br><br>👪 **Word Family:** dispense, dispensable<br><br>💬 **Ví dụ:** A good dictionary is indispensable for language learners.<br>*(-> Một cuốn từ điển tốt là không thể thiếu đối với người học ngôn ngữ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Absolutely necessary, essential, or key

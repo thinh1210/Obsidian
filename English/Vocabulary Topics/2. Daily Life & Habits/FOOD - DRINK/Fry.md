@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Fry
 *v.*
 > /fraɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Fry::Chiên, rán trong dầu mỡ sôi *(Phát âm: /fraɪ/)* ![[fry.mp3]]<br><br>👪 **Word Family:** fried (adj), frying (n)<br><br>💬 **Ví dụ:** Heat the vegetable oil thoroughly before you fry the spring rolls.<br>*(-> Hãy đun nóng dầu thực vật thật kỹ trước khi rán chả giò.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cook food in hot oil or fat.

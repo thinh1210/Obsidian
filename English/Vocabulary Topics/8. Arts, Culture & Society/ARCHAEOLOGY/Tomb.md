@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Tomb
 *noun*
 > /tuːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Tomb::Ngôi mộ, lăng mộ *(Phát âm: /tuːm/)* ![[tomb.mp3]]<br><br>👪 **Word Family:** entomb (verb)<br><br>💬 **Ví dụ:** The pharaoh's tomb was filled with gold treasures.<br>*(-> Lăng mộ của pharaoh chứa đầy kho báu vàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large grave, especially one built of stone above or below the ground

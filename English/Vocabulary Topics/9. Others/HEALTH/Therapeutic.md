@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Therapeutic
 *adj*
 > /ˌθerəˈpjuːtɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Therapeutic::Có tác dụng chữa trị, mang tính trị liệu *(Phát âm: /ˌθerəˈpjuːtɪk/)* ![[therapeutic.mp3]]<br><br>👪 **Word Family:** therapy (n), therapeutically (adv)<br><br>💬 **Ví dụ:** Gardening has a therapeutic effect on people suffering from stress.<br>*(-> Làm vườn có tác dụng trị liệu đối với những người bị căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the healing of disease; having a good effect on the body or mind.

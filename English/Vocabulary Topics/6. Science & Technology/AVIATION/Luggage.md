@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Luggage
 *noun*
 > /ˈlʌɡ.ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Sân bay, Thủ tục & Trải nghiệm hành khách
+
+## 🗂️ Flashcard
+Luggage::Hành lý *(Phát âm: /ˈlʌɡ.ɪdʒ/)* ![[luggage.mp3]]<br><br>👪 **Word Family:** baggage (n), bag (n), suitcase (n)<br><br>💬 **Ví dụ:** My luggage was too heavy, so I had to pay an extra fee.<br>*(-> Hành lý của tôi quá nặng nên tôi phải trả thêm phí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Suitcases and bags that you take with you when travelling.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Manifestation
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - indication, expression, demonstration
+
+
+## 🗂️ Flashcard
+Manifestation::Sự biểu hiện, biểu lộ thực tế *(Phát âm: /ˌmæn.ɪ.feˈsteɪ.ʃən/)* ![[manifestation.mp3]]<br><br>👪 **Word Family:** [Noun]: manifestation, manifesto, [Verb]: manifest, [Adj]: manifest, [Adv]: manifestly<br><br>💬 **Ví dụ:** The protests are a manifestation of the people's anger.<br>*(-> Các cuộc biểu tình là biểu hiện rõ rệt của sự giận dữ của người dân.)*

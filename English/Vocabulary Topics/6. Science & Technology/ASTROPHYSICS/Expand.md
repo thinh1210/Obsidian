@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Expand
 *verb*
 > /ɪkˈspænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Expand::Giãn nở, mở rộng *(Phát âm: /ɪkˈspænd/)* ![[expand.mp3]]<br><br>👪 **Word Family:** expansion (n), expansive (adj), expandable (adj)<br><br>💬 **Ví dụ:** The business wants to expand into new markets.<br>*(-> Doanh nghiệp muốn mở rộng sang các thị trường mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become larger in size, volume, or quantity.

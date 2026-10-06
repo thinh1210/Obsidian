@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Actuator
 *noun.*
 > /ˈæk.tʃu.eɪ.t̬ɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Actuator::Bộ kích hoạt, cơ cấu chấp hành (bộ phận truyền động) *(Phát âm: /ˈæk.tʃu.eɪ.t̬ɚ/)* ![[actuator.mp3]]<br><br>👪 **Word Family:** actuate (verb), actuation (noun)<br><br>💬 **Ví dụ:** The robot's knee joint uses a powerful electric actuator to lift heavy weights.<br>*(-> Khớp gối của robot sử dụng một cơ cấu chấp hành chạy bằng điện mạnh mẽ để nâng các vật nặng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A component of a machine that is responsible for moving and controlling a mechanism or system (the "muscles" of a robot)

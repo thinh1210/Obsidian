@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Rhinestone
 *noun*
 > /ˈraɪn.stəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Rhinestone::Đá giả kim cương *(Phát âm: /ˈraɪn.stəʊn/)* ![[rhinestone.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Her jacket is covered in rhinestones.<br>*(-> Áo khoác phủ đầy đá giả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An imitation diamond.

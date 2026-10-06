@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Safe
 *adjective*
 > /seɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Safe::An toàn *(Phát âm: /seɪf/)* ![[safe.mp3]]<br><br>👪 **Word Family:** Safe (adj/n), Safety (n), Safely (adv), Save (v)<br><br>💬 **Ví dụ:** Please wear a helmet to stay safe while riding your bicycle.<br>*(-> Hãy đội mũ bảo hiểm để giữ an toàn khi đi xe đạp của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Protected from or not exposed to danger or risk; not likely to be harmed or lost.

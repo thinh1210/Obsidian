@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Architect
 *n.*
 > /ˈɑːkɪtekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Architect::Kiến trúc sư *(Phát âm: /ˈɑːkɪtekt/)* ![[architect.mp3]]<br><br>👪 **Word Family:** architecture, architectural<br><br>💬 **Ví dụ:** She wants to become an architect when she grows up.<br>*(-> Cô ấy muốn trở thành kiến trúc sư khi lớn lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who designs buildings and in many cases also supervises their construction

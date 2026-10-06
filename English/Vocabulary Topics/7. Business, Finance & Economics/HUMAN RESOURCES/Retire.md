@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Retire
 *v.*
 > /rɪˈtaɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Retire::Nghỉ hưu *(Phát âm: /rɪˈtaɪər/)* ![[retire.mp3]]<br><br>👪 **Word Family:** retirement, retired, retiree<br><br>💬 **Ví dụ:** He plans to retire at the age of 65.<br>*(-> Anh ấy có kế hoạch nghỉ hưu ở tuổi 65.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To leave one's job and cease working, usually due to age

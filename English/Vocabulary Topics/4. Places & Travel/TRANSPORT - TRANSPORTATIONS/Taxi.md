@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Taxi
 *n.*
 > /ˈtæksi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Taxi::Xe ô tô chở khách công cộng tính tiền theo đồng hồ cước *(Phát âm: /ˈtæksi/)* ![[taxi.mp3]]<br><br>👪 **Word Family:** taxicab (n), taximeter (n)<br><br>💬 **Ví dụ:** It was raining hard, so we hailed a taxi to go to the theater.<br>*(-> Trời mưa tầm tã, vì vậy chúng tôi đã vẫy taxi đi xem kịch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A motor vehicle licensed to transport passengers in return for payment of a fare.

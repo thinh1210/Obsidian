@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Antonym
 *noun*
 > /ˈæn.tə.nɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Antonym::từ trái nghĩa *(Phát âm: /ˈæn.tə.nɪm/)* ![[antonym.mp3]]<br><br>👪 **Word Family:** antonymous (adj), antonymy (n)<br><br>💬 **Ví dụ:** "Hot" and "cold" are antonyms.<br>*(-> "Hot" và "cold" là các từ trái nghĩa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a word that means the opposite of another word

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Owner
 *n.*
 > /ˈəʊnə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Owner::Chủ sở hữu *(Phát âm: /ˈəʊnə(r)/)* ![[owner.mp3]]<br><br>👪 **Word Family:** own (v), ownership (n)<br><br>💬 **Ví dụ:** The property owner agreed to lower the price for a quick cash buyer.<br>*(-> Chủ sở hữu bất động sản đã đồng ý giảm giá cho người mua nhanh bằng tiền mặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who owns something.

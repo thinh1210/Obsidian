@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Pill
 *n*
 > /pɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Pill::Viên thuốc *(Phát âm: /pɪl/)* ![[pill.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The doctor told me to swallow two pills before going to bed.<br>*(-> Bác sĩ bảo tôi nuốt hai viên thuốc trước khi đi ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small round hard piece of medicine which you swallow.

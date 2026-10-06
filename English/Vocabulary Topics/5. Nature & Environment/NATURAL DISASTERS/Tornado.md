@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Tornado
 *noun*
 > /tɔːˈneɪ.dəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Tornado::Lốc xoáy, vòi rồng *(Phát âm: /tɔːˈneɪ.dəʊ/)* ![[tornado.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The tornado ripped the roofs off several houses in Ohio.<br>*(-> Cơn lốc xoáy đã giật tung mái ngói của một vài ngôi nhà ở Ohio.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A violent storm with very strong winds which spin in a funnel shape.

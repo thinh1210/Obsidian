@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Blueprint
 *Noun*
 > /ˈbluː.prɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Blueprint::Bản thiết kế chi tiết, bản vẽ xanh, kế hoạch hành động chi tiết *(Phát âm: /ˈbluː.prɪnt/)* ![[blueprint.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** We studied the blueprints of the house before remodeling.<br>*(-> Chúng tôi đã nghiên cứu bản vẽ chi tiết của ngôi nhà trước khi cải tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A photographic print of a technical drawing; a detailed plan for doing something.

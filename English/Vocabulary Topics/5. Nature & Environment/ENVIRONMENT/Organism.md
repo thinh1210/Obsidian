@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Organism
 *n.*
 > /ˈɔːɡənɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Organism::Sinh vật, bất kỳ cá thể sống nào từ vi khuẩn đơn bào đến thực vật và động vật *(Phát âm: /ˈɔːɡənɪzəm/)* ![[organism.mp3]]<br><br>👪 **Word Family:** organic (adj), organize (v), organization (n)<br><br>💬 **Ví dụ:** Coral reefs shelter millions of tiny colorful marine organisms.<br>*(-> Các rạn san hô là nơi trú ẩn cho hàng triệu sinh vật biển nhỏ bé rực rỡ sắc màu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An individual animal, plant, or single-celled life form.

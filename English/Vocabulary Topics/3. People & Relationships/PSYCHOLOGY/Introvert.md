@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Introvert
 *noun*
 > /ˈɪn.trə.vɝːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Introvert::Người hướng nội *(Phát âm: /ˈɪn.trə.vɝːt/)* ![[introvert.mp3]]<br><br>👪 **Word Family:** introverted (adj)<br><br>💬 **Ví dụ:** I am a natural introvert.<br>*(-> Tôi bẩm sinh là một người hướng nội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A shy, reticent person.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Tuesday
 *n.*
 > /ˈtʃuːz.deɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Tuesday::Thứ Ba, ngày thứ hai trong tuần làm việc bình thường *(Phát âm: /ˈtʃuːz.deɪ/)* ![[tuesday.mp3]]<br><br>👪 **Word Family:** Tuesdays (adv)<br><br>💬 **Ví dụ:** Our weekly team yoga class takes place every Tuesday afternoon.<br>*(-> Lớp tập yoga hàng tuần của nhóm chúng tôi diễn ra vào mỗi chiều thứ Ba.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The second day of the working week, following Monday and preceding Wednesday.

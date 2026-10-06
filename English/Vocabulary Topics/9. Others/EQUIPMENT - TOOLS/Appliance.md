@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # appliance
 *noun*
 > /əˈplaɪ.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Appliance::thiết bị gia dụng *(Phát âm: /əˈplaɪ.əns/)* ![[appliance.mp3]]<br><br>👪 **Word Family:** Noun: appliance (thiết bị), Verb: apply (áp dụng, nộp đơn), Adjective: applicable (có thể áp dụng)<br><br>💬 **Ví dụ:** The kitchen is fully equipped with modern appliances.<br>*(-> Nhà bếp được trang bị đầy đủ các thiết bị gia dụng hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a device or piece of equipment designed to perform a specific task, typically a domestic one.

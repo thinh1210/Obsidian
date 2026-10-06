@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Sanctuary
 *n.*
 > /ˈsæŋktʃuəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Sanctuary::Khu bảo tồn động vật, trạm cứu hộ nơi động vật sống an toàn không bị săn bắn *(Phát âm: /ˈsæŋktʃuəri/)* ![[sanctuary.mp3]]<br><br>👪 **Word Family:** sanctimonious (adj), sanctify (v)<br><br>💬 **Ví dụ:** The elephant sanctuary provides medical care and open grazing fields for rescued elephants.<br>*(-> Khu bảo tồn voi cung cấp chăm sóc y tế và đồng cỏ rộng mở cho những chú voi được giải cứu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place where animals are protected and allowed to live naturally without being hunted.

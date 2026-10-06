@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Talons
 *noun*
 > /ˈtæl.ənz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Talons::Móng vuốt (của chim săn mồi) *(Phát âm: /ˈtæl.ənz/)* ![[talons.mp3]]<br><br>👪 **Word Family:** talon (n), taloned (adj)<br><br>💬 **Ví dụ:** The hawk caught the rabbit with its sharp talons.<br>*(-> Con diều hâu bắt con thỏ bằng bộ móng vuốt sắc nhọn của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The claw of a bird of prey.

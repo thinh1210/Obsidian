@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Disorder
 *noun*
 > /dɪˈsɔːr.dɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Disorder::Sự rối loạn *(Phát âm: /dɪˈsɔːr.dɚ/)* ![[disorder.mp3]]<br><br>👪 **Word Family:** disorderly (adj)<br><br>💬 **Ví dụ:** He has a sleeping disorder.<br>*(-> Anh ấy bị rối loạn giấc ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An illness that disrupts normal physical or mental functions.

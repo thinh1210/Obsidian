@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Engrave
 *verb*
 > /ɪnˈɡreɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Engrave::Chạm khắc *(Phát âm: /ɪnˈɡreɪv/)* ![[engrave.mp3]]<br><br>👪 **Word Family:** Engraving<br><br>💬 **Ví dụ:** They engraved their initials.<br>*(-> Họ khắc tên viết tắt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cut or carve a design on a hard surface.

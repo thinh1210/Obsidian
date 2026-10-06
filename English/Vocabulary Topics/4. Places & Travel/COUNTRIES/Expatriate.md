@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Expatriate
 *Noun*
 > /eksˈpeɪtriət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Expatriate::Người nước ngoài định cư, kiều bào *(Phát âm: /eksˈpeɪtriət/)* ![[expatriate.mp3]]<br><br>👪 **Word Family:** Patriot, Repatriate<br><br>💬 **Ví dụ:** Many expatriates live in this neighborhood.<br>*(-> Nhiều người nước ngoài sống trong khu phố này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who lives outside their native country.

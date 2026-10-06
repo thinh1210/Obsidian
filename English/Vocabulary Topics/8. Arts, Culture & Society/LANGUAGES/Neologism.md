@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Neologism
 *n.*
 > /niˈɒlədʒɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
+
+## 🗂️ Flashcard
+Neologism::Từ mới, từ tự chế *(Phát âm: /niˈɒlədʒɪzəm/)* ![[neologism.mp3]]<br><br>👪 **Word Family:** neologistic, neologist<br><br>💬 **Ví dụ:** The internet has birthed many neologisms like 'selfie'.<br>*(-> Internet đã khai sinh ra nhiều từ mới như 'selfie'.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A newly coined word or expression

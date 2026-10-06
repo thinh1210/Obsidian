@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Megalomania
 *noun*
 > /ˌmeɡ.ə.loʊˈmeɪ.ni.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Megalomania::Chứng cuồng vĩ cuồng, hoang tưởng tự đại *(Phát âm: /ˌmeɡ.ə.loʊˈmeɪ.ni.ə/)* ![[megalomania.mp3]]<br><br>👪 **Word Family:** megalomaniac (noun)<br><br>💬 **Ví dụ:** The dictator's megalomania led to his downfall.<br>*(-> Chứng vĩ cuồng của kẻ độc tài dẫn đến sự sụp đổ của hắn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Obsession with the exercise of power, especially in the domination of others.

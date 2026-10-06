@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Tuition fee
 *n.*
 > /tjuːˈɪʃ.ən fiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Tuition fee::Khoản tiền học phí phải đóng để được giảng dạy tại trường học hoặc đại học *(Phát âm: /tjuːˈɪʃ.ən fiː/)* ![[tuition_fee.mp3]]<br><br>👪 **Word Family:** tuition (n), fee (n)<br><br>💬 **Ví dụ:** She worked part-time at a local bakery to help pay her university tuition fees.<br>*(-> Cô ấy làm việc bán thời gian tại tiệm bánh để phụ trả tiền học phí đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The money that a person pays for instruction at a school, college, or university.

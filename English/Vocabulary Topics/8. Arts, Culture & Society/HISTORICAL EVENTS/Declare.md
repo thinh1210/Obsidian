@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Declare
 *verb*
 > /dɪˈkleər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Declare::Tuyên bố, công bố *(Phát âm: /dɪˈkleər/)* ![[declare.mp3]]<br><br>👪 **Word Family:** declaration (noun), declarative (adj)<br><br>💬 **Ví dụ:** I declare this meeting closed, so we can all go home now.<br>*(-> Tôi tuyên bố cuộc họp này kết thúc, vì vậy tất cả chúng ta có thể về nhà bây giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Say something in a solemn and emphatic manner; formally announce the beginning of a state or condition.

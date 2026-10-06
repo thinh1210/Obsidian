@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Technocracy
 *n*
 > /tekˈnɒk.rə.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Technocracy::Chế độ kỹ trị / sự cai quản bởi chuyên gia kỹ thuật *(Phát âm: /tekˈnɒk.rə.si/)* ![[technocracy.mp3]]<br><br>👪 **Word Family:** technocrat (n), technocratic (adj)<br><br>💬 **Ví dụ:** Some argue that a technocracy would make better decisions than elected politicians.<br>*(-> Một số người lập luận rằng chế độ kỹ trị sẽ đưa ra quyết định tốt hơn các chính trị gia được bầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government in which technically trained experts hold power, rather than elected politicians.

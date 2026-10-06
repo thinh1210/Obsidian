@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Temperature
 *noun*
 > /ˈtem.prɪ.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Temperature::Nhiệt độ – mức độ nóng hoặc lạnh của vật gì đó, đo trên thang đo *(Phát âm: /ˈtem.prɪ.tʃər/)* ![[temperature.mp3]]<br><br>👪 **Word Family:** temperate (adj), thermal (adj), thermometer (n)<br><br>💬 **Ví dụ:** The temperature outside is 35 degrees Celsius today.<br>*(-> Nhiệt độ ngoài trời hôm nay là 35 độ Celsius.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The degree of heat or coldness of something, measured on a scale.

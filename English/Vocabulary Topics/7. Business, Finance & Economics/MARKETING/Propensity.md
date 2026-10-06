@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Propensity
 *noun*
 > /prəˈpensəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Propensity::Thiên hướng, xu hướng hành vi *(Phát âm: /prəˈpensəti/)* ![[propensity.mp3]]<br><br>💬 **Ví dụ:** He has an annoying propensity to interrupt people while they are speaking.<br>*(-> Anh ta có một thiên hướng khó chịu là hay ngắt lời người khác khi họ đang nói.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An inclination or natural tendency to behave in a particular way

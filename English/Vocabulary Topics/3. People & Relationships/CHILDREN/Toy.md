@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Toy
 *noun*
 > /tɔɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Toy::Đồ chơi *(Phát âm: /tɔɪ/)* ![[toy.mp3]]<br><br>👪 **Word Family:** Toy (v)<br><br>💬 **Ví dụ:** He bought a new toy.<br>*(-> Cậu ấy đã mua một món đồ chơi mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An object for a child to play with.

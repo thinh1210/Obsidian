@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Pragmatics
 *noun*
 > /præɡˈmæt.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
+
+## 🗂️ Flashcard
+Pragmatics::ngữ dụng học *(Phát âm: /præɡˈmæt.ɪks/)* ![[pragmatics.mp3]]<br><br>👪 **Word Family:** pragmatic (adj), pragmatist (n)<br><br>💬 **Ví dụ:** Pragmatics explains how we understand indirect requests like "It's cold in here" as "Close the window".<br>*(-> Ngữ dụng học giải thích cách chúng ta hiểu các yêu cầu gián tiếp như "Trong này lạnh quá" là "Hãy đóng cửa sổ lại".)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of how context contributes to meaning in language use

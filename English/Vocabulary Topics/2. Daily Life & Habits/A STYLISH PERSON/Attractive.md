@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Attractive
 *adj.*
 > /əˈtræktɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Attractive::Hấp dẫn, lôi cuốn *(Phát âm: /əˈtræktɪv/)* ![[attractive.mp3]]<br><br>👪 **Word Family:** Attract (v), Attraction (n)<br><br>💬 **Ví dụ:** He is a very attractive young man.<br>*(-> Anh ấy là một thanh niên rất lôi cuốn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasing to the eye or mind.

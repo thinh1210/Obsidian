@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Fluctuate
 *Verb*
 > /ˈflʌk.tʃu.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Fluctuate::Dao động, biến động *(Phát âm: /ˈflʌk.tʃu.eɪt/)* ![[fluctuate.mp3]]<br><br>👪 **Word Family:** Fluctuation (n)<br><br>💬 **Ví dụ:** My weight fluctuates.<br>*(-> Cân nặng của tôi dao động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To change, especially continuously and between one level or thing and another.

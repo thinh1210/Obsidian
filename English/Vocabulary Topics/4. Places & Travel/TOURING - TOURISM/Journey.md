@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Journey
 *Noun*
 > /ˈdʒɝː.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Journey::Hành trình *(Phát âm: /ˈdʒɝː.ni/)* ![[journey.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** It’s a two-hour train journey from here.<br>*(-> Đó là một hành trình đi tàu hai giờ từ đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of travelling from one place to another, especially in a vehicle.

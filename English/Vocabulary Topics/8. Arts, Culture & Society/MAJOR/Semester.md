@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Semester
 *n.*
 > /sɪˈmes.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Semester::Học kỳ (nửa năm học) *(Phát âm: /sɪˈmes.tər/)* ![[semester.mp3]]<br><br>👪 **Word Family:** semester (n)<br><br>💬 **Ví dụ:** This semester I have five courses.<br>*(-> Học kỳ này tôi có năm môn học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A half-year term in a school or university, typically lasting about 15–18 weeks.

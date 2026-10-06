@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Family
 *n.*
 > /ˈfæm.əl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Family::Gia đình *(Phát âm: /ˈfæm.əl.i/)* ![[family.mp3]]<br><br>👪 **Word Family:** Familiar<br><br>💬 **Ví dụ:** I love my family.<br>*(-> Tôi yêu gia đình tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of one or more parents and their children living together.

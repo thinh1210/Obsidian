@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Avoid
 *v.*
 > /əˈvɔɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Avoid::Né tránh người hoặc vật nguy hiểm; phòng ngừa điều xấu xảy ra *(Phát âm: /əˈvɔɪd/)* ![[avoid.mp3]]<br><br>👪 **Word Family:** avoidance (n), avoidable (adj), unavoidable (adj)<br><br>💬 **Ví dụ:** We chose to leave home early in the morning to avoid heavy rush hour highway traffic.<br>*(-> Chúng tôi chọn rời nhà sớm vào buổi sáng để tránh tình trạng tắc đường giờ cao điểm trên đường cao tốc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To stay away from someone or something; to prevent something bad from happening.

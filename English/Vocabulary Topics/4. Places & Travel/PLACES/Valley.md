@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Valley
 *n.*
 > /ˈvæl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Valley::Thung lũng *(Phát âm: /ˈvæl.i/)* ![[valley.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The valley is beautiful in spring.<br>*(-> Thung lũng tuyệt đẹp vào mùa xuân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A low area of land between hills or mountains.

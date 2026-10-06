@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Exhilarated
 *adj.*
 > /ɪɡˈzɪl.ə.reɪ.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Exhilarated::Phấn chấn, hồ hởi *(Phát âm: /ɪɡˈzɪl.ə.reɪ.tɪd/)* ![[exhilarated.mp3]]<br><br>👪 **Word Family:** Exhilaration (n), Exhilarating (adj)<br><br>💬 **Ví dụ:** I felt exhilarated after the run.<br>*(-> Tôi cảm thấy vô cùng phấn chấn sau khi chạy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very happy, animated, or elated.

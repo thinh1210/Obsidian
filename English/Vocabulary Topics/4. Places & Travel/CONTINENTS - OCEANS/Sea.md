@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Sea
 *noun*
 > /siː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Đại dương, Biển & Địa hình duyên hải
+
+## 🗂️ Flashcard
+Sea::Biển *(Phát âm: /siː/)* ![[sea.mp3]]<br><br>👪 **Word Family:** Seaside (n.), Seawater (n.)<br><br>💬 **Ví dụ:** We spent our holiday by the sea.<br>*(-> Chúng tôi dành kỳ nghỉ bên bờ biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expanse of salt water that covers most of the earth's surface.

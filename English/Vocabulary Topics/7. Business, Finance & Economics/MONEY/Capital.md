@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Capital
 *noun*
 > /ˈkæp.ɪ.təl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Capital::Vốn, nguồn vốn *(Phát âm: /ˈkæp.ɪ.təl/)* ![[capital.mp3]]<br><br>👪 **Word Family:** capitalize (v), capitalism (n)<br><br>💬 **Ví dụ:** We need to raise capital to scale our startup.<br>*(-> Chúng ta cần huy động vốn để mở rộng quy mô khởi nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wealth in the form of money or other assets owned by a person or organization for starting a company or investing

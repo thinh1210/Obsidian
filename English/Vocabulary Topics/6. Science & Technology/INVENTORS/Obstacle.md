@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # obstacle
 *n.*
 > /ˈɒb.stə.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Obstacle::Trở ngại, chướng ngại vật *(Phát âm: /ˈɒb.stə.kəl/)* ![[obstacle.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** Lack of money is the main obstacle to starting the business.<br>*(-> Thiếu tiền là trở ngại chính để bắt đầu kinh doanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that blocks you from moving forward or makes progress difficult

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Captivity
 *noun*
 > /kæpˈtɪv.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Captivity::Tình trạng bị giam cầm, nuôi nhốt *(Phát âm: /kæpˈtɪv.ə.ti/)* ![[captivity.mp3]]<br><br>👪 **Word Family:** captivity (n), captive (n/adj), captivate (v)<br><br>💬 **Ví dụ:** Animals born in captivity often lack the skills to survive in the wild.<br>*(-> Động vật sinh ra trong môi trường nuôi nhốt thường thiếu các kỹ năng để sinh tồn trong tự nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being kept imprisoned or confined.

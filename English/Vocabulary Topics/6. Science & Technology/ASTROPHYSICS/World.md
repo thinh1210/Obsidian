@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # World
 *noun*
 > /wɜːld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+World::Thế giới *(Phát âm: /wɜːld/)* ![[world.mp3]]<br><br>👪 **Word Family:** worldwide (adj/adv), worldly (adj)<br><br>💬 **Ví dụ:** She has a dream to travel around the world.<br>*(-> Cô ấy có ước mơ đi du lịch vòng quanh thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The earth with all its countries, peoples, and natural features.

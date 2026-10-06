@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Renew
 *v.*
 > /rɪˈnjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Renew::Gia hạn *(Phát âm: /rɪˈnjuː/)* ![[renew.mp3]]<br><br>👪 **Word Family:** renewal, renewable, renewed<br><br>💬 **Ví dụ:** I need to renew my car insurance before it expires next week.<br>*(-> Tôi cần gia hạn bảo hiểm xe hơi trước khi nó hết hạn vào tuần tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To extend the period of validity of an insurance contract.

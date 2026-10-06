@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Bone
 *noun*
 > /bəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Cơ thể người, Cơ quan & Mô
+
+## 🗂️ Flashcard
+Bone::Xương *(Phát âm: /bəʊn/)* ![[bone.mp3]]<br><br>👪 **Word Family:** bony, boneless<br><br>💬 **Ví dụ:** The dog buried a bone in the backyard.<br>*(-> Con chó đã chôn một cái xương ở sân sau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any of the pieces of hard, whitish tissue making up the skeleton in humans and other vertebrates.

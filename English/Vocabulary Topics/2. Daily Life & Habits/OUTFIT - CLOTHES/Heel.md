@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Heel
 *n.*
 > /hiːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Heel::Gót giày, đôi giày cao gót nữ *(Phát âm: /hiːl/)* ![[heel.mp3]]<br><br>👪 **Word Family:** heeled (adj)<br><br>💬 **Ví dụ:** Her feet ached after walking in four-inch heels all evening.<br>*(-> Chân cô ấy mỏi nhừ sau khi đi trên đôi giày cao gót 10 phân suốt cả buổi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The raised part on the bottom of a shoe that supports the back of the foot.

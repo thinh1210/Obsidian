@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Shiny
 *adj.*
 > /ˈʃaɪ.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Shiny::Sáng bóng, bóng bẩy, phản chiếu ánh sáng lấp lánh *(Phát âm: /ˈʃaɪ.ni/)* ![[shiny.mp3]]<br><br>👪 **Word Family:** shine (v/n), shininess (n)<br><br>💬 **Ví dụ:** He spent his Sunday morning polishing his shoes until they had a shiny leather shine.<br>*(-> Anh ấy dành cả buổi sáng Chủ nhật đánh bóng đôi giày cho đến khi lớp da sáng bóng lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Reflecting light brightly, smooth, and gleaming clean.

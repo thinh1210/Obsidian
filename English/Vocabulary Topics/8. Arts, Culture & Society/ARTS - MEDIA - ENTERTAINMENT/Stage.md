@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Stage
 *n.*
 > /steɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Stage::Sân khấu *(Phát âm: /steɪdʒ/)* ![[stage.mp3]]<br><br>👪 **Word Family:** staging, stagecraft<br><br>💬 **Ví dụ:** She felt nervous before stepping onto the stage.<br>*(-> Cô ấy cảm thấy lo lắng trước khi bước lên sân khấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A raised floor or platform, typically in a theater, on which actors, entertainers, or speakers perform.

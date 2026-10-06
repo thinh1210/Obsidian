@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Increase
 *Verb*
 > /ɪnˈkriːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Increase::Tăng lên *(Phát âm: /ɪnˈkriːs/)* ![[increase.mp3]]<br><br>👪 **Word Family:** Increase (n), Increasingly (adv)<br><br>💬 **Ví dụ:** Prices increase.<br>*(-> Giá cả tăng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something become larger in amount or size.

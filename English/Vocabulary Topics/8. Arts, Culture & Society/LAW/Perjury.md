@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Perjury
 *noun*
 > /ˈpɜː.dʒər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Perjury::Tội khai man trước tòa *(Phát âm: /ˈpɜː.dʒər.i/)* ![[perjury.mp3]]<br><br>👪 **Word Family:** Perjury (n), Perjure (v), Perjurer (n)<br><br>💬 **Ví dụ:** She was charged with perjury after lying under oath during the trial.<br>*(-> Cô đã bị buộc tội khai man sau khi nói dối dưới lời tuyên thệ trong phiên tòa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The offense of willfully telling an untruth in a court after having taken an oath.

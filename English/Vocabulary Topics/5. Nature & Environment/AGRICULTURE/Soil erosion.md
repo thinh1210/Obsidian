@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Soil erosion
 *n.*
 > /sɔɪl ɪˈrəʊ.ʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Soil erosion::Xói mòn đất *(Phát âm: /sɔɪl ɪˈrəʊ.ʒən/)* ![[soil_erosion.mp3]]<br><br>👪 **Word Family:** erode (v), erosive (adj)<br><br>💬 **Ví dụ:** Planting grass on the hill helps slow down soil erosion.<br>*(-> Trồng cỏ trên đồi giúp làm chậm quá trình xói mòn đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The displacement of the upper layer of soil, caused by water, wind, or farming.

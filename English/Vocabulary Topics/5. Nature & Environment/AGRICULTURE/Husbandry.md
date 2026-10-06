@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Husbandry
 *n.*
 > /ˈhʌz.bən.dri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Husbandry::Việc chăn nuôi, quản lý tài nguyên (chăm sóc khoa học vật nuôi cây trồng) *(Phát âm: /ˈhʌz.bən.dri/)* ![[husbandry.mp3]]<br><br>👪 **Word Family:** husband (v)<br><br>💬 **Ví dụ:** Successful farming requires knowledge of both crop and animal husbandry.<br>*(-> Canh tác thành công đòi hỏi kiến thức về cả trồng trọt và chăn nuôi động vật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The care, cultivation, and breeding of crops and animals.

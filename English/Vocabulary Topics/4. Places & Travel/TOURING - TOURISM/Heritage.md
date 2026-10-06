@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Heritage
 *Noun*
 > /ˈher.ɪ.t̬ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
+
+## 🗂️ Flashcard
+Heritage::Di sản *(Phát âm: /ˈher.ɪ.t̬ɪdʒ/)* ![[heritage.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Hoi An is a famous world heritage site.<br>*(-> Hội An là một di sản thế giới nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Features belonging to the culture of a particular society, such as traditions, languages, or buildings, that were created in the past and still have historical importance.

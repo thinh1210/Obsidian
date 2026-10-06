@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Delinquency
 *noun*
 > /dɪˈlɪŋ.kwən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Delinquency::Sự phạm pháp (vị thành niên) *(Phát âm: /dɪˈlɪŋ.kwən.si/)* ![[delinquency.mp3]]<br><br>👪 **Word Family:** Delinquent (n/adj)<br><br>💬 **Ví dụ:** The city has a high rate of juvenile delinquency.<br>*(-> Thành phố có tỷ lệ tội phạm vị thành niên cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Minor crime, especially that committed by young people.

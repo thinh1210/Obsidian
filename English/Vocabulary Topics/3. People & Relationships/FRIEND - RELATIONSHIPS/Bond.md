@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Bond
 *n.*
 > /bɒnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Bond::Mối quan hệ gắn bó khăng khít, sự thắt chặt tình cảm bạn bè qua thử thách *(Phát âm: /bɒnd/)* ![[bond.mp3]]<br><br>👪 **Word Family:** bonding (n), bonded (adj)<br><br>💬 **Ví dụ:** Traveling backpacking across Southeast Asia forged an enduring bond between the two roommates.<br>*(-> Chuyến du lịch bụi khắp Đông Nam Á đã tạo nên mối gắn kết bền chặt giữa hai người bạn cùng phòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A close connection or relationship between friends based on shared feelings or experiences.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Resplendent
 *adj*
 > /rɪˈsplen.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Resplendent::Chói lọi, rực rỡ, lộng lẫy *(Phát âm: /rɪˈsplen.dənt/)* ![[resplendent.mp3]]<br><br>👪 **Word Family:** resplendence (n)<br><br>💬 **Ví dụ:** The queen was resplendent in her diamond tiara.<br>*(-> Nữ hoàng thật lộng lẫy trong chiếc vương miện kim cương của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a very bright or beautiful appearance.

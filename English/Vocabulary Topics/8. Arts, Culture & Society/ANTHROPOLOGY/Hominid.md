@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Hominid
 *n.*
 > /ˈhɒm.ɪ.nɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Hominid::Tông người, họ người (bao gồm con người và tổ tiên hóa thạch) *(Phát âm: /ˈhɒm.ɪ.nɪd/)* ![[hominid.mp3]]<br><br>👪 **Word Family:** hominin, hominoid<br><br>💬 **Ví dụ:** Lucy is one of the most famous early hominid fossils ever found.<br>*(-> Lucy là một trong những hóa thạch tông người sơ khai nổi tiếng nhất từng được tìm thấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A primate of a family (Hominidae) that includes humans and their fossil ancestors.

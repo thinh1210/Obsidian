@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Travel
 *v*
 > /ˈtrævl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Travel::Du lịch *(Phát âm: /ˈtrævl/)* ![[travel.mp3]]<br><br>👪 **Word Family:** Traveler (n), Traveling (n)<br><br>💬 **Ví dụ:** We plan to travel to Japan.<br>*(-> Chúng tôi dự định du lịch Nhật Bản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a journey, typically of some length.

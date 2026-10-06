@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Parent
 *n.*
 > /ˈpeə.rənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Parent::Phụ huynh (ba hoặc mẹ) *(Phát âm: /ˈpeə.rənt/)* ![[parent.mp3]]<br><br>👪 **Word Family:** Parental, Parenting<br><br>💬 **Ví dụ:** My parents are doctors.<br>*(-> Ba mẹ tôi là bác sĩ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A father or mother.

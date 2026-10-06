@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Stress
 *noun*
 > /stres/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Stress::Căng thẳng *(Phát âm: /stres/)* ![[stress.mp3]]<br><br>👪 **Word Family:** stressful (adj)<br><br>💬 **Ví dụ:** I have too much stress.<br>*(-> Tôi có quá nhiều căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A state of mental or emotional strain or tension.

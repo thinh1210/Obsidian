@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Xenophile
 *Noun*
 > /ˈzen.ə.faɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Xenophile::Người yêu thích văn hóa nước ngoài *(Phát âm: /ˈzen.ə.faɪl/)* ![[xenophile.mp3]]<br><br>👪 **Word Family:** xenophilia (n)<br><br>💬 **Ví dụ:** As a true xenophile, he spends all his money travelling to exotic places.<br>*(-> Là một người yêu thích ngoại quốc thực sự, anh ấy dành tất cả tiền bạc để đi du lịch đến những nơi kỳ lạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An individual who is attracted to foreign peoples, cultures, or customs.

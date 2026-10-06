@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Appraisal
 *n.*
 > /əˈpreɪzl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
+
+## 🗂️ Flashcard
+Appraisal::Sự thẩm định giá *(Phát âm: /əˈpreɪzl/)* ![[appraisal.mp3]]<br><br>👪 **Word Family:** appraise, appraiser<br><br>💬 **Ví dụ:** We had a professional appraisal of the house before buying home insurance.<br>*(-> Chúng tôi đã thực hiện một cuộc thẩm định giá chuyên nghiệp cho ngôi nhà trước khi mua bảo hiểm nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An expert estimate of the value of something, such as property or jewelry, for insurance purposes.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Brand
 *n.*
 > /brænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Brand::Thương hiệu *(Phát âm: /brænd/)* ![[brand.mp3]]<br><br>👪 **Word Family:** Branded (adj), Branding (n)<br><br>💬 **Ví dụ:** She only buys clothes from famous brands.<br>*(-> Cô ấy chỉ mua quần áo từ các thương hiệu nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of product made by a particular company.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Cyclone
 *n.*
 > /ˈsaɪkləʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Cyclone::Bão xoáy thuận nhiệt đới, hoàn lưu xoáy áp thấp quy mô lớn mang mưa dông dữ dội *(Phát âm: /ˈsaɪkləʊn/)* ![[cyclone.mp3]]<br><br>👪 **Word Family:** cyclonic (adj), anticyclone (n)<br><br>💬 **Ví dụ:** Thousands evacuated to community cyclone shelters across the coastal district.<br>*(-> Hàng ngàn người đã sơ tán tới các trung tâm tránh trú bão cộng đồng dọc theo huyện ven biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large scale air mass that rotates around a strong center of low atmospheric pressure.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Precipitation
 *noun*
 > /prɪˌsɪp.ɪˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Thủy văn, Bão tố & Thảm họa khí tượng
+
+## 🗂️ Flashcard
+Precipitation::Lượng mưa, sự kết tủa *(Phát âm: /prɪˌsɪp.ɪˈteɪ.ʃən/)* ![[precipitation.mp3]]<br><br>👪 **Word Family:** precipitate (v)<br><br>💬 **Ví dụ:** The dry season is characterized by very low precipitation.<br>*(-> Mùa khô đặc trưng bởi lượng mưa rất thấp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Rain, snow, sleet, or hail that falls to the ground.

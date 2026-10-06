@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Jovial
 *adj.*
 > /ˈdʒəʊ.vi.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Jovial::Vui vẻ, thân thiện *(Phát âm: /ˈdʒəʊ.vi.əl/)* ![[jovial.mp3]]<br><br>👪 **Word Family:** Joviality (n)<br><br>💬 **Ví dụ:** He was in a jovial mood.<br>*(-> Anh ấy đang trong tâm trạng vui vẻ thân thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful and friendly.

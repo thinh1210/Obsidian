@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # House
 *n.*
 > /haʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Con người, Huyết thống & Tổ chức xã hội
+
+## 🗂️ Flashcard
+House::Ngôi nhà, nhà ở *(Phát âm: /haʊs/)* ![[house.mp3]]<br><br>👪 **Word Family:** housing, household<br><br>💬 **Ví dụ:** They bought a new house last year.<br>*(-> Họ đã mua một ngôi nhà mới vào năm ngoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building for human habitation, especially one that is lived in by a family or small group of people.

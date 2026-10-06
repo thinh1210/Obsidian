@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Sneaker
 *noun*
 > /ˈsniːkə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Sneaker::Giày thể thao *(Phát âm: /ˈsniːkə(r)/)* ![[sneaker.mp3]]<br><br>👪 **Word Family:** Sneakers (n)<br><br>💬 **Ví dụ:** He bought a new pair of sneakers for running.<br>*(-> Anh ấy mua một đôi giày thể thao mới để chạy bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of light, comfortable shoe that is suitable for playing sports.

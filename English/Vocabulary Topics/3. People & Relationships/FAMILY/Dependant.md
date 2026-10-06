@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Dependant
 *n.*
 > /dɪˈpen.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Dependant::Người phụ thuộc tài chính vào người thân trong gia đình *(Phát âm: /dɪˈpen.dənt/)* ![[dependant.mp3]]<br><br>👪 **Word Family:** depend (v), dependence (n), dependent (adj)<br><br>💬 **Ví dụ:** You are entitled to income tax deductions if you have qualifying dependants.<br>*(-> Bạn được hưởng giảm trừ thuế thu nhập nếu có người phụ thuộc hợp lệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Someone who relies on another person for financial support.

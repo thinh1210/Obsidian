@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Cash
 *noun*
 > /kæʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Cash::Tiền mặt *(Phát âm: /kæʃ/)* ![[cash.mp3]]<br><br>👪 **Word Family:** cashless (adj), cashier (n)<br><br>💬 **Ví dụ:** Do you have any cash on you?<br>*(-> Bạn có mang theo chút tiền mặt nào không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money in the form of coins or notes rather than checks or credit cards

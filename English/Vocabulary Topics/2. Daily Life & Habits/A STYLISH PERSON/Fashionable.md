@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Fashionable
 *adj.*
 > /ˈfæʃnəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Fashionable::Hợp thời trang *(Phát âm: /ˈfæʃnəbl/)* ![[fashionable.mp3]]<br><br>👪 **Word Family:** Fashion (n), Fashionably (adv)<br><br>💬 **Ví dụ:** She is always very fashionable.<br>*(-> Cô ấy luôn rất hợp thời trang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Following the latest fashion.

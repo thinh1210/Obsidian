@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Sit
 *v.*
 > /sɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Sit::Ngồi; an tọa; đậu (chim); tham dự kỳ thi *(Phát âm: /sɪt/)* ![[sit.mp3]]<br><br>👪 **Word Family:** seat (n/v), sitting (n/adj)<br><br>💬 **Ví dụ:** Please sit down and make yourself comfortable while I brew some fresh tea.<br>*(-> Xin mời ngồi xuống và tự nhiên như ở nhà trong khi tôi pha chút trà tươi nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To rest one's weight on one's buttocks rather than on one's feet, with the back upright.

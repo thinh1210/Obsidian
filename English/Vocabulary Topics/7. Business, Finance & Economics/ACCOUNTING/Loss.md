@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Loss
 *n.*
 > /lɒs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Loss::Khoản lỗ, sự tổn thất *(Phát âm: /lɒs/)* ![[loss.mp3]]<br><br>👪 **Word Family:** lose, loser, lost<br><br>💬 **Ví dụ:** The fire caused a heavy loss to the local market.<br>*(-> Vụ hỏa hoạn đã gây ra tổn thất nặng nề cho khu chợ địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A situation in which a business spends more money than it earns

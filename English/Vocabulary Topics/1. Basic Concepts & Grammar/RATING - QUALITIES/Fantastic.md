@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Fantastic
 *adj*
 > /fænˈtæs.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Fantastic::Tuyệt diệu *(Phát âm: /fænˈtæs.tɪk/)* ![[fantastic.mp3]]<br><br>👪 **Word Family:** Fantastically (adv), Fantasy (noun)<br><br>💬 **Ví dụ:** We had a fantastic holiday.<br>*(-> Chúng tôi đã có một kỳ nghỉ tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extraordinarily good or attractive.

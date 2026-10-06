@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Decade
 *n.*
 > /ˈdekeɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Decade::Thập kỷ *(Phát âm: /ˈdekeɪd/)* ![[decade.mp3]]<br><br>👪 **Word Family:** decadal (adj.)<br><br>💬 **Ví dụ:** I haven't seen her for a decade.<br>*(-> Tôi đã không gặp cô ấy cả thập kỷ rồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of ten years

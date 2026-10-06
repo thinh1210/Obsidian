@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # House
 *n.*
 > /haʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+House::Ngôi nhà *(Phát âm: /haʊs/)* ![[house.mp3]]<br><br>👪 **Word Family:** housing, household<br><br>💬 **Ví dụ:** They live in a beautiful house near the park.<br>*(-> Họ sống trong một ngôi nhà đẹp gần công viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building for people to live in

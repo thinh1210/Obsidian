@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Ivory
 *adj., n.*
 > /ˈaɪ.vər.i/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Ivory::Màu trắng ngà voi, trắng kem ấm áp và sang trọng *(Phát âm: /ˈaɪ.vər.i/)* ![[ivory.mp3]]<br><br>👪 **Word Family:** ivory (n)<br><br>💬 **Ví dụ:** Rather than stark bright white, the bride selected an elegant ivory gown with intricate lace.<br>*(-> Thay vì màu trắng tinh cứng nhắc, cô dâu đã chọn chiếc váy cưới màu trắng ngà trang nhã điểm ren tinh xảo.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A creamy, warm off-white color, identical to the hard substance forming the tusks of elephants.

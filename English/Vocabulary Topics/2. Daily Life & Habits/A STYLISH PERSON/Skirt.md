@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Skirt
 *n.*
 > /skɜːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Skirt::Chân váy *(Phát âm: /skɜːrt/)* ![[skirt.mp3]]<br><br>👪 **Word Family:** Skirting (n)<br><br>💬 **Ví dụ:** She bought a new denim skirt.<br>*(-> Cô ấy đã mua một chiếc chân váy bò mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of clothing for women and girls that hangs from the waist.

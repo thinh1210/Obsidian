@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Stellar
 *adj*
 > /ˈstel.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Stellar::Xuất sắc, tinh tú *(Phát âm: /ˈstel.ər/)* ![[stellar.mp3]]<br><br>👪 **Word Family:** Stella (noun)<br><br>💬 **Ví dụ:** The team had a stellar season.<br>*(-> Đội bóng đã có một mùa giải xuất sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exceptionally good; outstanding.

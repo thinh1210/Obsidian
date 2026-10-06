@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Molecule
 *noun*
 > /ˈmɒl.ɪ.kjuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Molecule::Phân tử *(Phát âm: /ˈmɒl.ɪ.kjuːl/)* ![[molecule.mp3]]<br><br>👪 **Word Family:** molecular (adj)<br><br>💬 **Ví dụ:** A water molecule consists of two hydrogen atoms and one oxygen atom.<br>*(-> Một phân tử nước gồm hai nguyên tử hydro và một nguyên tử oxy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of atoms bonded together, representing the smallest fundamental unit of a chemical compound.

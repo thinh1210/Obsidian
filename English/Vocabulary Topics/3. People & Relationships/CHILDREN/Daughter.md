@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Daughter
 *noun*
 > /ˈdɔː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Daughter::Con gái *(Phát âm: /ˈdɔː.tər/)* ![[daughter.mp3]]<br><br>👪 **Word Family:** Daughter-in-law (n)<br><br>💬 **Ví dụ:** She is my daughter.<br>*(-> Cô ấy là con gái tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A girl or woman in relation to her parents.

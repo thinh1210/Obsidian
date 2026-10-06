@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Horrible
 *adj*
 > /ˈhɒr.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Horrible::Tồi tệ, khủng khiếp *(Phát âm: /ˈhɒr.ə.bəl/)* ![[horrible.mp3]]<br><br>👪 **Word Family:** Horribly (adv), Horror (noun)<br><br>💬 **Ví dụ:** It smells horrible in here.<br>*(-> Trong này có mùi kinh khủng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very unpleasant or bad.

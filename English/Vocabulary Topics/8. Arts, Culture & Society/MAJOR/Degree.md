@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Degree
 *n.*
 > /dɪˈɡriː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Degree::Bằng cấp, học vị *(Phát âm: /dɪˈɡriː/)* ![[degree.mp3]]<br><br>👪 **Word Family:** degree (n), graduate (v/n)<br><br>💬 **Ví dụ:** He earned his degree after four years of study.<br>*(-> Anh ấy lấy được bằng sau bốn năm học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An academic qualification awarded by a university.

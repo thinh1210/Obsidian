@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Wear
 *verb*
 > /weər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Giá trị, Độ sáng bóng & Ý nghĩa thừa kế
+
+## 🗂️ Flashcard
+Wear::Mặc, đeo *(Phát âm: /weər/)* ![[wear.mp3]]<br><br>👪 **Word Family:** Wearable<br><br>💬 **Ví dụ:** I wear a watch daily.<br>*(-> Tôi đeo đồng hồ hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Have on one's body as clothing or decoration.

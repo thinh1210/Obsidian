@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # inventor
 *n.*
 > /ɪnˈven.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Inventor::Nhà phát minh *(Phát âm: /ɪnˈven.tər/)* ![[inventor.mp3]]<br><br>👪 **Word Family:** invent (v), invention (n), inventive (adj)<br><br>💬 **Ví dụ:** Alexander Graham Bell is the inventor of the telephone.<br>*(-> Alexander Graham Bell là nhà phát minh ra điện thoại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has invented something, or whose job is to invent things

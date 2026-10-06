@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Bracelet
 *noun*
 > /ˈbreɪ.slət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Bracelet::Vòng tay *(Phát âm: /ˈbreɪ.slət/)* ![[bracelet.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She has a new bracelet.<br>*(-> Cô ấy có một chiếc vòng tay mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A band worn around the wrist.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Refund
 *n./v.*
 > /ˈriː.fʌnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Refund::Khoản tiền trả lại cho khách hàng khi hàng hóa bị lỗi hoặc hủy dịch vụ *(Phát âm: /ˈriː.fʌnd/)* ![[refund.mp3]]<br><br>👪 **Word Family:** refundable (adj), non-refundable (adj)<br><br>💬 **Ví dụ:** Since the tablet arrived with a cracked screen, the online store issued a full refund within two days.<br>*(-> Vì chiếc máy tính bảng giao đến bị nứt màn hình, cửa hàng trực tuyến đã hoàn tiền 100% trong hai ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A repayment of a sum of money, typically to an unsatisfied customer who returns defective goods.

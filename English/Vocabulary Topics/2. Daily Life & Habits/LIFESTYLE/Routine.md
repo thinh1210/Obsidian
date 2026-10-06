@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Routine
 *n.*
 > /ruːˈtiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Routine::Thói quen hàng ngày, lề thói *(Phát âm: /ruːˈtiːn/)* ![[routine.mp3]]<br><br>👪 **Word Family:** routinely (adv.)<br><br>💬 **Ví dụ:** My morning routine is simple.<br>*(-> Thói quen buổi sáng của tôi rất đơn giản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of actions regularly followed.

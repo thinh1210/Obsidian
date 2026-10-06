@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Read
 *v*
 > /riːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Read::Đọc *(Phát âm: /riːd/)* ![[read.mp3]]<br><br>👪 **Word Family:** reading (n), reader (n), readable (adj)<br><br>💬 **Ví dụ:** I try to read a few pages before bed.<br>*(-> Tôi cố gắng đọc vài trang trước khi ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at and understand the meaning of written or printed words or symbols.

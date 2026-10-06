@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Antique
 *n.*
 > /ænˈtiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Antique::Đồ cổ, cổ vật có giá trị lịch sử và nghệ thuật cao qua thời gian *(Phát âm: /ænˈtiːk/)* ![[antique.mp3]]<br><br>👪 **Word Family:** antiquarian (adj/n), antiquity (n)<br><br>💬 **Ví dụ:** Her hobby is hunting for rare porcelain antiques at weekend flea markets.<br>*(-> Sở thích của cô ấy là săn lùng đồ cổ gốm sứ quý hiếm tại các khu chợ trời cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A collectible object such as a piece of furniture or work of art that has a high value because of its considerable age.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Talk
 *verb*
 > /tɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Talk::Nói chuyện *(Phát âm: /tɔːk/)* ![[talk.mp3]]<br><br>👪 **Word Family:** talkative<br><br>💬 **Ví dụ:** We talk every day.<br>*(-> Chúng tôi nói chuyện mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Speak in order to give information or express ideas or feelings.

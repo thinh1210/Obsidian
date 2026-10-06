@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Resentful
 *adj*
 > /rɪˈzentfl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Resentful::Oán giận, hậm hực *(Phát âm: /rɪˈzentfl/)* ![[resentful.mp3]]<br><br>👪 **Word Family:** resentment (n), resent (v)<br><br>💬 **Ví dụ:** She felt resentful of her brother's success.<br>*(-> Cô hậm hực với thành công của anh trai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing bitterness or indignation at having been treated unfairly.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Contract
 *n.*
 > /ˈhɒntrækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Contract::Hợp đồng *(Phát âm: /ˈhɒntrækt/)* ![[contract.mp3]]<br><br>👪 **Word Family:** contractual (adj), contractor (n), contract (v)<br><br>💬 **Ví dụ:** Make sure to read the rental contract carefully before signing it.<br>*(-> Hãy chắc chắn đọc kỹ hợp đồng thuê nhà trước khi ký.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.

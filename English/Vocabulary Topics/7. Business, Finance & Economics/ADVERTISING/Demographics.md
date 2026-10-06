@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Demographics
 *noun*
 > /ˌdeməˈɡræfɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Demographics::Số liệu nhân khẩu học *(Phát âm: /ˌdeməˈɡræfɪks/)* ![[demographics.mp3]]<br><br>👪 **Word Family:** demographic (adj/noun), demography (noun)<br><br>💬 **Ví dụ:** The town's demographics have changed significantly over the last decade.<br>*(-> Nhân khẩu học của thị trấn đã thay đổi đáng kể trong thập kỷ qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Statistical data relating to the population and particular groups within it.

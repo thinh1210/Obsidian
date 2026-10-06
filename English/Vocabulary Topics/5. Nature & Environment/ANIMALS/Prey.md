@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Prey
 *noun*
 > /preɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Prey::Con mồi *(Phát âm: /preɪ/)* ![[prey.mp3]]<br><br>👪 **Word Family:** prey (n/v)<br><br>💬 **Ví dụ:** The eagle spotted its prey, a small rabbit, from high in the sky.<br>*(-> Con đại bàng phát hiện con mồi của nó, một chú thỏ nhỏ, từ trên cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that is hunted and killed by another for food.

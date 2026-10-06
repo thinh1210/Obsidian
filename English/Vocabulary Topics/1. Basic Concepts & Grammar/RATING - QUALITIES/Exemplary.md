@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Exemplary
 *adj*
 > /ɪɡˈzem.plər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Exemplary::Gương mẫu, điển hình *(Phát âm: /ɪɡˈzem.plər.i/)* ![[exemplary.mp3]]<br><br>👪 **Word Family:** Exemplar (noun), Exemplify (verb)<br><br>💬 **Ví dụ:** Her behavior was exemplary.<br>*(-> Cách cư xử của cô ấy thật đáng làm gương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Serving as a desirable model; representing the best of its kind.

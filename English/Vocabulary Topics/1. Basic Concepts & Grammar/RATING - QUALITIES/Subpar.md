@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Subpar
 *adj*
 > /ˌsʌbˈpɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
+
+## 🗂️ Flashcard
+Subpar::Dưới mức bình thường, kém *(Phát âm: /ˌsʌbˈpɑːr/)* ![[subpar.mp3]]<br><br>👪 **Word Family:** Par (noun)<br><br>💬 **Ví dụ:** I am feeling a bit subpar today.<br>*(-> Hôm nay tôi cảm thấy không được khỏe lắm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Below an average level.

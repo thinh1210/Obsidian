@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Adornment
 *noun*
 > /əˈdɔːnmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Trang sức & Phụ kiện đeo cổ, tay
+
+## 🗂️ Flashcard
+Adornment::Đồ trang điểm, đồ trang trí *(Phát âm: /əˈdɔːnmənt/)* ![[adornment.mp3]]<br><br>👪 **Word Family:** Adorn (v)<br><br>💬 **Ví dụ:** A simple necklace was her only adornment.<br>*(-> Một sợi dây chuyền đơn giản là món đồ trang sức duy nhất của cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that is used to decorate a person or thing.

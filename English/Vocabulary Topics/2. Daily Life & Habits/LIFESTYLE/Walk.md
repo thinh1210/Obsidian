@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Walk
 *v., n.*
 > /wɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Walk::Đi bộ *(Phát âm: /wɔːk/)* ![[walk.mp3]]<br><br>👪 **Word Family:** walker (n.)<br><br>💬 **Ví dụ:** I walk to school.<br>*(-> Tôi đi bộ đến trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move at a regular pace by lifting and setting down each foot in turn.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Proposal
 *noun*
 > /prəˈpəʊzl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Proposal::Lời cầu hôn *(Phát âm: /prəˈpəʊzl/)* ![[proposal.mp3]]<br><br>👪 **Word Family:** Propose (verb)<br><br>💬 **Ví dụ:** His proposal was very romantic.<br>*(-> Lời cầu hôn của anh ấy rất lãng mạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An offer of marriage.

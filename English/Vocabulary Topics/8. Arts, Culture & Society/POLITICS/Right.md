@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Right
 *n*
 > /raɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Right::Quyền (lợi) / quyền hạn *(Phát âm: /raɪt/)* ![[right.mp3]]<br><br>👪 **Word Family:** rightful (adj), rights (n/pl), rightfully (adv)<br><br>💬 **Ví dụ:** Everyone has the right to express their opinion freely.<br>*(-> Mọi người đều có quyền tự do bày tỏ ý kiến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A moral or legal entitlement to have or do something.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Patriarch
 *noun*
 > /ˈpeɪ.tri.ɑːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Patriarch::Gia trưởng (nam), tộc trưởng *(Phát âm: /ˈpeɪ.tri.ɑːk/)* ![[patriarch.mp3]]<br><br>👪 **Word Family:** patriarchy (n), patriarchal (adj)<br><br>💬 **Ví dụ:** My grandfather is the patriarch of our family.<br>*(-> Ông tôi là tộc trưởng của gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The male head of a family or tribe.

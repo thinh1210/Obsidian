@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Dismiss
 *v.*
 > /dɪˈsmɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Dismiss::Sa thái, cho thôi việc *(Phát âm: /dɪˈsmɪs/)* ![[dismiss.mp3]]<br><br>👪 **Word Family:** dismissal, dismissive<br><br>💬 **Ví dụ:** The manager had to dismiss him for being late repeatedly.<br>*(-> Người quản lý đã phải sa thải anh ta vì liên tục đi muộn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To terminate someone's employment; to send away

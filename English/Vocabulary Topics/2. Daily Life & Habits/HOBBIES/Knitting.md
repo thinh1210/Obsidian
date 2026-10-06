@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Knitting
 *noun*
 > /ˈnɪt.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Knitting::Đan len *(Phát âm: /ˈnɪt.ɪŋ/)* ![[knitting.mp3]]<br><br>👪 **Word Family:** Knit (v), Knitter (n)<br><br>💬 **Ví dụ:** She finds knitting very relaxing.<br>*(-> Cô ấy thấy đan len rất thư giãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of making clothes or other things using wool and special needles.

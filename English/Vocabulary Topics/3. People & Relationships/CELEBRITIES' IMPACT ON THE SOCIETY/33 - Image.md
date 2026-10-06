@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Image
 *n.*
 > /ˈɪm.ɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+33 - Image::Hình ảnh *(Phát âm: /ˈɪm.ɪdʒ/)* ![[image.mp3]]<br><br>👪 **Word Family:** Imagery (n.)<br><br>💬 **Ví dụ:** Improve the image.<br>*(-> Cải thiện hình ảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The general impression that a person presents to the public.

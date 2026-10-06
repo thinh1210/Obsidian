@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Plutocracy
 *n*
 > /pluːˈtɒk.rə.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Plutocracy::Chế độ tài phiệt / sự cai trị của người giàu *(Phát âm: /pluːˈtɒk.rə.si/)* ![[plutocracy.mp3]]<br><br>👪 **Word Family:** plutocrat (n), plutocratic (adj)<br><br>💬 **Ví dụ:** Activists warned that campaign finance laws were turning democracy into plutocracy.<br>*(-> Các nhà hoạt động cảnh báo rằng luật tài trợ bầu cử đang biến dân chủ thành chế độ tài phiệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Government by the wealthy; a society governed by the rich.

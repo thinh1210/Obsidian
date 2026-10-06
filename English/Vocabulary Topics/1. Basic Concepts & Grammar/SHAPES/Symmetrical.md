@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Symmetrical
 *adj.*
 > /sɪˈmet.rɪ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Symmetrical::Đối xứng *(Phát âm: /sɪˈmet.rɪ.kəl/)* ![[symmetrical.mp3]]<br><br>👪 **Word Family:** Symmetry (n), asymmetrically (adv)<br><br>💬 **Ví dụ:** A butterfly's wings are symmetrical.<br>*(-> Cánh của con bướm đối xứng với nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made up of exactly similar parts facing each other or around an axis.

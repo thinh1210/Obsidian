@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Mechanism
 *Noun*
 > /ˈmek.ə.nɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Mechanism::Cơ chế, cơ cấu, bộ phận máy móc *(Phát âm: /ˈmek.ə.nɪ.zəm/)* ![[mechanism.mp3]]<br><br>👪 **Word Family:** Mechanical (adj), mechanic (n), mechanize (v)<br><br>💬 **Ví dụ:** The locking mechanism of the safe is broken.<br>*(-> Bộ phận khóa của két sắt bị hỏng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part of a machine or a set of parts that does a particular job.

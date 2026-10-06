@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Prerequisite
 *n., adj.*
 > /ˌpriː.ˈrek.wɪ.zɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Prerequisite::Môn học tiên quyết, điều kiện tiên quyết *(Phát âm: /ˌpriː.ˈrek.wɪ.zɪt/)* ![[prerequisite.mp3]]<br><br>👪 **Word Family:** prerequisite (n/adj), requisite (n/adj)<br><br>💬 **Ví dụ:** Basic algebra is a prerequisite for this calculus class.<br>*(-> Đại số cơ bản là môn tiên quyết cho lớp giải tích này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A course or requirement that must be completed before another course can be taken.

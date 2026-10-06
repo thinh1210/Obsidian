@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Sing
 *verb*
 > /sɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Sing::Hót (chim) *(Phát âm: /sɪŋ/)* ![[sing.mp3]]<br><br>👪 **Word Family:** sing (v), song (n), singer (n), songbird (n)<br><br>💬 **Ví dụ:** I love to wake up to the sound of birds singing.<br>*(-> Tôi thích thức dậy trong tiếng chim hót.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a bird) to make musical sounds.

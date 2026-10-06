@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Scared
 *adj*
 > /skerd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Scared::Sợ hãi *(Phát âm: /skerd/)* ![[scared.mp3]]<br><br>👪 **Word Family:** scare (verb)<br><br>💬 **Ví dụ:** I am scared of dogs.<br>*(-> Tôi sợ chó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Fearful; frightened.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Transference
 *noun*
 > /trænsˈfɝː.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Liệu pháp chữa lành, Thích ứng & Cơ chế phòng vệ
+
+## 🗂️ Flashcard
+Transference::Sự chuyển di cảm xúc *(Phát âm: /trænsˈfɝː.əns/)* ![[transference.mp3]]<br><br>👪 **Word Family:** transfer (verb)<br><br>💬 **Ví dụ:** Transference often occurs in therapy.<br>*(-> Sự chuyển di thường xảy ra trong trị liệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The redirection of feelings and desires and especially of those unconsciously retained from childhood toward a new object.

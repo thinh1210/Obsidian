@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Deprecation
 *noun*
 > /ˌdep.rəˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Deprecation::Sự ngưng hỗ trợ (phần mềm/công nghệ lỗi thời được thay thế dần) *(Phát âm: /ˌdep.rəˈkeɪ.ʃən/)* ![[deprecation.mp3]]<br><br>👪 **Word Family:** deprecate (v), deprecated (adj), deprecation (n)<br><br>💬 **Ví dụ:** The developer received a deprecation warning indicating the old library would no longer be supported.<br>*(-> Nhà phát triển nhận được cảnh báo ngưng hỗ trợ rằng thư viện cũ sẽ không còn được hỗ trợ nữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of phasing out a software feature, technology, or standard while discouraging its use in favor of a newer alternative.

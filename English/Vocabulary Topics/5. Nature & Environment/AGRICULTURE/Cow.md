@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Cow
 *n.*
 > /kaʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Chăn nuôi & Động vật nông trại
+
+## 🗂️ Flashcard
+Cow::Con bò cái, bò sữa *(Phát âm: /kaʊ/)* ![[cow.mp3]]<br><br>👪 **Word Family:** cowboy (n), cowherd (n)<br><br>💬 **Ví dụ:** The farmer milked the cows early in the morning.<br>*(-> Người nông dân đã vắt sữa bò từ sáng sớm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large female animal kept on farms for its milk or beef.

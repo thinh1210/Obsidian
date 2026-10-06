@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Procrastinate
 *v.*
 > /prəˈkræstɪneɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Procrastinate::Trì hoãn *(Phát âm: /prəˈkræstɪneɪt/)* ![[procrastinate.mp3]]<br><br>👪 **Word Family:** procrastination (n.)<br><br>💬 **Ví dụ:** I always procrastinate on my homework.<br>*(-> Tôi luôn trì hoãn việc làm bài tập về nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Delay or postpone action; put off doing something.

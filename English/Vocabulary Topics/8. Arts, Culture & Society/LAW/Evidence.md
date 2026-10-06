@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Evidence
 *noun*
 > /ˈev.ɪ.dəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Evidence::Bằng chứng, chứng cứ *(Phát âm: /ˈev.ɪ.dəns/)* ![[evidence.mp3]]<br><br>👪 **Word Family:** Evidence (n/v), Evident (adj), Evidently (adv)<br><br>💬 **Ví dụ:** The police are searching the house to gather more evidence against the suspect.<br>*(-> Cảnh sát đang khám xét ngôi nhà để thu thập thêm chứng cứ buộc tội nghi phạm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The available body of facts or information indicating whether a belief or proposition is true or valid.

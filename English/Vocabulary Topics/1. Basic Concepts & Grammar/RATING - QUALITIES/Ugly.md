@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Ugly
 *adj*
 > /ˈʌɡ.li/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Ugly::Xấu xí *(Phát âm: /ˈʌɡ.li/)* ![[ugly.mp3]]<br><br>👪 **Word Family:** Ugliness (noun)<br><br>💬 **Ví dụ:** The building is very ugly.<br>*(-> Tòa nhà rất xấu xí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unpleasant or repulsive, especially in appearance.

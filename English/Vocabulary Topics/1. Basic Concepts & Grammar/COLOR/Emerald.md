@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Emerald
 *n, adj*
 > /ˈem.ɚ.əld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Emerald::Màu ngọc lục bảo *(Phát âm: /ˈem.ɚ.əld/)* ![[emerald.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The lake was a stunning emerald color.<br>*(-> Mặt hồ có màu ngọc lục bảo tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bright green color (like the precious stone).

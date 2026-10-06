@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Brave
 *adj.*
 > /breɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Brave::Dũng cảm, gan dạ, can trường dám đối mặt với hiểm nguy *(Phát âm: /breɪv/)* ![[brave.mp3]]<br><br>👪 **Word Family:** bravery (n), bravely (adv), brave (v)<br><br>💬 **Ví dụ:** The brave firefighter ran into the burning building to rescue the trapped toddler.<br>*(-> Người lính cứu hỏa dũng cảm đã lao vào tòa nhà đang cháy để giải cứu đứa trẻ bị mắc kẹt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing no fear of dangerous or difficult things.

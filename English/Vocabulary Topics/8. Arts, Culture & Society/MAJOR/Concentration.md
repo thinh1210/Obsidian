@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Concentration
 *n.*
 > /ˌkɒn.sənˈtreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Concentration::Chuyên ngành hẹp, sự tập trung *(Phát âm: /ˌkɒn.sənˈtreɪ.ʃən/)* ![[concentration.mp3]]<br><br>👪 **Word Family:** concentration (n), concentrate (v), concentrated (adj)<br><br>💬 **Ví dụ:** Her concentration is in environmental economics.<br>*(-> Chuyên ngành hẹp của cô ấy là kinh tế môi trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A specific area of focus within a broader major field of study.

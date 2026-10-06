@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Pig
 *n.*
 > /pɪɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Pig::Con lợn (heo), loài gia súc nuôi lấy thịt quen thuộc *(Phát âm: /pɪɡ/)* ![[pig.mp3]]<br><br>👪 **Word Family:** piglet (n), piggish (adj), piggery (n)<br><br>💬 **Ví dụ:** The farmer feeds the pigs with vegetables and corn mash every morning.<br>*(-> Người nông dân cho lợn ăn rau và bột ngô vào mỗi buổi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pink or black farm animal with short legs, a snout, and a curly tail.

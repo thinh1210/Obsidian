@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Thoroughfare
 *noun*
 > /ˈθɜːroʊfer/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Thoroughfare::Đường giao thông chính, huyết mạch *(Phát âm: /ˈθɜːroʊfer/)* ![[thoroughfare.mp3]]<br><br>👪 **Word Family:** Noun: thoroughfare (đường huyết mạch)<br><br>💬 **Ví dụ:** The city center is linked by several busy thoroughfares.<br>*(-> Trung tâm thành phố được kết nối bởi nhiều con đường huyết mạch bận rộn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A main road in a town or city, typically a busy one.

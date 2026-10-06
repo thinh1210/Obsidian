@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Learn
 *v.*
 > /lɜːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Learn::Học, học tập *(Phát âm: /lɜːn/)* ![[learn.mp3]]<br><br>👪 **Word Family:** learner, learning<br><br>💬 **Ví dụ:** I want to learn English.<br>*(-> Tôi muốn học tiếng Anh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To gain knowledge or skill in something by study, experience, or being taught

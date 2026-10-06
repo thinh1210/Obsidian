@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Spend
 *verb*
 > /spend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Spend::Tiêu (tiền), dành (thời gian) *(Phát âm: /spend/)* ![[spend.mp3]]<br><br>👪 **Word Family:** spender (n), spending (n)<br><br>💬 **Ví dụ:** She spends too much money on clothes.<br>*(-> Cô ấy tiêu quá nhiều tiền vào quần áo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give money to pay for goods, services, or to pass time

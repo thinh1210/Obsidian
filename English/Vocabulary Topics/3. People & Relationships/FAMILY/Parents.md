@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Parents
 *noun*
 > /ˈpeə.rənts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Parents::Cha mẹ *(Phát âm: /ˈpeə.rənts/)* ![[parents.mp3]]<br><br>👪 **Word Family:** parental (adj)<br><br>💬 **Ví dụ:** My parents are strict.<br>*(-> Bố mẹ tôi rất nghiêm khắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Your mother and father.

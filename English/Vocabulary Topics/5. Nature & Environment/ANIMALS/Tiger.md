@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Tiger
 *noun*
 > /ˈtaɪ.ɡər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Tiger::Con hổ *(Phát âm: /ˈtaɪ.ɡər/)* ![[tiger.mp3]]<br><br>👪 **Word Family:** tiger (n), tigress (n)<br><br>💬 **Ví dụ:** The tiger moved silently through the tall grass.<br>*(-> Con hổ di chuyển lặng lẽ qua bãi cỏ cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large solitary wild cat with a yellow-brown coat striped with black.

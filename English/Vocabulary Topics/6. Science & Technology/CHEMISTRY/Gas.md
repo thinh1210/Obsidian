@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Gas
 *noun*
 > /ɡæs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Gas::Chất khí, thể khí *(Phát âm: /ɡæs/)* ![[gas.mp3]]<br><br>👪 **Word Family:** gaseous (adj), gasify (v)<br><br>💬 **Ví dụ:** Turn off the gas after cooking.<br>*(-> Hãy tắt bếp ga sau khi nấu ăn xong.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance in a physical state in which it does not have a definite shape or volume, and expands to fill any container.

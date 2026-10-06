@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Grammar
 *noun*
 > /ˈɡræm.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
+
+## 🗂️ Flashcard
+Grammar::ngữ pháp *(Phát âm: /ˈɡræm.ər/)* ![[grammar.mp3]]<br><br>👪 **Word Family:** grammatical (adj), grammatically (adv)<br><br>💬 **Ví dụ:** Her English is good, but her grammar needs some work.<br>*(-> Tiếng Anh của cô ấy tốt, nhưng ngữ pháp của cô ấy cần cải thiện thêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the rules about how words change their form and combine with other words to make sentences

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Offended
 *adj*
 > /əˈfendɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Offended::Bị xúc phạm, phật ý *(Phát âm: /əˈfendɪd/)* ![[offended.mp3]]<br><br>👪 **Word Family:** offend (v), offense (n), offensive (adj)<br><br>💬 **Ví dụ:** She was offended by his comments.<br>*(-> Cô ấy bị xúc phạm bởi những bình luận của anh ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Resentful or annoyed, typically as a result of a perceived insult.

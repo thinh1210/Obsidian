@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Veneration
 *n.*
 > /ˌven.əˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+42 - Veneration::Sự tôn kính *(Phát âm: /ˌven.əˈreɪ.ʃən/)* ![[veneration.mp3]]<br><br>👪 **Word Family:** Venerate (v.)<br><br>💬 **Ví dụ:** Veneration of celebrities.<br>*(-> Sự tôn kính đối với người nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Great respect; reverence.

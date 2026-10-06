@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Hospitable
 *Adjective*
 > /hɑːˈspɪt̬.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Hospitable::Hiếu khách *(Phát âm: /hɑːˈspɪt̬.ə.bəl/)* ![[hospitable.mp3]]<br><br>👪 **Word Family:** hospitality (n)<br><br>💬 **Ví dụ:** The local people are very hospitable to foreigners.<br>*(-> Người dân địa phương rất hiếu khách với người nước ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Friendly and welcoming to guests and visitors.

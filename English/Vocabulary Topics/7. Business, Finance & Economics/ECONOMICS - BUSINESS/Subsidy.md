@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Subsidy
 *noun*
 > /ˈsʌbsədi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Subsidy::tiền trợ cấp, bao cấp *(Phát âm: /ˈsʌbsədi/)* ![[subsidy.mp3]]<br><br>👪 **Word Family:** subsidize (verb), subsidized (adjective)<br><br>💬 **Ví dụ:** The government offers a subsidy for families who install solar panels on their roofs.<br>*(-> Chính phủ cung cấp một khoản trợ cấp cho các gia đình lắp đặt các tấm pin mặt trời trên mái nhà của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** money given by a government or other organization to support an industry or keep prices low.

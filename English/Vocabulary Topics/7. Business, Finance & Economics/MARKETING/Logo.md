@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Logo
 *noun*
 > /ˈloʊɡoʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
+
+## 🗂️ Flashcard
+Logo::Biểu trưng, logo *(Phát âm: /ˈloʊɡoʊ/)* ![[logo.mp3]]<br><br>👪 **Word Family:** logotype (n)<br><br>💬 **Ví dụ:** The athletic shoes have a famous swoosh logo on the side.<br>*(-> Đôi giày thể thao có logo hình dấu phẩy nổi tiếng ở bên hông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A symbol or other small design adopted by an organization to identify its products

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Deposit
 *n.*
 > /dɪˈpɒzɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Deposit::Tiền đặt cọc *(Phát âm: /dɪˈpɒzɪt/)* ![[deposit.mp3]]<br><br>👪 **Word Family:** depositor (n), deposit (v)<br><br>💬 **Ví dụ:** We had to pay a one-month deposit and the first month's rent in advance.<br>*(-> Chúng tôi phải trả trước một tháng tiền đặt cọc và tiền thuê tháng đầu tiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sum of money paid into a bank account, or paid as a first installment on a purchase.

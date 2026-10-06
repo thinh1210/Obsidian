@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Atmosphere
 *noun*
 > /ˈæt.məs.fɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
+
+## 🗂️ Flashcard
+Atmosphere::Khí quyển *(Phát âm: /ˈæt.məs.fɪər/)* ![[atmosphere.mp3]]<br><br>👪 **Word Family:** atmospheric (adj), atmospherics (n)<br><br>💬 **Ví dụ:** The air in the mountain is thin, but still within our atmosphere.<br>*(-> Không khí trên núi thì loãng, nhưng vẫn nằm trong bầu khí quyển của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The envelope of gases surrounding the earth or another planet.

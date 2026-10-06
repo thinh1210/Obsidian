@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Bride
 *noun*
 > /braɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Bride::Cô dâu *(Phát âm: /braɪd/)* ![[bride.mp3]]<br><br>👪 **Word Family:** Bridal (adjective)<br><br>💬 **Ví dụ:** The bride looks stunning.<br>*(-> Cô dâu trông thật lộng lẫy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A woman who is about to get married or has just got married.

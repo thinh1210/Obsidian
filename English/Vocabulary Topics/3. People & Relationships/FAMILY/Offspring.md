@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Offspring
 *noun*
 > /ˈɒf.sprɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Offspring::Con cái, dòng dõi *(Phát âm: /ˈɒf.sprɪŋ/)* ![[offspring.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** They have no offspring.<br>*(-> Họ không có con cái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The young of an animal, or a person's children.

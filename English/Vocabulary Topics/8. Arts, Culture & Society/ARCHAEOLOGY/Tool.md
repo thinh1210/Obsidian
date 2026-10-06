@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Tool
 *noun*
 > /tuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Tool::Công cụ, dụng cụ *(Phát âm: /tuːl/)* ![[tool.mp3]]<br><br>👪 **Word Family:** tooling (noun)<br><br>💬 **Ví dụ:** A hammer is a very useful tool.<br>*(-> Cái búa là một công cụ rất hữu ích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instrument such as a hammer or screwdriver that you hold in your hand and use for making or repairing things

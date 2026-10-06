@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Watch
 *n.*
 > /wɒtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Watch::Đồng hồ đeo tay; vật dụng đo và theo dõi thời gian cá nhân *(Phát âm: /wɒtʃ/)* ![[watch.mp3]]<br><br>👪 **Word Family:** watcher (n), watchful (adj)<br><br>💬 **Ví dụ:** He glanced nervously at his watch while waiting for the delayed train.<br>*(-> Anh ấy bồn chồn liếc nhìn đồng hồ đeo tay khi đang chờ chuyến tàu bị hoãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small clock worn on a strap around the wrist or carried in a pocket.

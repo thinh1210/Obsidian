@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Fleeting
 *adj*
 > /ˈfliːtɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Literary/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Fleeting::Thoáng qua, lướt qua *(Phát âm: /ˈfliːtɪŋ/)* ![[fleeting.mp3]]<br><br>👪 **Word Family:** fleet (v)<br><br>💬 **Ví dụ:** She caught a fleeting glimpse of him as he drove past.<br>*(-> Cô bắt được một ánh nhìn thoáng qua của anh khi anh lái xe ngang qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for a very short time.

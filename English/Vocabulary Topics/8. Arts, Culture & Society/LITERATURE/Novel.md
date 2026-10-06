@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Novel
 *noun*
 > /ˈnɒv.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Novel::Tiểu thuyết *(Phát âm: /ˈnɒv.əl/)* ![[novel.mp3]]<br><br>👪 **Word Family:** novelist (n), novelette (n), novelty (n)<br><br>💬 **Ví dụ:** She is reading a romantic novel.<br>*(-> Cô ấy đang đọc một cuốn tiểu thuyết lãng mạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fictitious prose narrative of book length, representing character and action.

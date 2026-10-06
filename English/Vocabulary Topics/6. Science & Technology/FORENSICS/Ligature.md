@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Ligature
 *noun*
 > /ˈlɪɡ.ə.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Ligature::Vật buộc / thắt; trong pháp y: vật dùng để siết cổ hoặc trói nạn nhân *(Phát âm: /ˈlɪɡ.ə.tʃər/)* ![[ligature.mp3]]<br><br>👪 **Word Family:** ligate (v), ligation (n)<br><br>💬 **Ví dụ:** The surgeon used a ligature to tie off the blood vessel during the operation.<br>*(-> Bác sĩ phẫu thuật dùng dây thắt để buộc mạch máu trong ca phẫu thuật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing used to bind or tie; in forensics, an object used to strangle or restrain a victim.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Customer
 *noun*
 > /ˈkʌstəmər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Thị trường, Cung cầu & Thương mại quốc tế
+
+## 🗂️ Flashcard
+Customer::khách hàng *(Phát âm: /ˈkʌstəmər/)* ![[customer.mp3]]<br><br>👪 **Word Family:** customize (verb), custom (noun)<br><br>💬 **Ví dụ:** The shop owner always greets every customer with a warm smile.<br>*(-> Chủ cửa hàng luôn chào đón mỗi khách hàng bằng một nụ cười ấm áp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a person or an organization that buys goods or services from a shop or business.

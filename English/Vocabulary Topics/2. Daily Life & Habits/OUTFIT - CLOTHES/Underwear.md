@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Underwear
 *n.*
 > /ˈʌn.də.weər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Underwear::Đồ lót mặc sát da bên trong quần áo thường *(Phát âm: /ˈʌn.də.weər/)* ![[underwear.mp3]]<br><br>💬 **Ví dụ:** It is advisable to choose breathable cotton underwear for daily exercise.<br>*(-> Nên chọn đồ lót bằng cotton thoáng khí cho việc tập luyện thể thao hằng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Clothes worn next to the skin, under other clothes.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Frightened
 *adj.*
 > /ˈfraɪtnd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Frightened::Sợ hãi *(Phát âm: /ˈfraɪtnd/)* ![[frightened.mp3]]<br><br>👪 **Word Family:** fright<br><br>💬 **Ví dụ:** Frightened child.<br>*(-> Đứa trẻ sợ hãi.)*
+<!--SR:!2026-10-06,4,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Afraid or anxious

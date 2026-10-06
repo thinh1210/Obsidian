@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Write-off
 *n.*
 > /ˈraɪt.ɒf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Write-off::Sự xóa nợ, xóa sổ tài sản *(Phát âm: /ˈraɪt.ɒf/)* ![[write_off.mp3]]<br><br>👪 **Word Family:** write off (v)<br><br>💬 **Ví dụ:** The damaged computer was a complete write-off for the family business.<br>*(-> Chiếc máy tính bị hỏng là một sự xóa sổ hoàn toàn đối với doanh nghiệp gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cancellation of an item from an account as a loss or debt that cannot be recovered

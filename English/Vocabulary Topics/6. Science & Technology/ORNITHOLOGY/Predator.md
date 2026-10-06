@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Predator
 *noun*
 > /ˈpred.ə.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Predator::Thú săn mồi, kẻ săn mồi *(Phát âm: /ˈpred.ə.tər/)* ![[predator.mp3]]<br><br>👪 **Word Family:** predator (n), predatory (adj), prey (n/v)<br><br>💬 **Ví dụ:** The cat is a major predator of small garden birds.<br>*(-> Mèo là một kẻ săn mồi lớn đối với những loài chim nhỏ trong vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that naturally preys on others.

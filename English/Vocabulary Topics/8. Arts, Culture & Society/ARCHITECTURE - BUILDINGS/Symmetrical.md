@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Symmetrical
 *adj.*
 > /sɪˈmetrɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Symmetrical::Đối xứng *(Phát âm: /sɪˈmetrɪkl/)* ![[symmetrical.mp3]]<br><br>👪 **Word Family:** symmetry, symmetrically<br><br>💬 **Ví dụ:** The building's front is perfectly symmetrical with a door in the middle.<br>*(-> Mặt trước của tòa nhà đối xứng hoàn hảo với một cánh cửa ở giữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Made up of exactly similar parts facing each other or around an axis

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Accelerate
 *verb*
 > /əkˈsel.ər.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Accelerate::Tăng tốc – tăng nhanh về tốc độ hoặc tỷ lệ; trong vật lý, là sự thay đổi vận tốc theo thời gian *(Phát âm: /əkˈsel.ər.eɪt/)* ![[accelerate.mp3]]<br><br>👪 **Word Family:** acceleration (n), accelerator (n), accelerated (adj), decelerate (v)<br><br>💬 **Ví dụ:** The car accelerated to 100 km/h in just five seconds.<br>*(-> Ô tô tăng tốc lên 100 km/h chỉ trong năm giây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To increase in speed or rate; in physics, to change velocity over time.

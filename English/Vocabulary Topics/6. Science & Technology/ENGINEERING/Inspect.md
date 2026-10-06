@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Inspect
 *verb*
 > /ɪnˈspekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Inspect::Thanh tra, kiểm tra kỹ *(Phát âm: /ɪnˈspekt/)* ![[inspect.mp3]]<br><br>👪 **Word Family:** inspection (n), inspector (n)<br><br>💬 **Ví dụ:** The quality control team must inspect every product before it leaves the warehouse.<br>*(-> Đội ngũ kiểm soát chất lượng phải kiểm tra mọi sản phẩm trước khi nó rời khỏi kho.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To look at something closely, typically to assess its condition or to discover shortcomings.

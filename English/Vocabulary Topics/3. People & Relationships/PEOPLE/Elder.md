@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Elder
 *n.*
 > /ˈel.dər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Elder::Người cao tuổi, bậc trưởng bối có vị trí được tôn kính trong gia đình hoặc cộng đồng *(Phát âm: /ˈel.dər/)* ![[elder.mp3]]<br><br>👪 **Word Family:** elderly (adj), eldest (adj)<br><br>💬 **Ví dụ:** Children in Vietnam are taught early on to bow politely and respect their elders.<br>*(-> Trẻ em ở Việt Nam được dạy từ sớm về việc khoanh tay lễ phép và kính trọng người lớn tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An older person, especially one with a respected position in society or family.

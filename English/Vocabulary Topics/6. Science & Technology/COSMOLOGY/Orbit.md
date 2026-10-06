@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Orbit
 *Noun*
 > /ˈɔː.bɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Orbit::Quỹ đạo *(Phát âm: /ˈɔː.bɪt/)* ![[orbit.mp3]]<br><br>👪 **Word Family:** orbital (adj), orbiter (n)<br><br>💬 **Ví dụ:** The space station is currently in orbit around the Earth.<br>*(-> Trạm vũ trụ hiện đang ở trên quỹ đạo quay quanh Trái Đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The curved path of a celestial object or spacecraft round a star, planet, or moon.

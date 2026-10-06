@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Statute
 *noun*
 > /ˈstætʃuːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Statute::Đạo luật; quy chế *(Phát âm: /ˈstætʃuːt/)* ![[statute.mp3]]<br><br>👪 **Word Family:** statutory (adj), statutes (n-plural)<br><br>💬 **Ví dụ:** The statute prohibits discrimination in the workplace.<br>*(-> Đạo luật cấm phân biệt đối xử tại nơi làm việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A law that has been formally written down and passed by a parliament or similar body

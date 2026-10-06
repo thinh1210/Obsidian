@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Phenotyping
 *noun*
 > /ˈfiː.nəʊ.taɪ.pɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Phenotyping::Lập kiểu hình – dự đoán đặc điểm ngoại hình từ dữ liệu ADN phục vụ nhận dạng pháp y *(Phát âm: /ˈfiː.nəʊ.taɪ.pɪŋ/)* ![[phenotyping.mp3]]<br><br>👪 **Word Family:** phenotype (n), phenotypic (adj)<br><br>💬 **Ví dụ:** Phenotyping in agriculture helps breeders select plants with desirable traits.<br>*(-> Lập kiểu hình trong nông nghiệp giúp nhà lai giống chọn cây trồng có đặc điểm mong muốn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of predicting physical appearance from DNA data; in forensics used to identify unknown individuals.

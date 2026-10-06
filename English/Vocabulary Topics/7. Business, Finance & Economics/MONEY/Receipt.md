@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Receipt
 *n.*
 > /rɪˈsiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Receipt::Biên lai, hóa đơn bán lẻ xác nhận việc đã thanh toán tiền hàng *(Phát âm: /rɪˈsiːt/)* ![[receipt.mp3]]<br><br>👪 **Word Family:** receive (v), recipient (n)<br><br>💬 **Ví dụ:** Always keep your store receipt in case you need to exchange the shirt for a larger size.<br>*(-> Luôn giữ lại hóa đơn cửa hàng phòng khi bạn cần đổi chiếc áo sơ mi lấy kích cỡ lớn hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written statement confirming that goods or money have been delivered, paid for, or received.

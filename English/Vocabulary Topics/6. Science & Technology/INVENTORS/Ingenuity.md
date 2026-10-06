@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # ingenuity
 *n.*
 > /ˌɪn.dʒəˈnjuː.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Ingenuity::Sự khéo léo, tính phát minh sáng tạo *(Phát âm: /ˌɪn.dʒəˈnjuː.ə.ti/)* ![[ingenuity.mp3]]<br><br>👪 **Word Family:** ingenious (adj), ingeniously (adv)<br><br>💬 **Ví dụ:** The problem was solved by the sheer ingenuity of the students.<br>*(-> Vấn đề đã được giải quyết bởi sự khéo léo sáng tạo tuyệt đối của học sinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality of being clever, original, and inventive

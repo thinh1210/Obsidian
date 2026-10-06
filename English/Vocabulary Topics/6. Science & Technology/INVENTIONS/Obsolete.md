@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Obsolete
 *Adjective*
 > /ˌɒb.səˈliːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Obsolete::Lỗi thời, không còn được sử dụng *(Phát âm: /ˌɒb.səˈliːt/)* ![[obsolete.mp3]]<br><br>👪 **Word Family:** Obsolescence (n)<br><br>💬 **Ví dụ:** Typewriters are now obsolete.<br>*(-> Máy đánh chữ giờ đây đã lỗi thời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not in use any more, having been replaced by something newer and better.

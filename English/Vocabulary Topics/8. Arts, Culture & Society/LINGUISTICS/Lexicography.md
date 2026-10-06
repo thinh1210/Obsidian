@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Lexicography
 *noun*
 > /ˌlek.sɪˈkɒɡ.rə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Lý thuyết ngôn ngữ học, Cú pháp, Từ nguyên & Ngữ dụng học
+
+## 🗂️ Flashcard
+Lexicography::từ điển học, việc biên soạn từ điển *(Phát âm: /ˌlek.sɪˈkɒɡ.rə.fi/)* ![[lexicography.mp3]]<br><br>👪 **Word Family:** lexicographer (n), lexicographical (adj)<br><br>💬 **Ví dụ:** Lexicography requires deep knowledge of both semantic shifts and usage.<br>*(-> Từ điển học đòi hỏi kiến thức sâu sắc về cả sự thay đổi ngữ nghĩa lẫn cách sử dụng từ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the activity or job of writing dictionaries

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Second
 *n.*
 > /ˈsekənd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Second::Giây *(Phát âm: /ˈsekənd/)* ![[second.mp3]]<br><br>👪 **Word Family:** secondly (adv.)<br><br>💬 **Ví dụ:** I'll be ready in a second.<br>*(-> Tôi sẽ sẵn sàng trong một giây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** 1/60th of a minute

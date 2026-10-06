@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Uncharted
 *adj*
 > /ʌnˈtʃɑːtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Uncharted::Chưa được thám hiểm, chưa được đưa lên bản đồ *(Phát âm: /ʌnˈtʃɑːtɪd/)* ![[uncharted.mp3]]<br><br>👪 **Word Family:** Chart (v, n)<br><br>💬 **Ví dụ:** They set sail into uncharted waters looking for new fishing grounds.<br>*(-> Họ giương buồm tiến vào những vùng biển chưa ai biết tới để tìm kiếm ngư trường mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Not mapped or surveyed; unknown.

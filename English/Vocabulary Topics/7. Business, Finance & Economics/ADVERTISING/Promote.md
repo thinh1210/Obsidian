@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Promote
 *verb*
 > /prəˈməʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Promote::Quảng bá, thúc đẩy *(Phát âm: /prəˈməʊt/)* ![[promote.mp3]]<br><br>👪 **Word Family:** promotion (noun), promotional (adj), promoter (noun)<br><br>💬 **Ví dụ:** They are running ads to promote their new service.<br>*(-> Họ đang chạy quảng cáo để quảng bá dịch vụ mới của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To support or actively encourage (a cause, venture, etc.); further the progress of.

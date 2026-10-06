@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Substandard
 *adj*
 > /sʌbˈstæn.dəd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
+
+## 🗂️ Flashcard
+Substandard::Dưới tiêu chuẩn, kém chất lượng *(Phát âm: /sʌbˈstæn.dəd/)* ![[substandard.mp3]]<br><br>👪 **Word Family:** Standard (noun)<br><br>💬 **Ví dụ:** They were living in substandard conditions.<br>*(-> Họ đang sống trong điều kiện dưới tiêu chuẩn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Below the usual or required standard.

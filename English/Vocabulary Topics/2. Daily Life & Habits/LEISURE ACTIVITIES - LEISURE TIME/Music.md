@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Music
 *n*
 > /ˈmjuːzɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Trò chơi, Giải trí & Âm nhạc
+
+## 🗂️ Flashcard
+Music::Âm nhạc *(Phát âm: /ˈmjuːzɪk/)* ![[music.mp3]]<br><br>👪 **Word Family:** Musical (adj), Musician (n)<br><br>💬 **Ví dụ:** I love listening to music.<br>*(-> Tôi thích nghe nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony.

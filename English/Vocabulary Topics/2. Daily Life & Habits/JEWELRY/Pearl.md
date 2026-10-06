@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Pearl
 *noun*
 > /pɜːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Pearl::Ngọc trai *(Phát âm: /pɜːl/)* ![[pearl.mp3]]<br><br>👪 **Word Family:** Pearly<br><br>💬 **Ví dụ:** She wore pearl earrings.<br>*(-> Cô ấy đeo bông tai ngọc trai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hard, round object produced within a shell.

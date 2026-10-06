@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Paradigm
 *noun*
 > /ˈpær.ə.daɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Paradigm::Mô thức/hệ hình – ví dụ điển hình hoặc mô hình; trong khoa học, là tập hợp giả định và phương pháp được cộng đồng khoa học chấp nhận rộng rãi *(Phát âm: /ˈpær.ə.daɪm/)* ![[paradigm.mp3]]<br><br>👪 **Word Family:** paradigmatic (adj), paradigmatically (adv)<br><br>💬 **Ví dụ:** The internet created a paradigm shift in how people access information.<br>*(-> Internet tạo ra một sự thay đổi mô thức trong cách mọi người tiếp cận thông tin.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A typical example or pattern that serves as a model; in science, a set of assumptions and methods widely accepted by a scientific community.

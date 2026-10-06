@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Check-in
 *n./v.*
 > /ˈtʃek ɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Check-in::Việc xuất trình giấy tờ để nhận phòng khách sạn hoặc lấy thẻ lên máy bay *(Phát âm: /ˈtʃek ɪn/)* ![[check_in.mp3]]<br><br>👪 **Word Family:** check (v)<br><br>💬 **Ví dụ:** Standard hotel check-in begins at 2 PM in the afternoon.<br>*(-> Giờ nhận phòng tiêu chuẩn của khách sạn bắt đầu từ 2 giờ chiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of registering upon arrival at an airport or hotel.

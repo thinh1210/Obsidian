@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Epistemology
 *noun*
 > /ɪˌpɪstəˈmɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Epistemology::Tri thức luận, lý thuyết nhận thức *(Phát âm: /ɪˌpɪstəˈmɒlədʒi/)* ![[epistemology.mp3]]<br><br>👪 **Word Family:** epistemological (adj), epistemologist (n)<br><br>💬 **Ví dụ:** Understanding a teacher's educational epistemology helps explain their teaching style.<br>*(-> Hiểu được tri thức luận giáo dục của giáo viên giúp giải thích phong cách giảng dạy của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The theory of knowledge, especially with regard to its methods, validity, and scope.

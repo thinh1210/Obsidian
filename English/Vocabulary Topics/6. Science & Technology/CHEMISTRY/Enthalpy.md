@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Enthalpy
 *noun*
 > /enˈθæl.pi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Enthalpy::Hàm nhiệt, enthalpy *(Phát âm: /enˈθæl.pi/)* ![[enthalpy.mp3]]<br><br>👪 **Word Family:** enthalpic (adj)<br><br>💬 **Ví dụ:** The enthalpy change of a reaction measures the heat absorbed or released at constant pressure.<br>*(-> Sự biến thiên enthalpy của một phản ứng đo lượng nhiệt hấp thụ hoặc giải phóng ở áp suất không đổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thermodynamic quantity equivalent to the total heat content of a system.

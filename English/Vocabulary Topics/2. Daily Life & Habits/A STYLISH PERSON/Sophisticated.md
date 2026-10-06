@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Sophisticated
 *adj.*
 > /səˈfɪstɪkeɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Sophisticated::Tinh tế, sành điệu *(Phát âm: /səˈfɪstɪkeɪtɪd/)* ![[sophisticated.mp3]]<br><br>👪 **Word Family:** Sophistication (n)<br><br>💬 **Ví dụ:** She is a sophisticated young woman.<br>*(-> Cô ấy là một thiếu nữ sành điệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot of experience of the world and knowing about fashion, culture, etc.

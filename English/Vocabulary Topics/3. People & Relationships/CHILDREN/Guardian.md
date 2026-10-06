@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Guardian
 *n.*
 > /ˈɡɑː.di.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Guardian::Người giám hộ hợp pháp, chịu trách nhiệm pháp lý nuôi nấng và chăm sóc trẻ em *(Phát âm: /ˈɡɑː.di.ən/)* ![[guardian.mp3]]<br><br>👪 **Word Family:** guardianship (n), guard (v/n)<br><br>💬 **Ví dụ:** School permission slips for overnight field trips must be signed by a parent or legal guardian.<br>*(-> Phiếu xin phép của nhà trường cho chuyến dã ngoại qua đêm phải có chữ ký của phụ huynh hoặc người giám hộ hợp pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has the legal right and responsibility of taking care of someone who cannot take care of themselves, such as a child.

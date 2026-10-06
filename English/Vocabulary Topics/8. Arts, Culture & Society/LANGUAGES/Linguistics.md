@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Linguistics
 *n.*
 > /lɪŋˈɡwɪstɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Khoa học ngôn ngữ, Cú pháp & Ngữ nghĩa học
+
+## 🗂️ Flashcard
+Linguistics::Ngôn ngữ học *(Phát âm: /lɪŋˈɡwɪstɪks/)* ![[linguistics.mp3]]<br><br>👪 **Word Family:** linguist, linguistic, linguistically<br><br>💬 **Ví dụ:** She has a degree in linguistics.<br>*(-> Cô ấy có bằng tốt nghiệp ngành ngôn ngữ học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of language and its structure

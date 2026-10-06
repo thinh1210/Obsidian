@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Origami
 *noun*
 > /ˌɒr.ɪˈɡɑː.mi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Origami::Gấp giấy origami *(Phát âm: /ˌɒr.ɪˈɡɑː.mi/)* ![[origami.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He taught his daughter how to make an origami boat.<br>*(-> Anh ấy dạy con gái cách gấp thuyền giấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The traditional Japanese art of folding paper.

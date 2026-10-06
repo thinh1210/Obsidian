@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Gentrification
 *n.*
 > /ˌdʒentrɪfɪˈkeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Gentrification::Chỉnh trang đô thị *(Phát âm: /ˌdʒentrɪfɪˈkeɪʃn/)* ![[gentrification.mp3]]<br><br>👪 **Word Family:** Gentrify (v.)<br><br>💬 **Ví dụ:** Gentrification is pushing out local residents.<br>*(-> Sự chỉnh trang đô thị đang đẩy cư dân địa phương đi nơi khác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of renovating and improving a house or district so that it conforms to middle-class taste.

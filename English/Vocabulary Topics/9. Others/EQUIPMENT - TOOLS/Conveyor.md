@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # conveyor
 *noun*
 > /kənˈveɪ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Máy móc cơ khí, Động cơ & Bộ phận truyền động
+
+## 🗂️ Flashcard
+Conveyor::băng chuyền, băng tải *(Phát âm: /kənˈveɪ.ər/)* ![[conveyor.mp3]]<br><br>👪 **Word Family:** Noun: conveyor (băng tải), conveyance (sự vận chuyển, xe cộ), Verb: convey (vận chuyển, truyền đạt)<br><br>💬 **Ví dụ:** At the airport, passengers waited by the baggage conveyor.<br>*(-> Tại sân bay, hành khách đứng đợi cạnh băng chuyền hành lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a person or thing that transports or communicates something; also, a continuous moving band used for transporting goods.

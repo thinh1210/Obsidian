@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Allotrope
 *noun*
 > /ˈæl.ə.trəʊp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Allotrope::Dạng thù hình *(Phát âm: /ˈæl.ə.trəʊp/)* ![[allotrope.mp3]]<br><br>👪 **Word Family:** allotropic (adj), allotropy (n)<br><br>💬 **Ví dụ:** Diamond and graphite are well-known allotropes of carbon.<br>*(-> Kim cương và than chì là các dạng thù hình nổi tiếng của carbon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Each of two or more different physical forms in which an element can exist (e.g. graphite and diamond as allotropes of carbon).

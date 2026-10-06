@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Chores
 *noun*
 > /tʃɔːrz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Chores::Việc vặt trong nhà *(Phát âm: /tʃɔːrz/)* ![[chores.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The kids help with chores.<br>*(-> Bọn trẻ giúp làm việc nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A routine task, especially a household one.

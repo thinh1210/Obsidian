@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Calamity
 *noun*
 > /kəˈlæm.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Calamity::Thiên tai, tai họa khôn lường *(Phát âm: /kəˈlæm.ə.ti/)* ![[calamity.mp3]]<br><br>👪 **Word Family:** calamitous (adj), calamitously (adv)<br><br>💬 **Ví dụ:** The sudden flooding was a calamity that the city was not prepared for.<br>*(-> Trận lụt đột ngột là một tai họa mà thành phố chưa chuẩn bị trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event causing great and often sudden damage or distress; a disaster.

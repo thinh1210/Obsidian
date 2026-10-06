@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Abdicate
 *verb*
 > /ˈæb.dɪ.keɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+Abdicate::Thoái vị, nhường ngôi, từ bỏ (quyền lợi/trách nhiệm) *(Phát âm: /ˈæb.dɪ.keɪt/)* ![[abdicate.mp3]]<br><br>👪 **Word Family:** abdication (noun)<br><br>💬 **Ví dụ:** Parents should not abdicate their responsibility to raise their children.<br>*(-> Cha mẹ không nên thoái thác trách nhiệm nuôi dạy con cái của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Renounce one's throne (of a monarch); fail to fulfill or undertake a duty or responsibility.

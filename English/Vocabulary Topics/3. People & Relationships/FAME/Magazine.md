@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Magazine
 *n.*
 > /ˌmæɡəˈziːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Magazine::Tạp chí *(Phát âm: /ˌmæɡəˈziːn/)* ![[magazine.mp3]]<br><br>👪 **Word Family:** mag (n.)<br><br>💬 **Ví dụ:** She reads a fashion magazine.<br>*(-> Cô ấy đọc một tạp chí thời trang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A periodical publication containing articles and images.

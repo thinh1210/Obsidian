@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Borrow
 *verb*
 > /ˈbɒr.əʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Borrow::Mượn, vay *(Phát âm: /ˈbɒr.əʊ/)* ![[borrow.mp3]]<br><br>👪 **Word Family:** borrower (n)<br><br>💬 **Ví dụ:** Can I borrow your pen for a minute?<br>*(-> Tôi có thể mượn cây bút của bạn một lát không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To take and use something that belongs to someone else with the intention of returning it

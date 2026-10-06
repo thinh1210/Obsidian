@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Hashtag
 *noun*
 > /ˈhæʃtæɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Hashtag::Thẻ bắt đầu bằng dấu thăng, thẻ chủ đề *(Phát âm: /ˈhæʃtæɡ/)* ![[hashtag.mp3]]<br><br>👪 **Word Family:** hash (n), tag (v/n)<br><br>💬 **Ví dụ:** You can search for recipes by using the hashtag #HomeCooking.<br>*(-> Bạn có thể tìm kiếm công thức nấu ăn bằng cách sử dụng hashtag #HomeCooking.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A word or phrase preceded by a hash sign (#) used on social media to identify a specific topic

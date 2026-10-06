@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Grocery
 *n.*
 > /ˈɡrəʊ.sər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Grocery::Hàng thực phẩm, đồ tạp hóa thiết yếu cho gia đình *(Phát âm: /ˈɡrəʊ.sər.i/)* ![[grocery.mp3]]<br><br>👪 **Word Family:** grocer (n)<br><br>💬 **Ví dụ:** I made a detailed grocery list before heading out to avoid buying unnecessary sweets.<br>*(-> Tôi đã lập danh sách đồ tạp hóa chi tiết trước khi đi mua để tránh mua kẹo bánh linh tinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Food and other household items sold at a store or supermarket.

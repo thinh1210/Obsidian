@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Outreach
 *noun*
 > /ˈaʊtriːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Outreach::Hoạt động tiếp cận, nỗ lực tiếp cận cộng đồng *(Phát âm: /ˈaʊtriːtʃ/)* ![[outreach.mp3]]<br><br>👪 **Word Family:** outreach (verb)<br><br>💬 **Ví dụ:** The school has an excellent community outreach program.<br>*(-> Trường học có một chương trình tiếp cận cộng đồng tuyệt vời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organization's involvement with or activity in the community, especially to offer services or promote products.

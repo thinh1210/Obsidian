@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Travel
 *verb*
 > /ˈtrævl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Travel::Đi du lịch, di chuyển *(Phát âm: /ˈtrævl/)* ![[travel.mp3]]<br><br>👪 **Word Family:** Verb: travel (di chuyển), Noun: travel (việc đi du lịch), traveler (người du lịch)<br><br>💬 **Ví dụ:** I love to travel to different countries during my summer holidays.<br>*(-> Tôi thích đi du lịch đến các quốc gia khác nhau trong kỳ nghỉ hè của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a journey, typically of some length or abroad.

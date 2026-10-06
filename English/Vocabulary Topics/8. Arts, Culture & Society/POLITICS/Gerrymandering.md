@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Gerrymandering
 *n*
 > /ˈdʒer.i.mæn.dər.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Gerrymandering::Việc vẽ lại ranh giới bầu cử bất công / gian lận địa hạt *(Phát âm: /ˈdʒer.i.mæn.dər.ɪŋ/)* ![[gerrymandering.mp3]]<br><br>👪 **Word Family:** gerrymander (v/n)<br><br>💬 **Ví dụ:** Local activists accused the council of gerrymandering to suppress minority votes.<br>*(-> Các nhà hoạt động địa phương cáo buộc hội đồng gian lận địa hạt để đàn áp phiếu thiểu số.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The manipulation of electoral district boundaries to favour a particular party.

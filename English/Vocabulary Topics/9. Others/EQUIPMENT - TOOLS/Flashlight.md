@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # flashlight
 *noun*
 > /ˈflæʃ.laɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Flashlight::đèn pin *(Phát âm: /ˈflæʃ.laɪt/)* ![[flashlight.mp3]]<br><br>👪 **Word Family:** Noun: flashlight (đèn pin), flash (ánh chớp), Verb: flash (chớp sáng)<br><br>💬 **Ví dụ:** I used my flashlight to find my keys under the sofa.<br>*(-> Tôi đã dùng đèn pin để tìm chìa khóa dưới ghế sofa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a small portable electric lamp powered by batteries (also called torch).

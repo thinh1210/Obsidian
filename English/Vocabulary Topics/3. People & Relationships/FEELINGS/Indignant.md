@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Indignant
 *adj*
 > /ɪnˈdɪɡnənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Indignant::Phẫn nộ *(Phát âm: /ɪnˈdɪɡnənt/)* ![[indignant.mp3]]<br><br>👪 **Word Family:** indignation (n), indignantly (adv)<br><br>💬 **Ví dụ:** He was indignant at the false accusations.<br>*(-> Anh ấy phẫn nộ trước những lời buộc tội sai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing anger or annoyance at what is perceived as unfair treatment.

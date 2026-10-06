@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Rapport
 *noun*
 > /ræpˈɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Rapport::Mối quan hệ tốt đẹp, sự thấu hiểu *(Phát âm: /ræpˈɔːr/)* ![[rapport.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She built a good rapport with her clients.<br>*(-> Cô ấy đã xây dựng một mối quan hệ tốt đẹp với khách hàng của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.

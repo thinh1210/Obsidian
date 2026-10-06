@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Life
 *n.*
 > /laɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Life::Đời sống, mạng sống *(Phát âm: /laɪf/)* ![[life.mp3]]<br><br>👪 **Word Family:** live, lively, lifeless<br><br>💬 **Ví dụ:** He bought life insurance to secure his children's future.<br>*(-> Anh ấy đã mua bảo hiểm nhân thọ để đảm bảo tương lai cho các con của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The period between birth and death; related to life insurance.

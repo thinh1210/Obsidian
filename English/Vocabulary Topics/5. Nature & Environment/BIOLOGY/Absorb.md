@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Absorb
 *verb*
 > /əbˈzɔːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Absorb::Hấp thụ, hút *(Phát âm: /əbˈzɔːb/)* ![[absorb.mp3]]<br><br>👪 **Word Family:** absorption, absorbent<br><br>💬 **Ví dụ:** Sponges absorb water very well.<br>*(-> Bọt biển hấp thụ nước rất tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take in or soak up (energy, liquid, or other substance) by chemical or physical action.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Pronunciation
 *noun*
 > /prəˌnʌn.siˈeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Pronunciation::sự phát âm, cách phát âm *(Phát âm: /prəˌnʌn.siˈeɪ.ʃən/)* ![[pronunciation.mp3]]<br><br>👪 **Word Family:** pronounce (v), pronounced (adj)<br><br>💬 **Ví dụ:** You can practice your pronunciation by listening to native speakers.<br>*(-> Bạn có thể luyện tập phát âm của mình bằng cách nghe người bản xứ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the way in which a word or letter is pronounced

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Yield
 *n.*
 > /jiːld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Yield::Sản lượng, thu hoạch *(Phát âm: /jiːld/)* ![[yield.mp3]]<br><br>👪 **Word Family:** yield (v), yielding (adj)<br><br>💬 **Ví dụ:** This new technique will significantly increase the farm's annual yield.<br>*(-> Kỹ thuật mới này sẽ làm tăng đáng kể sản lượng hàng năm của trang trại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The total quantity of agricultural product produced.

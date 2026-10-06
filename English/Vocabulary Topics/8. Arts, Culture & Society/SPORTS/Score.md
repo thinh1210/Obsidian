@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Score
 *v.*
 > /skɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Score::Ghi bàn, ghi điểm *(Phát âm: /skɔːr/)* ![[score.mp3]]<br><br>👪 **Word Family:** scorer, scoreless<br><br>💬 **Ví dụ:** He scored two goals in the second half.<br>*(-> Anh ấy đã ghi được hai bàn thắng trong hiệp hai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Gain a point, goal, run, etc. in a competitive game.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Schedule
 *n./v.*
 > /ˈʃedjuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Schedule::Lịch trình, lên lịch *(Phát âm: /ˈʃedjuːl/)* ![[schedule.mp3]]<br><br>👪 **Word Family:** scheduled (adj.)<br><br>💬 **Ví dụ:** My schedule is full today.<br>*(-> Lịch trình của tôi hôm nay đã kín.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan of times for tasks or events

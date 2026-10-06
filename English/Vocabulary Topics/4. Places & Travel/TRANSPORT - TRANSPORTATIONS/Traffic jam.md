@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Traffic jam
 *noun*
 > /ˈtræfɪk dʒæm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Traffic jam::Sự kẹt xe, tắc nghẽn giao thông *(Phát âm: /ˈtræfɪk dʒæm/)* ![[traffic_jam.mp3]]<br><br>👪 **Word Family:** Noun: traffic jam (kẹt xe)<br><br>💬 **Ví dụ:** I was late for the meeting because of a traffic jam.<br>*(-> Tôi đã trễ cuộc họp vì kẹt xe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large number of vehicles close together and unable to move or moving very slowly.

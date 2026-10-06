@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Vintage
 *adj.*
 > /ˈvɪntɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
+
+## 🗂️ Flashcard
+Vintage::Cổ điển (chất lượng cao) *(Phát âm: /ˈvɪntɪdʒ/)* ![[vintage.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She loves shopping for vintage clothes.<br>*(-> Cô ấy thích mua sắm quần áo cổ điển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Old but of high quality.

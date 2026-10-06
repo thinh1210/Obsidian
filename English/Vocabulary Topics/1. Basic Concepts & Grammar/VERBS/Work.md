@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Work
 *Verb*
 > /wɜːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Work::Làm việc *(Phát âm: /wɜːk/)* ![[work.mp3]]<br><br>👪 **Word Family:** Worker (n), Workable (adj)<br><br>💬 **Ví dụ:** I work hard.<br>*(-> Tôi làm việc chăm chỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To do a job, especially the job you do to earn money.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Monument
 *Noun*
 > /ˈmɑːn.jə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
+
+## 🗂️ Flashcard
+Monument::Đài kỷ niệm, tượng đài *(Phát âm: /ˈmɑːn.jə.mənt/)* ![[monument.mp3]]<br><br>👪 **Word Family:** monumental (adj)<br><br>💬 **Ví dụ:** They built a monument in the city center.<br>*(-> Họ đã xây dựng một tượng đài ở trung tâm thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure or building that is built to honour a special person or event.

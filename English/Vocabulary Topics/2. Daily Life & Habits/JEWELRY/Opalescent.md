@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Opalescent
 *adjective*
 > /ˌəʊ.pəlˈes.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Opalescent::Óng ánh (như ngọc mắt mèo) *(Phát âm: /ˌəʊ.pəlˈes.ənt/)* ![[opalescent.mp3]]<br><br>👪 **Word Family:** Opal<br><br>💬 **Ví dụ:** The gem is opalescent.<br>*(-> Viên ngọc óng ánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing varying colors as an opal does.

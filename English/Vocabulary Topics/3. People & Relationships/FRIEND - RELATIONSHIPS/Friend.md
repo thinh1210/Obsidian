@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Friend
 *noun*
 > /frend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Friend::Bạn bè *(Phát âm: /frend/)* ![[friend.mp3]]<br><br>👪 **Word Family:** friendly, friendship<br><br>💬 **Ví dụ:** He is my best friend.<br>*(-> Anh ấy là bạn thân nhất của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person whom one knows and with whom one has a bond of mutual affection.

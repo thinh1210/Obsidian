@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Humorous
 *adj.*
 > /ˈhjuː.mə.rəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Humorous::Hài hước *(Phát âm: /ˈhjuː.mə.rəs/)* ![[humorous.mp3]]<br><br>👪 **Word Family:** Humor (n)<br><br>💬 **Ví dụ:** He is very humorous.<br>*(-> Anh ấy rất hài hước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Causing lighthearted laughter and amusement.

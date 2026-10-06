@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Neat
 *adj.*
 > /niːt/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Neat::Gọn gàng, ngăn nắp, tinh tế; khéo léo và gãy gọn *(Phát âm: /niːt/)* ![[neat.mp3]]<br><br>👪 **Word Family:** neatly (adv), neatness (n)<br><br>💬 **Ví dụ:** Her desk is always neat and tidy, with files arranged in alphabetical order.<br>*(-> Bàn làm việc của cô ấy luôn gọn gàng và ngăn nắp, hồ sơ được xếp theo thứ tự bảng chữ cái.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Arranged well, with everything in its right place; tidy; clever and simple.

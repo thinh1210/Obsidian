@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Paradigm
 *n*
 > /ˈpær.ə.daɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Paradigm::Mô hình, hệ nhận thức *(Phát âm: /ˈpær.ə.daɪm/)* ![[paradigm.mp3]]<br><br>👪 **Word Family:** Paradigmatic (adj)<br><br>💬 **Ví dụ:** Cloud gaming is a new paradigm in entertainment.<br>*(-> Trò chơi trên đám mây là một mô hình giải trí mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A model of something, or a very clear and typical example of something.

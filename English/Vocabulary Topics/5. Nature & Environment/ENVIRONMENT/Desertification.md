@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Desertification
 *n.*
 > /dɪˌzɜːtɪfɪˈkeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Desertification::Nạn hoang mạc hóa, sa mạc hóa *(Phát âm: /dɪˌzɜːtɪfɪˈkeɪʃn/)* ![[desertification.mp3]]<br><br>👪 **Word Family:** desert (n), desertify (v)<br><br>💬 **Ví dụ:** Desertification is threatening agricultural land in parts of Africa.<br>*(-> Nạn hoang mạc hóa đang đe dọa đất nông nghiệp ở một số vùng của châu Phi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Jurisdiction
 *noun*
 > /ˌdʒʊə.rɪsˈdɪk.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Jurisdiction::Quyền lực pháp lý, thẩm quyền tài phán *(Phát âm: /ˌdʒʊə.rɪsˈdɪk.ʃən/)* ![[jurisdiction.mp3]]<br><br>👪 **Word Family:** Jurisdiction (n), Jurisdictional (adj), Jurisprudence (n)<br><br>💬 **Ví dụ:** The case falls under the jurisdiction of the federal court system.<br>*(-> Vụ án thuộc thẩm quyền giải quyết của hệ thống tòa án liên bang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The official power to make legal decisions and judgments.

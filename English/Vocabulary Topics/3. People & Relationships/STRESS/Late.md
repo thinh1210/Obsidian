@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Late
 *adj.*
 > /leɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Late::Muộn, trễ *(Phát âm: /leɪt/)* ![[late.mp3]]<br><br>👪 **Word Family:** lately (adv), lateness (n)<br><br>💬 **Ví dụ:** I am late for school.<br>*(-> Tôi bị muộn học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Doing something or taking place after the expected, proper, or usual time

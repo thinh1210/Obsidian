@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Market
 *n.*
 > /ˈmɑːkɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Market::Chợ *(Phát âm: /ˈmɑːkɪt/)* ![[market.mp3]]<br><br>👪 **Word Family:** Marketing (n.)<br><br>💬 **Ví dụ:** I buy fruit at the market.<br>*(-> Tôi mua trái cây ở chợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regular gathering of people for the purchase and sale of provisions.

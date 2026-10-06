@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Border
 *noun*
 > /ˈbɔːdə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Border::Biên giới *(Phát âm: /ˈbɔːdə(r)/)* ![[border.mp3]]<br><br>👪 **Word Family:** Borderline (n.)<br><br>💬 **Ví dụ:** We crossed the border into Canada.<br>*(-> Chúng tôi đã vượt qua biên giới vào Canada.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line separating two political or geographical areas.

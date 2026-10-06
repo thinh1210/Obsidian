@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Turbine
 *noun*
 > /ˈtɜːbaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Turbine::Tua-bin *(Phát âm: /ˈtɜːbaɪn/)* ![[turbine.mp3]]<br><br>👪 **Word Family:** turbofan (n), turbo (n)<br><br>💬 **Ví dụ:** The wind turbine spun slowly in the gentle breeze on the hill.<br>*(-> Tua-bin gió quay chậm rãi trong làn gió nhẹ trên đồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A machine for producing continuous power in which a wheel or rotor is made to revolve by a fast-flowing flow of water, steam, gas, air, or other fluid.

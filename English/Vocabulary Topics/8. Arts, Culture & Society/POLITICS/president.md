@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # president
 *noun*
 > /ˈprezɪdənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+president::Tổng thống, chủ tịch *(Phát âm: /ˈprezɪdənt/)* ![[president.mp3]]<br><br>👪 **Word Family:** presidency (n), presidential (adj)<br><br>💬 **Ví dụ:** The president gave a speech on television tonight.<br>*(-> Tổng thống đã phát biểu trên truyền hình tối nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The elected head of a republican state.

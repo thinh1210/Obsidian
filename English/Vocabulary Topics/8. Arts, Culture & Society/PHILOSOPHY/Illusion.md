@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Illusion
 *n.*
 > /ɪˈluː.ʒən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Illusion::Ảo giác, ảo tưởng *(Phát âm: /ɪˈluː.ʒən/)* ![[illusion.mp3]]<br><br>👪 **Word Family:** illusory, illusionist<br><br>💬 **Ví dụ:** The mirrors on the wall create the illusion of a larger room.<br>*(-> Những chiếc gương trên tường tạo ra ảo giác về một căn phòng rộng hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instance of a wrong or misinterpreted perception of a sensory experience.

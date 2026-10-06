@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Couple
 *noun*
 > /ˈkʌpl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Couple::Cặp đôi *(Phát âm: /ˈkʌpl/)* ![[couple.mp3]]<br><br>👪 **Word Family:** Couples (plural)<br><br>💬 **Ví dụ:** They are a cute couple.<br>*(-> Họ là một cặp đôi dễ thương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Two people who are married or in a romantic relationship.

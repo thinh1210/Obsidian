@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Complicated
 *adj.*
 > /ˈkɒmplɪkeɪtɪd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Complicated::Phức tạp *(Phát âm: /ˈkɒmplɪkeɪtɪd/)* ![[complicated.mp3]]<br><br>👪 **Word Family:** complicate<br><br>💬 **Ví dụ:** Complicated relationship.<br>*(-> Mối quan hệ phức tạp.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Consisting of many interconnecting parts or elements

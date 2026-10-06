@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Kin
 *noun*
 > /kɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Kin::Dòng họ, người thân *(Phát âm: /kɪn/)* ![[kin.mp3]]<br><br>👪 **Word Family:** kinship (n)<br><br>💬 **Ví dụ:** They are my kin.<br>*(-> Họ là người thân của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Family and relations.

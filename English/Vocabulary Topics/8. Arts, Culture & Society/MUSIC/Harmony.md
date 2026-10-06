@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Harmony
 *n.*
 > /ˈhɑː.mə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Harmony::Hòa âm, sự hài hòa *(Phát âm: /ˈhɑː.mə.ni/)* ![[harmony.mp3]]<br><br>👪 **Word Family:** harmonious (adj), harmonize (v)<br><br>💬 **Ví dụ:** The two singers sang in perfect harmony during the chorus.<br>*(-> Hai ca sĩ đã hát hòa âm hoàn hảo trong suốt phần điệp khúc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The combination of simultaneously sounded musical notes to produce chords and chord progressions with a pleasing effect.

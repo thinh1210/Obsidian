@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Internship
 *n.*
 > /ˈɪn.tɜːn.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Internship::Kỳ thực tập, vị trí thực tập *(Phát âm: /ˈɪn.tɜːn.ʃɪp/)* ![[internship.mp3]]<br><br>👪 **Word Family:** intern<br><br>💬 **Ví dụ:** She got a summer internship at a local bank.<br>*(-> Cô ấy đã nhận được một kỳ thực tập mùa hè tại một ngân hàng địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A period of time during which a student or new graduate works to get practical experience

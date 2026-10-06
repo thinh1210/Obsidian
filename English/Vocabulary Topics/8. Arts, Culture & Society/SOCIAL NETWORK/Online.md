@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Online
 *adjective*
 > /ˌɒnˈlaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Online::Trực tuyến, mạng *(Phát âm: /ˌɒnˈlaɪn/)* ![[online.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Is she online right now? I want to chat with her.<br>*(-> Cô ấy đang trực tuyến đúng không? Tôi muốn nói chuyện với cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Connected to the internet or available on a social network

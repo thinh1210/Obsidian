@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Endorse
 *verb*
 > /ɪnˈdɔːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ADVERTISING | **Phân nhóm:** Nghệ thuật thu hút, Người đại diện & Lan tỏa đại chúng
+
+## 🗂️ Flashcard
+Endorse::Bảo chứng, xác nhận chất lượng (bằng việc sử dụng người nổi tiếng) *(Phát âm: /ɪnˈdɔːs/)* ![[endorse.mp3]]<br><br>👪 **Word Family:** endorsement (noun)<br><br>💬 **Ví dụ:** Many athletes make more money from endorsing shoes than playing sports.<br>*(-> Nhiều vận động viên kiếm tiền từ việc bảo chứng giày nhiều hơn là chơi thể thao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To declare one's public approval or support of a product or service in an advertisement.

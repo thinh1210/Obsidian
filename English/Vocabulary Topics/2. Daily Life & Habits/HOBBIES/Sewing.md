@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Sewing
 *n.*
 > /ˈsəʊ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Sewing::Nghề may hoặc thú vui may vá, khâu quần áo thủ công *(Phát âm: /ˈsəʊ.ɪŋ/)* ![[sewing.mp3]]<br><br>👪 **Word Family:** sew (v), sewer (n)<br><br>💬 **Ví dụ:** She enjoys sewing her own custom linen dresses and tailoring old clothes.<br>*(-> Cô ấy thích tự may những chiếc váy lanh theo ý mình và sửa sang quần áo cũ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The craft or hobby of joining or mending clothes using needle and thread.

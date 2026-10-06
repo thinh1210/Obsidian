@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Native speaker
 *n.*
 > /ˌneɪtɪv ˈspiːkə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Song ngữ, Đa ngôn ngữ & Ngôn ngữ phổ quát
+
+## 🗂️ Flashcard
+Native speaker::Người bản xứ, người bản ngữ *(Phát âm: /ˌneɪtɪv ˈspiːkə(r)/)* ![[native_speaker.mp3]]<br><br>👪 **Word Family:** **Synonyms:** mother-tongue speaker<br><br>💬 **Ví dụ:** It's good to practice English with a native speaker.<br>*(-> Thật tốt khi luyện tập tiếng Anh với người bản xứ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has spoken the language in question from earliest childhood

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Evolution
 *n.*
 > /ˌiː.vəˈluː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Evolution::Sự tiến hóa *(Phát âm: /ˌiː.vəˈluː.ʃən/)* ![[evolution.mp3]]<br><br>👪 **Word Family:** evolve, evolutionary<br><br>💬 **Ví dụ:** The evolution of the smartphone has been rapid.<br>*(-> Sự tiến hóa của điện thoại thông minh đã diễn ra nhanh chóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.

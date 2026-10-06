@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Laughter
 *n.*
 > /ˈlɑːf.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Laughter::Tiếng cười giòn giã, biểu hiện sự vui sướng ngây thơ hồn nhiên của con trẻ *(Phát âm: /ˈlɑːf.tər/)* ![[laughter.mp3]]<br><br>👪 **Word Family:** laugh (v/n), laughable (adj), laughing (adj)<br><br>💬 **Ví dụ:** The kindergarten classroom was constantly filled with ringing laughter and joyful singing.<br>*(-> Lớp học mẫu giáo luôn tràn ngập tiếng cười giòn giã và tiếng hát vui tươi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sound or act of laughing, expressing happiness and amusement.

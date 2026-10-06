@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Glacier
 *noun*
 > /ˈɡlæsiə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Glacier::Sông băng *(Phát âm: /ˈɡlæsiə(r)/)* ![[glacier.mp3]]<br><br>👪 **Word Family:** Glacial (adj.)<br><br>💬 **Ví dụ:** The glacier is slowly sliding down the mountain.<br>*(-> Sông băng đang từ từ trượt xuống núi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.

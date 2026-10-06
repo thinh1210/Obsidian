@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Currency
 *noun*
 > /ˈkʌr.ən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
+
+## 🗂️ Flashcard
+Currency::Tiền tệ *(Phát âm: /ˈkʌr.ən.si/)* ![[currency.mp3]]<br><br>👪 **Word Family:** Currencies<br><br>💬 **Ví dụ:** I need to exchange currency.<br>*(-> Tôi cần đổi tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The money that is used in a particular country

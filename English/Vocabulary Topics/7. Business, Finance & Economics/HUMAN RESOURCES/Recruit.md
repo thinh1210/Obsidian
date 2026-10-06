@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Recruit
 *v.*
 > /rɪˈkruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Recruit::Tuyển dụng *(Phát âm: /rɪˈkruːt/)* ![[recruit.mp3]]<br><br>👪 **Word Family:** recruitment, recruiter<br><br>💬 **Ví dụ:** We need to recruit more sales staff.<br>*(-> Chúng tôi cần tuyển dụng thêm nhân viên bán hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To enlist someone in an organization or workforce

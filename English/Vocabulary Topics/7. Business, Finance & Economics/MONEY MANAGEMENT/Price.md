@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Price
 *Noun*
 > /praɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Price::Giá cả (số tiền mà một thứ được bán hoặc mua) *(Phát âm: /praɪs/)* ![[price.mp3]]<br><br>👪 **Word Family:** Verb: price (định giá), Adj: priceless (vô giá)<br><br>💬 **Ví dụ:** The price of gasoline has gone up again this week.<br>*(-> Giá xăng lại tăng vào tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money for which something is sold or bought.

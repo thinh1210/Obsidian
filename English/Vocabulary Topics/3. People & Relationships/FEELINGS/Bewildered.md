@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Bewildered
 *adj*
 > /bɪˈwɪldərd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Bewildered::Hoang mang, bối rối *(Phát âm: /bɪˈwɪldərd/)* ![[bewildered.mp3]]<br><br>👪 **Word Family:** bewilder (v), bewilderment (n)<br><br>💬 **Ví dụ:** She gave him a bewildered look.<br>*(-> Cô ấy nhìn anh ta bằng ánh mắt hoang mang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Perplexed and confused; very puzzled.

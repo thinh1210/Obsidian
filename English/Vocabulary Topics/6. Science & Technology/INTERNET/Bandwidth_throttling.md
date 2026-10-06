@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Bandwidth throttling
 *noun*
 > /ˈbænd.wɪdθ ˈθrɒt.lɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+Bandwidth_throttling::Giới hạn băng thông (nhà mạng cố tình làm chậm tốc độ Internet) *(Phát âm: /ˈbænd.wɪdθ ˈθrɒt.lɪŋ/)* ![[bandwidth_throttling.mp3]]<br><br>👪 **Word Family:** throttle (v), throttling (n)<br><br>💬 **Ví dụ:** My Internet was slow at night because of bandwidth throttling by my provider.<br>*(-> Internet của tôi chậm vào ban đêm do nhà cung cấp giới hạn băng thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The intentional slowing down of Internet service by an ISP to regulate network traffic.

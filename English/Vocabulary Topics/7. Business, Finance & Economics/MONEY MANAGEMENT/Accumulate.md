@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Accumulate
 *Verb*
 > /əˈkjuːmjəleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Accumulate::Tích lũy (thu thập hoặc kiếm được một số lượng/chất lượng ngày càng tăng của thứ gì đó) *(Phát âm: /əˈkjuːmjəleɪt/)* ![[accumulate.mp3]]<br><br>👪 **Word Family:** Noun: accumulation (sự tích lũy), Adj: cumulative (tích lũy, dồn lại)<br><br>💬 **Ví dụ:** Over the years, she managed to accumulate a large library of books.<br>*(-> Qua nhiều năm, cô ấy đã tích lũy được một thư viện sách lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To gather or acquire an increasing number or quantity of something.

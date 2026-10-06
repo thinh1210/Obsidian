@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Separation
 *noun*
 > /ˌsepəˈreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Separation::Sự ly thân/chia ly *(Phát âm: /ˌsepəˈreɪʃn/)* ![[separation.mp3]]<br><br>👪 **Word Family:** Separate (verb)<br><br>💬 **Ví dụ:** They decided on a trial separation.<br>*(-> Họ quyết định ly thân thử nghiệm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being separated, particularly a couple living apart.

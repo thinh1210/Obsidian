@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Atrocious
 *adj*
 > /əˈtrəʊ.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Atrocious::Tàn bạo, kinh khủng *(Phát âm: /əˈtrəʊ.ʃəs/)* ![[atrocious.mp3]]<br><br>👪 **Word Family:** Atrocity (noun), Atrociously (adv)<br><br>💬 **Ví dụ:** His spelling is atrocious.<br>*(-> Lỗi chính tả của anh ấy rất kinh khủng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Horrifyingly wicked; of a very poor quality.

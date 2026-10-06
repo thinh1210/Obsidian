@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Ambitious
 *adj.*
 > /æmˈbɪʃ.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Ambitious::Có hoài bão lớn, giàu tham vọng, khao khát vươn tới đỉnh cao *(Phát âm: /æmˈbɪʃ.əs/)* ![[ambitious.mp3]]<br><br>👪 **Word Family:** ambition (n), ambitiously (adv)<br><br>💬 **Ví dụ:** She is an ambitious student aiming to secure a scholarship at Oxford.<br>*(-> Cô ấy là một học sinh đầy tham vọng với mục tiêu giành học bổng tại Oxford.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a strong wish to be successful, powerful, or rich.

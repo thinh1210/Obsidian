@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Attention
 *n.*
 > /əˈten.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+23 - Attention::Sự chú ý *(Phát âm: /əˈten.ʃən/)* ![[attention.mp3]]<br><br>👪 **Word Family:** Attentive (adj.)<br><br>💬 **Ví dụ:** Get attention.<br>*(-> Thu hút sự chú ý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Notice taken of someone or something.

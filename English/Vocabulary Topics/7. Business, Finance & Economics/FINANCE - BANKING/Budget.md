@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Budget
 *noun.*
 > /ˈbʌdʒɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Tín dụng, Cho vay thế chấp & Lãi suất
+
+## 🗂️ Flashcard
+Budget::Ngân sách *(Phát âm: /ˈbʌdʒɪt/)* ![[budget.mp3]]<br><br>👪 **Word Family:** budgetary (adj), budgeting (noun)<br><br>💬 **Ví dụ:** We are on a tight budget, so we cannot afford to go on holiday this year.<br>*(-> Chúng tôi có ngân sách eo hẹp, vì vậy chúng tôi không thể đủ khả năng đi nghỉ năm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A plan to show how much money a person or organization will earn and spend.

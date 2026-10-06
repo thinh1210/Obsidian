@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Patient
 *n.*
 > /ˈpeɪ.ʃənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Patient::Bệnh nhân, người đang tiếp nhận chẩn đoán và điều trị y tế *(Phát âm: /ˈpeɪ.ʃənt/)* ![[patient.mp3]]<br><br>👪 **Word Family:** patiently (adv), patience (n), impatient (adj)<br><br>💬 **Ví dụ:** The nurse checked the patient's temperature every four hours.<br>*(-> Y tá đo nhiệt độ cho bệnh nhân bốn tiếng một lần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is receiving medical care or treatment from a doctor or hospital.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Screen
 *noun.*
 > /skriːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Screen::Màn hình *(Phát âm: /skriːn/)* ![[screen.mp3]]<br><br>👪 **Word Family:** widescreen (adj)<br><br>💬 **Ví dụ:** The robot has a small screen on its chest.<br>*(-> Robot có một màn hình nhỏ trên ngực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flat surface in a cinema, on a television, or as part of a computer, on which pictures or words are shown

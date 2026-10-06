@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # History
 *n.*
 > /ˈhɪs.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+History::Môn học hoặc sở thích nghiên cứu, tìm hiểu về các sự kiện và nhân vật lịch sử trong quá khứ *(Phát âm: /ˈhɪs.tər.i/)* ![[history.mp3]]<br><br>👪 **Word Family:** historian (n), historical (adj), historic (adj)<br><br>💬 **Ví dụ:** As a devoted history buff, he spends weekends visiting medieval fortresses and reading biographies.<br>*(-> Là một người cực kỳ mê lịch sử, anh dành các cuối tuần đến thăm các pháo đài thời trung cổ và đọc tiểu sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study or hobby of exploring past events, civilizations, and historical narratives.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Garden
 *n.*
 > /ˈɡɑː.dən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Garden::Khu vườn *(Phát âm: /ˈɡɑː.dən/)* ![[garden.mp3]]<br><br>👪 **Word Family:** gardener (n), gardening (n)<br><br>💬 **Ví dụ:** My grandmother spends all day tending to her rose garden.<br>*(-> Bà tôi dành cả ngày để chăm sóc vườn hoa hồng của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of land next to a house, used for growing flowers, vegetables, or herbs.

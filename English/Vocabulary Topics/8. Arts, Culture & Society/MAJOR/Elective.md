@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Elective
 *n., adj.*
 > /ɪˈlek.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Elective::Môn tự chọn *(Phát âm: /ɪˈlek.tɪv/)* ![[elective.mp3]]<br><br>👪 **Word Family:** elective (n/adj), elect (v), election (n)<br><br>💬 **Ví dụ:** I chose photography as my elective this term.<br>*(-> Tôi chọn nhiếp ảnh làm môn tự chọn học kỳ này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A course that students can choose to study but are not required to take.

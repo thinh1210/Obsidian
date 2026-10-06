@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Annulment
 *noun*
 > /əˈnʌlmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Annulment::Sự hủy hôn *(Phát âm: /əˈnʌlmənt/)* ![[annulment.mp3]]<br><br>👪 **Word Family:** Annul (verb)<br><br>💬 **Ví dụ:** She is seeking an annulment.<br>*(-> Cô ấy đang tìm kiếm sự hủy hôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legal procedure for declaring a marriage null and void.

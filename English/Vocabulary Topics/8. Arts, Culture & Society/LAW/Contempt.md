@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Contempt
 *noun*
 > /kənˈtempt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Contempt::Sự coi thường, khinh thường (tòa án) *(Phát âm: /kənˈtempt/)* ![[contempt.mp3]]<br><br>👪 **Word Family:** Contempt (n), Contemptible (adj), Contemptuous (adj)<br><br>💬 **Ví dụ:** The judge held the lawyer in contempt of court for refusing to stop arguing.<br>*(-> Thẩm phán khép luật sư vào tội coi thường tòa án vì từ chối dừng tranh luận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The offense of being disobedient to or disrespectful of a court of law and its officers.

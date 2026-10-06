@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Vestige
 *noun*
 > /ˈves.tɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Vestige::Dấu vết, vết tích còn lại *(Phát âm: /ˈves.tɪdʒ/)* ![[vestige.mp3]]<br><br>👪 **Word Family:** vestigial (adj)<br><br>💬 **Ví dụ:** The ruins are the last vestige of a once-great empire.<br>*(-> Những đống đổ nát là vết tích cuối cùng của một đế chế từng vĩ đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A trace of something that is disappearing or no longer exists.

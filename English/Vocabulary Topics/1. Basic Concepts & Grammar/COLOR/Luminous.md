@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Luminous
 *adj*
 > /ˈluː.mə.nəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Luminous::Phát sáng, dạ quang *(Phát âm: /ˈluː.mə.nəs/)* ![[luminous.mp3]]<br><br>👪 **Word Family:** luminosity (n)<br><br>💬 **Ví dụ:** He wore a watch with a luminous dial.<br>*(-> Anh đeo một chiếc đồng hồ có mặt số dạ quang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing or reflecting bright light, especially in the dark.

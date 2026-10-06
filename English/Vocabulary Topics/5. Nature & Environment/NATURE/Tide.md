@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Tide
 *n.*
 > /taɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Tide::Thủy triều, hiện tượng mực nước biển dâng lên hạ xuống theo chu kỳ hấp dẫn của Mặt Trăng *(Phát âm: /taɪd/)* ![[tide.mp3]]<br><br>👪 **Word Family:** tidal (adj), tidemark (n)<br><br>💬 **Ví dụ:** At low tide, we were able to walk all the way across to the small offshore lighthouse island.<br>*(-> Khi thủy triều rút xuống, chúng tôi có thể đi bộ sang tận hòn đảo hải đăng nhỏ ngoài khơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The alternate rising and falling of the sea, usually twice in each lunar day.

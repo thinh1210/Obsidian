@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Engagement
 *noun*
 > /ɪnˈɡeɪdʒmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Engagement::Sự đính hôn *(Phát âm: /ɪnˈɡeɪdʒmənt/)* ![[engagement.mp3]]<br><br>👪 **Word Family:** Engage (verb), Engaged (adjective)<br><br>💬 **Ví dụ:** They announced their engagement.<br>*(-> Họ thông báo về việc đính hôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An agreement to marry someone.

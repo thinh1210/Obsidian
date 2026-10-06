@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Cookie
 *noun*
 > /ˈkʊk.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+Cookie::Cookie (tệp dữ liệu lưu trên trình duyệt) *(Phát âm: /ˈkʊk.i/)* ![[cookie.mp3]]<br><br>👪 **Word Family:** cookie (n), tracking cookie (n)<br><br>💬 **Ví dụ:** The website asked me to accept cookies before I could browse it.<br>*(-> Trang web yêu cầu tôi chấp nhận cookie trước khi tôi có thể duyệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small piece of data stored on a user's computer by a web browser that records browsing activity or preferences.

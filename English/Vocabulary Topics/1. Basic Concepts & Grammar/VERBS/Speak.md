@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Speak
 *Verb*
 > /spiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Speak::Nói *(Phát âm: /spiːk/)* ![[speak.mp3]]<br><br>👪 **Word Family:** Speaker (n), Spoken (adj)<br><br>💬 **Ví dụ:** I speak English.<br>*(-> Tôi nói tiếng Anh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say words in order to express thoughts.

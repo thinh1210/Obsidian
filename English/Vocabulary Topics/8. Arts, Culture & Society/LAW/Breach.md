@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Breach
 *noun/verb*
 > /briːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Work | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Breach::Sự vi phạm, phá vỡ (hợp đồng, thỏa thuận) *(Phát âm: /briːtʃ/)* ![[breach.mp3]]<br><br>👪 **Word Family:** Breach (n/v)<br><br>💬 **Ví dụ:** The company was sued for a major breach of contract.<br>*(-> Công ty đã bị kiện vì vi phạm hợp đồng nghiêm trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of breaking or failing to observe a law, agreement, or code of conduct.

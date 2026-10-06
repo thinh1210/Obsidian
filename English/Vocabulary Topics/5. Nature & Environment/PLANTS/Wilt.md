@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Wilt
 *v.*
 > /wɪlt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Wilt::Héo rũ, rũ xuống vì thiếu nước, nắng gắt hoặc nhiễm bệnh (cây cối, hoa lá) *(Phát âm: /wɪlt/)* ![[wilt.mp3]]<br><br>👪 **Word Family:** wilted (adj), wilting (n)<br><br>💬 **Ví dụ:** Without daily watering, potted ferns quickly wilt under the scorching midday sun.<br>*(-> Nếu không được tưới nước hằng ngày, những chậu dương xỉ sẽ nhanh chóng héo rũ dưới cái nắng giữa trưa chói chang.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become limp and droop through heat, loss of water, or disease.

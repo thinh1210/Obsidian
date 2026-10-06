@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Character
 *n.*
 > /ˈkærəktə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Character::Nhân vật *(Phát âm: /ˈkærəktə(r)/)* ![[character.mp3]]<br><br>👪 **Word Family:** characteristic, characterize<br><br>💬 **Ví dụ:** She plays the main character in the new show.<br>*(-> Cô ấy đóng vai nhân vật chính trong chương trình mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person in a novel, play, or movie

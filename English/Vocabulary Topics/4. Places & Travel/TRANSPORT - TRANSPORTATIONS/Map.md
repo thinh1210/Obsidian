@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Map
 *noun*
 > /mæp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Map::Bản đồ *(Phát âm: /mæp/)* ![[map.mp3]]<br><br>👪 **Word Family:** Noun: map (bản đồ), Verb: map (vẽ bản đồ, thiết lập bản đồ)<br><br>💬 **Ví dụ:** We got lost because we didn't have a map.<br>*(-> Chúng tôi bị lạc vì không có bản đồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A visual representation of an area, showing physical features, cities, and roads.

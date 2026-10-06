@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Cathedral
 *n.*
 > /kəˈθiːdrəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Cathedral::Nhà thờ lớn *(Phát âm: /kəˈθiːdrəl/)* ![[cathedral.mp3]]<br><br>👪 **Word Family:** cathedral-like<br><br>💬 **Ví dụ:** Notre-Dame is a world-famous cathedral in Paris.<br>*(-> Notre-Dame là một nhà thờ lớn nổi tiếng thế giới ở Paris.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The main church of a district, containing the bishop's official throne

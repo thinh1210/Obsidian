@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Hurricane
 *n.*
 > /ˈhʌrɪkən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Hurricane::Cơn bão cuồng phong biển, bão cấp độ thảm họa sức gió tàn phá ghê gớm *(Phát âm: /ˈhʌrɪkən/)* ![[hurricane.mp3]]<br><br>👪 **Word Family:** hurricane-force (adj)<br><br>💬 **Ví dụ:** Residents boarded up their windows before the hurricane hit the coastline.<br>*(-> Cư dân đã chằng chống đóng ván gỗ kín cửa sổ trước khi cơn bão đổ bộ vào bờ biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A severe tropical cyclone usually involving heavy rains and winds exceeding 74 mph.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Revolution
 *n.*
 > /ˌrevəˈluːʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Revolution::Cuộc cách mạng *(Phát âm: /ˌrevəˈluːʃn/)* ![[revolution.mp3]]<br><br>👪 **Word Family:** revolutionary, revolutionize<br><br>💬 **Ví dụ:** The country experienced a peaceful revolution.<br>*(-> Đất nước đã trải qua một cuộc cách mạng hòa bình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A forcible overthrow of a government or social order, in favor of a new system

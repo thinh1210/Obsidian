@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Grade
 *n., v.*
 > /ɡreɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Grade::Điểm số, lớp học (theo năm) *(Phát âm: /ɡreɪd/)* ![[grade.mp3]]<br><br>👪 **Word Family:** grade (n/v), grader (n), grading (n)<br><br>💬 **Ví dụ:** She got top grades in all her subjects.<br>*(-> Cô ấy đạt điểm cao nhất trong tất cả các môn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mark or score given for work; a year of school.

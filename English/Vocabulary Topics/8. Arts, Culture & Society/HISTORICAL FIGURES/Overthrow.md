@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Overthrow
 *v.*
 > /ˌəʊvəˈθrəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Overthrow::Lật đổ *(Phát âm: /ˌəʊvəˈθrəʊ/)* ![[overthrow.mp3]]<br><br>👪 **Word Family:** overthrow (n)<br><br>💬 **Ví dụ:** The people plotted to overthrow the dictator.<br>*(-> Người dân đã âm mưu lật đổ tên độc tài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To remove from power by force

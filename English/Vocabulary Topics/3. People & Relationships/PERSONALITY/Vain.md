@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Vain
 *adj.*
 > /veɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Vain::Tự phụ, hợm hĩnh, quá coi trọng vẻ ngoài hay thành tích của mình *(Phát âm: /veɪn/)* ![[vain.mp3]]<br><br>👪 **Word Family:** vanity (n), vainly (adv)<br><br>💬 **Ví dụ:** He is so vain that he cannot pass a mirror without admiring his reflection.<br>*(-> Anh ta tự phụ đến mức không thể đi qua một chiếc gương mà không ngắm nghía bóng mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Too interested in your own appearance or achievements; having an excessively high opinion of oneself.

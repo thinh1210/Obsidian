@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Parcel
 *n.*
 > /ˈpɑː.səl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Parcel::Bưu kiện, gói hàng đóng hộp được gửi qua bưu điện hay chuyển phát *(Phát âm: /ˈpɑː.səl/)* ![[parcel.mp3]]<br><br>👪 **Word Family:** parcel (v)<br><br>💬 **Ví dụ:** The courier left the parcel on our front porch while we were away at work.<br>*(-> Nhân viên giao hàng đã để bưu kiện ở hiên trước trong khi chúng tôi đi làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or collection of objects wrapped in paper, sent by post.

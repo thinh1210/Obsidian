@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Swim
 *v*
 > /swɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Swim::Bơi lội *(Phát âm: /swɪm/)* ![[swim.mp3]]<br><br>👪 **Word Family:** swimming (n), swimmer (n)<br><br>💬 **Ví dụ:** I usually swim in the morning.<br>*(-> Tôi thường bơi vào buổi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move through water by moving your arms and legs.

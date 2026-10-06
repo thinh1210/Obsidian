@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # filibuster
 *noun*
 > /ˈfɪlɪbʌstər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+filibuster::Thủ thuật câu giờ tại nghị viện *(Phát âm: /ˈfɪlɪbʌstər/)* ![[filibuster.mp3]]<br><br>👪 **Word Family:** filibustering (n)<br><br>💬 **Ví dụ:** The senator began a filibuster to delay the vote on the tax bill.<br>*(-> Thượng nghị sĩ bắt đầu một bài phát biểu câu giờ để trì hoãn cuộc bỏ phiếu về dự luật thuế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action such as a prolonged speech that obstructs progress in a legislative assembly while not technically violating the required procedures.

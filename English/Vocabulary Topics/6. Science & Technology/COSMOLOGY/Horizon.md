@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Horizon
 *Noun*
 > /həˈraɪ.zən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Lực hấp dẫn, Quỹ đạo & Bức xạ vũ trụ
+
+## 🗂️ Flashcard
+Horizon::Đường chân trời *(Phát âm: /həˈraɪ.zən/)* ![[horizon.mp3]]<br><br>👪 **Word Family:** horizontal (adj), horizontally (adv)<br><br>💬 **Ví dụ:** The sun sank below the horizon.<br>*(-> Mặt trời lặn xuống dưới đường chân trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The line at which the earth's surface and the sky appear to meet.

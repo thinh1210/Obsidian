@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Sleep
 *v., n.*
 > /sliːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Sleep::Ngủ, giấc ngủ *(Phát âm: /sliːp/)* ![[sleep.mp3]]<br><br>👪 **Word Family:** sleepy (adj.)<br><br>💬 **Ví dụ:** I need to sleep.<br>*(-> Tôi cần ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A condition of body and mind to rest.

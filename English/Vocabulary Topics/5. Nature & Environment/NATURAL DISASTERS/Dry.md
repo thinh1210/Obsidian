@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Dry
 *adjective*
 > /draɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Hỏa hoạn, Hạn hán & Thảm họa khí hậu
+
+## 🗂️ Flashcard
+Dry::Khô hạn, khô ráo *(Phát âm: /draɪ/)* ![[dry.mp3]]<br><br>👪 **Word Family:** dryness (n), dry (v)<br><br>💬 **Ví dụ:** The soil is very dry because it hasn't rained for a month.<br>*(-> Đất rất khô vì cả tháng nay trời không mưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Used to describe weather or land where there is very little or no rain.

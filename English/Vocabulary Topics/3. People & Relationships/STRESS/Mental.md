@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Mental
 *adj.*
 > /ˈmentl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Mental::Thuộc về tâm lý, tinh thần *(Phát âm: /ˈmentl/)* ![[mental.mp3]]<br><br>👪 **Word Family:** mentally (adv), mentality (n)<br><br>💬 **Ví dụ:** Mental health is very important.<br>*(-> Sức khỏe tinh thần rất quan trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the mind

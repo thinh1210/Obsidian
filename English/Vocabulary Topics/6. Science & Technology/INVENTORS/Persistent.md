@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # persistent
 *adj.*
 > /pəˈsɪs.tənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Persistent::Kiên trì, bền bỉ *(Phát âm: /pəˈsɪs.tənt/)* ![[persistent.mp3]]<br><br>👪 **Word Family:** persist (v), persistence (n), persistently (adv)<br><br>💬 **Ví dụ:** He was persistent and finally got the job.<br>*(-> Anh ấy đã kiên trì và cuối cùng đã nhận được công việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Continuing to do something even though it is difficult or other people oppose it

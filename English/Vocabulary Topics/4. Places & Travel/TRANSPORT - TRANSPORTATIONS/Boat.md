@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Boat
 *noun*
 > /boʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Boat::Thuyền, tàu nhỏ *(Phát âm: /boʊt/)* ![[boat.mp3]]<br><br>👪 **Word Family:** Noun: boat (thuyền), boating (hoạt động đi thuyền), Verb: boat (đi thuyền)<br><br>💬 **Ví dụ:** We rented a small boat to go fishing on the lake.<br>*(-> Chúng tôi đã thuê một chiếc thuyền nhỏ để đi câu cá trên hồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small vessel for traveling over water, propelled by oars, sails, or an engine.

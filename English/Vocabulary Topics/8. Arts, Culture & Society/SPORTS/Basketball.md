@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Basketball
 *n.*
 > /ˈbɑː.skɪt.bɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Basketball::Môn thể thao bóng rổ thi đấu ném bóng vào rổ treo trên cao *(Phát âm: /ˈbɑː.skɪt.bɔːl/)* ![[basketball.mp3]]<br><br>👪 **Word Family:** basketballer (n)<br><br>💬 **Ví dụ:** After school, high school students gathered at the outdoor courts to play pickup basketball.<br>*(-> Sau giờ học, học sinh cấp ba tụ tập tại các sân ngoài trời để chơi bóng rổ giao lưu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game played between two teams of five players in which points are scored by tossing a ball through a netted hoop.

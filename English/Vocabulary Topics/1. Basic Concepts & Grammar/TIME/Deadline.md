@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Deadline
 *n.*
 > /ˈdedlaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Deadline::Hạn chót *(Phát âm: /ˈdedlaɪn/)* ![[deadline.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The deadline is tomorrow.<br>*(-> Hạn chót là ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latest time or date by which something should be completed

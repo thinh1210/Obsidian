@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Product
 *Noun*
 > /ˈprɒd.ʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Product::Sản phẩm *(Phát âm: /ˈprɒd.ʌkt/)* ![[product.mp3]]<br><br>👪 **Word Family:** Produce (v), production (n), productive (adj)<br><br>💬 **Ví dụ:** I always check the ingredients on the product label.<br>*(-> Tôi luôn kiểm tra thành phần trên nhãn sản phẩm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something that is made to be sold, usually something that is produced by an industrial process.

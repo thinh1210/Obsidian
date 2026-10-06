@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Benevolent
 *adj.*
 > /bəˈnev.əl.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Benevolent::Nhân từ, nhân hậu, bác ái, hay làm việc thiện *(Phát âm: /bəˈnev.əl.ənt/)* ![[benevolent.mp3]]<br><br>👪 **Word Family:** benevolence (n), benevolently (adv)<br><br>💬 **Ví dụ:** The village elder was a benevolent figure who assisted every struggling family.<br>*(-> Vị trưởng lão trong làng là một nhân vật hiền từ, người đã giúp đỡ mọi gia đình khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Kind, helpful, and generous, especially expressing goodwill or charity.

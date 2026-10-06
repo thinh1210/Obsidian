@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Damp
 *adj.*
 > /dæmp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Damp::Ẩm ướt nhẹ nhưng khó chịu, ẩm mốc, nhớp dính *(Phát âm: /dæmp/)* ![[damp.mp3]]<br><br>👪 **Word Family:** dampness (n), dampen (v)<br><br>💬 **Ví dụ:** The clothes dried slowly in the cold, damp weather.<br>*(-> Quần áo phơi rất lâu khô trong thời tiết giá rét ẩm ướt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Slightly wet, often in a way that is unpleasant or cold.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Phone
 *Noun*
 > /fəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Phone::Điện thoại *(Phát âm: /fəʊn/)* ![[phone.mp3]]<br><br>👪 **Word Family:** Phonic (adj)<br><br>💬 **Ví dụ:** Please answer the phone.<br>*(-> Vui lòng trả lời điện thoại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that uses radiation or electricity to send and receive sound or information.

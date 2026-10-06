@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Savor
 *v.*
 > /ˈseɪ.vər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Savor::Thưởng thức *(Phát âm: /ˈseɪ.vər/)* ![[savor.mp3]]<br><br>👪 **Word Family:** savory<br><br>💬 **Ví dụ:** I want to savor this moment.<br>*(-> Tôi muốn thưởng thức khoảnh khắc này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Taste (good food or drink) and enjoy it completely.

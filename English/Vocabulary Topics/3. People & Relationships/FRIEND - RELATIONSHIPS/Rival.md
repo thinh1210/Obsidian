@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Rival
 *n.*
 > /ˈraɪ.vəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Rival::Đối thủ cạnh tranh, người kình địch trực tiếp (đôi khi vừa là bạn vừa là đối thủ) *(Phát âm: /ˈraɪ.vəl/)* ![[rival.mp3]]<br><br>👪 **Word Family:** rivalry (n), rival (v)<br><br>💬 **Ví dụ:** Although fierce rivals on the tennis court, the two athletes are warm friends off the court.<br>*(-> Dù là đối thủ kịch liệt trên sân quần vợt, hai vận động viên lại là bạn bè thân tình ngoài sân đấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person competing with another for the same objective or for superiority in the same field.

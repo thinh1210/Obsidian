@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Brood
 *noun*
 > /bruːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Brood::Lứa con (chim), tổ chim con *(Phát âm: /bruːd/)* ![[brood.mp3]]<br><br>👪 **Word Family:** brood (n/v), broody (adj), brooder (n)<br><br>💬 **Ví dụ:** The duck led her brood of ducklings to the pond.<br>*(-> Con vịt mẹ dẫn lứa vịt con của mình ra ao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A family of young animals, especially birds, produced at one hatching.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Symbiosis
 *noun*
 > /ˌsɪm.baɪˈəʊ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Symbiosis::Sự cộng sinh *(Phát âm: /ˌsɪm.baɪˈəʊ.sɪs/)* ![[symbiosis.mp3]]<br><br>👪 **Word Family:** symbiosis (n), symbiotic (adj), symbiote (n)<br><br>💬 **Ví dụ:** The relationship between clownfish and sea anemones is a famous example of symbiosis.<br>*(-> Mối quan hệ giữa cá hề và hải quỳ là một ví dụ nổi tiếng về sự cộng sinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Interaction between two different organisms living in close physical association, typically to the advantage of both.

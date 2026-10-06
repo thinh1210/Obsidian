@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Night
 *noun*
 > /naɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Night::Ban đêm *(Phát âm: /naɪt/)* ![[night.mp3]]<br><br>👪 **Word Family:** nightly (adj)<br><br>💬 **Ví dụ:** It is dark at night.<br>*(-> Trời tối vào ban đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of darkness in each twenty-four hours.

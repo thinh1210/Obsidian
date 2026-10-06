@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Relationship
 *noun*
 > /rɪˈleɪ.ʃən.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Relationship::Mối quan hệ *(Phát âm: /rɪˈleɪ.ʃən.ʃɪp/)* ![[relationship.mp3]]<br><br>👪 **Word Family:** relation<br><br>💬 **Ví dụ:** They have a strong relationship.<br>*(-> Họ có một mối quan hệ bền chặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The way in which two or more concepts, objects, or people are connected, or the state of being connected.

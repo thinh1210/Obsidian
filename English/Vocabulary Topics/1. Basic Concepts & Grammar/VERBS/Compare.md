@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Compare
 *Verb*
 > /kəmˈpeər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Compare::So sánh *(Phát âm: /kəmˈpeər/)* ![[compare.mp3]]<br><br>👪 **Word Family:** Comparison (n), Comparable (adj)<br><br>💬 **Ví dụ:** Don't compare us.<br>*(-> Đừng so sánh chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To examine or look for the difference between two or more things.

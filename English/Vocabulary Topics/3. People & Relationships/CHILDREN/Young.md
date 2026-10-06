@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Young
 *adj*
 > /jʌŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Young::Trẻ tuổi *(Phát âm: /jʌŋ/)* ![[young.mp3]]<br><br>👪 **Word Family:** Youth (n)<br><br>💬 **Ví dụ:** She is very young.<br>*(-> Cô ấy còn rất trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having lived or existed for only a short time.

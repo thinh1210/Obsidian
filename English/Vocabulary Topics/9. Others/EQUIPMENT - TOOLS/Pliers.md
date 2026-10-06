@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # pliers
 *noun*
 > /ˈplaɪ.əz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Pliers::cái kìm *(Phát âm: /ˈplaɪ.əz/)* ![[pliers.mp3]]<br><br>👪 **Word Family:** Noun: pliers (cái kìm), Verb: ply (uốn, gấp, chuyên cần làm)<br><br>💬 **Ví dụ:** Use a pair of pliers to bend that wire.<br>*(-> Hãy dùng một cái kìm để uốn cọng dây đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** pincers with parallel flat notched surfaces, used for gripping small objects or bending wire.

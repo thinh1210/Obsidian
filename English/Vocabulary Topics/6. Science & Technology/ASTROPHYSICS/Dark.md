@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Dark
 *adjective*
 > /dɑːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Dark::Tối, tăm tối *(Phát âm: /dɑːk/)* ![[dark.mp3]]<br><br>👪 **Word Family:** darkness (n), darken (v), darkly (adv)<br><br>💬 **Ví dụ:** It gets dark very early during the winter.<br>*(-> Trời tối rất nhanh vào mùa đông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** With little or no light.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Umbrella
 *noun*
 > /ʌmˈbrelə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Umbrella::Cái ô, dù *(Phát âm: /ʌmˈbrelə/)* ![[umbrella.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Take an umbrella, it might rain.<br>*(-> Mang theo ô đi, trời có thể mưa đấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that is used for protection against rain or sun.

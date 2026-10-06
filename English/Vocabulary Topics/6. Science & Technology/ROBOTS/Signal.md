@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Signal
 *noun.*
 > /ˈsɪɡ.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Signal::Tín hiệu *(Phát âm: /ˈsɪɡ.nəl/)* ![[signal.mp3]]<br><br>👪 **Word Family:** signal (verb), sign (noun)<br><br>💬 **Ví dụ:** The robot lost the Wi-Fi signal and stopped moving.<br>*(-> Robot bị mất tín hiệu Wi-Fi và ngừng di chuyển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electrical impulse or radio wave transmitted or received

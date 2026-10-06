@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Confident
 *adj*
 > /ˈkɑːnfɪdənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Confident::Tự tin *(Phát âm: /ˈkɑːnfɪdənt/)* ![[confident.mp3]]<br><br>👪 **Word Family:** confidence (n), confidently (adv)<br><br>💬 **Ví dụ:** She is confident in her abilities.<br>*(-> Cô ấy tự tin vào khả năng của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing confidence in oneself.

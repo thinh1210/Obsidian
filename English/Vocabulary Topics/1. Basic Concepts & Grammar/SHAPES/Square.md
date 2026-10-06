@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Square
 *n.*
 > /skweər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Square::Hình vuông *(Phát âm: /skweər/)* ![[square.mp3]]<br><br>👪 **Word Family:** Squarely (adv)<br><br>💬 **Ví dụ:** The box is a square.<br>*(-> Cái hộp là hình vuông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape with four equal sides and four right angles.

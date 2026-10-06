@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Anachronism
 *noun*
 > /əˈnæk.rə.nɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Anachronism::Sự lỗi thời, sự sai niên đại (nhầm lẫn lịch sử) *(Phát âm: /əˈnæk.rə.nɪ.zəm/)* ![[anachronism.mp3]]<br><br>👪 **Word Family:** anachronistic (adj), anachronistically (adv)<br><br>💬 **Ví dụ:** Having a modern smartphone in a movie about the 1920s is a funny anachronism.<br>*(-> Việc có một chiếc điện thoại thông minh hiện đại trong một bộ phim về những năm 1920 là một sự sai niên đại hài hước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.

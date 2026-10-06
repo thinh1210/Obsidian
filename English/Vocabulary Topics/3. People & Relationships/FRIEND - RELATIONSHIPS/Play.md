@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Play
 *verb*
 > /pleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Play::Chơi *(Phát âm: /pleɪ/)* ![[play.mp3]]<br><br>👪 **Word Family:** player<br><br>💬 **Ví dụ:** We play football.<br>*(-> Chúng tôi chơi bóng đá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Engage in activity for enjoyment and recreation rather than a serious or practical purpose.

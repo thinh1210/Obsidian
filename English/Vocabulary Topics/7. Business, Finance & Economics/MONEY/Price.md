@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Price
 *noun*
 > /praɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Price::Giá cả *(Phát âm: /praɪs/)* ![[price.mp3]]<br><br>👪 **Word Family:** priceless (adj), pricey (adj)<br><br>💬 **Ví dụ:** The price of gold has gone up recently.<br>*(-> Giá vàng dạo gần đây đã tăng lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money expected, required, or given in payment for something

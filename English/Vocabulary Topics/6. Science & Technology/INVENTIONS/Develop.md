@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Develop
 *Verb*
 > /dɪˈvel.əp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Develop::Phát triển, chế tạo *(Phát âm: /dɪˈvel.əp/)* ![[develop.mp3]]<br><br>👪 **Word Family:** Development (n), developer (n), developing (adj)<br><br>💬 **Ví dụ:** She wants to develop her photography skills.<br>*(-> Cô ấy muốn phát triển các kỹ năng nhiếp ảnh của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To invent something or bring something into existence.

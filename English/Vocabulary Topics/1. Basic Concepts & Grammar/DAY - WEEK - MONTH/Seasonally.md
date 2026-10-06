@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Seasonally
 *adv.*
 > /ˈsiː.zən.əl.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Seasonally::Theo từng mùa trong năm, theo thời vụ thời tiết hoặc du lịch *(Phát âm: /ˈsiː.zən.əl.i/)* ![[seasonally.mp3]]<br><br>👪 **Word Family:** season (n/v), seasonal (adj)<br><br>💬 **Ví dụ:** The restaurant menu changes seasonally to feature the freshest local produce.<br>*(-> Thực đơn nhà hàng thay đổi theo mùa để giới thiệu những nông sản địa phương tươi ngon nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In a way that relates to, or depends on, a particular season of the year.

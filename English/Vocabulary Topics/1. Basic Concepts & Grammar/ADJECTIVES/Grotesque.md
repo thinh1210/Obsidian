@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Grotesque
 *adj.*
 > /ɡrəʊˈtesk/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Grotesque::Kỳ cục, lố bịch *(Phát âm: /ɡrəʊˈtesk/)* ![[grotesque.mp3]]<br><br>👪 **Word Family:** grotesqueness<br><br>💬 **Ví dụ:** Grotesque face.<br>*(-> Khuôn mặt lố bịch.)*
+<!--SR:!2026-10-05,3,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Comically or repulsively ugly or distorted

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Mitosis
 *noun*
 > /maɪˈtəʊ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Tế bào, Vi sinh vật & Miễn dịch
+
+## 🗂️ Flashcard
+Mitosis::Quá trình nguyên phân *(Phát âm: /maɪˈtəʊ.sɪs/)* ![[mitosis.mp3]]<br><br>👪 **Word Family:** mitotic<br><br>💬 **Ví dụ:** Mitosis is responsible for growth and tissue repair.<br>*(-> Nguyên phân chịu trách nhiệm cho sự phát triển và sửa chữa mô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus.

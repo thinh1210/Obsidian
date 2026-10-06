@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Disembark
 *Verb*
 > /ˌdɪsɪmˈbɑrk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Disembark::Xuống tàu/máy bay *(Phát âm: /ˌdɪsɪmˈbɑrk/)* ![[disembark.mp3]]<br><br>👪 **Word Family:** disembarkation (n)<br><br>💬 **Ví dụ:** Passengers will disembark shortly.<br>*(-> Hành khách sẽ xuống tàu sớm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To leave a ship, aircraft, or other vehicle.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Velocity
 *noun*
 > /vəˈlɒs.ɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Velocity::Vận tốc – tốc độ của vật theo một hướng xác định; đại lượng véc-tơ có cả độ lớn và hướng *(Phát âm: /vəˈlɒs.ɪ.ti/)* ![[velocity.mp3]]<br><br>👪 **Word Family:** velocimeter (n), velocity vector (n phrase)<br><br>💬 **Ví dụ:** The velocity of the pitch was 150 km/h towards the batter.<br>*(-> Vận tốc của cú ném là 150 km/h về phía người đánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The speed of something in a given direction; a vector quantity with both magnitude and direction.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Malicious
 *adjective*
 > /məˈlɪʃ.əs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Malicious::Độc hại, có ác ý *(Phát âm: /məˈlɪʃ.əs/)* ![[malicious.mp3]]<br><br>👪 **Word Family:** Malice (n), Maliciously (adv)<br><br>💬 **Ví dụ:** Don't click on that link; it looks malicious.<br>*(-> Đừng nhấn vào liên kết đó; trông nó có vẻ độc hại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intended to harm or upset other people or computer systems.

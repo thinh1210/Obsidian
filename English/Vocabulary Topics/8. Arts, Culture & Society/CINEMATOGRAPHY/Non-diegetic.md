@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Non-diegetic
 *adj.*
 > /nɒnˌdaɪəˈdʒetɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Non-diegetic::Ngoài thế giới trong phim, ngoại tự sự *(Phát âm: /nɒnˌdaɪəˈdʒetɪk/)* ![[non_diegetic.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Orchestral soundtracks are usually non-diegetic, added later to heighten emotions.<br>*(-> Nhạc phim dàn nhạc thường là âm thanh ngoài phim, được thêm vào sau để tăng cường cảm xúc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sound whose source is neither visible on the screen nor has been implied to be present in the action (such as background music or voiceover)

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Rarely
 *adv.*
 > /ˈreəli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Rarely::Hiếm khi *(Phát âm: /ˈreəli/)* ![[rarely.mp3]]<br><br>👪 **Word Family:** rare (adj.)<br><br>💬 **Ví dụ:** I rarely eat fast food.<br>*(-> Tôi hiếm khi ăn đồ ăn nhanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not often; seldom

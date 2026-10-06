@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Wardrobe
 *n.*
 > /ˈwɔːrdroʊb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Wardrobe::Tủ quần áo, bộ sưu tập quần áo *(Phát âm: /ˈwɔːrdroʊb/)* ![[wardrobe.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I need to update my summer wardrobe.<br>*(-> Tôi cần làm mới tủ đồ mùa hè của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person's entire collection of clothes.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Protect
 *v.*
 > /prəˈtekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Protect::Bảo vệ, che chở, gìn giữ cho an toàn khỏi nguy hiểm hay tổn hại *(Phát âm: /prəˈtekt/)* ![[protect.mp3]]<br><br>👪 **Word Family:** protection (n), protector (n), protective (adj), protectively (adv)<br><br>💬 **Ví dụ:** Always wear sunscreen with SPF fifty to protect your skin from harmful ultraviolet rays.<br>*(-> Hãy luôn bôi kem chống nắng chỉ số SPF năm mươi để bảo vệ làn da của bạn khỏi tia cực tím có hại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep someone or something safe from injury, damage, or loss; to shield.

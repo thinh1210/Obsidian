@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Mild
 *adj.*
 > /maɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Mild::Ôn hòa, ấm áp dễ chịu *(Phát âm: /maɪld/)* ![[mild.mp3]]<br><br>👪 **Word Family:** Mildness (noun), mildly (adv)<br><br>💬 **Ví dụ:** We enjoyed a mild autumn this year.<br>*(-> Năm nay chúng tôi đã tận hưởng một mùa thu ôn hòa ấm áp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of weather) not very cold or not very hot

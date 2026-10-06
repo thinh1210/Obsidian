@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Poetry
 *noun*
 > /ˈpəʊ.ɪ.tri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Poetry::Thơ ca *(Phát âm: /ˈpəʊ.ɪ.tri/)* ![[poetry.mp3]]<br><br>👪 **Word Family:** poem (n), poet (n), poetic (adj)<br><br>💬 **Ví dụ:** Writing poetry helps her express her complex emotions.<br>*(-> Viết thơ ca giúp cô ấy bày tỏ những cảm xúc phức tạp của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Literary work in which special intensity is given to the expression of feelings.

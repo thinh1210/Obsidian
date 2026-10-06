@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Outfit
 *n.*
 > /ˈaʊtfɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Outfit::Bộ trang phục *(Phát âm: /ˈaʊtfɪt/)* ![[outfit.mp3]]<br><br>👪 **Word Family:** Outfitter (n)<br><br>💬 **Ví dụ:** She bought a new outfit for the party.<br>*(-> Cô ấy đã mua một bộ trang phục mới cho bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of clothes worn together.

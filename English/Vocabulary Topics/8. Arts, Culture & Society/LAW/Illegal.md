@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Illegal
 *adjective*
 > /ɪˈliː.ɡəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Illegal::Bất hợp pháp, phạm luật *(Phát âm: /ɪˈliː.ɡəl/)* ![[illegal.mp3]]<br><br>👪 **Word Family:** Legal (adj), Illegal (adj), Illegality (n), Illegally (adv)<br><br>💬 **Ví dụ:** It is illegal to copy movies and sell them to make money.<br>*(-> Sao chép phim và bán chúng để kiếm tiền là bất hợp pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Contrary to or forbidden by law, especially criminal law.

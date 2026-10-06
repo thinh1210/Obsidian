@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Camera
 *n.*
 > /ˈkæmrə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Camera::Máy quay phim, máy ảnh *(Phát âm: /ˈkæmrə/)* ![[camera.mp3]]<br><br>👪 **Word Family:** cameraman, camerawork<br><br>💬 **Ví dụ:** Turn on the camera to start recording.<br>*(-> Bật máy quay lên để bắt đầu ghi hình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device for recording visual images in the form of photographs, film, or video signals

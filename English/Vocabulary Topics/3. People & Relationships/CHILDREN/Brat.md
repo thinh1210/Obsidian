@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Brat
 *noun*
 > /bræt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Brat::Đứa trẻ hư, ranh con *(Phát âm: /bræt/)* ![[brat.mp3]]<br><br>👪 **Word Family:** Bratty (adj)<br><br>💬 **Ví dụ:** Don't act like a spoiled brat.<br>*(-> Đừng cư xử như một đứa trẻ bị chiều hư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A child, typically a badly behaved one.

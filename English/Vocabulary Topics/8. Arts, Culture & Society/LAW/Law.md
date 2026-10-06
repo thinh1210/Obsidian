@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Law
 *noun*
 > /lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Law::Luật pháp, hệ thống luật pháp *(Phát âm: /lɔː/)* ![[law.mp3]]<br><br>👪 **Word Family:** Law (n), Lawyer (n), Lawful (adj), Lawless (adj)<br><br>💬 **Ví dụ:** Everyone should obey the law to keep the city safe.<br>*(-> Mọi người nên tuân thủ pháp luật để giữ cho thành phố an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of rules that a society or government develops in order to deal with crime, business agreements, and social relationships.

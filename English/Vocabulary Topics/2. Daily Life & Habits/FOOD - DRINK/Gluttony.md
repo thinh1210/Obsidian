@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Gluttony
 *n.*
 > /ˈɡlʌt.ən.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Gluttony::Sự phàm ăn *(Phát âm: /ˈɡlʌt.ən.i/)* ![[gluttony.mp3]]<br><br>👪 **Word Family:** glutton, gluttonous<br><br>💬 **Ví dụ:** Gluttony is not good for health.<br>*(-> Sự phàm ăn không tốt cho sức khỏe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Habitual greed or excess in eating.

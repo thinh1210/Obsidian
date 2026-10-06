@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Scrutiny
 *n.*
 > /ˈskruː.tɪ.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+37 - Scrutiny::Sự soi mói, kiểm tra kỹ lưỡng *(Phát âm: /ˈskruː.tɪ.ni/)* ![[scrutiny.mp3]]<br><br>👪 **Word Family:** Scrutinize (v.)<br><br>💬 **Ví dụ:** Public scrutiny.<br>*(-> Sự soi mói của công chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Critical observation or examination.

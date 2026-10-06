@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Selfish
 *adj.*
 > /ˈsel.fɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Selfish::Ích kỷ, chỉ biết nghĩ đến bản thân mình mà coi thường người khác *(Phát âm: /ˈsel.fɪʃ/)* ![[selfish.mp3]]<br><br>👪 **Word Family:** selfishness (n), selfishly (adv), unselfish (adj)<br><br>💬 **Ví dụ:** It was selfish of her to take the last seat without offering it to the pregnant lady.<br>*(-> Cô ấy thật ích kỷ khi ngồi vào chiếc ghế cuối cùng mà không nhường cho thai phụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Caring only about what you want or need without any thought for the needs of others.

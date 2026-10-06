@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Depreciation
 *n.*
 > /dɪˌpriːʃiˈeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Depreciation::Sự khấu hao *(Phát âm: /dɪˌpriːʃiˈeɪʃn/)* ![[depreciation.mp3]]<br><br>👪 **Word Family:** depreciate (v), depreciatory (adj)<br><br>💬 **Ví dụ:** While land usually appreciates, the house itself suffers from depreciation over time.<br>*(-> Trong khi đất đai thường tăng giá, bản thân ngôi nhà lại bị khấu hao theo thời gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A reduction in the value of an asset over time, due in particular to wear and tear.

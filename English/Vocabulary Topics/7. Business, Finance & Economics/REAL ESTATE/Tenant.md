@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Tenant
 *n.*
 > /ˈtenənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Tenant::Người thuê nhà *(Phát âm: /ˈtenənt/)* ![[tenant.mp3]]<br><br>👪 **Word Family:** tenancy (n)<br><br>💬 **Ví dụ:** The landlord reminded the tenant that rent is due on the first of the month.<br>*(-> Chủ nhà nhắc nhở người thuê rằng tiền thuê nhà đến hạn vào ngày đầu tiên của tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who occupies land or property rented from a landlord.

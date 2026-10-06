@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Bicycle
 *noun*
 > /ˈbaɪsɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Bicycle::Xe đạp *(Phát âm: /ˈbaɪsɪkl/)* ![[bicycle.mp3]]<br><br>👪 **Word Family:** Noun: bicycle (xe đạp), cyclist (người đi xe đạp), Verb: bicycle (đi xe đạp)<br><br>💬 **Ví dụ:** He rides his bicycle to the park every afternoon.<br>*(-> Anh ấy đạp xe đạp ra công viên mỗi buổi chiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals.

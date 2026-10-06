@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Misanthrope
 *n.*
 > /ˈmɪz.ən.θrəʊp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Misanthrope::Kẻ ghét đời, kẻ xa lánh loài người *(Phát âm: /ˈmɪz.ən.θrəʊp/)* ![[misanthrope.mp3]]<br><br>👪 **Word Family:** Misanthropy, Misanthropic<br><br>💬 **Ví dụ:** He became a misanthrope in his old age.<br>*(-> Ông ấy trở thành kẻ ghét đời khi về già.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who dislikes humankind and avoids human society.

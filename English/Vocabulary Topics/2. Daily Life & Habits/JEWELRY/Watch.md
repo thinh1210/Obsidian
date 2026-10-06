@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Watch
 *noun*
 > /wɒtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Watch::Đồng hồ đeo tay *(Phát âm: /wɒtʃ/)* ![[watch.mp3]]<br><br>👪 **Word Family:** Watcher<br><br>💬 **Ví dụ:** I check my watch.<br>*(-> Tôi xem đồng hồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small timepiece worn on the wrist.

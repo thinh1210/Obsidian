@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Demagogue
 *n*
 > /ˈdem.ə.ɡɒɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Demagogue::Kẻ mị dân / nhà chính trị kích động *(Phát âm: /ˈdem.ə.ɡɒɡ/)* ![[demagogue.mp3]]<br><br>👪 **Word Family:** demagogy (n), demagoguery (n), demagogic (adj)<br><br>💬 **Ví dụ:** The demagogue whipped up fear of immigrants to gain votes.<br>*(-> Kẻ mị dân khuấy động nỗi sợ hãi về người nhập cư để giành phiếu bầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A political leader who appeals to emotions and prejudices rather than rational argument.

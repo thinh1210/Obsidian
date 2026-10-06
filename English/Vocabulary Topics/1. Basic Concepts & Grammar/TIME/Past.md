@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Past
 *n., adj., prep.*
 > /pɑːst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Past::Quá khứ, thời gian đã qua đi; những biến cố lịch sử đã xảy ra *(Phát âm: /pɑːst/)* ![[past.mp3]]<br><br>👪 **Word Family:** pass (v)<br><br>💬 **Ví dụ:** It is eight o'clock already; hurry up or we will be late for our appointment.<br>*(-> Đã tám giờ rồi đấy; nhanh lên nếu không chúng ta sẽ bị trễ buổi hẹn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of time before the present, and all the things that happened then.

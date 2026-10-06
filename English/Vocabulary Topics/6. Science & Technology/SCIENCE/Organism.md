@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Organism
 *noun*
 > /ˈɔː.ɡə.nɪ.z(ə)m/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Organism::Sinh vật – vật sống, chẳng hạn như thực vật, động vật, nấm hoặc vi khuẩn *(Phát âm: /ˈɔː.ɡə.nɪ.z(ə)m/)* ![[organism.mp3]]<br><br>👪 **Word Family:** organic (adj), organically (adv), organisation/organization (n - different meaning)<br><br>💬 **Ví dụ:** Yeast is a microscopic organism used in bread baking.<br>*(-> Nấm men là sinh vật cực nhỏ được dùng trong làm bánh mì.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A living thing, such as a plant, animal, fungus, or bacterium.

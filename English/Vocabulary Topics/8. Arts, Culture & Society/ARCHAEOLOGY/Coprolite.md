@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Coprolite
 *noun*
 > /ˈkɒprəlaɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Coprolite::Phân hóa thạch *(Phát âm: /ˈkɒprəlaɪt/)* ![[coprolite.mp3]]<br><br>💬 **Ví dụ:** The museum has a collection of prehistoric coprolites.<br>*(-> Bảo tàng có một bộ sưu tập phân hóa thạch tiền sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of fossilized dung

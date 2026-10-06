@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Proliferation
 *noun*
 > /prəˌlɪf.əˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INTERNET | **Phân nhóm:** Quản trị số, Thuật toán & Quyền lực nền tảng
+
+## 🗂️ Flashcard
+Proliferation::Sự tăng nhanh chóng, sự phổ biến ồ ạt *(Phát âm: /prəˌlɪf.əˈreɪ.ʃən/)* ![[proliferation.mp3]]<br><br>👪 **Word Family:** proliferate (v), proliferation (n), proliferating (adj)<br><br>💬 **Ví dụ:** The proliferation of fake news online has made it hard to distinguish facts from fiction.<br>*(-> Sự bùng nổ của tin giả trực tuyến khiến khó phân biệt sự thật với hư cấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The rapid increase or spread of something, such as online misinformation or internet-connected devices.

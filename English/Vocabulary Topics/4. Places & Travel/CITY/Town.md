@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Town
 *n.*
 > /taʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Town::Thị trấn *(Phát âm: /taʊn/)* ![[town.mp3]]<br><br>👪 **Word Family:** township (n)<br><br>💬 **Ví dụ:** He lives in a small town.<br>*(-> Anh ấy sống ở một thị trấn nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place with many houses, smaller than a city.

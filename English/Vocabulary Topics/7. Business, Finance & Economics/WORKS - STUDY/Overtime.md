@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Overtime
 *n./adv.*
 > /ˈəʊ.və.taɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Overtime::Làm thêm giờ, giờ làm thêm *(Phát âm: /ˈəʊ.və.taɪm/)* ![[overtime.mp3]]<br><br>👪 **Word Family:** **Synonyms:** extra hours<br><br>💬 **Ví dụ:** I worked ten hours of overtime last week.<br>*(-> Tôi đã làm thêm mười tiếng vào tuần trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Time worked in addition to one's normal working hours

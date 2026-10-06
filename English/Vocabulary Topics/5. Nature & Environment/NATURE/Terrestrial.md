@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Terrestrial
 *Adjective*
 > /təˈrestriəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Terrestrial::Trên cạn, thuộc về đất liền *(Phát âm: /təˈrestriəl/)* ![[terrestrial.mp3]]<br><br>👪 **Word Family:** territory, terrain, extraterrestrial<br><br>💬 **Ví dụ:** Elephants are the largest living terrestrial animals.<br>*(-> Voi là loài động vật trên cạn lớn nhất đang còn sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** On or relating to the earth; living on or in the ground.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Diet
 *n*
 > /ˈdaɪət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Diet::Chế độ ăn uống, chế độ ăn kiêng *(Phát âm: /ˈdaɪət/)* ![[diet.mp3]]<br><br>👪 **Word Family:** dietary (adj), dietician (n)<br><br>💬 **Ví dụ:** A balanced diet is crucial for maintaining good physical health.<br>*(-> Một chế độ ăn uống cân bằng là rất quan trọng để duy trì sức khỏe thể chất tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The kinds of food that a person, animal, or community habitually eats, or a special course of food to lose weight.

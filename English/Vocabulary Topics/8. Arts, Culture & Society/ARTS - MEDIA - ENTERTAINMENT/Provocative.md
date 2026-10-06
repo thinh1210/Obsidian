@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Provocative
 *adj.*
 > /prəˈvɒkətɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Provocative::Mang tính khiêu khích, gợi suy nghĩ *(Phát âm: /prəˈvɒkətɪv/)* ![[provocative.mp3]]<br><br>👪 **Word Family:** provoke, provocation, provocatively<br><br>💬 **Ví dụ:** His comments were deliberately provocative.<br>*(-> Những bình luận của anh ấy là cố tình khiêu khích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Causing annoyance, anger, or another strong reaction, especially deliberately; arousing sexual desire or interest.

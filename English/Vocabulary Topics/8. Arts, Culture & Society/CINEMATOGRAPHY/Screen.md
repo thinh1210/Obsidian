@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Screen
 *n.*
 > /skriːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Screen::Màn ảnh, màn hình *(Phát âm: /skriːn/)* ![[screen.mp3]]<br><br>👪 **Word Family:** screening, screenplay<br><br>💬 **Ví dụ:** The actors appeared on screen for the first time.<br>*(-> Các diễn viên đã xuất hiện trên màn ảnh lần đầu tiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The flat surface on which movies are projected or show images

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Cosmopolitan
 *adj.*
 > /ˌkɒzməˈpɒlɪtən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Cosmopolitan::Đa văn hóa *(Phát âm: /ˌkɒzməˈpɒlɪtən/)* ![[cosmopolitan.mp3]]<br><br>👪 **Word Family:** Cosmopolite (n.)<br><br>💬 **Ví dụ:** London is a highly cosmopolitan city.<br>*(-> London là một thành phố rất đa văn hóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Familiar with and at ease in many different countries and cultures.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Reinsurance
 *n.*
 > /ˌriːɪnˈʃʊərəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
+
+## 🗂️ Flashcard
+Reinsurance::Tái bảo hiểm *(Phát âm: /ˌriːɪnˈʃʊərəns/)* ![[reinsurance.mp3]]<br><br>👪 **Word Family:** reinsure, reinsurer<br><br>💬 **Ví dụ:** Reinsurance protects insurance companies from massive losses after natural disasters.<br>*(-> Tái bảo hiểm bảo vệ các công ty bảo hiểm khỏi tổn thất khổng lồ sau thảm họa thiên nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Insurance training where insurance companies transfer portions of their risk portfolios to other parties to reduce their own liability.

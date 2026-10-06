@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Ozone layer
 *n.*
 > /ˈəʊzəʊn leɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Ozone layer::Tầng ozone *(Phát âm: /ˈəʊzəʊn leɪə(r)/)* ![[ozone_layer.mp3]]<br><br>👪 **Word Family:** ozone (n)<br><br>💬 **Ví dụ:** The ozone layer protects us from harmful ultraviolet radiation.<br>*(-> Tầng ozone bảo vệ chúng ta khỏi bức xạ cực tím có hại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A layer in the earth's stratosphere at an altitude of about 6.2 miles (10 km) containing a high concentration of ozone, which absorbs most of the ultraviolet radiation reaching the earth from the sun.

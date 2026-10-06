@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Feasibility
 *noun*
 > /ˌfiːzəˈbɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Feasibility::Tính khả thi *(Phát âm: /ˌfiːzəˈbɪləti/)* ![[feasibility.mp3]]<br><br>👪 **Word Family:** feasible (adj), feasibly (adv)<br><br>💬 **Ví dụ:** Before building the high-speed railway, they must conduct a feasibility study.<br>*(-> Trước khi xây dựng tuyến đường sắt cao tốc, họ phải thực hiện một nghiên cứu khả thi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or degree of being easily or conveniently done; viability.

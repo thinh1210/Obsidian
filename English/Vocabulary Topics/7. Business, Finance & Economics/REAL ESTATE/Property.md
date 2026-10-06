@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Property
 *n.*
 > /ˈprɒpəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Property::Bất động sản, tài sản *(Phát âm: /ˈprɒpəti/)* ![[property.mp3]]<br><br>👪 **Word Family:** properties (n), proprietary (adj)<br><br>💬 **Ví dụ:** Prices of residential property in this suburb have doubled.<br>*(-> Giá bất động sản nhà ở tại vùng ngoại ô này đã tăng gấp đôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building or buildings and the land belonging to it.

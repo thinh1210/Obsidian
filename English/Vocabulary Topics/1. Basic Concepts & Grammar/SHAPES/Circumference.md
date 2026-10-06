@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Circumference
 *n.*
 > /səˈkʌm.fər.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Circumference::Chu vi (đường tròn) *(Phát âm: /səˈkʌm.fər.əns/)* ![[circumference.mp3]]<br><br>👪 **Word Family:** Circumferential (adj)<br><br>💬 **Ví dụ:** The circumference of the tree is 2 meters.<br>*(-> Chu vi của cái cây là 2 mét.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The enclosing boundary of a curved geometric figure, especially a circle.

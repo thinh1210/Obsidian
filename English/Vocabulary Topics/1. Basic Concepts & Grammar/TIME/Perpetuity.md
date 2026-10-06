@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Perpetuity
 *n.*
 > /ˌpɜːpəˈtjuːəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Perpetuity::Sự vĩnh viễn, vô tận *(Phát âm: /ˌpɜːpəˈtjuːəti/)* ![[perpetuity.mp3]]<br><br>👪 **Word Family:** perpetual (adj.)<br><br>💬 **Ví dụ:** The land was granted to them in perpetuity.<br>*(-> Mảnh đất được trao cho họ vĩnh viễn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or quality of lasting forever

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Policy
 *n.*
 > /ˈpɒləsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Policy::Hợp đồng, điều khoản bảo hiểm *(Phát âm: /ˈpɒləsi/)* ![[policy.mp3]]<br><br>👪 **Word Family:** policymaker, policyholder<br><br>💬 **Ví dụ:** Make sure to read your insurance policy carefully.<br>*(-> Hãy đảm bảo đọc kỹ hợp đồng bảo hiểm của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A document detailing the terms and conditions of a contract of insurance.

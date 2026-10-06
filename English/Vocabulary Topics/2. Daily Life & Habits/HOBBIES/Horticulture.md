@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Horticulture
 *noun*
 > /ˈhɔːtɪkʌltʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Horticulture::Nghệ thuật làm vườn *(Phát âm: /ˈhɔːtɪkʌltʃər/)* ![[horticulture.mp3]]<br><br>👪 **Word Family:** Horticultural (adj), Horticulturist (n)<br><br>💬 **Ví dụ:** Indoor horticulture is a great way to bring nature into a small apartment.<br>*(-> Làm vườn trong nhà là một cách tuyệt vời để mang thiên nhiên vào một căn hộ nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of garden cultivation and management.

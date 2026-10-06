@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Chronological
 *adj*
 > /ˌkrɒnəˈlɒdʒɪkəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Chronological::Theo trình tự thời gian *(Phát âm: /ˌkrɒnəˈlɒdʒɪkəl/)* ![[chronological.mp3]]<br><br>👪 **Word Family:** chronology (n)<br><br>💬 **Ví dụ:** Put the events in chronological order.<br>*(-> Hãy sắp xếp các sự kiện theo trình tự thời gian.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Starting with the earliest and following the order in which they occurred.

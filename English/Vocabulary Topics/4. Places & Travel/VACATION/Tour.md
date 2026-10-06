@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Tour
 *Noun*
 > /tʊr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Tour::Chuyến du lịch/tham quan *(Phát âm: /tʊr/)* ![[tour.mp3]]<br><br>👪 **Word Family:** tourism (n), tourist (n)<br><br>💬 **Ví dụ:** We went on a guided tour of the city.<br>*(-> Chúng tôi đi một vòng tham quan thành phố có hướng dẫn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A visit to a place or area, especially one during which you look around the place.

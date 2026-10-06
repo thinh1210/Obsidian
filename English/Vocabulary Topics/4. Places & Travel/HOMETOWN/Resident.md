@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Resident
 *n.*
 > /ˈrezɪdənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Con người, Tình làng nghĩa xóm & Cộng đồng
+
+## 🗂️ Flashcard
+Resident::Cư dân *(Phát âm: /ˈrezɪdənt/)* ![[resident.mp3]]<br><br>👪 **Word Family:** Reside (v.)<br><br>💬 **Ví dụ:** The residents are very friendly.<br>*(-> Cư dân rất thân thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who lives somewhere permanently or on a long-term basis.

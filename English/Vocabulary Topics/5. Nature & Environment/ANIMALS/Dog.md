@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Dog
 *noun*
 > /dɒɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Dog::Con chó *(Phát âm: /dɒɡ/)* ![[dog.mp3]]<br><br>👪 **Word Family:** dog (n), doggy (n), dogged (adj)<br><br>💬 **Ví dụ:** I take my dog for a walk every evening.<br>*(-> Tôi dắt chó đi dạo mỗi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A common domestic animal kept as a pet or for work.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Triangular
 *adj.*
 > /traɪˈæŋ.ɡjə.lər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Triangular::Có hình tam giác *(Phát âm: /traɪˈæŋ.ɡjə.lər/)* ![[triangular.mp3]]<br><br>👪 **Word Family:** Triangle (n)<br><br>💬 **Ví dụ:** He folded the paper into a triangular shape.<br>*(-> Anh ấy gấp tờ giấy thành hình tam giác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shaped like a triangle.

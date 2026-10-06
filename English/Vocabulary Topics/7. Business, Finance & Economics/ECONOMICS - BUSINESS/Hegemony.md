@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Hegemony
 *noun*
 > /hɪˈdʒeməni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Hegemony::bá quyền, quyền bá chủ *(Phát âm: /hɪˈdʒeməni/)* ![[hegemony.mp3]]<br><br>👪 **Word Family:** hegemonic (adjective)<br><br>💬 **Ví dụ:** The cultural hegemony of English makes it a necessary language for global travel.<br>*(-> Sự thống trị văn hóa của tiếng Anh biến nó thành một ngôn ngữ cần thiết cho việc đi lại toàn cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** leadership or dominance, especially by one country or social group over others.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Trendsetter
 *n.*
 > /ˈtrendsetər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Trendsetter::Người tạo ra xu hướng *(Phát âm: /ˈtrendsetər/)* ![[trendsetter.mp3]]<br><br>👪 **Word Family:** Trendsetting (adj)<br><br>💬 **Ví dụ:** She has always been a trendsetter among her friends.<br>*(-> Cô ấy luôn là người tạo xu hướng trong số bạn bè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or institution that starts a new fashion or trend.

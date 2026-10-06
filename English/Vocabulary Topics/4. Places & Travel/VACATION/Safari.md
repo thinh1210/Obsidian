@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Safari
 *n.*
 > /səˈfɑːri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Safari::Hành trình khám phá thiên nhiên và chiêm ngưỡng các loài thú hoang dã *(Phát âm: /səˈfɑːri/)* ![[safari.mp3]]<br><br>👪 **Word Family:** safari (n)<br><br>💬 **Ví dụ:** Going on an African safari to see elephants in the wild was a lifelong dream.<br>*(-> Đi safari ở châu Phi để tận mắt thấy bầy voi hoang dã là ước mơ cả đời của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expedition to observe or photograph wild animals, especially in their natural habitat in Africa.

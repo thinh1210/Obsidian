@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Meet
 *verb*
 > /miːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Meet::Gặp gỡ *(Phát âm: /miːt/)* ![[meet.mp3]]<br><br>👪 **Word Family:** meeting<br><br>💬 **Ví dụ:** I will meet my friend tomorrow.<br>*(-> Tôi sẽ gặp bạn tôi vào ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Come into the presence or company of someone by chance or arrangement.

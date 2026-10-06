@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Feel
 *verb*
 > /fiːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Feel::Cảm thấy *(Phát âm: /fiːl/)* ![[feel.mp3]]<br><br>👪 **Word Family:** feeling (noun)<br><br>💬 **Ví dụ:** I feel tired.<br>*(-> Tôi cảm thấy mệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To experience a physical or emotional sensation.

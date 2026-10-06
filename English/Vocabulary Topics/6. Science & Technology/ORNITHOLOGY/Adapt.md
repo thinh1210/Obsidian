@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Adapt
 *verb*
 > /əˈdæpt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Adapt::Thích nghi *(Phát âm: /əˈdæpt/)* ![[adapt.mp3]]<br><br>👪 **Word Family:** adapt (v), adaptation (n), adaptable (adj)<br><br>💬 **Ví dụ:** Birds have to adapt to the changing urban environment.<br>*(-> Các loài chim phải thích nghi với môi trường đô thị đang thay đổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become adjusted to new conditions.

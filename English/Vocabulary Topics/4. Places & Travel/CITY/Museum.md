@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Museum
 *n.*
 > /mjuːˈziːəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Museum::Nơi trưng bày và bảo tồn các hiện vật lịch sử, văn hóa hoặc khoa học *(Phát âm: /mjuːˈziːəm/)* ![[museum.mp3]]<br><br>👪 **Word Family:** museologist (n)<br><br>💬 **Ví dụ:** Admission to the national museum is free on Sundays.<br>*(-> Vé vào cửa bảo tàng quốc gia miễn phí vào các ngày Chủ Nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building in which objects of historical, scientific, or artistic interest are kept and displayed.

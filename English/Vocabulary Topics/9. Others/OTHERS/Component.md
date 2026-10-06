@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Component
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - part, element, ingredient
+
+
+## 🗂️ Flashcard
+Component::Thành phần, bộ phận cấu thành *(Phát âm: /kəmˈpəʊ.nənt/)* ![[component.mp3]]<br><br>👪 **Word Family:** [Noun]: component, [Verb]: compose, [Adj]: component<br><br>💬 **Ví dụ:** Trust is a vital component of any relationship.<br>*(-> Sự tin tưởng là một thành phần quan trọng của bất kỳ mối quan hệ nào.)*

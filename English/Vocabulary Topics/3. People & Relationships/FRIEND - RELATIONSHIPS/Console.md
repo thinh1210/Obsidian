@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Console
 *v.*
 > /kənˈsəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Console::An ủi, vỗ về, động viên người bạn đang buồn phiền đau khổ *(Phát âm: /kənˈsəʊl/)* ![[console.mp3]]<br><br>👪 **Word Family:** consolation (n), inconsolable (adj)<br><br>💬 **Ví dụ:** She rushed to her friend's apartment with a box of pastries to console her after the breakup.<br>*(-> Cô vội vã chạy đến căn hộ của bạn cùng hộp bánh ngọt để an ủi bạn sau khi chia tay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give comfort or sympathy to someone who is sad or disappointed.

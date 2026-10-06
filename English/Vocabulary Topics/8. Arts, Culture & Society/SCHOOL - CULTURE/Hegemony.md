@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Hegemony
 *noun*
 > /hɪˈɡeməni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Hegemony::Quyền bá chủ, sự thống trị văn hóa/tư tưởng *(Phát âm: /hɪˈɡeməni/)* ![[hegemony.mp3]]<br><br>👪 **Word Family:** hegemonic (adj)<br><br>💬 **Ví dụ:** Scholars study how educational systems can perpetuate the cultural hegemony of the ruling class.<br>*(-> Các học giả nghiên cứu cách các hệ thống giáo dục có thể duy trì sự thống trị văn hóa của giai cấp thống trị.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Leadership or dominance, especially by one country or social group over others.

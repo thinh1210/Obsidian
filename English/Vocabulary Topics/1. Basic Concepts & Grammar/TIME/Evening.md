@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Evening
 *n.*
 > /ˈiːvnɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Evening::Buổi tối *(Phát âm: /ˈiːvnɪŋ/)* ![[evening.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** What are you doing this evening?<br>*(-> Bạn làm gì tối nay?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latter part of the day, before night

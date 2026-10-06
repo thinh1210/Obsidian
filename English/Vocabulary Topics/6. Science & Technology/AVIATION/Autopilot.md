@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Autopilot
 *noun*
 > /ˈɔː.tə.paɪ.lət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Autopilot::Lái tự động *(Phát âm: /ˈɔː.tə.paɪ.lət/)* ![[autopilot.mp3]]<br><br>👪 **Word Family:** auto-navigate (v), flight management system (n)<br><br>💬 **Ví dụ:** Once at cruising altitude, the pilot switched on the autopilot.<br>*(-> Khi đến độ cao hành trình, phi công bật chế độ lái tự động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system that automatically controls the flight of an aircraft without continuous manual operation by a human pilot.

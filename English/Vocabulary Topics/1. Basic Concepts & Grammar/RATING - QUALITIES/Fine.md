@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Fine
 *adj*
 > /faɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Fine::Ổn, tốt *(Phát âm: /faɪn/)* ![[fine.mp3]]<br><br>👪 **Word Family:** Finely (adv)<br><br>💬 **Ví dụ:** I am feeling fine.<br>*(-> Tôi cảm thấy ổn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of high quality; good or acceptable.

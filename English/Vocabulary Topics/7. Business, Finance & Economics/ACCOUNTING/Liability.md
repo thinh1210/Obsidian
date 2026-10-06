@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Liability
 *n.*
 > /ˌlaɪəˈbɪlɪti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Liability::Nghĩa vụ pháp lý, nợ phải trả *(Phát âm: /ˌlaɪəˈbɪlɪti/)* ![[liability.mp3]]<br><br>👪 **Word Family:** liable<br><br>💬 **Ví dụ:** He denied any liability for the damage caused to the car.<br>*(-> Anh ta phủ nhận mọi trách nhiệm đối với thiệt hại gây ra cho chiếc xe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being legally responsible for something, or an amount of money that a company owes

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Swim
 *v*
 > /swɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Swim::Bơi *(Phát âm: /swɪm/)* ![[swim.mp3]]<br><br>👪 **Word Family:** Swimmer (n), Swimming (n)<br><br>💬 **Ví dụ:** Can you swim?<br>*(-> Bạn biết bơi không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Propel the body through water using the limbs.

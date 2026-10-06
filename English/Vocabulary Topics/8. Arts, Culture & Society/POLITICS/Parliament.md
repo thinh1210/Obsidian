@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Parliament
 *n*
 > /ˈpɑː.lə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Parliament::Quốc hội / Nghị viện *(Phát âm: /ˈpɑː.lə.mənt/)* ![[parliament.mp3]]<br><br>👪 **Word Family:** parliamentary (adj), parliamentarian (n)<br><br>💬 **Ví dụ:** She was elected to parliament for the first time at age 30.<br>*(-> Bà ấy được bầu vào quốc hội lần đầu tiên ở tuổi 30.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The group of elected representatives who make the laws of a country.

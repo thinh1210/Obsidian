@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Extravagant
 *adj.*
 > /ɪkˈstrævəɡənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
+
+## 🗂️ Flashcard
+Extravagant::Phung phí, xa hoa *(Phát âm: /ɪkˈstrævəɡənt/)* ![[extravagant.mp3]]<br><br>👪 **Word Family:** extravagance (n.)<br><br>💬 **Ví dụ:** They live an extravagant lifestyle.<br>*(-> Họ sống một lối sống xa hoa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lacking restraint in spending money or using resources.

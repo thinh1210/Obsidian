@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Say
 *v.*
 > /seɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Say::Nói, bảo *(Phát âm: /seɪ/)* ![[say.mp3]]<br><br>👪 **Word Family:** saying, gainsay<br><br>💬 **Ví dụ:** What did you say?<br>*(-> Bạn đã nói gì cơ?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To utter words so as to convey information, an opinion, or a feeling

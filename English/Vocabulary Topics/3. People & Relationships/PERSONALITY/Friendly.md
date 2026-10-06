@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Friendly
 *adj.*
 > /ˈfrend.li/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Friendly::Thân thiện, hòa nhã, dễ gần gũi *(Phát âm: /ˈfrend.li/)* ![[friendly.mp3]]<br><br>👪 **Word Family:** friend (n), friendliness (n), friendship (n)<br><br>💬 **Ví dụ:** The local residents gave the tourists a very friendly welcome.<br>*(-> Người dân địa phương đã dành cho du khách một sự chào đón rất thân thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Behaving in a pleasant, kind way toward someone.

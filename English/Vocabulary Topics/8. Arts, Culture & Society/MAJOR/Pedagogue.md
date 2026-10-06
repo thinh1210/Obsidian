@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Pedagogue
 *n.*
 > /ˈped.ə.ɡɒɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Phương pháp luận, Nhận thức & Nghiên cứu liên ngành
+
+## 🗂️ Flashcard
+Pedagogue::Nhà sư phạm, giáo viên nghiêm khắc theo nguyên tắc *(Phát âm: /ˈped.ə.ɡɒɡ/)* ![[pedagogue.mp3]]<br><br>👪 **Word Family:** pedagogue (n), pedagogy (n), pedagogical (adj)<br><br>💬 **Ví dụ:** The old pedagogue demanded complete silence during lessons.<br>*(-> Nhà sư phạm già đòi hỏi im lặng hoàn toàn trong giờ học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A teacher, especially one who is strict or pedantic; an educator concerned with principles of teaching.

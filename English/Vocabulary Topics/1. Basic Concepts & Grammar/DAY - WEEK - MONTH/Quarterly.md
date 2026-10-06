@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Quarterly
 *adj., adv., n.*
 > /ˈkwɔː.tə.li/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Quarterly::Định kỳ hàng quý (ba tháng một lần); ấn phẩm xuất bản theo quý *(Phát âm: /ˈkwɔː.tə.li/)* ![[quarterly.mp3]]<br><br>👪 **Word Family:** quarter (n)<br><br>💬 **Ví dụ:** I pay my utility bills quarterly to simplify our monthly household budgeting.<br>*(-> Tôi thanh toán hóa đơn tiện ích theo quý để đơn giản hóa việc lập ngân sách gia đình hàng tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done, produced, or occurring once every quarter of a year (every three months).

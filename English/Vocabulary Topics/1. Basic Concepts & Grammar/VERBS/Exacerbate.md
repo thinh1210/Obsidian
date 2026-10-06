@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Exacerbate
 *Verb*
 > /ɪɡˈzæs.ə.beɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Điều chỉnh, Nguy cơ & Xử lý tình huống
+
+## 🗂️ Flashcard
+Exacerbate::Làm trầm trọng thêm *(Phát âm: /ɪɡˈzæs.ə.beɪt/)* ![[exacerbate.mp3]]<br><br>👪 **Word Family:** Exacerbation (n)<br><br>💬 **Ví dụ:** Don't exacerbate the situation.<br>*(-> Đừng làm tình hình thêm tồi tệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something that is already bad even worse.

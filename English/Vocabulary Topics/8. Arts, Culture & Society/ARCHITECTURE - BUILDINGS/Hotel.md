@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Hotel
 *n.*
 > /həʊˈtel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Hotel::Khách sạn *(Phát âm: /həʊˈtel/)* ![[hotel.mp3]]<br><br>👪 **Word Family:** hotelier<br><br>💬 **Ví dụ:** We stayed at a luxury hotel during our vacation.<br>*(-> Chúng tôi đã ở một khách sạn sang trọng trong suốt kỳ nghỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A building where travelers can pay for lodging and meals

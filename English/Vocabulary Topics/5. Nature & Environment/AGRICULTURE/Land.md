@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Land
 *n.*
 > /lænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Land::Đất đai, vùng đất *(Phát âm: /lænd/)* ![[land.mp3]]<br><br>👪 **Word Family:** landowner (n), landlord (n), landless (adj)<br><br>💬 **Ví dụ:** They bought a piece of land to build a country house.<br>*(-> Họ đã mua một mảnh đất để xây một ngôi nhà ở nông thôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of ground, especially when used for farming or building.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Mitten
 *noun*
 > /ˈmɪtn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Mitten::Găng tay hở ngón, găng tay bao liền *(Phát âm: /ˈmɪtn/)* ![[mitten.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The child wore colorful mittens in the snow.<br>*(-> Đứa trẻ đeo đôi găng tay len sặc sỡ trong tuyết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A type of glove with a single part for all the fingers and a separate part for the thumb.

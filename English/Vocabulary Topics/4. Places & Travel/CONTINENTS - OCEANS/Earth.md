@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Earth
 *noun*
 > /ɜːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Earth::Trái đất, mặt đất *(Phát âm: /ɜːθ/)* ![[earth.mp3]]<br><br>👪 **Word Family:** Earthy (adj.), Earthly (adj.)<br><br>💬 **Ví dụ:** The Earth goes around the sun.<br>*(-> Trái đất quay quanh mặt trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The planet on which we live.

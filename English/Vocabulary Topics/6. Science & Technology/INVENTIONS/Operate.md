@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Operate
 *Verb*
 > /ˈɒp.ər.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Operate::Vận hành, hoạt động *(Phát âm: /ˈɒp.ər.eɪt/)* ![[operate.mp3]]<br><br>👪 **Word Family:** Operation (n), operator (n), operational (adj)<br><br>💬 **Ví dụ:** Do you know how to operate this coffee maker?<br>*(-> Bạn có biết cách vận hành máy pha cà phê này không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To work, be in action, or direct the functioning of a machine.

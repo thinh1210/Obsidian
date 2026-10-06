@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Plane
 *noun*
 > /pleɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Plane::Máy bay *(Phát âm: /pleɪn/)* ![[plane.mp3]]<br><br>👪 **Word Family:** Noun: plane (máy bay), Verb: plane (bay lượn)<br><br>💬 **Ví dụ:** I am traveling to London by plane.<br>*(-> Tôi sẽ đi du lịch đến Luân Đôn bằng máy bay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An airplane or aeroplane.

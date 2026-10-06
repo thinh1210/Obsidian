@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Monitor
 *n.*
 > /ˈmɒn.ɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Monitor::Màn hình máy tính hiển thị hình ảnh và giao diện người dùng *(Phát âm: /ˈmɒn.ɪ.tər/)* ![[monitor.mp3]]<br><br>👪 **Word Family:** monitor (v), monitoring (n)<br><br>💬 **Ví dụ:** Using dual monitors at work makes multitasking between spreadsheets much easier.<br>*(-> Sử dụng màn hình kép tại nơi làm việc giúp xử lý nhiều bảng tính cùng lúc dễ dàng hơn nhiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A screen that shows computer output, video, or information visually.

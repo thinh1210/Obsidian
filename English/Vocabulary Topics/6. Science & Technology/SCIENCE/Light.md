@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Light
 *noun / adjective*
 > /laɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Light::Ánh sáng – năng lượng cho phép chúng ta nhìn thấy mọi thứ *(Phát âm: /laɪt/)* ![[light.mp3]]<br><br>👪 **Word Family:** lighten (v), lighting (n), enlighten (v), lightweight (adj)<br><br>💬 **Ví dụ:** Turn on the light – it is too dark to read.<br>*(-> Bật đèn lên – tối quá không đọc được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The energy that allows us to see; electromagnetic radiation visible to the human eye.

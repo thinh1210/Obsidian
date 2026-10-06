@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Fascinator
 *noun*
 > /ˈfæsɪneɪtə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Mũ nón, Kính mắt & Phụ kiện đầu
+
+## 🗂️ Flashcard
+Fascinator::Phụ kiện cài tóc dự tiệc, băng đô trang trí *(Phát âm: /ˈfæsɪneɪtə(r)/)* ![[fascinator.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She chose a feathered fascinator for the wedding.<br>*(-> Cô chọn một chiếc băng đô cài lông chim cho đám cưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A decorative headpiece attached to a hair clip, comb, or headband, typically worn at formal events.

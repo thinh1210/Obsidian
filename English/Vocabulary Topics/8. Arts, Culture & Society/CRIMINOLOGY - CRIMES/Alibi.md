@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Alibi
 *noun*
 > /ˈæləbaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Tố tụng hình sự, Tòa án, Bằng chứng & Phán quyết
+
+## 🗂️ Flashcard
+Alibi::Chứng cứ ngoại phạm *(Phát âm: /ˈæləbaɪ/)* ![[alibi.mp3]]<br><br>👪 **Word Family:** (None)<br><br>💬 **Ví dụ:** He had a solid alibi; he was at work when the bank was robbed.<br>*(-> Anh ta có chứng cứ ngoại phạm vững chắc; anh ta đang ở nơi làm việc khi ngân hàng bị cướp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A claim or piece of evidence that one was elsewhere when an act, typically a crime, is alleged to have taken place

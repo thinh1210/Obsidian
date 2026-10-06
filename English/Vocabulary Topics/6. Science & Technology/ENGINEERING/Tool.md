@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Tool
 *noun*
 > /tuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Tool::Dụng cụ, công cụ *(Phát âm: /tuːl/)* ![[tool.mp3]]<br><br>👪 **Word Family:** tooling (n)<br><br>💬 **Ví dụ:** I need to buy some hand tools to fix the wooden chair in the garden.<br>*(-> Tôi cần mua một số dụng cụ cầm tay để sửa chiếc ghế gỗ ngoài vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instrument, especially one held in the hand, used to carry out a particular function.

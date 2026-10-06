@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Launch
 *verb/noun*
 > /lɔːntʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
+
+## 🗂️ Flashcard
+Launch::Phóng, cất cánh *(Phát âm: /lɔːntʃ/)* ![[launch.mp3]]<br><br>👪 **Word Family:** launcher (n)<br><br>💬 **Ví dụ:** NASA is preparing to launch a new spacecraft to Mars.<br>*(-> NASA đang chuẩn bị phóng một tàu vũ trụ mới lên Sao Hỏa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To send a rocket, missile, or satellite into the air or space.

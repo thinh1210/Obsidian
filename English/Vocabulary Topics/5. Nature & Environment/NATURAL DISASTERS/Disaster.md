@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Disaster
 *noun*
 > /dɪˈzɑː.stər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Disaster::Thảm họa, tai ương *(Phát âm: /dɪˈzɑː.stər/)* ![[disaster.mp3]]<br><br>👪 **Word Family:** disastrous (adj), disastrously (adv)<br><br>💬 **Ví dụ:** The earthquake was the worst natural disaster in the region's history.<br>*(-> Trận động đất này là thảm họa thiên nhiên tồi tệ nhất trong lịch sử khu vực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An event that results in great harm, damage, or death.

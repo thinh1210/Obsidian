@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Decorate
 *verb*
 > /ˈdɛkəˌreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Decorate::Trang trí *(Phát âm: /ˈdɛkəˌreɪt/)* ![[decorate.mp3]]<br><br>👪 **Word Family:** decoration (n)<br><br>💬 **Ví dụ:** We decorated the house for Christmas.<br>*(-> Chúng tôi trang trí nhà đón Giáng sinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (something) look more attractive by adding extra items or images to it.

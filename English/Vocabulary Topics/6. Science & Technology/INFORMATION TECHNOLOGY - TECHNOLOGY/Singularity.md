@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Singularity
 *n*
 > /ˌsɪŋ.ɡjəˈlær.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Tech/Sci-fi | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Singularity::Điểm kỳ dị (công nghệ) *(Phát âm: /ˌsɪŋ.ɡjəˈlær.ə.ti/)* ![[singularity.mp3]]<br><br>👪 **Word Family:** Singular (adj)<br><br>💬 **Ví dụ:** Some nerds think the singularity is happening soon.<br>*(-> Một số người say mê công nghệ nghĩ rằng điểm kỳ dị sắp xảy ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A theoretical point in time when artificial intelligence will surpass human intelligence.

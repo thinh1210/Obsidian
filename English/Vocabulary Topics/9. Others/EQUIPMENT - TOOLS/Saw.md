@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # saw
 *noun*
 > /sɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Saw::cái cưa *(Phát âm: /sɔː/)* ![[saw.mp3]]<br><br>👪 **Word Family:** Noun: saw (cái cưa), sawdust (mạt cưa), Verb: saw (cưa)<br><br>💬 **Ví dụ:** He used a hand saw to cut the tree branch.<br>*(-> Anh ấy đã dùng cưa tay để cắt cành cây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a hand tool for cutting wood or other materials, typically with a long, thin serrated steel blade.

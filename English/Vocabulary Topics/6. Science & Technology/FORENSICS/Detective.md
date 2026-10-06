@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Detective
 *noun*
 > /dɪˈtek.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Detective::Thám tử / điều tra viên *(Phát âm: /dɪˈtek.tɪv/)* ![[detective.mp3]]<br><br>👪 **Word Family:** detect (v), detection (n), detectable (adj)<br><br>💬 **Ví dụ:** She wants to become a detective when she grows up.<br>*(-> Cô ấy muốn trở thành thám tử khi lớn lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A police officer or private investigator who solves crimes.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Skyscraper
 *n.*
 > /ˈskaɪskreɪpə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Skyscraper::Tòa nhà chọc trời *(Phát âm: /ˈskaɪskreɪpə(r)/)* ![[skyscraper.mp3]]<br><br>👪 **Word Family:** sky (n)<br><br>💬 **Ví dụ:** New York has many skyscrapers.<br>*(-> New York có rất nhiều tòa nhà chọc trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very tall building in a city.

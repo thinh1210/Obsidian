@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Silver
 *n, adj*
 > /ˈsɪl.vɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Silver::Màu bạc *(Phát âm: /ˈsɪl.vɚ/)* ![[silver.mp3]]<br><br>👪 **Word Family:** silvery (adj)<br><br>💬 **Ví dụ:** He drives a silver sports car.<br>*(-> Anh ấy lái một chiếc xe thể thao màu bạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shiny light gray color.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Avalanche
 *noun*
 > /ˈæv.əl.ɑːnʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Avalanche::Tuyết lở *(Phát âm: /ˈæv.əl.ɑːnʃ/)* ![[avalanche.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Two skiers were rescued after being buried in an avalanche.<br>*(-> Hai người trượt tuyết đã được giải thoát sau khi bị chôn vùi trong một vụ tuyết lở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large amount of snow, ice, and rocks falling quickly down the side of a mountain.

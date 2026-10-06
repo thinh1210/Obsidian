@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Study
 *v.*
 > /ˈstʌd.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Study::Học tập, nghiên cứu *(Phát âm: /ˈstʌd.i/)* ![[study.mp3]]<br><br>👪 **Word Family:** student, studious<br><br>💬 **Ví dụ:** I need to study for my history test.<br>*(-> Tôi cần học để chuẩn bị cho bài kiểm tra lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To spend time learning about a subject

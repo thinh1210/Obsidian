@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Pristine
 *Adjective*
 > /ˈprɪs.tiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
+
+## 🗂️ Flashcard
+Pristine::Nguyên sơ, tinh khôi *(Phát âm: /ˈprɪs.tiːn/)* ![[pristine.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** We discovered a pristine beach hidden behind the cliffs.<br>*(-> Chúng tôi phát hiện ra một bãi biển nguyên sơ ẩn sau những vách đá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** New or almost new, and in very good condition, or untouched.

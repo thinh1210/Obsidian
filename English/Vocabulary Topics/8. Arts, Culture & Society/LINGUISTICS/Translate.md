@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Translate
 *verb*
 > /trænzˈleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
+
+## 🗂️ Flashcard
+Translate::dịch, phiên dịch *(Phát âm: /trænzˈleɪt/)* ![[translate.mp3]]<br><br>👪 **Word Family:** translation (n), translator (n)<br><br>💬 **Ví dụ:** Can you translate this document into Vietnamese?<br>*(-> Bạn có thể dịch tài liệu này sang tiếng Việt không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to change writing or speech from one language into another

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Stepmother
 *noun*
 > /ˈstepˌmʌð.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Stepmother::Mẹ kế *(Phát âm: /ˈstepˌmʌð.ər/)* ![[stepmother.mp3]]<br><br>👪 **Word Family:** stepparent (n)<br><br>💬 **Ví dụ:** His stepmother is kind.<br>*(-> Mẹ kế của anh ấy rất tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The woman married to your father but not your real mother.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Dopamine Loop
 *noun*
 > /ˈdəʊpəmiːn luːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Dopamine Loop::Vòng lặp dopamine (chu kỳ gây nghiện phần thưởng) *(Phát âm: /ˈdəʊpəmiːn luːp/)* ![[dopamine_loop.mp3]]<br><br>👪 **Word Family:** dopamine (n)<br><br>💬 **Ví dụ:** The constant pulling down to refresh the screen is a classic dopamine loop.<br>*(-> Việc liên tục kéo xuống để làm mới màn hình là một vòng lặp dopamine điển hình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cycle of behavior driven by the chemical reward system in the brain, reinforced by social media notifications

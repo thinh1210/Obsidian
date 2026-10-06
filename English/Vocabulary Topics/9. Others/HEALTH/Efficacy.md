@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Efficacy
 *n*
 > /ˈefɪkəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Efficacy::Hiệu lực, hiệu quả (thường dùng cho thuốc, vắc-xin, phác đồ điều trị) *(Phát âm: /ˈefɪkəsi/)* ![[efficacy.mp3]]<br><br>👪 **Word Family:** efficacious (adj), efficaciously (adv)<br><br>💬 **Ví dụ:** Clinical trials showed the new drug has high efficacy and low side effects.<br>*(-> Các thử nghiệm lâm sàng cho thấy loại thuốc mới có hiệu lực cao và ít tác dụng phụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to produce a desired or intended result; effectiveness.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Matrimony
 *noun*
 > /ˈmætrɪməni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Matrimony::Hôn thú/Hôn nhân *(Phát âm: /ˈmætrɪməni/)* ![[matrimony.mp3]]<br><br>👪 **Word Family:** Matrimonial (adjective)<br><br>💬 **Ví dụ:** They were joined in holy matrimony.<br>*(-> Họ đã gắn kết trong cuộc hôn nhân thiêng liêng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or ceremony of being married; marriage.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Murmuration
 *noun*
 > /ˌmɜː.məˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Murmuration::Đàn chim sáo đá bay lượn tạo hình (sự chuyển động uốn lượn tập thể) *(Phát âm: /ˌmɜː.məˈreɪ.ʃən/)* ![[murmuration.mp3]]<br><br>👪 **Word Family:** murmur (v/n), murmuration (n)<br><br>💬 **Ví dụ:** We stood in awe watching the murmuration of starlings over the field.<br>*(-> Chúng tôi kinh ngạc đứng nhìn đàn sáo đá bay lượn uốn lượn trên cánh đồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flock of starlings (or similar birds) flying in a large, fluid, coordinated pattern.

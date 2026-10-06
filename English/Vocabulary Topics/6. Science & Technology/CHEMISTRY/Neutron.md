@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Neutron
 *noun*
 > /ˈnjuː.trɒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Neutron::Nơ-tron, hạt trung hòa điện *(Phát âm: /ˈnjuː.trɒn/)* ![[neutron.mp3]]<br><br>👪 **Word Family:** neutral (adj), neutralize (v)<br><br>💬 **Ví dụ:** Isotopes of an element have different numbers of neutrons.<br>*(-> Các đồng vị của một nguyên tố có số lượng nơ-tron khác nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A subatomic particle of about the same mass as a proton but without an electric charge, present in all atomic nuclei except hydrogen.

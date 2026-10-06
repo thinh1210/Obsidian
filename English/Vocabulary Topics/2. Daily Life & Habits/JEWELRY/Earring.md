@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Earring
 *noun*
 > /ˈɪə.rɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Earring::Bông tai *(Phát âm: /ˈɪə.rɪŋ/)* ![[earring.mp3]]<br><br>👪 **Word Family:** Earrings<br><br>💬 **Ví dụ:** She lost an earring.<br>*(-> Cô ấy mất một chiếc bông tai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewelry worn on the ear.

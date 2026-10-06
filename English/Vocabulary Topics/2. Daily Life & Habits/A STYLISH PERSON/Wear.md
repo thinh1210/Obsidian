@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Wear
 *v.*
 > /wer/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Wear::Mặc, đeo, đội *(Phát âm: /wer/)* ![[wear.mp3]]<br><br>👪 **Word Family:** Wearable (adj), Wearer (n)<br><br>💬 **Ví dụ:** I usually wear a T-shirt at home.<br>*(-> Tôi thường mặc áo thun ở nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To have clothing, jewelry, etc. on your body.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Lesson
 *n.*
 > /ˈlesn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Lesson::Bài học *(Phát âm: /ˈlesn/)* ![[lesson.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The first lesson starts at 8 AM.<br>*(-> Bài học đầu tiên bắt đầu lúc 8 giờ sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of learning or teaching

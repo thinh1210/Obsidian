@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Scarf
 *noun*
 > /skɑːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Scarf::Khăn quàng cổ *(Phát âm: /skɑːf/)* ![[scarf.mp3]]<br><br>👪 **Word Family:** Scarves (n - plural)<br><br>💬 **Ví dụ:** I wrapped a scarf around my neck.<br>*(-> Tôi quấn một chiếc khăn quanh cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of cloth that you wear around your neck, head, or shoulders, to keep warm or for decoration.

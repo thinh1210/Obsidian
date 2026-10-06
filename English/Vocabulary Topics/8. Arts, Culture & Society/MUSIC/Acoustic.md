@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Acoustic
 *adj.*
 > /əˈkuː.stɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Acoustic::Thuộc về âm thanh, (nhạc cụ) mộc (không điện tử) *(Phát âm: /əˈkuː.stɪk/)* ![[acoustic.mp3]]<br><br>👪 **Word Family:** acoustics (n), acoustically (adv)<br><br>💬 **Ví dụ:** She performed an acoustic version of her hit song on YouTube.<br>*(-> Cô ấy đã trình diễn một phiên bản mộc của bài hát đình đám của mình trên YouTube.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to sound or the sense of hearing; (of a musical instrument) not having its sound electrically amplified.

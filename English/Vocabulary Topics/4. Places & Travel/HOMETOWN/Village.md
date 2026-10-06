@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Village
 *n.*
 > /ˈvɪlɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Village::Ngôi làng *(Phát âm: /ˈvɪlɪdʒ/)* ![[village.mp3]]<br><br>👪 **Word Family:** Villager (n.)<br><br>💬 **Ví dụ:** He grew up in a small village.<br>*(-> Anh ấy lớn lên ở một ngôi làng nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of houses and associated buildings in a rural area.

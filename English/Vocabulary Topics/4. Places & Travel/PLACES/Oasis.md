@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Oasis
 *n.*
 > /oʊˈeɪ.sɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa hình tự nhiên, Rừng & Sông hồ
+
+## 🗂️ Flashcard
+Oasis::Ốc đảo *(Phát âm: /oʊˈeɪ.sɪs/)* ![[oasis.mp3]]<br><br>👪 **Word Family:** oases (plural)<br><br>💬 **Ví dụ:** The small park is an oasis of calm in the city.<br>*(-> Công viên nhỏ là một ốc đảo yên bình giữa thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A fertile spot in a desert, where water is found.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Solute
 *noun*
 > /ˈsɒl.juːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Solute::Chất tan *(Phát âm: /ˈsɒl.juːt/)* ![[solute.mp3]]<br><br>👪 **Word Family:** solubility (n), soluble (adj)<br><br>💬 **Ví dụ:** In a saltwater solution, salt is the solute and water is the solvent.<br>*(-> Trong dung dịch nước muối, muối là chất tan và nước là dung môi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The minor component in a solution, dissolved in the solvent.

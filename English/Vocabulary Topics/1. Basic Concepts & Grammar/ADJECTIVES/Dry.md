@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Dry
 *adj.*
 > /draɪ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Dry::Khô ráo, không ướt; khô cằn; khô khan, thiếu cảm xúc *(Phát âm: /draɪ/)* ![[dry.mp3]]<br><br>👪 **Word Family:** dryly (adv), dryness (n), dry (v)<br><br>💬 **Ví dụ:** Make sure your hair is completely dry before going to sleep.<br>*(-> Hãy đảm bảo tóc bạn đã khô hoàn toàn trước khi đi ngủ.)*
+<!--SR:!2026-10-06,4,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from moisture or liquid; not wet or moist; without rain.

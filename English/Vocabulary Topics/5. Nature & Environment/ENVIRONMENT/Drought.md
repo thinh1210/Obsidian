@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Drought
 *n.*
 > /draʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Drought::Hạn hán, đợt khô hạn thiếu mưa kéo dài nghiêm trọng gây thiếu nước sinh hoạt và sản xuất *(Phát âm: /draʊt/)* ![[drought.mp3]]<br><br>👪 **Word Family:** drought-stricken (adj)<br><br>💬 **Ví dụ:** Farmers watched helplessly as their corn fields withered away during the six-month drought.<br>*(-> Những người nông dân bất lực nhìn đồng ngô khô héo rụi dần trong đợt hạn hán kéo dài sáu tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A prolonged period of abnormally low rainfall, leading to a shortage of water.

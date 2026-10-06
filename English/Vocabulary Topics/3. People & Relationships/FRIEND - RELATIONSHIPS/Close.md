@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Close
 *adj*
 > /kloʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Close::Thân thiết *(Phát âm: /kloʊs/)* ![[close.mp3]]<br><br>👪 **Word Family:** closeness<br><br>💬 **Ví dụ:** We are very close.<br>*(-> Chúng tôi rất thân thiết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bound by mutual affection, loyalty, and intimacy.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Phonology
 *noun*
 > /fəˈnɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Âm thanh, Phát âm, Bảng chữ cái & Ngữ âm học
+
+## 🗂️ Flashcard
+Phonology::âm vị học *(Phát âm: /fəˈnɒl.ə.dʒi/)* ![[phonology.mp3]]<br><br>👪 **Word Family:** phonological (adj), phonologist (n)<br><br>💬 **Ví dụ:** Phonology studies how sounds function within a particular language system.<br>*(-> Âm vị học nghiên cứu cách các âm vận hành trong một hệ thống ngôn ngữ cụ thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the study of the system of speech sounds in a language or in general

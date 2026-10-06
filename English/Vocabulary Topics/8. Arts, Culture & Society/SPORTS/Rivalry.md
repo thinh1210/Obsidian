@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Rivalry
 *n.*
 > /ˈraɪ.vəl.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Rivalry::Mối thù địch thể thao, sự cạnh tranh đối đầu gay gắt giữa hai đối thủ truyền thống *(Phát âm: /ˈraɪ.vəl.ri/)* ![[rivalry.mp3]]<br><br>👪 **Word Family:** rival (n/v)<br><br>💬 **Ví dụ:** The intense derby rivalry between the two city clubs always attracts sold-out crowds.<br>*(-> Sự đối đầu kình địch trong trận derby giữa hai câu lạc bộ thành phố luôn thu hút lượng khán giả kín sân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Competition for the same objective or for superiority in the same field, especially between opposing sports teams.

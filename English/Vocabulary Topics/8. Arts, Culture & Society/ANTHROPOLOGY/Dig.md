@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Dig
 *v., n.*
 > /dɪɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Dig::(v) Đào, bới; (n) Cuộc khai quật khảo cổ *(Phát âm: /dɪɡ/)* ![[dig.mp3]]<br><br>👪 **Word Family:** digger, digging<br><br>💬 **Ví dụ:** They dig a hole to plant a tree.<br>*(-> Họ đào một cái hố để trồng cây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (v) Break up and move earth with a tool or hands; (n) An archaeological excavation.

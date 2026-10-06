@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Conveyancing
 *n.*
 > /kənˈveɪənsɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Thủ tục pháp lý, Chuyển quyền & Khế ước đất đai
+
+## 🗂️ Flashcard
+Conveyancing::Thủ tục pháp lý chuyển nhượng quyền sở hữu bất động sản *(Phát âm: /kənˈveɪənsɪŋ/)* ![[conveyancing.mp3]]<br><br>👪 **Word Family:** convey (v), conveyance (n), conveyancer (n)<br><br>💬 **Ví dụ:** We hired a solicitor to handle the conveyancing when we bought our house.<br>*(-> Chúng tôi đã thuê một luật sư đại diện để xử lý thủ tục chuyển nhượng khi chúng tôi mua nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The branch of law concerned with the preparation of documents for the transfer of property.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Introverted
 *adj.*
 > /ˈɪn.trə.vɜː.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Introverted::Hướng nội, thích không gian riêng tư để nạp lại năng lượng hơn là tụ tập *(Phát âm: /ˈɪn.trə.vɜː.tɪd/)* ![[introverted.mp3]]<br><br>👪 **Word Family:** introvert (n), introversion (n)<br><br>💬 **Ví dụ:** As an introverted writer, he recharges his creative battery by walking alone in the woods.<br>*(-> Là một nhà văn hướng nội, anh nạp lại năng lượng sáng tạo bằng cách đi dạo một mình trong rừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Shy, quiet, and preferring to spend time alone rather than with other people.

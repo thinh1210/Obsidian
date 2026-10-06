@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Seaside
 *n.*
 > /ˈsiːsaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Seaside::Vùng duyên hải có bãi tắm và không khí trong lành thích hợp cho nghỉ dưỡng *(Phát âm: /ˈsiːsaɪd/)* ![[seaside.mp3]]<br><br>👪 **Word Family:** seashore (n), seaward (adj/adv)<br><br>💬 **Ví dụ:** Every August, city families escape the summer heat by heading to the seaside.<br>*(-> Vào tháng Tám, các gia đình thành phố thường trốn nóng bằng cách về miền biển nghỉ ngơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place by the sea, especially a beach area where people go for rest or holidays.

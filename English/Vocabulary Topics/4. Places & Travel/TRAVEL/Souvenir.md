@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Souvenir
 *noun*
 > /ˌsuː.vənˈɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
+
+## 🗂️ Flashcard
+Souvenir::Quà lưu niệm *(Phát âm: /ˌsuː.vənˈɪər/)* ![[souvenir.mp3]]<br><br>👪 **Word Family:** Souvenirs<br><br>💬 **Ví dụ:** I bought a souvenir for you.<br>*(-> Tôi đã mua một món quà lưu niệm cho bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Something you buy to remember a place

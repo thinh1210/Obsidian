@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Liquidity
 *noun.*
 > /lɪˈkwɪdəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Quản trị rủi ro tài chính, Quỹ phòng hộ & Thanh khoản
+
+## 🗂️ Flashcard
+Liquidity::Tính thanh khoản *(Phát âm: /lɪˈkwɪdəti/)* ![[liquidity.mp3]]<br><br>👪 **Word Family:** liquid (noun/adj), liquidate (verb), liquidation (noun)<br><br>💬 **Ví dụ:** Real estate is a good investment but has low liquidity compared to stocks.<br>*(-> Bất động sản là một khoản đầu tư tốt nhưng có tính thanh khoản thấp so với cổ phiếu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The availability of liquid assets (cash) to a market or company.

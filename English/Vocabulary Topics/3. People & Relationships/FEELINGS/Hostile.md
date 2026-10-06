@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Hostile
 *adj.*
 > /ˈhɒs.taɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Hostile::Thù địch, hung hăng, biểu lộ sự chống đối và hằn học *(Phát âm: /ˈhɒs.taɪl/)* ![[hostile.mp3]]<br><br>👪 **Word Family:** hostility (n), hostilely (adv)<br><br>💬 **Ví dụ:** HR policies strictly prohibit creating a hostile work environment for colleagues.<br>*(-> Chính sách nhân sự nghiêm cấm việc tạo ra một môi trường làm việc thù địch, chèn ép đồng nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unfriendly and not liking or agreeing with something.

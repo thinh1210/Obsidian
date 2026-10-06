@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Waterfall
 *Noun*
 > /ˈwɔːtəfɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Thủy văn, Đại dương, Sông hồ & Thác nước
+
+## 🗂️ Flashcard
+Waterfall::Thác nước *(Phát âm: /ˈwɔːtəfɔːl/)* ![[waterfall.mp3]]<br><br>👪 **Word Family:** water, fall<br><br>💬 **Ví dụ:** We walked through the forest to see the waterfall.<br>*(-> Chúng tôi đi bộ qua rừng để xem thác nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cascade of water falling from a height, formed when a stream flows over a precipice.

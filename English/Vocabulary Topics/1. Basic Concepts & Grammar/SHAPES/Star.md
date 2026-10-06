@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Star
 *n.*
 > /stɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Star::Hình ngôi sao *(Phát âm: /stɑːr/)* ![[star.mp3]]<br><br>👪 **Word Family:** Starry (adj)<br><br>💬 **Ví dụ:** I drew a star for my mom.<br>*(-> Tôi đã vẽ một ngôi sao cho mẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape with five or more points.

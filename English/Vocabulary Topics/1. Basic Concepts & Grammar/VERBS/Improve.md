@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Improve
 *Verb*
 > /ɪmˈpruːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Improve::Cải thiện *(Phát âm: /ɪmˈpruːv/)* ![[improve.mp3]]<br><br>👪 **Word Family:** Improvement (n), Improved (adj)<br><br>💬 **Ví dụ:** My English improved.<br>*(-> Tiếng Anh của tôi đã tiến bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To get better, or to make something better.

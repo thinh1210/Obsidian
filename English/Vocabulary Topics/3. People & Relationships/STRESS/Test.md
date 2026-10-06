@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Test
 *n.*
 > /test/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Nguồn cơn căng thẳng, Công việc & Quá tải
+
+## 🗂️ Flashcard
+Test::Bài kiểm tra, thử nghiệm *(Phát âm: /test/)* ![[test.mp3]]<br><br>👪 **Word Family:** testing (n), tester (n)<br><br>💬 **Ví dụ:** I have a math test tomorrow.<br>*(-> Tôi có bài kiểm tra toán ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A procedure intended to establish the quality, performance, or reliability

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Warranty
 *n*
 > /ˈwɒr.ən.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Warranty::Bảo hành *(Phát âm: /ˈwɒr.ən.ti/)* ![[warranty.mp3]]<br><br>👪 **Word Family:** Warrant<br><br>💬 **Ví dụ:** Is it under warranty?<br>*(-> Nó còn bảo hành không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written promise to repair/replace

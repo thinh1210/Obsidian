@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Scrutinize
 *Verb*
 > /ˈskruː.tɪ.naɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Scrutinize::Xem xét kỹ lưỡng *(Phát âm: /ˈskruː.tɪ.naɪz/)* ![[scrutinize.mp3]]<br><br>👪 **Word Family:** Scrutiny (n)<br><br>💬 **Ví dụ:** I scrutinized the bill.<br>*(-> Tôi đã xem kỹ tờ hóa đơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To examine something very carefully in order to discover information.

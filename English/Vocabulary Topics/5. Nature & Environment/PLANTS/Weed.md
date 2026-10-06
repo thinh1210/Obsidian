@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Weed
 *noun*
 > /wiːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Weed::Cỏ dại *(Phát âm: /wiːd/)* ![[weed.mp3]]<br><br>👪 **Word Family:** Noun: weed (cỏ dại), weeder (người nhổ cỏ), Verb: weed (nhổ cỏ), Adjective: weedy (nhiều cỏ dại)<br><br>💬 **Ví dụ:** The garden was overgrown with weeds.<br>*(-> Khu vườn đã bị phủ đầy cỏ dại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wild plant growing where it is not wanted and in competition with cultivated plants.

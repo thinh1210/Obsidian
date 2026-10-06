@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Superfluous
 
 *Adjective*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - redundant, excess, extra
+
+
+## 🗂️ Flashcard
+Superfluous::Thừa thãi, không cần thiết *(Phát âm: /suːˈpɜː.flu.əs/)* ![[superfluous.mp3]]<br><br>👪 **Word Family:** [Noun]: superfluity, [Adj]: superfluous, [Adv]: superfluously<br><br>💬 **Ví dụ:** Avoid writing superfluous details in your essay.<br>*(-> Tránh viết những chi tiết thừa thãi trong bài luận của bạn.)*

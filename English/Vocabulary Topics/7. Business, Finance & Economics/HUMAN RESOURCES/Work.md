@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Work
 *v.*
 > /wɜːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Work::Làm việc *(Phát âm: /wɜːk/)* ![[work.mp3]]<br><br>👪 **Word Family:** worker, workplace, workable<br><br>💬 **Ví dụ:** I work from Monday to Friday.<br>*(-> Tôi làm việc từ thứ Hai đến thứ Sáu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To perform activities or duties to earn a living

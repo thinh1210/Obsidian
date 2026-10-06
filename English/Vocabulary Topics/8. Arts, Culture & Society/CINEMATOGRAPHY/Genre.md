@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Genre
 *n.*
 > /ˈʒɒ̃rə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Genre::Thể loại *(Phát âm: /ˈʒɒ̃rə/)* ![[genre.mp3]]<br><br>👪 **Word Family:** generic<br><br>💬 **Ví dụ:** Horror is my least favorite movie genre.<br>*(-> Kinh dị là thể loại phim tôi ít thích nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter

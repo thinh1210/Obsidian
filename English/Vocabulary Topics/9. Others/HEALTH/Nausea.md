@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Nausea
 *n.*
 > /ˈnɔː.zi.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Nausea::Cảm giác khó chịu ở dạ dày như sắp nôn mửa *(Phát âm: /ˈnɔː.zi.ə/)* ![[nausea.mp3]]<br><br>👪 **Word Family:** nauseous (adj), nauseate (v), nauseating (adj)<br><br>💬 **Ví dụ:** Ginger tea is very effective at relieving mild feelings of nausea.<br>*(-> Trà gừng rất hiệu quả trong việc làm dịu cảm giác buồn nôn nhẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The uncomfortable feeling that you are going to vomit.

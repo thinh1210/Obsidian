@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Greedy
 *adj.*
 > /ˈɡriː.di/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Greedy::Tham lam, hám của, luôn muốn vơ vét nhiều hơn mức cần thiết *(Phát âm: /ˈɡriː.di/)* ![[greedy.mp3]]<br><br>👪 **Word Family:** greed (n), greedily (adv), greediness (n)<br><br>💬 **Ví dụ:** Don't be greedy; leave some cake for your younger brother.<br>*(-> Đừng tham lam thế; hãy để lại chút bánh ngọt cho em trai của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wanting a lot more food, money, power, etc. than you need.

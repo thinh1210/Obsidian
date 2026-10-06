@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Stadium
 *n.*
 > /ˈsteɪdiəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Cơ sở vật chất & Địa điểm công cộng
+
+## 🗂️ Flashcard
+Stadium::Đấu trường thể thao rộng lớn có khán đài nhiều tầng cho khán giả xem thi đấu *(Phát âm: /ˈsteɪdiəm/)* ![[stadium.mp3]]<br><br>👪 **Word Family:** stadia (n. pl.)<br><br>💬 **Ví dụ:** Over fifty thousand fans packed into the stadium.<br>*(-> Hơn năm mươi ngàn người hâm mộ đã lấp kín sân vận động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large sports arena with tiers of seats for spectators.

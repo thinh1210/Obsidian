@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Famous
 *adj.*
 > /ˈfeɪməs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Famous::Nổi tiếng *(Phát âm: /ˈfeɪməs/)* ![[famous.mp3]]<br><br>👪 **Word Family:** fame, famously<br><br>💬 **Ví dụ:** She wants to be a famous singer one day.<br>*(-> Cô ấy muốn trở thành một ca sĩ nổi tiếng vào một ngày nào đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Known about by many people

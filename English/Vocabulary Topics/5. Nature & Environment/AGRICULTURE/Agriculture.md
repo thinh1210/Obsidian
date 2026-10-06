@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Agriculture
 *n.*
 > /ˈæɡ.rɪ.kʌl.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Kỹ thuật canh tác, Phân bón & Thủy lợi
+
+## 🗂️ Flashcard
+Agriculture::Nông nghiệp *(Phát âm: /ˈæɡ.rɪ.kʌl.tʃər/)* ![[agriculture.mp3]]<br><br>👪 **Word Family:** agricultural (adj), agriculturalist (n)<br><br>💬 **Ví dụ:** Many families in the province depend on agriculture for their livelihood.<br>*(-> Nieu gia đình trong tỉnh phụ thuộc vào nông nghiệp để kiếm sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science or practice of farming, including cultivation of the soil and rearing of animals.

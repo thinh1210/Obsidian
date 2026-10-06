@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # History
 *noun*
 > /ˈhɪs.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+History::Lịch sử, môn lịch sử *(Phát âm: /ˈhɪs.tər.i/)* ![[history.mp3]]<br><br>👪 **Word Family:** historic (adj), historical (adj), historian (noun)<br><br>💬 **Ví dụ:** History was my favorite subject when I was at school.<br>*(-> Lịch sử là môn học yêu thích của tôi khi tôi còn đi học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of past events, particularly in human affairs.

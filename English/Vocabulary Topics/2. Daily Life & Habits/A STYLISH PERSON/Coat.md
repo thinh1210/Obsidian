@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Coat
 *n.*
 > /koʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Trang phục & Tủ đồ cá nhân
+
+## 🗂️ Flashcard
+Coat::Áo khoác dáng dài *(Phát âm: /koʊt/)* ![[coat.mp3]]<br><br>👪 **Word Family:** Coating (n)<br><br>💬 **Ví dụ:** It's cold outside, put on your coat.<br>*(-> Ngoài trời lạnh, hãy mặc áo khoác vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An outer piece of clothing with sleeves that is worn over other clothes.

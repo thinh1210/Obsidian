@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Prison
 *noun*
 > /ˈprɪz.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Tòa án, Thẩm phán, Bồi thẩm đoàn & Thẩm quyền xét xử
+
+## 🗂️ Flashcard
+Prison::Nhà tù, nhà giam *(Phát âm: /ˈprɪz.ən/)* ![[prison.mp3]]<br><br>👪 **Word Family:** Prison (n), Prisoner (n), Imprison (v), Imprisonment (n)<br><br>💬 **Ví dụ:** The bank robber was sent to prison for ten years.<br>*(-> Kẻ cướp ngân hàng đã bị đưa vào tù trong mười năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building where people are legally held as a punishment for a crime they have committed.

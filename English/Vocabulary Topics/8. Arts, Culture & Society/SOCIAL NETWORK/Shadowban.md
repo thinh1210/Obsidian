@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Shadowban
 *verb*
 > /ˈʃædəʊbæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Mặt tối mạng xã hội: Giám sát, Bắt nạt & Cấm sóng
+
+## 🗂️ Flashcard
+Shadowban::Chặn ngầm, ẩn tương tác (khóa bóng ma) *(Phát âm: /ˈʃædəʊbæn/)* ![[shadowban.mp3]]<br><br>👪 **Word Family:** shadowban (n)<br><br>💬 **Ví dụ:** I think my account got shadowbanned because my posts suddenly got zero likes.<br>*(-> Tôi nghĩ tài khoản của tôi bị chặn ngầm vì các bài đăng của tôi đột ngột không nhận được lượt thích nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To block a user's content from showing up in search results and feeds without the user's knowledge

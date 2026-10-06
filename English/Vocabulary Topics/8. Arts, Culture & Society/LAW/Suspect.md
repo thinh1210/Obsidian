@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Suspect
 *noun/verb*
 > /ˈsʌs.pekt/ (noun), /səˈspekt/ (verb)
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Suspect::Nghi phạm, nghi ngờ *(Phát âm: /ˈsʌs.pekt/ (noun), /səˈspekt/ (verb))* ![[suspect.mp3]]<br><br>👪 **Word Family:** Suspect (n/v), Suspicion (n), Suspicious (adj), Suspiciously (adv)<br><br>💬 **Ví dụ:** The police have arrested the prime suspect in the bank robbery.<br>*(-> Cảnh sát đã bắt giữ nghi phạm chính trong vụ cướp ngân hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person suspected of a crime; have an idea or impression of the existence, presence, or truth of (something) without proof.

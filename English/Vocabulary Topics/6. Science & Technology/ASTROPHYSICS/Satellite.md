@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Satellite
 *noun*
 > /ˈsæt.əl.aɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
+
+## 🗂️ Flashcard
+Satellite::Vệ tinh *(Phát âm: /ˈsæt.əl.aɪt/)* ![[satellite.mp3]]<br><br>👪 **Word Family:** satellitic (adj)<br><br>💬 **Ví dụ:** My TV receives programs via satellite.<br>*(-> Tivi của tôi nhận các chương trình qua vệ tinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An artificial body placed in orbit round the earth or another planet in order to collect information or for communication.

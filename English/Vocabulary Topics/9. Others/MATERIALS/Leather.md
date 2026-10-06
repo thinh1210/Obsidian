@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Leather
 *noun.*
 > /ˈleðə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Vật liệu tự nhiên, Gỗ, Da & Sợi dệt
+
+## 🗂️ Flashcard
+Leather::Da thuộc, da *(Phát âm: /ˈleðə(r)/)* ![[leather.mp3]]<br><br>👪 **Word Family:** leathery (Adjective)<br><br>💬 **Ví dụ:** He polished his leather shoes before the wedding.<br>*(-> Anh ấy đã đánh bóng đôi giày da của mình trước ngày cưới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A material made from the skin of an animal by tanning or a similar process.

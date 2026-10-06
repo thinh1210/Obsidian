@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Jubilant
 *adj.*
 > /ˈdʒuː.bəl.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Jubilant::Vui sướng, tưng bừng (thường do chiến thắng) *(Phát âm: /ˈdʒuː.bəl.ənt/)* ![[jubilant.mp3]]<br><br>👪 **Word Family:** Jubilation (n)<br><br>💬 **Ví dụ:** The fans were jubilant.<br>*(-> Người hâm mộ đã reo hò tưng bừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing great happiness and triumph.

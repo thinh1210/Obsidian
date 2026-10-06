@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Film
 *n.*
 > /fɪlm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Film::Bộ phim, cuộn phim *(Phát âm: /fɪlm/)* ![[film.mp3]]<br><br>👪 **Word Family:** filming, filmmaker<br><br>💬 **Ví dụ:** What is your favorite film?<br>*(-> Bộ phim yêu thích nhất của bạn là gì?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A story or event recorded by a camera as a set of moving images

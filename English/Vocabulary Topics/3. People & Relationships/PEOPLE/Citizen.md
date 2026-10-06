@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Citizen
 *n.*
 > /ˈsɪt.ɪ.zən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Citizen::Công dân *(Phát âm: /ˈsɪt.ɪ.zən/)* ![[citizen.mp3]]<br><br>👪 **Word Family:** Citizenship<br><br>💬 **Ví dụ:** He is a global citizen.<br>*(-> Anh ấy là một công dân toàn cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A legally recognized subject or national of a state.

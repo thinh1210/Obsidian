@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # March
 *n., v.*
 > /mɑːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tháng, Năm & Chu kỳ thời gian dài
+
+## 🗂️ Flashcard
+March::Tháng Ba trong năm; cuộc tuần hành, bước đều bước *(Phát âm: /mɑːtʃ/)* ![[march.mp3]]<br><br>👪 **Word Family:** marching (n), marcher (n)<br><br>💬 **Ví dụ:** Spring flowers begin to bloom across city gardens in late March.<br>*(-> Những bông hoa mùa xuân bắt đầu khoe sắc khắp các vườn cây thành phố vào cuối tháng Ba.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The third month of the calendar year, having 31 days; to walk with regular steps.

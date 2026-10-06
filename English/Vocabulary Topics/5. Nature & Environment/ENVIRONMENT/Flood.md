@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Flood
 *n.*
 > /flʌd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Flood::Lũ lụt, hiện tượng lượng nước tràn bờ sông biển làm ngập úng nhà cửa ruộng đồng *(Phát âm: /flʌd/)* ![[flood.mp3]]<br><br>👪 **Word Family:** flooding (n), flooded (adj), floodwater (n)<br><br>💬 **Ví dụ:** Heavy overnight rains triggered sudden flash floods that submerged city intersections.<br>*(-> Mưa lớn suốt đêm đã kích hoạt các trận lũ quét bất ngờ nhấn chìm nhiều ngã tư thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An overflowing of a large amount of water beyond its normal confines over normally dry land.

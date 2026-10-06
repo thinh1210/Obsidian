@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Treaty
 *n.*
 > /ˈtriːti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Treaty::Hiệp ước *(Phát âm: /ˈtriːti/)* ![[treaty.mp3]]<br><br>👪 **Word Family:** treat, treatment<br><br>💬 **Ví dụ:** The representative signed the trade treaty yesterday.<br>*(-> Đại diện đã ký hiệp ước thương mại ngày hôm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formally concluded and ratified agreement between countries

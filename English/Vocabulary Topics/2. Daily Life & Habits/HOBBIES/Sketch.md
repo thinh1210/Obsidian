@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Sketch
 *v*
 > /sketʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Sketch::Phác thảo, vẽ phác *(Phát âm: /sketʃ/)* ![[sketch.mp3]]<br><br>👪 **Word Family:** sketch (n), sketchy (adj), sketchbook (n)<br><br>💬 **Ví dụ:** He likes to sketch people on the bus.<br>*(-> Anh ấy thích phác họa mọi người trên xe buýt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a quick, rough drawing of something.

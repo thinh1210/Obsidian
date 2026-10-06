@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Consanguinity
 *noun*
 > /ˌkɒn.sæŋˈɡwɪn.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FAMILY | **Phân nhóm:** Tổ tiên, Dòng dõi & Phả hệ
+
+## 🗂️ Flashcard
+Consanguinity::Quan hệ cùng huyết thống *(Phát âm: /ˌkɒn.sæŋˈɡwɪn.ə.ti/)* ![[consanguinity.mp3]]<br><br>👪 **Word Family:** consanguineous (adj)<br><br>💬 **Ví dụ:** Marriage by consanguinity is forbidden.<br>*(-> Kết hôn cùng huyết thống bị cấm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition of being of the same blood or origin.

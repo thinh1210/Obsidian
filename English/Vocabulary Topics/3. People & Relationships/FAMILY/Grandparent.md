@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Grandparent
 *n.*
 > /ˈɡrænˌpeə.rənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Grandparent::Ông hoặc bà (bậc sinh thành của cha mẹ mình) *(Phát âm: /ˈɡrænˌpeə.rənt/)* ![[grandparent.mp3]]<br><br>👪 **Word Family:** grandparenthood (n), grandmother (n), grandfather (n)<br><br>💬 **Ví dụ:** The children love visiting their grandparents in the countryside during the holidays.<br>*(-> Lũ trẻ rất thích về quê thăm ông bà vào dịp nghỉ lễ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The father or mother of a person's father or mother.

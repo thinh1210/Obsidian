@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Tranquility
 *n*
 > /træŋˈkwɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Tranquility::Sự yên tĩnh, thanh bình *(Phát âm: /træŋˈkwɪləti/)* ![[tranquility.mp3]]<br><br>👪 **Word Family:** Tranquil (adj)<br><br>💬 **Ví dụ:** I love the tranquility of the countryside.<br>*(-> Tôi thích sự thanh bình của vùng quê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being tranquil; calm.

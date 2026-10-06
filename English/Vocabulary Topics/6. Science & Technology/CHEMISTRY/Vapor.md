@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Vapor
 *noun*
 > /ˈveɪ.pər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Vapor::Hơi, hơi nước *(Phát âm: /ˈveɪ.pər/)* ![[vapor.mp3]]<br><br>👪 **Word Family:** vaporize (v), vaporization (n), vaporous (adj)<br><br>💬 **Ví dụ:** The kettle was releasing a cloud of hot steam and vapor.<br>*(-> Chiếc ấm đang tỏa ra một đám mây hơi nước nóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance diffused or suspended in the air, especially one normally liquid or solid.

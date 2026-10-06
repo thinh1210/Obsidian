@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Predict
 *verb*
 > /prɪˈdɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Predict::Dự đoán, tiên đoán *(Phát âm: /prɪˈdɪkt/)* ![[predict.mp3]]<br><br>👪 **Word Family:** prediction (n), predictable (adj), predictability (n)<br><br>💬 **Ví dụ:** It is difficult to predict when the next earthquake will strike.<br>*(-> Rất khó để dự đoán khi nào trận động đất tiếp theo sẽ xảy ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say that an event will happen in the future.

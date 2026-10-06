@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Uniform
 *noun*
 > /ˈjuːnɪfɔːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Uniform::Đồng phục *(Phát âm: /ˈjuːnɪfɔːm/)* ![[uniform.mp3]]<br><br>👪 **Word Family:** uniform (adj), uniformity (n), uniformly (adv)<br><br>💬 **Ví dụ:** I have to wear a uniform to school from Monday to Friday.<br>*(-> Tôi phải mặc đồng phục đến trường từ thứ Hai đến thứ Sáu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The distinctive clothing worn by members of the same organization or school.

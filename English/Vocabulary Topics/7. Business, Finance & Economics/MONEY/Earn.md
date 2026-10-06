@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Earn
 *verb*
 > /ɜːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Earn::Kiếm (tiền) *(Phát âm: /ɜːn/)* ![[earn.mp3]]<br><br>👪 **Word Family:** earnings (n), earner (n)<br><br>💬 **Ví dụ:** How much do you earn a month?<br>*(-> Bạn kiếm được bao nhiêu tiền một tháng?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To obtain money in return for labor or services

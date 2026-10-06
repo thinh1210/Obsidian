@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Luminol
 *noun*
 > /ˈluː.mɪ.nɒl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Luminol::Luminol – hóa chất phát sáng màu xanh dùng để phát hiện dấu vết máu tại hiện trường *(Phát âm: /ˈluː.mɪ.nɒl/)* ![[luminol.mp3]]<br><br>👪 **Word Family:** luminescence (n), luminescent (adj)<br><br>💬 **Ví dụ:** Luminol is sold in chemistry kits for educational demonstrations.<br>*(-> Luminol được bán trong các bộ dụng cụ hóa học để trình diễn giáo dục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical compound used to detect trace amounts of blood at crime scenes by producing a blue luminescence.

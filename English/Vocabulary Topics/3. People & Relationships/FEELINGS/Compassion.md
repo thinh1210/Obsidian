@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Compassion
 *n.*
 > /kəmˈpæʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Compassion::Lòng trắc ẩn, tình thương xót sâu sắc thôi thúc hành động cứu giúp người hoạn nạn *(Phát âm: /kəmˈpæʃ.ən/)* ![[compassion.mp3]]<br><br>👪 **Word Family:** compassionate (adj), compassionately (adv)<br><br>💬 **Ví dụ:** Treating homeless individuals with dignity and compassion can restore their faith in humanity.<br>*(-> Đối xử với những người vô gia cư bằng nhân phẩm và lòng trắc ẩn có thể khôi phục niềm tin của họ vào tình người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A strong feeling of sympathy and sadness for the suffering of others and a wish to help them.

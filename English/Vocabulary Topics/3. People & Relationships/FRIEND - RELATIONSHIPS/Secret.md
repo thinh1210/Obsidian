@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Secret
 *n.*
 > /ˈsiː.krət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Secret::Điều bí mật, thông tin riêng tư chỉ tin tưởng sẻ chia với bạn thân *(Phát âm: /ˈsiː.krət/)* ![[secret.mp3]]<br><br>👪 **Word Family:** secretly (adv), secrecy (n), secretive (adj)<br><br>💬 **Ví dụ:** Sarah is the only friend to whom I can comfortably disclose my deepest personal secrets.<br>*(-> Sarah là người bạn duy nhất mà tôi có thể thoải mái tâm sự những bí mật sâu kín nhất của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of information that is only known by one person or a few people and should not be told to others.

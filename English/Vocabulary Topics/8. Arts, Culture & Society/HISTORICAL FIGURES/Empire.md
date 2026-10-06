@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Empire
 *n.*
 > /ˈempaɪə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Empire::Đế chế *(Phát âm: /ˈempaɪə(r)/)* ![[empire.mp3]]<br><br>👪 **Word Family:** emperor, imperial, imperialism<br><br>💬 **Ví dụ:** The Roman Empire stretched across Europe and North Africa.<br>*(-> Đế chế La Mã trải dài khắp châu Âu và Bắc Phi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An extensive group of states or countries ruled over by a single monarch or sovereign state

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Observe
 *verb*
 > /əbˈzɜːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Observe::Quan sát *(Phát âm: /əbˈzɜːv/)* ![[observe.mp3]]<br><br>👪 **Word Family:** observe (v), observation (n), observer (n), observant (adj)<br><br>💬 **Ví dụ:** I like to sit on the balcony and observe the birds building nests.<br>*(-> Tôi thích ngồi trên ban công và quan sát những chú chim xây tổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To watch carefully the way something happens or the way someone does something.

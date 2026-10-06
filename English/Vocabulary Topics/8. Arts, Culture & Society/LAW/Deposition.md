@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Deposition
 *noun*
 > /ˌdepəˈzɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Deposition::Lời khai có tuyên thệ (ngoài tòa); chứng từ dưới dạng văn bản *(Phát âm: /ˌdepəˈzɪʃn/)* ![[deposition.mp3]]<br><br>👪 **Word Family:** depose (v), deponent (n)<br><br>💬 **Ví dụ:** The attorney took the witness's deposition before the trial.<br>*(-> Luật sư lấy lời khai có tuyên thệ của nhân chứng trước phiên tòa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Sworn testimony given by a witness outside court, recorded for later use in legal proceedings

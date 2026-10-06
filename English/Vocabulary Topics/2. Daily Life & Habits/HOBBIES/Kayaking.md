@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Kayaking
 *n.*
 > /ˈkaɪ.æk.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Kayaking::Môn thể thao chèo chiếc thuyền kayak nhỏ bằng mái chèo hai đầu *(Phát âm: /ˈkaɪ.æk.ɪŋ/)* ![[kayaking.mp3]]<br><br>👪 **Word Family:** kayak (n/v), kayaker (n)<br><br>💬 **Ví dụ:** During our summer trip to Ha Long Bay, we went kayaking through hidden sea caves.<br>*(-> Trong chuyến du lịch Vịnh Hạ Long mùa hè, chúng tôi đã chèo thuyền kayak qua những hang động biển bí ẩn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of traveling in a kayak, using a double-bladed paddle.

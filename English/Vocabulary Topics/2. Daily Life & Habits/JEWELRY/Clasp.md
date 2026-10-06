@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Clasp
 *noun*
 > /klɑːsp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Clasp::Cái móc, khóa gài *(Phát âm: /klɑːsp/)* ![[clasp.mp3]]<br><br>👪 **Word Family:** Clasped<br><br>💬 **Ví dụ:** The clasp broke.<br>*(-> Cái móc bị gãy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device for fastening jewelry.

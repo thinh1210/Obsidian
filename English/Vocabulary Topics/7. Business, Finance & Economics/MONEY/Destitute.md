@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Destitute
 *adjective*
 > /ˈdes.tɪ.tʃuːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Destitute::Nghèo đói cơ cực, khốn cùng *(Phát âm: /ˈdes.tɪ.tʃuːt/)* ![[destitute.mp3]]<br><br>👪 **Word Family:** destitution (n)<br><br>💬 **Ví dụ:** The charity provides food and shelter for destitute people.<br>*(-> Tổ chức từ thiện cung cấp thức ăn và chỗ ở cho những người khốn cùng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Without money, food, and other things necessary for life

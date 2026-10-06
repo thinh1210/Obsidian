@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Tax
 *Noun*
 > /tæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
+
+## 🗂️ Flashcard
+Tax::Thuế (tiền bạn phải trả cho chính phủ để chi trả cho các dịch vụ công) *(Phát âm: /tæks/)* ![[tax.mp3]]<br><br>👪 **Word Family:** Verb: tax (đánh thuế), Adj: taxable (phải chịu thuế), taxing (đòi hỏi nhiều cố gắng)<br><br>💬 **Ví dụ:** The price on the tag does not include sales tax.<br>*(-> Giá trên nhãn chưa bao gồm thuế bán hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money that you have to pay to the government so that it can pay for public services.

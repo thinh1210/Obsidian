@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Squander
 *Verb*
 > /ˈskwɒndə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Tư duy tài chính: Cần kiệm, Hoang phí & Khả năng chi trả
+
+## 🗂️ Flashcard
+Squander::Phung phí, lãng phí (tiêu phí tiền bạc một cách liều lĩnh và ngu ngốc) *(Phát âm: /ˈskwɒndə(r)/)* ![[squander.mp3]]<br><br>👪 **Word Family:** Noun: squanderer (người phung phí)<br><br>💬 **Ví dụ:** She squandered her entire inheritance on luxury vacations within months.<br>*(-> Cô ấy đã phung phí toàn bộ tài sản thừa kế của mình vào các kỳ nghỉ xa hoa trong vòng vài tháng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To waste money or time in a reckless and foolish manner.

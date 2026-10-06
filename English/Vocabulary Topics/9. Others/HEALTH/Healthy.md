@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Healthy
 *adj*
 > /ˈhelθi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Healthy::Khỏe mạnh, lành mạnh *(Phát âm: /ˈhelθi/)* ![[healthy.mp3]]<br><br>👪 **Word Family:** health (n), healthily (adv), unhealthiness (n)<br><br>💬 **Ví dụ:** Eating fresh fruit and vegetables is key to staying healthy.<br>*(-> Ăn trái cây và rau quả tươi là chìa khóa để giữ gìn sức khỏe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having strong health; not ill or damaged.

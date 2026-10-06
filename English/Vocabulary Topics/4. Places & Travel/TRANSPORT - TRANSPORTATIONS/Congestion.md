@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Congestion
 *noun*
 > /kənˈdʒestʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Congestion::Sự tắc nghẽn, đông nghịt *(Phát âm: /kənˈdʒestʃən/)* ![[congestion.mp3]]<br><br>👪 **Word Family:** Noun: congestion (sự tắc nghẽn), Verb: congest (gây tắc nghẽn), Adjective: congested (bị tắc nghẽn)<br><br>💬 **Ví dụ:** The new bypass is designed to ease traffic congestion in the town.<br>*(-> Tuyến đường tránh mới được thiết kế để giảm thiểu tắc nghẽn giao thông trong thị trấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being overcrowded with traffic or people.

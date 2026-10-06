@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Idol
 *n.*
 > /ˈaɪ.dəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Idol::Thần tượng, nhân vật được đông đảo mọi người tôn sùng, yêu mến sâu sắc *(Phát âm: /ˈaɪ.dəl/)* ![[idol.mp3]]<br><br>👪 **Word Family:** idolize (v), idolatry (n)<br><br>💬 **Ví dụ:** Posters of her favorite teenage music idol covered nearly every inch of her bedroom wall.<br>*(-> Áp phích về thần tượng âm nhạc tuổi teen yêu thích của cô phủ kín gần như từng góc tường phòng ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing that is greatly admired, loved, or revered.

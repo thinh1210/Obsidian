@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Inception
 *Noun*
 > /ɪnˈsep.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Inception::Sự khởi đầu, sự thành lập *(Phát âm: /ɪnˈsep.ʃən/)* ![[inception.mp3]]<br><br>👪 **Word Family:** Inceptive (adj)<br><br>💬 **Ví dụ:** The system has worked well since its inception last year.<br>*(-> Hệ thống đã hoạt động tốt kể từ khi được áp dụng vào năm ngoái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The establishment or starting point of an institution or activity.

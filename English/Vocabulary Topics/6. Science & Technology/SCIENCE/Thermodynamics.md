@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Thermodynamics
 *noun*
 > /ˌθɜː.məʊ.daɪˈnæm.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Thermodynamics::Nhiệt động lực học – nhánh vật lý liên quan đến mối quan hệ giữa nhiệt, công, nhiệt độ và năng lượng *(Phát âm: /ˌθɜː.məʊ.daɪˈnæm.ɪks/)* ![[thermodynamics.mp3]]<br><br>👪 **Word Family:** thermodynamic (adj), thermodynamically (adv), thermodynamicist (n)<br><br>💬 **Ví dụ:** The rules of thermodynamics explain why your coffee always cools down and never heats up by itself.<br>*(-> Các quy tắc nhiệt động lực học giải thích tại sao cà phê của bạn luôn nguội dần và không bao giờ tự nóng lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of physics concerned with the relationships between heat, work, temperature, and energy.

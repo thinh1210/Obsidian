@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Leftover
 *n.*
 > /ˈleftˌəʊ.vər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Leftover::Thức ăn thừa *(Phát âm: /ˈleftˌəʊ.vər/)* ![[leftover.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** We had leftovers for lunch.<br>*(-> Chúng tôi ăn đồ thừa cho bữa trưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Food remaining after a meal.

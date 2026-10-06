@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Never
 *adv.*
 > /ˈnev.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Never::Không bao giờ, chưa bao giờ, không khi nào *(Phát âm: /ˈnev.ər/)* ![[never.mp3]]<br><br>👪 **Word Family:** nevermore (adv)<br><br>💬 **Ví dụ:** I have never traveled to Australia, but visiting the Great Barrier Reef is on my bucket list.<br>*(-> Tôi chưa bao giờ đi du lịch Úc, nhưng ngắm rạn san hô Great Barrier nằm trong danh sách ước mơ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not ever; not at any time; not on any occasion.

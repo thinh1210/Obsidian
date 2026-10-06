@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Loss
 *n.*
 > /lɒs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Phá sản, Thói quen tài chính & Khủng hoảng tiền bạc
+
+## 🗂️ Flashcard
+Loss::Khoản thua lỗ tài chính trong kinh doanh hoặc đầu tư khi chi phí vượt quá doanh thu *(Phát âm: /lɒs/)* ![[loss.mp3]]<br><br>👪 **Word Family:** lose (v), loser (n), lost (adj)<br><br>💬 **Ví dụ:** Selling his old car in a hurry resulted in a substantial financial loss.<br>*(-> Bán chiếc xe cũ một cách vội vàng đã dẫn đến một khoản thua lỗ tài chính đáng kể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An amount of money lost by a business or in an investment when expenses exceed revenues.

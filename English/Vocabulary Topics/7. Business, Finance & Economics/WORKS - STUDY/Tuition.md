@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Tuition
 *n.*
 > /tʃuːˈɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Tuition::Học phí *(Phát âm: /tʃuːˈɪʃ.ən/)* ![[tuition.mp3]]<br><br>👪 **Word Family:** tutor<br><br>💬 **Ví dụ:** Tuition fees have increased by 5% this year.<br>*(-> Học phí đã tăng 5% trong năm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A sum of money charged for teaching by a school or university

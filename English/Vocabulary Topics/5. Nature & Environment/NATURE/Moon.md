@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Moon
 *Noun*
 > /muːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Moon::Mặt trăng *(Phát âm: /muːn/)* ![[moon.mp3]]<br><br>👪 **Word Family:** moonlight, moonless, moonbeam<br><br>💬 **Ví dụ:** Look at the beautiful full moon tonight!<br>*(-> Hãy nhìn mặt trăng tròn tuyệt đẹp tối nay kìa!)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural satellite of the earth, visible by night.

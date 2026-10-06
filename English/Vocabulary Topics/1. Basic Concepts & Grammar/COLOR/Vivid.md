@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Vivid
 *adj*
 > /ˈvɪv.ɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Vivid::Chói lọi, sặc sỡ, sống động *(Phát âm: /ˈvɪv.ɪd/)* ![[vivid.mp3]]<br><br>👪 **Word Family:** vividly (adv), vividness (n)<br><br>💬 **Ví dụ:** He had a vivid dream last night.<br>*(-> Anh ấy đã có một giấc mơ sống động đêm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Producing very clear, powerful, and detailed images in the mind; brightly colored.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Socratic
 *adjective*
 > /səˈkrætɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Triết lý giáo dục, Phương pháp sư phạm & Khai phóng
+
+## 🗂️ Flashcard
+Socratic::Thuộc phương pháp vấn đáp Socratic *(Phát âm: /səˈkrætɪk/)* ![[socratic.mp3]]<br><br>👪 **Word Family:** Socrates (n)<br><br>💬 **Ví dụ:** The law professor utilized the Socratic method, randomly calling on students to answer tough questions.<br>*(-> Giáo sư luật đã sử dụng phương pháp Socratic, gọi ngẫu nhiên sinh viên để trả lời các câu hỏi khó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to Socrates or his method of cooperative argumentative dialogue to stimulate critical thinking.

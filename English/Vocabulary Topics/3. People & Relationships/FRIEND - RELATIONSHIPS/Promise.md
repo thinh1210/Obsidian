@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Promise
 *n.*
 > /ˈprɒm.ɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Promise::Lời hứa, cam kết danh dự giữa bạn bè với nhau *(Phát âm: /ˈprɒm.ɪs/)* ![[promise.mp3]]<br><br>👪 **Word Family:** promising (adj), promise (v)<br><br>💬 **Ví dụ:** He made a sincere promise to assist his friend with moving into the new apartment on Saturday.<br>*(-> Anh đã hứa chân thành sẽ giúp bạn mình dọn sang căn hộ mới vào thứ Bảy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statement that you say you will certainly do something.

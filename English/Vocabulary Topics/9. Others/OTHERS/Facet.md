@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Facet
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - aspect, side, angle
+
+
+## 🗂️ Flashcard
+Facet::Khía cạnh, mặt (của đá quý) *(Phát âm: /ˈfæs.ɪt/)* ![[facet.mp3]]<br><br>👪 **Word Family:** [Noun]: facet, [Verb]: facet, [Adj]: faceted<br><br>💬 **Ví dụ:** We need to look at every facet of the problem before deciding.<br>*(-> Chúng ta cần xem xét mọi khía cạnh của vấn đề trước khi quyết định.)*

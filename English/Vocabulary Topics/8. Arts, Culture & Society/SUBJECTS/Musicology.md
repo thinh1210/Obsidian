@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Musicology
 *n.*
 > /ˌmjuː.zɪˈkɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Musicology::Âm nhạc học; khoa học nghiên cứu âm nhạc *(Phát âm: /ˌmjuː.zɪˈkɒl.ə.dʒi/)* ![[musicology.mp3]]<br><br>👪 **Word Family:** musicologist (n.), musicological (adj.)<br><br>💬 **Ví dụ:** She combines her love of jazz with her studies in musicology.<br>*(-> Cô ấy kết hợp tình yêu jazz của mình với việc học âm nhạc học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scholarly study of music as a branch of knowledge or field of study, as distinct from music theory or training in performance.

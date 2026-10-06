@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Repair
 *v./n.*
 > /rɪˈpeər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Repair::Sửa sang lại đồ vật hoặc kết cấu nhà ở bị hỏng hóc *(Phát âm: /rɪˈpeər/)* ![[repair.mp3]]<br><br>👪 **Word Family:** repairman (n), repairable (adj), irrepairable (adj)<br><br>💬 **Ví dụ:** The landlord promised to repair the leaking bathroom pipe immediately.<br>*(-> Chủ nhà đã hứa sẽ sửa ngay đường ống rò rỉ trong phòng tắm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To fix or restore something damaged or broken back to good condition.

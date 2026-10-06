@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Crime
 *noun*
 > /kraɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Crime::Tội phạm, tội ác (hành vi phạm tội) *(Phát âm: /kraɪm/)* ![[crime.mp3]]<br><br>👪 **Word Family:** Crime (n), Criminal (n/adj), Criminology (n)<br><br>💬 **Ví dụ:** Stealing a car is a serious crime that can lead to prison.<br>*(-> Trộm ô tô là một tội phạm nghiêm trọng có thể dẫn đến việc đi tù.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action or omission that constitutes an offense and is punishable by law.

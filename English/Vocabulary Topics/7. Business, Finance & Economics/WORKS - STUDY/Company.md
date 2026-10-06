@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Company
 *n.*
 > /ˈkʌm.pə.ni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Môi trường công sở, Dự án & Phát triển sự nghiệp
+
+## 🗂️ Flashcard
+Company::Công ty *(Phát âm: /ˈkʌm.pə.ni/)* ![[company.mp3]]<br><br>👪 **Word Family:** companion, accompany<br><br>💬 **Ví dụ:** He works for a technology company.<br>*(-> Anh ấy làm việc cho một công ty công nghệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An organization that sells goods or services to make money

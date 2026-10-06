@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Compatibility
 *noun*
 > /kəmˌpætəˈbɪləti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Compatibility::Sự tương thích *(Phát âm: /kəmˌpætəˈbɪləti/)* ![[compatibility.mp3]]<br><br>👪 **Word Family:** Compatible (adjective)<br><br>💬 **Ví dụ:** Compatibility is crucial for a lasting marriage.<br>*(-> Sự tương thích là yếu tố quan trọng cho một cuộc hôn nhân bền vững.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state in which two things are able to exist or occur together without problems or conflict.

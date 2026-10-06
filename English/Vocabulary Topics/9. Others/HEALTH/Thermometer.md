@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Thermometer
 *n.*
 > /θəˈmɒm.ɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Thermometer::Nhiệt kế đo thân nhiệt hoặc nhiệt độ môi trường *(Phát âm: /θəˈmɒm.ɪ.tər/)* ![[thermometer.mp3]]<br><br>👪 **Word Family:** thermal (adj), thermodynamics (n)<br><br>💬 **Ví dụ:** The mother placed the digital thermometer under her child's arm to check for a fever.<br>*(-> Người mẹ kẹp nhiệt kế điện tử vào nách con để kiểm tra xem bé có bị sốt không.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instrument used for measuring body temperature or ambient temperature.

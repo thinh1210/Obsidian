@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Profile
 *noun*
 > /ˈprəʊ.faɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Profile::Hồ sơ cá nhân, trang cá nhân *(Phát âm: /ˈprəʊ.faɪl/)* ![[profile.mp3]]<br><br>👪 **Word Family:** profile (n/v), profiling (n)<br><br>💬 **Ví dụ:** He updated his profile picture on social media.<br>*(-> Anh ấy cập nhật ảnh đại diện trên mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A personal page on a website or app that contains information about a user.

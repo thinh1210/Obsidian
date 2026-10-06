@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Red
 *adj, n*
 > /red/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Red::Màu đỏ *(Phát âm: /red/)* ![[red.mp3]]<br><br>👪 **Word Family:** redness (n), redden (v), reddish (adj)<br><br>💬 **Ví dụ:** I love your new red shoes.<br>*(-> Tôi thích đôi giày màu đỏ mới của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The color of blood, fire, or rubies.

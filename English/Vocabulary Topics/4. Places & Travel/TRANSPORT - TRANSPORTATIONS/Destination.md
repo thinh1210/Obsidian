@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Destination
 *noun*
 > /ˌdestɪˈneɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Destination::Điểm đến, đích đến *(Phát âm: /ˌdestɪˈneɪʃn/)* ![[destination.mp3]]<br><br>👪 **Word Family:** Noun: destination (điểm đến), destiny (vận mệnh)<br><br>💬 **Ví dụ:** We will reach our destination in about two hours.<br>*(-> Chúng tôi sẽ đạt tới điểm đến trong khoảng hai tiếng nữa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place to which someone or something is going or being sent.

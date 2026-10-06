@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Daily
 *adj, adv*
 > /ˈdeɪli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các ngày trong tuần & Khái niệm ngày
+
+## 🗂️ Flashcard
+Daily::Hằng ngày *(Phát âm: /ˈdeɪli/)* ![[daily.mp3]]<br><br>👪 **Word Family:** day (n)<br><br>💬 **Ví dụ:** Reading is my daily habit.<br>*(-> Đọc sách là thói quen hằng ngày của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Done, produced, or occurring every day or every weekday.

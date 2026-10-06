@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Crystal
 *noun*
 > /ˈkrɪs.təl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Crystal::Pha lê *(Phát âm: /ˈkrɪs.təl/)* ![[crystal.mp3]]<br><br>👪 **Word Family:** Crystalline<br><br>💬 **Ví dụ:** She wore crystals.<br>*(-> Cô ấy đeo pha lê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A clear, transparent mineral or glass.

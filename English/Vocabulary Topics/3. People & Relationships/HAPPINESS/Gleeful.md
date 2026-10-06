@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Gleeful
 *adj.*
 > /ˈɡliː.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Gleeful::Vui sướng, hân hoan (có chút đắc ý) *(Phát âm: /ˈɡliː.fəl/)* ![[gleeful.mp3]]<br><br>👪 **Word Family:** Glee (n)<br><br>💬 **Ví dụ:** He gave a gleeful laugh.<br>*(-> Anh ấy cười một cách hân hoan đắc ý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exuberantly or triumphantly joyful.

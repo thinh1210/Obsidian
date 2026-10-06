@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Geography
 *noun*
 > /dʒiˈɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Geography::Địa lý, địa lý học *(Phát âm: /dʒiˈɒɡrəfi/)* ![[geography.mp3]]<br><br>👪 **Word Family:** Geographical (adj.), Geographer (n.)<br><br>💬 **Ví dụ:** My favorite subject is geography.<br>*(-> Môn học yêu thích của tôi là địa lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the physical features of the earth and its atmosphere.

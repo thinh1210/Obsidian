@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # University
 *n.*
 > /ˌjuː.nɪˈvɜː.sə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+University::Trường đại học nơi sinh viên theo học lấy bằng cử nhân, thạc sĩ và nghiên cứu *(Phát âm: /ˌjuː.nɪˈvɜː.sə.ti/)* ![[university.mp3]]<br><br>👪 **Word Family:** universal (adj), universe (n)<br><br>💬 **Ví dụ:** She hopes to study architecture at university after graduating from high school.<br>*(-> Cô ấy hy vọng sẽ học ngành kiến trúc tại trường đại học sau khi tốt nghiệp cấp ba.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A high-level educational institution where students study for degrees and academic research is done.

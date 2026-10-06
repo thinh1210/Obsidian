@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Psychology
 *noun*
 > /saɪˈkɑː.lə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Psychology::Tâm lý học *(Phát âm: /saɪˈkɑː.lə.dʒi/)* ![[psychology.mp3]]<br><br>👪 **Word Family:** psychological (adj)<br><br>💬 **Ví dụ:** I am studying psychology.<br>*(-> Tôi đang học tâm lý học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The scientific study of the human mind and its functions.

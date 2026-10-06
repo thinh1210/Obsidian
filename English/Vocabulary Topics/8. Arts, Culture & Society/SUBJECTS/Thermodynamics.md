@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Thermodynamics
 *noun*
 > /ˌθɜːməʊdaɪˈnæmɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Thermodynamics::Nhiệt động lực học *(Phát âm: /ˌθɜːməʊdaɪˈnæmɪks/)* ![[thermodynamics.mp3]]<br><br>👪 **Word Family:** thermodynamic, thermodynamist<br><br>💬 **Ví dụ:** The laws of thermodynamics govern how engines operate.<br>*(-> Các định luật nhiệt động lực học chi phối cách các động cơ hoạt động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of physical science that deals with the relations between heat and other forms of energy.

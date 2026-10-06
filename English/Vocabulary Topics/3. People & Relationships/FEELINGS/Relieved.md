@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Relieved
 *adj*
 > /rɪˈliːvd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Relieved::Nhẹ nhõm *(Phát âm: /rɪˈliːvd/)* ![[relieved.mp3]]<br><br>👪 **Word Family:** relief (n), relieve (v)<br><br>💬 **Ví dụ:** I was relieved to hear you're safe.<br>*(-> Tôi nhẹ nhõm khi biết bạn an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** No longer feeling distressed or anxious.

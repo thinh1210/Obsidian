@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Man
 *n.*
 > /mæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Man::Đàn ông *(Phát âm: /mæn/)* ![[man.mp3]]<br><br>👪 **Word Family:** Manly<br><br>💬 **Ví dụ:** He is a good man.<br>*(-> Anh ấy là một người đàn ông tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An adult male human being.

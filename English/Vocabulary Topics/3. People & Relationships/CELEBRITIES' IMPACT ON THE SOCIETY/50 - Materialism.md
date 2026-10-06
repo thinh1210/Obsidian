@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Materialism
 *n.*
 > /məˈtɪə.ri.ə.lɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+50 - Materialism::Chủ nghĩa thực dụng, coi trọng vật chất *(Phát âm: /məˈtɪə.ri.ə.lɪ.zəm/)* ![[materialism.mp3]]<br><br>👪 **Word Family:** Materialistic (adj.)<br><br>💬 **Ví dụ:** Culture of materialism.<br>*(-> Văn hóa chuộng vật chất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A tendency to consider material possessions and physical comfort as more important than spiritual values.

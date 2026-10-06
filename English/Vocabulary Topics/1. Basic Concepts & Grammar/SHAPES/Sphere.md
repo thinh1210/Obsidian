@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Sphere
 *n.*
 > /sfɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Khối hình học không gian 3D
+
+## 🗂️ Flashcard
+Sphere::Hình cầu *(Phát âm: /sfɪər/)* ![[sphere.mp3]]<br><br>👪 **Word Family:** Spherical (adj)<br><br>💬 **Ví dụ:** A basketball is a sphere.<br>*(-> Quả bóng rổ là hình cầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A round solid figure, or its surface, with every point on its surface equidistant from its center.

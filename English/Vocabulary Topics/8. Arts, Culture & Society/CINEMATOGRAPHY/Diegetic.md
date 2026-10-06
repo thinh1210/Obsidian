@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Diegetic
 *adj.*
 > /ˌdaɪəˈdʒetɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Âm thanh trường quay, Nhạc nền & Hiệu ứng âm thanh
+
+## 🗂️ Flashcard
+Diegetic::Thuộc về thế giới trong phim, nội tự sự *(Phát âm: /ˌdaɪəˈdʒetɪk/)* ![[diegetic.mp3]]<br><br>👪 **Word Family:** diegesis, intradiegetic<br><br>💬 **Ví dụ:** The sound of the car engine is diegetic, as the driver hears it.<br>*(-> Tiếng động cơ ô tô là âm thanh trong phim, vì người lái xe nghe thấy nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Happening within the world of the story, so that the characters can experience it (especially sound)

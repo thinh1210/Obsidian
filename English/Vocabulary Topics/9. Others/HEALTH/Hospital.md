@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Hospital
 *n*
 > /ˈhɒspɪtl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Hospital::Bệnh viện *(Phát âm: /ˈhɒspɪtl/)* ![[hospital.mp3]]<br><br>👪 **Word Family:** hospitalize (v), hospitalization (n), hospitality (n - nghĩa khác)<br><br>💬 **Ví dụ:** She was rushed to the hospital after the car accident.<br>*(-> Cô ấy được đưa đi cấp cứu tại bệnh viện sau vụ tai nạn xe hơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large institution where people who are ill or injured are given medical treatment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Precipitation
 *noun*
 > /prɪˌsɪpɪˈteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Precipitation::Lượng mưa, giáng thủy *(Phát âm: /prɪˌsɪpɪˈteɪʃn/)* ![[precipitation.mp3]]<br><br>👪 **Word Family:** Precipitate (verb), precipitous (adj)<br><br>💬 **Ví dụ:** The desert receives very little annual precipitation.<br>*(-> Sa mạc nhận được rất ít lượng mưa hàng năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Rain, snow, sleet, or hail that falls to the ground

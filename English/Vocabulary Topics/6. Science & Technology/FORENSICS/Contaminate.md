@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Contaminate
 *verb*
 > /kənˈtæm.ɪ.neɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Contaminate::Làm ô nhiễm / làm nhiễm bẩn (bằng chứng, mẫu vật) *(Phát âm: /kənˈtæm.ɪ.neɪt/)* ![[contaminate.mp3]]<br><br>👪 **Word Family:** contamination (n), contaminated (adj), contaminant (n)<br><br>💬 **Ví dụ:** Don't contaminate the sample by touching it with bare hands.<br>*(-> Đừng làm nhiễm bẩn mẫu bằng cách chạm vào bằng tay trần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something impure or corrupt by introducing harmful or polluting substances.

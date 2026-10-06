@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Beach
 *n.*
 > /biːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLACES | **Phân nhóm:** Vùng ven biển, Cảng nước & Nghỉ dưỡng
+
+## 🗂️ Flashcard
+Beach::Bãi biển *(Phát âm: /biːtʃ/)* ![[beach.mp3]]<br><br>👪 **Word Family:** beachfront (n)<br><br>💬 **Ví dụ:** We built a sandcastle on the beach.<br>*(-> Chúng tôi xây lâu đài cát trên bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sandy shore by the ocean.

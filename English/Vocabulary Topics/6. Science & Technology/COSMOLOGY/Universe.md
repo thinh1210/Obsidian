@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Universe
 *Noun*
 > /ˈjuː.nɪ.vɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Universe::Vũ trụ *(Phát âm: /ˈjuː.nɪ.vɜːs/)* ![[universe.mp3]]<br><br>👪 **Word Family:** universal (adj), universally (adv), universality (n)<br><br>💬 **Ví dụ:** The universe is too big for us to understand.<br>*(-> Vũ trụ quá lớn để chúng ta có thể hiểu hết được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All existing matter and space considered as a whole; the cosmos.

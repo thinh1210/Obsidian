@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Remain
 *Verb*
 > /rɪˈmeɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Remain::Duy trì, còn lại *(Phát âm: /rɪˈmeɪn/)* ![[remain.mp3]]<br><br>👪 **Word Family:** Remainder (n), Remaining (adj)<br><br>💬 **Ví dụ:** Please remain seated.<br>*(-> Vui lòng ngồi yên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To stay in the same place or in the same condition.

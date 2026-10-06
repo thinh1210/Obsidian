@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Egg
 *n.*
 > /eɡ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Egg::Trứng *(Phát âm: /eɡ/)* ![[egg.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I had an egg for breakfast.<br>*(-> Tôi ăn trứng bữa sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An oval object laid by a female bird.

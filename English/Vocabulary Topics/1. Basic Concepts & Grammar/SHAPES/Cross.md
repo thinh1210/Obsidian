@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Cross
 *n.*
 > /krɒs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Cross::Hình chữ thập, dấu chéo *(Phát âm: /krɒs/)* ![[cross.mp3]]<br><br>👪 **Word Family:** Crosswise (adv)<br><br>💬 **Ví dụ:** Put a cross next to the wrong answer.<br>*(-> Đặt một dấu chéo bên cạnh câu trả lời sai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mark, object, or figure formed by two short intersecting lines or pieces.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Scrumptious
 *adj.*
 > /ˈskrʌmp.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Scrumptious::Ngon tuyệt *(Phát âm: /ˈskrʌmp.ʃəs/)* ![[scrumptious.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** That cake was scrumptious.<br>*(-> Cái bánh đó ngon tuyệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Tasting extremely good.

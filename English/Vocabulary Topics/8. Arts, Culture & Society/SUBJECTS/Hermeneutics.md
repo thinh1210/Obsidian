@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Hermeneutics
 *noun*
 > /ˌhɜːmɪˈnjuːtɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Hermeneutics::Thông diễn học *(Phát âm: /ˌhɜːmɪˈnjuːtɪks/)* ![[hermeneutics.mp3]]<br><br>👪 **Word Family:** hermeneutic, hermeneutical<br><br>💬 **Ví dụ:** Hermeneutics is essential when studying ancient religious manuscripts.<br>*(-> Thông diễn học là cần thiết khi nghiên cứu các bản thảo tôn giáo cổ đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of knowledge that deals with interpretation, especially of the Bible or literary texts.

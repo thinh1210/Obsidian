@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Cave
 *noun*
 > /keɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Khai quật di chỉ, Hiện vật & Dụng cụ khảo cổ
+
+## 🗂️ Flashcard
+Cave::Hang động *(Phát âm: /keɪv/)* ![[cave.mp3]]<br><br>👪 **Word Family:** cavern (noun)<br><br>💬 **Ví dụ:** We explored a dark cave yesterday.<br>*(-> Hôm qua chúng tôi đã khám phá một hang động tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large hole in the side of a hill or cliff, or under the ground

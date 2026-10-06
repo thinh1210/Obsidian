@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Weather
 *n.*
 > /ˈweðə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Weather::Thời tiết *(Phát âm: /ˈweðə(r)/)* ![[weather.mp3]]<br><br>👪 **Word Family:** weatherproof (adj)<br><br>💬 **Ví dụ:** The weather is nice today.<br>*(-> Thời tiết hôm nay rất đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.

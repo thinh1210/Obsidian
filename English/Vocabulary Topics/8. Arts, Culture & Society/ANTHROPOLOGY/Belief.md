@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Belief
 *n.*
 > /bɪˈliːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Belief::Niềm tin, tín ngưỡng *(Phát âm: /bɪˈliːf/)* ![[belief.mp3]]<br><br>👪 **Word Family:** believe, believable<br><br>💬 **Ví dụ:** It's my belief that honesty is the best policy.<br>*(-> Niềm tin của tôi là trung thực là chính sách tốt nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An acceptance that a statement is true or that something exists.

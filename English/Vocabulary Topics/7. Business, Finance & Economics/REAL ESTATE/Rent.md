@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Rent
 *v.*
 > /rent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Rent::Thuê (nhà, đất) *(Phát âm: /rent/)* ![[rent.mp3]]<br><br>👪 **Word Family:** rent (n), rental (n/adj), renter (n)<br><br>💬 **Ví dụ:** She wants to rent a small flat near her university.<br>*(-> Cô ấy muốn thuê một căn hộ nhỏ gần trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To pay someone for the use of something, typically property, land, or a car.

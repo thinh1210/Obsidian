@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # anvil
 *noun*
 > /ˈæn.vɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Dụng cụ cầm tay, Đồ mộc & Đinh ốc gia công
+
+## 🗂️ Flashcard
+Anvil::cái đe (để rèn sắt) *(Phát âm: /ˈæn.vɪl/)* ![[anvil.mp3]]<br><br>👪 **Word Family:** Noun: anvil (cái đe)<br><br>💬 **Ví dụ:** The blacksmith laid the red-hot iron on the anvil and began to shape it.<br>*(-> Người thợ rèn đặt miếng sắt đỏ rực lên đe và bắt đầu định hình nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a heavy iron block with a flat top and concave sides, on which metal can be hammered and shaped.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Balance
 *n., v.*
 > /ˈbæləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Balance::Sự cân bằng *(Phát âm: /ˈbæləns/)* ![[balance.mp3]]<br><br>👪 **Word Family:** balanced (adj.)<br><br>💬 **Ví dụ:** I try to keep my balance.<br>*(-> Tôi cố giữ thăng bằng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An even distribution of weight enabling someone or something to remain upright and steady.

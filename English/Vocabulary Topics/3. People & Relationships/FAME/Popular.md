@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Popular
 *adj.*
 > /ˈpɒpjələr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Popular::Phổ biến, được yêu thích *(Phát âm: /ˈpɒpjələr/)* ![[popular.mp3]]<br><br>👪 **Word Family:** popularity (n.)<br><br>💬 **Ví dụ:** This song is very popular.<br>*(-> Bài hát này rất phổ biến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Liked or admired by many people.

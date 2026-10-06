@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Truck
 *n.*
 > /trʌk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Truck::Phương tiện cơ giới lớn chuyên chở hàng hóa đường bộ *(Phát âm: /trʌk/)* ![[truck.mp3]]<br><br>👪 **Word Family:** trucker (n), trucking (n)<br><br>💬 **Ví dụ:** A large delivery truck was parked outside the grocery store.<br>*(-> Một chiếc xe tải giao hàng lớn đang đậu bên ngoài cửa hàng bách hóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, heavy road vehicle used for carrying goods, materials, or troops.

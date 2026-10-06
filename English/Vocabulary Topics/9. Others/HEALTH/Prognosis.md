@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Prognosis
 *n*
 > /prɒɡˈnəʊsɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Prognosis::Tiên lượng (y học), sự dự đoán *(Phát âm: /prɒɡˈnəʊsɪs/)* ![[prognosis.mp3]]<br><br>👪 **Word Family:** prognosticate (v), prognostic (adj)<br><br>💬 **Ví dụ:** Doctors say that the patient has a very good prognosis for recovery.<br>*(-> Các bác sĩ nói rằng bệnh nhân có tiên lượng phục hồi rất tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A forecast of the likely outcome of a situation, especially the course of a disease.

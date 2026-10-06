@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Play
 *verb*
 > /pleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Play::Chơi *(Phát âm: /pleɪ/)* ![[play.mp3]]<br><br>👪 **Word Family:** Playful (adj), Player (n)<br><br>💬 **Ví dụ:** The children play in the park.<br>*(-> Bọn trẻ chơi trong công viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Engage in activity for enjoyment.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Commit
 *verb*
 > /kəˈmɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Commit::Phạm (tội, sai lầm) *(Phát âm: /kəˈmɪt/)* ![[commit.mp3]]<br><br>👪 **Word Family:** commitment (n), committed (adj)<br><br>💬 **Ví dụ:** People who commit crimes should be punished.<br>*(-> Những người phạm tội nên bị trừng phạt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To do something illegal or something that is considered wrong

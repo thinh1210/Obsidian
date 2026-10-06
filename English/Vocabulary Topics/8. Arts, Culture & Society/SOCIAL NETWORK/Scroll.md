@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Scroll
 *verb*
 > /skrəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Xu hướng thịnh hành, Quyền riêng tư & Kiếm tiền số
+
+## 🗂️ Flashcard
+Scroll::Cuộn màn hình, lướt *(Phát âm: /skrəʊl/)* ![[scroll.mp3]]<br><br>👪 **Word Family:** scroll (n), scroller (n)<br><br>💬 **Ví dụ:** I was just scrolling through my Facebook feed when I saw your photo.<br>*(-> Tôi chỉ đang cuộn xem bảng tin Facebook thì thấy bức ảnh của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move text or graphics up, down, or across a computer screen or mobile device

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Root
 *noun*
 > /ruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Root::Rễ cây *(Phát âm: /ruːt/)* ![[root.mp3]]<br><br>👪 **Word Family:** rootless, rooted<br><br>💬 **Ví dụ:** Tree roots can damage pavements.<br>*(-> Rễ cây có thể làm hỏng mặt đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of a plant which attaches it to the ground or to a support, typically underground, conveying water and nourishment to the rest of the plant via numerous branches.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Floor
 *n.*
 > /flɔː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Floor::Tầng, sàn nhà *(Phát âm: /flɔː(r)/)* ![[floor.mp3]]<br><br>👪 **Word Family:** flooring (n), floorboard (n)<br><br>💬 **Ví dụ:** My apartment is on the third floor of the building.<br>*(-> Căn hộ của tôi nằm trên tầng ba của tòa nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The lower surface of a room, on which one stands in a building.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Television
 *Noun*
 > /ˈtel.ɪ.vɪʒ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Television::Ti vi, máy vô tuyến truyền hình *(Phát âm: /ˈtel.ɪ.vɪʒ.ən/)* ![[television.mp3]]<br><br>👪 **Word Family:** Televise (v)<br><br>💬 **Ví dụ:** We watched the football match on television.<br>*(-> Chúng tôi đã xem trận bóng đá trên ti vi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device shaped like a box with a screen that receives electrical signals and changes them into pictures and sounds.

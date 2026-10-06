@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Assignment
 *n.*
 > /əˈsaɪnmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Assignment::Bài tập, nhiệm vụ được giao *(Phát âm: /əˈsaɪnmənt/)* ![[assignment.mp3]]<br><br>👪 **Word Family:** assign<br><br>💬 **Ví dụ:** I have to finish my history assignment by tomorrow.<br>*(-> Tôi phải hoàn thành bài tập lịch sử của mình trước ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A task or piece of work allocated to someone as part of a course of study

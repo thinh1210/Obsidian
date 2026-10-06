@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Telescope
 *noun*
 > /ˈtel.ɪ.skəʊp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
+
+## 🗂️ Flashcard
+Telescope::Kính thiên văn *(Phát âm: /ˈtel.ɪ.skəʊp/)* ![[telescope.mp3]]<br><br>👪 **Word Family:** telescopic (adj)<br><br>💬 **Ví dụ:** I looked through the telescope and saw the rings of Saturn.<br>*(-> Tôi nhìn qua kính thiên văn và thấy các vành đai của Sao Thổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An optical instrument designed to make distant objects appear nearer.

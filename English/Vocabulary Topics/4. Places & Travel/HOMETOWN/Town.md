@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Town
 *n.*
 > /taʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Town::Thị trấn *(Phát âm: /taʊn/)* ![[town.mp3]]<br><br>👪 **Word Family:** Township (n.)<br><br>💬 **Ví dụ:** My town is very quiet.<br>*(-> Thị trấn của tôi rất yên tĩnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A populated area smaller than a city.

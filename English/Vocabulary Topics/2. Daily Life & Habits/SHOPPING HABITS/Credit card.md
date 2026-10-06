@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Credit card
 *n.*
 > /ˈkred.ɪt ˌkɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Credit card::Thẻ tín dụng ngân hàng dùng để chi tiêu trước trả tiền sau *(Phát âm: /ˈkred.ɪt ˌkɑːd/)* ![[credit_card.mp3]]<br><br>👪 **Word Family:** credit (n/v)<br><br>💬 **Ví dụ:** Do you accept payment by credit card, or must I pay with cash?<br>*(-> Quán có nhận thanh toán bằng thẻ tín dụng không, hay tôi phải trả bằng tiền mặt?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small plastic card that can be used as a method of payment, the money being taken from you at a later time.

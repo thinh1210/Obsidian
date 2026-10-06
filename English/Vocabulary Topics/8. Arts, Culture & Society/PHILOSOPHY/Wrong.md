@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Wrong
 *adj.*
 > /rɒŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Wrong::Sai trái, không đúng *(Phát âm: /rɒŋ/)* ![[wrong.mp3]]<br><br>👪 **Word Family:** wrongly, wrongdoer<br><br>💬 **Ví dụ:** It is wrong to steal someone's property.<br>*(-> Ăn trộm tài sản của ai đó là sai trái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not correct or true; incorrect.

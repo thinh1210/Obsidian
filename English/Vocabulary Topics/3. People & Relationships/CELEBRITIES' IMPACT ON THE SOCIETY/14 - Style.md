@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Style
 *n.*
 > /staɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+14 - Style::Phong cách *(Phát âm: /staɪl/)* ![[style.mp3]]<br><br>👪 **Word Family:** Stylish (adj.)<br><br>💬 **Ví dụ:** I like your style.<br>*(-> Tôi thích phong cách của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular way of doing, designing, or producing.

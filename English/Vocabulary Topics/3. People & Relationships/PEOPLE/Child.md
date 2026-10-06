@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Child
 *n.*
 > /tʃaɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Child::Trẻ em, đứa trẻ *(Phát âm: /tʃaɪld/)* ![[child.mp3]]<br><br>👪 **Word Family:** Children, Childhood<br><br>💬 **Ví dụ:** The child is playing.<br>*(-> Đứa trẻ đang chơi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A young human being below the age of puberty.

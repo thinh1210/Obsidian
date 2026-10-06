@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Compound
 *noun*
 > /ˈkɒm.paʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Compound::Hợp chất *(Phát âm: /ˈkɒm.paʊnd/)* ![[compound.mp3]]<br><br>👪 **Word Family:** compound (v), compounded (adj)<br><br>💬 **Ví dụ:** Water is a compound containing hydrogen and oxygen.<br>*(-> Nước là một hợp chất chứa hydro và oxy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance formed when two or more chemical elements are chemically bonded together.

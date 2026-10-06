@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Producer
 *n.*
 > /prəˈdjuːsə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Producer::Nhà sản xuất *(Phát âm: /prəˈdjuːsə(r)/)* ![[producer.mp3]]<br><br>👪 **Word Family:** produce, production, productive<br><br>💬 **Ví dụ:** The producer secured funding for the new project.<br>*(-> Nhà sản xuất đã đảm bảo được nguồn vốn cho dự án mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person responsible for the financial and administrative aspects of a stage, film, television, or radio program

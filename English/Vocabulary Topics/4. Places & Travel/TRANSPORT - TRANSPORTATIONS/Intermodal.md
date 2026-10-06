@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Intermodal
 *adjective*
 > /ˌɪntərˈmoʊdl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Intermodal::Đa phương thức (vận tải liên kết nhiều phương tiện) *(Phát âm: /ˌɪntərˈmoʊdl/)* ![[intermodal.mp3]]<br><br>👪 **Word Family:** Adjective: intermodal (đa phương thức), Noun: intermodality (tính đa phương thức)<br><br>💬 **Ví dụ:** The company uses intermodal transport to combine rail and truck delivery.<br>*(-> Công ty sử dụng vận tải đa phương thức để kết hợp giao hàng bằng đường sắt và xe tải.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Involving two or more different modes of transportation in conveying goods or passengers.

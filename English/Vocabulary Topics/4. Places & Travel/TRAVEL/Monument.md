@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Monument
 *n.*
 > /ˈmɒnjumənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
+
+## 🗂️ Flashcard
+Monument::Công trình kiến trúc hoặc bia tượng xây dựng để ghi nhớ danh nhân hay sự kiện lịch sử *(Phát âm: /ˈmɒnjumənt/)* ![[monument.mp3]]<br><br>👪 **Word Family:** monumental (adj)<br><br>💬 **Ví dụ:** Thousands of tourists snap photos around the Washington Monument every afternoon.<br>*(-> Hàng ngàn du khách chụp ảnh quanh Đài tưởng niệm Washington mỗi buổi chiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue, building, or other structure erected to commemorate a notable person or event.

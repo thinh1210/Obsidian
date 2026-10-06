@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Buy
 *verb*
 > /baɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Buy::Mua *(Phát âm: /baɪ/)* ![[buy.mp3]]<br><br>👪 **Word Family:** buyer (noun)<br><br>💬 **Ví dụ:** I need to buy some milk from the grocery store.<br>*(-> Tôi cần mua một ít sữa từ cửa hàng tạp hóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To obtain in exchange for payment.

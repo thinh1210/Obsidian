@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Team
 *n.*
 > /tiːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Team::Đội, nhóm *(Phát âm: /tiːm/)* ![[team.mp3]]<br><br>👪 **Word Family:** teammate, teamwork<br><br>💬 **Ví dụ:** We need to work as a team to win this game.<br>*(-> Chúng ta cần làm việc như một đội để thắng trò chơi này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A group of workers forming a collaborative unit

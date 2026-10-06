@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Volunteer
 *n.*
 > /ˌvɒl.ənˈtɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Volunteer::Tình nguyện viên, người xung phong giúp đỡ cộng đồng mà không đòi hỏi thù lao *(Phát âm: /ˌvɒl.ənˈtɪər/)* ![[volunteer.mp3]]<br><br>👪 **Word Family:** voluntary (adj), voluntarily (adv), volunteer (v)<br><br>💬 **Ví dụ:** Dozens of young volunteers spent the weekend cleaning up plastic litter along the canal.<br>*(-> Hàng chục tình nguyện viên trẻ đã dành ngày cuối tuần dọn sạch rác nhựa dọc theo con kênh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who does something, especially helping other people, willingly and without being forced or paid to do it.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Elated
 *adj*
 > /ɪˈleɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Elated::Phấn chấn, hoan hỉ *(Phát âm: /ɪˈleɪtɪd/)* ![[elated.mp3]]<br><br>👪 **Word Family:** elation (n)<br><br>💬 **Ví dụ:** She felt elated after the promotion.<br>*(-> Cô ấy phấn chấn sau khi được thăng chức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (someone) ecstatically happy.

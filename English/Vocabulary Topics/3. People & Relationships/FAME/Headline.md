@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Headline
 *n.*
 > /ˈhedlaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Headline::Tiêu đề *(Phát âm: /ˈhedlaɪn/)* ![[headline.mp3]]<br><br>👪 **Word Family:** headline (v.)<br><br>💬 **Ví dụ:** The story made the headlines.<br>*(-> Câu chuyện đã lên trang nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A heading at the top of an article or page in a newspaper or magazine.

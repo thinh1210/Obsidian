@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Parallel
 *adj.*
 > /ˈpær.ə.lel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Parallel::Song song *(Phát âm: /ˈpær.ə.lel/)* ![[parallel.mp3]]<br><br>👪 **Word Family:** Parallelism (n)<br><br>💬 **Ví dụ:** The train tracks are parallel.<br>*(-> Đường ray xe lửa song song nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lines, planes, surfaces, or objects side by side and having the same distance continuously between them.

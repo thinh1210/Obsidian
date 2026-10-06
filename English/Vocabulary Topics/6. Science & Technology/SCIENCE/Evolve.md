@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Evolve
 *verb*
 > /ɪˈvɒlv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Evolve::Tiến hóa – phát triển dần dần, đặc biệt từ dạng đơn giản đến phức tạp hơn theo thời gian *(Phát âm: /ɪˈvɒlv/)* ![[evolve.mp3]]<br><br>👪 **Word Family:** evolution (n), evolutionary (adj), evolutionarily (adv), evolvement (n)<br><br>💬 **Ví dụ:** Smartphones have evolved dramatically over the past 15 years.<br>*(-> Điện thoại thông minh đã tiến hóa mạnh mẽ trong 15 năm qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To develop gradually, especially from simple to more complex forms over time.

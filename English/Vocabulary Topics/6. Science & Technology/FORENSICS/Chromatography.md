@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Chromatography
 *noun*
 > /ˌkrəʊ.məˈtɒɡ.rə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Chromatography::Sắc ký – kỹ thuật phòng thí nghiệm phân tách hỗn hợp thành các thành phần, dùng trong pháp y để phân tích chất *(Phát âm: /ˌkrəʊ.məˈtɒɡ.rə.fi/)* ![[chromatography.mp3]]<br><br>👪 **Word Family:** chromatograph (n/v), chromatographic (adj), chromatogram (n)<br><br>💬 **Ví dụ:** Students used chromatography to separate the colours in different felt-tip pens.<br>*(-> Học sinh dùng sắc ký để tách các màu sắc trong các bút dạ khác nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A laboratory technique for separating mixtures into their components based on their movement through a medium.

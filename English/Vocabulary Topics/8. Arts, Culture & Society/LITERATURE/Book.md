@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Book
 *noun*
 > /bʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Book::Sách *(Phát âm: /bʊk/)* ![[book.mp3]]<br><br>👪 **Word Family:** bookseller (n), bookshop (n), booklet (n), bookish (adj)<br><br>💬 **Ví dụ:** I like reading a book before going to sleep.<br>*(-> Tôi thích đọc một cuốn sách trước khi đi ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written or printed work consisting of pages glued or sewn together along one side and bound in covers.

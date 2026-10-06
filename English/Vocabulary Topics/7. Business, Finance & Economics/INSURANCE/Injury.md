@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Injury
 *n.*
 > /ˈɪndʒəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Injury::Thương tích, chấn thương *(Phát âm: /ˈɪndʒəri/)* ![[injury.mp3]]<br><br>👪 **Word Family:** injure, injured, injurious<br><br>💬 **Ví dụ:** His health insurance covered the treatment of his leg injury.<br>*(-> Bảo hiểm y tế của anh ấy đã chi trả cho việc điều trị chấn thương chân của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An instance of being injured; physical harm or damage to someone's body.

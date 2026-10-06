@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # incubation
 *n.*
 > /ˌɪn.kjəˈbeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Incubation::Thời kỳ ấp ủ (ý tưởng, kế hoạch), sự ủ bệnh *(Phát âm: /ˌɪn.kjəˈbeɪ.ʃən/)* ![[incubation.mp3]]<br><br>👪 **Word Family:** incubate (v), incubator (n)<br><br>💬 **Ví dụ:** The design went through a long incubation period before production.<br>*(-> Thiết kế đã trải qua một thời gian dài ấp ủ trước khi đưa vào sản xuất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of developing an idea, plan, or invention over time before making it public

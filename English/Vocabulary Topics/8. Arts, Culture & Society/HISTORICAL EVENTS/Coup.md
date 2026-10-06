@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Coup
 *noun*
 > /kuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Coup::Cuộc đảo chính *(Phát âm: /kuː/)* ![[coup.mp3]]<br><br>👪 **Word Family:** coup (noun)<br><br>💬 **Ví dụ:** The board of directors staged a coup and ousted the CEO.<br>*(-> Ban giám đốc đã tiến hành một cuộc đảo chính nội bộ và trục xuất vị CEO.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden, violent, and illegal seizure of power from a government.

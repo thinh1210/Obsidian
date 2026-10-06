@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Library
 *noun*
 > /ˈlaɪ.brər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Library::Thư viện *(Phát âm: /ˈlaɪ.brər.i/)* ![[library.mp3]]<br><br>👪 **Word Family:** librarian (n), librarianship (n)<br><br>💬 **Ví dụ:** I go to the library every weekend to study.<br>*(-> Tôi đến thư viện mỗi cuối tuần để học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or room containing collections of books for reading or borrowing.

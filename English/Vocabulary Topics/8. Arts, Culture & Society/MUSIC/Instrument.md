@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Instrument
 *n.*
 > /ˈɪn.strə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Instrument::Nhạc cụ, công cụ *(Phát âm: /ˈɪn.strə.mənt/)* ![[instrument.mp3]]<br><br>👪 **Word Family:** instrumental (adj), instrumentation (n)<br><br>💬 **Ví dụ:** The violin is a difficult instrument to master.<br>*(-> Đàn vĩ cầm là một nhạc cụ khó để làm chủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or device for producing musical sounds.

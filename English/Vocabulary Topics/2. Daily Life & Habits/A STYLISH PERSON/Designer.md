@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Designer
 *n., adj.*
 > /dɪˈzaɪnər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Phong cách & Xu hướng thời trang
+
+## 🗂️ Flashcard
+Designer::Nhà thiết kế; đồ hiệu *(Phát âm: /dɪˈzaɪnər/)* ![[designer.mp3]]<br><br>👪 **Word Family:** Design (v, n)<br><br>💬 **Ví dụ:** She spent a lot of money on designer shoes.<br>*(-> Cô ấy đã tiêu rất nhiều tiền cho những đôi giày hàng hiệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who designs clothes; made by a well-known designer.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Mind
 *n.*
 > /maɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Mind::Tâm trí, trí tuệ, tâm hồn *(Phát âm: /maɪnd/)* ![[mind.mp3]]<br><br>👪 **Word Family:** minded, mindful<br><br>💬 **Ví dụ:** She has a very creative mind.<br>*(-> Cô ấy có một tâm trí rất sáng tạo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The element of a person that enables them to be aware of the world and their experiences.

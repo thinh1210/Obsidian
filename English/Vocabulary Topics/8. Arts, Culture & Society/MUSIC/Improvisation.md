@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Improvisation
 *n.*
 > /ˌɪm.prə.vaɪˈzeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Dàn nhạc giao hưởng, Hòa âm & Nhà soạn nhạc
+
+## 🗂️ Flashcard
+Improvisation::Sự ứng biến, sự ngẫu hứng (trong biểu diễn) *(Phát âm: /ˌɪm.prə.vaɪˈzeɪ.ʃən/)* ![[improvisation.mp3]]<br><br>👪 **Word Family:** improvise (v), improvisational (adj)<br><br>💬 **Ví dụ:** Jazz music is famous for its emphasis on live improvisation.<br>*(-> Nhạc jazz nổi tiếng với việc nhấn mạnh vào sự ngẫu hứng trực tiếp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity of making or doing something not planned beforehand, especially in music or drama.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Mitigate
 *v.*
 > /ˈmɪtɪɡeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Giám định tổn thất, Khấu trừ & Trách nhiệm pháp lý
+
+## 🗂️ Flashcard
+Mitigate::Giảm thiểu, làm nhẹ *(Phát âm: /ˈmɪtɪɡeɪt/)* ![[mitigate.mp3]]<br><br>👪 **Word Family:** mitigation, mitigator, mitigative<br><br>💬 **Ví dụ:** Installing smoke alarms can help mitigate the risk of fire damage.<br>*(-> Việc lắp đặt chuông báo khói có thể giúp giảm thiểu rủi ro thiệt hại do hỏa hoạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make less severe, serious, or painful; lessen the gravity of (an offense or mistake).

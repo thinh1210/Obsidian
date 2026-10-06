@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Geography
 *noun*
 > /dʒiˈɒɡrəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Geography::Địa lý, môn Địa lý *(Phát âm: /dʒiˈɒɡrəfi/)* ![[geography.mp3]]<br><br>👪 **Word Family:** geographer, geographical<br><br>💬 **Ví dụ:** We learned about volcanic eruptions in geography class.<br>*(-> Chúng tôi đã học về phun trào núi lửa trong giờ địa lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the physical features of the earth and its atmosphere, and of human activity as it affects and is affected by these.

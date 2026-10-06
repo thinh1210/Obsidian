@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Clean
 *adj.*
 > /kliːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Clean::Sạch, sạch sẽ *(Phát âm: /kliːn/)* ![[clean.mp3]]<br><br>👪 **Word Family:** cleanliness (n), cleanse (v), cleanly (adv)<br><br>💬 **Ví dụ:** Keep your hands clean before eating.<br>*(-> Giữ tay sạch sẽ trước khi ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Free from dirt, marks, or stains.

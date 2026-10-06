@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Sprout
 *verb*
 > /spraʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Bộ phận của cây, Cấu trúc & Hạt giống
+
+## 🗂️ Flashcard
+Sprout::Nảy mầm, đâm chồi *(Phát âm: /spraʊt/)* ![[sprout.mp3]]<br><br>👪 **Word Family:** Noun: sprout (mầm cây, giá đỗ), Verb: sprout (nảy mầm)<br><br>💬 **Ví dụ:** The beans I planted last week have already started to sprout.<br>*(-> Những hạt đậu tôi trồng tuần trước đã bắt đầu nảy mầm rồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To produce buds, branches, or germinates; to begin to grow.

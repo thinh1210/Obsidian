@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Itinerary
 *Noun*
 > /aɪˈtɪn.ə.rer.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Lưu trú, Dẫn đường & Cẩm nang
+
+## 🗂️ Flashcard
+Itinerary::Lịch trình chuyến đi *(Phát âm: /aɪˈtɪn.ə.rer.i/)* ![[itinerary.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Let me check our itinerary for tomorrow.<br>*(-> Để tôi kiểm tra lịch trình của chúng ta cho ngày mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A detailed plan or route of a journey.

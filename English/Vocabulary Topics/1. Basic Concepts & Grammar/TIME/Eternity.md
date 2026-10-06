@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Eternity
 *n.*
 > /ɪˈtɜː.nə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Eternity::Sự vĩnh cửu, muôn đời bất tận; thời gian dài đằng đẵng dường như vô tận *(Phát âm: /ɪˈtɜː.nə.ti/)* ![[eternity.mp3]]<br><br>👪 **Word Family:** eternal (adj), eternally (adv)<br><br>💬 **Ví dụ:** Standing in the rain waiting for the delayed bus felt like an absolute eternity.<br>*(-> Đứng dưới mưa chờ chuyến xe buýt bị hoãn có cảm giác dài đằng đẵng như cả một thế kỷ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Time without end, or state to which people pass after death; an apparently endless period of time.

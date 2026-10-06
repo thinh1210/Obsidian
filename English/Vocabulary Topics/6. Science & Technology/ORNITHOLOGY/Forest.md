@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Forest
 *noun*
 > /ˈfɒr.ɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Môi trường sống, Bầy đàn & Tập tính di cư
+
+## 🗂️ Flashcard
+Forest::Rừng *(Phát âm: /ˈfɒr.ɪst/)* ![[forest.mp3]]<br><br>👪 **Word Family:** forest (n), forestry (n), deforest (v)<br><br>💬 **Ví dụ:** We went hiking in the forest to watch different birds.<br>*(-> Chúng tôi đã đi bộ trong rừng để ngắm nhìn những loài chim khác nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large area of land covered with trees and plants.

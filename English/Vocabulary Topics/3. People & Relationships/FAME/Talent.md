@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Talent
 *n.*
 > /ˈtælənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Talent::Tài năng *(Phát âm: /ˈtælənt/)* ![[talent.mp3]]<br><br>👪 **Word Family:** talented (adj.)<br><br>💬 **Ví dụ:** She has a talent for singing.<br>*(-> Cô ấy có tài năng ca hát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Natural ability or skill.

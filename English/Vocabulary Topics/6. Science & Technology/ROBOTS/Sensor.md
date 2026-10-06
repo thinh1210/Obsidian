@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Sensor
 *noun.*
 > /ˈsen.sɚ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Sensor::Cảm biến *(Phát âm: /ˈsen.sɚ/)* ![[sensor.mp3]]<br><br>👪 **Word Family:** sensory (adj), sense (verb/noun)<br><br>💬 **Ví dụ:** The robot has a sensor to detect walls and avoid them.<br>*(-> Robot có một cảm biến để phát hiện các bức tường và tránh chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that records physical data (such as heat, light, or pressure) and responds to it

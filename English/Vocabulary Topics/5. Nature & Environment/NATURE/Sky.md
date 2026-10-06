@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Sky
 *Noun*
 > /skaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Sky::Bầu trời *(Phát âm: /skaɪ/)* ![[sky.mp3]]<br><br>👪 **Word Family:** skylight, skyline, skyward<br><br>💬 **Ví dụ:** The sky is blue and cloudless today.<br>*(-> Bầu trời hôm nay màu xanh và không một bóng mây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The region of the atmosphere and outer space seen from the earth.

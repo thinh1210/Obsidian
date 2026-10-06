@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Program
 *verb.*
 > /ˈproʊ.ɡræm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Program::Lập trình, cài đặt chương trình *(Phát âm: /ˈproʊ.ɡræm/)* ![[program.mp3]]<br><br>👪 **Word Family:** programming (noun), programmer (noun)<br><br>💬 **Ví dụ:** I learned how to program a robot to turn around.<br>*(-> Tôi đã học cách lập trình một con robot để nó quay đầu lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To write instructions for a computer or machine to make it perform a task

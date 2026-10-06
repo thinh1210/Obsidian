@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Geology
 *noun*
 > /dʒiˈɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Geology::Địa chất học *(Phát âm: /dʒiˈɒlədʒi/)* ![[geology.mp3]]<br><br>👪 **Word Family:** geologist, geological<br><br>💬 **Ví dụ:** Geology tells us how mountains were formed millions of years ago.<br>*(-> Địa chất học cho chúng ta biết các ngọn núi đã được hình thành như thế nào từ hàng triệu năm trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The science that deals with the earth's physical structure and substance, its history, and the processes that act on it.

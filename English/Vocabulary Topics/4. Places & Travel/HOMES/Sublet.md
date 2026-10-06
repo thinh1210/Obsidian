@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Sublet
 *verb*
 > /ˈsʌblɛt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Sublet::Cho thuê lại *(Phát âm: /ˈsʌblɛt/)* ![[sublet.mp3]]<br><br>👪 **Word Family:** subtenant (n)<br><br>💬 **Ví dụ:** She sublet her room for the summer.<br>*(-> Cô ấy cho thuê lại phòng vào mùa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lease (a property) to a subtenant.
@@ -34,4 +44,4 @@
 - subtenant (n)
 
 **Synonyms:** sublease
-**Antonyms:** 
+**Antonyms:**

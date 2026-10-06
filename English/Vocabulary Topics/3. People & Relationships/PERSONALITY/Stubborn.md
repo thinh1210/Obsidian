@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Stubborn
 *adj.*
 > /ˈstʌb.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách xấu, Tiêu cực & Thói hư tật xấu
+
+## 🗂️ Flashcard
+Stubborn::Bướng bỉnh, cứng đầu, ngoan cố không chịu nghe ai *(Phát âm: /ˈstʌb.ən/)* ![[stubborn.mp3]]<br><br>👪 **Word Family:** stubbornness (n), stubbornly (adv)<br><br>💬 **Ví dụ:** He is too stubborn to admit that he took the wrong highway exit.<br>*(-> Anh ta quá cứng đầu đến mức không chịu thừa nhận mình đã đi nhầm lối rẽ cao tốc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Determined not to change your opinion or attitude.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Congestion
 *n.*
 > /kənˈdʒestʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Congestion::Sự tắc nghẽn *(Phát âm: /kənˈdʒestʃən/)* ![[congestion.mp3]]<br><br>👪 **Word Family:** Congested (adj.)<br><br>💬 **Ví dụ:** Traffic congestion is a huge issue here.<br>*(-> Tắc nghẽn giao thông là một vấn đề lớn ở đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being congested (e.g., with traffic).

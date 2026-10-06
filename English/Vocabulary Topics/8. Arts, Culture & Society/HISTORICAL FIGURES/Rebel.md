@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Rebel
 *n.*
 > /ˈrebl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Rebel::Kẻ nổi loạn, người khởi nghĩa *(Phát âm: /ˈrebl/)* ![[rebel.mp3]]<br><br>👪 **Word Family:** rebellion, rebellious, rebel (v)<br><br>💬 **Ví dụ:** The rebels hid in the mountains to plan their next attack.<br>*(-> Những kẻ nổi loạn trốn trên núi để lên kế hoạch cho cuộc tấn công tiếp theo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who rises in opposition or armed resistance against an established government or ruler

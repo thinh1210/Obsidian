@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Monogamy
 *noun*
 > /məˈnɒɡəmi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Monogamy::Chế độ một vợ một chồng *(Phát âm: /məˈnɒɡəmi/)* ![[monogamy.mp3]]<br><br>👪 **Word Family:** Monogamous (adjective)<br><br>💬 **Ví dụ:** Monogamy is standard in many cultures.<br>*(-> Chế độ một vợ một chồng là chuẩn mực ở nhiều nền văn hóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice or state of being married to, or having a sexual relationship with, only one person at a time.

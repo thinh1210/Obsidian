@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Skeptic
 *n.*
 > /ˈskep.tɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Hiện sinh, Hoài nghi luận & Các trường phái triết học
+
+## 🗂️ Flashcard
+Skeptic::Người hoài nghi *(Phát âm: /ˈskep.tɪk/)* ![[skeptic.mp3]]<br><br>👪 **Word Family:** skepticism, skeptical, skeptically<br><br>💬 **Ví dụ:** I am a skeptic when it comes to quick weight loss pills.<br>*(-> Tôi là một người hoài nghi đối với những viên thuốc giảm cân nhanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person inclined to question or doubt all accepted opinions.

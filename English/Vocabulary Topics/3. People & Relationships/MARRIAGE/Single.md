@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Single
 *adjective*
 > /ˈsɪŋɡl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Single::Độc thân *(Phát âm: /ˈsɪŋɡl/)* ![[single.mp3]]<br><br>👪 **Word Family:** Singleness (noun)<br><br>💬 **Ví dụ:** He enjoys being single.<br>*(-> Anh ấy thích việc độc thân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unmarried or not involved in a stable romantic relationship.

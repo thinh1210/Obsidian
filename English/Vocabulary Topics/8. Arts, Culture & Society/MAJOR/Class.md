@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Class
 *n.*
 > /klɑːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Class::Lớp học, buổi học *(Phát âm: /klɑːs/)* ![[class.mp3]]<br><br>👪 **Word Family:** class (n), classify (v), classic (adj/n)<br><br>💬 **Ví dụ:** Our class has twenty students.<br>*(-> Lớp của chúng tôi có hai mươi học sinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of students taught together; a lesson.

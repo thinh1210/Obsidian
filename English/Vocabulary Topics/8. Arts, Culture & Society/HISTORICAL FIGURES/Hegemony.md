@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Hegemony
 *n.*
 > /hɪˈdʒeməni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Bối cảnh thuộc địa, Sự thống trị & Khảo cứu sử liệu
+
+## 🗂️ Flashcard
+Hegemony::Quyền bá chủ *(Phát âm: /hɪˈdʒeməni/)* ![[hegemony.mp3]]<br><br>👪 **Word Family:** hegemon, hegemonic<br><br>💬 **Ví dụ:** The superpower sought to expand its global hegemony.<br>*(-> Siêu cường tìm cách mở rộng quyền bá chủ toàn cầu của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Leadership or dominance, especially by one country or social group over others

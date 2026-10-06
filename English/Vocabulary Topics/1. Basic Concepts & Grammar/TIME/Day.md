@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Day
 *n.*
 > /deɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Day::Ngày *(Phát âm: /deɪ/)* ![[day.mp3]]<br><br>👪 **Word Family:** daily (adj.)<br><br>💬 **Ví dụ:** What day is it today?<br>*(-> Hôm nay là ngày mấy?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 24 hours

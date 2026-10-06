@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Remember
 *v.*
 > /rɪˈmem.bər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Remember::Ghi nhớ, nhớ lại điều đã qua; nhớ làm việc gì đó trong tương lai *(Phát âm: /rɪˈmem.bər/)* ![[remember.mp3]]<br><br>👪 **Word Family:** remembrance (n)<br><br>💬 **Ví dụ:** Please remember to lock the front door and switch off the kitchen lights before leaving.<br>*(-> Xin hãy nhớ khóa cửa chính và tắt đèn nhà bếp trước khi rời đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To bring back into one's mind an awareness of someone or something from the past; not to forget.

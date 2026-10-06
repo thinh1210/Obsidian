@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Idiom
 *n.*
 > /ˈɪdiəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Idiom::Thành ngữ *(Phát âm: /ˈɪdiəm/)* ![[idiom.mp3]]<br><br>👪 **Word Family:** idiomatic, idiomaticity<br><br>💬 **Ví dụ:** 'Bite the bullet' is a common English idiom.<br>*(-> 'Bite the bullet' là một thành ngữ tiếng Anh phổ biến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of words established by usage as having a meaning not deducible from those of the individual words

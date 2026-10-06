@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Whistleblower
 *n.*
 > /ˈwɪs.əl.bləʊ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Whistleblower::Người tố giác sai phạm, kẻ thổi còi báo động *(Phát âm: /ˈwɪs.əl.bləʊ.ər/)* ![[whistleblower.mp3]]<br><br>👪 **Word Family:** whistleblowing (n), whistleblow (v)<br><br>💬 **Ví dụ:** The whistleblower revealed illegal dumping by the chemical company.<br>*(-> Người tố giác đã tiết lộ vụ đổ thải bất hợp pháp của công ty hóa chất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who exposes illegal or illicit activities within an organization

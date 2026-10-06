@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Witness
 *noun/verb*
 > /ˈwɪt.nəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Witness::Nhân chứng, chứng kiến *(Phát âm: /ˈwɪt.nəs/)* ![[witness.mp3]]<br><br>👪 **Word Family:** Witness (n/v)<br><br>💬 **Ví dụ:** The police are looking for any witnesses to the hit-and-run accident.<br>*(-> Cảnh sát đang tìm kiếm bất kỳ nhân chứng nào cho vụ tai nạn đâm rồi bỏ chạy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sees an event, typically a crime or accident, take place; see (an event) take place.

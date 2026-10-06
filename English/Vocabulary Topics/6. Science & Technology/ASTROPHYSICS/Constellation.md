@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Constellation
 *noun*
 > /ˌkɒn.stəˈleɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thiên hà, Tinh vân & Hiện tượng vũ trụ sâu
+
+## 🗂️ Flashcard
+Constellation::Chòm sao *(Phát âm: /ˌkɒn.stəˈleɪ.ʃən/)* ![[constellation.mp3]]<br><br>👪 **Word Family:** constellate (v)<br><br>💬 **Ví dụ:** My grandmother taught me how to find the Orion constellation.<br>*(-> Bà tôi đã dạy tôi cách tìm chòm sao Orion.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A group of stars forming a recognized pattern in the sky.

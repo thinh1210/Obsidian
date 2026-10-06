@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Animism
 *n.*
 > /ˈæn.ɪ.mɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Animism::Thuyết vạn vật hữu linh *(Phát âm: /ˈæn.ɪ.mɪ.zəm/)* ![[animism.mp3]]<br><br>👪 **Word Family:** animistic, animist<br><br>💬 **Ví dụ:** Some indigenous religions are based on animism.<br>*(-> Một số tôn giáo bản địa dựa trên thuyết vạn vật hữu linh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The attribution of a soul to plants, inanimate objects, and natural phenomena.

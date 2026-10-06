@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Empathy
 *Noun*
 > /ˈem.pə.θi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Lo âu, Sợ hãi, Bối rối & Đồng cảm
+
+## 🗂️ Flashcard
+Empathy::Sự đồng cảm (đặt mình vào vị trí người khác) *(Phát âm: /ˈem.pə.θi/)* ![[empathy.mp3]]<br><br>👪 **Word Family:** Empathetic (Adj): Có sự đồng cảm<br><br>💬 **Ví dụ:** He loves children and has a certain empathy with them.<br>*(-> Anh ấy yêu trẻ con và có một sự đồng cảm nhất định với chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to share someone else's feelings or experiences by imagining what it would be like to be in their situation.

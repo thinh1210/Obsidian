@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Castle
 *noun*
 > /ˈcɑː.səl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Castle::Lâu đài, thành trì *(Phát âm: /ˈcɑː.səl/)* ![[castle.mp3]]<br><br>👪 **Word Family:** castellated (adj)<br><br>💬 **Ví dụ:** We visited an old castle during our vacation in Scotland.<br>*(-> Chúng tôi đã đến thăm một lâu đài cổ trong kỳ nghỉ ở Scotland.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large building, typically of the medieval period, fortified against attack.

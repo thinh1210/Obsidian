@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Door
 *noun*
 > /dɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Door::Cửa ra vào *(Phát âm: /dɔːr/)* ![[door.mp3]]<br><br>👪 **Word Family:** doorway (n)<br><br>💬 **Ví dụ:** Lock the door.<br>*(-> Khóa cửa lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle.

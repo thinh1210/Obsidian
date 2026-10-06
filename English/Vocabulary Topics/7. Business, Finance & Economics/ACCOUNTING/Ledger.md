@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Ledger
 *n.*
 > /ˈledʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Ledger::Sổ cái *(Phát âm: /ˈledʒər/)* ![[ledger.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He recorded the transactions in the home ledger.<br>*(-> Anh ấy ghi lại các giao dịch vào sổ thu chi gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A book or other collection of financial accounts of a particular type

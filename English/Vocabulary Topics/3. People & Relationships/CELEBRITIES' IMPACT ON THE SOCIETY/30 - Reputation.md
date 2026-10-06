@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Reputation
 *n.*
 > /ˌrep.jəˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+30 - Reputation::Danh tiếng *(Phát âm: /ˌrep.jəˈteɪ.ʃən/)* ![[reputation.mp3]]<br><br>👪 **Word Family:** Reputable (adj.)<br><br>💬 **Ví dụ:** Protect your reputation.<br>*(-> Bảo vệ danh tiếng của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The beliefs or opinions that are generally held about someone.

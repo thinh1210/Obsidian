@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Inertia
 *noun*
 > /ɪˈnɜː.ʃə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Inertia::Quán tính – xu hướng của vật thể chống lại sự thay đổi trạng thái chuyển động hoặc đứng yên *(Phát âm: /ɪˈnɜː.ʃə/)* ![[inertia.mp3]]<br><br>👪 **Word Family:** inert (adj), inertly (adv)<br><br>💬 **Ví dụ:** You slide forward when the car brakes suddenly because of your body's inertia.<br>*(-> Bạn trượt về phía trước khi ô tô phanh đột ngột do quán tính của cơ thể bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The tendency of an object to resist changes in its state of motion or rest.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Bag
 
 *Noun*
@@ -36,3 +43,7 @@ Từ "bag" nghe giống từ "bao" trong tiếng Việt (bao tải, bao bố) d�
 
 **Synonyms:**
 - sack, purse, pocket
+
+
+## 🗂️ Flashcard
+Bag::Túi, giỏ xách *(Phát âm: /bæɡ/)* ![[bag.mp3]]<br><br>👪 **Word Family:** [Noun]: bag, baggage, [Verb]: bag, [Adj]: baggy<br><br>💬 **Ví dụ:** She carried a leather bag on her shoulder.<br>*(-> Cô ấy đeo một chiếc túi da trên vai.)*

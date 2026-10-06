@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Decarbonize
 *verb*
 > /ˌdiːˈkɑːrbənaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Decarbonize::Khử các-bon, giảm khí thải các-bon *(Phát âm: /ˌdiːˈkɑːrbənaɪz/)* ![[decarbonize.mp3]]<br><br>👪 **Word Family:** Verb: decarbonize (khử các-bon), Noun: decarbonization (sự khử các-bon)<br><br>💬 **Ví dụ:** Governments must decarbonize the transport sector by promoting electric vehicles.<br>*(-> Các chính phủ phải khử các-bon trong lĩnh vực giao thông bằng cách thúc đẩy xe điện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Reduce carbon gaseous emissions from (a process, industry, or country).

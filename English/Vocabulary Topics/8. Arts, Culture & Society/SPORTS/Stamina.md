@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Stamina
 *n.*
 > /ˈstæm.ɪ.nə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Stamina::Sức bền, thể lực *(Phát âm: /ˈstæm.ɪ.nə/)* ![[stamina.mp3]]<br><br>👪 **Word Family:** staminas<br><br>💬 **Ví dụ:** Long-distance runners need a lot of stamina.<br>*(-> Những người chạy cự ly dài cần rất nhiều sức bền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to sustain prolonged physical or mental effort.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Megalopolis
 *n.*
 > /ˌmeɡ.əˈlɑː.pəl.ɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Megalopolis::Siêu đô thị khổng lồ *(Phát âm: /ˌmeɡ.əˈlɑː.pəl.ɪs/)* ![[megalopolis.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Tokyo is considered a megalopolis.<br>*(-> Tokyo được coi là một siêu đô thị khổng lồ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large, heavily populated city or urban complex.

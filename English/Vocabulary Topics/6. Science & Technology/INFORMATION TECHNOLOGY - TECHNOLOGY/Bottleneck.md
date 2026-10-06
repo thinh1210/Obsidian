@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Bottleneck
 *n., v.*
 > /ˈbɑːtəlnek/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Bottleneck::Điểm nghẽn, nút thắt cổ chai *(Phát âm: /ˈbɑːtəlnek/)* ![[bottleneck.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** The slow hard drive is the bottleneck of my old computer.<br>*(-> Ổ cứng chậm chạp là điểm nghẽn của chiếc máy tính cũ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point of congestion or blockage, in particular one causing a delay in a process or system.

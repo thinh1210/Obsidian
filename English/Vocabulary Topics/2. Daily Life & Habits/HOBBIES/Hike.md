@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Hike
 *verb*
 > /haɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Hike::Đi bộ đường dài *(Phát âm: /haɪk/)* ![[hike.mp3]]<br><br>👪 **Word Family:** Hiking (n), Hiker (n)<br><br>💬 **Ví dụ:** We plan to hike in the mountains this weekend.<br>*(-> Chúng tôi dự định đi bộ trên núi cuối tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To go for a long walk, especially in the country or mountains.

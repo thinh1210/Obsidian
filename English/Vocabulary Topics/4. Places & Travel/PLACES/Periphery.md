@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Periphery
 *n.*
 > /pəˈrɪf.ɚ.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLACES | **Phân nhóm:** Ranh giới, Vùng ngoại vi & Điểm đến
+
+## 🗂️ Flashcard
+Periphery::Ngoại vi, rìa *(Phát âm: /pəˈrɪf.ɚ.i/)* ![[periphery.mp3]]<br><br>👪 **Word Family:** peripheral (adj)<br><br>💬 **Ví dụ:** They live on the periphery of the city.<br>*(-> Họ sống ở vùng ngoại vi thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The outer limits or edge of an area or object.

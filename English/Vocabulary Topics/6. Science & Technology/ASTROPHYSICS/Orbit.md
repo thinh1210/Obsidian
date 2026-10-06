@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Orbit
 *noun/verb*
 > /ˈɔː.bɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Thám hiểm không gian & Công nghệ thiên văn
+
+## 🗂️ Flashcard
+Orbit::Quỹ đạo / Quay quanh quỹ đạo *(Phát âm: /ˈɔː.bɪt/)* ![[orbit.mp3]]<br><br>👪 **Word Family:** orbital (adj)<br><br>💬 **Ví dụ:** The satellite went into orbit around the Earth.<br>*(-> Vệ tinh đã đi vào quỹ đạo quanh Trái Đất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The curved path of a spacecraft or object around a star, planet, or moon.

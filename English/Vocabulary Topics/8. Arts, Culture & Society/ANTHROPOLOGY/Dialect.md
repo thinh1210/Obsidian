@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Dialect
 *n.*
 > /ˈdaɪ.ə.lekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
+
+## 🗂️ Flashcard
+Dialect::Phương ngôn, tiếng địa phương *(Phát âm: /ˈdaɪ.ə.lekt/)* ![[dialect.mp3]]<br><br>👪 **Word Family:** dialectal<br><br>💬 **Ví dụ:** She speaks English with a strong Yorkshire dialect.<br>*(-> Cô ấy nói tiếng Anh với giọng địa phương Yorkshire rất nặng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A particular form of a language which is peculiar to a specific region or social group.

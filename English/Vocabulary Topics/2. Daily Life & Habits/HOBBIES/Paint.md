@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Paint
 *v*
 > /peɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Paint::Sơn, vẽ (bằng sơn, màu nước) *(Phát âm: /peɪnt/)* ![[paint.mp3]]<br><br>👪 **Word Family:** painting (n), painter (n), painted (adj)<br><br>💬 **Ví dụ:** I like to paint in my free time.<br>*(-> Tôi thích vẽ tranh vào thời gian rảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make a picture of something or someone using paint.

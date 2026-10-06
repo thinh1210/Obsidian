@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Card
 
 *Noun*
@@ -36,3 +43,7 @@ Phát âm giống "các" (các-visite) trong tiếng Việt, nghĩa là cái th�
 
 **Synonyms:**
 - ticket, pass, badge
+
+
+## 🗂️ Flashcard
+Card::Thẻ, danh thiếp, thiệp *(Phát âm: /kɑːd/)* ![[card.mp3]]<br><br>👪 **Word Family:** [Noun]: card, cardboard, [Verb]: card<br><br>💬 **Ví dụ:** She wrote her phone number on a business card.<br>*(-> Cô ấy đã viết số điện thoại của mình lên một danh thiếp.)*

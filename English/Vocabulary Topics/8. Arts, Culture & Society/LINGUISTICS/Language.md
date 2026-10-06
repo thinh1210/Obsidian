@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Language
 *noun*
 > /ˈlæŋ.ɡwɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Giao tiếp song ngữ, Phương ngữ & Tiếng mẹ đẻ
+
+## 🗂️ Flashcard
+Language::ngôn ngữ *(Phát âm: /ˈlæŋ.ɡwɪdʒ/)* ![[language.mp3]]<br><br>👪 **Word Family:** linguistic (adj), linguist (n)<br><br>💬 **Ví dụ:** She speaks three languages fluently.<br>*(-> Cô ấy nói trôi chảy ba thứ tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a system of communication consisting of sounds, words, and grammar

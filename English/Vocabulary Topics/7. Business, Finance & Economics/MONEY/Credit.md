@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Credit
 *noun*
 > /ˈkred.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Thu nhập, Vay nợ, Thuế & Lập ngân sách
+
+## 🗂️ Flashcard
+Credit::Tín dụng, lòng tin *(Phát âm: /ˈkred.ɪt/)* ![[credit.mp3]]<br><br>👪 **Word Family:** creditor (n), credible (adj)<br><br>💬 **Ví dụ:** I prefer to buy things on credit rather than with cash.<br>*(-> Tôi thích mua đồ bằng tín dụng hơn là dùng tiền mặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future

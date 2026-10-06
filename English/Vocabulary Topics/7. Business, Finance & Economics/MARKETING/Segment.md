@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Segment
 *noun*
 > /ˈseɡmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Segment::Phân khúc, bộ phận *(Phát âm: /ˈseɡmənt/)* ![[segment.mp3]]<br><br>👪 **Word Family:** segmentation (n), segment (v)<br><br>💬 **Ví dụ:** I only watch the sports segment of the evening news.<br>*(-> Tôi chỉ xem phần tin thể thao của bản tin tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Each of the parts into which something is or may be divided; a group of consumers with similar needs

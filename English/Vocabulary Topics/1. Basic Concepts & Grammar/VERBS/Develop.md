@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Develop
 *Verb*
 > /dɪˈvel.əp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Develop::Phát triển *(Phát âm: /dɪˈvel.əp/)* ![[develop.mp3]]<br><br>👪 **Word Family:** Development (n), Developer (n)<br><br>💬 **Ví dụ:** Children develop quickly.<br>*(-> Trẻ em phát triển nhanh chóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To grow or change into a more advanced form.

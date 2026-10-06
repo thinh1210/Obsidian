@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Dualism
 *n.*
 > /ˈdʒuː.ə.lɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Thuyết tất định, Nhị nguyên luận & Mục đích luận
+
+## 🗂️ Flashcard
+Dualism::Thuyết nhị nguyên *(Phát âm: /ˈdʒuː.ə.lɪ.zəm/)* ![[dualism.mp3]]<br><br>👪 **Word Family:** dual, dualistic, dualist<br><br>💬 **Ví dụ:** The dualism of good and evil is a common theme in childhood stories.<br>*(-> Thuyết nhị nguyên về cái thiện và cái ác là chủ đề phổ biến trong các câu chuyện thời thơ ấu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The division of something conceptually into two opposed aspects, like mind and matter.

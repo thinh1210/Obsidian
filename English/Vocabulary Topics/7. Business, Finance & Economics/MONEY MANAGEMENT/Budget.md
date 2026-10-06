@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Budget
 *Noun*
 > /ˈbʌdʒɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Budget::Ngân sách (kế hoạch chi tiết chỉ ra số tiền một người hoặc tổ chức sẽ kiếm và tiêu) *(Phát âm: /ˈbʌdʒɪt/)* ![[budget.mp3]]<br><br>👪 **Word Family:** Verb: budget (lập ngân sách), Adj: budgetary (thuộc ngân sách)<br><br>💬 **Ví dụ:** We are on a tight budget, so we can't go on a vacation this summer.<br>*(-> Chúng tôi đang có ngân sách eo hẹp, vì vậy không thể đi nghỉ mát vào mùa hè này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan to show how much money a person or organization will earn and spend.

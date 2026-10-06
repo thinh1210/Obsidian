@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Teleology
 *n.*
 > /ˌtiː.liˈɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Thuyết tất định, Nhị nguyên luận & Mục đích luận
+
+## 🗂️ Flashcard
+Teleology::Mục đích luận *(Phát âm: /ˌtiː.liˈɒl.ə.dʒi/)* ![[teleology.mp3]]<br><br>👪 **Word Family:** teleological, teleologically<br><br>💬 **Ví dụ:** Looking at how trees grow towards light makes one think of teleology.<br>*(-> Việc nhìn cây cối phát triển hướng về phía ánh sáng khiến người ta nghĩ đến mục đích luận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The explanation of phenomena by the purpose they serve rather than by postulated causes.

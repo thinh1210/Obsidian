@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Rent
 *verb*
 > /rɛnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Rent::Thuê, cho thuê *(Phát âm: /rɛnt/)* ![[rent.mp3]]<br><br>👪 **Word Family:** rental (n)<br><br>💬 **Ví dụ:** I rent a room in the city.<br>*(-> Tôi thuê một căn phòng trong thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pay someone for the use of (something, typically property, land, or a car).

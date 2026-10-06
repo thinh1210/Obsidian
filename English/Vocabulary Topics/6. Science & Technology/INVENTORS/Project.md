@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # project
 *n.*
 > /ˈprɒdʒ.ekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Project::Dự án, đề án *(Phát âm: /ˈprɒdʒ.ekt/)* ![[project.mp3]]<br><br>👪 **Word Family:** project (v), projection (n), projector (n)<br><br>💬 **Ví dụ:** We are working on a science project about green energy.<br>*(-> Chúng tôi đang thực hiện một dự án khoa học về năng lượng xanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A planned piece of work that is designed to find information or build something

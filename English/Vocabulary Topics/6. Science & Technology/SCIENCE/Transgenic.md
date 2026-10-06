@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Transgenic
 *adjective*
 > /trænsˈdʒen.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Transgenic::Chuyển gen – chứa vật liệu di truyền được đưa vào từ loài khác thông qua kỹ thuật di truyền *(Phát âm: /trænsˈdʒen.ɪk/)* ![[transgenic.mp3]]<br><br>👪 **Word Family:** transgenesis (n), transgene (n), genetically modified organism/GMO (related)<br><br>💬 **Ví dụ:** Some scientists oppose transgenic crops because of concerns about environmental impacts.<br>*(-> Một số nhà khoa học phản đối cây trồng chuyển gen vì lo ngại tác động môi trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing genetic material introduced from another species by genetic engineering.

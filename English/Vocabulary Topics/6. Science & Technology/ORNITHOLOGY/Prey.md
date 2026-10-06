@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Prey
 *noun*
 > /preɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Prey::Con mồi *(Phát âm: /preɪ/)* ![[prey.mp3]]<br><br>👪 **Word Family:** prey (n/v)<br><br>💬 **Ví dụ:** Mice are the primary prey for barn owls.<br>*(-> Chuột là con mồi chính của cú mèo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that is hunted and killed by another for food.

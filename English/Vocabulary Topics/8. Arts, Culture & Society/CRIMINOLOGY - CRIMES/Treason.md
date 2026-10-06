@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Treason
 *noun*
 > /ˈtriːzn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Treason::Tội phản quốc, tội phản bội đất nước *(Phát âm: /ˈtriːzn/)* ![[treason.mp3]]<br><br>👪 **Word Family:** treasonous (adj), treasonable (adj)<br><br>💬 **Ví dụ:** He was executed for committing treason against the king.<br>*(-> Anh ta bị hành quyết vì tội phản quốc chống lại nhà vua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The crime of betraying one's country, especially by attempting to overthrow the government

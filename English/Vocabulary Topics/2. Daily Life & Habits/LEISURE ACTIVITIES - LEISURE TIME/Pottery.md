@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Pottery
 *n*
 > /ˈpɒtəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Pottery::Đồ gốm *(Phát âm: /ˈpɒtəri/)* ![[pottery.mp3]]<br><br>👪 **Word Family:** Potter (n)<br><br>💬 **Ví dụ:** She took a pottery class.<br>*(-> Cô ấy đã tham gia một lớp học làm gốm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The craft of making ceramic material into pots or wares.

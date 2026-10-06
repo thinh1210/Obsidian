@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Newborn
 *n.*
 > /ˈnjuː.bɔːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Newborn::Trẻ mới lọt lòng, trẻ sơ sinh trong những tuần đầu đời *(Phát âm: /ˈnjuː.bɔːn/)* ![[newborn.mp3]]<br><br>👪 **Word Family:** newborn (adj)<br><br>💬 **Ví dụ:** The parents took turns staying awake at night to feed and soothe the fussy newborn.<br>*(-> Cha mẹ thay phiên nhau thức đêm để cho ăn và dỗ dành đứa con mới sinh đang quấy khóc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A baby that has only very recently been born.

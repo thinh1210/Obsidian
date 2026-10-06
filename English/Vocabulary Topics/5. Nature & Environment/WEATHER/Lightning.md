@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Lightning
 *noun*
 > /ˈlaɪtnɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Gió bão, Hiện tượng cực đoan & Dự báo
+
+## 🗂️ Flashcard
+Lightning::Tia chớp, sét *(Phát âm: /ˈlaɪtnɪŋ/)* ![[lightning.mp3]]<br><br>👪 **Word Family:** Lighten (verb)<br><br>💬 **Ví dụ:** The ancient tree was split in half by a lightning strike.<br>*(-> Cây cổ thụ đã bị chẻ đôi do một cú sét đánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden flash of bright light in the sky during a storm

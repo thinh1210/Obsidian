@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Excellent
 *adj*
 > /ˈek.səl.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Excellent::Xuất sắc *(Phát âm: /ˈek.səl.ənt/)* ![[excellent.mp3]]<br><br>👪 **Word Family:** Excellence (noun), Excellently (adv)<br><br>💬 **Ví dụ:** She is an excellent cook.<br>*(-> Cô ấy là một đầu bếp xuất sắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely good; outstanding.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Artificial intelligence
 *noun.*
 > /ˌɑːr.t̬əˈfɪʃ.əl ɪnˈtel.ə.dʒəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Trí tuệ nhân tạo, Nhận thức & Thuật toán học máy
+
+## 🗂️ Flashcard
+Artificial intelligence::Trí tuệ nhân tạo *(Phát âm: /ˌɑːr.t̬əˈfɪʃ.əl ɪnˈtel.ə.dʒəns/)* ![[artificial_intelligence.mp3]]<br><br>👪 **Word Family:** artificially (adv), intellect (noun)<br><br>💬 **Ví dụ:** Artificial intelligence has transformed the field of robotics.<br>*(-> Trí tuệ nhân tạo đã làm thay đổi lĩnh vực robot.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study and development of computer systems that can perform tasks requiring human intelligence

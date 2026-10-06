@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Disseminate
 *Verb*
 > /dɪˈsem.ɪ.neɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Disseminate::Phổ biến, lan truyền rộng rãi (thông tin, kiến thức) *(Phát âm: /dɪˈsem.ɪ.neɪt/)* ![[disseminate.mp3]]<br><br>👪 **Word Family:** Dissemination (n)<br><br>💬 **Ví dụ:** Social media makes it easy to disseminate news.<br>*(-> Mạng xã hội giúp việc lan truyền tin tức trở nên dễ dàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spread or give out something, especially information, widely.

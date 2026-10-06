@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Pay
 *verb*
 > /peɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Pay::Thanh toán, trả tiền *(Phát âm: /peɪ/)* ![[pay.mp3]]<br><br>👪 **Word Family:** payment (n), payee (n)<br><br>💬 **Ví dụ:** I will pay for the dinner tonight.<br>*(-> Tôi sẽ trả tiền cho bữa tối tối nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To give money to someone for goods or services

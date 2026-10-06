@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Billboard
 *noun*
 > /ˈbɪlbɔːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
+
+## 🗂️ Flashcard
+Billboard::Biển quảng cáo ngoài trời *(Phát âm: /ˈbɪlbɔːd/)* ![[billboard.mp3]]<br><br>💬 **Ví dụ:** The road was lined with colorful billboards.<br>*(-> Con đường được xếp hàng dài bởi các biển quảng cáo rực rỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large outdoor board for displaying advertisements.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Guitar
 *n.*
 > /ɡɪˈtɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Guitar::Đàn ghi-ta *(Phát âm: /ɡɪˈtɑːr/)* ![[guitar.mp3]]<br><br>👪 **Word Family:** guitarist (n)<br><br>💬 **Ví dụ:** He brought his guitar to the campfire and played some songs.<br>*(-> Cậu ấy đã mang đàn ghi-ta của mình đến buổi lửa trại và chơi vài bài hát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stringed musical instrument, with six or twelve strings, played by plucking or strumming.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Beautiful
 *adj.*
 > /ˈbjuːtɪfl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Diện mạo, Đẳng cấp & Tính từ tích cực
+
+## 🗂️ Flashcard
+Beautiful::Đẹp *(Phát âm: /ˈbjuːtɪfl/)* ![[beautiful.mp3]]<br><br>👪 **Word Family:** Beauty (n), Beautifully (adv)<br><br>💬 **Ví dụ:** She looked beautiful in her new dress.<br>*(-> Cô ấy trông thật đẹp trong chiếc váy mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pleasing the senses or mind aesthetically.

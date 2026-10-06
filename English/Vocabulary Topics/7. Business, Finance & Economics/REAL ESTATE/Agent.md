@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Agent
 *n.*
 > /ˈeɪdʒənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Agent::Người môi giới, đại lý *(Phát âm: /ˈeɪdʒənt/)* ![[agent.mp3]]<br><br>👪 **Word Family:** agency (n)<br><br>💬 **Ví dụ:** The real estate agent showed us three different apartments today.<br>*(-> Người môi giới bất động sản đã dẫn chúng tôi đi xem ba căn hộ khác nhau hôm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who acts on behalf of another person or group, especially in business.

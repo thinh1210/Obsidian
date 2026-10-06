@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Savings
 *Noun*
 > /ˈseɪvɪŋz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Savings::Tiền tiết kiệm (tiền được giữ lại, đặc biệt là thông qua ngân hàng) *(Phát âm: /ˈseɪvɪŋz/)* ![[savings.mp3]]<br><br>👪 **Word Family:** Verb: save (tiết kiệm), Noun: saver (người tiết kiệm)<br><br>💬 **Ví dụ:** She used her savings to travel around Europe after graduating.<br>*(-> Cô ấy đã sử dụng tiền tiết kiệm của mình để đi du lịch khắp châu Âu sau khi tốt nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money saved, especially through a bank or official scheme.

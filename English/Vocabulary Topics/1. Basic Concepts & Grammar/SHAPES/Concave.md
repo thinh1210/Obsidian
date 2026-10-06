@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Concave
 *adj.*
 > /kɒnˈkeɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Concave::Lõm *(Phát âm: /kɒnˈkeɪv/)* ![[concave.mp3]]<br><br>👪 **Word Family:** Concavity (n)<br><br>💬 **Ví dụ:** A spoon has a concave surface.<br>*(-> Cái thìa có một bề mặt lõm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an outline or surface that curves inward like the interior of a circle or sphere.

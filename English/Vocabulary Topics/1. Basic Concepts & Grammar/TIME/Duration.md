@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Duration
 *n.*
 > /djuˈreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** TIME | **Phân nhóm:** Kế hoạch, Thời hạn & Lịch trình
+
+## 🗂️ Flashcard
+Duration::Khoảng thời gian, thời lượng *(Phát âm: /djuˈreɪʃn/)* ![[duration.mp3]]<br><br>👪 **Word Family:** durable (adj.)<br><br>💬 **Ví dụ:** The duration of the movie is 2 hours.<br>*(-> Thời lượng của bộ phim là 2 giờ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The time during which something continues

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Conscientious
 *adj.*
 > /ˌkɒn.ʃiˈen.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Conscientious::Tận tâm, chu đáo, làm việc hết lòng với tinh thần trách nhiệm cao *(Phát âm: /ˌkɒn.ʃiˈen.ʃəs/)* ![[conscientious.mp3]]<br><br>👪 **Word Family:** conscience (n), conscientiousness (n), conscientiously (adv)<br><br>💬 **Ví dụ:** He is a conscientious student who never misses a single homework assignment.<br>*(-> Cậu ấy là một học sinh rất tận tâm, không bao giờ bỏ sót một bài tập về nhà nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Putting a lot of effort into your work; careful and correct.

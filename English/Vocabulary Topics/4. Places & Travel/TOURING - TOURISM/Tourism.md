@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Tourism
 *Noun*
 > /ˈtʊr.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Tourism::Ngành du lịch *(Phát âm: /ˈtʊr.ɪ.zəm/)* ![[tourism.mp3]]<br><br>👪 **Word Family:** tourist (n)<br><br>💬 **Ví dụ:** Tourism is very important to the island's economy.<br>*(-> Du lịch rất quan trọng đối với nền kinh tế của hòn đảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The business of providing services such as transport, places to stay, or entertainment for people who are on holiday.

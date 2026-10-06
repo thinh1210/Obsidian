@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Dynasty
 *noun*
 > /ˈdɪn.ə.sti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Dynasty::Triều đại, vương triều *(Phát âm: /ˈdɪn.ə.sti/)* ![[dynasty.mp3]]<br><br>👪 **Word Family:** dynastic (adj)<br><br>💬 **Ví dụ:** The tourist guide explained the history of the Nguyen dynasty.<br>*(-> Hướng dẫn viên du lịch giải thích lịch sử của triều đại nhà Nguyễn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A line of hereditary rulers of a country.

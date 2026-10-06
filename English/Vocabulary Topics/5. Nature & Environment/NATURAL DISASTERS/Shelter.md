@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Shelter
 *noun*
 > /ˈʃel.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Cảnh báo, Cứu hộ, Thiệt hại & Giảm nhẹ
+
+## 🗂️ Flashcard
+Shelter::Nơi trú ẩn, hầm trú ẩn *(Phát âm: /ˈʃel.tər/)* ![[shelter.mp3]]<br><br>👪 **Word Family:** shelter (v), sheltered (adj)<br><br>💬 **Ví dụ:** We took shelter from the storm under a large bridge.<br>*(-> Chúng tôi đã trú bão dưới một cây cầu lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place that provides protection from bad weather or danger.

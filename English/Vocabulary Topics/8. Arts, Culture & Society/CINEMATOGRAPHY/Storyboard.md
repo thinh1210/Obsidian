@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Storyboard
 *n.*
 > /ˈskɔːribɔːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Thiết bị ghi hình, Ánh sáng & Phim trường sản xuất
+
+## 🗂️ Flashcard
+Storyboard::Bảng phân cảnh hình ảnh, kịch bản hình ảnh *(Phát âm: /ˈskɔːribɔːd/)* ![[storyboard.mp3]]<br><br>👪 **Word Family:** storyboarding<br><br>💬 **Ví dụ:** The director looked at the storyboard to plan the camera angles for the action sequence.<br>*(-> Đạo diễn đã nhìn vào bảng phân cảnh để lên kế hoạch cho các góc quay của cảnh hành động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sequence of drawings, typically with some directions and dialogue, representing the shots planned for a movie

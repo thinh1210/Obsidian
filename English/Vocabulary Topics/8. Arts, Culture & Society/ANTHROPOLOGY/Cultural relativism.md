@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Cultural relativism
 *n.*
 > /ˈkʌl.tʃər.əl ˈrel.ə.tɪ.vɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Lý thuyết nhân học, Tiếp biến & Đa dạng văn hóa
+
+## 🗂️ Flashcard
+Cultural relativism::Thuyết tương đối văn hóa *(Phát âm: /ˈkʌl.tʃər.əl ˈrel.ə.tɪ.vɪ.zəm/)* ![[cultural_relativism.mp3]]<br><br>👪 **Word Family:** culturally relative<br><br>💬 **Ví dụ:** Practicing cultural relativism helps us be more open-minded.<br>*(-> Thực hành thuyết tương đối văn hóa giúp chúng ta cởi mở hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The idea that a person's beliefs and activities should be understood based on that person's own culture, rather than judged against the criteria of another.

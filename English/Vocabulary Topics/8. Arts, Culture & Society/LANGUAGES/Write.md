@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Write
 *v.*
 > /raɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Write::Viết *(Phát âm: /raɪt/)* ![[write.mp3]]<br><br>👪 **Word Family:** writer, writing, written<br><br>💬 **Ví dụ:** I write in my journal every night.<br>*(-> Tôi viết nhật ký mỗi tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make letters or words on paper or a screen using a pen or keyboard

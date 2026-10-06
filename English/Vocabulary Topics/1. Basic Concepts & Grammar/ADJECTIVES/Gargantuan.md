@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Gargantuan
 *adj.*
 > /ɡɑːˈɡæntʃuən/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Kích thước, Tầm vóc & Tỷ lệ
+
+## 🗂️ Flashcard
+Gargantuan::Khổng lồ, to lớn *(Phát âm: /ɡɑːˈɡæntʃuən/)* ![[gargantuan.mp3]]<br><br>👪 **Word Family:** gargantua<br><br>💬 **Ví dụ:** Gargantuan meal.<br>*(-> Bữa ăn khổng lồ.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Enormous

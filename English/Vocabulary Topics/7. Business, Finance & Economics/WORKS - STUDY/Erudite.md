@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Erudite
 *adj.*
 > /ˈer.ʊ.daɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Erudite::Uyên bác, thông thái *(Phát âm: /ˈer.ʊ.daɪt/)* ![[erudite.mp3]]<br><br>👪 **Word Family:** erudition, eruditely<br><br>💬 **Ví dụ:** He is known for his erudite commentary on literature.<br>*(-> Anh ấy nổi tiếng với bài bình luận uyên bác về văn học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having or showing great knowledge or learning

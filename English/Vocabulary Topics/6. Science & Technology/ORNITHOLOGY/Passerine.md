@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Passerine
 *noun/adjective*
 > /ˈpæs.ər.aɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
+
+## 🗂️ Flashcard
+Passerine::Chim dạng sẻ (hoặc thuộc bộ Sẻ) *(Phát âm: /ˈpæs.ər.aɪn/)* ![[passerine.mp3]]<br><br>👪 **Word Family:** passerine (adj/n), Passeriformes (n)<br><br>💬 **Ví dụ:** Sparrows and finches are common passerine birds.<br>*(-> Chim sẻ và chim sẻ thông là những loài chim dạng sẻ phổ biến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or denoting birds of a large order distinguished by having feet adapted for perching.

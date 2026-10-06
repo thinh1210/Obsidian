@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Ontology
 *n.*
 > /ɒnˈtɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Ontology::Bản thể luận; triết học về sự tồn tại *(Phát âm: /ɒnˈtɒl.ə.dʒi/)* ![[ontology.mp3]]<br><br>👪 **Word Family:** ontological (adj.), ontologically (adv.)<br><br>💬 **Ví dụ:** He wrestles with ontology every time he ponders whether free will exists.<br>*(-> Anh ấy đấu tranh với bản thể luận mỗi khi suy ngẫm liệu ý chí tự do có tồn tại không.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of metaphysics dealing with the nature of being, existence, or reality.

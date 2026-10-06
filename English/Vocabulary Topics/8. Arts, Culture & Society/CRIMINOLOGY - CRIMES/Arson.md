@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Arson
 *noun*
 > /ˈɑːsn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Arson::Tội phóng hỏa, tội cố ý gây hỏa hoạn *(Phát âm: /ˈɑːsn/)* ![[arson.mp3]]<br><br>👪 **Word Family:** arsonist (n)<br><br>💬 **Ví dụ:** The police suspect arson caused the fire at the old warehouse.<br>*(-> Cảnh sát nghi ngờ tội phóng hỏa đã gây ra vụ cháy tại nhà kho cũ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The criminal act of deliberately setting fire to property

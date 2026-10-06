@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Aerodynamics
 *noun*
 > /ˌeərəʊdaɪˈnæmɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Công nghệ cao & Vật lý kỹ thuật chuyên sâu
+
+## 🗂️ Flashcard
+Aerodynamics::Khí động học *(Phát âm: /ˌeərəʊdaɪˈnæmɪks/)* ![[aerodynamics.mp3]]<br><br>👪 **Word Family:** aerodynamic (adj), aerodynamically (adv)<br><br>💬 **Ví dụ:** The sleek shape of the sports car was designed to improve its aerodynamics.<br>*(-> Kiểu dáng thon gọn của chiếc xe thể thao được thiết kế để cải thiện tính khí động học của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the properties of moving air, and especially of the interaction between the air and solid bodies moving through it.

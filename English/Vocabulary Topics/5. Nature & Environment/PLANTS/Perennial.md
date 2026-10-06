@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Perennial
 *adjective*
 > /pəˈreniəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Perennial::Cây lâu năm (sống hơn 2 năm), trường tồn *(Phát âm: /pəˈreniəl/)* ![[perennial.mp3]]<br><br>👪 **Word Family:** Noun: perennial (cây lâu năm), Adjective: perennial (lâu năm, trường tồn), Adverb: perennially (trường tồn)<br><br>💬 **Ví dụ:** Unlike annual flowers, perennials come back year after year.<br>*(-> Không giống như hoa một năm, hoa lâu năm mọc lại năm này qua năm khác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (of a plant) lasting for three or more years; continually recurring.

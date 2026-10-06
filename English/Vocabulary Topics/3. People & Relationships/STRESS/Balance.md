@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Balance
 *n.*
 > /ˈbæləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Balance::Sự cân bằng *(Phát âm: /ˈbæləns/)* ![[balance.mp3]]<br><br>👪 **Word Family:** balanced (adj)<br><br>💬 **Ví dụ:** I try to keep a good balance.<br>*(-> Tôi cố gắng giữ cân bằng tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An even distribution of weight or amount

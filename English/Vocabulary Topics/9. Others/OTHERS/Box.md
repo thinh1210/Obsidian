@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Box
 
 *Noun*
@@ -36,3 +43,7 @@ Hãy tưởng tượng bạn đang "bốc" (phát âm giống box) từng món �
 
 **Synonyms:**
 - container, carton, crate
+
+
+## 🗂️ Flashcard
+Box::Hộp, thùng *(Phát âm: /bɒks/)* ![[box.mp3]]<br><br>👪 **Word Family:** [Noun]: box, [Verb]: box, [Adj]: boxed<br><br>💬 **Ví dụ:** He packed his books into a large cardboard box.<br>*(-> Anh ấy đóng gói sách của mình vào một chiếc hộp các-tông lớn.)*

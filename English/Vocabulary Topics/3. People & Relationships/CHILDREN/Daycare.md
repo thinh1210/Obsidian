@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Daycare
 *n.*
 > /ˈdeɪ.keər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Daycare::Nhà trẻ, cơ sở chăm sóc và giáo dục sớm cho các bé ban ngày *(Phát âm: /ˈdeɪ.keər/)* ![[daycare.mp3]]<br><br>👪 **Word Family:** care (n/v)<br><br>💬 **Ví dụ:** Working parents drop off their toddlers at the local daycare center before heading to the office.<br>*(-> Các bậc cha mẹ đi làm gửi con ở nhà trẻ địa phương vào buổi sáng trước khi đến công sở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Care or education provided for young children during the day while their parents are working.

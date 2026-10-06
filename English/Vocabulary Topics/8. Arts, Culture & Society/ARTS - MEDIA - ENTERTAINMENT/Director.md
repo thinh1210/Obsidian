@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Director
 *n.*
 > /daɪˈrektə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Director::Đạo diễn, giám đốc *(Phát âm: /daɪˈrektə(r)/)* ![[director.mp3]]<br><br>👪 **Word Family:** direct, direction, directory<br><br>💬 **Ví dụ:** She wants to become a film director.<br>*(-> Cô ấy muốn trở thành một đạo diễn phim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who supervises the actors, camera crew, and other staff for a movie, play, television program, or opera.

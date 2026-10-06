@@ -14,51 +14,51 @@ Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực q
 ### 📏 1. Kích thước, Tầm vóc & Tỷ lệ (Size, Scale & Dimension)
 *Các tính từ miêu tả kích thước từ vô cùng nhỏ bé đến khổng lồ vĩ đại.*
 
-| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| Big | /bɪɡ/ [[big.mp3\|🔊]] | A1 | adj. | Lớn | big (adj), bigness (n) | [[Big]] |
-| Heavy | /ˈhev.i/ [[heavy.mp3\|🔊]] | A1 | adj. | Nặng, nặng nề | heavily (adv), heaviness (n) | [[Heavy]] |
-| Short | /ʃɔːt/ [[short.mp3\|🔊]] | A1 | adj. | Ngắn, thấp | shorten (v), shortage (n), shortly (adv), shortness (n) | [[Short]] |
-| Small | /smɔːl/ [[small.mp3\|🔊]] | A1 | adj. | Nhỏ | small (adj), smallness (n) | [[Small]] |
-| Tall | /tɔːl/ [[tall.mp3\|🔊]] | A1 | adj. | Cao | tallness (n) | [[Tall]] |
-| Deep | /diːp/ [[deep.mp3\|🔊]] | A2 | adj. | Sâu, sâu thẳm | deeply (adv), deepen (v), depth (n) | [[Deep]] |
-| Narrow | /ˈnær.əʊ/ [[narrow.mp3\|🔊]] | A2 | adj. | Hẹp, chật hẹp | narrowly (adv), narrowness (n), narrow (v) | [[Narrow]] |
-| Wide | /waɪd/ [[wide.mp3\|🔊]] | A2 | adj. | Rộng, bao la | widely (adv), widen (v), width (n) | [[Wide]] |
-| Enormous | /ɪˈnɔːməs/ [[enormous.mp3\|🔊]] | B1 | adj. | To lớn, khổng lồ | enormity (n), enormously (adv) | [[Enormous]] |
-| Shallow | /ˈʃæl.əʊ/ [[shallow.mp3\|🔊]] | B1 | adj. | Nông, cạn, nông cạn | shallowly (adv), shallowness (n) | [[Shallow]] |
-| Tiny | /ˈtaɪni/ [[tiny.mp3\|🔊]] | B1 | adj. | Nhỏ xíu | tininess (n), tinily (adv) | [[Tiny]] |
-| Gigantic | /dʒaɪˈɡæntɪk/ [[gigantic.mp3\|🔊]] | B2 | adj. | Khổng lồ | giant, gigantically (adv), giganticness (n) | [[Gigantic]] |
-| Miniature | /ˈmɪnətʃə(r)/ [[miniature.mp3\|🔊]] | B2 | adj. | Thu nhỏ | mini, miniaturely (adv), miniatureness (n) | [[Miniature]] |
-| Colossal | /kəˈlɒsl/ [[colossal.mp3\|🔊]] | C1 | adj. | Khổng lồ | colossus, colossally (adv), colossalness (n) | [[Colossal]] |
-| Gargantuan | /ɡɑːˈɡæntʃuən/ [[gargantuan.mp3\|🔊]] | C1 | adj. | Khổng lồ, to lớn | gargantua, gargantuanly (adv), gargantuanness (n) | [[Gargantuan]] |
-| Microscopic | /ˌmaɪkrəˈskɒpɪk/ [[microscopic.mp3\|🔊]] | C1 | adj. | Siêu nhỏ, vi mô | microscope, microscopically (adv), microscopicness (n) | [[Microscopic]] |
-| Infinitesimal | /ˌɪnfɪnɪˈtesɪml/ [[infinitesimal.mp3\|🔊]] | C2 | adj. | Cực kì nhỏ | infinitesimally, infinitesimally (adv), infinitesimalness (n) | [[Infinitesimal]] |
+| Từ vựng       | Phát âm                                    | Level | Loại từ | Nghĩa ngắn gọn      | Word Family                                                   | Link Note         |
+| ------------- | ------------------------------------------ | ----- | ------- | ------------------- | ------------------------------------------------------------- | ----------------- |
+| Big           | /bɪɡ/ [[big.mp3\|🔊]]                      | A1    | adj.    | Lớn                 | big (adj), bigness (n)                                        | [[Big]]           |
+| Heavy         | /ˈhev.i/ [[heavy.mp3\|🔊]]                 | A1    | adj.    | Nặng, nặng nề       | heavily (adv), heaviness (n)                                  | [[Heavy]]         |
+| Short         | /ʃɔːt/ [[short.mp3\|🔊]]                   | A1    | adj.    | Ngắn, thấp          | shorten (v), shortage (n), shortly (adv), shortness (n)       | [[Short]]         |
+| Small         | /smɔːl/ [[small.mp3\|🔊]]                  | A1    | adj.    | Nhỏ                 | small (adj), smallness (n)                                    | [[Small]]         |
+| Tall          | /tɔːl/ [[tall.mp3\|🔊]]                    | A1    | adj.    | Cao                 | tallness (n)                                                  | [[Tall]]          |
+| Deep          | /diːp/ [[deep.mp3\|🔊]]                    | A2    | adj.    | Sâu, sâu thẳm       | deeply (adv), deepen (v), depth (n)                           | [[Deep]]          |
+| Narrow        | /ˈnær.əʊ/ [[narrow.mp3\|🔊]]               | A2    | adj.    | Hẹp, chật hẹp       | narrowly (adv), narrowness (n), narrow (v)                    | [[Narrow]]        |
+| Wide          | /waɪd/ [[wide.mp3\|🔊]]                    | A2    | adj.    | Rộng, bao la        | widely (adv), widen (v), width (n)                            | [[Wide]]          |
+| Enormous      | /ɪˈnɔːməs/ [[enormous.mp3\|🔊]]            | B1    | adj.    | To lớn, khổng lồ    | enormity (n), enormously (adv)                                | [[Enormous]]      |
+| Shallow       | /ˈʃæl.əʊ/ [[shallow.mp3\|🔊]]              | B1    | adj.    | Nông, cạn, nông cạn | shallowly (adv), shallowness (n)                              | [[Shallow]]       |
+| Tiny          | /ˈtaɪni/ [[tiny.mp3\|🔊]]                  | B1    | adj.    | Nhỏ xíu             | tininess (n), tinily (adv)                                    | [[Tiny]]          |
+| Gigantic      | /dʒaɪˈɡæntɪk/ [[gigantic.mp3\|🔊]]         | B2    | adj.    | Khổng lồ            | giant, gigantically (adv), giganticness (n)                   | [[Gigantic]]      |
+| Miniature     | /ˈmɪnətʃə(r)/ [[miniature.mp3\|🔊]]        | B2    | adj.    | Thu nhỏ             | mini, miniaturely (adv), miniatureness (n)                    | [[Miniature]]     |
+| Colossal      | /kəˈlɒsl/ [[colossal.mp3\|🔊]]             | C1    | adj.    | Khổng lồ            | colossus, colossally (adv), colossalness (n)                  | [[Colossal]]      |
+| Gargantuan    | /ɡɑːˈɡæntʃuən/ [[gargantuan.mp3\|🔊]]      | C1    | adj.    | Khổng lồ, to lớn    | gargantua, gargantuanly (adv), gargantuanness (n)             | [[Gargantuan]]    |
+| Microscopic   | /ˌmaɪkrəˈskɒpɪk/ [[microscopic.mp3\|🔊]]   | C1    | adj.    | Siêu nhỏ, vi mô     | microscope, microscopically (adv), microscopicness (n)        | [[Microscopic]]   |
+| Infinitesimal | /ˌɪnfɪnɪˈtesɪml/ [[infinitesimal.mp3\|🔊]] | C2    | adj.    | Cực kì nhỏ          | infinitesimally, infinitesimally (adv), infinitesimalness (n) | [[Infinitesimal]] |
 
 ### 😊 2. Cảm xúc, Tâm trạng & Năng lượng (Emotions, Mood & Vitality)
 *Tính từ thể hiện trạng thái tinh thần, cảm xúc vui buồn và mức năng lượng sống.*
 
-| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bad | /bæd/ [[bad.mp3\|🔊]] | A1 | adj. | Xấu, tệ | badness (n), badly (adv), worse (adj/adv), worst (adj/adv) | [[Bad]] |
-| Good | /ɡʊd/ [[good.mp3\|🔊]] | A1 | adj. | Tốt | goodness (n), well (adv), better (adj/adv), best (adj/adv) | [[Good]] |
-| Happy | /ˈhæpi/ [[happy.mp3\|🔊]] | A1 | adj. | Hạnh phúc, vui | happiness (n), happily (adv), unhappy (adj), unhappiness (n) | [[Happy]] |
-| Sad | /sæd/ [[sad.mp3\|🔊]] | A1 | adj. | Buồn | sadness (n), sadly (adv), sadden (v) | [[Sad]] |
-| Calm | /kɑːm/ [[calm.mp3\|🔊]] | A2 | adj. | Bình tĩnh, êm ả | calmly (adv), calmness (n), calm (v) | [[Calm]] |
-| Nervous | /ˈnɜː.vəs/ [[nervous.mp3\|🔊]] | A2 | adj. | Lo lắng, hồi hộp | nervously (adv), nervousness (n), nerve (n) | [[Nervous]] |
-| Amazing | /əˈmeɪzɪŋ/ [[amazing.mp3\|🔊]] | B1 | adj. | Tuyệt vời | amazement (n), amazingly (adv) | [[Amazing]] |
-| Confused | /kənˈfjuːzd/ [[confused.mp3\|🔊]] | B1 | adj. | Bối rối | confusion (n), confusedly (adv) | [[Confused]] |
-| Delighted | /dɪˈlaɪtɪd/ [[delighted.mp3\|🔊]] | B1 | adj. | Vui mừng | delight, delightedly (adv) | [[Delighted]] |
-| Energetic | /ˌen.əˈdʒet.ɪk/ [[energetic.mp3\|🔊]] | B1 | adj. | Năng động, dồi dào năng lượng | energetically (adv), energy (n), energize (v) | [[Energetic]] |
-| Frightened | /ˈfraɪtnd/ [[frightened.mp3\|🔊]] | B1 | adj. | Sợ hãi | fright, frightenedly (adv) | [[Frightened]] |
-| Lonely | /ˈləʊn.li/ [[lonely.mp3\|🔊]] | B1 | adj. | Cô đơn, lẻ loi | loneliness (n) | [[Lonely]] |
-| Miserable | /ˈmɪzrəbl/ [[miserable.mp3\|🔊]] | B1 | adj. | Khốn khổ | misery, miserably (adv), miserability (n) | [[Miserable]] |
-| Proud | /praʊd/ [[proud.mp3\|🔊]] | B1 | adj. | Tự hào, kiêu hãnh | proudly (adv), pride (n) | [[Proud]] |
-| Exhausted | /ɪɡˈzɔːstɪd/ [[exhausted.mp3\|🔊]] | B2 | adj. | Kiệt sức | exhaustion (n), exhaustedly (adv) | [[Exhausted]] |
-| Fascinating | /ˈfæsɪneɪtɪŋ/ [[fascinating.mp3\|🔊]] | B2 | adj. | Hấp dẫn | fascination (n), fascinatingly (adv) | [[Fascinating]] |
-| Sluggish | /ˈslʌɡɪʃ/ [[sluggish.mp3\|🔊]] | B2 | adj. | Chậm chạp, lờ đờ | sluggishness (n), sluggishly (adv) | [[Sluggish]] |
-| Ecstatic | /ɪkˈstætɪk/ [[ecstatic.mp3\|🔊]] | C1 | adj. | Vô cùng hạnh phúc | ecstasy, ecstatically (adv), ecstaticness (n) | [[Ecstatic]] |
-| Lethargic | /ləˈθɑːdʒɪk/ [[lethargic.mp3\|🔊]] | C1 | adj. | Lờ đờ, uể oải | lethargy, lethargically (adv), lethargicness (n) | [[Lethargic]] |
-| Despondent | /dɪˈspɒndənt/ [[despondent.mp3\|🔊]] | C2 | adj. | Chán nản, tuyệt vọng | despondency, despondently (adv), despondentness (n) | [[Despondent]] |
+| Từ vựng     | Phát âm                               | Level | Loại từ | Nghĩa ngắn gọn                | Word Family                                                  | Link Note       |
+| ----------- | ------------------------------------- | ----- | ------- | ----------------------------- | ------------------------------------------------------------ | --------------- |
+| Bad         | /bæd/ [[bad.mp3\|🔊]]                 | A1    | adj.    | Xấu, tệ                       | badness (n), badly (adv), worse (adj/adv), worst (adj/adv)   | [[Bad]]         |
+| Good        | /ɡʊd/ [[good.mp3\|🔊]]                | A1    | adj.    | Tốt                           | goodness (n), well (adv), better (adj/adv), best (adj/adv)   | [[Good]]        |
+| Happy       | /ˈhæpi/ [[happy.mp3\|🔊]]             | A1    | adj.    | Hạnh phúc, vui                | happiness (n), happily (adv), unhappy (adj), unhappiness (n) | [[Happy]]       |
+| Sad         | /sæd/ [[sad.mp3\|🔊]]                 | A1    | adj.    | Buồn                          | sadness (n), sadly (adv), sadden (v)                         | [[Sad]]         |
+| Calm        | /kɑːm/ [[calm.mp3\|🔊]]               | A2    | adj.    | Bình tĩnh, êm ả               | calmly (adv), calmness (n), calm (v)                         | [[Calm]]        |
+| Nervous     | /ˈnɜː.vəs/ [[nervous.mp3\|🔊]]        | A2    | adj.    | Lo lắng, hồi hộp              | nervously (adv), nervousness (n), nerve (n)                  | [[Nervous]]     |
+| Amazing     | /əˈmeɪzɪŋ/ [[amazing.mp3\|🔊]]        | B1    | adj.    | Tuyệt vời                     | amazement (n), amazingly (adv)                               | [[Amazing]]     |
+| Confused    | /kənˈfjuːzd/ [[confused.mp3\|🔊]]     | B1    | adj.    | Bối rối                       | confusion (n), confusedly (adv)                              | [[Confused]]    |
+| Delighted   | /dɪˈlaɪtɪd/ [[delighted.mp3\|🔊]]     | B1    | adj.    | Vui mừng                      | delight, delightedly (adv)                                   | [[Delighted]]   |
+| Energetic   | /ˌen.əˈdʒet.ɪk/ [[energetic.mp3\|🔊]] | B1    | adj.    | Năng động, dồi dào năng lượng | energetically (adv), energy (n), energize (v)                | [[Energetic]]   |
+| Frightened  | /ˈfraɪtnd/ [[frightened.mp3\|🔊]]     | B1    | adj.    | Sợ hãi                        | fright, frightenedly (adv)                                   | [[Frightened]]  |
+| Lonely      | /ˈləʊn.li/ [[lonely.mp3\|🔊]]         | B1    | adj.    | Cô đơn, lẻ loi                | loneliness (n)                                               | [[Lonely]]      |
+| Miserable   | /ˈmɪzrəbl/ [[miserable.mp3\|🔊]]      | B1    | adj.    | Khốn khổ                      | misery, miserably (adv), miserability (n)                    | [[Miserable]]   |
+| Proud       | /praʊd/ [[proud.mp3\|🔊]]             | B1    | adj.    | Tự hào, kiêu hãnh             | proudly (adv), pride (n)                                     | [[Proud]]       |
+| Exhausted   | /ɪɡˈzɔːstɪd/ [[exhausted.mp3\|🔊]]    | B2    | adj.    | Kiệt sức                      | exhaustion (n), exhaustedly (adv)                            | [[Exhausted]]   |
+| Fascinating | /ˈfæsɪneɪtɪŋ/ [[fascinating.mp3\|🔊]] | B2    | adj.    | Hấp dẫn                       | fascination (n), fascinatingly (adv)                         | [[Fascinating]] |
+| Sluggish    | /ˈslʌɡɪʃ/ [[sluggish.mp3\|🔊]]        | B2    | adj.    | Chậm chạp, lờ đờ              | sluggishness (n), sluggishly (adv)                           | [[Sluggish]]    |
+| Ecstatic    | /ɪkˈstætɪk/ [[ecstatic.mp3\|🔊]]      | C1    | adj.    | Vô cùng hạnh phúc             | ecstasy, ecstatically (adv), ecstaticness (n)                | [[Ecstatic]]    |
+| Lethargic   | /ləˈθɑːdʒɪk/ [[lethargic.mp3\|🔊]]    | C1    | adj.    | Lờ đờ, uể oải                 | lethargy, lethargically (adv), lethargicness (n)             | [[Lethargic]]   |
+| Despondent  | /dɪˈspɒndənt/ [[despondent.mp3\|🔊]]  | C2    | adj.    | Chán nản, tuyệt vọng          | despondency, despondently (adv), despondentness (n)          | [[Despondent]]  |
 
 ### 🌡️ 3. Nhiệt độ, Trạng thái vật lý & Độ phức tạp (Temperature, Physical States & Complexity)
 *Miêu tả mức độ nóng lạnh của môi trường cùng tính chất đơn giản hay rắc rối.*

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Metal
 *noun.*
 > /ˈmetl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Metal::Kim loại *(Phát âm: /ˈmetl/)* ![[metal.mp3]]<br><br>👪 **Word Family:** metallic (Adjective), metallurgy (Noun)<br><br>💬 **Ví dụ:** The gate is made of heavy metal and is hard to open.<br>*(-> Cánh cổng được làm bằng kim loại nặng và rất khó mở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity.

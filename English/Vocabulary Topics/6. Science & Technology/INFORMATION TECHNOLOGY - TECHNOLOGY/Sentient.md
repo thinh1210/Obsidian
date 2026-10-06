@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Sentient
 *adj*
 > /ˈsen.ti.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Sci-fi | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Sentient::Có tri giác, có cảm giác *(Phát âm: /ˈsen.ti.ənt/)* ![[sentient.mp3]]<br><br>👪 **Word Family:** Sentience (n)<br><br>💬 **Ví dụ:** I sometimes wonder if my cat is as sentient as a human.<br>*(-> Đôi khi tôi tự hỏi liệu con mèo của tôi có tri giác như một con người hay không.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to experience feelings and sensations.

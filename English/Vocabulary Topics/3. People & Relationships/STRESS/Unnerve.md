@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Unnerve
 *v.*
 > /ˌʌnˈnɜːrv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Unnerve::Làm ai nhụt chí, hoảng sợ *(Phát âm: /ˌʌnˈnɜːrv/)* ![[unnerve.mp3]]<br><br>👪 **Word Family:** unnerving (adj)<br><br>💬 **Ví dụ:** The strange noise unnerved me.<br>*(-> Tiếng ồn kỳ lạ làm tôi thấy bất an.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make (someone) lose courage or confidence

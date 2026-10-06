@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Hygiene
 *n*
 > /ˈhaɪdʒiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Hygiene::Vệ sinh *(Phát âm: /ˈhaɪdʒiːn/)* ![[hygiene.mp3]]<br><br>👪 **Word Family:** hygienic (adj), hygienically (adv), hygienist (n)<br><br>💬 **Ví dụ:** Good personal hygiene is the first line of defense against many viruses.<br>*(-> Vệ sinh cá nhân tốt là tuyến phòng thủ đầu tiên chống lại nhiều loại virus.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.

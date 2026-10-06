@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Scooter
 *n.*
 > /ˈskuːtər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Scooter::Loại xe gắn máy có sàn để chân tiện lợi, dễ điều khiển *(Phát âm: /ˈskuːtər/)* ![[scooter.mp3]]<br><br>👪 **Word Family:** scoot (v)<br><br>💬 **Ví dụ:** Shared e-scooters have become ubiquitous across European cities.<br>*(-> Những chiếc xe ga điện chia sẻ đã trở nên quen thuộc khắp các thành phố châu Âu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A light two-wheeled vehicle with a step-through frame and a platform for the rider's feet.

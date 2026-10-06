@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Aspect
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - facet, feature, dimension
+
+
+## 🗂️ Flashcard
+Aspect::Khía cạnh, diện mạo *(Phát âm: /ˈæs.pekt/)* ![[aspect.mp3]]<br><br>👪 **Word Family:** [Noun]: aspect, [Adj]: aspectual<br><br>💬 **Ví dụ:** We must consider every aspect of the problem.<br>*(-> Chúng ta phải xem xét mọi khía cạnh của vấn đề.)*

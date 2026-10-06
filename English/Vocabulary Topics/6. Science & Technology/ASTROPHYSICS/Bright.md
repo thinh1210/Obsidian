@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Bright
 *adjective*
 > /braɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Bright::Sáng chói, tươi sáng *(Phát âm: /braɪt/)* ![[bright.mp3]]<br><br>👪 **Word Family:** brightness (n), brightly (adv), brighten (v)<br><br>💬 **Ví dụ:** The stars are very bright tonight.<br>*(-> Đêm nay các ngôi sao rất sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Giving out or reflecting much light; shining.

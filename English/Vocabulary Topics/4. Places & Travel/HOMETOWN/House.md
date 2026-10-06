@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # House
 *n.*
 > /haʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+House::Ngôi nhà *(Phát âm: /haʊs/)* ![[house.mp3]]<br><br>👪 **Word Family:** Household (n.)<br><br>💬 **Ví dụ:** My house is small but cozy.<br>*(-> Nhà tôi nhỏ nhưng ấm cúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building for human habitation.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Grievance
 *n.*
 > /ˈɡriː.vəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Grievance::Sự bất bình, khiếu nại chính thức *(Phát âm: /ˈɡriː.vəns/)* ![[grievance.mp3]]<br><br>👪 **Word Family:** grieve, grievous<br><br>💬 **Ví dụ:** Several employees filed a grievance against their manager.<br>*(-> Một số nhân viên đã nộp đơn khiếu nại đối với quản lý của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A real or imagined cause for complaint, especially unfair treatment

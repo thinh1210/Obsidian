@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Archaeologist
 *noun*
 > /ˌɑː.kiˈɒl.ə.dʒɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Archaeologist::Nhà khảo cổ học *(Phát âm: /ˌɑː.kiˈɒl.ə.dʒɪst/)* ![[archaeologist.mp3]]<br><br>👪 **Word Family:** archaeology (n), archaeological (adj)<br><br>💬 **Ví dụ:** An archaeologist found an ancient tomb hidden deep in the jungle.<br>*(-> Một nhà khảo cổ học đã tìm thấy một lăng mộ cổ ẩn sâu trong rừng rậm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who studies human history and prehistory through the excavation of sites and the analysis of artifacts.

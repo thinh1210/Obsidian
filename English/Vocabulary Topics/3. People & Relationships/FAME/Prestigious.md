@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Prestigious
 *adj.*
 > /presˈtɪdʒəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Prestigious::Danh giá *(Phát âm: /presˈtɪdʒəs/)* ![[prestigious.mp3]]<br><br>👪 **Word Family:** prestige (n.)<br><br>💬 **Ví dụ:** He won a prestigious award.<br>*(-> Anh ấy đã giành một giải thưởng danh giá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Inspiring respect and admiration; having high status.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Camouflage
 *noun/verb*
 > /ˈkæm.ə.flɑːʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Camouflage::Sự ngụy trang, ngụy trang *(Phát âm: /ˈkæm.ə.flɑːʒ/)* ![[camouflage.mp3]]<br><br>👪 **Word Family:** camouflage (n/v), camouflaged (adj)<br><br>💬 **Ví dụ:** The octopus used camouflage to blend in perfectly with the sandy sea floor.<br>*(-> Con bạch tuộc đã sử dụng khả năng ngụy trang để hòa mình hoàn hảo vào đáy biển đầy cát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (n) The disguising of military personnel, equipment, and installations to make them blend in with surroundings; (v) hide or disguise the presence of.

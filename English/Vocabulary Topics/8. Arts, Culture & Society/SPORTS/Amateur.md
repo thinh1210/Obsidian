@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Amateur
 *adj.*
 > /ˈæm.ə.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Amateur::Nghiệp dư *(Phát âm: /ˈæm.ə.tər/)* ![[amateur.mp3]]<br><br>👪 **Word Family:** amateurism, amateurish<br><br>💬 **Ví dụ:** He is an amateur photographer who loves taking pictures of sports.<br>*(-> Anh ấy là một nhiếp ảnh gia nghiệp dư thích chụp ảnh thể thao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Engaging or engaged in an activity as a pastime rather than professionally.

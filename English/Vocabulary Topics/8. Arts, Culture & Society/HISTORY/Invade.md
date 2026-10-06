@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Invade
 *verb*
 > /ɪnˈveɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Invade::Xâm lược, xâm lấn *(Phát âm: /ɪnˈveɪd/)* ![[invade.mp3]]<br><br>👪 **Word Family:** invasion (n), invader (n), invasive (adj)<br><br>💬 **Ví dụ:** The army plans to invade the capital city tomorrow morning.<br>*(-> Quân đội có kế hoạch xâm chiếm thành phố thủ đô vào sáng mai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To enter a country or region with an armed force with the intent of conquering it.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Fitness
 *n.*
 > /ˈfɪt.nəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Fitness::Tình trạng thể lực khỏe mạnh, sung sức và cân đối của cơ thể *(Phát âm: /ˈfɪt.nəs/)* ![[fitness.mp3]]<br><br>👪 **Word Family:** fit (adj/v), unfat (adj)<br><br>💬 **Ví dụ:** Walking ten thousand steps every day is a simple way to maintain baseline fitness.<br>*(-> Đi bộ mười ngàn bước mỗi ngày là một cách đơn giản để duy trì thể lực căn bản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The condition of being physically fit and healthy, especially as the result of exercise and proper nutrition.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Custom
 *Noun*
 > /ˈkʌstəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
+
+## 🗂️ Flashcard
+Custom::Phong tục, tập quán *(Phát âm: /ˈkʌstəm/)* ![[custom.mp3]]<br><br>👪 **Word Family:** Customary, Customer<br><br>💬 **Ví dụ:** It's a local custom to bow when greeting.<br>*(-> Cúi chào khi gặp mặt là một phong tục địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traditional and widely accepted way of behaving or doing something.

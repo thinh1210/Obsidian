@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Cost
 *Noun*
 > /kɒst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Cost::Chi phí, giá cả (số tiền cần để mua, làm, hoặc tạo ra thứ gì) *(Phát âm: /kɒst/)* ![[cost.mp3]]<br><br>👪 **Word Family:** Verb: cost (trị giá, tốn), Adj: costly (đắt đỏ)<br><br>💬 **Ví dụ:** The cost of fixing the roof was much higher than we expected.<br>*(-> Chi phí sửa mái nhà cao hơn nhiều so với chúng tôi mong đợi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of money needed to buy, do, or make something.

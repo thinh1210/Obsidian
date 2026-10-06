@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Stomachache
 *n*
 > /ˈstʌmək eɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Stomachache::Đau dạ dày, đau bụng *(Phát âm: /ˈstʌmək eɪk/)* ![[stomachache.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Drinking cold milk in the morning gave me a stomachache.<br>*(-> Uống sữa lạnh vào buổi sáng làm tôi bị đau bụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Pain in a person's stomach.

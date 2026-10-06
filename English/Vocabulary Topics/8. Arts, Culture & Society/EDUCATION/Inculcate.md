@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Inculcate
 *v.*
 > /ˈɪnkʌlkeɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Inculcate::Khắc sâu, ghi tâm, giáo dục lặp đi lặp lại *(Phát âm: /ˈɪnkʌlkeɪt/)* ![[inculcate.mp3]]<br><br>👪 **Word Family:** inculcation<br><br>💬 **Ví dụ:** Parents try to inculcate good manners in their children.<br>*(-> Cha mẹ cố gắng dạy trẻ em ghi nhớ sâu sắc các hành vi cư xử tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To instill an attitude, idea, or habit by persistent instruction

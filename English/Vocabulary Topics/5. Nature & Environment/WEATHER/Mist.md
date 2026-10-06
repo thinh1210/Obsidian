@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Mist
 *noun*
 > /mɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Mist::Sương mù nhẹ, sương giăng *(Phát âm: /mɪst/)* ![[mist.mp3]]<br><br>👪 **Word Family:** Misty (adj), mistiness (noun), mist (verb)<br><br>💬 **Ví dụ:** The valley was covered in a beautiful morning mist.<br>*(-> Thung lũng được bao phủ trong một làn sương mù buổi sớm tuyệt đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A cloud of tiny water droplets in the atmosphere, thinner than fog

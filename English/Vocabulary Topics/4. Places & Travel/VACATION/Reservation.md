@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Reservation
 *Noun*
 > /ˌrɛzərˈveɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Reservation::Sự đặt chỗ *(Phát âm: /ˌrɛzərˈveɪʃən/)* ![[reservation.mp3]]<br><br>👪 **Word Family:** reserve (v)<br><br>💬 **Ví dụ:** I made a reservation at the restaurant.<br>*(-> Tôi đã đặt chỗ ở nhà hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement in which something such as a seat on an aircraft or a table at a restaurant is kept for you.

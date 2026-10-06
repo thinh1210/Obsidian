@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Nutrition
 *n.*
 > /njuːˈtrɪʃ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Nutrition::Dinh dưỡng *(Phát âm: /njuːˈtrɪʃ.ən/)* ![[nutrition.mp3]]<br><br>👪 **Word Family:** nutritious<br><br>💬 **Ví dụ:** Nutrition is important for kids.<br>*(-> Dinh dưỡng rất quan trọng cho trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The process of providing or obtaining the food necessary for health and growth.

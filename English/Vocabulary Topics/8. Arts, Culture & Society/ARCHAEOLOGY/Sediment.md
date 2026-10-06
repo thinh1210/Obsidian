@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Sediment
 *noun*
 > /ˈsedɪmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Sediment::Trầm tích, cặn lắng *(Phát âm: /ˈsedɪmənt/)* ![[sediment.mp3]]<br><br>👪 **Word Family:** sedimentary (adj), sedimentation (noun)<br><br>💬 **Ví dụ:** The river carries a lot of sediment.<br>*(-> Dòng sông mang theo rất nhiều trầm tích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Matter that settles to the bottom of a liquid; dregs

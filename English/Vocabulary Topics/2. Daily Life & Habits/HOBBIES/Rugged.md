@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Rugged
 *adj*
 > /ˈrʌɡɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Rugged::Gồ ghề, lởm chởm (địa hình) *(Phát âm: /ˈrʌɡɪd/)* ![[rugged.mp3]]<br><br>👪 **Word Family:** Ruggedness (n), Ruggedly (adv)<br><br>💬 **Ví dụ:** You need a good pair of boots for this rugged trail.<br>*(-> Bạn cần một đôi bốt tốt cho con đường mòn gồ ghề này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of ground or terrain) having a broken, rocky, and uneven surface.

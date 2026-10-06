@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Authoritarianism
 *n*
 > /ɔːˌθɒr.ɪˈteər.i.ə.nɪz.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Authoritarianism::Chủ nghĩa độc tài / toàn trị *(Phát âm: /ɔːˌθɒr.ɪˈteər.i.ə.nɪz.əm/)* ![[authoritarianism.mp3]]<br><br>👪 **Word Family:** authoritarian (adj/n), authoritative (adj), authority (n)<br><br>💬 **Ví dụ:** Citizens fled the country as authoritarianism tightened its grip.<br>*(-> Người dân bỏ trốn khỏi đất nước khi chủ nghĩa độc tài siết chặt hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A political system that concentrates power in a leader or elite who demands strict obedience.

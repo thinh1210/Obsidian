@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Metropolis
 *n.*
 > /məˈtrɑː.pəl.ɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Metropolis::Đô thị lớn, siêu đô thị *(Phát âm: /məˈtrɑː.pəl.ɪs/)* ![[metropolis.mp3]]<br><br>👪 **Word Family:** metropolitan (adj)<br><br>💬 **Ví dụ:** New York is a bustling metropolis.<br>*(-> New York là một đô thị nhộn nhịp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The capital or chief city of a country or region; a very large and busy city.

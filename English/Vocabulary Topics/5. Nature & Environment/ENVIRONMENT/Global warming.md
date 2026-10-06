@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Global warming
 *n.*
 > /ˌɡləʊbl ˈwɔːmɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Global warming::Sự nóng lên toàn cầu *(Phát âm: /ˌɡləʊbl ˈwɔːmɪŋ/)* ![[global_warming.mp3]]<br><br>👪 **Word Family:** global (adj), warm (adj/v), warmth (n)<br><br>💬 **Ví dụ:** Global warming is causing polar ice caps to melt.<br>*(-> Sự nóng lên toàn cầu đang làm tan các chỏm băng ở cực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A gradual increase in the overall temperature of the earth's atmosphere generally attributed to the greenhouse effect caused by increased levels of carbon dioxide, chlorofluorocarbons, and other pollutants.

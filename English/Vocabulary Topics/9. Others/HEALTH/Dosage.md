@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Dosage
 *n.*
 > /ˈdəʊ.sɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Dosage::Liều lượng, định lượng thuốc được bác sĩ chỉ định dùng *(Phát âm: /ˈdəʊ.sɪdʒ/)* ![[dosage.mp3]]<br><br>👪 **Word Family:** dose (n/v), overdose (n/v)<br><br>💬 **Ví dụ:** Always read the label carefully to check the correct dosage for children.<br>*(-> Luôn đọc kỹ nhãn để kiểm tra liều lượng chính xác cho trẻ nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The exact amount of a medicine or drug that is advised to be taken at one time or over a period.

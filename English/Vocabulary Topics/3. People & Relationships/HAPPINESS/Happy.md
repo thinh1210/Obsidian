@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Happy
 *adj.*
 > /ˈhæp.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Happy::Vui vẻ, hạnh phúc *(Phát âm: /ˈhæp.i/)* ![[happy.mp3]]<br><br>👪 **Word Family:** Happiness (n), Happily (adv)<br><br>💬 **Ví dụ:** I am happy today.<br>*(-> Hôm nay tôi vui.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing pleasure.

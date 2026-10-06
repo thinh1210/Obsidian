@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Listen
 *verb*
 > /ˈlɪs.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Listen::Lắng nghe *(Phát âm: /ˈlɪs.ən/)* ![[listen.mp3]]<br><br>👪 **Word Family:** listener<br><br>💬 **Ví dụ:** Listen to me.<br>*(-> Nghe tôi này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Give one's attention to a sound.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Beach
 *Noun*
 > /biːtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1-A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Beach::Bãi biển *(Phát âm: /biːtʃ/)* ![[beach.mp3]]<br><br>👪 **Word Family:** beachy (adj)<br><br>💬 **Ví dụ:** We spent all day at the beach.<br>*(-> Chúng tôi dành cả ngày ở bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of sand or stones next to the sea.

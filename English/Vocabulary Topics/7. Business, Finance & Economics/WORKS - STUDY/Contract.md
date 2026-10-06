@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Contract
 *n.*
 > /ˈkɒn.trækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Năng lực nhận thức, Trí tuệ uyên bác & Đãi ngộ
+
+## 🗂️ Flashcard
+Contract::Hợp đồng có tính ràng buộc pháp lý giữa các bên tham gia *(Phát âm: /ˈkɒn.trækt/)* ![[contract.mp3]]<br><br>👪 **Word Family:** contractual (adj), contractor (n), contractually (adv)<br><br>💬 **Ví dụ:** Make sure you read every clause carefully before signing any employment contract.<br>*(-> Hãy chắc chắn bạn đọc kỹ từng điều khoản trước khi đặt bút ký bất kỳ hợp đồng lao động nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written or spoken legal agreement between two or more parties that is intended to be enforceable by law.

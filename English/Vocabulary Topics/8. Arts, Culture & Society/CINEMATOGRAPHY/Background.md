@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Background
 *n.*
 > /ˈbækɡraʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Background::Hậu cảnh, nền *(Phát âm: /ˈbækɡraʊnd/)* ![[background.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The beautiful mountains in the background made the shot look epic.<br>*(-> Những ngọn núi tuyệt đẹp ở hậu cảnh làm cho cảnh quay trông thật hùng vĩ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of a picture, scene, or design that forms a setting for the main figures or objects

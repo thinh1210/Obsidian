@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Road
 *n.*
 > /rəʊd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Road::Con đường *(Phát âm: /rəʊd/)* ![[road.mp3]]<br><br>👪 **Word Family:** Roadway (n.)<br><br>💬 **Ví dụ:** We live down the road.<br>*(-> Chúng tôi sống ở cuối đường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wide way leading from one place to another.

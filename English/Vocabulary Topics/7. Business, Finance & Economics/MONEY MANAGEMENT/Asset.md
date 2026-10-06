@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Asset
 *Noun*
 > /ˈæset/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Asset::Tài sản (phần chất lượng, người hoặc vật hữu ích hoặc có giá trị; các khoản sở hữu có thể đổi thành tiền mặt) *(Phát âm: /ˈæset/)* ![[asset.mp3]]<br><br>👪 **Word Family:** Noun: assets (tài sản)<br><br>💬 **Ví dụ:** Good health is your most valuable asset.<br>*(-> Sức khỏe tốt là tài sản giá trị nhất của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A useful or valuable quality, person, or thing; items of ownership convertible into cash.

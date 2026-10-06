@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Felicity
 *n.*
 > /fəˈlɪs.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Bình yên, Hài lòng & Biết ơn
+
+## 🗂️ Flashcard
+Felicity::Hạnh phúc lớn lao, sự viên mãn *(Phát âm: /fəˈlɪs.ə.ti/)* ![[felicity.mp3]]<br><br>👪 **Word Family:** Felicitous (adj)<br><br>💬 **Ví dụ:** They lived in great felicity.<br>*(-> Họ đã sống trong niềm hạnh phúc lớn lao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intense happiness.

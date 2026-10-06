@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Meadow
 *n.*
 > /ˈmedəʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Meadow::Đồng cỏ tự nhiên, trảng cỏ dại ngập tràn sắc hoa và bướm ong *(Phát âm: /ˈmedəʊ/)* ![[meadow.mp3]]<br><br>👪 **Word Family:** meadowy (adj), meadowland (n)<br><br>💬 **Ví dụ:** We laid a blanket in the sunny meadow and watched colorful butterflies dance.<br>*(-> Chúng tôi trải tấm thảm trên đồng cỏ ngập nắng và ngắm những cánh bướm rực rỡ dập dờn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of grassland, especially one used for hay or wildflowers.

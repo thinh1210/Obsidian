@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Burglary
 *noun*
 > /ˈbɜːɡləri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Burglary::Tội đột nhập trộm cắp *(Phát âm: /ˈbɜːɡləri/)* ![[burglary.mp3]]<br><br>👪 **Word Family:** burglar (n), burgle (v)<br><br>💬 **Ví dụ:** We installed a new alarm system after the burglary.<br>*(-> Chúng tôi đã lắp đặt một hệ thống báo động mới sau vụ đột nhập trộm cắp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The crime of illegally entering a building and stealing things from it

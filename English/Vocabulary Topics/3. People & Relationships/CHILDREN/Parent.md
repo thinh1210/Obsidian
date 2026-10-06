@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Parent
 *noun*
 > /ˈper.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Parent::Cha hoặc mẹ *(Phát âm: /ˈper.ənt/)* ![[parent.mp3]]<br><br>👪 **Word Family:** Parental (adj), Parenthood (n)<br><br>💬 **Ví dụ:** My parent is here.<br>*(-> Cha mẹ tôi ở đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A father or mother.

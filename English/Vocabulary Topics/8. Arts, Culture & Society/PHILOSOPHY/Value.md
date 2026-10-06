@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Value
 *n.*
 > /ˈvæl.juː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Value::Giá trị, hệ giá trị *(Phát âm: /ˈvæl.juː/)* ![[value.mp3]]<br><br>👪 **Word Family:** value (v), valuable, valuation<br><br>💬 **Ví dụ:** We need to teach children traditional moral values.<br>*(-> Chúng ta cần dạy trẻ em các giá trị đạo đức truyền thống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Principles or standards of behavior; one's judgment of what is important in life.

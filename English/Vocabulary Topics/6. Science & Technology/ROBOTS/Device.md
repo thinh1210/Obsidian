@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Device
 *noun.*
 > /dɪˈvaɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Device::Thiết bị, dụng cụ *(Phát âm: /dɪˈvaɪs/)* ![[device.mp3]]<br><br>👪 **Word Family:** devise (verb)<br><br>💬 **Ví dụ:** A smartphone is a highly advanced electronic device.<br>*(-> Điện thoại thông minh là một thiết bị điện tử rất tiên tiến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object or machine that has been invented for a particular purpose

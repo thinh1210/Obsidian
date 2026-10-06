@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Sunny
 *adj.*
 > /ˈsʌni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Sunny::Có nắng, nắng ấm *(Phát âm: /ˈsʌni/)* ![[sunny.mp3]]<br><br>👪 **Word Family:** Sun (noun), sunniness (noun)<br><br>💬 **Ví dụ:** It is a sunny day today.<br>*(-> Hôm nay là một ngày nắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Bright with light from the sun

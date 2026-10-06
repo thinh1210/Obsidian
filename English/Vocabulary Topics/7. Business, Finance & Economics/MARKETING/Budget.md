@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Budget
 *noun*
 > /ˈbʌdʒɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Chiến dịch truyền thông, Thương hiệu & Nhận diện
+
+## 🗂️ Flashcard
+Budget::Ngân sách *(Phát âm: /ˈbʌdʒɪt/)* ![[budget.mp3]]<br><br>👪 **Word Family:** budget (v), budgetary (adj)<br><br>💬 **Ví dụ:** We are traveling on a tight budget, so we stay in cheap hostels.<br>*(-> Chúng tôi đang đi du lịch với ngân sách eo hẹp, vì vậy chúng tôi ở trong các nhà nghỉ giá rẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An estimate of income and expenditure for a set period of time

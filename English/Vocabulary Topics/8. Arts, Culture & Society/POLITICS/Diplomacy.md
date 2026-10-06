@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Diplomacy
 *n*
 > /dɪˈpləʊ.mə.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Ngoại giao, Chủ quyền & Quan hệ quốc tế
+
+## 🗂️ Flashcard
+Diplomacy::Ngoại giao *(Phát âm: /dɪˈpləʊ.mə.si/)* ![[diplomacy.mp3]]<br><br>👪 **Word Family:** diplomat (n), diplomatic (adj), diplomatically (adv)<br><br>💬 **Ví dụ:** The two countries resolved the dispute through careful diplomacy.<br>*(-> Hai quốc gia giải quyết tranh chấp thông qua ngoại giao thận trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The management of international relations through negotiation and dialogue.

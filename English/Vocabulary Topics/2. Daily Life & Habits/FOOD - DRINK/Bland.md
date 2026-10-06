@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Bland
 *Adj*
 > /blænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Bland::Nhạt nhẽo, vô vị *(Phát âm: /blænd/)* ![[bland.mp3]]<br><br>👪 **Word Family:** Blandness (Noun): Sự nhạt nhẽo<br><br>💬 **Ví dụ:** I find chicken a little bland.<br>*(-> Tôi thấy thịt gà hơi nhạt nhẽo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not having a strong taste or character.

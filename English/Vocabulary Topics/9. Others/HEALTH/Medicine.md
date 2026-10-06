@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Medicine
 *n*
 > /ˈmedsn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Medicine::Thuốc, y học *(Phát âm: /ˈmedsn/)* ![[medicine.mp3]]<br><br>👪 **Word Family:** medical (adj), medically (adv), medicate (v)<br><br>💬 **Ví dụ:** Don't forget to take your medicine after lunch.<br>*(-> Đừng quên uống thuốc sau bữa ăn trưa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A substance used in treating or preventing disease, or the science of preventing and curing disease.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Clock
 *n.*
 > /klɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Clock::Đồng hồ (treo tường/để bàn) *(Phát âm: /klɒk/)* ![[clock.mp3]]<br><br>👪 **Word Family:** clockwise (adv.)<br><br>💬 **Ví dụ:** Look at the clock.<br>*(-> Hãy nhìn đồng hồ kìa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An instrument for measuring and showing time

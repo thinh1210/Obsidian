@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Qualify
 *v.*
 > /ˈkwɒl.ɪ.faɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Qualify::Đủ điều kiện, đủ tiêu chuẩn *(Phát âm: /ˈkwɒl.ɪ.faɪ/)* ![[qualify.mp3]]<br><br>👪 **Word Family:** qualification, qualified, qualifier<br><br>💬 **Ví dụ:** You must work here for a year to qualify for paid leave.<br>*(-> Bạn phải làm việc ở đây một năm để đủ điều kiện nghỉ phép có lương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To fulfill the necessary conditions or have required skills

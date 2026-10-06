@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Silk
 *n.*
 > /sɪlk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Silk::Vải lụa tơ tằm mềm mại óng ả *(Phát âm: /sɪlk/)* ![[silk.mp3]]<br><br>👪 **Word Family:** silky (adj), silken (adj)<br><br>💬 **Ví dụ:** She received an exquisite embroidered silk scarf as a souvenir from Hanoi.<br>*(-> Cô ấy nhận được một chiếc khăn lụa thêu tinh xảo làm quà lưu niệm từ Hà Nội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A delicate, soft, and shiny fabric made from threads produced by silkworms.

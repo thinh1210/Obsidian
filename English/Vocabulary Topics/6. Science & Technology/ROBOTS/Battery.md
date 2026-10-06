@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Battery
 *noun.*
 > /ˈbæt̬.ɚ.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Battery::Pin, ắc-quy *(Phát âm: /ˈbæt̬.ɚ.i/)* ![[battery.mp3]]<br><br>👪 **Word Family:** batter (verb)<br><br>💬 **Ví dụ:** My phone battery is almost dead.<br>*(-> Pin điện thoại của tôi gần hết rồi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device that produces electricity to provide power for mobile devices

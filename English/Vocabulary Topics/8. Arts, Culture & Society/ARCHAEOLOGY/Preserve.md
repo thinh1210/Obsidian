@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Preserve
 *verb*
 > /prɪˈzɜːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Preserve::Bảo tồn, giữ gìn *(Phát âm: /prɪˈzɜːv/)* ![[preserve.mp3]]<br><br>👪 **Word Family:** preservation (noun), preservative (noun)<br><br>💬 **Ví dụ:** It is important to preserve national traditions.<br>*(-> Việc bảo tồn các truyền thống dân tộc là rất quan trọng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep something in its original state or in good condition

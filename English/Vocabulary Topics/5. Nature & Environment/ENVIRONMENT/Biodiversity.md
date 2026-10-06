@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Biodiversity
 *n.*
 > /ˌbaɪəʊdaɪˈvɜːsəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Biodiversity::Sự đa dạng sinh học *(Phát âm: /ˌbaɪəʊdaɪˈvɜːsəti/)* ![[biodiversity.mp3]]<br><br>👪 **Word Family:** biodiverse (adj)<br><br>💬 **Ví dụ:** The Amazon rainforest is famous for its rich biodiversity.<br>*(-> Rừng mưa Amazon nổi tiếng với sự đa dạng sinh học phong phú.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The variety of plant and animal life in the world or in a particular habitat, a high level of which is usually considered to be important and desirable.

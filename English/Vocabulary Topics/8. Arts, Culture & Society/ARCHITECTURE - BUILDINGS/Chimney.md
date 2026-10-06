@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Chimney
 *n.*
 > /ˈtʃɪmni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Chimney::Ống khói *(Phát âm: /ˈtʃɪmni/)* ![[chimney.mp3]]<br><br>👪 **Word Family:** chimneypiece<br><br>💬 **Ví dụ:** Smoke rose from the chimney of the cottage.<br>*(-> Khói bốc lên từ ống khói của ngôi nhà tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A vertical pipe that conducts smoke and combustion gases up from a fire

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Suzerainty
 *n.*
 > /ˈsuːzəreɪnti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Suzerainty::Quyền tông chủ (quyền tối cao đối với nước chư hầu) *(Phát âm: /ˈsuːzəreɪnti/)* ![[suzerainty.mp3]]<br><br>👪 **Word Family:** suzerain<br><br>💬 **Ví dụ:** The empire claimed suzerainty over the neighboring regions.<br>*(-> Đế chế tuyên bố quyền tông chủ đối với các vùng lân cận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The right of a country to rule over another country, which still has its own local government

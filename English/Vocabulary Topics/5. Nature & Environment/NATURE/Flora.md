@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Flora
 *Noun*
 > /ˈflɔːrə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Flora::Hệ thực vật *(Phát âm: /ˈflɔːrə/)* ![[flora.mp3]]<br><br>👪 **Word Family:** floral, floristic<br><br>💬 **Ví dụ:** Scientists are cataloging the native flora of the desert.<br>*(-> Các nhà khoa học đang lập danh mục hệ thực vật bản địa của sa mạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The plants of a particular region, habitat, or geological period.

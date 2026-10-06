@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Sarcophagus
 *noun*
 > /sɑːˈkɒfəɡəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Sarcophagus::Quan tài đá, quách *(Phát âm: /sɑːˈkɒfəɡəs/)* ![[sarcophagus.mp3]]<br><br>👪 **Word Family:** sarcophagi (plural noun)<br><br>💬 **Ví dụ:** The mummy was found inside a beautifully carved sarcophagus.<br>*(-> Xác ướp được tìm thấy bên trong một chiếc quan tài đá được chạm khắc đẹp đẽ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A stone coffin, typically adorned with a sculpture or inscription and associated with the ancient civilizations of Egypt, Rome, and Greece

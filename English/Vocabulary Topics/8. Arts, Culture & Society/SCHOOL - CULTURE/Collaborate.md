@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Collaborate
 *verb*
 > /kəˈlæbəreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Collaborate::Hợp tác, cộng tác *(Phát âm: /kəˈlæbəreɪt/)* ![[collaborate.mp3]]<br><br>👪 **Word Family:** collaboration (n), collaborative (adj), collaborator (n)<br><br>💬 **Ví dụ:** Students are encouraged to collaborate on group assignments.<br>*(-> Học sinh được khuyến khích hợp tác trong các bài tập nhóm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Work jointly on an activity, especially to produce or create something.

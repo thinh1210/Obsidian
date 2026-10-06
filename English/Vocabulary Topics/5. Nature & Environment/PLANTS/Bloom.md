@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Bloom
 *verb*
 > /bluːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Bloom::Nở hoa, nở rộ *(Phát âm: /bluːm/)* ![[bloom.mp3]]<br><br>👪 **Word Family:** Noun: bloom (hoa, sự nở rộ), Verb: bloom (nở hoa), Adjective: blooming (nở hoa, tràn đầy sức sống)<br><br>💬 **Ví dụ:** The cherry blossoms bloom every spring.<br>*(-> Hoa anh đào nở rộ vào mỗi mùa xuân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To produce flowers; to be in a state of beauty and vigor.

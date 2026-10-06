@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Impeccable
 *adj*
 > /ɪmˈpek.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Impeccable::Hoàn hảo, không tì vết *(Phát âm: /ɪmˈpek.ə.bəl/)* ![[impeccable.mp3]]<br><br>👪 **Word Family:** impeccably (adv)<br><br>💬 **Ví dụ:** He has impeccable taste in clothes.<br>*(-> Anh ấy có gu ăn mặc hoàn hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** In accordance with the highest standards; faultless.

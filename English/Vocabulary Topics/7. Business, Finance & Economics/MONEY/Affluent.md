@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Affluent
 *adjective*
 > /ˈæf.lu.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** MONEY | **Phân nhóm:** Giàu có, Thịnh vượng & Đầu tư sinh lợi
+
+## 🗂️ Flashcard
+Affluent::Giàu có, thịnh vượng, sung túc *(Phát âm: /ˈæf.lu.ənt/)* ![[affluent.mp3]]<br><br>👪 **Word Family:** affluence (n), affluently (adv)<br><br>💬 **Ví dụ:** They live in an affluent suburb of Chicago.<br>*(-> Họ sống ở một vùng ngoại ô giàu có của Chicago.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a great deal of money; wealthy

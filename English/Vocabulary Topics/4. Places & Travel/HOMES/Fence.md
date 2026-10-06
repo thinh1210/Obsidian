@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Fence
 *n.*
 > /fens/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Fence::Vách rào bằng gỗ, kim loại ngăn ranh giới quanh ngôi nhà *(Phát âm: /fens/)* ![[fence.mp3]]<br><br>👪 **Word Family:** fencing (n)<br><br>💬 **Ví dụ:** A neat white fence separated their yard from the sidewalk.<br>*(-> Một hàng rào sơn trắng tinh tươm ngăn cách khoảng sân với vỉa hè.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A barrier enclosing an area of ground, typically made of wire or wood.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Paternal
 *adj*
 > /pəˈtɝː.nəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Paternal::Thuộc về cha *(Phát âm: /pəˈtɝː.nəl/)* ![[paternal.mp3]]<br><br>👪 **Word Family:** Paternity (n)<br><br>💬 **Ví dụ:** He has a strong paternal instinct.<br>*(-> Anh ấy có bản năng làm cha mạnh mẽ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or appropriate to a father.

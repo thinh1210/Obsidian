@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Leaf
 *noun*
 > /liːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Leaf::Lá cây *(Phát âm: /liːf/)* ![[leaf.mp3]]<br><br>👪 **Word Family:** leafy, leaflet<br><br>💬 **Ví dụ:** In autumn, the leaves turn brown and fall.<br>*(-> Vào mùa thu, lá cây chuyển sang màu nâu và rụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A flattened structure of a higher plant, typically green and blade-like, that is attached to a stem directly or via a stalk.

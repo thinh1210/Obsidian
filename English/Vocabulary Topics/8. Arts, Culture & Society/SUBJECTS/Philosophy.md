@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Philosophy
 *noun*
 > /fəˈlɒsəfi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Philosophy::Triết học *(Phát âm: /fəˈlɒsəfi/)* ![[philosophy.mp3]]<br><br>👪 **Word Family:** philosopher, philosophical, philosophize<br><br>💬 **Ví dụ:** Philosophy classes teach you how to think critically.<br>*(-> Lớp học triết học dạy bạn cách suy nghĩ phản biện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of the fundamental nature of knowledge, reality, and existence, especially when considered as an academic discipline.

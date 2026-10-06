@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Reconstruct
 *verb*
 > /ˌriːkənˈstrʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Reconstruct::Tái dựng, phục dựng *(Phát âm: /ˌriːkənˈstrʌkt/)* ![[reconstruct.mp3]]<br><br>👪 **Word Family:** reconstruction (noun), reconstructive (adj)<br><br>💬 **Ví dụ:** The police tried to reconstruct the crime scene.<br>*(-> Cảnh sát cố gắng dựng lại hiện trường vụ án.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To build or create something again that has been damaged or destroyed

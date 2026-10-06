@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Magnetic
 *adjective*
 > /mæɡˈnet.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Magnetic::Từ tính – liên quan đến hoặc có tính chất của nam châm; có khả năng hút sắt hoặc thép *(Phát âm: /mæɡˈnet.ɪk/)* ![[magnetic.mp3]]<br><br>👪 **Word Family:** magnet (n), magnetism (n), magnetise/magnetize (v), electromagnet (n)<br><br>💬 **Ví dụ:** Fridge magnets use a magnetic strip to stick to the door.<br>*(-> Nam châm tủ lạnh dùng dải từ để dính vào cửa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or exhibiting the properties of a magnet; having the ability to attract iron or steel.

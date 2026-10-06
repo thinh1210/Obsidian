@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Obfuscation
 *noun*
 > /ˌɒb.fʌsˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Obfuscation::Sự làm mờ ám, sự che giấu (mã nguồn) *(Phát âm: /ˌɒb.fʌsˈkeɪ.ʃən/)* ![[obfuscation.mp3]]<br><br>👪 **Word Family:** Obfuscate (v)<br><br>💬 **Ví dụ:** He used obfuscation so nobody could copy his script.<br>*(-> Anh ta dùng cách che giấu mã để không ai có thể sao chép script của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of making something deliberately unclear, especially code to prevent reverse engineering.

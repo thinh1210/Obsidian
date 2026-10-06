@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Deposit
 *n.*
 > /dɪˈpɒzɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Thuê nhà, Pháp lý & Giao dịch bất động sản
+
+## 🗂️ Flashcard
+Deposit::Khoản tiền trả trước để giữ chỗ hoặc cam kết hợp đồng thuê nhà *(Phát âm: /dɪˈpɒzɪt/)* ![[deposit.mp3]]<br><br>👪 **Word Family:** depositor (n), deposit (v)<br><br>💬 **Ví dụ:** You must pay two months' rent as a refundable security deposit.<br>*(-> Bạn cần đặt cọc hai tháng tiền thuê như một khoản bảo đảm có hoàn lại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum payable as a first installment on the purchase of something or as a pledge for a rental contract.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Partner
 *noun*
 > /ˈpɑːtnə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Partner::Bạn đời/đối tác *(Phát âm: /ˈpɑːtnə(r)/)* ![[partner.mp3]]<br><br>👪 **Word Family:** Partnership (noun)<br><br>💬 **Ví dụ:** He is my partner.<br>*(-> Anh ấy là bạn đời của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person with whom one is in a romantic relationship.

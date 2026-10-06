@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Visit
 *Verb/Noun*
 > /ˈvɪz.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Trải nghiệm, Phong cách du lịch & Khám phá
+
+## 🗂️ Flashcard
+Visit::Thăm, chuyến thăm *(Phát âm: /ˈvɪz.ɪt/)* ![[visit.mp3]]<br><br>👪 **Word Family:** visitor (n)<br><br>💬 **Ví dụ:** We will visit my grandmother this weekend.<br>*(-> Chúng tôi sẽ đến thăm bà tôi vào cuối tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To go to a place in order to look at it, or to a person in order to spend time with them.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Neuroplasticity
 *noun*
 > /ˌnjʊə.rəʊ.plæˈstɪs.ɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Hóa sinh học, Sự sống & Quy luật tiến hóa
+
+## 🗂️ Flashcard
+Neuroplasticity::Tính dẻo thần kinh – khả năng não bộ tự tổ chức lại bằng cách hình thành các kết nối thần kinh mới suốt đời *(Phát âm: /ˌnjʊə.rəʊ.plæˈstɪs.ɪ.ti/)* ![[neuroplasticity.mp3]]<br><br>👪 **Word Family:** neuroplastic (adj), neuron (n), synapse (n), neurogenesis (n)<br><br>💬 **Ví dụ:** Learning a new language is easier for children because of their high neuroplasticity.<br>*(-> Học ngôn ngữ mới dễ hơn với trẻ em vì tính dẻo thần kinh cao của chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The brain's ability to reorganise itself by forming new neural connections throughout life.

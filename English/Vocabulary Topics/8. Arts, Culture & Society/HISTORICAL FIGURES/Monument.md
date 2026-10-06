@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Monument
 *n.*
 > /ˈmɒnjumənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Anh hùng chiến trận, Tướng lĩnh quân đội & Tượng đài
+
+## 🗂️ Flashcard
+Monument::Đài tưởng niệm, công trình kiến trúc lịch sử *(Phát âm: /ˈmɒnjumənt/)* ![[monument.mp3]]<br><br>👪 **Word Family:** monumental<br><br>💬 **Ví dụ:** Tourists gather to take photos of the historical monument.<br>*(-> Khách du lịch tụ tập để chụp ảnh đài tưởng niệm lịch sử.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue, building, or other structure erected to commemorate a famous person or event

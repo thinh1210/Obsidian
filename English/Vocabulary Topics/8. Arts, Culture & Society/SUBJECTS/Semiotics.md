@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Semiotics
 *noun*
 > /ˌsemiˈɒtɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Semiotics::Ký hiệu học *(Phát âm: /ˌsemiˈɒtɪks/)* ![[semiotics.mp3]]<br><br>👪 **Word Family:** semiotician, semiotic<br><br>💬 **Ví dụ:** Semiotics explains how logos communicate brand values.<br>*(-> Ký hiệu học giải thích cách các logo truyền tải giá trị thương hiệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The study of signs and symbols and their use or interpretation.

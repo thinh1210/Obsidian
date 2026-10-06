@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Conversation
 *n.*
 > /ˌkɒn.vəˈseɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Conversation::Cuộc trò chuyện, cuộc chuyện trò tâm tình giữa bạn bè *(Phát âm: /ˌkɒn.vəˈseɪ.ʃən/)* ![[conversation.mp3]]<br><br>👪 **Word Family:** converse (v), conversational (adj)<br><br>💬 **Ví dụ:** We sat in the cozy cafe for hours, engrossed in a deep conversation about philosophy and life.<br>*(-> Chúng tôi ngồi trong quán cà phê ấm cúng hàng giờ liền, mải mê với cuộc trò chuyện sâu sắc về triết học và cuộc đời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Talk between two or more people in which thoughts, feelings, and ideas are expressed.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Package tour
 *n.*
 > /ˈpækɪdʒ tʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Package tour::Tour du lịch đã được đại lý lo trọn gói từ vé máy bay, ăn ở đến xe đưa đón *(Phát âm: /ˈpækɪdʒ tʊər/)* ![[package_tour.mp3]]<br><br>👪 **Word Family:** package (n/v), tour (n/v)<br><br>💬 **Ví dụ:** First-time travelers often prefer a package tour because everything is prearranged.<br>*(-> Những người lần đầu đi xa thường chuộng tour trọn gói vì mọi thứ đều được sắp đặt sẵn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A holiday organized by a travel agent, with arrangements for transport, accommodation, and sometimes meals and sightseeing included at an inclusive price.

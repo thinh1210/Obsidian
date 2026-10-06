@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Content
 *noun*
 > /ˈcɒntent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Content::Nội dung *(Phát âm: /ˈcɒntent/)* ![[content.mp3]]<br><br>👪 **Word Family:** content (adj), contentment (n)<br><br>💬 **Ví dụ:** Creators need to post high-quality content regularly to keep their audience interested.<br>*(-> Người sáng tạo cần đăng nội dung chất lượng cao thường xuyên để giữ cho khán giả của họ quan tâm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The information and experiences (writing, images, video) published on social media

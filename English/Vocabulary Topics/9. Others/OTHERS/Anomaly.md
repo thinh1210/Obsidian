@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Anomaly
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - abnormality, irregularity, deviation
+
+
+## 🗂️ Flashcard
+Anomaly::Sự bất thường, dị thường *(Phát âm: /əˈnɒm.ə.li/)* ![[anomaly.mp3]]<br><br>👪 **Word Family:** [Noun]: anomaly, [Adj]: anomalous, [Adv]: anomalously<br><br>💬 **Ví dụ:** The scientist noticed an anomaly in the test results.<br>*(-> Nhà khoa học nhận thấy một sự bất thường trong kết quả xét nghiệm.)*

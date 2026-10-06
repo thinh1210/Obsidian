@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Meat
 *n.*
 > /miːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Meat::Thịt *(Phát âm: /miːt/)* ![[meat.mp3]]<br><br>👪 **Word Family:** meaty<br><br>💬 **Ví dụ:** I don't eat meat.<br>*(-> Tôi không ăn thịt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The flesh of an animal used as food.

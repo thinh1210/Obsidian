@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Teleoperation
 *noun.*
 > /ˌtel.i.ɑː.pəˈreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Teleoperation::Vận hành từ xa *(Phát âm: /ˌtel.i.ɑː.pəˈreɪ.ʃən/)* ![[teleoperation.mp3]]<br><br>👪 **Word Family:** teleoperate (verb), teleoperator (noun)<br><br>💬 **Ví dụ:** Teleoperation allows doctors to operate on patients located thousands of miles away.<br>*(-> Vận hành từ xa cho phép các bác sĩ phẫu thuật cho các bệnh nhân ở cách xa hàng ngàn dặm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The operation of a system or machine from a distance, typically using wireless communications and cameras

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Mammal
 *noun*
 > /ˈmæm.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Mammal::Động vật có vú *(Phát âm: /ˈmæm.əl/)* ![[mammal.mp3]]<br><br>👪 **Word Family:** mammal (n), mammalian (adj)<br><br>💬 **Ví dụ:** Whales and dolphins are actually mammals, not fish.<br>*(-> Cá voi và cá heo thực chất là động vật có vú, chứ không phải cá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A warm-blooded vertebrate animal of a class that is distinguished by the possession of hair or fur, females that secrete milk, and (typically) the birth of live young.

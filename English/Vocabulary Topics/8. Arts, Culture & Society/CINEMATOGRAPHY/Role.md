@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+  - review/8-Arts-Culture-and-Society/CINEMATOGRAPHY
+---
 # Role
 *n.*
 > /rəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CINEMATOGRAPHY | **Phân nhóm:** Diễn viên, Thể loại phim & Nghệ thuật dẫn dắt cốt truyện
+
+## 🗂️ Flashcard
+Role::Vai diễn, vai trò *(Phát âm: /rəʊl/)* ![[role.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** He got the leading role in the new action movie.<br>*(-> Anh ấy đã nhận được vai diễn chính trong bộ phim hành động mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An actor's part in a play, movie, etc.

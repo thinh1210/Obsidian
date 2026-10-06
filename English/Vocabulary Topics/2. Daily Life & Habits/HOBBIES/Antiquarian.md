@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Antiquarian
 *noun*
 > /ˌæntɪˈkweəriən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Antiquarian::Người sưu tầm/nghiên cứu đồ cổ *(Phát âm: /ˌæntɪˈkweəriən/)* ![[antiquarian.mp3]]<br><br>👪 **Word Family:** Antiquarianism (n), Antique (n/adj)<br><br>💬 **Ví dụ:** The antiquarian spent decades looking for the lost manuscript.<br>*(-> Nhà sưu tầm đồ cổ đã dành hàng thập kỷ để tìm kiếm bản thảo bị thất lạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who studies or collects antiques or antiquities.

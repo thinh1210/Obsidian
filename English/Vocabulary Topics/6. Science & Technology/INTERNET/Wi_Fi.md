@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Wi-Fi
 *noun*
 > /ˈwaɪ.faɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INTERNET | **Phân nhóm:** Duyệt web, Ứng dụng & Hoạt động trực tuyến thường ngày
+
+## 🗂️ Flashcard
+Wi_Fi::Wi-Fi, mạng không dây *(Phát âm: /ˈwaɪ.faɪ/)* ![[wi_fi.mp3]]<br><br>👪 **Word Family:** Wi-Fi (n), wireless (adj/n)<br><br>💬 **Ví dụ:** The café offers free Wi-Fi to all its customers.<br>*(-> Quán cà phê cung cấp Wi-Fi miễn phí cho tất cả khách hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Wireless technology that allows devices to connect to the Internet without cables.

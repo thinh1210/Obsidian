@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Football
 *n.*
 > /ˈfʊt.bɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Football::Môn thể thao bóng đá gồm hai đội thi đấu với 11 cầu thủ mỗi bên *(Phát âm: /ˈfʊt.bɔːl/)* ![[football.mp3]]<br><br>👪 **Word Family:** footballer (n)<br><br>💬 **Ví dụ:** Children gathered in the park every Sunday afternoon to play football together.<br>*(-> Trẻ em tụ tập ở công viên vào mỗi chiều Chủ nhật để cùng nhau chơi bóng đá.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A game played by two teams of eleven players with a round ball that may not be touched with the hands or arms during play.

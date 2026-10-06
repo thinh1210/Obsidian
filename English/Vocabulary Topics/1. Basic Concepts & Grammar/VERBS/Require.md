@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Require
 *Verb*
 > /rɪˈkwaɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Require::Yêu cầu, đòi hỏi *(Phát âm: /rɪˈkwaɪər/)* ![[require.mp3]]<br><br>👪 **Word Family:** Requirement (n)<br><br>💬 **Ví dụ:** Plants require water.<br>*(-> Cây cần nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To need something or make something necessary.

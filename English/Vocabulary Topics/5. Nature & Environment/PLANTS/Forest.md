@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Forest
 *noun*
 > /ˈfɒrɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Forest::Rừng *(Phát âm: /ˈfɒrɪst/)* ![[forest.mp3]]<br><br>👪 **Word Family:** Noun: forest (rừng), forestry (lâm nghiệp), Verb: forest (trồng rừng), Adjective: forested (phủ đầy rừng)<br><br>💬 **Ví dụ:** We took a walk through the pine forest.<br>*(-> Chúng tôi đi dạo qua rừng thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large area of land covered with trees and plants.

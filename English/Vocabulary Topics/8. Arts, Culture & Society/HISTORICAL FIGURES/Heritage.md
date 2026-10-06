@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Heritage
 *n.*
 > /ˈherɪtɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Phong trào giải phóng, Đảo chính & Di sản lịch sử
+
+## 🗂️ Flashcard
+Heritage::Di sản văn hóa/lịch sử *(Phát âm: /ˈherɪtɪdʒ/)* ![[heritage.mp3]]<br><br>👪 **Word Family:** inherit, inheritance<br><br>💬 **Ví dụ:** We must protect our historical heritage.<br>*(-> Chúng ta phải bảo vệ di sản lịch sử của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Valued objects and qualities such as historic buildings and cultural traditions passed down from previous generations

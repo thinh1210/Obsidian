@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Keyboard
 *n.*
 > /ˈkiː.bɔːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Keyboard::Bộ phím bấm dùng để nhập ký tự và lệnh điều khiển vào máy tính *(Phát âm: /ˈkiː.bɔːd/)* ![[keyboard.mp3]]<br><br>👪 **Word Family:** key (n), keyboardist (n)<br><br>💬 **Ví dụ:** Learning keyboard shortcuts can dramatically speed up your typing speed.<br>*(-> Học các phím tắt có thể tăng tốc độ gõ máy của bạn một cách đáng kinh ngạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of keys on a computer or typewriter that you press in order to input text and commands.

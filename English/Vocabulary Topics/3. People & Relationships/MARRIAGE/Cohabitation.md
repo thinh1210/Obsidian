@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Cohabitation
 *noun*
 > /ˌkəʊˌhæbɪˈteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Cohabitation::Sự sống thử/sống chung *(Phát âm: /ˌkəʊˌhæbɪˈteɪʃn/)* ![[cohabitation.mp3]]<br><br>👪 **Word Family:** Cohabit (verb)<br><br>💬 **Ví dụ:** Cohabitation is very common before marriage.<br>*(-> Việc sống thử rất phổ biến trước khi kết hôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of living together and having a sexual relationship without being married.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Second-rate
 *adj*
 > /ˌsek.əndˈreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tầm thường, Kém & Dưới chuẩn
+
+## 🗂️ Flashcard
+Second-rate::Hạng hai, tầm thường *(Phát âm: /ˌsek.əndˈreɪt/)* ![[second_rate.mp3]]<br><br>👪 **Word Family:** Rate (noun)<br><br>💬 **Ví dụ:** I refuse to buy second-rate goods.<br>*(-> Tôi từ chối mua hàng hạng hai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of mediocre or inferior quality.

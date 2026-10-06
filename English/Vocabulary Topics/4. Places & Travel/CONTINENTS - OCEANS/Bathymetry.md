@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Bathymetry
 *noun*
 > /bəˈθɪmɪtri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Địa hình, Khí hậu & Vùng nước sâu
+
+## 🗂️ Flashcard
+Bathymetry::Đo sâu, phép đo độ sâu đại dương *(Phát âm: /bəˈθɪmɪtri/)* ![[bathymetry.mp3]]<br><br>👪 **Word Family:** Bathymetric (adj.)<br><br>💬 **Ví dụ:** Bathymetry helps us map the ocean floor.<br>*(-> Phép đo sâu giúp chúng ta lập bản đồ đáy đại dương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The measurement of depth of water in oceans, seas, or lakes.

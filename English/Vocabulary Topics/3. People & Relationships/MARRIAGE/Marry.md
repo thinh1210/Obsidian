@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Marry
 *verb*
 > /ˈmæri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Marry::Kết hôn *(Phát âm: /ˈmæri/)* ![[marry.mp3]]<br><br>👪 **Word Family:** Marriage (noun), Married (adjective)<br><br>💬 **Ví dụ:** Will you marry me?<br>*(-> Em sẽ lấy anh chứ?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become the legally accepted husband or wife of someone.

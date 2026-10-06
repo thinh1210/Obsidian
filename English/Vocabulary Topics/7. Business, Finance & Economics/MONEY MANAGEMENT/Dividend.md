@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Dividend
 *Noun*
 > /ˈdɪvɪdend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Phân bổ danh mục đầu tư & Tạo thu nhập thụ động
+
+## 🗂️ Flashcard
+Dividend::Cổ tức (số tiền được một công ty trả định kỳ cho các cổ đông từ lợi nhuận) *(Phát âm: /ˈdɪvɪdend/)* ![[dividend.mp3]]<br><br>👪 **Word Family:** Verb: divide (chia)<br><br>💬 **Ví dụ:** Many retirees look for companies that pay steady dividends for income.<br>*(-> Nhiều người về hưu tìm kiếm các công ty trả cổ tức ổn định để có thu nhập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sum of money paid regularly by a company to its shareholders out of its profits.

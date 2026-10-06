@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Partner
 *n.*
 > /ˈpɑːt.nər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Partner::Đối tác, bạn đời *(Phát âm: /ˈpɑːt.nər/)* ![[partner.mp3]]<br><br>👪 **Word Family:** Partnership<br><br>💬 **Ví dụ:** Meet my partner, Sarah.<br>*(-> Gặp bạn đời của tôi, Sarah.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Either of a pair of people engaged together in the same activity.

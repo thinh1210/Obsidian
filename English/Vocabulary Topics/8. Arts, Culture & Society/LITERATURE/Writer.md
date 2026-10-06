@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Writer
 *noun*
 > /ˈraɪ.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Writer::Nhà văn, người viết *(Phát âm: /ˈraɪ.tər/)* ![[writer.mp3]]<br><br>👪 **Word Family:** write (v), writing (n), ghostwriter (n)<br><br>💬 **Ví dụ:** He wants to become a writer when he grows up.<br>*(-> Cậu ấy muốn trở thành một nhà văn khi lớn lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who writes books, stories, or articles as a job or regular activity.

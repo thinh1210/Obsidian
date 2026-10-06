@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # inimitable
 *adj.*
 > /ɪˈnɪm.ɪ.tə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** INVENTORS | **Phân nhóm:** Phẩm chất thiên tài: Kiên trì, Táo bạo & Dấn thân
+
+## 🗂️ Flashcard
+Inimitable::Không thể bắt chước được, độc nhất vô nhị *(Phát âm: /ɪˈnɪm.ɪ.tə.bəl/)* ![[inimitable.mp3]]<br><br>👪 **Word Family:** inimitably (adv), inimitability (n)<br><br>💬 **Ví dụ:** He performed the song in his own inimitable style.<br>*(-> Anh ấy đã biểu diễn bài hát theo phong cách độc nhất vô nhị của riêng mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** So good or unusual as to be impossible to copy; unique

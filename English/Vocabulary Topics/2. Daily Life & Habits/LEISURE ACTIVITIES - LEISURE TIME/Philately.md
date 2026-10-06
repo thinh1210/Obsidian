@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Philately
 *n*
 > /fɪˈlætəli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Philately::Thú sưu tập tem *(Phát âm: /fɪˈlætəli/)* ![[philately.mp3]]<br><br>👪 **Word Family:** Philatelist (n)<br><br>💬 **Ví dụ:** His grandfather introduced him to philately.<br>*(-> Ông nội đã giới thiệu cho anh ấy thú sưu tập tem.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The collection and study of postage stamps.

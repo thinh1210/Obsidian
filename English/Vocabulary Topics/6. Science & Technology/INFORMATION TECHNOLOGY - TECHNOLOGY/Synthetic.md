@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Synthetic
 *adj*
 > /sɪnˈθet.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Synthetic::Nhân tạo, tổng hợp *(Phát âm: /sɪnˈθet.ɪk/)* ![[synthetic.mp3]]<br><br>👪 **Word Family:** Synthesize (v), Synthesis (n), Synthetically (adv)<br><br>💬 **Ví dụ:** I bought a jacket made of synthetic leather.<br>*(-> Tôi đã mua một chiếc áo khoác làm bằng da tổng hợp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made from artificial substances, often copying a natural product; logically generated.

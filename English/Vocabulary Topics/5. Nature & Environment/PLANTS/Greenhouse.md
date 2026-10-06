@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Greenhouse
 *n.*
 > /ˈɡriːnhaʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Greenhouse::Nhà kính, công trình bằng kính hoặc nylon dùng để ươm trồng cây trong điều kiện vi khí hậu tối ưu *(Phát âm: /ˈɡriːnhaʊs/)* ![[greenhouse.mp3]]<br><br>👪 **Word Family:** greenhouse-grown (adj)<br><br>💬 **Ví dụ:** Grandfather spends his mornings tending to exotic orchids in his backyard greenhouse.<br>*(-> Ông tôi dành cả buổi sáng để chăm sóc những cây phong lan quý trong nhà kính sau vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A glass building in which plants that need protection from cold weather are grown.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Income
 *n.*
 > /ˈɪnkʌm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Dòng tiền, Hóa đơn & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Income::Thu nhập *(Phát âm: /ˈɪnkʌm/)* ![[income.mp3]]<br><br>👪 **Word Family:** incoming<br><br>💬 **Ví dụ:** Her monthly income is enough to cover all expenses.<br>*(-> Thu nhập hàng tháng của cô ấy đủ để trang trải mọi chi phí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money that is earned from doing work or received from investments

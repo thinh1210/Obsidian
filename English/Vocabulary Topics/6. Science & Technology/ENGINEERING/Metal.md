@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Metal
 *noun*
 > /ˈmetl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Metal::Kim loại *(Phát âm: /ˈmetl/)* ![[metal.mp3]]<br><br>👪 **Word Family:** metallic (adj), metallurgy (n)<br><br>💬 **Ví dụ:** Most kitchen knives are made of shiny, stainless metal.<br>*(-> Hầu hết dao nhà bếp đều được làm bằng kim loại không gỉ sáng bóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid material which is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity.

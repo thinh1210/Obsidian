@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Scent
 *n.*
 > /sent/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Scent::Mùi hương dịu ngọt quyến rũ tỏa ra từ các loài hoa thu hút ong bướm *(Phát âm: /sent/)* ![[scent.mp3]]<br><br>👪 **Word Family:** scented (adj), scentless (adj)<br><br>💬 **Ví dụ:** The sweet scent of night-blooming jasmine drifted right into our bedroom.<br>*(-> Hương thơm ngọt ngào của hoa lài nở về đêm thoang thoảng bay thẳng vào phòng ngủ của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A distinctive smell, especially one that is pleasant.

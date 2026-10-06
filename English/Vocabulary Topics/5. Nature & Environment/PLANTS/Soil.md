@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Soil
 *noun*
 > /sɔɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Soil::Đất trồng *(Phát âm: /sɔɪl/)* ![[soil.mp3]]<br><br>👪 **Word Family:** Noun: soil (đất), Verb: soil (làm bẩn)<br><br>💬 **Ví dụ:** The soil in this area is very sandy.<br>*(-> Đất ở khu vực này rất nhiều cát.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The top layer of the earth in which plants grow.

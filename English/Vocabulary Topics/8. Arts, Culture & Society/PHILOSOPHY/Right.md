@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Right
 *adj.*
 > /raɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Đạo đức học, Nhân sinh quan & Giá trị đạo đức
+
+## 🗂️ Flashcard
+Right::Đúng đắn, chính xác, có đạo đức *(Phát âm: /raɪt/)* ![[right.mp3]]<br><br>👪 **Word Family:** rightly, righteousness<br><br>💬 **Ví dụ:** I hope I made the right decision.<br>*(-> Tôi hy vọng mình đã đưa ra quyết định đúng đắn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Morally good, justified, or acceptable.

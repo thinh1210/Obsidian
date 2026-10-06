@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Fascinated
 *Adj*
 > /ˈfæs.ən.eɪ.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Fascinated::Bị lôi cuốn, mê mẩn *(Phát âm: /ˈfæs.ən.eɪ.tɪd/)* ![[fascinated.mp3]]<br><br>👪 **Word Family:** Fascination (Noun): Sự lôi cuốn<br><br>💬 **Ví dụ:** I've always been fascinated by computers.<br>*(-> Tôi luôn bị lôi cuốn bởi máy tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely interested.

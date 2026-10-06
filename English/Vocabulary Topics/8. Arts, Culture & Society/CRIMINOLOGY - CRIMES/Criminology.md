@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Criminology
 *noun*
 > /ˌkrɪmɪˈnɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Trại giam, Tội phạm học & Tái phạm
+
+## 🗂️ Flashcard
+Criminology::Tội phạm học *(Phát âm: /ˌkrɪmɪˈnɒlədʒi/)* ![[criminology.mp3]]<br><br>👪 **Word Family:** criminologist (n), criminological (adj)<br><br>💬 **Ví dụ:** She is studying criminology at university.<br>*(-> Cô ấy đang học ngành tội phạm học ở trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of crime and criminals

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Day trip
 *n.*
 > /ˈdeɪ trɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Day trip::Chuyến du lịch ngắn ngày xuất phát vào buổi sáng và trở về ngay trong ngày *(Phát âm: /ˈdeɪ trɪp/)* ![[day_trip.mp3]]<br><br>👪 **Word Family:** day-tripper (n)<br><br>💬 **Ví dụ:** We took a wonderful day trip to the ancient pottery village outside the city.<br>*(-> Chúng tôi có một chuyến đi chơi trong ngày tuyệt vời tới làng gốm cổ ven thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey to a place and back again on the same day for leisure or sightseeing.

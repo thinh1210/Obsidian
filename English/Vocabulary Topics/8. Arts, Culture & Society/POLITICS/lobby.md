@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # lobby
 *verb*
 > /ˈlɑːbi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+lobby::Vận động hành lang, tác động chính sách *(Phát âm: /ˈlɑːbi/)* ![[lobby.mp3]]<br><br>👪 **Word Family:** lobbyist (n), lobbying (n)<br><br>💬 **Ví dụ:** Environmental groups are lobbying the government to pass cleaner energy laws.<br>*(-> Các nhóm môi trường đang vận động hành lang chính phủ thông qua luật năng lượng sạch hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To seek to influence a politician or public official on an issue.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Charisma
 *n.*
 > /kəˈrɪzmə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Đẳng cấp, Danh tiếng lẫy lừng & Sự ái mộ
+
+## 🗂️ Flashcard
+Charisma::Sức hút *(Phát âm: /kəˈrɪzmə/)* ![[charisma.mp3]]<br><br>👪 **Word Family:** charismatic (adj.)<br><br>💬 **Ví dụ:** The leader has great charisma.<br>*(-> Người lãnh đạo có sức hút lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Compelling attractiveness or charm that can inspire devotion in others.

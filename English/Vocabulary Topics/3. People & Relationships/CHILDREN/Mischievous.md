@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Mischievous
 *adj.*
 > /ˈmɪs.tʃɪ.vəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Mischievous::Tinh nghịch, láu lỉnh, hay bày trò trêu chọc vô hại đáng yêu *(Phát âm: /ˈmɪs.tʃɪ.vəs/)* ![[mischievous.mp3]]<br><br>👪 **Word Family:** mischief (n), mischievously (adv)<br><br>💬 **Ví dụ:** With a mischievous grin, the boy hid his sister's teddy bear behind the velvet sofa.<br>*(-> Với nụ cười láu lỉnh, cậu bé giấu chú gấu bông của chị gái ra sau chiếc ghế sofa nhung.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Behaving in a way, or describing behavior, that is slightly bad but is not intended to cause serious harm or damage.

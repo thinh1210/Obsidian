@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Instrument landing system
 *noun phrase*
 > /ˈɪn.strʊ.mənt ˈlæn.dɪŋ ˈsɪs.təm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Instrument_landing_system::Hệ thống hạ cánh theo thiết bị (ILS) *(Phát âm: /ˈɪn.strʊ.mənt ˈlæn.dɪŋ ˈsɪs.təm/)* ![[instrument_landing_system.mp3]]<br><br>👪 **Word Family:** ILS (abbr), localiser (n), glide slope (n), CAT III (abbr)<br><br>💬 **Ví dụ:** During heavy fog, the pilots relied entirely on the instrument landing system.<br>*(-> Trong sương mù dày đặc, các phi công phụ thuộc hoàn toàn vào hệ thống ILS.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A ground-based navigation system that provides precision guidance to an aircraft approaching a runway in low visibility, using radio signals to guide both lateral and vertical alignment.

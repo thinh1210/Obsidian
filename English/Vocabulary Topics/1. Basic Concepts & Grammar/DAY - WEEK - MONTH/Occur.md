@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Occur
 *verb*
 > /əˈkɜːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Occur::Xảy ra, diễn ra *(Phát âm: /əˈkɜːr/)* ![[occur.mp3]]<br><br>👪 **Word Family:** occurrence (n)<br><br>💬 **Ví dụ:** The meteor shower occurs every August.<br>*(-> Mưa sao băng xảy ra vào mỗi tháng Tám.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To happen; take place (especially regarding time).

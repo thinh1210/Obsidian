@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Card
 *noun.*
 > /kɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Card::Thẻ *(Phát âm: /kɑːd/)* ![[card.mp3]]<br><br>👪 **Word Family:** cardholder (noun)<br><br>💬 **Ví dụ:** Can I pay by card, or do you only accept cash?<br>*(-> Tôi có thể thanh toán bằng thẻ không, hay bạn chỉ nhận tiền mặt?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A small plastic card used to make payments.

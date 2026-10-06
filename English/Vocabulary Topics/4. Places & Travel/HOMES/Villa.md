@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Villa
 *n.*
 > /ˈvɪlə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Villa::Nhà ở sang trọng có khuôn viên vườn tược và bể bơi riêng biệt *(Phát âm: /ˈvɪlə/)* ![[villa.mp3]]<br><br>👪 **Word Family:** village (n), villager (n)<br><br>💬 **Ví dụ:** The family rented a Mediterranean villa with an infinity pool.<br>*(-> Gia đình đã thuê một căn biệt thự Địa Trung Hải có hồ bơi vô cực.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large and luxurious country house or holiday home in its own grounds.

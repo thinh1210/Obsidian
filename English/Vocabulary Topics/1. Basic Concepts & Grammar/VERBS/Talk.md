@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Talk
 *Verb*
 > /tɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Talk::Nói chuyện *(Phát âm: /tɔːk/)* ![[talk.mp3]]<br><br>👪 **Word Family:** Talker (n), Talkative (adj)<br><br>💬 **Ví dụ:** We talk a lot.<br>*(-> Chúng tôi nói chuyện nhiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say things to someone.

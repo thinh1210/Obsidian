@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Embroidery
 *noun*
 > /ɪmˈbrɔɪdəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Embroidery::Nghệ thuật thêu thùa *(Phát âm: /ɪmˈbrɔɪdəri/)* ![[embroidery.mp3]]<br><br>👪 **Word Family:** Embroider (v), Embroiderer (n)<br><br>💬 **Ví dụ:** She finds embroidery very relaxing after a stressful day.<br>*(-> Cô ấy thấy việc thêu thùa rất thư giãn sau một ngày căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or pastime of embroidering cloth.

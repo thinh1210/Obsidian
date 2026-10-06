@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Right
 *noun*
 > /raɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Right::Quyền lợi, quyền hợp pháp *(Phát âm: /raɪt/)* ![[right.mp3]]<br><br>👪 **Word Family:** Right (n/adj/adv), Rightful (adj), Righteous (adj)<br><br>💬 **Ví dụ:** Every citizen has the right to vote in the national election.<br>*(-> Mọi công dân đều có quyền bỏ phiếu trong cuộc bầu cử quốc gia.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A moral or legal entitlement to have or obtain something or to act in a certain way.

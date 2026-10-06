@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TOURING-TOURISM
+  - review/4-Places-and-Travel/TOURING-TOURISM
+---
 # Destination
 *Noun*
 > /ˌdes.təˈneɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** TOURING - TOURISM | **Phân nhóm:** Điểm tham quan, Phong cảnh & Kỷ niệm
+
+## 🗂️ Flashcard
+Destination::Điểm đến *(Phát âm: /ˌdes.təˈneɪ.ʃən/)* ![[destination.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Bali is a popular holiday destination.<br>*(-> Bali là một điểm đến nghỉ dưỡng nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The place where someone is going or where something is being sent or taken.

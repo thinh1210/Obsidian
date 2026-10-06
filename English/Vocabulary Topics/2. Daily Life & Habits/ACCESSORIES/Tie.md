@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Tie
 *noun*
 > /taɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Tie::Cà vạt *(Phát âm: /taɪ/)* ![[tie.mp3]]<br><br>👪 **Word Family:** Tieless (adj)<br><br>💬 **Ví dụ:** He rarely wears a tie to work.<br>*(-> Anh ấy hiếm khi đeo cà vạt đi làm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long, thin piece of material that is worn under a shirt collar, especially by men.

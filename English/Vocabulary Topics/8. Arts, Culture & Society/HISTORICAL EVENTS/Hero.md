@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Hero
 *noun*
 > /ˈhɪə.roʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Vương triều, Triều đại phong kiến & Người cai trị
+
+## 🗂️ Flashcard
+Hero::Anh hùng *(Phát âm: /ˈhɪə.roʊ/)* ![[hero.mp3]]<br><br>👪 **Word Family:** heroine (noun), heroic (adj), heroism (noun)<br><br>💬 **Ví dụ:** The firefighter was hailed as a hero for saving the family from the burning house.<br>*(-> Người lính cứu hỏa được ca ngợi là anh hùng vì đã cứu gia đình khỏi ngôi nhà đang cháy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who is admired or idealized for courage, outstanding achievements, or noble qualities.

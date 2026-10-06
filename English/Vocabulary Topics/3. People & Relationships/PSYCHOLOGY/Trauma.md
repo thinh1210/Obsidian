@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Trauma
 *noun*
 > /ˈtrɑː.mə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Trauma::Chấn thương tâm lý *(Phát âm: /ˈtrɑː.mə/)* ![[trauma.mp3]]<br><br>👪 **Word Family:** traumatic (adj)<br><br>💬 **Ví dụ:** He suffered a lot of trauma.<br>*(-> Anh ấy đã chịu nhiều chấn thương tâm lý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A deeply distressing or disturbing experience.

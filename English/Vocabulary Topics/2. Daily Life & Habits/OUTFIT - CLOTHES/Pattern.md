@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Pattern
 *noun*
 > /ˈpæt̬.ɚn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Chất liệu vải, May đo & Thiết kế thời trang
+
+## 🗂️ Flashcard
+Pattern::Họa tiết, hoa văn *(Phát âm: /ˈpæt̬.ɚn/)* ![[pattern.mp3]]<br><br>👪 **Word Family:** patterned (adj)<br><br>💬 **Ví dụ:** I love the pattern on your dress.<br>*(-> Tôi thích họa tiết trên váy của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A repeated decorative design.

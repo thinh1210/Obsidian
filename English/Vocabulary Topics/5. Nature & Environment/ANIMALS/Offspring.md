@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Offspring
 *noun*
 > /ˈɒf.sprɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Offspring::Con non, con cái, thế hệ sau *(Phát âm: /ˈɒf.sprɪŋ/)* ![[offspring.mp3]]<br><br>👪 **Word Family:** offspring (n)<br><br>💬 **Ví dụ:** Female bears are extremely protective of their offspring.<br>*(-> Gấu mẹ cực kỳ bảo vệ con non của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal's young; children or young of a person, animal, or plant.

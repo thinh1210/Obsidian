@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Stepsister
 *noun*
 > /ˈstepˌsɪs.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Stepsister::Chị/em gái kế *(Phát âm: /ˈstepˌsɪs.tər/)* ![[stepsister.mp3]]<br><br>👪 **Word Family:** stepsibling (n)<br><br>💬 **Ví dụ:** She has a stepsister.<br>*(-> Cô ấy có một người em gái kế.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The daughter of your stepmother or stepfather.

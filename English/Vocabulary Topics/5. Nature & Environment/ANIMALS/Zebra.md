@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Zebra
 *n.*
 > /ˈzebrə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật hoang dã & Thú ăn thịt
+
+## 🗂️ Flashcard
+Zebra::Ngựa vằn, loài động vật hoang dã châu Phi có bộ lông sọc trắng đen đặc trưng *(Phát âm: /ˈzebrə/)* ![[zebra.mp3]]<br><br>👪 **Word Family:** zebrine (adj)<br><br>💬 **Ví dụ:** On our African safari, we watched hundreds of zebras grazing peacefully.<br>*(-> Trong chuyến đi dã ngoại châu Phi, chúng tôi ngắm hàng trăm chú ngựa vằn đang gặm cỏ thanh bình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An African wild horse with black-and-white stripes and an erect mane.

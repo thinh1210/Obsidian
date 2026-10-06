@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Resilience
 *n.*
 > /rɪˈzɪliəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Resilience::Sự kiên cường, khả năng phục hồi *(Phát âm: /rɪˈzɪliəns/)* ![[resilience.mp3]]<br><br>👪 **Word Family:** resilient (adj)<br><br>💬 **Ví dụ:** She showed great resilience during the crisis.<br>*(-> Cô ấy thể hiện sự kiên cường lớn trong khủng hoảng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The capacity to recover quickly from difficulties; toughness

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Periodic
 *adjective*
 > /ˌpɪə.riˈɒd.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Cấu tạo nguyên tử & Các nguyên tố tuần hoàn
+
+## 🗂️ Flashcard
+Periodic::Định kỳ, tuần hoàn *(Phát âm: /ˌpɪə.riˈɒd.ɪk/)* ![[periodic.mp3]]<br><br>👪 **Word Family:** period (n), periodically (adv), periodicity (n)<br><br>💬 **Ví dụ:** The elements are arranged in the periodic table according to their properties.<br>*(-> Các nguyên tố được sắp xếp trong bảng tuần hoàn theo các tính chất của chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Appearing or occurring at intervals.

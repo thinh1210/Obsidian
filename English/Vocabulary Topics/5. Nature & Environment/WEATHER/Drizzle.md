@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Drizzle
 *noun*
 > /ˈdrɪzl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Drizzle::Mưa phùn, mưa lâm thâm *(Phát âm: /ˈdrɪzl/)* ![[drizzle.mp3]]<br><br>👪 **Word Family:** Drizzle (verb), drizzly (adj)<br><br>💬 **Ví dụ:** The walk was ruined by a persistent drizzle.<br>*(-> Chuyến đi bộ đã bị hỏng bởi một cơn mưa phùn kéo dài dai dẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Light rain falling in very fine drops

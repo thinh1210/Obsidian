@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Perennial
 *adj*
 > /pəˈreniəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Perennial::Lâu năm, tồn tại mãi mãi *(Phát âm: /pəˈreniəl/)* ![[perennial.mp3]]<br><br>👪 **Word Family:** perennially (adv)<br><br>💬 **Ví dụ:** Lack of funding is a perennial problem for the charity.<br>*(-> Thiếu kinh phí là một vấn đề muôn thuở đối với tổ chức từ thiện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting or existing for a long or apparently infinite time; enduring or continually recurring.

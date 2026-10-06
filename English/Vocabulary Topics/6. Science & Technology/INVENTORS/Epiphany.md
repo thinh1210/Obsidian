@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # epiphany
 *n.*
 > /ɪˈpɪf.ən.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Epiphany::Sự giác ngộ đột ngột, khoảnh khắc bừng sáng ý tưởng *(Phát âm: /ɪˈpɪf.ən.i/)* ![[epiphany.mp3]]<br><br>👪 **Word Family:** epiphanic (adj)<br><br>💬 **Ví dụ:** I had an epiphany while walking in the park and solved the math problem.<br>*(-> Tôi đã có một sự bừng tỉnh đột ngột khi đang đi dạo trong công viên và giải được bài toán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sudden revelation or moment of deep understanding or realization

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Journey
 *noun*
 > /ˈdʒɜːrni/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Journey::Hành trình, chuyến đi dài *(Phát âm: /ˈdʒɜːrni/)* ![[journey.mp3]]<br><br>👪 **Word Family:** Noun: journey (hành trình), Verb: journey (du hành)<br><br>💬 **Ví dụ:** We wish you a safe and pleasant journey.<br>*(-> Chúc bạn một chuyến đi an toàn và vui vẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of traveling from one place to another.

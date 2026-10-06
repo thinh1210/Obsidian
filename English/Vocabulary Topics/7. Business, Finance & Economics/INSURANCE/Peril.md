@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Peril
 *n.*
 > /ˈperəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INSURANCE | **Phân nhóm:** Định phí rủi ro, Thẩm định & Tái bảo hiểm
+
+## 🗂️ Flashcard
+Peril::Hiểm họa, mối nguy *(Phát âm: /ˈperəl/)* ![[peril.mp3]]<br><br>👪 **Word Family:** perilous, perilously<br><br>💬 **Ví dụ:** Fire is one of the most common perils covered by property insurance.<br>*(-> Hỏa hoạn là một trong những hiểm họa phổ biến nhất được bảo hiểm tài sản chi trả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Serious and immediate danger; in insurance, the specific cause of a loss, such as fire, windstorm, or theft.

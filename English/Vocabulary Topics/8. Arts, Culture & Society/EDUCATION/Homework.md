@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Homework
 *n.*
 > /ˈhəʊmwɜːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Homework::Bài tập về nhà *(Phát âm: /ˈhəʊmwɜːk/)* ![[homework.mp3]]<br><br>👪 **Word Family:** home, work<br><br>💬 **Ví dụ:** Don't forget to do your homework before going to bed.<br>*(-> Đừng quên làm bài tập về nhà trước khi đi ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Schoolwork that a student is given to do at home

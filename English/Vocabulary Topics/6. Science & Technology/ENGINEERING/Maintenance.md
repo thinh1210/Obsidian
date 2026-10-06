@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Maintenance
 *noun*
 > /ˈmeɪntənəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Maintenance::Sự bảo trì, bảo dưỡng *(Phát âm: /ˈmeɪntənəns/)* ![[maintenance.mp3]]<br><br>👪 **Word Family:** maintain (v), maintainable (adj)<br><br>💬 **Ví dụ:** Regular maintenance of your car can prevent expensive breakdowns later.<br>*(-> Bảo dưỡng ô tô thường xuyên có thể ngăn ngừa những hư hỏng tốn kém sau này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The work of keeping something in proper condition; upkeep.

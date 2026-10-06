@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Obsolescence
 *Noun*
 > /ˌɒb.səˈles.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Obsolescence::Sự lỗi thời, tình trạng thoái hóa/không còn sử dụng *(Phát âm: /ˌɒb.səˈles.əns/)* ![[obsolescence.mp3]]<br><br>👪 **Word Family:** Obsolete (adj)<br><br>💬 **Ví dụ:** Many tech products are designed for rapid obsolescence.<br>*(-> Nhiều sản phẩm công nghệ được thiết kế cho sự lỗi thời nhanh chóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being no longer useful or needed because something newer and better has been invented.

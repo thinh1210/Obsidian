@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Ancestor
 *n.*
 > /ˈæn.ses.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Ancestor::Tổ tiên *(Phát âm: /ˈæn.ses.tər/)* ![[ancestor.mp3]]<br><br>👪 **Word Family:** Ancestral, Ancestry<br><br>💬 **Ví dụ:** My ancestors came from Italy.<br>*(-> Tổ tiên tôi đến từ Ý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person, typically one more remote than a grandparent, from whom one is descended.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Walk
 *v*
 > /wɔːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Walk::Đi bộ *(Phát âm: /wɔːk/)* ![[walk.mp3]]<br><br>👪 **Word Family:** Walker (n), Walking (n)<br><br>💬 **Ví dụ:** I walk in the park every morning.<br>*(-> Tôi đi bộ trong công viên mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Move at a regular pace by lifting and setting down each foot in turn.

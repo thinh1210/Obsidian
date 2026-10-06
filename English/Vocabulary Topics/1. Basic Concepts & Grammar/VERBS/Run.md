@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Run
 *Verb*
 > /rʌn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Hành động thể chất & Hoạt động hàng ngày
+
+## 🗂️ Flashcard
+Run::Chạy *(Phát âm: /rʌn/)* ![[run.mp3]]<br><br>👪 **Word Family:** Runner (n), Running (adj)<br><br>💬 **Ví dụ:** I run every morning.<br>*(-> Tôi chạy bộ mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To move at a speed faster than a walk.

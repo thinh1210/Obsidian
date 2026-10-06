@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Half-sister
 *noun*
 > /ˈhɑːfˌsɪs.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Half-sister::Chị/em gái cùng cha khác mẹ (hoặc ngược lại) *(Phát âm: /ˈhɑːfˌsɪs.tər/)* ![[half_sister.mp3]]<br><br>👪 **Word Family:** half-sibling (n)<br><br>💬 **Ví dụ:** She met her half-sister.<br>*(-> Cô ấy đã gặp người chị cùng cha khác mẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A sister who is the daughter of only one of your parents.

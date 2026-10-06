@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Guarantee
 *n/v*
 > /ˌɡær.ənˈtiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Mặc cả, Giảm giá & Quyền lợi khách hàng
+
+## 🗂️ Flashcard
+Guarantee::Bảo đảm *(Phát âm: /ˌɡær.ənˈtiː/)* ![[guarantee.mp3]]<br><br>👪 **Word Family:** Guarantor<br><br>💬 **Ví dụ:** It comes with a guarantee.<br>*(-> Nó có bảo hành.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A promise of quality

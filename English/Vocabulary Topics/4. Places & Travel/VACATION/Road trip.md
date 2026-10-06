@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Road trip
 *n.*
 > /ˈrəʊd trɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Road trip::Chuyến du hành đường trường bằng phương tiện cá nhân qua nhiều vùng đất *(Phát âm: /ˈrəʊd trɪp/)* ![[road_trip.mp3]]<br><br>👪 **Word Family:** tripper (n)<br><br>💬 **Ví dụ:** They embarked on a memorable coastal road trip along Highway 1.<br>*(-> Họ bắt đầu một chuyến phượt ven biển đầy ắp kỷ niệm dọc theo Quốc lộ 1.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey made by car, van, or motor vehicle, often over a long distance.

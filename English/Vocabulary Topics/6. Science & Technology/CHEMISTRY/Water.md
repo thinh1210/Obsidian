@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Water
 *noun*
 > /ˈwɔː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Water::Nước *(Phát âm: /ˈwɔː.tər/)* ![[water.mp3]]<br><br>👪 **Word Family:** watery (adj), waterlog (v)<br><br>💬 **Ví dụ:** Always drink plenty of water during hot weather.<br>*(-> Hãy luôn uống nhiều nước khi thời tiết nóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A chemical compound of hydrogen and oxygen (H2O) that is liquid at room temperature.

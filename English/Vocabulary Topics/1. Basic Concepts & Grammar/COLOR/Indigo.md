@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Indigo
 *n, adj*
 > /ˈɪn.dɪ.ɡoʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Indigo::Màu chàm *(Phát âm: /ˈɪn.dɪ.ɡoʊ/)* ![[indigo.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Denim jeans are traditionally dyed with indigo.<br>*(-> Quần jeans denim theo truyền thống được nhuộm bằng màu chàm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dark purplish-blue color.

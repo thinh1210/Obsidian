@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Asymmetrical
 *adj.*
 > /ˌeɪ.sɪˈmet.rɪ.kəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Asymmetrical::Không đối xứng, bất đối xứng *(Phát âm: /ˌeɪ.sɪˈmet.rɪ.kəl/)* ![[asymmetrical.mp3]]<br><br>👪 **Word Family:** Asymmetry (n)<br><br>💬 **Ví dụ:** Her dress has an asymmetrical hem.<br>*(-> Váy của cô ấy có gấu áo không đối xứng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having parts that fail to correspond to one another in shape, size, or arrangement; lacking symmetry.

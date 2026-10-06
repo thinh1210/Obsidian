@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Concentration
 *noun*
 > /ˌkɒn.sənˈtreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Concentration::Nồng độ *(Phát âm: /ˌkɒn.sənˈtreɪ.ʃən/)* ![[concentration.mp3]]<br><br>👪 **Word Family:** concentrate (v), concentrated (adj)<br><br>💬 **Ví dụ:** The concentration of salt in the Dead Sea is extremely high.<br>*(-> Nồng độ muối ở Biển Chết cực kỳ cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The abundance of a constituent divided by the total volume of a mixture.

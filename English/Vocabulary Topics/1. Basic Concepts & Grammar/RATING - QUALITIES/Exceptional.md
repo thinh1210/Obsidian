@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Exceptional
 *adj*
 > /ɪkˈsep.ʃən.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Xuất sắc, Đỉnh cao & Hoàn hảo
+
+## 🗂️ Flashcard
+Exceptional::Đặc biệt, ngoại lệ, xuất chúng *(Phát âm: /ɪkˈsep.ʃən.əl/)* ![[exceptional.mp3]]<br><br>👪 **Word Family:** Exception (noun), Exceptionally (adv)<br><br>💬 **Ví dụ:** She has exceptional artistic ability.<br>*(-> Cô ấy có khả năng nghệ thuật xuất chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Unusually good; outstanding.

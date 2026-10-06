@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Connoisseur
 *n*
 > /ˌkɒnəˈsɜː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Connoisseur::Người sành sỏi *(Phát âm: /ˌkɒnəˈsɜː(r)/)* ![[connoisseur.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He is a connoisseur of Italian food.<br>*(-> Anh ấy là người sành ăn đồ ăn Ý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An expert judge in matters of taste.

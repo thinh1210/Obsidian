@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # modify
 *v.*
 > /ˈmɒd.ɪ.faɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Modify::Sửa đổi, thay đổi nhẹ *(Phát âm: /ˈmɒd.ɪ.faɪ/)* ![[modify.mp3]]<br><br>👪 **Word Family:** modification (n), modifier (n), modified (adj)<br><br>💬 **Ví dụ:** We decided to modify the original design to save costs.<br>*(-> Chúng tôi quyết định sửa đổi thiết kế ban đầu để tiết kiệm chi phí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To change something slightly, especially in order to make it better

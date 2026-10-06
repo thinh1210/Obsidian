@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Traffic light
 *n.*
 > /ˈtræfɪk laɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Giao thông & Đi lại trên mặt đất
+
+## 🗂️ Flashcard
+Traffic light::Cụm đèn tín hiệu điều tiết dòng xe cộ dừng và đi tại các nút giao *(Phát âm: /ˈtræfɪk laɪt/)* ![[traffic_light.mp3]]<br><br>👪 **Word Family:** traffic (n/v)<br><br>💬 **Ví dụ:** Turn left when you reach the next traffic light.<br>*(-> Rẽ trái khi bạn đến cột đèn giao thông tiếp theo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A set of automatically operated colored lights for controlling traffic at road junctions.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Operate
 *verb.*
 > /ˈɑː.pə.reɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Operate::Vận hành, hoạt động *(Phát âm: /ˈɑː.pə.reɪt/)* ![[operate.mp3]]<br><br>👪 **Word Family:** operation (noun), operator (noun), operational (adj)<br><br>💬 **Ví dụ:** Do you know how to operate this robotic arm?<br>*(-> Bạn có biết cách vận hành cánh tay robot này không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To work, control, or cause a machine or system to function

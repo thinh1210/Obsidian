@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Memorial
 *noun*
 > /məˈmɔːr.i.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Tái thiết, Di tích kỷ niệm & Nghiên cứu sử học
+
+## 🗂️ Flashcard
+Memorial::Đài tưởng niệm, vật kỷ niệm *(Phát âm: /məˈmɔːr.i.əl/)* ![[memorial.mp3]]<br><br>👪 **Word Family:** memory (noun), memorize (verb), memorialize (verb)<br><br>💬 **Ví dụ:** We attended a memorial service for our late grandfather.<br>*(-> Chúng tôi đã tham dự một lễ tưởng niệm dành cho người ông quá cố của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A statue or structure established to remind people of a person or event.

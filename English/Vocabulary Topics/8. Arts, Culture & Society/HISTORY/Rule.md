@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Rule
 *verb*
 > /ruːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Rule::Cai trị, thống trị *(Phát âm: /ruːl/)* ![[rule.mp3]]<br><br>👪 **Word Family:** ruler (n), ruling (adj)<br><br>💬 **Ví dụ:** King Louis XIV ruled France for over seventy years.<br>*(-> Vua Louis XIV đã cai trị nước Pháp hơn bảy mươi năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To exercise ultimate power or authority over an area and its people.

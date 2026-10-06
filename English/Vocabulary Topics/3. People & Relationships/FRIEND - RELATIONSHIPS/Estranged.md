@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Estranged
 *adj*
 > /ɪˈstreɪndʒd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Estranged::Bị ghẻ lạnh, xa cách *(Phát âm: /ɪˈstreɪndʒd/)* ![[estranged.mp3]]<br><br>👪 **Word Family:** estrangement<br><br>💬 **Ví dụ:** He is estranged from his family.<br>*(-> Anh ấy bị gia đình ghẻ lạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of a person) no longer close or affectionate to someone; alienated.

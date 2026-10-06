@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Minimalist
 *adj., n.*
 > /ˈmɪnɪməlɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
+
+## 🗂️ Flashcard
+Minimalist::Tối giản, người theo chủ nghĩa tối giản *(Phát âm: /ˈmɪnɪməlɪst/)* ![[minimalist.mp3]]<br><br>👪 **Word Family:** minimalism (n.)<br><br>💬 **Ví dụ:** I prefer a minimalist lifestyle.<br>*(-> Tôi thích lối sống tối giản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to a style or lifestyle that uses only what is strictly necessary.

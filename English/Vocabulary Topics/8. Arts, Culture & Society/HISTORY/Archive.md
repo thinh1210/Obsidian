@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Archive
 *noun*
 > /ˈɑː.kaɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Archive::Kho lưu trữ tài liệu lịch sử *(Phát âm: /ˈɑː.kaɪv/)* ![[archive.mp3]]<br><br>👪 **Word Family:** archival (adj), archivist (n), archive (v)<br><br>💬 **Ví dụ:** I found these old family photos in the dusty family archive.<br>*(-> Tôi tìm thấy những bức ảnh gia đình cũ này trong kho lưu trữ bám bụi của gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A collection of historical documents or records providing information about a place, institution, or group of people.

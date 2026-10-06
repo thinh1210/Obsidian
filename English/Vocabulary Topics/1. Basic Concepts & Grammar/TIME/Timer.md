@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Timer
 *n.*
 > /ˈtaɪ.mər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Timer::Bộ hẹn giờ, đồng hồ đếm ngược báo hiệu khi hết thời gian cài đặt *(Phát âm: /ˈtaɪ.mər/)* ![[timer.mp3]]<br><br>👪 **Word Family:** time (n/v), timing (n)<br><br>💬 **Ví dụ:** Set a kitchen timer for fifteen minutes so the cookies bake to golden perfection.<br>*(-> Hãy cài đồng hồ hẹn giờ mười lăm phút để bánh quy nướng chín vàng hoàn hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device or software app that measures a preset amount of time and sounds a signal when finished.

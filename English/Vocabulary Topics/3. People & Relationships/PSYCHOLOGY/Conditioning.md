@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Conditioning
 *noun*
 > /kənˈdɪʃ.ən.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Conditioning::Sự phản xạ có điều kiện *(Phát âm: /kənˈdɪʃ.ən.ɪŋ/)* ![[conditioning.mp3]]<br><br>👪 **Word Family:** condition (verb)<br><br>💬 **Ví dụ:** Social conditioning affects our choices.<br>*(-> Sự phản xạ xã hội ảnh hưởng đến lựa chọn của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A behavioral process whereby a response becomes more frequent or more predictable.

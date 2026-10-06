@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Argue
 *verb*
 > /ˈɑːɡjuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Bất đồng, Ly hôn & Ràng buộc pháp lý
+
+## 🗂️ Flashcard
+Argue::Tranh cãi *(Phát âm: /ˈɑːɡjuː/)* ![[argue.mp3]]<br><br>👪 **Word Family:** Argument (noun)<br><br>💬 **Ví dụ:** Couples argue sometimes.<br>*(-> Các cặp đôi đôi khi cũng tranh cãi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exchange or express diverging or opposite views, typically in a heated or angry way.

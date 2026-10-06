@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Police
 *noun*
 > /pəˈliːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Police::Cảnh sát, công an *(Phát âm: /pəˈliːs/)* ![[police.mp3]]<br><br>👪 **Word Family:** policing (n)<br><br>💬 **Ví dụ:** If you see someone breaking in, call the police immediately.<br>*(-> Nếu bạn thấy ai đó đột nhập, hãy gọi cảnh sát ngay lập tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The official organization that keeps public order and prevents crime

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # sensor
 *noun*
 > /ˈsen.sər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Sensor::cảm biến *(Phát âm: /ˈsen.sər/)* ![[sensor.mp3]]<br><br>👪 **Word Family:** Noun: sensor (cảm biến), sense (giác quan, ý nghĩa), Verb: sense (cảm nhận), Adjective: sensory (thuộc giác quan), sensitive (nhạy cảm)<br><br>💬 **Ví dụ:** The lights turn on automatically thanks to a motion sensor.<br>*(-> Đèn tự động bật sáng nhờ có cảm biến chuyển động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a device which detects or measures a physical property and records, indicates, or otherwise responds to it.

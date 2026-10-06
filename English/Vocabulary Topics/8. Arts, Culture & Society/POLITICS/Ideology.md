@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Ideology
 *n*
 > /ˌaɪ.diˈɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Ideology::Hệ tư tưởng / ý thức hệ *(Phát âm: /ˌaɪ.diˈɒl.ə.dʒi/)* ![[ideology.mp3]]<br><br>👪 **Word Family:** ideological (adj), ideologically (adv), ideologue (n)<br><br>💬 **Ví dụ:** Their conflicting ideologies made cooperation very difficult.<br>*(-> Hệ tư tưởng xung đột của họ khiến sự hợp tác rất khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of ideas and ideals forming the basis of a political or economic theory.

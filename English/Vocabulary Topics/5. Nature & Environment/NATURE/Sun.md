@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Sun
 *Noun*
 > /sʌn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Sun::Mặt trời *(Phát âm: /sʌn/)* ![[sun.mp3]]<br><br>👪 **Word Family:** sunny, sunrise, sunset<br><br>💬 **Ví dụ:** The sun is very hot today.<br>*(-> Hôm nay mặt trời rất nóng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The star that provides light and heat to the earth.

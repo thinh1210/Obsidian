@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Duck
 *noun*
 > /dʌk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Động vật quen thuộc, Gia súc & Thú nuôi
+
+## 🗂️ Flashcard
+Duck::Con vịt *(Phát âm: /dʌk/)* ![[duck.mp3]]<br><br>👪 **Word Family:** duck (n/v), duckling (n)<br><br>💬 **Ví dụ:** We threw breadcrumbs to the ducks swimming in the pond.<br>*(-> Chúng tôi ném những mẩu bánh mì vụn cho những con vịt đang bơi trong ao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.

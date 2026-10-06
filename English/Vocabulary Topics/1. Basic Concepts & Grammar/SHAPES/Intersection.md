@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Intersection
 *n.*
 > /ˌɪn.təˈsek.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Intersection::Giao điểm, ngã tư *(Phát âm: /ˌɪn.təˈsek.ʃən/)* ![[intersection.mp3]]<br><br>👪 **Word Family:** Intersect (v)<br><br>💬 **Ví dụ:** Turn left at the next intersection.<br>*(-> Rẽ trái ở ngã tư tiếp theo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point or line common to lines or surfaces that intersect.

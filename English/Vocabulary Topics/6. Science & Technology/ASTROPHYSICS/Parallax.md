@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Parallax
 *noun*
 > /ˈpær.ə.læks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Parallax::Thị sai *(Phát âm: /ˈpær.ə.læks/)* ![[parallax.mp3]]<br><br>👪 **Word Family:** parallactic (adj)<br><br>💬 **Ví dụ:** Close one eye and hold up a finger; you can see the parallax effect.<br>*(-> Nhắm một mắt và giơ ngón tay lên; bạn có thể thấy hiệu ứng thị sai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The apparent shift in position of a nearby object when viewed from different positions.

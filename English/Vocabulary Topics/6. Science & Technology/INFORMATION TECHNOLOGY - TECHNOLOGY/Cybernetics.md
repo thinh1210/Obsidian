@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Cybernetics
 *n*
 > /ˌsaɪ.bəˈnet.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Cybernetics::Điều khiển học *(Phát âm: /ˌsaɪ.bəˈnet.ɪks/)* ![[cybernetics.mp3]]<br><br>👪 **Word Family:** Cybernetic (adj)<br><br>💬 **Ví dụ:** He reads a lot about cybernetics and how brains connect to computers.<br>*(-> Anh ấy đọc rất nhiều về điều khiển học và cách não bộ kết nối với máy tính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of how humans, animals, and machines control and communicate with each other.

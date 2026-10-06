@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Hill
 *n.*
 > /hɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Hill::Ngọn đồi, vùng đất nhô cao tự nhiên thoai thoải, thấp hơn núi *(Phát âm: /hɪl/)* ![[hill.mp3]]<br><br>👪 **Word Family:** hilly (adj), hillside (n), hilltop (n)<br><br>💬 **Ví dụ:** We hiked to the top of the grassy hill to watch the sunset together.<br>*(-> Chúng tôi đi bộ lên đỉnh ngọn đồi cỏ để cùng nhau ngắm hoàng hôn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A naturally raised area of land, not as high or craggy as a mountain.

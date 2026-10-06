@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Habitat
 *noun*
 > /ˈhæb.ɪ.tæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Habitat::Môi trường sống *(Phát âm: /ˈhæb.ɪ.tæt/)* ![[habitat.mp3]]<br><br>👪 **Word Family:** habitat (n), habitable (adj), habitation (n), inhabit (v)<br><br>💬 **Ví dụ:** Deforestation is destroying the natural habitat of many rare species.<br>*(-> Nạn phá rừng đang hủy hoại môi trường sống tự nhiên của nhiều loài quý hiếm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural home or environment of an animal, plant, or other organism.

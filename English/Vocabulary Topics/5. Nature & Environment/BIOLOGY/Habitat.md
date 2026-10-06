@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Habitat
 *noun*
 > /ˈhæb.ɪ.tæt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Habitat::Môi trường sống, nơi cư trú *(Phát âm: /ˈhæb.ɪ.tæt/)* ![[habitat.mp3]]<br><br>👪 **Word Family:** habitation, cohabit<br><br>💬 **Ví dụ:** The rainforest is the natural habitat of the jaguar.<br>*(-> Rừng mưa nhiệt đới là môi trường sống tự nhiên của loài báo đốm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural home or environment of an animal, plant, or other organism.

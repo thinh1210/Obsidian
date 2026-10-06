@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Picturesque
 *Adjective*
 > /ˌpɪktʃəˈrɛsk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Thắng cảnh, Trải nghiệm & Cảm xúc xê dịch
+
+## 🗂️ Flashcard
+Picturesque::Đẹp như tranh vẽ *(Phát âm: /ˌpɪktʃəˈrɛsk/)* ![[picturesque.mp3]]<br><br>👪 **Word Family:** none<br><br>💬 **Ví dụ:** We visited a picturesque village in the Alps.<br>*(-> Chúng tôi thăm một ngôi làng đẹp như tranh ở dãy Alps.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Visually attractive, especially in a quaint or pretty style.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Play
 *v.*
 > /pleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Play::Chơi (nhạc cụ), phát (nhạc) *(Phát âm: /pleɪ/)* ![[play.mp3]]<br><br>👪 **Word Family:** player (n), playful (adj)<br><br>💬 **Ví dụ:** Can you play any musical instruments?<br>*(-> Bạn có chơi được nhạc cụ nào không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Produce music on an instrument.

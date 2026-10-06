@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Holistic
 *adj.*
 > /həʊˈlɪstɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Holistic::Toàn diện, tổng thể *(Phát âm: /həʊˈlɪstɪk/)* ![[holistic.mp3]]<br><br>👪 **Word Family:** holism, holistically<br><br>💬 **Ví dụ:** The school adopts a holistic approach to student development.<br>*(-> Nhà trường áp dụng cách tiếp cận toàn diện đối với sự phát triển của học sinh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Characterized by comprehension of the parts of something as interconnected

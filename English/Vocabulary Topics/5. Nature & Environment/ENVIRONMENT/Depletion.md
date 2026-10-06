@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Depletion
 *n.*
 > /dɪˈpliːʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Depletion::Sự cạn kiệt, sự suy giảm *(Phát âm: /dɪˈpliːʃn/)* ![[depletion.mp3]]<br><br>👪 **Word Family:** deplete (v), depleted (adj)<br><br>💬 **Ví dụ:** Resource depletion is a serious threat to our future.<br>*(-> Sự cạn kiệt tài nguyên là mối đe dọa nghiêm trọng đối với tương lai của chúng ta.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Reduction in the number or quantity of something.

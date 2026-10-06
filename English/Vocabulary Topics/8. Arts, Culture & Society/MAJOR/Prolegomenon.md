@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Prolegomenon
 *n.*
 > /ˌprəʊ.lɪˈɡɒm.ɪ.nɒn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Tinh thần tự học, Tri thức luận & Thực tiễn học thuật
+
+## 🗂️ Flashcard
+Prolegomenon::Lời mở đầu mang tính phê phán cho một tác phẩm học thuật *(Phát âm: /ˌprəʊ.lɪˈɡɒm.ɪ.nɒn/)* ![[prolegomenon.mp3]]<br><br>👪 **Word Family:** prolegomenon (n, singular), prolegomena (n, plural)<br><br>💬 **Ví dụ:** The essay serves as a prolegomenon to her larger book.<br>*(-> Bài tiểu luận đóng vai trò như lời mở đầu cho cuốn sách lớn hơn của cô ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A critical or discursive introduction to a book or treatise; preliminary observations or discussions.

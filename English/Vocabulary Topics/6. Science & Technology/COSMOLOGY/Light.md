@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Light
 *Noun*
 > /laɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Trái Đất, Mặt Trời & Quan sát thiên văn ban đầu
+
+## 🗂️ Flashcard
+Light::Ánh sáng *(Phát âm: /laɪt/)* ![[light.mp3]]<br><br>👪 **Word Family:** lighten (v), lighthouse (n)<br><br>💬 **Ví dụ:** Turn on the light so we can see.<br>*(-> Bật đèn/ánh sáng lên để chúng ta có thể nhìn thấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural agent that stimulates sight and makes things visible.

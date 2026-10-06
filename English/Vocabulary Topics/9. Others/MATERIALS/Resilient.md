@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Resilient
 *adjective.*
 > /rɪˈzɪliənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Resilient::Đàn hồi, kiên cường, phục hồi nhanh *(Phát âm: /rɪˈzɪliənt/)* ![[resilient.mp3]]<br><br>👪 **Word Family:** resilience (Noun), resiliently (Adverb)<br><br>💬 **Ví dụ:** The flooring is made of resilient cork, which cushions steps and bounces back.<br>*(-> Sàn nhà được làm bằng gỗ bần đàn hồi, giúp giảm chấn bước đi và phục hồi hình dạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to recoil or spring back into shape after bending or compression; able to recover quickly from difficulties.

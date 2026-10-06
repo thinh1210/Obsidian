@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Lavish
 *adj*
 > /ˈlæv.ɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Thói quen mua sắm, Tâm lý & Phân khúc thị trường
+
+## 🗂️ Flashcard
+Lavish::Xa hoa *(Phát âm: /ˈlæv.ɪʃ/)* ![[lavish.mp3]]<br><br>👪 **Word Family:** Lavishly<br><br>💬 **Ví dụ:** A lavish lifestyle.<br>*(-> Lối sống xa hoa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Large in quantity and expensive

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Mother-in-law
 *noun*
 > /ˈmʌð.ə.rɪn.lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Mother-in-law::Mẹ chồng, mẹ vợ *(Phát âm: /ˈmʌð.ə.rɪn.lɔː/)* ![[mother_in_law.mp3]]<br><br>👪 **Word Family:** mothers-in-law (pl)<br><br>💬 **Ví dụ:** My mother-in-law is great.<br>*(-> Mẹ chồng tôi rất tuyệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The mother of your husband or wife.

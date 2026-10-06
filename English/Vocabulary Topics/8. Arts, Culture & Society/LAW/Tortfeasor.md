@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Tortfeasor
 *noun*
 > /ˈtɔːrtˌfiːzər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Tortfeasor::Người thực hiện sai phạm dân sự *(Phát âm: /ˈtɔːrtˌfiːzər/)* ![[tortfeasor.mp3]]<br><br>👪 **Word Family:** tort (n), tortious (adj), joint tortfeasor (n)<br><br>💬 **Ví dụ:** The tortfeasor was ordered to pay full compensation.<br>*(-> Người gây hại dân sự bị ra lệnh bồi thường toàn bộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who commits a tort (a wrongful civil act that causes harm to another)

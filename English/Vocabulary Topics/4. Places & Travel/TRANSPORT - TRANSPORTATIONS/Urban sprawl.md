@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Urban sprawl
 *noun*
 > /ˈɜːrbən sprɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Urban sprawl::Sự mở rộng đô thị tự phát, tràn lan *(Phát âm: /ˈɜːrbən sprɔːl/)* ![[urban_sprawl.mp3]]<br><br>👪 **Word Family:** Noun: urban sprawl (sự mở rộng đô thị tự phát), Adjective: sprawling (tràn lan, mở rộng vô trật tự)<br><br>💬 **Ví dụ:** The local government is trying to prevent urban sprawl by creating green belts.<br>*(-> Chính quyền địa phương đang cố gắng ngăn chặn sự mở rộng đô thị tự phát bằng cách tạo ra các vành đai xanh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The uncontrolled expansion of urban areas.

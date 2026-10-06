@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Infrastructure
 *n.*
 > /ˈɪnfrəstrʌktʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Infrastructure::Cơ sở hạ tầng *(Phát âm: /ˈɪnfrəstrʌktʃə(r)/)* ![[infrastructure.mp3]]<br><br>👪 **Word Family:** infrastructural<br><br>💬 **Ví dụ:** The country needs to invest more in its transport infrastructure.<br>*(-> Đất nước cần đầu tư nhiều hơn vào cơ sở hạ tầng giao thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The basic physical structures and facilities needed for the operation of a society

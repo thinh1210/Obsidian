@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Moon
 *noun*
 > /muːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Hệ Mặt Trời, Trái Đất & Thiên thể quen thuộc
+
+## 🗂️ Flashcard
+Moon::Mặt trăng *(Phát âm: /muːn/)* ![[moon.mp3]]<br><br>👪 **Word Family:** moony (adj), moonless (adj)<br><br>💬 **Ví dụ:** The moon shines brightly at night.<br>*(-> Mặt trăng tỏa sáng rực rỡ vào ban đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The natural satellite that orbits Earth and reflects light from the sun.

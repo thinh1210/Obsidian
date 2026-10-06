@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Bury
 *verb*
 > /ˈberi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Bury::Chôn cất, chôn giấu *(Phát âm: /ˈberi/)* ![[bury.mp3]]<br><br>👪 **Word Family:** burial (noun)<br><br>💬 **Ví dụ:** The dog buried its bone in the backyard.<br>*(-> Con chó đã chôn khúc xương của nó ở sân sau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To put a dead body into the ground

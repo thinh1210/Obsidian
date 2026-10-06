@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Sport
 *n*
 > /spɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Sport::Thể thao *(Phát âm: /spɔːt/)* ![[sport.mp3]]<br><br>👪 **Word Family:** Sporty (adj)<br><br>💬 **Ví dụ:** Football is my favorite sport.<br>*(-> Bóng đá là môn thể thao yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving physical exertion and skill.

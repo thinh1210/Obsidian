@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Enroll
 *verb*
 > /ɪnˈrəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Enroll::Đăng ký nhập học, ghi danh *(Phát âm: /ɪnˈrəʊl/)* ![[enroll.mp3]]<br><br>👪 **Word Family:** enrollment (n)<br><br>💬 **Ví dụ:** I want to enroll in the advanced English class next term.<br>*(-> Tôi muốn đăng ký vào lớp tiếng Anh nâng cao học kỳ tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Officially register as a member of an institution or a student on a course.

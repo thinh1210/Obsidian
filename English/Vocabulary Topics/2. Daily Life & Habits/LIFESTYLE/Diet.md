@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Diet
 *n.*
 > /ˈdaɪət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Diet::Chế độ ăn, ăn kiêng *(Phát âm: /ˈdaɪət/)* ![[diet.mp3]]<br><br>👪 **Word Family:** dietary (adj.)<br><br>💬 **Ví dụ:** I am on a diet.<br>*(-> Tôi đang ăn kiêng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The kinds of food that a person, animal, or community habitually eats.

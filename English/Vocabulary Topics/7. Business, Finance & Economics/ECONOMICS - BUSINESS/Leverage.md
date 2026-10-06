@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Leverage
 *verb*
 > /ˈlevərɪdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Đòn bẩy tài chính & Nghĩa vụ nợ doanh nghiệp
+
+## 🗂️ Flashcard
+Leverage::đòn bẩy, tận dụng, sử dụng đòn bẩy tài chính *(Phát âm: /ˈlevərɪdʒ/)* ![[leverage.mp3]]<br><br>👪 **Word Family:** lever (noun), leveraged (adjective)<br><br>💬 **Ví dụ:** She managed to leverage her experience in sales to get a high-paying job.<br>*(-> Cô ấy đã xoay xở tận dụng kinh nghiệm bán hàng để có được công việc lương cao.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to use something that you already have in order to achieve something new or better; the use of borrowed money to buy an asset.

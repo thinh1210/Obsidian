@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Instruction
 *n.*
 > /ɪnˈstrʌkʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Instruction::Sự hướng dẫn, chỉ dẫn học tập *(Phát âm: /ɪnˈstrʌkʃn/)* ![[instruction.mp3]]<br><br>👪 **Word Family:** instruct, instructor, instructive<br><br>💬 **Ví dụ:** Read the instructions on the test paper carefully.<br>*(-> Hãy đọc kỹ các hướng dẫn trên tờ đề thi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Detailed information telling how something should be done or taught

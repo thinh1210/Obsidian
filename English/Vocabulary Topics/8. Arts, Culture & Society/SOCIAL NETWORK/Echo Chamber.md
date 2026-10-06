@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Echo Chamber
 *noun*
 > /ˈekəʊ ˌtʃeɪmbə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Echo Chamber::Buồng phản âm (nơi chỉ tiếp nhận ý kiến đồng thuận) *(Phát âm: /ˈekəʊ ˌtʃeɪmbə(r)/)* ![[echo_chamber.mp3]]<br><br>👪 **Word Family:** echo (v/n), chamber (n)<br><br>💬 **Ví dụ:** If you only follow people who agree with you, your social media feed becomes an echo chamber.<br>*(-> Nếu bạn chỉ theo dõi những người đồng ý với mình, bảng tin mạng xã hội của bạn sẽ trở thành một buồng phản âm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An environment where a person only encounters information or opinions that reflect and reinforce their own

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Minute
 *noun*
 > /ˈmɪnɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Các buổi & Thời khắc trong ngày
+
+## 🗂️ Flashcard
+Minute::Phút *(Phát âm: /ˈmɪnɪt/)* ![[minute.mp3]]<br><br>👪 **Word Family:** minutely (adv)<br><br>💬 **Ví dụ:** I will be ready in five minutes.<br>*(-> Tôi sẽ sẵn sàng trong năm phút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of 60 seconds.

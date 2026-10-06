@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Gold
 *noun.*
 > /ɡəʊld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Gold::Vàng *(Phát âm: /ɡəʊld/)* ![[gold.mp3]]<br><br>👪 **Word Family:** golden (Adjective), gild (Verb)<br><br>💬 **Ví dụ:** She wears a delicate gold chain around her neck.<br>*(-> Cô ấy đeo một sợi dây chuyền vàng mảnh trên cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A yellow precious metal, valued especially for use in jewelry and decoration, and as a guarantee of value.

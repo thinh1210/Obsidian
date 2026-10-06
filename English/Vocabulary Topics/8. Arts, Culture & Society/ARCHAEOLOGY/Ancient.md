@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Ancient
 *adj.*
 > /ˈeɪnʃənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Ancient::Cổ xưa, cổ kính *(Phát âm: /ˈeɪnʃənt/)* ![[ancient.mp3]]<br><br>👪 **Word Family:** ancientness (noun)<br><br>💬 **Ví dụ:** They visited an ancient temple in Rome.<br>*(-> Họ đã đến thăm một ngôi đền cổ ở Rome.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Belonging to a period of history that is thousands of years in the past

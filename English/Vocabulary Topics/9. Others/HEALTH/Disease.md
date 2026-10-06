@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Disease
 *n*
 > /dɪˈziːz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Disease::Bệnh tật, dịch bệnh *(Phát âm: /dɪˈziːz/)* ![[disease.mp3]]<br><br>👪 **Word Family:** diseased (adj)<br><br>💬 **Ví dụ:** A balanced diet can help prevent heart disease.<br>*(-> Một chế độ ăn uống cân bằng có thể giúp ngăn ngừa bệnh tim.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Twin
 *n.*
 > /twɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Twin::Trẻ sinh đôi, một trong hai người con cùng lứa sinh *(Phát âm: /twɪn/)* ![[twin.mp3]]<br><br>👪 **Word Family:** twinned (adj), twinning (n)<br><br>💬 **Ví dụ:** My cousins are twins, and even their teachers struggle to tell them apart.<br>*(-> Các anh họ tôi là cặp song sinh, và ngay cả giáo viên cũng chật vật phân biệt họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** One of two children born to the same mother at the same time.

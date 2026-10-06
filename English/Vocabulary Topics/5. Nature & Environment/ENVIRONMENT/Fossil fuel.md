@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Fossil fuel
 *n.*
 > /ˈfɒsl fjuːəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Fossil fuel::Nhiên liệu hóa thạch *(Phát âm: /ˈfɒsl fjuːəl/)* ![[fossil_fuel.mp3]]<br><br>👪 **Word Family:** fossilize (v), fossilization (n)<br><br>💬 **Ví dụ:** Coal, oil, and natural gas are fossil fuels.<br>*(-> Than đá, dầu mỏ và khí tự nhiên là các nhiên liệu hóa thạch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A natural fuel such as coal or gas, formed in the geological past from the remains of living organisms.

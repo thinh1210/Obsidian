@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # School
 *n.*
 > /skuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+School::Trường học *(Phát âm: /skuːl/)* ![[school.mp3]]<br><br>👪 **Word Family:** schooling, schoolmate<br><br>💬 **Ví dụ:** She walks to school every morning.<br>*(-> Cô ấy đi bộ đến trường mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An institution for educating children

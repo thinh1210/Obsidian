@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Narrative
 *noun*
 > /ˈnær.ə.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Narrative::Lời tự sự, phong cách kể chuyện *(Phát âm: /ˈnær.ə.tɪv/)* ![[narrative.mp3]]<br><br>👪 **Word Family:** narrate (v), narrator (n), narration (n)<br><br>💬 **Ví dụ:** The novel has a complex narrative that shifts between times.<br>*(-> Cuốn sách có một cấu trúc tự sự phức tạp dịch chuyển giữa các thời điểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A spoken or written account of connected events; a story or storytelling style.

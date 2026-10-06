@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Recreation
 *n.*
 > /ˌrek.riˈeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Recreation::Hoạt động giải trí, sự tiêu khiển *(Phát âm: /ˌrek.riˈeɪ.ʃən/)* ![[recreation.mp3]]<br><br>👪 **Word Family:** recreate, recreational<br><br>💬 **Ví dụ:** The park provides facilities for sports and recreation.<br>*(-> Công viên cung cấp các cơ sở vật chất cho thể thao và giải trí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Activity done for enjoyment when one is not working.

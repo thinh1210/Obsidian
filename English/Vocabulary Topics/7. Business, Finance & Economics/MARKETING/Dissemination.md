@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Dissemination
 *noun*
 > /dɪˌsemɪˈneɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Tiếp cận khách hàng, Thâm nhập thị trường & Lan tỏa
+
+## 🗂️ Flashcard
+Dissemination::Sự lan truyền, phổ biến thông tin *(Phát âm: /dɪˌsemɪˈneɪʃn/)* ![[dissemination.mp3]]<br><br>👪 **Word Family:** disseminate (v), disseminator (n)<br><br>💬 **Ví dụ:** The rapid dissemination of rumors on social media can ruin a person's reputation.<br>*(-> Sự lan truyền nhanh chóng của các tin đồn trên mạng xã hội có thể hủy hoại danh tiếng của một người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of spreading something, especially information, widely

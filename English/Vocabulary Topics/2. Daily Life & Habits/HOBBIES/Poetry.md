@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Poetry
 *noun*
 > /ˈpəʊ.ɪ.tri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Poetry::Thơ ca *(Phát âm: /ˈpəʊ.ɪ.tri/)* ![[poetry.mp3]]<br><br>👪 **Word Family:** Poet (n), Poetic (adj)<br><br>💬 **Ví dụ:** Reading poetry helps me relax before bed.<br>*(-> Đọc thơ giúp tôi thư giãn trước khi ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Poems in general as a form of literature.

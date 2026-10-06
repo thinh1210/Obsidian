@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Gastronomy
 *n.*
 > /ɡæsˈtrɒn.ə.mi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Gastronomy::Nghệ thuật ẩm thực *(Phát âm: /ɡæsˈtrɒn.ə.mi/)* ![[gastronomy.mp3]]<br><br>👪 **Word Family:** gastronomic, gastronome<br><br>💬 **Ví dụ:** He studied French gastronomy.<br>*(-> Anh ấy đã nghiên cứu nghệ thuật ẩm thực Pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The practice or art of choosing, cooking, and eating good food.

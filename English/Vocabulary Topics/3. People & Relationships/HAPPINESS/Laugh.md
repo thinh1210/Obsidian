@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Laugh
 *v.*
 > /lɑːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Laugh::Cười to *(Phát âm: /lɑːf/)* ![[laugh.mp3]]<br><br>👪 **Word Family:** Laughter (n)<br><br>💬 **Ví dụ:** He made me laugh.<br>*(-> Anh ấy làm tôi cười.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement.

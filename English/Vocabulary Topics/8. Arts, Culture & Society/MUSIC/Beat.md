@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Beat
 *n.*
 > /biːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Beat::Nhịp, phách, tiếng trống/nhịp điệu *(Phát âm: /biːt/)* ![[beat.mp3]]<br><br>👪 **Word Family:** beatbox (n), beaten (adj)<br><br>💬 **Ví dụ:** The song has a heavy beat that makes you want to dance.<br>*(-> Bài hát có một nhịp trống mạnh mẽ khiến bạn muốn nhảy múa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main rhythm or tempo in music.

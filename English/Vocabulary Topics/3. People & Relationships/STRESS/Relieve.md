@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Relieve
 *v.*
 > /rɪˈliːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Kiểm soát, Đối phó & Tìm lại cân bằng
+
+## 🗂️ Flashcard
+Relieve::Làm dịu, giải tỏa *(Phát âm: /rɪˈliːv/)* ![[relieve.mp3]]<br><br>👪 **Word Family:** relief (n), relieved (adj)<br><br>💬 **Ví dụ:** Yoga helps relieve stress.<br>*(-> Yoga giúp giải tỏa căng thẳng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cause (pain, distress, or difficulty) to become less severe or serious

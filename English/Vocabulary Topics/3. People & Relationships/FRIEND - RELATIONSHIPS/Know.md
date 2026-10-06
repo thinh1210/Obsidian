@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Know
 *verb*
 > /noʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Know::Biết *(Phát âm: /noʊ/)* ![[know.mp3]]<br><br>👪 **Word Family:** knowledge<br><br>💬 **Ví dụ:** I know him well.<br>*(-> Tôi biết rõ về anh ấy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Be aware of through observation, inquiry, or information.

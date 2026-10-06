@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # build
 *v.*
 > /bɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Khởi nguồn ý tưởng & Khát vọng phát minh
+
+## 🗂️ Flashcard
+Build::Xây dựng, chế tạo *(Phát âm: /bɪld/)* ![[build.mp3]]<br><br>👪 **Word Family:** builder (n), building (n)<br><br>💬 **Ví dụ:** They want to build a treehouse in the backyard.<br>*(-> Họ muốn xây một ngôi nhà trên cây ở sân sau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something by putting parts or materials together

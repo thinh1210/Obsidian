@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Silviculture
 *n.*
 > /ˈsɪl.vɪ.kʌl.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Silviculture::Lâm nghiệp, nuôi trồng rừng (lấy gỗ) *(Phát âm: /ˈsɪl.vɪ.kʌl.tʃər/)* ![[silviculture.mp3]]<br><br>👪 **Word Family:** silvicultural (adj), silviculturist (n)<br><br>💬 **Ví dụ:** The logging company is required to follow strict silviculture guidelines.<br>*(-> Công ty khai thác gỗ được yêu cầu tuân thủ các hướng dẫn lâm nghiệp nghiêm ngặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The growing and cultivation of trees, especially for timber production.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Stall
 *noun / verb*
 > /stɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khí động học, Thời tiết & Giới hạn vận hành
+
+## 🗂️ Flashcard
+Stall::Tình trạng mất lực nâng (khi góc tấn quá lớn) *(Phát âm: /stɔːl/)* ![[stall.mp3]]<br><br>👪 **Word Family:** stall speed (n), angle of attack (n), recovery (n)<br><br>💬 **Ví dụ:** The instructor demonstrated how to recover the aircraft from a stall.<br>*(-> Giáo viên minh họa cách phục hồi máy bay từ trạng thái mất lực nâng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A condition in which an aircraft's wings lose lift due to an excessive angle of attack, causing the aircraft to drop.

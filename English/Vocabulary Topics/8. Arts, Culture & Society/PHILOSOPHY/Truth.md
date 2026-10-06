@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/PHILOSOPHY
+  - review/8-Arts-Culture-and-Society/PHILOSOPHY
+---
 # Truth
 *n.*
 > /truːθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PHILOSOPHY | **Phân nhóm:** Tâm trí, Nhận thức luận & Chân lý bản thể
+
+## 🗂️ Flashcard
+Truth::Sự thật, chân lý *(Phát âm: /truːθ/)* ![[truth.mp3]]<br><br>👪 **Word Family:** true, truly, truthful<br><br>💬 **Ví dụ:** To tell you the truth, I didn't like the food.<br>*(-> Nói thật với bạn, tôi không thích đồ ăn đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The quality or state of being true.

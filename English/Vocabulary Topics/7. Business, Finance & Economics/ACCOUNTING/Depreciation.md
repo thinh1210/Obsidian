@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Depreciation
 *n.*
 > /dɪˌpriːʃiˈeɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Depreciation::Sự khấu hao tài sản hữu hình *(Phát âm: /dɪˌpriːʃiˈeɪʃən/)* ![[depreciation.mp3]]<br><br>👪 **Word Family:** depreciate, depreciative<br><br>💬 **Ví dụ:** The rapid depreciation of new cars is well-known.<br>*(-> Sự giảm giá nhanh chóng của ô tô mới là điều ai cũng biết.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The gradual decrease in the economic value of a tangible asset over time due to wear and tear

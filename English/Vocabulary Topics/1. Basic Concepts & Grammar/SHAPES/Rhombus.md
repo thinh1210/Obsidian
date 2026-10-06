@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Rhombus
 *n.*
 > /ˈrɒm.bəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Đa giác & Đường cong nâng cao
+
+## 🗂️ Flashcard
+Rhombus::Hình thoi *(Phát âm: /ˈrɒm.bəs/)* ![[rhombus.mp3]]<br><br>👪 **Word Family:** Rhombic (adj)<br><br>💬 **Ví dụ:** A square is a special type of rhombus.<br>*(-> Hình vuông là một loại hình thoi đặc biệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A parallelogram with opposite equal acute angles, opposite equal obtuse angles, and four equal sides.

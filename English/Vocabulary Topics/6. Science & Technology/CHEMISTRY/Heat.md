@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Heat
 *verb*
 > /hiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Heat::Đun nóng, làm nóng *(Phát âm: /hiːt/)* ![[heat.mp3]]<br><br>👪 **Word Family:** heater (n), heated (adj)<br><br>💬 **Ví dụ:** Heat the soup in the microwave for two minutes.<br>*(-> Hãy làm nóng súp trong lò vi sóng khoảng hai phút.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something hot or warm.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Hang out
 *phr v.*
 > /hæŋ aʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Hang out::Đi chơi thảnh thơi, tụ tập la cà cùng bạn bè *(Phát âm: /hæŋ aʊt/)* ![[hang_out.mp3]]<br><br>👪 **Word Family:** hangout (n)<br><br>💬 **Ví dụ:** On weekends, teenagers love to hang out at the local milk tea shop after school.<br>*(-> Vào cuối tuần, các bạn trẻ rất thích tụ tập đi chơi ở quán trà sữa gần trường sau giờ học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To spend a lot of time in a place or with someone, enjoying casual leisure.

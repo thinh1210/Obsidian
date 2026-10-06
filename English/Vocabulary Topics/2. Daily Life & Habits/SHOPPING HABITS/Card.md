@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Card
 *n*
 > /kɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Nơi mua sắm, Món đồ & Quá trình thanh toán
+
+## 🗂️ Flashcard
+Card::Thẻ *(Phát âm: /kɑːd/)* ![[card.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Can I use my card?<br>*(-> Tôi dùng thẻ được không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small plastic piece used to pay

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Humidity
 *noun*
 > /hjuːˈmɪdəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Humidity::Độ ẩm *(Phát âm: /hjuːˈmɪdəti/)* ![[humidity.mp3]]<br><br>👪 **Word Family:** Humid (adj), humidify (verb), humidifier (noun)<br><br>💬 **Ví dụ:** The high humidity in the summer makes it feel much hotter.<br>*(-> Độ ẩm cao vào mùa hè khiến thời tiết có cảm giác nóng hơn nhiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount of water vapor in the air

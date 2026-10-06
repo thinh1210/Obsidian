@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Foreclosure
 *n.*
 > /fɔːˈkləʊʒə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Foreclosure::Sự tịch thu tài sản thế chấp *(Phát âm: /fɔːˈkləʊʒə(r)/)* ![[foreclosure.mp3]]<br><br>👪 **Word Family:** foreclose (v)<br><br>💬 **Ví dụ:** The family had to move out when their house went into foreclosure.<br>*(-> Gia đình đã phải dời đi khi ngôi nhà của họ bị tịch thu để thế nợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of taking possession of a mortgaged property when the mortgagor fails to keep up mortgage payments.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Angry
 *adj.*
 > /ˈæŋɡri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Angry::Tức giận *(Phát âm: /ˈæŋɡri/)* ![[angry.mp3]]<br><br>👪 **Word Family:** anger (n), angrily (adv)<br><br>💬 **Ví dụ:** Why are you so angry?<br>*(-> Sao bạn lại tức giận vậy?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or showing strong annoyance

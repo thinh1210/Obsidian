@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Drawing
 *n.*
 > /ˈdrɔː.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Drawing::Bức tranh vẽ, nghệ thuật vẽ phác thảo bằng bút chì hoặc bút mực *(Phát âm: /ˈdrɔː.ɪŋ/)* ![[drawing.mp3]]<br><br>👪 **Word Family:** draw (v), drawer (n)<br><br>💬 **Ví dụ:** She keeps an art journal filled with charming pencil drawings of street scenes.<br>*(-> Cô ấy giữ một cuốn sổ nhật ký nghệ thuật đầy những bức vẽ chì duyên dáng về phố phường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act or art of making pictures with a pencil or pen; a picture made in this way.

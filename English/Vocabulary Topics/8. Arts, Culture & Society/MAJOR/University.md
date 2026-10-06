@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # University
 *n.*
 > /ˌjuː.nɪˈvɜː.sɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+University::Trường đại học *(Phát âm: /ˌjuː.nɪˈvɜː.sɪ.ti/)* ![[university.mp3]]<br><br>👪 **Word Family:** university (n), universal (adj), universe (n)<br><br>💬 **Ví dụ:** She wants to go to university in the UK.<br>*(-> Cô ấy muốn học đại học ở Anh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An institution of higher education offering undergraduate and postgraduate degrees.

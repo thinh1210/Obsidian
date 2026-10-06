@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Public
 *n.*
 > /ˈpʌb.lɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Public::Công chúng, đông đảo quần chúng nhân dân trong xã hội *(Phát âm: /ˈpʌb.lɪk/)* ![[public.mp3]]<br><br>👪 **Word Family:** publicly (adv), publicity (n), publish (v)<br><br>💬 **Ví dụ:** The museum opens its modern art gallery to the public every Saturday free of charge.<br>*(-> Bảo tàng mở cửa phòng trưng bày nghệ thuật hiện đại cho công chúng vào thứ Bảy hằng tuần miễn phí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** All the ordinary people in a country or community.

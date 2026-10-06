@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Drama
 *noun*
 > /ˈdrɑː.mə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Drama::Kịch, tác phẩm kịch, sự kịch tính *(Phát âm: /ˈdrɑː.mə/)* ![[drama.mp3]]<br><br>👪 **Word Family:** dramatic (adj), dramatize (v), dramatist (n)<br><br>💬 **Ví dụ:** We are studying Shakespearean drama this semester.<br>*(-> Học kỳ này chúng tôi đang nghiên cứu về kịch của Shakespeare.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A play for theater, radio, or television; exciting or emotional events.

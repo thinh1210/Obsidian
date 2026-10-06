@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Sociable
 *adj.*
 > /ˈsəʊ.ʃə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Sociable::Hòa đồng, cởi mở, thích gặp gỡ kết nối mọi người trong xã hội *(Phát âm: /ˈsəʊ.ʃə.bəl/)* ![[sociable.mp3]]<br><br>👪 **Word Family:** society (n), socialize (v), sociably (adv)<br><br>💬 **Ví dụ:** They enjoy hosting weekend dinner parties because they are very sociable people.<br>*(-> Họ rất thích tổ chức tiệc tối cuối tuần vì họ là những người rất hòa đồng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Liking to be with people and pleasant to be with.

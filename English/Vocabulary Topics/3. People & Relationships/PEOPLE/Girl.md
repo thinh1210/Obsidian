@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Girl
 *n.*
 > /ɡɜːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Girl::Con gái (cô bé) *(Phát âm: /ɡɜːl/)* ![[girl.mp3]]<br><br>👪 **Word Family:** Girlhood<br><br>💬 **Ví dụ:** She is a smart girl.<br>*(-> Cô ấy là một cô bé thông minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A female child or young woman.

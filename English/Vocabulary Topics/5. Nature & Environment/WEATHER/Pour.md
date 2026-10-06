@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Pour
 *verb*
 > /pɔː(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Mưa, Độ ẩm, Sương mù & Cầu vồng
+
+## 🗂️ Flashcard
+Pour::Mưa như trút nước, đổ mưa *(Phát âm: /pɔː(r)/)* ![[pour.mp3]]<br><br>👪 **Word Family:** Pouring (adj), downpour (noun)<br><br>💬 **Ví dụ:** It started to pour just as we stepped out of the office.<br>*(-> Trời bắt đầu mưa như trút nước ngay khi chúng tôi bước ra khỏi văn phòng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To rain heavily and continuously

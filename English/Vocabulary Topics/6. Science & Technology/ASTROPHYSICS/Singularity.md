@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Singularity
 *noun*
 > /ˌsɪŋ.ɡjəˈlær.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Singularity::Điểm kỳ dị *(Phát âm: /ˌsɪŋ.ɡjəˈlær.ə.ti/)* ![[singularity.mp3]]<br><br>👪 **Word Family:** singular (adj), singularize (v)<br><br>💬 **Ví dụ:** The idea of a singularity with infinite density is hard to imagine.<br>*(-> Ý tưởng về một điểm kỳ dị với mật độ vô hạn là rất khó để tưởng tượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A point of infinite density and gravity at the center of a black hole where space and time become distorted.

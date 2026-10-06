@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Stiff
 *adjective.*
 > /stɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Stiff::Cứng, cứng nhắc, đơ *(Phát âm: /stɪf/)* ![[stiff.mp3]]<br><br>👪 **Word Family:** stiffness (Noun), stiffly (Adverb), stiffen (Verb)<br><br>💬 **Ví dụ:** The new boots were very stiff and hurt my feet.<br>*(-> Đôi bốt mới rất cứng và làm đau chân tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not easily bent or changed in shape; rigid; firm.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Pollination
 *noun*
 > /ˌpɒləˈneɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Hoa, Quả & Quá trình thụ phấn
+
+## 🗂️ Flashcard
+Pollination::Sự thụ phấn *(Phát âm: /ˌpɒləˈneɪʃn/)* ![[pollination.mp3]]<br><br>👪 **Word Family:** Noun: pollen (phấn hoa), pollination (sự thụ phấn), pollinator (con vật thụ phấn), Verb: pollinate (thụ phấn)<br><br>💬 **Ví dụ:** Pollination by bees is essential for our backyard apple tree to yield fruit.<br>*(-> Sự thụ phấn nhờ ong là cần thiết để cây táo sau nhà chúng ta ra quả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The transfer of pollen to a stigma, ovule, or flower to allow fertilization.

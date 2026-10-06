@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Pastel
 *n, adj*
 > /pæsˈtel/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Pastel::Màu nhạt (màu pastel) *(Phát âm: /pæsˈtel/)* ![[pastel.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The nursery was decorated in soft pastel colors.<br>*(-> Phòng trẻ sơ sinh được trang trí bằng những tông màu pastel dịu nhẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A soft, pale color.

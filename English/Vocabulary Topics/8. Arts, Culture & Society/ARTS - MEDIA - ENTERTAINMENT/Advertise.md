@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Advertise
 *v.*
 > /ˈædvətaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phương tiện truyền thông, Phát sóng & Lễ hội văn hóa
+
+## 🗂️ Flashcard
+Advertise::Quảng cáo *(Phát âm: /ˈædvətaɪz/)* ![[advertise.mp3]]<br><br>👪 **Word Family:** advertisement, advertising, advertiser<br><br>💬 **Ví dụ:** Companies advertise their products on social media.<br>*(-> Các công ty quảng cáo sản phẩm của họ trên mạng xã hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Describe or draw attention to (a product, service, or event) in a public medium in order to promote sales or attendance.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Price
 *noun.*
 > /praɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Ngân hàng bán lẻ, Thẻ & Giao dịch thanh toán
+
+## 🗂️ Flashcard
+Price::Giá cả, giá bán *(Phát âm: /praɪs/)* ![[price.mp3]]<br><br>👪 **Word Family:** pricing (noun), priceless (adj)<br><br>💬 **Ví dụ:** The price of petrol has gone up again this week.<br>*(-> Giá xăng lại tăng lên vào tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of money for which something is sold.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Semiconductor
 *n.*
 > /ˌsemikənˈdʌktər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần cứng, Mạng & Cơ sở hạ tầng hệ thống
+
+## 🗂️ Flashcard
+Semiconductor::Chất bán dẫn *(Phát âm: /ˌsemikənˈdʌktər/)* ![[semiconductor.mp3]]<br><br>👪 **Word Family:** Conduct (v.), Conductivity (n.)<br><br>💬 **Ví dụ:** My uncle works in a factory that makes semiconductors.<br>*(-> Chú tôi làm việc trong một nhà máy sản xuất chất bán dẫn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A solid substance that has a conductivity between that of an insulator and that of most metals, used in electronic circuits.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Amazing
 *adj.*
 > /əˈmeɪzɪŋ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Cảm xúc, Tâm trạng & Năng lượng
+
+## 🗂️ Flashcard
+Amazing::Tuyệt vời *(Phát âm: /əˈmeɪzɪŋ/)* ![[amazing.mp3]]<br><br>👪 **Word Family:** amazement<br><br>💬 **Ví dụ:** You look amazing.<br>*(-> Bạn trông tuyệt vời.)*
+<!--SR:!2026-10-09,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Causing great surprise or wonder

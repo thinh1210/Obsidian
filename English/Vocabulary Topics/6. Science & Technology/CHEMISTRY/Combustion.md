@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Combustion
 *noun*
 > /kəmˈbʌs.tʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Combustion::Sự đốt cháy, sự cháy *(Phát âm: /kəmˈbʌs.tʃən/)* ![[combustion.mp3]]<br><br>👪 **Word Family:** combust (v), combustible (adj)<br><br>💬 **Ví dụ:** Oxygen is necessary for the combustion of wood.<br>*(-> Oxy là cần thiết cho sự cháy của gỗ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of burning something, involving a chemical reaction with oxygen.

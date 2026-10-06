@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # equipment
 *noun*
 > /ɪˈkwɪp.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Equipment::trang thiết bị *(Phát âm: /ɪˈkwɪp.mənt/)* ![[equipment.mp3]]<br><br>👪 **Word Family:** Noun: equipment (trang thiết bị), Verb: equip (trang bị), Adjective: equipped (được trang bị)<br><br>💬 **Ví dụ:** Camping equipment like tents and sleeping bags are expensive.<br>*(-> Các trang thiết bị cắm trại như lều và túi ngủ rất đắt tiền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** the necessary items for a particular purpose.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Appetite
 *Noun*
 > /ˈæp.ə.taɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thưởng thức, Dinh dưỡng & Nghệ thuật ẩm thực
+
+## 🗂️ Flashcard
+Appetite::Sự thèm ăn, khẩu vị *(Phát âm: /ˈæp.ə.taɪt/)* ![[appetite.mp3]]<br><br>👪 **Word Family:** Appetizing (Adj): Ngon miệng<br><br>💬 **Ví dụ:** All that exercise has given me an appetite.<br>*(-> Việc tập thể dục đó khiến tôi cảm thấy thèm ăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The feeling that you want to eat food.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Lobbying
 *n*
 > /ˈlɒb.i.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+Lobbying::Hoạt động vận động hành lang *(Phát âm: /ˈlɒb.i.ɪŋ/)* ![[lobbying.mp3]]<br><br>👪 **Word Family:** lobbyist (n), lobby (v/n)<br><br>💬 **Ví dụ:** Residents began lobbying the city council for better public transport.<br>*(-> Cư dân bắt đầu vận động hội đồng thành phố cải thiện giao thông công cộng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of trying to influence politicians or officials on behalf of a group.

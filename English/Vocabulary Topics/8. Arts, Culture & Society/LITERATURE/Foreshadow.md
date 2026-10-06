@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Foreshadow
 *verb*
 > /fɔːrˈʃæd.əʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Foreshadow::Báo trước, điềm báo trước *(Phát âm: /fɔːrˈʃæd.əʊ/)* ![[foreshadow.mp3]]<br><br>👪 **Word Family:** foreshadowing (n)<br><br>💬 **Ví dụ:** The dark clouds in the first scene foreshadow the tragic ending.<br>*(-> Những đám mây đen ở cảnh đầu tiên báo trước cái kết bi thảm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Be a warning or indication of a future event in a story.

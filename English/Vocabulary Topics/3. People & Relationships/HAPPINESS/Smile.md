@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Smile
 *n./v.*
 > /smaɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HAPPINESS | **Phân nhóm:** Niềm vui, Tiếng cười & Sự tận hưởng
+
+## 🗂️ Flashcard
+Smile::Nụ cười, mỉm cười *(Phát âm: /smaɪl/)* ![[smile.mp3]]<br><br>👪 **Word Family:** Smiling (adj)<br><br>💬 **Ví dụ:** She has a beautiful smile.<br>*(-> Cô ấy có nụ cười đẹp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pleased, kind, or amused facial expression.

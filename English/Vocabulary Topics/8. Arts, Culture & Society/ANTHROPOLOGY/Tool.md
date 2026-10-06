@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Tool
 *n.*
 > /tuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Tool::Công cụ *(Phát âm: /tuːl/)* ![[tool.mp3]]<br><br>👪 **Word Family:** tooling<br><br>💬 **Ví dụ:** A hammer is a useful tool.<br>*(-> Cái búa là một công cụ hữu ích.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A device or implement, especially one held in the hand, used to carry out a particular function.

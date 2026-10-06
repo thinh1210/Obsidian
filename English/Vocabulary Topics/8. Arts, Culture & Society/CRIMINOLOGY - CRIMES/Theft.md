@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Theft
 *noun*
 > /θeft/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Theft::Sự ăn trộm, vụ trộm cắp *(Phát âm: /θeft/)* ![[theft.mp3]]<br><br>👪 **Word Family:** thief (n), thieve (v)<br><br>💬 **Ví dụ:** She went to the police station to report the theft of her bicycle.<br>*(-> Cô ấy đã đến đồn cảnh sát để trình báo về vụ mất trộm xe đạp của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act or crime of stealing something

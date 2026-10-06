@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Censorship
 *n.*
 > /ˈsensəʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Censorship::Sự kiểm duyệt *(Phát âm: /ˈsensəʃɪp/)* ![[censorship.mp3]]<br><br>👪 **Word Family:** censor, censorial, uncensored<br><br>💬 **Ví dụ:** The author fought against the censorship of his novel.<br>*(-> Tác giả đã đấu tranh chống lại sự kiểm duyệt đối với cuốn tiểu thuyết của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The suppression or prohibition of any parts of books, films, news, etc. that are considered obscene, politically unacceptable, or a threat to security.

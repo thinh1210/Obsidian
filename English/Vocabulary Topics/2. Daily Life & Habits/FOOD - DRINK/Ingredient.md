@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Ingredient
 *n.*
 > /ɪnˈɡriː.di.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Thực phẩm cơ bản, Thịt cá & Nông sản
+
+## 🗂️ Flashcard
+Ingredient::Nguyên liệu *(Phát âm: /ɪnˈɡriː.di.ənt/)* ![[ingredient.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Do you have all the ingredients?<br>*(-> Bạn có đủ nguyên liệu chưa?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Any of the foods or substances that are combined to make a particular dish.

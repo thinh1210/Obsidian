@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Fee
 *Noun*
 > /fiː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Fee::Lệ phí, phí (số tiền trả cho một công việc cụ thể hoặc một quyền/dịch vụ cụ thể) *(Phát âm: /fiː/)* ![[fee.mp3]]<br><br>👪 **Word Family:** Noun: fee (phí)<br><br>💬 **Ví dụ:** The annual fee for using this credit card is $50.<br>*(-> Phí thường niên khi sử dụng thẻ tín dụng này là 50 đô la.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An amount of money paid for a particular piece of work or for a particular right or service.

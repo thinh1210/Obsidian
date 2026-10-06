@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Harness
 *Verb*
 > /ˈhɑː.nəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Đổi mới mang tính cách mạng & Tác động xã hội
+
+## 🗂️ Flashcard
+Harness::Khai thác (nguồn lực, năng lượng tự nhiên), tận dụng *(Phát âm: /ˈhɑː.nəs/)* ![[harness.mp3]]<br><br>👪 **Word Family:** Harness (n)<br><br>💬 **Ví dụ:** Solar panels harness solar energy to power homes.<br>*(-> Các tấm pin mặt trời khai thác năng lượng mặt trời để cung cấp điện cho các gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To collect and control something so that it can be used, especially to produce energy.

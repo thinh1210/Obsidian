@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Recidivism
 *noun*
 > /rɪˈsɪdɪvɪzəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Recidivism::Tái phạm; tỷ lệ tái phạm tội *(Phát âm: /rɪˈsɪdɪvɪzəm/)* ![[recidivism.mp3]]<br><br>👪 **Word Family:** recidivist (n), recidivate (v), recidivous (adj)<br><br>💬 **Ví dụ:** Rehabilitation programs aim to lower recidivism among offenders.<br>*(-> Các chương trình phục hồi nhằm giảm tỷ lệ tái phạm trong số tội phạm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The tendency of a convicted criminal to reoffend after serving a sentence

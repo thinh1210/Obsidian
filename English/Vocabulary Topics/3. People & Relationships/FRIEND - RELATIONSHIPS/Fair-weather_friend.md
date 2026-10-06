@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Fair-weather friend
 *noun*
 > /ˌfer.weð.ɚ ˈfrend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Fair-weather_friend::Bạn cơ hội, bạn chỉ ở bên lúc vui *(Phát âm: /ˌfer.weð.ɚ ˈfrend/)* ![[fair_weather_friend.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I discovered that he was just a fair-weather friend.<br>*(-> Tôi phát hiện ra rằng anh ta chỉ là một người bạn cơ hội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person whose friendship cannot be relied on in times of difficulty.

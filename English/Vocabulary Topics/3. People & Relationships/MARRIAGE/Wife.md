@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Wife
 *noun*
 > /waɪf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Wife::Người vợ *(Phát âm: /waɪf/)* ![[wife.mp3]]<br><br>👪 **Word Family:** Wives (plural)<br><br>💬 **Ví dụ:** She is my wife.<br>*(-> Cô ấy là vợ tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The woman that a man is married to.

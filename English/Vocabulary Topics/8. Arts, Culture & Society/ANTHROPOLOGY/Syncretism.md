@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Syncretism
 *n.*
 > /ˈsɪŋ.krə.tɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Văn hóa, Phong tục, Tín ngưỡng & Nghi lễ
+
+## 🗂️ Flashcard
+Syncretism::Sự dung hợp tôn giáo/văn hóa *(Phát âm: /ˈsɪŋ.krə.tɪ.zəm/)* ![[syncretism.mp3]]<br><br>👪 **Word Family:** syncretic, syncretize<br><br>💬 **Ví dụ:** The local festival is a fascinating example of cultural syncretism.<br>*(-> Lễ hội địa phương là một ví dụ hấp dẫn về sự dung hợp văn hóa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amalgamation or attempted amalgamation of different religions, cultures, or schools of thought.

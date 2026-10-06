@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Room
 *noun*
 > /ruːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Room::Căn phòng *(Phát âm: /ruːm/)* ![[room.mp3]]<br><br>👪 **Word Family:** roomy (adj)<br><br>💬 **Ví dụ:** This room is very dark.<br>*(-> Căn phòng này rất tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A part or division of a building enclosed by walls, floor, and ceiling.
@@ -34,4 +44,4 @@
 - roomy (adj)
 
 **Synonyms:** chamber
-**Antonyms:** 
+**Antonyms:**

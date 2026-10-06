@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Century
 *noun*
 > /ˈsen.tʃʊr.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Hòa bình, Cách mạng, Độc lập & Hiệp ước lịch sử
+
+## 🗂️ Flashcard
+Century::Thế kỷ *(Phát âm: /ˈsen.tʃʊr.i/)* ![[century.mp3]]<br><br>👪 **Word Family:** centennial (adj/noun), centurial (adj)<br><br>💬 **Ví dụ:** Our house was built at the beginning of the last century.<br>*(-> Ngôi nhà của chúng tôi được xây dựng vào đầu thế kỷ trước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of one hundred years.

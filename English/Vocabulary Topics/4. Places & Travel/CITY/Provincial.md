@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Provincial
 *adj.*
 > /prəˈvɪnʃl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** CITY | **Phân nhóm:** Nhịp sống, Cảm quan & Tính từ miêu tả
+
+## 🗂️ Flashcard
+Provincial::Thuộc tỉnh lẻ; thiển cận *(Phát âm: /prəˈvɪnʃl/)* ![[provincial.mp3]]<br><br>👪 **Word Family:** province (n)<br><br>💬 **Ví dụ:** He comes from a small provincial town.<br>*(-> Anh ấy đến từ một thị trấn nhỏ ở tỉnh lẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Connected with one of the large areas that some countries are divided into; narrow-minded.

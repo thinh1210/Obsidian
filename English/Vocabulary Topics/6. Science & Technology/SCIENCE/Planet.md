@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Planet
 *noun*
 > /ˈplæn.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Planet::Hành tinh – vật thể lớn hình cầu trong không gian di chuyển quanh một ngôi sao *(Phát âm: /ˈplæn.ɪt/)* ![[planet.mp3]]<br><br>👪 **Word Family:** planetary (adj), planetarium (n), exoplanet (n)<br><br>💬 **Ví dụ:** Earth is the only planet we know that has life on it.<br>*(-> Trái Đất là hành tinh duy nhất chúng ta biết có sự sống.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large round object in space that moves around a star.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Euphoria
 *n.*
 > /juːˈfɔː.ri.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Euphoria::Trạng thái phởn phơ, hạnh phúc tột độ *(Phát âm: /juːˈfɔː.ri.ə/)* ![[euphoria.mp3]]<br><br>👪 **Word Family:** Euphoric (adj)<br><br>💬 **Ví dụ:** They were in a state of euphoria.<br>*(-> Họ đang trong trạng thái hạnh phúc tột độ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A feeling or state of intense excitement and happiness.

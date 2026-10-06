@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Gridlock
 *noun*
 > /ˈɡrɪdlɑːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Gridlock::Tình trạng kẹt cứng giao thông (tất cả các ngả đều tắc) *(Phát âm: /ˈɡrɪdlɑːk/)* ![[gridlock.mp3]]<br><br>👪 **Word Family:** Noun: gridlock (sự kẹt cứng), Verb: gridlock (làm kẹt cứng), Adjective: gridlocked (bị kẹt cứng)<br><br>💬 **Ví dụ:** The accident on the bridge caused a complete gridlock during rush hour.<br>*(-> Vụ tai nạn trên cầu đã gây ra sự kẹt cứng giao thông hoàn toàn trong giờ cao điểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traffic jam affecting a whole network of intersecting streets.

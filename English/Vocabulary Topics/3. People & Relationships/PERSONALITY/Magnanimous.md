@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Magnanimous
 *adj.*
 > /mæɡˈnæn.ɪ.məs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách tốt, Phẩm chất tích cực & Lòng nhân ái
+
+## 🗂️ Flashcard
+Magnanimous::Hào hiệp, cao thượng, đại lượng, không chấp nhất kẻ bại trận *(Phát âm: /mæɡˈnæn.ɪ.məs/)* ![[magnanimous.mp3]]<br><br>👪 **Word Family:** magnanimity (n), magnanimously (adv)<br><br>💬 **Ví dụ:** It was magnanimous of him to praise his rival's outstanding achievements.<br>*(-> Anh ấy thật đại lượng khi ngợi ca thành tựu xuất sắc của chính đối thủ mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very kind and generous towards an enemy or someone you have defeated.

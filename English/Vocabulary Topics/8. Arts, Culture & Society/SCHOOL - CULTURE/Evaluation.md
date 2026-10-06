@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Evaluation
 *noun*
 > /ɪˌvæljuˈeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Evaluation::Sự đánh giá, quá trình thẩm định *(Phát âm: /ɪˌvæljuˈeɪʃn/)* ![[evaluation.mp3]]<br><br>👪 **Word Family:** evaluate (v), evaluator (n)<br><br>💬 **Ví dụ:** We filled out a course evaluation at the end of the semester.<br>*(-> Chúng tôi đã điền vào bản đánh giá khóa học vào cuối học kỳ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The making of a judgment about the amount, number, or value of something.

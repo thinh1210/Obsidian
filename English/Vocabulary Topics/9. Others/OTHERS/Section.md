@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Section
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - part, segment, department
+
+
+## 🗂️ Flashcard
+Section::Phần, mục, phân đoạn *(Phát âm: /ˈsek.ʃən/)* ![[section.mp3]]<br><br>👪 **Word Family:** [Noun]: section, sector, [Verb]: section, [Adj]: sectional<br><br>💬 **Ví dụ:** The library has a large section dedicated to local history.<br>*(-> Thư viện có một phần lớn dành riêng cho lịch sử địa phương.)*

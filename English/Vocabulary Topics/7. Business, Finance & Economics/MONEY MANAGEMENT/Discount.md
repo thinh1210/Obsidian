@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Discount
 *Noun*
 > /ˈdɪskaʊnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Thu nhập, Nợ nần, Nghĩa vụ thuế & Nợ vay
+
+## 🗂️ Flashcard
+Discount::Sự giảm giá (khoản khấu trừ từ giá gốc của thứ gì đó) *(Phát âm: /ˈdɪskaʊnt/)* ![[discount.mp3]]<br><br>👪 **Word Family:** Verb: discount (giảm giá, coi nhẹ)<br><br>💬 **Ví dụ:** Students can get a 10% discount on books at this store.<br>*(-> Sinh viên có thể được giảm giá 10% khi mua sách tại cửa hàng này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deduction from the usual cost of something.

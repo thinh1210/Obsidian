@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Gargoyle
 *n.*
 > /ˈɡɑːɡɔɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Gargoyle::Tượng máng xối hình quái vật, tượng đầu thú *(Phát âm: /ˈɡɑːɡɔɪl/)* ![[gargoyle.mp3]]<br><br>👪 **Word Family:** gargoyled<br><br>💬 **Ví dụ:** The ancient cathedral was decorated with scary gargoyles.<br>*(-> Nhà thờ lớn cổ kính được trang trí bằng những bức tượng đầu thú đáng sợ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A grotesque carved human or animal face projecting from the gutter of a building, acting as a spout to carry water clear of a wall

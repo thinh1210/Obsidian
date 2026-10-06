@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Product
 *noun*
 > /ˈprɒdʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Product::Sản phẩm *(Phát âm: /ˈprɒdʌkt/)* ![[product.mp3]]<br><br>👪 **Word Family:** produce (verb), production (noun), productive (adj)<br><br>💬 **Ví dụ:** This product is made from natural ingredients.<br>*(-> Sản phẩm này được làm từ các thành phần tự nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An article or substance that is manufactured or refined for sale.

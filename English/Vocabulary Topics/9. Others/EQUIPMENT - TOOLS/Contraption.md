@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # contraption
 *noun*
 > /kənˈtræp.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
+
+## 🗂️ Flashcard
+Contraption::cỗ máy kỳ lạ, thiết bị rắc rối phức tạp *(Phát âm: /kənˈtræp.ʃən/)* ![[contraption.mp3]]<br><br>👪 **Word Family:** Noun: contraption (cỗ máy kỳ lạ)<br><br>💬 **Ví dụ:** My grandfather built a bizarre contraption to scare away birds.<br>*(-> Ông tôi đã chế tạo một cỗ máy kỳ dị để xua đuổi chim chóc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a machine or device that appears strange or unnecessarily complicated, and often badly made.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Evaluate
 *v.*
 > /ɪˈvæl.ju.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Evaluate::Đánh giá, định giá *(Phát âm: /ɪˈvæl.ju.eɪt/)* ![[evaluate.mp3]]<br><br>👪 **Word Family:** evaluation, evaluative<br><br>💬 **Ví dụ:** We need to evaluate our options before making a decision.<br>*(-> Chúng ta cần đánh giá các lựa chọn của mình trước khi đưa ra quyết định.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To judge or calculate the quality, importance, amount, or value of something

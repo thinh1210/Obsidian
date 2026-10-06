@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Granddaughter
 *n.*
 > /ˈɡrænˌdɔː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Granddaughter::Cháu gái (con gái của con mình) *(Phát âm: /ˈɡrænˌdɔː.tər/)* ![[granddaughter.mp3]]<br><br>👪 **Word Family:** grandson (n), grandchild (n)<br><br>💬 **Ví dụ:** The grandmother taught her granddaughter the family embroidery patterns.<br>*(-> Người bà đã dạy cho cháu gái các hoa văn thêu thùa truyền thống của gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The daughter of one's son or daughter.

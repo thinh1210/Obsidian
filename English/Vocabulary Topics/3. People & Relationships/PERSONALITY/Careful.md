@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Careful
 *adj.*
 > /ˈkeə.fəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Careful::Cẩn thận, thận trọng, chu đáo để tránh sai sót hoặc tai nạn *(Phát âm: /ˈkeə.fəl/)* ![[careful.mp3]]<br><br>👪 **Word Family:** care (v/n), carefulness (n), carefully (adv), careless (adj)<br><br>💬 **Ví dụ:** Be careful when crossing the busy four-lane road.<br>*(-> Hãy cẩn thận khi băng qua con đường bốn làn đông đúc xe cộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Giving a lot of attention to what you are doing so that you do not have an accident or make a mistake.

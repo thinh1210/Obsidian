@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Migration
 *noun*
 > /maɪˈɡreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Migration::Sự di cư (của động vật) *(Phát âm: /maɪˈɡreɪ.ʃən/)* ![[migration.mp3]]<br><br>👪 **Word Family:** migration (n), migrate (v), migratory (adj)<br><br>💬 **Ví dụ:** The annual migration of monarch butterflies is a spectacular natural event.<br>*(-> Cuộc di cư hàng năm của loài bướm chúa là một sự kiện tự nhiên ngoạn mục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Seasonal movement of animals from one region to another.

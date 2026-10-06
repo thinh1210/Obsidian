@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Lecture
 *n./v.*
 > /ˈlek.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Lecture::Bài giảng, buổi thuyết trình học thuật trước giảng đường sinh viên *(Phát âm: /ˈlek.tʃər/)* ![[lecture.mp3]]<br><br>👪 **Word Family:** lecturer (n)<br><br>💬 **Ví dụ:** Students packed into the large lecture hall to hear the visiting Nobel laureate.<br>*(-> Sinh viên chật kín giảng đường lớn để lắng nghe nhà khoa học đoạt giải Nobel tới thăm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An educational talk to an audience, especially to students in a university hall.

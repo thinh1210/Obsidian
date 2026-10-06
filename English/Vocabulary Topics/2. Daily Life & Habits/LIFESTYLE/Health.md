@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Health
 *n.*
 > /hɛlθ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Dinh dưỡng, Giấc ngủ & Thói quen hàng ngày
+
+## 🗂️ Flashcard
+Health::Sức khỏe *(Phát âm: /hɛlθ/)* ![[health.mp3]]<br><br>👪 **Word Family:** healthy (adj.)<br><br>💬 **Ví dụ:** I am in good health.<br>*(-> Tôi có sức khỏe tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state of being free from illness or injury.

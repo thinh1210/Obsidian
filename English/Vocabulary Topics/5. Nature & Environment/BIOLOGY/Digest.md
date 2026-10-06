@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/BIOLOGY
+  - review/5-Nature-and-Environment/BIOLOGY
+---
 # Digest
 *verb*
 > /daɪˈdʒest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** BIOLOGY | **Phân nhóm:** Sinh thái, Động thực vật & Chuyển hóa năng lượng
+
+## 🗂️ Flashcard
+Digest::Tiêu hóa *(Phát âm: /daɪˈdʒest/)* ![[digest.mp3]]<br><br>👪 **Word Family:** digestion, digestive<br><br>💬 **Ví dụ:** It takes a long time to digest a heavy meal.<br>*(-> Mất một thời gian dài để tiêu hóa một bữa ăn nặng bụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Break down (food) in the alimentary canal into substances that can be absorbed and used by the body.

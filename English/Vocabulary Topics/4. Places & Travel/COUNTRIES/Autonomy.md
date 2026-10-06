@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Autonomy
 *Noun*
 > /ɔːˈtɑːnəmi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Autonomy::Quyền tự trị *(Phát âm: /ɔːˈtɑːnəmi/)* ![[autonomy.mp3]]<br><br>👪 **Word Family:** Autonomous<br><br>💬 **Ví dụ:** The region demanded greater autonomy.<br>*(-> Khu vực này yêu cầu quyền tự trị lớn hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The right or condition of self-government.

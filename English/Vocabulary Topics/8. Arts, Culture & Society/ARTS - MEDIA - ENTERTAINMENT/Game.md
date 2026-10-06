@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Game
 *n.*
 > /ɡeɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Game::Trò chơi *(Phát âm: /ɡeɪm/)* ![[game.mp3]]<br><br>👪 **Word Family:** gamer, gaming<br><br>💬 **Ví dụ:** Let's play a board game this weekend.<br>*(-> Hãy cùng chơi cờ bàn vào cuối tuần này nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An activity or sport, especially a competitive one, played according to rules and decided by skill, strength, or luck.

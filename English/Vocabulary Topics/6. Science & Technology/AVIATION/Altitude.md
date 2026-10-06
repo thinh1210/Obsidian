@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Altitude
 *noun*
 > /ˈæl.tɪ.tjuːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Cất cánh, Hạ cánh & Phi hành đoàn
+
+## 🗂️ Flashcard
+Altitude::Độ cao (so với mực nước biển) *(Phát âm: /ˈæl.tɪ.tjuːd/)* ![[altitude.mp3]]<br><br>👪 **Word Family:** altimeter (n), altitudinal (adj), high-altitude (adj)<br><br>💬 **Ví dụ:** At this altitude, the air is thinner and it is harder to breathe.<br>*(-> Ở độ cao này, không khí loãng hơn và khó thở hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The height of an object or point in relation to sea level or ground level.

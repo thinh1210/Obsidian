@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Wet
 *adj.*
 > /wet/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Wet::Ướt, sũng nước; ẩm ướt, mưa nhiều *(Phát âm: /wet/)* ![[wet.mp3]]<br><br>👪 **Word Family:** wetness (n), wet (v)<br><br>💬 **Ví dụ:** Don't touch the newly painted bench; the sign says 'Wet Paint'.<br>*(-> Đừng chạm vào chiếc ghế mới sơn; tấm biển ghi 'Sơn chưa khô' kìa.)*
+<!--SR:!2026-10-06,4,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Covered or soaked with water or another liquid; rainy.

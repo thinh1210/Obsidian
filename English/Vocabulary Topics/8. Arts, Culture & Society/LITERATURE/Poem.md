@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Poem
 *noun*
 > /ˈpəʊ.ɪm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Poem::Bài thơ *(Phát âm: /ˈpəʊ.ɪm/)* ![[poem.mp3]]<br><br>👪 **Word Family:** poet (n), poetry (n), poetic (adj), poetically (adv)<br><br>💬 **Ví dụ:** The children learned a simple poem by heart.<br>*(-> Lũ trẻ đã học thuộc lòng một bài thơ đơn giản.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of writing that partakes of the nature of both speech and song, typically rhythmical.

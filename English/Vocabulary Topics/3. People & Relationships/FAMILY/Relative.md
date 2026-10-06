@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Relative
 *noun*
 > /ˈrel.ə.tɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Họ hàng, Bậc sinh thành & Đại gia đình
+
+## 🗂️ Flashcard
+Relative::Họ hàng *(Phát âm: /ˈrel.ə.tɪv/)* ![[relative.mp3]]<br><br>👪 **Word Family:** relatively (adv)<br><br>💬 **Ví dụ:** All my relatives came.<br>*(-> Tất cả họ hàng của tôi đã đến.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A member of your family.

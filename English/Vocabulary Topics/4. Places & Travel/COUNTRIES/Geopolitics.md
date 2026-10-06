@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Geopolitics
 *Noun*
 > /ˌdʒiːoʊˈpɑːlətɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Xuất nhập cảnh, Đi lại & Địa lý quốc gia
+
+## 🗂️ Flashcard
+Geopolitics::Địa chính trị *(Phát âm: /ˌdʒiːoʊˈpɑːlətɪks/)* ![[geopolitics.mp3]]<br><br>👪 **Word Family:** Geopolitical<br><br>💬 **Ví dụ:** Geopolitics play a big role in oil prices.<br>*(-> Địa chính trị đóng vai trò lớn trong giá dầu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Politics, especially international relations, as influenced by geographical factors.

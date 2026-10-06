@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Strangulation
 *noun*
 > /ˌstræŋ.ɡjʊˈleɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Strangulation::Siết cổ / ngạt thở do bóp cổ – hành vi gây tử vong bằng cách thắt chặt cổ họng *(Phát âm: /ˌstræŋ.ɡjʊˈleɪ.ʃən/)* ![[strangulation.mp3]]<br><br>👪 **Word Family:** strangle (v), strangler (n)<br><br>💬 **Ví dụ:** The medical examiner identified signs of strangulation on the victim's neck.<br>*(-> Giám định viên y tế xác định dấu hiệu bị siết cổ trên cổ nạn nhân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The act of killing or injuring by compressing the throat, cutting off air or blood supply.

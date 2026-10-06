@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Argue
 *verb*
 > /ˈɑːrɡ.juː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Thử thách, Mâu thuẫn & Các mức độ quan hệ
+
+## 🗂️ Flashcard
+Argue::Tranh cãi *(Phát âm: /ˈɑːrɡ.juː/)* ![[argue.mp3]]<br><br>👪 **Word Family:** argument<br><br>💬 **Ví dụ:** We often argue about small things.<br>*(-> Chúng tôi thường tranh cãi về những điều nhỏ nhặt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view.

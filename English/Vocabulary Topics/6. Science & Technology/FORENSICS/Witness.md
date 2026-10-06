@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Witness
 *noun / verb*
 > /ˈwɪt.nəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Witness::Nhân chứng (n); chứng kiến (v) *(Phát âm: /ˈwɪt.nəs/)* ![[witness.mp3]]<br><br>👪 **Word Family:** witnessing (v), unwitnessed (adj)<br><br>💬 **Ví dụ:** A witness saw the car leaving the scene.<br>*(-> Một nhân chứng nhìn thấy chiếc xe rời khỏi hiện trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who sees an event happen; to see something happen.

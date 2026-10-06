@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Economics
 *noun*
 > /ˌiːkəˈnɒmɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Economics::Kinh tế học *(Phát âm: /ˌiːkəˈnɒmɪks/)* ![[economics.mp3]]<br><br>👪 **Word Family:** economist, economic, economical<br><br>💬 **Ví dụ:** Economics explains how markets supply goods and services.<br>*(-> Kinh tế học giải thích cách thị trường cung cấp hàng hóa và dịch vụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of knowledge concerned with the production, consumption, and transfer of wealth.

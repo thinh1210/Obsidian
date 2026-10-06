@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Water
 *n.*
 > /ˈwɔː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Đồ uống & Món tráng miệng
+
+## 🗂️ Flashcard
+Water::Nước *(Phát âm: /ˈwɔː.tər/)* ![[water.mp3]]<br><br>👪 **Word Family:** watery, waterproof, watertight<br><br>💬 **Ví dụ:** I need some water.<br>*(-> Tôi cần chút nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A clear, colorless liquid essential for life.

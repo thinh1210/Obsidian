@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Altricial
 *adjective*
 > /ælˈtrɪʃ.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Altricial::(Chim non) yếu ớt khi nở (cần bố mẹ chăm sóc) *(Phát âm: /ælˈtrɪʃ.əl/)* ![[altricial.mp3]]<br><br>👪 **Word Family:** altricial (adj), altriciality (n)<br><br>💬 **Ví dụ:** Songbirds have altricial chicks that are blind and featherless when they hatch.<br>*(-> Chim hót có những con non yếu ớt, mù và không có lông khi mới nở.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of a young bird or other animal) hatched or born in an undeveloped state and requiring care and feeding by the parents.

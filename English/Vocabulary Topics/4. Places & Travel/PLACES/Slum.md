@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/PLACES
+  - review/4-Places-and-Travel/PLACES
+---
 # Slum
 *n.*
 > /slʌm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PLACES | **Phân nhóm:** Địa điểm đô thị, Thể thao & Công cộng
+
+## 🗂️ Flashcard
+Slum::Khu ổ chuột *(Phát âm: /slʌm/)* ![[slum.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Many people in the city still live in slums.<br>*(-> Nhiều người trong thành phố vẫn sống ở khu ổ chuột.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A squalid and overcrowded urban street or district inhabited by very poor people.

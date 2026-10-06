@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Garage
 *noun*
 > /ɡəˈrɑːʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Garage::Ga-ra, nhà để xe *(Phát âm: /ɡəˈrɑːʒ/)* ![[garage.mp3]]<br><br>👪 **Word Family:** **Synonyms:** carport<br><br>💬 **Ví dụ:** Park the car in the garage.<br>*(-> Đỗ xe trong ga ra.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A building or indoor area for parking or storing motor vehicles.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** carport
-**Antonyms:** 
+**Antonyms:**

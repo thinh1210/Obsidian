@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Market
 *noun*
 > /ˈmɑːrkɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Market::Thị trường, chợ *(Phát âm: /ˈmɑːrkɪt/)* ![[market.mp3]]<br><br>👪 **Word Family:** marketer (n), marketing (n), marketable (adj)<br><br>💬 **Ví dụ:** We usually buy fresh vegetables at the local weekend market.<br>*(-> Chúng tôi thường mua rau tươi tại chợ cuối tuần ở địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A regular gathering of people for the purchase and sale of provisions, livestock, and other goods; or the demand for a commodity

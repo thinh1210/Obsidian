@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # bureaucracy
 *noun*
 > /bjʊˈrɑːkrəsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+bureaucracy::Hệ thống quan liêu, thủ tục hành chính rườm rà *(Phát âm: /bjʊˈrɑːkrəsi/)* ![[bureaucracy.mp3]]<br><br>👪 **Word Family:** bureaucrat (n), bureaucratic (adj), bureaucratize (v)<br><br>💬 **Ví dụ:** I had to deal with so much bureaucracy just to renew my passport.<br>*(-> Tôi đã phải đối mặt với rất nhiều thủ tục hành chính rườm rà chỉ để gia hạn hộ chiếu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A system of government in which most of the important decisions are made by state officials rather than by elected representatives.

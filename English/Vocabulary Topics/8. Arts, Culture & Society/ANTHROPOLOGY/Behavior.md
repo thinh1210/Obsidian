@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Behavior
 *n.*
 > /bɪˈheɪ.vjər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Behavior::Hành vi, cách cư xử *(Phát âm: /bɪˈheɪ.vjər/)* ![[behavior.mp3]]<br><br>👪 **Word Family:** behave, behavioral<br><br>💬 **Ví dụ:** His polite behavior impressed everyone.<br>*(-> Cách cư xử lịch sự của anh ấy đã gây ấn tượng với mọi người.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which one acts or conducts oneself, especially toward others.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Convey
 *verb*
 > /kənˈveɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Convey::truyền tải (ý nghĩa, thông điệp) *(Phát âm: /kənˈveɪ/)* ![[convey.mp3]]<br><br>👪 **Word Family:** conveyance (n), conveyer (n)<br><br>💬 **Ví dụ:** Please convey my congratulations to your family.<br>*(-> Vui lòng chuyển lời chúc mừng của tôi đến gia đình bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** to express a thought, feeling, or idea so that it is understood by other people

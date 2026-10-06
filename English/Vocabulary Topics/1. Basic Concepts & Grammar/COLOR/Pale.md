@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Pale
 *adj*
 > /peɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Pale::Nhợt nhạt, tái nhợt *(Phát âm: /peɪl/)* ![[pale.mp3]]<br><br>👪 **Word Family:** paleness (n)<br><br>💬 **Ví dụ:** He looked very pale after hearing the news.<br>*(-> Anh ấy trông rất nhợt nhạt sau khi nghe tin.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having less color than usual, or not bright.

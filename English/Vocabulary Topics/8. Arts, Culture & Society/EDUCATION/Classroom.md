@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Classroom
 *n.*
 > /ˈklɑːs.ruːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Classroom::Phòng học trong trường học nơi giáo viên giảng bài cho học sinh *(Phát âm: /ˈklɑːs.ruːm/)* ![[classroom.mp3]]<br><br>👪 **Word Family:** class (n), classmate (n)<br><br>💬 **Ví dụ:** Students were seated quietly in the classroom waiting for their teacher to arrive.<br>*(-> Học sinh ngồi yên lặng trong phòng học chờ giáo viên tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room in a school or college where groups of students are taught.

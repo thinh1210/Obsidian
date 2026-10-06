@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Porous
 *adjective.*
 > /ˈpɔːrəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Porous::Có nhiều lỗ rỗng, rỗng xốp, dễ thấm *(Phát âm: /ˈpɔːrəs/)* ![[porous.mp3]]<br><br>👪 **Word Family:** porosity (Noun)<br><br>💬 **Ví dụ:** The sponge has a porous structure that makes it highly absorbent.<br>*(-> Bọt biển có cấu trúc xốp giúp nó thấm hút cực tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having minute spaces or holes through which liquid or air may pass; easy to penetrate.

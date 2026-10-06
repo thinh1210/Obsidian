@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Expression
 *n.*
 > /ɪkˈspreʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Expression::Cụm từ, thành ngữ, sự diễn đạt *(Phát âm: /ɪkˈspreʃn/)* ![[expression.mp3]]<br><br>👪 **Word Family:** express, expressive, expressively<br><br>💬 **Ví dụ:** 'Piece of cake' is a common expression.<br>*(-> 'Piece of cake' là một cụm từ thông dụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A word or phrase, especially an idiomatic one, used to convey an idea

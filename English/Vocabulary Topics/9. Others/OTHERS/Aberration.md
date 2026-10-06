@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/OTHERS
+  - review/9-Others/OTHERS
+---
 # Aberration
 
 *Noun*
@@ -36,3 +43,7 @@
 
 **Synonyms:**
 - deviation, abnormality, anomaly
+
+
+## 🗂️ Flashcard
+Aberration::Sự lệch lạc, sự sai lệch khỏi quỹ đạo thông thường *(Phát âm: /ˌæb.əˈreɪ.ʃən/)* ![[aberration.mp3]]<br><br>👪 **Word Family:** [Noun]: aberration, [Adj]: aberrant, [Adv]: aberrantly<br><br>💬 **Ví dụ:** A computer glitch caused an aberration in the figures.<br>*(-> Lỗi máy tính đã gây ra một sự sai lệch trong các con số.)*

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Tackle
 *v./n.*
 > /ˈtæk.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Ý chí kiên cường, Bản lĩnh thép & Uy lực áp đảo
+
+## 🗂️ Flashcard
+Tackle::Động tác cản phá, xoạc bóng để giành lại quyền kiểm soát bóng từ đối phương *(Phát âm: /ˈtæk.əl/)* ![[tackle.mp3]]<br><br>👪 **Word Family:** tackler (n)<br><br>💬 **Ví dụ:** The center back made a brilliant sliding tackle to stop the striker in the penalty box.<br>*(-> Trung vệ đã thực hiện một pha xoạc bóng tuyệt đỉnh để chặn đứng tiền đạo trong vòng cấm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An act of challenging an opponent and taking the ball from them in football or rugby.

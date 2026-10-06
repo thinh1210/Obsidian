@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Exhibition
 *n*
 > /ˌeksɪˈbɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghệ thuật, Nấu nướng & Thú vui tao nhã
+
+## 🗂️ Flashcard
+Exhibition::Cuộc triển lãm *(Phát âm: /ˌeksɪˈbɪʃn/)* ![[exhibition.mp3]]<br><br>👪 **Word Family:** Exhibit (v), Exhibitor (n)<br><br>💬 **Ví dụ:** We visited an art exhibition.<br>*(-> Chúng tôi đã thăm một cuộc triển lãm nghệ thuật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A public display of works of art or items of interest.

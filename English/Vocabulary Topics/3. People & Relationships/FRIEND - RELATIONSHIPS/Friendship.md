@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Friendship
 *noun*
 > /ˈfrend.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Tình bạn thân thiết, Chia sẻ & Gắn kết
+
+## 🗂️ Flashcard
+Friendship::Tình bạn *(Phát âm: /ˈfrend.ʃɪp/)* ![[friendship.mp3]]<br><br>👪 **Word Family:** friendly<br><br>💬 **Ví dụ:** Our friendship has lasted for years.<br>*(-> Tình bạn của chúng tôi đã kéo dài trong nhiều năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The emotions or conduct of friends; the state of being friends.

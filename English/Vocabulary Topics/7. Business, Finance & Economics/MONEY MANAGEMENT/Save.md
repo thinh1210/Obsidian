@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Save
 *Verb*
 > /seɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Save::Tiết kiệm, để dành (giữ lại tiền thay vị tiêu đi) *(Phát âm: /seɪv/)* ![[save.mp3]]<br><br>👪 **Word Family:** Noun: savings (tiền tiết kiệm), saver (người tiết kiệm), Verb: save (tiết kiệm)<br><br>💬 **Ví dụ:** I am saving money to buy a new laptop next month.<br>*(-> Tôi đang tiết kiệm tiền để mua một chiếc máy tính xách tay mới vào tháng tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To keep money instead of spending it.

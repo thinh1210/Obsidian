@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Computing
 *n.*
 > /kəmˈpjuː.tɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Computing::Tin học; môn Tin học; khoa học máy tính *(Phát âm: /kəmˈpjuː.tɪŋ/)* ![[computing.mp3]]<br><br>👪 **Word Family:** compute (v.), computer (n.), computational (adj.)<br><br>💬 **Ví dụ:** Computing is now a required subject at most secondary schools.<br>*(-> Tin học hiện là môn học bắt buộc ở hầu hết các trường trung học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The use or operation of computers; a school subject covering computer science concepts and digital skills.

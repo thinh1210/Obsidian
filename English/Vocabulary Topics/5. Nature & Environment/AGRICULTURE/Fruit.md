@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Fruit
 *n.*
 > /fruːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Fruit::Trái cây, hoa quả *(Phát âm: /fruːt/)* ![[fruit.mp3]]<br><br>👪 **Word Family:** fruitful (adj), fruition (n), fruitless (adj)<br><br>💬 **Ví dụ:** I like to eat fresh fruit after dinner.<br>*(-> Tôi thích ăn trái cây tươi sau bữa tối.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sweet and fleshy product of a tree or other plant that contains seed.

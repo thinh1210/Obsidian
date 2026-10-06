@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Silver
 *noun.*
 > /ˈsɪlvə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Kim loại, Kim loại quý & Hợp kim công nghiệp
+
+## 🗂️ Flashcard
+Silver::Bạc *(Phát âm: /ˈsɪlvə(r)/)* ![[silver.mp3]]<br><br>👪 **Word Family:** silvery (Adjective), silversmith (Noun)<br><br>💬 **Ví dụ:** The dining table was decorated with silver candlesticks.<br>*(-> Bàn ăn được trang trí bằng những chân nến bằng bạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A precious shiny grayish-white metal, the chemical element of atomic number 47.

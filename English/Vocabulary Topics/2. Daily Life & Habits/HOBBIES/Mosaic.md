@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Mosaic
 *n.*
 > /məʊˈzeɪ.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Mosaic::Nghệ thuật khảm, bức khảm *(Phát âm: /məʊˈzeɪ.ɪk/)* ![[mosaic.mp3]]<br><br>👪 **Word Family:** Mosaicked (adj.)<br><br>💬 **Ví dụ:** I am creating a mosaic for the garden table using broken ceramic tiles.<br>*(-> Tôi đang tạo một bức khảm cho chiếc bàn ngoài vườn bằng những viên gạch men vỡ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A pattern or picture made using many small pieces of coloured stone or glass.

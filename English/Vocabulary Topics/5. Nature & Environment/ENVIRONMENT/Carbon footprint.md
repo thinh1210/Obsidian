@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Carbon footprint
 *n.*
 > /ˌkɑːbən ˈfʊtprɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Khoa học khí quyển, Hấp thụ carbon & Phục hồi thiên nhiên
+
+## 🗂️ Flashcard
+Carbon footprint::Dấu chân carbon (lượng khí thải carbon sinh ra) *(Phát âm: /ˌkɑːbən ˈfʊtprɪnt/)* ![[carbon_footprint.mp3]]<br><br>👪 **Word Family:** decarbonization (n)<br><br>💬 **Ví dụ:** Eating less meat can help reduce your carbon footprint.<br>*(-> Ăn ít thịt hơn có thể giúp giảm dấu chân carbon của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of carbon dioxide and other carbon compounds emitted due to the consumption of fossil fuels by a particular person, group, etc.

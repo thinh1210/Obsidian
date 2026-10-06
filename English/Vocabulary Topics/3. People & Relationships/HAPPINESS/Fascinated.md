@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Fascinated
 *adj.*
 > /ˈfæs.ɪ.neɪ.tɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HAPPINESS | **Phân nhóm:** Lạc quan, Nhiệt huyết & Sự rạng rỡ
+
+## 🗂️ Flashcard
+Fascinated::Bị mê hoặc, bị cuốn hút *(Phát âm: /ˈfæs.ɪ.neɪ.tɪd/)* ![[fascinated.mp3]]<br><br>👪 **Word Family:** Fascinate (v), Fascination (n)<br><br>💬 **Ví dụ:** I am fascinated by space.<br>*(-> Tôi bị mê hoặc bởi vũ trụ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Strongly attracted and interested.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Demolish
 *v.*
 > /dɪˈmɒlɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Demolish::Phá hủy, phá dỡ *(Phát âm: /dɪˈmɒlɪʃ/)* ![[demolish.mp3]]<br><br>👪 **Word Family:** demolition<br><br>💬 **Ví dụ:** The old factory was demolished to make way for new apartments.<br>*(-> Nhà máy cũ đã bị phá dỡ để nhường chỗ cho các căn hộ mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To pull down or destroy a building

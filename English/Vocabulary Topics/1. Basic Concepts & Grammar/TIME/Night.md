@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Night
 *n.*
 > /naɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Đơn vị đo thời gian & Công cụ
+
+## 🗂️ Flashcard
+Night::Đêm *(Phát âm: /naɪt/)* ![[night.mp3]]<br><br>👪 **Word Family:** nightly (adj.)<br><br>💬 **Ví dụ:** I sleep at night.<br>*(-> Tôi ngủ vào ban đêm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The period of darkness between sunset and sunrise

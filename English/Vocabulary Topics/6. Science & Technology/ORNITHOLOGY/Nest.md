@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Nest
 *noun*
 > /nest/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Nest::Tổ chim *(Phát âm: /nest/)* ![[nest.mp3]]<br><br>👪 **Word Family:** nest (n/v), nesting (n), nestling (n)<br><br>💬 **Ví dụ:** There is a bird's nest in the tree outside my window.<br>*(-> Có một tổ chim trên cây ngoài cửa sổ của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A structure built by a bird to lay its eggs in and raise its young.

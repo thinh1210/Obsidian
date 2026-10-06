@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Entomology
 *noun*
 > /ˌen.təˈmɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Giám định sinh học, Dấu vết & Độc chất học
+
+## 🗂️ Flashcard
+Entomology::Côn trùng học – trong pháp y dùng để ước tính thời gian tử vong qua hoạt động của côn trùng *(Phát âm: /ˌen.təˈmɒl.ə.dʒi/)* ![[entomology.mp3]]<br><br>👪 **Word Family:** entomologist (n), entomological (adj)<br><br>💬 **Ví dụ:** Entomology helps scientists understand the role of insects in ecosystems.<br>*(-> Côn trùng học giúp các nhà khoa học hiểu vai trò của côn trùng trong hệ sinh thái.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of insects; in forensics, used to estimate time of death based on insect activity on remains.

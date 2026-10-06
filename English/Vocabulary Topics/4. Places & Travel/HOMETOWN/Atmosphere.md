@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Atmosphere
 *n.*
 > /ˈætməsfɪə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Tiện ích, Đô thị hóa & Nhịp sống hiện đại
+
+## 🗂️ Flashcard
+Atmosphere::Bầu không khí *(Phát âm: /ˈætməsfɪə/)* ![[atmosphere.mp3]]<br><br>👪 **Word Family:** Atmospheric (adj.)<br><br>💬 **Ví dụ:** The town has a relaxed atmosphere.<br>*(-> Thị trấn có một bầu không khí thư giãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The pervading tone or mood of a place, situation, or work of art.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Reunion
 *n.*
 > /ˌriːˈjuː.ni.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn
+
+## 🗂️ Flashcard
+Reunion::Cuộc gặp gỡ, buổi sum họp gia đình ấm cúng sau chuỗi ngày xa cách *(Phát âm: /ˌriːˈjuː.ni.ən/)* ![[reunion.mp3]]<br><br>👪 **Word Family:** reunite (v)<br><br>💬 **Ví dụ:** Every Tet holiday, our grand family reunion fills the courtyard with cheerful banter.<br>*(-> Mỗi dịp Tết đến, buổi sum họp đại gia đình lại làm sân nhà rộn rã tiếng nói cười.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A social gathering of family members or friends who have not seen each other for a long time.

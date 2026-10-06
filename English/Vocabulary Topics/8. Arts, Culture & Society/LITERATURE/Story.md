@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Story
 *noun*
 > /ˈstɔː.ri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Story::Câu chuyện *(Phát âm: /ˈstɔː.ri/)* ![[story.mp3]]<br><br>👪 **Word Family:** storyteller (n), storytelling (n), storied (adj)<br><br>💬 **Ví dụ:** My grandmother tells us an interesting story every Sunday.<br>*(-> Bà tôi kể cho chúng tôi nghe một câu chuyện thú vị mỗi Chủ nhật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An account of imaginary or real people and events told for entertainment.

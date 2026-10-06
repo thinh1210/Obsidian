@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Electromagnetic
 *adjective*
 > /ɪˌlek.trəʊ.mæɡˈnet.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Vật lý, Năng lượng, Lực & Vũ trụ lượng tử
+
+## 🗂️ Flashcard
+Electromagnetic::Điện từ – liên quan đến các trường điện và từ liên quan được tạo ra bởi điện tích gia tốc *(Phát âm: /ɪˌlek.trəʊ.mæɡˈnet.ɪk/)* ![[electromagnetic.mp3]]<br><br>👪 **Word Family:** electromagnet (n), electromagnetism (n), electromagnetically (adv)<br><br>💬 **Ví dụ:** Microwaves, radio waves, and X-rays are all part of the electromagnetic spectrum.<br>*(-> Vi sóng, sóng radio và tia X đều là một phần của phổ điện từ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the interrelated electric and magnetic fields produced by accelerating electric charges.

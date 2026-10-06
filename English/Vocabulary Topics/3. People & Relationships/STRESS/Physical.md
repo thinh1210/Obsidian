@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Physical
 *adj.*
 > /ˈfɪzɪkl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Biểu hiện thể chất, Kiệt sức & Hoảng loạn
+
+## 🗂️ Flashcard
+Physical::Thuộc về thể chất *(Phát âm: /ˈfɪzɪkl/)* ![[physical.mp3]]<br><br>👪 **Word Family:** physically (adv), physics (n)<br><br>💬 **Ví dụ:** I do physical exercises daily.<br>*(-> Tôi tập thể dục thể chất hàng ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to the body as opposed to the mind

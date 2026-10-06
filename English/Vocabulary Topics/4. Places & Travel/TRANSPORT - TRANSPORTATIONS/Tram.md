@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Tram
 *n.*
 > /træm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Vận tải hàng không, Đường thủy & Đường sắt
+
+## 🗂️ Flashcard
+Tram::Phương tiện giao thông công cộng chạy bằng điện trên đường ray rải trên mặt đường phố *(Phát âm: /træm/)* ![[tram.mp3]]<br><br>👪 **Word Family:** tramway (n), tramcar (n)<br><br>💬 **Ví dụ:** Taking the historic yellow tram is the best way to see Lisbon.<br>*(-> Đi chiếc xe điện màu vàng cổ kính là cách tuyệt nhất để ngắm nhìn Lisbon.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A passenger vehicle powered by electricity that runs on rails laid along public streets.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/FOOD-DRINK
+  - review/2-Daily-Life-and-Habits/FOOD-DRINK
+---
 # Pungent
 *adj.*
 > /ˈpʌn.dʒənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** FOOD - DRINK  | **Phân nhóm:** Chế biến, Phương pháp nấu & Hương vị
+
+## 🗂️ Flashcard
+Pungent::Hăng, cay nồng *(Phát âm: /ˈpʌn.dʒənt/)* ![[pungent.mp3]]<br><br>👪 **Word Family:** pungency<br><br>💬 **Ví dụ:** Garlic has a pungent smell.<br>*(-> Tỏi có mùi hăng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a sharply strong taste or smell.

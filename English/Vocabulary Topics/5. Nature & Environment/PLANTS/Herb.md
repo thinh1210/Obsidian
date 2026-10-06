@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Herb
 *noun*
 > /hɜːb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Herb::Thảo mộc, cỏ thuốc *(Phát âm: /hɜːb/)* ![[herb.mp3]]<br><br>👪 **Word Family:** Noun: herb (thảo mộc), herbalist (nhà thảo dược), Adjective: herbal (thuộc về thảo mộc), herbaceous (thân thảo)<br><br>💬 **Ví dụ:** I like to add fresh herbs like basil and rosemary to my cooking.<br>*(-> Tôi thích thêm các loại thảo mộc tươi như húng tây và hương thảo vào món ăn của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plant whose leaves, seeds, or flowers are used for medicine, flavor, or scent.

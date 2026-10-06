@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Virtuoso
 *n.*
 > /ˌvɜː.tʃuˈəʊ.səʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Virtuoso::Bậc thầy nghệ thuật, nghệ sĩ bậc thầy (đặc biệt là âm nhạc) *(Phát âm: /ˌvɜː.tʃuˈəʊ.səʊ/)* ![[virtuoso.mp3]]<br><br>👪 **Word Family:** virtuosity (n), virtuosic (adj)<br><br>💬 **Ví dụ:** He is a violin virtuoso who started playing with major orchestras at age ten.<br>*(-> Cậu ấy là một bậc thầy vĩ cầm, người đã bắt đầu chơi với các dàn nhạc lớn từ năm mười tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person highly skilled in music or another artistic pursuit.

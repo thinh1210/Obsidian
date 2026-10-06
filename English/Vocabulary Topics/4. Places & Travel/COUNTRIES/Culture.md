@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Culture
 *Noun*
 > /ˈkʌltʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Academic | **Chủ đề:** COUNTRIES | **Phân nhóm:** Văn hóa, Ngôn ngữ & Truyền thống
+
+## 🗂️ Flashcard
+Culture::Văn hóa *(Phát âm: /ˈkʌltʃər/)* ![[culture.mp3]]<br><br>👪 **Word Family:** Cultural, Cultured<br><br>💬 **Ví dụ:** I love learning about different cultures.<br>*(-> Tôi thích tìm hiểu về các nền văn hóa khác nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arts and other manifestations of human intellectual achievement.

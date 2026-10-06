@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Brand
 *noun*
 > /brænd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Brand::thương hiệu *(Phát âm: /brænd/)* ![[brand.mp3]]<br><br>👪 **Word Family:** branding (noun), branded (adjective)<br><br>💬 **Ví dụ:** I prefer this brand of coffee because it is very aromatic.<br>*(-> Tôi thích thương hiệu cà phê này hơn vì nó rất thơm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a type of product made by a particular company, identified by a name, logo, or design.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Deforestation
 *n.*
 > /ˌdiːˌfɒrɪˈsteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Biến đổi khí hậu, Ô nhiễm & Khủng hoảng sinh thái
+
+## 🗂️ Flashcard
+Deforestation::Nạn phá rừng *(Phát âm: /ˌdiːˌfɒrɪˈsteɪʃn/)* ![[deforestation.mp3]]<br><br>👪 **Word Family:** forest (n), forestry (n), deforest (v)<br><br>💬 **Ví dụ:** Deforestation has led to loss of habitat for many species.<br>*(-> Nạn phá rừng đã dẫn đến việc mất đi môi trường sống của many loài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action of clearing a wide area of trees.

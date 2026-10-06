@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Campus
 *n.*
 > /ˈkæm.pəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Campus::Khuôn viên rộng lớn bao gồm các tòa nhà giảng đường, ký túc xá và sân trường *(Phát âm: /ˈkæm.pəs/)* ![[campus.mp3]]<br><br>👪 **Word Family:** campuses (pl)<br><br>💬 **Ví dụ:** Living on campus allowed me to walk to my eight o'clock chemistry classes in five minutes.<br>*(-> Sống trong khuôn viên trường giúp tôi chỉ mất năm phút đi bộ đến lớp hóa lúc tám giờ sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The grounds and buildings of a university, college, or school.

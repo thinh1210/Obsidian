@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Tenacious
 *adj.*
 > /təˈneɪ.ʃəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Ý chí, Trí tuệ, Bản lĩnh & Xu hướng hành vi
+
+## 🗂️ Flashcard
+Tenacious::Bền bỉ, ngoan cường, kiên trì bám đuổi mục tiêu không bao giờ bỏ cuộc *(Phát âm: /təˈneɪ.ʃəs/)* ![[tenacious.mp3]]<br><br>👪 **Word Family:** tenacity (n), tenaciously (adv)<br><br>💬 **Ví dụ:** Through tenacious effort and countless sleepless nights, she graduated top of her class.<br>*(-> Nhờ nỗ lực bền bỉ và vô số đêm không ngủ, cô đã tốt nghiệp thủ khoa của lớp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Holding tightly onto something, or keeping an opinion in a determined way; not giving up.

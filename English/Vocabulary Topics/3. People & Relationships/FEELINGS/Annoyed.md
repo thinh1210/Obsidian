@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Annoyed
 *adj*
 > /əˈnɔɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Annoyed::Bực mình *(Phát âm: /əˈnɔɪd/)* ![[annoyed.mp3]]<br><br>👪 **Word Family:** annoy (v), annoyance (n), annoying (adj)<br><br>💬 **Ví dụ:** He was annoyed at the interruption.<br>*(-> Anh ấy bực mình vì sự gián đoạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Slightly angry; irritated.

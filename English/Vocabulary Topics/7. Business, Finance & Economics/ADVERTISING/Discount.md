@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Discount
 *noun*
 > /ˈdɪskaʊnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Discount::Chiết khấu, sự giảm giá *(Phát âm: /ˈdɪskaʊnt/)* ![[discount.mp3]]<br><br>👪 **Word Family:** discount (verb)<br><br>💬 **Ví dụ:** They are offering a 20% discount on all coats.<br>*(-> Họ đang giảm giá 20% cho tất cả các áo khoác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A deduction from the usual cost of something.

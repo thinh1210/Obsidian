@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Leisure
 *n.*
 > /ˈlɛʒə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Leisure::Thời gian rảnh *(Phát âm: /ˈlɛʒə/)* ![[leisure.mp3]]<br><br>👪 **Word Family:** leisurely (adj.)<br><br>💬 **Ví dụ:** I read books in my leisure time.<br>*(-> Tôi đọc sách lúc rảnh rỗi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free time.

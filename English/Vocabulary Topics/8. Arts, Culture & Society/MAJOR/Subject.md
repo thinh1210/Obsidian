@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Subject
 *n.*
 > /ˈsʌb.dʒɪkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MAJOR | **Phân nhóm:** Giảng đường đại học, Học phần & Điểm số
+
+## 🗂️ Flashcard
+Subject::Môn học, chủ đề *(Phát âm: /ˈsʌb.dʒɪkt/)* ![[subject.mp3]]<br><br>👪 **Word Family:** subject (n/adj), subjective (adj), subjectivity (n)<br><br>💬 **Ví dụ:** My favourite subject is mathematics.<br>*(-> Môn học yêu thích của tôi là toán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A branch of knowledge studied in school or university.

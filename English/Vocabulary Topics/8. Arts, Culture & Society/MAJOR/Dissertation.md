@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Dissertation
 *n.*
 > /ˌdɪs.əˈteɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Dissertation::Luận văn, luận án (đại học/thạc sĩ) *(Phát âm: /ˌdɪs.əˈteɪ.ʃən/)* ![[dissertation.mp3]]<br><br>👪 **Word Family:** dissertation (n), dissertate (v)<br><br>💬 **Ví dụ:** She spent six months writing her undergraduate dissertation.<br>*(-> Cô ấy dành sáu tháng để viết luận văn đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long piece of academic writing based on original research, submitted for a degree.

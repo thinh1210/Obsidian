@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Sleeve
 *noun*
 > /sliːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Giày dép, Phụ kiện & Chi tiết may mặc
+
+## 🗂️ Flashcard
+Sleeve::Tay áo *(Phát âm: /sliːv/)* ![[sleeve.mp3]]<br><br>👪 **Word Family:** sleeveless (adj)<br><br>💬 **Ví dụ:** Roll up your sleeves.<br>*(-> Xắn tay áo lên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The part of a piece of clothing that covers some or all of the arm.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Calligraphy
 *noun*
 > /kəˈlɪɡ.rə.fi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Calligraphy::Thư pháp *(Phát âm: /kəˈlɪɡ.rə.fi/)* ![[calligraphy.mp3]]<br><br>👪 **Word Family:** Calligrapher (n), Calligraphic (adj)<br><br>💬 **Ví dụ:** She addressed the wedding invitations in elegant calligraphy.<br>*(-> Cô ấy viết thiệp cưới bằng chữ thư pháp thanh lịch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art of producing beautiful writing, often created with a special pen or brush.

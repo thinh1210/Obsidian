@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Grammar
 *n.*
 > /ˈɡræmə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Grammar::Ngữ pháp *(Phát âm: /ˈɡræmə(r)/)* ![[grammar.mp3]]<br><br>👪 **Word Family:** grammarian, grammatical, grammatically<br><br>💬 **Ví dụ:** Don't worry too much about grammar when speaking.<br>*(-> Đừng lo lắng quá nhiều về ngữ pháp khi nói.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The whole system and structure of a language

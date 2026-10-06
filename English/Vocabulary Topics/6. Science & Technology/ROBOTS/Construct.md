@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Construct
 *verb.*
 > /kənˈstrʌkt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Construct::Chế tạo, xây dựng *(Phát âm: /kənˈstrʌkt/)* ![[construct.mp3]]<br><br>👪 **Word Family:** construction (noun), constructive (adj)<br><br>💬 **Ví dụ:** They plan to construct a new line of delivery robots.<br>*(-> Họ có kế hoạch chế tạo một dòng robot giao hàng mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To build or erect something, typically a large structure or a complex system

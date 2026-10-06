@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Hedonistic
 *adj.*
 > /ˌhiːdəˈnɪstɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Triết lý sống, Lối sống đặc trưng & Tinh thần
+
+## 🗂️ Flashcard
+Hedonistic::Theo chủ nghĩa khoái lạc *(Phát âm: /ˌhiːdəˈnɪstɪk/)* ![[hedonistic.mp3]]<br><br>👪 **Word Family:** hedonism (n.)<br><br>💬 **Ví dụ:** Their lifestyle is totally hedonistic.<br>*(-> Lối sống của họ hoàn toàn là hưởng lạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Engaged in the pursuit of pleasure; sensually self-indulgent.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Hire
 *v.*
 > /haɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Tuyển dụng, Hồ sơ & Quy trình phỏng vấn
+
+## 🗂️ Flashcard
+Hire::Thuê, tuyển dụng *(Phát âm: /haɪər/)* ![[hire.mp3]]<br><br>👪 **Word Family:** hireling, hiring<br><br>💬 **Ví dụ:** They want to hire a tutor for their kids.<br>*(-> Họ muốn thuê một gia sư cho con của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To employ someone for wages or a job

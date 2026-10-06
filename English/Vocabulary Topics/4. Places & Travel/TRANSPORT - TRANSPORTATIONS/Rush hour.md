@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Rush hour
 *n.*
 > /ˈrʌʃ aʊər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Rush hour::Thời gian lưu lượng xe cộ và người đi lại đông nhất trong ngày *(Phát âm: /ˈrʌʃ aʊər/)* ![[rush_hour.mp3]]<br><br>👪 **Word Family:** rush (v/n)<br><br>💬 **Ví dụ:** Try to leave before 4:30 PM to avoid the terrible evening rush hour.<br>*(-> Cố gắng về trước 4 giờ 30 chiều để tránh giờ tan tầm kinh hoàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A time during each day when traffic is at its heaviest.

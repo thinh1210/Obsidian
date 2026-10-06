@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Titration
 *noun*
 > /taɪˈtreɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Trạng thái vật chất & Dung dịch phòng thí nghiệm
+
+## 🗂️ Flashcard
+Titration::Phép chuẩn độ *(Phát âm: /taɪˈtreɪ.ʃən/)* ![[titration.mp3]]<br><br>👪 **Word Family:** titrate (v), titrant (n)<br><br>💬 **Ví dụ:** An indicator change marks the endpoint of the titration.<br>*(-> Sự thay đổi của chất chỉ thị đánh dấu điểm cuối của phép chuẩn độ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A technique where a solution of known concentration is used to determine the concentration of an unknown solution.

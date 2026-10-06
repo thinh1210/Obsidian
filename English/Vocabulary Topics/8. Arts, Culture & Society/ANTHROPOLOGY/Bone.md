@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Bone
 *n.*
 > /bəʊn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Bone::Xương *(Phát âm: /bəʊn/)* ![[bone.mp3]]<br><br>👪 **Word Family:** bony, skeleton<br><br>💬 **Ví dụ:** The dog is chewing a bone.<br>*(-> Con chó đang gặm một khúc xương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Any of the pieces of hard, whitish tissue making up the skeleton in humans and other vertebrates.

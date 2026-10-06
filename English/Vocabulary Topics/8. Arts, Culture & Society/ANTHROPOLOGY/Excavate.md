@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ANTHROPOLOGY
+  - review/8-Arts-Culture-and-Society/ANTHROPOLOGY
+---
 # Excavate
 *v.*
 > /ˈek.skə.veɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ANTHROPOLOGY | **Phân nhóm:** Tiến hóa sinh học, Hài cốt cổ & Khảo cổ nhân học
+
+## 🗂️ Flashcard
+Excavate::Khai quật *(Phát âm: /ˈek.skə.veɪt/)* ![[excavate.mp3]]<br><br>👪 **Word Family:** excavation, excavator<br><br>💬 **Ví dụ:** Workers excavated the road to fix the water pipes.<br>*(-> Các công nhân đã đào đường lên để sửa đường ống nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Make a hole or channel by digging; extract material from the ground.

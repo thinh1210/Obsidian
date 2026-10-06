@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Ban
 *verb/noun*
 > /bæn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LAW | **Phân nhóm:** Hành vi vi phạm, Thực thi pháp luật & Chế tài
+
+## 🗂️ Flashcard
+Ban::Cấm, lệnh cấm *(Phát âm: /bæn/)* ![[ban.mp3]]<br><br>👪 **Word Family:** Ban (v/n), Banned (adj)<br><br>💬 **Ví dụ:** The city decided to ban smoking in public parks.<br>*(-> Thành phố quyết định cấm hút thuốc tại các công viên công cộng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Officially or legally prohibit; an official or legal prohibition.

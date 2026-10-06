@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Pipeline
 *noun*
 > /ˈpaɪplaɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Xây dựng công trình & Cơ sở hạ tầng kỹ thuật
+
+## 🗂️ Flashcard
+Pipeline::Đường ống dẫn (dầu, khí...), quy trình làm việc/sản xuất liên tục *(Phát âm: /ˈpaɪplaɪn/)* ![[pipeline.mp3]]<br><br>👪 **Word Family:** piping (n)<br><br>💬 **Ví dụ:** The new gas pipeline stretches over three hundred miles across the country.<br>*(-> Đường ống dẫn khí mới kéo dài hơn ba trăm dặm khắp đất nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A long pipe, typically underground, for conveying oil, gas, etc. over long distances; a channel of supply.

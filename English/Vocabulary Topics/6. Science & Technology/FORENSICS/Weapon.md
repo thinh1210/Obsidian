@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Weapon
 *noun*
 > /ˈwep.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FORENSICS | **Phân nhóm:** Hiện trường vụ án, Manh mối & Điều tra ban đầu
+
+## 🗂️ Flashcard
+Weapon::Vũ khí / hung khí *(Phát âm: /ˈwep.ən/)* ![[weapon.mp3]]<br><br>👪 **Word Family:** weaponize (v), weaponless (adj)<br><br>💬 **Ví dụ:** The police found the weapon near the crime scene.<br>*(-> Cảnh sát tìm thấy hung khí gần hiện trường vụ án.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An object used to cause harm or kill someone.

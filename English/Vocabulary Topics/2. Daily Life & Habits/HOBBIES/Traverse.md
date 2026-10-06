@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Traverse
 *verb*
 > /trəˈvɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Traverse::Băng qua, đi ngang qua *(Phát âm: /trəˈvɜːs/)* ![[traverse.mp3]]<br><br>👪 **Word Family:** Traversable (adj), Traversal (n)<br><br>💬 **Ví dụ:** We had to traverse a dense forest to reach the campsite.<br>*(-> Chúng tôi phải băng qua một khu rừng rậm rạp để đến khu cắm trại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To travel across or through.

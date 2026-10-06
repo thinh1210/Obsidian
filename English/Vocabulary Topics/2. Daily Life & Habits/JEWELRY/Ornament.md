@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Ornament
 *noun*
 > /ˈɔː.nə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** JEWELRY | **Phân nhóm:** Chế tác, Thiết kế & Chi tiết nghệ thuật
+
+## 🗂️ Flashcard
+Ornament::Đồ trang trí *(Phát âm: /ˈɔː.nə.mənt/)* ![[ornament.mp3]]<br><br>👪 **Word Family:** Ornamental<br><br>💬 **Ví dụ:** She kept the ornament.<br>*(-> Cô ấy giữ đồ trang trí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thing used to make something look more attractive.

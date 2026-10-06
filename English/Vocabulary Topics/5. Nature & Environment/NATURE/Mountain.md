@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Mountain
 *Noun*
 > /ˈmaʊntɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Địa hình mặt đất, Rừng & Thung lũng
+
+## 🗂️ Flashcard
+Mountain::Ngọn núi *(Phát âm: /ˈmaʊntɪn/)* ![[mountain.mp3]]<br><br>👪 **Word Family:** mountainous, mountaineer<br><br>💬 **Ví dụ:** Mount Everest is the highest mountain in the world.<br>*(-> Đỉnh Everest là ngọn núi cao nhất thế giới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large natural elevation of the earth's surface rising abruptly.

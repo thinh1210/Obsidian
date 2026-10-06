@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Air
 *n.*
 > /eə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Air::Không khí *(Phát âm: /eə(r)/)* ![[air.mp3]]<br><br>👪 **Word Family:** airy (adj), airborne (adj)<br><br>💬 **Ví dụ:** Open the window to let some fresh air in.<br>*(-> Mở cửa sổ ra để không khí trong lành tràn vào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Surroundings
 *n.*
 > /səˈraʊndɪŋz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Surroundings::Môi trường xung quanh *(Phát âm: /səˈraʊndɪŋz/)* ![[surroundings.mp3]]<br><br>👪 **Word Family:** Surround (v.)<br><br>💬 **Ví dụ:** I love the natural surroundings here.<br>*(-> Tôi yêu môi trường thiên nhiên xung quanh đây.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The things and conditions around a person or thing.

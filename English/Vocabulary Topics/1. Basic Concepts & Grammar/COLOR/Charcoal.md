@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Charcoal
 *adj., n.*
 > /ˈtʃɑː.kəʊl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Charcoal::Màu xám đen than củi, màu chì than trầm ấm và lịch thiệp *(Phát âm: /ˈtʃɑː.kəʊl/)* ![[charcoal.mp3]]<br><br>👪 **Word Family:** charcoal (n)<br><br>💬 **Ví dụ:** He wore a well-fitted charcoal suit to make a commanding first impression.<br>*(-> Anh ấy diện một bộ vest màu xám than vừa vặn để tạo ấn tượng đầu tiên chững chạc và uy quyền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very dark, matte grayish-black color, like carbonized wood used for drawing and fuel.

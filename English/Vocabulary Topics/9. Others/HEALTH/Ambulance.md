@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Ambulance
 *n.*
 > /ˈæm.bjə.ləns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Ambulance::Xe cứu thương, xe cấp cứu chuyên dụng *(Phát âm: /ˈæm.bjə.ləns/)* ![[ambulance.mp3]]<br><br>👪 **Word Family:** ambulant (adj)<br><br>💬 **Ví dụ:** When the cyclist collapsed, a bystander immediately called an ambulance.<br>*(-> Khi người đi xe đạp ngã gục, một người qua đường đã lập tức gọi xe cứu thương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A special vehicle equipped for taking sick or injured people to a hospital in emergencies.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Breed
 *noun/verb*
 > /briːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Sinh thái học, Bảo tồn & Thích nghi
+
+## 🗂️ Flashcard
+Breed::(n) Giống, loài vật nuôi; (v) sinh sản, lai tạo giống *(Phát âm: /briːd/)* ![[breed.mp3]]<br><br>👪 **Word Family:** breed (n/v), breeder (n), breeding (n)<br><br>💬 **Ví dụ:** Golden Retrievers are a very popular breed of dog for families.<br>*(-> Golden Retriever là một giống chó rất phổ biến cho các gia đình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (n) A stock of animals within a species having a distinctive appearance; (v) produce offspring.

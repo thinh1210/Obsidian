@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Tough
 *adjective.*
 > /tʌf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Tough::Dai, bền, chắc chắn, khó khăn *(Phát âm: /tʌf/)* ![[tough.mp3]]<br><br>👪 **Word Family:** toughness (Noun), toughen (Verb)<br><br>💬 **Ví dụ:** The boots are made of a tough leather that is perfect for hiking.<br>*(-> Đôi bốt được làm bằng loại da bền chắc, rất lý tưởng để đi bộ đường dài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Strong enough to withstand adverse conditions or rough handling; difficult.

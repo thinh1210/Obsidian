@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Horticulture
 *n.*
 > /ˈhɔː.tɪ.kʌl.tʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Horticulture::Làm vườn học, nghề làm vườn (nghiên cứu rau quả cảnh) *(Phát âm: /ˈhɔː.tɪ.kʌl.tʃər/)* ![[horticulture.mp3]]<br><br>👪 **Word Family:** horticultural (adj), horticulturalist (n)<br><br>💬 **Ví dụ:** He decided to study horticulture to open his own plant nursery.<br>*(-> Anh ấy quyết định học nghề làm vườn để mở vườn ươm cây của riêng mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The art or practice of garden cultivation and management.

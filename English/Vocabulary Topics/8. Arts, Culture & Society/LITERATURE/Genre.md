@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Genre
 *noun*
 > /ˈʒɑ̃ː.rə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Thể loại văn học, Cốt truyện & Nhân vật
+
+## 🗂️ Flashcard
+Genre::Thể loại *(Phát âm: /ˈʒɑ̃ː.rə/)* ![[genre.mp3]]<br><br>👪 **Word Family:** generic (adj), generically (adv)<br><br>💬 **Ví dụ:** Science fiction is my favorite literary genre.<br>*(-> Khoa học viễn tưởng là thể loại văn học yêu thích nhất của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A category of artistic, musical, or literary composition characterized by a particular style.

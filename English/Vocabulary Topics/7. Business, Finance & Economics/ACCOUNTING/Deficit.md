@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Deficit
 *n.*
 > /ˈdefɪsɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Deficit::Sự thâm hụt, thâm hụt tài chính *(Phát âm: /ˈdefɪsɪt/)* ![[deficit.mp3]]<br><br>👪 **Word Family:** deficient, deficiency<br><br>💬 **Ví dụ:** Our family expenses have caused a slight deficit this month.<br>*(-> Chi chi tiêu gia đình đã gây ra một sự thâm hụt nhẹ trong tháng này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount by which money spent is more than money received

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Contract
 *noun*
 > /ˈcɑːntrækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Doanh nghiệp, Chiến lược kinh doanh & Độc quyền
+
+## 🗂️ Flashcard
+Contract::hợp đồng *(Phát âm: /ˈcɑːntrækt/)* ![[contract.mp3]]<br><br>👪 **Word Family:** contractor (noun), contractual (adjective)<br><br>💬 **Ví dụ:** Make sure you read the rental contract carefully before renting the apartment.<br>*(-> Hãy chắc chắn bạn đọc kỹ hợp đồng thuê nhà trước khi thuê căn hộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a formal agreement between two or more people or organizations, especially one that is written and legally binding.

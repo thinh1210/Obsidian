@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Lifestyle
 *n.*
 > /ˈlaɪfstaɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Lifestyle::Lối sống *(Phát âm: /ˈlaɪfstaɪl/)* ![[lifestyle.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He has an active lifestyle.<br>*(-> Anh ấy có lối sống năng động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which a person or group lives.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # General
 *n.*
 > /ˈdʒenrəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+General::Đại tướng, vị tướng *(Phát âm: /ˈdʒenrəl/)* ![[general.mp3]]<br><br>👪 **Word Family:** generalship<br><br>💬 **Ví dụ:** The general ordered the troops to retreat.<br>*(-> Vị tướng ra lệnh cho quân đội rút lui.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A commander of an army, or an army officer of very high rank

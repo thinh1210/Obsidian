@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Acceptable
 *adj*
 > /əkˈsep.tə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Acceptable::Chấp nhận được *(Phát âm: /əkˈsep.tə.bəl/)* ![[acceptable.mp3]]<br><br>👪 **Word Family:** Accept (verb), Acceptance (noun)<br><br>💬 **Ví dụ:** Is this dress acceptable for the party?<br>*(-> Chiếc váy này có chấp nhận được cho bữa tiệc không?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Able to be agreed on; suitable.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Scholar
 *n.*
 > /ˈskɒl.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Tư duy sắc bén, Tự học & Tri thức uyên bác
+
+## 🗂️ Flashcard
+Scholar::Học giả, nhà nghiên cứu uyên bác có đóng góp học thuật sâu rộng *(Phát âm: /ˈskɒl.ər/)* ![[scholar.mp3]]<br><br>👪 **Word Family:** scholarly (adj), scholarship (n)<br><br>💬 **Ví dụ:** The visiting scholar gave an insightful lecture on ancient maritime trade routes.<br>*(-> Vị học giả thỉnh giảng đã có một bài giảng sâu sắc về các tuyến đường thương mại hàng hải cổ đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A specialist in a particular branch of study, especially the humanities; a distinguished academic.

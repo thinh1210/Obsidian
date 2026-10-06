@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Comment
 *noun*
 > /ˈkɒment/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Comment::Bình luận, ý kiến *(Phát âm: /ˈkɒment/)* ![[comment.mp3]]<br><br>👪 **Word Family:** comment (v), commentator (n), commentary (n)<br><br>💬 **Ví dụ:** Please leave a comment below if you have any questions.<br>*(-> Vui lòng để lại bình luận bên dưới nếu bạn có bất kỳ câu hỏi nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A written remark expressing an opinion or reaction to a post

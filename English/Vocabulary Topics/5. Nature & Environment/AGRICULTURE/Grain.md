@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Grain
 *n.*
 > /ɡreɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Cây trồng, Đất đai & Thu hoạch
+
+## 🗂️ Flashcard
+Grain::Hạt ngũ cốc, ngũ cốc *(Phát âm: /ɡreɪn/)* ![[grain.mp3]]<br><br>👪 **Word Family:** grainy (adj), granary (n)<br><br>💬 **Ví dụ:** Oatmeal and brown rice are healthy whole grains.<br>*(-> Bột yến mạch và gạo lứt là các loại ngũ cốc nguyên hạt lành mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The small hard seeds of food plants, especially grass crops like wheat and rice.

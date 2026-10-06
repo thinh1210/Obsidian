@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Beads
 *noun*
 > /biːdz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Beads::Hạt chuỗi *(Phát âm: /biːdz/)* ![[beads.mp3]]<br><br>👪 **Word Family:** Beaded<br><br>💬 **Ví dụ:** A necklace of beads.<br>*(-> Một sợi dây chuyền bằng hạt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Small pieces of glass, stone, or similar material.

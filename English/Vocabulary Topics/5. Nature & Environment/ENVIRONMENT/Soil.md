@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Soil
 *n.*
 > /sɔɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Soil::Đất đai, lớp thổ nhưỡng trên bề mặt địa cầu nuôi dưỡng cây cối và vi sinh vật *(Phát âm: /sɔɪl/)* ![[soil.mp3]]<br><br>👪 **Word Family:** soilless (adj)<br><br>💬 **Ví dụ:** Earthworms burrow through the soil, naturally aerating it and improving garden drainage.<br>*(-> Giun đất đào bới trong lòng đất, giúp sục khí tự nhiên và cải thiện khả năng thoát nước của vườn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The upper layer of earth in which plants grow, a black or dark brown material typically consisting of organic remains and rock particles.

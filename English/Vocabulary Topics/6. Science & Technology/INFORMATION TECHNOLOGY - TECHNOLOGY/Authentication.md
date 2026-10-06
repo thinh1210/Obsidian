@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Authentication
 *noun*
 > /ɔːˌθen.tɪˈkeɪ.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Technical/Formal | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Authentication::Sự xác thực *(Phát âm: /ɔːˌθen.tɪˈkeɪ.ʃən/)* ![[authentication.mp3]]<br><br>👪 **Word Family:** Authenticate (v), Authentic (adj)<br><br>💬 **Ví dụ:** I have to use two-factor authentication to log into my email.<br>*(-> Tôi phải dùng xác thực hai yếu tố để đăng nhập email.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of proving that something is real, true, or what people say it is, especially verifying identity.

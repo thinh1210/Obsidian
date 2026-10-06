@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Landslide
 *noun*
 > /ˈlænd.slaɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Landslide::Sạt lở đất *(Phát âm: /ˈlænd.slaɪd/)* ![[landslide.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** Heavy rains triggered a landslide that blocked the main highway.<br>*(-> Mưa lớn đã gây ra một vụ sạt lở đất làm phong tỏa tuyến đường cao tốc chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mass of earth or rock that slides down a steep slope.

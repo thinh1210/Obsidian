@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Curate
 *verb*
 > /kjʊəˈreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Curate::Tuyển chọn, tổ chức (bộ sưu tập) *(Phát âm: /kjʊəˈreɪt/)* ![[curate.mp3]]<br><br>👪 **Word Family:** Curator (n), Curation (n), Curatorial (adj)<br><br>💬 **Ví dụ:** She spends her free time curating vintage clothes for her online store.<br>*(-> Cô dành thời gian rảnh rỗi để tuyển chọn quần áo cổ điển cho cửa hàng trực tuyến của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To select, organize, and look after the items in a collection or exhibition.

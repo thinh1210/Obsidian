@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Shrub
 *n.*
 > /ʃrʌb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Shrub::Cây bụi thân gỗ nhỏ, loại thực vật cảnh quan thường dùng làm hàng rào xanh *(Phát âm: /ʃrʌb/)* ![[shrub.mp3]]<br><br>👪 **Word Family:** shrubbery (n), shrubby (adj)<br><br>💬 **Ví dụ:** We planted flowering shrubs along the pathway to brighten the entrance.<br>*(-> Chúng tôi trồng các cây bụi có hoa dọc theo lối đi để làm sáng bừng lối vào nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A woody plant which is smaller than a tree and has several main stems arising at or near the ground.

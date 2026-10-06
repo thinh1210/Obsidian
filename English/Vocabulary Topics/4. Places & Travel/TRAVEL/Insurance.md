@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Insurance
 *n.*
 > /ɪnˈʃʊərəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
+
+## 🗂️ Flashcard
+Insurance::Hợp đồng chi trả rủi ro tài chính khi gặp tai nạn hoặc ốm đau trong chuyến du lịch *(Phát âm: /ɪnˈʃʊərəns/)* ![[insurance.mp3]]<br><br>👪 **Word Family:** insure (v), insurer (n), insured (adj)<br><br>💬 **Ví dụ:** Never embark on an overseas holiday without adequate travel insurance.<br>*(-> Đừng bao giờ khởi hành kỳ nghỉ nước ngoài mà không có bảo hiểm du lịch đầy đủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death.

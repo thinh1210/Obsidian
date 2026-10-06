@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Location
 *n.*
 > /ləʊˈkeɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Location::Vị trí, địa điểm *(Phát âm: /ləʊˈkeɪʃn/)* ![[location.mp3]]<br><br>👪 **Word Family:** locate (v), local (adj/n)<br><br>💬 **Ví dụ:** The apartment is in a convenient location near public transport.<br>*(-> Căn hộ ở vị trí thuận tiện gần phương tiện giao thông công cộng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A particular place or position.

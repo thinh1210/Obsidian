@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Manufacture
 *verb/noun*
 > /ˌmænjuˈfæktʃə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Cơ khí chế tạo, Động cơ & Thiết bị truyền động
+
+## 🗂️ Flashcard
+Manufacture::Sản xuất, chế tạo *(Phát âm: /ˌmænjuˈfæktʃə(r)/)* ![[manufacture.mp3]]<br><br>👪 **Word Family:** manufacturer (n), manufacturing (n)<br><br>💬 **Ví dụ:** The company plans to manufacture its new smartphone model in Vietnam.<br>*(-> Công ty có kế hoạch sản xuất mẫu điện thoại thông minh mới tại Việt Nam.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something on a large scale using machinery.

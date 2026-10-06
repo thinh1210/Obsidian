@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Statue
 *noun*
 > /ˈstætʃuː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Nền văn minh cổ đại, Di tích & Bảo tàng lịch sử
+
+## 🗂️ Flashcard
+Statue::Tượng, bức tượng *(Phát âm: /ˈstætʃuː/)* ![[statue.mp3]]<br><br>👪 **Word Family:** statuette (noun), statuesque (adj)<br><br>💬 **Ví dụ:** A statue of the general stands in the town square.<br>*(-> Bức tượng của vị tướng đứng ở quảng trường thị trấn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A figure of a person or an animal in stone, metal, etc.

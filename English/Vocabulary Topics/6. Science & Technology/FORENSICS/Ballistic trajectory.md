@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/FORENSICS
+  - review/6-Science-and-Technology/FORENSICS
+---
 # Ballistic trajectory
 *noun phrase*
 > /bəˈlɪs.tɪk trəˈdʒek.tər.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** FORENSICS | **Phân nhóm:** Khám nghiệm tử thi, Đạn đạo & Tổn thương thể chất
+
+## 🗂️ Flashcard
+Ballistic trajectory::Quỹ đạo đạn đạo – đường bay của đạn dưới tác động của trọng lực và sức cản không khí *(Phát âm: /bəˈlɪs.tɪk trəˈdʒek.tər.i/)* ![[ballistic_trajectory.mp3]]<br><br>👪 **Word Family:** ballistics (n), trajectory (n)<br><br>💬 **Ví dụ:** Physics students calculated the ballistic trajectory of a ball thrown at an angle.<br>*(-> Học sinh vật lý tính toán quỹ đạo đạn đạo của một quả bóng được ném theo một góc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The path followed by a projectile through space under the forces of gravity and air resistance.

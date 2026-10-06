@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Pedagogy
 *n.*
 > /ˈpedəɡɒdʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Pedagogy::Sư phạm, phương pháp giảng dạy *(Phát âm: /ˈpedəɡɒdʒi/)* ![[pedagogy.mp3]]<br><br>👪 **Word Family:** pedagogical, pedagogue<br><br>💬 **Ví dụ:** Teachers must keep up with changes in modern pedagogy.<br>*(-> Giáo viên phải theo kịp những thay đổi trong phương pháp sư phạm hiện đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The method and practice of teaching, especially as an academic subject

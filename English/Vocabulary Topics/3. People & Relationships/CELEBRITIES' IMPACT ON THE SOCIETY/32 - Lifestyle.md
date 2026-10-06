@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Lifestyle
 *n.*
 > /ˈlaɪf.staɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+32 - Lifestyle::Lối sống *(Phát âm: /ˈlaɪf.staɪl/)* ![[lifestyle.mp3]]<br><br>👪 **Word Family:** Life (n.)<br><br>💬 **Ví dụ:** Luxurious lifestyle.<br>*(-> Lối sống xa hoa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The way in which a person or group lives.

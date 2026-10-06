@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Balmy
 *adj.*
 > /ˈbɑːmi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Balmy::Ấm áp dễ chịu, dịu mát (gió, không khí) *(Phát âm: /ˈbɑːmi/)* ![[balmy.mp3]]<br><br>👪 **Word Family:** Balm (noun), balmily (adv)<br><br>💬 **Ví dụ:** We spent a balmy summer evening walking along the beach.<br>*(-> Chúng tôi đã dành một buổi tối mùa hè ấm áp dễ chịu đi dạo dọc theo bãi biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of weather) pleasantly warm, gentle, and refreshing

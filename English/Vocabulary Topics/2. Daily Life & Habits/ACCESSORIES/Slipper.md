@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Slipper
 *noun*
 > /ˈslɪpə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Thắt lưng, Khăn quàng & Phụ kiện thường nhật
+
+## 🗂️ Flashcard
+Slipper::Dép đi trong nhà *(Phát âm: /ˈslɪpə(r)/)* ![[slipper.mp3]]<br><br>👪 **Word Family:** Slippered (adj)<br><br>💬 **Ví dụ:** I put on my slippers when I get home.<br>*(-> Tôi đi dép vào khi về đến nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A comfortable slip-on shoe that is worn indoors.

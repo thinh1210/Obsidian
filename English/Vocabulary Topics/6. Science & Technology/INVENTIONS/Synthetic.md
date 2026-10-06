@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Synthetic
 *Adjective*
 > /sɪnˈθet.ɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Synthetic::Tổng hợp nhân tạo *(Phát âm: /sɪnˈθet.ɪk/)* ![[synthetic.mp3]]<br><br>👪 **Word Family:** Synthesize (v), synthesis (n)<br><br>💬 **Ví dụ:** This jacket is made of synthetic materials.<br>*(-> Chiếc áo khoác này được làm bằng vật liệu tổng hợp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Made by synthesis, especially chemically, rather than of natural origin.

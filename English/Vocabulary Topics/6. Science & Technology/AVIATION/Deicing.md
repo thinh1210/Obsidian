@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/AVIATION
+  - review/6-Science-and-Technology/AVIATION
+---
 # Deicing
 *noun*
 > /diːˈaɪ.sɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** AVIATION | **Phân nhóm:** Khung thân, Cơ khí & Thiết bị điện tử hàng không
+
+## 🗂️ Flashcard
+Deicing::Quá trình chống đóng băng / loại băng *(Phát âm: /diːˈaɪ.sɪŋ/)* ![[deicing.mp3]]<br><br>👪 **Word Family:** de-ice (v), anti-icing (adj/n), frost (n)<br><br>💬 **Ví dụ:** The ground crew spent an hour deicing the wings before the morning departure.<br>*(-> Nhân viên mặt đất mất một tiếng để loại băng khỏi cánh trước chuyến bay sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The process of removing ice from an aircraft's surface to ensure safe flight.

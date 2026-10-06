@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Nature
 *Noun*
 > /ˈneɪtʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** NATURE | **Phân nhóm:** Hệ sinh thái, Đa dạng sinh học & Khu bảo tồn
+
+## 🗂️ Flashcard
+Nature::Tự nhiên / Thiên nhiên *(Phát âm: /ˈneɪtʃər/)* ![[nature.mp3]]<br><br>👪 **Word Family:** natural, naturally, naturalist<br><br>💬 **Ví dụ:** I like to spend time in nature.<br>*(-> Tôi thích dành thời gian hòa mình vào thiên nhiên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The phenomena of the physical world collectively, including plants and animals.

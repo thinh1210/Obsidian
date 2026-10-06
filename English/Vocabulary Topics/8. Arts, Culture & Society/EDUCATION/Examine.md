@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Examine
 *v.*
 > /ɪɡˈzæmɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Examine::Khảo sát, kiểm tra, xem xét *(Phát âm: /ɪɡˈzæmɪn/)* ![[examine.mp3]]<br><br>👪 **Word Family:** exam, examination, examiner<br><br>💬 **Ví dụ:** You should examine the document carefully before signing.<br>*(-> Bạn nên xem xét tài liệu thật kỹ trước khi ký.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To inspect someone or something thoroughly in order to determine their condition

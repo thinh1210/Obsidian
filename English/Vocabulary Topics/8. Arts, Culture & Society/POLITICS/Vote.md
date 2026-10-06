@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Vote
 *v/n*
 > /voʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+Vote::Bỏ phiếu / lá phiếu *(Phát âm: /voʊt/)* ![[vote.mp3]]<br><br>👪 **Word Family:** voter (n), voting (n/adj), voted (adj)<br><br>💬 **Ví dụ:** I voted for the candidate who promised better schools.<br>*(-> Tôi bỏ phiếu cho ứng cử viên hứa cải thiện trường học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A formal choice made in an election or meeting.

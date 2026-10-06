@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Play
 *v.*
 > /pleɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Play::Chơi (thể thao, nhạc cụ...) *(Phát âm: /pleɪ/)* ![[play.mp3]]<br><br>👪 **Word Family:** player, playful, playground<br><br>💬 **Ví dụ:** Children like to play in the park.<br>*(-> Trẻ em thích chơi ở công viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take part in a sport or contest.

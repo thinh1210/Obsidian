@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+  - review/8-Arts-Culture-and-Society/HISTORICAL-FIGURES
+---
 # Sovereign
 *n.*
 > /ˈsɒvrɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HISTORICAL FIGURES | **Phân nhóm:** Hoàng gia, Lãnh tụ tối cao & Người cai trị
+
+## 🗂️ Flashcard
+Sovereign::Quốc vương, người trị vì tối cao *(Phát âm: /ˈsɒvrɪn/)* ![[sovereign.mp3]]<br><br>👪 **Word Family:** sovereignty<br><br>💬 **Ví dụ:** The sovereign demanded a tax from the citizens.<br>*(-> Quốc vương yêu cầu đánh thuế các công dân.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A supreme ruler, especially a monarch

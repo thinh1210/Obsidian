@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Tapestry
 *n.*
 > /ˈtæp.ɪ.stri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal/Academic | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Tapestry::Thảm thêu, thảm treo tường *(Phát âm: /ˈtæp.ɪ.stri/)* ![[tapestry.mp3]]<br><br>👪 **Word Family:** Tapestries (n. pl.)<br><br>💬 **Ví dụ:** I bought a beautiful bohemian tapestry to hang above my bed.<br>*(-> Tôi đã mua một tấm thảm thêu phong cách bohemian tuyệt đẹp để treo trên giường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of heavy cloth with pictures or designs woven into it, used as a wall hanging or furniture cover.

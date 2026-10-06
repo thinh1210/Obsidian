@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+  - review/7-Business-Finance-and-Economics/ECONOMICS-BUSINESS
+---
 # Recession
 *noun*
 > /rɪˈseʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ECONOMICS - BUSINESS | **Phân nhóm:** Kinh tế vĩ mô, Lạm phát & Chu kỳ suy thoái
+
+## 🗂️ Flashcard
+Recession::sự suy thoái kinh tế *(Phát âm: /rɪˈseʃn/)* ![[recession.mp3]]<br><br>👪 **Word Family:** recess (noun/verb), recessive (adjective)<br><br>💬 **Ví dụ:** Many families had to cut down on spending during the last recession.<br>*(-> Nhiều gia đình đã phải cắt giảm chi tiêu trong đợt suy thoái kinh tế vừa qua.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.

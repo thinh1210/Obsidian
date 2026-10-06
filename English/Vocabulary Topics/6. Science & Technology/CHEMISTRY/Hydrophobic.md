@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/CHEMISTRY
+  - review/6-Science-and-Technology/CHEMISTRY
+---
 # Hydrophobic
 *adjective*
 > /ˌhaɪ.drəˈfəʊ.bɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** CHEMISTRY | **Phân nhóm:** Phản ứng hóa học, Liên kết & Nhiệt động lực học
+
+## 🗂️ Flashcard
+Hydrophobic::Kỵ nước, sợ nước *(Phát âm: /ˌhaɪ.drəˈfəʊ.bɪk/)* ![[hydrophobic.mp3]]<br><br>👪 **Word Family:** hydrophobia (n), hydrophobe (n), hydrophilic (antonym)<br><br>💬 **Ví dụ:** Lipids are hydrophobic substances that do not dissolve in water.<br>*(-> Lipid là các chất kỵ nước không hòa tan trong nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to repel or fail to mix with water.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Tidy
 *adj*
 > /ˈtaɪdi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Tình trạng nhà ở, Cải tạo & Cảm quan
+
+## 🗂️ Flashcard
+Tidy::Gọn gàng *(Phát âm: /ˈtaɪdi/)* ![[tidy.mp3]]<br><br>👪 **Word Family:** tidiness (n)<br><br>💬 **Ví dụ:** Please keep your room tidy.<br>*(-> Vui lòng giữ phòng của bạn gọn gàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Arranged neatly and in order.

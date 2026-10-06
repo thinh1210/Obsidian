@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Master
 *v.*
 > /ˈmɑːstə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LANGUAGES | **Phân nhóm:** Ngữ pháp, Từ vựng, Thành ngữ & Biên phiên dịch
+
+## 🗂️ Flashcard
+Master::Làm chủ, thành thạo *(Phát âm: /ˈmɑːstə(r)/)* ![[master.mp3]]<br><br>👪 **Word Family:** mastery, masterly<br><br>💬 **Ví dụ:** He mastered the guitar in two years.<br>*(-> Anh ấy đã thành thạo đàn guitar trong hai năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To acquire complete knowledge or skill in something

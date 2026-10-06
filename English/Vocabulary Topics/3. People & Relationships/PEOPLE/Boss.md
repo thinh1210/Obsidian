@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Boss
 *n.*
 > /bɒs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Boss::Sếp, ông chủ *(Phát âm: /bɒs/)* ![[boss.mp3]]<br><br>👪 **Word Family:** Bossy<br><br>💬 **Ví dụ:** My boss is very strict.<br>*(-> Sếp của tôi rất nghiêm khắc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person in charge of a worker or organization.

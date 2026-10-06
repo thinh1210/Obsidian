@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Witty
 *adj.*
 > /ˈwɪt.i/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Witty::Hóm hỉnh, dí dỏm, nhanh trí và biết cách chọc cười thông minh *(Phát âm: /ˈwɪt.i/)* ![[witty.mp3]]<br><br>👪 **Word Family:** wit (n), wittiness (n), witticism (n), wittily (adv)<br><br>💬 **Ví dụ:** Her witty comeback made everyone at the dining table burst into laughter.<br>*(-> Câu đối đáp hóm hỉnh của cô ấy khiến mọi người quanh bàn ăn bật cười lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Using words in a clever and funny way; quick-witted.

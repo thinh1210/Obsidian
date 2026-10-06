@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Premium
 *n.*
 > /ˈpriːmiəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** INSURANCE | **Phân nhóm:** Hợp đồng bảo hiểm, Phí đóng & Người thụ hưởng
+
+## 🗂️ Flashcard
+Premium::Phí bảo hiểm định kỳ *(Phát âm: /ˈpriːmiəm/)* ![[premium.mp3]]<br><br>👪 **Word Family:** premium (adj)<br><br>💬 **Ví dụ:** My car insurance premium went up after the accident.<br>*(-> Phí bảo hiểm xe hơi của tôi đã tăng lên sau vụ tai nạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An amount to be paid for an insurance policy.

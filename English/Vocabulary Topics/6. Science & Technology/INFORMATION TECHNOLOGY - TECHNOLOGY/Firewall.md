@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Firewall
 *n.*
 > /ˈfaɪə.wɔːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Firewall::Tường lửa an ninh mạng giám sát và chặn các truy cập trái phép *(Phát âm: /ˈfaɪə.wɔːl/)* ![[firewall.mp3]]<br><br>👪 **Word Family:** firewalled (adj)<br><br>💬 **Ví dụ:** Make sure your computer's built-in firewall is activated when connecting to public Wi-Fi.<br>*(-> Hãy chắc chắn rằng tường lửa tích hợp trên máy tính đã được bật khi kết nối Wi-Fi công cộng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A network security system designed to prevent unauthorized access to or from a private computer network.

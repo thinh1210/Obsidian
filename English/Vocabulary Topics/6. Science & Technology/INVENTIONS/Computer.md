@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Computer
 *Noun*
 > /kəmˈpjuː.tər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTIONS | **Phân nhóm:** Thiết bị kinh điển & Đồ dùng công nghệ đời sống
+
+## 🗂️ Flashcard
+Computer::Máy vi tính *(Phát âm: /kəmˈpjuː.tər/)* ![[computer.mp3]]<br><br>👪 **Word Family:** Compute (v), computation (n), computerized (adj)<br><br>💬 **Ví dụ:** I use my computer to study English every day.<br>*(-> Tôi dùng máy tính để học tiếng Anh mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An electronic machine that can store and find information, calculate amounts, and control other machines.

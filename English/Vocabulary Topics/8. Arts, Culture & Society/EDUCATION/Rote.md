@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Rote
 *n.*
 > /rəʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Phương pháp sư phạm, Nhận thức & Giáo huấn
+
+## 🗂️ Flashcard
+Rote::Sự học vẹt, lặp đi lặp lại một cách máy móc *(Phát âm: /rəʊt/)* ![[rote.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** Many Asian school systems rely heavily on rote learning.<br>*(-> Nhiều hệ thống trường học châu Á phụ thuộc rất nhiều vào cách học vẹt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Mechanical or habitual repetition of something to be learned

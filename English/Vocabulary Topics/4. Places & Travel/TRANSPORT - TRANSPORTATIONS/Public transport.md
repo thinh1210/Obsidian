@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Public transport
 *noun*
 > /ˈpʌblɪk ˈtrænspɔːrt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Public transport::Phương tiện giao thông công cộng *(Phát âm: /ˈpʌblɪk ˈtrænspɔːrt/)* ![[public_transport.mp3]]<br><br>👪 **Word Family:** Noun: public transport (giao thông công cộng)<br><br>💬 **Ví dụ:** Using public transport is better for the environment.<br>*(-> Sử dụng phương tiện giao thông công cộng sẽ tốt hơn cho môi trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Buses, trains, subways, and other train services used by the public.

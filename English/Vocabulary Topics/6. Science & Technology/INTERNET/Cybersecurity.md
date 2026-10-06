@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # Cybersecurity
 *noun*
 > /ˌsaɪ.bəˈsɪk.jʊə.rɪ.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** An ninh mạng, Mã hóa & Nguy cơ trực tuyến
+
+## 🗂️ Flashcard
+Cybersecurity::An ninh mạng *(Phát âm: /ˌsaɪ.bəˈsɪk.jʊə.rɪ.ti/)* ![[cybersecurity.mp3]]<br><br>👪 **Word Family:** cybersecurity (n), cyber (prefix), cybercrime (n)<br><br>💬 **Ví dụ:** She took an online course in cybersecurity to protect her small business.<br>*(-> Cô ấy theo học khóa học an ninh mạng trực tuyến để bảo vệ doanh nghiệp nhỏ của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The practice of protecting computers, networks, and data from digital attacks, unauthorized access, or damage.

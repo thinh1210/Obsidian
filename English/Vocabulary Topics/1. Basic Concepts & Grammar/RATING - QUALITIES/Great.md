@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Great
 *adj*
 > /ɡreɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Tốt, Khá & Đạt tiêu chuẩn
+
+## 🗂️ Flashcard
+Great::Tuyệt vời, to lớn *(Phát âm: /ɡreɪt/)* ![[great.mp3]]<br><br>👪 **Word Family:** Greatness (noun), Greatly (adv)<br><br>💬 **Ví dụ:** We had a great time at the party.<br>*(-> Chúng tôi đã có thời gian tuyệt vời ở bữa tiệc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Of an extent, amount, or intensity considerably above the normal or average.

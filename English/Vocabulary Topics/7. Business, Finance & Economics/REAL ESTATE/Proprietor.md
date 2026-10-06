@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Proprietor
 *n.*
 > /prəˈpraɪətə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Proprietor::Chủ sở hữu, chủ điền trang *(Phát âm: /prəˈpraɪətə(r)/)* ![[proprietor.mp3]]<br><br>👪 **Word Family:** proprietorship (n), proprietary (adj)<br><br>💬 **Ví dụ:** The proprietor of the boarding house welcomed us warmly.<br>*(-> Chủ nhà trọ đã chào đón chúng tôi rất nồng nhiệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The owner of a business, or a holder of property.

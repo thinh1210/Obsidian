@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # English
 *n./adj.*
 > /ˈɪŋɡlɪʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+English::Tiếng Anh, thuộc về nước Anh *(Phát âm: /ˈɪŋɡlɪʃ/)* ![[english.mp3]]<br><br>👪 **Word Family:** Englishman, Anglicize<br><br>💬 **Ví dụ:** She wants to improve her English.<br>*(-> Cô ấy muốn cải thiện tiếng Anh của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The language originally spoken in England, now spoken in many countries

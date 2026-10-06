@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Soldier
 *noun*
 > /ˈsoʊl.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Soldier::Người lính, quân nhân *(Phát âm: /ˈsoʊl.dʒər/)* ![[soldier.mp3]]<br><br>👪 **Word Family:** soldierly (adj), soldiering (noun)<br><br>💬 **Ví dụ:** The soldier returned home to his family after a long deployment.<br>*(-> Người lính trở về nhà với gia đình sau một thời gian dài đồn trú.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who serves in an army.

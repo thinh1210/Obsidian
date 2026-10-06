@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Campaign
 *noun*
 > /kæmˈpeɪn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Campaign::Chiến dịch *(Phát âm: /kæmˈpeɪn/)* ![[campaign.mp3]]<br><br>👪 **Word Family:** campaigner (noun)<br><br>💬 **Ví dụ:** They launched a campaign to promote healthy school meals.<br>*(-> Họ đã phát động một chiến dịch để quảng bá bữa ăn học đường lành mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An organized course of action to achieve a particular goal, especially a commercial or political one.

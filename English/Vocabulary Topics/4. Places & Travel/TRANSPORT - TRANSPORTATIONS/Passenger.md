@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Passenger
 *noun*
 > /ˈpæsɪndʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Lưu thông, Đi lại & Hiện tượng ùn tắc
+
+## 🗂️ Flashcard
+Passenger::Hành khách *(Phát âm: /ˈpæsɪndʒər/)* ![[passenger.mp3]]<br><br>👪 **Word Family:** Noun: passenger (hành khách)<br><br>💬 **Ví dụ:** The driver asked the passengers to fasten their seatbelts.<br>*(-> Tài xế yêu cầu hành khách thắt dây an toàn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A traveler on a public or private conveyance other than the driver, pilot, or crew.

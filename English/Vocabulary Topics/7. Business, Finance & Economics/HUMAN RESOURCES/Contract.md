@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Contract
 *n.*
 > /ˈkɒn.trækt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Lương bổng, Chế độ đãi ngộ & Hưu trí
+
+## 🗂️ Flashcard
+Contract::Hợp đồng *(Phát âm: /ˈkɒn.trækt/)* ![[contract.mp3]]<br><br>👪 **Word Family:** contractor, contractual<br><br>💬 **Ví dụ:** She signed a two-year employment contract.<br>*(-> Cô ấy đã ký một hợp đồng lao động hai năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A binding agreement, especially in employment or tenancy

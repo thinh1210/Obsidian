@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Equilibrium
 *n.*
 > /ˌiː.kwɪˈlɪb.ri.əm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Equilibrium::Trạng thái cân bằng *(Phát âm: /ˌiː.kwɪˈlɪb.ri.əm/)* ![[equilibrium.mp3]]<br><br>👪 **Word Family:** equilibrate, equilibration<br><br>💬 **Ví dụ:** The gymnast struggled to maintain her equilibrium on the beam.<br>*(-> Vận động viên thể dục dụng cụ đã rất vất vả để duy trì sự cân bằng của mình trên cầu thăng bằng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state in which opposing forces or influences are balanced.

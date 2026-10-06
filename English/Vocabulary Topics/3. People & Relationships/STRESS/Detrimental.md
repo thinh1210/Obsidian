@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/STRESS
+  - review/3-People-and-Relationships/STRESS
+---
 # Detrimental
 *adj.*
 > /ˌdetrɪˈmentl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** STRESS | **Phân nhóm:** Tác động tâm lý, Cảm xúc tiêu cực & Suy sụp
+
+## 🗂️ Flashcard
+Detrimental::Có hại, bất lợi *(Phát âm: /ˌdetrɪˈmentl/)* ![[detrimental.mp3]]<br><br>👪 **Word Family:** detriment (n)<br><br>💬 **Ví dụ:** Smoking is detrimental to your health.<br>*(-> Hút thuốc có hại cho sức khỏe của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to cause harm

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Accreditation
 *noun*
 > /əˌkredɪˈteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Kỷ luật, Tuyển sinh, Học phí & Học bổng
+
+## 🗂️ Flashcard
+Accreditation::Sự kiểm định chất lượng, sự công nhận chính thức *(Phát âm: /əˌkredɪˈteɪʃn/)* ![[accreditation.mp3]]<br><br>👪 **Word Family:** accredit (v), accredited (adj)<br><br>💬 **Ví dụ:** The college lost its accreditation due to poor financial management.<br>*(-> Trường cao đẳng đã mất chứng nhận kiểm định chất lượng do quản lý tài chính kém.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The action or process of officially recognizing someone or something as having a particular status or being qualified to perform a particular activity.

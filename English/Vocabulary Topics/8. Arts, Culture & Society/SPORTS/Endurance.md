@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Endurance
 *n.*
 > /ɪnˈdjʊə.rəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Endurance::Khả năng chịu đựng, sự nhẫn nại *(Phát âm: /ɪnˈdjʊə.rəns/)* ![[endurance.mp3]]<br><br>👪 **Word Family:** endure, endurable, enduring<br><br>💬 **Ví dụ:** The training focuses on strength and endurance.<br>*(-> Quá trình tập luyện tập trung vào sức mạnh và sức chịu đựng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability to endure an unpleasant or difficult process or situation without giving way.

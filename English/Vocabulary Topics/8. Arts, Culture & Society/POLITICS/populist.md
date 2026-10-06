@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # populist
 *adjective*
 > /ˈpɑːpjəlɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+populist::Mang tính dân túy, thuộc về chủ nghĩa dân túy *(Phát âm: /ˈpɑːpjəlɪst/)* ![[populist.mp3]]<br><br>👪 **Word Family:** populism (n)<br><br>💬 **Ví dụ:** The candidate ran a populist campaign focusing on the struggles of working-class families.<br>*(-> Ứng cử viên đã điều hành một chiến dịch mang tính dân túy tập trung vào cuộc đấu tranh của các gia đình thuộc tầng lớp lao động.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Representing or appealing to the concerns of ordinary people, often in opposition to the elite.

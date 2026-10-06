@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Workout
 *noun*
 > /ˈwɜː.kaʊt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Workout::Tập thể dục *(Phát âm: /ˈwɜː.kaʊt/)* ![[workout.mp3]]<br><br>👪 **Word Family:** Work out (v)<br><br>💬 **Ví dụ:** I do a 30-minute workout every morning.<br>*(-> Tôi tập thể dục 30 phút mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A period of physical exercise.

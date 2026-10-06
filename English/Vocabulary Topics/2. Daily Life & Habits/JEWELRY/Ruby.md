@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Ruby
 *noun*
 > /ˈruː.bi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Kim loại quý, Đá quý & Đơn vị đo
+
+## 🗂️ Flashcard
+Ruby::Hồng ngọc *(Phát âm: /ˈruː.bi/)* ![[ruby.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She wore a ruby necklace.<br>*(-> Cô ấy đeo một sợi dây chuyền hồng ngọc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A red precious stone.

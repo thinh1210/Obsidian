@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Sale
 *noun*
 > /seɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MARKETING | **Phân nhóm:** Thị trường bán lẻ, Điểm bán & Khách hàng mua sắm
+
+## 🗂️ Flashcard
+Sale::Sự bán hàng, đợt giảm giá, doanh thu *(Phát âm: /seɪl/)* ![[sale.mp3]]<br><br>👪 **Word Family:** sell (v), salesperson (n), sales (adj)<br><br>💬 **Ví dụ:** Everything in the store is on sale for 20% off this weekend.<br>*(-> Mọi thứ trong cửa hàng đều được giảm giá 20% vào cuối tuần này.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The exchange of a commodity for money; the action of selling something

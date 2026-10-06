@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Always
 *adv.*
 > /ˈɔːl.weɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Always::Luôn luôn, lúc nào cũng vậy, mãi mãi không thay đổi *(Phát âm: /ˈɔːl.weɪz/)* ![[always.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She always drinks a glass of warm water with lemon right after waking up.<br>*(-> Cô ấy luôn uống một cốc nước ấm với chanh ngay sau khi thức dậy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** At all times; on every occasion; without exception.

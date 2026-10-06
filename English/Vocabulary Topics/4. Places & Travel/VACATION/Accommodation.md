@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Accommodation
 *Noun*
 > /əˌkɑməˈdeɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1-B2 | **Ngữ cảnh:** Formal | **Chủ đề:** VACATION | **Phân nhóm:** Lưu trú, Đặt phòng & Thủ tục
+
+## 🗂️ Flashcard
+Accommodation::Chỗ ở *(Phát âm: /əˌkɑməˈdeɪʃən/)* ![[accommodation.mp3]]<br><br>👪 **Word Family:** accommodate (v)<br><br>💬 **Ví dụ:** We need to find accommodation for tonight.<br>*(-> Chúng tôi cần tìm chỗ ở cho đêm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room, group of rooms, or building in which someone may live or stay.

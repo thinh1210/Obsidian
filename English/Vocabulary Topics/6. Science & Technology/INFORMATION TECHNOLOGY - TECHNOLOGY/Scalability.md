@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Scalability
 *noun*
 > /ˌskeɪ.ləˈbɪl.ə.ti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Business/Technical | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Phần mềm, Triển khai & Khả năng tương thích
+
+## 🗂️ Flashcard
+Scalability::Khả năng mở rộng *(Phát âm: /ˌskeɪ.ləˈbɪl.ə.ti/)* ![[scalability.mp3]]<br><br>👪 **Word Family:** Scalable (adj), Scale (v)<br><br>💬 **Ví dụ:** This online store has great scalability for holidays.<br>*(-> Cửa hàng trực tuyến này có khả năng mở rộng tuyệt vời cho những kỳ nghỉ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The ability of a system, network, or process to handle a growing amount of work, or its potential to be enlarged.

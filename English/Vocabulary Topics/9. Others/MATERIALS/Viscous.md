@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Viscous
 *adjective.*
 > /ˈvɪskəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Viscous::Nhớt, có độ nhớt cao, sền sệt *(Phát âm: /ˈvɪskəs/)* ![[viscous.mp3]]<br><br>👪 **Word Family:** viscosity (Noun), viscously (Adverb)<br><br>💬 **Ví dụ:** Syrup is a viscous liquid that flows much slower than water.<br>*(-> Siro là một chất lỏng sệt chảy chậm hơn nhiều so với nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a thick, sticky consistency between solid and liquid; having a high viscosity.

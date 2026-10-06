@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Lurker
 *noun*
 > /ˈlɜːkə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Thuật toán gợi ý, Mồi nhử câu view & Buồng vang
+
+## 🗂️ Flashcard
+Lurker::Người đọc lén, người tàu ngầm (chỉ đọc không tương tác) *(Phát âm: /ˈlɜːkə(r)/)* ![[lurker.mp3]]<br><br>👪 **Word Family:** lurk (v)<br><br>💬 **Ví dụ:** I am mostly a lurker on Reddit, I rarely post any comments.<br>*(-> Tôi hầu như là một người tàu ngầm trên Reddit, tôi hiếm khi đăng bất kỳ bình luận nào.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A user who reads discussions on a social media board or forum but rarely or never posts

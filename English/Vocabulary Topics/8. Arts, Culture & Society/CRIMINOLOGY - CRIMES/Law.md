@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Law
 *noun*
 > /lɔː/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Lực lượng chấp pháp, Điều tra & Bắt giữ can phạm
+
+## 🗂️ Flashcard
+Law::Luật pháp, luật *(Phát âm: /lɔː/)* ![[law.mp3]]<br><br>👪 **Word Family:** lawyer (n), lawful (adj), lawless (adj)<br><br>💬 **Ví dụ:** You must obey the law when driving a car.<br>*(-> Bạn phải tuân thủ luật pháp khi lái xe ô tô.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A rule made by a government that people must obey

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Jacket
 *noun*
 > /ˈdʒæk.ɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Áo, Quần & Trang phục mặc hàng ngày
+
+## 🗂️ Flashcard
+Jacket::Áo khoác ngắn *(Phát âm: /ˈdʒæk.ɪt/)* ![[jacket.mp3]]<br><br>👪 **Word Family:** jacketless (adj)<br><br>💬 **Ví dụ:** Take a jacket with you.<br>*(-> Mang theo áo khoác nhé.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short coat.

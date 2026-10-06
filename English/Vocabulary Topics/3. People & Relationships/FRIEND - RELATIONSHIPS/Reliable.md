@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Reliable
 *adj*
 > /rɪˈlaɪ.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Academic | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Lòng tin, Trung thành & Sự tôn trọng
+
+## 🗂️ Flashcard
+Reliable::Đáng tin cậy *(Phát âm: /rɪˈlaɪ.ə.bəl/)* ![[reliable.mp3]]<br><br>👪 **Word Family:** reliability<br><br>💬 **Ví dụ:** She is a very reliable person.<br>*(-> Cô ấy là một người rất đáng tin cậy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Consistently good in quality or performance; able to be trusted.

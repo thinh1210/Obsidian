@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Publisher
 *noun*
 > /ˈpʌb.lɪ.ʃər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Tác giả, Nhà thơ, Cuốn sách & Xuất bản
+
+## 🗂️ Flashcard
+Publisher::Nhà xuất bản *(Phát âm: /ˈpʌb.lɪ.ʃər/)* ![[publisher.mp3]]<br><br>👪 **Word Family:** publish (v), publication (n), publishing (n)<br><br>💬 **Ví dụ:** She sent her manuscript to several publishers hoping for a deal.<br>*(-> Cô ấy đã gửi bản thảo của mình đến vài nhà xuất bản với hy vọng có thỏa thuận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A company or person that prepares and issues books, journals, or music for sale.

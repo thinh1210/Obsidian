@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Picnic
 *n.*
 > /ˈpɪk.nɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Picnic::Buổi dã ngoại mang theo đồ ăn để thưởng thức ngoài trời ở công viên hay bờ hồ *(Phát âm: /ˈpɪk.nɪk/)* ![[picnic.mp3]]<br><br>👪 **Word Family:** picnicker (n), picnicking (n)<br><br>💬 **Ví dụ:** We packed sandwiches, fruits, and juice for a relaxing family picnic in the botanical garden.<br>*(-> Chúng tôi chuẩn bị bánh mì, hoa quả và nước ép cho buổi dã ngoại thư thái của gia đình trong vườn bách thảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An occasion when a packed meal is eaten outdoors, especially in the countryside or a park.

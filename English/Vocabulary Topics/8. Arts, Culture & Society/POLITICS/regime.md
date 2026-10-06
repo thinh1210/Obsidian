@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # regime
 *noun*
 > /reɪˈʒiːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+regime::Chế độ (thường chỉ chế độ độc tài, cai trị nghiêm khắc) *(Phát âm: /reɪˈʒiːm/)* ![[regime.mp3]]<br><br>👪 **Word Family:** regimen (n)<br><br>💬 **Ví dụ:** People celebrated when the oppressive regime was overthrown.<br>*(-> Người dân đã ăn mừng khi chế độ áp bức bị lật đổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A government, especially an authoritarian one.

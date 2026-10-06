@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+  - review/8-Arts-Culture-and-Society/SOCIAL-NETWORK
+---
 # Share
 *verb*
 > /ʃeə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SOCIAL NETWORK | **Phân nhóm:** Tài khoản cá nhân, Đăng tải nội dung & Tương tác
+
+## 🗂️ Flashcard
+Share::Chia sẻ *(Phát âm: /ʃeə(r)/)* ![[share.mp3]]<br><br>👪 **Word Family:** share (n), shareholder (n)<br><br>💬 **Ví dụ:** Please share this post with your friends.<br>*(-> Làm ơn hãy chia sẻ bài viết này với bạn bè của bạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To distribute or forward content to other users on a social network

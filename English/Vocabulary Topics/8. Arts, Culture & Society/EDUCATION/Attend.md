@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Attend
 *v.*
 > /əˈtend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** EDUCATION | **Phân nhóm:** Giảng đường, Bài học & Học tập thường nhật
+
+## 🗂️ Flashcard
+Attend::Tham dự, đi học đều đặn *(Phát âm: /əˈtend/)* ![[attend.mp3]]<br><br>👪 **Word Family:** attendance, attendee, attentive<br><br>💬 **Ví dụ:** Students must attend all classes to pass.<br>*(-> Sinh viên phải đi học đầy đủ các lớp để qua môn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To be present at an event, meeting, or function, or to go regularly to a school

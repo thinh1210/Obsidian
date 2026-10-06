@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Risk
 *n.*
 > /rɪsk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Risk::Rủi ro *(Phát âm: /rɪsk/)* ![[risk.mp3]]<br><br>👪 **Word Family:** risky, risk (v)<br><br>💬 **Ví dụ:** Driving without a seatbelt is a huge risk.<br>*(-> Lái xe không thắt dây an toàn là một rủi ro lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The possibility of something bad happening.

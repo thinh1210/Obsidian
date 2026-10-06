@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Necklace
 *noun*
 > /ˈnek.ləs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Necklace::Dây chuyền *(Phát âm: /ˈnek.ləs/)* ![[necklace.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He gave her a necklace.<br>*(-> Anh ấy tặng cô ấy một sợi dây chuyền.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewelry worn around the neck.

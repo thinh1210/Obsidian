@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Climbing
 *n.*
 > /ˈklaɪ.mɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Climbing::Môn thể thao hoặc hoạt động leo núi đá mạo hiểm rèn luyện sức bền *(Phát âm: /ˈklaɪ.mɪŋ/)* ![[climbing.mp3]]<br><br>👪 **Word Family:** climb (v/n), climber (n)<br><br>💬 **Ví dụ:** We took up indoor rock climbing this winter to build upper-body strength.<br>*(-> Chúng tôi bắt đầu chơi môn leo núi trong nhà vào mùa đông này để rèn luyện sức mạnh phần trên cơ thể.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The sport or activity of climbing mountains or rocks.

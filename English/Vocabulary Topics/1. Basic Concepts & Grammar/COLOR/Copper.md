@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Copper
 *adj., n.*
 > /ˈkɒp.ər/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Copper::Màu đỏ ánh kim của kim loại đồng, ấm áp và bắt mắt *(Phát âm: /ˈkɒp.ər/)* ![[copper.mp3]]<br><br>👪 **Word Family:** coppery (adj)<br><br>💬 **Ví dụ:** The chef hung shiny copper pans above the central kitchen island.<br>*(-> Vị bếp trưởng treo những chiếc chảo màu đồng sáng bóng phía trên đảo bếp trung tâm.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A reddish-brown metallic color, characteristic of polished copper metal.

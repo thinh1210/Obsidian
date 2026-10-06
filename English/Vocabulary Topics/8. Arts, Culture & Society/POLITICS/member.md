@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # member
 *noun*
 > /ˈmembər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Bầu cử, Đảng phái, Chiến dịch & Cử tri
+
+## 🗂️ Flashcard
+member::Thành viên *(Phát âm: /ˈmembər/)* ![[member.mp3]]<br><br>👪 **Word Family:** membership (n)<br><br>💬 **Ví dụ:** He is a new member of our sports club.<br>*(-> Anh ấy là một thành viên mới của câu lạc bộ thể thao của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person, animal, or plant that belongs to a group, team, or organization.

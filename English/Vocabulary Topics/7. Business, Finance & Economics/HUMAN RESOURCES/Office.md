@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Office
 *n.*
 > /ˈɒf.ɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Văn hóa làm việc, Đào tạo & Đánh giá hiệu suất
+
+## 🗂️ Flashcard
+Office::Văn phòng *(Phát âm: /ˈɒf.ɪs/)* ![[office.mp3]]<br><br>👪 **Word Family:** officer, official<br><br>💬 **Ví dụ:** I go to the office every morning.<br>*(-> Tôi đến văn phòng mỗi sáng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A room or building where people work at desks

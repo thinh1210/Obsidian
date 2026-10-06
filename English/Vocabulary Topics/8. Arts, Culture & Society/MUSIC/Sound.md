@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Sound
 *n.*
 > /saʊnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Sound::Âm thanh *(Phát âm: /saʊnd/)* ![[sound.mp3]]<br><br>👪 **Word Family:** soundproof (adj), soundtrack (n)<br><br>💬 **Ví dụ:** I woke up because of a strange sound outside.<br>*(-> Tôi thức dậy vì một âm thanh lạ bên ngoài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vibrations traveling through the air or another medium and that can be heard when they reach a person's or animal's ear.

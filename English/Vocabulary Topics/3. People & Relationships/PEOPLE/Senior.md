@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Senior
 *n.*
 > /ˈsiː.ni.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Senior::Người cao tuổi, công dân cao niên (thường đã đến tuổi hưu trí) *(Phát âm: /ˈsiː.ni.ər/)* ![[senior.mp3]]<br><br>👪 **Word Family:** seniority (n)<br><br>💬 **Ví dụ:** The local library offers free computer courses specifically tailored for seniors.<br>*(-> Thư viện địa phương mở các lớp vi tính miễn phí được thiết kế riêng cho người lớn tuổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An older person, usually someone over retirement age.

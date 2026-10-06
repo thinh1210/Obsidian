@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Chronology
 *noun*
 > /krəˈnɒl.ə.dʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Tư liệu lưu trữ, Hiện vật & Nghiên cứu lịch sử
+
+## 🗂️ Flashcard
+Chronology::Niên biểu, sự sắp xếp theo trình tự thời gian *(Phát âm: /krəˈnɒl.ə.dʒi/)* ![[chronology.mp3]]<br><br>👪 **Word Family:** chronological (adj), chronologically (adv), chronicle (n/v)<br><br>💬 **Ví dụ:** I am trying to establish the exact chronology of the crime.<br>*(-> Tôi đang cố gắng thiết lập trình tự thời gian chính xác của vụ án.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The arrangement of events or dates in the order of their occurrence.

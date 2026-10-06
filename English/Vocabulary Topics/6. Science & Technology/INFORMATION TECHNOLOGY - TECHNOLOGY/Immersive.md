@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Immersive
 *adj*
 > /ɪˈmɜː.sɪv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Tech/Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Immersive::Đắm chìm, nhập vai *(Phát âm: /ɪˈmɜː.sɪv/)* ![[immersive.mp3]]<br><br>👪 **Word Family:** Immerse (v), Immersion (n)<br><br>💬 **Ví dụ:** The new VR game is incredibly immersive.<br>*(-> Trò chơi VR mới này vô cùng nhập vai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Seeming to surround the audience, player, etc. so that they feel completely involved in something.

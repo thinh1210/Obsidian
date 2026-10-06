@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Horizon
 *noun*
 > /həˈraɪzn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Daily | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Thám hiểm, Hàng hải & Dòng chảy
+
+## 🗂️ Flashcard
+Horizon::Đường chân trời *(Phát âm: /həˈraɪzn/)* ![[horizon.mp3]]<br><br>👪 **Word Family:** Horizontal (adj.)<br><br>💬 **Ví dụ:** We watched the sun dip below the horizon.<br>*(-> Chúng tôi ngắm mặt trời lặn dưới đường chân trời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The line at which the earth's surface and the sky appear to meet.

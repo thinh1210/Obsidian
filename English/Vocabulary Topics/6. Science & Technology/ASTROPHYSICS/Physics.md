@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ASTROPHYSICS
+  - review/6-Science-and-Technology/ASTROPHYSICS
+---
 # Physics
 *noun*
 > /ˈfɪz.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ASTROPHYSICS | **Phân nhóm:** Vật lý thiên văn, Lỗ đen & Không-thời gian
+
+## 🗂️ Flashcard
+Physics::Vật lý học *(Phát âm: /ˈfɪz.ɪks/)* ![[physics.mp3]]<br><br>👪 **Word Family:** physicist (n), physical (adj), physically (adv)<br><br>💬 **Ví dụ:** He always found physics to be the hardest subject in school.<br>*(-> Anh ấy luôn thấy vật lý là môn học khó nhất ở trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of science concerned with the nature and properties of matter and energy.

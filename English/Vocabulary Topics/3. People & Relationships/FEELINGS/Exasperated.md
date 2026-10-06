@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Exasperated
 *adj*
 > /ɪɡˈzæspəreɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Exasperated::Tức điên, bực dọc *(Phát âm: /ɪɡˈzæspəreɪtɪd/)* ![[exasperated.mp3]]<br><br>👪 **Word Family:** exasperation (n), exasperate (v)<br><br>💬 **Ví dụ:** He let out an exasperated sigh.<br>*(-> Anh ta thở dài bực tức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Intensely irritated and frustrated.

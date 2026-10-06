@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Baby
 *noun*
 > /ˈbeɪ.bi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Giai đoạn thơ ấu, Tuổi tác & Tình thương
+
+## 🗂️ Flashcard
+Baby::Em bé *(Phát âm: /ˈbeɪ.bi/)* ![[baby.mp3]]<br><br>👪 **Word Family:** Babyhood (n)<br><br>💬 **Ví dụ:** The baby is sleeping.<br>*(-> Em bé đang ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A very young child.

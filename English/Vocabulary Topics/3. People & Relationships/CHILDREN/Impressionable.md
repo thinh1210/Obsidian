@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Impressionable
 *adj*
 > /ɪmˈpreʃ.ən.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Impressionable::Dễ bị ảnh hưởng *(Phát âm: /ɪmˈpreʃ.ən.ə.bəl/)* ![[impressionable.mp3]]<br><br>👪 **Word Family:** Impression (n)<br><br>💬 **Ví dụ:** Children are at an impressionable age.<br>*(-> Trẻ em đang ở độ tuổi dễ bị ảnh hưởng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Easily influenced because of a lack of critical ability.

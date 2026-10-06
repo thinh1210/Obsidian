@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Rumour
 *n.*
 > /ˈruːmər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FAME | **Phân nhóm:** Mặt tối của hào quang & Sự lãng quên
+
+## 🗂️ Flashcard
+Rumour::Tin đồn *(Phát âm: /ˈruːmər/)* ![[rumour.mp3]]<br><br>👪 **Word Family:** rumoured (adj.)<br><br>💬 **Ví dụ:** I heard a rumour about them.<br>*(-> Tôi nghe một tin đồn về họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A currently circulating story or report of uncertain truth.

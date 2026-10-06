@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Kinematics
 *noun.*
 > /ˌkɪn.əˈmæt̬.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** ROBOTS | **Phân nhóm:** Robot hình người, Mô phỏng sinh học & Tương lai
+
+## 🗂️ Flashcard
+Kinematics::Động học (đặc biệt là động học robot) *(Phát âm: /ˌkɪn.əˈmæt̬.ɪks/)* ![[kinematics.mp3]]<br><br>👪 **Word Family:** kinematic (adj), kinematical (adj)<br><br>💬 **Ví dụ:** Robot programmers use inverse kinematics to calculate how joints must bend to reach a point.<br>*(-> Các nhà lập trình robot sử dụng động học ngược để tính toán cách các khớp phải gập để chạm tới một điểm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of mechanics concerned with the motion of objects without reference to the forces which cause the motion (specifically in robotics: joint movements)

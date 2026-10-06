@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Hobby
 *n*
 > /ˈhɒbi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Hobby::Sở thích *(Phát âm: /ˈhɒbi/)* ![[hobby.mp3]]<br><br>👪 **Word Family:** Hobbies (n)<br><br>💬 **Ví dụ:** My favorite hobby is reading.<br>*(-> Sở thích của tôi là đọc sách.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity done regularly in one's leisure time for pleasure.

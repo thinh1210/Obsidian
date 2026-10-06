@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Apartment
 *noun*
 > /əˈpɑːrtmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Loại hình nhà ở & Ngoại thất
+
+## 🗂️ Flashcard
+Apartment::Căn hộ *(Phát âm: /əˈpɑːrtmənt/)* ![[apartment.mp3]]<br><br>👪 **Word Family:** **Synonyms:** flat, condo<br><br>💬 **Ví dụ:** They live in an apartment.<br>*(-> Họ sống trong một căn hộ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A suite of rooms forming one residence, typically in a building containing a number of these.

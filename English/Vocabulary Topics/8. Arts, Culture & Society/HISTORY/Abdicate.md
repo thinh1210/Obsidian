@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Abdicate
 *verb*
 > /ˈæb.dɪ.keɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Abdicate::Thoái vị, nhường ngôi *(Phát âm: /ˈæb.dɪ.keɪt/)* ![[abdicate.mp3]]<br><br>👪 **Word Family:** abdication (n)<br><br>💬 **Ví dụ:** The king decided to abdicate the throne in favor of his eldest son.<br>*(-> Nhà vua quyết định thoái vị để nhường ngôi cho con trai cả.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Renounce one's throne (of a monarch).

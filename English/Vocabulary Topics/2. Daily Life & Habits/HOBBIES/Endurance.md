@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Endurance
 *noun*
 > /ɪnˈdjʊərəns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** HOBBIES | **Phân nhóm:** Thể thao, Vận động & Dã ngoại
+
+## 🗂️ Flashcard
+Endurance::Sức chịu đựng, sự nhẫn nại *(Phát âm: /ɪnˈdjʊərəns/)* ![[endurance.mp3]]<br><br>👪 **Word Family:** Endure (v), Enduring (adj)<br><br>💬 **Ví dụ:** Cycling across the country is an ultimate test of endurance.<br>*(-> Đạp xe xuyên quốc gia là một thử thách tột độ về sức chịu đựng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The ability to keep doing something difficult, unpleasant, or painful for a long time.

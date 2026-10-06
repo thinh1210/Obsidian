@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Taxonomist
 *noun*
 > /tækˈsɒn.ə.mɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Nghiên cứu điểu học & Phân loại học bộ chim
+
+## 🗂️ Flashcard
+Taxonomist::Nhà phân loại học *(Phát âm: /tækˈsɒn.ə.mɪst/)* ![[taxonomist.mp3]]<br><br>👪 **Word Family:** taxonomy (n), taxonomic (adj), taxonomist (n)<br><br>💬 **Ví dụ:** The taxonomist helped identify the mysterious bird found in the forest.<br>*(-> Nhà phân loại học đã giúp xác định con chim bí ẩn được tìm thấy trong rừng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A biologist who groups organisms into categories.

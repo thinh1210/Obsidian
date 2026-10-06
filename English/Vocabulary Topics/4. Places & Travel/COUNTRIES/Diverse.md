@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Diverse
 *Adjective*
 > /daɪˈvɜːrs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Dân cư, Bản sắc & Đa văn hóa
+
+## 🗂️ Flashcard
+Diverse::Đa dạng *(Phát âm: /daɪˈvɜːrs/)* ![[diverse.mp3]]<br><br>👪 **Word Family:** Diversity, Diversify<br><br>💬 **Ví dụ:** New York has a very diverse population.<br>*(-> New York có một dân số rất đa dạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Showing a great deal of variety; very different.

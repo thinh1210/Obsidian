@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Heart
 *n.*
 > /hɑːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SHAPES | **Phân nhóm:** Hình học phẳng 2D cơ bản & Đường nét
+
+## 🗂️ Flashcard
+Heart::Hình trái tim *(Phát âm: /hɑːt/)* ![[heart.mp3]]<br><br>👪 **Word Family:** Heartless (adj)<br><br>💬 **Ví dụ:** She drew a heart on the card.<br>*(-> Cô ấy vẽ một hình trái tim trên tấm thiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A shape that represents love or romance.

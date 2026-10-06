@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Pet
 *noun*
 > /pet/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Sinh tồn, Săn mồi & Công tác bảo tồn
+
+## 🗂️ Flashcard
+Pet::Thú cưng / Chim cảnh *(Phát âm: /pet/)* ![[pet.mp3]]<br><br>👪 **Word Family:** pet (n/v)<br><br>💬 **Ví dụ:** Canaries make wonderful pet birds because of their beautiful singing.<br>*(-> Chim yến yến làm chim cảnh tuyệt vời nhờ tiếng hót líu lo xinh đẹp của chúng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal that is kept in the home as a companion and treated with care.

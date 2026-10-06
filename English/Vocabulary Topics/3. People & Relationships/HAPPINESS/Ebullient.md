@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/HAPPINESS
+  - review/3-People-and-Relationships/HAPPINESS
+---
 # Ebullient
 *adj.*
 > /ɪˈbʊl.i.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Formal | **Chủ đề:** HAPPINESS | **Phân nhóm:** Hân hoan tột cùng, Phấn khích & Thăng hoa
+
+## 🗂️ Flashcard
+Ebullient::Sôi nổi, tràn đầy sinh lực *(Phát âm: /ɪˈbʊl.i.ənt/)* ![[ebullient.mp3]]<br><br>👪 **Word Family:** Ebullience (n)<br><br>💬 **Ví dụ:** She was in an ebullient mood.<br>*(-> Cô ấy đang ở trong một tâm trạng cực kỳ sôi nổi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Cheerful and full of energy.

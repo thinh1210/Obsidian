@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Expense
 *n.*
 > /hɒst/ -> /ɪkˈspens/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Sổ cái, Báo cáo tài chính & Cân đối kế toán
+
+## 🗂️ Flashcard
+Expense::Chi phí, khoản chi tiêu *(Phát âm: /hɒst/ -> /ɪkˈspens/)* ![[expense.mp3]]<br><br>👪 **Word Family:** expensive, expend, expendable<br><br>💬 **Ví dụ:** Traveling is a major expense for my family.<br>*(-> Đi du lịch là một khoản chi phí lớn đối với gia đình tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The money that you spend on something or that you need in order to do something

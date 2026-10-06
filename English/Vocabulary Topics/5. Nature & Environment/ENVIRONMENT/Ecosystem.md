@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Ecosystem
 *n.*
 > /ˈiːkəʊsɪstəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Ecosystem::Hệ sinh thái *(Phát âm: /ˈiːkəʊsɪstəm/)* ![[ecosystem.mp3]]<br><br>👪 **Word Family:** ecological (adj), ecology (n)<br><br>💬 **Ví dụ:** Rainforests host a highly diverse ecosystem.<br>*(-> Rừng mưa nhiệt đới chứa một hệ sinh thái vô cùng đa dạng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A biological community of interacting organisms and their physical environment.

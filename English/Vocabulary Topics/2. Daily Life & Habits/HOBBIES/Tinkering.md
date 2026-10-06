@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Tinkering
 *noun*
 > /ˈtɪŋkərɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Tinkering::Sự mày mò, sửa chữa vặt *(Phát âm: /ˈtɪŋkərɪŋ/)* ![[tinkering.mp3]]<br><br>👪 **Word Family:** Tinker (v/n)<br><br>💬 **Ví dụ:** He enjoys tinkering with old radios in his basement.<br>*(-> Anh ấy thích mày mò những chiếc radio cũ trong tầng hầm của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Attempting to repair or improve something in a casual or desultory way.

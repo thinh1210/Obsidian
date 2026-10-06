@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Yard
 *n.*
 > /jɑːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Nhà ở, Căn hộ, Mặt bằng & Cải tạo không gian
+
+## 🗂️ Flashcard
+Yard::Sân vườn *(Phát âm: /jɑːd/)* ![[yard.mp3]]<br><br>👪 **Word Family:** backyard (n)<br><br>💬 **Ví dụ:** The kids love playing football in the back yard.<br>*(-> Lũ trẻ thích chơi bóng đá ở sân sau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** An area of land immediately adjacent to a building or a group of buildings, often enclosed.

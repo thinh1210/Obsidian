@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Plagiarize
 *v.*
 > /ˈpleɪdʒəraɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Phê bình nghệ thuật, Thẩm mỹ & Trường phái tiên phong
+
+## 🗂️ Flashcard
+Plagiarize::Đạo văn, đạo nhái *(Phát âm: /ˈpleɪdʒəraɪz/)* ![[plagiarize.mp3]]<br><br>👪 **Word Family:** plagiarism, plagiarist<br><br>💬 **Ví dụ:** He was accused of plagiarizing a song from an obscure artist.<br>*(-> Anh ấy bị cáo buộc đạo nhạc của một nghệ sĩ ít tiếng tăm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Take the work or an idea of someone else and pass it off as one's own.

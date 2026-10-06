@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Graduate
 *v./n.*
 > /ˈɡrædʒ.u.eɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Giảng đường, Chương trình học & Học bổng học thuật
+
+## 🗂️ Flashcard
+Graduate::Tốt nghiệp, hoàn thành chương trình đào tạo; người đã nhận bằng đại học *(Phát âm: /ˈɡrædʒ.u.eɪt/)* ![[graduate.mp3]]<br><br>👪 **Word Family:** graduation (n), postgraduate (n/adj)<br><br>💬 **Ví dụ:** My cousin will graduate from medical school next month and begin his internship.<br>*(-> Em họ tôi sẽ tốt nghiệp trường y vào tháng tới và bắt đầu kỳ thực tập.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To successfully complete an academic degree or course of study; a person who has achieved a degree.

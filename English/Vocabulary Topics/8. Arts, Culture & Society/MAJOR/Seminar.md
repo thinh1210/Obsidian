@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MAJOR
+  - review/8-Arts-Culture-and-Society/MAJOR
+---
 # Seminar
 *n.*
 > /ˈsem.ɪ.nɑːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** MAJOR | **Phân nhóm:** Thực tập, Học bổng, Luận văn & Bảo vệ luận án
+
+## 🗂️ Flashcard
+Seminar::Hội thảo nhỏ, buổi thảo luận học thuật *(Phát âm: /ˈsem.ɪ.nɑːr/)* ![[seminar.mp3]]<br><br>👪 **Word Family:** seminar (n), seminary (n)<br><br>💬 **Ví dụ:** We have a weekly seminar on contemporary art.<br>*(-> Chúng tôi có một buổi hội thảo hàng tuần về nghệ thuật đương đại.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small class at university in which a teacher and students discuss a topic.

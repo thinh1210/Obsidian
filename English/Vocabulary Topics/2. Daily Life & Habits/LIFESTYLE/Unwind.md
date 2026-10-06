@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Unwind
 *v.*
 > /ʌnˈwaɪnd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Rèn luyện thể chất, Năng lượng & Thư giãn
+
+## 🗂️ Flashcard
+Unwind::Thư giãn (sau căng thẳng) *(Phát âm: /ʌnˈwaɪnd/)* ![[unwind.mp3]]<br><br>👪 **Word Family:** unwound (v. past)<br><br>💬 **Ví dụ:** Music helps me unwind.<br>*(-> Âm nhạc giúp tôi thư giãn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relax after a period of work or tension.

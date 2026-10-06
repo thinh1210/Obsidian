@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Siblings
 *noun*
 > /ˈsɪb.lɪŋz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Nuôi dạy, Gia đình & Trách nhiệm
+
+## 🗂️ Flashcard
+Siblings::Anh chị em ruột *(Phát âm: /ˈsɪb.lɪŋz/)* ![[siblings.mp3]]<br><br>👪 **Word Family:** Sibling (n)<br><br>💬 **Ví dụ:** I have two siblings.<br>*(-> Tôi có hai anh chị em ruột.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Brothers and sisters.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHAEOLOGY
+  - review/8-Arts-Culture-and-Society/ARCHAEOLOGY
+---
 # Siltation
 *noun*
 > /sɪlˈteɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHAEOLOGY | **Phân nhóm:** Niên đại học, Địa tầng & Hài cốt cổ sinh
+
+## 🗂️ Flashcard
+Siltation::Sự bồi tích bùn cát, sự sa bồi *(Phát âm: /sɪlˈteɪʃn/)* ![[siltation.mp3]]<br><br>👪 **Word Family:** silt (noun/verb)<br><br>💬 **Ví dụ:** Siltation is a major problem for local dams.<br>*(-> Sự sa bồi là một vấn đề lớn đối với các đập nước địa phương.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The accumulation of silt or mud on the bed of a river, lake, or harbor

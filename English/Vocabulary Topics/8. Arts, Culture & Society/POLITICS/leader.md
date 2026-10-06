@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # leader
 *noun*
 > /ˈliːdər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Quyền lực, Hệ tư tưởng & Cơ chế chính trị
+
+## 🗂️ Flashcard
+leader::Nhà lãnh đạo, người dẫn đầu *(Phát âm: /ˈliːdər/)* ![[leader.mp3]]<br><br>👪 **Word Family:** lead (v), leadership (n)<br><br>💬 **Ví dụ:** She is a natural leader in our community group.<br>*(-> Cô ấy là một nhà lãnh đạo bẩm sinh trong nhóm cộng đồng của chúng tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The person who leads or commands a group, organization, or country.

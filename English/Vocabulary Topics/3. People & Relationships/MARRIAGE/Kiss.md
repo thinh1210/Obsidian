@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Kiss
 *verb*
 > /kɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MARRIAGE | **Phân nhóm:** Tình yêu, Lời cầu hôn & Đính ước
+
+## 🗂️ Flashcard
+Kiss::Hôn *(Phát âm: /kɪs/)* ![[kiss.mp3]]<br><br>👪 **Word Family:** Kisses (plural)<br><br>💬 **Ví dụ:** They kissed each other.<br>*(-> Họ hôn nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Touch with the lips as a sign of love or greeting.

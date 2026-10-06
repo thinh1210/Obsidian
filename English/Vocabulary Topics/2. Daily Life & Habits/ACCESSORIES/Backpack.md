@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Backpack
 *noun*
 > /ˈbækpæk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
+
+## 🗂️ Flashcard
+Backpack::Ba lô *(Phát âm: /ˈbækpæk/)* ![[backpack.mp3]]<br><br>👪 **Word Family:** Backpacker (n)<br><br>💬 **Ví dụ:** He packed his clothes into a large backpack.<br>*(-> Anh ấy xếp quần áo vào một chiếc ba lô lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bag carried on the back, usually with two straps.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+  - review/8-Arts-Culture-and-Society/HISTORICAL-EVENTS
+---
 # Defeat
 *verb*
 > /dɪˈfiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORICAL EVENTS | **Phân nhóm:** Chiến tranh, Chiến trường, Bao vây & Xung đột vũ trang
+
+## 🗂️ Flashcard
+Defeat::Đánh bại *(Phát âm: /dɪˈfiːt/)* ![[defeat.mp3]]<br><br>👪 **Word Family:** defeatism (noun), defeatist (noun/adj), undefeated (adj)<br><br>💬 **Ví dụ:** Our school chess team managed to defeat the reigning champions.<br>*(-> Đội cờ vua trường chúng tôi đã xuất sắc đánh bại các nhà đương kim vô địch.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Win a victory over someone in a battle, game, or other contest; prevent from achieving an aim.

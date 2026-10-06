@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Tourist trap
 *Noun*
 > /ˈtʊə.rɪst ˌtræp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Điểm đến, Khách sạn & Danh lam thắng cảnh
+
+## 🗂️ Flashcard
+Tourist trap::Nơi bòn tiền du khách, điểm du lịch đắt đỏ *(Phát âm: /ˈtʊə.rɪst ˌtræp/)* ![[tourist_trap.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** The restaurant was just a tourist trap with overpriced, mediocre food.<br>*(-> Nhà hàng đó chỉ là một nơi bòn rút tiền du khách với đồ ăn đắt đỏ và tệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A crowded place that provides entertainment and things to buy for tourists, often at high prices.

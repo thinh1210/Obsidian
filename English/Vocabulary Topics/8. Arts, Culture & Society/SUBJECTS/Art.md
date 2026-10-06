@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Art
 *noun*
 > /ɑːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SUBJECTS | **Phân nhóm:** Khoa học xã hội, Nhân văn & Nghệ thuật biểu đạt
+
+## 🗂️ Flashcard
+Art::Mỹ thuật, nghệ thuật *(Phát âm: /ɑːt/)* ![[art.mp3]]<br><br>👪 **Word Family:** artist, artistic<br><br>💬 **Ví dụ:** I like painting in my art class.<br>*(-> Tôi thích vẽ tranh trong lớp mỹ thuật của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The expression of human creative skill and imagination, typically in a visual form.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CITY
+  - review/4-Places-and-Travel/CITY
+---
 # Outskirts
 *n.*
 > /ˈaʊtskɜːts/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CITY | **Phân nhóm:** Khu vực & Quy hoạch đô thị
+
+## 🗂️ Flashcard
+Outskirts::Vùng ven, ngoại ô *(Phát âm: /ˈaʊtskɜːts/)* ![[outskirts.mp3]]<br><br>👪 **Word Family:** skirt (n)<br><br>💬 **Ví dụ:** They live on the outskirts of Paris.<br>*(-> Họ sống ở vùng ven Paris.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The parts of a town or city that are furthest from the centre.

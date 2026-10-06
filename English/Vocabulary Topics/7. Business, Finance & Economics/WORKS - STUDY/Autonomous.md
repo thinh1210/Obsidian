@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/WORKS-STUDY
+  - review/7-Business-Finance-and-Economics/WORKS-STUDY
+---
 # Autonomous
 *adj.*
 > /ɔːˈtɒn.ə.məs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WORKS - STUDY | **Phân nhóm:** Kỹ năng, Tinh thần kiên trì & Hiệu suất làm việc
+
+## 🗂️ Flashcard
+Autonomous::Tự chủ, độc lập *(Phát âm: /ɔːˈtɒn.ə.məs/)* ![[autonomous.mp3]]<br><br>👪 **Word Family:** autonomy, autonomously<br><br>💬 **Ví dụ:** Teachers encourage students to be autonomous learners.<br>*(-> Giáo viên khuyến khích học sinh trở thành những người học tự chủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Acting independently or having the freedom to do so

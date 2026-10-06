@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Doctor
 *n*
 > /ˈdɒktər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh viện, Y bác sĩ & Cơ sở điều trị y tế
+
+## 🗂️ Flashcard
+Doctor::Bác sĩ *(Phát âm: /ˈdɒktər/)* ![[doctor.mp3]]<br><br>👪 **Word Family:** doctorate (n), doctoral (adj)<br><br>💬 **Ví dụ:** You should see a doctor if your symptoms get worse.<br>*(-> Bạn nên đi khám bác sĩ nếu các triệu chứng trở nên tồi tệ hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who has been trained in science and medicine and is qualified to treat people who are ill.

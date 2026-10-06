@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+  - review/7-Business-Finance-and-Economics/MONEY-MANAGEMENT
+---
 # Charge
 *Verb*
 > /tʃɑːdʒ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY MANAGEMENT | **Phân nhóm:** Quản lý chi tiêu cá nhân, Tài khoản & Tiết kiệm
+
+## 🗂️ Flashcard
+Charge::Tính phí, đòi trả tiền (yêu cầu một số tiền làm giá cho một dịch vụ hoặc món đồ mua) *(Phát âm: /tʃɑːdʒ/)* ![[charge.mp3]]<br><br>👪 **Word Family:** Noun: charge (phí, nhiệm vụ)<br><br>💬 **Ví dụ:** The hotel charges $20 per day for parking.<br>*(-> Khách sạn tính phí 20 đô la mỗi ngày cho việc đỗ xe.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To demand an amount of money as a price for a service or a purchase.

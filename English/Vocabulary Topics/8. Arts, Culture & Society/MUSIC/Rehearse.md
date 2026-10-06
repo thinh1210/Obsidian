@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Rehearse
 *v.*
 > /rɪˈhɜːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MUSIC | **Phân nhóm:** Giai điệu, Tiết tấu, Lời bài hát & Album
+
+## 🗂️ Flashcard
+Rehearse::Tập dượt, tổng duyệt (sân khấu) *(Phát âm: /rɪˈhɜːs/)* ![[rehearse.mp3]]<br><br>👪 **Word Family:** rehearsal (n)<br><br>💬 **Ví dụ:** The musicians need to rehearse the difficult parts together.<br>*(-> Các nhạc sĩ cần tập dượt các phần khó cùng nhau.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Practice (a play, piece of music, or other work) for later public performance.

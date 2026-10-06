@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LANGUAGES
+  - review/8-Arts-Culture-and-Society/LANGUAGES
+---
 # Practice
 *v./n.*
 > /ˈpræktɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** LANGUAGES | **Phân nhóm:** Giao tiếp, Phát âm & Hội thoại thực tế
+
+## 🗂️ Flashcard
+Practice::Luyện tập, thực hành *(Phát âm: /ˈpræktɪs/)* ![[practice.mp3]]<br><br>👪 **Word Family:** practical, practitioner<br><br>💬 **Ví dụ:** You should practice English every day.<br>*(-> Bạn nên luyện tập tiếng Anh mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To perform an activity or exercise a skill repeatedly or regularly in order to improve

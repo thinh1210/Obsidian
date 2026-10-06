@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Negotiate
 *v.*
 > /nɪˈɡəʊʃieɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Môi giới nhà đất, Hợp đồng thuê & Chủ nhà - Khách thuê
+
+## 🗂️ Flashcard
+Negotiate::Thương lượng, đàm phán *(Phát âm: /nɪˈɡəʊʃieɪt/)* ![[negotiate.mp3]]<br><br>👪 **Word Family:** negotiation (n), negotiator (n), negotiable (adj)<br><br>💬 **Ví dụ:** We managed to negotiate a lower rent with the landlord.<br>*(-> Chúng tôi đã thương lượng được mức giá thuê thấp hơn với chủ nhà.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Try to reach an agreement or compromise by discussion with others.

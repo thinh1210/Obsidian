@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Quantum
 *adj*
 > /ˈkwɒn.təm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Science/Tech | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** Trí tuệ nhân tạo, Tương lai số & Điện toán lượng tử
+
+## 🗂️ Flashcard
+Quantum::Lượng tử, (bước nhảy) vọt *(Phát âm: /ˈkwɒn.təm/)* ![[quantum.mp3]]<br><br>👪 **Word Family:** Quantize (v)<br><br>💬 **Ví dụ:** It feels like our tech just took a quantum leap forward.<br>*(-> Có cảm giác như công nghệ của chúng ta vừa có một bước nhảy vọt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to quantum mechanics (very small particles) or representing a huge leap.

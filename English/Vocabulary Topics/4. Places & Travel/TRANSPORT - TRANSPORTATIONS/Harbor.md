@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Harbor
 *n.*
 > /ˈhɑːrbər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Cơ sở hạ tầng & Xu hướng giao thông tương lai
+
+## 🗂️ Flashcard
+Harbor::Khu vực neo đậu trú ẩn an toàn cho tàu thuyền cập bến bốc dỡ hàng *(Phát âm: /ˈhɑːrbər/)* ![[harbor.mp3]]<br><br>👪 **Word Family:** harbor (v)<br><br>💬 **Ví dụ:** Dozens of luxury yachts were moored peacefully inside the harbor.<br>*(-> Hàng chục chiếc du thuyền sang trọng neo đậu bình yên trong bến cảng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A place on the coast where vessels may find shelter, especially one protected from rough water by piers or jetties.

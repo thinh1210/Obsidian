@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Tactics
 *n.*
 > /ˈtæk.tɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work | **Chủ đề:** SPORTS | **Phân nhóm:** Bộ môn thể thao, Chiến thuật thi đấu & Dự bị
+
+## 🗂️ Flashcard
+Tactics::Chiến thuật *(Phát âm: /ˈtæk.tɪks/)* ![[tactics.mp3]]<br><br>👪 **Word Family:** tactician, tactical, tactically<br><br>💬 **Ví dụ:** The manager discussed the team's defensive tactics.<br>*(-> Quản lý đã thảo luận về chiến thuật phòng ngự của đội.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An action or strategy carefully planned to achieve a specific end.

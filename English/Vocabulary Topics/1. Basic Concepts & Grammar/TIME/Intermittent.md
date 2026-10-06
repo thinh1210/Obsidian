@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Intermittent
 *adj.*
 > /ˌɪntəˈmɪtənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Tần suất, Tính kéo dài & Tạm thời
+
+## 🗂️ Flashcard
+Intermittent::Gián đoạn, từng cơn *(Phát âm: /ˌɪntəˈmɪtənt/)* ![[intermittent.mp3]]<br><br>👪 **Word Family:** intermittently (adv.)<br><br>💬 **Ví dụ:** Intermittent rain is expected.<br>*(-> Dự báo có mưa gián đoạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring at irregular intervals; not continuous or steady

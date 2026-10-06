@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Commitment
 *noun*
 > /kəˈmɪtmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** MARRIAGE | **Phân nhóm:** Đời sống hôn nhân, Cam kết & Vợ chồng
+
+## 🗂️ Flashcard
+Commitment::Sự cam kết *(Phát âm: /kəˈmɪtmənt/)* ![[commitment.mp3]]<br><br>👪 **Word Family:** Commit (verb)<br><br>💬 **Ví dụ:** Marriage is a big commitment.<br>*(-> Hôn nhân là một cam kết lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An engagement or obligation that restricts freedom of action.

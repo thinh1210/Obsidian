@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Headache
 *n*
 > /ˈhedeɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Bệnh lý, Triệu chứng thường gặp & Chấn thương
+
+## 🗂️ Flashcard
+Headache::Đau đầu *(Phát âm: /ˈhedeɪk/)* ![[headache.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** I have a terrible headache from staring at the computer screen for too long.<br>*(-> Tôi bị đau đầu khủng khiếp do nhìn vào màn hình máy tính quá lâu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A continuous pain in the head.

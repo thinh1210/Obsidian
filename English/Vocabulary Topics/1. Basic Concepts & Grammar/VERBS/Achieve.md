@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Achieve
 *Verb*
 > /əˈtʃiːv/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Achieve::Đạt được *(Phát âm: /əˈtʃiːv/)* ![[achieve.mp3]]<br><br>👪 **Word Family:** Achievement (n), Achievable (adj)<br><br>💬 **Ví dụ:** I achieved my goal.<br>*(-> Tôi đã đạt mục tiêu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To succeed in finishing something or reaching an aim.

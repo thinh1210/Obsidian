@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Climate
 *noun*
 > /ˈclaɪmət/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Climate::Khí hậu *(Phát âm: /ˈclaɪmət/)* ![[climate.mp3]]<br><br>👪 **Word Family:** Climatic (adj), climatology (noun)<br><br>💬 **Ví dụ:** The country has a warm, tropical climate.<br>*(-> Đất nước này có khí hậu nhiệt đới ấm áp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The general weather conditions of a region over a long period

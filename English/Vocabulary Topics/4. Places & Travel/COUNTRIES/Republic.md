@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/COUNTRIES
+  - review/4-Places-and-Travel/COUNTRIES
+---
 # Republic
 *Noun*
 > /rɪˈpʌblɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** COUNTRIES | **Phân nhóm:** Thể chế, Nhà nước & Chủ quyền
+
+## 🗂️ Flashcard
+Republic::Cộng hòa *(Phát âm: /rɪˈpʌblɪk/)* ![[republic.mp3]]<br><br>👪 **Word Family:** Republican<br><br>💬 **Ví dụ:** Vietnam is a socialist republic.<br>*(-> Việt Nam là một nước cộng hòa xã hội chủ nghĩa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A state in which supreme power is held by the people and their elected representatives.

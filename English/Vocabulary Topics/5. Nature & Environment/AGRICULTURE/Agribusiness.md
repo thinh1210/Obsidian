@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/AGRICULTURE
+  - review/5-Nature-and-Environment/AGRICULTURE
+---
 # Agribusiness
 *n.*
 > /ˈæɡ.rɪˌbɪz.nɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic/Work | **Chủ đề:** AGRICULTURE | **Phân nhóm:** Nông nghiệp bền vững & Hệ thống sinh thái
+
+## 🗂️ Flashcard
+Agribusiness::Ngành công nghiệp nông nghiệp (kinh doanh nông nghiệp) *(Phát âm: /ˈæɡ.rɪˌbɪz.nɪs/)* ![[agribusiness.mp3]]<br><br>👪 **Word Family:** agribusinessman (n)<br><br>💬 **Ví dụ:** She pursued a career in agribusiness after studying agricultural science.<br>*(-> Cô ấy đã theo đuổi sự nghiệp trong ngành kinh doanh nông nghiệp sau khi học khoa học nông nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Agriculture conducted on commercial principles, especially using advanced technology.

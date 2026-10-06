@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+  - review/1-Basic-Concepts-and-Grammar/RATING-QUALITIES
+---
 # Terrible
 *adj*
 > /ˈter.ə.bəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** RATING - QUALITIES | **Phân nhóm:** Kinh khủng, Tồi tệ & Đáng lên án
+
+## 🗂️ Flashcard
+Terrible::Kinh khủng, rất tồi tệ *(Phát âm: /ˈter.ə.bəl/)* ![[terrible.mp3]]<br><br>👪 **Word Family:** Terribly (adv)<br><br>💬 **Ví dụ:** The food tasted terrible.<br>*(-> Thức ăn có vị rất kinh khủng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Extremely bad or serious.

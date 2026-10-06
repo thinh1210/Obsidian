@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Oak
 *n.*
 > /əʊk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Oak::Cây sồi, loài cây gỗ lớn sống lâu năm cho gỗ cứng, biểu tượng của sự kiên cường *(Phát âm: /əʊk/)* ![[oak.mp3]]<br><br>👪 **Word Family:** oaken (adj)<br><br>💬 **Ví dụ:** A majestic ancient oak provides ample shade across the village green.<br>*(-> Một cây sồi cổ thụ uy nghiêm tỏa bóng mát rượi bao trùm cả bãi cỏ của ngôi làng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, strong tree that produces acorns and is known for its hard, durable wood.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Cyan
 *n, adj*
 > /ˈsaɪ.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Technical | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái lạnh & Biển trời
+
+## 🗂️ Flashcard
+Cyan::Màu lục lam, màu xanh lơ *(Phát âm: /ˈsaɪ.ən/)* ![[cyan.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** We need to replace the cyan ink cartridge in the printer.<br>*(-> Chúng ta cần thay hộp mực màu xanh lơ trong máy in.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A greenish-blue color, used in printing.

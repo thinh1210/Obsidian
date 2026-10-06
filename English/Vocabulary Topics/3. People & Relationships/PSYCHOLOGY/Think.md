@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Think
 *verb*
 > /θɪŋk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Não bộ, Nhận thức & Trí nhớ
+
+## 🗂️ Flashcard
+Think::Suy nghĩ *(Phát âm: /θɪŋk/)* ![[think.mp3]]<br><br>👪 **Word Family:** thought (noun)<br><br>💬 **Ví dụ:** Let me think.<br>*(-> Để tôi nghĩ đã.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To have a particular opinion, belief, or idea.

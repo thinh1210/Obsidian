@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Describe
 *Verb*
 > /dɪˈskraɪb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** VERBS | **Phân nhóm:** Tư duy, Nhận thức & Khám phá
+
+## 🗂️ Flashcard
+Describe::Miêu tả *(Phát âm: /dɪˈskraɪb/)* ![[describe.mp3]]<br><br>👪 **Word Family:** Description (n), Descriptive (adj)<br><br>💬 **Ví dụ:** Describe the man.<br>*(-> Miêu tả người đàn ông đó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To say or write what someone or something is like.

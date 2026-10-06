@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Frustrated
 *adj*
 > /ˈfrʌstreɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Tức giận, Phẫn nộ & Bực bội
+
+## 🗂️ Flashcard
+Frustrated::Nản lòng, bực dọc *(Phát âm: /ˈfrʌstreɪtɪd/)* ![[frustrated.mp3]]<br><br>👪 **Word Family:** frustration (n), frustrating (adj)<br><br>💬 **Ví dụ:** I get frustrated when things go wrong.<br>*(-> Tôi bực dọc khi mọi chuyện không như ý.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Feeling or expressing distress and annoyance.

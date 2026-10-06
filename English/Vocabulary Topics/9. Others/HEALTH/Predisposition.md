@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Predisposition
 *n*
 > /ˌpriːdɪspəˈzɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Predisposition::Khuynh hướng dễ mắc bệnh (di truyền), tố bẩm dễ mắc bệnh *(Phát âm: /ˌpriːdɪspəˈzɪʃn/)* ![[predisposition.mp3]]<br><br>👪 **Word Family:** predispose (v), predisposed (adj)<br><br>💬 **Ví dụ:** A genetic predisposition to diabetes does not mean you will definitely develop the disease.<br>*(-> Khuynh hướng di truyền dễ mắc tiểu đường không có nghĩa là bạn chắc chắn sẽ mắc bệnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A liability or tendency to suffer from a particular condition or hold a particular attitude.

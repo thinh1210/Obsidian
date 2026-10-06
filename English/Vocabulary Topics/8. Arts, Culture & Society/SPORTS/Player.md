@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Player
 *n.*
 > /ˈpleɪ.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Player::Người chơi, cầu thủ *(Phát âm: /ˈpleɪ.ər/)* ![[player.mp3]]<br><br>👪 **Word Family:** play, playgroup, playful<br><br>💬 **Ví dụ:** Ronaldo is a famous football player.<br>*(-> Ronaldo là một cầu thủ bóng đá nổi tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who takes part in a game or sport.

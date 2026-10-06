@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Extracurricular
 *adjective*
 > /ˌekstrəkəˈrɪkjələ(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Văn hóa học đường, Tinh thần trường lớp & Hòa nhập
+
+## 🗂️ Flashcard
+Extracurricular::Ngoại khóa *(Phát âm: /ˌekstrəkəˈrɪkjələ(r)/)* ![[extracurricular.mp3]]<br><br>👪 **Word Family:** curriculum (n), curricular (adj)<br><br>💬 **Ví dụ:** She participates in many extracurricular activities, like sports and drama.<br>*(-> Cô ấy tham gia nhiều hoạt động ngoại khóa, như thể thao và kịch nghệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** (Of an activity at a school or college) pursued in addition to the normal course of study.

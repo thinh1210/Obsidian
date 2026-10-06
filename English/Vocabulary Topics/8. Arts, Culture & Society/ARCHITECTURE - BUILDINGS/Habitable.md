@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Habitable
 *adj.*
 > /ˈhæbɪtəbl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Habitable::Có thể ở được, thích hợp để ở *(Phát âm: /ˈhæbɪtəbl/)* ![[habitable.mp3]]<br><br>👪 **Word Family:** habitability, habitant<br><br>💬 **Ví dụ:** After years of neglect, the house is barely habitable.<br>*(-> Sau nhiều năm bị bỏ hoang, ngôi nhà hầu như không thể ở được.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Suitable or good enough for people to live in

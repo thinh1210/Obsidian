@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/SCIENCE
+  - review/6-Science-and-Technology/SCIENCE
+---
 # Lab
 *noun*
 > /læb/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Academic | **Chủ đề:** SCIENCE | **Phân nhóm:** Phương pháp khoa học, Thí nghiệm & Giả thuyết
+
+## 🗂️ Flashcard
+Lab::Phòng thí nghiệm (viết tắt của laboratory) *(Phát âm: /læb/)* ![[lab.mp3]]<br><br>👪 **Word Family:** laboratory (n), lab technician (n phrase)<br><br>💬 **Ví dụ:** We have lab class every Friday afternoon.<br>*(-> Chúng tôi có giờ thực hành mỗi chiều thứ Sáu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Short for laboratory; a room equipped for scientific work.

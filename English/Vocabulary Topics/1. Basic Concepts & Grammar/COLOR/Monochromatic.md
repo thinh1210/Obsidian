@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Monochromatic
 *adj*
 > /ˌmɑː.noʊ.kroʊˈmæt̬.ɪk/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái trung tính & Đặc tính ánh sáng
+
+## 🗂️ Flashcard
+Monochromatic::Đơn sắc *(Phát âm: /ˌmɑː.noʊ.kroʊˈmæt̬.ɪk/)* ![[monochromatic.mp3]]<br><br>👪 **Word Family:** monochrome (n)<br><br>💬 **Ví dụ:** She likes to dress in monochromatic outfits.<br>*(-> Cô ấy thích mặc trang phục đơn sắc.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Containing or using only one color.

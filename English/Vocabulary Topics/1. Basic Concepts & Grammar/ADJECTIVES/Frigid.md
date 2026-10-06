@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Frigid
 *adj.*
 > /ˈfrɪdʒɪd/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Frigid::Lạnh giá *(Phát âm: /ˈfrɪdʒɪd/)* ![[frigid.mp3]]<br><br>👪 **Word Family:** frigidity<br><br>💬 **Ví dụ:** Frigid air.<br>*(-> Không khí lạnh giá.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Very cold in temperature

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Build
 *v., n.*
 > /bɪld/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Build::Xây cất nhà cửa, công trình; kiến tạo mối quan hệ hoặc danh tiếng *(Phát âm: /bɪld/)* ![[build.mp3]]<br><br>👪 **Word Family:** builder (n), building (n)<br><br>💬 **Ví dụ:** The local charity plans to build three new community classrooms for underprivileged children.<br>*(-> Tổ chức từ thiện địa phương lên kế hoạch xây dựng ba phòng học cộng đồng mới cho trẻ em có hoàn cảnh khó khăn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make something by putting bricks, materials, or parts together; to develop or establish gradually.

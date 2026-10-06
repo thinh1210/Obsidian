@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Soporific
 *adj*
 > /ˌsɒpəˈrɪfɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** HEALTH | **Phân nhóm:** Dược phẩm, Vắc-xin & Liệu trình phục hồi
+
+## 🗂️ Flashcard
+Soporific::Gây buồn ngủ *(Phát âm: /ˌsɒpəˈrɪfɪk/)* ![[soporific.mp3]]<br><br>👪 **Word Family:** soporifically (adv)<br><br>💬 **Ví dụ:** The medicine had a strong soporific effect, so I slept for ten hours.<br>*(-> Thuốc có tác dụng gây buồn ngủ mạnh, nên tôi đã ngủ suốt mười tiếng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Tending to induce drowsiness or sleep.

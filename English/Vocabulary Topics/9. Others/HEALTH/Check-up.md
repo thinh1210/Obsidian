@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/HEALTH
+  - review/9-Others/HEALTH
+---
 # Check-up
 *n.*
 > /ˈtʃek.ʌp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HEALTH | **Phân nhóm:** Sức khỏe thể chất, Vệ sinh phòng ngừa & Dịch tễ
+
+## 🗂️ Flashcard
+Check-up::Cuộc kiểm tra y tế định kỳ tổng quát sức khỏe *(Phát âm: /ˈtʃek.ʌp/)* ![[check_up.mp3]]<br><br>👪 **Word Family:** check (v)<br><br>💬 **Ví dụ:** Doctors recommend having an annual medical check-up to catch potential issues early.<br>*(-> Bác sĩ khuyến cáo nên đi khám sức khỏe hàng năm để phát hiện sớm các vấn đề tiềm ẩn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A thorough medical examination by a doctor to ensure that a person is healthy.

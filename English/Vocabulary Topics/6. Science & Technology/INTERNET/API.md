@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INTERNET
+  - review/6-Science-and-Technology/INTERNET
+---
 # API
 *noun*
 > /ˌeɪ.piːˈaɪ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** INTERNET | **Phân nhóm:** Hạ tầng kỹ thuật, Bộ nhớ đệm & Dữ liệu web
+
+## 🗂️ Flashcard
+API::Giao diện lập trình ứng dụng (API) *(Phát âm: /ˌeɪ.piːˈaɪ/)* ![[api.mp3]]<br><br>👪 **Word Family:** API (n), interface (n), endpoint (n)<br><br>💬 **Ví dụ:** The weather app uses an API to fetch real-time data from a meteorological service.<br>*(-> Ứng dụng thời tiết dùng API để lấy dữ liệu theo thời gian thực từ dịch vụ khí tượng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Application Programming Interface; a set of protocols and tools that allows different software applications to communicate with each other.

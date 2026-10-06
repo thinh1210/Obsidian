@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Redundancy
 *n.*
 > /rɪˈdʌn.dən.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Redundancy::Sự dư thừa nhân sự (do thu hẹp quy mô) *(Phát âm: /rɪˈdʌn.dən.si/)* ![[redundancy.mp3]]<br><br>👪 **Word Family:** redundant<br><br>💬 **Ví dụ:** The merger led to many redundancies in administrative roles.<br>*(-> Việc sáp nhập đã dẫn đến sự dư thừa lớn trong các vai trò hành chính.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The state of being no longer needed, leading to layout of workforce

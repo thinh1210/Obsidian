@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Media
 *noun*
 > /ˈmiːdiə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
+
+## 🗂️ Flashcard
+Media::Truyền thông *(Phát âm: /ˈmiːdiə/)* ![[media.mp3]]<br><br>👪 **Word Family:** medium (noun)<br><br>💬 **Ví dụ:** The news was widely reported in the media.<br>*(-> Tin tức này đã được đưa tin rộng rãi trên các phương tiện truyền thông.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The main means of mass communication (broadcasting, publishing, and the internet) regarded collectively.

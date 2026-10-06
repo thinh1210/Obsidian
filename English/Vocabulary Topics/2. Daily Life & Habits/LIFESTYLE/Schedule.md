@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LIFESTYLE
+  - review/2-Daily-Life-and-Habits/LIFESTYLE
+---
 # Schedule
 *n., v.*
 > /ˈʃɛdjuːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work | **Chủ đề:** LIFESTYLE | **Phân nhóm:** Công việc, Quản lý thời gian & Căng thẳng
+
+## 🗂️ Flashcard
+Schedule::Lịch trình, lên lịch *(Phát âm: /ˈʃɛdjuːl/)* ![[schedule.mp3]]<br><br>👪 **Word Family:** scheduled (adj.)<br><br>💬 **Ví dụ:** I have a tight schedule.<br>*(-> Tôi có một lịch trình dày đặc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A plan for carrying out a process or procedure.

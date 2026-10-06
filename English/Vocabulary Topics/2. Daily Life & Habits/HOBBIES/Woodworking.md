@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Woodworking
 *noun*
 > /ˈwʊdˌwɜː.kɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Woodworking::Nghề mộc *(Phát âm: /ˈwʊdˌwɜː.kɪŋ/)* ![[woodworking.mp3]]<br><br>👪 **Word Family:** Woodworker (n)<br><br>💬 **Ví dụ:** He built a table in his woodworking class.<br>*(-> Anh ấy đã đóng một cái bàn trong lớp học nghề mộc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The activity or skill of making things from wood.

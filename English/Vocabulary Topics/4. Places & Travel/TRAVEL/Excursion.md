@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Excursion
 *noun*
 > /ɪkˈskɜː.ʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** TRAVEL | **Phân nhóm:** Hành trình, Phong cách xê dịch & Cảm nhận
+
+## 🗂️ Flashcard
+Excursion::Chuyến tham quan *(Phát âm: /ɪkˈskɜː.ʃən/)* ![[excursion.mp3]]<br><br>👪 **Word Family:** Excursions, Excursionist<br><br>💬 **Ví dụ:** We booked an excursion to the island.<br>*(-> Chúng tôi đã đặt một chuyến tham quan đến hòn đảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A short journey usually made for pleasure

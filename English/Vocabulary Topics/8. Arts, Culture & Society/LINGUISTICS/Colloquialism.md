@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LINGUISTICS
+  - review/8-Arts-Culture-and-Society/LINGUISTICS
+---
 # Colloquialism
 *noun*
 > /kəˈləʊ.kwi.ə.lɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** LINGUISTICS | **Phân nhóm:** Từ vựng, Ngữ nghĩa, Thành ngữ & Diễn ngôn
+
+## 🗂️ Flashcard
+Colloquialism::khẩu ngữ, từ ngữ thông tục/thường đàm *(Phát âm: /kəˈləʊ.kwi.ə.lɪ.zəm/)* ![[colloquialism.mp3]]<br><br>👪 **Word Family:** colloquial (adj), colloquially (adv)<br><br>💬 **Ví dụ:** In academic writing, you should avoid colloquialisms like "kids" or "boss".<br>*(-> Trong văn phong học thuật, bạn nên tránh các khẩu ngữ như "kids" (trẻ con) hay "boss" (sếp).)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** an informal word or phrase that is more common in conversation than in formal speech or writing

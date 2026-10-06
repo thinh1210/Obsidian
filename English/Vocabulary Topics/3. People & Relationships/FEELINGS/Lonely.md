@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Lonely
 *adj*
 > /ˈloʊnli/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Buồn bã, Thất vọng & Cô đơn
+
+## 🗂️ Flashcard
+Lonely::Cô đơn *(Phát âm: /ˈloʊnli/)* ![[lonely.mp3]]<br><br>👪 **Word Family:** loneliness (n)<br><br>💬 **Ví dụ:** He felt very lonely in the big city.<br>*(-> Anh ấy cảm thấy rất cô đơn ở thành phố lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Sad because one has no friends or company.

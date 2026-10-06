@@ -1,0 +1,219 @@
+/* ========================================================
+   SPACED REPETITION BEAUTIFY - PREMIUM UI ENHANCEMENTS
+   ======================================================== */
+
+/* 1. MODAL CONTAINER & BACKDROP */
+.modal#sr-modal-view {
+  border-radius: 20px !important;
+  border: 1px solid var(--background-modifier-border) !important;
+  box-shadow: 0 24px 64px rgba(0, 0, 0, 0.35) !important;
+  overflow: hidden !important;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.sr-modal-content {
+  padding: 24px 28px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 16px !important;
+}
+
+/* 2. DECK LIST / TREE VIEW HIERARCHY */
+.sr-deck-container {
+  font-family: var(--font-interface) !important;
+}
+
+.sr-deck-list-header {
+  border-bottom: 2px solid var(--background-modifier-border) !important;
+  padding-bottom: 12px !important;
+  margin-bottom: 16px !important;
+}
+
+.sr-deck-list-header .sr-deck-name {
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+  color: var(--text-accent) !important;
+}
+
+.sr-tree-item-row {
+  border-radius: 10px !important;
+  padding: 8px 12px !important;
+  margin: 4px 0 !important;
+  transition: background-color 0.15s ease, transform 0.1s ease !important;
+  cursor: pointer !important;
+}
+
+.sr-tree-item-row:hover {
+  background-color: var(--background-modifier-hover) !important;
+  transform: translateX(4px) !important;
+}
+
+.sr-tree-row-text {
+  font-size: 1.02rem !important;
+  font-weight: 600 !important;
+  color: var(--text-normal) !important;
+  letter-spacing: 0.2px !important;
+}
+
+/* Deck Stats Badges (Due, New, Seen, Total) */
+.sr-tree-stats-container {
+  display: flex !important;
+  gap: 8px !important;
+  align-items: center !important;
+}
+
+.sr-tree-stats-count,
+.sr-tree-numbers-text {
+  border-radius: 16px !important;
+  padding: 3px 10px !important;
+  font-size: 0.8rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.12) !important;
+}
+
+/* Badge colors */
+.sr-bg-green {
+  background: linear-gradient(135deg, #10b981, #059669) !important;
+  color: #ffffff !important;
+}
+.sr-bg-blue {
+  background: linear-gradient(135deg, #3b82f6, #2563eb) !important;
+  color: #ffffff !important;
+}
+.sr-bg-yellow {
+  background: linear-gradient(135deg, #f59e0b, #d97706) !important;
+  color: #ffffff !important;
+}
+.sr-bg-red {
+  background: linear-gradient(135deg, #ef4444, #dc2626) !important;
+  color: #ffffff !important;
+}
+
+/* CRITICAL: Ensure hidden containers are strictly hidden */
+#sr-modal-view .sr-is-hidden,
+.sr-card-container.sr-is-hidden,
+.sr-deck-container.sr-is-hidden,
+.sr-is-hidden {
+  display: none !important;
+}
+
+/* 3. FLASHCARD STUDY AREA */
+.sr-card-container:not(.sr-is-hidden) {
+  min-height: 380px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between !important;
+  background-color: var(--background-primary-alt) !important;
+  border-radius: 16px !important;
+  border: 1px solid var(--background-modifier-border) !important;
+  padding: 32px 36px !important;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05) !important;
+}
+
+/* Front & Back of Card Content */
+.sr-card-content {
+  font-size: 1.12rem !important;
+  line-height: 1.65 !important;
+  text-align: center !important;
+  margin: auto 0 !important;
+  max-height: 54vh !important;
+  overflow-y: auto !important;
+  padding: 8px 16px !important;
+}
+
+/* Emphasize the Main Word on Front of Card */
+.sr-card-content > p:first-child,
+.sr-card-content strong:first-child {
+  font-size: 2.3rem !important;
+  font-weight: 800 !important;
+  color: var(--text-accent) !important;
+  display: block !important;
+  margin-bottom: 12px !important;
+  letter-spacing: 0.5px !important;
+}
+
+/* Card Separator Line */
+.sr-card-content hr {
+  margin: 20px auto !important;
+  border: 0 !important;
+  height: 2px !important;
+  background: linear-gradient(90deg, transparent, var(--background-modifier-border), transparent) !important;
+}
+
+/* Audio Player inside Flashcards */
+.sr-card-content audio {
+  max-height: 36px !important;
+  margin-top: 14px !important;
+  border-radius: 20px !important;
+  outline: none !important;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1)) !important;
+}
+
+/* 4. SHOW ANSWER & RESPONSE BUTTONS */
+.sr-show-answer-button {
+  width: 100% !important;
+  max-width: 320px !important;
+  margin: 24px auto 8px auto !important;
+  display: block !important;
+  background: linear-gradient(135deg, var(--interactive-accent), var(--interactive-accent-hover)) !important;
+  color: var(--text-on-accent) !important;
+  font-size: 1.05rem !important;
+  font-weight: 700 !important;
+  padding: 12px 28px !important;
+  border-radius: 30px !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18) !important;
+  cursor: pointer !important;
+  transition: transform 0.15s ease, box-shadow 0.15s ease !important;
+  border: none !important;
+}
+
+.sr-show-answer-button:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25) !important;
+}
+
+/* Response Buttons Row (Hard, Good, Easy) */
+.sr-response-button {
+  border-radius: 24px !important;
+  font-weight: 700 !important;
+  font-size: 0.95rem !important;
+  padding: 10px 22px !important;
+  border: none !important;
+  cursor: pointer !important;
+  transition: all 0.18s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15) !important;
+}
+
+.sr-response-button:hover {
+  transform: translateY(-2px) scale(1.03) !important;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25) !important;
+}
+
+.sr-again-button,
+.sr-hard-button {
+  background: linear-gradient(135deg, #f87171, #ef4444) !important;
+  color: #ffffff !important;
+}
+
+.sr-good-button {
+  background: linear-gradient(135deg, #34d399, #10b981) !important;
+  color: #ffffff !important;
+}
+
+.sr-easy-button {
+  background: linear-gradient(135deg, #60a5fa, #3b82f6) !important;
+  color: #ffffff !important;
+}
+
+/* 5. NOTES REVIEW QUEUE IN SIDEBAR */
+.sr-note-review-page {
+  font-family: var(--font-interface) !important;
+  padding: 12px !important;
+}
+
+.sr-note-review-header-title {
+  font-weight: 700 !important;
+  font-size: 1.15rem !important;
+  color: var(--text-accent) !important;
+}

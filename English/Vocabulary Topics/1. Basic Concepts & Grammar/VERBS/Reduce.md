@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/VERBS
+  - review/1-Basic-Concepts-and-Grammar/VERBS
+---
 # Reduce
 *Verb*
 > /rɪˈdʒuːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Formal | **Chủ đề:** VERBS | **Phân nhóm:** Phát triển, Tác động & Tương tác xã hội
+
+## 🗂️ Flashcard
+Reduce::Giảm bớt *(Phát âm: /rɪˈdʒuːs/)* ![[reduce.mp3]]<br><br>👪 **Word Family:** Reduction (n), Reduced (adj)<br><br>💬 **Ví dụ:** Reduce speed.<br>*(-> Giảm tốc độ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To become or to make something become smaller in size, amount, degree, importance, etc.

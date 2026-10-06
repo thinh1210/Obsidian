@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MARKETING
+  - review/7-Business-Finance-and-Economics/MARKETING
+---
 # Target
 *verb*
 > /ˈtɑːrɡɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** MARKETING | **Phân nhóm:** Nghiên cứu thị trường, Phân khúc & Định vị thương hiệu
+
+## 🗂️ Flashcard
+Target::Nhắm mục tiêu *(Phát âm: /ˈtɑːrɡɪt/)* ![[target.mp3]]<br><br>👪 **Word Family:** target (n), targeted (adj)<br><br>💬 **Ví dụ:** This animated show is targeted at young children and parents.<br>*(-> Chương trình hoạt hình này được nhắm mục tiêu vào trẻ nhỏ và cha mẹ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To select a specific group of consumers or audience to direct advertising or products toward

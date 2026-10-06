@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Poster
 *noun*
 > /ˈpəʊstə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Phương tiện quảng cáo, Biển hiệu & Ấn phẩm
+
+## 🗂️ Flashcard
+Poster::Áp phích, tờ quảng cáo lớn *(Phát âm: /ˈpəʊstə(r)/)* ![[poster.mp3]]<br><br>👪 **Word Family:** post (verb/noun)<br><br>💬 **Ví dụ:** He has a poster of his favorite band on his bedroom wall.<br>*(-> Anh ấy có một tấm áp phích của ban nhạc yêu thích trên tường phòng ngủ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large printed picture used for decoration or advertising.

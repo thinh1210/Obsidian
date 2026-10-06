@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Rich
 *adj.*
 > /rɪtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+08 - Rich::Giàu có *(Phát âm: /rɪtʃ/)* ![[rich.mp3]]<br><br>👪 **Word Family:** Riches (n.)<br><br>💬 **Ví dụ:** They are rich.<br>*(-> Họ rất giàu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having a lot of money.

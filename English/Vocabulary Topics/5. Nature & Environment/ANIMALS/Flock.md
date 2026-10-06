@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Flock
 *noun*
 > /flɒk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Flock::Bầy, đàn (chim, cừu, dê) *(Phát âm: /flɒk/)* ![[flock.mp3]]<br><br>👪 **Word Family:** flock (n/v)<br><br>💬 **Ví dụ:** A large flock of geese flew south in a perfect V-formation.<br>*(-> Một đàn ngỗng lớn bay về phương nam theo đội hình chữ V hoàn hảo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A number of birds of one kind feeding, resting, or travelling together.

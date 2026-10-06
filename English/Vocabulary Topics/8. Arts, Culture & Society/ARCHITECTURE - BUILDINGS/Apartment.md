@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Apartment
 *n.*
 > /əˈpɑːtmənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Các loại công trình nhà ở & Công cộng
+
+## 🗂️ Flashcard
+Apartment::Căn hộ *(Phát âm: /əˈpɑːtmənt/)* ![[apartment.mp3]]<br><br>👪 **Word Family:** apartment-hunting<br><br>💬 **Ví dụ:** They rented a two-bedroom apartment in the city.<br>*(-> Họ đã thuê một căn hộ hai phòng ngủ trong thành phố.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of rooms for living in, especially on one floor of a building

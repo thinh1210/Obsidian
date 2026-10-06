@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/REAL-ESTATE
+  - review/7-Business-Finance-and-Economics/REAL-ESTATE
+---
 # Equity
 *n.*
 > /ˈekwəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** REAL ESTATE | **Phân nhóm:** Tài chính bất động sản, Vay thế chấp & Tái cấp vốn
+
+## 🗂️ Flashcard
+Equity::Giá trị tài sản ròng, vốn sở hữu *(Phát âm: /ˈekwəti/)* ![[equity.mp3]]<br><br>👪 **Word Family:** equitable (adj), equitably (adv)<br><br>💬 **Ví dụ:** By paying off their mortgage early, they built substantial equity in their home.<br>*(-> Bằng cách trả nợ thế chấp sớm, họ đã tích lũy được vốn chủ sở hữu đáng kể trong ngôi nhà của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The value of a mortgaged property after deduction of charges against it.

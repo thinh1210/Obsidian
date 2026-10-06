@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Stairs
 *n.*
 > /steəz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Kết cấu móng, Tường bao & Không gian nội ngoại thất
+
+## 🗂️ Flashcard
+Stairs::Cầu thang *(Phát âm: /steəz/)* ![[stairs.mp3]]<br><br>👪 **Word Family:** staircase, stairwell<br><br>💬 **Ví dụ:** He ran up the stairs to get his jacket.<br>*(-> Anh ấy chạy lên cầu thang để lấy áo khoác.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A set of steps leading from one floor of a building to another

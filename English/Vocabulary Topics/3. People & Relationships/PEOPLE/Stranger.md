@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Stranger
 *n.*
 > /ˈstreɪn.dʒər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Stranger::Người lạ *(Phát âm: /ˈstreɪn.dʒər/)* ![[stranger.mp3]]<br><br>👪 **Word Family:** Strange<br><br>💬 **Ví dụ:** Don't talk to strangers.<br>*(-> Đừng nói chuyện với người lạ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whom one does not know or with whom one is not familiar.

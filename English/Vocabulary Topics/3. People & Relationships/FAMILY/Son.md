@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Son
 *noun*
 > /sʌn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Son::Con trai *(Phát âm: /sʌn/)* ![[son.mp3]]<br><br>👪 **Word Family:** son-in-law (n)<br><br>💬 **Ví dụ:** They have one son.<br>*(-> Họ có một người con trai.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Your male child.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRAVEL
+  - review/4-Places-and-Travel/TRAVEL
+---
 # Suitcase
 *noun*
 > /ˈsuːt.keɪs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRAVEL | **Phân nhóm:** Chuẩn bị thủ tục, Hành lý & Giấy tờ
+
+## 🗂️ Flashcard
+Suitcase::Vali *(Phát âm: /ˈsuːt.keɪs/)* ![[suitcase.mp3]]<br><br>👪 **Word Family:** Suitcases<br><br>💬 **Ví dụ:** I pack my suitcase.<br>*(-> Tôi đóng gói vali của mình.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A large, rectangular container to carry clothes

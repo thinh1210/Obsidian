@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SUBJECTS
+  - review/8-Arts-Culture-and-Society/SUBJECTS
+---
 # Psychology
 *noun*
 > /saɪˈkɒlədʒi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic | **Chủ đề:** SUBJECTS | **Phân nhóm:** Toán học, Khoa học tự nhiên & Công nghệ kỹ thuật
+
+## 🗂️ Flashcard
+Psychology::Tâm lý học *(Phát âm: /saɪˈkɒlədʒi/)* ![[psychology.mp3]]<br><br>👪 **Word Family:** psychologist, psychological<br><br>💬 **Ví dụ:** She wants to study psychology to become a therapist.<br>*(-> Cô ấy muốn học tâm lý học để trở thành một nhà trị liệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The scientific study of the human mind and its functions, especially those affecting behavior in a given context.

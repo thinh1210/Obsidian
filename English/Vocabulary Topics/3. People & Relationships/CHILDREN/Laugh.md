@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Laugh
 *verb*
 > /læf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Vui chơi, Tiếng cười & Sự ngây thơ
+
+## 🗂️ Flashcard
+Laugh::Cười *(Phát âm: /læf/)* ![[laugh.mp3]]<br><br>👪 **Word Family:** Laughter (n)<br><br>💬 **Ví dụ:** The kids laugh a lot.<br>*(-> Bọn trẻ cười rất nhiều.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement.

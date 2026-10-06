@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/ACCESSORIES
+  - review/2-Daily-Life-and-Habits/ACCESSORIES
+---
 # Pouch
 *noun*
 > /paʊtʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** ACCESSORIES | **Phân nhóm:** Túi xách, Balo & Đồ đựng cá nhân
+
+## 🗂️ Flashcard
+Pouch::Túi nhỏ, túi bao tử *(Phát âm: /paʊtʃ/)* ![[pouch.mp3]]<br><br>👪 **Word Family:** Pouched (adj)<br><br>💬 **Ví dụ:** He keeps his tobacco in a leather pouch.<br>*(-> Anh ấy giữ thuốc lá trong một chiếc túi da nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small bag or soft container for holding small objects.

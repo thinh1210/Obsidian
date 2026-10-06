@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # Tax
 *n/v*
 > /tæks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+Tax::Thuế / đánh thuế *(Phát âm: /tæks/)* ![[tax.mp3]]<br><br>👪 **Word Family:** taxation (n), taxpayer (n), taxable (adj)<br><br>💬 **Ví dụ:** He pays taxes on everything he earns from his job.<br>*(-> Anh ấy nộp thuế cho tất cả thu nhập từ công việc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Money that people or businesses must pay to the government.

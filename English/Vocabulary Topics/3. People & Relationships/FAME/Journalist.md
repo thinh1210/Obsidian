@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Journalist
 *n.*
 > /ˈdʒɜːnəlɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** FAME | **Phân nhóm:** Truyền thông, Phỏng vấn & Tiêu điểm
+
+## 🗂️ Flashcard
+Journalist::Nhà báo *(Phát âm: /ˈdʒɜːnəlɪst/)* ![[journalist.mp3]]<br><br>👪 **Word Family:** journalism (n.)<br><br>💬 **Ví dụ:** The journalist asked tough questions.<br>*(-> Nhà báo đã hỏi những câu hỏi hóc búa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A person who writes for newspapers or magazines.

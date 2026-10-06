@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # gizmo
 *noun*
 > /ˈgɪz.məʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị tự động, Tiện ích sáng chế & Khí tài
+
+## 🗂️ Flashcard
+Gizmo::đồ phụ tùng, thiết bị nhỏ kỳ lạ (khi không rõ tên) *(Phát âm: /ˈgɪz.məʊ/)* ![[gizmo.mp3]]<br><br>👪 **Word Family:** Noun: gizmo (thiết bị nhỏ)<br><br>💬 **Ví dụ:** He is always buying the latest electronic gizmos.<br>*(-> Anh ấy luôn mua những món đồ điện tử nhỏ thông minh mới nhất.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a gadget, especially one whose name the speaker shares or does not know.

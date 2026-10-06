@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+  - review/8-Arts-Culture-and-Society/SCHOOL-CULTURE
+---
 # Rule
 *noun*
 > /ruːl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SCHOOL - CULTURE | **Phân nhóm:** Giảng đường, Bài vở, Sách vở & Đồng phục
+
+## 🗂️ Flashcard
+Rule::Quy định, luật lệ *(Phát âm: /ruːl/)* ![[rule.mp3]]<br><br>👪 **Word Family:** rule (v), ruler (n), ruling (n, adj)<br><br>💬 **Ví dụ:** Students must obey school rules, such as wearing uniforms.<br>*(-> Học sinh phải tuân theo nội quy trường học, ví dụ như mặc đồng phục.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** One of a set of explicit or understood regulations or principles governing conduct.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Knit
 *v*
 > /nɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nghệ thuật, Thủ công & Sáng tạo
+
+## 🗂️ Flashcard
+Knit::Đan (len, sợi) *(Phát âm: /nɪt/)* ![[knit.mp3]]<br><br>👪 **Word Family:** knitting (n), knitter (n), knitted (adj)<br><br>💬 **Ví dụ:** My grandmother taught me how to knit.<br>*(-> Bà tôi đã dạy tôi cách đan len.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make clothes, etc. from wool or cotton thread using two long needles.

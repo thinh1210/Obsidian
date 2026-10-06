@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/EQUIPMENT-TOOLS
+  - review/9-Others/EQUIPMENT-TOOLS
+---
 # instrument
 *noun*
 > /ˈɪn.strə.mənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** EQUIPMENT - TOOLS | **Phân nhóm:** Thiết bị đo lường, Cảm biến & Đồ gia dụng
+
+## 🗂️ Flashcard
+Instrument::dụng cụ đo lường, nhạc cụ *(Phát âm: /ˈɪn.strə.mənt/)* ![[instrument.mp3]]<br><br>👪 **Word Family:** Noun: instrument (nhạc cụ, dụng cụ), Adjective: instrumental (thuộc nhạc cụ, đóng vai trò quan trọng)<br><br>💬 **Ví dụ:** He plays several musical instruments, including the piano and violin.<br>*(-> Anh ấy chơi được vài loại nhạc cụ, bao gồm piano và violin.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** a tool or implement, especially one for precision work or for playing music.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/POLITICS
+  - review/8-Arts-Culture-and-Society/POLITICS
+---
 # minister
 *noun*
 > /ˈmɪnɪstər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** POLITICS | **Phân nhóm:** Nhà nước, Chính phủ, Quốc hội & Nội các
+
+## 🗂️ Flashcard
+minister::Bộ trưởng *(Phát âm: /ˈmɪnɪstər/)* ![[minister.mp3]]<br><br>👪 **Word Family:** ministry (n), ministerial (adj)<br><br>💬 **Ví dụ:** The minister answered questions about the new education budget.<br>*(-> Bộ trưởng đã trả lời các câu hỏi về ngân sách giáo dục mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A head of a government department.

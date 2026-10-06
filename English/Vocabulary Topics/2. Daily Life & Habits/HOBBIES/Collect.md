@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Collect
 *verb*
 > /kəˈlekt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Sưu tầm, Đọc sách & Nghiên cứu
+
+## 🗂️ Flashcard
+Collect::Sưu tầm *(Phát âm: /kəˈlekt/)* ![[collect.mp3]]<br><br>👪 **Word Family:** Collection (n), Collector (n), Collective (adj)<br><br>💬 **Ví dụ:** He started to collect vintage cars.<br>*(-> Anh ấy bắt đầu sưu tầm xe hơi cổ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To bring or gather things together, often as a hobby.

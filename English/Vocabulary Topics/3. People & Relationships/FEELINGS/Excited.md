@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FEELINGS
+  - review/3-People-and-Relationships/FEELINGS
+---
 # Excited
 *adj*
 > /ɪkˈsaɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** FEELINGS | **Phân nhóm:** Niềm vui, Hạnh phúc & Cảm xúc tích cực
+
+## 🗂️ Flashcard
+Excited::Hào hứng, phấn khích *(Phát âm: /ɪkˈsaɪtɪd/)* ![[excited.mp3]]<br><br>👪 **Word Family:** excitement (n), exciting (adj)<br><br>💬 **Ví dụ:** I am excited about the trip.<br>*(-> Tôi rất háo hức về chuyến đi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Very enthusiastic and eager.

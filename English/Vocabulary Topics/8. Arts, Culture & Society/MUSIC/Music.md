@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Music
 *n.*
 > /ˈmjuː.zɪk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Music::Âm nhạc *(Phát âm: /ˈmjuː.zɪk/)* ![[music.mp3]]<br><br>👪 **Word Family:** musical (adj), musician (n)<br><br>💬 **Ví dụ:** I like to listen to pop music when I study.<br>*(-> Tôi thích nghe nhạc pop khi học bài.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.

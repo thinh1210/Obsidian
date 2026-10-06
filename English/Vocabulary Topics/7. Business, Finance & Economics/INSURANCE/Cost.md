@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/INSURANCE
+  - review/7-Business-Finance-and-Economics/INSURANCE
+---
 # Cost
 *n.*
 > /kɒst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INSURANCE | **Phân nhóm:** Bảo vệ rủi ro, Tai nạn va chạm & Phạm vi bồi thường
+
+## 🗂️ Flashcard
+Cost::Chi phí *(Phát âm: /kɒst/)* ![[cost.mp3]]<br><br>👪 **Word Family:** cost (v), costly<br><br>💬 **Ví dụ:** The cost of health insurance has gone up this year.<br>*(-> Chi phí bảo hiểm y tế đã tăng lên trong năm nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The amount of money that you need to buy, make, or do something.

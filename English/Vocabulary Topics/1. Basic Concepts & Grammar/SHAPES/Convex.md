@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/SHAPES
+  - review/1-Basic-Concepts-and-Grammar/SHAPES
+---
 # Convex
 *adj.*
 > /ˈkɒn.veks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** SHAPES | **Phân nhóm:** Thuộc tính hình học, Góc & Mặt phẳng
+
+## 🗂️ Flashcard
+Convex::Lồi *(Phát âm: /ˈkɒn.veks/)* ![[convex.mp3]]<br><br>👪 **Word Family:** Convexity (n)<br><br>💬 **Ví dụ:** A convex lens magnifies objects.<br>*(-> Thấu kính lồi phóng to các vật.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Having an outline or surface curved like the exterior of a circle or sphere.

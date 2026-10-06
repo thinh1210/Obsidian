@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAMILY
+  - review/3-People-and-Relationships/FAMILY
+---
 # Spouse
 *n.*
 > /spaʊs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** FAMILY | **Phân nhóm:** Gia đình hạt nhân & Quan hệ trực hệ
+
+## 🗂️ Flashcard
+Spouse::Bạn đời, người phối ngẫu (vợ hoặc chồng) *(Phát âm: /spaʊs/)* ![[spouse.mp3]]<br><br>👪 **Word Family:** spousal (adj)<br><br>💬 **Ví dụ:** He spends most weekends gardening at home with his spouse.<br>*(-> Anh ấy dành hầu hết các ngày cuối tuần làm vườn ở nhà cùng bạn đời.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person's husband or wife.

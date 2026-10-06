@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PERSONALITY
+  - review/3-People-and-Relationships/PERSONALITY
+---
 # Blunt
 *adj.*
 > /blʌnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** PERSONALITY | **Phân nhóm:** Tính cách giao tiếp, Xã hội & Khí chất
+
+## 🗂️ Flashcard
+Blunt::Thẳng thừng, bộc trực, ruột để ngoài da nói thẳng không kiêng nể *(Phát âm: /blʌnt/)* ![[blunt.mp3]]<br><br>👪 **Word Family:** bluntness (n), bluntly (adv)<br><br>💬 **Ví dụ:** To be completely blunt, your current essay lacks clear central arguments.<br>*(-> Nói thẳng thừng ra là bài luận hiện tại của bạn thiếu các luận điểm trung tâm rõ ràng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Saying what you think without trying to be polite or caring about other people's feelings.

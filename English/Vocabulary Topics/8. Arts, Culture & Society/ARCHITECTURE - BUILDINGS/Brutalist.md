@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+  - review/8-Arts-Culture-and-Society/ARCHITECTURE-BUILDINGS
+---
 # Brutalist
 *adj.*
 > /ˈbruːtəlɪst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** ARCHITECTURE - BUILDINGS | **Phân nhóm:** Phong cách kiến trúc, Thẩm mỹ & Họa tiết trang trí
+
+## 🗂️ Flashcard
+Brutalist::Thuộc phong cách kiến trúc Thô mộc *(Phát âm: /ˈbruːtəlɪst/)* ![[brutalist.mp3]]<br><br>👪 **Word Family:** brutalisme<br><br>💬 **Ví dụ:** Some people hate the brutalist design of the new library.<br>*(-> Một số người ghét thiết kế thô mộc của thư viện mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Relating to a style of architecture characterized by the use of raw, unfinished concrete and large, heavy forms

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LITERATURE
+  - review/8-Arts-Culture-and-Society/LITERATURE
+---
 # Motif
 *noun*
 > /məʊˈtiːf/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** LITERATURE | **Phân nhóm:** Biện pháp tu từ, Biểu tượng & Ngôn ngữ nghệ thuật
+
+## 🗂️ Flashcard
+Motif::Motif, chủ đề/hình ảnh lặp đi lặp lại *(Phát âm: /məʊˈtiːf/)* ![[motif.mp3]]<br><br>👪 **Word Family:** motif (n)<br><br>💬 **Ví dụ:** Water is a recurring motif that symbolizes emotional rebirth in the story.<br>*(-> Nước là một motif lặp lại tượng trưng cho sự tái sinh cảm xúc trong câu chuyện.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A dominant idea or central theme, or a recurring element in a literary work.

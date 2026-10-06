@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+  - review/1-Basic-Concepts-and-Grammar/DAY-WEEK-MONTH
+---
 # Ephemeral
 *adj*
 > /ɪˈfemərəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic/Literary | **Chủ đề:** DAY - WEEK - MONTH | **Phân nhóm:** Tần suất, Tính thời điểm & Nhịp điệu
+
+## 🗂️ Flashcard
+Ephemeral::Sớm nở tối tàn, phù du *(Phát âm: /ɪˈfemərəl/)* ![[ephemeral.mp3]]<br><br>👪 **Word Family:** ephemera (n)<br><br>💬 **Ví dụ:** Fame in the world of rock and pop is largely ephemeral.<br>*(-> Danh tiếng trong thế giới nhạc rock và pop phần lớn là phù du.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Lasting for a very short time.

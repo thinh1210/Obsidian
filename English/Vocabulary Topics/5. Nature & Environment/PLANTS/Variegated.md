@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Variegated
 *adjective*
 > /ˈveəriəɡeɪtɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Các loài thực vật, Cây rừng & Phân loại
+
+## 🗂️ Flashcard
+Variegated::Có đốm màu khác nhau, loang lổ (lá cẩm thạch) *(Phát âm: /ˈveəriəɡeɪtɪd/)* ![[variegated.mp3]]<br><br>👪 **Word Family:** Noun: variegation (sự loang màu), Adjective: variegated (loang màu)<br><br>💬 **Ví dụ:** Variegated plants with white and green leaves are very popular in home decor.<br>*(-> Những loại cây có lá loang lổ màu trắng và xanh rất phổ biến trong trang trí nhà cửa.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Exhibiting different colors, especially as irregular patches or streaks.

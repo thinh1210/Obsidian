@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ADVERTISING
+  - review/7-Business-Finance-and-Economics/ADVERTISING
+---
 # Trend
 *noun*
 > /trend/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADVERTISING | **Phân nhóm:** Khách hàng mục tiêu, Thông điệp & Chiến dịch tiếp thị
+
+## 🗂️ Flashcard
+Trend::Xu hướng *(Phát âm: /trend/)* ![[trend.mp3]]<br><br>👪 **Word Family:** trendy (adj)<br><br>💬 **Ví dụ:** There is a growing trend towards healthy living.<br>*(-> Có một xu hướng ngày càng tăng hướng tới lối sống lành mạnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A general direction in which something is developing or changing.

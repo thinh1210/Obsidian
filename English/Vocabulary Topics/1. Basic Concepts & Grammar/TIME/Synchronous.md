@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/TIME
+  - review/1-Basic-Concepts-and-Grammar/TIME
+---
 # Synchronous
 *adj.*
 > /ˈsɪŋkrənəs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** TIME | **Phân nhóm:** Khái niệm thời gian trừu tượng & Triết học
+
+## 🗂️ Flashcard
+Synchronous::Đồng bộ, cùng lúc *(Phát âm: /ˈsɪŋkrənəs/)* ![[synchronous.mp3]]<br><br>👪 **Word Family:** synchronize (v.)<br><br>💬 **Ví dụ:** Synchronous movements of the dancers.<br>*(-> Chuyển động đồng bộ của các vũ công.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Existing or occurring at the same time

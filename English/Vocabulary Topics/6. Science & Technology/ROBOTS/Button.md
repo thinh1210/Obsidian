@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Button
 *noun.*
 > /ˈbʌt̬.ən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ROBOTS | **Phân nhóm:** Cơ khí, Phần cứng & Cảm biến tiếp nhận
+
+## 🗂️ Flashcard
+Button::Nút nhấn *(Phát âm: /ˈbʌt̬.ən/)* ![[button.mp3]]<br><br>👪 **Word Family:** buttonhole (noun)<br><br>💬 **Ví dụ:** Press the green button to start the robot.<br>*(-> Nhấn nút màu xanh lá cây để khởi động robot.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small, sometimes circular object that you press to operate a machine or device

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTORS
+  - review/6-Science-and-Technology/INVENTORS
+---
 # machine
 *n.*
 > /məˈʃiːn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** INVENTORS | **Phân nhóm:** Thử nghiệm thực tế, Chế tạo mẫu & Vượt chướng ngại vật
+
+## 🗂️ Flashcard
+Machine::Máy móc, cỗ máy *(Phát âm: /məˈʃiːn/)* ![[machine.mp3]]<br><br>👪 **Word Family:** machinery (n), mechanic (n), mechanical (adj)<br><br>💬 **Ví dụ:** Keep your fingers away from the moving machine parts.<br>*(-> Giữ ngón tay của bạn tránh xa các bộ phận chuyển động của máy.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of equipment with moving parts that does work

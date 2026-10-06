@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMES
+  - review/4-Places-and-Travel/HOMES
+---
 # Bathroom
 *noun*
 > /ˈbæθruːm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMES | **Phân nhóm:** Các phòng, Không gian sống & Nội thất
+
+## 🗂️ Flashcard
+Bathroom::Phòng tắm *(Phát âm: /ˈbæθruːm/)* ![[bathroom.mp3]]<br><br>👪 **Word Family:** **Synonyms:** restroom, washroom<br><br>💬 **Ví dụ:** I need to use the bathroom.<br>*(-> Tôi cần sử dụng phòng tắm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A room containing a toilet and sink and typically also a bathtub or shower.
@@ -34,4 +44,4 @@
 - 
 
 **Synonyms:** restroom, washroom
-**Antonyms:** 
+**Antonyms:**

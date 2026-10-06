@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Person
 *n.*
 > /ˈpɜː.sən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Các độ tuổi, Giới tính & Gia đình
+
+## 🗂️ Flashcard
+Person::Một con người *(Phát âm: /ˈpɜː.sən/)* ![[person.mp3]]<br><br>👪 **Word Family:** Personal<br><br>💬 **Ví dụ:** She is a nice person.<br>*(-> Cô ấy là người tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A human being.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FAME
+  - review/3-People-and-Relationships/FAME
+---
 # Celebrity
 *n.*
 > /səˈlebrəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Media/Movie | **Chủ đề:** FAME | **Phân nhóm:** Nghệ sĩ, Biểu diễn & Danh xưng thần tượng
+
+## 🗂️ Flashcard
+Celebrity::Người nổi tiếng *(Phát âm: /səˈlebrəti/)* ![[celebrity.mp3]]<br><br>👪 **Word Family:** celeb (n.)<br><br>💬 **Ví dụ:** She is a major celebrity.<br>*(-> Cô ấy là một người nổi tiếng lớn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A famous person, especially in entertainment or sport.

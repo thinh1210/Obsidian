@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/JEWELRY
+  - review/2-Daily-Life-and-Habits/JEWELRY
+---
 # Pendant
 *noun*
 > /ˈpen.dənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** JEWELRY | **Phân nhóm:** Các loại trang sức đeo
+
+## 🗂️ Flashcard
+Pendant::Mặt dây chuyền *(Phát âm: /ˈpen.dənt/)* ![[pendant.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** She bought a crystal pendant.<br>*(-> Cô ấy mua một mặt dây chuyền pha lê.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of jewelry that hangs from a necklace.

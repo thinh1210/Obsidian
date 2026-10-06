@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/9-Others/MATERIALS
+  - review/9-Others/MATERIALS
+---
 # Tensile
 *adjective.*
 > /ˈtensaɪl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MATERIALS | **Phân nhóm:** Cơ lý tính, Độ bền vật liệu & Biến dạng
+
+## 🗂️ Flashcard
+Tensile::(Thuộc) sức căng, có thể kéo giãn *(Phát âm: /ˈtensaɪl/)* ![[tensile.mp3]]<br><br>👪 **Word Family:** tension (Noun), tense (Adjective)<br><br>💬 **Ví dụ:** The high tensile strength of carbon fibers allows us to build longer bridges.<br>*(-> Độ bền kéo cao của sợi carbon cho phép chúng ta xây dựng những cây cầu dài hơn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to tension; capable of withstanding physical stress under tension.

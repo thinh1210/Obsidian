@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Usurp
 *verb*
 > /juːˈzɜːp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Usurp::Cướp ngôi, đoạt quyền *(Phát âm: /juːˈzɜːp/)* ![[usurp.mp3]]<br><br>👪 **Word Family:** usurper (n), usurpation (n)<br><br>💬 **Ví dụ:** The ambitious general plotted to usurp the throne from the young king.<br>*(-> Vị tướng đầy tham vọng đã âm mưu cướp ngôi từ vị vua trẻ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Take a position of power or importance illegally or by force.

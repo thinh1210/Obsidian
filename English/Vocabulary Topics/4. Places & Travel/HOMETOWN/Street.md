@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/HOMETOWN
+  - review/4-Places-and-Travel/HOMETOWN
+---
 # Street
 *n.*
 > /striːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOMETOWN | **Phân nhóm:** Không gian sống, Cảnh quan & Địa danh
+
+## 🗂️ Flashcard
+Street::Đường phố *(Phát âm: /striːt/)* ![[street.mp3]]<br><br>👪 **Word Family:** Streetwalker (n.)<br><br>💬 **Ví dụ:** The street is very busy.<br>*(-> Đường phố rất đông đúc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A public road in a city or town.

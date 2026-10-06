@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Liability
 *noun*
 > /ˌlaɪəˈbɪlɪti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Nguyên đơn, Bị đơn, Tranh tụng & Trọng tài
+
+## 🗂️ Flashcard
+Liability::Trách nhiệm pháp lý; nghĩa vụ *(Phát âm: /ˌlaɪəˈbɪlɪti/)* ![[liability.mp3]]<br><br>👪 **Word Family:** liable (adj), liabilities (n-plural), liability clause (n)<br><br>💬 **Ví dụ:** He accepted liability for the accident.<br>*(-> Anh ấy thừa nhận trách nhiệm về vụ tai nạn.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Legal responsibility for something, especially for paying costs or damages

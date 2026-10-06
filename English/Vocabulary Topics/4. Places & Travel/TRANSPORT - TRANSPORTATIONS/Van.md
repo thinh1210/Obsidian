@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+  - review/4-Places-and-Travel/TRANSPORT-TRANSPORTATIONS
+---
 # Van
 *n.*
 > /væn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** TRANSPORT - TRANSPORTATIONS | **Phân nhóm:** Phương tiện giao thông đường bộ & Cá nhân
+
+## 🗂️ Flashcard
+Van::Xe thùng kín cỡ vừa dùng chở bưu phẩm hoặc nhóm hành khách *(Phát âm: /væn/)* ![[van.mp3]]<br><br>👪 **Word Family:** caravan (n)<br><br>💬 **Ví dụ:** The courier hopped out of his white delivery van with a package.<br>*(-> Nhân viên chuyển phát nhanh nhảy ra khỏi chiếc xe van trắng với một kiện hàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A medium-sized road vehicle, typically used for carrying goods or passengers.

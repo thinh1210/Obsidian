@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Generate
 *Verb*
 > /ˈdʒen.ə.reɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Generate::Tạo ra, phát ra (năng lượng, ý tưởng) *(Phát âm: /ˈdʒen.ə.reɪt/)* ![[generate.mp3]]<br><br>👪 **Word Family:** Generation (n), generator (n), generative (adj)<br><br>💬 **Ví dụ:** The presentation generated a lot of discussion.<br>*(-> Bài thuyết trình đã tạo ra rất nhiều cuộc thảo luận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To cause something to exist; to produce energy.

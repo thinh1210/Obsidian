@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ORNITHOLOGY
+  - review/6-Science-and-Technology/ORNITHOLOGY
+---
 # Breed
 *verb*
 > /briːd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** ORNITHOLOGY | **Phân nhóm:** Cấu tạo cơ thể, Tiếng hót & Sinh sản loài chim
+
+## 🗂️ Flashcard
+Breed::Sinh sản, phối giống *(Phát âm: /briːd/)* ![[breed.mp3]]<br><br>👪 **Word Family:** breed (v/n), breeder (n), breeding (n)<br><br>💬 **Ví dụ:** Many birds return to the same place to breed every year.<br>*(-> Nhiều loài chim quay lại cùng một nơi để sinh sản mỗi năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** (Of animals) to mate and produce offspring.

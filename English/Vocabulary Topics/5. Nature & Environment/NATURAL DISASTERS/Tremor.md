@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURAL-DISASTERS
+  - review/5-Nature-and-Environment/NATURAL-DISASTERS
+---
 # Tremor
 *noun*
 > /ˈtrem.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** NATURAL DISASTERS | **Phân nhóm:** Địa chấn, Động đất & Núi lửa phun trào
+
+## 🗂️ Flashcard
+Tremor::Sự rung chấn nhẹ, sự run rẩy *(Phát âm: /ˈtrem.ər/)* ![[tremor.mp3]]<br><br>👪 **Word Family:** tremulous (adj)<br><br>💬 **Ví dụ:** We felt a slight earth tremor last night but there was no damage.<br>*(-> Đêm qua chúng tôi cảm thấy một cơn rung chấn nhẹ nhưng không có thiệt hại gì.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A slight earthquake or shaking movement.

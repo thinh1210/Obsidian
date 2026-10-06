@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/SHOPPING-HABITS
+  - review/2-Daily-Life-and-Habits/SHOPPING-HABITS
+---
 # Cost
 *v/n*
 > /kɒst/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** SHOPPING HABITS | **Phân nhóm:** Giá cả, Giao dịch & Quản lý chi tiêu
+
+## 🗂️ Flashcard
+Cost::Chi phí, giá *(Phát âm: /kɒst/)* ![[cost.mp3]]<br><br>👪 **Word Family:** Costly<br><br>💬 **Ví dụ:** How much does it cost?<br>*(-> Giá bao nhiêu?)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The amount needed to buy

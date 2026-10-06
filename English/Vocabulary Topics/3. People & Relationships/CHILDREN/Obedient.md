@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CHILDREN
+  - review/3-People-and-Relationships/CHILDREN
+---
 # Obedient
 *adj*
 > /oʊˈbiː.di.ənt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** CHILDREN | **Phân nhóm:** Tính cách, Hành vi & Trẻ em đặc biệt
+
+## 🗂️ Flashcard
+Obedient::Ngoan ngoãn, vâng lời *(Phát âm: /oʊˈbiː.di.ənt/)* ![[obedient.mp3]]<br><br>👪 **Word Family:** Obedience (n), Obey (v)<br><br>💬 **Ví dụ:** He is an obedient son.<br>*(-> Cậu ấy là một người con ngoan.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Complying or willing to comply with orders or requests.

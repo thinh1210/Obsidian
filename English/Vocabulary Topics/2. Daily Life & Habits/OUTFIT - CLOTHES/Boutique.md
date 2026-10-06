@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+  - review/2-Daily-Life-and-Habits/OUTFIT-CLOTHES
+---
 # Boutique
 *noun*
 > /buːˈtiːk/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Daily | **Chủ đề:** OUTFIT - CLOTHES | **Phân nhóm:** Phong cách thời trang, Đẳng cấp & Tình trạng đồ
+
+## 🗂️ Flashcard
+Boutique::Cửa hàng thời trang nhỏ (thường cao cấp) *(Phát âm: /buːˈtiːk/)* ![[boutique.mp3]]<br><br>👪 **Word Family:** N/A<br><br>💬 **Ví dụ:** She bought this dress at a little boutique.<br>*(-> Cô ấy mua chiếc váy này ở một cửa hàng thời trang nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small shop selling fashionable clothes or accessories.

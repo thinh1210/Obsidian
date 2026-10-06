@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ANIMALS
+  - review/5-Nature-and-Environment/ANIMALS
+---
 # Omnivore
 *noun*
 > /ˈɒm.nɪ.vɔːr/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** ANIMALS | **Phân nhóm:** Phân loại sinh học, Thức ăn & Tập tính
+
+## 🗂️ Flashcard
+Omnivore::Động vật ăn tạp *(Phát âm: /ˈɒm.nɪ.vɔːr/)* ![[omnivore.mp3]]<br><br>👪 **Word Family:** omnivore (n), omnivorous (adj)<br><br>💬 **Ví dụ:** Bears are omnivores, eating berries, fish, and small mammals.<br>*(-> Gấu là loài ăn tạp, chúng ăn quả mọng, cá và động vật có vú nhỏ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An animal or person that eats food of both plant and animal origin.

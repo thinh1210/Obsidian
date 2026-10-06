@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Water
 *n.*
 > /ˈwɔːtə(r)/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Thiên nhiên, Các yếu tố môi trường & Động thực vật
+
+## 🗂️ Flashcard
+Water::Nước *(Phát âm: /ˈwɔːtə(r)/)* ![[water.mp3]]<br><br>👪 **Word Family:** watery (adj), waterlogged (adj)<br><br>💬 **Ví dụ:** Remember to drink enough water every day.<br>*(-> Hãy nhớ uống đủ nước mỗi ngày.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.

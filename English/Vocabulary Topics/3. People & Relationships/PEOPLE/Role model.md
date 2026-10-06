@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Role model
 *n.*
 > /ˈrəʊl ˌmɒd.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhân vật tầm vóc, Tầm nhìn & Cống hiến
+
+## 🗂️ Flashcard
+Role model::Hình mẫu lý tưởng, tấm gương sáng để người khác (nhất là giới trẻ) học tập noi theo *(Phát âm: /ˈrəʊl ˌmɒd.əl/)* ![[role_model.mp3]]<br><br>👪 **Word Family:** model (n/v)<br><br>💬 **Ví dụ:** Older brothers and sisters often serve as the earliest role models for younger siblings.<br>*(-> Anh chị lớn thường đóng vai trò là những tấm gương đầu tiên cho các em nhỏ noi theo.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person whose behavior, example, or success is or can be emulated by others, especially by younger people.

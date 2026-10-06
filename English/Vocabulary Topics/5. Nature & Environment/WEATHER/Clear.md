@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/WEATHER
+  - review/5-Nature-and-Environment/WEATHER
+---
 # Clear
 *adj.*
 > /klɪər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** WEATHER | **Phân nhóm:** Thời tiết nắng ấm, Khô ráo & Bầu trời
+
+## 🗂️ Flashcard
+Clear::Quang đãng, không mây mù, trong vắt *(Phát âm: /klɪər/)* ![[clear.mp3]]<br><br>👪 **Word Family:** clearly (adv), clearness (n), clarify (v)<br><br>💬 **Ví dụ:** Under a clear sky, we could see the mountain peak miles away.<br>*(-> Dưới bầu trời quang đãng, chúng tôi có thể thấy đỉnh núi từ cách xa nhiều dặm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Without clouds or mist; transparent and bright sky.

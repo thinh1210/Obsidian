@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/MARRIAGE
+  - review/3-People-and-Relationships/MARRIAGE
+---
 # Nuptials
 *noun*
 > /ˈnʌpʃlz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** MARRIAGE | **Phân nhóm:** Lễ cưới, Trang phục & Tiệc mừng
+
+## 🗂️ Flashcard
+Nuptials::Lễ cưới (trang trọng) *(Phát âm: /ˈnʌpʃlz/)* ![[nuptials.mp3]]<br><br>👪 **Word Family:** Nuptial (adjective)<br><br>💬 **Ví dụ:** They are preparing for their upcoming nuptials.<br>*(-> Họ đang chuẩn bị cho lễ cưới sắp tới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A wedding or marriage ceremony.

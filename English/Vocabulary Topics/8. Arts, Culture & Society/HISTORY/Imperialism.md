@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # Imperialism
 *noun*
 > /ɪmˈpɪə.ri.ə.lɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+Imperialism::Chủ nghĩa đế quốc *(Phát âm: /ɪmˈpɪə.ri.ə.lɪ.zəm/)* ![[imperialism.mp3]]<br><br>👪 **Word Family:** imperialist (n/adj), empire (n), imperial (adj)<br><br>💬 **Ví dụ:** The country suffered greatly under the weight of 19th-century imperialism.<br>*(-> Đất nước này đã chịu đựng rất nhiều dưới sức nặng của chủ nghĩa đế quốc thế kỷ 19.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A policy of extending a country's power and influence through diplomacy or military force.

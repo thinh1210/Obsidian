@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+  - review/3-People-and-Relationships/FRIEND-RELATIONSHIPS
+---
 # Introduce
 *verb*
 > /ˌɪn.trəˈduːs/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily/Formal | **Chủ đề:** FRIEND - RELATIONSHIPS | **Phân nhóm:** Giao tiếp, Kỷ niệm & Hòa giải
+
+## 🗂️ Flashcard
+Introduce::Giới thiệu *(Phát âm: /ˌɪn.trəˈduːs/)* ![[introduce.mp3]]<br><br>👪 **Word Family:** introduction<br><br>💬 **Ví dụ:** Allow me to introduce myself.<br>*(-> Cho phép tôi tự giới thiệu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Bring (something, especially a product, measure, or concept) into use or operation for the first time.

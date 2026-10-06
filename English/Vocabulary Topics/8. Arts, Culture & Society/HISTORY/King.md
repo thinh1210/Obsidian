@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/HISTORY
+  - review/8-Arts-Culture-and-Society/HISTORY
+---
 # King
 *noun*
 > /kɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** HISTORY | **Phân nhóm:** Triều đại, Vương quyền phong kiến & Trận chiến vĩ đại
+
+## 🗂️ Flashcard
+King::Vua, quốc vương *(Phát âm: /kɪŋ/)* ![[king.mp3]]<br><br>👪 **Word Family:** kingdom (n), kingship (n), kingly (adj)<br><br>💬 **Ví dụ:** The king ruled his country with kindness and wisdom.<br>*(-> Vua cai trị đất nước của mình bằng lòng tốt và sự khôn ngoan.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The male ruler of an independent state, especially one who inherits the position by right of birth.

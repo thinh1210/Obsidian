@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Philanthropy
 *n.*
 > /fɪˈlæn.θrə.pi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Trách nhiệm xã hội, Từ thiện & Tác động tích cực
+
+## 🗂️ Flashcard
+36 - Philanthropy::Hoạt động từ thiện *(Phát âm: /fɪˈlæn.θrə.pi/)* ![[philanthropy.mp3]]<br><br>👪 **Word Family:** Philanthropist (n.)<br><br>💬 **Ví dụ:** Corporate philanthropy.<br>*(-> Hoạt động từ thiện của doanh nghiệp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The desire to promote the welfare of others.

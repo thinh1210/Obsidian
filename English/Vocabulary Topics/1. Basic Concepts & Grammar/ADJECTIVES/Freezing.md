@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Freezing
 *adj.*
 > /ˈfriːzɪŋ/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Nhiệt độ, Trạng thái vật lý & Độ phức tạp
+
+## 🗂️ Flashcard
+Freezing::Lạnh cóng *(Phát âm: /ˈfriːzɪŋ/)* ![[freezing.mp3]]<br><br>👪 **Word Family:** freeze<br><br>💬 **Ví dụ:** I am freezing.<br>*(-> Tôi lạnh cóng.)*
+<!--SR:!2026-10-03,1,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Below 0°C; very cold

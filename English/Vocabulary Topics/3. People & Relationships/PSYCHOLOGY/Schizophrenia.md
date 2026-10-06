@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Schizophrenia
 *noun*
 > /ˌskɪt.səˈfriː.ni.ə/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Rối loạn tâm lý, Nỗi sợ & Căng thẳng
+
+## 🗂️ Flashcard
+Schizophrenia::Bệnh tâm thần phân liệt *(Phát âm: /ˌskɪt.səˈfriː.ni.ə/)* ![[schizophrenia.mp3]]<br><br>👪 **Word Family:** schizophrenic (adj)<br><br>💬 **Ví dụ:** He was diagnosed with schizophrenia.<br>*(-> Anh ấy được chẩn đoán mắc bệnh tâm thần phân liệt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** A severe psychiatric disorder with symptoms of emotional instability, detachment from reality.

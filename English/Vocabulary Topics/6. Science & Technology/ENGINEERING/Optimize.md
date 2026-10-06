@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ENGINEERING
+  - review/6-Science-and-Technology/ENGINEERING
+---
 # Optimize
 *verb*
 > /ˈɒptɪmaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ENGINEERING | **Phân nhóm:** Thiết kế kỹ thuật, Đo lường & Tối ưu hóa quy trình
+
+## 🗂️ Flashcard
+Optimize::Tối ưu hóa *(Phát âm: /ˈɒptɪmaɪz/)* ![[optimize.mp3]]<br><br>👪 **Word Family:** optimization (n), optimal (adj), optimum (n/adj)<br><br>💬 **Ví dụ:** Software developers work constantly to optimize the app's loading time.<br>*(-> Các nhà phát triển phần mềm làm việc liên tục để tối ưu hóa thời gian tải ứng dụng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To make the best or most effective use of a situation, opportunity, or resource.

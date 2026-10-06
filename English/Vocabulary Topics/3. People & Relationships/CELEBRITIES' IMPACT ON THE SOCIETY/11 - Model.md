@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Model
 *n.*
 > /ˈmɒd.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Danh tiếng, Thần tượng & Lối sống xa hoa
+
+## 🗂️ Flashcard
+11 - Model::Người mẫu *(Phát âm: /ˈmɒd.əl/)* ![[model.mp3]]<br><br>👪 **Word Family:** Modeling (n.)<br><br>💬 **Ví dụ:** She is a model.<br>*(-> Cô ấy là người mẫu.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who poses for photography.

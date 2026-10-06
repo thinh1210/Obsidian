@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/EDUCATION
+  - review/8-Arts-Culture-and-Society/EDUCATION
+---
 # Grade
 *n.*
 > /ɡreɪd/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** EDUCATION | **Phân nhóm:** Khung chương trình đào tạo, Đánh giá & Học bổng
+
+## 🗂️ Flashcard
+Grade::Điểm số hoặc hạng học lực đánh giá kết quả học tập của học sinh *(Phát âm: /ɡreɪd/)* ![[grade.mp3]]<br><br>👪 **Word Family:** grader (n), grading (n)<br><br>💬 **Ví dụ:** He studied diligently every evening to keep his grades high throughout high school.<br>*(-> Cậu ấy học tập chăm chỉ mỗi tối để duy trì điểm số cao trong suốt những năm cấp ba.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A mark indicating a student's level of accomplishment in an examination or school course.

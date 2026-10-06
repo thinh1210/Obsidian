@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+  - review/6-Science-and-Technology/INFORMATION-TECHNOLOGY-TECHNOLOGY
+---
 # Hacker
 *n.*
 > /ˈhæk.ər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** INFORMATION TECHNOLOGY - TECHNOLOGY | **Phân nhóm:** An toàn thông tin, Mã hóa & Lỗ hổng bảo mật
+
+## 🗂️ Flashcard
+Hacker::Tin tặc sử dụng kỹ năng tin học để xâm nhập trái phép vào hệ thống mạng *(Phát âm: /ˈhæk.ər/)* ![[hacker.mp3]]<br><br>👪 **Word Family:** hack (v/n), hacking (n)<br><br>💬 **Ví dụ:** Companies often hire ethical hackers to test their firewalls for security holes.<br>*(-> Các công ty thường thuê hacker mũ trắng để kiểm tra các lỗ hổng trên tường lửa của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who uses computers to gain unauthorized access to data, systems, or networks.

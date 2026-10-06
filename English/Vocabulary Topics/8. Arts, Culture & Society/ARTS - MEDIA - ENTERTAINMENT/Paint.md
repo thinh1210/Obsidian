@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+  - review/8-Arts-Culture-and-Society/ARTS-MEDIA-ENTERTAINMENT
+---
 # Paint
 *v.*
 > /peɪnt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ARTS - MEDIA - ENTERTAINMENT | **Phân nhóm:** Nghệ thuật sáng tạo, Diễn xuất & Kiệt tác sân khấu
+
+## 🗂️ Flashcard
+Paint::Vẽ, sơn *(Phát âm: /peɪnt/)* ![[paint.mp3]]<br><br>👪 **Word Family:** painter, painting, painted<br><br>💬 **Ví dụ:** She likes to paint landscapes in her free time.<br>*(-> Cô ấy thích vẽ phong cảnh vào thời gian rảnh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Apply paint to (a surface), or depict (a picture or scene) using paint.

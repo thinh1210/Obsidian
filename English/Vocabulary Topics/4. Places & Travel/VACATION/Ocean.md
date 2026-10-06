@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Ocean
 *n.*
 > /ˈəʊʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** VACATION | **Phân nhóm:** Kỳ nghỉ, Bãi biển & Thư giãn
+
+## 🗂️ Flashcard
+Ocean::Vùng biển khổng lồ bao la bao bọc lấy các lục địa trên Trái Đất *(Phát âm: /ˈəʊʃn/)* ![[ocean.mp3]]<br><br>👪 **Word Family:** oceanic (adj), oceanography (n)<br><br>💬 **Ví dụ:** Our balcony offered an unobstructed panoramic view of the sparkling ocean.<br>*(-> Ban công phòng chúng tôi nhìn thẳng ra toàn cảnh đại dương lấp lánh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A very large expanse of sea, in particular each of the main areas into which the sea is divided geographically.

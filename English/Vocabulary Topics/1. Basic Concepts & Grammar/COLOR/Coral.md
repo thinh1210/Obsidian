@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Coral
 *adj., n.*
 > /ˈkɒr.əl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Sắc thái ấm & Rực rỡ
+
+## 🗂️ Flashcard
+Coral::Màu hồng cam tươi tắn, lấy cảm hứng từ các rạn san hô biển *(Phát âm: /ˈkɒr.əl/)* ![[coral.mp3]]<br><br>👪 **Word Family:** coralline (adj)<br><br>💬 **Ví dụ:** She selected a cheerful coral dress for the seaside wedding ceremony.<br>*(-> Cô đã chọn một chiếc váy màu hồng cam san hô vui tươi cho lễ cưới bên bờ biển.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A bright pinkish-orange color, resembling the calcium carbonate skeleton of sea corals.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/LAW
+  - review/8-Arts-Culture-and-Society/LAW
+---
 # Prosecute
 *verb*
 > /ˈprɒs.ɪ.kjuːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** LAW | **Phân nhóm:** Học thuyết pháp lý, Quyền công dân & Án lệ
+
+## 🗂️ Flashcard
+Prosecute::Khởi tố, truy tố trước pháp luật *(Phát âm: /ˈprɒs.ɪ.kjuːt/)* ![[prosecute.mp3]]<br><br>👪 **Word Family:** Prosecute (v), Prosecution (n), Prosecutor (n), Prosecutorial (adj)<br><br>💬 **Ví dụ:** The state decided to prosecute the suspect for armed robbery.<br>*(-> Bang đã quyết định truy tố nghi phạm vì tội cướp có vũ khí.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Institute legal proceedings against (a person or organization).

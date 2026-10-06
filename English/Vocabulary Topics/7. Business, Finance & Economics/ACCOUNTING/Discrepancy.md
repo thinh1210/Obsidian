@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/ACCOUNTING
+  - review/7-Business-Finance-and-Economics/ACCOUNTING
+---
 # Discrepancy
 *n.*
 > /dɪˈskrepənsi/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ACCOUNTING | **Phân nhóm:** Tài sản, Nợ phải trả & Khả năng thanh toán
+
+## 🗂️ Flashcard
+Discrepancy::Sự khác biệt, sự sai lệch *(Phát âm: /dɪˈskrepənsi/)* ![[discrepancy.mp3]]<br><br>👪 **Word Family:** discrepant<br><br>💬 **Ví dụ:** There is a discrepancy between the price tag and the bill.<br>*(-> Có sự sai lệch giữa thẻ giá và hóa đơn thanh toán.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An illogical or unexpected difference between two figures or records that should be the same

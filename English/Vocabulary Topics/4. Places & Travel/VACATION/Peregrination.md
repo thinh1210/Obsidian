@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/VACATION
+  - review/4-Places-and-Travel/VACATION
+---
 # Peregrination
 *Noun*
 > /ˌpɛrɪɡrɪˈneɪʃən/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1-C2 | **Ngữ cảnh:** Academic | **Chủ đề:** VACATION | **Phân nhóm:** Hành trình, Chuyến đi & Khám phá
+
+## 🗂️ Flashcard
+Peregrination::Cuộc du hành *(Phát âm: /ˌpɛrɪɡrɪˈneɪʃən/)* ![[peregrination.mp3]]<br><br>👪 **Word Family:** peregrinate (v)<br><br>💬 **Ví dụ:** His peregrinations took him to Asia.<br>*(-> Các chuyến du hành đã đưa ông tới châu Á.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A journey, especially a long or meandering one.

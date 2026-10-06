@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Speculate
 *verb.*
 > /ˈspekjuleɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
+
+## 🗂️ Flashcard
+Speculate::Đầu cơ *(Phát âm: /ˈspekjuleɪt/)* ![[speculate.mp3]]<br><br>👪 **Word Family:** speculation (noun), speculative (adj), speculator (noun)<br><br>💬 **Ví dụ:** It is dangerous to speculate in foreign exchange if you don't understand the market.<br>*(-> Rất nguy hiểm nếu đầu cơ ngoại hối nếu bạn không hiểu rõ thị trường.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** To invest in stocks, property, or other ventures in the hope of gain but with the risk of loss.

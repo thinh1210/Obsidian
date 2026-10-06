@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/MONEY
+  - review/7-Business-Finance-and-Economics/MONEY
+---
 # Tip
 *n./v.*
 > /tɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** MONEY | **Phân nhóm:** Tiền mặt, Tiền xu & Chi tiêu mua bán hàng ngày
+
+## 🗂️ Flashcard
+Tip::Khoản tiền boa thưởng thêm cho nhân viên phục vụ, tài xế vì sự chu đáo *(Phát âm: /tɪp/)* ![[tip.mp3]]<br><br>👪 **Word Family:** tipping (n)<br><br>💬 **Ví dụ:** In the United States, it is customary to leave a fifteen to twenty percent tip at sit-down restaurants.<br>*(-> Tại Hoa Kỳ, việc để lại tiền boa từ 15 đến 20 phần trăm tại các nhà hàng phục vụ tại bàn là một thông lệ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A small amount of extra money given to someone, such as a waiter or driver, to reward good service.

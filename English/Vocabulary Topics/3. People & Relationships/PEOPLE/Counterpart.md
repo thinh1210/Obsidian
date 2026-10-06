@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PEOPLE
+  - review/3-People-and-Relationships/PEOPLE
+---
 # Counterpart
 *n.*
 > /ˈkaʊn.tə.pɑːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** PEOPLE | **Phân nhóm:** Nhóm xã hội, Cộng đồng & Đồng nghiệp
+
+## 🗂️ Flashcard
+Counterpart::Đối tác, người đồng cấp *(Phát âm: /ˈkaʊn.tə.pɑːt/)* ![[counterpart.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** He met with his French counterpart.<br>*(-> Ông đã gặp người đồng cấp Pháp.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person or thing holding a position or performing a function that corresponds to that of another person or thing.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/MUSIC
+  - review/8-Arts-Culture-and-Society/MUSIC
+---
 # Solo
 *n.*
 > /ˈsəʊ.ləʊ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** MUSIC | **Phân nhóm:** Nhạc cụ, Ca sĩ & Trình diễn âm nhạc
+
+## 🗂️ Flashcard
+Solo::Phần độc diễn, hát đơn, chơi đơn *(Phát âm: /ˈsəʊ.ləʊ/)* ![[solo.mp3]]<br><br>👪 **Word Family:** soloist (n)<br><br>💬 **Ví dụ:** She performed a beautiful piano solo at the end of the concert.<br>*(-> Cô ấy đã trình diễn một bản độc tấu piano tuyệt đẹp ở cuối buổi hòa nhạc.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A piece of music or section of a piece played or sung by a single performer.

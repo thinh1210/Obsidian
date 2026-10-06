@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/COSMOLOGY
+  - review/6-Science-and-Technology/COSMOLOGY
+---
 # Astrophysics
 *Noun*
 > /ˌæs.trəʊˈfɪz.ɪks/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** COSMOLOGY | **Phân nhóm:** Vật lý vũ trụ học & Bí ẩn nguồn gốc vũ trụ
+
+## 🗂️ Flashcard
+Astrophysics::Vật lý thiên văn *(Phát âm: /ˌæs.trəʊˈfɪz.ɪks/)* ![[astrophysics.mp3]]<br><br>👪 **Word Family:** astrophysicist (n), astrophysical (adj)<br><br>💬 **Ví dụ:** He is studying astrophysics at university.<br>*(-> Anh ấy đang học ngành vật lý thiên văn ở trường đại học.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The branch of astronomy concerned with the physical nature of stars and celestial bodies.

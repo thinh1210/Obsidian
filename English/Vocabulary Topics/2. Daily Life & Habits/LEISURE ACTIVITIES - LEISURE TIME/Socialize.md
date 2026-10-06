@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+  - review/2-Daily-Life-and-Habits/LEISURE-ACTIVITIES-LEISURE-TIME
+---
 # Socialize
 *v*
 > /ˈsəʊʃəlaɪz/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** LEISURE ACTIVITIES - LEISURE TIME | **Phân nhóm:** Nghỉ ngơi, Thư giãn & Hoạt động xã hội
+
+## 🗂️ Flashcard
+Socialize::Giao lưu *(Phát âm: /ˈsəʊʃəlaɪz/)* ![[socialize.mp3]]<br><br>👪 **Word Family:** Socialization (n), Social (adj)<br><br>💬 **Ví dụ:** I like to socialize on weekends.<br>*(-> Tôi thích giao lưu vào cuối tuần.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Participate in social activities; mix socially with others.

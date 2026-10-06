@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/ENVIRONMENT
+  - review/5-Nature-and-Environment/ENVIRONMENT
+---
 # Litter
 *n.*
 > /ˈlɪtər/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** ENVIRONMENT | **Phân nhóm:** Tái chế, Quản lý rác thải & Năng lượng tái tạo
+
+## 🗂️ Flashcard
+Litter::Rác xả bừa bãi, vỏ chai bao bì vứt lung tung nơi công cộng làm mất mỹ quan và ô nhiễm *(Phát âm: /ˈlɪtər/)* ![[litter.mp3]]<br><br>👪 **Word Family:** littering (n), litterbug (n)<br><br>💬 **Ví dụ:** Volunteers spent their Saturday morning picking up plastic litter along the sandy shoreline.<br>*(-> Các tình nguyện viên đã dành sáng thứ Bảy để nhặt rác nhựa dọc theo bờ biển cát trắng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Waste products that have been disposed of improperly, without consent, at an inappropriate location.

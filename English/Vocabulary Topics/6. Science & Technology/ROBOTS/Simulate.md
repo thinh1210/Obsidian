@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/ROBOTS
+  - review/6-Science-and-Technology/ROBOTS
+---
 # Simulate
 *verb.*
 > /ˈsɪm.jə.leɪt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** ROBOTS | **Phân nhóm:** Hệ điều khiển, Lập trình & Vận hành tự động
+
+## 🗂️ Flashcard
+Simulate::Mô phỏng *(Phát âm: /ˈsɪm.jə.leɪt/)* ![[simulate.mp3]]<br><br>👪 **Word Family:** simulation (noun), simulator (noun)<br><br>💬 **Ví dụ:** Computer programs can simulate the movements of robots.<br>*(-> Các chương trình máy tính có thể mô phỏng chuyển động của robot.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** To recreate the conditions of a situation, especially for testing or training

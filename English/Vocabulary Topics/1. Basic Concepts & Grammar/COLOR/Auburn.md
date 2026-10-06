@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Auburn
 *adj., n.*
 > /ˈɔː.bən/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Auburn::Màu nâu đỏ, hung đỏ óng ả (đặc biệt miêu tả màu tóc) *(Phát âm: /ˈɔː.bən/)* ![[auburn.mp3]]<br><br>👪 **Word Family:** auburn-haired (adj)<br><br>💬 **Ví dụ:** Her long auburn hair glowed with rich copper highlights under the autumn sun.<br>*(-> Mái tóc dài màu hung đỏ của cô ánh lên những vệt màu đồng ấm áp dưới nắng thu.)*
+<!--SR:!2026-10-03,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A reddish-brown color, almost always used to describe hair.

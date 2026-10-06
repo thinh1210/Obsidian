@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/NATURE
+  - review/5-Nature-and-Environment/NATURE
+---
 # Geothermal
 *Adjective*
 > /ˌdʒiːəʊˈθɜːml/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** NATURE | **Phân nhóm:** Khí quyển, Bầu trời & Hiện tượng thiên nhiên
+
+## 🗂️ Flashcard
+Geothermal::Thuộc địa nhiệt *(Phát âm: /ˌdʒiːəʊˈθɜːml/)* ![[geothermal.mp3]]<br><br>👪 **Word Family:** geothermally<br><br>💬 **Ví dụ:** Iceland utilizes geothermal energy to heat most of its homes.<br>*(-> Iceland sử dụng năng lượng địa nhiệt để sưởi ấm hầu hết ngôi nhà của họ.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Relating to or produced by the internal heat of the earth.

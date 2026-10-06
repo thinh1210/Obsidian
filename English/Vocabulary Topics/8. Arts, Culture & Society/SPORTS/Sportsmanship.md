@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Sportsmanship
 *n.*
 > /ˈspɔːts.mən.ʃɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** SPORTS | **Phân nhóm:** Thể lực sung mãn, Sức bền & Tinh thần thể thao chân chính
+
+## 🗂️ Flashcard
+Sportsmanship::Tinh thần thể thao, tinh thần thượng võ *(Phát âm: /ˈspɔːts.mən.ʃɪp/)* ![[sportsmanship.mp3]]<br><br>👪 **Word Family:** sportsman, sportswoman, sportsmanlike<br><br>💬 **Ví dụ:** Shaking hands with your opponent is a basic rule of good sportsmanship.<br>*(-> Bắt tay với đối thủ là một quy tắc cơ bản của tinh thần thể thao tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Fair and generous behavior or treatment of others, especially in a sports contest.

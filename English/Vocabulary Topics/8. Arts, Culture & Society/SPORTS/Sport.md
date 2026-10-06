@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Sport
 *n.*
 > /spɔːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Sport::Thể thao, môn thể thao *(Phát âm: /spɔːt/)* ![[sport.mp3]]<br><br>👪 **Word Family:** sports, sporting, sporty<br><br>💬 **Ví dụ:** Badminton is my favorite sport.<br>*(-> Cầu lông là môn thể thao yêu thích của tôi.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment.

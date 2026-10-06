@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+  - review/7-Business-Finance-and-Economics/HUMAN-RESOURCES
+---
 # Absenteeism
 *n.*
 > /ˌæb.sənˈtiː.ɪ.zəm/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Formal | **Chủ đề:** HUMAN RESOURCES | **Phân nhóm:** Nghỉ việc, Sa thải & Quan hệ lao động
+
+## 🗂️ Flashcard
+Absenteeism::Nạn trốn việc, vắng mặt không phép kéo dài *(Phát âm: /ˌæb.sənˈtiː.ɪ.zəm/)* ![[absenteeism.mp3]]<br><br>👪 **Word Family:** absent, absentee<br><br>💬 **Ví dụ:** The company introduced rewards to reduce employee absenteeism.<br>*(-> Công ty đã đưa ra các phần thưởng để giảm tình trạng trốn việc của nhân viên.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The habitual practice of staying away from work without good reason

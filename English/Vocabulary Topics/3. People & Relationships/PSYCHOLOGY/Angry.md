@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/PSYCHOLOGY
+  - review/3-People-and-Relationships/PSYCHOLOGY
+---
 # Angry
 *adj*
 > /ˈæŋ.ɡri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** PSYCHOLOGY | **Phân nhóm:** Cảm xúc, Tính cách & Động lực
+
+## 🗂️ Flashcard
+Angry::Tức giận *(Phát âm: /ˈæŋ.ɡri/)* ![[angry.mp3]]<br><br>👪 **Word Family:** anger (noun)<br><br>💬 **Ví dụ:** He was very angry.<br>*(-> Anh ấy rất tức giận.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Having a strong feeling of or showing annoyance, displeasure, or hostility.

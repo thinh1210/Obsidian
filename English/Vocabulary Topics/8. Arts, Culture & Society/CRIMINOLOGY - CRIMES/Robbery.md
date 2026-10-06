@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+  - review/8-Arts-Culture-and-Society/CRIMINOLOGY-CRIMES
+---
 # Robbery
 *noun*
 > /ˈrɒbəri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A2 | **Ngữ cảnh:** Daily | **Chủ đề:** CRIMINOLOGY - CRIMES | **Phân nhóm:** Hành vi tội phạm, Vụ án & Hiện trường
+
+## 🗂️ Flashcard
+Robbery::Vụ cướp, sự cướp bóc *(Phát âm: /ˈrɒbəri/)* ![[robbery.mp3]]<br><br>👪 **Word Family:** rob (v), robber (n)<br><br>💬 **Ví dụ:** The police are investigating an armed robbery at the jewelry shop.<br>*(-> Cảnh sát đang điều tra một vụ cướp có vũ trang tại cửa hàng trang sức.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The crime of stealing money or goods, especially using violence or threats

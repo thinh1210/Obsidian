@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Privacy
 *n.*
 > /ˈprɪv.ə.si/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Truyền thông, Tin tức & Sự săn đón
+
+## 🗂️ Flashcard
+24 - Privacy::Sự riêng tư *(Phát âm: /ˈprɪv.ə.si/)* ![[privacy.mp3]]<br><br>👪 **Word Family:** Private (adj.)<br><br>💬 **Ví dụ:** Need privacy.<br>*(-> Cần sự riêng tư.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The state or condition of being free from being observed.

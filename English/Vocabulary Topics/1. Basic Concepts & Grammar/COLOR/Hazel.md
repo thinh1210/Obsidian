@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/COLOR
+  - review/1-Basic-Concepts-and-Grammar/COLOR
+---
 # Hazel
 *adj., n.*
 > /ˈheɪ.zəl/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Daily | **Chủ đề:** COLOR | **Phân nhóm:** Màu sắc cơ bản & Tự nhiên
+
+## 🗂️ Flashcard
+Hazel::Màu nâu lục, nâu vàng hạt dẻ (thường dùng miêu tả màu mắt) *(Phát âm: /ˈheɪ.zəl/)* ![[hazel.mp3]]<br><br>👪 **Word Family:** hazelnut (n)<br><br>💬 **Ví dụ:** Under the bright sunlight, her hazel eyes seem to shift between green and gold.<br>*(-> Dưới ánh nắng rực rỡ, đôi mắt màu hạt dẻ của cô dường như biến chuyển giữa sắc xanh lá và ánh vàng.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A greenish-brown or yellowish-brown color, especially used to describe eyes.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+  - review/2-Daily-Life-and-Habits/A-STYLISH-PERSON
+---
 # Aesthete
 *n.*
 > /ˈesθiːt/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C2 | **Ngữ cảnh:** Academic | **Chủ đề:** A STYLISH PERSON | **Phân nhóm:** Cá tính độc đáo & Phong cách ấn tượng
+
+## 🗂️ Flashcard
+Aesthete::Người yêu cái đẹp, người thẩm mỹ *(Phát âm: /ˈesθiːt/)* ![[aesthete.mp3]]<br><br>👪 **Word Family:** Aesthetic (adj)<br><br>💬 **Ví dụ:** As an aesthete, he spends hours in art galleries.<br>*(-> Là một người yêu cái đẹp, anh ấy dành hàng giờ trong các phòng tranh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A person who understands and enjoys beauty.

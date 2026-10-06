@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/6-Science-and-Technology/INVENTIONS
+  - review/6-Science-and-Technology/INVENTIONS
+---
 # Prototype
 *Noun*
 > /ˈprəʊ.tə.taɪp/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Work/Academic | **Chủ đề:** INVENTIONS | **Phân nhóm:** Quy trình thiết kế, R&D & Tạo mẫu thử nghiệm
+
+## 🗂️ Flashcard
+Prototype::Bản thử nghiệm đầu tiên, mẫu thử nghiệm *(Phát âm: /ˈprəʊ.tə.taɪp/)* ![[prototype.mp3]]<br><br>👪 **Word Family:** Prototypical (adj)<br><br>💬 **Ví dụ:** We are testing a prototype of the new vacuum cleaner.<br>*(-> Chúng tôi đang thử nghiệm một mẫu thử nghiệm của máy hút bụi mới.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The first example of something, such as a machine or other industrial product, from which all later forms are developed.

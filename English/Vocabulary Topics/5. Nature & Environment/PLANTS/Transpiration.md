@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/5-Nature-and-Environment/PLANTS
+  - review/5-Nature-and-Environment/PLANTS
+---
 # Transpiration
 *noun*
 > /ˌtrænspɪˈreɪʃn/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Academic | **Chủ đề:** PLANTS | **Phân nhóm:** Sinh lý học, Quang hợp & Canh tác cây trồng
+
+## 🗂️ Flashcard
+Transpiration::Sự thoát hơi nước (qua lá cây) *(Phát âm: /ˌtrænspɪˈreɪʃn/)* ![[transpiration.mp3]]<br><br>👪 **Word Family:** Noun: transpiration (sự thoát hơi nước), Verb: transpire (thoát hơi nước), Adjective: transpirational (thuộc về thoát hơi nước)<br><br>💬 **Ví dụ:** On hot days, plants lose a lot of water due to transpiration.<br>*(-> Vào những ngày nắng nóng, cây bị mất rất nhiều nước do sự thoát hơi nước.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The exhalation of water vapor through the stomata of a plant.

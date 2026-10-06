@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/8-Arts-Culture-and-Society/SPORTS
+  - review/8-Arts-Culture-and-Society/SPORTS
+---
 # Match
 *n.*
 > /mætʃ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** SPORTS | **Phân nhóm:** Trận đấu, Cúp vô địch, Sân vận động & Chiến thắng
+
+## 🗂️ Flashcard
+Match::Trận đấu *(Phát âm: /mætʃ/)* ![[match.mp3]]<br><br>👪 **Word Family:** matchmaker, matching, matchless<br><br>💬 **Ví dụ:** We are going to watch a football match tonight.<br>*(-> Chúng tôi sẽ đi xem một trận đấu bóng đá tối nay.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** A contest in which people or teams compete against each other in a particular sport.

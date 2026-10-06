@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/2-Daily-Life-and-Habits/HOBBIES
+  - review/2-Daily-Life-and-Habits/HOBBIES
+---
 # Birdwatching
 *n.*
 > /ˈbɜːdˌwɒtʃ.ɪŋ/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Daily | **Chủ đề:** HOBBIES | **Phân nhóm:** Nấu nướng, Làm vườn & Thư giãn tinh thần
+
+## 🗂️ Flashcard
+Birdwatching::Thú vui tao nhã quan sát các loài chim hoang dã trong môi trường tự nhiên *(Phát âm: /ˈbɜːdˌwɒtʃ.ɪŋ/)* ![[birdwatching.mp3]]<br><br>👪 **Word Family:** birdwatcher (n), birdwatch (v)<br><br>💬 **Ví dụ:** Armed with high-powered binoculars and a field guide, he went birdwatching in the wetlands at dawn.<br>*(-> Mang theo ống nhòm độ phóng đại cao và cẩm nang thực địa, anh đi ngắm chim ở vùng đất ngập nước lúc bình minh.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The hobby of observing wild birds in their natural habitat as a recreational activity.

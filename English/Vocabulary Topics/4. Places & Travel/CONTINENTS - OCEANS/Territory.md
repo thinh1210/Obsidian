@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/4-Places-and-Travel/CONTINENTS-OCEANS
+  - review/4-Places-and-Travel/CONTINENTS-OCEANS
+---
 # Territory
 *noun*
 > /ˈterətri/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B2 | **Ngữ cảnh:** Academic/Formal | **Chủ đề:** CONTINENTS - OCEANS | **Phân nhóm:** Lục địa, Đất liền & Ranh giới địa lý
+
+## 🗂️ Flashcard
+Territory::Lãnh thổ *(Phát âm: /ˈterətri/)* ![[territory.mp3]]<br><br>👪 **Word Family:** Territorial (adj.)<br><br>💬 **Ví dụ:** The dog was protecting its territory.<br>*(-> Con chó đang bảo vệ lãnh thổ của nó.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** An area of land under the jurisdiction of a ruler or state.

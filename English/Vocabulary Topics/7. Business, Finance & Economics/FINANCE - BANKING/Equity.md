@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/7-Business-Finance-and-Economics/FINANCE-BANKING
+  - review/7-Business-Finance-and-Economics/FINANCE-BANKING
+---
 # Equity
 *noun.*
 > /ˈekwəti/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** C1 | **Ngữ cảnh:** Work | **Chủ đề:** FINANCE - BANKING | **Phân nhóm:** Thị trường vốn, Cổ tức, Danh mục đầu tư & Lợi suất
+
+## 🗂️ Flashcard
+Equity::Vốn chủ sở hữu *(Phát âm: /ˈekwəti/)* ![[equity.mp3]]<br><br>👪 **Word Family:** equitable (adj), equitableness (noun)<br><br>💬 **Ví dụ:** She built up equity in her home by paying down the mortgage over ten years.<br>*(-> Cô ấy đã tích lũy vốn chủ sở hữu trong ngôi nhà của mình bằng cách trả bớt nợ thế chấp trong mười năm.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** The value of shares issued by a company, or the value of an owner's share in a property.

@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/1-Basic-Concepts-and-Grammar/ADJECTIVES
+  - review/1-Basic-Concepts-and-Grammar/ADJECTIVES
+---
 # Clean
 *adj.*
 > /kliːn/
@@ -6,6 +13,10 @@
 
 ---
 **Level:** A1 | **Ngữ cảnh:** Daily | **Chủ đề:** ADJECTIVES | **Phân nhóm:** Thẩm mỹ, Tốc độ & Đặc tính nổi bật
+
+## 🗂️ Flashcard
+Clean::Sạch sẽ, tinh tươm, không tì vết, không bị ô nhiễm *(Phát âm: /kliːn/)* ![[clean.mp3]]<br><br>👪 **Word Family:** cleanly (adv), cleanliness (n), clean (v), cleaner (n)<br><br>💬 **Ví dụ:** She always keeps her kitchen counter clean and well organized.<br>*(-> Cô ấy luôn giữ mặt bàn bếp sạch sẽ và sắp xếp ngăn nắp.)*
+<!--SR:!2026-10-05,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from dirt, marks, or stains; not contaminated.

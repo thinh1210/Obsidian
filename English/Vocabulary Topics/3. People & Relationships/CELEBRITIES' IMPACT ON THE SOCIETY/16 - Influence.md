@@ -1,3 +1,10 @@
+---
+tags:
+  - review
+  - flashcards
+  - flashcards/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+  - review/3-People-and-Relationships/CELEBRITIES-IMPACT-ON-THE-SOCIETY
+---
 # Influence
 *n.*
 > /ˈɪn.flu.əns/
@@ -6,6 +13,9 @@
 
 ---
 **Level:** B1 | **Ngữ cảnh:** Academic | **Chủ đề:** CELEBRITIES' IMPACT ON THE SOCIETY | **Phân nhóm:** Hệ lụy tiêu cực & Sự tác động sâu sắc
+
+## 🗂️ Flashcard
+16 - Influence::Sự ảnh hưởng *(Phát âm: /ˈɪn.flu.əns/)* ![[influence.mp3]]<br><br>👪 **Word Family:** Influential (adj.)<br><br>💬 **Ví dụ:** Good influence.<br>*(-> Ảnh hưởng tốt.)*
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The power to have an effect on people or things.
