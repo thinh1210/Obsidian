@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Mysterious::Bí ẩn *(Phát âm: /mɪˈstɪəriəs/)* ![[mysterious.mp3]]<br><br>👪 **Word Family:** mystery<br><br>💬 **Ví dụ:** Mysterious stranger.<br>*(-> Người lạ bí ẩn.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Difficult or impossible to understand, explain, or identify

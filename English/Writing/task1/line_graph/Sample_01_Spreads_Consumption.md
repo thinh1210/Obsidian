@@ -83,16 +83,13 @@ In contrast, low fat and reduced spreads were only introduced in 1996 at around 
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation                     | Phiên âm IPA                             | Cấp độ  |       Phân loại        | Định nghĩa ngắn gọn                           | Ngữ cảnh ứng dụng trong bài                                                         |
-| :---------------------------------------- | :--------------------------------------- | :-----: | :--------------------: | :-------------------------------------------- | :---------------------------------------------------------------------------------- |
-| **consumption of**                        | `/kənˈsʌmpʃn ɒv/`                        | `B2/C1` |     *Noun Phrase*      | Mức tiêu thụ của cái gì                       | *"The consumption of margarine and butter decreased over the period."*              |
-| **surpassed**                             | `/səˈpɑːst/`                             |  `C1`   |         *Verb*         | Vượt qua, qua mặt                             | *"Margarine consumption surpassed that of butter..."*                               |
-| **peaked at**                             | `/piːkt æt/`                             | `B2/C1` |   *Verb Collocation*   | Đạt đỉnh điểm tại mức nào                     | *"...peaking at over 100 grams in 1991."*                                           |
-| **witnessed a persistent downward trend** | `/ˈwɪtnɪst ə pəˈsɪstənt ˈdaʊnwəd trend/` | `C1/C2` |        *Phrase*        | Ghi nhận một xu hướng giảm dai dẳng, liên tục | *"...before witnessing a persistent downward trend to finish at roughly 40 grams."* |
-| **steep climb**                           | `/stiːp klaɪm/`                          |  `C1`   |     *Noun Phrase*      | Sự tăng vọt dốc đứng                          | *"Experienced a steep climb over the next five years."*                             |
-| **dipped slightly**                       | `/dɪpt ˈslaɪtli/`                        | `B2/C1` |     *Verb Phrase*      | Giảm nhẹ một chút rồi chững lại               | *"Although its consumption dipped slightly towards the end..."*                     |
-| **stood at / closing at**                 | `/stʊd æt/`                              | `B2/C1` |         *Verb*         | Dừng ở mức / khép lại thời kỳ ở mức           | *"...standing at about 70 grams."*                                                  |
-| **over the period given / timeline**      | `/ˈtaɪmlaɪn/`                            |  `B2`   | *Prepositional Phrase* | Trong suốt giai đoạn được đưa ra              | *"Over the period given..."*                                                        |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **consumption of / intake** | `/kənˈsʌmpʃn/ - /ˈɪnteɪk/` | `C1` | *Noun Phrase* | Mức tiêu thụ, lượng nạp vào cơ thể | `dietary uptake` • `usage level` • `per capita ingestion` |
+| **witnessed / experienced** | /ˈwɪtnəst/ - /ɪkˈspɪəriənst/` | `B2/C1` | *Verbs* | Chứng kiến, ghi nhận (dùng cho mốc thời gian/chủ thể) | `registered` • `recorded` • `underwent` |
+| **precipitous decline / plummeted** | /prɪˈsɪpɪtəs dɪˈklaɪn/` | `C2` | *Collocation* | Sự sụt giảm thẳng đứng, lao dốc không phanh | `sharp downturn` • `steep tumble` • `drastic contraction` |
+| **upward trajectory / peaked at** | /ˈʌpwəd trəˈdʒektəri/` | `C1/C2` | *Collocation* | Xu hướng đi lên / Đạt đỉnh điểm tại mức | `steady ascent / crested at` • `sustained climb / reached its apogee at` |
+| **fluctuated / levelled off** | /ˈflʌktʃueɪtɪd/ - /ˈlevld ɒf/` | `B2/C1` | *Verbs* | Biến động trồi sụt / Đi ngang ổn định | `oscillated / plateaued` • `showed volatility / stabilized` |
 
 ---
 

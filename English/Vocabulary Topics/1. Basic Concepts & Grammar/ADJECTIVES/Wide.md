@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Wide::Rộng, bao la, có khoảng cách lớn giữa hai bờ hoặc cạnh *(Phát âm: /waɪd/)* ![[wide.mp3]]<br><br>👪 **Word Family:** widely (adv), widen (v), width (n)<br><br>💬 **Ví dụ:** The modern living room has wide windows that let in lots of sunlight.<br>*(-> Phòng khách hiện đại có những khung cửa sổ rộng đón thật nhiều ánh nắng.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Measuring a large distance from one side to the other.

@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Deep::Sâu, sâu thẳm; sâu sắc, uyên thâm *(Phát âm: /diːp/)* ![[deep.mp3]]<br><br>👪 **Word Family:** deeply (adv), deepen (v), depth (n)<br><br>💬 **Ví dụ:** Take a deep breath and relax your shoulders before starting the presentation.<br>*(-> Hãy hít một hơi thật sâu và thả lỏng vai trước khi bắt đầu bài thuyết trình.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Going or being a long way down from the top surface, or far into something.

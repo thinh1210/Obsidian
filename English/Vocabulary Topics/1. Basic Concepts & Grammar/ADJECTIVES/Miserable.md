@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Miserable::Khốn khổ *(Phát âm: /ˈmɪzrəbl/)* ![[miserable.mp3]]<br><br>👪 **Word Family:** misery<br><br>💬 **Ví dụ:** I feel miserable.<br>*(-> Tôi thấy khốn khổ.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Wretchedly unhappy or uncomfortable

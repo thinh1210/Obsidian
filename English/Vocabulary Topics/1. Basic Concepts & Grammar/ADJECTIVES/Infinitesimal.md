@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Infinitesimal::Cực kì nhỏ *(Phát âm: /ˌɪnfɪnɪˈtesɪml/)* ![[infinitesimal.mp3]]<br><br>👪 **Word Family:** infinitesimally<br><br>💬 **Ví dụ:** Infinitesimal pause.<br>*(-> Quãng nghỉ cực nhỏ.)*
-<!--SR:!2026-10-03,1,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely small

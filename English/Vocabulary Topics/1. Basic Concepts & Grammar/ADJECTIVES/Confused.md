@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Confused::Bối rối *(Phát âm: /kənˈfjuːzd/)* ![[confused.mp3]]<br><br>👪 **Word Family:** confusion<br><br>💬 **Ví dụ:** I am confused.<br>*(-> Tôi bối rối.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Unable to think clearly

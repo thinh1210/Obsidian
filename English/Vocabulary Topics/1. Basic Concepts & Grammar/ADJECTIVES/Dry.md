@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Dry::Khô ráo, không ướt; khô cằn; khô khan, thiếu cảm xúc *(Phát âm: /draɪ/)* ![[dry.mp3]]<br><br>👪 **Word Family:** dryly (adv), dryness (n), dry (v)<br><br>💬 **Ví dụ:** Make sure your hair is completely dry before going to sleep.<br>*(-> Hãy đảm bảo tóc bạn đã khô hoàn toàn trước khi đi ngủ.)*
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-20,14,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Free from moisture or liquid; not wet or moist; without rain.

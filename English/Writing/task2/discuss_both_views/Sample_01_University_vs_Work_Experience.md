@@ -65,6 +65,10 @@ In conclusion, I think that securing a good job requires a relevant background s
   - *Mối nối với câu trước:* Câu liền trước nêu luận điểm 1: Bằng đại học là điều kiện bắt buộc cho các ngành nghề chuyên môn (Bác sĩ, Luật sư). Câu này dùng `[Not only that, but]` để bắc cầu sang luận điểm 2 quan trọng hơn: Đại học không chỉ dạy kiến thức nghề, mà còn dạy kỹ năng tư duy phản biện.
   - *Kỹ thuật liên kết đại từ (Anaphoric Reference):* Từ `[that]` trong `Not only that` quy chiếu trực tiếp về toàn bộ việc bằng cấp mở ra cơ hội làm bác sĩ/luật sư ở câu trước.
 - 💡 **Công thức ghép câu:** `Not only that, but S_main + does V_main + Noun, for example [A, B and C], which are [Adjective + Noun].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Đảo ngữ hoàn chỉnh - Full Inversion):* "Not only does tertiary education instill rigorous specialized knowledge, but it also cultivates indispensable competencies such as critical inquiry and analytical rigor, both of which serve as versatile transferable assets."
+  - *Cách 2 (Danh từ hóa - Nominalisation):* "Beyond purely theoretical instruction, university matriculation fosters multifaceted cognitive aptitudes—namely analytical problem-solving and empirical research capacity—whose applicability transcends specific career fields."
+  - *Cách 3 (Nhấn mạnh giá trị thị trường - Market Value Focus):* "Higher education functions as an incubator not merely for academic expertise, but crucially for transferable intellectual skills that employers prize across diverse commercial sectors." 
 
 ---
 
@@ -80,21 +84,22 @@ In conclusion, I think that securing a good job requires a relevant background s
   - *Mối nối với câu trước:* Câu trước nêu luận điểm khái quát: *"having relevant work experience and soft skills can throw the balance in favour of the job applicant for certain hands-on types of work"* (khái niệm trừu tượng: công việc thực hành). Câu này lập tức dùng `[For instance]` gắn vào một vị trí công việc cụ thể: `[a corporate management position]` để chứng minh tính đúng đắn.
   - *Kỹ thuật lặp từ vựng đối chiếu (Lexical Contrast):* Từ `[theory of management]` ở câu này tạo ra sự tương phản đối lập trực tiếp với `[hands-on experience]` ở câu trước.
 - 💡 **Công thức ghép câu:** `For instance, for [Role], having experience of [V-ing 1, 2, and Noun] is of more importance than [Theory] when [Adjective phrase].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa + So sánh hơn - Nominalisation):* "In executive management, for example, demonstrated prowess in leadership, project coordination, and interpersonal tact carries significantly greater weight than abstract textbook theories held by recent graduates."
+  - *Cách 2 (Chủ ngữ là kinh nghiệm thực chiến - Practical Experience as Subject):* "Real-world exposure to supervisory responsibilities and cross-functional leadership decisively eclipses unproven theoretical knowledge when evaluating managerial candidates fresh from university."
+  - *Cách 3 (Mệnh đề quan hệ - Relative Clause):* "For commercial leadership positions, candidates who possess practical project management credentials and high emotional quotient consistently outshine university graduates armed solely with theoretical credentials." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **the former ... the latter** | `/ðə ˈfɔːmə ... ðə ˈlætə/` | `B2/C1` | *Cohesive Pair* | Cái trước ... cái sau (dùng đối chiếu) | *"The former is essential for academic jobs, while the latter are more useful in business."* |
-| **securing a good job** | `/sɪˈkjʊərɪŋ ə ɡʊd dʒɒb/` | `B2/C1` | *Collocation* | Giành được / đảm bảo được một công việc tốt | *"Being a university graduate is the key to securing a good job."* |
-| **one step ahead of** | `/wʌn step əˈhed ɒv/` | `C1` | *Idiom/Phrase* | Đi trước một bước, có lợi thế hơn | *"It puts people one step ahead of other applicants."* |
-| **transferable skills** | `/trænsˈfɜːrəbl skɪlz/` | `C1` | *Noun Phrase* | Kỹ năng mềm có thể chuyển đổi linh hoạt giữa các ngành | *"...analytical thinking, research skills, which are valuable transferable skills."* |
-| **throw the balance in favour of** | `/θrəʊ ðə ˈbæləns ɪn ˈfeɪvər ɒv/` | `C2` | *Idiom* | Làm cán cân nghiêng về phía ai đó (tạo lợi thế) | *"Can throw the balance in favour of the job applicant."* |
-| **hands-on types of work** | `/hændz ɒn taɪps ɒv wɜːk/` | `C1` | *Noun Phrase* | Công việc mang tính thực hành/thực chiến | *"...throw the balance in favour of the job applicant for certain hands-on types of work."* |
-| **emotional intelligence (EQ)** | `/ɪˈməʊʃənl ɪnˈtelɪdʒəns/` | `C1` | *Noun Phrase* | Trí tuệ cảm xúc | *"Having strong emotional intelligence is of more importance than theory."* |
-| **interpersonal skills** | `/ˌɪntəˈpɜːsənl skɪlz/` | `C1` | *Noun Phrase* | Kỹ năng giao tiếp và ứng xử giữa người với người | *"Certain industries require interpersonal skills developed through extensive experience."* |
+| **securing a good job** | `/sɪˈkjʊərɪŋ ə ɡʊd dʒɒb/` | `B2/C1` | *Collocation* | Giành được / đảm bảo một công việc tốt | `landing lucrative employment` • `attaining gainful employment` • `obtaining a desirable post` |
+| **transferable skills** | `/trænsˈfɜːrəbl skɪlz/` | `C1` | *Noun Phrase* | Kỹ năng mềm chuyển đổi linh hoạt | `cross-functional competencies` • `versatile skill set` • `portable proficiencies` |
+| **throw the balance in favour of** | `/θrəʊ ðə ˈbæləns/` | `C2` | *Idiom* | Nghiêng cán cân lợi thế về phía ai | `tip the scales in favor of` • `bestow a distinct competitive edge on` |
+| **hands-on experience** | `/hændz ɒn ɪkˈspɪəriəns/` | `C1` | *Noun Phrase* | Kinh nghiệm thực chiến, thực hành | `practical immersion` • `empirical workplace exposure` • `applied vocational expertise` |
+| **interpersonal skills** | /ˌɪntəˈpɜːsənl skɪlz/` | `C1` | *Noun Phrase* | Kỹ năng giao tiếp và ứng xử | `relational acumen` • `social and communicative aptitude` • `people skills` |
 
 ---
 

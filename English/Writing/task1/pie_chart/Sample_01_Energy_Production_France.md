@@ -70,16 +70,13 @@ With regards to the remaining energy sources, petrol began as the second most pr
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **accounted for / comprised / generated** | `/əˈkaʊntɪd fɔː/` | `B2/C1` | *Verb Collocation* | Chiếm tỉ lệ bao nhiêu phần trăm | *"Coal and gas accounted for over half of all energy production."* |
-| **marginal rise / negligible increase** | `/ˈmɑːdʒɪnl raɪz/` | `C1` | *Noun Phrase* | Sự gia tăng rất nhỏ, không đáng kể | *"...showed a marginal rise to 30.93%."* |
-| **three-fifths of** | `/θriː fɪfθs ɒv/` | `B2/C1` | *Fraction Paraphrase* | 3/5 tổng số (tương đương 60%) | *"...continually represented approximately three-fifths of all power."* |
-| **with regards to** | `/wɪð rɪˈɡɑːdz tuː/` | `B2/C1` | *Linking Phrase* | Xét về khía cạnh, đối với... | *"With regards to the remaining energy sources..."* |
-| **plummeted significantly** | `/ˈplʌmɪtɪd sɪɡˈnɪfɪkəntli/` | `C1` | *Verb Phrase* | Lao dốc mạnh, giảm tụt dốc | *"...but plummeted significantly to 19.55% a decade later."* |
-| **in sharp contrast** | `/ɪn ʃɑːp ˈkɒntrɑːst/` | `C1` | *Signpost* | Trái ngược hoàn toàn (tạo tính mạch lạc) | *"In sharp contrast, nuclear energy saw its share swell..."* |
-| **share swell from ... to ...** | `/ʃeə swel/` | `C2` | *Phrase* | Thị phần / tỷ trọng phình to, tăng vọt từ... lên... | *"...nuclear energy saw its share swell from 6.40% to 10.10%."* |
-| **timeframe / a decade later** | `/ˈtaɪmfreɪm/` | `B2/C1` | *Noun* | Khung thời gian / một thập kỷ sau đó | *"...over the ten-year timeframe."* |
+| **accounted for / comprised** | /əˈkaʊntɪd fɔː/` | `B2/C1` | *Collocations* | Chiếm tỷ lệ, cấu thành bao nhiêu % | `made up` • `represented` • `constituted` |
+| **dominant energy source** | /ˈdɒmɪnənt ˈenədʒi sɔːs/` | `C1` | *Noun Phrase* | Nguồn năng lượng thống trị, chiếm tỷ trọng cao nhất | `primary power contributor` • `foremost energy generator` • `predominant supply` |
+| **marginal increase** | /ˈmɑːdʒɪnl ˈɪnkriːs/` | `C1` | *Collocation* | Mức tăng nhẹ, không đáng kể | `negligible rise` • `fractional gain` • `slight uptick` |
+| **surpassed / outstripped** | /səˈpɑːst/ - /aʊtˈstrɪpt/` | `C1/C2` | *Verbs* | Vượt qua, bỏ xa đối thủ khác | `eclipsed` • `exceeded` • `overtook` |
+| **negligible proportion** | /ˈneɡlɪdʒəbl prəˈpɔːʃn/` | `C1/C2` | *Noun Phrase* | Tỷ lệ rất nhỏ, không đáng kể | `scant percentage` • `minimal fraction` • `modest share` |
 
 ---
 

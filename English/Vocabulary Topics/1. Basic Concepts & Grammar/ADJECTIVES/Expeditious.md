@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Expeditious::Nhanh chóng, mau lẹ *(Phát âm: /ˌekspəˈdɪʃəs/)* ![[expeditious.mp3]]<br><br>👪 **Word Family:** expedition<br><br>💬 **Ví dụ:** Expeditious delivery.<br>*(-> Giao hàng mau lẹ.)*
-<!--SR:!2026-10-03,1,230-->
+<!--SR:!2026-10-09,3,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Done with speed and efficiency

@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Small::Nhỏ *(Phát âm: /smɔːl/)* ![[small.mp3]]<br><br>👪 **Word Family:** smallness<br><br>💬 **Ví dụ:** Small dog.<br>*(-> Chó nhỏ.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of a size that is less than normal

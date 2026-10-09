@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Frigid::Lạnh giá *(Phát âm: /ˈfrɪdʒɪd/)* ![[frigid.mp3]]<br><br>👪 **Word Family:** frigidity<br><br>💬 **Ví dụ:** Frigid air.<br>*(-> Không khí lạnh giá.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Very cold in temperature

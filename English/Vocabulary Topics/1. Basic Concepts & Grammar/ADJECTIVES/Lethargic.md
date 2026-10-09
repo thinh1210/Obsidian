@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Lethargic::Lờ đờ, uể oải *(Phát âm: /ləˈθɑːdʒɪk/)* ![[lethargic.mp3]]<br><br>👪 **Word Family:** lethargy<br><br>💬 **Ví dụ:** Feel lethargic.<br>*(-> Cảm thấy uể oải.)*
-<!--SR:!2026-10-03,1,230-->
+<!--SR:!2026-10-07,1,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Affected by lethargy; sluggish and apathetic

@@ -70,16 +70,13 @@ Turning to the other two categories, Italy was the country which spent the highe
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **consumer expenditure / outlay** | `/kənˈsjuːmər ɪkˈspendɪtʃər/` | `C1` | *Noun* | Mức chi tiêu tiêu dùng của người dân | *"The table illustrates the proportion of consumer expenditure..."* |
-| **three times higher than** | `/θriː taɪmz ˈhaɪər ðæn/` | `B2/C1` | *Comparative Structure* | Cao gấp 3 lần so với... | *"...which was three times higher than on the other types of goods."* |
-| **allocated ... to this sector** | `/ˈæləkeɪtɪd/` | `C1` | *Verb Collocation* | Phân bổ bao nhiêu phần trăm chi tiêu cho ngành/nhóm hàng này | *"Spain and Italy allocated 18.80% and 16.36% of their spending to this sector."* |
-| **directed towards this category** | `/dəˈrektɪd təˈwɔːdz/` | `C1` | *Passive Collocation* | Được hướng vào / dành cho nhóm này | *"...only 5.40% of expenditure was directed towards this category."* |
-| **in terms of** | `/ɪn tɜːmz ɒv/` | `B2` | *Signpost* | Xét về khía cạnh nào đó | *"In terms of food, drinks and tobacco..."* |
-| **closely followed by** | `/ˈkləʊsli ˈfɒləʊd baɪ/` | `B2/C1` | *Phrase* | Bám sát ngay phía sau bởi đối tượng nào | *"Turkey had the highest proportion, closely followed by Ireland."* |
-| **recorded the highest percentage** | `/rɪˈkɔːdɪd/` | `B2/C1` | *Verb Collocation* | Ghi nhận tỷ lệ phần trăm cao nhất | *"Turkey recorded the highest percentage of consumer outlay..."* |
-| **the remaining nations** | `/ðə rɪˈmeɪnɪŋ ˈneɪʃnz/` | `B2/C1` | *Noun Phrase* | Các quốc gia còn lại | *"...whereas the remaining nations spent between 2% and 3.2%."* |
+| **consumer outlay / expenditure** | /ˈaʊtleɪ/ - /ɪkˈspendɪtʃə/` | `C1` | *Noun Phrase* | Mức chi tiêu của người tiêu dùng | `household spending` • `financial allocation` • `consumer disbursements` |
+| **absorbed the highest proportion** | /əbˈzɔːbd ðə ˈhaɪɪst/` | `C2` | *Collocation* | Hấp thụ / chiếm phần trăm lớn nhất trong ngân sách | `commanded the lions share` • `constituted the foremost budgetary drain` |
+| **national disparity** | /ˈnæʃnəl dɪˈspærəti/` | `C1` | *Noun Phrase* | Sự chênh lệch giữa các quốc gia | `cross-border divergence` • `inter-country variance` |
+| **prioritized basic sustenance** | /praɪˈɒrətaɪzd ˈsʌstənəns/` | `C2` | *Collocation* | Ưu tiên nhu cầu sinh hoạt thiết yếu (ăn uống) | `focused funds on nutritional essentials` • `allocated capital to staples` |
+| **marginal commitment** | /ˈmɑːdʒɪnl kəˈmɪtmənt/` | `C1` | *Noun Phrase* | Mức đóng góp / đầu tư rất nhỏ | `minimal expenditure` • `negligible allocation` • `token spending` |
 
 ---
 

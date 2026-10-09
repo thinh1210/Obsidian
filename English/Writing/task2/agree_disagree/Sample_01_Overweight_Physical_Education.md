@@ -65,6 +65,10 @@ In conclusion, I believe the best approach to tackling weight issues in the popu
   - *Mối nối ngữ nghĩa:* Đây là câu mở đầu bài viết, kết nối trực tiếp với Đề thi (Exam prompt). Tác giả dùng cụm danh từ trừu tượng `[the problems]` kết hợp với `[this issue]` (Shell Noun) để tóm tắt trọn vẹn hiện tượng béo phì gây quá tải y tế từ đề bài làm bệ phóng giới thiệu giải pháp thể thao học đường.
   - *Kỹ thuật liên kết:* Dùng Shell Noun (`this issue`) và cấu trúc khách quan (`it is thought that`) tránh xưng hô ngôi thứ nhất ở câu mở đầu.
 - 💡 **Công thức ghép câu:** `Owing to [Noun] which S_rel + V_rel, it is thought that the key to [V-ing / Noun] is to + V_inf.`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Given the escalating burden that widespread obesity imposes on healthcare infrastructure, intensifying school-based physical education is frequently championed as the definitive remedy."
+  - *Cách 2 (Đảo ngữ - Negative Inversion / Cleft Sentence):* "It is the surging prevalence of overweight individuals and its associated strain on public medical budgets that leads many to identify compulsory school exercise as the primary panacea."
+  - *Cách 3 (Chủ ngữ là giải pháp thể dục - Intervention Subject Shift):* "Expanding athletic regimens in academic institutions is widely considered the cornerstone of mitigating the health crisis precipitated by burgeoning rates of obesity." 
 
 ---
 
@@ -80,6 +84,10 @@ In conclusion, I believe the best approach to tackling weight issues in the popu
   - *Mối nối với câu trước:* Câu trước khẳng định *"This method will encourage a new generation to develop vital habits... and maintain a reasonable weight"* (Kỳ vọng tương lai). Câu này móc xích bằng trạng ngữ `[At the moment]` (Thời điểm hiện tại) để đối chiếu: *Tương lai thì tốt, nhưng hiện tại chỉ tập 2 buổi/tuần là không đủ*.
   - *Kỹ thuật liên kết từ vựng (Lexical Chain):* Cụm `[their lessons]` liên kết trực tiếp với từ khóa `[schools]` ở câu trước đó; đại từ `[their]` quy chiếu chính xác về `[the average child]`.
 - 💡 **Công thức ghép câu:** `At the moment, S_main + V_main + O_main, which is not enough to counteract [Noun Phrase] that comes from [Nguyên nhân].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Nhấn mạnh sự thiếu hụt - Deficit Focus):* "Currently, a biweekly sports session represents the extent of physical activity for Western youngsters, a frequency wholly inadequate for offsetting hours of desk-bound academic confinement."
+  - *Cách 2 (Danh từ hóa + Mệnh đề quan hệ - Nominalisation):* "The current provision of approximately two weekly athletic sessions in Western curricula falls critically short of neutralizing the pervasive sedentary behaviors cultivated by prolonged desk-sitting."
+  - *Cách 3 (Mệnh đề phân từ chỉ hệ quả - Participle Clause):* "Young Western students presently engage in organized exercise scarcely twice weekly, failing to mitigate their predominantly stationary lifestyle engendered by continuous classroom hours." 
 
 ---
 
@@ -96,21 +104,24 @@ In conclusion, I believe the best approach to tackling weight issues in the popu
   - *Mối nối với đoạn trước:* Thân bài 1 vừa ca ngợi hết lời lợi ích của thể dục học đường. Đầu Thân bài 2 lập tức dùng `[However]` để "bẻ lái" sang mặt hạn chế.
   - *Kỹ thuật đỉnh cao (Given-New Principle):* Tác giả không chỉ viết *"However, it is not enough"*, mà dùng toàn bộ cụm V-ing `[targeting physical exercise in school children...]` để **tóm tắt toàn bộ nội dung của Thân bài 1**, biến nó thành thông tin đã biết (Given information), rồi gắn vị ngữ mới `[is not effective enough on its own]` làm bệ đỡ đưa ra luận điểm về Dinh dưỡng (New information).
 - 💡 **Công thức ghép câu:** `However, V-ing + [Tóm tắt ý đoạn 1] is not effective enough on its own, as [Ý mới].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Nevertheless, an exclusive reliance on school athletic initiatives remains insufficient for curbing society-wide adiposity."
+  - *Cách 2 (Mệnh đề nhượng bộ - Concessive Clause):* "Although bolstering physical education among pupils is commendable, this measure alone cannot decisively alleviate obesity across the broader demographic."
+  - *Cách 3 (Nhấn mạnh tính phi toàn diện - Inadequacy Focus):* "Yet, addressing widespread weight issues purely through the lens of school sports constitutes an incomplete strategy, neglecting indispensable nutritional dimensions." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **put a strain on** | `/pʊt ə streɪn ɒn/` | `C1` | *Collocation* | Đặt gánh nặng / áp lực lên cái gì | *"The growing number of overweight people is putting a strain on the health care system."* |
-| **sedentary lifestyle** | `/ˈsedntri ˈlaɪfstaɪl/` | `C1` | *Noun Phrase* | Lối sống thụ động, ngồi nhiều ít vận động | *"Counteract their otherwise sedentary lifestyle that comes from hours of sitting at a desk."* |
-| **extracurricular physical activities** | `/ˌekstrəkəˈrɪkjələ ˈfɪzɪkl ækˈtɪvətiz/` | `B2/C1` | *Noun Phrase* | Các hoạt động thể chất ngoại khóa | *"By incorporating more exercise time and possibly extracurricular physical activities..."* |
-| **counteract** | `/ˌkaʊntərˈækt/` | `C1` | *Verb* | Triệt tiêu, chống lại tác hại của cái gì | *"Sport is not enough to counteract their otherwise sedentary lifestyle."* |
-| **clean eating** | `/kliːn ˈiːtɪŋ/` | `B2` | *Noun* | Ăn uống lành mạnh, thực phẩm tự nhiên | *"...to ensure a new generation of people who understand clean eating."* |
-| **ultra-processed foods (UPFs)** | `/ˈʌltrə ˈprəʊsest fuːdz/` | `C1` | *Noun Phrase* | Thực phẩm siêu chế biến (nhiều phụ gia, dầu mỡ) | *"Reducing the number of Ultra processed foods (UPFs) on the market."* |
-| **gravitate towards** | `/ˈɡrævɪteɪt təˈwɔːdz/` | `C2` | *Phrasal Verb* | Có xu hướng bị thu hút, ngả về phía... | *"...which too many people gravitate towards."* |
-| **impose a tax on** | `/ɪmˈpəʊz ə tæks ɒn/` | `B2/C1` | *Collocation* | Áp thuế lên mặt hàng gì | *"The government could impose a tax on UPFs to increase the price."* |
+| **put a strain on** | `/pʊt ə streɪn ɒn/` | `C1` | *Collocation* | Đặt gánh nặng / áp lực lên cái gì | `impose a heavy burden on` • `weigh down` • `exert severe pressure on` |
+| **sedentary lifestyle** | `/ˈsedntri ˈlaɪfstaɪl/` | `C1` | *Noun Phrase* | Lối sống thụ động, ngồi nhiều ít vận động | `inactive existence` • `desk-bound lifestyle` • `physically inactive habit` |
+| **extracurricular activities** | /ˌekstrəkəˈrɪkjələ ækˈtɪvətiz/` | `B2/C1` | *Noun Phrase* | Các hoạt động thể chất ngoại khóa | `after-school athletic pursuits` • `co-curricular sports` |
+| **counteract** | `/ˌkaʊntərˈækt/` | `C1` | *Verb* | Triệt tiêu, chống lại tác hại của cái gì | `neutralize` • `offset` • `counterbalance the ill effects of` |
+| **clean eating / balanced diet** | /ˈkliːn ˈiːtɪŋ/` | `B2/C1` | *Noun* | Ăn uống lành mạnh, chế độ ăn cân bằng | `nutritious dietary regimen` • `wholesome nutrition` • `calibrated diet` |
+| **curb obesity** | `/kɜːb əʊˈbiːsəti/` | `C1` | *Collocation* | Kiểm soát / kiềm chế nạn béo phì | `reign in the obesity epidemic` • `mitigate excess adiposity` • `halt weight surge` |
+| **panacea / definitive remedy** | /ˌpænəˈsiːə/` | `C2` | *Noun Phrase* | Thuốc chữa bách bệnh / Giải pháp tối thượng | `magic bullet` • `cure-all solution` • `ultimate antidote` |
 
 ---
 

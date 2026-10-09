@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Hideous::Gớm ghiếc *(Phát âm: /ˈhɪdiəs/)* ![[hideous.mp3]]<br><br>👪 **Word Family:** hideousness<br><br>💬 **Ví dụ:** Hideous shirt.<br>*(-> Áo gớm ghiếc.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely ugly

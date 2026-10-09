@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Tall::Cao *(Phát âm: /tɔːl/)* ![[tall.mp3]]<br><br>👪 **Word Family:** tallness<br><br>💬 **Ví dụ:** He is tall.<br>*(-> Anh ấy cao.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of great or more than average height

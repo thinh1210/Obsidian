@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Complicated::Phức tạp *(Phát âm: /ˈkɒmplɪkeɪtɪd/)* ![[complicated.mp3]]<br><br>👪 **Word Family:** complicate<br><br>💬 **Ví dụ:** Complicated relationship.<br>*(-> Mối quan hệ phức tạp.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Consisting of many interconnecting parts or elements

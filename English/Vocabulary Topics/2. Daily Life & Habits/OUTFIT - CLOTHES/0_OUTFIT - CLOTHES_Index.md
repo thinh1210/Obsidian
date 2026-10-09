@@ -13,27 +13,27 @@ Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực q
 ### 👕 1. Áo, Quần & Trang phục mặc hàng ngày (Tops, Bottoms & Everyday Wear)
 *Áo sơ mi, áo phông, áo khoác, quần jeans, váy và đồng phục.*
 
-| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| Coat | /koʊt/ [[coat.mp3\|🔊]] | A1 | noun | Áo khoác (dài). | coat (v), coated (adj), coating (n) | [[Coat]] |
-| Dress | /dres/ [[dress.mp3\|🔊]] | A1 | noun | Váy liền thân. | undress (v) | [[Dress]] |
-| Jacket | /ˈdʒæk.ɪt/ [[jacket.mp3\|🔊]] | A1 | noun | Áo khoác ngắn. | jacketless (adj) | [[Jacket]] |
-| Jeans | /dʒiːnz/ [[jeans.mp3\|🔊]] | A1 | noun | Quần bò, quần jean. | jean (n) | [[Jeans]] |
-| Pants | /pænts/ [[pants.mp3\|🔊]] | A1 | noun | Quần dài. | - | [[Pants]] |
-| Shirt | /ʃɜːrt/ [[shirt.mp3\|🔊]] | A1 | noun | Áo sơ mi. | shirted (adj), shirtless (adj) | [[Shirt]] |
-| Shorts | /ʃɔːrts/ [[shorts.mp3\|🔊]] | A1 | noun | Quần đùi, quần soóc. | short (adj) | [[Shorts]] |
-| Socks | /sɒks/ [[socks.mp3\|🔊]] | A1 | noun | Tất, vớ. | sock (v) | [[Socks]] |
-| T-shirt | /ˈtiː.ʃɜːrt/ [[t_shirt.mp3\|🔊]] | A1 | noun | Áo phông, áo thun. | shirt (n) | [[T-shirt]] |
-| Trousers | /ˈtraʊ.zəz/ [[trousers.mp3\|🔊]] | A1 | n. | Quần tây, quần dài | - | [[Trousers]] |
-| Hoodie | /ˈhʊd.i/ [[hoodie.mp3\|🔊]] | A2 | n. | Áo nỉ có mũ | hood (n), hooded (adj) | [[Hoodie]] |
-| Pajamas | /pəˈdʒɑː.məz/ [[pajamas.mp3\|🔊]] | A2 | n. | Bộ đồ ngủ pijama | - | [[Pajamas]] |
-| Skirt | /skɜːrt/ [[skirt.mp3\|🔊]] | A2 | noun | Chân váy. | skirt (v) | [[Skirt]] |
-| Sweater | /ˈswet.ər/ [[sweater.mp3\|🔊]] | A2 | noun | Áo len. | sweat (v) | [[Sweater]] |
-| Underwear | /ˈʌn.də.weər/ [[underwear.mp3\|🔊]] | A2 | n. | Quần áo lót | - | [[Underwear]] |
-| Blouse | /blaʊs/ [[blouse.mp3\|🔊]] | B1 | noun | Áo sơ mi nữ, áo kiểu nữ. | - | [[Blouse]] |
-| Uniform | /ˈjuː.nə.fɔːrm/ [[uniform.mp3\|🔊]] | B1 | noun | Đồng phục. | uniformly (adv) | [[Uniform]] |
-| Vest | /vest/ [[vest.mp3\|🔊]] | B1 | n. | Áo gile, áo may ô | vested (adj) | [[Vest]] |
-| Overcoat | /ˈoʊ.vɚ.koʊt/ [[overcoat.mp3\|🔊]] | B2 | noun | Áo măng tô, áo khoác dài ngoài cùng. | coat (n) | [[Overcoat]] |
+| Từ vựng   | Phát âm                             | Level | Loại từ | Nghĩa ngắn gọn                       | Word Family                         | Link Note     |
+| --------- | ----------------------------------- | ----- | ------- | ------------------------------------ | ----------------------------------- | ------------- |
+| Coat      | /koʊt/ [[coat.mp3\|🔊]]             | A1    | noun    | Áo khoác (dài).                      | coat (v), coated (adj), coating (n) | [[Coat]]      |
+| Dress     | /dres/ [[dress.mp3\|🔊]]            | A1    | noun    | Váy liền thân.                       | undress (v)                         | [[Dress]]     |
+| Jacket    | /ˈdʒæk.ɪt/ [[jacket.mp3\|🔊]]       | A1    | noun    | Áo khoác ngắn.                       | jacketless (adj)                    | [[Jacket]]    |
+| Jeans     | /dʒiːnz/ [[jeans.mp3\|🔊]]          | A1    | noun    | Quần bò, quần jean.                  | jean (n)                            | [[Jeans]]     |
+| Pants     | /pænts/ [[pants.mp3\|🔊]]           | A1    | noun    | Quần dài.                            | -                                   | [[Pants]]     |
+| Shirt     | /ʃɜːrt/ [[shirt.mp3\|🔊]]           | A1    | noun    | Áo sơ mi.                            | shirted (adj), shirtless (adj)      | [[Shirt]]     |
+| Shorts    | /ʃɔːrts/ [[shorts.mp3\|🔊]]         | A1    | noun    | Quần đùi, quần soóc.                 | short (adj)                         | [[Shorts]]    |
+| Socks     | /sɒks/ [[socks.mp3\|🔊]]            | A1    | noun    | Tất, vớ.                             | sock (v)                            | [[Socks]]     |
+| T-shirt   | /ˈtiː.ʃɜːrt/ [[t_shirt.mp3\|🔊]]    | A1    | noun    | Áo phông, áo thun.                   | shirt (n)                           | [[T-shirt]]   |
+| Trousers  | /ˈtraʊ.zəz/ [[trousers.mp3\|🔊]]    | A1    | n.      | Quần tây, quần dài                   | -                                   | [[Trousers]]  |
+| Hoodie    | /ˈhʊd.i/ [[hoodie.mp3\|🔊]]         | A2    | n.      | Áo nỉ có mũ                          | hood (n), hooded (adj)              | [[Hoodie]]    |
+| Pajamas   | /pəˈdʒɑː.məz/ [[pajamas.mp3\|🔊]]   | A2    | n.      | Bộ đồ ngủ pijama                     | -                                   | [[Pajamas]]   |
+| Skirt     | /skɜːrt/ [[skirt.mp3\|🔊]]          | A2    | noun    | Chân váy.                            | skirt (v)                           | [[Skirt]]     |
+| Sweater   | /ˈswet.ər/ [[sweater.mp3\|🔊]]      | A2    | noun    | Áo len.                              | sweat (v)                           | [[Sweater]]   |
+| Underwear | /ˈʌn.də.weər/ [[underwear.mp3\|🔊]] | A2    | n.      | Quần áo lót                          | -                                   | [[Underwear]] |
+| Blouse    | /blaʊs/ [[blouse.mp3\|🔊]]          | B1    | noun    | Áo sơ mi nữ, áo kiểu nữ.             | -                                   | [[Blouse]]    |
+| Uniform   | /ˈjuː.nə.fɔːrm/ [[uniform.mp3\|🔊]] | B1    | noun    | Đồng phục.                           | uniformly (adv)                     | [[Uniform]]   |
+| Vest      | /vest/ [[vest.mp3\|🔊]]             | B1    | n.      | Áo gile, áo may ô                    | vested (adj)                        | [[Vest]]      |
+| Overcoat  | /ˈoʊ.vɚ.koʊt/ [[overcoat.mp3\|🔊]]  | B2    | noun    | Áo măng tô, áo khoác dài ngoài cùng. | coat (n)                            | [[Overcoat]]  |
 ### 👟 2. Giày dép, Phụ kiện & Chi tiết may mặc (Footwear, Accessories & Garment Details)
 *Giày thể thao, bốt, thắt lưng, cà vạt, cúc áo, cổ áo, túi áo và khóa kéo.*
 
@@ -60,23 +60,24 @@ Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực q
 ### 🧵 3. Chất liệu vải, May đo & Thiết kế thời trang (Fabrics, Tailoring & Craftsmanship)
 *Vải vóc, hoa văn may mặc, cắt may đo riêng và phom dáng thời trang.*
 
-| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| Cotton | /ˈkɒt.ən/ [[cotton.mp3\|🔊]] | A2 | n. | Vải bông, sợi cotton | cottony (adj) | [[Cotton]] |
-| Denim | /ˈden.ɪm/ [[denim.mp3\|🔊]] | B1 | n. | Vải denim, vải bò | - | [[Denim]] |
-| Leather | /ˈleð.ər/ [[leather.mp3\|🔊]] | B1 | n. | Da thuộc, chất liệu da | leathery (adj) | [[Leather]] |
-| Pattern | /ˈpæt̬.ɚn/ [[pattern.mp3\|🔊]] | B1 | noun | Họa tiết, hoa văn. | patterned (adj) | [[Pattern]] |
-| Silk | /sɪlk/ [[silk.mp3\|🔊]] | B1 | n. | Lụa tơ tằm | silky (adj), silken (adj) | [[Silk]] |
-| Suit | /suːt/ [[suit.mp3\|🔊]] | B1 | noun | Bộ com lê, bộ vest. | suitable (adj) | [[Suit]] |
-| Wardrobe | /ˈwɔːr.droʊb/ [[wardrobe.mp3\|🔊]] | B1 | noun | Tủ quần áo, tủ đồ. | wardrobing (n) | [[Wardrobe]] |
-| Wool | /wʊl/ [[wool.mp3\|🔊]] | B1 | n. | Len, sợi len | woolen (adj), woolly (adj) | [[Wool]] |
-| Apparel | /əˈper.əl/ [[apparel.mp3\|🔊]] | C1 | noun | Y phục, hàng may mặc. | - | [[Apparel]] |
-| Attire | /əˈtaɪr/ [[attire.mp3\|🔊]] | C1 | noun | Trang phục (thường là trang trọng). | attired (adj) | [[Attire]] |
-| Fabric | /ˈfæb.rɪk/ [[fabric.mp3\|🔊]] | C1 | noun | Sợi vải, chất liệu vải. | fabricate (v) | [[Fabric]] |
-| Garment | /ˈɡɑːr.mənt/ [[garment.mp3\|🔊]] | C1 | noun | Áo quần, đồ may mặc. | garmentless (adj) | [[Garment]] |
-| Tailor | /ˈteɪ.lɚ/ [[tailor.mp3\|🔊]] | C1 | noun | Thợ may. | tailoring (n) | [[Tailor]] |
-| Bespoke | /bɪˈspoʊk/ [[bespoke.mp3\|🔊]] | C2 | adj | Thiết kế/may đo riêng. | bespeak (v), bespokely (adv), bespokeness (n) | [[Bespoke]] |
-| Silhouette | /ˌsɪl.uˈet/ [[silhouette.mp3\|🔊]] | C2 | noun | Bóng dáng, phom dáng. | - | [[Silhouette]] |
+| Từ vựng    | Phát âm                            | Level | Loại từ | Nghĩa ngắn gọn                      | Word Family                                   | Link Note      |
+| ---------- | ---------------------------------- | ----- | ------- | ----------------------------------- | --------------------------------------------- | -------------- |
+| Cotton     | /ˈkɒt.ən/ [[cotton.mp3\|🔊]]       | A2    | n.      | Vải bông, sợi cotton                | cottony (adj)                                 | [[Cotton]]     |
+| Denim      | /ˈden.ɪm/ [[denim.mp3\|🔊]]        | B1    | n.      | Vải denim, vải bò                   | -                                             | [[Denim]]      |
+| Leather    | /ˈleð.ər/ [[leather.mp3\|🔊]]      | B1    | n.      | Da thuộc, chất liệu da              | leathery (adj)                                | [[Leather]]    |
+| Pattern    | /ˈpæt̬.ɚn/ [[pattern.mp3\|🔊]]     | B1    | noun    | Họa tiết, hoa văn.                  | patterned (adj)                               | [[Pattern]]    |
+| Silk       | /sɪlk/ [[silk.mp3\|🔊]]            | B1    | n.      | Lụa tơ tằm                          | silky (adj), silken (adj)                     | [[Silk]]       |
+| Suit       | /suːt/ [[suit.mp3\|🔊]]            | B1    | noun    | Bộ com lê, bộ vest.                 | suitable (adj)                                | [[Suit]]       |
+| Wardrobe   | /ˈwɔːr.droʊb/ [[wardrobe.mp3\|🔊]] | B1    | noun    | Tủ quần áo, tủ đồ.                  | wardrobing (n)                                | [[Wardrobe]]   |
+| Wool       | /wʊl/ [[wool.mp3\|🔊]]             | B1    | n.      | Len, sợi len                        | woolen (adj), woolly (adj)                    | [[Wool]]       |
+| Apparel    | /əˈper.əl/ [[apparel.mp3\|🔊]]     | C1    | noun    | Y phục, hàng may mặc.               | -                                             | [[Apparel]]    |
+| Attire     | /əˈtaɪr/ [[attire.mp3\|🔊]]        | C1    | noun    | Trang phục (thường là trang trọng). | attired (adj)                                 | [[Attire]]     |
+| Fabric     | /ˈfæb.rɪk/ [[fabric.mp3\|🔊]]      | C1    | noun    | Sợi vải, chất liệu vải.             | fabricate (v)                                 | [[Fabric]]     |
+| Garment    | /ˈɡɑːr.mənt/ [[garment.mp3\|🔊]]   | C1    | noun    | Áo quần, đồ may mặc.                | garmentless (adj)                             | [[Garment]]    |
+| Tailor     | /ˈteɪ.lɚ/ [[tailor.mp3\|🔊]]       | C1    | noun    | Thợ may.                            | tailoring (n)                                 | [[Tailor]]     |
+| Bespoke    | /bɪˈspoʊk/ [[bespoke.mp3\|🔊]]     | C2    | adj     | Thiết kế/may đo riêng.              | bespeak (v), bespokely (adv), bespokeness (n) | [[Bespoke]]    |
+| Silhouette | /ˌsɪl.uˈet/ [[silhouette.mp3\|🔊]] | C2    | noun    | Bóng dáng, phom dáng.               | -                                             | [[Silhouette]] |
+| Linen      |                                    |       |         |                                     |                                               |                |
 ### ✨ 4. Phong cách thời trang, Đẳng cấp & Tình trạng đồ (Styles, Elegance & Garment State)
 *Phong cách thường ngày, lịch lãm, cao cấp haute couture hoặc sờn rách cũ kỹ.*
 

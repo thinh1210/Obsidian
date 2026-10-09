@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Short::Ngắn, thấp *(Phát âm: /ʃɔːt/)* ![[short.mp3]]<br><br>👪 **Word Family:** shortness<br><br>💬 **Ví dụ:** Short hair.<br>*(-> Tóc ngắn.)*
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-20,14,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Measuring a small distance from end to end

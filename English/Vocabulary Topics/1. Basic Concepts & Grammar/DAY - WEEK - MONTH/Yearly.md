@@ -16,6 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Yearly::Hàng năm, diễn ra theo chu kỳ mỗi năm một lần *(Phát âm: /ˈjɪə.li/)* ![[yearly.mp3]]<br><br>👪 **Word Family:** year (n)<br><br>💬 **Ví dụ:** Doctors recommend going for a comprehensive yearly medical checkup.<br>*(-> Các bác sĩ khuyên nên đi khám sức khỏe tổng quát định kỳ hàng năm.)*
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring, done, or published once every year; annual.

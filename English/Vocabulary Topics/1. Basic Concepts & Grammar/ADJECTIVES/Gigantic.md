@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Gigantic::Khổng lồ *(Phát âm: /dʒaɪˈɡæntɪk/)* ![[gigantic.mp3]]<br><br>👪 **Word Family:** giant<br><br>💬 **Ví dụ:** Gigantic tree.<br>*(-> Cây khổng lồ.)*
-<!--SR:!2026-10-03,1,230-->
+<!--SR:!2026-10-07,1,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of very great size or extent

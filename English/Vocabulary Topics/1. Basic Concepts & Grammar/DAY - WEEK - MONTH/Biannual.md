@@ -16,6 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Biannual::Hai lần một năm *(Phát âm: /baɪˈænjuəl/)* ![[biannual.mp3]]<br><br>👪 **Word Family:** biannually (adv)<br><br>💬 **Ví dụ:** The committee holds a biannual meeting.<br>*(-> Ủy ban tổ chức cuộc họp hai lần một năm.)*
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Occurring twice a year.

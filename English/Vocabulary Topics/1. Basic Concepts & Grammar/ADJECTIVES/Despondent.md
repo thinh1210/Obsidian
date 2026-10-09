@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Despondent::Chán nản, tuyệt vọng *(Phát âm: /dɪˈspɒndənt/)* ![[despondent.mp3]]<br><br>👪 **Word Family:** despondency<br><br>💬 **Ví dụ:** He looked despondent.<br>*(-> Anh ấy trông tuyệt vọng.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** In low spirits from loss of hope or courage

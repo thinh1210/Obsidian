@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Easy::Dễ dàng *(Phát âm: /ˈiːzi/)* ![[easy.mp3]]<br><br>👪 **Word Family:** easily<br><br>💬 **Ví dụ:** It is easy.<br>*(-> Nó dễ.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Achieved without great effort

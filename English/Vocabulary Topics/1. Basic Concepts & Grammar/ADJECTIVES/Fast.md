@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Fast::Nhanh *(Phát âm: /fɑːst/)* ![[fast.mp3]]<br><br>👪 **Word Family:** fastness<br><br>💬 **Ví dụ:** Run fast.<br>*(-> Chạy nhanh.)*
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-13,7,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Moving or capable of moving at high speed

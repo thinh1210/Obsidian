@@ -16,6 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Evening::Buổi tối *(Phát âm: /ˈiːvnɪŋ/)* ![[evening.mp3]]<br><br>👪 **Word Family:** None<br><br>💬 **Ví dụ:** I watch TV in the evening.<br>*(-> Tôi xem tivi vào buổi tối.)*
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** The latter part of the day and early part of the night.

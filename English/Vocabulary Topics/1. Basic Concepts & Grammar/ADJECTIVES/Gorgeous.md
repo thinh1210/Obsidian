@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Gorgeous::Tuyệt đẹp *(Phát âm: /ˈɡɔːdʒəs/)* ![[gorgeous.mp3]]<br><br>👪 **Word Family:** gorgeously<br><br>💬 **Ví dụ:** Gorgeous dress.<br>*(-> Váy tuyệt đẹp.)*
-<!--SR:!2026-10-03,1,230-->
+<!--SR:!2026-10-07,1,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Beautiful, very attractive

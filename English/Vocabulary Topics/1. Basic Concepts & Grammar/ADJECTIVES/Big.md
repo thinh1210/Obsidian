@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Big::Lớn *(Phát âm: /bɪɡ/)* ![[big.mp3]]<br><br>👪 **Word Family:** bigness<br><br>💬 **Ví dụ:** A big house.<br>*(-> Ngôi nhà lớn.)*
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-20,14,270-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of large size

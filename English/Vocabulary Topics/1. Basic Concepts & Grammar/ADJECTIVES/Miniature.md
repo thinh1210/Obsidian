@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Miniature::Thu nhỏ *(Phát âm: /ˈmɪnətʃə(r)/)* ![[miniature.mp3]]<br><br>👪 **Word Family:** mini<br><br>💬 **Ví dụ:** Miniature train.<br>*(-> Tàu thu nhỏ.)*
-<!--SR:!2026-10-03,1,250-->
+<!--SR:!2026-10-09,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of a much smaller size than normal

@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Narrow::Có khoảng cách nhỏ giữa hai cạnh; chật hẹp, eo hẹp *(Phát âm: /ˈnær.əʊ/)* ![[narrow.mp3]]<br><br>👪 **Word Family:** narrowly (adv), narrowness (n), narrow (v)<br><br>💬 **Ví dụ:** The car could barely drive down the narrow street without hitting the wall.<br>*(-> Chiếc xe ô tô khó lòng chạy lọt qua con phố hẹp mà không quẹt vào tường.)*
-<!--SR:!2026-10-03,1,250-->
+<!--SR:!2026-10-09,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Measuring a small distance from one side to the other, especially in comparison with the length.

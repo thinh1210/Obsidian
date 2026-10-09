@@ -72,18 +72,18 @@ Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực q
 ### ❌ 4. Kinh khủng, Tồi tệ & Đáng lên án (Terrible, Abysmal & Dreadful)
 *Mức độ tồi tệ nhất, gây thất vọng sâu sắc hoặc thảm họa về chất lượng.*
 
-| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bad | /bæd/ [[bad.mp3\|🔊]] | A1 | adj | Tệ, xấu. | badness (n), badly (adv), worse (adj/adv), worst (adj/adv) | [[Bad]] |
-| Awful | /ˈɔː.fəl/ [[awful.mp3\|🔊]] | A2 | adj | Kinh khủng. | awfully (adv), awfulness (n) | [[Awful]] |
-| Terrible | /ˈter.ə.bəl/ [[terrible.mp3\|🔊]] | A2 | adj | Kinh khủng, rất tồi tệ. | terribly (adv), terribility (n) | [[Terrible]] |
-| Ugly | /ˈʌɡ.li/ [[ugly.mp3\|🔊]] | A2 | adj | Xấu xí. | ugliness (n), uglily (adv) | [[Ugly]] |
-| Horrible | /ˈhɒr.ə.bəl/ [[horrible.mp3\|🔊]] | B1 | adj | Tồi tệ, khủng khiếp. | horribly (adv), horror (n) | [[Horrible]] |
-| Dreadful | /ˈdred.fəl/ [[dreadful.mp3\|🔊]] | B2 | adj | Đáng sợ, tồi tệ. | dread (noun/verb), dreadfully (adv) | [[Dreadful]] |
-| Atrocious | /əˈtrəʊ.ʃəs/ [[atrocious.mp3\|🔊]] | C1 | adj | Tàn bạo, kinh khủng. | atrocity (n), atrociously (adv) | [[Atrocious]] |
-| Abysmal | /əˈbɪz.məl/ [[abysmal.mp3\|🔊]] | C2 | adj | Vô cùng tồi tệ, tồi tệ đến mức cùng cực. | abysmally (adv), abysmalness (n) | [[Abysmal]] |
-| Deplorable | /dɪˈplɔː.rə.bəl/ [[deplorable.mp3\|🔊]] | C2 | adj | Đáng thương tâm, tồi tệ. | deplore (v), deplorably (adv) | [[Deplorable]] |
-| Execrable | /ˈek.sɪ.krə.bəl/ [[execrable.mp3\|🔊]] | C2 | adj | Đáng ghét, tồi tệ. | execrate (v), execrably (adv), execrability (n) | [[Execrable]] |
+| Từ vựng    | Phát âm                                 | Level | Loại từ | Nghĩa ngắn gọn                           | Word Family                                                | Link Note      |
+| ---------- | --------------------------------------- | ----- | ------- | ---------------------------------------- | ---------------------------------------------------------- | -------------- |
+| Bad        | /bæd/ [[bad.mp3\|🔊]]                   | A1    | adj     | Tệ, xấu.                                 | badness (n), badly (adv), worse (adj/adv), worst (adj/adv) | [[Bad]]        |
+| Awful      | /ˈɔː.fəl/ [[awful.mp3\|🔊]]             | A2    | adj     | Kinh khủng.                              | awfully (adv), awfulness (n)                               | [[Awful]]      |
+| Terrible   | /ˈter.ə.bəl/ [[terrible.mp3\|🔊]]       | A2    | adj     | Kinh khủng, rất tồi tệ.                  | terribly (adv), terribility (n)                            | [[Terrible]]   |
+| Ugly       | /ˈʌɡ.li/ [[ugly.mp3\|🔊]]               | A2    | adj     | Xấu xí.                                  | ugliness (n), uglily (adv)                                 | [[Ugly]]       |
+| Horrible   | /ˈhɒr.ə.bəl/ [[horrible.mp3\|🔊]]       | B1    | adj     | Tồi tệ, khủng khiếp.                     | horribly (adv), horror (n)                                 | [[Horrible]]   |
+| Dreadful   | /ˈdred.fəl/ [[dreadful.mp3\|🔊]]        | B2    | adj     | Đáng sợ, tồi tệ.                         | dread (noun/verb), dreadfully (adv)                        | [[Dreadful]]   |
+| Atrocious  | /əˈtrəʊ.ʃəs/ [[atrocious.mp3\|🔊]]      | C1    | adj     | Tàn bạo, kinh khủng.                     | atrocity (n), atrociously (adv)                            | [[Atrocious]]  |
+| Abysmal    | /əˈbɪz.məl/ [[abysmal.mp3\|🔊]]         | C2    | adj     | Vô cùng tồi tệ, tồi tệ đến mức cùng cực. | abysmally (adv), abysmalness (n)                           | [[Abysmal]]    |
+| Deplorable | /dɪˈplɔː.rə.bəl/ [[deplorable.mp3\|🔊]] | C2    | adj     | Đáng thương tâm, tồi tệ.                 | deplore (v), deplorably (adv)                              | [[Deplorable]] |
+| Execrable  | /ˈek.sɪ.krə.bəl/ [[execrable.mp3\|🔊]]  | C2    | adj     | Đáng ghét, tồi tệ.                       | execrate (v), execrably (adv), execrability (n)            | [[Execrable]]  |
 
 ## 🔗 Cụm từ, Collocations & Phrasal Verbs phổ biến theo chủ đề (Key Phrases & Expressions)
 *Các cụm từ cố định, phrasal verbs và thành ngữ thông dụng nhất giúp bạn nói và viết tự nhiên về chủ đề **RATING - QUALITIES**.*

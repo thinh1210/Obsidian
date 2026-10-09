@@ -127,3 +127,72 @@ Living in a modern [[Metropolis]] offers a unique experience characterized by a 
 
 ### Bản dịch Tiếng Việt
 Sống trong một **đô thị** hiện đại mang lại một trải nghiệm độc đáo đặc trưng bởi lối sống **mang tính quốc tế**. Cơ sở hạ tầng tiên tiến của thành phố có thể được nhìn thấy ở mọi **tòa nhà chọc trời** cao chót vót thống trị đường chân trời. Là một **trung tâm** kinh tế lớn, nơi đây thu hút lượng dân cư đa dạng, khiến cho **lộ trình đi lại** hàng ngày trở thành một hành trình sôi động và đa văn hóa. Dọc theo những đại lộ rộng lớn, bất kỳ **người đi bộ** nào cũng có thể khám phá nhiều cửa hàng khác nhau, mặc dù thỉnh thoảng họ phải đối phó với tình trạng **tắc nghẽn** giao thông nghiêm trọng. Mọi khu dân cư đều được trang bị những **tiện nghi** thiết yếu để cải thiện chất lượng cuộc sống. Gần đây, quá trình **chỉnh trang đô thị** nhanh chóng đã biến đổi một số khu vực lịch sử **đổ nát** thành những trung tâm văn hóa thời thượng. Mặc dù quá trình này làm sống dậy cảnh quan đô thị, nó cũng mang lại những thách thức cho những **cư dân** địa phương đang phải vật lộn với chi phí gia tăng.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đi lại giờ cao điểm & Nhịp sống tại siêu đô thị (Rush-Hour Commute & Metropolis Vibrancy)
+> **Bối cảnh thực tế:** Hai đồng nghiệp làm việc tại trung tâm thương mại (**[[Downtown]]**) trò chuyện về lộ trình đi làm hàng ngày (**[[Commute]]**), tình trạng kẹt xe (**[[Congestion]]**) và sự tiện lợi của cơ sở hạ tầng giao thông (**[[Infrastructure]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Lucas:** Maya, did you manage to get through the central **[[Intersection]]** before 8 AM today?
+  *(Maya, sáng nay cậu có kịp vượt qua ngã tư trung tâm trước 8 giờ không?)*
+- **Maya:** Barely! The main **[[Avenue]]** was completely jammed with **[[Traffic]]**. A broken-down bus brought the entire **[[Thoroughfare]]** to a standstill, so the morning **[[Commute]]** took nearly an hour.
+  *(Suýt thì muộn! Đại lộ chính kẹt cứng xe cộ. Một chiếc xe buýt chết máy làm tê liệt cả tuyến đường huyết mạch, thế là lộ trình đi làm sáng nay mất gần cả tiếng đồng hồ.)*
+- **Lucas:** That's typical for a sprawling **[[Metropolis]]**. That's why I gave up driving and started taking the subway. Stations are equipped with direct pedestrian walkways, keeping any **[[Pedestrian]]** safe off the **[[Congested]]** roadway.
+  *(Đó là chuyện cơm bữa ở một đại đô thị đang mở rộng này. Thế nên mình bỏ hẳn lái xe ô tô và chuyển sang đi tàu điện ngầm rồi. Các nhà ga đều có đường hầm đi bộ trực tiếp, giúp người đi bộ an toàn khỏi lòng đường tắc nghẽn.)*
+- **Maya:** That makes a lot of sense. The public transport **[[Infrastructure]]** really saves time. Plus, walking along the vibrant **[[Sidewalk|sidewalks]]** allows you to soak in the **[[Cosmopolitan]]** **[[Atmosphere]]** and urban **[[Vibrancy]]**.
+  *(Hợp lý đấy chứ. Cơ sở hạ tầng giao thông công cộng thực sự tiết kiệm thời gian. Thêm nữa, đi bộ dọc theo những vỉa hè nhộn nhịp còn giúp cậu cảm nhận được bầu không khí đa văn hóa và nhịp sống đô thị sôi động.)*
+- **Lucas:** Exactly. Having essential **[[Amenity|amenities]]** like grocery stores and cafes within walking distance makes city life truly worthwhile.
+  *(Chính xác luôn. Có đầy đủ các tiện ích thiết yếu như siêu thị và quán cà phê trong cự ly đi bộ khiến cuộc sống thành thị thực sự rất đáng giá.)*
+
+---
+
+### 🌟 Tình huống 2: Tranh luận về chỉnh trang đô thị & Bảo tồn phố cũ (Urban Gentrification & Heritage Conservation)
+> **Bối cảnh thực tế:** Trong một buổi họp cộng đồng địa phương, các cư dân (**[[Resident]]**) thảo luận về làn sóng chỉnh trang đô thị (**[[Gentrification]]**), việc thay thế các khu nhà cũ (**[[Dilapidated]]**) bằng các tòa cao ốc hiện đại (**[[Skyscraper]]**) và hệ lụy đối với người dân gốc.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Julian:** Have you seen the municipal redevelopment plans for our old waterfront **[[Neighborhood]]**?
+  *(Bác đã xem kế hoạch tái thiết của chính quyền thành phố cho khu phố bờ sông cũ của chúng ta chưa?)*
+- **Clara:** Yes, they intend to tear down those **[[Dilapidated]]** warehouses and erect luxury **[[Skyscraper|skyscrapers]]** and high-end retail hubs.
+  *(Tôi xem rồi, họ dự định phá bỏ những nhà kho cũ kỹ đổ nát đó để dựng lên các tòa nhà chọc trời xa hoa và trung tâm bán lẻ cao cấp.)*
+- **Julian:** While rapid **[[Gentrification]]** revitalizes rundown districts and attracts **[[Tourism]]**, it drastically drives up living costs for long-time **[[Resident|residents]]**.
+  *(Dù việc chỉnh trang đô thị nhanh chóng giúp làm hồi sinh các khu vực xuống cấp và thu hút du lịch, nó lại đẩy chi phí sinh hoạt lên quá cao đối với những cư dân lâu năm.)*
+- **Clara:** I agree. Unchecked urban **[[Sprawl]]** risks erasing our historic identity. City planners should balance modern **[[Urbanization]]** with affordable housing and heritage conservation.
+  *(Tôi hoàn toàn đồng ý. Sự phát triển đô thị tràn lan không kiểm soát có nguy cơ xóa sổ bản sắc lịch sử của chúng ta. Các nhà quy hoạch thành phố nên cân bằng giữa đô thị hóa hiện đại với nhà ở vừa túi tiền và bảo tồn di sản.)*
+- **Julian:** Well said. A truly great city needs more than just sleek concrete towers; it needs a soul and a welcoming community for everyone.
+  *(Nói rất chuẩn. Một thành phố thực sự tuyệt vời cần nhiều hơn là chỉ những tòa tháp bê tông bóng bẩy; nó cần có linh hồn và một cộng đồng thân thiện cho tất cả mọi người.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi mô tả giao thông & Đi lại trong thành phố:
+- **`traffic congestion / gridlock`** *(ách tắc giao thông, kẹt xe nghiêm trọng)*:
+  - *"Heavy traffic **[[Congestion]]** during morning peak hours is an ongoing headache for commuters."*
+  - *(Tình trạng ách tắc giao thông nghiêm trọng vào giờ cao điểm buổi sáng là nỗi đau đầu dai dẳng đối với người đi làm.)*
+- **`daily commute`** *(lộ trình đi làm/đi học hàng ngày)*:
+  - *"His daily **[[Commute]]** from the quiet **[[Suburb|suburbs]]** to downtown takes roughly forty minutes."*
+  - *(Lộ trình đi làm hàng ngày của anh ấy từ vùng ngoại ô yên tĩnh vào khu trung tâm mất khoảng 40 phút.)*
+- **`bring traffic to a standstill`** *(làm giao thông đình trệ, tê liệt hoàn toàn)*:
+  - *"A minor collision on the bridge brought rush-hour traffic to an absolute standstill."*
+  - *(Một vụ va chạm nhỏ trên cầu đã làm giao thông giờ cao điểm tê liệt hoàn toàn.)*
+
+#### 2. Khi nói về cảnh quan & Không khí thành phố:
+- **`bustling streets / commercial hub`** *(đường phố tấp nập / trung tâm thương mại sầm uất)*:
+  - *"The central district is a bustling commercial **[[Hub]]** pulsating with neon signs and street performers."*
+  - *(Khu trung tâm là một đầu mối thương mại tấp nập rực rỡ ánh đèn neon và các nghệ sĩ đường phố.)*
+- **`cosmopolitan atmosphere`** *(bầu không khí đa văn hóa, quốc tế)*:
+  - *"International students adore the city's open-minded and **[[Cosmopolitan]]** **[[Atmosphere]]**."*
+  - *(Sinh viên quốc tế rất yêu thích bầu không khí cởi mở và mang tính quốc tế của thành phố này.)*
+- **`concrete jungle`** *(rừng bê tông - ẩn dụ về đô thị ngột ngạt)*:
+  - *"Public botanical gardens offer urbanites a serene refuge from the relentless concrete jungle."*
+  - *(Các vườn bách thảo công cộng mang lại cho thị dân một nơi chốn thanh bình để trốn khỏi khu rừng bê tông ngột ngạt.)*
+
+#### 3. Khi bàn về quy hoạch & Phát triển đô thị:
+- **`urban gentrification`** *(chỉnh trang, nâng cấp đô thị)*:
+  - *"While **[[Gentrification]]** brings cleaner streets, it can inadvertently displace working-class families."*
+  - *(Mặc dù việc chỉnh trang đô thị đem lại những con phố sạch đẹp hơn, nó có thể vô tình đẩy các gia đình lao động ra xa.)*
+- **`within walking distance`** *(trong cự ly có thể đi bộ tới)*:
+  - *"The apartment is highly sought after because key **[[Amenity|amenities]]** are well within walking distance."*
+  - *(Căn hộ được săn đón nhiệt tình vì các tiện ích trọng yếu đều nằm ngay trong tầm đi bộ.)*
+

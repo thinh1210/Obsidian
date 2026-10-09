@@ -132,3 +132,74 @@ As a self-proclaimed **[[Connoisseur]]** of **[[Gastronomy]]**, Arthur loved exp
 
 ### Bản dịch Tiếng Việt
 Là một **người sành sỏi** tự phong về **nghệ thuật ẩm thực**, Arthur rất thích khám phá các nhà hàng **sành ăn** mới. Tối nay, anh đã ghé thăm một địa điểm **ẩm thực** nổi tiếng được biết đến với những món ăn **bổ dưỡng** nhưng cũng rất ngon miệng. Bữa ăn bắt đầu bằng một món **khai vị** nhẹ gồm các loại rau củ nướng, thứ ngay lập tức kích thích **sự thèm ăn** của anh. Đối với món chính, anh được phục vụ một miếng bít tết nướng **mọng nước**. Arthur bắt đầu **thưởng thức** từng miếng một cách chậm rãi, trân trọng từng tầng hương vị đậm đà. Để **thỏa mãn cơn khát** của mình, người phục vụ đã mang lên một loại **đồ uống** thảo mộc sảng khoái kết hợp hoàn hảo với món thịt. Cuối cùng, một món **tráng miệng** sô-cô-la **ngon lành** được mang ra, món ăn đã hoàn toàn **thỏa mãn** cơn thèm ngọt của anh. Đó thực sự là một trải nghiệm ẩm thực khó quên.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đánh giá món ăn tại nhà hàng sang trọng (Fine Dining Review & Culinary Appreciation)
+> **Bối cảnh thực tế:** Một nhà phê bình ẩm thực cùng người bạn đến thưởng thức thực đơn nếm thử (tasting menu) tại một nhà hàng đạt sao Michelin, bàn luận về kỹ thuật chế biến, hương vị món ăn và nghệ thuật kết hợp đồ uống.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Oliver:** Claire, what do you think of this initial **[[Appetizer]]**? The plating is absolutely exquisite.
+  *(Claire, cậu thấy món khai vị đầu tiên này thế nào? Cách bày trí đĩa ăn quả thực rất tinh tế.)*
+- **Claire:** It definitely whets the **[[Appetite]]**! The grilled tiger prawns are remarkably **[[Succulent]]**, and the citrus glaze adds a bright, refreshing touch rather than being overly **[[Sour]]**.
+  *(Nó thực sự kích thích cảm giác thèm ăn đấy! Tôm sú nướng mọng nước bất ngờ, và lớp sốt cam quýt mang lại vị thanh mát sảng khoái chứ không hề bị chua gắt.)*
+- **Oliver:** As expected of a chef with such refined **[[Culinary]]** mastery. You can really **[[Savor]]** the subtle herbs in every bite. It is far from **[[Bland]]** or **[[Insipid]]**.
+  *(Đúng như mong đợi từ một đầu bếp có tay nghề ẩm thực bậc thầy. Cậu thực sự có thể nhâm nhi thưởng thức các loại thảo mộc tinh tế trong từng miếng cắn. Món này khác xa sự nhạt nhẽo vô vị thường thấy.)*
+- **Claire:** Exactly. Even a true **[[Connoisseur]]** of **[[Gastronomy]]** would be impressed by how balanced the **[[Flavor]]** profiles are. And what **[[Beverage]]** pairs best with the roasted **[[Beef]]** next?
+  *(Chính xác luôn. Ngay cả một chuyên gia sành sỏi về nghệ thuật ẩm thực cũng sẽ bị ấn tượng bởi sự cân bằng trong cấu trúc hương vị. Thế loại đồ uống nào kết hợp tuyệt nhất với món bò nướng tiếp theo nhỉ?)*
+- **Oliver:** The sommelier recommended a vintage red wine to **[[Quench]]** our thirst and complement the rich, smoky profile of the grilled meat.
+  *(Chuyên gia rượu vang đã gợi ý một chai vang đỏ ủ lâu năm để vừa giải tỏa cơn khát vừa tôn lên vị đậm đà, thơm mùi khói của thịt nướng.)*
+- **Claire:** Perfect! And I must save room for the chocolate **[[Dessert]]** to completely **[[Satiate]]** my sweet tooth.
+  *(Tuyệt hảo! Và mình nhất định phải để dành bụng cho món tráng miệng sô-cô-la để thỏa mãn trọn vẹn cơn thèm ngọt nữa.)*
+
+---
+
+### 🌟 Tình huống 2: Lựa chọn thực đơn ăn uống lành mạnh & Dị ứng (Dietary Choices & Food Sensitivities)
+> **Bối cảnh thực tế:** Trong một buổi liên hoan công ty, đồng nghiệp cùng nhau thảo luận để đặt tiệc, chú ý đến nhu cầu dinh dưỡng, sở thích ăn chay (**[[Vegetarian]]**) và các dị ứng thực phẩm nghiêm ngặt (**[[Allergy]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Marcus:** Emma, we are placing the dinner catering order for tomorrow's team celebration. Do you have any dietary restrictions?
+  *(Emma, bọn mình đang chuẩn bị đặt cỗ tiệc cho buổi liên hoan công ty ngày mai. Cậu có kiêng khem món gì không?)*
+- **Emma:** Yes, thank you for asking! I have a severe peanut **[[Allergy]]**, so I need to make sure every single **[[Ingredient]]** is clearly labeled and peanut-free.
+  *(Có đấy, cảm ơn cậu đã hỏi thăm! Mình bị dị ứng đậu phộng rất nặng, nên mình cần đảm bảo từng nguyên liệu thành phần đều được ghi rõ và không chứa đậu phộng.)*
+- **Marcus:** Noted! What about dietary preferences? Are you strictly **[[Vegetarian]]**?
+  *(Mình ghi nhận rồi! Còn về sở thích ăn uống thì sao? Cậu có ăn chay trường không?)*
+- **Emma:** I eat mostly plant-based dishes for optimal **[[Nutrition]]**, but I do **[[Consume]]** grilled **[[Fish]]** occasionally. As long as the meals are fresh, **[[Nutritious]]**, and cleanly prepared, I'm happy!
+  *(Mình chủ yếu ăn các món từ thực vật để có chế độ dinh dưỡng tối ưu, nhưng thi thoảng mình cũng dùng cá nướng. Miễn là các món ăn tươi ngon, giàu dinh dưỡng và được chế biến sạch sẽ là mình thích rồi!)*
+- **Marcus:** Don't worry, we selected a certified **[[Gourmet]]** caterer known for using organic produce. Nobody will have to settle for dry **[[Leftover|leftovers]]** or unpalatable food.
+  *(Cậu yên tâm, bọn mình đã chọn một bên cung cấp tiệc cao cấp nổi tiếng dùng nông sản hữu cơ. Sẽ không ai phải chịu cảnh ăn đồ ăn thừa nguội ngắt hay món ăn khó nuốt cả.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi khen ngợi & Thưởng thức món ăn:
+- **`mouth-watering delicacies`** *(món ăn ngon chảy nước miếng)*:
+  - *"The buffet was laden with mouth-watering delicacies from across Southeast Asia."*
+  - *(Bàn tiệc buffet đầy ắp những món ngon miệng chảy nước miếng từ khắp Đông Nam Á.)*
+- **`savor every mouthful / bite`** *(thưởng thức, nhâm nhi từng miếng)*:
+  - *"Take your time and **[[Savor]]** every mouthful of this handmade pasta."*
+  - *(Hãy ăn từ tốn và nhâm nhi từng miếng mì tự làm thủ công tuyệt hảo này.)*
+- **`succulent and tender`** *(mọng nước và mềm ngọt)*:
+  - *"Slow-roasting makes the poultry incredibly **[[Succulent]]** and tender."*
+  - *(Phương pháp quay chậm giúp thịt gia cầm trở nên mọng nước và mềm tan đến khó tin.)*
+
+#### 2. Khi nói về dinh dưỡng & Thói quen ăn uống:
+- **`balanced and nutritious diet`** *(chế độ ăn cân bằng và giàu dinh dưỡng)*:
+  - *"A **[[Nutritious]]** breakfast provides sustained energy throughout demanding mornings."*
+  - *(Một bữa sáng giàu dinh dưỡng cung cấp nguồn năng lượng bền bỉ suốt cả buổi sáng làm việc vất vả.)*
+- **`quench one's thirst`** *(giải tỏa cơn khát)*:
+  - *"Nothing can **[[Quench]]** your thirst after a marathon better than cool electrolyte water."*
+  - *(Không gì có thể làm dịu cơn khát sau một chặng chạy marathon tốt hơn nước điện giải mát lạnh.)*
+- **`cut down on sugary beverages`** *(cắt giảm đồ uống nhiều đường)*:
+  - *"To maintain cardiovascular health, she decided to avoid processed snacks and sugary **[[Beverage|beverages]]**."*
+  - *(Để bảo vệ sức khỏe tim mạch, cô ấy quyết định tránh xa đồ ăn vặt chế biến sẵn và các loại đồ uống nhiều đường.)*
+
+#### 3. Khi nhận xét tiêu cực hoặc cảnh báo:
+- **`bland and insipid`** *(nhạt nhẽo và vô vị)*:
+  - *"Without the right seasoning, unspiced porridge can taste terribly **[[Bland]]**."*
+  - *(Nếu không nêm nếm gia vị đúng cách, món cháo mộc có thể có vị cực kỳ nhạt nhẽo.)*
+- **`severe food allergy`** *(dị ứng thực phẩm nghiêm trọng)*:
+  - *"Always alert the restaurant staff if you suffer from an acute seafood **[[Allergy]]**."*
+  - *(Hãy luôn báo trước cho nhân viên nhà hàng nếu bạn bị dị ứng hải sản cấp tính.)*
+

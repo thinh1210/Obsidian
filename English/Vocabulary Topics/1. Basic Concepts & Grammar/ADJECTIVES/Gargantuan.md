@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Gargantuan::Khổng lồ, to lớn *(Phát âm: /ɡɑːˈɡæntʃuən/)* ![[gargantuan.mp3]]<br><br>👪 **Word Family:** gargantua<br><br>💬 **Ví dụ:** Gargantuan meal.<br>*(-> Bữa ăn khổng lồ.)*
-<!--SR:!2026-10-03,1,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Enormous

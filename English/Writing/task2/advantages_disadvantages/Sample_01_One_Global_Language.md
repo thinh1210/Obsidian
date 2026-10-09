@@ -62,9 +62,14 @@ In conclusion, while there are plus points to having one global language, too mu
   - **Cụm phân từ quá khứ bổ nghĩa cho danh từ:** `[previously allocated to translation and interpreting services]`.
 - **2. 🔗 Phân tích Liên kết với câu trước (Inter-sentence Cohesion):**
   - *Kiểu liên kết:* **Phát triển luận điểm từ tiền đề (Logical Consequence / Elaboration).**
-  - *Mối nối với câu trước:* Câu trước nêu lợi ích: *"Another positive aspect would be the promotion of trade"* (Thúc đẩy thương mại). Câu này giải thích cơ chế thúc đẩy thương mại diễn ra như thế nào: bằng cách xóa bỏ rào cản ngôn ngữ $ightarrow$ mở rộng thị trường và loại bỏ chi phí dịch thuật.
+  - *Mối nối với câu trước:* Câu trước nêu lợi ích: *"Another positive aspect would be the promotion of trade"* (Thúc đẩy thương mại). Câu này giải thích cơ chế thúc đẩy thương mại diễn ra như thế nào: bằng cách xóa bỏ rào cản ngôn ngữ $
+ightarrow$ mở rộng thị trường và loại bỏ chi phí dịch thuật.
   - *Kỹ thuật liên kết:* Cụm `[With no language barriers]` kế thừa và cụ thể hóa ý "everyone spoke one language" đã nêu ở phần đầu đoạn văn.
 - 💡 **Công thức ghép câu:** `With [Advantage/No Barrier], S_main + could V1 and V2, completely V-ing + the Noun previously V-ed to [Sector].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "The emergence of a singular universal lingua franca catalyzes frictionless cross-border diplomacy and commercial interchange, thereby accelerating global economic cohesion."
+  - *Cách 2 (Mệnh đề nhượng bộ - Concessive Contrast):* "While linguistic hegemony undoubtedly streamlines international commerce, it simultaneously precipitates the irrecoverable erosion of minority cultural heritages and indigenous idioms."
+  - *Cách 3 (Nhấn mạnh nguy cơ đa dạng sinh thái ngôn ngữ - Linguistic Ecology):* "The worldwide preeminence of a dominant tongue poses an existential threat to linguistic diversity, overshadowing the pragmatic administrative benefits of a unified medium." 
 
 ---
 
@@ -84,16 +89,13 @@ In conclusion, while there are plus points to having one global language, too mu
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **predominate over** | `/prɪˈdɒmɪneɪt ˈəʊvər/` | `C2` | *Verb* | Chiếm ưu thế tuyệt đối, áp đảo hoàn toàn | *"...may one day predominate over all other languages."* |
-| **eventual disappearance** | `/ɪˈventʃuəl ˌdɪsəˈpɪərəns/` | `C1` | *Noun Phrase* | Sự biến mất sau cùng, sự tuyệt chủng dần dần | *"...and result in their eventual disappearance."* |
-| **language barriers** | `/ˈlæŋɡwɪdʒ ˈbæriəz/` | `B2/C1` | *Noun Phrase* | Rào cản ngôn ngữ | *"With no language barriers, businesses could easily expand overseas."* |
-| **financial expenditure** | `/faɪˈnænʃl ɪkˈspendɪtʃər/` | `C1` | *Noun Phrase* | Chi phí tài chính | *"Eliminating the considerable financial expenditure allocated to translation."* |
-| **indispensable part** | `/ˌɪndɪˈspensəbl pɑːt/` | `C1` | *Collocation* | Phần không thể thiếu, cốt yếu | *"An indispensable part of human heritage would be lost forever."* |
-| **loss of identity** | `/lɒs ɒv aɪˈdentəti/` | `C1` | *Noun Phrase* | Sự đánh mất bản sắc | *"People would feel a loss of identity because their native tongue connects them..."* |
-| **native tongue** | `/ˈneɪtɪv tʌŋ/` | `B2/C1` | *Noun Phrase* | Tiếng mẹ đẻ | *"Their native tongue connects them intimately with their ancestors."* |
-| **world heritage** | `/wɜːld ˈherɪtɪdʒ/` | `B2/C1` | *Noun Phrase* | Di sản thế giới | *"...to ensure a rich world heritage for future generations."* |
+| **global lingua franca** | /ˈlɪŋɡwə ˈfræŋkə/` | `C2` | *Noun Phrase* | Ngôn ngữ chung của toàn cầu | `universal medium of communication` • `international vehicular language` |
+| **linguistic hegemony** | /lɪŋˈɡwɪstɪk hɪˈɡeməni/` | `C2` | *Noun Phrase* | Sự bá quyền / thống trị ngôn ngữ | `monopoly of a single tongue` • `linguistic dominance` • `monolingual ascendancy` |
+| **cultural erosion** | /ˈkʌltʃərəl ɪˈrəʊʒn/` | `C1` | *Noun Phrase* | Sự xói mòn / mai một bản sắc văn hóa | `loss of ancestral heritage` • `cultural dilution` • `degradation of indigenous identity` |
+| **streamline international commerce** | /ˈstriːmlaɪn/` | `C1` | *Collocation* | Hợp lý hóa / làm thông suốt thương mại quốc tế | `expedite cross-border trade` • `facilitate global transactional flows` |
+| **indigenous languages** | /ɪnˈdɪdʒənəs/` | `C1` | *Noun Phrase* | Các ngôn ngữ bản địa / tiếng mẹ đẻ địa phương | `vernacular tongues` • `ancestral dialects` • `native idioms` |
 
 ---
 

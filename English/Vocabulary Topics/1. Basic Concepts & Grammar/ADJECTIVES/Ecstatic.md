@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Ecstatic::Vô cùng hạnh phúc *(Phát âm: /ɪkˈstætɪk/)* ![[ecstatic.mp3]]<br><br>👪 **Word Family:** ecstasy<br><br>💬 **Ví dụ:** Ecstatic joy.<br>*(-> Niềm vui sướng tột độ.)*
-<!--SR:!2026-10-03,1,250-->
+<!--SR:!2026-10-09,3,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feeling or expressing overwhelming happiness

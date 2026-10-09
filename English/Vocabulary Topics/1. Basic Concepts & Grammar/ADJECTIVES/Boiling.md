@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Boiling::Nóng sôi *(Phát âm: /ˈbɔɪlɪŋ/)* ![[boiling.mp3]]<br><br>👪 **Word Family:** boil<br><br>💬 **Ví dụ:** It's boiling today.<br>*(-> Hôm nay nóng sôi.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely hot

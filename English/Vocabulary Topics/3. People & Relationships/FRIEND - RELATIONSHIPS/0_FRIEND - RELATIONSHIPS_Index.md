@@ -128,3 +128,72 @@ When Mark moved to a new city, he realized who his true friends were. Many peopl
 
 ### Bản dịch Tiếng Việt
 Khi Mark chuyển đến một thành phố mới, anh nhận ra ai mới là những người bạn thực sự của mình. Nhiều người mà anh từng **đi chơi cùng** hóa ra chỉ là **bạn thời tiết** (bạn lúc vui vẻ), những người biến mất khi gặp khó khăn. Tuy nhiên, **người bạn thân nhất** của anh, Sarah, vẫn luôn là một **người tri kỷ** mà anh có thể tin cậy. **Mối quan hệ** của họ được xây dựng trên sự tôn trọng **lẫn nhau** và sự hỗ trợ **kiên định**. Nhiều năm sau, Mark cố gắng **kết nối lại** với một số người bạn thời thơ ấu **đã xa cách**. Trong khi hầu hết đã trở thành một **người quen** đơn thuần, anh lại tìm thấy một **tâm hồn đồng điệu** ở Leo. Họ nhanh chóng thiết lập một **mối quan hệ hòa hợp** bền chặt, chứng minh rằng **tình bạn thân thiết** đích thực có thể nảy nở ở bất kỳ giai đoạn nào của cuộc đời nếu có một trái tim **trung thành**.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thử thách của tình bạn & Bạn chân chính trong hoạn nạn (Testing Friendship in Adversity)
+> **Bối cảnh thực tế:** Trong cuộc sống, khi một người gặp biến cố tài chính hoặc công việc, họ mới nhận ra ai là **[[Confidant]]** (người tri kỷ sẻ chia) luôn mang lại **[[Unwavering]]** (kiên định) support, và ai chỉ là **[[Fair-weather_friend|Fair-weather friend]]** (người bạn vụ lợi, chỉ bên nhau lúc vui vẻ).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Alex:** Chloe, remember how popular Daniel used to be when he hosted those lavish weekend parties?
+  *(Chloe, cậu có nhớ ngày xưa Daniel nổi tiếng và đông bạn thế nào khi anh ấy hay tổ chức mấy bữa tiệc xa hoa cuối tuần không?)*
+- **Chloe:** Of course. But the moment his startup collapsed, almost all those people vanished. Turns out they were just **[[Fair-weather_friend|fair-weather friends]]** who only cared about his status.
+  *(Tất nhiên rồi. Nhưng ngay thời điểm công ty khởi nghiệp của anh ấy phá sản, hầu như tất cả những người đó đều biến mất. Hóa ra họ chỉ là những người bạn cơ hội, chỉ quan tâm đến danh tiếng của anh ấy thôi.)*
+- **Alex:** Exactly. Only Julian stayed by his side through thick and thin, offering **[[Unwavering]]** emotional and practical **[[Support]]**.
+  *(Chính xác luôn. Chỉ có Julian là ở bên cạnh anh ấy qua bao thăng trầm gian khó, mang lại sự hỗ trợ kiên định cả về mặt tinh thần lẫn thực tế.)*
+- **Chloe:** Julian is truly a **[[Loyal]]** **[[Companion]]** and a genuine **[[Confidant]]**. That crisis helped **[[Solidify]]** their bond based on mutual **[[Trust]]** and **[[Reciprocity]]**.
+  *(Julian thực sự là một người bạn đồng hành trung thành và một người tri kỷ đích thực. Cuộc khủng hoảng đó đã giúp củng cố mối liên kết của họ dựa trên sự tin tưởng lẫn nhau và sự có qua có lại.)*
+- **Alex:** It reminds me of the classic proverb: a friend in need is a friend indeed.
+  *(Nó làm mình nhớ đến câu tục ngữ kinh điển: Gian nan mới hiểu bạn bè.)*
+
+---
+
+### 🌟 Tình huống 2: Gặp lại bạn cũ sau nhiều năm xa cách (Reconnecting After Years Apart)
+> **Bối cảnh thực tế:** Sau khi tốt nghiệp đại học nhiều năm, hai người bạn từng thân thiết vô tình **[[Reconnect]]** lại ở một thành phố mới và chia sẻ về những đổi thay, thấu hiểu rằng tình bạn sâu sắc không bị phai mờ bởi khoảng cách địa lý.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Elena:** Marcus! Is that really you? I can't believe we bumped into each other after ten whole years!
+  *(Marcus! Có thật là cậu không đấy? Mình không thể tin được là bọn mình lại tình cờ gặp nhau sau đúng mười năm trời!)*
+- **Marcus:** Elena! Wow, what a pleasant surprise! After college, life became so busy that we became somewhat **[[Estranged]]**, but I always hoped we'd **[[Reconnect]]**.
+  *(Elena! Ôi, thật là một bất ngờ thú vị! Sau khi ra trường, cuộc sống bận rộn đến mức bọn mình dường như đã xa cách nhau, nhưng mình luôn hy vọng sẽ có ngày kết nối lại.)*
+- **Elena:** I know. We let career demands **[[Alienate]]** us from old circles, but talking to you right now feels like no time has passed at all. We still share that effortless **[[Rapport]]**.
+  *(Mình biết mà. Bọn mình đã để guồng quay công việc làm xa cách các mối quan hệ cũ, nhưng lúc này nói chuyện với cậu cảm giác như thời gian chưa từng trôi qua vậy. Bọn mình vẫn có được sự ăn ý thấu hiểu tự nhiên ấy.)*
+- **Marcus:** That's because you've always been a **[[Kindred_spirit|kindred spirit]]** to me. Let's promise not to become mere **[[Acquaintance|acquaintances]]** again. How about grabbing coffee this Sunday?
+  *(Bởi vì cậu luôn là một tâm hồn đồng điệu đối với mình. Hãy hứa là đừng biến nhau thành người quen xa lạ nữa nhé. Chủ nhật này đi cà phê hàn huyên nhé?)*
+- **Elena:** Count me in! I'd love to share memories and hear all about your journey.
+  *(Nhất trí luôn! Mình rất muốn ôn lại kỷ niệm và nghe về hành trình của cậu những năm qua.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về sự gắn bó & Tình bạn tri kỷ:
+- **`kindred spirit`** *(tâm hồn đồng điệu, tri kỷ)*:
+  - *"From the very first conversation, she realized she had met a **[[Kindred_spirit|kindred spirit]]**."*
+  - *(Ngay từ cuộc trò chuyện đầu tiên, cô ấy đã nhận ra mình đã gặp được một tâm hồn đồng điệu.)*
+- **`through thick and thin`** *(sát cánh dù qua gian khó thăng trầm)*:
+  - *"True friends stand by one another through thick and thin without hesitation."*
+  - *(Những người bạn chân chính luôn sát cánh bên nhau qua mọi gian khó thăng trầm mà không hề do dự.)*
+- **`unwavering support`** *(sự hỗ trợ kiên định, không lay chuyển)*:
+  - *"His **[[Unwavering]]** faith in my abilities helped me overcome extreme burnout."*
+  - *(Niềm tin kiên định của cậu ấy vào năng lực của tôi đã giúp tôi vượt qua giai đoạn kiệt sức tột cùng.)*
+
+#### 2. Khi nói về sự xa cách & Hàn gắn:
+- **`reconnect with old friends`** *(kết nối lại với bạn cũ)*:
+  - *"Social media makes it easier to **[[Reconnect]]** with long-lost schoolmates."*
+  - *(Mạng xã hội giúp việc kết nối lại với những người bạn học đã thất lạc từ lâu trở nên dễ dàng hơn.)*
+- **`drift apart`** *(dần xa cách nhau theo thời gian)*:
+  - *"They didn't have an argument; they simply drifted apart due to different life paths."*
+  - *(Họ chẳng hề cãi cọ gì nhau; họ chỉ đơn giản là dần xa cách vì đi trên những con đường đời khác nhau.)*
+- **`build / establish rapport`** *(xây dựng mối quan hệ hòa hợp, ăn ý)*:
+  - *"Finding common hobbies is the quickest way to establish a natural **[[Rapport]]** with new colleagues."*
+  - *(Tìm kiếm sở thích chung là cách nhanh nhất để tạo dựng sự hòa hợp tự nhiên với các đồng nghiệp mới.)*
+
+#### 3. Nhận diện các kiểu mối quan hệ:
+- **`fair-weather friend`** *(bạn chỉ bên nhau lúc thuận lợi, bạn cơ hội)*:
+  - *"Never depend on a **[[Fair-weather_friend|fair-weather friend]]** when your finances take a downturn."*
+  - *(Đừng bao giờ dựa dẫm vào một người bạn cơ hội khi tình hình tài chính của bạn lao dốc.)*
+- **`platonic friendship / relationship`** *(tình bạn trong sáng, thuần khiết phi giới tính)*:
+  - *"Men and women can maintain deeply meaningful **[[Platonic]]** relationships based on mutual respect."*
+  - *(Nam và nữ hoàn toàn có thể duy trì những mối quan hệ bạn bè trong sáng, sâu sắc dựa trên sự tôn trọng lẫn nhau.)*
+

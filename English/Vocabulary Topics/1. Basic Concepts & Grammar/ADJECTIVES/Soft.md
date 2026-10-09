@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Soft::Mềm, êm ái, không cứng; dịu dàng, nhẹ nhàng (âm thanh, ánh sáng) *(Phát âm: /sɒft/)* ![[soft.mp3]]<br><br>👪 **Word Family:** softly (adv), softness (n), soften (v)<br><br>💬 **Ví dụ:** After a tiring trip, there is nothing better than resting on a soft bed.<br>*(-> Sau một chuyến đi mệt nhoài, không gì tuyệt vời hơn được ngả lưng trên chiếc giường êm ái.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Not hard or firm; easy to press, bend, or cut; gentle and pleasant.

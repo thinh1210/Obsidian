@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Fascinating::Hấp dẫn *(Phát âm: /ˈfæsɪneɪtɪŋ/)* ![[fascinating.mp3]]<br><br>👪 **Word Family:** fascination<br><br>💬 **Ví dụ:** Fascinating story.<br>*(-> Câu chuyện hấp dẫn.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely interesting

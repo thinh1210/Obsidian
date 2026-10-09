@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Enormous::To lớn, khổng lồ *(Phát âm: /ɪˈnɔːməs/)* ![[enormous.mp3]]<br><br>👪 **Word Family:** enormity<br><br>💬 **Ví dụ:** Enormous dog.<br>*(-> Chó khổng lồ.)*
-<!--SR:!2026-10-03,1,230-->
+<!--SR:!2026-10-13,7,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Very large in size, quantity, or extent

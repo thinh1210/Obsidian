@@ -64,24 +64,27 @@ In conclusion, I firmly believe that true happiness does not hinge entirely on f
   - **Mệnh đề quan hệ xác định làm tân ngữ:** `[that wealth can never purchase]` (Mà của cải không bao giờ có thể mua được).
 - **2. 🔗 Phân tích Liên kết với câu trước (Inter-sentence Cohesion):**
   - *Kiểu liên kết:* **Liên kết thứ tự chuỗi luận cứ (Sequential Enumeration / Final Argument Hook).**
-  - *Mối nối với câu trước:* Thân bài 2 trả lời câu hỏi *"Những yếu tố nào khác tạo nên hạnh phúc?"*. Tác giả xây dựng chuỗi liên kết: *First among these is health* $ightarrow$ *Another crucial element is fulfilling relationships* $ightarrow$ và chốt hạ bằng `[Finally]` (Ý thứ ba: Mục đích sống).
+  - *Mối nối với câu trước:* Thân bài 2 trả lời câu hỏi *"Những yếu tố nào khác tạo nên hạnh phúc?"*. Tác giả xây dựng chuỗi liên kết: *First among these is health* $
+ightarrow$ *Another crucial element is fulfilling relationships* $
+ightarrow$ và chốt hạ bằng `[Finally]` (Ý thứ ba: Mục đích sống).
   - *Kỹ thuật liên kết đối chiếu (Thematic Resonance):* Cụm từ cuối câu `[that wealth can never purchase]` khéo léo kéo người đọc quay trở lại chủ đề trọng tâm của đề bài là *money vs happiness*, tạo sự kết nối chặt chẽ từ đầu đến cuối bài.
 - 💡 **Công thức ghép câu:** `Finally, having [Noun/Trait], whether through [A, B, or C], brings [Emotion] that [Material Thing] can never [Verb].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "While monetary security indisputably wards off survival anxieties, enduring subjective well-being is predominantly anchored in emotional bonds, autonomy, and existential purpose."
+  - *Cách 2 (Mệnh đề điều kiện hạn định - Qualified Condition):* "Financial assets contribute to life satisfaction only insofar as they satisfy basic material necessities, beyond which interpersonal harmony assumes paramount importance."
+  - *Cách 3 (Nhấn mạnh sự suy giảm lợi ích biên - Diminishing Returns):* "Material affluence demonstrates diminishing marginal utility toward genuine contentment, rendering non-pecuniary facets like health and familial ties the true arbiters of joy." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **temporary enjoyment** | `/ˈtemprəri ɪnˈdʒɔɪmənt/` | `B2` | *Collocation* | Niềm vui thích tạm thời | *"Money allows people to afford treats, which bring temporary enjoyment."* |
-| **profound contentment** | `/prəˈfaʊnd kənˈtentmənt/` | `C2` | *Noun Phrase* | Sự bằng lòng, thanh thản sâu sắc từ tâm can | *"...cost virtually nothing yet cultivate profound contentment."* |
-| **fulfilling relationships** | `/fʊlˈfɪlɪŋ rɪˈleɪʃnʃɪps/` | `C1` | *Noun Phrase* | Các mối quan hệ mang lại cảm giác trọn vẹn, thỏa nguyện | *"Another crucial element is fulfilling relationships with family and friends."* |
-| **unconditional emotional support** | `/ˌʌnkənˈdɪʃənl ɪˈməʊʃənl səˈpɔːt/` | `C1` | *Noun Phrase* | Sự hỗ trợ tinh thần vô điều kiện | *"...which offer mutual trust and unconditional emotional support."* |
-| **sense of belonging** | `/sens ɒv bɪˈlɒŋɪŋ/` | `C1` | *Collocation* | Cảm giác thuộc về một cộng đồng/tập thể | *"...unconditional emotional support and a sense of belonging."* |
-| **altruistic contribution** | `/ˌæltruˈɪstɪk ˌkɒntrɪˈbjuːʃn/` | `C2` | *Noun Phrase* | Sự đóng góp vị tha, không màng vụ lợi | *"...whether through engaging work or altruistic contribution to society."* |
-| **hinge on** | `/hɪndʒ ɒn/` | `C1` | *Phrasal Verb* | Phụ thuộc hoàn toàn vào điều gì | *"True happiness does not hinge entirely on financial abundance."* |
-| **cornerstones of human joy** | `/ˈkɔːnəstəʊnz ɒv ˈhjuːmən dʒɔɪ/` | `C2` | *Metaphor* | Nền móng / viên đá tảng tạo nên niềm vui con người | *"...represent the true cornerstones of human joy."* |
+| **subjective well-being** | /səbˈdʒektɪv wel ˈbiːɪŋ/` | `C2` | *Technical Term* | Mức độ hạnh phúc / thỏa nguyện nội tâm | `authentic contentment` • `internal fulfillment` • `emotional serenity` |
+| **diminishing marginal returns** | /dɪˈmɪnɪʃɪŋ ˈmɑːdʒɪnl/` | `C2` | *Idiomatic Concept* | Quy luật lợi ích cận biên giảm dần | `declining psychological yield` • `plateauing emotional utility` |
+| **non-pecuniary factors** | /nɒn pɪˈkjuːniəri/` | `C2` | *Formal Collocation* | Các yếu tố phi tài chính / không thuộc về tiền tệ | `immaterial elements` • `non-monetary considerations` • `intangible determinants` |
+| **stave off financial anxiety** | /steɪv ɒf/` | `C2` | *Collocation* | Ngăn chặn / xua tan nỗi lo về tiền nong | `ward off pecuniary stress` • `alleviate material insecurity` |
+| **existential purpose** | /ˌeɡzɪˈstenʃl ˈpɜːpəs/` | `C2` | *Noun Phrase* | Lẽ sống, mục đích tồn tại của cuộc đời | `sense of life meaning` • `ontological raison d’être` • `deeper life calling` |
 
 ---
 

@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Cool::Mát mẻ, dễ chịu; điềm đạm; sành điệu, ngầu *(Phát âm: /kuːl/)* ![[cool.mp3]]<br><br>👪 **Word Family:** coolly (adv), coolness (n), cool (v)<br><br>💬 **Ví dụ:** We sat under the shade of the mango tree and enjoyed the cool breeze.<br>*(-> Chúng tôi ngồi dưới bóng mát cây xoài và tận hưởng làn gió mát rượi.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Slightly cold in a pleasant way; calm and not excited; fashionable and attractive.

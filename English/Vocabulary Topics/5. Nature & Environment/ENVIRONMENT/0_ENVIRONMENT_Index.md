@@ -128,3 +128,72 @@ Today, **[[Anthropogenic]]** pressures have brought many regions to the verge of
 
 ### Bản dịch Tiếng Việt
 Ngày nay, những áp lực **do con người gây ra** đã đưa nhiều vùng đến bờ vực của **hủy diệt sinh thái**. Việc đốt cháy lượng lớn **nhiên liệu hóa thạch** và nạn **phá rừng** tràn lan là những tác nhân chính dẫn đến **biến đổi khí hậu** toàn cầu, từ đó đẩy nhanh sự **ô nhiễm** môi trường và mất đi môi trường sống. Để giải quyết những mối đe dọa này, các sáng kiến toàn cầu phải tập trung vào các chiến lược **giảm thiểu** hiệu quả và chuyển dịch hướng tới sự phát triển **bền vững**. Một giải pháp then chốt là **tái hoang dã**, cho phép các vùng đất bị tổn hại được phục hồi một cách tự nhiên. Hoạt động này không chỉ khôi phục lại sự cân bằng của **hệ sinh thái** địa phương mà còn tăng cường khả năng **hấp thụ carbon** tự nhiên thông qua những cánh rừng đang phát triển. Cuối cùng, việc bảo vệ **đa dạng sinh học** toàn cầu là điều cần thiết nếu chúng ta muốn đảm bảo một tương lai kiên cường cho hành tinh của mình.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tọa đàm về chuyển đổi xanh & Giảm phát thải carbon (Corporate Decarbonization & Renewable Transition)
+> **Bối cảnh thực tế:** Tại một diễn đàn khí hậu quốc tế, một chuyên gia môi trường và một giám đốc điều hành doanh nghiệp thảo luận về lộ trình loại bỏ **[[Fossil fuel]]** (nhiên liệu hóa thạch), giảm nhẹ tác động **[[Climate change]]** (biến đổi khí hậu) và áp dụng công nghệ **[[Carbon sequestration]]** (hấp thụ carbon).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Audrey:** Dr. Thorne, how can industrial manufacturers accelerate genuine **[[Decarbonization]]** without compromising economic output?
+  *(Thưa Tiến sĩ Thorne, làm thế nào để các nhà sản xuất công nghiệp đẩy nhanh quá trình khử carbon thực chất mà không làm tổn hại đến sản lượng kinh tế?)*
+- **Dr. Thorne:** The foundation lies in rapidly transitioning from **[[Fossil fuel|fossil fuels]]** to **[[Renewable]]** energy such as offshore wind and solar power. We cannot merely talk about **[[Sustainability|sustainable]]** development; companies must actively reduce their **[[Carbon footprint]]**.
+  *(Nền tảng cốt lõi nằm ở việc chuyển dịch nhanh chóng từ nhiên liệu hóa thạch sang năng lượng tái tạo như điện gió ngoài khơi và điện mặt trời. Chúng ta không thể chỉ nói suông về phát triển bền vững; các doanh nghiệp phải chủ động cắt giảm dấu chân carbon của mình.)*
+- **Audrey:** What role do natural solutions like afforestation play compared to carbon-capture technologies?
+  *(Các giải pháp tự nhiên như trồng rừng đóng vai trò thế nào so với các công nghệ thu giữ carbon nhân tạo?)*
+- **Dr. Thorne:** Both are vital. Preserving intact forests maximizes natural **[[Carbon sequestration]]** and prevents soil **[[Degradation]]**. It addresses the crisis at its root instead of merely managing the symptoms of the **[[Greenhouse effect]]**.
+  *(Cả hai đều quan trọng sống còn. Bảo tồn các cánh rừng nguyên vẹn sẽ tối đa hóa khả năng hấp thụ carbon tự nhiên và ngăn chặn sự suy thoái của đất. Nó giải quyết khủng hoảng từ tận gốc rễ thay vì chỉ xử lý triệu chứng của hiệu ứng nhà kính.)*
+- **Audrey:** That aligns with our corporate pledge to invest in clean supply chains and phase out non-**[[Biodegradable]]** packaging.
+  *(Điều đó rất phù hợp với cam kết của tập đoàn chúng tôi về việc đầu tư vào chuỗi cung ứng sạch và loại bỏ dần bao bì không phân hủy sinh học.)*
+
+---
+
+### 🌟 Tình huống 2: Chiến dịch tái hoang dã & Cứu trợ loài nguy cấp (Rewilding & Wildlife Conservation)
+> **Bối cảnh thực tế:** Các nhà sinh học thực địa và kiểm lâm thảo luận về một dự án **[[Rewilding]]** (tái hoang dã hóa) quy mô lớn nhằm phục hồi **[[Ecosystem]]** (hệ sinh thái) bản địa và bảo vệ các loài động vật hoang dã (**[[Wildlife]]**) đang nằm trong danh sách **[[Endangered]]** (nguy cấp).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Soren:** Maya, look at the satellite telemetry data. The newly reforested biological corridor has already begun reconnecting fragmented habitats!
+  *(Maya, hãy nhìn vào dữ liệu định vị vệ tinh này. Hành lang sinh học mới tái sinh đã bắt đầu kết nối lại các vùng sinh cảnh bị chia cắt rồi!)*
+- **Maya:** That is phenomenal news! Preventing **[[Deforestation]]** in this basin was crucial for several **[[Endangered]]** feline species whose natural **[[Habitat]]** had shrunk by 70%.
+  *(Đó là tin tuyệt vời ngoài mong đợi! Ngăn chặn nạn phá rừng ở lưu vực này là điều tối quan trọng đối với một số loài mèo rừng nguy cấp mà môi trường sống tự nhiên từng bị thu hẹp tới 70%.)*
+- **Soren:** Yes, and active **[[Rewilding]]** efforts—reintroducing native herbivores—are effectively restoring the trophic balance across the entire **[[Ecosystem]]**.
+  *(Đúng vậy, và những nỗ lực tái hoang dã tích cực—như tái thả động vật ăn cỏ bản địa—đang khôi phục hiệu quả sự cân bằng chuỗi thức ăn trong toàn bộ hệ sinh thái.)*
+- **Maya:** It proves that nature can heal if we halt harmful **[[Anthropogenic]]** encroachment. Conserving global **[[Biodiversity]]** protects the stability of the entire **[[Biosphere]]**.
+  *(Điều đó chứng minh rằng thiên nhiên hoàn toàn có thể tự chữa lành nếu chúng ta chấm dứt sự xâm lấn có hại do con người gây ra. Bảo tồn đa dạng sinh học toàn cầu chính là bảo vệ sự ổn định của toàn bộ sinh quyển.)*
+- **Soren:** Absolutely. Promoting responsible **[[Ecotourism]]** here will also provide sustainable livelihoods for local villagers while safeguarding the wildlife.
+  *(Chắc chắn rồi. Việc thúc đẩy du lịch sinh thái có trách nhiệm tại đây cũng sẽ mang lại sinh kế bền vững cho dân làng địa phương trong khi vẫn bảo vệ được các loài hoang dã.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi thảo luận về biến đổi khí hậu & Ô nhiễm:
+- **`combat global warming / climate change`** *(chống lại sự nóng lên toàn cầu / biến đổi khí hậu)*:
+  - *"Global cooperation is mandatory to combat rapid **[[Global warming]]** and mitigate its severe impacts."*
+  - *(Hợp tác toàn cầu là điều bắt buộc để chống lại hiện tượng nóng lên toàn cầu nhanh chóng và giảm nhẹ các tác động nghiêm trọng của nó.)*
+- **`cut down on carbon footprint`** *(cắt giảm dấu chân carbon)*:
+  - *"Commuting by bicycle and utilizing public transport helps citizens trim their personal **[[Carbon footprint]]**."*
+  - *(Đi lại bằng xe đạp và sử dụng phương tiện công cộng giúp người dân cắt giảm dấu chân carbon cá nhân.)*
+- **`fossil fuel dependency`** *(sự phụ thuộc vào nhiên liệu hóa thạch)*:
+  - *"Diverting subsidies away from **[[Fossil fuel|fossil fuels]]** speeds up clean-energy adoption."*
+  - *(Chuyển hướng trợ cấp khỏi nhiên liệu hóa thạch sẽ đẩy nhanh việc áp dụng năng lượng sạch.)*
+
+#### 2. Khi nói về bảo tồn sinh thái & Đa dạng sinh học:
+- **`biodiversity conservation`** *(bảo tồn đa dạng sinh học)*:
+  - *"Tropical coral reefs are crucial hotspots for global **[[Biodiversity]]** conservation."*
+  - *(Các rạn san hô nhiệt đới là những điểm nóng tối quan trọng cho việc bảo tồn đa dạng sinh học toàn cầu.)*
+- **`endangered species in danger of extinction`** *(loài nguy cấp có nguy cơ tuyệt chủng)*:
+  - *"Poaching and illegal trafficking have pushed the pangolin onto the critically **[[Endangered]]** list."*
+  - *(Săn trộm và buôn bán trái phép đã đẩy loài tê tê vào danh sách cực kỳ nguy cấp.)*
+- **`restore damaged ecosystems`** *(phục hồi các hệ sinh thái bị tổn hại)*:
+  - *"Community tree-planting drives aim to rehabilitate the fragile coastal **[[Ecosystem]]**."*
+  - *(Các phong trào trồng cây cộng đồng nhằm phục hồi hệ sinh thái ven biển mong manh.)*
+
+#### 3. Các thành ngữ & Cụm từ hành động bảo vệ môi trường:
+- **`tip of the iceberg`** *(chỉ mới là phần nổi của tảng băng chìm)*:
+  - *"Visible floating plastic bottles represent merely the tip of the iceberg of microplastic pollution in our oceans."*
+  - *(Những chai nhựa trôi nổi nhìn thấy được chỉ mới là phần nổi của tảng băng chìm về ô nhiễm hạt vi nhựa trong đại dương.)*
+- **`go green`** *(chuyển sang lối sống xanh, thân thiện môi trường)*:
+  - *"Thousands of small businesses are choosing to go green by adopting **[[Biodegradable]]** packaging."*
+  - *(Hàng ngàn doanh nghiệp nhỏ đang lựa chọn chuyển đổi sang lối sống xanh bằng cách áp dụng bao bì tự phân hủy sinh học.)*
+

@@ -66,4 +66,7 @@ Bạn có thể tương tác bất cứ lúc nào với hai kịch bản sau:
 ## 🔗 Liên Kết Kho Dữ Liệu Obsidian Khác
 - 📂 **Kho Từ Vựng Chủ Đề:** [[English/Vocabulary Topics/]]
 - 📐 **Kho Ngữ Pháp & Liên Kết Câu:** [[English/Grammar & Cohesion/]]
+  - 🔬 **Cẩm Nang Mổ Xẻ Mệnh Đề & Câu Dài:** [[English/Grammar & Cohesion/2. Sentence Structures & Writing/2.4. Complex Sentences & Clause Breakdown.md|2.4. Complex Sentences & Clause Breakdown 🔗]]
+  - 🔄 **Cẩm Nang Paraphrase & Biến Đổi Câu:** [[English/Grammar & Cohesion/2. Sentence Structures & Writing/2.5. Paraphrasing Mastery & Sentence Transformations.md|2.5. Paraphrasing Mastery & Sentence Transformations 🔗]]
+  - 👨‍🏫 **Masterclass Paraphrase Cả Đoạn Văn:** [[English/Grammar & Cohesion/2. Sentence Structures & Writing/2.6. Paragraph Paraphrasing & Discourse Rewriting.md|2.6. Paragraph Paraphrasing & Discourse Rewriting 🔗]]
 - 🎙️ **Luyện Nói IELTS Speaking:** [[English/.agent/SKILL/ielts-speaking-generator/]]

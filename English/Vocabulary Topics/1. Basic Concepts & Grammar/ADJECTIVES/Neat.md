@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Neat::Gọn gàng, ngăn nắp, tinh tế; khéo léo và gãy gọn *(Phát âm: /niːt/)* ![[neat.mp3]]<br><br>👪 **Word Family:** neatly (adv), neatness (n)<br><br>💬 **Ví dụ:** Her desk is always neat and tidy, with files arranged in alphabetical order.<br>*(-> Bàn làm việc của cô ấy luôn gọn gàng và ngăn nắp, hồ sơ được xếp theo thứ tự bảng chữ cái.)*
-<!--SR:!2026-10-03,1,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **[EN]:** Arranged well, with everything in its right place; tidy; clever and simple.

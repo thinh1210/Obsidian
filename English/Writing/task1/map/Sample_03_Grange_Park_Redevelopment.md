@@ -73,6 +73,10 @@ Turning to the southern section, the entrance via Eldon Street persists, but vis
   - *Mối nối với câu trước:* Câu trước vừa nêu một công trình hiếm hoi được bảo tồn nguyên vẹn (`...the rose garden and its surrounding benches have been preserved in their original state`). Ngay sau đó, tác giả sử dụng liên từ `[Conversely]` để chuyển hướng người đọc sang công trình đối diện ở góc Đông Bắc vốn đã bị xóa sổ hoàn toàn để xây công trình mới.
   - *Kỹ thuật liên kết:* Phép tương phản đối xứng về vị trí địa lý (Tây Bắc được giữ $\leftrightarrow$ Đông Bắc bị dỡ bỏ) giúp bài viết có tính nhịp điệu và lập luận không gian chặt chẽ.
 - 💡 **Công thức ghép câu:** `Conversely, the [Old Feature] previously situated in [Location], which was originally designated for [Past Function], has been removed to make way for [New Feature].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa + Chủ ngữ mới - Nominalisation):* "By contrast, the aquatic plant pond in the northeastern section was cleared, enabling the construction of a designated playground for children."
+  - *Cách 2 (Đảo ngữ cụm phân từ nhường chỗ - Participial Replacement):* "In stark contrast to the preserved rose garden, the northeastern water pond gave way to an expansive children’s play area."
+  - *Cách 3 (Bị động kép + Mệnh đề thời gian - Passive Shift):* "Meanwhile, the site formerly occupied by the water plant pond in the northeast has been completely repurposed into a recreational zone for young visitors." 
 
 ---
 
@@ -89,6 +93,10 @@ Turning to the southern section, the entrance via Eldon Street persists, but vis
   - *Kiểu liên kết:* **Chuyển dịch tiêu điểm không gian (Spatial Focus Shift: Periphery $\rightarrow$ Core).**
   - *Mối nối với câu trước:* Sau khi xử lý hai góc rìa phía Bắc (Tây Bắc và Đông Bắc), tác giả điều hướng sự chú ý của giám khảo vào trung tâm công viên bằng cụm trạng từ định vị xuất sắc `[In the very heart of the park]`.
 - 💡 **Công thức ghép câu:** `In the very heart of [Area], the [Old Landmark], once [Past Description], has been demolished and superseded by a substantial [New Facility] for [New Purpose].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Chủ ngữ là công trình mới - New Landmark Focus):* "A grand concert amphitheatre now dominates the park's central plaza, occupying the exact grounds where the circular bandstand formerly stood."
+  - *Cách 2 (Mệnh đề phân từ thay thế - Participle Shift):* "Centrally, the original bandstand was torn down, supplanted by an expansive outdoor amphitheatre tailored for musical concerts."
+  - *Cách 3 (Nhấn mạnh sự chuyển đổi chức năng - Functional Evolution):* "The central seating area was fundamentally restructured as the historic bandstand was erased in favor of a modern performance amphitheatre." 
 
 ---
 
@@ -105,22 +113,26 @@ Turning to the southern section, the entrance via Eldon Street persists, but vis
   - *Kiểu liên kết:* **Tổng kết chủ đề (Thematic Climax & Global Cohesion).**
   - *Mối nối với câu trước:* Câu này khép lại đoạn thân bài 2, đồng thời mệnh đề phân từ `[further cementing the park's shift...]` móc nối ngược trở lại với luận điểm ở phần Overview (công viên chuyển từ vườn thực vật truyền thống sang không gian giải trí nghệ thuật biểu diễn).
 - 💡 **Công thức ghép câu:** `Finally, the [Old Facility] that formerly stood near [Location] has been cleared to erect [New Structure], further cementing [Entity's] shift toward [Modern Purpose].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Lastly, the dismantlement of the southern fountain facilitated the creation of an extensive musicians’ stage with ample seating, accentuating the park's contemporary cultural orientation."
+  - *Cách 2 (Chủ động miêu tả sự xuất hiện - Active Appearance):* "Finally, a prominent concert stage with spectator seating now replaces the former fountain by the southern entrance, underscoring the venue's evolution into an entertainment hub."
+  - *Cách 3 (Cấu trúc phân từ hoàn thành chỉ hệ quả - Resultative Participle):* "The southern fountain was ultimately cleared and replaced by an auditorium stage, thereby establishing the park as a primary destination for live musical events." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **passive botanical garden** | /ˈpæsɪv bəˈtænɪkl ˈɡɑːdn/` | `C2` | *Collocation* | Khu vườn thực vật tĩnh, thư giãn thụ động | *"Transformation from a passive botanical garden into..."* |
-| **multifaceted recreational space** | /ˌmʌltiˈfæsɪtɪd ˌrekriˈeɪʃənl/` | `C2` | *Noun Phrase* | Không gian giải trí thư giãn đa năng | *"...into a multifaceted recreational and entertainment space."* |
-| **access points / perimeter** | /ˈækses pɔɪnts/ - /pəˈrɪmɪtə/` | `C1` | *Noun* | Các lối đi vào / Ranh giới bao quanh ngoài | *"While primary access points on the perimeter have been retained..."* |
-| **preserved in their original state** | /prɪˈzɜːvd ɪn ðeər əˈrɪdʒənl steɪt/` | `C1` | *Phrase* | Được gìn giữ nguyên trạng như lúc ban đầu | *"...have been preserved in their original state."* |
-| **superseded by** | /ˌsuːpəˈsiːdɪd baɪ/` | `C2` | *Passive Verb* | Bị thay thế / thế chỗ hoàn toàn bởi một thứ tốt hơn | *"...demolished and superseded by a substantial amphitheatre."* |
-| **underground car park** | /ˈʌndəɡraʊnd kɑː pɑːk/` | `B2` | *Noun* | Bãi đậu xe ngầm dưới lòng đất | *"Visitors can now access an underground car park."* |
-| **pulled down / supplanting** | /pʊld daʊn/ - /səˈplɑːntɪŋ/` | `C1/C2` | *Verbs* | Bị kéo sập phá bỏ / Chiếm chỗ, thay thế cái cũ | *"The glasshouse was pulled down... supplanting the rose garden."* |
-| **water feature** | /ˈwɔːtə ˈfiːtʃə/` | `B2/C1` | *Noun Phrase* | Công trình tiểu cảnh nước (hồ cảnh quan, thác nhân tạo) | *"A new water feature was installed."* |
-| **further cementing the shift** | /ˈfɜːðə sɪˈmentɪŋ ðə ʃɪft/` | `C2` | *Idiomatic Collocation* | Càng củng cố/khắc sâu thêm sự chuyển đổi xu hướng | *"...further cementing the park's shift toward modern performance arts."* |
+| **passive botanical garden** | /ˈpæsɪv bəˈtænɪkl ˈɡɑːdn/` | `C2` | *Collocation* | Khu vườn thực vật tĩnh, thư giãn thụ động | `traditional flora sanctuary` • `tranquil green space` • `ornamental garden` |
+| **multifaceted recreational space** | /ˌmʌltiˈfæsɪtɪd ˌrekriˈeɪʃənl/` | `C2` | *Noun Phrase* | Không gian giải trí thư giãn đa năng | `versatile leisure hub` • `all-purpose entertainment ground` • `dynamic public park` |
+| **access points / perimeter** | /ˈækses pɔɪnts/ - /pəˈrɪmɪtə/` | `C1` | *Noun* | Các lối đi vào / Ranh giới bao quanh ngoài | `entry portals / outer boundary` • `gateways / boundary line` |
+| **preserved in their original state** | /prɪˈzɜːvd ɪn ðeər əˈrɪdʒənl steɪt/` | `C1` | *Phrase* | Được gìn giữ nguyên trạng như lúc ban đầu | `remained unaltered` • `kept in pristine condition` • `left intact` |
+| **superseded by** | /ˌsuːpəˈsiːdɪd baɪ/` | `C2` | *Passive Verb* | Bị thay thế / thế chỗ hoàn toàn bởi một thứ tốt hơn | `supplanted by` • `replaced in favor of` • `given way to` |
+| **underground car park** | /ˈʌndəɡraʊnd kɑː pɑːk/` | `B2` | *Noun* | Bãi đậu xe ngầm dưới lòng đất | `subterranean parking garage` • `below-ground vehicle facility` |
+| **pulled down / supplanting** | /pʊld daʊn/ - /səˈplɑːntɪŋ/` | `C1/C2` | *Verbs* | Bị kéo sập phá bỏ / Chiếm chỗ, thay thế cái cũ | `demolished / overtaking` • `leveled to the ground / ousting` |
+| **water feature** | /ˈwɔːtə ˈfiːtʃə/` | `B2/C1` | *Noun Phrase* | Công trình tiểu cảnh nước (hồ cảnh quan, thác nhân tạo) | `artificial aquatic installation` • `ornamental water pond` • `decorative pool` |
+| **further cementing the shift** | /ˈfɜːðə sɪˈmentɪŋ ðə ʃɪft/` | `C2` | *Idiomatic Collocation* | Càng củng cố/khắc sâu thêm sự chuyển đổi xu hướng | `reinforcing the transition` • `solidifying the reorientation` • `accentuating the evolution` |
 
 ---
 

@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Colossal::Khổng lồ *(Phát âm: /kəˈlɒsl/)* ![[colossal.mp3]]<br><br>👪 **Word Family:** colossus<br><br>💬 **Ví dụ:** Colossal mistake.<br>*(-> Sai lầm khổng lồ.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely large

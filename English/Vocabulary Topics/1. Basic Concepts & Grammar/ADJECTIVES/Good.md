@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Good::Tốt *(Phát âm: /ɡʊd/)* ![[good.mp3]]<br><br>👪 **Word Family:** goodness<br><br>💬 **Ví dụ:** Have a good day.<br>*(-> Chúc một ngày tốt lành.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of high quality

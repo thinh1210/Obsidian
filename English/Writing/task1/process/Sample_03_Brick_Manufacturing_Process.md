@@ -73,6 +73,10 @@ In the subsequent thermal phase, the dried bricks are loaded into a high-tempera
   - *Mối nối với câu trước:* Câu trước nhắc đến hành động đào đất sét (`clay is extracted from the ground...`). Câu này bắt nhịp bằng cách gọi đất sét vừa đào là `[The harvested material]`, vừa tránh lặp từ *clay*, vừa khái quát hóa đối tượng sang ngôn ngữ công nghiệp.
   - *Kỹ thuật liên kết đỉnh cao:* Việc dùng `[after which]` thay cho những từ nối cơ bản như *and then* hay *next* tạo nên câu ghép đẳng cấp Band 9, gắn kết hai hành động lọc và nghiền thành một dòng chảy liên tục.
 - 💡 **Công thức ghép câu:** `The [Harvested/Extracted Material] is then [V-ed onto/into Equipment] to [Action], after which it [passes through / enters Component] to be [V-ed into Output].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Following excavation, the clay undergoes screening on a metallic mesh for debris removal, followed immediately by crushing via industrial rollers into a powdery state."
+  - *Cách 2 (Mệnh đề phân từ hoàn thành - Participle Clause):* "Having been unloaded onto a metal grate to sift away large clumps, the extracted earth is channeled through rotating cylinders to achieve uniform fineness."
+  - *Cách 3 (Nhấn mạnh thiết bị - Equipment Subject Focus):* "A metal grid first sifts the quarried clay to eliminate impurities, whereupon heavy-duty rollers pulverize the mineral into a fine consistency." 
 
 ---
 
@@ -88,6 +92,10 @@ In the subsequent thermal phase, the dried bricks are loaded into a high-tempera
   - *Mối nối với câu trước:* Câu trước vừa mô tả hai cách tạo hình gạch (cắt bằng dây hoặc ép khuôn: `shaped... either by slicing it... or pressing it...`). Đầu câu này lập tức tóm gọn kết quả đó bằng `[Once shaped]`.
   - *Kỹ thuật liên kết:* Tác giả thêm tính từ miêu tả vật lý `[moist bricks]` (những viên gạch còn ẩm ướt) để tạo lý do logic giải thích vì sao chúng cần được đưa vào lò sấy (`drying oven`) để khử nước (`dehydrate`).
 - 💡 **Công thức ghép câu:** `Once [V-ed], the [Adjective + State Noun] are transferred to [Facility/Container], where they are left to [Action/Reaction] for [Duration].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Subsequent to the moulding or cutting operation, the damp brick blocks enter a specialized kiln for a 24-to-48-hour dehydration cycle."
+  - *Cách 2 (Chủ động miêu tả lò sấy - Drying Chamber Focus):* "A temperature-controlled drying chamber accommodates the freshly formed moist bricks, subjecting them to dehydration for a period of one to two days."
+  - *Cách 3 (Mệnh đề chỉ thời gian - Temporal Clause):* "As soon as the bricks have attained their rectangular shape, they are relocated into an oven to cure and shed excess moisture over 24 to 48 hours." 
 
 ---
 
@@ -104,23 +112,27 @@ In the subsequent thermal phase, the dried bricks are loaded into a high-tempera
   - *Kiểu liên kết:* **Quy chiếu vị trí ngắn gọn (Anaphoric Locative Adverb).**
   - *Mối nối với câu trước:* Câu trước kết thúc bằng việc nạp gạch vào lò nung (`...loaded into a high-temperature kiln`). Câu này mở đầu bằng một từ đơn giản nhưng uy lực là `[Here]` (Tại chiếc lò nung này), đóng vai trò như chiếc đòn bẩy dẫn dắt ngay vào 2 giai đoạn nhiệt độ.
 - 💡 **Công thức ghép câu:** `Here, they undergo a [N]-step [Process Name]: first at [Parameter A] ranging from [X] to [Y], and then at [Parameter B] between [W] and [Z].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa + Mệnh đề bị động - Passive with Nominalisation):* "Within this furnace, a two-phase firing schedule is implemented, subjecting the bricks initially to moderate heat (200°C–980°C) prior to extreme thermal treatment reaching 1300°C."
+  - *Cách 2 (Chủ ngữ là nhiệt độ lò - Thermal Focus):* "The kiln environment delivers heat in two distinct thresholds: starting at moderate levels between 200°C and 980°C, and later peaking at extreme temperatures up to 1300°C."
+  - *Cách 3 (Mệnh đề phân từ - Participle Shift):* "Inside the kiln, the clay blocks are exposed to progressive heating, beginning at a moderate 200°C–980°C and culminating in intense firing between 870°C and 1300°C." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **mechanical excavation** | /mɪˈkænɪkl ˌekskəˈveɪʃn/` | `C1/C2` | *Noun Phrase* | Khai quật, đào bới bằng máy móc cơ giới | *"Commencing with the mechanical excavation of raw clay."* |
-| **oversized particles** | /ˈəʊvəsaɪzd ˈpɑːtɪklz/` | `C1` | *Noun Phrase* | Các hạt / mảnh vụn có kích thước quá khổ | *"...to filter out oversized particles."* |
-| **pulverized / consistency** | /ˈpʌlvəraɪzd/ - /kənˈsɪstənsi/` | `C2` | *Verb / Noun* | Tán thành bột mịn / Độ đặc, độ mịn đồng nhất | *"Crushed into a fine consistency / added to pulverized clay."* |
-| **pliable paste** | /ˈplaɪəbl peɪst/` | `C2` | *Noun Phrase* | Hỗn hợp bột nhão có tính dẻo dễ uốn nặn | *"Form a pliable paste."* |
-| **specialized moulds** | /ˈspeʃəlaɪzd məʊldz/` | `B2/C1` | *Noun Phrase* | Các khuôn đúc chuyên dụng | *"...by pressing it into specialized moulds."* |
-| **dehydrate** | /diːhaɪˈdreɪt/` | `C1` | *Verb* | Rút hết nước, khử ẩm, làm khô ráo | *"...where they are left to dehydrate for 24 to 48 hours."* |
-| **high-temperature kiln** | /haɪ ˈtemprətʃə kɪln/` | `C1` | *Technical Noun* | Lò nung ở nhiệt độ cao | *"The dried bricks are loaded into a high-temperature kiln."* |
-| **moderate / extreme heat** | /ˈmɒdərət/ - /ɪkˈstriːm hiːt/` | `B2/C1` | *Collocations* | Nhiệt độ vừa phải / Nhiệt độ cực cao | *"First at moderate temperatures... and then at extreme heat."* |
-| **cooling chamber** | /ˈkuːlɪŋ ˈtʃeɪmbə/` | `C1` | *Technical Noun* | Buồng làm nguội, phòng hạ nhiệt | *"Transferred to a cooling chamber to rest."* |
-| **cured bricks / pallets** | /kjʊəd brɪks/ - /ˈpæləts/` | `C2` | *Noun Phrases* | Gạch đã được ủ/luyện đạt chuẩn / Các tấm kệ nâng | *"The cured bricks are packaged onto pallets."* |
+| **mechanical excavation** | /mɪˈkænɪkl ˌekskəˈveɪʃn/` | `C1/C2` | *Noun Phrase* | Khai quật, đào bới bằng máy móc cơ giới | `automated quarrying` • `industrial digging` • `machinery-assisted extraction` |
+| **oversized particles** | /ˈəʊvəsaɪzd ˈpɑːtɪklz/` | `C1` | *Noun Phrase* | Các hạt / mảnh vụn có kích thước quá khổ | `large lumps` • `excessive fragments` • `coarse debris` |
+| **pulverized / consistency** | /ˈpʌlvəraɪzd/ - /kənˈsɪstənsi/` | `C2` | *Verb / Noun* | Tán thành bột mịn / Độ đặc, độ mịn đồng nhất | `ground into powder / uniform texture` • `milled / homogeneous grain` |
+| **pliable paste** | /ˈplaɪəbl peɪst/` | `C2` | *Noun Phrase* | Hỗn hợp bột nhão có tính dẻo dễ uốn nặn | `malleable dough` • `workable clay mixture` • `moldable blend` |
+| **specialized moulds** | /ˈspeʃəlaɪzd məʊldz/` | `B2/C1` | *Noun Phrase* | Các khuôn đúc chuyên dụng | `custom shaping casts` • `formed matrixes` • `industrial preforms` |
+| **dehydrate** | /diːhaɪˈdreɪt/` | `C1` | *Verb* | Rút hết nước, khử ẩm, làm khô ráo | `evaporate moisture` • `desiccate` • `remove residual water` |
+| **high-temperature kiln** | /haɪ ˈtemprətʃə kɪln/` | `C1` | *Technical Noun* | Lò nung ở nhiệt độ cao | `thermal furnace` • `combustion oven` • `firing chamber` |
+| **moderate / extreme heat** | /ˈmɒdərət/ - /ɪkˈstriːm hiːt/` | `B2/C1` | *Collocations* | Nhiệt độ vừa phải / Nhiệt độ cực cao | `medium thermal range / intense firing` • `temperate heat / peak furnace temperature` |
+| **cooling chamber** | /ˈkuːlɪŋ ˈtʃeɪmbə/` | `C1` | *Technical Noun* | Buồng làm nguội, phòng hạ nhiệt | `refrigeration zone` • `thermal dissipation room` • `cooling room` |
+| **cured bricks / pallets** | /kjʊəd brɪks/ - /ˈpæləts/` | `C2` | *Noun Phrases* | Gạch đã được ủ/luyện đạt chuẩn / Các tấm kệ nâng | `hardened masonry blocks / transport skids` • `finished clay units / wooden platforms` |
 
 ---
 

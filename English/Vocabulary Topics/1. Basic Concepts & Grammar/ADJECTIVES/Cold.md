@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Cold::Lạnh *(Phát âm: /kəʊld/)* ![[cold.mp3]]<br><br>👪 **Word Family:** coldness<br><br>💬 **Ví dụ:** I am cold.<br>*(-> Tôi lạnh.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Of or at a low temperature

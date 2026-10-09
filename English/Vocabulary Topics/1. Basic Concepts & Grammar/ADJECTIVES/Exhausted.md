@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Exhausted::Kiệt sức *(Phát âm: /ɪɡˈzɔːstɪd/)* ![[exhausted.mp3]]<br><br>👪 **Word Family:** exhaustion<br><br>💬 **Ví dụ:** I am exhausted.<br>*(-> Tôi kiệt sức.)*
-<!--SR:!2026-10-03,1,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Drained of one's physical or mental resources

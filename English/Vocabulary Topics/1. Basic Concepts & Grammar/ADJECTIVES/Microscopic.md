@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Microscopic::Siêu nhỏ, vi mô *(Phát âm: /ˌmaɪkrəˈskɒpɪk/)* ![[microscopic.mp3]]<br><br>👪 **Word Family:** microscope<br><br>💬 **Ví dụ:** Microscopic dust.<br>*(-> Bụi siêu nhỏ.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** So small as to be visible only with a microscope

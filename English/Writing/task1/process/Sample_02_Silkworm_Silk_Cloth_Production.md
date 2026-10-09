@@ -76,6 +76,10 @@ In terms of silk cloth production, undamaged cocoons are initially selected and 
   - *Mối nối với câu trước:* Câu trước miêu tả ấu trùng ăn lá dâu trong 4 - 6 tuần (`...which feed exclusively on mulberry foliage for a period of four to six weeks`). Đầu câu này lập tức "thu hoạch" kết quả của hành động ăn uống đó bằng cụm phân từ `[Once fully nourished]`.
   - *Kỹ thuật liên kết đỉnh cao:* Việc sử dụng kỹ thuật tóm lược danh từ vỏ (*Shell Noun*: `an undertaking`) để gom toàn bộ hành động nhả tơ làm kén thành một thực thể trước khi bổ sung thời gian (`that lasts between 3 and 8 days`) thể hiện năng lực kiểm soát văn phong học thuật xuất sắc.
 - 💡 **Công thức ghép câu:** `Once [V-ed / Adjective], the [Subject] [Action] to form [Output], an undertaking that lasts [Duration].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Upon reaching complete maturity, the larvae embark on the cocooning process by producing silk filament, a task requiring between 3 and 8 days of continuous activity."
+  - *Cách 2 (Mệnh đề thời gian - Temporal Clause):* "As soon as they are satiated, the silkworms encase themselves in spun silk casings, a metamorphosis preparatory stage lasting approximately three to eight days."
+  - *Cách 3 (Nhấn mạnh kết quả kén - Cocoon Focus):* "The spinning of protective silk cocoons commences once the worms are well-fed, consuming between three to eight days in duration." 
 
 ---
 
@@ -90,6 +94,10 @@ In terms of silk cloth production, undamaged cocoons are initially selected and 
   - *Kiểu liên kết:* **Liên kết biến đổi trạng thái (State Transition Cohesion).**
   - *Mối nối với câu trước:* Câu trước kết thúc bằng hành động ngâm kén vào nước sôi để làm mềm sợi (`...boiled in hot water to soften the constituent fibers`). Câu này bắt đầu ngay bằng tính từ/phân từ `[Once loosened]` (Một khi đã được làm mềm nhũn ra), nối khớp hoàn hảo với động từ `soften` trước đó.
 - 💡 **Công thức ghép câu:** `Once [V-ed / Condition achieved], each [Unit] is [V-ed into Output], typically measuring [Specification/Dimensions].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Following fiber softening, the unravelling of each individual cocoon yields an unbroken thread spanning 300 to 900 meters in length."
+  - *Cách 2 (Bị động trực tiếp - Direct Passive Shift):* "Having been sufficiently softened in boiling water, individual cocoons are unwound to produce continuous filaments, with lengths commonly varying between 300 and 900 meters."
+  - *Cách 3 (Nhấn mạnh sản lượng tơ - Filament Yield):* "Each softened cocoon yields a single, unbroken strand of silk ranging from 300 to 900 meters as it undergoes the unwinding procedure." 
 
 ---
 
@@ -110,17 +118,17 @@ In terms of silk cloth production, undamaged cocoons are initially selected and 
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
-| :--- | :--- | :---: | :---: | :--- | :--- |
-| **four-stage metamorphosis** | /ˈmetəmɔːfəsɪs/` | `C2` | *Noun Phrase* | Quá trình biến thái sinh học qua 4 giai đoạn | *"A recurring four-stage metamorphosis spanning roughly two months."* |
-| **feed exclusively on** | /fiːd ɪkˈskluːsɪvli ɒn/` | `C1` | *Verb Collocation* | Chỉ ăn duy nhất một loại thức ăn | *"...which feed exclusively on mulberry foliage."* |
-| **spin silk thread / cocoons** | /spɪn sɪlk θred/` | `B2/C1` | *Collocation* | Nhả tơ tằm / làm kén bọc | *"Larvae spin silk thread around themselves to form cocoons."* |
-| **perpetuate the cycle** | /pəˈpetʃueɪt ðə ˈsaɪkl/` | `C2` | *Collocation* | Duy trì / tiếp nối vòng tuần hoàn liên tục | *"Ready to reproduce and perpetuate the cycle."* |
-| **constituent fibers** | /kənˈstɪtʃuənt ˈfaɪbəz/` | `C2` | *Noun Phrase* | Các sợi thành phần cấu tạo nên vật liệu | *"...boiled in hot water to soften the constituent fibers."* |
-| **unwound into a strand** | /ˌʌnˈwaʊnd ˈɪntuː ə strænd/` | `C1` | *Passive Collocation* | Được tháo cuộn / tước ra thành sợi dài | *"Each cocoon is unwound into a continuous strand of silk."* |
-| **tensile strength** | /ˈtensaɪl streŋθ/` | `C2` | *Technical Term* | Độ bền chịu lực kéo đứt | *"...twisted together to improve tensile strength."* |
-| **woven on a loom** | /ˈwəʊvn ɒn ə luːm/` | `C1/C2` | *Passive Phrase* | Được dệt trên khung cửi | *"...before being woven on a loom into fabric."* |
-| **immersed in dye** | /ɪˈmɜːst ɪn daɪ/` | `C1` | *Passive Collocation* | Được ngâm / nhúng vào bể thuốc nhuộm | *"The woven cloth is immersed in dye to produce finished silk."* |
+| Từ vựng / Collocation          | Phiên âm IPA                 | Cấp độ  |       Phân loại       | Định nghĩa ngắn gọn                          | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives)                       |
+| :----------------------------- | :--------------------------- | :-----: | :-------------------: | :------------------------------------------- | :--------------------------------------------------------------------------------- |
+| **four-stage metamorphosis**   | /ˈmetəmɔːfəsɪs/`             |  `C2`   |     *Noun Phrase*     | Quá trình biến thái sinh học qua 4 giai đoạn | `four-phase developmental lifecycle` • `quadripartite biological transformation`   |
+| **feed exclusively on**        | /fiːd ɪkˈskluːsɪvli ɒn/`     |  `C1`   |  *Verb Collocation*   | Chỉ ăn duy nhất một loại thức ăn             | `subsist solely on` • `consume only` • `nourish themselves exclusively with`       |
+| **spin silk thread / cocoons** | /spɪn sɪlk θred/`            | `B2/C1` |     *Collocation*     | Nhả tơ tằm / làm kén bọc                     | `extrude silk filaments` • `form protective pupal casings` • `weave silk pods`     |
+| **perpetuate the cycle**       | /pəˈpetʃueɪt ðə ˈsaɪkl/`     |  `C2`   |     *Collocation*     | Duy trì / tiếp nối vòng tuần hoàn liên tục   | `recommence the biological cycle` • `sustain the reproductive loop`                |
+| **constituent fibers**         | /kənˈstɪtʃuənt ˈfaɪbəz/`     |  `C2`   |     *Noun Phrase*     | Các sợi thành phần cấu tạo nên vật liệu      | `integral filaments` • `structural strands` • `component raw threads`              |
+| **unwound into a strand**      | /ˌʌnˈwaʊnd ˈɪntuː ə strænd/` |  `C1`   | *Passive Collocation* | Được tháo cuộn / tước ra thành sợi dài       | `unraveled into continuous threads` • `reeled off into filaments`                  |
+| **tensile strength**           | /ˈtensaɪl streŋθ/`           |  `C2`   |   *Technical Term*    | Độ bền chịu lực kéo đứt                      | `structural resilience` • `durability under tension` • `fiber breaking resistance` |
+| **woven on a loom**            | /ˈwəʊvn ɒn ə luːm/`          | `C1/C2` |   *Passive Phrase*    | Được dệt trên khung cửi                      | `interlaced on a weaving machine` • `fabricated into cloth on textile looms`       |
+| **immersed in dye**            | /ɪˈmɜːst ɪn daɪ/`            |  `C1`   | *Passive Collocation* | Được ngâm / nhúng vào bể thuốc nhuộm         | `submerged in coloring vats` • `pigmented in color solutions` • `tinted with dyes` |
 
 ---
 

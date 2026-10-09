@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Slow::Chậm *(Phát âm: /sləʊ/)* ![[slow.mp3]]<br><br>👪 **Word Family:** slowly<br><br>💬 **Ví dụ:** Walk slow.<br>*(-> Đi chậm.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Moving or operating at a low speed

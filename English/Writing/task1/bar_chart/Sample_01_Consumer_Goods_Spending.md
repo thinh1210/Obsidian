@@ -65,21 +65,24 @@ Turning to the remaining categories, the UK spent significantly more on cameras 
   - *Mối nối với câu trước:* Câu liền trước phân tích xe hơi (cars): người Anh chi 450 nghìn bảng so với 400 nghìn bảng của Pháp (Anh cao hơn Pháp). Câu này dùng `[Similarly]` để báo hiệu rằng mặt hàng sách (books) cũng tuân theo đúng quy luật này (Anh tiếp tục chi cao hơn Pháp).
   - *Kỹ thuật tránh lặp từ (Lexical Variation):* Thay vì lặp lại từ *expenditure* ở câu trước, tác giả đổi sang danh từ đồng nghĩa `[outlay]`.
 - 💡 **Công thức ghép câu:** `Similarly, the [Country A] outlay on [Item] was higher than the [Country B], at [Số A] and [Số B] respectively.`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Đảo ngữ / Cấu trúc so sánh hơn - Comparative Shift):* "In a comparable vein, spending on books in Britain exceeded that in France, recording approximately £400,000 compared to £300,000."
+  - *Cách 2 (Danh từ hóa - Nominalisation):* "A parallel pattern emerged regarding book purchases, with British financial commitment reaching roughly £400,000 against a French figure of £300,000."
+  - *Cách 3 (Nhấn mạnh sự chênh lệch - Differential Focus):* "Likewise, UK consumers outspent their French counterparts on reading materials by an estimated £100,000, with totals standing at £400,000 and £300,000 respectively." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation                     | Phiên âm IPA                     | Cấp độ  |      Phân loại       | Định nghĩa ngắn gọn                                | Ngữ cảnh ứng dụng trong bài                                                                  |
-| :---------------------------------------- | :------------------------------- | :-----: | :------------------: | :------------------------------------------------- | :------------------------------------------------------------------------------------------- |
-| **illustrates / portrays / depicts**      | `/ˈɪləstreɪts/`                  | `B2/C1` |        *Verb*        | Minh họa, mô tả số liệu                            | *"The chart illustrates the amount of money spent..."*                                       |
-| **pounds sterling**                       | `/paʊndz ˈstɜːlɪŋ/`              |  `B2`   |        *Noun*        | Đơn vị tiền tệ Bảng Anh                            | *"Units are measured in pounds sterling."*                                                   |
-| **expenditure on / outlay on**            | `/ɪkˈspendɪtʃər ɒn/ - /ˈaʊtleɪ/` |  `C1`   |  *Noun Collocation*  | Mức chi tiêu / kinh phí bỏ ra cho việc gì          | *"The most significant difference in expenditure between the two countries was on cameras."* |
-| **as opposed to**                         | `/æz əˈpəʊzd tuː/`               |  `C1`   |       *Phrase*       | Trái ngược với, thay vì so với...                  | *"People in the UK spent £450,000 as opposed to around £400,000 in France."*                 |
-| **respectively**                          | `/rɪˈspektɪvli/`                 | `B2/C1` |       *Adverb*       | Lần lượt theo thứ tự đã nêu                        | *"At roughly £400,000 and £300,000 respectively."*                                           |
-| **the figure for [X]**                    | `/ðə ˈfɪɡər fɔː/`                | `B2/C1` |       *Phrase*       | Số liệu dành cho đối tượng X                       | *"While the figure for France was slightly lower..."*                                        |
-| **turning to the remaining categories**   | `/ˈtɜːnɪŋ tuː/`                  |  `C1`   | *Signposting Phrase* | Chuyển sang các danh mục còn lại (từ nối mạch lạc) | *"Turning to the remaining categories, the UK spent significantly more..."*                  |
-| **stood at / saw the lowest expenditure** | `/stʊd æt/`                      | `B2/C1` |  *Verb Collocation*  | Đứng ở mức / ghi nhận mức chi thấp nhất            | *"Figures standing at over £350,000 compared to under £150,000."*                            |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **illustrates / portrays / depicts** | /ˈɪləstreɪts/` | `B2/C1` | *Verb* | Minh họa, mô tả số liệu | `delineates` • `demonstrates` • `gives a breakdown of` |
+| **expenditure on / outlay on** | `/ɪkˈspendɪtʃər ɒn/ - /ˈaʊtleɪ/` | `C1` | *Noun Collocation* | Mức chi tiêu / kinh phí bỏ ra | `financial allocation for` • `spending on` • `consumer investment in` |
+| **as opposed to** | `/æz əˈpəʊzd tuː/` | `C1` | *Phrase* | Trái ngược với, thay vì so với... | `in contrast to` • `compared against` • `versus` |
+| **respectively** | `/rɪˈspektɪvli/` | `B2/C1` | *Adverb* | Lần lượt theo thứ tự đã nêu | `in corresponding order` • `in that sequence` |
+| **the figure for [X]** | `/ðə ˈfɪɡər fɔː/` | `B2/C1` | *Phrase* | Số liệu dành cho đối tượng X | `the corresponding metric for` • `the data point regarding` • `the statistic for` |
+| **turning to the remaining categories** | `/ˈtɜːnɪŋ tuː/` | `C1` | *Signpost* | Chuyển sang các danh mục còn lại | `with regard to other commodities` • `shifting focus to the remaining items` |
+| **outspent their counterparts** | /aʊtˈspent ðeər ˈkaʊntəpɑːts/` | `C2` | *Collocation* | Chi tiêu vượt trội so với đối tác / đối tượng so sánh | `allocated greater capital than` • `registered higher consumption than` |
 
 ---
 

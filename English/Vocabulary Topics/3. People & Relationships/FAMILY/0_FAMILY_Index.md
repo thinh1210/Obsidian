@@ -136,3 +136,77 @@ Growing up in a **[[Nuclear-family]]**, Leo always looked forward to visiting hi
 
 ### Bản dịch Tiếng Việt
 Lớn lên trong một **gia đình hạt nhân**, Leo luôn mong đợi được đến thăm **đại gia đình** của mình vào các kỳ nghỉ. Tại trang trại, bà ngoại của anh đóng vai trò là một **nữ gia trưởng** thông thái, trong khi ông ngoại là người **gia trưởng** được kính trọng và là **trụ cột kiếm tiền chính** của gia đình. Sự hướng dẫn yêu thương của họ đã định hình nên **sự nuôi dưỡng và giáo dục** của anh, dạy anh rằng gia đình không chỉ đơn thuần là **máu mủ ruột thịt**. Bất chấp sự **ganh đua giữa anh chị em** đôi khi xảy ra giữa các anh chị em họ, họ vẫn là một tập thể **gắn bó khăng khít**. Leo cảm thấy một tinh thần trách nhiệm sâu sắc về **đạo làm con**, tôn trọng cả dòng họ bên **ngoại** và bên **nội** của mình. Ngay cả một người chú **xa cách** đã đi biệt tích nhiều năm cũng được chào đón nồng nhiệt trở về, chứng minh rằng sự gắn kết tình thân của họ không bao giờ có thể bị chia cắt.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Bữa tiệc sum họp đại gia đình (Extended Family Gathering & Ancestral Roots)
+> **Bối cảnh thực tế:** Trong cuộc sống bận rộn, các thành viên thường chỉ sống trong **[[Nuclear-family]]** (gia đình hạt nhân). Khi có dịp giỗ chạp hoặc lễ tết, họ tụ họp về nhà thờ tổ để gắn kết lại tình cảm **[[Extended-family]]** (đại gia đình), tôn vinh các bậc **[[Ancestor]]** (tổ tiên) và hỏi thăm sức khỏe các bậc cao niên như **[[Patriarch]]** (tộc trưởng) hay **[[Matriarch]]** (nữ gia trưởng).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Liam:** Hey Emma, is your whole clan gathering at the countryside estate this weekend for the annual **[[Reunion]]**?
+  *(Này Emma, cuối tuần này cả dòng họ nhà cậu có tụ họp về khu nhà vườn ở quê để dự buổi sum họp hàng năm không?)*
+- **Emma:** Yes, everyone is coming! While day-to-day we just live in our small **[[Nuclear-family]]**, once a year our entire **[[Extended-family]]** gets together. My **[[Aunt]]**, **[[Uncle]]**, and all my **[[Cousin|cousins]]** are flying in.
+  *(Có chứ, tất cả mọi người đều về! Dù ngày thường bọn mình chỉ sống trong gia đình hạt nhân nhỏ, nhưng mỗi năm một lần cả đại gia đình đều quây quần. Cô, chú và tất cả các anh chị em họ của mình đều bay về đấy.)*
+- **Liam:** That sounds incredible. It must be very heartwarming to have such a **[[Tight-knit]]** family connection across generations.
+  *(Nghe tuyệt vời thật đấy. Chắc hẳn phải rất ấm lòng khi có một gia đình gắn bó khăng khít qua nhiều thế hệ như vậy.)*
+- **Emma:** Absolutely. My grandfather is the **[[Patriarch]]** of the family. He always emphasizes that we must remember our **[[Roots]]** and honor our **[[Ancestor|ancestors]]**, keeping our ancestral **[[Heritage]]** alive.
+  *(Chắc chắn rồi. Ông nội mình là tộc trưởng của gia đình. Ông luôn nhấn mạnh rằng bọn mình phải nhớ về cội nguồn và tôn kính tổ tiên, gìn giữ di sản dòng tộc luôn sống mãi.)*
+- **Liam:** Do you still see your **[[In-law|in-laws]]** and distant **[[Relative|relatives]]** regularly as well?
+  *(Cậu có còn thường xuyên gặp gỡ họ hàng bên thông gia và bà con xa nữa không?)*
+- **Emma:** We try to! Even my **[[Brother-in-law]]** and **[[Sister-in-law]]** are joining us. We share a genuine **[[Kinship]]** that goes far beyond simple **[[Consanguinity]]**.
+  *(Bọn mình luôn cố gắng! Ngay cả anh rể và chị dâu của mình cũng tham gia. Bọn mình có một mối quan hệ họ hàng chân thành vượt xa mối liên hệ huyết thống thuần túy.)*
+
+---
+
+### 🌟 Tình huống 2: Trách nhiệm gia đình & Cân bằng vai trò trụ cột (Breadwinning, Parenting & Caregiving)
+> **Bối cảnh thực tế:** Trong gia đình hiện đại, áp lực kinh tế và việc chăm sóc các thế hệ (người già và con nhỏ) đòi hỏi sự phối hợp giữa hai vợ chồng (**[[Spouse]]**), người kiếm tiền chính (**[[Breadwinner]]**) và người chăm sóc (**[[Caregiver]]**), đồng thời khéo léo giải quyết những mâu thuẫn như **[[Sibling rivalry]]** (ganh đua giữa anh chị em).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **David:** Rachel, you look a bit weary lately. Is everything okay balancing work and home?
+  *(Rachel, dạo này trông cậu có vẻ hơi mệt mỏi. Mọi việc cân bằng giữa công việc và gia đình vẫn ổn chứ?)*
+- **Rachel:** It's just quite hectic. Ever since my husband took a new post, he became the primary **[[Breadwinner]]**, while I've been acting as the main **[[Caregiver]]** for both our newborn **[[Twin|twins]]** and my aging **[[Mother-in-law]]**.
+  *(Chỉ là khá tất bật thôi. Kể từ khi chồng mình nhận vị trí mới, anh ấy trở thành trụ cột kinh tế chính, còn mình đóng vai trò người chăm sóc chính cho cả cặp song sinh mới chào đời lẫn mẹ chồng tuổi cao.)*
+- **David:** That is a huge responsibility having multiple **[[Dependant|dependants]]** under one **[[Household]]**. How are your elder kids handling it?
+  *(Đó là trách nhiệm rất lớn khi có nhiều người phụ thuộc trong cùng một hộ gia đình. Mấy đứa con lớn của cậu phản ứng thế nào?)*
+- **Rachel:** There was some initial **[[Sibling rivalry]]** because the older brother felt left out, but we focused on our **[[Upbringing]]** methods to ensure a loving **[[Bond]]** between the **[[Sibling|siblings]]**.
+  *(Ban đầu cũng có chút ganh đua giữa anh chị em vì đứa anh lớn cảm thấy bị ra rìa, nhưng bọn mình đã chú trọng vào cách nuôi dạy để đảm bảo sự gắn kết yêu thương giữa các anh em.)*
+- **David:** That takes profound patience. Practicing **[[Filial]]** duty while raising your own **[[Offspring]]** is truly admirable.
+  *(Điều đó đòi hỏi sự kiên nhẫn sâu sắc. Vừa thực hiện đạo làm con vừa nuôi dạy con cái của chính mình thật sự rất đáng khâm phục.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về sự gắn kết & Tình cảm gia đình:
+- **`tight-knit family`** *(gia đình gắn bó khăng khít)*:
+  - *"We were fortunate to grow up in a **[[Tight-knit]]** environment where everyone supported each other."*
+  - *(Chúng tôi may mắn được lớn lên trong một môi trường gia đình gắn bó keo sơn, nơi mọi người đều hỗ trợ lẫn nhau.)*
+- **`flesh and blood`** *(máu mủ ruột thịt)*:
+  - *"No matter how intense our argument gets, you are still my **[[Flesh and blood]]**."*
+  - *(Dù cuộc tranh cãi có gay gắt đến đâu, cậu vẫn là máu mủ ruột thịt của tôi.)*
+- **`forge a lifelong bond`** *(tạo dựng sợi dây gắn kết trọn đời)*:
+  - *"Shared family traditions help parents and children forge an unbreakable **[[Bond]]**."*
+  - *(Những truyền thống gia đình chung giúp cha mẹ và con cái tạo dựng một sợi dây gắn kết không thể phá vỡ.)*
+
+#### 2. Khi nói về vai trò & Trách nhiệm trong nhà:
+- **`sole breadwinner`** *(người kiếm tiền duy nhất trong nhà)*:
+  - *"He felt tremendous pressure as the sole **[[Breadwinner]]** supporting a family of five."*
+  - *(Anh ấy cảm thấy áp lực nặng nề khi là người trụ cột kiếm tiền duy nhất nuôi gia đình 5 người.)*
+- **`primary caregiver`** *(người chăm sóc chính)*:
+  - *"She decided to work remotely to be the primary **[[Caregiver]]** for her elderly parents."*
+  - *(Cô ấy quyết định làm việc từ xa để làm người chăm sóc chính cho cha mẹ già.)*
+- **`filial piety / filial duty`** *(đạo làm con, lòng hiếu thảo)*:
+  - *"In Eastern cultures, fulfilling **[[Filial]]** responsibilities toward aging parents is of paramount importance."*
+  - *(Trong văn hóa phương Đông, việc hoàn thành bổn phận hiếu nghĩa với cha mẹ già có tầm quan trọng tối thượng.)*
+
+#### 3. Khi nói về cội nguồn, thế hệ & Dòng họ:
+- **`trace one's roots / lineage`** *(tìm về cội nguồn, phả hệ)*:
+  - *"Through modern genetic testing, they were able to trace their ancestral **[[Roots]]** back five centuries."*
+  - *(Thông qua xét nghiệm di truyền hiện đại, họ đã có thể truy tìm cội nguồn tổ tiên từ năm thế kỷ trước.)*
+- **`bridge the generation gap`** *(thu hẹp khoảng cách thế hệ)*:
+  - *"Open and honest conversations are essential to bridge the **[[Generation]]** gap between parents and teens."*
+  - *(Những cuộc trò chuyện cởi mở và chân thành là điều cốt yếu để thu hẹp khoảng cách thế hệ giữa cha mẹ và con cái tuổi dậy thì.)*
+- **`sibling rivalry`** *(sự cạnh tranh giữa các anh chị em)*:
+  - *"Healthy competition can be motivating, but intense **[[Sibling rivalry]]** needs gentle parental mediation."*
+  - *(Sự cạnh tranh lành mạnh có thể tạo động lực, nhưng ganh đua gay gắt giữa anh chị em cần sự hòa giải khéo léo của cha mẹ.)*
+

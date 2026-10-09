@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Resplendent::Rực rỡ, chói lọi *(Phát âm: /rɪˈsplendənt/)* ![[resplendent.mp3]]<br><br>👪 **Word Family:** resplendence<br><br>💬 **Ví dụ:** Resplendent dress.<br>*(-> Chiếc váy rực rỡ.)*
-<!--SR:!2026-10-03,1,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Attractive and impressive through being richly colorful

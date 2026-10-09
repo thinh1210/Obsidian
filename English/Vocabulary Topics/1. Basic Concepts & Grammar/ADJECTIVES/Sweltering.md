@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Sweltering::Nóng ngột ngạt *(Phát âm: /ˈsweltərɪŋ/)* ![[sweltering.mp3]]<br><br>👪 **Word Family:** swelter<br><br>💬 **Ví dụ:** Sweltering day.<br>*(-> Ngày nóng ngột ngạt.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Uncomfortably hot

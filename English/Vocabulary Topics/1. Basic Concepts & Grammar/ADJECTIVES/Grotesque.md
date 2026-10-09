@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Grotesque::Kỳ cục, lố bịch *(Phát âm: /ɡrəʊˈtesk/)* ![[grotesque.mp3]]<br><br>👪 **Word Family:** grotesqueness<br><br>💬 **Ví dụ:** Grotesque face.<br>*(-> Khuôn mặt lố bịch.)*
-<!--SR:!2026-10-05,3,230-->
+<!--SR:!2026-10-07,1,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Comically or repulsively ugly or distorted

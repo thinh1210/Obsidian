@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Atrocious::Tàn bạo, kinh khủng *(Phát âm: /əˈtrəʊʃəs/)* ![[atrocious.mp3]]<br><br>👪 **Word Family:** atrocity<br><br>💬 **Ví dụ:** Atrocious weather.<br>*(-> Thời tiết kinh khủng.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-07,1,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Horrifyingly wicked

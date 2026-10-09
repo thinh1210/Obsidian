@@ -71,6 +71,10 @@ Regarding service and transport infrastructure, a reception building was constru
   - *Mối nối với câu trước:* Câu trước miêu tả trạng thái nguyên sơ ban đầu (`Prior to redevelopment, the island was completely untouched...`). Câu này đối ứng hoàn hảo bằng cụm mốc thời gian `[Following construction]`, tạo ra bước ngoặt biến đổi từ hoang sơ sang xuất hiện các công trình lưu trú con người.
   - *Kỹ thuật liên kết:* Dùng danh từ trừu tượng bao quát `[residential amenities]` trước, rồi dùng phân từ `comprising` và dấu hai chấm để giải thích tường tận hai cụm nhà gỗ.
 - 💡 **Công thức ghép câu:** `Following [Development/Transformation], [Key Infrastructure/Amenities] were introduced, comprising [Category]: one [Item] [V-ed in Location A] and another [V-ed in Location B].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Post-redevelopment records denote the introduction of extensive lodging facilities, which were configured into two circular groupings across the western and central sectors."
+  - *Cách 2 (Chủ ngữ mới chỉ thời kỳ - Period Subject Shift):* "The post-construction era saw the island accommodate two round clusters of chalets, with one occupying the western grounds and the other stationed centrally."
+  - *Cách 3 (Mệnh đề phân từ hoàn thành - Participle Clause):* "Having undergone significant redevelopment, the island was equipped with substantial guest accommodations, structured into two distinct circular layouts in the west and center." 
 
 ---
 
@@ -88,6 +92,10 @@ Regarding service and transport infrastructure, a reception building was constru
   - *Mối nối với câu trước:* Câu trước vừa giới thiệu hai cụm nhà lưu trú (`two circular arrangements of huts`). Đầu câu này lập tức "bắt lấy" thông tin đó bằng cụm `[these accommodations]`.
   - *Kỹ thuật liên kết đỉnh cao:* Thay vì viết xuôi đơn điệu (*An intricate network of footpaths was built to link these huts*), tác giả sử dụng cấu trúc đảo phân từ `Encircling and linking these accommodations is...`. Cách viết này vừa đưa thông tin đã biết (given information: *these accommodations*) lên đầu làm "bệ phóng", vừa dồn thông tin mới (new information: *network of footpaths*) ra phía sau, tạo sự gắn kết liền mạch đạt điểm 9.0 tiêu chí Coherence & Cohesion.
 - 💡 **Công thức ghép câu:** `[V-ing / Encircling and linking] these [Previous Entities] is a [New Feature], which also [verbs] to provide [access / function] to [Destination].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Chủ động thông thường - Standard Active Voice):* "An interconnected system of walkways encircles these chalets while simultaneously branching out westwards toward a newly opened bathing area."
+  - *Cách 2 (Danh từ hóa + Mệnh đề bị động - Passive with Nominalisation):* "Pedestrian access between these accommodation clusters and the newly designated western swimming zone is facilitated by an intricate footpath network."
+  - *Cách 3 (Nhấn mạnh vị trí đảo ngữ - Locative Inversion):* "Around and between these residential complexes runs an elaborate maze of pedestrian paths, leading directly to the western shoreline reserved for swimmers." 
 
 ---
 
@@ -104,24 +112,28 @@ Regarding service and transport infrastructure, a reception building was constru
   - *Kiểu liên kết:* **Chuỗi liên kết không gian định hướng (Spatial Chaining / Spatial Progression).**
   - *Mối nối với câu trước:* Câu trước mô tả tòa nhà tiếp tân ở trung tâm (`a reception building was constructed...`). Câu này lập tức lấy điểm mốc tiếp tân làm tâm điểm và điều hướng tầm nhìn sang phía Nam bằng cụm `[South of the reception]`.
 - 💡 **Công thức ghép câu:** `[Direction] of [Anchor Landmark], a [Facility] was built [V-ing into / over Location] to accommodate [Target Users], with a [Transport Link] connecting [Point A] to [Point B].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Góc nhìn tàu thuyền du khách - Vessel-Centric Shift):* "To facilitate the arrival of yachts, a newly erected jetty extends seaward to the south, connected to the central reception and eatery via a motor road."
+  - *Cách 2 (Mệnh đề quan hệ mục đích - Complex Relative Clause):* "A pier was constructed south of the reception area, jutting out into open waters so that private vessels could moor, alongside a dedicated roadway linking it to the administrative hub."
+  - *Cách 3 (Danh từ hóa toàn diện - Full Nominalisation):* "The southern shoreline underwent the addition of a maritime jetty for docking yachts, with roadway connectivity established directly to the reception and dining amenities." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **uninhabited island** | `/ˌʌnɪnˈhæbɪtɪd ˈaɪlənd/` | `C1` | *Collocation* | Hòn đảo hoang, không có người cư trú | *"The maps illustrate transformations on an uninhabited island."* |
-| **untouched by human habitation** | `/ʌnˈtʌtʃt baɪ ˈhjuːmən/` | `C2` | *Idiomatic Collocation* | Hoàn toàn nguyên sơ, vắng bóng con người | *"Prior to redevelopment, the island was untouched by human habitation."* |
-| **holiday resort** | /ˈhɒlədeɪ rɪˈzɔːt/` | `B2` | *Noun Phrase* | Khu nghỉ dưỡng giải trí du lịch | *"The island was converted into a comprehensive holiday resort."* |
-| **residential amenities** | `/ˌrezɪˈdenʃl əˈmiːnətiz/` | `C1` | *Noun Phrase* | Các tiện nghi phục vụ cư trú, nhà ở | *"Significant residential amenities were introduced."* |
-| **circular arrangements** | /ˈsɜːkjələ əˈreɪndʒmənts/` | `B2/C1` | *Noun Phrase* | Sự sắp đặt bố trí theo dạng hình tròn | *"...comprising two circular arrangements of huts."* |
-| **intricate network of footpaths** | /ˈɪntrɪkət ˈnetwɜːk/` | `C1/C2` | *Collocation* | Mạng lưới lối đi bộ chằng chịt, tinh tế | *"Encircling and linking these accommodations is an intricate network..."* |
-| **protruding into the sea** | `/prəˈtruːdɪŋ ˈɪntuː ðə siː/` | `C2` | *Participle Collocation* | Nhô ra, thò dài vươn ra biển | *"A pier was built protruding into the sea to accommodate yachts."* |
-| **accommodate docking yachts** | /əˈkɒmədeɪt ˈdɒkɪŋ jɒts/` | `C1` | *Collocation* | Tiếp nhận / chứa chấp các du thuyền cập bến | *"...built protruding into the sea to accommodate docking yachts."* |
-| **dedicated vehicle track** | /ˈdedɪkeɪtɪd ˈviːəkl træk/` | `C1` | *Noun Phrase* | Lối đi / làn đường dành riêng cho xe cơ giới | *"...with a dedicated vehicle track connecting the landing site..."* |
-| **left largely undisturbed** | /ˈlɑːdʒli ˌʌndɪˈstɜːbd/` | `C1/C2` | *Passive Collocation* | Được để nguyên phần lớn, không bị xâm phạm | *"While the easternmost stretch was left largely undisturbed..."* |
-| **sheltered sea area** | /ˈʃeltəd siː ˈeəriə/` | `B2/C1` | *Noun Phrase* | Vùng biển lặng sóng / khuất gió | *"...the sheltered sea area along the southern shore was reserved for sailing."* |
+| **uninhabited island** | `/ˌʌnɪnˈhæbɪtɪd ˈaɪlənd/` | `C1` | *Collocation* | Hòn đảo hoang, không có người cư trú | `deserted isle` • `unpopulated landmass` • `barren islet` |
+| **untouched by human habitation** | `/ʌnˈtʌtʃt baɪ ˈhjuːmən/` | `C2` | *Idiomatic Collocation* | Hoàn toàn nguyên sơ, vắng bóng con người | `pristine and undisturbed` • `free from anthropogenic impact` • `in its virgin state` |
+| **holiday resort** | /ˈhɒlədeɪ rɪˈzɔːt/` | `B2` | *Noun Phrase* | Khu nghỉ dưỡng giải trí du lịch | `tourist retreat` • `vacation haven` • `leisure complex` |
+| **residential amenities** | `/ˌrezɪˈdenʃl əˈmiːnətiz/` | `C1` | *Noun Phrase* | Các tiện nghi phục vụ cư trú, nhà ở | `housing facilities` • `lodging provisions` • `accommodation quarters` |
+| **circular arrangements** | /ˈsɜːkjələ əˈreɪndʒmənts/` | `B2/C1` | *Noun Phrase* | Sự sắp đặt bố trí theo dạng hình tròn | `ring-shaped clusters` • `concentric layouts` • `circular groupings` |
+| **intricate network of footpaths** | /ˈɪntrɪkət ˈnetwɜːk/` | `C1/C2` | *Collocation* | Mạng lưới lối đi bộ chằng chịt, tinh tế | `interconnecting pedestrian trails` • `labyrinth of walking paths` • `interwoven walkways` |
+| **protruding into the sea** | `/prəˈtruːdɪŋ ˈɪntuː ðə siː/` | `C2` | *Participle Collocation* | Nhô ra, thò dài vươn ra biển | `jutting out into the ocean` • `extending seaward` • `reaching into coastal waters` |
+| **accommodate docking yachts** | /əˈkɒmədeɪt ˈdɒkɪŋ jɒts/` | `C1` | *Collocation* | Tiếp nhận / chứa chấp các du thuyền cập bến | `cater to arriving vessels` • `provide mooring for pleasure boats` • `berth visiting watercraft` |
+| **dedicated vehicle track** | /ˈdedɪkeɪtɪd ˈviːəkl træk/` | `C1` | *Noun Phrase* | Lối đi / làn đường dành riêng cho xe cơ giới | `designated motor roadway` • `exclusive vehicular access road` • `purpose-built service lane` |
+| **left largely undisturbed** | /ˈlɑːdʒli ˌʌndɪˈstɜːbd/` | `C1/C2` | *Passive Collocation* | Được để nguyên phần lớn, không bị xâm phạm | `remained virtually unaltered` • `kept largely intact` • `spared from modernization` |
+| **sheltered sea area** | /ˈʃeltəd siː ˈeəriə/` | `B2/C1` | *Noun Phrase* | Vùng biển lặng sóng / khuất gió | `protected marine zone` • `calm coastal waters` • `shielded embayment` |
 
 ---
 

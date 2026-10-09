@@ -62,6 +62,10 @@ In conclusion, regardless of the reasons for reoffending, having skills training
   - *Mối nối với câu trước:* Câu liền trước nêu nguyên nhân vắn tắt: *"due to the lack of rehabilitation whilst in prison"*. Câu này dùng `[In other words]` để bóc tách xem cụ thể "thiếu cải tạo" nghĩa là gì: không được học nghề mới + không được giáo dục đạo đức để hiểu nỗi đau của nạn nhân.
   - *Kỹ thuật liên kết từ vựng:* Cụm từ `[offenders]` và `[their future]` quy chiếu trực tiếp về danh từ `[first-time offenders]` ở câu trước.
 - 💡 **Công thức ghép câu:** `In other words, S_main + are not given [Opportunity] to V1 or V2 and [Wh-clause: how S + V].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Post-release recidivism stems principally from entrenched social marginalization, where the absence of employment opportunities inexorably compels ex-convicts toward habitual unlawful activities."
+  - *Cách 2 (Mệnh đề điều kiện đảo ngữ - Inverted Condition):* "Were society to deny formerly incarcerated individuals equitable access to vocational rehabilitation and honest livelihoods, reoffending would remain an inevitable consequence."
+  - *Cách 3 (Nhấn mạnh chính sách cải tạo - Policy Focus):* "The alarming recurrence of criminal conduct highlights systemic deficiencies in reintegration frameworks, which fail to equip parolees with sustainable economic alternatives to delinquency." 
 
 ---
 
@@ -73,7 +77,8 @@ In conclusion, regardless of the reasons for reoffending, having skills training
   - **Mệnh đề chính:** `[former convicts]` (Chủ ngữ chính S_main) + `[frequently find themselves]` (Vị ngữ phản thân) + `[driven back into unlawful activities]` (Phân từ quá khứ V-ed chỉ sự ép buộc) + `[simply to survive]` (Cụm động từ nguyên mẫu chỉ mục đích cùng đường).
 - **2. 🔗 Phân tích Liên kết với câu trước (Inter-sentence Cohesion):**
   - *Kiểu liên kết:* **Nhân quả dồn dập (Direct Cause & Effect Progression).**
-  - *Mối nối với câu trước:* Câu trước nêu thực trạng: *"having a criminal record which makes it exceedingly difficult to find a job"*. Câu này móc xích bằng cụm danh từ tóm tắt `[the inability to earn a regular livelihood]` để chỉ ra hệ quả đường cùng: khi không có việc làm $ightarrow$ buộc phải đi trộm cướp để sinh tồn.
+  - *Mối nối với câu trước:* Câu trước nêu thực trạng: *"having a criminal record which makes it exceedingly difficult to find a job"*. Câu này móc xích bằng cụm danh từ tóm tắt `[the inability to earn a regular livelihood]` để chỉ ra hệ quả đường cùng: khi không có việc làm $
+ightarrow$ buộc phải đi trộm cướp để sinh tồn.
   - *Kỹ thuật liên kết từ vựng (Synonym Chain):* Tác giả thay thế cụm từ `[criminals]` ở các câu trước bằng từ vựng học thuật đồng nghĩa `[former convicts]` (cựu tù nhân) để tránh lỗi lặp từ (Lexical Resource).
 - 💡 **Công thức ghép câu:** `When faced with [Obstacle/Inability], S_main + find themselves driven into [Action] simply to + V_inf.`
 
@@ -81,16 +86,13 @@ In conclusion, regardless of the reasons for reoffending, having skills training
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **reoffend / repeat offender** | `/riːəˈfend/ - /rɪˈpiːt əˈfendər/` | `C1` | *Verb / Noun* | Tái phạm tội / Tội phạm tái phạm | *"A large number of criminals leave prison only to reoffend."* |
-| **rehabilitation** | `/ˌriːəˌbɪlɪˈteɪʃn/` | `C1` | *Noun* | Sự cải tạo, phục hồi nhân phẩm | *"This is mainly because of the lack of rehabilitation whilst in prison."* |
-| **regular livelihood** | `/ˈreɡjələ ˈlaɪvlihʊd/` | `C1` | *Noun Phrase* | Kế sinh nhai, nguồn thu nhập ổn định | *"When faced with the inability to earn a regular livelihood..."* |
-| **former convicts / ex-prisoners** | `/ˈfɔːmə ˈkɒnvɪkts/` | `C1` | *Noun Phrase* | Người từng thụ án tù, cựu tù nhân | *"Former convicts frequently find themselves driven back into unlawful activities."* |
-| **integrate back into society** | `/ˈɪntɪɡreɪt bæk ˈɪntuː səˈsaɪəti/` | `C1` | *Collocation* | Tái hòa nhập vào đời sống xã hội | *"By doing this, it will help them integrate back into society."* |
-| **probation officer** | `/prəˈbeɪʃn ˈɒfɪsər/` | `C2` | *Noun* | Cán bộ quản chế, giám sát người hưởng án treo | *"Another way is for probation officers to keep a closer eye on ex-prisoners."* |
-| **keep a close eye on** | `/kiːp ə kləʊs aɪ ɒn/` | `B2/C1` | *Idiom* | Theo dõi sát sao, giám sát chặt chẽ | *"...keep a closer eye on ex-prisoners once released."* |
-| **timely intervention** | `/ˈtaɪmli ˌɪntəˈvenʃn/` | `C1` | *Noun Phrase* | Sự can thiệp kịp thời | *"...so that timely interventions can be made."* |
+| **criminal recidivism / reoffending** | /rɪˈsɪdɪvɪzəm/` | `C2` | *Noun* | Tình trạng tái phạm tội sau khi mãn hạn tù | `repeated criminality` • `relapse into offending` • `habitual criminality` |
+| **social reintegration** | /ˌriːɪntɪˈɡreɪʃn/` | `C1` | *Noun Phrase* | Sự tái hòa nhập cộng đồng | `resettlement into society` • `community reincorporation` • `social assimilation` |
+| **vocational training** | /vəʊˈkeɪʃənl ˈtreɪnɪŋ/` | `B2/C1` | *Noun Phrase* | Đào tạo nghề, hướng nghiệp | `job skills acquisition` • `trade apprenticeship` • `technical skill development` |
+| **entrenched stigma** | /ɪnˈtrentʃt ˈstɪɡmə/` | `C2` | *Collocation* | Định kiến / vết nhơ ăn sâu bám rễ | `deep-rooted prejudice` • `persistent societal ostracization` • `enduring bias` |
+| **rehabilitative measures** | /ˌriːhəˈbɪlɪtətɪv/` | `C1` | *Noun Phrase* | Các biện pháp phục hồi nhân phẩm / cải tạo | `reformative interventions` • `corrective programs` • `restorative initiatives` |
 
 ---
 

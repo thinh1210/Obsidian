@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Sluggish::Chậm chạp, lờ đờ *(Phát âm: /ˈslʌɡɪʃ/)* ![[sluggish.mp3]]<br><br>👪 **Word Family:** sluggishness<br><br>💬 **Ví dụ:** Sluggish morning.<br>*(-> Buổi sáng lờ đờ.)*
-<!--SR:!2026-10-03,1,230-->
+<!--SR:!2026-10-13,7,230-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Slow-moving or inactive

@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Happy::Hạnh phúc, vui *(Phát âm: /ˈhæpi/)* ![[happy.mp3]]<br><br>👪 **Word Family:** happiness<br><br>💬 **Ví dụ:** I am happy.<br>*(-> Tôi vui.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-20,14,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Feeling or showing pleasure

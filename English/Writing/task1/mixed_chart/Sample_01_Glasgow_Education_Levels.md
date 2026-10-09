@@ -89,16 +89,13 @@ Turning to the pie charts, the distribution between genders was exceptionally ba
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation                  | Phiên âm IPA                       | Cấp độ  |   Phân loại   | Định nghĩa ngắn gọn                                 | Ngữ cảnh ứng dụng trong bài                                                         |
-| :------------------------------------- | :--------------------------------- | :-----: | :-----------: | :-------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| **educational qualifications**         | `/ˌedʒuˈkeɪʃənl ˌkwɒlɪfɪˈkeɪʃnz/`  | `B2/C1` | *Noun Phrase* | Bằng cấp / trình độ học vấn                         | *"...having three levels of education or qualifications."*                          |
-| **diametrically reversed**             | `/ˌdaɪəˈmetrɪkli rɪˈvɜːst/`        |  `C2`   | *Collocation* | Hoàn toàn đảo ngược theo hướng đối lập              | *"This trend was diametrically reversed among citizens with no qualifications."*    |
-| **oldest cohort / demographic**        | `/ˈkəʊhɔːt/ - /ˌdeməˈɡræfɪk/`      |  `C1`   |    *Noun*     | Nhóm nhân khẩu học / thế hệ cao tuổi nhất           | *"...surged to 72% in the oldest cohort."*                                          |
-| **remained relatively constant**       | `/rɪˈmeɪnd ˈrelətɪvli ˈkɒnstənt/`  | `B2/C1` | *Collocation* | Giữ mức tương đối ổn định                           | *"Remained relatively constant at around 20% across most brackets."*                |
-| **exceptionally balanced**             | `/ɪkˈsepʃənəli ˈbælənst/`          |  `C1`   | *Collocation* | Cực kỳ cân bằng, đồng đều                           | *"The distribution between genders was exceptionally balanced."*                    |
-| **negligible gap / minimal disparity** | `/ˈneɡlɪdʒəbl ɡæp/ - /dɪˈspærəti/` | `C1/C2` | *Noun Phrase* | Khoảng cách không đáng kể / sự chênh lệch tối thiểu | *"With a negligible gap of only 3%... A similarly minimal disparity was observed."* |
-| **virtually identical**                | `/ˈvɜːtʃuəli aɪˈdentɪkl/`          |  `C1`   | *Collocation* | Gần như giống hệt nhau 100%                         | *"...were virtually identical between the sexes."*                                  |
-| **age brackets**                       | `/eɪdʒ ˈbrækɪts/`                  | `B2/C1` |    *Noun*     | Các nhóm khung độ tuổi                              | *"...across most brackets."*                                                        |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **educational attainment** | /ˌedʒuˈkeɪʃənl əˈteɪnmənt/` | `C1` | *Noun Phrase* | Trình độ học vấn, học vị đạt được | `academic qualifications` • `schooling credentials` • `level of tertiary education` |
+| **disproportionately represented** | /ˌdɪsprəˈpɔːʃənətli/` | `C2` | *Collocation* | Chiếm tỷ lệ bất cân xứng / vượt trội | `unevenly distributed` • `predominantly clustered` • `overrepresented` |
+| **inverse correlation** | /ɪnˈvɜːs ˌkɒrəˈleɪʃn/` | `C2` | *Collocation* | Mối tương quan nghịch đảo (cái này tăng cái kia giảm) | `negative association` • `opposing trend relationship` |
+| **joblessness / unemployment** | /ˈdʒɒbləsnəs/` | `B2/C1` | *Noun* | Tình trạng thất nghiệp | `state of being out of work` • `labor displacement` • `unemployed status` |
+| **held a decisive lead** | /held ə dɪˈsaɪsɪv liːd/` | `C1` | *Idiomatic Collocation* | Giữ ưu thế áp đảo, dẫn đầu rõ rệt | `outpaced their peers comfortably` • `commanded a commanding margin` |
 
 ---
 

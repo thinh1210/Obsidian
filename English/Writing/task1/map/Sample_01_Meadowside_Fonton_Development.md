@@ -65,21 +65,44 @@ From 1985 to the present day, the expansion continued relentlessly until Fonton 
 ightarrow$ dẫn đến sự sáp nhập.
   - *Kỹ thuật liên kết thời gian:* Dùng cụm liên kết `[at which point]` nối liền khoảnh khắc sáp nhập với việc thay đổi chức năng hành chính (trở thành khu ngoại ô).
 - 💡 **Công thức ghép câu:** `Overall, both [Entity A and B] increased in size until they merged together, at which point [Entity A] became a [New Status].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Overall, sustained territorial expansion characterized both settlements over the given period, culminating in their administrative unification, whereby Meadowside was absorbed as a suburban district."
+  - *Cách 2 (Mệnh đề phân từ chỉ kết quả - Resultative Participle):* "Overall, Fonton and Meadowside village steadily expanded over the decades, eventually amalgamating into a singular urban agglomeration and relegating Meadowside to suburb status."
+  - *Cách 3 (Chủ ngữ là sự hợp nhất - Merger as Subject):* "In summary, the geographic growth of both localities proceeded until a complete merger occurred, which effectively converted Meadowside into a dependent suburb of Fonton."
+
+---
+
+#### 📌 Câu dài 2 (Thân bài 2 - Mệnh đề trạng ngữ thời gian + Mệnh đề chính tiến trình + Mệnh đề phân từ hệ quả kép):
+> *"From 1985 to the present day, the expansion continued relentlessly until Fonton and Meadowside completely merged, resulting in a joint metropolitan area with a combined population exceeding 60,000."*
+
+- **1. Phân tích các Mệnh đề trong câu (Intra-sentence Clauses):**
+  - **Cụm giới từ chỉ khung thời gian:** `[From 1985 to the present day]`.
+  - **Mệnh đề chính:** `[the expansion continued relentlessly]` (Sự bành trướng tiếp diễn không ngừng).
+  - **Mệnh đề trạng ngữ chỉ mốc giới hạn:** `[until Fonton and Meadowside completely merged]`.
+  - **Mệnh đề phân từ hiện tại chỉ hệ quả (Resultative Participle):** `[resulting in a joint metropolitan area with a combined population exceeding 60,000]`.
+- **2. 🔗 Phân tích Liên kết với câu trước (Inter-sentence Cohesion):**
+  - *Kiểu liên kết:* **Tiếp nối trình tự thời gian (Chronological Progression).**
+  - *Mối nối với câu trước:* Đoạn trước dừng lại ở mốc 1985. Đoạn này mở ra bằng `[From 1985 to the present day]`, gắn kết logic lịch sử tự nhiên.
+- 💡 **Công thức ghép câu:** `From [Year] to [Present], [Growth / Development] continued relentlessly until [A and B] merged, resulting in [New Consolidated Entity] with [Key Statistic].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Between 1985 and the present, uninterrupted urban growth led to the complete integration of Fonton and Meadowside, giving rise to a conurbation inhabited by more than 60,000 citizens."
+  - *Cách 2 (Chủ động miêu tả sự hợp nhất - Active Coalescence):* "The subsequent phase up to the present witnessed the relentless coalescence of both settlements into a unified metropolis whose collective populace now surpasses 60,000."
+  - *Cách 3 (Nhấn mạnh kết quả dân số - Demographic Focus):* "With continuous urban sprawl taking place after 1985, Fonton and Meadowside fused into a single conurbation, home to an aggregate population of upwards of 60,000 people." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **merged together** | `/mɜːdʒd təˈɡeðər/` | `B2/C1` | *Verb Collocation* | Sáp nhập lại với nhau thành một thể thống nhất | *"...until they eventually merged together."* |
-| **at which point** | `/æt wɪtʃ pɔɪnt/` | `C1` | *Relative Clause Linker* | Vào thời điểm đó thì... | *"...until they merged, at which point Meadowside became a suburb."* |
-| **separate entities** | `/ˈseprət ˈentətiz/` | `C1` | *Noun Phrase* | Các thực thể riêng biệt, tách rời nhau | *"Both were completely separate entities separated by green fields."* |
-| **expanse of green fields** | `/ɪkˈspæns ɒv ɡriːn fiːldz/` | `C2` | *Noun Phrase* | Một vùng đất đồng cỏ xanh bao la trải dài | *"...separated by a vast expanse of green fields."* |
-| **housing estates** | `/ˈhaʊzɪŋ ɪˈsteɪts/` | `B2/C1` | *Noun Phrase* | Các khu đô thị / khu dân cư nhà ở mới xây | *"Substantial housing estates had been constructed."* |
-| **railway line and a station** | `/ˈreɪlweɪ laɪn/` | `B2` | *Noun* | Tuyến đường sắt và nhà ga | *"A railway line and a station were built."* |
-| **circumventing the town / ring road** | `/ˌsɜːkəmˈventɪŋ/` | `C2` | *Verb / Noun* | Bao quanh thị trấn / Tuyến đường vành đai | *"A ring road was built circumventing the entire town."* |
-| **erected on former arable land** | `/ɪˈrektɪd ɒn ˈfɔːmər ˈærəbl lænd/` | `C1/C2` | *Collocation* | Được xây dựng dựng lên trên đất nông nghiệp cũ | *"A hospital was erected on former arable land."* |
+| **merged together** | `/mɜːdʒd təˈɡeðər/` | `B2/C1` | *Verb Collocation* | Sáp nhập lại với nhau thành một thể thống nhất | `amalgamated into one` • `coalesced into a single unit` • `fused together` |
+| **at which point** | `/æt wɪtʃ pɔɪnt/` | `C1` | *Relative Linker* | Vào thời điểm đó thì... | `whereupon` • `at which juncture` • `by which time` |
+| **separate entities** | /ˈseprət ˈentətiz/` | `C1` | *Noun Phrase* | Các thực thể riêng biệt, tách rời nhau | `distinct settlements` • `isolated localities` • `independent administrative units` |
+| **expanse of green fields** | /ɪkˈspæns ɒv ɡriːn fiːldz/` | `C2` | *Noun Phrase* | Vùng đất đồng cỏ xanh bao la trải dài | `vast tract of rural grassland` • `stretch of agricultural terrain` |
+| **housing estates** | /ˈhaʊzɪŋ ɪˈsteɪts/` | `B2/C1` | *Noun Phrase* | Các khu đô thị / khu dân cư nhà ở mới xây | `residential developments` • `housing complexes` • `neighbourhood subdivisions` |
+| **railway line and a station** | /ˈreɪlweɪ laɪn/` | `B2` | *Noun* | Tuyến đường sắt và nhà ga | `railway link and depot` • `rail transit connection and terminal` |
+| **circumventing the town / ring road** | /ˌsɜːkəmˈventɪŋ/` | `C2` | *Verb / Noun* | Bao quanh thị trấn / Tuyến đường vành đai | `encircling the urban zone` • `outer bypass` • `peripheral orbital motorway` |
+| **erected on former arable land** | /ɪˈrektɪd ɒn ˈfɔːmər ˈærəbl lænd/` | `C1/C2` | *Collocation* | Được xây dựng dựng lên trên đất nông nghiệp cũ | `constructed on previous farmland` • `established on erstwhile agricultural plots` |
 
 ---
 

@@ -16,7 +16,7 @@ tags:
 
 ## 🗂️ Flashcard
 Convoluted::Phức tạp, rối rắm *(Phát âm: /ˈkɒnvəluːtɪd/)* ![[convoluted.mp3]]<br><br>👪 **Word Family:** convolution<br><br>💬 **Ví dụ:** Convoluted excuse.<br>*(-> Lời bào chữa vòng vo.)*
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-13,7,250-->
 
 ## 📌 Ý nghĩa (Meaning)
 - **EN:** Extremely complex and difficult to follow

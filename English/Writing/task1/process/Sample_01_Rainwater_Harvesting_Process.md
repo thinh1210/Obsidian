@@ -64,6 +64,10 @@ From this storage facility, the water is piped into an adjacent water treatment 
   - *Mối nối với câu trước:* Câu trước mô tả nước chảy qua bộ lọc nước: *"The runoff first passes through a specialized water filter designed to remove large debris"*. Câu này lập tức móc xích bằng cụm phân từ `[Once filtered]` (Một khi đã được lọc xong) để kích hoạt ngay công đoạn dẫn nước vào đường ống ngầm.
   - *Kỹ thuật liên kết đỉnh cao:* Chuyển đổi một động từ ở câu trước (*filter*) thành phân từ ở đầu câu sau (*Once filtered*) là kỹ thuật kết nối câu mượt mà nhất trong IELTS Task 1 Process.
 - 💡 **Công thức ghép câu:** `Once [V-ed_passive], the [Material] continues along [Route] until it reaches [Destination], where it is [Action performed].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Danh từ hóa - Nominalisation):* "Following the primary filtration phase, the runoff proceeds through subterranean piping into an enclosed reservoir for temporary storage prior to subsequent treatment."
+  - *Cách 2 (Bị động trực tiếp + Mệnh đề mục đích - Passive Directional):* "Having been cleared of particulates, the water is channeled underground towards a containment vessel, in which it remains pending chemical decontamination."
+  - *Cách 3 (Nhấn mạnh điểm đến - Container as Focus):* "A subterranean holding tank receives the pre-filtered rainwater via underground conduits, preserving the liquid until further processing is initiated." 
 
 ---
 
@@ -77,21 +81,25 @@ From this storage facility, the water is piped into an adjacent water treatment 
   - *Kiểu liên kết:* **Quy chiếu đại từ chỉ định (Anaphoric Demonstrative Reference).**
   - *Mối nối với câu trước:* Câu trước kết thúc tại bồn chứa nước (*storage tank*). Câu này mở đầu ngay bằng cụm `[From this storage facility]`, sử dụng đại từ chỉ định `[this]` để nhắc lại bồn chứa ở câu trước, tạo thành một chiếc "cầu nối" đưa dòng chảy của nước sang trạm xử lý tiếp theo.
 - 💡 **Công thức ghép câu:** `From this [Facility/Container], the [Substance] is piped / transferred into an adjacent [Next Unit].`
+- 🔄 **3 Phương án Paraphrase cả câu (Sentence-Level Transformations):**
+  - *Cách 1 (Mệnh đề chuyển tiếp - Transition Clause):* "Leaving the reservoir, the stored water is subsequently pumped into an adjoining purification plant."
+  - *Cách 2 (Đảo cấu ngữ giới từ nơi chốn - Locative Preposition Fronting):* "Out of this holding facility flows the water into a neighboring chemical treatment installation."
+  - *Cách 3 (Nhấn mạnh công đoạn tiếp theo - Process Focus):* "The subsequent phase entails conveying the liquid from the containment tank directly to a dedicated water processing chamber." 
 
 ---
 
 ## 3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)
 
-| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | Ngữ cảnh ứng dụng trong bài |
+| Từ vựng / Collocation | Phiên âm IPA | Cấp độ | Phân loại | Định nghĩa ngắn gọn | 🔄 Các cách Paraphrase tương đương (Synonyms & Alternatives) |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **sequential process** | `/sɪˈkwenʃl ˈprəʊses/` | `C1` | *Noun Phrase* | Quy trình diễn ra tuần tự theo các bước | *"The diagram illustrates the sequential process by which..."* |
-| **harvested and treated** | `/ˈhɑːvɪstɪd ænd ˈtriːtɪd/` | `B2/C1` | *Passive Collocation* | Được thu gom và xử lý | *"...rainwater is harvested and treated for drinking purposes."* |
-| **fit for human consumption** | `/fɪt fɔː ˈhjuːmən kənˈsʌmpʃn/` | `C1` | *Idiomatic Phrase* | Đạt chuẩn an toàn để con người sử dụng | *"...thereby making it completely safe and fit for human consumption."* |
-| **debris and impurities** | `/ˈdebriː ænd ɪmˈpjʊərətiz/` | `C1` | *Noun Phrase* | Rác thải vụn và các tạp chất | *"...designed to remove large debris and impurities."* |
-| **drainage pipes / guttering system** | `/ˈdreɪnɪdʒ paɪps/` | `B2/C1` | *Noun* | Đường ống thoát nước / Hệ thống máng xối mái nhà | *"...flows down drainage pipes through a guttering system."* |
-| **chemical compounds are introduced** | `/ˈkemɪkl ˈkɒmpaʊndz/` | `C1` | *Passive Collocation* | Các hợp chất hóa học được đưa/châm vào | *"Specific chemical compounds are introduced into the water."* |
-| **purification process / potable water** | `/ˌpjʊərɪfɪˈkeɪʃn/ - /ˈpəʊtəbl/` | `C1/C2` | *Noun* | Quy trình làm sạch tinh khiết / Nước uống an toàn | *"Once the purification process is concluded, the potable water travels..."* |
-| **distribution pipes** | `/ˌdɪstrɪˈbjuːʃn paɪps/` | `B2/C1` | *Noun Phrase* | Mạng lưới đường ống phân phối | *"...travels along a network of distribution pipes back into households."* |
+| **sequential process** | `/sɪˈkwenʃl ˈprəʊses/` | `C1` | *Noun Phrase* | Quy trình diễn ra tuần tự theo các bước | `step-by-step procedure` • `linear multi-stage operation` • `successive sequence` |
+| **harvested and treated** | `/ˈhɑːvɪstɪd ænd ˈtriːtɪd/` | `B2/C1` | *Passive Collocation* | Được thu gom và xử lý | `collected and purified` • `captured and processed` • `gathered and decontaminated` |
+| **fit for human consumption** | `/fɪt fɔː ˈhjuːmən kənˈsʌmpʃn/` | `C1` | *Idiomatic Phrase* | Đạt chuẩn an toàn để con người sử dụng | `safe for drinking` • `potable` • `suitable for domestic ingestion` |
+| **debris and impurities** | `/ˈdebriː ænd ɪmˈpjʊərətiz/` | `C1` | *Noun Phrase* | Rác thải vụn và các tạp chất | `foreign matter and contaminants` • `particulate debris and pollutants` |
+| **drainage pipes / guttering** | `/ˈdreɪnɪdʒ paɪps/` | `B2/C1` | *Noun* | Đường ống thoát nước / Hệ thống máng xối | `downspouts / roof gutters` • `eaves channels and discharge conduits` |
+| **chemical compounds are introduced** | `/ˈkemɪkl ˈkɒmpaʊndz/` | `C1` | *Passive Collocation* | Các hợp chất hóa học được đưa/châm vào | `disinfectants are added` • `chemical agents are injected` • `chlorination is applied` |
+| **purification / potable water** | `/ˌpjʊərɪfɪˈkeɪʃn/ - /ˈpəʊtəbl/` | `C1/C2` | *Noun* | Quy trình làm sạch tinh khiết / Nước uống được | `decontamination process / drinking-grade water` • `refinement / treated effluent` |
+| **distribution pipes** | `/ˌdɪstrɪˈbjuːʃn paɪps/` | `B2/C1` | *Noun Phrase* | Mạng lưới đường ống phân phối | `municipal supply network` • `mains delivery pipes` • `household supply grid` |
 
 ---
 
