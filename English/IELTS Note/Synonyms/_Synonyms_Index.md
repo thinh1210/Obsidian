@@ -2,7 +2,7 @@
 *(Comprehensive English Synonyms Library: Register, Nuance & Precision)*
 
 > [!NOTE]
-> Bộ cẩm nang này được phân tách thành **7 chuyên đề độc lập** để người học dễ dàng tra cứu nhanh theo đúng ngữ cảnh thực tế: từ hội thoại giao tiếp hàng ngày (*real conversations / IELTS Speaking*) cho đến viết luận học thuật và bài báo khoa học (*academic papers / IELTS Writing Task 1 & Task 2*).
+> Bộ cẩm nang này được phân tách thành **8 chuyên đề độc lập** để người học dễ dàng tra cứu nhanh theo đúng ngữ cảnh thực tế: từ hội thoại giao tiếp hàng ngày (*real conversations / IELTS Speaking*) cho đến viết luận học thuật và bài báo khoa học (*academic papers / IELTS Writing Task 1 & Task 2*).
 > 
 > Mỗi bài học đều phân tích chi tiết: **Phiên âm quốc tế IPA**, **Cấp độ CEFR (A1 - C2)**, **Độ trang trọng (Register)**, **Sự khác biệt tinh tế (Nuance)**, **Collocations kinh điển**, **Ví dụ đối chiếu hai chiều** và **Cạm bẫy dùng từ (Thesaurus Traps)**.
 
@@ -11,20 +11,20 @@
 ## 🧭 BẢN ĐỒ TRA CỨU NHANH THEO CHUYÊN ĐỀ (MAP OF CONTENTS)
 
 ```
-                                      [THƯ VIỆN TỪ ĐỒNG NGHĨA]
-                                                 │
-         ┌───────────────────────────────┬───────┴───────────────────────────────┬───────────────────────────────┐
-         │                               │                                       │                               │
-    [ĐỘNG TỪ]                       [TÍNH TỪ]                               [DANH TỪ & CON NGƯỜI]           [TỪ NỐI LOGIC]
-         │                               │                                       │                               │
- ├── Topic 01: Hành Động &       ├── Topic 04: Quy Mô, Số Lượng          └── Topic 06: Cảm Xúc,          └── Topic 07: Từ Nối &
- │   Phương Pháp Nghiên Cứu          & Mức Độ Quan Trọng                     Tâm Lý & Phân Tầng Xã Hội       Chuyển Đoạn Văn Bản
- │                               │
- ├── Topic 02: Nhân Quả, Xu      └── Topic 05: Đánh Giá, Phẩm Chất
- │   Hướng & Biến Đổi Dữ Liệu        & Tính Chuẩn Xác
- │
- └── Topic 03: Lập Luận, Quan
-     Điểm & Tranh Biện Học Thuật
+                                       [THƯ VIỆN TỪ ĐỒNG NGHĨA]
+                                                  │
+          ┌───────────────────────────────┬───────┴───────────────────────────────┬───────────────────────────────┐
+          │                               │                                       │                               │
+     [ĐỘNG TỪ]                       [TÍNH TỪ]                               [DANH TỪ & CON NGƯỜI]       [TỪ NỐI & NGỮ PHÁP]
+          │                               │                                       │                               │
+  ├── Topic 01: Hành Động &       ├── Topic 04: Quy Mô, Số Lượng          └── Topic 06: Cảm Xúc,          ├── Topic 07: Từ Nối &
+  │   Phương Pháp Nghiên Cứu          & Mức Độ Quan Trọng                     Tâm Lý & Phân Tầng Xã Hội   │   Chuyển Đoạn Văn Bản
+  │                               │                                                                       │
+  ├── Topic 02: Nhân Quả, Xu      └── Topic 05: Đánh Giá, Phẩm Chất                                       └── Topic 08: Ngữ Pháp
+  │   Hướng & Biến Đổi Dữ Liệu        & Tính Chuẩn Xác                                                        Giới Từ, Cụm Danh Từ
+  │                                                                                                           & Collocation
+  └── Topic 03: Lập Luận, Quan
+      Điểm & Tranh Biện Học Thuật
 ```
 
 ---
@@ -40,6 +40,7 @@
 | **[[05. Evaluation, Quality & Assessment]]** | • *Good / Great ➔ Beneficial ➔ Advantageous ➔ Viable ➔ Efficacious*<br>• *Bad / Terrible ➔ Harmful ➔ Adverse ➔ Detrimental ➔ Deleterious*<br>• *Clear ➔ Obvious ➔ Apparent ➔ Evident ➔ Manifest ➔ Unambiguous*<br>• *Difficult ➔ Complex ➔ Intricate ➔ Convoluted ➔ Arduous ➔ Onerous*<br>• *True / Real ➔ Accurate ➔ Valid ➔ Authentic ➔ Unassailable*                                                                                                    | Đánh giá ưu / nhược điểm (Advantages & Disadvantages), Tính khả thi kỹ thuật.                  |
 | **[[06. Emotions, Psychology & People]]**    | • *Happy / Glad ➔ Pleased ➔ Thrilled ➔ Jubilant ➔ Ecstatic ➔ Euphoric*<br>• *Sad / Depressed ➔ Devastated ➔ Despondent ➔ Melancholic*<br>• *Angry / Annoyed ➔ Irritated ➔ Exasperated ➔ Furious ➔ Indignant*<br>• *Rich / Wealthy ➔ Well-off ➔ Affluent ➔ Opulent ➔ Prosperous*<br>• *Poor / Broke ➔ Deprived ➔ Impoverished ➔ Destitute ➔ Indigent*<br>• *Stubborn ➔ Obstinate ➔ Intransigent vs. Resolute ➔ Tenacious*                                   | IELTS Speaking Part 1, 2, 3 (kể trải nghiệm cảm xúc cá nhân), Bài viết xã hội học & nhân khẩu. |
 | **[[07. Discourse Markers & Transitions]]**  | • *Tương phản: But ➔ However ➔ Nevertheless ➔ Conversely ➔ On the contrary*<br>• *Hệ quả: So ➔ Therefore ➔ Thus ➔ Consequently ➔ Hence ➔ Accordingly*<br>• *Nguyên nhân: Because ➔ Given that ➔ In light of ➔ On the grounds that*<br>• *Bổ sung: Also ➔ Furthermore ➔ Moreover ➔ In addition ➔ By the same token*<br>• *Dẫn chứng: Like ➔ For instance ➔ To illustrate ➔ Exemplified by*<br>• *Kết luận: In short ➔ In summary ➔ In essence ➔ Ultimately* | Tạo tính liên kết mạch lạc (Cohesion & Coherence), Kết nối đoạn văn trong Paper.               |
+| **[[08. Grammar Guide - Prepositions, Noun Phrases & Collocations]]** | • *Cơ chế Giới từ (Preposition) + Cụm danh từ (Noun Phrase)*<br>• *Kỹ thuật Danh từ hóa (Nominalization: Biến mệnh đề thành cụm)*<br>• *Công thức giải phẫu Cụm danh từ mở rộng: `Det + Adv + Adj + Noun + Prep Phrase`*<br>• *Cách chọn tính từ chính xác (Quy mô, Tính chất, Cấp bách)*<br>• *Tại sao bắt buộc phải học theo Collocation Chunks*<br>• *Master list 50+ cụm danh từ & collocation học thuật kinh điển* | Nâng cấp văn phong từ Band 6.0 lên Band 8.0+, loại bỏ lối dịch word-for-word, tăng mật độ từ vựng (Lexical Density). |
 
 ---
 

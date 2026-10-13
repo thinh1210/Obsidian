@@ -36,10 +36,10 @@ Chào mừng bạn đến với hệ sinh thái học **IELTS Writing** được
 
 | Dạng Bài (Task 2 Type) | Số Lượng Bài Đã Có | Cẩm Nang & Mục Lục Chi Tiết |
 | :--- | :---: | :--- |
-| ⚖️ **Agree or Disagree (Quan điểm / Opinion)** | `1 bài mẫu` | [[task2/agree_disagree/0_Agree_Disagree_Index\|Cẩm nang & Mục lục 🔗]] |
+| ⚖️ **Agree or Disagree (Quan điểm / Opinion)** | `2 bài mẫu` | [[task2/agree_disagree/0_Agree_Disagree_Index\|Cẩm nang & Mục lục 🔗]] |
 | 👥 **Discuss Both Views (Thảo luận 2 mặt)** | `1 bài mẫu` | [[task2/discuss_both_views/0_Discuss_Both_Views_Index\|Cẩm nang & Mục lục 🔗]] |
 | 🔍 **Cause / Problem & Solution (Nguyên nhân & Giải pháp)** | `1 bài mẫu` | [[task2/problem_solution/0_Problem_Solution_Index\|Cẩm nang & Mục lục 🔗]] |
-| ⚖️ **Advantages & Disadvantages (Lợi ích & Bất lợi)** | `1 bài mẫu` | [[task2/advantages_disadvantages/0_Advantages_Disadvantages_Index\|Cẩm nang & Mục lục 🔗]] |
+| ⚖️ **Advantages & Disadvantages (Lợi ích & Bất lợi)** | `2 bài mẫu` | [[task2/advantages_disadvantages/0_Advantages_Disadvantages_Index\|Cẩm nang & Mục lục 🔗]] |
 | ❓ **Direct Questions (Câu hỏi trực tiếp / Hai phần)** | `1 bài mẫu` | [[task2/direct_questions/0_Direct_Questions_Index\|Cẩm nang & Mục lục 🔗]] |
 
 ---

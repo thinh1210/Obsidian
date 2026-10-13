@@ -65,6 +65,7 @@ tags:
 | Tiêu Đề Bài Học | Band | Chủ Đề | Bài Mẫu | Tra Từ Vựng | Hướng Dẫn Viết |
 | :--- | :---: | :--- | :---: | :---: | :---: |
 | [[Sample_01_One_Global_Language]] | `9.0` | `Language & Globalization` | [[Sample_01_One_Global_Language#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_01_One_Global_Language#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_01_One_Global_Language#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_02_Locally_Sourced_Food]] | `9.0` | `Food Miles & Environmental Sustainability` | [[Sample_02_Locally_Sourced_Food#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_02_Locally_Sourced_Food#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_02_Locally_Sourced_Food#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
 
 ---
 

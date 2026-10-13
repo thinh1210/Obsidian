@@ -14,86 +14,86 @@ Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực q
 ### 👨‍👩‍👧‍👦 1. Gia đình hạt nhân & Quan hệ trực hệ (Immediate & Nuclear Family)
 *Bố mẹ, vợ chồng, con cái ruột thịt và người trụ cột gia đình.*
 
-| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| Brother | /ˈbrʌð.ər/ [[brother.mp3\|🔊]] | A1 | noun | Anh/em trai. | brotherhood (n) | [[Brother]] |
-| Child | /tʃaɪld/ [[child.mp3\|🔊]] | A1 | noun | Trẻ con, đứa con. | children (pl), childhood (n) | [[Child]] |
-| Daughter | /ˈdɔː.tər/ [[daughter.mp3\|🔊]] | A1 | noun | Con gái. | daughter-in-law (n) | [[Daughter]] |
-| Father | /ˈfɑː.ðər/ [[father.mp3\|🔊]] | A1 | noun | Bố, cha. | fatherhood (n) | [[Father]] |
-| Husband | /ˈhʌz.bənd/ [[husband.mp3\|🔊]] | A1 | noun | Chồng. | husbandry (n) | [[Husband]] |
-| Mother | /ˈmʌð.ər/ [[mother.mp3\|🔊]] | A1 | noun | Mẹ. | motherhood (n) | [[Mother]] |
-| Parents | /ˈpeə.rənts/ [[parents.mp3\|🔊]] | A1 | noun | Cha mẹ. | parental (adj) | [[Parents]] |
-| Sister | /ˈsɪs.tər/ [[sister.mp3\|🔊]] | A1 | noun | Chị/em gái. | sisterhood (n) | [[Sister]] |
-| Son | /sʌn/ [[son.mp3\|🔊]] | A1 | noun | Con trai. | son-in-law (n) | [[Son]] |
-| Wife | /waɪf/ [[wife.mp3\|🔊]] | A1 | noun | Vợ. | wives (pl) | [[Wife]] |
-| Spouse | /spaʊs/ [[spouse.mp3\|🔊]] | B1 | n. | Bạn đời, vợ/chồng | spousal (adj) | [[Spouse]] |
-| Twin | /twɪn/ [[twin.mp3\|🔊]] | B1 | n. | Con sinh đôi | twinned (adj), twinning (n) | [[Twin]] |
-| Breadwinner | /ˈbredˌwɪn.ər/ [[breadwinner.mp3\|🔊]] | B2 | Noun | Trụ cột gia đình (người kiếm tiền chính) | breadwinning (adj) | [[Breadwinner]] |
-| Caregiver | /ˈkeəˌɡɪv.ər/ [[caregiver.mp3\|🔊]] | B2 | n. | Người chăm sóc gia đình | caregiving (n/adj), care (n/v), caring (adj) | [[Caregiver]] |
-| Dependant | /dɪˈpen.dənt/ [[dependant.mp3\|🔊]] | B2 | n. | Người phụ thuộc (gia đình) | depend (v), dependence (n), dependent (adj) | [[Dependant]] |
-| Nuclear-family | /ˌnjuː.klɪə ˈfæm.əl.i/ [[nuclear_family.mp3\|🔊]] | B2 | noun | Gia đình hạt nhân (chỉ có bố mẹ và con). | nucleus (n) | [[Nuclear-family]] |
-| Offspring | /ˈɒf.sprɪŋ/ [[offspring.mp3\|🔊]] | B2 | noun | Con cái, dòng dõi. | - | [[Offspring]] |
-| Sibling | /ˈsɪb.lɪŋ/ [[sibling.mp3\|🔊]] | B2 | noun | Anh chị em ruột. | siblings (pl) | [[Sibling]] |
+| Từ vựng        | Phát âm                                           | Level | Loại từ | Nghĩa ngắn gọn                           | Word Family                                  | Link Note          |
+| -------------- | ------------------------------------------------- | ----- | ------- | ---------------------------------------- | -------------------------------------------- | ------------------ |
+| Brother        | /ˈbrʌð.ər/ [[brother.mp3\|🔊]]                    | A1    | noun    | Anh/em trai.                             | brotherhood (n)                              | [[Brother]]        |
+| Child          | /tʃaɪld/ [[child.mp3\|🔊]]                        | A1    | noun    | Trẻ con, đứa con.                        | children (pl), childhood (n)                 | [[Child]]          |
+| Daughter       | /ˈdɔː.tər/ [[daughter.mp3\|🔊]]                   | A1    | noun    | Con gái.                                 | daughter-in-law (n)                          | [[Daughter]]       |
+| Father         | /ˈfɑː.ðər/ [[father.mp3\|🔊]]                     | A1    | noun    | Bố, cha.                                 | fatherhood (n)                               | [[Father]]         |
+| Husband        | /ˈhʌz.bənd/ [[husband.mp3\|🔊]]                   | A1    | noun    | Chồng.                                   | husbandry (n)                                | [[Husband]]        |
+| Mother         | /ˈmʌð.ər/ [[mother.mp3\|🔊]]                      | A1    | noun    | Mẹ.                                      | motherhood (n)                               | [[Mother]]         |
+| Parents        | /ˈpeə.rənts/ [[parents.mp3\|🔊]]                  | A1    | noun    | Cha mẹ.                                  | parental (adj)                               | [[Parents]]        |
+| Sister         | /ˈsɪs.tər/ [[sister.mp3\|🔊]]                     | A1    | noun    | Chị/em gái.                              | sisterhood (n)                               | [[Sister]]         |
+| Son            | /sʌn/ [[son.mp3\|🔊]]                             | A1    | noun    | Con trai.                                | son-in-law (n)                               | [[Son]]            |
+| Wife           | /waɪf/ [[wife.mp3\|🔊]]                           | A1    | noun    | Vợ.                                      | wives (pl)                                   | [[Wife]]           |
+| Spouse         | /spaʊs/ [[spouse.mp3\|🔊]]                        | B1    | n.      | Bạn đời, vợ/chồng                        | spousal (adj)                                | [[Spouse]]         |
+| Twin           | /twɪn/ [[twin.mp3\|🔊]]                           | B1    | n.      | Con sinh đôi                             | twinned (adj), twinning (n)                  | [[Twin]]           |
+| Breadwinner    | /ˈbredˌwɪn.ər/ [[breadwinner.mp3\|🔊]]            | B2    | Noun    | Trụ cột gia đình (người kiếm tiền chính) | breadwinning (adj)                           | [[Breadwinner]]    |
+| Caregiver      | /ˈkeəˌɡɪv.ər/ [[caregiver.mp3\|🔊]]               | B2    | n.      | Người chăm sóc gia đình                  | caregiving (n/adj), care (n/v), caring (adj) | [[Caregiver]]      |
+| Dependant      | /dɪˈpen.dənt/ [[dependant.mp3\|🔊]]               | B2    | n.      | Người phụ thuộc (gia đình)               | depend (v), dependence (n), dependent (adj)  | [[Dependant]]      |
+| Nuclear-family | /ˌnjuː.klɪə ˈfæm.əl.i/ [[nuclear_family.mp3\|🔊]] | B2    | noun    | Gia đình hạt nhân (chỉ có bố mẹ và con). | nucleus (n)                                  | [[Nuclear-family]] |
+| Offspring      | /ˈɒf.sprɪŋ/ [[offspring.mp3\|🔊]]                 | B2    | noun    | Con cái, dòng dõi.                       | -                                            | [[Offspring]]      |
+| Sibling        | /ˈsɪb.lɪŋ/ [[sibling.mp3\|🔊]]                    | B2    | noun    | Anh chị em ruột.                         | siblings (pl)                                | [[Sibling]]        |
 
 ### 👴 2. Họ hàng, Bậc sinh thành & Đại gia đình (Extended Family & Relatives)
 *Ông bà, cô dì chú bác, anh em họ, quan hệ thông gia và gia đình chắp vá.*
 
-| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| Grandfather | /ˈɡræn.fɑː.ðər/ [[grandfather.mp3\|🔊]] | A1 | noun | Ông nội/ngoại. | grandparent (n) | [[Grandfather]] |
-| Grandmother | /ˈɡræn.mʌð.ər/ [[grandmother.mp3\|🔊]] | A1 | noun | Bà nội/ngoại. | grandparent (n) | [[Grandmother]] |
-| Aunt | /ɑːnt/ [[aunt.mp3\|🔊]] | A2 | noun | Cô, dì, bác gái. | great-aunt (n) | [[Aunt]] |
-| Cousin | /ˈkʌz.ən/ [[cousin.mp3\|🔊]] | A2 | noun | Anh chị em họ. | cousinhood (n) | [[Cousin]] |
-| Granddaughter | /ˈɡrænˌdɔː.tər/ [[granddaughter.mp3\|🔊]] | A2 | n. | Cháu gái (của ông bà) | grandson (n), grandchild (n) | [[Granddaughter]] |
-| Grandparent | /ˈɡrænˌpeə.rənt/ [[grandparent.mp3\|🔊]] | A2 | n. | Ông/bà | grandparenthood (n), grandmother (n), grandfather (n) | [[Grandparent]] |
-| Grandson | /ˈɡræn.sʌn/ [[grandson.mp3\|🔊]] | A2 | n. | Cháu trai (của ông bà) | granddaughter (n), grandchild (n) | [[Grandson]] |
-| Uncle | /ˈʌŋ.kəl/ [[uncle.mp3\|🔊]] | A2 | noun | Chú, bác, cậu. | great-uncle (n) | [[Uncle]] |
-| Brother-in-law | /ˈbrʌð.ə.rɪn.lɔː/ [[brother_in_law.mp3\|🔊]] | B1 | noun | Anh/em rể, anh/em vợ. | brothers-in-law (pl) | [[Brother-in-law]] |
-| Daughter-in-law | /ˈdɔː.tər.ɪn.lɔː/ [[daughter_in_law.mp3\|🔊]] | B1 | n. | Con dâu | daughters-in-law (pl) | [[Daughter-in-law]] |
-| Father-in-law | /ˈfɑː.ðə.rɪn.lɔː/ [[father_in_law.mp3\|🔊]] | B1 | noun | Bố chồng, bố vợ. | fathers-in-law (pl) | [[Father-in-law]] |
-| Mother-in-law | /ˈmʌð.ə.rɪn.lɔː/ [[mother_in_law.mp3\|🔊]] | B1 | noun | Mẹ chồng, mẹ vợ. | mothers-in-law (pl) | [[Mother-in-law]] |
-| Nephew | /ˈnef.juː/ [[nephew.mp3\|🔊]] | B1 | noun | Cháu trai (con của anh/chị/em). | nephews (pl) | [[Nephew]] |
-| Niece | /niːs/ [[niece.mp3\|🔊]] | B1 | noun | Cháu gái (con của anh/chị/em). | nieces (pl) | [[Niece]] |
-| Relative | /ˈrel.ə.tɪv/ [[relative.mp3\|🔊]] | B1 | noun | Họ hàng. | relatively (adv) | [[Relative]] |
-| Sister-in-law | /ˈsɪs.tə.rɪn.lɔː/ [[sister_in_law.mp3\|🔊]] | B1 | noun | Chị/em dâu, chị/em vợ. | sisters-in-law (pl) | [[Sister-in-law]] |
-| Son-in-law | /ˈsʌn.ɪn.lɔː/ [[son_in_law.mp3\|🔊]] | B1 | n. | Con rể | sons-in-law (pl) | [[Son-in-law]] |
-| Stepbrother | /ˈstepˌbrʌð.ər/ [[stepbrother.mp3\|🔊]] | B1 | noun | Anh/em trai kế (con riêng của bố dượng/mẹ kế). | stepsibling (n) | [[Stepbrother]] |
-| Stepfather | /ˈstepˌfɑː.ðər/ [[stepfather.mp3\|🔊]] | B1 | noun | Bố dượng. | stepparent (n) | [[Stepfather]] |
-| Stepmother | /ˈstepˌmʌð.ər/ [[stepmother.mp3\|🔊]] | B1 | noun | Mẹ kế. | stepparent (n) | [[Stepmother]] |
-| Stepsister | /ˈstepˌsɪs.tər/ [[stepsister.mp3\|🔊]] | B1 | noun | Chị/em gái kế. | stepsibling (n) | [[Stepsister]] |
-| Extended-family | /ɪkˌsten.dɪd ˈfæm.əl.i/ [[extended_family.mp3\|🔊]] | B2 | noun | Đại gia đình. | extended (adj) | [[Extended-family]] |
-| Godparent | /ˈɡɒdˌpeə.rənt/ [[godparent.mp3\|🔊]] | B2 | n. | Cha mẹ đỡ đầu | godfather (n), godmother (n), godchild (n) | [[Godparent]] |
-| Half-brother | /ˈhɑːfˌbrʌð.ər/ [[half_brother.mp3\|🔊]] | B2 | noun | Anh/em trai cùng cha khác mẹ (hoặc ngược lại). | half-sibling (n) | [[Half-brother]] |
-| Half-sister | /ˈhɑːfˌsɪs.tər/ [[half_sister.mp3\|🔊]] | B2 | noun | Chị/em gái cùng cha khác mẹ (hoặc ngược lại). | half-sibling (n) | [[Half-sister]] |
-| In-law | /ˈɪn.lɔː/ [[in_law.mp3\|🔊]] | B2 | noun | Họ hàng bên vợ/chồng. | - | [[In-law]] |
+| Từ vựng         | Phát âm                                             | Level | Loại từ | Nghĩa ngắn gọn                                 | Word Family                                           | Link Note           |
+| --------------- | --------------------------------------------------- | ----- | ------- | ---------------------------------------------- | ----------------------------------------------------- | ------------------- |
+| Grandfather     | /ˈɡræn.fɑː.ðər/ [[grandfather.mp3\|🔊]]             | A1    | noun    | Ông nội/ngoại.                                 | grandparent (n)                                       | [[Grandfather]]     |
+| Grandmother     | /ˈɡræn.mʌð.ər/ [[grandmother.mp3\|🔊]]              | A1    | noun    | Bà nội/ngoại.                                  | grandparent (n)                                       | [[Grandmother]]     |
+| Aunt            | /ɑːnt/ [[aunt.mp3\|🔊]]                             | A2    | noun    | Cô, dì, bác gái.                               | great-aunt (n)                                        | [[Aunt]]            |
+| Cousin          | /ˈkʌz.ən/ [[cousin.mp3\|🔊]]                        | A2    | noun    | Anh chị em họ.                                 | cousinhood (n)                                        | [[Cousin]]          |
+| Granddaughter   | /ˈɡrænˌdɔː.tər/ [[granddaughter.mp3\|🔊]]           | A2    | n.      | Cháu gái (của ông bà)                          | grandson (n), grandchild (n)                          | [[Granddaughter]]   |
+| Grandparent     | /ˈɡrænˌpeə.rənt/ [[grandparent.mp3\|🔊]]            | A2    | n.      | Ông/bà                                         | grandparenthood (n), grandmother (n), grandfather (n) | [[Grandparent]]     |
+| Grandson        | /ˈɡræn.sʌn/ [[grandson.mp3\|🔊]]                    | A2    | n.      | Cháu trai (của ông bà)                         | granddaughter (n), grandchild (n)                     | [[Grandson]]        |
+| Uncle           | /ˈʌŋ.kəl/ [[uncle.mp3\|🔊]]                         | A2    | noun    | Chú, bác, cậu.                                 | great-uncle (n)                                       | [[Uncle]]           |
+| Brother-in-law  | /ˈbrʌð.ə.rɪn.lɔː/ [[brother_in_law.mp3\|🔊]]        | B1    | noun    | Anh/em rể, anh/em vợ.                          | brothers-in-law (pl)                                  | [[Brother-in-law]]  |
+| Daughter-in-law | /ˈdɔː.tər.ɪn.lɔː/ [[daughter_in_law.mp3\|🔊]]       | B1    | n.      | Con dâu                                        | daughters-in-law (pl)                                 | [[Daughter-in-law]] |
+| Father-in-law   | /ˈfɑː.ðə.rɪn.lɔː/ [[father_in_law.mp3\|🔊]]         | B1    | noun    | Bố chồng, bố vợ.                               | fathers-in-law (pl)                                   | [[Father-in-law]]   |
+| Mother-in-law   | /ˈmʌð.ə.rɪn.lɔː/ [[mother_in_law.mp3\|🔊]]          | B1    | noun    | Mẹ chồng, mẹ vợ.                               | mothers-in-law (pl)                                   | [[Mother-in-law]]   |
+| Nephew          | /ˈnef.juː/ [[nephew.mp3\|🔊]]                       | B1    | noun    | Cháu trai (con của anh/chị/em).                | nephews (pl)                                          | [[Nephew]]          |
+| Niece           | /niːs/ [[niece.mp3\|🔊]]                            | B1    | noun    | Cháu gái (con của anh/chị/em).                 | nieces (pl)                                           | [[Niece]]           |
+| Relative        | /ˈrel.ə.tɪv/ [[relative.mp3\|🔊]]                   | B1    | noun    | Họ hàng.                                       | relatively (adv)                                      | [[Relative]]        |
+| Sister-in-law   | /ˈsɪs.tə.rɪn.lɔː/ [[sister_in_law.mp3\|🔊]]         | B1    | noun    | Chị/em dâu, chị/em vợ.                         | sisters-in-law (pl)                                   | [[Sister-in-law]]   |
+| Son-in-law      | /ˈsʌn.ɪn.lɔː/ [[son_in_law.mp3\|🔊]]                | B1    | n.      | Con rể                                         | sons-in-law (pl)                                      | [[Son-in-law]]      |
+| Stepbrother     | /ˈstepˌbrʌð.ər/ [[stepbrother.mp3\|🔊]]             | B1    | noun    | Anh/em trai kế (con riêng của bố dượng/mẹ kế). | stepsibling (n)                                       | [[Stepbrother]]     |
+| Stepfather      | /ˈstepˌfɑː.ðər/ [[stepfather.mp3\|🔊]]              | B1    | noun    | Bố dượng.                                      | stepparent (n)                                        | [[Stepfather]]      |
+| Stepmother      | /ˈstepˌmʌð.ər/ [[stepmother.mp3\|🔊]]               | B1    | noun    | Mẹ kế.                                         | stepparent (n)                                        | [[Stepmother]]      |
+| Stepsister      | /ˈstepˌsɪs.tər/ [[stepsister.mp3\|🔊]]              | B1    | noun    | Chị/em gái kế.                                 | stepsibling (n)                                       | [[Stepsister]]      |
+| Extended-family | /ɪkˌsten.dɪd ˈfæm.əl.i/ [[extended_family.mp3\|🔊]] | B2    | noun    | Đại gia đình.                                  | extended (adj)                                        | [[Extended-family]] |
+| Godparent       | /ˈɡɒdˌpeə.rənt/ [[godparent.mp3\|🔊]]               | B2    | n.      | Cha mẹ đỡ đầu                                  | godfather (n), godmother (n), godchild (n)            | [[Godparent]]       |
+| Half-brother    | /ˈhɑːfˌbrʌð.ər/ [[half_brother.mp3\|🔊]]            | B2    | noun    | Anh/em trai cùng cha khác mẹ (hoặc ngược lại). | half-sibling (n)                                      | [[Half-brother]]    |
+| Half-sister     | /ˈhɑːfˌsɪs.tər/ [[half_sister.mp3\|🔊]]             | B2    | noun    | Chị/em gái cùng cha khác mẹ (hoặc ngược lại).  | half-sibling (n)                                      | [[Half-sister]]     |
+| In-law          | /ˈɪn.lɔː/ [[in_law.mp3\|🔊]]                        | B2    | noun    | Họ hàng bên vợ/chồng.                          | -                                                     | [[In-law]]          |
 
 ### 🌳 3. Tổ tiên, Dòng dõi & Phả hệ (Ancestry, Lineage & Kinship)
 *Cội nguồn tổ tiên, huyết thống máu mủ, phả hệ gia tộc và sự kế thừa dòng họ.*
 
-| Từ vựng | Phát âm | Level | Loại từ | Nghĩa ngắn gọn | Word Family | Link Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| Generation | /ˌdʒen.əˈreɪ.ʃən/ [[generation.mp3\|🔊]] | B1 | n. | Thế hệ | generational (adj), generate (v) | [[Generation]] |
-| Inherit | /ɪnˈher.ɪt/ [[inherit.mp3\|🔊]] | B1 | v. | Thừa kế, di truyền | inheritance (n), inheritor (n), disinherit (v) | [[Inherit]] |
-| Roots | /ruːts/ [[roots.mp3\|🔊]] | B1 | n. | Cội nguồn, gốc rễ | rooted (adj), root (n/v), uproot (v) | [[Roots]] |
-| Ancestor | /ˈæn.ses.tər/ [[ancestor.mp3\|🔊]] | B2 | noun | Tổ tiên. | ancestry (n), ancestral (adj) | [[Ancestor]] |
-| Descendant | /dɪˈsen.dənt/ [[descendant.mp3\|🔊]] | B2 | noun | Hậu duệ, con cháu. | descend (v), descent (n) | [[Descendant]] |
-| Heritage | /ˈher.ɪ.tɪdʒ/ [[heritage.mp3\|🔊]] | B2 | n. | Di sản gia đình/dân tộc | inherit (v), inheritance (n), heritable (adj) | [[Heritage]] |
-| Inheritance | /ɪnˈher.ɪ.təns/ [[inheritance.mp3\|🔊]] | B2 | n. | Của thừa kế, gia tài | inherit (v), inheritor (n), disinherit (v) | [[Inheritance]] |
-| Maternal | /məˈtɜː.nəl/ [[maternal.mp3\|🔊]] | B2 | Adj | Thuộc về mẹ, có tình mẫu tử | maternity (n), maternally (adv) | [[Maternal]] |
-| Paternal | /pəˈtɜː.nəl/ [[paternal.mp3\|🔊]] | B2 | Adj | Thuộc về bố, có tình phụ tử | paternity (n), paternally (adv) | [[Paternal]] |
-| Flesh and blood | /ˌfleʃ ən ˈblʌd/ [[flesh_and_blood.mp3\|🔊]] | C1 | Idiom | Máu mủ ruột thịt | - | [[Flesh and blood]] |
-| Genealogy | /ˌdʒiː.niˈæl.ə.dʒi/ [[genealogy.mp3\|🔊]] | C1 | noun | Gia phả học. | genealogical (adj), genealogist (n) | [[Genealogy]] |
-| Heredity | /hɪˈred.ə.ti/ [[heredity.mp3\|🔊]] | C1 | noun | Sự di truyền. | hereditary (adj) | [[Heredity]] |
-| Kin | /kɪn/ [[kin.mp3\|🔊]] | C1 | noun | Dòng họ, người thân. | kinship (n) | [[Kin]] |
-| Kinship | /ˈkɪn.ʃɪp/ [[kinship.mp3\|🔊]] | C1 | Noun | Mối quan hệ họ hàng, sự gắn kết | kin (n) | [[Kinship]] |
-| Lineage | /ˈlɪn.i.ɪdʒ/ [[lineage.mp3\|🔊]] | C1 | noun | Dòng dõi. | lineal (adj) | [[Lineage]] |
-| Maternity | /məˈtɜː.nə.ti/ [[maternity.mp3\|🔊]] | C1 | noun | Thiên chức làm mẹ. | maternal (adj) | [[Maternity]] |
-| Paternity | /pəˈtɜː.nə.ti/ [[paternity.mp3\|🔊]] | C1 | noun | Tư cách làm cha. | paternal (adj) | [[Paternity]] |
-| Consanguinity | /ˌkɒn.sæŋˈɡwɪn.ə.ti/ [[consanguinity.mp3\|🔊]] | C2 | noun | Quan hệ cùng huyết thống. | consanguineous (adj) | [[Consanguinity]] |
-| Kindred | /ˈkɪn.drəd/ [[kindred.mp3\|🔊]] | C2 | noun | Bà con, cùng họ. | - | [[Kindred]] |
-| Matriarch | /ˈmeɪ.tri.ɑːk/ [[matriarch.mp3\|🔊]] | C2 | noun | Nữ gia trưởng. | matriarchy (n), matriarchal (adj) | [[Matriarch]] |
-| Patriarch | /ˈpeɪ.tri.ɑːk/ [[patriarch.mp3\|🔊]] | C2 | noun | Gia trưởng (nam), tộc trưởng. | patriarchy (n), patriarchal (adj) | [[Patriarch]] |
-| Progenitor | /prəʊˈdʒen.ɪ.tər/ [[progenitor.mp3\|🔊]] | C2 | noun | Tổ tiên, người khởi xướng. | progeny (n) | [[Progenitor]] |
+| Từ vựng         | Phát âm                                        | Level | Loại từ | Nghĩa ngắn gọn                  | Word Family                                    | Link Note           |
+| --------------- | ---------------------------------------------- | ----- | ------- | ------------------------------- | ---------------------------------------------- | ------------------- |
+| Generation      | /ˌdʒen.əˈreɪ.ʃən/ [[generation.mp3\|🔊]]       | B1    | n.      | Thế hệ                          | generational (adj), generate (v)               | [[Generation]]      |
+| Inherit         | /ɪnˈher.ɪt/ [[inherit.mp3\|🔊]]                | B1    | v.      | Thừa kế, di truyền              | inheritance (n), inheritor (n), disinherit (v) | [[Inherit]]         |
+| Roots           | /ruːts/ [[roots.mp3\|🔊]]                      | B1    | n.      | Cội nguồn, gốc rễ               | rooted (adj), root (n/v), uproot (v)           | [[Roots]]           |
+| Ancestor        | /ˈæn.ses.tər/ [[ancestor.mp3\|🔊]]             | B2    | noun    | Tổ tiên.                        | ancestry (n), ancestral (adj)                  | [[Ancestor]]        |
+| Descendant      | /dɪˈsen.dənt/ [[descendant.mp3\|🔊]]           | B2    | noun    | Hậu duệ, con cháu.              | descend (v), descent (n)                       | [[Descendant]]      |
+| Heritage        | /ˈher.ɪ.tɪdʒ/ [[heritage.mp3\|🔊]]             | B2    | n.      | Di sản gia đình/dân tộc         | inherit (v), inheritance (n), heritable (adj)  | [[Heritage]]        |
+| Inheritance     | /ɪnˈher.ɪ.təns/ [[inheritance.mp3\|🔊]]        | B2    | n.      | Của thừa kế, gia tài            | inherit (v), inheritor (n), disinherit (v)     | [[Inheritance]]     |
+| Maternal        | /məˈtɜː.nəl/ [[maternal.mp3\|🔊]]              | B2    | Adj     | Thuộc về mẹ, có tình mẫu tử     | maternity (n), maternally (adv)                | [[Maternal]]        |
+| Paternal        | /pəˈtɜː.nəl/ [[paternal.mp3\|🔊]]              | B2    | Adj     | Thuộc về bố, có tình phụ tử     | paternity (n), paternally (adv)                | [[Paternal]]        |
+| Flesh and blood | /ˌfleʃ ən ˈblʌd/ [[flesh_and_blood.mp3\|🔊]]   | C1    | Idiom   | Máu mủ ruột thịt                | -                                              | [[Flesh and blood]] |
+| Genealogy       | /ˌdʒiː.niˈæl.ə.dʒi/ [[genealogy.mp3\|🔊]]      | C1    | noun    | Gia phả học.                    | genealogical (adj), genealogist (n)            | [[Genealogy]]       |
+| Heredity        | /hɪˈred.ə.ti/ [[heredity.mp3\|🔊]]             | C1    | noun    | Sự di truyền.                   | hereditary (adj)                               | [[Heredity]]        |
+| Kin             | /kɪn/ [[kin.mp3\|🔊]]                          | C1    | noun    | Dòng họ, người thân.            | kinship (n)                                    | [[Kin]]             |
+| Kinship         | /ˈkɪn.ʃɪp/ [[kinship.mp3\|🔊]]                 | C1    | Noun    | Mối quan hệ họ hàng, sự gắn kết | kin (n)                                        | [[Kinship]]         |
+| Lineage         | /ˈlɪn.i.ɪdʒ/ [[lineage.mp3\|🔊]]               | C1    | noun    | Dòng dõi.                       | lineal (adj)                                   | [[Lineage]]         |
+| Maternity       | /məˈtɜː.nə.ti/ [[maternity.mp3\|🔊]]           | C1    | noun    | Thiên chức làm mẹ.              | maternal (adj)                                 | [[Maternity]]       |
+| Paternity       | /pəˈtɜː.nə.ti/ [[paternity.mp3\|🔊]]           | C1    | noun    | Tư cách làm cha.                | paternal (adj)                                 | [[Paternity]]       |
+| Consanguinity   | /ˌkɒn.sæŋˈɡwɪn.ə.ti/ [[consanguinity.mp3\|🔊]] | C2    | noun    | Quan hệ cùng huyết thống.       | consanguineous (adj)                           | [[Consanguinity]]   |
+| Kindred         | /ˈkɪn.drəd/ [[kindred.mp3\|🔊]]                | C2    | noun    | Bà con, cùng họ.                | -                                              | [[Kindred]]         |
+| Matriarch       | /ˈmeɪ.tri.ɑːk/ [[matriarch.mp3\|🔊]]           | C2    | noun    | Nữ gia trưởng.                  | matriarchy (n), matriarchal (adj)              | [[Matriarch]]       |
+| Patriarch       | /ˈpeɪ.tri.ɑːk/ [[patriarch.mp3\|🔊]]           | C2    | noun    | Gia trưởng (nam), tộc trưởng.   | patriarchy (n), patriarchal (adj)              | [[Patriarch]]       |
+| Progenitor      | /prəʊˈdʒen.ɪ.tər/ [[progenitor.mp3\|🔊]]       | C2    | noun    | Tổ tiên, người khởi xướng.      | progeny (n)                                    | [[Progenitor]]      |
 
 ### 🏡 4. Mối quan hệ gia đình, Nuôi dạy & Mâu thuẫn (Family Dynamics & Ties)
 *Sự gắn kết bền chặt, chữ hiếu, sự bất hòa giữa anh chị em và sự nuôi nấng.*

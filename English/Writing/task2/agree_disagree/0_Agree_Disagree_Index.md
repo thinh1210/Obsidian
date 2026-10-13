@@ -72,6 +72,7 @@ tags:
 | Tiêu Đề Bài Học | Band | Chủ Đề | Bài Mẫu | Tra Từ Vựng | Hướng Dẫn Viết |
 | :--- | :---: | :--- | :---: | :---: | :---: |
 | [[Sample_01_Overweight_Physical_Education]] | `9.0` | `Health & Lifestyle` | [[Sample_01_Overweight_Physical_Education#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_01_Overweight_Physical_Education#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_01_Overweight_Physical_Education#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_02_Advertising_Targeting_Children]] | `9.0` | `Advertising & Children` | [[Sample_02_Advertising_Targeting_Children#3. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_02_Advertising_Targeting_Children#4. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_02_Advertising_Targeting_Children#6. 🎯 Hướng Dẫn Tự Viết & Quy Tắc Vàng|Cách Viết]] |
 
 ---
 
