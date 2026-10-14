@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.2. Reported Speech (Câu gián tiếp).md",
+                "file": "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.3. Sentence Linkers & Paragraph Cohesion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2. Reported Speech (Câu gián tiếp)"
+              "title": "2.3. Sentence Linkers & Paragraph Cohesion"
             }
           }
         ]
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.91849517822266
+    "width": 273.7416458129883
   },
   "right": {
     "id": "f2c2d5dae0d3709f",
@@ -205,36 +205,38 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d0a99118ab26795a",
+  "active": "e33b248e2f2c82db",
   "lastOpenFiles": [
+    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.3. Sentence Linkers & Paragraph Cohesion.md",
+    "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns/6.1. Task 1 - Data Trends, Comparisons & Processes.md",
+    "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns/6.4. Task 2 - Counter-Argument & Rebuttal Master.md",
+    "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns/6.5. Task 2 - Conclusions & Strategic Recommendations.md",
+    "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns/6.6. Writing Progression & Lexical Swaps (Mẫu câu Bậc thang từ Cơ bản đến Nâng cao & Hoán đổi Từ vựng).md",
+    "English/Grammar & Cohesion/5. IELTS Speaking Sentence Patterns/5.6. Speaking Progression & Lexical Swaps (Mẫu câu Bậc thang từ Cơ bản đến Nâng cao & Hoán đổi Từ vựng).md",
+    "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns/6.3. Task 2 - Body Paragraph Architecture (PEEL).md",
+    "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns/6.2. Task 2 - Introductions & Thesis Statements.md",
+    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.4. Rare & Complex Academic Prepositions (Giới từ khó & độc lạ).md",
+    "English/Grammar & Cohesion/5. IELTS Speaking Sentence Patterns/5.1. Part 1 - Daily & Personal Topics.md",
+    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.7. Speaking vs. Writing Sentence Patterns & Master Frames.md",
+    "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns",
+    "English/Grammar & Cohesion/5. IELTS Speaking Sentence Patterns/5.5. Natural Fillers, Discourse Markers & Clefts.md",
+    "English/Grammar & Cohesion/5. IELTS Speaking Sentence Patterns/5.4. Buying Time, Hesitation & Clarification.md",
+    "English/Grammar & Cohesion/5. IELTS Speaking Sentence Patterns/5.3. Part 3 - Abstract Discussion & Deep Analysis.md",
+    "English/Grammar & Cohesion/5. IELTS Speaking Sentence Patterns/5.2. Part 2 - Long Turn & Storytelling.md",
+    "English/Grammar & Cohesion/5. IELTS Speaking Sentence Patterns",
+    "English/Vocabulary Topics/2. Daily Life & Habits/OUTFIT - CLOTHES/0_OUTFIT - CLOTHES_Index.md",
+    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.7. Cleft Sentences (Câu chẻ nhấn mạnh).md",
+    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.6. Subjunctive Mood (Thức giả định).md",
+    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.5. Conditionals & Wish (Câu điều kiện & Ước).md",
+    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.4. Inversion (Đảo ngữ).md",
+    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.3. Exclamatory Sentences (Câu cảm thán).md",
+    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.2. Reported Speech (Câu gián tiếp).md",
     "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.1. Passive Voice (Câu bị động).md",
     "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.3. Advanced Prepositions (Giới từ nâng cao).md",
     "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.2. Gerunds & Infinitives.md",
     "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.1. Basic Prepositions (Giới từ cơ bản).md",
-    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.7. Cleft Sentences (Câu chẻ nhấn mạnh).md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.6. Paragraph Paraphrasing & Discourse Rewriting.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.5. Paraphrasing Mastery & Sentence Transformations.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.4. Complex Sentences & Clause Breakdown.md",
-    "English/IELTS Note/Synonyms/08. Grammar Guide - Prepositions, Noun Phrases & Collocations.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.3. Sentence Linkers & Paragraph Cohesion.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.2. Connecting Clauses with Prepositions.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.1. Sentence Elements & Types.md",
-    "English/Grammar & Cohesion/1. Tenses & Core Grammar/1.3. Future Tenses.md",
-    "English/Grammar & Cohesion/1. Tenses & Core Grammar/1.1. Present Tenses.md",
-    "UBoot_BeagleBone/README.md",
-    "UBoot_BeagleBone/docs/05_Cac_Ky_Thuat_Nang_Cao_Va_Phan_Tich_Repo_Mau.md",
-    "UBoot_BeagleBone/docs/04_Cau_Hinh_uEnv_Va_Tap_Lenh_UBoot_CLI.md",
-    "UBoot_BeagleBone/docs/03_Thuc_Hanh_Build_UBoot_Va_Tao_The_Nho_Boot.md",
-    "UBoot_BeagleBone/docs/02_Giai_Phau_Ma_Nguon_UBoot_Cho_BeagleBone.md",
-    "UBoot_BeagleBone/docs/01_Tong_Quan_Kien_Truc_Boot_Flow_AM335x.md",
     "UBoot_BeagleBone/docs",
     "UBoot_BeagleBone",
-    "English/Writing/task2/agree_disagree/Sample_02_Advertising_Targeting_Children.md",
-    "English/Writing/task2/advantages_disadvantages/Sample_02_Locally_Sourced_Food.md",
-    "English/Writing/task2/advantages_disadvantages/0_Advantages_Disadvantages_Index.md",
-    "English/Vocabulary Topics/3. People & Relationships/FAMILY/0_FAMILY_Index.md",
-    "English/Vocabulary Topics/3. People & Relationships/FAMILY/Reunion.md",
-    "English/Vocabulary Topics/3. People & Relationships/FAMILY/Lineage.md",
     "English/audio/forehead.mp3",
     "English/Writing/assets/images/task1_process_03_brick.jpg",
     "English/Writing/assets/images/task1_map_03_grange_park.jpg",
@@ -251,8 +253,6 @@
     "Untitled.base",
     "Untitled 2.base",
     "scratch/upgrade_indexes.py",
-    "scratch/generate_index_files.py",
-    "scratch/generate_writing_notes.py",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
