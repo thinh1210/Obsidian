@@ -60,7 +60,9 @@ tags:
 
 | Tiêu Đề Bài Học | Band | Chủ Đề | Bài Mẫu | Tra Từ Vựng | Hướng Dẫn Viết |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| [[Sample_01_Glasgow_Education_Levels]] | `9.0` | `Education & Demographics` | [[Sample_01_Glasgow_Education_Levels#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_01_Glasgow_Education_Levels#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_01_Glasgow_Education_Levels#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_01_Glasgow_Education_Levels]] | `9.0` | `Education & Demographics` | [[Sample_01_Glasgow_Education_Levels#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_01_Glasgow_Education_Levels#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_01_Glasgow_Education_Levels#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng (Actionable Guide)|Cách Viết]] |
+| [[Sample_02_Coffee_Production_Consumption]] | `9.0` | `Global Coffee Production and Consumption (Top Countries)` | [[Sample_02_Coffee_Production_Consumption#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_02_Coffee_Production_Consumption#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_02_Coffee_Production_Consumption#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_03_Electricity_Production_Consumption_Ten_Countries]] | `9.0` | `Electricity Production and Consumption in Ten Leading Nations (2014)` | [[Sample_03_Electricity_Production_Consumption_Ten_Countries#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_03_Electricity_Production_Consumption_Ten_Countries#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_03_Electricity_Production_Consumption_Ten_Countries#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
 
 ---
 

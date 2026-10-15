@@ -66,7 +66,10 @@ tags:
 
 | Tiêu Đề Bài Học | Band | Chủ Đề | Bài Mẫu | Tra Từ Vựng | Hướng Dẫn Viết |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| [[Sample_01_Money_and_Happiness]] | `9.0` | `Society & Philosophy of Life` | [[Sample_01_Money_and_Happiness#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_01_Money_and_Happiness#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_01_Money_and_Happiness#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_01_Money_and_Happiness]] | `9.0` | `Society & Philosophy of Life` | [[Sample_01_Money_and_Happiness#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_01_Money_and_Happiness#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_01_Money_and_Happiness#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng (Actionable Guide)|Cách Viết]] |
+| [[Sample_02_Fast_Paced_Lifestyle_Stress]] | `9.0` | `Fast-Paced Modern Lifestyle and Stress Management` | [[Sample_02_Fast_Paced_Lifestyle_Stress#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_02_Fast_Paced_Lifestyle_Stress#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_02_Fast_Paced_Lifestyle_Stress#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_03_History_Curriculum_Importance]] | `9.0` | `Relevance of History Education in the Modern Era` | [[Sample_03_History_Curriculum_Importance#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_03_History_Curriculum_Importance#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_03_History_Curriculum_Importance#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_04_Art_Subjects_School_Curriculum]] | `9.0` | `Marginalization of Arts Subjects in School Curricula` | [[Sample_04_Art_Subjects_School_Curriculum#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_04_Art_Subjects_School_Curriculum#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_04_Art_Subjects_School_Curriculum#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
 
 ---
 

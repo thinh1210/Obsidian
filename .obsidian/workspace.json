@@ -205,8 +205,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e33b248e2f2c82db",
+  "active": "d0a99118ab26795a",
   "lastOpenFiles": [
+    "Yocto_Project/README.md",
+    "Yocto_Project/docs/06_Tao_Custom_Layer_Viet_Recipe_Va_Custom_Image.md",
+    "Yocto_Project/docs/05_Thuc_Hanh_Step_By_Step_Build_Image_Va_Emulation.md",
+    "Yocto_Project/docs/04_Quy_Trinh_BitBake_Task_Execution_Flow.md",
+    "Yocto_Project/docs/03_Cac_Loai_Image_Tieu_Chuan_Va_Y_Nghia.md",
+    "Yocto_Project/docs/02_Giai_Phau_File_Cau_Hinh_local_conf_Va_bblayers_conf.md",
+    "Yocto_Project/docs/01_Kien_Truc_Tong_Quan_Va_Khai_Niem_Cot_Loi.md",
+    "Yocto_Project/docs",
+    "Yocto_Project",
     "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.3. Sentence Linkers & Paragraph Cohesion.md",
     "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns/6.1. Task 1 - Data Trends, Comparisons & Processes.md",
     "English/Grammar & Cohesion/6. IELTS Writing Sentence Patterns/6.4. Task 2 - Counter-Argument & Rebuttal Master.md",
@@ -228,13 +237,6 @@
     "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.7. Cleft Sentences (Câu chẻ nhấn mạnh).md",
     "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.6. Subjunctive Mood (Thức giả định).md",
     "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.5. Conditionals & Wish (Câu điều kiện & Ước).md",
-    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.4. Inversion (Đảo ngữ).md",
-    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.3. Exclamatory Sentences (Câu cảm thán).md",
-    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.2. Reported Speech (Câu gián tiếp).md",
-    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.1. Passive Voice (Câu bị động).md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.3. Advanced Prepositions (Giới từ nâng cao).md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.2. Gerunds & Infinitives.md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.1. Basic Prepositions (Giới từ cơ bản).md",
     "UBoot_BeagleBone/docs",
     "UBoot_BeagleBone",
     "English/audio/forehead.mp3",
@@ -251,8 +253,6 @@
     "scratch/add_cohesion_and_clause_breakdown.py",
     "scratch/add_clause_breakdown_to_all_essays.py",
     "Untitled.base",
-    "Untitled 2.base",
-    "scratch/upgrade_indexes.py",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

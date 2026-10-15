@@ -64,8 +64,10 @@ tags:
 
 | Tiêu Đề Bài Học | Band | Chủ Đề | Bài Mẫu | Tra Từ Vựng | Hướng Dẫn Viết |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| [[Sample_01_One_Global_Language]] | `9.0` | `Language & Globalization` | [[Sample_01_One_Global_Language#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_01_One_Global_Language#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_01_One_Global_Language#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
-| [[Sample_02_Locally_Sourced_Food]] | `9.0` | `Food Miles & Environmental Sustainability` | [[Sample_02_Locally_Sourced_Food#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_02_Locally_Sourced_Food#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_02_Locally_Sourced_Food#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_01_One_Global_Language]] | `9.0` | `Language & Globalization` | [[Sample_01_One_Global_Language#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_01_One_Global_Language#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_01_One_Global_Language#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng (Actionable Guide)|Cách Viết]] |
+| [[Sample_02_Locally_Sourced_Food]] | `9.0` | `Food Miles & Environmental Sustainability` | [[Sample_02_Locally_Sourced_Food#3. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_02_Locally_Sourced_Food#4. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_02_Locally_Sourced_Food#6. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng (Actionable Guide)|Cách Viết]] |
+| [[Sample_03_Remote_Working_Telecommuting]] | `9.0` | `Remote Working and Telecommuting` | [[Sample_03_Remote_Working_Telecommuting#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_03_Remote_Working_Telecommuting#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_03_Remote_Working_Telecommuting#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_04_Cashless_Society_Digital_Payments]] | `9.0` | `Transition Toward a Completely Cashless Society` | [[Sample_04_Cashless_Society_Digital_Payments#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_04_Cashless_Society_Digital_Payments#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_04_Cashless_Society_Digital_Payments#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
 
 ---
 

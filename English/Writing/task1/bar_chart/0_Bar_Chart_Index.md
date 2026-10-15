@@ -66,7 +66,10 @@ tags:
 
 | Tiêu Đề Bài Học | Band | Chủ Đề | Bài Mẫu | Tra Từ Vựng | Hướng Dẫn Viết |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| [[Sample_01_Consumer_Goods_Spending]] | `9.0` | `Economy & Consumer Spending` | [[Sample_01_Consumer_Goods_Spending#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_01_Consumer_Goods_Spending#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_01_Consumer_Goods_Spending#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_01_Consumer_Goods_Spending]] | `9.0` | `Economy & Consumer Spending` | [[Sample_01_Consumer_Goods_Spending#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_01_Consumer_Goods_Spending#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_01_Consumer_Goods_Spending#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng (Actionable Guide)|Cách Viết]] |
+| [[Sample_02_Telephone_Calls_UK]] | `9.0` | `Telecommunications & Call Durations in the UK` | [[Sample_02_Telephone_Calls_UK#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_02_Telephone_Calls_UK#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_02_Telephone_Calls_UK#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng (Actionable Guide)|Cách Viết]] |
+| [[Sample_03_House_Prices_Five_Cities]] | `9.0` | `Percentage Change in House Prices Across Five Global Cities` | [[Sample_03_House_Prices_Five_Cities#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_03_House_Prices_Five_Cities#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_03_House_Prices_Five_Cities#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_04_Divorce_Rates_Finland_Sweden]] | `9.0` | `Divorce Rates in Finland and Sweden (2011 - 2015)` | [[Sample_04_Divorce_Rates_Finland_Sweden#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_04_Divorce_Rates_Finland_Sweden#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_04_Divorce_Rates_Finland_Sweden#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
 
 ---
 

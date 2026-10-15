@@ -18,29 +18,35 @@ Chào mừng bạn đến với hệ sinh thái học **IELTS Writing** được
 
 ---
 
-## 📊 1. IELTS Writing Task 1 (Academic Reports)
+## 📊 1. IELTS Writing Task 1 (Academic Reports) — `27 bài mẫu`
 
 | Dạng Bài (Task 1 Type) | Số Lượng Bài Đã Có | Cẩm Nang & Mục Lục Chi Tiết |
 | :--- | :---: | :--- |
-| 📊 **Bar Chart (Biểu đồ cột)** | `1 bài mẫu` | [[task1/bar_chart/0_Bar_Chart_Index\|Cẩm nang & Mục lục 🔗]] |
-| 📈 **Line Graph (Biểu đồ đường)** | `1 bài mẫu` | [[task1/line_graph/0_Line_Graph_Index\|Cẩm nang & Mục lục 🔗]] |
-| 🥧 **Pie Chart (Biểu đồ tròn)** | `1 bài mẫu` | [[task1/pie_chart/0_Pie_Chart_Index\|Cẩm nang & Mục lục 🔗]] |
-| 📋 **Table (Bảng số liệu)** | `1 bài mẫu` | [[task1/table/0_Table_Index\|Cẩm nang & Mục lục 🔗]] |
-| 🗺️ **Map (Bản đồ biến đổi)** | `3 bài mẫu` | [[task1/map/0_Map_Index\|Cẩm nang & Mục lục 🔗]] |
-| ⚙️ **Process (Quy trình sản xuất / Tự nhiên)** | `3 bài mẫu` | [[task1/process/0_Process_Index\|Cẩm nang & Mục lục 🔗]] |
-| 📑 **Mixed Chart (Biểu đồ kết hợp)** | `1 bài mẫu` | [[task1/mixed_chart/0_Mixed_Chart_Index\|Cẩm nang & Mục lục 🔗]] |
+| 📊 **Bar Chart (Biểu đồ cột)** | `4 bài mẫu` | [[task1/bar_chart/0_Bar_Chart_Index\|Cẩm nang & Mục lục 🔗]] |
+| 📈 **Line Graph (Biểu đồ đường)** | `4 bài mẫu` | [[task1/line_graph/0_Line_Graph_Index\|Cẩm nang & Mục lục 🔗]] |
+| 🥧 **Pie Chart (Biểu đồ tròn)** | `4 bài mẫu` | [[task1/pie_chart/0_Pie_Chart_Index\|Cẩm nang & Mục lục 🔗]] |
+| 📋 **Table (Bảng số liệu)** | `4 bài mẫu` | [[task1/table/0_Table_Index\|Cẩm nang & Mục lục 🔗]] |
+| 🗺️ **Map (Bản đồ biến đổi)** | `4 bài mẫu` | [[task1/map/0_Map_Index\|Cẩm nang & Mục lục 🔗]] |
+| ⚙️ **Process (Quy trình sản xuất / Tự nhiên)** | `4 bài mẫu` | [[task1/process/0_Process_Index\|Cẩm nang & Mục lục 🔗]] |
+| 📑 **Mixed Chart (Biểu đồ kết hợp)** | `3 bài mẫu` | [[task1/mixed_chart/0_Mixed_Chart_Index\|Cẩm nang & Mục lục 🔗]] |
 
 ---
 
-## 📝 2. IELTS Writing Task 2 (Academic Essays)
+## 📝 2. IELTS Writing Task 2 (Academic Essays) — `23 bài mẫu`
 
 | Dạng Bài (Task 2 Type) | Số Lượng Bài Đã Có | Cẩm Nang & Mục Lục Chi Tiết |
 | :--- | :---: | :--- |
-| ⚖️ **Agree or Disagree (Quan điểm / Opinion)** | `2 bài mẫu` | [[task2/agree_disagree/0_Agree_Disagree_Index\|Cẩm nang & Mục lục 🔗]] |
-| 👥 **Discuss Both Views (Thảo luận 2 mặt)** | `1 bài mẫu` | [[task2/discuss_both_views/0_Discuss_Both_Views_Index\|Cẩm nang & Mục lục 🔗]] |
-| 🔍 **Cause / Problem & Solution (Nguyên nhân & Giải pháp)** | `1 bài mẫu` | [[task2/problem_solution/0_Problem_Solution_Index\|Cẩm nang & Mục lục 🔗]] |
-| ⚖️ **Advantages & Disadvantages (Lợi ích & Bất lợi)** | `2 bài mẫu` | [[task2/advantages_disadvantages/0_Advantages_Disadvantages_Index\|Cẩm nang & Mục lục 🔗]] |
-| ❓ **Direct Questions (Câu hỏi trực tiếp / Hai phần)** | `1 bài mẫu` | [[task2/direct_questions/0_Direct_Questions_Index\|Cẩm nang & Mục lục 🔗]] |
+| ⚖️ **Agree or Disagree (Quan điểm / Opinion)** | `5 bài mẫu` | [[task2/agree_disagree/0_Agree_Disagree_Index\|Cẩm nang & Mục lục 🔗]] |
+| 👥 **Discuss Both Views (Thảo luận 2 mặt)** | `5 bài mẫu` | [[task2/discuss_both_views/0_Discuss_Both_Views_Index\|Cẩm nang & Mục lục 🔗]] |
+| 🔍 **Cause / Problem & Solution (Nguyên nhân & Giải pháp)** | `5 bài mẫu` | [[task2/problem_solution/0_Problem_Solution_Index\|Cẩm nang & Mục lục 🔗]] |
+| ⚖️ **Advantages & Disadvantages (Lợi ích & Bất lợi)** | `4 bài mẫu` | [[task2/advantages_disadvantages/0_Advantages_Disadvantages_Index\|Cẩm nang & Mục lục 🔗]] |
+| ❓ **Direct Questions (Câu hỏi trực tiếp / Hai phần)** | `4 bài mẫu` | [[task2/direct_questions/0_Direct_Questions_Index\|Cẩm nang & Mục lục 🔗]] |
+
+---
+
+> [!TIP] 👑 Đại Cẩm Nang Tổng Hợp Cấu Trúc Câu & Ngữ Pháp (Task 1 & Task 2)
+> Đã đúc kết và hệ thống hóa toàn bộ công thức viết mở bài, tổng quan, xu hướng, tỷ lệ, so sánh, bản đồ, quy trình, luận điểm, liên kết nhân quả đa tầng và kết bài từ **50 bài mẫu Band 8.5 - 9.0**:
+> 👉 [[Master_Structures_Task1_and_Task2|Đại Cẩm Nang Cấu Trúc Câu IELTS Writing Task 1 & Task 2 (Band 9.0) 🔗]]
 
 ---
 

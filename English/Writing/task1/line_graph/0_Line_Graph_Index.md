@@ -65,7 +65,10 @@ tags:
 
 | Tiêu Đề Bài Học | Band | Chủ Đề | Bài Mẫu | Tra Từ Vựng | Hướng Dẫn Viết |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| [[Sample_01_Spreads_Consumption]] | `9.0` | `Food & Nutrition Trends` | [[Sample_01_Spreads_Consumption#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_01_Spreads_Consumption#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_01_Spreads_Consumption#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_01_Spreads_Consumption]] | `9.0` | `Food & Nutrition Trends` | [[Sample_01_Spreads_Consumption#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_01_Spreads_Consumption#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_01_Spreads_Consumption#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng (Actionable Guide)|Cách Viết]] |
+| [[Sample_02_Fast_Food_Consumption_UK]] | `9.0` | `Fast Food Consumption Trends in the UK (1970 - 1990)` | [[Sample_02_Fast_Food_Consumption_UK#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_02_Fast_Food_Consumption_UK#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_02_Fast_Food_Consumption_UK#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_03_Car_Theft_Four_Countries]] | `9.0` | `Car Theft Trends in Four Developed Countries (1990 - 1999)` | [[Sample_03_Car_Theft_Four_Countries#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_03_Car_Theft_Four_Countries#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_03_Car_Theft_Four_Countries#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_04_Carbon_Dioxide_Emissions_Four_Nations]] | `9.0` | `Carbon Dioxide Emissions Per Capita in Four European Nations (1967 - 2007)` | [[Sample_04_Carbon_Dioxide_Emissions_Four_Nations#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_04_Carbon_Dioxide_Emissions_Four_Nations#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_04_Carbon_Dioxide_Emissions_Four_Nations#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
 
 ---
 

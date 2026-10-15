@@ -64,7 +64,10 @@ tags:
 
 | Tiêu Đề Bài Học | Band | Chủ Đề | Bài Mẫu | Tra Từ Vựng | Hướng Dẫn Viết |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| [[Sample_01_Energy_Production_France]] | `9.0` | `Energy & Environment` | [[Sample_01_Energy_Production_France#2. 📝 Bài Viết Mẫu Chuẩn|Xem Bài Mẫu]] | [[Sample_01_Energy_Production_France#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm"|Tra Từ Vựng]] | [[Sample_01_Energy_Production_France#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_01_Energy_Production_France]] | `9.0` | `Energy & Environment` | [[Sample_01_Energy_Production_France#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_01_Energy_Production_France#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_01_Energy_Production_France#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng (Actionable Guide)|Cách Viết]] |
+| [[Sample_02_Online_Shopping_Retail_Sectors]] | `9.0` | `Online Retail Sales Across Four Sectors in New Zealand (2003 vs 2013)` | [[Sample_02_Online_Shopping_Retail_Sectors#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_02_Online_Shopping_Retail_Sectors#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_02_Online_Shopping_Retail_Sectors#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_03_Water_Usage_Global_Sectors]] | `9.0` | `Global Water Usage Across Agricultural, Industrial, and Domestic Sectors` | [[Sample_03_Water_Usage_Global_Sectors#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_03_Water_Usage_Global_Sectors#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_03_Water_Usage_Global_Sectors#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
+| [[Sample_04_Household_Energy_Use_Australia]] | `9.0` | `Household Energy Use and Greenhouse Gas Emissions in Australia` | [[Sample_04_Household_Energy_Use_Australia#2. 📝 Bài Viết Mẫu Chuẩn (Band 9.0 Model Answer)|Xem Bài Mẫu]] | [[Sample_04_Household_Energy_Use_Australia#3. 💎 Kho Từ Vựng & Collocations "Ăn Điểm" (Lexical Resource)|Tra Từ Vựng]] | [[Sample_04_Household_Energy_Use_Australia#5. 🎯 Hướng Dẫn Tự Viết & Template Ứng Dụng|Cách Viết]] |
 
 ---
 
