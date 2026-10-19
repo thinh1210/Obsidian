@@ -101,3 +101,76 @@ At the ancient [[Necropolis]], a passionate [[Archaeologist]] knelt carefully in
 
 ### Bản dịch Tiếng Việt
 Tại **nghĩa địa cổ** cổ kính, một **nhà khảo cổ học** đầy nhiệt huyết cẩn thận quỳ xuống trên lớp cát bụi. Sử dụng một chiếc **cái bay** nhỏ, cô bắt đầu **khai quật** một **tầng đất** mới được phát hiện bên dưới **tàn tích** ngôi đền đang đổ nát. Cô đang tìm kiếm manh mối về một **nền văn minh** **cổ xưa** đã biến mất hàng thiên niên kỷ trước. Trong vòng vài giờ, cô đã phát hiện ra một **cổ vật** đáng chú ý—một chiếc bình bằng **đất sét** được trang trí đẹp mắt có niên đại từ thời kỳ **Đồ đá cũ**. Gần đó, lối vào của một **ngôi mộ** bị lãng quên từ lâu đã để lộ một chiếc **quan tài đá** khổng lồ được bao phủ bởi những **chữ tượng hình** phức tạp. Khám phá đáng kinh ngạc này hứa hẹn sẽ giúp các nhà sử học **tái dựng** quá khứ và **bảo tồn** một **di sản** văn hóa vô giá cho các thế hệ tương lai.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Khai quật tại khu di chỉ khảo cổ & Phân tầng địa tầng (Excavation at the Archaeological Site & Stratigraphy)
+> **Bối cảnh thực tế:** Nhà khảo cổ học trưởng hướng dẫn đồng nghiệp tại một di chỉ khai quật lăng mộ cổ đại, kiểm tra các lớp địa tầng đất đá và hiện vật quách đá.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Marcus:** Dr. Carter, how deep should we **[[Excavate]]** this particular quadrant of the **[[Site]]**?
+  *(Tiến sĩ Carter, chúng ta nên khai quật sâu bao nhiêu ở góc phần tư cụ thể này của khu di chỉ?)*
+- **Dr. Carter:** Proceed very carefully with your hand **[[Trowel]]**. We must analyze the soil **[[Stratigraphy]]** layer by layer to avoid disrupting each distinct **[[Stratum]]**.
+  *(Hãy tiến hành thật cẩn thận bằng chiếc bay cầm tay của cậu. Chúng ta phải phân tích địa tầng đất theo từng lớp để tránh làm xáo trộn từng tầng địa chất riêng biệt.)*
+- **Marcus:** Look here! As the sediment cleared, I exposed the corner of an ornate stone **[[Sarcophagus]]** embedded near the burial chamber.
+  *(Hãy nhìn này! Khi lớp trầm tích được dọn sạch, tôi phát hiện ra góc của một cỗ quách bằng đá chạm khắc tinh xảo nằm ngay gần phòng mai táng.)*
+- **Dr. Carter:** Magnificent discovery! This monumental **[[Tomb]]** likely dates back to the dynastic epoch, housing an ancient noble **[[Skeleton]]**.
+  *(Phát hiện thật vĩ đại! Ngôi mộ đồ sộ này có khả năng có từ thời kỳ vương triều, chứa bộ hài cốt của một quý tộc cổ đại.)*
+- **Marcus:** Should we log the ceramic **[[Pottery]]** fragments and catalog every recovered **[[Artifact]]** before dusk?
+  *(Chúng ta có nên ghi nhật ký các mảnh đồ gốm và lập danh mục cho từng cổ vật thu hồi được trước khi trời tối không?)*
+- **Dr. Carter:** Yes, immediate documentation is vital so we can **[[Preserve]]** their exact archaeological context for future generations.
+  *(Đúng vậy, việc ghi chép lại tài liệu ngay lập tức là tối quan trọng để chúng ta có thể bảo tồn chính xác bối cảnh khảo cổ của chúng cho các thế hệ tương lai.)*
+
+---
+
+### 🌟 Tình huống 2: Xác định niên đại phóng xạ & Khám phá chữ tượng hình (Radiocarbon Dating & Deciphering Hieroglyphics)
+> **Bối cảnh thực tế:** Các chuyên gia trong phòng thí nghiệm bảo tàng thảo luận về kết quả định tuổi carbon phóng xạ và giải mã văn tự cổ trên phiến đá cự thạch.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Sophia:** Dr. Bennett, have the **[[Radiocarbon]]** dating results arrived for the wooden beams found inside the ancient **[[Megalith]]**?
+  *(Tiến sĩ Bennett, kết quả xác định niên đại bằng đồng vị phóng xạ carbon cho các thanh xà gỗ tìm thấy bên trong cự thạch cổ đại đã có chưa?)*
+- **Dr. Bennett:** Yes, the testing confirms they date back over four millennia, firmly placing the monument within the Bronze Age **[[Civilization]]**.
+  *(Rồi, kết quả kiểm tra xác nhận chúng có niên đại hơn bốn thiên niên kỷ trước, định vị chắc chắn công trình này thuộc nền văn minh Thời đại Đồ đồng.)*
+- **Sophia:** That aligns beautifully with the carved **[[Hieroglyphics]]** and stone **[[Petroglyph|petroglyphs]]** we discovered near the cave entrance.
+  *(Điều đó trùng khớp tuyệt vời với các chữ tượng hình chạm khắc và các hình khắc trên đá mà chúng ta đã phát hiện gần lối vào hang động.)*
+- **Dr. Bennett:** Indeed. The museum board has authorized us to **[[Reconstruct]]** the sacrificial altar for a major **[[Exhibit]]** at the national **[[Museum]]**.
+  *(Đúng vậy. Ban giám đốc bảo tàng đã cho phép chúng ta phục dựng lại bàn thờ hiến tế cho một cuộc trưng bày lớn tại bảo tàng quốc gia.)*
+- **Sophia:** Visitors will be thrilled to view the sacred gilded **[[Reliquary]]** and golden **[[Treasure]]** alongside our detailed research findings.
+  *(Khách tham quan sẽ vô cùng phấn khích khi được chiêm ngưỡng chiếc hòm đựng thánh tích mạ vàng linh thiêng và kho báu bằng vàng bên cạnh những phát hiện nghiên cứu chi tiết của chúng ta.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi khai quật & Phân tích thực địa:
+- **`excavate an archaeological site`** *(khai quật một khu di chỉ khảo cổ)*:
+  - *"The team spent six months preparing to **[[Excavate]]** the remote desert **[[Site]]**."*
+  - *(Đội ngũ đã dành sáu tháng để chuẩn bị khai quật khu di chỉ sa mạc hẻo lánh.)*
+- **`analyze soil stratigraphy`** *(phân tích địa tầng đất)*:
+  - *"Careful recording of the **[[Stratigraphy]]** reveals chronological human habitation."*
+  - *(Việc ghi chép cẩn thận địa tầng tiết lộ các thời kỳ con người cư trú theo thứ tự thời gian.)*
+- **`work with a trowel`** *(làm việc bằng bay khảo cổ)*:
+  - *"Every field **[[Archaeologist]]** knows how to uncover fragile relics with a simple hand **[[Trowel]]**."*
+  - *(Mỗi nhà khảo cổ học thực địa đều biết cách hé lộ những di vật mong manh bằng chiếc bay cầm tay đơn giản.)*
+
+#### 2. Khi bảo tồn hiện vật & Lăng mộ:
+- **`stone sarcophagus`** *(cỗ quách đá)*:
+  - *"The carved **[[Sarcophagus]]** remained intact despite grave robbers penetrating the outer tomb."*
+  - *(Cỗ quách đá chạm khắc vẫn còn nguyên vẹn dù những kẻ trộm mộ đã đột nhập vào lăng mộ bên ngoài.)*
+- **`preserve ancient pottery`** *(bảo tồn đồ gốm cổ xưa)*:
+  - *"Conservators use specialized resins to **[[Preserve]]** painted Neolithic **[[Pottery]]**."*
+  - *(Các chuyên viên bảo tồn sử dụng loại nhựa chuyên dụng để bảo tồn đồ gốm thời Đồ đá mới có hoa văn.)*
+- **`uncover an ancient tomb`** *(phát hiện lăng mộ cổ đại)*:
+  - *"Excavations inside the royal **[[Necropolis]]** revealed a magnificent **[[Tomb]]**."*
+  - *(Các cuộc khai quật bên trong nghĩa địa hoàng gia đã hé lộ một lăng mộ tráng lệ.)*
+
+#### 3. Khi định tuổi & Trưng bày bảo tàng:
+- **`radiocarbon dating`** *(xác định niên đại bằng carbon phóng xạ)*:
+  - *"Accurate **[[Radiocarbon]]** analysis established that the **[[Skeleton]]** was over three thousand years old."*
+  - *(Phân tích carbon phóng xạ chính xác đã xác định rằng bộ hài cốt có niên đại hơn ba nghìn năm tuổi.)*
+- **`decipher ancient hieroglyphics`** *(giải mã chữ tượng hình cổ đại)*:
+  - *"Scholars worked for decades to fully decipher the **[[Hieroglyphics]]** carved onto the **[[Stone]]**."*
+  - *(Các học giả đã nghiên cứu suốt nhiều thập kỷ để giải mã trọn vẹn chữ tượng hình khắc trên phiến đá.)*
+- **`curate a museum exhibit`** *(tổ chức trưng bày tại bảo tàng)*:
+  - *"The national **[[Museum]]** designed a state-of-the-art **[[Exhibit]]** to display the royal **[[Treasure]]**."*
+  - *(Bảo tàng quốc gia đã thiết kế một gian trưng bày hiện đại để phô bày kho báu hoàng gia.)*

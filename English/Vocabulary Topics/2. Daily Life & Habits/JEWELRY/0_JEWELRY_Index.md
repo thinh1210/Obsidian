@@ -108,3 +108,75 @@ In the velvet-lined **[[Jewelry box]]**, Clara kept her family’s most **[[Prec
 
 ### Bản dịch Tiếng Việt
 Trong chiếc **hộp trang sức** lót nhung, Clara cất giữ món **kỷ vật gia truyền** **quý giá** nhất của gia đình mình—một chiếc vòng cổ **thiết kế riêng** tuyệt đẹp. Sợi dây chuyền **vàng** được tạo tác từ những chi tiết **chạm trổ** tinh xảo, thể hiện tay nghề của một nghệ nhân bậc thầy. Ở chính giữa, một viên **đá quý** lớn được cố định trong một **khung đính** bằng bạch kim chắc chắn, hai bên là hai hạt **ngọc trai** sáng bóng. Cô đã yêu cầu **chạm khắc** tên viết tắt của mẹ mình lên mặt sau của **mặt dây chuyền**. Món **đồ trang sức** tinh tế này đã được **đóng dấu kiểm định** đầy đủ để chứng nhận độ tinh khiết của nó. Tuy nhiên, ngay trước lễ cưới, Clara nhận thấy chiếc **khóa gài** bằng kim loại bị lỏng. Cô cẩn thận siết chặt lại, đảm bảo chiếc vòng cổ không bị rơi khi cô bước đi trên lễ đường, sẵn sàng đeo nó với niềm tự hào.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lựa chọn nhẫn đính hôn may đo tại tiệm kim hoàn cao cấp (Custom Engagement Ring Consultation)
+> **Bối cảnh thực tế:** Một khách hàng cùng chuyên gia kim hoàn thảo luận để thiết kế một chiếc nhẫn đính hôn độc bản (bespoke), lựa chọn viên kim cương chủ solitaire, chất liệu khung đính và chạm khắc thông điệp kỷ niệm.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Julian (Jeweler):** Welcome to our atelier, Arthur! Are you looking for a ready-made piece or a **[[Bespoke]]** design for your proposal?
+  *(Chào mừng anh đến với xưởng kim hoàn của chúng tôi, Arthur! Anh đang tìm kiếm một mẫu chế tác sẵn hay muốn thiết kế riêng một chiếc nhẫn đính hôn độc bản?)*
+- **Arthur:** I'd like a custom engagement **[[Ring]]**. She loves classic elegance, so I was thinking of a **[[Platinum]]** band with a brilliant cut **[[Solitaire]]**.
+  *(Tôi muốn đặt làm riêng một chiếc nhẫn đính hôn. Cô ấy yêu nét thanh lịch cổ điển, nên tôi đang nghĩ đến phần đai bằng bạch kim với một viên kim cương đơn chủ đạo giác cắt rực rỡ.)*
+- **Julian:** An exquisite choice! Platinum provides unmatched durability for holding a high-**[[Carat]]** **[[Diamond]]**. Look how this two-carat stone catches the light and begins to **[[Sparkle]]**.
+  *(Một lựa chọn tinh tế tuyệt vời! Bạch kim mang lại độ bền vô song để giữ chắc viên kim cương có trọng lượng carat cao. Anh hãy nhìn xem viên đá hai carat này bắt sáng và bắt đầu tỏa ánh lấp lánh như thế nào.)*
+- **Arthur:** The clarity is magnificent. Is the metal officially **[[Hallmarked]]** to certify its purity?
+  *(Độ trong suốt thực sự tuyệt mỹ. Kim loại này đã được đóng dấu kiểm định chính thức để chứng nhận độ tinh khiết chưa anh?)*
+- **Julian:** Absolutely. Every piece from our workshop is certified and **[[Hallmarked]]**. We can also secure the **[[Gemstone]]** in a delicate four-prong **[[Setting]]** and **[[Engrave]]** your special date along the inner band.
+  *(Chắc chắn rồi. Mọi tác phẩm từ xưởng chế tác của chúng tôi đều được kiểm định và đóng dấu chứng nhận đầy đủ. Chúng tôi cũng có thể cố định viên đá quý trong khung đính bốn chấu thanh mảnh và chạm khắc ngày kỷ niệm đặc biệt của hai bạn dọc theo mặt trong lòng nhẫn.)*
+- **Arthur:** That sounds wonderful. Please place it in a velvet **[[Jewelry box]]** once finished—it will make the perfect **[[Gift]]**!
+  *(Nghe thật tuyệt vời. Xin vui lòng đặt nó vào chiếc hộp trang sức lót nhung khi hoàn thiện nhé—nó sẽ là món quà cầu hôn hoàn hảo nhất!)*
+
+---
+
+### 🌟 Tình huống 2: Thẩm định báu vật gia truyền & Trang sức cổ (Appraising an Antique Family Heirloom)
+> **Bối cảnh thực tế:** Một nhà sưu tầm mang chiếc vòng cổ cổ điển nạm ngọc gia truyền đến chuyên gia đá quý để phục hồi chốt gài và đánh giá giá trị lịch sử cũng như thẩm mỹ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Evelyn:** Marcus, I inherited this **[[Antique]]** necklace from my grandmother. It has been a treasured family **[[Heirloom]]** for four generations.
+  *(Marcus, tôi thừa kế chiếc vòng cổ cổ này từ bà ngoại tôi. Nó là món kỷ vật gia truyền vô giá suốt bốn thế hệ qua.)*
+- **Marcus (Gemologist):** What a rare treasure, Evelyn! The intricate gold **[[Filigree]]** work is breathtaking, and the center is **[[Inlaid]]** with an **[[Opalescent]]** cabochon surrounded by natural **[[Pearl|pearls]]**.
+  *(Quả là một kho báu quý hiếm, Evelyn! Kỹ thuật chạm trổ hoa văn filigree bằng vàng tinh xảo đến nghẹt thở, và phần trung tâm được khảm viên ngọc mắt mèo óng ánh bao quanh bởi những hạt ngọc trai tự nhiên.)*
+- **Evelyn:** I noticed that the tiny vintage **[[Clasp]]** has become loose. I am terrified of losing such a **[[Precious]]** **[[Adornment]]** whenever I **[[Wear]]** it.
+  *(Tôi nhận thấy chiếc khóa gài cổ nhỏ xíu đã bị lỏng. Tôi vô cùng lo sợ sẽ làm rơi mất món trang sức quý giá này mỗi khi đeo nó.)*
+- **Marcus:** Rest assured, we can reinforce the safety clasp without altering the original craftsmanship. Are those genuine **[[Ruby|rubies]]** accenting the **[[Pendant]]**?
+  *(Cô hoàn toàn có thể yên tâm, chúng tôi có thể gia cố lại móc khóa an toàn mà không làm ảnh hưởng đến tay nghề thủ công nguyên bản. Kia có phải những viên hồng ngọc tự nhiên điểm xuyết trên mặt dây chuyền không?)*
+- **Evelyn:** Yes, along with a deep blue **[[Sapphire]]** near the bail. She kept it safe inside a locked drawer, away from ordinary **[[Trinket|trinkets]]**.
+  *(Đúng vậy, cùng với một viên đá ngọc bích xanh thẫm gần móc treo. Bà tôi luôn cất giữ nó cẩn thận trong ngăn kéo khóa kín, tách biệt hoàn toàn với những món nữ trang rẻ tiền thông thường.)*
+- **Marcus:** Its historical provenance and pristine gemstones make it exceptionally **[[Valuable]]**. Once cleaned, the facets will **[[Shine]]** with historic brilliance!
+  *(Nguồn gốc lịch sử cùng những viên đá quý nguyên vẹn khiến món đồ này có giá trị cực kỳ cao. Sau khi được làm sạch, các giác cắt sẽ tỏa sáng với vẻ rực rỡ mang đậm dấu ấn thời gian!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi mô tả đá quý & Kỹ thuật chế tác kim hoàn:
+- **`bespoke engagement ring`** *(nhẫn đính hôn thiết kế riêng, độc bản)*:
+  - *"He surprised her with a **[[Bespoke]]** **[[Ring]]** featuring a certified conflict-free **[[Diamond]]**."*
+  - *(Anh làm cô bất ngờ với chiếc nhẫn đính hôn đặt thiết kế riêng đính viên kim cương có nguồn gốc chứng nhận rõ ràng.)*
+- **`delicate filigree setting`** *(khung đính chạm trổ hoa văn filigree tinh xảo)*:
+  - *"The vintage brooch was crafted with delicate gold **[[Filigree]]** and **[[Inlaid]]** emeralds."*
+  - *(Chiếc trâm cài áo cổ được chế tác với họa tiết chạm trổ kim hoàn bằng vàng tinh xảo và khảm ngọc lục bảo.)*
+- **`hallmarked platinum and gold`** *(bạch kim và vàng có đóng dấu kiểm định chuẩn)*:
+  - *"Always verify that fine jewelry is officially **[[Hallmarked]]** before purchasing high-value items."*
+  - *(Hãy luôn kiểm tra xem trang sức cao cấp có được đóng dấu kiểm định chuẩn hay không trước khi mua các món đồ giá trị cao.)*
+
+#### 2. Khi nói về kỷ vật gia truyền & Giá trị lưu truyền:
+- **`cherished family heirloom`** *(kỷ vật gia truyền được trân quý)*:
+  - *"The sapphire necklace has been a cherished family **[[Heirloom]]** passed down through generations."*
+  - *(Chiếc vòng cổ đính đá sapphire là một kỷ vật gia truyền được trân quý truyền qua nhiều thế hệ.)*
+- **`precious gemstone adornment`** *(món đồ trang sức đính đá quý giá trị cao)*:
+  - *"Royal regalia features magnificent crowns decorated with every known **[[Precious]]** **[[Gemstone]]**."*
+  - *(Phẩm phục hoàng gia nổi bật với những chiếc vương miện lộng lẫy được đính đủ mọi loại đá quý giá trị cao.)*
+- **`secure clasp and setting`** *(khóa cài và khung đính chắc chắn)*:
+  - *"Make sure the jeweler inspects the prong **[[Setting]]** and safety **[[Clasp]]** regularly."*
+  - *(Hãy chắc chắn rằng người thợ kim hoàn kiểm tra khung đính chấu và khóa gài an toàn định kỳ.)*
+
+#### 3. Khi nhận định về độ sáng bóng & Vẻ đẹp thẩm mỹ:
+- **`sparkle and shine`** *(lấp lánh và tỏa sáng rực rỡ)*:
+  - *"Under the gallery spotlights, the solitary **[[Ruby]]** began to **[[Sparkle]]** and **[[Shine]]** intensely."*
+  - *(Dưới ánh đèn rọi của phòng trưng bày, viên hồng ngọc đơn lẻ bắt đầu lấp lánh và tỏa sáng rực rỡ mãnh liệt.)*
+- **`opalescent luster`** *(ánh óng ánh huyền ảo như ngọc mắt mèo)*:
+  - *"The genuine saltwater **[[Pearl]]** earrings radiated an enchanting, **[[Opalescent]]** glow."*
+  - *(Đôi khuyên tai ngọc trai biển tự nhiên tỏa ra một ánh sáng óng ánh huyền ảo đầy mê hoặc.)*"

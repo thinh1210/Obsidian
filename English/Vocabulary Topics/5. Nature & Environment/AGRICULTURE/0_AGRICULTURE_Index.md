@@ -108,3 +108,73 @@ In modern **[[Agriculture]]**, forward-thinking farmers are shifting away from t
 
 ### Bản dịch Tiếng Việt
 Trong **ngành nông nghiệp** hiện đại, các nông dân có tư duy tiến bộ đang chuyển hướng khỏi phương thức **độc canh** truyền thống, một tập quán thường dẫn đến tình trạng **xói mòn đất** nghiêm trọng và suy kiệt chất dinh dưỡng. Thay vào đó, họ áp dụng các nguyên lý thiết kế **nông nghiệp vĩnh cửu** để quản lý đất canh tác **có thể trồng trọt được**. Để **canh tác** thành công các loại cây trồng khác nhau, họ **tưới tiêu** cho đồng ruộng của mình bằng hệ thống tái chế nước tiên tiến. Thay vì phụ thuộc vào các nguồn đầu vào là **thuốc trừ sâu** hóa học, họ ưu tiên các giải pháp **hữu cơ** để kiểm soát sâu bệnh. Đôi khi, một cánh đồng được cố ý **để ải (bỏ hoang)** để phục hồi **độ tơi xốp** và độ phì nhiêu của đất một cách tự nhiên. Sự kết hợp giữa **ngành chăn nuôi** động vật và luân canh cây trồng này không chỉ đảm bảo **sản lượng** cây trồng ổn định mà còn thiết lập một hệ sinh thái **bền vững**. Hệ quả là, mô hình thân thiện với môi trường này đang làm thay đổi diện mạo của **ngành công nghiệp nông nghiệp** toàn cầu.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Chuyển đổi mô hình nông nghiệp sinh thái & Nhà kính thông minh (Smart Farming & Agroecological Transition)
+> **Bối cảnh thực tế:** Tại một diễn đàn công nghệ nông nghiệp vùng nông thôn, một chuyên gia kỹ thuật và một chủ trang trại trao đổi về việc giảm thiểu hóa chất, bảo vệ đất trồng trọt và lắp đặt hệ thống thủy canh trong nhà kính để nâng cao sản lượng nông sản sạch.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Julian:** Mr. Henderson, I noticed you began transitioning your **[[Arable]]** land toward organic practices rather than relying on synthetic chemicals.
+  *(Bác Henderson, cháu nhận thấy bác đã bắt đầu chuyển đổi diện tích đất trồng trọt của mình sang các phương pháp hữu cơ thay vì phụ thuộc vào hóa chất tổng hợp.)*
+- **Mr. Henderson:** That's right, Julian. Decades of intensive chemical **[[Fertilizer]]** and harsh **[[Pesticide]]** applications severely degraded our **[[Soil]]** biology and accelerated **[[Soil erosion]]** on the hillside.
+  *(Đúng vậy, Julian à. Nhiều thập kỷ bón phân hóa học đậm đặc và phun thuốc trừ sâu độc hại đã làm thoái hóa nghiêm trọng hệ vi sinh của đất và đẩy nhanh nạn xói mòn đất trên sườn đồi.)*
+- **Julian:** How have the first trials in your newly built **[[Greenhouse]]** performed?
+  *(Thế các đợt thử nghiệm đầu tiên trong nhà kính mới xây của bác đạt kết quả thế nào rồi?)*
+- **Mr. Henderson:** Outstanding! By adopting commercial **[[Hydroponics]]** and automated drip lines to **[[Irrigate]]** each **[[Crop]]**, we slashed water usage by 65% while maximizing our leafy green **[[Yield]]**.
+  *(Tuyệt vời lắm! Nhờ áp dụng kỹ thuật thủy canh thương mại và đường ống tưới nhỏ giọt tự động để tưới tiêu cho từng loại cây trồng, chúng tôi đã giảm 65% lượng nước sử dụng trong khi vẫn tối đa hóa sản lượng rau xanh.)*
+- **Julian:** Combining modern technology with natural compost will establish a truly **[[Sustainable]]** foundation for your family **[[Agribusiness]]**.
+  *(Việc kết hợp công nghệ hiện đại với phân ủ tự nhiên sẽ tạo lập một nền tảng thực sự bền vững cho hoạt động kinh doanh nông nghiệp của gia đình bác.)*
+- **Mr. Henderson:** Precisely. Our ultimate ambition is to restore optimal **[[Tilth]]** to every acre so the land can **[[Cultivate]]** healthy food for decades to come.
+  *(Chính xác là vậy. Hoài bão lớn nhất của chúng tôi là phục hồi độ tơi xốp tối ưu cho từng mẫu đất để vùng đất có thể canh tác ra thực phẩm lành mạnh cho nhiều thập kỷ tới.)*
+
+---
+
+### 🌟 Tình huống 2: Quản lý trang trại chăn nuôi & Dự trữ thức ăn gia súc vụ đông (Livestock Pasture Rotation & Winter Barn Preparations)
+> **Bối cảnh thực tế:** Chủ trang trại gia súc thảo luận với người quản lý chăn nuôi về kế hoạch luân chuyển đàn bò sữa giữa các cánh đồng cỏ tự nhiên và tích trữ cỏ khô vào kho thóc trước đợt sương giá đầu mùa.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Elena:** Caleb, how is the herd adapting since we shifted them into the eastern **[[Pasture]]**?
+  *(Elena: Caleb, đàn vật nuôi thích nghi thế nào rồi kể từ khi chúng ta chuyển chúng sang bãi cỏ chăn thả phía đông?)*
+- **Caleb:** The **[[Dairy]]** cows are thriving on the fresh ryegrass. Implementing rotational grazing protects the vegetative cover and keeps our **[[Livestock]]** remarkably healthy.
+  *(Caleb: Đàn bò sữa đang phát triển rất tốt nhờ thảm cỏ lúa mạch tươi. Việc luân chuyển chăn thả bảo vệ thảm thực vật che phủ và giữ cho đàn gia súc của chúng ta khỏe mạnh rõ rệt.)*
+- **Elena:** Have you hauled the baled alfalfa and nutrient-dense **[[Fodder]]** into the dry **[[Barn]]** yet?
+  *(Elena: Anh đã vận chuyển cỏ linh lăng đóng kiện và thức ăn gia súc giàu dinh dưỡng vào nhà kho khô ráo chưa?)*
+- **Caleb:** Yes, we mobilized the new **[[Tractor]]** all weekend to safely store thirty tons of feed before any autumn rain ruins the **[[Grain]]**.
+  *(Caleb: Rồi, chúng tôi đã huy động chiếc máy kéo mới suốt cả dịp cuối tuần để cất giữ an toàn ba mươi tấn thức ăn trước khi mưa thu làm hỏng hạt ngũ cốc.)*
+- **Elena:** Good work. Sound animal **[[Husbandry]]** and proactive seasonal management make all the difference during a long, freezing winter.
+  *(Elena: Làm tốt lắm. Kỹ thuật chăn nuôi gia súc bài bản và sự chủ động quản lý theo mùa vụ tạo nên mọi khác biệt trong suốt mùa đông dài giá buốt.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi bàn về canh tác đất đai & Phục hồi thổ nhưỡng:
+- **`cultivate arable land`** *(canh tác trên đất trồng trọt màu mỡ)*:
+  - *"Generations of farmers have toiled to **[[Cultivate]]** fertile **[[Arable]]** land along the river delta."*
+  - *(Nhiều thế hệ nông dân đã nhọc nhằn lao động để canh tác vùng đất trồng trọt màu mỡ dọc theo vùng châu thổ con sông.)*
+- **`leave the field fallow`** *(để ải đất, bỏ hoang cánh đồng để phục hồi độ phì)*:
+  - *"Agronomists recommend leaving a plot **[[Fallow]]** for one season to replenish organic nitrogen naturally."*
+  - *(Các chuyên gia nông học khuyến nghị nên để ải một mảnh đất trong một mùa vụ nhằm bổ sung lượng nitơ hữu cơ tự nhiên.)*
+- **`combat soil erosion`** *(chống lại hiện tượng xói mòn đất)*:
+  - *"Planting perennial windbreaks is an effective method to prevent severe **[[Soil erosion]]** across open hillsides."*
+  - *(Trồng các hàng cây chắn gió lâu năm là một phương pháp hiệu quả để ngăn chặn xói mòn đất nghiêm trọng trên các sườn đồi trống.)*
+
+#### 2. Khi thảo luận về mùa vụ, sản lượng & Công nghệ nhà kính:
+- **`boost crop yield`** *(tăng năng suất và sản lượng mùa vụ)*:
+  - *"Precision irrigation and enriched compost help growers significantly boost their grain **[[Yield]]**."*
+  - *(Tưới tiêu chính xác và bón phân hữu cơ ủ hoai mục giúp nhà nông nâng cao đáng kể sản lượng ngũ cốc.)*
+- **`shift from monoculture to permaculture`** *(chuyển đổi từ độc canh sang nông nghiệp vĩnh cửu)*:
+  - *"Ecological cooperatives encourage growers to abandon industrial **[[Monoculture]]** and embrace **[[Permaculture]]**."*
+  - *(Các hợp tác xã sinh thái khuyến khích nhà nông từ bỏ phương thức độc canh công nghiệp và hướng tới nông nghiệp vĩnh cửu.)*
+- **`modern greenhouse horticulture`** *(nghề làm vườn trong nhà kính hiện đại)*:
+  - *"High-tech **[[Greenhouse]]** facilities allow delicate berry **[[Horticulture]]** to thrive even in sub-zero climates."*
+  - *(Hệ thống nhà kính công nghệ cao cho phép nghề làm vườn trồng dâu tây nhạy cảm phát triển ngay cả trong khí hậu dưới 0 độ C.)*
+
+#### 3. Khi nói về chăn nuôi gia súc & Kinh tế nông trại:
+- **`pastoralism and livestock grazing`** *(nghề chăn nuôi du mục và chăn thả gia súc)*:
+  - *"Nomadic communities preserve traditional **[[Pastoralism]]** by leading healthy **[[Livestock]]** across highland pastures."*
+  - *(Các cộng đồng du mục gìn giữ nghề du mục chăn thả truyền thống bằng cách dẫn dắt đàn gia súc khỏe mạnh qua các đồng cỏ cao nguyên.)*
+- **`ethical animal husbandry`** *(chăn nuôi gia súc nhân đạo, đúng kỹ thuật)*:
+  - *"Strict adherence to ethical animal **[[Husbandry]]** guarantees superior dairy yields and animal well-being."*
+  - *(Việc tuân thủ nghiêm ngặt phương pháp chăn nuôi động vật nhân đạo đảm bảo sản lượng sữa vượt trội và phúc lợi cho vật nuôi.)*

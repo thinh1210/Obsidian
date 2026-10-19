@@ -162,3 +162,75 @@ Engaging in a creative hobby is a wonderful way to **[[Wind down]]** after a str
 
 ### Bản dịch Tiếng Việt
 Tham gia vào một sở thích sáng tạo là một cách tuyệt vời để **thư giãn** sau một tuần căng thẳng. Cho dù bạn chỉ là một người **nghiệp dư** hay một **người sành sỏi** dày dạn kinh nghiệm, việc tìm kiếm một **thú vui giải trí** cá nhân cho phép bạn **thỏa mãn** những gì mình yêu thích. Ví dụ, một **người đam mê** thủ công có thể dành hàng giờ làm việc **tỉ mỉ**, tập trung vào các chi tiết **tinh xảo** của một bức **thảm thêu** dệt bằng tay. Nhiều người bị **lôi cuốn** bởi **sự khéo léo thủ công** xuất sắc được thể hiện bởi một **nghệ nhân** bậc thầy. Tham gia vào một hoạt động **hấp dẫn** như vậy không chỉ tạo ra cái đẹp; nó còn giúp **phục hồi năng lượng** cho tâm trí và khôi phục sự bình yên trong tâm hồn.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Khám phá đam mê thủ công & Chế tác gốm nghệ thuật (Artisanal Crafting & Pottery Workshop)
+> **Bối cảnh thực tế:** Hai người bạn tham gia một buổi xưởng gốm và thủ công mỹ nghệ vào cuối tuần, trò chuyện về niềm vui đắm chìm vào công việc sáng tạo tỉ mỉ để giải tỏa căng thẳng công việc.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Chloe:** Hannah, your ceramic vase on the potter's wheel is taking shape so gracefully! Your hand movements show remarkable **[[Finesse]]**.
+  *(Hannah, chiếc bình hoa gốm trên bàn xoay của cậu đang thành hình duyên dáng quá! Động tác tay của cậu thể hiện sự khéo léo tinh tế đáng nể đấy.)*
+- **Hannah:** Thank you, Chloe! It took me quite a while to get used to the wet clay. At first, I felt like a clumsy **[[Amateur]]**, but the master **[[Artisan]]** showed me how to shape the clay evenly.
+  *(Cảm ơn Chloe nhé! Tớ đã mất một khoảng thời gian khá lâu mới quen được với khối đất sét ướt. Ban đầu, tớ cứ thấy mình như một người nghiệp dư vụng về, nhưng nghệ nhân bậc thầy đã chỉ cho tớ cách nắn đất thật đều tay.)*
+- **Chloe:** It must take such **[[Meticulous]]** patience to sculpt those fine concentric rings. Are you going to **[[Embellish]]** the surface before firing?
+  *(Hẳn là phải đòi hỏi sự kiên nhẫn cực kỳ tỉ mỉ mới điêu khắc được những đường vân tròn đồng tâm mịn màng thế kia. Cậu có định trang trí tô điểm thêm cho bề mặt trước khi đem nung không?)*
+- **Hannah:** Yes, I plan to etch **[[Intricate]]** botanical patterns, almost like traditional **[[Calligraphy]]** strokes. For me, **[[Pottery]]** is the ideal **[[Pastime]]** to **[[Wind down]]** after long coding sessions.
+  *(Có chứ, tớ định khắc các họa tiết hoa lá tinh xảo, trông gần như những nét thư pháp truyền thống vậy. Đối với tớ, làm đồ gốm là thú tiêu khiển lý tưởng nhất để thư giãn xả hơi sau những giờ lập trình căng thẳng.)*
+- **Chloe:** I totally understand. Engaging in a tactile **[[Craft]]** lets you **[[Indulge]]** in hands-on creativity and completely **[[Rejuvenate]]** your mental energy!
+  *(Tớ hoàn toàn thấu hiểu. Đắm chìm vào một nghề thủ công mang tính xúc giác giúp cậu thỏa sức sáng tạo thực tế và phục hồi trọn vẹn năng lượng tinh thần!)*
+- **Hannah:** Exactly. When the glaze dries, I might even try **[[Glassblowing]]** or **[[Woodworking]]** next month!
+  *(Chính xác luôn. Khi lớp men này khô, tháng tới có khi tớ sẽ thử thêm môn thổi thủy tinh hoặc làm mộc nữa đấy!)*
+
+---
+
+### 🌟 Tình huống 2: Thử thách thể thao mạo hiểm ngoài trời & Leo núi dã ngoại (High-Altitude Mountaineering & Outdoor Adventure)
+> **Bối cảnh thực tế:** Hai nhà leo núi chuẩn bị chinh phục một đỉnh núi hiểm trở, trao đổi về việc rèn luyện thể lực bền bỉ, thích nghi độ cao và cảm giác phấn khích tột độ khi vượt qua giới hạn bản thân.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Victor:** Leo, the trail ahead turns into a steep and **[[Rugged]]** rock face. Are you prepared to **[[Traverse]]** the narrow ridge?
+  *(Leo, đoạn đường mòn phía trước sẽ biến thành vách đá dốc đứng và lởm chởm hiểm trở. Cậu đã sẵn sàng băng qua gờ đá hẹp chưa?)*
+- **Leo:** Definitely. Our morning **[[Hike]]** gave our bodies enough time to **[[Acclimatize]]** to the altitude. My **[[Stamina]]** feels solid.
+  *(Chắc chắn rồi. Chặng đi bộ đường dài buổi sáng đã cho cơ thể chúng ta đủ thời gian để thích nghi với độ cao. Thể lực sức bền của tớ đang rất ổn định.)*
+- **Victor:** Good. This ascent requires serious physical **[[Endurance]]** and mental **[[Agility]]**. One careless misstep on loose scree could prove disastrous.
+  *(Tốt lắm. Chặng leo này đòi hỏi sức chịu đựng thể chất dẻo dai và sự nhanh nhẹn linh hoạt cao độ của tinh thần. Chỉ một bước sảy chân sơ ý trên lớp sỏi vụn lỏng lẻo cũng có thể dẫn đến tai họa.)*
+- **Leo:** I can already feel the surge of **[[Adrenaline]]** coursing through my veins! This is why **[[Mountaineering]]** is such an **[[Exhilarating]]** pursuit for me.
+  *(Tớ đã có thể cảm nhận luồng adrenaline phấn khích tột độ đang cuộn trào trong từng mạch máu! Đó là lý do vì sao môn leo núi lại là một đam mê đem lại cảm giác hưng phấn tột bậc đối với tớ.)*
+- **Victor:** It truly tests our human **[[Prowess]]** against raw nature. Let's maintain a steady pace so we don't turn this into an overly **[[Strenuous]]** climb.
+  *(Nó thực sự thử thách kỹ năng xuất chúng của con người trước thiên nhiên hoang dã. Chúng ta hãy duy trì nhịp độ ổn định để không biến chuyến đi thành một chặng leo trèo quá kiệt sức nhé.)*
+- **Leo:** Agreed. Reaching that summit overlooking **[[Uncharted]]** wilderness will make every drop of sweat worth it!
+  *(Đồng ý. Việc chạm tay tới đỉnh núi phóng tầm mắt nhìn ra vùng hoang sơ chưa từng được khám phá sẽ khiến mọi giọt mồ hôi đều trở nên vô cùng xứng đáng!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về nghệ thuật sáng tạo & Thủ công mỹ nghệ:
+- **`meticulous craftsmanship`** *(tay nghề thủ công tỉ mỉ, tinh xảo)*:
+  - *"The handmade wooden cabinet displayed the **[[Meticulous]]** **[[Craftsmanship]]** of an experienced **[[Artisan]]**."*
+  - *(Chiếc tủ gỗ làm thủ công thể hiện tay nghề chế tác tỉ mỉ tinh xảo của một nghệ nhân lão luyện.)*
+- **`intricate patterns and designs`** *(họa tiết và mẫu thiết kế tinh xảo phức tạp)*:
+  - *"She spent months weaving **[[Intricate]]** floral motifs into the traditional silk **[[Tapestry]]**."*
+  - *(Cô ấy dành hàng tháng trời để dệt các họa tiết hoa lá tinh xảo vào bức thảm thêu lụa truyền thống.)*
+- **`therapeutic creative pastime`** *(thú tiêu khiển sáng tạo giúp giải tỏa tâm lý)*:
+  - *"Taking up **[[Pottery]]** or **[[Calligraphy]]** serves as a wonderfully therapeutic **[[Pastime]]**."*
+  - *(Theo đuổi bộ môn làm gốm hay thư pháp đóng vai trò như một thú tiêu khiển sáng tạo giúp giải tỏa tâm lý tuyệt vời.)*
+
+#### 2. Khi chia sẻ về thể thao vận động & Chinh phục thiên nhiên:
+- **`surge of adrenaline`** *(luồng hưng phấn tột độ, kích thích tinh thần)*:
+  - *"White-water **[[Kayaking]]** down torrential rapids delivers an instantaneous surge of **[[Adrenaline]]**."*
+  - *(Chèo thuyền kayak vượt qua những ghềnh thác cuồn cuộn mang lại một luồng cảm xúc hưng phấn tột độ tức thì.)*
+- **`test of physical stamina and endurance`** *(thử thách thể lực và sức chịu đựng dẻo dai)*:
+  - *"High-altitude **[[Mountaineering]]** remains the ultimate test of human **[[Stamina]]** and **[[Endurance]]**."*
+  - *(Bộ môn leo núi cao vẫn luôn là bài kiểm tra tối thượng về thể lực và sức chịu đựng bền bỉ của con người.)*
+- **`invigorating outdoor adventure`** *(chuyến phiêu lưu dã ngoại tiếp thêm sinh lực)*:
+  - *"An early morning **[[Hike]]** through mist-covered peaks is intensely **[[Invigorating]]** for tired souls."*
+  - *(Một chuyến đi bộ đường dài sáng sớm xuyên qua những đỉnh núi mù sương tiếp thêm sinh lực dồi dào cho những tâm hồn đang mệt mỏi.)*
+
+#### 3. Khi nói về sưu tầm, nuôi dưỡng tâm hồn & Thư thái:
+- **`avid bibliophile and collector`** *(người yêu sách và nhà sưu tầm say mê)*:
+  - *"As a passionate **[[Bibliophile]]**, he dedicated his weekends to search for rare first editions to **[[Curate]]** his library."*
+  - *(Là một người yêu sách say mê, anh dành trọn các ngày cuối tuần để săn tìm những bản in đầu tiên quý hiếm nhằm tuyển chọn cho thư viện của mình.)*
+- **`wind down and rejuvenate`** *(thư giãn xả hơi và phục hồi năng lượng)*:
+  - *"Practicing gentle **[[Meditation]]** in the quiet **[[Garden]]** allows busy professionals to **[[Wind down]]** and **[[Rejuvenate]]**."*
+  - *(Thực hành thiền định nhẹ nhàng trong khu vườn tĩnh lặng cho phép những người bận rộn được thư giãn xả hơi và tái tạo năng lượng.)*"

@@ -157,3 +157,78 @@ In a fragile **[[democracy]]**, the upcoming **[[election]]** was crucial for th
 
 ### Bản dịch Tiếng Việt
 Trong một **nền dân chủ** còn non trẻ, **cuộc bầu cử** sắp tới đóng vai trò quyết định đối với tương lai của đất nước. **Ứng cử viên** chính hứa hẹn sẽ thực hiện một cuộc **cải cách** khẩn cấp nhằm xóa bỏ **hệ thống quan liêu** kém hiệu quả và loại bỏ **nạn con ông cháu cha** trong chính phủ. Tuy nhiên, đối thủ của ông, một **kẻ mị dân** khét tiếng, đã dựa dẫm rất nhiều vào sự **tuyên truyền** mang tính kích động để chia rẽ công chúng. Để củng cố quyền lực, đảng cầm quyền cố gắng thành lập một **chính phủ liên minh** với các nhóm thiểu số, nhưng những xung đột nội bộ đã dẫn đến một **cuộc đảo chính** bất ngờ của các phe phái quân sự. Bất chấp sự hỗn loạn đó, các quốc gia láng giềng kêu gọi giải quyết bằng con đường **ngoại giao** thay vì can thiệp quân sự, với hy vọng bảo vệ **chủ quyền** của quốc gia này. Cuối cùng, tất cả các bên đã đồng ý ký một **hiệp ước** hòa bình để lập lại trật tự.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tranh luận nảy lửa tại nghị viện về cải cách thể chế và liên minh cầm quyền (Heated Parliamentary Debate & Coalition Governance)
+> **Bối cảnh thực tế:** Trong phiên chất vấn trực tiếp tại nghị viện, lãnh đạo phe đối lập chỉ trích dự thảo luật cải cách thuế của thủ tướng và đe dọa rút khỏi thỏa thuận liên minh chính phủ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Opposition Leader Thorne:** Prime Minister, your latest fiscal **[[Policy]]** imposes an unbearable **[[Tax]]** burden on the ordinary working **[[Citizen]]**!
+  *(Thưa Thủ tướng, chính sách tài khóa mới nhất của ngài đang áp đặt gánh nặng thuế khóa không thể gánh nổi lên người dân lao động bình thường!)*
+- **Prime Minister Evelyn Cross:** Our administration is implementing necessary economic **[[Reform]]** to eliminate deep-rooted inefficiency within the state **[[Bureaucracy]]**.
+  *(Chính quyền chúng tôi đang thực hiện cuộc cải cách kinh tế cần thiết nhằm xóa bỏ sự kém hiệu quả đã ăn sâu bám rễ bên trong bộ máy quan liêu nhà nước.)*
+- **Opposition Leader Thorne:** This is not genuine reform; it is a concession to corporate **[[Lobbying]]** that threatens the foundational spirit of our **[[Constitution]]**!
+  *(Đây không phải là cải cách thực chất; đây là sự nhượng bộ trước hoạt động vận động hành lang của các tập đoàn, đe dọa tinh thần nền tảng của bản hiến pháp chúng ta!)*
+- **Prime Minister Evelyn Cross:** I remind the opposition that this legislative package was agreed upon by every member of our governing **[[Coalition]]**.
+  *(Tôi xin nhắc phe đối lập nhớ rằng gói lập pháp này đã được toàn bộ các thành viên trong liên minh cầm quyền của chúng tôi nhất trí thông qua.)*
+- **Opposition Leader Thorne:** If you refuse to amend these clauses, our **[[Party]]** will stage an indefinite **[[Filibuster]]** on the floor of **[[Parliament]]**.
+  *(Nếu ngài từ chối sửa đổi các điều khoản này, đảng của chúng tôi sẽ tiến hành thủ thuật câu giờ vô thời hạn ngay trên sàn nghị viện.)*
+- **Prime Minister Evelyn Cross:** Let us put the issue to a democratic **[[Vote]]**. That is how a robust **[[Democracy]]** resolves legislative disagreements.
+  *(Hãy đưa vấn đề này ra biểu quyết dân chủ. Đó là cách mà một nền dân chủ lành mạnh giải quyết các bất đồng về mặt lập pháp.)*
+
+---
+
+### 🌟 Tình huống 2: Đàm phán ngoại giao cấp cao và hiệp ước hòa bình quốc tế (High-Level Diplomatic Negotiations & Bilateral Treaty)
+> **Bối cảnh thực tế:** Tại một hội nghị thượng đỉnh quốc tế, đại sứ đặc mệnh toàn quyền của hai quốc gia láng giềng nỗ lực đàm phán giải trừ các lệnh trừng phạt kinh tế và củng cố an ninh biên giới chung.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Ambassador Vance:** Excellence, our nation cannot consider lifting the trade **[[Sanction]]** until your military forces completely withdraw from the disputed **[[Border]]**.
+  *(Thưa ngài Đại sứ, quốc gia chúng tôi không thể xem xét việc dỡ bỏ lệnh trừng phạt thương mại cho đến khi các lực lượng quân sự của quý quốc rút hoàn toàn khỏi khu vực biên giới tranh chấp.)*
+- **Foreign Envoy Rossi:** We emphasize that maintaining security patrols is essential to safeguard our national **[[Sovereignty]]** against cross-border extremism.
+  *(Chúng tôi nhấn mạnh rằng việc duy trì các đội tuần tra an ninh là điều cốt yếu để bảo vệ chủ quyền quốc gia của chúng tôi trước chủ nghĩa cực đoan xuyên biên giới.)*
+- **Ambassador Vance:** But continuing this military standoff only escalates tensions across regional **[[Geopolitics]]** and harms civilian trade.
+  *(Nhưng việc tiếp tục bế tắc quân sự này chỉ làm leo thang căng thẳng trên bình diện địa chính trị khu vực và gây tổn hại đến hoạt động thương mại dân sự.)*
+- **Foreign Envoy Rossi:** Our **[[Government]]** is pragmatic. Guided by **[[Realpolitik]]**, we recognize that enduring stability requires mutual economic cooperation.
+  *(Chính phủ của chúng tôi luôn thực tế. Được định hướng bởi chính trị thực dụng, chúng tôi nhận thức rằng sự ổn định lâu dài đòi hỏi sự hợp tác kinh tế song phương.)*
+- **Ambassador Vance:** If both sides agree to a joint demilitarized boundary, our respective heads of state can formally **[[Ratify]]** the peace agreement next month.
+  *(Nếu cả hai bên đồng thuận về một đường ranh giới phi quân sự chung, các nguyên thủ quốc gia của chúng ta có thể chính thức phê chuẩn thỏa thuận hòa bình vào tháng tới.)*
+- **Foreign Envoy Rossi:** That constitutes a breakthrough for bilateral **[[Diplomacy]]**. We shall brief our **[[President]]** immediately.
+  *(Đó là một bước đột phá cho nền ngoại giao song phương. Chúng tôi sẽ báo cáo ngắn gọn với Tổng thống của chúng tôi ngay lập tức.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Bầu cử, Nghị viện & Thể chế dân chủ (Elections, Parliament & Democratic Process):
+- **`run a national campaign / presidential candidate`** *(điều hành chiến dịch toàn quốc / ứng cử viên tổng thống)*:
+  - *"The progressive **[[Candidate]]** launched a nationwide **[[Campaign]]** focused on social equity and healthcare."*
+  - *(Ứng cử viên tiến bộ đã phát động một chiến dịch vận động trên toàn quốc tập trung vào công bằng xã hội và chăm sóc y tế.)*
+- **`cast a democratic vote / call a public referendum`** *(bỏ lá phiếu dân chủ / kêu gọi trưng cầu dân ý)*:
+  - *"Citizens turned out in record numbers to cast their **[[Vote]]** during the nationwide constitutional **[[Referendum]]**."*
+  - *(Các công dân đã đi bỏ phiếu với số lượng kỷ lục trong cuộc trưng cầu dân ý về hiến pháp trên toàn quốc.)*
+- **`stage a filibuster / parliamentary debate`** *(thực hiện thủ thuật câu giờ / tranh luận tại nghị viện)*:
+  - *"Opposition lawmakers initiated a marathon **[[Filibuster]]** to prolong the contentious **[[Debate]]** in **[[Parliament]]**."*
+  - *(Các nghị sĩ đối lập đã khởi xướng một màn câu giờ kéo dài để trì hoãn cuộc tranh luận nảy lửa tại nghị viện.)*
+
+#### 2. Ngoại giao quốc tế, Địa chính trị & Chủ quyền (Diplomacy, Sovereignty & Geopolitics):
+- **`conduct bilateral diplomacy / seasoned ambassador`** *(tiến hành ngoại giao song phương / đại sứ dày dạn kinh nghiệm)*:
+  - *"Engaging in patient **[[Diplomacy]]**, the veteran **[[Ambassador]]** helped de-escalate the border conflict."*
+  - *(Tham gia vào hoạt động ngoại giao kiên nhẫn, vị đại sứ kỳ cựu đã giúp hạ nhiệt cuộc xung đột biên giới.)*
+- **`respect territorial sovereignty / secure the national border`** *(tôn trọng chủ quyền lãnh thổ / bảo đảm an ninh biên giới quốc gia)*:
+  - *"International law obliges every sovereign **[[Country]]** to respect the inviolable **[[Sovereignty]]** and **[[Border]]** of its neighbors."*
+  - *(Luật pháp quốc tế buộc mọi quốc gia có chủ quyền phải tôn trọng chủ quyền và đường biên giới bất khả xâm phạm của láng giềng.)*
+- **`impose targeted sanctions / ratify a treaty`** *(áp đặt các lệnh trừng phạt có mục tiêu / phê chuẩn một hiệp ước)*:
+  - *"The allied nations voted to impose economic **[[Sanction|sanctions]]** until the regime agreed to **[[Ratify]]** the accord."*
+  - *(Các quốc gia đồng minh đã biểu quyết áp đặt các lệnh trừng phạt kinh tế cho đến khi chính quyền đồng ý phê chuẩn hiệp định.)*
+
+#### 3. Quản trị nhà nước, Hệ tư tưởng & Quyền lực (Governance, Ideology & Power):
+- **`uphold constitutional law / civil liberties`** *(giữ nghiêm luật hiến pháp / quyền tự do công dân)*:
+  - *"An independent constitutional court is vital to uphold the **[[Constitution]]** and preserve every fundamental **[[Right]]**."*
+  - *(Một tòa án hiến pháp độc lập là tối quan trọng để giữ nghiêm hiến pháp và bảo vệ mọi quyền căn bản.)*
+- **`combat populist propaganda / expose a demagogue`** *(chống lại tuyên truyền dân túy / vạch trần kẻ mị dân)*:
+  - *"Critical investigative journalism helps citizens see through deceitful **[[Propaganda]]** orchestrated by a reckless **[[Demagogue]]**."*
+  - *(Báo chí điều tra phản biện giúp người dân nhìn thấu những luận điệu tuyên truyền lừa mị do một kẻ mị dân liều lĩnh dàn dựng.)*
+- **`corporate lobbying / entrenched oligarchy`** *(hoạt động vận động hành lang của doanh nghiệp / chế độ đầu sỏ ăn sâu)*:
+  - *"Electoral reforms aim to restrict dark-money **[[Lobbying]]** and dismantle corrupt **[[Oligarchy]]**."*
+  - *(Các cải cách bầu cử nhằm mục tiêu hạn chế việc vận động hành lang bằng nguồn tiền ngầm và xóa bỏ chế độ đầu sỏ tham nhũng.)*

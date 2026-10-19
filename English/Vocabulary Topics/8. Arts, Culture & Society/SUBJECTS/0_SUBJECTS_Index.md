@@ -120,3 +120,78 @@ At the global university, students explore the fascinating intersections of vari
 
 ### Bản dịch Tiếng Việt
 Tại trường đại học toàn cầu, sinh viên khám phá những sự giao thoa hấp dẫn giữa các ngành học khác nhau. Ví dụ, những người học **Triết học** thường nghiên cứu **Đạo đức học** để giải quyết các vấn đề đạo đức đương đại, hoặc đi sâu vào **Mỹ học** để hiểu bản chất của cái đẹp và nghệ thuật. Trong khi đó, các nhà nghiên cứu trong ngành **Nhân chủng học** và **Khảo cổ học** làm việc cùng nhau để tái dựng nguồn gốc loài người, kết nối các di tích vật chất với câu chuyện rộng lớn hơn của **Lịch sử**. Để hiểu rõ hơn cách chúng ta giao tiếp, **Ngôn ngữ học** cung cấp những góc nhìn sâu sắc, đặc biệt là khi kết hợp với **Từ nguyên học** để truy nguyên nguồn gốc của các từ cổ. Trong các ngành khoa học, những nhà nghiên cứu về **Thiên văn học** và **Vũ trụ học** hướng tầm mắt ra ngoài để mở khóa các bí ẩn của vũ trụ. Cuối cùng, sự kết hợp giữa **Xã hội học** và **Sinh thái học** giúp chúng ta hiểu cách các xã hội loài người tương tác với môi trường tự nhiên của họ.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tư vấn định hướng tổ hợp môn học liên ngành trong khoa học tự nhiên (Advising on Interdisciplinary STEM Subject Combinations)
+> **Bối cảnh thực tế:** Một sinh viên khoa học tự nhiên gặp cố vấn học vụ để chọn các môn học bổ trợ, thảo luận về mối giao thoa giữa Tin sinh học (Bioinformatics), Di truyền học (Genetics) và Thần kinh học (Neuroscience).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Academic Advisor Dr. Aris:** Welcome, Liam. Today we should finalize your course curriculum across the biological and computational sciences.
+  *(Chào mừng em, Liam. Hôm nay chúng ta nên hoàn tất khung môn học của em thuộc các ngành khoa học sinh học và tính toán.)*
+- **Student Liam:** I am deeply fascinated by molecular **[[Genetics]]**, but I also want to build strong programming skills in **[[Computing]]**.
+  *(Em rất say mê di truyền học phân tử, nhưng em cũng muốn xây dựng kỹ năng lập trình vững vàng trong ngành khoa học máy tính tính toán.)*
+- **Academic Advisor Dr. Aris:** That combination is precisely the foundation of **[[Bioinformatics]]**. By merging algorithmic models with cellular **[[Biology]]**, you can analyze genomic sequences.
+  *(Sự kết hợp đó chính là nền tảng của ngành tin sinh học. Bằng cách hợp nhất các mô hình thuật toán với sinh học tế bào, em có thể phân tích các chuỗi hệ gen.)*
+- **Student Liam:** Should I also enroll in advanced **[[Statistics]]** to handle large biomedical data sets?
+  *(Liệu em có nên đăng ký thêm môn thống kê nâng cao để xử lý các tập dữ liệu y sinh lớn không ạ?)*
+- **Academic Advisor Dr. Aris:** Absolutely. A solid mastery of applied **[[Math]]** will also prove invaluable if you pursue research in computational **[[Neuroscience]]**.
+  *(Chắc chắn rồi. Việc nắm vững toán học ứng dụng cũng sẽ vô cùng quý giá nếu em theo đuổi nghiên cứu trong lĩnh vực khoa học thần kinh tính toán.)*
+- **Student Liam:** Thank you, Dr. Aris. Understanding how these disciplines intersect gives me a clear roadmap for my future career in **[[Science]]**.
+  *(Em cảm ơn thầy Aris. Việc hiểu được cách các bộ môn này giao thoa mang lại cho em một lộ trình rõ ràng cho sự nghiệp tương lai trong ngành khoa học.)*
+
+---
+
+### 🌟 Tình huống 2: Sự giao thoa giữa Khoa học Xã hội, Nhân văn và Nghệ thuật (The Synthesis of Social Sciences, Humanities & Arts)
+> **Bối cảnh thực tế:** Trong buổi tọa đàm về tương lai của các môn khoa học nhân văn, hai giảng viên trao đổi về cách kết nối các môn Lịch sử, Khảo cổ học, Triết học và Xã hội học trong việc trang bị tư duy phản biện cho sinh viên.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Professor Miriam:** Some students question whether studying the **[[Humanities]]** remains relevant in our technology-driven world.
+  *(Một số sinh viên đặt câu hỏi liệu việc theo học các môn khoa học nhân văn có còn phù hợp trong thế giới định hướng công nghệ của chúng ta hay không.)*
+- **Dr. Nathan:** That is a shortsighted perspective. Academic disciplines like **[[History]]** and **[[Archaeology]]** provide essential historical context that informs contemporary civic life.
+  *(Đó là một góc nhìn thiển cận. Các môn học thuật như lịch sử và khảo cổ học cung cấp bối cảnh lịch sử thiết yếu để soi sáng đời sống công dân đương đại.)*
+- **Professor Miriam:** Exactly. When students examine classical **[[Philosophy]]**, they develop rigorous analytical tools to interrogate contemporary questions in **[[Ethics]]**.
+  *(Chính xác. Khi sinh viên nghiên cứu triết học cổ điển, các em phát triển những công cụ phân tích sắc bén để chất vấn các câu hỏi đương đại trong đạo đức học.)*
+- **Dr. Nathan:** Furthermore, combining **[[Sociology]]** with **[[Political Science]]** enables young scholars to understand power dynamics and structural changes in human communities.
+  *(Hơn nữa, việc kết hợp xã hội học với khoa học chính trị cho phép các học giả trẻ thấu hiểu các động lực quyền lực và những biến chuyển về mặt cấu trúc trong các cộng đồng nhân loại.)*
+- **Professor Miriam:** And let us not forget creative expression. Engaging with classical **[[Literature]]** and the visual arts through **[[Aesthetics]]** nurtures human empathy.
+  *(Và chúng ta cũng không thể quên sự biểu đạt sáng tạo. Tiếp cận với văn học kinh điển và nghệ thuật thị giác thông qua mỹ học nuôi dưỡng sự thấu cảm của con người.)*
+- **Dr. Nathan:** Together, these subjects provide a comprehensive worldview that technical skills alone can never replicate.
+  *(Cùng nhau, những bộ môn này mang lại một thế giới quan toàn diện mà những kỹ năng kỹ thuật đơn thuần không bao giờ có thể sao chép được.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Các môn khoa học tự nhiên & Kỹ thuật (STEM Disciplines & Physical Sciences):
+- **`study natural sciences / excel in chemistry`** *(theo học các ngành khoa học tự nhiên / xuất sắc ở môn hóa học)*:
+  - *"Rigorous laboratory training enables university students to excel in both **[[Chemistry]]** and fundamental **[[Physics]]**."*
+  - *(Việc đào tạo nghiêm ngặt trong phòng thí nghiệm cho phép sinh viên đại học xuất sắc ở cả môn hóa học lẫn vật lý nền tảng.)*
+- **`master complex equations / study algebra and geometry`** *(làm chủ các phương trình phức tạp / học môn đại số và hình học)*:
+  - *"Foundational courses in theoretical **[[Algebra]]** and Euclidean **[[Geometry]]** develop rigorous quantitative reasoning."*
+  - *(Các khóa học nền tảng về đại số lý thuyết và hình học Euclid phát triển năng lực tư duy định lượng chặt chẽ.)*
+- **`unravel cosmic mysteries / astronomy and cosmology`** *(giải mã những bí ẩn vũ trụ / thiên văn học và vũ trụ học)*:
+  - *"Astrophysicists bridge observational **[[Astronomy]]** with theoretical **[[Cosmology]]** to study distant galaxies."*
+  - *(Các nhà vật lý thiên văn kết nối thiên văn học quan sát với vũ trụ học lý thuyết để nghiên cứu các thiên hà xa xôi.)*
+
+#### 2. Khoa học xã hội, Kinh tế & Luật pháp (Social Sciences, Economics & Jurisprudence):
+- **`macroeconomic modeling / quantitative econometrics`** *(xây dựng mô hình kinh tế vĩ mô / kinh tế lượng định lượng)*:
+  - *"Graduate students in **[[Economics]]** use sophisticated regression tools in **[[Econometrics]]** to analyze markets."*
+  - *(Học viên sau đại học ngành kinh tế học sử dụng các công cụ hồi quy tinh vi trong kinh tế lượng để phân tích thị trường.)*
+- **`principles of jurisprudence / international law`** *(các nguyên tắc án lệ học / luật pháp quốc tế)*:
+  - *"Future legal scholars examine theoretical **[[Jurisprudence]]** to understand the philosophical foundations of statutory **[[Law]]**."*
+  - *(Các học giả pháp lý tương lai nghiên cứu án lệ học lý thuyết để thấu hiểu các nền tảng triết học của luật thực định.)*
+- **`regional demography / global geopolitics`** *(nhân khẩu học khu vực / địa chính trị toàn cầu)*:
+  - *"Shifts in global **[[Demography]]** significantly influence balance-of-power strategies within international **[[Geopolitics]]**."*
+  - *(Những biến chuyển trong nhân khẩu học toàn cầu ảnh hưởng đáng kể đến các chiến lược cân bằng quyền lực trong địa chính trị quốc tế.)*
+
+#### 3. Khoa học nhân văn, Triết học & Ngôn ngữ (Humanities, Philosophy & Language Studies):
+- **`study moral philosophy / philosophical ethics`** *(nghiên cứu triết học đạo đức / đạo đức học triết học)*:
+  - *"Courses in **[[Philosophy]]** train students to tackle complex moral dilemmas through the lens of systematic **[[Ethics]]**."*
+  - *(Các khóa học triết học đào tạo sinh viên giải quyết các tình huống tiến thoái lưỡng nan về đạo đức qua lăng kính của đạo đức học có hệ thống.)*
+- **`uncover etymology / structural linguistics`** *(khám phá từ nguyên học / ngôn ngữ học cấu trúc)*:
+  - *"Historical linguists explore ancient **[[Etymology]]** to understand how roots evolved within general **[[Linguistics]]**."*
+  - *(Các nhà ngôn ngữ học lịch sử khám phá từ nguyên học cổ xưa để hiểu cách các gốc từ tiến hóa bên trong ngành ngôn ngữ học đại cương.)*
+- **`literary analysis / world literature`** *(phân tích văn học / văn học thế giới)*:
+  - *"Students of **[[Literature]]** develop nuanced analytical skills by reading masterpieces from diverse cultural traditions."*
+  - *(Sinh viên ngành văn học phát triển các kỹ năng phân tích tinh tế bằng cách đọc các kiệt tác từ các truyền thống văn hóa đa dạng.)*

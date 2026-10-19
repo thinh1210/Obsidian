@@ -108,3 +108,78 @@ When Sarah decided to **[[Invest]]** in a new **[[Property]]**, she contacted a 
 
 ### Bản dịch Tiếng Việt
 Khi Sarah quyết định **đầu tư** vào một **bất động sản** mới, cô đã liên hệ với một **đại lý** bất động sản địa phương để tìm **vị trí** hoàn hảo. Với tư cách là một **người đi thuê** tiềm năng, cô muốn **thuê** một **căn hộ** rộng rãi, nhưng **người cho thuê** lại yêu cầu một khoản **tiền đặt cọc** cao. Họ đã phải **đàm phán** các điều khoản trong **hợp đồng** trước khi ký kết. Trong khi đó, anh trai cô đã mua một ngôi nhà bằng cách thế chấp một khoản **vay mua nhà**, hy vọng rằng kết quả **thẩm định giá** sẽ phù hợp với **giá** mua. Anh ấy lên kế hoạch **cải tạo** lại tòa nhà để nhanh chóng tích lũy **vốn chủ sở hữu**, đồng thời quản lý cẩn thận các khoản thanh toán **trả góp định kỳ** hàng tháng để tránh mọi rủi ro **vỡ nợ**.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Mua nhà, thẩm định giá & Đàm phán khoản vay thế chấp (Property Acquisition, Appraisal & Mortgage Negotiation)
+> **Bối cảnh thực tế:** Nhà môi giới bất động sản (Real Estate Agent - Mr. Harrison) làm việc với Người mua nhà tiềm năng (Prospective Homebuyer - Olivia) về thương vụ mua một căn nhà biệt lập ở ngoại ô.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Harrison (Real Estate Agent):** Olivia, we found an exceptional four-bedroom **[[House]]** in a quiet northern **[[Suburb]]**, complete with a landscaped **[[Yard]]** and private driveway.
+  *(Harrison: Olivia này, chúng tôi đã tìm thấy một căn nhà 4 phòng ngủ đặc biệt ở khu ngoại ô phía bắc yên tĩnh, có cả một sân vườn cảnh quan và lối vào riêng.)*
+- **Olivia (Buyer):** The architectural photographs look stunning, and the **[[Location]]** is ideal for my family. How does the asking **[[Price]]** compare with our pre-approved **[[Budget]]**?
+  *(Olivia: Những bức ảnh kiến trúc trông thật tuyệt đẹp, và vị trí đó rất lý tưởng cho gia đình tôi. Mức giá chào bán so với ngân sách đã được duyệt trước của chúng tôi thế nào?)*
+- **Harrison:** The seller listed it at six hundred thousand dollars. However, the official bank **[[Appraisal]]** came in slightly lower, which gives us leverage to **[[Negotiate]]** a discount.
+  *(Harrison: Người bán niêm yết giá 600.000 đô la. Tuy nhiên, kết quả thẩm định giá chính thức của ngân hàng đưa ra mức thấp hơn một chút, điều này mang lại cho chúng ta lợi thế để đàm phán giảm giá.)*
+- **Olivia:** If we put down a twenty percent cash **[[Deposit]]**, what would our monthly **[[Amortization]]** payment be on a thirty-year fixed **[[Mortgage]]**?
+  *(Olivia: Nếu chúng tôi đặt cọc trước 20% tiền mặt, thì khoản trả góp định kỳ hàng tháng cho khoản vay thế chấp cố định 30 năm sẽ là bao nhiêu?)*
+- **Harrison:** Your monthly payment will be approximately two thousand dollars. Over time, as neighborhood property values appreciate, you will build substantial home **[[Equity]]**.
+  *(Harrison: Khoản thanh toán hàng tháng của cô sẽ vào khoảng 2.000 đô la. Theo thời gian, khi giá trị bất động sản trong khu vực tăng lên, cô sẽ tích lũy được vốn chủ sở hữu nhà ở đáng kể.)*
+- **Olivia:** That sounds very manageable. Once my conveyancing solicitor reviews the purchase **[[Contract]]** and checks for any restrictive **[[Covenant]]**, I am ready to sign.
+  *(Olivia: Mức đó nằm trong tầm kiểm soát rất tốt. Một khi luật sư chuyển nhượng bất động sản của tôi xem xét hợp đồng mua bán và kiểm tra xem có điều khoản ràng buộc hạn chế nào không, tôi đã sẵn sàng ký.)*
+
+---
+
+### 🌟 Tình huống 2: Ký hợp đồng thuê thương mại & Thủ tục pháp lý mặt bằng (Commercial Lease Agreement & Property Rights)
+> **Bối cảnh thực tế:** Chủ sở hữu bất động sản thương mại (Lessor/Landlord - Mr. Sterling) thương thảo với Chủ doanh nghiệp chuỗi bán lẻ (Lessee/Tenant - Sophia) về hợp đồng thuê mặt bằng văn phòng.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Sterling (Lessor):** Welcome, Sophia. As the primary **[[Proprietor]]** of this commercial building, I am thrilled to discuss leasing the entire second **[[Floor]]** to your firm.
+  *(Sterling: Chào mừng Sophia. Với tư cách là chủ sở hữu chính của tòa nhà thương mại này, tôi rất vui mừng được thảo luận về việc cho công ty cô thuê toàn bộ tầng hai.)*
+- **Sophia (Lessee):** Thank you, Mr. Sterling. The spacious layout suits our regional headquarters. Before finalizing the commercial **[[Lease]]**, we need clarity on property maintenance responsibilities.
+  *(Sophia: Cảm ơn ông Sterling. Thiết kế mặt sàn rộng rãi rất phù hợp với trụ sở khu vực của chúng tôi. Trước khi hoàn tất hợp đồng thuê thương mại, chúng tôi cần sự rõ ràng về trách nhiệm bảo trì bất động sản.)*
+- **Sterling:** As the **[[Landlord]]**, I am responsible for structural maintenance, including exterior walls and the building **[[Roof]]**. The **[[Tenant]]** oversees interior fixtures and day-to-day utilities.
+  *(Sterling: Với tư cách là bên cho thuê/chủ nhà, tôi chịu trách nhiệm bảo trì kết cấu, bao gồm các bức tường bên ngoài và mái tòa nhà. Bên thuê sẽ quản lý các trang thiết bị nội thất và các tiện ích hàng ngày.)*
+- **Sophia:** Understood. Does the contract permit us to **[[Sublease]]** unused conference rooms to strategic partners if our organizational structure changes?
+  *(Sophia: Tôi hiểu rồi. Hợp đồng có cho phép chúng tôi cho thuê lại các phòng họp chưa sử dụng cho các đối tác chiến lược nếu cơ cấu tổ chức của chúng tôi thay đổi không?)*
+- **Sterling:** Subleasing is permissible subject to prior written approval and payment of a standard administrative review **[[Fee]]**.
+  *(Sterling: Việc cho thuê lại được cho phép với điều kiện phải có sự phê duyệt trước bằng văn bản và thanh toán một khoản phí xét duyệt hành chính tiêu chuẩn.)*
+- **Sophia:** Excellent. Our legal team will confirm that no neighboring utility **[[Easement]]** infringes upon our allocated parking bays, and then we will collect the **[[Key|keys]]**.
+  *(Sophia: Tuyệt vời. Đội ngũ pháp lý của chúng tôi sẽ xác nhận rằng không có quyền địa dịch tiện ích lân cận nào xâm phạm các ô đỗ xe được phân bổ của chúng tôi, và sau đó chúng tôi sẽ nhận chìa khóa.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong giao dịch mua bán & Tài trợ vốn bất động sản (Real Estate Purchase & Financing):
+- **`build substantial home equity`** *(tích lũy vốn chủ sở hữu nhà ở đáng kể)*:
+  - *"Paying down your principal loan balance helps you steadily build personal **[[Equity]]** in your home."*
+  - *(Việc trả dần số dư nợ gốc sẽ giúp bạn tích lũy đều đặn vốn chủ sở hữu cá nhân trong ngôi nhà của mình.)*
+- **`secure a fixed-rate mortgage`** *(vay mua nhà với gói lãi suất cố định)*:
+  - *"Homebuyers locked in a thirty-year **[[Mortgage]]** to protect themselves against future interest rate hikes."*
+  - *(Những người mua nhà đã chốt một khoản vay thế chấp 30 năm để bảo vệ bản thân trước những đợt tăng lãi suất trong tương lai.)*
+- **`conduct a property appraisal`** *(tiến hành thẩm định giá bất động sản)*:
+  - *"Lenders require a certified **[[Appraisal]]** to ensure the market valuation justifies the loan amount."*
+  - *(Các tổ chức cho vay yêu cầu một cuộc thẩm định giá có chứng nhận để đảm bảo mức định giá thị trường tương xứng với số tiền vay.)*
+
+#### 2. Trong cho thuê & Quyền lợi bên thuê (Leasing & Landlord-Tenant Relations):
+- **`sign a commercial lease agreement`** *(ký kết hợp đồng thuê mặt bằng thương mại)*:
+  - *"The startup negotiated favorable terms before signing a five-year commercial **[[Lease]]**."*
+  - *(Công ty khởi nghiệp đã đàm phán các điều khoản có lợi trước khi ký hợp đồng thuê thương mại 5 năm.)*
+- **`pay a security deposit`** *(thanh toán khoản tiền đặt cọc bảo đảm)*:
+  - *"The prospective **[[Tenant]]** deposited one month's rent as security against potential property damages."*
+  - *(Người thuê tiềm năng đã đặt cọc một tháng tiền thuê làm khoản bảo đảm trước các thiệt hại tài sản có thể phát sinh.)*
+- **`sublease commercial office space`** *(cho thuê lại mặt bằng văn phòng thương mại)*:
+  - *"To offset overhead costs, the corporation chose to **[[Sublease]]** half of its downtown office floor."*
+  - *(Để bù đắp chi phí vận hành, tập đoàn đã chọn cho thuê lại một nửa tầng văn phòng ở trung tâm thành phố.)*
+
+#### 3. Trong pháp lý nhà đất & Quy hoạch (Property Law, Covenants & Easements):
+- **`restrictive property covenant`** *(điều khoản ràng buộc hạn chế sử dụng đất)*:
+  - *"A deed **[[Covenant]]** barred homeowners in the subdivision from altering historical facades."*
+  - *(Một điều khoản ràng buộc trong văn tự đã cấm các chủ nhà trong phân khu không được thay đổi mặt tiền mang tính lịch sử.)*
+- **`grant a utility easement`** *(cấp quyền địa dịch hạ tầng kỹ thuật/tiện ích)*:
+  - *"The municipality obtained an **[[Easement]]** across the perimeter **[[Land]]** to install underground water lines."*
+  - *(Chính quyền thành phố đã xin được quyền địa dịch băng qua dải đất ranh giới để lắp đặt đường ống nước ngầm.)*
+- **`risk of foreclosure proceedings`** *(nguy cơ đối mặt thủ tục tịch biên/phát mãi tài sản)*:
+  - *"Borrowers who default on consecutive mortgage payments face the imminent threat of **[[Foreclosure]]**."*
+  - *(Những người đi vay vỡ nợ các khoản thanh toán thế chấp liên tiếp phải đối mặt với nguy cơ bị tịch biên nhà đất sắp xảy ra.)*

@@ -108,3 +108,74 @@ As a dedicated **[[Cinephile]]**, Leo was mesmerized by the new masterpiece crea
 
 ### Bản dịch Tiếng Việt
 Là một **người yêu điện ảnh cuồng nhiệt**, Leo bị mê hoặc bởi kiệt tác mới do một **đạo diễn mang phong cách độc đáo** huyền thoại tạo ra. **Sự dàn cảnh** tỉ mỉ của bộ phim đã làm cho mọi bối cảnh trở nên sống động, phản ánh những chủ đề sâu sắc của **kịch bản điện ảnh** vốn được điều chỉnh cẩn thận từ **bảng phân cảnh hình ảnh** ban đầu. Ngay từ đầu câu chuyện, một **giai điệu đặc trưng** đầy ám ảnh đã vang lên như một bản nhạc **ngoại tự sự**, báo trước hành trình bi thảm của **nhân vật chính**. Thông qua một **chuỗi phân cảnh ghép** được dựng đẹp mắt, người xem chứng kiến những năm tháng đấu tranh trôi qua trong vài giây trước khi câu chuyện đạt đến **cao trào** đầy cảm xúc. Mọi chi tiết, từ những tiếng động thực tế **foley** sống động đến những **lời thoại** thông minh, đều góp phần tạo nên một trải nghiệm **mang tính điện ảnh** thực sự đắm chìm và giữ chân **khán giả** trong sự say mê.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Chỉ đạo cảnh quay & Nghệ thuật bài trí khung hình (Film Directing, Mise-en-scène & Camera Angles)
+> **Bối cảnh thực tế:** Đạo diễn tác giả (auteur) và quay phim trưởng thảo luận trên phim trường về góc máy, ống kính và bố trí dàn cảnh cho đại cảnh cao trào.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Director Vincent:** As an **[[Auteur]]**, I want every element in the frame to speak to the audience. How is the **[[Mise-en-scène]]** looking for the banquet room?
+  *(Là một đạo diễn tác giả, tôi muốn từng yếu tố trong khung hình đều đối thoại với khán giả. Nghệ thuật bài trí dàn cảnh cho phòng tiệc trông thế nào rồi?)*
+- **Cinematographer Leo:** The lighting is set to cast moody shadows across the back wall. Which **[[Lens]]** would you like on the main **[[Camera]]**?
+  *(Ánh sáng đã được sắp đặt để đổ bóng đầy tâm trạng lên bức tường phía sau. Bạn muốn gắn ống kính nào vào máy quay chính?)*
+- **Director Vincent:** Let us swap to an anamorphic prime. Keep a shallow depth of field so that the rack **[[Focus]]** shifts attention directly onto our troubled **[[Protagonist]]**.
+  *(Hãy đổi sang ống kính tiêu cự cố định anamorphic. Giữ độ sâu trường ảnh nông để việc chuyển nét hướng trọn sự chú ý vào nhân vật chính đầy trăn trở của chúng ta.)*
+- **Cinematographer Leo:** That visual tension will make the emotional **[[Climax]]** of this crucial **[[Scene]]** truly unforgettable.
+  *(Độ căng thẳng thị giác đó sẽ làm cho cao trào cảm xúc của phân cảnh quan trọng này thực sự không thể nào quên.)*
+- **Director Vincent:** Exactly. Any true **[[Cinephile]]** will appreciate the layered visual composition we crafted today.
+  *(Chính xác. Bất kỳ người yêu điện ảnh đích thực nào cũng sẽ đánh giá cao bố cục thị giác đa tầng mà chúng ta đã dày công tạo tác hôm nay.)*
+
+---
+
+### 🌟 Tình huống 2: Hậu kỳ âm thanh, Hiệu ứng tiếng động Foley & Nhạc nền Leitmotif (Post-Production: Foley, Montage & Soundtrack)
+> **Bối cảnh thực tế:** Kỹ sư âm thanh và chuyên viên dựng phim làm việc trong phòng dựng hậu kỳ về âm thanh diegetic, hiệu ứng foley và mô-típ âm nhạc chủ đạo.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Nora:** How is the pace in the opening sequence coming along in the video **[[Editing]]** suite?
+  *(Nhịp điệu trong chuỗi cảnh mở đầu trong phòng dựng phim tiến triển thế nào rồi?)*
+- **Felix:** The rapid **[[Montage]]** works brilliantly to establish the passage of time. Now we need to blend the **[[Foley]]** sound effects for the footsteps and pouring rain.
+  *(Thủ pháp dựng phim cắt cảnh nhanh hoạt động xuất sắc để diễn tả dòng chảy thời gian. Giờ chúng ta cần hòa trộn hiệu ứng âm thanh tiếng động foley cho tiếng bước chân và cơn mưa tầm tã.)*
+- **Nora:** Make sure the footsteps remain clearly **[[Diegetic]]**, rooted in the character's immediate surroundings.
+  *(Hãy đảm bảo tiếng bước chân luôn là âm thanh nội cảnh rõ ràng, bắt nguồn trực tiếp từ môi trường xung quanh của nhân vật.)*
+- **Felix:** And for the haunting **[[Non-diegetic]]** atmosphere, our composer introduced a poignant recurring **[[Leitmotif]]** played on solo cello.
+  *(Còn đối với bầu không khí ngoại cảnh đầy ám ảnh, nhà soạn nhạc của chúng ta đã đưa vào một mô-típ âm nhạc chủ đạo da diết được chơi bằng đàn cello độc tấu.)*
+- **Nora:** That melancholy theme combined with the subtle closing **[[Voiceover]]** will make the entire **[[Soundtrack]]** resonate with deep emotion.
+  *(Giai điệu u sầu đó kết hợp với giọng đọc lồng tiếng kết thúc tinh tế sẽ làm cho toàn bộ phần nhạc nền ngân vang đầy cảm xúc sâu lắng.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi quay phim & Bố cục hình ảnh:
+- **`meticulous mise-en-scène`** *(nghệ thuật dàn cảnh tỉ mỉ)*:
+  - *"The director became famous for his meticulous **[[Mise-en-scène]]** and symmetrical framing."*
+  - *(Vị đạo diễn trở nên nổi tiếng nhờ nghệ thuật dàn cảnh tỉ mỉ và khung hình đối xứng.)*
+- **`cinematic visionary auteur`** *(đạo diễn tác giả có tầm nhìn điện ảnh)*:
+  - *"Working with a visionary **[[Auteur]]** allows actors the creative freedom to explore deep psychological roles."*
+  - *(Làm việc với một đạo diễn tác giả có tầm nhìn cho phép các diễn viên sự tự do sáng tạo để khám phá những vai diễn tâm lý sâu sắc.)*
+- **`sharp camera focus`** *(lấy nét máy quay sắc bén)*:
+  - *"The operator adjusted the **[[Camera]]** **[[Focus]]** smoothly during the intense chase sequence."*
+  - *(Người vận hành đã điều chỉnh tiêu cự máy quay một cách mượt mà trong chuỗi cảnh rượt đuổi căng thẳng.)*
+
+#### 2. Khi dựng phim & Cắt cảnh:
+- **`dynamic montage`** *(kỹ thuật dựng cảnh nhanh sinh động)*:
+  - *"An energetic training **[[Montage]]** compressed months of preparation into three compelling minutes."*
+  - *(Một đoạn dựng cảnh tập luyện tràn đầy năng lượng đã nén nhiều tháng chuẩn bị vào ba phút đầy lôi cuốn.)*
+- **`dramatic climax`** *(cao trào đầy kịch tính)*:
+  - *"Tension escalated steadily until the shocking **[[Climax]]** revealed the true culprit."*
+  - *(Căng thẳng leo thang đều đặn cho đến khi đoạn cao trào gây sốc hé lộ thủ phạm thực sự.)*
+- **`original screenplay`** *(kịch bản phim gốc)*:
+  - *"The film won academy honors for its witty dialogue and brilliantly structured **[[Screenplay]]**."*
+  - *(Bộ phim đã giành được các giải thưởng viện hàn lâm nhờ lời thoại dí dỏm và kịch bản có cấu trúc xuất sắc.)*
+
+#### 3. Khi xử lý âm thanh & Nhạc phim:
+- **`foley sound effects`** *(hiệu ứng âm thanh tiếng động foley)*:
+  - *"The studio hired an experienced **[[Foley]]** artist to record realistic sword clashes and footsteps."*
+  - *(Hãng phim đã thuê một nghệ sĩ foley giàu kinh nghiệm để thu lại những tiếng va chạm kiếm và tiếng bước chân chân thực.)*
+- **`diegetic sound`** *(âm thanh nội cảnh)*:
+  - *"The subtle hum of the café refrigerator was recorded as atmospheric **[[Diegetic]]** **[[Sound]]**."*
+  - *(Tiếng vo ve khe khẽ của tủ lạnh quán cà phê được ghi lại như một âm thanh nội cảnh tạo bầu không khí.)*
+- **`recurring leitmotif`** *(mô-típ âm nhạc chủ đạo lặp lại)*:
+  - *"Whenever the villain appears on screen, a dark brass **[[Leitmotif]]** echoes in the background."*
+  - *(Bất cứ khi nào nhân vật phản diện xuất hiện trên màn ảnh, một mô-típ âm nhạc bằng kèn đồng u tối lại vang lên trong nền.)*

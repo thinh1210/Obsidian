@@ -128,3 +128,77 @@ On a [[Sweltering]] summer afternoon, a [[Lethargic]] traveler wandered into a [
 
 ### Bản dịch Tiếng Việt
 Vào một buổi chiều hè **nóng oi ả**, một lữ khách **uể oải** đi lạc vào một khu rừng **bí ẩn**. Thời tiết vốn rất **tồi tệ**, khiến anh cảm thấy **khổ sở** và yếu ớt. Đột nhiên, anh vấp phải một tòa lâu đài **khổng lồ**, những cánh cổng của nó được trang trí bằng các hình chạm khắc sắt **xoắn xuýt phức tạp**. Bên trong, thay vì ánh mặt trời nóng bức, một làn gió **lạnh giá** đã chào đón anh. Trên một chiếc bàn đặt một chiếc hộp **mô hình thu nhỏ** chứa một viên ngọc **tí hon**, **rực rỡ** phát ra ánh sáng **lôi cuốn**. Anh đưa ra một quyết định **nhanh chóng** là đút túi kho báu đó. Ngay khi chạm vào nó, anh cảm thấy **vô cùng hạnh phúc** nhưng nhanh chóng trở nên **hoảng sợ** khi các bức tường bắt đầu thu nhỏ lại thành một kích thước **siêu nhỏ** xung quanh mình.
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lập kế hoạch thám hiểm thiên nhiên & Ứng phó thời tiết khắc nghiệt (Planning an Outdoor Expedition & Harsh Weather Survival)
+> **Bối cảnh thực tế:** Hai nhà thám hiểm địa chất thảo luận về chuyến leo núi sắp tới qua thung lũng băng giá và sa mạc đá, cân nhắc giữa điều kiện thời tiết khắc nghiệt, địa hình hiểm trở và thể lực của toàn đoàn.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Liam:** Sophia, are you sure we are prepared for this mountain trek? The meteorological forecast warns of **[[Freezing]]** temperatures at the summit, while the base valley is currently **[[Sweltering]]**.
+  *(Sophia, cậu có chắc là bọn mình đã chuẩn bị kỹ cho chuyến leo núi này chưa? Dự báo khí tượng cảnh báo nhiệt độ lạnh buốt thấu xương ở trên đỉnh, trong khi thung lũng chân núi hiện đang nóng như thiêu như đốt.)*
+- **Sophia:** Don't worry, Liam. I packed thermal gear designed for **[[Frigid]]** conditions, along with lightweight apparel for when the afternoon becomes **[[Boiling]]**. Our route crosses a **[[Narrow]]** ridge before descending into a **[[Deep]]** canyon.
+  *(Đừng lo, Liam. Mình đã đóng gói đồ giữ nhiệt chuyên dụng cho điều kiện băng giá lạnh lẽo, cùng với trang phục thoáng nhẹ phòng khi buổi chiều trở nên nóng sôi sục. Tuyến đường của chúng ta băng qua một sườn núi hẹp hiểm trở trước khi hạ dần xuống một hẻm núi sâu thăm thẳm.)*
+- **Liam:** That **[[Narrow]]** ridge sounds treacherous. What about the physical stamina of the team? Some hikers felt completely **[[Exhausted]]** during yesterday's training, while others remained remarkably **[[Energetic]]**.
+  *(Gờ núi hẹp đó nghe có vẻ hiểm trở đấy. Còn về thể lực của cả đoàn thì sao? Một số người leo núi cảm thấy kiệt sức hoàn toàn trong buổi tập huấn hôm qua, trong khi những người khác vẫn tràn đầy năng lượng một cách đáng nể.)*
+- **Sophia:** We will maintain a steady pace rather than an **[[Expeditious]]** rush. The geological formations ahead are truly **[[Colossal]]**, and seeing those **[[Gigantic]]** glacier walls will be a **[[Fascinating]]** experience for everyone.
+  *(Bọn mình sẽ duy trì tốc độ đi đều đặn thay vì vội vã chạy đua với thời gian. Các cấu tạo địa chất phía trước thực sự khổng lồ kỳ vĩ, và việc tận mắt ngắm nhìn những bức tường băng tráng lệ to lớn đó sẽ là một trải nghiệm lôi cuốn hấp dẫn cho tất cả mọi người.)*
+- **Liam:** That gives me confidence. Let's make sure our supply packs aren't too **[[Heavy]]** so that traversing the steep rocky path remains manageable and safe.
+  *(Điều đó làm mình yên tâm hơn rồi. Hãy đảm bảo ba lô tiếp tế của chúng ta không quá nặng nề để việc băng qua đoạn dốc đá vẫn trong tầm kiểm soát và an toàn.)*
+- **Sophia:** Agreed. With careful discipline and teamwork, reaching the peak will be an **[[Amazing]]** milestone for all of us!
+  *(Nhất trí. Với kỷ luật cẩn trọng và tinh thần đồng đội, việc chạm tới đỉnh núi sẽ là một cột mốc tuyệt vời cho tất cả chúng ta!)*
+
+---
+
+### 🌟 Tình huống 2: Phê bình thiết kế kiến trúc & Tối ưu hóa không gian (Architectural Design Critique & Space Optimization)
+> **Bối cảnh thực tế:** Buổi đánh giá bản vẽ giữa kiến trúc sư trưởng và chuyên viên thiết kế nội thất, thảo luận về việc đơn giản hóa những cấu trúc quá rối rắm và nâng cao tính thẩm mỹ của công trình bảo tàng.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Arthur:** Elena, take a look at the revised museum blueprints. The initial layout felt overly **[[Convoluted]]** and **[[Complicated]]**, confusing visitors before they even reached the exhibition hall.
+  *(Elena, cậu hãy xem qua bản vẽ bảo tàng đã chỉnh sửa này nhé. Bố cục ban đầu có cảm giác quá rối rắm và phức tạp, làm khách tham quan bối rối ngay cả trước khi họ bước vào phòng trưng bày chính.)*
+- **Elena:** I see the difference immediately, Arthur. The new floor plan is remarkably **[[Neat]]** and streamlined. You eliminated those awkward corridors and replaced them with a **[[Wide]]** atrium bathed in sunlight.
+  *(Mình nhận thấy sự khác biệt ngay lập tức đấy, Arthur. Mặt bằng mới này gọn gàng ngăn nắp và hợp lý một cách ấn tượng. Cậu đã loại bỏ những hành lang khó xử đó và thay thế bằng một sảnh thông tầng rộng thênh thang ngập tràn ánh nắng.)*
+- **Arthur:** Exactly. The old decorative facade looked almost **[[Grotesque]]** and **[[Hideous]]** against the historic skyline, but this minimalist glass exterior appears **[[Resplendent]]** and dignified.
+  *(Chính xác là vậy. Mặt tiền trang trí cũ trông gần như quái dị và xấu xí thô kệch khi đặt cạnh đường chân trời lịch sử, nhưng lớp kính ngoại thất tối giản này lại toát lên vẻ lộng lẫy tráng lệ và trang nghiêm.)*
+- **Elena:** The acoustic treatment is equally impressive. The structural insulation ensures a **[[Calm]]** and peaceful atmosphere inside, isolating visitors from the loud city traffic outside.
+  *(Hệ thống xử lý âm học cũng ấn tượng không kém. Lớp cách âm kết cấu đảm bảo một bầu không khí điềm tĩnh và yên bình bên trong, tách biệt khách tham quan khỏi tiếng còi xe ồn ào nơi phố thị bên ngoài.)*
+- **Arthur:** And what about the display pedestals? We had issues with items looking like **[[Miniature]]** or **[[Tiny]]** ornaments in that **[[Enormous]]** gallery.
+  *(Còn các bệ trưng bày thì sao? Chúng ta từng gặp vấn đề là các hiện vật trông như những món đồ trang trí thu nhỏ tí hon lọt thỏm trong phòng trưng bày to lớn khổng lồ đó.)*
+- **Elena:** We adjusted the lighting angles to showcase their **[[Impeccable]]** craftsmanship. The client was absolutely **[[Delighted]]** with the 3D walkthrough!
+  *(Bọn mình đã điều chỉnh góc chiếu sáng để làm nổi bật tay nghề chế tác hoàn mỹ không tì vết của chúng. Khách hàng đã vô cùng vui mừng hài lòng với bản dựng mô phỏng 3D!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Mô tả quy mô & Kích thước (Size, Scale & Dimensions):
+- **`colossal undertaking`** *(công trình/nhiệm vụ đồ sộ phi thường)*:
+  - *"Constructing the transcontinental railway across rugged mountain ranges was a **[[Colossal]]** undertaking."*
+  - *(Việc xây dựng tuyến đường sắt xuyên lục địa qua các dãy núi hiểm trở là một công trình đồ sộ phi thường.)*
+- **`infinitesimal margin of error`** *(biên độ sai số siêu nhỏ/vô cùng bé)*:
+  - *"Aerospace navigation systems require an **[[Infinitesimal]]** margin of error to prevent catastrophic drift."*
+  - *(Hệ thống định vị hàng không vũ trụ đòi hỏi biên độ sai số vô cùng nhỏ để ngăn ngừa hiện tượng trôi lệch thảm khốc.)*
+- **`narrow escape`** *(cuộc thoát chết trong gang tấc)*:
+  - *"The alpine climbers had a **[[Narrow]]** escape when a sudden rockfall tumbled across the footpath."*
+  - *(Những người leo núi đã có một cuộc thoát chết trong gang tấc khi một vụ lở đá bất ngờ tràn qua lối mòn.)*
+
+#### 2. Miêu tả cảm xúc & Trạng thái tinh thần (Emotions & Psychological States):
+- **`ecstatic celebration`** *(sự ăn mừng ngây ngất phấn khởi)*:
+  - *"The research team erupted in **[[Ecstatic]]** celebration upon verifying their breakthrough laboratory results."*
+  - *(Đội ngũ nghiên cứu vỡ òa trong màn ăn mừng ngây ngất sung sướng khi kiểm chứng thành công kết quả thí nghiệm đột phá.)*
+- **`deeply despondent`** *(vô cùng tuyệt vọng, nản lòng)*:
+  - *"After the venture capital funding collapsed, the startup founders felt deeply **[[Despondent]]**."*
+  - *(Sau khi nguồn vốn đầu tư mạo hiểm bị sụp đổ, các nhà sáng lập khởi nghiệp cảm thấy vô cùng tuyệt vọng và chán chường.)*
+- **`sluggish and lethargic`** *(uể oải, lờ đờ và thiếu sinh khí)*:
+  - *"Dehydration and extreme humidity can make travelers feel **[[Sluggish]]** and **[[Lethargic]]**."*
+  - *(Tình trạng mất nước và độ ẩm không khí quá cao có thể khiến du khách cảm thấy chậm chạp uể oải và lờ đờ thiếu sức sống.)*
+
+#### 3. Nhận xét ngoại quan & Đánh giá chất lượng (Appearance & Quality Assessment):
+- **`impeccable craftsmanship`** *(tay nghề chế tác hoàn mỹ không tì vết)*:
+  - *"The handcrafted antique mechanical timepiece is prized for its **[[Impeccable]]** craftsmanship."*
+  - *(Chiếc đồng hồ cơ cổ được làm thủ công bằng tay được trân quý nhờ tay nghề chế tác hoàn hảo không một vết xước.)*
+- **`resplendent elegance`** *(vẻ thanh lịch lộng lẫy kiêu sa)*:
+  - *"The historical palace stood in **[[Resplendent]]** glory against the twilight horizon."*
+  - *(Cung điện lịch sử đứng sừng sững trong vẻ đẹp lộng lẫy huy hoàng trên nền đường chân trời lúc chạng vạng.)*
+- **`convoluted explanation`** *(lời giải thích quanh co, rườm rà phức tạp)*:
+  - *"The spokesperson gave a **[[Convoluted]]** excuse that left investigative journalists completely **[[Confused]]**."*
+  - *(Người phát ngôn đã đưa ra lời thanh minh quanh co phức tạp khiến các phóng viên điều tra hoàn toàn bối rối hoang mang.)*

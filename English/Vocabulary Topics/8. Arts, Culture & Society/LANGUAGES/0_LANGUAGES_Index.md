@@ -107,3 +107,74 @@ For a passion-driven [[Polyglot]], the process of [[Language acquisition]] is a 
 
 ### Bản dịch Tiếng Việt
 Đối với một **người biết nhiều thứ tiếng** đầy đam mê, quá trình **thụ đắc ngôn ngữ** là một hành trình khám phá suốt đời. Trong khi hầu hết mọi người hài lòng với việc thành thạo **tiếng mẹ đẻ** của mình, một người đam mê ngôn ngữ lại tìm cách để trở nên **lưu loát** ở nhiều ngôn ngữ khác nhau. Việc khám phá lĩnh vực **ngôn ngữ học** cho phép họ hiểu cách các ngôn ngữ vận hành, từ những quy tắc ngữ pháp phức tạp đến nghiên cứu hấp dẫn về **từ nguyên học**, vốn tiết lộ nguồn gốc của các từ. Khi đi du lịch, họ thường phải **giải mã** **tiếng địa phương** và thích nghi với các biến thể vùng miền. Họ có thể phát hiện ra rằng ngay cả khi tiếng Anh đóng vai trò là một **ngôn ngữ chung** toàn cầu, việc giao tiếp thực sự vẫn đòi hỏi phải học **vốn từ vựng** bản địa, bao gồm cả **lối nói thông tục** không trang trọng và **tiếng lóng** đầy màu sắc. Thông qua việc luyện tập không ngừng, họ dần dần **tiếp thu** khả năng định hướng giữa các nền văn hóa khác nhau, cho thấy rằng việc **song ngữ** hoặc đa ngữ sẽ mở ra những cách trải nghiệm thế giới mới.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thụ đắc ngôn ngữ thứ hai & Tiếng lóng đời thường (Language Acquisition, Colloquialisms & Fluency)
+> **Bối cảnh thực tế:** Hai người bạn trao đổi kinh nghiệm học ngoại ngữ, sự khác biệt giữa ngữ pháp sách vở và việc hiểu tiếng lóng cũng như cách dùng từ thông tục của người bản xứ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Kevin:** Sarah, you have become remarkably **[[Fluent]]** in Spanish within just two years! What was your secret for rapid **[[Language acquisition]]**?
+  *(Sarah, cậu đã trở nên lưu loát tiếng Tây Ban Nha đáng nể chỉ trong vòng hai năm! Bí quyết của cậu để thụ đắc ngôn ngữ nhanh chóng là gì thế?)*
+- **Sarah:** I stopped focusing solely on textbook grammar and spent hours immersing myself with everyday **[[Native speaker|native speakers]]** to **[[Acquire]]** natural phrasing.
+  *(Mình đã dừng việc chỉ chăm chăm vào ngữ pháp sách giáo khoa và dành hàng giờ hòa mình với người bản ngữ hàng ngày để tiếp thu các cách diễn đạt tự nhiên.)*
+- **Kevin:** Was it difficult to understand local street **[[Slang]]** and subtle **[[Colloquialism|colloquialisms]]** that aren't listed in traditional dictionaries?
+  *(Có khó để hiểu tiếng lóng đường phố địa phương và các lối nói thông tục tinh tế không có trong từ điển truyền thống không?)*
+- **Sarah:** Initially yes! Understanding the local **[[Vernacular]]** and cultural **[[Idiom|idioms]]** requires active listening and contextual awareness.
+  *(Ban đầu thì có chứ! Hiểu được thổ ngữ bản địa và các thành ngữ văn hóa đòi hỏi sự lắng nghe chủ động và nhận thức theo ngữ cảnh.)*
+- **Kevin:** That explains why your spontaneous conversational style sounds so natural and authentic.
+  *(Điều đó giải thích tại sao phong cách trò chuyện tự nhiên của cậu nghe lại tự nhiên và chuẩn xác đến vậy.)*
+
+---
+
+### 🌟 Tình huống 2: Ngôn ngữ học hàn lâm: Từ nguyên học & Ngôn ngữ chung toàn cầu (Linguistics, Etymology & Lingua Franca)
+> **Bối cảnh thực tế:** Sinh viên ngôn ngữ học và giáo sư thảo luận về sự phát triển của vốn từ vựng, từ mới và tiếng Anh với vai trò là ngôn ngữ chung thế giới.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Professor Evans:** In today's **[[Linguistics]]** lecture, we examine how global connectivity expands the contemporary English **[[Lexicon]]**.
+  *(Trong bài giảng ngôn ngữ học hôm nay, chúng ta xem xét cách sự kết nối toàn cầu mở rộng vốn từ vựng tiếng Anh đương đại.)*
+- **Daniel:** As a curious **[[Polyglot]]**, I love tracing the historical **[[Etymology]]** of words across Romance and Germanic roots.
+  *(Là một người ham học biết nhiều thứ tiếng, em rất thích truy tìm nguồn gốc từ nguyên lịch sử của các từ qua các gốc Romance và Germanic.)*
+- **Professor Evans:** Excellent. Have you noticed how quickly a technical **[[Neologism]]** can achieve widespread adoption across digital media?
+  *(Xuất sắc. Em có nhận thấy một từ mới tạo ra trong lĩnh vực công nghệ có thể được tiếp nhận rộng rãi nhanh chóng như thế nào trên các phương tiện truyền thông kỹ thuật số không?)*
+- **Daniel:** Absolutely. Because English serves as the international **[[Lingua franca]]**, innovative terms spread instantly across borders, altering both **[[Semantics]]** and everyday usage.
+  *(Chắc chắn rồi ạ. Bởi vì tiếng Anh đóng vai trò là một ngôn ngữ chung quốc tế, các thuật ngữ sáng tạo lan truyền ngay lập tức qua các biên giới, làm thay đổi cả ngữ nghĩa học lẫn cách dùng hàng ngày.)*
+- **Professor Evans:** Precisely, and analyzing those shifts deepens our comprehension of living human language systems.
+  *(Chính xác, và việc phân tích những chuyển biến đó làm sâu sắc thêm sự hiểu biết của chúng ta về các hệ thống ngôn ngữ nhân loại đang sống.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về sự trôi chảy & Giao tiếp tự nhiên:
+- **`rapid language acquisition`** *(sự thụ đắc ngôn ngữ nhanh chóng)*:
+  - *"Total immersion in a foreign country greatly accelerates natural **[[Language acquisition]]**."*
+  - *(Việc đắm chìm hoàn toàn ở một quốc gia nước ngoài giúp đẩy nhanh rất nhiều quá trình thụ đắc ngôn ngữ tự nhiên.)*
+- **`become highly fluent`** *(trở nên vô cùng lưu loát)*:
+  - *"With consistent daily practice, students can become **[[Fluent]]** in their target language."*
+  - *(Với việc luyện tập hàng ngày đều đặn, học viên có thể trở nên lưu loát ngôn ngữ mục tiêu của mình.)*
+- **`engage with native speakers`** *(giao lưu với người bản ngữ)*:
+  - *"Language learners benefit immensely when they converse directly with a **[[Native speaker]]**."*
+  - *(Người học ngôn ngữ hưởng lợi rất nhiều khi trò chuyện trực tiếp với một người bản ngữ.)*
+
+#### 2. Khi nói về thành ngữ, tiếng lóng & Khẩu ngữ:
+- **`colorful colloquialism`** *(lối nói thông tục sinh động)*:
+  - *"Regional storytellers often enrich their tales with vibrant **[[Colloquialism|colloquialisms]]**."*
+  - *(Những người kể chuyện vùng miền thường làm phong phú câu chuyện của họ bằng những lối nói thông tục sinh động.)*
+- **`everyday street slang`** *(tiếng lóng đường phố thường ngày)*:
+  - *"Youth culture constantly invents new **[[Slang]]** to establish group identity."*
+  - *(Văn hóa giới trẻ liên tục sáng tạo ra tiếng lóng mới để khẳng định bản sắc nhóm.)*
+- **`local vernacular`** *(thổ ngữ địa phương / tiếng bản xứ)*:
+  - *"Anthropologists found that villagers spoke an ancient **[[Vernacular]]** distinct from the official dialect."*
+  - *(Các nhà nhân chủng học nhận thấy dân làng nói một thứ thổ ngữ cổ xưa khác biệt với phương ngữ chính thức.)*
+
+#### 3. Khi nghiên cứu ngôn ngữ học & Từ vựng:
+- **`global lingua franca`** *(ngôn ngữ chung toàn cầu)*:
+  - *"English has established itself as the undisputed **[[Lingua franca]]** of modern commerce and science."*
+  - *(Tiếng Anh đã khẳng định vị thế là ngôn ngữ chung không thể tranh cãi của thương mại và khoa học hiện đại.)*
+- **`trace historical etymology`** *(truy tìm từ nguyên lịch sử)*:
+  - *"Etymologists trace the **[[Etymology]]** of words back through centuries of semantic evolution."*
+  - *(Các nhà từ nguyên học truy tìm nguồn gốc từ nguyên qua nhiều thế kỷ tiến hóa ngữ nghĩa.)*
+- **`expand active lexicon`** *(mở rộng vốn từ vựng chủ động)*:
+  - *"Extensive reading of classic literature is the best method to expand your personal **[[Lexicon]]**."*
+  - *(Đọc rộng các tác phẩm văn học kinh điển là phương pháp tốt nhất để mở rộng vốn từ vựng cá nhân của bạn.)*

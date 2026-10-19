@@ -108,3 +108,78 @@ As a student of **[[Linguistics]]**, Clara loved exploring how people **[[Conver
 
 ### Bản dịch Tiếng Việt
 Là một sinh viên ngành **ngôn ngữ học**, Clara thích khám phá cách mọi người **trò chuyện** và **truyền tải** những ý tưởng phức tạp. Cô được nuôi dạy trong một gia đình **song ngữ**, điều này giúp cô dễ dàng **thấu hiểu** cả ngôn ngữ trang trọng lẫn các biến thể **tiếng địa phương**. Khi nghiên cứu **từ nguyên học** của các từ, cô nhận ra một **từ mới** có thể nhanh chóng đi vào **ngôn ngữ thường nhật** như thế nào. Trong nghiên cứu của mình, cô đã xem xét **cú pháp** và **ngữ nghĩa học** của các cách diễn đạt vùng miền, đồng thời lưu ý cách một **khẩu ngữ** có thể nghe giống như **biệt ngữ** đối với những người bên ngoài. Clara hy vọng rằng bằng cách mở rộng **vốn từ** của bản thân, cô có thể trở nên **lưu loát** không chỉ ở câu chữ, mà còn ở bối cảnh văn hóa mang lại sự sống cho chúng.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tranh luận học thuật về nghĩa hiển ngôn và hàm ý ngữ dụng (Academic Seminar on Semantics vs. Pragmatics)
+> **Bối cảnh thực tế:** Trong một buổi hội thảo chuyên đề ngôn ngữ học, hai nghiên cứu sinh tranh luận về cách người bản ngữ truyền tải thông điệp: sự khác biệt giữa nghĩa đen của câu chữ và hàm ý văn hóa qua ngữ cảnh.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Elena:** In formal **[[Semantics]]**, we analyze the **[[Literal]]** proposition of a **[[Sentence]]**, but that rarely captures what speakers truly intend to **[[Convey]]**.
+  *(Trong ngữ nghĩa học hình thức, chúng ta phân tích mệnh đề mang nghĩa đen của một câu, nhưng điều đó hiếm khi nắm bắt được điều mà người nói thực sự muốn truyền đạt.)*
+- **Liam:** Precisely. That is why **[[Pragmatics]]** is indispensable—it explains how context and social **[[Discourse]]** transform the meaning of an everyday **[[Utter|utterance]]**.
+  *(Chính xác. Đó là lý do tại sao ngữ dụng học lại không thể thiếu—nó giải thích cách bối cảnh và diễn ngôn xã hội làm thay đổi ý nghĩa của một phát ngôn hàng ngày.)*
+- **Elena:** Take the phrase "it's freezing in here." Literally, it describes temperature, but in conversation, it functions as an indirect request to close the window.
+  *(Hãy lấy câu "ở đây lạnh cóng." Về mặt nghĩa đen, nó miêu tả nhiệt độ, nhưng trong đàm thoại, nó hoạt động như một lời yêu cầu gián tiếp để đóng cửa sổ lại.)*
+- **Liam:** Exactly, and when non-native speakers take such **[[Figurative]]** cues literally, communication breaks down despite their flawless **[[Grammar]]**.
+  *(Đúng vậy, và khi người nói phi bản ngữ hiểu những gợi ý mang tính ẩn dụ như vậy theo đúng nghĩa đen, giao tiếp sẽ bị gãy đổ dù ngữ pháp của họ có hoàn hảo đến đâu.)*
+- **Elena:** Culture shapes every **[[Idiom]]** and localized **[[Colloquialism]]**, creating layers that cannot be deciphered through dictionary definitions alone.
+  *(Văn hóa nhào nặn nên từng thành ngữ và khẩu ngữ mang tính địa phương, tạo ra những tầng nghĩa không thể giải mã chỉ bằng định nghĩa trong từ điển.)*
+- **Liam:** Indeed. True mastery of **[[Linguistics]]** requires understanding how human beings bridge the gap between form, context, and implied **[[Meaning]]**.
+  *(Quả thực như vậy. Sự tinh thông thực sự về ngôn ngữ học đòi hỏi phải thấu hiểu cách con người bắc nhịp cầu nối giữa hình thức, ngữ cảnh và ý nghĩa hàm ẩn.)*
+
+---
+
+### 🌟 Tình huống 2: Thử thách tiếp thu ngôn ngữ và hòa nhập phương ngữ (Language Acquisition & Dialect Navigation)
+> **Bối cảnh thực tế:** Một sinh viên quốc tế trao đổi gặp gia sư ngôn ngữ để chia sẻ về những trở ngại khi nghe hiểu tiếng lóng vùng miền và cách cải thiện ngữ âm chuẩn.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Kenji:** Back home, I studied standard English for years, but now that I live here, I can barely **[[Comprehend]]** the local working-class **[[Dialect]]**.
+  *(Ở quê nhà, em đã học tiếng Anh chuẩn suốt nhiều năm, nhưng giờ khi sống ở đây, em hầu như không thể nghe hiểu được phương ngữ của tầng lớp lao động địa phương.)*
+- **Dr. Aris:** Do not feel discouraged, Kenji. Your **[[Mother tongue]]** has a very different syllable structure, which naturally affects how you perceive English **[[Phonology]]**.
+  *(Đừng nản lòng, Kenji. Tiếng mẹ đẻ của em có cấu trúc âm tiết rất khác biệt, điều này tự nhiên sẽ ảnh hưởng đến cách em cảm nhận âm vị học tiếng Anh.)*
+- **Kenji:** The street **[[Slang]]** moves so quickly, and people drop word endings or **[[Pronounce]]** vowels in ways I never learned in textbooks!
+  *(Tiếng lóng đường phố nói quá nhanh, và mọi người thường nuốt đuôi từ hoặc phát âm các nguyên âm theo cách em chưa từng được học trong sách giáo khoa!)*
+- **Dr. Aris:** We will work on acoustic **[[Phonetics]]** to train your ear, while also expanding your functional **[[Lexicon]]** with everyday colloquial phrases.
+  *(Chúng ta sẽ luyện tập về ngữ âm học thính giác để rèn luyện đôi tai của em, đồng thời mở rộng vốn từ vựng chức năng bằng các cụm khẩu ngữ đời thường.)*
+- **Kenji:** I hope that with consistent practice, I can become truly **[[Fluent]]** and **[[Converse]]** effortlessly with every **[[Native]]** speaker I meet.
+  *(Em hy vọng rằng với việc luyện tập kiên trì, em có thể trở nên thực sự lưu loát và trò chuyện một cách tự nhiên với mọi người bản ngữ em gặp.)*
+- **Dr. Aris:** With your dedication to studying root **[[Etymology]]** and active immersion, you will master both formal and informal **[[Language]]** in no time.
+  *(Với sự tận tâm nghiên cứu từ nguyên học gốc rễ và chủ động đắm mình vào môi trường, em sẽ làm chủ cả ngôn ngữ trang trọng lẫn đời thường trong thời gian ngắn thôi.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Ngữ âm, Phát âm & Tiếp thu ngôn ngữ (Phonetics, Pronunciation & Fluency):
+- **`accurate phonetic pronunciation / acoustic sound`** *(phát âm chuẩn xác theo ngữ âm học / âm thanh thính giác)*:
+  - *"Consulting IPA transcriptions helps learners master the exact **[[Pronunciation]]** and **[[Sound]]** of unfamiliar words."*
+  - *(Tra cứu phiên âm quốc tế IPA giúp người học nắm vững phát âm và âm thanh chuẩn xác của những từ mới lạ.)*
+- **`native speaker fluency / articulate speaker`** *(sự lưu loát như người bản ngữ / người diễn đạt gãy gọn)*:
+  - *"Consistent oral practice allows learners to **[[Speak]]** with natural ease and become truly **[[Fluent]]**."*
+  - *(Luyện nói thường xuyên cho phép người học nói năng lưu loát tự nhiên và trở nên thực sự thành thạo.)*
+- **`mother tongue interference / second language acquisition`** *(sự can thiệp của tiếng mẹ đẻ / thụ đắc ngôn ngữ thứ hai)*:
+  - *"Linguistic transfer from one's **[[Mother tongue]]** often shapes phonological rhythm in a second **[[Language]]**."*
+  - *(Sự chuyển di ngôn ngữ từ tiếng mẹ đẻ thường định hình nhịp điệu âm vị học trong ngôn ngữ thứ hai.)*
+
+#### 2. Cấu trúc ngữ pháp & Vốn từ vựng (Syntax, Morphology & Lexicon):
+- **`expand one's lexicon / rich vocabulary`** *(mở rộng vốn từ vựng / kho từ ngữ phong phú)*:
+  - *"Reading diverse classical literature helps scholars enrich their personal **[[Lexicon]]** and master expressive **[[Vocabulary]]**."*
+  - *(Đọc các tác phẩm văn học kinh điển đa dạng giúp các học giả làm giàu vốn từ cá nhân và làm chủ vốn từ ngữ biểu cảm.)*
+- **`syntactic structure / complex sentence pattern`** *(cấu trúc cú pháp / mẫu câu phức tạp)*:
+  - *"Mastering formal **[[Syntax]]** allows writers to craft every compound **[[Sentence]]** with clarity and precision."*
+  - *(Nắm vững cú pháp chuẩn mực cho phép người viết kiến tạo từng câu ghép một cách rõ ràng và chuẩn xác.)*
+- **`trace etymological roots / word morphology`** *(truy nguyên gốc từ nguyên học / hình thái học từ ngữ)*:
+  - *"By studying historical **[[Etymology]]**, researchers discover how ancient Greek roots inform modern **[[Morphology]]**."*
+  - *(Bằng việc nghiên cứu từ nguyên học lịch sử, các nhà nghiên cứu khám phá cách các gốc từ Hy Lạp cổ định hình hình thái học hiện đại.)*
+
+#### 3. Ngữ nghĩa học, Biệt ngữ & Thành ngữ (Semantics, Pragmatics & Idiomatic Expressions):
+- **`literal meaning versus figurative nuance`** *(nghĩa đen so với sắc thái nghĩa ẩn dụ)*:
+  - *"Poetry frequently departs from **[[Literal]]** definitions to convey profound **[[Figurative]]** emotional truths."*
+  - *(Thi ca thường tách rời khỏi định nghĩa theo nghĩa đen để truyền tải những chân lý cảm xúc ẩn dụ sâu sắc.)*
+- **`decode an idiom / regional colloquialism`** *(giải mã một câu thành ngữ / khẩu ngữ vùng miền)*:
+  - *"Foreign translators must carefully interpret each regional **[[Idiom]]** and colorful **[[Colloquialism]]**."*
+  - *(Các dịch giả nước ngoài phải diễn giải cẩn trọng từng thành ngữ vùng miền và khẩu ngữ giàu màu sắc.)*
+- **`coin a neologism / specialized terminology`** *(tạo ra một từ mới / thuật ngữ chuyên ngành)*:
+  - *"Rapid technological breakthroughs continually spawn fresh **[[Neologism|neologisms]]** and technical **[[Terminology]]**."*
+  - *(Những đột phá công nghệ nhanh chóng liên tục sản sinh ra những từ ngữ mới và hệ thuật ngữ kỹ thuật.)*

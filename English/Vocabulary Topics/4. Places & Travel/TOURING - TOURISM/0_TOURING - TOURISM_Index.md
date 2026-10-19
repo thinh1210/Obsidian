@@ -108,3 +108,77 @@ Driven by an insatiable [[Wanderlust]], the experienced [[Globetrotter]] careful
 
 ### Bản dịch Tiếng Việt
 Được thúc đẩy bởi một **niềm đam mê du lịch** vô tận, **người đi du lịch nhiều nơi trên thế giới** dày dạn kinh nghiệm đã lên kế hoạch tỉ mỉ cho **lịch trình chuyến đi** chi tiết của mình trước khi sẵn sàng **bắt đầu** một cuộc phiêu lưu mới đầy thú vị. **Điểm đến** cuối cùng của cô là một thung lũng xa xôi, nổi tiếng với **phong cảnh** ngoạn mục và những hồ nước **nguyên sơ**, chưa từng bị khai phá. Trên đường đi, cô thấy những người dân làng địa phương vô cùng **hiếu khách**, điều này làm hài lòng sâu sắc **người yêu thích văn hóa nước ngoài** bên trong cô. Sau một **điểm dừng chân** ngắn tại một thành phố **mang tính quốc tế** nhộn nhịp với đầy các địa danh **di sản** cổ kính, cô đã tham gia một **chuyến đi chơi** có hướng dẫn để **vượt qua** những con đường mòn gồ ghề trên núi. Mỗi khoảnh khắc của hành trình đáng nhớ này đều củng cố thêm tình yêu trọn đời của cô đối với việc khám phá những kỳ quan đa dạng của thế giới và kết nối với các nền văn hóa khác nhau.
+
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tư vấn lịch trình du lịch sinh thái tại đại lý lữ hành (Ecotourism Itinerary Consultation at a Travel Agency)
+> **Bối cảnh thực tế:** Tại một đại lý lữ hành chuyên về du lịch bền vững, một tư vấn viên lữ hành (**[[Guide]]**) tư vấn cho một du khách đam mê khám phá (**[[Tourist]]** / **[[Globetrotter]]**) lên lịch trình (**[[Itinerary]]**) tham gia tour du lịch sinh thái (**[[Ecotourism]]**), khám phá các danh lam thắng cảnh (**[[Landmark]]** / **[[Monument]]**) và thiên nhiên hoang sơ (**[[Pristine]]** / **[[Unspoiled]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Agent Chloe:** Welcome to EcoVenture! How can I help tailor your next dream **[[Vacation]]**?
+  *(Chào mừng quý khách đến với EcoVenture! Tôi có thể giúp gì để thiết kế kỳ nghỉ mơ ước sắp tới cho quý khách ạ?)*
+- **Liam:** Hi Chloe! I have severe **[[Wanderlust]]**, but I want to avoid overcrowded hotspots. I'm keen on sustainable **[[Ecotourism]]** that respects local **[[Heritage]]**.
+  *(Chào Chloe! Tôi luôn khao khát xê dịch, nhưng tôi muốn tránh những điểm nóng quá tải du khách. Tôi rất quan tâm đến du lịch sinh thái bền vững tôn trọng di sản địa phương.)*
+- **Agent Chloe:** You've come to the right place. We have a fantastic 7-day guided **[[Excursion]]** where you will **[[Traverse]]** **[[Unspoiled]]** rainforests and visit hidden coastal sanctuaries.
+  *(Quý khách tìm đúng nơi rồi ạ. Chúng tôi có một chuyến dã ngoại có hướng dẫn 7 ngày tuyệt vời, nơi quý khách sẽ băng qua những khu rừng nhiệt đới nguyên sơ và thăm các khu bảo tồn ven biển ẩn giấu.)*
+- **Liam:** That sounds incredible! What about our **[[Accommodation]]** and local transport along the route?
+  *(Nghe tuyệt vời quá! Còn chỗ ở và phương tiện di chuyển địa phương dọc theo tuyến đường thì sao?)*
+- **Agent Chloe:** We stay in community-run lodges where the villagers are exceptionally **[[Hospitable]]**. We use solar-powered riverboats and train travel to keep emissions low.
+  *(Chúng ta sẽ nghỉ tại các nhà nghỉ do cộng đồng vận hành, nơi dân làng đặc biệt hiếu khách. Chúng ta dùng thuyền chạy năng lượng mặt trời và tàu hỏa để giảm thiểu phát thải.)*
+- **Liam:** Outstanding! Let's lock in my **[[Reservation]]** and finalize the complete **[[Itinerary]]**.
+  *(Xuất sắc! Hãy giúp tôi xác nhận đặt chỗ và hoàn tất toàn bộ lịch trình chuyến đi nhé.)*
+
+---
+
+### 🌟 Tình huống 2: Chuyến du lịch bụi & Trải nghiệm văn hóa bản địa (Backpacking Adventure & Cultural Immersion)
+> **Bối cảnh thực tế:** Hai người bạn trẻ mang ba lô (**[[Backpacking]]**) gặp nhau tại một quán cà phê ở điểm dừng chân (**[[Stopover]]**), cùng trao đổi về cẩm nang du lịch (**[[Guidebook]]**), bản đồ (**[[Map]]**) và mua quà lưu niệm (**[[Souvenir]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Sophie:** Alex, are you ready to **[[Embark]]** on the second leg of our cross-country **[[Tour]]**?
+  *(Alex ơi, cậu đã sẵn sàng bắt đầu chặng thứ hai của chuyến du lịch xuyên quốc gia của chúng mình chưa?)*
+- **Alex:** Just checking my **[[Luggage]]** and making sure my **[[Passport]]** and train **[[Ticket]]** are secure in my pouch.
+  *(Mình đang kiểm tra lại hành lý và đảm bảo hộ chiếu cùng vé tàu đã được cất an toàn trong túi đeo.)*
+- **Sophie:** Great! Our trusty **[[Guidebook]]** recommends visiting this ancient mountain **[[Landmark]]** before heading down to the coast.
+  *(Tốt lắm! Cuốn sách hướng dẫn du lịch đáng tin cậy này gợi ý nên ghé thăm địa danh núi non cổ kính này trước khi xuôi về vùng biển.)*
+- **Alex:** Sounds like a plan. As a certified **[[Xenophile]]**, I can't wait to interact with local artisans and pick up some handcrafted **[[Souvenir|souvenirs]]**.
+  *(Nghe chuẩn đấy. Là một người cực kỳ đam mê văn hóa nước ngoài, mình nóng lòng muốn giao lưu với các nghệ nhân địa phương và mua vài món đồ lưu niệm thủ công.)*
+- **Sophie:** Backpacking really is the best way to experience authentic culture and breathtaking **[[Scenery]]** without breaking the bank.
+  *(Đi du lịch bụi thực sự là cách tuyệt vời nhất để trải nghiệm văn hóa chân thực và phong cảnh ngoạn mục mà không tốn kém quá nhiều.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi lên kế hoạch & Đặt dịch vụ du lịch:
+- **`detailed travel itinerary`** *(lịch trình chuyến đi chi tiết)*:
+  - *"Before departing, the tour operator emailed a comprehensive, day-by-day **[[Itinerary]]**."*
+  - *(Trước khi khởi hành, công ty lữ hành đã gửi qua email một lịch trình chi tiết từng ngày.)*
+- **`confirm accommodation reservation`** *(xác nhận đặt chỗ nghỉ ngơi)*:
+  - *"Please double-check your dates before confirming your hotel **[[Reservation]]**."*
+  - *(Vui lòng kiểm tra kỹ lại ngày tháng trước khi xác nhận đặt phòng khách sạn của bạn.)*
+- **`embark on an expedition`** *(bắt đầu một chuyến thám hiểm)*:
+  - *"Intrepid explorers gathered at dawn to **[[Embark]]** on an arduous mountain **[[Expedition]]**."*
+  - *(Các nhà thám hiểm dũng cảm đã tập hợp lúc rạng đông để bắt đầu một chuyến thám hiểm leo núi gian khổ.)*
+
+#### 2. Khi trải nghiệm du lịch bền vững & Khám phá:
+- **`sustainable ecotourism`** *(du lịch sinh thái bền vững)*:
+  - *"The national park promotes **[[Ecotourism]]** to minimize environmental disruption."*
+  - *(Vườn quốc gia thúc đẩy du lịch sinh thái để giảm thiểu sự xáo trộn môi trường.)*
+- **`unspoiled natural scenery`** *(phong cảnh thiên nhiên nguyên sơ, chưa bị tàn phá)*:
+  - *"Hikers were spellbound by the tranquil lakes and **[[Unspoiled]]** mountain **[[Scenery]]**."*
+  - *(Những người đi bộ đường dài bị mê hoặc bởi những hồ nước thanh bình và phong cảnh núi non nguyên sơ.)*
+- **`hospitable locals / warm hospitality`** *(người dân địa phương hiếu khách / sự hiếu khách nồng hậu)*:
+  - *"Travelers were deeply touched by the generous nature of the **[[Hospitable]]** villagers."*
+  - *(Du khách đã vô cùng xúc động trước sự chân tình của những người dân làng hiếu khách.)*
+
+#### 3. Khi chuẩn bị hành trang & Di chuyển:
+- **`pack light luggage`** *(gói ghém hành lý gọn nhẹ)*:
+  - *"Experienced backpackers always recommend packing lightweight **[[Luggage]]** for ease of movement."*
+  - *(Những người du lịch bụi dày dạn kinh nghiệm luôn khuyên nên đóng gói hành lý gọn nhẹ để dễ di chuyển.)*
+- **`famous historic landmark`** *(địa danh lịch sử nổi tiếng)*:
+  - *"The ancient stone citadel is the most revered historic **[[Landmark]]** in the province."*
+  - *(Tòa thành đá cổ kính là địa danh lịch sử được tôn kính nhất trong toàn tỉnh.)*
+- **`pick up local souvenirs`** *(mua những món quà lưu niệm địa phương)*:
+  - *"Tourists enjoy browsing open-air bazaars to pick up a meaningful **[[Souvenir]]** for their families."*
+  - *(Du khách thích dạo qua các khu chợ trời để mua một món quà lưu niệm ý nghĩa cho gia đình.)*

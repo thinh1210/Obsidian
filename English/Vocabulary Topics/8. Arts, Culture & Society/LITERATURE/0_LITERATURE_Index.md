@@ -108,3 +108,78 @@ The author's latest **[[Novel]]** is a brilliant piece of historical **[[Fiction
 
 ### Bản dịch Tiếng Việt
 Cuốn **tiểu thuyết** mới nhất của tác giả là một tác phẩm **hư cấu** lịch sử xuất sắc khám phá cái giá bi thảm của tham vọng. Thuộc **thể loại** gothic, **truyện kể** xoay quanh một học giả trẻ, **nhân vật chính**, người phải đối mặt với một đối thủ tàn nhẫn đóng vai trò là **nhân vật phản diện** chính. Để xây dựng một **cốt truyện** phong phú, người viết sử dụng biển cả như một **phép ẩn dụ** trung tâm cho tâm trí con người, đồng thời cũng là một **motif** lặp đi lặp lại về sự tự do xuyên suốt các chương. Thông qua một đoạn **độc thoại nội tâm** đầy ám ảnh ở chương ba, tác giả đã khéo léo **báo trước** sự sụp đổ bi thảm của người học giả, khiến câu chuyện giống như một tác phẩm **ngụ ngôn** hiện đại về lòng tham. Mặc dù các nhà phê bình tranh cãi rằng cuốn sách không phải là một tác phẩm **kinh điển** truyền thống, nó đã dệt nên một **chủ đề** phức tạp một cách bậc thầy, để lại tiếng vang sâu sắc trong lòng độc giả hiện đại.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Câu lạc bộ sách thảo luận về nghệ thuật xây dựng nhân vật và biểu tượng (Book Club Analysis of Symbolism & Character Arc)
+> **Bối cảnh thực tế:** Tại một góc yên tĩnh của thư viện thành phố, các thành viên câu lạc bộ sách phân tích tác phẩm tiểu thuyết kinh điển đoạt giải, thảo luận về mâu thuẫn giữa nhân vật chính và nhân vật phản diện.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Clara:** What impressed me most about this **[[Novel]]** is how the **[[Author]]** crafts the psychological journey of the central **[[Protagonist]]**.
+  *(Điều làm tôi ấn tượng nhất về cuốn tiểu thuyết này là cách tác giả khắc họa hành trình tâm lý của nhân vật chính diện trung tâm.)*
+- **Julian:** Absolutely, and his moral decline mirrors that of the **[[Antagonist]]**, showing that good and evil often share the same tragic roots.
+  *(Hoàn toàn đồng ý, và sự suy đồi đạo đức của anh ta phản chiếu chính nhân vật phản diện, cho thấy cái thiện và cái ác thường có chung nguồn cội bi kịch.)*
+- **Clara:** Did you notice the recurring raven **[[Motif]]** in every pivotal **[[Chapter]]**? It serves as a haunting **[[Symbolism]]** for impending grief.
+  *(Bạn có để ý motif con quạ lặp đi lặp lại trong mỗi chương then chốt không? Nó đóng vai trò như một biểu tượng đầy ám ảnh cho nỗi đau thương sắp ập tới.)*
+- **Julian:** Yes! The writer uses evocative visual **[[Imagery]]** to **[[Foreshadow]]** the catastrophic climax long before it unfolds.
+  *(Vâng! Người viết sử dụng hình ảnh trực quan đầy gợi cảm để báo trước đỉnh điểm thảm khốc rất lâu trước khi nó diễn ra.)*
+- **Clara:** There is also biting dramatic **[[Irony]]** in the final dialogue, where the hero's quest for salvation seals his own destruction.
+  *(Cũng có cả sự mỉa mai kịch tính sâu cay trong đoạn đối thoại cuối cùng, nơi hành trình tìm kiếm sự cứu rỗi của người hùng lại ấn định chính sự hủy diệt của anh ta.)*
+- **Julian:** That subtle complexity is precisely why this masterwork will remain an enduring **[[Classic]]** in world **[[Literature]]**.
+  *(Sự phức tạp tinh tế đó chính là lý do vì sao kiệt tác này sẽ mãi là một tác phẩm kinh điển trường tồn trong nền văn học thế giới.)*
+
+---
+
+### 🌟 Tình huống 2: Thẩm định bản thảo hồi ký và thương thảo xuất bản (Editorial Meeting between Author and Publisher)
+> **Bối cảnh thực tế:** Một nhà văn trẻ gặp trưởng ban biên tập của một nhà xuất bản uy tín để thảo luận việc chỉnh lý bản thảo cuốn hồi ký cá nhân trước khi ấn hành rộng rãi.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Editor Marcus:** Beatrice, your manuscript has immense potential. Your reflective **[[Prose]]** elevates what could have been a standard **[[Memoir]]** into high art.
+  *(Beatrice, bản thảo của cô có tiềm năng rất lớn. Lối văn xuôi giàu tính chiêm nghiệm của cô đã nâng tầm một cuốn hồi ký thông thường thành nghệ thuật đỉnh cao.)*
+- **Beatrice:** Thank you, Marcus. I worked tirelessly to ensure every personal **[[Story]]** felt authentic, without tipping into sensational **[[Melodrama]]**.
+  *(Cảm ơn Marcus. Tôi đã làm việc không mệt mỏi để đảm bảo mỗi câu chuyện cá nhân đều chân thực, mà không bị rơi vào lối bi kịch hóa giật gân rẻ tiền.)*
+- **Editor Marcus:** We ran the standard editorial verification checks, and I am glad to confirm that your citations contain zero risk of inadvertent **[[Plagiarism]]**.
+  *(Chúng tôi đã tiến hành các bước kiểm tra thẩm định biên tập tiêu chuẩn, và tôi rất vui mừng xác nhận rằng các trích dẫn của cô hoàn toàn không có nguy cơ đạo văn vô ý.)*
+- **Beatrice:** That is a relief. When does the marketing team plan to **[[Publish]]** the first hardcover edition?
+  *(Thật nhẹ nhõm. Khi nào thì đội ngũ tiếp thị dự định xuất bản ấn bản bìa cứng đầu tiên vậy?)*
+- **Editor Marcus:** We target an autumn release. If we secure an enthusiastic advance **[[Review]]** from a distinguished literary **[[Critic]]**, this book could easily become a national **[[Best-seller]]**.
+  *(Chúng tôi nhắm đến việc phát hành vào mùa thu. Nếu chúng tôi nhận được bài đánh giá khen ngợi sớm từ một nhà phê bình văn học danh tiếng, cuốn sách này có thể dễ dàng trở thành một tác phẩm bán chạy nhất toàn quốc.)*
+- **Beatrice:** I truly appreciate your guidance, Marcus. Seeing this work displayed in every major bookstore and **[[Library]]** will be a dream fulfilled.
+  *(Tôi thực sự cảm kích sự hướng dẫn của anh, Marcus. Nhìn thấy tác phẩm này được trưng bày ở mọi hiệu sách lớn và thư viện sẽ là một giấc mơ trở thành hiện thực.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Phân tích cốt truyện & Xây dựng nhân vật (Plot Analysis & Character Arcs):
+- **`compelling narrative arc / intricate plot`** *(mạch tự sự cuốn hút / cốt truyện phức tạp)*:
+  - *"The novel mesmerizes readers with its complex **[[Plot]]** and fast-paced **[[Narrative]]** structure."*
+  - *(Cuốn tiểu thuyết mê hoặc độc giả bằng một cốt truyện phức tạp và cấu trúc tự sự dồn dập.)*
+- **`protagonist versus antagonist conflict`** *(xung đột giữa nhân vật chính diện và phản diện)*:
+  - *"The psychological duel between the heroic **[[Protagonist]]** and his cunning **[[Antagonist]]** drives the entire book."*
+  - *(Cuộc đấu trí tâm lý giữa người hùng chính diện và kẻ phản diện xảo quyệt thúc đẩy toàn bộ cuốn sách.)*
+- **`foreshadow tragic events / dramatic irony`** *(báo trước sự kiện bi thảm / nghịch lý mỉa mai kịch tính)*:
+  - *"Early storm descriptions subtly **[[Foreshadow]]** the protagonist's impending downfall with poignant **[[Irony]]**."*
+  - *(Những mô tả về cơn bão ở đầu truyện báo trước một cách tinh tế sự suy sụp sắp tới của nhân vật chính với sự mỉa mai chua xót.)*
+
+#### 2. Biện pháp tu từ & Thi ca (Literary Devices, Figurative Language & Poetry):
+- **`evocative imagery / central metaphor`** *(hình ảnh gợi cảm / phép ẩn dụ trung tâm)*:
+  - *"The poet weaves vivid sensory **[[Imagery]]** and a recurring **[[Metaphor]]** of wandering rivers."*
+  - *(Nhà thơ dệt nên những hình ảnh giác quan sống động và một phép ẩn dụ lặp đi lặp lại về những dòng sông lang bạt.)*
+- **`expressive poetry / compose a poem`** *(thi ca giàu tính biểu cảm / sáng tác một bài thơ)*:
+  - *"Renowned throughout the nation, the talented **[[Poet]]** spent months crafting a lyrical **[[Poem]]**."*
+  - *(Nổi tiếng khắp cả nước, nhà thơ tài hoa đã dành nhiều tháng để sáng tác một bài thơ trữ tình.)*
+- **`solitary soliloquy / theatrical drama`** *(đoạn độc thoại nội tâm cô độc / tác phẩm kịch sân khấu)*:
+  - *"Hamlet's introspective **[[Soliloquy]]** stands as one of the most famous moments in dramatic **[[Drama]]**."*
+  - *(Đoạn độc thoại nội tâm đầy trăn trở của Hamlet là một trong những khoảnh khắc nổi tiếng nhất trong nghệ thuật kịch nghệ.)*
+
+#### 3. Xuất bản & Phê bình văn học (Publishing, Literary Criticism & Reception):
+- **`publish a best-seller / prestigious publisher`** *(xuất bản cuốn sách bán chạy / nhà xuất bản danh tiếng)*:
+  - *"The ambitious **[[Publisher]]** agreed to **[[Publish]]** the thrilling historical **[[Fiction]]** nationwide."*
+  - *(Nhà xuất bản đầy tham vọng đã đồng ý ấn hành cuốn tiểu thuyết hư cấu lịch sử ly kỳ trên toàn quốc.)*
+- **`critical review / laud an epitome of art`** *(bài phê bình đánh giá / ca ngợi hình mẫu đỉnh cao của nghệ thuật)*:
+  - *"Every leading literary **[[Critic]]** praised the volume as the very **[[Epitome]]** of contemporary prose."*
+  - *(Mọi nhà phê bình văn học hàng đầu đều ca ngợi tập sách như một hình mẫu chuẩn mực của văn xuôi đương đại.)*
+- **`literary translation / translate world classics`** *(dịch thuật văn học / chuyển ngữ các tác phẩm kinh điển)*:
+  - *"Meticulous scholars strive to **[[Translate]]** ancient verse while honoring the cultural nuances of the original **[[Translation]]**."*
+  - *(Các học giả tỉ mỉ nỗ lực chuyển ngữ thơ cổ trong khi vẫn tôn trọng những sắc thái văn hóa của bản dịch gốc.)*

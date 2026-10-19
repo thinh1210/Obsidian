@@ -108,3 +108,78 @@ When I decided to [[Enroll]] in the new academy, I was captivated by its unique 
 
 ### Bản dịch Tiếng Việt
 Khi tôi quyết định **đăng ký nhập học** tại học viện mới, tôi đã bị thu hút bởi **đặc tính giáo dục** độc đáo của nơi đây, một môi trường coi trọng cả tính cộng đồng và **chế độ trọng dụng nhân tài** nghiêm ngặt. **Chương trình học** của trường không chỉ xoay quanh việc học thuộc lòng các sự kiện; thay vào đó, **phương pháp sư phạm** chú trọng vào việc học tập chủ động. Các giáo viên sử dụng **phương pháp nâng đỡ** để định hướng cho học sinh, thường xuyên đưa chúng tôi vào các cuộc hội thảo theo phương pháp **vấn đáp Socratic** để kích thích tư duy phản biện. Tôi rất thích cách họ khuyến khích chúng tôi **hợp tác** với từng **bạn học** trong các dự án thực tế, biến lý thuyết thành **thực tiễn**. Ngôi trường này cũng tôn vinh sự **đa dạng** và mang đến nhiều hoạt động **ngoại khóa** giúp nâng cao **động lực** học tập của học sinh. Đối với một **người tự học** đầy đam mê như tôi, môi trường này là nơi hoàn hảo để phát triển bản thân.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Hội nghị đổi mới phương pháp sư phạm và kỷ luật trường học (Faculty Meeting on Pedagogical Innovation & School Ethos)
+> **Bối cảnh thực tế:** Ban giám hiệu nhà trường họp với các tổ trưởng bộ môn để bàn về việc chuyển dịch từ lối dạy áp đặt một chiều (didactic) sang phương pháp đối thoại gợi mở Socratic kết hợp giàn giáo hỗ trợ (scaffolding).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Principal Vance:** Teachers, our internal academic **[[Evaluation]]** indicates that rote, **[[Didactic]]** lectures are causing a decline in student **[[Motivation]]**.
+  *(Thưa các thầy cô, đợt đánh giá học thuật nội bộ của chúng ta chỉ ra rằng các bài giảng một chiều theo kiểu đọc chép đang khiến động lực học tập của học sinh sa sút.)*
+- **Ms. Eleanor (Teacher):** I agree, Principal. In my English literature **[[Classroom]]**, I have started using **[[Scaffolding]]** techniques to foster critical **[[Cognition]]**.
+  *(Tôi hoàn toàn đồng ý, thưa Hiệu trưởng. Trong lớp học ngữ văn của tôi, tôi đã bắt đầu áp dụng các kỹ thuật giàn giáo hỗ trợ để nuôi dưỡng năng lực nhận thức phản biện.)*
+- **Principal Vance:** How has that affected active participation during group discussions?
+  *(Điều đó đã tác động như thế nào đến sự tham gia tích cực trong các buổi thảo luận nhóm vậy cô?)*
+- **Ms. Eleanor (Teacher):** When we organize a structured **[[Socratic]]** dialogue, pupils learn to **[[Collaborate]]** with each **[[Peer]]** rather than passively waiting for answers.
+  *(Khi chúng tôi tổ chức một cuộc đối thoại gợi mở Socratic bài bản, các em học sinh học được cách hợp tác với từng bạn học thay vì thụ động chờ đợi câu trả lời.)*
+- **Principal Vance:** That aligns perfectly with our institutional **[[Ethos]]**, which prioritizes genuine intellectual curiosity over blind conformity.
+  *(Điều đó hoàn toàn ăn khớp với đặc tính văn hóa của trường ta, nơi ưu tiên sự tò mò trí tuệ thực thụ hơn là sự phục tùng mù quáng.)*
+- **Ms. Eleanor (Teacher):** By empowering students, we have also seen a noticeable drop in unexcused **[[Absenteeism]]** and disciplinary infractions.
+  *(Bằng cách trao quyền cho học sinh, chúng tôi cũng nhận thấy sự sụt giảm rõ rệt về tình trạng vắng mặt không phép và các vi phạm kỷ luật.)*
+
+---
+
+### 🌟 Tình huống 2: Hòa nhập văn hóa học đường cho học sinh quốc tế chuyển trường (Acculturation & Extracurricular Engagement for New Students)
+> **Bối cảnh thực tế:** Một học sinh quốc tế mới chuyển đến trao đổi với giáo viên hướng dẫn kiêm cố vấn học đường về việc làm quen với văn hóa ngôi trường mới và tham gia các hoạt động sau giờ học.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Student Mei:** Good morning, Mr. Davies. Since I decided to **[[Enroll]]** in this **[[School]]**, the process of cultural **[[Acculturation]]** has been quite overwhelming.
+  *(Chào thầy Davies. Kể từ khi em quyết định đăng ký nhập học vào ngôi trường này, quá trình tiếp biến và hòa nhập văn hóa thực sự có phần choáng ngợp với em.)*
+- **Counselor Davies (Mentor):** That is completely normal, Mei. Every new **[[Student]]** needs time to adapt to our daily routines and our mandatory **[[Uniform]]** policy.
+  *(Điều đó hoàn toàn bình thường thôi, Mei. Mọi học sinh mới đều cần thời gian để thích nghi với nếp sinh hoạt hàng ngày và quy định mặc đồng phục bắt buộc của chúng ta.)*
+- **Student Mei:** In my previous school, we had no strict **[[Discipline]]** regarding dress codes, but I really appreciate how this community celebrates cultural **[[Diversity]]**.
+  *(Ở trường cũ của em, chúng em không có kỷ luật nghiêm khắc về quy tắc ăn mặc, nhưng em thực sự đánh giá cao cách cộng đồng nơi đây tôn vinh sự đa dạng văn hóa.)*
+- **Counselor Davies (Mentor):** Embracing that diversity is central to our mission. I strongly encourage you to join an **[[Extracurricular]]** club, such as the debate team or student newspaper.
+  *(Đón nhận sự đa dạng đó là trọng tâm trong sứ mệnh của chúng tôi. Thầy đặc biệt khuyến khích em tham gia một câu lạc bộ ngoại khóa, chẳng hạn như đội tranh biện hoặc tờ báo học sinh.)*
+- **Student Mei:** That sounds wonderful! Working together on creative projects will help me bond with my classmates and turn learning theory into active **[[Praxis]]**.
+  *(Nghe tuyệt vời quá thầy! Cùng nhau làm việc trong các dự án sáng tạo sẽ giúp em gắn kết với các bạn cùng lớp và biến lý thuyết học tập thành thực tiễn sinh động.)*
+- **Counselor Davies (Mentor):** Exactly. As your academic **[[Mentor]]**, I am confident you will excel and eventually **[[Graduate]]** with outstanding honors.
+  *(Chính xác là như vậy. Với tư cách là người cố vấn học tập của em, thầy tin chắc em sẽ tỏa sáng và sau này sẽ tốt nghiệp với thành tích xuất sắc.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Văn hóa học đường, Chuẩn mực & Kỷ luật (School Culture, Ethos & Discipline):
+- **`embody school ethos / celebrate student diversity`** *(thể hiện tinh thần chuẩn mực của trường / tôn vinh sự đa dạng của học sinh)*:
+  - *"Our core mission is to uphold the **[[School]]** **[[Ethos]]** while embracing cultural **[[Diversity]]** across all grades."*
+  - *(Sứ mệnh cốt lõi của chúng tôi là duy trì đặc tính chuẩn mực của nhà trường đồng thời đón nhận sự đa dạng văn hóa ở tất cả các khối lớp.)*
+- **`enforce strict discipline / wear a mandatory uniform`** *(thực thi kỷ luật nghiêm minh / mặc đồng phục bắt buộc)*:
+  - *"Wearing a tidy school **[[Uniform]]** helps maintain daily **[[Discipline]]** and a sense of shared community."*
+  - *(Mặc đồng phục học sinh gọn gàng giúp duy trì kỷ luật hàng ngày và ý thức cộng đồng gắn kết.)*
+- **`address chronic absenteeism / risk of exclusion`** *(giải quyết tình trạng vắng mặt mãn tính / nguy cơ bị đình chỉ học tập)*:
+  - *"School counselors worked proactively to reduce pupil **[[Absenteeism]]** and prevent social **[[Exclusion]]**."*
+  - *(Các chuyên viên tư vấn học đường đã chủ động hành động để giảm thiểu tình trạng học sinh vắng mặt và ngăn ngừa nguy cơ bị cô lập.)*
+
+#### 2. Phương pháp giảng dạy & Phát triển tư duy (Pedagogy, Socratic Method & Scaffolding):
+- **`instructional scaffolding / active student cognition`** *(giàn giáo hỗ trợ học tập / năng lực nhận thức chủ động của học sinh)*:
+  - *"Educators utilize structured **[[Scaffolding]]** to enhance deeper conceptual **[[Cognition]]** in complex topics."*
+  - *(Các nhà giáo dục sử dụng giàn giáo hỗ trợ có bài bản để nâng cao nhận thức khái niệm sâu sắc hơn trong các chủ đề phức tạp.)*
+- **`socratic questioning / peer collaboration`** *(phương pháp vấn đáp Socratic / sự hợp tác giữa các bạn học)*:
+  - *"Conducting a **[[Socratic]]** dialogue encourages students to think independently and **[[Collaborate]]** with each **[[Peer]]**."*
+  - *(Tiến hành một cuộc đối thoại theo phương pháp vấn đáp Socratic khuyến khích học sinh tư duy độc lập và hợp tác với từng bạn học.)*
+- **`accredited curriculum / academic evaluation`** *(chương trình đào tạo được kiểm định / đánh giá học thuật)*:
+  - *"The committee revised the school **[[Curriculum]]** to align with rigorous international **[[Accreditation]]** standards."*
+  - *(Hội đồng đã chỉnh sửa chương trình học của nhà trường để phù hợp với các tiêu chuẩn kiểm định quốc tế khắt khe.)*
+
+#### 3. Phát triển năng lực, Tự học & Thực tiễn (Self-Directed Learning, Meritocracy & Praxis):
+- **`foster an autodidact mindset / intrinsic motivation`** *(nuôi dưỡng tư duy tự học / động lực học tập nội tại)*:
+  - *"An exceptional **[[Teacher]]** strives to inspire every pupil to become a lifelong **[[Autodidact]]** driven by intrinsic **[[Motivation]]**."*
+  - *(Một người thầy xuất chúng luôn nỗ lực truyền cảm hứng để mọi học trò trở thành một người tự học suốt đời được thôi thúc bởi động lực nội tại.)*
+- **`fair meritocracy / competitive scholarship`** *(chế độ trọng dụng nhân tài công bằng / học bổng cạnh tranh)*:
+  - *"Admissions operate as a strict **[[Meritocracy]]**, awarding every coveted **[[Scholarship]]** based solely on talent."*
+  - *(Quy trình tuyển sinh vận hành như một chế độ trọng dụng nhân tài nghiêm ngặt, trao từng suất học bổng đáng mơ ước chỉ dựa vào thực tài.)*
+- **`theory into praxis / foundational literacy`** *(chuyển hóa lý thuyết thành thực tiễn / năng lực đọc viết nền tảng)*:
+  - *"Vocational training transforms classroom theory into productive **[[Praxis]]** while reinforcing fundamental **[[Literacy]]**."*
+  - *(Đào tạo hướng nghiệp chuyển hóa lý thuyết lớp học thành thực tiễn hữu ích đồng thời củng cố năng lực đọc viết căn bản.)*

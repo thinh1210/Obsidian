@@ -108,3 +108,78 @@ In his dusty workshop, the eccentric inventor stared at his latest **[[contrapti
 
 ### Bản dịch Tiếng Việt
 Trong nhà xưởng đầy bụi bặm của mình, nhà phát minh lập dị nhìn chằm chằm vào **cỗ máy kỳ lạ** mới nhất của mình, một máy đo thời gian cơ học phức tạp. Ông cầm một chiếc **thước kẹp** chính xác để đo một chiếc **bánh răng** bằng đồng nhỏ trước khi trượt nó vào **cơ cấu máy** chính. Mỗi **linh kiện** đơn lẻ đều phải vừa khít hoàn hảo. Với một chiếc **cờ lê** nặng, ông siết chặt các bu-lông, sau đó gõ một miếng kim loại trên chiếc **đe** sắt để tạo hình một chiếc giá đỡ tùy chỉnh. Để cung cấp năng lượng cho hệ thống, ông quay một chiếc **tay quay** bằng gỗ nối với một **máy phát điện** bằng đồng, thứ từ từ tạo ra điện. Một **thiết bị nhỏ kỳ lạ** kỹ thuật số nhấp nháy, cho thấy **cảm biến** quang học hiện đã hoạt động. Cuối cùng, **thiết bị chuyên dụng** khoa học phức tạp này đã bắt đầu kêu vo vo hoạt động. Nhà phát minh mỉm cười, nhận ra rằng **công cụ** tự chế của mình cuối cùng đã hoạt động.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Sửa chữa và bảo trì động cơ tại xưởng kỹ thuật (Workshop Engine Repair & Maintenance)
+> **Bối cảnh thực tế:** Hai kỹ sư cơ khí đang kiểm tra một cỗ máy công nghiệp bị sụt áp suất và quá nhiệt trong dây chuyền sản xuất để tiến hành bảo dưỡng và thay thế linh kiện lỗi.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Marcus:** Hand me that adjustable **[[Wrench]]** and shine the **[[Flashlight]]** into the cylinder head, David. We need to inspect why the pressure **[[Gauge]]** dropped so suddenly.
+  *(Đưa cho tôi chiếc cờ lê điều chỉnh đó và rọi đèn pin vào nắp xi-lanh đi David. Chúng ta cần kiểm tra xem tại sao đồng hồ đo áp suất lại sụt giảm đột ngột như vậy.)*
+- **David:** Here you go. It looks like the rubber **[[Gasket]]** has deteriorated, causing lubricant to seep around the main **[[Bolt|bolts]]**.
+  *(Của chú đây ạ. Có vẻ như miếng đệm gioăng cao su đã bị thoái hóa, khiến dầu bôi trơn rò rỉ quanh các bu-lông chính.)*
+- **Marcus:** Exactly. Use the electric **[[Drill]]** or a socket **[[Spanner]]** to loosen the outer casing, but be careful not to strip any delicate **[[Screw]]**.
+  *(Chính xác. Hãy dùng máy khoan điện hoặc cờ lê tròng để nới lỏng lớp vỏ ngoài, nhưng cẩn thận đừng làm trờn bất kỳ chiếc đinh ốc mỏng manh nào.)*
+- **David:** Should I test the temperature **[[Sensor]]** with our diagnostic **[[Instrument]]** once the housing is detached?
+  *(Cháu có nên kiểm tra cảm biến nhiệt độ bằng dụng cụ chẩn đoán chuyên dụng sau khi tháo rời vỏ máy ra không ạ?)*
+- **Marcus:** Yes, replace that worn **[[Component]]** immediately. Once every faulty piece of **[[Hardware]]** is swapped out, our industrial **[[Machine]]** will run smoothly again.
+  *(Phải, hãy thay thế linh kiện hao mòn đó ngay lập tức. Một khi mọi phần cứng bị lỗi được thay mới, cỗ máy công nghiệp của chúng ta sẽ lại vận hành trơn tru.)*
+- **David:** Understood! I'll also organize all our diagnostic **[[Equipment]]** and put each **[[Tool]]** back onto the magnetic rack.
+  *(Cháu hiểu rồi! Cháu cũng sẽ sắp xếp lại toàn bộ trang thiết bị chẩn đoán và cất từng dụng cụ về giá treo từ tính.)*
+
+---
+
+### 🌟 Tình huống 2: Dự án mộc tự làm và tân trang nhà cửa (DIY Carpentry & Home Renovation Project)
+> **Bối cảnh thực tế:** Hai người bạn đang tự tay đóng kệ sách treo tường và sửa chữa khung gỗ trong gara gia đình vào dịp cuối tuần.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Tom:** Sarah, could you steady the aluminum **[[Ladder]]** while I measure the top frame with this measuring **[[Tape]]**?
+  *(Sarah, cậu có thể giữ chắc chiếc thang nhôm trong lúc mình đo khung trên cùng bằng thước dây này được không?)*
+- **Sarah:** Sure! Don't forget to use the sliding **[[Bevel]]** to match the angled corners, and check vertical alignment with the weighted **[[Plumb]]** bob.
+  *(Được chứ! Đừng quên dùng thước đo góc vát để khớp với các góc nghiêng, và kiểm tra độ thẳng đứng bằng quả dọi nhé.)*
+- **Tom:** Good call. I'll cut these pine boards using the hand **[[Saw]]**, then secure the joint brackets using heavy-duty **[[Screw|screws]]** instead of a simple **[[Nail]]**.
+  *(Ý hay đấy. Mình sẽ cắt các tấm gỗ thông này bằng cưa tay, sau đó cố định các giá đỡ góc nối bằng đinh ốc chịu lực thay vì đinh đóng thông thường.)*
+- **Sarah:** Here are the heavy-duty **[[Pliers]]** and some steel **[[Wire]]** in case we need to reinforce the bottom support **[[Mechanism]]**.
+  *(Đây là chiếc kìm chịu lực và một ít dây thép phòng khi chúng ta cần gia cố cơ cấu đỡ phía dưới.)*
+- **Tom:** Perfect! Pass me the claw **[[Hammer]]** and that small laser **[[Gadget]]** for finding studs. With the right **[[Tool|tools]]**, this renovation is surprisingly fun.
+  *(Tuyệt vời! Chuyền cho mình chiếc búa nhổ đinh và tiện ích laser nhỏ dùng để dò khung xương tường đó với. Có dụng cụ chuẩn trong tay thì việc tân trang nhà cửa vui bất ngờ.)*
+- **Sarah:** Definitely. Having the right **[[Implement]]** for each step ensures our new bookshelf is rock-solid and aesthetically pleasing.
+  *(Chắc chắn rồi. Có được dụng cụ thích hợp cho từng công đoạn đảm bảo giá sách mới của chúng mình sẽ vững như bàn thạch và đẹp mắt.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong xưởng cơ khí & Sửa chữa thiết bị (Mechanical Workshop & Repairs):
+- **`tighten / loosen a bolt`** *(siết chặt / nới lỏng bu-lông)*:
+  - *"Use an adjustable **[[Wrench]]** to tighten each **[[Bolt]]** until it is completely flush."*
+  - *(Dùng cờ lê điều chỉnh để siết chặt từng bu-lông cho đến khi khít hoàn toàn.)*
+- **`replace a faulty component`** *(thay thế linh kiện bị hỏng hóc)*:
+  - *"The technician had to replace a damaged internal **[[Component]]** to restore the **[[Generator]]**."*
+  - *(Kỹ thuật viên đã phải thay thế một linh kiện bên trong bị hư hỏng để khôi phục máy phát điện.)*
+- **`drive a nail into`** *(đóng đinh vào)*:
+  - *"He used a heavy steel **[[Hammer]]** to drive a galvanized **[[Nail]]** into the beam."*
+  - *(Anh ấy dùng búa thép nặng để đóng một chiếc đinh mạ kẽm vào xà gồ.)*
+
+#### 2. Thao tác đo đạc & Độ chính xác kỹ thuật (Precision Measurement & Alignment):
+- **`take precise measurements`** *(đo đạc chính xác tuyệt đối)*:
+  - *"Engineers use a digital **[[Caliper]]** to verify the exact diameter of the rotating shaft."*
+  - *(Các kỹ sư sử dụng thước kẹp kỹ thuật số để kiểm tra đường kính chính xác của trục quay.)*
+- **`out of plumb`** *(bị lệch, không thẳng đứng chuẩn)*:
+  - *"Hang a weighted **[[Plumb]]** line to confirm whether the masonry wall is tilted."*
+  - *(Hãy treo một dây dọi có gắn quả nặng để xác định xem bức tường xây có bị nghiêng hay không.)*
+- **`monitor pressure / gauge readings`** *(theo dõi chỉ số đo đạc)*:
+  - *"Constantly monitor the fuel **[[Gauge]]** to prevent the high-pressure **[[Apparatus]]** from overheating."*
+  - *(Liên tục theo dõi đồng hồ đo nhiên liệu để ngăn thiết bị áp suất cao bị quá nhiệt.)*
+
+#### 3. Thiết bị tự động & Dây chuyền sản xuất (Machinery & Automation Systems):
+- **`automate the assembly line`** *(tự động hóa dây chuyền lắp ráp)*:
+  - *"The modern factory utilizes an automated **[[Conveyor]]** system alongside an industrial **[[Automaton]]**."*
+  - *(Nhà máy hiện đại sử dụng hệ thống băng chuyền tự động cùng với người máy cơ khí công nghiệp.)*
+- **`engage the mechanism`** *(kích hoạt cơ cấu truyền động)*:
+  - *"Pulling this safety **[[Lever]]** will immediately engage the emergency braking **[[Mechanism]]**."*
+  - *(Gạt cần gạt an toàn này sẽ lập tức kích hoạt cơ chế hãm phanh khẩn cấp.)*
+- **`household electrical appliance`** *(thiết bị điện gia dụng)*:
+  - *"Every energy-efficient kitchen **[[Appliance]]** helps lower monthly household utility bills."*
+  - *(Mỗi thiết bị gia dụng nhà bếp tiết kiệm năng lượng đều giúp hạ thấp hóa đơn điện nước hàng tháng.)*

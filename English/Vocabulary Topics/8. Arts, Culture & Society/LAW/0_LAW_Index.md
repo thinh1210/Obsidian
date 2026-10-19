@@ -132,3 +132,78 @@ When a serious [[Crime]] was committed in the city, the [[Police]] worked quickl
 
 ### Bản dịch Tiếng Việt
 Khi một **vụ án** nghiêm trọng xảy ra trong thành phố, **cảnh sát** đã nhanh chóng hành động để **bắt giữ** **nghi phạm** chính. **Luật sư** của anh ta lập luận trước **tòa án** rằng **bị cáo** hoàn toàn **vô tội**. Trong suốt **phiên tòa xét xử** đầy kịch tính, bên công tố đã trình bày những gì họ tuyên bố là **chứng cứ** vững chắc, nhưng bên biện hộ đã vạch trần được việc một nhân chứng quan trọng đã **khai man trước tòa**. **Thẩm phán** đã hướng dẫn kỹ lưỡng cho **bồi thẩm đoàn** về luật pháp trước khi họ thảo luận về vụ án. Cuối cùng, bồi thẩm đoàn đã đưa ra một **phán quyết** đồng thuận là **tuyên trắng án** cho người đàn ông này vì thiếu bằng chứng đáng tin cậy, cứu anh ta khỏi một **bản án** khắc nghiệt trong **nhà tù** bang.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tranh tụng căng thẳng tại phiên tòa hình sự (Heated Cross-Examination in a Criminal Trial)
+> **Bối cảnh thực tế:** Tại phiên tòa sơ thẩm xử vụ án cáo buộc tham ô tài chính công, luật sư bào chữa đối chất quyết liệt với nhân chứng chủ chốt của phía công tố để vạch trần lời khai mâu thuẫn trước bồi thẩm đoàn và thẩm phán.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Defense Lawyer Vance:** Your Honor, we move to dismiss the indictment against the **[[Defendant]]**, as the state has failed to prove any criminal intent or **[[Mens_Rea]]**.
+  *(Thưa Quý tòa, chúng tôi đề nghị bác bỏ cáo trạng chống lại bị cáo, vì phía công tố đã không chứng minh được bất kỳ ý thức phạm tội hay động cơ bất hợp pháp nào.)*
+- **Judge Harrison:** Motion denied, Counselor. The prosecution has submitted extensive financial **[[Evidence]]** alleging that your client conspired to **[[Embezzle]]** civic funds.
+  *(Yêu cầu bị bác bỏ, thưa luật sư. Bên công tố đã đệ trình nhiều bằng chứng tài chính cáo buộc rằng thân chủ của ông đã cấu kết để biển thủ công quỹ của thành phố.)*
+- **Prosecutor Chen:** May I remind defense counsel that a grand **[[Jury]]** voted to **[[Indict]]** the accused following sworn **[[Testimony]]** from the head auditor?
+  *(Tôi xin nhắc luật sư bên bào chữa nhớ rằng đại bồi thẩm đoàn đã biểu quyết truy tố bị cáo sau lời khai có tuyên thệ từ trưởng ban kiểm toán?)*
+- **Defense Lawyer Vance:** But that auditor admitted during her pretrial **[[Deposition]]** that she faced civil **[[Liability]]** unless she cooperated with investigators to **[[Exculpate]]** herself!
+  *(Nhưng viên kiểm toán đó đã thừa nhận trong buổi lấy lời khai trước phiên tòa rằng cô ta phải đối mặt với trách nhiệm dân sự trừ khi hợp tác với điều tra viên để tự minh oan cho bản thân!)*
+- **Judge Harrison:** Counselor, maintain your decorum. Any further outbursts will be cited as **[[Contempt]]** of **[[Court]]**.
+  *(Luật sư, hãy giữ đúng tác phong. Bất kỳ sự to tiếng mất kiềm chế nào nữa sẽ bị xử lý như hành vi xúc phạm tòa án.)*
+- **Defense Lawyer Vance:** Understood, Your Honor. We simply trust that the jury will evaluate the facts objectively, deliver a just **[[Verdict]]**, and completely **[[Acquit]]** my client of every baseless **[[Allegation]]**.
+  *(Tôi hiểu, thưa Quý tòa. Chúng tôi chỉ tin tưởng rằng bồi thẩm đoàn sẽ đánh giá các tình tiết một cách khách quan, đưa ra một phán quyết công tâm và tuyên trắng án hoàn toàn cho thân chủ tôi trước mọi cáo buộc vô căn cứ.)*
+
+---
+
+### 🌟 Tình huống 2: Thương lượng giải quyết tranh chấp hợp đồng kinh tế (Contract Dispute Resolution & Commercial Arbitration)
+> **Bối cảnh thực tế:** Hai luật sư đại diện cho hai tập đoàn đối tác gặp nhau tại trung tâm trọng tài thương mại để đàm phán bồi thường thiệt hại vi phạm hợp đồng trước khi quyết định khởi kiện ra tòa.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Attorney Walsh:** If your corporation refuses to honor the agreed delivery schedule, our **[[Plaintiff]]** will have no alternative but to **[[Sue]]** under the commercial **[[Statute]]**.
+  *(Nếu tập đoàn của ông từ chối tuân thủ lịch giao hàng đã thỏa thuận, nguyên đơn của chúng tôi sẽ không còn lựa chọn nào khác ngoài việc đệ đơn kiện theo đạo luật thương mại.)*
+- **Attorney Gomez:** We strongly dispute that position. The legal principle of promissory **[[Estoppel]]** prevents your client from claiming a contract **[[Breach]]** after granting a verbal extension.
+  *(Chúng tôi kịch liệt phản đối quan điểm đó. Nguyên tắc ngăn cấm phủ nhận ngăn cản thân chủ của ông viện dẫn vi phạm hợp đồng sau khi đã chính miệng đồng ý gia hạn.)*
+- **Arbitrator Bradley:** Let us stay constructive, counselors. The entire purpose of this binding **[[Arbitration]]** is to achieve resolution without engaging in prolonged **[[Litigation]]**.
+  *(Xin các luật sư hãy giữ thái độ xây dựng. Toàn bộ mục đích của phiên trọng tài có tính ràng buộc này là đạt được giải pháp mà không phải dấn sâu vào kiện tụng kéo dài.)*
+- **Attorney Walsh:** We are open to an amicable settlement, provided your client covers the direct losses caused by their negligent **[[Tortfeasor]]** and pays the contractual **[[Penalty]]**.
+  *(Chúng tôi sẵn sàng cho một thỏa thuận hòa giải, với điều kiện thân chủ của ông bù đắp các tổn thất trực tiếp do bên vi phạm dân sự gây ra và thanh toán tiền phạt theo hợp đồng.)*
+- **Attorney Gomez:** My client is prepared to offer fair compensation, provided your party signs a mutual release of **[[Liability]]** and withdraws all court petitions.
+  *(Thân chủ tôi sẵn sàng đưa ra mức bồi thường thỏa đáng, miễn là phía quý vị ký bản miễn trừ trách nhiệm pháp lý song phương và rút toàn bộ các đơn yêu cầu tại tòa.)*
+- **Arbitrator Bradley:** That sounds like a reasonable compromise. If both sides concur, I shall formally **[[Adjudicate]]** the terms and issue our final binding ruling.
+  *(Đó có vẻ là một sự thỏa hiệp hợp lý. Nếu cả hai bên đồng thuận, tôi sẽ chính thức phân xử các điều khoản và ban hành phán quyết ràng buộc cuối cùng của chúng tôi.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Tranh tụng tại tòa & Thủ tục tố tụng (Courtroom Litigation & Procedures):
+- **`subpoena a witness / present compelling evidence`** *(tống đạt trát đòi nhân chứng / trình chứng cứ thuyết phục)*:
+  - *"The judge signed a formal **[[Subpoena]]** ordering the key financial analyst to present critical **[[Evidence]]** in **[[Court]]**."*
+  - *(Thẩm phán đã ký một trát đòi chính thức lệnh cho nhà phân tích tài chính chủ chốt phải xuất trình bằng chứng quan trọng trước tòa.)*
+- **`presumption of innocence / innocent until proven guilty`** *(nguyên tắc suy đoán vô tội / vô tội cho đến khi bị chứng minh có tội)*:
+  - *"Under modern constitutional **[[Law]]**, every citizen is deemed **[[Innocent]]** until proven **[[Guilty]]** beyond a reasonable doubt."*
+  - *(Theo luật hiến pháp hiện đại, mọi công dân đều được coi là vô tội cho đến khi bị chứng minh là có tội mà không còn nghi ngờ hợp lý nào.)*
+- **`file an appeal / contest a severe sentence`** *(nộp đơn kháng cáo / phản đối bản án nặng)*:
+  - *"The defense team vowed to **[[Appeal]]** the harsh ten-year prison **[[Sentence]]** before the higher judicial bench."*
+  - *(Đội ngũ bào chữa cam kết sẽ nộp đơn kháng cáo bản án mười năm tù khắc nghiệt lên hội đồng xét xử cấp cao hơn.)*
+
+#### 2. Vi phạm pháp luật & Biện pháp chế tài (Offenses, Crimes & Penalties):
+- **`commit a criminal offense / face legal sanctions`** *(phạm tội hình sự / đối mặt chế tài pháp lý)*:
+  - *"Individuals who deliberately **[[Commit]]** a federal **[[Offense]]** will inevitably confront severe legal **[[Sanction|sanctions]]**."*
+  - *(Những cá nhân cố tình phạm tội cấp liên bang chắc chắn sẽ phải đối mặt với các chế tài pháp lý nghiêm khắc.)*
+- **`post bail / release pending trial`** *(nộp tiền bảo lãnh / được tại ngoại chờ xét xử)*:
+  - *"Following his prompt arrest by the metropolitan **[[Police]]**, the suspect was permitted to post **[[Bail]]** under strict supervision."*
+  - *(Sau khi bị cảnh sát đô thị nhanh chóng bắt giữ, nghi phạm đã được phép nộp tiền bảo lãnh dưới sự giám sát chặt chẽ.)*
+- **`material breach of contract / civil liability`** *(vi phạm hợp đồng nghiêm trọng / trách nhiệm dân sự)*:
+  - *"Unilateral cancellation of the delivery contract constituted a material **[[Breach]]**, triggering substantial financial **[[Liability]]**."*
+  - *(Việc đơn phương hủy bỏ hợp đồng giao hàng đã cấu thành một sự vi phạm nghiêm trọng, dẫn đến trách nhiệm bồi thường tài chính lớn.)*
+
+#### 3. Án lệ & Các nguyên tắc pháp lý cốt lõi (Precedent & Core Legal Doctrines):
+- **`establish a landmark precedent / guide jurisprudence`** *(thiết lập án lệ mang tính bước ngoặt / định hướng án lệ học)*:
+  - *"The high court's historic decision set an enduring **[[Precedent]]** that fundamentally transformed corporate **[[Jurisprudence]]**."*
+  - *(Quyết định lịch sử của tòa án tối cao đã thiết lập một án lệ lâu dài làm thay đổi căn bản án lệ học doanh nghiệp.)*
+- **`writ of habeas corpus / protect against unlawful detention`** *(lệnh bảo thân / bảo vệ chống giam giữ bất hợp pháp)*:
+  - *"Human rights advocates petitioned for a writ of **[[Habeas_Corpus]]** to secure the prisoner's immediate release."*
+  - *(Các luật sư nhân quyền đã đệ đơn xin lệnh bảo thân để đảm bảo tù nhân được trả tự do ngay lập tức.)*
+- **`recuse oneself / ensure impartial justice`** *(tự rút khỏi vụ án / đảm bảo công lý vô tư khách quan)*:
+  - *"To avoid any perceived conflict of interest, the presiding **[[Judge]]** decided to **[[Recuse]]** herself and ensure transparent **[[Justice]]**."*
+  - *(Để tránh bất kỳ sự xung đột lợi ích nào bị nghi ngờ, vị thẩm phán chủ tọa đã quyết định tự rút lui để đảm bảo một nền công lý minh bạch.)*

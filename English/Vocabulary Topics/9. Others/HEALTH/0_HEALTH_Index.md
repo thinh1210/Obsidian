@@ -128,3 +128,80 @@ A dedicated **[[Physician]]** carefully examined the patient to **[[Diagnose]]**
 
 ### Bản dịch Tiếng Việt
 Một **bác sĩ điều trị** tận tâm đã khám kỹ lưỡng cho bệnh nhân để **chẩn đoán** nguyên nhân sâu xa của căn bệnh **mãn tính** của ông. Trong vài tháng, bệnh nhân đã phải chịu đựng sự **mệt mỏi** **làm suy kiệt** cơ thể, vốn là **triệu chứng** chính gây gián đoạn cuộc sống hàng ngày của ông. Để **làm giảm bớt** sự khó chịu liên tục này, bác sĩ đã kê một phác đồ **điều trị** mang tính **trị liệu** phù hợp với nhu cầu của ông. Mặc dù **tiên lượng** ban đầu còn chưa chắc chắn, **hiệu lực** của phương pháp điều trị đã trở nên rõ ràng trong **thời kỳ dưỡng bệnh** của bệnh nhân. Ngoài việc trị liệu lâm sàng, bác sĩ cũng nhấn mạnh tầm quan trọng của việc giữ **vệ sinh** đúng cách và các biện pháp **phòng bệnh** khác để ngăn ngừa các đợt nhiễm trùng trong tương lai. Nhờ vào sự chăm sóc toàn diện này, bệnh nhân đã **phục hồi** hoàn toàn và lấy lại sức mạnh của mình thành công.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thăm khám và chẩn đoán tại phòng khám đa khoa (General Clinic Visit & Medical Diagnosis)
+> **Bối cảnh thực tế:** Một bệnh nhân bị sốt cao, đau đầu và đau họng kéo dài vài ngày đến gặp bác sĩ gia đình tại phòng khám tư nhân để được thăm khám và kê đơn điều trị.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Jenkins:** Good morning, Liam. Please take a seat. What **[[Symptom|symptoms]]** have you been experiencing recently?
+  *(Chào buổi sáng Liam. Mời cậu ngồi. Gần đây cậu gặp phải những triệu chứng gì?)*
+- **Liam:** Doctor, I've had a severe **[[Headache]]**, a persistent dry **[[Cough]]**, and a nasty **[[Sore throat]]** for three days. I also feel feverish and fatigued.
+  *(Bác sĩ ơi, tôi bị đau đầu dữ dội, ho khan dai dẳng và đau rát họng khó chịu ba ngày nay. Tôi cũng thấy sốt và mệt mỏi kiệt sức.)*
+- **Dr. Jenkins:** Let me check your temperature with this digital **[[Thermometer]]**... It reads 39°C, confirming a high **[[Fever]]**. Open wide so I can inspect your pharynx.
+  *(Để tôi kiểm tra nhiệt độ của cậu bằng nhiệt kế điện tử này... 39°C, xác nhận cậu đang sốt cao. Hãy há to miệng để tôi soi họng nào.)*
+- **Liam:** Is it just a common **[[Cold]]**, or could it be seasonal **[[Flu]]**?
+  *(Đây chỉ là cảm lạnh thông thường hay có thể là bệnh cúm mùa vậy bác sĩ?)*
+- **Dr. Jenkins:** Based on the acute inflammation, I **[[Diagnose]]** a secondary bacterial **[[Infection]]**. I am writing a **[[Prescription]]** for an oral **[[Antibiotic]]** alongside an effective **[[Painkiller]]** to **[[Alleviate]]** the body aches.
+  *(Dựa trên tình trạng viêm cấp tính, tôi chẩn đoán cậu bị nhiễm khuẩn thứ phát. Tôi đang kê một đơn thuốc gồm kháng sinh đường uống cùng với thuốc giảm đau hiệu quả để làm dịu cơn đau nhức toàn thân.)*
+- **Liam:** Thank you, doctor. I will take this to the local **[[Pharmacy]]** immediately and adhere to the prescribed **[[Dosage]]**.
+  *(Cảm ơn bác sĩ. Tôi sẽ mang đơn này tới nhà thuốc địa phương ngay và tuân thủ đúng liều lượng được chỉ định.)*
+
+---
+
+### 🌟 Tình huống 2: Sơ cứu và xử lý chấn thương khẩn cấp (Emergency First Aid & Trauma Management)
+> **Bối cảnh thực tế:** Một người leo núi bị ngã trượt chân trên sườn đá dốc, gây vết rách sâu chảy máu và nghi ngờ gãy xương, được nhân viên y tế khẩn cấp sơ cứu hiện trường.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Mark:** Stay calm, Emma. I am a certified **[[First aid]]** responder. Can you tell me where you feel the most acute **[[Pain]]**?
+  *(Hãy giữ bình tĩnh, Emma. Tôi là nhân viên cứu hộ sơ cấp cứu có chứng chỉ. Bạn có thể cho tôi biết bạn thấy đau nhức dữ dội nhất ở đâu không?)*
+- **Emma:** My right shin struck a sharp boulder. It's starting to **[[Bleed]]** heavily, and I cannot put weight on my leg without agonizing pain.
+  *(Cẳng chân phải của tôi va vào một tảng đá sắc nhọn. Nó đang bắt đầu chảy máu nhiều, và tôi không thể chống chân chịu lực vì quá đau đớn.)*
+- **Mark:** Let me inspect the deep **[[Wound]]**. First, I will cleanse the area, place sterile gauze, and wrap a pressure **[[Bandage]]** firmly to halt the bleeding.
+  *(Để tôi kiểm tra vết thương sâu này. Trước tiên, tôi sẽ sát trùng khu vực, đặt gạc vô trùng và quấn chặt băng gạc áp lực để cầm máu.)*
+- **Emma:** Does my lower leg look like it suffered a bone **[[Fracture]]**?
+  *(Cẳng chân dưới của tôi trông có giống như đã bị gãy xương không anh?)*
+- **Mark:** There is visible swelling and deformity, indicating a probable **[[Fracture]]**. I've already summoned an **[[Ambulance]]** to transport you directly to the trauma **[[Hospital]]**.
+  *(Có biểu hiện sưng tấy và biến dạng rõ rệt, cho thấy khả năng cao bị gãy xương. Tôi đã gọi một chiếc xe cứu thương để chuyển bạn thẳng tới bệnh viện chấn thương.)*
+- **Emma:** Thank goodness. Will I require a **[[Surgeon]]** to operate on the limb?
+  *(May quá. Liệu tôi có cần một bác sĩ phẫu thuật mổ cố định xương không?)*
+- **Mark:** The specialist will assess X-ray imaging upon arrival. With prompt clinical **[[Treatment]]** and structured **[[Rehabilitation]]**, you should achieve a complete **[[Recovery]]**.
+  *(Bác sĩ chuyên khoa sẽ đánh giá hình ảnh X-quang ngay khi đến viện. Với phương pháp điều trị y khoa kịp thời và phục hồi chức năng bài bản, bạn sẽ bình phục hoàn toàn.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Thăm khám y tế & Chẩn đoán triệu chứng (Medical Consultation & Symptoms):
+- **`run a high fever`** *(sốt cao liên tục)*:
+  - *"The toddler began to run a high **[[Fever]]**, prompting parents to call the family **[[Doctor]]** immediately."*
+  - *(Đứa trẻ bắt đầu sốt cao, thôi thúc cha mẹ gọi điện cho bác sĩ gia đình ngay lập tức.)*
+- **`alleviate severe pain`** *(làm dịu cơn đau dữ dội)*:
+  - *"Applying an anti-inflammatory **[[Ointment]]** helped **[[Alleviate]]** the localized joint **[[Pain]]**."*
+  - *(Bôi một loại thuốc mỡ chống viêm đã giúp làm dịu cơn đau khớp cục bộ.)*
+- **`diagnose a disease / condition`** *(chẩn đoán bệnh lý)*:
+  - *"Early clinical screening allows specialists to **[[Diagnose]]** a **[[Chronic]]** **[[Disease]]** before complications arise."*
+  - *(Tầm soát lâm sàng sớm cho phép các chuyên gia chẩn đoán bệnh mãn tính trước khi các biến chứng xuất hiện.)*
+
+#### 2. Dùng thuốc & Tuân thủ phác đồ điều trị (Medication & Clinical Treatment):
+- **`follow the prescription dosage`** *(tuân thủ liều lượng theo đơn thuốc)*:
+  - *"Patients must adhere strictly to the **[[Prescription]]** **[[Dosage]]** when taking a full course of **[[Antibiotic|antibiotics]]**."*
+  - *(Bệnh nhân phải tuân thủ nghiêm ngặt liều lượng theo đơn khi dùng trọn một đợt thuốc kháng sinh.)*
+- **`boost the immune system`** *(tăng cường hệ thống miễn dịch)*:
+  - *"Balanced daily **[[Nutrition]]** and regular **[[Exercise]]** empower your **[[Immune]]** defenses against any foreign **[[Pathogen]]**."*
+  - *(Dinh dưỡng hàng ngày cân bằng và tập thể dục đều đặn củng cố hệ miễn dịch chống lại bất kỳ mầm bệnh ngoại lai nào.)*
+- **`preventive vaccine / inoculate against`** *(tiêm chủng vắc-xin phòng bệnh)*:
+  - *"Public health initiatives aim to **[[Inoculate]]** vulnerable citizens with an annual influenza **[[Vaccine]]**."*
+  - *(Các sáng kiến y tế công cộng hướng đến việc tiêm chủng vắc-xin cúm hàng năm cho người dân có nguy cơ cao.)*
+
+#### 3. Chăm sóc phục hồi & Lối sống lành mạnh (Recovery & Preventive Health):
+- **`make a full recovery`** *(bình phục hoàn toàn)*:
+  - *"After months of dedicated physical **[[Rehabilitation]]**, the athlete made an astonishingly full **[[Recovery]]**."*
+  - *(Sau nhiều tháng kiên trì tập phục hồi chức năng, vận động viên đã bình phục hoàn toàn một cách đáng kinh ngạc.)*
+- **`maintain personal hygiene`** *(duy trì vệ sinh cá nhân)*:
+  - *"Diligent hand **[[Hygiene]]** remains the single most effective **[[Prophylactic]]** measure against viral outbreaks."*
+  - *(Vệ sinh bàn tay cẩn thận vẫn là biện pháp phòng ngừa đơn lẻ hiệu quả nhất chống lại các đợt bùng phát virus.)*
+- **`schedule a routine check-up`** *(đặt lịch kiểm tra sức khỏe định kỳ)*:
+  - *"Adults are encouraged to visit their outpatient **[[Clinic]]** annually for a preventive medical **[[Check-up]]**."*
+  - *(Người trưởng thành được khuyến khích đến phòng khám ngoại trú hàng năm để kiểm tra sức khỏe định kỳ phòng ngừa.)*

@@ -108,3 +108,76 @@ As the experienced **[[Pilot]]** sat in the **[[Cockpit]]**, he carefully adjust
 
 ### Bản dịch Tiếng Việt
 Khi người **phi công** giàu kinh nghiệm ngồi trong **buồng lái**, anh ta cẩn thận điều chỉnh **cần ga** để duy trì **độ cao** hành trình ổn định. Đột nhiên, máy bay đi vào những đám mây bão dày đặc, buộc anh ta phải bay trong **điều kiện khí tượng theo thiết bị** đầy thử thách. Anh ta lập tức kích hoạt chế độ **lái tự động** để giảm bớt khối lượng công việc, nhưng **nhiễu động** dữ dội ngay sau đó đã rung lắc mạnh toàn bộ **thân máy bay**. Sự đứt gió đột ngột đã làm gián đoạn **khí động học** của máy bay, kích hoạt cảnh báo về một tình huống **mất lực nâng** sắp xảy ra do mất lực nâng. Phản ứng nhanh chóng, anh ta chuyển sang điều khiển bằng tay, giữ ổn định cánh và bắt đầu **hạ độ cao** dần. Được dẫn đường bởi độ chính xác của **hệ thống hạ cánh bằng thiết bị**, chiếc máy bay đã xuyên qua lớp sương mù thấp một cách an toàn và căn chỉnh hoàn hảo với **đường băng** để hạ cánh êm ái.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Xử lý thời tiết xấu và hạ cánh khẩn cấp trong buồng lái (Cockpit Emergency Approach in Severe Weather)
+> **Bối cảnh thực tế:** Trong điều kiện thời tiết xấu mù sương và gió giật mạnh, Cơ trưởng và Cơ phó phối hợp với trạm kiểm soát không lưu để thực hiện cú tiếp cận hạ cánh bằng thiết bị đo.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Captain:** Air traffic control just informed us that **[[Instrument_meteorological_conditions]]** prevail over the destination **[[Airport]]**. Turn on the engine **[[Deicing]]** system.
+  *(Kiểm soát không lưu vừa thông báo rằng điều kiện khí tượng bay bằng thiết bị đang bao phủ sân bay điểm đến. Hãy bật hệ thống rã băng động cơ lên.)*
+- **Pilot:** Deicing active, Captain. Our current **[[Altitude]]** is descending through ten thousand feet, but severe **[[Turbulence]]** is rocking the **[[Fuselage]]**.
+  *(Hệ thống rã băng đã kích hoạt, Thưa Cơ trưởng. Độ cao hiện tại của chúng ta đang hạ qua mức mười nghìn bộ, nhưng nhiễu động nghiêm trọng đang làm rung lắc thân máy bay.)*
+- **Captain:** Disengage the **[[Autopilot]]** and hand-fly the aircraft. Tune our navigation receiver to the **[[Instrument_landing_system]]** for Runway 27 Left.
+  *(Hãy ngắt chế độ lái tự động và điều khiển máy bay bằng tay. Dò bộ thu định hướng sang hệ thống hạ cánh bằng thiết bị cho Đường băng 27 Trái.)*
+- **Pilot:** Glideslope captured, Captain. I'll maintain our proper **[[Angle_of_attack]]** and adjust the engine **[[Throttle]]** to counter this strong **[[Headwind]]**.
+  *(Đã bắt được vệt dốc hạ cánh, Thưa Cơ trưởng. Tôi sẽ duy trì góc đón gió thích hợp và điều chỉnh tay ga động cơ để chống lại luồng gió ngược mạnh này.)*
+- **Captain:** Excellent. Extend full flaps to improve our **[[Glide_ratio]]**. Contact the tower and confirm we are cleared for final **[[Landing]]** on the **[[Runway]]**.
+  *(Tuyệt vời. Hãy thả hết cánh tà để cải thiện hệ số lượn. Liên lạc với đài chỉ huy và xác nhận chúng ta đã được phép hạ cánh chặng cuối xuống đường băng.)*
+- **Pilot:** Tower confirmed: cleared to land. Ground spoiler armed, speedbrakes ready. We are touching down on the **[[Tarmac]]** smoothly.
+  *(Đài kiểm soát xác nhận: được phép hạ cánh. Cánh cản lực mặt đất đã kích hoạt, phanh khí sẵn sàng. Chúng ta đang tiếp đất mượt mà xuống mặt đường băng.)*
+
+---
+
+### 🌟 Tình huống 2: Phân tích kỹ thuật hàng không và bảo trì hệ thống lái (Avionics Troubleshooting & Aerodynamics Inspection)
+> **Bối cảnh thực tế:** Tại xưởng bảo dưỡng sân bay, kỹ sư trưởng và chuyên viên kỹ thuật tiến hành kiểm tra cảm biến tốc độ và hệ thống điều khiển bay sau một báo cáo rung lắc cánh.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Chief Engineer:** We need to inspect the digital **[[Avionics]]** bay immediately. The flight crew reported erratic airspeed warnings during their high-speed **[[Descent]]**.
+  *(Chúng ta cần kiểm tra khoang thiết bị điện tử hàng không ngay lập tức. Tổ bay đã báo cáo các cảnh báo tốc độ bay thất thường trong quá trình hạ độ cao tốc độ lớn.)*
+- **Technician:** I checked the external **[[Pitot_tube]]** heating elements. Foreign debris had partially blocked the sensor, feeding distorted dynamic pressure readings into the **[[Fly-by-wire]]** computer.
+  *(Tôi đã kiểm tra các bộ phận sưởi của ống pitot bên ngoài. Dị vật đã làm tắc nghẽn một phần cảm biến, truyền dữ liệu áp suất động sai lệch vào máy tính điều khiển bay điện tử.)*
+- **Chief Engineer:** That explains why the flight computer gave a false warning of an aerodynamic **[[Stall]]**. Did you also inspect the trailing edge **[[Aileron]]** hinges?
+  *(Điều đó giải thích tại sao máy tính bay lại đưa ra cảnh báo giả về nguy cơ thất tốc khí động lực học. Cậu đã kiểm tra các bản lề cánh liệng ở mép sau cánh chưa?)*
+- **Technician:** Yes, the high-pressure **[[Hydraulics]]** lines show normal pressure. Furthermore, every miniature **[[Vortex_generator]]** along the upper **[[Wingspan]]** is firmly secured.
+  *(Rồi, các đường ống thủy lực cao áp đều hiển thị áp suất bình thường. Hơn nữa, từng cánh tạo xoáy nhỏ dọc theo sải cánh phía trên đều được gắn chặt an toàn.)*
+- **Chief Engineer:** Good job. Download the telemetry records from the **[[Black_box]]** so we can submit the flight safety clearance before the next commercial **[[Flight]]**.
+  *(Làm tốt lắm. Hãy trích xuất bản ghi viễn trắc từ hộp đen để chúng ta có thể nộp chứng nhận an toàn bay trước chuyến bay thương mại tiếp theo.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi vận hành bay & Tiếp cận đường băng (Flight Operations & Runway Approach):
+- **`clear for takeoff / landing`** *(được phép cất cánh / hạ cánh)*:
+  - *"Tower to flight 302, you are cleared for **[[Takeoff]]** on Runway 09 Right; monitor **[[Air_traffic_control]]** on departure."*
+  - *(Đài kiểm soát gửi chuyến bay 302, quý vị được phép cất cánh trên Đường băng 09 Phải; theo dõi kiểm soát không lưu khi rời khỏi.)*
+- **`instrument landing system approach`** *(tiếp cận bằng hệ thống hạ cánh thiết bị)*:
+  - *"Pilots rely on the **[[Instrument_landing_system]]** when low cloud ceilings obscure visual sighting during final **[[Approach]]**."*
+  - *(Các phi công dựa vào hệ thống hạ cánh bằng thiết bị khi trần mây thấp che khuất tầm nhìn mắt thường trong giai đoạn tiếp cận cuối cùng.)*
+- **`adjust throttle and altitude`** *(điều chỉnh cần ga và độ cao)*:
+  - *"The pilot advanced the engine **[[Throttle]]** to maintain steady climbing speed toward cruising **[[Altitude]]**."*
+  - *(Phi công đã đẩy cần ga động cơ lên để duy trì tốc độ lấy độ cao ổn định hướng tới độ cao hành trình.)*
+
+#### 2. Về khí động lực học & Rủi ro thời tiết (Aerodynamics & Aviation Safety Hazards):
+- **`wake turbulence separation`** *(giữ khoảng cách an toàn tránh nhiễu động cuộn)*:
+  - *"Controllers maintain strict intervals between heavy aircraft to avoid dangerous **[[Wake_turbulence]]** from large wings."*
+  - *(Kiểm soát viên duy trì khoảng cách nghiêm ngặt giữa các máy bay thân rộng để tránh luồng nhiễu động cuộn nguy hiểm từ những đôi cánh lớn.)*
+- **`critical angle of attack`** *(góc đón gió giới hạn tới hạn)*:
+  - *"Exceeding the critical **[[Angle_of_attack]]** disrupts airflow over the wing and induces an immediate aerodynamic **[[Stall]]**."*
+  - *(Vượt quá góc đón gió tới hạn sẽ làm gián đoạn luồng không khí trên cánh và dẫn đến hiện tượng thất tốc khí động học tức thì.)*
+- **`cabin pressurisation integrity`** *(tính toàn vẹn áp suất khoang hành khách)*:
+  - *"Commercial airliners maintain automated **[[Pressurisation]]** to provide safe oxygen levels inside the **[[Cockpit]]** and cabin."*
+  - *(Các máy bay thương mại duy trì áp suất cabin tự động để cung cấp mức oxy an toàn bên trong buồng lái và khoang khách.)*
+
+#### 3. Thủ tục tại sân bay & Mặt đất (Airport Operations & Ground Procedures):
+- **`proceed to boarding gate`** *(di chuyển tới cổng lên máy bay)*:
+  - *"Passengers holding their **[[Passport]]** and flight **[[Ticket]]** should now proceed directly to **[[Boarding]]** **[[Gate]]** 14."*
+  - *(Hành khách mang theo hộ chiếu và vé máy bay xin vui lòng di chuyển thẳng tới cổng lên máy bay số 14.)*
+- **`taxi along the taxiway`** *(lăn bánh dọc đường lăn)*:
+  - *"The **[[Airplane]]** exited the active runway and began rolling slowly along the **[[Taxiway]]** toward the passenger terminal."*
+  - *(Chiếc máy bay rời khỏi đường băng hoạt động và bắt đầu lăn bánh chậm rãi dọc đường lăn về phía nhà ga hành khách.)*
+- **`flight crew coordination`** *(sự phối hợp của phi hành đoàn)*:
+  - *"A well-trained flight **[[Crew]]** and vigilant **[[Pilot]]** ensure safe passenger transportation across global **[[Airspace]]**."*
+  - *(Một phi hành đoàn được huấn luyện bài bản và người phi công cảnh giác luôn đảm bảo vận chuyển hành khách an toàn trên khắp không phận toàn cầu.)*

@@ -128,3 +128,78 @@ John grew up in a **[[Destitute]]** family, which taught him to lead a **[[Fruga
 
 ### Bản dịch Tiếng Việt
 John lớn lên trong một gia đình **nghèo đói cơ cực**, điều này đã dạy anh cách sống một lối sống **căn cơ (tiết kiệm)** và quản lý **ngân sách** eo hẹp của mình một cách cẩn thận. Không giống như những người **phung phí** tiền bạc vào sự xa xỉ, John đã làm việc chăm chỉ để có được **thu nhập** ổn định. Anh quyết định **đầu tư** nguồn **vốn** nhỏ của mình vào một dự án kinh doanh bất động sản **sinh lợi**. Tuy nhiên, để làm được điều này, anh phải gánh một khoản **thế chấp** khổng lồ và đối mặt với nguy cơ rơi vào **cảnh nợ nần**. Nhờ quản lý thông minh, mỗi **giao dịch** anh thực hiện đều bắt đầu **mang lại** lợi suất cao. Ngày nay, John đã trở thành một doanh nhân **giàu có**, khác xa những ngày anh từng lo sợ mình sẽ **vỡ nợ** và **phá sản**.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thoát nghèo & Xây dựng sự thịnh vượng bền vững (From Financial Hardship to Lasting Wealth)
+> **Bối cảnh thực tế:** Một buổi trò chuyện truyền cảm hứng giữa một Nhà đầu tư thành đạt (Investor - Liam) và một Doanh nhân trẻ đang khởi nghiệp (Young Entrepreneur - Maya) tại một hội thảo tài chính.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Maya:** Mr. Liam, your journey from growing up in a **[[Destitute]]** household to becoming an **[[Affluent]]** venture capitalist is deeply inspiring. What fundamental principle guided your rise?
+  *(Maya: Thưa ông Liam, hành trình từ một gia đình nghèo khó cơ cực trở thành một nhà đầu tư mạo hiểm giàu có của ông truyền cảm hứng vô cùng sâu sắc. Nguyên tắc nền tảng nào đã dẫn dắt sự vươn lên của ông?)*
+- **Liam:** I realized early on that lasting wealth is not determined solely by what you **[[Earn]]**, but by how strictly you avoid the urge to **[[Overspend]]** on **[[Extravagant]]** luxuries.
+  *(Liam: Tôi đã nhận ra từ sớm rằng sự giàu có bền vững không chỉ được quyết định bởi số tiền bạn kiếm được, mà bởi mức độ nghiêm ngặt bạn tránh được cám dỗ chi tiêu quá độ vào những thứ xa xỉ phung phí.)*
+- **Maya:** When you were first accumulating your seed **[[Capital]]**, how did you balance daily living expenses against saving for high-growth investments?
+  *(Maya: Khi ông mới bắt đầu tích lũy nguồn vốn hạt giống đầu tiên, ông đã cân bằng các chi phí sinh hoạt hàng ngày với việc tiết kiệm cho các khoản đầu tư tăng trưởng cao như thế nào?)*
+- **Liam:** I maintained an uncompromisingly **[[Frugal]]** lifestyle, audited every recurring **[[Expense]]**, and channeled every saved dollar into a compounding **[[Bank account]]** and corporate **[[Shares]]**.
+  *(Liam: Tôi đã duy trì một lối sống tiết kiệm nghiêm ngặt không khoan nhượng, kiểm soát từng khoản chi phí định kỳ, và chuyển từng đồng đô la tiết kiệm được vào một tài khoản ngân hàng sinh lãi kép cùng các cổ phiếu doanh nghiệp.)*
+- **Maya:** Were you ever terrified that economic downturns would cause your assets to **[[Depreciate]]** or that a debtor might **[[Default]]** on payments?
+  *(Maya: Ông có bao giờ cảm thấy khiếp sợ rằng sự suy thoái kinh tế sẽ khiến tài sản của mình bị giảm giá trị, hay một bên vay nợ có thể vỡ nợ không trả được không?)*
+- **Liam:** Market turbulence is unavoidable. However, by avoiding toxic **[[Debt]]** and building multiple streams of income, you ensure your enterprise will never face the danger of going **[[Bankrupt]]**.
+  *(Liam: Sự biến động của thị trường là điều không thể tránh khỏi. Tuy nhiên, bằng cách tránh các khoản nợ độc hại và xây dựng nhiều dòng thu nhập, bạn sẽ bảo đảm doanh nghiệp của mình không bao giờ đối mặt với nguy cơ phá sản.)*
+
+---
+
+### 🌟 Tình huống 2: Quản lý dòng tiền số & Rút tiền mặt tại điểm giao dịch (Digital Banking, Currency Exchange & Cashless Transactions)
+> **Bối cảnh thực tế:** Du khách quốc tế (Tourist - Chloe) gặp sự cố tại quầy giao dịch chi nhánh ngân hàng khi đổi ngoại tệ và rút tiền mặt, được Giao dịch viên ngân hàng (Bank Teller - Robert) tận tình hỗ trợ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Chloe (Tourist):** Good morning. I tried to **[[Withdraw]]** local **[[Cash]]** from the outdoor **[[ATM]]**, but the terminal experienced a network glitch and did not dispense the banknotes.
+  *(Chloe: Chào buổi sáng. Tôi đã thử rút tiền mặt nội địa từ cây ATM ngoài trời, nhưng thiết bị gặp sự cố mạng và không nhả tiền giấy ra.)*
+- **Robert (Bank Teller):** I apologize for that frustration. Let me inspect your transaction records immediately. Could you present your passport and debit or **[[Credit]]** card?
+  *(Robert: Tôi rất xin lỗi về sự phiền toái đó. Để tôi kiểm tra hồ sơ giao dịch của cô ngay lập tức. Cô có thể xuất trình hộ chiếu và thẻ ghi nợ hoặc thẻ tín dụng được không ạ?)*
+- **Chloe:** Here they are. I also need to exchange five hundred Euros in foreign **[[Currency]]** to pay for localized artisanal markets that do not accept digital **[[Credit]]**.
+  *(Chloe: Chúng đây ạ. Tôi cũng cần đổi 500 Euro ngoại tệ để thanh toán tại các khu chợ thủ công địa phương không chấp nhận thẻ tín dụng số.)*
+- **Robert:** Certainly. The foreign exchange rate is very favorable today, and our conversion **[[Fee]]** is nominal. We will also execute an immediate **[[Refund]]** for the unfulfilled ATM transaction.
+  *(Robert: Chắc chắn rồi. Tỷ giá hối đoái hôm nay rất có lợi, và phí chuyển đổi của chúng tôi là tượng trưng rất nhỏ. Chúng tôi cũng sẽ thực hiện một khoản hoàn tiền ngay lập tức cho giao dịch ATM chưa hoàn tất.)*
+- **Chloe:** What a relief! Could you provide a printed transaction **[[Receipt]]** confirming that the reversed funds have safely returned to my **[[Bank account]]**?
+  *(Chloe: Thật nhẹ cả người! Anh có thể cung cấp một biên lai giao dịch in xác nhận rằng số tiền được hoàn trả đã an toàn quay lại tài khoản ngân hàng của tôi không?)*
+- **Robert:** Here is your printed receipt and your converted paper bills. Please keep your travel **[[Wallet]]** secure while exploring the bustling historic district!
+  *(Robert: Đây là biên lai in của cô và số tiền giấy đã quy đổi. Chúc cô một ngày vui vẻ và xin hãy giữ ví tiền du lịch cẩn thận khi khám phá khu phố cổ nhộn nhịp nhé!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong trạng thái tài chính & Sự thịnh vượng (Financial Status & Affluence):
+- **`affluent socioeconomic background`** *(hoàn cảnh kinh tế xã hội giàu sang, khá giả)*:
+  - *"Coming from an **[[Affluent]]** background provided access to premier education and investment networks."*
+  - *(Xuất thân từ một hoàn cảnh khá giả đã mang lại cơ hội tiếp cận nền giáo dục hàng đầu và các mạng lưới đầu tư.)*
+- **`sink into crushing debt`** *(lún sâu vào nợ nần chồng chất)*:
+  - *"High-interest credit cards cause many young consumers to fall into chronic **[[Debt]]**."*
+  - *(Thẻ tín dụng lãi suất cao khiến nhiều người tiêu dùng trẻ rơi vào cảnh nợ nần dai dẳng.)*
+- **`teeter on the verge of bankruptcy`** *(ngấp nghé bên bờ vực phá sản)*:
+  - *"Without an emergency liquidity injection, the struggling airline risked going **[[Bankrupt]]**."*
+  - *(Nếu không có sự bơm thanh khoản khẩn cấp, hãng hàng không đang gặp khó khăn có nguy cơ phá sản.)*
+
+#### 2. Trong giao dịch tiền tệ & Ngân hàng (Currency, Banking & Transactions):
+- **`withdraw cash from an ATM`** *(rút tiền mặt từ cây ATM)*:
+  - *"Travelers should notify their bank before trying to **[[Withdraw]]** money abroad."*
+  - *(Du khách nên thông báo cho ngân hàng của mình trước khi cố gắng rút tiền ở nước ngoài.)*
+- **`process a full refund`** *(xử lý một khoản hoàn tiền đầy đủ)*:
+  - *"The e-commerce store agreed to grant a prompt **[[Refund]]** for defective merchandise."*
+  - *(Cửa hàng thương mại điện tử đã đồng ý cấp một khoản hoàn tiền nhanh chóng cho món hàng bị lỗi.)*
+- **`foreign currency conversion rate`** *(tỷ giá chuyển đổi ngoại tệ)*:
+  - *"Fluctuations in global **[[Currency]]** values directly affect import and export commodity prices."*
+  - *(Sự biến động của các giá trị ngoại tệ ảnh hưởng trực tiếp đến giá cả hàng hóa xuất nhập khẩu.)*
+
+#### 3. Trong đầu tư & Sinh lời tài chính (Investment Returns & Yield):
+- **`lucrative financial investment`** *(khoản đầu tư tài chính sinh lời béo bở)*:
+  - *"Purchasing undervalued commercial property proved to be an immensely **[[Lucrative]]** decision."*
+  - *(Việc mua lại bất động sản thương mại bị định giá thấp đã chứng minh là một quyết định sinh lời vô cùng béo bở.)*
+- **`soaring inflation and interest rates`** *(lạm phát và lãi suất tăng vọt)*:
+  - *"Accelerating **[[Inflation]]** erodes household purchasing power unless wages keep pace."*
+  - *(Lạm phát tăng nhanh sẽ bào mòn sức mua của hộ gia đình trừ khi tiền lương tăng theo kịp.)*
+- **`distribute quarterly stock dividends`** *(chia cổ tức cổ phiếu hàng quý)*:
+  - *"Mature enterprise corporations reward long-term **[[Investor|investors]]** with a dependable quarterly **[[Dividend]]**."*
+  - *(Các tập đoàn doanh nghiệp lâu đời tưởng thưởng cho các nhà đầu tư dài hạn bằng một khoản cổ tức hàng quý đáng tin cậy.)*

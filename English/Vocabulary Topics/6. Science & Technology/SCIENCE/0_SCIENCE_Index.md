@@ -101,3 +101,78 @@ Scientific progress in our understanding of nature relies heavily on our ability
 
 ### Bản dịch Tiếng Việt
 Sự tiến bộ khoa học trong việc hiểu biết của chúng ta về tự nhiên phụ thuộc nhiều vào khả năng **quan sát** các hiện tượng vật lý và đưa ra một **giả thuyết** rõ ràng. Để kiểm tra tính đúng đắn của nó, các nhà nghiên cứu thiết kế một **thí nghiệm** tỉ mỉ để thu thập dữ liệu **thực nghiệm** khách quan. Ví dụ, trong nghiên cứu sinh học, việc nghiên cứu một **sinh vật** phức tạp có thể tiết lộ cách mỗi **tế bào** riêng lẻ duy trì sự **cân bằng nội môi** bất chấp những gián đoạn bên ngoài. Trải qua hàng triệu năm, các dạng sống này **tiến hóa** thông qua chọn lọc tự nhiên để thích nghi với môi trường của chúng. Đôi khi, một **chất xúc tác** hóa học bên ngoài có thể kích hoạt các phản ứng làm thay đổi trạng thái **cân bằng** mỏng manh của hệ thống. Tuy nhiên, bất kỳ lý thuyết khoa học nào cũng phải đáp ứng tiêu chí nghiêm ngặt về **khả năng bác bỏ** để được chấp nhận. Khi các lý thuyết cũ bị chứng minh là sai, một **mô thức** mới sẽ làm thay đổi góc nhìn cơ bản của chúng ta về vũ trụ.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tranh luận về tính khả bác và khả năng tái lập thí nghiệm (Debating Falsifiability & Experimental Replication)
+> **Bối cảnh thực tế:** Trong hội thảo triết học khoa học và phương pháp luận nghiên cứu, hai học giả tranh luận về các tiêu chí phân định một lý thuyết khoa học chân chính.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Prof. Karl:** In modern **[[Science]]**, any theoretical proposition must satisfy Karl Popper's criterion of **[[Falsifiability]]** to be genuinely valid.
+  *(Trong khoa học hiện đại, bất kỳ mệnh đề lý thuyết nào cũng phải thỏa mãn tiêu chí khả bác của Karl Popper để thực sự có giá trị.)*
+- **Elena:** Exactly. If a researcher formulates a **[[Hypothesis]]** that cannot conceivably be refuted by **[[Empirical]]** evidence, it belongs to metaphysics, not science.
+  *(Chính xác. Nếu một nhà nghiên cứu hình thành một giả thuyết mà không thể nào bị bác bỏ bởi bằng chứng thực nghiệm, nó thuộc về siêu hình học chứ không phải khoa học.)*
+- **Prof. Karl:** Furthermore, the scientific community faces a reproducibility crisis. Independent **[[Replication]]** of published results is essential before adopting a new **[[Paradigm]]**.
+  *(Hơn nữa, cộng đồng khoa học đang đối mặt với cuộc khủng hoảng tái lập. Việc tái lập độc lập các kết quả đã công bố là điều tối quan trọng trước khi đón nhận một hệ hình mới.)*
+- **Elena:** Too many studies rely on fragile statistical correlations rather than robust deductive **[[Axiom|axioms]]** that withstand rigorous scrutiny.
+  *(Quá nhiều nghiên cứu dựa vào các mối tương quan thống kê mong manh hơn là các tiên đề suy diễn vững chắc có thể vượt qua sự xem xét kỹ lưỡng khắt khe.)*
+- **Prof. Karl:** That is why every laboratory must maintain flawless **[[Epistemic]]** standards when recording and publishing their raw experimental data.
+  *(Đó là lý do tại sao mọi phòng thí nghiệm phải duy trì các tiêu chuẩn nhận thức luận hoàn hảo khi ghi chép và công bố dữ liệu thực nghiệm thô của họ.)*
+- **Elena:** Only by demanding repeatable **[[Experiment|experiments]]** can we separate genuine scientific progress from transient observational anomalies.
+  *(Chỉ bằng cách đòi hỏi các thí nghiệm có thể lặp lại, chúng ta mới có thể phân biệt được sự tiến bộ khoa học thực sự với những dị thường quan sát nhất thời.)*
+
+---
+
+### 🌟 Tình huống 2: Phân tích quang phổ và tính cân bằng nhiệt động học (Spectroscopy Analysis & Thermodynamic Equilibrium)
+> **Bối cảnh thực tế:** Tại viện nghiên cứu lý sinh học, hai nhà nghiên cứu phân tích sự truyền nhiệt và quá trình khuếch tán phân tử trong mẫu tế bào sống.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Marcus:** Look at the absorption peaks on our laser **[[Spectroscopy]]** readouts. The target biomolecules absorb **[[Light]]** at very specific resonant frequencies.
+  *(Hãy nhìn vào các đỉnh hấp thụ trên kết quả quang phổ laser của chúng ta. Các phân tử sinh học mục tiêu hấp thụ ánh sáng ở những tần số cộng hưởng rất đặc thù.)*
+- **Linh:** That confirms the chemical identity of the **[[Molecule]]** inside this transgenic cell **[[Specimen]]**.
+  *(Điều đó xác nhận danh tính hóa học của phân tử bên trong mẫu vật tế bào chuyển gen này.)*
+- **Dr. Marcus:** Notice how cellular membranes maintain internal **[[Homeostasis]]** despite fluctuating extracellular salt concentrations.
+  *(Hãy chú ý xem màng tế bào duy trì trạng thái cân bằng nội môi như thế nào bất chấp nồng độ muối ngoại bào dao động.)*
+- **Linh:** Water molecules cross the lipid bilayer through spontaneous **[[Osmosis]]**, while ion **[[Diffusion]]** establishes electrochemical balance.
+  *(Các phân tử nước đi qua lớp màng lipid kép nhờ hiện tượng thẩm thấu tự phát, trong khi sự khuếch tán ion thiết lập sự cân bằng điện hóa.)*
+- **Dr. Marcus:** As long as metabolic **[[Energy]]** drives active transport, the living **[[Organism]]** defies thermodynamic **[[Entropy]]**.
+  *(Miễn là năng lượng trao đổi chất còn thúc đẩy quá trình vận chuyển chủ động, sinh vật sống vẫn kháng cự lại sự gia tăng entropi nhiệt động học.)*
+- **Linh:** Fascinating! When that energy supply ceases, the system inevitably drifts toward irreversible thermodynamic **[[Equilibrium]]**.
+  *(Thật kỳ thú! Khi nguồn cung cấp năng lượng đó ngừng lại, hệ thống chắc chắn sẽ trôi dạt về trạng thái cân bằng nhiệt động học không thể đảo ngược.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Về phương pháp luận & Triết học khoa học (Scientific Methodology & Epistemology):
+- **`criterion of falsifiability`** *(tiêu chí khả bác)*:
+  - *"Karl Popper argued that **[[Falsifiability]]** is the definitive demarcation between genuine **[[Science]]** and pseudoscience."*
+  - *(Karl Popper lập luận rằng tính khả bác là ranh giới phân định rõ ràng giữa khoa học chân chính và ngụy khoa học.)*
+- **`empirical evidence collection`** *(thu thập bằng chứng thực nghiệm)*:
+  - *"Researchers rely on **[[Empirical]]** observation rather than pure speculation to validate their working **[[Hypothesis]]**."*
+  - *(Các nhà nghiên cứu dựa vào quan sát thực nghiệm hơn là suy đoán thuần túy để xác thực giả thuyết công tác của mình.)*
+- **`independent experimental replication`** *(tái lập thí nghiệm độc lập)*:
+  - *"Scientific peer review requires that an **[[Experiment]]** undergo independent **[[Replication]]** in another accredited **[[Lab]]**."*
+  - *(Quy trình bình duyệt khoa học đòi hỏi một thí nghiệm phải trải qua quá trình tái lập độc lập tại một phòng thí nghiệm được công nhận khác.)*
+
+#### 2. Về nhiệt động lực học & Cân bằng sinh hóa (Thermodynamics & Biological Equilibrium):
+- **`laws of thermodynamics and entropy`** *(các định luật nhiệt động lực học và entropi)*:
+  - *"The second law of **[[Thermodynamics]]** states that the total **[[Entropy]]** of an isolated system always increases over time."*
+  - *(Định luật thứ hai của nhiệt động lực học phát biểu rằng tổng entropi của một hệ cô lập luôn tăng theo thời gian.)*
+- **`maintain internal homeostasis`** *(duy trì cân bằng nội môi bên trong)*:
+  - *"Every biological **[[Organism]]** must regulate body **[[Temperature]]** and fluid balance to preserve vital **[[Homeostasis]]**."*
+  - *(Mỗi sinh vật sinh học đều phải điều hòa nhiệt độ cơ thể và cân bằng chất lỏng để bảo tồn trạng thái cân bằng nội môi sống còn.)*
+- **`dynamic thermodynamic equilibrium`** *(cân bằng nhiệt động học động)*:
+  - *"When forward and reverse reaction rates become identical, the chemical mixture achieves stable **[[Equilibrium]]**."*
+  - *(Khi tốc độ phản ứng thuận và nghịch trở nên đồng nhất, hỗn hợp hóa học sẽ đạt tới trạng thái cân bằng ổn định.)*
+
+#### 3. Về vật lý hiện đại & Khoa học thần kinh / di truyền (Modern Physics, Neuroplasticity & Genetics):
+- **`quantum electromagnetic radiation`** *(bức xạ điện từ lượng tử)*:
+  - *"Max Planck discovered that **[[Electromagnetic]]** **[[Radiation]]** is emitted in discrete packets known as **[[Quantum]]** packets."*
+  - *(Max Planck đã phát hiện ra rằng bức xạ điện từ được phát ra dưới dạng các gói rời rạc được gọi là các gói lượng tử.)*
+- **`molecular absorption spectroscopy`** *(quang phổ hấp thụ phân tử)*:
+  - *"Chemists use infrared **[[Spectroscopy]]** to identify functional groups within an unknown organic **[[Molecule]]**."*
+  - *(Các nhà hóa học sử dụng quang phổ hồng ngoại để nhận diện các nhóm chức bên trong một phân tử hữu cơ chưa biết.)*
+- **`adaptive neuroplasticity`** *(tính mềm dẻo thần kinh thích ứng)*:
+  - *"The brain demonstrates lifelong **[[Neuroplasticity]]**, reconfiguring synaptic pathways as we learn and **[[Evolve]]**."*
+  - *(Bộ não thể hiện tính mềm dẻo thần kinh suốt đời, tái cấu trúc các đường dẫn tiếp hợp synap khi chúng ta học hỏi và tiến hóa.)*

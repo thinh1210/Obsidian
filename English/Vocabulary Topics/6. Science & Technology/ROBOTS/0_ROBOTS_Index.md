@@ -108,3 +108,78 @@ In the field of **[[Mechatronics]]**, researchers are designing a new **[[Autono
 
 ### Bản dịch Tiếng Việt
 Trong lĩnh vực **cơ điện tử**, các nhà nghiên cứu đang thiết kế một rô-bốt **dạng người** **tự chủ** mới để hỗ trợ trong các quy trình y tế phức tạp. Tích hợp **trí tuệ nhân tạo** tiên tiến, rô-bốt sở hữu khả năng **nhận thức** cao cho phép nó học hỏi từ môi trường xung quanh. Thông qua kỹ thuật **mô phỏng sinh học**, các chuyển động của nó bắt chước chặt chẽ chuyển động của bàn tay con người. Mỗi khớp cơ học được điều khiển bởi một **bộ kích hoạt** chính xác và được cân bằng bởi một **con quay hồi chuyển** nhỏ. Để di chuyển an toàn, nó dựa vào một hệ thống **cảm biến** tinh vi để xử lý dữ liệu thời gian thực. Các bác sĩ phẫu thuật có thể tương tác với máy móc thông qua một **giao diện** trực quan, hoặc thậm chí thực hiện các nhiệm vụ thông qua việc **vận hành từ xa**. Trước khi triển khai, các kỹ sư **mô phỏng** các tình huống khác nhau bằng cách sử dụng một **thuật toán** tùy chỉnh để đảm bảo sự **tự động hóa** và an toàn hoàn hảo.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thử nghiệm robot hình người và cơ chế phản hồi động học (Testing Humanoid Kinematics & Actuator Dynamics)
+> **Bối cảnh thực tế:** Trong phòng thí nghiệm robotics tiên tiến, trưởng nhóm nghiên cứu và kỹ sư cơ điện tử đánh giá khả năng giữ thăng bằng và bước đi của robot hai chân.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Aris:** Let us run the gait stabilization routine on our bipedal **[[Humanoid]]** **[[Robot]]**. Is the balance feedback loop online?
+  *(Chúng ta hãy chạy quy trình ổn định dáng đi trên robot hình người hai chân của chúng ta. Vòng lặp phản hồi thăng bằng đã trực tuyến chưa?)*
+- **Kenji:** Online and nominal, Dr. Aris. The internal 6-axis **[[Gyroscope]]** is sending orientation telemetry at one kilohertz.
+  *(Đã trực tuyến và các thông số bình thường, Tiến sĩ Aris. Con quay hồi chuyển 6 trục bên trong đang gửi dữ liệu viễn trắc định hướng ở tần số một kilohertz.)*
+- **Dr. Aris:** Introduce an unexpected lateral push. Let us observe how the dynamic balance **[[Algorithm]]** compensates for external perturbation.
+  *(Hãy tạo ra một cú đẩy ngang bất ngờ. Chúng ta hãy quan sát xem thuật toán cân bằng động học bù đắp cho lực nhiễu loạn bên ngoài như thế nào.)*
+- **Kenji:** The hip brushless electric **[[Motor]]** fired instantaneously. Each ankle **[[Actuator]]** modulated torque smoothly to maintain vertical posture.
+  *(Động cơ điện không chổi than ở hông đã kích hoạt tức thì. Từng bộ truyền động ở mắt cá chân đã điều chỉnh mô-men xoắn một cách mượt mà để duy trì tư thế thẳng đứng.)*
+- **Dr. Aris:** Remarkable responsiveness. The underlying **[[Kinematics]]** model calculated joint angles fast enough to prevent a fall.
+  *(Độ phản hồi thật đáng kinh ngạc. Mô hình động học nền tảng đã tính toán các góc khớp đủ nhanh để ngăn ngừa cú ngã.)*
+- **Kenji:** Our next step is to empower its onboard **[[Artificial intelligence]]** vision so it can navigate rough terrain in fully **[[Autonomous]]** mode.
+  *(Bước tiếp theo của chúng ta là trao quyền cho thị giác trí tuệ nhân tạo trên bo mạch của nó để nó có thể di chuyển trên địa hình gồ ghề ở chế độ hoàn toàn tự chủ.)*
+
+---
+
+### 🌟 Tình huống 2: Phẫu thuật vi mô từ xa và công nghệ nano y sinh (Haptic Teleoperation & Medical Nanorobotics)
+> **Bối cảnh thực tế:** Tại trung tâm y tế kỹ thuật cao, bác sĩ phẫu thuật và kỹ sư hệ thống kiểm tra bàn điều khiển cánh tay robot vi phẫu thuật kết nối từ xa.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Ellis:** The tactile sensitivity on this robotic **[[Teleoperation]]** console is astonishing. I can feel the virtual tissue elasticity through the haptic **[[Interface]]**.
+  *(Độ nhạy xúc giác trên bàn điều khiển cánh tay robot phẫu thuật từ xa này thật đáng kinh ngạc. Tôi có thể cảm nhận được độ đàn hồi của mô ảo qua giao diện xúc giác.)*
+- **Maya:** Our engineering team integrated advanced **[[Biomimetic]]** tension sensors into each micro-gripper to eliminate tremor during delicate incisions.
+  *(Đội ngũ kỹ thuật của chúng tôi đã tích hợp các cảm biến lực căng phỏng sinh học tiên tiến vào từng kẹp vi mô để loại bỏ hiện tượng run tay trong các vết rạch tinh vi.)*
+- **Dr. Ellis:** And how close are we to introducing targeted clinical **[[Nanorobotics]]** into the cardiovascular bloodstream?
+  *(Và chúng ta còn cách mục tiêu đưa công nghệ robot nano nhắm trúng đích vào hệ tuần hoàn tim mạch bao xa nữa?)*
+- **Maya:** In vitro trials are already promising. Each microscopic synthetic agent uses a biological flagellar **[[Mechanism]]** to swim toward arterial blockages.
+  *(Các thử nghiệm trong ống nghiệm đã rất hứa hẹn. Mỗi tác nhân tổng hợp siêu vi mô sử dụng một cơ cấu roi sinh học để bơi về phía các điểm tắc nghẽn động mạch.)*
+- **Dr. Ellis:** Once in position, the nano-agent can dissolve localized plaques without requiring invasive open-heart surgery on the **[[Human]]** patient.
+  *(Một khi đã vào đúng vị trí, tác nhân nano có thể hòa tan các mảng xơ vữa cục bộ mà không đòi hỏi phẫu thuật tim hở xâm lấn trên bệnh nhân.)*
+- **Maya:** Exactly. By marrying microscopic physical **[[Hardware]]** with predictive diagnostic **[[Software]]**, we are transforming therapeutic medicine.
+  *(Chính xác. Bằng cách kết hợp phần cứng vật lý siêu vi với phần mềm chẩn đoán dự đoán, chúng ta đang biến đổi y học điều trị.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Động lực học & Cơ điện tử robot (Kinematics & Mechatronics Systems):
+- **`inverse kinematics calculations`** *(tính toán động học nghịch đảo)*:
+  - *"Robotic controllers perform real-time **[[Kinematics]]** computations to guide the manipulator arm along smooth trajectories."*
+  - *(Bộ điều khiển robot thực hiện các phép tính động học thời gian thực để dẫn hướng cánh tay thao tác dọc theo quỹ đạo mượt mà.)*
+- **`high-precision electric actuator`** *(bộ truyền động điện độ chính xác cao)*:
+  - *"Every articulated robotic joint relies on a high-torque electric **[[Actuator]]** to deliver smooth angular motion."*
+  - *(Mỗi khớp robot có khớp nối đều dựa vào một bộ truyền động điện mô-men xoắn cao để mang lại chuyển động góc mượt mà.)*
+- **`stabilize using a gyroscope`** *(ổn định thăng bằng nhờ con quay hồi chuyển)*:
+  - *"A digital **[[Gyroscope]]** feeds angular velocity data into the stabilizing flight computer of the drone."*
+  - *(Một con quay hồi chuyển kỹ thuật số truyền dữ liệu vận tốc góc vào máy tính bay giữ ổn định của máy bay không người lái.)*
+
+#### 2. Trí tuệ nhân tạo & Khả năng tự chủ (Artificial Intelligence & Autonomous Navigation):
+- **`autonomous navigation algorithm`** *(thuật toán điều hướng tự chủ)*:
+  - *"Self-driving vehicles run a multi-layered pathfinding **[[Algorithm]]** to navigate complex city traffic in **[[Autonomous]]** mode."*
+  - *(Các phương tiện tự lái vận hành một thuật toán tìm đường đa tầng để điều hướng qua giao thông đô thị phức tạp ở chế độ tự chủ.)*
+- **`humanoid anthropomorphic design`** *(thiết kế mô phỏng người dạng nhân thể)*:
+  - *"Engineers adopted an **[[Anthropomorphic]]** form factor so the **[[Humanoid]]** robot can navigate human-centric environments."*
+  - *(Các kỹ sư đã áp dụng hình thái nhân trắc để robot hình người có thể di chuyển thuận tiện trong các môi trường được thiết kế cho con người.)*
+- **`artificial intelligence cognition`** *(nhận thức bằng trí tuệ nhân tạo)*:
+  - *"Modern robots combine sensory perception with neural **[[Artificial intelligence]]** to achieve advanced environmental **[[Cognition]]**."*
+  - *(Robot hiện đại kết hợp nhận thức cảm giác với trí tuệ nhân tạo mạng nơ-ron để đạt được khả năng nhận thức môi trường tiên tiến.)*
+
+#### 3. Điều khiển từ xa & Giao diện tương tác người-máy (Teleoperation & Human-Robot Interface):
+- **`haptic teleoperation interface`** *(giao diện điều khiển từ xa có phản hồi xúc giác)*:
+  - *"Subsea exploration utilizes master-slave **[[Teleoperation]]** to manipulate robotic arms in extreme oceanic trenches."*
+  - *(Thám hiểm đáy biển sâu tận dụng cơ chế điều khiển từ xa chủ-tớ để thao tác các cánh tay robot tại các rãnh đại dương khắc nghiệt.)*
+- **`industrial factory automation`** *(tự động hóa nhà máy công nghiệp)*:
+  - *"Full manufacturing **[[Automation]]** has dramatically reduced production cycle times while eliminating human error."*
+  - *(Tự động hóa sản xuất toàn diện đã làm giảm đáng kể thời gian chu kỳ sản xuất đồng thời loại bỏ các lỗi do con người.)*
+- **`biomimetic robotic mechanism`** *(cơ cấu robot phỏng sinh học)*:
+  - *"Researchers constructed a **[[Biomimetic]]** swimming robot inspired by the natural hydrodynamic locomotion of manta rays."*
+  - *(Các nhà nghiên cứu đã chế tạo một robot bơi phỏng sinh học lấy cảm hứng từ chuyển động thủy động học tự nhiên của loài cá đuối.)*

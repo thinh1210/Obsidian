@@ -128,3 +128,71 @@ In a dense tropical rainforest, a rich variety of [[Wildlife]] thrives, contribu
 
 ### Bản dịch Tiếng Việt
 Trong một khu rừng mưa nhiệt đới rậm rạp, một sự đa dạng phong phú của **động vật hoang dã** sinh sống phát triển, góp phần vào **sự đa dạng sinh học** đáng kinh ngạc của vùng. Mỗi **loài**, từ côn trùng nhỏ nhất đến loài thú lớn nhất, đều đóng một vai trò quan trọng trong việc duy trì sự cân bằng của **hệ sinh thái**. Trong môi trường sống này, các sinh vật phải **thích nghi** để sinh tồn. Ví dụ, một số loài côn trùng sử dụng khả năng **ngụy trang** tuyệt vời để trốn tránh kẻ săn mồi của chúng. Vào ban đêm, những kẻ săn mồi **hoạt động về đêm** xuất hiện, biến khu rừng thành chiến trường giữa **kẻ săn mồi** và **con mồi**. Ngay cả chất thải của rừng cũng được dọn sạch bởi **động vật ăn xác thối**, loài ăn những xác chết còn sót lại. Một số sinh vật dựa vào **sự cộng sinh**, hình thành nên các mối quan hệ hợp tác mà cả hai bên cùng có lợi. Thật không may, nhiều loài động vật trong số này hiện đang **có nguy cơ tuyệt chủng** vì con người tiếp tục **săn trộm** chúng vì lợi nhuận. Một số con vật này phải sống trong **tình trạng nuôi nhốt**, rời xa **môi trường sống** tự nhiên của chúng.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Khảo sát thực địa về tập tính động vật & Chuỗi thức ăn (Wildlife Field Survey & Predator-Prey Dynamics)
+> **Bối cảnh thực tế:** Tại một trạm nghiên cứu trong khu bảo tồn thiên nhiên, hai nhà sinh học thực địa phân tích dữ liệu bẫy ảnh ban đêm ghi lại cảnh một bầy sói theo dấu đàn hươu và chiến lược sinh tồn của con non.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Evans:** Look at these high-definition infrared clips from ridge seven. A pack of **[[Wolf|wolves]]** was tracking a moving **[[Herd]]** of **[[Deer]]**.
+  *(Tiến sĩ Evans: Hãy xem những đoạn video hồng ngoại độ nét cao từ sườn núi số bảy này. Một đàn sói đang theo dấu một đàn hươu đang di chuyển.)*
+- **Clara:** Remarkable coordination! As a relentless **[[Carnivore]]**, the wolf relies on acute predatory **[[Instinct]]** to stalk its **[[Prey]]** in low light.
+  *(Clara: Khả năng phối hợp thật đáng kinh ngạc! Là một loài ăn thịt không ngừng nghỉ, sói dựa vào bản năng săn mồi nhạy bén để rình rập con mồi trong điều kiện ánh sáng yếu.)*
+- **Dr. Evans:** Indeed, but notice how the fawns used disruptive **[[Camouflage]]** to blend into the ferns while the mothers stood guard over their **[[Offspring]]**.
+  *(Tiến sĩ Evans: Đúng vậy, nhưng hãy để ý cách những con hươu con sử dụng sự ngụy trang đứt đoạn để hòa lẫn vào đám dương xỉ trong khi hươu mẹ cảnh giác bảo vệ con non của chúng.)*
+- **Clara:** Nature's evolutionary adaptations never cease to amaze me. Still, our top priority tonight is safeguarding this entire **[[Sanctuary]]** against anyone trying to **[[Poach]]** local fauna.
+  *(Clara: Những thích nghi tiến hóa của tự nhiên không bao giờ ngừng làm tôi kinh ngạc. Dẫu vậy, ưu tiên hàng đầu của chúng ta đêm nay là bảo vệ toàn bộ khu bảo tồn này trước bất kỳ kẻ nào có ý định săn trộm động vật bản địa.)*
+- **Dr. Evans:** Absolutely. We cannot allow any more vulnerable **[[Mammal]]** species in this valley to become **[[Extinct]]**.
+  *(Tiến sĩ Evans: Hoàn toàn chính xác. Chúng ta không thể để bất kỳ loài động vật có vú dễ bị tổn thương nào trong thung lũng này trở nên tuyệt chủng.)*
+
+---
+
+### 🌟 Tình huống 2: Giải cứu thú hoang dã & Tái hòa nhập sinh cảnh tự nhiên (Rescuing Wildlife from Captivity & Rehabilitation)
+> **Bối cảnh thực tế:** Một bác sĩ thú y hoang dã và một chuyên gia bảo tồn kiểm tra sức khỏe của một chú hổ con được giải cứu khỏi buôn bán bất hợp pháp và đánh giá khả năng thả về tự nhiên.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Tanya:** Marcus, how is the young **[[Tiger]]** progressing after being rescued from years of cramped **[[Captivity]]**?
+  *(Tanya: Marcus, tình hình chú hổ non tiến triển thế nào sau khi được giải cứu khỏi nhiều năm bị giam cầm chật hẹp?)*
+- **Marcus:** Its recovery is truly inspiring. When it first arrived, it was as passive as a **[[Tame]]** animal, but its wild behaviors are returning each day.
+  *(Marcus: Sự phục hồi của nó thực sự rất đáng khích lệ. Khi mới đến, nó thụ động như một con vật đã được thuần hóa, nhưng các tập tính hoang dã của nó đang trở lại từng ngày.)*
+- **Tanya:** Has the clinical team eliminated the internal **[[Parasite]]** infection from its digestive tract?
+  *(Tanya: Đội ngũ lâm sàng đã loại bỏ dứt điểm sự nhiễm ký sinh trùng bên trong đường tiêu hóa của nó chưa?)*
+- **Marcus:** Yes, its coat of **[[Fur]]** is glossy again, and its appetite for fresh meat is robust. It gained four kilograms this week!
+  *(Marcus: Rồi, lớp lông của nó đã bóng mượt trở lại, và sức ăn thịt tươi của nó rất mạnh mẽ. Tuần này nó đã tăng được bốn cân!)*
+- **Tanya:** Outstanding news. Once its muscle tone strengthens, we can prepare its transition back into a protected natural **[[Habitat]]**.
+  *(Tanya: Một tin tức tuyệt vời. Một khi trương lực cơ bắp của nó khỏe hơn, chúng ta có thể chuẩn bị cho quá trình đưa nó trở lại môi trường sống tự nhiên được bảo vệ.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi bàn về tập tính săn mồi & Thích nghi sinh tồn:
+- **`predator and prey balance`** *(sự cân bằng giữa động vật săn mồi và con mồi)*:
+  - *"The delicate dynamic between **[[Predator]]** and **[[Prey]]** prevents herbivores from overgrazing alpine pastures."*
+  - *(Mối quan hệ tương tác tinh tế giữa kẻ săn mồi và con mồi giúp ngăn chặn các loài ăn cỏ gặm sạch các đồng cỏ trên núi cao.)*
+- **`nocturnal habits and vision`** *(tập tính và thị giác hoạt động ban đêm)*:
+  - *"Many owls and forest bats are strictly **[[Nocturnal]]**, relying on echolocation and sharp hearing to hunt."*
+  - *(Nhiều loài cú và dơi rừng hoàn toàn hoạt động về đêm, dựa vào định vị tiếng vang và thính giác nhạy bén để đi săn.)*
+- **`seasonal migration routes`** *(các tuyến đường di cư theo mùa của muông thú)*:
+  - *"Each autumn, vast herds embark on a thousand-mile **[[Migration]]** across the Serengeti savanna."*
+  - *(Mỗi mùa thu, các đàn thú khổng lồ lại bắt đầu cuộc di cư dài hàng ngàn dặm qua thảo nguyên Serengeti.)*
+
+#### 2. Khi thảo luận về bảo tồn & Động vật nguy cấp:
+- **`protect endangered species`** *(bảo vệ các loài có nguy cơ tuyệt chủng)*:
+  - *"International wildlife treaties strictly penalize those who traffic or harm an **[[Endangered]]** **[[Species]]**."*
+  - *(Các hiệp ước động vật hoang dã quốc tế xử phạt nghiêm khắc những ai buôn bán hoặc làm hại một loài có nguy cơ tuyệt chủng.)*
+- **`release animals from captivity`** *(thả động vật về tự nhiên sau thời gian nuôi nhốt)*:
+  - *"Biologists cheered as rehabilitated marine turtles were finally released from **[[Captivity]]** back into the open sea."*
+  - *(Các nhà sinh học reo hò khi những chú rùa biển được phục hồi chức năng cuối cùng đã được thả khỏi cảnh giam cầm trở về đại dương bao la.)*
+- **`combat illegal poaching`** *(chống lại nạn săn trộm trái phép)*:
+  - *"Rangers patrol rugged wilderness boundaries day and night to stop syndicates who **[[Poach]]** elephants for ivory."*
+  - *(Các kiểm lâm tuần tra các ranh giới hoang dã hiểm trở cả ngày lẫn đêm để ngăn chặn các đường dây săn trộm voi lấy ngà.)*
+
+#### 3. Các thành ngữ & Cách diễn đạt hình tượng về thế giới động vật:
+- **`survival of the fittest`** *(quy luật kẻ thích nghi tốt nhất sẽ sống sót)*:
+  - *"In severe drought conditions, **[[Survive|survival]]** of the fittest dictates which species manage to endure."*
+  - *(Trong điều kiện hạn hán khắc nghiệt, quy luật chọn lọc tự nhiên kẻ nào thích nghi nhất sẽ quyết định loài nào có thể trụ vững.)*
+- **`hold one's horses`** *(hãy kiên nhẫn, bình tĩnh đừng hấp tấp)*:
+  - *"Hold your horses before you disturb the sleeping mother bear and her cubs in the hollow log."*
+  - *(Hãy bình tĩnh kiên nhẫn lại trước khi làm kinh động gấu mẹ đang ngủ cùng đàn con trong hốc gỗ mục.)*

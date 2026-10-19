@@ -108,3 +108,71 @@ Every living **[[Organism]]**, from a simple **[[Prokaryote]]** to a complex **[
 
 ### Bản dịch Tiếng Việt
 Mọi **sinh vật** sống, từ **sinh vật nhân sơ** đơn giản cho đến **sinh vật nhân thực** phức tạp, đều dựa vào các quá trình sinh học tinh vi để sinh tồn. Ở thực vật, **quá trình quang hợp** cho phép chúng **hấp thụ** ánh sáng mặt trời và chuyển hóa thành năng lượng. Mặt khác, động vật phải tiêu thụ thức ăn để có được từng **chất dinh dưỡng** thiết yếu nhằm cung cấp năng lượng cho **quá trình trao đổi chất** và giúp chúng duy trì **sự cân bằng nội môi**. Để tồn tại trong môi trường thay đổi, chúng phải **thích nghi** qua nhiều thế hệ, đây là cơ chế cốt lõi của **sự tiến hóa**. Nhiều loài thậm chí còn hình thành mối quan hệ chặt chẽ thông qua **sự cộng sinh**, làm phong phú thêm **sự đa dạng sinh học** của Trái Đất. Tuy nhiên, chúng phải liên tục tự bảo vệ mình trước bất kỳ **tác nhân gây bệnh** có hại nào cố gắng xâm nhập vào các mô của cơ thể bằng cách sử dụng hệ **miễn dịch** tinh vi để luôn khỏe mạnh.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Nghiên cứu tế bào & Tác nhân gây bệnh trong phòng thí nghiệm vi sinh (Microbiology Lab: Pathogens & Immune Response)
+> **Bối cảnh thực tế:** Trong phòng thí nghiệm y sinh, một nhà nghiên cứu chính và một nghiên cứu sinh trao đổi về cơ chế một kháng nguyên virus xâm nhập tế bào người và cách hệ miễn dịch sản sinh kháng thể để duy trì cân bằng nội môi.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Chen:** Maya, what do the culture assays indicate about the newly isolated **[[Pathogen]]**?
+  *(Tiến sĩ Chen: Maya, các xét nghiệm nuôi cấy cho thấy điều gì về tác nhân gây bệnh mới phân lập được?)*
+- **Maya:** The **[[Virus]]** actively binds to surface receptors of the host **[[Cell]]**, attempting to inject its viral payload and disrupt cellular **[[Homeostasis]]**.
+  *(Maya: Loại virus này liên kết chủ động với các thụ thể bề mặt của tế bào vật chủ, cố gắng tiêm vật chất di truyền của nó vào và phá vỡ trạng thái cân bằng nội môi của tế bào.)*
+- **Dr. Chen:** How is the synthetic **[[Enzyme]]** inhibitor functioning against viral replication?
+  *(Tiến sĩ Chen: Chất ức chế enzyme tổng hợp hoạt động như thế nào trong việc chống lại sự nhân đôi của virus?)*
+- **Maya:** Remarkably well. It halts the viral transcription process, giving the host's **[[Immune]]** defenses ample time to neutralize the invader before it damages surrounding **[[Tissue]]**.
+  *(Maya: Cực kỳ tốt ạ. Nó chặn đứng quá trình phiên mã của virus, tạo cho hệ miễn dịch của vật chủ nhiều thời gian để vô hiệu hóa kẻ xâm nhập trước khi nó làm tổn hại mô xung quanh.)*
+- **Dr. Chen:** Outstanding. If we can map the exact **[[Gene]]** sequence driving this reaction, we can publish our findings on cellular defense mechanisms.
+  *(Tiến sĩ Chen: Tuyệt vời lắm. Nếu chúng ta có thể giải mã trình tự gen chính xác điều khiển phản ứng này, chúng ta có thể công bố các phát hiện về cơ chế phòng thủ tế bào.)*
+
+---
+
+### 🌟 Tình huống 2: Sinh lý học thực vật & Quá trình chuyển hóa năng lượng (Plant Physiology & Photosynthetic Metabolic Pathways)
+> **Bối cảnh thực tế:** Tại vườn thực nghiệm sinh học, hai nhà thực vật học quan sát khả năng quang hợp và hấp thụ dưỡng chất từ rễ cây trong điều kiện thiếu sáng để tìm hiểu quá trình tiến hóa thích nghi.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Leo:** Professor Vance, look how efficiently the shade-grown seedlings manage their energy **[[Metabolism]]**.
+  *(Leo: Giáo sư Vance, hãy nhìn xem các cây non trồng trong bóng râm quản lý quá trình trao đổi chất năng lượng của chúng hiệu quả thế nào.)*
+- **Prof. Vance:** Fascinating! Even under low solar radiation, the broad **[[Leaf]]** structure maximizes sunlight capture to drive **[[Photosynthesis]]**.
+  *(GS Vance: Thật hấp dẫn! Ngay cả dưới bức xạ mặt trời thấp, cấu trúc phiến lá rộng tối đa hóa việc thu nhận ánh sáng mặt trời để thúc đẩy quá trình quang hợp.)*
+- **Leo:** The roots also seem to **[[Absorb]]** trace **[[Nutrient|nutrients]]** at twice the typical rate compared to outdoor controls.
+  *(Leo: Rễ cây dường như cũng hấp thụ các chất dinh dưỡng vi lượng với tốc độ nhanh gấp đôi so với các mẫu đối chứng ngoài trời.)*
+- **Prof. Vance:** That demonstrates rapid phenotypic plasticity. Each **[[Organism]]** possesses adaptive mechanisms forged through millions of years of **[[Evolution]]**.
+  *(GS Vance: Điều đó chứng minh tính mềm dẻo kiểu hình nhanh chóng. Mỗi sinh vật đều sở hữu các cơ chế thích nghi được tôi luyện qua hàng triệu năm tiến hóa.)*
+- **Leo:** Nature's cellular machinery is undeniably genius. It balances resource intake and cellular **[[Respiration]]** with pinpoint accuracy.
+  *(Leo: Cỗ máy tế bào của tự nhiên rõ ràng là một kiệt tác. Nó cân bằng giữa lượng hấp thu tài nguyên và hô hấp tế bào với độ chuẩn xác tuyệt đối.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi bàn về sinh học tế bào & Di truyền học:
+- **`cellular structure and division`** *(cấu trúc và sự phân chia tế bào)*:
+  - *"Somatic cells undergo **[[Mitosis]]** to repair damaged **[[Tissue]]**, while germ cells divide via **[[Meiosis]]**."*
+  - *(Tế bào sinh dưỡng trải qua quá trình nguyên phân để phục hồi mô bị tổn thương, trong khi tế bào sinh dục phân chia qua giảm phân.)*
+- **`genetic mutation and diversity`** *(đột biến gen và sự đa dạng di truyền)*:
+  - *"A single nucleotide **[[Mutation]]** in the **[[Genome]]** can alter an organism's physical traits."*
+  - *(Một đột biến nucleotide đơn lẻ trong bộ gen có thể làm thay đổi các đặc điểm thể chất của một sinh vật.)*
+- **`maintain internal homeostasis`** *(duy trì cân bằng nội môi bên trong cơ thể)*:
+  - *"The human **[[Body]]** constantly regulates temperature and glucose levels to preserve **[[Homeostasis]]**."*
+  - *(Cơ thể con người liên tục điều hòa nhiệt độ và nồng độ đường huyết để duy trì sự cân bằng nội môi.)*
+
+#### 2. Khi thảo luận về sinh lý học thực vật & Chuyển hóa chất:
+- **`photosynthetic rate and light absorption`** *(tốc độ quang hợp và khả năng hấp thụ ánh sáng)*:
+  - *"Chloroplasts in the plant cell enable the **[[Leaf]]** to carry out **[[Photosynthesis]]** by capturing photons."*
+  - *(Lục lạp trong tế bào thực vật cho phép lá thực hiện quá trình quang hợp bằng cách hấp thụ các photon ánh sáng.)*
+- **`metabolic energy conversion`** *(sự chuyển hóa năng lượng trao đổi chất)*:
+  - *"Cellular **[[Respiration]]** converts glucose into ATP, driving the entire **[[Metabolism]]** of living cells."*
+  - *(Quá trình hô hấp tế bào chuyển đổi glucose thành ATP, vận hành toàn bộ quá trình trao đổi chất của các tế bào sống.)*
+- **`symbiotic relationship between species`** *(mối quan hệ cộng sinh giữa các loài)*:
+  - *"Lichens represent an extraordinary **[[Symbiosis]]** between fungi and photosynthetic algae."*
+  - *(Địa y đại diện cho một mối quan hệ cộng sinh phi thường giữa nấm và tảo quang hợp.)*
+
+#### 3. Các thành ngữ & Cụm từ thông dụng có nguồn gốc sinh học:
+- **`in one's blood`** *(ngấm vào máu, bản năng di truyền bẩm sinh)*:
+  - *"A passion for scientific curiosity seems to run deep in her **[[Blood]]**."*
+  - *(Niềm đam mê với sự tò mò khoa học dường như đã ngấm sâu vào trong dòng máu của cô ấy.)*
+- **`adapt and survive`** *(thích nghi để tồn tại)*:
+  - *"Species that fail to **[[Adapt]]** to sudden climatic upheavals eventually decline and perish."*
+  - *(Những loài không thể thích nghi với các biến động khí hậu đột ngột cuối cùng sẽ suy tàn và biến mất.)*

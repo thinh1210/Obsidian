@@ -128,3 +128,78 @@ At the annual international tournament, a young **[[Athlete]]** prepared to face
 
 ### Bản dịch Tiếng Việt
 Tại giải đấu quốc tế thường niên, một **vận động viên** trẻ tuổi chuẩn bị đối mặt với một đội tuyển huyền thoại, được biết đến trong thế giới thể thao như một **thế lực bất khả chiến bại**. Dù là kẻ yếu thế hơn, đấu thủ **gan dạ** này đã thể hiện **sự kiên cường** phi thường và **khả năng chịu đựng** thể chất tuyệt vời. Khi hàng ngàn **khán giả** kinh ngạc dõi theo, anh đã sử dụng **sự nhanh nhẹn** vượt trội của mình để vượt qua mọi **đối thủ** đáng gờm. Trận đấu đòi hỏi **sức bền** tối đa và **lòng quyết tâm** cao độ về tinh thần, đẩy cả hai bên đến giới hạn của mình. Dù phải chịu một **thất bại** sít sao ở những phút cuối, **tinh thần thể thao** xuất sắc của anh đã nhận được sự tán thưởng nhiệt liệt từ khán đài. Trong mắt nhiều người, màn trình diễn của anh là một **chiến thắng** tinh thần thực sự, chứng minh rằng sự cống hiến và ý chí có thể tỏa sáng hơn bất kỳ chiếc cúp vật chất nào.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Điều chỉnh chiến thuật giữa hiệp trong trận chung kết cúp vô địch (Halftime Tactical Adjustment in a Football Championship Final)
+> **Bối cảnh thực tế:** Trong phòng thay đồ ở giờ nghỉ giữa hai hiệp của trận chung kết cúp bóng đá kịch tính, huấn luyện viên trưởng xốc lại tinh thần và vạch ra chiến thuật bẻ gãy hàng phòng ngự đối phương.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Coach Martinez:** Listen up, team! We are down by one goal, but our defensive unit did a remarkable job to **[[Defend]]** against their relentless counter-attacks.
+  *(Hãy lắng nghe nào cả đội! Chúng ta đang bị dẫn một bàn, nhưng hàng phòng ngự của chúng ta đã làm rất tốt để chống đỡ những đòn phản công không ngừng của họ.)*
+- **Captain Julian:** Coach, their central defenders are leaving massive gaps when they press forward to **[[Attack]]**.
+  *(Thưa Huấn luyện viên, các trung vệ của họ đang để lộ những khoảng trống rất lớn mỗi khi họ dâng cao tấn công.)*
+- **Coach Martinez:** Exactly my observation, Julian. In the second half, our **[[Tactics]]** will shift to rapid wing transitions. We will exploit their backline with speed and clinical **[[Agility]]**.
+  *(Đúng như quan sát của thầy, Julian. Trong hiệp hai, chiến thuật của chúng ta sẽ chuyển sang các pha chuyển đổi trạng thái thần tốc ở hai cánh. Chúng ta sẽ khai thác hàng thủ của họ bằng tốc độ và sự nhanh nhẹn sắc bén.)*
+- **Captain Julian:** Should we bring on an energetic **[[Substitute]]** to challenge their tired defenders?
+  *(Liệu chúng ta có nên đưa một cầu thủ dự bị dồi dào năng lượng vào sân để quấy phá các hậu vệ đã mệt mỏi của họ không ạ?)*
+- **Coach Martinez:** Yes. Leo will enter the **[[Pitch]]** at the sixtieth minute. His physical **[[Stamina]]** and aggressive ball **[[Tackle|tackles]]** will disrupt their midfield rhythm.
+  *(Có chứ. Leo sẽ vào sân ở phút thứ sáu mươi. Thể lực dẻo dai và những cú tắc bóng quyết liệt của cậu ấy sẽ phá vỡ nhịp điệu tuyến giữa của họ.)*
+- **Captain Julian:** Let us step back onto that field with absolute **[[Tenacity]]** and bring home the championship **[[Trophy]]**!
+  *(Hãy cùng bước trở lại mặt sân đó với lòng quyết tâm sắt đá và mang chiếc cúp vô địch về nhà nào!)*
+
+---
+
+### 🌟 Tình huống 2: Huấn luyện thể lực và chuẩn bị cho cuộc đua marathon đỉnh cao (Endurance Conditioning & Preparation for an Elite Marathon)
+> **Bối cảnh thực tế:** Một vận động viên điền kinh thảo luận với huấn luyện viên thể lực tại phòng tập về chế độ dinh dưỡng, các bài tập khởi động và chiến lược phân phối sức cho cự ly chạy đường dài 42km.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Athlete Marcus:** Coach, during yesterday's thirty-kilometer practice run, my legs felt heavy and sluggish during the final stages.
+  *(Thưa Huấn luyện viên, trong cự ly chạy tập ba mươi cây số hôm qua, đôi chân em cảm thấy nặng nề và uể oải ở những chặng cuối.)*
+- **Trainer Henderson:** That happens when your muscles deplete glycogen. For a grueling **[[Marathon]]**, sheer willpower is not enough; you must build deep aerobic **[[Endurance]]**.
+  *(Điều đó xảy ra khi các cơ của em cạn kiệt glycogen. Đối với một cuộc chạy marathon khắc nghiệt, chỉ có ý chí sắt đá thôi là chưa đủ; em phải xây dựng sức bền hiếu khí cực sâu.)*
+- **Athlete Marcus:** What should we adjust in my daily training regimen at the **[[Gym]]**?
+  *(Chúng ta nên điều chỉnh những gì trong chế độ tập luyện hàng ngày của em tại phòng gym ạ?)*
+- **Trainer Henderson:** We will integrate dynamic plyometric exercises to improve your neuromuscular **[[Dexterity]]** and core **[[Fitness]]**.
+  *(Chúng ta sẽ tích hợp các bài tập bật nhảy linh hoạt để cải thiện sự khéo léo của hệ thần kinh cơ và thể lực cốt lõi của em.)*
+- **Athlete Marcus:** I will make sure never to rush through my pre-race **[[Warm-up]]** or skip post-run **[[Stretch|stretching]]** routines.
+  *(Em sẽ đảm bảo không bao giờ làm vội vàng bài khởi động trước cuộc đua hoặc bỏ qua các bài tập giãn cơ sau khi chạy.)*
+- **Trainer Henderson:** Excellent. With disciplined recovery and unwavering dedication, you will outpace every formidable **[[Opponent]]** on race day.
+  *(Xuất sắc. Với sự phục hồi có kỷ luật và sự cống hiến không ngừng nghỉ, em sẽ vượt qua mọi đối thủ đáng gờm vào ngày thi đấu.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Chiến thuật trận đấu & Tinh thần thể thao (Match Tactics, Sportsmanship & Teamwork):
+- **`execute flexible tactics / dynamic team play`** *(triển khai chiến thuật linh hoạt / lối chơi đồng đội gắn kết)*:
+  - *"The manager devised shrewd **[[Tactics]]** to enable the entire **[[Team]]** to outmaneuver their rivals."*
+  - *(Vị huấn luyện viên trưởng đã vạch ra những chiến thuật sắc bén để giúp toàn đội qua mặt các đối thủ.)*
+- **`display true sportsmanship / honor an opponent`** *(thể hiện tinh thần thể thao đích thực / tôn trọng đối thủ)*:
+  - *"Helping an injured rival back to their feet is the very epitome of commendable **[[Sportsmanship]]**."*
+  - *(Giúp một đối thủ bị chấn thương đứng dậy chính là biểu tượng mẫu mực của tinh thần thể thao đáng khen ngợi.)*
+- **`blow the final whistle / decide the match`** *(thổi hồi còi kết thúc trận đấu / phân định cục diện trận đấu)*:
+  - *"As the **[[Referee]]** blew the final **[[Whistle]]**, the roar of celebration shook the entire **[[Stadium]]**."*
+  - *(Khi trọng tài thổi hồi còi mãn cuộc, tiếng gầm reo ăn mừng đã làm rung chuyển toàn bộ sân vận động.)*
+
+#### 2. Thể lực, Sức bền & Huấn luyện đỉnh cao (Physical Conditioning, Stamina & Athleticism):
+- **`build exceptional stamina / cardiovascular endurance`** *(rèn luyện sức bền phi thường / độ bền tim mạch)*:
+  - *"Long-distance runners must cultivate immense **[[Stamina]]** and physical **[[Endurance]]** through years of discipline."*
+  - *(Các vận động viên chạy cự ly dài phải tích lũy thể lực cực lớn và sức bền thể chất qua nhiều năm rèn luyện kỷ luật.)*
+- **`thorough warm-up routine / post-workout stretch`** *(quy trình khởi động kỹ lưỡng / bài tập giãn cơ sau buổi tập)*:
+  - *"Athletes perform a systematic **[[Warm-up]]** before the race and a thorough **[[Stretch]]** afterwards to prevent injury."*
+  - *(Các vận động viên thực hiện bài khởi động có hệ thống trước cuộc đua và bài giãn cơ kỹ lưỡng sau đó để ngăn ngừa chấn thương.)*
+- **`demonstrate supreme agility / physical prowess`** *(thể hiện sự nhanh nhẹn vượt bậc / năng lực thể chất đỉnh cao)*:
+  - *"The gymnast stunned the spectators by showcasing extraordinary **[[Agility]]** and breathtaking athletic **[[Prowess]]**."*
+  - *(Vận động viên thể dục dụng cụ đã làm kinh ngạc các khán giả bằng cách phô diễn sự nhanh nhẹn phi thường và năng lực thể chất ngoạn mục.)*
+
+#### 3. Giải đấu danh giá & Đỉnh cao vinh quang (Tournaments, Rivalry & Championship Glory):
+- **`historic sporting rivalry / competitive tournament`** *(mối kỳ phùng địch thủ lịch sử / giải đấu cạnh tranh khốc liệt)*:
+  - *"Decades of intense **[[Rivalry]]** reached a boiling point in the final stages of the prestigious **[[Tournament]]**."*
+  - *(Nhiều thập kỷ đối đầu gay gắt giữa hai đối thủ truyền kiếp đã lên tới đỉnh điểm trong các chặng cuối của giải đấu danh giá.)*
+- **`score a decisive goal / clinch the victory`** *(ghi bàn thắng quyết định / ấn định chiến thắng)*:
+  - *"In stoppage time, the forward managed to **[[Score]]** a sensational **[[Goal]]** that sealed an unforgettable **[[Victory]]**."*
+  - *(Vào thời gian bù giờ, tiền đạo này đã ghi được một bàn thắng ngoạn mục, ấn định một chiến thắng không thể nào quên.)*
+- **`lift the championship trophy / win an Olympic medal`** *(nâng cao cúp vô địch / giành huy chương Olympic)*:
+  - *"The jubilant players hoisted the championship **[[Trophy]]** and proudly received their gold **[[Medal|medals]]**."*
+  - *(Các cầu thủ hân hoan nâng cao chiếc cúp vô địch và tự hào đón nhận những tấm huy chương vàng của mình.)*

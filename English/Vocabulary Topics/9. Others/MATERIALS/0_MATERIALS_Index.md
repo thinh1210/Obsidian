@@ -108,3 +108,78 @@ In modern engineering, choosing the right material is crucial. Researchers are d
 
 ### Bản dịch Tiếng Việt
 Trong kỹ thuật hiện đại, việc lựa chọn vật liệu phù hợp là vô cùng quan trọng. Các nhà nghiên cứu đang phát triển một loại **vật liệu composite** mới kết hợp giữa **hợp kim** nhẹ với các sợi **tổng hợp** để đạt được độ bền **kéo** vượt trội. Không giống như thủy tinh truyền thống **dễ vỡ**, loại vật liệu mới này cực kỳ **đàn hồi** dưới áp lực. Nó có một lớp vỏ ngoài **trong suốt** được phủ một chất **kỵ nước**, giúp nó hoàn toàn **không thấm nước** đối với độ ẩm và chống lại các hóa chất **ăn mòn**. Ngoài ra, các bộ phận của cấu trúc bên trong được làm bằng chất **có nhiều lỗ rỗng** cho phép không khí lưu thông, nhưng cấu trúc tổng thể vẫn chắc chắn như **bê tông**. Vì các kim loại được sử dụng vừa **dễ dát mỏng** vừa **dễ kéo sợi**, chúng có thể dễ dàng được tạo hình thành các bộ phận phức tạp. Hơn hết, thiết kế này kết hợp các yếu tố **phân hủy sinh học** để đảm bảo tính bền vững của môi trường.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lựa chọn vật liệu kiến trúc & Công trình xanh (Architectural Materials & Sustainable Building Design)
+> **Bối cảnh thực tế:** Một kiến trúc sư trưởng và một kỹ sư kết cấu đang thảo luận về việc lựa chọn vật liệu mặt dựng và khung chịu lực cho tòa nhà văn phòng sinh thái tiết kiệm năng lượng.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Elena:** For the exterior facade, I want to combine high-performance **[[Concrete]]** with extensive panels of smart **[[Glass]]**.
+  *(Đối với mặt dựng ngoại thất, tôi muốn kết hợp bê tông tính năng cao với các tấm kính thông minh diện tích lớn.)*
+- **David:** That creates a striking aesthetic. We must ensure the support beams use reinforced **[[Steel]]** or a lightweight titanium **[[Alloy]]** that can withstand substantial **[[Tensile]]** stresses.
+  *(Điều đó tạo nên một thẩm mỹ rất ấn tượng. Chúng ta phải đảm bảo các dầm chịu lực dùng thép gia cường hoặc một hợp kim titan nhẹ có thể chịu được các ứng suất kéo đáng kể.)*
+- **Elena:** What about balancing natural daylight and thermal privacy for the executive suites?
+  *(Còn việc cân bằng giữa ánh sáng tự nhiên và sự riêng tư cách nhiệt cho các phòng điều hành thì sao?)*
+- **David:** We can specify double-glazed **[[Transparent]]** windows coated with a nano **[[Hydrophobic]]** film to shed rainwater, paired with frosted **[[Opaque]]** panels where privacy is essential.
+  *(Chúng ta có thể chỉ định các cửa sổ trong suốt hai lớp phủ màng kỵ nước nano để trôi sạch nước mưa, kết hợp với các tấm mờ đục ở những nơi cần sự riêng tư.)*
+- **Elena:** Perfect. For interior wall paneling and acoustics, let's utilize sustainably harvested **[[Wood]]** and engineered **[[Laminated]]** timber rather than petroleum-based plastics.
+  *(Hoàn hảo. Đối với vách ốp tường nội thất và tiêu âm, hãy sử dụng gỗ khai thác bền vững và gỗ dán nhiều lớp kỹ thuật thay vì các loại nhựa gốc dầu mỏ.)*
+- **David:** Agreed. High-grade engineered wood is remarkably **[[Resilient]]**, completely **[[Impermeable]]** when sealed with natural resin, and far more **[[Biodegradable]]** than synthetic alternatives.
+  *(Nhất trí. Gỗ kỹ thuật cao cấp có độ đàn hồi dẻo dai đáng kinh ngạc, hoàn toàn không thấm nước khi được trám kín bằng nhựa cây tự nhiên, và dễ phân hủy sinh học hơn nhiều so với các giải pháp nhân tạo.)*
+
+---
+
+### 🌟 Tình huống 2: Nghiên cứu vật liệu hàng không vũ trụ và công nghệ cao (Aerospace & Advanced Smart Materials Lab)
+> **Bối cảnh thực tế:** Hai nhà khoa học vật liệu tại phòng thí nghiệm hàng không vũ trụ đang đánh giá độ bền cơ học và đặc tính của vật liệu composite mới dưới điều kiện bay siêu thanh khắc nghiệt.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Vance:** How did the newly synthesized structural **[[Composite]]** perform in yesterday's cryogenic impact simulation?
+  *(Mẫu vật liệu composite kết cấu mới tổng hợp đã thể hiện thế nào trong mô phỏng va chạm ở nhiệt độ cực thấp hôm qua?)*
+- **Dr. Lin:** Exceptionally well. While standard ceramics turn dangerously **[[Brittle]]** below freezing, this advanced **[[Synthetic]]** matrix maintained outstanding structural integrity.
+  *(Rất đặc biệt. Trong khi các loại gốm tiêu chuẩn trở nên giòn gãy nguy hiểm dưới nhiệt độ đóng băng, ma trận tổng hợp tiên tiến này vẫn duy trì tính toàn vẹn kết cấu vượt trội.)*
+- **Dr. Vance:** What mechanical properties contributed to that remarkable impact absorption?
+  *(Những đặc tính cơ học nào đã đóng góp vào khả năng hấp thụ va đập đáng nể đó?)*
+- **Dr. Lin:** The interlaced carbon **[[Fiber]]** filaments distribute stress evenly, while the binding polymer remains both **[[Elastic]]** and **[[Flexible]]**. It provides the strength of heavy **[[Metal]]** while remaining lighter than **[[Aluminum]]**.
+  *(Các sợi carbon đan xen phân bổ ứng suất đồng đều, trong khi polyme liên kết vẫn giữ được cả tính đàn hồi lẫn độ linh hoạt. Nó mang lại sức bền của kim loại nặng trong khi nhẹ hơn cả nhôm.)*
+- **Dr. Vance:** Have you also analyzed the real-time structural health monitoring sensors?
+  *(Cô đã phân tích các cảm biến theo dõi tình trạng kết cấu theo thời gian thực chưa?)*
+- **Dr. Lin:** Yes, we embedded a thin **[[Piezoelectric]]** transducer that converts mechanical vibrations into electric signals, making the aircraft casing incredibly **[[Tough]]** and intelligent.
+  *(Rồi, chúng tôi đã nhúng một bộ chuyển đổi áp điện mỏng có khả năng biến đổi rung động cơ học thành tín hiệu điện, giúp lớp vỏ máy bay trở nên vô cùng bền dai và thông minh.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Đặc tính cơ lý & Độ bền vật liệu (Mechanical Properties & Material Strength):
+- **`high tensile strength`** *(độ bền kéo cao, sức chịu lực căng)*:
+  - *"Aerospace engineers favor titanium **[[Alloy|alloys]]** because of their superior **[[Tensile]]** strength and low weight."*
+  - *(Các kỹ sư hàng không vũ trụ ưa chuộng hợp kim titan vì độ bền kéo vượt trội và trọng lượng nhẹ.)*
+- **`ductile and malleable metals`** *(kim loại dễ kéo sợi và dễ dát mỏng)*:
+  - *"Precious metals like **[[Gold]]** and **[[Copper]]** are exceptionally **[[Malleable]]**, allowing craftsmen to shape intricate ornaments."*
+  - *(Các kim loại quý như vàng và đồng cực kỳ dễ dát mỏng, cho phép thợ thủ công tạo hình các đồ trang trí tinh xảo.)*
+- **`brittle fracture`** *(nứt gãy do độ giòn)*:
+  - *"Ordinary untreated **[[Glass]]** is susceptible to sudden **[[Brittle]]** fracture under sharp temperature changes."*
+  - *(Kính thông thường chưa qua xử lý rất dễ bị nứt gãy giòn đột ngột dưới sự thay đổi nhiệt độ đột ngột.)*
+
+#### 2. Vật liệu tự nhiên & Dệt may (Natural Fibers & Textiles):
+- **`breathable organic fabric`** *(vải dệt hữu cơ thoáng khí)*:
+  - *"High-end fashion labels blend organic **[[Cotton]]** with pure **[[Silk]]** to produce luxurious **[[Fabric|fabrics]]**."*
+  - *(Các nhãn hàng thời trang cao cấp pha trộn cotton hữu cơ với lụa tơ tằm nguyên chất để tạo ra những loại vải sang trọng.)*
+- **`genuine durable leather`** *(chất liệu da thật bền bỉ)*:
+  - *"Footwear crafted from premium **[[Leather]]** withstands daily abrasion far better than synthetic **[[Plastic]]**."*
+  - *(Giày dép làm từ da thật cao cấp chịu được sự mài mòn hàng ngày tốt hơn nhiều so với nhựa tổng hợp.)*
+- **`porous structure`** *(cấu trúc xốp, có nhiều lỗ rỗng)*:
+  - *"Volcanic pumice stone exhibits a highly **[[Porous]]** surface that makes it lightweight yet functional."*
+  - *(Đá bọt núi lửa sở hữu bề mặt có nhiều lỗ rỗng giúp nó nhẹ nhưng vẫn có nhiều công năng.)*
+
+#### 3. Vật liệu tiên tiến & Thân thiện môi trường (Advanced & Eco-Friendly Materials):
+- **`biodegradable packaging`** *(bao bì tự phân hủy sinh học)*:
+  - *"Global retailers are transitioning toward **[[Biodegradable]]** wrappers to reduce long-term environmental waste."*
+  - *(Các nhà bán lẻ toàn cầu đang chuyển sang loại màng bọc phân hủy sinh học để giảm thiểu rác thải môi trường lâu dài.)*
+- **`hydrophobic coating`** *(lớp phủ kỵ nước, chống đọng nước)*:
+  - *"Applying a nano-scale **[[Hydrophobic]]** sealant makes the solar panels completely **[[Impermeable]]** to moisture."*
+  - *(Phủ một chất trám kỵ nước kích thước nano giúp các tấm pin mặt trời hoàn toàn không thấm ẩm.)*
+- **`superconducting material`** *(vật liệu siêu dẫn)*:
+  - *"Physicists are researching room-temperature **[[Superconductor]]** compounds to revolutionize energy transmission."*
+  - *(Các nhà vật lý đang nghiên cứu các hợp chất siêu dẫn ở nhiệt độ phòng để cách mạng hóa việc truyền tải năng lượng.)*

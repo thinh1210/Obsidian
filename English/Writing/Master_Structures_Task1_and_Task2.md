@@ -17,6 +17,10 @@ tags:
 > 
 > Mọi cấu trúc ở đây không phải là những mẫu câu "học vẹt" rời rạc, mà là **những bộ khung tư duy học thuật (Syntactic Thought Patterns)** giúp bạn tự động hóa việc viết câu phức, kiểm soát liên kết đoạn (Cohesion) và tối đa hóa điểm số ở 2 tiêu chí khắt khe nhất: **Grammatical Range & Accuracy (GRA)** và **Lexical Resource (LR)**.
 
+> [!TIP] 🪜 Bạn cảm thấy các cấu trúc Band 9 này quá nâng cao so với hiện tại?
+> Nếu bạn đang ở mức Band 5.0 - 6.0 và muốn học các mẫu câu an toàn, dễ thuộc, cùng lộ trình nâng từng nấc từ vựng & ngữ pháp từ Band 5.0 lên 6.5 và 7.5 kèm bài mẫu đối chiếu 3 band điểm:
+> 👉 [[Band_Progression_Guide_5_to_7.5|Cẩm Nang Nâng Band Từng Bậc: Lộ Trình Từ Band 5.0 Lên 6.0, 6.5, 7.0 & 7.5 🔗]]
+
 ---
 
 ## 📑 Mục Lục Điều Hướng Nhanh

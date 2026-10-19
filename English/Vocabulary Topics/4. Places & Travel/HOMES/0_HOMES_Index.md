@@ -126,3 +126,77 @@ When Mark was a university student, his **[[Accommodation]]** was a **[[Cramped]
 
 ### Bản dịch Tiếng Việt
 Khi Mark còn là một sinh viên đại học, **chỗ ở** của anh là một căn phòng **chật chội** trong một tòa nhà **đổ nát**. **Chủ nhà** hiếm khi sửa chữa hệ thống đường ống nước, và các hóa đơn **tiện ích** hàng tháng thì cao đến mức khó tin. Quyết tâm tìm một nơi tốt hơn, Mark quyết định **cho thuê lại** căn phòng của mình cho một **người thuê nhà** khác và tìm kiếm một ngôi nhà mới. Anh đã tiết kiệm đủ tiền để ký một **hợp đồng thuê** mới cho một căn hộ **rộng rãi**. Với sự giúp đỡ của bạn bè, họ bắt đầu **trang trí** phòng khách, biến nó thành một không gian **ấm cúng**. Tòa nhà hiện đại cung cấp mọi **tiện nghi** thiết yếu, từ phòng tập thể dục đến khu vườn trên sân thượng. Nhiều năm sau, Mark cuối cùng cũng có thể nhận được một **khoản thế chấp** để mua ngôi nhà của riêng mình, anh mỉm cười nhìn lại những ngày đi thuê nhà trước đây.
+
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tìm thuê căn hộ & Thương lượng hợp đồng thuê (Apartment Hunting & Lease Agreement Negotiation)
+> **Bối cảnh thực tế:** Một nhân viên văn phòng cùng bạn cùng phòng (**[[Roommate]]**) đến xem một căn hộ chung cư (**[[Apartment]]** / **[[Flat]]**) và trao đổi với chủ nhà (**[[Landlord]]**) về giá thuê (**[[Rent]]**), tiền đặt cọc (**[[Deposit]]**), nội thất (**[[Furnished]]** / **[[Furniture]]**) và chi phí điện nước tiện ích (**[[Utilities]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Emma:** Good afternoon, Mr. Bennett! We're here to view the two-bedroom **[[Apartment]]** on the third **[[Floor]]**.
+  *(Chào buổi chiều, bác Bennett! Chúng cháu đến để xem căn hộ hai phòng ngủ ở tầng ba ạ.)*
+- **Mr. Bennett (Landlord):** Welcome! Step right in. As you can see, the **[[Living room]]** is very **[[Bright]]** and **[[Spacious]]**, leading directly to an open **[[Balcony]]**.
+  *(Chào mừng các cháu! Mời vào trong. Như các cháu thấy, phòng khách rất sáng sủa và rộng rãi, thông thẳng ra ban công thoáng đãng.)*
+- **Liam:** Wow, the layout is fantastic. Is the unit fully **[[Furnished]]**, or do we need to bring our own **[[Furniture]]**?
+  *(Oa, bố cục căn nhà tuyệt quá. Căn này đã có đầy đủ nội thất chưa, hay bọn cháu phải tự sắm đồ đạc ạ?)*
+- **Mr. Bennett:** It comes with a comfy **[[Sofa]]**, dining set, and a built-in **[[Wardrobe]]** in each **[[Bedroom]]**. The modern **[[Kitchen]]** is fully equipped as well.
+  *(Nhà có sẵn một chiếc ghế sofa êm ái, bộ bàn ăn và tủ quần áo âm tường trong mỗi phòng ngủ. Căn bếp hiện đại cũng được trang bị đầy đủ.)*
+- **Emma:** That's great! What about the **[[Lease]]** terms, the security **[[Deposit]]**, and monthly **[[Utilities]]**?
+  *(Tuyệt quá ạ! Còn các điều khoản hợp đồng thuê, tiền đặt cọc và tiền điện nước sinh hoạt hàng tháng thì sao ạ?)*
+- **Mr. Bennett:** The standard **[[Contract]]** is one year with a two-month **[[Deposit]]**. Water and Wi-Fi are included, while electricity is billed separately to the **[[Tenant]]**.
+  *(Hợp đồng tiêu chuẩn là một năm với tiền cọc hai tháng. Tiền nước và Wi-Fi đã bao gồm trong giá, còn tiền điện sẽ tính riêng cho người thuê.)*
+
+---
+
+### 🌟 Tình huống 2: Mua nhà, vay thế chấp & Lên kế hoạch cải tạo (Home Buying, Mortgage & House Renovation)
+> **Bối cảnh thực tế:** Hai vợ chồng đứng trước một ngôi nhà cổ kính (**[[Cottage]]** / **[[House]]**) ở vùng ngoại ô yên tĩnh (**[[Quiet]]** **[[Neighborhood]]**) và bàn về việc vay thế chấp (**[[Mortgage]]**) qua đại lý bất động sản (**[[Real estate]]**) để mua và tiến hành cải tạo nâng cấp (**[[Renovation]]** / **[[Refurbish]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **David:** Can you believe our **[[Mortgage]]** application finally got approved by the bank? We can officially purchase this lovely suburban **[[Property]]**!
+  *(Em có tin được là hồ sơ vay thế chấp của chúng mình cuối cùng đã được ngân hàng phê duyệt không? Chúng mình có thể chính thức mua bất động sản tuyệt vời ở ngoại ô này rồi!)*
+- **Sarah:** It feels like a dream, David! Even though this detached **[[House]]** looks a bit **[[Dilapidated]]** right now, the foundation is rock solid.
+  *(Cứ như một giấc mơ vậy David! Dù ngôi nhà riêng này hiện tại trông hơi cũ kỹ xuống cấp, nhưng phần móng thì vô cùng vững chãi.)*
+- **David:** Exactly. Our **[[Real estate]]** broker mentioned that with some major **[[Renovation]]**, we can completely **[[Refurbish]]** the old **[[Basement]]** and turn the dusty **[[Attic]]** into a home office.
+  *(Chính xác luôn. Người môi giới bất động sản có nói rằng với một đợt cải tạo lớn, chúng ta có thể tân trang lại toàn bộ tầng hầm cũ và biến căn gác xép đầy bụi thành văn phòng làm việc tại gia.)*
+- **Sarah:** And don't forget the outdoor space! We can build a neat wooden **[[Fence]]** around the **[[Garden]]**, paint the **[[Wall|walls]]**, and fix the leaking **[[Roof]]**.
+  *(Và đừng quên không gian ngoài trời nữa nhé! Chúng ta có thể dựng một hàng rào gỗ gọn gàng quanh khu vườn, sơn lại các bức tường và sửa lại mái nhà đang bị dột.)*
+- **David:** Perfect. Once everything is done, this will become our forever **[[Home]]**, a peaceful **[[Residence]]** where our family can happily **[[Settle]]** down.
+  *(Hoàn hảo. Một khi mọi thứ hoàn tất, nơi này sẽ trở thành tổ ấm trọn đời của chúng ta, một nơi cư trú thanh bình để gia đình mình an cư lạc nghiệp.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi thuê nhà & Quản lý hợp đồng:
+- **`sign a lease / rental contract`** *(ký hợp đồng thuê nhà)*:
+  - *"Carefully review all rental clauses before you officially sign a **[[Lease]]**."*
+  - *(Hãy rà soát kỹ lưỡng mọi điều khoản thuê nhà trước khi bạn chính thức ký hợp đồng thuê.)*
+- **`pay a security deposit`** *(đóng tiền đặt cọc giữ nhà)*:
+  - *"The **[[Landlord]]** requires incoming tenants to pay a two-month security **[[Deposit]]**."*
+  - *(Chủ nhà yêu cầu người thuê mới phải thanh toán khoản tiền cọc đảm bảo tương đương hai tháng tiền nhà.)*
+- **`monthly utility bills`** *(hóa đơn điện nước, tiện ích sinh hoạt hàng tháng)*:
+  - *"Energy-efficient LED lighting helps reduce monthly **[[Utilities]]** substantially."*
+  - *(Hệ thống đèn LED tiết kiệm điện giúp giảm bớt chi phí hóa đơn điện nước hàng tháng một cách đáng kể.)*
+
+#### 2. Khi bài trí không gian & Nội thất gia đình:
+- **`fully furnished apartment`** *(căn hộ đầy đủ nội thất)*:
+  - *"Renting a **[[Furnished]]** **[[Flat]]** saves young professionals the upfront cost of buying appliances."*
+  - *(Thuê một căn hộ có sẵn nội thất giúp giới trẻ đi làm tiết kiệm được chi phí mua sắm thiết bị ban đầu.)*
+- **`spacious and bright`** *(rộng rãi và ngập tràn ánh sáng)*:
+  - *"Floor-to-ceiling windows make the master **[[Bedroom]]** look exceptionally **[[Bright]]** and **[[Spacious]]**."*
+  - *(Cửa sổ kính kịch trần khiến phòng ngủ chính trông vô cùng sáng sủa và rộng rãi.)*
+- **`keep the house neat and tidy`** *(giữ nhà cửa ngăn nắp và sạch sẽ)*:
+  - *"She established a weekend cleaning routine to keep every room neat and **[[Tidy]]**."*
+  - *(Cô ấy lập ra thói quen dọn dẹp cuối tuần để giữ cho mọi căn phòng luôn ngăn nắp và gọn gàng.)*
+
+#### 3. Khi mua bán bất động sản & Cải tạo:
+- **`apply for a mortgage`** *(nộp hồ sơ vay thế chấp mua nhà)*:
+  - *"First-time homebuyers often apply for a low-interest **[[Mortgage]]** to finance their dream **[[House]]**."*
+  - *(Những người mua nhà lần đầu thường nộp đơn xin vay thế chấp lãi suất thấp để chi trả cho ngôi nhà mơ ước.)*
+- **`undergo extensive renovation`** *(trải qua cuộc đại trùng tu, sửa chữa lớn)*:
+  - *"The heritage **[[Cottage]]** underwent extensive **[[Renovation]]** to modernize its electrical wiring."*
+  - *(Ngôi nhà tranh cổ kính đã trải qua đợt đại tu lớn để hiện đại hóa hệ thống dây điện.)*
+- **`quiet and safe neighborhood`** *(khu dân cư yên tĩnh và an ninh)*:
+  - *"Families prioritize living in a **[[Quiet]]** **[[Neighborhood]]** with reputable local schools."*
+  - *(Các gia đình ưu tiên sinh sống trong một khu dân cư yên tĩnh với các trường học địa phương uy tín.)*

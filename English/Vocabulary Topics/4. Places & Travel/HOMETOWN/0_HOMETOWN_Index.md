@@ -107,3 +107,77 @@ Growing up in an **[[Idyllic]]** valley, my **[[Hometown]]** was once a **[[Pict
 
 ### Bản dịch Tiếng Việt
 Lớn lên tại một thung lũng **thanh bình, tuyệt đẹp**, **quê hương** của tôi từng là một ngôi làng **đẹp như tranh vẽ** nổi tiếng với cảnh sắc tuyệt mỹ và **sự yên bình** tuyệt đối. Tuy nhiên, khi **đô thị lớn** lân cận mở rộng trong những thập kỷ qua, **sự mở rộng lộn xộn** của đô thị dần xâm lấn ranh giới bình yên của chúng tôi. Để đáp ứng nhu cầu của các gia đình **cư dân** mới, chính quyền địa phương đã đầu tư mạnh mẽ vào **cơ sở hạ tầng** hiện đại và các **tiện nghi** thiết yếu. Làn sóng **chỉnh trang đô thị** này đã nhanh chóng biến đổi trung tâm **có tính lịch sử**, biến những con phố yên tĩnh thành một trung tâm thương mại **nhộn nhịp**. Mặc dù những phát triển này mang lại hệ thống **giao thông** thuận tiện và tăng trưởng kinh tế, nhiều người dân địa phương lâu năm vẫn bày tỏ sự lo ngại. Họ lo lắng rằng lối sống **đa văn hóa** nhịp độ nhanh sẽ làm lu mờ **di sản** văn hóa phong phú của họ và thay thế cộng đồng truyền thống yêu dấu bằng một khu rừng bê tông tẻ nhạt.
+
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Trở về thăm quê hương & Hồi tưởng kỷ niệm thơ ấu (Returning to Visit One's Hometown & Nostalgic Reminiscence)
+> **Bối cảnh thực tế:** Sau nhiều năm sinh sống và làm việc tại một đại đô thị sôi động (**[[Metropolis]]** / **[[Capital]]**), hai người bạn thơ ấu cùng trở về thăm quê nhà (**[[Hometown]]**), cùng tản bộ qua cây cầu đá (**[[Bridge]]**), ngắm dòng sông (**[[River]]**) và ghé thăm khu chợ truyền thống (**[[Market]]** / **[[Traditional]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Minh:** It feels so rejuvenating to be back in our **[[Hometown]]**, Linh. The fresh breeze along the **[[River]]** hasn't changed at all!
+  *(Thật sảng khoái khi được trở về quê hương của chúng mình, Linh à. Làn gió mát lành dọc bờ sông chẳng hề thay đổi chút nào!)*
+- **Linh:** Absolutely! Whenever I leave the noisy **[[Metropolis]]**, I immediately miss the deep **[[Tranquility]]** and **[[Peaceful]]** atmosphere of this old **[[Village]]**.
+  *(Hoàn toàn đồng ý! Mỗi lần rời xa đại đô thị ồn ào, mình lại nhớ ngay sự thanh bình sâu lắng và bầu không khí yên ả của ngôi làng xưa này.)*
+- **Minh:** Look at the ancient stone **[[Bridge]]** and that **[[Historic]]** temple over there. The local **[[Community]]** has done a wonderful job preserving our cultural **[[Heritage]]**.
+  *(Nhìn cây cầu đá cổ kính và ngôi đền lịch sử đằng kia kìa. Cộng đồng địa phương đã làm rất tốt việc gìn giữ di sản văn hóa của chúng ta.)*
+- **Linh:** Yes, and I love strolling through the morning **[[Market]]**. The local vendors are so warm and kind, selling fresh produce from the surrounding **[[Rural]]** **[[Environs]]**.
+  *(Đúng vậy, và mình rất thích đi dạo qua khu chợ sáng. Những tiểu thương địa phương thật ấm áp và tốt bụng, bày bán nông sản tươi ngon từ các vùng nông thôn lân cận.)*
+- **Minh:** Indeed. Even though modern **[[Infrastructure]]** has brought paved **[[Road|roads]]** and new schools, the town retains its **[[Quaint]]** charm and gentle pace of life.
+  *(Thực sự là vậy. Dù cơ sở hạ tầng hiện đại đã mang lại những con đường trải nhựa và trường học mới, thị trấn vẫn giữ trọn nét duyên dáng cổ kính và nhịp sống êm đềm.)*
+- **Linh:** That's why no matter where my career takes me, this place will always be my true emotional anchor.
+  *(Đó là lý do tại sao dù sự nghiệp có đưa mình đi đâu chăng nữa, nơi này sẽ luôn là điểm tựa tinh thần đích thực của mình.)*
+
+---
+
+### 🌟 Tình huống 2: Thảo luận về tốc độ đô thị hóa & Bảo tồn nét đẹp làng quê (Urbanization vs. Rural Charm in Hometown)
+> **Bối cảnh thực tế:** Tại một quán trà ven sông, hai người dân địa phương (**[[Resident]]**) thảo luận về làn sóng đô thị hóa lan rộng (**[[Urban]]** / **[[Sprawl]]**) từ vùng ngoại ô (**[[Suburb]]**), việc nâng cấp tiện ích công cộng (**[[Amenities]]** / **[[Facility]]**) và giữ gìn cảnh sắc tự nhiên (**[[Picturesque]]** **[[Scenery]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Uncle Ba:** Have you noticed how fast the neighboring **[[City]]** is expanding toward our **[[Town]]**? That urban **[[Sprawl]]** is consuming green paddies.
+  *(Chú có nhận thấy thành phố lân cận đang mở rộng nhanh chóng về phía thị trấn chúng ta không? Sự phát triển đô thị tràn lan đó đang dần nuốt chửng những cánh đồng xanh.)*
+- **Uncle Nam:** I have, Ba. On one hand, the new highway improves **[[Transport]]** and connects us easily to **[[Downtown]]**. But on the other hand, traffic **[[Congestion]]** has started appearing on our main **[[Street]]**.
+  *(Tôi có thấy chứ, anh Ba. Một mặt, tuyến quốc lộ mới cải thiện việc giao thông và kết nối chúng ta dễ dàng với khu trung tâm. Nhưng mặt khác, tình trạng tắc nghẽn giao thông đã bắt đầu xuất hiện trên con phố chính của chúng ta.)*
+- **Uncle Ba:** The **[[Municipality]]** must plan smartly. We welcome modern **[[Amenities]]** and healthcare **[[Facility|facilities]]**, but we cannot sacrifice our **[[Picturesque]]** **[[Scenery]]** and pure air.
+  *(Chính quyền địa phương phải quy hoạch thông minh. Chúng ta hoan nghênh các tiện nghi hiện đại và cơ sở y tế, nhưng không thể đánh đổi cảnh sắc đẹp như tranh và bầu không khí trong lành của mình.)*
+- **Uncle Nam:** Exactly. Many young folks who moved away for work are returning to build eco-friendly cottages in the quiet **[[Suburb|suburbs]]** because they value our slow living.
+  *(Chính xác luôn. Nhiều bạn trẻ đi xa làm ăn đang quay trở về xây những ngôi nhà tranh sinh thái ở vùng ngoại ô yên tĩnh vì họ quý trọng lối sống chậm rãi ở đây.)*
+- **Uncle Ba:** Let's hope the local council continues to protect the **[[Idyllic]]** **[[Landscape]]** and preserves our close-knit **[[Neighborhood]]** solidarity.
+  *(Mong rằng hội đồng địa phương sẽ tiếp tục bảo vệ cảnh quan thanh bình này và gìn giữ tình làng nghĩa xóm bền chặt của chúng ta.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi hoài niệm & Nói về nguồn cội quê hương:
+- **`peaceful countryside / idyllic rural life`** *(vùng quê thanh bình / cuộc sống nông thôn êm ả)*:
+  - *"Spending summers in the **[[Idyllic]]** **[[Village]]** provided an escape from high-stress work."*
+  - *(Trải qua những mùa hè ở ngôi làng thanh bình đã mang lại lối thoát khỏi công việc đầy căng thẳng.)*
+- **`close-knit community`** *(cộng đồng gắn bó khăng khít, tình làng nghĩa xóm)*:
+  - *"Neighbors in a close-knit **[[Community]]** readily offer a helping hand during harvest season."*
+  - *(Hàng xóm trong một cộng đồng gắn bó thân thiết luôn sẵn lòng giúp đỡ nhau trong suốt mùa thu hoạch.)*
+- **`preserve cultural heritage`** *(gìn giữ và bảo tồn di sản văn hóa)*:
+  - *"The village elders organize annual folk festivals to preserve their **[[Historic]]** **[[Heritage]]**."*
+  - *(Các bậc cao niên trong làng tổ chức các lễ hội dân gian thường niên để bảo tồn di sản lịch sử của họ.)*
+
+#### 2. Khi miêu tả phong cảnh & Không gian sống:
+- **`picturesque scenery / lush surroundings`** *(phong cảnh đẹp như tranh / khung cảnh xung quanh tươi tốt)*:
+  - *"The valley is blessed with **[[Picturesque]]** **[[Scenery]]** featuring clear streams and winding hills."*
+  - *(Thung lũng được ban tặng phong cảnh đẹp như tranh vẽ với những con suối trong vắt và đồi núi uốn lượn.)*
+- **`quaint little town`** *(thị trấn nhỏ cổ kính, duyên dáng)*:
+  - *"Tourists flock to photograph cobblestone lanes throughout this **[[Quaint]]** **[[Town]]**."*
+  - *(Du khách đổ xô đến chụp ảnh những con đường lát đá cuội khắp thị trấn cổ kính duyên dáng này.)*
+- **`tranquil atmosphere`** *(bầu không khí yên bình, tĩnh mịch)*:
+  - *"The gentle rustle of leaves created a deeply soothing **[[Atmosphere]]** of **[[Tranquility]]**."*
+  - *(Tiếng lá xào xạc êm đềm tạo nên một bầu không khí thanh bình sâu lắng và vô cùng thư thái.)*
+
+#### 3. Khi nói về sự thay đổi & Đô thị hóa nông thôn:
+- **`urban sprawl / rapid development`** *(sự phát triển đô thị tràn lan / phát triển nhanh chóng)*:
+  - *"Unchecked urban **[[Sprawl]]** threatens fertile farmland surrounding the provincial **[[Capital]]**."*
+  - *(Sự mở rộng đô thị không kiểm soát đe dọa các vùng đất nông nghiệp màu mỡ xung quanh thủ phủ tỉnh.)*
+- **`modern public amenities`** *(các tiện nghi công cộng hiện đại)*:
+  - *"The installation of solar lighting improved local street **[[Amenities]]** and evening safety."*
+  - *(Việc lắp đặt hệ thống đèn chiếu sáng năng lượng mặt trời đã cải thiện tiện nghi đường phố và sự an toàn vào buổi tối.)*
+- **`provincial lifestyle`** *(lối sống tỉnh lẻ, bình dị)*:
+  - *"Many retirees leave crowded apartments to embrace a relaxed **[[Provincial]]** rhythm of life."*
+  - *(Nhiều người về hưu rời bỏ các căn hộ đông đúc để đón nhận nhịp sống tỉnh lẻ thong thả, an yên.)*

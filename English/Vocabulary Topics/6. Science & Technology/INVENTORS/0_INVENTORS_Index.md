@@ -108,3 +108,78 @@ Every great [[Inventor]] starts as a [[Maverick]] with a dream. For years, Thoma
 
 ### Bản dịch Tiếng Việt
 Mọi **nhà phát minh** vĩ đại đều bắt đầu như một **kẻ lập dị độc lập** mang theo một ước mơ. Trong nhiều năm, Thomas đã dành những đêm dài trong trạng thái **ấp ủ ý tưởng**, phác thảo những bản nháp về thứ mà ông hy vọng sẽ **cách mạng hóa** ngành năng lượng. Những nỗ lực không mệt mỏi và tinh thần **bền bỉ không biết mệt mỏi** của ông cuối cùng đã được đền đáp trong một cơn bão đêm muộn khi ông có một **khoảnh khắc bừng sáng ý tưởng** đột ngột. Ông nhận ra cách làm cho những ý tưởng phức tạp của mình trở nên **khả thi**. Với sự thông suốt mới tìm được, ông đã vẽ ra một **bản thiết kế chi tiết** và chế tạo một **nguyên mẫu** hoạt động được của **thiết bị** thân thiện với môi trường của mình. Đó là một sáng tạo **tài tình**, một **tiền thân** trực tiếp cho các máy phát điện mặt trời hiện đại giúp biến các cỗ máy chạy bằng than cũ kỹ trở nên **lỗi thời**. **Bước đột phá** lớn này đã mang lại cho ông một **bằng sáng chế** danh giá và đưa ông trở thành một **người tiên phong mở đường** thực sự trong công nghệ xanh, thể hiện sức mạnh của **sự khéo léo sáng tạo** của con người.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Khoảnh khắc bừng sáng ý tưởng và ấp ủ sáng chế (The Pioneer's Sudden Epiphany & Concept Incubation)
+> **Bối cảnh thực tế:** Trong buổi phỏng vấn truyền cảm hứng, một nhà phát minh kỳ cựu chia sẻ về hành trình biến một ý tưởng vụt sáng thành một giải pháp công nghệ mang tính bước ngoặt.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Fiona:** What motivated you to tackle such a seemingly impossible engineering challenge in the first place?
+  *(Điều gì ban đầu đã thúc đẩy ông giải quyết một thách thức kỹ thuật dường như bất khả thi như vậy?)*
+- **Thomas:** It began with a sudden midnight **[[Epiphany]]**. While watching falling raindrops, I realized how to **[[Conceptualize]]** a self-cleaning surface coating.
+  *(Mọi chuyện bắt đầu bằng một khoảnh khắc bừng sáng ý tưởng lúc nửa đêm. Khi ngắm nhìn những hạt mưa rơi, tôi chợt nhận ra cách hình thành ý niệm về một lớp phủ bề mặt tự làm sạch.)*
+- **Fiona:** How long did that initial **[[Idea]]** remain in the developmental phase before taking physical shape?
+  *(Ý tưởng ban đầu đó đã nằm trong giai đoạn phát triển ấp ủ bao lâu trước khi thành hình trên thực tế?)*
+- **Thomas:** It required three years of patient **[[Incubation]]** and relentless **[[Experiment|experimentation]]**. We encountered every conceivable technical **[[Obstacle]]** along the journey.
+  *(Nó đòi hỏi ba năm ấp ủ kiên nhẫn và thử nghiệm không ngừng nghỉ. Chúng tôi đã gặp phải mọi trở ngại kỹ thuật có thể tưởng tượng được trên suốt hành trình.)*
+- **Fiona:** How did you maintain your morale through dozens of failed prototypes?
+  *(Bằng cách nào ông có thể duy trì được tinh thần của mình qua hàng chục mẫu thử nghiệm thất bại?)*
+- **Thomas:** An **[[Indefatigable]]** spirit is essential for any true **[[Inventor]]**. Each flawed iteration teaches you how to **[[Innovate]]** and refine your **[[Design]]**.
+  *(Một tinh thần kiên cường không biết mệt mỏi là điều tối quan trọng đối với bất kỳ nhà phát minh đích thực nào. Mỗi bước lặp có lỗi đều dạy bạn cách đổi mới và hoàn thiện thiết kế của mình.)*
+
+---
+
+### 🌟 Tình huống 2: Nhà sáng chế cá tính bảo vệ bản quyền sở hữu trí tuệ (A Maverick Trailblazer Defending Inimitable Patent Rights)
+> **Bối cảnh thực tế:** Tại văn phòng luật sở hữu trí tuệ, một nhà sáng lập có phong cách độc đáo cùng luật sư bảo vệ quyền sở hữu cho một sáng chế cơ khí mang tính tiên phong.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Miranda:** The examiner questioned the non-obviousness criteria of your application. Competitors claim the mechanism lacks **[[Originality]]**.
+  *(Thẩm định viên đã đặt câu hỏi về tiêu chí không hiển nhiên trong đơn đăng ký của anh. Các đối thủ cạnh tranh cho rằng cơ cấu này thiếu tính độc bản.)*
+- **Julian:** That argument is absurd! My patented internal coupling has an **[[Inimitable]]** micro-fluidic geometry that no existing machine utilizes.
+  *(Lập luận đó thật vô lý! Khớp nối bên trong đã được cấp bằng sáng chế của tôi có hình học vi lưu chất độc nhất vô nhị mà chưa một cỗ máy hiện có nào sử dụng.)*
+- **Miranda:** You have always been a **[[Maverick]]** in this conservative industry, Julian. Your unorthodox methodology breaks established norms.
+  *(Anh luôn là một kẻ lập dị đầy cá tính trong ngành công nghiệp bảo thủ này, Julian ạ. Phương pháp luận phá cách của anh phá vỡ các chuẩn mực đã được thiết lập.)*
+- **Julian:** Conventional wisdom only leads to stagnation. As a **[[Trailblazer]]**, my goal is to trigger a fundamental **[[Paradigm]]** shift, not make minor tweaks.
+  *(Tư duy theo lối mòn chỉ dẫn tới sự trì trệ. Là một người tiên phong mở đường, mục tiêu của tôi là kích hoạt một sự thay đổi hệ hình căn bản chứ không phải là những tinh chỉnh nhỏ nhặt.)*
+- **Miranda:** We will submit your experimental test logs. The data proves your **[[Device]]** delivers an undeniable technological **[[Breakthrough]]**.
+  *(Chúng ta sẽ nộp các nhật ký thử nghiệm thực nghiệm của anh. Dữ liệu chứng minh thiết bị của anh mang lại một bước đột phá công nghệ không thể phủ nhận.)*
+- **Julian:** Excellent. Once this **[[Patent]]** is confirmed, we can launch our manufacturing **[[Venture]]** with complete commercial certainty.
+  *(Tuyệt vời. Một khi bằng sáng chế này được chuẩn y, chúng ta có thể khởi động dự án mạo hiểm sản xuất với sự chắc chắn tuyệt đối về mặt thương mại.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Phẩm chất & Bản lĩnh nhà sáng chế (Inventor Virtues & Creative Tenacity):
+- **`indefatigable pioneer spirit`** *(tinh thần tiên phong kiên định không biết mệt mỏi)*:
+  - *"Only an **[[Indefatigable]]** researcher with immense grit could overcome repeated laboratory setbacks."*
+  - *(Chỉ có một nhà nghiên cứu kiên cường không biết mệt mỏi với lòng quả cảm to lớn mới có thể vượt qua những thất bại liên tiếp trong phòng thí nghiệm.)*
+- **`sudden flash of epiphany`** *(tia sáng giác ngộ bừng sáng đột ngột)*:
+  - *"A sudden flash of **[[Epiphany]]** struck the scientist while pondering nature's microscopic structures."*
+  - *(Một khoảnh khắc giác ngộ bừng sáng đột ngột đã ập đến với nhà khoa học khi đang suy ngẫm về các cấu trúc vi mô của tự nhiên.)*
+- **`maverick trailblazer`** *(người mở đường đầy cá tính, phá cách)*:
+  - *"Known as an intellectual **[[Maverick]]**, she challenged dogma to become a celebrated **[[Trailblazer]]**."*
+  - *(Được biết đến như một cá tính phá cách đầy trí tuệ, cô đã thách thức mọi giáo điều để trở thành một người mở đường được ca ngợi.)*
+
+#### 2. Quá trình ấp ủ & Thử nghiệm nguyên mẫu (Concept Formulation & Prototype Testing):
+- **`incubation of a breakthrough`** *(sự ấp ủ của một bước đột phá)*:
+  - *"The quiet **[[Incubation]]** of that radical theory eventually produced an unprecedented scientific **[[Breakthrough]]**."*
+  - *(Sự ấp ủ thầm lặng của lý thuyết táo bạo đó cuối cùng đã tạo ra một bước đột phá khoa học chưa từng có.)*
+- **`formulate an ingenious blueprint`** *(soạn thảo một bản thiết kế tài tình)*:
+  - *"The chief architect helped **[[Formulate]]** an **[[Ingenious]]** structural **[[Blueprint]]** for the high-rise tower."*
+  - *(Vị kiến trúc sư trưởng đã giúp xây dựng một bản thiết kế kết cấu tài tình cho tòa tháp chọc trời.)*
+- **`test and modify the prototype`** *(thử nghiệm và sửa đổi nguyên mẫu)*:
+  - *"Engineers must continuously **[[Test]]** and **[[Modify]]** their initial **[[Prototype]]** to maximize safety."*
+  - *(Các kỹ sư phải liên tục thử nghiệm và điều chỉnh nguyên mẫu ban đầu của mình để tối đa hóa độ an toàn.)*
+
+#### 3. Tác động xã hội & Thay đổi cục diện thời đại (Technological Impact & Paradigm Shifts):
+- **`spark a paradigm shift`** *(châm ngòi cho một bước chuyển đổi hệ hình)*:
+  - *"Her revolutionary **[[Invention]]** helped spark an enduring **[[Paradigm]]** shift across renewable energy industries."*
+  - *(Sáng chế mang tính cách mạng của bà đã góp phần châm ngòi cho một sự chuyển đổi hệ hình bền vững trên khắp các ngành năng lượng tái tạo.)*
+- **`file a landmark patent`** *(nộp đơn xin cấp bằng sáng chế mang tính bước ngoặt)*:
+  - *"The company moved swiftly to file an exclusive **[[Patent]]** on its synthetic catalyst discovery."*
+  - *(Công ty đã hành động mau lẹ để nộp đơn xin cấp bằng sáng chế độc quyền cho phát hiện chất xúc tác tổng hợp của mình.)*
+- **`ubiquitous household tool`** *(công cụ gia đình phổ biến khắp nơi)*:
+  - *"Within a single decade, the smart sensor evolved into a **[[Ubiquitous]]** everyday **[[Tool]]** in modern homes."*
+  - *(Chỉ trong vòng một thập kỷ duy nhất, cảm biến thông minh đã phát triển thành một công cụ quen thuộc có mặt ở khắp mọi nơi trong các ngôi nhà hiện đại.)*

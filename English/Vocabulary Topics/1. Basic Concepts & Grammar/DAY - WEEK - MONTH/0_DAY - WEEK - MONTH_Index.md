@@ -128,3 +128,77 @@ Managing a busy **[[Schedule]]** can be challenging, especially when we try to e
 
 ### Bản dịch Tiếng Việt
 Việc quản lý một **lịch trình** bận rộn có thể đầy thử thách, đặc biệt là khi chúng ta cố gắng thiết lập một **thói quen** **hằng ngày** hiệu quả. Việc **đúng giờ** khi hoàn thành **hạn chót** là vô cùng quan trọng, tuy nhiên nhiều người vẫn có xu hướng **trì hoãn** cho đến phút cuối cùng. Điều này thường dẫn đến sự căng thẳng **liên miên** làm gián đoạn sự bình yên trong tâm trí chúng ta. Mặc dù một số cơ hội trong cuộc sống là **thoáng qua** hay thậm chí là **phù du**, nỗ lực của chúng ta không nên mang tính **gián đoạn**. Nếu bạn cảm thấy bị quá tải, đôi khi tốt hơn là nên **hoãn lại** những công việc ít khẩn cấp hơn trong vòng **nửa tháng** để lấy lại sự tập trung. Bằng cách học cách **đồng bộ hóa** các nhiệm vụ với mức năng lượng của mình, bạn có thể biến đổi năng suất và sức khỏe tinh thần của mình.
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lập lịch trình dự án & Quản lý thời hạn tại công ty công nghệ (Corporate Sprint Scheduling & Project Delivery)
+> **Bối cảnh thực tế:** Giám đốc sản phẩm và scrum master họp đánh giá lịch trình bàn giao phần mềm quý, thảo luận về chu kỳ chạy sprint hai tuần một lần và việc kiểm soát hạn chót để không phải hoãn ngày phát hành.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Nathan:** Rachel, our **[[Quarterly]]** product milestone is approaching fast. How does the engineering development **[[Timetable]]** look for next **[[Month]]**?
+  *(Rachel, cột mốc sản phẩm hàng quý của chúng ta đang tới rất gần rồi. Lịch trình phát triển của đội ngũ kỹ thuật cho tháng tới trông như thế nào rồi?)*
+- **Rachel:** We have organized the backlog into **[[Biweekly]]** sprints to keep the team focused. However, we must ensure every engineer remains **[[Punctual]]** so that no tasks slip past the critical **[[Deadline]]**.
+  *(Bọn em đã tổ chức danh mục công việc thành các chu kỳ sprint hai tuần một lần để giữ cho cả nhóm tập trung. Tuy nhiên, chúng ta phải đảm bảo mọi kỹ sư đều đúng giờ để không có nhiệm vụ nào bị trôi qua hạn chót sống còn.)*
+- **Nathan:** Exactly. If unforeseen system bugs **[[Occur]]**, we should identify them well in **[[Advance]]** rather than attempting to **[[Postpone]]** our launch date at the final **[[Hour]]**.
+  *(Chính xác là vậy. Nếu các lỗi hệ thống không lường trước xuất hiện, chúng ta nên phát hiện chúng từ sớm trước thời hạn thay vì cố gắng trì hoãn ngày phát hành vào giờ chót.)*
+- **Rachel:** I agree completely. We hold a 15-minute standup every **[[Morning]]** to **[[Synchronize]]** progress across departments and prevent team members from starting to **[[Procrastinate]]**.
+  *(Em hoàn toàn đồng ý. Bọn em tổ chức một buổi họp ngắn 15 phút mỗi sáng để đồng bộ hóa tiến độ giữa các phòng ban và ngăn chặn các thành viên bắt đầu có thói quen chần chừ trì hoãn.)*
+- **Nathan:** Perfect. Please update the master corporate **[[Calendar]]** by **[[Thursday]]** afternoon so senior leadership can review our roadmap on **[[Friday]]**.
+  *(Tuyệt vời. Nhờ em cập nhật lịch biểu tổng thể của công ty trước chiều thứ Năm để ban lãnh đạo cấp cao có thể xem xét lộ trình vào thứ Sáu nhé.)*
+- **Rachel:** I will finish it by **[[Midday]]** **[[Tomorrow]]** without fail!
+  *(Em nhất định sẽ hoàn thành nó trước giữa trưa ngày mai, không sai một ly ạ!)*
+
+---
+
+### 🌟 Tình huống 2: Nhịp sống đô thị & Cân bằng giữa công việc và nghỉ ngơi (Urban Rhythm & Work-Life Balance)
+> **Bối cảnh thực tế:** Hai người bạn đồng nghiệp trò chuyện vào chiều thứ Sáu sau giờ tan tầm, bàn về thói quen làm việc hàng ngày, những khoảnh khắc thư giãn ngắn ngủi lúc hoàng hôn và kế hoạch nghỉ dưỡng kéo dài nửa tháng.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Daniel:** Megan, look at that gorgeous **[[Sunset]]** outside the office window. Another long **[[Weekday]]** is finally drawing to a close.
+  *(Megan, cậu nhìn hoàng hôn rực rỡ ngoài cửa sổ văn phòng kìa. Lại một ngày làm việc trong tuần dài đằng đẵng cuối cùng cũng sắp khép lại rồi.)*
+- **Megan:** It really is breathtaking, Daniel. In the quiet transition from **[[Dusk]]** to **[[Twilight]]**, the bustling city seems to pause and catch its breath before **[[Night]]** falls.
+  *(Thực sự đẹp đến nghẹt thở đấy Daniel. Trong khoảnh khắc chuyển giao tĩnh lặng từ lúc chạng vạng hoàng hôn sang ánh tranh tối tranh sáng, thành phố náo nhiệt dường như chậm lại một nhịp trước khi màn đêm buông xuống.)*
+- **Daniel:** Our **[[Daily]]** urban **[[Routine]]** is so hectic. Between commuting during the **[[Morning]]** rush and staring at spreadsheets until **[[Evening]]**, peaceful moments feel so **[[Fleeting]]** and **[[Ephemeral]]**.
+  *(Thói quen sinh hoạt thường nhật nơi thành thị của chúng ta quá đỗi tất bật. Giữa việc chen chúc di chuyển trong giờ cao điểm buổi sáng và dán mắt vào bảng tính đến tận chập tối, những khoảnh khắc thanh bình cảm giác thật ngắn ngủi và thoáng qua.)*
+- **Megan:** That is why protecting our **[[Weekend]]** downtime is non-negotiable. Are you planning any travels soon?
+  *(Đó chính là lý do tại sao việc bảo vệ thời gian nghỉ ngơi cuối tuần là điều không thể thương lượng. Cậu có dự định đi du lịch đâu sớm không?)*
+- **Daniel:** Yes! I booked a full **[[Fortnight]]** off in **[[April]]** to hike through the mountains and escape screen time completely.
+  *(Có chứ! Mình đã đặt kỳ nghỉ trọn vẹn hai tuần vào tháng Tư để đi bộ leo núi và hoàn toàn tránh xa màn hình máy tính.)*
+- **Megan:** Two whole weeks off! That will give you a **[[Perennial]]** sense of rejuvenation that lasts for the rest of the **[[Year]]**.
+  *(Trọn vẹn hai tuần nghỉ ngơi cơ à! Điều đó sẽ đem lại cho cậu một cảm giác hồi sinh tươi mới dài lâu suốt khoảng thời gian còn lại trong năm đấy.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Chu kỳ công việc & Tần suất định kỳ (Business Cycles & Recurring Frequencies):
+- **`quarterly performance review`** *(đánh giá hiệu suất hàng quý)*:
+  - *"The executive board conducts a thorough **[[Quarterly]]** performance review to evaluate revenue streams."*
+  - *(Hội đồng quản trị tiến hành một cuộc đánh giá hiệu suất hàng quý kỹ lưỡng để thẩm định các dòng doanh thu.)*
+- **`biweekly payroll cycle`** *(chu kỳ trả lương hai tuần một lần)*:
+  - *"Human resources manages employee compensation through a reliable **[[Biweekly]]** payroll system."*
+  - *(Phòng nhân sự quản lý chế độ đãi ngộ của nhân viên thông qua một hệ thống trả lương định kỳ hai tuần một lần rất đáng tin cậy.)*
+- **`well in advance`** *(từ rất sớm trước thời hạn)*:
+  - *"Key conference speakers were requested to submit their presentation slides well in **[[Advance]]** of the opening ceremony."*
+  - *(Các diễn giả chính của hội nghị được yêu cầu nộp các trang trình chiếu từ rất sớm trước buổi lễ khai mạc.)*
+
+#### 2. Quản lý thời gian & Thói quen làm việc (Time Management & Work Habits):
+- **`strictly adhere to the schedule`** *(tuân thủ nghiêm ngặt lịch trình)*:
+  - *"Pilots and air traffic controllers must strictly adhere to the operational flight **[[Schedule]]**."*
+  - *(Phi công và nhân viên kiểm soát không lưu phải tuân thủ nghiêm ngặt lịch trình vận hành chuyến bay.)*
+- **`punctual to the minute`** *(đúng giờ đến từng phút một)*:
+  - *"High-speed bullet train operators take pride in being **[[Punctual]]** to the minute."*
+  - *(Những người vận hành tàu cao tốc luôn tự hào về việc chạy tàu đúng giờ chuẩn xác đến từng phút một.)*
+- **`tendency to procrastinate`** *(khuynh hướng trì hoãn, lần lữa)*:
+  - *"Overcoming the unconscious urge to **[[Procrastinate]]** is vital for academic and professional success."*
+  - *(Vượt qua thôi thúc vô thức muốn trì hoãn công việc là điều tối quan trọng để đạt được thành công trong học tập và sự nghiệp.)*
+
+#### 3. Khoảnh khắc chuyển tiếp & Khoảng thời gian tự nhiên (Temporal Transitions & Natural Moments):
+- **`from dawn to dusk`** *(từ lúc bình minh le lói đến khi hoàng hôn tắt nắng)*:
+  - *"Traditional farmers labored out in the open fields from **[[Dawn]]** to **[[Dusk]]** during harvest."*
+  - *(Những người nông dân truyền thống đã cặm cụi lao động trên cánh đồng rộng mở từ lúc rạng đông tới tận hoàng hôn suốt vụ mùa.)*
+- **`a restful fortnight`** *(kỳ nghỉ hai tuần thư thái, trọn vẹn)*:
+  - *"After months of rigorous trial litigation, the defense attorneys took a restful **[[Fortnight]]** in the countryside."*
+  - *(Sau nhiều tháng tranh tụng căng thẳng tại tòa án, các luật sư bào chữa đã dành một kỳ nghỉ hai tuần thư thái tại miền thôn dã.)*
+- **`fleeting moments of serenity`** *(những khoảnh khắc tĩnh lặng ngắn ngủi)*:
+  - *"Amid the chaotic demands of parenthood, she cherished those **[[Fleeting]]** moments of quiet contemplation at **[[Sunrise]]**."*
+  - *(Giữa những bộn bề lo toan của việc nuôi con nhỏ, cô luôn trân quý những khoảnh khắc tĩnh tâm ngắn ngủi le lói lúc mặt trời mọc.)*

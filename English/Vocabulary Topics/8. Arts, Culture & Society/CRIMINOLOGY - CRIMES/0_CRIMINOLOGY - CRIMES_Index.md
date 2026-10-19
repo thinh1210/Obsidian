@@ -108,3 +108,74 @@ Professor Marcus, a renowned expert in **[[Criminology]]**, was fascinated by th
 
 ### Bản dịch Tiếng Việt
 Giáo sư Marcus, một chuyên gia nổi tiếng về **tội phạm học**, rất bị thu hút bởi vụ hỏa hoạn bí ẩn tại nhà kho. Trong khi cảnh sát dán nhãn đó là một tai nạn bi kịch, Marcus lại nghi ngờ đây là một vụ **phóng hỏa**. Không lâu sau, một **kẻ tự xử** bí ẩn đã thu thập **bằng chứng** quan trọng từ **hiện trường vụ án** và gửi nó đến tòa án. Công tố viên đã dùng thứ này để **buộc tội** người quản lý nhà kho, dẫn đến một **bản cáo trạng** chính thức cho một **trọng tội** nghiêm trọng. Trong suốt phiên tòa, một **nhân chứng** chốt chặn đã hỗ trợ **chứng cứ ngoại phạm** của người quản lý, chứng minh ông ta đang ở nơi khác. Do đó, thẩm phán buộc phải **minh oan** cho người quản lý, tuyên bố ông ta **vô tội**. **Sự trắng án** gây kinh ngạc này làm chấn động công chúng, nhưng Marcus biết **thủ phạm** thực sự vẫn đang ở ngoài kia, chờ đợi để **phạm** một **tội ác** khác.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Khám nghiệm hiện trường & Thu thập bằng chứng tội phạm (Crime Scene Investigation & Evidence Collection)
+> **Bối cảnh thực tế:** Thám tử cảnh sát và chuyên gia pháp y kiểm tra hiện trường vụ đột nhập và biển thủ công quỹ, lấy lời khai nhân chứng và truy tìm nghi phạm.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Detective Miller:** Forensics team, have you secured the entire **[[Crime scene]]** following the late-night break-in?
+  *(Đội pháp y, các bạn đã phong tỏa toàn bộ hiện trường vụ án sau vụ đột nhập đêm muộn chưa?)*
+- **Officer Torres:** Yes, sir. It initially appeared to be a routine **[[Burglary]]**, but financial records indicate significant **[[Embezzlement]]** from the corporate vault.
+  *(Báo cáo sếp, rồi ạ. Ban đầu nó có vẻ như một vụ trộm đột nhập thông thường, nhưng hồ sơ tài chính cho thấy dấu hiệu biển thủ công quỹ nghiêm trọng từ két sắt của công ty.)*
+- **Detective Miller:** Did the **[[Perpetrator]]** leave behind any biological traces or digital fingerprints?
+  *(Thủ phạm có để lại dấu vết sinh học hay dấu vân tay kỹ thuật số nào không?)*
+- **Officer Torres:** We recovered latent prints and interviewed an eyewitness **[[Witness]]** who spotted an unidentified **[[Suspect]]** fleeing near the back exit.
+  *(Chúng tôi đã thu hồi được dấu vân tay ẩn và thẩm vấn một nhân chứng tận mắt nhìn thấy một kẻ tình nghi không rõ danh tính bỏ trốn gần lối thoát hiểm phía sau.)*
+- **Detective Miller:** Verify whether that individual has a verified **[[Alibi]]** before we consider an official **[[Arrest]]**.
+  *(Hãy xác minh xem người đó có bằng chứng ngoại phạm được kiểm chứng hay không trước khi chúng ta tính đến việc thực hiện lệnh bắt giữ chính thức.)*
+
+---
+
+### 🌟 Tình huống 2: Phiên tòa xét xử & Trắng án do thiếu chứng cứ (Courtroom Trial, Indictment & Acquittal)
+> **Bối cảnh thực tế:** Luật sư bào chữa và thẩm phán thảo luận trước tòa án về bản cáo trạng trọng tội và phán quyết trắng án bảo vệ người vô tội khỏi cảnh tù đày.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Defense Attorney Stone:** Your Honor, the prosecution's **[[Indictment]]** alleging a severe financial **[[Felony]]** lacks conclusive proof.
+  *(Thưa quý tòa, bản cáo trạng của bên công tố cáo buộc một trọng tội tài chính nghiêm trọng hoàn toàn thiếu bằng chứng thuyết phục.)*
+- **Prosecutor Hayes:** The state has demonstrated intent, and we urge the **[[Court]]** to **[[Convict]]** the defendant to deter widespread financial misconduct.
+  *(Phía công tố đã chứng minh được ý định phạm tội, và chúng tôi khẩn thiết yêu cầu tòa án kết án bị cáo để răn đe các hành vi sai trái tài chính tràn lan.)*
+- **Judge Sterling:** The evidence presented remains circumstantial. It fails to establish guilt beyond a reasonable doubt, compelling this court to **[[Exonerate]]** the accused.
+  *(Bằng chứng được đưa ra vẫn chỉ là gián tiếp. Nó không chứng minh được tội lỗi vượt quá sự nghi ngờ hợp lý, buộc tòa án này phải minh oan cho bị cáo.)*
+- **Defense Attorney Stone:** My client is profoundly relieved to receive a full **[[Acquittal]]** and have his reputation restored.
+  *(Thân chủ tôi vô cùng nhẹ nhõm khi nhận được sự trắng án hoàn toàn và được khôi phục danh dự.)*
+- **Judge Sterling:** Case dismissed. Our legal system aims to deter **[[Recidivism]]**, while ensuring that no **[[Innocent]]** citizen suffers wrongful **[[Incarceration]]**.
+  *(Vụ án được bãi bỏ. Hệ thống pháp lý của chúng ta hướng tới răn đe chống tái phạm, đồng thời đảm bảo không một công dân vô tội nào phải chịu cảnh tù đày oan uổng.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi điều tra & Hiện trường vụ án:
+- **`secure the crime scene`** *(phong tỏa hiện trường vụ án)*:
+  - *"Investigators arrived quickly to secure the **[[Crime scene]]** from contamination."*
+  - *(Các điều tra viên đã có mặt nhanh chóng để phong tỏa hiện trường vụ án tránh bị xáo trộn.)*
+- **`corroborate an alibi`** *(chứng thực chứng cứ ngoại phạm)*:
+  - *"Surveillance footage helped the detective corroborate the suspect's solid **[[Alibi]]**."*
+  - *(Hình ảnh từ camera giám sát đã giúp thám tử chứng thực chứng cứ ngoại phạm vững chắc của nghi phạm.)*
+- **`apprehend the perpetrator`** *(bắt giữ thủ phạm)*:
+  - *"Federal agents worked alongside local **[[Police]]** to apprehend the dangerous **[[Perpetrator]]**."*
+  - *(Các đặc vụ liên bang đã phối hợp cùng cảnh sát địa phương để bắt giữ thủ phạm nguy hiểm.)*
+
+#### 2. Khi xét xử tại tòa án:
+- **`hand down an acquittal`** *(tuyên án trắng án)*:
+  - *"The jury reached a unanimous verdict, resulting in a dramatic courtroom **[[Acquittal]]**."*
+  - *(Bồi thẩm đoàn đã đưa ra phán quyết đồng thuận, dẫn đến một sự trắng án đầy kịch tính trước tòa.)*
+- **`issue a formal indictment`** *(đưa ra bản cáo trạng chính thức)*:
+  - *"The grand jury decided to issue an **[[Indictment]]** against the executive for securities fraud."*
+  - *(Đại bồi thẩm đoàn đã quyết định đưa ra bản cáo trạng đối với vị giám đốc điều hành vì gian lận chứng khoán.)*
+- **`exonerate the defendant`** *(minh oan cho bị cáo)*:
+  - *"New forensic evidence helped **[[Exonerate]]** a man who had served a decade in **[[Prison]]**."*
+  - *(Bằng chứng pháp y mới đã giúp minh oan cho một người đàn ông đã phải thụ án một thập kỷ trong tù.)*
+
+#### 3. Khi nói về tội danh & Thi hành án:
+- **`commit a serious felony`** *(phạm một trọng tội nghiêm trọng)*:
+  - *"Those who **[[Commit]]** a violent **[[Felony]]** face mandatory minimum sentences."*
+  - *(Những kẻ phạm phải một trọng tội bạo lực sẽ phải đối mặt với mức án tối thiểu bắt buộc.)*
+- **`corporate embezzlement`** *(biển thủ công quỹ doanh nghiệp)*:
+  - *"Auditors discovered systematic **[[Embezzlement]]** hidden within offshore accounts."*
+  - *(Các kiểm toán viên đã phát hiện hành vi biển thủ công quỹ có hệ thống ẩn giấu trong các tài khoản nước ngoài.)*
+- **`reduce the rate of recidivism`** *(giảm tỷ lệ tái phạm tội)*:
+  - *"Vocational training programs in correctional facilities help significantly reduce **[[Recidivism]]**."*
+  - *(Các chương trình đào tạo nghề trong các cơ sở cải huấn giúp giảm đáng kể tỷ lệ tái phạm tội.)*

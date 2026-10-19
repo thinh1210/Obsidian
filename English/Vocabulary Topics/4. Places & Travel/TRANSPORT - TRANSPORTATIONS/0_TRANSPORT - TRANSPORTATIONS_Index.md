@@ -126,3 +126,77 @@ Living in the **[[Commuter belt]]**, Sarah has a long daily **[[Commute]]** to t
 
 ### Bản dịch Tiếng Việt
 Sống ở **vành đai cư dân đi làm**, Sarah có một quãng đường **đi làm hàng ngày** dài vào trung tâm thành phố. Mỗi sáng, cô phải đối mặt với những chuyến tàu **quá tải** và tình trạng **tắc nghẽn** giao thông nghiêm trọng trên **đường giao thông chính**. Để tránh tình trạng **kẹt cứng giao thông** ở trung tâm thành phố, nhiều tài xế sử dụng **đường tránh** mới hoặc lựa chọn dịch vụ **đi chung xe** để chia sẻ chuyến đi. Tuy nhiên, chính quyền địa phương đang đầu tư vào **cơ sở hạ tầng** hiện đại để **khử các-bon** hệ thống giao thông. Họ đang mở rộng mạng lưới **giao thông công cộng khối lượng lớn**, thúc đẩy vận tải **đa phương thức** kết nối xe buýt, tàu điện ngầm và xe đạp. Sarah hiện đi một chuyến **xe đưa đón chặng ngắn** tốc độ cao trực tiếp đến **điểm đến** của mình, trong khi các lối đi an toàn được thiết kế cho từng **người đi bộ**.
+
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đi lại giờ cao điểm & Lựa chọn phương tiện xanh (Rush-Hour Commute & Sustainable Mass-Transit)
+> **Bối cảnh thực tế:** Tại một nhà ga trung chuyển (**[[Terminal]]** / **[[Station]]**), hai người đi làm hàng ngày (**[[Commute]]**) trao đổi về tình trạng kẹt xe giờ cao điểm (**[[Rush hour]]** / **[[Traffic jam]]** / **[[Gridlock]]**), các tuyến tàu cao tốc (**[[High-speed]]** **[[Train]]**) và giải pháp sử dụng xe điện (**[[Electric vehicle]]**) hoặc đi chung xe (**[[Carpool]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Kevin:** Hannah, you look exhausted! Did you get caught in that awful **[[Traffic jam]]** on the highway?
+  *(Hannah, trông cậu mệt mỏi thế! Cậu bị dính vào vụ tắc đường kinh hoàng trên đường cao tốc à?)*
+- **Hannah:** Yes! During morning **[[Rush hour]]**, a minor **[[Collision]]** caused a massive **[[Bottleneck]]** on the main **[[Expressway]]**, bringing all vehicles to total **[[Gridlock]]**.
+  *(Ừ! Vào giờ cao điểm buổi sáng, một vụ va chạm nhỏ đã gây ra điểm nghẽn nghiêm trọng trên tuyến đường cao tốc chính, khiến mọi phương tiện tê liệt hoàn toàn.)*
+- **Kevin:** That's awful. That's why I gave up driving my petrol car and switched to our new **[[Mass-transit]]** network. The electric **[[Subway]]** runs strictly according to the **[[Timetable]]**.
+  *(Tệ thật đấy. Thế nên mình đã bỏ hẳn lái xe xăng và chuyển sang mạng lưới giao thông công cộng khối lượng lớn mới của thành phố. Tàu điện ngầm chạy chuẩn xác theo lịch trình.)*
+- **Hannah:** I'm really thinking about buying an **[[Electric vehicle]]** or joining a neighborhood **[[Carpool]]** to save fuel and reduce travel stress.
+  *(Mình thực sự đang nghĩ đến việc mua một chiếc xe điện hoặc tham gia nhóm đi chung xe với hàng xóm để tiết kiệm nhiên liệu và giảm bớt căng thẳng khi đi lại.)*
+- **Kevin:** Or even better, try **[[Intermodal]]** travel! You can ride a **[[Bicycle]]** to the suburban **[[Station]]**, hop on the **[[High-speed]]** rail, and arrive right at your office doorstep.
+  *(Hoặc thậm chí tốt hơn nữa, hãy thử di chuyển đa phương thức xem! Cậu có thể đạp xe đạp đến ga ngoại ô, nhảy lên tàu hỏa tốc độ cao và đến ngay trước cửa văn phòng.)*
+- **Hannah:** That's brilliant. Promoting clean **[[Public transport]]** is certainly the best way to **[[Decarbonize]]** our city!
+  *(Ý kiến tuyệt vời đấy. Thúc đẩy giao thông công cộng sạch chắc chắn là cách tốt nhất để khử các-bon cho thành phố của chúng ta!)*
+
+---
+
+### 🌟 Tình huống 2: Logistics vận tải đa phương thức & Điều phối hàng hóa (Intermodal Freight Logistics & Port Operations)
+> **Bối cảnh thực tế:** Tại một cảng biển sầm uất (**[[Harbor]]** / **[[Terminal]]**), một người quản lý điều phối hàng hóa trao đổi với tài xế xe tải chở hàng (**[[Truck]]** / **[[Freight]]**) về lộ trình vận chuyển (**[[Route]]** / **[[Motorway]]**), phí cầu đường (**[[Toll]]**) và kết nối phà biển (**[[Ferry]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Supervisor Miller:** Roger, has the international cargo **[[Ship]]** finished unloading containers at the container **[[Terminal]]**?
+  *(Roger, tàu chở hàng quốc tế đã hoàn tất việc bốc dỡ các container tại ga cảng container chưa?)*
+- **Roger (Truck Driver):** Yes, boss. My heavy-duty **[[Truck]]** is fully loaded with commercial **[[Freight]]**, and the customs paperwork is cleared.
+  *(Xong rồi sếp ơi. Chiếc xe tải hạng nặng của tôi đã chất đầy hàng hóa thương mại, và giấy tờ hải quan cũng đã thông quan xong.)*
+- **Supervisor Miller:** Excellent. Make sure to check the delivery **[[Route]]** on your GPS **[[Map]]**. Avoid downtown and take the ring **[[Bypass]]** to avoid costly urban congestion.
+  *(Xuất sắc. Nhớ kiểm tra kỹ lộ trình giao hàng trên bản đồ GPS nhé. Tránh khu trung tâm và đi theo tuyến đường tránh vành đai để tránh kẹt xe đô thị tốn kém thời gian.)*
+- **Roger:** Will do. Does the automated transponder cover all highway **[[Toll|tolls]]** along the **[[Motorway]]** up to the inland depot?
+  *(Rõ rồi sếp. Thiết bị thu phí tự động đã bao gồm tất cả các trạm thu phí đường cao tốc dọc theo đường cao tốc đến kho trung chuyển nội địa chưa ạ?)*
+- **Supervisor Miller:** Yes, all automated. If you reach the river before dusk, you can board the roll-on **[[Ferry]]** to bypass tomorrow's bridge maintenance **[[Delay|delays]]**.
+  *(Đầy đủ tự động rồi. Nếu anh đến bờ sông trước khi trời tối, anh có thể lên phà chuyên chở để tránh việc chậm trễ do bảo trì cầu vào ngày mai.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi đối mặt với tắc nghẽn & Giao thông giờ cao điểm:
+- **`severe traffic congestion / complete gridlock`** *(ách tắc giao thông nghiêm trọng / kẹt xe tê liệt hoàn toàn)*:
+  - *"Heavy snow caused complete **[[Gridlock]]** across the municipal road network."*
+  - *(Tuyết rơi dày đặc đã gây ra tình trạng tê liệt hoàn toàn trên toàn bộ mạng lưới đường bộ thành phố.)*
+- **`rush-hour commute`** *(lộ trình đi làm vào giờ cao điểm)*:
+  - *"Subway trains are extremely crowded during the morning **[[Rush hour]]**."*
+  - *(Các chuyến tàu điện ngầm cực kỳ đông đúc trong giờ cao điểm buổi sáng.)*
+- **`traffic bottleneck`** *(điểm nghẽn giao thông, nút thắt cổ chai)*:
+  - *"Narrow bridge lanes create a chronic **[[Bottleneck]]** for inbound commuter traffic."*
+  - *(Các làn cầu hẹp tạo ra một điểm nghẽn kinh niên đối với lưu lượng xe cộ đổ vào thành phố.)*
+
+#### 2. Khi đi lại bằng phương tiện công cộng & Đa phương thức:
+- **`efficient public transport`** *(giao thông công cộng hiệu quả)*:
+  - *"Residents rely heavily on reliable **[[Public transport]]** to reach their workplaces."*
+  - *(Người dân phụ thuộc rất lớn vào hệ thống giao thông công cộng đáng tin cậy để đi đến nơi làm việc.)*
+- **`high-speed rail network`** *(mạng lưới đường sắt tốc độ cao)*:
+  - *"Connecting major cities via **[[High-speed]]** rail drastically cuts intercity journey times."*
+  - *(Việc kết nối các thành phố lớn qua đường sắt tốc độ cao giúp cắt giảm đáng kể thời gian di chuyển liên tỉnh.)*
+- **`adhere to the timetable`** *(tuân thủ nghiêm ngặt lịch trình giờ chạy)*:
+  - *"Commuters appreciate express buses that consistently adhere to the published **[[Timetable]]**."*
+  - *(Hành khách rất đánh giá cao các chuyến xe buýt nhanh luôn tuân thủ đúng theo lịch trình đã công bố.)*
+
+#### 3. Khi nói về vận tải xanh & Hạ tầng đường bộ:
+- **`electric vehicle charging infrastructure`** *(hạ tầng trạm sạc xe điện)*:
+  - *"Governments are investing billions to expand public charging **[[Infrastructure]]** for every **[[Electric vehicle]]**."*
+  - *(Các chính phủ đang đầu tư hàng tỷ đô la để mở rộng cơ sở hạ tầng trạm sạc công cộng cho mọi phương tiện xe điện.)*
+- **`carpool / ridesharing services`** *(dịch vụ đi chung xe / chia sẻ chuyến đi)*:
+  - *"Colleagues organize daily **[[Carpool|carpools]]** to split fuel costs and parking fees."*
+  - *(Các đồng nghiệp cùng nhau tổ chức đi chung xe hàng ngày để chia sẻ chi phí nhiên liệu và phí đỗ xe.)*
+- **`expressway toll road`** *(đường cao tốc có thu phí)*:
+  - *"Drivers can pay electronic **[[Toll|tolls]]** without stopping at toll booths along the **[[Expressway]]**."*
+  - *(Các tài xế có thể thanh toán phí đường bộ điện tử mà không cần phải dừng lại tại các trạm thu phí trên đường cao tốc.)*

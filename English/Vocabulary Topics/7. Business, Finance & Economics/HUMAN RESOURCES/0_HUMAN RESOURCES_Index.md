@@ -108,3 +108,78 @@ As a qualified **[[Applicant]]**, Sarah submitted her **[[Resume]]** to a tech c
 
 ### Bản dịch Tiếng Việt
 Với tư cách là một **ứng viên** đủ năng lực, Sarah đã nộp **sơ yếu lý lịch** của mình cho một công ty công nghệ đang muốn **tuyển dụng** nhân tài mới. Sau khi vượt qua các vòng phỏng vấn, cô bắt đầu chương trình **hội nhập nhân sự mới**. Trong suốt ba tháng **thử việc**, cô đã làm việc chăm chỉ, hy vọng rằng mức **thù lao** và gói **phúc lợi phụ** sẽ phản ánh đúng nỗ lực của mình. Trong kỳ **đánh giá hiệu suất** hàng năm, cô được khen ngợi vì những đóng góp của mình, giúp cô đạt được một đợt **thăng chức** hoàn toàn xứng đáng. Tuy nhiên, khi nhận thấy các trường hợp **gia đình trị** ở cấp quản lý thượng tầng, cô đã đệ đơn **khiếu nại** chính thức. Nhận thấy không có sự thay đổi nào, cuối cùng cô quyết định **từ chức**. Cô ký thỏa thuận và nhận được một khoản tiền **trợ cấp thôi việc** hợp lý trước khi bắt đầu một hành trình mới.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Phỏng vấn tuyển dụng & Đàm phán gói đãi ngộ ứng viên cấp cao (Executive Recruiting & Remuneration Negotiation)
+> **Bối cảnh thực tế:** Giám đốc Nhân sự (HR Director - Rachel) phỏng vấn một ứng viên tiềm năng cho vị trí Giám đốc Kỹ thuật (Candidate - Nathan) do công ty săn đầu người giới thiệu.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Rachel (HR Director):** Welcome, Nathan. We engaged an executive search firm to **[[Headhunt]]** top engineering leaders, and your impressive **[[Resume]]** stood out immediately.
+  *(Rachel: Chào mừng Nathan. Chúng tôi đã nhờ một công ty săn đầu người chuyên nghiệp tìm kiếm các lãnh đạo kỹ thuật hàng đầu, và hồ sơ lý lịch ấn tượng của anh đã nổi bật ngay lập tức.)*
+- **Nathan (Candidate):** Thank you, Rachel. Having led cross-functional technical teams for over a decade, I am excited about the strategic scope of this new **[[Job]]** opportunity.
+  *(Nathan: Cảm ơn Rachel. Đã từng dẫn dắt các đội ngũ kỹ thuật liên phòng ban hơn một thập kỷ, tôi rất hào hứng với quy mô chiến lược của cơ hội công việc mới này.)*
+- **Rachel:** Our engineering **[[Department]]** operates at a rapid pace. During the standard six-month **[[Probation]]** period, we evaluate leadership competence through structured quarterly milestones.
+  *(Rachel: Phòng ban kỹ thuật của chúng tôi hoạt động với tốc độ rất nhanh. Trong giai đoạn thử việc 6 tháng tiêu chuẩn, chúng tôi đánh giá năng lực lãnh đạo thông qua các mốc tiến độ hàng quý có cấu trúc.)*
+- **Nathan:** That is completely standard. Could you share more details regarding the total compensation structure, including base **[[Salary]]** and employer-matched retirement **[[Pension]]** contributions?
+  *(Nathan: Điều đó hoàn toàn chuẩn mực. Chị có thể chia sẻ thêm chi tiết về cơ cấu đãi ngộ tổng thể, bao gồm mức lương cơ bản và các khoản đóng góp quỹ hưu trí tương ứng từ công ty không?)*
+- **Rachel:** We offer an industry-leading **[[Remuneration]]** package, supplemented by comprehensive health insurance, annual performance bonuses, and attractive **[[Fringe_benefit|fringe benefits]]**.
+  *(Rachel: Chúng tôi đưa ra một gói thù lao hàng đầu trong ngành, được bổ sung bằng bảo hiểm sức khỏe toàn diện, tiền thưởng hiệu suất hàng năm và các phúc lợi phụ vô cùng hấp dẫn.)*
+- **Nathan:** That sounds exceptionally competitive. I look forward to signing the formal employment **[[Contract]]** and beginning the comprehensive **[[Onboarding]]** process.
+  *(Nathan: Nghe rất có tính cạnh tranh. Tôi rất mong được ký hợp đồng lao động chính thức và bắt đầu quy trình tiếp nhận hội nhập nhân sự toàn diện.)*
+
+---
+
+### 🌟 Tình huống 2: Giải quyết khiếu nại nhân sự & Phòng chống thiên vị gia đình (Grievance Resolution & Anti-Nepotism Policy)
+> **Bối cảnh thực tế:** Trưởng ban Quan hệ Lao động (Employee Relations Manager - Victor) làm việc với Đại diện Công đoàn (Union Representative - Brenda) về khiếu nại của nhân viên liên quan đến sự bất công và nguy cơ sa thải ép buộc.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Brenda (Union Representative):** Victor, several senior engineers have filed a formal **[[Grievance]]** regarding unfair promotional practices within the regional software division.
+  *(Brenda: Victor này, một số kỹ sư kỳ cựu đã nộp đơn khiếu nại chính thức liên quan đến các hành vi thăng chức bất công tại bộ phận phần mềm khu vực.)*
+- **Victor (HR Manager):** We take every employee complaint seriously. What specific violations are documented in their formal petition?
+  *(Victor: Chúng tôi xử lý mọi khiếu nại của nhân viên một cách nghiêm túc. Có những hành vi vi phạm cụ thể nào được ghi lại trong đơn kiến nghị chính thức của họ?)*
+- **Brenda:** The branch director bypassed annual performance **[[Appraisal|appraisals]]** to promote his unqualified relative, which constitutes clear **[[Nepotism]]**.
+  *(Brenda: Vị giám đốc chi nhánh đã phớt lờ các đợt đánh giá hiệu suất hàng năm để thăng chức cho người họ hàng chưa đủ năng lực, điều này cấu thành hành vi gia đình trị rõ ràng.)*
+- **Victor:** If substantiated, that directly breaches corporate conduct codes. We strictly prohibit favoritism, as it spikes employee **[[Attrition]]** and demoralizes our talented **[[Staff]]**.
+  *(Victor: Nếu được chứng minh là có thật, điều đó đã vi phạm trực tiếp quy tắc ứng xử của công ty. Chúng tôi nghiêm cấm sự thiên vị, vì nó làm tăng vọt tỷ lệ hao hụt nhân sự và làm nhụt chí đội ngũ nhân viên tài năng.)*
+- **Brenda:** Furthermore, an engineer who exposed the issue was subjected to hostile working conditions, bordering on **[[Constructive_dismissal]]**.
+  *(Brenda: Hơn nữa, một kỹ sư vạch trần vấn đề đã bị đẩy vào điều kiện làm việc thù địch, mấp mé hành vi sa thải ép buộc trái luật.)*
+- **Victor:** We enforce strict protections for any internal **[[Whistleblower]]**. I will launch an independent inquiry immediately to protect our **[[Colleague|colleagues]]** and resolve this issue justly.
+  *(Victor: Chúng tôi thực thi các biện pháp bảo vệ nghiêm ngặt đối với bất kỳ người tố giác nội bộ nào. Tôi sẽ khởi động một cuộc điều tra độc lập ngay lập tức để bảo vệ các đồng nghiệp và giải quyết vấn đề này một cách công bằng.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong tuyển dụng & Hội nhập nhân sự (Recruitment & Talent Acquisition):
+- **`headhunt executive talent`** *(săn đầu người / chiêu mộ nhân tài cấp cao)*:
+  - *"The technology corporation engaged specialized consultants to **[[Headhunt]]** visionary product leaders."*
+  - *(Tập đoàn công nghệ đã thuê các chuyên gia tư vấn chuyên biệt để săn tìm các lãnh đạo sản phẩm có tầm nhìn xa trông rộng.)*
+- **`structured onboarding program`** *(chương trình tiếp nhận và hội nhập nhân sự có cấu trúc)*:
+  - *"A well-designed **[[Onboarding]]** curriculum accelerates new hire integration and productivity."*
+  - *(Một chương trình hội nhập nhân viên mới được thiết kế bài bản sẽ đẩy nhanh tốc độ hòa nhập và nâng cao năng suất.)*
+- **`attractive fringe benefits`** *(các chế độ phúc lợi phụ hấp dẫn)*:
+  - *"In addition to baseline salary, the company provides gym memberships and childcare as **[[Fringe_benefit|fringe benefits]]**."*
+  - *(Bên cạnh mức lương cơ bản, công ty còn cung cấp thẻ tập thể hình và hỗ trợ chăm sóc con trẻ dưới dạng các phúc lợi phụ.)*
+
+#### 2. Trong đánh giá năng lực & Phát triển sự nghiệp (Performance Appraisal & Career Growth):
+- **`annual performance appraisal`** *(kỳ đánh giá hiệu quả công việc hàng năm)*:
+  - *"Managers conduct an objective annual **[[Appraisal]]** to discuss employee accomplishments and development targets."*
+  - *(Các nhà quản lý tiến hành một đợt đánh giá hiệu suất hàng năm khách quan để thảo luận về những thành tựu và mục tiêu phát triển của nhân viên.)*
+- **`earn a merit-based promotion`** *(được nhận sự thăng chức dựa trên năng lực cống hiến)*:
+  - *"Consistent engineering excellence earned Sophia a well-deserved **[[Promotion]]** to technical team lead."*
+  - *(Sự xuất sắc bền bỉ trong kỹ thuật đã mang lại cho Sophia một sự thăng chức xứng đáng lên vị trí trưởng nhóm kỹ thuật.)*
+- **`probationary period assessment`** *(sự đánh giá trong giai đoạn thử việc)*:
+  - *"The successful completion of her three-month **[[Probation]]** confirmed her permanent employee status."*
+  - *(Việc hoàn thành xuất sắc 3 tháng thử việc đã xác nhận tư cách nhân viên chính thức của cô ấy.)*
+
+#### 3. Trong quan hệ lao động & Đạo đức doanh nghiệp (Labor Relations & Workplace Ethics):
+- **`file a formal grievance`** *(nộp đơn khiếu nại chính thức)*:
+  - *"Employees possess the protected legal right to lodge a **[[Grievance]]** regarding workplace safety violations."*
+  - *(Nhân viên sở hữu quyền hợp pháp được bảo vệ để đệ trình khiếu nại liên quan đến các vi phạm an toàn lao động.)*
+- **`claim of constructive dismissal`** *(khiếu nại về hành vi sa thải ép buộc)*:
+  - *"Imposing intolerable job relocations without consent prompted the employee to claim **[[Constructive_dismissal]]**."*
+  - *(Việc áp đặt thuyên chuyển công tác khắc nghiệt mà không có sự đồng thuận đã khiến nhân viên nộp đơn kiện về hành vi sa thải ép buộc.)*
+- **`curb corporate nepotism`** *(kiềm chế nạn con ông cháu cha / chủ nghĩa gia đình trị)*:
+  - *"Transparent hiring rubrics help organizations eradicate **[[Nepotism]]** and maintain ethical workplace equity."*
+  - *(Bộ tiêu chuẩn tuyển dụng minh bạch giúp các tổ chức xóa bỏ nạn gia đình trị và duy trì sự công bằng đạo đức nơi làm việc.)*

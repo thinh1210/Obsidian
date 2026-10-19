@@ -125,3 +125,72 @@ In every walk of life, we encounter an extraordinary tapestry of human character
 
 ### Bản dịch Tiếng Việt
 Trong mọi nẻo đường của cuộc sống, chúng ta đều bắt gặp một bức tranh muôn màu về nhân cách và tính cách con người. Tại ngôi làng ven biển yên bình của chúng tôi, ông cụ Harrison luôn được kính trọng như một quý ông thực sự **tốt bụng**, **nhân từ** và **khiêm tốn**. Bất chấp sự giàu sang phú quý, ông vẫn vô cùng **chu đáo** và **vị tha hào hiệp**, luôn sẵn lòng dang rộng vòng tay giúp đỡ những mảnh đời cơ nhỡ. Cháu gái của ông, Clara, được thừa hưởng tinh thần **kiên cường** và **bền bỉ** từ ông. Cô bé rất đỗi **hướng ngoại**, **hoạt bát** và **hùng biện lưu loát**, dễ dàng trở thành linh hồn của bất kỳ buổi sum họp cộng đồng nào nhờ sự hài hước **hóm hỉnh** của mình. Tuy nhiên, bản tính con người không bao giờ thiếu đi những mảng tối. Một kẻ mới đến thị trấn hóa ra lại là một người cực kỳ **kiêu ngạo**, **ích kỷ** và **hoài nghi cay độc**, luôn nuôi dưỡng lòng đố kỵ **hiểm ác** đối với bất kỳ ai đạt được thành công chân chính. May mắn thay, nhờ tài ngoại giao **khéo léo** của Clara và sự đoàn kết **kiên định** của dân làng, những mưu đồ gian trá của hắn đã bị vô hiệu hóa một cách hòa bình. Cộng đồng đã chứng minh rằng sự thấu cảm chân thành, tính chính trực và một trái tim **vị tha bao dung** sẽ mãi mãi làm lu mờ sự tàn độc và dối trá.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đánh giá phẩm chất nhân sự cấp cao (Assessing Leadership Character, Integrity & Resilience)
+> **Bối cảnh thực tế:** Trong cuộc họp kín của hội đồng quản trị, hai giám đốc nhân sự thảo luận về hai ứng viên tiềm năng cho vị trí Giám đốc điều hành, cân nhắc giữa tài năng kỹ thuật với phẩm chất đạo đức, tính khiêm nhường (**[[Humble]]**) và sự bền bỉ kiên định (**[[Resilient]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Arthur:** Victoria, having interviewed both finalists, how would you evaluate their underlying personality traits?
+  *(Victoria này, sau khi phỏng vấn cả hai ứng viên vòng chung kết, cô đánh giá thế nào về những nét tính cách cốt lõi của họ?)*
+- **Victoria:** Jonathan is undeniably brilliant, **[[Ambitious]]**, and highly **[[Eloquent]]**. However, his demeanor often borders on being overtly **[[Arrogant]]** and somewhat **[[Cynical]]** when receiving constructive criticism.
+  *(Jonathan không thể phủ nhận là rất xuất sắc, giàu tham vọng và cực kỳ hoạt ngôn lưu loát. Tuy nhiên, thái độ của anh ta thường ngấp nghé sự kiêu ngạo lộ liễu và có phần hoài nghi cay độc khi nhận những góp ý mang tính xây dựng.)*
+- **Arthur:** That concerns me. An effective executive cannot be **[[Obstinate]]** or dismissive. What about Rachel?
+  *(Điều đó làm tôi lo ngại. Một nhà điều hành hiệu quả không thể bảo thủ ngoan cố hay coi thường người khác. Còn Rachel thì sao?)*
+- **Victoria:** Rachel embodies genuine leadership. She is exceptionally **[[Conscientious]]**, **[[Meticulous]]** in planning, and remarkably **[[Humble]]**. When our overseas branch collapsed, her **[[Tenacious]]** and **[[Resilient]]** leadership stabilized the whole team.
+  *(Rachel hiện thân cho phẩm chất lãnh đạo đích thực. Cô ấy cực kỳ tận tâm chu đáo, tỉ mỉ trong từng khâu lập kế hoạch và rất mực khiêm tốn. Khi chi nhánh ở nước ngoài của chúng ta gặp khủng hoảng, sự lãnh đạo kiên cường và bền bỉ của cô ấy đã ổn định toàn bộ đội ngũ.)*
+- **Arthur:** Plus, her **[[Tactful]]** communication style brings out the best in everyone. Her integrity and **[[Altruistic]]** dedication make her the undisputed choice.
+  *(Thêm vào đó, phong cách giao tiếp khéo léo tinh tế của cô ấy giúp khơi dậy những phẩm chất tốt đẹp nhất ở mỗi nhân viên. Sự chính trực và lòng cống hiến vị tha biến cô ấy thành sự lựa chọn không thể bàn cãi.)*
+
+---
+
+### 🌟 Tình huống 2: Ứng phó với đồng nghiệp độc hại & Giữ vững chính kiến (Dealing with Toxic Colleagues with Tact & Steadfast Calm)
+> **Bối cảnh thực tế:** Sau một buổi thuyết trình căng thẳng, hai đồng nghiệp bàn về cách xử lý một thành viên trong nhóm có thái độ **[[Blunt]]** (thô thiển), thường xuyên châm chọc **[[Mean]]** và ghen tị (**[[Jealous]]**) với thành công của người khác.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Chloe:** I was completely appalled by how Patrick spoke to our intern during the briefing. He was unnecessarily **[[Blunt]]** and shockingly **[[Callous]]**.
+  *(Mình hoàn toàn bàng hoàng trước cách Patrick nói chuyện với bạn thực tập sinh trong buổi báo cáo. Anh ta đã thô lỗ không cần thiết và tàn nhẫn đến mức gây sốc.)*
+- **David:** Unfortunately, Patrick has a deeply **[[Narcissistic]]** temperament. He becomes instantly **[[Jealous]]** whenever someone else receives praise, often masking his malice with **[[Cynical]]** jokes.
+  *(Đáng tiếc là Patrick có tính khí ái kỷ rất nặng. Anh ta lập tức trở nên đố kỵ ghen ghét mỗi khi người khác được khen ngợi, và thường che đậy dã tâm của mình bằng những trò đùa cay độc.)*
+- **Chloe:** How did you manage to remain so **[[Patient]]** and **calm** while countering his objections?
+  *(Làm thế nào mà cậu có thể giữ được sự kiên nhẫn và bình tĩnh như vậy khi phản bác lại những ý kiến phản đối của anh ta thế?)*
+- **David:** Getting angry only feeds his **[[Vindictive]]** impulses. I chose to be **[[Tactful]]** yet **[[Steadfast]]**, relying on verified data rather than personal confrontation.
+  *(Nổi giận chỉ làm thỏa mãn thói hiếu thắng hằn học của anh ta thôi. Mình chọn cách ứng xử khéo léo nhưng kiên định vững vàng, dựa vào các số liệu đã được kiểm chứng thay vì đôi co cá nhân.)*
+- **Chloe:** You handled that masterfully. Maintaining a **[[Magnanimous]]** attitude while holding your ground is a masterclass in professional maturity.
+  *(Cậu xử lý đỉnh thật đấy. Giữ được phong thái độ lượng bao dung trong khi vẫn bảo vệ vững chắc lập trường quả là một bài học mẫu mực về sự chín chắn chuyên nghiệp.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi ca ngợi phẩm chất tốt đẹp:
+- **`salt of the earth`** *(người cực kỳ tốt bụng, chân chất, đáng quý)*:
+  - *"Our grandmother was the **salt of the earth**, dedicating her whole life to helping underprivileged orphans."*
+  - *(Bà của chúng tôi là một người vô cùng đôn hậu chất phác, cả đời tận tụy giúp đỡ những trẻ mồ côi cơ nhỡ.)*
+- **`bring out the best in someone`** *(khơi dậy những phẩm chất tốt đẹp nhất ở ai đó)*:
+  - *"Inspirational teachers know how to **bring out the best** in their most timid students."*
+  - *(Những người thầy truyền cảm hứng luôn biết cách khơi dậy những phẩm chất tuyệt vời nhất ở những học trò rụt rè nhất.)*
+- **`keep one's feet on the ground`** *(giữ đôi chân trên mặt đất, khiêm tốn thực tế)*:
+  - *"Despite his global fame and colossal wealth, he managed to **keep his feet on the ground**."*
+  - *(Bất chấp danh tiếng toàn cầu và khối tài sản kếch xù, anh ấy vẫn luôn giữ được sự khiêm nhường và thực tế.)*
+
+#### 2. Khi cảnh báo về tính cách độc hại:
+- **`wolf in sheep's clothing`** *(kẻ mang dã tâm hiểm độc đội lốt người hiền lành)*:
+  - *"Be cautious of his flattering compliments; he is a dangerous **wolf in sheep's clothing**."*
+  - *(Hãy thận trọng trước những lời khen tâng bốc của anh ta; hắn là một kẻ hiểm độc đội lốt người hiền lành đấy.)*
+- **`two-faced / hypocritical`** *(kẻ hai mặt, tráo trở lật lọng)*:
+  - *"It is exhausting to collaborate with **[[Hypocritical|two-faced]]** partners who smile to your face but undermine you in private."*
+  - *(Thật kiệt sức khi phải hợp tác với những kẻ hai mặt, ngoài mặt thì cười nói nhưng sau lưng lại ngấm ngầm hãm hại bạn.)*
+- **`set in one's ways`** *(bảo thủ, cố chấp khó lay chuyển)*:
+  - *"Elderly directors can sometimes be too **[[Obstinate|set in their ways]]** to embrace disruptive digital tools."*
+  - *(Các vị giám đốc lớn tuổi đôi khi có thể quá bảo thủ cố chấp để đón nhận những công cụ kỹ thuật số mang tính đột phá.)*
+
+#### 3. Các thành ngữ thông dụng về phong cách sống:
+- **`life and soul of the party`** *(linh hồn của các cuộc vui, người hoạt náo)*:
+  - *"With her **[[Vivacious]]** humor and warmth, Maria is invariably the **life and soul of the party**."*
+  - *(Với sự hài hước hoạt bát và ấm áp của mình, Maria luôn luôn là linh hồn của mọi bữa tiệc.)*
+- **`wear one's heart on one's sleeve`** *(người bộc trực, ruột để ngoài da)*:
+  - *"He never conceals his disappointment because he always **wears his heart on his sleeve**."*
+  - *(Anh ấy chẳng bao giờ giấu được nỗi thất vọng vì anh là người ruột để ngoài da.)*
+

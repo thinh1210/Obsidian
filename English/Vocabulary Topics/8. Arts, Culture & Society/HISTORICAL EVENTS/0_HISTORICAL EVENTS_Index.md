@@ -108,3 +108,74 @@ The fall of the ancient **[[Empire]]** marked the end of a long **[[Reign]]** ch
 
 ### Bản dịch Tiếng Việt
 Sự sụp đổ của **đế chế** cổ đại đã đánh dấu sự kết thúc của một **triều đại** lâu dài đặc trưng bởi sự bành trướng xâm lược. Trong nhiều thập kỷ, những người cai trị đã cố gắng **chinh phục** các vùng đất lân cận, thiết lập **quyền bá chủ** của họ đối với khu vực. Tuy nhiên, một cuộc **cách mạng** bất ngờ do các chiến sĩ tự do địa phương lãnh đạo đã phá vỡ sự kiểm soát của họ. Sau một cuộc **vây hãm** thủ đô tàn khốc kéo dài một năm, vị vua suy yếu đã buộc phải **thoái vị** ngai vàng của mình. Để tìm kiếm hòa bình, tàn dư của giai cấp thống trị đã thành lập một **liên minh** với các thủ lĩnh quân nổi dậy, dẫn đến một hiệp định **đình chiến** chính thức. Thỏa thuận ngừng bắn này đã mở đường cho việc ký kết một **hiệp ước** lịch sử nhằm đảm bảo **chủ quyền** của quốc gia. Kỷ nguyên **phi thực dân hóa** sau đó đã mở ra một **kỷ nguyên** tự trị mới, cho phép người dân tái thiết xã hội dựa trên sự độc lập và tôn trọng lẫn nhau.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Ký kết hiệp ước hòa bình & Đình chiến sau cuộc vây hãm (Signing the Peace Treaty, Armistice & Sovereignty)
+> **Bối cảnh thực tế:** Hai nhà đàm phán lịch sử đại diện cho hai quốc gia đối địch thảo luận về các điều khoản ngừng bắn, bãi bỏ vây hãm và ký kết hiệp ước hòa bình.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Ambassador Laurent:** After months of brutal fighting, both armies have agreed to an immediate **[[Armistice]]** to halt the catastrophic **[[Siege]]** of the capital.
+  *(Sau nhiều tháng giao tranh tàn khốc, quân đội hai bên đã đồng ý ngừng bắn ngay lập tức để chấm dứt cuộc vây hãm thảm khốc nhằm vào thủ đô.)*
+- **Minister Kaelen:** This formal truce must lead directly to a binding peace **[[Treaty]]** that guarantees the complete territorial **[[Sovereignty]]** of our border provinces.
+  *(Lệnh đình chiến chính thức này phải dẫn trực tiếp đến một hiệp ước hòa bình mang tính ràng buộc, đảm bảo chủ quyền lãnh thổ trọn vẹn của các tỉnh biên giới của chúng tôi.)*
+- **Ambassador Laurent:** Our government recognizes that prolonged military **[[Conflict]]** and aggressive quest for regional **[[Hegemony]]** have only brought ruin to both nations.
+  *(Chính phủ chúng tôi thừa nhận rằng xung đột quân sự kéo dài và mưu đồ tìm kiếm quyền bá chủ khu vực chỉ mang lại sự đổ nát cho cả hai quốc gia.)*
+- **Minister Kaelen:** We insist that neither side demands a humiliating unconditional **[[Surrender]]**, so that durable **[[Peace]]** can truly take root.
+  *(Chúng tôi kiên quyết rằng không bên nào đòi hỏi sự đầu hàng vô điều kiện mang tính sỉ nhục, để nền hòa bình bền vững có thể thực sự bén rễ.)*
+- **Ambassador Laurent:** Agreed. Let this historic summit turn the page from destructive **[[War]]** toward long-term diplomatic cooperation.
+  *(Đồng ý. Hãy để hội nghị thượng đỉnh lịch sử này lật sang trang mới từ cuộc chiến tranh tàn phá hướng tới sự hợp tác ngoại giao lâu dài.)*
+
+---
+
+### 🌟 Tình huống 2: Cách mạng, Lật đổ chế độ & Thoái vị ngai vàng (Revolution, Abdication & Decolonization)
+> **Bối cảnh thực tế:** Hai nhà sử học thảo luận về thời điểm bước ngoặt khi một cuộc cách mạng nhân dân buộc vị vua chuyên chế phải thoái vị, mở ra kỷ nguyên phi thực dân hóa.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Alvarez:** The popular **[[Revolution]]** was not an isolated **[[Rebellion]]**; it served as a monumental turning point across the continent.
+  *(Cuộc cách mạng nhân dân không phải là một cuộc nổi dậy riêng lẻ; nó đóng vai trò là một bước ngoặt mang tính tượng đài trên khắp lục địa.)*
+- **Dr. Chen:** Indeed, when the royal army refused orders to fire on citizens, the monarch had no choice but to **[[Abdicate]]** the throne and flee into exile.
+  *(Thực vậy, khi quân đội hoàng gia từ chối lệnh nổ súng vào dân chúng, vị quân vương không còn lựa chọn nào khác ngoài việc thoái vị ngai vàng và chạy trốn lưu vong.)*
+- **Dr. Alvarez:** That pivotal collapse of the ruling **[[Dynasty]]** was the vital **[[Precursor]]** to constitutional reform, preventing a military **[[Coup]]**.
+  *(Sự sụp đổ then chốt đó của triều đại cầm quyền là tiền đề quan trọng dẫn tới cải cách hiến pháp, ngăn chặn một cuộc đảo chính quân sự.)*
+- **Dr. Chen:** In subsequent decades, that same yearning for self-determination accelerated global **[[Decolonization]]** throughout the colonial world.
+  *(Trong những thập kỷ tiếp theo, chính khát khao tự quyết đó đã thúc đẩy quá trình phi thực dân hóa toàn cầu trên khắp thế giới thuộc địa.)*
+- **Dr. Alvarez:** It truly heralded a transformative new **[[Epoch]]** in modern global governance and human rights.
+  *(Nó thực sự đã báo hiệu một kỷ nguyên mới mang tính biến đổi trong nền quản trị toàn cầu hiện đại và nhân quyền.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi đàm phán hòa bình & Chấm dứt chiến tranh:
+- **`sign an armistice`** *(ký kết thỏa thuận đình chiến)*:
+  - *"Diplomats gathered in a railway carriage to sign a historic **[[Armistice]]**."*
+  - *(Các nhà ngoại giao đã tập hợp trong một toa tàu hỏa để ký kết một thỏa thuận đình chiến lịch sử.)*
+- **`ratify a peace treaty`** *(phê chuẩn hiệp ước hòa bình)*:
+  - *"The senate voted overwhelmingly to ratify the landmark peace **[[Treaty]]**."*
+  - *(Thượng viện đã bỏ phiếu áp đảo để phê chuẩn hiệp ước hòa bình mang tính bước ngoặt.)*
+- **`defend territorial sovereignty`** *(bảo vệ chủ quyền lãnh thổ)*:
+  - *"Citizens united across political divides to defend their national **[[Sovereignty]]**."*
+  - *(Người dân đã đoàn kết vượt qua ranh giới chính trị để bảo vệ chủ quyền quốc gia của họ.)*
+
+#### 2. Khi nói về chiến tranh & Vây hãm:
+- **`lay siege to a city`** *(bao vây/vây hãm một thành phố)*:
+  - *"The invading force laid a protracted **[[Siege]]** to the fortified citadel."*
+  - *(Lực lượng xâm lược đã tiến hành một cuộc vây hãm kéo dài nhằm vào thành lũy kiên cố.)*
+- **`unconditional surrender`** *(đầu hàng vô điều kiện)*:
+  - *"Allied commanders demanded nothing short of complete, unconditional **[[Surrender]]**."*
+  - *(Các chỉ huy phe đồng minh không yêu cầu điều gì ngoài sự đầu hàng vô điều kiện, hoàn toàn.)*
+- **`seek regional hegemony`** *(mưu cầu quyền bá chủ khu vực)*:
+  - *"History warns against imperial powers that relentlessly seek regional **[[Hegemony]]**."*
+  - *(Lịch sử cảnh báo chống lại các cường quốc đế quốc không ngừng mưu cầu quyền bá chủ khu vực.)*
+
+#### 3. Khi nói về biến động chính trị & Kỷ nguyên mới:
+- **`force the monarch to abdicate`** *(buộc nhà vua phải thoái vị)*:
+  - *"Mass protests across the capital forced the reigning **[[King]]** to **[[Abdicate]]**."*
+  - *(Các cuộc biểu tình rầm rộ khắp thủ đô đã buộc vị vua đang trị vì phải thoái vị.)*
+- **`ignite a revolution`** *(thổi bùng một cuộc cách mạng)*:
+  - *"Widespread economic hardship helped ignite a nationwide **[[Revolution]]**."*
+  - *(Khó khăn kinh tế trên diện rộng đã góp phần thổi bùng một cuộc cách mạng trên toàn quốc.)*
+- **`accelerate decolonization`** *(đẩy nhanh quá trình phi thực dân hóa)*:
+  - *"Post-war independence movements worked tirelessly to accelerate **[[Decolonization]]**."*
+  - *(Các phong trào độc lập thời hậu chiến đã hoạt động không mệt mỏi để đẩy nhanh quá trình phi thực dân hóa.)*

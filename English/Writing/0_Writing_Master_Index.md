@@ -44,9 +44,17 @@ Chào mừng bạn đến với hệ sinh thái học **IELTS Writing** được
 
 ---
 
-> [!TIP] 👑 Đại Cẩm Nang Tổng Hợp Cấu Trúc Câu & Ngữ Pháp (Task 1 & Task 2)
-> Đã đúc kết và hệ thống hóa toàn bộ công thức viết mở bài, tổng quan, xu hướng, tỷ lệ, so sánh, bản đồ, quy trình, luận điểm, liên kết nhân quả đa tầng và kết bài từ **50 bài mẫu Band 8.5 - 9.0**:
-> 👉 [[Master_Structures_Task1_and_Task2|Đại Cẩm Nang Cấu Trúc Câu IELTS Writing Task 1 & Task 2 (Band 9.0) 🔗]]
+> [!TIP] 🪜 Lộ Trình Học Tập Phân Tầng Theo Cấp Độ (Learning Tracks)
+> Để tránh bị quá tải bởi các bài mẫu điểm cao, bạn hãy chọn lộ trình phù hợp với mục tiêu hiện tại của mình:
+> 
+> 0. 🛑 **Nền tảng sống còn (Chống mất điểm oan):** Nắm vững quy tắc dấu phẩy trước/sau *and*, cách dùng *However / Therefore*, diệt sạch 3 lỗi tối kỵ (*Comma Splice, Run-on, Fragment*) và 8 cạm bẫy dịch thô từ tiếng Việt:  
+>    👉 [[Common_Sentence_Errors_and_Punctuation_Guide|Đại Cẩm Nang Sửa Lỗi Viết Câu & Quy Tắc Đặt Dấu Câu Trong Tiếng Anh 🔗]]
+> 
+> 1. 🟢 **Chặng 1 (Band 5.0 ➔ 6.5):** Diệt sạch lỗi ngữ pháp cơ bản, sử dụng các **khung câu an toàn tuyệt đối**, luyện **bậc thang paraphrase từng nấc** và đọc các bài mẫu đối chiếu 3 band điểm:  
+>    👉 [[Band_Progression_Guide_5_to_7.5|Cẩm Nang Nâng Band Từng Bậc: Lộ Trình Từ Band 5.0 Lên 6.0, 6.5, 7.0 & 7.5 🔗]]
+> 
+> 2. 👑 **Chặng 2 (Band 7.0 ➔ 9.0):** Trau chuốt văn phong học thuật, làm chủ các cấu trúc câu phức đa tầng, mệnh đề phân từ, đại từ quan hệ bao trùm và collocations C1-C2:  
+>    👉 [[Master_Structures_Task1_and_Task2|Đại Cẩm Nang Cấu Trúc Câu & Ngữ Pháp IELTS Writing Task 1 & Task 2 (Band 8.5 - 9.0) 🔗]]
 
 ---
 

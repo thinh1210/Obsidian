@@ -108,3 +108,72 @@ After a year of **[[Engagement]]**, Sarah and David decided to enter the bond of
 
 ### Bản dịch Tiếng Việt
 Sau một năm **đính hôn**, Sarah và David đã quyết định bước vào mối ràng buộc của **hôn nhân** thiêng liêng. Trước ngày trọng đại, họ đã ký một thỏa thuận **trước hôn nhân** để đảm bảo tương lai của mình, biết rằng một cuộc hôn nhân bền vững đòi hỏi cả sự chuẩn bị thực tế lẫn sự **cam kết** về mặt tình cảm. Vào ngày cưới, **cô dâu** xinh đẹp và **chú rể** hào hoa đứng trước các khách mời để trao nhau những **lời thề** thiêng liêng. Họ hứa sẽ duy trì chế độ **một vợ một chồng** nghiêm ngặt và chung thủy với nhau mãi mãi. Trong suốt **tiệc chiêu đãi**, bạn bè đã nâng ly chúc mừng cho sự **tương thích** cao của họ và khả năng **thỏa hiệp** trong những thời điểm khó khăn. Cặp đôi hạnh phúc sau đó đã rời đi để tận hưởng tuần **trăng mật** lãng mạn tại Paris, háo hức bắt đầu cuộc sống mới với tư cách là **vợ chồng**.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Chuẩn bị hôn lễ & Trao lời thề nguyện (Wedding Nuptials & Sacred Marital Vows)
+> **Bối cảnh thực tế:** Trước thềm lễ cưới chính thức tại nhà thờ, cô dâu (**[[Bride]]**) và chú rể (**[[Groom]]**) cùng người thân rà soát lại các khâu chuẩn bị cho buổi tiệc chiêu đãi (**[[Reception]]**), lễ đính ước (**[[Betrothal]]**) và những lời thề nguyền thiêng liêng (**[[Vow]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Julian:** Have you finalized your wedding **[[Vow|vows]]** yet, Michael? Tomorrow you officially enter the bond of holy **[[Matrimony]]**!
+  *(Cậu đã hoàn thiện những lời thề nguyện đám cưới chưa, Michael? Ngày mai cậu chính thức bước vào mối dây liên kết hôn nhân thiêng liêng rồi đấy!)*
+- **Michael:** Yes, Julian. Looking at the gold wedding **[[Ring]]**, I feel a profound sense of **[[Commitment]]**. Sarah and I have journeyed from a simple **[[Proposal]]** to a wonderful year of **[[Engagement]]**.
+  *(Mình viết xong rồi, Julian à. Nhìn vào chiếc nhẫn cưới bằng vàng, mình cảm thấy một tinh thần cam kết gắn bó sâu sắc. Sarah và mình đã cùng nhau đi qua hành trình từ một lời cầu hôn giản dị đến một năm đính hôn tuyệt vời.)*
+- **Julian:** She will look stunning as the **[[Bride]]**. Did you two finish all legal paperwork, including the **[[Prenuptial]]** agreement?
+  *(Cô ấy chắc chắn sẽ là một cô dâu tuyệt đẹp. Hai người đã hoàn tất mọi thủ tục pháp lý, bao gồm cả thỏa thuận tiền hôn nhân chưa?)*
+- **Michael:** Absolutely. We wanted transparent financial foundations before stepping into lifelong **[[Monogamy]]**. Everything is organized for our five hundred wedding **[[Guest|guests]]** at the evening **[[Reception]]**.
+  *(Đầy đủ cả rồi. Bọn mình muốn có một nền tảng tài chính minh bạch trước khi bước vào đời sống hôn nhân một vợ một chồng trọn đời. Mọi thứ đã sẵn sàng cho năm trăm quan khách tại buổi tiệc chiêu đãi tối mai.)*
+- **Julian:** And then off to the romantic **[[Honeymoon]]** in Florence! Wishing you both an everlasting, blissful **[[Marriage]]**.
+  *(Và sau đó là bay đến Florence hưởng tuần trăng mật lãng mạn! Chúc hai bạn có một cuộc hôn nhân hạnh phúc trường tồn mãi mãi.)*
+
+---
+
+### 🌟 Tình huống 2: Bí quyết gìn giữ hôn nhân bền vững (Navigating Compatibility, Conflicts & Compromise)
+> **Bối cảnh thực tế:** Nhân dịp kỷ niệm ngày cưới (**[[Anniversary]]**), một cặp vợ chồng (**[[Spouse]]**) từng vượt qua nhiều bất đồng chia sẻ với các cặp đôi trẻ về bài học **[[Compatibility]]** (sự hòa hợp tính cách) và nghệ thuật **[[Compromise]]** (thỏa hiệp).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Clara:** Happy tenth wedding **[[Anniversary]]**, David! Ten years ago, some relatives wondered whether our different temperaments would survive.
+  *(Chúc mừng kỷ niệm mười năm ngày cưới, David! Mười năm trước, vài người họ hàng từng băn khoăn liệu tính cách khác biệt của hai đứa mình có thể bên nhau lâu dài được không.)*
+- **David:** Indeed. Early on, we had our share of petty arguments, but we quickly realized that long-term marital **[[Compatibility]]** isn't about being identical—it's about learning the art of mutual **[[Compromise]]**.
+  *(Quả đúng vậy. Hồi mới cưới, bọn mình cũng có những cuộc cãi vã vặt vãnh, nhưng hai đứa nhanh chóng nhận ra rằng sự hòa hợp hôn nhân lâu dài không phải là việc giống hệt nhau—mà là học nghệ thuật thỏa hiệp từ cả hai phía.)*
+- **Clara:** Staying **[[Faithful]]** and showing sincere daily **[[Affection]]** creates an emotional cushion during stressful times.
+  *(Giữ trọn lòng chung thủy và thể hiện tình cảm chân thành mỗi ngày tạo nên một điểm tựa tinh thần vững chắc trong những giai đoạn áp lực.)*
+- **David:** Exactly. Many couples allow minor resentments to build up into **[[Irreconcilable]]** differences, leading to painful legal **[[Separation]]** or **[[Divorce]]**. Keeping honest communication open prevents that drift.
+  *(Chính xác luôn. Rất nhiều cặp đôi để những ấm ức nhỏ nhặt tích tụ thành những bất đồng không thể dung hòa, dẫn đến sự ly thân hay ly dị đau lòng. Duy trì sự giao tiếp cởi mở chân thành sẽ ngăn chặn sự xa cách ấy.)*
+- **Clara:** Here's to another decade of shared dreams, laughter, and unbreakable devotion as lifelong **[[Partner|partners]]**.
+  *(Xin nâng ly vì một thập kỷ tiếp theo của những ước mơ chung, tiếng cười và sự tận tụy không thể phá vỡ với tư cách là bạn đời tri kỷ.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về đính hôn & Lễ cưới:
+- **`pop the question / propose marriage`** *(ngỏ lời cầu hôn)*:
+  - *"He planned a candlelit rooftop dinner to finally pop the question to his girlfriend."*
+  - *(Anh ấy đã lên kế hoạch cho một bữa tối dưới ánh nến trên sân thượng để cuối cùng ngỏ lời cầu hôn bạn gái.)*
+- **`exchange wedding vows`** *(trao nhau lời thề nguyền đám cưới)*:
+  - *"The bride and **[[Groom]]** exchanged heartfelt **[[Vow|vows]]** surrounded by close family and friends."*
+  - *(Cô dâu và chú rể đã trao nhau những lời thề nguyện xúc động trước sự chứng kiến của người thân và bạn bè.)*
+- **`tie the knot`** *(kết hôn, làm đám cưới)*:
+  - *"After five years of courtship, the high school sweethearts decided to tie the knot this autumn."*
+  - *(Sau năm năm hẹn hò, cặp đôi thời trung học đã quyết định về chung một nhà vào mùa thu này.)*
+
+#### 2. Khi nói về đời sống vợ chồng & Thử thách:
+- **`marital compatibility`** *(sự hòa hợp, tương thích trong hôn nhân)*:
+  - *"Deep values alignment and emotional **[[Compatibility]]** are far more critical than superficial romance."*
+  - *(Sự đồng điệu về giá trị sống và sự hòa hợp tâm hồn quan trọng hơn nhiều so với sự lãng mạn bề ngoài.)*
+- **`reach a mutual compromise`** *(đạt được sự thỏa hiệp từ cả hai bên)*:
+  - *"Successful couples learn to reach a peaceful **[[Compromise]]** instead of letting disagreements fester."*
+  - *(Những cặp đôi hạnh phúc học cách đạt được sự thỏa hiệp êm đẹp thay vì để những bất đồng âm ỉ tích tụ.)*
+- **`irreconcilable differences`** *(những bất đồng không thể dung hòa)*:
+  - *"Unable to bridge their conflicting life aspirations, the couple filed for divorce citing **[[Irreconcilable]]** differences."*
+  - *(Không thể dung hòa được những khát vọng sống đối lập, cặp đôi đã nộp đơn ly hôn với lý do bất đồng không thể hòa giải.)*
+
+#### 3. Các thành ngữ & Khái niệm pháp lý:
+- **`prenuptial agreement`** *(thỏa thuận tiền hôn nhân)*:
+  - *"Signing a **[[Prenuptial]]** agreement protects individual business assets and ensures financial clarity."*
+  - *(Ký kết thỏa thuận tiền hôn nhân giúp bảo vệ tài sản kinh doanh riêng và đảm bảo sự minh bạch tài chính.)*
+- **`through thick and thin`** *(sát cánh bên nhau dù gian nan thử thách)*:
+  - *"Their wedding promise was to cherish and support one another through thick and thin for the rest of their lives."*
+  - *(Lời thề ước trong đám cưới của họ là yêu thương và nâng đỡ nhau qua mọi thăng trầm gian khó suốt phần đời còn lại.)*
+

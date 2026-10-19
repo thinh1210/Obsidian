@@ -108,3 +108,74 @@ Throughout history, the rise and fall of great leaders have shaped our world. In
 
 ### Bản dịch Tiếng Việt
 Trong suốt chiều dài lịch sử, sự trỗi dậy và sụp đổ của các nhà lãnh đạo kiệt xuất đã định hình thế giới của chúng ta. Tại một **đế chế** cổ đại, một **hoàng đế** tàn bạo đã cai trị bằng bàn tay sắt. Ông bị khiếp sợ như một **kẻ bạo chúa** tàn ác, người luôn tìm cách **khuất phục** các vùng đất lân cận và thiết lập **quyền bá chủ** tuyệt đối trên toàn khu vực. Tuy nhiên, nỗ lực **chinh phục** các lãnh thổ tự do của ông đã châm ngòi cho một cuộc nổi dậy quy mô lớn. Được dẫn dắt bởi một **kẻ nổi loạn** đầy lôi cuốn, những người dân bị áp bức đã âm mưu thực hiện một cuộc **đảo chính** để **lật đổ** chế độ. Nhận ra thất bại của mình, **quốc vương** đã buộc phải **thoái vị** ngai vàng thay vì phải đối mặt với án tử hình. Một vị tướng tham lam đã cố gắng **chiếm đoạt** quyền lực, nhưng người dân đã kiên quyết chiến đấu chống trả, tuyên bố **giải phóng** tất cả nô lệ và khai sinh ra một nền dân chủ. Sự kiện lịch sử này đã đánh dấu một **kỷ nguyên** tự do mới, để lại một **di sản** trường tồn về lòng quả cảm cho các thế hệ tương lai.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lật đổ bạo chúa & Chiếm đoạt ngai vàng (Overthrowing a Despot & Usurpation of Power)
+> **Bối cảnh thực tế:** Nhà sử học và người phụ trách triển lãm thảo luận về nhân vật lịch sử từng lãnh đạo liên minh các thủ lĩnh lật đổ một bạo chúa tàn bạo.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Julian:** General Cassian is remembered as a polarizing historical **[[Leader]]**. Was he a liberator or simply an ambitious schemer?
+  *(Tướng Cassian được nhớ đến như một nhà lãnh đạo lịch sử gây nhiều tranh cãi. Ông là người giải phóng hay đơn thuần là một kẻ mưu mô đầy tham vọng?)*
+- **Miranda:** Historical chronicles reveal he formed a secret **[[Coalition]]** of provincial governors to **[[Overthrow]]** the cruel **[[Tyrant]]** who oppressed the realm.
+  *(Biên niên sử cho thấy ông đã thành lập một liên minh bí mật gồm các thống đốc cấp tỉnh để lật đổ tên bạo chúa tàn ác áp bức vương quốc.)*
+- **Julian:** Yet immediately after the royal guard fell, didn't Cassian execute a swift **[[Coup]]** to **[[Usurp]]** the crown for himself?
+  *(Nhưng ngay sau khi đội cận vệ hoàng gia thất thủ, chẳng phải Cassian đã thực hiện một cuộc đảo chính chớp nhoáng để cướp ngôi về cho mình sao?)*
+- **Miranda:** Indeed, he declared himself the absolute **[[Sovereign]]**, replacing one **[[Despot]]** with another authoritarian ruler.
+  *(Đúng vậy, ông ta tự xưng là vị quân vương tối cao, thay thế một kẻ bạo ngược bằng một nhà cai trị độc tài khác.)*
+- **Julian:** His turbulent **[[Reign]]** stands as a sobering lesson in how absolute ambition can corrupt even the boldest rebel.
+  *(Triều đại đầy biến động của ông là bài học cảnh tỉnh sâu sắc về việc tham vọng tuyệt đối có thể làm tha hóa ngay cả kẻ nổi loạn dũng cảm nhất.)*
+
+---
+
+### 🌟 Tình huống 2: Giải phóng nô lệ & Di sản của nhà lãnh đạo tiền bối (Emancipation, Leadership Legacy & Pioneer Spirit)
+> **Bối cảnh thực tế:** Hai học giả phân tích cuộc đời của một vị tổng thống tiên phong đã ban hành tuyên ngôn giải phóng nô lệ và để lại di sản trường tồn.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Henderson:** In modern **[[Historiography]]**, how do scholars evaluate the enduring **[[Legacy]]** of the fourteenth president?
+  *(Trong ngành chép sử hiện đại, các học giả đánh giá thế nào về di sản trường tồn của vị tổng thống thứ mười bốn?)*
+- **Professor Ward:** Unlike his cautious **[[Predecessor]]**, he acted as a fearless **[[Pioneer]]** by signing the landmark proclamation of **[[Emancipation]]**.
+  *(Không giống như người tiền nhiệm thận trọng của mình, ông đã hành động như một người tiên phong không hề sợ hãi bằng việc ký bản tuyên ngôn giải phóng nô lệ mang tính bước ngoặt.)*
+- **Dr. Henderson:** It was an extraordinarily **[[Brave]]** political gamble that fundamentally reshaped the nation's democratic moral foundation.
+  *(Đó là một canh bạc chính trị phi thường dũng cảm, đã định hình lại căn bản nền tảng đạo đức dân chủ của quốc gia.)*
+- **Professor Ward:** That is why citizens across the land regard him not merely as a statesman, but as a legendary national **[[Hero]]**.
+  *(Đó là lý do tại sao người dân trên khắp đất nước coi ông không chỉ là một chính khách, mà còn là một vị anh hùng dân tộc huyền thoại.)*
+- **Dr. Henderson:** Standing before his granite **[[Monument]]** in the capital, one cannot help but admire his unwavering integrity.
+  *(Đứng trước tượng đài bằng đá granite của ông tại thủ đô, người ta không khỏi khâm phục sự chính trực kiên định của ông.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về bạo chúa & Chiếm đoạt quyền lực:
+- **`overthrow a cruel tyrant`** *(lật đổ một bạo chúa tàn ác)*:
+  - *"Citizens banded together in defiance to **[[Overthrow]]** the merciless **[[Tyrant]]**."*
+  - *(Người dân đã liên kết cùng nhau trong sự bất khuất để lật đổ tên bạo chúa không có lòng trắc ẩn.)*
+- **`usurp the royal throne`** *(cướp/chiếm đoạt ngai vàng hoàng gia)*:
+  - *"The ambitious duke conspired with foreign generals to **[[Usurp]]** the vacant throne."*
+  - *(Vị công tước đầy tham vọng đã câu kết với các tướng lĩnh nước ngoài để cướp ngai vàng đang để trống.)*
+- **`absolute sovereign`** *(quân vương tối cao / nhà cai trị chuyên chế)*:
+  - *"Under the constitution, no individual ruler could govern as an unchecked **[[Sovereign]]**."*
+  - *(Dưới hiến pháp, không một nhà cai trị cá nhân nào có thể cai trị như một quân vương tối cao không bị kiểm soát.)*
+
+#### 2. Khi nói về di sản & Giải phóng:
+- **`proclamation of emancipation`** *(tuyên ngôn giải phóng)*:
+  - *"The president signed the decree of **[[Emancipation]]**, granting freedom to millions."*
+  - *(Vị tổng thống đã ký sắc lệnh giải phóng, trao quyền tự do cho hàng triệu người.)*
+- **`enduring historical legacy`** *(di sản lịch sử trường tồn)*:
+  - *"Great statesmen are remembered primarily for their enduring cultural and social **[[Legacy]]**."*
+  - *(Các chính khách vĩ đại được nhớ đến trước hết vì di sản văn hóa và xã hội trường tồn của họ.)*
+- **`distinguished predecessor`** *(người tiền nhiệm lỗi lạc)*:
+  - *"The newly elected leader paid respectful tribute to his distinguished **[[Predecessor]]**."*
+  - *(Nhà lãnh đạo mới đắc cử đã bày tỏ lòng kính trọng đối với người tiền nhiệm lỗi lạc của mình.)*
+
+#### 3. Khi nói về liên minh & Tinh thần dũng cảm:
+- **`form a broad coalition`** *(thành lập một liên minh rộng rãi)*:
+  - *"Diplomats succeeded in forging a military **[[Coalition]]** to defend against invasion."*
+  - *(Các nhà ngoại giao đã thành công trong việc xây dựng một liên minh quân sự để phòng thủ chống xâm lược.)*
+- **`revered national hero`** *(vị anh hùng dân tộc được tôn kính)*:
+  - *"Generations of school children learned ballads celebrating their country's greatest **[[Hero]]**."*
+  - *(Nhiều thế hệ học sinh đã học những khúc hát ca ngợi vị anh hùng vĩ đại nhất của đất nước họ.)*
+- **`erect a memorial monument`** *(dựng tượng đài tưởng niệm)*:
+  - *"The municipal council voted to erect a bronze **[[Monument]]** in honor of the fallen peacekeepers."*
+  - *(Hội đồng thành phố đã bỏ phiếu dựng một tượng đài bằng đồng để vinh danh những người gìn giữ hòa bình đã ngã xuống.)*

@@ -128,3 +128,77 @@ To succeed in this modern **[[Epoch]]**, maintaining a structured **[[Routine]]*
 
 ### Bản dịch Tiếng Việt
 Để thành công trong **kỷ nguyên** hiện đại này, việc duy trì một **thói quen thường lệ** có tổ chức là vô cùng quan trọng. Mỗi nhân viên phải tuân thủ **lịch trình** của mình và luôn **đúng giờ** để hoàn thành từng **hạn chót** nghiêm ngặt. Tuy nhiên, làm như vậy đòi hỏi phải quản lý nhiều dự án **đồng thời**, điều này có thể dẫn đến những giờ làm việc căng thẳng **kéo dài**. Điều quan trọng cần nhớ là những giai đoạn áp lực cao như vậy thường **ngắn ngủi** hoặc **phù du/chóng tàn**, trong khi hành trình tìm kiếm tri thức nên là một hành trình **tồn tại mãi mãi**. Với kế hoạch chuẩn bị **trước**, chúng ta có thể sắp xếp các nhiệm vụ của mình theo trình tự **thời gian** để theo dõi tiến độ của chúng. Thay vì phải chịu đựng sự tập trung **gián đoạn** trong suốt **khoảng thời gian** diễn ra dự án, một phương pháp tiếp cận ổn định và cân bằng sẽ giúp biến những thời điểm căng thẳng thành bước đệm cho sự phát triển lâu dài.
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đàm phán gia hạn hợp đồng & Tiến độ bàn giao chậm trễ (Contract Negotiations & Protracted Project Delays)
+> **Bối cảnh thực tế:** Giám đốc pháp lý và nhà thầu xây dựng đối thoại căng thẳng về việc công trình văn phòng bị chậm trễ kéo dài, rà soát nhật ký công việc theo trình tự thời gian và đề xuất kế hoạch tăng tốc tạm thời.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Victoria:** Gregory, we convened this meeting because the office tower project is facing **[[Protracted]]** delays. The completion date is now four months **[[Overdue]]** past the contractual **[[Deadline]]**.
+  *(Gregory, chúng tôi triệu tập cuộc họp này vì dự án tháp văn phòng đang đối mặt với những sự chậm trễ kéo dài dai dẳng. Ngày hoàn công hiện đã quá hạn hợp đồng tới bốn tháng rồi.)*
+- **Gregory:** Victoria, I acknowledge the frustration. However, severe supply chain shortages and adverse weather conditions caused an unexpected **[[Delay]]** in delivering steel frames.
+  *(Victoria, tôi thừa nhận sự thất vọng từ phía bà. Tuy nhiên, tình trạng thiếu hụt chuỗi cung ứng nghiêm trọng và điều kiện thời tiết bất lợi đã gây ra sự trì hoãn ngoài dự kiến trong việc cung ứng các khung thép.)*
+- **Victoria:** Looking at the **[[Chronological]]** log of work orders, there were multiple unexcused pauses over the **[[Duration]]** of the spring quarter. We cannot tolerate **[[Incessant]]** excuses while tenant leases are jeopardized.
+  *(Nhìn vào nhật ký lệnh làm việc theo trình tự thời gian, đã có rất nhiều quãng ngừng không rõ lý do trong suốt khoảng thời gian của quý mùa xuân. Chúng tôi không thể dung thứ cho những lời thanh minh liên miên không dứt trong khi hợp đồng thuê của khách thuê đang bị đe dọa.)*
+- **Gregory:** We have developed an **[[Interim]]** acceleration plan. By implementing **[[Concurrent]]** work shifts and running overnight crews, we can recoup lost time rapidly.
+  *(Chúng tôi đã xây dựng một kế hoạch tăng tốc tạm thời. Bằng cách triển khai các ca làm việc đồng thời song song và vận hành các đội thi công ban đêm, chúng tôi có thể bù lại thời gian đã mất một cách nhanh chóng.)*
+- **Victoria:** Very well. We agree not to **[[Postpone]]** our agreement immediately, provided your on-site teams adhere to a strict, weekly milestones **[[Timetable]]**.
+  *(Được rồi. Chúng tôi đồng ý không hoãn hủy hợp đồng ngay lập tức, với điều kiện các đội thi công tại công trường của ông phải tuân thủ một thời gian biểu với các cột mốc hàng tuần nghiêm ngặt.)*
+- **Gregory:** Thank you for your flexibility, Victoria. We will establish a rigorous daily **[[Schedule]]** to ensure every subcontractor remains fully **[[Punctual]]**.
+  *(Cảm ơn sự linh hoạt của bà, Victoria. Chúng tôi sẽ thiết lập một lịch trình hàng ngày nghiêm ngặt để đảm bảo mọi nhà thầu phụ đều luôn đúng giờ chuẩn xác.)*
+
+---
+
+### 🌟 Tình huống 2: Triết lý về thời gian & Lịch sử nhân loại (Philosophical Discourse on Historical Eras & Human Existence)
+> **Bối cảnh thực tế:** Giáo sư lịch sử trò chuyện cùng nghiên cứu sinh về sự tương phản giữa tuổi thọ ngắn ngủi của đời người với các kỷ nguyên trường cửu của các nền văn minh cổ đại.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Professor Sterling:** Naomi, when you examine ancient archaeological ruins, what strikes you most about humanity's perception of time?
+  *(Naomi, khi em quan sát các tàn tích khảo cổ học cổ đại, điều gì làm em ấn tượng sâu sắc nhất về nhận thức của nhân loại đối với thời gian?)*
+- **Naomi:** It is the contrast between our short mortal lifespan and the vast scale of history, Professor. Individual lives seem so **[[Fleeting]]** and **[[Ephemeral]]**, while civilizations measure their rise and fall across an entire **[[Millennium]]** or **[[Century]]**.
+  *(Thưa Giáo sư, đó chính là sự tương phản giữa tuổi thọ ngắn ngủi của đời người và quy mô bao la của lịch sử. Cuộc đời mỗi cá nhân dường như quá đỗi ngắn ngủi và phù du chóng vánh, trong khi các nền văn minh đo lường sự hưng thịnh và suy tàn qua trọn cả một thiên niên kỷ hay thế kỷ.)*
+- **Professor Sterling:** Profoundly observed. Each transformative **[[Epoch]]** in history leaves monuments designed to proclaim cultural power in **[[Perpetuity]]**, yet stone itself eventually weathers into dust.
+  *(Quan sát rất sâu sắc. Mỗi kỷ nguyên mang tính bước ngoặt trong lịch sử đều để lại những đài tưởng niệm được thiết kế nhằm khẳng định sức mạnh văn hóa đến muôn đời muôn kiếp, ấy thế mà ngay cả đá tảng cuối cùng cũng phong hóa thành cát bụi.)*
+- **Naomi:** In a fast-paced modern world driven by the digital **[[Clock]]**, contemplating deep geological time feels almost like an **[[Anachronism]]**.
+  *(Trong một thế giới hiện đại hối hả bị chi phối bởi chiếc đồng hồ điện tử, việc suy ngẫm về thời gian địa chất sâu thẳm cảm giác gần như một điều lỗi thời lạc lõng với thời đại.)*
+- **Professor Sterling:** Perhaps, but recognizing that our current struggles are merely **[[Transient]]** brings enduring perspective. Wisdom lies in treasuring each passing **[[Moment]]** while honoring our **[[Perennial]]** quest for meaning.
+  *(Có lẽ là vậy, nhưng việc nhận ra rằng những vật lộn hiện tại của chúng ta chỉ là tạm thời thoáng qua sẽ mang lại một góc nhìn bền vững. Trí tuệ nằm ở chỗ biết trân trọng từng khoảnh khắc trôi qua trong khi vẫn tôn vinh hành trình vĩnh cửu tìm kiếm ý nghĩa cuộc đời.)*
+- **Naomi:** That perspective transforms how I view both our ancient **[[Past]]** and our collective human **[[Future]]**.
+  *(Góc nhìn đó thực sự đã làm thay đổi cách em nhìn nhận cả quá khứ xa xưa lẫn tương lai chung của toàn nhân loại.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Tiến độ, Trễ hạn & Biện pháp chuyển tiếp (Delays, Deadlines & Interim Measures):
+- **`protracted legal dispute`** *(vụ tranh chấp pháp lý kéo dài dai dẳng)*:
+  - *"The two tech giants finally reached an out-of-court settlement after years of a **[[Protracted]]** patent dispute."*
+  - *(Hai gã khổng lồ công nghệ cuối cùng đã đạt được thỏa thuận ngoài tòa án sau nhiều năm tranh chấp bằng sáng chế kéo dài dai dẳng.)*
+- **`severely overdue payment`** *(khoản thanh toán quá hạn nghiêm trọng)*:
+  - *"The finance department issued legal notices regarding the client's severely **[[Overdue]]** outstanding invoice."*
+  - *(Phòng tài chính đã gửi thông báo pháp lý liên quan đến hóa đơn còn tồn đọng quá hạn nghiêm trọng của khách hàng.)*
+- **`interim measure`** *(biện pháp tạm thời, giải pháp chuyển tiếp)*:
+  - *"The government established a temporary stabilization subsidy as an **[[Interim]]** measure while comprehensive reforms were drafted."*
+  - *(Chính phủ đã thiết lập một khoản trợ cấp ổn định tạm thời như một biện pháp chuyển tiếp trong khi các cải cách toàn diện đang được soạn thảo.)*
+
+#### 2. Kỷ nguyên, Chu kỳ & Sự trường tồn (Eras, Cycles & Immortality):
+- **`defining epoch of innovation`** *(kỷ nguyên đổi mới mang tính bước ngoặt)*:
+  - *"The advent of generative artificial intelligence marks a defining **[[Epoch]]** in global computing history."*
+  - *(Sự ra đời của trí tuệ nhân tạo tạo sinh đánh dấu một kỷ nguyên mang tính bước ngoặt trong lịch sử điện toán toàn cầu.)*
+- **`in perpetuity`** *(vĩnh viễn, trường cửu muôn đời)*:
+  - *"The nature reserve was deeded to the national conservation trust to be preserved in **[[Perpetuity]]**."*
+  - *(Khu bảo tồn thiên nhiên đã được chuyển giao cho quỹ bảo tồn quốc gia để được giữ gìn vĩnh viễn cho muôn đời sau.)*
+- **`perennial debate`** *(cuộc tranh luận muôn thuở, kéo dài triền miên)*:
+  - *"The balance between individual privacy and national security remains a **[[Perennial]]** debate in modern democracies."*
+  - *(Sự cân bằng giữa quyền riêng tư cá nhân và an ninh quốc gia vẫn là một cuộc tranh luận muôn thuở tại các nền dân chủ hiện đại.)*
+
+#### 3. Tính chất tạm bợ & Khoảnh khắc ngắn ngủi (Transience & Fleeting Nature):
+- **`ephemeral beauty / fleeting opportunity`** *(vẻ đẹp phù du chóng tàn / cơ hội vụt qua trong chốc lát)*:
+  - *"Cherry blossoms captivate viewers precisely because of their **[[Ephemeral]]** beauty and **[[Fleeting]]** blooming season."*
+  - *(Hoa anh đào mê hoặc người ngắm nhìn chính bởi vẻ đẹp phù du ngắn ngủi và mùa hoa nở chóng tàn của chúng.)*
+- **`transient phenomenon`** *(hiện tượng tạm thời, chóng qua)*:
+  - *"Economists argued that the sudden inflation spike was merely a **[[Transient]]** phenomenon caused by logistical bottlenecks."*
+  - *(Các nhà kinh tế lập luận rằng đợt tăng vọt lạm phát bất ngờ chỉ là một hiện tượng tạm thời do các nút thắt cổ chai hậu cần gây ra.)*
+- **`chronological sequence`** *(trình tự thời gian chuẩn xác)*:
+  - *"The biographer organized the archival memoirs into strict **[[Chronological]]** order to illuminate the author's intellectual evolution."*
+  - *(Người viết tiểu sử đã sắp xếp các tập hồi ký lưu trữ theo trình tự thời gian nghiêm ngặt để làm sáng tỏ sự phát triển tư tưởng của tác giả.)*

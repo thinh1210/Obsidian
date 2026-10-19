@@ -108,3 +108,78 @@ Humans have always peered through the **[[Telescope]]** to comprehend the vast *
 
 ### Bản dịch Tiếng Việt
 Con người đã luôn nhìn qua **kính viễn vọng** để thấu hiểu **vũ trụ** bao la. Trong không gian **liên sao** sâu thẳm, vô số **thiên thể** nhảy múa trong một sự cân bằng tinh tế được quyết định bởi **trọng lực**. Vượt xa khỏi **thiên hà** của chúng ta, một ngôi sao đang chết sụp đổ trong một vụ nổ **siêu tân tinh** dữ dội, phát ra **bức xạ** **thuộc về vũ trụ** cực mạnh. Tàn dư của sự sụp đổ này có thể hình thành một hố đen, nơi không gian và thời gian bị bẻ cong vô hạn. Bất kỳ tàu vũ trụ đi lạc nào tiếp cận **chân trời sự kiện** của nó sẽ phải đối mặt với mối đe dọa tột cùng về **hiệu ứng mỳ Ý** khi bị kéo về phía **điểm kỳ dị** đầy bí ẩn. Trong khi đó, các nhà thiên văn học tìm kiếm dấu hiệu của sự sống trên một **ngoại hành tinh** xa xôi đang quay trên một **quỹ đạo** ổn định quanh một mặt trời xa lạ, với hy vọng tìm thấy một ốc đảo khác trong vũ trụ tối tăm.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đo đạc dịch chuyển đỏ và sự giãn nở của vũ trụ (Measuring Cosmological Redshift & Cosmic Expansion)
+> **Bối cảnh thực tế:** Hai nhà vũ trụ học tại viện thiên văn phân tích quang phổ của các cụm thiên hà xa xôi để kiểm chứng tốc độ giãn nở của không gian vũ trụ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Prof. Thorne:** Examine the spectral lines from this distant spiral **[[Galaxy]]**. Notice how all absorption features show a pronounced spectral **[[Redshift]]**.
+  *(Hãy xem xét các vạch quang phổ từ thiên hà xoắn ốc xa xôi này. Hãy chú ý xem mọi đặc điểm hấp thụ đều hiển thị độ dịch chuyển đỏ quang phổ rất rõ rệt.)*
+- **Maya:** Yes, professor! The farther a **[[Celestial]]** body is from our **[[Solar System]]**, the faster it appears to recede into deep **[[Space]]**.
+  *(Vâng thưa giáo sư! Một thiên thể càng ở xa Hệ Mặt Trời của chúng ta, nó dường như càng lùi xa nhanh hơn vào không gian sâu.)*
+- **Prof. Thorne:** This proves that the fabric of the **[[Cosmos]]** itself is expanding, stretching photons of ancient **[[Light]]** across billions of years.
+  *(Điều này chứng minh rằng chính cấu trúc của vũ trụ đang giãn nở, kéo dài các photon ánh sáng cổ xưa qua hàng tỷ năm.)*
+- **Maya:** When we calibrate our deep-space **[[Telescope]]**, the distance equates to nearly five hundred megaparsecs, or well over one billion **[[Light-year|light-years]]**.
+  *(Khi chúng ta hiệu chỉnh kính thiên văn không gian sâu, khoảng cách tương đương gần năm trăm megaparsec, tức là hơn một tỷ năm ánh sáng.)*
+- **Prof. Thorne:** And our cosmic microwave background sensors detect homogeneous relic **[[Radiation]]** permeating the entire vacuum of the **[[Universe]]**.
+  *(Và các cảm biến bức xạ phông vi sóng vũ trụ của chúng ta phát hiện bức xạ tàn dư đồng nhất lan tỏa khắp toàn bộ khoảng chân không của vũ trụ.)*
+- **Maya:** These empirical data points provide undeniable foundation stones for modern theoretical **[[Astrophysics]]** and cosmic evolution.
+  *(Những điểm dữ liệu thực nghiệm này cung cấp những viên đá nền móng không thể phủ nhận cho vật lý thiên văn lý thuyết hiện đại và sự tiến hóa vũ trụ.)*
+
+---
+
+### 🌟 Tình huống 2: Bí ẩn vật chất tối và biến dạng thủy triều chân trời sự kiện (Dark Matter Clues & Gravitational Spaghettification)
+> **Bối cảnh thực tế:** Trong một buổi thảo luận chuyên sâu, các nhà nghiên cứu bàn luận về bằng chứng gián tiếp của vật chất tối và hiệu ứng thủy triều khắc nghiệt gần lỗ đen.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Henderson:** Galactic rotational velocities cannot be explained solely by luminous stars and gas. An invisible halo of **[[Dark Matter]]** must envelop the perimeter.
+  *(Vận tốc quay của thiên hà không thể chỉ được giải thích bởi các ngôi sao và chất khí phát sáng. Một vầng hào quang vô hình của vật chất tối chắc chắn đang bao bọc vành đai.)*
+- **Dr. Alvarez:** Its gravitational footprint is unmistakable; it binds billions of solar masses together across the deep **[[Vacuum]]** of space.
+  *(Dấu ấn lực hấp dẫn của nó là không thể nhầm lẫn; nó liên kết hàng tỷ khối lượng mặt trời lại với nhau qua khoảng chân không sâu thẳm của không gian.)*
+- **Dr. Henderson:** What if an exploratory robotic **[[Spacecraft]]** was captured by an ultra-dense singularity? What fate awaits it beyond the **[[Event Horizon]]**?
+  *(Điều gì sẽ xảy ra nếu một tàu vũ trụ robot thám hiểm bị giữ lại bởi một điểm kỳ dị siêu đậm đặc? Số phận nào đang chờ đợi nó bên ngoài chân trời sự kiện?)*
+- **Dr. Alvarez:** Extreme relativistic tidal **[[Gravity]]** would subject the vehicle to instantaneous **[[Spaghettification]]**, stretching it into a thin thread of elementary particles.
+  *(Trọng lực thủy triều tương đối tính cực hạn sẽ khiến phương tiện phải chịu hiệu ứng mì ống hóa tức thì, kéo giãn nó thành một sợi mỏng gồm các hạt cơ bản.)*
+- **Dr. Henderson:** At that point, all matter reaches the central **[[Singularity]]**, where our understanding of physical **[[Science]]** meets its ultimate frontier.
+  *(Tại điểm đó, mọi vật chất đều chạm tới điểm kỳ dị trung tâm, nơi hiểu biết của chúng ta về khoa học vật lý gặp phải ranh giới tối thượng của nó.)*
+- **Dr. Alvarez:** That mystery continues to drive every deep space **[[Mission]]** and ambitious astronomical **[[Exploration]]** of our era.
+  *(Bí ẩn đó tiếp tục thúc đẩy mọi sứ mệnh không gian sâu và cuộc thám hiểm thiên văn đầy tham vọng trong thời đại chúng ta.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Vũ trụ học lý thuyết & Đo lường bức xạ (Observational Cosmology & Cosmological Metrics):
+- **`cosmological redshift`** *(độ dịch chuyển đỏ vũ trụ học)*:
+  - *"Observing the cosmological **[[Redshift]]** of distant galaxies confirms that our **[[Universe]]** is continually expanding."*
+  - *(Việc quan sát độ dịch chuyển đỏ vũ trụ học của các thiên hà xa xôi xác nhận rằng vũ trụ của chúng ta đang liên tục giãn nở.)*
+- **`cosmic microwave radiation`** *(bức xạ phông vi sóng vũ trụ)*:
+  - *"The relic **[[Cosmic]]** background **[[Radiation]]** provides a photographic snapshot of the newborn cosmos."*
+  - *(Bức xạ phông vũ trụ tàn dư cung cấp một bức ảnh chụp nhanh về vũ trụ thuở sơ khai.)*
+- **`megaparsec distance`** *(khoảng cách tính bằng megaparsec)*:
+  - *"Astronomers gauge galactic clusters separated by hundreds of **[[Parsec|parsecs]]** across deep intergalactic space."*
+  - *(Các nhà thiên văn học đo đạc các cụm thiên hà cách nhau hàng trăm parsec trên khắp không gian liên thiên hà sâu thẳm.)*
+
+#### 2. Vật chất tối & Sự tiến hóa thiên hà (Dark Matter & Cosmic Evolution):
+- **`dark matter halo`** *(vầng hào quang vật chất tối)*:
+  - *"A massive unseen halo of **[[Dark Matter]]** provides the missing gravitational glue that prevents galaxies from tearing apart."*
+  - *(Một vầng hào quang vật chất tối khổng lồ vô hình cung cấp chất keo hấp dẫn còn thiếu giúp ngăn các thiên hà không bị xé toạc.)*
+- **`interstellar dust cloud`** *(đám mây bụi liên sao)*:
+  - *"Dense clouds of cosmic **[[Dust]]** inside a luminous **[[Nebula]]** collapse under gravity to ignite newborn stars."*
+  - *(Những đám mây bụi vũ trụ dày đặc bên trong một tinh vân phát sáng sụp đổ dưới tác dụng của trọng lực để nhen nhóm những ngôi sao sơ sinh.)*
+- **`supernova nucleosynthesis`** *(sự tổng hợp hạt nhân siêu tân tinh)*:
+  - *"The cataclysmic blast of a dying **[[Supernova]]** disperses forged minerals throughout the **[[Cosmos]]**."*
+  - *(Vụ nổ thảm khốc của một siêu tân tinh đang lụi tàn phân tán các khoáng chất đã được rèn đúc trên khắp vũ trụ.)*
+
+#### 3. Các hiện tượng cực đoan & Lực thủy triều (Extreme Relativistic Phenomena):
+- **`cross the event horizon`** *(vượt qua chân trời sự kiện)*:
+  - *"Once an object crosses the **[[Event Horizon]]**, no signal or particle of light can ever escape back to the outside world."*
+  - *(Một khi một vật thể vượt qua chân trời sự kiện, không một tín hiệu hay hạt ánh sáng nào có thể thoát trở lại thế giới bên ngoài.)*
+- **`gravitational spaghettification`** *(hiệu ứng mì ống hóa do lực hấp dẫn)*:
+  - *"Extreme differences in gravitational pull cause violent **[[Spaghettification]]** of any object nearing a dense singularity."*
+  - *(Sự chênh lệch cực lớn về lực hút hấp dẫn gây ra hiện tượng mì ống hóa dữ dội cho bất kỳ vật thể nào tiến gần đến một điểm kỳ dị đậm đặc.)*
+- **`spacecraft interplanetary mission`** *(sứ mệnh liên hành tinh của tàu vũ trụ)*:
+  - *"Engineers successfully executed the **[[Launch]]** of an unmanned **[[Spacecraft]]** designed to map our outer **[[Solar System]]**."*
+  - *(Các kỹ sư đã thực hiện thành công vụ phóng một tàu vũ trụ không người lái được thiết kế để lập bản đồ Hệ Mặt Trời bên ngoài của chúng ta.)*

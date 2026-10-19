@@ -128,3 +128,78 @@ As an **[[Undergraduate]]**, Sarah was highly **[[Assiduous]]** in her studies, 
 
 ### Bản dịch Tiếng Việt
 Khi còn là một **sinh viên chưa tốt nghiệp**, Sarah đã cực kỳ **chăm chỉ** trong việc học, luôn nỗ lực để **tích lũy** kiến thức sâu rộng về ngành học của mình. Cô luôn sẵn lòng **hợp tác** với bạn bè trong các nghiên cứu học thuật và học cách **kiên trì** ngay cả khi đối mặt với những môn học khó khăn nhất. Sự cống hiến **gương mẫu** này không chỉ giúp cô giành được một suất **học bổng** danh giá mà còn đặt nền móng vững chắc cho **sự nghiệp** tương lai. Giờ đây, cô làm việc tại một công ty hàng đầu, nơi các **đồng nghiệp** coi cô là một nhân tố **không thể thiếu**. Mặc dù gần đây cô nhận được một lời mời làm việc **béo bở** từ đối thủ cạnh tranh với mức **thù lao** hậu hĩnh, cô vẫn quyết định ở lại, biết rằng công ty hiện tại đang có kế hoạch **thăng chức** cô lên vị trí quản lý cấp cao trong thời gian rất ngắn tới.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Hướng nghiệp đại học & Chương trình thực tập chuyển tiếp sự nghiệp (Academic Mentorship & Career-Launching Internship)
+> **Bối cảnh thực tế:** Giáo sư đại học (Professor - Dr. Bennett) hướng dẫn một sinh viên năm cuối xuất sắc (Undergraduate Student - Liam) về việc hoàn thành khóa luận và chuyển tiếp sang môi trường chuyên nghiệp.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Bennett (Professor):** Liam, congratulations on completing your final **[[Semester]]**. Your academic performance across every challenging **[[Curriculum]]** milestone has been truly **[[Exemplary]]**.
+  *(Dr. Bennett: Liam, chúc mừng em đã hoàn thành học kỳ cuối cùng. Thành tích học tập của em qua từng mốc thử thách của chương trình giảng dạy thực sự rất gương mẫu xuất sắc.)*
+- **Liam (Student):** Thank you, Professor Bennett. Your intellectual mentorship has helped me **[[Acquire]]** rigorous research methodologies and scholarly **[[Discipline]]**.
+  *(Liam: Em cảm ơn Giáo sư Bennett. Sự dẫn dắt học thuật của thầy đã giúp em lĩnh hội được các phương pháp nghiên cứu khắt khe và tính kỷ luật học thuật.)*
+- **Dr. Bennett:** Have you determined whether you will pursue an advanced graduate **[[Degree]]** or enter the corporate market as a working professional?
+  *(Dr. Bennett: Em đã quyết định xem sẽ theo đuổi một tấm bằng cao học nâng cao hay bước chân vào thị trường doanh nghiệp với tư cách là một chuyên gia đi làm chưa?)*
+- **Liam:** I was fortunate to secure a competitive corporate **[[Internship]]** at a multinational technology firm, offering practical coaching and a direct route to a permanent **[[Job]]**.
+  *(Liam: Em đã may mắn giành được một suất thực tập doanh nghiệp đầy cạnh tranh tại một công ty công nghệ đa quốc gia, nơi mang lại sự chỉ dẫn thực tế và con đường trực tiếp dẫn tới công việc chính thức.)*
+- **Dr. Bennett:** That is an outstanding transition. Keep in mind that real-world **[[Workplace]]** achievement requires constructive **[[Teamwork]]** and the confidence to operate autonomously.
+  *(Dr. Bennett: Đó là một sự chuyển tiếp xuất sắc. Hãy luôn ghi nhớ rằng thành tựu nơi làm việc thực tế đòi hỏi tinh thần làm việc nhóm mang tính xây dựng và sự tự tin để hoạt động một cách độc lập tự chủ.)*
+- **Liam:** I will stay deeply mindful of your counsel. Being fully **[[Cognizant]]** of professional standards will inspire me to deliver my best effort.
+  *(Liam: Em sẽ luôn khắc ghi lời khuyên của thầy. Việc nhận thức đầy đủ về các chuẩn mực chuyên môn sẽ truyền cảm hứng cho em cống hiến hết sức mình.)*
+
+---
+
+### 🌟 Tình huống 2: Đánh giá hiệu suất dự án & Thăng chức nơi công sở (Project Performance Review, Productivity & Promotion)
+> **Bối cảnh thực tế:** Giám đốc Dự án (Project Manager - Victoria) tổ chức cuộc họp đánh giá hiệu quả công việc với Chuyên viên Cấp cao (Senior Specialist - Ethan).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Victoria (Manager):** Ethan, let's review the milestones delivered in our latest client **[[Project]]**. Your tireless dedication helped our departmental **[[Colleague|colleagues]]** meet every aggressive **[[Deadline]]**.
+  *(Victoria: Ethan, hãy cùng xem xét các mốc tiến độ đã hoàn thành trong dự án khách hàng mới nhất của chúng ta. Sự cống hiến không biết mệt mỏi của anh đã giúp các đồng nghiệp phòng ban đáp ứng được mọi hạn chót gấp gáp.)*
+- **Ethan (Coworker):** Thank you, Victoria. We logged significant **[[Overtime]]** to refactor critical systems, greatly improving our team's overall **[[Productivity]]** and operational **[[Efficiency]]**.
+  *(Ethan: Cảm ơn Victoria. Chúng tôi đã làm thêm giờ đáng kể để tái cấu trúc các hệ thống trọng yếu, cải thiện vượt bậc năng suất tổng thể và hiệu quả vận hành của cả đội ngũ.)*
+- **Victoria:** Your readiness to **[[Collaborate]]** with cross-functional peers has established you as an **[[Indispensable]]** contributor across our organization.
+  *(Victoria: Sự sẵn lòng hợp tác của anh với các đồng nghiệp liên phòng ban đã khẳng định anh là một nhân tố đóng góp không thể thiếu trong toàn tổ chức.)*
+- **Ethan:** I genuinely appreciate our supportive culture. I continuously strive to upgrade my technical **[[Qualification|qualifications]]** to generate tangible business outcomes.
+  *(Ethan: Tôi thực sự trân trọng văn hóa tương trợ của chúng ta. Tôi luôn không ngừng nỗ lực nâng cấp trình độ chuyên môn kỹ thuật của mình để tạo ra những kết quả kinh doanh rõ nét.)*
+- **Victoria:** Executive leadership was deeply impressed. I am thrilled to share that the board approved your **[[Promotion]]** to Lead Systems Architect alongside a merit-based **[[Bonus]]**.
+  *(Victoria: Ban lãnh đạo điều hành vô cùng ấn tượng. Tôi rất vui mừng thông báo rằng hội đồng quản trị đã phê duyệt việc thăng chức anh lên vị trí Kiến trúc sư Hệ thống Trưởng cùng một khoản tiền thưởng theo năng lực.)*
+- **Ethan:** I am honored by this recognition and enthusiastic about guiding our team to even greater milestones in our long-term **[[Career]]** journey.
+  *(Ethan: Tôi rất vinh dự trước sự ghi nhận này và vô cùng hào hứng được dẫn dắt đội ngũ của chúng ta đạt tới những mốc son lớn hơn nữa trong hành trình sự nghiệp dài hạn.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong học thuật & Rèn luyện tri thức (Academic Excellence & Intellectual Discipline):
+- **`rigorous academic curriculum`** *(chương trình giảng dạy học thuật khắt khe)*:
+  - *"Students who master a rigorous **[[Curriculum]]** develop advanced analytical problem-solving skills."*
+  - *(Những sinh viên làm chủ được một chương trình giảng dạy khắt khe sẽ phát triển được các kỹ năng phân tích và giải quyết vấn đề nâng cao.)*
+- **`acquire indispensable knowledge`** *(lĩnh hội tri thức không thể thiếu)*:
+  - *"Attending university lectures allows ambitious learners to **[[Acquire]]** specialized industry expertise."*
+  - *(Việc tham dự các bài giảng đại học cho phép những người học có chí tiến thủ lĩnh hội được chuyên môn sâu về ngành.)*
+- **`earn a prestigious scholarship`** *(giành được một suất học bổng danh giá)*:
+  - *"Her exceptional academic record earned her a full merit **[[Scholarship]]** covering all university tuition."*
+  - *(Hồ sơ học tập xuất sắc đã mang lại cho cô một suất học bổng toàn phần theo năng lực chi trả toàn bộ học phí đại học.)*
+
+#### 2. Trong môi trường công sở & Năng suất (Workplace Dynamics & Productivity):
+- **`boost operational efficiency`** *(nâng cao hiệu quả vận hành)*:
+  - *"Automating manual reporting workflows dramatically elevated organizational **[[Efficiency]]**."*
+  - *(Việc tự động hóa quy trình báo cáo thủ công đã nâng cao rõ rệt hiệu quả vận hành của tổ chức.)*
+- **`meet a tight project deadline`** *(hoàn thành kịp hạn chót dự án gấp rút)*:
+  - *"Cross-functional teams collaborated seamlessly to meet a critical product delivery **[[Deadline]]**."*
+  - *(Các đội ngũ liên chức năng đã phối hợp nhịp nhàng để hoàn thành kịp hạn chót bàn giao sản phẩm quan trọng.)*
+- **`seamless team collaboration`** *(sự cộng tác làm việc nhóm nhịp nhàng)*:
+  - *"Fostering open communication creates an environment where employees can **[[Collaborate]]** productively."*
+  - *(Việc thúc đẩy giao tiếp cởi mở tạo ra một môi trường nơi các nhân viên có thể hợp tác làm việc một cách hiệu quả.)*
+
+#### 3. Trong phát triển sự nghiệp & Đãi ngộ (Career Advancement & Remuneration):
+- **`earn a well-deserved promotion`** *(được nhận sự thăng chức xứng đáng)*:
+  - *"Consistent leadership and exemplary performance culminated in a well-deserved corporate **[[Promotion]]**."*
+  - *(Năng lực lãnh đạo bền bỉ và hiệu suất gương mẫu đã dẫn tới một quyết định thăng chức xứng đáng của công ty.)*
+- **`competitive remuneration package`** *(gói thù lao đãi ngộ có tính cạnh tranh cao)*:
+  - *"The technology firm attracts top engineers by offering a lucrative **[[Remuneration]]** framework."*
+  - *(Công ty công nghệ thu hút các kỹ sư hàng đầu bằng cách đưa ra một cơ cấu thù lao đãi ngộ sinh lợi hấp dẫn.)*
+- **`secure a corporate internship`** *(giành được một vị trí thực tập doanh nghiệp)*:
+  - *"Completing a competitive summer **[[Internship]]** often leads directly to full-time employment offers."*
+  - *(Hoàn thành một kỳ thực tập mùa hè đầy cạnh tranh thường mở ra cơ hội nhận lời mời làm việc toàn thời gian trực tiếp.)*

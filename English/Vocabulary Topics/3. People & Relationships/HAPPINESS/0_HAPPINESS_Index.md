@@ -108,3 +108,72 @@ In the heart of the countryside, Lily felt completely **[[Happy]]** and **[[Grat
 
 ### Bản dịch Tiếng Việt
 Giữa lòng vùng nông thôn, Lily cảm thấy hoàn toàn **hạnh phúc** và **biết ơn** cuộc sống yên bình của mình. Buổi sáng vô cùng **yên bình**, tràn ngập hương thơm dịu nhẹ của hoa dại. Lily, người nổi tiếng với tính cách **hoạt bát**, rất thích tụ họp cùng bạn bè tại khu chợ địa phương. Ở đó, họ gặp ông Brown, một thợ làm bánh **vui vẻ** có tiếng cười ấm áp mang lại **sự vui vẻ** cho mọi người xung quanh. Một ngày nọ, Lily nhận được tin bức tranh của cô đã đạt giải nhất tại một triển lãm quốc gia. Cô hoàn toàn **hân hoan**, gương mặt **rạng rỡ** niềm tự hào. Khi cầm chiếc cúp trên tay, một làn sóng **hạnh phúc tột độ** tràn ngập trong cô, một khoảnh khắc **hạnh phúc tột đỉnh** thuần khiết mà cô sẽ trân trọng mãi mãi. Ngay cả trong những thời điểm bấp bênh, Lily vẫn luôn **lạc quan**, tin rằng cuộc sống sẽ luôn mang lại những khoảnh khắc **viên mãn** thực sự.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Hạnh phúc đích thực từ sự bình yên & Lòng biết ơn (Finding Pure Bliss & Mindful Gratitude)
+> **Bối cảnh thực tế:** Trong một chuyến dã ngoại cuối tuần tại vùng đồi núi thanh bình, hai người bạn cùng ngồi ngắm hoàng hôn, chiêm nghiệm về ý nghĩa của sự viên mãn (**[[Content]]**), niềm an lạc (**[[Bliss]]**) và tinh thần luôn lạc quan (**[[Sanguine]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Elena:** Look at that golden sunset over the valley, Lucas. Sitting here away from phone notifications brings such an overwhelming sense of **[[Peaceful|peace]]** and **[[Bliss]]**.
+  *(Hãy nhìn ánh hoàng hôn rực rỡ trên thung lũng kìa, Lucas. Ngồi ở đây, xa rời mọi thông báo điện thoại, đem lại một cảm giác bình yên và thanh thản khôn xiết.)*
+- **Lucas:** Truly. We spend so much energy chasing material milestones, forgetting that true **[[Happy|happiness]]** often lies in simple, quiet moments of genuine **[[Content|contentment]]**.
+  *(Quả đúng vậy. Chúng ta dành quá nhiều sức lực để theo đuổi các cột mốc vật chất, mà quên mất rằng hạnh phúc đích thực thường ẩn chứa trong những khoảnh khắc giản dị, tĩnh lặng của sự mãn nguyện từ tâm.)*
+- **Elena:** I couldn't agree more. Taking time to be deeply **[[Grateful]]** for good health and loving friends completely transforms one's mindset into a **[[Positive]]** and **[[Sanguine]]** outlook.
+  *(Mình không thể đồng ý hơn. Dành thời gian để cảm thấy biết ơn sâu sắc về sức khỏe và những người bạn thương quý sẽ hoàn toàn biến chuyển tâm thế của một người thành một góc nhìn tích cực và lạc quan yêu đời.)*
+- **Lucas:** Your smile is always so **[[Radiant]]** and **[[Cheerful]]**. That **[[Buoyant]]** energy naturally spreads **[[Joy]]** to everyone around you.
+  *(Nụ cười của cậu lúc nào cũng rạng rỡ và tươi vui. Nguồn năng lượng phấn chấn tràn đầy sức sống ấy tự nhiên lan tỏa niềm vui đến mọi người xung quanh.)*
+- **Elena:** It's a conscious choice! Nurturing inner **[[Felicity]]** is the greatest investment anyone can make for their well-being.
+  *(Đó là một sự lựa chọn có ý thức đấy! Nuôi dưỡng niềm hạnh phúc nội tại chính là khoản đầu tư tuyệt vời nhất mà bất kỳ ai cũng có thể tạo dựng cho sức khỏe tinh thần của mình.)*
+
+---
+
+### 🌟 Tình huống 2: Vỡ òa trong niềm vui chiến thắng tập thể (Team Triumph & Jubilant Celebrations)
+> **Bối cảnh thực tế:** Sau sáu tháng nghiên cứu miệt mài, một đội nhóm khởi nghiệp công nghệ nhận được tin sản phẩm của họ đoạt giải nhất cuộc thi sáng tạo toàn quốc, cả khán phòng bùng nổ trong niềm vui sướng hân hoan (**[[Jubilant]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Marcus:** Team, listen up! The official announcement was just posted online... We won the national grand championship!
+  *(Cả đội ơi, nghe này! Thông báo chính thức vừa được đăng tải trực tuyến rồi... Chúng ta đã giành giải Quán quân toàn quốc rồi!)*
+- **Chloe:** Oh my goodness, are you serious?! I am totally **[[Elated]]** and **[[Exhilarated]]**!
+  *(Ôi trời ơi, cậu nói thật đấy chứ?! Mình cảm thấy vô cùng phấn khích và vui sướng tột độ!)*
+- **Marcus:** Look at everyone! The whole office is completely **[[Jubilant]]**, dancing and sharing pure **[[Mirth]]** and laughter!
+  *(Nhìn mọi người kìa! Toàn bộ văn phòng đang hoàn toàn hân hoan reo hò, nhảy múa và chia sẻ trọn vẹn những tràng cười sảng khoái và niềm vui rộn rã!)*
+- **Chloe:** Seeing all our hard work and late-night coding sessions recognized brings a wave of unadulterated **[[Euphoria]]** and pride.
+  *(Nhìn thấy mọi công sức và những đêm dài lập trình được công nhận mang lại một làn sóng hân hoan tột đỉnh và niềm tự hào thuần khiết.)*
+- **Marcus:** This **[[Exuberant]]** moment belongs to every single one of us. Tonight, we celebrate this phenomenal milestone together!
+  *(Khoảnh khắc rực rỡ và tràn đầy hứng khởi này thuộc về từng người trong chúng ta. Tối nay, chúng ta sẽ cùng nhau ăn mừng cột mốc phi thường này!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi diễn tả niềm hạnh phúc rạng ngời:
+- **`radiant smile / beam with joy`** *(nụ cười rạng rỡ / rạng ngời niềm vui)*:
+  - *"The bride displayed a **[[Radiant]]** smile that illuminated the entire ceremony."*
+  - *(Cô dâu nở một nụ cười rạng rỡ làm bừng sáng cả không gian buổi lễ.)*
+- **`pure bliss / unadulterated joy`** *(niềm hạnh phúc tuyệt đỉnh / niềm vui thuần khiết)*:
+  - *"Floating on the calm lake at sunrise was ten minutes of pure **[[Bliss]]**."*
+  - *(Thả mình trôi trên mặt hồ tĩnh lặng lúc bình minh là mười phút của sự thanh thản tuyệt đỉnh.)*
+- **`in high spirits / buoyant mood`** *(tinh thần phấn chấn, yêu đời)*:
+  - *"The sunny weather and birdsong put the travelers in remarkably high spirits."*
+  - *(Thời tiết nắng ấm và tiếng chim hót líu lo đã đưa những người lữ hành vào một tâm trạng phấn chấn yêu đời lạ kỳ.)*
+
+#### 2. Khi nói về tinh thần lạc quan & Mãn nguyện:
+- **`sanguine outlook on life`** *(góc nhìn lạc quan, tích cực về cuộc sống)*:
+  - *"Maintaining a **[[Sanguine]]** perspective helps resilient individuals bounce back from financial hardship."*
+  - *(Duy trì một góc nhìn lạc quan về cuộc sống giúp những cá nhân kiên cường nhanh chóng đứng dậy sau khó khăn tài chính.)*
+- **`deeply content with one's life`** *(hoàn toàn mãn nguyện với cuộc sống)*:
+  - *"Retired in his mountain cottage, the professor felt deeply **[[Content]]** with his lifelong achievements."*
+  - *(Nghỉ hưu trong căn nhà gỗ nhỏ trên núi, vị giáo sư cảm thấy hoàn toàn mãn nguyện với những thành tựu cả đời của mình.)*
+- **`overflow with gratitude`** *(tràn ngập lòng biết ơn)*:
+  - *"Her heart overflowed with **[[Grateful|gratitude]]** for the doctors who saved her brother's life."*
+  - *(Trái tim cô tràn ngập lòng biết ơn đối với các bác sĩ đã cứu sống người em trai của mình.)*
+
+#### 3. Các thành ngữ phổ biến về niềm vui:
+- **`jump for joy`** *(nhảy cẫng lên vì sung sướng)*:
+  - *"The children jumped for joy the moment their father arrived with the holiday gifts."*
+  - *(Lũ trẻ nhảy cẫng lên vì sung sướng ngay khoảnh khắc người cha bước vào với những món quà ngày lễ.)*
+- **`walking on air`** *(lâng lâng như đi trên mây vì hạnh phúc)*:
+  - *"Ever since she heard the wedding proposal, she has been walking on air for days."*
+  - *(Kể từ khi nghe lời cầu hôn, cô ấy như người đi trên mây suốt mấy ngày liền vì hạnh phúc.)*
+

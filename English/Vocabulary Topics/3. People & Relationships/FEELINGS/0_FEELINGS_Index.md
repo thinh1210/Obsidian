@@ -131,3 +131,74 @@ As the curtains prepared to rise, Clara felt extremely [[Apprehensive]] about he
 
 ### Bản dịch Tiếng Việt
 Khi bức màn chuẩn bị kéo lên, Clara cảm thấy vô cùng **lo sợ** về buổi biểu diễn piano solo đầu tiên của mình. Cô gần như **sợ điếng người** trước viễn cảnh phạm sai lầm trước một lượng khán giả khổng lồ, và áp lực khiến cô cảm thấy **choáng ngợp**. Khi nhìn vào bản nhạc phức tạp, cô bỗng chốc trở nên **hoang mang**, không thể đọc được các nốt nhạc. Điều này khiến cô cảm thấy cực kỳ **nản lòng** với sự chuẩn bị của mình, và đôi tay cô run rẩy vì nguồn năng lượng **lo âu**. Tuy nhiên, giáo viên của cô đã nhìn cô với sự **đồng cảm** sâu sắc, thì thầm những lời động viên. Clara hít một hơi thật sâu, chơi hợp âm đầu tiên và ngay lập tức cảm thấy **nhẹ nhõm** khi trí nhớ cơ bắp tiếp quản. Buổi biểu diễn là một thành công vang dội. Cô cảm thấy **vô cùng hạnh phúc** khi đám đông đứng dậy vỗ tay, và một làn sóng hạnh phúc **vui sướng tột độ** tràn ngập trong cô. Bước xuống sân khấu, cô cảm thấy vô cùng **mãn nguyện** với nỗ lực của mình, dù một chút **u sầu** ngọt ngào thoáng chạm vào tim cô, biết rằng hành trình tươi đẹp này đã đi đến hồi kết.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đối diện với áp lực kiệt sức & Thấu hiểu cảm xúc (Overwhelmed by Burnout & Emotional Support)
+> **Bối cảnh thực tế:** Trong quán cà phê sau giờ làm việc, một nhân viên văn phòng tâm sự với bạn thân về việc liên tục cảm thấy **[[Overwhelmed]]** (choáng ngợp) và **[[Anxious]]** (lo âu), tìm kiếm sự giải tỏa thay vì dồn nén cảm xúc.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Liam:** Sarah, you seem unusually quiet and **[[Tired]]** tonight. Is everything going okay with the product launch?
+  *(Sarah này, tối nay trông cậu có vẻ trầm lặng và mệt mỏi khác thường. Mọi việc với đợt ra mắt sản phẩm vẫn ổn chứ?)*
+- **Sarah:** Honestly, Liam, I feel completely **[[Overwhelmed]]** and chronically **[[Stressed]]**. Between endless deadlines and client demands, I wake up feeling deeply **[[Apprehensive]]** every morning.
+  *(Thành thật mà nói, Liam à, mình cảm thấy hoàn toàn choáng ngợp và căng thẳng kinh niên. Giữa hàng tá hạn chót và yêu cầu từ khách hàng, sáng nào thức dậy mình cũng cảm thấy vô cùng âu lo thắc thỏm.)*
+- **Liam:** I completely understand. It's so easy to become **[[Frustrated]]** when work piles up. Have you been bottling up your feelings without taking a breather?
+  *(Mình hoàn toàn hiểu mà. Rất dễ bị nản lòng và bực bội khi công việc cứ chất đống như núi. Có phải cậu đã dồn nén cảm xúc bấy lâu nay mà không chịu nghỉ ngơi xả hơi chút nào không?)*
+- **Sarah:** Yeah, I was **[[Ashamed]]** to admit I couldn't handle it, which made me feel even more **[[Miserable]]**. But just talking to you brings genuine **[[Empathy]]** and makes me feel noticeably **[[Relieved]]**.
+  *(Đúng vậy, mình đã từng thấy xấu hổ khi phải thừa nhận bản thân không gánh vác nổi, điều đó lại càng khiến mình cảm thấy khốn khổ hơn. Nhưng chỉ cần nói chuyện với cậu, nhận được sự đồng cảm chân thành là mình đã thấy nhẹ nhõm hơn hẳn rồi.)*
+- **Liam:** Never hesitate to reach out. Emotional health matters far more than any corporate project. Tonight, just relax and let your mind rest.
+  *(Đừng bao giờ ngần ngại mở lời nhé. Sức khỏe tinh thần quan trọng hơn nhiều so với bất kỳ dự án nào. Tối nay, cứ thư giãn và để tâm trí được nghỉ ngơi đi.)*
+
+---
+
+### 🌟 Tình huống 2: Vượt qua thất vọng để đón nhận tin mừng (From Devastation to Ecstasy: The University Acceptance)
+> **Bối cảnh thực tế:** Một học sinh từng vô cùng **[[Disappointed]]** (thất vọng) vì trượt kỳ thi đầu tiên, nay vỡ òa cảm xúc khi nhận được thư báo trúng tuyển học bổng toàn phần từ trường đại học mơ ước.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Maya:** Daniel, look at your hands—they are literally shaking! Did the scholarship committee finally email you back?
+  *(Daniel ơi, nhìn tay cậu kìa—đang run bần bật lên kia kìa! Có phải hội đồng học bổng cuối cùng đã gửi email phản hồi rồi không?)*
+- **Daniel:** Yes... After being rejected by my first choice last month, I was completely **[[Devastated]]** and felt so **[[Despondent]]** that I almost stopped believing in myself.
+  *(Ừ... Sau khi bị trường nguyện vọng một từ chối tháng trước, mình đã hoàn toàn suy sụp và cảm thấy tuyệt vọng đến mức suýt thì đánh mất niềm tin vào chính mình.)*
+- **Maya:** Open the notification! What does it say?
+  *(Mở thông báo ra xem nào! Họ nói sao thế?)*
+- **Daniel:** "Dear Daniel, we are **[[Ecstatic|delighted]]** to offer you the Presidential Full Scholarship..." Oh my goodness, Maya! I'm admitted!
+  *("Kính gửi Daniel, chúng tôi vô cùng vui mừng được trao cho bạn Học bổng Toàn phần của Hiệu trưởng..." Ôi trời ơi, Maya ơi! Mình được nhận rồi!)*
+- **Maya:** Oh, I am so **[[Proud]]** of you! I feel absolutely **[[Ecstatic]]** right now! You worked tirelessly for this moment!
+  *(Ôi, mình tự hào về cậu quá chừng! Lúc này mình cảm thấy sung sướng tột cùng luôn! Cậu đã nỗ lực không ngừng nghỉ cho khoảnh khắc này mà!)*
+- **Daniel:** I feel completely **[[Euphoric]]** and overwhelmingly **[[Grateful]]**. All those late nights were truly worth it.
+  *(Mình cảm thấy lâng lâng hạnh phúc tột độ và vô cùng biết ơn. Tất cả những đêm thức trắng thực sự đã được đền đáp xứng đáng.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi diễn tả niềm vui & Hạnh phúc ngập tràn:
+- **`over the moon / on cloud nine`** *(sung sướng tột cùng, ngập tràn hạnh phúc)*:
+  - *"She was **[[Ecstatic|over the moon]]** after receiving an unconditional offer from Oxford."*
+  - *(Cô ấy sung sướng tột độ sau khi nhận được thư mời nhập học không điều kiện từ đại học Oxford.)*
+- **`burst with pride`** *(ngập tràn niềm tự hào khôn xiết)*:
+  - *"The mentor was bursting with **[[Proud|pride]]** seeing his student win first prize in the debate."*
+  - *(Người thầy tràn ngập niềm tự hào khi chứng kiến học trò của mình giành giải nhất cuộc thi tranh biện.)*
+- **`feel euphoric / ecstatic`** *(cảm thấy lâng lâng hạnh phúc / vui sướng tột độ)*:
+  - *"Crossing the marathon finish line left the runners feeling totally **[[Euphoric]]**."*
+  - *(Khoảnh khắc vượt qua vạch đích marathon khiến các vận động viên cảm thấy ngập tràn cảm giác thăng hoa hạnh phúc.)*
+
+#### 2. Khi đối diện với nỗi buồn & Áp lực:
+- **`bottle up emotions`** *(dồn nén cảm xúc trong lòng)*:
+  - *"Counselors warn that continuing to bottle up your grief can lead to severe clinical depression."*
+  - *(Các chuyên gia tâm lý cảnh báo rằng việc tiếp tục kìm nén nỗi đau buồn có thể dẫn đến trầm cảm nghiêm trọng.)*
+- **`feel overwhelmed with anxiety`** *(cảm thấy choáng ngợp vì lo âu)*:
+  - *"First-time entrepreneurs frequently feel **[[Overwhelmed]]** by unexpected operational hurdles."*
+  - *(Những người khởi nghiệp lần đầu thường xuyên cảm thấy choáng ngợp trước những trở ngại vận hành bất ngờ.)*
+- **`wear one's heart on one's sleeve`** *(ruột để ngoài da, dễ bộc lộ cảm xúc)*:
+  - *"He wears his heart on his sleeve, so you never have to guess whether he is pleased or upset."*
+  - *(Anh ấy là người ruột để ngoài da, nên bạn chẳng bao giờ phải đoán xem anh ấy đang vui hay đang phật ý.)*
+
+#### 3. Các phản ứng tâm lý & Trực giác:
+- **`gut feeling`** *(linh cảm trực giác mách bảo)*:
+  - *"Despite the glowing proposal, my gut feeling told me the partnership carried hidden financial risks."*
+  - *(Dù bản đề xuất trông rất hấp dẫn, linh cảm mách bảo tôi rằng mối hợp tác này tiềm ẩn những rủi ro tài chính khó lường.)*
+- **`emotional rollercoaster`** *(cảm xúc thăng trầm thay đổi thất thường)*:
+  - *"Launching a tech startup is an intense emotional rollercoaster of triumphs and setbacks."*
+  - *(Khởi nghiệp công nghệ là một chuyến tàu lượn siêu tốc đầy cảm xúc với những chiến thắng và thất bại đan xen.)*
+

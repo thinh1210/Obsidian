@@ -128,3 +128,75 @@ The morning started with a **[[Forecast]]** promising **[[Balmy]]** weather, and
 
 ### Bản dịch Tiếng Việt
 Buổi sáng bắt đầu với một bản **dự báo thời tiết** hứa hẹn tiết trời **ấm áp dễ chịu**, và ban đầu một cơn **gió nhẹ** khẽ lay động kẽ lá. Tuy nhiên, đến giữa trưa, không khí trở nên **nóng ngột ngạt** và **oi bức khó chịu** khi **độ ẩm** tăng vọt. Bầu trời nhanh chóng trở nên **u ám**, và không báo trước, một cơn **gió lốc** dữ dội quét qua thung lũng. Theo sau đó là một **trận mưa rào** đột ngột trút xuống **như thác đổ**. Những tia **chớp** chói lòa chiếu sáng bầu trời tối sẫm, biến những con đường thành một **trận mưa lũ** hỗn loạn. Khi cơn bão **khắc nghiệt** đi qua, nhiệt độ giảm mạnh, để lại bầu không khí buổi tối **se lạnh** và ẩm ướt.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lên kế hoạch hoạt động ngoài trời & Theo dõi bản tin khí tượng (Outdoor Event Planning & Weather Forecast Tracking)
+> **Bối cảnh thực tế:** Hai đồng nghiệp phụ trách tổ chức sự kiện thể thao ngoài trời đang xem bản tin dự báo thời tiết và tranh luận về việc có nên chuyển vào nhà thi đấu khi trời có dấu hiệu giông bão.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Hannah:** Mark, did you inspect the updated meteorological **[[Forecast]]** for Saturday's tournament?
+  *(Hannah: Mark, anh đã xem bản tin dự báo khí tượng mới cập nhật cho giải đấu thứ Bảy chưa?)*
+- **Mark:** Yes, and it looks concerning. What began as a **[[Balmy]]** morning is predicted to turn into **[[Sweltering]]** heat with severe **[[Humidity]]** by mid-afternoon.
+  *(Mark: Rồi, và trông khá đáng lo ngại đấy. Khởi đầu là một buổi sáng ấm áp dễ chịu nhưng được dự báo sẽ chuyển thành cái nóng oi ả ngột ngạt cùng độ ẩm cao vào giữa buổi chiều.)*
+- **Hannah:** Not only that, radar maps indicate a sharp drop in barometric pressure, which could trigger a violent **[[Squall]]** or sudden **[[Thunderstorm]]**.
+  *(Hannah: Không chỉ có thế đâu, bản đồ radar cho thấy áp suất khí quyển giảm mạnh, điều này có thể gây ra một cơn gió lốc dữ dội hoặc dông bão bất ngờ.)*
+- **Mark:** If the sky turns **[[Overcast]]** and an intense **[[Downpour]]** begins, the playing grass will become waterlogged with heavy mud and puddles.
+  *(Mark: Nếu bầu trời trở nên u ám và một trận mưa rào như trút nước bắt đầu đổ xuống, mặt cỏ thi đấu sẽ bị ngập úng với bùn lầy và các vũng nước lớn.)*
+- **Hannah:** Exactly. We should not risk athletes getting caught in **[[Torrential]]** rain or hazardous **[[Lightning]]**. Let's activate our indoor arena backup plan.
+  *(Hannah: Chính xác. Chúng ta không nên mạo hiểm để các vận động viên gặp phải mưa như thác đổ hay sét đánh nguy hiểm. Hãy kích hoạt kế hoạch dự phòng chuyển vào nhà thi đấu có mái che thôi.)*
+- **Mark:** Great call. It's always wiser to adapt to **[[Inclement]]** weather ahead of time than scramble in the rain.
+  *(Mark: Quyết định rất chuẩn. Luôn luôn khôn ngoan hơn khi chủ động thích ứng với thời tiết khắc nghiệt từ trước thay vì phải nháo nhào chạy mưa.)*
+
+---
+
+### 🌟 Tình huống 2: Đợt rét đậm mùa đông & Băng giá đường trơn (Winter Cold Snap, Freezing Frost & Travel Hazards)
+> **Bối cảnh thực tế:** Trước một đợt không khí lạnh cực mạnh kèm theo bão tuyết, hai người hàng xóm trao đổi về việc kiểm tra đường ống nước, rải muối chống đóng băng và chuẩn bị sưởi ấm cho ngôi nhà.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Gregory:** Good evening, Sarah! Did you feel that sudden arctic **[[Chill]]** sweeping through the neighborhood tonight?
+  *(Gregory: Chào buổi tối Sarah! Cô có cảm nhận được luồng khí lạnh buốt vùng cực đột ngột tràn qua khu phố tối nay không?)*
+- **Sarah:** Absolutely, the **[[Temperature]]** has plummeted ten degrees in just two hours! The wind is getting fierce and **[[Gusty]]**.
+  *(Sarah: Có chứ, nhiệt độ đã tụt dốc mười độ chỉ trong vòng hai tiếng đồng hồ! Gió đang trở nên dữ dội và giật từng cơn.)*
+- **Gregory:** The radio reported that tonight's light **[[Drizzle]]** will rapidly transition into **[[Sleet]]** and heavy snow flurries.
+  *(Gregory: Đài phát thanh báo rằng cơn mưa phùn nhẹ tối nay sẽ nhanh chóng chuyển thành mưa tuyết và các đợt tuyết rơi dày đặc.)*
+- **Sarah:** My main worry is the roads. When overnight moisture begins to **[[Freeze]]**, a treacherous sheet of **[[Ice]]** and crystalline **[[Frost]]** forms on the asphalt.
+  *(Sarah: Mối lo lớn nhất của tôi là đường sá. Khi hơi ẩm ban đêm bắt đầu đóng băng, một lớp băng trơn trượt nguy hiểm và lớp sương muối kết tinh sẽ hình thành trên mặt đường nhựa.)*
+- **Gregory:** I already salted my driveway and wrapped outdoor faucets to prevent bursting pipes during this **[[Freezing]]** **[[Cold]]**.
+  *(Gregory: Tôi đã rải muối lối vào nhà và bọc các vòi nước ngoài trời để ngăn vỡ đường ống trong đợt rét lạnh buốt giá này rồi.)*
+- **Sarah:** That was smart. Let's stay cozy indoors until the local plows clear away the **[[Snow]]** tomorrow.
+  *(Sarah: Thật thông minh. Chúng ta cứ ở yên trong nhà ấm cúng cho đến khi các xe cào tuyết dọn sạch tuyết vào ngày mai nhé.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi bàn về dự báo thời tiết & Mưa bão:
+- **`check the meteorological forecast`** *(kiểm tra bản tin dự báo khí tượng)*:
+  - *"Commuters check the meteorological **[[Forecast]]** every morning to prepare for unexpected transit delays."*
+  - *(Những người đi làm kiểm tra bản tin dự báo thời tiết mỗi sáng để chuẩn bị cho những sự chậm trễ phương tiện bất ngờ.)*
+- **`torrential downpour`** *(trận mưa rào như trút nước)*:
+  - *"A sudden **[[Downpour]]** flooded street gutters within minutes of the storm's arrival."*
+  - *(Một trận mưa rào trút nước bất ngờ đã làm ngập các rãnh thoát nước trên phố chỉ trong vài phút khi cơn bão ập tới.)*
+- **`inclement weather conditions`** *(điều kiện thời tiết khắc nghiệt)*:
+  - *"Airlines canceled several domestic flights due to **[[Inclement]]** weather and poor runway visibility."*
+  - *(Các hãng hàng không đã hủy nhiều chuyến bay nội địa do điều kiện thời tiết khắc nghiệt và tầm nhìn đường băng kém.)*
+
+#### 2. Khi thảo luận về nắng nóng, nhiệt độ & Độ ẩm:
+- **`sweltering heat and high humidity`** *(cái nóng ngột ngạt và độ ẩm cao)*:
+  - *"High summer brings **[[Sweltering]]** heat, making shaded terraces and cool drinks essential."*
+  - *(Giữa mùa hè mang đến cái nóng ngột ngạt gay gắt, khiến những mái hiên râm mát và thức uống mát lạnh trở nên thiết yếu.)*
+- **`a welcome gentle breeze`** *(một làn gió nhẹ mát lành dễ chịu)*:
+  - *"After hours of stagnant heat, a cool ocean **[[Breeze]]** brought instant relief to beachgoers."*
+  - *(Sau nhiều giờ oi bức ngột ngạt, một làn gió biển mát lành đã mang lại sự nhẹ nhõm tức thì cho những người đi biển.)*
+- **`sudden temperature drop`** *(nhiệt độ giảm đột ngột)*:
+  - *"When the cold front pushed through, the **[[Temperature]]** dropped drastically from mild to frigid."*
+  - *(Khi khối không khí lạnh tràn qua, nhiệt độ giảm mạnh từ ấm áp dễ chịu xuống lạnh buốt.)*
+
+#### 3. Các thành ngữ & Mẫu câu giao tiếp thường nhật về thời tiết:
+- **`come rain or shine`** *(dù mưa hay nắng, dù có bất cứ điều gì xảy ra)*:
+  - *"Come **[[Rain]]** or **[[Sunshine|shine]]**, the dedicated mail carrier completes his delivery route on time."*
+  - *(Dù mưa hay nắng, người đưa thư tận tụy vẫn hoàn thành lộ trình phát thư đúng giờ.)*
+- **`under the weather`** *(cảm thấy không khỏe, hơi mệt mỏi trong người)*:
+  - *"She decided to rest at home because the sudden **[[Cold]]** front left her feeling under the weather."*
+  - *(Cô ấy quyết định nghỉ ngơi ở nhà vì đợt không khí lạnh bất ngờ khiến cô cảm thấy hơi khó ở trong người.)*

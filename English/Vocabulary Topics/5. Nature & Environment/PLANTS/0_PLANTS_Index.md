@@ -128,3 +128,75 @@ To master the art of **[[Horticulture]]**, one must understand how a tiny seed c
 
 ### Bản dịch Tiếng Việt
 Để thành thạo nghệ thuật **làm vườn**, người ta phải hiểu cách một hạt giống nhỏ có thể **nảy mầm** trong **đất trồng** lành mạnh. Trong khu vườn của tôi, tôi chăm sóc một **cây con** vừa mới bắt đầu **đâm chồi** những chiếc lá đầu tiên. Gần đó, một số loài thực vật **lâu năm** phô diễn những chiếc lá **cẩm thạch** đẹp đẽ, mang lại những hoa văn rực rỡ cho cảnh quan. Để giữ cho cây cối khỏe mạnh, tôi thường xuyên **cắt tỉa** các cành chết và bón **phân bón** **hữu cơ** để làm giàu cho đất. Dưới mặt đất, mạng lưới cộng sinh của **nấm rễ** giúp rễ cây hấp thụ chất dinh dưỡng, trong khi côn trùng bận rộn với **sự thụ phấn** từ bông hoa này sang bông hoa khác. Khi mùa thu đến gần, lá của những loài cây **rụng lá hàng năm** chuyển sang giai đoạn **già hóa**, từ từ đổi màu và rụng xuống đất, sẵn sàng **phân hủy** và trả lại sự sống cho đất trồng.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Kỹ thuật chăm sóc vườn thực vật & Nhân giống cây cảnh (Botanical Nursery Care & Horticultural Propagation)
+> **Bối cảnh thực tế:** Tại một vườn ươm thực vật hữu cơ, một nghệ nhân làm vườn hướng dẫn học viên cách cắt tỉa cành khô, kiểm tra quá trình nảy mầm của hạt giống và kích thích cây ra hoa đúng mùa.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Master Gardener Thomas:** Chloe, come examine this newly potted **[[Sapling]]**. The tender **[[Seedling]]** has successfully taken root in the loam.
+  *(Nghệ nhân Thomas: Chloe, lại đây xem cây non mới vào chậu này đi. Cây mầm non nớt đã bén rễ thành công trong đất thịt rồi.)*
+- **Chloe:** I noticed the first true green **[[Sprout]]** breaking through the soil! How often should we apply **[[Organic]]** **[[Fertilizer]]**?
+  *(Chloe: Em đã thấy mầm xanh thật đầu tiên nhú lên khỏi mặt đất rồi ạ! Bao lâu thì chúng ta nên bón phân hữu cơ một lần ạ?)*
+- **Master Gardener Thomas:** Only once every fortnight. Overfeeding can burn the delicate feeder **[[Root|roots]]**. Also, make sure to **[[Prune]]** any damaged **[[Twig]]** on the mother bush.
+  *(Nghệ nhân Thomas: Chỉ hai tuần một lần thôi. Bón quá nhiều có thể làm cháy rễ hút mỏng manh. Ngoài ra, nhớ tỉa bớt bất kỳ cành nhỏ nào bị hỏng trên bụi cây mẹ nhé.)*
+- **Chloe:** What about the hybrid **[[Rose]]** bushes near the south wall? A few leaves are starting to **[[Wilt]]**.
+  *(Chloe: Còn những bụi hoa hồng lai ở gần bức tường phía nam thì sao ạ? Một vài chiếc lá đang bắt đầu héo rũ.)*
+- **Master Gardener Thomas:** Check the moisture level. In hot weather, rapid **[[Transpiration]]** drains water faster than the **[[Stem]]** can replenish it.
+  *(Nghệ nhân Thomas: Hãy kiểm tra độ ẩm đi. Trong thời tiết nắng nóng, sự thoát hơi nước nhanh chóng sẽ rút cạn nước nhanh hơn mức thân cây có thể bù đắp.)*
+- **Chloe:** Understood! Once watered, each velvety **[[Petal]]** will perk back up and release its sweet **[[Scent]]**.
+  *(Chloe: Em hiểu rồi ạ! Sau khi được tưới nước, từng cánh hoa mịn như nhung sẽ tươi tỉnh trở lại và tỏa ra hương thơm ngọt ngào.)*
+
+---
+
+### 🌟 Tình huống 2: Sinh thái rừng bốn mùa & Thụ phấn tự nhiên (Seasonal Forest Ecology & Botanical Pollination)
+> **Bối cảnh thực tế:** Trong một buổi dã ngoại nghiên cứu thực vật rừng, hai nhà sinh thái học quan sát sự khác biệt giữa rừng lá rụng và rừng lá kim cũng như vai trò của ong bướm trong việc thụ phấn.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Arthur:** Look at the magnificent contrast on this ridge—the ancient **[[Oak]]** stands side side side with the towering **[[Pine]]** trees.
+  *(Arthur: Nhìn sự tương phản tuyệt vời trên sườn núi này xem—cây sồi cổ thụ đứng sừng sững bên cạnh những cây thông cao vút.)*
+- **Lydia:** Indeed! As autumn approaches, the **[[Deciduous]]** trees enter **[[Senescence]]**, turning their **[[Foliage]]** into fiery shades of gold and crimson.
+  *(Lydia: Quả thực vậy! Khi mùa thu đến gần, những cây rụng lá bước vào giai đoạn già hóa, chuyển tán lá của chúng thành những gam màu vàng và đỏ thẫm rực lửa.)*
+- **Arthur:** While the **[[Coniferous]]** species retain their waxy needles and dense **[[Bark]]** to withstand sub-zero winter temperatures.
+  *(Arthur: Trong khi các loài cây lá kim giữ lại lớp lá kim phủ sáp và lớp vỏ dày để chống chọi với nhiệt độ mùa đông dưới 0 độ.)*
+- **Lydia:** Notice the bees buzzing around the wild **[[Sunflower]]** blooms down by the clearing?
+  *(Lydia: Anh có để ý thấy những chú ong đang vo ve quanh những bông hoa hướng dương dại nở rộ dưới bãi đất trống không?)*
+- **Arthur:** Yes, they are actively gathering sweet **[[Nectar]]** while facilitating crucial **[[Pollination]]** by carrying golden **[[Pollen]]** across the valley.
+  *(Arthur: Có, chúng đang tích cực thu thập mật hoa ngọt ngào đồng thời thúc đẩy quá trình thụ phấn quan trọng bằng cách mang phấn hoa vàng đi khắp thung lũng.)*
+- **Lydia:** That ensures every blossom will eventually form viable seed and bear nourishing forest **[[Fruit]]**.
+  *(Lydia: Điều đó đảm bảo mỗi đóa hoa cuối cùng sẽ kết thành hạt giống có thể sinh sôi và đơm hoa kết trái rừng nuôi dưỡng muôn loài.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi bàn về trồng trọt, chăm sóc & Làm vườn:
+- **`in full bloom`** *(nở rộ rực rỡ nhất)*:
+  - *"Spring attracts thousands of visitors to the botanical reserve when cherry trees are in full **[[Bloom]]**."*
+  - *(Mùa xuân thu hút hàng ngàn du khách đến khu bảo tồn thực vật khi những cây hoa anh đào đang nở rộ rực rỡ nhất.)*
+- **`prune overgrown branches`** *(cắt tỉa các cành cây mọc um tùm)*:
+  - *"Horticulturists advise gardeners to **[[Prune]]** fruit trees during late winter to encourage healthy spring growth."*
+  - *(Các chuyên gia làm vườn khuyên nên cắt tỉa cây ăn quả vào cuối mùa đông để kích thích sự phát triển khỏe mạnh vào mùa xuân.)*
+- **`seed germination process`** *(quá trình nảy mầm của hạt giống)*:
+  - *"Warm moisture in the seedbed is necessary for the delicate embryo to **[[Germinate]]** properly."*
+  - *(Độ ẩm ấm áp trong luống gieo là điều kiện cần thiết để phôi mầm non nớt nảy mầm thuận lợi.)*
+
+#### 2. Khi thảo luận về sinh thái thực vật & Cấu tạo cây cối:
+- **`deciduous and coniferous forests`** *(rừng cây lá rụng và rừng cây lá kim)*:
+  - *"The mountain slope transitions from temperate **[[Deciduous]]** woods into rugged **[[Coniferous]]** timberland."*
+  - *(Sườn núi chuyển tiếp từ những cánh rừng cây lá rụng ôn đới sang rừng gỗ lá kim hiểm trở.)*
+- **`photosynthesis and transpiration`** *(quang hợp và sự thoát hơi nước)*:
+  - *"Stomata on each green **[[Leaf]]** regulate both **[[Photosynthesis]]** and moisture loss via **[[Transpiration]]**."*
+  - *(Các khí khổng trên mỗi chiếc lá xanh điều hòa cả quá trình quang hợp và sự mất nước thông qua thoát hơi nước.)*
+- **`mycorrhizal symbiotic networks`** *(mạng lưới nấm rễ cộng sinh)*:
+  - *"Underground **[[Mycorrhiza]]** filaments channel phosphorus and moisture directly into plant root networks."*
+  - *(Các sợi nấm rễ cộng sinh dưới lòng đất dẫn truyền phốt pho và độ ẩm trực tiếp vào mạng lưới rễ cây.)*
+
+#### 3. Các thành ngữ & Cách diễn đạt văn hóa về cỏ cây hoa lá:
+- **`nip in the bud`** *(bóp nghẹt từ trong trứng nước, ngăn chặn từ khi mới chớm)*:
+  - *"Organizational conflicts must be nipped in the **[[Bud]]** before they destroy workplace morale."*
+  - *(Những xung đột trong tổ chức cần phải được bóp nghẹt ngay từ khi mới chớm nở trước khi chúng phá hủy tinh thần làm việc.)*
+- **`take root`** *(bén rễ, ăn sâu bám chắc)*:
+  - *"Once progressive conservation ideals take **[[Root]]** in a community, environmental protection thrives."*
+  - *(Một khi các lý tưởng bảo tồn tiến bộ đã bén rễ sâu trong một cộng đồng, công cuộc bảo vệ môi trường sẽ nở rộ.)*

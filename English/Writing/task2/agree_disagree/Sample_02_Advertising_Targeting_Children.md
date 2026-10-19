@@ -98,9 +98,9 @@ tags:
     - *Sentence 1 (Background):* Quảng cáo thương mại đang nhắm mục tiêu dữ dội vào trẻ em, dấy lên lo ngại về tác động tiêu cực và đề xuất cấm hoàn toàn.
     - *Sentence 2 (Thesis):* Khẳng định hoàn toàn đồng ý (wholeheartedly agree) vì trẻ nhỏ chưa có đủ sự trưởng thành về nhận thức để chống lại sự thao túng tiếp thị, dẫn đến hiểm họa an toàn, áp lực kinh tế và suy giảm sức khỏe.
   - **Body 1 (Tác hại về tâm lý, nhận thức và an toàn thân thể):**
-    - *Luận điểm:* Trẻ em ngây thơ, dễ tin vào kỹ xảo phóng đại (commercial hyperbole) $	ext{và}$ bắt chước nguy hiểm.
+    - *Luận điểm:* Trẻ em ngây thơ, dễ tin vào kỹ xảo phóng đại (commercial hyperbole) $\text{và}$ bắt chước nguy hiểm.
     - *Giải thích:* Khác với người lớn, trẻ chưa phân biệt được hư cấu điện ảnh và thực tế; quảng cáo dùng hình ảnh siêu nhiên/bay lượn để bán hàng.
-    - *Ví dụ & Hệ quả:* Trẻ em thử bắt chước cảnh bay lượn sau khi ăn kẹo $	ext{hoặc}$ biểu diễn nguy hiểm $\rightarrow$ chấn thương nghiêm trọng. Ngoài ra, hình ảnh kích thích giác quan liên tục còn làm xói mòn khả năng tập trung học tập.
+    - *Ví dụ & Hệ quả:* Trẻ em thử bắt chước cảnh bay lượn sau khi ăn kẹo $\text{hoặc}$ biểu diễn nguy hiểm $\rightarrow$ chấn thương nghiêm trọng. Ngoài ra, hình ảnh kích thích giác quan liên tục còn làm xói mòn khả năng tập trung học tập.
   - **Body 2 (Gánh nặng tài chính gia đình & Khủng hoảng sức khỏe):**
     - *Luận điểm:* Kích hoạt "quyền năng vòi vĩnh" (Pester Power) và tiếp thị thực phẩm rác (Junk Food).
     - *Cơ chế Pester Power:* Quảng cáo biến trẻ thành công cụ gây sức ép lên cha mẹ để đòi mua đồ chơi đắt tiền, gây căng thẳng tài chính cho các gia đình thu nhập thấp.

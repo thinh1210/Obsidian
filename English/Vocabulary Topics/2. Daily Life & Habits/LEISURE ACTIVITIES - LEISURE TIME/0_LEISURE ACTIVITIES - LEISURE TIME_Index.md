@@ -123,3 +123,75 @@ In modern life, managing our [[Leisure]] time wisely is essential to [[Rejuvenat
 
 ### Bản dịch Tiếng Việt
 Trong cuộc sống hiện đại, quản lý **thời gian rảnh rỗi** một cách khôn ngoan là điều cần thiết để **phục hồi** tâm trí và **thư giãn** sau một tuần dài. Đối với một **người yêu sách** thực thụ, không gì sánh bằng **sự yên bình** khi đọc một cuốn tiểu thuyết cổ điển bên cửa sổ. Những người khác lại thích một **chuyến du ngoạn** cuối tuần về vùng nông thôn, nơi họ có thể thực hành **nghề làm vườn** hoặc nuông chiều bản thân với một **sở thích** sáng tạo như làm **đồ gốm**. Những hoạt động này có thể dễ dàng **làm say mê** bất kỳ ai đang tìm kiếm một lối thoát khỏi màn hình điện tử. Một **người sành sỏi** nghệ thuật có thể dành hàng giờ để cố gắng **chế tác** một chiếc bình gốm hoàn hảo. Dù đó là một **nghề phụ** nghiêm túc hay chỉ là một cách đơn giản để **giao lưu** với bạn bè, việc tham gia vào các hoạt động giải trí giúp chúng ta sống một cuộc sống cân bằng hơn.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lên kế hoạch hoạt động cuối tuần cùng nhóm bạn (Planning a Weekend Group Hangout & Leisure Pursuits)
+> **Bối cảnh thực tế:** Một nhóm bạn cùng nhau thảo luận để sắp xếp các hoạt động giải trí cuối tuần, kết hợp giữa đi dã ngoại ngoài trời và thư giãn giao lưu tại nhà.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Daniel:** Rachel, do you have any fun plans for your **[[Leisure]]** time this Saturday? We were thinking of organizing an outdoor **[[Picnic]]** by the botanical park.
+  *(Rachel, thứ Bảy này cậu đã có dự định gì thú vị cho thời gian rảnh rỗi chưa? Bọn tớ đang tính tổ chức một buổi dã ngoại ngoài trời cạnh công viên thực vật.)*
+- **Rachel:** That sounds lovely! A leisurely afternoon **[[Walk]]** among the trees will really help me **[[Unwind]]** and **[[Rejuvenate]]** after this hectic week.
+  *(Nghe hay quá! Một buổi chiều đi bộ thong thả giữa hàng cây xanh thực sự sẽ giúp tớ thư giãn xả hơi và phục hồi lại năng lượng sau một tuần làm việc bận rộn.)*
+- **Daniel:** Exactly. And later in the evening, everyone is coming over to my place to **[[Hang out]]**, play a strategy **[[Boardgame]]**, and listen to acoustic **[[Guitar]]** tunes.
+  *(Chuẩn luôn. Rồi đến tối, mọi người sẽ ghé nhà tớ tụ tập chơi bời, chơi một trò cờ bàn chiến thuật và nghe những giai điệu ghi-ta mộc.)*
+- **Rachel:** Count me in! I'll bring some fresh cookies from my Sunday morning **[[Baking]]**. It’s so much more fulfilling to **[[Socialize]]** in person than to just stare at a screen.
+  *(Nhớ tính cả tớ nhé! Tớ sẽ mang ít bánh quy mới nướng từ buổi sáng Chủ nhật tới. Gặp gỡ giao lưu trực tiếp thế này trọn vẹn và ý nghĩa hơn nhiều so với việc chỉ dán mắt vào màn hình.)*
+- **Daniel:** Definitely! Having a healthy balance between **[[Sport]]** outdoors and relaxing social **[[Entertainment]]** is the best way to spend our days off.
+  *(Chắc chắn rồi! Giữ được sự cân bằng lành mạnh giữa thể thao vận động ngoài trời và các hoạt động giải trí giao lưu thư thái là cách tuyệt vời nhất để tận hưởng những ngày nghỉ.)*
+- **Rachel:** I couldn't agree more. I can't wait for the weekend to recharge our spirits!
+  *(Tớ hoàn toàn nhất trí. Tớ nóng lòng chờ đến cuối tuần để cùng nhau nạp lại tinh thần quá!)*
+
+---
+
+### 🌟 Tình huống 2: Thưởng lãm nghệ thuật & Tìm kiếm sự tĩnh lặng tâm hồn (Art Exhibition & Seeking Inner Tranquility)
+> **Bối cảnh thực tế:** Hai người bạn đam mê văn hóa cùng ghé thăm một cuộc triển lãm tranh kết hợp thư pháp, trao đổi về nghệ thuật thị giác và cách nuôi dưỡng một thú vui tao nhã giúp tìm lại sự bình yên trong cuộc sống.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Liam:** Maya, look at this landscape **[[Painting]]** by the entrance. The delicate brushstrokes can truly **[[Enthrall]]** anyone who appreciates fine art.
+  *(Maya, hãy nhìn bức tranh phong cảnh cạnh lối vào này xem. Những nét cọ mềm mại tinh tế thực sự có thể làm say mê bất kỳ ai biết thưởng thức nghệ thuật đỉnh cao.)*
+- **Maya:** Absolutely. As a budding art **[[Connoisseur]]**, I find the subtle interplay of light and shade captivating. It reminds me of the discipline required in traditional **[[Calligraphy]]**.
+  *(Hoàn toàn đồng ý. Là một người mới tìm hiểu và đam mê nghệ thuật, tớ thấy sự hòa quyện tinh tế giữa ánh sáng và bóng tối thực sự quyến rũ. Nó làm tớ nhớ đến sự chuẩn mực khắt khe trong nghệ thuật thư pháp truyền thống.)*
+- **Liam:** Being here brings such a profound sense of **[[Tranquility]]**. It offers a stark contrast to the noisy urban **[[Amusement]]** parks.
+  *(Ở không gian này mang lại cảm giác bình yên thanh thản sâu lắng đến lạ. Nó tạo nên sự tương phản rõ rệt với những công viên giải trí thành thị náo nhiệt.)*
+- **Maya:** True. Engaging in a thoughtful cultural **[[Pastime]]** or practicing mindful **[[Meditation]]** gives our minds space to breathe.
+  *(Đúng vậy. Dành thời gian cho một thú tiêu khiển văn hóa sâu sắc hoặc thực hành thiền định chánh niệm cho tâm trí chúng ta có không gian để thở.)*
+- **Liam:** Do you still pursue watercolor **[[Sketch|sketching]]** as your weekend **[[Avocation]]**?
+  *(Cậu có còn tiếp tục vẽ phác họa màu nước như một thú vui nghệ thuật phụ vào cuối tuần không?)*
+- **Maya:** Yes, whenever I have free hours, I take my easel to the botanical **[[Garden]]**. It’s the ultimate therapeutic escape for me!
+  *(Có chứ, bất cứ khi nào có thời gian rảnh, tớ lại mang giá vẽ ra khu vườn thực vật. Đó là lối thoát chữa lành tâm hồn tối thượng dành cho tớ đấy!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về nghỉ ngơi, nạp năng lượng & Tĩnh tâm:
+- **`unwind and rejuvenate`** *(thư giãn xả hơi và phục hồi sinh lực)*:
+  - *"Taking a quiet weekend retreat in nature allows tired urbanites to **[[Unwind]]** and **[[Rejuvenate]]**."*
+  - *(Dành một kỳ nghỉ cuối tuần yên tĩnh giữa thiên nhiên giúp những người thành thị mệt mỏi được thư giãn xả hơi và phục hồi lại sinh lực.)*
+- **`seek inner tranquility`** *(tìm kiếm sự bình yên, thanh tịnh trong tâm hồn)*:
+  - *"Many professionals turn to morning **[[Meditation]]** to cultivate focus and inner **[[Tranquility]]**."*
+  - *(Nhiều chuyên gia tìm đến việc thiền định buổi sáng để trau dồi sự tập trung và sự thanh tịnh trong tâm hồn.)*
+- **`take a leisurely stroll`** *(đi dạo tản bộ thong dong, nhàn nhã)*:
+  - *"After dinner, they enjoyed a peaceful **[[Stroll]]** along the scenic lakeside promenade."*
+  - *(Sau bữa tối, họ tận hưởng một chuyến tản bộ thong dong yên bình dọc theo lối đi dạo ven hồ tuyệt đẹp.)*
+
+#### 2. Khi tụ tập bạn bè & Hoạt động giải trí nhóm:
+- **`hang out and socialize`** *(tụ tập đi chơi và giao lưu gặp gỡ)*:
+  - *"Weekends offer the ideal opportunity to **[[Hang out]]** at cozy cafes and **[[Socialize]]** with old classmates."*
+  - *(Những ngày cuối tuần mang lại cơ hội lý tưởng để tụ tập tại các quán cà phê ấm cúng và giao lưu hàn huyên cùng bạn bè cũ.)*
+- **`friendly boardgame session`** *(buổi chơi cờ bàn thân mật giữa bạn bè)*:
+  - *"We hosted a late-night **[[Boardgame]]** session where laughter and friendly competition filled the room."*
+  - *(Chúng tôi đã tổ chức một buổi chơi cờ bàn kéo dài tới khuya, nơi tiếng cười và sự thi đua thân mật ngập tràn căn phòng.)*
+- **`live music concert`** *(buổi hòa nhạc biểu diễn trực tiếp)*:
+  - *"Attending an outdoor symphony **[[Concert]]** is a sublime form of communal **[[Entertainment]]**."*
+  - *(Tham dự một buổi hòa nhạc giao hưởng ngoài trời là một hình thức giải trí cộng đồng vô cùng tao nhã.)*
+
+#### 3. Khi chia sẻ về thú vui tao nhã & Đam mê sáng tạo:
+- **`refined cultural pastime`** *(thú tiêu khiển văn hóa tao nhã, thanh tao)*:
+  - *"Appreciating classical **[[Piano]]** compositions is a refined **[[Pastime]]** that transcends generations."*
+  - *(Thưởng thức những bản nhạc dương cầm cổ điển là một thú tiêu khiển tao nhã vượt qua mọi thế hệ.)*
+- **`creative avocation`** *(thú vui nghệ thuật phụ bên cạnh nghề chính)*:
+  - *"Beyond his corporate career, he cultivates delicate bonsai trees as a rewarding **[[Avocation]]**."*
+  - *(Ngoài sự nghiệp doanh nghiệp, anh chăm sóc những chậu cây cảnh bonsai tinh tế như một thú vui nghệ thuật phụ đầy ý nghĩa.)*"

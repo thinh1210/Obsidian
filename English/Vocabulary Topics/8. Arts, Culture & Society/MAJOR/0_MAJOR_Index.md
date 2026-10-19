@@ -108,3 +108,78 @@ As a brilliant **[[Undergraduate]]** student, Leo decided to pursue a **[[Major]
 
 ### Bản dịch Tiếng Việt
 Là một **sinh viên chưa tốt nghiệp** xuất sắc, Leo quyết định theo đuổi **ngành học chính** về nghiên cứu môi trường. Tuy nhiên, anh thấy **chương trình giảng dạy** tiêu chuẩn quá gò bó, vì vậy anh đã đăng ký một vài khóa học **liên ngành** sau khi hoàn thành mỗi điều kiện **tiên quyết** cần thiết. Leo đánh giá cao việc học chủ động và phát triển khả năng **siêu nhận thức** mạnh mẽ, cho phép anh học tập như một **người tự học** thực thụ. Đối với bài **luận án** tốt nghiệp của mình, anh muốn chỉ ra mối liên hệ giữa lý thuyết và **thực hành lý thuyết**. Người **cố vấn** của anh, một giáo sư vừa trở về sau **kỳ nghỉ học thuật** hiệu quả, đã hướng dẫn anh rất sát sao. Cùng nhau, họ đảm bảo nghiên cứu của anh là nguyên bản, tránh mọi dấu vết của việc **đạo văn**. Cuối cùng, sự cống hiến của Leo đã mang lại cho anh một **học bổng** danh giá cho các nghiên cứu sau đại học trong tương lai.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lập kế hoạch học tập và chọn chuyên ngành đại học (Undergraduate Major Declaration & Academic Planning)
+> **Bối cảnh thực tế:** Một sinh viên đại học năm thứ hai gặp cố vấn học tập tại văn phòng khoa để thảo luận việc đăng ký chuyên ngành chính, cân nhắc các môn học tiên quyết và khối lượng bài tập theo học kỳ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Academic Advisor Elena:** Welcome, Kevin. You have reached your third **[[Semester]]**, which means it is officially time to declare your undergraduate **[[Major]]**.
+  *(Chào mừng em, Kevin. Em đã bước sang học kỳ thứ ba, đồng nghĩa với việc đã chính thức đến lúc em phải đăng ký chuyên ngành đại học của mình rồi.)*
+- **Undergraduate Kevin:** I am torn between data science and cognitive psychology. Can I design an **[[Interdisciplinary]]** pathway that combines both fields?
+  *(Em đang phân vân giữa khoa học dữ liệu và tâm lý học nhận thức. Liệu em có thể thiết kế một lộ trình liên ngành kết hợp cả hai lĩnh vực không ạ?)*
+- **Academic Advisor Elena:** Certainly. You can select computer science as your primary major with a specialized **[[Concentration]]** in cognitive modeling.
+  *(Chắc chắn rồi. Em có thể chọn khoa học máy tính làm chuyên ngành chính với định hướng chuyên sâu về mô hình hóa nhận thức.)*
+- **Undergraduate Kevin:** That sounds ideal! Have I satisfied every mandatory **[[Prerequisite]]** to register for the advanced machine learning **[[Seminar]]**?
+  *(Nghe lý tưởng quá ạ! Em đã hoàn thành mọi môn học tiên quyết bắt buộc để đăng ký vào hội thảo học thuật máy học nâng cao chưa ạ?)*
+- **Academic Advisor Elena:** Looking at your official **[[Transcript]]**, you earned an excellent **[[Grade]]** in linear algebra, so you are eligible. Just be prepared for intensive weekly **[[Assignment|assignments]]**.
+  *(Nhìn vào bảng điểm chính thức của em, em đã đạt điểm số xuất sắc ở môn đại số tuyến tính, nên em hoàn toàn đủ điều kiện. Chỉ cần chuẩn bị tinh thần cho các bài tập hàng tuần khá nặng.)*
+- **Undergraduate Kevin:** I am fully prepared to dedicate my focus. My goal is to graduate with a distinguished **[[Degree]]** from our **[[University]]**.
+  *(Em đã chuẩn bị sẵn sàng để dốc toàn lực. Mục tiêu của em là tốt nghiệp với tấm bằng loại ưu từ trường đại học của chúng ta.)*
+
+---
+
+### 🌟 Tình huống 2: Hướng dẫn bảo vệ khóa luận tốt nghiệp và thực hành thực tế (Senior Thesis Mentorship & Research Praxis)
+> **Bối cảnh thực tế:** Một sinh viên năm cuối thảo luận với giáo sư hướng dẫn về phương pháp luận nghiên cứu cho luận văn tốt nghiệp, kết nối lý thuyết học thuật với kinh nghiệm thực tập thực tế.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Professor Miller:** Rachel, your preliminary research proposal for your senior **[[Thesis]]** demonstrates remarkable intellectual depth and self-directed **[[Metacognition]]**.
+  *(Rachel, đề cương nghiên cứu sơ bộ cho luận văn tốt nghiệp của em thể hiện chiều sâu trí tuệ đáng nể và khả năng tự nhận thức xuất sắc.)*
+- **Rachel:** Thank you, Professor. As a dedicated **[[Autodidact]]**, I spent months surveying scholarly literature before framing my central **[[Postulate]]**.
+  *(Em cảm ơn Giáo sư. Là một người thích tự học, em đã dành nhiều tháng khảo sát các tài liệu học thuật trước khi xây dựng giả thuyết trung tâm của mình.)*
+- **Professor Miller:** What I appreciate most is how you bridge abstract theoretical models with real-world **[[Praxis]]** derived from your summer **[[Internship]]**.
+  *(Điều thầy đánh giá cao nhất là cách em kết nối các mô hình lý thuyết trừu tượng với thực hành thực tiễn thu được từ kỳ thực tập mùa hè của em.)*
+- **Rachel:** My industry supervisor emphasized that empirical data must constantly validate our theoretical **[[Paradigm]]**.
+  *(Người giám sát tại doanh nghiệp của em đã nhấn mạnh rằng dữ liệu thực nghiệm phải liên tục kiểm chứng mô hình lý thuyết của chúng ta.)*
+- **Professor Miller:** Make sure you rigorously cite every secondary source in your bibliography to eliminate any shadow of unintended **[[Plagiarism]]**.
+  *(Hãy đảm bảo em trích dẫn chuẩn xác từng tài liệu thứ cấp trong thư mục tài liệu tham khảo để loại bỏ bất kỳ nghi vấn đạo văn vô ý nào.)*
+- **Rachel:** Absolutely, Professor. With your continued guidance as my **[[Mentor]]**, I am confident I will produce a rigorous work worthy of graduate **[[Study]]**.
+  *(Chắc chắn rồi ạ, thưa Giáo sư. Với sự định hướng liên tục của thầy trong vai trò người cố vấn, em tự tin mình sẽ tạo ra một công trình nghiêm cẩn xứng đáng với bậc nghiên cứu sau đại học.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Chuyên ngành, Môn học & Tín chỉ (Majors, Courses & Academic Credit):
+- **`declare a major / academic concentration`** *(đăng ký chuyên ngành chính / định hướng chuyên sâu)*:
+  - *"Students must officially declare their academic **[[Major]]** before completing their fourth **[[Semester]]**."*
+  - *(Sinh viên phải chính thức đăng ký chuyên ngành học thuật của mình trước khi hoàn thành học kỳ thứ tư.)*
+- **`fulfill prerequisite requirements / elective course`** *(hoàn thành môn học tiên quyết / môn học tự chọn)*:
+  - *"Completing the calculus **[[Prerequisite]]** is compulsory before enrolling in any advanced physics **[[Elective]]**."*
+  - *(Hoàn thành môn tiên quyết giải tích là điều bắt buộc trước khi đăng ký bất kỳ môn tự chọn vật lý nâng cao nào.)*
+- **`maintain a high grade / official transcript`** *(duy trì điểm số cao / bảng điểm học tập chính thức)*:
+  - *"A stellar academic **[[Transcript]]** and a top **[[Grade]]** in core subjects unlock prestigious fellowships."*
+  - *(Bảng điểm học thuật xuất sắc và điểm số đứng đầu ở các môn cốt lõi mở ra những suất học bổng danh giá.)*
+
+#### 2. Phương pháp sư phạm & Nghiên cứu học thuật (Pedagogy, Dialectic & Praxis):
+- **`interdisciplinary curriculum / modern pedagogy`** *(chương trình đào tạo liên ngành / phương pháp sư phạm hiện đại)*:
+  - *"The university implemented an **[[Interdisciplinary]]** framework underpinned by progressive **[[Pedagogy]]**."*
+  - *(Trường đại học đã triển khai một khung chương trình liên ngành được củng cố bởi phương pháp sư phạm tiến bộ.)*
+- **`bridge theory and praxis / heuristic problem-solving`** *(kết nối lý thuyết và thực tiễn / giải quyết vấn đề theo phương pháp tìm tòi)*:
+  - *"The engineering workshop encouraged students to translate abstract equations into functional **[[Praxis]]** through a **[[Heuristic]]** approach."*
+  - *(Xưởng thực hành kỹ thuật khuyến khích sinh viên chuyển hóa các phương trình trừu tượng thành thực tiễn vận hành thông qua phương pháp tìm tòi.)*
+- **`defend a thesis / complete a doctoral dissertation`** *(bảo vệ luận văn tốt nghiệp / hoàn thành luận án tiến sĩ)*:
+  - *"After months of rigorous analysis, she successfully defended her graduation **[[Thesis]]** before the faculty."*
+  - *(Sau nhiều tháng phân tích nghiêm cẩn, cô đã bảo vệ thành công khóa luận tốt nghiệp của mình trước hội đồng khoa.)*
+
+#### 3. Đời sống học đường & Phát triển sự nghiệp (Campus Life, Mentorship & Internships):
+- **`win a scholarship / competitive enrollment`** *(giành học bổng danh giá / tuyển sinh cạnh tranh)*:
+  - *"High academic merit enabled the talented **[[Undergraduate]]** to secure a fully funded merit **[[Scholarship]]**."*
+  - *(Thành tích học tập xuất sắc đã giúp sinh viên đại học tài năng giành được suất học bổng toàn phần.)*
+- **`land a summer internship / hands-on experience`** *(nhận được suất thực tập mùa hè / trải nghiệm thực tế)*:
+  - *"Completing a professional **[[Internship]]** on **[[Campus]]** prepares students for the corporate sector."*
+  - *(Hoàn thành một kỳ thực tập chuyên nghiệp ngay trong khuôn viên trường giúp chuẩn bị hành trang cho sinh viên bước vào khối doanh nghiệp.)*
+- **`take a faculty sabbatical / scholarly research`** *(kỳ nghỉ học thuật của giảng viên / nghiên cứu học thuật)*:
+  - *"The senior professor took a year-long **[[Sabbatical]]** to finalize his groundbreaking manuscript on ancient **[[Epistemology]]**."*
+  - *(Vị giáo sư kỳ cựu đã dành một năm nghỉ học thuật để hoàn thiện bản thảo đột phá của mình về nhận thức luận cổ đại.)*

@@ -96,7 +96,7 @@ ightarrow$ bắt buộc phải nhập khẩu lương thực để sống sót.
     - *Bất lợi 2:* Hạn chế sự đa dạng ẩm thực của người dân (mất cơ hội thưởng thức đặc sản ngoại nhập, hoa quả nhiệt đới vào mùa đông).
   - **Body 2 (Lợi ích vượt trội về môi trường và kinh tế - Trọng tâm):**
     - *Lợi ích môi trường:* Cắt giảm "food miles" (dặm thực phẩm), loại bỏ nhu cầu tiêu thụ nhiên liệu hóa thạch khổng lồ từ máy bay chở hàng, tàu biển và xe đông lạnh $
-ightarrow$ giảm lượng phát thải $	ext{CO}_2$ độc hại.
+ightarrow$ giảm lượng phát thải $\text{CO}_2$ độc hại.
     - *Lợi ích kinh tế:* Giảm chi phí trung gian (middlemen fees), phí bảo quản lạnh và thuế nhập khẩu $
 ightarrow$ giá cả thực phẩm hợp lý hơn, đồng thời trực tiếp luân chuyển dòng tiền nuôi sống nông dân và cộng đồng bản địa thay vì các tập đoàn vận tải đa quốc gia.
   - **Conclusion (2 câu):** Tóm lược hai mặt và khẳng định lại rằng lợi ích về môi trường và kinh tế hoàn toàn áp đảo những bất tiện về tính đa dạng ẩm thực.

@@ -108,3 +108,78 @@ A skilled [[Detective]] arrived at the dark room to investigate a heinous [[Crim
 
 ### Bản dịch Tiếng Việt
 Một **thám tử** lành nghề đã đến căn phòng tối để điều tra một **vụ án** ghê tởm. Làm việc cùng với đội ngũ **pháp y**, họ khám xét thi thể của **nạn nhân**. Đầu tiên, họ phun chất **luminol**, chất này làm lộ ra một vệt máu phát sáng màu xanh lam dẫn ra cửa sổ. Ngoài chứng cứ ẩn giấu này, họ đã cẩn thận thu thập một **dấu vân tay** rõ nét từ một chiếc ly thủy tinh và lấy các mẫu **ADN**. Cả đội đeo găng tay để đảm bảo họ không làm **nhiễm bẩn** bất kỳ manh mối vật lý nào. Mỗi đồ vật đơn lẻ đều được ghi lại tỉ mỉ để duy trì một **chuỗi kiểm soát bằng chứng** nghiêm ngặt. Sau đó trong **phòng thí nghiệm**, các nhà khoa học đã phân tích dữ liệu để **xác nhận** bằng chứng ngoại phạm của **nghi phạm** ban đầu, cuối cùng giúp **minh oan** cho họ. Nhờ công việc khoa học nghiêm ngặt này, các nhà điều tra cuối cùng đã có thể xác định được **thủ phạm** thực sự và mang lại công lý cho gia đình nạn nhân.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Khám nghiệm hiện trường vụ án và bảo quản chuỗi hành trình chứng cứ (Crime Scene Investigation and Chain of Custody Protocol)
+> **Bối cảnh thực tế:** Đội giám định pháp y và thám tử điều tra phong tỏa hiện trường một vụ án mạng kín trong căn hộ, cẩn thận thu thập dấu vết tiềm ẩn mà không làm nhiễm bẩn vật chứng.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Detective:** What do we have so far, Dr. Angela? Has anyone found any tangible **[[Clue]]** regarding the intruder?
+  *(Cho đến nay chúng ta có được những gì rồi, Tiến sĩ Angela? Đã có ai tìm thấy bất kỳ manh mối hữu hình nào liên quan đến kẻ đột nhập chưa?)*
+- **Dr. Angela:** We sprayed **[[Luminol]]** across the living room carpet. A chemiluminescent blue glow revealed wiped blood patterns leading toward the balcony.
+  *(Chúng tôi đã phun dung dịch luminol khắp thảm phòng khách. Ánh sáng phát quang hóa học màu xanh lam đã làm lộ ra các vết máu bị lau chùi dẫn về phía ban công.)*
+- **Detective:** Excellent. Did the perpetrator leave behind any **[[Latent]]** ridge impressions on the doorframe?
+  *(Tuyệt vời. Hung thủ có để lại dấu vân tay tiềm ẩn nào trên khung cửa không?)*
+- **Dr. Angela:** Yes, using magnetic powder, we lifted a pristine **[[Fingerprint]]** off the brass doorknob. We must ensure nothing will **[[Contaminate]]** the specimen.
+  *(Có, sử dụng bột từ tính, chúng tôi đã thu được một dấu vân tay nguyên vẹn từ nắm đấm cửa bằng đồng. Chúng ta phải đảm bảo không có gì làm nhiễm bẩn mẫu vật.)*
+- **Detective:** Absolutely. Document every single item meticulously to maintain an unbroken **[[Chain of custody]]** for the prosecution.
+  *(Chắc chắn rồi. Hãy lập biên bản tỉ mỉ từng đồ vật đơn lẻ để duy trì chuỗi bảo quản chứng cứ nguyên vẹn phục vụ bên công tố.)*
+- **Dr. Angela:** The bagged items are sealed and labeled. Our forensic **[[Lab]]** will extract nuclear **[[DNA]]** immediately to identify the **[[Suspect]]**.
+  *(Các vật phẩm đã được đóng túi, niêm phong và dán nhãn. Phòng thí nghiệm pháp y của chúng tôi sẽ trích xuất DNA nhân ngay lập tức để nhận diện kẻ tình nghi.)*
+
+---
+
+### 🌟 Tình huống 2: Giám định pháp y, xét nghiệm độc chất và đối chiếu đường đạn (Forensic Autopsy, Toxicology & Ballistics Reconstruction)
+> **Bối cảnh thực tế:** Trong phòng mổ tử thi, bác sĩ pháp y và chuyên gia phân tích đường đạn đối chiếu vết thương đạn bắn với khẩu súng tang vật thu giữ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Medical Examiner:** I am beginning the **[[Postmortem]]** examination. The external inspection of the **[[Victim]]** reveals powder **[[Stippling]]** around the thoracic entry wound.
+  *(Tôi đang bắt đầu cuộc khám nghiệm tử thi. Việc kiểm tra bên ngoài của nạn nhân cho thấy hiện tượng xăm khói thuốc súng xung quanh vết thương đạn xuyên ngực.)*
+- **Ballistics Specialist:** That close-range tattooing confirms the firearm was discharged within two feet. Did you recover the spent projectile during the **[[Autopsy]]**?
+  *(Vết tích cự ly gần đó xác nhận vũ khí đã được phát hỏa trong phạm vi hai bộ. Bác sĩ có thu hồi được đầu đạn bắn ra trong quá trình mổ tử thi không?)*
+- **Medical Examiner:** Here it is. The slug is largely intact. I also drew femoral blood samples for comprehensive **[[Toxicology]]** screening to detect potential **[[Poison]]**.
+  *(Nó đây. Đầu đạn phần lớn còn nguyên vẹn. Tôi cũng đã lấy các mẫu máu đùi để sàng lọc độc chất học toàn diện nhằm phát hiện chất độc tiềm ẩn.)*
+- **Ballistics Specialist:** Under the comparison microscope, the rifling striations on this bullet match the seized **[[Weapon]]** precisely. We can reconstruct the exact **[[Ballistic trajectory]]**.
+  *(Dưới kính hiển vi so sánh, các vết khương tuyến trên viên đạn này khớp chính xác với khẩu vũ khí bị thu giữ. Chúng ta có thể dựng lại chính xác quỹ đạo đường đạn.)*
+- **Medical Examiner:** These physical findings will conclusively **[[Corroborate]]** the eyewitness **[[Testimony]]** and refute the defendant's fabricated **[[Alibi]]**.
+  *(Những phát hiện vật chất này sẽ chứng thực thuyết phục lời khai của nhân chứng và bác bỏ bằng chứng ngoại phạm bịa đặt của bị cáo.)*
+- **Ballistics Specialist:** Indeed. This conclusive scientific **[[Evidence]]** will be decisive in proving criminal guilt during the upcoming **[[Trial]]**.
+  *(Thật vậy. Bằng chứng khoa học kết luận này sẽ mang tính quyết định trong việc chứng minh tội danh hình sự trong phiên tòa sắp tới.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Thu thập dấu vết hiện trường & Bảo quản bằng chứng (Crime Scene Processing & Evidence Preservation):
+- **`preserve chain of custody`** *(bảo quản chuỗi hành trình chứng cứ)*:
+  - *"Investigators must strictly sign every transfer log to preserve the legal **[[Chain of custody]]** for court."*
+  - *(Các điều tra viên phải ký nghiêm ngặt từng nhật ký chuyển giao để bảo quản chuỗi hành trình chứng cứ hợp pháp trước tòa.)*
+- **`lift a latent fingerprint`** *(thu lượm dấu vân tay tiềm ẩn)*:
+  - *"The technician used cyanoacrylate fuming to develop and lift a sharp **[[Latent]]** **[[Fingerprint]]** from the glass surface."*
+  - *(Kỹ thuật viên đã dùng phương pháp hun khói cyanoacrylate để làm hiện và thu lượm một dấu vân tay tiềm ẩn sắc nét từ bề mặt kính.)*
+- **`luminol presumptive test`** *(xét nghiệm sơ bộ bằng dung dịch luminol)*:
+  - *"Applying a **[[Presumptive test]]** like **[[Luminol]]** reveals trace hemoglobin unseen under ordinary light."*
+  - *(Việc áp dụng một xét nghiệm sơ bộ như dung dịch luminol sẽ làm lộ ra dấu vết hemoglobin không thể nhìn thấy dưới ánh sáng thường.)*
+
+#### 2. Giám định sinh học & Y pháp học (Biological & Medico-Legal Analysis):
+- **`conduct a postmortem autopsy`** *(tiến hành giải phẫu tử thi)*:
+  - *"The chief pathologist performed a detailed **[[Postmortem]]** **[[Autopsy]]** to determine the exact cause of death."*
+  - *(Vị trưởng khoa giải phẫu bệnh đã thực hiện một cuộc giải phẫu tử thi chi tiết để xác định nguyên nhân tử vong chính xác.)*
+- **`toxicology screening test`** *(xét nghiệm sàng lọc độc chất học)*:
+  - *"Blood samples were rushed to the forensic **[[Lab]]** for comprehensive **[[Toxicology]]** analysis to identify lethal substances."*
+  - *(Các mẫu máu đã được chuyển gấp tới phòng thí nghiệm pháp y để phân tích độc chất học toàn diện nhằm nhận diện các chất gây tử vong.)*
+- **`dna phenotyping profile`** *(hồ sơ kiểu hình DNA)*:
+  - *"Advanced **[[Phenotyping]]** algorithms enable criminologists to reconstruct physical appearance directly from a **[[DNA]]** sample."*
+  - *(Các thuật toán phục dựng kiểu hình tiên tiến cho phép các nhà tội phạm học tái hiện diện mạo thể chất trực tiếp từ mẫu DNA.)*
+
+#### 3. Phân tích đường đạn & Thủ tục xét xử trước tòa (Ballistics, Alibi Verification & Courtroom Proceedings):
+- **`ballistic trajectory analysis`** *(phân tích quỹ đạo đường đạn)*:
+  - *"Laser trajectory rods helped experts calculate the exact **[[Ballistic trajectory]]** and angle of the fatal gunshot."*
+  - *(Các thanh đo quỹ đạo laser đã giúp các chuyên gia tính toán chính xác quỹ đạo đường đạn và góc bắn của phát súng chí mạng.)*
+- **`corroborate an alibi`** *(chứng thực lời khai ngoại phạm)*:
+  - *"Surveillance camera footage helped the defense **[[Corroborate]]** the key suspect's claimed **[[Alibi]]**."*
+  - *(Hình ảnh ghi lại từ camera giám sát đã giúp bên bào chữa chứng thực bằng chứng ngoại phạm mà nghi can chủ chốt đưa ra.)*
+- **`incriminating forensic evidence`** *(bằng chứng pháp y buộc tội)*:
+  - *"Overwhelming scientific proof presented during the **[[Trial]]** served to **[[Incriminate]]** the callous **[[Perpetrator]]**."*
+  - *(Bằng chứng khoa học áp đảo được trình bày trong phiên tòa đã góp phần buộc tội kẻ thủ ác nhẫn tâm.)*

@@ -124,3 +124,75 @@ When Emily decided to update her [[wardrobe]], she bypassed the mass-market stor
 
 ### Bản dịch Tiếng Việt
 Khi Emily quyết định cập nhật **tủ đồ** của mình, cô đã bỏ qua các cửa hàng bán hàng loạt và ghé thăm một **cửa hàng thời trang** tại địa phương. Cô muốn thay thế những bộ quần áo **bình thường** cũ kỹ của mình bằng thứ gì đó **sang trọng** và **hợp mốt** hơn. Bên trong, cô bị thu hút bởi một **y phục** **tinh tế** treo gần cửa sổ. Người **thợ may** giải thích rằng đó là một chiếc áo khoác **thiết kế riêng**, làm từ chất liệu **vải** chất lượng cao giúp tôn lên **phom dáng** của cô một cách tuyệt đẹp. Emily mặc thử nó, và độ vừa vặn thật **hoàn hảo**. Để hoàn thiện **bộ trang phục**, cô chọn một **phụ kiện** đơn giản—một chiếc khăn lụa. Cô rời cửa hàng với sự tự tin, biết rằng mình đã tìm thấy một phong cách thực sự độc đáo cho riêng mình, khác xa với những món đồ thông thường mà cô thường mặc.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đặt may bộ com-lê cao cấp tại tiệm may đo thủ công (Tailoring a Bespoke Suit at an Exclusive Atelier)
+> **Bối cảnh thực tế:** Một khách hàng ghé thăm xưởng may lâu đời để đặt may một bộ âu phục cao cấp cho lễ cưới, trao đổi với thợ may về chất liệu vải len, ve áo, đường cắt may và độ vừa vặn hoàn hảo.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Master Harrison (Tailor):** Welcome, Vincent! For your wedding **[[Attire]]**, are you looking for a ready-to-wear **[[Garment]]** or a true **[[Bespoke]]** three-piece **[[Suit]]**?
+  *(Chào mừng quý khách, Vincent! Đối với y phục lễ cưới của mình, anh đang tìm kiếm một bộ trang phục may sẵn hay một bộ âu phục ba mảnh đặt may đo riêng độc bản?)*
+- **Vincent:** Definitely a bespoke suit. I want an **[[Impeccable]]** fit that flatters my **[[Silhouette]]** without feeling stiff or uncomfortable.
+  *(Chắc chắn là may đo riêng rồi ạ. Tôi muốn một độ vừa vặn hoàn hảo không tì vết giúp tôn lên phom dáng của mình mà không hề bị gò bó hay khó chịu.)*
+- **Master Harrison:** Excellent. I recommend this fine Italian **[[Wool]]** blended with a hint of **[[Silk]]**. The **[[Fabric]]** breathes wonderfully and has an understated, luxurious drape.
+  *(Tuyệt vời. Tôi gợi ý loại len thượng hạng của Ý pha một chút sợi tơ tằm này. Chất liệu vải này thoáng khí tuyệt vời và có độ rủ sang trọng, tinh tế.)*
+- **Vincent:** The texture feels exceptionally soft. Could we design the jacket with a peaked **[[Collar]]**, genuine horn **[[Button|buttons]]**, and deep interior **[[Pocket|pockets]]**?
+  *(Bề mặt vải chạm vào thấy mịn màng vô cùng. Chúng ta có thể thiết kế chiếc áo khoác với cổ áo ve xếch, cúc áo bằng sừng tự nhiên và các túi áo bên trong may sâu rộng không bác?)*
+- **Master Harrison:** Absolutely. We will also taper the **[[Trousers]]** neatly down to your oxfords. Once finished, this **[[Formal]]** ensemble will look effortlessly **[[Elegant]]** and regal.
+  *(Chắc chắn rồi. Chúng tôi cũng sẽ bóp thon chiếc quần tây vừa vặn trang nhã chạm tới đôi giày da của anh. Khi hoàn thiện, bộ âu phục trang trọng này trông sẽ thanh lịch tự nhiên và vô cùng vương giả.)*
+- **Vincent:** Thank you, Master Harrison! I look forward to the first fitting session next week.
+  *(Cảm ơn bác thợ may Harrison! Tôi rất mong chờ buổi thử đồ đầu tiên vào tuần tới.)*
+
+---
+
+### 🌟 Tình huống 2: Lựa chọn trang phục dạo phố cuối tuần tại cửa hiệu thời trang vintage (Shopping for Casual Streetwear at a Vintage Boutique)
+> **Bối cảnh thực tế:** Hai người bạn dạo quanh các cửa hàng quần áo cổ điển, cùng nhau phối một bộ đồ dạo phố năng động kết hợp giữa áo khoác denim, áo len và giày thể thao.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Clara:** Amber, look at this vintage leather **[[Jacket]]** hanging on the rack! The worn patina gives it so much character.
+  *(Amber, hãy nhìn chiếc áo khoác da cổ điển treo trên giá này xem! Lớp bóng mờ theo thời gian mang lại cho nó nét cá tính độc đáo thật đấy.)*
+- **Amber:** Wow, Clara! That piece is stunning. It’s far from being **[[Shabby]]** or **[[Threadbare]]**—the leather is still robust and supple.
+  *(Oa, Clara! Món đồ đó đẹp quá. Nó khác xa sự sờn cũ hay rách rưới—chất da vẫn còn rất đanh và mềm mại.)*
+- **Clara:** How would you style it for a chilly autumn afternoon?
+  *(Cậu sẽ phối món này như thế nào cho một buổi chiều mùa thu se lạnh?)*
+- **Amber:** I would layer it over a cream knit **[[Sweater]]** or a cozy **[[Hoodie]]**, paired with straight-leg **[[Denim]]** **[[Jeans]]**.
+  *(Tớ sẽ mặc nhiều lớp phủ ngoài một chiếc áo len dệt kim màu kem hoặc một chiếc áo nỉ có mũ ấm áp, phối cùng chiếc quần bò denim ống đứng.)*
+- **Clara:** That sounds both **[[Comfortable]]** and undeniably **[[Trendy]]**! What about footwear and an **[[Accessory]]**?
+  *(Cách phối đó nghe vừa thoải mái vừa vô cùng hợp mốt thời thượng! Còn về giày dép và phụ kiện thì sao?)*
+- **Amber:** Slip into clean white **[[Sneaker|sneakers]]**, wrap a plaid wool **[[Scarf]]** around your neck, and you have a complete **[[Outfit]]** that exudes effortless street **[[Chic]]**!
+  *(Hãy xỏ vào đôi giày thể thao trắng tinh tươm, quàng thêm chiếc khăn len kẻ ca-rô quanh cổ, là cậu đã có một bộ trang phục hoàn chỉnh toát lên vẻ sành điệu đường phố đầy tự nhiên rồi!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về may đo cao cấp & Độ vừa vặn:
+- **`bespoke tailoring`** *(nghệ thuật may đo riêng độc bản)*:
+  - *"High-end executives rely on **[[Bespoke]]** tailoring to achieve an **[[Impeccable]]** silhouette."*
+  - *(Các giám đốc điều hành cấp cao luôn tin tưởng vào kỹ thuật may đo riêng độc bản để có được phom dáng hoàn hảo không tì vết.)*
+- **`flattering silhouette`** *(phom dáng tôn lên đường nét vóc dáng)*:
+  - *"The A-line wool coat creates a remarkably flattering **[[Silhouette]]** for winter wear."*
+  - *(Chiếc áo khoác măng tô len dáng chữ A tạo nên phom dáng tôn đường nét vóc dáng tuyệt đẹp cho mùa đông.)*
+- **`luxurious fabric and drape`** *(chất liệu vải và độ rủ sang trọng)*:
+  - *"The evening gown was handcrafted from pure mulberry **[[Silk]]** and delicate lace."*
+  - *(Chiếc đầm dạ hội được may thủ công từ lụa tơ tằm nguyên chất và chất liệu ren tinh tế.)*
+
+#### 2. Khi phối đồ thường ngày & Thời trang dạo phố:
+- **`casual streetwear outfit`** *(bộ trang phục đường phố thường ngày năng động)*:
+  - *"A heavy **[[Cotton]]** **[[T-shirt]]** paired with dark **[[Jeans]]** is the definitive staple of urban casual wear."*
+  - *(Một chiếc áo phông cotton dày dặn phối cùng quần bò tối màu là nền tảng kinh điển của phong cách thường ngày chốn đô thị.)*
+- **`layer an outfit`** *(mặc phối nhiều lớp trang phục thời trang)*:
+  - *"In transitional weather, it is smart to layer a light cardigan under a tailored **[[Overcoat]]**."*
+  - *(Trong thời tiết giao mùa, cách thông minh là mặc phối nhiều lớp với áo cardigan mỏng bên dưới chiếc áo khoác dài ngoài cùng.)*
+- **`effortless street chic`** *(vẻ sang trọng sành điệu đường phố tự nhiên)*:
+  - *"She accessorized her minimalist black **[[Dress]]** with chunky leather **[[Boot|boots]]** to achieve street **[[Chic]]**."*
+  - *(Cô phối phụ kiện cho chiếc váy đen tối giản của mình bằng đôi bốt da hầm hố để tạo nên vẻ sành điệu đường phố đầy cuốn hút.)*
+
+#### 3. Khi nhận xét về chất lượng & Tình trạng trang phục:
+- **`timeless vintage garment`** *(món y phục cổ điển vượt thời gian)*:
+  - *"Browsing through a curated **[[Boutique]]** often reveals a priceless **[[Vintage]]** designer **[[Garment]]**."*
+  - *(Dạo quanh một cửa hiệu thời trang tuyển chọn thường giúp bạn phát hiện ra món y phục đồ hiệu cổ điển vô giá.)*
+- **`threadbare and worn out`** *(sờn rách, mòn vẹt vì thời gian)*:
+  - *"After a decade of rigorous use, his favorite work jacket finally grew **[[Threadbare]]** at the elbows."*
+  - *(Sau một thập kỷ mặc lăn xả, chiếc áo khoác lao động yêu thích của anh cuối cùng cũng sờn mòn vẹt ở phần khuỷu tay.)*"

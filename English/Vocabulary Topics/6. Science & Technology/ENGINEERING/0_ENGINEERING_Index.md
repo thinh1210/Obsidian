@@ -108,3 +108,78 @@ To build the next generation of wind turbines, the engineering team began by ana
 
 ### Bản dịch Tiếng Việt
 Để chế tạo thế hệ tua-bin gió tiếp theo, nhóm kỹ sư bắt đầu bằng việc phân tích **bản vẽ thiết kế** chi tiết của cấu trúc. Họ đã chế tạo một **mẫu thử nghiệm** vật lý để kiểm tra xem từng **linh kiện** cơ khí sẽ hoạt động như thế nào trong thời tiết khắc nghiệt. Trong giai đoạn thiết kế, họ phải **tích hợp** một hệ thống điều khiển tiên tiến nhằm **tối ưu hóa** việc tạo ra năng lượng. Với **độ chính xác** cao, họ thực hiện việc **hiệu chuẩn** các cảm biến để đo **mô-men xoắn** và tốc độ gió. Bằng cách sử dụng **khí động học** tiên tiến, tua-bin có thể **tận dụng** cả những cơn gió nhẹ, giúp nâng cao đáng kể **hiệu suất** hoạt động của nó. Để đảm bảo **khả năng chống chịu** của hệ thống trước những sự cố lưới điện đột xuất, họ đã thiết kế một hệ thống **dự phòng an toàn** giúp ngăn ngừa hư hại. Họ cũng đặt mục tiêu **tự động hóa** quy trình **bảo trì** định kỳ, giảm thiểu nguy cơ **lỗi thời** sớm của máy móc.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thử nghiệm nguyên mẫu tuabin và tối ưu hóa mô-men xoắn (Turbine Prototype Stress Testing & Torque Optimization)
+> **Bối cảnh thực tế:** Trong phòng thí nghiệm thử nghiệm cơ khí nặng, hai kỹ sư đánh giá hiệu suất năng lượng và độ bền nhiệt của một cánh quạt tuabin thế hệ mới.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Marcus:** Let us initiate the stress test on this high-pressure **[[Turbine]]** **[[Prototype]]**. Has the strain sensor **[[Calibration]]** been verified?
+  *(Chúng ta hãy bắt đầu bài thử nghiệm chịu tải trên nguyên mẫu tuabin cao áp này. Việc hiệu chuẩn cảm biến độ biến dạng đã được xác minh chưa?)*
+- **Sarah:** Yes, Marcus. All digital instruments show perfect **[[Precision]]**. As we increase rotation, the engine delivers over four thousand Newton-meters of dynamic **[[Torque]]**.
+  *(Rồi, Marcus. Mọi thiết bị kỹ thuật số đều thể hiện độ chính xác hoàn hảo. Khi chúng ta tăng tốc độ quay, động cơ truyền hơn bốn nghìn Newton-mét mô-men xoắn động lực học.)*
+- **Marcus:** Monitor the thermal sensor closely. The laws of **[[Thermodynamics]]** dictate that excessive heat friction will reduce total mechanical **[[Efficiency]]**.
+  *(Hãy theo dõi chặt chẽ cảm biến nhiệt. Các định luật nhiệt động lực học chỉ ra rằng ma sát nhiệt quá mức sẽ làm giảm hiệu suất cơ học tổng thể.)*
+- **Sarah:** The internal cooling channel is functioning flawlessly. Every titanium alloy **[[Component]]** remains well below thermal fatigue limits.
+  *(Kênh làm mát bên trong đang vận hành không một lỗi lầm. Từng bộ phận hợp kim titan vẫn nằm dưới rất xa các giới hạn mỏi do nhiệt.)*
+- **Marcus:** Outstanding. Our latest engineering **[[Iteration]]** successfully eliminated the rotational vibration that plagued the previous **[[Design]]**.
+  *(Thật tuyệt vời. Bước lặp thiết kế kỹ thuật mới nhất của chúng ta đã loại bỏ thành công rung động quay từng gây khó khăn cho bản thiết kế trước đó.)*
+- **Sarah:** I will update the master engineering **[[Blueprint]]** so the factory floor can prepare for full-scale **[[Manufacture]]**.
+  *(Tôi sẽ cập nhật bản vẽ kỹ thuật tổng thể để phân xưởng nhà máy có thể chuẩn bị cho việc chế tạo sản xuất quy mô hoàn chỉnh.)*
+
+---
+
+### 🌟 Tình huống 2: Thiết kế kết cấu hạ tầng cầu đường và kiểm định độ bền chịu lực (Civil Infrastructure Design & Bridge Structural Resilience Review)
+> **Bối cảnh thực tế:** Nhóm kỹ sư xây dựng thảo luận về việc gia cố kết cấu bê tông cốt thép và hệ thống giảm chấn thủy lực cho một cây cầu dây văng vượt biển.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Liam:** We are finalizing the seismic defense plan for the suspension **[[Bridge]]**. The municipal **[[Infrastructure]]** department requires strict compliance with earthquake standards.
+  *(Chúng ta đang hoàn thiện kế hoạch chống chịu động đất cho cây cầu treo. Sở hạ tầng đô thị yêu cầu tuân thủ nghiêm ngặt các tiêu chuẩn kháng chấn.)*
+- **Clara:** We specified high-performance reinforced **[[Concrete]]** for each pylon. This material ensures long-term **[[Resilience]]** against maritime salt corrosion.
+  *(Chúng ta đã chỉ định loại bê tông cốt thép hiệu năng cao cho từng trụ tháp. Vật liệu này đảm bảo khả năng chống chịu bền vững lâu dài trước sự ăn mòn của muối biển.)*
+- **Liam:** What about wind-induced oscillation? Strong ocean gales can destabilize the deck **[[Structure]]** if aerodynamic flutter occurs.
+  *(Thế còn hiện tượng dao động do gió thì sao? Những cơn gió mạnh ngoài đại dương có thể làm mất ổn định kết cấu mặt cầu nếu hiện tượng rung giật khí động học xảy ra.)*
+- **Clara:** Heavy-duty fluid **[[Hydraulics]]** dampers are integrated into the support cables to absorb kinetic energy and stabilize the entire **[[System]]**.
+  *(Các bộ giảm chấn thủy lực chất lỏng hạng nặng được tích hợp vào các dây văng chịu lực để hấp thụ động năng và ổn định toàn bộ hệ thống.)*
+- **Liam:** We also engineered structural **[[Redundancy]]** into the load-bearing beams. Even if one cable snaps, neighboring cables instantly absorb the load.
+  *(Chúng ta cũng đã thiết kế dự phòng kết cấu vào các dầm chịu lực. Ngay cả khi một dây cáp bị đứt, các dây lân cận sẽ ngay lập tức gánh tải.)*
+- **Clara:** Excellent. Regular sensor monitoring will facilitate preventive **[[Maintenance]]** before any micro-fracture requires costly **[[Repair]]**.
+  *(Tuyệt vời. Việc giám sát cảm biến định kỳ sẽ tạo điều kiện thuận lợi cho công tác bảo trì phòng ngừa trước khi bất kỳ vết nứt vi mô nào đòi hỏi việc sửa chữa tốn kém.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi thử nghiệm cơ khí & Hiệu chuẩn thiết bị (Mechanical Testing & System Calibration):
+- **`prototype iteration and design`** *(bước lặp và thiết kế nguyên mẫu)*:
+  - *"Through rapid **[[Prototype]]** testing, engineers can refine their initial **[[Design]]** before mass production."*
+  - *(Thông qua việc thử nghiệm nguyên mẫu nhanh chóng, các kỹ sư có thể hoàn thiện thiết kế ban đầu trước khi sản xuất hàng loạt.)*
+- **`torque and mechanical efficiency`** *(mô-men xoắn và hiệu suất cơ học)*:
+  - *"Upgrading the reduction **[[Gear]]** mechanism maximizes output **[[Torque]]** while preserving energy **[[Efficiency]]**."*
+  - *(Việc nâng cấp cơ cấu bánh răng giảm tốc giúp tối đa hóa mô-men xoắn đầu ra trong khi vẫn bảo toàn hiệu suất năng lượng.)*
+- **`precision instrument calibration`** *(hiệu chuẩn dụng cụ chính xác)*:
+  - *"Technicians perform routine **[[Calibration]]** on every digital **[[Tool]]** to maintain millimeter-level **[[Precision]]**."*
+  - *(Kỹ thuật viên thực hiện hiệu chuẩn định kỳ trên mọi công cụ kỹ thuật số để duy trì độ chính xác đến từng milimét.)*
+
+#### 2. Về kết cấu công trình & Khả năng chống chịu (Structural Integrity & Infrastructure Resilience):
+- **`reinforced concrete structure`** *(kết cấu bê tông cốt thép)*:
+  - *"Civil contractors use prestressed **[[Concrete]]** to **[[Construct]]** a resilient load-bearing **[[Structure]]**."*
+  - *(Các nhà thầu xây dựng dân dụng sử dụng bê tông dự ứng lực để xây dựng một kết cấu chịu lực kiên cố.)*
+- **`critical infrastructure resilience`** *(khả năng phục hồi của hạ tầng trọng yếu)*:
+  - *"Modern transportation **[[Infrastructure]]** requires built-in seismic **[[Resilience]]** against natural disasters."*
+  - *(Hạ tầng giao thông hiện đại đòi hỏi khả năng chống chịu địa chấn tích hợp để chống lại thiên tai.)*
+- **`scheduled preventive maintenance`** *(bảo dưỡng phòng ngừa định kỳ)*:
+  - *"Conducting scheduled **[[Maintenance]]** along the transcontinental oil **[[Pipeline]]** prevents catastrophic leakage."*
+  - *(Tiến hành bảo trì phòng ngừa theo lịch trình dọc đường ống dẫn dầu xuyên lục địa giúp ngăn ngừa các sự cố rò rỉ thảm khốc.)*
+
+#### 3. Tối ưu hóa hệ thống & Tiêu chuẩn kỹ thuật (System Optimization & Safety Engineering):
+- **`built-in system redundancy`** *(tính dự phòng tích hợp của hệ thống)*:
+  - *"Aerospace avionics require triple **[[Redundancy]]** so that backup circuits automatically **[[Automate]]** failover protocols."*
+  - *(Hệ thống điện tử hàng không vũ trụ đòi hỏi dự phòng ba cấp để các mạch dự phòng tự động chuyển đổi khi có sự cố.)*
+- **`advance metallurgy and materials`** *(luyện kim tiên tiến và vật liệu học)*:
+  - *"Innovations in powder **[[Metallurgy]]** allow engineers to cast ultra-strong **[[Metal]]** alloys for jet engines."*
+  - *(Những đổi mới trong công nghệ luyện kim bột cho phép các kỹ sư đúc các hợp kim kim loại siêu bền cho động cơ phản lực.)*
+- **`laws of thermodynamics`** *(các định luật nhiệt động lực học)*:
+  - *"Every thermal power **[[Generator]]** is bounded by the strict fundamental laws of **[[Thermodynamics]]**."*
+  - *(Mọi máy phát nhiệt điện đều bị ràng buộc bởi các định luật cơ bản nghiêm ngặt của nhiệt động lực học.)*

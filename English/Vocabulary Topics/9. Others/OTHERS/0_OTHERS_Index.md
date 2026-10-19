@@ -101,3 +101,78 @@ The study of modern art often reveals a fascinating **[[Paradox]]** where the **
 
 ### Bản dịch Tiếng Việt
 Việc nghiên cứu nghệ thuật hiện đại thường hé lộ một **nghịch lý** thú vị khi **sự phổ biến rộng khắp** của truyền thông kỹ thuật số cùng tồn tại với tính chất **phù du** của các triển lãm vật lý. Người xem được cung cấp **quá nhiều** lựa chọn, nhưng mỗi **lựa chọn thay thế** dường như đều thiếu đi **thực chất** thực sự của các kiệt tác truyền thống. Việc xem xét kỹ lưỡng một **mảnh vỡ** duy nhất của một bức tượng điêu khắc cho thấy một **sự bất thường** độc đáo trong kết cấu của nó, vốn là **hình mẫu tiêu biểu** của thiết kế cổ điển. Mỗi **sắc thái tinh tế** nhỏ trong nét chạm khắc đều đại diện cho một **vết tích** của một triết lý cổ xưa. Cuối cùng, việc thấu hiểu **khái niệm** nghệ thuật này nằm ở việc nhận ra **sự hữu ích** của nghệ thuật như một tấm gương phản chiếu thế giới không ngừng thay đổi của chúng ta.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tranh biện học thuật & Đánh giá triết lý khoa học (Academic Debate & Philosophical Inquiry)
+> **Bối cảnh thực tế:** Hai nghiên cứu sinh tiến sĩ đang thảo luận về phương pháp luận nghiên cứu và phân tích nghịch lý giữa lý thuyết trừu tượng với các phát hiện thực nghiệm trong một hội thảo khoa học.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Julian:** Clara, in your recent symposium paper, you propose a bold departure from the established scientific **[[Paradigm]]**.
+  *(Clara, trong bài tham luận hội thảo gần đây của cậu, cậu đề xuất một bước chuyển dịch táo bạo tách khỏi hệ hình khoa học đã được xác lập.)*
+- **Clara:** Indeed. The prevailing theoretical framework contains a glaring **[[Paradox]]** that existing empirical models fail to reconcile.
+  *(Quả thực vậy. Khung lý thuyết hiện hành chứa đựng một nghịch lý rõ rệt mà các mô hình thực nghiệm hiện tại không thể dung hòa.)*
+- **Julian:** But doesn't discarding that foundational **[[Concept]]** introduce unwanted **[[Ambiguity]]** into our overall analysis?
+  *(Nhưng việc loại bỏ khái niệm nền tảng đó chẳng phải sẽ đưa thêm sự mơ hồ không mong muốn vào phân tích tổng thể của chúng ta sao?)*
+- **Clara:** Not if we scrutinize every subtle **[[Nuance]]** of the observations. What previous researchers dismissed as a statistical **[[Anomaly]]** or random **[[Aberration]]** is actually a profound new **[[Dimension]]** of the phenomenon.
+  *(Sẽ không như vậy nếu chúng ta xem xét kỹ lưỡng từng sắc thái tinh tế của các quan sát. Thứ mà các nhà nghiên cứu trước đây gạt bỏ như một sự bất thường thống kê hay một sai lệch ngẫu nhiên thực chất lại là một chiều hướng sâu sắc mới của hiện tượng.)*
+- **Julian:** That is a compelling argument. It comprehensively addresses every vital **[[Facet]]** and offers a coherent **[[Alternative]]** with genuine academic **[[Substance]]**.
+  *(Đó là một lập luận đầy thuyết phục. Nó giải quyết toàn diện mọi khía cạnh quan trọng và đưa ra một phương án thay thế mạch lạc với thực chất học thuật thực sự.)*
+- **Clara:** Exactly. Our primary academic mission is to distill the true **[[Quintessence]]** of the theory rather than focusing on peripheral details.
+  *(Chính xác. Sứ mệnh học thuật chủ yếu của chúng ta là chắt lọc ra tinh hoa thực sự của lý thuyết hơn là tập trung vào các chi tiết ngoài rìa.)*
+
+---
+
+### 🌟 Tình huống 2: Quản lý sắp xếp đồ đạc & Hậu cần chuyển văn phòng (Office Relocation & Inventory Logistics)
+> **Bối cảnh thực tế:** Hai nhân viên điều phối đang phân loại hồ sơ tài liệu, lập danh mục kiểm kê và đóng gói đồ đạc chuẩn bị cho đợt chuyển trụ sở văn phòng mới.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Oliver:** Maya, here is the master **[[List]]** of all office assets. We must categorize every single **[[Item]]** before the moving company arrives.
+  *(Maya, đây là danh sách tổng hợp toàn bộ tài sản văn phòng. Chúng ta phải phân loại từng món đồ một trước khi công ty vận chuyển đến.)*
+- **Maya:** Great. Let's sort the cartons by functional **[[Category]]**—labeling technological hardware, administrative archives, and promotional merchandise separately.
+  *(Tuyệt vời. Chúng ta hãy phân loại các thùng carton theo từng nhóm danh mục chức năng—dán nhãn riêng cho phần cứng công nghệ, lưu trữ hành chính và sản phẩm quảng bá.)*
+- **Oliver:** Good idea. Pack the fragile monitors into this padded cardboard **[[Box]]**, and affix an identification **[[Ticket]]** on the outside of every container.
+  *(Ý kiến hay. Hãy đóng gói các màn hình dễ vỡ vào thùng carton có đệm lót này, và dán một phiếu nhận diện bên ngoài mỗi thùng chứa.)*
+- **Maya:** What should we do with all this miscellaneous **[[Stuff]]** and leftover stationery scattered across the communal area?
+  *(Chúng ta nên làm gì với toàn bộ những thứ đồ linh tinh và văn phòng phẩm thừa nằm rải rác khắp khu vực sinh hoạt chung này?)*
+- **Oliver:** Inspect each **[[Object]]** carefully. If it has demonstrable **[[Utility]]**, pack it into the designated supply **[[Section]]**; if it is completely **[[Superfluous]]**, let's recycle it.
+  *(Hãy kiểm tra từng đồ vật cẩn thận. Nếu nó có tính hữu dụng rõ ràng, hãy đóng gói vào phần khu vực lưu trữ quy định; nếu nó hoàn toàn dư thừa, chúng ta hãy đem đi tái chế.)*
+- **Maya:** That will eliminate a substantial **[[Portion]]** of unnecessary baggage and ensure each operational **[[Segment]]** gets its essential gear promptly.
+  *(Làm như vậy sẽ loại bỏ được một phần đáng kể hành lý không cần thiết và đảm bảo mỗi bộ phận vận hành nhận được đồ dùng thiết yếu nhanh chóng.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khái niệm trừu tượng & Tư duy phản biện (Abstract Concepts & Critical Thinking):
+- **`shift in paradigm / paradigm shift`** *(bước chuyển dịch hệ hình tư duy)*:
+  - *"The rapid rise of machine learning marks a transformative **[[Paradigm]]** shift across modern engineering."*
+  - *(Sự trỗi dậy nhanh chóng của học máy đánh dấu một bước chuyển dịch hệ hình mang tính biến đổi trong kỹ thuật hiện đại.)*
+- **`subtle nuance`** *(sắc thái tinh tế, khác biệt nhỏ)*:
+  - *"An experienced literary translator captures every emotional **[[Nuance]]** within the original prose."*
+  - *(Một dịch giả văn học giàu kinh nghiệm nắm bắt được từng sắc thái cảm xúc tinh tế bên trong áng văn gốc.)*
+- **`an apparent paradox`** *(một nghịch lý hiển nhiên)*:
+  - *"It is an intriguing **[[Paradox]]** that hyper-connectivity through social platforms often amplifies personal loneliness."*
+  - *(Đó là một nghịch lý thú vị khi sự siêu kết nối qua các nền tảng mạng xã hội thường lại khuếch đại sự cô đơn cá nhân.)*
+
+#### 2. Phân loại & Tổ chức thông tin (Classification & Information Organization):
+- **`fall into a category`** *(thuộc về một nhóm / hạng mục)*:
+  - *"Customer inquiries naturally fall into the critical priority **[[Category]]** for immediate resolution."*
+  - *(Các yêu cầu thắc mắc của khách hàng đương nhiên thuộc vào nhóm ưu tiên thiết yếu để xử lý ngay lập tức.)*
+- **`compile a comprehensive list`** *(lập một danh sách toàn diện)*:
+  - *"The research team compiled a structured **[[List]]** detailing each project milestone."*
+  - *(Nhóm nghiên cứu đã lập một danh sách có cấu trúc chi tiết hóa từng cột mốc của dự án.)*
+- **`a plethora of choices`** *(vô số sự lựa chọn phong phú)*:
+  - *"Modern consumers navigate a vast **[[Plethora]]** of digital streaming options and entertainment subscriptions."*
+  - *(Người tiêu dùng hiện đại phải điều hướng giữa vô số lựa chọn phát trực tuyến kỹ thuật số và gói đăng ký giải trí phong phú.)*
+
+#### 3. Bản chất & Đặc trưng cốt lõi (Core Essence & Attributes):
+- **`the quintessence of`** *(tinh hoa, mẫu mực tiêu biểu của)*:
+  - *"His timeless architectural creations capture the very **[[Quintessence]]** of minimalist elegance."*
+  - *(Các sáng tạo kiến trúc vượt thời gian của ông nắm bắt được trọn vẹn tinh hoa của nét thanh lịch tối giản.)*
+- **`practical utility`** *(tính hữu dụng thực tế)*:
+  - *"Industrial designers prioritize both aesthetic beauty and everyday practical **[[Utility]]**."*
+  - *(Các nhà thiết kế công nghiệp ưu tiên cả vẻ đẹp thẩm mỹ lẫn tính hữu dụng thực tế hàng ngày.)*
+- **`a lasting vestige`** *(vết tích, tàn dư còn sót lại)*:
+  - *"The weathered stone fortress remains an imposing **[[Vestige]]** of medieval civilization."*
+  - *(Pháo đài đá dãi dầu sương gió vẫn là một tàn dư uy nghi của nền văn minh thời trung cổ.)*

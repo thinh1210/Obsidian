@@ -108,3 +108,78 @@ In the digital age, many users find themselves trapped in a constant **[[Dopamin
 
 ### Bản dịch Tiếng Việt
 Trong thời đại kỹ thuật số, nhiều người dùng thấy mình bị bẫy trong một **vòng lặp dopamine** liên tục khi họ tải lại **bảng tin** mạng xã hội của mình hàng giờ liền. Tôi đã từng ngưỡng mộ một **người có sức ảnh hưởng** nổi tiếng cho đến khi nhận ra hầu hết các bài đăng của cô ấy chỉ là **mồi nhử nhấp chuột (câu view)** được thiết kế để **lan truyền mạnh mẽ**. Tồi tệ hơn, cô ấy thường xuyên lan truyền **thông tin sai lệch**, tạo ra một **buồng phản âm** độc hại nơi những người theo dõi tấn công bất kỳ ai có quan điểm khác biệt. Khi một **kẻ khiêu khích trên mạng** độc hại bắt đầu quấy rối tôi và đe dọa đến **quyền riêng tư** kỹ thuật số của tôi, tôi đã quyết định lên tiếng. Tuy nhiên, thuật toán của nền tảng đã **chặn ngầm** tài khoản của tôi, khiến tôi bị cô lập trong một **bong bóng bộ lọc** được cá nhân hóa trong khi tôi dành cả đêm để **lướt xem tin tức tồi tệ** trong sự thất vọng.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Chiến lược sáng tạo nội dung và giải mã thuật toán (Content Strategy & Navigating Platform Algorithms)
+> **Bối cảnh thực tế:** Một người sáng tạo nội dung gặp chuyên gia chiến lược truyền thông xã hội để tìm giải pháp cải thiện lượng tiếp cận, tránh bị thuật toán bóp tương tác ngầm (shadowban) và giảm bớt các bài đăng câu view (clickbait) nông cạn.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Influencer Maya:** Aaron, my recent video views have dropped drastically. Did the platform place a **[[Shadowban]]** on my creator **[[Account]]**?
+  *(Aaron, lượt xem video gần đây của tôi bị giảm mạnh nghiêm trọng. Có phải nền tảng đã áp dụng lệnh chặn ngầm lên tài khoản người sáng tạo của tôi không?)*
+- **Strategist Aaron:** It is likely not a ban, Maya. The recommendation **[[Algorithm]]** recently penalized repetitive **[[Clickbait]]** titles across every user's **[[Feed]]**.
+  *(Nhiều khả năng không phải là chặn đâu, Maya. Thuật toán gợi ý gần đây đã trừng phạt các tiêu đề giật gân câu view lặp đi lặp lại trên bảng tin của mọi người dùng.)*
+- **Influencer Maya:** I only used those flashy headlines because sensational videos tend to go **[[Viral]]** much faster!
+  *(Tôi chỉ sử dụng những tiêu đề bắt mắt đó vì các video giật gân thường có xu hướng lan truyền chóng mặt nhanh hơn nhiều mà!)*
+- **Strategist Aaron:** Short-term viral spikes do not build long-term loyalty. To authentically **[[Engage]]** your audience, focus on creating high-value, educational **[[Content]]**.
+  *(Những đột biến lan truyền ngắn hạn không xây dựng được lòng trung thành dài hạn. Để thu hút khán giả một cách chân thực, hãy tập trung vào việc sáng tạo nội dung giáo dục có giá trị cao.)*
+- **Influencer Maya:** If I deliver deeper analysis, will loyal viewers **[[Interact]]** more and leave meaningful comments?
+  *(Nếu tôi cung cấp những phân tích sâu sắc hơn, liệu những người xem trung thành có tương tác nhiều hơn và để lại những bình luận ý nghĩa không?)*
+- **Strategist Aaron:** Absolutely. Meaningful engagement sends positive algorithmic signals, allowing you to sustainably **[[Monetize]]** your presence across the **[[Platform]]**.
+  *(Chắc chắn rồi. Sự tương tác có chiều sâu gửi đi những tín hiệu tích cực cho thuật toán, cho phép cô kiếm tiền một cách bền vững từ sự hiện diện của mình trên nền tảng.)*
+
+---
+
+### 🌟 Tình huống 2: Đối phó với hành vi quấy rối trực tuyến và bảo vệ quyền riêng tư số (Combating Cyberbullying & Safeguarding Digital Privacy)
+> **Bối cảnh thực tế:** Một người dùng mạng xã hội tìm kiếm sự trợ giúp từ chuyên viên an toàn không gian mạng sau khi bị một tài khoản nặc danh quấy rối trong hòm thư riêng (direct message) và đe dọa bóc phốt danh tính (doxxing).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **User Lucas:** Sarah, I am terrified. An anonymous **[[Troll]]** has been flooding my inbox with hostile messages and threatening to start **[[Doxxing]]** my home address.
+  *(Sarah ơi, tôi đang rất hoảng sợ. Một kẻ quấy rối nặc danh liên tục dội bom vào hộp thư của tôi bằng những tin nhắn thù hằn và đe dọa sẽ bóc phốt địa chỉ nhà riêng của tôi.)*
+- **Advocate Sarah:** Take a deep breath, Lucas. First, immediately take screenshots of every abusive **[[Direct Message]]** and menacing **[[Comment]]** as digital evidence.
+  *(Hãy hít một hơi thật sâu nào, Lucas. Trước hết, ngay lập tức chụp ảnh màn hình từng tin nhắn trực tiếp mang tính lăng mạ và bình luận đe dọa để làm bằng chứng kỹ thuật số.)*
+- **User Lucas:** Should I respond or argue back to defend myself publicly?
+  *(Tôi có nên phản hồi lại hoặc tranh cãi để bảo vệ bản thân một cách công khai không?)*
+- **Advocate Sarah:** Never engage with a **[[Cyberbully]]**. That only feeds their hostility. Use the platform’s security tools to instantly **[[Block]]** the offender.
+  *(Tuyệt đối không bao giờ dây dưa với một kẻ bắt nạt trên mạng. Điều đó chỉ kích động thêm sự thù địch của chúng. Hãy sử dụng các công cụ bảo mật của nền tảng để chặn kẻ vi phạm ngay lập tức.)*
+- **User Lucas:** What can I do to protect my overall personal **[[Privacy]]** and prevent future harassment?
+  *(Tôi có thể làm gì để bảo vệ quyền riêng tư cá nhân nói chung và ngăn chặn sự quấy rối trong tương lai?)*
+- **Advocate Sarah:** Lock down your public **[[Profile]]**, turn off location tagging, and submit a formal report so moderators can permanently **[[Deplatform]]** the perpetrator.
+  *(Hãy khóa trang cá nhân công khai của bạn lại, tắt tính năng gắn thẻ vị trí, và gửi báo cáo chính thức để đội ngũ quản trị viên có thể gỡ bỏ tài khoản của kẻ thủ ác vĩnh viễn.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Thói quen sử dụng & Tâm lý học mạng xã hội (Digital Habits & Social Psychology):
+- **`compulsive dopamine loop / endless scrolling`** *(vòng lặp dopamine gây nghiện / cuộn màn hình vô tận)*:
+  - *"Addictive app design traps vulnerable users in a continuous **[[Dopamine Loop]]** as they compulsively **[[Scroll]]**."*
+  - *(Thiết kế ứng dụng gây nghiện bẫy những người dùng dễ bị tổn thương vào một vòng lặp dopamine liên tục khi họ cuộn màn hình một cách cưỡng chế.)*
+- **`break free from doomscrolling / digital well-being`** *(thoát khỏi thói quen lướt xem tin tiêu cực / sức khỏe tinh thần kỹ thuật số)*:
+  - *"Turning off continuous push notifications helps individuals curb late-night **[[Doomscrolling]]** and preserve mental health."*
+  - *(Tắt thông báo đẩy liên tục giúp mọi người hạn chế thói quen lướt xem tin tức tồi tệ vào đêm muộn và bảo vệ sức khỏe tâm thần.)*
+- **`silent online lurker / active group member`** *(người ẩn mình chỉ đọc trên mạng / thành viên nhóm tích cực)*:
+  - *"Rather than posting content, the majority of social network users behave as a passive **[[Lurker]]** within an **[[Online]]** **[[Group]]**."*
+  - *(Thay vì đăng tải nội dung, phần lớn người dùng mạng xã hội cư xử như một người chỉ âm thầm theo dõi bên trong một hội nhóm trực tuyến.)*
+
+#### 2. Thuật toán, Tuyên truyền & Hiện tượng lan truyền (Algorithms, Virality & Polarization):
+- **`escape the filter bubble / insular echo chamber`** *(thoát khỏi bong bóng bộ lọc / buồng phản âm cô lập)*:
+  - *"Personalized recommendation algorithms often confine readers within a narrow **[[Filter Bubble]]** and an ideological **[[Echo Chamber]]**."*
+  - *(Các thuật toán gợi ý cá nhân hóa thường giam cầm độc giả bên trong một bong bóng bộ lọc hạn hẹp và một buồng phản âm ý thức hệ.)*
+- **`create viral content / leverage trending hashtags`** *(tạo nội dung lan truyền bùng nổ / tận dụng hashtag xu hướng)*:
+  - *"Savvy digital marketers combine high-quality **[[Video]]** storytelling with a popular **[[Hashtag]]** to ignite a global **[[Trend]]**."*
+  - *(Những nhà tiếp thị số am tường kết hợp nghệ thuật kể chuyện qua video chất lượng cao với một hashtag phổ biến để khơi mào một xu hướng toàn cầu.)*
+- **`counter targeted disinformation / deceptive astroturfing`** *(đối phó thông tin sai lệch có chủ đích / chiến dịch tạo dư luận giả mạo)*:
+  - *"Fact-checkers work around the clock to expose malicious **[[Disinformation]]** and coordinated political **[[Astroturfing]]**."*
+  - *(Các chuyên gia kiểm chứng thông tin làm việc ngày đêm để vạch trần tin tức giả mạo độc hại và các chiến dịch tạo dư luận giả mạo có tổ chức.)*
+
+#### 3. An toàn mạng, Quyền riêng tư & Quản trị nền tảng (Cyber Safety, Privacy & Platform Moderation):
+- **`protect personal privacy / configure user settings`** *(bảo vệ quyền riêng tư cá nhân / cấu hình cài đặt người dùng)*:
+  - *"Every responsible digital citizen should actively safeguard their **[[Privacy]]** and update security preferences on their **[[Profile]]**."*
+  - *(Mỗi công dân kỹ thuật số có trách nhiệm nên chủ động bảo vệ quyền riêng tư của mình và cập nhật tùy chọn bảo mật trên trang cá nhân.)*
+- **`block abusive trolls / report cyberbullying`** *(chặn những kẻ quấy rối lăng mạ / báo cáo hành vi bắt nạt mạng)*:
+  - *"Never hesitate to **[[Block]]** a persistent internet **[[Troll]]** who engages in targeted harassment."*
+  - *(Đừng bao giờ ngần ngại chặn một kẻ khiêu khích dai dẳng trên mạng có hành vi quấy rối nhắm vào bạn.)*
+- **`deplatform bad actors / impose a shadowban`** *(tước quyền truy cập của đối tượng xấu / áp dụng lệnh chặn ngầm)*:
+  - *"Major tech platforms have the authority to permanently **[[Deplatform]]** hate groups or enforce a restrictive **[[Shadowban]]**."*
+  - *(Các nền tảng công nghệ lớn có quyền tước bỏ vĩnh viễn tài khoản của các hội nhóm thù địch hoặc áp dụng lệnh chặn ngầm hạn chế tương tác.)*

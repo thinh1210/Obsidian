@@ -107,3 +107,77 @@ To understand the Earth's complex [[Geography]], scientists often embark on a lo
 
 ### Bản dịch Tiếng Việt
 Để hiểu rõ **địa lý** phức tạp của Trái Đất, các nhà khoa học thường bắt đầu một **chuyến du hành** dài ngày qua mọi **châu lục** và **đại dương** lớn. Trong sứ mệnh **đi vòng quanh** thế giới, họ băng qua **đường xích đạo**, di chuyển từ Bắc bán cầu sang Nam **bán cầu**. Dọc theo **đường bờ biển** gồ ghề của một **quần đảo** xa xôi, các nhà nghiên cứu tìm hiểu cách một **dòng hải lưu** mạnh mẽ ảnh hưởng đến đời sống sinh vật biển. Họ phân tích cả vùng **biển khơi**, nơi các loài cá sống ở tầng mặt di cư, và các sinh vật **đáy biển** sâu sinh sống gần **vực thẳm** đại dương tối tăm. Những nghiên cứu thực địa này, kết hợp với **bản đồ học** tiên tiến, giúp các nhà địa chất lập bản đồ các mảng **kiến tạo** và **địa hình** phức tạp định hình nên đáy đại dương của thế giới.
+
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thám hiểm hải dương học & Lập bản đồ đáy biển (Oceanographic Expedition & Deep-Sea Bathymetry)
+> **Bối cảnh thực tế:** Trên một con tàu nghiên cứu hải dương, nhà địa vật lý biển và thuyền trưởng thảo luận về chuyến hải trình (**[[Voyage]]**) lập bản đồ địa hình (**[[Bathymetry]]** / **[[Topography]]**), tiếp cận rãnh đại dương (**[[Trench]]**) và các mảng kiến tạo (**[[Tectonic]]**) tại vùng biển sâu (**[[Abyss]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Aris (Geophysicist):** Captain, our sonar sensors indicate that we are approaching the deepest oceanic **[[Trench]]** along this submarine **[[Boundary]]**.
+  *(Thưa thuyền trưởng, các cảm biến sóng âm cho thấy chúng ta đang tiếp cận rãnh đại dương sâu nhất dọc theo ranh giới ngầm dưới biển này.)*
+- **Captain Vance:** Roger that. Navigating across the southern **[[Hemisphere]]** into these remote **[[Pelagic]]** waters requires extreme caution due to unpredictable **[[Current|currents]]**.
+  *(Rõ rồi. Việc định vị hành trình băng qua Nam bán cầu vào những vùng biển khơi xa xôi này đòi hỏi sự cẩn trọng tột bậc do các dòng hải lưu thay đổi khôn lường.)*
+- **Dr. Aris:** Precisely. We need to deploy our robotic submersible into the **[[Benthic]]** zone to measure **[[Tectonic]]** movements and map the seafloor **[[Bathymetry]]**.
+  *(Chính xác. Chúng ta cần triển khai thiết bị lặn robot xuống tầng đáy biển để đo lường các chuyển động kiến tạo và lập bản đồ đo sâu địa hình đáy biển.)*
+- **Captain Vance:** Will the extreme pressure down in that dark **[[Abyss]]** pose any risk to our scientific equipment?
+  *(Áp suất cực lớn dưới vực thẳm tối tăm đó có gây nguy hiểm gì cho thiết bị khoa học của chúng ta không?)*
+- **Dr. Aris:** Our hull is reinforced with titanium. Once we map this uncharted rift, our findings will expand our understanding of the **[[Earth]]**'s **[[Subterranean]]** dynamics and marine **[[Geography]]**.
+  *(Thân tàu của chúng ta được gia cố bằng titan. Một khi lập được bản đồ rạn nứt chưa từng được khám phá này, các phát hiện của chúng ta sẽ mở rộng hiểu biết về động lực học dưới lòng đất và địa lý biển của Trái Đất.)*
+- **Captain Vance:** Splendid. Let's maintain our steady course toward the eastern **[[Horizon]]** and commence the scientific probe.
+  *(Tuyệt vời. Hãy duy trì hành trình ổn định hướng về phía đường chân trời phía đông và bắt đầu thả đầu dò khoa học.)*
+
+---
+
+### 🌟 Tình huống 2: Thám hiểm địa lý & Địa chính trị hàng hải (Maritime Geopolitics & Trans-Continental Navigation)
+> **Bối cảnh thực tế:** Tại một viện nghiên cứu địa chính trị quốc tế, hai chuyên gia bản đồ học (**[[Cartography]]**) và địa chính trị (**[[Geopolitics]]**) phân tích các tuyến hàng hải (**[[Route]]**) chiến lược nối liền các châu lục (**[[Continent]]**), đi qua eo biển và các bán đảo (**[[Peninsula]]**), quần đảo (**[[Archipelago]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Elena:** Look at this digital **[[Map]]**; maritime trade routes linking the Asian **[[Subcontinent]]** to the European **[[Continent]]** are increasingly congested.
+  *(Hãy nhìn vào bản đồ kỹ thuật số này; các tuyến thương mại hàng hải nối tiểu lục địa châu Á với lục địa châu Âu ngày càng trở nên đông đúc.)*
+- **Marcus:** Indeed. Every sovereign **[[Country]]** bordering this narrow **[[Peninsula]]** is seeking to enforce maritime security along its **[[Littoral]]** zones.
+  *(Đúng vậy. Mọi quốc gia có chủ quyền giáp ranh bán đảo hẹp này đều đang tìm cách tăng cường an ninh hàng hải dọc theo các vùng duyên hải ven bờ của họ.)*
+- **Elena:** It directly affects international **[[Geopolitics]]**. When vessels **[[Circumnavigate]]** southern capes to bypass regional conflicts, the lengthy **[[Voyage]]** around the continent adds thousands of miles.
+  *(Nó ảnh hưởng trực tiếp đến địa chính trị quốc tế. Khi các con tàu phải đi vòng quanh các mũi đất phía nam để tránh xung đột khu vực, chuyến hải trình kéo dài quanh châu lục sẽ tăng thêm hàng ngàn dặm.)*
+- **Marcus:** Absolutely. Navigating through that sprawling island **[[Archipelago]]** is equally tricky because each nation strictly monitors its territorial **[[Border]]** and exclusive economic zone.
+  *(Chắc chắn rồi. Việc định vị hàng hải qua quần đảo trải dài đó cũng phức tạp không kém vì mỗi quốc gia đều giám sát nghiêm ngặt biên giới lãnh thổ và vùng đặc quyền kinh tế của mình.)*
+- **Elena:** Modern **[[Cartography]]** and satellite tracking give navigators unprecedented precision to safely **[[Navigate]]** international **[[Water|waters]]**.
+  *(Ngành bản đồ học hiện đại và hệ thống định vị vệ tinh mang lại cho các hoa tiêu độ chính xác chưa từng có để điều hướng an toàn qua các vùng biển quốc tế.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi định vị & Di chuyển trên biển:
+- **`circumnavigate the globe`** *(lái tàu đi vòng quanh thế giới)*:
+  - *"Ferdinand Magellan's historic expedition was the first to **[[Circumnavigate]]** the globe."*
+  - *(Chuyến thám hiểm lịch sử của Ferdinand Magellan là chuyến đi đầu tiên đi vòng quanh thế giới.)*
+- **`cross the equator`** *(vượt đường xích đạo)*:
+  - *"Sailors traditionally hold a lively maritime ceremony whenever they cross the **[[Equator]]**."*
+  - *(Các thủy thủ có truyền thống tổ chức một nghi lễ hàng hải sôi động bất cứ khi nào họ vượt qua đường xích đạo.)*
+- **`uncharted waters`** *(vùng biển chưa có trên bản đồ / tình thế hoàn toàn mới)*:
+  - *"Navigators must proceed with extreme vigilance when sailing through uncharted **[[Water|waters]]**."*
+  - *(Các hoa tiêu phải điều khiển tàu với sự cảnh giác cao độ khi giương buồm qua những vùng nước chưa có trên bản đồ.)*
+
+#### 2. Khi phân tích địa lý đại dương & Tầng đáy biển:
+- **`tectonic plate boundary`** *(ranh giới mảng kiến tạo)*:
+  - *"Frequent underwater earthquakes occur along the **[[Tectonic]]** plate **[[Boundary]]** in the Pacific."*
+  - *(Các trận động đất dưới biển thường xuyên xảy ra dọc theo ranh giới mảng kiến tạo ở Thái Bình Dương.)*
+- **`continental shelf`** *(thềm lục địa)*:
+  - *"Rich marine ecosystems thrive where the shallow shelf extends outward from the **[[Continent]]**."*
+  - *(Các hệ sinh thái biển phong phú phát triển mạnh mẽ tại nơi thềm lục địa nông mở rộng ra từ châu lục.)*
+- **`deep ocean trench / abyss`** *(rãnh đại dương sâu / vực thẳm biển sâu)*:
+  - *"Robotic submersibles are engineered to withstand immense pressures inside the deepest ocean **[[Trench]]**."*
+  - *(Tàu lặn robot được chế tạo để chống chịu áp suất khổng lồ bên trong rãnh đại dương sâu nhất.)*
+
+#### 3. Khi thảo luận địa lý ven biển & Khí hậu toàn cầu:
+- **`rugged coastline`** *(đường bờ biển hiểm trở, gồ ghề)*:
+  - *"Lighthouses are strategically placed along the rugged **[[Coastline]]** to guide incoming freighters."*
+  - *(Các ngọn hải đăng được bố trí ở những vị trí chiến lược dọc theo đường bờ biển hiểm trở để dẫn đường cho tàu hàng cập bến.)*
+- **`polar ice cap / melting glacier`** *(chỏm băng vùng cực / sông băng tan chảy)*:
+  - *"The retreat of a polar **[[Glacier]]** provides stark visual evidence of rapid global **[[Climate]]** change."*
+  - *(Sự thu hẹp của một sông băng vùng cực cung cấp bằng chứng trực quan rõ rệt về biến đổi khí hậu toàn cầu nhanh chóng.)*
+- **`maritime border / territorial waters`** *(biên giới hàng hải / vùng lãnh hải)*:
+  - *"Coastal nations routinely hold naval patrols to safeguard sovereign **[[Territory]]** and marine **[[Border|borders]]**."*
+  - *(Các quốc gia ven biển thường xuyên tổ chức các cuộc tuần tra hải quân để bảo vệ lãnh thổ có chủ quyền và biên giới trên biển.)*

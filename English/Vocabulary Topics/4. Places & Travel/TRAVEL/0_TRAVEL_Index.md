@@ -129,3 +129,77 @@ Driven by an insatiable [[Wanderlust]], Sarah, a passionate [[Globetrotter]], ca
 
 ### Bản dịch Tiếng Việt
 Bị thôi thúc bởi **niềm đam mê du lịch** khôn nguôi, Sarah, một **người chu du thế giới** đầy nhiệt huyết, đã lên kế hoạch tỉ mỉ cho **chuyến đi nghỉ ngắn ngày** tiếp theo. Thay vì lựa chọn một **điểm du lịch đắt đỏ** đông đúc, cô quyết định tìm đến những **nơi ít người biết đến** để khám phá một hòn đảo còn **chưa được khai phá**. **Lịch trình** của cô tập trung vào việc trải nghiệm văn hóa địa phương và tận hưởng bầu không khí **thanh bình**. Ngay khi vừa **đến nơi**, cô nhận phòng tại một **chỗ ở** giản dị nằm sát một bãi biển **hẻo lánh**. Cô muốn **đắm mình** vào cuộc sống của cộng đồng nơi đây, tránh xa **quãng đường đi làm** lặp đi lặp lại mỗi ngày. Hòn đảo đã mang lại những khung cảnh **ngoạn mục** với làn nước **nguyên sơ**, làm cho **cuộc phiêu lưu** của cô trở nên thực sự khó quên.
+
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Làm thủ tục tại sân bay quốc tế & Chuẩn bị lên máy bay (International Airport Check-in & Departure Boarding)
+> **Bối cảnh thực tế:** Tại nhà ga sân bay quốc tế (**[[Airport]]** / **[[Terminal]]**), một hành khách (**[[Passenger]]**) kiểm tra vé máy bay (**[[Ticket]]**), hộ chiếu (**[[Passport]]**), thẻ lên máy bay (**[[Boarding pass]]**) và hành lý ký gửi (**[[Luggage]]** / **[[Suitcase]]**) trước giờ khởi hành (**[[Departure]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Check-in Agent:** Good morning! May I please see your **[[Passport]]**, entry **[[Visa]]**, and travel **[[Insurance]]** documents?
+  *(Chào buổi sáng quý khách! Tôi có thể xem hộ chiếu, thị thực nhập cảnh và bảo hiểm du lịch của quý khách được không ạ?)*
+- **Liam:** Here you go. I'm traveling to Tokyo for a two-week solo **[[Adventure]]**.
+  *(Dạ đây ạ. Tôi đang trên đường đến Tokyo cho một chuyến phiêu lưu tự túc kéo dài hai tuần.)*
+- **Check-in Agent:** Wonderful! Are you checking this large **[[Suitcase]]**, or will it be carry-on along with your **[[Backpack]]**?
+  *(Tuyệt vời! Quý khách có ký gửi chiếc vali lớn này không, hay sẽ mang lên khoang hành khách cùng với ba lô ạ?)*
+- **Liam:** I'll check the suitcase. I'm keeping my **[[Camera]]** and essential travel notes in my backpack.
+  *(Tôi sẽ ký gửi vali. Tôi để máy ảnh và sổ tay du lịch quan trọng trong ba lô.)*
+- **Check-in Agent:** Perfect. Here is your **[[Boarding pass]]**. Your **[[Flight]]** departs from **[[Gate]]** 14B, and boarding commences at 10:15.
+  *(Xong rồi ạ. Đây là thẻ lên máy bay của quý khách. Chuyến bay khởi hành từ Cửa 14B, và giờ lên máy bay bắt đầu lúc 10:15.)*
+- **Liam:** Thank you! Is there enough time for a quick coffee before heading through security to the **[[Departure]]** hall?
+  *(Cảm ơn cô! Liệu tôi có đủ thời gian uống nhanh một tách cà phê trước khi qua cửa an ninh vào khu vực khởi hành không?)*
+
+---
+
+### 🌟 Tình huống 2: Du lịch khám phá & Tránh bẫy du lịch chặt chém (Off-the-Beaten-Track Exploration & Avoiding Tourist Traps)
+> **Bối cảnh thực tế:** Hai người bạn du lịch bụi (**[[Backpacker]]**) gặp nhau tại sảnh một nhà nghỉ bình dân (**[[Hostel]]** / **[[Guesthouse]]**), trao đổi về lịch trình (**[[Itinerary]]**), tìm kiếm những địa điểm hoang sơ (**[[Off the beaten track]]** / **[[Secluded]]**) và tránh các bẫy du lịch chặt chém (**[[Tourist trap]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Maya:** Felix, are you joining the group tour to the city center today?
+  *(Felix, hôm nay cậu có tham gia tour theo đoàn vào trung tâm thành phố không?)*
+- **Felix:** Definitely not. That main tourist market has turned into a total **[[Tourist trap]]** with inflated prices and fake souvenirs.
+  *(Chắc chắn là không rồi. Khu chợ du lịch chính đó giờ biến thành một cái bẫy du lịch chặt chém với giá cắt cổ và đồ lưu niệm giả.)*
+- **Maya:** I agree completely. As a passionate **[[Globetrotter]]**, I prefer venturing **[[Off the beaten track]]** to discover **[[Uncharted]]** hiking routes.
+  *(Mình hoàn toàn đồng ý. Là một người thích chu du thế giới, mình thích tìm đến những nơi ít người biết đến để khám phá các cung đường mòn chưa có trên bản đồ.)*
+- **Felix:** Me too! The owner of our **[[Guesthouse]]** suggested a **[[Secluded]]** mountain village overlooking a **[[Breathtaking]]** coastal valley.
+  *(Mình cũng thế! Chủ nhà nghỉ của chúng mình vừa gợi ý một ngôi làng miền núi hẻo lánh nhìn ra một thung lũng ven biển đẹp đến nghẹt thở.)*
+- **Maya:** That sounds magical! Let's grab our daypacks and **[[Immerse]]** ourselves in the authentic, **[[Serene]]** local lifestyle.
+  *(Nghe kỳ diệu quá! Hãy mang ba lô lên và cùng đắm mình vào lối sống thanh bình, chân thực của người dân địa phương nào.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi làm thủ tục sân bay & Di chuyển:
+- **`boarding pass / departure gate`** *(thẻ lên máy bay / cửa khởi hành)*:
+  - *"Passengers must present their **[[Boarding pass]]** and travel documents at the boarding **[[Gate]]**."*
+  - *(Hành khách phải xuất trình thẻ lên máy bay và giấy tờ tùy thân tại cửa lên máy bay.)*
+- **`comprehensive travel insurance`** *(hợp đồng bảo hiểm du lịch toàn diện)*:
+  - *"Buying comprehensive travel **[[Insurance]]** gives you peace of mind against flight cancellations."*
+  - *(Mua bảo hiểm du lịch toàn diện giúp bạn an tâm trước các sự cố hủy chuyến bay.)*
+- **`excess luggage fee`** *(phí hành lý quá cước)*:
+  - *"Weigh your **[[Suitcase]]** at home to avoid paying hefty fees for excess **[[Luggage]]**."*
+  - *(Hãy cân vali ở nhà để tránh phải trả các khoản phí cắt cổ cho hành lý quá cước.)*
+
+#### 2. Khi lên kế hoạch & Trải nghiệm thực tế:
+- **`off the beaten track`** *(những nơi hoang sơ, ít vết chân du khách)*:
+  - *"Adventurous travelers prefer exploring hidden waterfalls well **[[Off the beaten track]]**."*
+  - *(Những du khách ưa mạo hiểm thích khám phá các thác nước ẩn giấu ở những nơi ít người biết đến.)*
+- **`avoid tourist traps`** *(tránh các bẫy du lịch đắt đỏ)*:
+  - *"Consulting local food blogs helps tourists steer clear of overpriced **[[Tourist trap|tourist traps]]**."*
+  - *(Tham khảo các trang blog ẩm thực địa phương giúp du khách tránh xa những cái bẫy du lịch chặt chém đắt đỏ.)*
+- **`breathtaking scenery / memorable experience`** *(phong cảnh ngoạn mục / trải nghiệm đáng nhớ)*:
+  - *"The mountain sunrise was an utterly **[[Breathtaking]]** and **[[Memorable]]** **[[Experience]]**."*
+  - *(Bình minh trên núi là một trải nghiệm vô cùng ngoạn mục và đáng nhớ.)*
+
+#### 3. Khi khám phá văn hóa & Hòa nhập:
+- **`immerse oneself in local culture`** *(đắm mình vào nền văn hóa bản địa)*:
+  - *"Staying in a village family home enables visitors to **[[Immerse]]** themselves in authentic traditions."*
+  - *(Nghỉ tại nhà một gia đình trong làng cho phép du khách đắm mình vào các truyền thống chân thực.)*
+- **`secluded getaway / serene retreat`** *(kỳ nghỉ dưỡng hẻo lánh / chốn rút lui thanh tịnh)*:
+  - *"They booked a wooden cottage on a **[[Secluded]]** coastline for a truly **[[Serene]]** weekend."*
+  - *(Họ đã đặt một ngôi nhà tranh bằng gỗ trên bờ biển hẻo lánh cho một kỳ nghỉ cuối tuần thực sự thanh bình.)*
+- **`plan a detailed itinerary`** *(lên lịch trình du lịch chi tiết)*:
+  - *"A well-crafted travel **[[Itinerary]]** balances sightseeing famous landmarks with restful downtime."*
+  - *(Một lịch trình du lịch được thiết kế kỹ lưỡng sẽ cân bằng giữa việc tham quan các địa danh nổi tiếng và thời gian nghỉ ngơi thư giãn.)*

@@ -108,3 +108,72 @@ In today’s digital era, the impact of any **[[Public figure]]** is **[[Ubiquit
 
 ### Bản dịch Tiếng Việt
 Trong kỷ nguyên số ngày nay, tầm ảnh hưởng của bất kỳ **nhân vật công chúng** nào cũng có thể **thấy ở khắp mọi nơi**, định hình hành vi và giá trị của hàng triệu người. Một ngôi sao có **sức hút cá nhân** tự nhiên có thể dễ dàng trở thành một **tấm gương**, truyền cảm hứng cho giới trẻ tham gia vào **hoạt động từ thiện** và các hoạt động xã hội. Tuy nhiên, truyền thông thường xuyên phô diễn **lối sống** xa hoa của họ, điều này có thể thúc đẩy **chủ nghĩa thực dụng** trong lòng những người hâm mộ dễ bị ảnh hưởng. Hơn nữa, **sự soi mói** liên tục từ công chúng có thể biến một ngôi sao thành một nhân vật **gây chia rẽ**, nơi mọi hành động đều bị tranh cãi. Khi những người nổi tiếng này hành xử vô trách nhiệm, họ có thể **làm trầm trọng thêm** các vấn đề xã hội sẵn có như chứng lo âu về ngoại hình. Vì vậy, mặc dù một cá nhân có thể đóng vai trò là một **người dẫn đầu xu hướng** tích cực, sự **ảnh hưởng** chung của những người nổi tiếng vẫn là một con dao hai lưỡi phức tạp.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tranh luận về hình mẫu người nổi tiếng & Lối sống tiêu dùng (Celebrity Role Models & Materialistic Influence on Youth)
+> **Bối cảnh thực tế:** Trong một buổi tọa đàm giáo dục của trường đại học, hai diễn giả thảo luận về tầm ảnh hưởng sâu rộng (**[[41 - Pervasive|Pervasive]]**) của các thần tượng mạng xã hội đối với tâm lý thanh thiếu niên, sự tôn sùng thái quá (**[[42 - Veneration|Veneration]]**) và xu hướng tôn sùng vật chất (**[[50 - Materialism|Materialism]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Harrison:** Maya, do you believe today's mega-influencers act as positive **[[18 - Role model|role models]]** for the impressionable youth?
+  *(Maya này, cô có tin rằng những người có tầm ảnh hưởng lớn hiện nay đang đóng vai trò là những tấm gương tích cực cho giới trẻ non nớt không?)*
+- **Maya:** It's truly a double-edged sword, Dr. Harrison. On one hand, an inspiring **[[21 - Public figure|Public figure]]** with genuine **[[49 - Charisma|Charisma]]** can mobilize millions for environmental conservation and **[[36 - Philanthropy|Philanthropy]]**.
+  *(Đó thực sự là một con dao hai lưỡi, thưa Tiến sĩ Harrison. Một mặt, một nhân vật của công chúng truyền cảm hứng với sức hút tự nhiên chân chính có thể huy động hàng triệu người vì mục tiêu bảo tồn môi trường và từ thiện xã hội.)*
+- **Dr. Harrison:** But on the other hand, the constant social media parade displaying lavish designer **[[12 - Clothes|Clothes]]** and luxury vacations tends to **[[40 - Glamorize|Glamorize]]** extreme **[[50 - Materialism|Materialism]]**.
+  *(Nhưng mặt khác, những hình ảnh liên tục phô diễn trên mạng xã hội về quần áo hàng hiệu xa xỉ và những kỳ nghỉ sang chảnh lại có xu hướng tô vẽ lộng lẫy cho chủ nghĩa thực dụng sùng bái vật chất.)*
+- **Maya:** Exactly. That creates unrealistic lifestyle standards that **[[47 - Exacerbate|Exacerbate]]** body-image anxieties and depressive feelings among vulnerable young **[[25 - Follower|followers]]**.
+  *(Chính xác luôn. Điều đó tạo ra những tiêu chuẩn sống phi thực tế làm trầm trọng thêm nỗi bất an về ngoại hình và cảm giác trầm cảm ở những người theo dõi trẻ tuổi dễ bị tổn thương.)*
+- **Dr. Harrison:** Critical media literacy must be taught in schools so young people learn to appreciate authentic talent rather than blind **[[42 - Veneration|Veneration]]** of artificial online personas.
+  *(Kỹ năng tư duy phản biện truyền thông cần được đưa vào giảng dạy trong nhà trường để giới trẻ học cách trân trọng tài năng thực chất thay vì tôn sùng mù quáng những hình tượng hào nhoáng ảo trên mạng.)*
+
+---
+
+### 🌟 Tình huống 2: Trách nhiệm xã hội vs Hợp đồng quảng cáo thương mại (Commercial Endorsements & Public Scrutiny)
+> **Bối cảnh thực tế:** Trong một cuộc họp chiến lược quan hệ công chúng (PR), một giám đốc nhãn hàng và một người đại diện nghệ sĩ tranh luận về việc lựa chọn gương mặt đại diện (**[[38 - Endorsement|Endorsement]]**) cho chiến dịch bảo vệ sức khỏe cộng đồng.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Elena:** We need a certified **[[29 - Trendsetter|Trendsetter]]** whose public **[[30 - Reputation|Reputation]]** is completely unblemished for our organic wellness **[[35 - Campaign|Campaign]]**.
+  *(Chúng ta cần một người dẫn đầu xu hướng có danh tiếng công chúng hoàn toàn trong sạch để đại diện cho chiến dịch sống khỏe hữu cơ này.)*
+- **Marcus:** What about Julian Vance? He has an **[[48 - Unprecedented|Unprecedented]]** following of forty million fans and a deeply loyal demographic.
+  *(Thế còn Julian Vance thì sao? Cậu ấy sở hữu lượng người theo dõi vô tiền khoáng hậu lên tới bốn mươi triệu người và một tệp khán giả trung thành sâu sắc.)*
+- **Elena:** While his reach is massive, Julian recently became an intensely **[[46 - Polarizing|Polarizing]]** figure after promoting an unregulated cryptocurrency scheme. Under intense investigative **[[37 - Scrutiny|Scrutiny]]**, his brand credibility took a major hit.
+  *(Dù tầm phủ sóng của anh ta cực lớn, Julian gần đây đã trở thành một nhân vật gây chia rẽ sâu sắc sau khi quảng bá một dự án tiền ảo mờ ám. Dưới sự săm soi điều tra gắt gao của báo giới, uy tín thương hiệu của anh ta đã bị giáng một đòn nặng nề.)*
+- **Marcus:** That's a valid point. Choosing a figure associated with financial **[[45 - Notoriety|Notoriety]]** could have a **[[43 - Detrimental|Detrimental]]** effect on our corporate integrity.
+  *(Đó là một điểm rất đáng lưu ý. Chọn một nhân vật gắn liền với tai tiếng tài chính có thể gây ra ảnh hưởng bất lợi nghiêm trọng đến sự chính trực của tập đoàn chúng ta.)*
+- **Elena:** Let's partner with Clara Sterling instead. Her grassroots charity work and modest **[[32 - Lifestyle|Lifestyle]]** embody the genuine authenticity our consumers trust.
+  *(Thay vào đó, hãy hợp tác với Clara Sterling. Những hoạt động từ thiện cơ sở và lối sống khiêm tốn của cô ấy hiện thân cho sự chân thực mà người tiêu dùng chúng ta tin tưởng.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về tầm ảnh hưởng & Trách nhiệm xã hội:
+- **`positive role model`** *(tấm gương sáng, hình mẫu tích cực)*:
+  - *"Athletes who speak out against bullying serve as empowering positive **[[18 - Role model|role models]]**."*
+  - *(Những vận động viên lên tiếng phản đối nạn bắt nạt học đường đóng vai trò là những tấm gương tích cực đầy sức mạnh.)*
+- **`pervasive influence`** *(tầm ảnh hưởng sâu rộng, lan tỏa khắp nơi)*:
+  - *"Digital marketing wields a **[[41 - Pervasive|Pervasive]]** **[[16 - Influence|Influence]]** over teenage spending habits."*
+  - *(Tiếp thị kỹ thuật số tạo ra một tầm ảnh hưởng sâu rộng lên thói quen chi tiêu của giới trẻ.)*
+- **`under intense public scrutiny`** *(dưới sự soi xét gắt gao của công chúng)*:
+  - *"Every word uttered by politicians is immediately placed under intense media **[[37 - Scrutiny|Scrutiny]]**."*
+  - *(Từng lời phát ngôn của các chính trị gia đều lập tức bị đặt dưới sự săm soi gắt gao của truyền thông.)*
+
+#### 2. Khi nói về thương mại & Người dẫn đầu xu hướng:
+- **`commercial endorsement deal`** *(hợp đồng quảng cáo thương mại)*:
+  - *"Securing a multi-million-dollar footwear **[[38 - Endorsement|Endorsement]]** catapulted the rookie into global prominence."*
+  - *(Giành được hợp đồng đại diện giày thể thao trị giá hàng triệu đô la đã đưa tân binh này vụt sáng trên toàn cầu.)*
+- **`trendsetter in fashion / culture`** *(người dẫn đầu xu hướng thời trang / văn hóa)*:
+  - *"Pop icons often act as cultural **[[29 - Trendsetter|trendsetters]]**, dictating street fashion across the globe."*
+  - *(Các biểu tượng nhạc pop thường đóng vai trò là những người dẫn đầu xu hướng văn hóa, định hình thời trang đường phố trên toàn thế giới.)*
+- **`glamorize unrealistic lifestyles`** *(tô vẽ, lãng mạn hóa lối sống phi thực tế)*:
+  - *"Reality television often works to **[[40 - Glamorize|Glamorize]]** conspicuous consumption and superficial vanity."*
+  - *(Các chương trình truyền hình thực tế thường có xu hướng tô vẽ lộng lẫy cho lối sống tiêu dùng phô trương và sự phù phiếm bề ngoài.)*
+
+#### 3. Các thành ngữ thông dụng về sự chú ý & Tai tiếng:
+- **`double-edged sword`** *(con dao hai lưỡi - có cả lợi lẫn hại)*:
+  - *"Viral celebrity fame is a double-edged sword: it brings immense wealth but completely obliterates your **[[24 - Privacy|Privacy]]**."*
+  - *(Sự nổi tiếng bùng nổ là một con dao hai lưỡi: nó mang lại của cải khổng lồ nhưng lại xóa sổ hoàn toàn quyền riêng tư của bạn.)*
+- **`polarizing figure`** *(nhân vật gây chia rẽ, tạo nhiều tranh cãi đối lập)*:
+  - *"The provocative talk-show host remained a deeply **[[46 - Polarizing|Polarizing]]** figure throughout his broadcasting career."*
+  - *(Người dẫn chương trình trò chuyện khiêu khích vẫn là một nhân vật gây chia rẽ sâu sắc trong suốt sự nghiệp phát thanh truyền hình của mình.)*
+

@@ -107,3 +107,77 @@ The young **[[Republic]]** was proud of its newly gained **[[Sovereignty]]**, wh
 
 ### Bản dịch Tiếng Việt
 Quốc gia **Cộng hòa** trẻ tuổi tự hào về **chủ quyền** mới giành được của mình, điều này mang lại cho quốc gia quyền **tự trị** hoàn toàn đối với **lãnh thổ** rộng lớn của mình. Nằm trên một **bán đảo** đẹp như tranh vẽ, thủ đô của nó đã trở thành một trung tâm **mang tính quốc tế** nơi người **bản địa** và nhiều cư dân **nước ngoài định cư** sống hòa hợp cùng nhau. Trong khi chính phủ thiết lập các chính sách rõ ràng liên quan đến **ranh giới** quốc gia để đảm bảo an ninh, họ cũng tích cực thúc đẩy một môi trường **đa văn hóa**. Cấu trúc xã hội độc đáo này đã thúc đẩy quá trình **tiếp nhận văn hóa**, nơi các truyền thống nước ngoài hòa quyện với **di sản** địa phương. Ngày nay, mọi **công dân** đều tôn vinh sự đa dạng này, biến quốc gia thành một ngọn hải đăng của sự đoàn kết bất chấp tình hình **địa chính trị** phức tạp của khu vực.
+
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thủ tục nhập cư & Hội nhập văn hóa của người nước ngoài (Immigration, Expatriate Life & Cultural Adaptation)
+> **Bối cảnh thực tế:** Tại một văn phòng tư vấn định cư ở thủ đô (**[[Capital]]**), một chuyên viên hướng dẫn tiếp đón một chuyên gia nước ngoài (**[[Expatriate]]**) nộp hồ sơ xin thị thực (**[[Visa]]**) dài hạn và thảo luận về quá trình tiếp nhận văn hóa (**[[Acculturation]]**) cùng quy chế quốc tịch (**[[Nationality]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Officer Vance:** Good morning, Mr. Morales. Let's review your documents for long-term residency in our **[[Republic]]**. Do you have your valid **[[Passport]]** and entry **[[Visa]]**?
+  *(Chào buổi sáng, anh Morales. Chúng ta hãy rà soát hồ sơ xin thường trú dài hạn tại nước Cộng hòa của chúng tôi nhé. Anh có mang theo hộ chiếu và thị thực nhập cảnh hợp lệ không?)*
+- **Carlos:** Yes, here they are, Officer. As an **[[Expatriate]]** moving here for work, I'm eager to adapt to your country's local **[[Custom|customs]]** and master the national **[[Language]]**.
+  *(Vâng, đây thưa cán bộ. Là một chuyên gia nước ngoài chuyển đến đây làm việc, tôi rất mong muốn thích nghi với các phong tục địa phương của đất nước quý vị và thông thạo ngôn ngữ quốc gia.)*
+- **Officer Vance:** That's admirable. Our **[[Government]]** actively supports smooth **[[Acculturation]]** so that every foreign **[[Inhabitant]]** can thrive in this **[[Multicultural]]** society.
+  *(Điều đó rất đáng khen. Chính phủ chúng tôi tích cực hỗ trợ quá trình tiếp nhận văn hóa thuận lợi để mọi cư dân nước ngoài đều có thể phát triển trong xã hội đa văn hóa này.)*
+- **Carlos:** I've noticed how welcoming the **[[Citizen|citizens]]** are. Despite hailing from a vastly different background, I haven't encountered any **[[Xenophobia]]** at all.
+  *(Tôi nhận thấy người dân ở đây rất hiếu khách. Dù đến từ một xuất phát điểm rất khác, tôi hoàn toàn không gặp phải bất kỳ sự bài ngoại nào cả.)*
+- **Officer Vance:** We take great pride in our open, **[[Cosmopolitan]]** mindset. After fulfilling the continuous residency requirement, you will even become eligible to apply for full **[[Nationality]]**.
+  *(Chúng tôi rất tự hào về tư duy cởi mở và mang tính quốc tế của mình. Sau khi đáp ứng đủ yêu cầu thời gian cư trú liên tục, anh thậm chí sẽ đủ điều kiện nộp đơn xin nhập quốc tịch đầy đủ.)*
+- **Carlos:** Thank you so much! It would be an honor to contribute to the economic and social fabric of this **[[Country]]**.
+  *(Cảm ơn cán bộ rất nhiều! Sẽ là một vinh dự lớn khi được đóng góp vào cấu trúc kinh tế và xã hội của đất nước này.)*
+
+---
+
+### 🌟 Tình huống 2: Hội nghị ngoại giao về chủ quyền quốc gia & Nhân khẩu học (Diplomatic Summit on National Sovereignty & Demographics)
+> **Bối cảnh thực tế:** Tại một diễn đàn quốc tế, hai nhà ngoại giao thảo luận về quyền tự trị (**[[Autonomy]]**), đường biên giới (**[[Border]]** / **[[Boundary]]**) và sự thay đổi nhân khẩu học (**[[Demographics]]**) do làn sóng di cư (**[[Diaspora]]** / **[[Immigration]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Ambassador Laurent:** Maintaining regional peace requires strict respect for every nation's **[[Sovereignty]]** and territorial **[[Boundary|boundaries]]**.
+  *(Việc duy trì hòa bình khu vực đòi hỏi sự tôn trọng nghiêm ngặt đối với chủ quyền và các đường ranh giới lãnh thổ của mỗi quốc gia.)*
+- **Ambassador Zhao:** Unquestionably. In an era where global **[[Geopolitics]]** is volatile, safeguarding national **[[Territory]]** and border security is paramount for our **[[Republic]]**.
+  *(Không còn nghi ngờ gì nữa. Trong thời đại mà địa chính trị toàn cầu đầy biến động, bảo vệ lãnh thổ quốc gia và an ninh biên giới là tối quan trọng đối với nước Cộng hòa chúng tôi.)*
+- **Ambassador Laurent:** Simultaneously, rapid changes in global **[[Demographics]]** and cross-border **[[Immigration]]** are shifting the composition of our domestic **[[Population]]**.
+  *(Đồng thời, những thay đổi nhanh chóng về nhân khẩu học toàn cầu và làn sóng nhập cư xuyên biên giới đang làm thay đổi cơ cấu dân số trong nước của chúng ta.)*
+- **Ambassador Zhao:** Indeed. Many members of our global **[[Diaspora]]** continue to preserve their native **[[Culture]]** and **[[Heritage]]** while contributing significantly to their host nations.
+  *(Đúng vậy. Nhiều thành viên thuộc cộng đồng kiều bào toàn cầu của chúng tôi vẫn tiếp tục giữ gìn văn hóa và di sản bản địa của mình trong khi đóng góp đáng kể cho các quốc gia sở tại.)*
+- **Ambassador Laurent:** True diplomacy balances legitimate national **[[Autonomy]]** with cooperative international relations.
+  *(Ngoại giao thực thụ là cân bằng giữa quyền tự trị quốc gia chính đáng với các mối quan hệ hợp tác quốc tế.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về chủ quyền & Biên giới quốc gia:
+- **`national sovereignty / territorial integrity`** *(chủ quyền quốc gia / toàn vẹn lãnh thổ)*:
+  - *"The United Nations Charter upholds the sovereign equality and **[[Sovereignty]]** of all member states."*
+  - *(Hiến chương Liên Hợp Quốc giữ vững nguyên tắc bình đẳng chủ quyền và chủ quyền của tất cả các quốc gia thành viên.)*
+- **`cross the national border`** *(vượt qua biên giới quốc gia)*:
+  - *"Travelers must display a valid **[[Passport]]** and visa whenever they cross an international **[[Border]]**."*
+  - *(Khách du lịch phải xuất trình hộ chiếu và thị thực hợp lệ bất cứ khi nào họ vượt qua biên giới quốc tế.)*
+- **`jurisdictional authority`** *(thẩm quyền tài phán pháp lý)*:
+  - *"The coastal guard exercises **[[Jurisdictional]]** oversight throughout its designated maritime zone."*
+  - *(Lực lượng cảnh sát biển thực thi quyền giám sát pháp lý trên toàn bộ vùng biển được chỉ định.)*
+
+#### 2. Khi nói về văn hóa, cư dân & Hội nhập:
+- **`multicultural society / diverse culture`** *(xã hội đa văn hóa / nền văn hóa đa dạng)*:
+  - *"Living in a **[[Multicultural]]** society broadens our perspectives and fosters intercultural empathy."*
+  - *(Sống trong một xã hội đa văn hóa mở rộng tầm nhìn của chúng ta và nuôi dưỡng sự đồng cảm giữa các nền văn hóa.)*
+- **`cultural acculturation`** *(sự tiếp nhận và hòa nhập văn hóa)*:
+  - *"Immersion into community life expedites the natural **[[Acculturation]]** of new residents."*
+  - *(Hòa mình vào đời sống cộng đồng giúp thúc đẩy nhanh quá trình tiếp nhận văn hóa tự nhiên của các cư dân mới.)*
+- **`indigenous heritage / ancient traditions`** *(di sản bản địa / truyền thống cổ xưa)*:
+  - *"Museums play a pivotal role in protecting **[[Indigenous]]** artifacts and historic **[[Tradition|traditions]]**."*
+  - *(Các bảo tàng đóng vai trò nòng cốt trong việc bảo vệ các hiện vật bản địa và những truyền thống lịch sử.)*
+
+#### 3. Khi nói về cộng đồng kiều bào & Tiền tệ quốc tế:
+- **`overseas diaspora`** *(cộng đồng kiều bào ở nước ngoài)*:
+  - *"Remittances sent by the overseas **[[Diaspora]]** provide substantial economic backing for developing nations."*
+  - *(Kiều hối do cộng đồng kiều bào ở nước ngoài gửi về cung cấp nguồn hỗ trợ kinh tế đáng kể cho các nước đang phát triển.)*
+- **`foreign currency exchange`** *(đổi ngoại tệ)*:
+  - *"Before boarding your international flight, make sure to convert some local **[[Currency]]**."*
+  - *(Trước khi lên chuyến bay quốc tế, hãy nhớ đổi một ít tiền tệ địa phương.)*
+- **`combat xenophobia`** *(chống lại chủ nghĩa bài ngoại)*:
+  - *"Civic educational campaigns strive to combat **[[Xenophobia]]** and promote equal rights for all."*
+  - *(Các chiến dịch giáo dục công dân nỗ lực đấu tranh chống nạn bài ngoại và thúc đẩy quyền bình đẳng cho tất cả mọi người.)*

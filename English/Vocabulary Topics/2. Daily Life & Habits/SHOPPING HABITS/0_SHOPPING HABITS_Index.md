@@ -7,7 +7,7 @@ Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực q
 - **🛒 1. Nơi mua sắm, Món đồ & Quá trình thanh toán** (Places, Items & Checkout): [[Aisle]], [[Basket]], [[Card]], [[Cart]], [[Cash]], [[Cashier]], [[Checkout]], [[Counter]], [[Grocery]], [[Mall]], [[Market]], [[Parcel]], [[Queue]], [[Receipt]], [[Shop]], [[Store]], [[Supermarket]], [[Trolley]], [[Try on]], [[Wallet]]
 - **💰 2. Giá cả, Giao dịch & Quản lý chi tiêu** (Prices, Transactions & Spending): [[Afford]], [[Bill]], [[Budget]], [[Buy]], [[Cheap]], [[Cost]], [[Credit card]], [[Expense]], [[Expensive]], [[Pay]], [[Price]], [[Procure]], [[Purchase]], [[Retail]], [[Sell]], [[Tip]], [[Wholesale]]
 - **🏷️ 3. Mặc cả, Giảm giá & Quyền lợi khách hàng** (Discounts, Bargains & Guarantees): [[Bargain]], [[Consumer]], [[Coupon]], [[Customer]], [[Discount]], [[Exchange]], [[Guarantee]], [[Haggle]], [[Promotion]], [[Refund]], [[Sale]], [[Sold out]], [[Stock]], [[Voucher]], [[Warranty]]
-- **🛍️ 4. Thói quen mua sắm, Tâm lý & Phân khúc thị trường** (Shopping Habits, Psychology & Niches): [[Brand]], [[Exorbitant]], [[Extortionate]], [[Frugal]], [[Impulse]], [[Lavish]], [[Lucrative]], [[Merchandising]], [[Niche]], [[Overspend]], [[Quality]], [[Rip-off]], [[Rip_off]], [[Shopaholic]], [[Shopper]], [[Splurge]], [[Stingy]], [[Thrift]], [[Window shopping]]
+- **🛍️ 4. Thói quen mua sắm, Tâm lý & Phân khúc thị trường** (Shopping Habits, Psychology & Niches): [[Brand]], [[Exorbitant]], [[Extortionate]], [[Frugal]], [[Impulse]], [[Lavish]], [[Lucrative]], [[Merchandising]], [[Niche]], [[Overspend]], [[Quality]], [[Rip_off|rip-off]], [[Rip_off]], [[Shopaholic]], [[Shopper]], [[Splurge]], [[Stingy]], [[Thrift]], [[Window shopping]]
 ## Danh sách từ vựng theo nhóm ngữ nghĩa
 
 ### 🛒 1. Nơi mua sắm, Món đồ & Quá trình thanh toán (Places, Items & Checkout)
@@ -95,7 +95,7 @@ Các từ vựng đã được **phân loại theo 4 nhóm ngữ nghĩa trực q
 | Lucrative | /ˈluː.krə.tɪv/ [[lucrative.mp3\|🔊]] | C1 | adj | Sinh lời | lucratively (adv), lucrativeness (n) | [[Lucrative]] |
 | Merchandising | /ˈmɜː.tʃən.daɪ.zɪŋ/ [[merchandising.mp3\|🔊]] | C1 | n | Bán hàng | merchandise (v) | [[Merchandising]] |
 | Niche | /niːʃ/ [[niche.mp3\|🔊]] | C1 | n/adj | Thị trường ngách | nichely (adv), nicheness (n) | [[Niche]] |
-| Rip-off | /ˈrɪp.ɒf/ [[rip_off.mp3\|🔊]] | C1 | n | Giá chặt chém | rip off | [[Rip-off]] |
+| Rip-off | /ˈrɪp.ɒf/ [[rip_off.mp3\|🔊]] | C1 | n | Giá chặt chém | rip off | [[Rip_off|rip-off]] |
 | Rip_off | /ˈrɪp.ɒf/ [[rip_off.mp3\|🔊]] | C1 | n | Giá chặt chém | rip off (v) | [[Rip_off]] |
 | Shopaholic | /ˌʃɒp.əˈhɒl.ɪk/ [[shopaholic.mp3\|🔊]] | C1 | n | Người nghiện mua sắm | - | [[Shopaholic]] |
 | Splurge | /splɜːdʒ/ [[splurge.mp3\|🔊]] | C1 | v/n | Vung tiền | splurger (n), splurgable (adj) | [[Splurge]] |
@@ -124,3 +124,75 @@ Sarah used to be a self-proclaimed **[[Shopaholic]]**, often buying items on **[
 
 ### Bản dịch Tiếng Việt
 Sarah từng là một **người nghiện mua sắm** tự phong, thường mua những món đồ một cách **bốc đồng** mà cô hầu như không **đủ khả năng chi trả**. Tuy nhiên, gần đây cô đã quyết định hướng tới một lối sống **tiết kiệm** hơn. Thay vì mua sắm tại các cửa hàng thời trang **đắt đỏ**, hiện tại cô ghé thăm các chợ địa phương để **thu mua** các nhu yếu phẩm hàng ngày. Hôm qua, cô muốn **vung tiền** vào một chiếc áo khoác da cổ điển. Mặc dù giá ban đầu khá cao, cô đã thương lượng thành công, **mặc cả** với người bán và có được một **món hời** lớn. Hài lòng với món đồ của mình, cô tiến về **quầy thanh toán**, cẩn thận giữ lại **biên lai** để phòng trường hợp cần **hoàn tiền** sau này.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Mua sắm thông minh tại siêu thị & Kiểm soát ngân sách gia đình (Smart Grocery Shopping & Budget Discipline)
+> **Bối cảnh thực tế:** Hai người bạn cùng nhau đi mua sắm thực phẩm hàng tuần tại siêu thị lớn, trao đổi về mẹo lập ngân sách, săn khuyến mãi và tránh việc mua sắm ngẫu hứng quá đà.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Fiona:** Greg, grab a rolling **[[Trolley]]** near the entrance! I brought a strict shopping list so we don't **[[Overspend]]** our weekly **[[Budget]]**.
+  *(Greg, lấy một chiếc xe đẩy gần lối vào đi! Tớ đã mang theo một danh sách mua sắm nghiêm ngặt để chúng ta không tiêu vượt ngân sách tuần này.)*
+- **Greg:** Smart thinking, Fiona. It's so easy to buy on pure **[[Impulse]]** whenever I walk past the confectionery **[[Aisle]]**.
+  *(Suy nghĩ sáng suốt đấy, Fiona. Tớ rất dễ mua đồ theo cảm xúc bốc đồng mỗi khi đi ngang qua dãy kệ bánh kẹo.)*
+- **Fiona:** Exactly. Retailers design **[[Merchandising]]** displays specifically to tempt every **[[Consumer]]**. But look, this organic cereal is on a "Buy One, Get One" **[[Promotion]]**!
+  *(Chính xác luôn. Các nhà bán lẻ thiết kế quầy trưng bày hàng hóa nhằm mục đích cám dỗ người tiêu dùng mà. Nhưng nhìn này, loại ngũ cốc hữu cơ này đang có chương trình khuyến mãi "Mua 1 Tặng 1" đấy!)*
+- **Greg:** What a fantastic **[[Bargain]]**! Did you also clip digital **[[Coupon|coupons]]** on the store app?
+  *(Đúng là một món hời tuyệt vời! Cậu có lưu sẵn các mã giảm giá điện tử trên ứng dụng của cửa hàng chưa?)*
+- **Fiona:** Yes, I have a 15% **[[Discount]]** **[[Voucher]]** ready. Let's head to the **[[Checkout]]** **[[Counter]]** before the evening rush creates a long **[[Queue]]**.
+  *(Có chứ, tớ đã chuẩn bị sẵn một phiếu mua hàng giảm giá 15% rồi. Chúng ta hãy tiến ra quầy thanh toán trước khi giờ cao điểm buổi tối tạo thành hàng dài người xếp hàng nhé.)*
+- **Greg:** Perfect. I'll take out my **[[Credit card]]** to **[[Pay]]**, and please keep the paper **[[Receipt]]** in your **[[Wallet]]** in case we need an **[[Exchange]]** later.
+  *(Tuyệt hảo. Tớ sẽ rút thẻ tín dụng ra thanh toán, và cậu nhớ giữ lại biên lai giấy trong ví phòng khi chúng ta cần đổi hàng sau này nhé.)*
+
+---
+
+### 🌟 Tình huống 2: Săn đồ giảm giá & Tránh bẫy giá "chặt chém" ở khu chợ du lịch (Bargaining & Avoiding Rip-offs at a Tourist Market)
+> **Bối cảnh thực tế:** Hai du khách đi dạo qua một khu chợ trời sầm uất tại điểm du lịch nổi tiếng, học cách trả giá khéo léo để mua được món đồ thủ công độc đáo với mức giá hợp lý.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Natalie:** Chris, look at those handcrafted leather messenger bags in that souvenir stall! The craftsmanship and leather **[[Quality]]** look authentic.
+  *(Chris, hãy nhìn những chiếc túi đeo chéo bằng da thủ công ở quầy lưu niệm kia xem! Tay nghề chế tác và chất lượng da trông thật chuẩn đấy.)*
+- **Chris:** They look great, but be cautious, Natalie. Street vendors here often quote **[[Exorbitant]]** prices to foreign **[[Shopper|shoppers]]**. That initial quote is an absolute **[[Rip_off|rip-off]]**!
+  *(Trông đẹp thật đấy, nhưng cẩn thận nhé Natalie. Người bán hàng rong ở đây thường hét mức giá đắt cắt cổ đối với du khách. Mức giá báo ban đầu đó chắc chắn là một sự chặt chém đấy!)*
+- **Natalie:** Don't worry, I know how to **[[Haggle]]** respectfully. Excuse me, sir! Can you offer a fair **[[Price]]** if we **[[Purchase]]** two items together?
+  *(Đừng lo, tớ biết cách mặc cả khéo léo và lịch sự mà. Xin lỗi bác ơi! Bác có thể bớt giá hữu nghị nếu chúng cháu mua hai chiếc cùng lúc không ạ?)*
+- **Vendor:** For two bags, I can give you a 30% discount off the sticker price!
+  *(Nếu lấy hai chiếc, bác có thể giảm giá 30% so với giá niêm yết cho các cháu nhé!)*
+- **Chris:** That brings it down to a price we can comfortably **[[Afford]]**. Does the shop provide any **[[Guarantee]]** or return policy?
+  *(Mức giá đó giảm xuống mức chúng ta hoàn toàn có đủ khả năng chi trả rồi. Cửa hàng mình có bảo đảm chất lượng hay chính sách hoàn trả gì không bác?)*
+- **Natalie:** He stamped our sales slip with a one-year **[[Warranty]]**. Walking away from an **[[Extortionate]]** price to secure a genuine deal is the art of **[[Thrift]]**!
+  *(Bác ấy đã đóng dấu phiếu bảo hành một năm cho chúng mình rồi. Tránh xa mức giá cắt cổ để có được một món hời thực sự chính là nghệ thuật chi tiêu thông thái tiết kiệm đấy!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi quản lý chi tiêu & Mua sắm thông minh:
+- **`stick to a budget`** *(kiên định bám sát ngân sách đề ra)*:
+  - *"Smart shoppers always make a grocery list and stick to a realistic monthly **[[Budget]]**."*
+  - *(Những người mua sắm thông thái luôn lên danh sách thực phẩm và kiên định bám sát ngân sách thực tế hàng tháng.)*
+- **`resist impulse buying`** *(cưỡng lại cám dỗ mua sắm bốc đồng)*:
+  - *"To avoid accumulating unnecessary clutter, learn to resist **[[Impulse]]** purchases."*
+  - *(Để tránh tích trữ đồ đạc ngổn ngang không cần thiết, hãy học cách cưỡng lại những quyết định mua sắm bốc đồng.)*
+- **`snap up a bargain`** *(chớp ngay món hàng giá hời)*:
+  - *"Savvy consumers wait for holiday sales to snap up an incredible **[[Bargain]]** on electronics."*
+  - *(Những người tiêu dùng am hiểu luôn chờ đợi các đợt giảm giá ngày lễ để chớp lấy những món hời tuyệt vời cho đồ điện tử.)*
+
+#### 2. Khi thương lượng giá cả & Tránh bị chặt chém:
+- **`haggle over the price`** *(mặc cả, trả giá món đồ)*:
+  - *"At traditional open-air bazaars, it is customary to **[[Haggle]]** over the initial asking **[[Price]]**."*
+  - *(Tại các khu chợ trời truyền thống, việc mặc cả trả giá so với mức giá ban đầu là điều rất bình thường.)*
+- **`exorbitant and extortionate rip-off`** *(mức giá đắt cắt cổ, chặt chém vô lý)*:
+  - *"Charging treble the regular fee for airport bottled water is an outright **[[Rip_off|rip-off]]**."*
+  - *(Tính giá gấp ba lần thông thường cho một chai nước lọc tại sân bay quả là một sự chặt chém trắng trợn.)*
+- **`procure quality goods`** *(thu mua, tìm mua hàng hóa chất lượng)*:
+  - *"Boutique cafes carefully **[[Procure]]** their coffee beans from sustainable organic farms."*
+  - *(Các quán cà phê cao cấp luôn cẩn trọng thu mua hạt cà phê từ những nông trại hữu cơ bền vững.)*
+
+#### 3. Khi thanh toán & Quyền lợi hậu mãi:
+- **`keep the receipt for a refund or exchange`** *(giữ biên lai để được hoàn tiền hoặc đổi trả)*:
+  - *"Always retain your purchase **[[Receipt]]** in case you need to request an **[[Exchange]]** or a **[[Refund]]**."*
+  - *(Hãy luôn giữ lại biên lai mua hàng phòng khi bạn cần yêu cầu đổi hàng hoặc hoàn tiền.)*
+- **`valid warranty and guarantee`** *(phiếu bảo hành và sự bảo đảm còn hiệu lực)*:
+  - *"High-end electronic devices should always come with a comprehensive manufacturer **[[Warranty]]**."*
+  - *(Các thiết bị điện tử cao cấp phải luôn đi kèm với phiếu bảo hành toàn diện từ nhà sản xuất.)*"

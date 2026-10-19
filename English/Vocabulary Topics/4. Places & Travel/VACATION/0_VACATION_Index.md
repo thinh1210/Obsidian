@@ -127,3 +127,77 @@ Driven by a lifelong [[Wanderlust]], Sarah decided to embark on a [[Globetrottin
 
 ### Bản dịch Tiếng Việt
 Được thúc đẩy bởi **niềm đam mê du lịch** suốt đời, Sarah quyết định bắt đầu một cuộc phiêu lưu **du lịch vòng quanh thế giới** để tìm kiếm **sự nghỉ ngơi** rất cần thiết sau cuộc sống thành thị đầy áp lực. Cô chọn một thung lũng hẻo lánh ở Thụy Sĩ làm **điểm đến** chính của mình. Thay vì bám sát vào một **lịch trình** cứng nhắc, cô thích khám phá tự phát hơn. Trong một **chuyến dã ngoại** trong ngày, cô tình cờ gặp một ngôi làng **đẹp như tranh vẽ** được bao quanh bởi những đỉnh núi Alps **ngoạn mục**. Tại đây, trong viên ngọc ẩn giấu này, cô bắt đầu **sự lưu trú tạm thời** kéo dài một tháng của mình, hòa mình vào lối sống của người dân địa phương. **Sự yên bình** tuyệt đối của núi rừng đã cho phép cô hoàn toàn **thư giãn** khi lắng nghe tiếng gió thì thầm dịu nhẹ. **Cuộc phiêu lưu** yên bình này chính xác là những gì cô cần để phục hồi năng lượng và tìm lại sự hòa hợp bên trong trước khi trở lại với thực tại.
+
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Nhận phòng khu nghỉ dưỡng ven biển & Thư giãn xả hơi (Seaside Resort Check-in & Relaxation)
+> **Bối cảnh thực tế:** Tại quầy lễ tân (**[[Reception]]**) của một khu nghỉ dưỡng biển sang trọng (**[[Resort]]** / **[[Hotel]]**), một vị khách (**[[Guest]]**) làm thủ tục nhận phòng (**[[Check-in]]**) và hỏi về dịch vụ ăn uống tại phòng (**[[Room service]]**), bãi biển riêng (**[[Beach]]** / **[[Seaside]]**) để tắm nắng (**[[Sunbathe]]**) và thư giãn (**[[Unwind]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Receptionist:** Good afternoon, sir! Welcome to Azure Coast **[[Resort]]**. How may I assist you today?
+  *(Chào buổi chiều quý khách! Chào mừng quý khách đến với khu nghỉ dưỡng Azure Coast. Tôi có thể giúp gì cho quý khách hôm nay ạ?)*
+- **Oliver:** Hello! I'm checking in under the name Oliver Sterling. I have a confirmed **[[Reservation]]** for an oceanfront villa.
+  *(Xin chào! Tôi làm thủ tục nhận phòng dưới tên Oliver Sterling. Tôi có đặt chỗ trước đã xác nhận cho một căn biệt thự hướng biển.)*
+- **Receptionist:** Yes, Mr. Sterling. Here is your electronic key card. Your suite offers a **[[Breathtaking]]** **[[View]]** of the azure **[[Ocean]]**, and our 24/7 **[[Room service]]** is always at your beck and call.
+  *(Vâng, thưa ông Sterling. Đây là thẻ từ của ông. Căn phòng của ông có tầm nhìn ngoạn mục ra đại dương xanh ngắt, và dịch vụ phục vụ ăn uống tại phòng 24/7 của chúng tôi luôn sẵn sàng phục vụ.)*
+- **Oliver:** Perfect. After months of endless office meetings, I desperately need this **[[Respite]]** to completely **[[Unwind]]** and recharge.
+  *(Tuyệt vời. Sau nhiều tháng ròng rã họp hành triền miên ở văn phòng, tôi thực sự cần khoảng thời gian nghỉ ngơi này để hoàn toàn thả lỏng tinh thần và nạp lại năng lượng.)*
+- **Receptionist:** We understand completely. You can lounge on the soft golden **[[Sand]]**, **[[Sunbathe]]** along the private **[[Seaside]]**, or book a sunset catamaran cruise.
+  *(Chúng tôi hoàn toàn thấu hiểu. Ông có thể nằm thư giãn trên bãi cát vàng mềm mại, tắm nắng dọc theo bờ biển riêng, hoặc đặt một chuyến du thuyền catamaran ngắm hoàng hôn.)*
+- **Oliver:** That sounds like absolute heaven. Thank you for the wonderful hospitality!
+  *(Nghe tuyệt như thiên đường vậy. Cảm ơn sự đón tiếp nồng hậu của khách sạn!)*
+
+---
+
+### 🌟 Tình huống 2: Lên kế hoạch cho kỳ nghỉ gia đình & Chuyến dã ngoại trong ngày (Family Vacation Planning & Scenic Day Trips)
+> **Bối cảnh thực tế:** Tại ban công phòng khách sạn nhìn ra phong cảnh non nước (**[[Landscape]]** / **[[Scenery]]**), hai vợ chồng bàn bạc về việc đặt một tour dã ngoại trong ngày (**[[Day trip]]** / **[[Excursion]]**) để tham quan ngắm cảnh (**[[Sightseeing]]**) và chụp lại những bức ảnh kỷ niệm khó quên (**[[Photograph]]** / **[[Unforgettable]]** **[[Memory]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Mark:** Emma, look at the morning sunlight illuminating that mountain **[[Landscape]]**! This family **[[Getaway]]** is turning out even better than we hoped.
+  *(Emma ơi, nhìn ánh nắng ban mai chiếu rọi lên cảnh quan núi non kìa! Chuyến đi nghỉ ngơi của gia đình mình hóa ra còn tuyệt vời hơn cả mong đợi.)*
+- **Emma:** It really is! Should we book that wildlife **[[Safari]]** or take a scenic **[[Day trip]]** to the historic lighthouse along the coast?
+  *(Thực sự là vậy! Chúng mình nên đặt chuyến thám hiểm động vật hoang dã hay làm một chuyến đi dã ngoại trong ngày tới ngọn hải đăng lịch sử ven biển đây?)*
+- **Mark:** Our tour **[[Guide]]** recommended the coastal **[[Excursion]]**. It includes visiting a **[[Picturesque]]** fishing hamlet where we can pick up handcrafted **[[Souvenir|souvenirs]]**.
+  *(Hướng dẫn viên du lịch khuyên chúng mình nên đi chuyến dã ngoại ven biển. Chuyến đi có ghé thăm một làng chài đẹp như tranh vẽ, nơi chúng mình có thể mua những món quà lưu niệm thủ công.)*
+- **Emma:** Wonderful! I'll make sure our **[[Camera]]** is charged so we can capture lots of **[[Photograph|photographs]]** and create an **[[Unforgettable]]** **[[Memory]]** for the kids.
+  *(Tuyệt quá! Em sẽ nhớ sạc đầy máy ảnh để chúng mình có thể chụp thật nhiều bức hình và tạo nên một kỷ niệm khó quên cho các con.)*
+- **Mark:** Agreed. Let's head down to breakfast, complete our **[[Day trip]]** booking, and make the most of this precious **[[Leisure]]** time!
+  *(Nhất trí luôn. Hãy cùng xuống ăn sáng, hoàn tất đặt tour trong ngày và tận hưởng trọn vẹn khoảng thời gian thảnh thơi quý giá này nào!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nghỉ dưỡng & Thư giãn tinh thần:
+- **`relax and unwind`** *(nghỉ ngơi và thư giãn thả lỏng tinh thần)*:
+  - *"A week by the quiet lake helped her completely relax and **[[Unwind]]**."*
+  - *(Một tuần bên bờ hồ yên tĩnh đã giúp cô ấy hoàn toàn nghỉ ngơi và thả lỏng tinh thần.)*
+- **`much-needed respite / holiday reprieve`** *(khoảng thời gian nghỉ ngơi giải lao vô cùng cần thiết)*:
+  - *"The winter holiday provided a much-needed **[[Respite]]** from rigorous academic coursework."*
+  - *(Kỳ nghỉ đông đã mang lại khoảng thời gian nghỉ xả hơi vô cùng cần thiết sau những đợt học hành căng thẳng.)*
+- **`sunbathe on the golden sand`** *(tắm nắng trên bãi cát vàng)*:
+  - *"Holidaymakers love to **[[Sunbathe]]** on the warm **[[Sand]]** while listening to crashing waves."*
+  - *(Những người đi nghỉ mát rất thích tắm nắng trên bãi cát ấm áp trong khi lắng nghe tiếng sóng vỗ.)*
+
+#### 2. Khi đặt phòng & Dịch vụ khách sạn:
+- **`oceanfront resort / luxury hotel`** *(khu nghỉ dưỡng hướng biển / khách sạn sang trọng)*:
+  - *"Couples frequently choose an oceanfront **[[Resort]]** for their honeymoon celebrations."*
+  - *(Các cặp đôi thường xuyên lựa chọn khu nghỉ dưỡng sát biển cho tuần trăng mật của mình.)*
+- **`smooth check-in / check-out process`** *(thủ tục nhận phòng / trả phòng nhanh gọn, thuận lợi)*:
+  - *"The hotel staff ensured a remarkably prompt and courteous **[[Check-in]]** for all arriving guests."*
+  - *(Nhân viên khách sạn đảm bảo thủ tục nhận phòng vô cùng nhanh chóng và lịch sự cho tất cả các vị khách mới đến.)*
+- **`24-hour room service`** *(dịch vụ phục vụ ăn uống tại phòng 24/24)*:
+  - *"After a long international flight, ordering hot soup via **[[Room service]]** was pure comfort."*
+  - *(Sau một chuyến bay quốc tế dài, gọi một bát súp nóng qua dịch vụ phục vụ phòng quả là một sự dễ chịu thuần túy.)*
+
+#### 3. Khi khám phá & Lưu giữ kỷ niệm:
+- **`picturesque landscape / breathtaking view`** *(cảnh quan đẹp như tranh / tầm nhìn ngoạn mục)*:
+  - *"Our balcony offered a **[[Breathtaking]]** panoramic **[[View]]** across the verdant valley."*
+  - *(Ban công của chúng tôi mang lại tầm nhìn toàn cảnh ngoạn mục khắp thung lũng xanh tươi.)*
+- **`unforgettable memory / precious moments`** *(kỷ niệm khó phai / những khoảnh khắc quý giá)*:
+  - *"Watching dolphins leap beside our catamaran created an **[[Unforgettable]]** family **[[Memory]]**."*
+  - *(Khoảnh khắc ngắm nhìn những chú cá heo nhảy múa bên mạn thuyền catamaran đã tạo nên một kỷ niệm gia đình khó phai.)*
+- **`scenic day trip / guided excursion`** *(chuyến đi dã ngoại trong ngày ngắm cảnh / chuyến du ngoạn có hướng dẫn)*:
+  - *"We signed up for a scenic **[[Day trip]]** to explore ancient cliff dwellings in the nearby national park."*
+  - *(Chúng tôi đã đăng ký một chuyến đi ngắm cảnh trong ngày để khám phá những ngôi nhà trên vách đá cổ trong công viên quốc gia gần đó.)*

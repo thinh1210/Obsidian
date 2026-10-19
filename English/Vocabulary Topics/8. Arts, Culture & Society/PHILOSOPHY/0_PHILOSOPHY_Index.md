@@ -108,3 +108,78 @@ For centuries, human beings have turned to **[[Philosophy]]** to make sense of o
 
 ### Bản dịch Tiếng Việt
 Trong nhiều thế kỷ, con người đã tìm đến **triết học** để hiểu rõ hơn về **sự tồn tại** của chúng ta và ý nghĩa của việc có **ý thức**. Một **người hoài nghi** điển hình có thể sử dụng **logic** để mổ xẻ **nghịch lý** tối hậu của cuộc sống, đi sâu vào **nhận thức luận** để tự hỏi làm thế nào chúng ta thực sự biết được bất cứ điều gì. Trong khi **chủ nghĩa hiện sinh** thúc giục chúng ta tự tạo ra ý nghĩa cho riêng mình trong một vũ trụ dường như thờ ơ, thì **chủ nghĩa khắc kỷ** dạy chúng ta chấp nhận những gì không thể kiểm soát, ngăn chúng ta rơi vào khoảng trống tăm tối của **chủ nghĩa hư vô**. Thông qua những hệ tư tưởng đa dạng này, chúng ta xem xét nền tảng của **đạo đức** và tìm kiếm **sự thật** tối hậu, nhận ra rằng hiểu biết của chúng ta thường là sự kết hợp giữa các sự thật **khách quan** và những trải nghiệm **chủ quan**.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tranh luận đạo đức học về Thuyết vị lợi và Trí tuệ nhân tạo (Applied Ethics & Utilitarianism in Autonomous Systems)
+> **Bối cảnh thực tế:** Trong một hội thảo chuyên đề về đạo đức công nghệ, một triết gia đạo đức học và một kỹ sư hệ thống tranh luận về thuật toán ra quyết định sinh tử cho xe tự hành khi đối mặt với tình huống tai nạn không thể tránh khỏi.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Samuel (Ethicist):** When designing autonomous algorithms, we cannot simply rely on cold **[[Utilitarianism]]** to calculate who lives and who dies.
+  *(Khi thiết kế các thuật toán tự hành, chúng ta không thể đơn thuần dựa vào thuyết vị lợi lạnh lùng để tính toán xem ai được sống và ai phải chết.)*
+- **Karen (AI Engineer):** But maximizing the overall **[[Good]]** by minimizing total casualties is mathematically the most **[[Rational]]** strategy available!
+  *(Nhưng tối đa hóa lợi ích chung bằng cách giảm thiểu tổng số thương vong về mặt toán học chính là chiến lược hợp lý nhất hiện có!)*
+- **Dr. Samuel (Ethicist):** Morality cannot be reduced to simple arithmetic. What about the fundamental moral **[[Principle]]** that human life has intrinsic, sacred **[[Value]]**?
+  *(Đạo đức không thể bị quy giản thành môn số học đơn giản. Thế còn nguyên tắc đạo đức cơ bản cho rằng sự sống con người mang giá trị nội tại thiêng liêng thì sao?)*
+- **Karen (AI Engineer):** In an emergency crash scenario, an autonomous system has milliseconds to act. It must be guided by clear **[[Logic]]**, not paralyzed by a moral **[[Paradox]]**.
+  *(Trong một tình huống va chạm khẩn cấp, hệ thống tự hành chỉ có vài phần nghìn giây để hành động. Nó phải được dẫn dắt bởi logic rõ ràng, chứ không thể bị tê liệt bởi một nghịch lý đạo đức.)*
+- **Dr. Samuel (Ethicist):** Which is why engineers and philosophers must establish universal rules distinguishing what is fundamentally **[[Right]]** from what is morally **[[Wrong]]**.
+  *(Đó là lý do tại sao các kỹ sư và triết gia phải cùng nhau thiết lập các quy tắc phổ quát phân định điều gì về căn bản là đúng đắn và điều gì là sai trái về mặt đạo lý.)*
+- **Karen (AI Engineer):** Agreed. Only by combining technological capability with human **[[Wisdom]]** can we build machines that truly serve ethical human **[[Life]]**.
+  *(Tôi đồng ý. Chỉ bằng cách kết hợp năng lực công nghệ với trí tuệ của con người, chúng ta mới có thể tạo ra những cỗ máy thực sự phụng sự cuộc sống đạo đức của nhân loại.)*
+
+---
+
+### 🌟 Tình huống 2: Thảo luận về bản chất của ý thức và thực tại khách quan (The Mind-Body Dilemma & Objective Reality)
+> **Bối cảnh thực tế:** Tại một buổi tọa đàm triết học, một học giả theo thuyết nhị nguyên tranh luận với một nhà khoa học nhận thức theo trường phái duy nghiệm về việc liệu ý thức có vượt lên trên vật chất hay chỉ là ảo giác của não bộ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Julian (Dualist):** Descartes was right: mind and matter belong to distinct realms. Classical **[[Dualism]]** best explains the subjective wonder of being **[[Conscious]]**.
+  *(Descartes đã đúng: tâm trí và vật chất thuộc về hai cõi giới hoàn toàn tách biệt. Thuyết nhị nguyên cổ điển giải thích tốt nhất sự kỳ diệu chủ quan của việc có ý thức.)*
+- **Chloe (Empiricist):** As a defender of scientific **[[Empiricism]]**, I argue that every mental state correlates directly with measurable neural activity in the brain.
+  *(Là một người bảo vệ thuyết duy nghiệm khoa học, tôi lập luận rằng mọi trạng thái tinh thần đều tương quan trực tiếp với hoạt động thần kinh đo lường được trong não bộ.)*
+- **Julian (Dualist):** Correlation does not equal identity. You can scan brain waves, but you cannot observe the subjective qualia of my thoughts or the immaterial **[[Soul]]**.
+  *(Sự tương quan không đồng nghĩa với sự đồng nhất. Bạn có thể quét sóng não, nhưng bạn không thể quan sát được cảm giác chủ quan trong suy nghĩ hay linh hồn phi vật chất của tôi.)*
+- **Chloe (Empiricist):** But positing untestable substances pushes inquiry into speculative **[[Metaphysics]]**, bringing us dangerously close to solipsistic skepticism.
+  *(Nhưng việc giả định những bản thể không thể kiểm chứng sẽ đẩy cuộc điều tra vào siêu hình học mang tính suy đoán, đưa chúng ta đến rất gần với chủ nghĩa hoài nghi duy ngã.)*
+- **Julian (Dualist):** Far from **[[Solipsism]]**, acknowledging the mystery of human **[[Mind]]** prevents us from reducing human beings to mechanical automata.
+  *(Xa rời thuyết duy ngã, việc thừa nhận sự bí ẩn của tâm trí con người giúp ngăn chúng ta quy giản con người thành những cỗ máy tự động cơ học.)*
+- **Chloe (Empiricist):** Perhaps rigorous **[[Epistemology]]** will one day bridge this gap, revealing the ultimate **[[Truth]]** about human consciousness.
+  *(Có lẽ nhận thức luận nghiêm cẩn một ngày nào đó sẽ bắc cầu nối khoảng cách này, hé lộ chân lý tối hậu về ý thức của con người.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Thuyết khắc kỷ, Chủ nghĩa hiện sinh & Hư vô (Stoicism, Existentialism & Nihilism):
+- **`practice stoicism / cultivate inner virtue`** *(thực hành chủ nghĩa khắc kỷ / trau dồi đức hạnh nội tâm)*:
+  - *"Adopting the daily tenets of **[[Stoicism]]** empowers individuals to nurture moral **[[Virtue]]** amidst life's turbulence."*
+  - *(Việc áp dụng các nguyên lý hàng ngày của chủ nghĩa khắc kỷ giúp mỗi người nuôi dưỡng đức hạnh đạo đức giữa những biến động của cuộc đời.)*
+- **`existential freedom / authentic choice`** *(sự tự do hiện sinh / sự lựa chọn đích thực)*:
+  - *"Proponents of **[[Existentialism]]** argue that human beings are fundamentally **[[Free]]** to forge their own destiny."*
+  - *(Những người ủng hộ chủ nghĩa hiện sinh lập luận rằng con người về căn bản là tự do để tự định đoạt số phận của chính mình.)*
+- **`confront nihilism / find meaning in absurdity`** *(đối mặt chủ nghĩa hư vô / tìm kiếm ý nghĩa giữa nghịch lý phi lý)*:
+  - *"Rather than surrendering to despairing **[[Nihilism]]**, Camus embraced **[[Absurdism]]** as an invitation to live courageously."*
+  - *(Thay vì đầu hàng trước chủ nghĩa hư vô tuyệt vọng, Camus đón nhận chủ nghĩa phi lý như một lời mời gọi sống can trường.)*
+
+#### 2. Nhận thức luận, Tính khách quan & Lý tính (Epistemology, Rationality & Objective Truth):
+- **`pursue objective truth / verify empirical claims`** *(theo đuổi sự thật khách quan / kiểm chứng các nhận định thực nghiệm)*:
+  - *"Philosophers of science seek **[[Objective]]** criteria to determine the definitive **[[Truth]]** of physical phenomena."*
+  - *(Các triết gia khoa học tìm kiếm các tiêu chí khách quan để xác định chân lý dứt khoát của các hiện tượng vật lý.)*
+- **`exercise rational inquiry / sound human reason`** *(thực hiện tìm tòi bằng lý trí / lý tính sáng suốt của con người)*:
+  - *"Through rigorous self-reflection, thinkers apply disciplined **[[Reason]]** and clear **[[Logic]]** to challenge superstition."*
+  - *(Thông qua việc tự vấn nghiêm cẩn, các nhà tư tưởng áp dụng lý tính kỷ luật và logic mạch lạc để thách thức những mê tín dị đoan.)*
+- **`question reality / pierce the veil of illusion`** *(chất vấn thực tại / xuyên qua tấm màn ảo ảnh)*:
+  - *"Eastern metaphysics frequently questions whether the sensory world is genuinely **[[Real]]** or a transient **[[Illusion]]**."*
+  - *(Siêu hình học phương Đông thường đặt câu hỏi liệu thế giới giác quan có thực sự có thật hay chỉ là một ảo ảnh thoáng qua.)*
+
+#### 3. Đạo đức học & Mục đích luận (Ethics, Altruism & Teleological Meaning):
+- **`embrace selfless altruism / uphold moral duty`** *(thực hành lòng vị tha quên mình / duy trì nghĩa vụ đạo đức)*:
+  - *"Genuine moral nobility shines when people act with pure **[[Altruism]]** to assist others in distress."*
+  - *(Sự cao quý đạo đức thực sự tỏa sáng khi con người hành động bằng lòng vị tha thuần khiết để giúp đỡ những kẻ gặp hoạn nạn.)*
+- **`utilitarian ethics / greatest happiness principle`** *(đạo đức học vị lợi / nguyên tắc hạnh phúc lớn nhất)*:
+  - *"Classical **[[Utilitarianism]]** evaluates any action based on whether it produces the greatest net **[[Good]]**."*
+  - *(Thuyết vị lợi cổ điển đánh giá bất kỳ hành động nào dựa trên việc liệu nó có tạo ra lợi ích ròng lớn nhất hay không.)*
+- **`teleological design / ultimate purpose of nature`** *(thiết kế mang tính mục đích luận / mục đích tối hậu của tự nhiên)*:
+  - *"Aristotle's philosophy relied on **[[Teleology]]**, proposing that everything in physical **[[Nature]]** strives toward a specific end."*
+  - *(Triết học của Aristotle dựa trên mục đích luận, đưa ra quan điểm rằng mọi vật trong giới tự nhiên đều hướng tới một cứu cánh cụ thể.)*

@@ -108,3 +108,78 @@ As a visionary [[Entrepreneur]], Sarah spent years gathering enough [[Capital]] 
 
 ### Bản dịch Tiếng Việt
 Với tư cách là một **nhà khởi nghiệp** có tầm nhìn xa trông rộng, Sarah đã dành nhiều năm để tích lũy đủ **nguồn vốn** để thành lập công ty khởi nghiệp của mình. Cô đã bảo đảm được một **khoản đầu tư** lớn bằng cách chứng minh một **chiến lược** kinh doanh vững chắc được điều chỉnh phù hợp với **thị trường** địa phương. Trong năm đầu tiên, cô quản lý chặt chẽ **ngân sách** của mình để tối đa hóa **doanh thu** và tránh những **khoản nợ** không cần thiết. Tuy nhiên, khi một cuộc **suy thoái kinh tế** toàn cầu bất ngờ ập đến, nhiều công ty đã phải vật lộn. Chính phủ đã ban hành các chính sách **tài khóa** mới, khiến một **tập đoàn đa ngành** lớn cố gắng thiết lập vị thế **độc quyền** trong lĩnh vực của cô. Thay vì cố gắng **đầu cơ** vào các tài sản rủi ro cao, Sarah tập trung vào việc duy trì **khả năng thanh toán nợ dài hạn** của công ty mình để sống sót qua thời kỳ suy thoái kinh tế. Cuối cùng, những lựa chọn thận trọng của cô đã mang lại quả ngọt, chứng minh rằng khả năng phục hồi là chìa khóa trong kinh doanh.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Ứng phó lạm phát & Suy thoái trong hội đồng quản trị (Navigating Inflation & Economic Recession)
+> **Bối cảnh thực tế:** Nhà kinh tế trưởng (Chief Economist - Dr. Thorne) thuyết trình trước Hội đồng quản trị do Chủ tịch (Chairwoman - Evelyn) chủ trì về tác động của chính sách tài khóa thắt chặt và lạm phát đối với chi phí hoạt động của tập đoàn.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Evelyn (Chairwoman):** Dr. Thorne, current macroeconomic indicators point toward a looming global **[[Recession]]**. How will persistent **[[Inflation]]** impact our manufacturing operations?
+  *(Evelyn: Tiến sĩ Thorne, các chỉ số kinh tế vĩ mô hiện tại đều chỉ ra một cuộc suy thoái toàn cầu sắp xảy ra. Tình trạng lạm phát kéo dài sẽ tác động thế nào đến các hoạt động sản xuất của chúng ta?)*
+- **Dr. Thorne (Chief Economist):** Raw material prices are soaring due to supply bottlenecks. The fundamental balance of **[[Supply]]** and **[[Demand]]** is putting severe upward pressure on our unit production **[[Cost]]**.
+  *(Dr. Thorne: Giá nguyên vật liệu thô đang tăng vọt do tắc nghẽn nguồn cung. Sự cân bằng cơ bản giữa cung và cầu đang gây áp lực tăng giá nghiêm trọng lên chi phí sản xuất trên từng đơn vị sản phẩm của chúng ta.)*
+- **Evelyn:** If we raise the retail **[[Price]]** of our flagship **[[Product]]**, will we alienate our price-sensitive **[[Consumer]]** base and lose ground to the **[[Competition]]**?
+  *(Evelyn: Nếu chúng ta tăng giá bán lẻ của dòng sản phẩm chủ lực, liệu chúng ta có làm phật lòng tệp người tiêu dùng nhạy cảm về giá và đánh mất vị thế trước các đối thủ cạnh tranh không?)*
+- **Dr. Thorne:** Elasticity models suggest that steep price hikes will slash sales volumes. Instead, we should optimize our operating **[[Budget]]** and renegotiate our vendor **[[Contract|contracts]]** to protect our net **[[Profit]]**.
+  *(Dr. Thorne: Các mô hình co giãn cho thấy việc tăng giá mạnh tay sẽ làm sụt giảm sản lượng bán hàng. Thay vào đó, chúng ta nên tối ưu hóa ngân sách hoạt động và đàm phán lại các hợp đồng với nhà cung cấp để bảo vệ lợi nhuận ròng.)*
+- **Evelyn:** What about expanding our cross-border footprint? Should we shift focus toward **[[Export]]** markets or rely on domestic government **[[Subsidy|subsidies]]**?
+  *(Evelyn: Còn việc mở rộng dấu ấn xuyên biên giới thì sao? Chúng ta nên chuyển hướng tập trung sang các thị trường xuất khẩu hay dựa vào các khoản trợ cấp của chính phủ trong nước?)*
+- **Dr. Thorne:** Diversifying exports into resilient emerging markets is our most effective long-term **[[Strategy]]** to ensure corporate **[[Solvency]]** and maintain healthy **[[Revenue]]**.
+  *(Dr. Thorne: Đa dạng hóa xuất khẩu sang các thị trường mới nổi có sức chống chịu tốt là chiến lược dài hạn hiệu quả nhất để bảo đảm khả năng thanh toán nợ của doanh nghiệp và duy trì doanh thu lành mạnh.)*
+
+---
+
+### 🌟 Tình huống 2: Chống độc quyền & Điều tra liên minh giá bất hợp pháp (Antitrust & Cartel Investigation in Corporate Markets)
+> **Bối cảnh thực tế:** Buổi làm việc giữa Luật sư trưởng của tập đoàn (General Counsel - Patricia) và Giám đốc điều hành (CEO - Gregory) sau khi cơ quan quản lý mở cuộc điều tra độc quyền nhắm vào thị trường hàng hóa.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Patricia (General Counsel):** Gregory, the antitrust commission just issued a subpoena regarding alleged collusive practices in the domestic agricultural **[[Commodity]]** sector.
+  *(Patricia: Gregory này, ủy ban chống độc quyền vừa gửi trát hầu tòa liên quan đến các cáo buộc về hành vi thông đồng trong ngành hàng hóa nông sản trong nước.)*
+- **Gregory (CEO):** Are they accusing our **[[Conglomerate]]** of operating an illegal **[[Cartel]]** or abusing market dominance to establish an artificial **[[Monopoly]]**?
+  *(Gregory: Họ đang cáo buộc tập đoàn của chúng ta vận hành một liên minh định giá bất hợp pháp hay đang lạm dụng vị thế thống lĩnh thị trường để thiết lập một thế độc quyền nhân tạo?)*
+- **Patricia:** Yes. Regulators suspect that leading industry players coordinated pricing policies to eliminate fair **[[Competition]]** and cement regional **[[Hegemony]]**.
+  *(Patricia: Đúng vậy. Các cơ quan quản lý nghi ngờ rằng các ông lớn dẫn đầu ngành đã phối hợp các chính sách định giá để triệt tiêu sự cạnh tranh lành mạnh và củng cố vị thế bá quyền khu vực.)*
+- **Gregory:** That is unfounded. Our pricing strictly reflects raw material **[[Import]]** tariffs and heavy initial capital **[[Investment]]** in cold-chain logistics.
+  *(Gregory: Điều đó thật vô căn cứ. Việc định giá của chúng ta hoàn toàn phản ánh các mức thuế nhập khẩu nguyên liệu và khoản đầu tư vốn ban đầu khổng lồ vào hệ thống hậu cần chuỗi cung ứng lạnh.)*
+- **Patricia:** To defend our corporate **[[Brand]]**, we must initiate an independent internal **[[Audit]]** immediately to demonstrate that all commercial **[[Contract|contracts]]** fully comply with antitrust legislation.
+  *(Patricia: Để bảo vệ thương hiệu của tập đoàn, chúng ta phải khởi động một cuộc kiểm toán nội bộ độc lập ngay lập tức nhằm chứng minh rằng mọi hợp đồng thương mại đều tuân thủ đầy đủ luật chống độc quyền.)*
+- **Gregory:** Agreed. Every ambitious **[[Entrepreneur]]** knows that regulatory transparency is critical to protecting enterprise value and sustaining long-term **[[Business]]** growth.
+  *(Gregory: Nhất trí. Mọi doanh nhân có tầm nhìn đều hiểu rằng sự minh bạch với các cơ quan quản lý là điều cốt tử để bảo vệ giá trị doanh nghiệp và duy trì sự phát triển kinh doanh dài hạn.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong kinh tế vĩ mô & Chu kỳ kinh doanh (Macroeconomics & Market Cycles):
+- **`economic recession and inflation`** *(suy thoái kinh tế và lạm phát)*:
+  - *"Central banks adjust interest rates to curb runaway **[[Inflation]]** without triggering a painful economic **[[Recession]]**."*
+  - *(Các ngân hàng trung ương điều chỉnh lãi suất để kiềm chế lạm phát phi mã mà không gây ra một cuộc suy thoái kinh tế đau đớn.)*
+- **`law of supply and demand`** *(quy luật cung và cầu)*:
+  - *"Market commodity prices inevitably adjust according to the classic dynamics of **[[Supply]]** and **[[Demand]]**."*
+  - *(Giá cả hàng hóa trên thị trường chắc chắn sẽ tự điều chỉnh theo động lực kinh điển của cung và cầu.)*
+- **`fiscal policy adjustment`** *(sự điều chỉnh chính sách tài khóa)*:
+  - *"Government officials implemented a disciplined **[[Fiscal]]** policy to reduce national debt obligations."*
+  - *(Các quan chức chính phủ đã thực thi một chính sách tài khóa có kỷ luật nhằm giảm bớt các nghĩa vụ nợ quốc gia.)*
+
+#### 2. Trong cấu trúc thị trường & Cạnh tranh (Market Structure & Fair Competition):
+- **`break up an illegal cartel`** *(triệt phá một liên minh định giá bất hợp pháp)*:
+  - *"Regulatory authorities imposed punitive fines to dissolve the price-fixing **[[Cartel]]** among chemical manufacturers."*
+  - *(Các cơ quan quản lý đã áp đặt các mức phạt mang tính trừng phạt nhằm giải tán liên minh thao túng giá giữa các nhà sản xuất hóa chất.)*
+- **`monopolistic market control`** *(sự kiểm soát thị trường mang tính độc quyền)*:
+  - *"Anti-monopoly watchdogs investigated whether the digital platform created an unlawful **[[Monopoly]]**."*
+  - *(Các cơ quan giám sát chống độc quyền đã điều tra xem liệu nền tảng kỹ thuật số đó có tạo ra thế độc quyền trái pháp luật hay không.)*
+- **`multinational conglomerate`** *(tập đoàn đa quốc gia quy mô lớn)*:
+  - *"The industrial **[[Conglomerate]]** divested its non-core subsidiaries to focus on sustainable green technology."*
+  - *(Tập đoàn công nghiệp đa ngành đã thoái vốn khỏi các công ty con phi cốt lõi để tập trung vào công nghệ xanh bền vững.)*
+
+#### 3. Trong thương mại quốc tế & Đầu tư (Trade, Investment & Commerce):
+- **`import and export trade balance`** *(cán cân thương mại xuất nhập khẩu)*:
+  - *"The nation expanded bilateral trade agreements to boost agricultural **[[Export]]** volume and offset manufactured **[[Import|imports]]**."*
+  - *(Quốc gia này đã mở rộng các hiệp định thương mại song phương để thúc đẩy sản lượng xuất khẩu nông sản và bù đắp lượng hàng hóa sản xuất nhập khẩu.)*
+- **`capital investment return`** *(lợi tức đầu tư vốn)*:
+  - *"Strategic capital **[[Investment]]** in automation enhanced factory efficiency and corporate profitability."*
+  - *(Khoản đầu tư vốn mang tính chiến lược vào tự động hóa đã nâng cao hiệu quả nhà máy và khả năng sinh lời của doanh nghiệp.)*
+- **`government financial subsidy`** *(khoản trợ cấp tài chính của chính phủ)*:
+  - *"Clean energy startups received a substantial government **[[Subsidy]]** to accelerate battery research."*
+  - *(Các công ty khởi nghiệp năng lượng sạch đã nhận được một khoản trợ cấp đáng kể từ chính phủ để đẩy nhanh nghiên cứu pin.)*

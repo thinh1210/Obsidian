@@ -128,3 +128,83 @@ If you want to **[[Learn]]** new skills and **[[Work]]** effectively, you must f
 
 ### Bản dịch Tiếng Việt
 Nếu bạn muốn **học** các kỹ năng mới và **làm việc** hiệu quả, trước tiên bạn phải **quyết định** thay đổi thói quen của mình. Nhiều người **nhận ra** họ cần phải **cải thiện** hiệu suất của mình, nhưng họ lại tiếp tục **trì hoãn** các công việc quan trọng. Sự chậm trễ này sẽ chỉ làm **trầm trọng thêm** sự căng thẳng và **gây nguy hiểm** cho sự nghiệp của họ. Để giải quyết vấn đề này, bạn nên **phác họa** một kế hoạch rõ ràng với các mốc thời gian cụ thể. Những bước này sẽ **yêu cầu** bạn phải **xem xét kỹ lưỡng** tiến trình hàng ngày và **duy trì** sự tập trung vào mục tiêu của mình. Bằng cách làm như vậy, bạn sẽ **phát triển** tính tự kỷ luật, điều này giúp **làm giảm bớt** áp lực của các hạn chót. Khi bạn đạt được các mục tiêu của mình, hãy sử dụng dữ liệu cụ thể để **xác minh** sự thành công của bạn, và đừng ngần ngại **làm sáng tỏ** các phương pháp của mình để truyền cảm hứng cho người khác.
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Giải quyết khủng hoảng rủi ro & Điều tra doanh nghiệp (Corporate Risk Containment & Internal Investigation)
+> **Bối cảnh thực tế:** Giám đốc quản trị rủi ro và điều tra viên độc lập họp bàn để xác minh các sai lệch kế toán, ngăn chặn nguy cơ làm trầm trọng thêm khủng hoảng truyền thông và đề xuất giải pháp giảm thiểu rủi ro.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Raymond:** Diana, our internal audit committee urgently needs to **[[Ascertain]]** whether the accounting discrepancies in the foreign subsidiary were deliberate fraud or administrative errors.
+  *(Diana, ủy ban kiểm toán nội bộ của chúng ta đang cần khẩn trương xác minh chắc chắn xem liệu những sai lệch kế toán ở công ty con ở nước ngoài là hành vi gian lận cố ý hay chỉ là sai sót hành chính.)*
+- **Diana:** My team has begun to **[[Scrutinize]]** every transaction over the past three fiscal quarters, Raymond. We collected electronic ledgers and emails to **[[Corroborate]]** our initial findings.
+  *(Nhóm của tôi đã bắt đầu xem xét kỹ lưỡng từng giao dịch trong suốt ba quý tài chính vừa qua rồi, Raymond. Chúng tôi đã thu thập sổ cái điện tử và email để xác minh củng cố thêm các phát hiện ban đầu của mình.)*
+- **Raymond:** Excellent. We must act decisively to **[[Mitigate]]** reputational damage before the news leaks to financial journalists. Any delay will only **[[Exacerbate]]** the market panic.
+  *(Tuyệt vời. Chúng ta phải hành động dứt khoát để giảm thiểu thiệt hại về danh tiếng trước khi tin tức rò rỉ tới các phóng viên tài chính. Mọi sự chậm trễ sẽ chỉ làm trầm trọng thêm sự hoảng loạn của thị trường.)*
+- **Diana:** Exactly. Unaddressed rumors could severely **[[Jeopardize]]** our upcoming bond issuance and compromise investor confidence.
+  *(Chính xác là vậy. Những tin đồn không được xử lý có thể gây nguy hiểm nghiêm trọng cho đợt phát hành trái phiếu sắp tới của chúng ta và làm tổn hại niềm tin của các nhà đầu tư.)*
+- **Raymond:** When you present your formal report to the board of directors tomorrow, please **[[Delineate]]** the exact timeline of events and clearly **[[Elucidate]]** how management intends to **[[Prevent]]** future breaches.
+  *(Khi cô trình bày báo cáo chính thức trước hội đồng quản trị vào ngày mai, xin hãy phác họa chi tiết dòng thời gian chính xác của các sự kiện và làm sáng tỏ rõ ràng cách ban điều hành dự định ngăn ngừa các vi phạm trong tương lai.)*
+- **Diana:** Absolutely. I will present transparent facts rather than using complicated jargon that might **[[Obfuscate]]** the core issues.
+  *(Chắc chắn rồi. Tôi sẽ trình bày những sự thật minh bạch thay vì dùng những thuật ngữ phức tạp có thể làm mờ mịt che giấu các vấn đề cốt lõi.)*
+
+---
+
+### 🌟 Tình huống 2: Cố vấn khởi nghiệp & Đổi mới sáng tạo (Startup Mentorship & Product Innovation)
+> **Bối cảnh thực tế:** Chuyên gia cố vấn kỳ cựu hướng dẫn một nhà sáng lập công nghệ trẻ cách phân tích thị trường, học hỏi những người đi trước mà không sao chép mù quáng, và minh oan cho tầm nhìn chiến lược của mình trước các nhà đầu tư.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Marcus:** Chloe, founding a disruptive tech startup is an exhilarating journey, but you must **[[Decide]]** where your engineering team should focus their limited energy.
+  *(Chloe, sáng lập một công ty khởi nghiệp công nghệ đột phá là một hành trình đầy hứng khởi, nhưng em phải quyết định rõ đội ngũ kỹ sư của mình nên tập trung nguồn năng lượng có hạn vào đâu.)*
+- **Chloe:** Marcus, we want to **[[Build]]** an AI-driven platform that will completely **[[Change]]** how remote teams collaborate, but we often feel pressured to **[[Emulate]]** the feature sets of giant incumbent software.
+  *(Anh Marcus, bọn em muốn xây dựng một nền tảng được vận hành bởi AI để thay đổi hoàn toàn cách các đội ngũ làm việc từ xa cộng tác, nhưng bọn em thường cảm thấy bị áp lực phải học hỏi bắt chước toàn bộ tính năng của các phần mềm khổng lồ đi trước.)*
+- **Marcus:** Do not blindly copy existing competitors. Instead, **[[Listen]]** deeply to your early adopters, **[[Discover]]** their most painful bottlenecks, and continuously **[[Improve]]** your core unique value proposition.
+  *(Đừng sao chép mù quáng các đối thủ hiện có. Thay vào đó, hãy lắng nghe thật sâu sắc những người dùng đầu tiên của em, khám phá ra những nút thắt khó khăn nhất của họ và liên tục cải thiện giá trị cốt lõi độc đáo của mình.)*
+- **Chloe:** That makes so much sense. Sometimes our engineers **[[Procrastinate]]** on core product deployment because they fear the market might not immediately embrace our ideas.
+  *(Điều đó quá đỗi chí lý. Đôi khi các kỹ sư của bọn em lại trì hoãn việc triển khai sản phẩm cốt lõi vì họ sợ thị trường có thể không đón nhận ý tưởng của bọn em ngay lập tức.)*
+- **Marcus:** Execution will **[[Vindicate]]** your original vision. Real breakthrough products always **[[Require]]** patience, rigorous testing, and continuous feedback.
+  *(Hành động thực thi quyết liệt sẽ minh oan và chứng minh tầm nhìn ban đầu của em. Những sản phẩm đột phá thực sự luôn đòi hỏi sự kiên nhẫn, thử nghiệm nghiêm ngặt và phản hồi liên tục.)*
+- **Chloe:** Thank you, Marcus. I will **[[Reiterate]]** this philosophy to our entire company during tomorrow's all-hands meeting to **[[Encourage]]** everyone to stay bold and focused!
+  *(Cảm ơn anh Marcus. Em sẽ nhắc lại triết lý này cho toàn thể công ty trong buổi họp toàn thể ngày mai để khuyến khích mọi người giữ vững sự táo bạo và tập trung!)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Điều tra, Phân tích & Làm sáng tỏ (Investigation, Clarification & Verification):
+- **`ascertain the underlying truth`** *(xác minh, làm rõ sự thật cốt lõi)*:
+  - *"The special investigative committee worked tirelessly to **[[Ascertain]]** the underlying truth behind the regulatory failure."*
+  - *(Ủy ban điều tra đặc biệt đã làm việc không mệt mỏi để xác minh sự thật cốt lõi đằng sau sự thất bại trong việc quản lý.)*
+- **`scrutinize every detail`** *(xem xét, kiểm tra kỹ lưỡng từng chi tiết)*:
+  - *"Seasoned compliance lawyers will **[[Scrutinize]]** every clause in the merger agreement before signing."*
+  - *(Các luật sư tuân thủ dày dạn kinh nghiệm sẽ xem xét kỹ lưỡng từng điều khoản trong thỏa thuận sáp nhập trước khi ký kết.)*
+- **`corroborate findings with evidence`** *(chứng minh, củng cố kết quả bằng bằng chứng)*:
+  - *"Forensic scientists used DNA analysis to **[[Corroborate]]** witness testimonies in the criminal investigation."*
+  - *(Các nhà khoa học pháp y đã sử dụng phân tích ADN để xác nhận củng cố thêm lời khai của nhân chứng trong cuộc điều tra hình sự.)*
+- **`elucidate complex concepts`** *(làm sáng tỏ, giải thích rõ các khái niệm phức tạp)*:
+  - *"A skilled professor knows how to **[[Elucidate]]** abstract philosophical theories with clear, real-life analogies."*
+  - *(Một vị giáo sư tài năng luôn biết cách làm sáng tỏ các lý thuyết triết học trừu tượng bằng những phép so sánh đời thực rõ ràng.)*
+
+#### 2. Quản trị rủi ro & Xử lý khủng hoảng (Risk Containment & Crisis Mitigation):
+- **`mitigate risks effectively`** *(giảm thiểu rủi ro một cách hiệu quả)*:
+  - *"Diversifying foreign investment portfolios helps fund managers **[[Mitigate]]** geopolitical market risks."*
+  - *(Việc đa dạng hóa danh mục đầu tư nước ngoài giúp các nhà quản lý quỹ giảm thiểu rủi ro thị trường địa chính trị một cách hiệu quả.)*
+- **`alleviate financial hardship`** *(làm giảm bớt gánh nặng, khó khăn tài chính)*:
+  - *"Emergency low-interest government loans were enacted to **[[Alleviate]]** financial distress for small businesses."*
+  - *(Các khoản vay khẩn cấp lãi suất thấp của chính phủ đã được ban hành nhằm làm giảm bớt khó khăn tài chính cho các doanh nghiệp nhỏ.)*
+- **`exacerbate the crisis`** *(làm trầm trọng thêm cuộc khủng hoảng)*:
+  - *"Spreading unverified rumors online can panic the public and further **[[Exacerbate]]** a fragile banking crisis."*
+  - *(Việc lan truyền những tin đồn chưa được kiểm chứng trên mạng có thể làm công chúng hoảng loạn và càng làm trầm trọng thêm cuộc khủng hoảng ngân hàng mong manh.)*
+- **`jeopardize future success`** *(gây nguy hiểm, đe dọa thành công tương lai)*:
+  - *"Neglecting rigorous quality control protocols will seriously **[[Jeopardize]]** the company's long-term market reputation."*
+  - *(Việc lơ là các quy trình kiểm soát chất lượng nghiêm ngặt sẽ đe dọa nghiêm trọng đến uy tín thị trường dài hạn của công ty.)*
+
+#### 3. Khẳng định, Học tập & Thành công (Affirmation, Learning & Achievement):
+- **`vindicate the original decision`** *(chứng minh quyết định ban đầu là đúng đắn)*:
+  - *"Record annual sales figures served to **[[Vindicate]]** the leadership's bold decision to pivot into cloud services."*
+  - *(Số liệu doanh số hàng năm kỷ lục đã chứng minh quyết định táo bạo của ban lãnh đạo khi chuyển hướng sang dịch vụ đám mây là hoàn toàn đúng đắn.)*
+- **`emulate the achievements of leaders`** *(học tập, noi gương thành tựu của những người dẫn đầu)*:
+  - *"Young software engineers often strive to **[[Emulate]]** the technical prowess of legendary industry pioneers."*
+  - *(Những kỹ sư phần mềm trẻ tuổi thường nỗ lực học hỏi noi theo tài năng kỹ thuật của những người tiên phong huyền thoại trong ngành.)*
+- **`reiterate the core message`** *(nhắc lại, tái khẳng định thông điệp cốt lõi)*:
+  - *"At the conclusion of the summit, the keynote speaker rose to **[[Reiterate]]** the urgent imperative of global sustainability."*
+  - *(Vào phần kết của hội nghị thượng đỉnh, diễn giả chính đã đứng lên tái khẳng định mệnh lệnh cấp bách về sự phát triển bền vững toàn cầu.)*

@@ -6,53 +6,92 @@ Chào mừng bạn đến với góc học tập **Ngữ pháp, Kỹ năng Liên
 
 ## 📌 Sơ đồ lộ trình học tập (Learning Path)
 
+### 🏛️ 1. Sơ đồ Kiến trúc Tổng quan (Master Architecture)
+
 ```mermaid
-graph TD
-    Index["Grammar & Cohesion<br>(Mục lục chính)"] --> Sub1["🟢 1. Tenses & Core Grammar<br>(Các thì cơ bản)"]
-    Index --> Sub2["🧩 2. Sentence Structures & Writing<br>(Cấu trúc câu & Viết câu)"]
-    Index --> Sub3["📍 3. Prepositions & Gerunds<br>(Giới từ & Danh động từ)"]
-    Index --> Sub4["⚡ 4. Advanced Grammar Topics<br>(Ngữ pháp nâng cao)"]
-    Index --> Sub5["🗣️ 5. IELTS Speaking Patterns<br>(Mẫu câu Speaking Part 1, 2, 3)"]
-    Index --> Sub6["✍️ 6. IELTS Writing Patterns<br>(Mẫu câu Writing Task 1 & 2)"]
+flowchart LR
+    Index["🗺️ English Grammar<br>& Cohesion Dashboard"]
+    
+    Index --> PartA["📚 PHẦN I: NỀN TẢNG NGỮ PHÁP"]
+    Index --> PartB["⚡ PHẦN II: NÂNG CAO & GIỚI TỪ"]
+    Index --> PartC["🎯 PHẦN III: LUYỆN THI IELTS"]
 
-    Sub1 --> P1["1.1. Present Tenses"]
-    Sub1 --> P2["1.2. Past Tenses"]
-    Sub1 --> P3["1.3. Future Tenses"]
+    PartA --> Sub1["🟢 1. Tenses & Core Grammar"]
+    PartA --> Sub2["🧩 2. Sentence Structures & Writing"]
 
-    Sub2 --> S1["2.1. Sentence Elements"]
-    Sub2 --> S2["2.2. Preposition Clauses"]
-    Sub2 --> S3["2.3. Sentence Linkers"]
-    Sub2 --> S4["2.4. Complex Sentences"]
-    Sub2 --> S5["2.5. Paraphrasing Mastery"]
-    Sub2 --> S6["2.6. Discourse Rewriting"]
-    Sub2 --> S7["2.7. Speaking vs. Writing Frames"]
+    PartB --> Sub3["📍 3. Prepositions & Gerunds"]
+    PartB --> Sub4["⚡ 4. Advanced Grammar Topics"]
 
-    Sub3 --> G1["3.1. Basic Prepositions"]
-    Sub3 --> G2["3.2. Gerunds & Infinitives"]
-    Sub3 --> G3["3.3. Advanced Prepositions"]
-    Sub3 --> G4["3.4. Rare & Complex Prepositions"]
+    PartC --> Sub5["🗣️ 5. IELTS Speaking Patterns"]
+    PartC --> Sub6["✍️ 6. IELTS Writing Patterns"]
+```
 
-    Sub4 --> A1["4.1. Passive Voice"]
-    Sub4 --> A2["4.2. Reported Speech"]
-    Sub4 --> A3["4.3. Exclamatory"]
-    Sub4 --> A4["4.4. Inversion"]
-    Sub4 --> A5["4.5. Conditionals & Wish"]
-    Sub4 --> A6["4.6. Subjunctive"]
-    Sub4 --> A7["4.7. Cleft Sentences"]
+---
 
-    Sub5 --> Sp1["5.1. Part 1 Daily Topics"]
-    Sub5 --> Sp2["5.2. Part 2 Storytelling Arc"]
-    Sub5 --> Sp3["5.3. Part 3 Deep Analysis"]
-    Sub5 --> Sp4["5.4. Buying Time & Hesitation"]
-    Sub5 --> Sp5["5.5. Natural Fillers & Clefts"]
-    Sub5 --> Sp6["5.6. Speaking Progression & Lexical Swaps"]
+### 🌿 2. Sơ đồ Chi tiết theo từng Khối Chuyên đề
 
-    Sub6 --> W1["6.1. Task 1 Trends & Processes"]
-    Sub6 --> W2["6.2. Task 2 Intros & Theses"]
-    Sub6 --> W3["6.3. Task 2 PEEL Body Architecture"]
-    Sub6 --> W4["6.4. Task 2 Counter-Argument"]
-    Sub6 --> W5["6.5. Task 2 Conclusions & Outlook"]
-    Sub6 --> W6["6.6. Writing Progression & Lexical Swaps"]
+#### 📚 Khối I: Các Thì & Cấu trúc Viết câu (Grammar & Sentence Structures)
+```mermaid
+flowchart TD
+    subgraph G1["🟢 1. Tenses & Core Grammar"]
+        P1["1.1. Present Tenses"]
+        P2["1.2. Past Tenses"]
+        P3["1.3. Future Tenses"]
+    end
+
+    subgraph G2["🧩 2. Sentence Structures & Writing"]
+        S1["2.1. Sentence Elements"]
+        S2["2.2. Preposition Clauses"]
+        S3["2.3. Sentence Linkers"]
+        S4["2.4. Complex Sentences"]
+        S5["2.5. Paraphrasing Mastery"]
+        S6["2.6. Discourse Rewriting"]
+        S7["2.7. Speaking vs. Writing Frames"]
+    end
+```
+
+#### 📍 Khối II: Giới từ, Tiểu từ & Ngữ pháp Nâng cao (Prepositions & Advanced Grammar)
+```mermaid
+flowchart TD
+    subgraph G3["📍 3. Prepositions, Gerunds & Infinitives"]
+        K1["3.1. Basic Prepositions (In-On-At)"]
+        K2["3.2. Gerunds & Infinitives"]
+        K3["3.3. Advanced Prepositions"]
+        K4["3.4. Rare & Academic Prepositions"]
+        K5["3.5. Phrasal Verbs & Particle Mechanics"]
+    end
+
+    subgraph G4["⚡ 4. Advanced Grammar Topics"]
+        A1["4.1. Passive Voice"]
+        A2["4.2. Reported Speech"]
+        A3["4.3. Exclamatory Sentences"]
+        A4["4.4. Inversion (Đảo ngữ)"]
+        A5["4.5. Conditionals & Wish"]
+        A6["4.6. Subjunctive Mood"]
+        A7["4.7. Cleft Sentences"]
+    end
+```
+
+#### 🎯 Khối III: Hệ thống Mẫu câu Luyện thi IELTS (Speaking & Writing)
+```mermaid
+flowchart TD
+    subgraph G5["🗣️ 5. IELTS Speaking Sentence Patterns"]
+        Sp1["5.1. Part 1 Daily Topics"]
+        Sp2["5.2. Part 2 Storytelling Arc"]
+        Sp3["5.3. Part 3 Deep Analysis"]
+        Sp4["5.4. Buying Time & Hesitation"]
+        Sp5["5.5. Natural Fillers & Clefts"]
+        Sp6["5.6. Speaking Progression & Swaps"]
+    end
+
+    subgraph G6["✍️ 6. IELTS Writing Sentence Patterns"]
+        W1["6.1. Task 1 Trends & Processes"]
+        W2["6.2. Task 2 Intros & Theses"]
+        W3["6.3. Task 2 PEEL Architecture"]
+        W4["6.4. Task 2 Counter-Argument"]
+        W5["6.5. Task 2 Conclusions & Outlook"]
+        W6["6.6. Writing Progression & Swaps"]
+    end
 ```
 
 ---
@@ -79,7 +118,7 @@ Dưới đây là các chủ đề chi tiết giúp bạn tra cứu và học t�
 *   📍 **[[3. Prepositions, Gerunds & Infinitives/3.1. Basic Prepositions (Giới từ cơ bản)|3.1. Basic Prepositions (Giới từ cơ bản)]]**: Quy tắc tam giác giới từ *In - On - At* và collocations giới từ cơ bản, kèm bài tập thực hành.
 *   🔄 **[[3. Prepositions, Gerunds & Infinitives/3.2. Gerunds & Infinitives|3.2. Gerunds & Infinitives (Danh động từ & Động từ nguyên mẫu)]]**: Phân biệt *V-ing* vs. *to V*, các động từ đi với cả hai dạng nhưng nghĩa thay đổi.
 *   ⚡ **[[3. Prepositions, Gerunds & Infinitives/3.3. Advanced Prepositions (Giới từ nâng cao)|3.3. Advanced Prepositions (Giới từ nâng cao)]]**: Giới từ chỉ tác nhân, công cụ, nguyên nhân, cụm giới từ phức tạp, các collocations C1-C2 và bài tập nâng cao.
-*   💎 **[[3. Prepositions, Gerunds & Infinitives/3.4. Rare & Complex Academic Prepositions (Giới từ khó & độc lạ)|3.4. Rare & Complex Academic Prepositions (Giới từ khó & độc lạ)]]**: Tổng hợp các giới từ đơn C1-C2 hiếm gặp (*notwithstanding, barring, pending, athwart*), giới từ mượn gốc Latinh/Pháp (*vis-à-vis, sans, pace, circa*), cụm giới từ phức hợp 3-4 từ (*by virtue of, in lieu of, under the auspices of*), và phân tích đoạn văn học thuật thực chiến.
+*   🧭 **[[3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/0_Phrasal Verbs Hub|3.5. Phrasal Verbs & Particle Mechanics Hub (Bản chất Giới từ & Hệ thống Cụm động từ)]]**: Khai phá bản chất tri nhận không gian 3 chiều của 14 tiểu từ cốt lõi (*Up, Down, Out, In, Off, On, Over, Away, Back, Through...*), phân tách thành hệ thống thư mục chuyên biệt giải mã cơ chế ghép nghĩa của 200+ phrasal verbs thông dụng (20 động từ gốc: *Turn, Run, Break, Pay, Set, Come, Put, Bring, Look, Get, Make, Take, Go, Give, Fall, Hold, Keep, Stand, Cut, Throw* cùng cụm động từ mở rộng), kèm ví dụ thực tế và liên kết hai chiều.
 
 ### 📁 4. Advanced Grammar Topics (Chuyên đề ngữ pháp nâng cao)
 *   🔄 **[[4. Advanced Grammar Topics/4.1. Passive Voice (Câu bị động)|4.1. Passive Voice (Câu bị động)]]**: Bị động cho 12 thì, bị động truyền khiến (*have/get sth done*), bị động kép với động từ tường thuật, và đảo ngữ bị động.

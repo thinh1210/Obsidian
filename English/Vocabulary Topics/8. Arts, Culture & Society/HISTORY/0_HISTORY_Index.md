@@ -101,3 +101,74 @@ As a dedicated **[[Historian]]**, Dr. Vance spent decades studying the complex *
 
 ### Bản dịch Tiếng Việt
 Với tư cách là một **nhà sử học** tận tụy, Tiến sĩ Vance đã dành nhiều thập kỷ để nghiên cứu **niên biểu** phức tạp của một **triều đại** bị lãng quên từng cai trị châu Á cổ đại. Trong **thời kỳ** hoàng kim của mình, **nền văn minh** hùng mạnh này đã duy trì **chủ quyền** không thể tranh cãi đối với các vùng đất lân cận, để lại **di sản** văn hóa phong phú cho các thế hệ tương lai. Tuy nhiên, **xung đột** nội bộ đã phát sinh khi một vị tướng đầy mưu mô tìm cách **cướp ngôi**, buộc vị hoàng đế trẻ tuổi phải **thoái vị** và trốn khỏi vương quốc. Nhiều thập kỷ sau sự hỗn loạn này, một **hiệp ước** hòa bình đã được ký kết bởi các nhà lãnh đạo mới, đánh dấu một **kỷ nguyên** phục hồi và hòa giải đầy hy vọng. Ngày nay, một **cổ vật** bằng vàng duy nhất được lưu giữ trong bảo tàng địa phương là **vết tích** thầm lặng của quá khứ đầy biến động mang tính lịch sử đó.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Nghiên cứu văn khố & Xác định niên biểu lịch sử (Archival Research & Chronology)
+> **Bối cảnh thực tế:** Nhà sử học làm việc trong kho lưu trữ quốc gia, nghiên cứu các tài liệu cổ xưa để xây dựng niên biểu chính xác về thời kỳ phong kiến.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Raymond:** Dr. Ellis, have you completed examining the newly unsealed imperial manuscripts in the national **[[Archive]]**?
+  *(Tiến sĩ Ellis, bà đã hoàn thành việc xem xét các bản thảo hoàng gia mới được mở niêm phong trong kho lưu trữ quốc gia chưa?)*
+- **Dr. Ellis:** Yes, Raymond. As a **[[Historian]]**, discovering a pristine primary **[[Document]]** from late **[[Antiquity]]** is truly exhilarating.
+  *(Rồi, Raymond. Là một nhà sử học, việc phát hiện ra một tài liệu gốc nguyên vẹn từ thời hậu kỳ cổ đại thực sự rất phấn khích.)*
+- **Raymond:** Does it clarify the disputed **[[Chronology]]** of succession disputes during the rise of medieval **[[Feudalism]]**?
+  *(Nó có làm sáng tỏ niên biểu còn tranh cãi về các cuộc tranh chấp quyền kế vị trong thời kỳ trỗi dậy của chế độ phong kiến thời trung cổ không?)*
+- **Dr. Ellis:** It does. It describes how local baronies retained every lingering **[[Vestige]]** of ancestral authority before the kingdom unified.
+  *(Có chứ. Nó mô tả cách các thái ấp địa phương gìn giữ từng vết tích quyền lực tổ tiên còn sót lại trước khi vương quốc được thống nhất.)*
+- **Raymond:** That provides invaluable context for our forthcoming scholarly monograph on that turbulent **[[Era]]**.
+  *(Điều đó cung cấp bối cảnh vô giá cho chuyên khảo học thuật sắp tới của chúng ta về thời đại đầy biến động đó.)*
+
+---
+
+### 🌟 Tình huống 2: Tránh lỗi sai niên đại & Đánh giá sự bành trướng đế quốc (Historiographical Rigor: Avoiding Anachronisms & Imperialism)
+> **Bối cảnh thực tế:** Giảng viên và học viên cao học thảo luận về phương pháp luận sử học, tránh áp đặt tiêu chuẩn hiện đại (anachronism) khi đánh giá chủ nghĩa đế quốc và thuộc địa.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Professor Lin:** When we evaluate nineteenth-century maritime expansion in our **[[Historiography]]** seminar, what critical mistake must we avoid?
+  *(Khi chúng ta đánh giá sự bành trướng trên biển thế kỷ 19 trong hội thảo phương pháp luận sử học, chúng ta phải tránh sai lầm chí mạng nào?)*
+- **Martin:** We must rigorously guard against **[[Anachronism]]**, projecting 21st-century values onto actors operating under classic **[[Imperialism]]**.
+  *(Chúng ta phải nghiêm ngặt phòng ngừa lỗi sai niên đại, tránh áp đặt các giá trị của thế kỷ 21 lên những nhân vật hành động dưới thời chủ nghĩa đế quốc kinh điển.)*
+- **Professor Lin:** Precisely. How did the central empire maintain its administrative **[[Hegemony]]** across its far-flung overseas **[[Colony|colonies]]**?
+  *(Chính xác. Đế chế trung tâm đã duy trì quyền bá chủ hành chính của mình như thế nào trên khắp các thuộc địa hải ngoại xa xôi?)*
+- **Martin:** Through a complex apparatus of military outposts, bureaucratic governance, and strategic trade networks across each conquered **[[Civilization]]**.
+  *(Thông qua một bộ máy phức tạp gồm các tiền đồn quân sự, sự cai trị quan liêu và các mạng lưới thương mại chiến lược trên khắp mỗi nền văn minh bị chinh phục.)*
+- **Professor Lin:** And understanding those structural dynamics helps us comprehend why the subsequent waves of twentieth-century **[[Decolonization]]** were so transformative.
+  *(Và việc hiểu các động lực cấu trúc đó giúp chúng ta lĩnh hội lý do tại sao những làn sóng phi thực dân hóa tiếp sau vào thế kỷ 20 lại mang tính biến đổi lớn đến vậy.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nghiên cứu văn khố & Niên biểu:
+- **`national historical archive`** *(kho lưu trữ lịch sử quốc gia)*:
+  - *"Scholars travelled across the world to access rare manuscripts preserved in the national **[[Archive]]**."*
+  - *(Các học giả đã đi khắp thế giới để tiếp cận những bản thảo quý hiếm được lưu giữ trong kho lưu trữ quốc gia.)*
+- **`primary historical document`** *(tài liệu lịch sử sơ cấp)*:
+  - *"Every conclusion in his paper was grounded in evidence from an authentic primary **[[Document]]**."*
+  - *(Mọi kết luận trong bài viết của ông đều dựa trên bằng chứng từ một tài liệu sơ cấp đáng tin cậy.)*
+- **`establish exact chronology`** *(thiết lập niên biểu chính xác)*:
+  - *"Carbon dating helped researchers establish an exact **[[Chronology]]** for the ancient dynasty."*
+  - *(Phương pháp xác định niên đại bằng carbon đã giúp các nhà nghiên cứu thiết lập niên biểu chính xác cho vương triều cổ đại.)*
+
+#### 2. Khi phân tích sử học & Phương pháp luận:
+- **`avoid historical anachronism`** *(tránh lỗi sai niên đại trong lịch sử)*:
+  - *"A prudent **[[Historian]]** must avoid any blatant **[[Anachronism]]** when reconstructing ancient warfare."*
+  - *(Một nhà sử học thận trọng phải tránh bất kỳ lỗi sai niên đại trắng trợn nào khi tái hiện lại chiến tranh cổ đại.)*
+- **`rigorous historiography`** *(phương pháp luận chép sử nghiêm cẩn)*:
+  - *"The graduate program emphasizes critical **[[Historiography]]** alongside conventional source criticism."*
+  - *(Chương trình sau đại học nhấn mạnh phương pháp luận chép sử có tư duy phản biện bên cạnh việc phê bình nguồn sử liệu thông thường.)*
+- **`artifacts from antiquity`** *(cổ vật từ thời cổ đại)*:
+  - *"Museum curators catalogued priceless **[[Artifact|artifacts]]** surviving from classical **[[Antiquity]]**."*
+  - *(Các giám tuyển bảo tàng đã lập danh mục những cổ vật vô giá còn sót lại từ thời cổ đại kinh điển.)*
+
+#### 3. Khi nói về chế độ phong kiến & Di sản:
+- **`era of medieval feudalism`** *(thời đại phong kiến trung cổ)*:
+  - *"Under European **[[Feudalism]]**, land ownership was tightly tied to military service and loyalty."*
+  - *(Dưới chế độ phong kiến châu Âu, quyền sở hữu đất đai gắn chặt với nghĩa vụ quân sự và lòng trung thành.)*
+- **`vestige of the past`** *(vết tích của quá khứ)*:
+  - *"The crumbling ruined fortress remains a poignant **[[Vestige]]** of a once-mighty empire."*
+  - *(Pháo đài đổ nát hoang tàn vẫn là một vết tích đầy xúc động của một đế chế từng hùng mạnh.)*
+- **`preserve cultural heritage`** *(gìn giữ di sản văn hóa)*:
+  - *"Communities organize annual festivals to celebrate and protect their ancestral **[[Heritage]]**."*
+  - *(Các cộng đồng tổ chức các lễ hội thường niên để tôn vinh và bảo vệ di sản của tổ tiên họ.)*

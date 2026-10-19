@@ -137,7 +137,7 @@ Ngày nay, những áp lực **do con người gây ra** đã đưa nhiều vùn
 #### 🎬 Đoạn hội thoại (Dialogue):
 - **Audrey:** Dr. Thorne, how can industrial manufacturers accelerate genuine **[[Decarbonization]]** without compromising economic output?
   *(Thưa Tiến sĩ Thorne, làm thế nào để các nhà sản xuất công nghiệp đẩy nhanh quá trình khử carbon thực chất mà không làm tổn hại đến sản lượng kinh tế?)*
-- **Dr. Thorne:** The foundation lies in rapidly transitioning from **[[Fossil fuel|fossil fuels]]** to **[[Renewable]]** energy such as offshore wind and solar power. We cannot merely talk about **[[Sustainability|sustainable]]** development; companies must actively reduce their **[[Carbon footprint]]**.
+- **Dr. Thorne:** The foundation lies in rapidly transitioning from **[[Fossil fuel|fossil fuels]]** to **[[Renewable]]** energy such as offshore wind and solar power. We cannot merely talk about **[[Sustainable|sustainable]]** development; companies must actively reduce their **[[Carbon footprint]]**.
   *(Nền tảng cốt lõi nằm ở việc chuyển dịch nhanh chóng từ nhiên liệu hóa thạch sang năng lượng tái tạo như điện gió ngoài khơi và điện mặt trời. Chúng ta không thể chỉ nói suông về phát triển bền vững; các doanh nghiệp phải chủ động cắt giảm dấu chân carbon của mình.)*
 - **Audrey:** What role do natural solutions like afforestation play compared to carbon-capture technologies?
   *(Các giải pháp tự nhiên như trồng rừng đóng vai trò thế nào so với các công nghệ thu giữ carbon nhân tạo?)*

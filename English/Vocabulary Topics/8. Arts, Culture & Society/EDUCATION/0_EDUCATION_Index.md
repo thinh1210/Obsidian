@@ -128,3 +128,74 @@ As a young student at a local [[School]], Clara realized that standard [[Study]]
 
 ### Bản dịch Tiếng Việt
 Khi còn là một học sinh trẻ tại một **trường học** địa phương, Clara nhận ra rằng các phương pháp **học tập** tiêu chuẩn, vốn phụ thuộc nhiều vào việc **học vẹt**, không phù hợp với cô. Khi cô quyết định **đăng ký học** tại một trường đại học để theo đuổi các mục tiêu **học thuật** cao hơn, cô đã bị cuốn hút bởi **chương trình giảng dạy** **toàn diện** của họ. **Phương pháp giảng dạy** của trường đại học được thiết kế không chỉ để truyền đạt kiến thức thực tế, mà còn để **khắc sâu** tư duy phản biện và thúc đẩy sự phát triển **nhận thức**. Clara đã làm việc chăm chỉ và giành được một **học bổng** học thuật danh giá. Theo thời gian, cô đã chuyển mình thành một **người tự học**, độc lập theo đuổi tri thức. Bằng cách kết hợp các lớp học có cấu trúc với việc tự khám phá, cô đã trở thành một học giả **uyên bác**, sẵn sàng giải quyết các vấn đề trong thế giới thực.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Đổi mới phương pháp sư phạm đại học & Tư duy phản biện (Pedagogical Reform & Critical Thinking)
+> **Bối cảnh thực tế:** Hai giảng viên đại học thảo luận về việc cải tiến đề cương học phần, thay thế học vẹt bằng phương pháp học khám phá tự chủ và rèn luyện tư duy phản biện.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Professor Adams:** In our department meeting, we discussed reforming the undergraduate **[[Curriculum]]** to move away from passive **[[Rote]]** learning.
+  *(Trong cuộc họp khoa, chúng ta đã thảo luận về việc cải cách chương trình giảng dạy đại học nhằm thoát khỏi lối học vẹt thụ động.)*
+- **Dr. Thorne:** I wholeheartedly agree. As an **[[Instructor]]**, I find that adopting an interactive **[[Heuristic]]** approach encourages students to discover problem-solving strategies autonomously.
+  *(Tôi hoàn toàn đồng ý. Với tư cách là giảng viên, tôi thấy rằng việc áp dụng phương pháp tự học khám phá tương tác sẽ khuyến khích sinh viên tự tìm ra các chiến lược giải quyết vấn đề.)*
+- **Professor Adams:** Exactly. We should update the course **[[Syllabus]]** to prioritize weekly discussion-based **[[Seminar|seminars]]** rather than one-way lectures.
+  *(Chính xác. Chúng ta nên cập nhật đề cương học phần để ưu tiên các buổi hội thảo thảo luận hàng tuần thay vì các bài thuyết giảng một chiều.)*
+- **Dr. Thorne:** That modern **[[Pedagogy]]** will actively cultivate **[[Critical thinking]]** and help students deeply **[[Assimilate]]** complex theories.
+  *(Phương pháp sư phạm hiện đại đó sẽ tích cực trau dồi tư duy phản biện và giúp sinh viên tiếp thu sâu sắc các lý thuyết phức tạp.)*
+- **Professor Adams:** Our ultimate educational objective must be to **[[Inculcate]]** intellectual curiosity and lifelong intellectual **[[Acumen]]**.
+  *(Mục tiêu giáo dục tối thượng của chúng ta phải là khắc sâu sự tò mò tri thức và sự nhạy bén trí tuệ suốt đời.)*
+
+---
+
+### 🌟 Tình huống 2: Hướng dẫn khóa luận tốt nghiệp & Tinh thần tự học (Thesis Supervision, Research & Autodidacticism)
+> **Bối cảnh thực tế:** Giáo sư hướng dẫn gặp học viên cao học để góp ý cho luận văn tốt nghiệp, thảo luận về kiểm tra đạo văn và phẩm chất học thuật uyên bác.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Clara:** Professor Thorne, thank you for reviewing the initial draft of my Master's **[[Thesis]]**.
+  *(Thưa Giáo sư Thorne, cảm ơn thầy đã xem qua bản thảo đầu tiên của luận văn Thạc sĩ của em.)*
+- **Professor Thorne:** You have conducted rigorous academic **[[Research]]**, Clara. Your argument reflects the mind of a true budding **[[Scholar]]**.
+  *(Em đã tiến hành nghiên cứu học thuật rất nghiêm cẩn, Clara à. Lập luận của em phản ánh tư duy của một học giả chớm nở thực thụ.)*
+- **Clara:** How was my theoretical framework? Did you have any specific **[[Feedback]]** on the methodology section?
+  *(Khung lý thuyết của em thế nào ạ? Thầy có phản hồi cụ thể nào về phần phương pháp luận không thầy?)*
+- **Professor Thorne:** Your empirical analysis is solid, and our software detected zero **[[Plagiarism]]**. However, don't hesitate to weave in more insights from your independent reading as an **[[Autodidact]]**.
+  *(Phân tích thực nghiệm của em rất vững, và phần mềm không phát hiện bất kỳ sự đạo văn nào. Tuy nhiên, đừng ngần ngại lồng ghép thêm nhiều hiểu biết từ việc tự học độc lập của em.)*
+- **Clara:** Thank you. I aspire to become an **[[Erudite]]** researcher before I officially receive my **[[Degree]]**.
+  *(Em cảm ơn thầy. Em khao khát trở thành một nhà nghiên cứu uyên bác trước khi chính thức nhận tấm bằng của mình.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi giảng dạy & Phát triển tư duy:
+- **`cultivate critical thinking`** *(trau dồi tư duy phản biện)*:
+  - *"Universities must design courses that actively cultivate **[[Critical thinking]]** skills."*
+  - *(Các trường đại học phải thiết kế những khóa học tích cực trau dồi các kỹ năng tư duy phản biện.)*
+- **`innovative pedagogy`** *(phương pháp sư phạm đổi mới)*:
+  - *"Modern educators employ innovative **[[Pedagogy]]** to keep young learners engaged."*
+  - *(Các nhà giáo dục hiện đại áp dụng phương pháp sư phạm đổi mới để giữ cho người học trẻ luôn say mê.)*
+- **`discourage rote learning`** *(không khuyến khích việc học vẹt)*:
+  - *"Tutors discourage memorization through **[[Rote]]** in favor of conceptual understanding."*
+  - *(Các gia sư không khuyến khích việc ghi nhớ thông qua học vẹt mà ưu tiên việc thấu hiểu khái niệm.)*
+
+#### 2. Khi xây dựng chương trình & Giảng dạy:
+- **`comprehensive academic curriculum`** *(chương trình giảng dạy học thuật toàn diện)*:
+  - *"The committee revised the institutional **[[Curriculum]]** to meet modern scientific standards."*
+  - *(Ủy ban đã sửa đổi chương trình giảng dạy của học viện để đáp ứng các tiêu chuẩn khoa học hiện đại.)*
+- **`course syllabus`** *(đề cương khóa học)*:
+  - *"Students are instructed to review the weekly readings outlined in the course **[[Syllabus]]**."*
+  - *(Sinh viên được hướng dẫn xem lại các bài đọc hàng tuần được vạch ra trong đề cương khóa học.)*
+- **`heuristic approach to problem-solving`** *(phương pháp tìm tòi tự khám phá để giải quyết vấn đề)*:
+  - *"Using a **[[Heuristic]]** approach allows students to test hypotheses through direct trial and error."*
+  - *(Sử dụng phương pháp tự học khám phá cho phép sinh viên thử nghiệm các giả thuyết thông qua việc thử và sai trực tiếp.)*
+
+#### 3. Khi nghiên cứu học thuật & Bảo vệ luận văn:
+- **`defend a master's thesis`** *(bảo vệ luận văn thạc sĩ)*:
+  - *"She prepared for months to successfully defend her postgraduate **[[Thesis]]** before the panel."*
+  - *(Cô ấy đã chuẩn bị trong nhiều tháng để bảo vệ thành công luận văn sau đại học trước hội đồng.)*
+- **`strict policy on plagiarism`** *(chính sách nghiêm ngặt về đạo văn)*:
+  - *"The university enforces zero tolerance regarding academic dishonesty and **[[Plagiarism]]**."*
+  - *(Trường đại học thực thi chính sách không khoan nhượng đối với hành vi gian lận học thuật và đạo văn.)*
+- **`lifelong autodidact`** *(người tự học suốt đời)*:
+  - *"Even after retiring, he remained a passionate **[[Autodidact]]**, mastering coding on his own."*
+  - *(Ngay cả sau khi nghỉ hưu, ông vẫn là một người tự học đầy đam mê, tự mình làm chủ việc lập trình.)*

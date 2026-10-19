@@ -101,3 +101,78 @@ In the laboratory, the chemist prepared an **[[Aqueous]]** solution by allowing 
 
 ### Bản dịch Tiếng Việt
 Trong phòng thí nghiệm, nhà hóa học đã điều chế một dung dịch **nước (chứa nước)** bằng cách cho một **chất** rắn **hòa tan** trong một **dung môi** phân cực. Cô ấy cẩn thận pha thêm một **axit** loãng để điều chỉnh độ pH. Để tăng tốc độ **phản ứng** hóa học, cô ấy đã thêm vào một lượng nhỏ **chất xúc tác**. Ngay khi quá trình **hóa học** bắt đầu, nó đã kích hoạt một phản ứng **tỏa nhiệt**, giải phóng một lượng nhiệt đáng kể ra môi trường xung quanh. Sự tăng nhiệt độ đã làm thay đổi **entropy** của hệ thống, gây ra sự **cháy** đột ngột khi một chất **khí** dễ cháy được dẫn vào. Trong quá trình này, các liên kết **cộng hóa trị** của các chất phản ứng đã bị phá vỡ. Sau khi hỗn hợp nguội đi, một **chất kết tủa** đầy màu sắc lắng xuống đáy **chất lỏng**, cho thấy sự hình thành thành công của một hợp chất mới.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Chuẩn độ axit-bazơ và quan sát kết tủa trong phòng thí nghiệm (Acid-Base Titration and Precipitation in the Laboratory)
+> **Bối cảnh thực tế:** Một giảng viên hóa học hướng dẫn sinh viên thực hiện thí nghiệm chuẩn độ thể tích để xác định nồng độ mol của dung dịch axit chưa biết nồng độ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Vance:** Today we are conducting an analytical **[[Titration]]**. Carefully measure your unknown **[[Acid]]** solution and pour it into the conical flask.
+  *(Hôm nay chúng ta sẽ tiến hành chuẩn độ phân tích. Hãy đong cẩn thận dung dịch axit chưa biết nồng độ của em và rót vào bình nón.)*
+- **Linh:** Understood, Dr. Vance. I am preparing the burette with a standardized sodium hydroxide **[[Base]]** dissolved in distilled **[[Water]]**.
+  *(Em hiểu rồi, Thưa Tiến sĩ Vance. Em đang chuẩn bị ống buret chứa dung dịch bazơ natri hydroxit đã chuẩn độ hòa tan trong nước cất.)*
+- **Dr. Vance:** Remember to add two drops of indicator to the **[[Aqueous]]** mixture. Release the stopcock slowly to monitor the chemical **[[Reaction]]**.
+  *(Hãy nhớ nhỏ thêm hai giọt chất chỉ thị vào hỗn hợp dung dịch nước. Mở khóa vòi từ từ để theo dõi phản ứng hóa học.)*
+- **Linh:** The faint pink color persists! We have reached the stoichiometric endpoint. The **[[Concentration]]** of the active **[[Solute]]** can now be calculated using our molar **[[Formula]]**.
+  *(Màu hồng nhạt đã tồn tại bền vững rồi! Chúng ta đã chạm tới điểm tương đương hợp thức. Giờ đây nồng độ của chất tan hoạt tính có thể được tính toán bằng công thức mol của chúng ta.)*
+- **Dr. Vance:** Excellent work. Now add a drop of silver nitrate. Notice how an insoluble white **[[Precipitate]]** forms and separates from the **[[Liquid]]**.
+  *(Làm xuất sắc lắm. Bây giờ hãy nhỏ một giọt bạc nitrat. Chú ý cách một chất kết tủa trắng không tan hình thành và tách ra khỏi chất lỏng.)*
+- **Linh:** Fascinating! I will use qualitative **[[Filter]]** paper to isolate the crystalline **[[Solid]]** compound from the remaining **[[Solvent]]**.
+  *(Thật kỳ thú! Em sẽ dùng giấy lọc định tính để tách hợp chất chất rắn dạng tinh thể ra khỏi dung môi còn lại.)*
+
+---
+
+### 🌟 Tình huống 2: Phân tích nhiệt động học và cơ chế xúc tác tổng hợp hóa học (Thermodynamic Analysis & Catalytic Mechanisms in Chemical Synthesis)
+> **Bối cảnh thực tế:** Trong một phòng thí nghiệm nghiên cứu vật liệu, hai kỹ sư hóa chất đánh giá một chất xúc tác kim loại mới giúp tăng tốc phản ứng tổng hợp hữu cơ tỏa nhiệt.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Chen:** When this organic **[[Compound]]** undergoes complete **[[Combustion]]**, it releases an immense quantity of thermal **[[Heat]]**.
+  *(Khi hợp chất hữu cơ này trải qua quá trình cháy hoàn toàn, nó giải phóng một lượng nhiệt năng cực lớn.)*
+- **Julian:** That indicates a highly **[[Exothermic]]** process accompanied by a substantial negative change in standard **[[Enthalpy]]**.
+  *(Điều đó cho thấy một quá trình tỏa nhiệt cao đi kèm với sự sụt giảm đáng kể về entanpi tiêu chuẩn.)*
+- **Dr. Chen:** Exactly, but the uncatalyzed activation energy barrier is too high. We must introduce a platinum-based **[[Catalyst]]** into the reactor.
+  *(Chính xác, nhưng rào cản năng lượng hoạt hóa không có xúc tác lại quá cao. Chúng ta phải đưa một chất xúc tác gốc bạch kim vào lò phản ứng.)*
+- **Julian:** Will introducing the catalyst lower the reaction activation barrier without disrupting the overall **[[Entropy]]** of the thermodynamic state?
+  *(Liệu việc đưa chất xúc tác vào có hạ thấp rào cản hoạt hóa phản ứng mà không làm xáo trộn entropi tổng thể của trạng thái nhiệt động không?)*
+- **Dr. Chen:** Yes, the catalyst provides an alternative pathway by temporarily bonding with the valence **[[Electron]]** cloud of each target **[[Molecule]]**.
+  *(Đúng vậy, chất xúc tác cung cấp một con đường thay thế bằng cách tạm thời liên kết với đám mây electron hóa trị của từng phân tử mục tiêu.)*
+- **Julian:** That enables the **[[Chemical]]** reaction to proceed at lower temperatures without generating any hazardous or **[[Toxic]]** **[[Vapor]]**.
+  *(Điều đó cho phép phản ứng hóa học diễn ra ở nhiệt độ thấp hơn mà không tạo ra bất kỳ hơi độc hại hay nguy hiểm nào.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong thao tác phòng thí nghiệm & Pha chế dung dịch (Laboratory Procedures & Solution Chemistry):
+- **`aqueous solution concentration`** *(nồng độ dung dịch nước)*:
+  - *"Accurately measuring the **[[Concentration]]** of an **[[Aqueous]]** solution prevents experimental errors during titration."*
+  - *(Việc đo lường chính xác nồng độ của một dung dịch nước giúp ngăn ngừa các sai số thực nghiệm trong quá trình chuẩn độ.)*
+- **`dissolve solute in solvent`** *(hòa tan chất tan trong dung môi)*:
+  - *"Stir continuously until the crystalline **[[Solute]]** completely begins to **[[Dissolve]]** into the polar **[[Solvent]]**."*
+  - *(Khuấy liên tục cho đến khi chất tan dạng tinh thể bắt đầu hòa tan hoàn toàn vào trong dung môi phân cực.)*
+- **`form an insoluble precipitate`** *(hình thành chất kết tủa không tan)*:
+  - *"Mixing the two clear salt solutions causes a dense **[[Precipitate]]** to form instantly at the bottom of the **[[Glass]]** tube."*
+  - *(Trộn hai dung dịch muối trong suốt khiến cho một kết tủa đậm đặc hình thành ngay lập tức ở đáy ống nghiệm thủy tinh.)*
+
+#### 2. Về cấu trúc nguyên tử & Liên kết hóa học (Atomic Structure & Chemical Bonding):
+- **`covalent chemical bond`** *(liên kết hóa học cộng hóa trị)*:
+  - *"Two nonmetal atoms share an **[[Electron]]** pair to build a strong **[[Covalent]]** bond within the **[[Molecule]]**."*
+  - *(Hai nguyên tử phi kim chia sẻ một cặp electron để tạo dựng một liên kết cộng hóa trị vững chắc bên trong phân tử.)*
+- **`electronegativity difference`** *(chênh lệch độ âm điện)*:
+  - *"A pronounced difference in **[[Electronegativity]]** between two atoms determines the polarity of a **[[Chemical]]** bond."*
+  - *(Sự chênh lệch rõ rệt về độ âm điện giữa hai nguyên tử quyết định độ phân cực của một liên kết hóa học.)*
+- **`stable atomic isotope`** *(đồng vị nguyên tử bền vững)*:
+  - *"Each **[[Isotope]]** of an **[[Element]]** possesses an identical number of protons but differs in **[[Neutron]]** count."*
+  - *(Mỗi đồng vị của một nguyên tố sở hữu số lượng proton giống hệt nhau nhưng khác nhau về số lượng nơtron.)*
+
+#### 3. Về nhiệt động học & Động học phản ứng (Thermodynamics & Reaction Kinetics):
+- **`exothermic combustion reaction`** *(phản ứng cháy tỏa nhiệt)*:
+  - *"The rapid **[[Combustion]]** of hydrocarbon fuel in plentiful **[[Oxygen]]** is an intensely **[[Exothermic]]** transformation."*
+  - *(Quá trình đốt cháy nhanh chóng nhiên liệu hydrocacbon trong lượng oxy dồi dào là một biến đổi tỏa nhiệt mãnh liệt.)*
+- **`enthalpy and entropy changes`** *(những biến thiên entanpi và entropi)*:
+  - *"Thermodynamic feasibility depends on the simultaneous interplay between net **[[Enthalpy]]** and increasing **[[Entropy]]**."*
+  - *(Tính khả thi về mặt nhiệt động học phụ thuộc vào sự tương tác đồng thời giữa entanpi thực và mức entropi ngày càng tăng.)*
+- **`accelerate with a catalyst`** *(tăng tốc nhờ chất xúc tác)*:
+  - *"Adding an efficient solid **[[Catalyst]]** allows industrial plants to synthesize the target **[[Substance]]** much faster."*
+  - *(Thêm một chất xúc tác rắn hiệu quả cho phép các nhà máy công nghiệp tổng hợp chất mục tiêu nhanh hơn nhiều.)*

@@ -101,3 +101,74 @@ The visionary **[[Architect]]** was hired to **[[Renovate]]** a historic **[[Edi
 
 ### Bản dịch Tiếng Việt
 Nhà **kiến trúc sư** có tầm nhìn xa trông rộng đã được thuê để **cải tạo** một **công trình đồ sộ** lịch sử ở trung tâm thành phố. Ban đầu được xây dựng theo thiết kế **thô mộc** khắc nghiệt, tòa nhà thiếu đi bất kỳ **tính thẩm mỹ** ấm áp nào. Để chuyển đổi nó, đội ngũ thiết kế đã thay thế phần **mặt tiền** bằng bê tông bằng lớp kính **đối xứng** tuyệt đẹp. Họ đã thêm một **hàng cột** hoành tráng ở lối vào, dẫn du khách vào một **sảnh lớn trung tâm** ngập tràn ánh sáng với trần nhà **hình vòm** cao. Một **tầng lửng** hiện đại đã được xây dựng để làm phòng trưng bày, tương phản với những hình chạm khắc đá **không hợp thời đại** còn sót lại, bao gồm cả một **tượng máng xối hình quái thú** đã nhuốm màu thời gian trên mái nhà. Sự pha trộn giữa các phong cách này đã biến cấu trúc cũ kỹ thành một trung tâm văn hóa sôi động.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thiết kế kiến trúc hiện đại & Không gian công cộng (Modern Architectural Design & Public Spaces)
+> **Bối cảnh thực tế:** Kiến trúc sư trưởng và chuyên viên thiết kế thảo luận về đồ án tòa nhà phức hợp thương mại có giếng trời, sàn lửng và mặt tiền kính ấn tượng.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Julian:** As lead **[[Architect]]**, how do you plan to balance structural durability with visual **[[Aesthetic]]** in the new urban complex?
+  *(Với tư cách là kiến trúc sư trưởng, bạn dự định cân bằng độ bền kết cấu với tính thẩm mỹ thị giác như thế nào trong khu phức hợp đô thị mới?)*
+- **Clara:** We are focusing on a soaring central **[[Atrium]]** filled with natural daylight, connected to a spacious intermediate **[[Mezzanine]]**.
+  *(Chúng tôi đang tập trung vào một giếng trời trung tâm cao vút ngập tràn ánh sáng tự nhiên, kết nối với một tầng lửng trung gian rộng rãi.)*
+- **Julian:** What about the building's **[[Exterior]]**? Will the glass **[[Facade]]** be completely **[[Symmetrical]]**?
+  *(Còn về mặt ngoài của tòa nhà thì sao? Mặt tiền bằng kính sẽ hoàn toàn đối xứng chứ?)*
+- **Clara:** Yes, clean geometry creates a striking silhouette, while the reinforced concrete **[[Foundation]]** ensures maximum resilience for the towering **[[Skyscraper]]**.
+  *(Đúng vậy, những đường nét hình học gọn gàng tạo nên bóng hình nổi bật, trong khi phần móng bê tông cốt thép đảm bảo độ chịu lực tối đa cho tòa nhà chọc trời cao chót vót.)*
+- **Julian:** Excellent. Integrating energy-efficient lighting into the **[[Interior]]** corridors will make the entire **[[Structure]]** both modern and sustainable.
+  *(Tuyệt vời. Việc tích hợp hệ thống chiếu sáng tiết kiệm năng lượng vào các hành lang nội thất sẽ làm cho toàn bộ cấu trúc vừa hiện đại vừa bền vững.)*
+
+---
+
+### 🌟 Tình huống 2: Bảo tồn & Phục hồi công trình kiến trúc cổ điển Gothic (Restoring Historic Gothic Heritage)
+> **Bối cảnh thực tế:** Ban quản lý di sản và nhà bảo tồn thảo luận về dự án trùng tu một đại giáo đường Gothic cổ kính với mái vòm và tượng máng xối.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Thomas:** The historic **[[Cathedral]]** in the city center is showing visible structural wear. How should we approach its preservation?
+  *(Đại giáo đường lịch sử ở trung tâm thành phố đang có dấu hiệu hao mòn kết cấu rõ rệt. Chúng ta nên tiếp cận việc bảo tồn nó như thế nào?)*
+- **Beatrice:** Our priority is to **[[Renovate]]** the iconic **[[Gothic]]** stonework without introducing any jarring, **[[Anachronistic]]** modern materials.
+  *(Ưu tiên của chúng tôi là trùng tu các khối đá kiến trúc Gothic mang tính biểu tượng mà không đưa vào bất kỳ vật liệu hiện đại lạc lõng, sai niên đại nào.)*
+- **Thomas:** Are the famous carved stone **[[Gargoyle|gargoyles]]** on the upper parapets still structurally stable?
+  *(Những bức tượng máng xối hình quái thú bằng đá chạm khắc nổi tiếng trên các lan can phía trên có còn ổn định về mặt kết cấu không?)*
+- **Beatrice:** Several require delicate reinforcement. We also need to restore the majestic **[[Vaulted]]** ceilings and the classical stone **[[Colonnade]]** along the entrance cloisters.
+  *(Một số bức tượng cần được gia cố cẩn thận. Chúng ta cũng cần khôi phục lại các trần nhà uốn vòm hùng vĩ và hàng cột đá cổ điển dọc theo các hành lang lối vào.)*
+- **Thomas:** It will take tremendous craftsmanship to recreate that intricate classical **[[Ornamentation]]** across such a grand **[[Edifice]]**.
+  *(Sẽ cần đến tay nghề thủ công điêu luyện để tái hiện lại các chi tiết trang trí chạm khắc cổ điển phức tạp đó trên một công trình đồ sộ như vậy.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi thiết kế & Cấu trúc tòa nhà:
+- **`solid foundation`** *(nền móng vững chắc)*:
+  - *"Engineers poured reinforced concrete to guarantee a solid **[[Foundation]]** for the tower."*
+  - *(Các kỹ sư đã đổ bê tông cốt thép để đảm bảo nền móng vững chắc cho tòa tháp.)*
+- **`glass facade`** *(mặt tiền bằng kính)*:
+  - *"The modern office features a shimmering glass **[[Facade]]** that reflects the morning sky."*
+  - *(Văn phòng hiện đại có mặt tiền bằng kính lấp lánh phản chiếu bầu trời buổi sớm.)*
+- **`spacious central atrium`** *(giếng trời trung tâm rộng rãi)*:
+  - *"Visitors were captivated by the light pouring through the soaring **[[Atrium]]**."*
+  - *(Khách tham quan bị cuốn hút bởi ánh sáng tràn qua giếng trời cao vút.)*
+
+#### 2. Khi nói về phong cách kiến trúc & Di sản:
+- **`Gothic cathedral`** *(nhà thờ chính tòa phong cách Gothic)*:
+  - *"Tourists flocked to admire the stained glass inside the medieval **[[Gothic]]** **[[Cathedral]]**."*
+  - *(Du khách đổ xô đến chiêm ngưỡng những ô kính màu bên trong nhà thờ chính tòa Gothic thời trung cổ.)*
+- **`vaulted ceiling`** *(trần vòm cuốn)*:
+  - *"Acoustics inside the great hall were enhanced by the magnificent **[[Vaulted]]** **[[Ceiling]]**."*
+  - *(Âm học bên trong đại sảnh được tăng cường nhờ trần vòm uốn lượn tráng lệ.)*
+- **`classical colonnade`** *(hàng cột cổ điển)*:
+  - *"Marble **[[Column|columns]]** formed an imposing **[[Colonnade]]** leading toward the public forum."*
+  - *(Những cây cột cẩm thạch tạo thành một hàng cột bề thế dẫn về phía quảng trường công cộng.)*
+
+#### 3. Khi bảo tồn & Cải tạo đô thị:
+- **`renovate an historic edifice`** *(trùng tu một công trình kiến trúc lịch sử)*:
+  - *"City planners chose to **[[Renovate]]** the historic **[[Edifice]]** rather than tear it down."*
+  - *(Các nhà quy hoạch đô thị đã chọn trùng tu công trình lịch sử thay vì phá bỏ nó.)*
+- **`demolish an unsafe structure`** *(phá dỡ một cấu trúc không an toàn)*:
+  - *"Authorities decided to **[[Demolish]]** the abandoned warehouse after severe flood damage."*
+  - *(Chính quyền quyết định phá dỡ nhà kho bỏ hoang sau thiệt hại lũ lụt nghiêm trọng.)*
+- **`intricate stone ornamentation`** *(hoa văn trang trí bằng đá tinh xảo)*:
+  - *"Restorers painstakingly replicated the 18th-century exterior **[[Ornamentation]]**."*
+  - *(Những người phục chế đã cất công tái tạo lại từng chi tiết hoa văn trang trí ngoại thất thế kỷ 18.)*

@@ -108,3 +108,78 @@ To achieve financial freedom, one must learn how to manage their **[[Income]]** 
 
 ### Bản dịch Tiếng Việt
 Để đạt được tự do tài chính, một người phải học cách quản lý **thu nhập** của mình một cách khôn ngoan. Thay vì **hoang phí** và chọn cách **phung phí** tiền bạc vào những thú vui nhất thời, những cá nhân thông minh lựa chọn một lối sống **tiết kiệm**. Đầu tiên, họ lập ra một **ngân sách** nghiêm ngặt để theo dõi mọi khoản chi tiêu. Họ cẩn thận **phân bổ** một phần tiền kiếm được vào tài khoản **tiết kiệm**, đảm bảo rằng họ **tích lũy** được tài sản theo thời gian. Thay vì để tiền nhàn rỗi, họ **đầu tư** vào các loại **tài sản** khác nhau để xây dựng một **danh mục đầu tư** đa dạng. Qua nhiều năm, những khoản đầu tư này **mang lại lợi suất** ổn định, giúp họ tránh xa những khoản **nợ** độc hại. Bằng cách hiểu rõ sự khác biệt giữa tài sản và **nợ phải trả**, họ mở ra một con đường vững chắc hướng tới sự thịnh vượng lâu dài.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Lập kế hoạch tài chính cá nhân & Phân bổ tài sản phòng thủ (Personal Wealth Planning & Strategic Asset Allocation)
+> **Bối cảnh thực tế:** Chuyên viên Tư vấn Tài chính Độc lập (Financial Advisor - Mr. Thorne) tư vấn cho một khách hàng trẻ mới thăng chức (Client - Julian) về cách quản lý dòng tiền và đầu tư thông minh.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Thorne (Financial Advisor):** Congratulations on your promotion, Julian. Now that your monthly **[[Salary]]** has increased, how do you intend to structure your personal **[[Finance]]**?
+  *(Thorne: Chúc mừng anh vừa được thăng chức, Julian. Giờ đây khi mức lương hàng tháng đã tăng lên, anh dự định cơ cấu tài chính cá nhân của mình như thế nào?)*
+- **Julian (Client):** I want to eliminate reckless habits. Previously, I was quite **[[Profligate]]**, often choosing to **[[Squander]]** surplus earnings on luxury electronics and dining out.
+  *(Julian: Tôi muốn xóa bỏ những thói quen liều lĩnh. Trước đây, tôi khá hoang phí, thường xuyên phung phí tiền kiếm được vào những món đồ điện tử xa xỉ và những bữa ăn nhà hàng.)*
+- **Thorne:** To build lasting wealth, you must embrace a more **[[Frugal]]** mindset and establish a disciplined monthly **[[Budget]]**. We should set aside three months of living expenses in an emergency **[[Savings]]** reserve.
+  *(Thorne: Để xây dựng sự giàu có bền vững, anh cần đón nhận một tư duy căn cơ tiết kiệm hơn và thiết lập một ngân sách hàng tháng có kỷ luật. Chúng ta nên trích lập 3 tháng chi phí sinh hoạt vào một quỹ dự phòng tiết kiệm khẩn cấp.)*
+- **Julian:** Once that safety cushion is secured, how should I **[[Allocate]]** my remaining disposable **[[Income]]** across various asset classes?
+  *(Julian: Một khi vùng đệm an toàn đó được đảm bảo, tôi nên phân bổ khoản thu nhập khả dụng còn lại của mình vào các loại tài sản khác nhau như thế nào?)*
+- **Thorne:** We will construct a balanced investment **[[Portfolio]]** of broad index funds and quality dividend equities to **[[Accumulate]]** capital while generating a steady **[[Yield]]**.
+  *(Thorne: Chúng ta sẽ xây dựng một danh mục đầu tư cân bằng gồm các quỹ chỉ số diện rộng và cổ phiếu cổ tức chất lượng để tích lũy nguồn vốn đồng thời tạo ra lợi suất ổn định.)*
+- **Julian:** That gives me immense clarity. I also want to make accelerated prepayments on my existing consumer **[[Debt]]** to eliminate high interest charges permanently.
+  *(Julian: Điều đó mang lại cho tôi sự sáng suốt vô cùng. Tôi cũng muốn tăng tốc trả trước cho khoản nợ tiêu dùng hiện tại để xóa bỏ vĩnh viễn các khoản phí lãi vay cao.)*
+
+---
+
+### 🌟 Tình huống 2: Hoạch định hưu trí & Quản lý dòng kiều hối gia đình (Retirement Planning & Cross-Border Remittance Management)
+> **Bối cảnh thực tế:** Buổi trao đổi giữa Người mẹ chuẩn bị nghỉ hưu (Mrs. Davies) và Con trai đang làm việc tại nước ngoài (Son - Oliver) về việc chuẩn bị quỹ hưu trí và chuyển kiều hối hỗ trợ gia đình.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Oliver:** Mom, I just completed a secure international **[[Remittance]]** directly to your domestic bank **[[Account]]** to cover your quarterly medical expenses.
+  *(Oliver: Mẹ ơi, con vừa hoàn tất một giao dịch chuyển kiều hối quốc tế an toàn trực tiếp vào tài khoản ngân hàng trong nước của mẹ để lo các chi phí y tế hàng quý.)*
+- **Mrs. Davies:** Thank you, Oliver. You work so hard abroad; please don't be overly generous while leaving yourself financially constrained or **[[Impecunious]]**.
+  *(Bà Davies: Cảm ơn Oliver. Con làm việc ở nước ngoài vất vả; xin đừng quá hào phóng mà để bản thân bị kẹt tiền hay túng thiếu nhé con.)*
+- **Oliver:** Don't worry, Mom. I live modestly and track every single household **[[Expense]]**. My employer also matches contributions to my corporate **[[Pension]]** plan.
+  *(Oliver: Mẹ đừng lo. Con sống rất khiêm tốn và theo dõi từng khoản chi tiêu trong gia đình. Công ty của con cũng đóng góp đối ứng vào quỹ hưu trí doanh nghiệp của con.)*
+- **Mrs. Davies:** That is very wise. When your father and I were younger, we were perhaps too **[[Parsimonious]]**, fearing that unexpected obligations would threaten our family's long-term **[[Solvency]]**.
+  *(Bà Davies: Thế là rất khôn ngoan. Hồi bố mẹ còn trẻ, bố mẹ có lẽ đã quá dè sẻn tằn tiện, vì luôn sợ rằng những nghĩa vụ bất ngờ sẽ đe dọa khả năng chi trả nợ dài hạn của gia đình.)*
+- **Oliver:** Your financial discipline paid off because you were able to **[[Pay]]** off the residential home **[[Mortgage]]** and build solid family **[[Equity]]**.
+  *(Oliver: Sự kỷ luật tài chính của bố mẹ đã được đền đáp vì bố mẹ đã trả dứt điểm khoản vay thế chấp căn nhà gia đình và tạo dựng được giá trị vốn chủ sở hữu vững chắc.)*
+- **Mrs. Davies:** Indeed. Protecting your hard-earned **[[Asset|assets]]** and avoiding toxic leverage is the most enduring lesson in money management.
+  *(Bà Davies: Đúng vậy con ạ. Bảo vệ những tài sản làm ra bằng mồ hôi nước mắt và tránh các khoản đòn bẩy độc hại là bài học trường tồn nhất trong quản lý tiền bạc.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong thói quen chi tiêu & Kỷ luật tài chính (Spending Habits & Financial Discipline):
+- **`live a frugal lifestyle`** *(sống một lối sống căn cơ, tiết kiệm)*:
+  - *"Adopting a **[[Frugal]]** lifestyle empowers individuals to save money and attain early financial independence."*
+  - *(Việc áp dụng một lối sống căn cơ tiết kiệm giúp các cá nhân tích lũy tiền của và sớm đạt được độc lập tài chính.)*
+- **`squander hard-earned savings`** *(phung phí những đồng tiền tiết kiệm mồ hôi nước mắt)*:
+  - *"Financial counselors urge young professionals never to **[[Squander]]** their earnings on depreciating assets."*
+  - *(Các cố vấn tài chính khuyên các chuyên gia trẻ không bao giờ được phung phí thu nhập vào những tài sản giảm giá trị.)*
+- **`curb profligate spending behavior`** *(kiềm chế hành vi chi tiêu hoang phí vung tay)*:
+  - *"Automating transfers to an investment account helps curb **[[Profligate]]** impulse purchases."*
+  - *(Việc tự động hóa chuyển tiền vào tài khoản đầu tư giúp kiềm chế các hành vi mua sắm bốc đồng hoang phí.)*
+
+#### 2. Trong tích lũy của cải & Phân bổ vốn (Wealth Accumulation & Allocation):
+- **`allocate capital strategically`** *(phân bổ vốn một cách có chiến lược)*:
+  - *"Astute investors **[[Allocate]]** funds across diversified sectors to optimize risk-adjusted returns."*
+  - *(Những nhà đầu tư sắc sảo phân bổ nguồn vốn vào các lĩnh vực đa dạng để tối ưu hóa lợi nhuận đã điều chỉnh theo rủi ro.)*
+- **`accumulate compound wealth`** *(tích lũy của cải nhờ sức mạnh lãi kép)*:
+  - *"Reinvesting stock dividends allows savers to **[[Accumulate]]** substantial capital over several decades."*
+  - *(Tái đầu tư cổ tức cổ phiếu cho phép những người tiết kiệm tích lũy được khối vốn khổng lồ qua nhiều thập kỷ.)*
+- **`build a balanced investment portfolio`** *(xây dựng một danh mục đầu tư cân bằng)*:
+  - *"Constructing an all-weather **[[Portfolio]]** shields savers from unexpected inflationary pressures."*
+  - *(Việc xây dựng một danh mục đầu tư chống chịu mọi điều kiện thị trường sẽ bảo vệ người tiết kiệm trước áp lực lạm phát bất ngờ.)*
+
+#### 3. Trong nghĩa vụ nợ & Hoạch định tương lai (Debt Servicing & Future Planning):
+- **`pay off mortgage debt`** *(trả dứt điểm khoản nợ vay thế chấp)*:
+  - *"Retirees gain peace of mind once they fully extinguish their home **[[Mortgage]]** obligations."*
+  - *(Những người về hưu có được sự an tâm khi họ hoàn tất thanh toán dứt điểm các nghĩa vụ vay thế chấp mua nhà.)*
+- **`contribute to a retirement pension`** *(đóng góp cho quỹ lương hưu trí)*:
+  - *"Starting to fund your **[[Pension]]** in your twenties maximizes the compounding growth of retirement assets."*
+  - *(Bắt đầu đóng góp cho quỹ lương hưu từ những năm tuổi đôi mươi sẽ tối đa hóa sự tăng trưởng lãi kép của tài sản hưu trí.)*
+- **`send an international remittance`** *(chuyển một khoản kiều hối quốc tế)*:
+  - *"Overseas workers utilize digital banking platforms to send a low-cost family **[[Remittance]]**."*
+  - *(Những người lao động ở nước ngoài sử dụng các nền tảng ngân hàng số để gửi các khoản kiều hối gia đình với chi phí thấp.)*

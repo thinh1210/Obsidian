@@ -109,3 +109,78 @@ With the rapid **[[Proliferation]]** of **[[Internet]]** technologies, we now sp
 
 ### Bản dịch Tiếng Việt
 Với **sự tăng lên nhanh chóng** của các công nghệ **Internet**, chúng ta hiện dành một phần đáng kể cuộc sống của mình để **trực tuyến**. Mỗi khi chúng ta mở một **trình duyệt** web để truy cập **mạng xã hội**, một **thuật toán** phức tạp sẽ phân tích hành vi của chúng ta. Việc thu thập dữ liệu liên tục này đã thúc đẩy cái mà các chuyên gia gọi là **chủ nghĩa tư bản giám sát**, nơi mà **siêu dữ liệu** cá nhân được coi là một loại hàng hóa. Để bảo vệ đời sống kỹ thuật số của mình, người dùng phải ưu tiên **an ninh mạng**. Sử dụng một **tường lửa** mạnh và một **mạng riêng ảo (VPN)** an toàn giúp chống lại các mối đe dọa, trong khi việc **mã hóa** dữ liệu đảm bảo rằng các tin nhắn nhạy cảm được giữ riêng tư. Đồng thời, các nền tảng phải đối mặt với thách thức **kiểm duyệt nội dung** để lọc bỏ các bài đăng độc hại mà không vi phạm quyền của người dùng.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tranh luận về tính trung lập Internet và bóp băng thông mạng (Debating Net Neutrality & Bandwidth Throttling)
+> **Bối cảnh thực tế:** Trong buổi điều trần của ủy ban quản lý truyền thông, một chuyên gia bảo vệ quyền kỹ thuật số chất vấn đại diện nhà mạng về hành vi bóp băng thông dịch vụ.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Rachel:** Our consumer watchdog report reveals that your company has instituted intentional **[[Bandwidth_throttling]]** during peak streaming hours.
+  *(Báo cáo giám sát người tiêu dùng của chúng tôi tiết lộ rằng công ty quý vị đã áp dụng hành vi cố tình bóp băng thông trong giờ cao điểm xem trực tuyến.)*
+- **Mark:** We only manage heavy network traffic to prevent regional **[[Server]]** overloads. It is necessary congestion control to preserve baseline **[[Bandwidth]]**.
+  *(Chúng tôi chỉ quản lý lưu lượng mạng dày đặc để ngăn ngừa quá tải máy chủ khu vực. Đó là biện pháp kiểm soát tắc nghẽn cần thiết nhằm bảo toàn băng thông cơ sở.)*
+- **Rachel:** But using **[[Deep_packet_inspection]]** to slow down competitor video platforms violates fundamental principles of **[[Net_neutrality]]**!
+  *(Nhưng việc sử dụng công nghệ kiểm tra gói sâu để làm chậm các nền tảng video của đối thủ cạnh tranh là vi phạm các nguyên tắc cơ bản của tính trung lập Internet!)*
+- **Mark:** All subscribers still enjoy high-speed **[[Download]]** access. Furthermore, our enterprise routing reduces packet loss and transmission **[[Latency]]**.
+  *(Tất cả người dùng đăng ký vẫn được tận hưởng quyền truy cập tải xuống tốc độ cao. Hơn nữa, định tuyến cấp doanh nghiệp của chúng tôi giúp giảm mất gói tin và giảm độ trễ truyền tải.)*
+- **Rachel:** Citizens deserve an open, democratic **[[Internet]]** where no corporation acts as a tollbooth controlling what people watch **[[Online]]**.
+  *(Người dân xứng đáng có một mạng Internet mở, dân chủ, nơi không một tập đoàn nào có quyền đóng vai trò trạm thu phí kiểm soát những gì mọi người xem trực tuyến.)*
+- **Mark:** We are prepared to work with regulatory agencies to ensure transparent disclosure while upholding national **[[Digital_sovereignty]]**.
+  *(Chúng tôi sẵn sàng hợp tác với các cơ quan quản lý để đảm bảo công khai minh bạch trong khi vẫn duy trì chủ quyền kỹ thuật số quốc gia.)*
+
+---
+
+### 🌟 Tình huống 2: Điều tra tấn công mạng Phishing và khai thác lỗ hổng Zero-day (Investigating Phishing Attacks & Zero-Day Exploits)
+> **Bối cảnh thực tế:** Chuyên viên an ninh mạng điều tra một sự cố rò rỉ thông tin cá nhân bắt nguồn từ một email lừa đảo tinh vi nhắm vào nhân viên tài chính.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Alex:** We intercepted a malicious spear-**[[Phishing]]** message disguised as a financial invoice sent to twenty executive mailboxes.
+  *(Chúng tôi đã chặn một tin nhắn lừa đảo có chủ đích độc hại ngụy trang dưới dạng hóa đơn tài chính được gửi tới hai mươi hộp thư của ban điều hành.)*
+- **Sarah:** Did anyone click the embedded malicious **[[Link]]** or enter their internal network **[[Password]]**?
+  *(Đã có ai nhấp vào đường liên kết độc hại được nhúng bên trong hay nhập mật khẩu mạng nội bộ của họ chưa?)*
+- **Alex:** Unfortunately, an analyst opened the attachment, triggering an undisclosed **[[Zero_day_exploit]]** that bypassed our host **[[Firewall]]**.
+  *(Rất tiếc là một nhà phân tích đã mở tệp đính kèm, kích hoạt một lỗ hổng zero-day chưa được công bố đã vượt qua tường lửa máy chủ của chúng ta.)*
+- **Sarah:** We must terminate the infected machine's network session immediately and mask the corporate gateway behind a secure **[[VPN]]**.
+  *(Chúng ta phải chấm dứt ngay phiên kết nối mạng của máy bị nhiễm và ẩn cổng kết nối của công ty phía sau một mạng riêng ảo VPN an toàn.)*
+- **Alex:** I isolated the device. The injected **[[Malware]]** was attempting to exfiltrate cached credentials to an illicit server hidden on the **[[Dark_web]]**.
+  *(Tôi đã cách ly thiết bị. Mã độc được chèn vào đang tìm cách tuồn lén thông tin xác thực đã lưu vào bộ nhớ đệm tới một máy chủ bất hợp pháp ẩn danh trên web tối.)*
+- **Sarah:** Excellent containment. Let us revoke all compromised tokens and enforce end-to-end **[[Encryption]]** across all cloud services.
+  *(Khoanh vùng xuất sắc. Hãy thu hồi toàn bộ các mã khóa bị lộ và thực thi mã hóa đầu cuối trên toàn bộ các dịch vụ đám mây.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Về lưu lượng mạng & Kết nối trực tuyến (Network Traffic & Connectivity):
+- **`bandwidth throttling policy`** *(chính sách bóp băng thông mạng)*:
+  - *"Internet service providers often impose **[[Bandwidth_throttling]]** during peak hours to regulate network traffic."*
+  - *(Các nhà cung cấp dịch vụ Internet thường áp dụng chính sách bóp băng thông trong giờ cao điểm để điều tiết lưu lượng mạng.)*
+- **`clear browser cache and cookies`** *(xóa bộ nhớ đệm và cookie trình duyệt)*:
+  - *"To resolve persistent website rendering glitches, clear your **[[Browser]]** **[[Cache]]** and saved **[[Cookie|cookies]]**."*
+  - *(Để khắc phục các lỗi hiển thị trang web dai dẳng, hãy xóa bộ nhớ đệm trình duyệt và các cookie đã lưu.)*
+- **`high-speed Wi-Fi connection`** *(kết nối Wi-Fi tốc độ cao)*:
+  - *"Modern smart offices provide high-speed **[[Wi_Fi]]** to facilitate seamless file **[[Upload]]** and video conferences."*
+  - *(Các văn phòng thông minh hiện đại cung cấp kết nối Wi-Fi tốc độ cao để tạo điều kiện tải tệp lên và họp video liền mạch.)*
+
+#### 2. Về an toàn bảo mật & Quyền riêng tư số (Digital Privacy & Cybersecurity):
+- **`phishing email campaign`** *(chiến dịch gửi email lừa đảo)*:
+  - *"Employees should be trained to recognize fraudulent **[[Phishing]]** attacks attempting to harvest their account **[[Password]]**."*
+  - *(Nhân viên cần được đào tạo để nhận diện các cuộc tấn công lừa đảo giả mạo nhằm thu thập mật khẩu tài khoản của họ.)*
+- **`virtual private network encryption`** *(mã hóa mạng riêng ảo VPN)*:
+  - *"Using a reputable **[[VPN]]** conceals your true **[[IP_address]]** and applies cryptographic **[[Encryption]]** to protect your privacy."*
+  - *(Sử dụng một mạng riêng ảo VPN uy tín sẽ che giấu địa chỉ IP thực sự của bạn và áp dụng mã hóa mật mã để bảo vệ quyền riêng tư của bạn.)*
+- **`zero-day exploit prevention`** *(ngăn ngừa khai thác lỗ hổng zero-day)*:
+  - *"Proactive threat modeling helps enterprise defense teams neutralize dangerous **[[Zero_day_exploit|zero-day exploits]]** before harm occurs."*
+  - *(Mô hình hóa mối đe dọa chủ động giúp các đội ngũ phòng thủ doanh nghiệp vô hiệu hóa các vụ khai thác lỗ hổng zero-day nguy hiểm trước khi thiệt hại xảy ra.)*
+
+#### 3. Về nền tảng mạng xã hội & Quản trị nội dung (Social Media Platforms & Content Governance):
+- **`automated content moderation`** *(kiểm duyệt nội dung tự động)*:
+  - *"Platforms deploy artificial intelligence for **[[Content_moderation]]** to detect toxic hate speech across **[[Social_media]]**."*
+  - *(Các nền tảng triển khai trí tuệ nhân tạo để kiểm duyệt nội dung nhằm phát hiện các ngôn từ thù địch độc hại trên mạng xã hội.)*
+- **`go viral with a hashtag`** *(lan truyền chóng mặt nhờ hashtag)*:
+  - *"The grassroots charitable campaign managed to go **[[Viral]]** after thousands shared its trending **[[Hashtag]]**."*
+  - *(Chiến dịch từ thiện của cộng đồng đã lan truyền chóng mặt sau khi hàng ngàn người chia sẻ hashtag đang là xu hướng của nó.)*
+- **`combat surveillance capitalism`** *(đấu tranh chống chủ nghĩa tư bản giám sát)*:
+  - *"Privacy advocates warn that pervasive tracking of personal **[[Metadata]]** fuels intrusive **[[Surveillance_capitalism]]**."*
+  - *(Các nhà bảo vệ quyền riêng tư cảnh báo rằng việc theo dõi siêu dữ liệu cá nhân tràn lan đang tiếp tay cho chủ nghĩa tư bản giám sát đầy tính xâm lấn.)*

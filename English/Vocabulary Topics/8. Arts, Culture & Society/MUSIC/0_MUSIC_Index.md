@@ -108,3 +108,78 @@ As the young **[[Virtuoso]]** stood before the grand **[[Orchestra]]**, he knew 
 
 ### Bản dịch Tiếng Việt
 Khi **nghệ sĩ bậc thầy** trẻ tuổi đứng trước **dàn nhạc giao hưởng** lớn, anh biết họ chỉ có một ngày để **tập dượt** bản **giao hưởng** phức tạp này. **Nhà soạn nhạc** huyền thoại đã tạo ra một kiệt tác đầy thách thức, nơi mỗi **giai điệu** tinh tế đều đòi hỏi sự **hòa âm** hoàn hảo từ các nhạc công. Khi buổi hòa nhạc trực tiếp bắt đầu, âm nhạc dần xây dựng hướng tới một **sự tăng dần cường độ** ngoạn mục, và **âm sắc** phong phú, độc đáo của cây vĩ cầm độc tấu vang lên tuyệt đẹp khắp khán phòng. Sau đó, anh đã đưa vào một khoảnh khắc **ngẫu hứng** xuất sắc, tạo ra một **sự cộng hưởng** cảm xúc sâu sắc hòa quyện hoàn hảo với **đặc tính âm thanh** xuất sắc của hội trường. Cuối cùng, buổi biểu diễn hoành tráng khép lại bằng một **nhịp điệu kết thúc** chậm rãi, êm dịu, để lại khán giả bị mê hoặc trong sự kinh ngạc tuyệt đối.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Quá trình thu âm và tinh chỉnh bản phối trong phòng thu (Studio Recording Session & Vocal Production)
+> **Bối cảnh thực tế:** Một nhà sản xuất âm nhạc và một nữ ca sĩ - nhạc sĩ trao đổi trong phòng thu chuyên nghiệp để hoàn thiện bản thu âm mộc (acoustic) cho ca khúc chủ đề của album mới.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Producer Leo:** Maya, that vocal take was heartfelt, but your **[[Voice]]** slightly rushed the fourth **[[Beat]]** in the bridge.
+  *(Maya, lượt thu giọng vừa rồi rất cảm xúc, nhưng giọng hát của em hơi bị vội ở nhịp thứ tư trong đoạn chuyển bridge.)*
+- **Singer Maya:** I felt that too. The tempo felt a bit hurried against the subtle **[[Syncopation]]** of the bassline. Let me try it again.
+  *(Em cũng thấy thế. Nhịp độ cảm giác hơi bị gấp gáp so với phần nghịch phách tinh tế của bè trầm. Để em thử lại lần nữa nhé.)*
+- **Producer Leo:** Perfect. Let us strip away the synthesizer and let your fingerstyle **[[Guitar]]** lead. The raw **[[Acoustic]]** warmth fits this **[[Melody]]** far better.
+  *(Tuyệt vời. Chúng ta hãy lược bỏ âm thanh điện tử đi và để tiếng đàn ghi-ta tỉa ngón của em dẫn dắt. Sự ấm áp mộc mạc nguyên bản phù hợp với giai điệu này hơn nhiều.)*
+- **Singer Maya:** I love that idea! When we reach the grand **[[Chorus]]**, can we layer a soft three-part vocal **[[Harmony]]** in the background?
+  *(Em rất thích ý tưởng đó! Khi chúng ta chạm đến đoạn điệp khúc hoành tráng, liệu chúng ta có thể xếp thêm bè hòa thanh ba phần êm dịu ở phía sau không?)*
+- **Producer Leo:** Absolutely. That harmonic **[[Polyphony]]** will give the **[[Track]]** incredible depth without sounding cluttered.
+  *(Chắc chắn rồi. Lối phối đa thanh hài hòa đó sẽ mang lại cho bản nhạc chiều sâu đáng kinh ngạc mà không hề gây cảm giác rối rắm.)*
+- **Singer Maya:** Wonderful! If this single turns out as moving as I envision, our upcoming **[[Album]]** will truly resonate with listeners.
+  *(Tuyệt quá! Nếu đĩa đơn này xúc động đúng như em hình dung, album sắp tới của chúng ta sẽ thực sự chạm đến trái tim người nghe.)*
+
+---
+
+### 🌟 Tình huống 2: Tổng duyệt buổi hòa nhạc giao hưởng trước giờ công diễn (Orchestra Rehearsal for a Grand Classical Symphony)
+> **Bối cảnh thực tế:** Nhạc trưởng chỉ huy dàn nhạc giao hưởng đang đốc thúc các nghệ sĩ tinh chỉnh sự phối hợp nhịp nhàng giữa bộ dây và bộ gõ trước đêm hòa nhạc tại nhà hát lớn.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Conductor Bradley:** Strings and brass, hold! At measure forty-five, that was dangerously close to a **[[Discordant]]** clash. Listen to each other!
+  *(Bộ dây và bộ kèn đồng, dừng lại! Ở nhịp thứ bốn mươi lăm, âm thanh vừa rồi suýt nữa trở thành một sự bất hòa chói tai. Hãy lắng nghe nhau!)*
+- **Concertmaster Nadia:** Maestro, the cellos entered half a second early, which threw off the delicate harmonic **[[Resonance]]** of the hall.
+  *(Thưa Nhạc trưởng, các cây đàn trung cầm đã vào sớm nửa giây, điều đó làm lệch đi sự cộng hưởng hòa âm tinh tế của khán phòng.)*
+- **Conductor Bradley:** Exactly. This hall boasts magnificent **[[Acoustics]]**, which means every stray **[[Sound]]** is instantly magnified to the audience.
+  *(Chính xác. Khán phòng này sở hữu đặc tính âm học tuyệt vời, điều đó có nghĩa là mọi âm thanh lạc lõng đều bị khuếch đại ngay lập tức tới khán giả.)*
+- **Concertmaster Nadia:** Let us **[[Rehearse]]** the transition leading into the great **[[Crescendo]]** again. We will lock in our bowing.
+  *(Chúng ta hãy tập dượt lại đoạn chuyển tiếp dẫn vào đoạn cao trào dồn dập một lần nữa. Chúng tôi sẽ đồng bộ đường kéo vĩ.)*
+- **Conductor Bradley:** From the top of page twelve! Remember, the guest **[[Virtuoso]]** will enter on violin right as the brass resolves into a serene **[[Cadence]]**.
+  *(Từ đầu trang mười hai nhé! Hãy nhớ rằng nghệ sĩ bậc thầy khách mời sẽ vào vĩ cầm ngay khi bè kèn đồng chuyển về một nhịp kết êm dịu.)*
+- **Concertmaster Nadia:** Understood, Maestro. Tonight’s **[[Concert]]** will showcase our **[[Orchestra]]** at its finest artistic peak.
+  *(Chúng tôi đã hiểu, thưa Nhạc trưởng. Buổi hòa nhạc tối nay sẽ phô diễn dàn nhạc của chúng ta ở đỉnh cao nghệ thuật rực rỡ nhất.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Nhịp điệu, Hòa âm & Kỹ thuật hòa sắc (Rhythm, Harmony & Dynamic Artistry):
+- **`infectious rhythm / intricate syncopation`** *(nhịp điệu lôi cuốn / kỹ thuật nghịch phách phức tạp)*:
+  - *"The jazz drummer drove the ensemble with vibrant **[[Rhythm]]** and inventive **[[Syncopation]]**."*
+  - *(Tay trống jazz đã dẫn dắt ban nhạc bằng nhịp điệu sôi động và những cú nghịch phách đầy sáng tạo.)*
+- **`three-part vocal harmony / catchy chorus`** *(hòa thanh ba bè / đoạn điệp khúc bắt tai)*:
+  - *"The vocal group blended their voices in luscious **[[Harmony]]** during the soaring **[[Chorus]]**."*
+  - *(Nhóm hát hòa quyện giọng ca của họ trong sự hòa thanh mượt mà ở đoạn điệp khúc vút cao.)*
+- **`build to a thrilling crescendo / serene cadence`** *(dâng trào lên cao trào kịch tính / nhịp kết êm đềm)*:
+  - *"The symphony swelled to an overwhelming **[[Crescendo]]** before settling into a gentle **[[Cadence]]**."*
+  - *(Bản giao hưởng dâng trào lên một cao trào cuồng nhiệt trước khi lắng xuống một nhịp kết dịu dàng.)*
+
+#### 2. Biểu diễn trực tiếp & Nghệ thuật thính phòng (Live Concerts & Classical Performance):
+- **`commanding virtuoso / solo violin performance`** *(nghệ sĩ bậc thầy điêu luyện / màn trình diễn vĩ cầm độc tấu)*:
+  - *"The guest **[[Virtuoso]]** delivered an awe-inspiring **[[Solo]]** that left the audience spellbound."*
+  - *(Nghệ sĩ bậc thầy khách mời đã mang đến một màn độc tấu đầy kinh ngạc khiến cả khán phòng mê mẩn.)*
+- **`hall acoustics / rich acoustic resonance`** *(đặc tính âm học của khán phòng / độ cộng hưởng âm thanh phong phú)*:
+  - *"Designed by world-class engineers, the concert hall provides impeccable **[[Acoustics]]** and warmth."*
+  - *(Được thiết kế bởi các kỹ sư đẳng cấp thế giới, phòng hòa nhạc mang lại đặc tính âm học hoàn hảo và ấm áp.)*
+- **`rehearse a symphony / perform live on stage`** *(tập dượt bản giao hưởng / biểu diễn trực tiếp trên sân khấu)*:
+  - *"The musicians gathered daily to **[[Rehearse]]** the challenging four-movement **[[Symphony]]**."*
+  - *(Các nhạc công tụ họp hàng ngày để tập dượt bản giao hưởng bốn chương đầy thách thức.)*
+
+#### 3. Sáng tác, Bài hát & Sản xuất âm nhạc (Songwriting, Vocals & Studio Production):
+- **`write poetic lyrics / compose a memorable melody`** *(viết ca từ giàu chất thơ / soạn một giai điệu khó quên)*:
+  - *"A talented **[[Composer]]** knows how to marry poignant **[[Lyrics]]** with an unforgettable **[[Melody]]**."*
+  - *(Một nhà soạn nhạc tài hoa luôn biết cách kết hợp ca từ sâu lắng với một giai điệu không thể nào quên.)*
+- **`release a studio album / chart-topping track`** *(phát hành album phòng thu / bản nhạc dẫn đầu bảng xếp hạng)*:
+  - *"The indie **[[Band]]** spent two years perfecting every single **[[Track]]** for their debut **[[Album]]**."*
+  - *(Ban nhạc độc lập đã dành hai năm để hoàn thiện từng bản thu cho album đầu tay của họ.)*
+- **`pass a competitive audition / gifted vocalist`** *(vượt qua buổi thử giọng cạnh tranh / ca sĩ giọng ca thiên bẩm)*:
+  - *"Her mesmerizing vocal **[[Timbre]]** allowed the young **[[Vocalist]]** to shine during the Broadway **[[Audition]]**."*
+  - *(Âm sắc giọng hát đầy mê hoặc đã giúp nữ ca sĩ trẻ tỏa sáng rực rỡ trong buổi thử vai Broadway.)*

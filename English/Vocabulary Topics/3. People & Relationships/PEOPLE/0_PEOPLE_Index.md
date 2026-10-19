@@ -128,3 +128,72 @@ Arthur was often misunderstood. Many labeled him a **[[Misanthrope]]** because o
 
 ### Bản dịch Tiếng Việt
 Arthur thường bị hiểu lầm. Nhiều người gắn mác ông là một **kẻ lánh đời** vì cuộc sống lặng lẽ, đơn độc của ông, nhưng thực chất ông là một **người hướng nội** tận tụy, người thích suy nghĩ sâu sắc hơn là những cuộc tụ họp xã giao nông cạn. Trên thực tế, ông là một **người nhìn xa trông rộng** và là một **nhà từ thiện** rộng lượng, người đã làm việc không mệt mỏi để cải thiện cộng đồng của mình. Khác với **người tiền nhiệm** của mình, vốn là một **người hướng ngoại** ồn ào và chỉ tập trung thuần túy vào quan hệ công chúng, Arthur là một **người tiên phong** trong cải cách giáo dục địa phương. Ông là một **người ủng hộ** mạnh mẽ cho các cơ hội bình đẳng, truyền cảm hứng cho mọi **đồng nghiệp** và **người đồng trang lứa** ủng hộ sự nghiệp này. Khi Arthur quyết định nghỉ hưu, ông đã bổ nhiệm một nhà hoạt động trẻ đầy nhiệt huyết làm **người kế nhiệm** mình. Arthur không chỉ là một nhân vật xa cách; đối với **người bạn đồng hành** thân thiết của mình, ông là một người bạn trung thành, mặc dù đối với một **người quen** xã giao hay một **người đứng ngoài quan sát** ngẫu nhiên trong đám đông, ông vẫn là một nhân vật bí ẩn đã thay đổi thế giới của họ từ phía sau hậu trường.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Tương tác giữa người hướng nội & người hướng ngoại tại công sở (Introverts, Extroverts & Dynamic Team Collaboration)
+> **Bối cảnh thực tế:** Trong một buổi thảo luận nhóm dự án, hai người đồng nghiệp (**[[Colleague]]**) trao đổi về cách tối ưu hóa thế mạnh của một **[[Introvert]]** (người hướng nội thiên về tư duy phân tích sâu) và một **[[Extrovert]]** (người hướng ngoại giỏi giao tiếp và kết nối).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Marcus:** Maya, have you noticed how differently Nathan and Chloe approach team brainstorming?
+  *(Maya này, cậu có để ý thấy Nathan và Chloe tiếp cận các buổi thảo luận ý tưởng nhóm khác nhau thế nào không?)*
+- **Maya:** Definitely. Chloe is a textbook **[[Extrovert]]** who loves energetic discussions and connecting instantly with every client and **[[Peer]]**.
+  *(Chắc chắn rồi. Chloe là một người hướng ngoại điển hình, rất thích những cuộc tranh luận sôi nổi và kết nối tức thì với mọi khách hàng và bạn đồng trang lứa.)*
+- **Marcus:** While Nathan is a thoughtful **[[Introvert]]**. At first, some thought he was an antisocial **[[Misanthrope]]**, but in reality, he just needs quiet time to process complex problems before presenting ingenious solutions.
+  *(Trong khi Nathan là một người hướng nội sâu sắc. Ban đầu, vài người tưởng cậu ấy là kẻ lánh đời khó gần, nhưng thực ra cậu ấy chỉ cần không gian yên tĩnh để nghiền ngẫm các vấn đề phức tạp trước khi đưa ra những giải pháp tài tình.)*
+- **Maya:** Exactly! Every high-performing organization needs both personality types. An **[[Individual]]** who speaks loudly brings energy, but a quiet thinker brings analytical rigor.
+  *(Chính xác luôn! Mọi tổ chức xuất sắc đều cần cả hai kiểu tính cách này. Một cá nhân quảng giao mang lại nguồn năng lượng bùng nổ, nhưng một người trầm lặng suy tư lại mang đến sự chặt chẽ trong phân tích.)*
+- **Marcus:** Absolutely. When diverse people collaborate harmoniously, the entire work **[[Community]]** thrives.
+  *(Hoàn toàn đồng ý. Khi những con người đa dạng hợp tác hài hòa với nhau, toàn bộ cộng đồng làm việc sẽ cùng phát triển rực rỡ.)*
+
+---
+
+### 🌟 Tình huống 2: Người tiên phong & Kế hoạch chuyển giao thế hệ (Visionary Leadership & Passing the Torch to a Successor)
+> **Bối cảnh thực tế:** Tại lễ kỷ niệm 20 năm thành lập một quỹ từ thiện, vị giám đốc sáng lập—một nhà hoạt động xã hội nhìn xa trông rộng (**[[Visionary]]**) và nhà từ thiện hào hiệp (**[[Philanthropist]]**)—chính thức giới thiệu người kế nhiệm (**[[Successor]]**) của mình.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Audience Member:** Dr. Sterling's farewell address was deeply moving. He has been a true **[[Pioneer]]** in community healthcare.
+  *(Bài phát biểu chia tay của Tiến sĩ Sterling thực sự rất xúc động. Ông ấy đã là một người tiên phong đích thực trong lĩnh vực y tế cộng đồng.)*
+- **Colleague:** Indeed. Following in the footsteps of such an illustrious **[[Predecessor]]** won't be easy for his newly appointed **[[Successor]]**, Elena Rivera.
+  *(Quả đúng vậy. Tiếp bước một người tiền nhiệm lẫy lừng như vậy sẽ không hề dễ dàng đối với người kế nhiệm mới được bổ nhiệm của ông, cô Elena Rivera.)*
+- **Audience Member:** But Elena is a fiercely passionate **[[Proponent]]** of grassroots medicine who has earned immense respect from every local **[[Citizen]]**.
+  *(Nhưng Elena là một người ủng hộ nhiệt thành của nền y tế cơ sở, người đã giành được sự kính trọng sâu sắc từ mọi người dân địa phương.)*
+- **Colleague:** Dr. Sterling chose her precisely because she shares his noble philosophy. A great **[[Philanthropist]]** doesn't just build institutions; they nurture the next **[[Generation]]** of leaders.
+  *(Tiến sĩ Sterling chọn cô ấy chính vì cô cùng chia sẻ triết lý cao đẹp của ông. Một nhà từ thiện vĩ đại không chỉ xây dựng nên các tổ chức; họ còn nuôi dưỡng thế hệ lãnh đạo kế tiếp.)*
+- **Audience Member:** That is the hallmark of a true **[[Visionary]]** whose impact will outlive his lifetime.
+  *(Đó chính là dấu ấn của một người nhìn xa trông rộng thực thụ, người mà tầm ảnh hưởng sẽ sống mãi qua nhiều thời đại.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về tính cách & Giao tiếp con người:
+- **`people person`** *(người cởi mở, giỏi kết nối và hòa nhập)*:
+  - *"Her warmth and genuine empathy make her a natural **natural people person** beloved by customers."*
+  - *(Sự ấm áp và lòng thấu cảm chân thành biến cô ấy thành một người giỏi giao tiếp kết nối, được khách hàng hết mực yêu mến.)*
+- **`salt of the earth`** *(những con người lương thiện, chân chất và đáng quý)*:
+  - *"Despite their humble circumstances, those elderly villagers are truly the salt of the earth."*
+  - *(Dù hoàn cảnh sống còn đơn sơ, những người dân làng cao tuổi nơi đây thực sự là những con người chất phác, đáng trân quý vô cùng.)*
+- **`fit in with one's peers`** *(hòa nhập tốt với bạn bè đồng trang lứa)*:
+  - *"Mentorship programs help newly arrived foreign students quickly **quickly fit in** with their local **[[Peer|peers]]**."*
+  - *(Các chương trình cố vấn giúp các du học sinh mới đến nhanh chóng hòa nhập với bạn bè đồng trang lứa bản xứ.)*
+
+#### 2. Khi nói về cộng đồng & Xã hội:
+- **`cross section of society`** *(mặt cắt đại diện cho các tầng lớp trong xã hội)*:
+  - *"The public transportation rally brought together a wide cross section of modern society."*
+  - *(Buổi diễu hành ủng hộ giao thông công cộng đã thu hút đông đảo mọi tầng lớp đại diện trong xã hội hiện đại.)*
+- **`ordinary folk / common people`** *(những người dân bình dị, thường dân)*:
+  - *"True municipal leaders design civic policies that uplift the everyday lives of ordinary folk."*
+  - *(Những nhà lãnh đạo thành phố chân chính luôn thiết kế các chính sách vì dân nhằm nâng cao đời sống hàng ngày của người dân bình dị.)*
+- **`civic duty and responsibility`** *(nghĩa vụ và trách nhiệm công dân)*:
+  - *"Participating in community clean-up drives is a tangible demonstration of one's civic duty."*
+  - *(Tham gia các đợt dọn dẹp vệ sinh cộng đồng là minh chứng rõ ràng cho trách nhiệm công dân của mỗi người.)*
+
+#### 3. Các thành ngữ thông dụng về con người:
+- **`man of his word`** *(người giữ lời hứa, nói là làm)*:
+  - *"You can trust his business handshake; he has proven time and again to be a man of his word."*
+  - *(Bạn hoàn toàn có thể tin tưởng vào cái bắt tay hợp tác của anh ấy; anh ấy đã nhiều lần chứng minh mình là người luôn giữ trọn lời hứa.)*
+- **`stand out from the crowd`** *(nổi bật, xuất chúng hơn người khác)*:
+  - *"Her exceptional command of four languages helped her **stand out** from the **[[Crowd]]** of job applicants."*
+  - *(Khả năng sử dụng thông thạo bốn ngoại ngữ đã giúp cô ấy nổi bật hoàn toàn giữa đám đông các ứng viên xin việc.)*
+

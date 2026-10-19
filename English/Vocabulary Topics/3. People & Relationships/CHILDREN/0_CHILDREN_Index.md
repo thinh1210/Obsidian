@@ -128,3 +128,72 @@ Every **[[Childhood]]** is a unique journey shaped by **[[Upbringing]]** and fam
 
 ### Bản dịch Tiếng Việt
 Mỗi **tuổi thơ** đều là một hành trình độc bản được định hình bởi **sự giáo dục** và sự hỗ trợ từ gia đình. Khi Sarah còn là một **đứa trẻ mới biết đi**, cô bé khá **nghịch ngợm**, thường xuyên **ăn vạ** một cách đầy kịch tính ở nơi công cộng khi không có được món đồ chơi yêu thích. Thật may mắn, bản năng **lòng mẹ (hiền mẫu)** mạnh mẽ và sự kiên nhẫn của mẹ cô đã giúp **nuôi dưỡng** cô thành một đứa trẻ **ngoan ngoãn** và tử tế. Tuy nhiên, khi Sarah lớn lên thành một thiếu niên, cô đã trở thành một **vị thành niên** **bướng bỉnh (nổi loạn)**. Giống như nhiều bạn trẻ **dễ bị ảnh hưởng** và dễ bị tác động bởi bạn bè đồng trang lứa, thỉnh thoảng cô đã vi phạm **giờ giới nghiêm** ban đêm để đi chơi với bạn bè. Nhờ sự hướng dẫn kiên trì và tình yêu thương sâu sắc của cha mẹ, cô đã tránh xa khỏi sự **phạm pháp** ở tuổi vị thành niên và trưởng thành thành công thành một người lớn có trách nhiệm và toàn diện.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Xử lý cơn giận dỗi ăn vạ ở trẻ nhỏ (Managing Toddler Tantrums & Positive Discipline)
+> **Bối cảnh thực tế:** Tại một khu vui chơi gia đình, hai người mẹ trẻ trao đổi kinh nghiệm ứng phó khi con ở độ tuổi **[[Toddler]]** (trẻ mới biết đi) quấy khóc, mè nheo đòi đồ chơi (**[[Toy]]**) và cách **[[Nurture]]** (nuôi dưỡng) lòng kiên nhẫn thay vì nuông chiều làm hư con (**[[Spoil]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Jessica:** Hannah, how do you keep your cool whenever your three-year-old throws a public **[[Tantrum]]**? My little boy screamed for thirty minutes just because I wouldn't buy another plastic **[[Toy]]**.
+  *(Hannah này, làm sao cậu giữ được bình tĩnh mỗi khi đứa con ba tuổi nổi cơn ăn vạ ở chốn đông người thế? Thằng bé nhà mình gào khóc suốt ba mươi phút chỉ vì mình không chịu mua thêm một món đồ chơi nhựa.)*
+- **Hannah:** I completely empathize! During early **[[Childhood]]**, especially the **[[Toddler]]** stage, kids lack emotional regulation. If you give in every time, you inadvertently **[[Spoil]]** them into becoming a demanding **[[Brat]]**.
+  *(Mình hoàn toàn đồng cảm! Trong giai đoạn đầu đời, đặc biệt là tuổi mới biết đi, các con chưa biết cách điều hòa cảm xúc. Nếu cậu nhượng bộ mỗi lần như vậy, cậu sẽ vô tình nuông chiều khiến con trở thành một đứa trẻ vòi vĩnh khó bảo đấy.)*
+- **Jessica:** So what do you do when he starts to **[[Misbehave]]** and acts **[[Naughty]]**?
+  *(Vậy cậu làm gì khi con bắt đầu hư đốn và cư xử nghịch ngợm?)*
+- **Hannah:** I get down to his eye level, validate his frustration, and stay calm. Consistent **[[Upbringing]]** teaches them that tears won't change the rules. Over time, he learns to communicate calmly instead of resorting to an uncontrollable **[[Cry]]**.
+  *(Mình ngồi xuống ngang tầm mắt con, công nhận sự bực bội của bé và giữ vẻ điềm tĩnh. Sự dạy dỗ nhất quán sẽ dạy con hiểu rằng nước mắt không thể thay đổi được nguyên tắc. Dần dà, con sẽ học cách trao đổi bình tĩnh thay vì khóc lóc ăn vạ không kiểm soát.)*
+- **Jessica:** That's wonderful advice. Raising healthy **[[Offspring]]** requires immense psychological resilience!
+  *(Đó là lời khuyên tuyệt vời. Nuôi dạy con cái trưởng thành khỏe mạnh thực sự đòi hỏi sự bền bỉ tâm lý phi thường!)*
+
+---
+
+### 🌟 Tình huống 2: Định hướng con tuổi dậy thì & Đặt ra giới hạn (Guiding Rebellious Adolescents & Setting Boundaries)
+> **Bối cảnh thực tế:** Trong buổi họp phụ huynh hoặc trò chuyện gia đình, các bậc cha mẹ bàn về giai đoạn chuyển tiếp của **[[Adolescent]]** (vị thành niên), tâm lý nổi loạn (**[[Rebellious]]**), áp lực bạn bè và việc thực thi giờ giới nghiêm (**[[Curfew]]**).
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Robert:** My daughter just turned fifteen, and suddenly she has become remarkably **[[Rebellious]]**. She resents doing household **[[Chores]]** and constantly tests our rules.
+  *(Con gái tôi vừa tròn mười lăm tuổi, và đột nhiên con bé trở nên nổi loạn rõ rệt. Nó bực bội khi phải làm việc nhà và liên tục thử thách các giới hạn của chúng tôi.)*
+- **Karen:** That is very typical for an **[[Adolescent]]**. During these **[[Impressionable]]** teenage years, youth naturally crave autonomy and look up to peer groups rather than listening to their **[[Parent|parents]]**.
+  *(Điều đó rất điển hình đối với lứa tuổi vị thành niên. Trong những năm tháng dậy thì dễ bị tác động này, người trẻ tự nhiên khao khát tính tự chủ và tìm kiếm sự công nhận từ bạn bè hơn là lắng nghe cha mẹ.)*
+- **Robert:** We recently established a strict 9 PM **[[Curfew]]** on school nights, but she argues it is far too restrictive compared to her classmates.
+  *(Gần đây chúng tôi đã thiết lập giờ giới nghiêm nghiêm ngặt lúc 9 giờ tối vào các ngày trong tuần, nhưng con bé cãi rằng quy định này quá gò bó so với các bạn cùng lớp.)*
+- **Karen:** Setting boundaries is essential to protect young **[[Minor|minors]]** from risky peer influences and juvenile **[[Delinquency]]**. However, don't forget to combine firm rules with active listening so she feels respected, not merely controlled.
+  *(Đặt ra ranh giới là điều thiết yếu để bảo vệ trẻ vị thành niên khỏi những ảnh hưởng tiêu cực từ bạn bè và nguy cơ phạm pháp thanh thiếu niên. Tuy nhiên, đừng quên kết hợp kỷ luật vững vàng với việc lắng nghe thấu cảm để con cảm thấy được tôn trọng chứ không chỉ bị kiểm soát.)*
+- **Robert:** True. Balancing parental firmness with warmth is the key to preserving our family bond through her teenage years.
+  *(Đúng vậy. Cân bằng giữa sự cứng rắn của cha mẹ với tình yêu thương ấm áp chính là chìa khóa để gìn giữ sự gắn kết gia đình qua những năm tháng dậy thì của con.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về nuôi dạy & Giai đoạn đầu đời:
+- **`formative years`** *(những năm tháng đầu đời định hình nhân cách)*:
+  - *"Emotional warmth and security during **[[Childhood|formative years]]** lay the groundwork for lifelong mental wellness."*
+  - *(Sự ấm áp và an toàn tình cảm trong những năm tháng đầu đời đặt nền móng cho sức khỏe tinh thần trọn đời.)*
+- **`throw a temper tantrum`** *(nổi cơn thịnh nộ, ăn vạ)*:
+  - *"The exhausted toddler threw a dramatic **[[Tantrum]]** when he wasn't allowed to stay up past his bedtime."*
+  - *(Đứa trẻ mới biết đi vì quá mệt đã nổi cơn ăn vạ kịch liệt khi không được phép thức quá giờ đi ngủ.)*
+- **`innocent curiosity`** *(sự tò mò ngây thơ trong sáng)*:
+  - *"Preschoolers explore their surroundings with pure and unbounded **[[Innocence]]**."*
+  - *(Các bé mẫu giáo khám phá môi trường xung quanh với sự ngây thơ và tò mò thuần khiết không giới hạn.)*
+
+#### 2. Khi nói về thanh thiếu niên & Giới hạn gia đình:
+- **`impose / enforce a strict curfew`** *(áp đặt / thực thi giờ giới nghiêm nghiêm ngặt)*:
+  - *"Parents often enforce a weekend **[[Curfew]]** to ensure their teenagers return home safely."*
+  - *(Các bậc phụ huynh thường thực thi giờ giới nghiêm vào cuối tuần để đảm bảo con em về nhà an toàn.)*
+- **`impressionable age / youth`** *(lứa tuổi dễ bị ảnh hưởng, non nớt)*:
+  - *"Social media trends can exert immense pressure on youth at such an **[[Impressionable]]** age."*
+  - *(Các trào lưu mạng xã hội có thể tạo ra áp lực khổng lồ lên giới trẻ ở lứa tuổi còn non nớt và dễ bị ảnh hưởng như vậy.)*
+- **`helicopter parenting`** *(phong cách nuôi dạy bao bọc quá mức)*:
+  - *"Excessive helicopter parenting stifles a child's natural independence and problem-solving skills."*
+  - *(Phong cách nuôi dạy kiểm soát và bao bọc quá mức sẽ làm thui chột tính tự lập tự nhiên và kỹ năng giải quyết vấn đề của trẻ.)*
+
+#### 3. Các thành ngữ thông dụng về con trẻ:
+- **`child's play`** *(trò trẻ con, việc cực kỳ dễ dàng)*:
+  - *"After months of rigorous preparation, passing the driving exam felt like child's play."*
+  - *(Sau nhiều tháng chuẩn bị kỹ lưỡng, việc vượt qua kỳ thi lái xe cảm giác dễ như trở bàn tay.)*
+- **`like a kid in a candy store`** *(vui sướng, phấn khích tột cùng)*:
+  - *"Stepping into the mega bookstore, she felt like a kid in a candy store."*
+  - *(Bước chân vào hiệu sách khổng lồ, cô ấy cảm thấy phấn khích tột cùng như một đứa trẻ trong tiệm kẹo.)*
+

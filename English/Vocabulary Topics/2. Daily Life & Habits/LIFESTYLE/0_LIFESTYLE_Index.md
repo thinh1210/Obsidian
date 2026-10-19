@@ -108,3 +108,75 @@ John used to be a typical **[[Workaholic]]**, leading a highly **[[Sedentary]]**
 
 ### Bản dịch Tiếng Việt
 John đã từng là một **người tham công tiếc việc** điển hình, dẫn đến một lối sống **ít vận động** tràn ngập những cuộc họp vô tận. **Thói quen hàng ngày** đầy căng thẳng của anh khiến anh không có thời gian để **thư giãn**. Nhận ra điều này là không bền vững, anh quyết định thực hiện những thay đổi **bổ ích** để cải thiện **sức khỏe toàn diện** của mình. Đầu tiên, anh áp dụng tư duy **tối giản**, dọn dẹp sự bừa bộn và chọn lối sống **tiết kiệm**. Anh thiết lập một lịch trình hàng ngày ưu tiên việc **rèn luyện thể chất** và một **chế độ ăn** cân bằng. Thay vì lựa chọn **trì hoãn** việc chăm sóc sức khỏe cá nhân, anh đã làm chủ cuộc sống của mình. Những thói quen này đã giúp **làm sảng khoái** tâm trí và cơ thể anh, khôi phục lại sự **cân bằng** hoàn hảo giữa sự nghiệp và cuộc sống cá nhân.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Thoát khỏi lối sống thụ động & Thay đổi thói quen làm việc công sở (Breaking Free from a Sedentary Routine)
+> **Bối cảnh thực tế:** Hai nhân viên văn phòng thảo luận về các vấn đề sức khỏe phát sinh khi ngồi làm việc quá nhiều giờ mỗi ngày, chia sẻ giải pháp thiết lập lại chế độ sinh hoạt và cân bằng công việc - cuộc sống.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Brenda:** Kevin, I feel exhausted lately. My daily **[[Commute]]** takes two hours, and then I sit at my desk until evening. This **[[Sedentary]]** routine is taking a severe toll on my **[[Health]]**.
+  *(Kevin, dạo này tớ cảm thấy kiệt sức quá. Quãng đường đi làm hàng ngày mất tới hai tiếng, rồi tớ lại ngồi dính chặt ở bàn làm việc cho tới tận tối. Lối sống thụ động ít vận động này đang gây tổn hại nghiêm trọng đến sức khỏe của tớ.)*
+- **Kevin:** I completely relate, Brenda. Being a self-confessed **[[Workaholic]]** used to make me proud, but the constant **[[Stress]]** and lack of adequate **[[Sleep]]** ruined my immune system.
+  *(Tớ hoàn toàn đồng cảm, Brenda. Từng tự nhận mình là một kẻ nghiện việc khiến tớ hãnh diện, nhưng sự căng thẳng liên miên và thiếu ngủ trầm trọng đã tàn phá hệ miễn dịch của tớ.)*
+- **Brenda:** What did you do to turn things around?
+  *(Cậu đã làm gì để xoay chuyển tình thế vậy?)*
+- **Kevin:** I started to strictly **[[Organize]]** my work day and set boundaries. I no longer skip meals or let tasks pile up because I used to **[[Procrastinate]]**. Instead, I stick to a **[[Salutary]]** schedule that includes 30 minutes of cardio.
+  *(Tớ bắt đầu sắp xếp tổ chức ngày làm việc một cách chặt chẽ và đặt ra ranh giới rõ ràng. Tớ không còn bỏ bữa hay để dồn đống công việc vì thói quen trì hoãn như trước nữa. Thay vào đó, tớ kiên trì bám sát một lịch trình sinh hoạt bổ ích bao gồm 30 phút tập thể dục tăng nhịp tim.)*
+- **Brenda:** That explains why you have so much vibrant **[[Energy]]** throughout meetings now!
+  *(Hèn chi dạo này trông cậu luôn tràn đầy năng lượng tươi tắn suốt các cuộc họp!)*
+- **Kevin:** Exactly. Prioritizing physical **[[Fitness]]** and mindful nutrition helped me restore true work-life **[[Balance]]**. You should take brisk walking breaks with me tomorrow!
+  *(Chính xác luôn. Ưu tiên việc rèn luyện thể chất và chế độ dinh dưỡng lành mạnh đã giúp tớ tìm lại sự cân bằng công việc - đời sống đích thực. Ngày mai cậu hãy thử ra ngoài đi bộ nhanh giải lao cùng tớ nhé!)*
+
+---
+
+### 🌟 Tình huống 2: Lựa chọn giữa lối sống tối giản tiết kiệm & Chủ nghĩa tiêu dùng xa hoa (Minimalism vs. Extravagance)
+> **Bối cảnh thực tế:** Hai người bạn thời đại học gặp lại nhau, bàn luận về việc chuyển đổi từ lối sống chạy theo hàng hiệu xa xỉ sang phong cách tối giản thanh thản, tập trung vào sức khỏe tinh thần.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Oliver:** Lucas, you sold your sports car and moved into a compact studio apartment? That seems almost **[[Ascetic]]** compared to your former taste!
+  *(Lucas, cậu đã bán chiếc xe thể thao và chuyển về một căn hộ studio nhỏ gọn ư? Quyết định đó dường như mang hơi hướng khổ hạnh so với sở thích xa hoa trước kia của cậu đấy!)*
+- **Lucas:** Well, I spent years pursuing a **[[Hedonistic]]** lifestyle, chasing every luxury trend and **[[Extravagant]]** purchase. But all that clutter brought zero lasting contentment.
+  *(À, tớ đã dành nhiều năm theo đuổi lối sống hưởng thụ khoái lạc, săn lùng mọi xu hướng xa xỉ và những món đồ mua sắm phung phí xa hoa. Nhưng toàn bộ đống đồ đạc ngổn ngang đó chẳng hề mang lại sự mãn nguyện lâu dài.)*
+- **Oliver:** So you transitioned to being a committed **[[Minimalist]]**?
+  *(Vậy nên cậu đã chuyển hướng trở thành một người theo chủ nghĩa tối giản kiên định à?)*
+- **Lucas:** Exactly. Adopting a **[[Frugal]]** yet intentional mindset freed me from consumer debt. Now, instead of material **[[Indulgence]]**, I invest my resources into wholesome **[[Nutrition]]** and holistic **[[Wellness]]**.
+  *(Chính xác. Áp dụng tư duy tiết kiệm nhưng có chủ đích đã giải thoát tớ khỏi gánh nặng nợ nần tiêu dùng. Bây giờ, thay vì nuông chiều bản thân vào vật chất, tớ đầu tư nguồn lực vào dinh dưỡng lành mạnh và chăm sóc sức khỏe toàn diện.)*
+- **Oliver:** It sounds liberating. Even your daily **[[Routine]]** seems much more peaceful and unhurried now.
+  *(Nghe thật tự do giải phóng. Ngay cả lịch trình sinh hoạt hàng ngày của cậu bây giờ trông cũng thanh thản và thong dong hơn rất nhiều.)*
+- **Lucas:** It truly is. When you strip away superficial distractions, you discover that true luxury is peace of mind and time to **[[Unwind]]**.
+  *(Thực sự là như vậy. Khi cậu gạt bỏ những cám dỗ bề nổi, cậu sẽ khám phá ra rằng sự xa xỉ đích thực chính là sự thanh thản trong tâm hồn và thời gian để thư giãn xả hơi.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi nói về sức khỏe & Thói quen sinh hoạt:
+- **`sedentary lifestyle`** *(lối sống thụ động, ngồi nhiều một chỗ)*:
+  - *"Adopting a **[[Sedentary]]** routine without regular exercise drastically increases cardiovascular risks."*
+  - *(Duy trì một thói quen ngồi nhiều thụ động mà không tập thể dục đều đặn làm tăng mạnh nguy cơ mắc bệnh tim mạch.)*
+- **`salutary daily habits`** *(những thói quen sinh hoạt hàng ngày bổ ích, lành mạnh)*:
+  - *"Drinking herbal tea and getting eight hours of **[[Sleep]]** are **[[Salutary]]** practices for longevity."*
+  - *(Uống trà thảo mộc và ngủ đủ tám tiếng là những thói quen bổ ích mang lại sự trường thọ.)*
+- **`invigorating physical exercise`** *(hoạt động thể chất tiếp thêm sinh lực, sảng khoái)*:
+  - *"A brisk morning jog will **[[Invigorate]]** your senses and sustain high mental focus all day."*
+  - *(Chạy bộ nhanh buổi sáng sẽ tiếp thêm sinh lực cho các giác quan và duy trì sự tập trung tinh thần cao độ suốt cả ngày.)*
+
+#### 2. Khi quản lý công việc & Cân bằng cuộc sống:
+- **`work-life balance`** *(sự cân bằng giữa công việc và đời sống cá nhân)*:
+  - *"Striking an optimal **[[Balance]]** between career ambitions and personal rest prevents burnout."*
+  - *(Đạt được sự cân bằng tối ưu giữa hoài bão sự nghiệp và nghỉ ngơi cá nhân giúp ngăn ngừa tình trạng kiệt sức.)*
+- **`workaholic tendencies`** *(xu hướng tham công tiếc việc, nghiện việc)*:
+  - *"Overcoming **[[Workaholic]]** tendencies requires setting firm boundaries around digital communication after hours."*
+  - *(Vượt qua xu hướng nghiện làm việc đòi hỏi phải thiết lập ranh giới nghiêm ngặt đối với liên lạc công việc ngoài giờ.)*
+- **`boost daily productivity`** *(nâng cao năng suất làm việc hàng ngày)*:
+  - *"Learning to **[[Organize]]** demanding tasks early in the morning greatly boosts overall **[[Productivity]]**."*
+  - *(Học cách sắp xếp các nhiệm vụ khó khăn vào sáng sớm giúp nâng cao rõ rệt năng suất tổng thể.)*
+
+#### 3. Khi bàn về triết lý sống & Tiêu dùng:
+- **`minimalist lifestyle`** *(lối sống tối giản, giản lược vật chất)*:
+  - *"Embracing a **[[Minimalist]]** philosophy allows you to focus on experiences rather than hoarding possessions."*
+  - *(Đón nhận triết lý sống tối giản cho phép bạn tập trung vào những trải nghiệm thay vì tích trữ của cải vật chất.)*
+- **`frugal living`** *(lối sống tiết kiệm, chi tiêu chừng mực)*:
+  - *"Practicing **[[Frugal]]** money management ensures long-term financial security for future generations."*
+  - *(Thực hành quản lý tài chính tiết kiệm đảm bảo sự an toàn kinh tế bền vững cho các thế hệ tương lai.)*"

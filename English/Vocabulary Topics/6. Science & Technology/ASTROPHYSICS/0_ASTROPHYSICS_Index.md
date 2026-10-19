@@ -108,3 +108,74 @@ Through a powerful **[[Telescope]]**, researchers of **[[Astrophysics]]** study 
 
 ### Bản dịch Tiếng Việt
 Thông qua một chiếc **kính thiên văn** mạnh mẽ, các nhà nghiên cứu **vật lý thiên văn** nghiên cứu những bí ẩn vô tận của **vũ trụ**. Họ quan sát các **thiên thể** xa xôi và lần theo dấu vết tàn dư của một **siêu tân tinh** khổng lồ đang tỏa sáng rực rỡ bên trong một **tinh vân** đầy màu sắc. Xa hơn nữa, bụi **liên sao** bao quanh một **ngoại hành tinh** bí ẩn khi nó bắt đầu **quay quanh quỹ đạo** một ngôi sao đang lụi tàn. Đột nhiên, các nhà khoa học phát hiện ra **bức xạ** cường độ cao phát ra từ một **hố đen** khổng lồ. Môi trường cực đoan này tạo ra một lực **hấp dẫn** mạnh mẽ, làm bẻ cong chính kết cấu của **không-thời gian**. Tại tâm của nó nằm một **điểm kỳ dị**, một điểm nơi các định luật **vật lý** đã biết của chúng ta hoàn toàn sụp đổ. Việc giải mã những câu đố vũ trụ này đưa các nhà khoa học vào một cuộc hành trình khám phá kéo dài hàng triệu **năm ánh sáng**.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Quan sát sự bùng nổ siêu tân tinh tại đài thiên văn quốc tế (Observing a Supernova Detonation at an Astronomical Observatory)
+> **Bối cảnh thực tế:** Một nhóm các nhà vật lý thiên văn tại đài quan sát trên đỉnh núi đang ghi nhận các dữ liệu quang học và phổ bức xạ bất thường từ một tinh vân xa xôi qua kính viễn vọng không gian.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Dr. Aris:** Look at these sensor readouts from our primary optical **[[Telescope]]**! A massive spike in electromagnetic **[[Radiation]]** just emerged from the Tarantula **[[Nebula]]**.
+  *(Hãy nhìn vào các chỉ số cảm biến từ kính thiên văn quang học chính của chúng ta này! Một đợt tăng vọt đột biến bức xạ điện từ vừa xuất hiện từ Tinh vân Tarantula.)*
+- **Elena:** That sudden surge in **[[Bright]]** emission confirms a core-collapse **[[Supernova]]**. A supergiant **[[Star]]** has finally exhausted its nuclear fuel.
+  *(Sự bùng nổ phát sáng đột ngột đó xác nhận một vụ nổ siêu tân tinh sụp đổ lõi. Một ngôi sao siêu khổng lồ cuối cùng đã cạn kiệt nhiên liệu hạt nhân.)*
+- **Dr. Aris:** Let's calculate its distance using stellar **[[Parallax]]**. If our baseline measurements are accurate, this **[[Celestial]]** detonation took place over one hundred thousand **[[Light-year|light-years]]** away.
+  *(Hãy tính khoảng cách của nó bằng phương pháp thị sai sao. Nếu các phép đo cơ sở của chúng ta chính xác, vụ nổ thiên thể này xảy ra cách đây hơn một trăm nghìn năm ánh sáng.)*
+- **Elena:** Look how rapidly the gaseous envelope continues to **[[Expand]]** into the surrounding **[[Interstellar]]** dust cloud. It will seed the **[[Galaxy]]** with heavy elements.
+  *(Hãy nhìn xem lớp vỏ khí đang tiếp tục giãn nở nhanh như thế nào vào đám mây bụi liên sao xung quanh. Nó sẽ gieo rắc các nguyên tố nặng vào thiên hà.)*
+- **Dr. Aris:** This is a golden milestone for modern **[[Astrophysics]]**. Let us notify international teams so they can point their radio arrays at this coordinate across the **[[Cosmos]]**.
+  *(Đây là một cột mốc vàng cho ngành vật lý thiên văn hiện đại. Hãy thông báo cho các đội ngũ quốc tế để họ hướng các mảng kính vô tuyến về tọa độ này trên khắp vũ trụ.)*
+
+---
+
+### 🌟 Tình huống 2: Mô phỏng lực hấp dẫn hố đen và độ cong không-thời gian (Modeling Black Hole Gravitational Pull & Spacetime Curvature)
+> **Bối cảnh thực tế:** Trong hội thảo chuyên đề vật lý lý thuyết, hai nhà khoa học thảo luận về các phương trình trường Einstein mô tả hành vi của vật chất khi rơi qua đường chân trời sự kiện hướng vào tâm kỳ dị.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Prof. Vance:** Our supercomputer simulations demonstrate how an extreme **[[Black Hole]]** distorts the geometry of **[[Spacetime]]** around its outer accretion disk.
+  *(Các mô phỏng trên siêu máy tính của chúng ta chứng minh cách một hố đen cực lớn bóp méo hình học của không-thời gian xung quanh đĩa bồi tụ ngoài của nó.)*
+- **Dr. Kayla:** The intense **[[Gravitational]]** lensing bends light rays completely backwards before they can even reach the outer **[[Horizon]]**.
+  *(Thấu kính hấp dẫn cực mạnh bẻ cong các tia sáng hoàn toàn về phía sau trước khi chúng kịp chạm tới chân trời ngoài.)*
+- **Prof. Vance:** Exactly. Beyond that boundary, the inescapable pull of **[[Gravity]]** accelerates any captured matter directly into the gravitational **[[Singularity]]**.
+  *(Chính xác. Vượt qua ranh giới đó, lực hút không thể trốn thoát của trọng lực sẽ gia tốc bất kỳ vật chất nào bị giữ lại lao thẳng vào điểm kỳ dị hấp dẫn.)*
+- **Dr. Kayla:** And that is precisely where standard classical **[[Physics]]** breaks down, demanding a unified theory to explain how the entire **[[Universe]]** functions at quantum scales.
+  *(Và đó chính xác là nơi nền vật lý cổ điển tiêu chuẩn sụp đổ, đòi hỏi một lý thuyết thống nhất để giải thích cách toàn bộ vũ trụ vận hành ở quy mô lượng tử.)*
+- **Prof. Vance:** We must compare these theoretical curves with newly discovered **[[Quasar]]** emissions to verify if our cosmological equations hold true.
+  *(Chúng ta phải đối chiếu các đường cong lý thuyết này với các bức xạ quasar mới được phát hiện để xác minh xem các phương trình vũ trụ học của chúng ta có đúng hay không.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Khi mô tả hiện tượng thiên thể & Động lực học vũ trụ (Celestial Phenomena & Cosmic Dynamics):
+- **`gravitational pull`** *(lực hút hấp dẫn mạnh mẽ)*:
+  - *"The immense **[[Gravitational]]** pull of the supermassive core keeps the entire **[[Galaxy]]** in stable rotation."*
+  - *(Lực hút hấp dẫn khổng lồ của lõi siêu khối lượng giữ cho toàn bộ thiên hà quay ổn định.)*
+- **`supernova remnant`** *(tàn tích siêu tân tinh)*:
+  - *"Astrophysicists study the glowing **[[Supernova]]** remnant to trace the origin of heavy elements in our **[[Solar]]** neighborhood."*
+  - *(Các nhà vật lý thiên văn nghiên cứu tàn tích siêu tân tinh phát sáng để lần theo nguồn gốc của các nguyên tố nặng trong vùng lân cận hệ mặt trời của chúng ta.)*
+- **`interstellar medium`** *(môi trường liên sao)*:
+  - *"Hydrogen gas and cosmic dust throughout the **[[Interstellar]]** medium coalesce to form new stars across the **[[Cosmos]]**."*
+  - *(Khí hydro và bụi vũ trụ trong khắp môi trường liên sao kết tụ lại để tạo thành các ngôi sao mới trên khắp vũ trụ.)*
+
+#### 2. Khi đo đạc & Thám hiểm không gian sâu (Deep Space Measurement & Observation):
+- **`stellar parallax measurement`** *(phép đo thị sai sao)*:
+  - *"By utilizing precision **[[Parallax]]**, astronomers can accurately calculate distances to celestial bodies without leaving **[[Earth]]**."*
+  - *(Bằng cách sử dụng thị sai chính xác, các nhà thiên văn học có thể tính toán chính xác khoảng cách tới các thiên thể mà không cần rời khỏi Trái đất.)*
+- **`light-year distance`** *(khoảng cách tính bằng năm ánh sáng)*:
+  - *"Even travelling at the speed of light, reaching the nearest **[[Exoplanet]]** would take several **[[Light-year|light-years]]** of interstellar voyage."*
+  - *(Ngay cả khi di chuyển với tốc độ ánh sáng, việc chạm tới ngoại hành tinh gần nhất cũng sẽ mất vài năm ánh sáng của chuyến du hành liên sao.)*
+- **`orbit around`** *(quay quanh quỹ đạo)*:
+  - *"Hundreds of active artificial **[[Satellite|satellites]]** continuously **[[Orbit]]** our home **[[Planet]]** to monitor atmospheric changes."*
+  - *(Hàng trăm vệ tinh nhân tạo đang hoạt động liên tục quay quanh quỹ đạo hành tinh quê hương của chúng ta để theo dõi những biến đổi khí quyển.)*
+
+#### 3. Các mẫu câu tranh luận khoa học & Khám phá vũ trụ (Scientific Discourse & Cosmic Inquiries):
+- **`warp spacetime continuum`** *(làm biến dạng liên tục không-thời gian)*:
+  - *"Extreme cosmic masses like a **[[Black Hole]]** warp the surrounding fabric of **[[Spacetime]]**."*
+  - *(Các khối lượng vũ trụ cực đoan như một hố đen làm cong biến dạng kết cấu không-thời gian xung quanh.)*
+- **`expand exponentially`** *(giãn nở theo cấp số nhân)*:
+  - *"Astrophysical evidence indicates that our observable **[[Universe]]** continues to **[[Expand]]** at an accelerating rate."*
+  - *(Bằng chứng vật lý thiên văn chỉ ra rằng vũ trụ quan sát được của chúng ta tiếp tục giãn nở với tốc độ ngày càng gia tăng.)*
+- **`celestial body observation`** *(quan sát thiên thể)*:
+  - *"Using a deep-space **[[Telescope]]**, researchers spotted a blazing **[[Comet]]** with an icy tail sweeping past Jupiter."*
+  - *(Sử dụng kính thiên văn vũ trụ sâu, các nhà nghiên cứu đã phát hiện một sao chổi rực sáng với chiếc đuôi băng quét qua Sao Mộc.)*

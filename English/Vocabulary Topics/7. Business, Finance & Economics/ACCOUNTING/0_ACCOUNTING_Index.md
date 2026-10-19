@@ -108,3 +108,78 @@ As a senior [[Accountant]] at a multinational firm, Sarah was responsible for ma
 
 ### Bản dịch Tiếng Việt
 Với tư cách là một **Kế toán viên** cấp cao tại một công ty đa quốc gia, Sarah chịu trách nhiệm quản lý **ngân sách** hàng năm và đảm bảo sức khỏe tài chính của công ty. Trong khi xem xét **sổ cái**, cô nhận thấy một sự **sai lệch** đáng kể giữa **doanh thu** dự kiến và dòng tiền thực tế. Điều này đã thôi thúc cô thực hiện một cuộc **đối chiếu số liệu** chi tiết của tất cả các tài khoản. Cô cẩn thận phân tích từng **tài sản** và **khoản nợ phải trả** để xác định nguyên nhân, đồng thời tính đến việc **khấu hao** thiết bị của công ty. Sử dụng phương pháp **dồn tích**, cô nhận ra họ cần một khoản **xóa nợ** đối với một số khoản nợ khó đòi để duy trì **khả năng thanh toán dài hạn**. Sarah thực hiện nghĩa vụ **tín thác** của mình một cách nghiêm túc, biết rằng bất kỳ sự thiếu minh bạch tài chính nào cũng có thể dẫn đến một cuộc **kiểm toán** nghiêm ngặt từ bên ngoài.
+
+## 🎭 Tình huống Sử dụng & Hội thoại Thực tế (Real-World Scenarios & Dialogues)
+
+### 🌟 Tình huống 1: Quyết toán sổ sách & Đối chiếu công nợ cuối năm tài chính (Year-End Financial Closing & Reconciliation)
+> **Bối cảnh thực tế:** Giám đốc Tài chính (CFO - Marcus) thảo luận với Trưởng nhóm Kế toán (Senior Accountant - Elena) về việc cân đối sổ sách, đối chiếu các khoản phải thu/phải trả và trích lập dự phòng nợ khó đòi trước đợt kiểm toán độc lập.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Elena (Senior Accountant):** Marcus, our accounting team is finalizing the annual **[[Balance]]** sheet, but we identified an unexpected **[[Discrepancy]]** between the general **[[Ledger]]** and the vendor records.
+  *(Marcus này, đội ngũ kế toán đang hoàn tất bảng cân đối kế toán hàng năm, nhưng chúng tôi đã phát hiện một sự sai lệch bất ngờ giữa sổ cái tổng hợp và các hồ sơ của nhà cung cấp.)*
+- **Marcus (CFO):** That is concerning. Have you completed the bank **[[Reconciliation]]** and verified all outstanding **[[Payables]]** and **[[Receivables]]**?
+  *(Điều đó rất đáng lo ngại đấy. Cô đã hoàn tất việc đối chiếu số dư ngân hàng và xác minh tất cả các khoản phải trả cũng như các khoản phải thu còn tồn đọng chưa?)*
+- **Elena:** Yes, we reconciled the **[[Bank]]** statements. However, our accounts receivable shows overdue customer **[[Debt]]**, and we might need to recommend a partial **[[Write-off]]** to prevent misleading our projected **[[Revenue]]**.
+  *(Vâng, chúng tôi đã đối chiếu các sao kê ngân hàng. Tuy nhiên, mục các khoản phải thu cho thấy các khoản nợ quá hạn của khách hàng, và chúng ta có thể cần đề xuất một khoản xóa nợ một phần để tránh làm sai lệch doanh thu dự kiến.)*
+- **Marcus:** Under our **[[Accrual]]** accounting framework, we must also account for equipment **[[Depreciation]]** and intangible **[[Amortization]]** before submitting the draft financial **[[Statement]]**.
+  *(Theo khuôn khổ kế toán dồn tích của chúng ta, chúng ta cũng phải hạch toán khoản khấu hao tài sản cố định và phân bổ tài sản vô hình trước khi đệ trình bản dự thảo báo cáo tài chính.)*
+- **Elena:** Understood. That will adjust our taxable **[[Income]]** and clarify our net **[[Profit]]** after taking operating **[[Expense|expenses]]** into account.
+  *(Tôi hiểu rồi. Điều đó sẽ điều chỉnh thu nhập chịu thuế và làm rõ lợi nhuận ròng sau khi tính đến các chi phí hoạt động.)*
+- **Marcus:** Excellent. Ensure every single **[[Transaction]]** has an unassailable audit trail so we maintain full compliance when the external **[[Audit]]** begins.
+  *(Xuất sắc. Hãy đảm bảo mọi giao dịch đơn lẻ đều có dấu vết kiểm toán không thể chối cãi để chúng ta duy trì sự tuân thủ đầy đủ khi cuộc kiểm toán bên ngoài bắt đầu.)*
+
+---
+
+### 🌟 Tình huống 2: Điều tra nghi vấn gian lận nội bộ & Trách nhiệm ủy thác (Forensic Audit & Fiduciary Duty Investigation)
+> **Bối cảnh thực tế:** Ban kiểm soát nội bộ mời một chuyên gia kiểm toán pháp y (Forensic Auditor - Mr. Vance) đến làm việc với Trưởng ban Kiểm soát (Chief Compliance Officer - Diana) về dấu hiệu biển thủ ngân sách công ty.
+
+#### 🎬 Đoạn hội thoại (Dialogue):
+- **Diana (Compliance Officer):** Mr. Vance, our internal review flagged several irregular payments classified as professional consulting **[[Fee|fees]]**, which caused an unexpected department **[[Deficit]]**.
+  *(Thưa ông Vance, đợt rà soát nội bộ của chúng tôi đã gắn cờ cảnh báo một số khoản thanh toán bất thường được phân loại là phí tư vấn chuyên môn, điều này đã gây ra sự thâm hụt ngân sách phòng ban bất ngờ.)*
+- **Vance (Forensic Auditor):** I have examined the payment records. A substantial amount of liquid **[[Cash]]** was siphoned through dummy shell accounts with no corresponding purchase **[[Receipt]]** or approved **[[Invoice]]**.
+  *(Tôi đã kiểm tra các hồ sơ thanh toán. Một lượng tiền mặt thanh khoản đáng kể đã bị rút ruột qua các tài khoản công ty ma mà không hề có biên lai mua sắm hay hóa đơn được phê duyệt tương ứng.)*
+- **Diana:** This is an egregious breach of corporate **[[Fiduciary]]** responsibility. Are there concrete indications of systematic **[[Embezzlement]]**?
+  *(Đây là sự vi phạm trắng trợn trách nhiệm ủy thác doanh nghiệp. Có những dấu hiệu cụ thể nào về hành vi tham ô biển thủ có hệ thống không?)*
+- **Vance:** Yes. The suspect manipulated the **[[Ledger]]** entries to inflate capital **[[Cost|costs]]**, masking unauthorized cash outflows under legitimate asset **[[Valuation]]**.
+  *(Vâng. Đối tượng tình nghi đã thao túng các bút toán sổ cái để thổi phồng chi phí vốn, che giấu các dòng tiền rút ra trái phép dưới danh nghĩa định giá tài sản hợp pháp.)*
+- **Diana:** We must protect company **[[Equity]]** and safeguard our corporate **[[Solvency]]** before this hits public disclosures.
+  *(Chúng ta phải bảo vệ vốn chủ sở hữu của công ty và bảo vệ khả năng thanh toán nợ của doanh nghiệp trước khi thông tin này xuất hiện trên các công bố đại chúng.)*
+- **Vance:** I will compile a certified **[[Forensic]]** report detailing every suspicious **[[Record]]** so legal counsel can proceed with criminal prosecution and asset recovery.
+  *(Tôi sẽ biên soạn một báo cáo pháp y kế toán có chứng nhận chi tiết hóa từng hồ sơ đáng ngờ để cố vấn pháp lý có thể tiến hành truy tố hình sự và thu hồi tài sản.)*
+
+---
+
+### 💬 Tuyển tập Mẫu Câu Giao Tiếp & Collocations Thực Chiến (High-Frequency Collocations & Sentence Frames)
+
+#### 1. Trong ghi nhận số liệu & Cân đối sổ sách (Bookkeeping & Financial Reporting):
+- **`accrual basis accounting`** *(kế toán trên cơ sở dồn tích)*:
+  - *"Under **[[Accrual]]** basis accounting, expenses are recognized when incurred rather than when cash is disbursed."*
+  - *(Theo kế toán trên cơ sở dồn tích, các chi phí được ghi nhận khi phát sinh thay vì khi tiền mặt được chi trả.)*
+- **`balance sheet reconciliation`** *(đối chiếu bảng cân đối kế toán)*:
+  - *"The **[[Accountant]]** performed a meticulous **[[Reconciliation]]** to resolve inconsistencies in the general ledger."*
+  - *(Kế toán viên đã thực hiện một cuộc đối chiếu tỉ mỉ để giải quyết những điểm bất nhất trong sổ cái chung.)*
+- **`accumulated depreciation`** *(khấu hao lũy kế)*:
+  - *"The book value of manufacturing machinery reflects its initial purchase price minus accumulated **[[Depreciation]]**."*
+  - *(Giá trị sổ sách của máy móc sản xuất phản ánh giá mua ban đầu trừ đi khấu hao lũy kế.)*
+
+#### 2. Trong quản trị tài chính doanh nghiệp & Đánh giá rủi ro (Corporate Finance & Solvency):
+- **`working capital liquidity`** *(thanh khoản vốn lưu động)*:
+  - *"Maintaining adequate **[[Liquidity]]** is essential to prevent corporate **[[Insolvency]]** during economic downturns."*
+  - *(Duy trì đủ tính thanh khoản là điều tối quan trọng để ngăn ngừa nguy cơ mất khả năng thanh toán nợ của doanh nghiệp trong thời kỳ suy thoái kinh tế.)*
+- **`operating budget deficit`** *(thâm hụt ngân sách hoạt động)*:
+  - *"Management implemented strict cost-cutting measures to curtail the mounting quarterly **[[Deficit]]**."*
+  - *(Ban quản lý đã thực hiện các biện pháp cắt giảm chi phí nghiêm ngặt nhằm kiềm chế sự thâm hụt ngân sách hàng quý ngày càng gia tăng.)*
+- **`asset valuation method`** *(phương pháp định giá tài sản)*:
+  - *"Independent appraisers applied a discounted cash-flow model for the company's property **[[Valuation]]**."*
+  - *(Các nhà thẩm định độc lập đã áp dụng mô hình chiết khấu dòng tiền để định giá tài sản của công ty.)*
+
+#### 3. Trong kiểm toán & Tuân thủ pháp lý (Audit & Regulatory Compliance):
+- **`breach of fiduciary duty`** *(vi phạm nghĩa vụ/trách nhiệm ủy thác)*:
+  - *"Executives face severe legal penalties if they fail to uphold their **[[Fiduciary]]** duty to shareholders."*
+  - *(Các giám đốc điều hành phải đối mặt với các hình phạt pháp lý nghiêm khắc nếu không hoàn thành nghĩa vụ ủy thác đối với các cổ đông.)*
+- **`forensic audit investigation`** *(cuộc điều tra kiểm toán pháp y)*:
+  - *"The board commissioned an independent **[[Forensic]]** team to uncover proof of covert fund **[[Embezzlement]]**."*
+  - *(Hội đồng quản trị đã chỉ định một đội ngũ kiểm toán pháp y độc lập để phát hiện bằng chứng về hành vi biển thủ công quỹ lén lút.)*
+- **`debt write-off`** *(sự xóa nợ khó đòi)*:
+  - *"The financial institution recognized a substantial **[[Write-off]]** after concluding the loan could not be recovered."*
+  - *(Tổ chức tài chính đã ghi nhận một khoản xóa nợ đáng kể sau khi kết luận rằng khoản vay không thể thu hồi.)*
