@@ -1,4 +1,4 @@
-# 🏗️ Chương 1: Kiến Trúc Tổng Quan & Các Khái Niệm Cốt Lõi Của Yocto Project
+# 🏗️ Chương 11 (Yocto 1): Kiến Trúc Tổng Quan & Các Khái Niệm Cốt Lõi Của Yocto Project
 
 > **Tài liệu tham khảo chính thức**:
 > - [Yocto Project Overview and Concepts Manual](https://docs.yoctoproject.org/overview-manual/index.html)

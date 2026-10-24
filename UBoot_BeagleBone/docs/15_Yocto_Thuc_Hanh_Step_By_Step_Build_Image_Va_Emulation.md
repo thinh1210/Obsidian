@@ -1,4 +1,4 @@
-# 🚀 Chương 5: Hướng Dẫn Thực Hành Từng Bước (Build Image & Chạy Mô Phỏng QEMU)
+# 🚀 Chương 15 (Yocto 5): Hướng Dẫn Thực Hành Từng Bước (Build Image & Chạy Mô Phỏng QEMU)
 
 > **Mục tiêu thực hành**:
 > 1. Thiết lập máy tính Host đầy đủ các gói phụ thuộc chuẩn của Yocto Project.

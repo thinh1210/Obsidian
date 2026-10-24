@@ -1,0 +1,56 @@
+# ============================================================================
+# KỊCH BẢN THỰC HÀNH U-BOOT FALCON MODE TRÊN CỔNG UART (KHỞI ĐỘNG < 2 GIÂY)
+# Tham chiếu: Bootlin Seminar - Boot Time Optimization & U-Boot Falcon Mode
+# ============================================================================
+# Nguyên lý:
+# - Bình thường: ROM -> SPL (MLO) -> U-Boot (u-boot.img) -> Linux Kernel (zImage)
+# - Falcon Mode: ROM -> SPL (MLO) ------------------------> Linux Kernel (zImage)
+#
+# Để SPL nhảy thẳng vào Kernel mà không cần U-Boot, SPL cần một file Device Tree
+# đã được điền sẵn nút "/chosen" (chứa bootargs và thông tin bộ nhớ RAM).
+# Chúng ta dùng lệnh "spl export fdt" trên cổng UART một lần duy nhất để tạo
+# file "args" đó và lưu vào thẻ nhớ FAT32!
+# ============================================================================
+
+# [BƯỚC 1] Cắm cáp UART vào cổng J1, mở picocom (115200 8N1), giữ phím Space
+#          khi cắm nguồn để dừng ở dấu nhắc U-Boot (=>)
+
+# [BƯỚC 2] Chọn thiết bị thẻ nhớ MicroSD (MMC 0)
+mmc dev 0
+
+# [BƯỚC 3] Nạp Linux Kernel (zImage) và Device Tree (am335x-boneblack.dtb) vào RAM
+fatload mmc 0:1 0x82000000 zImage
+fatload mmc 0:1 0x88000000 am335x-boneblack.dtb
+
+# [BƯỚC 4] Thiết lập chuỗi tham số khởi động tối ưu tốc độ (quiet + lpj cố định)
+# Lưu ý: lpj=4980736 giúp Kernel bỏ qua bước tính toán BogoMIPS lúc boot (tiết kiệm ~150ms)
+setenv bootargs console=ttyS0,115200n8 root=/dev/mmcblk0p2 rw rootfstype=ext4 rootwait quiet lpj=4980736
+
+# [BƯỚC 5] Chạy lệnh "spl export fdt" để U-Boot giả lập quá trình bootz,
+#          nhúng bootargs vào cây Device Tree tại 0x88000000 mà KHÔNG nhảy vào Kernel
+spl export fdt 0x82000000 - 0x88000000
+
+# Sau lệnh này, trên màn hình UART sẽ in ra dòng thông báo tương tự:
+#   Argument image is now in RAM: 0x88000000
+#   (Kích thước file DTB mở rộng thường khoảng 0x10000 = 64KB)
+
+# [BƯỚC 6] Ghi vùng nhớ DTB đã chuẩn bị (tại 0x88000000) xuống phân vùng FAT32
+#          thành một file tên là "args" (khớp với CONFIG_SPL_FS_LOAD_ARGS_NAME="args")
+fatwrite mmc 0:1 0x88000000 args 0x10000
+
+# [BƯỚC 7] Kiểm tra xem file "args" đã nằm trên thẻ nhớ chưa
+fatls mmc 0:1
+# Kết quả sẽ thấy: MLO, u-boot.img, zImage, am335x-boneblack.dtb, và args!
+
+# [BƯỚC 8] Khởi động lại bo mạch để tận hưởng tốc độ Falcon Mode!
+reset
+
+# ============================================================================
+# KẾT QUẢ TRÊN MÀN HÌNH UART SAU KHI RESET:
+#   U-Boot SPL 2024.01 (Oct 23 2026)
+#   Trying to boot from MMC1
+#   [    0.000000] Booting Linux on physical CPU 0x0  <-- Nhảy thẳng vào Linux!
+# ============================================================================
+# MẸO CỨU HỘ: Nếu đang ở Falcon Mode mà bạn muốn quay lại giao diện U-Boot (=>),
+# chỉ cần giữ phím 'c' trên bàn phím máy tính (qua UART) ngay khi cấp nguồn,
+# SPL sẽ nhận phím 'c' và nạp lại u-boot.img như bình thường!

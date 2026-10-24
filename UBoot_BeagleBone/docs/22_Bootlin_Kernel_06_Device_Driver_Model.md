@@ -1,4 +1,4 @@
-# 🏗️ Chương 6: Linux Device and Driver Model (Mô Hình Thiết Bị & Driver Unified Chuyên Sâu)
+# 🏗️ Chương 22 (Bootlin Kernel 6): Linux Device and Driver Model (Mô Hình Thiết Bị & Driver Unified Chuyên Sâu)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 176 đến Slide 223** của khóa học Bootlin Linux Kernel, phân tích mô hình Unified Device Model (Bus, Device, Driver), Platform Drivers, Subsystem I2C và bài thực hành Practical Lab 6.
 
@@ -106,9 +106,21 @@ Giao tiếp I2C chia thành 2 tầng chính:
 1. **I2C Adapter Driver (`i2c_adapter`)**: Driver điều khiển bộ I2C Controller phần cứng của SoC.
 2. **I2C Client Driver (`i2c_driver`)**: Driver điều khiển chip ngoại vi nối vào bus I2C (ví dụ: tay cầm Wii Nunchuk địa chỉ `0x52`).
 
-Các hàm **SMBus API** giao tiếp I2C chuẩn:
-* `i2c_smbus_read_byte_data(client, reg)`: Đọc 1 byte từ thanh ghi.
-* `i2c_smbus_write_byte_data(client, reg, val)`: Ghi 1 byte vào thanh ghi.
+> [!IMPORTANT]
+> **Thay đổi chữ ký hàm `probe()` trên Linux Kernel >= 6.3/6.4 (Slide 215)**:
+> * Trên các bản Kernel mới (`>= v6.3`), hàm `.probe` của `struct i2c_driver` **chỉ nhận 1 tham số duy nhất**: `int (*probe)(struct i2c_client *client);` (và `.remove` trả về `void`).
+> * Trên các bản Kernel cũ (`< v6.3`), `.probe` nhận 2 tham số `(struct i2c_client *client, const struct i2c_device_id *id)` hoặc dùng `.probe_new`.
+
+Các nhóm hàm API giao tiếp I2C chuẩn (Slide 218-220):
+* **Raw I2C API (Slide 218 — dùng trong bài Lab Nunchuk của Bootlin)**:
+  * `int i2c_master_send(const struct i2c_client *client, const char *buf, int count);`
+  * `int i2c_master_recv(const struct i2c_client *client, char *buf, int count);`
+* **Message Transfer API (Slide 219-220)**: `int i2c_transfer(struct i2c_adapter *adap, struct i2c_msg *msgs, int num);`
+* **SMBus API**: `i2c_smbus_read_byte_data(client, reg)`, `i2c_smbus_write_byte_data(client, reg, val)`.
+
+> [!TIP]
+> **Lưu ý giao thức khởi tạo Wii Nunchuk (Bootlin Lab)**:
+> Khi khởi tạo Nunchuk bằng chuỗi 2 cặp byte `{0xf0, 0x55}` và `{0xfb, 0x00}` (Chế độ Unencrypted — không mã hóa), dữ liệu 6 byte đọc về từ `i2c_master_recv()` là **dữ liệu nguyên bản không bị mã hóa** (không cần phép XOR `(b ^ 0x17) + 0x17`; phép XOR chỉ dùng cho kiểu khởi tạo cũ `{0x40, 0x00}`).
 
 ---
 
@@ -321,4 +333,4 @@ stateDiagram-v2
 ```
 
 ---
-*Tiếp theo: [Chương 7: Kernel Frameworks & Char Drivers](./07_Kernel_Frameworks_Char_Drivers.md)*
+*Tiếp theo: [Chương 23 (Bootlin Kernel 7): Kernel Frameworks & Char Drivers](./23_Bootlin_Kernel_07_Kernel_Frameworks_Char_Drivers.md)*

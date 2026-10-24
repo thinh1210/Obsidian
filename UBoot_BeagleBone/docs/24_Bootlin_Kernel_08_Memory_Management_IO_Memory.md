@@ -1,4 +1,4 @@
-# 🧠 Chương 8: Memory Management & I/O Memory (Quản Lý Bộ Nhớ & MMIO Chuyên Sâu)
+# 🧠 Chương 24 (Bootlin Kernel 8): Memory Management & I/O Memory (Quản Lý Bộ Nhớ & MMIO Chuyên Sâu)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 266 đến Slide 299** của khóa học Bootlin Linux Kernel, phân tích cơ chế quản lý bộ nhớ ảo (Virtual Memory), phân biệt `kmalloc` vs `vmalloc`, truy xuất thanh ghi MMIO (`ioremap`) và bài thực hành Practical Lab 8.
 
@@ -55,12 +55,22 @@ graph TD
 
 ## 🔌 3. Truy Xuất Bộ Nhớ I/O (Memory-Mapped I/O - MMIO)
 
-### 3.1 Khái niệm MMIO & `ioremap` (Slide 288-293)
-Các thanh ghi phần cứng của SoC được ánh xạ vào địa chỉ bộ nhớ vật lý. Để đọc/ghi các thanh ghi này trong Driver, Kernel bắt buộc phải ánh xạ địa chỉ vật lý đó sang địa chỉ ảo bằng hàm **`ioremap()`**:
+### 3.1 Khái niệm MMIO, `/proc/iomem` & `ioremap` (Slide 288-294)
+Các thanh ghi phần cứng của SoC được ánh xạ vào không gian địa chỉ bộ nhớ vật lý. Ví dụ bản đồ `/proc/iomem` thực tế trên **BeagleBone Black (AM335x)** trích từ **Slide 291**:
+* `40300000-4030ffff`: `40300000.sram` (OCMC SRAM nội)
+* `44e07000-44e07fff`: `44e07000.gpio` (**GPIO0 Controller**)
+* `44e09000-44e0901f`: `serial` (**UART0 Console**)
+* `44e0b000-44e0bfff`: `44e0b000.i2c` (**I2C0 Controller**)
+* `44e10800-44e10a37`: `pinctrl-single` (**Control Module Padconf**)
+* `4804c000-4804cfff`: `4804c000.gpio` (**GPIO1 Controller** — quản lý 4 đèn LED `USR0..USR3` tại các chân 21..24)
+* `80000000-9fdfffff`: `System RAM` (512 MB DDR3)
+
+Để đọc/ghi các thanh ghi này trong Driver, Kernel bắt buộc phải ánh xạ địa chỉ vật lý đó sang địa chỉ ảo bằng hàm **`ioremap()`** hoặc hàm Managed API **`devm_platform_ioremap_resource(pdev, 0)`** (Slide 294 — tự động gộp `platform_get_resource` + `request_mem_region` + `ioremap`):
 
 ```c
-// Ánh xạ 4KB thanh ghi phần cứng từ địa chỉ vật lý 0x44E07000 (GPIO1 Controller)
-void __iomem *base = ioremap(0x44E07000, 0x1000);
+// Ánh xạ 4KB thanh ghi phần cứng từ địa chỉ vật lý 0x4804C000 (GPIO1 Controller trên AM335x)
+// Lưu ý: 0x44E07000 là GPIO0, còn GPIO1 (nơi nối LED USR0..USR3) nằm tại 0x4804C000 (Slide 291)
+void __iomem *base = ioremap(0x4804C000, 0x1000);
 ```
 
 ### 3.2 Quy Tắc Đọc/Ghi Thanh Ghi An Toàn (Slide 294-297)
@@ -282,4 +292,4 @@ flowchart TD
 ```
 
 ---
-*Tiếp theo: [Chương 9: Clock, Power Management & Misc Subsystem](./09_Clock_Power_Misc_Subsystem.md)*
+*Tiếp theo: [Chương 25 (Bootlin Kernel 9): Clock, Power Management & Misc Subsystem](./25_Bootlin_Kernel_09_Clock_Power_Misc_Subsystem.md)*

@@ -1,4 +1,4 @@
-# 📦 Chương 4: Developing Kernel Modules (Phát Triển Mô-Đun Kernel Chuyên Sâu)
+# 📦 Chương 20 (Bootlin Kernel 4): Developing Kernel Modules (Phát Triển Mô-Đun Kernel Chuyên Sâu)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 92 đến Slide 108** của khóa học Bootlin Linux Kernel, hướng dẫn chi tiết lập trình Loadable Kernel Module (LKM), truyền tham số dòng lệnh, xuất Symbol và Practical Lab 4.
 
@@ -19,15 +19,16 @@ graph TD
     ExitFunc --> FreeState["Giải phóng bộ nhớ & Xóa khỏi RAM"]
 ```
 
-### 1.2 Tối Ưu Bộ Nhớ Với Macro `__init` và `__exit` (Slide 98)
-* **`__init`**: Đánh dấu hàm khởi tạo nằm ở vùng nhớ tạm `.init.text`. Ngay sau khi hàm thực thi xong lúc boot, Kernel sẽ **xóa sạch toàn bộ vùng nhớ này** để trả lại RAM cho hệ thống!
-* **`__exit`**: Đánh dấu hàm thuộc vùng `.exit.text`. Nếu module được biên dịch tĩnh trực tiếp vào Kernel (`CONFIG_FOO=y`), hàm hủy này sẽ **tự động bị loại bỏ hoàn toàn** vì Kernel tích hợp không bao giờ bị tháo gỡ.
+### 1.2 Tối Ưu Bộ Nhớ Với Macro `__init`, `__exit` & `MODULE_LICENSE` (Slide 95 & Slide 98)
+* **`__init` (Slide 95)**: Đánh dấu hàm khởi tạo nằm ở vùng nhớ tạm `.init.text` (và dữ liệu `__initdata`). Ngay sau khi hàm thực thi xong lúc boot hoặc nạp module, Kernel sẽ **xóa sạch toàn bộ vùng nhớ này** để trả lại RAM cho hệ thống!
+* **`__exit` (Slide 95)**: Đánh dấu hàm thuộc vùng `.exit.text` (và `__exitdata`). Nếu module được biên dịch tĩnh trực tiếp vào Kernel (`CONFIG_FOO=y`), hàm hủy này sẽ **tự động bị loại bỏ hoàn toàn** vì Kernel tích hợp không bao giờ bị tháo gỡ.
+* **`MODULE_LICENSE()` (Slide 98)**: Khai báo giấy phép (`"GPL"`, `"GPL v2"`, `"Dual BSD/GPL"`, `"Dual MIT/GPL"`, hoặc `"Proprietary"`). Khai báo tương thích GPL là bắt buộc để không làm Kernel bị đánh dấu `Tainted (P)` và để truy cập được các hàm `EXPORT_SYMBOL_GPL()`.
 
 ---
 
 ## 🎛️ 2. Truyền Tham Số Cho Module (Module Parameters)
 
-### 2.1 Cú Pháp `module_param()` (Slide 99-102)
+### 2.1 Cú Pháp `module_param()` (Slide 105-107)
 Cho phép truyền thông số cấu hình khi nạp module từ dòng lệnh (Ví dụ: `insmod my_driver.ko debug_level=3 dev_name="sensor1"`).
 
 Cú pháp: `module_param(name, type, perm);`
@@ -43,7 +44,7 @@ Cú pháp: `module_param(name, type, perm);`
 
 ## 🔗 3. Cơ Chế Xuất Symbol (Exporting Symbols)
 
-### 3.1 Giao Tiếp Giữa Các Module Với `EXPORT_SYMBOL` (Slide 103-105)
+### 3.1 Giao Tiếp Giữa Các Module Với `EXPORT_SYMBOL` (Slide 96-97)
 Mặc định, các hàm C khai báo trong một module chỉ có phạm vi nội bộ. Nếu Module B muốn gọi một hàm tiện ích từ Module A:
 Module A phải xuất hàm đó vào bảng Symbol toàn cục của Kernel (**Kernel Symbol Table** tại `/proc/kallsyms`).
 
@@ -52,7 +53,7 @@ Module A phải xuất hàm đó vào bảng Symbol toàn cục của Kernel (**
 
 ---
 
-## 🏗️ 4. Cấu Trúc Kbuild Makefile Chuẩn (Slide 106-108)
+## 🏗️ 4. Cấu Trúc Kbuild Makefile Chuẩn (Slide 99-104)
 
 Biên dịch Out-of-tree (mã nguồn module nằm ngoài cây mã nguồn Kernel) phải sử dụng hệ thống Kbuild của Kernel:
 
@@ -264,4 +265,4 @@ flowchart TD
 ```
 
 ---
-*Tiếp theo: [Chương 5: Hardware Description & Device Tree](./05_Hardware_Description_Device_Tree.md)*
+*Tiếp theo: [Chương 21 (Bootlin Kernel 5): Hardware Description & Device Tree](./21_Bootlin_Kernel_05_Hardware_Description_Device_Tree.md)*

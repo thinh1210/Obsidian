@@ -1,4 +1,4 @@
-# 🛠️ Chương 3: Linux Kernel Usage - Config, Build, Boot & Modules (Cấu Hình, Biên Dịch Chéo & Khởi Động)
+# 🛠️ Chương 19 (Bootlin Kernel 3): Linux Kernel Usage - Config, Build, Boot & Modules (Cấu Hình, Biên Dịch Chéo & Khởi Động)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 49 đến Slide 91** của khóa học Bootlin Linux Kernel, hướng dẫn chi tiết quy trình cấu hình Kconfig, biên dịch chéo (Cross-compilation), thiết lập Bootloader U-Boot, nạp hệ thống tệp và Practical Lab 3.
 
@@ -38,7 +38,7 @@ Khi phát triển hệ thống nhúng, máy chủ phát triển (Host Machine - 
 
 Cần truyền 2 biến môi trường bắt buộc:
 * **`ARCH`**: Định nghĩa kiến trúc máy đích (`arm`, `arm64`, `riscv`, `x86`).
-* **`CROSS_COMPILE`**: Tiền tố của bộ công cụ biên dịch chéo (ví dụ: `aarch64-linux-gnu-` cho ARM64, `arm-linux-gnabihf-` cho ARM32).
+* **`CROSS_COMPILE`**: Tiền tố của bộ công cụ biên dịch chéo (ví dụ: `aarch64-linux-gnu-` cho ARM64, `arm-linux-gnueabihf-` hoặc `arm-linux-` cho ARM32 như BeagleBone Black).
 
 ### 2.2 So sánh Các Định Dạng Kernel Image (Slide 70-73)
 
@@ -85,9 +85,18 @@ saveenv
 fatload mmc 0:1 0x80200000 Image
 fatload mmc 0:1 0x88000000 my_board.dtb
 
-# Kích hoạt khởi động Kernel ARM64 (lệnh booti)
+# Kích hoạt khởi động Kernel:
+# - Trên ARM32 (BeagleBone Black): dùng lệnh bootz (với zImage)
+# - Trên ARM64 / RISC-V: dùng lệnh booti (với Image)
 booti 0x80200000 - 0x88000000
 ```
+
+> [!NOTE]
+> **Cơ chế truyền `bootargs` từ U-Boot sang Kernel (Slide 81)**:
+> Ngay trước khi nhảy vào Kernel, U-Boot ghi chuỗi `bootargs` vào node `/chosen` của Device Tree trong RAM. Hành vi của Kernel phụ thuộc vào cấu hình Kconfig:
+> * `CONFIG_CMDLINE_FROM_BOOTLOADER`: Kernel chỉ dùng chuỗi `bootargs` do U-Boot truyền sang.
+> * `CONFIG_CMDLINE_FORCE`: Kernel bỏ qua U-Boot và chỉ dùng chuỗi cố định trong `CONFIG_CMDLINE` lúc biên dịch.
+> * `CONFIG_CMDLINE_EXTEND`: Kernel nối cả hai chuỗi lại với nhau.
 
 #### Giải thích các cờ `bootargs` quan trọng:
 * `console=ttyS0,115200`: Định hướng log khởi động ra cổng Serial UART0 với tốc độ baud 115200.
@@ -242,4 +251,4 @@ flowchart LR
 ```
 
 ---
-*Tiếp theo: [Chương 4: Developing Kernel Modules](./04_Developing_Kernel_Modules.md)*
+*Tiếp theo: [Chương 20 (Bootlin Kernel 4): Developing Kernel Modules](./20_Bootlin_Kernel_04_Developing_Kernel_Modules.md)*

@@ -1,4 +1,4 @@
-# ⚙️ Chương 7: Kernel Frameworks for Device Drivers (Char Drivers & Input Subsystem)
+# ⚙️ Chương 23 (Bootlin Kernel 7): Kernel Frameworks for Device Drivers (Char Drivers & Input Subsystem)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 224 đến Slide 265** của khóa học Bootlin Linux Kernel, hướng dẫn lập trình Character Drivers, chuyển đổi dữ liệu an toàn User/Kernel, hệ thống Input Subsystem, bộ quản lý tài nguyên `devm_*` và bài thực hành Practical Lab 7.
 
@@ -75,8 +75,15 @@ graph TD
    * `set_bit(EV_KEY, input->evbit);` (Hỗ trợ nút bấm)
    * `set_bit(EV_ABS, input->evbit);` (Hỗ trợ trục Joystick tọa độ tuyệt đối)
    * `input_set_abs_params(input, ABS_X, 0, 255, 4, 8);` (Trục X từ 0 đến 255)
-3. **Đăng ký**: `input_register_device(input);`
-4. **Báo cáo sự kiện**:
+3. **Thiết lập Polling nếu thiết bị không có chân ngắt IRQ (Slide 255)**:
+   * Tay cầm I2C Nunchuk không có chân báo ngắt phần cứng, nên cần dùng API Polling của Input Subsystem:
+     ```c
+     input_set_drvdata(input, nunchuk);             // Liên kết con trỏ private data (Slide 264)
+     input_setup_polling(input, nunchuk_poll);      // Đăng ký hàm quét định kỳ
+     input_set_poll_interval(input, 50);            // Chu kỳ lấy mẫu 50ms (20Hz)
+     ```
+4. **Đăng ký**: `input_register_device(input);`
+5. **Báo cáo sự kiện (trong hàm `nunchuk_poll` hoặc ISR)**:
    ```c
    input_report_key(input, BTN_Z, z_state);  // Báo trạng thái nút Z
    input_report_abs(input, ABS_X, jx_val);   // Báo tọa độ Joystick X
@@ -110,33 +117,53 @@ struct nunchuk_dev {
     struct input_dev *input;
 };
 
-static unsigned char nunchuk_decode_byte(unsigned char b)
-{
-    return (b ^ 0x17) + 0x17;
-}
-
 static int nunchuk_read_registers(struct i2c_client *client, unsigned char *buf)
 {
-    int ret, i;
-    
-    // Gửi lệnh đọc 0x00
-    i2c_smbus_write_byte(client, 0x00);
-    mdelay(10);
+    unsigned char cmd = 0x00;
+    int ret;
+
+    // Gửi lệnh yêu cầu đọc 0x00 (Slide 218: i2c_master_send)
+    ret = i2c_master_send(client, &cmd, 1);
+    if (ret < 0)
+        return ret;
+
+    usleep_range(10000, 20000); // Chờ 10ms trong Process/Polling context
 
     ret = i2c_master_recv(client, buf, 6);
     if (ret < 0)
         return ret;
 
-    for (i = 0; i < 6; i++) {
-        buf[i] = nunchuk_decode_byte(buf[i]);
-    }
     return 0;
 }
 
-static int nunchuk_probe(struct i2c_client *client, const struct i2c_device_id *id)
+// Hàm callback Polling định kỳ (Slide 255 & Slide 264)
+static void nunchuk_poll(struct input_dev *input)
+{
+    struct nunchuk_dev *nunchuk = input_get_drvdata(input);
+    unsigned char buf[6];
+    int jx, jy, btn_z, btn_c;
+
+    if (nunchuk_read_registers(nunchuk->client, buf) < 0)
+        return;
+
+    jx = buf[0];
+    jy = buf[1];
+    btn_z = !(buf[5] & BIT(0));
+    btn_c = !(buf[5] & BIT(1));
+
+    input_report_abs(input, ABS_X, jx);
+    input_report_abs(input, ABS_Y, jy);
+    input_report_key(input, BTN_Z, btn_z);
+    input_report_key(input, BTN_C, btn_c);
+    input_sync(input);
+}
+
+static int nunchuk_probe(struct i2c_client *client)
 {
     struct nunchuk_dev *nunchuk;
     struct input_dev *input;
+    unsigned char init1[2] = { 0xf0, 0x55 };
+    unsigned char init2[2] = { 0xfb, 0x00 };
     int ret;
 
     // 1. Cấp phát struct quản lý bằng Managed API devm_
@@ -146,11 +173,14 @@ static int nunchuk_probe(struct i2c_client *client, const struct i2c_device_id *
 
     nunchuk->client = client;
 
-    // 2. Khởi tạo phần cứng Nunchuk
-    i2c_smbus_write_byte_data(client, 0xF0, 0x55);
-    mdelay(1);
-    i2c_smbus_write_byte_data(client, 0xFB, 0x00);
-    mdelay(1);
+    // 2. Khởi tạo phần cứng Nunchuk ở chế độ Unencrypted
+    ret = i2c_master_send(client, init1, 2);
+    if (ret < 0)
+        return ret;
+    udelay(1000);
+    ret = i2c_master_send(client, init2, 2);
+    if (ret < 0)
+        return ret;
 
     // 3. Cấp phát và cấu hình Input Device
     input = devm_input_allocate_device(&client->dev);
@@ -160,6 +190,9 @@ static int nunchuk_probe(struct i2c_client *client, const struct i2c_device_id *
     nunchuk->input = input;
     input->name = "Wii Nunchuk Joystick & Buttons";
     input->id.bustype = BUS_I2C;
+
+    // Liên kết con trỏ nunchuk_dev vào input_dev (Slide 264)
+    input_set_drvdata(input, nunchuk);
 
     // Cấu hình các phím bấm Z và C
     set_bit(EV_KEY, input->evbit);
@@ -171,21 +204,26 @@ static int nunchuk_probe(struct i2c_client *client, const struct i2c_device_id *
     input_set_abs_params(input, ABS_X, 0, 255, 4, 8);
     input_set_abs_params(input, ABS_Y, 0, 255, 4, 8);
 
+    // Thiết lập cơ chế Polling định kỳ 50ms (Slide 255)
+    ret = input_setup_polling(input, nunchuk_poll);
+    if (ret)
+        return ret;
+    input_set_poll_interval(input, 50);
+
     // 4. Đăng ký Input Device với Kernel
     ret = input_register_device(input);
     if (ret)
         return ret;
 
     i2c_set_clientdata(client, nunchuk);
-    dev_info(&client->dev, "Đã đăng ký Nunchuk thành công dưới dạng Input Device!\n");
+    dev_info(&client->dev, "Đã đăng ký Nunchuk Polled Input Device thành công!\n");
 
     return 0;
 }
 
-static int nunchuk_remove(struct i2c_client *client)
+static void nunchuk_remove(struct i2c_client *client)
 {
     dev_info(&client->dev, "Đã tháo bỏ Nunchuk Input Driver!\n");
-    return 0;
 }
 
 static const struct of_device_id nunchuk_dt_ids[] = {
@@ -325,4 +363,4 @@ sequenceDiagram
 ```
 
 ---
-*Tiếp theo: [Chương 8: Memory Management & I/O Memory](./08_Memory_Management_IO_Memory.md)*
+*Tiếp theo: [Chương 24 (Bootlin Kernel 8): Memory Management & I/O Memory](./24_Bootlin_Kernel_08_Memory_Management_IO_Memory.md)*

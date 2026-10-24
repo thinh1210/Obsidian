@@ -1,4 +1,4 @@
-# 📦 Chương 3: Các Loại Image Tiêu Chuẩn Trong Yocto & Ý Nghĩa Thực Tế
+# 📦 Chương 13 (Yocto 3): Các Loại Image Tiêu Chuẩn Trong Yocto & Ý Nghĩa Thực Tế
 
 > **Tài liệu tham khảo chính thức**:
 > - [Yocto Project Reference Manual: Images](https://docs.yoctoproject.org/ref-manual/images.html)

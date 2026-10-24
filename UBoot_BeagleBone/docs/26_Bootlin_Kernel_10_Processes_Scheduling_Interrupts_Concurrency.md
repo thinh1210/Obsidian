@@ -1,4 +1,4 @@
-# 🔄 Chương 10: Processes, Scheduling, Interrupts & Concurrency (Ngắt & Đồng Bộ Hóa Chuyên Sâu)
+# 🔄 Chương 26 (Bootlin Kernel 10): Processes, Scheduling, Interrupts & Concurrency (Ngắt & Đồng Bộ Hóa Chuyên Sâu)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 316 đến Slide 374** của khóa học Bootlin Linux Kernel, phân tích chuyên sâu về ngữ cảnh thực thi, xử lý ngắt phần cứng (Threaded IRQ/Workqueues), các bộ khóa đồng bộ (Spinlock vs Mutex) và bài thực hành Practical Lab 10.
 
@@ -62,7 +62,7 @@ Tranh chấp dữ liệu xảy ra khi có từ 2 luồng thực thi đồng th�
 
 ### Mục tiêu bài lab:
 1. Đăng ký ngắt nút bấm GPIO bằng hàm `devm_request_threaded_irq()`.
-2. Sử dụng `spin_lockhalf và Process Context._irqsave()` để bảo vệ biến đếm số lần bấm phím dùng chung giữa Top-
+2. Sử dụng `spin_lock_irqsave()` để bảo vệ biến đếm số lần bấm phím dùng chung giữa Interrupt Context (Top-half/Bottom-half) và Process Context.
 3. Thức tỉnh tiến trình đang chờ bằng Wait Queue (`wait_event_interruptible`).
 
 ### Bước 1: Viết mã nguồn C `gpio_irq_spinlock_driver.c`
@@ -320,4 +320,4 @@ sequenceDiagram
 ```
 
 ---
-*Tiếp theo: [Chương 11: Direct Memory Access (DMA)](./11_Direct_Memory_Access_DMA.md)*
+*Tiếp theo: [Chương 27 (Bootlin Kernel 11): Direct Memory Access (DMA)](./27_Bootlin_Kernel_11_Direct_Memory_Access_DMA.md)*

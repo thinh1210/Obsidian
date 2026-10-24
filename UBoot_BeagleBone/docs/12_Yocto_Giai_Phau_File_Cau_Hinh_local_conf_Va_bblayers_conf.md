@@ -1,4 +1,4 @@
-# ⚙️ Chương 2: Giải Phẫu File Cấu Hình local.conf & bblayers.conf
+# ⚙️ Chương 12 (Yocto 2): Giải Phẫu File Cấu Hình local.conf & bblayers.conf
 
 > **Tài liệu tham khảo chính thức**:
 > - [Yocto Project Reference Manual: Local Configuration](https://docs.yoctoproject.org/ref-manual/variables.html)

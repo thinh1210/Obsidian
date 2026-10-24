@@ -1,6 +1,6 @@
-# 🛠️ Chương 12: Kernel Debugging & Advanced APIs (Debugging & Kỹ Thuật Nâng Cao)
+# 🛠️ Chương 28 (Bootlin Kernel 12): Kernel Debugging & Advanced APIs (Debugging & Kỹ Thuật Nâng Cao)
 
-Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 401 đến Slide 446** của khóa học Bootlin Linux Kernel, hướng dẫn các công cụ Debug Kernel (printk, Dynamic Debug, Debugfs, Stack Trace Oops), Macro `container_of`, Linked Lists, `mmap` và Practical Lab 12.
+Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 401 đến Slide 446** (cùng **Slide 264** về liên kết cấu trúc dữ liệu) của khóa học Bootlin Linux Kernel, hướng dẫn các công cụ Debug Kernel (`printk`, Dynamic Debug, `debugfs`, `dtx_diff`, Stack Trace Oops, `kgdb`, Magic SysRq), Macro `container_of` (Slide 264), `mmap` / `remap_pfn_range` (Slide 433-441), Linked Lists `struct list_head` (Slide 444-446) và Practical Lab 12.
 
 ---
 
@@ -64,10 +64,10 @@ Khi Kernel truy cập con trỏ NULL, một thông điệp **Kernel Oops** sẽ 
 
 ## 🔗 2. Các Struct & Macro Nâng Cao (`container_of` & `list_head`)
 
-### 2.1 Macro Thần Kỳ `container_of` (Slide 421-424)
+### 2.1 Macro Thần Kỳ `container_of` (Slide 264)
 
 > [!IMPORTANT]
-> **`container_of(ptr, type, member)`** cho phép từ con trỏ của một cấu trúc con (`ptr`), tính toán ngược lại địa chỉ bộ nhớ của cấu trúc cha chứa nó (`type`)!
+> **`container_of(ptr, type, member)`** (sử dụng `offsetof()` của trình biên dịch, trình bày tại **Slide 264**) cho phép từ con trỏ của một cấu trúc con (`ptr`, ví dụ `struct miscdevice` hoặc `struct list_head`), tính toán ngược lại địa chỉ bộ nhớ của cấu trúc cha chứa nó (`type`)!
 
 ```mermaid
 graph TD
@@ -79,7 +79,7 @@ graph TD
     PtrToMember["Con trỏ &miscdev (Nhận được trong fops)"] -- "container_of(ptr, struct my_device, miscdev)" --> ParentStructPtr["Con trỏ struct my_device* (Cha)"]
 ```
 
-### 2.2 Danh Sách Liên Kết Đôi Circular (`struct list_head`) (Slide 425-431)
+### 2.2 Danh Sách Liên Kết Đôi Circular (`struct list_head`) (Slide 444-446) & `mmap` (Slide 433-441)
 ```c
 #include <linux/list.h>
 
@@ -301,4 +301,4 @@ flowchart TD
 ```
 
 ---
-*Chúc mừng bạn đã hoàn thành trọn bộ 12 Chương Bài Học & Practical Labs Linux Kernel Architecture & Driver Development!*
+*Chúc mừng bạn đã hoàn thành trọn bộ 28 Chương Tài Liệu Toàn Diện: U-Boot, BeagleBone Black, Yocto Project & Bootlin Linux Kernel Driver Development!*

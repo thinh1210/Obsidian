@@ -1,0 +1,44 @@
+# ============================================================================
+# File: uEnv.txt (Đặt tại phân vùng 1 FAT32 của thẻ nhớ MicroSD)
+# Mục đích: Kịch bản điều khiển U-Boot tự động nạp Kernel, Device Tree và
+#           xuất toàn bộ thông tin khởi động ra cổng UART0 (J1 Header)
+# ============================================================================
+
+# 1. Cấu hình cổng giao tiếp UART0 Debug Console (115200 baud, 8N1)
+console=ttyS0,115200n8
+
+# 2. Định nghĩa địa chỉ bộ nhớ DDR3 RAM (Bắt đầu từ 0x80000000)
+#    - 0x82000000 : Nơi chứa Linux Kernel (zImage) - Cách đầu RAM 32MB
+#    - 0x88000000 : Nơi chứa Device Tree (am335x-boneblack.dtb) - Cách đầu RAM 128MB
+loadaddr=0x82000000
+fdtaddr=0x88000000
+
+# 3. Tên file ảnh Kernel và Device Tree nằm trên phân vùng 1 (FAT32)
+bootfile=zImage
+fdtfile=am335x-boneblack.dtb
+
+# 4. Cấu hình phân vùng chứa Root Filesystem (Phân vùng 2 ext4 trên thẻ nhớ MicroSD)
+#    Lưu ý: Trên Linux Kernel, thẻ nhớ MicroSD ngoài thường nhận là /dev/mmcblk0p2
+mmcroot=/dev/mmcblk0p2 rw
+mmcrootfstype=ext4 rootwait
+
+# 5. Thiết lập chuỗi tham số truyền từ U-Boot sang Linux Kernel (bootargs)
+optargs=coherent_pool=1M net.ifnames=0 quiet
+set_bootargs=setenv bootargs console=${console} ${optargs} root=${mmcroot} rootfstype=${mmcrootfstype}
+
+# 6. Các lệnh con nạp Kernel và Device Tree từ thẻ nhớ (MMC 0, Partition 1) vào RAM
+load_kernel=load mmc 0:1 ${loadaddr} ${bootfile}
+load_fdt=load mmc 0:1 ${fdtaddr} ${fdtfile}
+
+# 7. Lệnh thực thi chính (uenvcmd): U-Boot sẽ tự động chạy biến này khi tìm thấy uEnv.txt
+uenvcmd=echo "===================================================="; \
+        echo " [UART BOOT] Dang khoi dong BeagleBone tu The Nho SD"; \
+        echo "===================================================="; \
+        run set_bootargs; \
+        echo " -> [1/3] Dang nap Kernel (${bootfile}) vao RAM (${loadaddr})..."; \
+        run load_kernel; \
+        echo " -> [2/3] Dang nap Device Tree (${fdtfile}) vao RAM (${fdtaddr})..."; \
+        run load_fdt; \
+        echo " -> [3/3] Bootargs: ${bootargs}"; \
+        echo " -> Nhay vao Linux Kernel (bootz)..."; \
+        bootz ${loadaddr} - ${fdtaddr}

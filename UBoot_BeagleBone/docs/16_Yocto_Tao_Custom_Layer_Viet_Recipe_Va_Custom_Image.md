@@ -1,4 +1,4 @@
-# 🛠️ Chương 6: Tạo Custom Layer, Viết Recipe Ứng Dụng & Custom Image
+# 🛠️ Chương 16 (Yocto 6): Tạo Custom Layer, Viết Recipe Ứng Dụng & Custom Image
 
 > **Mục tiêu thực hành nâng cao**:
 > 1. Tự tạo một Layer mới mang tên `meta-myproject` chuẩn theo quy cách của Yocto Project.

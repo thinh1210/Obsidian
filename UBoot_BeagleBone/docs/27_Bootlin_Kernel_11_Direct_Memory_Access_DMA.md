@@ -1,4 +1,4 @@
-# 🚀 Chương 11: Direct Memory Access (DMA) (Truy Xuất Bộ Nhớ Trực Tiếp Chuyên Sâu)
+# 🚀 Chương 27 (Bootlin Kernel 11): Direct Memory Access (DMA) (Truy Xuất Bộ Nhớ Trực Tiếp Chuyên Sâu)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 375 đến Slide 400** của khóa học Bootlin Linux Kernel, phân tích nguyên lý DMA, sự bất đồng bộ bộ nhớ đệm (Cache Coherency), các kỹ thuật ánh xạ Coherent vs Streaming và bài thực hành Practical Lab 11.
 
@@ -288,4 +288,4 @@ flowchart TD
 ```
 
 ---
-*Tiếp theo: [Chương 12: Kernel Debugging & Advanced APIs](./12_Kernel_Debugging_Useful_APIs.md)*
+*Tiếp theo: [Chương 28 (Bootlin Kernel 12): Kernel Debugging & Advanced APIs](./28_Bootlin_Kernel_12_Kernel_Debugging_Useful_APIs.md)*

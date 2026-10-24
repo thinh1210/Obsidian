@@ -1,6 +1,6 @@
-# 📁 Chương 2: Linux Kernel Sources & Source Code (Mã Nguồn Linux Kernel Chuyên Sâu)
+# 📁 Chương 18 (Bootlin Kernel 2): Linux Kernel Sources & Source Code (Mã Nguồn Linux Kernel Chuyên Sâu)
 
-Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 23 đến Slide 48** của khóa học Bootlin Linux Kernel, bao gồm quy trình phát triển kernel, phân tích cấu trúc cây thư mục mã nguồn, nguyên tắc GPLv2/ABI, bài thực hành Practical Lab 2 và bộ bài tập ôn tập.
+Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 23 đến Slide 48** của khóa học Bootlin Linux Kernel, bao gồm quy trình phát triển kernel, phân tích cấu trúc cây thư mục mã nguồn, giới hạn lập trình Kernel Space (No libc, Fixed Stack), nguyên tắc GPLv2/ABI, User-space Drivers, bài thực hành Practical Lab 2 và bộ bài tập ôn tập.
 
 ---
 
@@ -10,16 +10,9 @@ Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 23 đ�
 Mã nguồn chính thức của Linux Kernel (Mainline Kernel) được Linus Torvalds duy trì tại [git.kernel.org](https://git.kernel.org). Mỗi phiên bản chính (ví dụ: `v6.10`, `v6.11`) được phát hành sau chu kỳ khoảng **9-10 tuần**:
 
 ```mermaid
-timeline
-    title Chu Kỳ Phát Hành Phiên Bản Linux Kernel (9-10 tuần)
-    Merge Window (2 tuần) : Linus Torvalds mở cửa tiếp nhận tính năng mới
-                          : Gộp các branch từ các Subsystem Maintainers (Net, DRM, ARM)
-                          : Kết thúc bằng bản vX.Y-rc1
-    Bug Fixing & Stabilization (6-7 tuần) : Phát hành liên tiếp vX.Y-rc2 -> vX.Y-rc7/rc8
-                                          : Cấm thêm tính năng mới!
-                                          : Chỉ sửa lỗi nghiêm trọng (Bug fixes & Regressions)
-    Official Release : Linus phát hành bản ổn định chính thức vX.Y
-                     : Mở Merge Window cho phiên bản vX.(Y+1)
+flowchart LR
+    MW["1. Merge Window (2 tuần)<br/>• Linus mở tiếp nhận tính năng mới<br/>• Gộp branch từ Subsystem Maintainers<br/>• Kết thúc bằng vX.Y-rc1"] --> RC["2. Bug Fixing & Stabilization (6-9 tuần)<br/>• Phát hành vX.Y-rc2 → rc7/rc8<br/>• Cấm thêm tính năng mới<br/>• Chỉ sửa Bug & Regression"]
+    RC --> REL["3. Official Release (vX.Y)<br/>• Phát hành bản ổn định chính thức<br/>• Mở Merge Window cho vX.(Y+1)"]
 ```
 
 ### 1.2 Nhánh Stable & LTS (Long Term Support) (Slide 29-32)
@@ -73,10 +66,19 @@ linux/
 * **In-Kernel Internal API/ABI**: **KHÔNG CÓ CAM KẾT ỔN ĐỊNH**. Các hàm C nội bộ kernel (như `alloc_chrdev_region()`, `kmalloc()`) có thể bị refactor hoặc thay đổi số lượng tham số giữa các bản Kernel mới mà không cần báo trước.
   * **Hệ quả**: Driver đóng gói dạng nhị phân độc quyền (Binary Blobs out-of-tree) của các hãng linh kiện sẽ bị lỗi biên dịch ngay khi bạn nâng cấp phiên bản Kernel mới.
 
-### 3.2 Tầm quan trọng của việc Upstream Driver (Slide 43-48)
+### 3.2 Ràng Buộc Kỹ Thuật Khi Lập Trình Kernel Space (Slide 35-40)
+1. **Không có Thư viện C chuẩn (`glibc` / `musl`) (Slide 36)**: Kernel là tầng thấp nhất, không thể gọi `printf()`, `malloc()`, `fopen()`. Mọi hàm tiện ích (`printk()`, `kmalloc()`, `strcmp()`, `snprintf()`) đều do chính Kernel tự cung cấp trong `lib/` và `include/linux/`. Không sử dụng dấu chấm động (Floating Point) trong Kernel code.
+2. **Kích thước Kernel Stack rất nhỏ và cố định (Slide 40)**: Mỗi tiến trình trong Kernel chỉ có một vùng Stack rất nhỏ (**4 KB, 8 KB hoặc 16 KB** tùy kiến trúc). **Tuyệt đối tránh** khai báo mảng/struct cục bộ lớn trên stack hoặc đệ quy sâu (gây tràn Stack $\rightarrow$ Kernel Panic); bắt buộc phải cấp phát động trên Heap (`kmalloc`/`kzalloc`).
+
+### 3.3 Tầm quan trọng của việc Upstream Driver & User Space Drivers (Slide 41-47)
 Khi bạn viết driver và đóng góp trực tiếp vào mã nguồn chính thức của Linux Kernel (Upstreaming):
 1. **Tự động bảo trì**: Mỗi khi cộng đồng đổi tên một hàm API nội bộ, họ bắt buộc phải tự tay sửa lại mã nguồn driver của bạn cho tương thích.
 2. **Kiểm thử tự động**: Driver của bạn được kiểm thử liên tục trên hàng nghìn cấu hình phần cứng thông qua các hệ thống CI như ZeroDay (LKP) và Syzkaller.
+3. **Khi nào nên viết User Space Device Driver? (Slide 46-47)**: Với một số ngoại vi tốc độ vừa phải, Kernel đã cung cấp sẵn cơ chế chuyển tiếp lên User Space:
+   * **USB**: Dùng thư viện `libusb` qua `/dev/bus/usb/`.
+   * **SPI**: Dùng `spidev` qua `/dev/spidevB.C`.
+   * **I2C**: Dùng `i2c-dev` qua `/dev/i2c-X`.
+   * **Memory-mapped I/O**: Dùng framework **UIO (Userspace I/O)** hoặc `/dev/mem`.
 
 ---
 
@@ -202,9 +204,7 @@ static void __exit hello_exit(void)
 module_init(hello_init);
 module_exit(hello_exit);
 
-MODULE_Chạy công cụ kiểm tra của Kernel:
-```bash
-./scripts/checkpatch.pl --no-tree -f test_driver.cLICENSE("GPL");                    /* tránh taint bit 'P' */
+MODULE_LICENSE("GPL");                    /* tránh taint bit 'P' */
 MODULE_AUTHOR("Nguyen Trieu");
 MODULE_DESCRIPTION("Module mau dat chuan Linux Coding Style");
 ```
@@ -237,4 +237,4 @@ flowchart TD
 ```
 
 ---
-*Tiếp theo: [Chương 3: Linux Kernel Usage - Config, Build & Boot](./03_Linux_Kernel_Usage_Config_Build_Boot.md)*
+*Tiếp theo: [Chương 19 (Bootlin Kernel 3): Linux Kernel Usage - Config, Build & Boot](./19_Bootlin_Kernel_03_Linux_Kernel_Usage_Config_Build_Boot.md)*

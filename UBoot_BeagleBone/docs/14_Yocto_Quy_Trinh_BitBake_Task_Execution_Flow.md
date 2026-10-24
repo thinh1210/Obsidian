@@ -1,4 +1,4 @@
-# ⚙️ Chương 4: Quy Trình Thực Thi Tác Vụ Của BitBake (Task Execution Flow)
+# ⚙️ Chương 14 (Yocto 4): Quy Trình Thực Thi Tác Vụ Của BitBake (Task Execution Flow)
 
 > **Tài liệu tham khảo chính thức**:
 > - [BitBake User Manual: Execution Tasks](https://docs.yoctoproject.org/bitbake/bitbake-user-manual/bitbake-user-manual-execution.html)

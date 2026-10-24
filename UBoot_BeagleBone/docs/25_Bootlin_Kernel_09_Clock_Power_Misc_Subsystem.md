@@ -1,4 +1,4 @@
-# ⏰ Chương 9: Clock, Power Management & Misc Subsystem (Quản Lý Xung Nhịp & Nguồn Điện)
+# ⏰ Chương 25 (Bootlin Kernel 9): Clock, Power Management & Misc Subsystem (Quản Lý Xung Nhịp & Nguồn Điện)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 300 đến Slide 315** của khóa học Bootlin Linux Kernel, bao gồm hệ thống quản lý xung nhịp (Common Clock Framework), quản lý điện năng (Power Management), Subsystem `miscdevice` và bài thực hành Practical Lab 9.
 
@@ -56,21 +56,22 @@ Kernel sẽ gọi lần lượt hàm callbacks trong `struct dev_pm_ops` của t
 * **`.suspend()`**: Dừng các giao tiếp I/O, lưu lại các thanh ghi trạng thái phần cứng vào RAM, tắt clock và ngắt nguồn thiết bị.
 * **`.resume()`**: Bật lại nguồn điện, khôi phục clock, nạp lại giá trị các thanh ghi và tiếp tục hoạt động.
 
-### 2.2 Runtime Power Management (Runtime PM) (Slide 308)
-Khác với System Suspend (ngủ toàn hệ thống), **Runtime PM** cho phép **tắt nguồn từng linh kiện phần cứng riêng lẻ** ngay lập tức khi linh kiện đó rảnh (Idle), dù hệ thống chính vẫn đang hoạt động:
+### 2.2 Reset Framework & Runtime Power Management (Runtime PM) (Slide 305-306)
+* **Reset Control Framework (Slide 305)**: Nhiều khối phần cứng cần được nhả chân Reset (`deassert`) trước khi hoạt động thông qua `devm_reset_control_get()`, `reset_control_assert()` và `reset_control_deassert()`.
+* **Runtime Power Management (Slide 306)**: Khác với System Suspend (ngủ toàn hệ thống), **Runtime PM** cho phép **bật/tắt nguồn và xung nhịp từng linh kiện phần cứng riêng lẻ** ngay khi linh kiện đó hoạt động hoặc rảnh (Idle). Đặc biệt trên dòng chip **TI AM335x (BeagleBone Black)**, Runtime PM (`pm_runtime_enable` + `pm_runtime_get_sync`) chính là cơ chế chuẩn để bật xung clock và cấp nguồn cho các khối ngoại vi như UART, I2C, GPIO:
 
 ```c
 #include <linux/pm_runtime.h>
 
 pm_runtime_enable(&pdev->dev);
 
-// Khi bắt đầu thao tác I/O với thiết bị -> Bật nguồn
+// Khi bắt đầu thao tác I/O với thiết bị -> Bật nguồn & xung nhịp (bắt buộc trên AM335x!)
 pm_runtime_get_sync(&pdev->dev);
 
 // ... Đọc / Ghi dữ liệu với phần cứng ...
 
 // Khi thao tác xong -> Báo cáo rảnh để kernel tự tắt nguồn sau khoảng timeout
-pm_runtime_put_sync(&pdev->dev);
+pm_runtime_put(&pdev->dev);
 ```
 
 ---
@@ -345,4 +346,4 @@ stateDiagram-v2
 ```
 
 ---
-*Tiếp theo: [Chương 10: Processes, Scheduling, Interrupts & Locking](./10_Processes_Scheduling_Interrupts_Concurrency.md)*
+*Tiếp theo: [Chương 26 (Bootlin Kernel 10): Processes, Scheduling, Interrupts & Locking](./26_Bootlin_Kernel_10_Processes_Scheduling_Interrupts_Concurrency.md)*

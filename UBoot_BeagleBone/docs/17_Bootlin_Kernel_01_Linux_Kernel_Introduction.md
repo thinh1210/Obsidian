@@ -1,4 +1,4 @@
-# 🐧 Chương 1: Linux Kernel Introduction (Giới Thiệu Chuyên Sâu Linux Kernel)
+# 🐧 Chương 17 (Bootlin Kernel 1): Linux Kernel Introduction (Giới Thiệu Chuyên Sâu Linux Kernel)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 17 đến Slide 22** của khóa học Bootlin Linux Kernel, bổ sung các phân tích kiến trúc chiều sâu, hướng dẫn bài thực hành Practical Lab, các tình huống lỗi thực tế và câu hỏi ôn tập củng cố.
 
@@ -287,4 +287,4 @@ flowchart LR
 ```
 
 ---
-*Tiếp theo: [Chương 2: Linux Kernel Sources](./02_Linux_Kernel_Sources.md)*
+*Tiếp theo: [Chương 18 (Bootlin Kernel 2): Linux Kernel Sources](./18_Bootlin_Kernel_02_Linux_Kernel_Sources.md)*

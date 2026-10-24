@@ -1,4 +1,4 @@
-# 🌲 Chương 5: Hardware Description - Device Tree & Pin Muxing (Mô Tả Phần Cứng Chuyên Sâu)
+# 🌲 Chương 21 (Bootlin Kernel 5): Hardware Description - Device Tree & Pin Muxing (Mô Tả Phần Cứng Chuyên Sâu)
 
 Tài liệu này hệ thống hóa toàn bộ kiến thức từ **Slide 109 đến Slide 175** của khóa học Bootlin Linux Kernel, bao gồm cú pháp Device Tree (DTS/DTB), nguyên lý Pin Control & Pin Muxing (Pinctrl) và bài thực hành Practical Lab 5.
 
@@ -34,6 +34,23 @@ graph LR
 * **`.dtsi`**: Tệp bao hàm chứa cấu hình dùng chung của dòng chip SoC (địa chỉ các ngoại vi cơ bản).
 * **`.dts`**: Tệp mô tả chi tiết bo mạch phần cứng cụ thể (Board level), chứa các tệp `.dtsi`.
 * **`.dtb`**: Tệp nhị phân nén do công cụ **`dtc` (Device Tree Compiler)** biên dịch từ tệp `.dts` để nạp vào RAM cho Kernel đọc khi boot.
+
+#### Cây kế thừa Device Tree thực tế trên BeagleBone Black (Slide 130):
+Trên bo mạch BeagleBone Black (`arch/arm/boot/dts/ti/omap/`), cấu trúc kế thừa được chia thành các tầng rõ rệt:
+* **`am33xx.dtsi`**: Nền tảng SoC AM335x (include `am33xx-clocks.dtsi` định nghĩa cây xung nhịp và `am33xx-l4.dtsi` định nghĩa hầu hết ngoại vi trên bus L4).
+* **`am335x-bone-common.dtsi`**: Định nghĩa phần cứng dùng chung cho toàn bộ họ BeagleBone (Bone White, Bone Black, Bone Green, Bone Blue).
+* **`am335x-boneblack-common.dtsi`** & **`am335x-boneblack-hdmi.dtsi`**: Định nghĩa phần cứng đặc thù của dòng BeagleBone Black (eMMC, HDMI).
+* **`am335x-boneblack.dts`** (hoặc `am335x-boneblack-wireless.dts`): Tệp `.dts` cấp bo mạch cuối cùng dùng để biên dịch ra `am335x-boneblack.dtb`.
+
+#### Kiểm tra tính hợp lệ của Device Tree với YAML Bindings (Slide 147-162):
+Mọi node trong Device Tree phải tuân thủ tài liệu đặc tả **Device Tree Bindings** đặt tại `Documentation/devicetree/bindings/` (viết theo chuẩn JSON-Schema YAML):
+```bash
+# Kiểm tra cú pháp của các file YAML Bindings
+make dt_binding_check
+
+# Kiểm tra các file .dtb xem có tuân thủ đúng YAML Schema hay không
+make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- dtbs_check
+```
 
 ### 2.2 Các Thuộc Tính Chuẩn Trong Device Tree (Slide 123-145)
 
@@ -248,4 +265,4 @@ flowchart TD
 ```
 
 ---
-*Tiếp theo: [Chương 6: Linux Device and Driver Model](./06_Device_Driver_Model.md)*
+*Tiếp theo: [Chương 22 (Bootlin Kernel 6): Linux Device and Driver Model](./22_Bootlin_Kernel_06_Device_Driver_Model.md)*
