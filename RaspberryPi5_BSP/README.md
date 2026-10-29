@@ -62,7 +62,7 @@ graph TD
 
 ## 📚 MỤC LỤC CHI TIẾT CÁC CHƯƠNG NGHIÊN CỨU (DOCS)
 
-Bộ tài liệu gồm 8 chương được tổ chức tuần tự theo chuẩn kỹ thuật từ mức phần cứng thấp nhất đến tầng tích hợp hệ điều hành:
+Bộ tài liệu gồm 9 chương được tổ chức tuần tự theo chuẩn kỹ thuật từ mức phần cứng thấp nhất đến tầng tích hợp hệ điều hành:
 
 | Chương | Tên Chuyên Đề | Nội Dung Chi Tiết & Kỹ Năng Đạt Được |
 | :---: | :--- | :--- |
@@ -74,6 +74,7 @@ Bộ tài liệu gồm 8 chương được tổ chức tuần tự theo chuẩn 
 | **06** | [Chương 6: Xây Dựng BSP Với Buildroot Alternative](./docs/06_Xay_Dung_BSP_Voi_Buildroot_Alternative.md) | Giải pháp BSP nhẹ, tối giản thời gian build với Buildroot: Kiến trúc cây `BR2_EXTERNAL`, tùy biến `raspberrypi5_defconfig`, script đóng gói thẻ nhớ `genimage.cfg` và nạp driver linh kiện ngoài cây nguồn. |
 | **07** | [Chương 7: Hướng Dẫn Thực Hành Step-by-Step Bring-up & Debug](./docs/07_Huong_Dan_Thuc_Hanh_Step_By_Step_Bring_Up_Va_Debug.md) | Quy trình Bring-up kiểm thử phần cứng thực tế: Lệnh chẩn đoán PCIe RP1 (`lspci`), kiểm tra Device Tree runtime, bộ công cụ `libgpiod v2`, test I2C/SPI, test SocketCAN, đọc log Kernel Oops và ma trận xử lý sự cố kinh điển. |
 | **08** | [Chương 8: Báo Cáo Thực Thi & Kiểm Tra Image Yocto Tùy Biến Cho RPi 5](./docs/08_Kiem_Tra_Va_Xac_Thuc_Image_Custom_RPi5_Industrial.md) | Báo cáo chi tiết quá trình build thành công 100% 4729 tasks Yocto; Xác thực ELF 64-bit ARM aarch64, vermagic `v8-16k`; Hướng dẫn nạp image WIC (48 MB nén / 963 MB bung) vào thẻ nhớ/NVMe bằng `bmaptool` và test driver trên thực tế. |
+| **09** | [Chương 9: Sổ Tay Debug Lỗi BSP Theo Phân Tầng & Căn Cứ Tài Liệu](./docs/09_So_Tay_Debug_Loi_BSP_Theo_Phan_Tang_Va_Can_Cu_Tai_Lieu.md) | **Phương pháp luận cho người mới học**: Đúc kết các lỗi kinh điển trong quá trình phát triển BSP; Định vị lỗi chính xác ở 5 tầng kiến trúc kèm căn cứ tiêu chuẩn kỹ thuật chính thức (Linux Kernel, Yocto, Raspberry Pi Architecture). |
 
 ---
 
