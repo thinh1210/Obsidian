@@ -1,0 +1,9 @@
+#!/bin/sh
+set -e
+echo "[DEB-POSTINST] Configuring sensor-telemetry permissions..."
+chmod 755 /usr/bin/sensor-telemetry
+chmod 644 /etc/sensor-telemetry/sensor.conf
+chmod 644 /lib/systemd/system/sensor-telemetry.service
+mkdir -p /var/log
+echo "[DEB-POSTINST] Completed."
+exit 0

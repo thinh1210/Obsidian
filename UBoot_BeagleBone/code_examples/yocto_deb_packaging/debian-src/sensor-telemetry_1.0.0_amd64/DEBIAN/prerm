@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+echo "[DEB-PRERM] Preparing to remove sensor-telemetry..."
+exit 0

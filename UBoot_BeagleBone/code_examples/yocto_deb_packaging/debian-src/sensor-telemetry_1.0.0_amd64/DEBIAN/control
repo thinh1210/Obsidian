@@ -1,0 +1,8 @@
+Package: sensor-telemetry
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Embedded Dev Team <dev@embedded.local>
+Section: utils
+Priority: optional
+Description: IoT Sensor Telemetry Daemon for Yocto Embedded Linux
+ A lightweight telemetry logging daemon designed for edge gateways.
