@@ -9,16 +9,16 @@
 
 ## 📑 Bảng Tổng Hợp Nhanh
 
-| Phrasal Verb | Giới từ / Tiểu từ | Nghĩa tiếng Việt | Cơ chế gộp nghĩa vắn tắt |
-| :--- | :--- | :--- | :--- |
-| `break away` | **away** | Tách rời khỏi nhóm, thoát khỏi ách kiềm kẹp | Bẻ gãy liên kết để bứt ra xa tự do |
-| `break down` | **down** | Máy móc hỏng hóc / Tinh thần suy sụp gục ngã | Cấu trúc máy móc hoặc thần kinh sụp đổ xuống đất |
-| `break in` | **in** | Đột nhập vào nhà / Chen ngang ngắt lời đàm thoại | Phá cửa xông vào bên trong / Chêm lời vào giữa |
-| `break into` | **into** | Xông vào bên trong / Bỗng nhiên bật khóc, bật cười | Phá vỡ lớp vỏ bước sâu vào trạng thái mới |
-| `break off` | **off** | Chấm dứt mối quan hệ, tuyệt giao, ngừng đàm phán | Bẻ gãy một nhánh cây tách rời hoàn toàn khỏi thân |
-| `break out` | **out** | Bùng phát dữ dội (chiến tranh, dịch bệnh, hỏa hoạn) | Phá vỡ ranh giới kiềm tỏa, tràn tung tóe ra ngoài |
-| `break through` | **through** | Đột phá khoa học, chọc thủng phòng tuyến quân sự | Đập vỡ bức tường bế tắc để xuyên qua chân trời mới |
-| `break up` | **up** | Chia tay người yêu, tan vỡ cấu trúc hoàn toàn | Phá vỡ vụn hoàn toàn liên kết tình cảm |
+| Phrasal Verb    | Giới từ / Tiểu từ | Nghĩa tiếng Việt                                    | Cơ chế gộp nghĩa vắn tắt                           |
+| :-------------- | :---------------- | :-------------------------------------------------- | :------------------------------------------------- |
+| `break away`    | **away**          | Tách rời khỏi nhóm, thoát khỏi ách kiềm kẹp         | Bẻ gãy liên kết để bứt ra xa tự do                 |
+| `break down`    | **down**          | Máy móc hỏng hóc / Tinh thần suy sụp gục ngã        | Cấu trúc máy móc hoặc thần kinh sụp đổ xuống đất   |
+| `break in`      | **in**            | Đột nhập vào nhà / Chen ngang ngắt lời đàm thoại    | Phá cửa xông vào bên trong / Chêm lời vào giữa     |
+| `break into`    | **into**          | Xông vào bên trong / Bỗng nhiên bật khóc, bật cười  | Phá vỡ lớp vỏ bước sâu vào trạng thái mới          |
+| `break off`     | **off**           | Chấm dứt mối quan hệ, tuyệt giao, ngừng đàm phán    | Bẻ gãy một nhánh cây tách rời hoàn toàn khỏi thân  |
+| `break out`     | **out**           | Bùng phát dữ dội (chiến tranh, dịch bệnh, hỏa hoạn) | Phá vỡ ranh giới kiềm tỏa, tràn tung tóe ra ngoài  |
+| `break through` | **through**       | Đột phá khoa học, chọc thủng phòng tuyến quân sự    | Đập vỡ bức tường bế tắc để xuyên qua chân trời mới |
+| `break up`      | **up**            | Chia tay người yêu, tan vỡ cấu trúc hoàn toàn       | Phá vỡ vụn hoàn toàn liên kết tình cảm             |
 
 ---
 

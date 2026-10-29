@@ -9,23 +9,23 @@
 
 ## 📑 Bảng Tổng Hợp Nhanh
 
-| Phrasal Verb | Giới từ / Tiểu từ | Nghĩa tiếng Việt | Cơ chế gộp nghĩa vắn tắt |
-| :--- | :--- | :--- | :--- |
-| `come about` | **about** | Xảy ra, phát sinh | Sự kiện quay vòng tiến lại gần hiện thực |
-| `come across` | **across** | Tình cờ bắt gặp / Để lại ấn tượng (tính cách) | Băng ngang qua ranh giới và va phải điều bất ngờ |
-| `come along` | **along** | Đi cùng / Tiến triển suôn sẻ | Tiến bước song hành dọc theo con đường |
-| `come around / round` | **around / round** | Tỉnh lại sau ngất / Đổi ý xuôi theo quan điểm người khác | Vòng trở lại trạng thái tỉnh thức hoặc xoay 180° đồng thuận |
-| `come at` | **at** | Lao vào tấn công ai hung bạo | Tiến thẳng trực diện vào tiêu điểm mục tiêu |
-| `come back` | **back** | Quay trở lại vị trí cũ / Thịnh hành trở lại | Chuyển động đảo chiều về nguồn cội |
-| `come before` | **before** | Được ưu tiên xử lý trước / Đưa ra trước tòa án | Đứng ở vị trí trước mặt trong hàng đợi |
-| `come by` | **by** | Có được thứ quý hiếm / Tiện đường ghé qua | Đi ngang qua điểm mốc và chộp lấy cơ hội |
-| `come down` | **down** | Hạ giá, rơi xuống (mưa, tuyết) | Chuyển động từ trên cao hạ xuống sàn |
-| `come down with` | **down with** | Ngã bệnh, nhiễm virus | Bị cơn ốm quật ngã nằm gục xuống giường |
-| `come from` | **from** | Xuất thân từ đâu, có nguồn gốc từ | Chuyển động bắt nguồn từ điểm xuất phát |
-| `come in` | **in** | Bước vào trong / Thủy triều dâng / Đạt thứ hạng trong cuộc đua | Chuyển động vượt qua ngưỡng cửa vào không gian trong |
-| `come into` | **into** | Thừa hưởng khối tài sản kết xù | Bước chân vào bên trong khối di sản |
-| `come off` | **off** | Thành công ngoài mong đợi / Bong tróc rơi ra | Tách rời khỏi vùng bế tắc trơn tru ngoạn mục |
-| `come on` | **on** | Nhanh lên nào / Bật sáng (đèn) / Lên cơn sốt | Thúc giục tiến bước lên phía trước / Bật mạch điện |
+| Phrasal Verb          | Giới từ / Tiểu từ  | Nghĩa tiếng Việt                                               | Cơ chế gộp nghĩa vắn tắt                                    |
+| :-------------------- | :----------------- | :------------------------------------------------------------- | :---------------------------------------------------------- |
+| `come about`          | **about**          | Xảy ra, phát sinh                                              | Sự kiện quay vòng tiến lại gần hiện thực                    |
+| `come across`         | **across**         | Tình cờ bắt gặp / Để lại ấn tượng (tính cách)                  | Băng ngang qua ranh giới và va phải điều bất ngờ            |
+| `come along`          | **along**          | Đi cùng / Tiến triển suôn sẻ                                   | Tiến bước song hành dọc theo con đường                      |
+| `come around / round` | **around / round** | Tỉnh lại sau ngất / Đổi ý xuôi theo quan điểm người khác       | Vòng trở lại trạng thái tỉnh thức hoặc xoay 180° đồng thuận |
+| `come at`             | **at**             | Lao vào tấn công ai hung bạo                                   | Tiến thẳng trực diện vào tiêu điểm mục tiêu                 |
+| `come back`           | **back**           | Quay trở lại vị trí cũ / Thịnh hành trở lại                    | Chuyển động đảo chiều về nguồn cội                          |
+| `come before`         | **before**         | Được ưu tiên xử lý trước / Đưa ra trước tòa án                 | Đứng ở vị trí trước mặt trong hàng đợi                      |
+| `come by`             | **by**             | Có được thứ quý hiếm / Tiện đường ghé qua                      | Đi ngang qua điểm mốc và chộp lấy cơ hội                    |
+| `come down`           | **down**           | Hạ giá, rơi xuống (mưa, tuyết)                                 | Chuyển động từ trên cao hạ xuống sàn                        |
+| `come down with`      | **down with**      | Ngã bệnh, nhiễm virus                                          | Bị cơn ốm quật ngã nằm gục xuống giường                     |
+| `come from`           | **from**           | Xuất thân từ đâu, có nguồn gốc từ                              | Chuyển động bắt nguồn từ điểm xuất phát                     |
+| `come in`             | **in**             | Bước vào trong / Thủy triều dâng / Đạt thứ hạng trong cuộc đua | Chuyển động vượt qua ngưỡng cửa vào không gian trong        |
+| `come into`           | **into**           | Thừa hưởng khối tài sản kết xù                                 | Bước chân vào bên trong khối di sản                         |
+| `come off`            | **off**            | Thành công ngoài mong đợi / Bong tróc rơi ra                   | Tách rời khỏi vùng bế tắc trơn tru ngoạn mục                |
+| `come on`             | **on**             | Nhanh lên nào / Bật sáng (đèn) / Lên cơn sốt                   | Thúc giục tiến bước lên phía trước / Bật mạch điện          |
 
 ---
 

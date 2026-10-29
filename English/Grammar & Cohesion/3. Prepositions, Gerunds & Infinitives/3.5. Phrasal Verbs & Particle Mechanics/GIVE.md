@@ -15,14 +15,14 @@
 
 ## 🧭 Bảng Tổng Hợp Nhanh Phrasal Verbs với GIVE
 
-| Phrasal Verb | Giới từ / Tiểu từ | Nghĩa tiếng Việt | Cơ chế gộp nghĩa vắn tắt |
-| :--- | :--- | :--- | :--- |
-| **Give away** | away (xa khỏi mình) | Cho miễn phí / Tiết lộ bí mật / Dắt cô dâu | Mở tay buông vật thể đi xa, không giữ lại |
-| **Give back** | back (quay lại chốn cũ) | Trả lại đồ đã mượn / Cống hiến | Đưa vật thể quay ngược lại tay chủ cũ |
-| **Give in** | in (vào trong ranh giới chịu đựng) | Đầu hàng, nhượng bộ trước áp lực | Bức tường phòng thủ sụp đổ từ bên ngoài lọt vào |
-| **Give off** | off (tách rời bề mặt) | Phát ra, tỏa ra (mùi, nhiệt, khí, ánh sáng) | Tách phân tử mùi/nhiệt phóng thích vào không khí |
-| **Give out** | out (ra ngoài diện rộng) | Phát tờ rơi / Cạn kiệt, hỏng hóc | Phân phát tỏa ra xung quanh / Năng lượng cạn sạch |
-| **Give up** | up (lên cao / hoàn tất) | Từ bỏ, bỏ cuộc / Bỏ thói quen xấu | Giơ hai tay lên cao xin hàng, thả rơi mục tiêu |
+| Phrasal Verb  | Giới từ / Tiểu từ                  | Nghĩa tiếng Việt                            | Cơ chế gộp nghĩa vắn tắt                          |
+| :------------ | :--------------------------------- | :------------------------------------------ | :------------------------------------------------ |
+| **Give away** | away (xa khỏi mình)                | Cho miễn phí / Tiết lộ bí mật / Dắt cô dâu  | Mở tay buông vật thể đi xa, không giữ lại         |
+| **Give back** | back (quay lại chốn cũ)            | Trả lại đồ đã mượn / Cống hiến              | Đưa vật thể quay ngược lại tay chủ cũ             |
+| **Give in**   | in (vào trong ranh giới chịu đựng) | Đầu hàng, nhượng bộ trước áp lực            | Bức tường phòng thủ sụp đổ từ bên ngoài lọt vào   |
+| **Give off**  | off (tách rời bề mặt)              | Phát ra, tỏa ra (mùi, nhiệt, khí, ánh sáng) | Tách phân tử mùi/nhiệt phóng thích vào không khí  |
+| **Give out**  | out (ra ngoài diện rộng)           | Phát tờ rơi / Cạn kiệt, hỏng hóc            | Phân phát tỏa ra xung quanh / Năng lượng cạn sạch |
+| **Give up**   | up (lên cao / hoàn tất)            | Từ bỏ, bỏ cuộc / Bỏ thói quen xấu           | Giơ hai tay lên cao xin hàng, thả rơi mục tiêu    |
 
 ---
 

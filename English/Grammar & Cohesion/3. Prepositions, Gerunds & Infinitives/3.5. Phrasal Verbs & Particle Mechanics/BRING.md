@@ -9,19 +9,19 @@
 
 ## 📑 Bảng Tổng Hợp Nhanh
 
-| Phrasal Verb | Giới từ / Tiểu từ | Nghĩa tiếng Việt | Cơ chế gộp nghĩa vắn tắt |
-| :--- | :--- | :--- | :--- |
-| `bring about` | **about** | Gây ra, làm phát sinh biến đổi lịch sử | Mang lại sự việc xoay vần quanh đời thực |
-| `bring along` | **along** | Mang theo bên mình, dẫn ai cùng đi | Mang vật đi dọc theo bước chân hành trình |
-| `bring around / round` | **around / round** | Thuyết phục ai đổi ý / Hồi sức làm tỉnh lại | Kéo tâm trí vòng trở lại tỉnh thức hoặc đồng thuận |
-| `bring back` | **back** | Gợi lại ký ức xa xưa / Mang đồ trả lại vị trí cũ | Kéo tâm trí quay về dĩ vãng |
-| `bring down` | **down** | Hạ bệ chế độ độc tài / Làm hạ giá thành sản phẩm | Kéo thế lực trên cao sụp đổ xuống đất |
-| `bring forward` | **forward** | Dời lịch sớm hơn dự kiến / Đưa ý kiến ra bàn luận | Kéo mốc thời gian tiến về phía trước |
-| `bring in` | **in** | Mang về doanh thu / Ban hành đạo luật mới | Đem dòng tiền hoặc quy định vào bên trong tổ chức |
-| `bring off` | **off** | Chinh phục thành công một kỳ tích cực kỳ khó khăn | Đưa con thuyền tách rời khỏi nguy hiểm ngoạn mục |
-| `bring on` | **on** | Gây ra cơn đau bệnh tật, rắc rối / Đưa cầu thủ dự bị vào sân | Đem gánh nặng đặt tiếp xúc lên đầu ai đó |
-| `bring out` | **out** | Xuất bản ấn phẩm / Làm nổi bật nét đẹp tiềm ẩn | Đưa phẩm chất giấu kín ra ngoài ánh sáng cho đời chiêm ngưỡng |
-| `bring up` | **up** | Nuôi nấng con cái khôn lớn / Nêu vấn đề ra thảo luận | Nuôi từ bé lớn bổng lên / Nhấc vấn đề từ đáy cặp lên mặt bàn |
+| Phrasal Verb           | Giới từ / Tiểu từ  | Nghĩa tiếng Việt                                             | Cơ chế gộp nghĩa vắn tắt                                      |
+| :--------------------- | :----------------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
+| `bring about`          | **about**          | Gây ra, làm phát sinh biến đổi lịch sử                       | Mang lại sự việc xoay vần quanh đời thực                      |
+| `bring along`          | **along**          | Mang theo bên mình, dẫn ai cùng đi                           | Mang vật đi dọc theo bước chân hành trình                     |
+| `bring around / round` | **around / round** | Thuyết phục ai đổi ý / Hồi sức làm tỉnh lại                  | Kéo tâm trí vòng trở lại tỉnh thức hoặc đồng thuận            |
+| `bring back`           | **back**           | Gợi lại ký ức xa xưa / Mang đồ trả lại vị trí cũ             | Kéo tâm trí quay về dĩ vãng                                   |
+| `bring down`           | **down**           | Hạ bệ chế độ độc tài / Làm hạ giá thành sản phẩm             | Kéo thế lực trên cao sụp đổ xuống đất                         |
+| `bring forward`        | **forward**        | Dời lịch sớm hơn dự kiến / Đưa ý kiến ra bàn luận            | Kéo mốc thời gian tiến về phía trước                          |
+| `bring in`             | **in**             | Mang về doanh thu / Ban hành đạo luật mới                    | Đem dòng tiền hoặc quy định vào bên trong tổ chức             |
+| `bring off`            | **off**            | Chinh phục thành công một kỳ tích cực kỳ khó khăn            | Đưa con thuyền tách rời khỏi nguy hiểm ngoạn mục              |
+| `bring on`             | **on**             | Gây ra cơn đau bệnh tật, rắc rối / Đưa cầu thủ dự bị vào sân | Đem gánh nặng đặt tiếp xúc lên đầu ai đó                      |
+| `bring out`            | **out**            | Xuất bản ấn phẩm / Làm nổi bật nét đẹp tiềm ẩn               | Đưa phẩm chất giấu kín ra ngoài ánh sáng cho đời chiêm ngưỡng |
+| `bring up`             | **up**             | Nuôi nấng con cái khôn lớn / Nêu vấn đề ra thảo luận         | Nuôi từ bé lớn bổng lên / Nhấc vấn đề từ đáy cặp lên mặt bàn  |
 
 ---
 
