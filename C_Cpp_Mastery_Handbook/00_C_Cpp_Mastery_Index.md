@@ -119,5 +119,4 @@ Kèm theo cẩm nang là bộ mã nguồn kiểm chứng thực tế tại thư 
 - `08_redis_sds_packed.c`: Cấu trúc chuỗi động SDS của Redis (`__attribute__((packed))` và truy cập `s[-1]`).
 - `09_linux_read_write_once.c`: Kỹ thuật ép kiểu Volatile `READ_ONCE()` & `WRITE_ONCE()` của Linux Kernel.
 - `10_systemd_raii_autoptr.c`: Hệ thống macro `_cleanup_` và chuyển giao quyền sở hữu (Ownership Transfer) của systemd.
-- `05_strict_aliasing.c`: Tái hiện bug optimizer kinh điển do vi phạm Strict Aliasing Rule.
-- `06_safe_overflow.c`: Phát hiện tràn số học an toàn bằng `__builtin_add_overflow`.
+- `11_cpp_embedded_keywords.cpp`: Thực nghiệm các từ khóa C++20 cho nhúng (explicit, mutable, constexpr, consteval, constinit, reinterpret_cast, concepts).

@@ -112,21 +112,226 @@ Nhiều lập trình viên lầm tưởng C++ là tập mẹ hoàn hảo của C
 
 ---
 
-## 5. Các Từ Khóa Đặc Biệt Của C++ (Tóm Tắt Nhanh Cho Kỹ Sư C)
+## 5. Các Từ Khóa Đặc Biệt Của C++ (Kèm Ví Dụ Thực Chiến Cho Kỹ Sư C)
 
-Khi chuyển dịch từ C sang C++ trong các dự án nhúng hiện đại (Embedded C++ / C++20):
-1. **Quản lý Vòng đời & OOP:** `class`, `public`, `private`, `protected`, `virtual`, `override`, `final`, `friend`, `this`.
-2. **Ép kiểu An toàn (Casting Operators - Thay thế ép kiểu C-style nguy hiểm):**
-   - `static_cast<T>(v)`: Ép kiểu an toàn lúc biên dịch giữa các kiểu liên quan.
-   - `reinterpret_cast<T>(v)`: Ép kiểu thô giữa các con trỏ / địa chỉ vật lý (tương đương ép kiểu C thô, dùng truy cập thanh ghi phần cứng).
-   - `const_cast<T>(v)`: Gỡ bỏ thuộc tính `const` hoặc `volatile`.
-   - `dynamic_cast<T>(v)`: Ép kiểu đa hình lúc runtime (dựa vào RTTI - thường bị tắt trong embedded bằng cờ `-fno-rtti`).
-3. **Compile-time Metaprogramming:**
-   - `constexpr` (C++11): Tính toán hàm/biến ngay lúc compile.
-   - `consteval` (C++20): Bắt buộc hàm PHẢI thực thi lúc compile (Immediate Function).
-   - `constinit` (C++20): Đảm bảo biến được khởi tạo lúc compile-time, chống lỗi Static Initialization Order Fiasco.
-   - `concept` & `requires` (C++20): Ràng buộc kiểu dữ liệu cho Template, thay thế các kỹ thuật SFINAE phức tạp.
-4. **Xử lý Ngoại lệ & Ngoại quan:**
-   - `noexcept`: Cam kết hàm không ném ngoại lệ (tối ưu hóa mã máy không sinh bảng unwinding stack).
-   - `explicit`: Ngăn constructor hoặc conversion operator bị gọi ngầm định (ngăn bug chuyển đổi kiểu ngoài ý muốn).
-   - `mutable`: Cho phép một thành viên trong struct/class có thể bị sửa đổi ngay cả trong hàm `const`.
+Khi chuyển dịch từ C sang C++ trong các dự án nhúng hiện đại (Embedded C++ / C++20), nhiều kỹ sư C thường bị choáng ngợp bởi số lượng từ khóa mới. Dưới đây là giải thích bản chất kèm mã nguồn ví dụ thực tế cho từng nhóm từ khóa cốt lõi:
+
+```mermaid
+graph TD
+    CPP[Từ Khóa Đặc Trưng C++] --> G1[1. Quản Lý OOP & Vòng Đời]
+    CPP --> G2[2. Bộ 4 Toán Tử Ép Kiểu An Toàn Casting]
+    CPP --> G3[3. Compile-time Metaprogramming]
+    CPP --> G4[4. Xử Lý Ngoại Lệ & Ngoại Quan]
+
+    G1 --> G1_Desc[class, public/private/protected<br/>virtual, override, final, friend, this]
+    G2 --> G2_Desc[static_cast, reinterpret_cast<br/>const_cast, dynamic_cast]
+    G3 --> G3_Desc[constexpr, consteval, constinit<br/>concept, requires]
+    G4 --> G4_Desc[noexcept, explicit, mutable]
+```
+
+---
+
+### 5.1. Nhóm Quản Lý Vòng Đời & Lập Trình Hướng Đối Tượng (OOP)
+
+Trong C thuần, để tạo tính hướng đối tượng, ta thường dùng `struct` chứa các con trỏ hàm và truyền thủ công con trỏ `self` (ví dụ: `void uart_send(struct UartDevice *self, uint8_t byte)`). C++ chuẩn hóa mô hình này ở cấp độ ngôn ngữ:
+
+#### 1. `class`, `public`, `private`, `protected`
+- `class`: Mặc định các thành viên là `private` (ngược với `struct` trong C++ mặc định là `public`).
+- `private`: Chỉ nội bộ các phương thức của class được truy cập (đóng gói tuyệt đối, tương đương biến `static` trong file `.c`).
+- `protected`: Cho phép class con kế thừa được truy cập, nhưng bên ngoài thì không.
+- `public`: Giao diện công khai ra ngoài.
+
+#### 2. `this` — Con Trỏ Trỏ Tới Instance Hiện Tại
+- Tương đương hoàn toàn với tham số con trỏ `self` mà bạn tự truyền trong C:
+```cpp
+class GpioPin {
+private:
+    uint8_t pin_number;
+public:
+    GpioPin(uint8_t pin) {
+        this->pin_number = pin; // Phân biệt giữa tham số pin và biến thành viên pin_number
+    }
+};
+```
+
+#### 3. `virtual`, `override`, `final` — Đa Hình & Bảng Hàm Ảo (vtable)
+- **`virtual`**: Yêu cầu compiler tạo bảng con trỏ hàm ảo (**vtable**). Khi gọi hàm qua con trỏ lớp cha, CPU sẽ tra bảng vtable để gọi đúng hàm của lớp con (tương đương bảng callback trong C).
+- **`override`**: Bắt buộc compiler kiểm tra hàm lớp con có đúng chữ ký (signature) với lớp cha hay không. Nếu viết sai tên hoặc sai kiểu tham số, compiler sẽ báo lỗi ngay lập tức!
+- **`final`**: Cấm không cho bất kỳ lớp nào kế thừa tiếp, hoặc cấm ghi đè phương thức ảo này (giúp compiler tối ưu hóa **Devirtualization**, bỏ qua vtable để gọi trực tiếp mã máy siêu tốc!).
+
+```cpp
+// Lớp cơ sở trừu tượng (Interface Driver)
+class UartDriver {
+public:
+    virtual ~UartDriver() = default; // Bắt buộc destructor ảo để tránh leak
+    virtual void send_byte(uint8_t b) = 0; // Pure virtual function (= 0)
+};
+
+// Lớp con hiện thực cho phần cứng STM32
+class Stm32Uart final : public UartDriver { // 'final' ở class: cấm kế thừa tiếp
+public:
+    void send_byte(uint8_t b) override {   // 'override': bảo vệ gõ nhầm chữ ký
+        USART1->DR = b;
+    }
+};
+```
+
+#### 4. `friend` — Phá Vỡ Rào Cản Đóng Gói Có Kiểm Soát
+Cho phép một hàm hoặc class bên ngoài có quyền truy cập vào các thành viên `private` của class này. Rất hay dùng khi viết **Unit Test** hoặc các lớp phần cứng liên kết chặt chẽ:
+```cpp
+class BatterySensor {
+private:
+    float raw_voltage;
+    // Cấp quyền cho class BatteryTester đọc biến private raw_voltage:
+    friend class BatteryTester; 
+};
+```
+
+---
+
+### 5.2. Nhóm 4 Toán Tử Ép Kiểu An Toàn (Casting Operators)
+
+Trong C thuần, ép kiểu thô `(Type)val` quá nguy hiểm vì nó có thể ép bất kỳ thứ gì sang bất kỳ thứ gì mà không cảnh báo. C++ chia thành 4 toán tử rõ ràng:
+
+#### 1. `static_cast<T>(v)` — Ép Kiểu Lúc Compile Có Kiểm Tra Logic
+Dùng để chuyển đổi giữa các kiểu dữ liệu có liên quan (số nguyên sang số thực, enum class sang int, upcast con trỏ). Compiler sẽ từ chối nếu hai kiểu hoàn toàn không liên quan:
+```cpp
+double adc_raw = 3.14159;
+int adc_val = static_cast<int>(adc_raw); // Rõ ràng, an toàn
+
+enum class State : uint8_t { IDLE = 0, RUNNING = 1 };
+uint8_t raw = static_cast<uint8_t>(State::RUNNING);
+```
+
+#### 2. `reinterpret_cast<T>(v)` — Ép Kiểu Thô Cấp Phần Cứng (Bản Chất C-Style Cast)
+Ép kiểu thô giữa các con trỏ hoặc giữa số nguyên địa chỉ và con trỏ. **Đây là toán tử bắt buộc phải dùng khi lập trình nhúng để map địa chỉ thanh ghi phần cứng:**
+```cpp
+// Ánh xạ địa chỉ vật lý của thanh ghi GPIO sang con trỏ struct
+struct GPIO_TypeDef {
+    volatile uint32_t MODER;
+    volatile uint32_t ODR;
+};
+
+// C++ chuẩn mực:
+auto* GPIOA = reinterpret_cast<GPIO_TypeDef*>(0x40020000UL);
+GPIOA->ODR |= (1 << 5); // Bật LED Pin 5
+```
+
+#### 3. `const_cast<T>(v)` — Gỡ Bỏ Thuộc Tính `const` / `volatile`
+Chỉ dùng duy nhất khi phải giao tiếp với các thư viện C legacy nhận tham số `char*` dù bên trong không hề chỉnh sửa chuỗi:
+```cpp
+void legacy_c_print(char *str); // Thư viện C cũ không khai báo const char*
+
+void modern_wrapper(const char *msg) {
+    // Tạm thời gỡ bỏ const để gọi hàm C cũ:
+    legacy_c_print(const_cast<char*>(msg)); 
+}
+```
+
+#### 4. `dynamic_cast<T>(v)` — Ép Kiểu Đa Hình An Toàn Lúc Runtime (RTTI)
+Kiểm tra xem con trỏ lớp cha có thực sự trỏ tới đối tượng lớp con mong muốn hay không lúc chạy (nếu sai trả về `nullptr`).
+> [!NOTE]
+> Trong lập trình nhúng, `dynamic_cast` đòi hỏi **RTTI (Run-Time Type Information)** làm phình to Flash và tốn RAM. Do đó, các dự án nhúng thường biên dịch với cờ **`-fno-rtti`** và cấm dùng `dynamic_cast`.
+
+---
+
+### 5.3. Nhóm Tính Toán Lúc Biên Dịch (Compile-Time Metaprogramming)
+
+C++ hiện đại đưa tối đa các phép tính về thời điểm biên dịch để khi nạp vào vi điều khiển, CPU **tốn đúng 0 chu kỳ xung nhịp và 0 byte RAM**!
+
+#### 1. `constexpr` (C++11) — Hàm / Biến Tính Toán Lúc Biên Dịch
+Nếu tham số truyền vào là hằng số, hàm sẽ được thực thi ngay trong quá trình biên dịch:
+```cpp
+constexpr uint32_t calculate_baud_divisor(uint32_t clock_hz, uint32_t baud) {
+    return clock_hz / (16 * baud);
+}
+
+// Giá trị được tính sẵn lúc compile và nhúng thẳng vào Flash!
+constexpr uint32_t UART_DIVISOR = calculate_baud_divisor(84000000, 115200);
+```
+
+#### 2. `consteval` (C++20) — Bắt Buộc 100% Phải Chạy Lúc Compile
+Khác với `constexpr` (có thể chạy lúc runtime nếu truyền biến số), `consteval` **BẮT BUỘC PHẢI CHẠY LÚC BIÊN DỊCH**. Nếu truyền biến runtime, compiler sẽ báo lỗi lập tức:
+```cpp
+consteval uint32_t generate_crc32(const char* str) {
+    // Thuật toán băm chuỗi lúc compile...
+    uint32_t hash = 0;
+    while (*str) hash = (hash * 31) + *str++;
+    return hash;
+}
+
+constexpr auto id1 = generate_crc32("SENSOR_TEMP"); // OK: Chạy lúc compile!
+// int x = 10; generate_crc32(x); // LỖI BIÊN DỊCH NGAY!
+```
+
+#### 3. `constinit` (C++20) — Chống Lỗi Khởi Tạo Biến Toàn Cục
+Trong C++, nếu hai file `.cpp` có hai biến toàn cục phụ thuộc lẫn nhau, thứ tự khởi tạo của chúng là không xác định (**Static Initialization Order Fiasco**).
+`constinit` cam kết rằng biến toàn cục này **bắt buộc phải được khởi tạo giá trị tĩnh trước khi bất kỳ đoạn code nào chạy**:
+```cpp
+// Đảm bảo g_system_state khởi tạo tĩnh trong .data/.bss, không qua hàm dựng runtime:
+constinit uint32_t g_system_state = calculate_baud_divisor(16000000, 9600);
+```
+
+#### 4. `concept` & `requires` (C++20) — Siêu Vũ Khí Ràng Buộc Kiểu Cho Template
+Trong C++ cũ, Template báo lỗi hàng trăm dòng không thể đọc nổi (Template vomits). C++20 đưa ra `concept` để đặt điều kiện kiểm tra kiểu cực kỳ thanh lịch:
+```cpp
+#include <concepts>
+
+// Định nghĩa Concept: Thiết bị phần cứng bắt buộc phải có phương thức write_byte(uint8_t)
+template<typename T>
+concept OutputDevice = requires(T dev, uint8_t byte) {
+    { dev.write_byte(byte) } -> std::same_as<void>;
+};
+
+// Hàm template chỉ chấp nhận các Driver thỏa mãn Concept OutputDevice:
+template<OutputDevice T>
+void send_alert(T& device, uint8_t code) {
+    device.write_byte(code);
+}
+```
+
+---
+
+### 5.4. Nhóm Xử Lý Ngoại Lệ & Ngoại Quan (Safety & Modifiers)
+
+#### 1. `noexcept` — Cam Kết Không Ném Ngoại Lệ
+Trong hệ thống nhúng, cơ chế C++ Exceptions thường bị tắt bằng cờ `-fno-exceptions` vì chi phí Stack Unwinding quá lớn.
+Từ khóa `noexcept` báo cho compiler: *"Hàm này cam kết 100% không bao giờ ném Exception"*. Compiler sẽ tối ưu hóa triệt để, không sinh mã dọn dẹp phụ trợ:
+```cpp
+void isr_handler(void) noexcept {
+    // Trình biên dịch sinh mã máy siêu tinh gọn, không tốn bảng ngoại lệ
+}
+```
+
+#### 2. `explicit` — Ngăn Chặn Ép Kiểu Ngầm Định Nguy Hiểm
+Khi một Constructor chỉ nhận 1 tham số, C++ cho phép phép gán ngầm định `Obj o = 10;`. Điều này gây ra những bug không thể phát hiện bằng mắt thường:
+```cpp
+class SafeBuffer {
+public:
+    // Thêm 'explicit': CẤM ngầm định ép kiểu số nguyên thành SafeBuffer!
+    explicit SafeBuffer(size_t size) { ... }
+};
+
+void process_buffer(SafeBuffer buf);
+
+// process_buffer(100); // LỖI BIÊN DỊCH! (Nếu không có explicit, code này sẽ tự tạo buffer 100 bytes!)
+process_buffer(SafeBuffer(100)); // Hợp lệ, rõ ràng ý định!
+```
+
+#### 3. `mutable` — Cho Phép Sửa Biến Trong Hàm `const`
+Trong C++, phương thức `const` cam kết không làm thay đổi trạng thái đối tượng. Nhưng nếu ta cần bảo vệ đa luồng bằng Mutex hoặc đếm số lần đọc Cache thì sao?
+Từ khóa `mutable` cho phép biến đó **vẫn có thể bị sửa đổi ngay cả bên trong hàm `const`**:
+```cpp
+class SensorReader {
+private:
+    float cached_value;
+    mutable uint32_t read_count; // Cho phép sửa dù hàm là const
+
+public:
+    float get_value() const {
+        read_count++; // Hợp lệ nhờ từ khóa 'mutable'!
+        return cached_value;
+    }
+};
+```
+
