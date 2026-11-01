@@ -1,10 +1,11 @@
 # 🎙️ IELTS Speaking Master Index & Lộ Trình Nâng Band Toàn Diện
 
 > [!NOTE] Cấu Trúc Kho Tài Liệu Speaking Mở Rộng
-> Thư mục **Speaking** được quy hoạch thành 3 phân khu chuyên biệt với độ phủ toàn diện từ nền tảng giao tiếp đến các câu hỏi trừu tượng, hóc búa nhất của kỳ thi IELTS:
+> Thư mục **Speaking** được quy hoạch thành 3 phân khu chuyên biệt cùng 1 Cẩm nang Từ vựng & Mẫu câu A1-C1 trung tâm, bao phủ toàn diện từ nền tảng giao tiếp sơ cấp đến các câu hỏi trừu tượng, hóc búa nhất của kỳ thi IELTS:
+> 0. **🏛️ [[_CEFR_A1_to_C1_Speaking_Lexicon_and_QA_Patterns|Cẩm Nang Toàn Diện: Từ Vựng, Cụm Từ & 10 Dạng Câu Hỏi - Trả Lời Mẫu (A1 ➡️ C1+)]]:** Bảng phổ từ vựng chức năng 5 cấp độ CEFR, 25 Phrasal Verbs/Idioms đa dụng và 10 khung trả lời mẫu cho mọi dạng câu hỏi.
 > 1. **📁 [[Adv_Chi/|Adv_Chi (Chuyên Đề Nâng Cao & Chi Tiết)]]:** Lưu trữ 6 bài chuyên sâu cốt lõi đã có về đời sống, tiền bạc, ngoại ngữ và môi trường.
-> 2. **📁 [[General_Topics/|General_Topics (Chủ Đề Chung & Đời Sống - 6 Topics)]]:** Bao quát các chủ đề nền tảng, thiết yếu nhất của Part 1 và Part 2 đời thường.
-> 3. **📁 [[Specified_Topics/|Specified_Topics (Chủ Đề Chuyên Sâu, Trừu Tượng & Triết Học - 7 Topics)]]:** Hệ thống "vũ khí hạng nặng" cho Part 2 và Part 3 ở Band 7.5 - 8.5+, tập trung vào các nan đề xã hội, công nghệ, đạo đức sinh học và tâm lý học hành vi.
+> 2. **📁 [[General_Topics/|General_Topics (Chủ Đề Chung & Đời Sống - 6 Topics)]]:** Bao quát các chủ đề nền tảng, thiết yếu nhất của Part 1 và Part 2 đời thường (mỗi bài gồm Phổ từ vựng A1-C1, 12 Phrasal Verbs/Idioms, 5 Khung câu trả lời, 7 câu Part 1, 2 đề Part 2, 5 câu Part 3).
+> 3. **📁 [[Specified_Topics/|Specified_Topics (Chủ Đề Chuyên Sâu, Trừu Tượng & Triết Học - 7 Topics)]]:** Hệ thống "vũ khí hạng nặng" cho Part 2 và Part 3 ở Band 7.5 - 8.5+, tập trung vào các nan đề xã hội, công nghệ, đạo đức sinh học và tâm lý học hành vi (mỗi bài gồm Phổ từ vựng A1-C1, 12 Phrasal Verbs/Idioms, 5 Khung câu trả lời, 7 câu Part 1, 2 đề Part 2, 5 câu Part 3).
 
 ---
 

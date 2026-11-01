@@ -88,13 +88,13 @@ Khi kết nối cáp Serial UART0 với BeagleBone Black, nhấn một phím b�
 
 ### 3.1. Nhóm lệnh quản lý thẻ nhớ & lưu trữ (MMC/eMMC)
 
-| Lệnh | Cú pháp | Ví dụ cụ thể | Giải thích chi tiết |
-| :--- | :--- | :--- | :--- |
-| `mmc list` | `mmc list` | `mmc list` | Liệt kê danh sách các bộ điều khiển MMC trên bo mạch (`OMAP SD/MMC: 0`, `OMAP SD/MMC: 1`). |
-| `mmc dev` | `mmc dev <dev_num> [part_num]` | `mmc dev 0` | Chuyển ngữ cảnh làm việc sang MMC 0 (MicroSD) hoặc MMC 1 (eMMC). |
-| `mmc info` | `mmc info` | `mmc info` | In thông số kỹ thuật của thiết bị MMC đang chọn: dung lượng, phiên bản chuẩn, bus width (4-bit hay 8-bit), tốc độ truyền. |
-| `mmc part` | `mmc part` | `mmc part` | Hiển thị bảng phân vùng (Partition Table) trên thiết bị MMC hiện tại kèm start sector, số lượng block và tên phân vùng. |
-| `mmc rescan` | `mmc rescan` | `mmc rescan` | Quét lại bus MMC (dùng khi vừa rút ra cắm lại thẻ nhớ trong lúc U-Boot đang bật). |
+| Lệnh         | Cú pháp                        | Ví dụ cụ thể | Giải thích chi tiết                                                                                                       |
+| :----------- | :----------------------------- | :----------- | :------------------------------------------------------------------------------------------------------------------------ |
+| `mmc list`   | `mmc list`                     | `mmc list`   | Liệt kê danh sách các bộ điều khiển MMC trên bo mạch (`OMAP SD/MMC: 0`, `OMAP SD/MMC: 1`).                                |
+| `mmc dev`    | `mmc dev <dev_num> [part_num]` | `mmc dev 0`  | Chuyển ngữ cảnh làm việc sang MMC 0 (MicroSD) hoặc MMC 1 (eMMC).                                                          |
+| `mmc info`   | `mmc info`                     | `mmc info`   | In thông số kỹ thuật của thiết bị MMC đang chọn: dung lượng, phiên bản chuẩn, bus width (4-bit hay 8-bit), tốc độ truyền. |
+| `mmc part`   | `mmc part`                     | `mmc part`   | Hiển thị bảng phân vùng (Partition Table) trên thiết bị MMC hiện tại kèm start sector, số lượng block và tên phân vùng.   |
+| `mmc rescan` | `mmc rescan`                   | `mmc rescan` | Quét lại bus MMC (dùng khi vừa rút ra cắm lại thẻ nhớ trong lúc U-Boot đang bật).                                         |
 
 ---
 

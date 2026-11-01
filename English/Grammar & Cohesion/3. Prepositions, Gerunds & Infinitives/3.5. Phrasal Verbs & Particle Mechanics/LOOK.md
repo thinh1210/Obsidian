@@ -9,23 +9,23 @@
 
 ## 📑 Bảng Tổng Hợp Nhanh
 
-| Phrasal Verb | Giới từ / Tiểu từ | Nghĩa tiếng Việt | Cơ chế gộp nghĩa vắn tắt |
-| :--- | :--- | :--- | :--- |
-| `look after` | **after** | Chăm sóc bảo bọc trẻ nhỏ, người già, thú cưng | Dõi mắt đi theo sau từng bước chân để bảo vệ |
-| `look ahead` | **ahead** | Nhìn xa trông rộng, lên kế hoạch cho tương lai | Hướng tầm mắt về phía trước con đường xa |
-| `look around` | **around** | Nhìn ngắm xung quanh, dạo quanh tham quan | Xoay cổ nhìn một vòng 360 độ |
-| `look at` | **at** | Nhìn vào điểm cụ thể / Xem xét đánh giá vấn đề | Khóa tiêu cự mắt vào điểm mốc tiêu điểm |
-| `look back` | **back** | Ngoảnh đầu nhìn lại quá khứ, hoài niệm | Ngoảnh đầu nhìn lại chặng đường phía sau |
-| `look down on` | **down on** | Coi thường, khinh miệt kẻ yếu thế | Đứng từ trên cao hạ thấp tầm mắt xuống kẻ yếu |
-| `look for` | **for** | Tìm kiếm đồ vật thất lạc hoặc cơ hội | Phóng tầm mắt tìm kiếm mục tiêu mong muốn |
-| `look forward to` | **forward to** | Háo hức ngóng đợi một niềm vui trong tương lai | Rướn ánh mắt tiến về phía trước đón chờ tương lai |
-| `look into` | **into** | Điều tra ngọn ngành, xem xét kỹ lưỡng bản chất | Ghé sát mắt nhìn sâu vào bên trong chiếc hộp bí mật |
-| `look out / look out for` | **out / out for** | Coi chừng nguy hiểm rình rập / Để mắt bảo vệ ai | Nhìn vượt ra ngoài ranh giới an toàn để phát hiện cạm bẫy |
-| `look over` | **over** | Kiểm tra lướt qua từ đầu đến cuối tài liệu | Đứng từ trên cao quét mắt qua toàn bộ bề mặt văn bản |
-| `look through` | **through** | Đọc lướt kỹ lưỡng từng trang sách | Nhìn xuyên suốt qua từng lớp trang giấy |
-| `look to` | **to** | Trông cậy, hướng về ai như ngọn hải đăng dẫn đường | Hướng ánh mắt tìm điểm tựa dẫn đường |
-| `look up` | **up** | Tra cứu từ điển / Tình thế dần khởi sắc tiến bộ | Ngước mắt nhìn lên đỉnh đồ thị tiến bộ |
-| `look up to` | **up to** | Kính trọng, ngưỡng mộ tiền bối vĩ đại | Ở vị thế người học trò ngước mắt nhìn lên người thầy |
+| Phrasal Verb              | Giới từ / Tiểu từ | Nghĩa tiếng Việt                                   | Cơ chế gộp nghĩa vắn tắt                                  |
+| :------------------------ | :---------------- | :------------------------------------------------- | :-------------------------------------------------------- |
+| `look after`              | **after**         | Chăm sóc bảo bọc trẻ nhỏ, người già, thú cưng      | Dõi mắt đi theo sau từng bước chân để bảo vệ              |
+| `look ahead`              | **ahead**         | Nhìn xa trông rộng, lên kế hoạch cho tương lai     | Hướng tầm mắt về phía trước con đường xa                  |
+| `look around`             | **around**        | Nhìn ngắm xung quanh, dạo quanh tham quan          | Xoay cổ nhìn một vòng 360 độ                              |
+| `look at`                 | **at**            | Nhìn vào điểm cụ thể / Xem xét đánh giá vấn đề     | Khóa tiêu cự mắt vào điểm mốc tiêu điểm                   |
+| `look back`               | **back**          | Ngoảnh đầu nhìn lại quá khứ, hoài niệm             | Ngoảnh đầu nhìn lại chặng đường phía sau                  |
+| `look down on`            | **down on**       | Coi thường, khinh miệt kẻ yếu thế                  | Đứng từ trên cao hạ thấp tầm mắt xuống kẻ yếu             |
+| `look for`                | **for**           | Tìm kiếm đồ vật thất lạc hoặc cơ hội               | Phóng tầm mắt tìm kiếm mục tiêu mong muốn                 |
+| `look forward to`         | **forward to**    | Háo hức ngóng đợi một niềm vui trong tương lai     | Rướn ánh mắt tiến về phía trước đón chờ tương lai         |
+| `look into`               | **into**          | Điều tra ngọn ngành, xem xét kỹ lưỡng bản chất     | Ghé sát mắt nhìn sâu vào bên trong chiếc hộp bí mật       |
+| `look out / look out for` | **out / out for** | Coi chừng nguy hiểm rình rập / Để mắt bảo vệ ai    | Nhìn vượt ra ngoài ranh giới an toàn để phát hiện cạm bẫy |
+| `look over`               | **over**          | Kiểm tra lướt qua từ đầu đến cuối tài liệu         | Đứng từ trên cao quét mắt qua toàn bộ bề mặt văn bản      |
+| `look through`            | **through**       | Đọc lướt kỹ lưỡng từng trang sách                  | Nhìn xuyên suốt qua từng lớp trang giấy                   |
+| `look to`                 | **to**            | Trông cậy, hướng về ai như ngọn hải đăng dẫn đường | Hướng ánh mắt tìm điểm tựa dẫn đường                      |
+| `look up`                 | **up**            | Tra cứu từ điển / Tình thế dần khởi sắc tiến bộ    | Ngước mắt nhìn lên đỉnh đồ thị tiến bộ                    |
+| `look up to`              | **up to**         | Kính trọng, ngưỡng mộ tiền bối vĩ đại              | Ở vị thế người học trò ngước mắt nhìn lên người thầy      |
 
 ---
 

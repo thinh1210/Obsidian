@@ -20,7 +20,25 @@ Tìm hàng rào 6 chân đực ký hiệu **J1** nằm sát khe thẻ nhớ Micr
  │          GND           │──────────────►│ Chân 1 (●) : GND (Nối đất) │
  │                        │               │ Chân 2     : NC  (Bỏ trống)│
  │                        │               │ Chân 3     : NC  (Bỏ trống)│
- │          TXD           │──────────────►│ Chân 4     : UART0_RX      │
+ │          TXD           │────mindmap
+  ￼root((ỨNG DỤNG ĐỜI THƯỜNG<br>BEAGLEBONE BLACK))
+    ￼Home Lab & Network
+      Pi-hole / AdGuard :: Chặn quảng cáo gia đình
+      WireGuard VPN :: Truy cập mạng nội bộ từ xa
+      Mosquitto MQTT :: Trạm trung chuyển IoT
+      CUPS Print Server :: Chia sẻ máy in qua mạng
+    ￼Đo Kiểm & Thí Nghiệm
+      BeagleLogic :: Logic Analyzer 14 kênh 100MSPS
+      PulseView Decoder :: Giải mã I2C, SPI, UART
+      Signal Generator :: Phát xung chính xác cao qua PRU
+    ￼Smart Home & Nông Nghiệp
+      Home Assistant :: Trung tâm nhà thông minh
+      Trạm thời tiết :: BME280, cảm biến bụi PMS5003
+      Tưới cây thông minh :: Đọc 7 chân ADC đa chậu
+    ￼Đa Phương Tiện & Xe Hơi
+      Audiophile Streamer :: Xuất âm thanh I2S/DSD cực sạch
+      Internet Radio :: Phát nhạc mạng không quạt ồn
+      OBD-II Car Telemetry :: Đọc RPM, mã lỗi động cơ qua CAN──────────►│ Chân 4     : UART0_RX      │
  │          RXD           │◄──────────────│ Chân 5     : UART0_TX      │
  │      VCC (3.3V/5V)     │  (KHÔNG NỐI)  │ Chân 6     : NC  (Bỏ trống)│
  └────────────────────────┘               └────────────────────────────┘
@@ -145,8 +163,26 @@ Khi đang ở dấu nhắc `=>` của U-Boot (trước khi Linux Kernel chạy),
    - Ngay tại khoảnh khắc cấp nguồn, ROM Code đọc mức điện áp trên 16 chân `SYSBOOT[15:0]` và chốt (latch) vào 16 bit thấp của thanh ghi `0x44E10040`.
    - Chân nút nhấn **S2** nối trực tiếp vào đường **`SYSBOOT[2]`**:
      - Nếu bạn **không nhấn S2**: `SYSBOOT[4:0] = 11100b` (`0x1C`) $\rightarrow$ Thứ tự boot: `MMC1 (eMMC)` $\rightarrow$ `MMC0 (Thẻ nhớ SD)` $\rightarrow$ `UART0` $\rightarrow$ `USB0`.
-     - Nếu bạn **nhấn giữ S2**: `SYSBOOT[4:0] = 11000b` (`0x18`) $\rightarrow$ Thứ tự boot: `SPI0` $\rightarrow$ `MMC0 (Thẻ nhớ SD)` $\rightarrow$ `USB0` $\rightarrow$ `UART0`.
-2. **Điều khiển 4 đèn LED `USR0..3` bằng thanh ghi `GPIO1` (`0x4804C000`)**:
+     - Nếu bạn **nhấn giữ S2**: `SYSBOOT[4:0] = 110mindmap
+  ￼root((ỨNG DỤNG ĐỜI THƯỜNG<br>BEAGLEBONE BLACK))
+    ￼Home Lab & Network
+      Pi-hole / AdGuard :: Chặn quảng cáo gia đình
+      WireGuard VPN :: Truy cập mạng nội bộ từ xa
+      Mosquitto MQTT :: Trạm trung chuyển IoT
+      CUPS Print Server :: Chia sẻ máy in qua mạng
+    ￼Đo Kiểm & Thí Nghiệm
+      BeagleLogic :: Logic Analyzer 14 kênh 100MSPS
+      PulseView Decoder :: Giải mã I2C, SPI, UART
+      Signal Generator :: Phát xung chính xác cao qua PRU
+    ￼Smart Home & Nông Nghiệp
+      Home Assistant :: Trung tâm nhà thông minh
+      Trạm thời tiết :: BME280, cảm biến bụi PMS5003
+      Tưới cây thông minh :: Đọc 7 chân ADC đa chậu
+    ￼Đa Phương Tiện & Xe Hơi
+      Audiophile Streamer :: Xuất âm thanh I2S/DSD cực sạch
+      Internet Radio :: Phát nhạc mạng không quạt ồn
+      OBD-II Car Telemetry :: Đọc RPM, mã lỗi động cơ qua CAN00b` (`0x18`) $\rightarrow$ Thứ tự boot: `SPI0` $\rightarrow$ `MMC0 (Thẻ nhớ SD)` $\rightarrow$ `USB0` $\rightarrow$ `UART0`.
+1. **Điều khiển 4 đèn LED `USR0..3` bằng thanh ghi `GPIO1` (`0x4804C000`)**:
    - Đèn `USR0..USR3` nối với các chân **`GPIO1_21` đến `GPIO1_24`**:
    ```c
    /* Bước 1: Xóa các bit 21..24 trong thanh ghi GPIO_OE (0x4804C134) về 0 để đặt làm Output */

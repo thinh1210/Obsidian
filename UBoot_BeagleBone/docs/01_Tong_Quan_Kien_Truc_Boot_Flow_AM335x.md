@@ -6,7 +6,21 @@
 
 ---
 
-## 1. GIỚI THIỆU TỔNG QUAN
+
+U-Boot 2024.01-bbb-build (Oct 10 2026 - 22:30:00 +0700)
+CPU  : AM335X-GP rev 2.1
+Model: TI AM335x BeagleBone Black
+DRAM:  512 MiB
+Core:  160 devices, 18 uclasses, devicetree: separate
+WDT:   Started wdt@44e35000 with servicing every 1000ms (60s timeout)
+NAND:  0 MiB
+U-Boot 2024.01-bbb-build (Oct 10 2026 - 22:30:00 +0700)
+CPU  : AM335X-GP rev 2.1
+Model: TI AM335x BeagleBone Black
+DRAM:  512 MiB
+Core:  160 devices, 18 uclasses, devicetree: separate
+WDT:   Started wdt@44e35000 with servicing every 1000ms (60s timeout)
+NAND:  0 MiB## 1. GIỚI THIỆU TỔNG QUAN
 
 Khác với máy tính cá nhân x86/x64 có BIOS/UEFI tiêu chuẩn hóa và nạp trực tiếp bootloader từ ổ cứng vào RAM hệ thống, các hệ thống nhúng SoC nền tảng ARM (như **Texas Instruments AM335x** trên bo mạch **BeagleBone Black**) phải trải qua một quy trình khởi động phân tầng gồm **4 giai đoạn (Multi-stage Boot Process)**.
 
@@ -18,7 +32,12 @@ Nguyên nhân cốt lõi của quy trình phân tầng này bắt nguồn từ:
 ---
 
 ## 2. SƠ ĐỒ TOÀN CẢNH BOOT FLOW 4 GIAI ĐOẠN
+hác với máy tính cá nhân x86/x64 có BIOS/UEFI tiêu chuẩn hóa và nạp trực tiếp bootloader từ ổ cứng vào RAM hệ thống, các hệ thống nhúng SoC nền tảng ARM (như **Texas Instruments AM335x** trên bo mạch **BeagleBone Black**) phải trải qua một quy trình khởi động phân tầng gồm **4 giai đoạn (Multi-stage Boot Process)**.
 
+Nguyên nhân cốt lõi của quy trình phân tầng này bắt nguồn từ:
+1. **Bộ nhớ RAM ngoài (DDR3) chưa hoạt động** ngay khi cấp nguồn.
+2. **Bộ nhớ nội (Internal SRAM) trong chip rất nhỏ** (chỉ có 128 KB, khả dụng thực tế 109 KB).
+3. **ROM Code tích hợp trong chip không biết trước cấu hình phần cứng cụ thể** của từng bo mạch thương mại (loại chip RAM, hãng sản xuất chip nhớ, xung nhịp mong muốn, loại chip quản lý nguồn PMIC).
 ```mermaid
 sequenceDiagram
     autonumber

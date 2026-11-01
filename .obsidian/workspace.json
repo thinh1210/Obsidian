@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/GIVE.md",
+                "file": "English/IELTS Note/Speaking/General_Topics/Daily Routine and Time Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIVE"
+              "title": "Daily Routine and Time Management"
+            }
+          },
+          {
+            "id": "90fe945d89218e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Vocabulary Topics/2. Daily Life & Habits/HOBBIES/Rejuvenate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rejuvenate"
+            }
+          },
+          {
+            "id": "8be9c427d327ae66",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/RobertCNelson/boot-scripts/tree/master/device",
+                "title": "boot-scripts/device at master · RobertCNelson/boot-scripts · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "boot-scripts/device at master · RobertCNelson/boot-scripts · GitHub"
             }
           }
         ]
@@ -93,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.29492950439453
+    "width": 200
   },
   "right": {
     "id": "f2c2d5dae0d3709f",
@@ -205,42 +233,42 @@
   },
   "active": "9d7476da1ac3b263",
   "lastOpenFiles": [
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/GET.md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/FALL.md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/EXTENDED_COMMON_VERBS.md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/CUT.md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/COME.md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/BRING.md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/BREAK.md",
-    "English/Grammar & Cohesion/3. Prepositions, Gerunds & Infinitives/3.5. Phrasal Verbs & Particle Mechanics/0_Phrasal Verbs Hub.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.7. Speaking vs. Writing Sentence Patterns & Master Frames.md",
-    "English/Vocabulary Topics/8. Arts, Culture & Society/SUBJECTS/Algebra.md",
-    "English/IELTS Note/Speaking/Specified_Topics/Psychology, Emotions and Mental Health.md",
-    "English/IELTS Note/Speaking/Specified_Topics/Globalization, Cities and Urban Planning.md",
-    "English/IELTS Note/Speaking/Specified_Topics/Health, Medicine and Bioethics.md",
-    "English/IELTS Note/Speaking/General_Topics/Family, Friends and Relationships.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.6. Paragraph Paraphrasing & Discourse Rewriting.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.5. Paraphrasing Mastery & Sentence Transformations.md",
-    "English/Grammar & Cohesion/2. Sentence Structures & Writing/2.4. Complex Sentences & Clause Breakdown.md",
-    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.5. Conditionals & Wish (Câu điều kiện & Ước).md",
-    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.6. Subjunctive Mood (Thức giả định).md",
-    "English/Grammar & Cohesion/4. Advanced Grammar Topics/4.7. Cleft Sentences (Câu chẻ nhấn mạnh).md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/A STYLISH PERSON/0_A STYLISH PERSON_Index.md",
-    "English/IELTS Note/Speaking/General_Topics/Travel, Tourism and Transport.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/A STYLISH PERSON/Matching.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/A STYLISH PERSON/Pants.md",
-    "English/Vocabulary Topics/2. Daily Life & Habits/A STYLISH PERSON/Coat.md",
+    "C_Cpp_Mastery_Handbook/code_lab/06_safe_overflow",
+    "C_Cpp_Mastery_Handbook/code_lab/05_strict_aliasing",
+    "C_Cpp_Mastery_Handbook/code_lab/04_generic_macro",
+    "C_Cpp_Mastery_Handbook/code_lab/03_branch_predict",
+    "C_Cpp_Mastery_Handbook/code_lab/02_raii_cleanup",
+    "C_Cpp_Mastery_Handbook/code_lab/01_packed_vs_aligned",
+    "C_Cpp_Mastery_Handbook/code_lab/Makefile",
+    "C_Cpp_Mastery_Handbook/code_lab/06_safe_overflow.c",
+    "C_Cpp_Mastery_Handbook/code_lab/05_strict_aliasing.c",
+    "C_Cpp_Mastery_Handbook/code_lab/04_generic_macro.c",
+    "C_Cpp_Mastery_Handbook/code_lab/03_branch_predict.c",
+    "C_Cpp_Mastery_Handbook/09_Recommended_Resources_and_Repos.md",
+    "C_Cpp_Mastery_Handbook/08_Undefined_Behavior_and_Safety_Standards.md",
+    "C_Cpp_Mastery_Handbook/07_Struct_Padding_Alignment_and_Punning.md",
+    "C_Cpp_Mastery_Handbook/06_Memory_Layout_and_Linker_Internals.md",
+    "C_Cpp_Mastery_Handbook/05_Inline_Assembly_and_Barriers.md",
+    "C_Cpp_Mastery_Handbook/04_Compiler_Builtins_and_Intrinsics.md",
+    "C_Cpp_Mastery_Handbook/03_Special_Syntax_and_GCC_Attributes.md",
+    "C_Cpp_Mastery_Handbook/02_Storage_Classes_and_Type_Qualifiers.md",
+    "C_Cpp_Mastery_Handbook/01_Keywords_Evolution_C89_to_C23.md",
+    "C_Cpp_Mastery_Handbook/00_C_Cpp_Mastery_Index.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/HOBBIES/Rejuvenate.md",
+    "English/IELTS Note/Speaking/General_Topics/Daily Routine and Time Management.md",
     "English/IELTS Note/Speaking/General_Topics/Accommodation and Living Space.md",
-    "English/IELTS Note/Speaking/Specified_Topics",
-    "English/IELTS Note/Speaking/General_Topics",
-    "English/IELTS Note/Speaking/Adv_Chi",
-    "English/audio/accommodation.mp3",
-    "English/audio/abyss.mp3",
-    "English/audio/abysmal.mp3",
-    "English/audio/absurdism.mp3",
-    "English/audio/absorb.mp3",
-    "English/audio/absenteeism.mp3",
-    "English/audio/aberration.mp3",
+    "English/Vocabulary Topics/2. Daily Life & Habits/LIFESTYLE/Procrastinate.md",
+    "English/Vocabulary Topics/1. Basic Concepts & Grammar/TIME/Punctual.md",
+    "English/IELTS Note/Speaking/Specified_Topics/Art, Music and Cultural Heritage.md",
+    "English/Vocabulary Topics/8. Arts, Culture & Society/ARTS - MEDIA - ENTERTAINMENT/Censorship.md",
+    "English/Vocabulary Topics/7. Business, Finance & Economics/MARKETING/Captivate.md",
+    "English/Vocabulary Topics/2. Daily Life & Habits/HOBBIES/Aesthetic.md",
+    "English/IELTS Note/Speaking/_CEFR_A1_to_C1_Speaking_Lexicon_and_QA_Patterns.md",
+    "RaspberryPi5_BSP/docs/02_Boot_Flow_Firmware_EEPROM_Va_UBoot_Cho_RPi5.md",
+    "RaspberryPi5_BSP/docs/01_Kien_Truc_Phan_Cung_RPi5_BCM2712_Va_Southbridge_RP1.md",
+    "UBoot_BeagleBone/docs/10_Thuc_Hanh_Toan_Dien_Voi_BBB_The_Nho_Va_UART_Phan_2_Chuyen_Sau_Kernel_Falcon_PRU.md",
+    "UBoot_BeagleBone/docs/09_Thuc_Hanh_Toan_Dien_Voi_BBB_The_Nho_Va_UART_Phan_1_Co_So_Va_Trung_Cap.md",
+    "UBoot_BeagleBone/docs/08_Cac_Du_An_Maker_DIY_Va_Home_Lab_Voi_BeagleBone.md",
     "English/Writing/assets/images/task1_process_03_brick.jpg",
     "English/Writing/assets/images/task1_map_03_grange_park.jpg",
     "English/Writing/assets/images/task1_process_02_silkworm.jpg",

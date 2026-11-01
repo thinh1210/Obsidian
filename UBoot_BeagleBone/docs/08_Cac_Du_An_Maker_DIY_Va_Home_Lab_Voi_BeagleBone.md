@@ -64,7 +64,25 @@ mindmap
       Tưới cây thông minh :: Đọc 7 chân ADC đa chậu
     Đa Phương Tiện & Xe Hơi
       Audiophile Streamer :: Xuất âm thanh I2S/DSD cực sạch
+      Internet Radimindmap
+  ￼root((ỨNG DỤNG ĐỜI THƯỜNG<br>BEAGLEBONE BLACK))
+    ￼Home Lab & Network
+      Pi-hole / AdGuard :: Chặn quảng cáo gia đình
+      WireGuard VPN :: Truy cập mạng nội bộ từ xa
+      Mosquitto MQTT :: Trạm trung chuyển IoT
+      CUPS Print Server :: Chia sẻ máy in qua mạng
+    ￼Đo Kiểm & Thí Nghiệm
+      BeagleLogic :: Logic Analyzer 14 kênh 100MSPS
+      PulseView Decoder :: Giải mã I2C, SPI, UART
+      Signal Generator :: Phát xung chính xác cao qua PRU
+    ￼Smart Home & Nông Nghiệp
+      Home Assistant :: Trung tâm nhà thông minh
+      Trạm thời tiết :: BME280, cảm biến bụi PMS5003
+      Tưới cây thông minh :: Đọc 7 chân ADC đa chậu
+    ￼Đa Phương Tiện & Xe Hơi
+      Audiophile Streamer :: Xuất âm thanh I2S/DSD cực sạch
       Internet Radio :: Phát nhạc mạng không quạt ồn
+      OBD-II Car Telemetry :: Đọc RPM, mã lỗi động cơ qua CANo :: Phát nhạc mạng không quạt ồn
       OBD-II Car Telemetry :: Đọc RPM, mã lỗi động cơ qua CAN
 ```
 
@@ -151,7 +169,25 @@ mindmap
 [ BeagleBone Black ] <=== P9.24 (CAN1_RX) & P9.26 (CAN1_TX) + 3.3V Power
 ```
 
-* **Linh kiện chuẩn bị**:
+* **Linh kiện chumindmap
+  ￼root((ỨNG DỤNG ĐỜI THƯỜNG<br>BEAGLEBONE BLACK))
+    ￼Home Lab & Network
+      Pi-hole / AdGuard :: Chặn quảng cáo gia đình
+      WireGuard VPN :: Truy cập mạng nội bộ từ xa
+      Mosquitto MQTT :: Trạm trung chuyển IoT
+      CUPS Print Server :: Chia sẻ máy in qua mạng
+    ￼Đo Kiểm & Thí Nghiệm
+      BeagleLogic :: Logic Analyzer 14 kênh 100MSPS
+      PulseView Decoder :: Giải mã I2C, SPI, UART
+      Signal Generator :: Phát xung chính xác cao qua PRU
+    ￼Smart Home & Nông Nghiệp
+      Home Assistant :: Trung tâm nhà thông minh
+      Trạm thời tiết :: BME280, cảm biến bụi PMS5003
+      Tưới cây thông minh :: Đọc 7 chân ADC đa chậu
+    ￼Đa Phương Tiện & Xe Hơi
+      Audiophile Streamer :: Xuất âm thanh I2S/DSD cực sạch
+      Internet Radio :: Phát nhạc mạng không quạt ồn
+      OBD-II Car Telemetry :: Đọc RPM, mã lỗi động cơ qua CANẩn bị**:
   * 01 Bo mạch BeagleBone Black.
   * 01 Module thu phát CAN Bus **SN65HVD230** (lưu ý: bắt buộc dùng chip 3.3V, không dùng module MCP2551 5V vì sẽ gây cháy chân BBB).
   * 01 Cáp chuyển đổi OBD-II đực (Male) sang dây nối rời.

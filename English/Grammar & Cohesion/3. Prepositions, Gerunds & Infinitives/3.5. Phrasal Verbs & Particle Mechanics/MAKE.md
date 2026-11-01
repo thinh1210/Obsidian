@@ -13,18 +13,18 @@
 
 ## 🧭 Bảng Tổng Hợp Nhanh Phrasal Verbs với MAKE
 
-| Phrasal Verb | Giới từ / Tiểu từ | Nghĩa tiếng Việt | Cơ chế gộp nghĩa vắn tắt |
-| :--- | :--- | :--- | :--- |
-| **Make after** | after (đuổi theo sau) | Đuổi theo, truy đuổi ai | Vận sức tạo đà lao theo sau mục tiêu |
-| **Make away with** | away (xa) + with | Ăn cắp rồi tẩu thoát | Tạo khoảng cách biến mất cùng tài sản trộm cắp |
-| **Make for** | for (hướng tới đích) | Đi về phía / Dẫn đến kết quả tốt | Định hướng di chuyển tạo đà nhắm vào mục tiêu |
-| **Make into** | into (biến đổi vào trong) | Biến đổi thành thứ khác | Nhào nặn tái tạo thực thể này thành thực thể mới |
-| **Make of** | of (từ chất liệu / về) | Hiểu, có ấn tượng/nhận định về | Rút ra ý nghĩa, kiến tạo quan điểm từ dữ kiện |
-| **Make off** | off (tách rời nhanh) | Chuồn mất, trốn thoát vội vã | Tách mình ra khỏi hiện trường trong chớp mắt |
-| **Make out** | out (hiện ra rõ ràng) | Nhìn rõ, nghe rõ, hiểu / Hôn say đắm | Kéo chi tiết từ vùng mờ tối ra ánh sáng nhận thức |
-| **Make over** | over (qua một chu kỳ mới) | Cải tạo diện mạo / Chuyển quyền sở hữu | Làm lại từ đầu để lật sang một hình thái mới |
-| **Make up** | up (lên đỉnh hoàn tất) | Bịa chuyện / Hòa giải / Trang điểm / Chiếm % | Đắp bù đắp thêm cho đầy đủ tổng thể |
-| **Make up for** | up + for (bù lại mục tiêu) | Đền bù, bù đắp cho thiếu sót | Kiến tạo giá trị bù lại phần tổn thất trước đó |
+| Phrasal Verb       | Giới từ / Tiểu từ          | Nghĩa tiếng Việt                             | Cơ chế gộp nghĩa vắn tắt                          |
+| :----------------- | :------------------------- | :------------------------------------------- | :------------------------------------------------ |
+| **Make after**     | after (đuổi theo sau)      | Đuổi theo, truy đuổi ai                      | Vận sức tạo đà lao theo sau mục tiêu              |
+| **Make away with** | away (xa) + with           | Ăn cắp rồi tẩu thoát                         | Tạo khoảng cách biến mất cùng tài sản trộm cắp    |
+| **Make for**       | for (hướng tới đích)       | Đi về phía / Dẫn đến kết quả tốt             | Định hướng di chuyển tạo đà nhắm vào mục tiêu     |
+| **Make into**      | into (biến đổi vào trong)  | Biến đổi thành thứ khác                      | Nhào nặn tái tạo thực thể này thành thực thể mới  |
+| **Make of**        | of (từ chất liệu / về)     | Hiểu, có ấn tượng/nhận định về               | Rút ra ý nghĩa, kiến tạo quan điểm từ dữ kiện     |
+| **Make off**       | off (tách rời nhanh)       | Chuồn mất, trốn thoát vội vã                 | Tách mình ra khỏi hiện trường trong chớp mắt      |
+| **Make out**       | out (hiện ra rõ ràng)      | Nhìn rõ, nghe rõ, hiểu / Hôn say đắm         | Kéo chi tiết từ vùng mờ tối ra ánh sáng nhận thức |
+| **Make over**      | over (qua một chu kỳ mới)  | Cải tạo diện mạo / Chuyển quyền sở hữu       | Làm lại từ đầu để lật sang một hình thái mới      |
+| **Make up**        | up (lên đỉnh hoàn tất)     | Bịa chuyện / Hòa giải / Trang điểm / Chiếm % | Đắp bù đắp thêm cho đầy đủ tổng thể               |
+| **Make up for**    | up + for (bù lại mục tiêu) | Đền bù, bù đắp cho thiếu sót                 | Kiến tạo giá trị bù lại phần tổn thất trước đó    |
 
 ---
 
