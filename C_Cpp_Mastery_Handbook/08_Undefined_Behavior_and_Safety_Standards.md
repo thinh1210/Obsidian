@@ -142,3 +142,53 @@ Do Viện Kỹ nghệ Phần mềm thuộc Đại học Carnegie Mellon (Mỹ) p
    gcc -fsanitize=address,undefined,leak -g my_program.c -o my_program
    ```
    Nếu code có bất kỳ lỗi truy cập ngoài mảng, con trỏ NULL, hay tràn số, chương trình sẽ lập tức dừng lại và chỉ rõ chính xác dòng code vi phạm kèm Call Stack chi tiết!
+
+---
+
+## 6. Mổ Xẻ Mã Nguồn Thực Tế: Phòng Vệ An Toàn Trong Linux Kernel & SQLite
+
+### 6.1. Linux Kernel: Tại Sao Cấm `kmalloc(n * sizeof(T))`?
+Trong quá khứ, hàng trăm lỗ hổng bảo mật nghiêm trọng (CVE) trong nhân Linux xuất phát từ cách viết tưởng chừng rất ngây thơ:
+```c
+// LỖI BẢO MẬT KINH ĐIỂN TRONG DRIVER CŨ:
+void *buf = kmalloc(count * sizeof(struct item), GFP_KERNEL);
+```
+**Kịch bản kẻ tấn công khai thác (Exploit Scenario):**
+Nếu `count` do người dùng truyền vào từ `ioctl` là một số rất lớn (ví dụ: `count = 0x40000001` và `sizeof(item) = 4`):
+Phép nhân `count * 4` sẽ bị **tràn số nguyên 32-bit (Integer Overflow)**:
+$0x40000001 \times 4 = 0x100000004 \equiv 4 \text{ bytes}$ (Modulo $2^{32}$).
+1. Hàm `kmalloc` nhận tham số là `4 bytes` và cấp phát thành công một vùng đệm tí hon 4 bytes!
+2. Ngay sau đó, driver dùng vòng lặp `for (i = 0; i < count; i++)` để chép hàng triệu phần tử vào vùng đệm 4 bytes đó!
+3. **Hậu quả:** Ghi đè toàn bộ bộ nhớ nhân hệ điều hành (Kernel Heap Overflow), hacker chiếm quyền root hoặc kiểm soát thiết bị!
+
+#### Giải Pháp Chuẩn Mực Trong [`include/linux/slab.h`](https://elixir.bootlin.com/linux/latest/source/include/linux/slab.h):
+Nhân Linux hiện đại cấm lập trình viên tự nhân kích thước. Thay vào đó, bắt buộc phải dùng `kmalloc_array()` hoặc `kcalloc()`:
+```c
+static inline void *kmalloc_array(size_t n, size_t size, gfp_t flags) {
+    size_t bytes;
+    // Kiểm tra tràn số bằng macro check_mul_overflow trước khi cấp phát:
+    if (unlikely(check_mul_overflow(n, size, &bytes)))
+        return NULL; // Từ chối cấp phát ngay lập tức!
+    return kmalloc(bytes, flags);
+}
+```
+
+---
+
+### 6.2. Dự Án SQLite: Lập Trình Phòng Thủ Tuyệt Đối (Defensive Programming)
+Với hơn 1 nghìn tỷ cơ sở dữ liệu SQLite đang hoạt động trên toàn cầu (mọi điện thoại Android, iOS, trình duyệt Chrome đều dùng SQLite), tác giả D. Richard Hipp áp dụng triết lý: *"Mọi hàm phải giả định rằng thế giới xung quanh đang cố tình phá hoại nó"*.
+
+Trong mã nguồn SQLite ([`sqlite3.c`](https://github.com/sqlite/sqlite)):
+1. **Kiểm tra biên cứng trước phép nhân:**
+   ```c
+   /* Cấp phát mảng an toàn trong SQLite */
+   void *sqlite3MallocArray(u64 n, u64 sz) {
+       if (sz <= 0 || n >= 0x7FFFFFFF / sz) {
+           return 0; /* Phát hiện nguy cơ tràn số -> Trả về NULL */
+       }
+       return sqlite3Malloc(n * sz);
+   }
+   ```
+2. **Kỹ thuật `testcase()` Macro:**
+   Bên cạnh các lệnh `assert()`, SQLite chèn hàng chục nghìn macro `testcase()` vào mọi nhánh rẽ điều kiện (kể cả những nhánh 1 phần triệu khả năng xảy ra) để đảm bảo bộ kiểm thử tự động đạt độ bao phủ nhánh **100% Branch Coverage** trước khi phát hành phiên bản mới!
+

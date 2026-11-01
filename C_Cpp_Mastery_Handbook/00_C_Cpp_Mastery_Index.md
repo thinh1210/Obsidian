@@ -111,7 +111,13 @@ Mỗi chuyên đề dưới đây được biên soạn toàn diện, có lý th
 Kèm theo cẩm nang là bộ mã nguồn kiểm chứng thực tế tại thư mục [`code_lab/`](file:///home/thinh/Obsidian/C_Cpp_Mastery_Handbook/code_lab/), sẵn sàng biên dịch với `make run`:
 - `01_packed_vs_aligned.c`: Khảo sát struct size, bus alignment.
 - `02_raii_cleanup.c`: Demo Smart Pointer và Auto-Mutex RAII thuần C bằng `__attribute__((cleanup))`.
-- `03_branch_predict.c`: Kiểm chứng `__builtin_expect` (`likely`/`unlikely`).
+- `03_branch_predict.c`: Kiểm chứng `__builtin_expect` (`likely`/`unlikely`) và bitwise intrinsics.
 - `04_generic_macro.c`: Triển khai Overloading tĩnh trong C11 bằng `_Generic`.
+- `05_strict_aliasing.c`: Tái hiện bug optimizer kinh điển do vi phạm Strict Aliasing Rule.
+- `06_safe_overflow.c`: Phát hiện tràn số học an toàn bằng `__builtin_add_overflow`.
+- `07_linux_kernel_list.c`: Intrusive Linked List và macro `container_of` của Linux Kernel.
+- `08_redis_sds_packed.c`: Cấu trúc chuỗi động SDS của Redis (`__attribute__((packed))` và truy cập `s[-1]`).
+- `09_linux_read_write_once.c`: Kỹ thuật ép kiểu Volatile `READ_ONCE()` & `WRITE_ONCE()` của Linux Kernel.
+- `10_systemd_raii_autoptr.c`: Hệ thống macro `_cleanup_` và chuyển giao quyền sở hữu (Ownership Transfer) của systemd.
 - `05_strict_aliasing.c`: Tái hiện bug optimizer kinh điển do vi phạm Strict Aliasing Rule.
 - `06_safe_overflow.c`: Phát hiện tràn số học an toàn bằng `__builtin_add_overflow`.

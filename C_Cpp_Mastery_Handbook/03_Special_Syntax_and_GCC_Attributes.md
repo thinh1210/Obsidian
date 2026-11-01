@@ -239,3 +239,131 @@ void test_raii_in_c(void) {
    // Chuẩn hóa hiện đại trong C23 và C++20:
    #define LOG_MODERN(fmt, ...) printf("[DEBUG] " fmt __VA_OPT__(,) __VA_ARGS__)
    ```
+
+---
+
+## 4. Mổ Xẻ Mã Nguồn Thực Tế: Cách Các Dự Án Lớn Sử Dụng Attributes
+
+### 4.1. Dự Án systemd: Triệt Tiêu Memory Leak Bằng Hệ Thống `_cleanup_` Macro
+Trong mã nguồn [`systemd/src/basic/alloc-util.h`](https://github.com/systemd/systemd), toàn bộ các nhà phát triển Linux không bao giờ gọi hàm `free()` hoặc `close()` thủ công. Họ định nghĩa:
+
+```c
+// Định nghĩa macro cleanup tổng quát
+#define _cleanup_(f) __attribute__((cleanup(f)))
+
+// Hàm giải phóng con trỏ gián tiếp
+static inline void freep(void *p) {
+    free(*(void**)p);
+}
+
+// Hàm đóng file descriptor
+static inline void closep(int *fd) {
+    if (*fd >= 0) {
+        close(*fd);
+        *fd = -1;
+    }
+}
+
+// Các macro chuyên dụng thường dùng khắp systemd:
+#define _cleanup_free_  _cleanup_(freep)
+#define _cleanup_close_ _cleanup_(closep)
+```
+
+**Cách lập trình viên systemd áp dụng vào một hàm nghiệp vụ phức tạp:**
+```c
+int load_system_config(const char *path, char **out_data) {
+    // Tự động đóng fd khi thoát hàm, dù thoát ở bất kỳ nhánh nào!
+    _cleanup_close_ int fd = -1;
+    // Tự động giải phóng buffer nếu hàm bị lỗi return sớm!
+    _cleanup_free_ char *temp_buf = NULL;
+
+    fd = open(path, O_RDONLY);
+    if (fd < 0)
+        return -errno; // fd không cần đóng, temp_buf chưa cấp phát -> An toàn!
+
+    temp_buf = malloc(4096);
+    if (!temp_buf)
+        return -ENOMEM; // fd TỰ ĐỘNG ĐƯỢC ĐÓNG! Không sợ leak descriptor!
+
+    ssize_t n = read(fd, temp_buf, 4095);
+    if (n < 0)
+        return -errno; // fd TỰ ĐỘNG ĐÓNG, temp_buf TỰ ĐỘNG FREE! Không tốn dòng code dọn dẹp nào!
+
+    temp_buf[n] = '\0';
+    *out_data = temp_buf;
+    temp_buf = NULL; // "Tước quyền sở hữu" (Transfer Ownership): gán NULL để khi thoát hàm freep không free biến này!
+    
+    return 0; // fd tự động đóng tại đây, out_data bàn giao cho caller an toàn!
+}
+```
+> **Bài học kiến trúc:** Kỹ thuật `temp_buf = NULL` để chuyển giao quyền sở hữu bộ nhớ (Ownership Transfer) tương đương với `std::move()` trong C++ hiện đại!
+
+---
+
+### 4.2. Dự Án Zephyr RTOS: Khởi Tạo Driver Tự Động Bằng Linker Section
+Trong các hệ thống nhúng truyền thống, file `main.c` thường chứa hàng chục dòng lệnh khởi tạo dài dòng:
+```c
+uart_init();
+gpio_init();
+spi_init();
+sensor_init();
+```
+Trong **Zephyr RTOS**, các kỹ sư sử dụng thuộc tính `__attribute__((section(...)))` kết hợp với Linker Script để tạo ra kiến trúc **Tự Động Đăng Ký Driver (Zero-cost Self-registering Drivers)** ([`zephyr/include/zephyr/device.h`](https://github.com/zephyrproject-rtos/zephyr)):
+
+```c
+#define DEVICE_DEFINE(dev_name, init_fn, pm_action_cb, data_ptr, cfg_ptr, level, prio) \
+    static const struct device __device_##dev_name                  \
+    __attribute__((section(".z_device_" #level STRINGIFY(prio))))   \
+    __attribute__((used)) = {                                       \
+        .name = #dev_name,                                          \
+        .init = (init_fn),                                          \
+        .data = (data_ptr),                                         \
+        .config = (cfg_ptr),                                        \
+    }
+```
+**Bản chất phần cứng:**
+1. Mỗi driver chỉ cần khai báo `DEVICE_DEFINE(uart0, uart_init, ...);`.
+2. Trình biên dịch đẩy cấu trúc `__device_uart0` vào một phân vùng Linker có thứ tự tăng dần theo độ ưu tiên `level` và `prio`.
+3. Khi hệ điều hành khởi động, nhân Zephyr chỉ cần duyệt một vòng lặp đơn giản từ địa chỉ đầu `__device_start` đến `__device_end` và gọi con trỏ hàm `.init()` của từng driver. File `main()` hoàn toàn không cần biết có những driver nào đang tồn tại!
+
+---
+
+### 4.3. Dự Án FreeRTOS: Chuyển Ngữ Cảnh Bằng `__attribute__((naked))`
+Trong mã nguồn [`FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c`](https://github.com/FreeRTOS/FreeRTOS-Kernel), hàm chuyển đổi ngữ cảnh ngắt PendSV được định nghĩa bắt buộc phải có thuộc tính `naked`:
+
+```c
+void xPortPendSVHandler( void ) __attribute__ (( naked ));
+void xPortPendSVHandler( void )
+{
+    __asm volatile
+    (
+        "   mrs r0, psp                         \n" /* Nạp Process Stack Pointer vào R0 */
+        "   isb                                 \n"
+        "   ldr r3, pxCurrentTCBConst           \n" /* Lấy con trỏ Task Control Block hiện tại */
+        "   ldr r2, [r3]                        \n"
+        "   stmdb r0!, {r4-r11, r14}            \n" /* Tự tay đẩy các thanh ghi CPU còn lại vào Stack */
+        "   str r0, [r2]                        \n" /* Lưu đỉnh Stack Pointer mới vào TCB của Task cũ */
+        "   stmdb sp!, {r3}                     \n"
+        "   mov r0, %0                          \n"
+        "   msr basepri, r0                     \n" /* Che chắn ngắt để chọn Task mới */
+        "   dsb                                 \n"
+        "   isb                                 \n"
+        "   bl vTaskSwitchContext               \n" /* Chọn Task có độ ưu tiên cao nhất tiếp theo */
+        "   mov r0, #0                          \n"
+        "   msr basepri, r0                     \n"
+        "   ldmia sp!, {r3}                     \n"
+        "   ldr r1, [r3]                        \n"
+        "   ldr r0, [r1]                        \n" /* Lấy đỉnh Stack của Task mới */
+        "   ldmia r0!, {r4-r11, r14}            \n" /* Phục hồi ngữ cảnh thanh ghi của Task mới */
+        "   msr psp, r0                         \n"
+        "   isb                                 \n"
+        "   bx r14                              \n" /* Trở về thực thi Task mới mượt mà! */
+        "                                       \n"
+        "   .align 4                            \n"
+        "pxCurrentTCBConst: .word pxCurrentTCB  \n"
+        ::"i"(configMAX_SYSCALL_INTERRUPT_PRIORITY)
+    );
+}
+```
+Nếu thiếu `__attribute__((naked))`, compiler sẽ chèn lệnh `push {r7, lr}` ở đầu hàm và `pop {r7, pc}` ở cuối hàm, làm phá hủy cấu trúc khung ngăn xếp (Stack Frame) mà Task mới đang kỳ vọng, dẫn tới hệ thống lập tức sụp đổ vì HardFault!
+

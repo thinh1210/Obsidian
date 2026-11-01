@@ -171,3 +171,64 @@ if (__builtin_add_overflow(a, b, &result)) {
    - *Cảnh báo:* Nếu vì lỗi phần cứng hoặc logic mà code nhảy vào đây, chương trình sẽ rơi vào trạng thái Undefined Behavior khó lường nhất.
 2. **`__builtin_trap()`**:
    - Chèn ngay một lệnh bất hợp pháp (Illegal Instruction / Trap instruction) làm CPU lập tức crash crash và dừng chương trình. Dùng khi phát hiện vi phạm bảo mật hoặc tràn ngăn xếp (Stack Smashing).
+
+---
+
+## 7. Mổ Xẻ Mã Nguồn Thực Tế: FreeRTOS Task Scheduler & Linux Kernel
+
+### 7.1. FreeRTOS Task Scheduler: Tìm Task Ưu Tiên Cao Nhất Trong 1 Chu Kỳ Xung Nhịp
+Trong hệ điều hành thời gian thực FreeRTOS ([`FreeRTOS/Source/tasks.c`](https://github.com/FreeRTOS/FreeRTOS-Kernel)), thời gian phản hồi (Deterministic Latency) là yếu tố sống còn. Tại mỗi nhịp ngắt SysTick, hệ điều hành phải lập tức tìm ra Task có độ ưu tiên cao nhất đang ở trạng thái Ready để trao quyền CPU.
+
+#### Cách viết thông thường (Generic C):
+```c
+// Phải dùng vòng lặp duyệt từ độ ưu tiên cao nhất 31 xuống 0:
+#define portGET_HIGHEST_PRIORITY( uxTopPriority, uxReadyPriorities ) \
+    uxTopPriority = ( 31UL );                                        \
+    while( ( uxReadyPriorities & ( 1UL << uxTopPriority ) ) == 0 )   \
+    {                                                                \
+        uxTopPriority--;                                             \
+    }
+```
+- **Nhược điểm:** Tốn tới 32 vòng lặp nếu Task sẵn sàng có độ ưu tiên 0! Độ trễ hệ thống biến thiên không xác định (Jitter).
+
+#### Cách FreeRTOS tối ưu bằng phần cứng (Hardware Optimized Port):
+Trong file [`FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h`](https://github.com/FreeRTOS/FreeRTOS-Kernel), nếu cấu hình `configUSE_PORT_OPTIMISED_TASK_SELECTION` được bật:
+
+```c
+#define portRECORD_READY_PRIORITY( uxPriority, uxReadyPriorities ) \
+    ( uxReadyPriorities ) |= ( 1UL << ( uxPriority ) )
+
+#define portRESET_READY_PRIORITY( uxPriority, uxReadyPriorities ) \
+    ( uxReadyPriorities ) &= ~( 1UL << ( uxPriority ) )
+
+#define portGET_HIGHEST_PRIORITY( uxTopPriority, uxReadyPriorities ) \
+    uxTopPriority = ( 31UL - ( uint32_t ) __builtin_clz( uxReadyPriorities ) )
+```
+- **Bản chất phần cứng:** Compiler thay thế toàn bộ vòng lặp `while` bằng **duy nhất 1 lệnh `CLZ` (Count Leading Zeros)** trên ARM Cortex-M3/M4/M7/M33.
+- **Thời gian thực thi:** Cố định tuyệt đối **1 chu kỳ máy (1 clock cycle)** bất kể task có độ ưu tiên nào! Đây là tiêu chuẩn vàng của hệ thống Real-Time Determinism.
+
+---
+
+### 7.2. Linux Kernel: Tối Ưu Hóa Bộ Nhớ Đệm Bằng `__builtin_prefetch`
+Trong các tác vụ duyệt cây nhị phân đỏ-đen (Red-Black Tree) hoặc duyệt bảng băm (Hash Table) của Linux Kernel, CPU thường xuyên phải chờ nạp dữ liệu từ RAM vào bộ nhớ Cache L1/L2 (Cache Miss Penalty).
+
+Linux Kernel định nghĩa macro trong [`include/linux/prefetch.h`](https://elixir.bootlin.com/linux/latest/source/include/linux/prefetch.h):
+```c
+#define prefetch(x) __builtin_prefetch(x)
+#define prefetchw(x) __builtin_prefetch(x, 1) /* 1: Chuẩn bị ghi vào vùng nhớ đó */
+```
+Khi duyệt danh sách liên kết lớn:
+```c
+void process_packet_list(struct list_head *head) {
+    struct packet *pkt, *next;
+    
+    list_for_each_entry_safe(pkt, next, head, list) {
+        // Gợi ý CPU nạp trước node tiếp theo vào Cache Line ngay khi đang xử lý node hiện tại!
+        prefetch(next);
+        
+        handle_packet(pkt); // Khi handle_packet xử lý xong, node tiếp theo ĐÃ NẰM SẴN TRONG L1 CACHE!
+    }
+}
+```
+Chiêu thức này giúp tăng thông lượng xử lý gói tin mạng của nhân Linux lên 15-30% dưới tải cao!
+

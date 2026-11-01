@@ -170,3 +170,98 @@ struct RegisterCtrl {
 1. **Không thể lấy địa chỉ:** Toán tử `&` không thể áp dụng lên trường bit (`&reg.enable` là lỗi biên dịch vì CPU chỉ có thể đánh địa chỉ tới byte, không thể đánh địa chỉ tới từng bit đơn lẻ).
 2. **Thứ tự bit phụ thuộc Compiler & Endianness:** Chuẩn C **không quy định** trường bit đầu tiên nằm ở LSB (bit thấp nhất) hay MSB (bit cao nhất). Việc này phụ thuộc hoàn toàn vào ABI của từng compiler. Do đó, dùng bit-fields để ánh xạ trực tiếp gói tin mạng truyền qua mạng khác kiến trúc là cực kỳ nguy hiểm!
 3. **Hiểm họa Race Condition trong đa luồng:** Khi một thread ghi vào `reg.enable` và một thread khác ghi vào `reg.mode`, mặc dù hai biến khác nhau, CPU vẫn phải đọc toàn bộ 32-bit word, sửa bit và ghi đè lại. Hai luồng sẽ ghi đè lên nhau gây lỗi dữ liệu bí ẩn!
+
+---
+
+## 6. Mổ Xẻ Mã Nguồn Thực Tế: Nghệ Thuật Sắp Đặt Cấu Trúc Dữ Liệu Trong Linux Kernel & Redis
+
+### 6.1. Redis SDS (Simple Dynamic Strings): Đỉnh Cao Của `__attribute__((packed))` & Flexible Array Member
+Trong cơ sở dữ liệu in-memory tốc độ cao **Redis** ([`src/sds.h`](https://github.com/redis/redis/blob/unstable/src/sds.h)), Salvatore Sanfilippo (antirez) đã sáng tạo ra cấu trúc chuỗi động nhanh nhất thế giới.
+
+#### Vấn đề của chuỗi C truyền thống:
+- Hàm `strlen(s)` tốn độ phức tạp $O(N)$ vì phải quét tìm ký tự `\0`.
+- Nối chuỗi hay bị tràn bộ đệm (Buffer Overflow).
+- Không an toàn nhị phân (Binary Safe) vì không lưu được ký tự `\0` nằm giữa dữ liệu.
+
+#### Thiết kế thiên tài của Redis:
+Thay vì tạo một con trỏ trỏ tới struct header rồi struct header lại trỏ tới buffer dữ liệu (tốn 2 lần cấp phát `malloc` và gây phân mảnh bộ nhớ), Redis gom toàn bộ vào **một khối bộ nhớ duy nhất liên tục**:
+
+```c
+/* Header cho chuỗi có độ dài dưới 256 bytes */
+struct __attribute__((__packed__)) sdshdr8 {
+    uint8_t len;         /* Số byte thực tế đang dùng (O(1) strlen) */
+    uint8_t alloc;       /* Tổng số byte đã cấp phát (trừ header và byte null) */
+    unsigned char flags; /* 3 bit thấp là loại SDS (SDS_TYPE_8, 16, 32...), 5 bit cao chưa dùng */
+    char buf[];          /* Flexible Array Member - Nằm ngay sát sau flags! */
+};
+```
+
+```mermaid
+graph LR
+    subgraph Kontiguos_Memory ["Một Vùng Nhớ RAM Liền Mạch Duy Nhất (Single Malloc)"]
+        H1["len (1B)"] --- H2["alloc (1B)"] --- H3["flags (1B)"] --- D0["'H' (buf[0])"] --- D1["'e'"] --- D2["'l'"] --- D3["'l'"] --- D4["'o'"] --- D5["'\0'"]
+    end
+
+    UserPtr["Con trỏ s (Đưa cho lập trình viên)"] --> D0
+    FlagsPtr["Truy cập s[-1]"] -.-> H3
+    HeaderPtr["(char*)s - sizeof(struct sdshdr8)"] -.-> H1
+```
+
+#### Tại sao bắt buộc phải dùng `__attribute__((__packed__))`?
+1. **Triệt tiêu khoảng trống Padding:** Nếu không có `packed`, compiler sẽ tự động chèn thêm padding bytes vào giữa `flags` và `buf[]` tùy thuộc vào kiến trúc CPU.
+2. **Kỹ thuật lùi con trỏ `s[-1]`:** 
+   Redis đưa cho lập trình viên con trỏ `s` trỏ thẳng vào `buf[0]`. 
+   Nhờ đó, biến `s` **vẫn tương thích 100% với các hàm C chuẩn** như `printf("%s", s);` hoặc `strcat()`.
+   Khi Redis cần kiểm tra kiểu chuỗi hoặc độ dài, họ chỉ cần viết:
+   ```c
+   unsigned char flags = s[-1]; // Đọc ngược lại 1 byte phía trước con trỏ!
+   ```
+   Nếu có padding, vị trí `s[-1]` sẽ là byte rác! Nhờ `packed`, `flags` luôn luôn nằm chính xác ở vị trí `s[-1]`!
+
+---
+
+### 6.2. Linux Kernel Intrusive Linked List (`struct list_head`)
+Hầu hết các sách giáo khoa dạy cấu trúc dữ liệu theo phong cách:
+```c
+struct Node {
+    void *data;          // Con trỏ dữ liệu
+    struct Node *next;   // Con trỏ node tiếp theo
+    struct Node *prev;
+};
+```
+Cách này bị cộng đồng phát triển Linux Kernel xem là tệ hại vì:
+- Mỗi node phải cấp phát 2 lần: `malloc(sizeof(Node))` và `malloc(sizeof(Data))`.
+- Dữ liệu bị phân mảnh khắp RAM, gây Cache Miss triền miên.
+- Ép kiểu `void*` không an toàn lúc biên dịch.
+
+#### Cuộc Cách Mạng Intrusive List Trong [`include/linux/list.h`](https://elixir.bootlin.com/linux/latest/source/include/linux/list.h):
+Thay vì struct bọc ngoài chứa dữ liệu, Linux Kernel **nhúng thẳng cấu trúc liên kết vào bên trong đối tượng**:
+
+```c
+struct list_head {
+    struct list_head *next, *prev;
+};
+
+// Cấu trúc đối tượng nghiệp vụ (Ví dụ: Thiết bị mạng hoặc Nhiệm vụ tiến trình)
+struct task_struct {
+    int pid;
+    char comm[16];
+    struct list_head task_list; // Nhúng list_head vào đây!
+    struct list_head run_list;  // Có thể cùng lúc nằm trong nhiều danh sách khác nhau!
+};
+```
+
+#### Kết hợp với `container_of` để duyệt danh sách siêu tốc:
+```c
+#define list_entry(ptr, type, member) \
+    container_of(ptr, type, member)
+
+#define list_for_each_entry(pos, head, member) \
+    for (pos = list_entry((head)->next, typeof(*pos), member); \
+         &pos->member != (head); \
+         pos = list_entry(pos->member.next, typeof(*pos), member))
+```
+- Không tốn một byte bộ nhớ phụ nào cho việc quản lý danh sách.
+- 0 lần gọi `malloc` trung gian.
+- Dữ liệu nằm trọn vẹn trong một khối nhớ duy nhất, tối ưu hóa tối đa CPU L1/L2 Data Cache.
+
