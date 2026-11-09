@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "BeagleBone Black (ARM Cortex-A8)",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/thinh/yocto-bbb/build/tmp/work/cortexa8hf-neon-poky-linux-gnueabi/my-app/1.0/recipe-sysroot/usr/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__ARM_ARCH_7A__"
+            ],
+            "compilerPath": "${workspaceFolder}/scripts/arm-gcc-wrapper.sh",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-arm"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build ARM Binary (Debug)",
+            "type": "shell",
+            "command": "make clean && make",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        },
+        {
+            "label": "Kill Remote GDBServer & Old App",
+            "type": "shell",
+            "command": "ssh -o StrictHostKeyChecking=no root@192.168.7.2 'killall -9 gdbserver hello_debug 2>/dev/null || true'",
+            "problemMatcher": []
+        },
+        {
+            "label": "Deploy to BeagleBone",
+            "type": "shell",
+            "command": "make deploy TARGET_IP=192.168.7.2",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "dependsOn": ["Kill Remote GDBServer"],
+            "problemMatcher": []
+        },
+        {
+            "label": "Build & Deploy to BeagleBone",
+            "dependsOrder": "sequence",
+            "dependsOn": [
+                "Build ARM Binary (Debug)",
+                "Deploy to BeagleBone"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "Start Remote GDBServer Manually (:2345)",
+            "type": "shell",
+            "isBackground": true,
+            "command": "ssh -o StrictHostKeyChecking=no root@192.168.7.2 'killall -9 gdbserver 2>/dev/null; /usr/bin/gdbserver :2345 /home/root/hello_debug'",
+            "problemMatcher": {
+                "pattern": {
+                    "regexp": "^$"
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "Listening on port 2345",
+                    "endsPattern": "Listening on port 2345"
+                }
+            }
+        }
+    ]
+}

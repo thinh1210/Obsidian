@@ -276,27 +276,27 @@ sudo sync
 | `df -h` | Xem dung lượng phân vùng ổ đĩa trên thẻ nhớ. |
 
 #### B. Kiểm tra & Điều khiển phần cứng BeagleBone Black
-| Lệnh | Chức năng thực tế |
-| :--- | :--- |
-| `bbb_diag soc` | Đọc thanh ghi `DEVICE_ID` vật lý qua `/dev/mem` để giải mã phiên bản chip TI AM3358. |
-| `bbb_diag eeprom` | Giao tiếp I2C0 đọc chip EEPROM trên mạch, in mã bo mạch `A335BNLT` và số Serial. |
-| `bbb_diag led sweep` | Kích hoạt hiệu ứng quét đèn đuổi (Knight Rider) trên 4 đèn LED `USR0..3`. |
-| `bbb_diag button` | Đọc trạng thái bấm/nhả của nút bấm vật lý S2 (GPIO2_8 / Pin 72) theo thời gian thực. |
-| `gpioinfo` | Liệt kê toàn bộ các chân GPIO của chip, tên đường mạch và trạng thái Input/Output. |
-| `gpioget <gpiochip> <line>` | Đọc mức logic 0 hoặc 1 của một chân GPIO bất kỳ trên Header P8/P9. |
-| `gpioset <gpiochip> <line>=1` | Xuất mức logic HIGH (3.3V) ra chân GPIO được chỉ định. |
-| `i2cdetect -y -r 0` | Quét toàn bộ các thiết bị gắn trên bus I2C0 (chip quản lý nguồn PMIC `0x24`, EEPROM `0x50`). |
-| `i2cdetect -y -r 2` | Quét bus I2C2 trên Header P9 (chân P9_19 và P9_20). |
+| Lệnh                          | Chức năng thực tế                                                                            |
+| :---------------------------- | :------------------------------------------------------------------------------------------- |
+| `bbb_diag soc`                | Đọc thanh ghi `DEVICE_ID` vật lý qua `/dev/mem` để giải mã phiên bản chip TI AM3358.         |
+| `bbb_diag eeprom`             | Giao tiếp I2C0 đọc chip EEPROM trên mạch, in mã bo mạch `A335BNLT` và số Serial.             |
+| `bbb_diag led sweep`          | Kích hoạt hiệu ứng quét đèn đuổi (Knight Rider) trên 4 đèn LED `USR0..3`.                    |
+| `bbb_diag button`             | Đọc trạng thái bấm/nhả của nút bấm vật lý S2 (GPIO2_8 / Pin 72) theo thời gian thực.         |
+| `gpioinfo`                    | Liệt kê toàn bộ các chân GPIO của chip, tên đường mạch và trạng thái Input/Output.           |
+| `gpioget <gpiochip> <line>`   | Đọc mức logic 0 hoặc 1 của một chân GPIO bất kỳ trên Header P8/P9.                           |
+| `gpioset <gpiochip> <line>=1` | Xuất mức logic HIGH (3.3V) ra chân GPIO được chỉ định.                                       |
+| `i2cdetect -y -r 0`           | Quét toàn bộ các thiết bị gắn trên bus I2C0 (chip quản lý nguồn PMIC `0x24`, EEPROM `0x50`). |
+| `i2cdetect -y -r 2`           | Quét bus I2C2 trên Header P9 (chân P9_19 và P9_20).                                          |
 
 #### C. Các công cụ gỡ lỗi & Phân tích chuyên sâu
-| Lệnh | Chức năng thực tế |
-| :--- | :--- |
-| `devmem2 0x44e10600` | Đọc trực tiếp giá trị thanh ghi vật lý 32-bit từ không gian người dùng. |
-| `strace -c ls` | Chạy lệnh `ls` và thống kê toàn bộ các System Calls được gọi (open, read, write) kèm thời gian tiêu tốn. |
-| `gdbserver :2345 ./my-app` | Mở máy chủ debug lắng nghe tại cổng 2345 để máy tính kết nối GDB từ xa qua mạng LAN. |
-| `trace-cmd record -p function_graph sleep 1` | Bật bộ theo dõi Ftrace, vẽ lại cây gọi hàm thực thi của Linux Kernel trong 1 giây. |
-| `trace-cmd report \| head -n 30` | Xuất báo cáo thời gian thực thi của từng hàm kernel theo đơn vị microsecond. |
-| `cat /proc/bbb_mmio` | Kiểm tra trạng thái ánh xạ thanh ghi MMIO từ Driver Kernel Module `bbb_mmio_kmod`. |
+| Lệnh                                         | Chức năng thực tế                                                                                        |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| `devmem2 0x44e10600`                         | Đọc trực tiếp giá trị thanh ghi vật lý 32-bit từ không gian người dùng.                                  |
+| `strace -c ls`                               | Chạy lệnh `ls` và thống kê toàn bộ các System Calls được gọi (open, read, write) kèm thời gian tiêu tốn. |
+| `gdbserver :2345 ./my-app`                   | Mở máy chủ debug lắng nghe tại cổng 2345 để máy tính kết nối GDB từ xa qua mạng LAN.                     |
+| `trace-cmd record -p function_graph sleep 1` | Bật bộ theo dõi Ftrace, vẽ lại cây gọi hàm thực thi của Linux Kernel trong 1 giây.                       |
+| `trace-cmd report \| head -n 30`             | Xuất báo cáo thời gian thực thi của từng hàm kernel theo đơn vị microsecond.                             |
+| `cat /proc/bbb_mmio`                         | Kiểm tra trạng thái ánh xạ thanh ghi MMIO từ Driver Kernel Module `bbb_mmio_kmod`.                       |
 
 ---
 

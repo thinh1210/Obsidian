@@ -65,7 +65,7 @@ graph TD
 
 ---
 
-## 🐧 PHẦN II: YOCTO PROJECT & CUSTOM EMBEDDED LINUX DISTRIBUTION (CHƯƠNG 11 – 16, 29, 30)
+## 🐧 PHẦN II: YOCTO PROJECT & CUSTOM EMBEDDED LINUX DISTRIBUTION (CHƯƠNG 11 – 16, 29 – 31)
 
 | Chương | Tên Chuyên Đề | Nội dung chính & Kỹ năng đạt được |
 | :---: | :--- | :--- |
@@ -77,6 +77,7 @@ graph TD
 | **16** | [Chương 16 (Yocto 6): Tạo Custom Layer, Viết Recipe C & Custom Image](./docs/16_Yocto_Tao_Custom_Layer_Viet_Recipe_Va_Custom_Image.md) | Sử dụng `bitbake-layers create-layer` và `add-layer`; Viết mã nguồn C (`main.c`, `Makefile`) và đóng gói thành `my-app_1.0.bb`; Hướng dẫn thực chiến tùy biến `my-custom-image` và `my-iot-image`: vị trí file, thêm gói `IMAGE_INSTALL`, bật tính năng `IMAGE_FEATURES`, tăng dung lượng đĩa `IMAGE_ROOTFS_EXTRA_SPACE`, tạo user/mật khẩu, và chạy script post-process. |
 | **29** | [Chương 29 (Yocto 7): Đóng Gói DEB (.deb) & Nhúng Vào RootFS Image](./docs/29_Yocto_Huong_Dan_Dong_Goi_DEB_Va_Chen_File_Deb_Vao_RootFS.md) | Giải phẫu file `.deb` (`ar` archive: `control.tar`, `data.tar`); Tự build `.deb` từ mã nguồn với `dpkg-deb`; Viết recipe `bin_package` để nhúng file `.deb` vào Yocto rootfs (`INSANE_SKIP`, `update-rc.d`, `systemd`); Cấu hình `PACKAGE_CLASSES = "package_deb"` và triển khai APT Package Feed OTA server. |
 | **30** | [Chương 30 (Yocto 8): Tổng Hợp Lỗi, Lưu Ý Sống Còn & Cẩm Nang Debug BBB](./docs/30_Yocto_Tong_Hop_Loi_Luu_Y_Va_Cam_Nang_Debug_BeagleBone_Black.md) | Tổng hợp lỗi 5 tầng kiến trúc (UART im lặng, chuỗi CCCC, Data Abort, earlycon, Panic); Cảnh báo điện áp sống còn (GPIO 3.3V, ADC 1.8V); Nguyên lý nút S2 BOOT; Quy tắc tách workspace; Cẩm nang sử dụng bản build `bbb-debug-image` (Bash, Nano, Htop, GDB, Ftrace, Libgpiod, bbb_diag). |
+| **31** | [Chương 31 (Yocto 9): Build Image & Remote Debug BeagleBone Bằng VS Code](./docs/31_Huong_Dan_Build_Image_Va_Debug_BeagleBone_Bang_VSCode.md) | Kiến trúc Remote Debugging (Host VS Code + GDB vs Target gdbserver); Tích hợp `gdbserver`, `dropbear`, `debug-tweaks` vào `bbb-debug-image.bb`; Khắc phục lỗi `libpython3.12`/`libtinfo.so.5` với wrapper; Cấu hình 1-Click Debug qua SSH Pipe Transport trong `.vscode/launch.json` & `tasks.json`; Debug Kernel & Driver qua KGDB Serial `/dev/ttyUSB0`; Dự án mẫu C hoàn chỉnh (`07_vscode_remote_debugging`). |
 
 ---
 
@@ -113,6 +114,7 @@ graph TD
 | **04. Linux Kernel Module** | [`bbb_mmio_kmod.c`](./code_examples/04_linux_kernel_module_mmio/bbb_mmio_kmod.c) & [`Makefile`](./code_examples/04_linux_kernel_module_mmio/Makefile) | Driver nhân Linux ánh xạ `CONTROL_MODULE` (`0x44E10000`) và `GPIO1` (`0x4804C000`) qua `ioremap()`, tạo giao diện `/proc/bbb_mmio` điều khiển trực tiếp từ UART. |
 | **05. PRU Real-Time (5ns)** | [`pru0_firmware.c`](./code_examples/05_pru_realtime_rpmsg/pru0_firmware.c) & [`pru_host_uart_test.sh`](./code_examples/05_pru_realtime_rpmsg/pru_host_uart_test.sh) | Firmware C cho nhân RISC PRU0 200MHz định thời chính xác bằng `__delay_cycles()` và truyền tin qua `/dev/rpmsg_pru30`. |
 | **06. SD Card Flasher** | [`prepare_bbb_sdcard.sh`](./code_examples/06_sdcard_flasher_and_uart_scripts/prepare_bbb_sdcard.sh) | Kịch bản tự động phân vùng thẻ nhớ MBR (FAT32 + EXT4) và sao chép `MLO` đầu tiên theo quy chuẩn ROM Code AM335x. |
+| **07. VS Code Remote Debug** | [Dự án mẫu 07_vscode_remote_debugging](./code_examples/07_vscode_remote_debugging/) | Toàn bộ mã C (`hello_debug.c`), `Makefile`, cấu hình `.vscode` (`launch.json`, `tasks.json`, `c_cpp_properties.json`), và script wrapper kích hoạt 1-Click Remote Debugging trên BeagleBone Black qua SSH. |
 
 ---
 

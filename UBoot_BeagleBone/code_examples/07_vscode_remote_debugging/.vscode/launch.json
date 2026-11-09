@@ -1,0 +1,110 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "1. [1-Click Auto] Debug C/C++ on BeagleBone (SSH Pipe)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/hello_debug",
+            "args": ["5"],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "${workspaceFolder}/scripts/arm-gdb-wrapper.sh",
+            "preLaunchTask": "Build & Deploy to BeagleBone",
+            "pipeTransport": {
+                "pipeCwd": "${workspaceFolder}",
+                "pipeProgram": "/usr/bin/ssh",
+                "pipeArgs": [
+                    "-o", "StrictHostKeyChecking=no",
+                    "root@192.168.7.2"
+                ],
+                "debuggerPath": "gdbserver --once - /home/root/hello_debug"
+            },
+            "sourceFileMap": {
+                "/home/root": "${workspaceFolder}",
+                "/usr/src/debug": "${workspaceFolder}"
+            },
+            "setupCommands": [
+                {
+                    "description": "Bật hiển thị biến dạng Pretty Printing cho GDB",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Tắt phân trang GDB",
+                    "text": "set pagination off",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Cấu hình đường dẫn Sysroot để nạp symbol thư viện liên kết động",
+                    "text": "set solib-search-path /home/thinh/yocto-bbb/build/tmp/work/cortexa8hf-neon-poky-linux-gnueabi/my-app/1.0/recipe-sysroot/lib:/home/thinh/yocto-bbb/build/tmp/work/cortexa8hf-neon-poky-linux-gnueabi/my-app/1.0/recipe-sysroot/usr/lib",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "name": "2. [Manual TCP] Debug C/C++ on BeagleBone (:2345)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/hello_debug",
+            "args": [],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "${workspaceFolder}/scripts/arm-gdb-wrapper.sh",
+            "miDebuggerServerAddress": "192.168.7.2:2345",
+            "sourceFileMap": {
+                "/home/root": "${workspaceFolder}",
+                "/usr/src/debug": "${workspaceFolder}"
+            },
+            "setupCommands": [
+                {
+                    "description": "Bật pretty-printing",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Tắt pagination",
+                    "text": "set pagination off",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Cấu hình thư viện chia sẻ solib-search-path",
+                    "text": "set solib-search-path /home/thinh/yocto-bbb/build/tmp/work/cortexa8hf-neon-poky-linux-gnueabi/my-app/1.0/recipe-sysroot/lib:/home/thinh/yocto-bbb/build/tmp/work/cortexa8hf-neon-poky-linux-gnueabi/my-app/1.0/recipe-sysroot/usr/lib",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "name": "3. [Linux Kernel] Debug Kernel vmlinux via KGDB Serial (/dev/ttyUSB0)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/thinh/yocto-bbb/build/tmp/work/beaglebone_yocto-poky-linux-gnueabi/linux-yocto/6.6.21+git/linux-beaglebone_yocto-standard-build/vmlinux",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "${workspaceFolder}/scripts/arm-gdb-wrapper.sh",
+            "miDebuggerServerAddress": "/dev/ttyUSB0",
+            "setupCommands": [
+                {
+                    "description": "Thiết lập tốc độ baud rate cho cổng Serial KGDB",
+                    "text": "set serial baud 115200",
+                    "ignoreFailures": false
+                },
+                {
+                    "description": "Cấu hình Remote timeout",
+                    "text": "set remotetimeout 10",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
