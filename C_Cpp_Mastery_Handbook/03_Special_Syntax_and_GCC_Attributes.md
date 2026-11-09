@@ -23,30 +23,20 @@ Trình biên dịch GCC và Clang cung cấp cơ chế gán siêu dữ liệu (M
 *(Lưu ý: Từ C23 và C++11, cú pháp này được chuẩn hóa thành `[[attribute]]`).*
 
 ```mermaid
-mindmap
-  root((Compiler Attributes))
-    Cấu Trúc & Bộ Nhớ
-      packed Ép bỏ padding
-      aligned Căn chỉnh biên n-byte
-      section Đẩy vào Flash/RAM/DMA
-    Linker & Điều Phối
-      weak Ký hiệu yếu ghi đè được
-      alias Đặt bí danh cho hàm
-      used Ngăn Linker xóa GC
-      visibility Quản lý export DLL/SO
-    Thực Thi Cấp Thấp
-      naked Tắt prologue/epilogue cho RTOS
-      interrupt Khai báo ngắt phần cứng
-      always_inline vs noinline
-      noreturn Báo hàm không trở về
-    Vòng Đời & RAII Thuần C
-      constructor Chạy trước main
-      destructor Chạy sau main
-      cleanup Tự dọn dẹp khi ra khỏi Scope
-    Chẩn Đoán Biên Dịch
-      format printf Kiểm tra format string
-      warn_unused_result Bắt buộc check return
-      deprecated Cảnh báo hàm lỗi thời
+graph TD
+    Root["GCC / Clang Compiler Attributes"]
+
+    Root --> G1["1. Cấu Trúc & Bộ Nhớ"]
+    Root --> G2["2. Linker & Điều Phối Symbol"]
+    Root --> G3["3. Thực Thi Cấp Thấp & RTOS"]
+    Root --> G4["4. Vòng Đời & RAII Thuần C"]
+    Root --> G5["5. Chẩn Đoán Biên Dịch"]
+
+    G1 --> G1_D["• packed: Ép bỏ padding<br/>• aligned(N): Căn chỉnh biên n-byte<br/>• section: Đẩy vào Flash / RAM / DMA"]
+    G2 --> G2_D["• weak: Ký hiệu yếu ghi đè được<br/>• alias: Đặt bí danh cho hàm<br/>• used: Ngăn Linker xóa GC<br/>• visibility: Quản lý export DLL/SO"]
+    G3 --> G3_D["• naked: Tắt prologue/epilogue cho RTOS<br/>• interrupt: Khai báo ngắt phần cứng<br/>• always_inline / noinline / noreturn"]
+    G4 --> G4_D["• constructor: Chạy trước main()<br/>• destructor: Chạy sau main()<br/>• cleanup: Tự dọn dẹp khi ra khỏi Scope"]
+    G5 --> G5_D["• format(printf): Kiểm tra format string<br/>• warn_unused_result / nodiscard<br/>• deprecated: Cảnh báo hàm lỗi thời"]
 ```
 
 ---

@@ -12,13 +12,13 @@ Nhiều lập trình viên mới bắt đầu thường nghĩ bộ nhớ RAM là
 
 ```mermaid
 graph TD
-    subgraph Memory_Bank ["Bộ Nhớ RAM Chia Thành Các Bank 4-Byte"]
+    subgraph Memory_Bank["Bộ Nhớ RAM Chia Thành Các Bank 4-Byte"]
         Word0["Bank 0 (Địa chỉ: 0x00, 0x01, 0x02, 0x03)"]
         Word1["Bank 1 (Địa chỉ: 0x04, 0x05, 0x06, 0x07)"]
     end
     
-    CPU[CPU 32-bit] -->|1 chu kỳ Bus đọc trọn vẹn 4-byte| Word0
-    CPU -.->|Đọc biến unaligned nằm vắt ngang 0x02..0x05: Mất 2 chu kỳ đọc + dịch bit OR| CPU_Trap[Chậm hoặc Ném Lỗi HardFault!]
+    CPU["CPU 32-bit"] -- "1 chu kỳ Bus đọc trọn vẹn 4-byte" --> Word0
+    CPU -. "Đọc biến unaligned vắt ngang 0x02..0x05: Mất 2 chu kỳ hoặc lỗi" .-> CPU_Trap["Chậm hoặc Ném Lỗi HardFault!"]
 ```
 
 > **Quy tắc căn chỉnh tự nhiên (Natural Alignment Rule):**
@@ -94,7 +94,7 @@ Trong lập trình hướng đối tượng bằng C hoặc cấu trúc dữ li�
 ```
 ```mermaid
 graph LR
-    P_Member["Con trỏ thành viên: ptr = &dev->list_node"] -->|Trừ đi offsetof(Device, list_node)| P_Struct["Con trỏ gốc: struct Device *dev"]
+    P_Member["Con trỏ thành viên: ptr = &dev->list_node"] -- "Trừ đi offsetof(Device, list_node)" --> P_Struct["Con trỏ gốc: struct Device *dev"]
 ```
 - **Ứng dụng:** Cho phép nhúng một `struct list_head` vào bất kỳ đối tượng nào (Driver, Timer, Network Socket) mà không cần cấp phát thêm node trung gian.
 
@@ -198,13 +198,13 @@ struct __attribute__((__packed__)) sdshdr8 {
 
 ```mermaid
 graph LR
-    subgraph Kontiguos_Memory ["Một Vùng Nhớ RAM Liền Mạch Duy Nhất (Single Malloc)"]
-        H1["len (1B)"] --- H2["alloc (1B)"] --- H3["flags (1B)"] --- D0["'H' (buf[0])"] --- D1["'e'"] --- D2["'l'"] --- D3["'l'"] --- D4["'o'"] --- D5["'\0'"]
+    subgraph Contiguous_Memory["Một Vùng Nhớ RAM Liền Mạch Duy Nhất (Single Malloc)"]
+        H1["len (1B)"] --- H2["alloc (1B)"] --- H3["flags (1B)"] --- D0["'H' (buf 0)"] --- D1["'e'"] --- D2["'l'"] --- D3["'l'"] --- D4["'o'"] --- D5["NULL (0x00)"]
     end
 
     UserPtr["Con trỏ s (Đưa cho lập trình viên)"] --> D0
-    FlagsPtr["Truy cập s[-1]"] -.-> H3
-    HeaderPtr["(char*)s - sizeof(struct sdshdr8)"] -.-> H1
+    FlagsPtr["Truy cập s - 1"] -.-> H3
+    HeaderPtr["s - sizeof(struct sdshdr8)"] -.-> H1
 ```
 
 #### Tại sao bắt buộc phải dùng `__attribute__((__packed__))`?

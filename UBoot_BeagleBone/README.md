@@ -65,7 +65,7 @@ graph TD
 
 ---
 
-## 🐧 PHẦN II: YOCTO PROJECT & CUSTOM EMBEDDED LINUX DISTRIBUTION (CHƯƠNG 11 – 16, 29)
+## 🐧 PHẦN II: YOCTO PROJECT & CUSTOM EMBEDDED LINUX DISTRIBUTION (CHƯƠNG 11 – 16, 29, 30)
 
 | Chương | Tên Chuyên Đề | Nội dung chính & Kỹ năng đạt được |
 | :---: | :--- | :--- |
@@ -76,6 +76,7 @@ graph TD
 | **15** | [Chương 15 (Yocto 5): Thực Hành Build Image & Chạy Mô Phỏng QEMU](./docs/15_Yocto_Thuc_Hanh_Step_By_Step_Build_Image_Va_Emulation.md) | Cài đặt gói phụ thuộc trên Ubuntu; Clone Poky LTS **Scarthgap 5.0**; Khởi tạo `oe-init-build-env`; Cấu hình và build `core-image-minimal`; Chạy mô phỏng máy ảo bằng `runqemu`; Hướng dẫn build cho bo mạch thật BeagleBone Black (`MACHINE = "beaglebone-yocto"`), nạp file `.wic` vào thẻ nhớ MicroSD. |
 | **16** | [Chương 16 (Yocto 6): Tạo Custom Layer, Viết Recipe C & Custom Image](./docs/16_Yocto_Tao_Custom_Layer_Viet_Recipe_Va_Custom_Image.md) | Sử dụng `bitbake-layers create-layer` và `add-layer`; Viết mã nguồn C (`main.c`, `Makefile`) và đóng gói thành `my-app_1.0.bb`; Hướng dẫn thực chiến tùy biến `my-custom-image` và `my-iot-image`: vị trí file, thêm gói `IMAGE_INSTALL`, bật tính năng `IMAGE_FEATURES`, tăng dung lượng đĩa `IMAGE_ROOTFS_EXTRA_SPACE`, tạo user/mật khẩu, và chạy script post-process. |
 | **29** | [Chương 29 (Yocto 7): Đóng Gói DEB (.deb) & Nhúng Vào RootFS Image](./docs/29_Yocto_Huong_Dan_Dong_Goi_DEB_Va_Chen_File_Deb_Vao_RootFS.md) | Giải phẫu file `.deb` (`ar` archive: `control.tar`, `data.tar`); Tự build `.deb` từ mã nguồn với `dpkg-deb`; Viết recipe `bin_package` để nhúng file `.deb` vào Yocto rootfs (`INSANE_SKIP`, `update-rc.d`, `systemd`); Cấu hình `PACKAGE_CLASSES = "package_deb"` và triển khai APT Package Feed OTA server. |
+| **30** | [Chương 30 (Yocto 8): Tổng Hợp Lỗi, Lưu Ý Sống Còn & Cẩm Nang Debug BBB](./docs/30_Yocto_Tong_Hop_Loi_Luu_Y_Va_Cam_Nang_Debug_BeagleBone_Black.md) | Tổng hợp lỗi 5 tầng kiến trúc (UART im lặng, chuỗi CCCC, Data Abort, earlycon, Panic); Cảnh báo điện áp sống còn (GPIO 3.3V, ADC 1.8V); Nguyên lý nút S2 BOOT; Quy tắc tách workspace; Cẩm nang sử dụng bản build `bbb-debug-image` (Bash, Nano, Htop, GDB, Ftrace, Libgpiod, bbb_diag). |
 
 ---
 

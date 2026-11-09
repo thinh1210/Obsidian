@@ -16,17 +16,17 @@ Mỗi biến trong C/C++ được xác định bởi hai thuộc tính cốt lõ
 
 ```mermaid
 graph TD
-    A[Biến trong C] --> B[Thời gian sống: Storage Duration]
-    A --> C[Liên kết Linker: Linkage]
+    A["Biến trong C"] --> B["Thời gian sống: Storage Duration"]
+    A --> C["Liên kết Linker: Linkage"]
     
-    B --> B1[Automatic: Vùng Stack]
-    B --> B2[Static: Vùng .data / .bss]
-    B --> B3[Allocated: Vùng Heap]
-    B --> B4[Thread: TLS]
+    B --> B1["Automatic: Vùng Stack"]
+    B --> B2["Static: Vùng .data / .bss"]
+    B --> B3["Allocated: Vùng Heap"]
+    B --> B4["Thread: TLS"]
     
-    C --> C1[No Linkage: Biến cục bộ]
-    C --> C2[Internal Linkage: Từ khóa static toàn cục]
-    C --> C3[External Linkage: Biến toàn cục / extern]
+    C --> C1["No Linkage: Biến cục bộ"]
+    C --> C2["Internal Linkage: Từ khóa static toàn cục"]
+    C --> C3["External Linkage: Biến toàn cục / extern"]
 ```
 
 ---
@@ -254,10 +254,10 @@ Thay vì biến biến thành `volatile` vĩnh viễn, Linux Kernel giữ nguyê
 
 ```mermaid
 graph TD
-    Bug[Cạm Bẫy Compiler Không Dùng READ_ONCE/WRITE_ONCE] --> B1[Load Tearing: Compiler chia 1 lần đọc 32-bit thành 2 lần đọc 16-bit]
-    Bug --> B2[Store Tearing: Compiler chia 1 lần ghi thành nhiều lần ghi lẻ]
-    Bug --> B3[Invented Writes: Compiler tự ghi giá trị tạm thời rồi ghi lại]
-    Bug --> B4[Loop Invariant Hoisting: Nhấc việc đọc cờ ra ngoài vòng lặp]
+    Bug["Cạm Bẫy Compiler Không Dùng READ_ONCE / WRITE_ONCE"] --> B1["Load Tearing: Compiler chia 1 lần đọc 32-bit thành 2 lần đọc 16-bit"]
+    Bug --> B2["Store Tearing: Compiler chia 1 lần ghi thành nhiều lần ghi lẻ"]
+    Bug --> B3["Invented Writes: Compiler tự ghi giá trị tạm thời rồi ghi lại"]
+    Bug --> B4["Loop Invariant Hoisting: Nhấc việc đọc cờ ra ngoài vòng lặp"]
 ```
 
 1. **Ngăn chặn Load / Store Tearing:**

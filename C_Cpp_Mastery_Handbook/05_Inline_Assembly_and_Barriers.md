@@ -24,10 +24,10 @@ __asm__ __volatile__ (
 
 ```mermaid
 flowchart LR
-    C_Input[Biến C đầu vào] -->|Input Constraints 'r', 'm', 'i'| CPU_Regs[Thanh ghi CPU R0-R12]
-    CPU_Regs -->|Thực thi lệnh Assembly| ASM_Exec[Tập lệnh Hợp ngữ]
-    ASM_Exec -->|Output Constraints '=r', '+r'| C_Output[Biến C đầu ra]
-    ASM_Exec -. Báo cho Compiler .-> Clobber[Clobber List: 'memory', 'cc', 'r0']
+    C_Input["Biến C đầu vào"] -- "Input Constraints: r, m, i" --> CPU_Regs["Thanh ghi CPU R0-R12"]
+    CPU_Regs -- "Thực thi lệnh Assembly" --> ASM_Exec["Tập lệnh Hợp ngữ"]
+    ASM_Exec -- "Output Constraints: =r, +r" --> C_Output["Biến C đầu ra"]
+    ASM_Exec -. "Báo cho Compiler" .-> Clobber["Clobber List: memory, cc, r0"]
 ```
 
 ---
@@ -64,15 +64,15 @@ Clobber list báo cho compiler biết những tài nguyên nào đã bị đoạ
 
 ```mermaid
 graph TD
-    Barrier[Rào Chắn Bộ Nhớ - Memory Barriers] --> CB[Compiler Barrier - Phần mềm]
-    Barrier --> HB[Hardware Memory Barrier - Phần cứng]
+    Barrier["Rào Chắn Bộ Nhớ - Memory Barriers"] --> CB["Compiler Barrier - Phần mềm"]
+    Barrier --> HB["Hardware Memory Barrier - Phần cứng"]
     
-    CB --> CB_Desc[Ngăn Compiler đảo thứ tự lệnh lúc biên dịch<br/>Chi phí thực thi: 0 chu kỳ máy]
-    HB --> HB_Desc[Ngăn CPU đảo thứ tự truy cập Bus/Cache lúc chạy<br/>Chi phí: Mất từ vài đến hàng chục chu kỳ máy]
+    CB --> CB_Desc["Ngăn Compiler đảo thứ tự lệnh lúc biên dịch<br/>Chi phí thực thi: 0 chu kỳ máy"]
+    HB --> HB_Desc["Ngăn CPU đảo thứ tự truy cập Bus/Cache lúc chạy<br/>Chi phí: Mất từ vài đến hàng chục chu kỳ máy"]
     
-    HB --> DMB[DMB: Data Memory Barrier]
-    HB --> DSB[DSB: Data Synchronization Barrier]
-    HB --> ISB[ISB: Instruction Synchronization Barrier]
+    HB --> DMB["DMB: Data Memory Barrier"]
+    HB --> DSB["DSB: Data Synchronization Barrier"]
+    HB --> ISB["ISB: Instruction Synchronization Barrier"]
 ```
 
 ---

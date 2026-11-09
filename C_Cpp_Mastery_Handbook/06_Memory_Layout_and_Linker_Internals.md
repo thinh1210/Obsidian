@@ -11,13 +11,13 @@ Khi một chương trình C/C++ được biên dịch và nạp vào hệ thốn
 
 ```mermaid
 graph TD
-    subgraph FLASH_ROM ["Bộ Nhớ Bất Biến (Flash / ROM)"]
+    subgraph FLASH_ROM["Bộ Nhớ Bất Biến (Flash / ROM)"]
         TEXT[".text: Mã máy thực thi của các hàm"]
         RODATA[".rodata: Hằng số chuỗi, hằng số const"]
         INIT_DATA["Khởi tạo của .data (Lưu bản sao thô)"]
     end
 
-    subgraph RAM_SRAM ["Bộ Nhớ Tạm Thời (SRAM)"]
+    subgraph RAM_SRAM["Bộ Nhớ Tạm Thời (SRAM)"]
         DATA[".data: Biến toàn cục / static CÓ khởi tạo giá trị khác 0"]
         BSS[".bss: Biến toàn cục / static KHÔNG khởi tạo hoặc = 0"]
         HEAP["Heap: Cấp phát động (malloc / new) -> Tăng dần lên cao"]
@@ -25,7 +25,7 @@ graph TD
         STACK["Stack: Biến cục bộ, địa chỉ trả về -> Giảm dần xuống thấp"]
     end
 
-    INIT_DATA -. Startup Code Copy .-> DATA
+    INIT_DATA -. "Startup Code Copy" .-> DATA
 ```
 
 ---

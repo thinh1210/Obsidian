@@ -14,47 +14,26 @@
 ## 🗺️ Bản Đồ Tri Thức (Map of Content - MOC)
 
 ```mermaid
-mindmap
-  root((C/C++ Mastery Handbook))
-    1. Tiến Hóa Từ Khóa ANSI
-      C89 32 từ khóa
-      C99 Tính toán & Vectorization
-      C11 Đa luồng & Generic
-      C23 Hiện đại hóa nullptr & typeof
-      C vs C++ Điểm dị biệt
-    2. Storage Classes & Qualifiers
-      static vs extern & Linkage
-      volatile & Optimizer Barrier
-      restrict & Aliasing Promise
-      _Atomic & thread_local
-    3. Cú Pháp Đặc Biệt __...__
-      __attribute__ packed & aligned
-      __attribute__ weak & alias
-      __attribute__ section & naked
-      __attribute__ cleanup RAII thuần C
-      Predefined Macros
-    4. Compiler Intrinsics
-      __builtin_expect likely/unlikely
-      Bitwise clz ctz popcount bswap
-      __builtin_add_overflow
-      __builtin_trap & unreachable
-    5. Inline Assembly & Barriers
-      Extended ASM syntax
-      Compiler Memory Barrier
-      CPU Hardware Memory Barrier
-    6. Bản Đồ Bộ Nhớ & Linker
-      text rodata data bss stack heap
-      VMA vs LMA trong Vi điều khiển
-      Linker Script & Linker Symbols
-    7. Struct & Type Punning
-      Padding & Natural Alignment
-      Strict Aliasing Rule
-      Union vs Memcpy
-      Bus Faults trên ARM
-    8. Undefined Behavior & Safety
-      Integer Promotion cạm bẫy
-      Signed Overflow UB
-      MISRA C:2023 & SEI CERT C
+graph TD
+    Root["C/C++ Advanced Mastery Handbook"]
+
+    Root --> M1["1. Tiến Hóa Từ Khóa ANSI/ISO"]
+    Root --> M2["2. Storage Classes & Qualifiers"]
+    Root --> M3["3. Cú Pháp Đặc Biệt & Attributes"]
+    Root --> M4["4. Compiler Intrinsics"]
+    Root --> M5["5. Inline Assembly & Barriers"]
+    Root --> M6["6. Bản Đồ Bộ Nhớ & Linker"]
+    Root --> M7["7. Struct Padding & Type Punning"]
+    Root --> M8["8. Undefined Behavior & Safety"]
+
+    M1 --> M1_D["• C89 (32 từ khóa) -> C99 -> C11 -> C23<br/>• nullptr, typeof, _Generic, constexpr<br/>• Điểm dị biệt cốt tử giữa C và C++"]
+    M2 --> M2_D["• static, extern & Linkage<br/>• volatile & Optimizer Barrier<br/>• restrict, _Atomic, READ_ONCE/WRITE_ONCE"]
+    M3 --> M3_D["• __attribute__((packed, aligned, section))<br/>• weak, alias, naked, interrupt<br/>• cleanup (RAII thuần C kiểu systemd)"]
+    M4 --> M4_D["• __builtin_expect (likely / unlikely)<br/>• Bitwise: clz, ctz, popcount, bswap<br/>• __builtin_add_overflow (CERT C)"]
+    M5 --> M5_D["• Extended ASM syntax & Clobbers<br/>• Compiler Barrier (memory)<br/>• Hardware Barriers (DMB, DSB, ISB)"]
+    M6 --> M6_D["• .text, .rodata, .data, .bss, Stack, Heap<br/>• VMA vs LMA trong Vi điều khiển<br/>• Linker Script & Linker Symbols (&_sdata)"]
+    M7 --> M7_D["• Natural Alignment & Padding<br/>• offsetof, container_of & Redis SDS<br/>• Strict Aliasing Rule (Union vs Memcpy)"]
+    M8 --> M8_D["• Integer Promotion (-1 < 1U)<br/>• Signed Overflow UB & Sequence Points<br/>• Quy chuẩn MISRA C:2023 & SEI CERT C"]
 ```
 
 ---

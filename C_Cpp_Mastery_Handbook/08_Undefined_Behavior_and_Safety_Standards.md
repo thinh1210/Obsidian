@@ -11,13 +11,13 @@
 
 ```mermaid
 graph TD
-    Behavior[Các Cấp Độ Hành Vi Trong C] --> IDB[Implementation-Defined Behavior]
-    Behavior --> USB[Unspecified Behavior]
-    Behavior --> UB[Undefined Behavior - UB]
+    Behavior["Các Cấp Độ Hành Vi Trong C"] --> IDB["Implementation-Defined Behavior"]
+    Behavior --> USB["Unspecified Behavior"]
+    Behavior --> UB["Undefined Behavior (UB)"]
     
-    IDB --> IDB_Ex[Được Compiler tài liệu hóa rõ ràng<br/>Ví dụ: sizeof int, quy tắc dịch phải số âm]
-    USB --> USB_Ex[Chuẩn cho phép vài lựa chọn hợp lệ<br/>Ví dụ: Thứ tự đánh giá tham số hàm f a, b]
-    UB --> UB_Ex[HÀNH VI BẤT ĐỊNH TUYỆT ĐỐI<br/>Compiler giả định KHÔNG BAO GIỜ XẢY RA<br/>Gây lỗi tối ưu hóa xóa code, Crash]
+    IDB --> IDB_Ex["Được Compiler tài liệu hóa rõ ràng<br/>Ví dụ: sizeof(int), quy tắc dịch phải số âm"]
+    USB --> USB_Ex["Chuẩn cho phép vài lựa chọn hợp lệ<br/>Ví dụ: Thứ tự đánh giá tham số hàm f(a, b)"]
+    UB --> UB_Ex["HÀNH VI BẤT ĐỊNH TUYỆT ĐỐI<br/>Compiler giả định KHÔNG BAO GIỜ XẢY RA<br/>Gây lỗi tối ưu hóa xóa code, Crash"]
 ```
 
 1. **Implementation-Defined Behavior (Hành vi do trình biên dịch quy định):** Chuẩn C cho phép mỗi trình biên dịch tự chọn cách xử lý nhưng **bắt buộc phải ghi rõ trong tài liệu hướng dẫn**. (Ví dụ: `char` mặc định là có dấu hay không dấu; phép dịch phải số nguyên âm có giữ lại bit dấu hay không).
@@ -87,23 +87,11 @@ Luôn dùng `const char *str = "Hello World";` để compiler bắt lỗi ngay l
 Trong các ngành công nghiệp đòi hỏi an toàn tính mạng con người (Ô tô tự hành - ISO 26262, Hàng không vũ trụ - DO-178C, Thiết bị y tế - IEC 62304), mã nguồn C bắt buộc phải tuân thủ bộ quy chuẩn **MISRA C**.
 
 ```mermaid
-mindmap
-  root((MISRA C:2023 Core Rules))
-    Bộ Nhớ & Tài Nguyên
-      Cấm cấp phát động malloc/free sau khi khởi động
-      Cấm đệ quy Recursion hoàn toàn
-      Đoán định kích thước Stack tối đa
-    Kiểu Dữ Liệu & Phép Toán
-      Bắt buộc dùng stdint.h
-      Chỉ thao tác bitwise trên số Unsigned
-      Không so sánh khác dấu ngầm định
-    Cấu Trúc Lập Trình
-      Mọi switch-case bắt buộc có default
-      Mỗi hàm chỉ có 1 điểm return duy nhất Single Return
-      Cấm mã chết Dead Code không chạy tới
-    Con Trỏ & Mảng
-      Không ép kiểu con trỏ vi phạm Strict Aliasing
-      Không tính toán con trỏ vượt biên mảng
+graph TD
+    Root["MISRA C:2023 Core Rules"] --> Mem["1. Bộ Nhớ & Tài Nguyên<br/>• Cấm cấp phát động malloc/free sau khi khởi động<br/>• Cấm đệ quy (Recursion) hoàn toàn<br/>• Đoán định kích thước Stack tối đa"]
+    Root --> Type["2. Kiểu Dữ Liệu & Phép Toán<br/>• Bắt buộc dùng stdint.h (uint32_t, int16_t)<br/>• Chỉ thao tác bitwise trên số Unsigned<br/>• Không so sánh khác dấu ngầm định"]
+    Root --> Flow["3. Cấu Trúc Lập Trình<br/>• Mọi switch-case bắt buộc có default<br/>• Mỗi hàm chỉ có 1 điểm return duy nhất<br/>• Cấm mã chết (Dead Code) không chạy tới"]
+    Root --> Ptr["4. Con Trỏ & Mảng<br/>• Không ép kiểu con trỏ vi phạm Strict Aliasing<br/>• Không tính toán con trỏ vượt biên mảng"]
 ```
 
 ### 5 Quy Tắc Vàng Của MISRA C Bắt Buộc Phải Nhớ:

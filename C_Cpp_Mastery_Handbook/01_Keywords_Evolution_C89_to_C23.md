@@ -9,18 +9,11 @@
 Ngôn ngữ C luôn tuân thủ triết lý tối giản: *"Chỉ cung cấp những gì tối thiểu cần thiết để viết mã hiệu quả cấp hệ thống"*. Tuy nhiên, qua hơn 4 thập kỷ, bộ từ khóa đã được mở rộng để đáp ứng nhu cầu tính toán song song, tối ưu hóa phần cứng và an toàn bộ nhớ.
 
 ```mermaid
-timeline
-    title Tiến Hóa Bộ Từ Khóa Chuẩn C
-    1989 / 1990 : ANSI C (C89) / ISO C (C90)
-                : 32 Keywords nền tảng
-    1999 : C99 (ISO/IEC 9899:1999)
-         : Thêm 5 từ khóa (_Bool, _Complex, _Imaginary, inline, restrict)
-    2011 : C11 (ISO/IEC 9899:2011)
-         : Thêm 7 từ khóa (_Alignas, _Alignof, _Atomic, _Generic, _Noreturn, _Static_assert, _Thread_local)
-    2018 : C17 (C18)
-         : Sửa lỗi kỹ thuật, giữ nguyên từ khóa C11
-    2023 : C23 (ISO/IEC 9899:2024)
-         : Chuẩn hóa hiện đại: nullptr, typeof, typeof_unqual, constexpr, true, false, alignas, alignof, static_assert...
+flowchart LR
+    C89["1989 / 1990: ANSI C (C89/C90)<br/>• 32 Keywords nền tảng"] --> C99["1999: C99 (ISO 9899:1999)<br/>• Thêm 5 từ khóa:<br/>_Bool, _Complex, _Imaginary, inline, restrict"]
+    C99 --> C11["2011: C11 (ISO 9899:2011)<br/>• Thêm 7 từ khóa:<br/>_Alignas, _Alignof, _Atomic, _Generic,<br/>_Noreturn, _Static_assert, _Thread_local"]
+    C11 --> C17["2018: C17 / C18<br/>• Bản vá kỹ thuật<br/>• Giữ nguyên từ khóa C11"]
+    C17 --> C23["2023: C23 (ISO 9899:2024)<br/>• Chuẩn hóa hiện đại:<br/>nullptr, typeof, typeof_unqual, constexpr,<br/>bool, true, false, alignas, static_assert"]
 ```
 
 ---
@@ -118,15 +111,15 @@ Khi chuyển dịch từ C sang C++ trong các dự án nhúng hiện đại (Em
 
 ```mermaid
 graph TD
-    CPP[Từ Khóa Đặc Trưng C++] --> G1[1. Quản Lý OOP & Vòng Đời]
-    CPP --> G2[2. Bộ 4 Toán Tử Ép Kiểu An Toàn Casting]
-    CPP --> G3[3. Compile-time Metaprogramming]
-    CPP --> G4[4. Xử Lý Ngoại Lệ & Ngoại Quan]
+    CPP["Từ Khóa Đặc Trưng C++"] --> G1["1. Quản Lý OOP & Vòng Đời"]
+    CPP --> G2["2. Bộ 4 Toán Tử Ép Kiểu An Toàn Casting"]
+    CPP --> G3["3. Compile-time Metaprogramming"]
+    CPP --> G4["4. Xử Lý Ngoại Lệ & Ngoại Quan"]
 
-    G1 --> G1_Desc[class, public/private/protected<br/>virtual, override, final, friend, this]
-    G2 --> G2_Desc[static_cast, reinterpret_cast<br/>const_cast, dynamic_cast]
-    G3 --> G3_Desc[constexpr, consteval, constinit<br/>concept, requires]
-    G4 --> G4_Desc[noexcept, explicit, mutable]
+    G1 --> G1_Desc["class, public/private/protected<br/>virtual, override, final, friend, this"]
+    G2 --> G2_Desc["static_cast, reinterpret_cast<br/>const_cast, dynamic_cast"]
+    G3 --> G3_Desc["constexpr, consteval, constinit<br/>concept, requires"]
+    G4 --> G4_Desc["noexcept, explicit, mutable"]
 ```
 
 ---

@@ -58,14 +58,13 @@ int send_packet(uint8_t *buffer, size_t len) {
 Trong các bài toán viễn thông, nén dữ liệu, mã hóa và hệ điều hành thời gian thực (RTOS Scheduler), các thao tác tìm bit thường là nút thắt cổ chai hiệu năng nếu dùng vòng lặp `for`. GCC cung cấp các hàm nội tại ánh xạ trực tiếp về 1 lệnh Assembly của CPU:
 
 ```mermaid
-classDiagram
-    class BitIntrinsics {
-        +__builtin_clz(x) Đếm số bit 0 ở đầu (Leading Zeros)
-        +__builtin_ctz(x) Đếm số bit 0 ở cuối (Trailing Zeros)
-        +__builtin_popcount(x) Đếm tổng số bit 1 (Hamming Weight)
-        +__builtin_ffs(x) Tìm vị trí bit 1 đầu tiên (1-based index)
-        +__builtin_bswap32(x) Đảo ngược thứ tự Byte (Endian Swap)
-    }
+graph TD
+    Root["Bit Manipulation Intrinsics (1 Chu Kỳ CPU)"]
+    Root --> CLZ["__builtin_clz(x)<br/>Đếm số bit 0 ở đầu (Leading Zeros)"]
+    Root --> CTZ["__builtin_ctz(x)<br/>Đếm số bit 0 ở cuối (Trailing Zeros)"]
+    Root --> POP["__builtin_popcount(x)<br/>Đếm tổng số bit 1 (Hamming Weight)"]
+    Root --> FFS["__builtin_ffs(x)<br/>Tìm vị trí bit 1 đầu tiên (1-based index)"]
+    Root --> BSW["__builtin_bswap32(x)<br/>Đảo ngược thứ tự Byte (Endian Swap)"]
 ```
 
 ### 3.1. `__builtin_clz(x)` — Count Leading Zeros
