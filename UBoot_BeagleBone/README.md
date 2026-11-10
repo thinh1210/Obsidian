@@ -1,15 +1,15 @@
 # 🦴🐧 Giáo Trình Nghiên Cứu Toàn Diện: U-Boot, BeagleBone Black (TI AM335x), Yocto Project & Bootlin Linux Kernel (Mastery Edition)
 
-Bộ tài liệu này được biên soạn và hợp nhất chuyên sâu dành riêng cho việc **học tập, nghiên cứu và phát triển hệ thống nhúng Linux toàn diện (28 chương + 6 bộ code thực chiến)**:
+Bộ tài liệu này được biên soạn và hợp nhất chuyên sâu dành riêng cho việc **học tập, nghiên cứu và phát triển hệ thống nhúng Linux toàn diện (31 chương + 7 bộ code thực chiến)**:
 1. **Phần I (Chương 01 – 10)**: Kiến trúc bootloader **Das U-Boot**, vi xử lý **Texas Instruments AM335x** (Cortex-A8 + PRU-ICSS) và thực hành trực tiếp trên bo mạch **BeagleBone Black**.
-2. **Phần II (Chương 11 – 16)**: Hệ thống xây dựng bản phân phối **Yocto Project / Poky / BitBake** (Scarthgap 5.0 LTS).
+2. **Phần II (Chương 11 – 16, 29 – 31)**: Hệ thống xây dựng bản phân phối **Yocto Project / Poky / BitBake** (Scarthgap 5.0 LTS) và bộ công cụ chẩn đoán, **Remote Debugging** (GDB, GDBServer, VS Code).
 3. **Phần III (Chương 17 – 28)**: Kiến trúc **Linux Kernel & Device Driver Development** chuẩn hóa theo **446 slides khóa học chính thức của Bootlin** ([linux-kernel-slides.pdf](./linux-kernel-slides.pdf)).
 
-Tài liệu được thiết kế tương thích hoàn hảo với cơ chế liên kết ghi chú của **Obsidian**, tích hợp sơ đồ **Mermaid**, giải phẫu mã nguồn C/Device Tree, kho mã nguồn mẫu (`code_examples/`) và 18 bài thực hành **Hands-on Practical Labs**.
+Tài liệu được thiết kế tương thích hoàn hảo với cơ chế liên kết ghi chú của **Obsidian**, tích hợp sơ đồ **Mermaid**, giải phẫu mã nguồn C/Device Tree, kho mã nguồn mẫu (`code_examples/`) và 19 bài thực hành **Hands-on Practical Labs**.
 
 ---
 
-## 🗺️ LỘ TRÌNH HỌC TẬP TỔNG THỂ (28 CHƯƠNG TỪ A ĐẾN Z)
+## 🗺️ LỘ TRÌNH HỌC TẬP TỔNG THỂ (31 CHƯƠNG TỪ A ĐẾN Z)
 
 ```mermaid
 graph TD
@@ -20,19 +20,21 @@ graph TD
         Ch3 --> Ch4["Ch.04: uEnv.txt & CLI<br>(Từ điển lệnh U-Boot)"]
         Ch4 --> Ch5["Ch.05: Overlays & Gỡ Lỗi<br>(Capes, Troubleshooting)"]
         Ch5 --> Ch6["Ch.06: Lập Trình U-Boot<br>(U_BOOT_CMD, SPL LED)"]
-        Ch6 --> Ch7["Ch.07: Ứng Dụng Công Nghiệp<br>(PRU, CNC, Bela, AI-64)"]
-        Ch7 --> Ch8["Ch.08: Dự Án Maker & DIY<br>(Pi-hole, BeagleLogic)"]
-        Ch8 --> Ch9["Ch.09: Lab Thực Chiến P1<br>(Userspace C, EEPROM)"]
+        Ch6 --> Ch7["Ch.07-08: Hệ Sinh Thái & DIY<br>(PRU, CNC, Bela, Maker)"]
+        Ch7 --> Ch9["Ch.09: Lab Thực Chiến P1<br>(Userspace C, EEPROM)"]
         Ch9 --> Ch10["Ch.10: Lab Thực Chiến P2<br>(Kernel MMIO, Falcon, PRU)"]
     end
 
-    subgraph Part2["PHẦN II: YOCTO PROJECT & CUSTOM EMBEDDED LINUX (CHƯƠNG 11 - 16)"]
+    subgraph Part2["PHẦN II: YOCTO PROJECT & DEBUG DISTRIBUTION (CHƯƠNG 11 - 16, 29 - 31)"]
         direction LR
         Ch11["Ch.11: Kiến Trúc Yocto<br>(Poky, BitBake, Layers)"] --> Ch12["Ch.12: Cấu Hình Build<br>(local.conf, bblayers)"]
         Ch12 --> Ch13["Ch.13: Phân Loại Image<br>(minimal, base, .wks)"]
         Ch13 --> Ch14["Ch.14: BitBake Tasks<br>(fetch -> rootfs, sstate)"]
         Ch14 --> Ch15["Ch.15: Build & QEMU<br>(Emulation & WIC Flash)"]
         Ch15 --> Ch16["Ch.16: Custom Layer<br>(meta-myproject, Recipe)"]
+        Ch16 --> Ch29["Ch.29: Đóng Gói DEB<br>(bin_package, RootFS)"]
+        Ch29 --> Ch30["Ch.30: Tổng Hợp Lỗi & Cẩm Nang<br>(bbb-debug-image)"]
+        Ch30 --> Ch31["Ch.31: Remote Debugging<br>(GDB, GDBServer, VS Code)"]
     end
 
     subgraph Part3["PHẦN III: BOOTLIN LINUX KERNEL & DRIVER DEVELOPMENT (CHƯƠNG 17 - 28)"]

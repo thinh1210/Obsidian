@@ -20,25 +20,7 @@ Tìm hàng rào 6 chân đực ký hiệu **J1** nằm sát khe thẻ nhớ Micr
  │          GND           │──────────────►│ Chân 1 (●) : GND (Nối đất) │
  │                        │               │ Chân 2     : NC  (Bỏ trống)│
  │                        │               │ Chân 3     : NC  (Bỏ trống)│
- │          TXD           │────mindmap
-  ￼root((ỨNG DỤNG ĐỜI THƯỜNG<br>BEAGLEBONE BLACK))
-    ￼Home Lab & Network
-      Pi-hole / AdGuard :: Chặn quảng cáo gia đình
-      WireGuard VPN :: Truy cập mạng nội bộ từ xa
-      Mosquitto MQTT :: Trạm trung chuyển IoT
-      CUPS Print Server :: Chia sẻ máy in qua mạng
-    ￼Đo Kiểm & Thí Nghiệm
-      BeagleLogic :: Logic Analyzer 14 kênh 100MSPS
-      PulseView Decoder :: Giải mã I2C, SPI, UART
-      Signal Generator :: Phát xung chính xác cao qua PRU
-    ￼Smart Home & Nông Nghiệp
-      Home Assistant :: Trung tâm nhà thông minh
-      Trạm thời tiết :: BME280, cảm biến bụi PMS5003
-      Tưới cây thông minh :: Đọc 7 chân ADC đa chậu
-    ￼Đa Phương Tiện & Xe Hơi
-      Audiophile Streamer :: Xuất âm thanh I2S/DSD cực sạch
-      Internet Radio :: Phát nhạc mạng không quạt ồn
-      OBD-II Car Telemetry :: Đọc RPM, mã lỗi động cơ qua CAN──────────►│ Chân 4     : UART0_RX      │
+ │          TXD           │──────────────►│ Chân 4     : UART0_RX      │
  │          RXD           │◄──────────────│ Chân 5     : UART0_TX      │
  │      VCC (3.3V/5V)     │  (KHÔNG NỐI)  │ Chân 6     : NC  (Bỏ trống)│
  └────────────────────────┘               └────────────────────────────┘
