@@ -665,3 +665,55 @@ You should say:
 1. **Bước 1 (Level 1):** Làm chủ cách giới thiệu sở thích trong 30 giây: Tên sở thích ➡️ Tần suất ➡️ Người tham gia cùng ➡️ Cảm xúc đem lại.
 2. **Bước 2 (Level 2):** Luyện cấu trúc đối chiếu quá khứ - hiện tại: *"When I was younger, I used to... whereas nowadays I lean towards..."*
 3. **Bước 3 (Level 3):** Sử dụng các cụm từ tinh tế: *cathartic outlet, fleeting pockets of leisure, form of escapism, insatiable penchant for*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"Whenever I have a spare hour, I usually..."** | Cứ hễ có một tiếng rảnh rỗi là tôi thường... | Mở đầu câu trả lời Part 1 về sở thích cá nhân cực tự nhiên. | *"Whenever I have a spare hour, I put on my running shoes and go for a jog."* |
+| **"It's a great way to blow off steam after work."** | Đó là cách tuyệt vời để xả stress sau giờ làm. | Dùng để giải thích lý do yêu thích thể thao, chơi game, nghe nhạc. | *"Playing badminton twice a week is a great way to blow off steam after work."* |
+| **"I picked it up from a close friend back in college."** | Tôi học/lây sở thích này từ một người bạn thân hồi đại học. | Dùng khi kể nguồn gốc một sở thích trong Part 1 hoặc Part 2 (nhớ chia Quá khứ). | *"I didn't know anything about photography until I picked it up from my roommate."* |
+| **"I'm more of an indoor person, to be honest."** | Thú thật thì tôi thuộc tuýp người thích ở trong nhà hơn. | Phản xạ tự nhiên khi được hỏi về hoạt động cuối tuần/ngoài trời. | *"I'm more of an indoor person, so I'd rather read or watch a movie than go hiking."* |
+| **"It helps me take my mind off deadlines."** | Nó giúp tôi tạm quên đi mấy cái hạn chót công việc. | Dùng khi phân tích lợi ích tinh thần của sở thích (Part 1 & Part 3). | *"Cooking dinner while listening to music really helps me take my mind off deadlines."* |
+| **"I'd love to get back into it when I have more time."** | Tôi rất muốn chơi lại món đó khi có nhiều thời gian hơn. | Dùng khi nói về một sở thích cũ hồi nhỏ bạn đã bỏ dở. | *"I used to draw a lot as a kid, and I'd love to get back into sketching soon."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Làm quen/Part 1: *"What do you like doing in your free time?"***
+   * *Khi nào gặp:* Giao tiếp hằng ngày hoặc IELTS Speaking Part 1 (Hobbies / Free time).
+   * 🟢 **Trả lời ngắn (1 câu):** *"In my free time, I mostly enjoy working out and listening to podcasts."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Since I sit at a desk all day, I try to balance things out in my free time. Most evenings I hit the gym or go for a brisk walk to stay active, and before bed I unwind by watching tech videos or listening to music."*
+2. **Tình huống 2 — Hỏi về thay đổi sở thích: *"Did you have the same hobbies when you were a child?"***
+   * *Khi nào gặp:* Speaking Part 1 (nhớ dùng **used to** đối chiếu với **nowadays**).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Not really—back then I played video games constantly, whereas now I prefer outdoor sports."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"They've changed quite a bit over the years. When I was a kid, I used to spend hours reading comic books and playing online games, whereas nowadays I gravitate towards healthier activities like jogging and cooking."*
+3. **Tình huống 3 — Hỏi về sở thích muốn thử: *"Is there a new hobby you'd like to take up?"***
+   * *Khi nào gặp:* Speaking Part 1/Part 2 (Future ambitions).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I'd really love to take up swimming because it's great for my back and stamina."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"If I had more free time on weekdays, I'd definitely take up swimming or guitar. Both require patience, and swimming in particular would help relieve the neck stiffness I get from working on a laptop."*
+4. **Tình huống 4 — Hỏi quan điểm xã hội: *"Why is it important for adults to have a hobby?"***
+   * *Khi nào gặp:* Speaking Part 3 (Leisure & Work-life balance).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Having a hobby prevents burnout by giving adults a healthy break from work pressure."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I think having a hobby is essential for mental health because adult life is packed with financial and job responsibilities. Engaging in a relaxing pastime allows people to recharge their batteries and avoid chronic stress."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Sở thích vận động giúp giảm stress):**
+   * 🟢 *Câu ngắn (9 từ):* `Playing sports helps workers relax after busy days.`
+   * 🟡 *Câu vừa (18 từ):* `Playing team sports like badminton helps office workers blow off steam and stay physically fit after long hours.`
+   * 🔵 *Câu dài (30 từ):* `Participating in regular physical activities such as badminton or jogging not only improves cardiovascular stamina but also helps office workers blow off steam after sitting at a desk all day.`
+   * *Điểm ngữ pháp cần giữ sạch:* Chủ ngữ `Participating in...` số ít $\rightarrow$ `improves` và `helps`; sau `after` là `V-ing` (`sitting`).
+2. **Chuỗi 2 (Thú vui thụ động trên màn hình vs. thủ công):**
+   * 🟢 *Câu ngắn (9 từ):* `Many people spend their weekends watching online videos.`
+   * 🟡 *Câu vừa (17 từ):* `Instead of going outdoors, many people spend their weekends passively watching short videos on their phones.`
+   * 🔵 *Câu dài (30 từ):* `Although watching online videos is an effortless way to kill time on weekends, creative hobbies like gardening or cooking often bring far greater satisfaction and help people feel genuinely refreshed.`
+   * *Điểm ngữ pháp cần giữ sạch:* Chủ ngữ kép `creative hobbies` (số nhiều) đi với `bring` và `help`; cấu trúc `feel + Adj` (`feel genuinely refreshed`).
+3. **Chuỗi 3 (Thử sở thích mới hồi năm ngoái — Quá khứ đơn):**
+   * 🟢 *Câu ngắn (8 từ):* `Last year I started jogging in the park.`
+   * 🟡 *Câu vừa (18 từ):* `Last year I took up jogging in a nearby park because I wanted to build up my stamina.`
+   * 🔵 *Câu dài (29 từ):* `When I realized my lifestyle had become too sedentary last year, I decided to take up evening jogging, which gradually improved both my physical endurance and my sleep quality.`
+   * *Điểm ngữ pháp cần giữ sạch:* Quá khứ hoàn thành `had become` cho sự việc xảy ra trước thời điểm nhận ra (`realized`) trong quá khứ.

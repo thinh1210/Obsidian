@@ -755,3 +755,55 @@ You should say:
 3. **Giai đoạn 3 (Bứt phá Level 3 - 7.5+):**
    - Vận dụng ít nhất một mẫu câu nâng cao (câu chẻ *What appeals to me most...* hoặc đảo ngữ điều kiện *Were it not for...*).
    - Thay thế các từ nhàm chán bằng hệ thống từ C1: *swamped with work, steep learning curve, occupational burnout, lucrative compensation*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I'm currently working as a [Job] / majoring in [Major]."** | Hiện tôi đang làm nghề... / học chuyên ngành... | Câu mở đầu 1 giây chuẩn xác cho câu hỏi đầu tiên của mọi kỳ thi Speaking. | *"I'm currently working as an embedded software engineer in Ho Chi Minh City."* |
+| **"What I enjoy most about my field is the problem-solving aspect."** | Điều tôi thích nhất ở ngành mình là yếu tố giải quyết vấn đề. | Dùng ngay khi được hỏi *"Do you like your job/major?"* (Part 1). | *"What I enjoy most about my work is solving real-world hardware bugs."* |
+| **"My colleagues are super approachable and supportive."** | Đồng nghiệp của tôi cực kỳ dễ gần và hay giúp đỡ. | Dùng khi trả lời về môi trường làm việc hoặc mối quan hệ công sở (Part 1/2). | *"Even when deadlines are tight, my colleagues are always approachable and supportive."* |
+| **"There's definitely a steep learning curve at the beginning."** | Giai đoạn đầu chắc chắn đòi hỏi học hỏi rất gắt/nhanh. | Dùng khi kể về lúc mới đi làm, thực tập hoặc học kỹ năng mới (Part 2). | *"Switching to Linux kernel development had a steep learning curve, but it was worth it."* |
+| **"I get a huge sense of satisfaction when a project goes live."** | Tôi thấy cực kỳ mãn nguyện khi một dự án chạy thành công. | Dùng khi giải thích động lực làm việc/học tập (Part 1 & Part 3). | *"Debugging takes patience, yet I get a huge sense of satisfaction once the system works."* |
+| **"At the moment, I'm focusing on gaining hands-on experience."** | Hiện tại tôi đang tập trung tích lũy kinh nghiệm thực chiến. | Dùng khi nói về mục tiêu nghề nghiệp 1–2 năm tới (Part 1 Future plans). | *"Rather than chasing a master's degree right away, I'm focusing on hands-on experience."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Câu hỏi kinh điển mở đầu: *"Do you work or are you a student?"***
+   * *Khi nào gặp:* Câu hỏi bắt buộc đầu buổi IELTS Speaking Part 1 hoặc giới thiệu bản thân khi gặp người mới.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I'm working full-time in software development, and I've been doing it for about two years."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I'm currently working as a software developer focusing on embedded systems. My daily tasks mainly involve writing C/C++ code, testing hardware boards, and collaborating with teammates to fix bugs before release."*
+2. **Tình huống 2 — Hỏi về khó khăn thực tế: *"What is the hardest part of your work or studies?"***
+   * *Khi nào gặp:* Speaking Part 1 hoặc phỏng vấn xin việc.
+   * 🟢 **Trả lời ngắn (1 câu):** *"The toughest part is dealing with tight deadlines when unexpected technical errors happen."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"What challenges me most is handling tight deadlines whenever a hidden bug shows up at the last minute. It forces me to stay calm, analyze logs systematically, and sometimes work a bit of overtime."*
+3. **Tình huống 3 — Hỏi về làm việc nhóm vs. độc lập: *"Do you prefer working alone or in a team?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Work / Education).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I prefer a mix of both, though I focus better when coding alone."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"To be honest, it depends on the task. When I need deep concentration to write code or study English, working alone works best; however, brainstorming with a supportive team helps me spot blind spots much faster."*
+4. **Tình huống 4 — Hỏi về kế hoạch tương lai: *"Do you plan to change your job or major in the future?"***
+   * *Khi nào gặp:* Speaking Part 1 (Career plans).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Not in the near future, because I still have a lot to learn in my current role."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"For now, I'm happy staying in the tech field because there's always something new to pick up. Down the road, though, I'd love to move into a senior engineering role where I can mentor junior teammates."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Kinh nghiệm thực tế vs. lý thuyết đại học — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `University students need practical internships before they graduate.`
+   * 🟡 *Câu vừa (18 từ):* `University students should complete practical internships before graduating so that they gain valuable hands-on experience.`
+   * 🔵 *Câu dài (31 từ):* `Because traditional university curricula often focus heavily on academic theory, completing a practical internship allows undergraduates to acquire hands-on workplace skills and adapt smoothly to real-world job expectations.`
+   * *Điểm ngữ pháp cần giữ sạch:* Cụm danh động từ `completing a practical internship` làm chủ ngữ số ít đi với `allows`; cấu trúc `allow someone to V`.
+2. **Chuỗi 2 (Môi trường đồng nghiệp hỗ trợ nhau):**
+   * 🟢 *Câu ngắn (9 từ):* `Friendly colleagues make my daily job much easier.`
+   * 🟡 *Câu vừa (18 từ):* `Having supportive colleagues makes my daily job much more enjoyable, even when we face tight deadlines.`
+   * 🔵 *Câu dài (30 từ):* `Whenever our team faces demanding deadlines, working alongside supportive colleagues reduces workplace pressure and encourages open collaboration, which ultimately boosts both team morale and overall productivity.`
+   * *Điểm ngữ pháp cần giữ sạch:* `reduces ... and encourages ...` cùng chia số ít theo chủ ngữ `working alongside...`; `both A and B` cân bằng.
+3. **Chuỗi 3 (Làm việc từ xa / tự chủ — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Remote work saves employees much time every day.`
+   * 🟡 *Câu vừa (17 từ):* `Working remotely saves employees hours of daily commuting and offers them greater flexibility in their schedules.`
+   * 🔵 *Câu dài (31 từ):* `Although remote work eliminates daily commuting and grants employees greater autonomy over their schedules, strict self-discipline is still required to prevent professional isolation and maintain steady productivity.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `is still required`; không dùng `but` sau mệnh đề `Although`.

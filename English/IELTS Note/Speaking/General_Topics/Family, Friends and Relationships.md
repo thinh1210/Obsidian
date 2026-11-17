@@ -724,3 +724,55 @@ You should say:
 1. **Bước 1 (Level 1):** Luyện phản xạ giới thiệu gia đình trong 30 giây: Quy mô gia đình ➡️ Nghề nghiệp các thành viên ➡️ Một kỷ niệm chung.
 2. **Bước 2 (Level 2):** Dùng các cụm từ A.R.E: *close-knit, keep in touch, through thick and thin, generation gap, pillar of support*.
 3. **Bước 3 (Level 3):** Thuần thục các luận điểm biện luận xã hội: *filial piety, kindred spirit, social atomization, parasocial intimacy, intergenerational friction*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"We come from a pretty close-knit family."** | Chúng tôi xuất thân từ một gia đình khá gắn bó. | Câu mở bài Part 1 Family tự nhiên và ghi điểm ngay từ câu đầu. | *"We come from a pretty close-knit family, so we eat dinner together almost every night."* |
+| **"I take after my father/mother in terms of personality."** | Tôi giống bố/mẹ về mặt tính cách. | Cụm phrasal verb cực hay khi nói về sự giống nhau trong gia đình (Part 1). | *"People say I look like my mom, but I actually take after my dad in terms of patience."* |
+| **"Even though we're busy, we make time to stay in touch."** | Dù bận rộn, chúng tôi vẫn dành thời gian giữ liên lạc. | Dùng khi trả lời về bạn cũ thời phổ thông/đại học (Part 1 Friends). | *"My best friend moved to Hanoi, yet we still make time to keep in touch every week."* |
+| **"He/She has always been my go-to person for honest advice."** | Anh ấy/Cô ấy luôn là người đầu tiên tôi tìm đến xin lời khuyên. | Dùng cho Part 2 miêu tả người thân hoặc bạn thân (lưu ý chốt đúng **He/She**!). | *"Whenever I face a tough decision, my older sister is my go-to person for honest advice."* |
+| **"We clicked right away the first time we met."** | Chúng tôi hợp cạ nhau ngay từ lần đầu tiên gặp mặt. | Phản xạ kể về cách quen biết bạn thân ở Part 2 (Quá khứ đơn). | *"We sat next to each other in a lab class and clicked right away."* |
+| **"True friends stick by you through thick and thin."** | Bạn thật sự luôn ở bên bạn dù lúc thuận lợi hay khó khăn. | Dùng để định nghĩa tình bạn đẹp trong Part 1 hoặc Part 3. | *"You can have hundreds of online followers, but true friends stick by you through thick and thin."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi về gia đình: *"Do you spend much time with your family?"***
+   * *Khi nào gặp:* Speaking Part 1 (Family) hoặc trò chuyện đời sống hằng ngày.
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, I try to have dinner with my parents most evenings and chat about our day."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Yes, whenever I'm not working overtime, I make a point of eating dinner at home with my family. Even on hectic weeks, we gather on Sunday mornings to drink coffee and catch up with one another."*
+2. **Tình huống 2 — Hỏi về tình bạn: *"Do you prefer having a few close friends or a large group of friends?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Friendship).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I prefer having a small circle of close friends whom I can genuinely trust."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I'm definitely a quality-over-quantity person when it comes to friendship. Having lots of acquaintances is nice for networking, but I feel much more comfortable opening up to three or four close friends who truly understand me."*
+3. **Tình huống 3 — Hỏi về khoảng cách thế hệ: *"Do you always agree with your parents' opinions?"***
+   * *Khi nào gặp:* Speaking Part 1/Part 3 (nhớ kiểm tra đại từ **they/them** cho *parents*).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Not always—we sometimes disagree about career choices, though we respect each other."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"To be honest, we don't always see eye to eye on everything because of the generation gap. For example, they prefer safe, traditional jobs, while I like exploring new tech fields—still, we always talk things through calmly."*
+4. **Tình huống 4 — Hỏi về giữ liên lạc thời công nghệ: *"How do you usually keep in touch with friends?"***
+   * *Khi nào gặp:* Speaking Part 1 (Communication / Friends).
+   * 🟢 **Trả lời ngắn (1 câu):** *"We mostly text on Messenger during the week and meet up for coffee on weekends."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Most weekdays we just drop quick messages or share funny memes in our group chat. However, nothing beats meeting face-to-face over coffee on the weekend, because texting can never replace real conversation."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Bữa cơm gia đình kết nối các thế hệ):**
+   * 🟢 *Câu ngắn (9 từ):* `Eating dinner together helps family members feel closer.`
+   * 🟡 *Câu vừa (18 từ):* `Sharing regular meals together helps parents and children stay connected despite their busy daily schedules.`
+   * 🔵 *Câu dài (30 từ):* `Even when parents and children have busy schedules, sharing dinner together each evening gives everyone a chance to talk openly, which strengthens family bonds and narrows the generation gap.`
+   * *Điểm ngữ pháp cần giữ sạch:* Không dùng `but` sau `Even when`; `gives` và `strengthens` chia số ít theo cụm V-ing `sharing dinner together`.
+2. **Chuỗi 2 (Chọn bạn thân để chia sẻ):**
+   * 🟢 *Câu ngắn (9 từ):* `My best friend always listens when I feel stressed.`
+   * 🟡 *Câu vừa (17 từ):* `My best friend is a reliable listener who always supports me whenever I feel stressed about work.`
+   * 🔵 *Câu dài (31 từ):* `Although we met by chance during our first year of college, she has become my most trusted confidant because she listens patiently without judging me and always offers practical advice.`
+   * *Điểm ngữ pháp cần giữ sạch:* Giữ nhất quán đại từ `she` xuyên suốt câu (không nhảy sang `he` hay `they`); dùng `without + V-ing` (`without judging`).
+3. **Chuỗi 3 (Ảnh hưởng của mạng xã hội tới tình bạn — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Social media helps old friends stay in touch easily.`
+   * 🟡 *Câu vừa (18 từ):* `Social media helps distant friends keep in touch easily, yet online chats cannot replace face-to-face meetings.`
+   * 🔵 *Câu dài (31 từ):* `While social networking platforms allow people to keep in touch with friends across the globe, real emotional closeness still depends on spending quality time together and supporting one another in person.`
+   * *Điểm ngữ pháp cần giữ sạch:* Giới từ bắt buộc `depend on`; cấu trúc song song `spending ... and supporting ...`.

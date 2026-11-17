@@ -684,3 +684,55 @@ You should say:
 1. **Bước 1 (Làm chủ Level 1):** Thuộc lòng cách miêu tả 4 yếu tố nơi ở của mình: Loại hình (house/apartment) - Vị trí (district/floor) - Bố cục phòng (rooms) - Đánh giá cá nhân trong 40 giây.
 2. **Bước 2 (Nâng lên Level 2):** Sử dụng các tính từ miêu tả cảm giác: *spacious, compact, fully-furnished, airy, vibrant neighborhood*.
 3. **Bước 3 (Chạm mốc Level 3):** Ứng dụng cụm `personal sanctuary`, `minimalist aesthetic`, `acoustic insulation`, câu chẻ `What truly transforms this space into a home is...`.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I live in a [House/Flat] in a fairly quiet neighborhood."** | Tôi sống trong một ngôi nhà/căn hộ ở khu phố khá yên tĩnh. | Câu mở đầu Part 1 Home & Accommodation mượt mà trong 2 giây. | *"I live in a two-bedroom apartment in a fairly quiet neighborhood near a park."* |
+| **"What I love most about my place is how convenient it is."** | Điều tôi thích nhất ở chỗ ở hiện tại là sự tiện lợi. | Dùng khi được hỏi *"What do you like about your home?"* (Part 1). | *"What I love most about my place is that supermarkets and bus stops are right downstairs."* |
+| **"My room is quite compact, yet it feels cozy and practical."** | Phòng tôi khá nhỏ gọn, nhưng ấm cúng và tiện dụng. | Cách nói khéo để không bị chê nhà nhỏ là *small and boring* (Part 1 & 2). | *"Even though my bedroom is compact, warm lighting makes it feel cozy and practical."* |
+| **"It's within walking distance of local amenities."** | Chỗ đó đi bộ tới các tiện ích xung quanh được luôn. | Dùng khi mô tả vị trí căn hộ, quán cà phê, trường học (Part 1/2). | *"Our building is within walking distance of two grocery stores and a gym."* |
+| **"The only downside is the street noise during rush hour."** | Điểm trừ duy nhất là tiếng ồn ngoài đường giờ cao điểm. | Dùng khi muốn nêu nhược điểm tự nhiên của nơi ở mà vẫn giữ mạch tích cực. | *"Everything about the flat is great; the only downside is occasional construction noise."* |
+| **"I'd love to move somewhere with a spacious balcony one day."** | Một ngày nào đó tôi muốn chuyển tới nơi có ban công rộng rãi. | Dùng cho câu hỏi *"Would you like to move in the future?"* (Part 1). | *"Down the road, I'd love to live somewhere with a spacious balcony for growing plants."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Câu hỏi quen thuộc: *"Can you describe the place where you live?"***
+   * *Khi nào gặp:* IELTS Speaking Part 1 (Accommodation) hoặc giới thiệu chỗ ở với bạn bè mới.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I live in a bright apartment with my family in a convenient residential district."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I currently share a cozy three-bedroom flat with my family in a lively neighborhood. It isn't huge, but it's well-furnished, gets lots of natural sunlight, and is within walking distance of local shops and cafés."*
+2. **Tình huống 2 — Hỏi về góc yêu thích trong nhà: *"Which room do you spend the most time in?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2 (Describe your favorite room).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I spend most of my time in my bedroom because that's where my study desk is."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Definitely my bedroom, since it doubles as my home office. I have a comfortable chair, a large monitor, and a small window overlooking some trees, so it's the quietest spot for me to study and relax."*
+3. **Tình huống 3 — Hỏi về hàng xóm & khu phố: *"Do you get along well with your neighbors?"***
+   * *Khi nào gặp:* Speaking Part 1 (Neighborhood / Neighbors).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, they're friendly and respectful, even though we don't chat every day."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Yes, I get along really well with the people living next door. Everyone respects each other's privacy during the week, and whenever someone goes out of town, we're happy to help keep an eye on their packages."*
+4. **Tình huống 4 — Hỏi về dự định đổi chỗ ở: *"What would you like to change about your home?"***
+   * *Khi nào gặp:* Speaking Part 1 (nhớ dùng **I'd like to / If I could**).
+   * 🟢 **Trả lời ngắn (1 câu):** *"If I could change one thing, I'd make the kitchen a little bit more spacious."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I'm pretty happy with my place overall, though if I could change one thing, I'd add a wider balcony and better soundproofing. That way I could grow more plants and block out traffic noise at night."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Thuê căn hộ đầy đủ nội thất):**
+   * 🟢 *Câu ngắn (9 từ):* `Renting a furnished apartment saves tenants a lot of time.`
+   * 🟡 *Câu vừa (18 từ):* `Renting a fully furnished apartment saves young tenants both time and money when they move to a new city.`
+   * 🔵 *Câu dài (30 từ):* `Because buying bulky furniture and appliances costs a fortune, many young professionals prefer renting fully furnished studios, which are convenient and located within easy reach of urban amenities.`
+   * *Điểm ngữ pháp cần giữ sạch:* Cụm danh từ `many young professionals` đi với `prefer + V-ing`; dùng đúng bị động `are ... located`.
+2. **Chuỗi 2 (Giá nhà cao ở thành phố lớn — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Housing prices are too expensive in large cities today.`
+   * 🟡 *Câu vừa (18 từ):* `Housing prices in major cities have risen sharply, making it hard for young workers to buy a home.`
+   * 🔵 *Câu dài (31 từ):* `Since housing prices in metropolitan areas have surged far faster than average salaries, many young adults are forced to rent cramped flats or commute from distant suburbs for years.`
+   * *Điểm ngữ pháp cần giữ sạch:* Hiện tại hoàn thành `have surged`; bị động `are forced to V`; `accommodation` không thêm `s`.
+3. **Chuỗi 3 (Thiết kế không gian sống nhiều cây xanh):**
+   * 🟢 *Câu ngắn (9 từ):* `Green spaces make apartment buildings much nicer to live in.`
+   * 🟡 *Câu vừa (17 từ):* `Adding green balconies and small parks makes high-rise apartment complexes much healthier and more pleasant to live in.`
+   * 🔵 *Câu dài (29 từ):* `When modern apartment complexes are designed with rooftop gardens and spacious balconies, residents enjoy cleaner air and natural sunlight, which significantly improves their daily mood and overall well-being.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động hiện tại `are designed with`; tính từ song song `cleaner` + `natural`.

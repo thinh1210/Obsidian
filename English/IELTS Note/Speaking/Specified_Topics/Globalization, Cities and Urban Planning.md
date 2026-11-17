@@ -764,3 +764,55 @@ You should say:
 1. **Bước 1 (Level 1):** Làm chủ mô tả thành phố trong 35 giây: Tên thành phố ➡️ Điểm thích nhất ➡️ Điểm chưa hài lòng.
 2. **Bước 2 (Level 2):** Dùng các cụm từ A.R.E: *urban sprawl, public facilities, residential area, traffic congestion, cost of living*.
 3. **Bước 3 (Level 3):** Thuần thục các luận điểm quy hoạch học thuật: *biophilic urbanism, socio-spatial gentrification, sponge-city paradigm, transit-oriented development, mega-conurbation*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"Cities offer endless opportunities, yet the pace of life is exhausting."** | Thành phố mang lại vô vàn cơ hội, nhưng nhịp sống lại rất mệt mỏi. | Câu mở đầu cân bằng cho mọi đề về Urban living / Big cities (Part 1/3). | *"I love the career opportunities here, yet the relentless pace of city life can be draining."* |
+| **"Everything you need is right around the corner."** | Mọi thứ bạn cần đều ở ngay góc phố cạnh nhà. | Cách nói đời thường siêu tự nhiên khi khen sự tiện lợi của đô thị. | *"Living downtown means pharmacies, cafés, and convenience stores are right around the corner."* |
+| **"The cost of living keeps creeping up every year."** | Chi phí sinh hoạt cứ tăng nhích lên từng năm. | Dùng khi bàn về khó khăn tài chính khi sống ở thành phố lớn (Part 1/3). | *"Salaries rise slowly, whereas rent and groceries keep creeping up every year."* |
+| **"Adding more parks would make the city much more livable."** | Thêm nhiều công viên sẽ giúp thành phố đáng sống hơn nhiều. | Dùng khi đề xuất giải pháp cải thiện thành phố (Part 1/Part 3). | *"Replacing concrete lots with shaded parks would make our district far more livable."* |
+| **"Globalization makes major cities look more and more alike."** | Toàn cầu hóa làm các thành phố lớn trông ngày càng na ná nhau. | Câu nhận xét sâu sắc mà từ vựng rất dễ nói ở Part 3 Globalization. | *"With the same global coffee chains everywhere, big cities are starting to look alike."* |
+| **"You get the best of both worlds—modern convenience without losing local charm."** | Bạn được hưởng trọn cả hai—tiện nghi hiện đại mà không mất nét riêng. | Thành ngữ cực hay khen một khu phố hay thành phố phát triển hài hòa. | *"Old quarters with modern cafés give residents the best of both worlds."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi quen thuộc: *"Do you like living in a big city?"***
+   * *Khi nào gặp:* Speaking Part 1 (Cities / Living place).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Overall yes—I love the job opportunities and convenience, despite the noisy traffic."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Yes, especially at this stage in my life. Big cities give me access to great tech jobs, fast internet, and endless food options late at night, even though I occasionally wish the streets were quieter and less polluted."*
+2. **Tình huống 2 — Hỏi về điểm cần cải thiện: *"What would make your city a better place to live?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Urban planning).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Better public trains and more green parks would make a huge difference."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"First and foremost, I'd love to see a cleaner, more reliable metro and bus system so people don't have to sit in motorbike jams every morning. On top of that, planting more street trees would keep the city cooler in summer."*
+3. **Tình huống 3 — Hỏi về toàn cầu hóa: *"Has globalization made life better in your country?"***
+   * *Khi nào gặp:* Speaking Part 3 (Globalization).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, it brought better jobs, foreign companies, and easier access to global knowledge."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Mostly yes. Opening up to global markets has created high-paying jobs in tech and manufacturing, and young people can easily learn from international courses online—though we still need to protect local businesses and traditional culture."*
+4. **Tình huống 4 — Hỏi về tương lai thành phố: *"Why are megacities becoming so overcrowded?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Urbanization).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Because top universities, hospitals, and well-paid jobs are all concentrated in just a few hubs."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"It comes down to economic opportunity. Since major companies, quality hospitals, and prestigious universities are clustered in big cities, rural residents naturally move there seeking a better income, which leaves urban infrastructure overcrowded."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Áp lực dân số đô thị — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Overcrowded cities suffer from bad traffic and high rent.`
+   * 🟡 *Câu vừa (18 từ):* `Rapidly growing cities often suffer from severe traffic congestion and skyrocketing housing costs for ordinary workers.`
+   * 🔵 *Câu dài (30 từ):* `When millions of people migrate to major cities faster than new roads and housing can be built, residents face severe traffic gridlock, polluted air, and unaffordable monthly rent.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `can be built`; tính từ song song bổ nghĩa cho 3 danh từ cuối câu.
+2. **Chuỗi 2 (Không gian xanh và thành phố đáng sống):**
+   * 🟢 *Câu ngắn (9 từ):* `Urban parks help city residents relax after work.`
+   * 🟡 *Câu vừa (18 từ):* `Public parks give crowded neighborhoods fresh air and a quiet place for residents to exercise after work.`
+   * 🔵 *Câu dài (30 từ):* `Designing cities with generous green parks and shaded sidewalks not only lowers urban summer temperatures, but also encourages residents to walk more and interact with their neighbors outdoors.`
+   * *Điểm ngữ pháp cần giữ sạch:* `Designing cities...` làm chủ ngữ số ít $\rightarrow$ `lowers` và `encourages`; `encourage someone to V`.
+3. **Chuỗi 3 (Ảnh hưởng của toàn cầu hóa lên văn hóa ẩm thực — Part 1/Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Global food chains are very popular among young people.`
+   * 🟡 *Câu vừa (18 từ):* `International fast-food chains are popular among young consumers, yet traditional local restaurants still attract huge crowds.`
+   * 🔵 *Câu dài (30 từ):* `Although global brands have introduced international restaurants and coffee chains to nearly every city, authentic local street food remains deeply loved because it reflects unique regional flavors and affordable prices.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `remains deeply loved`; giới từ chuẩn `popular among` hoặc `popular with`.

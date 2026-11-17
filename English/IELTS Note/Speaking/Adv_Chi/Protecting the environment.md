@@ -612,3 +612,55 @@ You should say:
    - Đọc nhẩm theo **Bản VỪA** của Part 1 và Part 2 để bắt đầu làm quen với câu ghép và các từ nối.
 3. **Bước 3 (Thử sức với phần KHÓ):**
    - Chọn ra 3 cụm từ nâng cao yêu thích (ví dụ: *carbon footprint, discharge untreated waste, tackle the crisis*) và lồng ghép chúng vào câu trả lời của chính bạn.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I try to do my bit for the environment in small ways."** | Tôi cố gắng góp một phần nhỏ bảo vệ môi trường qua việc đơn giản. | Câu mở đầu cực khiêm tốn và tự nhiên cho Part 1 Environment. | *"I'm no activist, yet I try to do my bit for the environment by bringing my own bottle."* |
+| **"Whenever I buy coffee, I bring my own reusable tumbler."** | Hễ đi mua cà phê là tôi mang theo bình giữ nhiệt cá nhân. | Ví dụ thực tế đời thường dễ nói nhất khi hỏi về giảm rác thải nhựa. | *"Bringing a reusable tumbler saves one plastic cup and lid every single morning."* |
+| **"Air pollution in the city has become hard to ignore lately."** | Ô nhiễm không khí ở thành phố dạo này khó mà làm ngơ được. | Dùng khi mở đầu câu trả lời về vấn đề môi trường tại nơi bạn sống (Part 1/2). | *"With so many dust alerts on weather apps, air pollution has become hard to ignore."* |
+| **"Sorting trash at home only works if the collection system supports it."** | Phân loại rác ở nhà chỉ hiệu quả nếu xe rác cũng phân loại theo. | Luận điểm thực tế sắc bén cho Part 3 Recycling / Waste management. | *"Citizens are willing to sort waste, provided that garbage trucks don't mix everything back."* |
+| **"Switching to public transit is tough until buses become more reliable."** | Chuyển sang xe công cộng còn khó cho tới khi xe buýt đúng giờ hơn. | Câu cân bằng thực tế khi bàn về giải pháp giảm khí thải giao thông. | *"People want cleaner air, yet switching to buses stays tough until routes are reliable."* |
+| **"Both governments and individuals have to share the responsibility."** | Cả chính phủ và mỗi cá nhân đều phải cùng chia sẻ trách nhiệm. | Câu chốt an toàn, đa chiều cho mọi câu hỏi Part 3 & Writing Task 2 về Môi trường. | *"Individual habits matter, though big factories need strict rules—both must share responsibility."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi về thói quen cá nhân: *"What do you personally do to protect the environment?"***
+   * *Khi nào gặp:* Speaking Part 1 (Environment / Recycling).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I usually carry a reusable water bottle, turn off unused lights, and refuse plastic bags."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I focus on practical everyday habits rather than big gestures. For example, I always keep a fabric tote bag in my motorbike trunk for groceries, bring my own tumbler to coffee shops, and unplug electronics before going to sleep."*
+2. **Tình huống 2 — Hỏi về vấn đề môi trường địa phương: *"What is the biggest environmental problem in your city?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2 (Urban Environment).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Honestly, the biggest issue here is air pollution caused by heavy motorbike and car traffic."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Without a doubt, air quality and plastic waste are our two biggest headaches. During dry winter mornings, thick smog often hangs over main intersections because millions of commuters still rely on petrol motorbikes."*
+3. **Tình huống 3 — Hỏi về rác thải nhựa: *"Why is it difficult for people to stop using single-use plastics?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Plastic Pollution).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Because plastic bags and takeaway boxes are cheap, lightweight, and everywhere."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"It's mainly a habit of convenience. Street-side food stalls and delivery apps rely heavily on cheap plastic containers, so unless eco-friendly alternatives become just as affordable, busy consumers will keep choosing plastic."*
+4. **Tình huống 4 — Hỏi về giáo dục môi trường: *"Do you think schools should teach more about climate change?"***
+   * *Khi nào gặp:* Speaking Part 3 (Education & Environment).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, learning green habits early helps kids protect nature automatically as adults."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Definitely, though it works best through hands-on activities rather than dry textbooks. Organizing school clean-up days, recycling corners, or tree-planting trips teaches kids practical responsibility they'll carry into adulthood."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Giảm rác thải nhựa dùng một lần):**
+   * 🟢 *Câu ngắn (9 từ):* `Plastic bags pollute rivers and harm sea animals.`
+   * 🟡 *Câu vừa (18 từ):* `Single-use plastic bags often end up in rivers and oceans, where they pollute the water and harm marine animals.`
+   * 🔵 *Câu dài (30 từ):* `Because millions of single-use plastic containers are thrown away after just one meal, a vast amount of plastic waste enters local waterways, threatening marine ecosystems for decades.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `are thrown away`; danh từ không đếm được `plastic waste` đi với động từ chia số ít `enters` trong cụm `a vast amount of plastic waste`.
+2. **Chuỗi 2 (Giảm khí thải bằng xe buýt & xe điện — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Electric buses can reduce air pollution in big cities.`
+   * 🟡 *Câu vừa (18 từ):* `Expanding electric bus networks can noticeably reduce urban air pollution if enough commuters switch from private cars.`
+   * 🔵 *Câu dài (31 từ):* `If municipal governments invest in clean electric buses and affordable train tickets, more residents will leave their motorbikes at home, thereby cutting carbon emissions and improving urban air quality.`
+   * *Điểm ngữ pháp cần giữ sạch:* Điều kiện loại 1 (`If ... invest ... will leave`); cấu trúc song song `cutting ... and improving ...`.
+3. **Chuỗi 3 (Thói quen tiết kiệm điện nước tại nhà):**
+   * 🟢 *Câu ngắn (9 từ):* `Turning off unused lights saves electricity every month.`
+   * 🟡 *Câu vừa (18 từ):* `Turning off unused lights and setting air conditioners at 26 degrees saves electricity and lowers monthly bills.`
+   * 🔵 *Câu dài (29 từ):* `Even small daily habits, such as unplugging idle chargers and taking shorter showers, can significantly conserve energy when millions of households practice them consistently.`
+   * *Điểm ngữ pháp cần giữ sạch:* Cụm `Even small daily habits` (số nhiều) đi với động từ `can conserve`; chia đúng `households practice`.

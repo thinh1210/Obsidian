@@ -696,3 +696,55 @@ You should say:
 1. **Bước 1 (Level 1):** Luyện nói về một lễ hội hoặc bài hát yêu thích trong 30 giây: Thời điểm diễn ra ➡️ Hoạt động chính ➡️ Món ăn truyền thống ➡️ Cảm xúc.
 2. **Bước 2 (Level 2):** Sử dụng các cụm: *cultural heritage, pass down through generations, family reunion, cherish old values*.
 3. **Bước 3 (Level 3):** Thuần thục các thuật ngữ C1/C2: *tangible and intangible heritage, ancestral customs, poignant melody, cultural homogenization, magnum opus*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"Music is something I listen to every single day without fail."** | Âm nhạc là thứ tôi nghe mỗi ngày không sót hôm nào. | Câu mở bài Part 1 Music cực trơn tru, bật ra ngay không khựng. | *"Music is something I listen to every single day—especially on my commute."* |
+| **"I'm not an expert on art, yet I love visiting quiet galleries."** | Tôi không phải chuyên gia nghệ thuật, nhưng rất thích ghé phòng tranh yên tĩnh. | Câu "cứu cánh" cực tự nhiên nếu gặp đề Art/Painting mà không rành chuyên môn! | *"Honestly, I can't paint at all, yet visiting small galleries helps me slow down."* |
+| **"A catchy song can instantly lift my mood after a rough day."** | Một bài hát bắt tai có thể nâng tâm trạng tôi lên ngay sau ngày mệt mỏi. | Dùng cho Part 1 Music hoặc kể tác dụng của âm nhạc với cảm xúc. | *"Whenever I feel stressed, putting on an upbeat track instantly lifts my mood."* |
+| **"Traditional festivals keep younger generations connected to their roots."** | Lễ hội truyền thống giúp thế hệ trẻ gắn kết với cội nguồn. | Câu chốt an toàn, rõ nghĩa cho Part 3 Festivals & Cultural Heritage. | *"Even if young people are busy, Tet reunions keep them connected to their cultural roots."* |
+| **"AI can generate pretty pictures, yet it lacks real human emotion."** | AI có thể tạo ảnh đẹp, nhưng nó thiếu cảm xúc thật của con người. | Luận điểm đắt giá, dễ diễn đạt cho chủ đề AI Art vs. Human Art (Part 3). | *"AI drawings look impressive at first glance, yet there's no lived story behind them."* |
+| **"Historic buildings give a city its unique soul and character."** | Các công trình lịch sử mang lại linh hồn và bản sắc riêng cho thành phố. | Dùng trong Part 3 & Task 2 khi bàn về bảo tồn di tích vs. xây nhà mới. | *"Without historic temples and old quarters, every modern city would feel identical."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi quen thuộc Part 1: *"What kind of music do you like listening to?"***
+   * *Khi nào gặp:* Speaking Part 1 (Music) hoặc làm quen bạn bè.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I mostly listen to chill acoustic and lo-fi beats because they help me focus and relax."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"My taste depends a lot on what I'm doing. While working or studying, I love instrumental lo-fi music because lyrics distract me, whereas during workouts or long rides, I switch to energetic pop and rock."*
+2. **Tình huống 2 — Nếu gặp câu hỏi hơi "lạ": *"Do you like painting or visiting art museums?"***
+   * *Khi nào gặp:* Speaking Part 1 (Art / Museums — rất nhiều thí sinh bị khớp vì ít đi bảo tàng).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I'm no artist myself, though I occasionally visit local museums to learn about history."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"To be honest, I don't visit art galleries often, mainly because my schedule is packed. Still, whenever I travel to a new city, dropping by a history or art museum is a great way to understand the local culture."*
+3. **Tình huống 3 — Hỏi về lễ hội truyền thống: *"What is your favorite traditional festival in your country?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2 (Festivals / Culture).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Hands down, it's Tet—the Lunar New Year—because the whole family gets together."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Without a doubt, it's Tet, our Lunar New Year holiday. After a whole year of busy work, everyone slows down, cleans the house, cooks traditional dishes like banh chung, and spends quality time catching up with relatives."*
+4. **Tình huống 4 — Hỏi quan điểm Part 3: *"Why should governments spend money protecting old historic buildings?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Museums / Heritage).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Because once historic buildings are torn down, we lose irreplaceable stories and tourist appeal."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Historic landmarks aren't just old bricks—they are living textbooks that remind citizens where they came from. On top of preserving cultural pride, well-maintained heritage sites like Hoi An also bring steady tourism income to local communities."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Âm nhạc và sức khỏe tinh thần):**
+   * 🟢 *Câu ngắn (9 từ):* `Listening to calm music helps people reduce daily stress.`
+   * 🟡 *Câu vừa (18 từ):* `Listening to gentle instrumental music after work helps people lower stress levels and fall asleep more easily.`
+   * 🔵 *Câu dài (30 từ):* `Whenever people feel overwhelmed by work pressure, listening to soothing music can noticeably lift their mood and relax their minds, making it one of the simplest ways to unwind.`
+   * *Điểm ngữ pháp cần giữ sạch:* Chủ ngữ `listening to soothing music` đi với `can lift ... and relax ...`; cụm phân từ `making it...`.
+2. **Chuỗi 2 (Bảo tồn di sản văn hóa — Câu bị động, hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Traditional crafts should be protected by local governments.`
+   * 🟡 *Câu vừa (18 từ):* `Traditional handicrafts and folk music should be supported by governments so they do not disappear in modern society.`
+   * 🔵 *Câu dài (30 từ):* `Unless traditional crafts and historic buildings are actively protected through public funding and education, younger generations may gradually lose touch with their cultural heritage in an increasingly globalized world.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `are actively protected` cho chủ ngữ kép số nhiều `crafts and historic buildings`.
+3. **Chuỗi 3 (Vai trò của môn Nghệ thuật trong trường học — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Art classes teach school children how to be creative.`
+   * 🟡 *Câu vừa (18 từ):* `Taking art and music classes at school encourages children to express their feelings and think more creatively.`
+   * 🔵 *Câu dài (30 từ):* `Although math and science are crucial for future careers, school art programs play an equally vital role because they nurture creativity and give students a healthy emotional outlet.`
+   * *Điểm ngữ pháp cần giữ sạch:* Không dùng `but` sau `Although`; `school art programs` số nhiều đi với `play`.

@@ -667,3 +667,55 @@ You should say:
 1. **Bước 1 (Level 1):** Tập nói lưu loát về 1 môn học và thầy cô giáo trong 40 giây: Tên môn ➡️ Giáo viên ➡️ Điều đã học ➡️ Cảm nhận.
 2. **Bước 2 (Level 2):** Dùng các từ vựng chủ đề giáo dục: *academic performance, hands-on learning, cram for exams, vocational training*.
 3. **Bước 3 (Level 3):** Vận dụng thuật ngữ C1/C2: *pedagogical methodology, rote learning vs holistic framework, upskill and reskill, credentialism*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"Learning never really stops once you leave university."** | Việc học thật ra không hề dừng lại sau khi ra trường. | Câu mở bài cực hay cho Part 1/Part 3 chủ đề Lifelong Learning. | *"In tech fields especially, learning never stops once you leave university."* |
+| **"I learn way better by doing hands-on projects than memorizing slides."** | Tôi học qua thực hành dự án hiệu quả hơn nhiều so với học thuộc slide. | Dùng khi nói về phong cách học tập của bản thân (Part 1 & Part 2). | *"Reading a manual helps a bit, yet I learn way better by building a small project."* |
+| **"Back in school, we had to cram way too much before exams."** | Hồi đi học, tụi tôi phải học nhồi nhét quá nhiều trước kỳ thi. | Câu đối chiếu quá khứ khi nói về áp lực thi cử (Part 1/3). | *"Back in high school, I hated having to cram formulas right before final exams."* |
+| **"Online courses let me learn at my own pace."** | Các khóa học trực tuyến cho phép tôi học theo nhịp độ riêng. | Cụm từ B2 siêu tự nhiên khi so sánh học online vs. lớp truyền thống. | *"Recorded lectures are great because you can pause, replay, and learn at your own pace."* |
+| **"A good teacher doesn't just explain facts—they spark curiosity."** | Giáo viên giỏi không chỉ giảng kiến thức—họ khơi gợi sự tò mò. | Dùng cho Part 2 (Describe a favorite teacher) hoặc Part 3 Education. | *"My physics teacher didn't just read textbooks; he sparked genuine curiosity in class."* |
+| **"Keeping your skills up to date is essential nowadays."** | Cập nhật kỹ năng liên tục là điều bắt buộc thời nay. | Cách nói đời thường, dễ bật ra hơn thuật ngữ *upskilling and reskilling*. | *"Because tools change fast, keeping your skills up to date is essential in any career."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi về thói quen tự học: *"What new skill have you learned recently, and how did you learn it?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2 (A skill you learned).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Recently I've been improving my spoken English by listening to daily podcasts and recording myself."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Over the past few months, I've focused on building real-life English fluency alongside my technical skills. Instead of just reading grammar rules, I listen to short podcasts, practice dictation, and speak aloud every day to fix tiny mistakes."*
+2. **Tình huống 2 — Hỏi về thầy cô giáo ấn tượng: *"Do you remember a teacher who influenced you?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2 (nhớ chia đúng **He/She** và **Quá khứ đơn**).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, my high school math teacher was super patient and always encouraged us to ask questions."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Definitely—my tenth-grade English teacher left a huge impression on me. Even when students made silly mistakes, she never mocked anyone; instead, she patiently explained why and made the classroom feel welcoming."*
+3. **Tình huống 3 — Hỏi về học online: *"Do you prefer studying online or in a physical classroom?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Online vs. Offline learning).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I like online courses for flexibility, though a real classroom keeps me more disciplined."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Both have clear pros and cons. Online platforms are unbeatable for saving commuting time and rewatching difficult parts, yet sitting in a physical classroom makes it much easier to ask quick questions and stay motivated alongside classmates."*
+4. **Tình huống 4 — Hỏi quan điểm Part 3: *"Should schools focus more on practical life skills instead of purely academic subjects?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (School curriculum).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, schools should balance academic subjects with practical skills like budgeting and communication."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I believe a balanced curriculum is best. Core subjects like math and science build logical thinking, of course, yet teaching practical skills such as time management, teamwork, and personal finance prepares teenagers far better for real life."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Học thực hành vs. học vẹt — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Practical projects help students remember lessons much longer.`
+   * 🟡 *Câu vừa (18 từ):* `Doing hands-on projects helps students remember key concepts longer than simply memorizing theories for a written exam.`
+   * 🔵 *Câu dài (30 từ):* `When students are encouraged to apply classroom knowledge through hands-on projects rather than cramming for exams, they develop deeper understanding and stronger problem-solving skills for their future careers.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `are encouraged to V`; `rather than + V-ing` (`cramming`).
+2. **Chuỗi 2 (Vai trò của người thầy trong thời đại công nghệ):**
+   * 🟢 *Câu ngắn (9 từ):* `Computers cannot replace supportive teachers in the classroom.`
+   * 🟡 *Câu vừa (18 từ):* `Even with advanced educational software, computers still cannot replace supportive teachers who understand students' personal needs.`
+   * 🔵 *Câu dài (30 từ):* `Although online videos and AI tutors provide instant explanations anytime, dedicated human teachers remain irreplaceable because they offer emotional encouragement and tailor guidance to each student's unique pace.`
+   * *Điểm ngữ pháp cần giữ sạch:* Không dùng `but` sau `Although`; `human teachers` số nhiều đi với `remain`.
+3. **Chuỗi 3 (Kỷ niệm ôn thi hồi đại học/cấp 3 — Quá khứ đơn):**
+   * 🟢 *Câu ngắn (9 từ):* `Last year I studied hard for my final exams.`
+   * 🟡 *Câu vừa (18 từ):* `Last year I formed a study group with three friends so we could prepare well for our finals.`
+   * 🔵 *Câu dài (29 từ):* `Instead of cramming alone the night before my finals last year, I reviewed past papers with three classmates for a month, which kept me calm during the test.`
+   * *Điểm ngữ pháp cần giữ sạch:* Sau `Instead of` là `V-ing` (`cramming`); chia Quá khứ đơn đều (`reviewed`, `kept`).

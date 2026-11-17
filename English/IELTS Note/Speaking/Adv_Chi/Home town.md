@@ -629,3 +629,55 @@ You should say:
    - Bắt đầu hoán đổi từng cặp từ trong **Bảng Cầu Thang Từ Vựng** (Ví dụ: thay vì nói *delicious* hãy ép mình dùng *mouth-watering* hoặc *delectable*; thay vì nói *traffic jams* hãy dùng *gridlock*).
    - Ứng dụng ít nhất 2 mẫu câu phức trong bài nói: 1 câu chẻ (*What truly distinguishes...*) và 1 câu rút gọn phân từ (*Situated in... / Having witnessed...*).
    - Thu âm hàng ngày trong 30 giây, so sánh bản thân với bài mẫu để chỉnh ngữ điệu.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I was born and raised in [City/Province], which is famous for..."** | Tôi sinh ra và lớn lên ở..., nơi nổi tiếng về... | Câu mở màn "vàng" dùng ngay trong 1 giây khi được hỏi về quê hương (Part 1). | *"I was born and raised in Hue, which is famous for its royal heritage and peaceful vibe."* |
+| **"Over the past decade, my hometown has changed beyond recognition."** | Trong thập kỷ qua, quê tôi đã thay đổi đến mức không nhận ra. | Dùng cho câu hỏi kinh điển *"Has your hometown changed?"* (Part 1 & 2). | *"Since new bridges were built, my hometown has literally changed beyond recognition."* |
+| **"What sets my hometown apart is its laid-back pace of life."** | Điều khiến quê tôi khác biệt là nhịp sống thong thả dễ chịu. | Câu chẻ tự nhiên dùng để khen nét riêng của quê hương (Part 1/2). | *"Compared to huge cities, what sets my hometown apart is its laid-back pace of life."* |
+| **"Even though it can get crowded, you're never short of great food."** | Dù đôi lúc hơi đông đúc, bạn chẳng bao giờ thiếu đồ ăn ngon. | Cách nói cân bằng giữa điểm trừ (đông/kẹt xe) và điểm cộng (ẩm thực). | *"Saigon traffic is hectic, yet you're never short of amazing street food at any hour."* |
+| **"The locals are genuinely warm-hearted and welcoming to visitors."** | Người dân địa phương thật sự ấm áp và niềm nở với khách. | Dùng khi mô tả con người ở quê bạn (Part 1 Hometown / People). | *"Tourists love coming back because the locals are so warm-hearted and helpful."* |
+| **"Despite the urban bustle, there are still quiet corners to unwind."** | Dù phố xá nhộn nhịp, vẫn còn những góc yên tĩnh để thư giãn. | Dùng khi miêu tả sự kết hợp giữa hiện đại và truyền thống của thành phố. | *"Despite the daytime bustle, the lakeside parks remain peaceful corners to unwind."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Mở đầu bài nói: *"Where is your hometown, and what is it like?"***
+   * *Khi nào gặp:* Câu hỏi quen thuộc nhất của Speaking Part 1 hoặc khi làm quen bạn mới.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I'm from [City], a lively coastal/river city known for friendly locals and great street food."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I come from [City], which is located in the [central/southern/northern] part of Vietnam. It's a charming place that blends modern cafés and shopping streets with historic landmarks, and the locals are super hospitable."*
+2. **Tình huống 2 — Hỏi về sự đổi thay: *"How has your hometown changed since you were a child?"***
+   * *Khi nào gặp:* Speaking Part 1 (nhớ dùng **Hiện tại hoàn thành** `has changed / have been built`).
+   * 🟢 **Trả lời ngắn (1 câu):** *"It has become much more modern, with wider roads, taller buildings, and better cafés."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Honestly, it has undergone huge changes over the last ten years. Back when I was in primary school, there were mostly low-rise houses and quiet streets, whereas now new shopping malls and apartment blocks have sprung up everywhere."*
+3. **Tình huống 3 — Hỏi về điểm chưa hài lòng: *"Is there anything you dislike about your hometown?"***
+   * *Khi nào gặp:* Speaking Part 1 (Hometown / City).
+   * 🟢 **Trả lời ngắn (1 câu):** *"If I had to pick one issue, it would be the rush-hour traffic and summer heat."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"While I love living there, the traffic congestion during rush hour can be pretty frustrating. On top of that, the infrastructure hasn't quite kept up with the growing population, so flooding happens after heavy rain."*
+4. **Tình huống 4 — Hỏi về dự định gắn bó: *"Would you prefer to live in a big city or a small town in the future?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Urban vs. Rural).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Right now I need a big city for career growth, though I might move somewhere quieter later."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"At this stage of my career, staying in a major city makes sense because of better tech jobs and modern amenities. Later in life, though, I'd love to settle down in a peaceful coastal town with cleaner air."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Quá trình đô thị hóa làm thay đổi quê hương):**
+   * 🟢 *Câu ngắn (9 từ):* `Many new buildings have been built in my city.`
+   * 🟡 *Câu vừa (18 từ):* `Many tall apartment buildings and wide roads have been constructed in my hometown over the last decade.`
+   * 🔵 *Câu dài (30 từ):* `Over the past decade, numerous high-rise buildings and modern shopping malls have been built across my hometown, which has created more jobs while simultaneously increasing rush-hour traffic congestion.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động Hiện tại hoàn thành `have been built` (số nhiều); `has created` (chia số ít theo `, which`).
+2. **Chuỗi 2 (Sức hút của thành phố lớn với người trẻ — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Young people move to big cities for better jobs.`
+   * 🟡 *Câu vừa (18 từ):* `Many young graduates relocate to major cities because urban centers offer better salaries and career opportunities.`
+   * 🔵 *Câu dài (31 từ):* `Since metropolitan cities concentrate top universities, tech companies, and modern entertainment facilities, thousands of young people migrate there every year, placing heavy pressure on housing and public transport.`
+   * *Điểm ngữ pháp cần giữ sạch:* `thousands of young people` (số nhiều) đi với `migrate`; cụm phân từ `placing heavy pressure on`.
+3. **Chuỗi 3 (Bảo tồn nét truyền thống giữa đô thị hiện đại):**
+   * 🟢 *Câu ngắn (9 từ):* `Local authorities must protect old buildings in the city.`
+   * 🟡 *Câu vừa (18 từ):* `City planners should preserve historic streets and local markets instead of replacing everything with glass skyscrapers.`
+   * 🔵 *Câu dài (30 từ):* `Although modern infrastructure is essential for economic growth, historic landmarks and traditional markets should be carefully preserved so that future generations do not lose touch with their local heritage.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `should be carefully preserved`; không nhầm `their` (của thế hệ tương lai) với `there`.

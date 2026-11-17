@@ -723,3 +723,55 @@ You should say:
 1. **Thực hành với Idioms:** Mỗi ngày chọn 2 thành ngữ (*make ends meet, save for a rainy day, live within one's means, strapped for cash, tighten one's belt, foot the bill*) và đặt ít nhất 2 câu hoàn chỉnh về đời sống thực tế của bạn.
 2. **Kể lại Part 2 Ninjago:** Hãy bấm giờ 2 phút và tập kể câu chuyện Lego Ninjago của chính bạn mà không nhìn giấy. Hãy cố gắng dùng được các cụm: *colossal fortune, ceramic piggy bank, stashed into, delayed gratification*.
 3. **Luyện phản xạ Part 3:** Đọc to câu trả lời Part 3, chú ý nhấn mạnh các từ vựng chủ lực (*safety cushion, delayed gratification, consumerism*) để tạo ngữ điệu tự nhiên.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I'm pretty mindful about how I spend my money."** | Tôi khá cân nhắc trong cách chi tiêu tiền bạc. | Mở đầu câu trả lời Part 1 về quản lý tài chính/tiết kiệm. | *"Ever since I started working full-time, I've been mindful about how I spend my money."* |
+| **"I always pause for a day before making an impulse buy."** | Tôi luôn chững lại một ngày trước khi mua thứ gì đó bốc đồng. | Mẹo chi tiêu thông minh cực hay để kể trong Part 1 & Part 2. | *"To avoid wasting cash online, I wait 24 hours before buying anything non-essential."* |
+| **"Setting aside a fixed amount each month gives me peace of mind."** | Trích ra một khoản cố định mỗi tháng giúp tôi thấy an tâm hẳn. | Dùng khi giải thích lý do tiết kiệm cho tương lai (*save for a rainy day*). | *"Even if it's a small sum, setting aside savings every month gives me peace of mind."* |
+| **"I almost never carry cash anymore—I pay for everything by QR code."** | Giờ tôi hầu như không mang tiền mặt—cái gì cũng quét mã QR. | Câu trả lời sát thực tế đời sống Việt Nam cho Part 1/Part 3 Cashless society. | *"Aside from tiny street stalls, I pay for practically everything via QR code or e-wallet."* |
+| **"Living expenses in big cities can eat up your paycheck fast."** | Chi phí sinh hoạt ở thành phố lớn ngốn tiền lương rất nhanh. | Dùng khi nói về áp lực tài chính của người trẻ ở đô thị (Part 3). | *"Between rent, utilities, and groceries, living expenses eat up half my salary."* |
+| **"Money buys comfort and security, though it doesn't guarantee happiness."** | Tiền mua được sự thoải mái và an toàn, nhưng không bảo đảm hạnh phúc. | Câu chốt cân bằng chuẩn xác cho mọi câu hỏi triết học về Tiền bạc (Part 3/Task 2). | *"Money removes daily survival stress, yet genuine happiness still depends on health and loved ones."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi về thói quen chi tiêu: *"Are you good at saving money?"***
+   * *Khi nào gặp:* Speaking Part 1 (Money / Spending habits) hoặc tán gẫu với bạn bè.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I'd say I'm pretty decent at saving, since I set aside part of my income every month."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"For the most part, yes. Right after I get paid, I automatically transfer about 20% into a savings account for a rainy day, and then I live within my means on the rest—except when I occasionally splurge on tech gear."*
+2. **Tình huống 2 — Hỏi về thanh toán số: *"Do you prefer paying with cash or digital payments?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Cashless society).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I strongly prefer digital payments like QR transfers because they're fast and convenient."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Definitely digital payments. Nowadays in Vietnam, even small coffee carts accept bank transfers via QR code, which saves me the annoyance of carrying bulky wallets or counting loose change—though I still keep a small emergency bill just in case."*
+3. **Tình huống 3 — Hỏi về chi tiêu đáng giá: *"What do you like to spend money on?"***
+   * *Khi nào gặp:* Speaking Part 1 (Shopping / Leisure).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I happily spend money on good food, travel experiences, and courses that upgrade my skills."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Rather than buying expensive luxury brands, I prefer spending my money on experiences and self-improvement. Treating friends to a great meal, taking a weekend trip, or investing in helpful study resources always feels worth every penny."*
+4. **Tình huống 4 — Hỏi quan điểm xã hội: *"Should financial literacy be taught to teenagers at school?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Education & Money).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, learning how to budget early helps young adults avoid unnecessary debt later."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Absolutely. Many high school graduates enter adulthood knowing algebra yet having no idea how credit cards, interest rates, or monthly budgets work. Teaching basic money management early equips them to avoid impulse spending and debt traps."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Quản lý ngân sách & tránh mua sắm bốc đồng):**
+   * 🟢 *Câu ngắn (9 từ):* `Tracking daily expenses helps young workers save more money.`
+   * 🟡 *Câu vừa (18 từ):* `Tracking daily expenses on a phone app helps young workers avoid impulse buys and build emergency savings.`
+   * 🔵 *Câu dài (30 từ):* `When young professionals track their daily spending and separate essential needs from impulsive desires, they can live comfortably within their means while steadily building a financial cushion for emergencies.`
+   * *Điểm ngữ pháp cần giữ sạch:* `money` là danh từ không đếm được (không thêm `s`); `track ... and separate ...` song song cùng chủ ngữ `young professionals`.
+2. **Chuỗi 2 (Mặt trái của xã hội không tiền mặt — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Digital payments make shopping fast, yet people overspend easily.`
+   * 🟡 *Câu vừa (18 từ):* `Although digital payments make daily shopping effortless, they also tempt consumers into overspending without noticing their budget.`
+   * 🔵 *Câu dài (31 từ):* `Because tapping a phone screen feels less painful than handing over physical cash, many consumers underestimate their monthly spending, which can gradually lead to personal debt if expenses are not monitored.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động hiện tại `are not monitored`; cấu trúc so sánh `less painful than + V-ing`.
+3. **Chuỗi 3 (Tiền bạc vs. Thời gian — Quá khứ đơn khi kể về trải nghiệm tiết kiệm):**
+   * 🟢 *Câu ngắn (9 từ):* `Last year I saved money for a new laptop.`
+   * 🟡 *Câu vừa (18 từ):* `Last year I cut back on eating out for six months so I could afford a better laptop.`
+   * 🔵 *Câu dài (29 từ):* `By cooking at home and skipping unnecessary online sales for six months last year, I saved enough money to buy a reliable laptop without borrowing from anyone.`
+   * *Điểm ngữ pháp cần giữ sạch:* Song song sau `By`: `cooking ... and skipping ...`; sau `without` dùng `V-ing` (`borrowing`).

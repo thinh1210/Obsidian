@@ -614,3 +614,55 @@ You should say:
 1. **Luyện phản xạ thành ngữ ẩm thực:** Mỗi ngày đặt 2 câu hoàn chỉnh sử dụng: *(be) packed with flavour, hits the spot, comfort food, keep cravings in check*.
 2. **Kể lại Part 2 Omakase & Healthy Lifestyle:** Bấm giờ 2 phút, chọn một trong hai đề bài và tập nói trôi chảy mà không phụ thuộc vào giấy nháp.
 3. **Phân tích nhãn thực phẩm thực tế:** Khi đi siêu thị, hãy thử nhẩm bằng tiếng Anh các thành phần: *Does this contain artificial additives, preservatives, or high saturated fat? Am I making a smart snacking choice?*
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I try to eat a balanced diet, though I do indulge occasionally."** | Tôi cố ăn uống cân bằng, dù thỉnh thoảng vẫn tự chiều bản thân. | Câu trả lời cực tự nhiên khi được hỏi có ăn uống lành mạnh không (Part 1). | *"I try to eat a balanced diet on weekdays, though I do indulge in milk tea on weekends."* |
+| **"Nothing hits the spot quite like a bowl of homemade pho."** | Không gì đã thèm bằng một tô phở nóng hổi nấu ở nhà. | Dùng khi miêu tả món ruột (*comfort food*) trong Part 1 & Part 2. | *"On a rainy evening, nothing hits the spot quite like a hot bowl of noodle soup."* |
+| **"I'm trying to cut down on sugary drinks and greasy food."** | Tôi đang cố cắt giảm đồ uống có đường và thức ăn nhiều dầu mỡ. | Dùng khi nói về mục tiêu sức khỏe hiện tại (rất dễ nối ý Part 1). | *"Lately I've been trying to cut down on sugary sodas and drink plain water instead."* |
+| **"I'm not a picky eater—I'll happily try almost anything once."** | Tôi không kén ăn đâu—gì tôi cũng sẵn sàng thử qua một lần. | Phản xạ mượt mà cho câu hỏi về đồ ăn lạ hoặc ẩm thực nước ngoài. | *"Honestly, I'm not a picky eater; I love exploring unfamiliar local dishes when I travel."* |
+| **"Cooking from scratch lets me control what goes into my meal."** | Tự nấu từ nguyên liệu tươi giúp tôi kiểm soát gia vị trong bữa ăn. | Dùng để giải thích lợi ích của cơm nhà so với đồ ăn ngoài (Part 1 & 3). | *"Cooking from scratch takes time, yet it lets me limit oil, salt, and artificial additives."* |
+| **"Skipping meals just leaves me feeling sluggish all afternoon."** | Bỏ bữa chỉ khiến tôi lờ đờ uể oải suốt cả buổi chiều. | Dùng khi giải thích tầm quan trọng của bữa sáng/bữa trưa đúng giờ. | *"Even when I have tight deadlines, I never skip lunch because it leaves me sluggish."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi về khả năng nấu ăn: *"Do you know how to cook? Who usually cooks in your family?"***
+   * *Khi nào gặp:* Speaking Part 1 (Cooking / Food) hoặc giao tiếp bạn bè.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I know how to cook basic daily dishes like stir-fried veggies and grilled chicken."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Normally my mom handles the big family dinners because her food is unbeatable, while I cook simple meals for myself on busy weekdays. I'm pretty decent at stir-frying beef, boiling vegetables, and making quick omelets."*
+2. **Tình huống 2 — Hỏi về thói quen ăn uống lành mạnh: *"Do you think you have a healthy diet?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Health & Nutrition).
+   * 🟢 **Trả lời ngắn (1 câu):** *"For the most part, yes—I eat lots of vegetables and try to avoid fried snacks."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I'd say my diet is about 80% healthy. I make sure to include fresh greens and lean protein in every lunch, though I still struggle to keep my cravings for sweet iced coffee in check during stressful afternoons."*
+3. **Tình huống 3 — Hỏi về món ăn truyền thống: *"What traditional food would you recommend to a visitor?"***
+   * *Khi nào gặp:* Giao tiếp với bạn nước ngoài hoặc Speaking Part 1/Part 2.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I'd definitely recommend Vietnamese pho because the slow-simmered broth is packed with flavor."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Without a doubt, you have to try pho or bun cha from a local spot. What makes pho so special is the rich beef broth that's simmered for hours with aromatic spices and served with fresh herbs."*
+4. **Tình huống 4 — Hỏi quan điểm xã hội: *"Why do so many young people rely on fast food today?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Diet & Lifestyle).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Mainly because fast food is affordable, tasty, and saves busy people time."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"It comes down to time pressure and convenience. After working long hours, many young adults feel too exhausted to grocery shop and cook from scratch, so ordering cheap, flavorful fast food becomes the easiest option."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Tác hại của thực phẩm siêu chế biến — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Eating too much fast food harms people's physical health.`
+   * 🟡 *Câu vừa (18 từ):* `Eating ultra-processed food regularly increases the risk of obesity and heart disease because it contains unhealthy fats.`
+   * 🔵 *Câu dài (30 từ):* `When individuals consume ultra-processed foods packed with sugar and saturated fat on a daily basis, their risk of obesity rises sharply, which puts serious pressure on public healthcare systems.`
+   * *Điểm ngữ pháp cần giữ sạch:* Cụm danh từ `their risk` (số ít) đi với `rises`; `pressure on` (giới từ `on`).
+2. **Chuỗi 2 (Trải nghiệm nấu món ăn ngon cho gia đình — Quá khứ đơn):**
+   * 🟢 *Câu ngắn (9 từ):* `Last Sunday I cooked grilled chicken for my parents.`
+   * 🟡 *Câu vừa (18 từ):* `Last Sunday I marinated some chicken with garlic and herbs before grilling it for my parents' dinner.`
+   * 🔵 *Câu dài (29 từ):* `Even though I rarely have time to cook elaborate dishes, I marinated and roasted a whole chicken for my family last Sunday, and everyone said it hit the spot.`
+   * *Điểm ngữ pháp cần giữ sạch:* Đồng bộ Quá khứ đơn (`marinated`, `roasted`, `said`, `hit`); `everyone` đi với động từ bình thường ở quá khứ.
+3. **Chuỗi 3 (Giáo dục dinh dưỡng trong trường học — Câu bị động):**
+   * 🟢 *Câu ngắn (9 từ):* `Schools should teach children about healthy eating habits.`
+   * 🟡 *Câu vừa (18 từ):* `Children should be taught about balanced nutrition at school so they can make smart food choices early.`
+   * 🔵 *Câu dài (31 từ):* `If basic cooking and nutrition classes were included in school curricula, students would understand the dangers of empty calories, thereby forming healthier eating habits that last well into adulthood.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động điều kiện loại 2 `were included in`; mệnh đề quan hệ `habits that last` (`last` không thêm `s` vì `habits` số nhiều).

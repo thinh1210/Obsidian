@@ -665,3 +665,55 @@ You should say:
 1. **Bước 1 (Level 1):** Luyện phản xạ trả lời về thói quen đọc tin tức trong 35 giây: Kênh đọc ➡️ Thể loại yêu thích ➡️ Mức độ tin cậy.
 2. **Bước 2 (Level 2):** Dùng các cụm: *reliable source, sensational headlines, verify facts, breaking news*.
 3. **Bước 3 (Level 3):** Thuần thục các thuật ngữ truyền thông C1/C2: *disinformation, algorithmic echo chambers, robust media literacy, polarize public discourse, triangulate sources*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I usually catch up on the news through short podcasts or tech sites."** | Tôi thường cập nhật tin tức qua podcast ngắn hoặc trang công nghệ. | Câu trả lời thực tế thay cho *"I read newspapers"* trong Part 1 News. | *"I rarely watch TV news; instead, I catch up on headlines via podcasts each morning."* |
+| **"Clickbait headlines drive me up the wall."** | Mấy cái tít giật gân câu view làm tôi phát bực. | Cụm cửa miệng tự nhiên khi phàn nàn về báo mạng/YouTube. | *"So many sites use clickbait headlines that say nothing useful in the actual article."* |
+| **"Whenever a story sounds too dramatic, I verify it from another source."** | Hễ thấy tin nào nghe quá kịch tính, tôi kiểm chứng lại từ nguồn khác. | Cách diễn đạt tự nhiên cho *cross-check / fact-check* trong Part 1 & 3. | *"Before sharing anything, I always verify the story from at least two reliable outlets."* |
+| **"Social media algorithms keep showing you the same type of content."** | Thuật toán mạng xã hội cứ hiển thị mãi cùng một kiểu nội dung. | Giải thích khái niệm *echo chamber* bằng tiếng Anh đời thường dễ nói. | *"Once you watch two clips about one topic, algorithms flood your feed with similar videos."* |
+| **"Reading long articles helps me think more deeply than watching 15-second clips."** | Đọc bài dài giúp tôi suy nghĩ sâu hơn xem clip 15 giây. | Câu so sánh mượt mà cho Part 1/Part 3 Reading vs. Short videos. | *"Short reels are fun, yet reading long articles builds way better focus."* |
+| **"I prefer texting over calling for quick daily updates."** | Tôi thích nhắn tin hơn gọi điện nếu chỉ báo tin nhanh hằng ngày. | Phản xạ mượt khi được hỏi về thói quen liên lạc (Communication Part 1). | *"Unless it's urgent, I'd rather text than call so people can reply whenever they're free."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi quen thuộc Part 1: *"How do you usually get your daily news?"***
+   * *Khi nào gặp:* Speaking Part 1 (News / Media).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I mostly read news updates on my phone during lunch or listen to podcasts while commuting."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Nowadays I get almost all my news online through reputable news apps and YouTube summaries. Reading on my phone is super convenient, and listening to short morning briefings lets me stay informed without staring at a screen too early."*
+2. **Tình huống 2 — Hỏi về tin giả trên mạng: *"Do you trust everything you read on social media?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Media literacy).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Definitely not—a lot of posts are exaggerated or edited just to get clicks."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Not at all. Anyone can post rumors online without checking facts, so whenever I see shocking news on Facebook or TikTok, I quickly search reliable mainstream outlets before believing or sharing it."*
+3. **Tình huống 3 — Hỏi về thói quen giao tiếp: *"Do you prefer texting or making phone calls?"***
+   * *Khi nào gặp:* Speaking Part 1 (Communication / Phones).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I prefer texting for casual chats, though calling is much faster for urgent issues."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Normally I prefer texting because it's less intrusive—you don't interrupt someone while they're working or in a meeting. Still, if there's a complicated misunderstanding or an urgent deadline, jumping on a quick two-minute call solves everything faster."*
+4. **Tình huống 4 — Hỏi quan điểm Part 3: *"How has social media changed the way people consume news?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Traditional vs. Social Media).
+   * 🟢 **Trả lời ngắn (1 câu):** *"News spreads instantly now, though people often skip checking whether a post is actually true."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"The biggest change is speed and brevity. Instead of sitting down to read a full newspaper, people scroll through 30-second video summaries—which makes staying updated super easy, yet also increases the spread of clickbait and misleading rumors."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Kiểm chứng tin tức trên mạng xã hội — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Social media spreads fake news very quickly today.`
+   * 🟡 *Câu vừa (18 từ):* `Social media platforms spread false information rapidly because many users share dramatic posts without checking the facts.`
+   * 🔵 *Câu dài (30 từ):* `Because emotional and sensational headlines are often shared thousands of times before anyone verifies the source, misleading rumors can cause unnecessary public panic within just a few hours.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động hiện tại `are often shared`; `sensational headlines` (số nhiều) đi với `are`.
+2. **Chuỗi 2 (Báo in truyền thống vs. báo mạng):**
+   * 🟢 *Câu ngắn (9 từ):* `Fewer young people read printed newspapers these days.`
+   * 🟡 *Câu vừa (18 từ):* `Fewer young adults buy printed newspapers nowadays because online news apps are free and updated instantly.`
+   * 🔵 *Câu dài (30 từ):* `Although traditional printed newspapers still offer reliable, in-depth reporting, most young readers prefer free online news platforms, which deliver breaking updates directly to their smartphones in real time.`
+   * *Điểm ngữ pháp cần giữ sạch:* `most young readers` số nhiều $\rightarrow$ `prefer`; `news` luôn là danh từ không đếm được (không có *newses*).
+3. **Chuỗi 3 (Tương tác mặt đối mặt vs. nhắn tin):**
+   * 🟢 *Câu ngắn (9 từ):* `Text messages can sometimes cause misunderstandings between friends.`
+   * 🟡 *Câu vừa (18 từ):* `Texting can easily cause misunderstandings between coworkers because short messages do not show tone of voice.`
+   * 🔵 *Câu dài (29 từ):* `Since written text messages lack facial expressions and tone of voice, sensitive topics should always be discussed in person or over a call to prevent unnecessary arguments.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `should always be discussed`; `lack` đi trực tiếp với tân ngữ (không có *lack of* khi làm động từ).

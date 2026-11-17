@@ -721,3 +721,55 @@ You should say:
 1. **Bước 1 (Level 1):** Làm chủ mô tả 1 thiết bị yêu thích: Tên thiết bị ➡️ Thời lượng dùng ➡️ Tính năng hay dùng nhất ➡️ Lý do thích.
 2. **Bước 2 (Level 2):** Tập biện luận 2 mặt: Mặt lợi (*convenience, instantaneous access*) vs Mặt hại (*screen addiction, digital distractions*).
 3. **Bước 3 (Level 3):** Thuần thục các thuật ngữ học thuật: *paradigm shift, cognitive amplifier, double-edged sword, algorithmic automation, pervasive*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"Honestly, I can't imagine getting through a day without my phone."** | Thật lòng thì tôi không tưởng tượng nổi một ngày thiếu điện thoại. | Câu mở đầu cực tự nhiên cho Part 1 Technology / Smartphones. | *"Between alarms, maps, and QR payments, I can't get through a day without my phone."* |
+| **"AI tools save me heaps of time on repetitive tasks."** | Công cụ AI giúp tôi tiết kiệm khối thời gian cho mấy việc lặp đi lặp lại. | Dùng khi chia sẻ ứng dụng công nghệ thực tế trong công việc/học tập (Part 1/3). | *"AI assistants save me heaps of time when summarizing long English articles."* |
+| **"Technology is a classic double-edged sword."** | Công nghệ đúng kiểu một con dao hai lưỡi. | Câu dẫn mở bài Part 3 tuyệt vời trước khi nêu cả mặt lợi lẫn mặt hại. | *"Smartphones are a classic double-edged sword: super helpful yet deeply distracting."* |
+| **"I still double-check AI answers because it makes things up."** | Tôi vẫn kiểm tra lại câu trả lời của AI vì nó hay bịa thông tin. | Nhận xét rất đời, sắc bén và thực tế cho Part 3 về AI & độ tin cậy. | *"Chatbots write fast, yet I always double-check outputs since they still make things up."* |
+| **"Notifications constantly pull my attention away from deep work."** | Thông báo điện thoại cứ kéo sự chú ý của tôi khỏi việc cần tập trung. | Dùng khi bàn về tác hại của thiết bị số lên khả năng tập trung. | *"Turning off pop-up notifications stops them from pulling my focus away while studying."* |
+| **"Humans still need to stay in the driver's seat, not machines."** | Con người vẫn phải nắm quyền kiểm soát, chứ không phải máy móc. | Câu chốt ngắn gọn, tự nhiên cho các câu hỏi AI có thay thế con người không. | *"AI should assist doctors and engineers, yet humans must stay in the driver's seat."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi quen thuộc Part 1: *"What piece of technology do you use the most every day?"***
+   * *Khi nào gặp:* Speaking Part 1 (Technology / Devices) hoặc tán gẫu đồ công nghệ.
+   * 🟢 **Trả lời ngắn (1 câu):** *"Aside from my work laptop, my smartphone is definitely the device I rely on most."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Hands down, it's my laptop and smartphone. I spend eight hours a day coding and reading docs on my laptop, while my phone handles everything else—from setting morning alarms and checking maps to paying for coffee via QR code."*
+2. **Tình huống 2 — Hỏi về thói quen dùng AI: *"Do you use AI tools in your daily work or study?"***
+   * *Khi nào gặp:* Câu hỏi cực hay gặp hiện nay ở công sở & Speaking Part 1/Part 3.
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, I use AI almost daily to brainstorm ideas, explain tricky concepts, and check grammar."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Definitely—AI tools have become part of my daily workflow. I use them like a smart assistant to break down complex documentation or spot tiny bugs in my writing, though I always verify the final result myself."*
+3. **Tình huống 3 — Hỏi về sự cố công nghệ: *"Do you ever get frustrated when technology fails?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2 (Describe a time a piece of technology broke).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, especially when the Wi-Fi drops or my laptop freezes right before a deadline."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Oh, all the time! Nothing annoys me faster than a laptop crashing or Wi-Fi disconnecting in the middle of an online call. It reminds me how helpless we get whenever basic tech stops cooperating."*
+4. **Tình huống 4 — Hỏi quan điểm Part 3: *"Will artificial intelligence replace human teachers or programmers?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Automation & AI).
+   * 🟢 **Trả lời ngắn (1 câu):** *"It will replace routine tasks, yet humans are still needed for creativity and real judgment."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I don't think AI will completely replace skilled professionals, though people who know how to use AI will outperform those who don't. Teaching requires empathy and mentorship, and engineering requires real-world system judgment that software still lacks."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Lợi ích & rủi ro phụ thuộc vào AI — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `AI tools help workers complete routine tasks much faster.`
+   * 🟡 *Câu vừa (18 từ):* `Modern AI tools help office workers finish repetitive tasks faster, though relying on them blindly can cause mistakes.`
+   * 🔵 *Câu dài (30 từ):* `While generative AI tools dramatically speed up repetitive tasks such as drafting emails or summarizing reports, employees still need strong critical thinking to verify accuracy and catch subtle errors.`
+   * *Điểm ngữ pháp cần giữ sạch:* `employees` số nhiều $\rightarrow$ `need`; cấu trúc song song sau `such as`: `drafting ... or summarizing ...`.
+2. **Chuỗi 2 (Cai nghiện màn hình điện thoại):**
+   * 🟢 *Câu ngắn (9 từ):* `Spending too much time on phones hurts our focus.`
+   * 🟡 *Câu vừa (18 từ):* `Checking phone notifications every five minutes ruins our concentration and makes simple tasks take twice as long.`
+   * 🔵 *Câu dài (30 từ):* `Because social media algorithms are designed to keep users scrolling continuously, many people lose hours of productive time every day unless they deliberately put their phones in another room.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động hiện tại `are designed to V`; cấu trúc `keep + O + V-ing` (`keep users scrolling`).
+3. **Chuỗi 3 (Lần đầu tự sửa hoặc nâng cấp máy tính — Quá khứ đơn):**
+   * 🟢 *Câu ngắn (9 từ):* `Last month I upgraded the RAM on my laptop.`
+   * 🟡 *Câu vừa (18 từ):* `Last month I watched a tutorial online and upgraded my laptop's RAM so it would run much faster.`
+   * 🔵 *Câu dài (30 từ):* `After my old laptop kept freezing during heavy coding sessions last month, I bought a new SSD and upgraded the memory myself, which completely solved the performance issue.`
+   * *Điểm ngữ pháp cần giữ sạch:* Phối hợp Quá khứ đơn đều (`kept`, `bought`, `upgraded`, `solved`); `keep + V-ing` (`kept freezing`).

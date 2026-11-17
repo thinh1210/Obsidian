@@ -1,7 +1,10 @@
 # 🎙️ IELTS Speaking Master Index & Lộ Trình Nâng Band Toàn Diện
 
 > [!NOTE] Cấu Trúc Kho Tài Liệu Speaking Mở Rộng
-> Thư mục **Speaking** được quy hoạch thành 3 phân khu chuyên biệt cùng 1 Cẩm nang Từ vựng & Mẫu câu A1-C1 trung tâm, bao phủ toàn diện từ nền tảng giao tiếp sơ cấp đến các câu hỏi trừu tượng, hóc búa nhất của kỳ thi IELTS:
+> Thư mục **Speaking** được quy hoạch kèm lộ trình cá nhân và 4 phân khu chuyên biệt cùng 1 Cẩm nang Từ vựng & Mẫu câu A1-C1 trung tâm, bao phủ toàn diện từ Input giao tiếp đời sống hằng ngày đến các câu hỏi trừu tượng, hóc búa nhất của kỳ thi IELTS:
+> - **🏛️ [[../_IELTS_Note_Master_Index|Trung Tâm 5 Kỹ Năng IELTS Note]]** | **🗺️ [[../../0_Lo_Trinh_IELTS_Ca_Nhan_Chi_Tiet|Lộ Trình Học IELTS Cá Nhân Hóa Chi Tiết (8 Tuần)]]**
+> - **📘 [[0_Speaking_Master_Synthesis_and_Progressive_Examples|Tổng Hợp Kiến Thức Speaking & Kho 128 Ví Dụ Phản Xạ Tiến Hóa (Band 5.0 ➔ 8.5+)]]:** Bảng chiến lược 3 Parts + 32 chuỗi trả lời nâng cấp 4 bậc từ cơ bản đến nâng cao.
+> - **🆕 [[Daily_Life_Input/0_Daily_Life_Spoken_Input_Master_Hub|🗣️ Cẩm Nang Input Tiếng Anh Đời Sống Hằng Ngày & Phản Xạ Tình Huống (Daily Life Spoken Input)]]:** Kho cụm từ cửa miệng (*Spoken Chunks*) cho 7 tình huống sinh hoạt hằng ngày, 28 Q&A, 30 bẫy dịch thô tiếng Việt và quy trình nạp Input 30 phút/ngày.
 > 0. **🏛️ [[_CEFR_A1_to_C1_Speaking_Lexicon_and_QA_Patterns|Cẩm Nang Toàn Diện: Từ Vựng, Cụm Từ & 10 Dạng Câu Hỏi - Trả Lời Mẫu (A1 ➡️ C1+)]]:** Bảng phổ từ vựng chức năng 5 cấp độ CEFR, 25 Phrasal Verbs/Idioms đa dụng và 10 khung trả lời mẫu cho mọi dạng câu hỏi.
 > 1. **📁 [[Adv_Chi/|Adv_Chi (Chuyên Đề Nâng Cao & Chi Tiết)]]:** Lưu trữ 6 bài chuyên sâu cốt lõi đã có về đời sống, tiền bạc, ngoại ngữ và môi trường.
 > 2. **📁 [[General_Topics/|General_Topics (Chủ Đề Chung & Đời Sống - 6 Topics)]]:** Bao quát các chủ đề nền tảng, thiết yếu nhất của Part 1 và Part 2 đời thường (mỗi bài gồm Phổ từ vựng A1-C1, 12 Phrasal Verbs/Idioms, 5 Khung câu trả lời, 7 câu Part 1, 2 đề Part 2, 5 câu Part 3).

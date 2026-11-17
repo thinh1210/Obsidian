@@ -773,3 +773,55 @@ You should say:
 1. **Bước 1 (Level 1):** Luyện phản xạ trả lời trong 35 giây: Thói quen ăn uống ➡️ Tần suất tập luyện ➡️ Cảm giác sau khi tập.
 2. **Bước 2 (Level 2):** Dùng các cụm từ A.R.E: *balanced diet, sedentary lifestyle, check-up, immune system, reduce stress*.
 3. **Bước 3 (Level 3):** Thuần thục các thuật ngữ y sinh học: *prophylaxis, bioethical quandary, CRISPR gene editing, hypokinetic afflictions, eugenic commodification*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"Prevention is always better and cheaper than cure."** | Phòng bệnh lúc nào cũng tốt hơn và rẻ hơn chữa bệnh. | Câu "vàng" dùng ngay cho mọi câu hỏi Part 3 & Task 2 về Y tế. | *"Encouraging daily exercise matters because prevention is always better than cure."* |
+| **"Getting seven hours of solid sleep makes a world of difference."** | Ngủ đủ 7 tiếng ngon giấc tạo ra khác biệt một trời một vực. | Dùng khi nói về thói quen giữ sức khỏe (Part 1 Health / Lifestyle). | *"I used to run on five hours of sleep, yet getting seven hours makes a world of difference."* |
+| **"Sitting at a desk all day takes a toll on my posture."** | Ngồi bàn giấy cả ngày gây hại rõ rệt cho dáng/lưng của tôi. | Phản xạ tự nhiên cho dân văn phòng/IT khi nói về sức khỏe. | *"Working on a laptop eight hours straight really takes a toll on my neck and posture."* |
+| **"I go for a quick run to clear my head and stay in shape."** | Tôi chạy bộ ngắn để đầu óc thoáng ra và giữ dáng. | Trả lời ngắn gọn, mượt mà cho câu hỏi về tập thể dục (Part 1). | *"Three evenings a week, I go for a quick run around the park to stay in shape."* |
+| **"Regular check-ups help catch small issues before they get serious."** | Khám sức khỏe định kỳ giúp phát hiện sớm vấn đề trước khi trở nặng. | Dùng khi trả lời Part 1/Part 3 về chăm sóc sức khỏe chủ động. | *"My parents go for annual health check-ups to catch small issues early."* |
+| **"Medical advances should be affordable, not just for the wealthy."** | Tiến bộ y học cần vừa túi tiền mọi người, không chỉ cho người giàu. | Luận điểm đạo đức y sinh dễ nói, rõ ý cho Part 3 Health & Bioethics. | *"New genetic treatments sound exciting, provided they stay affordable for ordinary patients."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi quen thuộc Part 1: *"What do you do to keep fit and healthy?"***
+   * *Khi nào gặp:* Speaking Part 1 (Health / Sports).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I work out three times a week, drink plenty of water, and try to sleep on time."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Because my job keeps me seated for long hours, I make a point of exercising at least three times a week at the gym. On top of that, I avoid sugary sodas and aim for seven hours of sleep so my immune system stays strong."*
+2. **Tình huống 2 — Hỏi về bệnh vặt/chăm sóc bản thân: *"Have you been sick recently, and how do you recover quickly?"***
+   * *Khi nào gặp:* Giao tiếp hằng ngày hoặc Speaking Part 1/2 (nhớ chia **Quá khứ đơn**).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I caught a mild cold last month after getting rained on, so I rested and drank warm tea."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Actually, I came down with a mild flu about a month ago after getting caught in heavy rain. Instead of pushing through work, I took a day off, drank warm ginger tea, and slept early—which helped me bounce back in two days."*
+3. **Tình huống 3 — Hỏi về thói quen ít vận động: *"Do you think people today are less active than in the past?"***
+   * *Khi nào gặp:* Speaking Part 3 (Modern Lifestyle & Health).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, because desk jobs, motorbikes, and food delivery apps mean we barely walk anymore."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Unfortunately, yes. In the past, people walked more and did physical work every day, whereas modern adults sit in front of computers all day and order groceries from their couch—leading to a very sedentary lifestyle."*
+4. **Tình huống 4 — Hỏi quan điểm Part 3: *"Should governments invest more in preventing diseases or building hospitals?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Public Health).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Both matter, though investing in prevention saves far more lives and money long-term."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Obviously we need modern hospitals to treat emergencies, yet spending money on prevention—like free parks, clean water, and public health education—reduces chronic illnesses in the first place and lowers the burden on doctors."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Tác hại của lối sống ngồi nhiều — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Sitting too long every day causes back pain and fatigue.`
+   * 🟡 *Câu vừa (18 từ):* `Leading a sedentary lifestyle often causes chronic back pain, poor posture, and weight gain among modern office workers.`
+   * 🔵 *Câu dài (30 từ):* `Because modern office jobs require workers to remain seated for eight hours a day, leading a sedentary lifestyle frequently causes back pain and increases the long-term risk of heart disease.`
+   * *Điểm ngữ pháp cần giữ sạch:* `require someone to V`; chủ ngữ `leading a sedentary lifestyle` số ít đi với `causes` và `increases`.
+2. **Chuỗi 2 (Đầu tư y tế dự phòng vs. điều trị — Câu bị động):**
+   * 🟢 *Câu ngắn (9 từ):* `More public money should be spent on health education.`
+   * 🟡 *Câu vừa (18 từ):* `More government funding should be spent on preventive healthcare so that fewer citizens suffer from chronic illnesses.`
+   * 🔵 *Câu dài (31 từ):* `Rather than waiting until hospitals become overcrowded, public funds should be invested in fitness facilities and nutrition programs, which can prevent common illnesses and save healthcare costs in the long run.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động chuẩn `should be spent on` / `should be invested in`; sau `Rather than` dùng `V-ing` (`waiting`).
+3. **Chuỗi 3 (Tác dụng của giấc ngủ đủ đối với hiệu suất):**
+   * 🟢 *Câu ngắn (9 từ):* `Sleeping well helps people concentrate better at work.`
+   * 🟡 *Câu vừa (18 từ):* `Getting enough sleep every night helps workers stay focused and make fewer careless mistakes during busy days.`
+   * 🔵 *Câu dài (29 từ):* `When individuals prioritize getting seven to eight hours of uninterrupted sleep each night, their memory is strengthened and they handle workplace stress with far greater patience.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `is strengthened`; danh từ số ít `memory` đi với `is`.

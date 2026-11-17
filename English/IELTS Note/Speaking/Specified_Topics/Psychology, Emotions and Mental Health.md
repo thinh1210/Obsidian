@@ -757,3 +757,55 @@ You should say:
 1. **Bước 1 (Level 1):** Luyện phản xạ cảm xúc trong 30 giây: Cảm xúc thường gặp ➡️ Cách xoa dịu ➡️ Người tin cậy để chia sẻ.
 2. **Bước 2 (Level 2):** Dùng các cụm từ A.R.E: *emotional well-being, cope with pressure, open up to, self-esteem, digital detox*.
 3. **Bước 3 (Level 3):** Vận dụng thuật ngữ tâm lý học C1/C2: *cognitive dissonance, toxic positivity, impostor syndrome, affective equilibrium, stoic resilience*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"Talking things out with a close friend always takes a weight off my mind."** | Nói hết ra với một người bạn thân luôn giúp tôi nhẹ lòng hẳn. | Câu cửa miệng tự nhiên khi nói về cách giải tỏa căng thẳng (Part 1/2). | *"Whenever I feel stuck, talking things out with my best friend takes a weight off my mind."* |
+| **"Going for a walk without my phone helps me reset my mood."** | Đi dạo không mang điện thoại giúp tôi chỉnh lại tâm trạng. | Cách diễn đạt rất đời cho thói quen *digital detox* (Part 1/3). | *"If work gets too stressful, a 20-minute walk without my phone resets my mood right away."* |
+| **"Comparing yourself to highlight reels online only kills your confidence."** | So sánh bản thân với cuộc sống màu hồng trên mạng chỉ làm tụt tự tin. | Luận điểm sắc bén, dễ nói cho chủ đề Mạng xã hội & Tâm lý giới trẻ. | *"Instagram shows everyone's highlight reels, so comparing yourself to strangers hurts your mood."* |
+| **"It's completely normal to have off days when nothing feels productive."** | Có những ngày tụt năng lượng làm gì cũng không vào là chuyện rất bình thường. | Dùng khi chia sẻ góc nhìn cân bằng về áp lực năng suất (*toxic positivity*). | *"I used to feel guilty when tired, yet now I accept that everyone has off days."* |
+| **"Having a small routine gives me a sense of control on chaotic weeks."** | Giữ một thói quen nhỏ giúp tôi thấy mình làm chủ được cuộc sống tuần bận. | Dùng khi liên kết chủ đề Tâm lý với Quản lý thời gian (Part 1/2/3). | *"Making my bed and brewing coffee each morning gives me a calm sense of control."* |
+| **"Asking for help is a sign of self-awareness, not weakness."** | Nhờ giúp đỡ là dấu hiệu của người hiểu mình, chứ không phải yếu đuối. | Câu chốt tuyệt đẹp cho Part 3 Mental Health. | *"Opening up to a counselor or mentor shows maturity and self-awareness, not weakness."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi quen thuộc Part 1: *"What usually makes you feel stressed, and how do you deal with it?"***
+   * *Khi nào gặp:* Speaking Part 1 (Stress / Emotions) hoặc trò chuyện cùng bạn bè.
+   * 🟢 **Trả lời ngắn (1 câu):** *"Tight deadlines stress me out most, so I deal with them by exercising and sleeping early."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I mostly get stressed when multiple tasks pile up at the exact same time. When that happens, I step away from my desk for a short walk, write down the top two priorities, and avoid checking work messages late at night."*
+2. **Tình huống 2 — Hỏi về sự tự tin / lo âu: *"Do you often feel nervous before a big presentation or exam?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2 (Describe a stressful moment — chú ý thì **Hiện tại vs. Quá khứ**).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, I always feel butterflies at first, though thorough preparation calms me down fast."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Definitely—my heart usually races right before speaking in front of a crowd or starting an IELTS interview. However, once I take a slow breath and get past the first sentence, I usually settle in and focus on what I want to say."*
+3. **Tình huống 3 — Hỏi về vai trò của bạn bè với tâm lý: *"Do you prefer keeping problems to yourself or talking to others?"***
+   * *Khi nào gặp:* Speaking Part 1 (Personality / Feelings).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I try solving small issues myself first, yet talking to close friends helps with big worries."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"To be honest, I'm slightly introverted, so I usually process small frustrations on my own by going for a run. If something keeps bothering me for days, though, venting to a trusted friend always gives me fresh perspective."*
+4. **Tình huống 4 — Hỏi quan điểm Part 3: *"Why do young adults today seem more anxious than previous generations?"***
+   * *Khi nào gặp:* Speaking Part 3 & Writing Task 2 (Modern Stress & Mental Health).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Mainly because of fierce job competition, high living costs, and constant comparison on social media."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"There are two huge pressures today. Offline, young people face tough job markets and expensive housing; online, they constantly see peers showcasing unrealistic success on social media, which quietly fuels anxiety and self-doubt."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Tác động của mạng xã hội tới tâm lý — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Social media often makes teenagers feel insecure about themselves.`
+   * 🟡 *Câu vừa (18 từ):* `Comparing themselves to edited photos on social media often makes teenagers feel anxious and less confident in real life.`
+   * 🔵 *Câu dài (30 từ):* `Because social media platforms highlight idealized lifestyles and filtered appearances, young users frequently compare themselves unfairly to strangers, which erodes self-esteem and increases anxiety over time.`
+   * *Điểm ngữ pháp cần giữ sạch:* Phản thân `compare themselves to`; `erodes` và `increases` chia số ít theo `, which`.
+2. **Chuỗi 2 (Vận động giúp ổn định tinh thần):**
+   * 🟢 *Câu ngắn (9 từ):* `Regular exercise is good for our mental health.`
+   * 🟡 *Câu vừa (18 từ):* `Doing regular physical exercise improves people's mood and helps them cope better with daily workplace stress.`
+   * 🔵 *Câu dài (30 từ):* `Engaging in thirty minutes of aerobic exercise several times a week releases helpful brain chemicals, thereby reducing anxiety, lifting daily mood, and helping individuals handle pressure more calmly.`
+   * *Điểm ngữ pháp cần giữ sạch:* `Engaging in...` làm chủ ngữ số ít $\rightarrow$ `releases`; chuỗi V-ing song song (`reducing ... lifting ... and helping ...`).
+3. **Chuỗi 3 (Cân bằng kỳ vọng bản thân — Câu điều kiện & bị động):**
+   * 🟢 *Câu ngắn (9 từ):* `Mental health support should be available at every school.`
+   * 🟡 *Câu vừa (18 từ):* `Free counseling services should be provided at schools and workplaces so stressed individuals feel supported early.`
+   * 🔵 *Câu dài (30 từ):* `If accessible mental health counseling were offered at universities and companies, employees and students would seek help sooner instead of suffering silently until burnout becomes severe.`
+   * *Điểm ngữ pháp cần giữ sạch:* Câu điều kiện loại 2 bị động `were offered`; `instead of + V-ing` (`suffering`).

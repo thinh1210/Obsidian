@@ -660,3 +660,55 @@ You should say:
 1. **Bước 1 (Level 1):** Luyện phản xạ trôi chảy trong 40 giây: Phương tiện ưa chuộng ➡️ Điểm đến gần nhất ➡️ Lý do lựa chọn.
 2. **Bước 2 (Level 2):** Sử dụng các cụm từ A.R.E: *broaden horizons, tourist attraction, travel on a shoestring, scenic landscape*.
 3. **Bước 3 (Level 3):** Làm chủ các luận điểm Part 3 trừu tượng: *overtourism, commodification of heritage, visceral serendipity, carry capacity of biospheres, off the beaten track*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"Traveling is my favorite way to recharge my batteries."** | Du lịch là cách yêu thích giúp tôi nạp lại năng lượng. | Câu trả lời nhanh gọn cho câu *"Do you like traveling?"* (Part 1). | *"Whenever I feel burnt out, traveling is my favorite way to recharge my batteries."* |
+| **"I'd rather explore off the beaten track than follow crowds."** | Tôi thích khám phá nơi hoang sơ ít người hơn là theo đám đông. | Dùng để thể hiện cá tính du lịch trong Part 1 & Part 2. | *"Instead of busy beaches, I'd rather explore off the beaten track in the mountains."* |
+| **"The scenery there completely took my breath away."** | Cảnh vật ở đó khiến tôi choáng ngợp đẹp đến nghẹt thở. | Dùng khi miêu tả phong cảnh trong chuyến đi cũ (Part 2 — Quá khứ đơn). | *"When we reached the mountain pass at sunrise, the view completely took my breath away."* |
+| **"Public transport here still isn't reliable enough for daily trips."** | Giao thông công cộng ở đây vẫn chưa đủ tin cậy để đi hằng ngày. | Dùng khi trả lời Part 1/Part 3 về hệ thống xe buýt, tàu điện. | *"Hopefully the new metro helps, because buses still aren't reliable enough during rush hour."* |
+| **"I prefer traveling with a loose itinerary instead of booking every hour."** | Tôi thích đi du lịch theo lịch trình thoáng thay vì kín từng giờ. | Dùng khi nói về phong cách đi du lịch cá nhân (Part 1 Holidays). | *"I usually book my hotel first, then travel with a loose itinerary so I can stay flexible."* |
+| **"Always check local food spots to avoid tourist traps."** | Nhớ hỏi quán địa phương để tránh bị chặt chém kiểu du lịch. | Lời khuyên tự nhiên trong Part 1 hoặc kể trải nghiệm du lịch. | *"We avoided the main square and asked our host to steer clear of tourist traps."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi về chuyến đi gần đây: *"Where did you go on your last vacation?"***
+   * *Khi nào gặp:* Speaking Part 1/Part 2 hoặc trò chuyện sau kỳ nghỉ lễ (nhớ chia **Quá khứ đơn**).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Last summer I went on a three-day trip to Da Lat with a few close friends."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Last August, I took a short weekend getaway to Da Lat with two friends from university. The weather was cool and misty, and we spent most of our time riding around pine forests and trying local street food."*
+2. **Tình huống 2 — Hỏi về cách di chuyển hằng ngày: *"How do you usually get around your city?"***
+   * *Khi nào gặp:* Speaking Part 1 (Transport / Commuting).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I ride my motorbike every day because it's convenient for narrow streets."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"For daily commuting, I mostly ride my scooter since it lets me navigate narrow alleys easily. However, whenever it rains heavily or I'm heading out at night, I prefer booking a ride-hailing bike or car on an app."*
+3. **Tình huống 3 — Hỏi về việc chuẩn bị trước chuyến đi: *"Do you prefer planning trips in advance or spontaneously?"***
+   * *Khi nào gặp:* Speaking Part 1 (Travel habits).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I book transportation and hotels early, but I leave daily activities flexible."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I like a balance of both. I always book tickets and accommodation in advance to save money, yet I avoid packing my itinerary too tightly so I can explore hidden cafés or rest whenever I feel tired."*
+4. **Tình huống 4 — Hỏi quan điểm vĩ mô: *"What problems can mass tourism cause for local towns?"***
+   * *Khi nào gặp:* Speaking Part 3 (Tourism impact).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Too many tourists often cause traffic congestion, litter, and higher prices for locals."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"While tourism brings income, overtourism puts serious pressure on local infrastructure and natural sites. Quiet coastal towns can end up overcrowded, polluted, and too expensive for local residents to afford daily goods."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Lợi ích du lịch mở mang tầm mắt):**
+   * 🟢 *Câu ngắn (9 từ):* `Traveling to new places helps us learn many things.`
+   * 🟡 *Câu vừa (18 từ):* `Traveling to unfamiliar places broadens our horizons and teaches us how to adapt to different local cultures.`
+   * 🔵 *Câu dài (30 từ):* `Visiting unfamiliar destinations not only gives travelers a much-needed respite from work stress, but also immerses them in diverse traditions, thereby making them more open-minded and culturally respectful.`
+   * *Điểm ngữ pháp cần giữ sạch:* `Visiting...` làm chủ ngữ số ít $\rightarrow$ `gives` và `immerses`; cấu trúc `make someone + Adj` (`more open-minded`).
+2. **Chuỗi 2 (Chuyến đi đáng nhớ trong quá khứ):**
+   * 🟢 *Câu ngắn (9 từ):* `We visited an old village and stayed at a homestay.`
+   * 🟡 *Câu vừa (18 từ):* `Last spring we visited a picturesque mountain village where we stayed at a homestay with hospitable locals.`
+   * 🔵 *Câu dài (30 từ):* `During our trip to Ha Giang last spring, we stayed in a cozy wooden homestay, where our hospitable hosts cooked traditional dishes and shared fascinating stories about local village life.`
+   * *Điểm ngữ pháp cần giữ sạch:* Toàn bộ hành động đã kết thúc trong quá khứ (`stayed`, `cooked`, `shared`) phải chia Quá khứ đơn đều nhau.
+3. **Chuỗi 3 (Phát triển du lịch bền vững — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Tourists must protect the natural beauty of coastal beaches.`
+   * 🟡 *Câu vừa (17 từ):* `Local governments and tourists should cooperate to protect pristine beaches from plastic waste and overcrowding.`
+   * 🔵 *Câu dài (31 từ):* `Unless strict limits are placed on visitor numbers and waste disposal, popular tourist destinations will gradually lose their natural beauty, which could damage both the local ecosystem and long-term tourism revenue.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động sau `Unless`: `are placed on`; dùng `both A and B` song song hai cụm danh từ.

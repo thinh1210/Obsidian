@@ -623,3 +623,55 @@ You should say:
    - Tập nói bài Part 2 về cô em họ An hoặc cậu bạn Duy ở **Bản VỪA**.
 3. **Bước 3 (Bứt phá 7.5+):**
    - Đọc to bài mẫu Part 3, chú ý nhấn mạnh các từ vựng chủ đề: *self-expression, fast fashion, sustainable fashion, presentable attire, fashion victim*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"When it comes to clothes, comfort always comes first for me."** | Nói về quần áo, sự thoải mái luôn là ưu tiên số 1 của tôi. | Câu mở đầu Part 1 cực kỳ mượt cho mọi câu hỏi về phong cách ăn mặc. | *"When it comes to clothes, comfort always comes first, so I mostly wear cotton T-shirts."* |
+| **"I'm not really into chasing fast-changing fashion trends."** | Tôi không quá ham chạy theo mấy xu hướng thời trang đổi xoành xoạch. | Dùng khi được hỏi có hay theo dõi xu hướng thời trang không (Part 1/3). | *"To be honest, I'm not into chasing fashion trends; I just stick to basic colors."* |
+| **"I prefer buying neutral basics that are easy to mix and match."** | Tôi thích mua đồ cơ bản màu trung tính để dễ phối với nhau. | Dùng khi trả lời về gu ăn mặc hoặc thói quen mua sắm (Part 1/2). | *"Black, white, and navy items are great because they're super easy to mix and match."* |
+| **"I usually shop online because physical stores rarely carry my size."** | Tôi thường mua online vì cửa hàng ngoài ít khi có size của tôi. | Câu trả lời chân thực, tự nhiên áp dụng đúng trải nghiệm thực tế của bạn. | *"Online platforms save me so much hassle since regular stores rarely stock oversized sizes."* |
+| **"Depending on the occasion, I know when to dress up or dress down."** | Tùy vào dịp mà tôi biết lúc nào cần ăn diện hay mặc giản dị. | Dùng khi nói về quy định trang phục đi làm, đi tiệc (Part 1/Part 3). | *"I wear casual hoodies to code, though I definitely dress up for weddings or client meetings."* |
+| **"I'd rather invest in one durable piece than five cheap ones."** | Tôi thà đầu tư một món bền còn hơn năm món rẻ tiền nhanh hỏng. | Dùng trong Part 3 khi bàn về *fast fashion* vs *sustainable fashion*. | *"Cheap shirts wear out after a few washes, so I'd rather invest in one durable jacket."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi về trang phục hằng ngày: *"What kind of clothes do you usually wear?"***
+   * *Khi nào gặp:* Speaking Part 1 (Clothes / Fashion) hoặc trò chuyện đời thường.
+   * 🟢 **Trả lời ngắn (1 câu):** *"Most days I wear plain oversized T-shirts, comfortable jeans, and sneakers."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Since comfort is my top priority, I usually stick to casual everyday outfits like breathable cotton T-shirts, loose jeans, and a reliable pair of sneakers. Neutral colors make it effortless to mix and match without thinking every morning."*
+2. **Tình huống 2 — Hỏi về thói quen mua quần áo: *"Do you prefer shopping for clothes online or in stores?"***
+   * *Khi nào gặp:* Speaking Part 1 (Shopping / Fashion).
+   * 🟢 **Trả lời ngắn (1 câu):** *"I almost always shop online because it offers way more size options and better prices."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Definitely online! Visiting traditional malls often feels frustrating because they rarely stock larger sizes, whereas e-commerce shops have clear size charts, customer reviews, and easy return policies."*
+3. **Tình huống 3 — Hỏi về trang phục công sở/đi học: *"Do you think people should wear formal clothes at work?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Uniforms / Dress codes).
+   * 🟢 **Trả lời ngắn (1 câu):** *"It depends on the job—client-facing roles need formal wear, while tech workers do better in casual clothes."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"I think dress codes should match the nature of the job. Lawyers or bankers obviously need tailored suits to look professional, whereas software engineers are far more comfortable and productive in smart-casual outfits."*
+4. **Tình huống 4 — Kể về món đồ mới mua hoặc yêu thích: *"What is your favorite item of clothing?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2 (Describe an item of clothing).
+   * 🟢 **Trả lời ngắn (1 câu):** *"My go-to piece is a black denim jacket I bought last winter because it goes with everything."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Hands down, it's my black denim jacket that I picked up online last winter. The fabric is thick yet breathable, it fits like a glove, and I can throw it over any plain T-shirt to look instantly put-together."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Mua sắm quần áo trực tuyến):**
+   * 🟢 *Câu ngắn (9 từ):* `Many people buy clothes online because it is convenient.`
+   * 🟡 *Câu vừa (18 từ):* `Many shoppers prefer buying clothes online because e-commerce stores offer wider size ranges and lower prices.`
+   * 🔵 *Câu dài (30 từ):* `Although customers cannot try on garments before paying, online clothing platforms remain popular because they offer transparent reviews, wider size selections, and flexible return policies for busy shoppers.`
+   * *Điểm ngữ pháp cần giữ sạch:* `customers cannot try on` (không chêm giới từ thừa); `platforms` số nhiều đi với `remain` và `offer`.
+2. **Chuỗi 2 (Tác hại của thời trang nhanh — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Cheap clothes wear out quickly and create much waste.`
+   * 🟡 *Câu vừa (18 từ):* `Cheap fast-fashion garments wear out after a few washes, which forces consumers to buy more and creates textile waste.`
+   * 🔵 *Câu dài (30 từ):* `Because fast-fashion companies prioritize low prices over durability, millions of poorly made garments are discarded every year, causing severe environmental pollution in developing countries.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động hiện tại `are discarded`; cụm phân từ chỉ kết quả `causing...`.
+3. **Chuỗi 3 (Chọn trang phục theo tính cách — Trật tự tính từ):**
+   * 🟢 *Câu ngắn (9 từ):* `I bought a comfortable black cotton hoodie last week.`
+   * 🟡 *Câu vừa (18 từ):* `Last week I bought a comfortable black cotton hoodie that fits well and keeps me warm in air-conditioned rooms.`
+   * 🔵 *Câu dài (29 từ):* `Even though I rarely follow seasonal fashion trends, I splashed out on a high-quality black cotton hoodie last week, which has quickly become my favorite wardrobe staple.`
+   * *Điểm ngữ pháp cần giữ sạch:* Đúng trật tự tính từ (`high-quality` [chất lượng] $\rightarrow$ `black` [màu] $\rightarrow$ `cotton` [chất liệu] $\rightarrow$ `hoodie` [danh từ]); thì Quá khứ đơn `splashed out`.

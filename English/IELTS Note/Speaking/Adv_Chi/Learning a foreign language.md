@@ -643,3 +643,55 @@ You should say:
 1. **Luyện dùng Discourse Markers:** Mỗi lần trả lời câu hỏi, tập sử dụng ít nhất 2 từ nối chuyển ý nâng cao (*furthermore, whereas, to illustrate, on the contrary*) thay vì chỉ dùng *and, but, so*.
 2. **Thực hành các Fillers tự nhiên:** Đứng trước gương, bấm giờ trả lời câu hỏi Part 1, mở đầu bằng các fillers chuẩn (*Well, to be perfectly honest... / Actually, let me see...*).
 3. **Kể bài mẫu tiếng Nhật Part 2:** Bấm giờ 2 phút, thực hành kể lại bài nói tiếng Nhật mà không nhìn giấy, nhấn mạnh vào các từ khóa: *steep learning curve, pictographic Kanji, practice makes perfect, job prospects*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I'm trying to pick up natural phrases from daily podcasts."** | Tôi đang cố học lỏm các cụm tự nhiên từ podcast hằng ngày. | Dùng khi nói về phương pháp tự học tiếng Anh thực tế của bạn (Part 1/2). | *"Instead of memorizing isolated words, I pick up natural phrases from daily podcasts."* |
+| **"The hardest part for me is turning passive knowledge into active speech."** | Khó nhất với tôi là biến vốn từ đọc hiểu thành phản xạ nói. | Diễn đạt cực chuẩn và đúng thực trạng của bạn khi thi Speaking! | *"I understand English articles fine, yet turning passive vocabulary into active speech takes practice."* |
+| **"When I panic, my mind blanks out and I start translating in my head."** | Khi cuống lên, đầu tôi trống rỗng và bắt đầu dịch trong đầu. | Dùng khi giải thích khó khăn lúc học ngoại ngữ (Part 1/2). | *"I used to translate word-for-word in my head, which made me hesitate constantly."* |
+| **"Speaking with locals helped me get over my fear of making mistakes."** | Nói chuyện với người bản xứ giúp tôi hết sợ mắc lỗi. | Dùng cho Part 2 hoặc kể kinh nghiệm cải thiện giao tiếp. | *"Once I stopped worrying about tiny grammar slips, my fluency improved dramatically."* |
+| **"Consistency beats cramming when it comes to learning a language."** | Sự đều đặn luôn thắng học nhồi nhét khi nói đến học ngoại ngữ. | Câu chốt cực hay cho Part 3 Education / Language learning. | *"Thirty minutes of daily practice beats cramming for four hours once a week."* |
+| **"Being bilingual opens doors to global tech docs and careers."** | Biết hai ngôn ngữ mở ra cánh cửa tiếp cận tài liệu công nghệ và việc làm. | Dùng khi giải thích động lực học tiếng Anh cho dân kỹ thuật/IT. | *"In software engineering, knowing English opens doors to official docs and global teams."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Câu hỏi quen thuộc: *"What languages can you speak, and why are you learning English?"***
+   * *Khi nào gặp:* Speaking Part 1 (Languages) hoặc giao tiếp với người nước ngoài.
+   * 🟢 **Trả lời ngắn (1 câu):** *"My native language is Vietnamese, and I'm learning English mainly for my tech career."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Besides Vietnamese, I speak English at an intermediate level. In my field, virtually all technical manuals, error discussions, and international tutorials are written in English, so improving my fluency directly boosts my work performance."*
+2. **Tình huống 2 — Hỏi về khó khăn khi học ngoại ngữ: *"What do you find most difficult about learning English?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 2.
+   * 🟢 **Trả lời ngắn (1 câu):** *"My biggest hurdle is speaking fluently without pausing to translate in my head."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Reading technical articles is relatively easy for me, but speaking smoothly in real time is tough. Sometimes I worry too much about tenses and prepositions, which causes me to hesitate and self-correct too often."*
+3. **Tình huống 3 — Hỏi về bí quyết học: *"What is the best way to improve listening and speaking?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Language learning methods).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Shadowing short daily podcasts and doing dictation exercises works wonders for me."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"From my experience, combining dictation with shadowing everyday podcasts is super effective. Dictation trains my ear to catch small ending sounds and spelling, while repeating short spoken chunks builds natural mouth muscle memory."*
+4. **Tình huống 4 — Hỏi quan điểm tương lai: *"Will AI translation apps replace the need to learn foreign languages?"***
+   * *Khi nào gặp:* Speaking Part 3 (Technology & Languages).
+   * 🟢 **Trả lời ngắn (1 câu):** *"They help travelers a lot, yet real human connection still requires speaking the language yourself."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Translation apps are great for ordering food abroad or reading signs, but they're still clunky in deep conversations or humor. Learning a language builds genuine trust and cultural understanding that no app can fully replicate."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Tầm quan trọng của nghe chép chính tả & input hằng ngày):**
+   * 🟢 *Câu ngắn (9 từ):* `Daily listening practice improves my English speaking fluency.`
+   * 🟡 *Câu vừa (18 từ):* `Doing daily dictation and listening to everyday podcasts gradually improves both my spelling accuracy and speaking fluency.`
+   * 🔵 *Câu dài (30 từ):* `When learners expose themselves to everyday spoken English for thirty minutes each day, they naturally absorb common collocations, which reduces hesitation and helps them express ideas much more smoothly.`
+   * *Điểm ngữ pháp cần giữ sạch:* Phản thân `expose themselves to`; `reduces` và `helps` chia số ít theo `, which`.
+2. **Chuỗi 2 (Trẻ em học ngoại ngữ sớm — hợp Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Young children can learn new languages very quickly.`
+   * 🟡 *Câu vừa (18 từ):* `Young children pick up new languages much faster than adults because they are not afraid of making mistakes.`
+   * 🔵 *Câu dài (30 từ):* `Because young children naturally imitate accents without feeling embarrassed about grammar errors, starting a second language in primary school allows them to build strong pronunciation and lasting confidence.`
+   * *Điểm ngữ pháp cần giữ sạch:* Sau `without` dùng `V-ing` (`feeling`); `starting ...` làm chủ ngữ số ít đi với `allows`.
+3. **Chuỗi 3 (Rào cản ngôn ngữ khi đi du lịch hoặc làm việc — Quá khứ đơn):**
+   * 🟢 *Câu ngắn (9 từ):* `Last year I struggled to speak with foreign guests.`
+   * 🟡 *Câu vừa (18 từ):* `Last year I felt nervous speaking with a foreign visitor because I couldn't remember everyday phrases quickly.`
+   * 🔵 *Câu dài (29 từ):* `Although I knew plenty of vocabulary from reading textbooks, I froze during a conversation with a foreign colleague last year, which motivated me to focus on real-life spoken input.`
+   * *Điểm ngữ pháp cần giữ sạch:* Không dùng `but` sau `Although`; chia Quá khứ đơn đều (`knew`, `froze`, `motivated`).

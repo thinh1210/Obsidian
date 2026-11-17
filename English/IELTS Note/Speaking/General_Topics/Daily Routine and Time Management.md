@@ -665,3 +665,55 @@ You should say:
 1. **Bước 1 (Level 1):** Luyện phản xạ miêu tả thời gian biểu trong 45 giây bằng thì Hiện tại đơn: *wake up ➡️ morning tasks ➡️ afternoon focus ➡️ evening wind-down*.
 2. **Bước 2 (Level 2):** Bổ sung trạng từ nối thời gian và từ vựng phong phú: *early riser, digital distractions, prioritize urgent matters, uninterrupted headspace*.
 3. **Bước 3 (Level 3):** Thuần thục cụm thành ngữ và thuật ngữ chuyên sâu: *peak cognitive alertness, decision fatigue, burn the candle at both ends, circadian rhythm*.
+
+---
+
+## 💬 Bổ Sung Thực Chiến: Các Cụm Câu Hay Dùng, Trường Hợp Trả Lời Thường Ngày & Viết Câu Ngắn ➡️ Dài
+
+### 1. Bảng Các Câu & Cụm Câu Hay Dùng Nhất + Trường Hợp Dùng Cụ Thể
+
+| Câu / Cụm câu hay dùng | Nghĩa tiếng Việt | Trường hợp dùng cụ thể | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **"I'm a creature of habit, so I prefer sticking to a routine."** | Tôi là người sống theo thói quen, nên thích bám lịch cố định. | Dùng mở đầu Part 1 khi được hỏi về lịch trình hằng ngày hoặc cuối tuần. | *"I'm a creature of habit, so my weekday mornings rarely change."* |
+| **"When things pile up, I map out a quick to-do list."** | Khi việc chất đống, tôi lập nhanh danh sách việc cần làm. | Dùng khi được hỏi *"How do you organize your time?"* ở Part 1/Part 3. | *"Whenever tasks pile up, I map out a to-do list before touching my phone."* |
+| **"I work best during the first two hours of the morning."** | Tôi làm việc hiệu quả nhất vào hai tiếng đầu buổi sáng. | Dùng khi trả lời câu hỏi về khung giờ vàng / thói quen học tập làm việc. | *"Honestly, I work best during the first two hours after drinking coffee."* |
+| **"On weekends, I let myself off the hook and sleep in."** | Cuối tuần tôi thả lỏng bản thân và ngủ nướng một chút. | Dùng để đối chiếu ngày thường và cuối tuần trong giao tiếp & Part 1. | *"I wake up at 6:30 on weekdays, but on Sundays I let myself sleep in."* |
+| **"If I don't set a clear cutoff time, I end up working past midnight."** | Nếu không chốt giờ nghỉ rõ ràng, tôi dễ làm quá nửa đêm. | Dùng khi kể về thói quen mất cân bằng công việc – cuộc sống (Part 1/2/3). | *"If I don't set a cutoff time at 8 PM, I end up staring at code past midnight."* |
+| **"Time flies when I'm deeply focused on a task."** | Thời gian trôi vèo khi tôi tập trung sâu vào việc gì đó. | Câu cảm thán tự nhiên để nối ý trong Part 2 hoặc nói chuyện hằng ngày. | *"I started debugging at 2 PM, and time flew so fast it was already 6 PM."* |
+
+### 2. Các Trường Hợp Trả Lời Thường Ngày (Everyday Situational Q&A)
+
+1. **Tình huống 1 — Hỏi về buổi sáng bận rộn: *"Do you prefer mornings or evenings?"***
+   * *Khi nào gặp:* IELTS Speaking Part 1 (Time / Daily Routine) hoặc hỏi thăm sở thích sinh hoạt.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I prefer evenings because my schedule is less rushed and I can finally unwind."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Even though I'm more productive in the morning, I actually prefer evenings because there are no looming deadlines. After dinner, I can slow down, listen to music, and enjoy some guilt-free leisure time."*
+2. **Tình huống 2 — Giải thích lý do trễ hẹn hoặc lỡ việc: *"How do you make sure you're punctual?"***
+   * *Khi nào gặp:* Speaking Part 1 hoặc phỏng vấn công việc.
+   * 🟢 **Trả lời ngắn (1 câu):** *"I always set phone reminders fifteen minutes ahead so I don't lose track of time."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"To stay punctual, I synchronize everything on Google Calendar and leave twenty minutes early to account for rush-hour traffic. That way, I rarely show up late or feel stressed."*
+3. **Tình huống 3 — Phản xạ khi bị hỏi về thói quen trì hoãn: *"Do you often put things off?"***
+   * *Khi nào gặp:* Speaking Part 1 & Part 3 (Time Management).
+   * 🟢 **Trả lời ngắn (1 câu):** *"Sometimes I procrastinate on boring paperwork, though I'm trying to stop."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"To be fair, I used to procrastinate whenever a task felt overwhelming. Lately, though, I break big assignments into tiny 25-minute blocks, which makes it much easier to get started."*
+4. **Tình huống 4 — Nói chuyện thường ngày về thay đổi thói quen gần đây: *"Have you changed your routine lately?"***
+   * *Khi nào gặp:* Speaking Part 1/Part 2 hoặc tán gẫu cuối tuần.
+   * 🟢 **Trả lời ngắn (1 câu):** *"Yes, I've started going to bed earlier instead of scrolling on my phone."*
+   * 🔵 **Trả lời mở rộng (2–3 câu):** *"Yes, over the past month I've been trying to sleep before 11 PM. Turning off notifications after 10 has helped me fall asleep faster and wake up feeling way more refreshed."*
+
+### 3. Luyện Viết Đúng Câu Ngắn ➡️ Câu Dài Theo Chủ Đề (Short-to-Long Sentence Builder)
+
+1. **Chuỗi 1 (Quản lý thời gian bằng lịch trình):**
+   * 🟢 *Câu ngắn (9 từ):* `I write a daily schedule in my phone every night.`
+   * 🟡 *Câu vừa (18 từ):* `I synchronize my daily schedule on Google Calendar every night so that I never miss important deadlines.`
+   * 🔵 *Câu dài (30 từ):* `Before going to bed every night, I map out my schedule on Google Calendar, which helps me prioritize urgent tasks and start the next morning with a clear mind.`
+   * *Điểm ngữ pháp cần giữ sạch:* `every night` đi với Hiện tại đơn (`map out`, `helps`); dùng `which` thay thế cho cả hành động lập lịch.
+2. **Chuỗi 2 (Ngủ nghỉ thất thường — hợp Part 2 & Task 2):**
+   * 🟢 *Câu ngắn (9 từ):* `Staying up late makes students feel tired in class.`
+   * 🟡 *Câu vừa (18 từ):* `Maintaining an erratic sleep schedule makes students feel sluggish and weakens their concentration during morning lectures.`
+   * 🔵 *Câu dài (31 từ):* `Because many young people stay up past midnight scrolling through social media, their natural sleep cycle is disrupted, leaving them mentally exhausted and less productive throughout the entire next day.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động hiện tại `is disrupted` (có đủ `is + V3/ed`); cụm chủ ngữ `many young people` là số nhiều đi với `stay`.
+3. **Chuỗi 3 (Tách biệt giờ làm và giờ nghỉ):**
+   * 🟢 *Câu ngắn (9 từ):* `Office workers need enough rest after a busy week.`
+   * 🟡 *Câu vừa (18 từ):* `Office workers need uninterrupted rest on weekends to recover from heavy workloads and prevent long-term burnout.`
+   * 🔵 *Câu dài (30 từ):* `Unless employees are given clear boundaries between work and personal time, they tend to check messages constantly at night, which gradually damages both their sleep quality and family relationships.`
+   * *Điểm ngữ pháp cần giữ sạch:* Bị động `are given`; cấu trúc `both A and B` song song hai cụm danh từ (`sleep quality` và `family relationships`).

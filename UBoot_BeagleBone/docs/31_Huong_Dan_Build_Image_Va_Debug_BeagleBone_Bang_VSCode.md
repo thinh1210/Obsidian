@@ -1,4 +1,4 @@
-# Chương 31: Hướng Dẫn Build Image & Cấu Hình Remote Debug BeagleBone Black Bằng VS Code Trên Máy Chủ Host
+v # Chương 31: Hướng Dẫn Build Image & Cấu Hình Remote Debug BeagleBone Black Bằng VS Code Trên Máy Chủ Host
 
 ---
 
